@@ -81,12 +81,12 @@ Contoh Response:
   {
     "id": "1101",
     "province_id": "11",
-    "name": "KABUPATEN SIMEULUE"
+    "name": "KAB.  SIMEULUE"
   },
   {
     "id": "1102",
     "province_id": "11",
-    "name": "KABUPATEN ACEH SINGKIL"
+    "name": "KAB.  ACEH SINGKIL"
   },
   ...
 ]
@@ -179,7 +179,7 @@ Contoh Response:
 GET https://emsifa.github.io/api-wilayah-indonesia/api/regency/{regencyId}.json
 ```
 
-Contoh untuk mengambil data kabupaten Aceh Selatan (ID = 1103):
+Contoh untuk mengambil data KAB.  Aceh Selatan (ID = 1103):
 
 ```
 GET https://emsifa.github.io/api-wilayah-indonesia/api/regency/1103.json
@@ -191,7 +191,7 @@ Contoh Response:
 {
   "id": "1103",
   "province_id": "11",
-  "name": "KABUPATEN ACEH SELATAN"
+  "name": "KAB.  ACEH SELATAN"
 }
 ```
 
