@@ -15,7 +15,7 @@ function getCurrentUrl() {
 const el = new Vue({
   el: '#app',
   data: {
-    baseApiUrl: getCurrentUrl() + '/api',
+    baseApiUrl: getCurrentUrl() + '/apiv2',
     provinces: [],
     regencies: [],
     districts: [],
@@ -130,7 +130,7 @@ const el = new Vue({
   methods: {
     async fetchProvinces() {
       this.fetchingProvinces = true
-      const result = await fetch(`api/provinces.json`)
+      const result = await fetch(`apiv2/provinces.json`)
       this.fetchingProvinces = false
       this.provinces = await result.json()
     },
@@ -140,7 +140,7 @@ const el = new Vue({
         return
       }
       this.fetchingRegencies = true
-      const result = await fetch(`api/regencies/${this.provinceId}.json`)
+      const result = await fetch(`apiv2/regencies/${this.provinceId}.json`)
       this.fetchingRegencies = false
       this.regencies = await result.json()
     },
@@ -151,7 +151,7 @@ const el = new Vue({
       }
 
       this.fetchingDistricts = true
-      const result = await fetch(`api/districts/${this.regencyId}.json`)
+      const result = await fetch(`apiv2/districts/${this.regencyId}.json`)
       this.fetchingDistricts = false
       this.districts = await result.json()
     },
@@ -162,7 +162,7 @@ const el = new Vue({
       }
 
       this.fetchingVillages = true
-      const result = await fetch(`api/villages/${this.districtId}.json`)
+      const result = await fetch(`apiv2/villages/${this.districtId}.json`)
       this.fetchingVillages = false
       this.villages = await result.json()
     }
