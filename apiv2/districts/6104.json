@@ -1,1 +1,102 @@
-[{"id": "610401", "regency_id": "6104", "name": "MATAN HILIR UTARA"}, {"id": "610402", "regency_id": "6104", "name": "MARAU"}, {"id": "610403", "regency_id": "6104", "name": "MANIS MATA"}, {"id": "610404", "regency_id": "6104", "name": "KENDAWANGAN"}, {"id": "610405", "regency_id": "6104", "name": "SANDAI"}, {"id": "610407", "regency_id": "6104", "name": "SUNGAI LAUR"}, {"id": "610408", "regency_id": "6104", "name": "SIMPANG HULU"}, {"id": "610411", "regency_id": "6104", "name": "NANGA TAYAP"}, {"id": "610412", "regency_id": "6104", "name": "MATAN HILIR SELATAN"}, {"id": "610413", "regency_id": "6104", "name": "TUMBANG TITI"}, {"id": "610414", "regency_id": "6104", "name": "JELAI HULU"}, {"id": "610416", "regency_id": "6104", "name": "DELTA PAWAN"}, {"id": "610417", "regency_id": "6104", "name": "MUARA PAWAN"}, {"id": "610418", "regency_id": "6104", "name": "BENUA KAYONG"}, {"id": "610419", "regency_id": "6104", "name": "HULU SUNGAI"}, {"id": "610420", "regency_id": "6104", "name": "SIMPANG DUA"}, {"id": "610421", "regency_id": "6104", "name": "AIR UPAS"}, {"id": "610422", "regency_id": "6104", "name": "SINGKUP"}, {"id": "610424", "regency_id": "6104", "name": "PEMAHAN"}, {"id": "610425", "regency_id": "6104", "name": "SUNGAI MELAYU RAYAK"}]
+[
+  {
+    "id": "610401",
+    "regency_id": "6104",
+    "name": "MATAN HILIR UTARA"
+  },
+  {
+    "id": "610402",
+    "regency_id": "6104",
+    "name": "MARAU"
+  },
+  {
+    "id": "610403",
+    "regency_id": "6104",
+    "name": "MANIS MATA"
+  },
+  {
+    "id": "610404",
+    "regency_id": "6104",
+    "name": "KENDAWANGAN"
+  },
+  {
+    "id": "610405",
+    "regency_id": "6104",
+    "name": "SANDAI"
+  },
+  {
+    "id": "610407",
+    "regency_id": "6104",
+    "name": "SUNGAI LAUR"
+  },
+  {
+    "id": "610408",
+    "regency_id": "6104",
+    "name": "SIMPANG HULU"
+  },
+  {
+    "id": "610411",
+    "regency_id": "6104",
+    "name": "NANGA TAYAP"
+  },
+  {
+    "id": "610412",
+    "regency_id": "6104",
+    "name": "MATAN HILIR SELATAN"
+  },
+  {
+    "id": "610413",
+    "regency_id": "6104",
+    "name": "TUMBANG TITI"
+  },
+  {
+    "id": "610414",
+    "regency_id": "6104",
+    "name": "JELAI HULU"
+  },
+  {
+    "id": "610416",
+    "regency_id": "6104",
+    "name": "DELTA PAWAN"
+  },
+  {
+    "id": "610417",
+    "regency_id": "6104",
+    "name": "MUARA PAWAN"
+  },
+  {
+    "id": "610418",
+    "regency_id": "6104",
+    "name": "BENUA KAYONG"
+  },
+  {
+    "id": "610419",
+    "regency_id": "6104",
+    "name": "HULU SUNGAI"
+  },
+  {
+    "id": "610420",
+    "regency_id": "6104",
+    "name": "SIMPANG DUA"
+  },
+  {
+    "id": "610421",
+    "regency_id": "6104",
+    "name": "AIR UPAS"
+  },
+  {
+    "id": "610422",
+    "regency_id": "6104",
+    "name": "SINGKUP"
+  },
+  {
+    "id": "610424",
+    "regency_id": "6104",
+    "name": "PEMAHAN"
+  },
+  {
+    "id": "610425",
+    "regency_id": "6104",
+    "name": "SUNGAI MELAYU RAYAK"
+  }
+]

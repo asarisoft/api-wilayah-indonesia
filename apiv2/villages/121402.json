@@ -1,1 +1,57 @@
-[{"id": "1214022005", "district_id": "121402", "name": "DOLI-DOLI IDANOTAE"}, {"id": "1214022007", "district_id": "121402", "name": "HILIANA'A GOMO"}, {"id": "1214022015", "district_id": "121402", "name": "LAWA-LAWA LUO GOMO"}, {"id": "1214022017", "district_id": "121402", "name": "LOLOSONI"}, {"id": "1214022023", "district_id": "121402", "name": "ORAHILI GOMO"}, {"id": "1214022024", "district_id": "121402", "name": "SIFAORO'ASI GOMO"}, {"id": "1214022035", "district_id": "121402", "name": "TANONIKO'O"}, {"id": "1214022040", "district_id": "121402", "name": "SUKA MAJU MOHILI"}, {"id": "1214022041", "district_id": "121402", "name": "ORAHILI SIBOHOU"}, {"id": "1214022042", "district_id": "121402", "name": "GUNUNG GABUNGAN"}, {"id": "1214022043", "district_id": "121402", "name": "UMBU ORAHUA"}]
+[
+  {
+    "id": "1214022005",
+    "district_id": "121402",
+    "name": "DOLI-DOLI IDANOTAE"
+  },
+  {
+    "id": "1214022007",
+    "district_id": "121402",
+    "name": "HILIANA'A GOMO"
+  },
+  {
+    "id": "1214022015",
+    "district_id": "121402",
+    "name": "LAWA-LAWA LUO GOMO"
+  },
+  {
+    "id": "1214022017",
+    "district_id": "121402",
+    "name": "LOLOSONI"
+  },
+  {
+    "id": "1214022023",
+    "district_id": "121402",
+    "name": "ORAHILI GOMO"
+  },
+  {
+    "id": "1214022024",
+    "district_id": "121402",
+    "name": "SIFAORO'ASI GOMO"
+  },
+  {
+    "id": "1214022035",
+    "district_id": "121402",
+    "name": "TANONIKO'O"
+  },
+  {
+    "id": "1214022040",
+    "district_id": "121402",
+    "name": "SUKA MAJU MOHILI"
+  },
+  {
+    "id": "1214022041",
+    "district_id": "121402",
+    "name": "ORAHILI SIBOHOU"
+  },
+  {
+    "id": "1214022042",
+    "district_id": "121402",
+    "name": "GUNUNG GABUNGAN"
+  },
+  {
+    "id": "1214022043",
+    "district_id": "121402",
+    "name": "UMBU ORAHUA"
+  }
+]

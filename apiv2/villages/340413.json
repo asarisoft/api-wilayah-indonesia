@@ -1,1 +1,27 @@
-[{"id": "3404132001", "district_id": "340413", "name": "CATURHARJO"}, {"id": "3404132002", "district_id": "340413", "name": "TRIHARJO"}, {"id": "3404132003", "district_id": "340413", "name": "TRIDADI"}, {"id": "3404132004", "district_id": "340413", "name": "PANDOWOHARJO"}, {"id": "3404132005", "district_id": "340413", "name": "TRIMULYO"}]
+[
+  {
+    "id": "3404132001",
+    "district_id": "340413",
+    "name": "CATURHARJO"
+  },
+  {
+    "id": "3404132002",
+    "district_id": "340413",
+    "name": "TRIHARJO"
+  },
+  {
+    "id": "3404132003",
+    "district_id": "340413",
+    "name": "TRIDADI"
+  },
+  {
+    "id": "3404132004",
+    "district_id": "340413",
+    "name": "PANDOWOHARJO"
+  },
+  {
+    "id": "3404132005",
+    "district_id": "340413",
+    "name": "TRIMULYO"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "8102192001", "district_id": "810219", "name": "DANAR OHOISEB"}, {"id": "8102192002", "district_id": "810219", "name": "DANAR TERNATE"}, {"id": "8102192003", "district_id": "810219", "name": "DANAR LUMEFAR"}, {"id": "8102192004", "district_id": "810219", "name": "ELAAR NGURSOIN"}, {"id": "8102192005", "district_id": "810219", "name": "ELAAR LAMAGORANG"}, {"id": "8102192006", "district_id": "810219", "name": "ELAAR LET"}, {"id": "8102192007", "district_id": "810219", "name": "SARE"}, {"id": "8102192008", "district_id": "810219", "name": "MAAR"}, {"id": "8102192009", "district_id": "810219", "name": "UF"}, {"id": "8102192010", "district_id": "810219", "name": "NGURWUL"}, {"id": "8102192011", "district_id": "810219", "name": "GARARA"}]
+[
+  {
+    "id": "8102192001",
+    "district_id": "810219",
+    "name": "DANAR OHOISEB"
+  },
+  {
+    "id": "8102192002",
+    "district_id": "810219",
+    "name": "DANAR TERNATE"
+  },
+  {
+    "id": "8102192003",
+    "district_id": "810219",
+    "name": "DANAR LUMEFAR"
+  },
+  {
+    "id": "8102192004",
+    "district_id": "810219",
+    "name": "ELAAR NGURSOIN"
+  },
+  {
+    "id": "8102192005",
+    "district_id": "810219",
+    "name": "ELAAR LAMAGORANG"
+  },
+  {
+    "id": "8102192006",
+    "district_id": "810219",
+    "name": "ELAAR LET"
+  },
+  {
+    "id": "8102192007",
+    "district_id": "810219",
+    "name": "SARE"
+  },
+  {
+    "id": "8102192008",
+    "district_id": "810219",
+    "name": "MAAR"
+  },
+  {
+    "id": "8102192009",
+    "district_id": "810219",
+    "name": "UF"
+  },
+  {
+    "id": "8102192010",
+    "district_id": "810219",
+    "name": "NGURWUL"
+  },
+  {
+    "id": "8102192011",
+    "district_id": "810219",
+    "name": "GARARA"
+  }
+]

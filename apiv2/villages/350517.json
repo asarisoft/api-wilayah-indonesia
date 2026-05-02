@@ -1,1 +1,47 @@
-[{"id": "3505171001", "district_id": "350517", "name": "BERU"}, {"id": "3505171002", "district_id": "350517", "name": "BABADAN"}, {"id": "3505171003", "district_id": "350517", "name": "TANGKIL"}, {"id": "3505171004", "district_id": "350517", "name": "WLINGI"}, {"id": "3505171006", "district_id": "350517", "name": "KLEMUNAN"}, {"id": "3505172005", "district_id": "350517", "name": "TEMBALANG"}, {"id": "3505172007", "district_id": "350517", "name": "NGADIRENGGO"}, {"id": "3505172008", "district_id": "350517", "name": "TEGALASRI"}, {"id": "3505172009", "district_id": "350517", "name": "BALEREJO"}]
+[
+  {
+    "id": "3505171001",
+    "district_id": "350517",
+    "name": "BERU"
+  },
+  {
+    "id": "3505171002",
+    "district_id": "350517",
+    "name": "BABADAN"
+  },
+  {
+    "id": "3505171003",
+    "district_id": "350517",
+    "name": "TANGKIL"
+  },
+  {
+    "id": "3505171004",
+    "district_id": "350517",
+    "name": "WLINGI"
+  },
+  {
+    "id": "3505171006",
+    "district_id": "350517",
+    "name": "KLEMUNAN"
+  },
+  {
+    "id": "3505172005",
+    "district_id": "350517",
+    "name": "TEMBALANG"
+  },
+  {
+    "id": "3505172007",
+    "district_id": "350517",
+    "name": "NGADIRENGGO"
+  },
+  {
+    "id": "3505172008",
+    "district_id": "350517",
+    "name": "TEGALASRI"
+  },
+  {
+    "id": "3505172009",
+    "district_id": "350517",
+    "name": "BALEREJO"
+  }
+]

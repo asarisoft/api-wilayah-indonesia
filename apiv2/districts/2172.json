@@ -1,1 +1,22 @@
-[{"id": "217201", "regency_id": "2172", "name": "TANJUNG PINANG BARAT"}, {"id": "217202", "regency_id": "2172", "name": "TANJUNG PINANG TIMUR"}, {"id": "217203", "regency_id": "2172", "name": "TANJUNG PINANG KOTA"}, {"id": "217204", "regency_id": "2172", "name": "BUKIT BESTARI"}]
+[
+  {
+    "id": "217201",
+    "regency_id": "2172",
+    "name": "TANJUNG PINANG BARAT"
+  },
+  {
+    "id": "217202",
+    "regency_id": "2172",
+    "name": "TANJUNG PINANG TIMUR"
+  },
+  {
+    "id": "217203",
+    "regency_id": "2172",
+    "name": "TANJUNG PINANG KOTA"
+  },
+  {
+    "id": "217204",
+    "regency_id": "2172",
+    "name": "BUKIT BESTARI"
+  }
+]

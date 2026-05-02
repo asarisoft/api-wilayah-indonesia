@@ -1,1 +1,52 @@
-[{"id": "9507352001", "district_id": "950735", "name": "KELULOME"}, {"id": "9507352002", "district_id": "950735", "name": "WIYAGI"}, {"id": "9507352003", "district_id": "950735", "name": "TALOGI"}, {"id": "9507352004", "district_id": "950735", "name": "WIRINGGAME"}, {"id": "9507352005", "district_id": "950735", "name": "WEGENPURA"}, {"id": "9507352006", "district_id": "950735", "name": "ILUNGGIJIME"}, {"id": "9507352007", "district_id": "950735", "name": "JUYIGA"}, {"id": "9507352008", "district_id": "950735", "name": "PERAGIME"}, {"id": "9507352009", "district_id": "950735", "name": "MULUNERI"}, {"id": "9507352010", "district_id": "950735", "name": "LEWINAGI"}]
+[
+  {
+    "id": "9507352001",
+    "district_id": "950735",
+    "name": "KELULOME"
+  },
+  {
+    "id": "9507352002",
+    "district_id": "950735",
+    "name": "WIYAGI"
+  },
+  {
+    "id": "9507352003",
+    "district_id": "950735",
+    "name": "TALOGI"
+  },
+  {
+    "id": "9507352004",
+    "district_id": "950735",
+    "name": "WIRINGGAME"
+  },
+  {
+    "id": "9507352005",
+    "district_id": "950735",
+    "name": "WEGENPURA"
+  },
+  {
+    "id": "9507352006",
+    "district_id": "950735",
+    "name": "ILUNGGIJIME"
+  },
+  {
+    "id": "9507352007",
+    "district_id": "950735",
+    "name": "JUYIGA"
+  },
+  {
+    "id": "9507352008",
+    "district_id": "950735",
+    "name": "PERAGIME"
+  },
+  {
+    "id": "9507352009",
+    "district_id": "950735",
+    "name": "MULUNERI"
+  },
+  {
+    "id": "9507352010",
+    "district_id": "950735",
+    "name": "LEWINAGI"
+  }
+]

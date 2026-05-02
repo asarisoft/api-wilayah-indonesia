@@ -1,1 +1,72 @@
-[{"id": "3316152001", "district_id": "331615", "name": "GOMBANG"}, {"id": "3316152002", "district_id": "331615", "name": "SARIREJO"}, {"id": "3316152003", "district_id": "331615", "name": "KARANGANYAR"}, {"id": "3316152004", "district_id": "331615", "name": "KARANG"}, {"id": "3316152005", "district_id": "331615", "name": "PRANTAAN"}, {"id": "3316152006", "district_id": "331615", "name": "JERUK"}, {"id": "3316152007", "district_id": "331615", "name": "BOGOREJO"}, {"id": "3316152008", "district_id": "331615", "name": "GEMBOL"}, {"id": "3316152009", "district_id": "331615", "name": "TEMPUREJO"}, {"id": "3316152010", "district_id": "331615", "name": "GAYAM"}, {"id": "3316152011", "district_id": "331615", "name": "SENDANGREJO"}, {"id": "3316152012", "district_id": "331615", "name": "GANDU"}, {"id": "3316152013", "district_id": "331615", "name": "NGLENGKIR"}, {"id": "3316152014", "district_id": "331615", "name": "JURANGJERO"}]
+[
+  {
+    "id": "3316152001",
+    "district_id": "331615",
+    "name": "GOMBANG"
+  },
+  {
+    "id": "3316152002",
+    "district_id": "331615",
+    "name": "SARIREJO"
+  },
+  {
+    "id": "3316152003",
+    "district_id": "331615",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3316152004",
+    "district_id": "331615",
+    "name": "KARANG"
+  },
+  {
+    "id": "3316152005",
+    "district_id": "331615",
+    "name": "PRANTAAN"
+  },
+  {
+    "id": "3316152006",
+    "district_id": "331615",
+    "name": "JERUK"
+  },
+  {
+    "id": "3316152007",
+    "district_id": "331615",
+    "name": "BOGOREJO"
+  },
+  {
+    "id": "3316152008",
+    "district_id": "331615",
+    "name": "GEMBOL"
+  },
+  {
+    "id": "3316152009",
+    "district_id": "331615",
+    "name": "TEMPUREJO"
+  },
+  {
+    "id": "3316152010",
+    "district_id": "331615",
+    "name": "GAYAM"
+  },
+  {
+    "id": "3316152011",
+    "district_id": "331615",
+    "name": "SENDANGREJO"
+  },
+  {
+    "id": "3316152012",
+    "district_id": "331615",
+    "name": "GANDU"
+  },
+  {
+    "id": "3316152013",
+    "district_id": "331615",
+    "name": "NGLENGKIR"
+  },
+  {
+    "id": "3316152014",
+    "district_id": "331615",
+    "name": "JURANGJERO"
+  }
+]

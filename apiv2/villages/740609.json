@@ -1,1 +1,42 @@
-[{"id": "7406091008", "district_id": "740609", "name": "ANEKA MARGA"}, {"id": "7406092001", "district_id": "740609", "name": "WUMBUBANGKA"}, {"id": "7406092002", "district_id": "740609", "name": "HUKAEA"}, {"id": "7406092003", "district_id": "740609", "name": "LANTOWUA"}, {"id": "7406092004", "district_id": "740609", "name": "TEMBE"}, {"id": "7406092005", "district_id": "740609", "name": "WATU MENTADE"}, {"id": "7406092006", "district_id": "740609", "name": "MARGA JAYA"}, {"id": "7406092007", "district_id": "740609", "name": "TUNAS BARU"}]
+[
+  {
+    "id": "7406091008",
+    "district_id": "740609",
+    "name": "ANEKA MARGA"
+  },
+  {
+    "id": "7406092001",
+    "district_id": "740609",
+    "name": "WUMBUBANGKA"
+  },
+  {
+    "id": "7406092002",
+    "district_id": "740609",
+    "name": "HUKAEA"
+  },
+  {
+    "id": "7406092003",
+    "district_id": "740609",
+    "name": "LANTOWUA"
+  },
+  {
+    "id": "7406092004",
+    "district_id": "740609",
+    "name": "TEMBE"
+  },
+  {
+    "id": "7406092005",
+    "district_id": "740609",
+    "name": "WATU MENTADE"
+  },
+  {
+    "id": "7406092006",
+    "district_id": "740609",
+    "name": "MARGA JAYA"
+  },
+  {
+    "id": "7406092007",
+    "district_id": "740609",
+    "name": "TUNAS BARU"
+  }
+]

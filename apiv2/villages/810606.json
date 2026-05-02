@@ -1,1 +1,27 @@
-[{"id": "8106062001", "district_id": "810606", "name": "MANUSA"}, {"id": "8106062002", "district_id": "810606", "name": "RAMBATU"}, {"id": "8106062003", "district_id": "810606", "name": "RUMBERU"}, {"id": "8106062004", "district_id": "810606", "name": "HONITETU"}, {"id": "8106062005", "district_id": "810606", "name": "HUKUANAKOTA"}]
+[
+  {
+    "id": "8106062001",
+    "district_id": "810606",
+    "name": "MANUSA"
+  },
+  {
+    "id": "8106062002",
+    "district_id": "810606",
+    "name": "RAMBATU"
+  },
+  {
+    "id": "8106062003",
+    "district_id": "810606",
+    "name": "RUMBERU"
+  },
+  {
+    "id": "8106062004",
+    "district_id": "810606",
+    "name": "HONITETU"
+  },
+  {
+    "id": "8106062005",
+    "district_id": "810606",
+    "name": "HUKUANAKOTA"
+  }
+]

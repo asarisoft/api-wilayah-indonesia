@@ -1,1 +1,112 @@
-[{"id": "1808041009", "district_id": "180804", "name": "TAMAN ASRI"}, {"id": "1808041015", "district_id": "180804", "name": "TIUH BALAK PASAR"}, {"id": "1808041016", "district_id": "180804", "name": "CAMPUR ASRI"}, {"id": "1808042001", "district_id": "180804", "name": "SETIA NEGARA"}, {"id": "1808042002", "district_id": "180804", "name": "GEDUNG PAKUON"}, {"id": "1808042003", "district_id": "180804", "name": "BUMI MERAPI"}, {"id": "1808042004", "district_id": "180804", "name": "BANJAR SARI"}, {"id": "1808042005", "district_id": "180804", "name": "GUNUNG KATUN"}, {"id": "1808042006", "district_id": "180804", "name": "BHAKTI NEGARA"}, {"id": "1808042007", "district_id": "180804", "name": "BUMI REJO"}, {"id": "1808042008", "district_id": "180804", "name": "SUKOSARI"}, {"id": "1808042010", "district_id": "180804", "name": "BANJAR SETIA"}, {"id": "1808042011", "district_id": "180804", "name": "GEDUNG REJO"}, {"id": "1808042012", "district_id": "180804", "name": "BANJAR AGUNG"}, {"id": "1808042013", "district_id": "180804", "name": "CUGAH"}, {"id": "1808042014", "district_id": "180804", "name": "TIUH BALAK I"}, {"id": "1808042017", "district_id": "180804", "name": "TIUH BALAK"}, {"id": "1808042018", "district_id": "180804", "name": "MEKAR ASRI"}, {"id": "1808042019", "district_id": "180804", "name": "BANJAR NEGARA"}, {"id": "1808042020", "district_id": "180804", "name": "BANJAR MASIN"}, {"id": "1808042021", "district_id": "180804", "name": "BANJAR MULYA"}, {"id": "1808042022", "district_id": "180804", "name": "BANJAR BARU"}]
+[
+  {
+    "id": "1808041009",
+    "district_id": "180804",
+    "name": "TAMAN ASRI"
+  },
+  {
+    "id": "1808041015",
+    "district_id": "180804",
+    "name": "TIUH BALAK PASAR"
+  },
+  {
+    "id": "1808041016",
+    "district_id": "180804",
+    "name": "CAMPUR ASRI"
+  },
+  {
+    "id": "1808042001",
+    "district_id": "180804",
+    "name": "SETIA NEGARA"
+  },
+  {
+    "id": "1808042002",
+    "district_id": "180804",
+    "name": "GEDUNG PAKUON"
+  },
+  {
+    "id": "1808042003",
+    "district_id": "180804",
+    "name": "BUMI MERAPI"
+  },
+  {
+    "id": "1808042004",
+    "district_id": "180804",
+    "name": "BANJAR SARI"
+  },
+  {
+    "id": "1808042005",
+    "district_id": "180804",
+    "name": "GUNUNG KATUN"
+  },
+  {
+    "id": "1808042006",
+    "district_id": "180804",
+    "name": "BHAKTI NEGARA"
+  },
+  {
+    "id": "1808042007",
+    "district_id": "180804",
+    "name": "BUMI REJO"
+  },
+  {
+    "id": "1808042008",
+    "district_id": "180804",
+    "name": "SUKOSARI"
+  },
+  {
+    "id": "1808042010",
+    "district_id": "180804",
+    "name": "BANJAR SETIA"
+  },
+  {
+    "id": "1808042011",
+    "district_id": "180804",
+    "name": "GEDUNG REJO"
+  },
+  {
+    "id": "1808042012",
+    "district_id": "180804",
+    "name": "BANJAR AGUNG"
+  },
+  {
+    "id": "1808042013",
+    "district_id": "180804",
+    "name": "CUGAH"
+  },
+  {
+    "id": "1808042014",
+    "district_id": "180804",
+    "name": "TIUH BALAK I"
+  },
+  {
+    "id": "1808042017",
+    "district_id": "180804",
+    "name": "TIUH BALAK"
+  },
+  {
+    "id": "1808042018",
+    "district_id": "180804",
+    "name": "MEKAR ASRI"
+  },
+  {
+    "id": "1808042019",
+    "district_id": "180804",
+    "name": "BANJAR NEGARA"
+  },
+  {
+    "id": "1808042020",
+    "district_id": "180804",
+    "name": "BANJAR MASIN"
+  },
+  {
+    "id": "1808042021",
+    "district_id": "180804",
+    "name": "BANJAR MULYA"
+  },
+  {
+    "id": "1808042022",
+    "district_id": "180804",
+    "name": "BANJAR BARU"
+  }
+]

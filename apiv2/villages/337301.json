@@ -1,1 +1,32 @@
-[{"id": "3373011001", "district_id": "337301", "name": "BLOTONGAN"}, {"id": "3373011002", "district_id": "337301", "name": "SIDOREJO LOR"}, {"id": "3373011003", "district_id": "337301", "name": "SALATIGA"}, {"id": "3373011004", "district_id": "337301", "name": "BUGEL"}, {"id": "3373011005", "district_id": "337301", "name": "KAUMAN KIDUL"}, {"id": "3373011006", "district_id": "337301", "name": "PULUTAN"}]
+[
+  {
+    "id": "3373011001",
+    "district_id": "337301",
+    "name": "BLOTONGAN"
+  },
+  {
+    "id": "3373011002",
+    "district_id": "337301",
+    "name": "SIDOREJO LOR"
+  },
+  {
+    "id": "3373011003",
+    "district_id": "337301",
+    "name": "SALATIGA"
+  },
+  {
+    "id": "3373011004",
+    "district_id": "337301",
+    "name": "BUGEL"
+  },
+  {
+    "id": "3373011005",
+    "district_id": "337301",
+    "name": "KAUMAN KIDUL"
+  },
+  {
+    "id": "3373011006",
+    "district_id": "337301",
+    "name": "PULUTAN"
+  }
+]

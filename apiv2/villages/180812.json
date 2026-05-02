@@ -1,1 +1,67 @@
-[{"id": "1808122001", "district_id": "180812", "name": "NEGERI BESAR"}, {"id": "1808122002", "district_id": "180812", "name": "KILING-KILING"}, {"id": "1808122003", "district_id": "180812", "name": "KALI AWI"}, {"id": "1808122004", "district_id": "180812", "name": "TIUH BARU"}, {"id": "1808122005", "district_id": "180812", "name": "BIMA SAKTI"}, {"id": "1808122006", "district_id": "180812", "name": "TEGAL MUKTI"}, {"id": "1808122007", "district_id": "180812", "name": "NEGARA JAYA"}, {"id": "1808122008", "district_id": "180812", "name": "PAGAR IMAN"}, {"id": "1808122009", "district_id": "180812", "name": "SRI BASUKI"}, {"id": "1808122010", "district_id": "180812", "name": "KALI AWI INDAH"}, {"id": "1808122011", "district_id": "180812", "name": "NEGERI JAYA"}, {"id": "1808122012", "district_id": "180812", "name": "TANJUNG MAS"}, {"id": "1808122013", "district_id": "180812", "name": "NEGERI KASIH"}]
+[
+  {
+    "id": "1808122001",
+    "district_id": "180812",
+    "name": "NEGERI BESAR"
+  },
+  {
+    "id": "1808122002",
+    "district_id": "180812",
+    "name": "KILING-KILING"
+  },
+  {
+    "id": "1808122003",
+    "district_id": "180812",
+    "name": "KALI AWI"
+  },
+  {
+    "id": "1808122004",
+    "district_id": "180812",
+    "name": "TIUH BARU"
+  },
+  {
+    "id": "1808122005",
+    "district_id": "180812",
+    "name": "BIMA SAKTI"
+  },
+  {
+    "id": "1808122006",
+    "district_id": "180812",
+    "name": "TEGAL MUKTI"
+  },
+  {
+    "id": "1808122007",
+    "district_id": "180812",
+    "name": "NEGARA JAYA"
+  },
+  {
+    "id": "1808122008",
+    "district_id": "180812",
+    "name": "PAGAR IMAN"
+  },
+  {
+    "id": "1808122009",
+    "district_id": "180812",
+    "name": "SRI BASUKI"
+  },
+  {
+    "id": "1808122010",
+    "district_id": "180812",
+    "name": "KALI AWI INDAH"
+  },
+  {
+    "id": "1808122011",
+    "district_id": "180812",
+    "name": "NEGERI JAYA"
+  },
+  {
+    "id": "1808122012",
+    "district_id": "180812",
+    "name": "TANJUNG MAS"
+  },
+  {
+    "id": "1808122013",
+    "district_id": "180812",
+    "name": "NEGERI KASIH"
+  }
+]

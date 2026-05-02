@@ -1,1 +1,37 @@
-[{"id": "3375011002", "district_id": "337501", "name": "MEDONO"}, {"id": "3375011003", "district_id": "337501", "name": "PODOSUGIH"}, {"id": "3375011004", "district_id": "337501", "name": "SAPURO KEBULEN"}, {"id": "3375011006", "district_id": "337501", "name": "BENDAN KERGON"}, {"id": "3375011008", "district_id": "337501", "name": "PASIRKRATONKRAMAT"}, {"id": "3375011009", "district_id": "337501", "name": "TIRTO"}, {"id": "3375011012", "district_id": "337501", "name": "PRINGREJO"}]
+[
+  {
+    "id": "3375011002",
+    "district_id": "337501",
+    "name": "MEDONO"
+  },
+  {
+    "id": "3375011003",
+    "district_id": "337501",
+    "name": "PODOSUGIH"
+  },
+  {
+    "id": "3375011004",
+    "district_id": "337501",
+    "name": "SAPURO KEBULEN"
+  },
+  {
+    "id": "3375011006",
+    "district_id": "337501",
+    "name": "BENDAN KERGON"
+  },
+  {
+    "id": "3375011008",
+    "district_id": "337501",
+    "name": "PASIRKRATONKRAMAT"
+  },
+  {
+    "id": "3375011009",
+    "district_id": "337501",
+    "name": "TIRTO"
+  },
+  {
+    "id": "3375011012",
+    "district_id": "337501",
+    "name": "PRINGREJO"
+  }
+]

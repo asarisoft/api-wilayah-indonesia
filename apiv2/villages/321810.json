@@ -1,1 +1,37 @@
-[{"id": "3218102001", "district_id": "321810", "name": "SIDAMULIH"}, {"id": "3218102002", "district_id": "321810", "name": "CIKALONG"}, {"id": "3218102003", "district_id": "321810", "name": "SUKARESIK"}, {"id": "3218102004", "district_id": "321810", "name": "CIKEMBULAN"}, {"id": "3218102005", "district_id": "321810", "name": "PAJATEN"}, {"id": "3218102006", "district_id": "321810", "name": "KERSARATU"}, {"id": "3218102007", "district_id": "321810", "name": "KALIJATI"}]
+[
+  {
+    "id": "3218102001",
+    "district_id": "321810",
+    "name": "SIDAMULIH"
+  },
+  {
+    "id": "3218102002",
+    "district_id": "321810",
+    "name": "CIKALONG"
+  },
+  {
+    "id": "3218102003",
+    "district_id": "321810",
+    "name": "SUKARESIK"
+  },
+  {
+    "id": "3218102004",
+    "district_id": "321810",
+    "name": "CIKEMBULAN"
+  },
+  {
+    "id": "3218102005",
+    "district_id": "321810",
+    "name": "PAJATEN"
+  },
+  {
+    "id": "3218102006",
+    "district_id": "321810",
+    "name": "KERSARATU"
+  },
+  {
+    "id": "3218102007",
+    "district_id": "321810",
+    "name": "KALIJATI"
+  }
+]

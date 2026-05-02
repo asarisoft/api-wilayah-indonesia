@@ -1,1 +1,62 @@
-[{"id": "1407162001", "district_id": "140716", "name": "TANJUNG MEDAN"}, {"id": "1407162002", "district_id": "140716", "name": "TANJUNG MEDAN UTARA"}, {"id": "1407162003", "district_id": "140716", "name": "TANJUNG MEDAN BARAT"}, {"id": "1407162004", "district_id": "140716", "name": "SEI MERANTI"}, {"id": "1407162005", "district_id": "140716", "name": "SEI MERANTI DARUSSALAM"}, {"id": "1407162006", "district_id": "140716", "name": "AKAR BELINGKAR"}, {"id": "1407162007", "district_id": "140716", "name": "TANGGA BATU"}, {"id": "1407162008", "district_id": "140716", "name": "PERKEBUNAN TANJUNG MEDAN"}, {"id": "1407162009", "district_id": "140716", "name": "SRI KAYANGAN"}, {"id": "1407162010", "district_id": "140716", "name": "PONDOK KRESEK"}, {"id": "1407162011", "district_id": "140716", "name": "SUNGAI TAPAH"}, {"id": "1407162012", "district_id": "140716", "name": "TANJUNG SARI"}]
+[
+  {
+    "id": "1407162001",
+    "district_id": "140716",
+    "name": "TANJUNG MEDAN"
+  },
+  {
+    "id": "1407162002",
+    "district_id": "140716",
+    "name": "TANJUNG MEDAN UTARA"
+  },
+  {
+    "id": "1407162003",
+    "district_id": "140716",
+    "name": "TANJUNG MEDAN BARAT"
+  },
+  {
+    "id": "1407162004",
+    "district_id": "140716",
+    "name": "SEI MERANTI"
+  },
+  {
+    "id": "1407162005",
+    "district_id": "140716",
+    "name": "SEI MERANTI DARUSSALAM"
+  },
+  {
+    "id": "1407162006",
+    "district_id": "140716",
+    "name": "AKAR BELINGKAR"
+  },
+  {
+    "id": "1407162007",
+    "district_id": "140716",
+    "name": "TANGGA BATU"
+  },
+  {
+    "id": "1407162008",
+    "district_id": "140716",
+    "name": "PERKEBUNAN TANJUNG MEDAN"
+  },
+  {
+    "id": "1407162009",
+    "district_id": "140716",
+    "name": "SRI KAYANGAN"
+  },
+  {
+    "id": "1407162010",
+    "district_id": "140716",
+    "name": "PONDOK KRESEK"
+  },
+  {
+    "id": "1407162011",
+    "district_id": "140716",
+    "name": "SUNGAI TAPAH"
+  },
+  {
+    "id": "1407162012",
+    "district_id": "140716",
+    "name": "TANJUNG SARI"
+  }
+]

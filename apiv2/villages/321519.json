@@ -1,1 +1,57 @@
-[{"id": "3215192001", "district_id": "321519", "name": "KARYAMUKTI"}, {"id": "3215192002", "district_id": "321519", "name": "CIWARINGIN"}, {"id": "3215192003", "district_id": "321519", "name": "WARINGINKARYA"}, {"id": "3215192004", "district_id": "321519", "name": "KEDAWUNG"}, {"id": "3215192005", "district_id": "321519", "name": "KARANGTANJUNG"}, {"id": "3215192006", "district_id": "321519", "name": "PASIRTANJUNG"}, {"id": "3215192007", "district_id": "321519", "name": "LEMAHABANG"}, {"id": "3215192008", "district_id": "321519", "name": "LEMAHMUKTI"}, {"id": "3215192009", "district_id": "321519", "name": "PULOJAYA"}, {"id": "3215192010", "district_id": "321519", "name": "PULOKALAPA"}, {"id": "3215192011", "district_id": "321519", "name": "PULOMULYA"}]
+[
+  {
+    "id": "3215192001",
+    "district_id": "321519",
+    "name": "KARYAMUKTI"
+  },
+  {
+    "id": "3215192002",
+    "district_id": "321519",
+    "name": "CIWARINGIN"
+  },
+  {
+    "id": "3215192003",
+    "district_id": "321519",
+    "name": "WARINGINKARYA"
+  },
+  {
+    "id": "3215192004",
+    "district_id": "321519",
+    "name": "KEDAWUNG"
+  },
+  {
+    "id": "3215192005",
+    "district_id": "321519",
+    "name": "KARANGTANJUNG"
+  },
+  {
+    "id": "3215192006",
+    "district_id": "321519",
+    "name": "PASIRTANJUNG"
+  },
+  {
+    "id": "3215192007",
+    "district_id": "321519",
+    "name": "LEMAHABANG"
+  },
+  {
+    "id": "3215192008",
+    "district_id": "321519",
+    "name": "LEMAHMUKTI"
+  },
+  {
+    "id": "3215192009",
+    "district_id": "321519",
+    "name": "PULOJAYA"
+  },
+  {
+    "id": "3215192010",
+    "district_id": "321519",
+    "name": "PULOKALAPA"
+  },
+  {
+    "id": "3215192011",
+    "district_id": "321519",
+    "name": "PULOMULYA"
+  }
+]

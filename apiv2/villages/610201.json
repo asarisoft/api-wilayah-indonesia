@@ -1,1 +1,42 @@
-[{"id": "6102011006", "district_id": "610201", "name": "TANJUNG"}, {"id": "6102011007", "district_id": "610201", "name": "TENGAH"}, {"id": "6102011009", "district_id": "610201", "name": "TERUSAN"}, {"id": "6102012001", "district_id": "610201", "name": "SENGKUBANG"}, {"id": "6102012002", "district_id": "610201", "name": "PENIBUNG"}, {"id": "6102012003", "district_id": "610201", "name": "PASIR"}, {"id": "6102012013", "district_id": "610201", "name": "KUALA SECAPAH"}, {"id": "6102012015", "district_id": "610201", "name": "MALIKIAN"}]
+[
+  {
+    "id": "6102011006",
+    "district_id": "610201",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "6102011007",
+    "district_id": "610201",
+    "name": "TENGAH"
+  },
+  {
+    "id": "6102011009",
+    "district_id": "610201",
+    "name": "TERUSAN"
+  },
+  {
+    "id": "6102012001",
+    "district_id": "610201",
+    "name": "SENGKUBANG"
+  },
+  {
+    "id": "6102012002",
+    "district_id": "610201",
+    "name": "PENIBUNG"
+  },
+  {
+    "id": "6102012003",
+    "district_id": "610201",
+    "name": "PASIR"
+  },
+  {
+    "id": "6102012013",
+    "district_id": "610201",
+    "name": "KUALA SECAPAH"
+  },
+  {
+    "id": "6102012015",
+    "district_id": "610201",
+    "name": "MALIKIAN"
+  }
+]

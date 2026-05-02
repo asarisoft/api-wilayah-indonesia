@@ -1,1 +1,37 @@
-[{"id": "9203142001", "district_id": "920314", "name": "DAREMBANG"}, {"id": "9203142002", "district_id": "920314", "name": "GORAS"}, {"id": "9203142003", "district_id": "920314", "name": "MITIMBER"}, {"id": "9203142004", "district_id": "920314", "name": "WAREMU"}, {"id": "9203142005", "district_id": "920314", "name": "WOS"}, {"id": "9203142006", "district_id": "920314", "name": "MBAHAMDANDRA"}, {"id": "9203142007", "district_id": "920314", "name": "GORAS SELATAN"}]
+[
+  {
+    "id": "9203142001",
+    "district_id": "920314",
+    "name": "DAREMBANG"
+  },
+  {
+    "id": "9203142002",
+    "district_id": "920314",
+    "name": "GORAS"
+  },
+  {
+    "id": "9203142003",
+    "district_id": "920314",
+    "name": "MITIMBER"
+  },
+  {
+    "id": "9203142004",
+    "district_id": "920314",
+    "name": "WAREMU"
+  },
+  {
+    "id": "9203142005",
+    "district_id": "920314",
+    "name": "WOS"
+  },
+  {
+    "id": "9203142006",
+    "district_id": "920314",
+    "name": "MBAHAMDANDRA"
+  },
+  {
+    "id": "9203142007",
+    "district_id": "920314",
+    "name": "GORAS SELATAN"
+  }
+]

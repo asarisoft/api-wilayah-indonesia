@@ -1,1 +1,57 @@
-[{"id": "5206132001", "district_id": "520613", "name": "WORO"}, {"id": "5206132002", "district_id": "520613", "name": "CAMPA"}, {"id": "5206132003", "district_id": "520613", "name": "MPURI"}, {"id": "5206132004", "district_id": "520613", "name": "NDANO"}, {"id": "5206132005", "district_id": "520613", "name": "MONGGO"}, {"id": "5206132006", "district_id": "520613", "name": "DENA"}, {"id": "5206132007", "district_id": "520613", "name": "RADE"}, {"id": "5206132008", "district_id": "520613", "name": "TONDA"}, {"id": "5206132009", "district_id": "520613", "name": "BOLO"}, {"id": "5206132010", "district_id": "520613", "name": "MADAWAU"}, {"id": "5206132011", "district_id": "520613", "name": "NCANDI"}]
+[
+  {
+    "id": "5206132001",
+    "district_id": "520613",
+    "name": "WORO"
+  },
+  {
+    "id": "5206132002",
+    "district_id": "520613",
+    "name": "CAMPA"
+  },
+  {
+    "id": "5206132003",
+    "district_id": "520613",
+    "name": "MPURI"
+  },
+  {
+    "id": "5206132004",
+    "district_id": "520613",
+    "name": "NDANO"
+  },
+  {
+    "id": "5206132005",
+    "district_id": "520613",
+    "name": "MONGGO"
+  },
+  {
+    "id": "5206132006",
+    "district_id": "520613",
+    "name": "DENA"
+  },
+  {
+    "id": "5206132007",
+    "district_id": "520613",
+    "name": "RADE"
+  },
+  {
+    "id": "5206132008",
+    "district_id": "520613",
+    "name": "TONDA"
+  },
+  {
+    "id": "5206132009",
+    "district_id": "520613",
+    "name": "BOLO"
+  },
+  {
+    "id": "5206132010",
+    "district_id": "520613",
+    "name": "MADAWAU"
+  },
+  {
+    "id": "5206132011",
+    "district_id": "520613",
+    "name": "NCANDI"
+  }
+]

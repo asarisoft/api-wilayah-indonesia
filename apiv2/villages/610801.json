@@ -1,1 +1,97 @@
-[{"id": "6108012001", "district_id": "610801", "name": "HILIR KANTOR"}, {"id": "6108012002", "district_id": "610801", "name": "HILIR TENGAH"}, {"id": "6108012003", "district_id": "610801", "name": "RAJA"}, {"id": "6108012004", "district_id": "610801", "name": "MUNGGUK"}, {"id": "6108012005", "district_id": "610801", "name": "AMBOYO UTARA"}, {"id": "6108012006", "district_id": "610801", "name": "SUNGAI KELI"}, {"id": "6108012007", "district_id": "610801", "name": "RASAN"}, {"id": "6108012008", "district_id": "610801", "name": "MU'UN"}, {"id": "6108012009", "district_id": "610801", "name": "AMBARANG"}, {"id": "6108012010", "district_id": "610801", "name": "ENGKADU"}, {"id": "6108012011", "district_id": "610801", "name": "AMANG"}, {"id": "6108012012", "district_id": "610801", "name": "PENYAHO DANGKU"}, {"id": "6108012013", "district_id": "610801", "name": "ANTAN RAYAN"}, {"id": "6108012014", "district_id": "610801", "name": "AMBOYO INTI"}, {"id": "6108012015", "district_id": "610801", "name": "TEBEDAK"}, {"id": "6108012016", "district_id": "610801", "name": "TEMIANG SAWI"}, {"id": "6108012017", "district_id": "610801", "name": "AMBOYO SELATAN"}, {"id": "6108012018", "district_id": "610801", "name": "SEBIRANG"}, {"id": "6108012019", "district_id": "610801", "name": "PAK MAYAM"}]
+[
+  {
+    "id": "6108012001",
+    "district_id": "610801",
+    "name": "HILIR KANTOR"
+  },
+  {
+    "id": "6108012002",
+    "district_id": "610801",
+    "name": "HILIR TENGAH"
+  },
+  {
+    "id": "6108012003",
+    "district_id": "610801",
+    "name": "RAJA"
+  },
+  {
+    "id": "6108012004",
+    "district_id": "610801",
+    "name": "MUNGGUK"
+  },
+  {
+    "id": "6108012005",
+    "district_id": "610801",
+    "name": "AMBOYO UTARA"
+  },
+  {
+    "id": "6108012006",
+    "district_id": "610801",
+    "name": "SUNGAI KELI"
+  },
+  {
+    "id": "6108012007",
+    "district_id": "610801",
+    "name": "RASAN"
+  },
+  {
+    "id": "6108012008",
+    "district_id": "610801",
+    "name": "MU'UN"
+  },
+  {
+    "id": "6108012009",
+    "district_id": "610801",
+    "name": "AMBARANG"
+  },
+  {
+    "id": "6108012010",
+    "district_id": "610801",
+    "name": "ENGKADU"
+  },
+  {
+    "id": "6108012011",
+    "district_id": "610801",
+    "name": "AMANG"
+  },
+  {
+    "id": "6108012012",
+    "district_id": "610801",
+    "name": "PENYAHO DANGKU"
+  },
+  {
+    "id": "6108012013",
+    "district_id": "610801",
+    "name": "ANTAN RAYAN"
+  },
+  {
+    "id": "6108012014",
+    "district_id": "610801",
+    "name": "AMBOYO INTI"
+  },
+  {
+    "id": "6108012015",
+    "district_id": "610801",
+    "name": "TEBEDAK"
+  },
+  {
+    "id": "6108012016",
+    "district_id": "610801",
+    "name": "TEMIANG SAWI"
+  },
+  {
+    "id": "6108012017",
+    "district_id": "610801",
+    "name": "AMBOYO SELATAN"
+  },
+  {
+    "id": "6108012018",
+    "district_id": "610801",
+    "name": "SEBIRANG"
+  },
+  {
+    "id": "6108012019",
+    "district_id": "610801",
+    "name": "PAK MAYAM"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "3601341001", "district_id": "360134", "name": "SUKARATU"}, {"id": "3601341002", "district_id": "360134", "name": "KARATON"}, {"id": "3601341003", "district_id": "360134", "name": "SARUNI"}, {"id": "3601341004", "district_id": "360134", "name": "PAGERBATU"}, {"id": "3601341005", "district_id": "360134", "name": "CILAJA"}]
+[
+  {
+    "id": "3601341001",
+    "district_id": "360134",
+    "name": "SUKARATU"
+  },
+  {
+    "id": "3601341002",
+    "district_id": "360134",
+    "name": "KARATON"
+  },
+  {
+    "id": "3601341003",
+    "district_id": "360134",
+    "name": "SARUNI"
+  },
+  {
+    "id": "3601341004",
+    "district_id": "360134",
+    "name": "PAGERBATU"
+  },
+  {
+    "id": "3601341005",
+    "district_id": "360134",
+    "name": "CILAJA"
+  }
+]

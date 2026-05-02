@@ -1,1 +1,37 @@
-[{"id": "1609162001", "district_id": "160916", "name": "TANJUNG HARAPAN"}, {"id": "1609162002", "district_id": "160916", "name": "MUARA SINDANG ILIR"}, {"id": "1609162003", "district_id": "160916", "name": "MUARA SINDANG TENGAH"}, {"id": "1609162004", "district_id": "160916", "name": "PEMATANG DANAU"}, {"id": "1609162005", "district_id": "160916", "name": "ULU DANAU"}, {"id": "1609162006", "district_id": "160916", "name": "TEBAT LAYANG"}, {"id": "1609162007", "district_id": "160916", "name": "WATAS"}]
+[
+  {
+    "id": "1609162001",
+    "district_id": "160916",
+    "name": "TANJUNG HARAPAN"
+  },
+  {
+    "id": "1609162002",
+    "district_id": "160916",
+    "name": "MUARA SINDANG ILIR"
+  },
+  {
+    "id": "1609162003",
+    "district_id": "160916",
+    "name": "MUARA SINDANG TENGAH"
+  },
+  {
+    "id": "1609162004",
+    "district_id": "160916",
+    "name": "PEMATANG DANAU"
+  },
+  {
+    "id": "1609162005",
+    "district_id": "160916",
+    "name": "ULU DANAU"
+  },
+  {
+    "id": "1609162006",
+    "district_id": "160916",
+    "name": "TEBAT LAYANG"
+  },
+  {
+    "id": "1609162007",
+    "district_id": "160916",
+    "name": "WATAS"
+  }
+]

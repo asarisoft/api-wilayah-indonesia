@@ -1,1 +1,47 @@
-[{"id": "1208032001", "district_id": "120803", "name": "SILOU BAYU"}, {"id": "1208032002", "district_id": "120803", "name": "KARANG ANYER"}, {"id": "1208032003", "district_id": "120803", "name": "KARANG REJO"}, {"id": "1208032004", "district_id": "120803", "name": "KARANG SARI"}, {"id": "1208032005", "district_id": "120803", "name": "TUMORANG"}, {"id": "1208032006", "district_id": "120803", "name": "RABUHIT"}, {"id": "1208032007", "district_id": "120803", "name": "HUTA DIPAR"}, {"id": "1208032008", "district_id": "120803", "name": "GANJING"}, {"id": "1208032009", "district_id": "120803", "name": "BANDAR MALELA"}]
+[
+  {
+    "id": "1208032001",
+    "district_id": "120803",
+    "name": "SILOU BAYU"
+  },
+  {
+    "id": "1208032002",
+    "district_id": "120803",
+    "name": "KARANG ANYER"
+  },
+  {
+    "id": "1208032003",
+    "district_id": "120803",
+    "name": "KARANG REJO"
+  },
+  {
+    "id": "1208032004",
+    "district_id": "120803",
+    "name": "KARANG SARI"
+  },
+  {
+    "id": "1208032005",
+    "district_id": "120803",
+    "name": "TUMORANG"
+  },
+  {
+    "id": "1208032006",
+    "district_id": "120803",
+    "name": "RABUHIT"
+  },
+  {
+    "id": "1208032007",
+    "district_id": "120803",
+    "name": "HUTA DIPAR"
+  },
+  {
+    "id": "1208032008",
+    "district_id": "120803",
+    "name": "GANJING"
+  },
+  {
+    "id": "1208032009",
+    "district_id": "120803",
+    "name": "BANDAR MALELA"
+  }
+]

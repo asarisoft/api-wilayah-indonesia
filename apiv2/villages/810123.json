@@ -1,1 +1,52 @@
-[{"id": "8101232001", "district_id": "810123", "name": "ULAHAHAN"}, {"id": "8101232002", "district_id": "810123", "name": "LAHA KABA"}, {"id": "8101232003", "district_id": "810123", "name": "LAFA"}, {"id": "8101232004", "district_id": "810123", "name": "YAMALATU"}, {"id": "8101232005", "district_id": "810123", "name": "HUNISI"}, {"id": "8101232006", "district_id": "810123", "name": "LAIMU"}, {"id": "8101232007", "district_id": "810123", "name": "MANEORATU"}, {"id": "8101232008", "district_id": "810123", "name": "TEHUA"}, {"id": "8101232009", "district_id": "810123", "name": "LAHA"}, {"id": "8101232010", "district_id": "810123", "name": "WOLU"}]
+[
+  {
+    "id": "8101232001",
+    "district_id": "810123",
+    "name": "ULAHAHAN"
+  },
+  {
+    "id": "8101232002",
+    "district_id": "810123",
+    "name": "LAHA KABA"
+  },
+  {
+    "id": "8101232003",
+    "district_id": "810123",
+    "name": "LAFA"
+  },
+  {
+    "id": "8101232004",
+    "district_id": "810123",
+    "name": "YAMALATU"
+  },
+  {
+    "id": "8101232005",
+    "district_id": "810123",
+    "name": "HUNISI"
+  },
+  {
+    "id": "8101232006",
+    "district_id": "810123",
+    "name": "LAIMU"
+  },
+  {
+    "id": "8101232007",
+    "district_id": "810123",
+    "name": "MANEORATU"
+  },
+  {
+    "id": "8101232008",
+    "district_id": "810123",
+    "name": "TEHUA"
+  },
+  {
+    "id": "8101232009",
+    "district_id": "810123",
+    "name": "LAHA"
+  },
+  {
+    "id": "8101232010",
+    "district_id": "810123",
+    "name": "WOLU"
+  }
+]

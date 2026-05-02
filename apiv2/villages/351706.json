@@ -1,1 +1,92 @@
-[{"id": "3517062001", "district_id": "351706", "name": "KEDUNGLUMPANG"}, {"id": "3517062002", "district_id": "351706", "name": "DUKUHMOJO"}, {"id": "3517062003", "district_id": "351706", "name": "KARANGWINONGAN"}, {"id": "3517062004", "district_id": "351706", "name": "KADEMANGAN"}, {"id": "3517062005", "district_id": "351706", "name": "JANTI"}, {"id": "3517062006", "district_id": "351706", "name": "TEJO"}, {"id": "3517062007", "district_id": "351706", "name": "GAMBIRAN"}, {"id": "3517062008", "district_id": "351706", "name": "KAUMAN"}, {"id": "3517062009", "district_id": "351706", "name": "MOJOTRISNO"}, {"id": "3517062010", "district_id": "351706", "name": "TANGGALREJO"}, {"id": "3517062011", "district_id": "351706", "name": "DUKUHDIMORO"}, {"id": "3517062012", "district_id": "351706", "name": "MIAGAN"}, {"id": "3517062013", "district_id": "351706", "name": "MANCILAN"}, {"id": "3517062014", "district_id": "351706", "name": "BETEK"}, {"id": "3517062015", "district_id": "351706", "name": "KAROBELAH"}, {"id": "3517062016", "district_id": "351706", "name": "MURUKAN"}, {"id": "3517062017", "district_id": "351706", "name": "JOHOWINONG"}, {"id": "3517062018", "district_id": "351706", "name": "SEKETI"}]
+[
+  {
+    "id": "3517062001",
+    "district_id": "351706",
+    "name": "KEDUNGLUMPANG"
+  },
+  {
+    "id": "3517062002",
+    "district_id": "351706",
+    "name": "DUKUHMOJO"
+  },
+  {
+    "id": "3517062003",
+    "district_id": "351706",
+    "name": "KARANGWINONGAN"
+  },
+  {
+    "id": "3517062004",
+    "district_id": "351706",
+    "name": "KADEMANGAN"
+  },
+  {
+    "id": "3517062005",
+    "district_id": "351706",
+    "name": "JANTI"
+  },
+  {
+    "id": "3517062006",
+    "district_id": "351706",
+    "name": "TEJO"
+  },
+  {
+    "id": "3517062007",
+    "district_id": "351706",
+    "name": "GAMBIRAN"
+  },
+  {
+    "id": "3517062008",
+    "district_id": "351706",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3517062009",
+    "district_id": "351706",
+    "name": "MOJOTRISNO"
+  },
+  {
+    "id": "3517062010",
+    "district_id": "351706",
+    "name": "TANGGALREJO"
+  },
+  {
+    "id": "3517062011",
+    "district_id": "351706",
+    "name": "DUKUHDIMORO"
+  },
+  {
+    "id": "3517062012",
+    "district_id": "351706",
+    "name": "MIAGAN"
+  },
+  {
+    "id": "3517062013",
+    "district_id": "351706",
+    "name": "MANCILAN"
+  },
+  {
+    "id": "3517062014",
+    "district_id": "351706",
+    "name": "BETEK"
+  },
+  {
+    "id": "3517062015",
+    "district_id": "351706",
+    "name": "KAROBELAH"
+  },
+  {
+    "id": "3517062016",
+    "district_id": "351706",
+    "name": "MURUKAN"
+  },
+  {
+    "id": "3517062017",
+    "district_id": "351706",
+    "name": "JOHOWINONG"
+  },
+  {
+    "id": "3517062018",
+    "district_id": "351706",
+    "name": "SEKETI"
+  }
+]

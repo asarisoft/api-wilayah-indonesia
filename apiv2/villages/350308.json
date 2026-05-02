@@ -1,1 +1,62 @@
-[{"id": "3503082001", "district_id": "350308", "name": "KARANGGANDU"}, {"id": "3503082002", "district_id": "350308", "name": "SAWAHAN"}, {"id": "3503082003", "district_id": "350308", "name": "DUKUH"}, {"id": "3503082004", "district_id": "350308", "name": "PAKEL"}, {"id": "3503082005", "district_id": "350308", "name": "MARGOMULYO"}, {"id": "3503082006", "district_id": "350308", "name": "NGEMBEL"}, {"id": "3503082007", "district_id": "350308", "name": "SLAWE"}, {"id": "3503082008", "district_id": "350308", "name": "GEMAHARJO"}, {"id": "3503082009", "district_id": "350308", "name": "WATULIMO"}, {"id": "3503082010", "district_id": "350308", "name": "WATUAGUNG"}, {"id": "3503082011", "district_id": "350308", "name": "PRIGI"}, {"id": "3503082012", "district_id": "350308", "name": "TASIKMADU"}]
+[
+  {
+    "id": "3503082001",
+    "district_id": "350308",
+    "name": "KARANGGANDU"
+  },
+  {
+    "id": "3503082002",
+    "district_id": "350308",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "3503082003",
+    "district_id": "350308",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3503082004",
+    "district_id": "350308",
+    "name": "PAKEL"
+  },
+  {
+    "id": "3503082005",
+    "district_id": "350308",
+    "name": "MARGOMULYO"
+  },
+  {
+    "id": "3503082006",
+    "district_id": "350308",
+    "name": "NGEMBEL"
+  },
+  {
+    "id": "3503082007",
+    "district_id": "350308",
+    "name": "SLAWE"
+  },
+  {
+    "id": "3503082008",
+    "district_id": "350308",
+    "name": "GEMAHARJO"
+  },
+  {
+    "id": "3503082009",
+    "district_id": "350308",
+    "name": "WATULIMO"
+  },
+  {
+    "id": "3503082010",
+    "district_id": "350308",
+    "name": "WATUAGUNG"
+  },
+  {
+    "id": "3503082011",
+    "district_id": "350308",
+    "name": "PRIGI"
+  },
+  {
+    "id": "3503082012",
+    "district_id": "350308",
+    "name": "TASIKMADU"
+  }
+]

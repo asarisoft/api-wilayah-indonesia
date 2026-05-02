@@ -1,1 +1,77 @@
-[{"id": "6304032001", "district_id": "630403", "name": "ANDAMAN"}, {"id": "6304032002", "district_id": "630403", "name": "HILIR MESJID"}, {"id": "6304032003", "district_id": "630403", "name": "ANJIR PASAR KOTA"}, {"id": "6304032004", "district_id": "630403", "name": "BANYIUR"}, {"id": "6304032005", "district_id": "630403", "name": "GANDARAYA"}, {"id": "6304032006", "district_id": "630403", "name": "GANDARIA"}, {"id": "6304032007", "district_id": "630403", "name": "ANJIR PASAR KOTA II"}, {"id": "6304032008", "district_id": "630403", "name": "ANDAMAN II"}, {"id": "6304032009", "district_id": "630403", "name": "ANJIR SEBERANG PASAR II"}, {"id": "6304032010", "district_id": "630403", "name": "ANJIR SEBERANG PASAR I"}, {"id": "6304032011", "district_id": "630403", "name": "ANJIR PASAR LAMA"}, {"id": "6304032012", "district_id": "630403", "name": "PANDAN SARI"}, {"id": "6304032013", "district_id": "630403", "name": "MENTAREN"}, {"id": "6304032014", "district_id": "630403", "name": "BARUNAI BARU"}, {"id": "6304032015", "district_id": "630403", "name": "DANAU KARYA"}]
+[
+  {
+    "id": "6304032001",
+    "district_id": "630403",
+    "name": "ANDAMAN"
+  },
+  {
+    "id": "6304032002",
+    "district_id": "630403",
+    "name": "HILIR MESJID"
+  },
+  {
+    "id": "6304032003",
+    "district_id": "630403",
+    "name": "ANJIR PASAR KOTA"
+  },
+  {
+    "id": "6304032004",
+    "district_id": "630403",
+    "name": "BANYIUR"
+  },
+  {
+    "id": "6304032005",
+    "district_id": "630403",
+    "name": "GANDARAYA"
+  },
+  {
+    "id": "6304032006",
+    "district_id": "630403",
+    "name": "GANDARIA"
+  },
+  {
+    "id": "6304032007",
+    "district_id": "630403",
+    "name": "ANJIR PASAR KOTA II"
+  },
+  {
+    "id": "6304032008",
+    "district_id": "630403",
+    "name": "ANDAMAN II"
+  },
+  {
+    "id": "6304032009",
+    "district_id": "630403",
+    "name": "ANJIR SEBERANG PASAR II"
+  },
+  {
+    "id": "6304032010",
+    "district_id": "630403",
+    "name": "ANJIR SEBERANG PASAR I"
+  },
+  {
+    "id": "6304032011",
+    "district_id": "630403",
+    "name": "ANJIR PASAR LAMA"
+  },
+  {
+    "id": "6304032012",
+    "district_id": "630403",
+    "name": "PANDAN SARI"
+  },
+  {
+    "id": "6304032013",
+    "district_id": "630403",
+    "name": "MENTAREN"
+  },
+  {
+    "id": "6304032014",
+    "district_id": "630403",
+    "name": "BARUNAI BARU"
+  },
+  {
+    "id": "6304032015",
+    "district_id": "630403",
+    "name": "DANAU KARYA"
+  }
+]

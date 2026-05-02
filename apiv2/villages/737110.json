@@ -1,1 +1,57 @@
-[{"id": "7371101001", "district_id": "737110", "name": "BAROMBONG"}, {"id": "7371101002", "district_id": "737110", "name": "MACCINI SOMBALA"}, {"id": "7371101003", "district_id": "737110", "name": "JONGAYA"}, {"id": "7371101004", "district_id": "737110", "name": "MANGASA"}, {"id": "7371101005", "district_id": "737110", "name": "BONGAYA"}, {"id": "7371101006", "district_id": "737110", "name": "BALANG BARU"}, {"id": "7371101007", "district_id": "737110", "name": "MANNURUKI"}, {"id": "7371101008", "district_id": "737110", "name": "PA'BAENG-BAENG"}, {"id": "7371101009", "district_id": "737110", "name": "PARANG TAMBUNG"}, {"id": "7371101010", "district_id": "737110", "name": "TANJUNG MERDEKA"}, {"id": "7371101011", "district_id": "737110", "name": "BONTO DURI"}]
+[
+  {
+    "id": "7371101001",
+    "district_id": "737110",
+    "name": "BAROMBONG"
+  },
+  {
+    "id": "7371101002",
+    "district_id": "737110",
+    "name": "MACCINI SOMBALA"
+  },
+  {
+    "id": "7371101003",
+    "district_id": "737110",
+    "name": "JONGAYA"
+  },
+  {
+    "id": "7371101004",
+    "district_id": "737110",
+    "name": "MANGASA"
+  },
+  {
+    "id": "7371101005",
+    "district_id": "737110",
+    "name": "BONGAYA"
+  },
+  {
+    "id": "7371101006",
+    "district_id": "737110",
+    "name": "BALANG BARU"
+  },
+  {
+    "id": "7371101007",
+    "district_id": "737110",
+    "name": "MANNURUKI"
+  },
+  {
+    "id": "7371101008",
+    "district_id": "737110",
+    "name": "PA'BAENG-BAENG"
+  },
+  {
+    "id": "7371101009",
+    "district_id": "737110",
+    "name": "PARANG TAMBUNG"
+  },
+  {
+    "id": "7371101010",
+    "district_id": "737110",
+    "name": "TANJUNG MERDEKA"
+  },
+  {
+    "id": "7371101011",
+    "district_id": "737110",
+    "name": "BONTO DURI"
+  }
+]

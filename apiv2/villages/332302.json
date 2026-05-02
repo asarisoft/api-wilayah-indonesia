@@ -1,1 +1,67 @@
-[{"id": "3323022001", "district_id": "332302", "name": "TEMBARAK"}, {"id": "3323022002", "district_id": "332302", "name": "MENGGORO"}, {"id": "3323022003", "district_id": "332302", "name": "PURWODADI"}, {"id": "3323022004", "district_id": "332302", "name": "WONOKERSO"}, {"id": "3323022005", "district_id": "332302", "name": "KEMLOKO"}, {"id": "3323022006", "district_id": "332302", "name": "GANDU"}, {"id": "3323022007", "district_id": "332302", "name": "BOTOPUTIH"}, {"id": "3323022008", "district_id": "332302", "name": "TAWANGSARI"}, {"id": "3323022009", "district_id": "332302", "name": "GREGES"}, {"id": "3323022010", "district_id": "332302", "name": "KRAJAN"}, {"id": "3323022011", "district_id": "332302", "name": "JRAGAN"}, {"id": "3323022012", "district_id": "332302", "name": "DRONO"}, {"id": "3323022013", "district_id": "332302", "name": "BANARAN"}]
+[
+  {
+    "id": "3323022001",
+    "district_id": "332302",
+    "name": "TEMBARAK"
+  },
+  {
+    "id": "3323022002",
+    "district_id": "332302",
+    "name": "MENGGORO"
+  },
+  {
+    "id": "3323022003",
+    "district_id": "332302",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "3323022004",
+    "district_id": "332302",
+    "name": "WONOKERSO"
+  },
+  {
+    "id": "3323022005",
+    "district_id": "332302",
+    "name": "KEMLOKO"
+  },
+  {
+    "id": "3323022006",
+    "district_id": "332302",
+    "name": "GANDU"
+  },
+  {
+    "id": "3323022007",
+    "district_id": "332302",
+    "name": "BOTOPUTIH"
+  },
+  {
+    "id": "3323022008",
+    "district_id": "332302",
+    "name": "TAWANGSARI"
+  },
+  {
+    "id": "3323022009",
+    "district_id": "332302",
+    "name": "GREGES"
+  },
+  {
+    "id": "3323022010",
+    "district_id": "332302",
+    "name": "KRAJAN"
+  },
+  {
+    "id": "3323022011",
+    "district_id": "332302",
+    "name": "JRAGAN"
+  },
+  {
+    "id": "3323022012",
+    "district_id": "332302",
+    "name": "DRONO"
+  },
+  {
+    "id": "3323022013",
+    "district_id": "332302",
+    "name": "BANARAN"
+  }
+]

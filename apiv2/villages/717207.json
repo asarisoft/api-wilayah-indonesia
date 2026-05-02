@@ -1,1 +1,42 @@
-[{"id": "7172071001", "district_id": "717207", "name": "BITUNG BARAT SATU"}, {"id": "7172071002", "district_id": "717207", "name": "PAKADOODAN"}, {"id": "7172071003", "district_id": "717207", "name": "BITUNG BARAT DUA"}, {"id": "7172071004", "district_id": "717207", "name": "BITUNG TENGAH"}, {"id": "7172071005", "district_id": "717207", "name": "BITUNG TIMUR"}, {"id": "7172071006", "district_id": "717207", "name": "KAKENTURAN SATU"}, {"id": "7172071007", "district_id": "717207", "name": "KEKENTURAN DUA"}, {"id": "7172071008", "district_id": "717207", "name": "PATETEN TIGA"}]
+[
+  {
+    "id": "7172071001",
+    "district_id": "717207",
+    "name": "BITUNG BARAT SATU"
+  },
+  {
+    "id": "7172071002",
+    "district_id": "717207",
+    "name": "PAKADOODAN"
+  },
+  {
+    "id": "7172071003",
+    "district_id": "717207",
+    "name": "BITUNG BARAT DUA"
+  },
+  {
+    "id": "7172071004",
+    "district_id": "717207",
+    "name": "BITUNG TENGAH"
+  },
+  {
+    "id": "7172071005",
+    "district_id": "717207",
+    "name": "BITUNG TIMUR"
+  },
+  {
+    "id": "7172071006",
+    "district_id": "717207",
+    "name": "KAKENTURAN SATU"
+  },
+  {
+    "id": "7172071007",
+    "district_id": "717207",
+    "name": "KEKENTURAN DUA"
+  },
+  {
+    "id": "7172071008",
+    "district_id": "717207",
+    "name": "PATETEN TIGA"
+  }
+]

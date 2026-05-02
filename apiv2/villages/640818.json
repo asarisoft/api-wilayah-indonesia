@@ -1,1 +1,37 @@
-[{"id": "6408182001", "district_id": "640818", "name": "SIKA MAKMUR"}, {"id": "6408182002", "district_id": "640818", "name": "SEGOY MAKMUR"}, {"id": "6408182003", "district_id": "640818", "name": "MUKTI UTAMA"}, {"id": "6408182004", "district_id": "640818", "name": "SUMBER SARI"}, {"id": "6408182005", "district_id": "640818", "name": "MELAN"}, {"id": "6408182006", "district_id": "640818", "name": "TANAH ABANG"}, {"id": "6408182007", "district_id": "640818", "name": "SUMBER AGUNG"}]
+[
+  {
+    "id": "6408182001",
+    "district_id": "640818",
+    "name": "SIKA MAKMUR"
+  },
+  {
+    "id": "6408182002",
+    "district_id": "640818",
+    "name": "SEGOY MAKMUR"
+  },
+  {
+    "id": "6408182003",
+    "district_id": "640818",
+    "name": "MUKTI UTAMA"
+  },
+  {
+    "id": "6408182004",
+    "district_id": "640818",
+    "name": "SUMBER SARI"
+  },
+  {
+    "id": "6408182005",
+    "district_id": "640818",
+    "name": "MELAN"
+  },
+  {
+    "id": "6408182006",
+    "district_id": "640818",
+    "name": "TANAH ABANG"
+  },
+  {
+    "id": "6408182007",
+    "district_id": "640818",
+    "name": "SUMBER AGUNG"
+  }
+]

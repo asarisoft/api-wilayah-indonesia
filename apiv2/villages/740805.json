@@ -1,1 +1,62 @@
-[{"id": "7408051002", "district_id": "740805", "name": "MALA-MALA"}, {"id": "7408052001", "district_id": "740805", "name": "AWO"}, {"id": "7408052003", "district_id": "740805", "name": "KOROHA"}, {"id": "7408052004", "district_id": "740805", "name": "KAMISI"}, {"id": "7408052006", "district_id": "740805", "name": "LAMETUNA"}, {"id": "7408052007", "district_id": "740805", "name": "MEETO"}, {"id": "7408052009", "district_id": "740805", "name": "KALU-KALUKU"}, {"id": "7408052010", "district_id": "740805", "name": "JABAL NUR"}, {"id": "7408052012", "district_id": "740805", "name": "JABAL KUBIS"}, {"id": "7408052014", "district_id": "740805", "name": "SAWANGAOHA"}, {"id": "7408052018", "district_id": "740805", "name": "AINANI TAJRIANI"}, {"id": "7408052019", "district_id": "740805", "name": "DELANG-DELANG"}]
+[
+  {
+    "id": "7408051002",
+    "district_id": "740805",
+    "name": "MALA-MALA"
+  },
+  {
+    "id": "7408052001",
+    "district_id": "740805",
+    "name": "AWO"
+  },
+  {
+    "id": "7408052003",
+    "district_id": "740805",
+    "name": "KOROHA"
+  },
+  {
+    "id": "7408052004",
+    "district_id": "740805",
+    "name": "KAMISI"
+  },
+  {
+    "id": "7408052006",
+    "district_id": "740805",
+    "name": "LAMETUNA"
+  },
+  {
+    "id": "7408052007",
+    "district_id": "740805",
+    "name": "MEETO"
+  },
+  {
+    "id": "7408052009",
+    "district_id": "740805",
+    "name": "KALU-KALUKU"
+  },
+  {
+    "id": "7408052010",
+    "district_id": "740805",
+    "name": "JABAL NUR"
+  },
+  {
+    "id": "7408052012",
+    "district_id": "740805",
+    "name": "JABAL KUBIS"
+  },
+  {
+    "id": "7408052014",
+    "district_id": "740805",
+    "name": "SAWANGAOHA"
+  },
+  {
+    "id": "7408052018",
+    "district_id": "740805",
+    "name": "AINANI TAJRIANI"
+  },
+  {
+    "id": "7408052019",
+    "district_id": "740805",
+    "name": "DELANG-DELANG"
+  }
+]

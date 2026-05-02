@@ -1,1 +1,27 @@
-[{"id": "1871051002", "district_id": "187105", "name": "KOTA BARU"}, {"id": "1871051003", "district_id": "187105", "name": "TANJUNG AGUNG"}, {"id": "1871051004", "district_id": "187105", "name": "KEBON JERUK"}, {"id": "1871051005", "district_id": "187105", "name": "SAWAH LAMA"}, {"id": "1871051006", "district_id": "187105", "name": "SAWAH BREBES"}]
+[
+  {
+    "id": "1871051002",
+    "district_id": "187105",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "1871051003",
+    "district_id": "187105",
+    "name": "TANJUNG AGUNG"
+  },
+  {
+    "id": "1871051004",
+    "district_id": "187105",
+    "name": "KEBON JERUK"
+  },
+  {
+    "id": "1871051005",
+    "district_id": "187105",
+    "name": "SAWAH LAMA"
+  },
+  {
+    "id": "1871051006",
+    "district_id": "187105",
+    "name": "SAWAH BREBES"
+  }
+]

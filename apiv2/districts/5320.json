@@ -1,1 +1,32 @@
-[{"id": "532001", "regency_id": "5320", "name": "SABU BARAT"}, {"id": "532002", "regency_id": "5320", "name": "SABU TENGAH"}, {"id": "532003", "regency_id": "5320", "name": "SABU TIMUR"}, {"id": "532004", "regency_id": "5320", "name": "SABU LIAE"}, {"id": "532005", "regency_id": "5320", "name": "HAWU MEHARA"}, {"id": "532006", "regency_id": "5320", "name": "RAIJUA"}]
+[
+  {
+    "id": "532001",
+    "regency_id": "5320",
+    "name": "SABU BARAT"
+  },
+  {
+    "id": "532002",
+    "regency_id": "5320",
+    "name": "SABU TENGAH"
+  },
+  {
+    "id": "532003",
+    "regency_id": "5320",
+    "name": "SABU TIMUR"
+  },
+  {
+    "id": "532004",
+    "regency_id": "5320",
+    "name": "SABU LIAE"
+  },
+  {
+    "id": "532005",
+    "regency_id": "5320",
+    "name": "HAWU MEHARA"
+  },
+  {
+    "id": "532006",
+    "regency_id": "5320",
+    "name": "RAIJUA"
+  }
+]

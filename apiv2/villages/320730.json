@@ -1,1 +1,57 @@
-[{"id": "3207302001", "district_id": "320730", "name": "CISAGA"}, {"id": "3207302002", "district_id": "320730", "name": "SIDAMULYA"}, {"id": "3207302003", "district_id": "320730", "name": "KEPEL"}, {"id": "3207302004", "district_id": "320730", "name": "WANGUNJAYA"}, {"id": "3207302005", "district_id": "320730", "name": "SUKAHURIP"}, {"id": "3207302006", "district_id": "320730", "name": "BANGUNHARJA"}, {"id": "3207302007", "district_id": "320730", "name": "TANJUNGJAYA"}, {"id": "3207302008", "district_id": "320730", "name": "MEKARMUKTI"}, {"id": "3207302009", "district_id": "320730", "name": "DANASARI"}, {"id": "3207302010", "district_id": "320730", "name": "GIRIMUKTI"}, {"id": "3207302011", "district_id": "320730", "name": "KARYAMULYA"}]
+[
+  {
+    "id": "3207302001",
+    "district_id": "320730",
+    "name": "CISAGA"
+  },
+  {
+    "id": "3207302002",
+    "district_id": "320730",
+    "name": "SIDAMULYA"
+  },
+  {
+    "id": "3207302003",
+    "district_id": "320730",
+    "name": "KEPEL"
+  },
+  {
+    "id": "3207302004",
+    "district_id": "320730",
+    "name": "WANGUNJAYA"
+  },
+  {
+    "id": "3207302005",
+    "district_id": "320730",
+    "name": "SUKAHURIP"
+  },
+  {
+    "id": "3207302006",
+    "district_id": "320730",
+    "name": "BANGUNHARJA"
+  },
+  {
+    "id": "3207302007",
+    "district_id": "320730",
+    "name": "TANJUNGJAYA"
+  },
+  {
+    "id": "3207302008",
+    "district_id": "320730",
+    "name": "MEKARMUKTI"
+  },
+  {
+    "id": "3207302009",
+    "district_id": "320730",
+    "name": "DANASARI"
+  },
+  {
+    "id": "3207302010",
+    "district_id": "320730",
+    "name": "GIRIMUKTI"
+  },
+  {
+    "id": "3207302011",
+    "district_id": "320730",
+    "name": "KARYAMULYA"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "9603182001", "district_id": "960318", "name": "GO"}, {"id": "9603182002", "district_id": "960318", "name": "KABILOL"}, {"id": "9603182003", "district_id": "960318", "name": "ARAWAI"}, {"id": "9603182004", "district_id": "960318", "name": "BEO"}, {"id": "9603182005", "district_id": "960318", "name": "WAIFOI"}, {"id": "9603182006", "district_id": "960318", "name": "WARIMAK"}]
+[
+  {
+    "id": "9603182001",
+    "district_id": "960318",
+    "name": "GO"
+  },
+  {
+    "id": "9603182002",
+    "district_id": "960318",
+    "name": "KABILOL"
+  },
+  {
+    "id": "9603182003",
+    "district_id": "960318",
+    "name": "ARAWAI"
+  },
+  {
+    "id": "9603182004",
+    "district_id": "960318",
+    "name": "BEO"
+  },
+  {
+    "id": "9603182005",
+    "district_id": "960318",
+    "name": "WAIFOI"
+  },
+  {
+    "id": "9603182006",
+    "district_id": "960318",
+    "name": "WARIMAK"
+  }
+]

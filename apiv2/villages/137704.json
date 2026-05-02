@@ -1,1 +1,82 @@
-[{"id": "1377042001", "district_id": "137704", "name": "TALAGO SARIK"}, {"id": "1377042002", "district_id": "137704", "name": "PAKASAI"}, {"id": "1377042003", "district_id": "137704", "name": "KAMPUNG BARU PADUSUNAN"}, {"id": "1377042004", "district_id": "137704", "name": "KAMPUNG GADANG"}, {"id": "1377042005", "district_id": "137704", "name": "KOTO MARAPAK"}, {"id": "1377042006", "district_id": "137704", "name": "BATANG KABUNG"}, {"id": "1377042007", "district_id": "137704", "name": "BATO"}, {"id": "1377042008", "district_id": "137704", "name": "AIR SANTOK"}, {"id": "1377042009", "district_id": "137704", "name": "CUBADAK MENTAWAI"}, {"id": "1377042010", "district_id": "137704", "name": "SUNGAI SIRAH"}, {"id": "1377042011", "district_id": "137704", "name": "SUNGAI PASAK"}, {"id": "1377042012", "district_id": "137704", "name": "BUNGO TANJUNG"}, {"id": "1377042013", "district_id": "137704", "name": "KAMPUNG TANGAH"}, {"id": "1377042014", "district_id": "137704", "name": "KAMPUNG KANDANG"}, {"id": "1377042015", "district_id": "137704", "name": "KALUAT"}, {"id": "1377042016", "district_id": "137704", "name": "KAJAI"}]
+[
+  {
+    "id": "1377042001",
+    "district_id": "137704",
+    "name": "TALAGO SARIK"
+  },
+  {
+    "id": "1377042002",
+    "district_id": "137704",
+    "name": "PAKASAI"
+  },
+  {
+    "id": "1377042003",
+    "district_id": "137704",
+    "name": "KAMPUNG BARU PADUSUNAN"
+  },
+  {
+    "id": "1377042004",
+    "district_id": "137704",
+    "name": "KAMPUNG GADANG"
+  },
+  {
+    "id": "1377042005",
+    "district_id": "137704",
+    "name": "KOTO MARAPAK"
+  },
+  {
+    "id": "1377042006",
+    "district_id": "137704",
+    "name": "BATANG KABUNG"
+  },
+  {
+    "id": "1377042007",
+    "district_id": "137704",
+    "name": "BATO"
+  },
+  {
+    "id": "1377042008",
+    "district_id": "137704",
+    "name": "AIR SANTOK"
+  },
+  {
+    "id": "1377042009",
+    "district_id": "137704",
+    "name": "CUBADAK MENTAWAI"
+  },
+  {
+    "id": "1377042010",
+    "district_id": "137704",
+    "name": "SUNGAI SIRAH"
+  },
+  {
+    "id": "1377042011",
+    "district_id": "137704",
+    "name": "SUNGAI PASAK"
+  },
+  {
+    "id": "1377042012",
+    "district_id": "137704",
+    "name": "BUNGO TANJUNG"
+  },
+  {
+    "id": "1377042013",
+    "district_id": "137704",
+    "name": "KAMPUNG TANGAH"
+  },
+  {
+    "id": "1377042014",
+    "district_id": "137704",
+    "name": "KAMPUNG KANDANG"
+  },
+  {
+    "id": "1377042015",
+    "district_id": "137704",
+    "name": "KALUAT"
+  },
+  {
+    "id": "1377042016",
+    "district_id": "137704",
+    "name": "KAJAI"
+  }
+]

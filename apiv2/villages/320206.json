@@ -1,1 +1,62 @@
-[{"id": "3202062001", "district_id": "320206", "name": "CIKIDANG"}, {"id": "3202062002", "district_id": "320206", "name": "CIKIRAY"}, {"id": "3202062003", "district_id": "320206", "name": "GUNUNGMALANG"}, {"id": "3202062004", "district_id": "320206", "name": "PANGKALAN"}, {"id": "3202062005", "district_id": "320206", "name": "CICAREUH"}, {"id": "3202062006", "district_id": "320206", "name": "TAMANSARI"}, {"id": "3202062007", "district_id": "320206", "name": "BUMISARI"}, {"id": "3202062008", "district_id": "320206", "name": "SAMPORA"}, {"id": "3202062009", "district_id": "320206", "name": "NANGKAKONENG"}, {"id": "3202062010", "district_id": "320206", "name": "MEKARNANGKA"}, {"id": "3202062011", "district_id": "320206", "name": "CIJAMBE"}, {"id": "3202062012", "district_id": "320206", "name": "CIKARAE THOYYIBAH"}]
+[
+  {
+    "id": "3202062001",
+    "district_id": "320206",
+    "name": "CIKIDANG"
+  },
+  {
+    "id": "3202062002",
+    "district_id": "320206",
+    "name": "CIKIRAY"
+  },
+  {
+    "id": "3202062003",
+    "district_id": "320206",
+    "name": "GUNUNGMALANG"
+  },
+  {
+    "id": "3202062004",
+    "district_id": "320206",
+    "name": "PANGKALAN"
+  },
+  {
+    "id": "3202062005",
+    "district_id": "320206",
+    "name": "CICAREUH"
+  },
+  {
+    "id": "3202062006",
+    "district_id": "320206",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3202062007",
+    "district_id": "320206",
+    "name": "BUMISARI"
+  },
+  {
+    "id": "3202062008",
+    "district_id": "320206",
+    "name": "SAMPORA"
+  },
+  {
+    "id": "3202062009",
+    "district_id": "320206",
+    "name": "NANGKAKONENG"
+  },
+  {
+    "id": "3202062010",
+    "district_id": "320206",
+    "name": "MEKARNANGKA"
+  },
+  {
+    "id": "3202062011",
+    "district_id": "320206",
+    "name": "CIJAMBE"
+  },
+  {
+    "id": "3202062012",
+    "district_id": "320206",
+    "name": "CIKARAE THOYYIBAH"
+  }
+]

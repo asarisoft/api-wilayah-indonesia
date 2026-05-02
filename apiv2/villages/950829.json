@@ -1,1 +1,32 @@
-[{"id": "9508292001", "district_id": "950829", "name": "MULI"}, {"id": "9508292002", "district_id": "950829", "name": "TINIGELE"}, {"id": "9508292003", "district_id": "950829", "name": "WUONE"}, {"id": "9508292004", "district_id": "950829", "name": "LUAREN"}, {"id": "9508292005", "district_id": "950829", "name": "WANGUN"}, {"id": "9508292006", "district_id": "950829", "name": "WUTPAGA"}]
+[
+  {
+    "id": "9508292001",
+    "district_id": "950829",
+    "name": "MULI"
+  },
+  {
+    "id": "9508292002",
+    "district_id": "950829",
+    "name": "TINIGELE"
+  },
+  {
+    "id": "9508292003",
+    "district_id": "950829",
+    "name": "WUONE"
+  },
+  {
+    "id": "9508292004",
+    "district_id": "950829",
+    "name": "LUAREN"
+  },
+  {
+    "id": "9508292005",
+    "district_id": "950829",
+    "name": "WANGUN"
+  },
+  {
+    "id": "9508292006",
+    "district_id": "950829",
+    "name": "WUTPAGA"
+  }
+]

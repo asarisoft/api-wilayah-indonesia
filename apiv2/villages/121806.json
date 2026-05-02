@@ -1,1 +1,27 @@
-[{"id": "1218062001", "district_id": "121806", "name": "BANDAR TENGAH"}, {"id": "1218062002", "district_id": "121806", "name": "JUHAR"}, {"id": "1218062003", "district_id": "121806", "name": "GELAM SEI SERIMAH"}, {"id": "1218062004", "district_id": "121806", "name": "PEKAN BANDAR KHALIPAH"}, {"id": "1218062005", "district_id": "121806", "name": "KAYU BESAR"}]
+[
+  {
+    "id": "1218062001",
+    "district_id": "121806",
+    "name": "BANDAR TENGAH"
+  },
+  {
+    "id": "1218062002",
+    "district_id": "121806",
+    "name": "JUHAR"
+  },
+  {
+    "id": "1218062003",
+    "district_id": "121806",
+    "name": "GELAM SEI SERIMAH"
+  },
+  {
+    "id": "1218062004",
+    "district_id": "121806",
+    "name": "PEKAN BANDAR KHALIPAH"
+  },
+  {
+    "id": "1218062005",
+    "district_id": "121806",
+    "name": "KAYU BESAR"
+  }
+]

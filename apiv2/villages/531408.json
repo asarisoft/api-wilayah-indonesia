@@ -1,1 +1,37 @@
-[{"id": "5314082001", "district_id": "531408", "name": "LENGUSELU"}, {"id": "5314082002", "district_id": "531408", "name": "DALEHOLU"}, {"id": "5314082003", "district_id": "531408", "name": "DODAEK"}, {"id": "5314082004", "district_id": "531408", "name": "TEBOLE"}, {"id": "5314082005", "district_id": "531408", "name": "INAOE"}, {"id": "5314082006", "district_id": "531408", "name": "NGGELODAE"}, {"id": "5314082007", "district_id": "531408", "name": "PILASUE"}]
+[
+  {
+    "id": "5314082001",
+    "district_id": "531408",
+    "name": "LENGUSELU"
+  },
+  {
+    "id": "5314082002",
+    "district_id": "531408",
+    "name": "DALEHOLU"
+  },
+  {
+    "id": "5314082003",
+    "district_id": "531408",
+    "name": "DODAEK"
+  },
+  {
+    "id": "5314082004",
+    "district_id": "531408",
+    "name": "TEBOLE"
+  },
+  {
+    "id": "5314082005",
+    "district_id": "531408",
+    "name": "INAOE"
+  },
+  {
+    "id": "5314082006",
+    "district_id": "531408",
+    "name": "NGGELODAE"
+  },
+  {
+    "id": "5314082007",
+    "district_id": "531408",
+    "name": "PILASUE"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3519021002", "district_id": "351902", "name": "MLILIR"}, {"id": "3519021012", "district_id": "351902", "name": "BANGUNSARI"}, {"id": "3519022001", "district_id": "351902", "name": "LEMBAH"}, {"id": "3519022003", "district_id": "351902", "name": "KRADINAN"}, {"id": "3519022004", "district_id": "351902", "name": "SULUK"}, {"id": "3519022005", "district_id": "351902", "name": "BLIMBING"}, {"id": "3519022006", "district_id": "351902", "name": "BADER"}, {"id": "3519022007", "district_id": "351902", "name": "CANDIMULYO"}, {"id": "3519022008", "district_id": "351902", "name": "GLONGGONG"}, {"id": "3519022009", "district_id": "351902", "name": "DOLOPO"}, {"id": "3519022010", "district_id": "351902", "name": "DOHO"}, {"id": "3519022011", "district_id": "351902", "name": "KETAWANG"}]
+[
+  {
+    "id": "3519021002",
+    "district_id": "351902",
+    "name": "MLILIR"
+  },
+  {
+    "id": "3519021012",
+    "district_id": "351902",
+    "name": "BANGUNSARI"
+  },
+  {
+    "id": "3519022001",
+    "district_id": "351902",
+    "name": "LEMBAH"
+  },
+  {
+    "id": "3519022003",
+    "district_id": "351902",
+    "name": "KRADINAN"
+  },
+  {
+    "id": "3519022004",
+    "district_id": "351902",
+    "name": "SULUK"
+  },
+  {
+    "id": "3519022005",
+    "district_id": "351902",
+    "name": "BLIMBING"
+  },
+  {
+    "id": "3519022006",
+    "district_id": "351902",
+    "name": "BADER"
+  },
+  {
+    "id": "3519022007",
+    "district_id": "351902",
+    "name": "CANDIMULYO"
+  },
+  {
+    "id": "3519022008",
+    "district_id": "351902",
+    "name": "GLONGGONG"
+  },
+  {
+    "id": "3519022009",
+    "district_id": "351902",
+    "name": "DOLOPO"
+  },
+  {
+    "id": "3519022010",
+    "district_id": "351902",
+    "name": "DOHO"
+  },
+  {
+    "id": "3519022011",
+    "district_id": "351902",
+    "name": "KETAWANG"
+  }
+]

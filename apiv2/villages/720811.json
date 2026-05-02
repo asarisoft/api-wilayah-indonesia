@@ -1,1 +1,52 @@
-[{"id": "7208112001", "district_id": "720811", "name": "LEMUSA"}, {"id": "7208112002", "district_id": "720811", "name": "OLOBARU"}, {"id": "7208112003", "district_id": "720811", "name": "BOYANTONGO"}, {"id": "7208112004", "district_id": "720811", "name": "DOLAGO"}, {"id": "7208112005", "district_id": "720811", "name": "MASARI"}, {"id": "7208112006", "district_id": "720811", "name": "SUMBERSARI"}, {"id": "7208112007", "district_id": "720811", "name": "NAMBARU"}, {"id": "7208112008", "district_id": "720811", "name": "TINDAKI"}, {"id": "7208112009", "district_id": "720811", "name": "GANGGA"}, {"id": "7208112010", "district_id": "720811", "name": "DOLAGO PADANG"}]
+[
+  {
+    "id": "7208112001",
+    "district_id": "720811",
+    "name": "LEMUSA"
+  },
+  {
+    "id": "7208112002",
+    "district_id": "720811",
+    "name": "OLOBARU"
+  },
+  {
+    "id": "7208112003",
+    "district_id": "720811",
+    "name": "BOYANTONGO"
+  },
+  {
+    "id": "7208112004",
+    "district_id": "720811",
+    "name": "DOLAGO"
+  },
+  {
+    "id": "7208112005",
+    "district_id": "720811",
+    "name": "MASARI"
+  },
+  {
+    "id": "7208112006",
+    "district_id": "720811",
+    "name": "SUMBERSARI"
+  },
+  {
+    "id": "7208112007",
+    "district_id": "720811",
+    "name": "NAMBARU"
+  },
+  {
+    "id": "7208112008",
+    "district_id": "720811",
+    "name": "TINDAKI"
+  },
+  {
+    "id": "7208112009",
+    "district_id": "720811",
+    "name": "GANGGA"
+  },
+  {
+    "id": "7208112010",
+    "district_id": "720811",
+    "name": "DOLAGO PADANG"
+  }
+]

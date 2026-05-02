@@ -1,1 +1,32 @@
-[{"id": "3576021001", "district_id": "357602", "name": "GUNUNGGEDANGAN"}, {"id": "3576021003", "district_id": "357602", "name": "MAGERSARI"}, {"id": "3576021004", "district_id": "357602", "name": "GEDONGAN"}, {"id": "3576021008", "district_id": "357602", "name": "BALONGSARI"}, {"id": "3576021009", "district_id": "357602", "name": "KEDUNDUNG"}, {"id": "3576021010", "district_id": "357602", "name": "WATES"}]
+[
+  {
+    "id": "3576021001",
+    "district_id": "357602",
+    "name": "GUNUNGGEDANGAN"
+  },
+  {
+    "id": "3576021003",
+    "district_id": "357602",
+    "name": "MAGERSARI"
+  },
+  {
+    "id": "3576021004",
+    "district_id": "357602",
+    "name": "GEDONGAN"
+  },
+  {
+    "id": "3576021008",
+    "district_id": "357602",
+    "name": "BALONGSARI"
+  },
+  {
+    "id": "3576021009",
+    "district_id": "357602",
+    "name": "KEDUNDUNG"
+  },
+  {
+    "id": "3576021010",
+    "district_id": "357602",
+    "name": "WATES"
+  }
+]

@@ -1,1 +1,87 @@
-[{"id": "3208082001", "district_id": "320808", "name": "GEWOK"}, {"id": "3208082002", "district_id": "320808", "name": "CIRUKEM"}, {"id": "3208082003", "district_id": "320808", "name": "PAKEMBANGAN"}, {"id": "3208082004", "district_id": "320808", "name": "SUKAIMUT"}, {"id": "3208082005", "district_id": "320808", "name": "CIKANANGA"}, {"id": "3208082006", "district_id": "320808", "name": "TAMBAKBAYA"}, {"id": "3208082007", "district_id": "320808", "name": "GARAWANGI"}, {"id": "3208082008", "district_id": "320808", "name": "SUKAMULYA"}, {"id": "3208082009", "district_id": "320808", "name": "MANCAGAR"}, {"id": "3208082010", "district_id": "320808", "name": "PURWASARI"}, {"id": "3208082011", "district_id": "320808", "name": "LENGKONG"}, {"id": "3208082023", "district_id": "320808", "name": "KARAMATWANGI"}, {"id": "3208082024", "district_id": "320808", "name": "CITIUSARI"}, {"id": "3208082026", "district_id": "320808", "name": "MEKARMULYA"}, {"id": "3208082027", "district_id": "320808", "name": "TEMBONG"}, {"id": "3208082028", "district_id": "320808", "name": "KUTAKEMBARAN"}, {"id": "3208082029", "district_id": "320808", "name": "KADATUAN"}]
+[
+  {
+    "id": "3208082001",
+    "district_id": "320808",
+    "name": "GEWOK"
+  },
+  {
+    "id": "3208082002",
+    "district_id": "320808",
+    "name": "CIRUKEM"
+  },
+  {
+    "id": "3208082003",
+    "district_id": "320808",
+    "name": "PAKEMBANGAN"
+  },
+  {
+    "id": "3208082004",
+    "district_id": "320808",
+    "name": "SUKAIMUT"
+  },
+  {
+    "id": "3208082005",
+    "district_id": "320808",
+    "name": "CIKANANGA"
+  },
+  {
+    "id": "3208082006",
+    "district_id": "320808",
+    "name": "TAMBAKBAYA"
+  },
+  {
+    "id": "3208082007",
+    "district_id": "320808",
+    "name": "GARAWANGI"
+  },
+  {
+    "id": "3208082008",
+    "district_id": "320808",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3208082009",
+    "district_id": "320808",
+    "name": "MANCAGAR"
+  },
+  {
+    "id": "3208082010",
+    "district_id": "320808",
+    "name": "PURWASARI"
+  },
+  {
+    "id": "3208082011",
+    "district_id": "320808",
+    "name": "LENGKONG"
+  },
+  {
+    "id": "3208082023",
+    "district_id": "320808",
+    "name": "KARAMATWANGI"
+  },
+  {
+    "id": "3208082024",
+    "district_id": "320808",
+    "name": "CITIUSARI"
+  },
+  {
+    "id": "3208082026",
+    "district_id": "320808",
+    "name": "MEKARMULYA"
+  },
+  {
+    "id": "3208082027",
+    "district_id": "320808",
+    "name": "TEMBONG"
+  },
+  {
+    "id": "3208082028",
+    "district_id": "320808",
+    "name": "KUTAKEMBARAN"
+  },
+  {
+    "id": "3208082029",
+    "district_id": "320808",
+    "name": "KADATUAN"
+  }
+]

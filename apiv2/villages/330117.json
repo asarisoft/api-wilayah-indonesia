@@ -1,1 +1,52 @@
-[{"id": "3301172001", "district_id": "330117", "name": "KARANGTENGAH"}, {"id": "3301172002", "district_id": "330117", "name": "BRANI"}, {"id": "3301172003", "district_id": "330117", "name": "SAMPANG"}, {"id": "3301172004", "district_id": "330117", "name": "SIDASARI"}, {"id": "3301172005", "district_id": "330117", "name": "PAKETINGAN"}, {"id": "3301172006", "district_id": "330117", "name": "KETANGGUNG"}, {"id": "3301172007", "district_id": "330117", "name": "NUSAJATI"}, {"id": "3301172008", "district_id": "330117", "name": "KARANGJATI"}, {"id": "3301172009", "district_id": "330117", "name": "PABERASAN"}, {"id": "3301172010", "district_id": "330117", "name": "KARANGASEM"}]
+[
+  {
+    "id": "3301172001",
+    "district_id": "330117",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3301172002",
+    "district_id": "330117",
+    "name": "BRANI"
+  },
+  {
+    "id": "3301172003",
+    "district_id": "330117",
+    "name": "SAMPANG"
+  },
+  {
+    "id": "3301172004",
+    "district_id": "330117",
+    "name": "SIDASARI"
+  },
+  {
+    "id": "3301172005",
+    "district_id": "330117",
+    "name": "PAKETINGAN"
+  },
+  {
+    "id": "3301172006",
+    "district_id": "330117",
+    "name": "KETANGGUNG"
+  },
+  {
+    "id": "3301172007",
+    "district_id": "330117",
+    "name": "NUSAJATI"
+  },
+  {
+    "id": "3301172008",
+    "district_id": "330117",
+    "name": "KARANGJATI"
+  },
+  {
+    "id": "3301172009",
+    "district_id": "330117",
+    "name": "PABERASAN"
+  },
+  {
+    "id": "3301172010",
+    "district_id": "330117",
+    "name": "KARANGASEM"
+  }
+]

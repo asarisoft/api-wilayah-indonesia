@@ -1,1 +1,47 @@
-[{"id": "9503422001", "district_id": "950342", "name": "SERADALA"}, {"id": "9503422002", "district_id": "950342", "name": "MORUF"}, {"id": "9503422003", "district_id": "950342", "name": "KOPER"}, {"id": "9503422004", "district_id": "950342", "name": "TERET"}, {"id": "9503422005", "district_id": "950342", "name": "TOKUNI"}, {"id": "9503422006", "district_id": "950342", "name": "BURUPMAKOT"}, {"id": "9503422007", "district_id": "950342", "name": "YASIP"}, {"id": "9503422008", "district_id": "950342", "name": "MASOMDUBA"}, {"id": "9503422009", "district_id": "950342", "name": "SAMBOGA"}]
+[
+  {
+    "id": "9503422001",
+    "district_id": "950342",
+    "name": "SERADALA"
+  },
+  {
+    "id": "9503422002",
+    "district_id": "950342",
+    "name": "MORUF"
+  },
+  {
+    "id": "9503422003",
+    "district_id": "950342",
+    "name": "KOPER"
+  },
+  {
+    "id": "9503422004",
+    "district_id": "950342",
+    "name": "TERET"
+  },
+  {
+    "id": "9503422005",
+    "district_id": "950342",
+    "name": "TOKUNI"
+  },
+  {
+    "id": "9503422006",
+    "district_id": "950342",
+    "name": "BURUPMAKOT"
+  },
+  {
+    "id": "9503422007",
+    "district_id": "950342",
+    "name": "YASIP"
+  },
+  {
+    "id": "9503422008",
+    "district_id": "950342",
+    "name": "MASOMDUBA"
+  },
+  {
+    "id": "9503422009",
+    "district_id": "950342",
+    "name": "SAMBOGA"
+  }
+]

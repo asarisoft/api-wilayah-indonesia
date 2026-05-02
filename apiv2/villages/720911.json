@@ -1,1 +1,47 @@
-[{"id": "7209112001", "district_id": "720911", "name": "BOMBA"}, {"id": "7209112002", "district_id": "720911", "name": "MOLOWAGU"}, {"id": "7209112003", "district_id": "720911", "name": "MALINO"}, {"id": "7209112004", "district_id": "720911", "name": "KULINGKINARI"}, {"id": "7209112005", "district_id": "720911", "name": "TUMBULAWA"}, {"id": "7209112006", "district_id": "720911", "name": "SIATU"}, {"id": "7209112007", "district_id": "720911", "name": "KAMBUTU"}, {"id": "7209112008", "district_id": "720911", "name": "LINDO"}, {"id": "7209112009", "district_id": "720911", "name": "PATOYAN"}]
+[
+  {
+    "id": "7209112001",
+    "district_id": "720911",
+    "name": "BOMBA"
+  },
+  {
+    "id": "7209112002",
+    "district_id": "720911",
+    "name": "MOLOWAGU"
+  },
+  {
+    "id": "7209112003",
+    "district_id": "720911",
+    "name": "MALINO"
+  },
+  {
+    "id": "7209112004",
+    "district_id": "720911",
+    "name": "KULINGKINARI"
+  },
+  {
+    "id": "7209112005",
+    "district_id": "720911",
+    "name": "TUMBULAWA"
+  },
+  {
+    "id": "7209112006",
+    "district_id": "720911",
+    "name": "SIATU"
+  },
+  {
+    "id": "7209112007",
+    "district_id": "720911",
+    "name": "KAMBUTU"
+  },
+  {
+    "id": "7209112008",
+    "district_id": "720911",
+    "name": "LINDO"
+  },
+  {
+    "id": "7209112009",
+    "district_id": "720911",
+    "name": "PATOYAN"
+  }
+]

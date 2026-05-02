@@ -1,1 +1,32 @@
-[{"id": "3510072001", "district_id": "351007", "name": "PURWODADI"}, {"id": "3510072002", "district_id": "351007", "name": "JAJAG"}, {"id": "3510072007", "district_id": "351007", "name": "GAMBIRAN"}, {"id": "3510072008", "district_id": "351007", "name": "YOSOMULYO"}, {"id": "3510072009", "district_id": "351007", "name": "WRINGINREJO"}, {"id": "3510072010", "district_id": "351007", "name": "WRINGINAGUNG"}]
+[
+  {
+    "id": "3510072001",
+    "district_id": "351007",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "3510072002",
+    "district_id": "351007",
+    "name": "JAJAG"
+  },
+  {
+    "id": "3510072007",
+    "district_id": "351007",
+    "name": "GAMBIRAN"
+  },
+  {
+    "id": "3510072008",
+    "district_id": "351007",
+    "name": "YOSOMULYO"
+  },
+  {
+    "id": "3510072009",
+    "district_id": "351007",
+    "name": "WRINGINREJO"
+  },
+  {
+    "id": "3510072010",
+    "district_id": "351007",
+    "name": "WRINGINAGUNG"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "3515041003", "district_id": "351504", "name": "PORONG"}, {"id": "3515041004", "district_id": "351504", "name": "JUWETKENONGO"}, {"id": "3515041006", "district_id": "351504", "name": "GEDANG"}, {"id": "3515042001", "district_id": "351504", "name": "KEBONAGUNG"}, {"id": "3515042002", "district_id": "351504", "name": "KEDUNGSOLO"}, {"id": "3515042007", "district_id": "351504", "name": "KESAMBI"}, {"id": "3515042008", "district_id": "351504", "name": "KEBAKALAN"}, {"id": "3515042009", "district_id": "351504", "name": "LAJUK"}, {"id": "3515042010", "district_id": "351504", "name": "KEDUNGBOTO"}, {"id": "3515042011", "district_id": "351504", "name": "CANDIPARI"}, {"id": "3515042012", "district_id": "351504", "name": "PAMOTAN"}, {"id": "3515042015", "district_id": "351504", "name": "GLAGAHARUM"}, {"id": "3515042016", "district_id": "351504", "name": "PLUMBON"}, {"id": "3515042018", "district_id": "351504", "name": "WUNUT"}, {"id": "3515042019", "district_id": "351504", "name": "PESAWAHAN"}]
+[
+  {
+    "id": "3515041003",
+    "district_id": "351504",
+    "name": "PORONG"
+  },
+  {
+    "id": "3515041004",
+    "district_id": "351504",
+    "name": "JUWETKENONGO"
+  },
+  {
+    "id": "3515041006",
+    "district_id": "351504",
+    "name": "GEDANG"
+  },
+  {
+    "id": "3515042001",
+    "district_id": "351504",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3515042002",
+    "district_id": "351504",
+    "name": "KEDUNGSOLO"
+  },
+  {
+    "id": "3515042007",
+    "district_id": "351504",
+    "name": "KESAMBI"
+  },
+  {
+    "id": "3515042008",
+    "district_id": "351504",
+    "name": "KEBAKALAN"
+  },
+  {
+    "id": "3515042009",
+    "district_id": "351504",
+    "name": "LAJUK"
+  },
+  {
+    "id": "3515042010",
+    "district_id": "351504",
+    "name": "KEDUNGBOTO"
+  },
+  {
+    "id": "3515042011",
+    "district_id": "351504",
+    "name": "CANDIPARI"
+  },
+  {
+    "id": "3515042012",
+    "district_id": "351504",
+    "name": "PAMOTAN"
+  },
+  {
+    "id": "3515042015",
+    "district_id": "351504",
+    "name": "GLAGAHARUM"
+  },
+  {
+    "id": "3515042016",
+    "district_id": "351504",
+    "name": "PLUMBON"
+  },
+  {
+    "id": "3515042018",
+    "district_id": "351504",
+    "name": "WUNUT"
+  },
+  {
+    "id": "3515042019",
+    "district_id": "351504",
+    "name": "PESAWAHAN"
+  }
+]

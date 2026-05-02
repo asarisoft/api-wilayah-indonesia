@@ -1,1 +1,27 @@
-[{"id": "7601052001", "district_id": "760105", "name": "DAPURANG"}, {"id": "7601052002", "district_id": "760105", "name": "BENGGAULU"}, {"id": "7601052003", "district_id": "760105", "name": "TIRTABUANA"}, {"id": "7601052004", "district_id": "760105", "name": "BULU BONGGU"}, {"id": "7601052005", "district_id": "760105", "name": "SARASA"}]
+[
+  {
+    "id": "7601052001",
+    "district_id": "760105",
+    "name": "DAPURANG"
+  },
+  {
+    "id": "7601052002",
+    "district_id": "760105",
+    "name": "BENGGAULU"
+  },
+  {
+    "id": "7601052003",
+    "district_id": "760105",
+    "name": "TIRTABUANA"
+  },
+  {
+    "id": "7601052004",
+    "district_id": "760105",
+    "name": "BULU BONGGU"
+  },
+  {
+    "id": "7601052005",
+    "district_id": "760105",
+    "name": "SARASA"
+  }
+]

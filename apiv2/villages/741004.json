@@ -1,1 +1,72 @@
-[{"id": "7410042001", "district_id": "741004", "name": "KOTAWO"}, {"id": "7410042002", "district_id": "741004", "name": "KARYA BHAKTI"}, {"id": "7410042003", "district_id": "741004", "name": "MARGA KARYA"}, {"id": "7410042004", "district_id": "741004", "name": "KASULATOMBI"}, {"id": "7410042005", "district_id": "741004", "name": "DAMPALA JAYA"}, {"id": "7410042006", "district_id": "741004", "name": "RAHMAT BARU"}, {"id": "7410042007", "district_id": "741004", "name": "SOLOY AGUNG"}, {"id": "7410042008", "district_id": "741004", "name": "BUMI LAPERO"}, {"id": "7410042009", "district_id": "741004", "name": "KARYA MULYA"}, {"id": "7410042010", "district_id": "741004", "name": "LAMBALE"}, {"id": "7410042011", "district_id": "741004", "name": "LAPANDEWA"}, {"id": "7410042012", "district_id": "741004", "name": "LAUKI"}, {"id": "7410042013", "district_id": "741004", "name": "MEKAR JAYA"}, {"id": "7410042014", "district_id": "741004", "name": "LABULANDA"}]
+[
+  {
+    "id": "7410042001",
+    "district_id": "741004",
+    "name": "KOTAWO"
+  },
+  {
+    "id": "7410042002",
+    "district_id": "741004",
+    "name": "KARYA BHAKTI"
+  },
+  {
+    "id": "7410042003",
+    "district_id": "741004",
+    "name": "MARGA KARYA"
+  },
+  {
+    "id": "7410042004",
+    "district_id": "741004",
+    "name": "KASULATOMBI"
+  },
+  {
+    "id": "7410042005",
+    "district_id": "741004",
+    "name": "DAMPALA JAYA"
+  },
+  {
+    "id": "7410042006",
+    "district_id": "741004",
+    "name": "RAHMAT BARU"
+  },
+  {
+    "id": "7410042007",
+    "district_id": "741004",
+    "name": "SOLOY AGUNG"
+  },
+  {
+    "id": "7410042008",
+    "district_id": "741004",
+    "name": "BUMI LAPERO"
+  },
+  {
+    "id": "7410042009",
+    "district_id": "741004",
+    "name": "KARYA MULYA"
+  },
+  {
+    "id": "7410042010",
+    "district_id": "741004",
+    "name": "LAMBALE"
+  },
+  {
+    "id": "7410042011",
+    "district_id": "741004",
+    "name": "LAPANDEWA"
+  },
+  {
+    "id": "7410042012",
+    "district_id": "741004",
+    "name": "LAUKI"
+  },
+  {
+    "id": "7410042013",
+    "district_id": "741004",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "7410042014",
+    "district_id": "741004",
+    "name": "LABULANDA"
+  }
+]

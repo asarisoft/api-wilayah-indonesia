@@ -1,1 +1,12 @@
-[{"id": "3402012001", "district_id": "340201", "name": "PONCOSARI"}, {"id": "3402012002", "district_id": "340201", "name": "TRIMURTI"}]
+[
+  {
+    "id": "3402012001",
+    "district_id": "340201",
+    "name": "PONCOSARI"
+  },
+  {
+    "id": "3402012002",
+    "district_id": "340201",
+    "name": "TRIMURTI"
+  }
+]

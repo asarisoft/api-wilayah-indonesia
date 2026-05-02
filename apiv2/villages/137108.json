@@ -1,1 +1,47 @@
-[{"id": "1371081001", "district_id": "137108", "name": "LIMAU MANIS"}, {"id": "1371081002", "district_id": "137108", "name": "KOTO LUA"}, {"id": "1371081003", "district_id": "137108", "name": "LIMAU MANIS SELATAN"}, {"id": "1371081004", "district_id": "137108", "name": "PIAI TANGAH"}, {"id": "1371081005", "district_id": "137108", "name": "CUPAK TANGAH"}, {"id": "1371081006", "district_id": "137108", "name": "PISANG"}, {"id": "1371081007", "district_id": "137108", "name": "BINUANG KAMPUNG DALAM"}, {"id": "1371081008", "district_id": "137108", "name": "KAPALO KOTO"}, {"id": "1371081009", "district_id": "137108", "name": "LAMBUNG BUKIT"}]
+[
+  {
+    "id": "1371081001",
+    "district_id": "137108",
+    "name": "LIMAU MANIS"
+  },
+  {
+    "id": "1371081002",
+    "district_id": "137108",
+    "name": "KOTO LUA"
+  },
+  {
+    "id": "1371081003",
+    "district_id": "137108",
+    "name": "LIMAU MANIS SELATAN"
+  },
+  {
+    "id": "1371081004",
+    "district_id": "137108",
+    "name": "PIAI TANGAH"
+  },
+  {
+    "id": "1371081005",
+    "district_id": "137108",
+    "name": "CUPAK TANGAH"
+  },
+  {
+    "id": "1371081006",
+    "district_id": "137108",
+    "name": "PISANG"
+  },
+  {
+    "id": "1371081007",
+    "district_id": "137108",
+    "name": "BINUANG KAMPUNG DALAM"
+  },
+  {
+    "id": "1371081008",
+    "district_id": "137108",
+    "name": "KAPALO KOTO"
+  },
+  {
+    "id": "1371081009",
+    "district_id": "137108",
+    "name": "LAMBUNG BUKIT"
+  }
+]

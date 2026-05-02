@@ -1,1 +1,17 @@
-[{"id": "9206082001", "district_id": "920608", "name": "FRUATA/IROWUTU II"}, {"id": "9206082002", "district_id": "920608", "name": "MERYEDI"}, {"id": "9206082003", "district_id": "920608", "name": "RIENDO"}]
+[
+  {
+    "id": "9206082001",
+    "district_id": "920608",
+    "name": "FRUATA/IROWUTU II"
+  },
+  {
+    "id": "9206082002",
+    "district_id": "920608",
+    "name": "MERYEDI"
+  },
+  {
+    "id": "9206082003",
+    "district_id": "920608",
+    "name": "RIENDO"
+  }
+]

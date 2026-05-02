@@ -1,1 +1,82 @@
-[{"id": "1806152001", "district_id": "180615", "name": "DATARAJAN"}, {"id": "1806152002", "district_id": "180615", "name": "GUNUNG TIGA"}, {"id": "1806152003", "district_id": "180615", "name": "KARANG REJO"}, {"id": "1806152004", "district_id": "180615", "name": "PAGAR ALAM ULU BELU"}, {"id": "1806152005", "district_id": "180615", "name": "MUARA DUA ULU BELU"}, {"id": "1806152006", "district_id": "180615", "name": "NGARIP"}, {"id": "1806152007", "district_id": "180615", "name": "PENANTIAN ULU BELU"}, {"id": "1806152008", "district_id": "180615", "name": "GUNUNG SARI"}, {"id": "1806152009", "district_id": "180615", "name": "ULU SEMONG"}, {"id": "1806152010", "district_id": "180615", "name": "SIRNA GALIH"}, {"id": "1806152011", "district_id": "180615", "name": "REJO SARI"}, {"id": "1806152012", "district_id": "180615", "name": "SUKAMAJU"}, {"id": "1806152013", "district_id": "180615", "name": "TANJUNG BARU"}, {"id": "1806152014", "district_id": "180615", "name": "SINAR BANTEN"}, {"id": "1806152015", "district_id": "180615", "name": "AIR ABANG"}, {"id": "1806152016", "district_id": "180615", "name": "PETAY KAYU"}]
+[
+  {
+    "id": "1806152001",
+    "district_id": "180615",
+    "name": "DATARAJAN"
+  },
+  {
+    "id": "1806152002",
+    "district_id": "180615",
+    "name": "GUNUNG TIGA"
+  },
+  {
+    "id": "1806152003",
+    "district_id": "180615",
+    "name": "KARANG REJO"
+  },
+  {
+    "id": "1806152004",
+    "district_id": "180615",
+    "name": "PAGAR ALAM ULU BELU"
+  },
+  {
+    "id": "1806152005",
+    "district_id": "180615",
+    "name": "MUARA DUA ULU BELU"
+  },
+  {
+    "id": "1806152006",
+    "district_id": "180615",
+    "name": "NGARIP"
+  },
+  {
+    "id": "1806152007",
+    "district_id": "180615",
+    "name": "PENANTIAN ULU BELU"
+  },
+  {
+    "id": "1806152008",
+    "district_id": "180615",
+    "name": "GUNUNG SARI"
+  },
+  {
+    "id": "1806152009",
+    "district_id": "180615",
+    "name": "ULU SEMONG"
+  },
+  {
+    "id": "1806152010",
+    "district_id": "180615",
+    "name": "SIRNA GALIH"
+  },
+  {
+    "id": "1806152011",
+    "district_id": "180615",
+    "name": "REJO SARI"
+  },
+  {
+    "id": "1806152012",
+    "district_id": "180615",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "1806152013",
+    "district_id": "180615",
+    "name": "TANJUNG BARU"
+  },
+  {
+    "id": "1806152014",
+    "district_id": "180615",
+    "name": "SINAR BANTEN"
+  },
+  {
+    "id": "1806152015",
+    "district_id": "180615",
+    "name": "AIR ABANG"
+  },
+  {
+    "id": "1806152016",
+    "district_id": "180615",
+    "name": "PETAY KAYU"
+  }
+]

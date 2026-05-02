@@ -1,1 +1,37 @@
-[{"id": "7601072001", "district_id": "760107", "name": "LILIMORI"}, {"id": "7601072002", "district_id": "760107", "name": "KARAVE"}, {"id": "7601072003", "district_id": "760107", "name": "BUKIT HARAPAN"}, {"id": "7601072004", "district_id": "760107", "name": "KASTABUANA"}, {"id": "7601072005", "district_id": "760107", "name": "SUMBER SARI"}, {"id": "7601072006", "district_id": "760107", "name": "LELEJAE"}, {"id": "7601072007", "district_id": "760107", "name": "OMPI"}]
+[
+  {
+    "id": "7601072001",
+    "district_id": "760107",
+    "name": "LILIMORI"
+  },
+  {
+    "id": "7601072002",
+    "district_id": "760107",
+    "name": "KARAVE"
+  },
+  {
+    "id": "7601072003",
+    "district_id": "760107",
+    "name": "BUKIT HARAPAN"
+  },
+  {
+    "id": "7601072004",
+    "district_id": "760107",
+    "name": "KASTABUANA"
+  },
+  {
+    "id": "7601072005",
+    "district_id": "760107",
+    "name": "SUMBER SARI"
+  },
+  {
+    "id": "7601072006",
+    "district_id": "760107",
+    "name": "LELEJAE"
+  },
+  {
+    "id": "7601072007",
+    "district_id": "760107",
+    "name": "OMPI"
+  }
+]

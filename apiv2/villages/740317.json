@@ -1,1 +1,37 @@
-[{"id": "7403171002", "district_id": "740317", "name": "PALANGGA"}, {"id": "7403171005", "district_id": "740317", "name": "WAPUNTO"}, {"id": "7403172001", "district_id": "740317", "name": "GHONSUME"}, {"id": "7403172003", "district_id": "740317", "name": "LAGASA"}, {"id": "7403172004", "district_id": "740317", "name": "GHONE BHALANO"}, {"id": "7403172006", "district_id": "740317", "name": "LASUNAPA"}, {"id": "7403172007", "district_id": "740317", "name": "BANGGAI"}]
+[
+  {
+    "id": "7403171002",
+    "district_id": "740317",
+    "name": "PALANGGA"
+  },
+  {
+    "id": "7403171005",
+    "district_id": "740317",
+    "name": "WAPUNTO"
+  },
+  {
+    "id": "7403172001",
+    "district_id": "740317",
+    "name": "GHONSUME"
+  },
+  {
+    "id": "7403172003",
+    "district_id": "740317",
+    "name": "LAGASA"
+  },
+  {
+    "id": "7403172004",
+    "district_id": "740317",
+    "name": "GHONE BHALANO"
+  },
+  {
+    "id": "7403172006",
+    "district_id": "740317",
+    "name": "LASUNAPA"
+  },
+  {
+    "id": "7403172007",
+    "district_id": "740317",
+    "name": "BANGGAI"
+  }
+]

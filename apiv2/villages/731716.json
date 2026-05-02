@@ -1,1 +1,57 @@
-[{"id": "7317161004", "district_id": "731716", "name": "BOSSO"}, {"id": "7317162001", "district_id": "731716", "name": "SALUTUBU"}, {"id": "7317162002", "district_id": "731716", "name": "SITEBA"}, {"id": "7317162003", "district_id": "731716", "name": "BOLONG"}, {"id": "7317162005", "district_id": "731716", "name": "PONGKO"}, {"id": "7317162006", "district_id": "731716", "name": "BUNTU AWO'"}, {"id": "7317162007", "district_id": "731716", "name": "MARABUANA"}, {"id": "7317162008", "district_id": "731716", "name": "SALULINO"}, {"id": "7317162009", "district_id": "731716", "name": "SANGTANDUNG"}, {"id": "7317162010", "district_id": "731716", "name": "BOSSO TIMUR"}, {"id": "7317162011", "district_id": "731716", "name": "LIMBONG"}]
+[
+  {
+    "id": "7317161004",
+    "district_id": "731716",
+    "name": "BOSSO"
+  },
+  {
+    "id": "7317162001",
+    "district_id": "731716",
+    "name": "SALUTUBU"
+  },
+  {
+    "id": "7317162002",
+    "district_id": "731716",
+    "name": "SITEBA"
+  },
+  {
+    "id": "7317162003",
+    "district_id": "731716",
+    "name": "BOLONG"
+  },
+  {
+    "id": "7317162005",
+    "district_id": "731716",
+    "name": "PONGKO"
+  },
+  {
+    "id": "7317162006",
+    "district_id": "731716",
+    "name": "BUNTU AWO'"
+  },
+  {
+    "id": "7317162007",
+    "district_id": "731716",
+    "name": "MARABUANA"
+  },
+  {
+    "id": "7317162008",
+    "district_id": "731716",
+    "name": "SALULINO"
+  },
+  {
+    "id": "7317162009",
+    "district_id": "731716",
+    "name": "SANGTANDUNG"
+  },
+  {
+    "id": "7317162010",
+    "district_id": "731716",
+    "name": "BOSSO TIMUR"
+  },
+  {
+    "id": "7317162011",
+    "district_id": "731716",
+    "name": "LIMBONG"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "6301012001", "district_id": "630101", "name": "BENUA LAWAS"}, {"id": "6301012002", "district_id": "630101", "name": "TABANIO"}, {"id": "6301012003", "district_id": "630101", "name": "KUALA TAMBANGAN"}, {"id": "6301012004", "district_id": "630101", "name": "TAKISUNG"}, {"id": "6301012005", "district_id": "630101", "name": "GUNUNG MAKMUR"}, {"id": "6301012006", "district_id": "630101", "name": "BENUA TENGAH"}, {"id": "6301012007", "district_id": "630101", "name": "RANGGANG"}, {"id": "6301012008", "district_id": "630101", "name": "PAGATAN BESAR"}, {"id": "6301012009", "district_id": "630101", "name": "BATILAI"}, {"id": "6301012010", "district_id": "630101", "name": "RANGGANG DALAM"}, {"id": "6301012011", "district_id": "630101", "name": "TELAGA LANGSAT"}, {"id": "6301012012", "district_id": "630101", "name": "SUMBER MAKMUR"}]
+[
+  {
+    "id": "6301012001",
+    "district_id": "630101",
+    "name": "BENUA LAWAS"
+  },
+  {
+    "id": "6301012002",
+    "district_id": "630101",
+    "name": "TABANIO"
+  },
+  {
+    "id": "6301012003",
+    "district_id": "630101",
+    "name": "KUALA TAMBANGAN"
+  },
+  {
+    "id": "6301012004",
+    "district_id": "630101",
+    "name": "TAKISUNG"
+  },
+  {
+    "id": "6301012005",
+    "district_id": "630101",
+    "name": "GUNUNG MAKMUR"
+  },
+  {
+    "id": "6301012006",
+    "district_id": "630101",
+    "name": "BENUA TENGAH"
+  },
+  {
+    "id": "6301012007",
+    "district_id": "630101",
+    "name": "RANGGANG"
+  },
+  {
+    "id": "6301012008",
+    "district_id": "630101",
+    "name": "PAGATAN BESAR"
+  },
+  {
+    "id": "6301012009",
+    "district_id": "630101",
+    "name": "BATILAI"
+  },
+  {
+    "id": "6301012010",
+    "district_id": "630101",
+    "name": "RANGGANG DALAM"
+  },
+  {
+    "id": "6301012011",
+    "district_id": "630101",
+    "name": "TELAGA LANGSAT"
+  },
+  {
+    "id": "6301012012",
+    "district_id": "630101",
+    "name": "SUMBER MAKMUR"
+  }
+]

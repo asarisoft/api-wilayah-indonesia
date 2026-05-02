@@ -1,1 +1,52 @@
-[{"id": "3214142001", "district_id": "321414", "name": "CIBATU"}, {"id": "3214142002", "district_id": "321414", "name": "CILANDAK"}, {"id": "3214142003", "district_id": "321414", "name": "KARYAMEKAR"}, {"id": "3214142004", "district_id": "321414", "name": "CIPINANG"}, {"id": "3214142005", "district_id": "321414", "name": "CIPARUNGSARI"}, {"id": "3214142006", "district_id": "321414", "name": "CIRANGKONG"}, {"id": "3214142007", "district_id": "321414", "name": "CIKADU"}, {"id": "3214142008", "district_id": "321414", "name": "CIBUKAMANAH"}, {"id": "3214142009", "district_id": "321414", "name": "WANAWALI"}, {"id": "3214142010", "district_id": "321414", "name": "CIPANCUR"}]
+[
+  {
+    "id": "3214142001",
+    "district_id": "321414",
+    "name": "CIBATU"
+  },
+  {
+    "id": "3214142002",
+    "district_id": "321414",
+    "name": "CILANDAK"
+  },
+  {
+    "id": "3214142003",
+    "district_id": "321414",
+    "name": "KARYAMEKAR"
+  },
+  {
+    "id": "3214142004",
+    "district_id": "321414",
+    "name": "CIPINANG"
+  },
+  {
+    "id": "3214142005",
+    "district_id": "321414",
+    "name": "CIPARUNGSARI"
+  },
+  {
+    "id": "3214142006",
+    "district_id": "321414",
+    "name": "CIRANGKONG"
+  },
+  {
+    "id": "3214142007",
+    "district_id": "321414",
+    "name": "CIKADU"
+  },
+  {
+    "id": "3214142008",
+    "district_id": "321414",
+    "name": "CIBUKAMANAH"
+  },
+  {
+    "id": "3214142009",
+    "district_id": "321414",
+    "name": "WANAWALI"
+  },
+  {
+    "id": "3214142010",
+    "district_id": "321414",
+    "name": "CIPANCUR"
+  }
+]

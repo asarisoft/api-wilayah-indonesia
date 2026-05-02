@@ -1,1 +1,57 @@
-[{"id": "3206362001", "district_id": "320636", "name": "GOMBONG"}, {"id": "3206362002", "district_id": "320636", "name": "BUGEL"}, {"id": "3206362003", "district_id": "320636", "name": "MARGASARI"}, {"id": "3206362004", "district_id": "320636", "name": "PAKEMITAN"}, {"id": "3206362005", "district_id": "320636", "name": "CIAWI"}, {"id": "3206362006", "district_id": "320636", "name": "SUKAMANTRI"}, {"id": "3206362007", "district_id": "320636", "name": "PASIRHUNI"}, {"id": "3206362008", "district_id": "320636", "name": "CITAMBA"}, {"id": "3206362009", "district_id": "320636", "name": "KERTAMUKTI"}, {"id": "3206362010", "district_id": "320636", "name": "KURNIABAKTI"}, {"id": "3206362011", "district_id": "320636", "name": "PAKEMITANKIDUL"}]
+[
+  {
+    "id": "3206362001",
+    "district_id": "320636",
+    "name": "GOMBONG"
+  },
+  {
+    "id": "3206362002",
+    "district_id": "320636",
+    "name": "BUGEL"
+  },
+  {
+    "id": "3206362003",
+    "district_id": "320636",
+    "name": "MARGASARI"
+  },
+  {
+    "id": "3206362004",
+    "district_id": "320636",
+    "name": "PAKEMITAN"
+  },
+  {
+    "id": "3206362005",
+    "district_id": "320636",
+    "name": "CIAWI"
+  },
+  {
+    "id": "3206362006",
+    "district_id": "320636",
+    "name": "SUKAMANTRI"
+  },
+  {
+    "id": "3206362007",
+    "district_id": "320636",
+    "name": "PASIRHUNI"
+  },
+  {
+    "id": "3206362008",
+    "district_id": "320636",
+    "name": "CITAMBA"
+  },
+  {
+    "id": "3206362009",
+    "district_id": "320636",
+    "name": "KERTAMUKTI"
+  },
+  {
+    "id": "3206362010",
+    "district_id": "320636",
+    "name": "KURNIABAKTI"
+  },
+  {
+    "id": "3206362011",
+    "district_id": "320636",
+    "name": "PAKEMITANKIDUL"
+  }
+]

@@ -1,1 +1,97 @@
-[{"id": "3302212001", "district_id": "330221", "name": "SILADO"}, {"id": "3302212002", "district_id": "330221", "name": "KARANGTURI"}, {"id": "3302212003", "district_id": "330221", "name": "KARANGCEGAK"}, {"id": "3302212004", "district_id": "330221", "name": "SUMBANG"}, {"id": "3302212005", "district_id": "330221", "name": "TAMBAKSOGRA"}, {"id": "3302212006", "district_id": "330221", "name": "KEBANGGAN"}, {"id": "3302212007", "district_id": "330221", "name": "KAWUNGCARANG"}, {"id": "3302212008", "district_id": "330221", "name": "KARANGGINTUNG"}, {"id": "3302212009", "district_id": "330221", "name": "DATAR"}, {"id": "3302212010", "district_id": "330221", "name": "BANJARSARI KULON"}, {"id": "3302212011", "district_id": "330221", "name": "BANJARSARI WETAN"}, {"id": "3302212012", "district_id": "330221", "name": "BANTERAN"}, {"id": "3302212013", "district_id": "330221", "name": "CIBEREM"}, {"id": "3302212014", "district_id": "330221", "name": "SUSUKAN"}, {"id": "3302212015", "district_id": "330221", "name": "SIKAPAT"}, {"id": "3302212016", "district_id": "330221", "name": "GANDATAPA"}, {"id": "3302212017", "district_id": "330221", "name": "KOTAYASA"}, {"id": "3302212018", "district_id": "330221", "name": "LIMPAKUWUS"}, {"id": "3302212019", "district_id": "330221", "name": "KEDUNGMALANG"}]
+[
+  {
+    "id": "3302212001",
+    "district_id": "330221",
+    "name": "SILADO"
+  },
+  {
+    "id": "3302212002",
+    "district_id": "330221",
+    "name": "KARANGTURI"
+  },
+  {
+    "id": "3302212003",
+    "district_id": "330221",
+    "name": "KARANGCEGAK"
+  },
+  {
+    "id": "3302212004",
+    "district_id": "330221",
+    "name": "SUMBANG"
+  },
+  {
+    "id": "3302212005",
+    "district_id": "330221",
+    "name": "TAMBAKSOGRA"
+  },
+  {
+    "id": "3302212006",
+    "district_id": "330221",
+    "name": "KEBANGGAN"
+  },
+  {
+    "id": "3302212007",
+    "district_id": "330221",
+    "name": "KAWUNGCARANG"
+  },
+  {
+    "id": "3302212008",
+    "district_id": "330221",
+    "name": "KARANGGINTUNG"
+  },
+  {
+    "id": "3302212009",
+    "district_id": "330221",
+    "name": "DATAR"
+  },
+  {
+    "id": "3302212010",
+    "district_id": "330221",
+    "name": "BANJARSARI KULON"
+  },
+  {
+    "id": "3302212011",
+    "district_id": "330221",
+    "name": "BANJARSARI WETAN"
+  },
+  {
+    "id": "3302212012",
+    "district_id": "330221",
+    "name": "BANTERAN"
+  },
+  {
+    "id": "3302212013",
+    "district_id": "330221",
+    "name": "CIBEREM"
+  },
+  {
+    "id": "3302212014",
+    "district_id": "330221",
+    "name": "SUSUKAN"
+  },
+  {
+    "id": "3302212015",
+    "district_id": "330221",
+    "name": "SIKAPAT"
+  },
+  {
+    "id": "3302212016",
+    "district_id": "330221",
+    "name": "GANDATAPA"
+  },
+  {
+    "id": "3302212017",
+    "district_id": "330221",
+    "name": "KOTAYASA"
+  },
+  {
+    "id": "3302212018",
+    "district_id": "330221",
+    "name": "LIMPAKUWUS"
+  },
+  {
+    "id": "3302212019",
+    "district_id": "330221",
+    "name": "KEDUNGMALANG"
+  }
+]

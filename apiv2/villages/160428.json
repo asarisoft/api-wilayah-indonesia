@@ -1,1 +1,37 @@
-[{"id": "1604282001", "district_id": "160428", "name": "MUARA PAYANG"}, {"id": "1604282002", "district_id": "160428", "name": "MUARA GELUMPAI"}, {"id": "1604282003", "district_id": "160428", "name": "TALANG TINGGI"}, {"id": "1604282004", "district_id": "160428", "name": "LAWANG AGUNG LAMA"}, {"id": "1604282005", "district_id": "160428", "name": "LAWANG AGUNG BARU"}, {"id": "1604282006", "district_id": "160428", "name": "MUARA JAUH"}, {"id": "1604282007", "district_id": "160428", "name": "BANDU AGUNG"}]
+[
+  {
+    "id": "1604282001",
+    "district_id": "160428",
+    "name": "MUARA PAYANG"
+  },
+  {
+    "id": "1604282002",
+    "district_id": "160428",
+    "name": "MUARA GELUMPAI"
+  },
+  {
+    "id": "1604282003",
+    "district_id": "160428",
+    "name": "TALANG TINGGI"
+  },
+  {
+    "id": "1604282004",
+    "district_id": "160428",
+    "name": "LAWANG AGUNG LAMA"
+  },
+  {
+    "id": "1604282005",
+    "district_id": "160428",
+    "name": "LAWANG AGUNG BARU"
+  },
+  {
+    "id": "1604282006",
+    "district_id": "160428",
+    "name": "MUARA JAUH"
+  },
+  {
+    "id": "1604282007",
+    "district_id": "160428",
+    "name": "BANDU AGUNG"
+  }
+]

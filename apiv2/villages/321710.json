@@ -1,1 +1,52 @@
-[{"id": "3217102001", "district_id": "321710", "name": "CIPATIK"}, {"id": "3217102002", "district_id": "321710", "name": "CITAPEN"}, {"id": "3217102003", "district_id": "321710", "name": "CIHAMPELAS"}, {"id": "3217102004", "district_id": "321710", "name": "MEKARJAYA"}, {"id": "3217102005", "district_id": "321710", "name": "MEKARMUKTI"}, {"id": "3217102006", "district_id": "321710", "name": "PATARUMAN"}, {"id": "3217102007", "district_id": "321710", "name": "SITUWANGI"}, {"id": "3217102008", "district_id": "321710", "name": "SINGAJAYA"}, {"id": "3217102009", "district_id": "321710", "name": "TANJUNGWANGI"}, {"id": "3217102010", "district_id": "321710", "name": "TANJUNGJAYA"}]
+[
+  {
+    "id": "3217102001",
+    "district_id": "321710",
+    "name": "CIPATIK"
+  },
+  {
+    "id": "3217102002",
+    "district_id": "321710",
+    "name": "CITAPEN"
+  },
+  {
+    "id": "3217102003",
+    "district_id": "321710",
+    "name": "CIHAMPELAS"
+  },
+  {
+    "id": "3217102004",
+    "district_id": "321710",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3217102005",
+    "district_id": "321710",
+    "name": "MEKARMUKTI"
+  },
+  {
+    "id": "3217102006",
+    "district_id": "321710",
+    "name": "PATARUMAN"
+  },
+  {
+    "id": "3217102007",
+    "district_id": "321710",
+    "name": "SITUWANGI"
+  },
+  {
+    "id": "3217102008",
+    "district_id": "321710",
+    "name": "SINGAJAYA"
+  },
+  {
+    "id": "3217102009",
+    "district_id": "321710",
+    "name": "TANJUNGWANGI"
+  },
+  {
+    "id": "3217102010",
+    "district_id": "321710",
+    "name": "TANJUNGJAYA"
+  }
+]

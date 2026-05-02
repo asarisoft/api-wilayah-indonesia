@@ -1,1 +1,47 @@
-[{"id": "3601072001", "district_id": "360107", "name": "ANGSANA"}, {"id": "3601072002", "district_id": "360107", "name": "PADAHERANG"}, {"id": "3601072003", "district_id": "360107", "name": "PADAMULYA"}, {"id": "3601072004", "district_id": "360107", "name": "KARANGSARI"}, {"id": "3601072005", "district_id": "360107", "name": "CIKAYAS"}, {"id": "3601072006", "district_id": "360107", "name": "SUMURLABAN"}, {"id": "3601072007", "district_id": "360107", "name": "KADUBADAK"}, {"id": "3601072009", "district_id": "360107", "name": "CIPINANG"}, {"id": "3601072010", "district_id": "360107", "name": "KRAMATMANIK"}]
+[
+  {
+    "id": "3601072001",
+    "district_id": "360107",
+    "name": "ANGSANA"
+  },
+  {
+    "id": "3601072002",
+    "district_id": "360107",
+    "name": "PADAHERANG"
+  },
+  {
+    "id": "3601072003",
+    "district_id": "360107",
+    "name": "PADAMULYA"
+  },
+  {
+    "id": "3601072004",
+    "district_id": "360107",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3601072005",
+    "district_id": "360107",
+    "name": "CIKAYAS"
+  },
+  {
+    "id": "3601072006",
+    "district_id": "360107",
+    "name": "SUMURLABAN"
+  },
+  {
+    "id": "3601072007",
+    "district_id": "360107",
+    "name": "KADUBADAK"
+  },
+  {
+    "id": "3601072009",
+    "district_id": "360107",
+    "name": "CIPINANG"
+  },
+  {
+    "id": "3601072010",
+    "district_id": "360107",
+    "name": "KRAMATMANIK"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "3273061001", "district_id": "327306", "name": "HUSEIN SASTRANEGARA"}, {"id": "3273061002", "district_id": "327306", "name": "ARJUNA"}, {"id": "3273061003", "district_id": "327306", "name": "PAJAJARAN"}, {"id": "3273061004", "district_id": "327306", "name": "PASIRKALIKI"}, {"id": "3273061005", "district_id": "327306", "name": "PAMOYANAN"}, {"id": "3273061006", "district_id": "327306", "name": "SUKARAJA"}]
+[
+  {
+    "id": "3273061001",
+    "district_id": "327306",
+    "name": "HUSEIN SASTRANEGARA"
+  },
+  {
+    "id": "3273061002",
+    "district_id": "327306",
+    "name": "ARJUNA"
+  },
+  {
+    "id": "3273061003",
+    "district_id": "327306",
+    "name": "PAJAJARAN"
+  },
+  {
+    "id": "3273061004",
+    "district_id": "327306",
+    "name": "PASIRKALIKI"
+  },
+  {
+    "id": "3273061005",
+    "district_id": "327306",
+    "name": "PAMOYANAN"
+  },
+  {
+    "id": "3273061006",
+    "district_id": "327306",
+    "name": "SUKARAJA"
+  }
+]

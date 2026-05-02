@@ -1,1 +1,67 @@
-[{"id": "1610121007", "district_id": "161012", "name": "SUNGAI PINANG"}, {"id": "1610122001", "district_id": "161012", "name": "SERIJABO"}, {"id": "1610122002", "district_id": "161012", "name": "SUNGAI PINANG II"}, {"id": "1610122003", "district_id": "161012", "name": "TALANG DUKUN"}, {"id": "1610122004", "district_id": "161012", "name": "TANJUNG SERIAN"}, {"id": "1610122005", "district_id": "161012", "name": "PENYANDINGAN"}, {"id": "1610122006", "district_id": "161012", "name": "SUNGAI PINANG III"}, {"id": "1610122008", "district_id": "161012", "name": "PINANG JAYA"}, {"id": "1610122009", "district_id": "161012", "name": "SUNGAI PINANG I"}, {"id": "1610122010", "district_id": "161012", "name": "PINANG MAS"}, {"id": "1610122011", "district_id": "161012", "name": "S. PINANG LAGATI"}, {"id": "1610122012", "district_id": "161012", "name": "S. PINANG NIBUNG"}, {"id": "1610122013", "district_id": "161012", "name": "SERI JABO BARU"}]
+[
+  {
+    "id": "1610121007",
+    "district_id": "161012",
+    "name": "SUNGAI PINANG"
+  },
+  {
+    "id": "1610122001",
+    "district_id": "161012",
+    "name": "SERIJABO"
+  },
+  {
+    "id": "1610122002",
+    "district_id": "161012",
+    "name": "SUNGAI PINANG II"
+  },
+  {
+    "id": "1610122003",
+    "district_id": "161012",
+    "name": "TALANG DUKUN"
+  },
+  {
+    "id": "1610122004",
+    "district_id": "161012",
+    "name": "TANJUNG SERIAN"
+  },
+  {
+    "id": "1610122005",
+    "district_id": "161012",
+    "name": "PENYANDINGAN"
+  },
+  {
+    "id": "1610122006",
+    "district_id": "161012",
+    "name": "SUNGAI PINANG III"
+  },
+  {
+    "id": "1610122008",
+    "district_id": "161012",
+    "name": "PINANG JAYA"
+  },
+  {
+    "id": "1610122009",
+    "district_id": "161012",
+    "name": "SUNGAI PINANG I"
+  },
+  {
+    "id": "1610122010",
+    "district_id": "161012",
+    "name": "PINANG MAS"
+  },
+  {
+    "id": "1610122011",
+    "district_id": "161012",
+    "name": "S. PINANG LAGATI"
+  },
+  {
+    "id": "1610122012",
+    "district_id": "161012",
+    "name": "S. PINANG NIBUNG"
+  },
+  {
+    "id": "1610122013",
+    "district_id": "161012",
+    "name": "SERI JABO BARU"
+  }
+]

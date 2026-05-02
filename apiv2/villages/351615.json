@@ -1,1 +1,102 @@
-[{"id": "3516152001", "district_id": "351615", "name": "WATESPROJO"}, {"id": "3516152002", "district_id": "351615", "name": "BETRO"}, {"id": "3516152003", "district_id": "351615", "name": "KEDUNGSARI"}, {"id": "3516152004", "district_id": "351615", "name": "MOJOJAJAR"}, {"id": "3516152005", "district_id": "351615", "name": "BERATKULON"}, {"id": "3516152006", "district_id": "351615", "name": "MOJOSARIREJO"}, {"id": "3516152007", "district_id": "351615", "name": "MOJOWIRYO"}, {"id": "3516152008", "district_id": "351615", "name": "MOJOWATESREJO"}, {"id": "3516152009", "district_id": "351615", "name": "MOJOGEBANG"}, {"id": "3516152010", "district_id": "351615", "name": "MOJOPILANG"}, {"id": "3516152011", "district_id": "351615", "name": "MOJOKUSUMO"}, {"id": "3516152012", "district_id": "351615", "name": "JAPANAN"}, {"id": "3516152013", "district_id": "351615", "name": "MOJOKUMPUL"}, {"id": "3516152014", "district_id": "351615", "name": "TANJUNGAN"}, {"id": "3516152015", "district_id": "351615", "name": "MOJOREJO"}, {"id": "3516152016", "district_id": "351615", "name": "MOJODADI"}, {"id": "3516152017", "district_id": "351615", "name": "KEMLAGI"}, {"id": "3516152018", "district_id": "351615", "name": "MOJOWONO"}, {"id": "3516152019", "district_id": "351615", "name": "PANDANKRAJAN"}, {"id": "3516152020", "district_id": "351615", "name": "MOJODOWO"}]
+[
+  {
+    "id": "3516152001",
+    "district_id": "351615",
+    "name": "WATESPROJO"
+  },
+  {
+    "id": "3516152002",
+    "district_id": "351615",
+    "name": "BETRO"
+  },
+  {
+    "id": "3516152003",
+    "district_id": "351615",
+    "name": "KEDUNGSARI"
+  },
+  {
+    "id": "3516152004",
+    "district_id": "351615",
+    "name": "MOJOJAJAR"
+  },
+  {
+    "id": "3516152005",
+    "district_id": "351615",
+    "name": "BERATKULON"
+  },
+  {
+    "id": "3516152006",
+    "district_id": "351615",
+    "name": "MOJOSARIREJO"
+  },
+  {
+    "id": "3516152007",
+    "district_id": "351615",
+    "name": "MOJOWIRYO"
+  },
+  {
+    "id": "3516152008",
+    "district_id": "351615",
+    "name": "MOJOWATESREJO"
+  },
+  {
+    "id": "3516152009",
+    "district_id": "351615",
+    "name": "MOJOGEBANG"
+  },
+  {
+    "id": "3516152010",
+    "district_id": "351615",
+    "name": "MOJOPILANG"
+  },
+  {
+    "id": "3516152011",
+    "district_id": "351615",
+    "name": "MOJOKUSUMO"
+  },
+  {
+    "id": "3516152012",
+    "district_id": "351615",
+    "name": "JAPANAN"
+  },
+  {
+    "id": "3516152013",
+    "district_id": "351615",
+    "name": "MOJOKUMPUL"
+  },
+  {
+    "id": "3516152014",
+    "district_id": "351615",
+    "name": "TANJUNGAN"
+  },
+  {
+    "id": "3516152015",
+    "district_id": "351615",
+    "name": "MOJOREJO"
+  },
+  {
+    "id": "3516152016",
+    "district_id": "351615",
+    "name": "MOJODADI"
+  },
+  {
+    "id": "3516152017",
+    "district_id": "351615",
+    "name": "KEMLAGI"
+  },
+  {
+    "id": "3516152018",
+    "district_id": "351615",
+    "name": "MOJOWONO"
+  },
+  {
+    "id": "3516152019",
+    "district_id": "351615",
+    "name": "PANDANKRAJAN"
+  },
+  {
+    "id": "3516152020",
+    "district_id": "351615",
+    "name": "MOJODOWO"
+  }
+]

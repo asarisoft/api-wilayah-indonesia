@@ -1,1 +1,72 @@
-[{"id": "7304011001", "district_id": "730401", "name": "BENTENG"}, {"id": "7304011002", "district_id": "730401", "name": "PALLENGU"}, {"id": "7304011003", "district_id": "730401", "name": "PANTAI BAHARI"}, {"id": "7304011004", "district_id": "730401", "name": "BONTORANNU"}, {"id": "7304012005", "district_id": "730401", "name": "PALLANTIKANG"}, {"id": "7304012006", "district_id": "730401", "name": "KALIMPORO"}, {"id": "7304012007", "district_id": "730401", "name": "PUNAGAYA"}, {"id": "7304012008", "district_id": "730401", "name": "MALLASORO"}, {"id": "7304012009", "district_id": "730401", "name": "KAPITA"}, {"id": "7304012010", "district_id": "730401", "name": "MARAYOKA"}, {"id": "7304012011", "district_id": "730401", "name": "JENETALLASA"}, {"id": "7304012012", "district_id": "730401", "name": "TOMBO TOMBOLO"}, {"id": "7304012013", "district_id": "730401", "name": "GUNUNG SILANU"}, {"id": "7304012014", "district_id": "730401", "name": "BONTOMANAI"}]
+[
+  {
+    "id": "7304011001",
+    "district_id": "730401",
+    "name": "BENTENG"
+  },
+  {
+    "id": "7304011002",
+    "district_id": "730401",
+    "name": "PALLENGU"
+  },
+  {
+    "id": "7304011003",
+    "district_id": "730401",
+    "name": "PANTAI BAHARI"
+  },
+  {
+    "id": "7304011004",
+    "district_id": "730401",
+    "name": "BONTORANNU"
+  },
+  {
+    "id": "7304012005",
+    "district_id": "730401",
+    "name": "PALLANTIKANG"
+  },
+  {
+    "id": "7304012006",
+    "district_id": "730401",
+    "name": "KALIMPORO"
+  },
+  {
+    "id": "7304012007",
+    "district_id": "730401",
+    "name": "PUNAGAYA"
+  },
+  {
+    "id": "7304012008",
+    "district_id": "730401",
+    "name": "MALLASORO"
+  },
+  {
+    "id": "7304012009",
+    "district_id": "730401",
+    "name": "KAPITA"
+  },
+  {
+    "id": "7304012010",
+    "district_id": "730401",
+    "name": "MARAYOKA"
+  },
+  {
+    "id": "7304012011",
+    "district_id": "730401",
+    "name": "JENETALLASA"
+  },
+  {
+    "id": "7304012012",
+    "district_id": "730401",
+    "name": "TOMBO TOMBOLO"
+  },
+  {
+    "id": "7304012013",
+    "district_id": "730401",
+    "name": "GUNUNG SILANU"
+  },
+  {
+    "id": "7304012014",
+    "district_id": "730401",
+    "name": "BONTOMANAI"
+  }
+]

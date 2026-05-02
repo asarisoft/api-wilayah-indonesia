@@ -1,1 +1,82 @@
-[{"id": "6108052001", "district_id": "610805", "name": "SERIMBU"}, {"id": "6108052002", "district_id": "610805", "name": "ENGKANGIN"}, {"id": "6108052003", "district_id": "610805", "name": "JAMBU TEMBAWANG"}, {"id": "6108052004", "district_id": "610805", "name": "SEPANGAH"}, {"id": "6108052005", "district_id": "610805", "name": "MERAYUH"}, {"id": "6108052006", "district_id": "610805", "name": "NYARI"}, {"id": "6108052007", "district_id": "610805", "name": "SEKENDAL"}, {"id": "6108052008", "district_id": "610805", "name": "SEMUNTIK"}, {"id": "6108052009", "district_id": "610805", "name": "TEMOYOK"}, {"id": "6108052010", "district_id": "610805", "name": "ENGKADIK PADE"}, {"id": "6108052011", "district_id": "610805", "name": "DANGE AJI"}, {"id": "6108052012", "district_id": "610805", "name": "TENGUWE"}, {"id": "6108052013", "district_id": "610805", "name": "PAREK"}, {"id": "6108052014", "district_id": "610805", "name": "BENTIANG MADOMANG"}, {"id": "6108052015", "district_id": "610805", "name": "TENGON"}, {"id": "6108052016", "district_id": "610805", "name": "SEMPATUNG LAWEK"}]
+[
+  {
+    "id": "6108052001",
+    "district_id": "610805",
+    "name": "SERIMBU"
+  },
+  {
+    "id": "6108052002",
+    "district_id": "610805",
+    "name": "ENGKANGIN"
+  },
+  {
+    "id": "6108052003",
+    "district_id": "610805",
+    "name": "JAMBU TEMBAWANG"
+  },
+  {
+    "id": "6108052004",
+    "district_id": "610805",
+    "name": "SEPANGAH"
+  },
+  {
+    "id": "6108052005",
+    "district_id": "610805",
+    "name": "MERAYUH"
+  },
+  {
+    "id": "6108052006",
+    "district_id": "610805",
+    "name": "NYARI"
+  },
+  {
+    "id": "6108052007",
+    "district_id": "610805",
+    "name": "SEKENDAL"
+  },
+  {
+    "id": "6108052008",
+    "district_id": "610805",
+    "name": "SEMUNTIK"
+  },
+  {
+    "id": "6108052009",
+    "district_id": "610805",
+    "name": "TEMOYOK"
+  },
+  {
+    "id": "6108052010",
+    "district_id": "610805",
+    "name": "ENGKADIK PADE"
+  },
+  {
+    "id": "6108052011",
+    "district_id": "610805",
+    "name": "DANGE AJI"
+  },
+  {
+    "id": "6108052012",
+    "district_id": "610805",
+    "name": "TENGUWE"
+  },
+  {
+    "id": "6108052013",
+    "district_id": "610805",
+    "name": "PAREK"
+  },
+  {
+    "id": "6108052014",
+    "district_id": "610805",
+    "name": "BENTIANG MADOMANG"
+  },
+  {
+    "id": "6108052015",
+    "district_id": "610805",
+    "name": "TENGON"
+  },
+  {
+    "id": "6108052016",
+    "district_id": "610805",
+    "name": "SEMPATUNG LAWEK"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "1606132001", "district_id": "160613", "name": "ULAK PACEH"}, {"id": "1606132002", "district_id": "160613", "name": "ULAK PACEH JAYA"}, {"id": "1606132003", "district_id": "160613", "name": "TANJUNG DURIAN"}, {"id": "1606132004", "district_id": "160613", "name": "NAPAL"}, {"id": "1606132005", "district_id": "160613", "name": "RANTAU KASIH"}, {"id": "1606132006", "district_id": "160613", "name": "KARANG RINGIN I"}, {"id": "1606132007", "district_id": "160613", "name": "KARANG RINGIN II"}, {"id": "1606132008", "district_id": "160613", "name": "ULAK TEBERAU"}, {"id": "1606132009", "district_id": "160613", "name": "BUMI AYU"}, {"id": "1606132010", "district_id": "160613", "name": "KARANG WARU"}, {"id": "1606132011", "district_id": "160613", "name": "KARANG ANYAR"}, {"id": "1606132012", "district_id": "160613", "name": "RANTAU PANJANG"}, {"id": "1606132013", "district_id": "160613", "name": "SIMPANG SARI"}, {"id": "1606132014", "district_id": "160613", "name": "TALANG PIASE"}, {"id": "1606132015", "district_id": "160613", "name": "PANDAN DULANG"}]
+[
+  {
+    "id": "1606132001",
+    "district_id": "160613",
+    "name": "ULAK PACEH"
+  },
+  {
+    "id": "1606132002",
+    "district_id": "160613",
+    "name": "ULAK PACEH JAYA"
+  },
+  {
+    "id": "1606132003",
+    "district_id": "160613",
+    "name": "TANJUNG DURIAN"
+  },
+  {
+    "id": "1606132004",
+    "district_id": "160613",
+    "name": "NAPAL"
+  },
+  {
+    "id": "1606132005",
+    "district_id": "160613",
+    "name": "RANTAU KASIH"
+  },
+  {
+    "id": "1606132006",
+    "district_id": "160613",
+    "name": "KARANG RINGIN I"
+  },
+  {
+    "id": "1606132007",
+    "district_id": "160613",
+    "name": "KARANG RINGIN II"
+  },
+  {
+    "id": "1606132008",
+    "district_id": "160613",
+    "name": "ULAK TEBERAU"
+  },
+  {
+    "id": "1606132009",
+    "district_id": "160613",
+    "name": "BUMI AYU"
+  },
+  {
+    "id": "1606132010",
+    "district_id": "160613",
+    "name": "KARANG WARU"
+  },
+  {
+    "id": "1606132011",
+    "district_id": "160613",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1606132012",
+    "district_id": "160613",
+    "name": "RANTAU PANJANG"
+  },
+  {
+    "id": "1606132013",
+    "district_id": "160613",
+    "name": "SIMPANG SARI"
+  },
+  {
+    "id": "1606132014",
+    "district_id": "160613",
+    "name": "TALANG PIASE"
+  },
+  {
+    "id": "1606132015",
+    "district_id": "160613",
+    "name": "PANDAN DULANG"
+  }
+]

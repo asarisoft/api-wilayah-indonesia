@@ -1,1 +1,67 @@
-[{"id": "3526122001", "district_id": "352612", "name": "KESEK"}, {"id": "3526122002", "district_id": "352612", "name": "LABANG"}, {"id": "3526122003", "district_id": "352612", "name": "JUKONG"}, {"id": "3526122004", "district_id": "352612", "name": "PANGPONG"}, {"id": "3526122005", "district_id": "352612", "name": "SUKOLILO TIMUR"}, {"id": "3526122006", "district_id": "352612", "name": "SUKOLILO BARAT"}, {"id": "3526122007", "district_id": "352612", "name": "BRINGEN"}, {"id": "3526122008", "district_id": "352612", "name": "BA'ENGAS"}, {"id": "3526122009", "district_id": "352612", "name": "BUNAJIH"}, {"id": "3526122010", "district_id": "352612", "name": "SENDANG LAOK"}, {"id": "3526122011", "district_id": "352612", "name": "SENDANG DAJAH"}, {"id": "3526122012", "district_id": "352612", "name": "PETAPAN"}, {"id": "3526122013", "district_id": "352612", "name": "MORKEPEK"}]
+[
+  {
+    "id": "3526122001",
+    "district_id": "352612",
+    "name": "KESEK"
+  },
+  {
+    "id": "3526122002",
+    "district_id": "352612",
+    "name": "LABANG"
+  },
+  {
+    "id": "3526122003",
+    "district_id": "352612",
+    "name": "JUKONG"
+  },
+  {
+    "id": "3526122004",
+    "district_id": "352612",
+    "name": "PANGPONG"
+  },
+  {
+    "id": "3526122005",
+    "district_id": "352612",
+    "name": "SUKOLILO TIMUR"
+  },
+  {
+    "id": "3526122006",
+    "district_id": "352612",
+    "name": "SUKOLILO BARAT"
+  },
+  {
+    "id": "3526122007",
+    "district_id": "352612",
+    "name": "BRINGEN"
+  },
+  {
+    "id": "3526122008",
+    "district_id": "352612",
+    "name": "BA'ENGAS"
+  },
+  {
+    "id": "3526122009",
+    "district_id": "352612",
+    "name": "BUNAJIH"
+  },
+  {
+    "id": "3526122010",
+    "district_id": "352612",
+    "name": "SENDANG LAOK"
+  },
+  {
+    "id": "3526122011",
+    "district_id": "352612",
+    "name": "SENDANG DAJAH"
+  },
+  {
+    "id": "3526122012",
+    "district_id": "352612",
+    "name": "PETAPAN"
+  },
+  {
+    "id": "3526122013",
+    "district_id": "352612",
+    "name": "MORKEPEK"
+  }
+]

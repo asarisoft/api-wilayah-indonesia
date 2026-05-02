@@ -1,1 +1,67 @@
-[{"id": "3508052001", "district_id": "350805", "name": "PANDANWANGI"}, {"id": "3508052002", "district_id": "350805", "name": "SUMBERJATI"}, {"id": "3508052003", "district_id": "350805", "name": "TEMPEH KIDUL"}, {"id": "3508052004", "district_id": "350805", "name": "LEMPENI"}, {"id": "3508052005", "district_id": "350805", "name": "TEMPEH TENGAH"}, {"id": "3508052006", "district_id": "350805", "name": "KALIWUNGU"}, {"id": "3508052007", "district_id": "350805", "name": "TEMPEH LOR"}, {"id": "3508052008", "district_id": "350805", "name": "BESUK"}, {"id": "3508052009", "district_id": "350805", "name": "JATISARI"}, {"id": "3508052010", "district_id": "350805", "name": "PULO"}, {"id": "3508052011", "district_id": "350805", "name": "GESANG"}, {"id": "3508052012", "district_id": "350805", "name": "JOKARTO"}, {"id": "3508052013", "district_id": "350805", "name": "PANDANARUM"}]
+[
+  {
+    "id": "3508052001",
+    "district_id": "350805",
+    "name": "PANDANWANGI"
+  },
+  {
+    "id": "3508052002",
+    "district_id": "350805",
+    "name": "SUMBERJATI"
+  },
+  {
+    "id": "3508052003",
+    "district_id": "350805",
+    "name": "TEMPEH KIDUL"
+  },
+  {
+    "id": "3508052004",
+    "district_id": "350805",
+    "name": "LEMPENI"
+  },
+  {
+    "id": "3508052005",
+    "district_id": "350805",
+    "name": "TEMPEH TENGAH"
+  },
+  {
+    "id": "3508052006",
+    "district_id": "350805",
+    "name": "KALIWUNGU"
+  },
+  {
+    "id": "3508052007",
+    "district_id": "350805",
+    "name": "TEMPEH LOR"
+  },
+  {
+    "id": "3508052008",
+    "district_id": "350805",
+    "name": "BESUK"
+  },
+  {
+    "id": "3508052009",
+    "district_id": "350805",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3508052010",
+    "district_id": "350805",
+    "name": "PULO"
+  },
+  {
+    "id": "3508052011",
+    "district_id": "350805",
+    "name": "GESANG"
+  },
+  {
+    "id": "3508052012",
+    "district_id": "350805",
+    "name": "JOKARTO"
+  },
+  {
+    "id": "3508052013",
+    "district_id": "350805",
+    "name": "PANDANARUM"
+  }
+]

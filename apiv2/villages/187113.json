@@ -1,1 +1,47 @@
-[{"id": "1871131001", "district_id": "187113", "name": "SUMBER REJO"}, {"id": "1871131003", "district_id": "187113", "name": "BERINGIN JAYA"}, {"id": "1871131004", "district_id": "187113", "name": "KEMILING PERMAI"}, {"id": "1871131005", "district_id": "187113", "name": "SUMBER AGUNG"}, {"id": "1871131006", "district_id": "187113", "name": "KEDAUNG"}, {"id": "1871131007", "district_id": "187113", "name": "PINANG JAYA"}, {"id": "1871131008", "district_id": "187113", "name": "SUMBERREJO SEJAHTERA"}, {"id": "1871131009", "district_id": "187113", "name": "KEMILING RAYA"}, {"id": "1871131010", "district_id": "187113", "name": "BERINGIN RAYA"}]
+[
+  {
+    "id": "1871131001",
+    "district_id": "187113",
+    "name": "SUMBER REJO"
+  },
+  {
+    "id": "1871131003",
+    "district_id": "187113",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "1871131004",
+    "district_id": "187113",
+    "name": "KEMILING PERMAI"
+  },
+  {
+    "id": "1871131005",
+    "district_id": "187113",
+    "name": "SUMBER AGUNG"
+  },
+  {
+    "id": "1871131006",
+    "district_id": "187113",
+    "name": "KEDAUNG"
+  },
+  {
+    "id": "1871131007",
+    "district_id": "187113",
+    "name": "PINANG JAYA"
+  },
+  {
+    "id": "1871131008",
+    "district_id": "187113",
+    "name": "SUMBERREJO SEJAHTERA"
+  },
+  {
+    "id": "1871131009",
+    "district_id": "187113",
+    "name": "KEMILING RAYA"
+  },
+  {
+    "id": "1871131010",
+    "district_id": "187113",
+    "name": "BERINGIN RAYA"
+  }
+]

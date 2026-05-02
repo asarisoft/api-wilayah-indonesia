@@ -1,1 +1,47 @@
-[{"id": "3603322001", "district_id": "360332", "name": "GUNUNG KALER"}, {"id": "3603322002", "district_id": "360332", "name": "SIDOKO"}, {"id": "3603322003", "district_id": "360332", "name": "RANCAGEDE"}, {"id": "3603322004", "district_id": "360332", "name": "KEDUNG"}, {"id": "3603322005", "district_id": "360332", "name": "CIPAEH"}, {"id": "3603322006", "district_id": "360332", "name": "ONYAM"}, {"id": "3603322007", "district_id": "360332", "name": "TAMIANG"}, {"id": "3603322008", "district_id": "360332", "name": "KANDAWATI"}, {"id": "3603322009", "district_id": "360332", "name": "CIBETOK"}]
+[
+  {
+    "id": "3603322001",
+    "district_id": "360332",
+    "name": "GUNUNG KALER"
+  },
+  {
+    "id": "3603322002",
+    "district_id": "360332",
+    "name": "SIDOKO"
+  },
+  {
+    "id": "3603322003",
+    "district_id": "360332",
+    "name": "RANCAGEDE"
+  },
+  {
+    "id": "3603322004",
+    "district_id": "360332",
+    "name": "KEDUNG"
+  },
+  {
+    "id": "3603322005",
+    "district_id": "360332",
+    "name": "CIPAEH"
+  },
+  {
+    "id": "3603322006",
+    "district_id": "360332",
+    "name": "ONYAM"
+  },
+  {
+    "id": "3603322007",
+    "district_id": "360332",
+    "name": "TAMIANG"
+  },
+  {
+    "id": "3603322008",
+    "district_id": "360332",
+    "name": "KANDAWATI"
+  },
+  {
+    "id": "3603322009",
+    "district_id": "360332",
+    "name": "CIBETOK"
+  }
+]

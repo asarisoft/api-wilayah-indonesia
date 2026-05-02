@@ -1,1 +1,77 @@
-[{"id": "710308", "regency_id": "7103", "name": "TABUKAN UTARA"}, {"id": "710309", "regency_id": "7103", "name": "NUSA TABUKAN"}, {"id": "710310", "regency_id": "7103", "name": "MANGANITU SELATAN"}, {"id": "710311", "regency_id": "7103", "name": "TATOARENG"}, {"id": "710312", "regency_id": "7103", "name": "TAMAKO"}, {"id": "710313", "regency_id": "7103", "name": "MANGANITU"}, {"id": "710314", "regency_id": "7103", "name": "TABUKAN TENGAH"}, {"id": "710315", "regency_id": "7103", "name": "TABUKAN SELATAN"}, {"id": "710316", "regency_id": "7103", "name": "KENDAHE"}, {"id": "710317", "regency_id": "7103", "name": "TAHUNA"}, {"id": "710319", "regency_id": "7103", "name": "TABUKAN SELATAN TENGAH"}, {"id": "710320", "regency_id": "7103", "name": "TABUKAN SELATAN TENGGARA"}, {"id": "710323", "regency_id": "7103", "name": "TAHUNA BARAT"}, {"id": "710324", "regency_id": "7103", "name": "TAHUNA TIMUR"}, {"id": "710325", "regency_id": "7103", "name": "KEPULAUAN MARORE"}]
+[
+  {
+    "id": "710308",
+    "regency_id": "7103",
+    "name": "TABUKAN UTARA"
+  },
+  {
+    "id": "710309",
+    "regency_id": "7103",
+    "name": "NUSA TABUKAN"
+  },
+  {
+    "id": "710310",
+    "regency_id": "7103",
+    "name": "MANGANITU SELATAN"
+  },
+  {
+    "id": "710311",
+    "regency_id": "7103",
+    "name": "TATOARENG"
+  },
+  {
+    "id": "710312",
+    "regency_id": "7103",
+    "name": "TAMAKO"
+  },
+  {
+    "id": "710313",
+    "regency_id": "7103",
+    "name": "MANGANITU"
+  },
+  {
+    "id": "710314",
+    "regency_id": "7103",
+    "name": "TABUKAN TENGAH"
+  },
+  {
+    "id": "710315",
+    "regency_id": "7103",
+    "name": "TABUKAN SELATAN"
+  },
+  {
+    "id": "710316",
+    "regency_id": "7103",
+    "name": "KENDAHE"
+  },
+  {
+    "id": "710317",
+    "regency_id": "7103",
+    "name": "TAHUNA"
+  },
+  {
+    "id": "710319",
+    "regency_id": "7103",
+    "name": "TABUKAN SELATAN TENGAH"
+  },
+  {
+    "id": "710320",
+    "regency_id": "7103",
+    "name": "TABUKAN SELATAN TENGGARA"
+  },
+  {
+    "id": "710323",
+    "regency_id": "7103",
+    "name": "TAHUNA BARAT"
+  },
+  {
+    "id": "710324",
+    "regency_id": "7103",
+    "name": "TAHUNA TIMUR"
+  },
+  {
+    "id": "710325",
+    "regency_id": "7103",
+    "name": "KEPULAUAN MARORE"
+  }
+]

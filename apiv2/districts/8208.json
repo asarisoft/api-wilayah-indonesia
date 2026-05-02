@@ -1,1 +1,42 @@
-[{"id": "820801", "regency_id": "8208", "name": "TALIABU BARAT"}, {"id": "820802", "regency_id": "8208", "name": "TALIABU BARAT LAUT"}, {"id": "820803", "regency_id": "8208", "name": "LEDE"}, {"id": "820804", "regency_id": "8208", "name": "TALIABU UTARA"}, {"id": "820805", "regency_id": "8208", "name": "TALIABU TIMUR"}, {"id": "820806", "regency_id": "8208", "name": "TALIABU TIMUR SELATAN"}, {"id": "820807", "regency_id": "8208", "name": "TALIABU SELATAN"}, {"id": "820808", "regency_id": "8208", "name": "TABONA"}]
+[
+  {
+    "id": "820801",
+    "regency_id": "8208",
+    "name": "TALIABU BARAT"
+  },
+  {
+    "id": "820802",
+    "regency_id": "8208",
+    "name": "TALIABU BARAT LAUT"
+  },
+  {
+    "id": "820803",
+    "regency_id": "8208",
+    "name": "LEDE"
+  },
+  {
+    "id": "820804",
+    "regency_id": "8208",
+    "name": "TALIABU UTARA"
+  },
+  {
+    "id": "820805",
+    "regency_id": "8208",
+    "name": "TALIABU TIMUR"
+  },
+  {
+    "id": "820806",
+    "regency_id": "8208",
+    "name": "TALIABU TIMUR SELATAN"
+  },
+  {
+    "id": "820807",
+    "regency_id": "8208",
+    "name": "TALIABU SELATAN"
+  },
+  {
+    "id": "820808",
+    "regency_id": "8208",
+    "name": "TABONA"
+  }
+]

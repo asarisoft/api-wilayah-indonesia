@@ -1,1 +1,32 @@
-[{"id": "9301152001", "district_id": "930115", "name": "YOWIED"}, {"id": "9301152002", "district_id": "930115", "name": "DOKIB"}, {"id": "9301152003", "district_id": "930115", "name": "WAMAL"}, {"id": "9301152004", "district_id": "930115", "name": "DODALIM"}, {"id": "9301152005", "district_id": "930115", "name": "WOBOYO"}, {"id": "9301152006", "district_id": "930115", "name": "WELBUTI"}]
+[
+  {
+    "id": "9301152001",
+    "district_id": "930115",
+    "name": "YOWIED"
+  },
+  {
+    "id": "9301152002",
+    "district_id": "930115",
+    "name": "DOKIB"
+  },
+  {
+    "id": "9301152003",
+    "district_id": "930115",
+    "name": "WAMAL"
+  },
+  {
+    "id": "9301152004",
+    "district_id": "930115",
+    "name": "DODALIM"
+  },
+  {
+    "id": "9301152005",
+    "district_id": "930115",
+    "name": "WOBOYO"
+  },
+  {
+    "id": "9301152006",
+    "district_id": "930115",
+    "name": "WELBUTI"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3212092001", "district_id": "321209", "name": "PURWAJAYA"}, {"id": "3212092002", "district_id": "321209", "name": "KAPRINGAN"}, {"id": "3212092003", "district_id": "321209", "name": "SINGAKERTA"}, {"id": "3212092004", "district_id": "321209", "name": "DUKUHJATI"}, {"id": "3212092005", "district_id": "321209", "name": "TEGALMULYA"}, {"id": "3212092006", "district_id": "321209", "name": "KEDUNGWUNGU"}, {"id": "3212092007", "district_id": "321209", "name": "SRENGSENG"}, {"id": "3212092008", "district_id": "321209", "name": "LUWUNGGESIK"}, {"id": "3212092009", "district_id": "321209", "name": "KALIANYAR"}, {"id": "3212092010", "district_id": "321209", "name": "KRANGKENG"}, {"id": "3212092011", "district_id": "321209", "name": "TANJAKAN"}]
+[
+  {
+    "id": "3212092001",
+    "district_id": "321209",
+    "name": "PURWAJAYA"
+  },
+  {
+    "id": "3212092002",
+    "district_id": "321209",
+    "name": "KAPRINGAN"
+  },
+  {
+    "id": "3212092003",
+    "district_id": "321209",
+    "name": "SINGAKERTA"
+  },
+  {
+    "id": "3212092004",
+    "district_id": "321209",
+    "name": "DUKUHJATI"
+  },
+  {
+    "id": "3212092005",
+    "district_id": "321209",
+    "name": "TEGALMULYA"
+  },
+  {
+    "id": "3212092006",
+    "district_id": "321209",
+    "name": "KEDUNGWUNGU"
+  },
+  {
+    "id": "3212092007",
+    "district_id": "321209",
+    "name": "SRENGSENG"
+  },
+  {
+    "id": "3212092008",
+    "district_id": "321209",
+    "name": "LUWUNGGESIK"
+  },
+  {
+    "id": "3212092009",
+    "district_id": "321209",
+    "name": "KALIANYAR"
+  },
+  {
+    "id": "3212092010",
+    "district_id": "321209",
+    "name": "KRANGKENG"
+  },
+  {
+    "id": "3212092011",
+    "district_id": "321209",
+    "name": "TANJAKAN"
+  }
+]

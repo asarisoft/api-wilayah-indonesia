@@ -1,1 +1,37 @@
-[{"id": "7326181002", "district_id": "732618", "name": "BOKIN"}, {"id": "7326181005", "district_id": "732618", "name": "BUANGIN"}, {"id": "7326182001", "district_id": "732618", "name": "RANTEBUA"}, {"id": "7326182003", "district_id": "732618", "name": "PITUNG PENANIAN"}, {"id": "7326182004", "district_id": "732618", "name": "MA'KUAN PARE"}, {"id": "7326182006", "district_id": "732618", "name": "RANTEBUA SUMALU"}, {"id": "7326182007", "district_id": "732618", "name": "RANTEBUA SANGGALANGI'"}]
+[
+  {
+    "id": "7326181002",
+    "district_id": "732618",
+    "name": "BOKIN"
+  },
+  {
+    "id": "7326181005",
+    "district_id": "732618",
+    "name": "BUANGIN"
+  },
+  {
+    "id": "7326182001",
+    "district_id": "732618",
+    "name": "RANTEBUA"
+  },
+  {
+    "id": "7326182003",
+    "district_id": "732618",
+    "name": "PITUNG PENANIAN"
+  },
+  {
+    "id": "7326182004",
+    "district_id": "732618",
+    "name": "MA'KUAN PARE"
+  },
+  {
+    "id": "7326182006",
+    "district_id": "732618",
+    "name": "RANTEBUA SUMALU"
+  },
+  {
+    "id": "7326182007",
+    "district_id": "732618",
+    "name": "RANTEBUA SANGGALANGI'"
+  }
+]

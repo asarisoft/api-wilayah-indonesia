@@ -1,1 +1,42 @@
-[{"id": "7503122001", "district_id": "750312", "name": "BULONTALA"}, {"id": "7503122002", "district_id": "750312", "name": "LIBUNGO"}, {"id": "7503122003", "district_id": "750312", "name": "MOLINTOGUPO"}, {"id": "7503122004", "district_id": "750312", "name": "BONEDAA"}, {"id": "7503122005", "district_id": "750312", "name": "BONDAWUNA"}, {"id": "7503122006", "district_id": "750312", "name": "BULONTALA TIMUR"}, {"id": "7503122007", "district_id": "750312", "name": "PANCURAN"}, {"id": "7503122008", "district_id": "750312", "name": "BONDARAYA"}]
+[
+  {
+    "id": "7503122001",
+    "district_id": "750312",
+    "name": "BULONTALA"
+  },
+  {
+    "id": "7503122002",
+    "district_id": "750312",
+    "name": "LIBUNGO"
+  },
+  {
+    "id": "7503122003",
+    "district_id": "750312",
+    "name": "MOLINTOGUPO"
+  },
+  {
+    "id": "7503122004",
+    "district_id": "750312",
+    "name": "BONEDAA"
+  },
+  {
+    "id": "7503122005",
+    "district_id": "750312",
+    "name": "BONDAWUNA"
+  },
+  {
+    "id": "7503122006",
+    "district_id": "750312",
+    "name": "BULONTALA TIMUR"
+  },
+  {
+    "id": "7503122007",
+    "district_id": "750312",
+    "name": "PANCURAN"
+  },
+  {
+    "id": "7503122008",
+    "district_id": "750312",
+    "name": "BONDARAYA"
+  }
+]

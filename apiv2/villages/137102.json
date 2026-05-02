@@ -1,1 +1,52 @@
-[{"id": "1371021001", "district_id": "137102", "name": "SAWAHAN"}, {"id": "1371021002", "district_id": "137102", "name": "JATI BARU"}, {"id": "1371021003", "district_id": "137102", "name": "JATI"}, {"id": "1371021004", "district_id": "137102", "name": "SAWAHAN TIMUR"}, {"id": "1371021005", "district_id": "137102", "name": "SIMPANG HARU"}, {"id": "1371021006", "district_id": "137102", "name": "KUBU MARAPALAM"}, {"id": "1371021007", "district_id": "137102", "name": "ANDALAS"}, {"id": "1371021008", "district_id": "137102", "name": "KUBU DALAM PARAK KARAKAH"}, {"id": "1371021009", "district_id": "137102", "name": "PARAK GADANG TIMUR"}, {"id": "1371021010", "district_id": "137102", "name": "GANTING PARAK GADANG"}]
+[
+  {
+    "id": "1371021001",
+    "district_id": "137102",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "1371021002",
+    "district_id": "137102",
+    "name": "JATI BARU"
+  },
+  {
+    "id": "1371021003",
+    "district_id": "137102",
+    "name": "JATI"
+  },
+  {
+    "id": "1371021004",
+    "district_id": "137102",
+    "name": "SAWAHAN TIMUR"
+  },
+  {
+    "id": "1371021005",
+    "district_id": "137102",
+    "name": "SIMPANG HARU"
+  },
+  {
+    "id": "1371021006",
+    "district_id": "137102",
+    "name": "KUBU MARAPALAM"
+  },
+  {
+    "id": "1371021007",
+    "district_id": "137102",
+    "name": "ANDALAS"
+  },
+  {
+    "id": "1371021008",
+    "district_id": "137102",
+    "name": "KUBU DALAM PARAK KARAKAH"
+  },
+  {
+    "id": "1371021009",
+    "district_id": "137102",
+    "name": "PARAK GADANG TIMUR"
+  },
+  {
+    "id": "1371021010",
+    "district_id": "137102",
+    "name": "GANTING PARAK GADANG"
+  }
+]

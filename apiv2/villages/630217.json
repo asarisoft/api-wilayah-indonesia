@@ -1,1 +1,47 @@
-[{"id": "6302172001", "district_id": "630217", "name": "SERONGGA"}, {"id": "6302172002", "district_id": "630217", "name": "TARJUN"}, {"id": "6302172003", "district_id": "630217", "name": "LANGADAI"}, {"id": "6302172004", "district_id": "630217", "name": "PULAU PANCI"}, {"id": "6302172005", "district_id": "630217", "name": "PELAJAU BARU"}, {"id": "6302172006", "district_id": "630217", "name": "TEGAL REJO"}, {"id": "6302172007", "district_id": "630217", "name": "MANDALA"}, {"id": "6302172008", "district_id": "630217", "name": "TELAGASARI"}, {"id": "6302172009", "district_id": "630217", "name": "SAHAPI"}]
+[
+  {
+    "id": "6302172001",
+    "district_id": "630217",
+    "name": "SERONGGA"
+  },
+  {
+    "id": "6302172002",
+    "district_id": "630217",
+    "name": "TARJUN"
+  },
+  {
+    "id": "6302172003",
+    "district_id": "630217",
+    "name": "LANGADAI"
+  },
+  {
+    "id": "6302172004",
+    "district_id": "630217",
+    "name": "PULAU PANCI"
+  },
+  {
+    "id": "6302172005",
+    "district_id": "630217",
+    "name": "PELAJAU BARU"
+  },
+  {
+    "id": "6302172006",
+    "district_id": "630217",
+    "name": "TEGAL REJO"
+  },
+  {
+    "id": "6302172007",
+    "district_id": "630217",
+    "name": "MANDALA"
+  },
+  {
+    "id": "6302172008",
+    "district_id": "630217",
+    "name": "TELAGASARI"
+  },
+  {
+    "id": "6302172009",
+    "district_id": "630217",
+    "name": "SAHAPI"
+  }
+]

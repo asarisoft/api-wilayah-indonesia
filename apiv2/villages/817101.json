@@ -1,1 +1,67 @@
-[{"id": "8171011006", "district_id": "817101", "name": "NUSANIWE"}, {"id": "8171011007", "district_id": "817101", "name": "WAINITU"}, {"id": "8171011008", "district_id": "817101", "name": "BENTENG"}, {"id": "8171011009", "district_id": "817101", "name": "KUDAMATI"}, {"id": "8171011010", "district_id": "817101", "name": "MANGGA DUA"}, {"id": "8171011011", "district_id": "817101", "name": "URIMESSING"}, {"id": "8171011012", "district_id": "817101", "name": "WAIHAONG"}, {"id": "8171011013", "district_id": "817101", "name": "SILALE"}, {"id": "8171012001", "district_id": "817101", "name": "LATUHALAT"}, {"id": "8171012002", "district_id": "817101", "name": "SEILALE"}, {"id": "8171012003", "district_id": "817101", "name": "NUSANIWE"}, {"id": "8171012004", "district_id": "817101", "name": "AMAHUSU"}, {"id": "8171012005", "district_id": "817101", "name": "URIMESSING"}]
+[
+  {
+    "id": "8171011006",
+    "district_id": "817101",
+    "name": "NUSANIWE"
+  },
+  {
+    "id": "8171011007",
+    "district_id": "817101",
+    "name": "WAINITU"
+  },
+  {
+    "id": "8171011008",
+    "district_id": "817101",
+    "name": "BENTENG"
+  },
+  {
+    "id": "8171011009",
+    "district_id": "817101",
+    "name": "KUDAMATI"
+  },
+  {
+    "id": "8171011010",
+    "district_id": "817101",
+    "name": "MANGGA DUA"
+  },
+  {
+    "id": "8171011011",
+    "district_id": "817101",
+    "name": "URIMESSING"
+  },
+  {
+    "id": "8171011012",
+    "district_id": "817101",
+    "name": "WAIHAONG"
+  },
+  {
+    "id": "8171011013",
+    "district_id": "817101",
+    "name": "SILALE"
+  },
+  {
+    "id": "8171012001",
+    "district_id": "817101",
+    "name": "LATUHALAT"
+  },
+  {
+    "id": "8171012002",
+    "district_id": "817101",
+    "name": "SEILALE"
+  },
+  {
+    "id": "8171012003",
+    "district_id": "817101",
+    "name": "NUSANIWE"
+  },
+  {
+    "id": "8171012004",
+    "district_id": "817101",
+    "name": "AMAHUSU"
+  },
+  {
+    "id": "8171012005",
+    "district_id": "817101",
+    "name": "URIMESSING"
+  }
+]

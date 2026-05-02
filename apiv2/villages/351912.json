@@ -1,1 +1,77 @@
-[{"id": "3519122001", "district_id": "351912", "name": "BANDUNGAN"}, {"id": "3519122002", "district_id": "351912", "name": "PAJARAN"}, {"id": "3519122003", "district_id": "351912", "name": "SUGIHWARAS"}, {"id": "3519122004", "district_id": "351912", "name": "SIDOREJO"}, {"id": "3519122005", "district_id": "351912", "name": "BONGSOPOTRO"}, {"id": "3519122006", "district_id": "351912", "name": "SUKOREJO"}, {"id": "3519122007", "district_id": "351912", "name": "NGEPEH"}, {"id": "3519122008", "district_id": "351912", "name": "BAJULAN"}, {"id": "3519122009", "district_id": "351912", "name": "BENER"}, {"id": "3519122010", "district_id": "351912", "name": "SUMBERSARI"}, {"id": "3519122011", "district_id": "351912", "name": "KLUMUTAN"}, {"id": "3519122012", "district_id": "351912", "name": "SAMBIREJO"}, {"id": "3519122013", "district_id": "351912", "name": "TULUNG"}, {"id": "3519122014", "district_id": "351912", "name": "SUMBERBENDO"}, {"id": "3519122015", "district_id": "351912", "name": "KLANGON"}]
+[
+  {
+    "id": "3519122001",
+    "district_id": "351912",
+    "name": "BANDUNGAN"
+  },
+  {
+    "id": "3519122002",
+    "district_id": "351912",
+    "name": "PAJARAN"
+  },
+  {
+    "id": "3519122003",
+    "district_id": "351912",
+    "name": "SUGIHWARAS"
+  },
+  {
+    "id": "3519122004",
+    "district_id": "351912",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3519122005",
+    "district_id": "351912",
+    "name": "BONGSOPOTRO"
+  },
+  {
+    "id": "3519122006",
+    "district_id": "351912",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3519122007",
+    "district_id": "351912",
+    "name": "NGEPEH"
+  },
+  {
+    "id": "3519122008",
+    "district_id": "351912",
+    "name": "BAJULAN"
+  },
+  {
+    "id": "3519122009",
+    "district_id": "351912",
+    "name": "BENER"
+  },
+  {
+    "id": "3519122010",
+    "district_id": "351912",
+    "name": "SUMBERSARI"
+  },
+  {
+    "id": "3519122011",
+    "district_id": "351912",
+    "name": "KLUMUTAN"
+  },
+  {
+    "id": "3519122012",
+    "district_id": "351912",
+    "name": "SAMBIREJO"
+  },
+  {
+    "id": "3519122013",
+    "district_id": "351912",
+    "name": "TULUNG"
+  },
+  {
+    "id": "3519122014",
+    "district_id": "351912",
+    "name": "SUMBERBENDO"
+  },
+  {
+    "id": "3519122015",
+    "district_id": "351912",
+    "name": "KLANGON"
+  }
+]

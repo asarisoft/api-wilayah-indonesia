@@ -1,1 +1,52 @@
-[{"id": "9501172001", "district_id": "950117", "name": "YAGAROBAK"}, {"id": "9501172002", "district_id": "950117", "name": "ZAPMA"}, {"id": "9501172003", "district_id": "950117", "name": "AYOBAIBUR"}, {"id": "9501172004", "district_id": "950117", "name": "IBELE"}, {"id": "9501172005", "district_id": "950117", "name": "TIPALOK"}, {"id": "9501172006", "district_id": "950117", "name": "HABEMA"}, {"id": "9501172007", "district_id": "950117", "name": "ZINAI"}, {"id": "9501172008", "district_id": "950117", "name": "HOLALIBA"}, {"id": "9501172009", "district_id": "950117", "name": "YELEBAREK"}, {"id": "9501172010", "district_id": "950117", "name": "YOKALPALEK"}]
+[
+  {
+    "id": "9501172001",
+    "district_id": "950117",
+    "name": "YAGAROBAK"
+  },
+  {
+    "id": "9501172002",
+    "district_id": "950117",
+    "name": "ZAPMA"
+  },
+  {
+    "id": "9501172003",
+    "district_id": "950117",
+    "name": "AYOBAIBUR"
+  },
+  {
+    "id": "9501172004",
+    "district_id": "950117",
+    "name": "IBELE"
+  },
+  {
+    "id": "9501172005",
+    "district_id": "950117",
+    "name": "TIPALOK"
+  },
+  {
+    "id": "9501172006",
+    "district_id": "950117",
+    "name": "HABEMA"
+  },
+  {
+    "id": "9501172007",
+    "district_id": "950117",
+    "name": "ZINAI"
+  },
+  {
+    "id": "9501172008",
+    "district_id": "950117",
+    "name": "HOLALIBA"
+  },
+  {
+    "id": "9501172009",
+    "district_id": "950117",
+    "name": "YELEBAREK"
+  },
+  {
+    "id": "9501172010",
+    "district_id": "950117",
+    "name": "YOKALPALEK"
+  }
+]

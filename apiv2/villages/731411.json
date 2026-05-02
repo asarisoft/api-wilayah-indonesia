@@ -1,1 +1,62 @@
-[{"id": "7314111001", "district_id": "731411", "name": "BATU"}, {"id": "7314112002", "district_id": "731411", "name": "COMPONG"}, {"id": "7314112003", "district_id": "731411", "name": "BELAWAE"}, {"id": "7314112004", "district_id": "731411", "name": "BOTTO"}, {"id": "7314112005", "district_id": "731411", "name": "BILA RIASE"}, {"id": "7314112006", "district_id": "731411", "name": "BOLA BULU"}, {"id": "7314112007", "district_id": "731411", "name": "TANA TORO"}, {"id": "7314112008", "district_id": "731411", "name": "LOMBO"}, {"id": "7314112009", "district_id": "731411", "name": "LAGADING"}, {"id": "7314112010", "district_id": "731411", "name": "DENGENG-DENGENG"}, {"id": "7314112011", "district_id": "731411", "name": "BUNTU BUANGIN"}, {"id": "7314112012", "district_id": "731411", "name": "LEPPANGENG"}]
+[
+  {
+    "id": "7314111001",
+    "district_id": "731411",
+    "name": "BATU"
+  },
+  {
+    "id": "7314112002",
+    "district_id": "731411",
+    "name": "COMPONG"
+  },
+  {
+    "id": "7314112003",
+    "district_id": "731411",
+    "name": "BELAWAE"
+  },
+  {
+    "id": "7314112004",
+    "district_id": "731411",
+    "name": "BOTTO"
+  },
+  {
+    "id": "7314112005",
+    "district_id": "731411",
+    "name": "BILA RIASE"
+  },
+  {
+    "id": "7314112006",
+    "district_id": "731411",
+    "name": "BOLA BULU"
+  },
+  {
+    "id": "7314112007",
+    "district_id": "731411",
+    "name": "TANA TORO"
+  },
+  {
+    "id": "7314112008",
+    "district_id": "731411",
+    "name": "LOMBO"
+  },
+  {
+    "id": "7314112009",
+    "district_id": "731411",
+    "name": "LAGADING"
+  },
+  {
+    "id": "7314112010",
+    "district_id": "731411",
+    "name": "DENGENG-DENGENG"
+  },
+  {
+    "id": "7314112011",
+    "district_id": "731411",
+    "name": "BUNTU BUANGIN"
+  },
+  {
+    "id": "7314112012",
+    "district_id": "731411",
+    "name": "LEPPANGENG"
+  }
+]

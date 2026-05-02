@@ -1,1 +1,27 @@
-[{"id": "1274021001", "district_id": "127402", "name": "TANJUNGBALAI KOTA III"}, {"id": "1274021002", "district_id": "127402", "name": "TANJUNGBALAI KOTA IV"}, {"id": "1274021003", "district_id": "127402", "name": "SEJAHTERA"}, {"id": "1274021004", "district_id": "127402", "name": "KUALA SILO BESTARI"}, {"id": "1274021005", "district_id": "127402", "name": "MATAHALASAN"}]
+[
+  {
+    "id": "1274021001",
+    "district_id": "127402",
+    "name": "TANJUNGBALAI KOTA III"
+  },
+  {
+    "id": "1274021002",
+    "district_id": "127402",
+    "name": "TANJUNGBALAI KOTA IV"
+  },
+  {
+    "id": "1274021003",
+    "district_id": "127402",
+    "name": "SEJAHTERA"
+  },
+  {
+    "id": "1274021004",
+    "district_id": "127402",
+    "name": "KUALA SILO BESTARI"
+  },
+  {
+    "id": "1274021005",
+    "district_id": "127402",
+    "name": "MATAHALASAN"
+  }
+]

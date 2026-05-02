@@ -1,1 +1,47 @@
-[{"id": "1903052001", "district_id": "190305", "name": "PAYUNG"}, {"id": "1903052002", "district_id": "190305", "name": "MALIK"}, {"id": "1903052003", "district_id": "190305", "name": "SENGIR"}, {"id": "1903052004", "district_id": "190305", "name": "PANGKAL BULUH"}, {"id": "1903052005", "district_id": "190305", "name": "IRAT"}, {"id": "1903052006", "district_id": "190305", "name": "BEDENGUNG"}, {"id": "1903052008", "district_id": "190305", "name": "NADUNG"}, {"id": "1903052009", "district_id": "190305", "name": "RANGGUNG"}, {"id": "1903052012", "district_id": "190305", "name": "PAKU"}]
+[
+  {
+    "id": "1903052001",
+    "district_id": "190305",
+    "name": "PAYUNG"
+  },
+  {
+    "id": "1903052002",
+    "district_id": "190305",
+    "name": "MALIK"
+  },
+  {
+    "id": "1903052003",
+    "district_id": "190305",
+    "name": "SENGIR"
+  },
+  {
+    "id": "1903052004",
+    "district_id": "190305",
+    "name": "PANGKAL BULUH"
+  },
+  {
+    "id": "1903052005",
+    "district_id": "190305",
+    "name": "IRAT"
+  },
+  {
+    "id": "1903052006",
+    "district_id": "190305",
+    "name": "BEDENGUNG"
+  },
+  {
+    "id": "1903052008",
+    "district_id": "190305",
+    "name": "NADUNG"
+  },
+  {
+    "id": "1903052009",
+    "district_id": "190305",
+    "name": "RANGGUNG"
+  },
+  {
+    "id": "1903052012",
+    "district_id": "190305",
+    "name": "PAKU"
+  }
+]

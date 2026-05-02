@@ -1,1 +1,77 @@
-[{"id": "3308062001", "district_id": "330806", "name": "KETUNGGENG"}, {"id": "3308062002", "district_id": "330806", "name": "WATES"}, {"id": "3308062003", "district_id": "330806", "name": "NGADIPURO"}, {"id": "3308062004", "district_id": "330806", "name": "BANYUBIRU"}, {"id": "3308062005", "district_id": "330806", "name": "BANYUDONO"}, {"id": "3308062006", "district_id": "330806", "name": "DUKUN"}, {"id": "3308062007", "district_id": "330806", "name": "KALIBENING"}, {"id": "3308062008", "district_id": "330806", "name": "NGARGOMULYO"}, {"id": "3308062009", "district_id": "330806", "name": "SUMBER"}, {"id": "3308062010", "district_id": "330806", "name": "MANGUNSOKO"}, {"id": "3308062011", "district_id": "330806", "name": "SEWUKAN"}, {"id": "3308062012", "district_id": "330806", "name": "SENGI"}, {"id": "3308062013", "district_id": "330806", "name": "PATEN"}, {"id": "3308062014", "district_id": "330806", "name": "KRINJING"}, {"id": "3308062015", "district_id": "330806", "name": "KENINGAR"}]
+[
+  {
+    "id": "3308062001",
+    "district_id": "330806",
+    "name": "KETUNGGENG"
+  },
+  {
+    "id": "3308062002",
+    "district_id": "330806",
+    "name": "WATES"
+  },
+  {
+    "id": "3308062003",
+    "district_id": "330806",
+    "name": "NGADIPURO"
+  },
+  {
+    "id": "3308062004",
+    "district_id": "330806",
+    "name": "BANYUBIRU"
+  },
+  {
+    "id": "3308062005",
+    "district_id": "330806",
+    "name": "BANYUDONO"
+  },
+  {
+    "id": "3308062006",
+    "district_id": "330806",
+    "name": "DUKUN"
+  },
+  {
+    "id": "3308062007",
+    "district_id": "330806",
+    "name": "KALIBENING"
+  },
+  {
+    "id": "3308062008",
+    "district_id": "330806",
+    "name": "NGARGOMULYO"
+  },
+  {
+    "id": "3308062009",
+    "district_id": "330806",
+    "name": "SUMBER"
+  },
+  {
+    "id": "3308062010",
+    "district_id": "330806",
+    "name": "MANGUNSOKO"
+  },
+  {
+    "id": "3308062011",
+    "district_id": "330806",
+    "name": "SEWUKAN"
+  },
+  {
+    "id": "3308062012",
+    "district_id": "330806",
+    "name": "SENGI"
+  },
+  {
+    "id": "3308062013",
+    "district_id": "330806",
+    "name": "PATEN"
+  },
+  {
+    "id": "3308062014",
+    "district_id": "330806",
+    "name": "KRINJING"
+  },
+  {
+    "id": "3308062015",
+    "district_id": "330806",
+    "name": "KENINGAR"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "3275061001", "district_id": "327506", "name": "MEDANSATRIA"}, {"id": "3275061002", "district_id": "327506", "name": "HARAPANMULYA"}, {"id": "3275061003", "district_id": "327506", "name": "PEJUANG"}, {"id": "3275061004", "district_id": "327506", "name": "KALIBARU"}]
+[
+  {
+    "id": "3275061001",
+    "district_id": "327506",
+    "name": "MEDANSATRIA"
+  },
+  {
+    "id": "3275061002",
+    "district_id": "327506",
+    "name": "HARAPANMULYA"
+  },
+  {
+    "id": "3275061003",
+    "district_id": "327506",
+    "name": "PEJUANG"
+  },
+  {
+    "id": "3275061004",
+    "district_id": "327506",
+    "name": "KALIBARU"
+  }
+]

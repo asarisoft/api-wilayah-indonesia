@@ -1,1 +1,67 @@
-[{"id": "3504042001", "district_id": "350404", "name": "PAKEL"}, {"id": "3504042002", "district_id": "350404", "name": "PUCUNG LOR"}, {"id": "3504042003", "district_id": "350404", "name": "SRIKATON"}, {"id": "3504042004", "district_id": "350404", "name": "PADANGAN"}, {"id": "3504042005", "district_id": "350404", "name": "BANJARSARI"}, {"id": "3504042006", "district_id": "350404", "name": "PULEREJO"}, {"id": "3504042007", "district_id": "350404", "name": "BENDOSARI"}, {"id": "3504042008", "district_id": "350404", "name": "NGANTRU"}, {"id": "3504042009", "district_id": "350404", "name": "MOJOAGUNG"}, {"id": "3504042010", "district_id": "350404", "name": "BATOKAN"}, {"id": "3504042011", "district_id": "350404", "name": "KEPUHREJO"}, {"id": "3504042012", "district_id": "350404", "name": "POJOK"}, {"id": "3504042013", "district_id": "350404", "name": "PINGGIRSARI"}]
+[
+  {
+    "id": "3504042001",
+    "district_id": "350404",
+    "name": "PAKEL"
+  },
+  {
+    "id": "3504042002",
+    "district_id": "350404",
+    "name": "PUCUNG LOR"
+  },
+  {
+    "id": "3504042003",
+    "district_id": "350404",
+    "name": "SRIKATON"
+  },
+  {
+    "id": "3504042004",
+    "district_id": "350404",
+    "name": "PADANGAN"
+  },
+  {
+    "id": "3504042005",
+    "district_id": "350404",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3504042006",
+    "district_id": "350404",
+    "name": "PULEREJO"
+  },
+  {
+    "id": "3504042007",
+    "district_id": "350404",
+    "name": "BENDOSARI"
+  },
+  {
+    "id": "3504042008",
+    "district_id": "350404",
+    "name": "NGANTRU"
+  },
+  {
+    "id": "3504042009",
+    "district_id": "350404",
+    "name": "MOJOAGUNG"
+  },
+  {
+    "id": "3504042010",
+    "district_id": "350404",
+    "name": "BATOKAN"
+  },
+  {
+    "id": "3504042011",
+    "district_id": "350404",
+    "name": "KEPUHREJO"
+  },
+  {
+    "id": "3504042012",
+    "district_id": "350404",
+    "name": "POJOK"
+  },
+  {
+    "id": "3504042013",
+    "district_id": "350404",
+    "name": "PINGGIRSARI"
+  }
+]

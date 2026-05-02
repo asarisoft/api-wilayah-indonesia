@@ -1,1 +1,87 @@
-[{"id": "6310032001", "district_id": "631003", "name": "SARI MULYA"}, {"id": "6310032002", "district_id": "631003", "name": "SUNGAILOBAN"}, {"id": "6310032003", "district_id": "631003", "name": "SEBAMBAN LAMA"}, {"id": "6310032004", "district_id": "631003", "name": "SEBAMBAN BARU"}, {"id": "6310032005", "district_id": "631003", "name": "SUNGAIDUA LAUT"}, {"id": "6310032006", "district_id": "631003", "name": "MARGA MULYA"}, {"id": "6310032007", "district_id": "631003", "name": "SARI UTAMA"}, {"id": "6310032008", "district_id": "631003", "name": "TRI MULYA"}, {"id": "6310032010", "district_id": "631003", "name": "DWI MARGA UTAMA"}, {"id": "6310032011", "district_id": "631003", "name": "KERTA BUANA"}, {"id": "6310032012", "district_id": "631003", "name": "BATU MERANTI"}, {"id": "6310032014", "district_id": "631003", "name": "TRI MARTANI"}, {"id": "6310032015", "district_id": "631003", "name": "SUMBER MAKMUR"}, {"id": "6310032016", "district_id": "631003", "name": "BIDURI BERSUJUD"}, {"id": "6310032017", "district_id": "631003", "name": "SUMBER SARI"}, {"id": "6310032018", "district_id": "631003", "name": "WANASARI"}, {"id": "6310032019", "district_id": "631003", "name": "DAMAR INDAH"}]
+[
+  {
+    "id": "6310032001",
+    "district_id": "631003",
+    "name": "SARI MULYA"
+  },
+  {
+    "id": "6310032002",
+    "district_id": "631003",
+    "name": "SUNGAILOBAN"
+  },
+  {
+    "id": "6310032003",
+    "district_id": "631003",
+    "name": "SEBAMBAN LAMA"
+  },
+  {
+    "id": "6310032004",
+    "district_id": "631003",
+    "name": "SEBAMBAN BARU"
+  },
+  {
+    "id": "6310032005",
+    "district_id": "631003",
+    "name": "SUNGAIDUA LAUT"
+  },
+  {
+    "id": "6310032006",
+    "district_id": "631003",
+    "name": "MARGA MULYA"
+  },
+  {
+    "id": "6310032007",
+    "district_id": "631003",
+    "name": "SARI UTAMA"
+  },
+  {
+    "id": "6310032008",
+    "district_id": "631003",
+    "name": "TRI MULYA"
+  },
+  {
+    "id": "6310032010",
+    "district_id": "631003",
+    "name": "DWI MARGA UTAMA"
+  },
+  {
+    "id": "6310032011",
+    "district_id": "631003",
+    "name": "KERTA BUANA"
+  },
+  {
+    "id": "6310032012",
+    "district_id": "631003",
+    "name": "BATU MERANTI"
+  },
+  {
+    "id": "6310032014",
+    "district_id": "631003",
+    "name": "TRI MARTANI"
+  },
+  {
+    "id": "6310032015",
+    "district_id": "631003",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "6310032016",
+    "district_id": "631003",
+    "name": "BIDURI BERSUJUD"
+  },
+  {
+    "id": "6310032017",
+    "district_id": "631003",
+    "name": "SUMBER SARI"
+  },
+  {
+    "id": "6310032018",
+    "district_id": "631003",
+    "name": "WANASARI"
+  },
+  {
+    "id": "6310032019",
+    "district_id": "631003",
+    "name": "DAMAR INDAH"
+  }
+]

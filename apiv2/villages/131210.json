@@ -1,1 +1,47 @@
-[{"id": "1312102001", "district_id": "131210", "name": "KOTO BARU"}, {"id": "1312102002", "district_id": "131210", "name": "KAPA"}, {"id": "1312102003", "district_id": "131210", "name": "GIRI MAJU"}, {"id": "1312102004", "district_id": "131210", "name": "OPHIR"}, {"id": "1312102005", "district_id": "131210", "name": "MAHAKARYA"}, {"id": "1312102006", "district_id": "131210", "name": "SARIAK"}, {"id": "1312102007", "district_id": "131210", "name": "SUNGAI TALANG"}, {"id": "1312102008", "district_id": "131210", "name": "JAMBAK SELATAN"}, {"id": "1312102009", "district_id": "131210", "name": "PUJORAHAYU"}]
+[
+  {
+    "id": "1312102001",
+    "district_id": "131210",
+    "name": "KOTO BARU"
+  },
+  {
+    "id": "1312102002",
+    "district_id": "131210",
+    "name": "KAPA"
+  },
+  {
+    "id": "1312102003",
+    "district_id": "131210",
+    "name": "GIRI MAJU"
+  },
+  {
+    "id": "1312102004",
+    "district_id": "131210",
+    "name": "OPHIR"
+  },
+  {
+    "id": "1312102005",
+    "district_id": "131210",
+    "name": "MAHAKARYA"
+  },
+  {
+    "id": "1312102006",
+    "district_id": "131210",
+    "name": "SARIAK"
+  },
+  {
+    "id": "1312102007",
+    "district_id": "131210",
+    "name": "SUNGAI TALANG"
+  },
+  {
+    "id": "1312102008",
+    "district_id": "131210",
+    "name": "JAMBAK SELATAN"
+  },
+  {
+    "id": "1312102009",
+    "district_id": "131210",
+    "name": "PUJORAHAYU"
+  }
+]

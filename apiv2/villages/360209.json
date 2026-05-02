@@ -1,1 +1,102 @@
-[{"id": "3602092001", "district_id": "360209", "name": "KERTA"}, {"id": "3602092002", "district_id": "360209", "name": "BOJONGJURUH"}, {"id": "3602092003", "district_id": "360209", "name": "LEUWIIPUH"}, {"id": "3602092004", "district_id": "360209", "name": "LEBAKKEUSIK"}, {"id": "3602092005", "district_id": "360209", "name": "CILEGONGILIR"}, {"id": "3602092006", "district_id": "360209", "name": "KEUSIK"}, {"id": "3602092007", "district_id": "360209", "name": "CIBATURKEUSIK"}, {"id": "3602092009", "district_id": "360209", "name": "KUMPAY"}, {"id": "3602092010", "district_id": "360209", "name": "JALUPANGGIRANG"}, {"id": "3602092011", "district_id": "360209", "name": "BENDUNGAN"}, {"id": "3602092012", "district_id": "360209", "name": "KERTARAHARJA"}, {"id": "3602092013", "district_id": "360209", "name": "CISAMPIH"}, {"id": "3602092014", "district_id": "360209", "name": "GUNUNGSARI"}, {"id": "3602092015", "district_id": "360209", "name": "TAMANSARI"}, {"id": "3602092016", "district_id": "360209", "name": "CIDAHU"}, {"id": "3602092017", "district_id": "360209", "name": "CIRUJI"}, {"id": "3602092018", "district_id": "360209", "name": "KADUHAUK"}, {"id": "3602092019", "district_id": "360209", "name": "LABANJAYA"}, {"id": "3602092020", "district_id": "360209", "name": "UMBULJAYA"}, {"id": "3602092021", "district_id": "360209", "name": "KERTARAHAYU"}]
+[
+  {
+    "id": "3602092001",
+    "district_id": "360209",
+    "name": "KERTA"
+  },
+  {
+    "id": "3602092002",
+    "district_id": "360209",
+    "name": "BOJONGJURUH"
+  },
+  {
+    "id": "3602092003",
+    "district_id": "360209",
+    "name": "LEUWIIPUH"
+  },
+  {
+    "id": "3602092004",
+    "district_id": "360209",
+    "name": "LEBAKKEUSIK"
+  },
+  {
+    "id": "3602092005",
+    "district_id": "360209",
+    "name": "CILEGONGILIR"
+  },
+  {
+    "id": "3602092006",
+    "district_id": "360209",
+    "name": "KEUSIK"
+  },
+  {
+    "id": "3602092007",
+    "district_id": "360209",
+    "name": "CIBATURKEUSIK"
+  },
+  {
+    "id": "3602092009",
+    "district_id": "360209",
+    "name": "KUMPAY"
+  },
+  {
+    "id": "3602092010",
+    "district_id": "360209",
+    "name": "JALUPANGGIRANG"
+  },
+  {
+    "id": "3602092011",
+    "district_id": "360209",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "3602092012",
+    "district_id": "360209",
+    "name": "KERTARAHARJA"
+  },
+  {
+    "id": "3602092013",
+    "district_id": "360209",
+    "name": "CISAMPIH"
+  },
+  {
+    "id": "3602092014",
+    "district_id": "360209",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3602092015",
+    "district_id": "360209",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3602092016",
+    "district_id": "360209",
+    "name": "CIDAHU"
+  },
+  {
+    "id": "3602092017",
+    "district_id": "360209",
+    "name": "CIRUJI"
+  },
+  {
+    "id": "3602092018",
+    "district_id": "360209",
+    "name": "KADUHAUK"
+  },
+  {
+    "id": "3602092019",
+    "district_id": "360209",
+    "name": "LABANJAYA"
+  },
+  {
+    "id": "3602092020",
+    "district_id": "360209",
+    "name": "UMBULJAYA"
+  },
+  {
+    "id": "3602092021",
+    "district_id": "360209",
+    "name": "KERTARAHAYU"
+  }
+]

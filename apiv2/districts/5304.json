@@ -1,1 +1,62 @@
-[{"id": "530401", "regency_id": "5304", "name": "LAMAKNEN"}, {"id": "530402", "regency_id": "5304", "name": "TASIFETO TIMUR"}, {"id": "530403", "regency_id": "5304", "name": "RAIHAT"}, {"id": "530404", "regency_id": "5304", "name": "TASIFETO BARAT"}, {"id": "530405", "regency_id": "5304", "name": "KAKULUK MESAK"}, {"id": "530412", "regency_id": "5304", "name": "KOTA ATAMBUA"}, {"id": "530413", "regency_id": "5304", "name": "RAIMANUK"}, {"id": "530417", "regency_id": "5304", "name": "LASIOLAT"}, {"id": "530418", "regency_id": "5304", "name": "LAMAKNEN SELATAN"}, {"id": "530421", "regency_id": "5304", "name": "ATAMBUA BARAT"}, {"id": "530422", "regency_id": "5304", "name": "ATAMBUA SELATAN"}, {"id": "530423", "regency_id": "5304", "name": "NANAET DUABESI"}]
+[
+  {
+    "id": "530401",
+    "regency_id": "5304",
+    "name": "LAMAKNEN"
+  },
+  {
+    "id": "530402",
+    "regency_id": "5304",
+    "name": "TASIFETO TIMUR"
+  },
+  {
+    "id": "530403",
+    "regency_id": "5304",
+    "name": "RAIHAT"
+  },
+  {
+    "id": "530404",
+    "regency_id": "5304",
+    "name": "TASIFETO BARAT"
+  },
+  {
+    "id": "530405",
+    "regency_id": "5304",
+    "name": "KAKULUK MESAK"
+  },
+  {
+    "id": "530412",
+    "regency_id": "5304",
+    "name": "KOTA ATAMBUA"
+  },
+  {
+    "id": "530413",
+    "regency_id": "5304",
+    "name": "RAIMANUK"
+  },
+  {
+    "id": "530417",
+    "regency_id": "5304",
+    "name": "LASIOLAT"
+  },
+  {
+    "id": "530418",
+    "regency_id": "5304",
+    "name": "LAMAKNEN SELATAN"
+  },
+  {
+    "id": "530421",
+    "regency_id": "5304",
+    "name": "ATAMBUA BARAT"
+  },
+  {
+    "id": "530422",
+    "regency_id": "5304",
+    "name": "ATAMBUA SELATAN"
+  },
+  {
+    "id": "530423",
+    "regency_id": "5304",
+    "name": "NANAET DUABESI"
+  }
+]

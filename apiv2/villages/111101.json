@@ -1,1 +1,232 @@
-[{"id": "1111012001", "district_id": "111101", "name": "KEUDE ACEH"}, {"id": "1111012002", "district_id": "111101", "name": "SANGSO"}, {"id": "1111012003", "district_id": "111101", "name": "PANTE RHENG"}, {"id": "1111012004", "district_id": "111101", "name": "MEULIEK"}, {"id": "1111012005", "district_id": "111101", "name": "NAMPLOH BARO"}, {"id": "1111012006", "district_id": "111101", "name": "NAMPLOH MANYANG"}, {"id": "1111012007", "district_id": "111101", "name": "NAMPLOH BLANGGARANG"}, {"id": "1111012008", "district_id": "111101", "name": "NAMPLOH KRUENG"}, {"id": "1111012009", "district_id": "111101", "name": "NAMPLOH PAPEUN"}, {"id": "1111012010", "district_id": "111101", "name": "MEUNASAH LUENG"}, {"id": "1111012011", "district_id": "111101", "name": "LHOK SEUMIRA"}, {"id": "1111012012", "district_id": "111101", "name": "ULEE JEUMATAN"}, {"id": "1111012013", "district_id": "111101", "name": "LANCOK"}, {"id": "1111012014", "district_id": "111101", "name": "PALOH"}, {"id": "1111012015", "district_id": "111101", "name": "MESJID BARO"}, {"id": "1111012016", "district_id": "111101", "name": "BATEE ILIEK"}, {"id": "1111012017", "district_id": "111101", "name": "PULO BAROH"}, {"id": "1111012018", "district_id": "111101", "name": "MATANG WAKEUH"}, {"id": "1111012019", "district_id": "111101", "name": "DARUSSALAM"}, {"id": "1111012020", "district_id": "111101", "name": "MATANG JAREUNG"}, {"id": "1111012021", "district_id": "111101", "name": "MATANG"}, {"id": "1111012022", "district_id": "111101", "name": "COT MANE"}, {"id": "1111012023", "district_id": "111101", "name": "ALUE BARAT"}, {"id": "1111012024", "district_id": "111101", "name": "COT SIREN"}, {"id": "1111012025", "district_id": "111101", "name": "ULEE ALUE"}, {"id": "1111012026", "district_id": "111101", "name": "PINEUNG SIRIBEE"}, {"id": "1111012027", "district_id": "111101", "name": "GAMPONG BARO"}, {"id": "1111012028", "district_id": "111101", "name": "KANDANG"}, {"id": "1111012029", "district_id": "111101", "name": "GAMPONG PUTOH"}, {"id": "1111012030", "district_id": "111101", "name": "MIDEUN JOK"}, {"id": "1111012031", "district_id": "111101", "name": "MIDEUN GEUDONG"}, {"id": "1111012032", "district_id": "111101", "name": "LUENG KEUBEU"}, {"id": "1111012033", "district_id": "111101", "name": "GLUMPANG BUNGKOK"}, {"id": "1111012034", "district_id": "111101", "name": "GAMPONG MEULUM"}, {"id": "1111012035", "district_id": "111101", "name": "COT MEURAK BAROH"}, {"id": "1111012036", "district_id": "111101", "name": "COT MEURAK BLANG"}, {"id": "1111012037", "district_id": "111101", "name": "MEURAH"}, {"id": "1111012038", "district_id": "111101", "name": "ULEE UE"}, {"id": "1111012039", "district_id": "111101", "name": "MATANG TEUNGOH"}, {"id": "1111012040", "district_id": "111101", "name": "TANJONG BARO"}, {"id": "1111012041", "district_id": "111101", "name": "ANGKIENG BARAT"}, {"id": "1111012042", "district_id": "111101", "name": "MEUNASAH LINCAH"}, {"id": "1111012043", "district_id": "111101", "name": "MEUNASAH LANCOK"}, {"id": "1111012044", "district_id": "111101", "name": "MEUNASAH PUUK"}, {"id": "1111012045", "district_id": "111101", "name": "TANJONGAN IDEM"}, {"id": "1111012084", "district_id": "111101", "name": "GEULUMPANG PAYONG"}]
+[
+  {
+    "id": "1111012001",
+    "district_id": "111101",
+    "name": "KEUDE ACEH"
+  },
+  {
+    "id": "1111012002",
+    "district_id": "111101",
+    "name": "SANGSO"
+  },
+  {
+    "id": "1111012003",
+    "district_id": "111101",
+    "name": "PANTE RHENG"
+  },
+  {
+    "id": "1111012004",
+    "district_id": "111101",
+    "name": "MEULIEK"
+  },
+  {
+    "id": "1111012005",
+    "district_id": "111101",
+    "name": "NAMPLOH BARO"
+  },
+  {
+    "id": "1111012006",
+    "district_id": "111101",
+    "name": "NAMPLOH MANYANG"
+  },
+  {
+    "id": "1111012007",
+    "district_id": "111101",
+    "name": "NAMPLOH BLANGGARANG"
+  },
+  {
+    "id": "1111012008",
+    "district_id": "111101",
+    "name": "NAMPLOH KRUENG"
+  },
+  {
+    "id": "1111012009",
+    "district_id": "111101",
+    "name": "NAMPLOH PAPEUN"
+  },
+  {
+    "id": "1111012010",
+    "district_id": "111101",
+    "name": "MEUNASAH LUENG"
+  },
+  {
+    "id": "1111012011",
+    "district_id": "111101",
+    "name": "LHOK SEUMIRA"
+  },
+  {
+    "id": "1111012012",
+    "district_id": "111101",
+    "name": "ULEE JEUMATAN"
+  },
+  {
+    "id": "1111012013",
+    "district_id": "111101",
+    "name": "LANCOK"
+  },
+  {
+    "id": "1111012014",
+    "district_id": "111101",
+    "name": "PALOH"
+  },
+  {
+    "id": "1111012015",
+    "district_id": "111101",
+    "name": "MESJID BARO"
+  },
+  {
+    "id": "1111012016",
+    "district_id": "111101",
+    "name": "BATEE ILIEK"
+  },
+  {
+    "id": "1111012017",
+    "district_id": "111101",
+    "name": "PULO BAROH"
+  },
+  {
+    "id": "1111012018",
+    "district_id": "111101",
+    "name": "MATANG WAKEUH"
+  },
+  {
+    "id": "1111012019",
+    "district_id": "111101",
+    "name": "DARUSSALAM"
+  },
+  {
+    "id": "1111012020",
+    "district_id": "111101",
+    "name": "MATANG JAREUNG"
+  },
+  {
+    "id": "1111012021",
+    "district_id": "111101",
+    "name": "MATANG"
+  },
+  {
+    "id": "1111012022",
+    "district_id": "111101",
+    "name": "COT MANE"
+  },
+  {
+    "id": "1111012023",
+    "district_id": "111101",
+    "name": "ALUE BARAT"
+  },
+  {
+    "id": "1111012024",
+    "district_id": "111101",
+    "name": "COT SIREN"
+  },
+  {
+    "id": "1111012025",
+    "district_id": "111101",
+    "name": "ULEE ALUE"
+  },
+  {
+    "id": "1111012026",
+    "district_id": "111101",
+    "name": "PINEUNG SIRIBEE"
+  },
+  {
+    "id": "1111012027",
+    "district_id": "111101",
+    "name": "GAMPONG BARO"
+  },
+  {
+    "id": "1111012028",
+    "district_id": "111101",
+    "name": "KANDANG"
+  },
+  {
+    "id": "1111012029",
+    "district_id": "111101",
+    "name": "GAMPONG PUTOH"
+  },
+  {
+    "id": "1111012030",
+    "district_id": "111101",
+    "name": "MIDEUN JOK"
+  },
+  {
+    "id": "1111012031",
+    "district_id": "111101",
+    "name": "MIDEUN GEUDONG"
+  },
+  {
+    "id": "1111012032",
+    "district_id": "111101",
+    "name": "LUENG KEUBEU"
+  },
+  {
+    "id": "1111012033",
+    "district_id": "111101",
+    "name": "GLUMPANG BUNGKOK"
+  },
+  {
+    "id": "1111012034",
+    "district_id": "111101",
+    "name": "GAMPONG MEULUM"
+  },
+  {
+    "id": "1111012035",
+    "district_id": "111101",
+    "name": "COT MEURAK BAROH"
+  },
+  {
+    "id": "1111012036",
+    "district_id": "111101",
+    "name": "COT MEURAK BLANG"
+  },
+  {
+    "id": "1111012037",
+    "district_id": "111101",
+    "name": "MEURAH"
+  },
+  {
+    "id": "1111012038",
+    "district_id": "111101",
+    "name": "ULEE UE"
+  },
+  {
+    "id": "1111012039",
+    "district_id": "111101",
+    "name": "MATANG TEUNGOH"
+  },
+  {
+    "id": "1111012040",
+    "district_id": "111101",
+    "name": "TANJONG BARO"
+  },
+  {
+    "id": "1111012041",
+    "district_id": "111101",
+    "name": "ANGKIENG BARAT"
+  },
+  {
+    "id": "1111012042",
+    "district_id": "111101",
+    "name": "MEUNASAH LINCAH"
+  },
+  {
+    "id": "1111012043",
+    "district_id": "111101",
+    "name": "MEUNASAH LANCOK"
+  },
+  {
+    "id": "1111012044",
+    "district_id": "111101",
+    "name": "MEUNASAH PUUK"
+  },
+  {
+    "id": "1111012045",
+    "district_id": "111101",
+    "name": "TANJONGAN IDEM"
+  },
+  {
+    "id": "1111012084",
+    "district_id": "111101",
+    "name": "GEULUMPANG PAYONG"
+  }
+]

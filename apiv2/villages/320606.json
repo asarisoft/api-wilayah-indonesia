@@ -1,1 +1,32 @@
-[{"id": "3206062001", "district_id": "320606", "name": "CISEMPUR"}, {"id": "3206062002", "district_id": "320606", "name": "SETIAWARAS"}, {"id": "3206062003", "district_id": "320606", "name": "EUREUNPALAY"}, {"id": "3206062004", "district_id": "320606", "name": "CIBALONG"}, {"id": "3206062005", "district_id": "320606", "name": "SINGAJAYA"}, {"id": "3206062006", "district_id": "320606", "name": "PARUNG"}]
+[
+  {
+    "id": "3206062001",
+    "district_id": "320606",
+    "name": "CISEMPUR"
+  },
+  {
+    "id": "3206062002",
+    "district_id": "320606",
+    "name": "SETIAWARAS"
+  },
+  {
+    "id": "3206062003",
+    "district_id": "320606",
+    "name": "EUREUNPALAY"
+  },
+  {
+    "id": "3206062004",
+    "district_id": "320606",
+    "name": "CIBALONG"
+  },
+  {
+    "id": "3206062005",
+    "district_id": "320606",
+    "name": "SINGAJAYA"
+  },
+  {
+    "id": "3206062006",
+    "district_id": "320606",
+    "name": "PARUNG"
+  }
+]

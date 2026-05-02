@@ -1,1 +1,87 @@
-[{"id": "1218042001", "district_id": "121804", "name": "CEMPEDAK LOBANG"}, {"id": "1218042002", "district_id": "121804", "name": "FIRDAUS"}, {"id": "1218042004", "district_id": "121804", "name": "PERGULAAN"}, {"id": "1218042006", "district_id": "121804", "name": "SEI RAMPAH"}, {"id": "1218042008", "district_id": "121804", "name": "SEI REJO"}, {"id": "1218042009", "district_id": "121804", "name": "SEI PARIT"}, {"id": "1218042010", "district_id": "121804", "name": "SILAU RAKYAT"}, {"id": "1218042012", "district_id": "121804", "name": "FIRDAUS ESTATE"}, {"id": "1218042014", "district_id": "121804", "name": "PEMATANG GANJANG"}, {"id": "1218042015", "district_id": "121804", "name": "PEMATANG PELINTAHAN"}, {"id": "1218042016", "district_id": "121804", "name": "RAMBUNG ESTATE"}, {"id": "1218042017", "district_id": "121804", "name": "RAMBUNG SIALANG HULU"}, {"id": "1218042018", "district_id": "121804", "name": "RAMBUNG SIALANG TENGAH"}, {"id": "1218042019", "district_id": "121804", "name": "RAMBUNG SIALANG HILIR"}, {"id": "1218042024", "district_id": "121804", "name": "SIMPANG EMPAT"}, {"id": "1218042026", "district_id": "121804", "name": "SINAH KASIH"}, {"id": "1218042027", "district_id": "121804", "name": "TANAH RAJA"}]
+[
+  {
+    "id": "1218042001",
+    "district_id": "121804",
+    "name": "CEMPEDAK LOBANG"
+  },
+  {
+    "id": "1218042002",
+    "district_id": "121804",
+    "name": "FIRDAUS"
+  },
+  {
+    "id": "1218042004",
+    "district_id": "121804",
+    "name": "PERGULAAN"
+  },
+  {
+    "id": "1218042006",
+    "district_id": "121804",
+    "name": "SEI RAMPAH"
+  },
+  {
+    "id": "1218042008",
+    "district_id": "121804",
+    "name": "SEI REJO"
+  },
+  {
+    "id": "1218042009",
+    "district_id": "121804",
+    "name": "SEI PARIT"
+  },
+  {
+    "id": "1218042010",
+    "district_id": "121804",
+    "name": "SILAU RAKYAT"
+  },
+  {
+    "id": "1218042012",
+    "district_id": "121804",
+    "name": "FIRDAUS ESTATE"
+  },
+  {
+    "id": "1218042014",
+    "district_id": "121804",
+    "name": "PEMATANG GANJANG"
+  },
+  {
+    "id": "1218042015",
+    "district_id": "121804",
+    "name": "PEMATANG PELINTAHAN"
+  },
+  {
+    "id": "1218042016",
+    "district_id": "121804",
+    "name": "RAMBUNG ESTATE"
+  },
+  {
+    "id": "1218042017",
+    "district_id": "121804",
+    "name": "RAMBUNG SIALANG HULU"
+  },
+  {
+    "id": "1218042018",
+    "district_id": "121804",
+    "name": "RAMBUNG SIALANG TENGAH"
+  },
+  {
+    "id": "1218042019",
+    "district_id": "121804",
+    "name": "RAMBUNG SIALANG HILIR"
+  },
+  {
+    "id": "1218042024",
+    "district_id": "121804",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "1218042026",
+    "district_id": "121804",
+    "name": "SINAH KASIH"
+  },
+  {
+    "id": "1218042027",
+    "district_id": "121804",
+    "name": "TANAH RAJA"
+  }
+]

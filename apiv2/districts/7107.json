@@ -1,1 +1,62 @@
-[{"id": "710701", "regency_id": "7107", "name": "RATAHAN"}, {"id": "710702", "regency_id": "7107", "name": "PUSOMAEN"}, {"id": "710703", "regency_id": "7107", "name": "BELANG"}, {"id": "710704", "regency_id": "7107", "name": "RATATOTOK"}, {"id": "710705", "regency_id": "7107", "name": "TOMBATU"}, {"id": "710706", "regency_id": "7107", "name": "TOULUAAN"}, {"id": "710707", "regency_id": "7107", "name": "TOULUAAN SELATAN"}, {"id": "710708", "regency_id": "7107", "name": "SILIAN RAYA"}, {"id": "710709", "regency_id": "7107", "name": "TOMBATU TIMUR"}, {"id": "710710", "regency_id": "7107", "name": "TOMBATU UTARA"}, {"id": "710711", "regency_id": "7107", "name": "PASAN"}, {"id": "710712", "regency_id": "7107", "name": "RATAHAN TIMUR"}]
+[
+  {
+    "id": "710701",
+    "regency_id": "7107",
+    "name": "RATAHAN"
+  },
+  {
+    "id": "710702",
+    "regency_id": "7107",
+    "name": "PUSOMAEN"
+  },
+  {
+    "id": "710703",
+    "regency_id": "7107",
+    "name": "BELANG"
+  },
+  {
+    "id": "710704",
+    "regency_id": "7107",
+    "name": "RATATOTOK"
+  },
+  {
+    "id": "710705",
+    "regency_id": "7107",
+    "name": "TOMBATU"
+  },
+  {
+    "id": "710706",
+    "regency_id": "7107",
+    "name": "TOULUAAN"
+  },
+  {
+    "id": "710707",
+    "regency_id": "7107",
+    "name": "TOULUAAN SELATAN"
+  },
+  {
+    "id": "710708",
+    "regency_id": "7107",
+    "name": "SILIAN RAYA"
+  },
+  {
+    "id": "710709",
+    "regency_id": "7107",
+    "name": "TOMBATU TIMUR"
+  },
+  {
+    "id": "710710",
+    "regency_id": "7107",
+    "name": "TOMBATU UTARA"
+  },
+  {
+    "id": "710711",
+    "regency_id": "7107",
+    "name": "PASAN"
+  },
+  {
+    "id": "710712",
+    "regency_id": "7107",
+    "name": "RATAHAN TIMUR"
+  }
+]

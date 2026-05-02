@@ -1,1 +1,37 @@
-[{"id": "8272081001", "district_id": "827208", "name": "MAFUTUTU"}, {"id": "8272081002", "district_id": "827208", "name": "TOSA"}, {"id": "8272081003", "district_id": "827208", "name": "DOWORA"}, {"id": "8272081004", "district_id": "827208", "name": "KALAODI"}, {"id": "8272081005", "district_id": "827208", "name": "COBODOE"}, {"id": "8272081006", "district_id": "827208", "name": "DOYADO"}, {"id": "8272081007", "district_id": "827208", "name": "JIKO COBO"}]
+[
+  {
+    "id": "8272081001",
+    "district_id": "827208",
+    "name": "MAFUTUTU"
+  },
+  {
+    "id": "8272081002",
+    "district_id": "827208",
+    "name": "TOSA"
+  },
+  {
+    "id": "8272081003",
+    "district_id": "827208",
+    "name": "DOWORA"
+  },
+  {
+    "id": "8272081004",
+    "district_id": "827208",
+    "name": "KALAODI"
+  },
+  {
+    "id": "8272081005",
+    "district_id": "827208",
+    "name": "COBODOE"
+  },
+  {
+    "id": "8272081006",
+    "district_id": "827208",
+    "name": "DOYADO"
+  },
+  {
+    "id": "8272081007",
+    "district_id": "827208",
+    "name": "JIKO COBO"
+  }
+]

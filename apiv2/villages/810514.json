@@ -1,1 +1,52 @@
-[{"id": "8105142001", "district_id": "810514", "name": "KIAN LAUT"}, {"id": "8105142002", "district_id": "810514", "name": "KUWAOS"}, {"id": "8105142003", "district_id": "810514", "name": "SALAGOR AIR"}, {"id": "8105142004", "district_id": "810514", "name": "SALAGOR KOTA"}, {"id": "8105142005", "district_id": "810514", "name": "ARUAN GAUR"}, {"id": "8105142006", "district_id": "810514", "name": "KETA RUMADAN"}, {"id": "8105142007", "district_id": "810514", "name": "LIAN TASIK"}, {"id": "8105142008", "district_id": "810514", "name": "KETA"}, {"id": "8105142009", "district_id": "810514", "name": "AIR NANANG"}, {"id": "8105142010", "district_id": "810514", "name": "SURU"}]
+[
+  {
+    "id": "8105142001",
+    "district_id": "810514",
+    "name": "KIAN LAUT"
+  },
+  {
+    "id": "8105142002",
+    "district_id": "810514",
+    "name": "KUWAOS"
+  },
+  {
+    "id": "8105142003",
+    "district_id": "810514",
+    "name": "SALAGOR AIR"
+  },
+  {
+    "id": "8105142004",
+    "district_id": "810514",
+    "name": "SALAGOR KOTA"
+  },
+  {
+    "id": "8105142005",
+    "district_id": "810514",
+    "name": "ARUAN GAUR"
+  },
+  {
+    "id": "8105142006",
+    "district_id": "810514",
+    "name": "KETA RUMADAN"
+  },
+  {
+    "id": "8105142007",
+    "district_id": "810514",
+    "name": "LIAN TASIK"
+  },
+  {
+    "id": "8105142008",
+    "district_id": "810514",
+    "name": "KETA"
+  },
+  {
+    "id": "8105142009",
+    "district_id": "810514",
+    "name": "AIR NANANG"
+  },
+  {
+    "id": "8105142010",
+    "district_id": "810514",
+    "name": "SURU"
+  }
+]

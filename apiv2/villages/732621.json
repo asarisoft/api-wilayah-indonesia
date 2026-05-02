@@ -1,1 +1,22 @@
-[{"id": "7326212001", "district_id": "732621", "name": "AWAN"}, {"id": "7326212002", "district_id": "732621", "name": "BATU LOTONG"}, {"id": "7326212003", "district_id": "732621", "name": "BUNTU KARUA"}, {"id": "7326212004", "district_id": "732621", "name": "LONDONG BIANG"}]
+[
+  {
+    "id": "7326212001",
+    "district_id": "732621",
+    "name": "AWAN"
+  },
+  {
+    "id": "7326212002",
+    "district_id": "732621",
+    "name": "BATU LOTONG"
+  },
+  {
+    "id": "7326212003",
+    "district_id": "732621",
+    "name": "BUNTU KARUA"
+  },
+  {
+    "id": "7326212004",
+    "district_id": "732621",
+    "name": "LONDONG BIANG"
+  }
+]

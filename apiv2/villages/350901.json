@@ -1,1 +1,32 @@
-[{"id": "3509012001", "district_id": "350901", "name": "PADOMASAN"}, {"id": "3509012002", "district_id": "350901", "name": "KETING"}, {"id": "3509012003", "district_id": "350901", "name": "JOMBANG"}, {"id": "3509012004", "district_id": "350901", "name": "NGAMPELREJO"}, {"id": "3509012005", "district_id": "350901", "name": "WRINGINAGUNG"}, {"id": "3509012006", "district_id": "350901", "name": "SARIMULYO"}]
+[
+  {
+    "id": "3509012001",
+    "district_id": "350901",
+    "name": "PADOMASAN"
+  },
+  {
+    "id": "3509012002",
+    "district_id": "350901",
+    "name": "KETING"
+  },
+  {
+    "id": "3509012003",
+    "district_id": "350901",
+    "name": "JOMBANG"
+  },
+  {
+    "id": "3509012004",
+    "district_id": "350901",
+    "name": "NGAMPELREJO"
+  },
+  {
+    "id": "3509012005",
+    "district_id": "350901",
+    "name": "WRINGINAGUNG"
+  },
+  {
+    "id": "3509012006",
+    "district_id": "350901",
+    "name": "SARIMULYO"
+  }
+]

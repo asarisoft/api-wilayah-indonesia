@@ -1,1 +1,32 @@
-[{"id": "1471021001", "district_id": "147102", "name": "SIMPANG EMPAT"}, {"id": "1471021002", "district_id": "147102", "name": "SUMAHILANG"}, {"id": "1471021003", "district_id": "147102", "name": "TANAH DATAR"}, {"id": "1471021004", "district_id": "147102", "name": "KOTA BARU"}, {"id": "1471021005", "district_id": "147102", "name": "SUKARAMAI"}, {"id": "1471021006", "district_id": "147102", "name": "KOTA TINGGI"}]
+[
+  {
+    "id": "1471021001",
+    "district_id": "147102",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "1471021002",
+    "district_id": "147102",
+    "name": "SUMAHILANG"
+  },
+  {
+    "id": "1471021003",
+    "district_id": "147102",
+    "name": "TANAH DATAR"
+  },
+  {
+    "id": "1471021004",
+    "district_id": "147102",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "1471021005",
+    "district_id": "147102",
+    "name": "SUKARAMAI"
+  },
+  {
+    "id": "1471021006",
+    "district_id": "147102",
+    "name": "KOTA TINGGI"
+  }
+]

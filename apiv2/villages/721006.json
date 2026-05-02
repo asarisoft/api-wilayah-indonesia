@@ -1,1 +1,62 @@
-[{"id": "7210062001", "district_id": "721006", "name": "LEMPELERO"}, {"id": "7210062002", "district_id": "721006", "name": "GIMPU"}, {"id": "7210062003", "district_id": "721006", "name": "TOMUA"}, {"id": "7210062004", "district_id": "721006", "name": "TOMPI BUGIS"}, {"id": "7210062005", "district_id": "721006", "name": "LAWUA"}, {"id": "7210062006", "district_id": "721006", "name": "WATUKILO"}, {"id": "7210062007", "district_id": "721006", "name": "SALUTOME"}, {"id": "7210062008", "district_id": "721006", "name": "O'O PARESE"}, {"id": "7210062009", "district_id": "721006", "name": "PILIMAKUJAWA"}, {"id": "7210062010", "district_id": "721006", "name": "MOA"}, {"id": "7210062011", "district_id": "721006", "name": "WANGKA"}, {"id": "7210062012", "district_id": "721006", "name": "PALAMAKI"}]
+[
+  {
+    "id": "7210062001",
+    "district_id": "721006",
+    "name": "LEMPELERO"
+  },
+  {
+    "id": "7210062002",
+    "district_id": "721006",
+    "name": "GIMPU"
+  },
+  {
+    "id": "7210062003",
+    "district_id": "721006",
+    "name": "TOMUA"
+  },
+  {
+    "id": "7210062004",
+    "district_id": "721006",
+    "name": "TOMPI BUGIS"
+  },
+  {
+    "id": "7210062005",
+    "district_id": "721006",
+    "name": "LAWUA"
+  },
+  {
+    "id": "7210062006",
+    "district_id": "721006",
+    "name": "WATUKILO"
+  },
+  {
+    "id": "7210062007",
+    "district_id": "721006",
+    "name": "SALUTOME"
+  },
+  {
+    "id": "7210062008",
+    "district_id": "721006",
+    "name": "O'O PARESE"
+  },
+  {
+    "id": "7210062009",
+    "district_id": "721006",
+    "name": "PILIMAKUJAWA"
+  },
+  {
+    "id": "7210062010",
+    "district_id": "721006",
+    "name": "MOA"
+  },
+  {
+    "id": "7210062011",
+    "district_id": "721006",
+    "name": "WANGKA"
+  },
+  {
+    "id": "7210062012",
+    "district_id": "721006",
+    "name": "PALAMAKI"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "1802252001", "district_id": "180225", "name": "SIDO BINANGUN"}, {"id": "1802252002", "district_id": "180225", "name": "SRI BAWONO"}, {"id": "1802252003", "district_id": "180225", "name": "SRI BUDAYA"}, {"id": "1802252004", "district_id": "180225", "name": "SUKO BINANGUN"}, {"id": "1802252005", "district_id": "180225", "name": "SRI BUSONO"}, {"id": "1802252006", "district_id": "180225", "name": "SANGGA BUANA"}]
+[
+  {
+    "id": "1802252001",
+    "district_id": "180225",
+    "name": "SIDO BINANGUN"
+  },
+  {
+    "id": "1802252002",
+    "district_id": "180225",
+    "name": "SRI BAWONO"
+  },
+  {
+    "id": "1802252003",
+    "district_id": "180225",
+    "name": "SRI BUDAYA"
+  },
+  {
+    "id": "1802252004",
+    "district_id": "180225",
+    "name": "SUKO BINANGUN"
+  },
+  {
+    "id": "1802252005",
+    "district_id": "180225",
+    "name": "SRI BUSONO"
+  },
+  {
+    "id": "1802252006",
+    "district_id": "180225",
+    "name": "SANGGA BUANA"
+  }
+]

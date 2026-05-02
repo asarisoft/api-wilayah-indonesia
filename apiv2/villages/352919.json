@@ -1,1 +1,87 @@
-[{"id": "3529192001", "district_id": "352919", "name": "GRUJUGAN"}, {"id": "3529192002", "district_id": "352919", "name": "LONGOS"}, {"id": "3529192003", "district_id": "352919", "name": "ANDULANG"}, {"id": "3529192004", "district_id": "352919", "name": "GAPURA TIMUR"}, {"id": "3529192005", "district_id": "352919", "name": "MANDALA"}, {"id": "3529192006", "district_id": "352919", "name": "GERSIK PUTIH"}, {"id": "3529192007", "district_id": "352919", "name": "GAPURA TENGAH"}, {"id": "3529192008", "district_id": "352919", "name": "GAPURA BARAT"}, {"id": "3529192009", "district_id": "352919", "name": "PANAGAN"}, {"id": "3529192010", "district_id": "352919", "name": "PALO'LO'AN"}, {"id": "3529192011", "district_id": "352919", "name": "BANJAR TIMUR"}, {"id": "3529192012", "district_id": "352919", "name": "BANJAR BARAT"}, {"id": "3529192013", "district_id": "352919", "name": "BATUDINDING"}, {"id": "3529192014", "district_id": "352919", "name": "BABAN"}, {"id": "3529192015", "district_id": "352919", "name": "KARANGBUDI"}, {"id": "3529192016", "district_id": "352919", "name": "BRAJI"}, {"id": "3529192017", "district_id": "352919", "name": "POJA"}]
+[
+  {
+    "id": "3529192001",
+    "district_id": "352919",
+    "name": "GRUJUGAN"
+  },
+  {
+    "id": "3529192002",
+    "district_id": "352919",
+    "name": "LONGOS"
+  },
+  {
+    "id": "3529192003",
+    "district_id": "352919",
+    "name": "ANDULANG"
+  },
+  {
+    "id": "3529192004",
+    "district_id": "352919",
+    "name": "GAPURA TIMUR"
+  },
+  {
+    "id": "3529192005",
+    "district_id": "352919",
+    "name": "MANDALA"
+  },
+  {
+    "id": "3529192006",
+    "district_id": "352919",
+    "name": "GERSIK PUTIH"
+  },
+  {
+    "id": "3529192007",
+    "district_id": "352919",
+    "name": "GAPURA TENGAH"
+  },
+  {
+    "id": "3529192008",
+    "district_id": "352919",
+    "name": "GAPURA BARAT"
+  },
+  {
+    "id": "3529192009",
+    "district_id": "352919",
+    "name": "PANAGAN"
+  },
+  {
+    "id": "3529192010",
+    "district_id": "352919",
+    "name": "PALO'LO'AN"
+  },
+  {
+    "id": "3529192011",
+    "district_id": "352919",
+    "name": "BANJAR TIMUR"
+  },
+  {
+    "id": "3529192012",
+    "district_id": "352919",
+    "name": "BANJAR BARAT"
+  },
+  {
+    "id": "3529192013",
+    "district_id": "352919",
+    "name": "BATUDINDING"
+  },
+  {
+    "id": "3529192014",
+    "district_id": "352919",
+    "name": "BABAN"
+  },
+  {
+    "id": "3529192015",
+    "district_id": "352919",
+    "name": "KARANGBUDI"
+  },
+  {
+    "id": "3529192016",
+    "district_id": "352919",
+    "name": "BRAJI"
+  },
+  {
+    "id": "3529192017",
+    "district_id": "352919",
+    "name": "POJA"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3172041001", "district_id": "317204", "name": "CILINCING"}, {"id": "3172041002", "district_id": "317204", "name": "SUKAPURA"}, {"id": "3172041003", "district_id": "317204", "name": "MARUNDA"}, {"id": "3172041004", "district_id": "317204", "name": "KALIBARU"}, {"id": "3172041005", "district_id": "317204", "name": "SEMPER TIMUR"}, {"id": "3172041006", "district_id": "317204", "name": "ROROTAN"}, {"id": "3172041007", "district_id": "317204", "name": "SEMPER BARAT"}]
+[
+  {
+    "id": "3172041001",
+    "district_id": "317204",
+    "name": "CILINCING"
+  },
+  {
+    "id": "3172041002",
+    "district_id": "317204",
+    "name": "SUKAPURA"
+  },
+  {
+    "id": "3172041003",
+    "district_id": "317204",
+    "name": "MARUNDA"
+  },
+  {
+    "id": "3172041004",
+    "district_id": "317204",
+    "name": "KALIBARU"
+  },
+  {
+    "id": "3172041005",
+    "district_id": "317204",
+    "name": "SEMPER TIMUR"
+  },
+  {
+    "id": "3172041006",
+    "district_id": "317204",
+    "name": "ROROTAN"
+  },
+  {
+    "id": "3172041007",
+    "district_id": "317204",
+    "name": "SEMPER BARAT"
+  }
+]

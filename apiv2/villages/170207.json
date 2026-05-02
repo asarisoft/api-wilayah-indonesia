@@ -1,1 +1,77 @@
-[{"id": "1702071011", "district_id": "170207", "name": "PASAR PU TANDING"}, {"id": "1702072001", "district_id": "170207", "name": "KARANG BARU"}, {"id": "1702072007", "district_id": "170207", "name": "GURU AGUNG"}, {"id": "1702072008", "district_id": "170207", "name": "BELUMAI II"}, {"id": "1702072009", "district_id": "170207", "name": "BELUMAI I"}, {"id": "1702072010", "district_id": "170207", "name": "ULAK TANDING"}, {"id": "1702072012", "district_id": "170207", "name": "TANJUNG SANAI I"}, {"id": "1702072013", "district_id": "170207", "name": "MUARA TELITA"}, {"id": "1702072014", "district_id": "170207", "name": "UJAN PANAS"}, {"id": "1702072021", "district_id": "170207", "name": "TABA TINGGI"}, {"id": "1702072022", "district_id": "170207", "name": "TANJUNG SANAI II"}, {"id": "1702072025", "district_id": "170207", "name": "TAKTOI"}, {"id": "1702072026", "district_id": "170207", "name": "KASIE KASUBUN"}, {"id": "1702072027", "district_id": "170207", "name": "AIR KATI"}, {"id": "1702072028", "district_id": "170207", "name": "BUKIT BATU"}]
+[
+  {
+    "id": "1702071011",
+    "district_id": "170207",
+    "name": "PASAR PU TANDING"
+  },
+  {
+    "id": "1702072001",
+    "district_id": "170207",
+    "name": "KARANG BARU"
+  },
+  {
+    "id": "1702072007",
+    "district_id": "170207",
+    "name": "GURU AGUNG"
+  },
+  {
+    "id": "1702072008",
+    "district_id": "170207",
+    "name": "BELUMAI II"
+  },
+  {
+    "id": "1702072009",
+    "district_id": "170207",
+    "name": "BELUMAI I"
+  },
+  {
+    "id": "1702072010",
+    "district_id": "170207",
+    "name": "ULAK TANDING"
+  },
+  {
+    "id": "1702072012",
+    "district_id": "170207",
+    "name": "TANJUNG SANAI I"
+  },
+  {
+    "id": "1702072013",
+    "district_id": "170207",
+    "name": "MUARA TELITA"
+  },
+  {
+    "id": "1702072014",
+    "district_id": "170207",
+    "name": "UJAN PANAS"
+  },
+  {
+    "id": "1702072021",
+    "district_id": "170207",
+    "name": "TABA TINGGI"
+  },
+  {
+    "id": "1702072022",
+    "district_id": "170207",
+    "name": "TANJUNG SANAI II"
+  },
+  {
+    "id": "1702072025",
+    "district_id": "170207",
+    "name": "TAKTOI"
+  },
+  {
+    "id": "1702072026",
+    "district_id": "170207",
+    "name": "KASIE KASUBUN"
+  },
+  {
+    "id": "1702072027",
+    "district_id": "170207",
+    "name": "AIR KATI"
+  },
+  {
+    "id": "1702072028",
+    "district_id": "170207",
+    "name": "BUKIT BATU"
+  }
+]

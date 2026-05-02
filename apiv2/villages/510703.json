@@ -1,1 +1,62 @@
-[{"id": "5107032001", "district_id": "510703", "name": "GEGELANG"}, {"id": "5107032002", "district_id": "510703", "name": "ANTIGA"}, {"id": "5107032003", "district_id": "510703", "name": "ULAKAN"}, {"id": "5107032004", "district_id": "510703", "name": "MANGGIS"}, {"id": "5107032005", "district_id": "510703", "name": "NYUH TEBEL"}, {"id": "5107032006", "district_id": "510703", "name": "TENGANAN"}, {"id": "5107032007", "district_id": "510703", "name": "NGIS"}, {"id": "5107032008", "district_id": "510703", "name": "SELUMBUNG"}, {"id": "5107032009", "district_id": "510703", "name": "PADANGBAI"}, {"id": "5107032010", "district_id": "510703", "name": "ANTIGA KELOD"}, {"id": "5107032011", "district_id": "510703", "name": "PESEDAHAN"}, {"id": "5107032012", "district_id": "510703", "name": "SENGKIDU"}]
+[
+  {
+    "id": "5107032001",
+    "district_id": "510703",
+    "name": "GEGELANG"
+  },
+  {
+    "id": "5107032002",
+    "district_id": "510703",
+    "name": "ANTIGA"
+  },
+  {
+    "id": "5107032003",
+    "district_id": "510703",
+    "name": "ULAKAN"
+  },
+  {
+    "id": "5107032004",
+    "district_id": "510703",
+    "name": "MANGGIS"
+  },
+  {
+    "id": "5107032005",
+    "district_id": "510703",
+    "name": "NYUH TEBEL"
+  },
+  {
+    "id": "5107032006",
+    "district_id": "510703",
+    "name": "TENGANAN"
+  },
+  {
+    "id": "5107032007",
+    "district_id": "510703",
+    "name": "NGIS"
+  },
+  {
+    "id": "5107032008",
+    "district_id": "510703",
+    "name": "SELUMBUNG"
+  },
+  {
+    "id": "5107032009",
+    "district_id": "510703",
+    "name": "PADANGBAI"
+  },
+  {
+    "id": "5107032010",
+    "district_id": "510703",
+    "name": "ANTIGA KELOD"
+  },
+  {
+    "id": "5107032011",
+    "district_id": "510703",
+    "name": "PESEDAHAN"
+  },
+  {
+    "id": "5107032012",
+    "district_id": "510703",
+    "name": "SENGKIDU"
+  }
+]

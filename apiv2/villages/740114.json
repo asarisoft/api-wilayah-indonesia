@@ -1,1 +1,37 @@
-[{"id": "7401141001", "district_id": "740114", "name": "MANGOLO"}, {"id": "7401141002", "district_id": "740114", "name": "KOLAKAASI"}, {"id": "7401141003", "district_id": "740114", "name": "SEA"}, {"id": "7401141004", "district_id": "740114", "name": "LATAMBAGA"}, {"id": "7401141005", "district_id": "740114", "name": "SAKULI"}, {"id": "7401141006", "district_id": "740114", "name": "INDUHA"}, {"id": "7401141007", "district_id": "740114", "name": "ULUNGGOLAKA"}]
+[
+  {
+    "id": "7401141001",
+    "district_id": "740114",
+    "name": "MANGOLO"
+  },
+  {
+    "id": "7401141002",
+    "district_id": "740114",
+    "name": "KOLAKAASI"
+  },
+  {
+    "id": "7401141003",
+    "district_id": "740114",
+    "name": "SEA"
+  },
+  {
+    "id": "7401141004",
+    "district_id": "740114",
+    "name": "LATAMBAGA"
+  },
+  {
+    "id": "7401141005",
+    "district_id": "740114",
+    "name": "SAKULI"
+  },
+  {
+    "id": "7401141006",
+    "district_id": "740114",
+    "name": "INDUHA"
+  },
+  {
+    "id": "7401141007",
+    "district_id": "740114",
+    "name": "ULUNGGOLAKA"
+  }
+]

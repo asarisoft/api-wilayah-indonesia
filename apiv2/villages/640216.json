@@ -1,1 +1,92 @@
-[{"id": "6402162001", "district_id": "640216", "name": "MANUNGGAL JAYA"}, {"id": "6402162002", "district_id": "640216", "name": "BUKIT RAYA"}, {"id": "6402162003", "district_id": "640216", "name": "EMBALUT"}, {"id": "6402162004", "district_id": "640216", "name": "BANGUN REJO"}, {"id": "6402162005", "district_id": "640216", "name": "KERTA BUANA"}, {"id": "6402162006", "district_id": "640216", "name": "SEPARI"}, {"id": "6402162007", "district_id": "640216", "name": "BUKIT PARIAMAN"}, {"id": "6402162008", "district_id": "640216", "name": "BHUANA JAYA"}, {"id": "6402162009", "district_id": "640216", "name": "MULAWARMAN"}, {"id": "6402162010", "district_id": "640216", "name": "LOA ULUNG"}, {"id": "6402162011", "district_id": "640216", "name": "LOA RAYA"}, {"id": "6402162012", "district_id": "640216", "name": "PERJIWA"}, {"id": "6402162013", "district_id": "640216", "name": "TELUK DALAM"}, {"id": "6402162014", "district_id": "640216", "name": "LOA LEPU"}, {"id": "6402162015", "district_id": "640216", "name": "SUKA MAJU"}, {"id": "6402162016", "district_id": "640216", "name": "LOA PARI"}, {"id": "6402162017", "district_id": "640216", "name": "KARANG TUNGGAL"}, {"id": "6402162018", "district_id": "640216", "name": "TANJUNG BATU"}]
+[
+  {
+    "id": "6402162001",
+    "district_id": "640216",
+    "name": "MANUNGGAL JAYA"
+  },
+  {
+    "id": "6402162002",
+    "district_id": "640216",
+    "name": "BUKIT RAYA"
+  },
+  {
+    "id": "6402162003",
+    "district_id": "640216",
+    "name": "EMBALUT"
+  },
+  {
+    "id": "6402162004",
+    "district_id": "640216",
+    "name": "BANGUN REJO"
+  },
+  {
+    "id": "6402162005",
+    "district_id": "640216",
+    "name": "KERTA BUANA"
+  },
+  {
+    "id": "6402162006",
+    "district_id": "640216",
+    "name": "SEPARI"
+  },
+  {
+    "id": "6402162007",
+    "district_id": "640216",
+    "name": "BUKIT PARIAMAN"
+  },
+  {
+    "id": "6402162008",
+    "district_id": "640216",
+    "name": "BHUANA JAYA"
+  },
+  {
+    "id": "6402162009",
+    "district_id": "640216",
+    "name": "MULAWARMAN"
+  },
+  {
+    "id": "6402162010",
+    "district_id": "640216",
+    "name": "LOA ULUNG"
+  },
+  {
+    "id": "6402162011",
+    "district_id": "640216",
+    "name": "LOA RAYA"
+  },
+  {
+    "id": "6402162012",
+    "district_id": "640216",
+    "name": "PERJIWA"
+  },
+  {
+    "id": "6402162013",
+    "district_id": "640216",
+    "name": "TELUK DALAM"
+  },
+  {
+    "id": "6402162014",
+    "district_id": "640216",
+    "name": "LOA LEPU"
+  },
+  {
+    "id": "6402162015",
+    "district_id": "640216",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "6402162016",
+    "district_id": "640216",
+    "name": "LOA PARI"
+  },
+  {
+    "id": "6402162017",
+    "district_id": "640216",
+    "name": "KARANG TUNGGAL"
+  },
+  {
+    "id": "6402162018",
+    "district_id": "640216",
+    "name": "TANJUNG BATU"
+  }
+]

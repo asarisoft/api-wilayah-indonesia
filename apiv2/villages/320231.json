@@ -1,1 +1,47 @@
-[{"id": "3202312001", "district_id": "320231", "name": "CARINGIN WETAN"}, {"id": "3202312002", "district_id": "320231", "name": "SUKAMULYA"}, {"id": "3202312003", "district_id": "320231", "name": "CARINGIN KULON"}, {"id": "3202312004", "district_id": "320231", "name": "SEUSEUPAN"}, {"id": "3202312005", "district_id": "320231", "name": "CIJENGKOL"}, {"id": "3202312006", "district_id": "320231", "name": "MEKARJAYA"}, {"id": "3202312007", "district_id": "320231", "name": "TALAGA"}, {"id": "3202312008", "district_id": "320231", "name": "CIKEMBANG"}, {"id": "3202312009", "district_id": "320231", "name": "PASIR DATAR INDAH"}]
+[
+  {
+    "id": "3202312001",
+    "district_id": "320231",
+    "name": "CARINGIN WETAN"
+  },
+  {
+    "id": "3202312002",
+    "district_id": "320231",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3202312003",
+    "district_id": "320231",
+    "name": "CARINGIN KULON"
+  },
+  {
+    "id": "3202312004",
+    "district_id": "320231",
+    "name": "SEUSEUPAN"
+  },
+  {
+    "id": "3202312005",
+    "district_id": "320231",
+    "name": "CIJENGKOL"
+  },
+  {
+    "id": "3202312006",
+    "district_id": "320231",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3202312007",
+    "district_id": "320231",
+    "name": "TALAGA"
+  },
+  {
+    "id": "3202312008",
+    "district_id": "320231",
+    "name": "CIKEMBANG"
+  },
+  {
+    "id": "3202312009",
+    "district_id": "320231",
+    "name": "PASIR DATAR INDAH"
+  }
+]

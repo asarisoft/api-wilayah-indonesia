@@ -1,1 +1,37 @@
-[{"id": "9602152001", "district_id": "960215", "name": "MUKAMAT"}, {"id": "9602152002", "district_id": "960215", "name": "IKANA"}, {"id": "9602152003", "district_id": "960215", "name": "HAEMARAN"}, {"id": "9602152004", "district_id": "960215", "name": "SIRANGGO"}, {"id": "9602152005", "district_id": "960215", "name": "MOGATEMIN"}, {"id": "9602152006", "district_id": "960215", "name": "ONIMSEFA"}, {"id": "9602152007", "district_id": "960215", "name": "MAKARORO"}]
+[
+  {
+    "id": "9602152001",
+    "district_id": "960215",
+    "name": "MUKAMAT"
+  },
+  {
+    "id": "9602152002",
+    "district_id": "960215",
+    "name": "IKANA"
+  },
+  {
+    "id": "9602152003",
+    "district_id": "960215",
+    "name": "HAEMARAN"
+  },
+  {
+    "id": "9602152004",
+    "district_id": "960215",
+    "name": "SIRANGGO"
+  },
+  {
+    "id": "9602152005",
+    "district_id": "960215",
+    "name": "MOGATEMIN"
+  },
+  {
+    "id": "9602152006",
+    "district_id": "960215",
+    "name": "ONIMSEFA"
+  },
+  {
+    "id": "9602152007",
+    "district_id": "960215",
+    "name": "MAKARORO"
+  }
+]

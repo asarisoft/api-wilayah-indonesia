@@ -1,1 +1,37 @@
-[{"id": "3374041001", "district_id": "337404", "name": "TAMBAKREJO"}, {"id": "3374041002", "district_id": "337404", "name": "KALIGAWE"}, {"id": "3374041003", "district_id": "337404", "name": "SAWAH BESAR"}, {"id": "3374041004", "district_id": "337404", "name": "SAMBIREJO"}, {"id": "3374041005", "district_id": "337404", "name": "SIWALAN"}, {"id": "3374041006", "district_id": "337404", "name": "PANDEAN LAMPER"}, {"id": "3374041007", "district_id": "337404", "name": "GAYAMSARI"}]
+[
+  {
+    "id": "3374041001",
+    "district_id": "337404",
+    "name": "TAMBAKREJO"
+  },
+  {
+    "id": "3374041002",
+    "district_id": "337404",
+    "name": "KALIGAWE"
+  },
+  {
+    "id": "3374041003",
+    "district_id": "337404",
+    "name": "SAWAH BESAR"
+  },
+  {
+    "id": "3374041004",
+    "district_id": "337404",
+    "name": "SAMBIREJO"
+  },
+  {
+    "id": "3374041005",
+    "district_id": "337404",
+    "name": "SIWALAN"
+  },
+  {
+    "id": "3374041006",
+    "district_id": "337404",
+    "name": "PANDEAN LAMPER"
+  },
+  {
+    "id": "3374041007",
+    "district_id": "337404",
+    "name": "GAYAMSARI"
+  }
+]

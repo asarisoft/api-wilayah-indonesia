@@ -1,1 +1,32 @@
-[{"id": "6403091002", "district_id": "640309", "name": "TELUK BAYUR"}, {"id": "6403091003", "district_id": "640309", "name": "RINDING"}, {"id": "6403092001", "district_id": "640309", "name": "TUMBIT MELAYU"}, {"id": "6403092004", "district_id": "640309", "name": "LABANAN JAYA"}, {"id": "6403092005", "district_id": "640309", "name": "LABANAN MAKMUR"}, {"id": "6403092006", "district_id": "640309", "name": "LABANAN MAKARTI"}]
+[
+  {
+    "id": "6403091002",
+    "district_id": "640309",
+    "name": "TELUK BAYUR"
+  },
+  {
+    "id": "6403091003",
+    "district_id": "640309",
+    "name": "RINDING"
+  },
+  {
+    "id": "6403092001",
+    "district_id": "640309",
+    "name": "TUMBIT MELAYU"
+  },
+  {
+    "id": "6403092004",
+    "district_id": "640309",
+    "name": "LABANAN JAYA"
+  },
+  {
+    "id": "6403092005",
+    "district_id": "640309",
+    "name": "LABANAN MAKMUR"
+  },
+  {
+    "id": "6403092006",
+    "district_id": "640309",
+    "name": "LABANAN MAKARTI"
+  }
+]

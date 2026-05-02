@@ -1,1 +1,32 @@
-[{"id": "1702222001", "district_id": "170222", "name": "IV SUKO MENANTI"}, {"id": "1702222002", "district_id": "170222", "name": "AIR RUSA"}, {"id": "1702222003", "district_id": "170222", "name": "BENGKO"}, {"id": "1702222004", "district_id": "170222", "name": "SINAR GUNUNG"}, {"id": "1702222005", "district_id": "170222", "name": "WARUNG POJOK"}, {"id": "1702222006", "district_id": "170222", "name": "TALANG BELITAR"}]
+[
+  {
+    "id": "1702222001",
+    "district_id": "170222",
+    "name": "IV SUKO MENANTI"
+  },
+  {
+    "id": "1702222002",
+    "district_id": "170222",
+    "name": "AIR RUSA"
+  },
+  {
+    "id": "1702222003",
+    "district_id": "170222",
+    "name": "BENGKO"
+  },
+  {
+    "id": "1702222004",
+    "district_id": "170222",
+    "name": "SINAR GUNUNG"
+  },
+  {
+    "id": "1702222005",
+    "district_id": "170222",
+    "name": "WARUNG POJOK"
+  },
+  {
+    "id": "1702222006",
+    "district_id": "170222",
+    "name": "TALANG BELITAR"
+  }
+]

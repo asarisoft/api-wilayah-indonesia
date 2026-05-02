@@ -1,1 +1,47 @@
-[{"id": "7106031005", "district_id": "710603", "name": "AIRMADIDI BAWAH"}, {"id": "7106031006", "district_id": "710603", "name": "RAP-RAP"}, {"id": "7106031007", "district_id": "710603", "name": "SARONSONG I"}, {"id": "7106031008", "district_id": "710603", "name": "AIRMADIDI ATAS"}, {"id": "7106031009", "district_id": "710603", "name": "SUKUR"}, {"id": "7106031011", "district_id": "710603", "name": "SARONGSONG II"}, {"id": "7106032002", "district_id": "710603", "name": "TANGGARI"}, {"id": "7106032003", "district_id": "710603", "name": "SAMPIRI"}, {"id": "7106032004", "district_id": "710603", "name": "SAWANGAN"}]
+[
+  {
+    "id": "7106031005",
+    "district_id": "710603",
+    "name": "AIRMADIDI BAWAH"
+  },
+  {
+    "id": "7106031006",
+    "district_id": "710603",
+    "name": "RAP-RAP"
+  },
+  {
+    "id": "7106031007",
+    "district_id": "710603",
+    "name": "SARONSONG I"
+  },
+  {
+    "id": "7106031008",
+    "district_id": "710603",
+    "name": "AIRMADIDI ATAS"
+  },
+  {
+    "id": "7106031009",
+    "district_id": "710603",
+    "name": "SUKUR"
+  },
+  {
+    "id": "7106031011",
+    "district_id": "710603",
+    "name": "SARONGSONG II"
+  },
+  {
+    "id": "7106032002",
+    "district_id": "710603",
+    "name": "TANGGARI"
+  },
+  {
+    "id": "7106032003",
+    "district_id": "710603",
+    "name": "SAMPIRI"
+  },
+  {
+    "id": "7106032004",
+    "district_id": "710603",
+    "name": "SAWANGAN"
+  }
+]

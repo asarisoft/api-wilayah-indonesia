@@ -1,1 +1,52 @@
-[{"id": "9504232001", "district_id": "950423", "name": "DUNDU"}, {"id": "9504232002", "district_id": "950423", "name": "NUGINI"}, {"id": "9504232003", "district_id": "950423", "name": "KEMBU"}, {"id": "9504232004", "district_id": "950423", "name": "KURUPU"}, {"id": "9504232005", "district_id": "950423", "name": "YIKU"}, {"id": "9504232006", "district_id": "950423", "name": "BIMO"}, {"id": "9504232007", "district_id": "950423", "name": "DUGUNAGEP"}, {"id": "9504232008", "district_id": "950423", "name": "NILOGABU"}, {"id": "9504232009", "district_id": "950423", "name": "NAKWI"}, {"id": "9504232010", "district_id": "950423", "name": "NINI"}]
+[
+  {
+    "id": "9504232001",
+    "district_id": "950423",
+    "name": "DUNDU"
+  },
+  {
+    "id": "9504232002",
+    "district_id": "950423",
+    "name": "NUGINI"
+  },
+  {
+    "id": "9504232003",
+    "district_id": "950423",
+    "name": "KEMBU"
+  },
+  {
+    "id": "9504232004",
+    "district_id": "950423",
+    "name": "KURUPU"
+  },
+  {
+    "id": "9504232005",
+    "district_id": "950423",
+    "name": "YIKU"
+  },
+  {
+    "id": "9504232006",
+    "district_id": "950423",
+    "name": "BIMO"
+  },
+  {
+    "id": "9504232007",
+    "district_id": "950423",
+    "name": "DUGUNAGEP"
+  },
+  {
+    "id": "9504232008",
+    "district_id": "950423",
+    "name": "NILOGABU"
+  },
+  {
+    "id": "9504232009",
+    "district_id": "950423",
+    "name": "NAKWI"
+  },
+  {
+    "id": "9504232010",
+    "district_id": "950423",
+    "name": "NINI"
+  }
+]

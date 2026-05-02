@@ -1,1 +1,32 @@
-[{"id": "6111052001", "district_id": "611105", "name": "SEPONTI JAYA"}, {"id": "6111052002", "district_id": "611105", "name": "TELAGA ARUM"}, {"id": "6111052003", "district_id": "611105", "name": "WONOREJO"}, {"id": "6111052004", "district_id": "611105", "name": "PODORUKUN"}, {"id": "6111052005", "district_id": "611105", "name": "SUNGAI SEPETI"}, {"id": "6111052006", "district_id": "611105", "name": "DURIAN SEBATANG"}]
+[
+  {
+    "id": "6111052001",
+    "district_id": "611105",
+    "name": "SEPONTI JAYA"
+  },
+  {
+    "id": "6111052002",
+    "district_id": "611105",
+    "name": "TELAGA ARUM"
+  },
+  {
+    "id": "6111052003",
+    "district_id": "611105",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "6111052004",
+    "district_id": "611105",
+    "name": "PODORUKUN"
+  },
+  {
+    "id": "6111052005",
+    "district_id": "611105",
+    "name": "SUNGAI SEPETI"
+  },
+  {
+    "id": "6111052006",
+    "district_id": "611105",
+    "name": "DURIAN SEBATANG"
+  }
+]

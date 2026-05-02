@@ -1,1 +1,37 @@
-[{"id": "3174011001", "district_id": "317401", "name": "TEBET TIMUR"}, {"id": "3174011002", "district_id": "317401", "name": "TEBET BARAT"}, {"id": "3174011003", "district_id": "317401", "name": "MENTENG DALAM"}, {"id": "3174011004", "district_id": "317401", "name": "KEBON BARU"}, {"id": "3174011005", "district_id": "317401", "name": "BUKIT DURI"}, {"id": "3174011006", "district_id": "317401", "name": "MANGGARAI SELATAN"}, {"id": "3174011007", "district_id": "317401", "name": "MANGGARAI"}]
+[
+  {
+    "id": "3174011001",
+    "district_id": "317401",
+    "name": "TEBET TIMUR"
+  },
+  {
+    "id": "3174011002",
+    "district_id": "317401",
+    "name": "TEBET BARAT"
+  },
+  {
+    "id": "3174011003",
+    "district_id": "317401",
+    "name": "MENTENG DALAM"
+  },
+  {
+    "id": "3174011004",
+    "district_id": "317401",
+    "name": "KEBON BARU"
+  },
+  {
+    "id": "3174011005",
+    "district_id": "317401",
+    "name": "BUKIT DURI"
+  },
+  {
+    "id": "3174011006",
+    "district_id": "317401",
+    "name": "MANGGARAI SELATAN"
+  },
+  {
+    "id": "3174011007",
+    "district_id": "317401",
+    "name": "MANGGARAI"
+  }
+]

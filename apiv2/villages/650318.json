@@ -1,1 +1,87 @@
-[{"id": "6503182001", "district_id": "650318", "name": "PA' BETUNG"}, {"id": "6503182002", "district_id": "650318", "name": "LONG SEPAYANG"}, {"id": "6503182003", "district_id": "650318", "name": "PA' PAWAN"}, {"id": "6503182004", "district_id": "650318", "name": "PA' MELADE"}, {"id": "6503182005", "district_id": "650318", "name": "PA' KEBUAN"}, {"id": "6503182006", "district_id": "650318", "name": "PA' UMUNG"}, {"id": "6503182007", "district_id": "650318", "name": "PA' RANGEB"}, {"id": "6503182008", "district_id": "650318", "name": "LONG UMUNG"}, {"id": "6503182009", "district_id": "650318", "name": "LONG TENEM"}, {"id": "6503182010", "district_id": "650318", "name": "LONG NUAT"}, {"id": "6503182011", "district_id": "650318", "name": "PA' PALA"}, {"id": "6503182012", "district_id": "650318", "name": "SINAR BARU"}, {"id": "6503182013", "district_id": "650318", "name": "PA' LIDUNG"}, {"id": "6503182014", "district_id": "650318", "name": "PA' RAYE"}, {"id": "6503182015", "district_id": "650318", "name": "BUNGAYAN"}, {"id": "6503182016", "district_id": "650318", "name": "WA' YAGUNG"}, {"id": "6503182017", "district_id": "650318", "name": "KAMPUNG BARU"}]
+[
+  {
+    "id": "6503182001",
+    "district_id": "650318",
+    "name": "PA' BETUNG"
+  },
+  {
+    "id": "6503182002",
+    "district_id": "650318",
+    "name": "LONG SEPAYANG"
+  },
+  {
+    "id": "6503182003",
+    "district_id": "650318",
+    "name": "PA' PAWAN"
+  },
+  {
+    "id": "6503182004",
+    "district_id": "650318",
+    "name": "PA' MELADE"
+  },
+  {
+    "id": "6503182005",
+    "district_id": "650318",
+    "name": "PA' KEBUAN"
+  },
+  {
+    "id": "6503182006",
+    "district_id": "650318",
+    "name": "PA' UMUNG"
+  },
+  {
+    "id": "6503182007",
+    "district_id": "650318",
+    "name": "PA' RANGEB"
+  },
+  {
+    "id": "6503182008",
+    "district_id": "650318",
+    "name": "LONG UMUNG"
+  },
+  {
+    "id": "6503182009",
+    "district_id": "650318",
+    "name": "LONG TENEM"
+  },
+  {
+    "id": "6503182010",
+    "district_id": "650318",
+    "name": "LONG NUAT"
+  },
+  {
+    "id": "6503182011",
+    "district_id": "650318",
+    "name": "PA' PALA"
+  },
+  {
+    "id": "6503182012",
+    "district_id": "650318",
+    "name": "SINAR BARU"
+  },
+  {
+    "id": "6503182013",
+    "district_id": "650318",
+    "name": "PA' LIDUNG"
+  },
+  {
+    "id": "6503182014",
+    "district_id": "650318",
+    "name": "PA' RAYE"
+  },
+  {
+    "id": "6503182015",
+    "district_id": "650318",
+    "name": "BUNGAYAN"
+  },
+  {
+    "id": "6503182016",
+    "district_id": "650318",
+    "name": "WA' YAGUNG"
+  },
+  {
+    "id": "6503182017",
+    "district_id": "650318",
+    "name": "KAMPUNG BARU"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "1701031018", "district_id": "170103", "name": "MASAT"}, {"id": "1701032001", "district_id": "170103", "name": "TANJUNG AUR I"}, {"id": "1701032002", "district_id": "170103", "name": "ANGGUT"}, {"id": "1701032003", "district_id": "170103", "name": "TANJUNG ERAN"}, {"id": "1701032004", "district_id": "170103", "name": "PADANG LEBAR"}, {"id": "1701032005", "district_id": "170103", "name": "GEDUNG AGUNG"}, {"id": "1701032015", "district_id": "170103", "name": "BATU BANDUNG"}, {"id": "1701032016", "district_id": "170103", "name": "ULAK LEBAR"}, {"id": "1701032017", "district_id": "170103", "name": "KOTA BUMI"}, {"id": "1701032019", "district_id": "170103", "name": "AIR UMBAN"}, {"id": "1701032020", "district_id": "170103", "name": "SEBILO"}, {"id": "1701032021", "district_id": "170103", "name": "GANJUH"}, {"id": "1701032022", "district_id": "170103", "name": "PUDING"}, {"id": "1701032023", "district_id": "170103", "name": "PADANG TAMBAK"}, {"id": "1701032024", "district_id": "170103", "name": "PADANG MUMPO"}, {"id": "1701032025", "district_id": "170103", "name": "BERINGIN DATAR"}]
+[
+  {
+    "id": "1701031018",
+    "district_id": "170103",
+    "name": "MASAT"
+  },
+  {
+    "id": "1701032001",
+    "district_id": "170103",
+    "name": "TANJUNG AUR I"
+  },
+  {
+    "id": "1701032002",
+    "district_id": "170103",
+    "name": "ANGGUT"
+  },
+  {
+    "id": "1701032003",
+    "district_id": "170103",
+    "name": "TANJUNG ERAN"
+  },
+  {
+    "id": "1701032004",
+    "district_id": "170103",
+    "name": "PADANG LEBAR"
+  },
+  {
+    "id": "1701032005",
+    "district_id": "170103",
+    "name": "GEDUNG AGUNG"
+  },
+  {
+    "id": "1701032015",
+    "district_id": "170103",
+    "name": "BATU BANDUNG"
+  },
+  {
+    "id": "1701032016",
+    "district_id": "170103",
+    "name": "ULAK LEBAR"
+  },
+  {
+    "id": "1701032017",
+    "district_id": "170103",
+    "name": "KOTA BUMI"
+  },
+  {
+    "id": "1701032019",
+    "district_id": "170103",
+    "name": "AIR UMBAN"
+  },
+  {
+    "id": "1701032020",
+    "district_id": "170103",
+    "name": "SEBILO"
+  },
+  {
+    "id": "1701032021",
+    "district_id": "170103",
+    "name": "GANJUH"
+  },
+  {
+    "id": "1701032022",
+    "district_id": "170103",
+    "name": "PUDING"
+  },
+  {
+    "id": "1701032023",
+    "district_id": "170103",
+    "name": "PADANG TAMBAK"
+  },
+  {
+    "id": "1701032024",
+    "district_id": "170103",
+    "name": "PADANG MUMPO"
+  },
+  {
+    "id": "1701032025",
+    "district_id": "170103",
+    "name": "BERINGIN DATAR"
+  }
+]

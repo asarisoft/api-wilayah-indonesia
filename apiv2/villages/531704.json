@@ -1,1 +1,57 @@
-[{"id": "5317042001", "district_id": "531704", "name": "MBILUR PANGADU"}, {"id": "5317042002", "district_id": "531704", "name": "SORU"}, {"id": "5317042003", "district_id": "531704", "name": "PRAIKORUKU JANGGA"}, {"id": "5317042007", "district_id": "531704", "name": "LENANG"}, {"id": "5317042008", "district_id": "531704", "name": "TANA MBANAS"}, {"id": "5317042009", "district_id": "531704", "name": "PADIRA TANA"}, {"id": "5317042010", "district_id": "531704", "name": "NGADU BOLU"}, {"id": "5317042014", "district_id": "531704", "name": "TANA MBANAS SELATAN"}, {"id": "5317042015", "district_id": "531704", "name": "TANA MBANAS BARAT"}, {"id": "5317042016", "district_id": "531704", "name": "NGADU OLU"}, {"id": "5317042017", "district_id": "531704", "name": "LENANG SELATAN"}]
+[
+  {
+    "id": "5317042001",
+    "district_id": "531704",
+    "name": "MBILUR PANGADU"
+  },
+  {
+    "id": "5317042002",
+    "district_id": "531704",
+    "name": "SORU"
+  },
+  {
+    "id": "5317042003",
+    "district_id": "531704",
+    "name": "PRAIKORUKU JANGGA"
+  },
+  {
+    "id": "5317042007",
+    "district_id": "531704",
+    "name": "LENANG"
+  },
+  {
+    "id": "5317042008",
+    "district_id": "531704",
+    "name": "TANA MBANAS"
+  },
+  {
+    "id": "5317042009",
+    "district_id": "531704",
+    "name": "PADIRA TANA"
+  },
+  {
+    "id": "5317042010",
+    "district_id": "531704",
+    "name": "NGADU BOLU"
+  },
+  {
+    "id": "5317042014",
+    "district_id": "531704",
+    "name": "TANA MBANAS SELATAN"
+  },
+  {
+    "id": "5317042015",
+    "district_id": "531704",
+    "name": "TANA MBANAS BARAT"
+  },
+  {
+    "id": "5317042016",
+    "district_id": "531704",
+    "name": "NGADU OLU"
+  },
+  {
+    "id": "5317042017",
+    "district_id": "531704",
+    "name": "LENANG SELATAN"
+  }
+]

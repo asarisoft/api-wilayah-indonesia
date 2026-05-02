@@ -1,1 +1,37 @@
-[{"id": "1871061001", "district_id": "187106", "name": "DURIAN PAYUNG"}, {"id": "1871061002", "district_id": "187106", "name": "GOTONG ROYONG"}, {"id": "1871061005", "district_id": "187106", "name": "PALAPA"}, {"id": "1871061006", "district_id": "187106", "name": "KALIAWI"}, {"id": "1871061007", "district_id": "187106", "name": "KELAPA TIGA"}, {"id": "1871061010", "district_id": "187106", "name": "PASIR GINTUNG"}, {"id": "1871061012", "district_id": "187106", "name": "KALIAWI PERSADA"}]
+[
+  {
+    "id": "1871061001",
+    "district_id": "187106",
+    "name": "DURIAN PAYUNG"
+  },
+  {
+    "id": "1871061002",
+    "district_id": "187106",
+    "name": "GOTONG ROYONG"
+  },
+  {
+    "id": "1871061005",
+    "district_id": "187106",
+    "name": "PALAPA"
+  },
+  {
+    "id": "1871061006",
+    "district_id": "187106",
+    "name": "KALIAWI"
+  },
+  {
+    "id": "1871061007",
+    "district_id": "187106",
+    "name": "KELAPA TIGA"
+  },
+  {
+    "id": "1871061010",
+    "district_id": "187106",
+    "name": "PASIR GINTUNG"
+  },
+  {
+    "id": "1871061012",
+    "district_id": "187106",
+    "name": "KALIAWI PERSADA"
+  }
+]

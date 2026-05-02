@@ -1,1 +1,22 @@
-[{"id": "6107172001", "district_id": "610717", "name": "SINAR TEBUDAK"}, {"id": "6107172002", "district_id": "610717", "name": "KAMUH"}, {"id": "6107172003", "district_id": "610717", "name": "BENGKILU"}, {"id": "6107172004", "district_id": "610717", "name": "PISAK"}]
+[
+  {
+    "id": "6107172001",
+    "district_id": "610717",
+    "name": "SINAR TEBUDAK"
+  },
+  {
+    "id": "6107172002",
+    "district_id": "610717",
+    "name": "KAMUH"
+  },
+  {
+    "id": "6107172003",
+    "district_id": "610717",
+    "name": "BENGKILU"
+  },
+  {
+    "id": "6107172004",
+    "district_id": "610717",
+    "name": "PISAK"
+  }
+]

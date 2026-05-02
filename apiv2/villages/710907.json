@@ -1,1 +1,27 @@
-[{"id": "7109072001", "district_id": "710907", "name": "BUANG"}, {"id": "7109072002", "district_id": "710907", "name": "KARUNGO"}, {"id": "7109072003", "district_id": "710907", "name": "LAMANGGO"}, {"id": "7109072004", "district_id": "710907", "name": "DALINSAHENG"}, {"id": "7109072005", "district_id": "710907", "name": "TOPE"}]
+[
+  {
+    "id": "7109072001",
+    "district_id": "710907",
+    "name": "BUANG"
+  },
+  {
+    "id": "7109072002",
+    "district_id": "710907",
+    "name": "KARUNGO"
+  },
+  {
+    "id": "7109072003",
+    "district_id": "710907",
+    "name": "LAMANGGO"
+  },
+  {
+    "id": "7109072004",
+    "district_id": "710907",
+    "name": "DALINSAHENG"
+  },
+  {
+    "id": "7109072005",
+    "district_id": "710907",
+    "name": "TOPE"
+  }
+]

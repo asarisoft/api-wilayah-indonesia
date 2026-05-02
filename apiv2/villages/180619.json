@@ -1,1 +1,62 @@
-[{"id": "1806192001", "district_id": "180619", "name": "BATU KRAMAT"}, {"id": "1806192002", "district_id": "180619", "name": "KAMPUNG BARU"}, {"id": "1806192003", "district_id": "180619", "name": "UMBUL BUAH"}, {"id": "1806192004", "district_id": "180619", "name": "MENGGALA"}, {"id": "1806192005", "district_id": "180619", "name": "MULANG MAYA"}, {"id": "1806192006", "district_id": "180619", "name": "SUKABANJAR"}, {"id": "1806192007", "district_id": "180619", "name": "TANJUNG ANOM"}, {"id": "1806192008", "district_id": "180619", "name": "KAGUNGAN"}, {"id": "1806192009", "district_id": "180619", "name": "KERTA"}, {"id": "1806192010", "district_id": "180619", "name": "TEBA"}, {"id": "1806192011", "district_id": "180619", "name": "TALANG REJO"}, {"id": "1806192012", "district_id": "180619", "name": "TANJUNG JATI"}]
+[
+  {
+    "id": "1806192001",
+    "district_id": "180619",
+    "name": "BATU KRAMAT"
+  },
+  {
+    "id": "1806192002",
+    "district_id": "180619",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1806192003",
+    "district_id": "180619",
+    "name": "UMBUL BUAH"
+  },
+  {
+    "id": "1806192004",
+    "district_id": "180619",
+    "name": "MENGGALA"
+  },
+  {
+    "id": "1806192005",
+    "district_id": "180619",
+    "name": "MULANG MAYA"
+  },
+  {
+    "id": "1806192006",
+    "district_id": "180619",
+    "name": "SUKABANJAR"
+  },
+  {
+    "id": "1806192007",
+    "district_id": "180619",
+    "name": "TANJUNG ANOM"
+  },
+  {
+    "id": "1806192008",
+    "district_id": "180619",
+    "name": "KAGUNGAN"
+  },
+  {
+    "id": "1806192009",
+    "district_id": "180619",
+    "name": "KERTA"
+  },
+  {
+    "id": "1806192010",
+    "district_id": "180619",
+    "name": "TEBA"
+  },
+  {
+    "id": "1806192011",
+    "district_id": "180619",
+    "name": "TALANG REJO"
+  },
+  {
+    "id": "1806192012",
+    "district_id": "180619",
+    "name": "TANJUNG JATI"
+  }
+]

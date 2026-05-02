@@ -1,1 +1,122 @@
-[{"id": "960301", "regency_id": "9603", "name": "MISOOL (MISOOL UTARA)"}, {"id": "960302", "regency_id": "9603", "name": "WAIGEO UTARA"}, {"id": "960303", "regency_id": "9603", "name": "WAIGEO SELATAN"}, {"id": "960304", "regency_id": "9603", "name": "SALAWATI UTARA"}, {"id": "960305", "regency_id": "9603", "name": "AYAU"}, {"id": "960306", "regency_id": "9603", "name": "MISOOL TIMUR"}, {"id": "960307", "regency_id": "9603", "name": "WAIGEO BARAT"}, {"id": "960308", "regency_id": "9603", "name": "WAIGEO TIMUR"}, {"id": "960309", "regency_id": "9603", "name": "TELUK MAYALIBIT"}, {"id": "960310", "regency_id": "9603", "name": "KOFIAU"}, {"id": "960311", "regency_id": "9603", "name": "MEOS MANSAR"}, {"id": "960312", "regency_id": "9603", "name": "MISOOL SELATAN"}, {"id": "960313", "regency_id": "9603", "name": "WARWARBOMI"}, {"id": "960314", "regency_id": "9603", "name": "WAIGEO BARAT KEPULAUAN"}, {"id": "960315", "regency_id": "9603", "name": "MISOOL BARAT"}, {"id": "960316", "regency_id": "9603", "name": "KEPULAUAN SEMBILAN"}, {"id": "960317", "regency_id": "9603", "name": "KOTA WAISAI"}, {"id": "960318", "regency_id": "9603", "name": "TIPLOL MAYALIBIT"}, {"id": "960319", "regency_id": "9603", "name": "BATANTA UTARA"}, {"id": "960320", "regency_id": "9603", "name": "SALAWATI BARAT"}, {"id": "960321", "regency_id": "9603", "name": "SALAWATI TENGAH"}, {"id": "960322", "regency_id": "9603", "name": "SUPNIN"}, {"id": "960323", "regency_id": "9603", "name": "KEPULAUAN AYAU"}, {"id": "960324", "regency_id": "9603", "name": "BATANTA SELATAN"}]
+[
+  {
+    "id": "960301",
+    "regency_id": "9603",
+    "name": "MISOOL (MISOOL UTARA)"
+  },
+  {
+    "id": "960302",
+    "regency_id": "9603",
+    "name": "WAIGEO UTARA"
+  },
+  {
+    "id": "960303",
+    "regency_id": "9603",
+    "name": "WAIGEO SELATAN"
+  },
+  {
+    "id": "960304",
+    "regency_id": "9603",
+    "name": "SALAWATI UTARA"
+  },
+  {
+    "id": "960305",
+    "regency_id": "9603",
+    "name": "AYAU"
+  },
+  {
+    "id": "960306",
+    "regency_id": "9603",
+    "name": "MISOOL TIMUR"
+  },
+  {
+    "id": "960307",
+    "regency_id": "9603",
+    "name": "WAIGEO BARAT"
+  },
+  {
+    "id": "960308",
+    "regency_id": "9603",
+    "name": "WAIGEO TIMUR"
+  },
+  {
+    "id": "960309",
+    "regency_id": "9603",
+    "name": "TELUK MAYALIBIT"
+  },
+  {
+    "id": "960310",
+    "regency_id": "9603",
+    "name": "KOFIAU"
+  },
+  {
+    "id": "960311",
+    "regency_id": "9603",
+    "name": "MEOS MANSAR"
+  },
+  {
+    "id": "960312",
+    "regency_id": "9603",
+    "name": "MISOOL SELATAN"
+  },
+  {
+    "id": "960313",
+    "regency_id": "9603",
+    "name": "WARWARBOMI"
+  },
+  {
+    "id": "960314",
+    "regency_id": "9603",
+    "name": "WAIGEO BARAT KEPULAUAN"
+  },
+  {
+    "id": "960315",
+    "regency_id": "9603",
+    "name": "MISOOL BARAT"
+  },
+  {
+    "id": "960316",
+    "regency_id": "9603",
+    "name": "KEPULAUAN SEMBILAN"
+  },
+  {
+    "id": "960317",
+    "regency_id": "9603",
+    "name": "KOTA WAISAI"
+  },
+  {
+    "id": "960318",
+    "regency_id": "9603",
+    "name": "TIPLOL MAYALIBIT"
+  },
+  {
+    "id": "960319",
+    "regency_id": "9603",
+    "name": "BATANTA UTARA"
+  },
+  {
+    "id": "960320",
+    "regency_id": "9603",
+    "name": "SALAWATI BARAT"
+  },
+  {
+    "id": "960321",
+    "regency_id": "9603",
+    "name": "SALAWATI TENGAH"
+  },
+  {
+    "id": "960322",
+    "regency_id": "9603",
+    "name": "SUPNIN"
+  },
+  {
+    "id": "960323",
+    "regency_id": "9603",
+    "name": "KEPULAUAN AYAU"
+  },
+  {
+    "id": "960324",
+    "regency_id": "9603",
+    "name": "BATANTA SELATAN"
+  }
+]

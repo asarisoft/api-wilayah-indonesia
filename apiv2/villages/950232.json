@@ -1,1 +1,72 @@
-[{"id": "9502322001", "district_id": "950232", "name": "EIPUMEK"}, {"id": "9502322002", "district_id": "950232", "name": "LALAKON"}, {"id": "9502322003", "district_id": "950232", "name": "LONDININ"}, {"id": "9502322004", "district_id": "950232", "name": "TALEMU"}, {"id": "9502322005", "district_id": "950232", "name": "WAKIDAM"}, {"id": "9502322006", "district_id": "950232", "name": "BUNYIRYE"}, {"id": "9502322007", "district_id": "950232", "name": "BASIRINGE"}, {"id": "9502322008", "district_id": "950232", "name": "BARAMA"}, {"id": "9502322009", "district_id": "950232", "name": "TANIME"}, {"id": "9502322010", "district_id": "950232", "name": "SERABUM"}, {"id": "9502322011", "district_id": "950232", "name": "SUPLEYU"}, {"id": "9502322012", "district_id": "950232", "name": "KWEREDALA"}, {"id": "9502322013", "district_id": "950232", "name": "MUNGKONA"}, {"id": "9502322014", "district_id": "950232", "name": "MALINGDAM"}]
+[
+  {
+    "id": "9502322001",
+    "district_id": "950232",
+    "name": "EIPUMEK"
+  },
+  {
+    "id": "9502322002",
+    "district_id": "950232",
+    "name": "LALAKON"
+  },
+  {
+    "id": "9502322003",
+    "district_id": "950232",
+    "name": "LONDININ"
+  },
+  {
+    "id": "9502322004",
+    "district_id": "950232",
+    "name": "TALEMU"
+  },
+  {
+    "id": "9502322005",
+    "district_id": "950232",
+    "name": "WAKIDAM"
+  },
+  {
+    "id": "9502322006",
+    "district_id": "950232",
+    "name": "BUNYIRYE"
+  },
+  {
+    "id": "9502322007",
+    "district_id": "950232",
+    "name": "BASIRINGE"
+  },
+  {
+    "id": "9502322008",
+    "district_id": "950232",
+    "name": "BARAMA"
+  },
+  {
+    "id": "9502322009",
+    "district_id": "950232",
+    "name": "TANIME"
+  },
+  {
+    "id": "9502322010",
+    "district_id": "950232",
+    "name": "SERABUM"
+  },
+  {
+    "id": "9502322011",
+    "district_id": "950232",
+    "name": "SUPLEYU"
+  },
+  {
+    "id": "9502322012",
+    "district_id": "950232",
+    "name": "KWEREDALA"
+  },
+  {
+    "id": "9502322013",
+    "district_id": "950232",
+    "name": "MUNGKONA"
+  },
+  {
+    "id": "9502322014",
+    "district_id": "950232",
+    "name": "MALINGDAM"
+  }
+]

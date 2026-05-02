@@ -1,1 +1,42 @@
-[{"id": "7102161001", "district_id": "710216", "name": "SUMALANGKA"}, {"id": "7102161002", "district_id": "710216", "name": "SASARAN"}, {"id": "7102161003", "district_id": "710216", "name": "KAMPUNG JAWA"}, {"id": "7102161004", "district_id": "710216", "name": "WULAUAN"}, {"id": "7102161005", "district_id": "710216", "name": "MARAWAS"}, {"id": "7102162006", "district_id": "710216", "name": "TONSEA LAMA"}, {"id": "7102162007", "district_id": "710216", "name": "KEMBUAN"}, {"id": "7102162008", "district_id": "710216", "name": "KEMBUAN SATU"}]
+[
+  {
+    "id": "7102161001",
+    "district_id": "710216",
+    "name": "SUMALANGKA"
+  },
+  {
+    "id": "7102161002",
+    "district_id": "710216",
+    "name": "SASARAN"
+  },
+  {
+    "id": "7102161003",
+    "district_id": "710216",
+    "name": "KAMPUNG JAWA"
+  },
+  {
+    "id": "7102161004",
+    "district_id": "710216",
+    "name": "WULAUAN"
+  },
+  {
+    "id": "7102161005",
+    "district_id": "710216",
+    "name": "MARAWAS"
+  },
+  {
+    "id": "7102162006",
+    "district_id": "710216",
+    "name": "TONSEA LAMA"
+  },
+  {
+    "id": "7102162007",
+    "district_id": "710216",
+    "name": "KEMBUAN"
+  },
+  {
+    "id": "7102162008",
+    "district_id": "710216",
+    "name": "KEMBUAN SATU"
+  }
+]

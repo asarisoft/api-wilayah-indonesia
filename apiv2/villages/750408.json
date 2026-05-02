@@ -1,1 +1,27 @@
-[{"id": "7504082001", "district_id": "750408", "name": "POPAYA"}, {"id": "7504082002", "district_id": "750408", "name": "KARYA BARU"}, {"id": "7504082003", "district_id": "750408", "name": "KARANGETANG"}, {"id": "7504082004", "district_id": "750408", "name": "PADENGO"}, {"id": "7504082005", "district_id": "750408", "name": "HUTAMOPUTI"}]
+[
+  {
+    "id": "7504082001",
+    "district_id": "750408",
+    "name": "POPAYA"
+  },
+  {
+    "id": "7504082002",
+    "district_id": "750408",
+    "name": "KARYA BARU"
+  },
+  {
+    "id": "7504082003",
+    "district_id": "750408",
+    "name": "KARANGETANG"
+  },
+  {
+    "id": "7504082004",
+    "district_id": "750408",
+    "name": "PADENGO"
+  },
+  {
+    "id": "7504082005",
+    "district_id": "750408",
+    "name": "HUTAMOPUTI"
+  }
+]

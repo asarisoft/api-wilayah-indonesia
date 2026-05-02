@@ -1,1 +1,27 @@
-[{"id": "9604042001", "district_id": "960404", "name": "KWOOR"}, {"id": "9604042002", "district_id": "960404", "name": "HOPMARE"}, {"id": "9604042003", "district_id": "960404", "name": "ORWEN"}, {"id": "9604042004", "district_id": "960404", "name": "BARAR"}, {"id": "9604042005", "district_id": "960404", "name": "ESMAMBO"}]
+[
+  {
+    "id": "9604042001",
+    "district_id": "960404",
+    "name": "KWOOR"
+  },
+  {
+    "id": "9604042002",
+    "district_id": "960404",
+    "name": "HOPMARE"
+  },
+  {
+    "id": "9604042003",
+    "district_id": "960404",
+    "name": "ORWEN"
+  },
+  {
+    "id": "9604042004",
+    "district_id": "960404",
+    "name": "BARAR"
+  },
+  {
+    "id": "9604042005",
+    "district_id": "960404",
+    "name": "ESMAMBO"
+  }
+]

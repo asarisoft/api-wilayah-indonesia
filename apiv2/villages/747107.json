@@ -1,1 +1,22 @@
-[{"id": "7471071001", "district_id": "747107", "name": "WUA WUA"}, {"id": "7471071002", "district_id": "747107", "name": "BONGGOEYA"}, {"id": "7471071003", "district_id": "747107", "name": "MATAIWOI"}, {"id": "7471071004", "district_id": "747107", "name": "ANAWAI"}]
+[
+  {
+    "id": "7471071001",
+    "district_id": "747107",
+    "name": "WUA WUA"
+  },
+  {
+    "id": "7471071002",
+    "district_id": "747107",
+    "name": "BONGGOEYA"
+  },
+  {
+    "id": "7471071003",
+    "district_id": "747107",
+    "name": "MATAIWOI"
+  },
+  {
+    "id": "7471071004",
+    "district_id": "747107",
+    "name": "ANAWAI"
+  }
+]

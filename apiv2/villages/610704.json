@@ -1,1 +1,32 @@
-[{"id": "6107041001", "district_id": "610704", "name": "BUMI EMAS"}, {"id": "6107041010", "district_id": "610704", "name": "SEBALO"}, {"id": "6107042003", "district_id": "610704", "name": "TIRTA KENCANA"}, {"id": "6107042004", "district_id": "610704", "name": "BHAKTI MULYA"}, {"id": "6107042006", "district_id": "610704", "name": "BANI AMAS"}, {"id": "6107042009", "district_id": "610704", "name": "SETIA BUDI"}]
+[
+  {
+    "id": "6107041001",
+    "district_id": "610704",
+    "name": "BUMI EMAS"
+  },
+  {
+    "id": "6107041010",
+    "district_id": "610704",
+    "name": "SEBALO"
+  },
+  {
+    "id": "6107042003",
+    "district_id": "610704",
+    "name": "TIRTA KENCANA"
+  },
+  {
+    "id": "6107042004",
+    "district_id": "610704",
+    "name": "BHAKTI MULYA"
+  },
+  {
+    "id": "6107042006",
+    "district_id": "610704",
+    "name": "BANI AMAS"
+  },
+  {
+    "id": "6107042009",
+    "district_id": "610704",
+    "name": "SETIA BUDI"
+  }
+]

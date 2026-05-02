@@ -1,1 +1,37 @@
-[{"id": "7413042001", "district_id": "741304", "name": "LAILANGGA"}, {"id": "7413042002", "district_id": "741304", "name": "LASOSODO"}, {"id": "7413042003", "district_id": "741304", "name": "WAKONTU"}, {"id": "7413042004", "district_id": "741304", "name": "LAKANAHA"}, {"id": "7413042005", "district_id": "741304", "name": "KATOBU"}, {"id": "7413042006", "district_id": "741304", "name": "LINDO"}, {"id": "7413042007", "district_id": "741304", "name": "KAMPANI"}]
+[
+  {
+    "id": "7413042001",
+    "district_id": "741304",
+    "name": "LAILANGGA"
+  },
+  {
+    "id": "7413042002",
+    "district_id": "741304",
+    "name": "LASOSODO"
+  },
+  {
+    "id": "7413042003",
+    "district_id": "741304",
+    "name": "WAKONTU"
+  },
+  {
+    "id": "7413042004",
+    "district_id": "741304",
+    "name": "LAKANAHA"
+  },
+  {
+    "id": "7413042005",
+    "district_id": "741304",
+    "name": "KATOBU"
+  },
+  {
+    "id": "7413042006",
+    "district_id": "741304",
+    "name": "LINDO"
+  },
+  {
+    "id": "7413042007",
+    "district_id": "741304",
+    "name": "KAMPANI"
+  }
+]

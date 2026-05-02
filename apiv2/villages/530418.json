@@ -1,1 +1,42 @@
-[{"id": "5304182001", "district_id": "530418", "name": "EKIN"}, {"id": "5304182002", "district_id": "530418", "name": "LOONUNA"}, {"id": "5304182003", "district_id": "530418", "name": "NUALAIN"}, {"id": "5304182004", "district_id": "530418", "name": "LAKMARAS"}, {"id": "5304182005", "district_id": "530418", "name": "HENES"}, {"id": "5304182006", "district_id": "530418", "name": "DEBULULIK"}, {"id": "5304182007", "district_id": "530418", "name": "SISI FATUBERAL"}, {"id": "5304182008", "district_id": "530418", "name": "LUTHA RATO"}]
+[
+  {
+    "id": "5304182001",
+    "district_id": "530418",
+    "name": "EKIN"
+  },
+  {
+    "id": "5304182002",
+    "district_id": "530418",
+    "name": "LOONUNA"
+  },
+  {
+    "id": "5304182003",
+    "district_id": "530418",
+    "name": "NUALAIN"
+  },
+  {
+    "id": "5304182004",
+    "district_id": "530418",
+    "name": "LAKMARAS"
+  },
+  {
+    "id": "5304182005",
+    "district_id": "530418",
+    "name": "HENES"
+  },
+  {
+    "id": "5304182006",
+    "district_id": "530418",
+    "name": "DEBULULIK"
+  },
+  {
+    "id": "5304182007",
+    "district_id": "530418",
+    "name": "SISI FATUBERAL"
+  },
+  {
+    "id": "5304182008",
+    "district_id": "530418",
+    "name": "LUTHA RATO"
+  }
+]

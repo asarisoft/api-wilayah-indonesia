@@ -1,1 +1,62 @@
-[{"id": "6203062001", "district_id": "620306", "name": "SAKA LAGON"}, {"id": "6203062002", "district_id": "620306", "name": "BUNGA MAWAR"}, {"id": "6203062003", "district_id": "620306", "name": "SEI TATAS"}, {"id": "6203062004", "district_id": "620306", "name": "NARAHAN"}, {"id": "6203062005", "district_id": "620306", "name": "HANDIWUNG"}, {"id": "6203062006", "district_id": "620306", "name": "ANJIR PALAMBANG"}, {"id": "6203062007", "district_id": "620306", "name": "PALANGKAI"}, {"id": "6203062008", "district_id": "620306", "name": "TELUK PALINGET"}, {"id": "6203062009", "district_id": "620306", "name": "SEI TATAS HILIR"}, {"id": "6203062010", "district_id": "620306", "name": "MAWAR MEKAR"}, {"id": "6203062011", "district_id": "620306", "name": "BANAMA"}, {"id": "6203062012", "district_id": "620306", "name": "NARAHAN BARU"}]
+[
+  {
+    "id": "6203062001",
+    "district_id": "620306",
+    "name": "SAKA LAGON"
+  },
+  {
+    "id": "6203062002",
+    "district_id": "620306",
+    "name": "BUNGA MAWAR"
+  },
+  {
+    "id": "6203062003",
+    "district_id": "620306",
+    "name": "SEI TATAS"
+  },
+  {
+    "id": "6203062004",
+    "district_id": "620306",
+    "name": "NARAHAN"
+  },
+  {
+    "id": "6203062005",
+    "district_id": "620306",
+    "name": "HANDIWUNG"
+  },
+  {
+    "id": "6203062006",
+    "district_id": "620306",
+    "name": "ANJIR PALAMBANG"
+  },
+  {
+    "id": "6203062007",
+    "district_id": "620306",
+    "name": "PALANGKAI"
+  },
+  {
+    "id": "6203062008",
+    "district_id": "620306",
+    "name": "TELUK PALINGET"
+  },
+  {
+    "id": "6203062009",
+    "district_id": "620306",
+    "name": "SEI TATAS HILIR"
+  },
+  {
+    "id": "6203062010",
+    "district_id": "620306",
+    "name": "MAWAR MEKAR"
+  },
+  {
+    "id": "6203062011",
+    "district_id": "620306",
+    "name": "BANAMA"
+  },
+  {
+    "id": "6203062012",
+    "district_id": "620306",
+    "name": "NARAHAN BARU"
+  }
+]

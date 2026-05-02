@@ -1,1 +1,47 @@
-[{"id": "1214292001", "district_id": "121429", "name": "FUGE"}, {"id": "1214292002", "district_id": "121429", "name": "LUAHA IDANO PONO"}, {"id": "1214292003", "district_id": "121429", "name": "SIGESE"}, {"id": "1214292004", "district_id": "121429", "name": "BAWOSITORA"}, {"id": "1214292005", "district_id": "121429", "name": "BINTUANG"}, {"id": "1214292006", "district_id": "121429", "name": "SIBARANUN"}, {"id": "1214292007", "district_id": "121429", "name": "BAWOLAWINDRA"}, {"id": "1214292008", "district_id": "121429", "name": "HAYO"}, {"id": "1214292009", "district_id": "121429", "name": "HILIZAMOROGOTANO"}]
+[
+  {
+    "id": "1214292001",
+    "district_id": "121429",
+    "name": "FUGE"
+  },
+  {
+    "id": "1214292002",
+    "district_id": "121429",
+    "name": "LUAHA IDANO PONO"
+  },
+  {
+    "id": "1214292003",
+    "district_id": "121429",
+    "name": "SIGESE"
+  },
+  {
+    "id": "1214292004",
+    "district_id": "121429",
+    "name": "BAWOSITORA"
+  },
+  {
+    "id": "1214292005",
+    "district_id": "121429",
+    "name": "BINTUANG"
+  },
+  {
+    "id": "1214292006",
+    "district_id": "121429",
+    "name": "SIBARANUN"
+  },
+  {
+    "id": "1214292007",
+    "district_id": "121429",
+    "name": "BAWOLAWINDRA"
+  },
+  {
+    "id": "1214292008",
+    "district_id": "121429",
+    "name": "HAYO"
+  },
+  {
+    "id": "1214292009",
+    "district_id": "121429",
+    "name": "HILIZAMOROGOTANO"
+  }
+]

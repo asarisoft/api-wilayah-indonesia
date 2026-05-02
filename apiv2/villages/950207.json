@@ -1,1 +1,47 @@
-[{"id": "9502072001", "district_id": "950207", "name": "OKYOP"}, {"id": "9502072002", "district_id": "950207", "name": "OKETUR"}, {"id": "9502072003", "district_id": "950207", "name": "EHIPTEN"}, {"id": "9502072004", "district_id": "950207", "name": "WANTEM"}, {"id": "9502072005", "district_id": "950207", "name": "DIKDON"}, {"id": "9502072006", "district_id": "950207", "name": "OKYAKO"}, {"id": "9502072007", "district_id": "950207", "name": "OKYAOP"}, {"id": "9502072008", "district_id": "950207", "name": "TATAM"}, {"id": "9502072009", "district_id": "950207", "name": "OKHIK"}]
+[
+  {
+    "id": "9502072001",
+    "district_id": "950207",
+    "name": "OKYOP"
+  },
+  {
+    "id": "9502072002",
+    "district_id": "950207",
+    "name": "OKETUR"
+  },
+  {
+    "id": "9502072003",
+    "district_id": "950207",
+    "name": "EHIPTEN"
+  },
+  {
+    "id": "9502072004",
+    "district_id": "950207",
+    "name": "WANTEM"
+  },
+  {
+    "id": "9502072005",
+    "district_id": "950207",
+    "name": "DIKDON"
+  },
+  {
+    "id": "9502072006",
+    "district_id": "950207",
+    "name": "OKYAKO"
+  },
+  {
+    "id": "9502072007",
+    "district_id": "950207",
+    "name": "OKYAOP"
+  },
+  {
+    "id": "9502072008",
+    "district_id": "950207",
+    "name": "TATAM"
+  },
+  {
+    "id": "9502072009",
+    "district_id": "950207",
+    "name": "OKHIK"
+  }
+]

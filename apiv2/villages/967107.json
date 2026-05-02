@@ -1,1 +1,22 @@
-[{"id": "9671071001", "district_id": "967107", "name": "KAMPUNG BARU"}, {"id": "9671071002", "district_id": "967107", "name": "KLABALA"}, {"id": "9671071003", "district_id": "967107", "name": "KLASUUR"}, {"id": "9671071004", "district_id": "967107", "name": "KLAKUBLIK"}]
+[
+  {
+    "id": "9671071001",
+    "district_id": "967107",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "9671071002",
+    "district_id": "967107",
+    "name": "KLABALA"
+  },
+  {
+    "id": "9671071003",
+    "district_id": "967107",
+    "name": "KLASUUR"
+  },
+  {
+    "id": "9671071004",
+    "district_id": "967107",
+    "name": "KLAKUBLIK"
+  }
+]

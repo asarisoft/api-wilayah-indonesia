@@ -1,1 +1,52 @@
-[{"id": "3208242003", "district_id": "320824", "name": "CILEUYA"}, {"id": "3208242004", "district_id": "320824", "name": "MARGAMUKTI"}, {"id": "3208242005", "district_id": "320824", "name": "GUNUNGSARI"}, {"id": "3208242006", "district_id": "320824", "name": "CIMAHI"}, {"id": "3208242007", "district_id": "320824", "name": "KANANGA"}, {"id": "3208242008", "district_id": "320824", "name": "CIKEUSAL"}, {"id": "3208242009", "district_id": "320824", "name": "MEKARJAYA"}, {"id": "3208242010", "district_id": "320824", "name": "SUKAJAYA"}, {"id": "3208242011", "district_id": "320824", "name": "MULYAJAYA"}, {"id": "3208242012", "district_id": "320824", "name": "CIMULYA"}]
+[
+  {
+    "id": "3208242003",
+    "district_id": "320824",
+    "name": "CILEUYA"
+  },
+  {
+    "id": "3208242004",
+    "district_id": "320824",
+    "name": "MARGAMUKTI"
+  },
+  {
+    "id": "3208242005",
+    "district_id": "320824",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3208242006",
+    "district_id": "320824",
+    "name": "CIMAHI"
+  },
+  {
+    "id": "3208242007",
+    "district_id": "320824",
+    "name": "KANANGA"
+  },
+  {
+    "id": "3208242008",
+    "district_id": "320824",
+    "name": "CIKEUSAL"
+  },
+  {
+    "id": "3208242009",
+    "district_id": "320824",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3208242010",
+    "district_id": "320824",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3208242011",
+    "district_id": "320824",
+    "name": "MULYAJAYA"
+  },
+  {
+    "id": "3208242012",
+    "district_id": "320824",
+    "name": "CIMULYA"
+  }
+]

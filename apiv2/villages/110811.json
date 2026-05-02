@@ -1,1 +1,192 @@
-[{"id": "1108112001", "district_id": "110811", "name": "BALE"}, {"id": "1108112002", "district_id": "110811", "name": "BIE"}, {"id": "1108112003", "district_id": "110811", "name": "BEURANDANG"}, {"id": "1108112004", "district_id": "110811", "name": "BARO KULAM GAJAH"}, {"id": "1108112005", "district_id": "110811", "name": "GLONG"}, {"id": "1108112006", "district_id": "110811", "name": "NIBONG"}, {"id": "1108112007", "district_id": "110811", "name": "LANGA"}, {"id": "1108112008", "district_id": "110811", "name": "BEUNOT"}, {"id": "1108112009", "district_id": "110811", "name": "KEUDE BAYU"}, {"id": "1108112010", "district_id": "110811", "name": "BLANG BAYU"}, {"id": "1108112011", "district_id": "110811", "name": "DAYAH TUHA"}, {"id": "1108112012", "district_id": "110811", "name": "DAYAH BARO"}, {"id": "1108112013", "district_id": "110811", "name": "LANCOK"}, {"id": "1108112014", "district_id": "110811", "name": "PUNTI"}, {"id": "1108112015", "district_id": "110811", "name": "BUNGONG"}, {"id": "1108112016", "district_id": "110811", "name": "BAROH BLANG RIMUENG"}, {"id": "1108112017", "district_id": "110811", "name": "ULEE MEURIA"}, {"id": "1108112018", "district_id": "110811", "name": "KAYEE PANYANG"}, {"id": "1108112019", "district_id": "110811", "name": "RHENG"}, {"id": "1108112020", "district_id": "110811", "name": "TRIENG MEUDUROU"}, {"id": "1108112021", "district_id": "110811", "name": "ULEE GAMPONG"}, {"id": "1108112022", "district_id": "110811", "name": "GARUT"}, {"id": "1108112023", "district_id": "110811", "name": "BLANG AWE"}, {"id": "1108112024", "district_id": "110811", "name": "PULO BLANG MANGAT"}, {"id": "1108112025", "district_id": "110811", "name": "CIBREK"}, {"id": "1108112026", "district_id": "110811", "name": "PULO BLANG TRIENG"}, {"id": "1108112027", "district_id": "110811", "name": "MEUDANG ARA"}, {"id": "1108112028", "district_id": "110811", "name": "COT NEUHEUN"}, {"id": "1108112029", "district_id": "110811", "name": "TUMPEUN"}, {"id": "1108112030", "district_id": "110811", "name": "ALEN"}, {"id": "1108112031", "district_id": "110811", "name": "DAYAH BLANG SEUREUKUY"}, {"id": "1108112032", "district_id": "110811", "name": "BLANG PATRA"}, {"id": "1108112033", "district_id": "110811", "name": "BLANG MAJRON"}, {"id": "1108112034", "district_id": "110811", "name": "SEUNEUBOK BARO"}, {"id": "1108112035", "district_id": "110811", "name": "BUKET GLUMPANG"}, {"id": "1108112037", "district_id": "110811", "name": "ALUE MAJRON"}, {"id": "1108112038", "district_id": "110811", "name": "SIREN TUJOH"}, {"id": "1108112047", "district_id": "110811", "name": "BLANG SEUREUKUY"}]
+[
+  {
+    "id": "1108112001",
+    "district_id": "110811",
+    "name": "BALE"
+  },
+  {
+    "id": "1108112002",
+    "district_id": "110811",
+    "name": "BIE"
+  },
+  {
+    "id": "1108112003",
+    "district_id": "110811",
+    "name": "BEURANDANG"
+  },
+  {
+    "id": "1108112004",
+    "district_id": "110811",
+    "name": "BARO KULAM GAJAH"
+  },
+  {
+    "id": "1108112005",
+    "district_id": "110811",
+    "name": "GLONG"
+  },
+  {
+    "id": "1108112006",
+    "district_id": "110811",
+    "name": "NIBONG"
+  },
+  {
+    "id": "1108112007",
+    "district_id": "110811",
+    "name": "LANGA"
+  },
+  {
+    "id": "1108112008",
+    "district_id": "110811",
+    "name": "BEUNOT"
+  },
+  {
+    "id": "1108112009",
+    "district_id": "110811",
+    "name": "KEUDE BAYU"
+  },
+  {
+    "id": "1108112010",
+    "district_id": "110811",
+    "name": "BLANG BAYU"
+  },
+  {
+    "id": "1108112011",
+    "district_id": "110811",
+    "name": "DAYAH TUHA"
+  },
+  {
+    "id": "1108112012",
+    "district_id": "110811",
+    "name": "DAYAH BARO"
+  },
+  {
+    "id": "1108112013",
+    "district_id": "110811",
+    "name": "LANCOK"
+  },
+  {
+    "id": "1108112014",
+    "district_id": "110811",
+    "name": "PUNTI"
+  },
+  {
+    "id": "1108112015",
+    "district_id": "110811",
+    "name": "BUNGONG"
+  },
+  {
+    "id": "1108112016",
+    "district_id": "110811",
+    "name": "BAROH BLANG RIMUENG"
+  },
+  {
+    "id": "1108112017",
+    "district_id": "110811",
+    "name": "ULEE MEURIA"
+  },
+  {
+    "id": "1108112018",
+    "district_id": "110811",
+    "name": "KAYEE PANYANG"
+  },
+  {
+    "id": "1108112019",
+    "district_id": "110811",
+    "name": "RHENG"
+  },
+  {
+    "id": "1108112020",
+    "district_id": "110811",
+    "name": "TRIENG MEUDUROU"
+  },
+  {
+    "id": "1108112021",
+    "district_id": "110811",
+    "name": "ULEE GAMPONG"
+  },
+  {
+    "id": "1108112022",
+    "district_id": "110811",
+    "name": "GARUT"
+  },
+  {
+    "id": "1108112023",
+    "district_id": "110811",
+    "name": "BLANG AWE"
+  },
+  {
+    "id": "1108112024",
+    "district_id": "110811",
+    "name": "PULO BLANG MANGAT"
+  },
+  {
+    "id": "1108112025",
+    "district_id": "110811",
+    "name": "CIBREK"
+  },
+  {
+    "id": "1108112026",
+    "district_id": "110811",
+    "name": "PULO BLANG TRIENG"
+  },
+  {
+    "id": "1108112027",
+    "district_id": "110811",
+    "name": "MEUDANG ARA"
+  },
+  {
+    "id": "1108112028",
+    "district_id": "110811",
+    "name": "COT NEUHEUN"
+  },
+  {
+    "id": "1108112029",
+    "district_id": "110811",
+    "name": "TUMPEUN"
+  },
+  {
+    "id": "1108112030",
+    "district_id": "110811",
+    "name": "ALEN"
+  },
+  {
+    "id": "1108112031",
+    "district_id": "110811",
+    "name": "DAYAH BLANG SEUREUKUY"
+  },
+  {
+    "id": "1108112032",
+    "district_id": "110811",
+    "name": "BLANG PATRA"
+  },
+  {
+    "id": "1108112033",
+    "district_id": "110811",
+    "name": "BLANG MAJRON"
+  },
+  {
+    "id": "1108112034",
+    "district_id": "110811",
+    "name": "SEUNEUBOK BARO"
+  },
+  {
+    "id": "1108112035",
+    "district_id": "110811",
+    "name": "BUKET GLUMPANG"
+  },
+  {
+    "id": "1108112037",
+    "district_id": "110811",
+    "name": "ALUE MAJRON"
+  },
+  {
+    "id": "1108112038",
+    "district_id": "110811",
+    "name": "SIREN TUJOH"
+  },
+  {
+    "id": "1108112047",
+    "district_id": "110811",
+    "name": "BLANG SEUREUKUY"
+  }
+]

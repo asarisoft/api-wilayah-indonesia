@@ -1,1 +1,52 @@
-[{"id": "210104", "regency_id": "2101", "name": "GUNUNG KIJANG"}, {"id": "210106", "regency_id": "2101", "name": "BINTAN TIMUR"}, {"id": "210107", "regency_id": "2101", "name": "BINTAN UTARA"}, {"id": "210108", "regency_id": "2101", "name": "TELUK BINTAN"}, {"id": "210109", "regency_id": "2101", "name": "TAMBELAN"}, {"id": "210110", "regency_id": "2101", "name": "TELUK SEBONG"}, {"id": "210112", "regency_id": "2101", "name": "TOAPAYA"}, {"id": "210113", "regency_id": "2101", "name": "MANTANG"}, {"id": "210114", "regency_id": "2101", "name": "BINTAN PESISIR"}, {"id": "210115", "regency_id": "2101", "name": "SERI KUALA LOBAM"}]
+[
+  {
+    "id": "210104",
+    "regency_id": "2101",
+    "name": "GUNUNG KIJANG"
+  },
+  {
+    "id": "210106",
+    "regency_id": "2101",
+    "name": "BINTAN TIMUR"
+  },
+  {
+    "id": "210107",
+    "regency_id": "2101",
+    "name": "BINTAN UTARA"
+  },
+  {
+    "id": "210108",
+    "regency_id": "2101",
+    "name": "TELUK BINTAN"
+  },
+  {
+    "id": "210109",
+    "regency_id": "2101",
+    "name": "TAMBELAN"
+  },
+  {
+    "id": "210110",
+    "regency_id": "2101",
+    "name": "TELUK SEBONG"
+  },
+  {
+    "id": "210112",
+    "regency_id": "2101",
+    "name": "TOAPAYA"
+  },
+  {
+    "id": "210113",
+    "regency_id": "2101",
+    "name": "MANTANG"
+  },
+  {
+    "id": "210114",
+    "regency_id": "2101",
+    "name": "BINTAN PESISIR"
+  },
+  {
+    "id": "210115",
+    "regency_id": "2101",
+    "name": "SERI KUALA LOBAM"
+  }
+]

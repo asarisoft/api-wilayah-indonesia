@@ -1,1 +1,67 @@
-[{"id": "7104071001", "district_id": "710407", "name": "MELONGUANE"}, {"id": "7104071009", "district_id": "710407", "name": "MELONGUANE TIMUR"}, {"id": "7104071010", "district_id": "710407", "name": "MELONGUANE BARAT"}, {"id": "7104072002", "district_id": "710407", "name": "MALA"}, {"id": "7104072003", "district_id": "710407", "name": "KIAMA"}, {"id": "7104072006", "district_id": "710407", "name": "TARUN"}, {"id": "7104072007", "district_id": "710407", "name": "SAWANG"}, {"id": "7104072008", "district_id": "710407", "name": "AMBELA"}, {"id": "7104072011", "district_id": "710407", "name": "TARUN SELATAN"}, {"id": "7104072012", "district_id": "710407", "name": "KIAMA BARAT"}, {"id": "7104072015", "district_id": "710407", "name": "MAREDAREN KIAMA"}, {"id": "7104072016", "district_id": "710407", "name": "SAWANG UTARA"}, {"id": "7104072017", "district_id": "710407", "name": "MALA TIMUR"}]
+[
+  {
+    "id": "7104071001",
+    "district_id": "710407",
+    "name": "MELONGUANE"
+  },
+  {
+    "id": "7104071009",
+    "district_id": "710407",
+    "name": "MELONGUANE TIMUR"
+  },
+  {
+    "id": "7104071010",
+    "district_id": "710407",
+    "name": "MELONGUANE BARAT"
+  },
+  {
+    "id": "7104072002",
+    "district_id": "710407",
+    "name": "MALA"
+  },
+  {
+    "id": "7104072003",
+    "district_id": "710407",
+    "name": "KIAMA"
+  },
+  {
+    "id": "7104072006",
+    "district_id": "710407",
+    "name": "TARUN"
+  },
+  {
+    "id": "7104072007",
+    "district_id": "710407",
+    "name": "SAWANG"
+  },
+  {
+    "id": "7104072008",
+    "district_id": "710407",
+    "name": "AMBELA"
+  },
+  {
+    "id": "7104072011",
+    "district_id": "710407",
+    "name": "TARUN SELATAN"
+  },
+  {
+    "id": "7104072012",
+    "district_id": "710407",
+    "name": "KIAMA BARAT"
+  },
+  {
+    "id": "7104072015",
+    "district_id": "710407",
+    "name": "MAREDAREN KIAMA"
+  },
+  {
+    "id": "7104072016",
+    "district_id": "710407",
+    "name": "SAWANG UTARA"
+  },
+  {
+    "id": "7104072017",
+    "district_id": "710407",
+    "name": "MALA TIMUR"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "1302072001", "district_id": "130207", "name": "CUPAK"}, {"id": "1302072002", "district_id": "130207", "name": "TALANG"}, {"id": "1302072003", "district_id": "130207", "name": "KOTO GADANG GUGUAK"}, {"id": "1302072004", "district_id": "130207", "name": "JAWI JAWI"}, {"id": "1302072005", "district_id": "130207", "name": "SUNGAI JANIAH"}, {"id": "1302072006", "district_id": "130207", "name": "BATANG BARUS"}, {"id": "1302072007", "district_id": "130207", "name": "AIE BATUMBUAK"}, {"id": "1302072008", "district_id": "130207", "name": "KOTO GAEK GUGUK"}]
+[
+  {
+    "id": "1302072001",
+    "district_id": "130207",
+    "name": "CUPAK"
+  },
+  {
+    "id": "1302072002",
+    "district_id": "130207",
+    "name": "TALANG"
+  },
+  {
+    "id": "1302072003",
+    "district_id": "130207",
+    "name": "KOTO GADANG GUGUAK"
+  },
+  {
+    "id": "1302072004",
+    "district_id": "130207",
+    "name": "JAWI JAWI"
+  },
+  {
+    "id": "1302072005",
+    "district_id": "130207",
+    "name": "SUNGAI JANIAH"
+  },
+  {
+    "id": "1302072006",
+    "district_id": "130207",
+    "name": "BATANG BARUS"
+  },
+  {
+    "id": "1302072007",
+    "district_id": "130207",
+    "name": "AIE BATUMBUAK"
+  },
+  {
+    "id": "1302072008",
+    "district_id": "130207",
+    "name": "KOTO GAEK GUGUK"
+  }
+]

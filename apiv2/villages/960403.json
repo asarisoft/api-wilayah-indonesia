@@ -1,1 +1,32 @@
-[{"id": "9604032001", "district_id": "960403", "name": "BAUN"}, {"id": "9604032002", "district_id": "960403", "name": "SUMBEKAS"}, {"id": "9604032003", "district_id": "960403", "name": "METNAYAM"}, {"id": "9604032004", "district_id": "960403", "name": "METBELUM"}, {"id": "9604032005", "district_id": "960403", "name": "SALEM"}, {"id": "9604032006", "district_id": "960403", "name": "METBESA"}]
+[
+  {
+    "id": "9604032001",
+    "district_id": "960403",
+    "name": "BAUN"
+  },
+  {
+    "id": "9604032002",
+    "district_id": "960403",
+    "name": "SUMBEKAS"
+  },
+  {
+    "id": "9604032003",
+    "district_id": "960403",
+    "name": "METNAYAM"
+  },
+  {
+    "id": "9604032004",
+    "district_id": "960403",
+    "name": "METBELUM"
+  },
+  {
+    "id": "9604032005",
+    "district_id": "960403",
+    "name": "SALEM"
+  },
+  {
+    "id": "9604032006",
+    "district_id": "960403",
+    "name": "METBESA"
+  }
+]

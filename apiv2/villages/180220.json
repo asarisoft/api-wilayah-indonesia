@@ -1,1 +1,72 @@
-[{"id": "1802202001", "district_id": "180220", "name": "NYUKANG HARJO"}, {"id": "1802202002", "district_id": "180220", "name": "LINGGA PURA"}, {"id": "1802202003", "district_id": "180220", "name": "SIDO HARJO"}, {"id": "1802202004", "district_id": "180220", "name": "TAMAN SARI"}, {"id": "1802202005", "district_id": "180220", "name": "KARANG ANYAR"}, {"id": "1802202006", "district_id": "180220", "name": "NEGERI KATON"}, {"id": "1802202007", "district_id": "180220", "name": "GEDUNG HARTA"}, {"id": "1802202008", "district_id": "180220", "name": "TANJUNG RATU"}, {"id": "1802202009", "district_id": "180220", "name": "NEGERI AGUNG"}, {"id": "1802202010", "district_id": "180220", "name": "GILIH KARANG JATI"}, {"id": "1802202011", "district_id": "180220", "name": "MARGA JAYA"}, {"id": "1802202012", "district_id": "180220", "name": "GEDUNG AJI"}, {"id": "1802202013", "district_id": "180220", "name": "NEGERI JAYA"}, {"id": "1802202014", "district_id": "180220", "name": "MEKAR HARJO"}]
+[
+  {
+    "id": "1802202001",
+    "district_id": "180220",
+    "name": "NYUKANG HARJO"
+  },
+  {
+    "id": "1802202002",
+    "district_id": "180220",
+    "name": "LINGGA PURA"
+  },
+  {
+    "id": "1802202003",
+    "district_id": "180220",
+    "name": "SIDO HARJO"
+  },
+  {
+    "id": "1802202004",
+    "district_id": "180220",
+    "name": "TAMAN SARI"
+  },
+  {
+    "id": "1802202005",
+    "district_id": "180220",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1802202006",
+    "district_id": "180220",
+    "name": "NEGERI KATON"
+  },
+  {
+    "id": "1802202007",
+    "district_id": "180220",
+    "name": "GEDUNG HARTA"
+  },
+  {
+    "id": "1802202008",
+    "district_id": "180220",
+    "name": "TANJUNG RATU"
+  },
+  {
+    "id": "1802202009",
+    "district_id": "180220",
+    "name": "NEGERI AGUNG"
+  },
+  {
+    "id": "1802202010",
+    "district_id": "180220",
+    "name": "GILIH KARANG JATI"
+  },
+  {
+    "id": "1802202011",
+    "district_id": "180220",
+    "name": "MARGA JAYA"
+  },
+  {
+    "id": "1802202012",
+    "district_id": "180220",
+    "name": "GEDUNG AJI"
+  },
+  {
+    "id": "1802202013",
+    "district_id": "180220",
+    "name": "NEGERI JAYA"
+  },
+  {
+    "id": "1802202014",
+    "district_id": "180220",
+    "name": "MEKAR HARJO"
+  }
+]

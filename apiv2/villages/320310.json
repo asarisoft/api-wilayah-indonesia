@@ -1,1 +1,37 @@
-[{"id": "3203102001", "district_id": "320310", "name": "CIHERANG"}, {"id": "3203102003", "district_id": "320310", "name": "CIBODAS"}, {"id": "3203102005", "district_id": "320310", "name": "SUKANAGALIH"}, {"id": "3203102007", "district_id": "320310", "name": "CIPENDAWA"}, {"id": "3203102010", "district_id": "320310", "name": "CIPUTRI"}, {"id": "3203102012", "district_id": "320310", "name": "GADOG"}, {"id": "3203102013", "district_id": "320310", "name": "SUKATANI"}]
+[
+  {
+    "id": "3203102001",
+    "district_id": "320310",
+    "name": "CIHERANG"
+  },
+  {
+    "id": "3203102003",
+    "district_id": "320310",
+    "name": "CIBODAS"
+  },
+  {
+    "id": "3203102005",
+    "district_id": "320310",
+    "name": "SUKANAGALIH"
+  },
+  {
+    "id": "3203102007",
+    "district_id": "320310",
+    "name": "CIPENDAWA"
+  },
+  {
+    "id": "3203102010",
+    "district_id": "320310",
+    "name": "CIPUTRI"
+  },
+  {
+    "id": "3203102012",
+    "district_id": "320310",
+    "name": "GADOG"
+  },
+  {
+    "id": "3203102013",
+    "district_id": "320310",
+    "name": "SUKATANI"
+  }
+]

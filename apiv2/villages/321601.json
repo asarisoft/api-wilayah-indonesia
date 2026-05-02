@@ -1,1 +1,42 @@
-[{"id": "3216011007", "district_id": "321601", "name": "SETIA ASIH"}, {"id": "3216012001", "district_id": "321601", "name": "SAGARA MAKMUR"}, {"id": "3216012002", "district_id": "321601", "name": "SEGARAJAYA"}, {"id": "3216012003", "district_id": "321601", "name": "PUSAKA RAKYAT"}, {"id": "3216012004", "district_id": "321601", "name": "PAHLAWAN SETIA"}, {"id": "3216012005", "district_id": "321601", "name": "SETIA MULYA"}, {"id": "3216012006", "district_id": "321601", "name": "SAMUDRA JAYA"}, {"id": "3216012008", "district_id": "321601", "name": "PANTAI MAKMUR"}]
+[
+  {
+    "id": "3216011007",
+    "district_id": "321601",
+    "name": "SETIA ASIH"
+  },
+  {
+    "id": "3216012001",
+    "district_id": "321601",
+    "name": "SAGARA MAKMUR"
+  },
+  {
+    "id": "3216012002",
+    "district_id": "321601",
+    "name": "SEGARAJAYA"
+  },
+  {
+    "id": "3216012003",
+    "district_id": "321601",
+    "name": "PUSAKA RAKYAT"
+  },
+  {
+    "id": "3216012004",
+    "district_id": "321601",
+    "name": "PAHLAWAN SETIA"
+  },
+  {
+    "id": "3216012005",
+    "district_id": "321601",
+    "name": "SETIA MULYA"
+  },
+  {
+    "id": "3216012006",
+    "district_id": "321601",
+    "name": "SAMUDRA JAYA"
+  },
+  {
+    "id": "3216012008",
+    "district_id": "321601",
+    "name": "PANTAI MAKMUR"
+  }
+]

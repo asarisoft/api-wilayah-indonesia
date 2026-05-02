@@ -1,1 +1,52 @@
-[{"id": "5308181001", "district_id": "530818", "name": "KOTA RAJA"}, {"id": "5308181002", "district_id": "530818", "name": "KOTA RATU"}, {"id": "5308181003", "district_id": "530818", "name": "ROWORENA"}, {"id": "5308181007", "district_id": "530818", "name": "ROWORENA BARAT"}, {"id": "5308182004", "district_id": "530818", "name": "GHEOGHOMA"}, {"id": "5308182005", "district_id": "530818", "name": "BOROKANDA"}, {"id": "5308182006", "district_id": "530818", "name": "WATUSIPI"}, {"id": "5308182008", "district_id": "530818", "name": "MBOMBA"}, {"id": "5308182009", "district_id": "530818", "name": "EMBUNDOA"}, {"id": "5308182010", "district_id": "530818", "name": "RATERUA"}]
+[
+  {
+    "id": "5308181001",
+    "district_id": "530818",
+    "name": "KOTA RAJA"
+  },
+  {
+    "id": "5308181002",
+    "district_id": "530818",
+    "name": "KOTA RATU"
+  },
+  {
+    "id": "5308181003",
+    "district_id": "530818",
+    "name": "ROWORENA"
+  },
+  {
+    "id": "5308181007",
+    "district_id": "530818",
+    "name": "ROWORENA BARAT"
+  },
+  {
+    "id": "5308182004",
+    "district_id": "530818",
+    "name": "GHEOGHOMA"
+  },
+  {
+    "id": "5308182005",
+    "district_id": "530818",
+    "name": "BOROKANDA"
+  },
+  {
+    "id": "5308182006",
+    "district_id": "530818",
+    "name": "WATUSIPI"
+  },
+  {
+    "id": "5308182008",
+    "district_id": "530818",
+    "name": "MBOMBA"
+  },
+  {
+    "id": "5308182009",
+    "district_id": "530818",
+    "name": "EMBUNDOA"
+  },
+  {
+    "id": "5308182010",
+    "district_id": "530818",
+    "name": "RATERUA"
+  }
+]

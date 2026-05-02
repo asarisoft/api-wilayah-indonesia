@@ -1,1 +1,57 @@
-[{"id": "7371091001", "district_id": "737109", "name": "KARUWISI"}, {"id": "7371091002", "district_id": "737109", "name": "PANAIKANG"}, {"id": "7371091003", "district_id": "737109", "name": "TELLO BARU"}, {"id": "7371091004", "district_id": "737109", "name": "PAMPANG"}, {"id": "7371091005", "district_id": "737109", "name": "KARAMPUANG"}, {"id": "7371091006", "district_id": "737109", "name": "TAMAMAUNG"}, {"id": "7371091007", "district_id": "737109", "name": "MASALE"}, {"id": "7371091008", "district_id": "737109", "name": "PANDANG"}, {"id": "7371091009", "district_id": "737109", "name": "KARUWISI UTARA"}, {"id": "7371091010", "district_id": "737109", "name": "SINRIJALA"}, {"id": "7371091011", "district_id": "737109", "name": "PAROPO"}]
+[
+  {
+    "id": "7371091001",
+    "district_id": "737109",
+    "name": "KARUWISI"
+  },
+  {
+    "id": "7371091002",
+    "district_id": "737109",
+    "name": "PANAIKANG"
+  },
+  {
+    "id": "7371091003",
+    "district_id": "737109",
+    "name": "TELLO BARU"
+  },
+  {
+    "id": "7371091004",
+    "district_id": "737109",
+    "name": "PAMPANG"
+  },
+  {
+    "id": "7371091005",
+    "district_id": "737109",
+    "name": "KARAMPUANG"
+  },
+  {
+    "id": "7371091006",
+    "district_id": "737109",
+    "name": "TAMAMAUNG"
+  },
+  {
+    "id": "7371091007",
+    "district_id": "737109",
+    "name": "MASALE"
+  },
+  {
+    "id": "7371091008",
+    "district_id": "737109",
+    "name": "PANDANG"
+  },
+  {
+    "id": "7371091009",
+    "district_id": "737109",
+    "name": "KARUWISI UTARA"
+  },
+  {
+    "id": "7371091010",
+    "district_id": "737109",
+    "name": "SINRIJALA"
+  },
+  {
+    "id": "7371091011",
+    "district_id": "737109",
+    "name": "PAROPO"
+  }
+]

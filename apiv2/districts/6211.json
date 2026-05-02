@@ -1,1 +1,42 @@
-[{"id": "621101", "regency_id": "6211", "name": "PANDIH BATU"}, {"id": "621102", "regency_id": "6211", "name": "KAHAYAN KUALA"}, {"id": "621103", "regency_id": "6211", "name": "KAHAYAN TENGAH"}, {"id": "621104", "regency_id": "6211", "name": "BANAMA TINGANG"}, {"id": "621105", "regency_id": "6211", "name": "KAHAYAN HILIR"}, {"id": "621106", "regency_id": "6211", "name": "MALIKU"}, {"id": "621107", "regency_id": "6211", "name": "JABIREN RAYA"}, {"id": "621108", "regency_id": "6211", "name": "SEBANGAU KUALA"}]
+[
+  {
+    "id": "621101",
+    "regency_id": "6211",
+    "name": "PANDIH BATU"
+  },
+  {
+    "id": "621102",
+    "regency_id": "6211",
+    "name": "KAHAYAN KUALA"
+  },
+  {
+    "id": "621103",
+    "regency_id": "6211",
+    "name": "KAHAYAN TENGAH"
+  },
+  {
+    "id": "621104",
+    "regency_id": "6211",
+    "name": "BANAMA TINGANG"
+  },
+  {
+    "id": "621105",
+    "regency_id": "6211",
+    "name": "KAHAYAN HILIR"
+  },
+  {
+    "id": "621106",
+    "regency_id": "6211",
+    "name": "MALIKU"
+  },
+  {
+    "id": "621107",
+    "regency_id": "6211",
+    "name": "JABIREN RAYA"
+  },
+  {
+    "id": "621108",
+    "regency_id": "6211",
+    "name": "SEBANGAU KUALA"
+  }
+]

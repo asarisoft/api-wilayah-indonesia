@@ -1,1 +1,32 @@
-[{"id": "5302322001", "district_id": "530232", "name": "LILL ANA"}, {"id": "5302322002", "district_id": "530232", "name": "NUNBENA"}, {"id": "5302322003", "district_id": "530232", "name": "NOEBESI"}, {"id": "5302322004", "district_id": "530232", "name": "TANEOTOB"}, {"id": "5302322005", "district_id": "530232", "name": "FETO MONE"}, {"id": "5302322006", "district_id": "530232", "name": "TUNBES"}]
+[
+  {
+    "id": "5302322001",
+    "district_id": "530232",
+    "name": "LILL ANA"
+  },
+  {
+    "id": "5302322002",
+    "district_id": "530232",
+    "name": "NUNBENA"
+  },
+  {
+    "id": "5302322003",
+    "district_id": "530232",
+    "name": "NOEBESI"
+  },
+  {
+    "id": "5302322004",
+    "district_id": "530232",
+    "name": "TANEOTOB"
+  },
+  {
+    "id": "5302322005",
+    "district_id": "530232",
+    "name": "FETO MONE"
+  },
+  {
+    "id": "5302322006",
+    "district_id": "530232",
+    "name": "TUNBES"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "6407102015", "district_id": "640710", "name": "JERANG DAYAK"}, {"id": "6407102016", "district_id": "640710", "name": "MENDUNG"}, {"id": "6407102017", "district_id": "640710", "name": "JERANG MELAYU"}, {"id": "6407102018", "district_id": "640710", "name": "DASAQ"}, {"id": "6407102020", "district_id": "640710", "name": "TEPIAN ULAQ"}, {"id": "6407102021", "district_id": "640710", "name": "SEBELANG"}, {"id": "6407102022", "district_id": "640710", "name": "MUARA BAROH"}, {"id": "6407102023", "district_id": "640710", "name": "TELUK TEMPUDAU"}, {"id": "6407102024", "district_id": "640710", "name": "TANJUNG LAONG"}, {"id": "6407102025", "district_id": "640710", "name": "TANJUNG PAGAR"}, {"id": "6407102029", "district_id": "640710", "name": "GUNUNG BAYAN"}, {"id": "6407102030", "district_id": "640710", "name": "MUARA BELOAN"}]
+[
+  {
+    "id": "6407102015",
+    "district_id": "640710",
+    "name": "JERANG DAYAK"
+  },
+  {
+    "id": "6407102016",
+    "district_id": "640710",
+    "name": "MENDUNG"
+  },
+  {
+    "id": "6407102017",
+    "district_id": "640710",
+    "name": "JERANG MELAYU"
+  },
+  {
+    "id": "6407102018",
+    "district_id": "640710",
+    "name": "DASAQ"
+  },
+  {
+    "id": "6407102020",
+    "district_id": "640710",
+    "name": "TEPIAN ULAQ"
+  },
+  {
+    "id": "6407102021",
+    "district_id": "640710",
+    "name": "SEBELANG"
+  },
+  {
+    "id": "6407102022",
+    "district_id": "640710",
+    "name": "MUARA BAROH"
+  },
+  {
+    "id": "6407102023",
+    "district_id": "640710",
+    "name": "TELUK TEMPUDAU"
+  },
+  {
+    "id": "6407102024",
+    "district_id": "640710",
+    "name": "TANJUNG LAONG"
+  },
+  {
+    "id": "6407102025",
+    "district_id": "640710",
+    "name": "TANJUNG PAGAR"
+  },
+  {
+    "id": "6407102029",
+    "district_id": "640710",
+    "name": "GUNUNG BAYAN"
+  },
+  {
+    "id": "6407102030",
+    "district_id": "640710",
+    "name": "MUARA BELOAN"
+  }
+]

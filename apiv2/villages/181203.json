@@ -1,1 +1,67 @@
-[{"id": "1812032001", "district_id": "181203", "name": "KARTA"}, {"id": "1812032002", "district_id": "181203", "name": "KARTA SARI"}, {"id": "1812032003", "district_id": "181203", "name": "KARTA RAHARJA"}, {"id": "1812032004", "district_id": "181203", "name": "GUNUNG KATUN TANJUNGAN"}, {"id": "1812032005", "district_id": "181203", "name": "GUNUNG KATUN MALAI"}, {"id": "1812032006", "district_id": "181203", "name": "GEDUNG RATU"}, {"id": "1812032007", "district_id": "181203", "name": "KAGUNGAN RATU"}, {"id": "1812032008", "district_id": "181203", "name": "MARGA KENCANA"}, {"id": "1812032009", "district_id": "181203", "name": "WAY SIDO"}, {"id": "1812032010", "district_id": "181203", "name": "KAGUNGAN RATU AGUNG"}, {"id": "1812032011", "district_id": "181203", "name": "GADING KENCANA"}, {"id": "1812032012", "district_id": "181203", "name": "KARTA RAYA"}, {"id": "1812032013", "district_id": "181203", "name": "KARTA TANJUNG SELAMAT"}]
+[
+  {
+    "id": "1812032001",
+    "district_id": "181203",
+    "name": "KARTA"
+  },
+  {
+    "id": "1812032002",
+    "district_id": "181203",
+    "name": "KARTA SARI"
+  },
+  {
+    "id": "1812032003",
+    "district_id": "181203",
+    "name": "KARTA RAHARJA"
+  },
+  {
+    "id": "1812032004",
+    "district_id": "181203",
+    "name": "GUNUNG KATUN TANJUNGAN"
+  },
+  {
+    "id": "1812032005",
+    "district_id": "181203",
+    "name": "GUNUNG KATUN MALAI"
+  },
+  {
+    "id": "1812032006",
+    "district_id": "181203",
+    "name": "GEDUNG RATU"
+  },
+  {
+    "id": "1812032007",
+    "district_id": "181203",
+    "name": "KAGUNGAN RATU"
+  },
+  {
+    "id": "1812032008",
+    "district_id": "181203",
+    "name": "MARGA KENCANA"
+  },
+  {
+    "id": "1812032009",
+    "district_id": "181203",
+    "name": "WAY SIDO"
+  },
+  {
+    "id": "1812032010",
+    "district_id": "181203",
+    "name": "KAGUNGAN RATU AGUNG"
+  },
+  {
+    "id": "1812032011",
+    "district_id": "181203",
+    "name": "GADING KENCANA"
+  },
+  {
+    "id": "1812032012",
+    "district_id": "181203",
+    "name": "KARTA RAYA"
+  },
+  {
+    "id": "1812032013",
+    "district_id": "181203",
+    "name": "KARTA TANJUNG SELAMAT"
+  }
+]

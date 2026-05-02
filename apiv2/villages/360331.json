@@ -1,1 +1,37 @@
-[{"id": "3603312001", "district_id": "360331", "name": "SOLEAR"}, {"id": "3603312002", "district_id": "360331", "name": "CIKUYA"}, {"id": "3603312003", "district_id": "360331", "name": "CIKASUNGKA"}, {"id": "3603312004", "district_id": "360331", "name": "CIREUNDEU"}, {"id": "3603312005", "district_id": "360331", "name": "CIKAREO"}, {"id": "3603312006", "district_id": "360331", "name": "PASANGGRAHAN"}, {"id": "3603312007", "district_id": "360331", "name": "MUNJUL"}]
+[
+  {
+    "id": "3603312001",
+    "district_id": "360331",
+    "name": "SOLEAR"
+  },
+  {
+    "id": "3603312002",
+    "district_id": "360331",
+    "name": "CIKUYA"
+  },
+  {
+    "id": "3603312003",
+    "district_id": "360331",
+    "name": "CIKASUNGKA"
+  },
+  {
+    "id": "3603312004",
+    "district_id": "360331",
+    "name": "CIREUNDEU"
+  },
+  {
+    "id": "3603312005",
+    "district_id": "360331",
+    "name": "CIKAREO"
+  },
+  {
+    "id": "3603312006",
+    "district_id": "360331",
+    "name": "PASANGGRAHAN"
+  },
+  {
+    "id": "3603312007",
+    "district_id": "360331",
+    "name": "MUNJUL"
+  }
+]

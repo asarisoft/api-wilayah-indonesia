@@ -1,1 +1,102 @@
-[{"id": "3515012001", "district_id": "351501", "name": "MLIRIPROWO"}, {"id": "3515012002", "district_id": "351501", "name": "KEDUNGBOCOK"}, {"id": "3515012003", "district_id": "351501", "name": "SINGOGALIH"}, {"id": "3515012004", "district_id": "351501", "name": "TARIK"}, {"id": "3515012005", "district_id": "351501", "name": "MERGOBENER"}, {"id": "3515012006", "district_id": "351501", "name": "MERGOSARI"}, {"id": "3515012007", "district_id": "351501", "name": "KENDALSEWU"}, {"id": "3515012008", "district_id": "351501", "name": "KLANTINGSARI"}, {"id": "3515012009", "district_id": "351501", "name": "KALIMATI"}, {"id": "3515012010", "district_id": "351501", "name": "GEMPOLKLUTUK"}, {"id": "3515012011", "district_id": "351501", "name": "BANJARWUNGU"}, {"id": "3515012012", "district_id": "351501", "name": "BALONGMACEKAN"}, {"id": "3515012013", "district_id": "351501", "name": "GAMPINGROWO"}, {"id": "3515012014", "district_id": "351501", "name": "SEBANI"}, {"id": "3515012015", "district_id": "351501", "name": "KRAMATTEMENGGUNG"}, {"id": "3515012016", "district_id": "351501", "name": "MINDUGADING"}, {"id": "3515012017", "district_id": "351501", "name": "KEMUNING"}, {"id": "3515012018", "district_id": "351501", "name": "JANTI"}, {"id": "3515012019", "district_id": "351501", "name": "SEGODOBANCANG"}, {"id": "3515012020", "district_id": "351501", "name": "KEDINDING"}]
+[
+  {
+    "id": "3515012001",
+    "district_id": "351501",
+    "name": "MLIRIPROWO"
+  },
+  {
+    "id": "3515012002",
+    "district_id": "351501",
+    "name": "KEDUNGBOCOK"
+  },
+  {
+    "id": "3515012003",
+    "district_id": "351501",
+    "name": "SINGOGALIH"
+  },
+  {
+    "id": "3515012004",
+    "district_id": "351501",
+    "name": "TARIK"
+  },
+  {
+    "id": "3515012005",
+    "district_id": "351501",
+    "name": "MERGOBENER"
+  },
+  {
+    "id": "3515012006",
+    "district_id": "351501",
+    "name": "MERGOSARI"
+  },
+  {
+    "id": "3515012007",
+    "district_id": "351501",
+    "name": "KENDALSEWU"
+  },
+  {
+    "id": "3515012008",
+    "district_id": "351501",
+    "name": "KLANTINGSARI"
+  },
+  {
+    "id": "3515012009",
+    "district_id": "351501",
+    "name": "KALIMATI"
+  },
+  {
+    "id": "3515012010",
+    "district_id": "351501",
+    "name": "GEMPOLKLUTUK"
+  },
+  {
+    "id": "3515012011",
+    "district_id": "351501",
+    "name": "BANJARWUNGU"
+  },
+  {
+    "id": "3515012012",
+    "district_id": "351501",
+    "name": "BALONGMACEKAN"
+  },
+  {
+    "id": "3515012013",
+    "district_id": "351501",
+    "name": "GAMPINGROWO"
+  },
+  {
+    "id": "3515012014",
+    "district_id": "351501",
+    "name": "SEBANI"
+  },
+  {
+    "id": "3515012015",
+    "district_id": "351501",
+    "name": "KRAMATTEMENGGUNG"
+  },
+  {
+    "id": "3515012016",
+    "district_id": "351501",
+    "name": "MINDUGADING"
+  },
+  {
+    "id": "3515012017",
+    "district_id": "351501",
+    "name": "KEMUNING"
+  },
+  {
+    "id": "3515012018",
+    "district_id": "351501",
+    "name": "JANTI"
+  },
+  {
+    "id": "3515012019",
+    "district_id": "351501",
+    "name": "SEGODOBANCANG"
+  },
+  {
+    "id": "3515012020",
+    "district_id": "351501",
+    "name": "KEDINDING"
+  }
+]

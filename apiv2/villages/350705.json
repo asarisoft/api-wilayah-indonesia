@@ -1,1 +1,62 @@
-[{"id": "3507051007", "district_id": "350705", "name": "DAMPIT"}, {"id": "3507052001", "district_id": "350705", "name": "SUKODONO"}, {"id": "3507052002", "district_id": "350705", "name": "SUMBERSUKO"}, {"id": "3507052003", "district_id": "350705", "name": "SRIMULYO"}, {"id": "3507052004", "district_id": "350705", "name": "BATURETNO"}, {"id": "3507052005", "district_id": "350705", "name": "BUMIREJO"}, {"id": "3507052006", "district_id": "350705", "name": "AMADANOM"}, {"id": "3507052008", "district_id": "350705", "name": "PAMOTAN"}, {"id": "3507052009", "district_id": "350705", "name": "MAJANGTENGAH"}, {"id": "3507052010", "district_id": "350705", "name": "REMBUN"}, {"id": "3507052011", "district_id": "350705", "name": "POJOK"}, {"id": "3507052012", "district_id": "350705", "name": "JAMBANGAN"}]
+[
+  {
+    "id": "3507051007",
+    "district_id": "350705",
+    "name": "DAMPIT"
+  },
+  {
+    "id": "3507052001",
+    "district_id": "350705",
+    "name": "SUKODONO"
+  },
+  {
+    "id": "3507052002",
+    "district_id": "350705",
+    "name": "SUMBERSUKO"
+  },
+  {
+    "id": "3507052003",
+    "district_id": "350705",
+    "name": "SRIMULYO"
+  },
+  {
+    "id": "3507052004",
+    "district_id": "350705",
+    "name": "BATURETNO"
+  },
+  {
+    "id": "3507052005",
+    "district_id": "350705",
+    "name": "BUMIREJO"
+  },
+  {
+    "id": "3507052006",
+    "district_id": "350705",
+    "name": "AMADANOM"
+  },
+  {
+    "id": "3507052008",
+    "district_id": "350705",
+    "name": "PAMOTAN"
+  },
+  {
+    "id": "3507052009",
+    "district_id": "350705",
+    "name": "MAJANGTENGAH"
+  },
+  {
+    "id": "3507052010",
+    "district_id": "350705",
+    "name": "REMBUN"
+  },
+  {
+    "id": "3507052011",
+    "district_id": "350705",
+    "name": "POJOK"
+  },
+  {
+    "id": "3507052012",
+    "district_id": "350705",
+    "name": "JAMBANGAN"
+  }
+]

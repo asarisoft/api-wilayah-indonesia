@@ -1,1 +1,42 @@
-[{"id": "6208011003", "district_id": "620801", "name": "MENDAWAI"}, {"id": "6208011004", "district_id": "620801", "name": "PADANG"}, {"id": "6208012001", "district_id": "620801", "name": "NATAI SEDAWAK"}, {"id": "6208012002", "district_id": "620801", "name": "PUDU"}, {"id": "6208012005", "district_id": "620801", "name": "KARTAMULIA"}, {"id": "6208012006", "district_id": "620801", "name": "SUKARAJA"}, {"id": "6208012007", "district_id": "620801", "name": "PANGKALAN MUNTAI"}, {"id": "6208012008", "district_id": "620801", "name": "PETARIKAN"}]
+[
+  {
+    "id": "6208011003",
+    "district_id": "620801",
+    "name": "MENDAWAI"
+  },
+  {
+    "id": "6208011004",
+    "district_id": "620801",
+    "name": "PADANG"
+  },
+  {
+    "id": "6208012001",
+    "district_id": "620801",
+    "name": "NATAI SEDAWAK"
+  },
+  {
+    "id": "6208012002",
+    "district_id": "620801",
+    "name": "PUDU"
+  },
+  {
+    "id": "6208012005",
+    "district_id": "620801",
+    "name": "KARTAMULIA"
+  },
+  {
+    "id": "6208012006",
+    "district_id": "620801",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "6208012007",
+    "district_id": "620801",
+    "name": "PANGKALAN MUNTAI"
+  },
+  {
+    "id": "6208012008",
+    "district_id": "620801",
+    "name": "PETARIKAN"
+  }
+]

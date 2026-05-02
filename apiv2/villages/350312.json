@@ -1,1 +1,52 @@
-[{"id": "3503122001", "district_id": "350312", "name": "WONOCOYO"}, {"id": "3503122002", "district_id": "350312", "name": "NGETAL"}, {"id": "3503122003", "district_id": "350312", "name": "NGADIRENGGO"}, {"id": "3503122004", "district_id": "350312", "name": "POGALAN"}, {"id": "3503122005", "district_id": "350312", "name": "NGULANKULON"}, {"id": "3503122006", "district_id": "350312", "name": "BENDOREJO"}, {"id": "3503122007", "district_id": "350312", "name": "GEMBLEB"}, {"id": "3503122008", "district_id": "350312", "name": "NGADIREJO"}, {"id": "3503122009", "district_id": "350312", "name": "NGULANWETAN"}, {"id": "3503122010", "district_id": "350312", "name": "KEDUNGLURAH"}]
+[
+  {
+    "id": "3503122001",
+    "district_id": "350312",
+    "name": "WONOCOYO"
+  },
+  {
+    "id": "3503122002",
+    "district_id": "350312",
+    "name": "NGETAL"
+  },
+  {
+    "id": "3503122003",
+    "district_id": "350312",
+    "name": "NGADIRENGGO"
+  },
+  {
+    "id": "3503122004",
+    "district_id": "350312",
+    "name": "POGALAN"
+  },
+  {
+    "id": "3503122005",
+    "district_id": "350312",
+    "name": "NGULANKULON"
+  },
+  {
+    "id": "3503122006",
+    "district_id": "350312",
+    "name": "BENDOREJO"
+  },
+  {
+    "id": "3503122007",
+    "district_id": "350312",
+    "name": "GEMBLEB"
+  },
+  {
+    "id": "3503122008",
+    "district_id": "350312",
+    "name": "NGADIREJO"
+  },
+  {
+    "id": "3503122009",
+    "district_id": "350312",
+    "name": "NGULANWETAN"
+  },
+  {
+    "id": "3503122010",
+    "district_id": "350312",
+    "name": "KEDUNGLURAH"
+  }
+]

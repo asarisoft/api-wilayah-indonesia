@@ -1,1 +1,97 @@
-[{"id": "1708011007", "district_id": "170801", "name": "KEBAN AGUNG"}, {"id": "1708012001", "district_id": "170801", "name": "KOTA AGUNG"}, {"id": "1708012002", "district_id": "170801", "name": "KEMBANG SERI"}, {"id": "1708012003", "district_id": "170801", "name": "PAGAR AGUNG"}, {"id": "1708012004", "district_id": "170801", "name": "EMBONG IJUK"}, {"id": "1708012005", "district_id": "170801", "name": "GUNUNG AGUNG"}, {"id": "1708012006", "district_id": "170801", "name": "TALANG PITO"}, {"id": "1708012008", "district_id": "170801", "name": "CINTO MANDI"}, {"id": "1708012009", "district_id": "170801", "name": "LEMBUR LAMA"}, {"id": "1708012010", "district_id": "170801", "name": "TABA BARU"}, {"id": "1708012011", "district_id": "170801", "name": "BUKIT MENYAN"}, {"id": "1708012016", "district_id": "170801", "name": "BATU BELARIK"}, {"id": "1708012017", "district_id": "170801", "name": "EMBONG SIDO"}, {"id": "1708012022", "district_id": "170801", "name": "TALANG SAWAH"}, {"id": "1708012023", "district_id": "170801", "name": "SOSOKAN CINTA MANDI"}, {"id": "1708012024", "district_id": "170801", "name": "MUARA LANGKAP"}, {"id": "1708012025", "district_id": "170801", "name": "AIR RAMAN"}, {"id": "1708012028", "district_id": "170801", "name": "LANGGAR JAYA"}, {"id": "1708012029", "district_id": "170801", "name": "CINTA MANDI BARU"}]
+[
+  {
+    "id": "1708011007",
+    "district_id": "170801",
+    "name": "KEBAN AGUNG"
+  },
+  {
+    "id": "1708012001",
+    "district_id": "170801",
+    "name": "KOTA AGUNG"
+  },
+  {
+    "id": "1708012002",
+    "district_id": "170801",
+    "name": "KEMBANG SERI"
+  },
+  {
+    "id": "1708012003",
+    "district_id": "170801",
+    "name": "PAGAR AGUNG"
+  },
+  {
+    "id": "1708012004",
+    "district_id": "170801",
+    "name": "EMBONG IJUK"
+  },
+  {
+    "id": "1708012005",
+    "district_id": "170801",
+    "name": "GUNUNG AGUNG"
+  },
+  {
+    "id": "1708012006",
+    "district_id": "170801",
+    "name": "TALANG PITO"
+  },
+  {
+    "id": "1708012008",
+    "district_id": "170801",
+    "name": "CINTO MANDI"
+  },
+  {
+    "id": "1708012009",
+    "district_id": "170801",
+    "name": "LEMBUR LAMA"
+  },
+  {
+    "id": "1708012010",
+    "district_id": "170801",
+    "name": "TABA BARU"
+  },
+  {
+    "id": "1708012011",
+    "district_id": "170801",
+    "name": "BUKIT MENYAN"
+  },
+  {
+    "id": "1708012016",
+    "district_id": "170801",
+    "name": "BATU BELARIK"
+  },
+  {
+    "id": "1708012017",
+    "district_id": "170801",
+    "name": "EMBONG SIDO"
+  },
+  {
+    "id": "1708012022",
+    "district_id": "170801",
+    "name": "TALANG SAWAH"
+  },
+  {
+    "id": "1708012023",
+    "district_id": "170801",
+    "name": "SOSOKAN CINTA MANDI"
+  },
+  {
+    "id": "1708012024",
+    "district_id": "170801",
+    "name": "MUARA LANGKAP"
+  },
+  {
+    "id": "1708012025",
+    "district_id": "170801",
+    "name": "AIR RAMAN"
+  },
+  {
+    "id": "1708012028",
+    "district_id": "170801",
+    "name": "LANGGAR JAYA"
+  },
+  {
+    "id": "1708012029",
+    "district_id": "170801",
+    "name": "CINTA MANDI BARU"
+  }
+]

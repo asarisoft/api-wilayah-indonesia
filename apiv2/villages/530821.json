@@ -1,1 +1,72 @@
-[{"id": "5308212001", "district_id": "530821", "name": "NGGUMBELAKA"}, {"id": "5308212002", "district_id": "530821", "name": "MUKUREKU"}, {"id": "5308212003", "district_id": "530821", "name": "WOLOGAI TIMUR"}, {"id": "5308212004", "district_id": "530821", "name": "KURU"}, {"id": "5308212005", "district_id": "530821", "name": "NDENGGARONGGE"}, {"id": "5308212006", "district_id": "530821", "name": "NDIKOSAPU"}, {"id": "5308212007", "district_id": "530821", "name": "TANIWODA"}, {"id": "5308212008", "district_id": "530821", "name": "TANALANGI"}, {"id": "5308212009", "district_id": "530821", "name": "DETUARA"}, {"id": "5308212010", "district_id": "530821", "name": "TIWUSORA"}, {"id": "5308212011", "district_id": "530821", "name": "LISEKURU"}, {"id": "5308212012", "district_id": "530821", "name": "RUTUJEJA"}, {"id": "5308212013", "district_id": "530821", "name": "MUKUREKU SA'ATE"}, {"id": "5308212014", "district_id": "530821", "name": "KURUSARE"}]
+[
+  {
+    "id": "5308212001",
+    "district_id": "530821",
+    "name": "NGGUMBELAKA"
+  },
+  {
+    "id": "5308212002",
+    "district_id": "530821",
+    "name": "MUKUREKU"
+  },
+  {
+    "id": "5308212003",
+    "district_id": "530821",
+    "name": "WOLOGAI TIMUR"
+  },
+  {
+    "id": "5308212004",
+    "district_id": "530821",
+    "name": "KURU"
+  },
+  {
+    "id": "5308212005",
+    "district_id": "530821",
+    "name": "NDENGGARONGGE"
+  },
+  {
+    "id": "5308212006",
+    "district_id": "530821",
+    "name": "NDIKOSAPU"
+  },
+  {
+    "id": "5308212007",
+    "district_id": "530821",
+    "name": "TANIWODA"
+  },
+  {
+    "id": "5308212008",
+    "district_id": "530821",
+    "name": "TANALANGI"
+  },
+  {
+    "id": "5308212009",
+    "district_id": "530821",
+    "name": "DETUARA"
+  },
+  {
+    "id": "5308212010",
+    "district_id": "530821",
+    "name": "TIWUSORA"
+  },
+  {
+    "id": "5308212011",
+    "district_id": "530821",
+    "name": "LISEKURU"
+  },
+  {
+    "id": "5308212012",
+    "district_id": "530821",
+    "name": "RUTUJEJA"
+  },
+  {
+    "id": "5308212013",
+    "district_id": "530821",
+    "name": "MUKUREKU SA'ATE"
+  },
+  {
+    "id": "5308212014",
+    "district_id": "530821",
+    "name": "KURUSARE"
+  }
+]

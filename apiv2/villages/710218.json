@@ -1,1 +1,42 @@
-[{"id": "7102181001", "district_id": "710218", "name": "URONGO"}, {"id": "7102181002", "district_id": "710218", "name": "TOUNSARU"}, {"id": "7102181003", "district_id": "710218", "name": "TATAARAN II"}, {"id": "7102181004", "district_id": "710218", "name": "TATAARAN I"}, {"id": "7102181005", "district_id": "710218", "name": "KOYA"}, {"id": "7102181006", "district_id": "710218", "name": "PALELOAN"}, {"id": "7102181007", "district_id": "710218", "name": "TATAARAN PATAR"}, {"id": "7102181008", "district_id": "710218", "name": "MAESA UNIMA"}]
+[
+  {
+    "id": "7102181001",
+    "district_id": "710218",
+    "name": "URONGO"
+  },
+  {
+    "id": "7102181002",
+    "district_id": "710218",
+    "name": "TOUNSARU"
+  },
+  {
+    "id": "7102181003",
+    "district_id": "710218",
+    "name": "TATAARAN II"
+  },
+  {
+    "id": "7102181004",
+    "district_id": "710218",
+    "name": "TATAARAN I"
+  },
+  {
+    "id": "7102181005",
+    "district_id": "710218",
+    "name": "KOYA"
+  },
+  {
+    "id": "7102181006",
+    "district_id": "710218",
+    "name": "PALELOAN"
+  },
+  {
+    "id": "7102181007",
+    "district_id": "710218",
+    "name": "TATAARAN PATAR"
+  },
+  {
+    "id": "7102181008",
+    "district_id": "710218",
+    "name": "MAESA UNIMA"
+  }
+]

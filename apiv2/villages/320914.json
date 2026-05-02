@@ -1,1 +1,57 @@
-[{"id": "3209142001", "district_id": "320914", "name": "SAMPIRAN"}, {"id": "3209142002", "district_id": "320914", "name": "CIPERNA"}, {"id": "3209142003", "district_id": "320914", "name": "KECOMBERAN"}, {"id": "3209142004", "district_id": "320914", "name": "CIREBON GIRANG"}, {"id": "3209142005", "district_id": "320914", "name": "KERANDON"}, {"id": "3209142006", "district_id": "320914", "name": "WANASABA KIDUL"}, {"id": "3209142007", "district_id": "320914", "name": "WANASABA LOR"}, {"id": "3209142008", "district_id": "320914", "name": "CEMPAKA"}, {"id": "3209142009", "district_id": "320914", "name": "KEPONGPONGAN"}, {"id": "3209142010", "district_id": "320914", "name": "SARWADADI"}, {"id": "3209142011", "district_id": "320914", "name": "KUBANG"}]
+[
+  {
+    "id": "3209142001",
+    "district_id": "320914",
+    "name": "SAMPIRAN"
+  },
+  {
+    "id": "3209142002",
+    "district_id": "320914",
+    "name": "CIPERNA"
+  },
+  {
+    "id": "3209142003",
+    "district_id": "320914",
+    "name": "KECOMBERAN"
+  },
+  {
+    "id": "3209142004",
+    "district_id": "320914",
+    "name": "CIREBON GIRANG"
+  },
+  {
+    "id": "3209142005",
+    "district_id": "320914",
+    "name": "KERANDON"
+  },
+  {
+    "id": "3209142006",
+    "district_id": "320914",
+    "name": "WANASABA KIDUL"
+  },
+  {
+    "id": "3209142007",
+    "district_id": "320914",
+    "name": "WANASABA LOR"
+  },
+  {
+    "id": "3209142008",
+    "district_id": "320914",
+    "name": "CEMPAKA"
+  },
+  {
+    "id": "3209142009",
+    "district_id": "320914",
+    "name": "KEPONGPONGAN"
+  },
+  {
+    "id": "3209142010",
+    "district_id": "320914",
+    "name": "SARWADADI"
+  },
+  {
+    "id": "3209142011",
+    "district_id": "320914",
+    "name": "KUBANG"
+  }
+]

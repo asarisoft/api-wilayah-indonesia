@@ -1,1 +1,52 @@
-[{"id": "3526042001", "district_id": "352604", "name": "KAMAL"}, {"id": "3526042002", "district_id": "352604", "name": "BANYUAJUH"}, {"id": "3526042003", "district_id": "352604", "name": "GILI BARAT"}, {"id": "3526042004", "district_id": "352604", "name": "GILI TIMUR"}, {"id": "3526042005", "district_id": "352604", "name": "GILI ANYAR"}, {"id": "3526042006", "district_id": "352604", "name": "TELANG"}, {"id": "3526042007", "district_id": "352604", "name": "PENDABAH"}, {"id": "3526042008", "district_id": "352604", "name": "TAJUNGAN"}, {"id": "3526042009", "district_id": "352604", "name": "KEBUN"}, {"id": "3526042010", "district_id": "352604", "name": "TANJUNG JATI"}]
+[
+  {
+    "id": "3526042001",
+    "district_id": "352604",
+    "name": "KAMAL"
+  },
+  {
+    "id": "3526042002",
+    "district_id": "352604",
+    "name": "BANYUAJUH"
+  },
+  {
+    "id": "3526042003",
+    "district_id": "352604",
+    "name": "GILI BARAT"
+  },
+  {
+    "id": "3526042004",
+    "district_id": "352604",
+    "name": "GILI TIMUR"
+  },
+  {
+    "id": "3526042005",
+    "district_id": "352604",
+    "name": "GILI ANYAR"
+  },
+  {
+    "id": "3526042006",
+    "district_id": "352604",
+    "name": "TELANG"
+  },
+  {
+    "id": "3526042007",
+    "district_id": "352604",
+    "name": "PENDABAH"
+  },
+  {
+    "id": "3526042008",
+    "district_id": "352604",
+    "name": "TAJUNGAN"
+  },
+  {
+    "id": "3526042009",
+    "district_id": "352604",
+    "name": "KEBUN"
+  },
+  {
+    "id": "3526042010",
+    "district_id": "352604",
+    "name": "TANJUNG JATI"
+  }
+]

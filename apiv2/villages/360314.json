@@ -1,1 +1,52 @@
-[{"id": "3603141001", "district_id": "360314", "name": "KOSAMBI BARAT"}, {"id": "3603141003", "district_id": "360314", "name": "SALEMBARAN JAYA"}, {"id": "3603141010", "district_id": "360314", "name": "DADAP"}, {"id": "3603142002", "district_id": "360314", "name": "KOSAMBI TIMUR"}, {"id": "3603142004", "district_id": "360314", "name": "SALEMBARAN JATI"}, {"id": "3603142005", "district_id": "360314", "name": "RAWA RENGAS"}, {"id": "3603142006", "district_id": "360314", "name": "RAWA BURUNG"}, {"id": "3603142007", "district_id": "360314", "name": "CENGKLONG"}, {"id": "3603142008", "district_id": "360314", "name": "BELIMBING"}, {"id": "3603142009", "district_id": "360314", "name": "JATI MULYA"}]
+[
+  {
+    "id": "3603141001",
+    "district_id": "360314",
+    "name": "KOSAMBI BARAT"
+  },
+  {
+    "id": "3603141003",
+    "district_id": "360314",
+    "name": "SALEMBARAN JAYA"
+  },
+  {
+    "id": "3603141010",
+    "district_id": "360314",
+    "name": "DADAP"
+  },
+  {
+    "id": "3603142002",
+    "district_id": "360314",
+    "name": "KOSAMBI TIMUR"
+  },
+  {
+    "id": "3603142004",
+    "district_id": "360314",
+    "name": "SALEMBARAN JATI"
+  },
+  {
+    "id": "3603142005",
+    "district_id": "360314",
+    "name": "RAWA RENGAS"
+  },
+  {
+    "id": "3603142006",
+    "district_id": "360314",
+    "name": "RAWA BURUNG"
+  },
+  {
+    "id": "3603142007",
+    "district_id": "360314",
+    "name": "CENGKLONG"
+  },
+  {
+    "id": "3603142008",
+    "district_id": "360314",
+    "name": "BELIMBING"
+  },
+  {
+    "id": "3603142009",
+    "district_id": "360314",
+    "name": "JATI MULYA"
+  }
+]

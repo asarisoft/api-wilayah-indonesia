@@ -1,1 +1,92 @@
-[{"id": "8203092001", "district_id": "820309", "name": "DORUME"}, {"id": "8203092002", "district_id": "820309", "name": "APULE"}, {"id": "8203092003", "district_id": "820309", "name": "ASIMIRO"}, {"id": "8203092004", "district_id": "820309", "name": "DOITIA"}, {"id": "8203092005", "district_id": "820309", "name": "NGAJAM"}, {"id": "8203092006", "district_id": "820309", "name": "KAILUPA"}, {"id": "8203092007", "district_id": "820309", "name": "GISIK"}, {"id": "8203092008", "district_id": "820309", "name": "KAPA KAPA"}, {"id": "8203092009", "district_id": "820309", "name": "PACAO"}, {"id": "8203092010", "district_id": "820309", "name": "TATE"}, {"id": "8203092011", "district_id": "820309", "name": "POSI- POSI"}, {"id": "8203092012", "district_id": "820309", "name": "SUPU"}, {"id": "8203092022", "district_id": "820309", "name": "IGO"}, {"id": "8203092023", "district_id": "820309", "name": "GALAO"}, {"id": "8203092024", "district_id": "820309", "name": "TERU-TERU"}, {"id": "8203092026", "district_id": "820309", "name": "WORI MOI"}, {"id": "8203092027", "district_id": "820309", "name": "PODOL"}, {"id": "8203092028", "district_id": "820309", "name": "MOMOJIU"}]
+[
+  {
+    "id": "8203092001",
+    "district_id": "820309",
+    "name": "DORUME"
+  },
+  {
+    "id": "8203092002",
+    "district_id": "820309",
+    "name": "APULE"
+  },
+  {
+    "id": "8203092003",
+    "district_id": "820309",
+    "name": "ASIMIRO"
+  },
+  {
+    "id": "8203092004",
+    "district_id": "820309",
+    "name": "DOITIA"
+  },
+  {
+    "id": "8203092005",
+    "district_id": "820309",
+    "name": "NGAJAM"
+  },
+  {
+    "id": "8203092006",
+    "district_id": "820309",
+    "name": "KAILUPA"
+  },
+  {
+    "id": "8203092007",
+    "district_id": "820309",
+    "name": "GISIK"
+  },
+  {
+    "id": "8203092008",
+    "district_id": "820309",
+    "name": "KAPA KAPA"
+  },
+  {
+    "id": "8203092009",
+    "district_id": "820309",
+    "name": "PACAO"
+  },
+  {
+    "id": "8203092010",
+    "district_id": "820309",
+    "name": "TATE"
+  },
+  {
+    "id": "8203092011",
+    "district_id": "820309",
+    "name": "POSI- POSI"
+  },
+  {
+    "id": "8203092012",
+    "district_id": "820309",
+    "name": "SUPU"
+  },
+  {
+    "id": "8203092022",
+    "district_id": "820309",
+    "name": "IGO"
+  },
+  {
+    "id": "8203092023",
+    "district_id": "820309",
+    "name": "GALAO"
+  },
+  {
+    "id": "8203092024",
+    "district_id": "820309",
+    "name": "TERU-TERU"
+  },
+  {
+    "id": "8203092026",
+    "district_id": "820309",
+    "name": "WORI MOI"
+  },
+  {
+    "id": "8203092027",
+    "district_id": "820309",
+    "name": "PODOL"
+  },
+  {
+    "id": "8203092028",
+    "district_id": "820309",
+    "name": "MOMOJIU"
+  }
+]

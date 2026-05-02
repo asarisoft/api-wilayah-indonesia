@@ -1,1 +1,112 @@
-[{"id": "1806122001", "district_id": "180612", "name": "TUGU PAPAK"}, {"id": "1806122002", "district_id": "180612", "name": "KACAPURA"}, {"id": "1806122003", "district_id": "180612", "name": "SUKARAJA"}, {"id": "1806122004", "district_id": "180612", "name": "BANGUN REJO"}, {"id": "1806122005", "district_id": "180612", "name": "TUGU REJO"}, {"id": "1806122006", "district_id": "180612", "name": "SIDODADI"}, {"id": "1806122007", "district_id": "180612", "name": "GARUT"}, {"id": "1806122008", "district_id": "180612", "name": "KARANG REJO"}, {"id": "1806122009", "district_id": "180612", "name": "KANOMAN"}, {"id": "1806122010", "district_id": "180612", "name": "SUDIMORO"}, {"id": "1806122011", "district_id": "180612", "name": "SUDIMORO BANGUN"}, {"id": "1806122012", "district_id": "180612", "name": "SRI PURNOMO"}, {"id": "1806122013", "district_id": "180612", "name": "SRI KUNCORO"}, {"id": "1806122014", "district_id": "180612", "name": "SIDOMULYO"}, {"id": "1806122015", "district_id": "180612", "name": "KARANG AGUNG"}, {"id": "1806122016", "district_id": "180612", "name": "TULUNG ASAHAN"}, {"id": "1806122017", "district_id": "180612", "name": "SRI KATON"}, {"id": "1806122018", "district_id": "180612", "name": "PARDAWARAS"}, {"id": "1806122019", "district_id": "180612", "name": "SEDAYU"}, {"id": "1806122020", "district_id": "180612", "name": "WAY KERAP"}, {"id": "1806122021", "district_id": "180612", "name": "MARGOMULYO"}, {"id": "1806122022", "district_id": "180612", "name": "SUKAJAYA"}]
+[
+  {
+    "id": "1806122001",
+    "district_id": "180612",
+    "name": "TUGU PAPAK"
+  },
+  {
+    "id": "1806122002",
+    "district_id": "180612",
+    "name": "KACAPURA"
+  },
+  {
+    "id": "1806122003",
+    "district_id": "180612",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "1806122004",
+    "district_id": "180612",
+    "name": "BANGUN REJO"
+  },
+  {
+    "id": "1806122005",
+    "district_id": "180612",
+    "name": "TUGU REJO"
+  },
+  {
+    "id": "1806122006",
+    "district_id": "180612",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1806122007",
+    "district_id": "180612",
+    "name": "GARUT"
+  },
+  {
+    "id": "1806122008",
+    "district_id": "180612",
+    "name": "KARANG REJO"
+  },
+  {
+    "id": "1806122009",
+    "district_id": "180612",
+    "name": "KANOMAN"
+  },
+  {
+    "id": "1806122010",
+    "district_id": "180612",
+    "name": "SUDIMORO"
+  },
+  {
+    "id": "1806122011",
+    "district_id": "180612",
+    "name": "SUDIMORO BANGUN"
+  },
+  {
+    "id": "1806122012",
+    "district_id": "180612",
+    "name": "SRI PURNOMO"
+  },
+  {
+    "id": "1806122013",
+    "district_id": "180612",
+    "name": "SRI KUNCORO"
+  },
+  {
+    "id": "1806122014",
+    "district_id": "180612",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "1806122015",
+    "district_id": "180612",
+    "name": "KARANG AGUNG"
+  },
+  {
+    "id": "1806122016",
+    "district_id": "180612",
+    "name": "TULUNG ASAHAN"
+  },
+  {
+    "id": "1806122017",
+    "district_id": "180612",
+    "name": "SRI KATON"
+  },
+  {
+    "id": "1806122018",
+    "district_id": "180612",
+    "name": "PARDAWARAS"
+  },
+  {
+    "id": "1806122019",
+    "district_id": "180612",
+    "name": "SEDAYU"
+  },
+  {
+    "id": "1806122020",
+    "district_id": "180612",
+    "name": "WAY KERAP"
+  },
+  {
+    "id": "1806122021",
+    "district_id": "180612",
+    "name": "MARGOMULYO"
+  },
+  {
+    "id": "1806122022",
+    "district_id": "180612",
+    "name": "SUKAJAYA"
+  }
+]

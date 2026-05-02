@@ -1,1 +1,57 @@
-[{"id": "1214252001", "district_id": "121425", "name": "MONDROWE"}, {"id": "1214252002", "district_id": "121425", "name": "HILIDOHONA"}, {"id": "1214252003", "district_id": "121425", "name": "HILILAORA"}, {"id": "1214252004", "district_id": "121425", "name": "ULUIDANODUO"}, {"id": "1214252005", "district_id": "121425", "name": "UMBU SOHAHAU"}, {"id": "1214252006", "district_id": "121425", "name": "HILISAO'OTO"}, {"id": "1214252007", "district_id": "121425", "name": "TALUZUSUA"}, {"id": "1214252008", "district_id": "121425", "name": "HILIZANUWO"}, {"id": "1214252009", "district_id": "121425", "name": "HOYA"}, {"id": "1214252010", "district_id": "121425", "name": "NA'AI"}, {"id": "1214252011", "district_id": "121425", "name": "OLANORI"}]
+[
+  {
+    "id": "1214252001",
+    "district_id": "121425",
+    "name": "MONDROWE"
+  },
+  {
+    "id": "1214252002",
+    "district_id": "121425",
+    "name": "HILIDOHONA"
+  },
+  {
+    "id": "1214252003",
+    "district_id": "121425",
+    "name": "HILILAORA"
+  },
+  {
+    "id": "1214252004",
+    "district_id": "121425",
+    "name": "ULUIDANODUO"
+  },
+  {
+    "id": "1214252005",
+    "district_id": "121425",
+    "name": "UMBU SOHAHAU"
+  },
+  {
+    "id": "1214252006",
+    "district_id": "121425",
+    "name": "HILISAO'OTO"
+  },
+  {
+    "id": "1214252007",
+    "district_id": "121425",
+    "name": "TALUZUSUA"
+  },
+  {
+    "id": "1214252008",
+    "district_id": "121425",
+    "name": "HILIZANUWO"
+  },
+  {
+    "id": "1214252009",
+    "district_id": "121425",
+    "name": "HOYA"
+  },
+  {
+    "id": "1214252010",
+    "district_id": "121425",
+    "name": "NA'AI"
+  },
+  {
+    "id": "1214252011",
+    "district_id": "121425",
+    "name": "OLANORI"
+  }
+]

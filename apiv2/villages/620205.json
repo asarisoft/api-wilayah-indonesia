@@ -1,1 +1,32 @@
-[{"id": "6202051001", "district_id": "620205", "name": "BAAMANG HILIR"}, {"id": "6202051002", "district_id": "620205", "name": "BAAMANG TENGAH"}, {"id": "6202051003", "district_id": "620205", "name": "BAAMANG HULU"}, {"id": "6202051007", "district_id": "620205", "name": "TANAH MAS"}, {"id": "6202051008", "district_id": "620205", "name": "BAAMANG BARAT"}, {"id": "6202052006", "district_id": "620205", "name": "TINDUK"}]
+[
+  {
+    "id": "6202051001",
+    "district_id": "620205",
+    "name": "BAAMANG HILIR"
+  },
+  {
+    "id": "6202051002",
+    "district_id": "620205",
+    "name": "BAAMANG TENGAH"
+  },
+  {
+    "id": "6202051003",
+    "district_id": "620205",
+    "name": "BAAMANG HULU"
+  },
+  {
+    "id": "6202051007",
+    "district_id": "620205",
+    "name": "TANAH MAS"
+  },
+  {
+    "id": "6202051008",
+    "district_id": "620205",
+    "name": "BAAMANG BARAT"
+  },
+  {
+    "id": "6202052006",
+    "district_id": "620205",
+    "name": "TINDUK"
+  }
+]

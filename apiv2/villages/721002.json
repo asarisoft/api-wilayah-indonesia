@@ -1,1 +1,112 @@
-[{"id": "7210022001", "district_id": "721002", "name": "BOBO"}, {"id": "7210022002", "district_id": "721002", "name": "BUNGA"}, {"id": "7210022003", "district_id": "721002", "name": "KAPIROWE"}, {"id": "7210022004", "district_id": "721002", "name": "MAKMUR"}, {"id": "7210022005", "district_id": "721002", "name": "BERDIKARI"}, {"id": "7210022006", "district_id": "721002", "name": "PATIMBE"}, {"id": "7210022007", "district_id": "721002", "name": "AMPERA"}, {"id": "7210022008", "district_id": "721002", "name": "REJEKI"}, {"id": "7210022009", "district_id": "721002", "name": "SINTUWU"}, {"id": "7210022010", "district_id": "721002", "name": "SIGIMPU"}, {"id": "7210022011", "district_id": "721002", "name": "BAKUBAKULU"}, {"id": "7210022012", "district_id": "721002", "name": "BAHAGIA"}, {"id": "7210022013", "district_id": "721002", "name": "RAHMAT"}, {"id": "7210022014", "district_id": "721002", "name": "TANAH HARAPAN"}, {"id": "7210022015", "district_id": "721002", "name": "RANTELEDA"}, {"id": "7210022016", "district_id": "721002", "name": "TONGOA"}, {"id": "7210022017", "district_id": "721002", "name": "LEMBANTONGOA"}, {"id": "7210022018", "district_id": "721002", "name": "UWE NUNI"}, {"id": "7210022019", "district_id": "721002", "name": "SEJAHTERA"}, {"id": "7210022020", "district_id": "721002", "name": "UE RANI"}, {"id": "7210022021", "district_id": "721002", "name": "KARUNIA"}, {"id": "7210022022", "district_id": "721002", "name": "SARUMANA"}]
+[
+  {
+    "id": "7210022001",
+    "district_id": "721002",
+    "name": "BOBO"
+  },
+  {
+    "id": "7210022002",
+    "district_id": "721002",
+    "name": "BUNGA"
+  },
+  {
+    "id": "7210022003",
+    "district_id": "721002",
+    "name": "KAPIROWE"
+  },
+  {
+    "id": "7210022004",
+    "district_id": "721002",
+    "name": "MAKMUR"
+  },
+  {
+    "id": "7210022005",
+    "district_id": "721002",
+    "name": "BERDIKARI"
+  },
+  {
+    "id": "7210022006",
+    "district_id": "721002",
+    "name": "PATIMBE"
+  },
+  {
+    "id": "7210022007",
+    "district_id": "721002",
+    "name": "AMPERA"
+  },
+  {
+    "id": "7210022008",
+    "district_id": "721002",
+    "name": "REJEKI"
+  },
+  {
+    "id": "7210022009",
+    "district_id": "721002",
+    "name": "SINTUWU"
+  },
+  {
+    "id": "7210022010",
+    "district_id": "721002",
+    "name": "SIGIMPU"
+  },
+  {
+    "id": "7210022011",
+    "district_id": "721002",
+    "name": "BAKUBAKULU"
+  },
+  {
+    "id": "7210022012",
+    "district_id": "721002",
+    "name": "BAHAGIA"
+  },
+  {
+    "id": "7210022013",
+    "district_id": "721002",
+    "name": "RAHMAT"
+  },
+  {
+    "id": "7210022014",
+    "district_id": "721002",
+    "name": "TANAH HARAPAN"
+  },
+  {
+    "id": "7210022015",
+    "district_id": "721002",
+    "name": "RANTELEDA"
+  },
+  {
+    "id": "7210022016",
+    "district_id": "721002",
+    "name": "TONGOA"
+  },
+  {
+    "id": "7210022017",
+    "district_id": "721002",
+    "name": "LEMBANTONGOA"
+  },
+  {
+    "id": "7210022018",
+    "district_id": "721002",
+    "name": "UWE NUNI"
+  },
+  {
+    "id": "7210022019",
+    "district_id": "721002",
+    "name": "SEJAHTERA"
+  },
+  {
+    "id": "7210022020",
+    "district_id": "721002",
+    "name": "UE RANI"
+  },
+  {
+    "id": "7210022021",
+    "district_id": "721002",
+    "name": "KARUNIA"
+  },
+  {
+    "id": "7210022022",
+    "district_id": "721002",
+    "name": "SARUMANA"
+  }
+]

@@ -1,1 +1,247 @@
-[{"id": "1107172001", "district_id": "110717", "name": "BALUE TANOH"}, {"id": "1107172002", "district_id": "110717", "name": "BALUE KULU"}, {"id": "1107172003", "district_id": "110717", "name": "LHOK EMPEH"}, {"id": "1107172004", "district_id": "110717", "name": "COT SUKON"}, {"id": "1107172005", "district_id": "110717", "name": "DAYAH TUHA"}, {"id": "1107172006", "district_id": "110717", "name": "KAMPONG COT"}, {"id": "1107172007", "district_id": "110717", "name": "PALOH JEUREULA"}, {"id": "1107172008", "district_id": "110717", "name": "BARIEH"}, {"id": "1107172009", "district_id": "110717", "name": "KANDANG"}, {"id": "1107172010", "district_id": "110717", "name": "RIWEUEK"}, {"id": "1107172011", "district_id": "110717", "name": "MANCANG"}, {"id": "1107172012", "district_id": "110717", "name": "KAMPONG PISANG BUCUE"}, {"id": "1107172013", "district_id": "110717", "name": "BUCUE"}, {"id": "1107172014", "district_id": "110717", "name": "LHOK PANAH"}, {"id": "1107172015", "district_id": "110717", "name": "MURONG COT"}, {"id": "1107172016", "district_id": "110717", "name": "CUMBOK LIE"}, {"id": "1107172017", "district_id": "110717", "name": "LAM UJONG"}, {"id": "1107172018", "district_id": "110717", "name": "MURONG LHOK"}, {"id": "1107172019", "district_id": "110717", "name": "BLANG COT"}, {"id": "1107172020", "district_id": "110717", "name": "COT CANTEK"}, {"id": "1107172021", "district_id": "110717", "name": "BLANG KUMOT BAROH"}, {"id": "1107172022", "district_id": "110717", "name": "BLANG KUMOT TUNONG"}, {"id": "1107172023", "district_id": "110717", "name": "CUMBOK NIWA"}, {"id": "1107172024", "district_id": "110717", "name": "LEUPEUEM MESJID"}, {"id": "1107172025", "district_id": "110717", "name": "PULO JEUMPA"}, {"id": "1107172026", "district_id": "110717", "name": "BEUTONG POCUT"}, {"id": "1107172027", "district_id": "110717", "name": "BEUTONG PERLAK"}, {"id": "1107172028", "district_id": "110717", "name": "KAMPONG JEUMPA"}, {"id": "1107172029", "district_id": "110717", "name": "PANTE KRUENG"}, {"id": "1107172030", "district_id": "110717", "name": "JURONG PANTE"}, {"id": "1107172032", "district_id": "110717", "name": "MALI LAMKUTA"}, {"id": "1107172033", "district_id": "110717", "name": "MALI UKE"}, {"id": "1107172034", "district_id": "110717", "name": "MALI MESJID"}, {"id": "1107172035", "district_id": "110717", "name": "MALI COT"}, {"id": "1107172036", "district_id": "110717", "name": "TANGKUENG"}, {"id": "1107172037", "district_id": "110717", "name": "LHOK MEE"}, {"id": "1107172038", "district_id": "110717", "name": "LAMEUE MNS. RAYA"}, {"id": "1107172039", "district_id": "110717", "name": "LAMEUE MNS. BARO"}, {"id": "1107172040", "district_id": "110717", "name": "LAMEUE MNS. LUENG"}, {"id": "1107172041", "district_id": "110717", "name": "PULO KEUREUMBOK"}, {"id": "1107172042", "district_id": "110717", "name": "DAYAH KP PISANG"}, {"id": "1107172043", "district_id": "110717", "name": "MNS BLANG SAKTI"}, {"id": "1107172044", "district_id": "110717", "name": "PERLAK BAROH"}, {"id": "1107172045", "district_id": "110717", "name": "LINGKOK"}, {"id": "1107172046", "district_id": "110717", "name": "PASAR KOTA BAKTI"}, {"id": "1107172047", "district_id": "110717", "name": "MNS BALEE"}, {"id": "1107172048", "district_id": "110717", "name": "PERLAK ASAN"}, {"id": "1107172049", "district_id": "110717", "name": "KAMPONG BARO"}, {"id": "1107172050", "district_id": "110717", "name": "MALI GUYUI"}]
+[
+  {
+    "id": "1107172001",
+    "district_id": "110717",
+    "name": "BALUE TANOH"
+  },
+  {
+    "id": "1107172002",
+    "district_id": "110717",
+    "name": "BALUE KULU"
+  },
+  {
+    "id": "1107172003",
+    "district_id": "110717",
+    "name": "LHOK EMPEH"
+  },
+  {
+    "id": "1107172004",
+    "district_id": "110717",
+    "name": "COT SUKON"
+  },
+  {
+    "id": "1107172005",
+    "district_id": "110717",
+    "name": "DAYAH TUHA"
+  },
+  {
+    "id": "1107172006",
+    "district_id": "110717",
+    "name": "KAMPONG COT"
+  },
+  {
+    "id": "1107172007",
+    "district_id": "110717",
+    "name": "PALOH JEUREULA"
+  },
+  {
+    "id": "1107172008",
+    "district_id": "110717",
+    "name": "BARIEH"
+  },
+  {
+    "id": "1107172009",
+    "district_id": "110717",
+    "name": "KANDANG"
+  },
+  {
+    "id": "1107172010",
+    "district_id": "110717",
+    "name": "RIWEUEK"
+  },
+  {
+    "id": "1107172011",
+    "district_id": "110717",
+    "name": "MANCANG"
+  },
+  {
+    "id": "1107172012",
+    "district_id": "110717",
+    "name": "KAMPONG PISANG BUCUE"
+  },
+  {
+    "id": "1107172013",
+    "district_id": "110717",
+    "name": "BUCUE"
+  },
+  {
+    "id": "1107172014",
+    "district_id": "110717",
+    "name": "LHOK PANAH"
+  },
+  {
+    "id": "1107172015",
+    "district_id": "110717",
+    "name": "MURONG COT"
+  },
+  {
+    "id": "1107172016",
+    "district_id": "110717",
+    "name": "CUMBOK LIE"
+  },
+  {
+    "id": "1107172017",
+    "district_id": "110717",
+    "name": "LAM UJONG"
+  },
+  {
+    "id": "1107172018",
+    "district_id": "110717",
+    "name": "MURONG LHOK"
+  },
+  {
+    "id": "1107172019",
+    "district_id": "110717",
+    "name": "BLANG COT"
+  },
+  {
+    "id": "1107172020",
+    "district_id": "110717",
+    "name": "COT CANTEK"
+  },
+  {
+    "id": "1107172021",
+    "district_id": "110717",
+    "name": "BLANG KUMOT BAROH"
+  },
+  {
+    "id": "1107172022",
+    "district_id": "110717",
+    "name": "BLANG KUMOT TUNONG"
+  },
+  {
+    "id": "1107172023",
+    "district_id": "110717",
+    "name": "CUMBOK NIWA"
+  },
+  {
+    "id": "1107172024",
+    "district_id": "110717",
+    "name": "LEUPEUEM MESJID"
+  },
+  {
+    "id": "1107172025",
+    "district_id": "110717",
+    "name": "PULO JEUMPA"
+  },
+  {
+    "id": "1107172026",
+    "district_id": "110717",
+    "name": "BEUTONG POCUT"
+  },
+  {
+    "id": "1107172027",
+    "district_id": "110717",
+    "name": "BEUTONG PERLAK"
+  },
+  {
+    "id": "1107172028",
+    "district_id": "110717",
+    "name": "KAMPONG JEUMPA"
+  },
+  {
+    "id": "1107172029",
+    "district_id": "110717",
+    "name": "PANTE KRUENG"
+  },
+  {
+    "id": "1107172030",
+    "district_id": "110717",
+    "name": "JURONG PANTE"
+  },
+  {
+    "id": "1107172032",
+    "district_id": "110717",
+    "name": "MALI LAMKUTA"
+  },
+  {
+    "id": "1107172033",
+    "district_id": "110717",
+    "name": "MALI UKE"
+  },
+  {
+    "id": "1107172034",
+    "district_id": "110717",
+    "name": "MALI MESJID"
+  },
+  {
+    "id": "1107172035",
+    "district_id": "110717",
+    "name": "MALI COT"
+  },
+  {
+    "id": "1107172036",
+    "district_id": "110717",
+    "name": "TANGKUENG"
+  },
+  {
+    "id": "1107172037",
+    "district_id": "110717",
+    "name": "LHOK MEE"
+  },
+  {
+    "id": "1107172038",
+    "district_id": "110717",
+    "name": "LAMEUE MNS. RAYA"
+  },
+  {
+    "id": "1107172039",
+    "district_id": "110717",
+    "name": "LAMEUE MNS. BARO"
+  },
+  {
+    "id": "1107172040",
+    "district_id": "110717",
+    "name": "LAMEUE MNS. LUENG"
+  },
+  {
+    "id": "1107172041",
+    "district_id": "110717",
+    "name": "PULO KEUREUMBOK"
+  },
+  {
+    "id": "1107172042",
+    "district_id": "110717",
+    "name": "DAYAH KP PISANG"
+  },
+  {
+    "id": "1107172043",
+    "district_id": "110717",
+    "name": "MNS BLANG SAKTI"
+  },
+  {
+    "id": "1107172044",
+    "district_id": "110717",
+    "name": "PERLAK BAROH"
+  },
+  {
+    "id": "1107172045",
+    "district_id": "110717",
+    "name": "LINGKOK"
+  },
+  {
+    "id": "1107172046",
+    "district_id": "110717",
+    "name": "PASAR KOTA BAKTI"
+  },
+  {
+    "id": "1107172047",
+    "district_id": "110717",
+    "name": "MNS BALEE"
+  },
+  {
+    "id": "1107172048",
+    "district_id": "110717",
+    "name": "PERLAK ASAN"
+  },
+  {
+    "id": "1107172049",
+    "district_id": "110717",
+    "name": "KAMPONG BARO"
+  },
+  {
+    "id": "1107172050",
+    "district_id": "110717",
+    "name": "MALI GUYUI"
+  }
+]

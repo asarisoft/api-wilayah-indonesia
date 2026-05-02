@@ -1,1 +1,77 @@
-[{"id": "3503052001", "district_id": "350305", "name": "NGLINGGIS"}, {"id": "3503052002", "district_id": "350305", "name": "GADING"}, {"id": "3503052003", "district_id": "350305", "name": "DUREN"}, {"id": "3503052004", "district_id": "350305", "name": "PUCANGANAK"}, {"id": "3503052005", "district_id": "350305", "name": "NGEPEH"}, {"id": "3503052006", "district_id": "350305", "name": "JAMBU"}, {"id": "3503052007", "district_id": "350305", "name": "DERMOSARI"}, {"id": "3503052008", "district_id": "350305", "name": "SUKOREJO"}, {"id": "3503052009", "district_id": "350305", "name": "TUMPUK"}, {"id": "3503052010", "district_id": "350305", "name": "WINONG"}, {"id": "3503052011", "district_id": "350305", "name": "TEGAREN"}, {"id": "3503052012", "district_id": "350305", "name": "GONDANG"}, {"id": "3503052013", "district_id": "350305", "name": "NGLONGSOR"}, {"id": "3503052014", "district_id": "350305", "name": "BANARAN"}, {"id": "3503052015", "district_id": "350305", "name": "PRAMBON"}]
+[
+  {
+    "id": "3503052001",
+    "district_id": "350305",
+    "name": "NGLINGGIS"
+  },
+  {
+    "id": "3503052002",
+    "district_id": "350305",
+    "name": "GADING"
+  },
+  {
+    "id": "3503052003",
+    "district_id": "350305",
+    "name": "DUREN"
+  },
+  {
+    "id": "3503052004",
+    "district_id": "350305",
+    "name": "PUCANGANAK"
+  },
+  {
+    "id": "3503052005",
+    "district_id": "350305",
+    "name": "NGEPEH"
+  },
+  {
+    "id": "3503052006",
+    "district_id": "350305",
+    "name": "JAMBU"
+  },
+  {
+    "id": "3503052007",
+    "district_id": "350305",
+    "name": "DERMOSARI"
+  },
+  {
+    "id": "3503052008",
+    "district_id": "350305",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3503052009",
+    "district_id": "350305",
+    "name": "TUMPUK"
+  },
+  {
+    "id": "3503052010",
+    "district_id": "350305",
+    "name": "WINONG"
+  },
+  {
+    "id": "3503052011",
+    "district_id": "350305",
+    "name": "TEGAREN"
+  },
+  {
+    "id": "3503052012",
+    "district_id": "350305",
+    "name": "GONDANG"
+  },
+  {
+    "id": "3503052013",
+    "district_id": "350305",
+    "name": "NGLONGSOR"
+  },
+  {
+    "id": "3503052014",
+    "district_id": "350305",
+    "name": "BANARAN"
+  },
+  {
+    "id": "3503052015",
+    "district_id": "350305",
+    "name": "PRAMBON"
+  }
+]

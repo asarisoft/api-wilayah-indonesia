@@ -1,1 +1,47 @@
-[{"id": "1303032001", "district_id": "130303", "name": "TIMBULUN"}, {"id": "1303032002", "district_id": "130303", "name": "TANJUNG GADANG"}, {"id": "1303032003", "district_id": "130303", "name": "TARATAK BARU"}, {"id": "1303032004", "district_id": "130303", "name": "PULASAN"}, {"id": "1303032005", "district_id": "130303", "name": "LANGKI"}, {"id": "1303032006", "district_id": "130303", "name": "SIBAKUR"}, {"id": "1303032007", "district_id": "130303", "name": "TANJUNG LOLO"}, {"id": "1303032008", "district_id": "130303", "name": "TARATAK BARU UTARA"}, {"id": "1303032009", "district_id": "130303", "name": "SINYAMU"}]
+[
+  {
+    "id": "1303032001",
+    "district_id": "130303",
+    "name": "TIMBULUN"
+  },
+  {
+    "id": "1303032002",
+    "district_id": "130303",
+    "name": "TANJUNG GADANG"
+  },
+  {
+    "id": "1303032003",
+    "district_id": "130303",
+    "name": "TARATAK BARU"
+  },
+  {
+    "id": "1303032004",
+    "district_id": "130303",
+    "name": "PULASAN"
+  },
+  {
+    "id": "1303032005",
+    "district_id": "130303",
+    "name": "LANGKI"
+  },
+  {
+    "id": "1303032006",
+    "district_id": "130303",
+    "name": "SIBAKUR"
+  },
+  {
+    "id": "1303032007",
+    "district_id": "130303",
+    "name": "TANJUNG LOLO"
+  },
+  {
+    "id": "1303032008",
+    "district_id": "130303",
+    "name": "TARATAK BARU UTARA"
+  },
+  {
+    "id": "1303032009",
+    "district_id": "130303",
+    "name": "SINYAMU"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "9105042003", "district_id": "910504", "name": "MENAWI"}, {"id": "9105042004", "district_id": "910504", "name": "WADAPI"}, {"id": "9105042009", "district_id": "910504", "name": "KAINUI I"}, {"id": "9105042010", "district_id": "910504", "name": "AITIRI"}, {"id": "9105042011", "district_id": "910504", "name": "WAWUTI"}, {"id": "9105042015", "district_id": "910504", "name": "ROIPI"}, {"id": "9105042016", "district_id": "910504", "name": "RANSARNONI"}, {"id": "9105042021", "district_id": "910504", "name": "KAINUI II"}, {"id": "9105042024", "district_id": "910504", "name": "WANAMPOMPI"}, {"id": "9105042028", "district_id": "910504", "name": "MANANAYAM"}, {"id": "9105042030", "district_id": "910504", "name": "ROIPI DUA"}]
+[
+  {
+    "id": "9105042003",
+    "district_id": "910504",
+    "name": "MENAWI"
+  },
+  {
+    "id": "9105042004",
+    "district_id": "910504",
+    "name": "WADAPI"
+  },
+  {
+    "id": "9105042009",
+    "district_id": "910504",
+    "name": "KAINUI I"
+  },
+  {
+    "id": "9105042010",
+    "district_id": "910504",
+    "name": "AITIRI"
+  },
+  {
+    "id": "9105042011",
+    "district_id": "910504",
+    "name": "WAWUTI"
+  },
+  {
+    "id": "9105042015",
+    "district_id": "910504",
+    "name": "ROIPI"
+  },
+  {
+    "id": "9105042016",
+    "district_id": "910504",
+    "name": "RANSARNONI"
+  },
+  {
+    "id": "9105042021",
+    "district_id": "910504",
+    "name": "KAINUI II"
+  },
+  {
+    "id": "9105042024",
+    "district_id": "910504",
+    "name": "WANAMPOMPI"
+  },
+  {
+    "id": "9105042028",
+    "district_id": "910504",
+    "name": "MANANAYAM"
+  },
+  {
+    "id": "9105042030",
+    "district_id": "910504",
+    "name": "ROIPI DUA"
+  }
+]

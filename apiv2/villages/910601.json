@@ -1,1 +1,112 @@
-[{"id": "9106011001", "district_id": "910601", "name": "SORIDO"}, {"id": "9106011002", "district_id": "910601", "name": "WAUPNOR"}, {"id": "9106011003", "district_id": "910601", "name": "SARAMON"}, {"id": "9106011004", "district_id": "910601", "name": "BUROKUP"}, {"id": "9106011005", "district_id": "910601", "name": "FANDOI"}, {"id": "9106011006", "district_id": "910601", "name": "MANDALA"}, {"id": "9106011016", "district_id": "910601", "name": "YENURES"}, {"id": "9106012007", "district_id": "910601", "name": "MNUBABO"}, {"id": "9106012008", "district_id": "910601", "name": "SWAPODIBO"}, {"id": "9106012009", "district_id": "910601", "name": "MOKMER"}, {"id": "9106012010", "district_id": "910601", "name": "INGGIRI"}, {"id": "9106012011", "district_id": "910601", "name": "PARAI"}, {"id": "9106012012", "district_id": "910601", "name": "SAMAU"}, {"id": "9106012013", "district_id": "910601", "name": "INSROM"}, {"id": "9106012014", "district_id": "910601", "name": "ANGGRAIDI"}, {"id": "9106012015", "district_id": "910601", "name": "MANSWAM"}, {"id": "9106012017", "district_id": "910601", "name": "SANUMI"}, {"id": "9106012018", "district_id": "910601", "name": "MANGGANDISAPI"}, {"id": "9106012019", "district_id": "910601", "name": "KARYENDI"}, {"id": "9106012020", "district_id": "910601", "name": "KABABUR"}, {"id": "9106012021", "district_id": "910601", "name": "BABRINBO"}, {"id": "9106012022", "district_id": "910601", "name": "INGGUPI"}]
+[
+  {
+    "id": "9106011001",
+    "district_id": "910601",
+    "name": "SORIDO"
+  },
+  {
+    "id": "9106011002",
+    "district_id": "910601",
+    "name": "WAUPNOR"
+  },
+  {
+    "id": "9106011003",
+    "district_id": "910601",
+    "name": "SARAMON"
+  },
+  {
+    "id": "9106011004",
+    "district_id": "910601",
+    "name": "BUROKUP"
+  },
+  {
+    "id": "9106011005",
+    "district_id": "910601",
+    "name": "FANDOI"
+  },
+  {
+    "id": "9106011006",
+    "district_id": "910601",
+    "name": "MANDALA"
+  },
+  {
+    "id": "9106011016",
+    "district_id": "910601",
+    "name": "YENURES"
+  },
+  {
+    "id": "9106012007",
+    "district_id": "910601",
+    "name": "MNUBABO"
+  },
+  {
+    "id": "9106012008",
+    "district_id": "910601",
+    "name": "SWAPODIBO"
+  },
+  {
+    "id": "9106012009",
+    "district_id": "910601",
+    "name": "MOKMER"
+  },
+  {
+    "id": "9106012010",
+    "district_id": "910601",
+    "name": "INGGIRI"
+  },
+  {
+    "id": "9106012011",
+    "district_id": "910601",
+    "name": "PARAI"
+  },
+  {
+    "id": "9106012012",
+    "district_id": "910601",
+    "name": "SAMAU"
+  },
+  {
+    "id": "9106012013",
+    "district_id": "910601",
+    "name": "INSROM"
+  },
+  {
+    "id": "9106012014",
+    "district_id": "910601",
+    "name": "ANGGRAIDI"
+  },
+  {
+    "id": "9106012015",
+    "district_id": "910601",
+    "name": "MANSWAM"
+  },
+  {
+    "id": "9106012017",
+    "district_id": "910601",
+    "name": "SANUMI"
+  },
+  {
+    "id": "9106012018",
+    "district_id": "910601",
+    "name": "MANGGANDISAPI"
+  },
+  {
+    "id": "9106012019",
+    "district_id": "910601",
+    "name": "KARYENDI"
+  },
+  {
+    "id": "9106012020",
+    "district_id": "910601",
+    "name": "KABABUR"
+  },
+  {
+    "id": "9106012021",
+    "district_id": "910601",
+    "name": "BABRINBO"
+  },
+  {
+    "id": "9106012022",
+    "district_id": "910601",
+    "name": "INGGUPI"
+  }
+]

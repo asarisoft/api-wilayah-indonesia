@@ -1,1 +1,42 @@
-[{"id": "6108032001", "district_id": "610803", "name": "SEPAHAT"}, {"id": "6108032002", "district_id": "610803", "name": "LAMOANAK"}, {"id": "6108032003", "district_id": "610803", "name": "BENGKAWE"}, {"id": "6108032004", "district_id": "610803", "name": "TEMPOAK"}, {"id": "6108032005", "district_id": "610803", "name": "RE'ES"}, {"id": "6108032006", "district_id": "610803", "name": "RABA"}, {"id": "6108032007", "district_id": "610803", "name": "NANGKA"}, {"id": "6108032008", "district_id": "610803", "name": "MENJALIN"}]
+[
+  {
+    "id": "6108032001",
+    "district_id": "610803",
+    "name": "SEPAHAT"
+  },
+  {
+    "id": "6108032002",
+    "district_id": "610803",
+    "name": "LAMOANAK"
+  },
+  {
+    "id": "6108032003",
+    "district_id": "610803",
+    "name": "BENGKAWE"
+  },
+  {
+    "id": "6108032004",
+    "district_id": "610803",
+    "name": "TEMPOAK"
+  },
+  {
+    "id": "6108032005",
+    "district_id": "610803",
+    "name": "RE'ES"
+  },
+  {
+    "id": "6108032006",
+    "district_id": "610803",
+    "name": "RABA"
+  },
+  {
+    "id": "6108032007",
+    "district_id": "610803",
+    "name": "NANGKA"
+  },
+  {
+    "id": "6108032008",
+    "district_id": "610803",
+    "name": "MENJALIN"
+  }
+]

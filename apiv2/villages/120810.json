@@ -1,1 +1,52 @@
-[{"id": "1208101009", "district_id": "120810", "name": "SIPOLHA HORISAN"}, {"id": "1208102001", "district_id": "120810", "name": "SAIT BUTTU SARIBU"}, {"id": "1208102002", "district_id": "120810", "name": "PAMATANG SIDAMANIK"}, {"id": "1208102003", "district_id": "120810", "name": "SARIMATTIN"}, {"id": "1208102004", "district_id": "120810", "name": "BANDAR MANIK"}, {"id": "1208102005", "district_id": "120810", "name": "JORLANG HULUAN"}, {"id": "1208102006", "district_id": "120810", "name": "SIHAPORAS"}, {"id": "1208102007", "district_id": "120810", "name": "PEMATANG TAMBUN RAYA"}, {"id": "1208102008", "district_id": "120810", "name": "SIMANTIN"}, {"id": "1208102010", "district_id": "120810", "name": "GORAK"}]
+[
+  {
+    "id": "1208101009",
+    "district_id": "120810",
+    "name": "SIPOLHA HORISAN"
+  },
+  {
+    "id": "1208102001",
+    "district_id": "120810",
+    "name": "SAIT BUTTU SARIBU"
+  },
+  {
+    "id": "1208102002",
+    "district_id": "120810",
+    "name": "PAMATANG SIDAMANIK"
+  },
+  {
+    "id": "1208102003",
+    "district_id": "120810",
+    "name": "SARIMATTIN"
+  },
+  {
+    "id": "1208102004",
+    "district_id": "120810",
+    "name": "BANDAR MANIK"
+  },
+  {
+    "id": "1208102005",
+    "district_id": "120810",
+    "name": "JORLANG HULUAN"
+  },
+  {
+    "id": "1208102006",
+    "district_id": "120810",
+    "name": "SIHAPORAS"
+  },
+  {
+    "id": "1208102007",
+    "district_id": "120810",
+    "name": "PEMATANG TAMBUN RAYA"
+  },
+  {
+    "id": "1208102008",
+    "district_id": "120810",
+    "name": "SIMANTIN"
+  },
+  {
+    "id": "1208102010",
+    "district_id": "120810",
+    "name": "GORAK"
+  }
+]

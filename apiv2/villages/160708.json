@@ -1,1 +1,82 @@
-[{"id": "1607082007", "district_id": "160708", "name": "MARGA RAHAYU"}, {"id": "1607082008", "district_id": "160708", "name": "SUMBER MULYA"}, {"id": "1607082009", "district_id": "160708", "name": "SUMBER HIDUP"}, {"id": "1607082010", "district_id": "160708", "name": "TELANG REJO"}, {"id": "1607082011", "district_id": "160708", "name": "TELANG JAYA"}, {"id": "1607082013", "district_id": "160708", "name": "TELANG MAKMUR"}, {"id": "1607082014", "district_id": "160708", "name": "TELANG KARYA"}, {"id": "1607082015", "district_id": "160708", "name": "PANCA MUKTI"}, {"id": "1607082016", "district_id": "160708", "name": "MUKTI JAYA"}, {"id": "1607082019", "district_id": "160708", "name": "MEKAR SARI"}, {"id": "1607082024", "district_id": "160708", "name": "TALANG INDAH"}, {"id": "1607082025", "district_id": "160708", "name": "MEKAR MUKTI"}, {"id": "1607082026", "district_id": "160708", "name": "UPANG JAYA"}, {"id": "1607082027", "district_id": "160708", "name": "UPANG KARYA"}, {"id": "1607082028", "district_id": "160708", "name": "UPANG CEMARA"}, {"id": "1607082029", "district_id": "160708", "name": "UPANG CERIA"}]
+[
+  {
+    "id": "1607082007",
+    "district_id": "160708",
+    "name": "MARGA RAHAYU"
+  },
+  {
+    "id": "1607082008",
+    "district_id": "160708",
+    "name": "SUMBER MULYA"
+  },
+  {
+    "id": "1607082009",
+    "district_id": "160708",
+    "name": "SUMBER HIDUP"
+  },
+  {
+    "id": "1607082010",
+    "district_id": "160708",
+    "name": "TELANG REJO"
+  },
+  {
+    "id": "1607082011",
+    "district_id": "160708",
+    "name": "TELANG JAYA"
+  },
+  {
+    "id": "1607082013",
+    "district_id": "160708",
+    "name": "TELANG MAKMUR"
+  },
+  {
+    "id": "1607082014",
+    "district_id": "160708",
+    "name": "TELANG KARYA"
+  },
+  {
+    "id": "1607082015",
+    "district_id": "160708",
+    "name": "PANCA MUKTI"
+  },
+  {
+    "id": "1607082016",
+    "district_id": "160708",
+    "name": "MUKTI JAYA"
+  },
+  {
+    "id": "1607082019",
+    "district_id": "160708",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "1607082024",
+    "district_id": "160708",
+    "name": "TALANG INDAH"
+  },
+  {
+    "id": "1607082025",
+    "district_id": "160708",
+    "name": "MEKAR MUKTI"
+  },
+  {
+    "id": "1607082026",
+    "district_id": "160708",
+    "name": "UPANG JAYA"
+  },
+  {
+    "id": "1607082027",
+    "district_id": "160708",
+    "name": "UPANG KARYA"
+  },
+  {
+    "id": "1607082028",
+    "district_id": "160708",
+    "name": "UPANG CEMARA"
+  },
+  {
+    "id": "1607082029",
+    "district_id": "160708",
+    "name": "UPANG CERIA"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1215012001", "district_id": "121501", "name": "TANJUNG MERIAH"}, {"id": "1215012002", "district_id": "121501", "name": "TANJUNG MULIA"}, {"id": "1215012003", "district_id": "121501", "name": "KABAN TENGAH"}, {"id": "1215012004", "district_id": "121501", "name": "BANDAR BARU"}, {"id": "1215012005", "district_id": "121501", "name": "SIMBERRUNA"}, {"id": "1215012006", "district_id": "121501", "name": "PEROLIHEN"}, {"id": "1215012007", "district_id": "121501", "name": "MAHOLIDA"}, {"id": "1215012008", "district_id": "121501", "name": "PERJAGA"}, {"id": "1215012009", "district_id": "121501", "name": "MALUM"}, {"id": "1215012010", "district_id": "121501", "name": "MBINALUN"}]
+[
+  {
+    "id": "1215012001",
+    "district_id": "121501",
+    "name": "TANJUNG MERIAH"
+  },
+  {
+    "id": "1215012002",
+    "district_id": "121501",
+    "name": "TANJUNG MULIA"
+  },
+  {
+    "id": "1215012003",
+    "district_id": "121501",
+    "name": "KABAN TENGAH"
+  },
+  {
+    "id": "1215012004",
+    "district_id": "121501",
+    "name": "BANDAR BARU"
+  },
+  {
+    "id": "1215012005",
+    "district_id": "121501",
+    "name": "SIMBERRUNA"
+  },
+  {
+    "id": "1215012006",
+    "district_id": "121501",
+    "name": "PEROLIHEN"
+  },
+  {
+    "id": "1215012007",
+    "district_id": "121501",
+    "name": "MAHOLIDA"
+  },
+  {
+    "id": "1215012008",
+    "district_id": "121501",
+    "name": "PERJAGA"
+  },
+  {
+    "id": "1215012009",
+    "district_id": "121501",
+    "name": "MALUM"
+  },
+  {
+    "id": "1215012010",
+    "district_id": "121501",
+    "name": "MBINALUN"
+  }
+]

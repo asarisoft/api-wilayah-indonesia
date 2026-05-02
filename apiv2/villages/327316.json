@@ -1,1 +1,32 @@
-[{"id": "3273161001", "district_id": "327316", "name": "SUKAPURA"}, {"id": "3273161002", "district_id": "327316", "name": "KEBON JAYANTI"}, {"id": "3273161003", "district_id": "327316", "name": "BABAKAN SURABAYA"}, {"id": "3273161004", "district_id": "327316", "name": "CICAHEUM"}, {"id": "3273161005", "district_id": "327316", "name": "BABAKAN SARI"}, {"id": "3273161006", "district_id": "327316", "name": "KEBON KANGKUNG"}]
+[
+  {
+    "id": "3273161001",
+    "district_id": "327316",
+    "name": "SUKAPURA"
+  },
+  {
+    "id": "3273161002",
+    "district_id": "327316",
+    "name": "KEBON JAYANTI"
+  },
+  {
+    "id": "3273161003",
+    "district_id": "327316",
+    "name": "BABAKAN SURABAYA"
+  },
+  {
+    "id": "3273161004",
+    "district_id": "327316",
+    "name": "CICAHEUM"
+  },
+  {
+    "id": "3273161005",
+    "district_id": "327316",
+    "name": "BABAKAN SARI"
+  },
+  {
+    "id": "3273161006",
+    "district_id": "327316",
+    "name": "KEBON KANGKUNG"
+  }
+]

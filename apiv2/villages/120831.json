@@ -1,1 +1,52 @@
-[{"id": "1208312001", "district_id": "120831", "name": "UJUNG SARIBU"}, {"id": "1208312002", "district_id": "120831", "name": "SILIMAKUTA BARAT"}, {"id": "1208312003", "district_id": "120831", "name": "SIBORAS"}, {"id": "1208312004", "district_id": "120831", "name": "MARDINGDING"}, {"id": "1208312005", "district_id": "120831", "name": "NAGA SARIBU"}, {"id": "1208312007", "district_id": "120831", "name": "SARIBU JANDI"}, {"id": "1208312008", "district_id": "120831", "name": "SINAR NAGA MARIAH"}, {"id": "1208312009", "district_id": "120831", "name": "UJUNG MARIAH"}, {"id": "1208312010", "district_id": "120831", "name": "BANDAR SARIBU"}, {"id": "1208312011", "district_id": "120831", "name": "NAGA BOSAR"}]
+[
+  {
+    "id": "1208312001",
+    "district_id": "120831",
+    "name": "UJUNG SARIBU"
+  },
+  {
+    "id": "1208312002",
+    "district_id": "120831",
+    "name": "SILIMAKUTA BARAT"
+  },
+  {
+    "id": "1208312003",
+    "district_id": "120831",
+    "name": "SIBORAS"
+  },
+  {
+    "id": "1208312004",
+    "district_id": "120831",
+    "name": "MARDINGDING"
+  },
+  {
+    "id": "1208312005",
+    "district_id": "120831",
+    "name": "NAGA SARIBU"
+  },
+  {
+    "id": "1208312007",
+    "district_id": "120831",
+    "name": "SARIBU JANDI"
+  },
+  {
+    "id": "1208312008",
+    "district_id": "120831",
+    "name": "SINAR NAGA MARIAH"
+  },
+  {
+    "id": "1208312009",
+    "district_id": "120831",
+    "name": "UJUNG MARIAH"
+  },
+  {
+    "id": "1208312010",
+    "district_id": "120831",
+    "name": "BANDAR SARIBU"
+  },
+  {
+    "id": "1208312011",
+    "district_id": "120831",
+    "name": "NAGA BOSAR"
+  }
+]

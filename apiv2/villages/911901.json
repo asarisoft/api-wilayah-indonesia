@@ -1,1 +1,37 @@
-[{"id": "9119012003", "district_id": "911901", "name": "FANINDI"}, {"id": "9119012004", "district_id": "911901", "name": "ODORI"}, {"id": "9119012010", "district_id": "911901", "name": "BINIKI"}, {"id": "9119012011", "district_id": "911901", "name": "DIDIABOLO"}, {"id": "9119012015", "district_id": "911901", "name": "WARBEFONDI"}, {"id": "9119012016", "district_id": "911901", "name": "AWAKI"}, {"id": "9119012019", "district_id": "911901", "name": "MARYAIDORI"}]
+[
+  {
+    "id": "9119012003",
+    "district_id": "911901",
+    "name": "FANINDI"
+  },
+  {
+    "id": "9119012004",
+    "district_id": "911901",
+    "name": "ODORI"
+  },
+  {
+    "id": "9119012010",
+    "district_id": "911901",
+    "name": "BINIKI"
+  },
+  {
+    "id": "9119012011",
+    "district_id": "911901",
+    "name": "DIDIABOLO"
+  },
+  {
+    "id": "9119012015",
+    "district_id": "911901",
+    "name": "WARBEFONDI"
+  },
+  {
+    "id": "9119012016",
+    "district_id": "911901",
+    "name": "AWAKI"
+  },
+  {
+    "id": "9119012019",
+    "district_id": "911901",
+    "name": "MARYAIDORI"
+  }
+]

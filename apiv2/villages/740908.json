@@ -1,1 +1,87 @@
-[{"id": "7409081009", "district_id": "740908", "name": "LINOMOIYO"}, {"id": "7409082001", "district_id": "740908", "name": "LARONAHA"}, {"id": "7409082002", "district_id": "740908", "name": "BANDAEHA"}, {"id": "7409082003", "district_id": "740908", "name": "KOTA MAJU"}, {"id": "7409082004", "district_id": "740908", "name": "LANDAWE"}, {"id": "7409082005", "district_id": "740908", "name": "WIWIRANO"}, {"id": "7409082006", "district_id": "740908", "name": "MOPUTE"}, {"id": "7409082007", "district_id": "740908", "name": "TADOLOIYO"}, {"id": "7409082008", "district_id": "740908", "name": "PUUHIALU"}, {"id": "7409082010", "district_id": "740908", "name": "SAMBANDETE"}, {"id": "7409082011", "district_id": "740908", "name": "PAKA INDAH"}, {"id": "7409082013", "district_id": "740908", "name": "LAMEORU"}, {"id": "7409082014", "district_id": "740908", "name": "WALANDAWE"}, {"id": "7409082015", "district_id": "740908", "name": "BENDEWUTA"}, {"id": "7409082016", "district_id": "740908", "name": "TINONDO"}, {"id": "7409082018", "district_id": "740908", "name": "HOROE"}, {"id": "7409082019", "district_id": "740908", "name": "TADOLOIYO TRANS"}]
+[
+  {
+    "id": "7409081009",
+    "district_id": "740908",
+    "name": "LINOMOIYO"
+  },
+  {
+    "id": "7409082001",
+    "district_id": "740908",
+    "name": "LARONAHA"
+  },
+  {
+    "id": "7409082002",
+    "district_id": "740908",
+    "name": "BANDAEHA"
+  },
+  {
+    "id": "7409082003",
+    "district_id": "740908",
+    "name": "KOTA MAJU"
+  },
+  {
+    "id": "7409082004",
+    "district_id": "740908",
+    "name": "LANDAWE"
+  },
+  {
+    "id": "7409082005",
+    "district_id": "740908",
+    "name": "WIWIRANO"
+  },
+  {
+    "id": "7409082006",
+    "district_id": "740908",
+    "name": "MOPUTE"
+  },
+  {
+    "id": "7409082007",
+    "district_id": "740908",
+    "name": "TADOLOIYO"
+  },
+  {
+    "id": "7409082008",
+    "district_id": "740908",
+    "name": "PUUHIALU"
+  },
+  {
+    "id": "7409082010",
+    "district_id": "740908",
+    "name": "SAMBANDETE"
+  },
+  {
+    "id": "7409082011",
+    "district_id": "740908",
+    "name": "PAKA INDAH"
+  },
+  {
+    "id": "7409082013",
+    "district_id": "740908",
+    "name": "LAMEORU"
+  },
+  {
+    "id": "7409082014",
+    "district_id": "740908",
+    "name": "WALANDAWE"
+  },
+  {
+    "id": "7409082015",
+    "district_id": "740908",
+    "name": "BENDEWUTA"
+  },
+  {
+    "id": "7409082016",
+    "district_id": "740908",
+    "name": "TINONDO"
+  },
+  {
+    "id": "7409082018",
+    "district_id": "740908",
+    "name": "HOROE"
+  },
+  {
+    "id": "7409082019",
+    "district_id": "740908",
+    "name": "TADOLOIYO TRANS"
+  }
+]

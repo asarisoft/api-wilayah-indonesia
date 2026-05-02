@@ -1,1 +1,92 @@
-[{"id": "3212151001", "district_id": "321215", "name": "BOJONGSARI"}, {"id": "3212151002", "district_id": "321215", "name": "KEPANDEAN"}, {"id": "3212151003", "district_id": "321215", "name": "KARANGMALANG"}, {"id": "3212151004", "district_id": "321215", "name": "KARANGANYAR"}, {"id": "3212151005", "district_id": "321215", "name": "LEMAHMEKAR"}, {"id": "3212151006", "district_id": "321215", "name": "LEMAHABANG"}, {"id": "3212151007", "district_id": "321215", "name": "MARGADADI"}, {"id": "3212151008", "district_id": "321215", "name": "PAOMAN"}, {"id": "3212152009", "district_id": "321215", "name": "TELUKAGUNG"}, {"id": "3212152010", "district_id": "321215", "name": "PLUMBON"}, {"id": "3212152011", "district_id": "321215", "name": "DUKUH"}, {"id": "3212152012", "district_id": "321215", "name": "PEKANDANGAN JAYA"}, {"id": "3212152013", "district_id": "321215", "name": "SINGARAJA"}, {"id": "3212152014", "district_id": "321215", "name": "SINGAJAYA"}, {"id": "3212152015", "district_id": "321215", "name": "PEKANDANGAN"}, {"id": "3212152016", "district_id": "321215", "name": "KARANGSONG"}, {"id": "3212152017", "district_id": "321215", "name": "PABEANUDIK"}, {"id": "3212152020", "district_id": "321215", "name": "TAMBAK"}]
+[
+  {
+    "id": "3212151001",
+    "district_id": "321215",
+    "name": "BOJONGSARI"
+  },
+  {
+    "id": "3212151002",
+    "district_id": "321215",
+    "name": "KEPANDEAN"
+  },
+  {
+    "id": "3212151003",
+    "district_id": "321215",
+    "name": "KARANGMALANG"
+  },
+  {
+    "id": "3212151004",
+    "district_id": "321215",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3212151005",
+    "district_id": "321215",
+    "name": "LEMAHMEKAR"
+  },
+  {
+    "id": "3212151006",
+    "district_id": "321215",
+    "name": "LEMAHABANG"
+  },
+  {
+    "id": "3212151007",
+    "district_id": "321215",
+    "name": "MARGADADI"
+  },
+  {
+    "id": "3212151008",
+    "district_id": "321215",
+    "name": "PAOMAN"
+  },
+  {
+    "id": "3212152009",
+    "district_id": "321215",
+    "name": "TELUKAGUNG"
+  },
+  {
+    "id": "3212152010",
+    "district_id": "321215",
+    "name": "PLUMBON"
+  },
+  {
+    "id": "3212152011",
+    "district_id": "321215",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3212152012",
+    "district_id": "321215",
+    "name": "PEKANDANGAN JAYA"
+  },
+  {
+    "id": "3212152013",
+    "district_id": "321215",
+    "name": "SINGARAJA"
+  },
+  {
+    "id": "3212152014",
+    "district_id": "321215",
+    "name": "SINGAJAYA"
+  },
+  {
+    "id": "3212152015",
+    "district_id": "321215",
+    "name": "PEKANDANGAN"
+  },
+  {
+    "id": "3212152016",
+    "district_id": "321215",
+    "name": "KARANGSONG"
+  },
+  {
+    "id": "3212152017",
+    "district_id": "321215",
+    "name": "PABEANUDIK"
+  },
+  {
+    "id": "3212152020",
+    "district_id": "321215",
+    "name": "TAMBAK"
+  }
+]

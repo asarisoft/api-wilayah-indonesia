@@ -1,1 +1,167 @@
-[{"id": "1108092001", "district_id": "110809", "name": "TANJONG PINEUNG"}, {"id": "1108092002", "district_id": "110809", "name": "MEURUBO PUNTONG"}, {"id": "1108092003", "district_id": "110809", "name": "MANE KAWAN"}, {"id": "1108092004", "district_id": "110809", "name": "ALUE BARUEH"}, {"id": "1108092005", "district_id": "110809", "name": "KEUDE SIMPANG JALAN"}, {"id": "1108092006", "district_id": "110809", "name": "BLANG PHA"}, {"id": "1108092007", "district_id": "110809", "name": "ALUE KIRAN"}, {"id": "1108092008", "district_id": "110809", "name": "BLANG TUE"}, {"id": "1108092009", "district_id": "110809", "name": "COT KAFIRATON"}, {"id": "1108092010", "district_id": "110809", "name": "TANJONG DAMA"}, {"id": "1108092011", "district_id": "110809", "name": "PAYA DUA URAM"}, {"id": "1108092012", "district_id": "110809", "name": "PAYA DUA UJONG"}, {"id": "1108092013", "district_id": "110809", "name": "ALUE CAPLI"}, {"id": "1108092014", "district_id": "110809", "name": "SIMPANG PEUT"}, {"id": "1108092015", "district_id": "110809", "name": "MEUNASAH SAGOE"}, {"id": "1108092016", "district_id": "110809", "name": "MATANG PUNTONG"}, {"id": "1108092017", "district_id": "110809", "name": "MATANG PANYANG"}, {"id": "1108092018", "district_id": "110809", "name": "COT PATISAH"}, {"id": "1108092019", "district_id": "110809", "name": "COT TRUENG"}, {"id": "1108092020", "district_id": "110809", "name": "DARUL AMAN"}, {"id": "1108092021", "district_id": "110809", "name": "MATANG JEULIKAT"}, {"id": "1108092022", "district_id": "110809", "name": "LHOK PUUK"}, {"id": "1108092023", "district_id": "110809", "name": "ULEE RUBEK BARAT"}, {"id": "1108092024", "district_id": "110809", "name": "ULEE RUBEK TIMU"}, {"id": "1108092025", "district_id": "110809", "name": "BANTAYAN"}, {"id": "1108092026", "district_id": "110809", "name": "TEUPIN KUYUEN"}, {"id": "1108092027", "district_id": "110809", "name": "MATANG LADA"}, {"id": "1108092028", "district_id": "110809", "name": "ULEE MATANG"}, {"id": "1108092029", "district_id": "110809", "name": "MATANG KARIENG"}, {"id": "1108092030", "district_id": "110809", "name": "LHOK RAMBIDENG"}, {"id": "1108092031", "district_id": "110809", "name": "MATANG ANOE"}, {"id": "1108092032", "district_id": "110809", "name": "LHOK GEULITUET"}, {"id": "1108092033", "district_id": "110809", "name": "ULEE TITI"}]
+[
+  {
+    "id": "1108092001",
+    "district_id": "110809",
+    "name": "TANJONG PINEUNG"
+  },
+  {
+    "id": "1108092002",
+    "district_id": "110809",
+    "name": "MEURUBO PUNTONG"
+  },
+  {
+    "id": "1108092003",
+    "district_id": "110809",
+    "name": "MANE KAWAN"
+  },
+  {
+    "id": "1108092004",
+    "district_id": "110809",
+    "name": "ALUE BARUEH"
+  },
+  {
+    "id": "1108092005",
+    "district_id": "110809",
+    "name": "KEUDE SIMPANG JALAN"
+  },
+  {
+    "id": "1108092006",
+    "district_id": "110809",
+    "name": "BLANG PHA"
+  },
+  {
+    "id": "1108092007",
+    "district_id": "110809",
+    "name": "ALUE KIRAN"
+  },
+  {
+    "id": "1108092008",
+    "district_id": "110809",
+    "name": "BLANG TUE"
+  },
+  {
+    "id": "1108092009",
+    "district_id": "110809",
+    "name": "COT KAFIRATON"
+  },
+  {
+    "id": "1108092010",
+    "district_id": "110809",
+    "name": "TANJONG DAMA"
+  },
+  {
+    "id": "1108092011",
+    "district_id": "110809",
+    "name": "PAYA DUA URAM"
+  },
+  {
+    "id": "1108092012",
+    "district_id": "110809",
+    "name": "PAYA DUA UJONG"
+  },
+  {
+    "id": "1108092013",
+    "district_id": "110809",
+    "name": "ALUE CAPLI"
+  },
+  {
+    "id": "1108092014",
+    "district_id": "110809",
+    "name": "SIMPANG PEUT"
+  },
+  {
+    "id": "1108092015",
+    "district_id": "110809",
+    "name": "MEUNASAH SAGOE"
+  },
+  {
+    "id": "1108092016",
+    "district_id": "110809",
+    "name": "MATANG PUNTONG"
+  },
+  {
+    "id": "1108092017",
+    "district_id": "110809",
+    "name": "MATANG PANYANG"
+  },
+  {
+    "id": "1108092018",
+    "district_id": "110809",
+    "name": "COT PATISAH"
+  },
+  {
+    "id": "1108092019",
+    "district_id": "110809",
+    "name": "COT TRUENG"
+  },
+  {
+    "id": "1108092020",
+    "district_id": "110809",
+    "name": "DARUL AMAN"
+  },
+  {
+    "id": "1108092021",
+    "district_id": "110809",
+    "name": "MATANG JEULIKAT"
+  },
+  {
+    "id": "1108092022",
+    "district_id": "110809",
+    "name": "LHOK PUUK"
+  },
+  {
+    "id": "1108092023",
+    "district_id": "110809",
+    "name": "ULEE RUBEK BARAT"
+  },
+  {
+    "id": "1108092024",
+    "district_id": "110809",
+    "name": "ULEE RUBEK TIMU"
+  },
+  {
+    "id": "1108092025",
+    "district_id": "110809",
+    "name": "BANTAYAN"
+  },
+  {
+    "id": "1108092026",
+    "district_id": "110809",
+    "name": "TEUPIN KUYUEN"
+  },
+  {
+    "id": "1108092027",
+    "district_id": "110809",
+    "name": "MATANG LADA"
+  },
+  {
+    "id": "1108092028",
+    "district_id": "110809",
+    "name": "ULEE MATANG"
+  },
+  {
+    "id": "1108092029",
+    "district_id": "110809",
+    "name": "MATANG KARIENG"
+  },
+  {
+    "id": "1108092030",
+    "district_id": "110809",
+    "name": "LHOK RAMBIDENG"
+  },
+  {
+    "id": "1108092031",
+    "district_id": "110809",
+    "name": "MATANG ANOE"
+  },
+  {
+    "id": "1108092032",
+    "district_id": "110809",
+    "name": "LHOK GEULITUET"
+  },
+  {
+    "id": "1108092033",
+    "district_id": "110809",
+    "name": "ULEE TITI"
+  }
+]

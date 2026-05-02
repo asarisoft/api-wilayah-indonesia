@@ -1,1 +1,22 @@
-[{"id": "1312112001", "district_id": "131211", "name": "SASAK"}, {"id": "1312112002", "district_id": "131211", "name": "PADANG HARAPAN"}, {"id": "1312112003", "district_id": "131211", "name": "RANAH PASISIE"}, {"id": "1312112004", "district_id": "131211", "name": "MALIGI"}]
+[
+  {
+    "id": "1312112001",
+    "district_id": "131211",
+    "name": "SASAK"
+  },
+  {
+    "id": "1312112002",
+    "district_id": "131211",
+    "name": "PADANG HARAPAN"
+  },
+  {
+    "id": "1312112003",
+    "district_id": "131211",
+    "name": "RANAH PASISIE"
+  },
+  {
+    "id": "1312112004",
+    "district_id": "131211",
+    "name": "MALIGI"
+  }
+]

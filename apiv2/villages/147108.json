@@ -1,1 +1,27 @@
-[{"id": "1471081001", "district_id": "147108", "name": "SIMPANGBARU"}, {"id": "1471081008", "district_id": "147108", "name": "DELIMA"}, {"id": "1471081009", "district_id": "147108", "name": "TOBEKGODANG"}, {"id": "1471081010", "district_id": "147108", "name": "BINAWIDYA"}, {"id": "1471081014", "district_id": "147108", "name": "SUNGAISIBAM"}]
+[
+  {
+    "id": "1471081001",
+    "district_id": "147108",
+    "name": "SIMPANGBARU"
+  },
+  {
+    "id": "1471081008",
+    "district_id": "147108",
+    "name": "DELIMA"
+  },
+  {
+    "id": "1471081009",
+    "district_id": "147108",
+    "name": "TOBEKGODANG"
+  },
+  {
+    "id": "1471081010",
+    "district_id": "147108",
+    "name": "BINAWIDYA"
+  },
+  {
+    "id": "1471081014",
+    "district_id": "147108",
+    "name": "SUNGAISIBAM"
+  }
+]

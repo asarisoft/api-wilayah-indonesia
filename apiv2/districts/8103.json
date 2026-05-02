@@ -1,1 +1,52 @@
-[{"id": "810301", "regency_id": "8103", "name": "TANIMBAR SELATAN"}, {"id": "810302", "regency_id": "8103", "name": "SELARU"}, {"id": "810303", "regency_id": "8103", "name": "WERTAMRIAN"}, {"id": "810304", "regency_id": "8103", "name": "WERMAKTIAN"}, {"id": "810305", "regency_id": "8103", "name": "TANIMBAR UTARA"}, {"id": "810306", "regency_id": "8103", "name": "FORDATA"}, {"id": "810307", "regency_id": "8103", "name": "WUAR LABOBAR"}, {"id": "810308", "regency_id": "8103", "name": "KORMOMOLIN"}, {"id": "810309", "regency_id": "8103", "name": "NIRUNMAS"}, {"id": "810318", "regency_id": "8103", "name": "MOLU MARU"}]
+[
+  {
+    "id": "810301",
+    "regency_id": "8103",
+    "name": "TANIMBAR SELATAN"
+  },
+  {
+    "id": "810302",
+    "regency_id": "8103",
+    "name": "SELARU"
+  },
+  {
+    "id": "810303",
+    "regency_id": "8103",
+    "name": "WERTAMRIAN"
+  },
+  {
+    "id": "810304",
+    "regency_id": "8103",
+    "name": "WERMAKTIAN"
+  },
+  {
+    "id": "810305",
+    "regency_id": "8103",
+    "name": "TANIMBAR UTARA"
+  },
+  {
+    "id": "810306",
+    "regency_id": "8103",
+    "name": "FORDATA"
+  },
+  {
+    "id": "810307",
+    "regency_id": "8103",
+    "name": "WUAR LABOBAR"
+  },
+  {
+    "id": "810308",
+    "regency_id": "8103",
+    "name": "KORMOMOLIN"
+  },
+  {
+    "id": "810309",
+    "regency_id": "8103",
+    "name": "NIRUNMAS"
+  },
+  {
+    "id": "810318",
+    "regency_id": "8103",
+    "name": "MOLU MARU"
+  }
+]

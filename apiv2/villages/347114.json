@@ -1,1 +1,17 @@
-[{"id": "3471141001", "district_id": "347114", "name": "REJOWINANGUN"}, {"id": "3471141002", "district_id": "347114", "name": "PRENGGAN"}, {"id": "3471141003", "district_id": "347114", "name": "PURBAYAN"}]
+[
+  {
+    "id": "3471141001",
+    "district_id": "347114",
+    "name": "REJOWINANGUN"
+  },
+  {
+    "id": "3471141002",
+    "district_id": "347114",
+    "name": "PRENGGAN"
+  },
+  {
+    "id": "3471141003",
+    "district_id": "347114",
+    "name": "PURBAYAN"
+  }
+]

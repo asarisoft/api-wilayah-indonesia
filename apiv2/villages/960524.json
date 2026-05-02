@@ -1,1 +1,47 @@
-[{"id": "9605242001", "district_id": "960524", "name": "SENI"}, {"id": "9605242002", "district_id": "960524", "name": "RENIS"}, {"id": "9605242003", "district_id": "960524", "name": "SIRE"}, {"id": "9605242004", "district_id": "960524", "name": "FASE"}, {"id": "9605242005", "district_id": "960524", "name": "SABES"}, {"id": "9605242006", "district_id": "960524", "name": "KURASO"}, {"id": "9605242007", "district_id": "960524", "name": "SIDI"}, {"id": "9605242008", "district_id": "960524", "name": "OSOM"}, {"id": "9605242009", "district_id": "960524", "name": "SIRE TIMUR"}]
+[
+  {
+    "id": "9605242001",
+    "district_id": "960524",
+    "name": "SENI"
+  },
+  {
+    "id": "9605242002",
+    "district_id": "960524",
+    "name": "RENIS"
+  },
+  {
+    "id": "9605242003",
+    "district_id": "960524",
+    "name": "SIRE"
+  },
+  {
+    "id": "9605242004",
+    "district_id": "960524",
+    "name": "FASE"
+  },
+  {
+    "id": "9605242005",
+    "district_id": "960524",
+    "name": "SABES"
+  },
+  {
+    "id": "9605242006",
+    "district_id": "960524",
+    "name": "KURASO"
+  },
+  {
+    "id": "9605242007",
+    "district_id": "960524",
+    "name": "SIDI"
+  },
+  {
+    "id": "9605242008",
+    "district_id": "960524",
+    "name": "OSOM"
+  },
+  {
+    "id": "9605242009",
+    "district_id": "960524",
+    "name": "SIRE TIMUR"
+  }
+]

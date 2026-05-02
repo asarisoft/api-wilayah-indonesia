@@ -1,1 +1,27 @@
-[{"id": "161201", "regency_id": "1612", "name": "TALANG UBI"}, {"id": "161202", "regency_id": "1612", "name": "PENUKAL UTARA"}, {"id": "161203", "regency_id": "1612", "name": "PENUKAL"}, {"id": "161204", "regency_id": "1612", "name": "ABAB"}, {"id": "161205", "regency_id": "1612", "name": "TANAH ABANG"}]
+[
+  {
+    "id": "161201",
+    "regency_id": "1612",
+    "name": "TALANG UBI"
+  },
+  {
+    "id": "161202",
+    "regency_id": "1612",
+    "name": "PENUKAL UTARA"
+  },
+  {
+    "id": "161203",
+    "regency_id": "1612",
+    "name": "PENUKAL"
+  },
+  {
+    "id": "161204",
+    "regency_id": "1612",
+    "name": "ABAB"
+  },
+  {
+    "id": "161205",
+    "regency_id": "1612",
+    "name": "TANAH ABANG"
+  }
+]

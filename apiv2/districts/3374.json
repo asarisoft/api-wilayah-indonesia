@@ -1,1 +1,82 @@
-[{"id": "337401", "regency_id": "3374", "name": "SEMARANG TENGAH"}, {"id": "337402", "regency_id": "3374", "name": "SEMARANG UTARA"}, {"id": "337403", "regency_id": "3374", "name": "SEMARANG TIMUR"}, {"id": "337404", "regency_id": "3374", "name": "GAYAMSARI"}, {"id": "337405", "regency_id": "3374", "name": "GENUK"}, {"id": "337406", "regency_id": "3374", "name": "PEDURUNGAN"}, {"id": "337407", "regency_id": "3374", "name": "SEMARANG SELATAN"}, {"id": "337408", "regency_id": "3374", "name": "CANDISARI"}, {"id": "337409", "regency_id": "3374", "name": "GAJAHMUNGKUR"}, {"id": "337410", "regency_id": "3374", "name": "TEMBALANG"}, {"id": "337411", "regency_id": "3374", "name": "BANYUMANIK"}, {"id": "337412", "regency_id": "3374", "name": "GUNUNGPATI"}, {"id": "337413", "regency_id": "3374", "name": "SEMARANG BARAT"}, {"id": "337414", "regency_id": "3374", "name": "MIJEN"}, {"id": "337415", "regency_id": "3374", "name": "NGALIYAN"}, {"id": "337416", "regency_id": "3374", "name": "TUGU"}]
+[
+  {
+    "id": "337401",
+    "regency_id": "3374",
+    "name": "SEMARANG TENGAH"
+  },
+  {
+    "id": "337402",
+    "regency_id": "3374",
+    "name": "SEMARANG UTARA"
+  },
+  {
+    "id": "337403",
+    "regency_id": "3374",
+    "name": "SEMARANG TIMUR"
+  },
+  {
+    "id": "337404",
+    "regency_id": "3374",
+    "name": "GAYAMSARI"
+  },
+  {
+    "id": "337405",
+    "regency_id": "3374",
+    "name": "GENUK"
+  },
+  {
+    "id": "337406",
+    "regency_id": "3374",
+    "name": "PEDURUNGAN"
+  },
+  {
+    "id": "337407",
+    "regency_id": "3374",
+    "name": "SEMARANG SELATAN"
+  },
+  {
+    "id": "337408",
+    "regency_id": "3374",
+    "name": "CANDISARI"
+  },
+  {
+    "id": "337409",
+    "regency_id": "3374",
+    "name": "GAJAHMUNGKUR"
+  },
+  {
+    "id": "337410",
+    "regency_id": "3374",
+    "name": "TEMBALANG"
+  },
+  {
+    "id": "337411",
+    "regency_id": "3374",
+    "name": "BANYUMANIK"
+  },
+  {
+    "id": "337412",
+    "regency_id": "3374",
+    "name": "GUNUNGPATI"
+  },
+  {
+    "id": "337413",
+    "regency_id": "3374",
+    "name": "SEMARANG BARAT"
+  },
+  {
+    "id": "337414",
+    "regency_id": "3374",
+    "name": "MIJEN"
+  },
+  {
+    "id": "337415",
+    "regency_id": "3374",
+    "name": "NGALIYAN"
+  },
+  {
+    "id": "337416",
+    "regency_id": "3374",
+    "name": "TUGU"
+  }
+]

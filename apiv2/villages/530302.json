@@ -1,1 +1,67 @@
-[{"id": "5303022001", "district_id": "530302", "name": "NOEPESU"}, {"id": "5303022002", "district_id": "530302", "name": "FATUNENO"}, {"id": "5303022003", "district_id": "530302", "name": "SUANAE"}, {"id": "5303022004", "district_id": "530302", "name": "LEMON"}, {"id": "5303022005", "district_id": "530302", "name": "FATUNISUAN"}, {"id": "5303022006", "district_id": "530302", "name": "HAULASI"}, {"id": "5303022018", "district_id": "530302", "name": "NEOTOKO"}, {"id": "5303022019", "district_id": "530302", "name": "FATUTASU"}, {"id": "5303022020", "district_id": "530302", "name": "MANUSASI"}, {"id": "5303022025", "district_id": "530302", "name": "SAENAM"}, {"id": "5303022026", "district_id": "530302", "name": "EBAN"}, {"id": "5303022027", "district_id": "530302", "name": "SALLU"}, {"id": "5303022028", "district_id": "530302", "name": "SA'TAB"}]
+[
+  {
+    "id": "5303022001",
+    "district_id": "530302",
+    "name": "NOEPESU"
+  },
+  {
+    "id": "5303022002",
+    "district_id": "530302",
+    "name": "FATUNENO"
+  },
+  {
+    "id": "5303022003",
+    "district_id": "530302",
+    "name": "SUANAE"
+  },
+  {
+    "id": "5303022004",
+    "district_id": "530302",
+    "name": "LEMON"
+  },
+  {
+    "id": "5303022005",
+    "district_id": "530302",
+    "name": "FATUNISUAN"
+  },
+  {
+    "id": "5303022006",
+    "district_id": "530302",
+    "name": "HAULASI"
+  },
+  {
+    "id": "5303022018",
+    "district_id": "530302",
+    "name": "NEOTOKO"
+  },
+  {
+    "id": "5303022019",
+    "district_id": "530302",
+    "name": "FATUTASU"
+  },
+  {
+    "id": "5303022020",
+    "district_id": "530302",
+    "name": "MANUSASI"
+  },
+  {
+    "id": "5303022025",
+    "district_id": "530302",
+    "name": "SAENAM"
+  },
+  {
+    "id": "5303022026",
+    "district_id": "530302",
+    "name": "EBAN"
+  },
+  {
+    "id": "5303022027",
+    "district_id": "530302",
+    "name": "SALLU"
+  },
+  {
+    "id": "5303022028",
+    "district_id": "530302",
+    "name": "SA'TAB"
+  }
+]

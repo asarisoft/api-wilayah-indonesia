@@ -1,1 +1,87 @@
-[{"id": "7111012004", "district_id": "711101", "name": "TANGAGAH"}, {"id": "7111012005", "district_id": "711101", "name": "SALONGO"}, {"id": "7111012006", "district_id": "711101", "name": "TOLUAYA"}, {"id": "7111012007", "district_id": "711101", "name": "MOLIBAGU"}, {"id": "7111012008", "district_id": "711101", "name": "POPODU"}, {"id": "7111012009", "district_id": "711101", "name": "TOLONDADU"}, {"id": "7111012010", "district_id": "711101", "name": "TABILAA"}, {"id": "7111012012", "district_id": "711101", "name": "SONDANA"}, {"id": "7111012013", "district_id": "711101", "name": "DUDEPO"}, {"id": "7111012014", "district_id": "711101", "name": "PINOLANTUNGAN"}, {"id": "7111012015", "district_id": "711101", "name": "TOLONDADU I"}, {"id": "7111012016", "district_id": "711101", "name": "TOLONDADU II"}, {"id": "7111012020", "district_id": "711101", "name": "SOGUO"}, {"id": "7111012022", "district_id": "711101", "name": "PINTADIA"}, {"id": "7111012023", "district_id": "711101", "name": "SALONGO TIMUR"}, {"id": "7111012027", "district_id": "711101", "name": "SALONGO BARAT"}, {"id": "7111012028", "district_id": "711101", "name": "DUDEPO BARAT"}]
+[
+  {
+    "id": "7111012004",
+    "district_id": "711101",
+    "name": "TANGAGAH"
+  },
+  {
+    "id": "7111012005",
+    "district_id": "711101",
+    "name": "SALONGO"
+  },
+  {
+    "id": "7111012006",
+    "district_id": "711101",
+    "name": "TOLUAYA"
+  },
+  {
+    "id": "7111012007",
+    "district_id": "711101",
+    "name": "MOLIBAGU"
+  },
+  {
+    "id": "7111012008",
+    "district_id": "711101",
+    "name": "POPODU"
+  },
+  {
+    "id": "7111012009",
+    "district_id": "711101",
+    "name": "TOLONDADU"
+  },
+  {
+    "id": "7111012010",
+    "district_id": "711101",
+    "name": "TABILAA"
+  },
+  {
+    "id": "7111012012",
+    "district_id": "711101",
+    "name": "SONDANA"
+  },
+  {
+    "id": "7111012013",
+    "district_id": "711101",
+    "name": "DUDEPO"
+  },
+  {
+    "id": "7111012014",
+    "district_id": "711101",
+    "name": "PINOLANTUNGAN"
+  },
+  {
+    "id": "7111012015",
+    "district_id": "711101",
+    "name": "TOLONDADU I"
+  },
+  {
+    "id": "7111012016",
+    "district_id": "711101",
+    "name": "TOLONDADU II"
+  },
+  {
+    "id": "7111012020",
+    "district_id": "711101",
+    "name": "SOGUO"
+  },
+  {
+    "id": "7111012022",
+    "district_id": "711101",
+    "name": "PINTADIA"
+  },
+  {
+    "id": "7111012023",
+    "district_id": "711101",
+    "name": "SALONGO TIMUR"
+  },
+  {
+    "id": "7111012027",
+    "district_id": "711101",
+    "name": "SALONGO BARAT"
+  },
+  {
+    "id": "7111012028",
+    "district_id": "711101",
+    "name": "DUDEPO BARAT"
+  }
+]

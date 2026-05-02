@@ -1,1 +1,27 @@
-[{"id": "8205122001", "district_id": "820512", "name": "KAPORO"}, {"id": "8205122002", "district_id": "820512", "name": "WAIKAFIA"}, {"id": "8205122003", "district_id": "820512", "name": "BUYA"}, {"id": "8205122004", "district_id": "820512", "name": "AUPONHIA"}, {"id": "8205122005", "district_id": "820512", "name": "WAILAB"}]
+[
+  {
+    "id": "8205122001",
+    "district_id": "820512",
+    "name": "KAPORO"
+  },
+  {
+    "id": "8205122002",
+    "district_id": "820512",
+    "name": "WAIKAFIA"
+  },
+  {
+    "id": "8205122003",
+    "district_id": "820512",
+    "name": "BUYA"
+  },
+  {
+    "id": "8205122004",
+    "district_id": "820512",
+    "name": "AUPONHIA"
+  },
+  {
+    "id": "8205122005",
+    "district_id": "820512",
+    "name": "WAILAB"
+  }
+]

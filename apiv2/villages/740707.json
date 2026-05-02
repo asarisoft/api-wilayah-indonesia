@@ -1,1 +1,47 @@
-[{"id": "7407071001", "district_id": "740707", "name": "PATIPELONG"}, {"id": "7407071002", "district_id": "740707", "name": "TONGANO BARAT"}, {"id": "7407071003", "district_id": "740707", "name": "BAHARI"}, {"id": "7407071004", "district_id": "740707", "name": "TONGANO TIMUR"}, {"id": "7407072005", "district_id": "740707", "name": "TIMU"}, {"id": "7407072006", "district_id": "740707", "name": "DETE"}, {"id": "7407072007", "district_id": "740707", "name": "KULATI"}, {"id": "7407072008", "district_id": "740707", "name": "WAWAOTIMU"}, {"id": "7407072009", "district_id": "740707", "name": "KAHIYANGA"}]
+[
+  {
+    "id": "7407071001",
+    "district_id": "740707",
+    "name": "PATIPELONG"
+  },
+  {
+    "id": "7407071002",
+    "district_id": "740707",
+    "name": "TONGANO BARAT"
+  },
+  {
+    "id": "7407071003",
+    "district_id": "740707",
+    "name": "BAHARI"
+  },
+  {
+    "id": "7407071004",
+    "district_id": "740707",
+    "name": "TONGANO TIMUR"
+  },
+  {
+    "id": "7407072005",
+    "district_id": "740707",
+    "name": "TIMU"
+  },
+  {
+    "id": "7407072006",
+    "district_id": "740707",
+    "name": "DETE"
+  },
+  {
+    "id": "7407072007",
+    "district_id": "740707",
+    "name": "KULATI"
+  },
+  {
+    "id": "7407072008",
+    "district_id": "740707",
+    "name": "WAWAOTIMU"
+  },
+  {
+    "id": "7407072009",
+    "district_id": "740707",
+    "name": "KAHIYANGA"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "8107042001", "district_id": "810704", "name": "MARLASI"}, {"id": "8107042002", "district_id": "810704", "name": "KOLAMAR"}, {"id": "8107042003", "district_id": "810704", "name": "KABUFIN"}, {"id": "8107042004", "district_id": "810704", "name": "TASINWAHA"}, {"id": "8107042005", "district_id": "810704", "name": "FOKET"}, {"id": "8107042006", "district_id": "810704", "name": "KAIBOLAFIN"}, {"id": "8107042007", "district_id": "810704", "name": "WAHANGULA-NGULA"}, {"id": "8107042008", "district_id": "810704", "name": "WAHAYUM"}, {"id": "8107042009", "district_id": "810704", "name": "WARIALAU"}, {"id": "8107042010", "district_id": "810704", "name": "JERWATU"}, {"id": "8107042013", "district_id": "810704", "name": "SELMONA"}, {"id": "8107042014", "district_id": "810704", "name": "MESIDANG"}]
+[
+  {
+    "id": "8107042001",
+    "district_id": "810704",
+    "name": "MARLASI"
+  },
+  {
+    "id": "8107042002",
+    "district_id": "810704",
+    "name": "KOLAMAR"
+  },
+  {
+    "id": "8107042003",
+    "district_id": "810704",
+    "name": "KABUFIN"
+  },
+  {
+    "id": "8107042004",
+    "district_id": "810704",
+    "name": "TASINWAHA"
+  },
+  {
+    "id": "8107042005",
+    "district_id": "810704",
+    "name": "FOKET"
+  },
+  {
+    "id": "8107042006",
+    "district_id": "810704",
+    "name": "KAIBOLAFIN"
+  },
+  {
+    "id": "8107042007",
+    "district_id": "810704",
+    "name": "WAHANGULA-NGULA"
+  },
+  {
+    "id": "8107042008",
+    "district_id": "810704",
+    "name": "WAHAYUM"
+  },
+  {
+    "id": "8107042009",
+    "district_id": "810704",
+    "name": "WARIALAU"
+  },
+  {
+    "id": "8107042010",
+    "district_id": "810704",
+    "name": "JERWATU"
+  },
+  {
+    "id": "8107042013",
+    "district_id": "810704",
+    "name": "SELMONA"
+  },
+  {
+    "id": "8107042014",
+    "district_id": "810704",
+    "name": "MESIDANG"
+  }
+]

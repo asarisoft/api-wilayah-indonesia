@@ -1,1 +1,42 @@
-[{"id": "3208262001", "district_id": "320826", "name": "CITAPEN"}, {"id": "3208262002", "district_id": "320826", "name": "PASIRAGUNG"}, {"id": "3208262003", "district_id": "320826", "name": "TUNDAGAN"}, {"id": "3208262004", "district_id": "320826", "name": "BUNIGEULIS"}, {"id": "3208262005", "district_id": "320826", "name": "HANTARA"}, {"id": "3208262006", "district_id": "320826", "name": "PAKAPASANGIRANG"}, {"id": "3208262007", "district_id": "320826", "name": "CIKONDANG"}, {"id": "3208262008", "district_id": "320826", "name": "PAKAPASANHILIR"}]
+[
+  {
+    "id": "3208262001",
+    "district_id": "320826",
+    "name": "CITAPEN"
+  },
+  {
+    "id": "3208262002",
+    "district_id": "320826",
+    "name": "PASIRAGUNG"
+  },
+  {
+    "id": "3208262003",
+    "district_id": "320826",
+    "name": "TUNDAGAN"
+  },
+  {
+    "id": "3208262004",
+    "district_id": "320826",
+    "name": "BUNIGEULIS"
+  },
+  {
+    "id": "3208262005",
+    "district_id": "320826",
+    "name": "HANTARA"
+  },
+  {
+    "id": "3208262006",
+    "district_id": "320826",
+    "name": "PAKAPASANGIRANG"
+  },
+  {
+    "id": "3208262007",
+    "district_id": "320826",
+    "name": "CIKONDANG"
+  },
+  {
+    "id": "3208262008",
+    "district_id": "320826",
+    "name": "PAKAPASANHILIR"
+  }
+]

@@ -1,1 +1,132 @@
-[{"id": "3316131017", "district_id": "331613", "name": "KUNDURAN"}, {"id": "3316132001", "district_id": "331613", "name": "BOTORECO"}, {"id": "3316132002", "district_id": "331613", "name": "BULOH"}, {"id": "3316132003", "district_id": "331613", "name": "KEMIRI"}, {"id": "3316132004", "district_id": "331613", "name": "KODOKAN"}, {"id": "3316132005", "district_id": "331613", "name": "SONOKIDUL"}, {"id": "3316132006", "district_id": "331613", "name": "SEMPU"}, {"id": "3316132007", "district_id": "331613", "name": "CUNGKUP"}, {"id": "3316132008", "district_id": "331613", "name": "PLOSOREJO"}, {"id": "3316132009", "district_id": "331613", "name": "NGILEN"}, {"id": "3316132010", "district_id": "331613", "name": "BAKAH"}, {"id": "3316132011", "district_id": "331613", "name": "KALANGREJO"}, {"id": "3316132012", "district_id": "331613", "name": "BLUMBANGREJO"}, {"id": "3316132013", "district_id": "331613", "name": "TAWANGREJO"}, {"id": "3316132014", "district_id": "331613", "name": "KLOKAH"}, {"id": "3316132015", "district_id": "331613", "name": "MURAHARJO"}, {"id": "3316132016", "district_id": "331613", "name": "JAGONG"}, {"id": "3316132018", "district_id": "331613", "name": "GAGAAN"}, {"id": "3316132019", "district_id": "331613", "name": "SAMBIROTO"}, {"id": "3316132020", "district_id": "331613", "name": "BEJIREJO"}, {"id": "3316132021", "district_id": "331613", "name": "JETAK"}, {"id": "3316132022", "district_id": "331613", "name": "KARANGGENENG"}, {"id": "3316132023", "district_id": "331613", "name": "BALONG"}, {"id": "3316132024", "district_id": "331613", "name": "NGAWENOMBO"}, {"id": "3316132025", "district_id": "331613", "name": "SENDANGWATES"}, {"id": "3316132026", "district_id": "331613", "name": "KEDUNGWARU"}]
+[
+  {
+    "id": "3316131017",
+    "district_id": "331613",
+    "name": "KUNDURAN"
+  },
+  {
+    "id": "3316132001",
+    "district_id": "331613",
+    "name": "BOTORECO"
+  },
+  {
+    "id": "3316132002",
+    "district_id": "331613",
+    "name": "BULOH"
+  },
+  {
+    "id": "3316132003",
+    "district_id": "331613",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3316132004",
+    "district_id": "331613",
+    "name": "KODOKAN"
+  },
+  {
+    "id": "3316132005",
+    "district_id": "331613",
+    "name": "SONOKIDUL"
+  },
+  {
+    "id": "3316132006",
+    "district_id": "331613",
+    "name": "SEMPU"
+  },
+  {
+    "id": "3316132007",
+    "district_id": "331613",
+    "name": "CUNGKUP"
+  },
+  {
+    "id": "3316132008",
+    "district_id": "331613",
+    "name": "PLOSOREJO"
+  },
+  {
+    "id": "3316132009",
+    "district_id": "331613",
+    "name": "NGILEN"
+  },
+  {
+    "id": "3316132010",
+    "district_id": "331613",
+    "name": "BAKAH"
+  },
+  {
+    "id": "3316132011",
+    "district_id": "331613",
+    "name": "KALANGREJO"
+  },
+  {
+    "id": "3316132012",
+    "district_id": "331613",
+    "name": "BLUMBANGREJO"
+  },
+  {
+    "id": "3316132013",
+    "district_id": "331613",
+    "name": "TAWANGREJO"
+  },
+  {
+    "id": "3316132014",
+    "district_id": "331613",
+    "name": "KLOKAH"
+  },
+  {
+    "id": "3316132015",
+    "district_id": "331613",
+    "name": "MURAHARJO"
+  },
+  {
+    "id": "3316132016",
+    "district_id": "331613",
+    "name": "JAGONG"
+  },
+  {
+    "id": "3316132018",
+    "district_id": "331613",
+    "name": "GAGAAN"
+  },
+  {
+    "id": "3316132019",
+    "district_id": "331613",
+    "name": "SAMBIROTO"
+  },
+  {
+    "id": "3316132020",
+    "district_id": "331613",
+    "name": "BEJIREJO"
+  },
+  {
+    "id": "3316132021",
+    "district_id": "331613",
+    "name": "JETAK"
+  },
+  {
+    "id": "3316132022",
+    "district_id": "331613",
+    "name": "KARANGGENENG"
+  },
+  {
+    "id": "3316132023",
+    "district_id": "331613",
+    "name": "BALONG"
+  },
+  {
+    "id": "3316132024",
+    "district_id": "331613",
+    "name": "NGAWENOMBO"
+  },
+  {
+    "id": "3316132025",
+    "district_id": "331613",
+    "name": "SENDANGWATES"
+  },
+  {
+    "id": "3316132026",
+    "district_id": "331613",
+    "name": "KEDUNGWARU"
+  }
+]

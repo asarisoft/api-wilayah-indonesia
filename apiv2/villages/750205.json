@@ -1,1 +1,47 @@
-[{"id": "7502052001", "district_id": "750205", "name": "TABULO"}, {"id": "7502052002", "district_id": "750205", "name": "KAARUYAN"}, {"id": "7502052003", "district_id": "750205", "name": "SALILAMA"}, {"id": "7502052004", "district_id": "750205", "name": "BENDUNGAN"}, {"id": "7502052005", "district_id": "750205", "name": "MANANGGU"}, {"id": "7502052006", "district_id": "750205", "name": "BUTI"}, {"id": "7502052007", "district_id": "750205", "name": "PONTOLO"}, {"id": "7502052008", "district_id": "750205", "name": "KRAMAT"}, {"id": "7502052009", "district_id": "750205", "name": "TABULO SELATAN"}]
+[
+  {
+    "id": "7502052001",
+    "district_id": "750205",
+    "name": "TABULO"
+  },
+  {
+    "id": "7502052002",
+    "district_id": "750205",
+    "name": "KAARUYAN"
+  },
+  {
+    "id": "7502052003",
+    "district_id": "750205",
+    "name": "SALILAMA"
+  },
+  {
+    "id": "7502052004",
+    "district_id": "750205",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "7502052005",
+    "district_id": "750205",
+    "name": "MANANGGU"
+  },
+  {
+    "id": "7502052006",
+    "district_id": "750205",
+    "name": "BUTI"
+  },
+  {
+    "id": "7502052007",
+    "district_id": "750205",
+    "name": "PONTOLO"
+  },
+  {
+    "id": "7502052008",
+    "district_id": "750205",
+    "name": "KRAMAT"
+  },
+  {
+    "id": "7502052009",
+    "district_id": "750205",
+    "name": "TABULO SELATAN"
+  }
+]

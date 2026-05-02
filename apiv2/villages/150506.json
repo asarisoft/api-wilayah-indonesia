@@ -1,1 +1,92 @@
-[{"id": "1505062001", "district_id": "150506", "name": "PUDAK"}, {"id": "1505062002", "district_id": "150506", "name": "MUARA KUMPEH"}, {"id": "1505062003", "district_id": "150506", "name": "KOTA KARANG"}, {"id": "1505062004", "district_id": "150506", "name": "KASANG LOPAK ALAI"}, {"id": "1505062005", "district_id": "150506", "name": "KASANG PUDAK"}, {"id": "1505062008", "district_id": "150506", "name": "SOLOK"}, {"id": "1505062009", "district_id": "150506", "name": "SAKEAN"}, {"id": "1505062010", "district_id": "150506", "name": "LOPAK ALAI"}, {"id": "1505062011", "district_id": "150506", "name": "TARIKAN"}, {"id": "1505062012", "district_id": "150506", "name": "RAMIN"}, {"id": "1505062013", "district_id": "150506", "name": "TELUK RAYA"}, {"id": "1505062014", "district_id": "150506", "name": "PEMUNDURAN"}, {"id": "1505062015", "district_id": "150506", "name": "SIPIN TELUK DUREN"}, {"id": "1505062016", "district_id": "150506", "name": "ARANG ARANG"}, {"id": "1505062017", "district_id": "150506", "name": "SUMBER JAYA"}, {"id": "1505062018", "district_id": "150506", "name": "SUNGAI TERAP"}, {"id": "1505062023", "district_id": "150506", "name": "KASANG KUMPEH"}, {"id": "1505062024", "district_id": "150506", "name": "KASANG KOTA KARANG"}]
+[
+  {
+    "id": "1505062001",
+    "district_id": "150506",
+    "name": "PUDAK"
+  },
+  {
+    "id": "1505062002",
+    "district_id": "150506",
+    "name": "MUARA KUMPEH"
+  },
+  {
+    "id": "1505062003",
+    "district_id": "150506",
+    "name": "KOTA KARANG"
+  },
+  {
+    "id": "1505062004",
+    "district_id": "150506",
+    "name": "KASANG LOPAK ALAI"
+  },
+  {
+    "id": "1505062005",
+    "district_id": "150506",
+    "name": "KASANG PUDAK"
+  },
+  {
+    "id": "1505062008",
+    "district_id": "150506",
+    "name": "SOLOK"
+  },
+  {
+    "id": "1505062009",
+    "district_id": "150506",
+    "name": "SAKEAN"
+  },
+  {
+    "id": "1505062010",
+    "district_id": "150506",
+    "name": "LOPAK ALAI"
+  },
+  {
+    "id": "1505062011",
+    "district_id": "150506",
+    "name": "TARIKAN"
+  },
+  {
+    "id": "1505062012",
+    "district_id": "150506",
+    "name": "RAMIN"
+  },
+  {
+    "id": "1505062013",
+    "district_id": "150506",
+    "name": "TELUK RAYA"
+  },
+  {
+    "id": "1505062014",
+    "district_id": "150506",
+    "name": "PEMUNDURAN"
+  },
+  {
+    "id": "1505062015",
+    "district_id": "150506",
+    "name": "SIPIN TELUK DUREN"
+  },
+  {
+    "id": "1505062016",
+    "district_id": "150506",
+    "name": "ARANG ARANG"
+  },
+  {
+    "id": "1505062017",
+    "district_id": "150506",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1505062018",
+    "district_id": "150506",
+    "name": "SUNGAI TERAP"
+  },
+  {
+    "id": "1505062023",
+    "district_id": "150506",
+    "name": "KASANG KUMPEH"
+  },
+  {
+    "id": "1505062024",
+    "district_id": "150506",
+    "name": "KASANG KOTA KARANG"
+  }
+]

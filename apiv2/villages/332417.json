@@ -1,1 +1,77 @@
-[{"id": "3324172001", "district_id": "332417", "name": "TRUKO"}, {"id": "3324172002", "district_id": "332417", "name": "LEBOSARI"}, {"id": "3324172003", "district_id": "332417", "name": "KADILANGU"}, {"id": "3324172004", "district_id": "332417", "name": "GEBANGANOMWETAN"}, {"id": "3324172005", "district_id": "332417", "name": "KALIYOSO"}, {"id": "3324172006", "district_id": "332417", "name": "SUKODADI"}, {"id": "3324172007", "district_id": "332417", "name": "SENDANG KULON"}, {"id": "3324172008", "district_id": "332417", "name": "SENDANG DAWUNG"}, {"id": "3324172009", "district_id": "332417", "name": "LABAN"}, {"id": "3324172010", "district_id": "332417", "name": "KARANGMALANG WETAN"}, {"id": "3324172011", "district_id": "332417", "name": "JUNGSEMI"}, {"id": "3324172012", "district_id": "332417", "name": "KANGKUNG"}, {"id": "3324172013", "district_id": "332417", "name": "TANJUNGMOJO"}, {"id": "3324172014", "district_id": "332417", "name": "REJOSARI"}, {"id": "3324172015", "district_id": "332417", "name": "KALIREJO"}]
+[
+  {
+    "id": "3324172001",
+    "district_id": "332417",
+    "name": "TRUKO"
+  },
+  {
+    "id": "3324172002",
+    "district_id": "332417",
+    "name": "LEBOSARI"
+  },
+  {
+    "id": "3324172003",
+    "district_id": "332417",
+    "name": "KADILANGU"
+  },
+  {
+    "id": "3324172004",
+    "district_id": "332417",
+    "name": "GEBANGANOMWETAN"
+  },
+  {
+    "id": "3324172005",
+    "district_id": "332417",
+    "name": "KALIYOSO"
+  },
+  {
+    "id": "3324172006",
+    "district_id": "332417",
+    "name": "SUKODADI"
+  },
+  {
+    "id": "3324172007",
+    "district_id": "332417",
+    "name": "SENDANG KULON"
+  },
+  {
+    "id": "3324172008",
+    "district_id": "332417",
+    "name": "SENDANG DAWUNG"
+  },
+  {
+    "id": "3324172009",
+    "district_id": "332417",
+    "name": "LABAN"
+  },
+  {
+    "id": "3324172010",
+    "district_id": "332417",
+    "name": "KARANGMALANG WETAN"
+  },
+  {
+    "id": "3324172011",
+    "district_id": "332417",
+    "name": "JUNGSEMI"
+  },
+  {
+    "id": "3324172012",
+    "district_id": "332417",
+    "name": "KANGKUNG"
+  },
+  {
+    "id": "3324172013",
+    "district_id": "332417",
+    "name": "TANJUNGMOJO"
+  },
+  {
+    "id": "3324172014",
+    "district_id": "332417",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3324172015",
+    "district_id": "332417",
+    "name": "KALIREJO"
+  }
+]

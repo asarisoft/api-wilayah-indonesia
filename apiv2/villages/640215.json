@@ -1,1 +1,27 @@
-[{"id": "6402151001", "district_id": "640215", "name": "JAWA"}, {"id": "6402151002", "district_id": "640215", "name": "PENDINGIN"}, {"id": "6402151003", "district_id": "640215", "name": "SANGA-SANGA DALAM"}, {"id": "6402151004", "district_id": "640215", "name": "SARI JAYA"}, {"id": "6402151005", "district_id": "640215", "name": "SANGA-SANGA MUARA"}]
+[
+  {
+    "id": "6402151001",
+    "district_id": "640215",
+    "name": "JAWA"
+  },
+  {
+    "id": "6402151002",
+    "district_id": "640215",
+    "name": "PENDINGIN"
+  },
+  {
+    "id": "6402151003",
+    "district_id": "640215",
+    "name": "SANGA-SANGA DALAM"
+  },
+  {
+    "id": "6402151004",
+    "district_id": "640215",
+    "name": "SARI JAYA"
+  },
+  {
+    "id": "6402151005",
+    "district_id": "640215",
+    "name": "SANGA-SANGA MUARA"
+  }
+]

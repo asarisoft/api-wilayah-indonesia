@@ -1,1 +1,52 @@
-[{"id": "5305162001", "district_id": "530516", "name": "TUDE"}, {"id": "5305162002", "district_id": "530516", "name": "MAUTA"}, {"id": "5305162003", "district_id": "530516", "name": "MURIABANG"}, {"id": "5305162004", "district_id": "530516", "name": "TUBBE"}, {"id": "5305162005", "district_id": "530516", "name": "TAMAKH"}, {"id": "5305162006", "district_id": "530516", "name": "BAGANG"}, {"id": "5305162007", "district_id": "530516", "name": "TOANG"}, {"id": "5305162008", "district_id": "530516", "name": "EKA JAYA"}, {"id": "5305162009", "district_id": "530516", "name": "ARAMABA"}, {"id": "5305162010", "district_id": "530516", "name": "DELAKI"}]
+[
+  {
+    "id": "5305162001",
+    "district_id": "530516",
+    "name": "TUDE"
+  },
+  {
+    "id": "5305162002",
+    "district_id": "530516",
+    "name": "MAUTA"
+  },
+  {
+    "id": "5305162003",
+    "district_id": "530516",
+    "name": "MURIABANG"
+  },
+  {
+    "id": "5305162004",
+    "district_id": "530516",
+    "name": "TUBBE"
+  },
+  {
+    "id": "5305162005",
+    "district_id": "530516",
+    "name": "TAMAKH"
+  },
+  {
+    "id": "5305162006",
+    "district_id": "530516",
+    "name": "BAGANG"
+  },
+  {
+    "id": "5305162007",
+    "district_id": "530516",
+    "name": "TOANG"
+  },
+  {
+    "id": "5305162008",
+    "district_id": "530516",
+    "name": "EKA JAYA"
+  },
+  {
+    "id": "5305162009",
+    "district_id": "530516",
+    "name": "ARAMABA"
+  },
+  {
+    "id": "5305162010",
+    "district_id": "530516",
+    "name": "DELAKI"
+  }
+]

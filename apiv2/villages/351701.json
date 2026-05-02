@@ -1,1 +1,67 @@
-[{"id": "3517012001", "district_id": "351701", "name": "JANTIGANGGONG"}, {"id": "3517012002", "district_id": "351701", "name": "KEPUHKAJANG"}, {"id": "3517012003", "district_id": "351701", "name": "SUMBERAGUNG"}, {"id": "3517012004", "district_id": "351701", "name": "PAGERWOJO"}, {"id": "3517012005", "district_id": "351701", "name": "PERAK"}, {"id": "3517012006", "district_id": "351701", "name": "SEMBUNG"}, {"id": "3517012007", "district_id": "351701", "name": "GLAGAHAN"}, {"id": "3517012008", "district_id": "351701", "name": "KALANGSEMANDING"}, {"id": "3517012009", "district_id": "351701", "name": "GADINGMANGU"}, {"id": "3517012010", "district_id": "351701", "name": "PLOSOGENUK"}, {"id": "3517012011", "district_id": "351701", "name": "SUKOREJO"}, {"id": "3517012012", "district_id": "351701", "name": "TEMUWULAN"}, {"id": "3517012013", "district_id": "351701", "name": "CANGKRINGRANDU"}]
+[
+  {
+    "id": "3517012001",
+    "district_id": "351701",
+    "name": "JANTIGANGGONG"
+  },
+  {
+    "id": "3517012002",
+    "district_id": "351701",
+    "name": "KEPUHKAJANG"
+  },
+  {
+    "id": "3517012003",
+    "district_id": "351701",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3517012004",
+    "district_id": "351701",
+    "name": "PAGERWOJO"
+  },
+  {
+    "id": "3517012005",
+    "district_id": "351701",
+    "name": "PERAK"
+  },
+  {
+    "id": "3517012006",
+    "district_id": "351701",
+    "name": "SEMBUNG"
+  },
+  {
+    "id": "3517012007",
+    "district_id": "351701",
+    "name": "GLAGAHAN"
+  },
+  {
+    "id": "3517012008",
+    "district_id": "351701",
+    "name": "KALANGSEMANDING"
+  },
+  {
+    "id": "3517012009",
+    "district_id": "351701",
+    "name": "GADINGMANGU"
+  },
+  {
+    "id": "3517012010",
+    "district_id": "351701",
+    "name": "PLOSOGENUK"
+  },
+  {
+    "id": "3517012011",
+    "district_id": "351701",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3517012012",
+    "district_id": "351701",
+    "name": "TEMUWULAN"
+  },
+  {
+    "id": "3517012013",
+    "district_id": "351701",
+    "name": "CANGKRINGRANDU"
+  }
+]

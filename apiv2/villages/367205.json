@@ -1,1 +1,27 @@
-[{"id": "3672051001", "district_id": "367205", "name": "SUKMAJAYA"}, {"id": "3672051002", "district_id": "367205", "name": "JOMBANG WETAN"}, {"id": "3672051003", "district_id": "367205", "name": "MASIGIT"}, {"id": "3672051004", "district_id": "367205", "name": "PANGGUNG RAWI"}, {"id": "3672051005", "district_id": "367205", "name": "GEDONG DALEM"}]
+[
+  {
+    "id": "3672051001",
+    "district_id": "367205",
+    "name": "SUKMAJAYA"
+  },
+  {
+    "id": "3672051002",
+    "district_id": "367205",
+    "name": "JOMBANG WETAN"
+  },
+  {
+    "id": "3672051003",
+    "district_id": "367205",
+    "name": "MASIGIT"
+  },
+  {
+    "id": "3672051004",
+    "district_id": "367205",
+    "name": "PANGGUNG RAWI"
+  },
+  {
+    "id": "3672051005",
+    "district_id": "367205",
+    "name": "GEDONG DALEM"
+  }
+]

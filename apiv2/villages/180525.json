@@ -1,1 +1,62 @@
-[{"id": "1805252001", "district_id": "180525", "name": "TELADAS"}, {"id": "1805252002", "district_id": "180525", "name": "KEKATUNG"}, {"id": "1805252003", "district_id": "180525", "name": "KUALA TELADAS"}, {"id": "1805252004", "district_id": "180525", "name": "MAHABANG"}, {"id": "1805252005", "district_id": "180525", "name": "SUNGAI NIBUNG"}, {"id": "1805252006", "district_id": "180525", "name": "PASIRAN JAYA"}, {"id": "1805252007", "district_id": "180525", "name": "BRATASENA ADIWARNA"}, {"id": "1805252008", "district_id": "180525", "name": "BRATASENA MANDIRI"}, {"id": "1805252009", "district_id": "180525", "name": "WAY DENTE"}, {"id": "1805252010", "district_id": "180525", "name": "DENTE MAKMUR"}, {"id": "1805252011", "district_id": "180525", "name": "PENDOWO ASRI"}, {"id": "1805252012", "district_id": "180525", "name": "SUNGAI BURUNG"}]
+[
+  {
+    "id": "1805252001",
+    "district_id": "180525",
+    "name": "TELADAS"
+  },
+  {
+    "id": "1805252002",
+    "district_id": "180525",
+    "name": "KEKATUNG"
+  },
+  {
+    "id": "1805252003",
+    "district_id": "180525",
+    "name": "KUALA TELADAS"
+  },
+  {
+    "id": "1805252004",
+    "district_id": "180525",
+    "name": "MAHABANG"
+  },
+  {
+    "id": "1805252005",
+    "district_id": "180525",
+    "name": "SUNGAI NIBUNG"
+  },
+  {
+    "id": "1805252006",
+    "district_id": "180525",
+    "name": "PASIRAN JAYA"
+  },
+  {
+    "id": "1805252007",
+    "district_id": "180525",
+    "name": "BRATASENA ADIWARNA"
+  },
+  {
+    "id": "1805252008",
+    "district_id": "180525",
+    "name": "BRATASENA MANDIRI"
+  },
+  {
+    "id": "1805252009",
+    "district_id": "180525",
+    "name": "WAY DENTE"
+  },
+  {
+    "id": "1805252010",
+    "district_id": "180525",
+    "name": "DENTE MAKMUR"
+  },
+  {
+    "id": "1805252011",
+    "district_id": "180525",
+    "name": "PENDOWO ASRI"
+  },
+  {
+    "id": "1805252012",
+    "district_id": "180525",
+    "name": "SUNGAI BURUNG"
+  }
+]

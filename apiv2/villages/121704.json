@@ -1,1 +1,87 @@
-[{"id": "1217042001", "district_id": "121704", "name": "SUHUTNIHUTA PARDOMUAN"}, {"id": "1217042002", "district_id": "121704", "name": "GORAT PALLOMBUAN"}, {"id": "1217042003", "district_id": "121704", "name": "URAT II"}, {"id": "1217042004", "district_id": "121704", "name": "PALIPI"}, {"id": "1217042005", "district_id": "121704", "name": "PARDOMUAN NAULI"}, {"id": "1217042006", "district_id": "121704", "name": "HATOGUAN"}, {"id": "1217042007", "district_id": "121704", "name": "SIMBOLON PURBA"}, {"id": "1217042008", "district_id": "121704", "name": "SIGAOL SIMBOLON"}, {"id": "1217042009", "district_id": "121704", "name": "URAT TIMUR"}, {"id": "1217042010", "district_id": "121704", "name": "SAOR NAULI HATOGUAN"}, {"id": "1217042011", "district_id": "121704", "name": "PARSAORAN URAT"}, {"id": "1217042012", "district_id": "121704", "name": "HUTAGINJANG"}, {"id": "1217042014", "district_id": "121704", "name": "SIGAOL MARBUN"}, {"id": "1217042018", "district_id": "121704", "name": "HUTADAME"}, {"id": "1217042019", "district_id": "121704", "name": "PALLOMBUAN"}, {"id": "1217042020", "district_id": "121704", "name": "PAMUTARAN"}, {"id": "1217042021", "district_id": "121704", "name": "SIDEAK"}]
+[
+  {
+    "id": "1217042001",
+    "district_id": "121704",
+    "name": "SUHUTNIHUTA PARDOMUAN"
+  },
+  {
+    "id": "1217042002",
+    "district_id": "121704",
+    "name": "GORAT PALLOMBUAN"
+  },
+  {
+    "id": "1217042003",
+    "district_id": "121704",
+    "name": "URAT II"
+  },
+  {
+    "id": "1217042004",
+    "district_id": "121704",
+    "name": "PALIPI"
+  },
+  {
+    "id": "1217042005",
+    "district_id": "121704",
+    "name": "PARDOMUAN NAULI"
+  },
+  {
+    "id": "1217042006",
+    "district_id": "121704",
+    "name": "HATOGUAN"
+  },
+  {
+    "id": "1217042007",
+    "district_id": "121704",
+    "name": "SIMBOLON PURBA"
+  },
+  {
+    "id": "1217042008",
+    "district_id": "121704",
+    "name": "SIGAOL SIMBOLON"
+  },
+  {
+    "id": "1217042009",
+    "district_id": "121704",
+    "name": "URAT TIMUR"
+  },
+  {
+    "id": "1217042010",
+    "district_id": "121704",
+    "name": "SAOR NAULI HATOGUAN"
+  },
+  {
+    "id": "1217042011",
+    "district_id": "121704",
+    "name": "PARSAORAN URAT"
+  },
+  {
+    "id": "1217042012",
+    "district_id": "121704",
+    "name": "HUTAGINJANG"
+  },
+  {
+    "id": "1217042014",
+    "district_id": "121704",
+    "name": "SIGAOL MARBUN"
+  },
+  {
+    "id": "1217042018",
+    "district_id": "121704",
+    "name": "HUTADAME"
+  },
+  {
+    "id": "1217042019",
+    "district_id": "121704",
+    "name": "PALLOMBUAN"
+  },
+  {
+    "id": "1217042020",
+    "district_id": "121704",
+    "name": "PAMUTARAN"
+  },
+  {
+    "id": "1217042021",
+    "district_id": "121704",
+    "name": "SIDEAK"
+  }
+]

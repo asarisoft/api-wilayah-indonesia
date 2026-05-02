@@ -1,1 +1,97 @@
-[{"id": "1602202001", "district_id": "160220", "name": "CATUR TUNGGAL"}, {"id": "1602202002", "district_id": "160220", "name": "SURYA KARTA"}, {"id": "1602202003", "district_id": "160220", "name": "TEGAL SARI"}, {"id": "1602202004", "district_id": "160220", "name": "MUKTI KARYA"}, {"id": "1602202005", "district_id": "160220", "name": "PEMATANG JAYA"}, {"id": "1602202006", "district_id": "160220", "name": "PEMATANG SUKATANI"}, {"id": "1602202007", "district_id": "160220", "name": "KAMPUNG BARU"}, {"id": "1602202008", "district_id": "160220", "name": "CAHAYA MAS"}, {"id": "1602202009", "district_id": "160220", "name": "KARYA USAHA"}, {"id": "1602202010", "district_id": "160220", "name": "PEMATANG BINATANI"}, {"id": "1602202011", "district_id": "160220", "name": "BINA KARSA"}, {"id": "1602202012", "district_id": "160220", "name": "PEMATANG SARI"}, {"id": "1602202013", "district_id": "160220", "name": "PEMATANG SUKARAMAH"}, {"id": "1602202014", "district_id": "160220", "name": "CAHAYA MULYA"}, {"id": "1602202015", "district_id": "160220", "name": "GADING SARI"}, {"id": "1602202017", "district_id": "160220", "name": "KARYA JAYA"}, {"id": "1602202018", "district_id": "160220", "name": "MESUJI JAYA"}, {"id": "1602202019", "district_id": "160220", "name": "SUMBER MULYA"}, {"id": "1602202020", "district_id": "160220", "name": "BERINGIN JAYA"}]
+[
+  {
+    "id": "1602202001",
+    "district_id": "160220",
+    "name": "CATUR TUNGGAL"
+  },
+  {
+    "id": "1602202002",
+    "district_id": "160220",
+    "name": "SURYA KARTA"
+  },
+  {
+    "id": "1602202003",
+    "district_id": "160220",
+    "name": "TEGAL SARI"
+  },
+  {
+    "id": "1602202004",
+    "district_id": "160220",
+    "name": "MUKTI KARYA"
+  },
+  {
+    "id": "1602202005",
+    "district_id": "160220",
+    "name": "PEMATANG JAYA"
+  },
+  {
+    "id": "1602202006",
+    "district_id": "160220",
+    "name": "PEMATANG SUKATANI"
+  },
+  {
+    "id": "1602202007",
+    "district_id": "160220",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1602202008",
+    "district_id": "160220",
+    "name": "CAHAYA MAS"
+  },
+  {
+    "id": "1602202009",
+    "district_id": "160220",
+    "name": "KARYA USAHA"
+  },
+  {
+    "id": "1602202010",
+    "district_id": "160220",
+    "name": "PEMATANG BINATANI"
+  },
+  {
+    "id": "1602202011",
+    "district_id": "160220",
+    "name": "BINA KARSA"
+  },
+  {
+    "id": "1602202012",
+    "district_id": "160220",
+    "name": "PEMATANG SARI"
+  },
+  {
+    "id": "1602202013",
+    "district_id": "160220",
+    "name": "PEMATANG SUKARAMAH"
+  },
+  {
+    "id": "1602202014",
+    "district_id": "160220",
+    "name": "CAHAYA MULYA"
+  },
+  {
+    "id": "1602202015",
+    "district_id": "160220",
+    "name": "GADING SARI"
+  },
+  {
+    "id": "1602202017",
+    "district_id": "160220",
+    "name": "KARYA JAYA"
+  },
+  {
+    "id": "1602202018",
+    "district_id": "160220",
+    "name": "MESUJI JAYA"
+  },
+  {
+    "id": "1602202019",
+    "district_id": "160220",
+    "name": "SUMBER MULYA"
+  },
+  {
+    "id": "1602202020",
+    "district_id": "160220",
+    "name": "BERINGIN JAYA"
+  }
+]

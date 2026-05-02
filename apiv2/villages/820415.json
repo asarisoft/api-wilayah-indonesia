@@ -1,1 +1,52 @@
-[{"id": "8204152001", "district_id": "820415", "name": "SIDANGA"}, {"id": "8204152002", "district_id": "820415", "name": "LATA LATA"}, {"id": "8204152003", "district_id": "820415", "name": "SENGGA BARU"}, {"id": "8204152004", "district_id": "820415", "name": "ARUMAMANG"}, {"id": "8204152005", "district_id": "820415", "name": "PALAMEA"}, {"id": "8204152006", "district_id": "820415", "name": "DOKO"}, {"id": "8204152007", "district_id": "820415", "name": "BISORI"}, {"id": "8204152008", "district_id": "820415", "name": "MARIKAPAL"}, {"id": "8204152009", "district_id": "820415", "name": "KUKUPANG"}, {"id": "8204152010", "district_id": "820415", "name": "IMBU IMBU"}]
+[
+  {
+    "id": "8204152001",
+    "district_id": "820415",
+    "name": "SIDANGA"
+  },
+  {
+    "id": "8204152002",
+    "district_id": "820415",
+    "name": "LATA LATA"
+  },
+  {
+    "id": "8204152003",
+    "district_id": "820415",
+    "name": "SENGGA BARU"
+  },
+  {
+    "id": "8204152004",
+    "district_id": "820415",
+    "name": "ARUMAMANG"
+  },
+  {
+    "id": "8204152005",
+    "district_id": "820415",
+    "name": "PALAMEA"
+  },
+  {
+    "id": "8204152006",
+    "district_id": "820415",
+    "name": "DOKO"
+  },
+  {
+    "id": "8204152007",
+    "district_id": "820415",
+    "name": "BISORI"
+  },
+  {
+    "id": "8204152008",
+    "district_id": "820415",
+    "name": "MARIKAPAL"
+  },
+  {
+    "id": "8204152009",
+    "district_id": "820415",
+    "name": "KUKUPANG"
+  },
+  {
+    "id": "8204152010",
+    "district_id": "820415",
+    "name": "IMBU IMBU"
+  }
+]

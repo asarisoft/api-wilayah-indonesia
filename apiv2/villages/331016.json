@@ -1,1 +1,82 @@
-[{"id": "3310162001", "district_id": "331016", "name": "DUKUH"}, {"id": "3310162002", "district_id": "331016", "name": "JETIS"}, {"id": "3310162003", "district_id": "331016", "name": "BUTUHAN"}, {"id": "3310162004", "district_id": "331016", "name": "BANARAN"}, {"id": "3310162005", "district_id": "331016", "name": "BOWAN"}, {"id": "3310162006", "district_id": "331016", "name": "SRIBIT"}, {"id": "3310162007", "district_id": "331016", "name": "MENDAK"}, {"id": "3310162008", "district_id": "331016", "name": "KRECEK"}, {"id": "3310162009", "district_id": "331016", "name": "KARANG"}, {"id": "3310162010", "district_id": "331016", "name": "SABRANG"}, {"id": "3310162011", "district_id": "331016", "name": "TLOBONG"}, {"id": "3310162012", "district_id": "331016", "name": "GATAK"}, {"id": "3310162013", "district_id": "331016", "name": "DELANGGU"}, {"id": "3310162014", "district_id": "331016", "name": "KEPANJEN"}, {"id": "3310162015", "district_id": "331016", "name": "SEGARAN"}, {"id": "3310162016", "district_id": "331016", "name": "SIDOMULYO"}]
+[
+  {
+    "id": "3310162001",
+    "district_id": "331016",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3310162002",
+    "district_id": "331016",
+    "name": "JETIS"
+  },
+  {
+    "id": "3310162003",
+    "district_id": "331016",
+    "name": "BUTUHAN"
+  },
+  {
+    "id": "3310162004",
+    "district_id": "331016",
+    "name": "BANARAN"
+  },
+  {
+    "id": "3310162005",
+    "district_id": "331016",
+    "name": "BOWAN"
+  },
+  {
+    "id": "3310162006",
+    "district_id": "331016",
+    "name": "SRIBIT"
+  },
+  {
+    "id": "3310162007",
+    "district_id": "331016",
+    "name": "MENDAK"
+  },
+  {
+    "id": "3310162008",
+    "district_id": "331016",
+    "name": "KRECEK"
+  },
+  {
+    "id": "3310162009",
+    "district_id": "331016",
+    "name": "KARANG"
+  },
+  {
+    "id": "3310162010",
+    "district_id": "331016",
+    "name": "SABRANG"
+  },
+  {
+    "id": "3310162011",
+    "district_id": "331016",
+    "name": "TLOBONG"
+  },
+  {
+    "id": "3310162012",
+    "district_id": "331016",
+    "name": "GATAK"
+  },
+  {
+    "id": "3310162013",
+    "district_id": "331016",
+    "name": "DELANGGU"
+  },
+  {
+    "id": "3310162014",
+    "district_id": "331016",
+    "name": "KEPANJEN"
+  },
+  {
+    "id": "3310162015",
+    "district_id": "331016",
+    "name": "SEGARAN"
+  },
+  {
+    "id": "3310162016",
+    "district_id": "331016",
+    "name": "SIDOMULYO"
+  }
+]

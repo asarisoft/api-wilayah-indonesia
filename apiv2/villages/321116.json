@@ -1,1 +1,52 @@
-[{"id": "3211162001", "district_id": "321116", "name": "NAGARAWANGI"}, {"id": "3211162002", "district_id": "321116", "name": "CIBUNAR"}, {"id": "3211162003", "district_id": "321116", "name": "PANGADEGAN"}, {"id": "3211162004", "district_id": "321116", "name": "SUKAHAYU"}, {"id": "3211162005", "district_id": "321116", "name": "SUKAMAJU"}, {"id": "3211162006", "district_id": "321116", "name": "PAMEKARAN"}, {"id": "3211162007", "district_id": "321116", "name": "RANCAKALONG"}, {"id": "3211162008", "district_id": "321116", "name": "SUKASIRNARASA"}, {"id": "3211162009", "district_id": "321116", "name": "CIBUNGUR"}, {"id": "3211162010", "district_id": "321116", "name": "PASIRBIRU"}]
+[
+  {
+    "id": "3211162001",
+    "district_id": "321116",
+    "name": "NAGARAWANGI"
+  },
+  {
+    "id": "3211162002",
+    "district_id": "321116",
+    "name": "CIBUNAR"
+  },
+  {
+    "id": "3211162003",
+    "district_id": "321116",
+    "name": "PANGADEGAN"
+  },
+  {
+    "id": "3211162004",
+    "district_id": "321116",
+    "name": "SUKAHAYU"
+  },
+  {
+    "id": "3211162005",
+    "district_id": "321116",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3211162006",
+    "district_id": "321116",
+    "name": "PAMEKARAN"
+  },
+  {
+    "id": "3211162007",
+    "district_id": "321116",
+    "name": "RANCAKALONG"
+  },
+  {
+    "id": "3211162008",
+    "district_id": "321116",
+    "name": "SUKASIRNARASA"
+  },
+  {
+    "id": "3211162009",
+    "district_id": "321116",
+    "name": "CIBUNGUR"
+  },
+  {
+    "id": "3211162010",
+    "district_id": "321116",
+    "name": "PASIRBIRU"
+  }
+]

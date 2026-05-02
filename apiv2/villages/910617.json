@@ -1,1 +1,47 @@
-[{"id": "9106172001", "district_id": "910617", "name": "YENBEBA"}, {"id": "9106172002", "district_id": "910617", "name": "YENBEPON"}, {"id": "9106172003", "district_id": "910617", "name": "SARIBI"}, {"id": "9106172004", "district_id": "910617", "name": "SUB MANDER"}, {"id": "9106172005", "district_id": "910617", "name": "RAWAR"}, {"id": "9106172006", "district_id": "910617", "name": "PAKREKI"}, {"id": "9106172007", "district_id": "910617", "name": "MASYARAH"}, {"id": "9106172008", "district_id": "910617", "name": "WANSRA"}, {"id": "9106172009", "district_id": "910617", "name": "MANWOR INDAH"}]
+[
+  {
+    "id": "9106172001",
+    "district_id": "910617",
+    "name": "YENBEBA"
+  },
+  {
+    "id": "9106172002",
+    "district_id": "910617",
+    "name": "YENBEPON"
+  },
+  {
+    "id": "9106172003",
+    "district_id": "910617",
+    "name": "SARIBI"
+  },
+  {
+    "id": "9106172004",
+    "district_id": "910617",
+    "name": "SUB MANDER"
+  },
+  {
+    "id": "9106172005",
+    "district_id": "910617",
+    "name": "RAWAR"
+  },
+  {
+    "id": "9106172006",
+    "district_id": "910617",
+    "name": "PAKREKI"
+  },
+  {
+    "id": "9106172007",
+    "district_id": "910617",
+    "name": "MASYARAH"
+  },
+  {
+    "id": "9106172008",
+    "district_id": "910617",
+    "name": "WANSRA"
+  },
+  {
+    "id": "9106172009",
+    "district_id": "910617",
+    "name": "MANWOR INDAH"
+  }
+]

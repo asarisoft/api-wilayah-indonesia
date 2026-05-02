@@ -1,1 +1,62 @@
-[{"id": "6303132001", "district_id": "630313", "name": "PINDAHAN BARU"}, {"id": "6303132002", "district_id": "630313", "name": "HANDIL PURAI"}, {"id": "6303132003", "district_id": "630313", "name": "KAMPUNG BARU"}, {"id": "6303132004", "district_id": "630313", "name": "LAWAHAN"}, {"id": "6303132005", "district_id": "630313", "name": "BABIRIK"}, {"id": "6303132006", "district_id": "630313", "name": "JAMBU BURUNG"}, {"id": "6303132007", "district_id": "630313", "name": "TAMBAK PADI"}, {"id": "6303132008", "district_id": "630313", "name": "HAUR KUNING"}, {"id": "6303132009", "district_id": "630313", "name": "JAMBU RAYA"}, {"id": "6303132010", "district_id": "630313", "name": "RUMPIANG"}, {"id": "6303132011", "district_id": "630313", "name": "SALAT MAKMUR"}, {"id": "6303132012", "district_id": "630313", "name": "MUARA HALAYUNG"}]
+[
+  {
+    "id": "6303132001",
+    "district_id": "630313",
+    "name": "PINDAHAN BARU"
+  },
+  {
+    "id": "6303132002",
+    "district_id": "630313",
+    "name": "HANDIL PURAI"
+  },
+  {
+    "id": "6303132003",
+    "district_id": "630313",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "6303132004",
+    "district_id": "630313",
+    "name": "LAWAHAN"
+  },
+  {
+    "id": "6303132005",
+    "district_id": "630313",
+    "name": "BABIRIK"
+  },
+  {
+    "id": "6303132006",
+    "district_id": "630313",
+    "name": "JAMBU BURUNG"
+  },
+  {
+    "id": "6303132007",
+    "district_id": "630313",
+    "name": "TAMBAK PADI"
+  },
+  {
+    "id": "6303132008",
+    "district_id": "630313",
+    "name": "HAUR KUNING"
+  },
+  {
+    "id": "6303132009",
+    "district_id": "630313",
+    "name": "JAMBU RAYA"
+  },
+  {
+    "id": "6303132010",
+    "district_id": "630313",
+    "name": "RUMPIANG"
+  },
+  {
+    "id": "6303132011",
+    "district_id": "630313",
+    "name": "SALAT MAKMUR"
+  },
+  {
+    "id": "6303132012",
+    "district_id": "630313",
+    "name": "MUARA HALAYUNG"
+  }
+]

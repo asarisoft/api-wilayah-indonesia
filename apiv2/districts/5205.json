@@ -1,1 +1,42 @@
-[{"id": "520501", "regency_id": "5205", "name": "DOMPU"}, {"id": "520502", "regency_id": "5205", "name": "KEMPO"}, {"id": "520503", "regency_id": "5205", "name": "HU'U"}, {"id": "520504", "regency_id": "5205", "name": "KILO"}, {"id": "520505", "regency_id": "5205", "name": "WOJA"}, {"id": "520506", "regency_id": "5205", "name": "PEKAT"}, {"id": "520507", "regency_id": "5205", "name": "MANGGALEWA"}, {"id": "520508", "regency_id": "5205", "name": "PAJO"}]
+[
+  {
+    "id": "520501",
+    "regency_id": "5205",
+    "name": "DOMPU"
+  },
+  {
+    "id": "520502",
+    "regency_id": "5205",
+    "name": "KEMPO"
+  },
+  {
+    "id": "520503",
+    "regency_id": "5205",
+    "name": "HU'U"
+  },
+  {
+    "id": "520504",
+    "regency_id": "5205",
+    "name": "KILO"
+  },
+  {
+    "id": "520505",
+    "regency_id": "5205",
+    "name": "WOJA"
+  },
+  {
+    "id": "520506",
+    "regency_id": "5205",
+    "name": "PEKAT"
+  },
+  {
+    "id": "520507",
+    "regency_id": "5205",
+    "name": "MANGGALEWA"
+  },
+  {
+    "id": "520508",
+    "regency_id": "5205",
+    "name": "PAJO"
+  }
+]

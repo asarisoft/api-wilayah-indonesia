@@ -1,1 +1,72 @@
-[{"id": "7208052005", "district_id": "720805", "name": "TINGKULANG"}, {"id": "7208052006", "district_id": "720805", "name": "TOMINI"}, {"id": "7208052007", "district_id": "720805", "name": "OGOTUMUBU"}, {"id": "7208052008", "district_id": "720805", "name": "AMBESIA"}, {"id": "7208052009", "district_id": "720805", "name": "TILUNG"}, {"id": "7208052022", "district_id": "720805", "name": "AMBESIA SELATAN"}, {"id": "7208052023", "district_id": "720805", "name": "BIGA"}, {"id": "7208052024", "district_id": "720805", "name": "TOMINI UTARA"}, {"id": "7208052025", "district_id": "720805", "name": "TOMINI BARAT"}, {"id": "7208052026", "district_id": "720805", "name": "SUPILOPONG"}, {"id": "7208052027", "district_id": "720805", "name": "AMBESIA BARAT"}, {"id": "7208052028", "district_id": "720805", "name": "SIPONTAN"}, {"id": "7208052029", "district_id": "720805", "name": "TA'ANIUGE"}, {"id": "7208052030", "district_id": "720805", "name": "OGOTUMUBU BARAT"}]
+[
+  {
+    "id": "7208052005",
+    "district_id": "720805",
+    "name": "TINGKULANG"
+  },
+  {
+    "id": "7208052006",
+    "district_id": "720805",
+    "name": "TOMINI"
+  },
+  {
+    "id": "7208052007",
+    "district_id": "720805",
+    "name": "OGOTUMUBU"
+  },
+  {
+    "id": "7208052008",
+    "district_id": "720805",
+    "name": "AMBESIA"
+  },
+  {
+    "id": "7208052009",
+    "district_id": "720805",
+    "name": "TILUNG"
+  },
+  {
+    "id": "7208052022",
+    "district_id": "720805",
+    "name": "AMBESIA SELATAN"
+  },
+  {
+    "id": "7208052023",
+    "district_id": "720805",
+    "name": "BIGA"
+  },
+  {
+    "id": "7208052024",
+    "district_id": "720805",
+    "name": "TOMINI UTARA"
+  },
+  {
+    "id": "7208052025",
+    "district_id": "720805",
+    "name": "TOMINI BARAT"
+  },
+  {
+    "id": "7208052026",
+    "district_id": "720805",
+    "name": "SUPILOPONG"
+  },
+  {
+    "id": "7208052027",
+    "district_id": "720805",
+    "name": "AMBESIA BARAT"
+  },
+  {
+    "id": "7208052028",
+    "district_id": "720805",
+    "name": "SIPONTAN"
+  },
+  {
+    "id": "7208052029",
+    "district_id": "720805",
+    "name": "TA'ANIUGE"
+  },
+  {
+    "id": "7208052030",
+    "district_id": "720805",
+    "name": "OGOTUMUBU BARAT"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "1671151001", "district_id": "167115", "name": "ALANG-ALANG LEBAR"}, {"id": "1671151002", "district_id": "167115", "name": "SRIJAYA"}, {"id": "1671151003", "district_id": "167115", "name": "TALANGKELAPA"}, {"id": "1671151004", "district_id": "167115", "name": "KARYABARU"}]
+[
+  {
+    "id": "1671151001",
+    "district_id": "167115",
+    "name": "ALANG-ALANG LEBAR"
+  },
+  {
+    "id": "1671151002",
+    "district_id": "167115",
+    "name": "SRIJAYA"
+  },
+  {
+    "id": "1671151003",
+    "district_id": "167115",
+    "name": "TALANGKELAPA"
+  },
+  {
+    "id": "1671151004",
+    "district_id": "167115",
+    "name": "KARYABARU"
+  }
+]

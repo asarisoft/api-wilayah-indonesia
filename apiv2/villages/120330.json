@@ -1,1 +1,87 @@
-[{"id": "1203301001", "district_id": "120330", "name": "PANABARI HUTATONGA"}, {"id": "1203302002", "district_id": "120330", "name": "AEK UNCIM"}, {"id": "1203302003", "district_id": "120330", "name": "PANINDOAN"}, {"id": "1203302004", "district_id": "120330", "name": "AEK KAHOMBU"}, {"id": "1203302005", "district_id": "120330", "name": "BATU HORPAK"}, {"id": "1203302006", "district_id": "120330", "name": "SITUMBA"}, {"id": "1203302007", "district_id": "120330", "name": "PURBA TUA"}, {"id": "1203302008", "district_id": "120330", "name": "LUMBAN JABI-JABI"}, {"id": "1203302009", "district_id": "120330", "name": "INGUL JAE"}, {"id": "1203302010", "district_id": "120330", "name": "SISOMA"}, {"id": "1203302011", "district_id": "120330", "name": "LUMBAN RATUS"}, {"id": "1203302012", "district_id": "120330", "name": "KOTA TUA"}, {"id": "1203302013", "district_id": "120330", "name": "SIMANINGGIR TANO TOMBANGAN"}, {"id": "1203302014", "district_id": "120330", "name": "HUTA RAJA"}, {"id": "1203302015", "district_id": "120330", "name": "HAREAN"}, {"id": "1203302016", "district_id": "120330", "name": "AEK PARUPUK"}, {"id": "1203302017", "district_id": "120330", "name": "TANJUNG MEDAN"}]
+[
+  {
+    "id": "1203301001",
+    "district_id": "120330",
+    "name": "PANABARI HUTATONGA"
+  },
+  {
+    "id": "1203302002",
+    "district_id": "120330",
+    "name": "AEK UNCIM"
+  },
+  {
+    "id": "1203302003",
+    "district_id": "120330",
+    "name": "PANINDOAN"
+  },
+  {
+    "id": "1203302004",
+    "district_id": "120330",
+    "name": "AEK KAHOMBU"
+  },
+  {
+    "id": "1203302005",
+    "district_id": "120330",
+    "name": "BATU HORPAK"
+  },
+  {
+    "id": "1203302006",
+    "district_id": "120330",
+    "name": "SITUMBA"
+  },
+  {
+    "id": "1203302007",
+    "district_id": "120330",
+    "name": "PURBA TUA"
+  },
+  {
+    "id": "1203302008",
+    "district_id": "120330",
+    "name": "LUMBAN JABI-JABI"
+  },
+  {
+    "id": "1203302009",
+    "district_id": "120330",
+    "name": "INGUL JAE"
+  },
+  {
+    "id": "1203302010",
+    "district_id": "120330",
+    "name": "SISOMA"
+  },
+  {
+    "id": "1203302011",
+    "district_id": "120330",
+    "name": "LUMBAN RATUS"
+  },
+  {
+    "id": "1203302012",
+    "district_id": "120330",
+    "name": "KOTA TUA"
+  },
+  {
+    "id": "1203302013",
+    "district_id": "120330",
+    "name": "SIMANINGGIR TANO TOMBANGAN"
+  },
+  {
+    "id": "1203302014",
+    "district_id": "120330",
+    "name": "HUTA RAJA"
+  },
+  {
+    "id": "1203302015",
+    "district_id": "120330",
+    "name": "HAREAN"
+  },
+  {
+    "id": "1203302016",
+    "district_id": "120330",
+    "name": "AEK PARUPUK"
+  },
+  {
+    "id": "1203302017",
+    "district_id": "120330",
+    "name": "TANJUNG MEDAN"
+  }
+]

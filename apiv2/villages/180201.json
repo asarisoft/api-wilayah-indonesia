@@ -1,1 +1,87 @@
-[{"id": "1802012001", "district_id": "180201", "name": "SRI WAY LANGSEP"}, {"id": "1802012002", "district_id": "180201", "name": "WAYAKRUI"}, {"id": "1802012003", "district_id": "180201", "name": "KALIREJO"}, {"id": "1802012004", "district_id": "180201", "name": "BALAI REJO"}, {"id": "1802012005", "district_id": "180201", "name": "WATU AGUNG"}, {"id": "1802012006", "district_id": "180201", "name": "SRI BASUKI"}, {"id": "1802012007", "district_id": "180201", "name": "KALIWUNGU"}, {"id": "1802012008", "district_id": "180201", "name": "KALI DADI"}, {"id": "1802012009", "district_id": "180201", "name": "SRI MULYO"}, {"id": "1802012010", "district_id": "180201", "name": "SRI DADI"}, {"id": "1802012011", "district_id": "180201", "name": "SUKO SARI"}, {"id": "1802012012", "district_id": "180201", "name": "SINAR SARI"}, {"id": "1802012013", "district_id": "180201", "name": "PONCO WARNO"}, {"id": "1802012014", "district_id": "180201", "name": "SRI PURNOMO"}, {"id": "1802012015", "district_id": "180201", "name": "SINAR REJO"}, {"id": "1802012016", "district_id": "180201", "name": "AGUNG TIMUR"}, {"id": "1802012017", "district_id": "180201", "name": "KALISARI"}]
+[
+  {
+    "id": "1802012001",
+    "district_id": "180201",
+    "name": "SRI WAY LANGSEP"
+  },
+  {
+    "id": "1802012002",
+    "district_id": "180201",
+    "name": "WAYAKRUI"
+  },
+  {
+    "id": "1802012003",
+    "district_id": "180201",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "1802012004",
+    "district_id": "180201",
+    "name": "BALAI REJO"
+  },
+  {
+    "id": "1802012005",
+    "district_id": "180201",
+    "name": "WATU AGUNG"
+  },
+  {
+    "id": "1802012006",
+    "district_id": "180201",
+    "name": "SRI BASUKI"
+  },
+  {
+    "id": "1802012007",
+    "district_id": "180201",
+    "name": "KALIWUNGU"
+  },
+  {
+    "id": "1802012008",
+    "district_id": "180201",
+    "name": "KALI DADI"
+  },
+  {
+    "id": "1802012009",
+    "district_id": "180201",
+    "name": "SRI MULYO"
+  },
+  {
+    "id": "1802012010",
+    "district_id": "180201",
+    "name": "SRI DADI"
+  },
+  {
+    "id": "1802012011",
+    "district_id": "180201",
+    "name": "SUKO SARI"
+  },
+  {
+    "id": "1802012012",
+    "district_id": "180201",
+    "name": "SINAR SARI"
+  },
+  {
+    "id": "1802012013",
+    "district_id": "180201",
+    "name": "PONCO WARNO"
+  },
+  {
+    "id": "1802012014",
+    "district_id": "180201",
+    "name": "SRI PURNOMO"
+  },
+  {
+    "id": "1802012015",
+    "district_id": "180201",
+    "name": "SINAR REJO"
+  },
+  {
+    "id": "1802012016",
+    "district_id": "180201",
+    "name": "AGUNG TIMUR"
+  },
+  {
+    "id": "1802012017",
+    "district_id": "180201",
+    "name": "KALISARI"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "3374021001", "district_id": "337402", "name": "BANDARHARJO"}, {"id": "3374021002", "district_id": "337402", "name": "BULU LOR"}, {"id": "3374021003", "district_id": "337402", "name": "PLOMBOKAN"}, {"id": "3374021004", "district_id": "337402", "name": "PURWOSARI"}, {"id": "3374021005", "district_id": "337402", "name": "KUNINGAN"}, {"id": "3374021006", "district_id": "337402", "name": "PANGGUNG LOR"}, {"id": "3374021007", "district_id": "337402", "name": "PANGGUNG KIDUL"}, {"id": "3374021008", "district_id": "337402", "name": "TANJUNG MAS"}, {"id": "3374021009", "district_id": "337402", "name": "DADAPSARI"}]
+[
+  {
+    "id": "3374021001",
+    "district_id": "337402",
+    "name": "BANDARHARJO"
+  },
+  {
+    "id": "3374021002",
+    "district_id": "337402",
+    "name": "BULU LOR"
+  },
+  {
+    "id": "3374021003",
+    "district_id": "337402",
+    "name": "PLOMBOKAN"
+  },
+  {
+    "id": "3374021004",
+    "district_id": "337402",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "3374021005",
+    "district_id": "337402",
+    "name": "KUNINGAN"
+  },
+  {
+    "id": "3374021006",
+    "district_id": "337402",
+    "name": "PANGGUNG LOR"
+  },
+  {
+    "id": "3374021007",
+    "district_id": "337402",
+    "name": "PANGGUNG KIDUL"
+  },
+  {
+    "id": "3374021008",
+    "district_id": "337402",
+    "name": "TANJUNG MAS"
+  },
+  {
+    "id": "3374021009",
+    "district_id": "337402",
+    "name": "DADAPSARI"
+  }
+]

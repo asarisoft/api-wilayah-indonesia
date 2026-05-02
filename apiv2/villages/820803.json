@@ -1,1 +1,27 @@
-[{"id": "8208032001", "district_id": "820803", "name": "LEDE"}, {"id": "8208032002", "district_id": "820803", "name": "TODOLI"}, {"id": "8208032003", "district_id": "820803", "name": "TOLONG"}, {"id": "8208032004", "district_id": "820803", "name": "LANGGANU"}, {"id": "8208032005", "district_id": "820803", "name": "BALOHANG"}]
+[
+  {
+    "id": "8208032001",
+    "district_id": "820803",
+    "name": "LEDE"
+  },
+  {
+    "id": "8208032002",
+    "district_id": "820803",
+    "name": "TODOLI"
+  },
+  {
+    "id": "8208032003",
+    "district_id": "820803",
+    "name": "TOLONG"
+  },
+  {
+    "id": "8208032004",
+    "district_id": "820803",
+    "name": "LANGGANU"
+  },
+  {
+    "id": "8208032005",
+    "district_id": "820803",
+    "name": "BALOHANG"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3517212001", "district_id": "351721", "name": "KETAPANGKUNING"}, {"id": "3517212002", "district_id": "351721", "name": "KEBOAN"}, {"id": "3517212003", "district_id": "351721", "name": "KEDUNGBOGO"}, {"id": "3517212004", "district_id": "351721", "name": "NGUSIKAN"}, {"id": "3517212005", "district_id": "351721", "name": "SUMBERNONGKO"}, {"id": "3517212006", "district_id": "351721", "name": "CUPAK"}, {"id": "3517212007", "district_id": "351721", "name": "MANUNGGAL"}, {"id": "3517212008", "district_id": "351721", "name": "NGAMPEL"}, {"id": "3517212009", "district_id": "351721", "name": "MOJODANU"}, {"id": "3517212010", "district_id": "351721", "name": "KROMONG"}, {"id": "3517212011", "district_id": "351721", "name": "ASEMGEDE"}]
+[
+  {
+    "id": "3517212001",
+    "district_id": "351721",
+    "name": "KETAPANGKUNING"
+  },
+  {
+    "id": "3517212002",
+    "district_id": "351721",
+    "name": "KEBOAN"
+  },
+  {
+    "id": "3517212003",
+    "district_id": "351721",
+    "name": "KEDUNGBOGO"
+  },
+  {
+    "id": "3517212004",
+    "district_id": "351721",
+    "name": "NGUSIKAN"
+  },
+  {
+    "id": "3517212005",
+    "district_id": "351721",
+    "name": "SUMBERNONGKO"
+  },
+  {
+    "id": "3517212006",
+    "district_id": "351721",
+    "name": "CUPAK"
+  },
+  {
+    "id": "3517212007",
+    "district_id": "351721",
+    "name": "MANUNGGAL"
+  },
+  {
+    "id": "3517212008",
+    "district_id": "351721",
+    "name": "NGAMPEL"
+  },
+  {
+    "id": "3517212009",
+    "district_id": "351721",
+    "name": "MOJODANU"
+  },
+  {
+    "id": "3517212010",
+    "district_id": "351721",
+    "name": "KROMONG"
+  },
+  {
+    "id": "3517212011",
+    "district_id": "351721",
+    "name": "ASEMGEDE"
+  }
+]

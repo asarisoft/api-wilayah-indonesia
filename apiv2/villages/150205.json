@@ -1,1 +1,57 @@
-[{"id": "1502051002", "district_id": "150205", "name": "DUSUN BARU"}, {"id": "1502051003", "district_id": "150205", "name": "PASAR RANTAU PANJANG"}, {"id": "1502051005", "district_id": "150205", "name": "KAMPUNG BARUH"}, {"id": "1502051020", "district_id": "150205", "name": "MAMPUN"}, {"id": "1502051036", "district_id": "150205", "name": "PASAR BARU RANTAU"}, {"id": "1502052007", "district_id": "150205", "name": "KANDANG"}, {"id": "1502052008", "district_id": "150205", "name": "KOTO RAYO"}, {"id": "1502052011", "district_id": "150205", "name": "TANJUNG ILIR"}, {"id": "1502052014", "district_id": "150205", "name": "BELURAN PANJANG"}, {"id": "1502052015", "district_id": "150205", "name": "SELING"}, {"id": "1502052035", "district_id": "150205", "name": "LUBUK NAPAL"}]
+[
+  {
+    "id": "1502051002",
+    "district_id": "150205",
+    "name": "DUSUN BARU"
+  },
+  {
+    "id": "1502051003",
+    "district_id": "150205",
+    "name": "PASAR RANTAU PANJANG"
+  },
+  {
+    "id": "1502051005",
+    "district_id": "150205",
+    "name": "KAMPUNG BARUH"
+  },
+  {
+    "id": "1502051020",
+    "district_id": "150205",
+    "name": "MAMPUN"
+  },
+  {
+    "id": "1502051036",
+    "district_id": "150205",
+    "name": "PASAR BARU RANTAU"
+  },
+  {
+    "id": "1502052007",
+    "district_id": "150205",
+    "name": "KANDANG"
+  },
+  {
+    "id": "1502052008",
+    "district_id": "150205",
+    "name": "KOTO RAYO"
+  },
+  {
+    "id": "1502052011",
+    "district_id": "150205",
+    "name": "TANJUNG ILIR"
+  },
+  {
+    "id": "1502052014",
+    "district_id": "150205",
+    "name": "BELURAN PANJANG"
+  },
+  {
+    "id": "1502052015",
+    "district_id": "150205",
+    "name": "SELING"
+  },
+  {
+    "id": "1502052035",
+    "district_id": "150205",
+    "name": "LUBUK NAPAL"
+  }
+]

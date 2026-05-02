@@ -1,1 +1,52 @@
-[{"id": "1210181001", "district_id": "121018", "name": "LABUHAN BILIK"}, {"id": "1210182002", "district_id": "121018", "name": "SEI PELANCANG"}, {"id": "1210182003", "district_id": "121018", "name": "SEI SIARTI"}, {"id": "1210182004", "district_id": "121018", "name": "SEI NAHODARIS"}, {"id": "1210182005", "district_id": "121018", "name": "SEI MERDEKA"}, {"id": "1210182006", "district_id": "121018", "name": "SEI RAKYAT"}, {"id": "1210182007", "district_id": "121018", "name": "SELAT BETING"}, {"id": "1210182008", "district_id": "121018", "name": "BAGAN BILAH"}, {"id": "1210182009", "district_id": "121018", "name": "TELAGA SUKA"}, {"id": "1210182010", "district_id": "121018", "name": "PASAR TIGA"}]
+[
+  {
+    "id": "1210181001",
+    "district_id": "121018",
+    "name": "LABUHAN BILIK"
+  },
+  {
+    "id": "1210182002",
+    "district_id": "121018",
+    "name": "SEI PELANCANG"
+  },
+  {
+    "id": "1210182003",
+    "district_id": "121018",
+    "name": "SEI SIARTI"
+  },
+  {
+    "id": "1210182004",
+    "district_id": "121018",
+    "name": "SEI NAHODARIS"
+  },
+  {
+    "id": "1210182005",
+    "district_id": "121018",
+    "name": "SEI MERDEKA"
+  },
+  {
+    "id": "1210182006",
+    "district_id": "121018",
+    "name": "SEI RAKYAT"
+  },
+  {
+    "id": "1210182007",
+    "district_id": "121018",
+    "name": "SELAT BETING"
+  },
+  {
+    "id": "1210182008",
+    "district_id": "121018",
+    "name": "BAGAN BILAH"
+  },
+  {
+    "id": "1210182009",
+    "district_id": "121018",
+    "name": "TELAGA SUKA"
+  },
+  {
+    "id": "1210182010",
+    "district_id": "121018",
+    "name": "PASAR TIGA"
+  }
+]

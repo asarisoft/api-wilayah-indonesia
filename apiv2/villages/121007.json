@@ -1,1 +1,52 @@
-[{"id": "1210072001", "district_id": "121007", "name": "SIBARGOT"}, {"id": "1210072002", "district_id": "121007", "name": "BANDAR KUMBUL"}, {"id": "1210072003", "district_id": "121007", "name": "TANJUNG MEDAN"}, {"id": "1210072004", "district_id": "121007", "name": "JANJI"}, {"id": "1210072005", "district_id": "121007", "name": "TEBING LINGGAHARA"}, {"id": "1210072006", "district_id": "121007", "name": "AFD.I RANTAUPRAPAT"}, {"id": "1210072007", "district_id": "121007", "name": "AFD.II RANTAUPRAPAT"}, {"id": "1210072008", "district_id": "121007", "name": "AEK BURU SELATAN"}, {"id": "1210072009", "district_id": "121007", "name": "KAMPUNG BARU"}, {"id": "1210072010", "district_id": "121007", "name": "TEBING LINGGAHARA BARU"}]
+[
+  {
+    "id": "1210072001",
+    "district_id": "121007",
+    "name": "SIBARGOT"
+  },
+  {
+    "id": "1210072002",
+    "district_id": "121007",
+    "name": "BANDAR KUMBUL"
+  },
+  {
+    "id": "1210072003",
+    "district_id": "121007",
+    "name": "TANJUNG MEDAN"
+  },
+  {
+    "id": "1210072004",
+    "district_id": "121007",
+    "name": "JANJI"
+  },
+  {
+    "id": "1210072005",
+    "district_id": "121007",
+    "name": "TEBING LINGGAHARA"
+  },
+  {
+    "id": "1210072006",
+    "district_id": "121007",
+    "name": "AFD.I RANTAUPRAPAT"
+  },
+  {
+    "id": "1210072007",
+    "district_id": "121007",
+    "name": "AFD.II RANTAUPRAPAT"
+  },
+  {
+    "id": "1210072008",
+    "district_id": "121007",
+    "name": "AEK BURU SELATAN"
+  },
+  {
+    "id": "1210072009",
+    "district_id": "121007",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1210072010",
+    "district_id": "121007",
+    "name": "TEBING LINGGAHARA BARU"
+  }
+]

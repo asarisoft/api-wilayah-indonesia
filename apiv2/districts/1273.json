@@ -1,1 +1,22 @@
-[{"id": "127301", "regency_id": "1273", "name": "SIBOLGA UTARA"}, {"id": "127302", "regency_id": "1273", "name": "SIBOLGA KOTA"}, {"id": "127303", "regency_id": "1273", "name": "SIBOLGA SELATAN"}, {"id": "127304", "regency_id": "1273", "name": "SIBOLGA SAMBAS"}]
+[
+  {
+    "id": "127301",
+    "regency_id": "1273",
+    "name": "SIBOLGA UTARA"
+  },
+  {
+    "id": "127302",
+    "regency_id": "1273",
+    "name": "SIBOLGA KOTA"
+  },
+  {
+    "id": "127303",
+    "regency_id": "1273",
+    "name": "SIBOLGA SELATAN"
+  },
+  {
+    "id": "127304",
+    "regency_id": "1273",
+    "name": "SIBOLGA SAMBAS"
+  }
+]

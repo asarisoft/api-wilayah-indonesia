@@ -1,1 +1,37 @@
-[{"id": "7307062001", "district_id": "730706", "name": "LAMATTI RIATTANG"}, {"id": "7307062002", "district_id": "730706", "name": "LAMATTI RIAJA"}, {"id": "7307062003", "district_id": "730706", "name": "BULU TELLUE"}, {"id": "7307062004", "district_id": "730706", "name": "DUAMPANUAE"}, {"id": "7307062005", "district_id": "730706", "name": "TOMPOBULU"}, {"id": "7307062006", "district_id": "730706", "name": "LAMATTI RIAWANG"}, {"id": "7307062007", "district_id": "730706", "name": "LAPPACINRANA"}]
+[
+  {
+    "id": "7307062001",
+    "district_id": "730706",
+    "name": "LAMATTI RIATTANG"
+  },
+  {
+    "id": "7307062002",
+    "district_id": "730706",
+    "name": "LAMATTI RIAJA"
+  },
+  {
+    "id": "7307062003",
+    "district_id": "730706",
+    "name": "BULU TELLUE"
+  },
+  {
+    "id": "7307062004",
+    "district_id": "730706",
+    "name": "DUAMPANUAE"
+  },
+  {
+    "id": "7307062005",
+    "district_id": "730706",
+    "name": "TOMPOBULU"
+  },
+  {
+    "id": "7307062006",
+    "district_id": "730706",
+    "name": "LAMATTI RIAWANG"
+  },
+  {
+    "id": "7307062007",
+    "district_id": "730706",
+    "name": "LAPPACINRANA"
+  }
+]

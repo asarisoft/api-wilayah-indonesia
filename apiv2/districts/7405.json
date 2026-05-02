@@ -1,1 +1,127 @@
-[{"id": "740501", "regency_id": "7405", "name": "TINANGGEA"}, {"id": "740502", "regency_id": "7405", "name": "ANGATA"}, {"id": "740503", "regency_id": "7405", "name": "ANDOOLO"}, {"id": "740504", "regency_id": "7405", "name": "PALANGGA"}, {"id": "740505", "regency_id": "7405", "name": "LANDONO"}, {"id": "740506", "regency_id": "7405", "name": "LAINEA"}, {"id": "740507", "regency_id": "7405", "name": "KONDA"}, {"id": "740508", "regency_id": "7405", "name": "RANOMEETO"}, {"id": "740509", "regency_id": "7405", "name": "KOLONO"}, {"id": "740510", "regency_id": "7405", "name": "MORAMO"}, {"id": "740511", "regency_id": "7405", "name": "LAONTI"}, {"id": "740512", "regency_id": "7405", "name": "LALEMBUU"}, {"id": "740513", "regency_id": "7405", "name": "BENUA"}, {"id": "740514", "regency_id": "7405", "name": "PALANGGA SELATAN"}, {"id": "740515", "regency_id": "7405", "name": "MOWILA"}, {"id": "740516", "regency_id": "7405", "name": "MORAMO UTARA"}, {"id": "740517", "regency_id": "7405", "name": "BUKE"}, {"id": "740518", "regency_id": "7405", "name": "WOLASI"}, {"id": "740519", "regency_id": "7405", "name": "LAEYA"}, {"id": "740520", "regency_id": "7405", "name": "BAITO"}, {"id": "740521", "regency_id": "7405", "name": "BASALA"}, {"id": "740522", "regency_id": "7405", "name": "RANOMEETO BARAT"}, {"id": "740523", "regency_id": "7405", "name": "KOLONO TIMUR"}, {"id": "740524", "regency_id": "7405", "name": "SABULAKOA"}, {"id": "740525", "regency_id": "7405", "name": "ANDOOLO BARAT"}]
+[
+  {
+    "id": "740501",
+    "regency_id": "7405",
+    "name": "TINANGGEA"
+  },
+  {
+    "id": "740502",
+    "regency_id": "7405",
+    "name": "ANGATA"
+  },
+  {
+    "id": "740503",
+    "regency_id": "7405",
+    "name": "ANDOOLO"
+  },
+  {
+    "id": "740504",
+    "regency_id": "7405",
+    "name": "PALANGGA"
+  },
+  {
+    "id": "740505",
+    "regency_id": "7405",
+    "name": "LANDONO"
+  },
+  {
+    "id": "740506",
+    "regency_id": "7405",
+    "name": "LAINEA"
+  },
+  {
+    "id": "740507",
+    "regency_id": "7405",
+    "name": "KONDA"
+  },
+  {
+    "id": "740508",
+    "regency_id": "7405",
+    "name": "RANOMEETO"
+  },
+  {
+    "id": "740509",
+    "regency_id": "7405",
+    "name": "KOLONO"
+  },
+  {
+    "id": "740510",
+    "regency_id": "7405",
+    "name": "MORAMO"
+  },
+  {
+    "id": "740511",
+    "regency_id": "7405",
+    "name": "LAONTI"
+  },
+  {
+    "id": "740512",
+    "regency_id": "7405",
+    "name": "LALEMBUU"
+  },
+  {
+    "id": "740513",
+    "regency_id": "7405",
+    "name": "BENUA"
+  },
+  {
+    "id": "740514",
+    "regency_id": "7405",
+    "name": "PALANGGA SELATAN"
+  },
+  {
+    "id": "740515",
+    "regency_id": "7405",
+    "name": "MOWILA"
+  },
+  {
+    "id": "740516",
+    "regency_id": "7405",
+    "name": "MORAMO UTARA"
+  },
+  {
+    "id": "740517",
+    "regency_id": "7405",
+    "name": "BUKE"
+  },
+  {
+    "id": "740518",
+    "regency_id": "7405",
+    "name": "WOLASI"
+  },
+  {
+    "id": "740519",
+    "regency_id": "7405",
+    "name": "LAEYA"
+  },
+  {
+    "id": "740520",
+    "regency_id": "7405",
+    "name": "BAITO"
+  },
+  {
+    "id": "740521",
+    "regency_id": "7405",
+    "name": "BASALA"
+  },
+  {
+    "id": "740522",
+    "regency_id": "7405",
+    "name": "RANOMEETO BARAT"
+  },
+  {
+    "id": "740523",
+    "regency_id": "7405",
+    "name": "KOLONO TIMUR"
+  },
+  {
+    "id": "740524",
+    "regency_id": "7405",
+    "name": "SABULAKOA"
+  },
+  {
+    "id": "740525",
+    "regency_id": "7405",
+    "name": "ANDOOLO BARAT"
+  }
+]

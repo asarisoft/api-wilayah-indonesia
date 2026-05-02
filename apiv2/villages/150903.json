@@ -1,1 +1,87 @@
-[{"id": "1509031001", "district_id": "150903", "name": "PULAU TEMIANG"}, {"id": "1509032002", "district_id": "150903", "name": "SUNGAI RAMBAI"}, {"id": "1509032003", "district_id": "150903", "name": "PAGAR PUDING"}, {"id": "1509032004", "district_id": "150903", "name": "TELUK KEMBANG JAMBU"}, {"id": "1509032005", "district_id": "150903", "name": "TELUK KASAI RAMBAHAN"}, {"id": "1509032006", "district_id": "150903", "name": "RANTAU LANGKAP"}, {"id": "1509032007", "district_id": "150903", "name": "TANJUNG AUR"}, {"id": "1509032008", "district_id": "150903", "name": "BUNGO TANJUNG"}, {"id": "1509032009", "district_id": "150903", "name": "PULAU PANJANG"}, {"id": "1509032010", "district_id": "150903", "name": "LUBUK BENTENG"}, {"id": "1509032011", "district_id": "150903", "name": "TELUK KUALI"}, {"id": "1509032012", "district_id": "150903", "name": "MELAKO INTAN"}, {"id": "1509032015", "district_id": "150903", "name": "JAMBU"}, {"id": "1509032016", "district_id": "150903", "name": "PULAU JELMU"}, {"id": "1509032017", "district_id": "150903", "name": "MEDAN SERI RAMBAHAN"}, {"id": "1509032018", "district_id": "150903", "name": "ULAK BANJIR RAMBAHAN"}, {"id": "1509032019", "district_id": "150903", "name": "TELUK PANDAN RAMBAHAN"}]
+[
+  {
+    "id": "1509031001",
+    "district_id": "150903",
+    "name": "PULAU TEMIANG"
+  },
+  {
+    "id": "1509032002",
+    "district_id": "150903",
+    "name": "SUNGAI RAMBAI"
+  },
+  {
+    "id": "1509032003",
+    "district_id": "150903",
+    "name": "PAGAR PUDING"
+  },
+  {
+    "id": "1509032004",
+    "district_id": "150903",
+    "name": "TELUK KEMBANG JAMBU"
+  },
+  {
+    "id": "1509032005",
+    "district_id": "150903",
+    "name": "TELUK KASAI RAMBAHAN"
+  },
+  {
+    "id": "1509032006",
+    "district_id": "150903",
+    "name": "RANTAU LANGKAP"
+  },
+  {
+    "id": "1509032007",
+    "district_id": "150903",
+    "name": "TANJUNG AUR"
+  },
+  {
+    "id": "1509032008",
+    "district_id": "150903",
+    "name": "BUNGO TANJUNG"
+  },
+  {
+    "id": "1509032009",
+    "district_id": "150903",
+    "name": "PULAU PANJANG"
+  },
+  {
+    "id": "1509032010",
+    "district_id": "150903",
+    "name": "LUBUK BENTENG"
+  },
+  {
+    "id": "1509032011",
+    "district_id": "150903",
+    "name": "TELUK KUALI"
+  },
+  {
+    "id": "1509032012",
+    "district_id": "150903",
+    "name": "MELAKO INTAN"
+  },
+  {
+    "id": "1509032015",
+    "district_id": "150903",
+    "name": "JAMBU"
+  },
+  {
+    "id": "1509032016",
+    "district_id": "150903",
+    "name": "PULAU JELMU"
+  },
+  {
+    "id": "1509032017",
+    "district_id": "150903",
+    "name": "MEDAN SERI RAMBAHAN"
+  },
+  {
+    "id": "1509032018",
+    "district_id": "150903",
+    "name": "ULAK BANJIR RAMBAHAN"
+  },
+  {
+    "id": "1509032019",
+    "district_id": "150903",
+    "name": "TELUK PANDAN RAMBAHAN"
+  }
+]

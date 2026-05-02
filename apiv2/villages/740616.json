@@ -1,1 +1,37 @@
-[{"id": "7406162001", "district_id": "740616", "name": "LAMONGGI"}, {"id": "7406162002", "district_id": "740616", "name": "TANGKENO"}, {"id": "7406162003", "district_id": "740616", "name": "LENGORA"}, {"id": "7406162004", "district_id": "740616", "name": "ENANO"}, {"id": "7406162005", "district_id": "740616", "name": "ULUNGKURA"}, {"id": "7406162006", "district_id": "740616", "name": "LENGORA SELATAN"}, {"id": "7406162007", "district_id": "740616", "name": "LENGORA PANTAI"}]
+[
+  {
+    "id": "7406162001",
+    "district_id": "740616",
+    "name": "LAMONGGI"
+  },
+  {
+    "id": "7406162002",
+    "district_id": "740616",
+    "name": "TANGKENO"
+  },
+  {
+    "id": "7406162003",
+    "district_id": "740616",
+    "name": "LENGORA"
+  },
+  {
+    "id": "7406162004",
+    "district_id": "740616",
+    "name": "ENANO"
+  },
+  {
+    "id": "7406162005",
+    "district_id": "740616",
+    "name": "ULUNGKURA"
+  },
+  {
+    "id": "7406162006",
+    "district_id": "740616",
+    "name": "LENGORA SELATAN"
+  },
+  {
+    "id": "7406162007",
+    "district_id": "740616",
+    "name": "LENGORA PANTAI"
+  }
+]

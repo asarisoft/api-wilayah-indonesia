@@ -1,1 +1,37 @@
-[{"id": "7401251001", "district_id": "740125", "name": "POLINGGONA"}, {"id": "7401252002", "district_id": "740125", "name": "PUUDONGI"}, {"id": "7401252003", "district_id": "740125", "name": "PLASMA JAYA"}, {"id": "7401252004", "district_id": "740125", "name": "TANGGEAU"}, {"id": "7401252005", "district_id": "740125", "name": "WULONGGERE"}, {"id": "7401252006", "district_id": "740125", "name": "PONDOWAE"}, {"id": "7401252007", "district_id": "740125", "name": "LAMONDAPE"}]
+[
+  {
+    "id": "7401251001",
+    "district_id": "740125",
+    "name": "POLINGGONA"
+  },
+  {
+    "id": "7401252002",
+    "district_id": "740125",
+    "name": "PUUDONGI"
+  },
+  {
+    "id": "7401252003",
+    "district_id": "740125",
+    "name": "PLASMA JAYA"
+  },
+  {
+    "id": "7401252004",
+    "district_id": "740125",
+    "name": "TANGGEAU"
+  },
+  {
+    "id": "7401252005",
+    "district_id": "740125",
+    "name": "WULONGGERE"
+  },
+  {
+    "id": "7401252006",
+    "district_id": "740125",
+    "name": "PONDOWAE"
+  },
+  {
+    "id": "7401252007",
+    "district_id": "740125",
+    "name": "LAMONDAPE"
+  }
+]

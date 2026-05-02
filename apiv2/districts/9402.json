@@ -1,1 +1,132 @@
-[{"id": "940201", "regency_id": "9402", "name": "MULIA"}, {"id": "940202", "regency_id": "9402", "name": "ILU"}, {"id": "940203", "regency_id": "9402", "name": "FAWI"}, {"id": "940204", "regency_id": "9402", "name": "MEWOLUK"}, {"id": "940205", "regency_id": "9402", "name": "YAMO"}, {"id": "940206", "regency_id": "9402", "name": "NUME"}, {"id": "940207", "regency_id": "9402", "name": "TORERE"}, {"id": "940208", "regency_id": "9402", "name": "TINGGINAMBUT"}, {"id": "940209", "regency_id": "9402", "name": "PAGALEME"}, {"id": "940210", "regency_id": "9402", "name": "GURAGE"}, {"id": "940211", "regency_id": "9402", "name": "IRIMULI"}, {"id": "940212", "regency_id": "9402", "name": "MUARA"}, {"id": "940213", "regency_id": "9402", "name": "ILAMBURAWI"}, {"id": "940214", "regency_id": "9402", "name": "YAMBI"}, {"id": "940215", "regency_id": "9402", "name": "LUMO"}, {"id": "940216", "regency_id": "9402", "name": "MOLANIKIME"}, {"id": "940217", "regency_id": "9402", "name": "DOKOME"}, {"id": "940218", "regency_id": "9402", "name": "KALOME"}, {"id": "940219", "regency_id": "9402", "name": "WANWI"}, {"id": "940220", "regency_id": "9402", "name": "YAMONERI"}, {"id": "940221", "regency_id": "9402", "name": "WAEGI"}, {"id": "940222", "regency_id": "9402", "name": "NIOGA"}, {"id": "940223", "regency_id": "9402", "name": "GUBUME"}, {"id": "940224", "regency_id": "9402", "name": "TAGANOMBAK"}, {"id": "940225", "regency_id": "9402", "name": "DAGAI"}, {"id": "940226", "regency_id": "9402", "name": "KIYAGE"}]
+[
+  {
+    "id": "940201",
+    "regency_id": "9402",
+    "name": "MULIA"
+  },
+  {
+    "id": "940202",
+    "regency_id": "9402",
+    "name": "ILU"
+  },
+  {
+    "id": "940203",
+    "regency_id": "9402",
+    "name": "FAWI"
+  },
+  {
+    "id": "940204",
+    "regency_id": "9402",
+    "name": "MEWOLUK"
+  },
+  {
+    "id": "940205",
+    "regency_id": "9402",
+    "name": "YAMO"
+  },
+  {
+    "id": "940206",
+    "regency_id": "9402",
+    "name": "NUME"
+  },
+  {
+    "id": "940207",
+    "regency_id": "9402",
+    "name": "TORERE"
+  },
+  {
+    "id": "940208",
+    "regency_id": "9402",
+    "name": "TINGGINAMBUT"
+  },
+  {
+    "id": "940209",
+    "regency_id": "9402",
+    "name": "PAGALEME"
+  },
+  {
+    "id": "940210",
+    "regency_id": "9402",
+    "name": "GURAGE"
+  },
+  {
+    "id": "940211",
+    "regency_id": "9402",
+    "name": "IRIMULI"
+  },
+  {
+    "id": "940212",
+    "regency_id": "9402",
+    "name": "MUARA"
+  },
+  {
+    "id": "940213",
+    "regency_id": "9402",
+    "name": "ILAMBURAWI"
+  },
+  {
+    "id": "940214",
+    "regency_id": "9402",
+    "name": "YAMBI"
+  },
+  {
+    "id": "940215",
+    "regency_id": "9402",
+    "name": "LUMO"
+  },
+  {
+    "id": "940216",
+    "regency_id": "9402",
+    "name": "MOLANIKIME"
+  },
+  {
+    "id": "940217",
+    "regency_id": "9402",
+    "name": "DOKOME"
+  },
+  {
+    "id": "940218",
+    "regency_id": "9402",
+    "name": "KALOME"
+  },
+  {
+    "id": "940219",
+    "regency_id": "9402",
+    "name": "WANWI"
+  },
+  {
+    "id": "940220",
+    "regency_id": "9402",
+    "name": "YAMONERI"
+  },
+  {
+    "id": "940221",
+    "regency_id": "9402",
+    "name": "WAEGI"
+  },
+  {
+    "id": "940222",
+    "regency_id": "9402",
+    "name": "NIOGA"
+  },
+  {
+    "id": "940223",
+    "regency_id": "9402",
+    "name": "GUBUME"
+  },
+  {
+    "id": "940224",
+    "regency_id": "9402",
+    "name": "TAGANOMBAK"
+  },
+  {
+    "id": "940225",
+    "regency_id": "9402",
+    "name": "DAGAI"
+  },
+  {
+    "id": "940226",
+    "regency_id": "9402",
+    "name": "KIYAGE"
+  }
+]

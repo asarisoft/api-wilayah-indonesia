@@ -1,1 +1,32 @@
-[{"id": "3172031001", "district_id": "317203", "name": "KOJA"}, {"id": "3172031002", "district_id": "317203", "name": "TUGU UTARA"}, {"id": "3172031003", "district_id": "317203", "name": "LAGOA"}, {"id": "3172031004", "district_id": "317203", "name": "RAWA BADAK UTARA"}, {"id": "3172031005", "district_id": "317203", "name": "TUGU SELATAN"}, {"id": "3172031006", "district_id": "317203", "name": "RAWA BADAK SELATAN"}]
+[
+  {
+    "id": "3172031001",
+    "district_id": "317203",
+    "name": "KOJA"
+  },
+  {
+    "id": "3172031002",
+    "district_id": "317203",
+    "name": "TUGU UTARA"
+  },
+  {
+    "id": "3172031003",
+    "district_id": "317203",
+    "name": "LAGOA"
+  },
+  {
+    "id": "3172031004",
+    "district_id": "317203",
+    "name": "RAWA BADAK UTARA"
+  },
+  {
+    "id": "3172031005",
+    "district_id": "317203",
+    "name": "TUGU SELATAN"
+  },
+  {
+    "id": "3172031006",
+    "district_id": "317203",
+    "name": "RAWA BADAK SELATAN"
+  }
+]

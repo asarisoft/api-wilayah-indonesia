@@ -1,1 +1,67 @@
-[{"id": "130701", "regency_id": "1307", "name": "SULIKI"}, {"id": "130702", "regency_id": "1307", "name": "GUGUAK"}, {"id": "130703", "regency_id": "1307", "name": "PAYAKUMBUH"}, {"id": "130704", "regency_id": "1307", "name": "LUAK"}, {"id": "130705", "regency_id": "1307", "name": "HARAU"}, {"id": "130706", "regency_id": "1307", "name": "PANGKALAN KOTO BARU"}, {"id": "130707", "regency_id": "1307", "name": "KAPUR IX"}, {"id": "130708", "regency_id": "1307", "name": "GUNUANG OMEH"}, {"id": "130709", "regency_id": "1307", "name": "LAREH SAGO HALABAN"}, {"id": "130710", "regency_id": "1307", "name": "SITUJUAH LIMO NAGARI"}, {"id": "130711", "regency_id": "1307", "name": "MUNGKA"}, {"id": "130712", "regency_id": "1307", "name": "BUKIK BARISAN"}, {"id": "130713", "regency_id": "1307", "name": "AKABILURU"}]
+[
+  {
+    "id": "130701",
+    "regency_id": "1307",
+    "name": "SULIKI"
+  },
+  {
+    "id": "130702",
+    "regency_id": "1307",
+    "name": "GUGUAK"
+  },
+  {
+    "id": "130703",
+    "regency_id": "1307",
+    "name": "PAYAKUMBUH"
+  },
+  {
+    "id": "130704",
+    "regency_id": "1307",
+    "name": "LUAK"
+  },
+  {
+    "id": "130705",
+    "regency_id": "1307",
+    "name": "HARAU"
+  },
+  {
+    "id": "130706",
+    "regency_id": "1307",
+    "name": "PANGKALAN KOTO BARU"
+  },
+  {
+    "id": "130707",
+    "regency_id": "1307",
+    "name": "KAPUR IX"
+  },
+  {
+    "id": "130708",
+    "regency_id": "1307",
+    "name": "GUNUANG OMEH"
+  },
+  {
+    "id": "130709",
+    "regency_id": "1307",
+    "name": "LAREH SAGO HALABAN"
+  },
+  {
+    "id": "130710",
+    "regency_id": "1307",
+    "name": "SITUJUAH LIMO NAGARI"
+  },
+  {
+    "id": "130711",
+    "regency_id": "1307",
+    "name": "MUNGKA"
+  },
+  {
+    "id": "130712",
+    "regency_id": "1307",
+    "name": "BUKIK BARISAN"
+  },
+  {
+    "id": "130713",
+    "regency_id": "1307",
+    "name": "AKABILURU"
+  }
+]

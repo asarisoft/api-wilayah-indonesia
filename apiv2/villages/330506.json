@@ -1,1 +1,107 @@
-[{"id": "3305062001", "district_id": "330506", "name": "AYAMPUTIH"}, {"id": "3305062002", "district_id": "330506", "name": "SETROJENAR"}, {"id": "3305062003", "district_id": "330506", "name": "BRECONG"}, {"id": "3305062004", "district_id": "330506", "name": "BANJURPASAR"}, {"id": "3305062005", "district_id": "330506", "name": "INDROSARI"}, {"id": "3305062006", "district_id": "330506", "name": "BULUSPESANTREN"}, {"id": "3305062007", "district_id": "330506", "name": "BANJURMUKADAN"}, {"id": "3305062008", "district_id": "330506", "name": "WALUYO"}, {"id": "3305062009", "district_id": "330506", "name": "BOCOR"}, {"id": "3305062010", "district_id": "330506", "name": "MADURETNO"}, {"id": "3305062011", "district_id": "330506", "name": "AMBALKUMOLO"}, {"id": "3305062012", "district_id": "330506", "name": "RANTEWRINGIN"}, {"id": "3305062013", "district_id": "330506", "name": "TAMBAKREJO"}, {"id": "3305062014", "district_id": "330506", "name": "SANGUBANYU"}, {"id": "3305062015", "district_id": "330506", "name": "ARJOWINANGUN"}, {"id": "3305062016", "district_id": "330506", "name": "AMPIH"}, {"id": "3305062017", "district_id": "330506", "name": "JOGOPATEN"}, {"id": "3305062018", "district_id": "330506", "name": "KLAPASAWIT"}, {"id": "3305062019", "district_id": "330506", "name": "SIDOMORO"}, {"id": "3305062020", "district_id": "330506", "name": "TANJUNGREJO"}, {"id": "3305062021", "district_id": "330506", "name": "TANJUNGSARI"}]
+[
+  {
+    "id": "3305062001",
+    "district_id": "330506",
+    "name": "AYAMPUTIH"
+  },
+  {
+    "id": "3305062002",
+    "district_id": "330506",
+    "name": "SETROJENAR"
+  },
+  {
+    "id": "3305062003",
+    "district_id": "330506",
+    "name": "BRECONG"
+  },
+  {
+    "id": "3305062004",
+    "district_id": "330506",
+    "name": "BANJURPASAR"
+  },
+  {
+    "id": "3305062005",
+    "district_id": "330506",
+    "name": "INDROSARI"
+  },
+  {
+    "id": "3305062006",
+    "district_id": "330506",
+    "name": "BULUSPESANTREN"
+  },
+  {
+    "id": "3305062007",
+    "district_id": "330506",
+    "name": "BANJURMUKADAN"
+  },
+  {
+    "id": "3305062008",
+    "district_id": "330506",
+    "name": "WALUYO"
+  },
+  {
+    "id": "3305062009",
+    "district_id": "330506",
+    "name": "BOCOR"
+  },
+  {
+    "id": "3305062010",
+    "district_id": "330506",
+    "name": "MADURETNO"
+  },
+  {
+    "id": "3305062011",
+    "district_id": "330506",
+    "name": "AMBALKUMOLO"
+  },
+  {
+    "id": "3305062012",
+    "district_id": "330506",
+    "name": "RANTEWRINGIN"
+  },
+  {
+    "id": "3305062013",
+    "district_id": "330506",
+    "name": "TAMBAKREJO"
+  },
+  {
+    "id": "3305062014",
+    "district_id": "330506",
+    "name": "SANGUBANYU"
+  },
+  {
+    "id": "3305062015",
+    "district_id": "330506",
+    "name": "ARJOWINANGUN"
+  },
+  {
+    "id": "3305062016",
+    "district_id": "330506",
+    "name": "AMPIH"
+  },
+  {
+    "id": "3305062017",
+    "district_id": "330506",
+    "name": "JOGOPATEN"
+  },
+  {
+    "id": "3305062018",
+    "district_id": "330506",
+    "name": "KLAPASAWIT"
+  },
+  {
+    "id": "3305062019",
+    "district_id": "330506",
+    "name": "SIDOMORO"
+  },
+  {
+    "id": "3305062020",
+    "district_id": "330506",
+    "name": "TANJUNGREJO"
+  },
+  {
+    "id": "3305062021",
+    "district_id": "330506",
+    "name": "TANJUNGSARI"
+  }
+]

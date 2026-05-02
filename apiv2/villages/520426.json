@@ -1,1 +1,37 @@
-[{"id": "5204262001", "district_id": "520426", "name": "PUNGKIT"}, {"id": "5204262002", "district_id": "520426", "name": "BERORA"}, {"id": "5204262003", "district_id": "520426", "name": "LOPOK"}, {"id": "5204262004", "district_id": "520426", "name": "LANGAM"}, {"id": "5204262005", "district_id": "520426", "name": "MAMA"}, {"id": "5204262006", "district_id": "520426", "name": "LOPOK BERU"}, {"id": "5204262007", "district_id": "520426", "name": "TATEDE"}]
+[
+  {
+    "id": "5204262001",
+    "district_id": "520426",
+    "name": "PUNGKIT"
+  },
+  {
+    "id": "5204262002",
+    "district_id": "520426",
+    "name": "BERORA"
+  },
+  {
+    "id": "5204262003",
+    "district_id": "520426",
+    "name": "LOPOK"
+  },
+  {
+    "id": "5204262004",
+    "district_id": "520426",
+    "name": "LANGAM"
+  },
+  {
+    "id": "5204262005",
+    "district_id": "520426",
+    "name": "MAMA"
+  },
+  {
+    "id": "5204262006",
+    "district_id": "520426",
+    "name": "LOPOK BERU"
+  },
+  {
+    "id": "5204262007",
+    "district_id": "520426",
+    "name": "TATEDE"
+  }
+]

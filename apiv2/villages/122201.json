@@ -1,1 +1,52 @@
-[{"id": "1222011001", "district_id": "122201", "name": "KOTAPINANG"}, {"id": "1222012002", "district_id": "122201", "name": "SIMATAHARI"}, {"id": "1222012003", "district_id": "122201", "name": "MAMPANG"}, {"id": "1222012004", "district_id": "122201", "name": "PASIR TUNTUNG"}, {"id": "1222012005", "district_id": "122201", "name": "SISUMUT"}, {"id": "1222012006", "district_id": "122201", "name": "HADUNDUNG"}, {"id": "1222012007", "district_id": "122201", "name": "SOSOPAN"}, {"id": "1222012008", "district_id": "122201", "name": "PERKEBUNAN NOMARK"}, {"id": "1222012009", "district_id": "122201", "name": "PERKEBUNAN NAGODANG"}, {"id": "1222012010", "district_id": "122201", "name": "PERK. SEI RUMBIA"}]
+[
+  {
+    "id": "1222011001",
+    "district_id": "122201",
+    "name": "KOTAPINANG"
+  },
+  {
+    "id": "1222012002",
+    "district_id": "122201",
+    "name": "SIMATAHARI"
+  },
+  {
+    "id": "1222012003",
+    "district_id": "122201",
+    "name": "MAMPANG"
+  },
+  {
+    "id": "1222012004",
+    "district_id": "122201",
+    "name": "PASIR TUNTUNG"
+  },
+  {
+    "id": "1222012005",
+    "district_id": "122201",
+    "name": "SISUMUT"
+  },
+  {
+    "id": "1222012006",
+    "district_id": "122201",
+    "name": "HADUNDUNG"
+  },
+  {
+    "id": "1222012007",
+    "district_id": "122201",
+    "name": "SOSOPAN"
+  },
+  {
+    "id": "1222012008",
+    "district_id": "122201",
+    "name": "PERKEBUNAN NOMARK"
+  },
+  {
+    "id": "1222012009",
+    "district_id": "122201",
+    "name": "PERKEBUNAN NAGODANG"
+  },
+  {
+    "id": "1222012010",
+    "district_id": "122201",
+    "name": "PERK. SEI RUMBIA"
+  }
+]

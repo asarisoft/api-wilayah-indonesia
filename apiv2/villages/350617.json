@@ -1,1 +1,52 @@
-[{"id": "3506171009", "district_id": "350617", "name": "PARE"}, {"id": "3506172001", "district_id": "350617", "name": "SIDOREJO"}, {"id": "3506172002", "district_id": "350617", "name": "SAMBIREJO"}, {"id": "3506172003", "district_id": "350617", "name": "GEDANGSEWU"}, {"id": "3506172004", "district_id": "350617", "name": "SUMBERBENDO"}, {"id": "3506172005", "district_id": "350617", "name": "DARUNGAN"}, {"id": "3506172006", "district_id": "350617", "name": "BENDO"}, {"id": "3506172007", "district_id": "350617", "name": "PELEM"}, {"id": "3506172008", "district_id": "350617", "name": "TULUNGREJO"}, {"id": "3506172010", "district_id": "350617", "name": "TERTEK"}]
+[
+  {
+    "id": "3506171009",
+    "district_id": "350617",
+    "name": "PARE"
+  },
+  {
+    "id": "3506172001",
+    "district_id": "350617",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3506172002",
+    "district_id": "350617",
+    "name": "SAMBIREJO"
+  },
+  {
+    "id": "3506172003",
+    "district_id": "350617",
+    "name": "GEDANGSEWU"
+  },
+  {
+    "id": "3506172004",
+    "district_id": "350617",
+    "name": "SUMBERBENDO"
+  },
+  {
+    "id": "3506172005",
+    "district_id": "350617",
+    "name": "DARUNGAN"
+  },
+  {
+    "id": "3506172006",
+    "district_id": "350617",
+    "name": "BENDO"
+  },
+  {
+    "id": "3506172007",
+    "district_id": "350617",
+    "name": "PELEM"
+  },
+  {
+    "id": "3506172008",
+    "district_id": "350617",
+    "name": "TULUNGREJO"
+  },
+  {
+    "id": "3506172010",
+    "district_id": "350617",
+    "name": "TERTEK"
+  }
+]

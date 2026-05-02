@@ -1,1 +1,47 @@
-[{"id": "3674011001", "district_id": "367401", "name": "CIATER"}, {"id": "3674011002", "district_id": "367401", "name": "RAWABUNTU"}, {"id": "3674011003", "district_id": "367401", "name": "RAWA MEKAR JAYA"}, {"id": "3674011004", "district_id": "367401", "name": "LENGKONG GUDANG"}, {"id": "3674011005", "district_id": "367401", "name": "LENGKONG WETAN"}, {"id": "3674011006", "district_id": "367401", "name": "BUARAN"}, {"id": "3674011007", "district_id": "367401", "name": "LENGKONG GUDANG TIMUR"}, {"id": "3674011008", "district_id": "367401", "name": "CILENGGANG"}, {"id": "3674011009", "district_id": "367401", "name": "SERPONG"}]
+[
+  {
+    "id": "3674011001",
+    "district_id": "367401",
+    "name": "CIATER"
+  },
+  {
+    "id": "3674011002",
+    "district_id": "367401",
+    "name": "RAWABUNTU"
+  },
+  {
+    "id": "3674011003",
+    "district_id": "367401",
+    "name": "RAWA MEKAR JAYA"
+  },
+  {
+    "id": "3674011004",
+    "district_id": "367401",
+    "name": "LENGKONG GUDANG"
+  },
+  {
+    "id": "3674011005",
+    "district_id": "367401",
+    "name": "LENGKONG WETAN"
+  },
+  {
+    "id": "3674011006",
+    "district_id": "367401",
+    "name": "BUARAN"
+  },
+  {
+    "id": "3674011007",
+    "district_id": "367401",
+    "name": "LENGKONG GUDANG TIMUR"
+  },
+  {
+    "id": "3674011008",
+    "district_id": "367401",
+    "name": "CILENGGANG"
+  },
+  {
+    "id": "3674011009",
+    "district_id": "367401",
+    "name": "SERPONG"
+  }
+]

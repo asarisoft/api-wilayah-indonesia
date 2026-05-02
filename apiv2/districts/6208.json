@@ -1,1 +1,27 @@
-[{"id": "620801", "regency_id": "6208", "name": "SUKAMARA"}, {"id": "620802", "regency_id": "6208", "name": "JELAI"}, {"id": "620803", "regency_id": "6208", "name": "BALAI RIAM"}, {"id": "620804", "regency_id": "6208", "name": "PANTAI LUNCI"}, {"id": "620805", "regency_id": "6208", "name": "PERMATA KECUBUNG"}]
+[
+  {
+    "id": "620801",
+    "regency_id": "6208",
+    "name": "SUKAMARA"
+  },
+  {
+    "id": "620802",
+    "regency_id": "6208",
+    "name": "JELAI"
+  },
+  {
+    "id": "620803",
+    "regency_id": "6208",
+    "name": "BALAI RIAM"
+  },
+  {
+    "id": "620804",
+    "regency_id": "6208",
+    "name": "PANTAI LUNCI"
+  },
+  {
+    "id": "620805",
+    "regency_id": "6208",
+    "name": "PERMATA KECUBUNG"
+  }
+]

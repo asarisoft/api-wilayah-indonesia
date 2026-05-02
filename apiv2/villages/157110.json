@@ -1,1 +1,27 @@
-[{"id": "1571101001", "district_id": "157110", "name": "SUNGAI PUTRI"}, {"id": "1571101002", "district_id": "157110", "name": "MURNI"}, {"id": "1571101003", "district_id": "157110", "name": "LEGOK"}, {"id": "1571101004", "district_id": "157110", "name": "SELAMAT"}, {"id": "1571101005", "district_id": "157110", "name": "SOLOK SIPIN"}]
+[
+  {
+    "id": "1571101001",
+    "district_id": "157110",
+    "name": "SUNGAI PUTRI"
+  },
+  {
+    "id": "1571101002",
+    "district_id": "157110",
+    "name": "MURNI"
+  },
+  {
+    "id": "1571101003",
+    "district_id": "157110",
+    "name": "LEGOK"
+  },
+  {
+    "id": "1571101004",
+    "district_id": "157110",
+    "name": "SELAMAT"
+  },
+  {
+    "id": "1571101005",
+    "district_id": "157110",
+    "name": "SOLOK SIPIN"
+  }
+]

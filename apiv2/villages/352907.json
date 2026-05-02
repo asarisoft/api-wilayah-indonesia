@@ -1,1 +1,102 @@
-[{"id": "3529072001", "district_id": "352907", "name": "MONCEK BARAT"}, {"id": "3529072002", "district_id": "352907", "name": "MONCEK TENGAH"}, {"id": "3529072003", "district_id": "352907", "name": "MONCEK TIMUR"}, {"id": "3529072004", "district_id": "352907", "name": "BANARESEP TIMUR"}, {"id": "3529072005", "district_id": "352907", "name": "TAROGAN"}, {"id": "3529072006", "district_id": "352907", "name": "KAMBINGAN BARAT"}, {"id": "3529072007", "district_id": "352907", "name": "POREH"}, {"id": "3529072008", "district_id": "352907", "name": "LENTENG TIMUR"}, {"id": "3529072009", "district_id": "352907", "name": "LEMBUNG TIMUR"}, {"id": "3529072010", "district_id": "352907", "name": "LENTENG BARAT"}, {"id": "3529072011", "district_id": "352907", "name": "BANARESEP BARAT"}, {"id": "3529072012", "district_id": "352907", "name": "BILLAPORA REBBA"}, {"id": "3529072013", "district_id": "352907", "name": "LEMBUNG BARAT"}, {"id": "3529072014", "district_id": "352907", "name": "ELLAK LAOK"}, {"id": "3529072015", "district_id": "352907", "name": "ELLAK DAYA"}, {"id": "3529072016", "district_id": "352907", "name": "DARAMISTA"}, {"id": "3529072017", "district_id": "352907", "name": "JAMBU"}, {"id": "3529072018", "district_id": "352907", "name": "CANGKRENG"}, {"id": "3529072019", "district_id": "352907", "name": "MEDDELAN"}, {"id": "3529072020", "district_id": "352907", "name": "SENDIR"}]
+[
+  {
+    "id": "3529072001",
+    "district_id": "352907",
+    "name": "MONCEK BARAT"
+  },
+  {
+    "id": "3529072002",
+    "district_id": "352907",
+    "name": "MONCEK TENGAH"
+  },
+  {
+    "id": "3529072003",
+    "district_id": "352907",
+    "name": "MONCEK TIMUR"
+  },
+  {
+    "id": "3529072004",
+    "district_id": "352907",
+    "name": "BANARESEP TIMUR"
+  },
+  {
+    "id": "3529072005",
+    "district_id": "352907",
+    "name": "TAROGAN"
+  },
+  {
+    "id": "3529072006",
+    "district_id": "352907",
+    "name": "KAMBINGAN BARAT"
+  },
+  {
+    "id": "3529072007",
+    "district_id": "352907",
+    "name": "POREH"
+  },
+  {
+    "id": "3529072008",
+    "district_id": "352907",
+    "name": "LENTENG TIMUR"
+  },
+  {
+    "id": "3529072009",
+    "district_id": "352907",
+    "name": "LEMBUNG TIMUR"
+  },
+  {
+    "id": "3529072010",
+    "district_id": "352907",
+    "name": "LENTENG BARAT"
+  },
+  {
+    "id": "3529072011",
+    "district_id": "352907",
+    "name": "BANARESEP BARAT"
+  },
+  {
+    "id": "3529072012",
+    "district_id": "352907",
+    "name": "BILLAPORA REBBA"
+  },
+  {
+    "id": "3529072013",
+    "district_id": "352907",
+    "name": "LEMBUNG BARAT"
+  },
+  {
+    "id": "3529072014",
+    "district_id": "352907",
+    "name": "ELLAK LAOK"
+  },
+  {
+    "id": "3529072015",
+    "district_id": "352907",
+    "name": "ELLAK DAYA"
+  },
+  {
+    "id": "3529072016",
+    "district_id": "352907",
+    "name": "DARAMISTA"
+  },
+  {
+    "id": "3529072017",
+    "district_id": "352907",
+    "name": "JAMBU"
+  },
+  {
+    "id": "3529072018",
+    "district_id": "352907",
+    "name": "CANGKRENG"
+  },
+  {
+    "id": "3529072019",
+    "district_id": "352907",
+    "name": "MEDDELAN"
+  },
+  {
+    "id": "3529072020",
+    "district_id": "352907",
+    "name": "SENDIR"
+  }
+]

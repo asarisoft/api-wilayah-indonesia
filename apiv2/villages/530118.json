@@ -1,1 +1,27 @@
-[{"id": "5301181001", "district_id": "530118", "name": "BURAEN"}, {"id": "5301181002", "district_id": "530118", "name": "SONRAEN"}, {"id": "5301182003", "district_id": "530118", "name": "NEKMESE"}, {"id": "5301182004", "district_id": "530118", "name": "RETRAEN"}, {"id": "5301182005", "district_id": "530118", "name": "SAHRAEN"}]
+[
+  {
+    "id": "5301181001",
+    "district_id": "530118",
+    "name": "BURAEN"
+  },
+  {
+    "id": "5301181002",
+    "district_id": "530118",
+    "name": "SONRAEN"
+  },
+  {
+    "id": "5301182003",
+    "district_id": "530118",
+    "name": "NEKMESE"
+  },
+  {
+    "id": "5301182004",
+    "district_id": "530118",
+    "name": "RETRAEN"
+  },
+  {
+    "id": "5301182005",
+    "district_id": "530118",
+    "name": "SAHRAEN"
+  }
+]

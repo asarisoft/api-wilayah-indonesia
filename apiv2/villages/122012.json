@@ -1,1 +1,67 @@
-[{"id": "1220122001", "district_id": "122012", "name": "HUTA RAJA"}, {"id": "1220122002", "district_id": "122012", "name": "UJUNG BATU JULU"}, {"id": "1220122003", "district_id": "122012", "name": "GUNUNG MANAON UB"}, {"id": "1220122004", "district_id": "122012", "name": "LABUHAN JURUNG"}, {"id": "1220122005", "district_id": "122012", "name": "MARTUJUAN"}, {"id": "1220122006", "district_id": "122012", "name": "PAYA BAHUNG UB"}, {"id": "1220122007", "district_id": "122012", "name": "TOBING TINGGI UB"}, {"id": "1220122008", "district_id": "122012", "name": "UJUNG BATU JAE"}, {"id": "1220122009", "district_id": "122012", "name": "MARLAUNG"}, {"id": "1220122010", "district_id": "122012", "name": "MANANTI"}, {"id": "1220122011", "district_id": "122012", "name": "JAMBU TONANG"}, {"id": "1220122012", "district_id": "122012", "name": "MANARE TUA"}, {"id": "1220122013", "district_id": "122012", "name": "PASIR LANCAT UB"}]
+[
+  {
+    "id": "1220122001",
+    "district_id": "122012",
+    "name": "HUTA RAJA"
+  },
+  {
+    "id": "1220122002",
+    "district_id": "122012",
+    "name": "UJUNG BATU JULU"
+  },
+  {
+    "id": "1220122003",
+    "district_id": "122012",
+    "name": "GUNUNG MANAON UB"
+  },
+  {
+    "id": "1220122004",
+    "district_id": "122012",
+    "name": "LABUHAN JURUNG"
+  },
+  {
+    "id": "1220122005",
+    "district_id": "122012",
+    "name": "MARTUJUAN"
+  },
+  {
+    "id": "1220122006",
+    "district_id": "122012",
+    "name": "PAYA BAHUNG UB"
+  },
+  {
+    "id": "1220122007",
+    "district_id": "122012",
+    "name": "TOBING TINGGI UB"
+  },
+  {
+    "id": "1220122008",
+    "district_id": "122012",
+    "name": "UJUNG BATU JAE"
+  },
+  {
+    "id": "1220122009",
+    "district_id": "122012",
+    "name": "MARLAUNG"
+  },
+  {
+    "id": "1220122010",
+    "district_id": "122012",
+    "name": "MANANTI"
+  },
+  {
+    "id": "1220122011",
+    "district_id": "122012",
+    "name": "JAMBU TONANG"
+  },
+  {
+    "id": "1220122012",
+    "district_id": "122012",
+    "name": "MANARE TUA"
+  },
+  {
+    "id": "1220122013",
+    "district_id": "122012",
+    "name": "PASIR LANCAT UB"
+  }
+]

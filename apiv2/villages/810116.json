@@ -1,1 +1,37 @@
-[{"id": "8101162001", "district_id": "810116", "name": "AMETH"}, {"id": "8101162002", "district_id": "810116", "name": "TITAWAAI"}, {"id": "8101162003", "district_id": "810116", "name": "ABUBU"}, {"id": "8101162004", "district_id": "810116", "name": "AKOON"}, {"id": "8101162005", "district_id": "810116", "name": "NALAHIA"}, {"id": "8101162006", "district_id": "810116", "name": "SILA"}, {"id": "8101162007", "district_id": "810116", "name": "LEINITU"}]
+[
+  {
+    "id": "8101162001",
+    "district_id": "810116",
+    "name": "AMETH"
+  },
+  {
+    "id": "8101162002",
+    "district_id": "810116",
+    "name": "TITAWAAI"
+  },
+  {
+    "id": "8101162003",
+    "district_id": "810116",
+    "name": "ABUBU"
+  },
+  {
+    "id": "8101162004",
+    "district_id": "810116",
+    "name": "AKOON"
+  },
+  {
+    "id": "8101162005",
+    "district_id": "810116",
+    "name": "NALAHIA"
+  },
+  {
+    "id": "8101162006",
+    "district_id": "810116",
+    "name": "SILA"
+  },
+  {
+    "id": "8101162007",
+    "district_id": "810116",
+    "name": "LEINITU"
+  }
+]

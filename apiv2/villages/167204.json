@@ -1,1 +1,27 @@
-[{"id": "1672041002", "district_id": "167204", "name": "LUBUK BUNTAK"}, {"id": "1672041018", "district_id": "167204", "name": "PRAHU DIPO"}, {"id": "1672041020", "district_id": "167204", "name": "KANCE DIWE"}, {"id": "1672041021", "district_id": "167204", "name": "ATUNG BUNGSU"}, {"id": "1672041022", "district_id": "167204", "name": "PENJALANG"}]
+[
+  {
+    "id": "1672041002",
+    "district_id": "167204",
+    "name": "LUBUK BUNTAK"
+  },
+  {
+    "id": "1672041018",
+    "district_id": "167204",
+    "name": "PRAHU DIPO"
+  },
+  {
+    "id": "1672041020",
+    "district_id": "167204",
+    "name": "KANCE DIWE"
+  },
+  {
+    "id": "1672041021",
+    "district_id": "167204",
+    "name": "ATUNG BUNGSU"
+  },
+  {
+    "id": "1672041022",
+    "district_id": "167204",
+    "name": "PENJALANG"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "3207312001", "district_id": "320731", "name": "SINDANGKASIH"}, {"id": "3207312002", "district_id": "320731", "name": "GUNUNGCUPU"}, {"id": "3207312003", "district_id": "320731", "name": "BUDIASIH"}, {"id": "3207312004", "district_id": "320731", "name": "BUDIHARJA"}, {"id": "3207312005", "district_id": "320731", "name": "SUKARAJA"}, {"id": "3207312006", "district_id": "320731", "name": "SUKAMANAH"}, {"id": "3207312007", "district_id": "320731", "name": "SUKASENANG"}, {"id": "3207312008", "district_id": "320731", "name": "SUKARESIK"}, {"id": "3207312009", "district_id": "320731", "name": "WANASIGRA"}]
+[
+  {
+    "id": "3207312001",
+    "district_id": "320731",
+    "name": "SINDANGKASIH"
+  },
+  {
+    "id": "3207312002",
+    "district_id": "320731",
+    "name": "GUNUNGCUPU"
+  },
+  {
+    "id": "3207312003",
+    "district_id": "320731",
+    "name": "BUDIASIH"
+  },
+  {
+    "id": "3207312004",
+    "district_id": "320731",
+    "name": "BUDIHARJA"
+  },
+  {
+    "id": "3207312005",
+    "district_id": "320731",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "3207312006",
+    "district_id": "320731",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3207312007",
+    "district_id": "320731",
+    "name": "SUKASENANG"
+  },
+  {
+    "id": "3207312008",
+    "district_id": "320731",
+    "name": "SUKARESIK"
+  },
+  {
+    "id": "3207312009",
+    "district_id": "320731",
+    "name": "WANASIGRA"
+  }
+]

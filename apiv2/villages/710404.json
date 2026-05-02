@@ -1,1 +1,42 @@
-[{"id": "7104042006", "district_id": "710404", "name": "ESSANG"}, {"id": "7104042007", "district_id": "710404", "name": "LALUE"}, {"id": "7104042008", "district_id": "710404", "name": "BULUDE"}, {"id": "7104042016", "district_id": "710404", "name": "MARIRIK"}, {"id": "7104042018", "district_id": "710404", "name": "ESSANG SELATAN"}, {"id": "7104042019", "district_id": "710404", "name": "BULUDE SELATAN"}, {"id": "7104042020", "district_id": "710404", "name": "LALUE TENGAH"}, {"id": "7104042021", "district_id": "710404", "name": "LALUE UTARA"}]
+[
+  {
+    "id": "7104042006",
+    "district_id": "710404",
+    "name": "ESSANG"
+  },
+  {
+    "id": "7104042007",
+    "district_id": "710404",
+    "name": "LALUE"
+  },
+  {
+    "id": "7104042008",
+    "district_id": "710404",
+    "name": "BULUDE"
+  },
+  {
+    "id": "7104042016",
+    "district_id": "710404",
+    "name": "MARIRIK"
+  },
+  {
+    "id": "7104042018",
+    "district_id": "710404",
+    "name": "ESSANG SELATAN"
+  },
+  {
+    "id": "7104042019",
+    "district_id": "710404",
+    "name": "BULUDE SELATAN"
+  },
+  {
+    "id": "7104042020",
+    "district_id": "710404",
+    "name": "LALUE TENGAH"
+  },
+  {
+    "id": "7104042021",
+    "district_id": "710404",
+    "name": "LALUE UTARA"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "1703192001", "district_id": "170319", "name": "KOTA LEKAT"}, {"id": "1703192002", "district_id": "170319", "name": "PADANG BENDAR"}, {"id": "1703192003", "district_id": "170319", "name": "TABA PADANG R"}, {"id": "1703192004", "district_id": "170319", "name": "TABA PADANG KOL"}, {"id": "1703192005", "district_id": "170319", "name": "AIR BANAI"}, {"id": "1703192006", "district_id": "170319", "name": "BATU RAJA R"}, {"id": "1703192007", "district_id": "170319", "name": "BATU RAJA KOL"}, {"id": "1703192008", "district_id": "170319", "name": "BATU LAYANG"}, {"id": "1703192009", "district_id": "170319", "name": "BATU ROTO"}, {"id": "1703192010", "district_id": "170319", "name": "AIR BA'US I"}, {"id": "1703192011", "district_id": "170319", "name": "AIR BA'US II"}, {"id": "1703192012", "district_id": "170319", "name": "PEMATANG BALAM"}, {"id": "1703192013", "district_id": "170319", "name": "TALANG RENDAH"}, {"id": "1703192014", "district_id": "170319", "name": "SUMBER REJO"}, {"id": "1703192015", "district_id": "170319", "name": "KOTA LEKAT MUDIK"}]
+[
+  {
+    "id": "1703192001",
+    "district_id": "170319",
+    "name": "KOTA LEKAT"
+  },
+  {
+    "id": "1703192002",
+    "district_id": "170319",
+    "name": "PADANG BENDAR"
+  },
+  {
+    "id": "1703192003",
+    "district_id": "170319",
+    "name": "TABA PADANG R"
+  },
+  {
+    "id": "1703192004",
+    "district_id": "170319",
+    "name": "TABA PADANG KOL"
+  },
+  {
+    "id": "1703192005",
+    "district_id": "170319",
+    "name": "AIR BANAI"
+  },
+  {
+    "id": "1703192006",
+    "district_id": "170319",
+    "name": "BATU RAJA R"
+  },
+  {
+    "id": "1703192007",
+    "district_id": "170319",
+    "name": "BATU RAJA KOL"
+  },
+  {
+    "id": "1703192008",
+    "district_id": "170319",
+    "name": "BATU LAYANG"
+  },
+  {
+    "id": "1703192009",
+    "district_id": "170319",
+    "name": "BATU ROTO"
+  },
+  {
+    "id": "1703192010",
+    "district_id": "170319",
+    "name": "AIR BA'US I"
+  },
+  {
+    "id": "1703192011",
+    "district_id": "170319",
+    "name": "AIR BA'US II"
+  },
+  {
+    "id": "1703192012",
+    "district_id": "170319",
+    "name": "PEMATANG BALAM"
+  },
+  {
+    "id": "1703192013",
+    "district_id": "170319",
+    "name": "TALANG RENDAH"
+  },
+  {
+    "id": "1703192014",
+    "district_id": "170319",
+    "name": "SUMBER REJO"
+  },
+  {
+    "id": "1703192015",
+    "district_id": "170319",
+    "name": "KOTA LEKAT MUDIK"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "6302192001", "district_id": "630219", "name": "SENGAYAM"}, {"id": "6302192002", "district_id": "630219", "name": "MAYANG SARI"}, {"id": "6302192003", "district_id": "630219", "name": "MARGA JAYA"}, {"id": "6302192004", "district_id": "630219", "name": "MANGKA"}, {"id": "6302192005", "district_id": "630219", "name": "BATUAH"}]
+[
+  {
+    "id": "6302192001",
+    "district_id": "630219",
+    "name": "SENGAYAM"
+  },
+  {
+    "id": "6302192002",
+    "district_id": "630219",
+    "name": "MAYANG SARI"
+  },
+  {
+    "id": "6302192003",
+    "district_id": "630219",
+    "name": "MARGA JAYA"
+  },
+  {
+    "id": "6302192004",
+    "district_id": "630219",
+    "name": "MANGKA"
+  },
+  {
+    "id": "6302192005",
+    "district_id": "630219",
+    "name": "BATUAH"
+  }
+]

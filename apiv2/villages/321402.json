@@ -1,1 +1,52 @@
-[{"id": "3214022001", "district_id": "321402", "name": "CAMPAKA"}, {"id": "3214022002", "district_id": "321402", "name": "CAMPAKASARI"}, {"id": "3214022003", "district_id": "321402", "name": "BENTENG"}, {"id": "3214022004", "district_id": "321402", "name": "CIRENDE"}, {"id": "3214022005", "district_id": "321402", "name": "CIKUMPAY"}, {"id": "3214022006", "district_id": "321402", "name": "CIJAYA"}, {"id": "3214022007", "district_id": "321402", "name": "KERTAMUKTI"}, {"id": "3214022008", "district_id": "321402", "name": "CIMAHI"}, {"id": "3214022009", "district_id": "321402", "name": "CIJUNTI"}, {"id": "3214022010", "district_id": "321402", "name": "CISAAT"}]
+[
+  {
+    "id": "3214022001",
+    "district_id": "321402",
+    "name": "CAMPAKA"
+  },
+  {
+    "id": "3214022002",
+    "district_id": "321402",
+    "name": "CAMPAKASARI"
+  },
+  {
+    "id": "3214022003",
+    "district_id": "321402",
+    "name": "BENTENG"
+  },
+  {
+    "id": "3214022004",
+    "district_id": "321402",
+    "name": "CIRENDE"
+  },
+  {
+    "id": "3214022005",
+    "district_id": "321402",
+    "name": "CIKUMPAY"
+  },
+  {
+    "id": "3214022006",
+    "district_id": "321402",
+    "name": "CIJAYA"
+  },
+  {
+    "id": "3214022007",
+    "district_id": "321402",
+    "name": "KERTAMUKTI"
+  },
+  {
+    "id": "3214022008",
+    "district_id": "321402",
+    "name": "CIMAHI"
+  },
+  {
+    "id": "3214022009",
+    "district_id": "321402",
+    "name": "CIJUNTI"
+  },
+  {
+    "id": "3214022010",
+    "district_id": "321402",
+    "name": "CISAAT"
+  }
+]

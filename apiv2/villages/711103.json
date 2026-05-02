@@ -1,1 +1,52 @@
-[{"id": "7111032001", "district_id": "711103", "name": "LINAWAN"}, {"id": "7111032002", "district_id": "711103", "name": "NUNUK"}, {"id": "7111032003", "district_id": "711103", "name": "PINOLOSIAN"}, {"id": "7111032004", "district_id": "711103", "name": "KOMBOT"}, {"id": "7111032005", "district_id": "711103", "name": "LUNGKAP"}, {"id": "7111032006", "district_id": "711103", "name": "ILOMATA"}, {"id": "7111032007", "district_id": "711103", "name": "LINAWAN I"}, {"id": "7111032008", "district_id": "711103", "name": "TOLOTOYON"}, {"id": "7111032009", "district_id": "711103", "name": "PINOLOSIAN SELATAN"}, {"id": "7111032010", "district_id": "711103", "name": "KOMBOT TIMUR"}]
+[
+  {
+    "id": "7111032001",
+    "district_id": "711103",
+    "name": "LINAWAN"
+  },
+  {
+    "id": "7111032002",
+    "district_id": "711103",
+    "name": "NUNUK"
+  },
+  {
+    "id": "7111032003",
+    "district_id": "711103",
+    "name": "PINOLOSIAN"
+  },
+  {
+    "id": "7111032004",
+    "district_id": "711103",
+    "name": "KOMBOT"
+  },
+  {
+    "id": "7111032005",
+    "district_id": "711103",
+    "name": "LUNGKAP"
+  },
+  {
+    "id": "7111032006",
+    "district_id": "711103",
+    "name": "ILOMATA"
+  },
+  {
+    "id": "7111032007",
+    "district_id": "711103",
+    "name": "LINAWAN I"
+  },
+  {
+    "id": "7111032008",
+    "district_id": "711103",
+    "name": "TOLOTOYON"
+  },
+  {
+    "id": "7111032009",
+    "district_id": "711103",
+    "name": "PINOLOSIAN SELATAN"
+  },
+  {
+    "id": "7111032010",
+    "district_id": "711103",
+    "name": "KOMBOT TIMUR"
+  }
+]

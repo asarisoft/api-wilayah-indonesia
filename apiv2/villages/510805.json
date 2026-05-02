@@ -1,1 +1,77 @@
-[{"id": "5108051009", "district_id": "510805", "name": "SUKASADA"}, {"id": "5108052001", "district_id": "510805", "name": "PANCASARI"}, {"id": "5108052002", "district_id": "510805", "name": "WANAGIRI"}, {"id": "5108052003", "district_id": "510805", "name": "AMBENGAN"}, {"id": "5108052004", "district_id": "510805", "name": "GITGIT"}, {"id": "5108052005", "district_id": "510805", "name": "PEGAYAMAN"}, {"id": "5108052006", "district_id": "510805", "name": "SILANGJANA"}, {"id": "5108052007", "district_id": "510805", "name": "PEGADUNGAN"}, {"id": "5108052008", "district_id": "510805", "name": "PADANGBULIA"}, {"id": "5108052010", "district_id": "510805", "name": "SAMBANGAN"}, {"id": "5108052011", "district_id": "510805", "name": "PANJI"}, {"id": "5108052012", "district_id": "510805", "name": "PANJI ANOM"}, {"id": "5108052013", "district_id": "510805", "name": "TEGALLINGGAH"}, {"id": "5108052014", "district_id": "510805", "name": "SELAT"}, {"id": "5108052015", "district_id": "510805", "name": "KAYUPUTIH"}]
+[
+  {
+    "id": "5108051009",
+    "district_id": "510805",
+    "name": "SUKASADA"
+  },
+  {
+    "id": "5108052001",
+    "district_id": "510805",
+    "name": "PANCASARI"
+  },
+  {
+    "id": "5108052002",
+    "district_id": "510805",
+    "name": "WANAGIRI"
+  },
+  {
+    "id": "5108052003",
+    "district_id": "510805",
+    "name": "AMBENGAN"
+  },
+  {
+    "id": "5108052004",
+    "district_id": "510805",
+    "name": "GITGIT"
+  },
+  {
+    "id": "5108052005",
+    "district_id": "510805",
+    "name": "PEGAYAMAN"
+  },
+  {
+    "id": "5108052006",
+    "district_id": "510805",
+    "name": "SILANGJANA"
+  },
+  {
+    "id": "5108052007",
+    "district_id": "510805",
+    "name": "PEGADUNGAN"
+  },
+  {
+    "id": "5108052008",
+    "district_id": "510805",
+    "name": "PADANGBULIA"
+  },
+  {
+    "id": "5108052010",
+    "district_id": "510805",
+    "name": "SAMBANGAN"
+  },
+  {
+    "id": "5108052011",
+    "district_id": "510805",
+    "name": "PANJI"
+  },
+  {
+    "id": "5108052012",
+    "district_id": "510805",
+    "name": "PANJI ANOM"
+  },
+  {
+    "id": "5108052013",
+    "district_id": "510805",
+    "name": "TEGALLINGGAH"
+  },
+  {
+    "id": "5108052014",
+    "district_id": "510805",
+    "name": "SELAT"
+  },
+  {
+    "id": "5108052015",
+    "district_id": "510805",
+    "name": "KAYUPUTIH"
+  }
+]

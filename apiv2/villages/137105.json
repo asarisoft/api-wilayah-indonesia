@@ -1,1 +1,32 @@
-[{"id": "1371051001", "district_id": "137105", "name": "BUNGUS TIMUR"}, {"id": "1371051002", "district_id": "137105", "name": "BUNGUS BARAT"}, {"id": "1371051003", "district_id": "137105", "name": "BUNGUS SELATAN"}, {"id": "1371051004", "district_id": "137105", "name": "TELUK KABUNG UTARA"}, {"id": "1371051005", "district_id": "137105", "name": "TELUK KABUNG TENGAH"}, {"id": "1371051006", "district_id": "137105", "name": "TELUK KABUNG SELATAN"}]
+[
+  {
+    "id": "1371051001",
+    "district_id": "137105",
+    "name": "BUNGUS TIMUR"
+  },
+  {
+    "id": "1371051002",
+    "district_id": "137105",
+    "name": "BUNGUS BARAT"
+  },
+  {
+    "id": "1371051003",
+    "district_id": "137105",
+    "name": "BUNGUS SELATAN"
+  },
+  {
+    "id": "1371051004",
+    "district_id": "137105",
+    "name": "TELUK KABUNG UTARA"
+  },
+  {
+    "id": "1371051005",
+    "district_id": "137105",
+    "name": "TELUK KABUNG TENGAH"
+  },
+  {
+    "id": "1371051006",
+    "district_id": "137105",
+    "name": "TELUK KABUNG SELATAN"
+  }
+]

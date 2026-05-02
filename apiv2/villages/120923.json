@@ -1,1 +1,52 @@
-[{"id": "1209232001", "district_id": "120923", "name": "TANJUNG ALAM"}, {"id": "1209232002", "district_id": "120923", "name": "PERKEBUNAN SEI DADAP I/II"}, {"id": "1209232003", "district_id": "120923", "name": "PERKEBUNAN SEI DADAP III/IV"}, {"id": "1209232004", "district_id": "120923", "name": "SEI KAMAH I"}, {"id": "1209232005", "district_id": "120923", "name": "SEI KAMAH II"}, {"id": "1209232006", "district_id": "120923", "name": "BAHUNG SIBATU-BATU"}, {"id": "1209232007", "district_id": "120923", "name": "SEI ALIM HASAK"}, {"id": "1209232008", "district_id": "120923", "name": "TANJUNG ASRI"}, {"id": "1209232009", "district_id": "120923", "name": "SEI KAMAH BARU"}, {"id": "1209232010", "district_id": "120923", "name": "PASIRAN"}]
+[
+  {
+    "id": "1209232001",
+    "district_id": "120923",
+    "name": "TANJUNG ALAM"
+  },
+  {
+    "id": "1209232002",
+    "district_id": "120923",
+    "name": "PERKEBUNAN SEI DADAP I/II"
+  },
+  {
+    "id": "1209232003",
+    "district_id": "120923",
+    "name": "PERKEBUNAN SEI DADAP III/IV"
+  },
+  {
+    "id": "1209232004",
+    "district_id": "120923",
+    "name": "SEI KAMAH I"
+  },
+  {
+    "id": "1209232005",
+    "district_id": "120923",
+    "name": "SEI KAMAH II"
+  },
+  {
+    "id": "1209232006",
+    "district_id": "120923",
+    "name": "BAHUNG SIBATU-BATU"
+  },
+  {
+    "id": "1209232007",
+    "district_id": "120923",
+    "name": "SEI ALIM HASAK"
+  },
+  {
+    "id": "1209232008",
+    "district_id": "120923",
+    "name": "TANJUNG ASRI"
+  },
+  {
+    "id": "1209232009",
+    "district_id": "120923",
+    "name": "SEI KAMAH BARU"
+  },
+  {
+    "id": "1209232010",
+    "district_id": "120923",
+    "name": "PASIRAN"
+  }
+]

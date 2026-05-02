@@ -1,1 +1,27 @@
-[{"id": "1472071001", "district_id": "147207", "name": "RATU SIMA"}, {"id": "1472071002", "district_id": "147207", "name": "BUKIT TIMAH"}, {"id": "1472071003", "district_id": "147207", "name": "MEKAR SARI"}, {"id": "1472071004", "district_id": "147207", "name": "BUKIT DATUK"}, {"id": "1472071005", "district_id": "147207", "name": "BUMI AYU"}]
+[
+  {
+    "id": "1472071001",
+    "district_id": "147207",
+    "name": "RATU SIMA"
+  },
+  {
+    "id": "1472071002",
+    "district_id": "147207",
+    "name": "BUKIT TIMAH"
+  },
+  {
+    "id": "1472071003",
+    "district_id": "147207",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "1472071004",
+    "district_id": "147207",
+    "name": "BUKIT DATUK"
+  },
+  {
+    "id": "1472071005",
+    "district_id": "147207",
+    "name": "BUMI AYU"
+  }
+]

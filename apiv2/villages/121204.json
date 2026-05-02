@@ -1,1 +1,112 @@
-[{"id": "1212041009", "district_id": "121204", "name": "PARSOBURAN TENGAH"}, {"id": "1212042002", "district_id": "121204", "name": "LUMBAN RAU SELATAN"}, {"id": "1212042004", "district_id": "121204", "name": "LUMBAN RAU BARAT"}, {"id": "1212042006", "district_id": "121204", "name": "LUMBAN BALIK"}, {"id": "1212042007", "district_id": "121204", "name": "PANAMPARAN"}, {"id": "1212042008", "district_id": "121204", "name": "LUMBAN PINASA"}, {"id": "1212042010", "district_id": "121204", "name": "PARSOBURAN BARAT"}, {"id": "1212042011", "district_id": "121204", "name": "LUMBAN RUHAP"}, {"id": "1212042012", "district_id": "121204", "name": "LUMBAN PEA"}, {"id": "1212042014", "district_id": "121204", "name": "HITETANO"}, {"id": "1212042017", "district_id": "121204", "name": "LOBU HOLE"}, {"id": "1212042018", "district_id": "121204", "name": "BATU NABOLON"}, {"id": "1212042019", "district_id": "121204", "name": "LUMBAN GAOL"}, {"id": "1212042020", "district_id": "121204", "name": "TORNAGODANG"}, {"id": "1212042021", "district_id": "121204", "name": "TAON MARISI"}, {"id": "1212042022", "district_id": "121204", "name": "PAGAR BATU"}, {"id": "1212042023", "district_id": "121204", "name": "SIBUNTUON"}, {"id": "1212042024", "district_id": "121204", "name": "PARARUNGAN"}, {"id": "1212042025", "district_id": "121204", "name": "LUMBAN LINTONG"}, {"id": "1212042026", "district_id": "121204", "name": "PANGUNJUNGAN"}, {"id": "1212042027", "district_id": "121204", "name": "LUMBAN PINASA SAROHA"}, {"id": "1212042028", "district_id": "121204", "name": "AEK ULOK"}]
+[
+  {
+    "id": "1212041009",
+    "district_id": "121204",
+    "name": "PARSOBURAN TENGAH"
+  },
+  {
+    "id": "1212042002",
+    "district_id": "121204",
+    "name": "LUMBAN RAU SELATAN"
+  },
+  {
+    "id": "1212042004",
+    "district_id": "121204",
+    "name": "LUMBAN RAU BARAT"
+  },
+  {
+    "id": "1212042006",
+    "district_id": "121204",
+    "name": "LUMBAN BALIK"
+  },
+  {
+    "id": "1212042007",
+    "district_id": "121204",
+    "name": "PANAMPARAN"
+  },
+  {
+    "id": "1212042008",
+    "district_id": "121204",
+    "name": "LUMBAN PINASA"
+  },
+  {
+    "id": "1212042010",
+    "district_id": "121204",
+    "name": "PARSOBURAN BARAT"
+  },
+  {
+    "id": "1212042011",
+    "district_id": "121204",
+    "name": "LUMBAN RUHAP"
+  },
+  {
+    "id": "1212042012",
+    "district_id": "121204",
+    "name": "LUMBAN PEA"
+  },
+  {
+    "id": "1212042014",
+    "district_id": "121204",
+    "name": "HITETANO"
+  },
+  {
+    "id": "1212042017",
+    "district_id": "121204",
+    "name": "LOBU HOLE"
+  },
+  {
+    "id": "1212042018",
+    "district_id": "121204",
+    "name": "BATU NABOLON"
+  },
+  {
+    "id": "1212042019",
+    "district_id": "121204",
+    "name": "LUMBAN GAOL"
+  },
+  {
+    "id": "1212042020",
+    "district_id": "121204",
+    "name": "TORNAGODANG"
+  },
+  {
+    "id": "1212042021",
+    "district_id": "121204",
+    "name": "TAON MARISI"
+  },
+  {
+    "id": "1212042022",
+    "district_id": "121204",
+    "name": "PAGAR BATU"
+  },
+  {
+    "id": "1212042023",
+    "district_id": "121204",
+    "name": "SIBUNTUON"
+  },
+  {
+    "id": "1212042024",
+    "district_id": "121204",
+    "name": "PARARUNGAN"
+  },
+  {
+    "id": "1212042025",
+    "district_id": "121204",
+    "name": "LUMBAN LINTONG"
+  },
+  {
+    "id": "1212042026",
+    "district_id": "121204",
+    "name": "PANGUNJUNGAN"
+  },
+  {
+    "id": "1212042027",
+    "district_id": "121204",
+    "name": "LUMBAN PINASA SAROHA"
+  },
+  {
+    "id": "1212042028",
+    "district_id": "121204",
+    "name": "AEK ULOK"
+  }
+]

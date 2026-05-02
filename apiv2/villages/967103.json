@@ -1,1 +1,22 @@
-[{"id": "9671031001", "district_id": "967103", "name": "RUFEI"}, {"id": "9671031002", "district_id": "967103", "name": "KLAWASI"}, {"id": "9671031003", "district_id": "967103", "name": "PUNCAK CENDRAWASIH"}, {"id": "9671031004", "district_id": "967103", "name": "PAL PUTIH"}]
+[
+  {
+    "id": "9671031001",
+    "district_id": "967103",
+    "name": "RUFEI"
+  },
+  {
+    "id": "9671031002",
+    "district_id": "967103",
+    "name": "KLAWASI"
+  },
+  {
+    "id": "9671031003",
+    "district_id": "967103",
+    "name": "PUNCAK CENDRAWASIH"
+  },
+  {
+    "id": "9671031004",
+    "district_id": "967103",
+    "name": "PAL PUTIH"
+  }
+]

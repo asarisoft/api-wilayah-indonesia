@@ -1,1 +1,112 @@
-[{"id": "9106082001", "district_id": "910608", "name": "ANDEI"}, {"id": "9106082002", "district_id": "910608", "name": "KANAAN"}, {"id": "9106082003", "district_id": "910608", "name": "ASARYENDI"}, {"id": "9106082004", "district_id": "910608", "name": "SOPENDO"}, {"id": "9106082006", "district_id": "910608", "name": "AMPUNBUKOR"}, {"id": "9106082008", "district_id": "910608", "name": "WASYAI"}, {"id": "9106082009", "district_id": "910608", "name": "KABABUR"}, {"id": "9106082010", "district_id": "910608", "name": "WARBERIK"}, {"id": "9106082011", "district_id": "910608", "name": "SOSMAI"}, {"id": "9106082012", "district_id": "910608", "name": "YOMDORI"}, {"id": "9106082013", "district_id": "910608", "name": "OPURI"}, {"id": "9106082014", "district_id": "910608", "name": "MAMORIBO"}, {"id": "9106082021", "district_id": "910608", "name": "INSIRI"}, {"id": "9106082024", "district_id": "910608", "name": "ASARKIR"}, {"id": "9106082025", "district_id": "910608", "name": "DOUSI"}, {"id": "9106082026", "district_id": "910608", "name": "MARISEN"}, {"id": "9106082027", "district_id": "910608", "name": "SUMBINYA"}, {"id": "9106082029", "district_id": "910608", "name": "RARSBARI"}, {"id": "9106082030", "district_id": "910608", "name": "BANASRARES"}, {"id": "9106082031", "district_id": "910608", "name": "KARNINDI"}, {"id": "9106082032", "district_id": "910608", "name": "DEDIFU"}, {"id": "9106082033", "district_id": "910608", "name": "SOPENDO SUP KARKIR"}]
+[
+  {
+    "id": "9106082001",
+    "district_id": "910608",
+    "name": "ANDEI"
+  },
+  {
+    "id": "9106082002",
+    "district_id": "910608",
+    "name": "KANAAN"
+  },
+  {
+    "id": "9106082003",
+    "district_id": "910608",
+    "name": "ASARYENDI"
+  },
+  {
+    "id": "9106082004",
+    "district_id": "910608",
+    "name": "SOPENDO"
+  },
+  {
+    "id": "9106082006",
+    "district_id": "910608",
+    "name": "AMPUNBUKOR"
+  },
+  {
+    "id": "9106082008",
+    "district_id": "910608",
+    "name": "WASYAI"
+  },
+  {
+    "id": "9106082009",
+    "district_id": "910608",
+    "name": "KABABUR"
+  },
+  {
+    "id": "9106082010",
+    "district_id": "910608",
+    "name": "WARBERIK"
+  },
+  {
+    "id": "9106082011",
+    "district_id": "910608",
+    "name": "SOSMAI"
+  },
+  {
+    "id": "9106082012",
+    "district_id": "910608",
+    "name": "YOMDORI"
+  },
+  {
+    "id": "9106082013",
+    "district_id": "910608",
+    "name": "OPURI"
+  },
+  {
+    "id": "9106082014",
+    "district_id": "910608",
+    "name": "MAMORIBO"
+  },
+  {
+    "id": "9106082021",
+    "district_id": "910608",
+    "name": "INSIRI"
+  },
+  {
+    "id": "9106082024",
+    "district_id": "910608",
+    "name": "ASARKIR"
+  },
+  {
+    "id": "9106082025",
+    "district_id": "910608",
+    "name": "DOUSI"
+  },
+  {
+    "id": "9106082026",
+    "district_id": "910608",
+    "name": "MARISEN"
+  },
+  {
+    "id": "9106082027",
+    "district_id": "910608",
+    "name": "SUMBINYA"
+  },
+  {
+    "id": "9106082029",
+    "district_id": "910608",
+    "name": "RARSBARI"
+  },
+  {
+    "id": "9106082030",
+    "district_id": "910608",
+    "name": "BANASRARES"
+  },
+  {
+    "id": "9106082031",
+    "district_id": "910608",
+    "name": "KARNINDI"
+  },
+  {
+    "id": "9106082032",
+    "district_id": "910608",
+    "name": "DEDIFU"
+  },
+  {
+    "id": "9106082033",
+    "district_id": "910608",
+    "name": "SOPENDO SUP KARKIR"
+  }
+]

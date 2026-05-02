@@ -1,1 +1,37 @@
-[{"id": "5207042001", "district_id": "520704", "name": "SEKONGKANG ATAS"}, {"id": "5207042002", "district_id": "520704", "name": "SEKONGKANG BAWAH"}, {"id": "5207042003", "district_id": "520704", "name": "TONGO"}, {"id": "5207042004", "district_id": "520704", "name": "AI KANGKUNG"}, {"id": "5207042005", "district_id": "520704", "name": "TATAR"}, {"id": "5207042006", "district_id": "520704", "name": "TALONANG BARU"}, {"id": "5207042007", "district_id": "520704", "name": "KEMUNING"}]
+[
+  {
+    "id": "5207042001",
+    "district_id": "520704",
+    "name": "SEKONGKANG ATAS"
+  },
+  {
+    "id": "5207042002",
+    "district_id": "520704",
+    "name": "SEKONGKANG BAWAH"
+  },
+  {
+    "id": "5207042003",
+    "district_id": "520704",
+    "name": "TONGO"
+  },
+  {
+    "id": "5207042004",
+    "district_id": "520704",
+    "name": "AI KANGKUNG"
+  },
+  {
+    "id": "5207042005",
+    "district_id": "520704",
+    "name": "TATAR"
+  },
+  {
+    "id": "5207042006",
+    "district_id": "520704",
+    "name": "TALONANG BARU"
+  },
+  {
+    "id": "5207042007",
+    "district_id": "520704",
+    "name": "KEMUNING"
+  }
+]

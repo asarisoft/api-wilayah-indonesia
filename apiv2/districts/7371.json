@@ -1,1 +1,77 @@
-[{"id": "737101", "regency_id": "7371", "name": "MARISO"}, {"id": "737102", "regency_id": "7371", "name": "MAMAJANG"}, {"id": "737103", "regency_id": "7371", "name": "MAKASSAR"}, {"id": "737104", "regency_id": "7371", "name": "UJUNG PANDANG"}, {"id": "737105", "regency_id": "7371", "name": "WAJO"}, {"id": "737106", "regency_id": "7371", "name": "BONTOALA"}, {"id": "737107", "regency_id": "7371", "name": "TALLO"}, {"id": "737108", "regency_id": "7371", "name": "UJUNG TANAH"}, {"id": "737109", "regency_id": "7371", "name": "PANAKKUKANG"}, {"id": "737110", "regency_id": "7371", "name": "TAMALATE"}, {"id": "737111", "regency_id": "7371", "name": "BIRINGKANAYA"}, {"id": "737112", "regency_id": "7371", "name": "MANGGALA"}, {"id": "737113", "regency_id": "7371", "name": "RAPPOCINI"}, {"id": "737114", "regency_id": "7371", "name": "TAMALANREA"}, {"id": "737115", "regency_id": "7371", "name": "KEPULAUAN SANGKARRANG"}]
+[
+  {
+    "id": "737101",
+    "regency_id": "7371",
+    "name": "MARISO"
+  },
+  {
+    "id": "737102",
+    "regency_id": "7371",
+    "name": "MAMAJANG"
+  },
+  {
+    "id": "737103",
+    "regency_id": "7371",
+    "name": "MAKASSAR"
+  },
+  {
+    "id": "737104",
+    "regency_id": "7371",
+    "name": "UJUNG PANDANG"
+  },
+  {
+    "id": "737105",
+    "regency_id": "7371",
+    "name": "WAJO"
+  },
+  {
+    "id": "737106",
+    "regency_id": "7371",
+    "name": "BONTOALA"
+  },
+  {
+    "id": "737107",
+    "regency_id": "7371",
+    "name": "TALLO"
+  },
+  {
+    "id": "737108",
+    "regency_id": "7371",
+    "name": "UJUNG TANAH"
+  },
+  {
+    "id": "737109",
+    "regency_id": "7371",
+    "name": "PANAKKUKANG"
+  },
+  {
+    "id": "737110",
+    "regency_id": "7371",
+    "name": "TAMALATE"
+  },
+  {
+    "id": "737111",
+    "regency_id": "7371",
+    "name": "BIRINGKANAYA"
+  },
+  {
+    "id": "737112",
+    "regency_id": "7371",
+    "name": "MANGGALA"
+  },
+  {
+    "id": "737113",
+    "regency_id": "7371",
+    "name": "RAPPOCINI"
+  },
+  {
+    "id": "737114",
+    "regency_id": "7371",
+    "name": "TAMALANREA"
+  },
+  {
+    "id": "737115",
+    "regency_id": "7371",
+    "name": "KEPULAUAN SANGKARRANG"
+  }
+]

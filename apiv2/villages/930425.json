@@ -1,1 +1,32 @@
-[{"id": "9304252001", "district_id": "930425", "name": "BECO"}, {"id": "9304252002", "district_id": "930425", "name": "YUNI"}, {"id": "9304252003", "district_id": "930425", "name": "BUETKAWAR"}, {"id": "9304252004", "district_id": "930425", "name": "MANEP"}, {"id": "9304252005", "district_id": "930425", "name": "SIMINI"}, {"id": "9304252006", "district_id": "930425", "name": "FAKAN/ANI"}]
+[
+  {
+    "id": "9304252001",
+    "district_id": "930425",
+    "name": "BECO"
+  },
+  {
+    "id": "9304252002",
+    "district_id": "930425",
+    "name": "YUNI"
+  },
+  {
+    "id": "9304252003",
+    "district_id": "930425",
+    "name": "BUETKAWAR"
+  },
+  {
+    "id": "9304252004",
+    "district_id": "930425",
+    "name": "MANEP"
+  },
+  {
+    "id": "9304252005",
+    "district_id": "930425",
+    "name": "SIMINI"
+  },
+  {
+    "id": "9304252006",
+    "district_id": "930425",
+    "name": "FAKAN/ANI"
+  }
+]

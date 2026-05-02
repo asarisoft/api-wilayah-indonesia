@@ -1,1 +1,222 @@
-[{"id": "1220012001", "district_id": "122001", "name": "JANJI MANAHAN GNT"}, {"id": "1220012002", "district_id": "122001", "name": "PASANG LELA"}, {"id": "1220012003", "district_id": "122001", "name": "AEK JABUT"}, {"id": "1220012004", "district_id": "122001", "name": "NABUNDONG"}, {"id": "1220012005", "district_id": "122001", "name": "GUNUNG SORMIN"}, {"id": "1220012006", "district_id": "122001", "name": "SIHALO HALO"}, {"id": "1220012007", "district_id": "122001", "name": "KUALA SIMPANG"}, {"id": "1220012008", "district_id": "122001", "name": "SIMUNDOL"}, {"id": "1220012009", "district_id": "122001", "name": "NAHULA JULU"}, {"id": "1220012010", "district_id": "122001", "name": "SIMANINGGIR SIMUNDOL"}, {"id": "1220012011", "district_id": "122001", "name": "SIMANGAMBAT"}, {"id": "1220012012", "district_id": "122001", "name": "SABA BANGUN"}, {"id": "1220012013", "district_id": "122001", "name": "MALINO"}, {"id": "1220012014", "district_id": "122001", "name": "GONTING BANGE"}, {"id": "1220012015", "district_id": "122001", "name": "HUTAIMBARU SIMUNDOL"}, {"id": "1220012016", "district_id": "122001", "name": "PADANG MATINGGI SIMUNDOL"}, {"id": "1220012017", "district_id": "122001", "name": "SUNUT"}, {"id": "1220012018", "district_id": "122001", "name": "BATU HIBUL"}, {"id": "1220012019", "district_id": "122001", "name": "SIGORDANG"}, {"id": "1220012020", "district_id": "122001", "name": "PAMARAI"}, {"id": "1220012021", "district_id": "122001", "name": "PADANG MATINGGI GNT"}, {"id": "1220012022", "district_id": "122001", "name": "GADUNG HOLBUNG"}, {"id": "1220012023", "district_id": "122001", "name": "SALUSUHAN"}, {"id": "1220012024", "district_id": "122001", "name": "PANYABUNGAN"}, {"id": "1220012025", "district_id": "122001", "name": "SAYUR MATINGGI"}, {"id": "1220012026", "district_id": "122001", "name": "HASAHATAN"}, {"id": "1220012027", "district_id": "122001", "name": "PINARIK"}, {"id": "1220012028", "district_id": "122001", "name": "UNTE MANIS"}, {"id": "1220012029", "district_id": "122001", "name": "SIPOGAS"}, {"id": "1220012030", "district_id": "122001", "name": "SIPOGAS A"}, {"id": "1220012031", "district_id": "122001", "name": "PADANG MALAKKA"}, {"id": "1220012032", "district_id": "122001", "name": "AEK SIMANAP"}, {"id": "1220012033", "district_id": "122001", "name": "PULO LIMAN"}, {"id": "1220012034", "district_id": "122001", "name": "AEK KUNDUR"}, {"id": "1220012035", "district_id": "122001", "name": "HATIRAN"}, {"id": "1220012036", "district_id": "122001", "name": "KARANG ANYAR"}, {"id": "1220012037", "district_id": "122001", "name": "AEK KANAN"}, {"id": "1220012038", "district_id": "122001", "name": "NAHULA JAE"}, {"id": "1220012039", "district_id": "122001", "name": "SIMADIHON"}, {"id": "1220012040", "district_id": "122001", "name": "PASAR SAYUR MATINGGI"}, {"id": "1220012041", "district_id": "122001", "name": "TJ. BARU SILAIYA"}, {"id": "1220012042", "district_id": "122001", "name": "SITONUN"}, {"id": "1220012043", "district_id": "122001", "name": "PASAR SIMUNDOL"}, {"id": "1220012044", "district_id": "122001", "name": "PAMONORAN"}]
+[
+  {
+    "id": "1220012001",
+    "district_id": "122001",
+    "name": "JANJI MANAHAN GNT"
+  },
+  {
+    "id": "1220012002",
+    "district_id": "122001",
+    "name": "PASANG LELA"
+  },
+  {
+    "id": "1220012003",
+    "district_id": "122001",
+    "name": "AEK JABUT"
+  },
+  {
+    "id": "1220012004",
+    "district_id": "122001",
+    "name": "NABUNDONG"
+  },
+  {
+    "id": "1220012005",
+    "district_id": "122001",
+    "name": "GUNUNG SORMIN"
+  },
+  {
+    "id": "1220012006",
+    "district_id": "122001",
+    "name": "SIHALO HALO"
+  },
+  {
+    "id": "1220012007",
+    "district_id": "122001",
+    "name": "KUALA SIMPANG"
+  },
+  {
+    "id": "1220012008",
+    "district_id": "122001",
+    "name": "SIMUNDOL"
+  },
+  {
+    "id": "1220012009",
+    "district_id": "122001",
+    "name": "NAHULA JULU"
+  },
+  {
+    "id": "1220012010",
+    "district_id": "122001",
+    "name": "SIMANINGGIR SIMUNDOL"
+  },
+  {
+    "id": "1220012011",
+    "district_id": "122001",
+    "name": "SIMANGAMBAT"
+  },
+  {
+    "id": "1220012012",
+    "district_id": "122001",
+    "name": "SABA BANGUN"
+  },
+  {
+    "id": "1220012013",
+    "district_id": "122001",
+    "name": "MALINO"
+  },
+  {
+    "id": "1220012014",
+    "district_id": "122001",
+    "name": "GONTING BANGE"
+  },
+  {
+    "id": "1220012015",
+    "district_id": "122001",
+    "name": "HUTAIMBARU SIMUNDOL"
+  },
+  {
+    "id": "1220012016",
+    "district_id": "122001",
+    "name": "PADANG MATINGGI SIMUNDOL"
+  },
+  {
+    "id": "1220012017",
+    "district_id": "122001",
+    "name": "SUNUT"
+  },
+  {
+    "id": "1220012018",
+    "district_id": "122001",
+    "name": "BATU HIBUL"
+  },
+  {
+    "id": "1220012019",
+    "district_id": "122001",
+    "name": "SIGORDANG"
+  },
+  {
+    "id": "1220012020",
+    "district_id": "122001",
+    "name": "PAMARAI"
+  },
+  {
+    "id": "1220012021",
+    "district_id": "122001",
+    "name": "PADANG MATINGGI GNT"
+  },
+  {
+    "id": "1220012022",
+    "district_id": "122001",
+    "name": "GADUNG HOLBUNG"
+  },
+  {
+    "id": "1220012023",
+    "district_id": "122001",
+    "name": "SALUSUHAN"
+  },
+  {
+    "id": "1220012024",
+    "district_id": "122001",
+    "name": "PANYABUNGAN"
+  },
+  {
+    "id": "1220012025",
+    "district_id": "122001",
+    "name": "SAYUR MATINGGI"
+  },
+  {
+    "id": "1220012026",
+    "district_id": "122001",
+    "name": "HASAHATAN"
+  },
+  {
+    "id": "1220012027",
+    "district_id": "122001",
+    "name": "PINARIK"
+  },
+  {
+    "id": "1220012028",
+    "district_id": "122001",
+    "name": "UNTE MANIS"
+  },
+  {
+    "id": "1220012029",
+    "district_id": "122001",
+    "name": "SIPOGAS"
+  },
+  {
+    "id": "1220012030",
+    "district_id": "122001",
+    "name": "SIPOGAS A"
+  },
+  {
+    "id": "1220012031",
+    "district_id": "122001",
+    "name": "PADANG MALAKKA"
+  },
+  {
+    "id": "1220012032",
+    "district_id": "122001",
+    "name": "AEK SIMANAP"
+  },
+  {
+    "id": "1220012033",
+    "district_id": "122001",
+    "name": "PULO LIMAN"
+  },
+  {
+    "id": "1220012034",
+    "district_id": "122001",
+    "name": "AEK KUNDUR"
+  },
+  {
+    "id": "1220012035",
+    "district_id": "122001",
+    "name": "HATIRAN"
+  },
+  {
+    "id": "1220012036",
+    "district_id": "122001",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1220012037",
+    "district_id": "122001",
+    "name": "AEK KANAN"
+  },
+  {
+    "id": "1220012038",
+    "district_id": "122001",
+    "name": "NAHULA JAE"
+  },
+  {
+    "id": "1220012039",
+    "district_id": "122001",
+    "name": "SIMADIHON"
+  },
+  {
+    "id": "1220012040",
+    "district_id": "122001",
+    "name": "PASAR SAYUR MATINGGI"
+  },
+  {
+    "id": "1220012041",
+    "district_id": "122001",
+    "name": "TJ. BARU SILAIYA"
+  },
+  {
+    "id": "1220012042",
+    "district_id": "122001",
+    "name": "SITONUN"
+  },
+  {
+    "id": "1220012043",
+    "district_id": "122001",
+    "name": "PASAR SIMUNDOL"
+  },
+  {
+    "id": "1220012044",
+    "district_id": "122001",
+    "name": "PAMONORAN"
+  }
+]

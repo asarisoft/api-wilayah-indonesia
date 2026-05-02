@@ -1,1 +1,77 @@
-[{"id": "8101011009", "district_id": "810101", "name": "HOLLO"}, {"id": "8101012001", "district_id": "810101", "name": "TAMILOUW"}, {"id": "8101012002", "district_id": "810101", "name": "SEPA"}, {"id": "8101012003", "district_id": "810101", "name": "RUTAH"}, {"id": "8101012004", "district_id": "810101", "name": "SOAHUKU"}, {"id": "8101012005", "district_id": "810101", "name": "AMAHAI"}, {"id": "8101012006", "district_id": "810101", "name": "HARURU"}, {"id": "8101012007", "district_id": "810101", "name": "SEHATI"}, {"id": "8101012008", "district_id": "810101", "name": "MAKARIKI"}, {"id": "8101012010", "district_id": "810101", "name": "YAFILA"}, {"id": "8101012011", "district_id": "810101", "name": "BANDA BARU"}, {"id": "8101012020", "district_id": "810101", "name": "YAINUELO"}, {"id": "8101012021", "district_id": "810101", "name": "NUA NEA"}, {"id": "8101012022", "district_id": "810101", "name": "HATUHENU"}, {"id": "8101012023", "district_id": "810101", "name": "NUWELETETU"}]
+[
+  {
+    "id": "8101011009",
+    "district_id": "810101",
+    "name": "HOLLO"
+  },
+  {
+    "id": "8101012001",
+    "district_id": "810101",
+    "name": "TAMILOUW"
+  },
+  {
+    "id": "8101012002",
+    "district_id": "810101",
+    "name": "SEPA"
+  },
+  {
+    "id": "8101012003",
+    "district_id": "810101",
+    "name": "RUTAH"
+  },
+  {
+    "id": "8101012004",
+    "district_id": "810101",
+    "name": "SOAHUKU"
+  },
+  {
+    "id": "8101012005",
+    "district_id": "810101",
+    "name": "AMAHAI"
+  },
+  {
+    "id": "8101012006",
+    "district_id": "810101",
+    "name": "HARURU"
+  },
+  {
+    "id": "8101012007",
+    "district_id": "810101",
+    "name": "SEHATI"
+  },
+  {
+    "id": "8101012008",
+    "district_id": "810101",
+    "name": "MAKARIKI"
+  },
+  {
+    "id": "8101012010",
+    "district_id": "810101",
+    "name": "YAFILA"
+  },
+  {
+    "id": "8101012011",
+    "district_id": "810101",
+    "name": "BANDA BARU"
+  },
+  {
+    "id": "8101012020",
+    "district_id": "810101",
+    "name": "YAINUELO"
+  },
+  {
+    "id": "8101012021",
+    "district_id": "810101",
+    "name": "NUA NEA"
+  },
+  {
+    "id": "8101012022",
+    "district_id": "810101",
+    "name": "HATUHENU"
+  },
+  {
+    "id": "8101012023",
+    "district_id": "810101",
+    "name": "NUWELETETU"
+  }
+]

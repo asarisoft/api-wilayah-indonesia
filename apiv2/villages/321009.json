@@ -1,1 +1,67 @@
-[{"id": "3210092001", "district_id": "321009", "name": "PAJAJAR"}, {"id": "3210092002", "district_id": "321009", "name": "TEJA"}, {"id": "3210092003", "district_id": "321009", "name": "PAYUNG"}, {"id": "3210092004", "district_id": "321009", "name": "BABAKANKAREO"}, {"id": "3210092005", "district_id": "321009", "name": "SINDANGPANO"}, {"id": "3210092006", "district_id": "321009", "name": "SADOMAS"}, {"id": "3210092007", "district_id": "321009", "name": "KUMBUNG"}, {"id": "3210092008", "district_id": "321009", "name": "RAJAGALUH KIDUL"}, {"id": "3210092009", "district_id": "321009", "name": "SINGAWADA"}, {"id": "3210092010", "district_id": "321009", "name": "RAJAGALUH LOR"}, {"id": "3210092011", "district_id": "321009", "name": "CIPINANG"}, {"id": "3210092012", "district_id": "321009", "name": "CISETU"}, {"id": "3210092013", "district_id": "321009", "name": "RAJAGALUH"}]
+[
+  {
+    "id": "3210092001",
+    "district_id": "321009",
+    "name": "PAJAJAR"
+  },
+  {
+    "id": "3210092002",
+    "district_id": "321009",
+    "name": "TEJA"
+  },
+  {
+    "id": "3210092003",
+    "district_id": "321009",
+    "name": "PAYUNG"
+  },
+  {
+    "id": "3210092004",
+    "district_id": "321009",
+    "name": "BABAKANKAREO"
+  },
+  {
+    "id": "3210092005",
+    "district_id": "321009",
+    "name": "SINDANGPANO"
+  },
+  {
+    "id": "3210092006",
+    "district_id": "321009",
+    "name": "SADOMAS"
+  },
+  {
+    "id": "3210092007",
+    "district_id": "321009",
+    "name": "KUMBUNG"
+  },
+  {
+    "id": "3210092008",
+    "district_id": "321009",
+    "name": "RAJAGALUH KIDUL"
+  },
+  {
+    "id": "3210092009",
+    "district_id": "321009",
+    "name": "SINGAWADA"
+  },
+  {
+    "id": "3210092010",
+    "district_id": "321009",
+    "name": "RAJAGALUH LOR"
+  },
+  {
+    "id": "3210092011",
+    "district_id": "321009",
+    "name": "CIPINANG"
+  },
+  {
+    "id": "3210092012",
+    "district_id": "321009",
+    "name": "CISETU"
+  },
+  {
+    "id": "3210092013",
+    "district_id": "321009",
+    "name": "RAJAGALUH"
+  }
+]

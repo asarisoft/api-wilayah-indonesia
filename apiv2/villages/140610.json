@@ -1,1 +1,37 @@
-[{"id": "1406102001", "district_id": "140610", "name": "PASIR AGUNG"}, {"id": "1406102002", "district_id": "140610", "name": "PASIR INTAN"}, {"id": "1406102003", "district_id": "140610", "name": "RAMBAH JAYA"}, {"id": "1406102004", "district_id": "140610", "name": "BANGUN PURBA"}, {"id": "1406102005", "district_id": "140610", "name": "BANGUN PURBA TIMUR JAYA"}, {"id": "1406102006", "district_id": "140610", "name": "BANGUN PURBA BARAT"}, {"id": "1406102007", "district_id": "140610", "name": "TANGUN"}]
+[
+  {
+    "id": "1406102001",
+    "district_id": "140610",
+    "name": "PASIR AGUNG"
+  },
+  {
+    "id": "1406102002",
+    "district_id": "140610",
+    "name": "PASIR INTAN"
+  },
+  {
+    "id": "1406102003",
+    "district_id": "140610",
+    "name": "RAMBAH JAYA"
+  },
+  {
+    "id": "1406102004",
+    "district_id": "140610",
+    "name": "BANGUN PURBA"
+  },
+  {
+    "id": "1406102005",
+    "district_id": "140610",
+    "name": "BANGUN PURBA TIMUR JAYA"
+  },
+  {
+    "id": "1406102006",
+    "district_id": "140610",
+    "name": "BANGUN PURBA BARAT"
+  },
+  {
+    "id": "1406102007",
+    "district_id": "140610",
+    "name": "TANGUN"
+  }
+]

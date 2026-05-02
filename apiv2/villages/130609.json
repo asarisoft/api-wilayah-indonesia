@@ -1,1 +1,17 @@
-[{"id": "1306092001", "district_id": "130609", "name": "KOTO TANGAH"}, {"id": "1306092003", "district_id": "130609", "name": "GADUT"}, {"id": "1306092004", "district_id": "130609", "name": "KAPAU"}]
+[
+  {
+    "id": "1306092001",
+    "district_id": "130609",
+    "name": "KOTO TANGAH"
+  },
+  {
+    "id": "1306092003",
+    "district_id": "130609",
+    "name": "GADUT"
+  },
+  {
+    "id": "1306092004",
+    "district_id": "130609",
+    "name": "KAPAU"
+  }
+]

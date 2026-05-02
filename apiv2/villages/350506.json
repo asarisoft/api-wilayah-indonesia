@@ -1,1 +1,77 @@
-[{"id": "3505062001", "district_id": "350506", "name": "DADAPLANGU"}, {"id": "3505062002", "district_id": "350506", "name": "LANGON"}, {"id": "3505062003", "district_id": "350506", "name": "GEMBONGAN"}, {"id": "3505062004", "district_id": "350506", "name": "RINGINANYAR"}, {"id": "3505062005", "district_id": "350506", "name": "KEBONDUREN"}, {"id": "3505062006", "district_id": "350506", "name": "BACEM"}, {"id": "3505062007", "district_id": "350506", "name": "PONGGOK"}, {"id": "3505062008", "district_id": "350506", "name": "POJOK"}, {"id": "3505062009", "district_id": "350506", "name": "KAWEDUSAN"}, {"id": "3505062010", "district_id": "350506", "name": "JATILENGGER"}, {"id": "3505062011", "district_id": "350506", "name": "BENDO"}, {"id": "3505062012", "district_id": "350506", "name": "SIDOREJO"}, {"id": "3505062013", "district_id": "350506", "name": "MALIRAN"}, {"id": "3505062014", "district_id": "350506", "name": "CANDIREJO"}, {"id": "3505062015", "district_id": "350506", "name": "KARANGBENDO"}]
+[
+  {
+    "id": "3505062001",
+    "district_id": "350506",
+    "name": "DADAPLANGU"
+  },
+  {
+    "id": "3505062002",
+    "district_id": "350506",
+    "name": "LANGON"
+  },
+  {
+    "id": "3505062003",
+    "district_id": "350506",
+    "name": "GEMBONGAN"
+  },
+  {
+    "id": "3505062004",
+    "district_id": "350506",
+    "name": "RINGINANYAR"
+  },
+  {
+    "id": "3505062005",
+    "district_id": "350506",
+    "name": "KEBONDUREN"
+  },
+  {
+    "id": "3505062006",
+    "district_id": "350506",
+    "name": "BACEM"
+  },
+  {
+    "id": "3505062007",
+    "district_id": "350506",
+    "name": "PONGGOK"
+  },
+  {
+    "id": "3505062008",
+    "district_id": "350506",
+    "name": "POJOK"
+  },
+  {
+    "id": "3505062009",
+    "district_id": "350506",
+    "name": "KAWEDUSAN"
+  },
+  {
+    "id": "3505062010",
+    "district_id": "350506",
+    "name": "JATILENGGER"
+  },
+  {
+    "id": "3505062011",
+    "district_id": "350506",
+    "name": "BENDO"
+  },
+  {
+    "id": "3505062012",
+    "district_id": "350506",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3505062013",
+    "district_id": "350506",
+    "name": "MALIRAN"
+  },
+  {
+    "id": "3505062014",
+    "district_id": "350506",
+    "name": "CANDIREJO"
+  },
+  {
+    "id": "3505062015",
+    "district_id": "350506",
+    "name": "KARANGBENDO"
+  }
+]

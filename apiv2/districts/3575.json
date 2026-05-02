@@ -1,1 +1,22 @@
-[{"id": "357501", "regency_id": "3575", "name": "GADINGREJO"}, {"id": "357502", "regency_id": "3575", "name": "PURWOREJO"}, {"id": "357503", "regency_id": "3575", "name": "BUGUL KIDUL"}, {"id": "357504", "regency_id": "3575", "name": "PANGGUNGREJO"}]
+[
+  {
+    "id": "357501",
+    "regency_id": "3575",
+    "name": "GADINGREJO"
+  },
+  {
+    "id": "357502",
+    "regency_id": "3575",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "357503",
+    "regency_id": "3575",
+    "name": "BUGUL KIDUL"
+  },
+  {
+    "id": "357504",
+    "regency_id": "3575",
+    "name": "PANGGUNGREJO"
+  }
+]

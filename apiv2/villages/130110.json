@@ -1,1 +1,52 @@
-[{"id": "1301102001", "district_id": "130110", "name": "LUNANG"}, {"id": "1301102003", "district_id": "130110", "name": "LUNANG UTARA"}, {"id": "1301102004", "district_id": "130110", "name": "LUNANG SELATAN"}, {"id": "1301102005", "district_id": "130110", "name": "LUNANG BARAT"}, {"id": "1301102015", "district_id": "130110", "name": "SINDANG LUNANG"}, {"id": "1301102016", "district_id": "130110", "name": "PONDOK PARIAN LUNANG"}, {"id": "1301102017", "district_id": "130110", "name": "LUNANG TENGAH"}, {"id": "1301102018", "district_id": "130110", "name": "LUNANG SATU"}, {"id": "1301102019", "district_id": "130110", "name": "LUNANG DUA"}, {"id": "1301102020", "district_id": "130110", "name": "LUNANG TIGA"}]
+[
+  {
+    "id": "1301102001",
+    "district_id": "130110",
+    "name": "LUNANG"
+  },
+  {
+    "id": "1301102003",
+    "district_id": "130110",
+    "name": "LUNANG UTARA"
+  },
+  {
+    "id": "1301102004",
+    "district_id": "130110",
+    "name": "LUNANG SELATAN"
+  },
+  {
+    "id": "1301102005",
+    "district_id": "130110",
+    "name": "LUNANG BARAT"
+  },
+  {
+    "id": "1301102015",
+    "district_id": "130110",
+    "name": "SINDANG LUNANG"
+  },
+  {
+    "id": "1301102016",
+    "district_id": "130110",
+    "name": "PONDOK PARIAN LUNANG"
+  },
+  {
+    "id": "1301102017",
+    "district_id": "130110",
+    "name": "LUNANG TENGAH"
+  },
+  {
+    "id": "1301102018",
+    "district_id": "130110",
+    "name": "LUNANG SATU"
+  },
+  {
+    "id": "1301102019",
+    "district_id": "130110",
+    "name": "LUNANG DUA"
+  },
+  {
+    "id": "1301102020",
+    "district_id": "130110",
+    "name": "LUNANG TIGA"
+  }
+]

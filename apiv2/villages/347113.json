@@ -1,1 +1,37 @@
-[{"id": "3471131001", "district_id": "347113", "name": "SEMAKI"}, {"id": "3471131002", "district_id": "347113", "name": "MUJA MUJU"}, {"id": "3471131003", "district_id": "347113", "name": "TAHUNAN"}, {"id": "3471131004", "district_id": "347113", "name": "WARUNGBOTO"}, {"id": "3471131005", "district_id": "347113", "name": "PANDEYAN"}, {"id": "3471131006", "district_id": "347113", "name": "SOROSUTAN"}, {"id": "3471131007", "district_id": "347113", "name": "GIWANGAN"}]
+[
+  {
+    "id": "3471131001",
+    "district_id": "347113",
+    "name": "SEMAKI"
+  },
+  {
+    "id": "3471131002",
+    "district_id": "347113",
+    "name": "MUJA MUJU"
+  },
+  {
+    "id": "3471131003",
+    "district_id": "347113",
+    "name": "TAHUNAN"
+  },
+  {
+    "id": "3471131004",
+    "district_id": "347113",
+    "name": "WARUNGBOTO"
+  },
+  {
+    "id": "3471131005",
+    "district_id": "347113",
+    "name": "PANDEYAN"
+  },
+  {
+    "id": "3471131006",
+    "district_id": "347113",
+    "name": "SOROSUTAN"
+  },
+  {
+    "id": "3471131007",
+    "district_id": "347113",
+    "name": "GIWANGAN"
+  }
+]

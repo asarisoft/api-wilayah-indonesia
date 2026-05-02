@@ -1,1 +1,77 @@
-[{"id": "1705142001", "district_id": "170514", "name": "PASAR TALO"}, {"id": "1705142002", "district_id": "170514", "name": "DUSUN BARU"}, {"id": "1705142003", "district_id": "170514", "name": "TALANG KABU"}, {"id": "1705142004", "district_id": "170514", "name": "TANAH ABANG"}, {"id": "1705142005", "district_id": "170514", "name": "PENAGO BARU"}, {"id": "1705142006", "district_id": "170514", "name": "NANTI AGUNG"}, {"id": "1705142007", "district_id": "170514", "name": "TALANG PANJANG"}, {"id": "1705142008", "district_id": "170514", "name": "PENAGO I"}, {"id": "1705142009", "district_id": "170514", "name": "PENAGO II"}, {"id": "1705142010", "district_id": "170514", "name": "RAWAH INDAH"}, {"id": "1705142011", "district_id": "170514", "name": "PADANG CEKUR"}, {"id": "1705142012", "district_id": "170514", "name": "PADANG BATU"}, {"id": "1705142013", "district_id": "170514", "name": "PALUAH TERAP"}, {"id": "1705142014", "district_id": "170514", "name": "MARGO SARI"}, {"id": "1705142015", "district_id": "170514", "name": "MEKAR SARI"}]
+[
+  {
+    "id": "1705142001",
+    "district_id": "170514",
+    "name": "PASAR TALO"
+  },
+  {
+    "id": "1705142002",
+    "district_id": "170514",
+    "name": "DUSUN BARU"
+  },
+  {
+    "id": "1705142003",
+    "district_id": "170514",
+    "name": "TALANG KABU"
+  },
+  {
+    "id": "1705142004",
+    "district_id": "170514",
+    "name": "TANAH ABANG"
+  },
+  {
+    "id": "1705142005",
+    "district_id": "170514",
+    "name": "PENAGO BARU"
+  },
+  {
+    "id": "1705142006",
+    "district_id": "170514",
+    "name": "NANTI AGUNG"
+  },
+  {
+    "id": "1705142007",
+    "district_id": "170514",
+    "name": "TALANG PANJANG"
+  },
+  {
+    "id": "1705142008",
+    "district_id": "170514",
+    "name": "PENAGO I"
+  },
+  {
+    "id": "1705142009",
+    "district_id": "170514",
+    "name": "PENAGO II"
+  },
+  {
+    "id": "1705142010",
+    "district_id": "170514",
+    "name": "RAWAH INDAH"
+  },
+  {
+    "id": "1705142011",
+    "district_id": "170514",
+    "name": "PADANG CEKUR"
+  },
+  {
+    "id": "1705142012",
+    "district_id": "170514",
+    "name": "PADANG BATU"
+  },
+  {
+    "id": "1705142013",
+    "district_id": "170514",
+    "name": "PALUAH TERAP"
+  },
+  {
+    "id": "1705142014",
+    "district_id": "170514",
+    "name": "MARGO SARI"
+  },
+  {
+    "id": "1705142015",
+    "district_id": "170514",
+    "name": "MEKAR SARI"
+  }
+]

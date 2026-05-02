@@ -1,1 +1,47 @@
-[{"id": "1209162001", "district_id": "120916", "name": "AMBALUTU"}, {"id": "1209162002", "district_id": "120916", "name": "BUNTU PANE"}, {"id": "1209162003", "district_id": "120916", "name": "LESTARI"}, {"id": "1209162005", "district_id": "120916", "name": "PRAPAT JANJI"}, {"id": "1209162007", "district_id": "120916", "name": "SEI SILAU TIMUR"}, {"id": "1209162016", "district_id": "120916", "name": "SIONGGANG"}, {"id": "1209162017", "district_id": "120916", "name": "MEKAR SARI"}, {"id": "1209162018", "district_id": "120916", "name": "PERKEBUNAN SEI SILAU"}, {"id": "1209162019", "district_id": "120916", "name": "KARYA AMBALUTU"}]
+[
+  {
+    "id": "1209162001",
+    "district_id": "120916",
+    "name": "AMBALUTU"
+  },
+  {
+    "id": "1209162002",
+    "district_id": "120916",
+    "name": "BUNTU PANE"
+  },
+  {
+    "id": "1209162003",
+    "district_id": "120916",
+    "name": "LESTARI"
+  },
+  {
+    "id": "1209162005",
+    "district_id": "120916",
+    "name": "PRAPAT JANJI"
+  },
+  {
+    "id": "1209162007",
+    "district_id": "120916",
+    "name": "SEI SILAU TIMUR"
+  },
+  {
+    "id": "1209162016",
+    "district_id": "120916",
+    "name": "SIONGGANG"
+  },
+  {
+    "id": "1209162017",
+    "district_id": "120916",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "1209162018",
+    "district_id": "120916",
+    "name": "PERKEBUNAN SEI SILAU"
+  },
+  {
+    "id": "1209162019",
+    "district_id": "120916",
+    "name": "KARYA AMBALUTU"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1211082001", "district_id": "121108", "name": "LAE ITAM"}, {"id": "1211082002", "district_id": "121108", "name": "LAE LUHUNG"}, {"id": "1211082003", "district_id": "121108", "name": "PARDOMUAN"}, {"id": "1211082004", "district_id": "121108", "name": "LAE MARKELANG"}, {"id": "1211082005", "district_id": "121108", "name": "JAMBUR INDONESIA"}, {"id": "1211082006", "district_id": "121108", "name": "SIMUNGUN"}, {"id": "1211082007", "district_id": "121108", "name": "JANJI"}, {"id": "1211082008", "district_id": "121108", "name": "SOPO BUTAR"}, {"id": "1211082009", "district_id": "121108", "name": "LAE SERING"}, {"id": "1211082010", "district_id": "121108", "name": "LAE HAPORAS"}]
+[
+  {
+    "id": "1211082001",
+    "district_id": "121108",
+    "name": "LAE ITAM"
+  },
+  {
+    "id": "1211082002",
+    "district_id": "121108",
+    "name": "LAE LUHUNG"
+  },
+  {
+    "id": "1211082003",
+    "district_id": "121108",
+    "name": "PARDOMUAN"
+  },
+  {
+    "id": "1211082004",
+    "district_id": "121108",
+    "name": "LAE MARKELANG"
+  },
+  {
+    "id": "1211082005",
+    "district_id": "121108",
+    "name": "JAMBUR INDONESIA"
+  },
+  {
+    "id": "1211082006",
+    "district_id": "121108",
+    "name": "SIMUNGUN"
+  },
+  {
+    "id": "1211082007",
+    "district_id": "121108",
+    "name": "JANJI"
+  },
+  {
+    "id": "1211082008",
+    "district_id": "121108",
+    "name": "SOPO BUTAR"
+  },
+  {
+    "id": "1211082009",
+    "district_id": "121108",
+    "name": "LAE SERING"
+  },
+  {
+    "id": "1211082010",
+    "district_id": "121108",
+    "name": "LAE HAPORAS"
+  }
+]

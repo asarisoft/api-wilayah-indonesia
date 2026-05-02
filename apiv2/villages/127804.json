@@ -1,1 +1,132 @@
-[{"id": "1278042001", "district_id": "127804", "name": "SIFALAETE"}, {"id": "1278042002", "district_id": "127804", "name": "HILIMBAWODESOLO"}, {"id": "1278042003", "district_id": "127804", "name": "DAHANA"}, {"id": "1278042004", "district_id": "127804", "name": "BAWODESOLO"}, {"id": "1278042005", "district_id": "127804", "name": "TUHEGEO I"}, {"id": "1278042006", "district_id": "127804", "name": "SIMANAERE"}, {"id": "1278042007", "district_id": "127804", "name": "HUMENE"}, {"id": "1278042008", "district_id": "127804", "name": "SIWALUBANUA II"}, {"id": "1278042009", "district_id": "127804", "name": "HELEFANIKHA"}, {"id": "1278042010", "district_id": "127804", "name": "TETEHOSI I"}, {"id": "1278042011", "district_id": "127804", "name": "FOWA"}, {"id": "1278042012", "district_id": "127804", "name": "BINAKA"}, {"id": "1278042013", "district_id": "127804", "name": "IDANOTAE"}, {"id": "1278042014", "district_id": "127804", "name": "TETEHOSI II"}, {"id": "1278042015", "district_id": "127804", "name": "LOLO'ANA'A IDANOI"}, {"id": "1278042016", "district_id": "127804", "name": "SIWALUBANUA I"}, {"id": "1278042017", "district_id": "127804", "name": "HILIHAMBAWA"}, {"id": "1278042018", "district_id": "127804", "name": "AWA'AI"}, {"id": "1278042019", "district_id": "127804", "name": "LEWUOGURU IDANOI"}, {"id": "1278042020", "district_id": "127804", "name": "FADORO"}, {"id": "1278042021", "district_id": "127804", "name": "HILIWETO IDANOI"}, {"id": "1278042022", "district_id": "127804", "name": "HILIMBOWO IDANOI"}, {"id": "1278042023", "district_id": "127804", "name": "ONOWAEMBO"}, {"id": "1278042024", "district_id": "127804", "name": "OMBOLATA"}, {"id": "1278042025", "district_id": "127804", "name": "SAMASI"}, {"id": "1278042026", "district_id": "127804", "name": "TUHEGEO II"}]
+[
+  {
+    "id": "1278042001",
+    "district_id": "127804",
+    "name": "SIFALAETE"
+  },
+  {
+    "id": "1278042002",
+    "district_id": "127804",
+    "name": "HILIMBAWODESOLO"
+  },
+  {
+    "id": "1278042003",
+    "district_id": "127804",
+    "name": "DAHANA"
+  },
+  {
+    "id": "1278042004",
+    "district_id": "127804",
+    "name": "BAWODESOLO"
+  },
+  {
+    "id": "1278042005",
+    "district_id": "127804",
+    "name": "TUHEGEO I"
+  },
+  {
+    "id": "1278042006",
+    "district_id": "127804",
+    "name": "SIMANAERE"
+  },
+  {
+    "id": "1278042007",
+    "district_id": "127804",
+    "name": "HUMENE"
+  },
+  {
+    "id": "1278042008",
+    "district_id": "127804",
+    "name": "SIWALUBANUA II"
+  },
+  {
+    "id": "1278042009",
+    "district_id": "127804",
+    "name": "HELEFANIKHA"
+  },
+  {
+    "id": "1278042010",
+    "district_id": "127804",
+    "name": "TETEHOSI I"
+  },
+  {
+    "id": "1278042011",
+    "district_id": "127804",
+    "name": "FOWA"
+  },
+  {
+    "id": "1278042012",
+    "district_id": "127804",
+    "name": "BINAKA"
+  },
+  {
+    "id": "1278042013",
+    "district_id": "127804",
+    "name": "IDANOTAE"
+  },
+  {
+    "id": "1278042014",
+    "district_id": "127804",
+    "name": "TETEHOSI II"
+  },
+  {
+    "id": "1278042015",
+    "district_id": "127804",
+    "name": "LOLO'ANA'A IDANOI"
+  },
+  {
+    "id": "1278042016",
+    "district_id": "127804",
+    "name": "SIWALUBANUA I"
+  },
+  {
+    "id": "1278042017",
+    "district_id": "127804",
+    "name": "HILIHAMBAWA"
+  },
+  {
+    "id": "1278042018",
+    "district_id": "127804",
+    "name": "AWA'AI"
+  },
+  {
+    "id": "1278042019",
+    "district_id": "127804",
+    "name": "LEWUOGURU IDANOI"
+  },
+  {
+    "id": "1278042020",
+    "district_id": "127804",
+    "name": "FADORO"
+  },
+  {
+    "id": "1278042021",
+    "district_id": "127804",
+    "name": "HILIWETO IDANOI"
+  },
+  {
+    "id": "1278042022",
+    "district_id": "127804",
+    "name": "HILIMBOWO IDANOI"
+  },
+  {
+    "id": "1278042023",
+    "district_id": "127804",
+    "name": "ONOWAEMBO"
+  },
+  {
+    "id": "1278042024",
+    "district_id": "127804",
+    "name": "OMBOLATA"
+  },
+  {
+    "id": "1278042025",
+    "district_id": "127804",
+    "name": "SAMASI"
+  },
+  {
+    "id": "1278042026",
+    "district_id": "127804",
+    "name": "TUHEGEO II"
+  }
+]

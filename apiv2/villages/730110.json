@@ -1,1 +1,32 @@
-[{"id": "7301102001", "district_id": "730110", "name": "BONTOBULAENG"}, {"id": "7301102002", "district_id": "730110", "name": "BONTOBARU"}, {"id": "7301102003", "district_id": "730110", "name": "BONTOMALLING"}, {"id": "7301102004", "district_id": "730110", "name": "LEMBANG BAJI"}, {"id": "7301102005", "district_id": "730110", "name": "BONTOJATI"}, {"id": "7301102006", "district_id": "730110", "name": "UJUNG"}]
+[
+  {
+    "id": "7301102001",
+    "district_id": "730110",
+    "name": "BONTOBULAENG"
+  },
+  {
+    "id": "7301102002",
+    "district_id": "730110",
+    "name": "BONTOBARU"
+  },
+  {
+    "id": "7301102003",
+    "district_id": "730110",
+    "name": "BONTOMALLING"
+  },
+  {
+    "id": "7301102004",
+    "district_id": "730110",
+    "name": "LEMBANG BAJI"
+  },
+  {
+    "id": "7301102005",
+    "district_id": "730110",
+    "name": "BONTOJATI"
+  },
+  {
+    "id": "7301102006",
+    "district_id": "730110",
+    "name": "UJUNG"
+  }
+]

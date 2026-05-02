@@ -1,1 +1,47 @@
-[{"id": "7503172001", "district_id": "750317", "name": "MAMUNGAA"}, {"id": "7503172002", "district_id": "750317", "name": "KAIDUNDU BARAT"}, {"id": "7503172003", "district_id": "750317", "name": "MOPUYA"}, {"id": "7503172004", "district_id": "750317", "name": "KAIDUNDU"}, {"id": "7503172005", "district_id": "750317", "name": "BUKIT HIJAU"}, {"id": "7503172006", "district_id": "750317", "name": "MAMUNGAA TIMUR"}, {"id": "7503172007", "district_id": "750317", "name": "DUNGGILATA"}, {"id": "7503172008", "district_id": "750317", "name": "PINOMOTIGA"}, {"id": "7503172009", "district_id": "750317", "name": "PATOA"}]
+[
+  {
+    "id": "7503172001",
+    "district_id": "750317",
+    "name": "MAMUNGAA"
+  },
+  {
+    "id": "7503172002",
+    "district_id": "750317",
+    "name": "KAIDUNDU BARAT"
+  },
+  {
+    "id": "7503172003",
+    "district_id": "750317",
+    "name": "MOPUYA"
+  },
+  {
+    "id": "7503172004",
+    "district_id": "750317",
+    "name": "KAIDUNDU"
+  },
+  {
+    "id": "7503172005",
+    "district_id": "750317",
+    "name": "BUKIT HIJAU"
+  },
+  {
+    "id": "7503172006",
+    "district_id": "750317",
+    "name": "MAMUNGAA TIMUR"
+  },
+  {
+    "id": "7503172007",
+    "district_id": "750317",
+    "name": "DUNGGILATA"
+  },
+  {
+    "id": "7503172008",
+    "district_id": "750317",
+    "name": "PINOMOTIGA"
+  },
+  {
+    "id": "7503172009",
+    "district_id": "750317",
+    "name": "PATOA"
+  }
+]

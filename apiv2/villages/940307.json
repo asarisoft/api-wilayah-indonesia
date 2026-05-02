@@ -1,1 +1,72 @@
-[{"id": "9403072001", "district_id": "940307", "name": "TODIA"}, {"id": "9403072002", "district_id": "940307", "name": "DADOU"}, {"id": "9403072003", "district_id": "940307", "name": "BUA"}, {"id": "9403072004", "district_id": "940307", "name": "KEPI"}, {"id": "9403072005", "district_id": "940307", "name": "WAGEME"}, {"id": "9403072006", "district_id": "940307", "name": "BUGUBUTU"}, {"id": "9403072007", "district_id": "940307", "name": "DOGOMOUTO"}, {"id": "9403072008", "district_id": "940307", "name": "GIWO"}, {"id": "9403072009", "district_id": "940307", "name": "NOMOKEPOTA"}, {"id": "9403072010", "district_id": "940307", "name": "EGUAI"}, {"id": "9403072011", "district_id": "940307", "name": "DEGATADI"}, {"id": "9403072012", "district_id": "940307", "name": "UWOYUPI"}, {"id": "9403072013", "district_id": "940307", "name": "WEGEKEBO"}, {"id": "9403072014", "district_id": "940307", "name": "YINOTADI"}]
+[
+  {
+    "id": "9403072001",
+    "district_id": "940307",
+    "name": "TODIA"
+  },
+  {
+    "id": "9403072002",
+    "district_id": "940307",
+    "name": "DADOU"
+  },
+  {
+    "id": "9403072003",
+    "district_id": "940307",
+    "name": "BUA"
+  },
+  {
+    "id": "9403072004",
+    "district_id": "940307",
+    "name": "KEPI"
+  },
+  {
+    "id": "9403072005",
+    "district_id": "940307",
+    "name": "WAGEME"
+  },
+  {
+    "id": "9403072006",
+    "district_id": "940307",
+    "name": "BUGUBUTU"
+  },
+  {
+    "id": "9403072007",
+    "district_id": "940307",
+    "name": "DOGOMOUTO"
+  },
+  {
+    "id": "9403072008",
+    "district_id": "940307",
+    "name": "GIWO"
+  },
+  {
+    "id": "9403072009",
+    "district_id": "940307",
+    "name": "NOMOKEPOTA"
+  },
+  {
+    "id": "9403072010",
+    "district_id": "940307",
+    "name": "EGUAI"
+  },
+  {
+    "id": "9403072011",
+    "district_id": "940307",
+    "name": "DEGATADI"
+  },
+  {
+    "id": "9403072012",
+    "district_id": "940307",
+    "name": "UWOYUPI"
+  },
+  {
+    "id": "9403072013",
+    "district_id": "940307",
+    "name": "WEGEKEBO"
+  },
+  {
+    "id": "9403072014",
+    "district_id": "940307",
+    "name": "YINOTADI"
+  }
+]

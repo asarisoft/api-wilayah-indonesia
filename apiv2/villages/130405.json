@@ -1,1 +1,22 @@
-[{"id": "1304052001", "district_id": "130405", "name": "TANJUNG BARULAK"}, {"id": "1304052002", "district_id": "130405", "name": "SARUASO"}, {"id": "1304052003", "district_id": "130405", "name": "KOTO TANGAH"}, {"id": "1304052004", "district_id": "130405", "name": "PAGARUYUNG"}]
+[
+  {
+    "id": "1304052001",
+    "district_id": "130405",
+    "name": "TANJUNG BARULAK"
+  },
+  {
+    "id": "1304052002",
+    "district_id": "130405",
+    "name": "SARUASO"
+  },
+  {
+    "id": "1304052003",
+    "district_id": "130405",
+    "name": "KOTO TANGAH"
+  },
+  {
+    "id": "1304052004",
+    "district_id": "130405",
+    "name": "PAGARUYUNG"
+  }
+]

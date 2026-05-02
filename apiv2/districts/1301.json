@@ -1,1 +1,77 @@
-[{"id": "130101", "regency_id": "1301", "name": "PANCUNG SOAL"}, {"id": "130102", "regency_id": "1301", "name": "RANAH PESISIR"}, {"id": "130103", "regency_id": "1301", "name": "LENGAYANG"}, {"id": "130104", "regency_id": "1301", "name": "BATANG KAPAS"}, {"id": "130105", "regency_id": "1301", "name": "IV JURAI"}, {"id": "130106", "regency_id": "1301", "name": "BAYANG"}, {"id": "130107", "regency_id": "1301", "name": "KOTO XI TARUSAN"}, {"id": "130108", "regency_id": "1301", "name": "SUTERA"}, {"id": "130109", "regency_id": "1301", "name": "LINGGO SARI BAGANTI"}, {"id": "130110", "regency_id": "1301", "name": "LUNANG"}, {"id": "130111", "regency_id": "1301", "name": "BASA AMPEK BALAI TAPAN"}, {"id": "130112", "regency_id": "1301", "name": "IV NAGARI BAYANG UTARA"}, {"id": "130113", "regency_id": "1301", "name": "AIRPURA"}, {"id": "130114", "regency_id": "1301", "name": "RANAH AMPEK HULU TAPAN"}, {"id": "130115", "regency_id": "1301", "name": "SILAUT"}]
+[
+  {
+    "id": "130101",
+    "regency_id": "1301",
+    "name": "PANCUNG SOAL"
+  },
+  {
+    "id": "130102",
+    "regency_id": "1301",
+    "name": "RANAH PESISIR"
+  },
+  {
+    "id": "130103",
+    "regency_id": "1301",
+    "name": "LENGAYANG"
+  },
+  {
+    "id": "130104",
+    "regency_id": "1301",
+    "name": "BATANG KAPAS"
+  },
+  {
+    "id": "130105",
+    "regency_id": "1301",
+    "name": "IV JURAI"
+  },
+  {
+    "id": "130106",
+    "regency_id": "1301",
+    "name": "BAYANG"
+  },
+  {
+    "id": "130107",
+    "regency_id": "1301",
+    "name": "KOTO XI TARUSAN"
+  },
+  {
+    "id": "130108",
+    "regency_id": "1301",
+    "name": "SUTERA"
+  },
+  {
+    "id": "130109",
+    "regency_id": "1301",
+    "name": "LINGGO SARI BAGANTI"
+  },
+  {
+    "id": "130110",
+    "regency_id": "1301",
+    "name": "LUNANG"
+  },
+  {
+    "id": "130111",
+    "regency_id": "1301",
+    "name": "BASA AMPEK BALAI TAPAN"
+  },
+  {
+    "id": "130112",
+    "regency_id": "1301",
+    "name": "IV NAGARI BAYANG UTARA"
+  },
+  {
+    "id": "130113",
+    "regency_id": "1301",
+    "name": "AIRPURA"
+  },
+  {
+    "id": "130114",
+    "regency_id": "1301",
+    "name": "RANAH AMPEK HULU TAPAN"
+  },
+  {
+    "id": "130115",
+    "regency_id": "1301",
+    "name": "SILAUT"
+  }
+]

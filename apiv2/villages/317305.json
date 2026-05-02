@@ -1,1 +1,37 @@
-[{"id": "3173051001", "district_id": "317305", "name": "KEBON JERUK"}, {"id": "3173051002", "district_id": "317305", "name": "SUKABUMI UTARA"}, {"id": "3173051003", "district_id": "317305", "name": "SUKABUMI SELATAN"}, {"id": "3173051004", "district_id": "317305", "name": "KELAPA DUA"}, {"id": "3173051005", "district_id": "317305", "name": "DURI KEPA"}, {"id": "3173051006", "district_id": "317305", "name": "KEDOYA UTARA"}, {"id": "3173051007", "district_id": "317305", "name": "KEDOYA SELATAN"}]
+[
+  {
+    "id": "3173051001",
+    "district_id": "317305",
+    "name": "KEBON JERUK"
+  },
+  {
+    "id": "3173051002",
+    "district_id": "317305",
+    "name": "SUKABUMI UTARA"
+  },
+  {
+    "id": "3173051003",
+    "district_id": "317305",
+    "name": "SUKABUMI SELATAN"
+  },
+  {
+    "id": "3173051004",
+    "district_id": "317305",
+    "name": "KELAPA DUA"
+  },
+  {
+    "id": "3173051005",
+    "district_id": "317305",
+    "name": "DURI KEPA"
+  },
+  {
+    "id": "3173051006",
+    "district_id": "317305",
+    "name": "KEDOYA UTARA"
+  },
+  {
+    "id": "3173051007",
+    "district_id": "317305",
+    "name": "KEDOYA SELATAN"
+  }
+]

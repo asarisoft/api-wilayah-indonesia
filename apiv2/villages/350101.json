@@ -1,1 +1,62 @@
-[{"id": "3501012001", "district_id": "350101", "name": "WIDORO"}, {"id": "3501012002", "district_id": "350101", "name": "SAWAHAN"}, {"id": "3501012003", "district_id": "350101", "name": "KALAK"}, {"id": "3501012004", "district_id": "350101", "name": "SENDANG"}, {"id": "3501012005", "district_id": "350101", "name": "KLEPU"}, {"id": "3501012006", "district_id": "350101", "name": "GEDOMPOL"}, {"id": "3501012007", "district_id": "350101", "name": "CEMENG"}, {"id": "3501012008", "district_id": "350101", "name": "GENDARAN"}, {"id": "3501012009", "district_id": "350101", "name": "SUKODONO"}, {"id": "3501012010", "district_id": "350101", "name": "SEKAR"}, {"id": "3501012011", "district_id": "350101", "name": "DONOROJO"}, {"id": "3501012012", "district_id": "350101", "name": "BELAH"}]
+[
+  {
+    "id": "3501012001",
+    "district_id": "350101",
+    "name": "WIDORO"
+  },
+  {
+    "id": "3501012002",
+    "district_id": "350101",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "3501012003",
+    "district_id": "350101",
+    "name": "KALAK"
+  },
+  {
+    "id": "3501012004",
+    "district_id": "350101",
+    "name": "SENDANG"
+  },
+  {
+    "id": "3501012005",
+    "district_id": "350101",
+    "name": "KLEPU"
+  },
+  {
+    "id": "3501012006",
+    "district_id": "350101",
+    "name": "GEDOMPOL"
+  },
+  {
+    "id": "3501012007",
+    "district_id": "350101",
+    "name": "CEMENG"
+  },
+  {
+    "id": "3501012008",
+    "district_id": "350101",
+    "name": "GENDARAN"
+  },
+  {
+    "id": "3501012009",
+    "district_id": "350101",
+    "name": "SUKODONO"
+  },
+  {
+    "id": "3501012010",
+    "district_id": "350101",
+    "name": "SEKAR"
+  },
+  {
+    "id": "3501012011",
+    "district_id": "350101",
+    "name": "DONOROJO"
+  },
+  {
+    "id": "3501012012",
+    "district_id": "350101",
+    "name": "BELAH"
+  }
+]

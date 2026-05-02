@@ -1,1 +1,52 @@
-[{"id": "5318091003", "district_id": "531809", "name": "LANGGA LERO"}, {"id": "5318091004", "district_id": "531809", "name": "WAITABULA"}, {"id": "5318092001", "district_id": "531809", "name": "RADA MATA"}, {"id": "5318092002", "district_id": "531809", "name": "KALENA WANO"}, {"id": "5318092005", "district_id": "531809", "name": "WEE LONDA"}, {"id": "5318092006", "district_id": "531809", "name": "WEE PANGALI"}, {"id": "5318092007", "district_id": "531809", "name": "KADI PADA"}, {"id": "5318092008", "district_id": "531809", "name": "WATU KAWULA"}, {"id": "5318092009", "district_id": "531809", "name": "WEE RENA"}, {"id": "5318092010", "district_id": "531809", "name": "KALEMBU KAHA"}]
+[
+  {
+    "id": "5318091003",
+    "district_id": "531809",
+    "name": "LANGGA LERO"
+  },
+  {
+    "id": "5318091004",
+    "district_id": "531809",
+    "name": "WAITABULA"
+  },
+  {
+    "id": "5318092001",
+    "district_id": "531809",
+    "name": "RADA MATA"
+  },
+  {
+    "id": "5318092002",
+    "district_id": "531809",
+    "name": "KALENA WANO"
+  },
+  {
+    "id": "5318092005",
+    "district_id": "531809",
+    "name": "WEE LONDA"
+  },
+  {
+    "id": "5318092006",
+    "district_id": "531809",
+    "name": "WEE PANGALI"
+  },
+  {
+    "id": "5318092007",
+    "district_id": "531809",
+    "name": "KADI PADA"
+  },
+  {
+    "id": "5318092008",
+    "district_id": "531809",
+    "name": "WATU KAWULA"
+  },
+  {
+    "id": "5318092009",
+    "district_id": "531809",
+    "name": "WEE RENA"
+  },
+  {
+    "id": "5318092010",
+    "district_id": "531809",
+    "name": "KALEMBU KAHA"
+  }
+]

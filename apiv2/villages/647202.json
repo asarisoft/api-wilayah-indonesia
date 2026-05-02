@@ -1,1 +1,32 @@
-[{"id": "6472021001", "district_id": "647202", "name": "SUNGAI KELEDANG"}, {"id": "6472021002", "district_id": "647202", "name": "BAQA"}, {"id": "6472021003", "district_id": "647202", "name": "MESJID"}, {"id": "6472021009", "district_id": "647202", "name": "MANGKUPALAS"}, {"id": "6472021010", "district_id": "647202", "name": "TENUN SAMARINDA"}, {"id": "6472021011", "district_id": "647202", "name": "GUNUNG PANJANG"}]
+[
+  {
+    "id": "6472021001",
+    "district_id": "647202",
+    "name": "SUNGAI KELEDANG"
+  },
+  {
+    "id": "6472021002",
+    "district_id": "647202",
+    "name": "BAQA"
+  },
+  {
+    "id": "6472021003",
+    "district_id": "647202",
+    "name": "MESJID"
+  },
+  {
+    "id": "6472021009",
+    "district_id": "647202",
+    "name": "MANGKUPALAS"
+  },
+  {
+    "id": "6472021010",
+    "district_id": "647202",
+    "name": "TENUN SAMARINDA"
+  },
+  {
+    "id": "6472021011",
+    "district_id": "647202",
+    "name": "GUNUNG PANJANG"
+  }
+]

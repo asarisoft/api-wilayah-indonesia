@@ -1,1 +1,62 @@
-[{"id": "1401062001", "district_id": "140106", "name": "PANGKALAN BARU"}, {"id": "1401062002", "district_id": "140106", "name": "DESA BARU"}, {"id": "1401062003", "district_id": "140106", "name": "TERATAK BULUH"}, {"id": "1401062005", "district_id": "140106", "name": "LUBUK SIAM"}, {"id": "1401062006", "district_id": "140106", "name": "BULUH CINA"}, {"id": "1401062007", "district_id": "140106", "name": "BULUH NIPIS"}, {"id": "1401062011", "district_id": "140106", "name": "TANAH MERAH"}, {"id": "1401062012", "district_id": "140106", "name": "PANDAU JAYA"}, {"id": "1401062013", "district_id": "140106", "name": "TANJUNG BALAM"}, {"id": "1401062014", "district_id": "140106", "name": "KEPAU JAYA"}, {"id": "1401062015", "district_id": "140106", "name": "PANGKALAN SERIK"}, {"id": "1401062016", "district_id": "140106", "name": "KUBANG JAYA"}]
+[
+  {
+    "id": "1401062001",
+    "district_id": "140106",
+    "name": "PANGKALAN BARU"
+  },
+  {
+    "id": "1401062002",
+    "district_id": "140106",
+    "name": "DESA BARU"
+  },
+  {
+    "id": "1401062003",
+    "district_id": "140106",
+    "name": "TERATAK BULUH"
+  },
+  {
+    "id": "1401062005",
+    "district_id": "140106",
+    "name": "LUBUK SIAM"
+  },
+  {
+    "id": "1401062006",
+    "district_id": "140106",
+    "name": "BULUH CINA"
+  },
+  {
+    "id": "1401062007",
+    "district_id": "140106",
+    "name": "BULUH NIPIS"
+  },
+  {
+    "id": "1401062011",
+    "district_id": "140106",
+    "name": "TANAH MERAH"
+  },
+  {
+    "id": "1401062012",
+    "district_id": "140106",
+    "name": "PANDAU JAYA"
+  },
+  {
+    "id": "1401062013",
+    "district_id": "140106",
+    "name": "TANJUNG BALAM"
+  },
+  {
+    "id": "1401062014",
+    "district_id": "140106",
+    "name": "KEPAU JAYA"
+  },
+  {
+    "id": "1401062015",
+    "district_id": "140106",
+    "name": "PANGKALAN SERIK"
+  },
+  {
+    "id": "1401062016",
+    "district_id": "140106",
+    "name": "KUBANG JAYA"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "6305122001", "district_id": "630512", "name": "TARUNGIN"}, {"id": "6305122002", "district_id": "630512", "name": "MATANG BATAS"}, {"id": "6305122003", "district_id": "630512", "name": "HATUNGUN"}, {"id": "6305122004", "district_id": "630512", "name": "BURAKAI"}, {"id": "6305122005", "district_id": "630512", "name": "BATU HAPU"}, {"id": "6305122006", "district_id": "630512", "name": "KAMBANG KUNING"}, {"id": "6305122007", "district_id": "630512", "name": "ASAM RANDAH"}, {"id": "6305122008", "district_id": "630512", "name": "BAGAK"}]
+[
+  {
+    "id": "6305122001",
+    "district_id": "630512",
+    "name": "TARUNGIN"
+  },
+  {
+    "id": "6305122002",
+    "district_id": "630512",
+    "name": "MATANG BATAS"
+  },
+  {
+    "id": "6305122003",
+    "district_id": "630512",
+    "name": "HATUNGUN"
+  },
+  {
+    "id": "6305122004",
+    "district_id": "630512",
+    "name": "BURAKAI"
+  },
+  {
+    "id": "6305122005",
+    "district_id": "630512",
+    "name": "BATU HAPU"
+  },
+  {
+    "id": "6305122006",
+    "district_id": "630512",
+    "name": "KAMBANG KUNING"
+  },
+  {
+    "id": "6305122007",
+    "district_id": "630512",
+    "name": "ASAM RANDAH"
+  },
+  {
+    "id": "6305122008",
+    "district_id": "630512",
+    "name": "BAGAK"
+  }
+]

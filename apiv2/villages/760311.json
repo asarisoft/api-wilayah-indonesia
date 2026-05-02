@@ -1,1 +1,102 @@
-[{"id": "7603112001", "district_id": "760311", "name": "MOKALLANG"}, {"id": "7603112002", "district_id": "760311", "name": "MASOSO"}, {"id": "7603112003", "district_id": "760311", "name": "SALUASSING"}, {"id": "7603112004", "district_id": "760311", "name": "SALUBULO"}, {"id": "7603112005", "district_id": "760311", "name": "SALUKADI"}, {"id": "7603112006", "district_id": "760311", "name": "SALUKEPOPOK"}, {"id": "7603112007", "district_id": "760311", "name": "ULUMAMBI BARAT"}, {"id": "7603112008", "district_id": "760311", "name": "LIMBADEBATA"}, {"id": "7603112009", "district_id": "760311", "name": "TANETE TOMBA"}, {"id": "7603112010", "district_id": "760311", "name": "BAMBANG"}, {"id": "7603112011", "district_id": "760311", "name": "RANTELEMO"}, {"id": "7603112012", "district_id": "760311", "name": "SALUDENGEN"}, {"id": "7603112013", "district_id": "760311", "name": "ULUMAMBI"}, {"id": "7603112014", "district_id": "760311", "name": "BAMBANG TIMUR"}, {"id": "7603112015", "district_id": "760311", "name": "MINANGA"}, {"id": "7603112016", "district_id": "760311", "name": "SIKAMASE"}, {"id": "7603112017", "district_id": "760311", "name": "RANTETARIMA"}, {"id": "7603112018", "district_id": "760311", "name": "SALURURU"}, {"id": "7603112019", "district_id": "760311", "name": "SALUTABANG"}, {"id": "7603112020", "district_id": "760311", "name": "BALATANA"}]
+[
+  {
+    "id": "7603112001",
+    "district_id": "760311",
+    "name": "MOKALLANG"
+  },
+  {
+    "id": "7603112002",
+    "district_id": "760311",
+    "name": "MASOSO"
+  },
+  {
+    "id": "7603112003",
+    "district_id": "760311",
+    "name": "SALUASSING"
+  },
+  {
+    "id": "7603112004",
+    "district_id": "760311",
+    "name": "SALUBULO"
+  },
+  {
+    "id": "7603112005",
+    "district_id": "760311",
+    "name": "SALUKADI"
+  },
+  {
+    "id": "7603112006",
+    "district_id": "760311",
+    "name": "SALUKEPOPOK"
+  },
+  {
+    "id": "7603112007",
+    "district_id": "760311",
+    "name": "ULUMAMBI BARAT"
+  },
+  {
+    "id": "7603112008",
+    "district_id": "760311",
+    "name": "LIMBADEBATA"
+  },
+  {
+    "id": "7603112009",
+    "district_id": "760311",
+    "name": "TANETE TOMBA"
+  },
+  {
+    "id": "7603112010",
+    "district_id": "760311",
+    "name": "BAMBANG"
+  },
+  {
+    "id": "7603112011",
+    "district_id": "760311",
+    "name": "RANTELEMO"
+  },
+  {
+    "id": "7603112012",
+    "district_id": "760311",
+    "name": "SALUDENGEN"
+  },
+  {
+    "id": "7603112013",
+    "district_id": "760311",
+    "name": "ULUMAMBI"
+  },
+  {
+    "id": "7603112014",
+    "district_id": "760311",
+    "name": "BAMBANG TIMUR"
+  },
+  {
+    "id": "7603112015",
+    "district_id": "760311",
+    "name": "MINANGA"
+  },
+  {
+    "id": "7603112016",
+    "district_id": "760311",
+    "name": "SIKAMASE"
+  },
+  {
+    "id": "7603112017",
+    "district_id": "760311",
+    "name": "RANTETARIMA"
+  },
+  {
+    "id": "7603112018",
+    "district_id": "760311",
+    "name": "SALURURU"
+  },
+  {
+    "id": "7603112019",
+    "district_id": "760311",
+    "name": "SALUTABANG"
+  },
+  {
+    "id": "7603112020",
+    "district_id": "760311",
+    "name": "BALATANA"
+  }
+]

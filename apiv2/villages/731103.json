@@ -1,1 +1,52 @@
-[{"id": "7311031001", "district_id": "731103", "name": "COPPO"}, {"id": "7311031002", "district_id": "731103", "name": "MANGEMPANG"}, {"id": "7311031003", "district_id": "731103", "name": "SUMPANG BINANGAE"}, {"id": "7311031004", "district_id": "731103", "name": "SEPEE"}, {"id": "7311031005", "district_id": "731103", "name": "TUWUNG"}, {"id": "7311032006", "district_id": "731103", "name": "PALAKKA"}, {"id": "7311032007", "district_id": "731103", "name": "TOMPO"}, {"id": "7311032008", "district_id": "731103", "name": "ANABANUA"}, {"id": "7311032009", "district_id": "731103", "name": "GALUNG"}, {"id": "7311032010", "district_id": "731103", "name": "SIAWUNG"}]
+[
+  {
+    "id": "7311031001",
+    "district_id": "731103",
+    "name": "COPPO"
+  },
+  {
+    "id": "7311031002",
+    "district_id": "731103",
+    "name": "MANGEMPANG"
+  },
+  {
+    "id": "7311031003",
+    "district_id": "731103",
+    "name": "SUMPANG BINANGAE"
+  },
+  {
+    "id": "7311031004",
+    "district_id": "731103",
+    "name": "SEPEE"
+  },
+  {
+    "id": "7311031005",
+    "district_id": "731103",
+    "name": "TUWUNG"
+  },
+  {
+    "id": "7311032006",
+    "district_id": "731103",
+    "name": "PALAKKA"
+  },
+  {
+    "id": "7311032007",
+    "district_id": "731103",
+    "name": "TOMPO"
+  },
+  {
+    "id": "7311032008",
+    "district_id": "731103",
+    "name": "ANABANUA"
+  },
+  {
+    "id": "7311032009",
+    "district_id": "731103",
+    "name": "GALUNG"
+  },
+  {
+    "id": "7311032010",
+    "district_id": "731103",
+    "name": "SIAWUNG"
+  }
+]

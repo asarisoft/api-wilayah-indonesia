@@ -1,1 +1,97 @@
-[{"id": "6306082001", "district_id": "630608", "name": "PAKAPURAN KECIL"}, {"id": "6306082002", "district_id": "630608", "name": "PANGGANDINGAN"}, {"id": "6306082003", "district_id": "630608", "name": "TAMBAK BITIN"}, {"id": "6306082004", "district_id": "630608", "name": "PAKAN DALAM"}, {"id": "6306082005", "district_id": "630608", "name": "PARAMAIAN"}, {"id": "6306082006", "district_id": "630608", "name": "PANDAK DAUN"}, {"id": "6306082007", "district_id": "630608", "name": "MURUNG RAYA"}, {"id": "6306082008", "district_id": "630608", "name": "BALAH PAIKAT"}, {"id": "6306082009", "district_id": "630608", "name": "SUNGAI GARUDA"}, {"id": "6306082010", "district_id": "630608", "name": "SUNGAI MANDALA"}, {"id": "6306082011", "district_id": "630608", "name": "MDL. MURUNG MESJID"}, {"id": "6306082012", "district_id": "630608", "name": "BARUH KEMBANG"}, {"id": "6306082013", "district_id": "630608", "name": "TELUK HAUR"}, {"id": "6306082014", "district_id": "630608", "name": "PASUNGKAN"}, {"id": "6306082015", "district_id": "630608", "name": "TELUK LABAK"}, {"id": "6306082016", "district_id": "630608", "name": "HAMAYUNG"}, {"id": "6306082017", "district_id": "630608", "name": "HAMAYUNG UTARA"}, {"id": "6306082018", "district_id": "630608", "name": "PAHARANGAN"}, {"id": "6306082019", "district_id": "630608", "name": "HAKURUNG"}]
+[
+  {
+    "id": "6306082001",
+    "district_id": "630608",
+    "name": "PAKAPURAN KECIL"
+  },
+  {
+    "id": "6306082002",
+    "district_id": "630608",
+    "name": "PANGGANDINGAN"
+  },
+  {
+    "id": "6306082003",
+    "district_id": "630608",
+    "name": "TAMBAK BITIN"
+  },
+  {
+    "id": "6306082004",
+    "district_id": "630608",
+    "name": "PAKAN DALAM"
+  },
+  {
+    "id": "6306082005",
+    "district_id": "630608",
+    "name": "PARAMAIAN"
+  },
+  {
+    "id": "6306082006",
+    "district_id": "630608",
+    "name": "PANDAK DAUN"
+  },
+  {
+    "id": "6306082007",
+    "district_id": "630608",
+    "name": "MURUNG RAYA"
+  },
+  {
+    "id": "6306082008",
+    "district_id": "630608",
+    "name": "BALAH PAIKAT"
+  },
+  {
+    "id": "6306082009",
+    "district_id": "630608",
+    "name": "SUNGAI GARUDA"
+  },
+  {
+    "id": "6306082010",
+    "district_id": "630608",
+    "name": "SUNGAI MANDALA"
+  },
+  {
+    "id": "6306082011",
+    "district_id": "630608",
+    "name": "MDL. MURUNG MESJID"
+  },
+  {
+    "id": "6306082012",
+    "district_id": "630608",
+    "name": "BARUH KEMBANG"
+  },
+  {
+    "id": "6306082013",
+    "district_id": "630608",
+    "name": "TELUK HAUR"
+  },
+  {
+    "id": "6306082014",
+    "district_id": "630608",
+    "name": "PASUNGKAN"
+  },
+  {
+    "id": "6306082015",
+    "district_id": "630608",
+    "name": "TELUK LABAK"
+  },
+  {
+    "id": "6306082016",
+    "district_id": "630608",
+    "name": "HAMAYUNG"
+  },
+  {
+    "id": "6306082017",
+    "district_id": "630608",
+    "name": "HAMAYUNG UTARA"
+  },
+  {
+    "id": "6306082018",
+    "district_id": "630608",
+    "name": "PAHARANGAN"
+  },
+  {
+    "id": "6306082019",
+    "district_id": "630608",
+    "name": "HAKURUNG"
+  }
+]

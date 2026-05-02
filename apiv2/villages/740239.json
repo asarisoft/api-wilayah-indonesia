@@ -1,1 +1,52 @@
-[{"id": "7402392001", "district_id": "740239", "name": "MENDIKONU"}, {"id": "7402392002", "district_id": "740239", "name": "WONUA MORINI"}, {"id": "7402392003", "district_id": "740239", "name": "BESU"}, {"id": "7402392004", "district_id": "740239", "name": "PAKU"}, {"id": "7402392005", "district_id": "740239", "name": "PUURUY"}, {"id": "7402392006", "district_id": "740239", "name": "MOROSI"}, {"id": "7402392007", "district_id": "740239", "name": "TANGGOBU"}, {"id": "7402392008", "district_id": "740239", "name": "PAKU JAYA"}, {"id": "7402392009", "district_id": "740239", "name": "TONDOWATU"}, {"id": "7402392010", "district_id": "740239", "name": "PORARA"}]
+[
+  {
+    "id": "7402392001",
+    "district_id": "740239",
+    "name": "MENDIKONU"
+  },
+  {
+    "id": "7402392002",
+    "district_id": "740239",
+    "name": "WONUA MORINI"
+  },
+  {
+    "id": "7402392003",
+    "district_id": "740239",
+    "name": "BESU"
+  },
+  {
+    "id": "7402392004",
+    "district_id": "740239",
+    "name": "PAKU"
+  },
+  {
+    "id": "7402392005",
+    "district_id": "740239",
+    "name": "PUURUY"
+  },
+  {
+    "id": "7402392006",
+    "district_id": "740239",
+    "name": "MOROSI"
+  },
+  {
+    "id": "7402392007",
+    "district_id": "740239",
+    "name": "TANGGOBU"
+  },
+  {
+    "id": "7402392008",
+    "district_id": "740239",
+    "name": "PAKU JAYA"
+  },
+  {
+    "id": "7402392009",
+    "district_id": "740239",
+    "name": "TONDOWATU"
+  },
+  {
+    "id": "7402392010",
+    "district_id": "740239",
+    "name": "PORARA"
+  }
+]

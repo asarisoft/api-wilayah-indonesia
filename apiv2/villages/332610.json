@@ -1,1 +1,87 @@
-[{"id": "3326101017", "district_id": "332610", "name": "SRAGI"}, {"id": "3326102001", "district_id": "332610", "name": "KETANONAGENG"}, {"id": "3326102002", "district_id": "332610", "name": "MRICAN"}, {"id": "3326102003", "district_id": "332610", "name": "BULAKSARI"}, {"id": "3326102004", "district_id": "332610", "name": "SUMUBKIDUL"}, {"id": "3326102005", "district_id": "332610", "name": "KALIJAMBE"}, {"id": "3326102006", "district_id": "332610", "name": "SUMUBLOR"}, {"id": "3326102007", "district_id": "332610", "name": "KRSAKAGENG"}, {"id": "3326102008", "district_id": "332610", "name": "SIJERUK"}, {"id": "3326102009", "district_id": "332610", "name": "TEGALSURUH"}, {"id": "3326102010", "district_id": "332610", "name": "BULAKPELEM"}, {"id": "3326102011", "district_id": "332610", "name": "GEBANGKEREP"}, {"id": "3326102012", "district_id": "332610", "name": "PURWOREJO"}, {"id": "3326102013", "district_id": "332610", "name": "KEDUNGJARAN"}, {"id": "3326102014", "district_id": "332610", "name": "KLUNJUKAN"}, {"id": "3326102015", "district_id": "332610", "name": "TEGALONTAR"}, {"id": "3326102016", "district_id": "332610", "name": "PURWODADI"}]
+[
+  {
+    "id": "3326101017",
+    "district_id": "332610",
+    "name": "SRAGI"
+  },
+  {
+    "id": "3326102001",
+    "district_id": "332610",
+    "name": "KETANONAGENG"
+  },
+  {
+    "id": "3326102002",
+    "district_id": "332610",
+    "name": "MRICAN"
+  },
+  {
+    "id": "3326102003",
+    "district_id": "332610",
+    "name": "BULAKSARI"
+  },
+  {
+    "id": "3326102004",
+    "district_id": "332610",
+    "name": "SUMUBKIDUL"
+  },
+  {
+    "id": "3326102005",
+    "district_id": "332610",
+    "name": "KALIJAMBE"
+  },
+  {
+    "id": "3326102006",
+    "district_id": "332610",
+    "name": "SUMUBLOR"
+  },
+  {
+    "id": "3326102007",
+    "district_id": "332610",
+    "name": "KRSAKAGENG"
+  },
+  {
+    "id": "3326102008",
+    "district_id": "332610",
+    "name": "SIJERUK"
+  },
+  {
+    "id": "3326102009",
+    "district_id": "332610",
+    "name": "TEGALSURUH"
+  },
+  {
+    "id": "3326102010",
+    "district_id": "332610",
+    "name": "BULAKPELEM"
+  },
+  {
+    "id": "3326102011",
+    "district_id": "332610",
+    "name": "GEBANGKEREP"
+  },
+  {
+    "id": "3326102012",
+    "district_id": "332610",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3326102013",
+    "district_id": "332610",
+    "name": "KEDUNGJARAN"
+  },
+  {
+    "id": "3326102014",
+    "district_id": "332610",
+    "name": "KLUNJUKAN"
+  },
+  {
+    "id": "3326102015",
+    "district_id": "332610",
+    "name": "TEGALONTAR"
+  },
+  {
+    "id": "3326102016",
+    "district_id": "332610",
+    "name": "PURWODADI"
+  }
+]

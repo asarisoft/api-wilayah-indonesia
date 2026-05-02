@@ -1,1 +1,82 @@
-[{"id": "1214061008", "district_id": "121406", "name": "PASAR TELUK DALAM"}, {"id": "1214062006", "district_id": "121406", "name": "HILIGEHO"}, {"id": "1214062007", "district_id": "121406", "name": "HILITOBARA"}, {"id": "1214062009", "district_id": "121406", "name": "BAWONIFAOSO"}, {"id": "1214062010", "district_id": "121406", "name": "BAWOZAUA"}, {"id": "1214062011", "district_id": "121406", "name": "HILIGANOWO"}, {"id": "1214062023", "district_id": "121406", "name": "BAWODOBARA"}, {"id": "1214062024", "district_id": "121406", "name": "BAWOLOWALANI"}, {"id": "1214062025", "district_id": "121406", "name": "HILISAO'OTONIHA"}, {"id": "1214062026", "district_id": "121406", "name": "HILISONDREKHA"}, {"id": "1214062040", "district_id": "121406", "name": "HILIAMURI"}, {"id": "1214062042", "district_id": "121406", "name": "HILIANA'A"}, {"id": "1214062043", "district_id": "121406", "name": "HILIGANOWO SALO'O"}, {"id": "1214062044", "district_id": "121406", "name": "GANOWO SAUA"}, {"id": "1214062045", "district_id": "121406", "name": "NANOWA"}, {"id": "1214062046", "district_id": "121406", "name": "HILILAZA"}]
+[
+  {
+    "id": "1214061008",
+    "district_id": "121406",
+    "name": "PASAR TELUK DALAM"
+  },
+  {
+    "id": "1214062006",
+    "district_id": "121406",
+    "name": "HILIGEHO"
+  },
+  {
+    "id": "1214062007",
+    "district_id": "121406",
+    "name": "HILITOBARA"
+  },
+  {
+    "id": "1214062009",
+    "district_id": "121406",
+    "name": "BAWONIFAOSO"
+  },
+  {
+    "id": "1214062010",
+    "district_id": "121406",
+    "name": "BAWOZAUA"
+  },
+  {
+    "id": "1214062011",
+    "district_id": "121406",
+    "name": "HILIGANOWO"
+  },
+  {
+    "id": "1214062023",
+    "district_id": "121406",
+    "name": "BAWODOBARA"
+  },
+  {
+    "id": "1214062024",
+    "district_id": "121406",
+    "name": "BAWOLOWALANI"
+  },
+  {
+    "id": "1214062025",
+    "district_id": "121406",
+    "name": "HILISAO'OTONIHA"
+  },
+  {
+    "id": "1214062026",
+    "district_id": "121406",
+    "name": "HILISONDREKHA"
+  },
+  {
+    "id": "1214062040",
+    "district_id": "121406",
+    "name": "HILIAMURI"
+  },
+  {
+    "id": "1214062042",
+    "district_id": "121406",
+    "name": "HILIANA'A"
+  },
+  {
+    "id": "1214062043",
+    "district_id": "121406",
+    "name": "HILIGANOWO SALO'O"
+  },
+  {
+    "id": "1214062044",
+    "district_id": "121406",
+    "name": "GANOWO SAUA"
+  },
+  {
+    "id": "1214062045",
+    "district_id": "121406",
+    "name": "NANOWA"
+  },
+  {
+    "id": "1214062046",
+    "district_id": "121406",
+    "name": "HILILAZA"
+  }
+]

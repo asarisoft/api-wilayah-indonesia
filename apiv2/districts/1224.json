@@ -1,1 +1,57 @@
-[{"id": "122401", "regency_id": "1224", "name": "LOTU"}, {"id": "122402", "regency_id": "1224", "name": "SAWO"}, {"id": "122403", "regency_id": "1224", "name": "TUHEMBERUA"}, {"id": "122404", "regency_id": "1224", "name": "SITOLU ORI"}, {"id": "122405", "regency_id": "1224", "name": "NAMOHALU ESIWA"}, {"id": "122406", "regency_id": "1224", "name": "ALASA TALUMUZOI"}, {"id": "122407", "regency_id": "1224", "name": "ALASA"}, {"id": "122408", "regency_id": "1224", "name": "TUGALA OYO"}, {"id": "122409", "regency_id": "1224", "name": "AFULU"}, {"id": "122410", "regency_id": "1224", "name": "LAHEWA"}, {"id": "122411", "regency_id": "1224", "name": "LAHEWA TIMUR"}]
+[
+  {
+    "id": "122401",
+    "regency_id": "1224",
+    "name": "LOTU"
+  },
+  {
+    "id": "122402",
+    "regency_id": "1224",
+    "name": "SAWO"
+  },
+  {
+    "id": "122403",
+    "regency_id": "1224",
+    "name": "TUHEMBERUA"
+  },
+  {
+    "id": "122404",
+    "regency_id": "1224",
+    "name": "SITOLU ORI"
+  },
+  {
+    "id": "122405",
+    "regency_id": "1224",
+    "name": "NAMOHALU ESIWA"
+  },
+  {
+    "id": "122406",
+    "regency_id": "1224",
+    "name": "ALASA TALUMUZOI"
+  },
+  {
+    "id": "122407",
+    "regency_id": "1224",
+    "name": "ALASA"
+  },
+  {
+    "id": "122408",
+    "regency_id": "1224",
+    "name": "TUGALA OYO"
+  },
+  {
+    "id": "122409",
+    "regency_id": "1224",
+    "name": "AFULU"
+  },
+  {
+    "id": "122410",
+    "regency_id": "1224",
+    "name": "LAHEWA"
+  },
+  {
+    "id": "122411",
+    "regency_id": "1224",
+    "name": "LAHEWA TIMUR"
+  }
+]

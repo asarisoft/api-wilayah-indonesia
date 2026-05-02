@@ -1,1 +1,42 @@
-[{"id": "367201", "regency_id": "3672", "name": "CIBEBER"}, {"id": "367202", "regency_id": "3672", "name": "CILEGON"}, {"id": "367203", "regency_id": "3672", "name": "PULOMERAK"}, {"id": "367204", "regency_id": "3672", "name": "CIWANDAN"}, {"id": "367205", "regency_id": "3672", "name": "JOMBANG"}, {"id": "367206", "regency_id": "3672", "name": "GEROGOL"}, {"id": "367207", "regency_id": "3672", "name": "PURWAKARTA"}, {"id": "367208", "regency_id": "3672", "name": "CITANGKIL"}]
+[
+  {
+    "id": "367201",
+    "regency_id": "3672",
+    "name": "CIBEBER"
+  },
+  {
+    "id": "367202",
+    "regency_id": "3672",
+    "name": "CILEGON"
+  },
+  {
+    "id": "367203",
+    "regency_id": "3672",
+    "name": "PULOMERAK"
+  },
+  {
+    "id": "367204",
+    "regency_id": "3672",
+    "name": "CIWANDAN"
+  },
+  {
+    "id": "367205",
+    "regency_id": "3672",
+    "name": "JOMBANG"
+  },
+  {
+    "id": "367206",
+    "regency_id": "3672",
+    "name": "GEROGOL"
+  },
+  {
+    "id": "367207",
+    "regency_id": "3672",
+    "name": "PURWAKARTA"
+  },
+  {
+    "id": "367208",
+    "regency_id": "3672",
+    "name": "CITANGKIL"
+  }
+]

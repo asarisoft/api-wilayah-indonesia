@@ -1,1 +1,42 @@
-[{"id": "9601152001", "district_id": "960115", "name": "KLAYILI"}, {"id": "9601152002", "district_id": "960115", "name": "KLAWULUH"}, {"id": "9601152003", "district_id": "960115", "name": "MALAKOBUTU"}, {"id": "9601152004", "district_id": "960115", "name": "KWAKEIK"}, {"id": "9601152005", "district_id": "960115", "name": "KLASOWOH"}, {"id": "9601152006", "district_id": "960115", "name": "MALALILIS"}, {"id": "9601152007", "district_id": "960115", "name": "MLAWER"}, {"id": "9601152008", "district_id": "960115", "name": "KLATOMOK"}]
+[
+  {
+    "id": "9601152001",
+    "district_id": "960115",
+    "name": "KLAYILI"
+  },
+  {
+    "id": "9601152002",
+    "district_id": "960115",
+    "name": "KLAWULUH"
+  },
+  {
+    "id": "9601152003",
+    "district_id": "960115",
+    "name": "MALAKOBUTU"
+  },
+  {
+    "id": "9601152004",
+    "district_id": "960115",
+    "name": "KWAKEIK"
+  },
+  {
+    "id": "9601152005",
+    "district_id": "960115",
+    "name": "KLASOWOH"
+  },
+  {
+    "id": "9601152006",
+    "district_id": "960115",
+    "name": "MALALILIS"
+  },
+  {
+    "id": "9601152007",
+    "district_id": "960115",
+    "name": "MLAWER"
+  },
+  {
+    "id": "9601152008",
+    "district_id": "960115",
+    "name": "KLATOMOK"
+  }
+]

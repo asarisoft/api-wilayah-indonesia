@@ -1,1 +1,47 @@
-[{"id": "6304132001", "district_id": "630413", "name": "MEKARSARI"}, {"id": "6304132002", "district_id": "630413", "name": "TAMBAN RAYA"}, {"id": "6304132003", "district_id": "630413", "name": "TINGGIRAN TENGAH"}, {"id": "6304132004", "district_id": "630413", "name": "TINGGIRAN DARAT"}, {"id": "6304132005", "district_id": "630413", "name": "JELAPAT II"}, {"id": "6304132006", "district_id": "630413", "name": "TAMBAN RAYA BARU"}, {"id": "6304132007", "district_id": "630413", "name": "TINGGIRAN BARU"}, {"id": "6304132008", "district_id": "630413", "name": "KARANG MEKAR"}, {"id": "6304132009", "district_id": "630413", "name": "INDAH SARI"}]
+[
+  {
+    "id": "6304132001",
+    "district_id": "630413",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "6304132002",
+    "district_id": "630413",
+    "name": "TAMBAN RAYA"
+  },
+  {
+    "id": "6304132003",
+    "district_id": "630413",
+    "name": "TINGGIRAN TENGAH"
+  },
+  {
+    "id": "6304132004",
+    "district_id": "630413",
+    "name": "TINGGIRAN DARAT"
+  },
+  {
+    "id": "6304132005",
+    "district_id": "630413",
+    "name": "JELAPAT II"
+  },
+  {
+    "id": "6304132006",
+    "district_id": "630413",
+    "name": "TAMBAN RAYA BARU"
+  },
+  {
+    "id": "6304132007",
+    "district_id": "630413",
+    "name": "TINGGIRAN BARU"
+  },
+  {
+    "id": "6304132008",
+    "district_id": "630413",
+    "name": "KARANG MEKAR"
+  },
+  {
+    "id": "6304132009",
+    "district_id": "630413",
+    "name": "INDAH SARI"
+  }
+]

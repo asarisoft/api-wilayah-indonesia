@@ -1,1 +1,122 @@
-[{"id": "960501", "regency_id": "9605", "name": "AIFAT"}, {"id": "960502", "regency_id": "9605", "name": "AIFAT UTARA"}, {"id": "960503", "regency_id": "9605", "name": "AIFAT TIMUR"}, {"id": "960504", "regency_id": "9605", "name": "AIFAT SELATAN"}, {"id": "960505", "regency_id": "9605", "name": "AITINYO BARAT"}, {"id": "960506", "regency_id": "9605", "name": "AITINYO"}, {"id": "960507", "regency_id": "9605", "name": "AITINYO UTARA"}, {"id": "960508", "regency_id": "9605", "name": "AYAMARU"}, {"id": "960509", "regency_id": "9605", "name": "AYAMARU UTARA"}, {"id": "960510", "regency_id": "9605", "name": "AYAMARU TIMUR"}, {"id": "960511", "regency_id": "9605", "name": "MARE"}, {"id": "960512", "regency_id": "9605", "name": "AIFAT TIMUR TENGAH"}, {"id": "960513", "regency_id": "9605", "name": "AIFAT TIMUR JAUH"}, {"id": "960514", "regency_id": "9605", "name": "AIFAT TIMUR SELATAN"}, {"id": "960515", "regency_id": "9605", "name": "AYAMARU SELATAN"}, {"id": "960516", "regency_id": "9605", "name": "AYAMARU JAYA"}, {"id": "960517", "regency_id": "9605", "name": "AYAMARU SELATAN JAYA"}, {"id": "960518", "regency_id": "9605", "name": "AYAMARU TIMUR SELATAN"}, {"id": "960519", "regency_id": "9605", "name": "AYAMARU UTARA TIMUR"}, {"id": "960520", "regency_id": "9605", "name": "AYAMARU TENGAH"}, {"id": "960521", "regency_id": "9605", "name": "AYAMARU BARAT"}, {"id": "960522", "regency_id": "9605", "name": "AITINYO TENGAH"}, {"id": "960523", "regency_id": "9605", "name": "AITINYO RAYA"}, {"id": "960524", "regency_id": "9605", "name": "MARE SELATAN"}]
+[
+  {
+    "id": "960501",
+    "regency_id": "9605",
+    "name": "AIFAT"
+  },
+  {
+    "id": "960502",
+    "regency_id": "9605",
+    "name": "AIFAT UTARA"
+  },
+  {
+    "id": "960503",
+    "regency_id": "9605",
+    "name": "AIFAT TIMUR"
+  },
+  {
+    "id": "960504",
+    "regency_id": "9605",
+    "name": "AIFAT SELATAN"
+  },
+  {
+    "id": "960505",
+    "regency_id": "9605",
+    "name": "AITINYO BARAT"
+  },
+  {
+    "id": "960506",
+    "regency_id": "9605",
+    "name": "AITINYO"
+  },
+  {
+    "id": "960507",
+    "regency_id": "9605",
+    "name": "AITINYO UTARA"
+  },
+  {
+    "id": "960508",
+    "regency_id": "9605",
+    "name": "AYAMARU"
+  },
+  {
+    "id": "960509",
+    "regency_id": "9605",
+    "name": "AYAMARU UTARA"
+  },
+  {
+    "id": "960510",
+    "regency_id": "9605",
+    "name": "AYAMARU TIMUR"
+  },
+  {
+    "id": "960511",
+    "regency_id": "9605",
+    "name": "MARE"
+  },
+  {
+    "id": "960512",
+    "regency_id": "9605",
+    "name": "AIFAT TIMUR TENGAH"
+  },
+  {
+    "id": "960513",
+    "regency_id": "9605",
+    "name": "AIFAT TIMUR JAUH"
+  },
+  {
+    "id": "960514",
+    "regency_id": "9605",
+    "name": "AIFAT TIMUR SELATAN"
+  },
+  {
+    "id": "960515",
+    "regency_id": "9605",
+    "name": "AYAMARU SELATAN"
+  },
+  {
+    "id": "960516",
+    "regency_id": "9605",
+    "name": "AYAMARU JAYA"
+  },
+  {
+    "id": "960517",
+    "regency_id": "9605",
+    "name": "AYAMARU SELATAN JAYA"
+  },
+  {
+    "id": "960518",
+    "regency_id": "9605",
+    "name": "AYAMARU TIMUR SELATAN"
+  },
+  {
+    "id": "960519",
+    "regency_id": "9605",
+    "name": "AYAMARU UTARA TIMUR"
+  },
+  {
+    "id": "960520",
+    "regency_id": "9605",
+    "name": "AYAMARU TENGAH"
+  },
+  {
+    "id": "960521",
+    "regency_id": "9605",
+    "name": "AYAMARU BARAT"
+  },
+  {
+    "id": "960522",
+    "regency_id": "9605",
+    "name": "AITINYO TENGAH"
+  },
+  {
+    "id": "960523",
+    "regency_id": "9605",
+    "name": "AITINYO RAYA"
+  },
+  {
+    "id": "960524",
+    "regency_id": "9605",
+    "name": "MARE SELATAN"
+  }
+]

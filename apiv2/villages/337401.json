@@ -1,1 +1,77 @@
-[{"id": "3374011001", "district_id": "337401", "name": "MIROTO"}, {"id": "3374011002", "district_id": "337401", "name": "BRUMBUNGAN"}, {"id": "3374011003", "district_id": "337401", "name": "JAGALAN"}, {"id": "3374011004", "district_id": "337401", "name": "KRANGGAN"}, {"id": "3374011005", "district_id": "337401", "name": "GABAHAN"}, {"id": "3374011006", "district_id": "337401", "name": "KEMBANGSARI"}, {"id": "3374011007", "district_id": "337401", "name": "SEKAYU"}, {"id": "3374011008", "district_id": "337401", "name": "PANDANSARI"}, {"id": "3374011009", "district_id": "337401", "name": "BANGUNHARJO"}, {"id": "3374011010", "district_id": "337401", "name": "KAUMAN"}, {"id": "3374011011", "district_id": "337401", "name": "PURWODINATAN"}, {"id": "3374011012", "district_id": "337401", "name": "KARANG KIDUL"}, {"id": "3374011013", "district_id": "337401", "name": "PEKUNDEN"}, {"id": "3374011014", "district_id": "337401", "name": "PINDRIKAN KIDUL"}, {"id": "3374011015", "district_id": "337401", "name": "PINDRIKAN LOR"}]
+[
+  {
+    "id": "3374011001",
+    "district_id": "337401",
+    "name": "MIROTO"
+  },
+  {
+    "id": "3374011002",
+    "district_id": "337401",
+    "name": "BRUMBUNGAN"
+  },
+  {
+    "id": "3374011003",
+    "district_id": "337401",
+    "name": "JAGALAN"
+  },
+  {
+    "id": "3374011004",
+    "district_id": "337401",
+    "name": "KRANGGAN"
+  },
+  {
+    "id": "3374011005",
+    "district_id": "337401",
+    "name": "GABAHAN"
+  },
+  {
+    "id": "3374011006",
+    "district_id": "337401",
+    "name": "KEMBANGSARI"
+  },
+  {
+    "id": "3374011007",
+    "district_id": "337401",
+    "name": "SEKAYU"
+  },
+  {
+    "id": "3374011008",
+    "district_id": "337401",
+    "name": "PANDANSARI"
+  },
+  {
+    "id": "3374011009",
+    "district_id": "337401",
+    "name": "BANGUNHARJO"
+  },
+  {
+    "id": "3374011010",
+    "district_id": "337401",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3374011011",
+    "district_id": "337401",
+    "name": "PURWODINATAN"
+  },
+  {
+    "id": "3374011012",
+    "district_id": "337401",
+    "name": "KARANG KIDUL"
+  },
+  {
+    "id": "3374011013",
+    "district_id": "337401",
+    "name": "PEKUNDEN"
+  },
+  {
+    "id": "3374011014",
+    "district_id": "337401",
+    "name": "PINDRIKAN KIDUL"
+  },
+  {
+    "id": "3374011015",
+    "district_id": "337401",
+    "name": "PINDRIKAN LOR"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3521112001", "district_id": "352111", "name": "BEGAL"}, {"id": "3521112002", "district_id": "352111", "name": "WONOREJO"}, {"id": "3521112003", "district_id": "352111", "name": "KATIKAN"}, {"id": "3521112004", "district_id": "352111", "name": "PELANG KIDUL"}, {"id": "3521112005", "district_id": "352111", "name": "KEDUNGGALAR"}, {"id": "3521112006", "district_id": "352111", "name": "JATIGEMBOL"}, {"id": "3521112007", "district_id": "352111", "name": "PELANG LOR"}, {"id": "3521112008", "district_id": "352111", "name": "BANGUNREJO KIDUL"}, {"id": "3521112009", "district_id": "352111", "name": "JENGGRIK"}, {"id": "3521112010", "district_id": "352111", "name": "WONOKERTO"}, {"id": "3521112011", "district_id": "352111", "name": "GEMARANG"}, {"id": "3521112012", "district_id": "352111", "name": "KAWU"}]
+[
+  {
+    "id": "3521112001",
+    "district_id": "352111",
+    "name": "BEGAL"
+  },
+  {
+    "id": "3521112002",
+    "district_id": "352111",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3521112003",
+    "district_id": "352111",
+    "name": "KATIKAN"
+  },
+  {
+    "id": "3521112004",
+    "district_id": "352111",
+    "name": "PELANG KIDUL"
+  },
+  {
+    "id": "3521112005",
+    "district_id": "352111",
+    "name": "KEDUNGGALAR"
+  },
+  {
+    "id": "3521112006",
+    "district_id": "352111",
+    "name": "JATIGEMBOL"
+  },
+  {
+    "id": "3521112007",
+    "district_id": "352111",
+    "name": "PELANG LOR"
+  },
+  {
+    "id": "3521112008",
+    "district_id": "352111",
+    "name": "BANGUNREJO KIDUL"
+  },
+  {
+    "id": "3521112009",
+    "district_id": "352111",
+    "name": "JENGGRIK"
+  },
+  {
+    "id": "3521112010",
+    "district_id": "352111",
+    "name": "WONOKERTO"
+  },
+  {
+    "id": "3521112011",
+    "district_id": "352111",
+    "name": "GEMARANG"
+  },
+  {
+    "id": "3521112012",
+    "district_id": "352111",
+    "name": "KAWU"
+  }
+]

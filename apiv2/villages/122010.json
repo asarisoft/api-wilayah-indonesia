@@ -1,1 +1,72 @@
-[{"id": "1220102001", "district_id": "122010", "name": "SIUNGGAM JULU"}, {"id": "1220102002", "district_id": "122010", "name": "SIUNGGAM TONGA"}, {"id": "1220102003", "district_id": "122010", "name": "SIUNGGAM JAE"}, {"id": "1220102004", "district_id": "122010", "name": "AEK BAYUR"}, {"id": "1220102005", "district_id": "122010", "name": "AEK TOLONG"}, {"id": "1220102006", "district_id": "122010", "name": "TANGGA-TANGGA HAMBENG"}, {"id": "1220102007", "district_id": "122010", "name": "SIMANINGGIR"}, {"id": "1220102008", "district_id": "122010", "name": "BANGUN PURBA"}, {"id": "1220102009", "district_id": "122010", "name": "NAGA SARIBU"}, {"id": "1220102010", "district_id": "122010", "name": "SIHODA-HODA"}, {"id": "1220102011", "district_id": "122010", "name": "MOMPANG II"}, {"id": "1220102012", "district_id": "122010", "name": "GULANGAN"}, {"id": "1220102013", "district_id": "122010", "name": "PIJOR KOLING"}, {"id": "1220102014", "district_id": "122010", "name": "PURBA TUA DOLOK"}]
+[
+  {
+    "id": "1220102001",
+    "district_id": "122010",
+    "name": "SIUNGGAM JULU"
+  },
+  {
+    "id": "1220102002",
+    "district_id": "122010",
+    "name": "SIUNGGAM TONGA"
+  },
+  {
+    "id": "1220102003",
+    "district_id": "122010",
+    "name": "SIUNGGAM JAE"
+  },
+  {
+    "id": "1220102004",
+    "district_id": "122010",
+    "name": "AEK BAYUR"
+  },
+  {
+    "id": "1220102005",
+    "district_id": "122010",
+    "name": "AEK TOLONG"
+  },
+  {
+    "id": "1220102006",
+    "district_id": "122010",
+    "name": "TANGGA-TANGGA HAMBENG"
+  },
+  {
+    "id": "1220102007",
+    "district_id": "122010",
+    "name": "SIMANINGGIR"
+  },
+  {
+    "id": "1220102008",
+    "district_id": "122010",
+    "name": "BANGUN PURBA"
+  },
+  {
+    "id": "1220102009",
+    "district_id": "122010",
+    "name": "NAGA SARIBU"
+  },
+  {
+    "id": "1220102010",
+    "district_id": "122010",
+    "name": "SIHODA-HODA"
+  },
+  {
+    "id": "1220102011",
+    "district_id": "122010",
+    "name": "MOMPANG II"
+  },
+  {
+    "id": "1220102012",
+    "district_id": "122010",
+    "name": "GULANGAN"
+  },
+  {
+    "id": "1220102013",
+    "district_id": "122010",
+    "name": "PIJOR KOLING"
+  },
+  {
+    "id": "1220102014",
+    "district_id": "122010",
+    "name": "PURBA TUA DOLOK"
+  }
+]

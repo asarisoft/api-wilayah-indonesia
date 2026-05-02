@@ -1,1 +1,57 @@
-[{"id": "7402161003", "district_id": "740216", "name": "WAWORAHA"}, {"id": "7402162001", "district_id": "740216", "name": "LATOMA JAYA"}, {"id": "7402162002", "district_id": "740216", "name": "AMBEKAERI UTAMA"}, {"id": "7402162004", "district_id": "740216", "name": "AMBONIKI"}, {"id": "7402162005", "district_id": "740216", "name": "PINOLE"}, {"id": "7402162006", "district_id": "740216", "name": "NESOWI"}, {"id": "7402162007", "district_id": "740216", "name": "WAWOLATOMA"}, {"id": "7402162008", "district_id": "740216", "name": "ANDOLUTO"}, {"id": "7402162009", "district_id": "740216", "name": "LALOWATA"}, {"id": "7402162010", "district_id": "740216", "name": "TITIOWA"}, {"id": "7402162012", "district_id": "740216", "name": "ANGONGA"}]
+[
+  {
+    "id": "7402161003",
+    "district_id": "740216",
+    "name": "WAWORAHA"
+  },
+  {
+    "id": "7402162001",
+    "district_id": "740216",
+    "name": "LATOMA JAYA"
+  },
+  {
+    "id": "7402162002",
+    "district_id": "740216",
+    "name": "AMBEKAERI UTAMA"
+  },
+  {
+    "id": "7402162004",
+    "district_id": "740216",
+    "name": "AMBONIKI"
+  },
+  {
+    "id": "7402162005",
+    "district_id": "740216",
+    "name": "PINOLE"
+  },
+  {
+    "id": "7402162006",
+    "district_id": "740216",
+    "name": "NESOWI"
+  },
+  {
+    "id": "7402162007",
+    "district_id": "740216",
+    "name": "WAWOLATOMA"
+  },
+  {
+    "id": "7402162008",
+    "district_id": "740216",
+    "name": "ANDOLUTO"
+  },
+  {
+    "id": "7402162009",
+    "district_id": "740216",
+    "name": "LALOWATA"
+  },
+  {
+    "id": "7402162010",
+    "district_id": "740216",
+    "name": "TITIOWA"
+  },
+  {
+    "id": "7402162012",
+    "district_id": "740216",
+    "name": "ANGONGA"
+  }
+]

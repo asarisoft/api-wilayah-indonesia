@@ -1,1 +1,117 @@
-[{"id": "3317112001", "district_id": "331711", "name": "JAPELEDOK"}, {"id": "3317112002", "district_id": "331711", "name": "JERUK"}, {"id": "3317112003", "district_id": "331711", "name": "DOROPAYUNG"}, {"id": "3317112004", "district_id": "331711", "name": "KARASKEPOH"}, {"id": "3317112005", "district_id": "331711", "name": "TUYUHAN"}, {"id": "3317112006", "district_id": "331711", "name": "PANDAN"}, {"id": "3317112007", "district_id": "331711", "name": "GEMBLENGMULYO"}, {"id": "3317112008", "district_id": "331711", "name": "SUMBERAGUNG"}, {"id": "3317112009", "district_id": "331711", "name": "KALITENGAH"}, {"id": "3317112010", "district_id": "331711", "name": "SIDOWAYAH"}, {"id": "3317112011", "district_id": "331711", "name": "KEDUNG"}, {"id": "3317112012", "district_id": "331711", "name": "PUNGGURHARJO"}, {"id": "3317112013", "district_id": "331711", "name": "LANGKIR"}, {"id": "3317112014", "district_id": "331711", "name": "PANCUR"}, {"id": "3317112015", "district_id": "331711", "name": "POHLANDAK"}, {"id": "3317112016", "district_id": "331711", "name": "WARUGUNUNG"}, {"id": "3317112017", "district_id": "331711", "name": "CRIWIK"}, {"id": "3317112018", "district_id": "331711", "name": "WUWUR"}, {"id": "3317112019", "district_id": "331711", "name": "NGULANGAN"}, {"id": "3317112020", "district_id": "331711", "name": "BANYUURIP"}, {"id": "3317112021", "district_id": "331711", "name": "JOHOGUNUNG"}, {"id": "3317112022", "district_id": "331711", "name": "TRENGGULUNAN"}, {"id": "3317112023", "district_id": "331711", "name": "NGROTO"}]
+[
+  {
+    "id": "3317112001",
+    "district_id": "331711",
+    "name": "JAPELEDOK"
+  },
+  {
+    "id": "3317112002",
+    "district_id": "331711",
+    "name": "JERUK"
+  },
+  {
+    "id": "3317112003",
+    "district_id": "331711",
+    "name": "DOROPAYUNG"
+  },
+  {
+    "id": "3317112004",
+    "district_id": "331711",
+    "name": "KARASKEPOH"
+  },
+  {
+    "id": "3317112005",
+    "district_id": "331711",
+    "name": "TUYUHAN"
+  },
+  {
+    "id": "3317112006",
+    "district_id": "331711",
+    "name": "PANDAN"
+  },
+  {
+    "id": "3317112007",
+    "district_id": "331711",
+    "name": "GEMBLENGMULYO"
+  },
+  {
+    "id": "3317112008",
+    "district_id": "331711",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3317112009",
+    "district_id": "331711",
+    "name": "KALITENGAH"
+  },
+  {
+    "id": "3317112010",
+    "district_id": "331711",
+    "name": "SIDOWAYAH"
+  },
+  {
+    "id": "3317112011",
+    "district_id": "331711",
+    "name": "KEDUNG"
+  },
+  {
+    "id": "3317112012",
+    "district_id": "331711",
+    "name": "PUNGGURHARJO"
+  },
+  {
+    "id": "3317112013",
+    "district_id": "331711",
+    "name": "LANGKIR"
+  },
+  {
+    "id": "3317112014",
+    "district_id": "331711",
+    "name": "PANCUR"
+  },
+  {
+    "id": "3317112015",
+    "district_id": "331711",
+    "name": "POHLANDAK"
+  },
+  {
+    "id": "3317112016",
+    "district_id": "331711",
+    "name": "WARUGUNUNG"
+  },
+  {
+    "id": "3317112017",
+    "district_id": "331711",
+    "name": "CRIWIK"
+  },
+  {
+    "id": "3317112018",
+    "district_id": "331711",
+    "name": "WUWUR"
+  },
+  {
+    "id": "3317112019",
+    "district_id": "331711",
+    "name": "NGULANGAN"
+  },
+  {
+    "id": "3317112020",
+    "district_id": "331711",
+    "name": "BANYUURIP"
+  },
+  {
+    "id": "3317112021",
+    "district_id": "331711",
+    "name": "JOHOGUNUNG"
+  },
+  {
+    "id": "3317112022",
+    "district_id": "331711",
+    "name": "TRENGGULUNAN"
+  },
+  {
+    "id": "3317112023",
+    "district_id": "331711",
+    "name": "NGROTO"
+  }
+]

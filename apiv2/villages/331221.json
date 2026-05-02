@@ -1,1 +1,57 @@
-[{"id": "3312211005", "district_id": "331221", "name": "JATIPURNO"}, {"id": "3312211009", "district_id": "331221", "name": "BALEPANJANG"}, {"id": "3312212001", "district_id": "331221", "name": "GIRIYOSO"}, {"id": "3312212002", "district_id": "331221", "name": "KOPEN"}, {"id": "3312212003", "district_id": "331221", "name": "JATIPURWO"}, {"id": "3312212004", "district_id": "331221", "name": "TAWANGREJO"}, {"id": "3312212006", "district_id": "331221", "name": "SLOGORETNO"}, {"id": "3312212007", "district_id": "331221", "name": "KEMBANG"}, {"id": "3312212008", "district_id": "331221", "name": "GIRIMULYO"}, {"id": "3312212010", "district_id": "331221", "name": "JEPORO"}, {"id": "3312212011", "district_id": "331221", "name": "MANGUNHARJO"}]
+[
+  {
+    "id": "3312211005",
+    "district_id": "331221",
+    "name": "JATIPURNO"
+  },
+  {
+    "id": "3312211009",
+    "district_id": "331221",
+    "name": "BALEPANJANG"
+  },
+  {
+    "id": "3312212001",
+    "district_id": "331221",
+    "name": "GIRIYOSO"
+  },
+  {
+    "id": "3312212002",
+    "district_id": "331221",
+    "name": "KOPEN"
+  },
+  {
+    "id": "3312212003",
+    "district_id": "331221",
+    "name": "JATIPURWO"
+  },
+  {
+    "id": "3312212004",
+    "district_id": "331221",
+    "name": "TAWANGREJO"
+  },
+  {
+    "id": "3312212006",
+    "district_id": "331221",
+    "name": "SLOGORETNO"
+  },
+  {
+    "id": "3312212007",
+    "district_id": "331221",
+    "name": "KEMBANG"
+  },
+  {
+    "id": "3312212008",
+    "district_id": "331221",
+    "name": "GIRIMULYO"
+  },
+  {
+    "id": "3312212010",
+    "district_id": "331221",
+    "name": "JEPORO"
+  },
+  {
+    "id": "3312212011",
+    "district_id": "331221",
+    "name": "MANGUNHARJO"
+  }
+]

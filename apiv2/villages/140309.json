@@ -1,1 +1,57 @@
-[{"id": "1403091001", "district_id": "140309", "name": "AIR JAMBAN"}, {"id": "1403091002", "district_id": "140309", "name": "BABUSSALAM"}, {"id": "1403091003", "district_id": "140309", "name": "BATANG SEROSA"}, {"id": "1403091004", "district_id": "140309", "name": "BALIK ALAM"}, {"id": "1403091006", "district_id": "140309", "name": "DURI BARAT"}, {"id": "1403091007", "district_id": "140309", "name": "DURI TIMUR"}, {"id": "1403091008", "district_id": "140309", "name": "GAJAH SAKTI"}, {"id": "1403091009", "district_id": "140309", "name": "TALANG MANDI"}, {"id": "1403091010", "district_id": "140309", "name": "PEMATANG PUDU"}, {"id": "1403092011", "district_id": "140309", "name": "HARAPAN BARU"}, {"id": "1403092021", "district_id": "140309", "name": "BATHIN BETUAH"}]
+[
+  {
+    "id": "1403091001",
+    "district_id": "140309",
+    "name": "AIR JAMBAN"
+  },
+  {
+    "id": "1403091002",
+    "district_id": "140309",
+    "name": "BABUSSALAM"
+  },
+  {
+    "id": "1403091003",
+    "district_id": "140309",
+    "name": "BATANG SEROSA"
+  },
+  {
+    "id": "1403091004",
+    "district_id": "140309",
+    "name": "BALIK ALAM"
+  },
+  {
+    "id": "1403091006",
+    "district_id": "140309",
+    "name": "DURI BARAT"
+  },
+  {
+    "id": "1403091007",
+    "district_id": "140309",
+    "name": "DURI TIMUR"
+  },
+  {
+    "id": "1403091008",
+    "district_id": "140309",
+    "name": "GAJAH SAKTI"
+  },
+  {
+    "id": "1403091009",
+    "district_id": "140309",
+    "name": "TALANG MANDI"
+  },
+  {
+    "id": "1403091010",
+    "district_id": "140309",
+    "name": "PEMATANG PUDU"
+  },
+  {
+    "id": "1403092011",
+    "district_id": "140309",
+    "name": "HARAPAN BARU"
+  },
+  {
+    "id": "1403092021",
+    "district_id": "140309",
+    "name": "BATHIN BETUAH"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "3303142001", "district_id": "330314", "name": "BROBOT"}, {"id": "3303142002", "district_id": "330314", "name": "GEMBONG"}, {"id": "3303142003", "district_id": "330314", "name": "GALUH"}, {"id": "3303142004", "district_id": "330314", "name": "BANJARAN"}, {"id": "3303142005", "district_id": "330314", "name": "PATEMON"}, {"id": "3303142006", "district_id": "330314", "name": "BOJONGSARI"}, {"id": "3303142007", "district_id": "330314", "name": "KAJONGAN"}, {"id": "3303142008", "district_id": "330314", "name": "KARANGBANJAR"}, {"id": "3303142009", "district_id": "330314", "name": "BEJI"}, {"id": "3303142010", "district_id": "330314", "name": "PAGEDANGAN"}, {"id": "3303142011", "district_id": "330314", "name": "PEKALONGAN"}, {"id": "3303142012", "district_id": "330314", "name": "METENGGENG"}, {"id": "3303142013", "district_id": "330314", "name": "BUMISARI"}]
+[
+  {
+    "id": "3303142001",
+    "district_id": "330314",
+    "name": "BROBOT"
+  },
+  {
+    "id": "3303142002",
+    "district_id": "330314",
+    "name": "GEMBONG"
+  },
+  {
+    "id": "3303142003",
+    "district_id": "330314",
+    "name": "GALUH"
+  },
+  {
+    "id": "3303142004",
+    "district_id": "330314",
+    "name": "BANJARAN"
+  },
+  {
+    "id": "3303142005",
+    "district_id": "330314",
+    "name": "PATEMON"
+  },
+  {
+    "id": "3303142006",
+    "district_id": "330314",
+    "name": "BOJONGSARI"
+  },
+  {
+    "id": "3303142007",
+    "district_id": "330314",
+    "name": "KAJONGAN"
+  },
+  {
+    "id": "3303142008",
+    "district_id": "330314",
+    "name": "KARANGBANJAR"
+  },
+  {
+    "id": "3303142009",
+    "district_id": "330314",
+    "name": "BEJI"
+  },
+  {
+    "id": "3303142010",
+    "district_id": "330314",
+    "name": "PAGEDANGAN"
+  },
+  {
+    "id": "3303142011",
+    "district_id": "330314",
+    "name": "PEKALONGAN"
+  },
+  {
+    "id": "3303142012",
+    "district_id": "330314",
+    "name": "METENGGENG"
+  },
+  {
+    "id": "3303142013",
+    "district_id": "330314",
+    "name": "BUMISARI"
+  }
+]

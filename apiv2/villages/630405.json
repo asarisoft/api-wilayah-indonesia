@@ -1,1 +1,92 @@
-[{"id": "6304051001", "district_id": "630405", "name": "BERANGAS BARAT"}, {"id": "6304051002", "district_id": "630405", "name": "BERANGAS"}, {"id": "6304051003", "district_id": "630405", "name": "HANDIL BAKTI"}, {"id": "6304052004", "district_id": "630405", "name": "PULAU ALALAK"}, {"id": "6304052005", "district_id": "630405", "name": "PULAU SEWANGI"}, {"id": "6304052006", "district_id": "630405", "name": "PULAU SUGARA"}, {"id": "6304052007", "district_id": "630405", "name": "SUNGAI LUMBAH"}, {"id": "6304052008", "district_id": "630405", "name": "BERANGAS TIMUR"}, {"id": "6304052009", "district_id": "630405", "name": "SEI SEMANGAT BHAKTI"}, {"id": "6304052010", "district_id": "630405", "name": "SUNGAI PITUNG"}, {"id": "6304052011", "district_id": "630405", "name": "BELANDEAN MUARA"}, {"id": "6304052012", "district_id": "630405", "name": "BELANDEAN"}, {"id": "6304052013", "district_id": "630405", "name": "TANJUNG HARAPAN"}, {"id": "6304052014", "district_id": "630405", "name": "SEMANGAT DALAM"}, {"id": "6304052015", "district_id": "630405", "name": "BERINGIN"}, {"id": "6304052016", "district_id": "630405", "name": "SEMANGAT KARYA"}, {"id": "6304052017", "district_id": "630405", "name": "PANCA KARYA"}, {"id": "6304052018", "district_id": "630405", "name": "TATAH MESJID"}]
+[
+  {
+    "id": "6304051001",
+    "district_id": "630405",
+    "name": "BERANGAS BARAT"
+  },
+  {
+    "id": "6304051002",
+    "district_id": "630405",
+    "name": "BERANGAS"
+  },
+  {
+    "id": "6304051003",
+    "district_id": "630405",
+    "name": "HANDIL BAKTI"
+  },
+  {
+    "id": "6304052004",
+    "district_id": "630405",
+    "name": "PULAU ALALAK"
+  },
+  {
+    "id": "6304052005",
+    "district_id": "630405",
+    "name": "PULAU SEWANGI"
+  },
+  {
+    "id": "6304052006",
+    "district_id": "630405",
+    "name": "PULAU SUGARA"
+  },
+  {
+    "id": "6304052007",
+    "district_id": "630405",
+    "name": "SUNGAI LUMBAH"
+  },
+  {
+    "id": "6304052008",
+    "district_id": "630405",
+    "name": "BERANGAS TIMUR"
+  },
+  {
+    "id": "6304052009",
+    "district_id": "630405",
+    "name": "SEI SEMANGAT BHAKTI"
+  },
+  {
+    "id": "6304052010",
+    "district_id": "630405",
+    "name": "SUNGAI PITUNG"
+  },
+  {
+    "id": "6304052011",
+    "district_id": "630405",
+    "name": "BELANDEAN MUARA"
+  },
+  {
+    "id": "6304052012",
+    "district_id": "630405",
+    "name": "BELANDEAN"
+  },
+  {
+    "id": "6304052013",
+    "district_id": "630405",
+    "name": "TANJUNG HARAPAN"
+  },
+  {
+    "id": "6304052014",
+    "district_id": "630405",
+    "name": "SEMANGAT DALAM"
+  },
+  {
+    "id": "6304052015",
+    "district_id": "630405",
+    "name": "BERINGIN"
+  },
+  {
+    "id": "6304052016",
+    "district_id": "630405",
+    "name": "SEMANGAT KARYA"
+  },
+  {
+    "id": "6304052017",
+    "district_id": "630405",
+    "name": "PANCA KARYA"
+  },
+  {
+    "id": "6304052018",
+    "district_id": "630405",
+    "name": "TATAH MESJID"
+  }
+]

@@ -1,1 +1,87 @@
-[{"id": "3307031008", "district_id": "330703", "name": "SAPURAN"}, {"id": "3307032001", "district_id": "330703", "name": "BOGORAN"}, {"id": "3307032002", "district_id": "330703", "name": "KARANGSARI"}, {"id": "3307032003", "district_id": "330703", "name": "PECEKELAN"}, {"id": "3307032004", "district_id": "330703", "name": "GLAGAH"}, {"id": "3307032005", "district_id": "330703", "name": "SUROJOYO"}, {"id": "3307032006", "district_id": "330703", "name": "TALUNOMBO"}, {"id": "3307032007", "district_id": "330703", "name": "TEMPURSARI"}, {"id": "3307032009", "district_id": "330703", "name": "JOLONTORO"}, {"id": "3307032010", "district_id": "330703", "name": "SEDAYU"}, {"id": "3307032011", "district_id": "330703", "name": "NGADISALAM"}, {"id": "3307032012", "district_id": "330703", "name": "TEMPURANDUWUR"}, {"id": "3307032013", "district_id": "330703", "name": "MARONGSARI"}, {"id": "3307032014", "district_id": "330703", "name": "BATURSARI"}, {"id": "3307032015", "district_id": "330703", "name": "BANYUMUDAL"}, {"id": "3307032016", "district_id": "330703", "name": "NGADIKERSO"}, {"id": "3307032017", "district_id": "330703", "name": "RIMPAK"}]
+[
+  {
+    "id": "3307031008",
+    "district_id": "330703",
+    "name": "SAPURAN"
+  },
+  {
+    "id": "3307032001",
+    "district_id": "330703",
+    "name": "BOGORAN"
+  },
+  {
+    "id": "3307032002",
+    "district_id": "330703",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3307032003",
+    "district_id": "330703",
+    "name": "PECEKELAN"
+  },
+  {
+    "id": "3307032004",
+    "district_id": "330703",
+    "name": "GLAGAH"
+  },
+  {
+    "id": "3307032005",
+    "district_id": "330703",
+    "name": "SUROJOYO"
+  },
+  {
+    "id": "3307032006",
+    "district_id": "330703",
+    "name": "TALUNOMBO"
+  },
+  {
+    "id": "3307032007",
+    "district_id": "330703",
+    "name": "TEMPURSARI"
+  },
+  {
+    "id": "3307032009",
+    "district_id": "330703",
+    "name": "JOLONTORO"
+  },
+  {
+    "id": "3307032010",
+    "district_id": "330703",
+    "name": "SEDAYU"
+  },
+  {
+    "id": "3307032011",
+    "district_id": "330703",
+    "name": "NGADISALAM"
+  },
+  {
+    "id": "3307032012",
+    "district_id": "330703",
+    "name": "TEMPURANDUWUR"
+  },
+  {
+    "id": "3307032013",
+    "district_id": "330703",
+    "name": "MARONGSARI"
+  },
+  {
+    "id": "3307032014",
+    "district_id": "330703",
+    "name": "BATURSARI"
+  },
+  {
+    "id": "3307032015",
+    "district_id": "330703",
+    "name": "BANYUMUDAL"
+  },
+  {
+    "id": "3307032016",
+    "district_id": "330703",
+    "name": "NGADIKERSO"
+  },
+  {
+    "id": "3307032017",
+    "district_id": "330703",
+    "name": "RIMPAK"
+  }
+]

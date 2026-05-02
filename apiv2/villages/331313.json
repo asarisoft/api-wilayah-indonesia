@@ -1,1 +1,67 @@
-[{"id": "3313132001", "district_id": "331313", "name": "WONOREJO"}, {"id": "3313132002", "district_id": "331313", "name": "PLESUNGAN"}, {"id": "3313132003", "district_id": "331313", "name": "JATIKUWUNG"}, {"id": "3313132004", "district_id": "331313", "name": "SELOKATON"}, {"id": "3313132005", "district_id": "331313", "name": "BULUREJO"}, {"id": "3313132006", "district_id": "331313", "name": "REJOSARI"}, {"id": "3313132007", "district_id": "331313", "name": "JERUKSAWIT"}, {"id": "3313132008", "district_id": "331313", "name": "KARANGTURI"}, {"id": "3313132009", "district_id": "331313", "name": "KRAGAN"}, {"id": "3313132010", "district_id": "331313", "name": "WONOSARI"}, {"id": "3313132011", "district_id": "331313", "name": "DAYU"}, {"id": "3313132012", "district_id": "331313", "name": "TUBAN"}, {"id": "3313132013", "district_id": "331313", "name": "KRENDOWAHONO"}]
+[
+  {
+    "id": "3313132001",
+    "district_id": "331313",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3313132002",
+    "district_id": "331313",
+    "name": "PLESUNGAN"
+  },
+  {
+    "id": "3313132003",
+    "district_id": "331313",
+    "name": "JATIKUWUNG"
+  },
+  {
+    "id": "3313132004",
+    "district_id": "331313",
+    "name": "SELOKATON"
+  },
+  {
+    "id": "3313132005",
+    "district_id": "331313",
+    "name": "BULUREJO"
+  },
+  {
+    "id": "3313132006",
+    "district_id": "331313",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3313132007",
+    "district_id": "331313",
+    "name": "JERUKSAWIT"
+  },
+  {
+    "id": "3313132008",
+    "district_id": "331313",
+    "name": "KARANGTURI"
+  },
+  {
+    "id": "3313132009",
+    "district_id": "331313",
+    "name": "KRAGAN"
+  },
+  {
+    "id": "3313132010",
+    "district_id": "331313",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3313132011",
+    "district_id": "331313",
+    "name": "DAYU"
+  },
+  {
+    "id": "3313132012",
+    "district_id": "331313",
+    "name": "TUBAN"
+  },
+  {
+    "id": "3313132013",
+    "district_id": "331313",
+    "name": "KRENDOWAHONO"
+  }
+]

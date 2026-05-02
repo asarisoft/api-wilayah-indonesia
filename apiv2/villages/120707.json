@@ -1,1 +1,87 @@
-[{"id": "1207072001", "district_id": "120707", "name": "AJI BAHO"}, {"id": "1207072002", "district_id": "120707", "name": "BIRU-BIRU"}, {"id": "1207072003", "district_id": "120707", "name": "CANDI REJO"}, {"id": "1207072004", "district_id": "120707", "name": "KUTOMULYO"}, {"id": "1207072005", "district_id": "120707", "name": "KUALA DEKAH"}, {"id": "1207072006", "district_id": "120707", "name": "MBARUAI"}, {"id": "1207072007", "district_id": "120707", "name": "MARDINDING JULU"}, {"id": "1207072008", "district_id": "120707", "name": "NAMO SURO BARU"}, {"id": "1207072009", "district_id": "120707", "name": "PERIA-RIA"}, {"id": "1207072010", "district_id": "120707", "name": "PENEN"}, {"id": "1207072011", "district_id": "120707", "name": "RUMAH GERAT"}, {"id": "1207072012", "district_id": "120707", "name": "SIDODADI"}, {"id": "1207072013", "district_id": "120707", "name": "SIDOMULYO"}, {"id": "1207072014", "district_id": "120707", "name": "SELAMAT"}, {"id": "1207072015", "district_id": "120707", "name": "SARILABA JAHE"}, {"id": "1207072016", "district_id": "120707", "name": "TANJUNG SENA"}, {"id": "1207072017", "district_id": "120707", "name": "NAMO TUALANG"}]
+[
+  {
+    "id": "1207072001",
+    "district_id": "120707",
+    "name": "AJI BAHO"
+  },
+  {
+    "id": "1207072002",
+    "district_id": "120707",
+    "name": "BIRU-BIRU"
+  },
+  {
+    "id": "1207072003",
+    "district_id": "120707",
+    "name": "CANDI REJO"
+  },
+  {
+    "id": "1207072004",
+    "district_id": "120707",
+    "name": "KUTOMULYO"
+  },
+  {
+    "id": "1207072005",
+    "district_id": "120707",
+    "name": "KUALA DEKAH"
+  },
+  {
+    "id": "1207072006",
+    "district_id": "120707",
+    "name": "MBARUAI"
+  },
+  {
+    "id": "1207072007",
+    "district_id": "120707",
+    "name": "MARDINDING JULU"
+  },
+  {
+    "id": "1207072008",
+    "district_id": "120707",
+    "name": "NAMO SURO BARU"
+  },
+  {
+    "id": "1207072009",
+    "district_id": "120707",
+    "name": "PERIA-RIA"
+  },
+  {
+    "id": "1207072010",
+    "district_id": "120707",
+    "name": "PENEN"
+  },
+  {
+    "id": "1207072011",
+    "district_id": "120707",
+    "name": "RUMAH GERAT"
+  },
+  {
+    "id": "1207072012",
+    "district_id": "120707",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1207072013",
+    "district_id": "120707",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "1207072014",
+    "district_id": "120707",
+    "name": "SELAMAT"
+  },
+  {
+    "id": "1207072015",
+    "district_id": "120707",
+    "name": "SARILABA JAHE"
+  },
+  {
+    "id": "1207072016",
+    "district_id": "120707",
+    "name": "TANJUNG SENA"
+  },
+  {
+    "id": "1207072017",
+    "district_id": "120707",
+    "name": "NAMO TUALANG"
+  }
+]

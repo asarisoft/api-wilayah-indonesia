@@ -1,1 +1,72 @@
-[{"id": "3527072001", "district_id": "352707", "name": "ASEMRAJA"}, {"id": "3527072002", "district_id": "352707", "name": "PLAKARAN"}, {"id": "3527072003", "district_id": "352707", "name": "ASEMNONGGAL"}, {"id": "3527072004", "district_id": "352707", "name": "MAJANGAN"}, {"id": "3527072005", "district_id": "352707", "name": "MARGANTOKO"}, {"id": "3527072006", "district_id": "352707", "name": "PENYEPEN"}, {"id": "3527072007", "district_id": "352707", "name": "TAMAN"}, {"id": "3527072008", "district_id": "352707", "name": "JRENGIK"}, {"id": "3527072009", "district_id": "352707", "name": "KALANGAN PRAO"}, {"id": "3527072010", "district_id": "352707", "name": "KOTAH"}, {"id": "3527072011", "district_id": "352707", "name": "JUNGKARANG"}, {"id": "3527072012", "district_id": "352707", "name": "MLAKAH"}, {"id": "3527072013", "district_id": "352707", "name": "BANCELOK"}, {"id": "3527072014", "district_id": "352707", "name": "BUKER"}]
+[
+  {
+    "id": "3527072001",
+    "district_id": "352707",
+    "name": "ASEMRAJA"
+  },
+  {
+    "id": "3527072002",
+    "district_id": "352707",
+    "name": "PLAKARAN"
+  },
+  {
+    "id": "3527072003",
+    "district_id": "352707",
+    "name": "ASEMNONGGAL"
+  },
+  {
+    "id": "3527072004",
+    "district_id": "352707",
+    "name": "MAJANGAN"
+  },
+  {
+    "id": "3527072005",
+    "district_id": "352707",
+    "name": "MARGANTOKO"
+  },
+  {
+    "id": "3527072006",
+    "district_id": "352707",
+    "name": "PENYEPEN"
+  },
+  {
+    "id": "3527072007",
+    "district_id": "352707",
+    "name": "TAMAN"
+  },
+  {
+    "id": "3527072008",
+    "district_id": "352707",
+    "name": "JRENGIK"
+  },
+  {
+    "id": "3527072009",
+    "district_id": "352707",
+    "name": "KALANGAN PRAO"
+  },
+  {
+    "id": "3527072010",
+    "district_id": "352707",
+    "name": "KOTAH"
+  },
+  {
+    "id": "3527072011",
+    "district_id": "352707",
+    "name": "JUNGKARANG"
+  },
+  {
+    "id": "3527072012",
+    "district_id": "352707",
+    "name": "MLAKAH"
+  },
+  {
+    "id": "3527072013",
+    "district_id": "352707",
+    "name": "BANCELOK"
+  },
+  {
+    "id": "3527072014",
+    "district_id": "352707",
+    "name": "BUKER"
+  }
+]

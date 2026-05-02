@@ -1,1 +1,27 @@
-[{"id": "7601042001", "district_id": "760104", "name": "SARUDU"}, {"id": "7601042003", "district_id": "760104", "name": "BULU MARIO"}, {"id": "7601042005", "district_id": "760104", "name": "KUMASARI"}, {"id": "7601042011", "district_id": "760104", "name": "PATIKA"}, {"id": "7601042012", "district_id": "760104", "name": "DODA"}]
+[
+  {
+    "id": "7601042001",
+    "district_id": "760104",
+    "name": "SARUDU"
+  },
+  {
+    "id": "7601042003",
+    "district_id": "760104",
+    "name": "BULU MARIO"
+  },
+  {
+    "id": "7601042005",
+    "district_id": "760104",
+    "name": "KUMASARI"
+  },
+  {
+    "id": "7601042011",
+    "district_id": "760104",
+    "name": "PATIKA"
+  },
+  {
+    "id": "7601042012",
+    "district_id": "760104",
+    "name": "DODA"
+  }
+]

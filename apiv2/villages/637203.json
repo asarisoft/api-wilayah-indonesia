@@ -1,1 +1,22 @@
-[{"id": "6372031001", "district_id": "637203", "name": "PALAM"}, {"id": "6372031002", "district_id": "637203", "name": "BANGKAL"}, {"id": "6372031003", "district_id": "637203", "name": "SUNGAI TIUNG"}, {"id": "6372031004", "district_id": "637203", "name": "CEMPAKA"}]
+[
+  {
+    "id": "6372031001",
+    "district_id": "637203",
+    "name": "PALAM"
+  },
+  {
+    "id": "6372031002",
+    "district_id": "637203",
+    "name": "BANGKAL"
+  },
+  {
+    "id": "6372031003",
+    "district_id": "637203",
+    "name": "SUNGAI TIUNG"
+  },
+  {
+    "id": "6372031004",
+    "district_id": "637203",
+    "name": "CEMPAKA"
+  }
+]

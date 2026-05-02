@@ -1,1 +1,92 @@
-[{"id": "351601", "regency_id": "3516", "name": "JATIREJO"}, {"id": "351602", "regency_id": "3516", "name": "GONDANG"}, {"id": "351603", "regency_id": "3516", "name": "PACET"}, {"id": "351604", "regency_id": "3516", "name": "TRAWAS"}, {"id": "351605", "regency_id": "3516", "name": "NGORO"}, {"id": "351606", "regency_id": "3516", "name": "PUNGGING"}, {"id": "351607", "regency_id": "3516", "name": "KUTOREJO"}, {"id": "351608", "regency_id": "3516", "name": "MOJOSARI"}, {"id": "351609", "regency_id": "3516", "name": "DLANGGU"}, {"id": "351610", "regency_id": "3516", "name": "BANGSAL"}, {"id": "351611", "regency_id": "3516", "name": "PURI"}, {"id": "351612", "regency_id": "3516", "name": "TROWULAN"}, {"id": "351613", "regency_id": "3516", "name": "SOOKO"}, {"id": "351614", "regency_id": "3516", "name": "GEDEG"}, {"id": "351615", "regency_id": "3516", "name": "KEMLAGI"}, {"id": "351616", "regency_id": "3516", "name": "JETIS"}, {"id": "351617", "regency_id": "3516", "name": "DAWARBLANDONG"}, {"id": "351618", "regency_id": "3516", "name": "MOJOANYAR"}]
+[
+  {
+    "id": "351601",
+    "regency_id": "3516",
+    "name": "JATIREJO"
+  },
+  {
+    "id": "351602",
+    "regency_id": "3516",
+    "name": "GONDANG"
+  },
+  {
+    "id": "351603",
+    "regency_id": "3516",
+    "name": "PACET"
+  },
+  {
+    "id": "351604",
+    "regency_id": "3516",
+    "name": "TRAWAS"
+  },
+  {
+    "id": "351605",
+    "regency_id": "3516",
+    "name": "NGORO"
+  },
+  {
+    "id": "351606",
+    "regency_id": "3516",
+    "name": "PUNGGING"
+  },
+  {
+    "id": "351607",
+    "regency_id": "3516",
+    "name": "KUTOREJO"
+  },
+  {
+    "id": "351608",
+    "regency_id": "3516",
+    "name": "MOJOSARI"
+  },
+  {
+    "id": "351609",
+    "regency_id": "3516",
+    "name": "DLANGGU"
+  },
+  {
+    "id": "351610",
+    "regency_id": "3516",
+    "name": "BANGSAL"
+  },
+  {
+    "id": "351611",
+    "regency_id": "3516",
+    "name": "PURI"
+  },
+  {
+    "id": "351612",
+    "regency_id": "3516",
+    "name": "TROWULAN"
+  },
+  {
+    "id": "351613",
+    "regency_id": "3516",
+    "name": "SOOKO"
+  },
+  {
+    "id": "351614",
+    "regency_id": "3516",
+    "name": "GEDEG"
+  },
+  {
+    "id": "351615",
+    "regency_id": "3516",
+    "name": "KEMLAGI"
+  },
+  {
+    "id": "351616",
+    "regency_id": "3516",
+    "name": "JETIS"
+  },
+  {
+    "id": "351617",
+    "regency_id": "3516",
+    "name": "DAWARBLANDONG"
+  },
+  {
+    "id": "351618",
+    "regency_id": "3516",
+    "name": "MOJOANYAR"
+  }
+]

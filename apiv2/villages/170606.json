@@ -1,1 +1,37 @@
-[{"id": "1706062001", "district_id": "170606", "name": "TALANG ARAH"}, {"id": "1706062002", "district_id": "170606", "name": "SERAMI BARU"}, {"id": "1706062003", "district_id": "170606", "name": "LUBUK TALANG"}, {"id": "1706062004", "district_id": "170606", "name": "GAJAH MAKMUR"}, {"id": "1706062005", "district_id": "170606", "name": "SEMAMBANG MAKMUR"}, {"id": "1706062006", "district_id": "170606", "name": "TALANG BARU"}, {"id": "1706062007", "district_id": "170606", "name": "AIR MERAH"}]
+[
+  {
+    "id": "1706062001",
+    "district_id": "170606",
+    "name": "TALANG ARAH"
+  },
+  {
+    "id": "1706062002",
+    "district_id": "170606",
+    "name": "SERAMI BARU"
+  },
+  {
+    "id": "1706062003",
+    "district_id": "170606",
+    "name": "LUBUK TALANG"
+  },
+  {
+    "id": "1706062004",
+    "district_id": "170606",
+    "name": "GAJAH MAKMUR"
+  },
+  {
+    "id": "1706062005",
+    "district_id": "170606",
+    "name": "SEMAMBANG MAKMUR"
+  },
+  {
+    "id": "1706062006",
+    "district_id": "170606",
+    "name": "TALANG BARU"
+  },
+  {
+    "id": "1706062007",
+    "district_id": "170606",
+    "name": "AIR MERAH"
+  }
+]

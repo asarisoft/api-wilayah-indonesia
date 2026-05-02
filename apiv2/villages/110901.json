@@ -1,1 +1,82 @@
-[{"id": "1109012007", "district_id": "110901", "name": "WEL WEL"}, {"id": "1109012008", "district_id": "110901", "name": "KAMPUNG AIE"}, {"id": "1109012009", "district_id": "110901", "name": "LAUREE"}, {"id": "1109012010", "district_id": "110901", "name": "LAMAYANG"}, {"id": "1109012011", "district_id": "110901", "name": "LAKUBANG"}, {"id": "1109012012", "district_id": "110901", "name": "LAMBAYA"}, {"id": "1109012013", "district_id": "110901", "name": "DIHIT"}, {"id": "1109012016", "district_id": "110901", "name": "LATITIK"}, {"id": "1109012017", "district_id": "110901", "name": "WELLANGKUM"}, {"id": "1109012018", "district_id": "110901", "name": "KUTA BARU"}, {"id": "1109012019", "district_id": "110901", "name": "SEBBE"}, {"id": "1109012020", "district_id": "110901", "name": "SUAK BARU"}, {"id": "1109012021", "district_id": "110901", "name": "LUAN SOREP"}, {"id": "1109012022", "district_id": "110901", "name": "PUTRA JAYA"}, {"id": "1109012023", "district_id": "110901", "name": "LAUKE"}, {"id": "1109012024", "district_id": "110901", "name": "SITUFA JAYA"}]
+[
+  {
+    "id": "1109012007",
+    "district_id": "110901",
+    "name": "WEL WEL"
+  },
+  {
+    "id": "1109012008",
+    "district_id": "110901",
+    "name": "KAMPUNG AIE"
+  },
+  {
+    "id": "1109012009",
+    "district_id": "110901",
+    "name": "LAUREE"
+  },
+  {
+    "id": "1109012010",
+    "district_id": "110901",
+    "name": "LAMAYANG"
+  },
+  {
+    "id": "1109012011",
+    "district_id": "110901",
+    "name": "LAKUBANG"
+  },
+  {
+    "id": "1109012012",
+    "district_id": "110901",
+    "name": "LAMBAYA"
+  },
+  {
+    "id": "1109012013",
+    "district_id": "110901",
+    "name": "DIHIT"
+  },
+  {
+    "id": "1109012016",
+    "district_id": "110901",
+    "name": "LATITIK"
+  },
+  {
+    "id": "1109012017",
+    "district_id": "110901",
+    "name": "WELLANGKUM"
+  },
+  {
+    "id": "1109012018",
+    "district_id": "110901",
+    "name": "KUTA BARU"
+  },
+  {
+    "id": "1109012019",
+    "district_id": "110901",
+    "name": "SEBBE"
+  },
+  {
+    "id": "1109012020",
+    "district_id": "110901",
+    "name": "SUAK BARU"
+  },
+  {
+    "id": "1109012021",
+    "district_id": "110901",
+    "name": "LUAN SOREP"
+  },
+  {
+    "id": "1109012022",
+    "district_id": "110901",
+    "name": "PUTRA JAYA"
+  },
+  {
+    "id": "1109012023",
+    "district_id": "110901",
+    "name": "LAUKE"
+  },
+  {
+    "id": "1109012024",
+    "district_id": "110901",
+    "name": "SITUFA JAYA"
+  }
+]

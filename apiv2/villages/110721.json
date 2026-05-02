@@ -1,1 +1,97 @@
-[{"id": "1107212001", "district_id": "110721", "name": "RABO"}, {"id": "1107212002", "district_id": "110721", "name": "PULO SIBLAH"}, {"id": "1107212003", "district_id": "110721", "name": "LHOK IGEUH"}, {"id": "1107212004", "district_id": "110721", "name": "PULO GLUMPANG"}, {"id": "1107212005", "district_id": "110721", "name": "MEUNASAH MANCANG"}, {"id": "1107212006", "district_id": "110721", "name": "PULO TAMBO"}, {"id": "1107212007", "district_id": "110721", "name": "PULO KEUNARI"}, {"id": "1107212008", "district_id": "110721", "name": "PEUNADOK"}, {"id": "1107212009", "district_id": "110721", "name": "PULO MESJID"}, {"id": "1107212010", "district_id": "110721", "name": "MEUNASAH PANAH"}, {"id": "1107212011", "district_id": "110721", "name": "TRIENG CUDO BAROH"}, {"id": "1107212012", "district_id": "110721", "name": "TRIENG CUDO TUNONG"}, {"id": "1107212013", "district_id": "110721", "name": "MAMPREE"}, {"id": "1107212014", "district_id": "110721", "name": "DAYA BAROH"}, {"id": "1107212015", "district_id": "110721", "name": "DAYA TEUNGOH"}, {"id": "1107212016", "district_id": "110721", "name": "DAYA KAMPONG BARO"}, {"id": "1107212017", "district_id": "110721", "name": "DAYA COT"}, {"id": "1107212018", "district_id": "110721", "name": "BLANG RIKUI"}, {"id": "1107212019", "district_id": "110721", "name": "PANTON BEUNOT"}]
+[
+  {
+    "id": "1107212001",
+    "district_id": "110721",
+    "name": "RABO"
+  },
+  {
+    "id": "1107212002",
+    "district_id": "110721",
+    "name": "PULO SIBLAH"
+  },
+  {
+    "id": "1107212003",
+    "district_id": "110721",
+    "name": "LHOK IGEUH"
+  },
+  {
+    "id": "1107212004",
+    "district_id": "110721",
+    "name": "PULO GLUMPANG"
+  },
+  {
+    "id": "1107212005",
+    "district_id": "110721",
+    "name": "MEUNASAH MANCANG"
+  },
+  {
+    "id": "1107212006",
+    "district_id": "110721",
+    "name": "PULO TAMBO"
+  },
+  {
+    "id": "1107212007",
+    "district_id": "110721",
+    "name": "PULO KEUNARI"
+  },
+  {
+    "id": "1107212008",
+    "district_id": "110721",
+    "name": "PEUNADOK"
+  },
+  {
+    "id": "1107212009",
+    "district_id": "110721",
+    "name": "PULO MESJID"
+  },
+  {
+    "id": "1107212010",
+    "district_id": "110721",
+    "name": "MEUNASAH PANAH"
+  },
+  {
+    "id": "1107212011",
+    "district_id": "110721",
+    "name": "TRIENG CUDO BAROH"
+  },
+  {
+    "id": "1107212012",
+    "district_id": "110721",
+    "name": "TRIENG CUDO TUNONG"
+  },
+  {
+    "id": "1107212013",
+    "district_id": "110721",
+    "name": "MAMPREE"
+  },
+  {
+    "id": "1107212014",
+    "district_id": "110721",
+    "name": "DAYA BAROH"
+  },
+  {
+    "id": "1107212015",
+    "district_id": "110721",
+    "name": "DAYA TEUNGOH"
+  },
+  {
+    "id": "1107212016",
+    "district_id": "110721",
+    "name": "DAYA KAMPONG BARO"
+  },
+  {
+    "id": "1107212017",
+    "district_id": "110721",
+    "name": "DAYA COT"
+  },
+  {
+    "id": "1107212018",
+    "district_id": "110721",
+    "name": "BLANG RIKUI"
+  },
+  {
+    "id": "1107212019",
+    "district_id": "110721",
+    "name": "PANTON BEUNOT"
+  }
+]

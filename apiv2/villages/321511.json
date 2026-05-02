@@ -1,1 +1,57 @@
-[{"id": "3215112001", "district_id": "321511", "name": "PAJATEN"}, {"id": "3215112002", "district_id": "321511", "name": "CIBUAYA"}, {"id": "3215112003", "district_id": "321511", "name": "KERTARAHAYU"}, {"id": "3215112004", "district_id": "321511", "name": "SUKASARI"}, {"id": "3215112005", "district_id": "321511", "name": "KEDUNGJERUK"}, {"id": "3215112006", "district_id": "321511", "name": "KALIDUNGJAYA"}, {"id": "3215112007", "district_id": "321511", "name": "SEDARI"}, {"id": "3215112008", "district_id": "321511", "name": "CEMARAJAYA"}, {"id": "3215112009", "district_id": "321511", "name": "JAYAMULYA"}, {"id": "3215112010", "district_id": "321511", "name": "KEDUNGJAYA"}, {"id": "3215112011", "district_id": "321511", "name": "GEBANGJAYA"}]
+[
+  {
+    "id": "3215112001",
+    "district_id": "321511",
+    "name": "PAJATEN"
+  },
+  {
+    "id": "3215112002",
+    "district_id": "321511",
+    "name": "CIBUAYA"
+  },
+  {
+    "id": "3215112003",
+    "district_id": "321511",
+    "name": "KERTARAHAYU"
+  },
+  {
+    "id": "3215112004",
+    "district_id": "321511",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3215112005",
+    "district_id": "321511",
+    "name": "KEDUNGJERUK"
+  },
+  {
+    "id": "3215112006",
+    "district_id": "321511",
+    "name": "KALIDUNGJAYA"
+  },
+  {
+    "id": "3215112007",
+    "district_id": "321511",
+    "name": "SEDARI"
+  },
+  {
+    "id": "3215112008",
+    "district_id": "321511",
+    "name": "CEMARAJAYA"
+  },
+  {
+    "id": "3215112009",
+    "district_id": "321511",
+    "name": "JAYAMULYA"
+  },
+  {
+    "id": "3215112010",
+    "district_id": "321511",
+    "name": "KEDUNGJAYA"
+  },
+  {
+    "id": "3215112011",
+    "district_id": "321511",
+    "name": "GEBANGJAYA"
+  }
+]

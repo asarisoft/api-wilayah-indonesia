@@ -1,1 +1,57 @@
-[{"id": "3374111001", "district_id": "337411", "name": "PUDAKPAYUNG"}, {"id": "3374111002", "district_id": "337411", "name": "GEDAWANG"}, {"id": "3374111003", "district_id": "337411", "name": "JABUNGAN"}, {"id": "3374111004", "district_id": "337411", "name": "PEDALANGAN"}, {"id": "3374111005", "district_id": "337411", "name": "BANYUMANIK"}, {"id": "3374111006", "district_id": "337411", "name": "SRONDOL KULON"}, {"id": "3374111007", "district_id": "337411", "name": "SRONDOL WETAN"}, {"id": "3374111008", "district_id": "337411", "name": "NGESREP"}, {"id": "3374111009", "district_id": "337411", "name": "TINJOMOYO"}, {"id": "3374111010", "district_id": "337411", "name": "PADANGSARI"}, {"id": "3374111011", "district_id": "337411", "name": "SUMURBOTO"}]
+[
+  {
+    "id": "3374111001",
+    "district_id": "337411",
+    "name": "PUDAKPAYUNG"
+  },
+  {
+    "id": "3374111002",
+    "district_id": "337411",
+    "name": "GEDAWANG"
+  },
+  {
+    "id": "3374111003",
+    "district_id": "337411",
+    "name": "JABUNGAN"
+  },
+  {
+    "id": "3374111004",
+    "district_id": "337411",
+    "name": "PEDALANGAN"
+  },
+  {
+    "id": "3374111005",
+    "district_id": "337411",
+    "name": "BANYUMANIK"
+  },
+  {
+    "id": "3374111006",
+    "district_id": "337411",
+    "name": "SRONDOL KULON"
+  },
+  {
+    "id": "3374111007",
+    "district_id": "337411",
+    "name": "SRONDOL WETAN"
+  },
+  {
+    "id": "3374111008",
+    "district_id": "337411",
+    "name": "NGESREP"
+  },
+  {
+    "id": "3374111009",
+    "district_id": "337411",
+    "name": "TINJOMOYO"
+  },
+  {
+    "id": "3374111010",
+    "district_id": "337411",
+    "name": "PADANGSARI"
+  },
+  {
+    "id": "3374111011",
+    "district_id": "337411",
+    "name": "SUMURBOTO"
+  }
+]

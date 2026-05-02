@@ -1,1 +1,22 @@
-[{"id": "337501", "regency_id": "3375", "name": "PEKALONGAN BARAT"}, {"id": "337502", "regency_id": "3375", "name": "PEKALONGAN TIMUR"}, {"id": "337503", "regency_id": "3375", "name": "PEKALONGAN UTARA"}, {"id": "337504", "regency_id": "3375", "name": "PEKALONGAN SELATAN"}]
+[
+  {
+    "id": "337501",
+    "regency_id": "3375",
+    "name": "PEKALONGAN BARAT"
+  },
+  {
+    "id": "337502",
+    "regency_id": "3375",
+    "name": "PEKALONGAN TIMUR"
+  },
+  {
+    "id": "337503",
+    "regency_id": "3375",
+    "name": "PEKALONGAN UTARA"
+  },
+  {
+    "id": "337504",
+    "regency_id": "3375",
+    "name": "PEKALONGAN SELATAN"
+  }
+]

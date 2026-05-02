@@ -1,1 +1,77 @@
-[{"id": "3327042001", "district_id": "332704", "name": "TLAGASANA"}, {"id": "3327042002", "district_id": "332704", "name": "TUNDAGAN"}, {"id": "3327042003", "district_id": "332704", "name": "BONGAS"}, {"id": "3327042004", "district_id": "332704", "name": "CIKADU"}, {"id": "3327042005", "district_id": "332704", "name": "CAWET"}, {"id": "3327042006", "district_id": "332704", "name": "MEDAYU"}, {"id": "3327042007", "district_id": "332704", "name": "PAGELARAN"}, {"id": "3327042008", "district_id": "332704", "name": "BODAS"}, {"id": "3327042009", "district_id": "332704", "name": "JOJOGAN"}, {"id": "3327042010", "district_id": "332704", "name": "MAJALANGU"}, {"id": "3327042011", "district_id": "332704", "name": "TAMBI"}, {"id": "3327042012", "district_id": "332704", "name": "WATUKUMPUL"}, {"id": "3327042013", "district_id": "332704", "name": "GAPURA"}, {"id": "3327042014", "district_id": "332704", "name": "MAJAKERTA"}, {"id": "3327042015", "district_id": "332704", "name": "WISNU"}]
+[
+  {
+    "id": "3327042001",
+    "district_id": "332704",
+    "name": "TLAGASANA"
+  },
+  {
+    "id": "3327042002",
+    "district_id": "332704",
+    "name": "TUNDAGAN"
+  },
+  {
+    "id": "3327042003",
+    "district_id": "332704",
+    "name": "BONGAS"
+  },
+  {
+    "id": "3327042004",
+    "district_id": "332704",
+    "name": "CIKADU"
+  },
+  {
+    "id": "3327042005",
+    "district_id": "332704",
+    "name": "CAWET"
+  },
+  {
+    "id": "3327042006",
+    "district_id": "332704",
+    "name": "MEDAYU"
+  },
+  {
+    "id": "3327042007",
+    "district_id": "332704",
+    "name": "PAGELARAN"
+  },
+  {
+    "id": "3327042008",
+    "district_id": "332704",
+    "name": "BODAS"
+  },
+  {
+    "id": "3327042009",
+    "district_id": "332704",
+    "name": "JOJOGAN"
+  },
+  {
+    "id": "3327042010",
+    "district_id": "332704",
+    "name": "MAJALANGU"
+  },
+  {
+    "id": "3327042011",
+    "district_id": "332704",
+    "name": "TAMBI"
+  },
+  {
+    "id": "3327042012",
+    "district_id": "332704",
+    "name": "WATUKUMPUL"
+  },
+  {
+    "id": "3327042013",
+    "district_id": "332704",
+    "name": "GAPURA"
+  },
+  {
+    "id": "3327042014",
+    "district_id": "332704",
+    "name": "MAJAKERTA"
+  },
+  {
+    "id": "3327042015",
+    "district_id": "332704",
+    "name": "WISNU"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "7314062001", "district_id": "731406", "name": "RIJANG PANUA"}, {"id": "7314062002", "district_id": "731406", "name": "KULO"}, {"id": "7314062003", "district_id": "731406", "name": "MADDENRA"}, {"id": "7314062004", "district_id": "731406", "name": "MARIO"}, {"id": "7314062005", "district_id": "731406", "name": "BINA BARU"}, {"id": "7314062006", "district_id": "731406", "name": "ABBOKONGANG"}]
+[
+  {
+    "id": "7314062001",
+    "district_id": "731406",
+    "name": "RIJANG PANUA"
+  },
+  {
+    "id": "7314062002",
+    "district_id": "731406",
+    "name": "KULO"
+  },
+  {
+    "id": "7314062003",
+    "district_id": "731406",
+    "name": "MADDENRA"
+  },
+  {
+    "id": "7314062004",
+    "district_id": "731406",
+    "name": "MARIO"
+  },
+  {
+    "id": "7314062005",
+    "district_id": "731406",
+    "name": "BINA BARU"
+  },
+  {
+    "id": "7314062006",
+    "district_id": "731406",
+    "name": "ABBOKONGANG"
+  }
+]

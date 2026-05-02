@@ -1,1 +1,47 @@
-[{"id": "1113052001", "district_id": "111305", "name": "PINING"}, {"id": "1113052002", "district_id": "111305", "name": "PERTIK"}, {"id": "1113052003", "district_id": "111305", "name": "EKAN"}, {"id": "1113052004", "district_id": "111305", "name": "URING"}, {"id": "1113052005", "district_id": "111305", "name": "GAJAH"}, {"id": "1113052006", "district_id": "111305", "name": "PINTU RIME"}, {"id": "1113052007", "district_id": "111305", "name": "PEPELAH"}, {"id": "1113052008", "district_id": "111305", "name": "PASIR PUTIH"}, {"id": "1113052009", "district_id": "111305", "name": "LESTEN"}]
+[
+  {
+    "id": "1113052001",
+    "district_id": "111305",
+    "name": "PINING"
+  },
+  {
+    "id": "1113052002",
+    "district_id": "111305",
+    "name": "PERTIK"
+  },
+  {
+    "id": "1113052003",
+    "district_id": "111305",
+    "name": "EKAN"
+  },
+  {
+    "id": "1113052004",
+    "district_id": "111305",
+    "name": "URING"
+  },
+  {
+    "id": "1113052005",
+    "district_id": "111305",
+    "name": "GAJAH"
+  },
+  {
+    "id": "1113052006",
+    "district_id": "111305",
+    "name": "PINTU RIME"
+  },
+  {
+    "id": "1113052007",
+    "district_id": "111305",
+    "name": "PEPELAH"
+  },
+  {
+    "id": "1113052008",
+    "district_id": "111305",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "1113052009",
+    "district_id": "111305",
+    "name": "LESTEN"
+  }
+]

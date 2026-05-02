@@ -1,1 +1,32 @@
-[{"id": "1901052001", "district_id": "190105", "name": "AIR RUAI"}, {"id": "1901052002", "district_id": "190105", "name": "AIR DUREN"}, {"id": "1901052003", "district_id": "190105", "name": "PENYAMUN"}, {"id": "1901052004", "district_id": "190105", "name": "SEMPAN"}, {"id": "1901052005", "district_id": "190105", "name": "PEMALI"}, {"id": "1901052006", "district_id": "190105", "name": "KARYA MAKMUR"}]
+[
+  {
+    "id": "1901052001",
+    "district_id": "190105",
+    "name": "AIR RUAI"
+  },
+  {
+    "id": "1901052002",
+    "district_id": "190105",
+    "name": "AIR DUREN"
+  },
+  {
+    "id": "1901052003",
+    "district_id": "190105",
+    "name": "PENYAMUN"
+  },
+  {
+    "id": "1901052004",
+    "district_id": "190105",
+    "name": "SEMPAN"
+  },
+  {
+    "id": "1901052005",
+    "district_id": "190105",
+    "name": "PEMALI"
+  },
+  {
+    "id": "1901052006",
+    "district_id": "190105",
+    "name": "KARYA MAKMUR"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "2171111001", "district_id": "217111", "name": "TEMBESI"}, {"id": "2171111002", "district_id": "217111", "name": "SUNGAI BINTI"}, {"id": "2171111003", "district_id": "217111", "name": "SUNGAI LEKOP"}, {"id": "2171111004", "district_id": "217111", "name": "SAGULUNG KOTA"}, {"id": "2171111005", "district_id": "217111", "name": "SUNGAI LANGKAI"}, {"id": "2171111006", "district_id": "217111", "name": "SUNGAI PELUNGGUT"}]
+[
+  {
+    "id": "2171111001",
+    "district_id": "217111",
+    "name": "TEMBESI"
+  },
+  {
+    "id": "2171111002",
+    "district_id": "217111",
+    "name": "SUNGAI BINTI"
+  },
+  {
+    "id": "2171111003",
+    "district_id": "217111",
+    "name": "SUNGAI LEKOP"
+  },
+  {
+    "id": "2171111004",
+    "district_id": "217111",
+    "name": "SAGULUNG KOTA"
+  },
+  {
+    "id": "2171111005",
+    "district_id": "217111",
+    "name": "SUNGAI LANGKAI"
+  },
+  {
+    "id": "2171111006",
+    "district_id": "217111",
+    "name": "SUNGAI PELUNGGUT"
+  }
+]

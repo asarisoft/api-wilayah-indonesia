@@ -1,1 +1,37 @@
-[{"id": "3674041001", "district_id": "367404", "name": "SAWAH BARU"}, {"id": "3674041002", "district_id": "367404", "name": "SERUA"}, {"id": "3674041003", "district_id": "367404", "name": "CIPUTAT"}, {"id": "3674041004", "district_id": "367404", "name": "SAWAH"}, {"id": "3674041005", "district_id": "367404", "name": "SERUA INDAH"}, {"id": "3674041006", "district_id": "367404", "name": "JOMBANG"}, {"id": "3674041007", "district_id": "367404", "name": "CIPAYUNG"}]
+[
+  {
+    "id": "3674041001",
+    "district_id": "367404",
+    "name": "SAWAH BARU"
+  },
+  {
+    "id": "3674041002",
+    "district_id": "367404",
+    "name": "SERUA"
+  },
+  {
+    "id": "3674041003",
+    "district_id": "367404",
+    "name": "CIPUTAT"
+  },
+  {
+    "id": "3674041004",
+    "district_id": "367404",
+    "name": "SAWAH"
+  },
+  {
+    "id": "3674041005",
+    "district_id": "367404",
+    "name": "SERUA INDAH"
+  },
+  {
+    "id": "3674041006",
+    "district_id": "367404",
+    "name": "JOMBANG"
+  },
+  {
+    "id": "3674041007",
+    "district_id": "367404",
+    "name": "CIPAYUNG"
+  }
+]

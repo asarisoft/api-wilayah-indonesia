@@ -1,1 +1,112 @@
-[{"id": "930101", "regency_id": "9301", "name": "MERAUKE"}, {"id": "930102", "regency_id": "9301", "name": "MUTING"}, {"id": "930103", "regency_id": "9301", "name": "OKABA"}, {"id": "930104", "regency_id": "9301", "name": "KIMAAM"}, {"id": "930105", "regency_id": "9301", "name": "SEMANGGA"}, {"id": "930106", "regency_id": "9301", "name": "TANAH MIRING"}, {"id": "930107", "regency_id": "9301", "name": "JAGEBOB"}, {"id": "930108", "regency_id": "9301", "name": "SOTA"}, {"id": "930109", "regency_id": "9301", "name": "ULILIN"}, {"id": "930110", "regency_id": "9301", "name": "ELIKOBAL"}, {"id": "930111", "regency_id": "9301", "name": "KURIK"}, {"id": "930112", "regency_id": "9301", "name": "NAUKENJERAI"}, {"id": "930113", "regency_id": "9301", "name": "ANIMHA"}, {"id": "930114", "regency_id": "9301", "name": "MALIND"}, {"id": "930115", "regency_id": "9301", "name": "TUBANG"}, {"id": "930116", "regency_id": "9301", "name": "NGGUTI"}, {"id": "930117", "regency_id": "9301", "name": "KAPTEL"}, {"id": "930118", "regency_id": "9301", "name": "TABONJI"}, {"id": "930119", "regency_id": "9301", "name": "WAAN"}, {"id": "930120", "regency_id": "9301", "name": "ILWAYAB"}, {"id": "930121", "regency_id": "9301", "name": "PADUA"}, {"id": "930122", "regency_id": "9301", "name": "KONTUAR"}]
+[
+  {
+    "id": "930101",
+    "regency_id": "9301",
+    "name": "MERAUKE"
+  },
+  {
+    "id": "930102",
+    "regency_id": "9301",
+    "name": "MUTING"
+  },
+  {
+    "id": "930103",
+    "regency_id": "9301",
+    "name": "OKABA"
+  },
+  {
+    "id": "930104",
+    "regency_id": "9301",
+    "name": "KIMAAM"
+  },
+  {
+    "id": "930105",
+    "regency_id": "9301",
+    "name": "SEMANGGA"
+  },
+  {
+    "id": "930106",
+    "regency_id": "9301",
+    "name": "TANAH MIRING"
+  },
+  {
+    "id": "930107",
+    "regency_id": "9301",
+    "name": "JAGEBOB"
+  },
+  {
+    "id": "930108",
+    "regency_id": "9301",
+    "name": "SOTA"
+  },
+  {
+    "id": "930109",
+    "regency_id": "9301",
+    "name": "ULILIN"
+  },
+  {
+    "id": "930110",
+    "regency_id": "9301",
+    "name": "ELIKOBAL"
+  },
+  {
+    "id": "930111",
+    "regency_id": "9301",
+    "name": "KURIK"
+  },
+  {
+    "id": "930112",
+    "regency_id": "9301",
+    "name": "NAUKENJERAI"
+  },
+  {
+    "id": "930113",
+    "regency_id": "9301",
+    "name": "ANIMHA"
+  },
+  {
+    "id": "930114",
+    "regency_id": "9301",
+    "name": "MALIND"
+  },
+  {
+    "id": "930115",
+    "regency_id": "9301",
+    "name": "TUBANG"
+  },
+  {
+    "id": "930116",
+    "regency_id": "9301",
+    "name": "NGGUTI"
+  },
+  {
+    "id": "930117",
+    "regency_id": "9301",
+    "name": "KAPTEL"
+  },
+  {
+    "id": "930118",
+    "regency_id": "9301",
+    "name": "TABONJI"
+  },
+  {
+    "id": "930119",
+    "regency_id": "9301",
+    "name": "WAAN"
+  },
+  {
+    "id": "930120",
+    "regency_id": "9301",
+    "name": "ILWAYAB"
+  },
+  {
+    "id": "930121",
+    "regency_id": "9301",
+    "name": "PADUA"
+  },
+  {
+    "id": "930122",
+    "regency_id": "9301",
+    "name": "KONTUAR"
+  }
+]

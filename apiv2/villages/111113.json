@@ -1,1 +1,117 @@
-[{"id": "1111132001", "district_id": "111113", "name": "BANDAR BIREUEN"}, {"id": "1111132002", "district_id": "111113", "name": "BIREUEN MEUNASAH REULET"}, {"id": "1111132003", "district_id": "111113", "name": "BIREUEN MEUNASAH BLANG"}, {"id": "1111132004", "district_id": "111113", "name": "BIREUEN MEUNASAH CAPA"}, {"id": "1111132005", "district_id": "111113", "name": "BIREUEN MEUNASAH DAYAH"}, {"id": "1111132006", "district_id": "111113", "name": "BIREUEN MEUNASAH TGK DIGADONG"}, {"id": "1111132007", "district_id": "111113", "name": "GEUDONG-GEUDONG"}, {"id": "1111132008", "district_id": "111113", "name": "PULO ARA GEUDONG TEUNGOH"}, {"id": "1111132009", "district_id": "111113", "name": "GEUDONG ALUE"}, {"id": "1111132010", "district_id": "111113", "name": "PULO KITON"}, {"id": "1111132011", "district_id": "111113", "name": "LHOK AWE TEUNGOH"}, {"id": "1111132012", "district_id": "111113", "name": "GEULANGGANG TEUNGOH"}, {"id": "1111132013", "district_id": "111113", "name": "COT GAPU"}, {"id": "1111132014", "district_id": "111113", "name": "GEULANGGANG KULAM"}, {"id": "1111132015", "district_id": "111113", "name": "GEULANGGANG GAMPONG"}, {"id": "1111132016", "district_id": "111113", "name": "BLANG TINGKEUM"}, {"id": "1111132017", "district_id": "111113", "name": "BUKET TEUKUEH"}, {"id": "1111132018", "district_id": "111113", "name": "BLANG REULING"}, {"id": "1111132019", "district_id": "111113", "name": "COT JRAT"}, {"id": "1111132020", "district_id": "111113", "name": "COT PEUTEK"}, {"id": "1111132021", "district_id": "111113", "name": "UTEUN REUTOH"}, {"id": "1111132022", "district_id": "111113", "name": "GEULANGGANG BARO"}, {"id": "1111132023", "district_id": "111113", "name": "GAMPONG BARO"}]
+[
+  {
+    "id": "1111132001",
+    "district_id": "111113",
+    "name": "BANDAR BIREUEN"
+  },
+  {
+    "id": "1111132002",
+    "district_id": "111113",
+    "name": "BIREUEN MEUNASAH REULET"
+  },
+  {
+    "id": "1111132003",
+    "district_id": "111113",
+    "name": "BIREUEN MEUNASAH BLANG"
+  },
+  {
+    "id": "1111132004",
+    "district_id": "111113",
+    "name": "BIREUEN MEUNASAH CAPA"
+  },
+  {
+    "id": "1111132005",
+    "district_id": "111113",
+    "name": "BIREUEN MEUNASAH DAYAH"
+  },
+  {
+    "id": "1111132006",
+    "district_id": "111113",
+    "name": "BIREUEN MEUNASAH TGK DIGADONG"
+  },
+  {
+    "id": "1111132007",
+    "district_id": "111113",
+    "name": "GEUDONG-GEUDONG"
+  },
+  {
+    "id": "1111132008",
+    "district_id": "111113",
+    "name": "PULO ARA GEUDONG TEUNGOH"
+  },
+  {
+    "id": "1111132009",
+    "district_id": "111113",
+    "name": "GEUDONG ALUE"
+  },
+  {
+    "id": "1111132010",
+    "district_id": "111113",
+    "name": "PULO KITON"
+  },
+  {
+    "id": "1111132011",
+    "district_id": "111113",
+    "name": "LHOK AWE TEUNGOH"
+  },
+  {
+    "id": "1111132012",
+    "district_id": "111113",
+    "name": "GEULANGGANG TEUNGOH"
+  },
+  {
+    "id": "1111132013",
+    "district_id": "111113",
+    "name": "COT GAPU"
+  },
+  {
+    "id": "1111132014",
+    "district_id": "111113",
+    "name": "GEULANGGANG KULAM"
+  },
+  {
+    "id": "1111132015",
+    "district_id": "111113",
+    "name": "GEULANGGANG GAMPONG"
+  },
+  {
+    "id": "1111132016",
+    "district_id": "111113",
+    "name": "BLANG TINGKEUM"
+  },
+  {
+    "id": "1111132017",
+    "district_id": "111113",
+    "name": "BUKET TEUKUEH"
+  },
+  {
+    "id": "1111132018",
+    "district_id": "111113",
+    "name": "BLANG REULING"
+  },
+  {
+    "id": "1111132019",
+    "district_id": "111113",
+    "name": "COT JRAT"
+  },
+  {
+    "id": "1111132020",
+    "district_id": "111113",
+    "name": "COT PEUTEK"
+  },
+  {
+    "id": "1111132021",
+    "district_id": "111113",
+    "name": "UTEUN REUTOH"
+  },
+  {
+    "id": "1111132022",
+    "district_id": "111113",
+    "name": "GEULANGGANG BARO"
+  },
+  {
+    "id": "1111132023",
+    "district_id": "111113",
+    "name": "GAMPONG BARO"
+  }
+]

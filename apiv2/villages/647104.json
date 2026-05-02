@@ -1,1 +1,32 @@
-[{"id": "6471041001", "district_id": "647104", "name": "GUNUNG SARI ULU"}, {"id": "6471041002", "district_id": "647104", "name": "GUNUNG SARI ILIR"}, {"id": "6471041003", "district_id": "647104", "name": "KARANG REJO"}, {"id": "6471041004", "district_id": "647104", "name": "KARANG JATI"}, {"id": "6471041005", "district_id": "647104", "name": "MEKAR SARI"}, {"id": "6471041006", "district_id": "647104", "name": "SUMBER REJO"}]
+[
+  {
+    "id": "6471041001",
+    "district_id": "647104",
+    "name": "GUNUNG SARI ULU"
+  },
+  {
+    "id": "6471041002",
+    "district_id": "647104",
+    "name": "GUNUNG SARI ILIR"
+  },
+  {
+    "id": "6471041003",
+    "district_id": "647104",
+    "name": "KARANG REJO"
+  },
+  {
+    "id": "6471041004",
+    "district_id": "647104",
+    "name": "KARANG JATI"
+  },
+  {
+    "id": "6471041005",
+    "district_id": "647104",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "6471041006",
+    "district_id": "647104",
+    "name": "SUMBER REJO"
+  }
+]

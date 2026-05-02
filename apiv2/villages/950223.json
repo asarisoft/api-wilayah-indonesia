@@ -1,1 +1,47 @@
-[{"id": "9502232001", "district_id": "950223", "name": "OKTAU"}, {"id": "9502232002", "district_id": "950223", "name": "OKTARU"}, {"id": "9502232003", "district_id": "950223", "name": "OKBEM"}, {"id": "9502232004", "district_id": "950223", "name": "OKNGAM"}, {"id": "9502232005", "district_id": "950223", "name": "BEMHIMIKU"}, {"id": "9502232006", "district_id": "950223", "name": "BILIP BAYO"}, {"id": "9502232007", "district_id": "950223", "name": "ATANG DOKI"}, {"id": "9502232008", "district_id": "950223", "name": "OKALUT KUMAL"}, {"id": "9502232009", "district_id": "950223", "name": "KAEP"}]
+[
+  {
+    "id": "9502232001",
+    "district_id": "950223",
+    "name": "OKTAU"
+  },
+  {
+    "id": "9502232002",
+    "district_id": "950223",
+    "name": "OKTARU"
+  },
+  {
+    "id": "9502232003",
+    "district_id": "950223",
+    "name": "OKBEM"
+  },
+  {
+    "id": "9502232004",
+    "district_id": "950223",
+    "name": "OKNGAM"
+  },
+  {
+    "id": "9502232005",
+    "district_id": "950223",
+    "name": "BEMHIMIKU"
+  },
+  {
+    "id": "9502232006",
+    "district_id": "950223",
+    "name": "BILIP BAYO"
+  },
+  {
+    "id": "9502232007",
+    "district_id": "950223",
+    "name": "ATANG DOKI"
+  },
+  {
+    "id": "9502232008",
+    "district_id": "950223",
+    "name": "OKALUT KUMAL"
+  },
+  {
+    "id": "9502232009",
+    "district_id": "950223",
+    "name": "KAEP"
+  }
+]

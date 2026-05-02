@@ -1,1 +1,27 @@
-[{"id": "7503182001", "district_id": "750318", "name": "PINOGU"}, {"id": "7503182002", "district_id": "750318", "name": "BANGIO"}, {"id": "7503182003", "district_id": "750318", "name": "DATARAN HIJAU"}, {"id": "7503182004", "district_id": "750318", "name": "PINOGU PERMAI"}, {"id": "7503182005", "district_id": "750318", "name": "TILONGGIBILA"}]
+[
+  {
+    "id": "7503182001",
+    "district_id": "750318",
+    "name": "PINOGU"
+  },
+  {
+    "id": "7503182002",
+    "district_id": "750318",
+    "name": "BANGIO"
+  },
+  {
+    "id": "7503182003",
+    "district_id": "750318",
+    "name": "DATARAN HIJAU"
+  },
+  {
+    "id": "7503182004",
+    "district_id": "750318",
+    "name": "PINOGU PERMAI"
+  },
+  {
+    "id": "7503182005",
+    "district_id": "750318",
+    "name": "TILONGGIBILA"
+  }
+]

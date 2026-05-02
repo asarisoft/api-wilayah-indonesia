@@ -1,1 +1,37 @@
-[{"id": "9103022001", "district_id": "910302", "name": "NOLOKLA"}, {"id": "9103022002", "district_id": "910302", "name": "PUAI"}, {"id": "9103022004", "district_id": "910302", "name": "ASEI BESAR"}, {"id": "9103022006", "district_id": "910302", "name": "NENDALI"}, {"id": "9103023003", "district_id": "910302", "name": "DESA ADAT AYAPO"}, {"id": "9103023005", "district_id": "910302", "name": "DESA ADAT KLEUWBLOU"}, {"id": "9103023007", "district_id": "910302", "name": "DESA ADAT YOKIWA"}]
+[
+  {
+    "id": "9103022001",
+    "district_id": "910302",
+    "name": "NOLOKLA"
+  },
+  {
+    "id": "9103022002",
+    "district_id": "910302",
+    "name": "PUAI"
+  },
+  {
+    "id": "9103022004",
+    "district_id": "910302",
+    "name": "ASEI BESAR"
+  },
+  {
+    "id": "9103022006",
+    "district_id": "910302",
+    "name": "NENDALI"
+  },
+  {
+    "id": "9103023003",
+    "district_id": "910302",
+    "name": "DESA ADAT AYAPO"
+  },
+  {
+    "id": "9103023005",
+    "district_id": "910302",
+    "name": "DESA ADAT KLEUWBLOU"
+  },
+  {
+    "id": "9103023007",
+    "district_id": "910302",
+    "name": "DESA ADAT YOKIWA"
+  }
+]

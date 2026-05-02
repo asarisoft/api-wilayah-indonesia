@@ -1,1 +1,72 @@
-[{"id": "347101", "regency_id": "3471", "name": "TEGALREJO"}, {"id": "347102", "regency_id": "3471", "name": "JETIS"}, {"id": "347103", "regency_id": "3471", "name": "GONDOKUSUMAN"}, {"id": "347104", "regency_id": "3471", "name": "DANUREJAN"}, {"id": "347105", "regency_id": "3471", "name": "GEDONGTENGEN"}, {"id": "347106", "regency_id": "3471", "name": "NGAMPILAN"}, {"id": "347107", "regency_id": "3471", "name": "WIROBRAJAN"}, {"id": "347108", "regency_id": "3471", "name": "MANTRIJERON"}, {"id": "347109", "regency_id": "3471", "name": "KRATON"}, {"id": "347110", "regency_id": "3471", "name": "GONDOMANAN"}, {"id": "347111", "regency_id": "3471", "name": "PAKUALAMAN"}, {"id": "347112", "regency_id": "3471", "name": "MERGANGSAN"}, {"id": "347113", "regency_id": "3471", "name": "UMBULHARJO"}, {"id": "347114", "regency_id": "3471", "name": "KOTAGEDE"}]
+[
+  {
+    "id": "347101",
+    "regency_id": "3471",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "347102",
+    "regency_id": "3471",
+    "name": "JETIS"
+  },
+  {
+    "id": "347103",
+    "regency_id": "3471",
+    "name": "GONDOKUSUMAN"
+  },
+  {
+    "id": "347104",
+    "regency_id": "3471",
+    "name": "DANUREJAN"
+  },
+  {
+    "id": "347105",
+    "regency_id": "3471",
+    "name": "GEDONGTENGEN"
+  },
+  {
+    "id": "347106",
+    "regency_id": "3471",
+    "name": "NGAMPILAN"
+  },
+  {
+    "id": "347107",
+    "regency_id": "3471",
+    "name": "WIROBRAJAN"
+  },
+  {
+    "id": "347108",
+    "regency_id": "3471",
+    "name": "MANTRIJERON"
+  },
+  {
+    "id": "347109",
+    "regency_id": "3471",
+    "name": "KRATON"
+  },
+  {
+    "id": "347110",
+    "regency_id": "3471",
+    "name": "GONDOMANAN"
+  },
+  {
+    "id": "347111",
+    "regency_id": "3471",
+    "name": "PAKUALAMAN"
+  },
+  {
+    "id": "347112",
+    "regency_id": "3471",
+    "name": "MERGANGSAN"
+  },
+  {
+    "id": "347113",
+    "regency_id": "3471",
+    "name": "UMBULHARJO"
+  },
+  {
+    "id": "347114",
+    "regency_id": "3471",
+    "name": "KOTAGEDE"
+  }
+]

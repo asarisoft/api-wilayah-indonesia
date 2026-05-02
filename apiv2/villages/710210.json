@@ -1,1 +1,82 @@
-[{"id": "7102102001", "district_id": "710210", "name": "KOYAWAS"}, {"id": "7102102002", "district_id": "710210", "name": "WALEWANGKO"}, {"id": "7102102003", "district_id": "710210", "name": "NOONGAN"}, {"id": "7102102004", "district_id": "710210", "name": "RARINGIS"}, {"id": "7102102005", "district_id": "710210", "name": "AMPRENG"}, {"id": "7102102006", "district_id": "710210", "name": "TUMARATAS"}, {"id": "7102102009", "district_id": "710210", "name": "PASLATEN"}, {"id": "7102102010", "district_id": "710210", "name": "LOWIAN"}, {"id": "7102102011", "district_id": "710210", "name": "TOUNELET"}, {"id": "7102102014", "district_id": "710210", "name": "KOPIWANGKER"}, {"id": "7102102015", "district_id": "710210", "name": "NOONGAN DUA"}, {"id": "7102102016", "district_id": "710210", "name": "NOONGAN TIGA"}, {"id": "7102102017", "district_id": "710210", "name": "TUMARATAS DUA"}, {"id": "7102102018", "district_id": "710210", "name": "RARANON"}, {"id": "7102102019", "district_id": "710210", "name": "RARINGIS UTARA"}, {"id": "7102102020", "district_id": "710210", "name": "RARINGIS SELATAN"}]
+[
+  {
+    "id": "7102102001",
+    "district_id": "710210",
+    "name": "KOYAWAS"
+  },
+  {
+    "id": "7102102002",
+    "district_id": "710210",
+    "name": "WALEWANGKO"
+  },
+  {
+    "id": "7102102003",
+    "district_id": "710210",
+    "name": "NOONGAN"
+  },
+  {
+    "id": "7102102004",
+    "district_id": "710210",
+    "name": "RARINGIS"
+  },
+  {
+    "id": "7102102005",
+    "district_id": "710210",
+    "name": "AMPRENG"
+  },
+  {
+    "id": "7102102006",
+    "district_id": "710210",
+    "name": "TUMARATAS"
+  },
+  {
+    "id": "7102102009",
+    "district_id": "710210",
+    "name": "PASLATEN"
+  },
+  {
+    "id": "7102102010",
+    "district_id": "710210",
+    "name": "LOWIAN"
+  },
+  {
+    "id": "7102102011",
+    "district_id": "710210",
+    "name": "TOUNELET"
+  },
+  {
+    "id": "7102102014",
+    "district_id": "710210",
+    "name": "KOPIWANGKER"
+  },
+  {
+    "id": "7102102015",
+    "district_id": "710210",
+    "name": "NOONGAN DUA"
+  },
+  {
+    "id": "7102102016",
+    "district_id": "710210",
+    "name": "NOONGAN TIGA"
+  },
+  {
+    "id": "7102102017",
+    "district_id": "710210",
+    "name": "TUMARATAS DUA"
+  },
+  {
+    "id": "7102102018",
+    "district_id": "710210",
+    "name": "RARANON"
+  },
+  {
+    "id": "7102102019",
+    "district_id": "710210",
+    "name": "RARINGIS UTARA"
+  },
+  {
+    "id": "7102102020",
+    "district_id": "710210",
+    "name": "RARINGIS SELATAN"
+  }
+]

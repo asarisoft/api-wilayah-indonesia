@@ -1,1 +1,57 @@
-[{"id": "1224052001", "district_id": "122405", "name": "BERUA"}, {"id": "1224052002", "district_id": "122405", "name": "ESIWA"}, {"id": "1224052003", "district_id": "122405", "name": "DAHANA HILIGODU"}, {"id": "1224052004", "district_id": "122405", "name": "HILIBANUA"}, {"id": "1224052005", "district_id": "122405", "name": "SISARAHILI"}, {"id": "1224052006", "district_id": "122405", "name": "SISOBAHILI"}, {"id": "1224052007", "district_id": "122405", "name": "LASARA"}, {"id": "1224052008", "district_id": "122405", "name": "NAMOHALU"}, {"id": "1224052009", "district_id": "122405", "name": "TUHENAKHE I"}, {"id": "1224052010", "district_id": "122405", "name": "ORAHILI"}, {"id": "1224052011", "district_id": "122405", "name": "BANUA SIBOHOU"}]
+[
+  {
+    "id": "1224052001",
+    "district_id": "122405",
+    "name": "BERUA"
+  },
+  {
+    "id": "1224052002",
+    "district_id": "122405",
+    "name": "ESIWA"
+  },
+  {
+    "id": "1224052003",
+    "district_id": "122405",
+    "name": "DAHANA HILIGODU"
+  },
+  {
+    "id": "1224052004",
+    "district_id": "122405",
+    "name": "HILIBANUA"
+  },
+  {
+    "id": "1224052005",
+    "district_id": "122405",
+    "name": "SISARAHILI"
+  },
+  {
+    "id": "1224052006",
+    "district_id": "122405",
+    "name": "SISOBAHILI"
+  },
+  {
+    "id": "1224052007",
+    "district_id": "122405",
+    "name": "LASARA"
+  },
+  {
+    "id": "1224052008",
+    "district_id": "122405",
+    "name": "NAMOHALU"
+  },
+  {
+    "id": "1224052009",
+    "district_id": "122405",
+    "name": "TUHENAKHE I"
+  },
+  {
+    "id": "1224052010",
+    "district_id": "122405",
+    "name": "ORAHILI"
+  },
+  {
+    "id": "1224052011",
+    "district_id": "122405",
+    "name": "BANUA SIBOHOU"
+  }
+]

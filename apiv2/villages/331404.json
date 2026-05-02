@@ -1,1 +1,52 @@
-[{"id": "3314042001", "district_id": "331404", "name": "PENGKOK"}, {"id": "3314042002", "district_id": "331404", "name": "CELEP"}, {"id": "3314042003", "district_id": "331404", "name": "KARANGPELEM"}, {"id": "3314042004", "district_id": "331404", "name": "MOJODOYONG"}, {"id": "3314042005", "district_id": "331404", "name": "JENGGRIK"}, {"id": "3314042006", "district_id": "331404", "name": "MOJOKERTO"}, {"id": "3314042007", "district_id": "331404", "name": "WONOREJO"}, {"id": "3314042008", "district_id": "331404", "name": "WONOKERSO"}, {"id": "3314042009", "district_id": "331404", "name": "KEDAWUNG"}, {"id": "3314042010", "district_id": "331404", "name": "BENDUNGAN"}]
+[
+  {
+    "id": "3314042001",
+    "district_id": "331404",
+    "name": "PENGKOK"
+  },
+  {
+    "id": "3314042002",
+    "district_id": "331404",
+    "name": "CELEP"
+  },
+  {
+    "id": "3314042003",
+    "district_id": "331404",
+    "name": "KARANGPELEM"
+  },
+  {
+    "id": "3314042004",
+    "district_id": "331404",
+    "name": "MOJODOYONG"
+  },
+  {
+    "id": "3314042005",
+    "district_id": "331404",
+    "name": "JENGGRIK"
+  },
+  {
+    "id": "3314042006",
+    "district_id": "331404",
+    "name": "MOJOKERTO"
+  },
+  {
+    "id": "3314042007",
+    "district_id": "331404",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3314042008",
+    "district_id": "331404",
+    "name": "WONOKERSO"
+  },
+  {
+    "id": "3314042009",
+    "district_id": "331404",
+    "name": "KEDAWUNG"
+  },
+  {
+    "id": "3314042010",
+    "district_id": "331404",
+    "name": "BENDUNGAN"
+  }
+]

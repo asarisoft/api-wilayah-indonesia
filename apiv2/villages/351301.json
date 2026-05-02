@@ -1,1 +1,62 @@
-[{"id": "3513012001", "district_id": "351301", "name": "NGADISARI"}, {"id": "3513012002", "district_id": "351301", "name": "WONOTORO"}, {"id": "3513012003", "district_id": "351301", "name": "JETAK"}, {"id": "3513012004", "district_id": "351301", "name": "NGADAS"}, {"id": "3513012005", "district_id": "351301", "name": "NGADIREJO"}, {"id": "3513012006", "district_id": "351301", "name": "SARIWANI"}, {"id": "3513012007", "district_id": "351301", "name": "WONOKERTO"}, {"id": "3513012008", "district_id": "351301", "name": "SAPIKEREP"}, {"id": "3513012009", "district_id": "351301", "name": "SUKAPURA"}, {"id": "3513012010", "district_id": "351301", "name": "PAKEL"}, {"id": "3513012011", "district_id": "351301", "name": "KEDASIH"}, {"id": "3513012012", "district_id": "351301", "name": "NGEPUNG"}]
+[
+  {
+    "id": "3513012001",
+    "district_id": "351301",
+    "name": "NGADISARI"
+  },
+  {
+    "id": "3513012002",
+    "district_id": "351301",
+    "name": "WONOTORO"
+  },
+  {
+    "id": "3513012003",
+    "district_id": "351301",
+    "name": "JETAK"
+  },
+  {
+    "id": "3513012004",
+    "district_id": "351301",
+    "name": "NGADAS"
+  },
+  {
+    "id": "3513012005",
+    "district_id": "351301",
+    "name": "NGADIREJO"
+  },
+  {
+    "id": "3513012006",
+    "district_id": "351301",
+    "name": "SARIWANI"
+  },
+  {
+    "id": "3513012007",
+    "district_id": "351301",
+    "name": "WONOKERTO"
+  },
+  {
+    "id": "3513012008",
+    "district_id": "351301",
+    "name": "SAPIKEREP"
+  },
+  {
+    "id": "3513012009",
+    "district_id": "351301",
+    "name": "SUKAPURA"
+  },
+  {
+    "id": "3513012010",
+    "district_id": "351301",
+    "name": "PAKEL"
+  },
+  {
+    "id": "3513012011",
+    "district_id": "351301",
+    "name": "KEDASIH"
+  },
+  {
+    "id": "3513012012",
+    "district_id": "351301",
+    "name": "NGEPUNG"
+  }
+]

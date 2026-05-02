@@ -1,1 +1,27 @@
-[{"id": "137601", "regency_id": "1376", "name": "PAYAKUMBUH BARAT"}, {"id": "137602", "regency_id": "1376", "name": "PAYAKUMBUH UTARA"}, {"id": "137603", "regency_id": "1376", "name": "PAYAKUMBUH TIMUR"}, {"id": "137604", "regency_id": "1376", "name": "LAMPOSI TIGO NAGORI"}, {"id": "137605", "regency_id": "1376", "name": "PAYAKUMBUH SELATAN"}]
+[
+  {
+    "id": "137601",
+    "regency_id": "1376",
+    "name": "PAYAKUMBUH BARAT"
+  },
+  {
+    "id": "137602",
+    "regency_id": "1376",
+    "name": "PAYAKUMBUH UTARA"
+  },
+  {
+    "id": "137603",
+    "regency_id": "1376",
+    "name": "PAYAKUMBUH TIMUR"
+  },
+  {
+    "id": "137604",
+    "regency_id": "1376",
+    "name": "LAMPOSI TIGO NAGORI"
+  },
+  {
+    "id": "137605",
+    "regency_id": "1376",
+    "name": "PAYAKUMBUH SELATAN"
+  }
+]

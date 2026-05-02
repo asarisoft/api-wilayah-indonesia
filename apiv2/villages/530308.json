@@ -1,1 +1,87 @@
-[{"id": "5303081029", "district_id": "530308", "name": "BITAUNI"}, {"id": "5303082005", "district_id": "530308", "name": "NANSEAN"}, {"id": "5303082006", "district_id": "530308", "name": "SUSULAKU"}, {"id": "5303082007", "district_id": "530308", "name": "LOERAM"}, {"id": "5303082008", "district_id": "530308", "name": "MANUNAIN B"}, {"id": "5303082010", "district_id": "530308", "name": "TAPENPAH"}, {"id": "5303082011", "district_id": "530308", "name": "SEKON"}, {"id": "5303082015", "district_id": "530308", "name": "AINIUT"}, {"id": "5303082016", "district_id": "530308", "name": "NUNMAFO"}, {"id": "5303082017", "district_id": "530308", "name": "OENBIT"}, {"id": "5303082018", "district_id": "530308", "name": "MANUNAIN A"}, {"id": "5303082022", "district_id": "530308", "name": "SUSULAKU B"}, {"id": "5303082024", "district_id": "530308", "name": "FATOIN"}, {"id": "5303082025", "district_id": "530308", "name": "KEUN"}, {"id": "5303082026", "district_id": "530308", "name": "FATU'ANA"}, {"id": "5303082027", "district_id": "530308", "name": "BOTOF"}, {"id": "5303082028", "district_id": "530308", "name": "NANSEAN TIMUR"}]
+[
+  {
+    "id": "5303081029",
+    "district_id": "530308",
+    "name": "BITAUNI"
+  },
+  {
+    "id": "5303082005",
+    "district_id": "530308",
+    "name": "NANSEAN"
+  },
+  {
+    "id": "5303082006",
+    "district_id": "530308",
+    "name": "SUSULAKU"
+  },
+  {
+    "id": "5303082007",
+    "district_id": "530308",
+    "name": "LOERAM"
+  },
+  {
+    "id": "5303082008",
+    "district_id": "530308",
+    "name": "MANUNAIN B"
+  },
+  {
+    "id": "5303082010",
+    "district_id": "530308",
+    "name": "TAPENPAH"
+  },
+  {
+    "id": "5303082011",
+    "district_id": "530308",
+    "name": "SEKON"
+  },
+  {
+    "id": "5303082015",
+    "district_id": "530308",
+    "name": "AINIUT"
+  },
+  {
+    "id": "5303082016",
+    "district_id": "530308",
+    "name": "NUNMAFO"
+  },
+  {
+    "id": "5303082017",
+    "district_id": "530308",
+    "name": "OENBIT"
+  },
+  {
+    "id": "5303082018",
+    "district_id": "530308",
+    "name": "MANUNAIN A"
+  },
+  {
+    "id": "5303082022",
+    "district_id": "530308",
+    "name": "SUSULAKU B"
+  },
+  {
+    "id": "5303082024",
+    "district_id": "530308",
+    "name": "FATOIN"
+  },
+  {
+    "id": "5303082025",
+    "district_id": "530308",
+    "name": "KEUN"
+  },
+  {
+    "id": "5303082026",
+    "district_id": "530308",
+    "name": "FATU'ANA"
+  },
+  {
+    "id": "5303082027",
+    "district_id": "530308",
+    "name": "BOTOF"
+  },
+  {
+    "id": "5303082028",
+    "district_id": "530308",
+    "name": "NANSEAN TIMUR"
+  }
+]

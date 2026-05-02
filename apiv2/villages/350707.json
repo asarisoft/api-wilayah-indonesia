@@ -1,1 +1,87 @@
-[{"id": "3507072001", "district_id": "350707", "name": "DAWUHAN"}, {"id": "3507072002", "district_id": "350707", "name": "SUMBEREJO"}, {"id": "3507072003", "district_id": "350707", "name": "PANDANSARI"}, {"id": "3507072004", "district_id": "350707", "name": "NGADIRESO"}, {"id": "3507072005", "district_id": "350707", "name": "WONOREJO"}, {"id": "3507072006", "district_id": "350707", "name": "KARANGNONGKO"}, {"id": "3507072007", "district_id": "350707", "name": "KARANGANYAR"}, {"id": "3507072008", "district_id": "350707", "name": "JAMBESARI"}, {"id": "3507072009", "district_id": "350707", "name": "NGEBRUK"}, {"id": "3507072010", "district_id": "350707", "name": "PAJARAN"}, {"id": "3507072011", "district_id": "350707", "name": "ARGOSUKO"}, {"id": "3507072012", "district_id": "350707", "name": "WONOMULYO"}, {"id": "3507072013", "district_id": "350707", "name": "BELUNG"}, {"id": "3507072014", "district_id": "350707", "name": "WRINGINANOM"}, {"id": "3507072015", "district_id": "350707", "name": "PONCOKUSUMO"}, {"id": "3507072016", "district_id": "350707", "name": "GUBUGKLAKAH"}, {"id": "3507072017", "district_id": "350707", "name": "NGADAS"}]
+[
+  {
+    "id": "3507072001",
+    "district_id": "350707",
+    "name": "DAWUHAN"
+  },
+  {
+    "id": "3507072002",
+    "district_id": "350707",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3507072003",
+    "district_id": "350707",
+    "name": "PANDANSARI"
+  },
+  {
+    "id": "3507072004",
+    "district_id": "350707",
+    "name": "NGADIRESO"
+  },
+  {
+    "id": "3507072005",
+    "district_id": "350707",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3507072006",
+    "district_id": "350707",
+    "name": "KARANGNONGKO"
+  },
+  {
+    "id": "3507072007",
+    "district_id": "350707",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3507072008",
+    "district_id": "350707",
+    "name": "JAMBESARI"
+  },
+  {
+    "id": "3507072009",
+    "district_id": "350707",
+    "name": "NGEBRUK"
+  },
+  {
+    "id": "3507072010",
+    "district_id": "350707",
+    "name": "PAJARAN"
+  },
+  {
+    "id": "3507072011",
+    "district_id": "350707",
+    "name": "ARGOSUKO"
+  },
+  {
+    "id": "3507072012",
+    "district_id": "350707",
+    "name": "WONOMULYO"
+  },
+  {
+    "id": "3507072013",
+    "district_id": "350707",
+    "name": "BELUNG"
+  },
+  {
+    "id": "3507072014",
+    "district_id": "350707",
+    "name": "WRINGINANOM"
+  },
+  {
+    "id": "3507072015",
+    "district_id": "350707",
+    "name": "PONCOKUSUMO"
+  },
+  {
+    "id": "3507072016",
+    "district_id": "350707",
+    "name": "GUBUGKLAKAH"
+  },
+  {
+    "id": "3507072017",
+    "district_id": "350707",
+    "name": "NGADAS"
+  }
+]

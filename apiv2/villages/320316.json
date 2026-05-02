@@ -1,1 +1,47 @@
-[{"id": "3203162001", "district_id": "320316", "name": "PASAWAHAN"}, {"id": "3203162002", "district_id": "320316", "name": "SINDANGRESMI"}, {"id": "3203162003", "district_id": "320316", "name": "SINDANGHAYU"}, {"id": "3203162004", "district_id": "320316", "name": "SIMPANG"}, {"id": "3203162005", "district_id": "320316", "name": "SUKAGALIH"}, {"id": "3203162006", "district_id": "320316", "name": "BUNGBANGSARI"}, {"id": "3203162007", "district_id": "320316", "name": "CISUJEN"}, {"id": "3203162008", "district_id": "320316", "name": "HEGARMANAH"}, {"id": "3203162009", "district_id": "320316", "name": "WARINGINSARI"}]
+[
+  {
+    "id": "3203162001",
+    "district_id": "320316",
+    "name": "PASAWAHAN"
+  },
+  {
+    "id": "3203162002",
+    "district_id": "320316",
+    "name": "SINDANGRESMI"
+  },
+  {
+    "id": "3203162003",
+    "district_id": "320316",
+    "name": "SINDANGHAYU"
+  },
+  {
+    "id": "3203162004",
+    "district_id": "320316",
+    "name": "SIMPANG"
+  },
+  {
+    "id": "3203162005",
+    "district_id": "320316",
+    "name": "SUKAGALIH"
+  },
+  {
+    "id": "3203162006",
+    "district_id": "320316",
+    "name": "BUNGBANGSARI"
+  },
+  {
+    "id": "3203162007",
+    "district_id": "320316",
+    "name": "CISUJEN"
+  },
+  {
+    "id": "3203162008",
+    "district_id": "320316",
+    "name": "HEGARMANAH"
+  },
+  {
+    "id": "3203162009",
+    "district_id": "320316",
+    "name": "WARINGINSARI"
+  }
+]

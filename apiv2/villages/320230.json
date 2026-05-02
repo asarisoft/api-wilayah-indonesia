@@ -1,1 +1,47 @@
-[{"id": "3202302001", "district_id": "320230", "name": "KADUDAMPIT"}, {"id": "3202302002", "district_id": "320230", "name": "CITAMIANG"}, {"id": "3202302003", "district_id": "320230", "name": "MUARADUA"}, {"id": "3202302004", "district_id": "320230", "name": "GEDEPANGRANGO"}, {"id": "3202302005", "district_id": "320230", "name": "SUKAMANIS"}, {"id": "3202302006", "district_id": "320230", "name": "UNDRUSBINANGUN"}, {"id": "3202302007", "district_id": "320230", "name": "CIPETIR"}, {"id": "3202302008", "district_id": "320230", "name": "SUKAMAJU"}, {"id": "3202302009", "district_id": "320230", "name": "CIKAHURIPAN"}]
+[
+  {
+    "id": "3202302001",
+    "district_id": "320230",
+    "name": "KADUDAMPIT"
+  },
+  {
+    "id": "3202302002",
+    "district_id": "320230",
+    "name": "CITAMIANG"
+  },
+  {
+    "id": "3202302003",
+    "district_id": "320230",
+    "name": "MUARADUA"
+  },
+  {
+    "id": "3202302004",
+    "district_id": "320230",
+    "name": "GEDEPANGRANGO"
+  },
+  {
+    "id": "3202302005",
+    "district_id": "320230",
+    "name": "SUKAMANIS"
+  },
+  {
+    "id": "3202302006",
+    "district_id": "320230",
+    "name": "UNDRUSBINANGUN"
+  },
+  {
+    "id": "3202302007",
+    "district_id": "320230",
+    "name": "CIPETIR"
+  },
+  {
+    "id": "3202302008",
+    "district_id": "320230",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3202302009",
+    "district_id": "320230",
+    "name": "CIKAHURIPAN"
+  }
+]

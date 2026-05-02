@@ -1,1 +1,62 @@
-[{"id": "3209272001", "district_id": "320927", "name": "TANGKIL"}, {"id": "3209272002", "district_id": "320927", "name": "WIYONG"}, {"id": "3209272003", "district_id": "320927", "name": "KEDONGDONG"}, {"id": "3209272004", "district_id": "320927", "name": "GINTUNG LOR"}, {"id": "3209272005", "district_id": "320927", "name": "BOJONG KULON"}, {"id": "3209272006", "district_id": "320927", "name": "KEJIWAN"}, {"id": "3209272007", "district_id": "320927", "name": "SUSUKAN"}, {"id": "3209272008", "district_id": "320927", "name": "LUWUNG KENCANA"}, {"id": "3209272009", "district_id": "320927", "name": "BUNDER"}, {"id": "3209272010", "district_id": "320927", "name": "JATIPURA"}, {"id": "3209272011", "district_id": "320927", "name": "UJUNGGEBANG"}, {"id": "3209272012", "district_id": "320927", "name": "JATIANOM"}]
+[
+  {
+    "id": "3209272001",
+    "district_id": "320927",
+    "name": "TANGKIL"
+  },
+  {
+    "id": "3209272002",
+    "district_id": "320927",
+    "name": "WIYONG"
+  },
+  {
+    "id": "3209272003",
+    "district_id": "320927",
+    "name": "KEDONGDONG"
+  },
+  {
+    "id": "3209272004",
+    "district_id": "320927",
+    "name": "GINTUNG LOR"
+  },
+  {
+    "id": "3209272005",
+    "district_id": "320927",
+    "name": "BOJONG KULON"
+  },
+  {
+    "id": "3209272006",
+    "district_id": "320927",
+    "name": "KEJIWAN"
+  },
+  {
+    "id": "3209272007",
+    "district_id": "320927",
+    "name": "SUSUKAN"
+  },
+  {
+    "id": "3209272008",
+    "district_id": "320927",
+    "name": "LUWUNG KENCANA"
+  },
+  {
+    "id": "3209272009",
+    "district_id": "320927",
+    "name": "BUNDER"
+  },
+  {
+    "id": "3209272010",
+    "district_id": "320927",
+    "name": "JATIPURA"
+  },
+  {
+    "id": "3209272011",
+    "district_id": "320927",
+    "name": "UJUNGGEBANG"
+  },
+  {
+    "id": "3209272012",
+    "district_id": "320927",
+    "name": "JATIANOM"
+  }
+]

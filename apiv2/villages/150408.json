@@ -1,1 +1,42 @@
-[{"id": "1504081008", "district_id": "150408", "name": "TERUSAN"}, {"id": "1504082001", "district_id": "150408", "name": "BULIAN JAYA"}, {"id": "1504082002", "district_id": "150408", "name": "TIDAR KURANJI"}, {"id": "1504082003", "district_id": "150408", "name": "KEHIDUPAN BARU"}, {"id": "1504082004", "district_id": "150408", "name": "BUKIT SARI"}, {"id": "1504082005", "district_id": "150408", "name": "KARYA MUKTI"}, {"id": "1504082006", "district_id": "150408", "name": "TERUSAN"}, {"id": "1504082007", "district_id": "150408", "name": "DANAU EMBAT"}]
+[
+  {
+    "id": "1504081008",
+    "district_id": "150408",
+    "name": "TERUSAN"
+  },
+  {
+    "id": "1504082001",
+    "district_id": "150408",
+    "name": "BULIAN JAYA"
+  },
+  {
+    "id": "1504082002",
+    "district_id": "150408",
+    "name": "TIDAR KURANJI"
+  },
+  {
+    "id": "1504082003",
+    "district_id": "150408",
+    "name": "KEHIDUPAN BARU"
+  },
+  {
+    "id": "1504082004",
+    "district_id": "150408",
+    "name": "BUKIT SARI"
+  },
+  {
+    "id": "1504082005",
+    "district_id": "150408",
+    "name": "KARYA MUKTI"
+  },
+  {
+    "id": "1504082006",
+    "district_id": "150408",
+    "name": "TERUSAN"
+  },
+  {
+    "id": "1504082007",
+    "district_id": "150408",
+    "name": "DANAU EMBAT"
+  }
+]

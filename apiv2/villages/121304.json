@@ -1,1 +1,57 @@
-[{"id": "1213041009", "district_id": "121304", "name": "TANO BATO"}, {"id": "1213042001", "district_id": "121304", "name": "AEK NGALI"}, {"id": "1213042002", "district_id": "121304", "name": "HUTARIMBARU"}, {"id": "1213042003", "district_id": "121304", "name": "HAYURAJA"}, {"id": "1213042004", "district_id": "121304", "name": "HUTA JULU"}, {"id": "1213042005", "district_id": "121304", "name": "KAYU LAUT"}, {"id": "1213042006", "district_id": "121304", "name": "LUMBAN DOLOK"}, {"id": "1213042007", "district_id": "121304", "name": "ROBURAN DOLOK"}, {"id": "1213042008", "district_id": "121304", "name": "ROBURAN LOMBANG"}, {"id": "1213042010", "district_id": "121304", "name": "HUTA RAJA"}, {"id": "1213042011", "district_id": "121304", "name": "PAGARAN GALA-GALA"}]
+[
+  {
+    "id": "1213041009",
+    "district_id": "121304",
+    "name": "TANO BATO"
+  },
+  {
+    "id": "1213042001",
+    "district_id": "121304",
+    "name": "AEK NGALI"
+  },
+  {
+    "id": "1213042002",
+    "district_id": "121304",
+    "name": "HUTARIMBARU"
+  },
+  {
+    "id": "1213042003",
+    "district_id": "121304",
+    "name": "HAYURAJA"
+  },
+  {
+    "id": "1213042004",
+    "district_id": "121304",
+    "name": "HUTA JULU"
+  },
+  {
+    "id": "1213042005",
+    "district_id": "121304",
+    "name": "KAYU LAUT"
+  },
+  {
+    "id": "1213042006",
+    "district_id": "121304",
+    "name": "LUMBAN DOLOK"
+  },
+  {
+    "id": "1213042007",
+    "district_id": "121304",
+    "name": "ROBURAN DOLOK"
+  },
+  {
+    "id": "1213042008",
+    "district_id": "121304",
+    "name": "ROBURAN LOMBANG"
+  },
+  {
+    "id": "1213042010",
+    "district_id": "121304",
+    "name": "HUTA RAJA"
+  },
+  {
+    "id": "1213042011",
+    "district_id": "121304",
+    "name": "PAGARAN GALA-GALA"
+  }
+]

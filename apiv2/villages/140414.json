@@ -1,1 +1,62 @@
-[{"id": "1404141001", "district_id": "140414", "name": "SELENSEN"}, {"id": "1404142002", "district_id": "140414", "name": "BATU AMPAR"}, {"id": "1404142003", "district_id": "140414", "name": "KERITANG"}, {"id": "1404142004", "district_id": "140414", "name": "AIR BALUI"}, {"id": "1404142005", "district_id": "140414", "name": "TUK JIMUN"}, {"id": "1404142006", "district_id": "140414", "name": "KEMUNING TUA"}, {"id": "1404142007", "district_id": "140414", "name": "KEMUNING MUDA"}, {"id": "1404142008", "district_id": "140414", "name": "LIMAU MANIS"}, {"id": "1404142009", "district_id": "140414", "name": "LUBUK BESAR"}, {"id": "1404142010", "district_id": "140414", "name": "SEKARA"}, {"id": "1404142011", "district_id": "140414", "name": "TALANG JANGKANG"}, {"id": "1404142012", "district_id": "140414", "name": "SEKAYAN"}]
+[
+  {
+    "id": "1404141001",
+    "district_id": "140414",
+    "name": "SELENSEN"
+  },
+  {
+    "id": "1404142002",
+    "district_id": "140414",
+    "name": "BATU AMPAR"
+  },
+  {
+    "id": "1404142003",
+    "district_id": "140414",
+    "name": "KERITANG"
+  },
+  {
+    "id": "1404142004",
+    "district_id": "140414",
+    "name": "AIR BALUI"
+  },
+  {
+    "id": "1404142005",
+    "district_id": "140414",
+    "name": "TUK JIMUN"
+  },
+  {
+    "id": "1404142006",
+    "district_id": "140414",
+    "name": "KEMUNING TUA"
+  },
+  {
+    "id": "1404142007",
+    "district_id": "140414",
+    "name": "KEMUNING MUDA"
+  },
+  {
+    "id": "1404142008",
+    "district_id": "140414",
+    "name": "LIMAU MANIS"
+  },
+  {
+    "id": "1404142009",
+    "district_id": "140414",
+    "name": "LUBUK BESAR"
+  },
+  {
+    "id": "1404142010",
+    "district_id": "140414",
+    "name": "SEKARA"
+  },
+  {
+    "id": "1404142011",
+    "district_id": "140414",
+    "name": "TALANG JANGKANG"
+  },
+  {
+    "id": "1404142012",
+    "district_id": "140414",
+    "name": "SEKAYAN"
+  }
+]

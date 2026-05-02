@@ -1,1 +1,67 @@
-[{"id": "8208012001", "district_id": "820801", "name": "BOBONG"}, {"id": "8208012002", "district_id": "820801", "name": "TALO"}, {"id": "8208012003", "district_id": "820801", "name": "KAWALO"}, {"id": "8208012004", "district_id": "820801", "name": "LIMBO"}, {"id": "8208012005", "district_id": "820801", "name": "MERANTI JAYA"}, {"id": "8208012006", "district_id": "820801", "name": "KRAMAT"}, {"id": "8208012007", "district_id": "820801", "name": "HOLBOTA"}, {"id": "8208012008", "district_id": "820801", "name": "PANCORAN"}, {"id": "8208012009", "district_id": "820801", "name": "WAYO"}, {"id": "8208012010", "district_id": "820801", "name": "LOHO BUBBA"}, {"id": "8208012011", "district_id": "820801", "name": "KILONG"}, {"id": "8208012012", "district_id": "820801", "name": "RATAHAYA"}, {"id": "8208012013", "district_id": "820801", "name": "WOYO"}]
+[
+  {
+    "id": "8208012001",
+    "district_id": "820801",
+    "name": "BOBONG"
+  },
+  {
+    "id": "8208012002",
+    "district_id": "820801",
+    "name": "TALO"
+  },
+  {
+    "id": "8208012003",
+    "district_id": "820801",
+    "name": "KAWALO"
+  },
+  {
+    "id": "8208012004",
+    "district_id": "820801",
+    "name": "LIMBO"
+  },
+  {
+    "id": "8208012005",
+    "district_id": "820801",
+    "name": "MERANTI JAYA"
+  },
+  {
+    "id": "8208012006",
+    "district_id": "820801",
+    "name": "KRAMAT"
+  },
+  {
+    "id": "8208012007",
+    "district_id": "820801",
+    "name": "HOLBOTA"
+  },
+  {
+    "id": "8208012008",
+    "district_id": "820801",
+    "name": "PANCORAN"
+  },
+  {
+    "id": "8208012009",
+    "district_id": "820801",
+    "name": "WAYO"
+  },
+  {
+    "id": "8208012010",
+    "district_id": "820801",
+    "name": "LOHO BUBBA"
+  },
+  {
+    "id": "8208012011",
+    "district_id": "820801",
+    "name": "KILONG"
+  },
+  {
+    "id": "8208012012",
+    "district_id": "820801",
+    "name": "RATAHAYA"
+  },
+  {
+    "id": "8208012013",
+    "district_id": "820801",
+    "name": "WOYO"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "1373042001", "district_id": "137304", "name": "TALAWI HILIE"}, {"id": "1373042002", "district_id": "137304", "name": "TALAWI MUDIAK"}, {"id": "1373042003", "district_id": "137304", "name": "BUKIT GADANG"}, {"id": "1373042004", "district_id": "137304", "name": "BATU TANJUNG"}, {"id": "1373042005", "district_id": "137304", "name": "KUMBAYAU"}, {"id": "1373042006", "district_id": "137304", "name": "TUMPUK TANGAH"}, {"id": "1373042007", "district_id": "137304", "name": "DATAR MANSIANG"}, {"id": "1373042008", "district_id": "137304", "name": "SIJANTANG KOTO"}, {"id": "1373042009", "district_id": "137304", "name": "SALAK"}, {"id": "1373042010", "district_id": "137304", "name": "SIKALANG"}, {"id": "1373042011", "district_id": "137304", "name": "RANTIH"}]
+[
+  {
+    "id": "1373042001",
+    "district_id": "137304",
+    "name": "TALAWI HILIE"
+  },
+  {
+    "id": "1373042002",
+    "district_id": "137304",
+    "name": "TALAWI MUDIAK"
+  },
+  {
+    "id": "1373042003",
+    "district_id": "137304",
+    "name": "BUKIT GADANG"
+  },
+  {
+    "id": "1373042004",
+    "district_id": "137304",
+    "name": "BATU TANJUNG"
+  },
+  {
+    "id": "1373042005",
+    "district_id": "137304",
+    "name": "KUMBAYAU"
+  },
+  {
+    "id": "1373042006",
+    "district_id": "137304",
+    "name": "TUMPUK TANGAH"
+  },
+  {
+    "id": "1373042007",
+    "district_id": "137304",
+    "name": "DATAR MANSIANG"
+  },
+  {
+    "id": "1373042008",
+    "district_id": "137304",
+    "name": "SIJANTANG KOTO"
+  },
+  {
+    "id": "1373042009",
+    "district_id": "137304",
+    "name": "SALAK"
+  },
+  {
+    "id": "1373042010",
+    "district_id": "137304",
+    "name": "SIKALANG"
+  },
+  {
+    "id": "1373042011",
+    "district_id": "137304",
+    "name": "RANTIH"
+  }
+]

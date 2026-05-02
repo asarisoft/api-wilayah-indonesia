@@ -1,1 +1,52 @@
-[{"id": "3207372001", "district_id": "320737", "name": "PASAWAHAN"}, {"id": "3207372002", "district_id": "320737", "name": "BANJARANYAR"}, {"id": "3207372003", "district_id": "320737", "name": "CIGAYAM"}, {"id": "3207372004", "district_id": "320737", "name": "LANGKAPSARI"}, {"id": "3207372005", "district_id": "320737", "name": "KALIJAYA"}, {"id": "3207372006", "district_id": "320737", "name": "SINDANGRASA"}, {"id": "3207372007", "district_id": "320737", "name": "CIKASO"}, {"id": "3207372008", "district_id": "320737", "name": "CIKUPA"}, {"id": "3207372009", "district_id": "320737", "name": "KARYAMUKTI"}, {"id": "3207372010", "district_id": "320737", "name": "TANJUNGSARI"}]
+[
+  {
+    "id": "3207372001",
+    "district_id": "320737",
+    "name": "PASAWAHAN"
+  },
+  {
+    "id": "3207372002",
+    "district_id": "320737",
+    "name": "BANJARANYAR"
+  },
+  {
+    "id": "3207372003",
+    "district_id": "320737",
+    "name": "CIGAYAM"
+  },
+  {
+    "id": "3207372004",
+    "district_id": "320737",
+    "name": "LANGKAPSARI"
+  },
+  {
+    "id": "3207372005",
+    "district_id": "320737",
+    "name": "KALIJAYA"
+  },
+  {
+    "id": "3207372006",
+    "district_id": "320737",
+    "name": "SINDANGRASA"
+  },
+  {
+    "id": "3207372007",
+    "district_id": "320737",
+    "name": "CIKASO"
+  },
+  {
+    "id": "3207372008",
+    "district_id": "320737",
+    "name": "CIKUPA"
+  },
+  {
+    "id": "3207372009",
+    "district_id": "320737",
+    "name": "KARYAMUKTI"
+  },
+  {
+    "id": "3207372010",
+    "district_id": "320737",
+    "name": "TANJUNGSARI"
+  }
+]

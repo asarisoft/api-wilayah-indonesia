@@ -1,1 +1,57 @@
-[{"id": "1704152001", "district_id": "170415", "name": "NAGA RANTAI"}, {"id": "1704152002", "district_id": "170415", "name": "BUNGIN TAMBUN"}, {"id": "1704152003", "district_id": "170415", "name": "BUNGIN TAMBUN II"}, {"id": "1704152004", "district_id": "170415", "name": "BUNGIN TAMBUN III"}, {"id": "1704152005", "district_id": "170415", "name": "MANAU IX"}, {"id": "1704152006", "district_id": "170415", "name": "MANAU IX DUA"}, {"id": "1704152007", "district_id": "170415", "name": "PAGAR ALAM"}, {"id": "1704152008", "district_id": "170415", "name": "PAGAR GUNUNG"}, {"id": "1704152009", "district_id": "170415", "name": "COKO BETUNG"}, {"id": "1704152010", "district_id": "170415", "name": "MARGA MULYO"}, {"id": "1704152011", "district_id": "170415", "name": "JATI MULYO"}]
+[
+  {
+    "id": "1704152001",
+    "district_id": "170415",
+    "name": "NAGA RANTAI"
+  },
+  {
+    "id": "1704152002",
+    "district_id": "170415",
+    "name": "BUNGIN TAMBUN"
+  },
+  {
+    "id": "1704152003",
+    "district_id": "170415",
+    "name": "BUNGIN TAMBUN II"
+  },
+  {
+    "id": "1704152004",
+    "district_id": "170415",
+    "name": "BUNGIN TAMBUN III"
+  },
+  {
+    "id": "1704152005",
+    "district_id": "170415",
+    "name": "MANAU IX"
+  },
+  {
+    "id": "1704152006",
+    "district_id": "170415",
+    "name": "MANAU IX DUA"
+  },
+  {
+    "id": "1704152007",
+    "district_id": "170415",
+    "name": "PAGAR ALAM"
+  },
+  {
+    "id": "1704152008",
+    "district_id": "170415",
+    "name": "PAGAR GUNUNG"
+  },
+  {
+    "id": "1704152009",
+    "district_id": "170415",
+    "name": "COKO BETUNG"
+  },
+  {
+    "id": "1704152010",
+    "district_id": "170415",
+    "name": "MARGA MULYO"
+  },
+  {
+    "id": "1704152011",
+    "district_id": "170415",
+    "name": "JATI MULYO"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "3325132001", "district_id": "332513", "name": "TEGALSARI"}, {"id": "3325132002", "district_id": "332513", "name": "KANDEMAN"}, {"id": "3325132003", "district_id": "332513", "name": "BAKALAN"}, {"id": "3325132004", "district_id": "332513", "name": "LAWANGAJI"}, {"id": "3325132005", "district_id": "332513", "name": "DEPOK"}, {"id": "3325132006", "district_id": "332513", "name": "TRAGUNG"}, {"id": "3325132007", "district_id": "332513", "name": "CEMPERENG"}, {"id": "3325132008", "district_id": "332513", "name": "KARANGANOM"}, {"id": "3325132009", "district_id": "332513", "name": "WONOKERSO"}, {"id": "3325132010", "district_id": "332513", "name": "UJUNGNEGORO"}, {"id": "3325132011", "district_id": "332513", "name": "KARANGGENENG"}, {"id": "3325132012", "district_id": "332513", "name": "JURAGAN"}, {"id": "3325132013", "district_id": "332513", "name": "BOTOLAMBAT"}]
+[
+  {
+    "id": "3325132001",
+    "district_id": "332513",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3325132002",
+    "district_id": "332513",
+    "name": "KANDEMAN"
+  },
+  {
+    "id": "3325132003",
+    "district_id": "332513",
+    "name": "BAKALAN"
+  },
+  {
+    "id": "3325132004",
+    "district_id": "332513",
+    "name": "LAWANGAJI"
+  },
+  {
+    "id": "3325132005",
+    "district_id": "332513",
+    "name": "DEPOK"
+  },
+  {
+    "id": "3325132006",
+    "district_id": "332513",
+    "name": "TRAGUNG"
+  },
+  {
+    "id": "3325132007",
+    "district_id": "332513",
+    "name": "CEMPERENG"
+  },
+  {
+    "id": "3325132008",
+    "district_id": "332513",
+    "name": "KARANGANOM"
+  },
+  {
+    "id": "3325132009",
+    "district_id": "332513",
+    "name": "WONOKERSO"
+  },
+  {
+    "id": "3325132010",
+    "district_id": "332513",
+    "name": "UJUNGNEGORO"
+  },
+  {
+    "id": "3325132011",
+    "district_id": "332513",
+    "name": "KARANGGENENG"
+  },
+  {
+    "id": "3325132012",
+    "district_id": "332513",
+    "name": "JURAGAN"
+  },
+  {
+    "id": "3325132013",
+    "district_id": "332513",
+    "name": "BOTOLAMBAT"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1509082001", "district_id": "150908", "name": "GIRIWINANGUN"}, {"id": "1509082002", "district_id": "150908", "name": "SIDOREJO"}, {"id": "1509082003", "district_id": "150908", "name": "PULUNG REJO"}, {"id": "1509082004", "district_id": "150908", "name": "KARANG DADI"}, {"id": "1509082005", "district_id": "150908", "name": "GIRI PURNO"}, {"id": "1509082006", "district_id": "150908", "name": "SUMBER AGUNG"}, {"id": "1509082007", "district_id": "150908", "name": "SARI MULYA"}, {"id": "1509082008", "district_id": "150908", "name": "SEPAKAT BERSATU"}, {"id": "1509082009", "district_id": "150908", "name": "RANTAU KEMBANG"}, {"id": "1509082010", "district_id": "150908", "name": "GIRI MULYO"}]
+[
+  {
+    "id": "1509082001",
+    "district_id": "150908",
+    "name": "GIRIWINANGUN"
+  },
+  {
+    "id": "1509082002",
+    "district_id": "150908",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "1509082003",
+    "district_id": "150908",
+    "name": "PULUNG REJO"
+  },
+  {
+    "id": "1509082004",
+    "district_id": "150908",
+    "name": "KARANG DADI"
+  },
+  {
+    "id": "1509082005",
+    "district_id": "150908",
+    "name": "GIRI PURNO"
+  },
+  {
+    "id": "1509082006",
+    "district_id": "150908",
+    "name": "SUMBER AGUNG"
+  },
+  {
+    "id": "1509082007",
+    "district_id": "150908",
+    "name": "SARI MULYA"
+  },
+  {
+    "id": "1509082008",
+    "district_id": "150908",
+    "name": "SEPAKAT BERSATU"
+  },
+  {
+    "id": "1509082009",
+    "district_id": "150908",
+    "name": "RANTAU KEMBANG"
+  },
+  {
+    "id": "1509082010",
+    "district_id": "150908",
+    "name": "GIRI MULYO"
+  }
+]

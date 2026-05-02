@@ -1,1 +1,27 @@
-[{"id": "1471151001", "district_id": "147115", "name": "TEBING TINGGI OKURA"}, {"id": "1471151002", "district_id": "147115", "name": "SUNGAIUKAI"}, {"id": "1471151003", "district_id": "147115", "name": "SUNGAIAMBANG"}, {"id": "1471151004", "district_id": "147115", "name": "LEMBAH SARI"}, {"id": "1471151005", "district_id": "147115", "name": "LIMBUNGAN"}]
+[
+  {
+    "id": "1471151001",
+    "district_id": "147115",
+    "name": "TEBING TINGGI OKURA"
+  },
+  {
+    "id": "1471151002",
+    "district_id": "147115",
+    "name": "SUNGAIUKAI"
+  },
+  {
+    "id": "1471151003",
+    "district_id": "147115",
+    "name": "SUNGAIAMBANG"
+  },
+  {
+    "id": "1471151004",
+    "district_id": "147115",
+    "name": "LEMBAH SARI"
+  },
+  {
+    "id": "1471151005",
+    "district_id": "147115",
+    "name": "LIMBUNGAN"
+  }
+]

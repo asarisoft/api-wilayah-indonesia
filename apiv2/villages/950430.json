@@ -1,1 +1,57 @@
-[{"id": "9504302001", "district_id": "950430", "name": "DOW/BIJERE"}, {"id": "9504302002", "district_id": "950430", "name": "TAKRI"}, {"id": "9504302003", "district_id": "950430", "name": "PRAWA"}, {"id": "9504302004", "district_id": "950430", "name": "SIGOU"}, {"id": "9504302005", "district_id": "950430", "name": "DAGARI"}, {"id": "9504302006", "district_id": "950430", "name": "WARKA"}, {"id": "9504302007", "district_id": "950430", "name": "PAKARE"}, {"id": "9504302008", "district_id": "950430", "name": "TIGU"}, {"id": "9504302009", "district_id": "950430", "name": "BIRE"}, {"id": "9504302010", "district_id": "950430", "name": "ITOLI"}, {"id": "9504302011", "district_id": "950430", "name": "VOKUYO"}]
+[
+  {
+    "id": "9504302001",
+    "district_id": "950430",
+    "name": "DOW/BIJERE"
+  },
+  {
+    "id": "9504302002",
+    "district_id": "950430",
+    "name": "TAKRI"
+  },
+  {
+    "id": "9504302003",
+    "district_id": "950430",
+    "name": "PRAWA"
+  },
+  {
+    "id": "9504302004",
+    "district_id": "950430",
+    "name": "SIGOU"
+  },
+  {
+    "id": "9504302005",
+    "district_id": "950430",
+    "name": "DAGARI"
+  },
+  {
+    "id": "9504302006",
+    "district_id": "950430",
+    "name": "WARKA"
+  },
+  {
+    "id": "9504302007",
+    "district_id": "950430",
+    "name": "PAKARE"
+  },
+  {
+    "id": "9504302008",
+    "district_id": "950430",
+    "name": "TIGU"
+  },
+  {
+    "id": "9504302009",
+    "district_id": "950430",
+    "name": "BIRE"
+  },
+  {
+    "id": "9504302010",
+    "district_id": "950430",
+    "name": "ITOLI"
+  },
+  {
+    "id": "9504302011",
+    "district_id": "950430",
+    "name": "VOKUYO"
+  }
+]

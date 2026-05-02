@@ -1,1 +1,52 @@
-[{"id": "9604242001", "district_id": "960424", "name": "NEKORI"}, {"id": "9604242002", "district_id": "960424", "name": "AJAMI"}, {"id": "9604242003", "district_id": "960424", "name": "ANITI"}, {"id": "9604242004", "district_id": "960424", "name": "AKARI"}, {"id": "9604242005", "district_id": "960424", "name": "AMNAN"}, {"id": "9604242006", "district_id": "960424", "name": "ATIKI"}, {"id": "9604242007", "district_id": "960424", "name": "ARWANI"}, {"id": "9604242008", "district_id": "960424", "name": "ARITOWI"}, {"id": "9604242009", "district_id": "960424", "name": "UMPAY"}, {"id": "9604242010", "district_id": "960424", "name": "MEIWAR"}]
+[
+  {
+    "id": "9604242001",
+    "district_id": "960424",
+    "name": "NEKORI"
+  },
+  {
+    "id": "9604242002",
+    "district_id": "960424",
+    "name": "AJAMI"
+  },
+  {
+    "id": "9604242003",
+    "district_id": "960424",
+    "name": "ANITI"
+  },
+  {
+    "id": "9604242004",
+    "district_id": "960424",
+    "name": "AKARI"
+  },
+  {
+    "id": "9604242005",
+    "district_id": "960424",
+    "name": "AMNAN"
+  },
+  {
+    "id": "9604242006",
+    "district_id": "960424",
+    "name": "ATIKI"
+  },
+  {
+    "id": "9604242007",
+    "district_id": "960424",
+    "name": "ARWANI"
+  },
+  {
+    "id": "9604242008",
+    "district_id": "960424",
+    "name": "ARITOWI"
+  },
+  {
+    "id": "9604242009",
+    "district_id": "960424",
+    "name": "UMPAY"
+  },
+  {
+    "id": "9604242010",
+    "district_id": "960424",
+    "name": "MEIWAR"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "1277031001", "district_id": "127703", "name": "BATUNADUA JAE"}, {"id": "1277031002", "district_id": "127703", "name": "BATUNADUA JULU"}, {"id": "1277032003", "district_id": "127703", "name": "PURWODADI"}, {"id": "1277032004", "district_id": "127703", "name": "GUNUNG HASAHATAN"}, {"id": "1277032005", "district_id": "127703", "name": "UJUNGGURAP"}, {"id": "1277032006", "district_id": "127703", "name": "AEK TUHUL"}, {"id": "1277032007", "district_id": "127703", "name": "BARUAS"}, {"id": "1277032008", "district_id": "127703", "name": "SILOTING"}, {"id": "1277032009", "district_id": "127703", "name": "AEK BAYUR"}, {"id": "1277032010", "district_id": "127703", "name": "PUDUN JAE"}, {"id": "1277032011", "district_id": "127703", "name": "PUDUN JULU"}, {"id": "1277032012", "district_id": "127703", "name": "BATANG BAHAL"}, {"id": "1277032013", "district_id": "127703", "name": "AEK NAJAJI"}, {"id": "1277032014", "district_id": "127703", "name": "SIMIRIK"}, {"id": "1277032015", "district_id": "127703", "name": "BARGOTTOPONG"}]
+[
+  {
+    "id": "1277031001",
+    "district_id": "127703",
+    "name": "BATUNADUA JAE"
+  },
+  {
+    "id": "1277031002",
+    "district_id": "127703",
+    "name": "BATUNADUA JULU"
+  },
+  {
+    "id": "1277032003",
+    "district_id": "127703",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "1277032004",
+    "district_id": "127703",
+    "name": "GUNUNG HASAHATAN"
+  },
+  {
+    "id": "1277032005",
+    "district_id": "127703",
+    "name": "UJUNGGURAP"
+  },
+  {
+    "id": "1277032006",
+    "district_id": "127703",
+    "name": "AEK TUHUL"
+  },
+  {
+    "id": "1277032007",
+    "district_id": "127703",
+    "name": "BARUAS"
+  },
+  {
+    "id": "1277032008",
+    "district_id": "127703",
+    "name": "SILOTING"
+  },
+  {
+    "id": "1277032009",
+    "district_id": "127703",
+    "name": "AEK BAYUR"
+  },
+  {
+    "id": "1277032010",
+    "district_id": "127703",
+    "name": "PUDUN JAE"
+  },
+  {
+    "id": "1277032011",
+    "district_id": "127703",
+    "name": "PUDUN JULU"
+  },
+  {
+    "id": "1277032012",
+    "district_id": "127703",
+    "name": "BATANG BAHAL"
+  },
+  {
+    "id": "1277032013",
+    "district_id": "127703",
+    "name": "AEK NAJAJI"
+  },
+  {
+    "id": "1277032014",
+    "district_id": "127703",
+    "name": "SIMIRIK"
+  },
+  {
+    "id": "1277032015",
+    "district_id": "127703",
+    "name": "BARGOTTOPONG"
+  }
+]

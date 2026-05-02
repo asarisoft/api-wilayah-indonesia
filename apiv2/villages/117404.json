@@ -1,1 +1,77 @@
-[{"id": "1174042001", "district_id": "117404", "name": "PONDOK KEMUNING"}, {"id": "1174042002", "district_id": "117404", "name": "SEULALAH"}, {"id": "1174042003", "district_id": "117404", "name": "PONDOK PABRIK"}, {"id": "1174042004", "district_id": "117404", "name": "SIDODADI"}, {"id": "1174042005", "district_id": "117404", "name": "SIDOREJO"}, {"id": "1174042006", "district_id": "117404", "name": "BARO"}, {"id": "1174042007", "district_id": "117404", "name": "MEURANDEH"}, {"id": "1174042008", "district_id": "117404", "name": "ASAM PEUTIK"}, {"id": "1174042009", "district_id": "117404", "name": "BAROH LANGSA LAMA"}, {"id": "1174042010", "district_id": "117404", "name": "SEULALAH BARU"}, {"id": "1174042011", "district_id": "117404", "name": "SUKAJADI KEBUN IRENG"}, {"id": "1174042012", "district_id": "117404", "name": "MEURANDEH TENGAH"}, {"id": "1174042013", "district_id": "117404", "name": "MEURANDEH DAYAH"}, {"id": "1174042014", "district_id": "117404", "name": "MEURANDEH ACEH"}, {"id": "1174042015", "district_id": "117404", "name": "BATEE PUTEH"}]
+[
+  {
+    "id": "1174042001",
+    "district_id": "117404",
+    "name": "PONDOK KEMUNING"
+  },
+  {
+    "id": "1174042002",
+    "district_id": "117404",
+    "name": "SEULALAH"
+  },
+  {
+    "id": "1174042003",
+    "district_id": "117404",
+    "name": "PONDOK PABRIK"
+  },
+  {
+    "id": "1174042004",
+    "district_id": "117404",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1174042005",
+    "district_id": "117404",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "1174042006",
+    "district_id": "117404",
+    "name": "BARO"
+  },
+  {
+    "id": "1174042007",
+    "district_id": "117404",
+    "name": "MEURANDEH"
+  },
+  {
+    "id": "1174042008",
+    "district_id": "117404",
+    "name": "ASAM PEUTIK"
+  },
+  {
+    "id": "1174042009",
+    "district_id": "117404",
+    "name": "BAROH LANGSA LAMA"
+  },
+  {
+    "id": "1174042010",
+    "district_id": "117404",
+    "name": "SEULALAH BARU"
+  },
+  {
+    "id": "1174042011",
+    "district_id": "117404",
+    "name": "SUKAJADI KEBUN IRENG"
+  },
+  {
+    "id": "1174042012",
+    "district_id": "117404",
+    "name": "MEURANDEH TENGAH"
+  },
+  {
+    "id": "1174042013",
+    "district_id": "117404",
+    "name": "MEURANDEH DAYAH"
+  },
+  {
+    "id": "1174042014",
+    "district_id": "117404",
+    "name": "MEURANDEH ACEH"
+  },
+  {
+    "id": "1174042015",
+    "district_id": "117404",
+    "name": "BATEE PUTEH"
+  }
+]

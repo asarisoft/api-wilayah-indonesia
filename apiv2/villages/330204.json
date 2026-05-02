@@ -1,1 +1,47 @@
-[{"id": "3302042001", "district_id": "330204", "name": "LOSARI"}, {"id": "3302042002", "district_id": "330204", "name": "MENGANTI"}, {"id": "3302042003", "district_id": "330204", "name": "BANJARPARAKAN"}, {"id": "3302042004", "district_id": "330204", "name": "RAWALO"}, {"id": "3302042005", "district_id": "330204", "name": "TAMBAKNEGARA"}, {"id": "3302042006", "district_id": "330204", "name": "SIDAMULIH"}, {"id": "3302042007", "district_id": "330204", "name": "PESAWAHAN"}, {"id": "3302042008", "district_id": "330204", "name": "TIPAR"}, {"id": "3302042009", "district_id": "330204", "name": "SANGGREMAN"}]
+[
+  {
+    "id": "3302042001",
+    "district_id": "330204",
+    "name": "LOSARI"
+  },
+  {
+    "id": "3302042002",
+    "district_id": "330204",
+    "name": "MENGANTI"
+  },
+  {
+    "id": "3302042003",
+    "district_id": "330204",
+    "name": "BANJARPARAKAN"
+  },
+  {
+    "id": "3302042004",
+    "district_id": "330204",
+    "name": "RAWALO"
+  },
+  {
+    "id": "3302042005",
+    "district_id": "330204",
+    "name": "TAMBAKNEGARA"
+  },
+  {
+    "id": "3302042006",
+    "district_id": "330204",
+    "name": "SIDAMULIH"
+  },
+  {
+    "id": "3302042007",
+    "district_id": "330204",
+    "name": "PESAWAHAN"
+  },
+  {
+    "id": "3302042008",
+    "district_id": "330204",
+    "name": "TIPAR"
+  },
+  {
+    "id": "3302042009",
+    "district_id": "330204",
+    "name": "SANGGREMAN"
+  }
+]

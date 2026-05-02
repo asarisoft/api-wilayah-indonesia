@@ -1,1 +1,32 @@
-[{"id": "1813062001", "district_id": "181306", "name": "PASAR PULAU PISANG"}, {"id": "1813062002", "district_id": "181306", "name": "LABUHAN"}, {"id": "1813062003", "district_id": "181306", "name": "BANDAR DALAM"}, {"id": "1813062004", "district_id": "181306", "name": "PEKON LOK"}, {"id": "1813062005", "district_id": "181306", "name": "SUKADANA"}, {"id": "1813062006", "district_id": "181306", "name": "SUKAMARGA"}]
+[
+  {
+    "id": "1813062001",
+    "district_id": "181306",
+    "name": "PASAR PULAU PISANG"
+  },
+  {
+    "id": "1813062002",
+    "district_id": "181306",
+    "name": "LABUHAN"
+  },
+  {
+    "id": "1813062003",
+    "district_id": "181306",
+    "name": "BANDAR DALAM"
+  },
+  {
+    "id": "1813062004",
+    "district_id": "181306",
+    "name": "PEKON LOK"
+  },
+  {
+    "id": "1813062005",
+    "district_id": "181306",
+    "name": "SUKADANA"
+  },
+  {
+    "id": "1813062006",
+    "district_id": "181306",
+    "name": "SUKAMARGA"
+  }
+]

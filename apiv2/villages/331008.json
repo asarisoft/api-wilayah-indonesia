@@ -1,1 +1,92 @@
-[{"id": "3310082001", "district_id": "331008", "name": "PAKAHAN"}, {"id": "3310082002", "district_id": "331008", "name": "NGERING"}, {"id": "3310082003", "district_id": "331008", "name": "REJOSO"}, {"id": "3310082004", "district_id": "331008", "name": "TITANG"}, {"id": "3310082005", "district_id": "331008", "name": "SOMOPURO"}, {"id": "3310082006", "district_id": "331008", "name": "TANGKISAN POS"}, {"id": "3310082007", "district_id": "331008", "name": "GONDANGAN"}, {"id": "3310082008", "district_id": "331008", "name": "BAKUNG"}, {"id": "3310082009", "district_id": "331008", "name": "SUMYANG"}, {"id": "3310082010", "district_id": "331008", "name": "KARANGDUKUH"}, {"id": "3310082011", "district_id": "331008", "name": "PLAWIKAN"}, {"id": "3310082012", "district_id": "331008", "name": "KRAGUMAN"}, {"id": "3310082013", "district_id": "331008", "name": "GRANTING"}, {"id": "3310082014", "district_id": "331008", "name": "PRAWATAN"}, {"id": "3310082015", "district_id": "331008", "name": "WONOBOYO"}, {"id": "3310082016", "district_id": "331008", "name": "DOMPYONGAN"}, {"id": "3310082017", "district_id": "331008", "name": "JOTON"}, {"id": "3310082018", "district_id": "331008", "name": "TAMBAKAN"}]
+[
+  {
+    "id": "3310082001",
+    "district_id": "331008",
+    "name": "PAKAHAN"
+  },
+  {
+    "id": "3310082002",
+    "district_id": "331008",
+    "name": "NGERING"
+  },
+  {
+    "id": "3310082003",
+    "district_id": "331008",
+    "name": "REJOSO"
+  },
+  {
+    "id": "3310082004",
+    "district_id": "331008",
+    "name": "TITANG"
+  },
+  {
+    "id": "3310082005",
+    "district_id": "331008",
+    "name": "SOMOPURO"
+  },
+  {
+    "id": "3310082006",
+    "district_id": "331008",
+    "name": "TANGKISAN POS"
+  },
+  {
+    "id": "3310082007",
+    "district_id": "331008",
+    "name": "GONDANGAN"
+  },
+  {
+    "id": "3310082008",
+    "district_id": "331008",
+    "name": "BAKUNG"
+  },
+  {
+    "id": "3310082009",
+    "district_id": "331008",
+    "name": "SUMYANG"
+  },
+  {
+    "id": "3310082010",
+    "district_id": "331008",
+    "name": "KARANGDUKUH"
+  },
+  {
+    "id": "3310082011",
+    "district_id": "331008",
+    "name": "PLAWIKAN"
+  },
+  {
+    "id": "3310082012",
+    "district_id": "331008",
+    "name": "KRAGUMAN"
+  },
+  {
+    "id": "3310082013",
+    "district_id": "331008",
+    "name": "GRANTING"
+  },
+  {
+    "id": "3310082014",
+    "district_id": "331008",
+    "name": "PRAWATAN"
+  },
+  {
+    "id": "3310082015",
+    "district_id": "331008",
+    "name": "WONOBOYO"
+  },
+  {
+    "id": "3310082016",
+    "district_id": "331008",
+    "name": "DOMPYONGAN"
+  },
+  {
+    "id": "3310082017",
+    "district_id": "331008",
+    "name": "JOTON"
+  },
+  {
+    "id": "3310082018",
+    "district_id": "331008",
+    "name": "TAMBAKAN"
+  }
+]

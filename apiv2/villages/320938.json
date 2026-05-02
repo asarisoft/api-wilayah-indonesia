@@ -1,1 +1,52 @@
-[{"id": "3209382001", "district_id": "320938", "name": "GUMULUNG LEBAK"}, {"id": "3209382002", "district_id": "320938", "name": "LEBAK MEKAR"}, {"id": "3209382003", "district_id": "320938", "name": "GUMULUNG TONGGOH"}, {"id": "3209382004", "district_id": "320938", "name": "KAMARANG"}, {"id": "3209382005", "district_id": "320938", "name": "GREGED"}, {"id": "3209382006", "district_id": "320938", "name": "KAMARANG LEBAK"}, {"id": "3209382007", "district_id": "320938", "name": "DURAJAYA"}, {"id": "3209382008", "district_id": "320938", "name": "JATIPANCUR"}, {"id": "3209382009", "district_id": "320938", "name": "SINDANG KEMPENG"}, {"id": "3209382010", "district_id": "320938", "name": "NANGGELA"}]
+[
+  {
+    "id": "3209382001",
+    "district_id": "320938",
+    "name": "GUMULUNG LEBAK"
+  },
+  {
+    "id": "3209382002",
+    "district_id": "320938",
+    "name": "LEBAK MEKAR"
+  },
+  {
+    "id": "3209382003",
+    "district_id": "320938",
+    "name": "GUMULUNG TONGGOH"
+  },
+  {
+    "id": "3209382004",
+    "district_id": "320938",
+    "name": "KAMARANG"
+  },
+  {
+    "id": "3209382005",
+    "district_id": "320938",
+    "name": "GREGED"
+  },
+  {
+    "id": "3209382006",
+    "district_id": "320938",
+    "name": "KAMARANG LEBAK"
+  },
+  {
+    "id": "3209382007",
+    "district_id": "320938",
+    "name": "DURAJAYA"
+  },
+  {
+    "id": "3209382008",
+    "district_id": "320938",
+    "name": "JATIPANCUR"
+  },
+  {
+    "id": "3209382009",
+    "district_id": "320938",
+    "name": "SINDANG KEMPENG"
+  },
+  {
+    "id": "3209382010",
+    "district_id": "320938",
+    "name": "NANGGELA"
+  }
+]

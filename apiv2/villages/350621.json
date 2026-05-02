@@ -1,1 +1,62 @@
-[{"id": "3506212001", "district_id": "350621", "name": "KUWIK"}, {"id": "3506212002", "district_id": "350621", "name": "BALONGJERUK"}, {"id": "3506212003", "district_id": "350621", "name": "KAPAS"}, {"id": "3506212004", "district_id": "350621", "name": "KLEPEK"}, {"id": "3506212005", "district_id": "350621", "name": "KUNJANG"}, {"id": "3506212006", "district_id": "350621", "name": "KAPI"}, {"id": "3506212007", "district_id": "350621", "name": "TENGGER LOR"}, {"id": "3506212008", "district_id": "350621", "name": "WONOREJO"}, {"id": "3506212009", "district_id": "350621", "name": "DUNGUS"}, {"id": "3506212010", "district_id": "350621", "name": "JUWET"}, {"id": "3506212011", "district_id": "350621", "name": "PAKIS"}, {"id": "3506212012", "district_id": "350621", "name": "PARELOR"}]
+[
+  {
+    "id": "3506212001",
+    "district_id": "350621",
+    "name": "KUWIK"
+  },
+  {
+    "id": "3506212002",
+    "district_id": "350621",
+    "name": "BALONGJERUK"
+  },
+  {
+    "id": "3506212003",
+    "district_id": "350621",
+    "name": "KAPAS"
+  },
+  {
+    "id": "3506212004",
+    "district_id": "350621",
+    "name": "KLEPEK"
+  },
+  {
+    "id": "3506212005",
+    "district_id": "350621",
+    "name": "KUNJANG"
+  },
+  {
+    "id": "3506212006",
+    "district_id": "350621",
+    "name": "KAPI"
+  },
+  {
+    "id": "3506212007",
+    "district_id": "350621",
+    "name": "TENGGER LOR"
+  },
+  {
+    "id": "3506212008",
+    "district_id": "350621",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3506212009",
+    "district_id": "350621",
+    "name": "DUNGUS"
+  },
+  {
+    "id": "3506212010",
+    "district_id": "350621",
+    "name": "JUWET"
+  },
+  {
+    "id": "3506212011",
+    "district_id": "350621",
+    "name": "PAKIS"
+  },
+  {
+    "id": "3506212012",
+    "district_id": "350621",
+    "name": "PARELOR"
+  }
+]

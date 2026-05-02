@@ -1,1 +1,27 @@
-[{"id": "9603052001", "district_id": "960305", "name": "DOREHKAR"}, {"id": "9603052002", "district_id": "960305", "name": "YENKAWIR"}, {"id": "9603052003", "district_id": "960305", "name": "BOISERAN"}, {"id": "9603052004", "district_id": "960305", "name": "RUNI"}, {"id": "9603052005", "district_id": "960305", "name": "YENKANFAN"}]
+[
+  {
+    "id": "9603052001",
+    "district_id": "960305",
+    "name": "DOREHKAR"
+  },
+  {
+    "id": "9603052002",
+    "district_id": "960305",
+    "name": "YENKAWIR"
+  },
+  {
+    "id": "9603052003",
+    "district_id": "960305",
+    "name": "BOISERAN"
+  },
+  {
+    "id": "9603052004",
+    "district_id": "960305",
+    "name": "RUNI"
+  },
+  {
+    "id": "9603052005",
+    "district_id": "960305",
+    "name": "YENKANFAN"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3208142001", "district_id": "320814", "name": "CIREA"}, {"id": "3208142002", "district_id": "320814", "name": "SUKASARI"}, {"id": "3208142003", "district_id": "320814", "name": "SEDA"}, {"id": "3208142004", "district_id": "320814", "name": "TRIJAYA"}, {"id": "3208142005", "district_id": "320814", "name": "RANDOBAWAGIRANG"}, {"id": "3208142006", "district_id": "320814", "name": "PAKEMBANGAN"}, {"id": "3208142007", "district_id": "320814", "name": "RANDOBAWAILIR"}, {"id": "3208142008", "district_id": "320814", "name": "KERTAWINANGUN"}, {"id": "3208142009", "district_id": "320814", "name": "MANDIRANCAN"}, {"id": "3208142010", "district_id": "320814", "name": "NANGGELA"}, {"id": "3208142011", "district_id": "320814", "name": "NANGGERANGJAYA"}, {"id": "3208142012", "district_id": "320814", "name": "SALAKADOMAS"}]
+[
+  {
+    "id": "3208142001",
+    "district_id": "320814",
+    "name": "CIREA"
+  },
+  {
+    "id": "3208142002",
+    "district_id": "320814",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3208142003",
+    "district_id": "320814",
+    "name": "SEDA"
+  },
+  {
+    "id": "3208142004",
+    "district_id": "320814",
+    "name": "TRIJAYA"
+  },
+  {
+    "id": "3208142005",
+    "district_id": "320814",
+    "name": "RANDOBAWAGIRANG"
+  },
+  {
+    "id": "3208142006",
+    "district_id": "320814",
+    "name": "PAKEMBANGAN"
+  },
+  {
+    "id": "3208142007",
+    "district_id": "320814",
+    "name": "RANDOBAWAILIR"
+  },
+  {
+    "id": "3208142008",
+    "district_id": "320814",
+    "name": "KERTAWINANGUN"
+  },
+  {
+    "id": "3208142009",
+    "district_id": "320814",
+    "name": "MANDIRANCAN"
+  },
+  {
+    "id": "3208142010",
+    "district_id": "320814",
+    "name": "NANGGELA"
+  },
+  {
+    "id": "3208142011",
+    "district_id": "320814",
+    "name": "NANGGERANGJAYA"
+  },
+  {
+    "id": "3208142012",
+    "district_id": "320814",
+    "name": "SALAKADOMAS"
+  }
+]

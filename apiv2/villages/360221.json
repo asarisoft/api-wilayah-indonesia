@@ -1,1 +1,67 @@
-[{"id": "3602212001", "district_id": "360221", "name": "WANASALAM"}, {"id": "3602212002", "district_id": "360221", "name": "BEJOD"}, {"id": "3602212003", "district_id": "360221", "name": "CILANGKAP"}, {"id": "3602212004", "district_id": "360221", "name": "CIPEUCANG"}, {"id": "3602212005", "district_id": "360221", "name": "MUARA"}, {"id": "3602212006", "district_id": "360221", "name": "PARUNGPANJANG"}, {"id": "3602212007", "district_id": "360221", "name": "CIKEUSIK"}, {"id": "3602212008", "district_id": "360221", "name": "KATAPANG"}, {"id": "3602212009", "district_id": "360221", "name": "CISARAP"}, {"id": "3602212010", "district_id": "360221", "name": "SUKATANI"}, {"id": "3602212011", "district_id": "360221", "name": "CIPEDANG"}, {"id": "3602212012", "district_id": "360221", "name": "PARUNGSARI"}, {"id": "3602212013", "district_id": "360221", "name": "KARANGPAMINDANGAN"}]
+[
+  {
+    "id": "3602212001",
+    "district_id": "360221",
+    "name": "WANASALAM"
+  },
+  {
+    "id": "3602212002",
+    "district_id": "360221",
+    "name": "BEJOD"
+  },
+  {
+    "id": "3602212003",
+    "district_id": "360221",
+    "name": "CILANGKAP"
+  },
+  {
+    "id": "3602212004",
+    "district_id": "360221",
+    "name": "CIPEUCANG"
+  },
+  {
+    "id": "3602212005",
+    "district_id": "360221",
+    "name": "MUARA"
+  },
+  {
+    "id": "3602212006",
+    "district_id": "360221",
+    "name": "PARUNGPANJANG"
+  },
+  {
+    "id": "3602212007",
+    "district_id": "360221",
+    "name": "CIKEUSIK"
+  },
+  {
+    "id": "3602212008",
+    "district_id": "360221",
+    "name": "KATAPANG"
+  },
+  {
+    "id": "3602212009",
+    "district_id": "360221",
+    "name": "CISARAP"
+  },
+  {
+    "id": "3602212010",
+    "district_id": "360221",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "3602212011",
+    "district_id": "360221",
+    "name": "CIPEDANG"
+  },
+  {
+    "id": "3602212012",
+    "district_id": "360221",
+    "name": "PARUNGSARI"
+  },
+  {
+    "id": "3602212013",
+    "district_id": "360221",
+    "name": "KARANGPAMINDANGAN"
+  }
+]

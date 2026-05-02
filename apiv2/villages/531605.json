@@ -1,1 +1,27 @@
-[{"id": "5316052001", "district_id": "531605", "name": "TENDATOTO"}, {"id": "5316052002", "district_id": "531605", "name": "TOTOMALA"}, {"id": "5316052003", "district_id": "531605", "name": "TENDAKINDE"}, {"id": "5316052004", "district_id": "531605", "name": "ANAKOLI"}, {"id": "5316052005", "district_id": "531605", "name": "NATATOTO"}]
+[
+  {
+    "id": "5316052001",
+    "district_id": "531605",
+    "name": "TENDATOTO"
+  },
+  {
+    "id": "5316052002",
+    "district_id": "531605",
+    "name": "TOTOMALA"
+  },
+  {
+    "id": "5316052003",
+    "district_id": "531605",
+    "name": "TENDAKINDE"
+  },
+  {
+    "id": "5316052004",
+    "district_id": "531605",
+    "name": "ANAKOLI"
+  },
+  {
+    "id": "5316052005",
+    "district_id": "531605",
+    "name": "NATATOTO"
+  }
+]

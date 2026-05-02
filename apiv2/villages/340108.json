@@ -1,1 +1,27 @@
-[{"id": "3401082001", "district_id": "340108", "name": "HARGOMULYO"}, {"id": "3401082002", "district_id": "340108", "name": "HARGOREJO"}, {"id": "3401082003", "district_id": "340108", "name": "HARGOWILIS"}, {"id": "3401082004", "district_id": "340108", "name": "KALIREJO"}, {"id": "3401082005", "district_id": "340108", "name": "HARGOTIRTO"}]
+[
+  {
+    "id": "3401082001",
+    "district_id": "340108",
+    "name": "HARGOMULYO"
+  },
+  {
+    "id": "3401082002",
+    "district_id": "340108",
+    "name": "HARGOREJO"
+  },
+  {
+    "id": "3401082003",
+    "district_id": "340108",
+    "name": "HARGOWILIS"
+  },
+  {
+    "id": "3401082004",
+    "district_id": "340108",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "3401082005",
+    "district_id": "340108",
+    "name": "HARGOTIRTO"
+  }
+]

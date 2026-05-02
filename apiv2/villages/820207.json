@@ -1,1 +1,37 @@
-[{"id": "8202072001", "district_id": "820207", "name": "LILILEF WAIBULAN"}, {"id": "8202072002", "district_id": "820207", "name": "LILILEF SAWAI"}, {"id": "8202072003", "district_id": "820207", "name": "SAWAI ITEPO"}, {"id": "8202072004", "district_id": "820207", "name": "KOBE"}, {"id": "8202072005", "district_id": "820207", "name": "WOEKOB"}, {"id": "8202072006", "district_id": "820207", "name": "WOEJERANA"}, {"id": "8202072007", "district_id": "820207", "name": "KULO JAYA"}]
+[
+  {
+    "id": "8202072001",
+    "district_id": "820207",
+    "name": "LILILEF WAIBULAN"
+  },
+  {
+    "id": "8202072002",
+    "district_id": "820207",
+    "name": "LILILEF SAWAI"
+  },
+  {
+    "id": "8202072003",
+    "district_id": "820207",
+    "name": "SAWAI ITEPO"
+  },
+  {
+    "id": "8202072004",
+    "district_id": "820207",
+    "name": "KOBE"
+  },
+  {
+    "id": "8202072005",
+    "district_id": "820207",
+    "name": "WOEKOB"
+  },
+  {
+    "id": "8202072006",
+    "district_id": "820207",
+    "name": "WOEJERANA"
+  },
+  {
+    "id": "8202072007",
+    "district_id": "820207",
+    "name": "KULO JAYA"
+  }
+]

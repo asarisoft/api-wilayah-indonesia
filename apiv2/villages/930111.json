@@ -1,1 +1,67 @@
-[{"id": "9301112001", "district_id": "930111", "name": "HARAPAN MAKMUR"}, {"id": "9301112002", "district_id": "930111", "name": "KURIK"}, {"id": "9301112003", "district_id": "930111", "name": "TELAGA SARI"}, {"id": "9301112004", "district_id": "930111", "name": "SUMBER REJEKI"}, {"id": "9301112005", "district_id": "930111", "name": "JAYA MAKMUR"}, {"id": "9301112006", "district_id": "930111", "name": "SUMBER MULYA"}, {"id": "9301112007", "district_id": "930111", "name": "KALIKI"}, {"id": "9301112008", "district_id": "930111", "name": "IVIMAHAD"}, {"id": "9301112009", "district_id": "930111", "name": "SALOR INDAH"}, {"id": "9301112010", "district_id": "930111", "name": "CANDRA JAYA"}, {"id": "9301112011", "district_id": "930111", "name": "WONOREJO"}, {"id": "9301112012", "district_id": "930111", "name": "ANUM BOB"}, {"id": "9301112013", "district_id": "930111", "name": "WAPEKO"}]
+[
+  {
+    "id": "9301112001",
+    "district_id": "930111",
+    "name": "HARAPAN MAKMUR"
+  },
+  {
+    "id": "9301112002",
+    "district_id": "930111",
+    "name": "KURIK"
+  },
+  {
+    "id": "9301112003",
+    "district_id": "930111",
+    "name": "TELAGA SARI"
+  },
+  {
+    "id": "9301112004",
+    "district_id": "930111",
+    "name": "SUMBER REJEKI"
+  },
+  {
+    "id": "9301112005",
+    "district_id": "930111",
+    "name": "JAYA MAKMUR"
+  },
+  {
+    "id": "9301112006",
+    "district_id": "930111",
+    "name": "SUMBER MULYA"
+  },
+  {
+    "id": "9301112007",
+    "district_id": "930111",
+    "name": "KALIKI"
+  },
+  {
+    "id": "9301112008",
+    "district_id": "930111",
+    "name": "IVIMAHAD"
+  },
+  {
+    "id": "9301112009",
+    "district_id": "930111",
+    "name": "SALOR INDAH"
+  },
+  {
+    "id": "9301112010",
+    "district_id": "930111",
+    "name": "CANDRA JAYA"
+  },
+  {
+    "id": "9301112011",
+    "district_id": "930111",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "9301112012",
+    "district_id": "930111",
+    "name": "ANUM BOB"
+  },
+  {
+    "id": "9301112013",
+    "district_id": "930111",
+    "name": "WAPEKO"
+  }
+]

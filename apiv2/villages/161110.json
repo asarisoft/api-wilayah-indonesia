@@ -1,1 +1,52 @@
-[{"id": "1611102001", "district_id": "161110", "name": "MUARALINTANG LAMA"}, {"id": "1611102002", "district_id": "161110", "name": "MUARALINTANG BARU"}, {"id": "1611102003", "district_id": "161110", "name": "TEBAT PAYANG"}, {"id": "1611102004", "district_id": "161110", "name": "KARANG CAYA"}, {"id": "1611102005", "district_id": "161110", "name": "TANJUNGRAYA"}, {"id": "1611102006", "district_id": "161110", "name": "PADANG BINDU"}, {"id": "1611102007", "district_id": "161110", "name": "AIR KANDIS"}, {"id": "1611102008", "district_id": "161110", "name": "LINGGE"}, {"id": "1611102009", "district_id": "161110", "name": "RANTAU DODOR"}, {"id": "1611102010", "district_id": "161110", "name": "KUNGKILAN"}]
+[
+  {
+    "id": "1611102001",
+    "district_id": "161110",
+    "name": "MUARALINTANG LAMA"
+  },
+  {
+    "id": "1611102002",
+    "district_id": "161110",
+    "name": "MUARALINTANG BARU"
+  },
+  {
+    "id": "1611102003",
+    "district_id": "161110",
+    "name": "TEBAT PAYANG"
+  },
+  {
+    "id": "1611102004",
+    "district_id": "161110",
+    "name": "KARANG CAYA"
+  },
+  {
+    "id": "1611102005",
+    "district_id": "161110",
+    "name": "TANJUNGRAYA"
+  },
+  {
+    "id": "1611102006",
+    "district_id": "161110",
+    "name": "PADANG BINDU"
+  },
+  {
+    "id": "1611102007",
+    "district_id": "161110",
+    "name": "AIR KANDIS"
+  },
+  {
+    "id": "1611102008",
+    "district_id": "161110",
+    "name": "LINGGE"
+  },
+  {
+    "id": "1611102009",
+    "district_id": "161110",
+    "name": "RANTAU DODOR"
+  },
+  {
+    "id": "1611102010",
+    "district_id": "161110",
+    "name": "KUNGKILAN"
+  }
+]

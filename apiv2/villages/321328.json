@@ -1,1 +1,47 @@
-[{"id": "3213282001", "district_id": "321328", "name": "MEKARWANGI"}, {"id": "3213282002", "district_id": "321328", "name": "BENDUNGAN"}, {"id": "3213282003", "district_id": "321328", "name": "MUNJUL"}, {"id": "3213282004", "district_id": "321328", "name": "MARGAHAYU"}, {"id": "3213282005", "district_id": "321328", "name": "PANGSOR"}, {"id": "3213282006", "district_id": "321328", "name": "SUMURGINTUNG"}, {"id": "3213282007", "district_id": "321328", "name": "BALINGBING"}, {"id": "3213282008", "district_id": "321328", "name": "CIDAHU"}, {"id": "3213282009", "district_id": "321328", "name": "CIDADAP"}]
+[
+  {
+    "id": "3213282001",
+    "district_id": "321328",
+    "name": "MEKARWANGI"
+  },
+  {
+    "id": "3213282002",
+    "district_id": "321328",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "3213282003",
+    "district_id": "321328",
+    "name": "MUNJUL"
+  },
+  {
+    "id": "3213282004",
+    "district_id": "321328",
+    "name": "MARGAHAYU"
+  },
+  {
+    "id": "3213282005",
+    "district_id": "321328",
+    "name": "PANGSOR"
+  },
+  {
+    "id": "3213282006",
+    "district_id": "321328",
+    "name": "SUMURGINTUNG"
+  },
+  {
+    "id": "3213282007",
+    "district_id": "321328",
+    "name": "BALINGBING"
+  },
+  {
+    "id": "3213282008",
+    "district_id": "321328",
+    "name": "CIDAHU"
+  },
+  {
+    "id": "3213282009",
+    "district_id": "321328",
+    "name": "CIDADAP"
+  }
+]

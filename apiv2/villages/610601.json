@@ -1,1 +1,97 @@
-[{"id": "6106011001", "district_id": "610601", "name": "PUTUSSIBAU KOTA"}, {"id": "6106011002", "district_id": "610601", "name": "HILIR KANTOR"}, {"id": "6106012004", "district_id": "610601", "name": "PALA PULAU"}, {"id": "6106012005", "district_id": "610601", "name": "SIBAU HILIR"}, {"id": "6106012006", "district_id": "610601", "name": "PADUA MENDALAM"}, {"id": "6106012007", "district_id": "610601", "name": "DATAH DIAN"}, {"id": "6106012008", "district_id": "610601", "name": "SIBAU HULU"}, {"id": "6106012009", "district_id": "610601", "name": "NANGA NYABAU"}, {"id": "6106012010", "district_id": "610601", "name": "NANGA AWIN"}, {"id": "6106012011", "district_id": "610601", "name": "ARIUNG MENDALAM"}, {"id": "6106012012", "district_id": "610601", "name": "NANGA SAMBUS"}, {"id": "6106012013", "district_id": "610601", "name": "BANUA TANGA"}, {"id": "6106012014", "district_id": "610601", "name": "TANJUNG BERUANG"}, {"id": "6106012015", "district_id": "610601", "name": "TANJUNG KARANG"}, {"id": "6106012016", "district_id": "610601", "name": "SELUAN"}, {"id": "6106012017", "district_id": "610601", "name": "SUNGAI ULUK PALIN"}, {"id": "6106012018", "district_id": "610601", "name": "TANJUNG LASA"}, {"id": "6106012019", "district_id": "610601", "name": "LAUK"}, {"id": "6106012020", "district_id": "610601", "name": "JANGKANG"}]
+[
+  {
+    "id": "6106011001",
+    "district_id": "610601",
+    "name": "PUTUSSIBAU KOTA"
+  },
+  {
+    "id": "6106011002",
+    "district_id": "610601",
+    "name": "HILIR KANTOR"
+  },
+  {
+    "id": "6106012004",
+    "district_id": "610601",
+    "name": "PALA PULAU"
+  },
+  {
+    "id": "6106012005",
+    "district_id": "610601",
+    "name": "SIBAU HILIR"
+  },
+  {
+    "id": "6106012006",
+    "district_id": "610601",
+    "name": "PADUA MENDALAM"
+  },
+  {
+    "id": "6106012007",
+    "district_id": "610601",
+    "name": "DATAH DIAN"
+  },
+  {
+    "id": "6106012008",
+    "district_id": "610601",
+    "name": "SIBAU HULU"
+  },
+  {
+    "id": "6106012009",
+    "district_id": "610601",
+    "name": "NANGA NYABAU"
+  },
+  {
+    "id": "6106012010",
+    "district_id": "610601",
+    "name": "NANGA AWIN"
+  },
+  {
+    "id": "6106012011",
+    "district_id": "610601",
+    "name": "ARIUNG MENDALAM"
+  },
+  {
+    "id": "6106012012",
+    "district_id": "610601",
+    "name": "NANGA SAMBUS"
+  },
+  {
+    "id": "6106012013",
+    "district_id": "610601",
+    "name": "BANUA TANGA"
+  },
+  {
+    "id": "6106012014",
+    "district_id": "610601",
+    "name": "TANJUNG BERUANG"
+  },
+  {
+    "id": "6106012015",
+    "district_id": "610601",
+    "name": "TANJUNG KARANG"
+  },
+  {
+    "id": "6106012016",
+    "district_id": "610601",
+    "name": "SELUAN"
+  },
+  {
+    "id": "6106012017",
+    "district_id": "610601",
+    "name": "SUNGAI ULUK PALIN"
+  },
+  {
+    "id": "6106012018",
+    "district_id": "610601",
+    "name": "TANJUNG LASA"
+  },
+  {
+    "id": "6106012019",
+    "district_id": "610601",
+    "name": "LAUK"
+  },
+  {
+    "id": "6106012020",
+    "district_id": "610601",
+    "name": "JANGKANG"
+  }
+]

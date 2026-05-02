@@ -1,1 +1,62 @@
-[{"id": "1211072001", "district_id": "121107", "name": "TAMBAHAN"}, {"id": "1211072002", "district_id": "121107", "name": "KUTA TENGAH"}, {"id": "1211072003", "district_id": "121107", "name": "LAE NUAHA"}, {"id": "1211072004", "district_id": "121107", "name": "SUNGAI RAYA"}, {"id": "1211072005", "district_id": "121107", "name": "GUNUNG MERIAH"}, {"id": "1211072006", "district_id": "121107", "name": "SILUMBOYAH"}, {"id": "1211072007", "district_id": "121107", "name": "PANDAN"}, {"id": "1211072008", "district_id": "121107", "name": "TUALANG"}, {"id": "1211072009", "district_id": "121107", "name": "PANGARIBUAN"}, {"id": "1211072010", "district_id": "121107", "name": "SIGAMBIR-GAMBIR"}, {"id": "1211072011", "district_id": "121107", "name": "BAKAL JULU"}, {"id": "1211072012", "district_id": "121107", "name": "SIPOLTONG"}]
+[
+  {
+    "id": "1211072001",
+    "district_id": "121107",
+    "name": "TAMBAHAN"
+  },
+  {
+    "id": "1211072002",
+    "district_id": "121107",
+    "name": "KUTA TENGAH"
+  },
+  {
+    "id": "1211072003",
+    "district_id": "121107",
+    "name": "LAE NUAHA"
+  },
+  {
+    "id": "1211072004",
+    "district_id": "121107",
+    "name": "SUNGAI RAYA"
+  },
+  {
+    "id": "1211072005",
+    "district_id": "121107",
+    "name": "GUNUNG MERIAH"
+  },
+  {
+    "id": "1211072006",
+    "district_id": "121107",
+    "name": "SILUMBOYAH"
+  },
+  {
+    "id": "1211072007",
+    "district_id": "121107",
+    "name": "PANDAN"
+  },
+  {
+    "id": "1211072008",
+    "district_id": "121107",
+    "name": "TUALANG"
+  },
+  {
+    "id": "1211072009",
+    "district_id": "121107",
+    "name": "PANGARIBUAN"
+  },
+  {
+    "id": "1211072010",
+    "district_id": "121107",
+    "name": "SIGAMBIR-GAMBIR"
+  },
+  {
+    "id": "1211072011",
+    "district_id": "121107",
+    "name": "BAKAL JULU"
+  },
+  {
+    "id": "1211072012",
+    "district_id": "121107",
+    "name": "SIPOLTONG"
+  }
+]

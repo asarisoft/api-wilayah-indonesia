@@ -1,1 +1,37 @@
-[{"id": "1275021001", "district_id": "127502", "name": "BERNGAM"}, {"id": "1275021002", "district_id": "127502", "name": "SATRIA"}, {"id": "1275021003", "district_id": "127502", "name": "SETIA"}, {"id": "1275021004", "district_id": "127502", "name": "KARTINI"}, {"id": "1275021005", "district_id": "127502", "name": "TANGSI"}, {"id": "1275021006", "district_id": "127502", "name": "BINJAI"}, {"id": "1275021007", "district_id": "127502", "name": "PEKAN BINJAI"}]
+[
+  {
+    "id": "1275021001",
+    "district_id": "127502",
+    "name": "BERNGAM"
+  },
+  {
+    "id": "1275021002",
+    "district_id": "127502",
+    "name": "SATRIA"
+  },
+  {
+    "id": "1275021003",
+    "district_id": "127502",
+    "name": "SETIA"
+  },
+  {
+    "id": "1275021004",
+    "district_id": "127502",
+    "name": "KARTINI"
+  },
+  {
+    "id": "1275021005",
+    "district_id": "127502",
+    "name": "TANGSI"
+  },
+  {
+    "id": "1275021006",
+    "district_id": "127502",
+    "name": "BINJAI"
+  },
+  {
+    "id": "1275021007",
+    "district_id": "127502",
+    "name": "PEKAN BINJAI"
+  }
+]

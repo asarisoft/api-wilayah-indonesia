@@ -1,1 +1,27 @@
-[{"id": "3207332001", "district_id": "320733", "name": "SUKAMANTRI"}, {"id": "3207332002", "district_id": "320733", "name": "TENGGERRAHARJA"}, {"id": "3207332003", "district_id": "320733", "name": "CIBEUREUM"}, {"id": "3207332004", "district_id": "320733", "name": "SINDANGLAYA"}, {"id": "3207332005", "district_id": "320733", "name": "MEKARWANGI"}]
+[
+  {
+    "id": "3207332001",
+    "district_id": "320733",
+    "name": "SUKAMANTRI"
+  },
+  {
+    "id": "3207332002",
+    "district_id": "320733",
+    "name": "TENGGERRAHARJA"
+  },
+  {
+    "id": "3207332003",
+    "district_id": "320733",
+    "name": "CIBEUREUM"
+  },
+  {
+    "id": "3207332004",
+    "district_id": "320733",
+    "name": "SINDANGLAYA"
+  },
+  {
+    "id": "3207332005",
+    "district_id": "320733",
+    "name": "MEKARWANGI"
+  }
+]

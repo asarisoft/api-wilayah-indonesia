@@ -1,1 +1,207 @@
-[{"id": "3306102001", "district_id": "330610", "name": "KEDUNGMULYO"}, {"id": "3306102002", "district_id": "330610", "name": "MANGUNJAYAN"}, {"id": "3306102003", "district_id": "330610", "name": "KARANGANOM"}, {"id": "3306102004", "district_id": "330610", "name": "TANJUNGANOM"}, {"id": "3306102005", "district_id": "330610", "name": "SIDOMULYO"}, {"id": "3306102006", "district_id": "330610", "name": "SUMBERSARI"}, {"id": "3306102007", "district_id": "330610", "name": "LANGENREJO"}, {"id": "3306102008", "district_id": "330610", "name": "TAMANSARI"}, {"id": "3306102009", "district_id": "330610", "name": "WARENG"}, {"id": "3306102010", "district_id": "330610", "name": "KETUG"}, {"id": "3306102011", "district_id": "330610", "name": "ROWODADI"}, {"id": "3306102012", "district_id": "330610", "name": "KEDUNGSARI"}, {"id": "3306102013", "district_id": "330610", "name": "SRUWOHDUKUH"}, {"id": "3306102014", "district_id": "330610", "name": "WONODADI"}, {"id": "3306102015", "district_id": "330610", "name": "WONOREJOWETAN"}, {"id": "3306102016", "district_id": "330610", "name": "WONOREJOKULON"}, {"id": "3306102017", "district_id": "330610", "name": "KUNIREJOKULON"}, {"id": "3306102018", "district_id": "330610", "name": "KUNIREJOWETAN"}, {"id": "3306102019", "district_id": "330610", "name": "KEDUNGSRI"}, {"id": "3306102020", "district_id": "330610", "name": "KEDUNGAGUNG"}, {"id": "3306102021", "district_id": "330610", "name": "SRUWOHREJO"}, {"id": "3306102022", "district_id": "330610", "name": "LUGUREJO"}, {"id": "3306102023", "district_id": "330610", "name": "LUGU"}, {"id": "3306102024", "district_id": "330610", "name": "KUNIR"}, {"id": "3306102025", "district_id": "330610", "name": "LUBANGDUKUH"}, {"id": "3306102026", "district_id": "330610", "name": "TLOGOREJO"}, {"id": "3306102027", "district_id": "330610", "name": "POLOMARTO"}, {"id": "3306102028", "district_id": "330610", "name": "TEGALGONDO"}, {"id": "3306102029", "district_id": "330610", "name": "LUBANGLOR"}, {"id": "3306102030", "district_id": "330610", "name": "LUBANGINDANGAN"}, {"id": "3306102031", "district_id": "330610", "name": "LUBANGKIDUL"}, {"id": "3306102032", "district_id": "330610", "name": "LUBANGSAMPANG"}, {"id": "3306102033", "district_id": "330610", "name": "DLANGU"}, {"id": "3306102034", "district_id": "330610", "name": "ANDONG"}, {"id": "3306102035", "district_id": "330610", "name": "KALIWATUBUMI"}, {"id": "3306102036", "district_id": "330610", "name": "KALIWATUKRANGGAN"}, {"id": "3306102037", "district_id": "330610", "name": "PANGGELDLANGU"}, {"id": "3306102038", "district_id": "330610", "name": "BINANGUN"}, {"id": "3306102039", "district_id": "330610", "name": "BUTUH"}, {"id": "3306102040", "district_id": "330610", "name": "KLEPU"}, {"id": "3306102041", "district_id": "330610", "name": "WIRONATAN"}]
+[
+  {
+    "id": "3306102001",
+    "district_id": "330610",
+    "name": "KEDUNGMULYO"
+  },
+  {
+    "id": "3306102002",
+    "district_id": "330610",
+    "name": "MANGUNJAYAN"
+  },
+  {
+    "id": "3306102003",
+    "district_id": "330610",
+    "name": "KARANGANOM"
+  },
+  {
+    "id": "3306102004",
+    "district_id": "330610",
+    "name": "TANJUNGANOM"
+  },
+  {
+    "id": "3306102005",
+    "district_id": "330610",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3306102006",
+    "district_id": "330610",
+    "name": "SUMBERSARI"
+  },
+  {
+    "id": "3306102007",
+    "district_id": "330610",
+    "name": "LANGENREJO"
+  },
+  {
+    "id": "3306102008",
+    "district_id": "330610",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3306102009",
+    "district_id": "330610",
+    "name": "WARENG"
+  },
+  {
+    "id": "3306102010",
+    "district_id": "330610",
+    "name": "KETUG"
+  },
+  {
+    "id": "3306102011",
+    "district_id": "330610",
+    "name": "ROWODADI"
+  },
+  {
+    "id": "3306102012",
+    "district_id": "330610",
+    "name": "KEDUNGSARI"
+  },
+  {
+    "id": "3306102013",
+    "district_id": "330610",
+    "name": "SRUWOHDUKUH"
+  },
+  {
+    "id": "3306102014",
+    "district_id": "330610",
+    "name": "WONODADI"
+  },
+  {
+    "id": "3306102015",
+    "district_id": "330610",
+    "name": "WONOREJOWETAN"
+  },
+  {
+    "id": "3306102016",
+    "district_id": "330610",
+    "name": "WONOREJOKULON"
+  },
+  {
+    "id": "3306102017",
+    "district_id": "330610",
+    "name": "KUNIREJOKULON"
+  },
+  {
+    "id": "3306102018",
+    "district_id": "330610",
+    "name": "KUNIREJOWETAN"
+  },
+  {
+    "id": "3306102019",
+    "district_id": "330610",
+    "name": "KEDUNGSRI"
+  },
+  {
+    "id": "3306102020",
+    "district_id": "330610",
+    "name": "KEDUNGAGUNG"
+  },
+  {
+    "id": "3306102021",
+    "district_id": "330610",
+    "name": "SRUWOHREJO"
+  },
+  {
+    "id": "3306102022",
+    "district_id": "330610",
+    "name": "LUGUREJO"
+  },
+  {
+    "id": "3306102023",
+    "district_id": "330610",
+    "name": "LUGU"
+  },
+  {
+    "id": "3306102024",
+    "district_id": "330610",
+    "name": "KUNIR"
+  },
+  {
+    "id": "3306102025",
+    "district_id": "330610",
+    "name": "LUBANGDUKUH"
+  },
+  {
+    "id": "3306102026",
+    "district_id": "330610",
+    "name": "TLOGOREJO"
+  },
+  {
+    "id": "3306102027",
+    "district_id": "330610",
+    "name": "POLOMARTO"
+  },
+  {
+    "id": "3306102028",
+    "district_id": "330610",
+    "name": "TEGALGONDO"
+  },
+  {
+    "id": "3306102029",
+    "district_id": "330610",
+    "name": "LUBANGLOR"
+  },
+  {
+    "id": "3306102030",
+    "district_id": "330610",
+    "name": "LUBANGINDANGAN"
+  },
+  {
+    "id": "3306102031",
+    "district_id": "330610",
+    "name": "LUBANGKIDUL"
+  },
+  {
+    "id": "3306102032",
+    "district_id": "330610",
+    "name": "LUBANGSAMPANG"
+  },
+  {
+    "id": "3306102033",
+    "district_id": "330610",
+    "name": "DLANGU"
+  },
+  {
+    "id": "3306102034",
+    "district_id": "330610",
+    "name": "ANDONG"
+  },
+  {
+    "id": "3306102035",
+    "district_id": "330610",
+    "name": "KALIWATUBUMI"
+  },
+  {
+    "id": "3306102036",
+    "district_id": "330610",
+    "name": "KALIWATUKRANGGAN"
+  },
+  {
+    "id": "3306102037",
+    "district_id": "330610",
+    "name": "PANGGELDLANGU"
+  },
+  {
+    "id": "3306102038",
+    "district_id": "330610",
+    "name": "BINANGUN"
+  },
+  {
+    "id": "3306102039",
+    "district_id": "330610",
+    "name": "BUTUH"
+  },
+  {
+    "id": "3306102040",
+    "district_id": "330610",
+    "name": "KLEPU"
+  },
+  {
+    "id": "3306102041",
+    "district_id": "330610",
+    "name": "WIRONATAN"
+  }
+]

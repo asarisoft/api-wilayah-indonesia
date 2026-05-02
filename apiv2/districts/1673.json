@@ -1,1 +1,42 @@
-[{"id": "167301", "regency_id": "1673", "name": "LUBUK LINGGAU TIMUR I"}, {"id": "167302", "regency_id": "1673", "name": "LUBUK LINGGAU BARAT I"}, {"id": "167303", "regency_id": "1673", "name": "LUBUK LINGGAU SELATAN I"}, {"id": "167304", "regency_id": "1673", "name": "LUBUK LINGGAU UTARA I"}, {"id": "167305", "regency_id": "1673", "name": "LUBUK LINGGAU TIMUR II"}, {"id": "167306", "regency_id": "1673", "name": "LUBUK LINGGAU BARAT II"}, {"id": "167307", "regency_id": "1673", "name": "LUBUK LINGGAU SELATAN II"}, {"id": "167308", "regency_id": "1673", "name": "LUBUK LINGGAU UTARA II"}]
+[
+  {
+    "id": "167301",
+    "regency_id": "1673",
+    "name": "LUBUK LINGGAU TIMUR I"
+  },
+  {
+    "id": "167302",
+    "regency_id": "1673",
+    "name": "LUBUK LINGGAU BARAT I"
+  },
+  {
+    "id": "167303",
+    "regency_id": "1673",
+    "name": "LUBUK LINGGAU SELATAN I"
+  },
+  {
+    "id": "167304",
+    "regency_id": "1673",
+    "name": "LUBUK LINGGAU UTARA I"
+  },
+  {
+    "id": "167305",
+    "regency_id": "1673",
+    "name": "LUBUK LINGGAU TIMUR II"
+  },
+  {
+    "id": "167306",
+    "regency_id": "1673",
+    "name": "LUBUK LINGGAU BARAT II"
+  },
+  {
+    "id": "167307",
+    "regency_id": "1673",
+    "name": "LUBUK LINGGAU SELATAN II"
+  },
+  {
+    "id": "167308",
+    "regency_id": "1673",
+    "name": "LUBUK LINGGAU UTARA II"
+  }
+]

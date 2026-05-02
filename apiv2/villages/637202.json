@@ -1,1 +1,22 @@
-[{"id": "6372021003", "district_id": "637202", "name": "LANDASAN ULIN TIMUR"}, {"id": "6372021004", "district_id": "637202", "name": "GUNTUNG PAYUNG"}, {"id": "6372021005", "district_id": "637202", "name": "GUNTUNG MANGGIS"}, {"id": "6372021006", "district_id": "637202", "name": "SYAMSUDIN NOOR"}]
+[
+  {
+    "id": "6372021003",
+    "district_id": "637202",
+    "name": "LANDASAN ULIN TIMUR"
+  },
+  {
+    "id": "6372021004",
+    "district_id": "637202",
+    "name": "GUNTUNG PAYUNG"
+  },
+  {
+    "id": "6372021005",
+    "district_id": "637202",
+    "name": "GUNTUNG MANGGIS"
+  },
+  {
+    "id": "6372021006",
+    "district_id": "637202",
+    "name": "SYAMSUDIN NOOR"
+  }
+]

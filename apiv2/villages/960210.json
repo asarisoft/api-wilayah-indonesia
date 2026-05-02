@@ -1,1 +1,32 @@
-[{"id": "9602102001", "district_id": "960210", "name": "MUGIM"}, {"id": "9602102002", "district_id": "960210", "name": "NUSA"}, {"id": "9602102003", "district_id": "960210", "name": "SAGA"}, {"id": "9602102004", "district_id": "960210", "name": "PURAGI"}, {"id": "9602102005", "district_id": "960210", "name": "TAWANGGIRE"}, {"id": "9602102006", "district_id": "960210", "name": "BEDARE"}]
+[
+  {
+    "id": "9602102001",
+    "district_id": "960210",
+    "name": "MUGIM"
+  },
+  {
+    "id": "9602102002",
+    "district_id": "960210",
+    "name": "NUSA"
+  },
+  {
+    "id": "9602102003",
+    "district_id": "960210",
+    "name": "SAGA"
+  },
+  {
+    "id": "9602102004",
+    "district_id": "960210",
+    "name": "PURAGI"
+  },
+  {
+    "id": "9602102005",
+    "district_id": "960210",
+    "name": "TAWANGGIRE"
+  },
+  {
+    "id": "9602102006",
+    "district_id": "960210",
+    "name": "BEDARE"
+  }
+]

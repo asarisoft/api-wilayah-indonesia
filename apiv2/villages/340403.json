@@ -1,1 +1,22 @@
-[{"id": "3404032001", "district_id": "340403", "name": "SUMBERRAHAYU"}, {"id": "3404032002", "district_id": "340403", "name": "SUMBERSARI"}, {"id": "3404032003", "district_id": "340403", "name": "SUMBERAGUNG"}, {"id": "3404032004", "district_id": "340403", "name": "SUMBERARUM"}]
+[
+  {
+    "id": "3404032001",
+    "district_id": "340403",
+    "name": "SUMBERRAHAYU"
+  },
+  {
+    "id": "3404032002",
+    "district_id": "340403",
+    "name": "SUMBERSARI"
+  },
+  {
+    "id": "3404032003",
+    "district_id": "340403",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3404032004",
+    "district_id": "340403",
+    "name": "SUMBERARUM"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "9405162001", "district_id": "940516", "name": "NIGILOME"}, {"id": "9405162002", "district_id": "940516", "name": "WENI"}, {"id": "9405162003", "district_id": "940516", "name": "AMULEME"}, {"id": "9405162004", "district_id": "940516", "name": "JIGUNGGI"}, {"id": "9405162005", "district_id": "940516", "name": "KUMIKOMO"}, {"id": "9405162006", "district_id": "940516", "name": "RUMAGI"}, {"id": "9405162007", "district_id": "940516", "name": "GELEGI"}, {"id": "9405162008", "district_id": "940516", "name": "WOMBRU"}, {"id": "9405162009", "district_id": "940516", "name": "KONDOKWE"}, {"id": "9405162010", "district_id": "940516", "name": "TINIBOLU"}, {"id": "9405162011", "district_id": "940516", "name": "WINANGGWI"}]
+[
+  {
+    "id": "9405162001",
+    "district_id": "940516",
+    "name": "NIGILOME"
+  },
+  {
+    "id": "9405162002",
+    "district_id": "940516",
+    "name": "WENI"
+  },
+  {
+    "id": "9405162003",
+    "district_id": "940516",
+    "name": "AMULEME"
+  },
+  {
+    "id": "9405162004",
+    "district_id": "940516",
+    "name": "JIGUNGGI"
+  },
+  {
+    "id": "9405162005",
+    "district_id": "940516",
+    "name": "KUMIKOMO"
+  },
+  {
+    "id": "9405162006",
+    "district_id": "940516",
+    "name": "RUMAGI"
+  },
+  {
+    "id": "9405162007",
+    "district_id": "940516",
+    "name": "GELEGI"
+  },
+  {
+    "id": "9405162008",
+    "district_id": "940516",
+    "name": "WOMBRU"
+  },
+  {
+    "id": "9405162009",
+    "district_id": "940516",
+    "name": "KONDOKWE"
+  },
+  {
+    "id": "9405162010",
+    "district_id": "940516",
+    "name": "TINIBOLU"
+  },
+  {
+    "id": "9405162011",
+    "district_id": "940516",
+    "name": "WINANGGWI"
+  }
+]

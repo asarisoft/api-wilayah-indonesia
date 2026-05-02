@@ -1,1 +1,27 @@
-[{"id": "6571011001", "district_id": "657101", "name": "KARANG ANYAR"}, {"id": "6571011002", "district_id": "657101", "name": "KARANG REJO"}, {"id": "6571011003", "district_id": "657101", "name": "KARANG ANYAR PANTAI"}, {"id": "6571011004", "district_id": "657101", "name": "KARANG BALIK"}, {"id": "6571011005", "district_id": "657101", "name": "KARANG HARAPAN"}]
+[
+  {
+    "id": "6571011001",
+    "district_id": "657101",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "6571011002",
+    "district_id": "657101",
+    "name": "KARANG REJO"
+  },
+  {
+    "id": "6571011003",
+    "district_id": "657101",
+    "name": "KARANG ANYAR PANTAI"
+  },
+  {
+    "id": "6571011004",
+    "district_id": "657101",
+    "name": "KARANG BALIK"
+  },
+  {
+    "id": "6571011005",
+    "district_id": "657101",
+    "name": "KARANG HARAPAN"
+  }
+]

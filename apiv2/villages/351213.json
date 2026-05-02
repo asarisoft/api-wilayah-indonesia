@@ -1,1 +1,52 @@
-[{"id": "3512132001", "district_id": "351213", "name": "KEDUNGLO"}, {"id": "3512132002", "district_id": "351213", "name": "BANTAL"}, {"id": "3512132003", "district_id": "351213", "name": "AWAR-AWAR"}, {"id": "3512132004", "district_id": "351213", "name": "PERANTE"}, {"id": "3512132005", "district_id": "351213", "name": "TRIGONCO"}, {"id": "3512132006", "district_id": "351213", "name": "KERTOSARI"}, {"id": "3512132007", "district_id": "351213", "name": "MOJOSARI"}, {"id": "3512132008", "district_id": "351213", "name": "ASEMBAGUS"}, {"id": "3512132009", "district_id": "351213", "name": "GUDANG"}, {"id": "3512132010", "district_id": "351213", "name": "WRINGIN ANOM"}]
+[
+  {
+    "id": "3512132001",
+    "district_id": "351213",
+    "name": "KEDUNGLO"
+  },
+  {
+    "id": "3512132002",
+    "district_id": "351213",
+    "name": "BANTAL"
+  },
+  {
+    "id": "3512132003",
+    "district_id": "351213",
+    "name": "AWAR-AWAR"
+  },
+  {
+    "id": "3512132004",
+    "district_id": "351213",
+    "name": "PERANTE"
+  },
+  {
+    "id": "3512132005",
+    "district_id": "351213",
+    "name": "TRIGONCO"
+  },
+  {
+    "id": "3512132006",
+    "district_id": "351213",
+    "name": "KERTOSARI"
+  },
+  {
+    "id": "3512132007",
+    "district_id": "351213",
+    "name": "MOJOSARI"
+  },
+  {
+    "id": "3512132008",
+    "district_id": "351213",
+    "name": "ASEMBAGUS"
+  },
+  {
+    "id": "3512132009",
+    "district_id": "351213",
+    "name": "GUDANG"
+  },
+  {
+    "id": "3512132010",
+    "district_id": "351213",
+    "name": "WRINGIN ANOM"
+  }
+]

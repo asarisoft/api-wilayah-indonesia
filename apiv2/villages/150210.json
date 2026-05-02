@@ -1,1 +1,32 @@
-[{"id": "1502102001", "district_id": "150210", "name": "PULAU RENGAS"}, {"id": "1502102002", "district_id": "150210", "name": "BIUKU TANJUNG"}, {"id": "1502102003", "district_id": "150210", "name": "BEDENG REJO"}, {"id": "1502102004", "district_id": "150210", "name": "SUNGAI PUTIH"}, {"id": "1502102005", "district_id": "150210", "name": "BUKIT BERINGIN"}, {"id": "1502102006", "district_id": "150210", "name": "PULAU RENGAS ULU"}]
+[
+  {
+    "id": "1502102001",
+    "district_id": "150210",
+    "name": "PULAU RENGAS"
+  },
+  {
+    "id": "1502102002",
+    "district_id": "150210",
+    "name": "BIUKU TANJUNG"
+  },
+  {
+    "id": "1502102003",
+    "district_id": "150210",
+    "name": "BEDENG REJO"
+  },
+  {
+    "id": "1502102004",
+    "district_id": "150210",
+    "name": "SUNGAI PUTIH"
+  },
+  {
+    "id": "1502102005",
+    "district_id": "150210",
+    "name": "BUKIT BERINGIN"
+  },
+  {
+    "id": "1502102006",
+    "district_id": "150210",
+    "name": "PULAU RENGAS ULU"
+  }
+]

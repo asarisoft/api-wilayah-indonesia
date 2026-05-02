@@ -1,1 +1,42 @@
-[{"id": "2171081001", "district_id": "217108", "name": "SIJANTUNG"}, {"id": "2171081002", "district_id": "217108", "name": "KARAS"}, {"id": "2171081003", "district_id": "217108", "name": "GALANG BARU"}, {"id": "2171081004", "district_id": "217108", "name": "SEMBULANG"}, {"id": "2171081005", "district_id": "217108", "name": "REMPANG CATE"}, {"id": "2171081006", "district_id": "217108", "name": "SUBANG MAS"}, {"id": "2171081007", "district_id": "217108", "name": "PULAU ABANG"}, {"id": "2171081008", "district_id": "217108", "name": "AIR RAJA"}]
+[
+  {
+    "id": "2171081001",
+    "district_id": "217108",
+    "name": "SIJANTUNG"
+  },
+  {
+    "id": "2171081002",
+    "district_id": "217108",
+    "name": "KARAS"
+  },
+  {
+    "id": "2171081003",
+    "district_id": "217108",
+    "name": "GALANG BARU"
+  },
+  {
+    "id": "2171081004",
+    "district_id": "217108",
+    "name": "SEMBULANG"
+  },
+  {
+    "id": "2171081005",
+    "district_id": "217108",
+    "name": "REMPANG CATE"
+  },
+  {
+    "id": "2171081006",
+    "district_id": "217108",
+    "name": "SUBANG MAS"
+  },
+  {
+    "id": "2171081007",
+    "district_id": "217108",
+    "name": "PULAU ABANG"
+  },
+  {
+    "id": "2171081008",
+    "district_id": "217108",
+    "name": "AIR RAJA"
+  }
+]

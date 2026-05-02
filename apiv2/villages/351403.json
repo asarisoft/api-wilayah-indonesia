@@ -1,1 +1,37 @@
-[{"id": "3514032001", "district_id": "351403", "name": "KEMIRI"}, {"id": "3514032002", "district_id": "351403", "name": "JANJANGWULUNG"}, {"id": "3514032003", "district_id": "351403", "name": "PALANGSARI"}, {"id": "3514032004", "district_id": "351403", "name": "PUSPO"}, {"id": "3514032005", "district_id": "351403", "name": "JIMBARAN"}, {"id": "3514032006", "district_id": "351403", "name": "PUSUNGMALANG"}, {"id": "3514032007", "district_id": "351403", "name": "KEDUWUNG"}]
+[
+  {
+    "id": "3514032001",
+    "district_id": "351403",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3514032002",
+    "district_id": "351403",
+    "name": "JANJANGWULUNG"
+  },
+  {
+    "id": "3514032003",
+    "district_id": "351403",
+    "name": "PALANGSARI"
+  },
+  {
+    "id": "3514032004",
+    "district_id": "351403",
+    "name": "PUSPO"
+  },
+  {
+    "id": "3514032005",
+    "district_id": "351403",
+    "name": "JIMBARAN"
+  },
+  {
+    "id": "3514032006",
+    "district_id": "351403",
+    "name": "PUSUNGMALANG"
+  },
+  {
+    "id": "3514032007",
+    "district_id": "351403",
+    "name": "KEDUWUNG"
+  }
+]

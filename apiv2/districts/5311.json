@@ -1,1 +1,112 @@
-[{"id": "531101", "regency_id": "5311", "name": "KOTA WAINGAPU"}, {"id": "531102", "regency_id": "5311", "name": "HAHARU"}, {"id": "531103", "regency_id": "5311", "name": "LEWA"}, {"id": "531104", "regency_id": "5311", "name": "NGGAHA ORI ANGU"}, {"id": "531105", "regency_id": "5311", "name": "TABUNDUNG"}, {"id": "531106", "regency_id": "5311", "name": "PINU PAHAR"}, {"id": "531107", "regency_id": "5311", "name": "PANDAWAI"}, {"id": "531108", "regency_id": "5311", "name": "UMALULU"}, {"id": "531109", "regency_id": "5311", "name": "RINDI"}, {"id": "531110", "regency_id": "5311", "name": "PAHUNGA LODU"}, {"id": "531111", "regency_id": "5311", "name": "WULLA WAIJELU"}, {"id": "531112", "regency_id": "5311", "name": "PABERIWAI"}, {"id": "531113", "regency_id": "5311", "name": "KARERA"}, {"id": "531114", "regency_id": "5311", "name": "KAHAUNGU ETI"}, {"id": "531115", "regency_id": "5311", "name": "MATAWAI LA PAWU"}, {"id": "531116", "regency_id": "5311", "name": "KAMBERA"}, {"id": "531117", "regency_id": "5311", "name": "KAMBATA MAPAMBUHANG"}, {"id": "531118", "regency_id": "5311", "name": "LEWA TIDAHU"}, {"id": "531119", "regency_id": "5311", "name": "KATALA HAMU LINGU"}, {"id": "531120", "regency_id": "5311", "name": "KANATANG"}, {"id": "531121", "regency_id": "5311", "name": "NGADU NGALA"}, {"id": "531122", "regency_id": "5311", "name": "MAHU"}]
+[
+  {
+    "id": "531101",
+    "regency_id": "5311",
+    "name": "KOTA WAINGAPU"
+  },
+  {
+    "id": "531102",
+    "regency_id": "5311",
+    "name": "HAHARU"
+  },
+  {
+    "id": "531103",
+    "regency_id": "5311",
+    "name": "LEWA"
+  },
+  {
+    "id": "531104",
+    "regency_id": "5311",
+    "name": "NGGAHA ORI ANGU"
+  },
+  {
+    "id": "531105",
+    "regency_id": "5311",
+    "name": "TABUNDUNG"
+  },
+  {
+    "id": "531106",
+    "regency_id": "5311",
+    "name": "PINU PAHAR"
+  },
+  {
+    "id": "531107",
+    "regency_id": "5311",
+    "name": "PANDAWAI"
+  },
+  {
+    "id": "531108",
+    "regency_id": "5311",
+    "name": "UMALULU"
+  },
+  {
+    "id": "531109",
+    "regency_id": "5311",
+    "name": "RINDI"
+  },
+  {
+    "id": "531110",
+    "regency_id": "5311",
+    "name": "PAHUNGA LODU"
+  },
+  {
+    "id": "531111",
+    "regency_id": "5311",
+    "name": "WULLA WAIJELU"
+  },
+  {
+    "id": "531112",
+    "regency_id": "5311",
+    "name": "PABERIWAI"
+  },
+  {
+    "id": "531113",
+    "regency_id": "5311",
+    "name": "KARERA"
+  },
+  {
+    "id": "531114",
+    "regency_id": "5311",
+    "name": "KAHAUNGU ETI"
+  },
+  {
+    "id": "531115",
+    "regency_id": "5311",
+    "name": "MATAWAI LA PAWU"
+  },
+  {
+    "id": "531116",
+    "regency_id": "5311",
+    "name": "KAMBERA"
+  },
+  {
+    "id": "531117",
+    "regency_id": "5311",
+    "name": "KAMBATA MAPAMBUHANG"
+  },
+  {
+    "id": "531118",
+    "regency_id": "5311",
+    "name": "LEWA TIDAHU"
+  },
+  {
+    "id": "531119",
+    "regency_id": "5311",
+    "name": "KATALA HAMU LINGU"
+  },
+  {
+    "id": "531120",
+    "regency_id": "5311",
+    "name": "KANATANG"
+  },
+  {
+    "id": "531121",
+    "regency_id": "5311",
+    "name": "NGADU NGALA"
+  },
+  {
+    "id": "531122",
+    "regency_id": "5311",
+    "name": "MAHU"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "7102152001", "district_id": "710215", "name": "KUMU"}, {"id": "7102152002", "district_id": "710215", "name": "TELING"}, {"id": "7102152003", "district_id": "710215", "name": "POOPOH"}, {"id": "7102152004", "district_id": "710215", "name": "RANOWANGKO"}, {"id": "7102152005", "district_id": "710215", "name": "SENDUK"}, {"id": "7102152007", "district_id": "710215", "name": "PINASUNGKULAN"}, {"id": "7102152009", "district_id": "710215", "name": "MOKUPA"}, {"id": "7102152010", "district_id": "710215", "name": "SARANI MATANI"}, {"id": "7102152011", "district_id": "710215", "name": "BORGO"}, {"id": "7102152012", "district_id": "710215", "name": "TAMBALA"}]
+[
+  {
+    "id": "7102152001",
+    "district_id": "710215",
+    "name": "KUMU"
+  },
+  {
+    "id": "7102152002",
+    "district_id": "710215",
+    "name": "TELING"
+  },
+  {
+    "id": "7102152003",
+    "district_id": "710215",
+    "name": "POOPOH"
+  },
+  {
+    "id": "7102152004",
+    "district_id": "710215",
+    "name": "RANOWANGKO"
+  },
+  {
+    "id": "7102152005",
+    "district_id": "710215",
+    "name": "SENDUK"
+  },
+  {
+    "id": "7102152007",
+    "district_id": "710215",
+    "name": "PINASUNGKULAN"
+  },
+  {
+    "id": "7102152009",
+    "district_id": "710215",
+    "name": "MOKUPA"
+  },
+  {
+    "id": "7102152010",
+    "district_id": "710215",
+    "name": "SARANI MATANI"
+  },
+  {
+    "id": "7102152011",
+    "district_id": "710215",
+    "name": "BORGO"
+  },
+  {
+    "id": "7102152012",
+    "district_id": "710215",
+    "name": "TAMBALA"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "9401082001", "district_id": "940108", "name": "NAPAN YAUR"}, {"id": "9401082002", "district_id": "940108", "name": "YERETUAR"}, {"id": "9401082003", "district_id": "940108", "name": "BAWEI"}, {"id": "9401082004", "district_id": "940108", "name": "GONI"}]
+[
+  {
+    "id": "9401082001",
+    "district_id": "940108",
+    "name": "NAPAN YAUR"
+  },
+  {
+    "id": "9401082002",
+    "district_id": "940108",
+    "name": "YERETUAR"
+  },
+  {
+    "id": "9401082003",
+    "district_id": "940108",
+    "name": "BAWEI"
+  },
+  {
+    "id": "9401082004",
+    "district_id": "940108",
+    "name": "GONI"
+  }
+]

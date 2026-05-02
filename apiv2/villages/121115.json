@@ -1,1 +1,22 @@
-[{"id": "1211151004", "district_id": "121115", "name": "PANJI DABUTAR"}, {"id": "1211152001", "district_id": "121115", "name": "SITINJO"}, {"id": "1211152002", "district_id": "121115", "name": "SITINJO I"}, {"id": "1211152003", "district_id": "121115", "name": "SITINJO II"}]
+[
+  {
+    "id": "1211151004",
+    "district_id": "121115",
+    "name": "PANJI DABUTAR"
+  },
+  {
+    "id": "1211152001",
+    "district_id": "121115",
+    "name": "SITINJO"
+  },
+  {
+    "id": "1211152002",
+    "district_id": "121115",
+    "name": "SITINJO I"
+  },
+  {
+    "id": "1211152003",
+    "district_id": "121115",
+    "name": "SITINJO II"
+  }
+]

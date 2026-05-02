@@ -1,1 +1,62 @@
-[{"id": "1218012001", "district_id": "121801", "name": "PANTAI CERMIN KANAN"}, {"id": "1218012002", "district_id": "121801", "name": "PANTAI CERMIN KIRI"}, {"id": "1218012003", "district_id": "121801", "name": "KOTA PARI"}, {"id": "1218012004", "district_id": "121801", "name": "CELAWAN"}, {"id": "1218012005", "district_id": "121801", "name": "UJUNG RAMBUNG"}, {"id": "1218012006", "district_id": "121801", "name": "KUALA LAMA"}, {"id": "1218012007", "district_id": "121801", "name": "BESAR II TERJUN"}, {"id": "1218012008", "district_id": "121801", "name": "SEMENTARA"}, {"id": "1218012009", "district_id": "121801", "name": "ARA PAYUNG"}, {"id": "1218012010", "district_id": "121801", "name": "PEMATANG KASIH"}, {"id": "1218012011", "district_id": "121801", "name": "LUBUK SABAN"}, {"id": "1218012012", "district_id": "121801", "name": "NAGA KISAR"}]
+[
+  {
+    "id": "1218012001",
+    "district_id": "121801",
+    "name": "PANTAI CERMIN KANAN"
+  },
+  {
+    "id": "1218012002",
+    "district_id": "121801",
+    "name": "PANTAI CERMIN KIRI"
+  },
+  {
+    "id": "1218012003",
+    "district_id": "121801",
+    "name": "KOTA PARI"
+  },
+  {
+    "id": "1218012004",
+    "district_id": "121801",
+    "name": "CELAWAN"
+  },
+  {
+    "id": "1218012005",
+    "district_id": "121801",
+    "name": "UJUNG RAMBUNG"
+  },
+  {
+    "id": "1218012006",
+    "district_id": "121801",
+    "name": "KUALA LAMA"
+  },
+  {
+    "id": "1218012007",
+    "district_id": "121801",
+    "name": "BESAR II TERJUN"
+  },
+  {
+    "id": "1218012008",
+    "district_id": "121801",
+    "name": "SEMENTARA"
+  },
+  {
+    "id": "1218012009",
+    "district_id": "121801",
+    "name": "ARA PAYUNG"
+  },
+  {
+    "id": "1218012010",
+    "district_id": "121801",
+    "name": "PEMATANG KASIH"
+  },
+  {
+    "id": "1218012011",
+    "district_id": "121801",
+    "name": "LUBUK SABAN"
+  },
+  {
+    "id": "1218012012",
+    "district_id": "121801",
+    "name": "NAGA KISAR"
+  }
+]

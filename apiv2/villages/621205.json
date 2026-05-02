@@ -1,1 +1,47 @@
-[{"id": "6212051004", "district_id": "621205", "name": "TUMBANG KUNYI"}, {"id": "6212052001", "district_id": "621205", "name": "KALAPEH BARU"}, {"id": "6212052002", "district_id": "621205", "name": "TUMBANG MASAO"}, {"id": "6212052003", "district_id": "621205", "name": "BATU MAKAP"}, {"id": "6212052005", "district_id": "621205", "name": "OLONG LIKO"}, {"id": "6212052006", "district_id": "621205", "name": "TELUK JOLO"}, {"id": "6212052007", "district_id": "621205", "name": "LAAS BARU"}, {"id": "6212052018", "district_id": "621205", "name": "TUMBANG MOLUT"}, {"id": "6212052020", "district_id": "621205", "name": "TUMBANG TUAN"}]
+[
+  {
+    "id": "6212051004",
+    "district_id": "621205",
+    "name": "TUMBANG KUNYI"
+  },
+  {
+    "id": "6212052001",
+    "district_id": "621205",
+    "name": "KALAPEH BARU"
+  },
+  {
+    "id": "6212052002",
+    "district_id": "621205",
+    "name": "TUMBANG MASAO"
+  },
+  {
+    "id": "6212052003",
+    "district_id": "621205",
+    "name": "BATU MAKAP"
+  },
+  {
+    "id": "6212052005",
+    "district_id": "621205",
+    "name": "OLONG LIKO"
+  },
+  {
+    "id": "6212052006",
+    "district_id": "621205",
+    "name": "TELUK JOLO"
+  },
+  {
+    "id": "6212052007",
+    "district_id": "621205",
+    "name": "LAAS BARU"
+  },
+  {
+    "id": "6212052018",
+    "district_id": "621205",
+    "name": "TUMBANG MOLUT"
+  },
+  {
+    "id": "6212052020",
+    "district_id": "621205",
+    "name": "TUMBANG TUAN"
+  }
+]

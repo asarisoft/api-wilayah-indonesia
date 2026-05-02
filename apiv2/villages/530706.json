@@ -1,1 +1,42 @@
-[{"id": "5307062001", "district_id": "530706", "name": "MALURIWU"}, {"id": "5307062002", "district_id": "530706", "name": "RERUWAIRERE"}, {"id": "5307062003", "district_id": "530706", "name": "TUANGGEO"}, {"id": "5307062004", "district_id": "530706", "name": "LADOLAKA"}, {"id": "5307062005", "district_id": "530706", "name": "NITUNGLEA"}, {"id": "5307062006", "district_id": "530706", "name": "ROKIROLE"}, {"id": "5307062007", "district_id": "530706", "name": "KESOKOJA"}, {"id": "5307062008", "district_id": "530706", "name": "LIDI"}]
+[
+  {
+    "id": "5307062001",
+    "district_id": "530706",
+    "name": "MALURIWU"
+  },
+  {
+    "id": "5307062002",
+    "district_id": "530706",
+    "name": "RERUWAIRERE"
+  },
+  {
+    "id": "5307062003",
+    "district_id": "530706",
+    "name": "TUANGGEO"
+  },
+  {
+    "id": "5307062004",
+    "district_id": "530706",
+    "name": "LADOLAKA"
+  },
+  {
+    "id": "5307062005",
+    "district_id": "530706",
+    "name": "NITUNGLEA"
+  },
+  {
+    "id": "5307062006",
+    "district_id": "530706",
+    "name": "ROKIROLE"
+  },
+  {
+    "id": "5307062007",
+    "district_id": "530706",
+    "name": "KESOKOJA"
+  },
+  {
+    "id": "5307062008",
+    "district_id": "530706",
+    "name": "LIDI"
+  }
+]

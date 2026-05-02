@@ -1,1 +1,62 @@
-[{"id": "340101", "regency_id": "3401", "name": "TEMON"}, {"id": "340102", "regency_id": "3401", "name": "WATES"}, {"id": "340103", "regency_id": "3401", "name": "PANJATAN"}, {"id": "340104", "regency_id": "3401", "name": "GALUR"}, {"id": "340105", "regency_id": "3401", "name": "LENDAH"}, {"id": "340106", "regency_id": "3401", "name": "SENTOLO"}, {"id": "340107", "regency_id": "3401", "name": "PENGASIH"}, {"id": "340108", "regency_id": "3401", "name": "KOKAP"}, {"id": "340109", "regency_id": "3401", "name": "GIRIMULYO"}, {"id": "340110", "regency_id": "3401", "name": "NANGGULAN"}, {"id": "340111", "regency_id": "3401", "name": "SAMIGALUH"}, {"id": "340112", "regency_id": "3401", "name": "KALIBAWANG"}]
+[
+  {
+    "id": "340101",
+    "regency_id": "3401",
+    "name": "TEMON"
+  },
+  {
+    "id": "340102",
+    "regency_id": "3401",
+    "name": "WATES"
+  },
+  {
+    "id": "340103",
+    "regency_id": "3401",
+    "name": "PANJATAN"
+  },
+  {
+    "id": "340104",
+    "regency_id": "3401",
+    "name": "GALUR"
+  },
+  {
+    "id": "340105",
+    "regency_id": "3401",
+    "name": "LENDAH"
+  },
+  {
+    "id": "340106",
+    "regency_id": "3401",
+    "name": "SENTOLO"
+  },
+  {
+    "id": "340107",
+    "regency_id": "3401",
+    "name": "PENGASIH"
+  },
+  {
+    "id": "340108",
+    "regency_id": "3401",
+    "name": "KOKAP"
+  },
+  {
+    "id": "340109",
+    "regency_id": "3401",
+    "name": "GIRIMULYO"
+  },
+  {
+    "id": "340110",
+    "regency_id": "3401",
+    "name": "NANGGULAN"
+  },
+  {
+    "id": "340111",
+    "regency_id": "3401",
+    "name": "SAMIGALUH"
+  },
+  {
+    "id": "340112",
+    "regency_id": "3401",
+    "name": "KALIBAWANG"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "7172081001", "district_id": "717208", "name": "MAWALI"}, {"id": "7172081002", "district_id": "717208", "name": "PINTUKOTA"}, {"id": "7172081003", "district_id": "717208", "name": "BINUANG"}, {"id": "7172081004", "district_id": "717208", "name": "MOTTO"}, {"id": "7172081005", "district_id": "717208", "name": "LIRANG"}, {"id": "7172081006", "district_id": "717208", "name": "POSOKAN"}, {"id": "7172081007", "district_id": "717208", "name": "NUSU"}, {"id": "7172081008", "district_id": "717208", "name": "KAREKO"}, {"id": "7172081009", "district_id": "717208", "name": "GUNUNG WOKA"}, {"id": "7172081010", "district_id": "717208", "name": "BATUKOTA"}]
+[
+  {
+    "id": "7172081001",
+    "district_id": "717208",
+    "name": "MAWALI"
+  },
+  {
+    "id": "7172081002",
+    "district_id": "717208",
+    "name": "PINTUKOTA"
+  },
+  {
+    "id": "7172081003",
+    "district_id": "717208",
+    "name": "BINUANG"
+  },
+  {
+    "id": "7172081004",
+    "district_id": "717208",
+    "name": "MOTTO"
+  },
+  {
+    "id": "7172081005",
+    "district_id": "717208",
+    "name": "LIRANG"
+  },
+  {
+    "id": "7172081006",
+    "district_id": "717208",
+    "name": "POSOKAN"
+  },
+  {
+    "id": "7172081007",
+    "district_id": "717208",
+    "name": "NUSU"
+  },
+  {
+    "id": "7172081008",
+    "district_id": "717208",
+    "name": "KAREKO"
+  },
+  {
+    "id": "7172081009",
+    "district_id": "717208",
+    "name": "GUNUNG WOKA"
+  },
+  {
+    "id": "7172081010",
+    "district_id": "717208",
+    "name": "BATUKOTA"
+  }
+]

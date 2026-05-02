@@ -1,1 +1,22 @@
-[{"id": "5303102001", "district_id": "530310", "name": "NAOB"}, {"id": "5303102002", "district_id": "530310", "name": "HAEKTO"}, {"id": "5303102003", "district_id": "530310", "name": "MANIKIN"}, {"id": "5303102004", "district_id": "530310", "name": "KUAKEN"}]
+[
+  {
+    "id": "5303102001",
+    "district_id": "530310",
+    "name": "NAOB"
+  },
+  {
+    "id": "5303102002",
+    "district_id": "530310",
+    "name": "HAEKTO"
+  },
+  {
+    "id": "5303102003",
+    "district_id": "530310",
+    "name": "MANIKIN"
+  },
+  {
+    "id": "5303102004",
+    "district_id": "530310",
+    "name": "KUAKEN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "6204021003", "district_id": "620402", "name": "MENGKATIP"}, {"id": "6204022001", "district_id": "620402", "name": "SUNGAI JAYA"}, {"id": "6204022002", "district_id": "620402", "name": "MAHAJANDAU"}, {"id": "6204022004", "district_id": "620402", "name": "KALANIS"}, {"id": "6204022005", "district_id": "620402", "name": "LEHAI"}, {"id": "6204022006", "district_id": "620402", "name": "DAMPARAN"}, {"id": "6204022007", "district_id": "620402", "name": "TELUK TIMBAU"}, {"id": "6204022008", "district_id": "620402", "name": "BATILAP"}, {"id": "6204022009", "district_id": "620402", "name": "BATAMPANG"}, {"id": "6204022010", "district_id": "620402", "name": "MANGKATIR"}]
+[
+  {
+    "id": "6204021003",
+    "district_id": "620402",
+    "name": "MENGKATIP"
+  },
+  {
+    "id": "6204022001",
+    "district_id": "620402",
+    "name": "SUNGAI JAYA"
+  },
+  {
+    "id": "6204022002",
+    "district_id": "620402",
+    "name": "MAHAJANDAU"
+  },
+  {
+    "id": "6204022004",
+    "district_id": "620402",
+    "name": "KALANIS"
+  },
+  {
+    "id": "6204022005",
+    "district_id": "620402",
+    "name": "LEHAI"
+  },
+  {
+    "id": "6204022006",
+    "district_id": "620402",
+    "name": "DAMPARAN"
+  },
+  {
+    "id": "6204022007",
+    "district_id": "620402",
+    "name": "TELUK TIMBAU"
+  },
+  {
+    "id": "6204022008",
+    "district_id": "620402",
+    "name": "BATILAP"
+  },
+  {
+    "id": "6204022009",
+    "district_id": "620402",
+    "name": "BATAMPANG"
+  },
+  {
+    "id": "6204022010",
+    "district_id": "620402",
+    "name": "MANGKATIR"
+  }
+]

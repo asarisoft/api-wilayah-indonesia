@@ -1,1 +1,32 @@
-[{"id": "190401", "regency_id": "1904", "name": "KOBA"}, {"id": "190402", "regency_id": "1904", "name": "PANGKALAN BARU"}, {"id": "190403", "regency_id": "1904", "name": "SUNGAI SELAN"}, {"id": "190404", "regency_id": "1904", "name": "SIMPANG KATIS"}, {"id": "190405", "regency_id": "1904", "name": "NAMANG"}, {"id": "190406", "regency_id": "1904", "name": "LUBUK BESAR"}]
+[
+  {
+    "id": "190401",
+    "regency_id": "1904",
+    "name": "KOBA"
+  },
+  {
+    "id": "190402",
+    "regency_id": "1904",
+    "name": "PANGKALAN BARU"
+  },
+  {
+    "id": "190403",
+    "regency_id": "1904",
+    "name": "SUNGAI SELAN"
+  },
+  {
+    "id": "190404",
+    "regency_id": "1904",
+    "name": "SIMPANG KATIS"
+  },
+  {
+    "id": "190405",
+    "regency_id": "1904",
+    "name": "NAMANG"
+  },
+  {
+    "id": "190406",
+    "regency_id": "1904",
+    "name": "LUBUK BESAR"
+  }
+]

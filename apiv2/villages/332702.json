@@ -1,1 +1,62 @@
-[{"id": "3327022001", "district_id": "332702", "name": "CLEKATAKAN"}, {"id": "3327022002", "district_id": "332702", "name": "BATURSARI"}, {"id": "3327022003", "district_id": "332702", "name": "PENAKIR"}, {"id": "3327022004", "district_id": "332702", "name": "GUNUNGSARI"}, {"id": "3327022005", "district_id": "332702", "name": "JURANGMANGU"}, {"id": "3327022006", "district_id": "332702", "name": "GAMBUHAN"}, {"id": "3327022007", "district_id": "332702", "name": "KARANGSARI"}, {"id": "3327022008", "district_id": "332702", "name": "NYALEMBENG"}, {"id": "3327022009", "district_id": "332702", "name": "PULOSARI"}, {"id": "3327022010", "district_id": "332702", "name": "PAGENTERAN"}, {"id": "3327022011", "district_id": "332702", "name": "SIREMENG"}, {"id": "3327022012", "district_id": "332702", "name": "CIKENDUNG"}]
+[
+  {
+    "id": "3327022001",
+    "district_id": "332702",
+    "name": "CLEKATAKAN"
+  },
+  {
+    "id": "3327022002",
+    "district_id": "332702",
+    "name": "BATURSARI"
+  },
+  {
+    "id": "3327022003",
+    "district_id": "332702",
+    "name": "PENAKIR"
+  },
+  {
+    "id": "3327022004",
+    "district_id": "332702",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3327022005",
+    "district_id": "332702",
+    "name": "JURANGMANGU"
+  },
+  {
+    "id": "3327022006",
+    "district_id": "332702",
+    "name": "GAMBUHAN"
+  },
+  {
+    "id": "3327022007",
+    "district_id": "332702",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3327022008",
+    "district_id": "332702",
+    "name": "NYALEMBENG"
+  },
+  {
+    "id": "3327022009",
+    "district_id": "332702",
+    "name": "PULOSARI"
+  },
+  {
+    "id": "3327022010",
+    "district_id": "332702",
+    "name": "PAGENTERAN"
+  },
+  {
+    "id": "3327022011",
+    "district_id": "332702",
+    "name": "SIREMENG"
+  },
+  {
+    "id": "3327022012",
+    "district_id": "332702",
+    "name": "CIKENDUNG"
+  }
+]

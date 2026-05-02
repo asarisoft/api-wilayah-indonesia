@@ -1,1 +1,47 @@
-[{"id": "1673051001", "district_id": "167305", "name": "JAWA KANAN"}, {"id": "1673051002", "district_id": "167305", "name": "JAWA KANAN SS"}, {"id": "1673051003", "district_id": "167305", "name": "WIRA KARYA"}, {"id": "1673051004", "district_id": "167305", "name": "DEMPO"}, {"id": "1673051005", "district_id": "167305", "name": "JAWA KIRI"}, {"id": "1673051006", "district_id": "167305", "name": "KARYA BAKTI"}, {"id": "1673051007", "district_id": "167305", "name": "MESAT JAYA"}, {"id": "1673051008", "district_id": "167305", "name": "MESAT SENI"}, {"id": "1673051009", "district_id": "167305", "name": "CEREME TABA"}]
+[
+  {
+    "id": "1673051001",
+    "district_id": "167305",
+    "name": "JAWA KANAN"
+  },
+  {
+    "id": "1673051002",
+    "district_id": "167305",
+    "name": "JAWA KANAN SS"
+  },
+  {
+    "id": "1673051003",
+    "district_id": "167305",
+    "name": "WIRA KARYA"
+  },
+  {
+    "id": "1673051004",
+    "district_id": "167305",
+    "name": "DEMPO"
+  },
+  {
+    "id": "1673051005",
+    "district_id": "167305",
+    "name": "JAWA KIRI"
+  },
+  {
+    "id": "1673051006",
+    "district_id": "167305",
+    "name": "KARYA BAKTI"
+  },
+  {
+    "id": "1673051007",
+    "district_id": "167305",
+    "name": "MESAT JAYA"
+  },
+  {
+    "id": "1673051008",
+    "district_id": "167305",
+    "name": "MESAT SENI"
+  },
+  {
+    "id": "1673051009",
+    "district_id": "167305",
+    "name": "CEREME TABA"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3307051006", "district_id": "330705", "name": "LEKSONO"}, {"id": "3307052001", "district_id": "330705", "name": "SAWANGAN"}, {"id": "3307052002", "district_id": "330705", "name": "LIPURSARI"}, {"id": "3307052003", "district_id": "330705", "name": "SELOKROMO"}, {"id": "3307052004", "district_id": "330705", "name": "SOJOKERTO"}, {"id": "3307052005", "district_id": "330705", "name": "BESANI"}, {"id": "3307052007", "district_id": "330705", "name": "JLAMPRANG"}, {"id": "3307052008", "district_id": "330705", "name": "WONOKERTO"}, {"id": "3307052009", "district_id": "330705", "name": "JONGGOLSARI"}, {"id": "3307052010", "district_id": "330705", "name": "KALIMENDONG"}, {"id": "3307052011", "district_id": "330705", "name": "TIMBANG"}, {"id": "3307052012", "district_id": "330705", "name": "PACARMULYO"}, {"id": "3307052013", "district_id": "330705", "name": "DURENSAWIT"}, {"id": "3307052014", "district_id": "330705", "name": "MANGGIS"}]
+[
+  {
+    "id": "3307051006",
+    "district_id": "330705",
+    "name": "LEKSONO"
+  },
+  {
+    "id": "3307052001",
+    "district_id": "330705",
+    "name": "SAWANGAN"
+  },
+  {
+    "id": "3307052002",
+    "district_id": "330705",
+    "name": "LIPURSARI"
+  },
+  {
+    "id": "3307052003",
+    "district_id": "330705",
+    "name": "SELOKROMO"
+  },
+  {
+    "id": "3307052004",
+    "district_id": "330705",
+    "name": "SOJOKERTO"
+  },
+  {
+    "id": "3307052005",
+    "district_id": "330705",
+    "name": "BESANI"
+  },
+  {
+    "id": "3307052007",
+    "district_id": "330705",
+    "name": "JLAMPRANG"
+  },
+  {
+    "id": "3307052008",
+    "district_id": "330705",
+    "name": "WONOKERTO"
+  },
+  {
+    "id": "3307052009",
+    "district_id": "330705",
+    "name": "JONGGOLSARI"
+  },
+  {
+    "id": "3307052010",
+    "district_id": "330705",
+    "name": "KALIMENDONG"
+  },
+  {
+    "id": "3307052011",
+    "district_id": "330705",
+    "name": "TIMBANG"
+  },
+  {
+    "id": "3307052012",
+    "district_id": "330705",
+    "name": "PACARMULYO"
+  },
+  {
+    "id": "3307052013",
+    "district_id": "330705",
+    "name": "DURENSAWIT"
+  },
+  {
+    "id": "3307052014",
+    "district_id": "330705",
+    "name": "MANGGIS"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3204252001", "district_id": "320425", "name": "CICALENGKA KULON"}, {"id": "3204252002", "district_id": "320425", "name": "CICALENGKA WETAN"}, {"id": "3204252003", "district_id": "320425", "name": "BABAKAN PEUTEUY"}, {"id": "3204252004", "district_id": "320425", "name": "CIKUYA"}, {"id": "3204252005", "district_id": "320425", "name": "DAMPIT"}, {"id": "3204252006", "district_id": "320425", "name": "MARGAASIH"}, {"id": "3204252007", "district_id": "320425", "name": "NARAWITA"}, {"id": "3204252008", "district_id": "320425", "name": "PANENJOAN"}, {"id": "3204252009", "district_id": "320425", "name": "TANJUNGWANGI"}, {"id": "3204252010", "district_id": "320425", "name": "TENJOLAYA"}, {"id": "3204252011", "district_id": "320425", "name": "WALUYA"}, {"id": "3204252012", "district_id": "320425", "name": "NAGROG"}]
+[
+  {
+    "id": "3204252001",
+    "district_id": "320425",
+    "name": "CICALENGKA KULON"
+  },
+  {
+    "id": "3204252002",
+    "district_id": "320425",
+    "name": "CICALENGKA WETAN"
+  },
+  {
+    "id": "3204252003",
+    "district_id": "320425",
+    "name": "BABAKAN PEUTEUY"
+  },
+  {
+    "id": "3204252004",
+    "district_id": "320425",
+    "name": "CIKUYA"
+  },
+  {
+    "id": "3204252005",
+    "district_id": "320425",
+    "name": "DAMPIT"
+  },
+  {
+    "id": "3204252006",
+    "district_id": "320425",
+    "name": "MARGAASIH"
+  },
+  {
+    "id": "3204252007",
+    "district_id": "320425",
+    "name": "NARAWITA"
+  },
+  {
+    "id": "3204252008",
+    "district_id": "320425",
+    "name": "PANENJOAN"
+  },
+  {
+    "id": "3204252009",
+    "district_id": "320425",
+    "name": "TANJUNGWANGI"
+  },
+  {
+    "id": "3204252010",
+    "district_id": "320425",
+    "name": "TENJOLAYA"
+  },
+  {
+    "id": "3204252011",
+    "district_id": "320425",
+    "name": "WALUYA"
+  },
+  {
+    "id": "3204252012",
+    "district_id": "320425",
+    "name": "NAGROG"
+  }
+]

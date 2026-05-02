@@ -1,1 +1,57 @@
-[{"id": "9502332001", "district_id": "950233", "name": "MARIKLA"}, {"id": "9502332002", "district_id": "950233", "name": "YABOSOROM"}, {"id": "9502332003", "district_id": "950233", "name": "PAMEK"}, {"id": "9502332004", "district_id": "950233", "name": "BARICE"}, {"id": "9502332005", "district_id": "950233", "name": "IMDE"}, {"id": "9502332006", "district_id": "950233", "name": "LUMDAKNA"}, {"id": "9502332007", "district_id": "950233", "name": "BARAMIRYE"}, {"id": "9502332008", "district_id": "950233", "name": "MANDALAK"}, {"id": "9502332009", "district_id": "950233", "name": "YOKUL"}, {"id": "9502332010", "district_id": "950233", "name": "KALEK"}, {"id": "9502332011", "district_id": "950233", "name": "PINGGON"}]
+[
+  {
+    "id": "9502332001",
+    "district_id": "950233",
+    "name": "MARIKLA"
+  },
+  {
+    "id": "9502332002",
+    "district_id": "950233",
+    "name": "YABOSOROM"
+  },
+  {
+    "id": "9502332003",
+    "district_id": "950233",
+    "name": "PAMEK"
+  },
+  {
+    "id": "9502332004",
+    "district_id": "950233",
+    "name": "BARICE"
+  },
+  {
+    "id": "9502332005",
+    "district_id": "950233",
+    "name": "IMDE"
+  },
+  {
+    "id": "9502332006",
+    "district_id": "950233",
+    "name": "LUMDAKNA"
+  },
+  {
+    "id": "9502332007",
+    "district_id": "950233",
+    "name": "BARAMIRYE"
+  },
+  {
+    "id": "9502332008",
+    "district_id": "950233",
+    "name": "MANDALAK"
+  },
+  {
+    "id": "9502332009",
+    "district_id": "950233",
+    "name": "YOKUL"
+  },
+  {
+    "id": "9502332010",
+    "district_id": "950233",
+    "name": "KALEK"
+  },
+  {
+    "id": "9502332011",
+    "district_id": "950233",
+    "name": "PINGGON"
+  }
+]

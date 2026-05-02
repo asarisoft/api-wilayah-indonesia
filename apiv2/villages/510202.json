@@ -1,1 +1,52 @@
-[{"id": "5102022001", "district_id": "510202", "name": "GUNUNG SALAK"}, {"id": "5102022002", "district_id": "510202", "name": "GADUNGAN"}, {"id": "5102022003", "district_id": "510202", "name": "BANTAS"}, {"id": "5102022004", "district_id": "510202", "name": "MAMBANG"}, {"id": "5102022005", "district_id": "510202", "name": "MEGATI"}, {"id": "5102022006", "district_id": "510202", "name": "TANGGUNTITI"}, {"id": "5102022007", "district_id": "510202", "name": "BERABAN"}, {"id": "5102022008", "district_id": "510202", "name": "TEGAL MENGKEB"}, {"id": "5102022009", "district_id": "510202", "name": "DALANG"}, {"id": "5102022010", "district_id": "510202", "name": "GADUNGSARI"}]
+[
+  {
+    "id": "5102022001",
+    "district_id": "510202",
+    "name": "GUNUNG SALAK"
+  },
+  {
+    "id": "5102022002",
+    "district_id": "510202",
+    "name": "GADUNGAN"
+  },
+  {
+    "id": "5102022003",
+    "district_id": "510202",
+    "name": "BANTAS"
+  },
+  {
+    "id": "5102022004",
+    "district_id": "510202",
+    "name": "MAMBANG"
+  },
+  {
+    "id": "5102022005",
+    "district_id": "510202",
+    "name": "MEGATI"
+  },
+  {
+    "id": "5102022006",
+    "district_id": "510202",
+    "name": "TANGGUNTITI"
+  },
+  {
+    "id": "5102022007",
+    "district_id": "510202",
+    "name": "BERABAN"
+  },
+  {
+    "id": "5102022008",
+    "district_id": "510202",
+    "name": "TEGAL MENGKEB"
+  },
+  {
+    "id": "5102022009",
+    "district_id": "510202",
+    "name": "DALANG"
+  },
+  {
+    "id": "5102022010",
+    "district_id": "510202",
+    "name": "GADUNGSARI"
+  }
+]

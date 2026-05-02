@@ -1,1 +1,82 @@
-[{"id": "7205012001", "district_id": "720501", "name": "MOMUNU"}, {"id": "7205012002", "district_id": "720501", "name": "PINAMULA"}, {"id": "7205012003", "district_id": "720501", "name": "PUJIMULYO"}, {"id": "7205012004", "district_id": "720501", "name": "TALUAN"}, {"id": "7205012005", "district_id": "720501", "name": "POTUGU"}, {"id": "7205012006", "district_id": "720501", "name": "PANIMBUL"}, {"id": "7205012007", "district_id": "720501", "name": "TONGON"}, {"id": "7205012008", "district_id": "720501", "name": "LAMADONG II"}, {"id": "7205012009", "district_id": "720501", "name": "POMAYAGON"}, {"id": "7205012010", "district_id": "720501", "name": "GUAMONIAL"}, {"id": "7205012011", "district_id": "720501", "name": "LAMADONG I"}, {"id": "7205012012", "district_id": "720501", "name": "PAJEKO"}, {"id": "7205012020", "district_id": "720501", "name": "WAKAT"}, {"id": "7205012021", "district_id": "720501", "name": "SORAYA"}, {"id": "7205012022", "district_id": "720501", "name": "PINAMULA BARU"}, {"id": "7205012023", "district_id": "720501", "name": "MANGUBI"}]
+[
+  {
+    "id": "7205012001",
+    "district_id": "720501",
+    "name": "MOMUNU"
+  },
+  {
+    "id": "7205012002",
+    "district_id": "720501",
+    "name": "PINAMULA"
+  },
+  {
+    "id": "7205012003",
+    "district_id": "720501",
+    "name": "PUJIMULYO"
+  },
+  {
+    "id": "7205012004",
+    "district_id": "720501",
+    "name": "TALUAN"
+  },
+  {
+    "id": "7205012005",
+    "district_id": "720501",
+    "name": "POTUGU"
+  },
+  {
+    "id": "7205012006",
+    "district_id": "720501",
+    "name": "PANIMBUL"
+  },
+  {
+    "id": "7205012007",
+    "district_id": "720501",
+    "name": "TONGON"
+  },
+  {
+    "id": "7205012008",
+    "district_id": "720501",
+    "name": "LAMADONG II"
+  },
+  {
+    "id": "7205012009",
+    "district_id": "720501",
+    "name": "POMAYAGON"
+  },
+  {
+    "id": "7205012010",
+    "district_id": "720501",
+    "name": "GUAMONIAL"
+  },
+  {
+    "id": "7205012011",
+    "district_id": "720501",
+    "name": "LAMADONG I"
+  },
+  {
+    "id": "7205012012",
+    "district_id": "720501",
+    "name": "PAJEKO"
+  },
+  {
+    "id": "7205012020",
+    "district_id": "720501",
+    "name": "WAKAT"
+  },
+  {
+    "id": "7205012021",
+    "district_id": "720501",
+    "name": "SORAYA"
+  },
+  {
+    "id": "7205012022",
+    "district_id": "720501",
+    "name": "PINAMULA BARU"
+  },
+  {
+    "id": "7205012023",
+    "district_id": "720501",
+    "name": "MANGUBI"
+  }
+]

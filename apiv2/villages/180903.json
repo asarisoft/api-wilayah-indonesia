@@ -1,1 +1,82 @@
-[{"id": "1809032001", "district_id": "180903", "name": "BUMI AGUNG"}, {"id": "1809032002", "district_id": "180903", "name": "KEJADIAN"}, {"id": "1809032003", "district_id": "180903", "name": "BATANG HARI OGAN"}, {"id": "1809032004", "district_id": "180903", "name": "NEGARA RATU WATES"}, {"id": "1809032005", "district_id": "180903", "name": "GUNUNG SUGIH BARU"}, {"id": "1809032006", "district_id": "180903", "name": "GEDUNG GUMANTI"}, {"id": "1809032007", "district_id": "180903", "name": "KRESNO WIDODO"}, {"id": "1809032008", "district_id": "180903", "name": "SINARJATI"}, {"id": "1809032009", "district_id": "180903", "name": "MARGO REJO"}, {"id": "1809032010", "district_id": "180903", "name": "GERNING"}, {"id": "1809032011", "district_id": "180903", "name": "PANCA BAKTI"}, {"id": "1809032012", "district_id": "180903", "name": "MARGO MULYO"}, {"id": "1809032013", "district_id": "180903", "name": "REJO AGUNG"}, {"id": "1809032014", "district_id": "180903", "name": "KOTA AGUNG"}, {"id": "1809032015", "district_id": "180903", "name": "TRIMULYO"}, {"id": "1809032016", "district_id": "180903", "name": "SRIWEDARI"}]
+[
+  {
+    "id": "1809032001",
+    "district_id": "180903",
+    "name": "BUMI AGUNG"
+  },
+  {
+    "id": "1809032002",
+    "district_id": "180903",
+    "name": "KEJADIAN"
+  },
+  {
+    "id": "1809032003",
+    "district_id": "180903",
+    "name": "BATANG HARI OGAN"
+  },
+  {
+    "id": "1809032004",
+    "district_id": "180903",
+    "name": "NEGARA RATU WATES"
+  },
+  {
+    "id": "1809032005",
+    "district_id": "180903",
+    "name": "GUNUNG SUGIH BARU"
+  },
+  {
+    "id": "1809032006",
+    "district_id": "180903",
+    "name": "GEDUNG GUMANTI"
+  },
+  {
+    "id": "1809032007",
+    "district_id": "180903",
+    "name": "KRESNO WIDODO"
+  },
+  {
+    "id": "1809032008",
+    "district_id": "180903",
+    "name": "SINARJATI"
+  },
+  {
+    "id": "1809032009",
+    "district_id": "180903",
+    "name": "MARGO REJO"
+  },
+  {
+    "id": "1809032010",
+    "district_id": "180903",
+    "name": "GERNING"
+  },
+  {
+    "id": "1809032011",
+    "district_id": "180903",
+    "name": "PANCA BAKTI"
+  },
+  {
+    "id": "1809032012",
+    "district_id": "180903",
+    "name": "MARGO MULYO"
+  },
+  {
+    "id": "1809032013",
+    "district_id": "180903",
+    "name": "REJO AGUNG"
+  },
+  {
+    "id": "1809032014",
+    "district_id": "180903",
+    "name": "KOTA AGUNG"
+  },
+  {
+    "id": "1809032015",
+    "district_id": "180903",
+    "name": "TRIMULYO"
+  },
+  {
+    "id": "1809032016",
+    "district_id": "180903",
+    "name": "SRIWEDARI"
+  }
+]

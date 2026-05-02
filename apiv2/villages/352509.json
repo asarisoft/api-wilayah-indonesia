@@ -1,1 +1,107 @@
-[{"id": "3525092001", "district_id": "352509", "name": "SUKOREJO"}, {"id": "3525092002", "district_id": "352509", "name": "GEDANGAN"}, {"id": "3525092003", "district_id": "352509", "name": "WADENG"}, {"id": "3525092004", "district_id": "352509", "name": "LASEM"}, {"id": "3525092005", "district_id": "352509", "name": "KERTOSONO"}, {"id": "3525092006", "district_id": "352509", "name": "SAMBIPONDOK"}, {"id": "3525092007", "district_id": "352509", "name": "RACI KULON"}, {"id": "3525092008", "district_id": "352509", "name": "GOLOKAN"}, {"id": "3525092009", "district_id": "352509", "name": "RACI TENGAH"}, {"id": "3525092010", "district_id": "352509", "name": "PURWODADI"}, {"id": "3525092011", "district_id": "352509", "name": "SIDOMULYO"}, {"id": "3525092012", "district_id": "352509", "name": "SROWO"}, {"id": "3525092013", "district_id": "352509", "name": "KAUMAN"}, {"id": "3525092014", "district_id": "352509", "name": "BUNDERAN"}, {"id": "3525092015", "district_id": "352509", "name": "ASEMPAPAK"}, {"id": "3525092016", "district_id": "352509", "name": "MRIYUNAN"}, {"id": "3525092017", "district_id": "352509", "name": "MOJOASEM"}, {"id": "3525092018", "district_id": "352509", "name": "SEDAGARAN"}, {"id": "3525092019", "district_id": "352509", "name": "NGAWEN"}, {"id": "3525092020", "district_id": "352509", "name": "PENGULU"}, {"id": "3525092021", "district_id": "352509", "name": "RANDUBOTO"}]
+[
+  {
+    "id": "3525092001",
+    "district_id": "352509",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3525092002",
+    "district_id": "352509",
+    "name": "GEDANGAN"
+  },
+  {
+    "id": "3525092003",
+    "district_id": "352509",
+    "name": "WADENG"
+  },
+  {
+    "id": "3525092004",
+    "district_id": "352509",
+    "name": "LASEM"
+  },
+  {
+    "id": "3525092005",
+    "district_id": "352509",
+    "name": "KERTOSONO"
+  },
+  {
+    "id": "3525092006",
+    "district_id": "352509",
+    "name": "SAMBIPONDOK"
+  },
+  {
+    "id": "3525092007",
+    "district_id": "352509",
+    "name": "RACI KULON"
+  },
+  {
+    "id": "3525092008",
+    "district_id": "352509",
+    "name": "GOLOKAN"
+  },
+  {
+    "id": "3525092009",
+    "district_id": "352509",
+    "name": "RACI TENGAH"
+  },
+  {
+    "id": "3525092010",
+    "district_id": "352509",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "3525092011",
+    "district_id": "352509",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3525092012",
+    "district_id": "352509",
+    "name": "SROWO"
+  },
+  {
+    "id": "3525092013",
+    "district_id": "352509",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3525092014",
+    "district_id": "352509",
+    "name": "BUNDERAN"
+  },
+  {
+    "id": "3525092015",
+    "district_id": "352509",
+    "name": "ASEMPAPAK"
+  },
+  {
+    "id": "3525092016",
+    "district_id": "352509",
+    "name": "MRIYUNAN"
+  },
+  {
+    "id": "3525092017",
+    "district_id": "352509",
+    "name": "MOJOASEM"
+  },
+  {
+    "id": "3525092018",
+    "district_id": "352509",
+    "name": "SEDAGARAN"
+  },
+  {
+    "id": "3525092019",
+    "district_id": "352509",
+    "name": "NGAWEN"
+  },
+  {
+    "id": "3525092020",
+    "district_id": "352509",
+    "name": "PENGULU"
+  },
+  {
+    "id": "3525092021",
+    "district_id": "352509",
+    "name": "RANDUBOTO"
+  }
+]

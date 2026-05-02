@@ -1,1 +1,27 @@
-[{"id": "7202242001", "district_id": "720224", "name": "WINOWANGA"}, {"id": "7202242002", "district_id": "720224", "name": "MAHOLO"}, {"id": "7202242003", "district_id": "720224", "name": "TAMADUE"}, {"id": "7202242004", "district_id": "720224", "name": "MEKARSARI"}, {"id": "7202242005", "district_id": "720224", "name": "KALEMAGO"}]
+[
+  {
+    "id": "7202242001",
+    "district_id": "720224",
+    "name": "WINOWANGA"
+  },
+  {
+    "id": "7202242002",
+    "district_id": "720224",
+    "name": "MAHOLO"
+  },
+  {
+    "id": "7202242003",
+    "district_id": "720224",
+    "name": "TAMADUE"
+  },
+  {
+    "id": "7202242004",
+    "district_id": "720224",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "7202242005",
+    "district_id": "720224",
+    "name": "KALEMAGO"
+  }
+]

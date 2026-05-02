@@ -1,1 +1,102 @@
-[{"id": "352301", "regency_id": "3523", "name": "KENDURUAN"}, {"id": "352302", "regency_id": "3523", "name": "JATIROGO"}, {"id": "352303", "regency_id": "3523", "name": "BANGILAN"}, {"id": "352304", "regency_id": "3523", "name": "BANCAR"}, {"id": "352305", "regency_id": "3523", "name": "SENORI"}, {"id": "352306", "regency_id": "3523", "name": "TAMBAKBOYO"}, {"id": "352307", "regency_id": "3523", "name": "SINGGAHAN"}, {"id": "352308", "regency_id": "3523", "name": "KEREK"}, {"id": "352309", "regency_id": "3523", "name": "PARENGAN"}, {"id": "352310", "regency_id": "3523", "name": "MONTONG"}, {"id": "352311", "regency_id": "3523", "name": "SOKO"}, {"id": "352312", "regency_id": "3523", "name": "JENU"}, {"id": "352313", "regency_id": "3523", "name": "MERAKURAK"}, {"id": "352314", "regency_id": "3523", "name": "RENGEL"}, {"id": "352315", "regency_id": "3523", "name": "SEMANDING"}, {"id": "352316", "regency_id": "3523", "name": "TUBAN"}, {"id": "352317", "regency_id": "3523", "name": "PLUMPANG"}, {"id": "352318", "regency_id": "3523", "name": "PALANG"}, {"id": "352319", "regency_id": "3523", "name": "WIDANG"}, {"id": "352320", "regency_id": "3523", "name": "GRABAGAN"}]
+[
+  {
+    "id": "352301",
+    "regency_id": "3523",
+    "name": "KENDURUAN"
+  },
+  {
+    "id": "352302",
+    "regency_id": "3523",
+    "name": "JATIROGO"
+  },
+  {
+    "id": "352303",
+    "regency_id": "3523",
+    "name": "BANGILAN"
+  },
+  {
+    "id": "352304",
+    "regency_id": "3523",
+    "name": "BANCAR"
+  },
+  {
+    "id": "352305",
+    "regency_id": "3523",
+    "name": "SENORI"
+  },
+  {
+    "id": "352306",
+    "regency_id": "3523",
+    "name": "TAMBAKBOYO"
+  },
+  {
+    "id": "352307",
+    "regency_id": "3523",
+    "name": "SINGGAHAN"
+  },
+  {
+    "id": "352308",
+    "regency_id": "3523",
+    "name": "KEREK"
+  },
+  {
+    "id": "352309",
+    "regency_id": "3523",
+    "name": "PARENGAN"
+  },
+  {
+    "id": "352310",
+    "regency_id": "3523",
+    "name": "MONTONG"
+  },
+  {
+    "id": "352311",
+    "regency_id": "3523",
+    "name": "SOKO"
+  },
+  {
+    "id": "352312",
+    "regency_id": "3523",
+    "name": "JENU"
+  },
+  {
+    "id": "352313",
+    "regency_id": "3523",
+    "name": "MERAKURAK"
+  },
+  {
+    "id": "352314",
+    "regency_id": "3523",
+    "name": "RENGEL"
+  },
+  {
+    "id": "352315",
+    "regency_id": "3523",
+    "name": "SEMANDING"
+  },
+  {
+    "id": "352316",
+    "regency_id": "3523",
+    "name": "TUBAN"
+  },
+  {
+    "id": "352317",
+    "regency_id": "3523",
+    "name": "PLUMPANG"
+  },
+  {
+    "id": "352318",
+    "regency_id": "3523",
+    "name": "PALANG"
+  },
+  {
+    "id": "352319",
+    "regency_id": "3523",
+    "name": "WIDANG"
+  },
+  {
+    "id": "352320",
+    "regency_id": "3523",
+    "name": "GRABAGAN"
+  }
+]

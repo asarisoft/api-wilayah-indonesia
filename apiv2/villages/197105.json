@@ -1,1 +1,32 @@
-[{"id": "1971051001", "district_id": "197105", "name": "TAMAN BUNGA"}, {"id": "1971051002", "district_id": "197105", "name": "BUKIT MERAPEN"}, {"id": "1971051004", "district_id": "197105", "name": "BUKIT SARI"}, {"id": "1971051005", "district_id": "197105", "name": "TUA TUNU INDAH"}, {"id": "1971051006", "district_id": "197105", "name": "KACANG PEDANG"}, {"id": "1971051007", "district_id": "197105", "name": "AIR KEPALA TUJUH"}]
+[
+  {
+    "id": "1971051001",
+    "district_id": "197105",
+    "name": "TAMAN BUNGA"
+  },
+  {
+    "id": "1971051002",
+    "district_id": "197105",
+    "name": "BUKIT MERAPEN"
+  },
+  {
+    "id": "1971051004",
+    "district_id": "197105",
+    "name": "BUKIT SARI"
+  },
+  {
+    "id": "1971051005",
+    "district_id": "197105",
+    "name": "TUA TUNU INDAH"
+  },
+  {
+    "id": "1971051006",
+    "district_id": "197105",
+    "name": "KACANG PEDANG"
+  },
+  {
+    "id": "1971051007",
+    "district_id": "197105",
+    "name": "AIR KEPALA TUJUH"
+  }
+]

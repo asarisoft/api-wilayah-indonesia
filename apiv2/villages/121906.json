@@ -1,1 +1,52 @@
-[{"id": "1219061001", "district_id": "121906", "name": "TANJUNG TIRAM"}, {"id": "1219061022", "district_id": "121906", "name": "BAGAN ARYA"}, {"id": "1219062002", "district_id": "121906", "name": "GUNTUNG"}, {"id": "1219062004", "district_id": "121906", "name": "BAGAN DALAM"}, {"id": "1219062005", "district_id": "121906", "name": "BOGAK"}, {"id": "1219062006", "district_id": "121906", "name": "SUKA MAJU"}, {"id": "1219062016", "district_id": "121906", "name": "SUKA JAYA"}, {"id": "1219062017", "district_id": "121906", "name": "PAHLAWAN"}, {"id": "1219062018", "district_id": "121906", "name": "BANDAR RAHMAT"}, {"id": "1219062019", "district_id": "121906", "name": "KAMPUNG LALANG"}]
+[
+  {
+    "id": "1219061001",
+    "district_id": "121906",
+    "name": "TANJUNG TIRAM"
+  },
+  {
+    "id": "1219061022",
+    "district_id": "121906",
+    "name": "BAGAN ARYA"
+  },
+  {
+    "id": "1219062002",
+    "district_id": "121906",
+    "name": "GUNTUNG"
+  },
+  {
+    "id": "1219062004",
+    "district_id": "121906",
+    "name": "BAGAN DALAM"
+  },
+  {
+    "id": "1219062005",
+    "district_id": "121906",
+    "name": "BOGAK"
+  },
+  {
+    "id": "1219062006",
+    "district_id": "121906",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1219062016",
+    "district_id": "121906",
+    "name": "SUKA JAYA"
+  },
+  {
+    "id": "1219062017",
+    "district_id": "121906",
+    "name": "PAHLAWAN"
+  },
+  {
+    "id": "1219062018",
+    "district_id": "121906",
+    "name": "BANDAR RAHMAT"
+  },
+  {
+    "id": "1219062019",
+    "district_id": "121906",
+    "name": "KAMPUNG LALANG"
+  }
+]

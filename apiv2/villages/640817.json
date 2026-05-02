@@ -1,1 +1,37 @@
-[{"id": "6408172001", "district_id": "640817", "name": "BATU TIMBAU"}, {"id": "6408172002", "district_id": "640817", "name": "BENO HARAPAN"}, {"id": "6408172003", "district_id": "640817", "name": "MUGI RAHAYU"}, {"id": "6408172004", "district_id": "640817", "name": "MAWAI INDAH"}, {"id": "6408172005", "district_id": "640817", "name": "HIMBA LESTARI"}, {"id": "6408172006", "district_id": "640817", "name": "TELAGA"}, {"id": "6408172007", "district_id": "640817", "name": "BATU TIMBAU ULU"}]
+[
+  {
+    "id": "6408172001",
+    "district_id": "640817",
+    "name": "BATU TIMBAU"
+  },
+  {
+    "id": "6408172002",
+    "district_id": "640817",
+    "name": "BENO HARAPAN"
+  },
+  {
+    "id": "6408172003",
+    "district_id": "640817",
+    "name": "MUGI RAHAYU"
+  },
+  {
+    "id": "6408172004",
+    "district_id": "640817",
+    "name": "MAWAI INDAH"
+  },
+  {
+    "id": "6408172005",
+    "district_id": "640817",
+    "name": "HIMBA LESTARI"
+  },
+  {
+    "id": "6408172006",
+    "district_id": "640817",
+    "name": "TELAGA"
+  },
+  {
+    "id": "6408172007",
+    "district_id": "640817",
+    "name": "BATU TIMBAU ULU"
+  }
+]

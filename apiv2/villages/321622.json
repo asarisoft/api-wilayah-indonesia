@@ -1,1 +1,37 @@
-[{"id": "3216222001", "district_id": "321622", "name": "SIRNAJATI"}, {"id": "3216222002", "district_id": "321622", "name": "RIDOGALIH"}, {"id": "3216222003", "district_id": "321622", "name": "RIDOMANAH"}, {"id": "3216222004", "district_id": "321622", "name": "WIBAWAMULYA"}, {"id": "3216222005", "district_id": "321622", "name": "CIBARUSAH KOTA"}, {"id": "3216222006", "district_id": "321622", "name": "CIBARUSAH JAYA"}, {"id": "3216222007", "district_id": "321622", "name": "SINDANGMULYA"}]
+[
+  {
+    "id": "3216222001",
+    "district_id": "321622",
+    "name": "SIRNAJATI"
+  },
+  {
+    "id": "3216222002",
+    "district_id": "321622",
+    "name": "RIDOGALIH"
+  },
+  {
+    "id": "3216222003",
+    "district_id": "321622",
+    "name": "RIDOMANAH"
+  },
+  {
+    "id": "3216222004",
+    "district_id": "321622",
+    "name": "WIBAWAMULYA"
+  },
+  {
+    "id": "3216222005",
+    "district_id": "321622",
+    "name": "CIBARUSAH KOTA"
+  },
+  {
+    "id": "3216222006",
+    "district_id": "321622",
+    "name": "CIBARUSAH JAYA"
+  },
+  {
+    "id": "3216222007",
+    "district_id": "321622",
+    "name": "SINDANGMULYA"
+  }
+]

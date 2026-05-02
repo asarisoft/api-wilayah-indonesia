@@ -1,1 +1,52 @@
-[{"id": "9103011001", "district_id": "910301", "name": "SENTANI KOTA"}, {"id": "9103011002", "district_id": "910301", "name": "DOBONSOLO"}, {"id": "9103011003", "district_id": "910301", "name": "HINEKOMBE"}, {"id": "9103012004", "district_id": "910301", "name": "SEREH"}, {"id": "9103012005", "district_id": "910301", "name": "YOBEH"}, {"id": "9103012006", "district_id": "910301", "name": "ILFELE"}, {"id": "9103012011", "district_id": "910301", "name": "HOBONG"}, {"id": "9103012017", "district_id": "910301", "name": "YAHIM"}, {"id": "9103013007", "district_id": "910301", "name": "DESA ADAT YOBOI"}, {"id": "9103013010", "district_id": "910301", "name": "DESA ADAT HEAISEAI YOMO HEAI"}]
+[
+  {
+    "id": "9103011001",
+    "district_id": "910301",
+    "name": "SENTANI KOTA"
+  },
+  {
+    "id": "9103011002",
+    "district_id": "910301",
+    "name": "DOBONSOLO"
+  },
+  {
+    "id": "9103011003",
+    "district_id": "910301",
+    "name": "HINEKOMBE"
+  },
+  {
+    "id": "9103012004",
+    "district_id": "910301",
+    "name": "SEREH"
+  },
+  {
+    "id": "9103012005",
+    "district_id": "910301",
+    "name": "YOBEH"
+  },
+  {
+    "id": "9103012006",
+    "district_id": "910301",
+    "name": "ILFELE"
+  },
+  {
+    "id": "9103012011",
+    "district_id": "910301",
+    "name": "HOBONG"
+  },
+  {
+    "id": "9103012017",
+    "district_id": "910301",
+    "name": "YAHIM"
+  },
+  {
+    "id": "9103013007",
+    "district_id": "910301",
+    "name": "DESA ADAT YOBOI"
+  },
+  {
+    "id": "9103013010",
+    "district_id": "910301",
+    "name": "DESA ADAT HEAISEAI YOMO HEAI"
+  }
+]

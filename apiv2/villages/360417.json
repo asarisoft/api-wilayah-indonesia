@@ -1,1 +1,42 @@
-[{"id": "3604172001", "district_id": "360417", "name": "CARENANG"}, {"id": "3604172002", "district_id": "360417", "name": "PAMANUK"}, {"id": "3604172003", "district_id": "360417", "name": "MANDAYA"}, {"id": "3604172004", "district_id": "360417", "name": "TERAS"}, {"id": "3604172006", "district_id": "360417", "name": "RAGAS MASIGIT"}, {"id": "3604172007", "district_id": "360417", "name": "WALIKUKUN"}, {"id": "3604172009", "district_id": "360417", "name": "PANENJOAN"}, {"id": "3604172010", "district_id": "360417", "name": "MEKARSARI"}]
+[
+  {
+    "id": "3604172001",
+    "district_id": "360417",
+    "name": "CARENANG"
+  },
+  {
+    "id": "3604172002",
+    "district_id": "360417",
+    "name": "PAMANUK"
+  },
+  {
+    "id": "3604172003",
+    "district_id": "360417",
+    "name": "MANDAYA"
+  },
+  {
+    "id": "3604172004",
+    "district_id": "360417",
+    "name": "TERAS"
+  },
+  {
+    "id": "3604172006",
+    "district_id": "360417",
+    "name": "RAGAS MASIGIT"
+  },
+  {
+    "id": "3604172007",
+    "district_id": "360417",
+    "name": "WALIKUKUN"
+  },
+  {
+    "id": "3604172009",
+    "district_id": "360417",
+    "name": "PANENJOAN"
+  },
+  {
+    "id": "3604172010",
+    "district_id": "360417",
+    "name": "MEKARSARI"
+  }
+]

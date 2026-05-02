@@ -1,1 +1,57 @@
-[{"id": "7308252001", "district_id": "730825", "name": "TELLANG KERE"}, {"id": "7308252002", "district_id": "730825", "name": "LAGORI"}, {"id": "7308252003", "district_id": "730825", "name": "GAYA BARU"}, {"id": "7308252004", "district_id": "730825", "name": "TAPONG"}, {"id": "7308252005", "district_id": "730825", "name": "SADAR"}, {"id": "7308252006", "district_id": "730825", "name": "TONDONG"}, {"id": "7308252007", "district_id": "730825", "name": "SAMAENRE"}, {"id": "7308252008", "district_id": "730825", "name": "BONTO MASUNGGU"}, {"id": "7308252009", "district_id": "730825", "name": "PALLAWA"}, {"id": "7308252010", "district_id": "730825", "name": "POLEWALI"}, {"id": "7308252011", "district_id": "730825", "name": "BATU PUTIH"}]
+[
+  {
+    "id": "7308252001",
+    "district_id": "730825",
+    "name": "TELLANG KERE"
+  },
+  {
+    "id": "7308252002",
+    "district_id": "730825",
+    "name": "LAGORI"
+  },
+  {
+    "id": "7308252003",
+    "district_id": "730825",
+    "name": "GAYA BARU"
+  },
+  {
+    "id": "7308252004",
+    "district_id": "730825",
+    "name": "TAPONG"
+  },
+  {
+    "id": "7308252005",
+    "district_id": "730825",
+    "name": "SADAR"
+  },
+  {
+    "id": "7308252006",
+    "district_id": "730825",
+    "name": "TONDONG"
+  },
+  {
+    "id": "7308252007",
+    "district_id": "730825",
+    "name": "SAMAENRE"
+  },
+  {
+    "id": "7308252008",
+    "district_id": "730825",
+    "name": "BONTO MASUNGGU"
+  },
+  {
+    "id": "7308252009",
+    "district_id": "730825",
+    "name": "PALLAWA"
+  },
+  {
+    "id": "7308252010",
+    "district_id": "730825",
+    "name": "POLEWALI"
+  },
+  {
+    "id": "7308252011",
+    "district_id": "730825",
+    "name": "BATU PUTIH"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3208312001", "district_id": "320831", "name": "SINDANGSARI"}, {"id": "3208312002", "district_id": "320831", "name": "KADUAGUNG"}, {"id": "3208312003", "district_id": "320831", "name": "KERTAUNGARAN"}, {"id": "3208312004", "district_id": "320831", "name": "SINDANGAGUNG"}, {"id": "3208312005", "district_id": "320831", "name": "BALONG"}, {"id": "3208312006", "district_id": "320831", "name": "KERTAYASA"}, {"id": "3208312007", "district_id": "320831", "name": "KERTAWANGUNAN"}, {"id": "3208312008", "district_id": "320831", "name": "BABAKANREUMA"}, {"id": "3208312009", "district_id": "320831", "name": "TIRTAWANGUNAN"}, {"id": "3208312010", "district_id": "320831", "name": "DUKUHLOR"}, {"id": "3208312011", "district_id": "320831", "name": "TARAJU"}, {"id": "3208312012", "district_id": "320831", "name": "MEKARMUKTI"}]
+[
+  {
+    "id": "3208312001",
+    "district_id": "320831",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3208312002",
+    "district_id": "320831",
+    "name": "KADUAGUNG"
+  },
+  {
+    "id": "3208312003",
+    "district_id": "320831",
+    "name": "KERTAUNGARAN"
+  },
+  {
+    "id": "3208312004",
+    "district_id": "320831",
+    "name": "SINDANGAGUNG"
+  },
+  {
+    "id": "3208312005",
+    "district_id": "320831",
+    "name": "BALONG"
+  },
+  {
+    "id": "3208312006",
+    "district_id": "320831",
+    "name": "KERTAYASA"
+  },
+  {
+    "id": "3208312007",
+    "district_id": "320831",
+    "name": "KERTAWANGUNAN"
+  },
+  {
+    "id": "3208312008",
+    "district_id": "320831",
+    "name": "BABAKANREUMA"
+  },
+  {
+    "id": "3208312009",
+    "district_id": "320831",
+    "name": "TIRTAWANGUNAN"
+  },
+  {
+    "id": "3208312010",
+    "district_id": "320831",
+    "name": "DUKUHLOR"
+  },
+  {
+    "id": "3208312011",
+    "district_id": "320831",
+    "name": "TARAJU"
+  },
+  {
+    "id": "3208312012",
+    "district_id": "320831",
+    "name": "MEKARMUKTI"
+  }
+]

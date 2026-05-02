@@ -1,1 +1,37 @@
-[{"id": "1101152001", "district_id": "110115", "name": "PASIE SEUBADEH"}, {"id": "1101152002", "district_id": "110115", "name": "LADANG RIMBA"}, {"id": "1101152003", "district_id": "110115", "name": "UJONG PULO RAYEUK"}, {"id": "1101152004", "district_id": "110115", "name": "SAWAH TINGKEUM"}, {"id": "1101152005", "district_id": "110115", "name": "SIMPANG"}, {"id": "1101152006", "district_id": "110115", "name": "UJONG PULO CUT"}, {"id": "1101152008", "district_id": "110115", "name": "SEULEUKAT"}]
+[
+  {
+    "id": "1101152001",
+    "district_id": "110115",
+    "name": "PASIE SEUBADEH"
+  },
+  {
+    "id": "1101152002",
+    "district_id": "110115",
+    "name": "LADANG RIMBA"
+  },
+  {
+    "id": "1101152003",
+    "district_id": "110115",
+    "name": "UJONG PULO RAYEUK"
+  },
+  {
+    "id": "1101152004",
+    "district_id": "110115",
+    "name": "SAWAH TINGKEUM"
+  },
+  {
+    "id": "1101152005",
+    "district_id": "110115",
+    "name": "SIMPANG"
+  },
+  {
+    "id": "1101152006",
+    "district_id": "110115",
+    "name": "UJONG PULO CUT"
+  },
+  {
+    "id": "1101152008",
+    "district_id": "110115",
+    "name": "SEULEUKAT"
+  }
+]

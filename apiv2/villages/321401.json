@@ -1,1 +1,52 @@
-[{"id": "3214011001", "district_id": "321401", "name": "NAGRI KIDUL"}, {"id": "3214011002", "district_id": "321401", "name": "NAGRI KALER"}, {"id": "3214011003", "district_id": "321401", "name": "NAGRI TENGAH"}, {"id": "3214011004", "district_id": "321401", "name": "SINDANGKASIH"}, {"id": "3214011005", "district_id": "321401", "name": "CIPAISAN"}, {"id": "3214011006", "district_id": "321401", "name": "PURWAMEKAR"}, {"id": "3214011007", "district_id": "321401", "name": "CISEUREUH"}, {"id": "3214011008", "district_id": "321401", "name": "TEGALMUNJUL"}, {"id": "3214011009", "district_id": "321401", "name": "MUNJULJAYA"}, {"id": "3214012010", "district_id": "321401", "name": "CITALANG"}]
+[
+  {
+    "id": "3214011001",
+    "district_id": "321401",
+    "name": "NAGRI KIDUL"
+  },
+  {
+    "id": "3214011002",
+    "district_id": "321401",
+    "name": "NAGRI KALER"
+  },
+  {
+    "id": "3214011003",
+    "district_id": "321401",
+    "name": "NAGRI TENGAH"
+  },
+  {
+    "id": "3214011004",
+    "district_id": "321401",
+    "name": "SINDANGKASIH"
+  },
+  {
+    "id": "3214011005",
+    "district_id": "321401",
+    "name": "CIPAISAN"
+  },
+  {
+    "id": "3214011006",
+    "district_id": "321401",
+    "name": "PURWAMEKAR"
+  },
+  {
+    "id": "3214011007",
+    "district_id": "321401",
+    "name": "CISEUREUH"
+  },
+  {
+    "id": "3214011008",
+    "district_id": "321401",
+    "name": "TEGALMUNJUL"
+  },
+  {
+    "id": "3214011009",
+    "district_id": "321401",
+    "name": "MUNJULJAYA"
+  },
+  {
+    "id": "3214012010",
+    "district_id": "321401",
+    "name": "CITALANG"
+  }
+]

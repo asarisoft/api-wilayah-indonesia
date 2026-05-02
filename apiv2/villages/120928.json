@@ -1,1 +1,27 @@
-[{"id": "1209282001", "district_id": "120928", "name": "SILO BARU"}, {"id": "1209282002", "district_id": "120928", "name": "SILO LAMA"}, {"id": "1209282003", "district_id": "120928", "name": "SILO BONTO"}, {"id": "1209282004", "district_id": "120928", "name": "LUBUK PALAS"}, {"id": "1209282005", "district_id": "120928", "name": "BANGUN SARI"}]
+[
+  {
+    "id": "1209282001",
+    "district_id": "120928",
+    "name": "SILO BARU"
+  },
+  {
+    "id": "1209282002",
+    "district_id": "120928",
+    "name": "SILO LAMA"
+  },
+  {
+    "id": "1209282003",
+    "district_id": "120928",
+    "name": "SILO BONTO"
+  },
+  {
+    "id": "1209282004",
+    "district_id": "120928",
+    "name": "LUBUK PALAS"
+  },
+  {
+    "id": "1209282005",
+    "district_id": "120928",
+    "name": "BANGUN SARI"
+  }
+]

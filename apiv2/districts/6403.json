@@ -1,1 +1,67 @@
-[{"id": "640301", "regency_id": "6403", "name": "KELAY"}, {"id": "640302", "regency_id": "6403", "name": "TALISAYAN"}, {"id": "640303", "regency_id": "6403", "name": "SAMBALIUNG"}, {"id": "640304", "regency_id": "6403", "name": "SEGAH"}, {"id": "640305", "regency_id": "6403", "name": "TANJUNG REDEB"}, {"id": "640306", "regency_id": "6403", "name": "GUNUNG TABUR"}, {"id": "640307", "regency_id": "6403", "name": "PULAU DERAWAN"}, {"id": "640308", "regency_id": "6403", "name": "BIDUK-BIDUK"}, {"id": "640309", "regency_id": "6403", "name": "TELUK BAYUR"}, {"id": "640310", "regency_id": "6403", "name": "TABALAR"}, {"id": "640311", "regency_id": "6403", "name": "MARATUA"}, {"id": "640312", "regency_id": "6403", "name": "BATU PUTIH"}, {"id": "640313", "regency_id": "6403", "name": "BIATAN"}]
+[
+  {
+    "id": "640301",
+    "regency_id": "6403",
+    "name": "KELAY"
+  },
+  {
+    "id": "640302",
+    "regency_id": "6403",
+    "name": "TALISAYAN"
+  },
+  {
+    "id": "640303",
+    "regency_id": "6403",
+    "name": "SAMBALIUNG"
+  },
+  {
+    "id": "640304",
+    "regency_id": "6403",
+    "name": "SEGAH"
+  },
+  {
+    "id": "640305",
+    "regency_id": "6403",
+    "name": "TANJUNG REDEB"
+  },
+  {
+    "id": "640306",
+    "regency_id": "6403",
+    "name": "GUNUNG TABUR"
+  },
+  {
+    "id": "640307",
+    "regency_id": "6403",
+    "name": "PULAU DERAWAN"
+  },
+  {
+    "id": "640308",
+    "regency_id": "6403",
+    "name": "BIDUK-BIDUK"
+  },
+  {
+    "id": "640309",
+    "regency_id": "6403",
+    "name": "TELUK BAYUR"
+  },
+  {
+    "id": "640310",
+    "regency_id": "6403",
+    "name": "TABALAR"
+  },
+  {
+    "id": "640311",
+    "regency_id": "6403",
+    "name": "MARATUA"
+  },
+  {
+    "id": "640312",
+    "regency_id": "6403",
+    "name": "BATU PUTIH"
+  },
+  {
+    "id": "640313",
+    "regency_id": "6403",
+    "name": "BIATAN"
+  }
+]

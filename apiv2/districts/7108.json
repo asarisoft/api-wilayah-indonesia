@@ -1,1 +1,32 @@
-[{"id": "710801", "regency_id": "7108", "name": "SANGKUB"}, {"id": "710802", "regency_id": "7108", "name": "BINTAUNA"}, {"id": "710803", "regency_id": "7108", "name": "BOLANGITANG TIMUR"}, {"id": "710804", "regency_id": "7108", "name": "BOLANGITANG BARAT"}, {"id": "710805", "regency_id": "7108", "name": "KAIDIPANG"}, {"id": "710806", "regency_id": "7108", "name": "PINOGALUMAN"}]
+[
+  {
+    "id": "710801",
+    "regency_id": "7108",
+    "name": "SANGKUB"
+  },
+  {
+    "id": "710802",
+    "regency_id": "7108",
+    "name": "BINTAUNA"
+  },
+  {
+    "id": "710803",
+    "regency_id": "7108",
+    "name": "BOLANGITANG TIMUR"
+  },
+  {
+    "id": "710804",
+    "regency_id": "7108",
+    "name": "BOLANGITANG BARAT"
+  },
+  {
+    "id": "710805",
+    "regency_id": "7108",
+    "name": "KAIDIPANG"
+  },
+  {
+    "id": "710806",
+    "regency_id": "7108",
+    "name": "PINOGALUMAN"
+  }
+]

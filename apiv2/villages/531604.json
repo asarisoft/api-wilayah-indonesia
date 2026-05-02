@@ -1,1 +1,107 @@
-[{"id": "5316041001", "district_id": "531604", "name": "MAUPONGGO"}, {"id": "5316042002", "district_id": "531604", "name": "BELA"}, {"id": "5316042003", "district_id": "531604", "name": "WOLOKISA"}, {"id": "5316042004", "district_id": "531604", "name": "WULIWALO"}, {"id": "5316042005", "district_id": "531604", "name": "MAUKELI"}, {"id": "5316042006", "district_id": "531604", "name": "AEWOE"}, {"id": "5316042007", "district_id": "531604", "name": "WOLOTELU"}, {"id": "5316042008", "district_id": "531604", "name": "SAWU"}, {"id": "5316042009", "district_id": "531604", "name": "JAWAPOGO"}, {"id": "5316042010", "district_id": "531604", "name": "ULULOGA"}, {"id": "5316042011", "district_id": "531604", "name": "LODAOLO"}, {"id": "5316042012", "district_id": "531604", "name": "WOLOEDE"}, {"id": "5316042013", "district_id": "531604", "name": "WOEWOLO"}, {"id": "5316042014", "district_id": "531604", "name": "SALALEJO"}, {"id": "5316042015", "district_id": "531604", "name": "UA"}, {"id": "5316042016", "district_id": "531604", "name": "KOTAGANA"}, {"id": "5316042017", "district_id": "531604", "name": "LOKALABA"}, {"id": "5316042018", "district_id": "531604", "name": "LAJAWAJO"}, {"id": "5316042019", "district_id": "531604", "name": "KELIWATULEWA"}, {"id": "5316042020", "district_id": "531604", "name": "WOLOLELU"}, {"id": "5316042021", "district_id": "531604", "name": "SELALEJO TIMUR"}]
+[
+  {
+    "id": "5316041001",
+    "district_id": "531604",
+    "name": "MAUPONGGO"
+  },
+  {
+    "id": "5316042002",
+    "district_id": "531604",
+    "name": "BELA"
+  },
+  {
+    "id": "5316042003",
+    "district_id": "531604",
+    "name": "WOLOKISA"
+  },
+  {
+    "id": "5316042004",
+    "district_id": "531604",
+    "name": "WULIWALO"
+  },
+  {
+    "id": "5316042005",
+    "district_id": "531604",
+    "name": "MAUKELI"
+  },
+  {
+    "id": "5316042006",
+    "district_id": "531604",
+    "name": "AEWOE"
+  },
+  {
+    "id": "5316042007",
+    "district_id": "531604",
+    "name": "WOLOTELU"
+  },
+  {
+    "id": "5316042008",
+    "district_id": "531604",
+    "name": "SAWU"
+  },
+  {
+    "id": "5316042009",
+    "district_id": "531604",
+    "name": "JAWAPOGO"
+  },
+  {
+    "id": "5316042010",
+    "district_id": "531604",
+    "name": "ULULOGA"
+  },
+  {
+    "id": "5316042011",
+    "district_id": "531604",
+    "name": "LODAOLO"
+  },
+  {
+    "id": "5316042012",
+    "district_id": "531604",
+    "name": "WOLOEDE"
+  },
+  {
+    "id": "5316042013",
+    "district_id": "531604",
+    "name": "WOEWOLO"
+  },
+  {
+    "id": "5316042014",
+    "district_id": "531604",
+    "name": "SALALEJO"
+  },
+  {
+    "id": "5316042015",
+    "district_id": "531604",
+    "name": "UA"
+  },
+  {
+    "id": "5316042016",
+    "district_id": "531604",
+    "name": "KOTAGANA"
+  },
+  {
+    "id": "5316042017",
+    "district_id": "531604",
+    "name": "LOKALABA"
+  },
+  {
+    "id": "5316042018",
+    "district_id": "531604",
+    "name": "LAJAWAJO"
+  },
+  {
+    "id": "5316042019",
+    "district_id": "531604",
+    "name": "KELIWATULEWA"
+  },
+  {
+    "id": "5316042020",
+    "district_id": "531604",
+    "name": "WOLOLELU"
+  },
+  {
+    "id": "5316042021",
+    "district_id": "531604",
+    "name": "SELALEJO TIMUR"
+  }
+]

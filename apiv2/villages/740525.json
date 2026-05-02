@@ -1,1 +1,52 @@
-[{"id": "7405252001", "district_id": "740525", "name": "PAPAWU"}, {"id": "7405252002", "district_id": "740525", "name": "ANESE"}, {"id": "7405252003", "district_id": "740525", "name": "BEKENGGASU"}, {"id": "7405252004", "district_id": "740525", "name": "WATUMOKALA"}, {"id": "7405252005", "district_id": "740525", "name": "MATAUPE"}, {"id": "7405252006", "district_id": "740525", "name": "BIMAMAROA"}, {"id": "7405252007", "district_id": "740525", "name": "WAWOBENDE"}, {"id": "7405252008", "district_id": "740525", "name": "LAPOA INDAH"}, {"id": "7405252009", "district_id": "740525", "name": "PUUNDOHO"}, {"id": "7405252010", "district_id": "740525", "name": "MATAIWOI"}]
+[
+  {
+    "id": "7405252001",
+    "district_id": "740525",
+    "name": "PAPAWU"
+  },
+  {
+    "id": "7405252002",
+    "district_id": "740525",
+    "name": "ANESE"
+  },
+  {
+    "id": "7405252003",
+    "district_id": "740525",
+    "name": "BEKENGGASU"
+  },
+  {
+    "id": "7405252004",
+    "district_id": "740525",
+    "name": "WATUMOKALA"
+  },
+  {
+    "id": "7405252005",
+    "district_id": "740525",
+    "name": "MATAUPE"
+  },
+  {
+    "id": "7405252006",
+    "district_id": "740525",
+    "name": "BIMAMAROA"
+  },
+  {
+    "id": "7405252007",
+    "district_id": "740525",
+    "name": "WAWOBENDE"
+  },
+  {
+    "id": "7405252008",
+    "district_id": "740525",
+    "name": "LAPOA INDAH"
+  },
+  {
+    "id": "7405252009",
+    "district_id": "740525",
+    "name": "PUUNDOHO"
+  },
+  {
+    "id": "7405252010",
+    "district_id": "740525",
+    "name": "MATAIWOI"
+  }
+]

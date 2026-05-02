@@ -1,1 +1,62 @@
-[{"id": "3601022001", "district_id": "360102", "name": "RANCAPINANG"}, {"id": "3601022002", "district_id": "360102", "name": "CIBADAK"}, {"id": "3601022003", "district_id": "360102", "name": "TUGU"}, {"id": "3601022004", "district_id": "360102", "name": "BATUHIDEUNG"}, {"id": "3601022005", "district_id": "360102", "name": "PADASUKA"}, {"id": "3601022006", "district_id": "360102", "name": "CIBURIAL"}, {"id": "3601022007", "district_id": "360102", "name": "CIJARALANG"}, {"id": "3601022008", "district_id": "360102", "name": "CIMANGGU"}, {"id": "3601022009", "district_id": "360102", "name": "MANGKUALAM"}, {"id": "3601022010", "district_id": "360102", "name": "TANGKIL SARI"}, {"id": "3601022011", "district_id": "360102", "name": "WARINGIN KURUNG"}, {"id": "3601022012", "district_id": "360102", "name": "KRAMATJAYA"}]
+[
+  {
+    "id": "3601022001",
+    "district_id": "360102",
+    "name": "RANCAPINANG"
+  },
+  {
+    "id": "3601022002",
+    "district_id": "360102",
+    "name": "CIBADAK"
+  },
+  {
+    "id": "3601022003",
+    "district_id": "360102",
+    "name": "TUGU"
+  },
+  {
+    "id": "3601022004",
+    "district_id": "360102",
+    "name": "BATUHIDEUNG"
+  },
+  {
+    "id": "3601022005",
+    "district_id": "360102",
+    "name": "PADASUKA"
+  },
+  {
+    "id": "3601022006",
+    "district_id": "360102",
+    "name": "CIBURIAL"
+  },
+  {
+    "id": "3601022007",
+    "district_id": "360102",
+    "name": "CIJARALANG"
+  },
+  {
+    "id": "3601022008",
+    "district_id": "360102",
+    "name": "CIMANGGU"
+  },
+  {
+    "id": "3601022009",
+    "district_id": "360102",
+    "name": "MANGKUALAM"
+  },
+  {
+    "id": "3601022010",
+    "district_id": "360102",
+    "name": "TANGKIL SARI"
+  },
+  {
+    "id": "3601022011",
+    "district_id": "360102",
+    "name": "WARINGIN KURUNG"
+  },
+  {
+    "id": "3601022012",
+    "district_id": "360102",
+    "name": "KRAMATJAYA"
+  }
+]

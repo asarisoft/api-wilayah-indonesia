@@ -1,1 +1,72 @@
-[{"id": "3520091009", "district_id": "352009", "name": "TINAP"}, {"id": "3520092001", "district_id": "352009", "name": "KALANGKETI"}, {"id": "3520092002", "district_id": "352009", "name": "TAMANAN"}, {"id": "3520092003", "district_id": "352009", "name": "TAMBAKMAS"}, {"id": "3520092004", "district_id": "352009", "name": "BANDAR"}, {"id": "3520092005", "district_id": "352009", "name": "BIBIS"}, {"id": "3520092006", "district_id": "352009", "name": "SUKOMORO"}, {"id": "3520092007", "district_id": "352009", "name": "BULU"}, {"id": "3520092008", "district_id": "352009", "name": "POJOKSARI"}, {"id": "3520092010", "district_id": "352009", "name": "KEDUNGGUWO"}, {"id": "3520092011", "district_id": "352009", "name": "KEMBANGAN"}, {"id": "3520092012", "district_id": "352009", "name": "KENTANGAN"}, {"id": "3520092013", "district_id": "352009", "name": "BOGEM"}, {"id": "3520092014", "district_id": "352009", "name": "TRUNENG"}]
+[
+  {
+    "id": "3520091009",
+    "district_id": "352009",
+    "name": "TINAP"
+  },
+  {
+    "id": "3520092001",
+    "district_id": "352009",
+    "name": "KALANGKETI"
+  },
+  {
+    "id": "3520092002",
+    "district_id": "352009",
+    "name": "TAMANAN"
+  },
+  {
+    "id": "3520092003",
+    "district_id": "352009",
+    "name": "TAMBAKMAS"
+  },
+  {
+    "id": "3520092004",
+    "district_id": "352009",
+    "name": "BANDAR"
+  },
+  {
+    "id": "3520092005",
+    "district_id": "352009",
+    "name": "BIBIS"
+  },
+  {
+    "id": "3520092006",
+    "district_id": "352009",
+    "name": "SUKOMORO"
+  },
+  {
+    "id": "3520092007",
+    "district_id": "352009",
+    "name": "BULU"
+  },
+  {
+    "id": "3520092008",
+    "district_id": "352009",
+    "name": "POJOKSARI"
+  },
+  {
+    "id": "3520092010",
+    "district_id": "352009",
+    "name": "KEDUNGGUWO"
+  },
+  {
+    "id": "3520092011",
+    "district_id": "352009",
+    "name": "KEMBANGAN"
+  },
+  {
+    "id": "3520092012",
+    "district_id": "352009",
+    "name": "KENTANGAN"
+  },
+  {
+    "id": "3520092013",
+    "district_id": "352009",
+    "name": "BOGEM"
+  },
+  {
+    "id": "3520092014",
+    "district_id": "352009",
+    "name": "TRUNENG"
+  }
+]

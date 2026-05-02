@@ -1,1 +1,72 @@
-[{"id": "1409112001", "district_id": "140911", "name": "PASAR INUMAN"}, {"id": "1409112002", "district_id": "140911", "name": "KOTO INUMAN"}, {"id": "1409112003", "district_id": "140911", "name": "PULAUPANJANG HULU"}, {"id": "1409112004", "district_id": "140911", "name": "PULAUPANJANG HILIR"}, {"id": "1409112005", "district_id": "140911", "name": "SIGARUNTANG"}, {"id": "1409112006", "district_id": "140911", "name": "PULAUBUSUK"}, {"id": "1409112007", "district_id": "140911", "name": "BEDENG SIKURAN"}, {"id": "1409112008", "district_id": "140911", "name": "BANJAR NAN TIGO"}, {"id": "1409112009", "district_id": "140911", "name": "PULAUSIPAN"}, {"id": "1409112010", "district_id": "140911", "name": "PULAUBUSUK JAYA"}, {"id": "1409112011", "district_id": "140911", "name": "SEBERANG PULAU BUSUK"}, {"id": "1409112012", "district_id": "140911", "name": "LEBUH LURUS"}, {"id": "1409112013", "district_id": "140911", "name": "KAMPUNG BARU KOTO"}, {"id": "1409112014", "district_id": "140911", "name": "KETAPING JAYA"}]
+[
+  {
+    "id": "1409112001",
+    "district_id": "140911",
+    "name": "PASAR INUMAN"
+  },
+  {
+    "id": "1409112002",
+    "district_id": "140911",
+    "name": "KOTO INUMAN"
+  },
+  {
+    "id": "1409112003",
+    "district_id": "140911",
+    "name": "PULAUPANJANG HULU"
+  },
+  {
+    "id": "1409112004",
+    "district_id": "140911",
+    "name": "PULAUPANJANG HILIR"
+  },
+  {
+    "id": "1409112005",
+    "district_id": "140911",
+    "name": "SIGARUNTANG"
+  },
+  {
+    "id": "1409112006",
+    "district_id": "140911",
+    "name": "PULAUBUSUK"
+  },
+  {
+    "id": "1409112007",
+    "district_id": "140911",
+    "name": "BEDENG SIKURAN"
+  },
+  {
+    "id": "1409112008",
+    "district_id": "140911",
+    "name": "BANJAR NAN TIGO"
+  },
+  {
+    "id": "1409112009",
+    "district_id": "140911",
+    "name": "PULAUSIPAN"
+  },
+  {
+    "id": "1409112010",
+    "district_id": "140911",
+    "name": "PULAUBUSUK JAYA"
+  },
+  {
+    "id": "1409112011",
+    "district_id": "140911",
+    "name": "SEBERANG PULAU BUSUK"
+  },
+  {
+    "id": "1409112012",
+    "district_id": "140911",
+    "name": "LEBUH LURUS"
+  },
+  {
+    "id": "1409112013",
+    "district_id": "140911",
+    "name": "KAMPUNG BARU KOTO"
+  },
+  {
+    "id": "1409112014",
+    "district_id": "140911",
+    "name": "KETAPING JAYA"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "3204102001", "district_id": "320410", "name": "MARGAASIH"}, {"id": "3204102002", "district_id": "320410", "name": "LAGADAR"}, {"id": "3204102003", "district_id": "320410", "name": "NANJUNG"}, {"id": "3204102004", "district_id": "320410", "name": "MEKARRAHAYU"}, {"id": "3204102005", "district_id": "320410", "name": "RAHAYU"}, {"id": "3204102006", "district_id": "320410", "name": "CIGONDEWAH HILIR"}]
+[
+  {
+    "id": "3204102001",
+    "district_id": "320410",
+    "name": "MARGAASIH"
+  },
+  {
+    "id": "3204102002",
+    "district_id": "320410",
+    "name": "LAGADAR"
+  },
+  {
+    "id": "3204102003",
+    "district_id": "320410",
+    "name": "NANJUNG"
+  },
+  {
+    "id": "3204102004",
+    "district_id": "320410",
+    "name": "MEKARRAHAYU"
+  },
+  {
+    "id": "3204102005",
+    "district_id": "320410",
+    "name": "RAHAYU"
+  },
+  {
+    "id": "3204102006",
+    "district_id": "320410",
+    "name": "CIGONDEWAH HILIR"
+  }
+]

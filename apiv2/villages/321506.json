@@ -1,1 +1,47 @@
-[{"id": "3215062001", "district_id": "321506", "name": "RENGASDENGKLOK SELATAN"}, {"id": "3215062002", "district_id": "321506", "name": "RENGASDENGKLOK UTARA"}, {"id": "3215062003", "district_id": "321506", "name": "KERTASARI"}, {"id": "3215062004", "district_id": "321506", "name": "DEWISARI"}, {"id": "3215062005", "district_id": "321506", "name": "AMANSARI"}, {"id": "3215062006", "district_id": "321506", "name": "KARYASARI"}, {"id": "3215062007", "district_id": "321506", "name": "DUKUHKARYA"}, {"id": "3215062008", "district_id": "321506", "name": "KALANGSARI"}, {"id": "3215062009", "district_id": "321506", "name": "KALANGSURYA"}]
+[
+  {
+    "id": "3215062001",
+    "district_id": "321506",
+    "name": "RENGASDENGKLOK SELATAN"
+  },
+  {
+    "id": "3215062002",
+    "district_id": "321506",
+    "name": "RENGASDENGKLOK UTARA"
+  },
+  {
+    "id": "3215062003",
+    "district_id": "321506",
+    "name": "KERTASARI"
+  },
+  {
+    "id": "3215062004",
+    "district_id": "321506",
+    "name": "DEWISARI"
+  },
+  {
+    "id": "3215062005",
+    "district_id": "321506",
+    "name": "AMANSARI"
+  },
+  {
+    "id": "3215062006",
+    "district_id": "321506",
+    "name": "KARYASARI"
+  },
+  {
+    "id": "3215062007",
+    "district_id": "321506",
+    "name": "DUKUHKARYA"
+  },
+  {
+    "id": "3215062008",
+    "district_id": "321506",
+    "name": "KALANGSARI"
+  },
+  {
+    "id": "3215062009",
+    "district_id": "321506",
+    "name": "KALANGSURYA"
+  }
+]

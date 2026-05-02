@@ -1,1 +1,57 @@
-[{"id": "1115092001", "district_id": "111509", "name": "KUALA TRIPA"}, {"id": "1115092002", "district_id": "111509", "name": "BABAH LUENG"}, {"id": "1115092003", "district_id": "111509", "name": "DRIEN TUJOH"}, {"id": "1115092004", "district_id": "111509", "name": "LUENG KEUBEU JAGAT"}, {"id": "1115092005", "district_id": "111509", "name": "KABU"}, {"id": "1115092006", "district_id": "111509", "name": "PASIE KEUBE DOM"}, {"id": "1115092007", "district_id": "111509", "name": "NEUBOK YEE PK"}, {"id": "1115092008", "district_id": "111509", "name": "NEUBOK YEE PP"}, {"id": "1115092009", "district_id": "111509", "name": "MON DUA"}, {"id": "1115092010", "district_id": "111509", "name": "UJONG KRUENG"}, {"id": "1115092011", "district_id": "111509", "name": "PANTON PANGE"}]
+[
+  {
+    "id": "1115092001",
+    "district_id": "111509",
+    "name": "KUALA TRIPA"
+  },
+  {
+    "id": "1115092002",
+    "district_id": "111509",
+    "name": "BABAH LUENG"
+  },
+  {
+    "id": "1115092003",
+    "district_id": "111509",
+    "name": "DRIEN TUJOH"
+  },
+  {
+    "id": "1115092004",
+    "district_id": "111509",
+    "name": "LUENG KEUBEU JAGAT"
+  },
+  {
+    "id": "1115092005",
+    "district_id": "111509",
+    "name": "KABU"
+  },
+  {
+    "id": "1115092006",
+    "district_id": "111509",
+    "name": "PASIE KEUBE DOM"
+  },
+  {
+    "id": "1115092007",
+    "district_id": "111509",
+    "name": "NEUBOK YEE PK"
+  },
+  {
+    "id": "1115092008",
+    "district_id": "111509",
+    "name": "NEUBOK YEE PP"
+  },
+  {
+    "id": "1115092009",
+    "district_id": "111509",
+    "name": "MON DUA"
+  },
+  {
+    "id": "1115092010",
+    "district_id": "111509",
+    "name": "UJONG KRUENG"
+  },
+  {
+    "id": "1115092011",
+    "district_id": "111509",
+    "name": "PANTON PANGE"
+  }
+]

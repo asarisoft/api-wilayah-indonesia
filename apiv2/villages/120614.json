@@ -1,1 +1,37 @@
-[{"id": "1206142001", "district_id": "120614", "name": "KUBU COLIA"}, {"id": "1206142002", "district_id": "120614", "name": "UJUNG SAMPUN"}, {"id": "1206142003", "district_id": "120614", "name": "BUKIT"}, {"id": "1206142004", "district_id": "120614", "name": "MELAS"}, {"id": "1206142005", "district_id": "120614", "name": "SAMPUN"}, {"id": "1206142006", "district_id": "120614", "name": "SUGIHEN"}, {"id": "1206142007", "district_id": "120614", "name": "DOLAT RAYAT"}]
+[
+  {
+    "id": "1206142001",
+    "district_id": "120614",
+    "name": "KUBU COLIA"
+  },
+  {
+    "id": "1206142002",
+    "district_id": "120614",
+    "name": "UJUNG SAMPUN"
+  },
+  {
+    "id": "1206142003",
+    "district_id": "120614",
+    "name": "BUKIT"
+  },
+  {
+    "id": "1206142004",
+    "district_id": "120614",
+    "name": "MELAS"
+  },
+  {
+    "id": "1206142005",
+    "district_id": "120614",
+    "name": "SAMPUN"
+  },
+  {
+    "id": "1206142006",
+    "district_id": "120614",
+    "name": "SUGIHEN"
+  },
+  {
+    "id": "1206142007",
+    "district_id": "120614",
+    "name": "DOLAT RAYAT"
+  }
+]

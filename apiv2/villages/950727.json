@@ -1,1 +1,62 @@
-[{"id": "9507272001", "district_id": "950727", "name": "LELAM"}, {"id": "9507272002", "district_id": "950727", "name": "TEIKO"}, {"id": "9507272003", "district_id": "950727", "name": "YANEKO"}, {"id": "9507272004", "district_id": "950727", "name": "KIMBO"}, {"id": "9507272005", "district_id": "950727", "name": "PENGGIMA"}, {"id": "9507272006", "district_id": "950727", "name": "MAGELO"}, {"id": "9507272007", "district_id": "950727", "name": "ONESIA"}, {"id": "9507272008", "district_id": "950727", "name": "WAPUR"}, {"id": "9507272009", "district_id": "950727", "name": "ANDEYOK"}, {"id": "9507272010", "district_id": "950727", "name": "KIBINGGA"}, {"id": "9507272011", "district_id": "950727", "name": "OGOBAKNI"}, {"id": "9507272012", "district_id": "950727", "name": "JILAM"}]
+[
+  {
+    "id": "9507272001",
+    "district_id": "950727",
+    "name": "LELAM"
+  },
+  {
+    "id": "9507272002",
+    "district_id": "950727",
+    "name": "TEIKO"
+  },
+  {
+    "id": "9507272003",
+    "district_id": "950727",
+    "name": "YANEKO"
+  },
+  {
+    "id": "9507272004",
+    "district_id": "950727",
+    "name": "KIMBO"
+  },
+  {
+    "id": "9507272005",
+    "district_id": "950727",
+    "name": "PENGGIMA"
+  },
+  {
+    "id": "9507272006",
+    "district_id": "950727",
+    "name": "MAGELO"
+  },
+  {
+    "id": "9507272007",
+    "district_id": "950727",
+    "name": "ONESIA"
+  },
+  {
+    "id": "9507272008",
+    "district_id": "950727",
+    "name": "WAPUR"
+  },
+  {
+    "id": "9507272009",
+    "district_id": "950727",
+    "name": "ANDEYOK"
+  },
+  {
+    "id": "9507272010",
+    "district_id": "950727",
+    "name": "KIBINGGA"
+  },
+  {
+    "id": "9507272011",
+    "district_id": "950727",
+    "name": "OGOBAKNI"
+  },
+  {
+    "id": "9507272012",
+    "district_id": "950727",
+    "name": "JILAM"
+  }
+]

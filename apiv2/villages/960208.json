@@ -1,1 +1,27 @@
-[{"id": "9602082001", "district_id": "960208", "name": "KAIS"}, {"id": "9602082002", "district_id": "960208", "name": "TAPURI"}, {"id": "9602082003", "district_id": "960208", "name": "YAHADIAN"}, {"id": "9602082004", "district_id": "960208", "name": "BENAWA I"}, {"id": "9602082005", "district_id": "960208", "name": "SUMANO"}]
+[
+  {
+    "id": "9602082001",
+    "district_id": "960208",
+    "name": "KAIS"
+  },
+  {
+    "id": "9602082002",
+    "district_id": "960208",
+    "name": "TAPURI"
+  },
+  {
+    "id": "9602082003",
+    "district_id": "960208",
+    "name": "YAHADIAN"
+  },
+  {
+    "id": "9602082004",
+    "district_id": "960208",
+    "name": "BENAWA I"
+  },
+  {
+    "id": "9602082005",
+    "district_id": "960208",
+    "name": "SUMANO"
+  }
+]

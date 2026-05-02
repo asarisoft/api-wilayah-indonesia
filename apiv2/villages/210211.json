@@ -1,1 +1,22 @@
-[{"id": "2102111001", "district_id": "210211", "name": "ALAI"}, {"id": "2102112002", "district_id": "210211", "name": "BATU LIMAU"}, {"id": "2102112003", "district_id": "210211", "name": "NGAL"}, {"id": "2102112004", "district_id": "210211", "name": "SUNGAI BULUH"}]
+[
+  {
+    "id": "2102111001",
+    "district_id": "210211",
+    "name": "ALAI"
+  },
+  {
+    "id": "2102112002",
+    "district_id": "210211",
+    "name": "BATU LIMAU"
+  },
+  {
+    "id": "2102112003",
+    "district_id": "210211",
+    "name": "NGAL"
+  },
+  {
+    "id": "2102112004",
+    "district_id": "210211",
+    "name": "SUNGAI BULUH"
+  }
+]

@@ -1,1 +1,97 @@
-[{"id": "3516062001", "district_id": "351606", "name": "PURWOREJO"}, {"id": "3516062002", "district_id": "351606", "name": "MOJOREJO"}, {"id": "3516062003", "district_id": "351606", "name": "CURAHMOJO"}, {"id": "3516062004", "district_id": "351606", "name": "SEKARGADUNG"}, {"id": "3516062005", "district_id": "351606", "name": "TEMPURAN"}, {"id": "3516062006", "district_id": "351606", "name": "JATILANGKUNG"}, {"id": "3516062007", "district_id": "351606", "name": "BANJARTANGGUL"}, {"id": "3516062008", "district_id": "351606", "name": "KALIPURO"}, {"id": "3516062009", "district_id": "351606", "name": "RANDUHARJO"}, {"id": "3516062010", "district_id": "351606", "name": "KEMBANGRINGGIT"}, {"id": "3516062011", "district_id": "351606", "name": "PUNGGING"}, {"id": "3516062012", "district_id": "351606", "name": "LEBAKSONO"}, {"id": "3516062013", "district_id": "351606", "name": "TUNGGALPAGER"}, {"id": "3516062014", "district_id": "351606", "name": "BALONGMASIN"}, {"id": "3516062015", "district_id": "351606", "name": "JABONTEGAL"}, {"id": "3516062016", "district_id": "351606", "name": "KEDUNGMUNGAL"}, {"id": "3516062017", "district_id": "351606", "name": "WATUKENONGO"}, {"id": "3516062018", "district_id": "351606", "name": "NGRAME"}, {"id": "3516062019", "district_id": "351606", "name": "BANGUN"}]
+[
+  {
+    "id": "3516062001",
+    "district_id": "351606",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3516062002",
+    "district_id": "351606",
+    "name": "MOJOREJO"
+  },
+  {
+    "id": "3516062003",
+    "district_id": "351606",
+    "name": "CURAHMOJO"
+  },
+  {
+    "id": "3516062004",
+    "district_id": "351606",
+    "name": "SEKARGADUNG"
+  },
+  {
+    "id": "3516062005",
+    "district_id": "351606",
+    "name": "TEMPURAN"
+  },
+  {
+    "id": "3516062006",
+    "district_id": "351606",
+    "name": "JATILANGKUNG"
+  },
+  {
+    "id": "3516062007",
+    "district_id": "351606",
+    "name": "BANJARTANGGUL"
+  },
+  {
+    "id": "3516062008",
+    "district_id": "351606",
+    "name": "KALIPURO"
+  },
+  {
+    "id": "3516062009",
+    "district_id": "351606",
+    "name": "RANDUHARJO"
+  },
+  {
+    "id": "3516062010",
+    "district_id": "351606",
+    "name": "KEMBANGRINGGIT"
+  },
+  {
+    "id": "3516062011",
+    "district_id": "351606",
+    "name": "PUNGGING"
+  },
+  {
+    "id": "3516062012",
+    "district_id": "351606",
+    "name": "LEBAKSONO"
+  },
+  {
+    "id": "3516062013",
+    "district_id": "351606",
+    "name": "TUNGGALPAGER"
+  },
+  {
+    "id": "3516062014",
+    "district_id": "351606",
+    "name": "BALONGMASIN"
+  },
+  {
+    "id": "3516062015",
+    "district_id": "351606",
+    "name": "JABONTEGAL"
+  },
+  {
+    "id": "3516062016",
+    "district_id": "351606",
+    "name": "KEDUNGMUNGAL"
+  },
+  {
+    "id": "3516062017",
+    "district_id": "351606",
+    "name": "WATUKENONGO"
+  },
+  {
+    "id": "3516062018",
+    "district_id": "351606",
+    "name": "NGRAME"
+  },
+  {
+    "id": "3516062019",
+    "district_id": "351606",
+    "name": "BANGUN"
+  }
+]

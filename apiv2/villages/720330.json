@@ -1,1 +1,27 @@
-[{"id": "7203302001", "district_id": "720330", "name": "OGOAMAS I"}, {"id": "7203302002", "district_id": "720330", "name": "OGOAMAS II"}, {"id": "7203302003", "district_id": "720330", "name": "LENJU"}, {"id": "7203302004", "district_id": "720330", "name": "PESIK"}, {"id": "7203302005", "district_id": "720330", "name": "BENGKOLI"}]
+[
+  {
+    "id": "7203302001",
+    "district_id": "720330",
+    "name": "OGOAMAS I"
+  },
+  {
+    "id": "7203302002",
+    "district_id": "720330",
+    "name": "OGOAMAS II"
+  },
+  {
+    "id": "7203302003",
+    "district_id": "720330",
+    "name": "LENJU"
+  },
+  {
+    "id": "7203302004",
+    "district_id": "720330",
+    "name": "PESIK"
+  },
+  {
+    "id": "7203302005",
+    "district_id": "720330",
+    "name": "BENGKOLI"
+  }
+]

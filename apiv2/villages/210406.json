@@ -1,1 +1,32 @@
-[{"id": "2104062001", "district_id": "210406", "name": "BERINDAT"}, {"id": "2104062002", "district_id": "210406", "name": "SEDAMAI"}, {"id": "2104062003", "district_id": "210406", "name": "LANJUT"}, {"id": "2104062004", "district_id": "210406", "name": "KOTE"}, {"id": "2104062005", "district_id": "210406", "name": "PERSING"}, {"id": "2104062006", "district_id": "210406", "name": "PELAKAK"}]
+[
+  {
+    "id": "2104062001",
+    "district_id": "210406",
+    "name": "BERINDAT"
+  },
+  {
+    "id": "2104062002",
+    "district_id": "210406",
+    "name": "SEDAMAI"
+  },
+  {
+    "id": "2104062003",
+    "district_id": "210406",
+    "name": "LANJUT"
+  },
+  {
+    "id": "2104062004",
+    "district_id": "210406",
+    "name": "KOTE"
+  },
+  {
+    "id": "2104062005",
+    "district_id": "210406",
+    "name": "PERSING"
+  },
+  {
+    "id": "2104062006",
+    "district_id": "210406",
+    "name": "PELAKAK"
+  }
+]

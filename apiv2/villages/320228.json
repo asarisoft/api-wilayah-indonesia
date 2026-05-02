@@ -1,1 +1,42 @@
-[{"id": "3202282001", "district_id": "320228", "name": "CICANTAYAN"}, {"id": "3202282002", "district_id": "320228", "name": "LEMBURSAWAH"}, {"id": "3202282003", "district_id": "320228", "name": "CIJALINGAN"}, {"id": "3202282004", "district_id": "320228", "name": "CISANDE"}, {"id": "3202282005", "district_id": "320228", "name": "CIMAHI"}, {"id": "3202282006", "district_id": "320228", "name": "HEGARMANAH"}, {"id": "3202282007", "district_id": "320228", "name": "SUKADAMAI"}, {"id": "3202282008", "district_id": "320228", "name": "CIMANGGIS"}]
+[
+  {
+    "id": "3202282001",
+    "district_id": "320228",
+    "name": "CICANTAYAN"
+  },
+  {
+    "id": "3202282002",
+    "district_id": "320228",
+    "name": "LEMBURSAWAH"
+  },
+  {
+    "id": "3202282003",
+    "district_id": "320228",
+    "name": "CIJALINGAN"
+  },
+  {
+    "id": "3202282004",
+    "district_id": "320228",
+    "name": "CISANDE"
+  },
+  {
+    "id": "3202282005",
+    "district_id": "320228",
+    "name": "CIMAHI"
+  },
+  {
+    "id": "3202282006",
+    "district_id": "320228",
+    "name": "HEGARMANAH"
+  },
+  {
+    "id": "3202282007",
+    "district_id": "320228",
+    "name": "SUKADAMAI"
+  },
+  {
+    "id": "3202282008",
+    "district_id": "320228",
+    "name": "CIMANGGIS"
+  }
+]

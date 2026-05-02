@@ -1,1 +1,67 @@
-[{"id": "1603042001", "district_id": "160304", "name": "PENANGGIRAN"}, {"id": "1603042002", "district_id": "160304", "name": "GUNUNG MEGANG LUAR"}, {"id": "1603042003", "district_id": "160304", "name": "GUNUNG MEGANG DALAM"}, {"id": "1603042004", "district_id": "160304", "name": "LUBUK MUMPO"}, {"id": "1603042005", "district_id": "160304", "name": "PERJITO"}, {"id": "1603042006", "district_id": "160304", "name": "TANJUNG MUNING"}, {"id": "1603042007", "district_id": "160304", "name": "TANJUNG TERANG"}, {"id": "1603042016", "district_id": "160304", "name": "BANGUN SARI"}, {"id": "1603042017", "district_id": "160304", "name": "SUMAJA MAKMUR"}, {"id": "1603042018", "district_id": "160304", "name": "SIDOMULYO"}, {"id": "1603042019", "district_id": "160304", "name": "PAJAR INDAH"}, {"id": "1603042020", "district_id": "160304", "name": "KAYU ARA SAKTI"}, {"id": "1603042021", "district_id": "160304", "name": "PANANG JAYA"}]
+[
+  {
+    "id": "1603042001",
+    "district_id": "160304",
+    "name": "PENANGGIRAN"
+  },
+  {
+    "id": "1603042002",
+    "district_id": "160304",
+    "name": "GUNUNG MEGANG LUAR"
+  },
+  {
+    "id": "1603042003",
+    "district_id": "160304",
+    "name": "GUNUNG MEGANG DALAM"
+  },
+  {
+    "id": "1603042004",
+    "district_id": "160304",
+    "name": "LUBUK MUMPO"
+  },
+  {
+    "id": "1603042005",
+    "district_id": "160304",
+    "name": "PERJITO"
+  },
+  {
+    "id": "1603042006",
+    "district_id": "160304",
+    "name": "TANJUNG MUNING"
+  },
+  {
+    "id": "1603042007",
+    "district_id": "160304",
+    "name": "TANJUNG TERANG"
+  },
+  {
+    "id": "1603042016",
+    "district_id": "160304",
+    "name": "BANGUN SARI"
+  },
+  {
+    "id": "1603042017",
+    "district_id": "160304",
+    "name": "SUMAJA MAKMUR"
+  },
+  {
+    "id": "1603042018",
+    "district_id": "160304",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "1603042019",
+    "district_id": "160304",
+    "name": "PAJAR INDAH"
+  },
+  {
+    "id": "1603042020",
+    "district_id": "160304",
+    "name": "KAYU ARA SAKTI"
+  },
+  {
+    "id": "1603042021",
+    "district_id": "160304",
+    "name": "PANANG JAYA"
+  }
+]

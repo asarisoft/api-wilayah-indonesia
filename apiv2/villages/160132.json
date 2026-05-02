@@ -1,1 +1,42 @@
-[{"id": "1601322001", "district_id": "160132", "name": "BUNGLAI"}, {"id": "1601322002", "district_id": "160132", "name": "KEDATON"}, {"id": "1601322003", "district_id": "160132", "name": "KAMPAI"}, {"id": "1601322004", "district_id": "160132", "name": "RANTAU PANJANG"}, {"id": "1601322005", "district_id": "160132", "name": "KEDATON TIMUR"}, {"id": "1601322006", "district_id": "160132", "name": "SUKA PINDAH"}, {"id": "1601322007", "district_id": "160132", "name": "SINAR KEDATON"}, {"id": "1601322008", "district_id": "160132", "name": "LUBUK KEMILING"}]
+[
+  {
+    "id": "1601322001",
+    "district_id": "160132",
+    "name": "BUNGLAI"
+  },
+  {
+    "id": "1601322002",
+    "district_id": "160132",
+    "name": "KEDATON"
+  },
+  {
+    "id": "1601322003",
+    "district_id": "160132",
+    "name": "KAMPAI"
+  },
+  {
+    "id": "1601322004",
+    "district_id": "160132",
+    "name": "RANTAU PANJANG"
+  },
+  {
+    "id": "1601322005",
+    "district_id": "160132",
+    "name": "KEDATON TIMUR"
+  },
+  {
+    "id": "1601322006",
+    "district_id": "160132",
+    "name": "SUKA PINDAH"
+  },
+  {
+    "id": "1601322007",
+    "district_id": "160132",
+    "name": "SINAR KEDATON"
+  },
+  {
+    "id": "1601322008",
+    "district_id": "160132",
+    "name": "LUBUK KEMILING"
+  }
+]

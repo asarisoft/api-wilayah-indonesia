@@ -1,1 +1,47 @@
-[{"id": "3215252001", "district_id": "321525", "name": "WANCIMEKAR"}, {"id": "3215252002", "district_id": "321525", "name": "PANGULAH SELATAN"}, {"id": "3215252003", "district_id": "321525", "name": "PANGULAH UTARA"}, {"id": "3215252004", "district_id": "321525", "name": "PANGULAH BARU"}, {"id": "3215252005", "district_id": "321525", "name": "PUCUNG"}, {"id": "3215252006", "district_id": "321525", "name": "JOMIN TIMUR"}, {"id": "3215252007", "district_id": "321525", "name": "JOMIN BARAT"}, {"id": "3215252008", "district_id": "321525", "name": "SARIMULYA"}, {"id": "3215252009", "district_id": "321525", "name": "CIKAMPEK UTARA"}]
+[
+  {
+    "id": "3215252001",
+    "district_id": "321525",
+    "name": "WANCIMEKAR"
+  },
+  {
+    "id": "3215252002",
+    "district_id": "321525",
+    "name": "PANGULAH SELATAN"
+  },
+  {
+    "id": "3215252003",
+    "district_id": "321525",
+    "name": "PANGULAH UTARA"
+  },
+  {
+    "id": "3215252004",
+    "district_id": "321525",
+    "name": "PANGULAH BARU"
+  },
+  {
+    "id": "3215252005",
+    "district_id": "321525",
+    "name": "PUCUNG"
+  },
+  {
+    "id": "3215252006",
+    "district_id": "321525",
+    "name": "JOMIN TIMUR"
+  },
+  {
+    "id": "3215252007",
+    "district_id": "321525",
+    "name": "JOMIN BARAT"
+  },
+  {
+    "id": "3215252008",
+    "district_id": "321525",
+    "name": "SARIMULYA"
+  },
+  {
+    "id": "3215252009",
+    "district_id": "321525",
+    "name": "CIKAMPEK UTARA"
+  }
+]

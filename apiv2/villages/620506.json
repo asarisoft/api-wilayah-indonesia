@@ -1,1 +1,67 @@
-[{"id": "6205061015", "district_id": "620506", "name": "LAHEI I"}, {"id": "6205061016", "district_id": "620506", "name": "LAHEI II"}, {"id": "6205062001", "district_id": "620506", "name": "IPU"}, {"id": "6205062002", "district_id": "620506", "name": "MUKUT"}, {"id": "6205062014", "district_id": "620506", "name": "MUARA BAKAH"}, {"id": "6205062017", "district_id": "620506", "name": "JUJU BARU"}, {"id": "6205062018", "district_id": "620506", "name": "MUARA INU"}, {"id": "6205062019", "district_id": "620506", "name": "BENGAHON"}, {"id": "6205062020", "district_id": "620506", "name": "RAHADEN"}, {"id": "6205062021", "district_id": "620506", "name": "MUARA PARI"}, {"id": "6205062022", "district_id": "620506", "name": "HARAGANDANG"}, {"id": "6205062023", "district_id": "620506", "name": "KARENDAN"}, {"id": "6205062024", "district_id": "620506", "name": "HURUNG ENEP"}]
+[
+  {
+    "id": "6205061015",
+    "district_id": "620506",
+    "name": "LAHEI I"
+  },
+  {
+    "id": "6205061016",
+    "district_id": "620506",
+    "name": "LAHEI II"
+  },
+  {
+    "id": "6205062001",
+    "district_id": "620506",
+    "name": "IPU"
+  },
+  {
+    "id": "6205062002",
+    "district_id": "620506",
+    "name": "MUKUT"
+  },
+  {
+    "id": "6205062014",
+    "district_id": "620506",
+    "name": "MUARA BAKAH"
+  },
+  {
+    "id": "6205062017",
+    "district_id": "620506",
+    "name": "JUJU BARU"
+  },
+  {
+    "id": "6205062018",
+    "district_id": "620506",
+    "name": "MUARA INU"
+  },
+  {
+    "id": "6205062019",
+    "district_id": "620506",
+    "name": "BENGAHON"
+  },
+  {
+    "id": "6205062020",
+    "district_id": "620506",
+    "name": "RAHADEN"
+  },
+  {
+    "id": "6205062021",
+    "district_id": "620506",
+    "name": "MUARA PARI"
+  },
+  {
+    "id": "6205062022",
+    "district_id": "620506",
+    "name": "HARAGANDANG"
+  },
+  {
+    "id": "6205062023",
+    "district_id": "620506",
+    "name": "KARENDAN"
+  },
+  {
+    "id": "6205062024",
+    "district_id": "620506",
+    "name": "HURUNG ENEP"
+  }
+]

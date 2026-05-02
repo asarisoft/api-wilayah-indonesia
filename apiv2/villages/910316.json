@@ -1,1 +1,32 @@
-[{"id": "9103162001", "district_id": "910316", "name": "HULU ATAS"}, {"id": "9103162002", "district_id": "910316", "name": "PAGAI"}, {"id": "9103162003", "district_id": "910316", "name": "AURINA"}, {"id": "9103162004", "district_id": "910316", "name": "MUARA NAWA"}, {"id": "9103162005", "district_id": "910316", "name": "KAMIKARU"}, {"id": "9103162006", "district_id": "910316", "name": "NAIRA"}]
+[
+  {
+    "id": "9103162001",
+    "district_id": "910316",
+    "name": "HULU ATAS"
+  },
+  {
+    "id": "9103162002",
+    "district_id": "910316",
+    "name": "PAGAI"
+  },
+  {
+    "id": "9103162003",
+    "district_id": "910316",
+    "name": "AURINA"
+  },
+  {
+    "id": "9103162004",
+    "district_id": "910316",
+    "name": "MUARA NAWA"
+  },
+  {
+    "id": "9103162005",
+    "district_id": "910316",
+    "name": "KAMIKARU"
+  },
+  {
+    "id": "9103162006",
+    "district_id": "910316",
+    "name": "NAIRA"
+  }
+]

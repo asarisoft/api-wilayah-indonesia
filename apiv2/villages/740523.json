@@ -1,1 +1,52 @@
-[{"id": "7405232001", "district_id": "740523", "name": "RAMBU-RAMBU"}, {"id": "7405232002", "district_id": "740523", "name": "LAMBANGI"}, {"id": "7405232003", "district_id": "740523", "name": "TUMBU-TUMBU JAYA"}, {"id": "7405232004", "district_id": "740523", "name": "NGAPAWALI"}, {"id": "7405232005", "district_id": "740523", "name": "BATUH PUTIH"}, {"id": "7405232006", "district_id": "740523", "name": "RUMBA-RUMBA"}, {"id": "7405232007", "district_id": "740523", "name": "AMPERA"}, {"id": "7405232008", "district_id": "740523", "name": "AMOLENGU"}, {"id": "7405232009", "district_id": "740523", "name": "ULUNESE"}, {"id": "7405232010", "district_id": "740523", "name": "LANGGAPULU"}]
+[
+  {
+    "id": "7405232001",
+    "district_id": "740523",
+    "name": "RAMBU-RAMBU"
+  },
+  {
+    "id": "7405232002",
+    "district_id": "740523",
+    "name": "LAMBANGI"
+  },
+  {
+    "id": "7405232003",
+    "district_id": "740523",
+    "name": "TUMBU-TUMBU JAYA"
+  },
+  {
+    "id": "7405232004",
+    "district_id": "740523",
+    "name": "NGAPAWALI"
+  },
+  {
+    "id": "7405232005",
+    "district_id": "740523",
+    "name": "BATUH PUTIH"
+  },
+  {
+    "id": "7405232006",
+    "district_id": "740523",
+    "name": "RUMBA-RUMBA"
+  },
+  {
+    "id": "7405232007",
+    "district_id": "740523",
+    "name": "AMPERA"
+  },
+  {
+    "id": "7405232008",
+    "district_id": "740523",
+    "name": "AMOLENGU"
+  },
+  {
+    "id": "7405232009",
+    "district_id": "740523",
+    "name": "ULUNESE"
+  },
+  {
+    "id": "7405232010",
+    "district_id": "740523",
+    "name": "LANGGAPULU"
+  }
+]

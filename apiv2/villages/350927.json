@@ -1,1 +1,62 @@
-[{"id": "3509272001", "district_id": "350927", "name": "GUMUKSARI"}, {"id": "3509272002", "district_id": "350927", "name": "SUKORENO"}, {"id": "3509272003", "district_id": "350927", "name": "PATEMPURAN"}, {"id": "3509272004", "district_id": "350927", "name": "SUMBERKALONG"}, {"id": "3509272005", "district_id": "350927", "name": "SUMBERJERUK"}, {"id": "3509272006", "district_id": "350927", "name": "GLAGAHWERO"}, {"id": "3509272007", "district_id": "350927", "name": "KALISAT"}, {"id": "3509272008", "district_id": "350927", "name": "AJUNG"}, {"id": "3509272009", "district_id": "350927", "name": "PLALANGAN"}, {"id": "3509272010", "district_id": "350927", "name": "GAMBIRAN"}, {"id": "3509272011", "district_id": "350927", "name": "SUMBERKETEMPA"}, {"id": "3509272012", "district_id": "350927", "name": "SEBANEN"}]
+[
+  {
+    "id": "3509272001",
+    "district_id": "350927",
+    "name": "GUMUKSARI"
+  },
+  {
+    "id": "3509272002",
+    "district_id": "350927",
+    "name": "SUKORENO"
+  },
+  {
+    "id": "3509272003",
+    "district_id": "350927",
+    "name": "PATEMPURAN"
+  },
+  {
+    "id": "3509272004",
+    "district_id": "350927",
+    "name": "SUMBERKALONG"
+  },
+  {
+    "id": "3509272005",
+    "district_id": "350927",
+    "name": "SUMBERJERUK"
+  },
+  {
+    "id": "3509272006",
+    "district_id": "350927",
+    "name": "GLAGAHWERO"
+  },
+  {
+    "id": "3509272007",
+    "district_id": "350927",
+    "name": "KALISAT"
+  },
+  {
+    "id": "3509272008",
+    "district_id": "350927",
+    "name": "AJUNG"
+  },
+  {
+    "id": "3509272009",
+    "district_id": "350927",
+    "name": "PLALANGAN"
+  },
+  {
+    "id": "3509272010",
+    "district_id": "350927",
+    "name": "GAMBIRAN"
+  },
+  {
+    "id": "3509272011",
+    "district_id": "350927",
+    "name": "SUMBERKETEMPA"
+  },
+  {
+    "id": "3509272012",
+    "district_id": "350927",
+    "name": "SEBANEN"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "3208202001", "district_id": "320820", "name": "HAURKUNING"}, {"id": "3208202002", "district_id": "320820", "name": "KERTAYUGA"}, {"id": "3208202003", "district_id": "320820", "name": "WINDUSARI"}, {"id": "3208202004", "district_id": "320820", "name": "NUSAHERANG"}, {"id": "3208202005", "district_id": "320820", "name": "JAMBAR"}, {"id": "3208202006", "district_id": "320820", "name": "CIKADU"}, {"id": "3208202007", "district_id": "320820", "name": "KERTAWIRAMA"}, {"id": "3208202008", "district_id": "320820", "name": "CIASIH"}]
+[
+  {
+    "id": "3208202001",
+    "district_id": "320820",
+    "name": "HAURKUNING"
+  },
+  {
+    "id": "3208202002",
+    "district_id": "320820",
+    "name": "KERTAYUGA"
+  },
+  {
+    "id": "3208202003",
+    "district_id": "320820",
+    "name": "WINDUSARI"
+  },
+  {
+    "id": "3208202004",
+    "district_id": "320820",
+    "name": "NUSAHERANG"
+  },
+  {
+    "id": "3208202005",
+    "district_id": "320820",
+    "name": "JAMBAR"
+  },
+  {
+    "id": "3208202006",
+    "district_id": "320820",
+    "name": "CIKADU"
+  },
+  {
+    "id": "3208202007",
+    "district_id": "320820",
+    "name": "KERTAWIRAMA"
+  },
+  {
+    "id": "3208202008",
+    "district_id": "320820",
+    "name": "CIASIH"
+  }
+]

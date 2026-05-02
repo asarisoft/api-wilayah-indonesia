@@ -1,1 +1,37 @@
-[{"id": "531601", "regency_id": "5316", "name": "AESESA"}, {"id": "531602", "regency_id": "5316", "name": "NANGARORO"}, {"id": "531603", "regency_id": "5316", "name": "BOAWAE"}, {"id": "531604", "regency_id": "5316", "name": "MAUPONGGO"}, {"id": "531605", "regency_id": "5316", "name": "WOLOWAE"}, {"id": "531606", "regency_id": "5316", "name": "KEO TENGAH"}, {"id": "531607", "regency_id": "5316", "name": "AESESA SELATAN"}]
+[
+  {
+    "id": "531601",
+    "regency_id": "5316",
+    "name": "AESESA"
+  },
+  {
+    "id": "531602",
+    "regency_id": "5316",
+    "name": "NANGARORO"
+  },
+  {
+    "id": "531603",
+    "regency_id": "5316",
+    "name": "BOAWAE"
+  },
+  {
+    "id": "531604",
+    "regency_id": "5316",
+    "name": "MAUPONGGO"
+  },
+  {
+    "id": "531605",
+    "regency_id": "5316",
+    "name": "WOLOWAE"
+  },
+  {
+    "id": "531606",
+    "regency_id": "5316",
+    "name": "KEO TENGAH"
+  },
+  {
+    "id": "531607",
+    "regency_id": "5316",
+    "name": "AESESA SELATAN"
+  }
+]

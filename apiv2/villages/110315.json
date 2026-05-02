@@ -1,1 +1,82 @@
-[{"id": "1103152001", "district_id": "110315", "name": "JALAN DUA"}, {"id": "1103152002", "district_id": "110315", "name": "JAMBO REUHAT"}, {"id": "1103152003", "district_id": "110315", "name": "SEUNEUBOK BENTENG"}, {"id": "1103152004", "district_id": "110315", "name": "SEUNEUBOK PANGO"}, {"id": "1103152005", "district_id": "110315", "name": "SEUNEUBOK SIMPANG"}, {"id": "1103152006", "district_id": "110315", "name": "SEUNEUBOK KANDANG"}, {"id": "1103152007", "district_id": "110315", "name": "ULEE JALAN"}, {"id": "1103152008", "district_id": "110315", "name": "URAM JALAN"}, {"id": "1103152009", "district_id": "110315", "name": "SEUNEUBOK BAYU"}, {"id": "1103152010", "district_id": "110315", "name": "BLANG RAMBONG"}, {"id": "1103152011", "district_id": "110315", "name": "BUKET DRIEN"}, {"id": "1103152012", "district_id": "110315", "name": "PANTON RAYEUK A"}, {"id": "1103152013", "district_id": "110315", "name": "PANTON RAYEUK B"}, {"id": "1103152014", "district_id": "110315", "name": "PANTON RAYEUK M"}, {"id": "1103152015", "district_id": "110315", "name": "PANTON RAYEUK T"}, {"id": "1103152016", "district_id": "110315", "name": "PAYA LAMAN"}]
+[
+  {
+    "id": "1103152001",
+    "district_id": "110315",
+    "name": "JALAN DUA"
+  },
+  {
+    "id": "1103152002",
+    "district_id": "110315",
+    "name": "JAMBO REUHAT"
+  },
+  {
+    "id": "1103152003",
+    "district_id": "110315",
+    "name": "SEUNEUBOK BENTENG"
+  },
+  {
+    "id": "1103152004",
+    "district_id": "110315",
+    "name": "SEUNEUBOK PANGO"
+  },
+  {
+    "id": "1103152005",
+    "district_id": "110315",
+    "name": "SEUNEUBOK SIMPANG"
+  },
+  {
+    "id": "1103152006",
+    "district_id": "110315",
+    "name": "SEUNEUBOK KANDANG"
+  },
+  {
+    "id": "1103152007",
+    "district_id": "110315",
+    "name": "ULEE JALAN"
+  },
+  {
+    "id": "1103152008",
+    "district_id": "110315",
+    "name": "URAM JALAN"
+  },
+  {
+    "id": "1103152009",
+    "district_id": "110315",
+    "name": "SEUNEUBOK BAYU"
+  },
+  {
+    "id": "1103152010",
+    "district_id": "110315",
+    "name": "BLANG RAMBONG"
+  },
+  {
+    "id": "1103152011",
+    "district_id": "110315",
+    "name": "BUKET DRIEN"
+  },
+  {
+    "id": "1103152012",
+    "district_id": "110315",
+    "name": "PANTON RAYEUK A"
+  },
+  {
+    "id": "1103152013",
+    "district_id": "110315",
+    "name": "PANTON RAYEUK B"
+  },
+  {
+    "id": "1103152014",
+    "district_id": "110315",
+    "name": "PANTON RAYEUK M"
+  },
+  {
+    "id": "1103152015",
+    "district_id": "110315",
+    "name": "PANTON RAYEUK T"
+  },
+  {
+    "id": "1103152016",
+    "district_id": "110315",
+    "name": "PAYA LAMAN"
+  }
+]

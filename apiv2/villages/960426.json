@@ -1,1 +1,37 @@
-[{"id": "9604262001", "district_id": "960426", "name": "ARUPI"}, {"id": "9604262002", "district_id": "960426", "name": "MANGGANEK"}, {"id": "9604262003", "district_id": "960426", "name": "WAJAREK"}, {"id": "9604262004", "district_id": "960426", "name": "KALI AN"}, {"id": "9604262005", "district_id": "960426", "name": "ARARO"}, {"id": "9604262006", "district_id": "960426", "name": "WEKARI"}, {"id": "9604262007", "district_id": "960426", "name": "SERAYO"}]
+[
+  {
+    "id": "9604262001",
+    "district_id": "960426",
+    "name": "ARUPI"
+  },
+  {
+    "id": "9604262002",
+    "district_id": "960426",
+    "name": "MANGGANEK"
+  },
+  {
+    "id": "9604262003",
+    "district_id": "960426",
+    "name": "WAJAREK"
+  },
+  {
+    "id": "9604262004",
+    "district_id": "960426",
+    "name": "KALI AN"
+  },
+  {
+    "id": "9604262005",
+    "district_id": "960426",
+    "name": "ARARO"
+  },
+  {
+    "id": "9604262006",
+    "district_id": "960426",
+    "name": "WEKARI"
+  },
+  {
+    "id": "9604262007",
+    "district_id": "960426",
+    "name": "SERAYO"
+  }
+]

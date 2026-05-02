@@ -1,1 +1,52 @@
-[{"id": "1171042001", "district_id": "117104", "name": "JEULINGKE"}, {"id": "1171042002", "district_id": "117104", "name": "TIBANG"}, {"id": "1171042003", "district_id": "117104", "name": "DEAH RAYA"}, {"id": "1171042004", "district_id": "117104", "name": "ALUE NAGA"}, {"id": "1171042005", "district_id": "117104", "name": "IE MASEN KAYEE ADANG"}, {"id": "1171042006", "district_id": "117104", "name": "PINEUNG"}, {"id": "1171042007", "district_id": "117104", "name": "LAMGUGOB"}, {"id": "1171042008", "district_id": "117104", "name": "KOPELMA DARUSSALAM"}, {"id": "1171042009", "district_id": "117104", "name": "RUKOH"}, {"id": "1171042010", "district_id": "117104", "name": "PEURADA"}]
+[
+  {
+    "id": "1171042001",
+    "district_id": "117104",
+    "name": "JEULINGKE"
+  },
+  {
+    "id": "1171042002",
+    "district_id": "117104",
+    "name": "TIBANG"
+  },
+  {
+    "id": "1171042003",
+    "district_id": "117104",
+    "name": "DEAH RAYA"
+  },
+  {
+    "id": "1171042004",
+    "district_id": "117104",
+    "name": "ALUE NAGA"
+  },
+  {
+    "id": "1171042005",
+    "district_id": "117104",
+    "name": "IE MASEN KAYEE ADANG"
+  },
+  {
+    "id": "1171042006",
+    "district_id": "117104",
+    "name": "PINEUNG"
+  },
+  {
+    "id": "1171042007",
+    "district_id": "117104",
+    "name": "LAMGUGOB"
+  },
+  {
+    "id": "1171042008",
+    "district_id": "117104",
+    "name": "KOPELMA DARUSSALAM"
+  },
+  {
+    "id": "1171042009",
+    "district_id": "117104",
+    "name": "RUKOH"
+  },
+  {
+    "id": "1171042010",
+    "district_id": "117104",
+    "name": "PEURADA"
+  }
+]

@@ -1,1 +1,92 @@
-[{"id": "940401", "regency_id": "9404", "name": "MIMIKA BARU"}, {"id": "940402", "regency_id": "9404", "name": "AGIMUGA"}, {"id": "940403", "regency_id": "9404", "name": "MIMIKA TIMUR"}, {"id": "940404", "regency_id": "9404", "name": "MIMIKA BARAT"}, {"id": "940405", "regency_id": "9404", "name": "JITA"}, {"id": "940406", "regency_id": "9404", "name": "JILA"}, {"id": "940407", "regency_id": "9404", "name": "MIMIKA TIMUR JAUH"}, {"id": "940408", "regency_id": "9404", "name": "MIMIKA TENGAH"}, {"id": "940409", "regency_id": "9404", "name": "KUALA KENCANA"}, {"id": "940410", "regency_id": "9404", "name": "TEMBAGAPURA"}, {"id": "940411", "regency_id": "9404", "name": "MIMIKA BARAT JAUH"}, {"id": "940412", "regency_id": "9404", "name": "MIMIKA BARAT TENGAH"}, {"id": "940413", "regency_id": "9404", "name": "KWAMKI NARAMA"}, {"id": "940414", "regency_id": "9404", "name": "HOYA"}, {"id": "940415", "regency_id": "9404", "name": "IWAKA"}, {"id": "940416", "regency_id": "9404", "name": "WANIA"}, {"id": "940417", "regency_id": "9404", "name": "AMAR"}, {"id": "940418", "regency_id": "9404", "name": "ALAMA"}]
+[
+  {
+    "id": "940401",
+    "regency_id": "9404",
+    "name": "MIMIKA BARU"
+  },
+  {
+    "id": "940402",
+    "regency_id": "9404",
+    "name": "AGIMUGA"
+  },
+  {
+    "id": "940403",
+    "regency_id": "9404",
+    "name": "MIMIKA TIMUR"
+  },
+  {
+    "id": "940404",
+    "regency_id": "9404",
+    "name": "MIMIKA BARAT"
+  },
+  {
+    "id": "940405",
+    "regency_id": "9404",
+    "name": "JITA"
+  },
+  {
+    "id": "940406",
+    "regency_id": "9404",
+    "name": "JILA"
+  },
+  {
+    "id": "940407",
+    "regency_id": "9404",
+    "name": "MIMIKA TIMUR JAUH"
+  },
+  {
+    "id": "940408",
+    "regency_id": "9404",
+    "name": "MIMIKA TENGAH"
+  },
+  {
+    "id": "940409",
+    "regency_id": "9404",
+    "name": "KUALA KENCANA"
+  },
+  {
+    "id": "940410",
+    "regency_id": "9404",
+    "name": "TEMBAGAPURA"
+  },
+  {
+    "id": "940411",
+    "regency_id": "9404",
+    "name": "MIMIKA BARAT JAUH"
+  },
+  {
+    "id": "940412",
+    "regency_id": "9404",
+    "name": "MIMIKA BARAT TENGAH"
+  },
+  {
+    "id": "940413",
+    "regency_id": "9404",
+    "name": "KWAMKI NARAMA"
+  },
+  {
+    "id": "940414",
+    "regency_id": "9404",
+    "name": "HOYA"
+  },
+  {
+    "id": "940415",
+    "regency_id": "9404",
+    "name": "IWAKA"
+  },
+  {
+    "id": "940416",
+    "regency_id": "9404",
+    "name": "WANIA"
+  },
+  {
+    "id": "940417",
+    "regency_id": "9404",
+    "name": "AMAR"
+  },
+  {
+    "id": "940418",
+    "regency_id": "9404",
+    "name": "ALAMA"
+  }
+]

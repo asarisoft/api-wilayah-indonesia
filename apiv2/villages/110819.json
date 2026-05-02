@@ -1,1 +1,132 @@
-[{"id": "1108192001", "district_id": "110819", "name": "KEUDE SAMPOINIET"}, {"id": "1108192002", "district_id": "110819", "name": "LHOK IBOH"}, {"id": "1108192003", "district_id": "110819", "name": "MATANG BAYU"}, {"id": "1108192004", "district_id": "110819", "name": "LANG NIBONG"}, {"id": "1108192005", "district_id": "110819", "name": "BLANG SEUNONG"}, {"id": "1108192006", "district_id": "110819", "name": "SINGGAH MATA"}, {"id": "1108192007", "district_id": "110819", "name": "MATANG PANYANG"}, {"id": "1108192008", "district_id": "110819", "name": "MATANG CEUBREK"}, {"id": "1108192009", "district_id": "110819", "name": "MATANG TEUNGOH"}, {"id": "1108192010", "district_id": "110819", "name": "COT PAYA"}, {"id": "1108192011", "district_id": "110819", "name": "COT KUPOK"}, {"id": "1108192012", "district_id": "110819", "name": "MATANG RAYA BLANG SIALET"}, {"id": "1108192013", "district_id": "110819", "name": "PUCOK ALUE BUKET"}, {"id": "1108192014", "district_id": "110819", "name": "MATANG SIJUEK TIMU"}, {"id": "1108192015", "district_id": "110819", "name": "MATANG SIJUEK TEUNGOH"}, {"id": "1108192016", "district_id": "110819", "name": "MATANG SIJUEK BARAT"}, {"id": "1108192017", "district_id": "110819", "name": "COT LABA"}, {"id": "1108192018", "district_id": "110819", "name": "MEUNASAH PANTE"}, {"id": "1108192019", "district_id": "110819", "name": "MEURANDEH PAYA"}, {"id": "1108192020", "district_id": "110819", "name": "COT MURONG"}, {"id": "1108192021", "district_id": "110819", "name": "MATANG PAYA"}, {"id": "1108192022", "district_id": "110819", "name": "LHOK EUNCIEN"}, {"id": "1108192023", "district_id": "110819", "name": "COT USEN"}, {"id": "1108192024", "district_id": "110819", "name": "MEUNASAH HAGU"}, {"id": "1108192025", "district_id": "110819", "name": "BLANG RHEUE"}, {"id": "1108192026", "district_id": "110819", "name": "PAYA BATEUNG"}]
+[
+  {
+    "id": "1108192001",
+    "district_id": "110819",
+    "name": "KEUDE SAMPOINIET"
+  },
+  {
+    "id": "1108192002",
+    "district_id": "110819",
+    "name": "LHOK IBOH"
+  },
+  {
+    "id": "1108192003",
+    "district_id": "110819",
+    "name": "MATANG BAYU"
+  },
+  {
+    "id": "1108192004",
+    "district_id": "110819",
+    "name": "LANG NIBONG"
+  },
+  {
+    "id": "1108192005",
+    "district_id": "110819",
+    "name": "BLANG SEUNONG"
+  },
+  {
+    "id": "1108192006",
+    "district_id": "110819",
+    "name": "SINGGAH MATA"
+  },
+  {
+    "id": "1108192007",
+    "district_id": "110819",
+    "name": "MATANG PANYANG"
+  },
+  {
+    "id": "1108192008",
+    "district_id": "110819",
+    "name": "MATANG CEUBREK"
+  },
+  {
+    "id": "1108192009",
+    "district_id": "110819",
+    "name": "MATANG TEUNGOH"
+  },
+  {
+    "id": "1108192010",
+    "district_id": "110819",
+    "name": "COT PAYA"
+  },
+  {
+    "id": "1108192011",
+    "district_id": "110819",
+    "name": "COT KUPOK"
+  },
+  {
+    "id": "1108192012",
+    "district_id": "110819",
+    "name": "MATANG RAYA BLANG SIALET"
+  },
+  {
+    "id": "1108192013",
+    "district_id": "110819",
+    "name": "PUCOK ALUE BUKET"
+  },
+  {
+    "id": "1108192014",
+    "district_id": "110819",
+    "name": "MATANG SIJUEK TIMU"
+  },
+  {
+    "id": "1108192015",
+    "district_id": "110819",
+    "name": "MATANG SIJUEK TEUNGOH"
+  },
+  {
+    "id": "1108192016",
+    "district_id": "110819",
+    "name": "MATANG SIJUEK BARAT"
+  },
+  {
+    "id": "1108192017",
+    "district_id": "110819",
+    "name": "COT LABA"
+  },
+  {
+    "id": "1108192018",
+    "district_id": "110819",
+    "name": "MEUNASAH PANTE"
+  },
+  {
+    "id": "1108192019",
+    "district_id": "110819",
+    "name": "MEURANDEH PAYA"
+  },
+  {
+    "id": "1108192020",
+    "district_id": "110819",
+    "name": "COT MURONG"
+  },
+  {
+    "id": "1108192021",
+    "district_id": "110819",
+    "name": "MATANG PAYA"
+  },
+  {
+    "id": "1108192022",
+    "district_id": "110819",
+    "name": "LHOK EUNCIEN"
+  },
+  {
+    "id": "1108192023",
+    "district_id": "110819",
+    "name": "COT USEN"
+  },
+  {
+    "id": "1108192024",
+    "district_id": "110819",
+    "name": "MEUNASAH HAGU"
+  },
+  {
+    "id": "1108192025",
+    "district_id": "110819",
+    "name": "BLANG RHEUE"
+  },
+  {
+    "id": "1108192026",
+    "district_id": "110819",
+    "name": "PAYA BATEUNG"
+  }
+]

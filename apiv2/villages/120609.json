@@ -1,1 +1,77 @@
-[{"id": "1206092001", "district_id": "120609", "name": "MARTELU"}, {"id": "1206092002", "district_id": "120609", "name": "MBAL-MBAL PETARUM"}, {"id": "1206092003", "district_id": "120609", "name": "LAU PERANGGUNEN"}, {"id": "1206092004", "district_id": "120609", "name": "TANJUNG GUNUNG"}, {"id": "1206092005", "district_id": "120609", "name": "LAU BALENG"}, {"id": "1206092006", "district_id": "120609", "name": "DURIN RUGUN"}, {"id": "1206092007", "district_id": "120609", "name": "PERBULAN"}, {"id": "1206092008", "district_id": "120609", "name": "KUTAMBELIN"}, {"id": "1206092009", "district_id": "120609", "name": "LINGGA MUDA"}, {"id": "1206092010", "district_id": "120609", "name": "KINANGKONG"}, {"id": "1206092011", "district_id": "120609", "name": "RAMBAH TAMPU"}, {"id": "1206092012", "district_id": "120609", "name": "LAU PERADEP"}, {"id": "1206092013", "district_id": "120609", "name": "BULUH PANCUR"}, {"id": "1206092014", "district_id": "120609", "name": "BATU RONGKAM"}, {"id": "1206092015", "district_id": "120609", "name": "PINTU ANGIN"}]
+[
+  {
+    "id": "1206092001",
+    "district_id": "120609",
+    "name": "MARTELU"
+  },
+  {
+    "id": "1206092002",
+    "district_id": "120609",
+    "name": "MBAL-MBAL PETARUM"
+  },
+  {
+    "id": "1206092003",
+    "district_id": "120609",
+    "name": "LAU PERANGGUNEN"
+  },
+  {
+    "id": "1206092004",
+    "district_id": "120609",
+    "name": "TANJUNG GUNUNG"
+  },
+  {
+    "id": "1206092005",
+    "district_id": "120609",
+    "name": "LAU BALENG"
+  },
+  {
+    "id": "1206092006",
+    "district_id": "120609",
+    "name": "DURIN RUGUN"
+  },
+  {
+    "id": "1206092007",
+    "district_id": "120609",
+    "name": "PERBULAN"
+  },
+  {
+    "id": "1206092008",
+    "district_id": "120609",
+    "name": "KUTAMBELIN"
+  },
+  {
+    "id": "1206092009",
+    "district_id": "120609",
+    "name": "LINGGA MUDA"
+  },
+  {
+    "id": "1206092010",
+    "district_id": "120609",
+    "name": "KINANGKONG"
+  },
+  {
+    "id": "1206092011",
+    "district_id": "120609",
+    "name": "RAMBAH TAMPU"
+  },
+  {
+    "id": "1206092012",
+    "district_id": "120609",
+    "name": "LAU PERADEP"
+  },
+  {
+    "id": "1206092013",
+    "district_id": "120609",
+    "name": "BULUH PANCUR"
+  },
+  {
+    "id": "1206092014",
+    "district_id": "120609",
+    "name": "BATU RONGKAM"
+  },
+  {
+    "id": "1206092015",
+    "district_id": "120609",
+    "name": "PINTU ANGIN"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "531501", "regency_id": "5315", "name": "MACANG PACAR"}, {"id": "531502", "regency_id": "5315", "name": "KUWUS"}, {"id": "531503", "regency_id": "5315", "name": "LEMBOR"}, {"id": "531504", "regency_id": "5315", "name": "SANO NGGOANG"}, {"id": "531505", "regency_id": "5315", "name": "KOMODO"}, {"id": "531506", "regency_id": "5315", "name": "BOLENG"}, {"id": "531507", "regency_id": "5315", "name": "WELAK"}, {"id": "531508", "regency_id": "5315", "name": "NDOSO"}, {"id": "531509", "regency_id": "5315", "name": "LEMBOR SELATAN"}, {"id": "531510", "regency_id": "5315", "name": "MBELILING"}, {"id": "531511", "regency_id": "5315", "name": "PACAR"}, {"id": "531512", "regency_id": "5315", "name": "KUWUS BARAT"}]
+[
+  {
+    "id": "531501",
+    "regency_id": "5315",
+    "name": "MACANG PACAR"
+  },
+  {
+    "id": "531502",
+    "regency_id": "5315",
+    "name": "KUWUS"
+  },
+  {
+    "id": "531503",
+    "regency_id": "5315",
+    "name": "LEMBOR"
+  },
+  {
+    "id": "531504",
+    "regency_id": "5315",
+    "name": "SANO NGGOANG"
+  },
+  {
+    "id": "531505",
+    "regency_id": "5315",
+    "name": "KOMODO"
+  },
+  {
+    "id": "531506",
+    "regency_id": "5315",
+    "name": "BOLENG"
+  },
+  {
+    "id": "531507",
+    "regency_id": "5315",
+    "name": "WELAK"
+  },
+  {
+    "id": "531508",
+    "regency_id": "5315",
+    "name": "NDOSO"
+  },
+  {
+    "id": "531509",
+    "regency_id": "5315",
+    "name": "LEMBOR SELATAN"
+  },
+  {
+    "id": "531510",
+    "regency_id": "5315",
+    "name": "MBELILING"
+  },
+  {
+    "id": "531511",
+    "regency_id": "5315",
+    "name": "PACAR"
+  },
+  {
+    "id": "531512",
+    "regency_id": "5315",
+    "name": "KUWUS BARAT"
+  }
+]

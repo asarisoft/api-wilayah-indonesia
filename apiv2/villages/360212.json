@@ -1,1 +1,77 @@
-[{"id": "3602122001", "district_id": "360212", "name": "MARAYA"}, {"id": "3602122002", "district_id": "360212", "name": "SAJIRA"}, {"id": "3602122003", "district_id": "360212", "name": "SUKARAME"}, {"id": "3602122004", "district_id": "360212", "name": "CALUNGBUNGUR"}, {"id": "3602122005", "district_id": "360212", "name": "PARUNGSARI"}, {"id": "3602122006", "district_id": "360212", "name": "SINDANGSARI"}, {"id": "3602122007", "district_id": "360212", "name": "MEKARSARI"}, {"id": "3602122008", "district_id": "360212", "name": "SUKAMARGA"}, {"id": "3602122009", "district_id": "360212", "name": "PAJAGAN"}, {"id": "3602122010", "district_id": "360212", "name": "SUKAJAYA"}, {"id": "3602122011", "district_id": "360212", "name": "SAJIRA MEKAR"}, {"id": "3602122012", "district_id": "360212", "name": "PAJA"}, {"id": "3602122013", "district_id": "360212", "name": "MARGALUYU"}, {"id": "3602122014", "district_id": "360212", "name": "BUNGURMEKAR"}, {"id": "3602122015", "district_id": "360212", "name": "CIUYAH"}]
+[
+  {
+    "id": "3602122001",
+    "district_id": "360212",
+    "name": "MARAYA"
+  },
+  {
+    "id": "3602122002",
+    "district_id": "360212",
+    "name": "SAJIRA"
+  },
+  {
+    "id": "3602122003",
+    "district_id": "360212",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "3602122004",
+    "district_id": "360212",
+    "name": "CALUNGBUNGUR"
+  },
+  {
+    "id": "3602122005",
+    "district_id": "360212",
+    "name": "PARUNGSARI"
+  },
+  {
+    "id": "3602122006",
+    "district_id": "360212",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3602122007",
+    "district_id": "360212",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3602122008",
+    "district_id": "360212",
+    "name": "SUKAMARGA"
+  },
+  {
+    "id": "3602122009",
+    "district_id": "360212",
+    "name": "PAJAGAN"
+  },
+  {
+    "id": "3602122010",
+    "district_id": "360212",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3602122011",
+    "district_id": "360212",
+    "name": "SAJIRA MEKAR"
+  },
+  {
+    "id": "3602122012",
+    "district_id": "360212",
+    "name": "PAJA"
+  },
+  {
+    "id": "3602122013",
+    "district_id": "360212",
+    "name": "MARGALUYU"
+  },
+  {
+    "id": "3602122014",
+    "district_id": "360212",
+    "name": "BUNGURMEKAR"
+  },
+  {
+    "id": "3602122015",
+    "district_id": "360212",
+    "name": "CIUYAH"
+  }
+]

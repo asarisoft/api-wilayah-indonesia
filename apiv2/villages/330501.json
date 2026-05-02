@@ -1,1 +1,92 @@
-[{"id": "3305012001", "district_id": "330501", "name": "ARGOPENI"}, {"id": "3305012002", "district_id": "330501", "name": "KARANGDUWUR"}, {"id": "3305012003", "district_id": "330501", "name": "SRATI"}, {"id": "3305012004", "district_id": "330501", "name": "PASIR"}, {"id": "3305012005", "district_id": "330501", "name": "JINTUNG"}, {"id": "3305012006", "district_id": "330501", "name": "BANJARARJO"}, {"id": "3305012007", "district_id": "330501", "name": "ARGOSARI"}, {"id": "3305012008", "district_id": "330501", "name": "WATUKELIR"}, {"id": "3305012009", "district_id": "330501", "name": "KALIBANGKANG"}, {"id": "3305012010", "district_id": "330501", "name": "TLOGOSARI"}, {"id": "3305012011", "district_id": "330501", "name": "KALIPOH"}, {"id": "3305012012", "district_id": "330501", "name": "AYAH"}, {"id": "3305012013", "district_id": "330501", "name": "CANDIRENGGO"}, {"id": "3305012014", "district_id": "330501", "name": "MANGUNWENI"}, {"id": "3305012015", "district_id": "330501", "name": "JATIJAJAR"}, {"id": "3305012016", "district_id": "330501", "name": "DEMANGSARI"}, {"id": "3305012017", "district_id": "330501", "name": "BULUREJO"}, {"id": "3305012018", "district_id": "330501", "name": "KEDUNGWERU"}]
+[
+  {
+    "id": "3305012001",
+    "district_id": "330501",
+    "name": "ARGOPENI"
+  },
+  {
+    "id": "3305012002",
+    "district_id": "330501",
+    "name": "KARANGDUWUR"
+  },
+  {
+    "id": "3305012003",
+    "district_id": "330501",
+    "name": "SRATI"
+  },
+  {
+    "id": "3305012004",
+    "district_id": "330501",
+    "name": "PASIR"
+  },
+  {
+    "id": "3305012005",
+    "district_id": "330501",
+    "name": "JINTUNG"
+  },
+  {
+    "id": "3305012006",
+    "district_id": "330501",
+    "name": "BANJARARJO"
+  },
+  {
+    "id": "3305012007",
+    "district_id": "330501",
+    "name": "ARGOSARI"
+  },
+  {
+    "id": "3305012008",
+    "district_id": "330501",
+    "name": "WATUKELIR"
+  },
+  {
+    "id": "3305012009",
+    "district_id": "330501",
+    "name": "KALIBANGKANG"
+  },
+  {
+    "id": "3305012010",
+    "district_id": "330501",
+    "name": "TLOGOSARI"
+  },
+  {
+    "id": "3305012011",
+    "district_id": "330501",
+    "name": "KALIPOH"
+  },
+  {
+    "id": "3305012012",
+    "district_id": "330501",
+    "name": "AYAH"
+  },
+  {
+    "id": "3305012013",
+    "district_id": "330501",
+    "name": "CANDIRENGGO"
+  },
+  {
+    "id": "3305012014",
+    "district_id": "330501",
+    "name": "MANGUNWENI"
+  },
+  {
+    "id": "3305012015",
+    "district_id": "330501",
+    "name": "JATIJAJAR"
+  },
+  {
+    "id": "3305012016",
+    "district_id": "330501",
+    "name": "DEMANGSARI"
+  },
+  {
+    "id": "3305012017",
+    "district_id": "330501",
+    "name": "BULUREJO"
+  },
+  {
+    "id": "3305012018",
+    "district_id": "330501",
+    "name": "KEDUNGWERU"
+  }
+]

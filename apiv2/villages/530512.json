@@ -1,1 +1,37 @@
-[{"id": "5305122001", "district_id": "530512", "name": "MATARU SELATAN"}, {"id": "5305122002", "district_id": "530512", "name": "MATARU UTARA"}, {"id": "5305122003", "district_id": "530512", "name": "LAKATULI"}, {"id": "5305122004", "district_id": "530512", "name": "MATARU TIMUR"}, {"id": "5305122005", "district_id": "530512", "name": "KAMAIFUI"}, {"id": "5305122006", "district_id": "530512", "name": "MATARU BARAT"}, {"id": "5305122007", "district_id": "530512", "name": "TAMAN MATARU"}]
+[
+  {
+    "id": "5305122001",
+    "district_id": "530512",
+    "name": "MATARU SELATAN"
+  },
+  {
+    "id": "5305122002",
+    "district_id": "530512",
+    "name": "MATARU UTARA"
+  },
+  {
+    "id": "5305122003",
+    "district_id": "530512",
+    "name": "LAKATULI"
+  },
+  {
+    "id": "5305122004",
+    "district_id": "530512",
+    "name": "MATARU TIMUR"
+  },
+  {
+    "id": "5305122005",
+    "district_id": "530512",
+    "name": "KAMAIFUI"
+  },
+  {
+    "id": "5305122006",
+    "district_id": "530512",
+    "name": "MATARU BARAT"
+  },
+  {
+    "id": "5305122007",
+    "district_id": "530512",
+    "name": "TAMAN MATARU"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3526022001", "district_id": "352602", "name": "SOCAH"}, {"id": "3526022002", "district_id": "352602", "name": "KELEYAN"}, {"id": "3526022003", "district_id": "352602", "name": "BILAPORAH"}, {"id": "3526022004", "district_id": "352602", "name": "PARSEH"}, {"id": "3526022005", "district_id": "352602", "name": "JADDIH"}, {"id": "3526022006", "district_id": "352602", "name": "BULUH"}, {"id": "3526022007", "district_id": "352602", "name": "JUNGANYAR"}, {"id": "3526022008", "district_id": "352602", "name": "DAKIRING"}, {"id": "3526022009", "district_id": "352602", "name": "PETAONAN"}, {"id": "3526022010", "district_id": "352602", "name": "PERNAJUH"}, {"id": "3526022011", "district_id": "352602", "name": "SANGGRA AGUNG"}]
+[
+  {
+    "id": "3526022001",
+    "district_id": "352602",
+    "name": "SOCAH"
+  },
+  {
+    "id": "3526022002",
+    "district_id": "352602",
+    "name": "KELEYAN"
+  },
+  {
+    "id": "3526022003",
+    "district_id": "352602",
+    "name": "BILAPORAH"
+  },
+  {
+    "id": "3526022004",
+    "district_id": "352602",
+    "name": "PARSEH"
+  },
+  {
+    "id": "3526022005",
+    "district_id": "352602",
+    "name": "JADDIH"
+  },
+  {
+    "id": "3526022006",
+    "district_id": "352602",
+    "name": "BULUH"
+  },
+  {
+    "id": "3526022007",
+    "district_id": "352602",
+    "name": "JUNGANYAR"
+  },
+  {
+    "id": "3526022008",
+    "district_id": "352602",
+    "name": "DAKIRING"
+  },
+  {
+    "id": "3526022009",
+    "district_id": "352602",
+    "name": "PETAONAN"
+  },
+  {
+    "id": "3526022010",
+    "district_id": "352602",
+    "name": "PERNAJUH"
+  },
+  {
+    "id": "3526022011",
+    "district_id": "352602",
+    "name": "SANGGRA AGUNG"
+  }
+]

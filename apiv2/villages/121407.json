@@ -1,1 +1,107 @@
-[{"id": "1214072004", "district_id": "121407", "name": "SIFAOROASI"}, {"id": "1214072005", "district_id": "121407", "name": "HILIHORU"}, {"id": "1214072006", "district_id": "121407", "name": "HILIMBULAWA"}, {"id": "1214072008", "district_id": "121407", "name": "TUINDRAO"}, {"id": "1214072009", "district_id": "121407", "name": "HILIMBOWO"}, {"id": "1214072011", "district_id": "121407", "name": "MOHILI"}, {"id": "1214072012", "district_id": "121407", "name": "LOLOZARIA"}, {"id": "1214072013", "district_id": "121407", "name": "LOLOMOYO"}, {"id": "1214072014", "district_id": "121407", "name": "HILIFADOLO"}, {"id": "1214072015", "district_id": "121407", "name": "ORAHILI EHO"}, {"id": "1214072016", "district_id": "121407", "name": "SISOBAHILI"}, {"id": "1214072023", "district_id": "121407", "name": "LOLOABOLO"}, {"id": "1214072024", "district_id": "121407", "name": "HILISALO'O"}, {"id": "1214072026", "district_id": "121407", "name": "SIROFI"}, {"id": "1214072027", "district_id": "121407", "name": "HILINDRASO"}, {"id": "1214072028", "district_id": "121407", "name": "HILIMAERA"}, {"id": "1214072029", "district_id": "121407", "name": "BOHOLU"}, {"id": "1214072030", "district_id": "121407", "name": "AMANDRAYA"}, {"id": "1214072031", "district_id": "121407", "name": "SINAR INO'O"}, {"id": "1214072032", "district_id": "121407", "name": "TUINDRAO I"}, {"id": "1214072033", "district_id": "121407", "name": "TUHEMBERUA AMANDRAYA"}]
+[
+  {
+    "id": "1214072004",
+    "district_id": "121407",
+    "name": "SIFAOROASI"
+  },
+  {
+    "id": "1214072005",
+    "district_id": "121407",
+    "name": "HILIHORU"
+  },
+  {
+    "id": "1214072006",
+    "district_id": "121407",
+    "name": "HILIMBULAWA"
+  },
+  {
+    "id": "1214072008",
+    "district_id": "121407",
+    "name": "TUINDRAO"
+  },
+  {
+    "id": "1214072009",
+    "district_id": "121407",
+    "name": "HILIMBOWO"
+  },
+  {
+    "id": "1214072011",
+    "district_id": "121407",
+    "name": "MOHILI"
+  },
+  {
+    "id": "1214072012",
+    "district_id": "121407",
+    "name": "LOLOZARIA"
+  },
+  {
+    "id": "1214072013",
+    "district_id": "121407",
+    "name": "LOLOMOYO"
+  },
+  {
+    "id": "1214072014",
+    "district_id": "121407",
+    "name": "HILIFADOLO"
+  },
+  {
+    "id": "1214072015",
+    "district_id": "121407",
+    "name": "ORAHILI EHO"
+  },
+  {
+    "id": "1214072016",
+    "district_id": "121407",
+    "name": "SISOBAHILI"
+  },
+  {
+    "id": "1214072023",
+    "district_id": "121407",
+    "name": "LOLOABOLO"
+  },
+  {
+    "id": "1214072024",
+    "district_id": "121407",
+    "name": "HILISALO'O"
+  },
+  {
+    "id": "1214072026",
+    "district_id": "121407",
+    "name": "SIROFI"
+  },
+  {
+    "id": "1214072027",
+    "district_id": "121407",
+    "name": "HILINDRASO"
+  },
+  {
+    "id": "1214072028",
+    "district_id": "121407",
+    "name": "HILIMAERA"
+  },
+  {
+    "id": "1214072029",
+    "district_id": "121407",
+    "name": "BOHOLU"
+  },
+  {
+    "id": "1214072030",
+    "district_id": "121407",
+    "name": "AMANDRAYA"
+  },
+  {
+    "id": "1214072031",
+    "district_id": "121407",
+    "name": "SINAR INO'O"
+  },
+  {
+    "id": "1214072032",
+    "district_id": "121407",
+    "name": "TUINDRAO I"
+  },
+  {
+    "id": "1214072033",
+    "district_id": "121407",
+    "name": "TUHEMBERUA AMANDRAYA"
+  }
+]

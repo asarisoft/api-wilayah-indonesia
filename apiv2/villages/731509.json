@@ -1,1 +1,32 @@
-[{"id": "7315091001", "district_id": "731509", "name": "PAMMASE"}, {"id": "7315091002", "district_id": "731509", "name": "MARAWI"}, {"id": "7315091003", "district_id": "731509", "name": "FAKKIE"}, {"id": "7315091004", "district_id": "731509", "name": "TIROANG"}, {"id": "7315091005", "district_id": "731509", "name": "MATTIRO DECENG"}, {"id": "7315091006", "district_id": "731509", "name": "SAMATURUE"}]
+[
+  {
+    "id": "7315091001",
+    "district_id": "731509",
+    "name": "PAMMASE"
+  },
+  {
+    "id": "7315091002",
+    "district_id": "731509",
+    "name": "MARAWI"
+  },
+  {
+    "id": "7315091003",
+    "district_id": "731509",
+    "name": "FAKKIE"
+  },
+  {
+    "id": "7315091004",
+    "district_id": "731509",
+    "name": "TIROANG"
+  },
+  {
+    "id": "7315091005",
+    "district_id": "731509",
+    "name": "MATTIRO DECENG"
+  },
+  {
+    "id": "7315091006",
+    "district_id": "731509",
+    "name": "SAMATURUE"
+  }
+]

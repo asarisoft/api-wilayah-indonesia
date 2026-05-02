@@ -1,1 +1,42 @@
-[{"id": "9602032001", "district_id": "960203", "name": "SAWIAT"}, {"id": "9602032002", "district_id": "960203", "name": "SASNEK"}, {"id": "9602032003", "district_id": "960203", "name": "ELLES"}, {"id": "9602032004", "district_id": "960203", "name": "SODROFOYO"}, {"id": "9602032005", "district_id": "960203", "name": "SFAKYO"}, {"id": "9602032006", "district_id": "960203", "name": "WENSOUGH"}, {"id": "9602032007", "district_id": "960203", "name": "WEEN"}, {"id": "9602032008", "district_id": "960203", "name": "WENDI"}]
+[
+  {
+    "id": "9602032001",
+    "district_id": "960203",
+    "name": "SAWIAT"
+  },
+  {
+    "id": "9602032002",
+    "district_id": "960203",
+    "name": "SASNEK"
+  },
+  {
+    "id": "9602032003",
+    "district_id": "960203",
+    "name": "ELLES"
+  },
+  {
+    "id": "9602032004",
+    "district_id": "960203",
+    "name": "SODROFOYO"
+  },
+  {
+    "id": "9602032005",
+    "district_id": "960203",
+    "name": "SFAKYO"
+  },
+  {
+    "id": "9602032006",
+    "district_id": "960203",
+    "name": "WENSOUGH"
+  },
+  {
+    "id": "9602032007",
+    "district_id": "960203",
+    "name": "WEEN"
+  },
+  {
+    "id": "9602032008",
+    "district_id": "960203",
+    "name": "WENDI"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "1805182001", "district_id": "180518", "name": "BUMI DIPASENA UTAMA"}, {"id": "1805182002", "district_id": "180518", "name": "BUMI DIPASENA AGUNG"}, {"id": "1805182003", "district_id": "180518", "name": "BUMI DIPASENA JAYA"}, {"id": "1805182004", "district_id": "180518", "name": "BUMI DIPASENA ABADI"}, {"id": "1805182005", "district_id": "180518", "name": "BUMI DIPASENA MAKMUR"}, {"id": "1805182006", "district_id": "180518", "name": "BUMI SENTOSA"}, {"id": "1805182007", "district_id": "180518", "name": "BUMI DIPASENA MULYA"}, {"id": "1805182008", "district_id": "180518", "name": "BUMI DIPASENA SEJAHTERA"}]
+[
+  {
+    "id": "1805182001",
+    "district_id": "180518",
+    "name": "BUMI DIPASENA UTAMA"
+  },
+  {
+    "id": "1805182002",
+    "district_id": "180518",
+    "name": "BUMI DIPASENA AGUNG"
+  },
+  {
+    "id": "1805182003",
+    "district_id": "180518",
+    "name": "BUMI DIPASENA JAYA"
+  },
+  {
+    "id": "1805182004",
+    "district_id": "180518",
+    "name": "BUMI DIPASENA ABADI"
+  },
+  {
+    "id": "1805182005",
+    "district_id": "180518",
+    "name": "BUMI DIPASENA MAKMUR"
+  },
+  {
+    "id": "1805182006",
+    "district_id": "180518",
+    "name": "BUMI SENTOSA"
+  },
+  {
+    "id": "1805182007",
+    "district_id": "180518",
+    "name": "BUMI DIPASENA MULYA"
+  },
+  {
+    "id": "1805182008",
+    "district_id": "180518",
+    "name": "BUMI DIPASENA SEJAHTERA"
+  }
+]

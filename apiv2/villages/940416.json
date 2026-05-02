@@ -1,1 +1,37 @@
-[{"id": "9404161002", "district_id": "940416", "name": "KAMORO JAYA"}, {"id": "9404161003", "district_id": "940416", "name": "WONOSARI JAYA"}, {"id": "9404161005", "district_id": "940416", "name": "INAUGA"}, {"id": "9404162001", "district_id": "940416", "name": "KADUN JAYA"}, {"id": "9404162004", "district_id": "940416", "name": "NAWARIPI"}, {"id": "9404162006", "district_id": "940416", "name": "MAWOKAU JAYA"}, {"id": "9404162007", "district_id": "940416", "name": "MANDIRI JAYA"}]
+[
+  {
+    "id": "9404161002",
+    "district_id": "940416",
+    "name": "KAMORO JAYA"
+  },
+  {
+    "id": "9404161003",
+    "district_id": "940416",
+    "name": "WONOSARI JAYA"
+  },
+  {
+    "id": "9404161005",
+    "district_id": "940416",
+    "name": "INAUGA"
+  },
+  {
+    "id": "9404162001",
+    "district_id": "940416",
+    "name": "KADUN JAYA"
+  },
+  {
+    "id": "9404162004",
+    "district_id": "940416",
+    "name": "NAWARIPI"
+  },
+  {
+    "id": "9404162006",
+    "district_id": "940416",
+    "name": "MAWOKAU JAYA"
+  },
+  {
+    "id": "9404162007",
+    "district_id": "940416",
+    "name": "MANDIRI JAYA"
+  }
+]

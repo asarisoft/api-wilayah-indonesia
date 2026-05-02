@@ -1,1 +1,42 @@
-[{"id": "9501082001", "district_id": "950108", "name": "WOLO"}, {"id": "9501082002", "district_id": "950108", "name": "KUKURIMA"}, {"id": "9501082003", "district_id": "950108", "name": "PIRAMBOT"}, {"id": "9501082004", "district_id": "950108", "name": "TEGABAGA"}, {"id": "9501082005", "district_id": "950108", "name": "WOLLO TIMUR"}, {"id": "9501082006", "district_id": "950108", "name": "ALUGI"}, {"id": "9501082007", "district_id": "950108", "name": "WUNAN"}, {"id": "9501082008", "district_id": "950108", "name": "WODLOMA"}]
+[
+  {
+    "id": "9501082001",
+    "district_id": "950108",
+    "name": "WOLO"
+  },
+  {
+    "id": "9501082002",
+    "district_id": "950108",
+    "name": "KUKURIMA"
+  },
+  {
+    "id": "9501082003",
+    "district_id": "950108",
+    "name": "PIRAMBOT"
+  },
+  {
+    "id": "9501082004",
+    "district_id": "950108",
+    "name": "TEGABAGA"
+  },
+  {
+    "id": "9501082005",
+    "district_id": "950108",
+    "name": "WOLLO TIMUR"
+  },
+  {
+    "id": "9501082006",
+    "district_id": "950108",
+    "name": "ALUGI"
+  },
+  {
+    "id": "9501082007",
+    "district_id": "950108",
+    "name": "WUNAN"
+  },
+  {
+    "id": "9501082008",
+    "district_id": "950108",
+    "name": "WODLOMA"
+  }
+]

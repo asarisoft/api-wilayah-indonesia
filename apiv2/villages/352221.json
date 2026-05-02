@@ -1,1 +1,62 @@
-[{"id": "3522212001", "district_id": "352221", "name": "KEDUNGSUMBER"}, {"id": "3522212002", "district_id": "352221", "name": "KEDUNGSARI"}, {"id": "3522212003", "district_id": "352221", "name": "PAPRINGAN"}, {"id": "3522212004", "district_id": "352221", "name": "SOKO"}, {"id": "3522212005", "district_id": "352221", "name": "PANDANTOYO"}, {"id": "3522212006", "district_id": "352221", "name": "BELUN"}, {"id": "3522212007", "district_id": "352221", "name": "TEMAYANG"}, {"id": "3522212008", "district_id": "352221", "name": "BAKULAN"}, {"id": "3522212009", "district_id": "352221", "name": "JONO"}, {"id": "3522212010", "district_id": "352221", "name": "NGUJUNG"}, {"id": "3522212011", "district_id": "352221", "name": "BUNTALAN"}, {"id": "3522212012", "district_id": "352221", "name": "PANCUR"}]
+[
+  {
+    "id": "3522212001",
+    "district_id": "352221",
+    "name": "KEDUNGSUMBER"
+  },
+  {
+    "id": "3522212002",
+    "district_id": "352221",
+    "name": "KEDUNGSARI"
+  },
+  {
+    "id": "3522212003",
+    "district_id": "352221",
+    "name": "PAPRINGAN"
+  },
+  {
+    "id": "3522212004",
+    "district_id": "352221",
+    "name": "SOKO"
+  },
+  {
+    "id": "3522212005",
+    "district_id": "352221",
+    "name": "PANDANTOYO"
+  },
+  {
+    "id": "3522212006",
+    "district_id": "352221",
+    "name": "BELUN"
+  },
+  {
+    "id": "3522212007",
+    "district_id": "352221",
+    "name": "TEMAYANG"
+  },
+  {
+    "id": "3522212008",
+    "district_id": "352221",
+    "name": "BAKULAN"
+  },
+  {
+    "id": "3522212009",
+    "district_id": "352221",
+    "name": "JONO"
+  },
+  {
+    "id": "3522212010",
+    "district_id": "352221",
+    "name": "NGUJUNG"
+  },
+  {
+    "id": "3522212011",
+    "district_id": "352221",
+    "name": "BUNTALAN"
+  },
+  {
+    "id": "3522212012",
+    "district_id": "352221",
+    "name": "PANCUR"
+  }
+]

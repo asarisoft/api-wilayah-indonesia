@@ -1,1 +1,32 @@
-[{"id": "1304102001", "district_id": "130410", "name": "SUMANIK"}, {"id": "1304102002", "district_id": "130410", "name": "SITUMBUK"}, {"id": "1304102003", "district_id": "130410", "name": "LAWANG MANDAHILING"}, {"id": "1304102004", "district_id": "130410", "name": "SUPAYANG"}, {"id": "1304102005", "district_id": "130410", "name": "SALIMPAUNG"}, {"id": "1304102006", "district_id": "130410", "name": "TABEK PATAH"}]
+[
+  {
+    "id": "1304102001",
+    "district_id": "130410",
+    "name": "SUMANIK"
+  },
+  {
+    "id": "1304102002",
+    "district_id": "130410",
+    "name": "SITUMBUK"
+  },
+  {
+    "id": "1304102003",
+    "district_id": "130410",
+    "name": "LAWANG MANDAHILING"
+  },
+  {
+    "id": "1304102004",
+    "district_id": "130410",
+    "name": "SUPAYANG"
+  },
+  {
+    "id": "1304102005",
+    "district_id": "130410",
+    "name": "SALIMPAUNG"
+  },
+  {
+    "id": "1304102006",
+    "district_id": "130410",
+    "name": "TABEK PATAH"
+  }
+]

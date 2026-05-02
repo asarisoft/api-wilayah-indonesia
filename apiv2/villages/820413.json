@@ -1,1 +1,32 @@
-[{"id": "8204132001", "district_id": "820413", "name": "MODAYAMA"}, {"id": "8204132002", "district_id": "820413", "name": "LAROMABATI"}, {"id": "8204132003", "district_id": "820413", "name": "GAYAP"}, {"id": "8204132004", "district_id": "820413", "name": "AKE JAILOLO"}, {"id": "8204132005", "district_id": "820413", "name": "WAYASIPANG"}, {"id": "8204132006", "district_id": "820413", "name": "NGOKOMALAKO"}]
+[
+  {
+    "id": "8204132001",
+    "district_id": "820413",
+    "name": "MODAYAMA"
+  },
+  {
+    "id": "8204132002",
+    "district_id": "820413",
+    "name": "LAROMABATI"
+  },
+  {
+    "id": "8204132003",
+    "district_id": "820413",
+    "name": "GAYAP"
+  },
+  {
+    "id": "8204132004",
+    "district_id": "820413",
+    "name": "AKE JAILOLO"
+  },
+  {
+    "id": "8204132005",
+    "district_id": "820413",
+    "name": "WAYASIPANG"
+  },
+  {
+    "id": "8204132006",
+    "district_id": "820413",
+    "name": "NGOKOMALAKO"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "3326152001", "district_id": "332615", "name": "WULED"}, {"id": "3326152002", "district_id": "332615", "name": "NGALIAN"}, {"id": "3326152003", "district_id": "332615", "name": "PANDANARUM"}, {"id": "3326152004", "district_id": "332615", "name": "KARANGANYAR"}, {"id": "3326152005", "district_id": "332615", "name": "SILIREJO"}, {"id": "3326152006", "district_id": "332615", "name": "PUCUNG"}, {"id": "3326152007", "district_id": "332615", "name": "SIDOREJO"}, {"id": "3326152008", "district_id": "332615", "name": "SAMBOREJO"}, {"id": "3326152009", "district_id": "332615", "name": "TANJUNG"}, {"id": "3326152010", "district_id": "332615", "name": "PACAR"}, {"id": "3326152011", "district_id": "332615", "name": "DADIREJO"}, {"id": "3326152012", "district_id": "332615", "name": "KARANGJOMPO"}, {"id": "3326152013", "district_id": "332615", "name": "TEGALDOWO"}, {"id": "3326152014", "district_id": "332615", "name": "MULYOREJO"}, {"id": "3326152015", "district_id": "332615", "name": "JERUKSARI"}, {"id": "3326152016", "district_id": "332615", "name": "CURUG"}]
+[
+  {
+    "id": "3326152001",
+    "district_id": "332615",
+    "name": "WULED"
+  },
+  {
+    "id": "3326152002",
+    "district_id": "332615",
+    "name": "NGALIAN"
+  },
+  {
+    "id": "3326152003",
+    "district_id": "332615",
+    "name": "PANDANARUM"
+  },
+  {
+    "id": "3326152004",
+    "district_id": "332615",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3326152005",
+    "district_id": "332615",
+    "name": "SILIREJO"
+  },
+  {
+    "id": "3326152006",
+    "district_id": "332615",
+    "name": "PUCUNG"
+  },
+  {
+    "id": "3326152007",
+    "district_id": "332615",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3326152008",
+    "district_id": "332615",
+    "name": "SAMBOREJO"
+  },
+  {
+    "id": "3326152009",
+    "district_id": "332615",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "3326152010",
+    "district_id": "332615",
+    "name": "PACAR"
+  },
+  {
+    "id": "3326152011",
+    "district_id": "332615",
+    "name": "DADIREJO"
+  },
+  {
+    "id": "3326152012",
+    "district_id": "332615",
+    "name": "KARANGJOMPO"
+  },
+  {
+    "id": "3326152013",
+    "district_id": "332615",
+    "name": "TEGALDOWO"
+  },
+  {
+    "id": "3326152014",
+    "district_id": "332615",
+    "name": "MULYOREJO"
+  },
+  {
+    "id": "3326152015",
+    "district_id": "332615",
+    "name": "JERUKSARI"
+  },
+  {
+    "id": "3326152016",
+    "district_id": "332615",
+    "name": "CURUG"
+  }
+]

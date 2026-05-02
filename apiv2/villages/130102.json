@@ -1,1 +1,52 @@
-[{"id": "1301022001", "district_id": "130102", "name": "PELANGAI"}, {"id": "1301022002", "district_id": "130102", "name": "SUNGAI TUNU"}, {"id": "1301022003", "district_id": "130102", "name": "SUNGAI TUNU UTARA"}, {"id": "1301022004", "district_id": "130102", "name": "SUNGAI TUNU BARAT"}, {"id": "1301022005", "district_id": "130102", "name": "NYIUR MELAMBAI PELANGAI"}, {"id": "1301022006", "district_id": "130102", "name": "SUNGAI LIKU PELANGAI"}, {"id": "1301022007", "district_id": "130102", "name": "KOTO VIII PELANGAI"}, {"id": "1301022008", "district_id": "130102", "name": "PELANGAI GADANG"}, {"id": "1301022009", "district_id": "130102", "name": "PELANGAI KACIAK"}, {"id": "1301022010", "district_id": "130102", "name": "PASIA PELANGAI"}]
+[
+  {
+    "id": "1301022001",
+    "district_id": "130102",
+    "name": "PELANGAI"
+  },
+  {
+    "id": "1301022002",
+    "district_id": "130102",
+    "name": "SUNGAI TUNU"
+  },
+  {
+    "id": "1301022003",
+    "district_id": "130102",
+    "name": "SUNGAI TUNU UTARA"
+  },
+  {
+    "id": "1301022004",
+    "district_id": "130102",
+    "name": "SUNGAI TUNU BARAT"
+  },
+  {
+    "id": "1301022005",
+    "district_id": "130102",
+    "name": "NYIUR MELAMBAI PELANGAI"
+  },
+  {
+    "id": "1301022006",
+    "district_id": "130102",
+    "name": "SUNGAI LIKU PELANGAI"
+  },
+  {
+    "id": "1301022007",
+    "district_id": "130102",
+    "name": "KOTO VIII PELANGAI"
+  },
+  {
+    "id": "1301022008",
+    "district_id": "130102",
+    "name": "PELANGAI GADANG"
+  },
+  {
+    "id": "1301022009",
+    "district_id": "130102",
+    "name": "PELANGAI KACIAK"
+  },
+  {
+    "id": "1301022010",
+    "district_id": "130102",
+    "name": "PASIA PELANGAI"
+  }
+]

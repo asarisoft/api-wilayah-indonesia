@@ -1,1 +1,47 @@
-[{"id": "9501092001", "district_id": "950109", "name": "SINATA"}, {"id": "9501092002", "district_id": "950109", "name": "ASOLOKOBAL"}, {"id": "9501092003", "district_id": "950109", "name": "HESATOM"}, {"id": "9501092004", "district_id": "950109", "name": "ASOTAPO"}, {"id": "9501092005", "district_id": "950109", "name": "WIAIMA"}, {"id": "9501092006", "district_id": "950109", "name": "NINABUA"}, {"id": "9501092007", "district_id": "950109", "name": "HELALUWA"}, {"id": "9501092008", "district_id": "950109", "name": "MULINEKAMA"}, {"id": "9501092009", "district_id": "950109", "name": "YAPEMA"}]
+[
+  {
+    "id": "9501092001",
+    "district_id": "950109",
+    "name": "SINATA"
+  },
+  {
+    "id": "9501092002",
+    "district_id": "950109",
+    "name": "ASOLOKOBAL"
+  },
+  {
+    "id": "9501092003",
+    "district_id": "950109",
+    "name": "HESATOM"
+  },
+  {
+    "id": "9501092004",
+    "district_id": "950109",
+    "name": "ASOTAPO"
+  },
+  {
+    "id": "9501092005",
+    "district_id": "950109",
+    "name": "WIAIMA"
+  },
+  {
+    "id": "9501092006",
+    "district_id": "950109",
+    "name": "NINABUA"
+  },
+  {
+    "id": "9501092007",
+    "district_id": "950109",
+    "name": "HELALUWA"
+  },
+  {
+    "id": "9501092008",
+    "district_id": "950109",
+    "name": "MULINEKAMA"
+  },
+  {
+    "id": "9501092009",
+    "district_id": "950109",
+    "name": "YAPEMA"
+  }
+]

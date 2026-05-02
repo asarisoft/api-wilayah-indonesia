@@ -1,1 +1,72 @@
-[{"id": "1501182001", "district_id": "150118", "name": "MUKAI HILIR"}, {"id": "1501182002", "district_id": "150118", "name": "MUKAI TENGAH"}, {"id": "1501182003", "district_id": "150118", "name": "MUKAI MUDIK"}, {"id": "1501182004", "district_id": "150118", "name": "SENIMPIK"}, {"id": "1501182005", "district_id": "150118", "name": "TEBING TINGGI"}, {"id": "1501182006", "district_id": "150118", "name": "MUKAI TINGGI"}, {"id": "1501182007", "district_id": "150118", "name": "MUKAI PINTU"}, {"id": "1501182008", "district_id": "150118", "name": "SUNGAILANGKAP"}, {"id": "1501182009", "district_id": "150118", "name": "PASIR JAYA"}, {"id": "1501182010", "district_id": "150118", "name": "SUNGAIKUNING"}, {"id": "1501182011", "district_id": "150118", "name": "MUKAI SEBERANG"}, {"id": "1501182012", "district_id": "150118", "name": "TALANG TINGGI"}, {"id": "1501182013", "district_id": "150118", "name": "LUBUK TABUN"}, {"id": "1501182014", "district_id": "150118", "name": "KOTO LUA"}]
+[
+  {
+    "id": "1501182001",
+    "district_id": "150118",
+    "name": "MUKAI HILIR"
+  },
+  {
+    "id": "1501182002",
+    "district_id": "150118",
+    "name": "MUKAI TENGAH"
+  },
+  {
+    "id": "1501182003",
+    "district_id": "150118",
+    "name": "MUKAI MUDIK"
+  },
+  {
+    "id": "1501182004",
+    "district_id": "150118",
+    "name": "SENIMPIK"
+  },
+  {
+    "id": "1501182005",
+    "district_id": "150118",
+    "name": "TEBING TINGGI"
+  },
+  {
+    "id": "1501182006",
+    "district_id": "150118",
+    "name": "MUKAI TINGGI"
+  },
+  {
+    "id": "1501182007",
+    "district_id": "150118",
+    "name": "MUKAI PINTU"
+  },
+  {
+    "id": "1501182008",
+    "district_id": "150118",
+    "name": "SUNGAILANGKAP"
+  },
+  {
+    "id": "1501182009",
+    "district_id": "150118",
+    "name": "PASIR JAYA"
+  },
+  {
+    "id": "1501182010",
+    "district_id": "150118",
+    "name": "SUNGAIKUNING"
+  },
+  {
+    "id": "1501182011",
+    "district_id": "150118",
+    "name": "MUKAI SEBERANG"
+  },
+  {
+    "id": "1501182012",
+    "district_id": "150118",
+    "name": "TALANG TINGGI"
+  },
+  {
+    "id": "1501182013",
+    "district_id": "150118",
+    "name": "LUBUK TABUN"
+  },
+  {
+    "id": "1501182014",
+    "district_id": "150118",
+    "name": "KOTO LUA"
+  }
+]

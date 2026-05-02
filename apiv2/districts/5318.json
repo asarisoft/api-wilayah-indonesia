@@ -1,1 +1,57 @@
-[{"id": "531801", "regency_id": "5318", "name": "LOURA"}, {"id": "531802", "regency_id": "5318", "name": "WEWEWA UTARA"}, {"id": "531803", "regency_id": "5318", "name": "WEWEWA TIMUR"}, {"id": "531804", "regency_id": "5318", "name": "WEWEWA BARAT"}, {"id": "531805", "regency_id": "5318", "name": "WEWEWA SELATAN"}, {"id": "531806", "regency_id": "5318", "name": "KODI BANGEDO"}, {"id": "531807", "regency_id": "5318", "name": "KODI"}, {"id": "531808", "regency_id": "5318", "name": "KODI UTARA"}, {"id": "531809", "regency_id": "5318", "name": "KOTA TAMBOLAKA"}, {"id": "531810", "regency_id": "5318", "name": "WEWEWA TENGAH"}, {"id": "531811", "regency_id": "5318", "name": "KODI BALAGHAR"}]
+[
+  {
+    "id": "531801",
+    "regency_id": "5318",
+    "name": "LOURA"
+  },
+  {
+    "id": "531802",
+    "regency_id": "5318",
+    "name": "WEWEWA UTARA"
+  },
+  {
+    "id": "531803",
+    "regency_id": "5318",
+    "name": "WEWEWA TIMUR"
+  },
+  {
+    "id": "531804",
+    "regency_id": "5318",
+    "name": "WEWEWA BARAT"
+  },
+  {
+    "id": "531805",
+    "regency_id": "5318",
+    "name": "WEWEWA SELATAN"
+  },
+  {
+    "id": "531806",
+    "regency_id": "5318",
+    "name": "KODI BANGEDO"
+  },
+  {
+    "id": "531807",
+    "regency_id": "5318",
+    "name": "KODI"
+  },
+  {
+    "id": "531808",
+    "regency_id": "5318",
+    "name": "KODI UTARA"
+  },
+  {
+    "id": "531809",
+    "regency_id": "5318",
+    "name": "KOTA TAMBOLAKA"
+  },
+  {
+    "id": "531810",
+    "regency_id": "5318",
+    "name": "WEWEWA TENGAH"
+  },
+  {
+    "id": "531811",
+    "regency_id": "5318",
+    "name": "KODI BALAGHAR"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "1371041001", "district_id": "137104", "name": "AIR TAWAR TIMUR"}, {"id": "1371041002", "district_id": "137104", "name": "AIR TAWAR BARAT"}, {"id": "1371041003", "district_id": "137104", "name": "ULAK KARANG UTARA"}, {"id": "1371041004", "district_id": "137104", "name": "ULAK KARANG SELATAN"}, {"id": "1371041005", "district_id": "137104", "name": "LOLONG BELANTI"}, {"id": "1371041006", "district_id": "137104", "name": "ALAI PARAK KOPI"}, {"id": "1371041007", "district_id": "137104", "name": "GUNUNG PANGILUN"}]
+[
+  {
+    "id": "1371041001",
+    "district_id": "137104",
+    "name": "AIR TAWAR TIMUR"
+  },
+  {
+    "id": "1371041002",
+    "district_id": "137104",
+    "name": "AIR TAWAR BARAT"
+  },
+  {
+    "id": "1371041003",
+    "district_id": "137104",
+    "name": "ULAK KARANG UTARA"
+  },
+  {
+    "id": "1371041004",
+    "district_id": "137104",
+    "name": "ULAK KARANG SELATAN"
+  },
+  {
+    "id": "1371041005",
+    "district_id": "137104",
+    "name": "LOLONG BELANTI"
+  },
+  {
+    "id": "1371041006",
+    "district_id": "137104",
+    "name": "ALAI PARAK KOPI"
+  },
+  {
+    "id": "1371041007",
+    "district_id": "137104",
+    "name": "GUNUNG PANGILUN"
+  }
+]

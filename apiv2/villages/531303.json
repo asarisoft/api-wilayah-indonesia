@@ -1,1 +1,87 @@
-[{"id": "5313032001", "district_id": "531303", "name": "KOLIPADAN"}, {"id": "5313032002", "district_id": "531303", "name": "DULITUKAN"}, {"id": "5313032003", "district_id": "531303", "name": "TAGAWITI"}, {"id": "5313032004", "district_id": "531303", "name": "WAOWALA"}, {"id": "5313032005", "district_id": "531303", "name": "AMAKAKA"}, {"id": "5313032006", "district_id": "531303", "name": "BUNGAMUDA"}, {"id": "5313032007", "district_id": "531303", "name": "NAPASABOK"}, {"id": "5313032012", "district_id": "531303", "name": "PETUNTAWA"}, {"id": "5313032013", "district_id": "531303", "name": "KOLONTOBO"}, {"id": "5313032014", "district_id": "531303", "name": "LARANWUTUN"}, {"id": "5313032015", "district_id": "531303", "name": "WATODIRI"}, {"id": "5313032016", "district_id": "531303", "name": "TANJUNG BATU"}, {"id": "5313032018", "district_id": "531303", "name": "MURUONA"}, {"id": "5313032022", "district_id": "531303", "name": "PALILOLON"}, {"id": "5313032024", "district_id": "531303", "name": "LAMAWARA"}, {"id": "5313032025", "district_id": "531303", "name": "BEUTARAN"}, {"id": "5313032026", "district_id": "531303", "name": "RIANGBAO"}]
+[
+  {
+    "id": "5313032001",
+    "district_id": "531303",
+    "name": "KOLIPADAN"
+  },
+  {
+    "id": "5313032002",
+    "district_id": "531303",
+    "name": "DULITUKAN"
+  },
+  {
+    "id": "5313032003",
+    "district_id": "531303",
+    "name": "TAGAWITI"
+  },
+  {
+    "id": "5313032004",
+    "district_id": "531303",
+    "name": "WAOWALA"
+  },
+  {
+    "id": "5313032005",
+    "district_id": "531303",
+    "name": "AMAKAKA"
+  },
+  {
+    "id": "5313032006",
+    "district_id": "531303",
+    "name": "BUNGAMUDA"
+  },
+  {
+    "id": "5313032007",
+    "district_id": "531303",
+    "name": "NAPASABOK"
+  },
+  {
+    "id": "5313032012",
+    "district_id": "531303",
+    "name": "PETUNTAWA"
+  },
+  {
+    "id": "5313032013",
+    "district_id": "531303",
+    "name": "KOLONTOBO"
+  },
+  {
+    "id": "5313032014",
+    "district_id": "531303",
+    "name": "LARANWUTUN"
+  },
+  {
+    "id": "5313032015",
+    "district_id": "531303",
+    "name": "WATODIRI"
+  },
+  {
+    "id": "5313032016",
+    "district_id": "531303",
+    "name": "TANJUNG BATU"
+  },
+  {
+    "id": "5313032018",
+    "district_id": "531303",
+    "name": "MURUONA"
+  },
+  {
+    "id": "5313032022",
+    "district_id": "531303",
+    "name": "PALILOLON"
+  },
+  {
+    "id": "5313032024",
+    "district_id": "531303",
+    "name": "LAMAWARA"
+  },
+  {
+    "id": "5313032025",
+    "district_id": "531303",
+    "name": "BEUTARAN"
+  },
+  {
+    "id": "5313032026",
+    "district_id": "531303",
+    "name": "RIANGBAO"
+  }
+]

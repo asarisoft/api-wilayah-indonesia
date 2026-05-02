@@ -1,1 +1,97 @@
-[{"id": "3326131013", "district_id": "332613", "name": "PEKAJANGAN"}, {"id": "3326131019", "district_id": "332613", "name": "KEDUNGWUNI TIMUR"}, {"id": "3326131020", "district_id": "332613", "name": "KEDUNGWUNI BARAT"}, {"id": "3326132001", "district_id": "332613", "name": "KEDUNGPATANGEWU"}, {"id": "3326132002", "district_id": "332613", "name": "PAKISPUTIH"}, {"id": "3326132003", "district_id": "332613", "name": "ROWOCACING"}, {"id": "3326132004", "district_id": "332613", "name": "LANGKAP"}, {"id": "3326132005", "district_id": "332613", "name": "TOSARAN"}, {"id": "3326132006", "district_id": "332613", "name": "PAJOMBLANGAN"}, {"id": "3326132007", "district_id": "332613", "name": "PROTO"}, {"id": "3326132008", "district_id": "332613", "name": "KWAYANGAN"}, {"id": "3326132010", "district_id": "332613", "name": "PODO"}, {"id": "3326132011", "district_id": "332613", "name": "SALAKBROJO"}, {"id": "3326132012", "district_id": "332613", "name": "AMBOKEMBANG"}, {"id": "3326132014", "district_id": "332613", "name": "TANGKILTENGAH"}, {"id": "3326132015", "district_id": "332613", "name": "KARANGDOWO"}, {"id": "3326132016", "district_id": "332613", "name": "BUGANGAN"}, {"id": "3326132017", "district_id": "332613", "name": "RENGAS"}, {"id": "3326132018", "district_id": "332613", "name": "TANGKILKULON"}]
+[
+  {
+    "id": "3326131013",
+    "district_id": "332613",
+    "name": "PEKAJANGAN"
+  },
+  {
+    "id": "3326131019",
+    "district_id": "332613",
+    "name": "KEDUNGWUNI TIMUR"
+  },
+  {
+    "id": "3326131020",
+    "district_id": "332613",
+    "name": "KEDUNGWUNI BARAT"
+  },
+  {
+    "id": "3326132001",
+    "district_id": "332613",
+    "name": "KEDUNGPATANGEWU"
+  },
+  {
+    "id": "3326132002",
+    "district_id": "332613",
+    "name": "PAKISPUTIH"
+  },
+  {
+    "id": "3326132003",
+    "district_id": "332613",
+    "name": "ROWOCACING"
+  },
+  {
+    "id": "3326132004",
+    "district_id": "332613",
+    "name": "LANGKAP"
+  },
+  {
+    "id": "3326132005",
+    "district_id": "332613",
+    "name": "TOSARAN"
+  },
+  {
+    "id": "3326132006",
+    "district_id": "332613",
+    "name": "PAJOMBLANGAN"
+  },
+  {
+    "id": "3326132007",
+    "district_id": "332613",
+    "name": "PROTO"
+  },
+  {
+    "id": "3326132008",
+    "district_id": "332613",
+    "name": "KWAYANGAN"
+  },
+  {
+    "id": "3326132010",
+    "district_id": "332613",
+    "name": "PODO"
+  },
+  {
+    "id": "3326132011",
+    "district_id": "332613",
+    "name": "SALAKBROJO"
+  },
+  {
+    "id": "3326132012",
+    "district_id": "332613",
+    "name": "AMBOKEMBANG"
+  },
+  {
+    "id": "3326132014",
+    "district_id": "332613",
+    "name": "TANGKILTENGAH"
+  },
+  {
+    "id": "3326132015",
+    "district_id": "332613",
+    "name": "KARANGDOWO"
+  },
+  {
+    "id": "3326132016",
+    "district_id": "332613",
+    "name": "BUGANGAN"
+  },
+  {
+    "id": "3326132017",
+    "district_id": "332613",
+    "name": "RENGAS"
+  },
+  {
+    "id": "3326132018",
+    "district_id": "332613",
+    "name": "TANGKILKULON"
+  }
+]

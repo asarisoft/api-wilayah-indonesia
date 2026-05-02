@@ -1,1 +1,67 @@
-[{"id": "1223011001", "district_id": "122301", "name": "AEK KANOPAN"}, {"id": "1223011002", "district_id": "122301", "name": "AEK KANOPAN TIMUR"}, {"id": "1223012003", "district_id": "122301", "name": "KUALA BERINGIN"}, {"id": "1223012004", "district_id": "122301", "name": "PARPAUDANGAN"}, {"id": "1223012005", "district_id": "122301", "name": "PULO DOGOM"}, {"id": "1223012006", "district_id": "122301", "name": "LONDUT"}, {"id": "1223012007", "district_id": "122301", "name": "PERKEBUNAN KANOPAN ULU"}, {"id": "1223012008", "district_id": "122301", "name": "PERKEBUNAN MEMBANG MUDA"}, {"id": "1223012009", "district_id": "122301", "name": "PERKEBUNAN LABUHAN HAJI"}, {"id": "1223012010", "district_id": "122301", "name": "PERKEBUNAN HANNA"}, {"id": "1223012011", "district_id": "122301", "name": "SONOMARTANI"}, {"id": "1223012012", "district_id": "122301", "name": "SUKARAME"}, {"id": "1223012013", "district_id": "122301", "name": "SUKARAME BARU"}]
+[
+  {
+    "id": "1223011001",
+    "district_id": "122301",
+    "name": "AEK KANOPAN"
+  },
+  {
+    "id": "1223011002",
+    "district_id": "122301",
+    "name": "AEK KANOPAN TIMUR"
+  },
+  {
+    "id": "1223012003",
+    "district_id": "122301",
+    "name": "KUALA BERINGIN"
+  },
+  {
+    "id": "1223012004",
+    "district_id": "122301",
+    "name": "PARPAUDANGAN"
+  },
+  {
+    "id": "1223012005",
+    "district_id": "122301",
+    "name": "PULO DOGOM"
+  },
+  {
+    "id": "1223012006",
+    "district_id": "122301",
+    "name": "LONDUT"
+  },
+  {
+    "id": "1223012007",
+    "district_id": "122301",
+    "name": "PERKEBUNAN KANOPAN ULU"
+  },
+  {
+    "id": "1223012008",
+    "district_id": "122301",
+    "name": "PERKEBUNAN MEMBANG MUDA"
+  },
+  {
+    "id": "1223012009",
+    "district_id": "122301",
+    "name": "PERKEBUNAN LABUHAN HAJI"
+  },
+  {
+    "id": "1223012010",
+    "district_id": "122301",
+    "name": "PERKEBUNAN HANNA"
+  },
+  {
+    "id": "1223012011",
+    "district_id": "122301",
+    "name": "SONOMARTANI"
+  },
+  {
+    "id": "1223012012",
+    "district_id": "122301",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "1223012013",
+    "district_id": "122301",
+    "name": "SUKARAME BARU"
+  }
+]

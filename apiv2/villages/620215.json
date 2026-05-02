@@ -1,1 +1,72 @@
-[{"id": "6202152001", "district_id": "620215", "name": "TUMBANG TILAP"}, {"id": "6202152002", "district_id": "620215", "name": "TUMBANG KAMINTING"}, {"id": "6202152003", "district_id": "620215", "name": "TANAH HALUAN"}, {"id": "6202152004", "district_id": "620215", "name": "TUMBANG PANYAHUAN"}, {"id": "6202152005", "district_id": "620215", "name": "TUMBANG SAPIA"}, {"id": "6202152006", "district_id": "620215", "name": "TUMBANG GETAS"}, {"id": "6202152007", "district_id": "620215", "name": "TEWAI HARA"}, {"id": "6202152008", "district_id": "620215", "name": "TUMBANG PAYANG"}, {"id": "6202152009", "district_id": "620215", "name": "TUMBANG KANIA"}, {"id": "6202152010", "district_id": "620215", "name": "TUMBANG TAWAN"}, {"id": "6202152011", "district_id": "620215", "name": "LUNUK BAGANTUNG"}, {"id": "6202152012", "district_id": "620215", "name": "TUMBANG TORUNG"}, {"id": "6202152013", "district_id": "620215", "name": "TUMBANG BATU"}, {"id": "6202152014", "district_id": "620215", "name": "TUMBANG SALUANG"}]
+[
+  {
+    "id": "6202152001",
+    "district_id": "620215",
+    "name": "TUMBANG TILAP"
+  },
+  {
+    "id": "6202152002",
+    "district_id": "620215",
+    "name": "TUMBANG KAMINTING"
+  },
+  {
+    "id": "6202152003",
+    "district_id": "620215",
+    "name": "TANAH HALUAN"
+  },
+  {
+    "id": "6202152004",
+    "district_id": "620215",
+    "name": "TUMBANG PANYAHUAN"
+  },
+  {
+    "id": "6202152005",
+    "district_id": "620215",
+    "name": "TUMBANG SAPIA"
+  },
+  {
+    "id": "6202152006",
+    "district_id": "620215",
+    "name": "TUMBANG GETAS"
+  },
+  {
+    "id": "6202152007",
+    "district_id": "620215",
+    "name": "TEWAI HARA"
+  },
+  {
+    "id": "6202152008",
+    "district_id": "620215",
+    "name": "TUMBANG PAYANG"
+  },
+  {
+    "id": "6202152009",
+    "district_id": "620215",
+    "name": "TUMBANG KANIA"
+  },
+  {
+    "id": "6202152010",
+    "district_id": "620215",
+    "name": "TUMBANG TAWAN"
+  },
+  {
+    "id": "6202152011",
+    "district_id": "620215",
+    "name": "LUNUK BAGANTUNG"
+  },
+  {
+    "id": "6202152012",
+    "district_id": "620215",
+    "name": "TUMBANG TORUNG"
+  },
+  {
+    "id": "6202152013",
+    "district_id": "620215",
+    "name": "TUMBANG BATU"
+  },
+  {
+    "id": "6202152014",
+    "district_id": "620215",
+    "name": "TUMBANG SALUANG"
+  }
+]

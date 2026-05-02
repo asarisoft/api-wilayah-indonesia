@@ -1,1 +1,42 @@
-[{"id": "9501182001", "district_id": "950118", "name": "TAILAREK"}, {"id": "9501182002", "district_id": "950118", "name": "SENOGOLIK"}, {"id": "9501182003", "district_id": "950118", "name": "BOKIEM"}, {"id": "9501182004", "district_id": "950118", "name": "IYORA"}, {"id": "9501182005", "district_id": "950118", "name": "BUDLIEM"}, {"id": "9501182006", "district_id": "950118", "name": "YOMAN WEYA"}, {"id": "9501182007", "district_id": "950118", "name": "HULUAIMA"}, {"id": "9501182008", "district_id": "950118", "name": "ENTAGEKOKMA"}]
+[
+  {
+    "id": "9501182001",
+    "district_id": "950118",
+    "name": "TAILAREK"
+  },
+  {
+    "id": "9501182002",
+    "district_id": "950118",
+    "name": "SENOGOLIK"
+  },
+  {
+    "id": "9501182003",
+    "district_id": "950118",
+    "name": "BOKIEM"
+  },
+  {
+    "id": "9501182004",
+    "district_id": "950118",
+    "name": "IYORA"
+  },
+  {
+    "id": "9501182005",
+    "district_id": "950118",
+    "name": "BUDLIEM"
+  },
+  {
+    "id": "9501182006",
+    "district_id": "950118",
+    "name": "YOMAN WEYA"
+  },
+  {
+    "id": "9501182007",
+    "district_id": "950118",
+    "name": "HULUAIMA"
+  },
+  {
+    "id": "9501182008",
+    "district_id": "950118",
+    "name": "ENTAGEKOKMA"
+  }
+]

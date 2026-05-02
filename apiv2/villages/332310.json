@@ -1,1 +1,67 @@
-[{"id": "3323102001", "district_id": "332310", "name": "JUMO"}, {"id": "3323102002", "district_id": "332310", "name": "JAMUSAN"}, {"id": "3323102003", "district_id": "332310", "name": "KERTOSARI"}, {"id": "3323102004", "district_id": "332310", "name": "GIYONO"}, {"id": "3323102005", "district_id": "332310", "name": "GUNUNGGEMPOL"}, {"id": "3323102006", "district_id": "332310", "name": "PADURESO"}, {"id": "3323102007", "district_id": "332310", "name": "BARANG"}, {"id": "3323102008", "district_id": "332310", "name": "JOMBOR"}, {"id": "3323102009", "district_id": "332310", "name": "KETITANG"}, {"id": "3323102010", "district_id": "332310", "name": "MOROBONGO"}, {"id": "3323102011", "district_id": "332310", "name": "KARANGTEJO"}, {"id": "3323102012", "district_id": "332310", "name": "SUKOMARTO"}, {"id": "3323102013", "district_id": "332310", "name": "GEDONGSARI"}]
+[
+  {
+    "id": "3323102001",
+    "district_id": "332310",
+    "name": "JUMO"
+  },
+  {
+    "id": "3323102002",
+    "district_id": "332310",
+    "name": "JAMUSAN"
+  },
+  {
+    "id": "3323102003",
+    "district_id": "332310",
+    "name": "KERTOSARI"
+  },
+  {
+    "id": "3323102004",
+    "district_id": "332310",
+    "name": "GIYONO"
+  },
+  {
+    "id": "3323102005",
+    "district_id": "332310",
+    "name": "GUNUNGGEMPOL"
+  },
+  {
+    "id": "3323102006",
+    "district_id": "332310",
+    "name": "PADURESO"
+  },
+  {
+    "id": "3323102007",
+    "district_id": "332310",
+    "name": "BARANG"
+  },
+  {
+    "id": "3323102008",
+    "district_id": "332310",
+    "name": "JOMBOR"
+  },
+  {
+    "id": "3323102009",
+    "district_id": "332310",
+    "name": "KETITANG"
+  },
+  {
+    "id": "3323102010",
+    "district_id": "332310",
+    "name": "MOROBONGO"
+  },
+  {
+    "id": "3323102011",
+    "district_id": "332310",
+    "name": "KARANGTEJO"
+  },
+  {
+    "id": "3323102012",
+    "district_id": "332310",
+    "name": "SUKOMARTO"
+  },
+  {
+    "id": "3323102013",
+    "district_id": "332310",
+    "name": "GEDONGSARI"
+  }
+]

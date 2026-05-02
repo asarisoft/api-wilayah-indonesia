@@ -1,1 +1,52 @@
-[{"id": "3316062001", "district_id": "331606", "name": "TEMENGENG"}, {"id": "3316062002", "district_id": "331606", "name": "SAMBONGREJO"}, {"id": "3316062003", "district_id": "331606", "name": "GADU"}, {"id": "3316062004", "district_id": "331606", "name": "SAMBONG"}, {"id": "3316062005", "district_id": "331606", "name": "POJOKWATU"}, {"id": "3316062006", "district_id": "331606", "name": "GAGAKAN"}, {"id": "3316062007", "district_id": "331606", "name": "BITING"}, {"id": "3316062008", "district_id": "331606", "name": "BRABOWAN"}, {"id": "3316062009", "district_id": "331606", "name": "LEDOK"}, {"id": "3316062010", "district_id": "331606", "name": "GIYANTI"}]
+[
+  {
+    "id": "3316062001",
+    "district_id": "331606",
+    "name": "TEMENGENG"
+  },
+  {
+    "id": "3316062002",
+    "district_id": "331606",
+    "name": "SAMBONGREJO"
+  },
+  {
+    "id": "3316062003",
+    "district_id": "331606",
+    "name": "GADU"
+  },
+  {
+    "id": "3316062004",
+    "district_id": "331606",
+    "name": "SAMBONG"
+  },
+  {
+    "id": "3316062005",
+    "district_id": "331606",
+    "name": "POJOKWATU"
+  },
+  {
+    "id": "3316062006",
+    "district_id": "331606",
+    "name": "GAGAKAN"
+  },
+  {
+    "id": "3316062007",
+    "district_id": "331606",
+    "name": "BITING"
+  },
+  {
+    "id": "3316062008",
+    "district_id": "331606",
+    "name": "BRABOWAN"
+  },
+  {
+    "id": "3316062009",
+    "district_id": "331606",
+    "name": "LEDOK"
+  },
+  {
+    "id": "3316062010",
+    "district_id": "331606",
+    "name": "GIYANTI"
+  }
+]

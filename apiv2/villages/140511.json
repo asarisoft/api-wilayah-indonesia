@@ -1,1 +1,27 @@
-[{"id": "1405111001", "district_id": "140511", "name": "SEI KIJANG"}, {"id": "1405112002", "district_id": "140511", "name": "LUBUK OGUNG"}, {"id": "1405112003", "district_id": "140511", "name": "SIMPANG BERINGIN"}, {"id": "1405112004", "district_id": "140511", "name": "MUDA SETIA"}, {"id": "1405112005", "district_id": "140511", "name": "KIAB JAYA"}]
+[
+  {
+    "id": "1405111001",
+    "district_id": "140511",
+    "name": "SEI KIJANG"
+  },
+  {
+    "id": "1405112002",
+    "district_id": "140511",
+    "name": "LUBUK OGUNG"
+  },
+  {
+    "id": "1405112003",
+    "district_id": "140511",
+    "name": "SIMPANG BERINGIN"
+  },
+  {
+    "id": "1405112004",
+    "district_id": "140511",
+    "name": "MUDA SETIA"
+  },
+  {
+    "id": "1405112005",
+    "district_id": "140511",
+    "name": "KIAB JAYA"
+  }
+]

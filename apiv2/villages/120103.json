@@ -1,1 +1,112 @@
-[{"id": "1201031001", "district_id": "120103", "name": "PANDAN"}, {"id": "1201031002", "district_id": "120103", "name": "HAJORAN"}, {"id": "1201031003", "district_id": "120103", "name": "AEK TOLANG"}, {"id": "1201031004", "district_id": "120103", "name": "LUBUK TUKKO"}, {"id": "1201031005", "district_id": "120103", "name": "SIBULUAN INDAH"}, {"id": "1201031006", "district_id": "120103", "name": "SIBULUAN NAULI"}, {"id": "1201031011", "district_id": "120103", "name": "AEK SITIO-TIO"}, {"id": "1201031012", "district_id": "120103", "name": "SIBULUAN RAYA"}, {"id": "1201031013", "district_id": "120103", "name": "KALANGAN"}, {"id": "1201031016", "district_id": "120103", "name": "PANDAN WANGI"}, {"id": "1201031017", "district_id": "120103", "name": "LUBUK TUKKO BARU"}, {"id": "1201031018", "district_id": "120103", "name": "SIBULUAN BARU"}, {"id": "1201031019", "district_id": "120103", "name": "SIBULUAN TERPADU"}, {"id": "1201031020", "district_id": "120103", "name": "SIHAPORAS NAULI"}, {"id": "1201031021", "district_id": "120103", "name": "PASAR BARU"}, {"id": "1201031022", "district_id": "120103", "name": "BUDI LUHUR"}, {"id": "1201031023", "district_id": "120103", "name": "KALANGAN INDAH"}, {"id": "1201031024", "district_id": "120103", "name": "MANGGA DUA"}, {"id": "1201031025", "district_id": "120103", "name": "MUARA NIBUNG"}, {"id": "1201031026", "district_id": "120103", "name": "HAJORAN INDAH"}, {"id": "1201032014", "district_id": "120103", "name": "AEK GARUT"}, {"id": "1201032015", "district_id": "120103", "name": "SITIO-TIO HILIR"}]
+[
+  {
+    "id": "1201031001",
+    "district_id": "120103",
+    "name": "PANDAN"
+  },
+  {
+    "id": "1201031002",
+    "district_id": "120103",
+    "name": "HAJORAN"
+  },
+  {
+    "id": "1201031003",
+    "district_id": "120103",
+    "name": "AEK TOLANG"
+  },
+  {
+    "id": "1201031004",
+    "district_id": "120103",
+    "name": "LUBUK TUKKO"
+  },
+  {
+    "id": "1201031005",
+    "district_id": "120103",
+    "name": "SIBULUAN INDAH"
+  },
+  {
+    "id": "1201031006",
+    "district_id": "120103",
+    "name": "SIBULUAN NAULI"
+  },
+  {
+    "id": "1201031011",
+    "district_id": "120103",
+    "name": "AEK SITIO-TIO"
+  },
+  {
+    "id": "1201031012",
+    "district_id": "120103",
+    "name": "SIBULUAN RAYA"
+  },
+  {
+    "id": "1201031013",
+    "district_id": "120103",
+    "name": "KALANGAN"
+  },
+  {
+    "id": "1201031016",
+    "district_id": "120103",
+    "name": "PANDAN WANGI"
+  },
+  {
+    "id": "1201031017",
+    "district_id": "120103",
+    "name": "LUBUK TUKKO BARU"
+  },
+  {
+    "id": "1201031018",
+    "district_id": "120103",
+    "name": "SIBULUAN BARU"
+  },
+  {
+    "id": "1201031019",
+    "district_id": "120103",
+    "name": "SIBULUAN TERPADU"
+  },
+  {
+    "id": "1201031020",
+    "district_id": "120103",
+    "name": "SIHAPORAS NAULI"
+  },
+  {
+    "id": "1201031021",
+    "district_id": "120103",
+    "name": "PASAR BARU"
+  },
+  {
+    "id": "1201031022",
+    "district_id": "120103",
+    "name": "BUDI LUHUR"
+  },
+  {
+    "id": "1201031023",
+    "district_id": "120103",
+    "name": "KALANGAN INDAH"
+  },
+  {
+    "id": "1201031024",
+    "district_id": "120103",
+    "name": "MANGGA DUA"
+  },
+  {
+    "id": "1201031025",
+    "district_id": "120103",
+    "name": "MUARA NIBUNG"
+  },
+  {
+    "id": "1201031026",
+    "district_id": "120103",
+    "name": "HAJORAN INDAH"
+  },
+  {
+    "id": "1201032014",
+    "district_id": "120103",
+    "name": "AEK GARUT"
+  },
+  {
+    "id": "1201032015",
+    "district_id": "120103",
+    "name": "SITIO-TIO HILIR"
+  }
+]

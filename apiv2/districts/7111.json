@@ -1,1 +1,37 @@
-[{"id": "711101", "regency_id": "7111", "name": "BOLAANG UKI"}, {"id": "711102", "regency_id": "7111", "name": "POSIGADAN"}, {"id": "711103", "regency_id": "7111", "name": "PINOLOSIAN"}, {"id": "711104", "regency_id": "7111", "name": "PINOLOSIAN TENGAH"}, {"id": "711105", "regency_id": "7111", "name": "PINOLOSIAN TIMUR"}, {"id": "711106", "regency_id": "7111", "name": "HELUMO"}, {"id": "711107", "regency_id": "7111", "name": "TOMINI"}]
+[
+  {
+    "id": "711101",
+    "regency_id": "7111",
+    "name": "BOLAANG UKI"
+  },
+  {
+    "id": "711102",
+    "regency_id": "7111",
+    "name": "POSIGADAN"
+  },
+  {
+    "id": "711103",
+    "regency_id": "7111",
+    "name": "PINOLOSIAN"
+  },
+  {
+    "id": "711104",
+    "regency_id": "7111",
+    "name": "PINOLOSIAN TENGAH"
+  },
+  {
+    "id": "711105",
+    "regency_id": "7111",
+    "name": "PINOLOSIAN TIMUR"
+  },
+  {
+    "id": "711106",
+    "regency_id": "7111",
+    "name": "HELUMO"
+  },
+  {
+    "id": "711107",
+    "regency_id": "7111",
+    "name": "TOMINI"
+  }
+]

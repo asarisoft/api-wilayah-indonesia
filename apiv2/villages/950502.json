@@ -1,1 +1,97 @@
-[{"id": "9505022001", "district_id": "950502", "name": "KELILA"}, {"id": "9505022002", "district_id": "950502", "name": "DIBUNGGEN"}, {"id": "9505022003", "district_id": "950502", "name": "TIMERIA"}, {"id": "9505022004", "district_id": "950502", "name": "UGANDA"}, {"id": "9505022005", "district_id": "950502", "name": "DOGOBAK"}, {"id": "9505022006", "district_id": "950502", "name": "YALENGGOLO"}, {"id": "9505022007", "district_id": "950502", "name": "BINIME"}, {"id": "9505022008", "district_id": "950502", "name": "TIKAPURA"}, {"id": "9505022009", "district_id": "950502", "name": "ONGGOBALO"}, {"id": "9505022010", "district_id": "950502", "name": "KAMBO"}, {"id": "9505022011", "district_id": "950502", "name": "KINDOK"}, {"id": "9505022012", "district_id": "950502", "name": "TARI"}, {"id": "9505022013", "district_id": "950502", "name": "GELORA"}, {"id": "9505022014", "district_id": "950502", "name": "YAGABUR"}, {"id": "9505022015", "district_id": "950502", "name": "PELANME"}, {"id": "9505022016", "district_id": "950502", "name": "TONGGRIK"}, {"id": "9505022017", "district_id": "950502", "name": "KUMBU"}, {"id": "9505022018", "district_id": "950502", "name": "MABUNA"}, {"id": "9505022019", "district_id": "950502", "name": "MANGGALESO"}]
+[
+  {
+    "id": "9505022001",
+    "district_id": "950502",
+    "name": "KELILA"
+  },
+  {
+    "id": "9505022002",
+    "district_id": "950502",
+    "name": "DIBUNGGEN"
+  },
+  {
+    "id": "9505022003",
+    "district_id": "950502",
+    "name": "TIMERIA"
+  },
+  {
+    "id": "9505022004",
+    "district_id": "950502",
+    "name": "UGANDA"
+  },
+  {
+    "id": "9505022005",
+    "district_id": "950502",
+    "name": "DOGOBAK"
+  },
+  {
+    "id": "9505022006",
+    "district_id": "950502",
+    "name": "YALENGGOLO"
+  },
+  {
+    "id": "9505022007",
+    "district_id": "950502",
+    "name": "BINIME"
+  },
+  {
+    "id": "9505022008",
+    "district_id": "950502",
+    "name": "TIKAPURA"
+  },
+  {
+    "id": "9505022009",
+    "district_id": "950502",
+    "name": "ONGGOBALO"
+  },
+  {
+    "id": "9505022010",
+    "district_id": "950502",
+    "name": "KAMBO"
+  },
+  {
+    "id": "9505022011",
+    "district_id": "950502",
+    "name": "KINDOK"
+  },
+  {
+    "id": "9505022012",
+    "district_id": "950502",
+    "name": "TARI"
+  },
+  {
+    "id": "9505022013",
+    "district_id": "950502",
+    "name": "GELORA"
+  },
+  {
+    "id": "9505022014",
+    "district_id": "950502",
+    "name": "YAGABUR"
+  },
+  {
+    "id": "9505022015",
+    "district_id": "950502",
+    "name": "PELANME"
+  },
+  {
+    "id": "9505022016",
+    "district_id": "950502",
+    "name": "TONGGRIK"
+  },
+  {
+    "id": "9505022017",
+    "district_id": "950502",
+    "name": "KUMBU"
+  },
+  {
+    "id": "9505022018",
+    "district_id": "950502",
+    "name": "MABUNA"
+  },
+  {
+    "id": "9505022019",
+    "district_id": "950502",
+    "name": "MANGGALESO"
+  }
+]

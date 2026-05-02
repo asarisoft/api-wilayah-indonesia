@@ -1,1 +1,52 @@
-[{"id": "3603042001", "district_id": "360304", "name": "SUKAMANAH"}, {"id": "3603042002", "district_id": "360304", "name": "JAMBE"}, {"id": "3603042003", "district_id": "360304", "name": "TIPAR RAYA"}, {"id": "3603042004", "district_id": "360304", "name": "TABAN"}, {"id": "3603042005", "district_id": "360304", "name": "DARU"}, {"id": "3603042006", "district_id": "360304", "name": "KUTRUK"}, {"id": "3603042007", "district_id": "360304", "name": "RANCA BUAYA"}, {"id": "3603042008", "district_id": "360304", "name": "MEKARSARI"}, {"id": "3603042009", "district_id": "360304", "name": "ANCOL PASIR"}, {"id": "3603042010", "district_id": "360304", "name": "PASIR BARAT"}]
+[
+  {
+    "id": "3603042001",
+    "district_id": "360304",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3603042002",
+    "district_id": "360304",
+    "name": "JAMBE"
+  },
+  {
+    "id": "3603042003",
+    "district_id": "360304",
+    "name": "TIPAR RAYA"
+  },
+  {
+    "id": "3603042004",
+    "district_id": "360304",
+    "name": "TABAN"
+  },
+  {
+    "id": "3603042005",
+    "district_id": "360304",
+    "name": "DARU"
+  },
+  {
+    "id": "3603042006",
+    "district_id": "360304",
+    "name": "KUTRUK"
+  },
+  {
+    "id": "3603042007",
+    "district_id": "360304",
+    "name": "RANCA BUAYA"
+  },
+  {
+    "id": "3603042008",
+    "district_id": "360304",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3603042009",
+    "district_id": "360304",
+    "name": "ANCOL PASIR"
+  },
+  {
+    "id": "3603042010",
+    "district_id": "360304",
+    "name": "PASIR BARAT"
+  }
+]

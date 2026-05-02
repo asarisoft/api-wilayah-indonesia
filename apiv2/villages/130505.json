@@ -1,1 +1,62 @@
-[{"id": "1305052001", "district_id": "130505", "name": "BALAH AIE"}, {"id": "1305052002", "district_id": "130505", "name": "SUNGAI SARIAK"}, {"id": "1305052003", "district_id": "130505", "name": "LURAH AMPALU"}, {"id": "1305052004", "district_id": "130505", "name": "LAREH NAN PANJANG"}, {"id": "1305052005", "district_id": "130505", "name": "LAREH NAN PANJANG SELATAN"}, {"id": "1305052006", "district_id": "130505", "name": "LAREH NAN PANJANG BARAT"}, {"id": "1305052007", "district_id": "130505", "name": "BISATI SUNGAI SARIAK"}, {"id": "1305052008", "district_id": "130505", "name": "AMBUANG KAPUA SUNGAI SARIAK"}, {"id": "1305052009", "district_id": "130505", "name": "LAREH NAN PANJANG SUNGAI SARIAK"}, {"id": "1305052010", "district_id": "130505", "name": "LIMPATO SUNGAI SARIAK"}, {"id": "1305052011", "district_id": "130505", "name": "BALAH AIE UTARA"}, {"id": "1305052012", "district_id": "130505", "name": "BALAH AIE TIMUR"}]
+[
+  {
+    "id": "1305052001",
+    "district_id": "130505",
+    "name": "BALAH AIE"
+  },
+  {
+    "id": "1305052002",
+    "district_id": "130505",
+    "name": "SUNGAI SARIAK"
+  },
+  {
+    "id": "1305052003",
+    "district_id": "130505",
+    "name": "LURAH AMPALU"
+  },
+  {
+    "id": "1305052004",
+    "district_id": "130505",
+    "name": "LAREH NAN PANJANG"
+  },
+  {
+    "id": "1305052005",
+    "district_id": "130505",
+    "name": "LAREH NAN PANJANG SELATAN"
+  },
+  {
+    "id": "1305052006",
+    "district_id": "130505",
+    "name": "LAREH NAN PANJANG BARAT"
+  },
+  {
+    "id": "1305052007",
+    "district_id": "130505",
+    "name": "BISATI SUNGAI SARIAK"
+  },
+  {
+    "id": "1305052008",
+    "district_id": "130505",
+    "name": "AMBUANG KAPUA SUNGAI SARIAK"
+  },
+  {
+    "id": "1305052009",
+    "district_id": "130505",
+    "name": "LAREH NAN PANJANG SUNGAI SARIAK"
+  },
+  {
+    "id": "1305052010",
+    "district_id": "130505",
+    "name": "LIMPATO SUNGAI SARIAK"
+  },
+  {
+    "id": "1305052011",
+    "district_id": "130505",
+    "name": "BALAH AIE UTARA"
+  },
+  {
+    "id": "1305052012",
+    "district_id": "130505",
+    "name": "BALAH AIE TIMUR"
+  }
+]

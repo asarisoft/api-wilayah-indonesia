@@ -1,1 +1,77 @@
-[{"id": "5206112001", "district_id": "520611", "name": "WAWORADA"}, {"id": "5206112002", "district_id": "520611", "name": "KARUMBU"}, {"id": "5206112003", "district_id": "520611", "name": "RUPE"}, {"id": "5206112004", "district_id": "520611", "name": "KALODU"}, {"id": "5206112005", "district_id": "520611", "name": "KAWUWU"}, {"id": "5206112006", "district_id": "520611", "name": "DORO O'O"}, {"id": "5206112007", "district_id": "520611", "name": "LAJU"}, {"id": "5206112008", "district_id": "520611", "name": "KANGGA"}, {"id": "5206112009", "district_id": "520611", "name": "KARAMPI"}, {"id": "5206112010", "district_id": "520611", "name": "WADURUKA"}, {"id": "5206112011", "district_id": "520611", "name": "DUMU"}, {"id": "5206112012", "district_id": "520611", "name": "ROMPO"}, {"id": "5206112013", "district_id": "520611", "name": "SARAE RUMA"}, {"id": "5206112014", "district_id": "520611", "name": "PUSU"}, {"id": "5206112015", "district_id": "520611", "name": "SAMBANE"}]
+[
+  {
+    "id": "5206112001",
+    "district_id": "520611",
+    "name": "WAWORADA"
+  },
+  {
+    "id": "5206112002",
+    "district_id": "520611",
+    "name": "KARUMBU"
+  },
+  {
+    "id": "5206112003",
+    "district_id": "520611",
+    "name": "RUPE"
+  },
+  {
+    "id": "5206112004",
+    "district_id": "520611",
+    "name": "KALODU"
+  },
+  {
+    "id": "5206112005",
+    "district_id": "520611",
+    "name": "KAWUWU"
+  },
+  {
+    "id": "5206112006",
+    "district_id": "520611",
+    "name": "DORO O'O"
+  },
+  {
+    "id": "5206112007",
+    "district_id": "520611",
+    "name": "LAJU"
+  },
+  {
+    "id": "5206112008",
+    "district_id": "520611",
+    "name": "KANGGA"
+  },
+  {
+    "id": "5206112009",
+    "district_id": "520611",
+    "name": "KARAMPI"
+  },
+  {
+    "id": "5206112010",
+    "district_id": "520611",
+    "name": "WADURUKA"
+  },
+  {
+    "id": "5206112011",
+    "district_id": "520611",
+    "name": "DUMU"
+  },
+  {
+    "id": "5206112012",
+    "district_id": "520611",
+    "name": "ROMPO"
+  },
+  {
+    "id": "5206112013",
+    "district_id": "520611",
+    "name": "SARAE RUMA"
+  },
+  {
+    "id": "5206112014",
+    "district_id": "520611",
+    "name": "PUSU"
+  },
+  {
+    "id": "5206112015",
+    "district_id": "520611",
+    "name": "SAMBANE"
+  }
+]

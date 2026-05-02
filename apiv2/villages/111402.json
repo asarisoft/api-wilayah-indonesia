@@ -1,1 +1,87 @@
-[{"id": "1114022001", "district_id": "111402", "name": "BAHAGIA"}, {"id": "1114022002", "district_id": "111402", "name": "SENTOSA"}, {"id": "1114022003", "district_id": "111402", "name": "DAYAH BARO"}, {"id": "1114022004", "district_id": "111402", "name": "GAMPONG BLANG"}, {"id": "1114022005", "district_id": "111402", "name": "KEUTAPANG"}, {"id": "1114022006", "district_id": "111402", "name": "PANTON MAKMUR"}, {"id": "1114022007", "district_id": "111402", "name": "KEUDE KRUENG SABEE"}, {"id": "1114022008", "district_id": "111402", "name": "KABONG"}, {"id": "1114022009", "district_id": "111402", "name": "PADANG DATAR"}, {"id": "1114022010", "district_id": "111402", "name": "DATAR LUAS"}, {"id": "1114022011", "district_id": "111402", "name": "RANTO PANYANG"}, {"id": "1114022012", "district_id": "111402", "name": "BUNTHA"}, {"id": "1114022013", "district_id": "111402", "name": "PANGGONG"}, {"id": "1114022014", "district_id": "111402", "name": "CUREK"}, {"id": "1114022015", "district_id": "111402", "name": "ALUE THO"}, {"id": "1114022016", "district_id": "111402", "name": "MON MATA"}, {"id": "1114022017", "district_id": "111402", "name": "PAYA SEUMANTOK"}]
+[
+  {
+    "id": "1114022001",
+    "district_id": "111402",
+    "name": "BAHAGIA"
+  },
+  {
+    "id": "1114022002",
+    "district_id": "111402",
+    "name": "SENTOSA"
+  },
+  {
+    "id": "1114022003",
+    "district_id": "111402",
+    "name": "DAYAH BARO"
+  },
+  {
+    "id": "1114022004",
+    "district_id": "111402",
+    "name": "GAMPONG BLANG"
+  },
+  {
+    "id": "1114022005",
+    "district_id": "111402",
+    "name": "KEUTAPANG"
+  },
+  {
+    "id": "1114022006",
+    "district_id": "111402",
+    "name": "PANTON MAKMUR"
+  },
+  {
+    "id": "1114022007",
+    "district_id": "111402",
+    "name": "KEUDE KRUENG SABEE"
+  },
+  {
+    "id": "1114022008",
+    "district_id": "111402",
+    "name": "KABONG"
+  },
+  {
+    "id": "1114022009",
+    "district_id": "111402",
+    "name": "PADANG DATAR"
+  },
+  {
+    "id": "1114022010",
+    "district_id": "111402",
+    "name": "DATAR LUAS"
+  },
+  {
+    "id": "1114022011",
+    "district_id": "111402",
+    "name": "RANTO PANYANG"
+  },
+  {
+    "id": "1114022012",
+    "district_id": "111402",
+    "name": "BUNTHA"
+  },
+  {
+    "id": "1114022013",
+    "district_id": "111402",
+    "name": "PANGGONG"
+  },
+  {
+    "id": "1114022014",
+    "district_id": "111402",
+    "name": "CUREK"
+  },
+  {
+    "id": "1114022015",
+    "district_id": "111402",
+    "name": "ALUE THO"
+  },
+  {
+    "id": "1114022016",
+    "district_id": "111402",
+    "name": "MON MATA"
+  },
+  {
+    "id": "1114022017",
+    "district_id": "111402",
+    "name": "PAYA SEUMANTOK"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "1705072001", "district_id": "170507", "name": "TALANG GIRING"}, {"id": "1705072002", "district_id": "170507", "name": "PADANG CAPO ILIR"}, {"id": "1705072003", "district_id": "170507", "name": "PADANG CAPO ULU"}, {"id": "1705072004", "district_id": "170507", "name": "TALANG KEBUN"}, {"id": "1705072005", "district_id": "170507", "name": "GUNUNG AGUNG"}, {"id": "1705072006", "district_id": "170507", "name": "CAWANG"}, {"id": "1705072007", "district_id": "170507", "name": "ARANG SAPAT"}, {"id": "1705072008", "district_id": "170507", "name": "DUSUN TENGAH"}, {"id": "1705072009", "district_id": "170507", "name": "TANJUNG KUAW"}, {"id": "1705072010", "district_id": "170507", "name": "NAPAL JUNGUR"}, {"id": "1705072011", "district_id": "170507", "name": "TUMBU'AN"}, {"id": "1705072012", "district_id": "170507", "name": "RENA PANJANG"}, {"id": "1705072013", "district_id": "170507", "name": "SAKAIAN"}, {"id": "1705072014", "district_id": "170507", "name": "LUBUK TERENTANG"}]
+[
+  {
+    "id": "1705072001",
+    "district_id": "170507",
+    "name": "TALANG GIRING"
+  },
+  {
+    "id": "1705072002",
+    "district_id": "170507",
+    "name": "PADANG CAPO ILIR"
+  },
+  {
+    "id": "1705072003",
+    "district_id": "170507",
+    "name": "PADANG CAPO ULU"
+  },
+  {
+    "id": "1705072004",
+    "district_id": "170507",
+    "name": "TALANG KEBUN"
+  },
+  {
+    "id": "1705072005",
+    "district_id": "170507",
+    "name": "GUNUNG AGUNG"
+  },
+  {
+    "id": "1705072006",
+    "district_id": "170507",
+    "name": "CAWANG"
+  },
+  {
+    "id": "1705072007",
+    "district_id": "170507",
+    "name": "ARANG SAPAT"
+  },
+  {
+    "id": "1705072008",
+    "district_id": "170507",
+    "name": "DUSUN TENGAH"
+  },
+  {
+    "id": "1705072009",
+    "district_id": "170507",
+    "name": "TANJUNG KUAW"
+  },
+  {
+    "id": "1705072010",
+    "district_id": "170507",
+    "name": "NAPAL JUNGUR"
+  },
+  {
+    "id": "1705072011",
+    "district_id": "170507",
+    "name": "TUMBU'AN"
+  },
+  {
+    "id": "1705072012",
+    "district_id": "170507",
+    "name": "RENA PANJANG"
+  },
+  {
+    "id": "1705072013",
+    "district_id": "170507",
+    "name": "SAKAIAN"
+  },
+  {
+    "id": "1705072014",
+    "district_id": "170507",
+    "name": "LUBUK TERENTANG"
+  }
+]

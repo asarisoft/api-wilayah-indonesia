@@ -1,1 +1,47 @@
-[{"id": "3326042001", "district_id": "332604", "name": "SIMEGO"}, {"id": "3326042002", "district_id": "332604", "name": "GUMELEM"}, {"id": "3326042003", "district_id": "332604", "name": "TLOGOHENDRO"}, {"id": "3326042004", "district_id": "332604", "name": "YOSOREJO"}, {"id": "3326042005", "district_id": "332604", "name": "CURUGMUNCAR"}, {"id": "3326042006", "district_id": "332604", "name": "SONGGODADI"}, {"id": "3326042007", "district_id": "332604", "name": "TLOGOPAKIS"}, {"id": "3326042008", "district_id": "332604", "name": "KASIMPAR"}, {"id": "3326042009", "district_id": "332604", "name": "KAYUPURING"}]
+[
+  {
+    "id": "3326042001",
+    "district_id": "332604",
+    "name": "SIMEGO"
+  },
+  {
+    "id": "3326042002",
+    "district_id": "332604",
+    "name": "GUMELEM"
+  },
+  {
+    "id": "3326042003",
+    "district_id": "332604",
+    "name": "TLOGOHENDRO"
+  },
+  {
+    "id": "3326042004",
+    "district_id": "332604",
+    "name": "YOSOREJO"
+  },
+  {
+    "id": "3326042005",
+    "district_id": "332604",
+    "name": "CURUGMUNCAR"
+  },
+  {
+    "id": "3326042006",
+    "district_id": "332604",
+    "name": "SONGGODADI"
+  },
+  {
+    "id": "3326042007",
+    "district_id": "332604",
+    "name": "TLOGOPAKIS"
+  },
+  {
+    "id": "3326042008",
+    "district_id": "332604",
+    "name": "KASIMPAR"
+  },
+  {
+    "id": "3326042009",
+    "district_id": "332604",
+    "name": "KAYUPURING"
+  }
+]

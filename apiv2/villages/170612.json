@@ -1,1 +1,52 @@
-[{"id": "1706122001", "district_id": "170612", "name": "LALANG LUAS"}, {"id": "1706122002", "district_id": "170612", "name": "RESNO"}, {"id": "1706122003", "district_id": "170612", "name": "PONDOK PANJANG"}, {"id": "1706122004", "district_id": "170612", "name": "TALANG PETAI"}, {"id": "1706122005", "district_id": "170612", "name": "SUNGAI LINTANG"}, {"id": "1706122006", "district_id": "170612", "name": "PONDOK TENGAH"}, {"id": "1706122007", "district_id": "170612", "name": "TALANG SAKTI"}, {"id": "1706122008", "district_id": "170612", "name": "TALANG SEPAKAT"}, {"id": "1706122009", "district_id": "170612", "name": "LUBUK CABAU"}, {"id": "1706122010", "district_id": "170612", "name": "SUNGAI RENGAS"}]
+[
+  {
+    "id": "1706122001",
+    "district_id": "170612",
+    "name": "LALANG LUAS"
+  },
+  {
+    "id": "1706122002",
+    "district_id": "170612",
+    "name": "RESNO"
+  },
+  {
+    "id": "1706122003",
+    "district_id": "170612",
+    "name": "PONDOK PANJANG"
+  },
+  {
+    "id": "1706122004",
+    "district_id": "170612",
+    "name": "TALANG PETAI"
+  },
+  {
+    "id": "1706122005",
+    "district_id": "170612",
+    "name": "SUNGAI LINTANG"
+  },
+  {
+    "id": "1706122006",
+    "district_id": "170612",
+    "name": "PONDOK TENGAH"
+  },
+  {
+    "id": "1706122007",
+    "district_id": "170612",
+    "name": "TALANG SAKTI"
+  },
+  {
+    "id": "1706122008",
+    "district_id": "170612",
+    "name": "TALANG SEPAKAT"
+  },
+  {
+    "id": "1706122009",
+    "district_id": "170612",
+    "name": "LUBUK CABAU"
+  },
+  {
+    "id": "1706122010",
+    "district_id": "170612",
+    "name": "SUNGAI RENGAS"
+  }
+]

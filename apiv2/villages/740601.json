@@ -1,1 +1,52 @@
-[{"id": "7406011007", "district_id": "740601", "name": "BOEARA"}, {"id": "7406011008", "district_id": "740601", "name": "KASTARIB"}, {"id": "7406011010", "district_id": "740601", "name": "BOEPINANG"}, {"id": "7406011015", "district_id": "740601", "name": "BOEPINANG BARAT"}, {"id": "7406011016", "district_id": "740601", "name": "BARANGGA"}, {"id": "7406011017", "district_id": "740601", "name": "KASABOLO"}, {"id": "7406012009", "district_id": "740601", "name": "POKURUMBA"}, {"id": "7406012011", "district_id": "740601", "name": "PALLIMAE"}, {"id": "7406012018", "district_id": "740601", "name": "SALOSA"}, {"id": "7406012019", "district_id": "740601", "name": "MATTIRO WALIE"}]
+[
+  {
+    "id": "7406011007",
+    "district_id": "740601",
+    "name": "BOEARA"
+  },
+  {
+    "id": "7406011008",
+    "district_id": "740601",
+    "name": "KASTARIB"
+  },
+  {
+    "id": "7406011010",
+    "district_id": "740601",
+    "name": "BOEPINANG"
+  },
+  {
+    "id": "7406011015",
+    "district_id": "740601",
+    "name": "BOEPINANG BARAT"
+  },
+  {
+    "id": "7406011016",
+    "district_id": "740601",
+    "name": "BARANGGA"
+  },
+  {
+    "id": "7406011017",
+    "district_id": "740601",
+    "name": "KASABOLO"
+  },
+  {
+    "id": "7406012009",
+    "district_id": "740601",
+    "name": "POKURUMBA"
+  },
+  {
+    "id": "7406012011",
+    "district_id": "740601",
+    "name": "PALLIMAE"
+  },
+  {
+    "id": "7406012018",
+    "district_id": "740601",
+    "name": "SALOSA"
+  },
+  {
+    "id": "7406012019",
+    "district_id": "740601",
+    "name": "MATTIRO WALIE"
+  }
+]

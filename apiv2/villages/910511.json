@@ -1,1 +1,52 @@
-[{"id": "9105112001", "district_id": "910511", "name": "WOOI"}, {"id": "9105112002", "district_id": "910511", "name": "WOINAP"}, {"id": "9105112003", "district_id": "910511", "name": "AIBONDENI"}, {"id": "9105112004", "district_id": "910511", "name": "KANAKI"}, {"id": "9105112005", "district_id": "910511", "name": "DUMANI"}, {"id": "9105112007", "district_id": "910511", "name": "KAREMONI"}, {"id": "9105112008", "district_id": "910511", "name": "HAIHOREI"}, {"id": "9105112009", "district_id": "910511", "name": "REMBAI"}, {"id": "9105112010", "district_id": "910511", "name": "JAIMARIA"}, {"id": "9105112011", "district_id": "910511", "name": "AWADO"}]
+[
+  {
+    "id": "9105112001",
+    "district_id": "910511",
+    "name": "WOOI"
+  },
+  {
+    "id": "9105112002",
+    "district_id": "910511",
+    "name": "WOINAP"
+  },
+  {
+    "id": "9105112003",
+    "district_id": "910511",
+    "name": "AIBONDENI"
+  },
+  {
+    "id": "9105112004",
+    "district_id": "910511",
+    "name": "KANAKI"
+  },
+  {
+    "id": "9105112005",
+    "district_id": "910511",
+    "name": "DUMANI"
+  },
+  {
+    "id": "9105112007",
+    "district_id": "910511",
+    "name": "KAREMONI"
+  },
+  {
+    "id": "9105112008",
+    "district_id": "910511",
+    "name": "HAIHOREI"
+  },
+  {
+    "id": "9105112009",
+    "district_id": "910511",
+    "name": "REMBAI"
+  },
+  {
+    "id": "9105112010",
+    "district_id": "910511",
+    "name": "JAIMARIA"
+  },
+  {
+    "id": "9105112011",
+    "district_id": "910511",
+    "name": "AWADO"
+  }
+]

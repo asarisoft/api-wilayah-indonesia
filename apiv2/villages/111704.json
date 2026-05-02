@@ -1,1 +1,177 @@
-[{"id": "1117042001", "district_id": "111704", "name": "BAHGIE BERTONA"}, {"id": "1117042003", "district_id": "111704", "name": "BATHIN BARU"}, {"id": "1117042004", "district_id": "111704", "name": "BLANG PULO"}, {"id": "1117042009", "district_id": "111704", "name": "BUKIT WIH ILANG"}, {"id": "1117042010", "district_id": "111704", "name": "HAKIM WIH ILANG"}, {"id": "1117042011", "district_id": "111704", "name": "JANARATA"}, {"id": "1117042012", "district_id": "111704", "name": "KERAMAT JAYA"}, {"id": "1117042013", "district_id": "111704", "name": "LEWA JADI"}, {"id": "1117042014", "district_id": "111704", "name": "MUYANG KUTE MANGKU"}, {"id": "1117042016", "district_id": "111704", "name": "PAKAT JEROH"}, {"id": "1117042017", "district_id": "111704", "name": "PAYA BANING"}, {"id": "1117042018", "district_id": "111704", "name": "BLANG JORONG"}, {"id": "1117042019", "district_id": "111704", "name": "PONDOK BARU"}, {"id": "1117042020", "district_id": "111704", "name": "PONDOK GAJAH"}, {"id": "1117042021", "district_id": "111704", "name": "PONDOK ULUNG"}, {"id": "1117042022", "district_id": "111704", "name": "PUJA MULIA"}, {"id": "1117042023", "district_id": "111704", "name": "PURWOSARI"}, {"id": "1117042024", "district_id": "111704", "name": "SELAMAT REJO"}, {"id": "1117042025", "district_id": "111704", "name": "SIDODADI"}, {"id": "1117042026", "district_id": "111704", "name": "SIMPANG UTAMA"}, {"id": "1117042027", "district_id": "111704", "name": "SUKU WIH ILANG"}, {"id": "1117042028", "district_id": "111704", "name": "TANJUNG PURA"}, {"id": "1117042029", "district_id": "111704", "name": "WONOSARI"}, {"id": "1117042030", "district_id": "111704", "name": "MUTIARA"}, {"id": "1117042032", "district_id": "111704", "name": "TANSARAN BIDIN"}, {"id": "1117042033", "district_id": "111704", "name": "JADI SEPAKAT"}, {"id": "1117042034", "district_id": "111704", "name": "SELISIH MARA"}, {"id": "1117042035", "district_id": "111704", "name": "KALA NEMPAN"}, {"id": "1117042036", "district_id": "111704", "name": "GUNUNG ANTARA"}, {"id": "1117042037", "district_id": "111704", "name": "GELE SEMAYANG"}, {"id": "1117042042", "district_id": "111704", "name": "TAWAR SEDENGE"}, {"id": "1117042043", "district_id": "111704", "name": "BERANUN TELEDEN"}, {"id": "1117042044", "district_id": "111704", "name": "REMANG KETIKE JAYA"}, {"id": "1117042045", "district_id": "111704", "name": "MAKMUR SENTOSA"}, {"id": "1117042047", "district_id": "111704", "name": "SINAR JAYA PAYA RINGKEL"}]
+[
+  {
+    "id": "1117042001",
+    "district_id": "111704",
+    "name": "BAHGIE BERTONA"
+  },
+  {
+    "id": "1117042003",
+    "district_id": "111704",
+    "name": "BATHIN BARU"
+  },
+  {
+    "id": "1117042004",
+    "district_id": "111704",
+    "name": "BLANG PULO"
+  },
+  {
+    "id": "1117042009",
+    "district_id": "111704",
+    "name": "BUKIT WIH ILANG"
+  },
+  {
+    "id": "1117042010",
+    "district_id": "111704",
+    "name": "HAKIM WIH ILANG"
+  },
+  {
+    "id": "1117042011",
+    "district_id": "111704",
+    "name": "JANARATA"
+  },
+  {
+    "id": "1117042012",
+    "district_id": "111704",
+    "name": "KERAMAT JAYA"
+  },
+  {
+    "id": "1117042013",
+    "district_id": "111704",
+    "name": "LEWA JADI"
+  },
+  {
+    "id": "1117042014",
+    "district_id": "111704",
+    "name": "MUYANG KUTE MANGKU"
+  },
+  {
+    "id": "1117042016",
+    "district_id": "111704",
+    "name": "PAKAT JEROH"
+  },
+  {
+    "id": "1117042017",
+    "district_id": "111704",
+    "name": "PAYA BANING"
+  },
+  {
+    "id": "1117042018",
+    "district_id": "111704",
+    "name": "BLANG JORONG"
+  },
+  {
+    "id": "1117042019",
+    "district_id": "111704",
+    "name": "PONDOK BARU"
+  },
+  {
+    "id": "1117042020",
+    "district_id": "111704",
+    "name": "PONDOK GAJAH"
+  },
+  {
+    "id": "1117042021",
+    "district_id": "111704",
+    "name": "PONDOK ULUNG"
+  },
+  {
+    "id": "1117042022",
+    "district_id": "111704",
+    "name": "PUJA MULIA"
+  },
+  {
+    "id": "1117042023",
+    "district_id": "111704",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "1117042024",
+    "district_id": "111704",
+    "name": "SELAMAT REJO"
+  },
+  {
+    "id": "1117042025",
+    "district_id": "111704",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1117042026",
+    "district_id": "111704",
+    "name": "SIMPANG UTAMA"
+  },
+  {
+    "id": "1117042027",
+    "district_id": "111704",
+    "name": "SUKU WIH ILANG"
+  },
+  {
+    "id": "1117042028",
+    "district_id": "111704",
+    "name": "TANJUNG PURA"
+  },
+  {
+    "id": "1117042029",
+    "district_id": "111704",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "1117042030",
+    "district_id": "111704",
+    "name": "MUTIARA"
+  },
+  {
+    "id": "1117042032",
+    "district_id": "111704",
+    "name": "TANSARAN BIDIN"
+  },
+  {
+    "id": "1117042033",
+    "district_id": "111704",
+    "name": "JADI SEPAKAT"
+  },
+  {
+    "id": "1117042034",
+    "district_id": "111704",
+    "name": "SELISIH MARA"
+  },
+  {
+    "id": "1117042035",
+    "district_id": "111704",
+    "name": "KALA NEMPAN"
+  },
+  {
+    "id": "1117042036",
+    "district_id": "111704",
+    "name": "GUNUNG ANTARA"
+  },
+  {
+    "id": "1117042037",
+    "district_id": "111704",
+    "name": "GELE SEMAYANG"
+  },
+  {
+    "id": "1117042042",
+    "district_id": "111704",
+    "name": "TAWAR SEDENGE"
+  },
+  {
+    "id": "1117042043",
+    "district_id": "111704",
+    "name": "BERANUN TELEDEN"
+  },
+  {
+    "id": "1117042044",
+    "district_id": "111704",
+    "name": "REMANG KETIKE JAYA"
+  },
+  {
+    "id": "1117042045",
+    "district_id": "111704",
+    "name": "MAKMUR SENTOSA"
+  },
+  {
+    "id": "1117042047",
+    "district_id": "111704",
+    "name": "SINAR JAYA PAYA RINGKEL"
+  }
+]

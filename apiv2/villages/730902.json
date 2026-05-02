@@ -1,1 +1,42 @@
-[{"id": "7309021001", "district_id": "730902", "name": "CEMPANIGA"}, {"id": "7309021002", "district_id": "730902", "name": "MARIO PULANA"}, {"id": "7309022003", "district_id": "730902", "name": "TIMPUSENG"}, {"id": "7309022004", "district_id": "730902", "name": "CENRANA"}, {"id": "7309022005", "district_id": "730902", "name": "SAWARU"}, {"id": "7309022006", "district_id": "730902", "name": "PATANYAMANG"}, {"id": "7309022007", "district_id": "730902", "name": "PATTIRO DECENG"}, {"id": "7309022008", "district_id": "730902", "name": "BENTENG"}]
+[
+  {
+    "id": "7309021001",
+    "district_id": "730902",
+    "name": "CEMPANIGA"
+  },
+  {
+    "id": "7309021002",
+    "district_id": "730902",
+    "name": "MARIO PULANA"
+  },
+  {
+    "id": "7309022003",
+    "district_id": "730902",
+    "name": "TIMPUSENG"
+  },
+  {
+    "id": "7309022004",
+    "district_id": "730902",
+    "name": "CENRANA"
+  },
+  {
+    "id": "7309022005",
+    "district_id": "730902",
+    "name": "SAWARU"
+  },
+  {
+    "id": "7309022006",
+    "district_id": "730902",
+    "name": "PATANYAMANG"
+  },
+  {
+    "id": "7309022007",
+    "district_id": "730902",
+    "name": "PATTIRO DECENG"
+  },
+  {
+    "id": "7309022008",
+    "district_id": "730902",
+    "name": "BENTENG"
+  }
+]

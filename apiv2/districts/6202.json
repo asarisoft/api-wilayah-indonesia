@@ -1,1 +1,87 @@
-[{"id": "620201", "regency_id": "6202", "name": "KOTA BESI"}, {"id": "620202", "regency_id": "6202", "name": "CEMPAGA"}, {"id": "620203", "regency_id": "6202", "name": "MENTAYA HULU"}, {"id": "620204", "regency_id": "6202", "name": "PARENGGEAN"}, {"id": "620205", "regency_id": "6202", "name": "BAAMANG"}, {"id": "620206", "regency_id": "6202", "name": "MENTAWA BARU KETAPANG"}, {"id": "620207", "regency_id": "6202", "name": "MENTAYA HILIR UTARA"}, {"id": "620208", "regency_id": "6202", "name": "MENTAYA HILIR SELATAN"}, {"id": "620209", "regency_id": "6202", "name": "PULAU HANAUT"}, {"id": "620210", "regency_id": "6202", "name": "ANTANG KALANG"}, {"id": "620211", "regency_id": "6202", "name": "TELUK SAMPIT"}, {"id": "620212", "regency_id": "6202", "name": "SERANAU"}, {"id": "620213", "regency_id": "6202", "name": "CEMPAGA HULU"}, {"id": "620214", "regency_id": "6202", "name": "TELAWANG"}, {"id": "620215", "regency_id": "6202", "name": "BUKIT SANTUAI"}, {"id": "620216", "regency_id": "6202", "name": "TUALAN HULU"}, {"id": "620217", "regency_id": "6202", "name": "TELAGA ANTANG"}]
+[
+  {
+    "id": "620201",
+    "regency_id": "6202",
+    "name": "KOTA BESI"
+  },
+  {
+    "id": "620202",
+    "regency_id": "6202",
+    "name": "CEMPAGA"
+  },
+  {
+    "id": "620203",
+    "regency_id": "6202",
+    "name": "MENTAYA HULU"
+  },
+  {
+    "id": "620204",
+    "regency_id": "6202",
+    "name": "PARENGGEAN"
+  },
+  {
+    "id": "620205",
+    "regency_id": "6202",
+    "name": "BAAMANG"
+  },
+  {
+    "id": "620206",
+    "regency_id": "6202",
+    "name": "MENTAWA BARU KETAPANG"
+  },
+  {
+    "id": "620207",
+    "regency_id": "6202",
+    "name": "MENTAYA HILIR UTARA"
+  },
+  {
+    "id": "620208",
+    "regency_id": "6202",
+    "name": "MENTAYA HILIR SELATAN"
+  },
+  {
+    "id": "620209",
+    "regency_id": "6202",
+    "name": "PULAU HANAUT"
+  },
+  {
+    "id": "620210",
+    "regency_id": "6202",
+    "name": "ANTANG KALANG"
+  },
+  {
+    "id": "620211",
+    "regency_id": "6202",
+    "name": "TELUK SAMPIT"
+  },
+  {
+    "id": "620212",
+    "regency_id": "6202",
+    "name": "SERANAU"
+  },
+  {
+    "id": "620213",
+    "regency_id": "6202",
+    "name": "CEMPAGA HULU"
+  },
+  {
+    "id": "620214",
+    "regency_id": "6202",
+    "name": "TELAWANG"
+  },
+  {
+    "id": "620215",
+    "regency_id": "6202",
+    "name": "BUKIT SANTUAI"
+  },
+  {
+    "id": "620216",
+    "regency_id": "6202",
+    "name": "TUALAN HULU"
+  },
+  {
+    "id": "620217",
+    "regency_id": "6202",
+    "name": "TELAGA ANTANG"
+  }
+]

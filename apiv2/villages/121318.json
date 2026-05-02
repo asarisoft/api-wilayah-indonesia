@@ -1,1 +1,92 @@
-[{"id": "1213182001", "district_id": "121318", "name": "MANISAK"}, {"id": "1213182002", "district_id": "121318", "name": "SIMPANG TALAP"}, {"id": "1213182003", "district_id": "121318", "name": "SAMPURAN"}, {"id": "1213182004", "district_id": "121318", "name": "TANDIKEK"}, {"id": "1213182005", "district_id": "121318", "name": "GONTING"}, {"id": "1213182006", "district_id": "121318", "name": "BANGUN SAROHA"}, {"id": "1213182007", "district_id": "121318", "name": "HUTA BARINGIN"}, {"id": "1213182008", "district_id": "121318", "name": "MUARA BANGKO"}, {"id": "1213182009", "district_id": "121318", "name": "RANTO NALINJANG"}, {"id": "1213182010", "district_id": "121318", "name": "BANJAR MAGA"}, {"id": "1213182011", "district_id": "121318", "name": "HUTA RAJA"}, {"id": "1213182012", "district_id": "121318", "name": "SIMANINGGIR"}, {"id": "1213182013", "district_id": "121318", "name": "RANTO PANJANG"}, {"id": "1213182014", "district_id": "121318", "name": "HUTA NAULI"}, {"id": "1213182015", "district_id": "121318", "name": "LUBUK KANCAH"}, {"id": "1213182016", "district_id": "121318", "name": "DUA SEPAKAT"}, {"id": "1213182017", "district_id": "121318", "name": "GUNUNG GODANG"}, {"id": "1213182018", "district_id": "121318", "name": "PADANG SILOJONGAN"}]
+[
+  {
+    "id": "1213182001",
+    "district_id": "121318",
+    "name": "MANISAK"
+  },
+  {
+    "id": "1213182002",
+    "district_id": "121318",
+    "name": "SIMPANG TALAP"
+  },
+  {
+    "id": "1213182003",
+    "district_id": "121318",
+    "name": "SAMPURAN"
+  },
+  {
+    "id": "1213182004",
+    "district_id": "121318",
+    "name": "TANDIKEK"
+  },
+  {
+    "id": "1213182005",
+    "district_id": "121318",
+    "name": "GONTING"
+  },
+  {
+    "id": "1213182006",
+    "district_id": "121318",
+    "name": "BANGUN SAROHA"
+  },
+  {
+    "id": "1213182007",
+    "district_id": "121318",
+    "name": "HUTA BARINGIN"
+  },
+  {
+    "id": "1213182008",
+    "district_id": "121318",
+    "name": "MUARA BANGKO"
+  },
+  {
+    "id": "1213182009",
+    "district_id": "121318",
+    "name": "RANTO NALINJANG"
+  },
+  {
+    "id": "1213182010",
+    "district_id": "121318",
+    "name": "BANJAR MAGA"
+  },
+  {
+    "id": "1213182011",
+    "district_id": "121318",
+    "name": "HUTA RAJA"
+  },
+  {
+    "id": "1213182012",
+    "district_id": "121318",
+    "name": "SIMANINGGIR"
+  },
+  {
+    "id": "1213182013",
+    "district_id": "121318",
+    "name": "RANTO PANJANG"
+  },
+  {
+    "id": "1213182014",
+    "district_id": "121318",
+    "name": "HUTA NAULI"
+  },
+  {
+    "id": "1213182015",
+    "district_id": "121318",
+    "name": "LUBUK KANCAH"
+  },
+  {
+    "id": "1213182016",
+    "district_id": "121318",
+    "name": "DUA SEPAKAT"
+  },
+  {
+    "id": "1213182017",
+    "district_id": "121318",
+    "name": "GUNUNG GODANG"
+  },
+  {
+    "id": "1213182018",
+    "district_id": "121318",
+    "name": "PADANG SILOJONGAN"
+  }
+]

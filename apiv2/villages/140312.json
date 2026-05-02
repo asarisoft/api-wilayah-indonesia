@@ -1,1 +1,87 @@
-[{"id": "1403122001", "district_id": "140312", "name": "LUBUK MUDA"}, {"id": "1403122002", "district_id": "140312", "name": "TANJUNG BELIT"}, {"id": "1403122003", "district_id": "140312", "name": "SUNGAI SIPUT"}, {"id": "1403122004", "district_id": "140312", "name": "SEPOTONG"}, {"id": "1403122005", "district_id": "140312", "name": "LUBUK GAUNG"}, {"id": "1403122006", "district_id": "140312", "name": "LANGKAT"}, {"id": "1403122007", "district_id": "140312", "name": "SADAR JAYA"}, {"id": "1403122008", "district_id": "140312", "name": "SUNGAI LINAU"}, {"id": "1403122009", "district_id": "140312", "name": "BANDAR JAYA"}, {"id": "1403122010", "district_id": "140312", "name": "MUARA DUA"}, {"id": "1403122011", "district_id": "140312", "name": "TANJUNG DAMAI"}, {"id": "1403122012", "district_id": "140312", "name": "SUMBER JAYA"}, {"id": "1403122013", "district_id": "140312", "name": "LUBUK GARAM"}, {"id": "1403122014", "district_id": "140312", "name": "LIANG BANIR"}, {"id": "1403122015", "district_id": "140312", "name": "TANJUNG DATUK"}, {"id": "1403122016", "district_id": "140312", "name": "KOTO RAJA"}, {"id": "1403122017", "district_id": "140312", "name": "SUNGAI NIBUNG"}]
+[
+  {
+    "id": "1403122001",
+    "district_id": "140312",
+    "name": "LUBUK MUDA"
+  },
+  {
+    "id": "1403122002",
+    "district_id": "140312",
+    "name": "TANJUNG BELIT"
+  },
+  {
+    "id": "1403122003",
+    "district_id": "140312",
+    "name": "SUNGAI SIPUT"
+  },
+  {
+    "id": "1403122004",
+    "district_id": "140312",
+    "name": "SEPOTONG"
+  },
+  {
+    "id": "1403122005",
+    "district_id": "140312",
+    "name": "LUBUK GAUNG"
+  },
+  {
+    "id": "1403122006",
+    "district_id": "140312",
+    "name": "LANGKAT"
+  },
+  {
+    "id": "1403122007",
+    "district_id": "140312",
+    "name": "SADAR JAYA"
+  },
+  {
+    "id": "1403122008",
+    "district_id": "140312",
+    "name": "SUNGAI LINAU"
+  },
+  {
+    "id": "1403122009",
+    "district_id": "140312",
+    "name": "BANDAR JAYA"
+  },
+  {
+    "id": "1403122010",
+    "district_id": "140312",
+    "name": "MUARA DUA"
+  },
+  {
+    "id": "1403122011",
+    "district_id": "140312",
+    "name": "TANJUNG DAMAI"
+  },
+  {
+    "id": "1403122012",
+    "district_id": "140312",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1403122013",
+    "district_id": "140312",
+    "name": "LUBUK GARAM"
+  },
+  {
+    "id": "1403122014",
+    "district_id": "140312",
+    "name": "LIANG BANIR"
+  },
+  {
+    "id": "1403122015",
+    "district_id": "140312",
+    "name": "TANJUNG DATUK"
+  },
+  {
+    "id": "1403122016",
+    "district_id": "140312",
+    "name": "KOTO RAJA"
+  },
+  {
+    "id": "1403122017",
+    "district_id": "140312",
+    "name": "SUNGAI NIBUNG"
+  }
+]

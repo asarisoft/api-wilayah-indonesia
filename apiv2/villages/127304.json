@@ -1,1 +1,22 @@
-[{"id": "1273041001", "district_id": "127304", "name": "PANCURAN KERAMBIL"}, {"id": "1273041002", "district_id": "127304", "name": "PANCURAN DEWA"}, {"id": "1273041003", "district_id": "127304", "name": "PANCURAN PINANG"}, {"id": "1273041004", "district_id": "127304", "name": "PANCURAN BAMBU"}]
+[
+  {
+    "id": "1273041001",
+    "district_id": "127304",
+    "name": "PANCURAN KERAMBIL"
+  },
+  {
+    "id": "1273041002",
+    "district_id": "127304",
+    "name": "PANCURAN DEWA"
+  },
+  {
+    "id": "1273041003",
+    "district_id": "127304",
+    "name": "PANCURAN PINANG"
+  },
+  {
+    "id": "1273041004",
+    "district_id": "127304",
+    "name": "PANCURAN BAMBU"
+  }
+]

@@ -1,1 +1,92 @@
-[{"id": "5312042001", "district_id": "531204", "name": "LOKO RY"}, {"id": "5312042002", "district_id": "531204", "name": "LOLO WANO"}, {"id": "5312042003", "district_id": "531204", "name": "MALATA"}, {"id": "5312042004", "district_id": "531204", "name": "NGADU PADA"}, {"id": "5312042005", "district_id": "531204", "name": "LINGU LANGO"}, {"id": "5312042006", "district_id": "531204", "name": "KARAKA NDUKU"}, {"id": "5312042007", "district_id": "531204", "name": "WANO KASA"}, {"id": "5312042008", "district_id": "531204", "name": "WEE PATOLA"}, {"id": "5312042009", "district_id": "531204", "name": "ZALA KADU"}, {"id": "5312042010", "district_id": "531204", "name": "BONDO TERA"}, {"id": "5312042011", "district_id": "531204", "name": "MANU KUKU"}, {"id": "5312042012", "district_id": "531204", "name": "LOLO TANA"}, {"id": "5312042013", "district_id": "531204", "name": "KAREKA NDUKU UTARA"}, {"id": "5312042014", "district_id": "531204", "name": "KAREKA NDUKU SELATAN"}, {"id": "5312042015", "district_id": "531204", "name": "MANU MADA"}, {"id": "5312042016", "district_id": "531204", "name": "ELU LODA"}, {"id": "5312042017", "district_id": "531204", "name": "KALEBU ANA KAKA"}, {"id": "5312042018", "district_id": "531204", "name": "TARONA"}]
+[
+  {
+    "id": "5312042001",
+    "district_id": "531204",
+    "name": "LOKO RY"
+  },
+  {
+    "id": "5312042002",
+    "district_id": "531204",
+    "name": "LOLO WANO"
+  },
+  {
+    "id": "5312042003",
+    "district_id": "531204",
+    "name": "MALATA"
+  },
+  {
+    "id": "5312042004",
+    "district_id": "531204",
+    "name": "NGADU PADA"
+  },
+  {
+    "id": "5312042005",
+    "district_id": "531204",
+    "name": "LINGU LANGO"
+  },
+  {
+    "id": "5312042006",
+    "district_id": "531204",
+    "name": "KARAKA NDUKU"
+  },
+  {
+    "id": "5312042007",
+    "district_id": "531204",
+    "name": "WANO KASA"
+  },
+  {
+    "id": "5312042008",
+    "district_id": "531204",
+    "name": "WEE PATOLA"
+  },
+  {
+    "id": "5312042009",
+    "district_id": "531204",
+    "name": "ZALA KADU"
+  },
+  {
+    "id": "5312042010",
+    "district_id": "531204",
+    "name": "BONDO TERA"
+  },
+  {
+    "id": "5312042011",
+    "district_id": "531204",
+    "name": "MANU KUKU"
+  },
+  {
+    "id": "5312042012",
+    "district_id": "531204",
+    "name": "LOLO TANA"
+  },
+  {
+    "id": "5312042013",
+    "district_id": "531204",
+    "name": "KAREKA NDUKU UTARA"
+  },
+  {
+    "id": "5312042014",
+    "district_id": "531204",
+    "name": "KAREKA NDUKU SELATAN"
+  },
+  {
+    "id": "5312042015",
+    "district_id": "531204",
+    "name": "MANU MADA"
+  },
+  {
+    "id": "5312042016",
+    "district_id": "531204",
+    "name": "ELU LODA"
+  },
+  {
+    "id": "5312042017",
+    "district_id": "531204",
+    "name": "KALEBU ANA KAKA"
+  },
+  {
+    "id": "5312042018",
+    "district_id": "531204",
+    "name": "TARONA"
+  }
+]

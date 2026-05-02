@@ -1,1 +1,47 @@
-[{"id": "1704041007", "district_id": "170404", "name": "TANJUNG IMAN"}, {"id": "1704042001", "district_id": "170404", "name": "SUKARAMI"}, {"id": "1704042002", "district_id": "170404", "name": "PAJAR BULAN"}, {"id": "1704042003", "district_id": "170404", "name": "PADANG HANGAT"}, {"id": "1704042004", "district_id": "170404", "name": "KEMANG MANIS"}, {"id": "1704042005", "district_id": "170404", "name": "PENYANDINGAN"}, {"id": "1704042006", "district_id": "170404", "name": "SINAR JAYA"}, {"id": "1704042008", "district_id": "170404", "name": "TANJUNG PANDAN"}, {"id": "1704042009", "district_id": "170404", "name": "PADANG BARU"}]
+[
+  {
+    "id": "1704041007",
+    "district_id": "170404",
+    "name": "TANJUNG IMAN"
+  },
+  {
+    "id": "1704042001",
+    "district_id": "170404",
+    "name": "SUKARAMI"
+  },
+  {
+    "id": "1704042002",
+    "district_id": "170404",
+    "name": "PAJAR BULAN"
+  },
+  {
+    "id": "1704042003",
+    "district_id": "170404",
+    "name": "PADANG HANGAT"
+  },
+  {
+    "id": "1704042004",
+    "district_id": "170404",
+    "name": "KEMANG MANIS"
+  },
+  {
+    "id": "1704042005",
+    "district_id": "170404",
+    "name": "PENYANDINGAN"
+  },
+  {
+    "id": "1704042006",
+    "district_id": "170404",
+    "name": "SINAR JAYA"
+  },
+  {
+    "id": "1704042008",
+    "district_id": "170404",
+    "name": "TANJUNG PANDAN"
+  },
+  {
+    "id": "1704042009",
+    "district_id": "170404",
+    "name": "PADANG BARU"
+  }
+]

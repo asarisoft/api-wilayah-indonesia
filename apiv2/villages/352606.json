@@ -1,1 +1,67 @@
-[{"id": "3526062001", "district_id": "352606", "name": "KOMBANGAN"}, {"id": "3526062002", "district_id": "352606", "name": "BANYONENG LAOK"}, {"id": "3526062003", "district_id": "352606", "name": "KATOL BARAT"}, {"id": "3526062004", "district_id": "352606", "name": "DABUNG"}, {"id": "3526062005", "district_id": "352606", "name": "LERPAK"}, {"id": "3526062006", "district_id": "352606", "name": "GEGER"}, {"id": "3526062007", "district_id": "352606", "name": "TOGUBANG"}, {"id": "3526062008", "district_id": "352606", "name": "BATOBELLA"}, {"id": "3526062009", "district_id": "352606", "name": "KAMPAK"}, {"id": "3526062010", "district_id": "352606", "name": "CAMPOR"}, {"id": "3526062011", "district_id": "352606", "name": "KOMPOL"}, {"id": "3526062012", "district_id": "352606", "name": "TEGAR PRIYAH"}, {"id": "3526062013", "district_id": "352606", "name": "BANYONENG DAJAH"}]
+[
+  {
+    "id": "3526062001",
+    "district_id": "352606",
+    "name": "KOMBANGAN"
+  },
+  {
+    "id": "3526062002",
+    "district_id": "352606",
+    "name": "BANYONENG LAOK"
+  },
+  {
+    "id": "3526062003",
+    "district_id": "352606",
+    "name": "KATOL BARAT"
+  },
+  {
+    "id": "3526062004",
+    "district_id": "352606",
+    "name": "DABUNG"
+  },
+  {
+    "id": "3526062005",
+    "district_id": "352606",
+    "name": "LERPAK"
+  },
+  {
+    "id": "3526062006",
+    "district_id": "352606",
+    "name": "GEGER"
+  },
+  {
+    "id": "3526062007",
+    "district_id": "352606",
+    "name": "TOGUBANG"
+  },
+  {
+    "id": "3526062008",
+    "district_id": "352606",
+    "name": "BATOBELLA"
+  },
+  {
+    "id": "3526062009",
+    "district_id": "352606",
+    "name": "KAMPAK"
+  },
+  {
+    "id": "3526062010",
+    "district_id": "352606",
+    "name": "CAMPOR"
+  },
+  {
+    "id": "3526062011",
+    "district_id": "352606",
+    "name": "KOMPOL"
+  },
+  {
+    "id": "3526062012",
+    "district_id": "352606",
+    "name": "TEGAR PRIYAH"
+  },
+  {
+    "id": "3526062013",
+    "district_id": "352606",
+    "name": "BANYONENG DAJAH"
+  }
+]

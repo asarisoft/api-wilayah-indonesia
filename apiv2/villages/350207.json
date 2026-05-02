@@ -1,1 +1,92 @@
-[{"id": "3502072001", "district_id": "350207", "name": "KARANGPATIHAN"}, {"id": "3502072002", "district_id": "350207", "name": "TEGALREJO"}, {"id": "3502072003", "district_id": "350207", "name": "BEDRUG"}, {"id": "3502072004", "district_id": "350207", "name": "WAGIR KIDUL"}, {"id": "3502072005", "district_id": "350207", "name": "SINGGAHAN"}, {"id": "3502072006", "district_id": "350207", "name": "PATIK"}, {"id": "3502072007", "district_id": "350207", "name": "PULUNG"}, {"id": "3502072008", "district_id": "350207", "name": "PULUNG MERDIKO"}, {"id": "3502072009", "district_id": "350207", "name": "SIDOHARJO"}, {"id": "3502072010", "district_id": "350207", "name": "WOTAN"}, {"id": "3502072011", "district_id": "350207", "name": "PLUNTURAN"}, {"id": "3502072012", "district_id": "350207", "name": "POMAHAN"}, {"id": "3502072013", "district_id": "350207", "name": "KESUGIHAN"}, {"id": "3502072014", "district_id": "350207", "name": "SERAG"}, {"id": "3502072015", "district_id": "350207", "name": "WAYANG"}, {"id": "3502072016", "district_id": "350207", "name": "MUNGGUNG"}, {"id": "3502072017", "district_id": "350207", "name": "BEKIRING"}, {"id": "3502072018", "district_id": "350207", "name": "BANARAN"}]
+[
+  {
+    "id": "3502072001",
+    "district_id": "350207",
+    "name": "KARANGPATIHAN"
+  },
+  {
+    "id": "3502072002",
+    "district_id": "350207",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "3502072003",
+    "district_id": "350207",
+    "name": "BEDRUG"
+  },
+  {
+    "id": "3502072004",
+    "district_id": "350207",
+    "name": "WAGIR KIDUL"
+  },
+  {
+    "id": "3502072005",
+    "district_id": "350207",
+    "name": "SINGGAHAN"
+  },
+  {
+    "id": "3502072006",
+    "district_id": "350207",
+    "name": "PATIK"
+  },
+  {
+    "id": "3502072007",
+    "district_id": "350207",
+    "name": "PULUNG"
+  },
+  {
+    "id": "3502072008",
+    "district_id": "350207",
+    "name": "PULUNG MERDIKO"
+  },
+  {
+    "id": "3502072009",
+    "district_id": "350207",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "3502072010",
+    "district_id": "350207",
+    "name": "WOTAN"
+  },
+  {
+    "id": "3502072011",
+    "district_id": "350207",
+    "name": "PLUNTURAN"
+  },
+  {
+    "id": "3502072012",
+    "district_id": "350207",
+    "name": "POMAHAN"
+  },
+  {
+    "id": "3502072013",
+    "district_id": "350207",
+    "name": "KESUGIHAN"
+  },
+  {
+    "id": "3502072014",
+    "district_id": "350207",
+    "name": "SERAG"
+  },
+  {
+    "id": "3502072015",
+    "district_id": "350207",
+    "name": "WAYANG"
+  },
+  {
+    "id": "3502072016",
+    "district_id": "350207",
+    "name": "MUNGGUNG"
+  },
+  {
+    "id": "3502072017",
+    "district_id": "350207",
+    "name": "BEKIRING"
+  },
+  {
+    "id": "3502072018",
+    "district_id": "350207",
+    "name": "BANARAN"
+  }
+]

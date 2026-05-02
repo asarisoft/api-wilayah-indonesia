@@ -1,1 +1,42 @@
-[{"id": "7209092001", "district_id": "720909", "name": "BIGA"}, {"id": "7209092002", "district_id": "720909", "name": "SALINGGOHA"}, {"id": "7209092003", "district_id": "720909", "name": "TINGKI"}, {"id": "7209092004", "district_id": "720909", "name": "MALAPO"}, {"id": "7209092005", "district_id": "720909", "name": "PASOKAN"}, {"id": "7209092006", "district_id": "720909", "name": "KONDONGAN"}, {"id": "7209092007", "district_id": "720909", "name": "KATOGOP"}, {"id": "7209092008", "district_id": "720909", "name": "TONGIDON"}]
+[
+  {
+    "id": "7209092001",
+    "district_id": "720909",
+    "name": "BIGA"
+  },
+  {
+    "id": "7209092002",
+    "district_id": "720909",
+    "name": "SALINGGOHA"
+  },
+  {
+    "id": "7209092003",
+    "district_id": "720909",
+    "name": "TINGKI"
+  },
+  {
+    "id": "7209092004",
+    "district_id": "720909",
+    "name": "MALAPO"
+  },
+  {
+    "id": "7209092005",
+    "district_id": "720909",
+    "name": "PASOKAN"
+  },
+  {
+    "id": "7209092006",
+    "district_id": "720909",
+    "name": "KONDONGAN"
+  },
+  {
+    "id": "7209092007",
+    "district_id": "720909",
+    "name": "KATOGOP"
+  },
+  {
+    "id": "7209092008",
+    "district_id": "720909",
+    "name": "TONGIDON"
+  }
+]

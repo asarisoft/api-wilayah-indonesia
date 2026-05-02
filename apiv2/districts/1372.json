@@ -1,1 +1,12 @@
-[{"id": "137201", "regency_id": "1372", "name": "LUBUK SIKARAH"}, {"id": "137202", "regency_id": "1372", "name": "TANJUNG HARAPAN"}]
+[
+  {
+    "id": "137201",
+    "regency_id": "1372",
+    "name": "LUBUK SIKARAH"
+  },
+  {
+    "id": "137202",
+    "regency_id": "1372",
+    "name": "TANJUNG HARAPAN"
+  }
+]

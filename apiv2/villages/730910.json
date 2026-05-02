@@ -1,1 +1,37 @@
-[{"id": "7309102001", "district_id": "730910", "name": "LAIYA"}, {"id": "7309102002", "district_id": "730910", "name": "LABUAJA"}, {"id": "7309102003", "district_id": "730910", "name": "LIMAMPOCCOE"}, {"id": "7309102004", "district_id": "730910", "name": "LEBBO TENGAE"}, {"id": "7309102005", "district_id": "730910", "name": "ROMPEGADING"}, {"id": "7309102006", "district_id": "730910", "name": "BAJI PA'MAI"}, {"id": "7309102007", "district_id": "730910", "name": "CENRANA BARU"}]
+[
+  {
+    "id": "7309102001",
+    "district_id": "730910",
+    "name": "LAIYA"
+  },
+  {
+    "id": "7309102002",
+    "district_id": "730910",
+    "name": "LABUAJA"
+  },
+  {
+    "id": "7309102003",
+    "district_id": "730910",
+    "name": "LIMAMPOCCOE"
+  },
+  {
+    "id": "7309102004",
+    "district_id": "730910",
+    "name": "LEBBO TENGAE"
+  },
+  {
+    "id": "7309102005",
+    "district_id": "730910",
+    "name": "ROMPEGADING"
+  },
+  {
+    "id": "7309102006",
+    "district_id": "730910",
+    "name": "BAJI PA'MAI"
+  },
+  {
+    "id": "7309102007",
+    "district_id": "730910",
+    "name": "CENRANA BARU"
+  }
+]

@@ -1,1 +1,92 @@
-[{"id": "6101012001", "district_id": "610101", "name": "DALAM KAUM"}, {"id": "6101012002", "district_id": "610101", "name": "LUBUK DAGANG"}, {"id": "6101012003", "district_id": "610101", "name": "TANJUNG BUGIS"}, {"id": "6101012004", "district_id": "610101", "name": "PENDAWAN"}, {"id": "6101012005", "district_id": "610101", "name": "PASAR MELAYU"}, {"id": "6101012006", "district_id": "610101", "name": "DURIAN"}, {"id": "6101012007", "district_id": "610101", "name": "LORONG"}, {"id": "6101012008", "district_id": "610101", "name": "JAGUR"}, {"id": "6101012009", "district_id": "610101", "name": "TUMUK MANGGIS"}, {"id": "6101012010", "district_id": "610101", "name": "TANJUNG MEKAR"}, {"id": "6101012011", "district_id": "610101", "name": "SEBAYAN"}, {"id": "6101012012", "district_id": "610101", "name": "KARTIASA"}, {"id": "6101012013", "district_id": "610101", "name": "SAING RAMBI"}, {"id": "6101012014", "district_id": "610101", "name": "LUMBANG"}, {"id": "6101012015", "district_id": "610101", "name": "SUNGAI RAMBAH"}, {"id": "6101012023", "district_id": "610101", "name": "GAPURA"}, {"id": "6101012024", "district_id": "610101", "name": "SUMBER HARAPAN"}, {"id": "6101012029", "district_id": "610101", "name": "SEMANGAU"}]
+[
+  {
+    "id": "6101012001",
+    "district_id": "610101",
+    "name": "DALAM KAUM"
+  },
+  {
+    "id": "6101012002",
+    "district_id": "610101",
+    "name": "LUBUK DAGANG"
+  },
+  {
+    "id": "6101012003",
+    "district_id": "610101",
+    "name": "TANJUNG BUGIS"
+  },
+  {
+    "id": "6101012004",
+    "district_id": "610101",
+    "name": "PENDAWAN"
+  },
+  {
+    "id": "6101012005",
+    "district_id": "610101",
+    "name": "PASAR MELAYU"
+  },
+  {
+    "id": "6101012006",
+    "district_id": "610101",
+    "name": "DURIAN"
+  },
+  {
+    "id": "6101012007",
+    "district_id": "610101",
+    "name": "LORONG"
+  },
+  {
+    "id": "6101012008",
+    "district_id": "610101",
+    "name": "JAGUR"
+  },
+  {
+    "id": "6101012009",
+    "district_id": "610101",
+    "name": "TUMUK MANGGIS"
+  },
+  {
+    "id": "6101012010",
+    "district_id": "610101",
+    "name": "TANJUNG MEKAR"
+  },
+  {
+    "id": "6101012011",
+    "district_id": "610101",
+    "name": "SEBAYAN"
+  },
+  {
+    "id": "6101012012",
+    "district_id": "610101",
+    "name": "KARTIASA"
+  },
+  {
+    "id": "6101012013",
+    "district_id": "610101",
+    "name": "SAING RAMBI"
+  },
+  {
+    "id": "6101012014",
+    "district_id": "610101",
+    "name": "LUMBANG"
+  },
+  {
+    "id": "6101012015",
+    "district_id": "610101",
+    "name": "SUNGAI RAMBAH"
+  },
+  {
+    "id": "6101012023",
+    "district_id": "610101",
+    "name": "GAPURA"
+  },
+  {
+    "id": "6101012024",
+    "district_id": "610101",
+    "name": "SUMBER HARAPAN"
+  },
+  {
+    "id": "6101012029",
+    "district_id": "610101",
+    "name": "SEMANGAU"
+  }
+]

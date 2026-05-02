@@ -1,1 +1,42 @@
-[{"id": "1305102001", "district_id": "130510", "name": "TAPAKIH"}, {"id": "1305102002", "district_id": "130510", "name": "ULAKAN"}, {"id": "1305102003", "district_id": "130510", "name": "PADANG TOBOH ULAKAN"}, {"id": "1305102004", "district_id": "130510", "name": "SUNGAI GIMBA ULAKAN"}, {"id": "1305102005", "district_id": "130510", "name": "SEULAYAT ULAKAN"}, {"id": "1305102006", "district_id": "130510", "name": "MANGGOPOH PALAK GADANG ULAKAN"}, {"id": "1305102007", "district_id": "130510", "name": "SANDI ULAKAN"}, {"id": "1305102008", "district_id": "130510", "name": "KAMPUANG GELAPUANG ULAKAN"}]
+[
+  {
+    "id": "1305102001",
+    "district_id": "130510",
+    "name": "TAPAKIH"
+  },
+  {
+    "id": "1305102002",
+    "district_id": "130510",
+    "name": "ULAKAN"
+  },
+  {
+    "id": "1305102003",
+    "district_id": "130510",
+    "name": "PADANG TOBOH ULAKAN"
+  },
+  {
+    "id": "1305102004",
+    "district_id": "130510",
+    "name": "SUNGAI GIMBA ULAKAN"
+  },
+  {
+    "id": "1305102005",
+    "district_id": "130510",
+    "name": "SEULAYAT ULAKAN"
+  },
+  {
+    "id": "1305102006",
+    "district_id": "130510",
+    "name": "MANGGOPOH PALAK GADANG ULAKAN"
+  },
+  {
+    "id": "1305102007",
+    "district_id": "130510",
+    "name": "SANDI ULAKAN"
+  },
+  {
+    "id": "1305102008",
+    "district_id": "130510",
+    "name": "KAMPUANG GELAPUANG ULAKAN"
+  }
+]

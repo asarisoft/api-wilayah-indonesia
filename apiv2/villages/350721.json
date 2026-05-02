@@ -1,1 +1,62 @@
-[{"id": "3507212001", "district_id": "350721", "name": "SUMBERSUKO"}, {"id": "3507212002", "district_id": "350721", "name": "MENDALANWANGI"}, {"id": "3507212003", "district_id": "350721", "name": "SITIREJO"}, {"id": "3507212004", "district_id": "350721", "name": "PARANGARGO"}, {"id": "3507212005", "district_id": "350721", "name": "GONDOWANGI"}, {"id": "3507212006", "district_id": "350721", "name": "PANDANREJO"}, {"id": "3507212007", "district_id": "350721", "name": "PETUNGSEWU"}, {"id": "3507212008", "district_id": "350721", "name": "SUKODADI"}, {"id": "3507212009", "district_id": "350721", "name": "SIDORAHAYU"}, {"id": "3507212010", "district_id": "350721", "name": "JEDONG"}, {"id": "3507212011", "district_id": "350721", "name": "DALISODO"}, {"id": "3507212012", "district_id": "350721", "name": "PANDANLANDUNG"}]
+[
+  {
+    "id": "3507212001",
+    "district_id": "350721",
+    "name": "SUMBERSUKO"
+  },
+  {
+    "id": "3507212002",
+    "district_id": "350721",
+    "name": "MENDALANWANGI"
+  },
+  {
+    "id": "3507212003",
+    "district_id": "350721",
+    "name": "SITIREJO"
+  },
+  {
+    "id": "3507212004",
+    "district_id": "350721",
+    "name": "PARANGARGO"
+  },
+  {
+    "id": "3507212005",
+    "district_id": "350721",
+    "name": "GONDOWANGI"
+  },
+  {
+    "id": "3507212006",
+    "district_id": "350721",
+    "name": "PANDANREJO"
+  },
+  {
+    "id": "3507212007",
+    "district_id": "350721",
+    "name": "PETUNGSEWU"
+  },
+  {
+    "id": "3507212008",
+    "district_id": "350721",
+    "name": "SUKODADI"
+  },
+  {
+    "id": "3507212009",
+    "district_id": "350721",
+    "name": "SIDORAHAYU"
+  },
+  {
+    "id": "3507212010",
+    "district_id": "350721",
+    "name": "JEDONG"
+  },
+  {
+    "id": "3507212011",
+    "district_id": "350721",
+    "name": "DALISODO"
+  },
+  {
+    "id": "3507212012",
+    "district_id": "350721",
+    "name": "PANDANLANDUNG"
+  }
+]

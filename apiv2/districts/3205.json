@@ -1,1 +1,212 @@
-[{"id": "320501", "regency_id": "3205", "name": "GARUT KOTA"}, {"id": "320502", "regency_id": "3205", "name": "KARANGPAWITAN"}, {"id": "320503", "regency_id": "3205", "name": "WANARAJA"}, {"id": "320504", "regency_id": "3205", "name": "TAROGONG KALER"}, {"id": "320505", "regency_id": "3205", "name": "TAROGONG KIDUL"}, {"id": "320506", "regency_id": "3205", "name": "BANYURESMI"}, {"id": "320507", "regency_id": "3205", "name": "SAMARANG"}, {"id": "320508", "regency_id": "3205", "name": "PASIRWANGI"}, {"id": "320509", "regency_id": "3205", "name": "LELES"}, {"id": "320510", "regency_id": "3205", "name": "KADUNGORA"}, {"id": "320511", "regency_id": "3205", "name": "LEUWIGOONG"}, {"id": "320512", "regency_id": "3205", "name": "CIBATU"}, {"id": "320513", "regency_id": "3205", "name": "KERSAMANAH"}, {"id": "320514", "regency_id": "3205", "name": "MALANGBONG"}, {"id": "320515", "regency_id": "3205", "name": "SUKAWENING"}, {"id": "320516", "regency_id": "3205", "name": "KARANGTENGAH"}, {"id": "320517", "regency_id": "3205", "name": "BAYONGBONG"}, {"id": "320518", "regency_id": "3205", "name": "CIGEDUG"}, {"id": "320519", "regency_id": "3205", "name": "CILAWU"}, {"id": "320520", "regency_id": "3205", "name": "CISURUPAN"}, {"id": "320521", "regency_id": "3205", "name": "SUKARESMI"}, {"id": "320522", "regency_id": "3205", "name": "CIKAJANG"}, {"id": "320523", "regency_id": "3205", "name": "BANJARWANGI"}, {"id": "320524", "regency_id": "3205", "name": "SINGAJAYA"}, {"id": "320525", "regency_id": "3205", "name": "CIHURIP"}, {"id": "320526", "regency_id": "3205", "name": "PEUNDEUY"}, {"id": "320527", "regency_id": "3205", "name": "PAMEUNGPEUK"}, {"id": "320528", "regency_id": "3205", "name": "CISOMPET"}, {"id": "320529", "regency_id": "3205", "name": "CIBALONG"}, {"id": "320530", "regency_id": "3205", "name": "CIKELET"}, {"id": "320531", "regency_id": "3205", "name": "BUNGBULANG"}, {"id": "320532", "regency_id": "3205", "name": "MEKARMUKTI"}, {"id": "320533", "regency_id": "3205", "name": "PAKENJENG"}, {"id": "320534", "regency_id": "3205", "name": "PAMULIHAN"}, {"id": "320535", "regency_id": "3205", "name": "CISEWU"}, {"id": "320536", "regency_id": "3205", "name": "CARINGIN"}, {"id": "320537", "regency_id": "3205", "name": "TALEGONG"}, {"id": "320538", "regency_id": "3205", "name": "LIMBANGAN"}, {"id": "320539", "regency_id": "3205", "name": "SELAAWI"}, {"id": "320540", "regency_id": "3205", "name": "CIBIUK"}, {"id": "320541", "regency_id": "3205", "name": "PANGATIKAN"}, {"id": "320542", "regency_id": "3205", "name": "SUCINARAJA"}]
+[
+  {
+    "id": "320501",
+    "regency_id": "3205",
+    "name": "GARUT KOTA"
+  },
+  {
+    "id": "320502",
+    "regency_id": "3205",
+    "name": "KARANGPAWITAN"
+  },
+  {
+    "id": "320503",
+    "regency_id": "3205",
+    "name": "WANARAJA"
+  },
+  {
+    "id": "320504",
+    "regency_id": "3205",
+    "name": "TAROGONG KALER"
+  },
+  {
+    "id": "320505",
+    "regency_id": "3205",
+    "name": "TAROGONG KIDUL"
+  },
+  {
+    "id": "320506",
+    "regency_id": "3205",
+    "name": "BANYURESMI"
+  },
+  {
+    "id": "320507",
+    "regency_id": "3205",
+    "name": "SAMARANG"
+  },
+  {
+    "id": "320508",
+    "regency_id": "3205",
+    "name": "PASIRWANGI"
+  },
+  {
+    "id": "320509",
+    "regency_id": "3205",
+    "name": "LELES"
+  },
+  {
+    "id": "320510",
+    "regency_id": "3205",
+    "name": "KADUNGORA"
+  },
+  {
+    "id": "320511",
+    "regency_id": "3205",
+    "name": "LEUWIGOONG"
+  },
+  {
+    "id": "320512",
+    "regency_id": "3205",
+    "name": "CIBATU"
+  },
+  {
+    "id": "320513",
+    "regency_id": "3205",
+    "name": "KERSAMANAH"
+  },
+  {
+    "id": "320514",
+    "regency_id": "3205",
+    "name": "MALANGBONG"
+  },
+  {
+    "id": "320515",
+    "regency_id": "3205",
+    "name": "SUKAWENING"
+  },
+  {
+    "id": "320516",
+    "regency_id": "3205",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "320517",
+    "regency_id": "3205",
+    "name": "BAYONGBONG"
+  },
+  {
+    "id": "320518",
+    "regency_id": "3205",
+    "name": "CIGEDUG"
+  },
+  {
+    "id": "320519",
+    "regency_id": "3205",
+    "name": "CILAWU"
+  },
+  {
+    "id": "320520",
+    "regency_id": "3205",
+    "name": "CISURUPAN"
+  },
+  {
+    "id": "320521",
+    "regency_id": "3205",
+    "name": "SUKARESMI"
+  },
+  {
+    "id": "320522",
+    "regency_id": "3205",
+    "name": "CIKAJANG"
+  },
+  {
+    "id": "320523",
+    "regency_id": "3205",
+    "name": "BANJARWANGI"
+  },
+  {
+    "id": "320524",
+    "regency_id": "3205",
+    "name": "SINGAJAYA"
+  },
+  {
+    "id": "320525",
+    "regency_id": "3205",
+    "name": "CIHURIP"
+  },
+  {
+    "id": "320526",
+    "regency_id": "3205",
+    "name": "PEUNDEUY"
+  },
+  {
+    "id": "320527",
+    "regency_id": "3205",
+    "name": "PAMEUNGPEUK"
+  },
+  {
+    "id": "320528",
+    "regency_id": "3205",
+    "name": "CISOMPET"
+  },
+  {
+    "id": "320529",
+    "regency_id": "3205",
+    "name": "CIBALONG"
+  },
+  {
+    "id": "320530",
+    "regency_id": "3205",
+    "name": "CIKELET"
+  },
+  {
+    "id": "320531",
+    "regency_id": "3205",
+    "name": "BUNGBULANG"
+  },
+  {
+    "id": "320532",
+    "regency_id": "3205",
+    "name": "MEKARMUKTI"
+  },
+  {
+    "id": "320533",
+    "regency_id": "3205",
+    "name": "PAKENJENG"
+  },
+  {
+    "id": "320534",
+    "regency_id": "3205",
+    "name": "PAMULIHAN"
+  },
+  {
+    "id": "320535",
+    "regency_id": "3205",
+    "name": "CISEWU"
+  },
+  {
+    "id": "320536",
+    "regency_id": "3205",
+    "name": "CARINGIN"
+  },
+  {
+    "id": "320537",
+    "regency_id": "3205",
+    "name": "TALEGONG"
+  },
+  {
+    "id": "320538",
+    "regency_id": "3205",
+    "name": "LIMBANGAN"
+  },
+  {
+    "id": "320539",
+    "regency_id": "3205",
+    "name": "SELAAWI"
+  },
+  {
+    "id": "320540",
+    "regency_id": "3205",
+    "name": "CIBIUK"
+  },
+  {
+    "id": "320541",
+    "regency_id": "3205",
+    "name": "PANGATIKAN"
+  },
+  {
+    "id": "320542",
+    "regency_id": "3205",
+    "name": "SUCINARAJA"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "3273031001", "district_id": "327303", "name": "BABAKAN CIPARAY"}, {"id": "3273031002", "district_id": "327303", "name": "BABAKAN"}, {"id": "3273031003", "district_id": "327303", "name": "SUKAHAJI"}, {"id": "3273031004", "district_id": "327303", "name": "MARGAHAYU UTARA"}, {"id": "3273031005", "district_id": "327303", "name": "MARGASUKA"}, {"id": "3273031006", "district_id": "327303", "name": "CIRANGRANG"}]
+[
+  {
+    "id": "3273031001",
+    "district_id": "327303",
+    "name": "BABAKAN CIPARAY"
+  },
+  {
+    "id": "3273031002",
+    "district_id": "327303",
+    "name": "BABAKAN"
+  },
+  {
+    "id": "3273031003",
+    "district_id": "327303",
+    "name": "SUKAHAJI"
+  },
+  {
+    "id": "3273031004",
+    "district_id": "327303",
+    "name": "MARGAHAYU UTARA"
+  },
+  {
+    "id": "3273031005",
+    "district_id": "327303",
+    "name": "MARGASUKA"
+  },
+  {
+    "id": "3273031006",
+    "district_id": "327303",
+    "name": "CIRANGRANG"
+  }
+]

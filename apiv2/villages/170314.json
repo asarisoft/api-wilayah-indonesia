@@ -1,1 +1,47 @@
-[{"id": "1703142007", "district_id": "170314", "name": "TALANG ARAH"}, {"id": "1703142008", "district_id": "170314", "name": "PASAR SEBELAT"}, {"id": "1703142009", "district_id": "170314", "name": "KOTA BANI"}, {"id": "1703142013", "district_id": "170314", "name": "AIR MURING"}, {"id": "1703142014", "district_id": "170314", "name": "AIR PANDAN"}, {"id": "1703142015", "district_id": "170314", "name": "CIPTA MULYA"}, {"id": "1703142017", "district_id": "170314", "name": "AIR PETAI"}, {"id": "1703142018", "district_id": "170314", "name": "KARANG TENGAH"}, {"id": "1703142019", "district_id": "170314", "name": "KARANG PULAU"}]
+[
+  {
+    "id": "1703142007",
+    "district_id": "170314",
+    "name": "TALANG ARAH"
+  },
+  {
+    "id": "1703142008",
+    "district_id": "170314",
+    "name": "PASAR SEBELAT"
+  },
+  {
+    "id": "1703142009",
+    "district_id": "170314",
+    "name": "KOTA BANI"
+  },
+  {
+    "id": "1703142013",
+    "district_id": "170314",
+    "name": "AIR MURING"
+  },
+  {
+    "id": "1703142014",
+    "district_id": "170314",
+    "name": "AIR PANDAN"
+  },
+  {
+    "id": "1703142015",
+    "district_id": "170314",
+    "name": "CIPTA MULYA"
+  },
+  {
+    "id": "1703142017",
+    "district_id": "170314",
+    "name": "AIR PETAI"
+  },
+  {
+    "id": "1703142018",
+    "district_id": "170314",
+    "name": "KARANG TENGAH"
+  },
+  {
+    "id": "1703142019",
+    "district_id": "170314",
+    "name": "KARANG PULAU"
+  }
+]

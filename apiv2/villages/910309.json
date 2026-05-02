@@ -1,1 +1,32 @@
-[{"id": "9103092001", "district_id": "910309", "name": "BENEIK"}, {"id": "9103092002", "district_id": "910309", "name": "GANUSA"}, {"id": "9103092003", "district_id": "910309", "name": "GURYARD"}, {"id": "9103092004", "district_id": "910309", "name": "SANTOSA"}, {"id": "9103092005", "district_id": "910309", "name": "SAWA SUMA"}, {"id": "9103092006", "district_id": "910309", "name": "NANDAIZI"}]
+[
+  {
+    "id": "9103092001",
+    "district_id": "910309",
+    "name": "BENEIK"
+  },
+  {
+    "id": "9103092002",
+    "district_id": "910309",
+    "name": "GANUSA"
+  },
+  {
+    "id": "9103092003",
+    "district_id": "910309",
+    "name": "GURYARD"
+  },
+  {
+    "id": "9103092004",
+    "district_id": "910309",
+    "name": "SANTOSA"
+  },
+  {
+    "id": "9103092005",
+    "district_id": "910309",
+    "name": "SAWA SUMA"
+  },
+  {
+    "id": "9103092006",
+    "district_id": "910309",
+    "name": "NANDAIZI"
+  }
+]

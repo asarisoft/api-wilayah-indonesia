@@ -1,1 +1,97 @@
-[{"id": "1203211063", "district_id": "120321", "name": "SAYUR MATINGGI"}, {"id": "1203212003", "district_id": "120321", "name": "JANJI MAULI BARINGIN"}, {"id": "1203212004", "district_id": "120321", "name": "MONDANG"}, {"id": "1203212005", "district_id": "120321", "name": "SIALANG"}, {"id": "1203212006", "district_id": "120321", "name": "SIPANGE JULU"}, {"id": "1203212007", "district_id": "120321", "name": "SIPANGE GODANG"}, {"id": "1203212008", "district_id": "120321", "name": "TOLANG JULU"}, {"id": "1203212009", "district_id": "120321", "name": "TOLANG JAE"}, {"id": "1203212012", "district_id": "120321", "name": "BANGE"}, {"id": "1203212013", "district_id": "120321", "name": "BULU GADING"}, {"id": "1203212018", "district_id": "120321", "name": "AEK LIBUNG"}, {"id": "1203212023", "district_id": "120321", "name": "AEK BADAK JAE"}, {"id": "1203212024", "district_id": "120321", "name": "AEK BADAK JULU"}, {"id": "1203212026", "district_id": "120321", "name": "HUTA PARDOMUAN"}, {"id": "1203212056", "district_id": "120321", "name": "SIPANGE SIUNJAM"}, {"id": "1203212057", "district_id": "120321", "name": "SILAIYA"}, {"id": "1203212058", "district_id": "120321", "name": "SOMANGGAL PARMONANGAN"}, {"id": "1203212059", "district_id": "120321", "name": "LUMBAN HUAYAN"}, {"id": "1203212062", "district_id": "120321", "name": "SILAIYA TANJUNG LEUK"}]
+[
+  {
+    "id": "1203211063",
+    "district_id": "120321",
+    "name": "SAYUR MATINGGI"
+  },
+  {
+    "id": "1203212003",
+    "district_id": "120321",
+    "name": "JANJI MAULI BARINGIN"
+  },
+  {
+    "id": "1203212004",
+    "district_id": "120321",
+    "name": "MONDANG"
+  },
+  {
+    "id": "1203212005",
+    "district_id": "120321",
+    "name": "SIALANG"
+  },
+  {
+    "id": "1203212006",
+    "district_id": "120321",
+    "name": "SIPANGE JULU"
+  },
+  {
+    "id": "1203212007",
+    "district_id": "120321",
+    "name": "SIPANGE GODANG"
+  },
+  {
+    "id": "1203212008",
+    "district_id": "120321",
+    "name": "TOLANG JULU"
+  },
+  {
+    "id": "1203212009",
+    "district_id": "120321",
+    "name": "TOLANG JAE"
+  },
+  {
+    "id": "1203212012",
+    "district_id": "120321",
+    "name": "BANGE"
+  },
+  {
+    "id": "1203212013",
+    "district_id": "120321",
+    "name": "BULU GADING"
+  },
+  {
+    "id": "1203212018",
+    "district_id": "120321",
+    "name": "AEK LIBUNG"
+  },
+  {
+    "id": "1203212023",
+    "district_id": "120321",
+    "name": "AEK BADAK JAE"
+  },
+  {
+    "id": "1203212024",
+    "district_id": "120321",
+    "name": "AEK BADAK JULU"
+  },
+  {
+    "id": "1203212026",
+    "district_id": "120321",
+    "name": "HUTA PARDOMUAN"
+  },
+  {
+    "id": "1203212056",
+    "district_id": "120321",
+    "name": "SIPANGE SIUNJAM"
+  },
+  {
+    "id": "1203212057",
+    "district_id": "120321",
+    "name": "SILAIYA"
+  },
+  {
+    "id": "1203212058",
+    "district_id": "120321",
+    "name": "SOMANGGAL PARMONANGAN"
+  },
+  {
+    "id": "1203212059",
+    "district_id": "120321",
+    "name": "LUMBAN HUAYAN"
+  },
+  {
+    "id": "1203212062",
+    "district_id": "120321",
+    "name": "SILAIYA TANJUNG LEUK"
+  }
+]

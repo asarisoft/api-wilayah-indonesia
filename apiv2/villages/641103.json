@@ -1,1 +1,27 @@
-[{"id": "6411032001", "district_id": "641103", "name": "LAHAM"}, {"id": "6411032002", "district_id": "641103", "name": "LONG GELAWANG"}, {"id": "6411032003", "district_id": "641103", "name": "MUARA RATAH"}, {"id": "6411032004", "district_id": "641103", "name": "DANUM PAROY"}, {"id": "6411032005", "district_id": "641103", "name": "NYARIBUNGAN"}]
+[
+  {
+    "id": "6411032001",
+    "district_id": "641103",
+    "name": "LAHAM"
+  },
+  {
+    "id": "6411032002",
+    "district_id": "641103",
+    "name": "LONG GELAWANG"
+  },
+  {
+    "id": "6411032003",
+    "district_id": "641103",
+    "name": "MUARA RATAH"
+  },
+  {
+    "id": "6411032004",
+    "district_id": "641103",
+    "name": "DANUM PAROY"
+  },
+  {
+    "id": "6411032005",
+    "district_id": "641103",
+    "name": "NYARIBUNGAN"
+  }
+]

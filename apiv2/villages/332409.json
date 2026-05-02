@@ -1,1 +1,62 @@
-[{"id": "3324092001", "district_id": "332409", "name": "TUNGGULSARI"}, {"id": "3324092002", "district_id": "332409", "name": "SUMUR"}, {"id": "3324092003", "district_id": "332409", "name": "BLOROK"}, {"id": "3324092004", "district_id": "332409", "name": "PENJALIN"}, {"id": "3324092005", "district_id": "332409", "name": "KERTOMULYO"}, {"id": "3324092006", "district_id": "332409", "name": "SIDOREJO"}, {"id": "3324092007", "district_id": "332409", "name": "TOSARI"}, {"id": "3324092008", "district_id": "332409", "name": "REJOSARI"}, {"id": "3324092009", "district_id": "332409", "name": "TURUNREJO"}, {"id": "3324092010", "district_id": "332409", "name": "PURWOKERTO"}, {"id": "3324092011", "district_id": "332409", "name": "BRANGSONG"}, {"id": "3324092012", "district_id": "332409", "name": "KEBONADEM"}]
+[
+  {
+    "id": "3324092001",
+    "district_id": "332409",
+    "name": "TUNGGULSARI"
+  },
+  {
+    "id": "3324092002",
+    "district_id": "332409",
+    "name": "SUMUR"
+  },
+  {
+    "id": "3324092003",
+    "district_id": "332409",
+    "name": "BLOROK"
+  },
+  {
+    "id": "3324092004",
+    "district_id": "332409",
+    "name": "PENJALIN"
+  },
+  {
+    "id": "3324092005",
+    "district_id": "332409",
+    "name": "KERTOMULYO"
+  },
+  {
+    "id": "3324092006",
+    "district_id": "332409",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3324092007",
+    "district_id": "332409",
+    "name": "TOSARI"
+  },
+  {
+    "id": "3324092008",
+    "district_id": "332409",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3324092009",
+    "district_id": "332409",
+    "name": "TURUNREJO"
+  },
+  {
+    "id": "3324092010",
+    "district_id": "332409",
+    "name": "PURWOKERTO"
+  },
+  {
+    "id": "3324092011",
+    "district_id": "332409",
+    "name": "BRANGSONG"
+  },
+  {
+    "id": "3324092012",
+    "district_id": "332409",
+    "name": "KEBONADEM"
+  }
+]

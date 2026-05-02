@@ -1,1 +1,32 @@
-[{"id": "1372021001", "district_id": "137202", "name": "KOTO PANJANG"}, {"id": "1372021002", "district_id": "137202", "name": "PASAR PANDAN AIR MATI"}, {"id": "1372021003", "district_id": "137202", "name": "TANJUNG PAKU"}, {"id": "1372021004", "district_id": "137202", "name": "NAN BALIMO"}, {"id": "1372021005", "district_id": "137202", "name": "KAMPUNG JAWA"}, {"id": "1372021006", "district_id": "137202", "name": "LAING"}]
+[
+  {
+    "id": "1372021001",
+    "district_id": "137202",
+    "name": "KOTO PANJANG"
+  },
+  {
+    "id": "1372021002",
+    "district_id": "137202",
+    "name": "PASAR PANDAN AIR MATI"
+  },
+  {
+    "id": "1372021003",
+    "district_id": "137202",
+    "name": "TANJUNG PAKU"
+  },
+  {
+    "id": "1372021004",
+    "district_id": "137202",
+    "name": "NAN BALIMO"
+  },
+  {
+    "id": "1372021005",
+    "district_id": "137202",
+    "name": "KAMPUNG JAWA"
+  },
+  {
+    "id": "1372021006",
+    "district_id": "137202",
+    "name": "LAING"
+  }
+]

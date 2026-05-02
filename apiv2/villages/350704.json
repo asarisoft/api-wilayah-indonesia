@@ -1,1 +1,77 @@
-[{"id": "3507042001", "district_id": "350704", "name": "TAMBAKASRI"}, {"id": "3507042002", "district_id": "350704", "name": "TEGALREJO"}, {"id": "3507042003", "district_id": "350704", "name": "SEKARBANYU"}, {"id": "3507042004", "district_id": "350704", "name": "KLEPU"}, {"id": "3507042005", "district_id": "350704", "name": "RINGINKEMBAR"}, {"id": "3507042006", "district_id": "350704", "name": "KEDUNGBANTENG"}, {"id": "3507042007", "district_id": "350704", "name": "SITIARJO"}, {"id": "3507042008", "district_id": "350704", "name": "SUMBERAGUNG"}, {"id": "3507042009", "district_id": "350704", "name": "ARGOTIRTO"}, {"id": "3507042010", "district_id": "350704", "name": "HARJOKUNCARAN"}, {"id": "3507042011", "district_id": "350704", "name": "SUMBERMANJING WETAN"}, {"id": "3507042012", "district_id": "350704", "name": "RINGINSARI"}, {"id": "3507042013", "district_id": "350704", "name": "DRUJU"}, {"id": "3507042014", "district_id": "350704", "name": "TAMBAKREJO"}, {"id": "3507042015", "district_id": "350704", "name": "SIDOASRI"}]
+[
+  {
+    "id": "3507042001",
+    "district_id": "350704",
+    "name": "TAMBAKASRI"
+  },
+  {
+    "id": "3507042002",
+    "district_id": "350704",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "3507042003",
+    "district_id": "350704",
+    "name": "SEKARBANYU"
+  },
+  {
+    "id": "3507042004",
+    "district_id": "350704",
+    "name": "KLEPU"
+  },
+  {
+    "id": "3507042005",
+    "district_id": "350704",
+    "name": "RINGINKEMBAR"
+  },
+  {
+    "id": "3507042006",
+    "district_id": "350704",
+    "name": "KEDUNGBANTENG"
+  },
+  {
+    "id": "3507042007",
+    "district_id": "350704",
+    "name": "SITIARJO"
+  },
+  {
+    "id": "3507042008",
+    "district_id": "350704",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3507042009",
+    "district_id": "350704",
+    "name": "ARGOTIRTO"
+  },
+  {
+    "id": "3507042010",
+    "district_id": "350704",
+    "name": "HARJOKUNCARAN"
+  },
+  {
+    "id": "3507042011",
+    "district_id": "350704",
+    "name": "SUMBERMANJING WETAN"
+  },
+  {
+    "id": "3507042012",
+    "district_id": "350704",
+    "name": "RINGINSARI"
+  },
+  {
+    "id": "3507042013",
+    "district_id": "350704",
+    "name": "DRUJU"
+  },
+  {
+    "id": "3507042014",
+    "district_id": "350704",
+    "name": "TAMBAKREJO"
+  },
+  {
+    "id": "3507042015",
+    "district_id": "350704",
+    "name": "SIDOASRI"
+  }
+]

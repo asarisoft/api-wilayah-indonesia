@@ -1,1 +1,57 @@
-[{"id": "9402011010", "district_id": "940201", "name": "WUYUKWI"}, {"id": "9402011011", "district_id": "940201", "name": "PAGALEME"}, {"id": "9402012001", "district_id": "940201", "name": "PRULEME"}, {"id": "9402012002", "district_id": "940201", "name": "WUYUKWI"}, {"id": "9402012003", "district_id": "940201", "name": "WUYUNERI"}, {"id": "9402012004", "district_id": "940201", "name": "PEPERA"}, {"id": "9402012005", "district_id": "940201", "name": "MULIAGAMBUT"}, {"id": "9402012006", "district_id": "940201", "name": "TRIKORA"}, {"id": "9402012007", "district_id": "940201", "name": "TOWOGI"}, {"id": "9402012008", "district_id": "940201", "name": "BIRAK AMBUT"}, {"id": "9402012009", "district_id": "940201", "name": "USIR"}]
+[
+  {
+    "id": "9402011010",
+    "district_id": "940201",
+    "name": "WUYUKWI"
+  },
+  {
+    "id": "9402011011",
+    "district_id": "940201",
+    "name": "PAGALEME"
+  },
+  {
+    "id": "9402012001",
+    "district_id": "940201",
+    "name": "PRULEME"
+  },
+  {
+    "id": "9402012002",
+    "district_id": "940201",
+    "name": "WUYUKWI"
+  },
+  {
+    "id": "9402012003",
+    "district_id": "940201",
+    "name": "WUYUNERI"
+  },
+  {
+    "id": "9402012004",
+    "district_id": "940201",
+    "name": "PEPERA"
+  },
+  {
+    "id": "9402012005",
+    "district_id": "940201",
+    "name": "MULIAGAMBUT"
+  },
+  {
+    "id": "9402012006",
+    "district_id": "940201",
+    "name": "TRIKORA"
+  },
+  {
+    "id": "9402012007",
+    "district_id": "940201",
+    "name": "TOWOGI"
+  },
+  {
+    "id": "9402012008",
+    "district_id": "940201",
+    "name": "BIRAK AMBUT"
+  },
+  {
+    "id": "9402012009",
+    "district_id": "940201",
+    "name": "USIR"
+  }
+]

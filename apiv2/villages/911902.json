@@ -1,1 +1,27 @@
-[{"id": "9119022003", "district_id": "911902", "name": "WARSA"}, {"id": "9119022008", "district_id": "911902", "name": "WARBOR"}, {"id": "9119022009", "district_id": "911902", "name": "KOBARI JAYA"}, {"id": "9119022010", "district_id": "911902", "name": "FANJUR"}, {"id": "9119022015", "district_id": "911902", "name": "PUWERI"}]
+[
+  {
+    "id": "9119022003",
+    "district_id": "911902",
+    "name": "WARSA"
+  },
+  {
+    "id": "9119022008",
+    "district_id": "911902",
+    "name": "WARBOR"
+  },
+  {
+    "id": "9119022009",
+    "district_id": "911902",
+    "name": "KOBARI JAYA"
+  },
+  {
+    "id": "9119022010",
+    "district_id": "911902",
+    "name": "FANJUR"
+  },
+  {
+    "id": "9119022015",
+    "district_id": "911902",
+    "name": "PUWERI"
+  }
+]

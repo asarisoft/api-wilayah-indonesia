@@ -1,1 +1,37 @@
-[{"id": "1671071002", "district_id": "167107", "name": "TALANGBETUTU"}, {"id": "1671071004", "district_id": "167107", "name": "SUKAJAYA"}, {"id": "1671071005", "district_id": "167107", "name": "SUKARAMI"}, {"id": "1671071007", "district_id": "167107", "name": "KEBUNBUNGA"}, {"id": "1671071009", "district_id": "167107", "name": "SUKABANGUN"}, {"id": "1671071010", "district_id": "167107", "name": "TALANGJAMBE"}, {"id": "1671071011", "district_id": "167107", "name": "SUKODADI"}]
+[
+  {
+    "id": "1671071002",
+    "district_id": "167107",
+    "name": "TALANGBETUTU"
+  },
+  {
+    "id": "1671071004",
+    "district_id": "167107",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "1671071005",
+    "district_id": "167107",
+    "name": "SUKARAMI"
+  },
+  {
+    "id": "1671071007",
+    "district_id": "167107",
+    "name": "KEBUNBUNGA"
+  },
+  {
+    "id": "1671071009",
+    "district_id": "167107",
+    "name": "SUKABANGUN"
+  },
+  {
+    "id": "1671071010",
+    "district_id": "167107",
+    "name": "TALANGJAMBE"
+  },
+  {
+    "id": "1671071011",
+    "district_id": "167107",
+    "name": "SUKODADI"
+  }
+]

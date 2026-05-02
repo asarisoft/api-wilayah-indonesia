@@ -1,1 +1,72 @@
-[{"id": "5321042001", "district_id": "532104", "name": "WESEY"}, {"id": "5321042002", "district_id": "532104", "name": "HAITIMUK"}, {"id": "5321042003", "district_id": "532104", "name": "LALETEN"}, {"id": "5321042004", "district_id": "532104", "name": "KLESELEON"}, {"id": "5321042005", "district_id": "532104", "name": "ANGKAES"}, {"id": "5321042006", "district_id": "532104", "name": "WEDEROK"}, {"id": "5321042007", "district_id": "532104", "name": "LAMUDUR"}, {"id": "5321042008", "district_id": "532104", "name": "FOREKMODOK"}, {"id": "5321042009", "district_id": "532104", "name": "UMALAWAIN"}, {"id": "5321042010", "district_id": "532104", "name": "LAKULO"}, {"id": "5321042011", "district_id": "532104", "name": "LEUNKLOT"}, {"id": "5321042012", "district_id": "532104", "name": "HALIKLARAN"}, {"id": "5321042013", "district_id": "532104", "name": "BONETASEA"}, {"id": "5321042014", "district_id": "532104", "name": "TAABA"}]
+[
+  {
+    "id": "5321042001",
+    "district_id": "532104",
+    "name": "WESEY"
+  },
+  {
+    "id": "5321042002",
+    "district_id": "532104",
+    "name": "HAITIMUK"
+  },
+  {
+    "id": "5321042003",
+    "district_id": "532104",
+    "name": "LALETEN"
+  },
+  {
+    "id": "5321042004",
+    "district_id": "532104",
+    "name": "KLESELEON"
+  },
+  {
+    "id": "5321042005",
+    "district_id": "532104",
+    "name": "ANGKAES"
+  },
+  {
+    "id": "5321042006",
+    "district_id": "532104",
+    "name": "WEDEROK"
+  },
+  {
+    "id": "5321042007",
+    "district_id": "532104",
+    "name": "LAMUDUR"
+  },
+  {
+    "id": "5321042008",
+    "district_id": "532104",
+    "name": "FOREKMODOK"
+  },
+  {
+    "id": "5321042009",
+    "district_id": "532104",
+    "name": "UMALAWAIN"
+  },
+  {
+    "id": "5321042010",
+    "district_id": "532104",
+    "name": "LAKULO"
+  },
+  {
+    "id": "5321042011",
+    "district_id": "532104",
+    "name": "LEUNKLOT"
+  },
+  {
+    "id": "5321042012",
+    "district_id": "532104",
+    "name": "HALIKLARAN"
+  },
+  {
+    "id": "5321042013",
+    "district_id": "532104",
+    "name": "BONETASEA"
+  },
+  {
+    "id": "5321042014",
+    "district_id": "532104",
+    "name": "TAABA"
+  }
+]

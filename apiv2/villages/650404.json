@@ -1,1 +1,32 @@
-[{"id": "6504042001", "district_id": "650404", "name": "BUONG BARU"}, {"id": "6504042002", "district_id": "650404", "name": "BEBAKUNG"}, {"id": "6504042003", "district_id": "650404", "name": "KUJAU"}, {"id": "6504042004", "district_id": "650404", "name": "MENDUPO"}, {"id": "6504042005", "district_id": "650404", "name": "MANING"}, {"id": "6504042006", "district_id": "650404", "name": "PERIUK"}]
+[
+  {
+    "id": "6504042001",
+    "district_id": "650404",
+    "name": "BUONG BARU"
+  },
+  {
+    "id": "6504042002",
+    "district_id": "650404",
+    "name": "BEBAKUNG"
+  },
+  {
+    "id": "6504042003",
+    "district_id": "650404",
+    "name": "KUJAU"
+  },
+  {
+    "id": "6504042004",
+    "district_id": "650404",
+    "name": "MENDUPO"
+  },
+  {
+    "id": "6504042005",
+    "district_id": "650404",
+    "name": "MANING"
+  },
+  {
+    "id": "6504042006",
+    "district_id": "650404",
+    "name": "PERIUK"
+  }
+]

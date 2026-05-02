@@ -1,1 +1,122 @@
-[{"id": "5319021027", "district_id": "531902", "name": "MANDOSAWU"}, {"id": "5319021028", "district_id": "531902", "name": "NGGALAK LELENG"}, {"id": "5319021042", "district_id": "531902", "name": "BANGKA LELENG"}, {"id": "5319022001", "district_id": "531902", "name": "POCO LIA"}, {"id": "5319022002", "district_id": "531902", "name": "POCONG"}, {"id": "5319022003", "district_id": "531902", "name": "LENANG"}, {"id": "5319022004", "district_id": "531902", "name": "MELO"}, {"id": "5319022005", "district_id": "531902", "name": "LEONG"}, {"id": "5319022011", "district_id": "531902", "name": "BEA WAEK"}, {"id": "5319022013", "district_id": "531902", "name": "GOLO LOBOS"}, {"id": "5319022014", "district_id": "531902", "name": "BANGKA KULENG"}, {"id": "5319022015", "district_id": "531902", "name": "BANGKA PAU"}, {"id": "5319022016", "district_id": "531902", "name": "GOLO NDERU"}, {"id": "5319022017", "district_id": "531902", "name": "SATAR TESEM"}, {"id": "5319022018", "district_id": "531902", "name": "GURUNG TURI"}, {"id": "5319022019", "district_id": "531902", "name": "COMPANG LAHO"}, {"id": "5319022020", "district_id": "531902", "name": "WATU LANUR"}, {"id": "5319022026", "district_id": "531902", "name": "GOLO NDARI"}, {"id": "5319022029", "district_id": "531902", "name": "COMPANG WESANG"}, {"id": "5319022030", "district_id": "531902", "name": "GOLO WUNE"}, {"id": "5319022031", "district_id": "531902", "name": "LENTO"}, {"id": "5319022032", "district_id": "531902", "name": "COMPANG WELUK"}, {"id": "5319022033", "district_id": "531902", "name": "GOLO RENGKET"}, {"id": "5319022037", "district_id": "531902", "name": "DENO"}]
+[
+  {
+    "id": "5319021027",
+    "district_id": "531902",
+    "name": "MANDOSAWU"
+  },
+  {
+    "id": "5319021028",
+    "district_id": "531902",
+    "name": "NGGALAK LELENG"
+  },
+  {
+    "id": "5319021042",
+    "district_id": "531902",
+    "name": "BANGKA LELENG"
+  },
+  {
+    "id": "5319022001",
+    "district_id": "531902",
+    "name": "POCO LIA"
+  },
+  {
+    "id": "5319022002",
+    "district_id": "531902",
+    "name": "POCONG"
+  },
+  {
+    "id": "5319022003",
+    "district_id": "531902",
+    "name": "LENANG"
+  },
+  {
+    "id": "5319022004",
+    "district_id": "531902",
+    "name": "MELO"
+  },
+  {
+    "id": "5319022005",
+    "district_id": "531902",
+    "name": "LEONG"
+  },
+  {
+    "id": "5319022011",
+    "district_id": "531902",
+    "name": "BEA WAEK"
+  },
+  {
+    "id": "5319022013",
+    "district_id": "531902",
+    "name": "GOLO LOBOS"
+  },
+  {
+    "id": "5319022014",
+    "district_id": "531902",
+    "name": "BANGKA KULENG"
+  },
+  {
+    "id": "5319022015",
+    "district_id": "531902",
+    "name": "BANGKA PAU"
+  },
+  {
+    "id": "5319022016",
+    "district_id": "531902",
+    "name": "GOLO NDERU"
+  },
+  {
+    "id": "5319022017",
+    "district_id": "531902",
+    "name": "SATAR TESEM"
+  },
+  {
+    "id": "5319022018",
+    "district_id": "531902",
+    "name": "GURUNG TURI"
+  },
+  {
+    "id": "5319022019",
+    "district_id": "531902",
+    "name": "COMPANG LAHO"
+  },
+  {
+    "id": "5319022020",
+    "district_id": "531902",
+    "name": "WATU LANUR"
+  },
+  {
+    "id": "5319022026",
+    "district_id": "531902",
+    "name": "GOLO NDARI"
+  },
+  {
+    "id": "5319022029",
+    "district_id": "531902",
+    "name": "COMPANG WESANG"
+  },
+  {
+    "id": "5319022030",
+    "district_id": "531902",
+    "name": "GOLO WUNE"
+  },
+  {
+    "id": "5319022031",
+    "district_id": "531902",
+    "name": "LENTO"
+  },
+  {
+    "id": "5319022032",
+    "district_id": "531902",
+    "name": "COMPANG WELUK"
+  },
+  {
+    "id": "5319022033",
+    "district_id": "531902",
+    "name": "GOLO RENGKET"
+  },
+  {
+    "id": "5319022037",
+    "district_id": "531902",
+    "name": "DENO"
+  }
+]

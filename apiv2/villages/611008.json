@@ -1,1 +1,97 @@
-[{"id": "6110082001", "district_id": "611008", "name": "TEKELAK"}, {"id": "6110082002", "district_id": "611008", "name": "MANDING"}, {"id": "6110082003", "district_id": "611008", "name": "NANGA BELIMBING"}, {"id": "6110082004", "district_id": "611008", "name": "TENGKAJAU"}, {"id": "6110082005", "district_id": "611008", "name": "TANJUNG PAOH"}, {"id": "6110082006", "district_id": "611008", "name": "NANGA MAN"}, {"id": "6110082007", "district_id": "611008", "name": "SUNGAI PINANG"}, {"id": "6110082008", "district_id": "611008", "name": "ENGKURAI"}, {"id": "6110082009", "district_id": "611008", "name": "MERPAK"}, {"id": "6110082010", "district_id": "611008", "name": "SENIBUNG"}, {"id": "6110082011", "district_id": "611008", "name": "MELAMUT BERSATU"}, {"id": "6110082012", "district_id": "611008", "name": "NATAI PANJANG"}, {"id": "6110082013", "district_id": "611008", "name": "SUNGAI RAYA"}, {"id": "6110082014", "district_id": "611008", "name": "MERAH ARAI"}, {"id": "6110082015", "district_id": "611008", "name": "SUKA DAMAI"}, {"id": "6110082016", "district_id": "611008", "name": "TANJUNG ARAK"}, {"id": "6110082017", "district_id": "611008", "name": "MELAWI KIRI HILIR"}, {"id": "6110082018", "district_id": "611008", "name": "KOMPAS RAYA"}, {"id": "6110082019", "district_id": "611008", "name": "KAYAN SEMAPAU"}]
+[
+  {
+    "id": "6110082001",
+    "district_id": "611008",
+    "name": "TEKELAK"
+  },
+  {
+    "id": "6110082002",
+    "district_id": "611008",
+    "name": "MANDING"
+  },
+  {
+    "id": "6110082003",
+    "district_id": "611008",
+    "name": "NANGA BELIMBING"
+  },
+  {
+    "id": "6110082004",
+    "district_id": "611008",
+    "name": "TENGKAJAU"
+  },
+  {
+    "id": "6110082005",
+    "district_id": "611008",
+    "name": "TANJUNG PAOH"
+  },
+  {
+    "id": "6110082006",
+    "district_id": "611008",
+    "name": "NANGA MAN"
+  },
+  {
+    "id": "6110082007",
+    "district_id": "611008",
+    "name": "SUNGAI PINANG"
+  },
+  {
+    "id": "6110082008",
+    "district_id": "611008",
+    "name": "ENGKURAI"
+  },
+  {
+    "id": "6110082009",
+    "district_id": "611008",
+    "name": "MERPAK"
+  },
+  {
+    "id": "6110082010",
+    "district_id": "611008",
+    "name": "SENIBUNG"
+  },
+  {
+    "id": "6110082011",
+    "district_id": "611008",
+    "name": "MELAMUT BERSATU"
+  },
+  {
+    "id": "6110082012",
+    "district_id": "611008",
+    "name": "NATAI PANJANG"
+  },
+  {
+    "id": "6110082013",
+    "district_id": "611008",
+    "name": "SUNGAI RAYA"
+  },
+  {
+    "id": "6110082014",
+    "district_id": "611008",
+    "name": "MERAH ARAI"
+  },
+  {
+    "id": "6110082015",
+    "district_id": "611008",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "6110082016",
+    "district_id": "611008",
+    "name": "TANJUNG ARAK"
+  },
+  {
+    "id": "6110082017",
+    "district_id": "611008",
+    "name": "MELAWI KIRI HILIR"
+  },
+  {
+    "id": "6110082018",
+    "district_id": "611008",
+    "name": "KOMPAS RAYA"
+  },
+  {
+    "id": "6110082019",
+    "district_id": "611008",
+    "name": "KAYAN SEMAPAU"
+  }
+]

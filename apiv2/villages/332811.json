@@ -1,1 +1,107 @@
-[{"id": "3328112001", "district_id": "332811", "name": "PEDESLOHOR"}, {"id": "3328112002", "district_id": "332811", "name": "LUMINGSER"}, {"id": "3328112003", "district_id": "332811", "name": "KEDUNGSUKUN"}, {"id": "3328112004", "district_id": "332811", "name": "PAGIYANTEN"}, {"id": "3328112005", "district_id": "332811", "name": "PENARUKAN"}, {"id": "3328112006", "district_id": "332811", "name": "HARJOSARI LOR"}, {"id": "3328112007", "district_id": "332811", "name": "TEMBOK LOR"}, {"id": "3328112008", "district_id": "332811", "name": "TEMBOK KIDUL"}, {"id": "3328112009", "district_id": "332811", "name": "TEMBOK BANJARAN"}, {"id": "3328112010", "district_id": "332811", "name": "TEMBOK LUWUNG"}, {"id": "3328112011", "district_id": "332811", "name": "ADIWERNA"}, {"id": "3328112012", "district_id": "332811", "name": "KALIMATI"}, {"id": "3328112013", "district_id": "332811", "name": "LEMAHDUWUR"}, {"id": "3328112014", "district_id": "332811", "name": "PESAREAN"}, {"id": "3328112015", "district_id": "332811", "name": "UJUNGRUSI"}, {"id": "3328112016", "district_id": "332811", "name": "PAGEDANGAN"}, {"id": "3328112017", "district_id": "332811", "name": "KALIWADAS"}, {"id": "3328112018", "district_id": "332811", "name": "PECANGAKAN"}, {"id": "3328112019", "district_id": "332811", "name": "GUMALAR"}, {"id": "3328112020", "district_id": "332811", "name": "BERSOLE"}, {"id": "3328112021", "district_id": "332811", "name": "HARJOSARI KIDUL"}]
+[
+  {
+    "id": "3328112001",
+    "district_id": "332811",
+    "name": "PEDESLOHOR"
+  },
+  {
+    "id": "3328112002",
+    "district_id": "332811",
+    "name": "LUMINGSER"
+  },
+  {
+    "id": "3328112003",
+    "district_id": "332811",
+    "name": "KEDUNGSUKUN"
+  },
+  {
+    "id": "3328112004",
+    "district_id": "332811",
+    "name": "PAGIYANTEN"
+  },
+  {
+    "id": "3328112005",
+    "district_id": "332811",
+    "name": "PENARUKAN"
+  },
+  {
+    "id": "3328112006",
+    "district_id": "332811",
+    "name": "HARJOSARI LOR"
+  },
+  {
+    "id": "3328112007",
+    "district_id": "332811",
+    "name": "TEMBOK LOR"
+  },
+  {
+    "id": "3328112008",
+    "district_id": "332811",
+    "name": "TEMBOK KIDUL"
+  },
+  {
+    "id": "3328112009",
+    "district_id": "332811",
+    "name": "TEMBOK BANJARAN"
+  },
+  {
+    "id": "3328112010",
+    "district_id": "332811",
+    "name": "TEMBOK LUWUNG"
+  },
+  {
+    "id": "3328112011",
+    "district_id": "332811",
+    "name": "ADIWERNA"
+  },
+  {
+    "id": "3328112012",
+    "district_id": "332811",
+    "name": "KALIMATI"
+  },
+  {
+    "id": "3328112013",
+    "district_id": "332811",
+    "name": "LEMAHDUWUR"
+  },
+  {
+    "id": "3328112014",
+    "district_id": "332811",
+    "name": "PESAREAN"
+  },
+  {
+    "id": "3328112015",
+    "district_id": "332811",
+    "name": "UJUNGRUSI"
+  },
+  {
+    "id": "3328112016",
+    "district_id": "332811",
+    "name": "PAGEDANGAN"
+  },
+  {
+    "id": "3328112017",
+    "district_id": "332811",
+    "name": "KALIWADAS"
+  },
+  {
+    "id": "3328112018",
+    "district_id": "332811",
+    "name": "PECANGAKAN"
+  },
+  {
+    "id": "3328112019",
+    "district_id": "332811",
+    "name": "GUMALAR"
+  },
+  {
+    "id": "3328112020",
+    "district_id": "332811",
+    "name": "BERSOLE"
+  },
+  {
+    "id": "3328112021",
+    "district_id": "332811",
+    "name": "HARJOSARI KIDUL"
+  }
+]

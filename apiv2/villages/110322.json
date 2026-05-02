@@ -1,1 +1,57 @@
-[{"id": "1103222001", "district_id": "110322", "name": "TUNONG BUGENG"}, {"id": "1103222002", "district_id": "110322", "name": "CEMPEUDAK"}, {"id": "1103222003", "district_id": "110322", "name": "BUKET TUFAH"}, {"id": "1103222004", "district_id": "110322", "name": "TUNONG ULEE GAJAH"}, {"id": "1103222005", "district_id": "110322", "name": "KEUDONDONG"}, {"id": "1103222006", "district_id": "110322", "name": "SEUNEUBOK PANTON"}, {"id": "1103222007", "district_id": "110322", "name": "BUKET TEUMPEUN"}, {"id": "1103222008", "district_id": "110322", "name": "KEUDE BLANG"}, {"id": "1103222009", "district_id": "110322", "name": "PAYA KRUEP"}, {"id": "1103222010", "district_id": "110322", "name": "TUNONG PAYA KRUEP"}, {"id": "1103222011", "district_id": "110322", "name": "ALUE SIWAH"}]
+[
+  {
+    "id": "1103222001",
+    "district_id": "110322",
+    "name": "TUNONG BUGENG"
+  },
+  {
+    "id": "1103222002",
+    "district_id": "110322",
+    "name": "CEMPEUDAK"
+  },
+  {
+    "id": "1103222003",
+    "district_id": "110322",
+    "name": "BUKET TUFAH"
+  },
+  {
+    "id": "1103222004",
+    "district_id": "110322",
+    "name": "TUNONG ULEE GAJAH"
+  },
+  {
+    "id": "1103222005",
+    "district_id": "110322",
+    "name": "KEUDONDONG"
+  },
+  {
+    "id": "1103222006",
+    "district_id": "110322",
+    "name": "SEUNEUBOK PANTON"
+  },
+  {
+    "id": "1103222007",
+    "district_id": "110322",
+    "name": "BUKET TEUMPEUN"
+  },
+  {
+    "id": "1103222008",
+    "district_id": "110322",
+    "name": "KEUDE BLANG"
+  },
+  {
+    "id": "1103222009",
+    "district_id": "110322",
+    "name": "PAYA KRUEP"
+  },
+  {
+    "id": "1103222010",
+    "district_id": "110322",
+    "name": "TUNONG PAYA KRUEP"
+  },
+  {
+    "id": "1103222011",
+    "district_id": "110322",
+    "name": "ALUE SIWAH"
+  }
+]

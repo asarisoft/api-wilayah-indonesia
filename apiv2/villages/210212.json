@@ -1,1 +1,32 @@
-[{"id": "2102122001", "district_id": "210212", "name": "SEBELE"}, {"id": "2102122002", "district_id": "210212", "name": "LEBUH"}, {"id": "2102122003", "district_id": "210212", "name": "PENARAH"}, {"id": "2102122004", "district_id": "210212", "name": "SUNGAI ASAM"}, {"id": "2102122005", "district_id": "210212", "name": "TEBIAS"}, {"id": "2102122006", "district_id": "210212", "name": "DEGONG"}]
+[
+  {
+    "id": "2102122001",
+    "district_id": "210212",
+    "name": "SEBELE"
+  },
+  {
+    "id": "2102122002",
+    "district_id": "210212",
+    "name": "LEBUH"
+  },
+  {
+    "id": "2102122003",
+    "district_id": "210212",
+    "name": "PENARAH"
+  },
+  {
+    "id": "2102122004",
+    "district_id": "210212",
+    "name": "SUNGAI ASAM"
+  },
+  {
+    "id": "2102122005",
+    "district_id": "210212",
+    "name": "TEBIAS"
+  },
+  {
+    "id": "2102122006",
+    "district_id": "210212",
+    "name": "DEGONG"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "3206302001", "district_id": "320630", "name": "SARIWANGI"}, {"id": "3206302002", "district_id": "320630", "name": "SUKAHARJA"}, {"id": "3206302003", "district_id": "320630", "name": "JAYARATU"}, {"id": "3206302004", "district_id": "320630", "name": "LINGGASIRNA"}, {"id": "3206302005", "district_id": "320630", "name": "SIRNASARI"}, {"id": "3206302006", "district_id": "320630", "name": "SUKAMULIH"}, {"id": "3206302007", "district_id": "320630", "name": "SELAWANGI"}, {"id": "3206302008", "district_id": "320630", "name": "JAYAPUTRA"}]
+[
+  {
+    "id": "3206302001",
+    "district_id": "320630",
+    "name": "SARIWANGI"
+  },
+  {
+    "id": "3206302002",
+    "district_id": "320630",
+    "name": "SUKAHARJA"
+  },
+  {
+    "id": "3206302003",
+    "district_id": "320630",
+    "name": "JAYARATU"
+  },
+  {
+    "id": "3206302004",
+    "district_id": "320630",
+    "name": "LINGGASIRNA"
+  },
+  {
+    "id": "3206302005",
+    "district_id": "320630",
+    "name": "SIRNASARI"
+  },
+  {
+    "id": "3206302006",
+    "district_id": "320630",
+    "name": "SUKAMULIH"
+  },
+  {
+    "id": "3206302007",
+    "district_id": "320630",
+    "name": "SELAWANGI"
+  },
+  {
+    "id": "3206302008",
+    "district_id": "320630",
+    "name": "JAYAPUTRA"
+  }
+]

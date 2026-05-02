@@ -1,1 +1,67 @@
-[{"id": "3311012001", "district_id": "331101", "name": "GROGOL"}, {"id": "3311012002", "district_id": "331101", "name": "KARANGTENGAH"}, {"id": "3311012003", "district_id": "331101", "name": "KARANGWUNI"}, {"id": "3311012004", "district_id": "331101", "name": "KRAJAN"}, {"id": "3311012005", "district_id": "331101", "name": "JATINGARANG"}, {"id": "3311012006", "district_id": "331101", "name": "KARANGANYAR"}, {"id": "3311012007", "district_id": "331101", "name": "ALASOMBO"}, {"id": "3311012008", "district_id": "331101", "name": "KARANGMOJO"}, {"id": "3311012009", "district_id": "331101", "name": "WERU"}, {"id": "3311012010", "district_id": "331101", "name": "KARAKAN"}, {"id": "3311012011", "district_id": "331101", "name": "TEGALSARI"}, {"id": "3311012012", "district_id": "331101", "name": "TAWANG"}, {"id": "3311012013", "district_id": "331101", "name": "NGRECO"}]
+[
+  {
+    "id": "3311012001",
+    "district_id": "331101",
+    "name": "GROGOL"
+  },
+  {
+    "id": "3311012002",
+    "district_id": "331101",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3311012003",
+    "district_id": "331101",
+    "name": "KARANGWUNI"
+  },
+  {
+    "id": "3311012004",
+    "district_id": "331101",
+    "name": "KRAJAN"
+  },
+  {
+    "id": "3311012005",
+    "district_id": "331101",
+    "name": "JATINGARANG"
+  },
+  {
+    "id": "3311012006",
+    "district_id": "331101",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3311012007",
+    "district_id": "331101",
+    "name": "ALASOMBO"
+  },
+  {
+    "id": "3311012008",
+    "district_id": "331101",
+    "name": "KARANGMOJO"
+  },
+  {
+    "id": "3311012009",
+    "district_id": "331101",
+    "name": "WERU"
+  },
+  {
+    "id": "3311012010",
+    "district_id": "331101",
+    "name": "KARAKAN"
+  },
+  {
+    "id": "3311012011",
+    "district_id": "331101",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3311012012",
+    "district_id": "331101",
+    "name": "TAWANG"
+  },
+  {
+    "id": "3311012013",
+    "district_id": "331101",
+    "name": "NGRECO"
+  }
+]

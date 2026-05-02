@@ -1,1 +1,57 @@
-[{"id": "3602032001", "district_id": "360203", "name": "BAYAH BARAT"}, {"id": "3602032002", "district_id": "360203", "name": "SAWARNA"}, {"id": "3602032006", "district_id": "360203", "name": "CIDIKIT"}, {"id": "3602032007", "district_id": "360203", "name": "SUWAKAN"}, {"id": "3602032008", "district_id": "360203", "name": "CIMANCAK"}, {"id": "3602032011", "district_id": "360203", "name": "DARMASARI"}, {"id": "3602032013", "district_id": "360203", "name": "BAYAH TIMUR"}, {"id": "3602032014", "district_id": "360203", "name": "CISUREN"}, {"id": "3602032016", "district_id": "360203", "name": "PASIRGOMBONG"}, {"id": "3602032017", "district_id": "360203", "name": "SAWARNA TIMUR"}, {"id": "3602032018", "district_id": "360203", "name": "PAMUBULAN"}]
+[
+  {
+    "id": "3602032001",
+    "district_id": "360203",
+    "name": "BAYAH BARAT"
+  },
+  {
+    "id": "3602032002",
+    "district_id": "360203",
+    "name": "SAWARNA"
+  },
+  {
+    "id": "3602032006",
+    "district_id": "360203",
+    "name": "CIDIKIT"
+  },
+  {
+    "id": "3602032007",
+    "district_id": "360203",
+    "name": "SUWAKAN"
+  },
+  {
+    "id": "3602032008",
+    "district_id": "360203",
+    "name": "CIMANCAK"
+  },
+  {
+    "id": "3602032011",
+    "district_id": "360203",
+    "name": "DARMASARI"
+  },
+  {
+    "id": "3602032013",
+    "district_id": "360203",
+    "name": "BAYAH TIMUR"
+  },
+  {
+    "id": "3602032014",
+    "district_id": "360203",
+    "name": "CISUREN"
+  },
+  {
+    "id": "3602032016",
+    "district_id": "360203",
+    "name": "PASIRGOMBONG"
+  },
+  {
+    "id": "3602032017",
+    "district_id": "360203",
+    "name": "SAWARNA TIMUR"
+  },
+  {
+    "id": "3602032018",
+    "district_id": "360203",
+    "name": "PAMUBULAN"
+  }
+]

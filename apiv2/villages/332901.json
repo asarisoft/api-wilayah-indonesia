@@ -1,1 +1,107 @@
-[{"id": "3329012001", "district_id": "332901", "name": "BANJARAN"}, {"id": "3329012002", "district_id": "332901", "name": "BENTAR"}, {"id": "3329012003", "district_id": "332901", "name": "BENTARSARI"}, {"id": "3329012004", "district_id": "332901", "name": "CAPAR"}, {"id": "3329012005", "district_id": "332901", "name": "CIPUTIH"}, {"id": "3329012006", "district_id": "332901", "name": "CITIMBANG"}, {"id": "3329012007", "district_id": "332901", "name": "GANGGAWANG"}, {"id": "3329012008", "district_id": "332901", "name": "GANDOANG"}, {"id": "3329012009", "district_id": "332901", "name": "GUNUNGJAYA"}, {"id": "3329012010", "district_id": "332901", "name": "GUNUNGLARANG"}, {"id": "3329012011", "district_id": "332901", "name": "GUNUNGSUGIH"}, {"id": "3329012012", "district_id": "332901", "name": "GUNUNGTAJEM"}, {"id": "3329012013", "district_id": "332901", "name": "INDRAJAYA"}, {"id": "3329012014", "district_id": "332901", "name": "KADUMANIS"}, {"id": "3329012015", "district_id": "332901", "name": "PABUARAN"}, {"id": "3329012016", "district_id": "332901", "name": "PASIRPANJANG"}, {"id": "3329012017", "district_id": "332901", "name": "SALEM"}, {"id": "3329012018", "district_id": "332901", "name": "TEMBONGRAJA"}, {"id": "3329012019", "district_id": "332901", "name": "WANOJA"}, {"id": "3329012020", "district_id": "332901", "name": "WINDUASRI"}, {"id": "3329012021", "district_id": "332901", "name": "WINDUSAKTI"}]
+[
+  {
+    "id": "3329012001",
+    "district_id": "332901",
+    "name": "BANJARAN"
+  },
+  {
+    "id": "3329012002",
+    "district_id": "332901",
+    "name": "BENTAR"
+  },
+  {
+    "id": "3329012003",
+    "district_id": "332901",
+    "name": "BENTARSARI"
+  },
+  {
+    "id": "3329012004",
+    "district_id": "332901",
+    "name": "CAPAR"
+  },
+  {
+    "id": "3329012005",
+    "district_id": "332901",
+    "name": "CIPUTIH"
+  },
+  {
+    "id": "3329012006",
+    "district_id": "332901",
+    "name": "CITIMBANG"
+  },
+  {
+    "id": "3329012007",
+    "district_id": "332901",
+    "name": "GANGGAWANG"
+  },
+  {
+    "id": "3329012008",
+    "district_id": "332901",
+    "name": "GANDOANG"
+  },
+  {
+    "id": "3329012009",
+    "district_id": "332901",
+    "name": "GUNUNGJAYA"
+  },
+  {
+    "id": "3329012010",
+    "district_id": "332901",
+    "name": "GUNUNGLARANG"
+  },
+  {
+    "id": "3329012011",
+    "district_id": "332901",
+    "name": "GUNUNGSUGIH"
+  },
+  {
+    "id": "3329012012",
+    "district_id": "332901",
+    "name": "GUNUNGTAJEM"
+  },
+  {
+    "id": "3329012013",
+    "district_id": "332901",
+    "name": "INDRAJAYA"
+  },
+  {
+    "id": "3329012014",
+    "district_id": "332901",
+    "name": "KADUMANIS"
+  },
+  {
+    "id": "3329012015",
+    "district_id": "332901",
+    "name": "PABUARAN"
+  },
+  {
+    "id": "3329012016",
+    "district_id": "332901",
+    "name": "PASIRPANJANG"
+  },
+  {
+    "id": "3329012017",
+    "district_id": "332901",
+    "name": "SALEM"
+  },
+  {
+    "id": "3329012018",
+    "district_id": "332901",
+    "name": "TEMBONGRAJA"
+  },
+  {
+    "id": "3329012019",
+    "district_id": "332901",
+    "name": "WANOJA"
+  },
+  {
+    "id": "3329012020",
+    "district_id": "332901",
+    "name": "WINDUASRI"
+  },
+  {
+    "id": "3329012021",
+    "district_id": "332901",
+    "name": "WINDUSAKTI"
+  }
+]

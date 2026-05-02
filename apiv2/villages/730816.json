@@ -1,1 +1,92 @@
-[{"id": "7308161001", "district_id": "730816", "name": "MACCOPE"}, {"id": "7308162002", "district_id": "730816", "name": "CAREBBU"}, {"id": "7308162003", "district_id": "730816", "name": "CUMPIGA"}, {"id": "7308162004", "district_id": "730816", "name": "PACCING"}, {"id": "7308162005", "district_id": "730816", "name": "LATTEKKO"}, {"id": "7308162006", "district_id": "730816", "name": "MATUJU"}, {"id": "7308162007", "district_id": "730816", "name": "UNRA"}, {"id": "7308162008", "district_id": "730816", "name": "KADING"}, {"id": "7308162009", "district_id": "730816", "name": "MALLARI"}, {"id": "7308162010", "district_id": "730816", "name": "KAJUARA"}, {"id": "7308162011", "district_id": "730816", "name": "JALING"}, {"id": "7308162012", "district_id": "730816", "name": "BULUMPARE'E"}, {"id": "7308162013", "district_id": "730816", "name": "ABBANUANG"}, {"id": "7308162014", "district_id": "730816", "name": "LAPPOASE"}, {"id": "7308162015", "district_id": "730816", "name": "AWOLAGADING"}, {"id": "7308162016", "district_id": "730816", "name": "CARIGADING"}, {"id": "7308162017", "district_id": "730816", "name": "CAKKE BONE"}, {"id": "7308162018", "district_id": "730816", "name": "MAPPALO ULAWENG"}]
+[
+  {
+    "id": "7308161001",
+    "district_id": "730816",
+    "name": "MACCOPE"
+  },
+  {
+    "id": "7308162002",
+    "district_id": "730816",
+    "name": "CAREBBU"
+  },
+  {
+    "id": "7308162003",
+    "district_id": "730816",
+    "name": "CUMPIGA"
+  },
+  {
+    "id": "7308162004",
+    "district_id": "730816",
+    "name": "PACCING"
+  },
+  {
+    "id": "7308162005",
+    "district_id": "730816",
+    "name": "LATTEKKO"
+  },
+  {
+    "id": "7308162006",
+    "district_id": "730816",
+    "name": "MATUJU"
+  },
+  {
+    "id": "7308162007",
+    "district_id": "730816",
+    "name": "UNRA"
+  },
+  {
+    "id": "7308162008",
+    "district_id": "730816",
+    "name": "KADING"
+  },
+  {
+    "id": "7308162009",
+    "district_id": "730816",
+    "name": "MALLARI"
+  },
+  {
+    "id": "7308162010",
+    "district_id": "730816",
+    "name": "KAJUARA"
+  },
+  {
+    "id": "7308162011",
+    "district_id": "730816",
+    "name": "JALING"
+  },
+  {
+    "id": "7308162012",
+    "district_id": "730816",
+    "name": "BULUMPARE'E"
+  },
+  {
+    "id": "7308162013",
+    "district_id": "730816",
+    "name": "ABBANUANG"
+  },
+  {
+    "id": "7308162014",
+    "district_id": "730816",
+    "name": "LAPPOASE"
+  },
+  {
+    "id": "7308162015",
+    "district_id": "730816",
+    "name": "AWOLAGADING"
+  },
+  {
+    "id": "7308162016",
+    "district_id": "730816",
+    "name": "CARIGADING"
+  },
+  {
+    "id": "7308162017",
+    "district_id": "730816",
+    "name": "CAKKE BONE"
+  },
+  {
+    "id": "7308162018",
+    "district_id": "730816",
+    "name": "MAPPALO ULAWENG"
+  }
+]

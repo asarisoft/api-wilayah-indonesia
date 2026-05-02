@@ -1,1 +1,32 @@
-[{"id": "1671131001", "district_id": "167113", "name": "KEMASRINDO"}, {"id": "1671131002", "district_id": "167113", "name": "KEMANGAGUNG"}, {"id": "1671131003", "district_id": "167113", "name": "KERAMASAN"}, {"id": "1671131004", "district_id": "167113", "name": "KERTAPATI"}, {"id": "1671131005", "district_id": "167113", "name": "KARYAJAYA"}, {"id": "1671131006", "district_id": "167113", "name": "OGANBARU"}]
+[
+  {
+    "id": "1671131001",
+    "district_id": "167113",
+    "name": "KEMASRINDO"
+  },
+  {
+    "id": "1671131002",
+    "district_id": "167113",
+    "name": "KEMANGAGUNG"
+  },
+  {
+    "id": "1671131003",
+    "district_id": "167113",
+    "name": "KERAMASAN"
+  },
+  {
+    "id": "1671131004",
+    "district_id": "167113",
+    "name": "KERTAPATI"
+  },
+  {
+    "id": "1671131005",
+    "district_id": "167113",
+    "name": "KARYAJAYA"
+  },
+  {
+    "id": "1671131006",
+    "district_id": "167113",
+    "name": "OGANBARU"
+  }
+]

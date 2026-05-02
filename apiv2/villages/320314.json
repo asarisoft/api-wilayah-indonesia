@@ -1,1 +1,52 @@
-[{"id": "3203142001", "district_id": "320314", "name": "SUKANAGARA"}, {"id": "3203142002", "district_id": "320314", "name": "SUKAJEMBAR"}, {"id": "3203142003", "district_id": "320314", "name": "SUKAKARYA"}, {"id": "3203142004", "district_id": "320314", "name": "CIGUHA"}, {"id": "3203142005", "district_id": "320314", "name": "SUKAMEKAR"}, {"id": "3203142006", "district_id": "320314", "name": "GUNUNGSARI"}, {"id": "3203142007", "district_id": "320314", "name": "SUKALAKSANA"}, {"id": "3203142008", "district_id": "320314", "name": "SUKARAME"}, {"id": "3203142009", "district_id": "320314", "name": "SINDANGSARI"}, {"id": "3203142010", "district_id": "320314", "name": "JAYAGIRI"}]
+[
+  {
+    "id": "3203142001",
+    "district_id": "320314",
+    "name": "SUKANAGARA"
+  },
+  {
+    "id": "3203142002",
+    "district_id": "320314",
+    "name": "SUKAJEMBAR"
+  },
+  {
+    "id": "3203142003",
+    "district_id": "320314",
+    "name": "SUKAKARYA"
+  },
+  {
+    "id": "3203142004",
+    "district_id": "320314",
+    "name": "CIGUHA"
+  },
+  {
+    "id": "3203142005",
+    "district_id": "320314",
+    "name": "SUKAMEKAR"
+  },
+  {
+    "id": "3203142006",
+    "district_id": "320314",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3203142007",
+    "district_id": "320314",
+    "name": "SUKALAKSANA"
+  },
+  {
+    "id": "3203142008",
+    "district_id": "320314",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "3203142009",
+    "district_id": "320314",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3203142010",
+    "district_id": "320314",
+    "name": "JAYAGIRI"
+  }
+]

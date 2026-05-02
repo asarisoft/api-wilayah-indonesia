@@ -1,1 +1,97 @@
-[{"id": "3321111014", "district_id": "332111", "name": "MANGUNJIWAN"}, {"id": "3321111015", "district_id": "332111", "name": "KALICILIK"}, {"id": "3321111016", "district_id": "332111", "name": "SINGOREJO"}, {"id": "3321111017", "district_id": "332111", "name": "BETOKAN"}, {"id": "3321111018", "district_id": "332111", "name": "BINTORO"}, {"id": "3321111019", "district_id": "332111", "name": "KADILANGU"}, {"id": "3321112001", "district_id": "332111", "name": "BOLO"}, {"id": "3321112002", "district_id": "332111", "name": "BANGO"}, {"id": "3321112003", "district_id": "332111", "name": "KEDONDONG"}, {"id": "3321112004", "district_id": "332111", "name": "SEDO"}, {"id": "3321112005", "district_id": "332111", "name": "MULYOREJO"}, {"id": "3321112006", "district_id": "332111", "name": "TURIREJO"}, {"id": "3321112007", "district_id": "332111", "name": "RAJI"}, {"id": "3321112008", "district_id": "332111", "name": "CABEAN"}, {"id": "3321112009", "district_id": "332111", "name": "TEMPURAN"}, {"id": "3321112010", "district_id": "332111", "name": "KARANGMLATI"}, {"id": "3321112011", "district_id": "332111", "name": "KATONSARI"}, {"id": "3321112012", "district_id": "332111", "name": "KALIKONDANG"}, {"id": "3321112013", "district_id": "332111", "name": "DONOROJO"}]
+[
+  {
+    "id": "3321111014",
+    "district_id": "332111",
+    "name": "MANGUNJIWAN"
+  },
+  {
+    "id": "3321111015",
+    "district_id": "332111",
+    "name": "KALICILIK"
+  },
+  {
+    "id": "3321111016",
+    "district_id": "332111",
+    "name": "SINGOREJO"
+  },
+  {
+    "id": "3321111017",
+    "district_id": "332111",
+    "name": "BETOKAN"
+  },
+  {
+    "id": "3321111018",
+    "district_id": "332111",
+    "name": "BINTORO"
+  },
+  {
+    "id": "3321111019",
+    "district_id": "332111",
+    "name": "KADILANGU"
+  },
+  {
+    "id": "3321112001",
+    "district_id": "332111",
+    "name": "BOLO"
+  },
+  {
+    "id": "3321112002",
+    "district_id": "332111",
+    "name": "BANGO"
+  },
+  {
+    "id": "3321112003",
+    "district_id": "332111",
+    "name": "KEDONDONG"
+  },
+  {
+    "id": "3321112004",
+    "district_id": "332111",
+    "name": "SEDO"
+  },
+  {
+    "id": "3321112005",
+    "district_id": "332111",
+    "name": "MULYOREJO"
+  },
+  {
+    "id": "3321112006",
+    "district_id": "332111",
+    "name": "TURIREJO"
+  },
+  {
+    "id": "3321112007",
+    "district_id": "332111",
+    "name": "RAJI"
+  },
+  {
+    "id": "3321112008",
+    "district_id": "332111",
+    "name": "CABEAN"
+  },
+  {
+    "id": "3321112009",
+    "district_id": "332111",
+    "name": "TEMPURAN"
+  },
+  {
+    "id": "3321112010",
+    "district_id": "332111",
+    "name": "KARANGMLATI"
+  },
+  {
+    "id": "3321112011",
+    "district_id": "332111",
+    "name": "KATONSARI"
+  },
+  {
+    "id": "3321112012",
+    "district_id": "332111",
+    "name": "KALIKONDANG"
+  },
+  {
+    "id": "3321112013",
+    "district_id": "332111",
+    "name": "DONOROJO"
+  }
+]

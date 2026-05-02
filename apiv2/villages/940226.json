@@ -1,1 +1,42 @@
-[{"id": "9402262001", "district_id": "940226", "name": "KIYAGE"}, {"id": "9402262002", "district_id": "940226", "name": "WANGGIBA"}, {"id": "9402262003", "district_id": "940226", "name": "AMURINGGIK"}, {"id": "9402262004", "district_id": "940226", "name": "TENGGABANGGWI"}, {"id": "9402262005", "district_id": "940226", "name": "TUMBIWOLU"}, {"id": "9402262006", "district_id": "940226", "name": "KELANDU"}, {"id": "9402262007", "district_id": "940226", "name": "AMBO"}, {"id": "9402262008", "district_id": "940226", "name": "ATOLI"}]
+[
+  {
+    "id": "9402262001",
+    "district_id": "940226",
+    "name": "KIYAGE"
+  },
+  {
+    "id": "9402262002",
+    "district_id": "940226",
+    "name": "WANGGIBA"
+  },
+  {
+    "id": "9402262003",
+    "district_id": "940226",
+    "name": "AMURINGGIK"
+  },
+  {
+    "id": "9402262004",
+    "district_id": "940226",
+    "name": "TENGGABANGGWI"
+  },
+  {
+    "id": "9402262005",
+    "district_id": "940226",
+    "name": "TUMBIWOLU"
+  },
+  {
+    "id": "9402262006",
+    "district_id": "940226",
+    "name": "KELANDU"
+  },
+  {
+    "id": "9402262007",
+    "district_id": "940226",
+    "name": "AMBO"
+  },
+  {
+    "id": "9402262008",
+    "district_id": "940226",
+    "name": "ATOLI"
+  }
+]

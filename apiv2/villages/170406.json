@@ -1,1 +1,97 @@
-[{"id": "1704062001", "district_id": "170406", "name": "PARDA SUKA"}, {"id": "1704062002", "district_id": "170406", "name": "AIR LONG"}, {"id": "1704062003", "district_id": "170406", "name": "LINAU"}, {"id": "1704062004", "district_id": "170406", "name": "WAY HAWANG"}, {"id": "1704062005", "district_id": "170406", "name": "TANJUNG BARU"}, {"id": "1704062006", "district_id": "170406", "name": "TANJUNG GANTI"}, {"id": "1704062007", "district_id": "170406", "name": "KEDATARAN"}, {"id": "1704062008", "district_id": "170406", "name": "TANJUNG AUR"}, {"id": "1704062009", "district_id": "170406", "name": "PENYANDINGAN"}, {"id": "1704062010", "district_id": "170406", "name": "SUKA MENANTI"}, {"id": "1704062012", "district_id": "170406", "name": "BENTENG HARAPAN"}, {"id": "1704062013", "district_id": "170406", "name": "BAKAL MAKMUR"}, {"id": "1704062014", "district_id": "170406", "name": "MUARA JAYA"}, {"id": "1704062015", "district_id": "170406", "name": "TANJUNG AGUNG"}, {"id": "1704062016", "district_id": "170406", "name": "ARGA MULYA"}, {"id": "1704062017", "district_id": "170406", "name": "AIR JELATANG"}, {"id": "1704062019", "district_id": "170406", "name": "SUMBER HARAPAN"}, {"id": "1704062020", "district_id": "170406", "name": "TANJUNG BERINGIN"}, {"id": "1704062021", "district_id": "170406", "name": "SINAR MULYA"}]
+[
+  {
+    "id": "1704062001",
+    "district_id": "170406",
+    "name": "PARDA SUKA"
+  },
+  {
+    "id": "1704062002",
+    "district_id": "170406",
+    "name": "AIR LONG"
+  },
+  {
+    "id": "1704062003",
+    "district_id": "170406",
+    "name": "LINAU"
+  },
+  {
+    "id": "1704062004",
+    "district_id": "170406",
+    "name": "WAY HAWANG"
+  },
+  {
+    "id": "1704062005",
+    "district_id": "170406",
+    "name": "TANJUNG BARU"
+  },
+  {
+    "id": "1704062006",
+    "district_id": "170406",
+    "name": "TANJUNG GANTI"
+  },
+  {
+    "id": "1704062007",
+    "district_id": "170406",
+    "name": "KEDATARAN"
+  },
+  {
+    "id": "1704062008",
+    "district_id": "170406",
+    "name": "TANJUNG AUR"
+  },
+  {
+    "id": "1704062009",
+    "district_id": "170406",
+    "name": "PENYANDINGAN"
+  },
+  {
+    "id": "1704062010",
+    "district_id": "170406",
+    "name": "SUKA MENANTI"
+  },
+  {
+    "id": "1704062012",
+    "district_id": "170406",
+    "name": "BENTENG HARAPAN"
+  },
+  {
+    "id": "1704062013",
+    "district_id": "170406",
+    "name": "BAKAL MAKMUR"
+  },
+  {
+    "id": "1704062014",
+    "district_id": "170406",
+    "name": "MUARA JAYA"
+  },
+  {
+    "id": "1704062015",
+    "district_id": "170406",
+    "name": "TANJUNG AGUNG"
+  },
+  {
+    "id": "1704062016",
+    "district_id": "170406",
+    "name": "ARGA MULYA"
+  },
+  {
+    "id": "1704062017",
+    "district_id": "170406",
+    "name": "AIR JELATANG"
+  },
+  {
+    "id": "1704062019",
+    "district_id": "170406",
+    "name": "SUMBER HARAPAN"
+  },
+  {
+    "id": "1704062020",
+    "district_id": "170406",
+    "name": "TANJUNG BERINGIN"
+  },
+  {
+    "id": "1704062021",
+    "district_id": "170406",
+    "name": "SINAR MULYA"
+  }
+]

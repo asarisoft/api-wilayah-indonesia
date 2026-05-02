@@ -1,1 +1,102 @@
-[{"id": "7405152001", "district_id": "740515", "name": "KONDOANO"}, {"id": "7405152002", "district_id": "740515", "name": "PUNGGULAHI"}, {"id": "7405152003", "district_id": "740515", "name": "LAMOLORI"}, {"id": "7405152004", "district_id": "740515", "name": "TOLUWONUA"}, {"id": "7405152005", "district_id": "740515", "name": "MULYASARI"}, {"id": "7405152006", "district_id": "740515", "name": "RAKAWUTA"}, {"id": "7405152007", "district_id": "740515", "name": "RANOAOPA"}, {"id": "7405152008", "district_id": "740515", "name": "MOWILA"}, {"id": "7405152009", "district_id": "740515", "name": "LALOSINGI"}, {"id": "7405152010", "district_id": "740515", "name": "WUURA"}, {"id": "7405152011", "district_id": "740515", "name": "PUDAHOA"}, {"id": "7405152012", "district_id": "740515", "name": "MONAPA"}, {"id": "7405152013", "district_id": "740515", "name": "PUUWEHUKO"}, {"id": "7405152014", "district_id": "740515", "name": "RANOMBAYASA"}, {"id": "7405152015", "district_id": "740515", "name": "WONUA KONGGA"}, {"id": "7405152016", "district_id": "740515", "name": "MATAIWOI"}, {"id": "7405152017", "district_id": "740515", "name": "LAMEBARA"}, {"id": "7405152018", "district_id": "740515", "name": "TETESINGI"}, {"id": "7405152019", "district_id": "740515", "name": "WONUA SARI"}, {"id": "7405152020", "district_id": "740515", "name": "WONUA MONAPA"}]
+[
+  {
+    "id": "7405152001",
+    "district_id": "740515",
+    "name": "KONDOANO"
+  },
+  {
+    "id": "7405152002",
+    "district_id": "740515",
+    "name": "PUNGGULAHI"
+  },
+  {
+    "id": "7405152003",
+    "district_id": "740515",
+    "name": "LAMOLORI"
+  },
+  {
+    "id": "7405152004",
+    "district_id": "740515",
+    "name": "TOLUWONUA"
+  },
+  {
+    "id": "7405152005",
+    "district_id": "740515",
+    "name": "MULYASARI"
+  },
+  {
+    "id": "7405152006",
+    "district_id": "740515",
+    "name": "RAKAWUTA"
+  },
+  {
+    "id": "7405152007",
+    "district_id": "740515",
+    "name": "RANOAOPA"
+  },
+  {
+    "id": "7405152008",
+    "district_id": "740515",
+    "name": "MOWILA"
+  },
+  {
+    "id": "7405152009",
+    "district_id": "740515",
+    "name": "LALOSINGI"
+  },
+  {
+    "id": "7405152010",
+    "district_id": "740515",
+    "name": "WUURA"
+  },
+  {
+    "id": "7405152011",
+    "district_id": "740515",
+    "name": "PUDAHOA"
+  },
+  {
+    "id": "7405152012",
+    "district_id": "740515",
+    "name": "MONAPA"
+  },
+  {
+    "id": "7405152013",
+    "district_id": "740515",
+    "name": "PUUWEHUKO"
+  },
+  {
+    "id": "7405152014",
+    "district_id": "740515",
+    "name": "RANOMBAYASA"
+  },
+  {
+    "id": "7405152015",
+    "district_id": "740515",
+    "name": "WONUA KONGGA"
+  },
+  {
+    "id": "7405152016",
+    "district_id": "740515",
+    "name": "MATAIWOI"
+  },
+  {
+    "id": "7405152017",
+    "district_id": "740515",
+    "name": "LAMEBARA"
+  },
+  {
+    "id": "7405152018",
+    "district_id": "740515",
+    "name": "TETESINGI"
+  },
+  {
+    "id": "7405152019",
+    "district_id": "740515",
+    "name": "WONUA SARI"
+  },
+  {
+    "id": "7405152020",
+    "district_id": "740515",
+    "name": "WONUA MONAPA"
+  }
+]

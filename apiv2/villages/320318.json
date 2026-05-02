@@ -1,1 +1,72 @@
-[{"id": "3203182001", "district_id": "320318", "name": "PAGELARAN"}, {"id": "3203182002", "district_id": "320318", "name": "PANGADEGAN"}, {"id": "3203182004", "district_id": "320318", "name": "GELARANYAR"}, {"id": "3203182005", "district_id": "320318", "name": "BUNIWANGI"}, {"id": "3203182007", "district_id": "320318", "name": "SINDANGKERTA"}, {"id": "3203182008", "district_id": "320318", "name": "PASIRBARU"}, {"id": "3203182009", "district_id": "320318", "name": "BUNIJAYA"}, {"id": "3203182010", "district_id": "320318", "name": "SITUHIANG"}, {"id": "3203182011", "district_id": "320318", "name": "MEKARSARI"}, {"id": "3203182012", "district_id": "320318", "name": "KERTARAHARJA"}, {"id": "3203182013", "district_id": "320318", "name": "SELAGEDANG"}, {"id": "3203182014", "district_id": "320318", "name": "PADAMAJU"}, {"id": "3203182015", "district_id": "320318", "name": "KARANGHARJA"}, {"id": "3203182018", "district_id": "320318", "name": "SUKAMAJU"}]
+[
+  {
+    "id": "3203182001",
+    "district_id": "320318",
+    "name": "PAGELARAN"
+  },
+  {
+    "id": "3203182002",
+    "district_id": "320318",
+    "name": "PANGADEGAN"
+  },
+  {
+    "id": "3203182004",
+    "district_id": "320318",
+    "name": "GELARANYAR"
+  },
+  {
+    "id": "3203182005",
+    "district_id": "320318",
+    "name": "BUNIWANGI"
+  },
+  {
+    "id": "3203182007",
+    "district_id": "320318",
+    "name": "SINDANGKERTA"
+  },
+  {
+    "id": "3203182008",
+    "district_id": "320318",
+    "name": "PASIRBARU"
+  },
+  {
+    "id": "3203182009",
+    "district_id": "320318",
+    "name": "BUNIJAYA"
+  },
+  {
+    "id": "3203182010",
+    "district_id": "320318",
+    "name": "SITUHIANG"
+  },
+  {
+    "id": "3203182011",
+    "district_id": "320318",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3203182012",
+    "district_id": "320318",
+    "name": "KERTARAHARJA"
+  },
+  {
+    "id": "3203182013",
+    "district_id": "320318",
+    "name": "SELAGEDANG"
+  },
+  {
+    "id": "3203182014",
+    "district_id": "320318",
+    "name": "PADAMAJU"
+  },
+  {
+    "id": "3203182015",
+    "district_id": "320318",
+    "name": "KARANGHARJA"
+  },
+  {
+    "id": "3203182018",
+    "district_id": "320318",
+    "name": "SUKAMAJU"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "9403082001", "district_id": "940308", "name": "KEBO II"}, {"id": "9403082002", "district_id": "940308", "name": "TOGOWA"}, {"id": "9403082003", "district_id": "940308", "name": "IBUMAIDA"}, {"id": "9403082004", "district_id": "940308", "name": "KAGUPAGU"}, {"id": "9403082005", "district_id": "940308", "name": "AYAIGO"}, {"id": "9403082006", "district_id": "940308", "name": "GEIBU"}, {"id": "9403082007", "district_id": "940308", "name": "YOKADAGI"}, {"id": "9403082008", "district_id": "940308", "name": "BUNAIDA"}, {"id": "9403082009", "district_id": "940308", "name": "KEDEGE"}, {"id": "9403082010", "district_id": "940308", "name": "UWAIYE"}, {"id": "9403082011", "district_id": "940308", "name": "DAWAWA"}, {"id": "9403082012", "district_id": "940308", "name": "MUGIME KETAGO"}, {"id": "9403082013", "district_id": "940308", "name": "TUWAMAKIDA"}]
+[
+  {
+    "id": "9403082001",
+    "district_id": "940308",
+    "name": "KEBO II"
+  },
+  {
+    "id": "9403082002",
+    "district_id": "940308",
+    "name": "TOGOWA"
+  },
+  {
+    "id": "9403082003",
+    "district_id": "940308",
+    "name": "IBUMAIDA"
+  },
+  {
+    "id": "9403082004",
+    "district_id": "940308",
+    "name": "KAGUPAGU"
+  },
+  {
+    "id": "9403082005",
+    "district_id": "940308",
+    "name": "AYAIGO"
+  },
+  {
+    "id": "9403082006",
+    "district_id": "940308",
+    "name": "GEIBU"
+  },
+  {
+    "id": "9403082007",
+    "district_id": "940308",
+    "name": "YOKADAGI"
+  },
+  {
+    "id": "9403082008",
+    "district_id": "940308",
+    "name": "BUNAIDA"
+  },
+  {
+    "id": "9403082009",
+    "district_id": "940308",
+    "name": "KEDEGE"
+  },
+  {
+    "id": "9403082010",
+    "district_id": "940308",
+    "name": "UWAIYE"
+  },
+  {
+    "id": "9403082011",
+    "district_id": "940308",
+    "name": "DAWAWA"
+  },
+  {
+    "id": "9403082012",
+    "district_id": "940308",
+    "name": "MUGIME KETAGO"
+  },
+  {
+    "id": "9403082013",
+    "district_id": "940308",
+    "name": "TUWAMAKIDA"
+  }
+]

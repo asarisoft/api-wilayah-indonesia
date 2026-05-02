@@ -1,1 +1,82 @@
-[{"id": "3310092001", "district_id": "331009", "name": "NANGSRI"}, {"id": "3310092002", "district_id": "331009", "name": "BARUKAN"}, {"id": "3310092003", "district_id": "331009", "name": "BORANGAN"}, {"id": "3310092004", "district_id": "331009", "name": "SUKORINI"}, {"id": "3310092005", "district_id": "331009", "name": "NGEMPLAKSENENG"}, {"id": "3310092006", "district_id": "331009", "name": "SAPEN"}, {"id": "3310092007", "district_id": "331009", "name": "KECEMEN"}, {"id": "3310092008", "district_id": "331009", "name": "TIJAYAN"}, {"id": "3310092009", "district_id": "331009", "name": "BENDAN"}, {"id": "3310092010", "district_id": "331009", "name": "TANJUNGSARI"}, {"id": "3310092011", "district_id": "331009", "name": "SOLODIRAN"}, {"id": "3310092012", "district_id": "331009", "name": "TASKOMBANG"}, {"id": "3310092013", "district_id": "331009", "name": "KRANGGAN"}, {"id": "3310092014", "district_id": "331009", "name": "KEBONALAS"}, {"id": "3310092015", "district_id": "331009", "name": "LESES"}, {"id": "3310092016", "district_id": "331009", "name": "KEPURUN"}]
+[
+  {
+    "id": "3310092001",
+    "district_id": "331009",
+    "name": "NANGSRI"
+  },
+  {
+    "id": "3310092002",
+    "district_id": "331009",
+    "name": "BARUKAN"
+  },
+  {
+    "id": "3310092003",
+    "district_id": "331009",
+    "name": "BORANGAN"
+  },
+  {
+    "id": "3310092004",
+    "district_id": "331009",
+    "name": "SUKORINI"
+  },
+  {
+    "id": "3310092005",
+    "district_id": "331009",
+    "name": "NGEMPLAKSENENG"
+  },
+  {
+    "id": "3310092006",
+    "district_id": "331009",
+    "name": "SAPEN"
+  },
+  {
+    "id": "3310092007",
+    "district_id": "331009",
+    "name": "KECEMEN"
+  },
+  {
+    "id": "3310092008",
+    "district_id": "331009",
+    "name": "TIJAYAN"
+  },
+  {
+    "id": "3310092009",
+    "district_id": "331009",
+    "name": "BENDAN"
+  },
+  {
+    "id": "3310092010",
+    "district_id": "331009",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3310092011",
+    "district_id": "331009",
+    "name": "SOLODIRAN"
+  },
+  {
+    "id": "3310092012",
+    "district_id": "331009",
+    "name": "TASKOMBANG"
+  },
+  {
+    "id": "3310092013",
+    "district_id": "331009",
+    "name": "KRANGGAN"
+  },
+  {
+    "id": "3310092014",
+    "district_id": "331009",
+    "name": "KEBONALAS"
+  },
+  {
+    "id": "3310092015",
+    "district_id": "331009",
+    "name": "LESES"
+  },
+  {
+    "id": "3310092016",
+    "district_id": "331009",
+    "name": "KEPURUN"
+  }
+]

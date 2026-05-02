@@ -1,1 +1,32 @@
-[{"id": "3512071002", "district_id": "351207", "name": "PATOKAN"}, {"id": "3512071003", "district_id": "351207", "name": "DAWUHAN"}, {"id": "3512072001", "district_id": "351207", "name": "KALIBAGOR"}, {"id": "3512072004", "district_id": "351207", "name": "KOTAKAN"}, {"id": "3512072005", "district_id": "351207", "name": "TALKANDANG"}, {"id": "3512072006", "district_id": "351207", "name": "OLEAN"}]
+[
+  {
+    "id": "3512071002",
+    "district_id": "351207",
+    "name": "PATOKAN"
+  },
+  {
+    "id": "3512071003",
+    "district_id": "351207",
+    "name": "DAWUHAN"
+  },
+  {
+    "id": "3512072001",
+    "district_id": "351207",
+    "name": "KALIBAGOR"
+  },
+  {
+    "id": "3512072004",
+    "district_id": "351207",
+    "name": "KOTAKAN"
+  },
+  {
+    "id": "3512072005",
+    "district_id": "351207",
+    "name": "TALKANDANG"
+  },
+  {
+    "id": "3512072006",
+    "district_id": "351207",
+    "name": "OLEAN"
+  }
+]

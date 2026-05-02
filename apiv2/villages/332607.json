@@ -1,1 +1,77 @@
-[{"id": "3326072001", "district_id": "332607", "name": "GUTOMO"}, {"id": "3326072002", "district_id": "332607", "name": "LIMBANGAN"}, {"id": "3326072003", "district_id": "332607", "name": "KARANGGONDANG"}, {"id": "3326072004", "district_id": "332607", "name": "LOLONG"}, {"id": "3326072005", "district_id": "332607", "name": "PEDAWANG"}, {"id": "3326072006", "district_id": "332607", "name": "PODODADI"}, {"id": "3326072007", "district_id": "332607", "name": "LEGOKALONG"}, {"id": "3326072008", "district_id": "332607", "name": "KARANGSARI"}, {"id": "3326072009", "district_id": "332607", "name": "KULU"}, {"id": "3326072010", "district_id": "332607", "name": "BANJAREJO"}, {"id": "3326072011", "district_id": "332607", "name": "WONOSARI"}, {"id": "3326072012", "district_id": "332607", "name": "SOKOSARI"}, {"id": "3326072013", "district_id": "332607", "name": "SIDOMUKTI"}, {"id": "3326072014", "district_id": "332607", "name": "KAYUGERITAN"}, {"id": "3326072015", "district_id": "332607", "name": "KUTOSARI"}]
+[
+  {
+    "id": "3326072001",
+    "district_id": "332607",
+    "name": "GUTOMO"
+  },
+  {
+    "id": "3326072002",
+    "district_id": "332607",
+    "name": "LIMBANGAN"
+  },
+  {
+    "id": "3326072003",
+    "district_id": "332607",
+    "name": "KARANGGONDANG"
+  },
+  {
+    "id": "3326072004",
+    "district_id": "332607",
+    "name": "LOLONG"
+  },
+  {
+    "id": "3326072005",
+    "district_id": "332607",
+    "name": "PEDAWANG"
+  },
+  {
+    "id": "3326072006",
+    "district_id": "332607",
+    "name": "PODODADI"
+  },
+  {
+    "id": "3326072007",
+    "district_id": "332607",
+    "name": "LEGOKALONG"
+  },
+  {
+    "id": "3326072008",
+    "district_id": "332607",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3326072009",
+    "district_id": "332607",
+    "name": "KULU"
+  },
+  {
+    "id": "3326072010",
+    "district_id": "332607",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "3326072011",
+    "district_id": "332607",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3326072012",
+    "district_id": "332607",
+    "name": "SOKOSARI"
+  },
+  {
+    "id": "3326072013",
+    "district_id": "332607",
+    "name": "SIDOMUKTI"
+  },
+  {
+    "id": "3326072014",
+    "district_id": "332607",
+    "name": "KAYUGERITAN"
+  },
+  {
+    "id": "3326072015",
+    "district_id": "332607",
+    "name": "KUTOSARI"
+  }
+]

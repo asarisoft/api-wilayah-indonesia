@@ -1,1 +1,87 @@
-[{"id": "3308052001", "district_id": "330805", "name": "SUDIMORO"}, {"id": "3308052002", "district_id": "330805", "name": "PANDANRETNO"}, {"id": "3308052003", "district_id": "330805", "name": "KALIURANG"}, {"id": "3308052004", "district_id": "330805", "name": "TEGALRANDU"}, {"id": "3308052005", "district_id": "330805", "name": "KAMONGAN"}, {"id": "3308052006", "district_id": "330805", "name": "JERUKAGUNG"}, {"id": "3308052007", "district_id": "330805", "name": "KRADENAN"}, {"id": "3308052008", "district_id": "330805", "name": "BANYUADEM"}, {"id": "3308052009", "district_id": "330805", "name": "NGABLAK"}, {"id": "3308052010", "district_id": "330805", "name": "SRUMBUNG"}, {"id": "3308052011", "district_id": "330805", "name": "BRINGIN"}, {"id": "3308052012", "district_id": "330805", "name": "MRANGGEN"}, {"id": "3308052013", "district_id": "330805", "name": "NGARGOSOKO"}, {"id": "3308052014", "district_id": "330805", "name": "POLENGAN"}, {"id": "3308052015", "district_id": "330805", "name": "PUCANGANOM"}, {"id": "3308052016", "district_id": "330805", "name": "KEMIREN"}, {"id": "3308052017", "district_id": "330805", "name": "NGLUMUT"}]
+[
+  {
+    "id": "3308052001",
+    "district_id": "330805",
+    "name": "SUDIMORO"
+  },
+  {
+    "id": "3308052002",
+    "district_id": "330805",
+    "name": "PANDANRETNO"
+  },
+  {
+    "id": "3308052003",
+    "district_id": "330805",
+    "name": "KALIURANG"
+  },
+  {
+    "id": "3308052004",
+    "district_id": "330805",
+    "name": "TEGALRANDU"
+  },
+  {
+    "id": "3308052005",
+    "district_id": "330805",
+    "name": "KAMONGAN"
+  },
+  {
+    "id": "3308052006",
+    "district_id": "330805",
+    "name": "JERUKAGUNG"
+  },
+  {
+    "id": "3308052007",
+    "district_id": "330805",
+    "name": "KRADENAN"
+  },
+  {
+    "id": "3308052008",
+    "district_id": "330805",
+    "name": "BANYUADEM"
+  },
+  {
+    "id": "3308052009",
+    "district_id": "330805",
+    "name": "NGABLAK"
+  },
+  {
+    "id": "3308052010",
+    "district_id": "330805",
+    "name": "SRUMBUNG"
+  },
+  {
+    "id": "3308052011",
+    "district_id": "330805",
+    "name": "BRINGIN"
+  },
+  {
+    "id": "3308052012",
+    "district_id": "330805",
+    "name": "MRANGGEN"
+  },
+  {
+    "id": "3308052013",
+    "district_id": "330805",
+    "name": "NGARGOSOKO"
+  },
+  {
+    "id": "3308052014",
+    "district_id": "330805",
+    "name": "POLENGAN"
+  },
+  {
+    "id": "3308052015",
+    "district_id": "330805",
+    "name": "PUCANGANOM"
+  },
+  {
+    "id": "3308052016",
+    "district_id": "330805",
+    "name": "KEMIREN"
+  },
+  {
+    "id": "3308052017",
+    "district_id": "330805",
+    "name": "NGLUMUT"
+  }
+]

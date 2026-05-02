@@ -1,1 +1,102 @@
-[{"id": "3205021001", "district_id": "320502", "name": "SUCI KALER"}, {"id": "3205021002", "district_id": "320502", "name": "LEBAKJAYA"}, {"id": "3205021003", "district_id": "320502", "name": "KARANGMULYA"}, {"id": "3205021014", "district_id": "320502", "name": "LENGKONGJAYA"}, {"id": "3205022004", "district_id": "320502", "name": "KARANGPAWITAN"}, {"id": "3205022005", "district_id": "320502", "name": "SITUGEDE"}, {"id": "3205022006", "district_id": "320502", "name": "CIMURAH"}, {"id": "3205022007", "district_id": "320502", "name": "SUCI"}, {"id": "3205022008", "district_id": "320502", "name": "JATISARI"}, {"id": "3205022009", "district_id": "320502", "name": "GODOG"}, {"id": "3205022010", "district_id": "320502", "name": "SITUSARI"}, {"id": "3205022011", "district_id": "320502", "name": "KARANGSARI"}, {"id": "3205022012", "district_id": "320502", "name": "SINDANGPALAY"}, {"id": "3205022013", "district_id": "320502", "name": "LEBAKAGUNG"}, {"id": "3205022015", "district_id": "320502", "name": "SINDANGGALIH"}, {"id": "3205022016", "district_id": "320502", "name": "MEKARSARI"}, {"id": "3205022017", "district_id": "320502", "name": "SINDANGLAYA"}, {"id": "3205022018", "district_id": "320502", "name": "TANJUNGSARI"}, {"id": "3205022019", "district_id": "320502", "name": "SITUSAEUR"}, {"id": "3205022020", "district_id": "320502", "name": "SITUJAYA"}]
+[
+  {
+    "id": "3205021001",
+    "district_id": "320502",
+    "name": "SUCI KALER"
+  },
+  {
+    "id": "3205021002",
+    "district_id": "320502",
+    "name": "LEBAKJAYA"
+  },
+  {
+    "id": "3205021003",
+    "district_id": "320502",
+    "name": "KARANGMULYA"
+  },
+  {
+    "id": "3205021014",
+    "district_id": "320502",
+    "name": "LENGKONGJAYA"
+  },
+  {
+    "id": "3205022004",
+    "district_id": "320502",
+    "name": "KARANGPAWITAN"
+  },
+  {
+    "id": "3205022005",
+    "district_id": "320502",
+    "name": "SITUGEDE"
+  },
+  {
+    "id": "3205022006",
+    "district_id": "320502",
+    "name": "CIMURAH"
+  },
+  {
+    "id": "3205022007",
+    "district_id": "320502",
+    "name": "SUCI"
+  },
+  {
+    "id": "3205022008",
+    "district_id": "320502",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3205022009",
+    "district_id": "320502",
+    "name": "GODOG"
+  },
+  {
+    "id": "3205022010",
+    "district_id": "320502",
+    "name": "SITUSARI"
+  },
+  {
+    "id": "3205022011",
+    "district_id": "320502",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3205022012",
+    "district_id": "320502",
+    "name": "SINDANGPALAY"
+  },
+  {
+    "id": "3205022013",
+    "district_id": "320502",
+    "name": "LEBAKAGUNG"
+  },
+  {
+    "id": "3205022015",
+    "district_id": "320502",
+    "name": "SINDANGGALIH"
+  },
+  {
+    "id": "3205022016",
+    "district_id": "320502",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3205022017",
+    "district_id": "320502",
+    "name": "SINDANGLAYA"
+  },
+  {
+    "id": "3205022018",
+    "district_id": "320502",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3205022019",
+    "district_id": "320502",
+    "name": "SITUSAEUR"
+  },
+  {
+    "id": "3205022020",
+    "district_id": "320502",
+    "name": "SITUJAYA"
+  }
+]

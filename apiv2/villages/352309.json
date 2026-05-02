@@ -1,1 +1,92 @@
-[{"id": "3523092001", "district_id": "352309", "name": "SEMBUNG"}, {"id": "3523092002", "district_id": "352309", "name": "KEMLATEN"}, {"id": "3523092003", "district_id": "352309", "name": "SUKOREJO"}, {"id": "3523092004", "district_id": "352309", "name": "NGAWUN"}, {"id": "3523092005", "district_id": "352309", "name": "MERGOASRI"}, {"id": "3523092006", "district_id": "352309", "name": "KUMPULREJO"}, {"id": "3523092007", "district_id": "352309", "name": "PARANGBATU"}, {"id": "3523092008", "district_id": "352309", "name": "WUKIRHARJO"}, {"id": "3523092009", "district_id": "352309", "name": "CENGKONG"}, {"id": "3523092010", "district_id": "352309", "name": "BRANGKAL"}, {"id": "3523092011", "district_id": "352309", "name": "MARGOREJO"}, {"id": "3523092012", "district_id": "352309", "name": "DAGANGAN"}, {"id": "3523092013", "district_id": "352309", "name": "SUCIHARJO"}, {"id": "3523092014", "district_id": "352309", "name": "PACING"}, {"id": "3523092015", "district_id": "352309", "name": "SELOGABUS"}, {"id": "3523092016", "district_id": "352309", "name": "SUGIHWARAS"}, {"id": "3523092017", "district_id": "352309", "name": "SENDANGREJO"}, {"id": "3523092018", "district_id": "352309", "name": "MOJOMALANG"}]
+[
+  {
+    "id": "3523092001",
+    "district_id": "352309",
+    "name": "SEMBUNG"
+  },
+  {
+    "id": "3523092002",
+    "district_id": "352309",
+    "name": "KEMLATEN"
+  },
+  {
+    "id": "3523092003",
+    "district_id": "352309",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3523092004",
+    "district_id": "352309",
+    "name": "NGAWUN"
+  },
+  {
+    "id": "3523092005",
+    "district_id": "352309",
+    "name": "MERGOASRI"
+  },
+  {
+    "id": "3523092006",
+    "district_id": "352309",
+    "name": "KUMPULREJO"
+  },
+  {
+    "id": "3523092007",
+    "district_id": "352309",
+    "name": "PARANGBATU"
+  },
+  {
+    "id": "3523092008",
+    "district_id": "352309",
+    "name": "WUKIRHARJO"
+  },
+  {
+    "id": "3523092009",
+    "district_id": "352309",
+    "name": "CENGKONG"
+  },
+  {
+    "id": "3523092010",
+    "district_id": "352309",
+    "name": "BRANGKAL"
+  },
+  {
+    "id": "3523092011",
+    "district_id": "352309",
+    "name": "MARGOREJO"
+  },
+  {
+    "id": "3523092012",
+    "district_id": "352309",
+    "name": "DAGANGAN"
+  },
+  {
+    "id": "3523092013",
+    "district_id": "352309",
+    "name": "SUCIHARJO"
+  },
+  {
+    "id": "3523092014",
+    "district_id": "352309",
+    "name": "PACING"
+  },
+  {
+    "id": "3523092015",
+    "district_id": "352309",
+    "name": "SELOGABUS"
+  },
+  {
+    "id": "3523092016",
+    "district_id": "352309",
+    "name": "SUGIHWARAS"
+  },
+  {
+    "id": "3523092017",
+    "district_id": "352309",
+    "name": "SENDANGREJO"
+  },
+  {
+    "id": "3523092018",
+    "district_id": "352309",
+    "name": "MOJOMALANG"
+  }
+]

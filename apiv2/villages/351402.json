@@ -1,1 +1,62 @@
-[{"id": "3514022001", "district_id": "351402", "name": "NGADIREJO"}, {"id": "3514022002", "district_id": "351402", "name": "BLARANG"}, {"id": "3514022003", "district_id": "351402", "name": "KAYUKEBEK"}, {"id": "3514022004", "district_id": "351402", "name": "ANDONOSARI"}, {"id": "3514022005", "district_id": "351402", "name": "WONOSARI"}, {"id": "3514022006", "district_id": "351402", "name": "GENDRO"}, {"id": "3514022007", "district_id": "351402", "name": "TLOGOSARI"}, {"id": "3514022008", "district_id": "351402", "name": "TUTUR"}, {"id": "3514022009", "district_id": "351402", "name": "PUNGGING"}, {"id": "3514022010", "district_id": "351402", "name": "KALIPUCANG"}, {"id": "3514022011", "district_id": "351402", "name": "SUMBERPITU"}, {"id": "3514022012", "district_id": "351402", "name": "NGEMBAL"}]
+[
+  {
+    "id": "3514022001",
+    "district_id": "351402",
+    "name": "NGADIREJO"
+  },
+  {
+    "id": "3514022002",
+    "district_id": "351402",
+    "name": "BLARANG"
+  },
+  {
+    "id": "3514022003",
+    "district_id": "351402",
+    "name": "KAYUKEBEK"
+  },
+  {
+    "id": "3514022004",
+    "district_id": "351402",
+    "name": "ANDONOSARI"
+  },
+  {
+    "id": "3514022005",
+    "district_id": "351402",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3514022006",
+    "district_id": "351402",
+    "name": "GENDRO"
+  },
+  {
+    "id": "3514022007",
+    "district_id": "351402",
+    "name": "TLOGOSARI"
+  },
+  {
+    "id": "3514022008",
+    "district_id": "351402",
+    "name": "TUTUR"
+  },
+  {
+    "id": "3514022009",
+    "district_id": "351402",
+    "name": "PUNGGING"
+  },
+  {
+    "id": "3514022010",
+    "district_id": "351402",
+    "name": "KALIPUCANG"
+  },
+  {
+    "id": "3514022011",
+    "district_id": "351402",
+    "name": "SUMBERPITU"
+  },
+  {
+    "id": "3514022012",
+    "district_id": "351402",
+    "name": "NGEMBAL"
+  }
+]

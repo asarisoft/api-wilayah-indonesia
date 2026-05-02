@@ -1,1 +1,42 @@
-[{"id": "3312242001", "district_id": "331224", "name": "SONGBLEDEG"}, {"id": "3312242002", "district_id": "331224", "name": "KETOS"}, {"id": "3312242003", "district_id": "331224", "name": "PARANGGUPITO"}, {"id": "3312242004", "district_id": "331224", "name": "GUDANGHARJO"}, {"id": "3312242005", "district_id": "331224", "name": "GUNTURHARJO"}, {"id": "3312242006", "district_id": "331224", "name": "SAMBIHARJO"}, {"id": "3312242007", "district_id": "331224", "name": "JOHUNUT"}, {"id": "3312242008", "district_id": "331224", "name": "GENDAYAKAN"}]
+[
+  {
+    "id": "3312242001",
+    "district_id": "331224",
+    "name": "SONGBLEDEG"
+  },
+  {
+    "id": "3312242002",
+    "district_id": "331224",
+    "name": "KETOS"
+  },
+  {
+    "id": "3312242003",
+    "district_id": "331224",
+    "name": "PARANGGUPITO"
+  },
+  {
+    "id": "3312242004",
+    "district_id": "331224",
+    "name": "GUDANGHARJO"
+  },
+  {
+    "id": "3312242005",
+    "district_id": "331224",
+    "name": "GUNTURHARJO"
+  },
+  {
+    "id": "3312242006",
+    "district_id": "331224",
+    "name": "SAMBIHARJO"
+  },
+  {
+    "id": "3312242007",
+    "district_id": "331224",
+    "name": "JOHUNUT"
+  },
+  {
+    "id": "3312242008",
+    "district_id": "331224",
+    "name": "GENDAYAKAN"
+  }
+]

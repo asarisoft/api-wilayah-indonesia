@@ -1,1 +1,147 @@
-[{"id": "3308122001", "district_id": "330812", "name": "WONOGIRI"}, {"id": "3308122002", "district_id": "330812", "name": "KWADERAN"}, {"id": "3308122003", "district_id": "330812", "name": "MADUKORO"}, {"id": "3308122004", "district_id": "330812", "name": "BUMIAYU"}, {"id": "3308122005", "district_id": "330812", "name": "MADUGONDO"}, {"id": "3308122006", "district_id": "330812", "name": "NGARGOSARI"}, {"id": "3308122007", "district_id": "330812", "name": "NGENDROSARI"}, {"id": "3308122008", "district_id": "330812", "name": "LESANPURO"}, {"id": "3308122009", "district_id": "330812", "name": "BANJARETNO"}, {"id": "3308122010", "district_id": "330812", "name": "KRINJING"}, {"id": "3308122011", "district_id": "330812", "name": "BANGSRI"}, {"id": "3308122012", "district_id": "330812", "name": "WADAS"}, {"id": "3308122013", "district_id": "330812", "name": "KAJORAN"}, {"id": "3308122014", "district_id": "330812", "name": "MANGUNREJO"}, {"id": "3308122015", "district_id": "330812", "name": "SAMBAK"}, {"id": "3308122016", "district_id": "330812", "name": "BAMBUSARI"}, {"id": "3308122017", "district_id": "330812", "name": "WUWUHARJO"}, {"id": "3308122018", "district_id": "330812", "name": "PANDANSARI"}, {"id": "3308122019", "district_id": "330812", "name": "PANDANRETNO"}, {"id": "3308122020", "district_id": "330812", "name": "KRUMPAKAN"}, {"id": "3308122021", "district_id": "330812", "name": "BANJARAGUNG"}, {"id": "3308122022", "district_id": "330812", "name": "SANGEN"}, {"id": "3308122023", "district_id": "330812", "name": "PUCUNGROTO"}, {"id": "3308122024", "district_id": "330812", "name": "SIDOREJO"}, {"id": "3308122025", "district_id": "330812", "name": "SIDOWANGI"}, {"id": "3308122026", "district_id": "330812", "name": "SUKOMULYO"}, {"id": "3308122027", "district_id": "330812", "name": "SUKOREJO"}, {"id": "3308122028", "district_id": "330812", "name": "SUTOPATI"}, {"id": "3308122029", "district_id": "330812", "name": "SUKOMAKMUR"}]
+[
+  {
+    "id": "3308122001",
+    "district_id": "330812",
+    "name": "WONOGIRI"
+  },
+  {
+    "id": "3308122002",
+    "district_id": "330812",
+    "name": "KWADERAN"
+  },
+  {
+    "id": "3308122003",
+    "district_id": "330812",
+    "name": "MADUKORO"
+  },
+  {
+    "id": "3308122004",
+    "district_id": "330812",
+    "name": "BUMIAYU"
+  },
+  {
+    "id": "3308122005",
+    "district_id": "330812",
+    "name": "MADUGONDO"
+  },
+  {
+    "id": "3308122006",
+    "district_id": "330812",
+    "name": "NGARGOSARI"
+  },
+  {
+    "id": "3308122007",
+    "district_id": "330812",
+    "name": "NGENDROSARI"
+  },
+  {
+    "id": "3308122008",
+    "district_id": "330812",
+    "name": "LESANPURO"
+  },
+  {
+    "id": "3308122009",
+    "district_id": "330812",
+    "name": "BANJARETNO"
+  },
+  {
+    "id": "3308122010",
+    "district_id": "330812",
+    "name": "KRINJING"
+  },
+  {
+    "id": "3308122011",
+    "district_id": "330812",
+    "name": "BANGSRI"
+  },
+  {
+    "id": "3308122012",
+    "district_id": "330812",
+    "name": "WADAS"
+  },
+  {
+    "id": "3308122013",
+    "district_id": "330812",
+    "name": "KAJORAN"
+  },
+  {
+    "id": "3308122014",
+    "district_id": "330812",
+    "name": "MANGUNREJO"
+  },
+  {
+    "id": "3308122015",
+    "district_id": "330812",
+    "name": "SAMBAK"
+  },
+  {
+    "id": "3308122016",
+    "district_id": "330812",
+    "name": "BAMBUSARI"
+  },
+  {
+    "id": "3308122017",
+    "district_id": "330812",
+    "name": "WUWUHARJO"
+  },
+  {
+    "id": "3308122018",
+    "district_id": "330812",
+    "name": "PANDANSARI"
+  },
+  {
+    "id": "3308122019",
+    "district_id": "330812",
+    "name": "PANDANRETNO"
+  },
+  {
+    "id": "3308122020",
+    "district_id": "330812",
+    "name": "KRUMPAKAN"
+  },
+  {
+    "id": "3308122021",
+    "district_id": "330812",
+    "name": "BANJARAGUNG"
+  },
+  {
+    "id": "3308122022",
+    "district_id": "330812",
+    "name": "SANGEN"
+  },
+  {
+    "id": "3308122023",
+    "district_id": "330812",
+    "name": "PUCUNGROTO"
+  },
+  {
+    "id": "3308122024",
+    "district_id": "330812",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3308122025",
+    "district_id": "330812",
+    "name": "SIDOWANGI"
+  },
+  {
+    "id": "3308122026",
+    "district_id": "330812",
+    "name": "SUKOMULYO"
+  },
+  {
+    "id": "3308122027",
+    "district_id": "330812",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3308122028",
+    "district_id": "330812",
+    "name": "SUTOPATI"
+  },
+  {
+    "id": "3308122029",
+    "district_id": "330812",
+    "name": "SUKOMAKMUR"
+  }
+]

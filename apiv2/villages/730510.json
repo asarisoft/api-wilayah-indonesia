@@ -1,1 +1,32 @@
-[{"id": "7305102001", "district_id": "730510", "name": "TOMPOTANA"}, {"id": "7305102002", "district_id": "730510", "name": "MATTIRO BAJI"}, {"id": "7305102003", "district_id": "730510", "name": "REWATAYA"}, {"id": "7305102004", "district_id": "730510", "name": "BALANGDATU"}, {"id": "7305102005", "district_id": "730510", "name": "MACCINI BAJI"}, {"id": "7305102006", "district_id": "730510", "name": "MINASA BAJI"}]
+[
+  {
+    "id": "7305102001",
+    "district_id": "730510",
+    "name": "TOMPOTANA"
+  },
+  {
+    "id": "7305102002",
+    "district_id": "730510",
+    "name": "MATTIRO BAJI"
+  },
+  {
+    "id": "7305102003",
+    "district_id": "730510",
+    "name": "REWATAYA"
+  },
+  {
+    "id": "7305102004",
+    "district_id": "730510",
+    "name": "BALANGDATU"
+  },
+  {
+    "id": "7305102005",
+    "district_id": "730510",
+    "name": "MACCINI BAJI"
+  },
+  {
+    "id": "7305102006",
+    "district_id": "730510",
+    "name": "MINASA BAJI"
+  }
+]

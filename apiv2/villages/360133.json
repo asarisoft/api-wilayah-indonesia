@@ -1,1 +1,62 @@
-[{"id": "3601332001", "district_id": "360133", "name": "SUKAJAYA"}, {"id": "3601332002", "district_id": "360133", "name": "AWILEGA"}, {"id": "3601332003", "district_id": "360133", "name": "GERENDONG"}, {"id": "3601332004", "district_id": "360133", "name": "KORONCONG"}, {"id": "3601332005", "district_id": "360133", "name": "PAKULURAN"}, {"id": "3601332006", "district_id": "360133", "name": "SETRAJAYA"}, {"id": "3601332007", "district_id": "360133", "name": "KARANGSETRA"}, {"id": "3601332008", "district_id": "360133", "name": "PANIIS"}, {"id": "3601332009", "district_id": "360133", "name": "BANGKONOL"}, {"id": "3601332010", "district_id": "360133", "name": "PASIRJAKSA"}, {"id": "3601332011", "district_id": "360133", "name": "PASIRKARAG"}, {"id": "3601332012", "district_id": "360133", "name": "TEGALONGOK"}]
+[
+  {
+    "id": "3601332001",
+    "district_id": "360133",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3601332002",
+    "district_id": "360133",
+    "name": "AWILEGA"
+  },
+  {
+    "id": "3601332003",
+    "district_id": "360133",
+    "name": "GERENDONG"
+  },
+  {
+    "id": "3601332004",
+    "district_id": "360133",
+    "name": "KORONCONG"
+  },
+  {
+    "id": "3601332005",
+    "district_id": "360133",
+    "name": "PAKULURAN"
+  },
+  {
+    "id": "3601332006",
+    "district_id": "360133",
+    "name": "SETRAJAYA"
+  },
+  {
+    "id": "3601332007",
+    "district_id": "360133",
+    "name": "KARANGSETRA"
+  },
+  {
+    "id": "3601332008",
+    "district_id": "360133",
+    "name": "PANIIS"
+  },
+  {
+    "id": "3601332009",
+    "district_id": "360133",
+    "name": "BANGKONOL"
+  },
+  {
+    "id": "3601332010",
+    "district_id": "360133",
+    "name": "PASIRJAKSA"
+  },
+  {
+    "id": "3601332011",
+    "district_id": "360133",
+    "name": "PASIRKARAG"
+  },
+  {
+    "id": "3601332012",
+    "district_id": "360133",
+    "name": "TEGALONGOK"
+  }
+]

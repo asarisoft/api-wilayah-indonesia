@@ -1,1 +1,52 @@
-[{"id": "7206182001", "district_id": "720618", "name": "ONEPUTEH JAYA"}, {"id": "7206182002", "district_id": "720618", "name": "BAHOMOTEFE"}, {"id": "7206182003", "district_id": "720618", "name": "BAHOMOAHI"}, {"id": "7206182004", "district_id": "720618", "name": "ULULERE"}, {"id": "7206182005", "district_id": "720618", "name": "KOLONO"}, {"id": "7206182006", "district_id": "720618", "name": "GERESA"}, {"id": "7206182007", "district_id": "720618", "name": "LAROUE"}, {"id": "7206182008", "district_id": "720618", "name": "NAMBO"}, {"id": "7206182009", "district_id": "720618", "name": "UNSONGI"}, {"id": "7206182010", "district_id": "720618", "name": "LAHUAFU"}]
+[
+  {
+    "id": "7206182001",
+    "district_id": "720618",
+    "name": "ONEPUTEH JAYA"
+  },
+  {
+    "id": "7206182002",
+    "district_id": "720618",
+    "name": "BAHOMOTEFE"
+  },
+  {
+    "id": "7206182003",
+    "district_id": "720618",
+    "name": "BAHOMOAHI"
+  },
+  {
+    "id": "7206182004",
+    "district_id": "720618",
+    "name": "ULULERE"
+  },
+  {
+    "id": "7206182005",
+    "district_id": "720618",
+    "name": "KOLONO"
+  },
+  {
+    "id": "7206182006",
+    "district_id": "720618",
+    "name": "GERESA"
+  },
+  {
+    "id": "7206182007",
+    "district_id": "720618",
+    "name": "LAROUE"
+  },
+  {
+    "id": "7206182008",
+    "district_id": "720618",
+    "name": "NAMBO"
+  },
+  {
+    "id": "7206182009",
+    "district_id": "720618",
+    "name": "UNSONGI"
+  },
+  {
+    "id": "7206182010",
+    "district_id": "720618",
+    "name": "LAHUAFU"
+  }
+]

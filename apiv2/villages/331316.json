@@ -1,1 +1,52 @@
-[{"id": "3313162001", "district_id": "331316", "name": "KUTO"}, {"id": "3313162002", "district_id": "331316", "name": "TAMANSARI"}, {"id": "3313162003", "district_id": "331316", "name": "GANTEN"}, {"id": "3313162004", "district_id": "331316", "name": "GEMPOLAN"}, {"id": "3313162005", "district_id": "331316", "name": "PLOSOREJO"}, {"id": "3313162006", "district_id": "331316", "name": "KARANGREJO"}, {"id": "3313162007", "district_id": "331316", "name": "KWADUNGAN"}, {"id": "3313162008", "district_id": "331316", "name": "BOTOK"}, {"id": "3313162009", "district_id": "331316", "name": "SUMBEREJO"}, {"id": "3313162010", "district_id": "331316", "name": "TAWANGSARI"}]
+[
+  {
+    "id": "3313162001",
+    "district_id": "331316",
+    "name": "KUTO"
+  },
+  {
+    "id": "3313162002",
+    "district_id": "331316",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3313162003",
+    "district_id": "331316",
+    "name": "GANTEN"
+  },
+  {
+    "id": "3313162004",
+    "district_id": "331316",
+    "name": "GEMPOLAN"
+  },
+  {
+    "id": "3313162005",
+    "district_id": "331316",
+    "name": "PLOSOREJO"
+  },
+  {
+    "id": "3313162006",
+    "district_id": "331316",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3313162007",
+    "district_id": "331316",
+    "name": "KWADUNGAN"
+  },
+  {
+    "id": "3313162008",
+    "district_id": "331316",
+    "name": "BOTOK"
+  },
+  {
+    "id": "3313162009",
+    "district_id": "331316",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3313162010",
+    "district_id": "331316",
+    "name": "TAWANGSARI"
+  }
+]

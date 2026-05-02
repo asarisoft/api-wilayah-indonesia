@@ -1,1 +1,112 @@
-[{"id": "9402082001", "district_id": "940208", "name": "TINGGINERI"}, {"id": "9402082002", "district_id": "940208", "name": "MONIA"}, {"id": "9402082003", "district_id": "940208", "name": "TINGGINAMBUT"}, {"id": "9402082004", "district_id": "940208", "name": "MELEKOM"}, {"id": "9402082005", "district_id": "940208", "name": "GIGUME"}, {"id": "9402082006", "district_id": "940208", "name": "PAPUA"}, {"id": "9402082007", "district_id": "940208", "name": "TINGGINIME"}, {"id": "9402082008", "district_id": "940208", "name": "TOMBO"}, {"id": "9402082009", "district_id": "940208", "name": "GIMANGGEN"}, {"id": "9402082010", "district_id": "940208", "name": "URAGI"}, {"id": "9402082011", "district_id": "940208", "name": "YAMENGGA"}, {"id": "9402082012", "district_id": "940208", "name": "DEGI"}, {"id": "9402082013", "district_id": "940208", "name": "JUGUMBLAWI"}, {"id": "9402082014", "district_id": "940208", "name": "PARALO"}, {"id": "9402082015", "district_id": "940208", "name": "WOMELAGANDAN"}, {"id": "9402082016", "district_id": "940208", "name": "BIGIRAGE"}, {"id": "9402082017", "district_id": "940208", "name": "LUMBUK"}, {"id": "9402082018", "district_id": "940208", "name": "INIKIMALUK"}, {"id": "9402082019", "district_id": "940208", "name": "YONGGUN"}, {"id": "9402082020", "district_id": "940208", "name": "GOBAK"}, {"id": "9402082021", "district_id": "940208", "name": "GUBUPUR"}, {"id": "9402082022", "district_id": "940208", "name": "BERIME"}]
+[
+  {
+    "id": "9402082001",
+    "district_id": "940208",
+    "name": "TINGGINERI"
+  },
+  {
+    "id": "9402082002",
+    "district_id": "940208",
+    "name": "MONIA"
+  },
+  {
+    "id": "9402082003",
+    "district_id": "940208",
+    "name": "TINGGINAMBUT"
+  },
+  {
+    "id": "9402082004",
+    "district_id": "940208",
+    "name": "MELEKOM"
+  },
+  {
+    "id": "9402082005",
+    "district_id": "940208",
+    "name": "GIGUME"
+  },
+  {
+    "id": "9402082006",
+    "district_id": "940208",
+    "name": "PAPUA"
+  },
+  {
+    "id": "9402082007",
+    "district_id": "940208",
+    "name": "TINGGINIME"
+  },
+  {
+    "id": "9402082008",
+    "district_id": "940208",
+    "name": "TOMBO"
+  },
+  {
+    "id": "9402082009",
+    "district_id": "940208",
+    "name": "GIMANGGEN"
+  },
+  {
+    "id": "9402082010",
+    "district_id": "940208",
+    "name": "URAGI"
+  },
+  {
+    "id": "9402082011",
+    "district_id": "940208",
+    "name": "YAMENGGA"
+  },
+  {
+    "id": "9402082012",
+    "district_id": "940208",
+    "name": "DEGI"
+  },
+  {
+    "id": "9402082013",
+    "district_id": "940208",
+    "name": "JUGUMBLAWI"
+  },
+  {
+    "id": "9402082014",
+    "district_id": "940208",
+    "name": "PARALO"
+  },
+  {
+    "id": "9402082015",
+    "district_id": "940208",
+    "name": "WOMELAGANDAN"
+  },
+  {
+    "id": "9402082016",
+    "district_id": "940208",
+    "name": "BIGIRAGE"
+  },
+  {
+    "id": "9402082017",
+    "district_id": "940208",
+    "name": "LUMBUK"
+  },
+  {
+    "id": "9402082018",
+    "district_id": "940208",
+    "name": "INIKIMALUK"
+  },
+  {
+    "id": "9402082019",
+    "district_id": "940208",
+    "name": "YONGGUN"
+  },
+  {
+    "id": "9402082020",
+    "district_id": "940208",
+    "name": "GOBAK"
+  },
+  {
+    "id": "9402082021",
+    "district_id": "940208",
+    "name": "GUBUPUR"
+  },
+  {
+    "id": "9402082022",
+    "district_id": "940208",
+    "name": "BERIME"
+  }
+]

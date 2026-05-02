@@ -1,1 +1,27 @@
-[{"id": "7403312001", "district_id": "740331", "name": "MAROBO"}, {"id": "7403312002", "district_id": "740331", "name": "WADOLAO"}, {"id": "7403312003", "district_id": "740331", "name": "PASIKUTA"}, {"id": "7403312004", "district_id": "740331", "name": "TAPITAPI"}, {"id": "7403312005", "district_id": "740331", "name": "POAROHA"}]
+[
+  {
+    "id": "7403312001",
+    "district_id": "740331",
+    "name": "MAROBO"
+  },
+  {
+    "id": "7403312002",
+    "district_id": "740331",
+    "name": "WADOLAO"
+  },
+  {
+    "id": "7403312003",
+    "district_id": "740331",
+    "name": "PASIKUTA"
+  },
+  {
+    "id": "7403312004",
+    "district_id": "740331",
+    "name": "TAPITAPI"
+  },
+  {
+    "id": "7403312005",
+    "district_id": "740331",
+    "name": "POAROHA"
+  }
+]

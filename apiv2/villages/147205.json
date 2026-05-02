@@ -1,1 +1,22 @@
-[{"id": "1472051001", "district_id": "147205", "name": "TELUK MAKMUR"}, {"id": "1472051002", "district_id": "147205", "name": "MUNDAM"}, {"id": "1472051003", "district_id": "147205", "name": "GUNTUNG"}, {"id": "1472051004", "district_id": "147205", "name": "PELINTUNG"}]
+[
+  {
+    "id": "1472051001",
+    "district_id": "147205",
+    "name": "TELUK MAKMUR"
+  },
+  {
+    "id": "1472051002",
+    "district_id": "147205",
+    "name": "MUNDAM"
+  },
+  {
+    "id": "1472051003",
+    "district_id": "147205",
+    "name": "GUNTUNG"
+  },
+  {
+    "id": "1472051004",
+    "district_id": "147205",
+    "name": "PELINTUNG"
+  }
+]

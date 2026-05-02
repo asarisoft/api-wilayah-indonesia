@@ -1,1 +1,82 @@
-[{"id": "3302162001", "district_id": "330216", "name": "CIKEMBULAN"}, {"id": "3302162002", "district_id": "330216", "name": "CANDINEGARA"}, {"id": "3302162003", "district_id": "330216", "name": "KARANGKLESEM"}, {"id": "3302162004", "district_id": "330216", "name": "CIKAWUNG"}, {"id": "3302162005", "district_id": "330216", "name": "CIBANGKONG"}, {"id": "3302162006", "district_id": "330216", "name": "PETAHUNAN"}, {"id": "3302162007", "district_id": "330216", "name": "SEMEDO"}, {"id": "3302162008", "district_id": "330216", "name": "BANJARANYAR"}, {"id": "3302162009", "district_id": "330216", "name": "PASIRAMAN LOR"}, {"id": "3302162010", "district_id": "330216", "name": "PASIRAMAN KIDUL"}, {"id": "3302162011", "district_id": "330216", "name": "TUMIYANG"}, {"id": "3302162012", "district_id": "330216", "name": "GLEMPANG"}, {"id": "3302162013", "district_id": "330216", "name": "PEKUNCEN"}, {"id": "3302162014", "district_id": "330216", "name": "KARANGKEMIRI"}, {"id": "3302162015", "district_id": "330216", "name": "KRANGGAN"}, {"id": "3302162016", "district_id": "330216", "name": "KRAJAN"}]
+[
+  {
+    "id": "3302162001",
+    "district_id": "330216",
+    "name": "CIKEMBULAN"
+  },
+  {
+    "id": "3302162002",
+    "district_id": "330216",
+    "name": "CANDINEGARA"
+  },
+  {
+    "id": "3302162003",
+    "district_id": "330216",
+    "name": "KARANGKLESEM"
+  },
+  {
+    "id": "3302162004",
+    "district_id": "330216",
+    "name": "CIKAWUNG"
+  },
+  {
+    "id": "3302162005",
+    "district_id": "330216",
+    "name": "CIBANGKONG"
+  },
+  {
+    "id": "3302162006",
+    "district_id": "330216",
+    "name": "PETAHUNAN"
+  },
+  {
+    "id": "3302162007",
+    "district_id": "330216",
+    "name": "SEMEDO"
+  },
+  {
+    "id": "3302162008",
+    "district_id": "330216",
+    "name": "BANJARANYAR"
+  },
+  {
+    "id": "3302162009",
+    "district_id": "330216",
+    "name": "PASIRAMAN LOR"
+  },
+  {
+    "id": "3302162010",
+    "district_id": "330216",
+    "name": "PASIRAMAN KIDUL"
+  },
+  {
+    "id": "3302162011",
+    "district_id": "330216",
+    "name": "TUMIYANG"
+  },
+  {
+    "id": "3302162012",
+    "district_id": "330216",
+    "name": "GLEMPANG"
+  },
+  {
+    "id": "3302162013",
+    "district_id": "330216",
+    "name": "PEKUNCEN"
+  },
+  {
+    "id": "3302162014",
+    "district_id": "330216",
+    "name": "KARANGKEMIRI"
+  },
+  {
+    "id": "3302162015",
+    "district_id": "330216",
+    "name": "KRANGGAN"
+  },
+  {
+    "id": "3302162016",
+    "district_id": "330216",
+    "name": "KRAJAN"
+  }
+]

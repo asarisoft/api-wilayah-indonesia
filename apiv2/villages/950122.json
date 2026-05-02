@@ -1,1 +1,27 @@
-[{"id": "9501222001", "district_id": "950122", "name": "KORMA"}, {"id": "9501222002", "district_id": "950122", "name": "TULEM"}, {"id": "9501222003", "district_id": "950122", "name": "ALULA"}, {"id": "9501222004", "district_id": "950122", "name": "AROGOLIK"}, {"id": "9501222005", "district_id": "950122", "name": "WILIGIMA"}]
+[
+  {
+    "id": "9501222001",
+    "district_id": "950122",
+    "name": "KORMA"
+  },
+  {
+    "id": "9501222002",
+    "district_id": "950122",
+    "name": "TULEM"
+  },
+  {
+    "id": "9501222003",
+    "district_id": "950122",
+    "name": "ALULA"
+  },
+  {
+    "id": "9501222004",
+    "district_id": "950122",
+    "name": "AROGOLIK"
+  },
+  {
+    "id": "9501222005",
+    "district_id": "950122",
+    "name": "WILIGIMA"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "7171021001", "district_id": "717102", "name": "BITUNG KARANGRIA"}, {"id": "7171021002", "district_id": "717102", "name": "TUMINTING"}, {"id": "7171021003", "district_id": "717102", "name": "TUMUMPA SATU"}, {"id": "7171021004", "district_id": "717102", "name": "MAASING"}, {"id": "7171021005", "district_id": "717102", "name": "SINDULANG SATU"}, {"id": "7171021006", "district_id": "717102", "name": "SINDULANG DUA"}, {"id": "7171021007", "district_id": "717102", "name": "ISLAM"}, {"id": "7171021008", "district_id": "717102", "name": "TUMUMPA DUA"}, {"id": "7171021009", "district_id": "717102", "name": "SUMOMPO"}, {"id": "7171021010", "district_id": "717102", "name": "MAHAWU"}]
+[
+  {
+    "id": "7171021001",
+    "district_id": "717102",
+    "name": "BITUNG KARANGRIA"
+  },
+  {
+    "id": "7171021002",
+    "district_id": "717102",
+    "name": "TUMINTING"
+  },
+  {
+    "id": "7171021003",
+    "district_id": "717102",
+    "name": "TUMUMPA SATU"
+  },
+  {
+    "id": "7171021004",
+    "district_id": "717102",
+    "name": "MAASING"
+  },
+  {
+    "id": "7171021005",
+    "district_id": "717102",
+    "name": "SINDULANG SATU"
+  },
+  {
+    "id": "7171021006",
+    "district_id": "717102",
+    "name": "SINDULANG DUA"
+  },
+  {
+    "id": "7171021007",
+    "district_id": "717102",
+    "name": "ISLAM"
+  },
+  {
+    "id": "7171021008",
+    "district_id": "717102",
+    "name": "TUMUMPA DUA"
+  },
+  {
+    "id": "7171021009",
+    "district_id": "717102",
+    "name": "SUMOMPO"
+  },
+  {
+    "id": "7171021010",
+    "district_id": "717102",
+    "name": "MAHAWU"
+  }
+]

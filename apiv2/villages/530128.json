@@ -1,1 +1,22 @@
-[{"id": "5301282001", "district_id": "530128", "name": "OELBITENO"}, {"id": "5301282002", "district_id": "530128", "name": "NONBAUN"}, {"id": "5301282003", "district_id": "530128", "name": "NUNSAEN"}, {"id": "5301282004", "district_id": "530128", "name": "PASSI"}]
+[
+  {
+    "id": "5301282001",
+    "district_id": "530128",
+    "name": "OELBITENO"
+  },
+  {
+    "id": "5301282002",
+    "district_id": "530128",
+    "name": "NONBAUN"
+  },
+  {
+    "id": "5301282003",
+    "district_id": "530128",
+    "name": "NUNSAEN"
+  },
+  {
+    "id": "5301282004",
+    "district_id": "530128",
+    "name": "PASSI"
+  }
+]

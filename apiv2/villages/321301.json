@@ -1,1 +1,37 @@
-[{"id": "3213012003", "district_id": "321301", "name": "SUKAMANDI"}, {"id": "3213012004", "district_id": "321301", "name": "CICADAS"}, {"id": "3213012005", "district_id": "321301", "name": "SAGALAHERANG KIDUL"}, {"id": "3213012006", "district_id": "321301", "name": "DAYEUH KOLOT"}, {"id": "3213012009", "district_id": "321301", "name": "LELES"}, {"id": "3213012010", "district_id": "321301", "name": "CURUGAGUNG"}, {"id": "3213012011", "district_id": "321301", "name": "SAGALAHERANG KALER"}]
+[
+  {
+    "id": "3213012003",
+    "district_id": "321301",
+    "name": "SUKAMANDI"
+  },
+  {
+    "id": "3213012004",
+    "district_id": "321301",
+    "name": "CICADAS"
+  },
+  {
+    "id": "3213012005",
+    "district_id": "321301",
+    "name": "SAGALAHERANG KIDUL"
+  },
+  {
+    "id": "3213012006",
+    "district_id": "321301",
+    "name": "DAYEUH KOLOT"
+  },
+  {
+    "id": "3213012009",
+    "district_id": "321301",
+    "name": "LELES"
+  },
+  {
+    "id": "3213012010",
+    "district_id": "321301",
+    "name": "CURUGAGUNG"
+  },
+  {
+    "id": "3213012011",
+    "district_id": "321301",
+    "name": "SAGALAHERANG KALER"
+  }
+]

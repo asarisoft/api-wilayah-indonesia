@@ -1,1 +1,107 @@
-[{"id": "7412021008", "district_id": "741202", "name": "LANSILOWO"}, {"id": "7412022001", "district_id": "741202", "name": "WAWOROPE"}, {"id": "7412022002", "district_id": "741202", "name": "DONGKALAEA"}, {"id": "7412022003", "district_id": "741202", "name": "LABEAU"}, {"id": "7412022004", "district_id": "741202", "name": "TAMBAONE"}, {"id": "7412022005", "district_id": "741202", "name": "PALINGI"}, {"id": "7412022006", "district_id": "741202", "name": "MAWA"}, {"id": "7412022007", "district_id": "741202", "name": "MATA BURANGA"}, {"id": "7412022009", "district_id": "741202", "name": "TAMBAONE UTAMA"}, {"id": "7412022010", "district_id": "741202", "name": "WAWOEA"}, {"id": "7412022011", "district_id": "741202", "name": "PALINGI BARAT"}, {"id": "7412022012", "district_id": "741202", "name": "TUMBURANO"}, {"id": "7412022013", "district_id": "741202", "name": "MATAIWOI"}, {"id": "7412022014", "district_id": "741202", "name": "LABISA"}, {"id": "7412022015", "district_id": "741202", "name": "MATA BUBU"}, {"id": "7412022016", "district_id": "741202", "name": "WAWOBEAU"}, {"id": "7412022017", "district_id": "741202", "name": "TAPUM BATU"}, {"id": "7412022018", "district_id": "741202", "name": "PALINGI TIMUR"}, {"id": "7412022019", "district_id": "741202", "name": "TONGALERE"}, {"id": "7412022020", "district_id": "741202", "name": "TEPOLAWA"}, {"id": "7412022021", "district_id": "741202", "name": "SAWA INDAH"}]
+[
+  {
+    "id": "7412021008",
+    "district_id": "741202",
+    "name": "LANSILOWO"
+  },
+  {
+    "id": "7412022001",
+    "district_id": "741202",
+    "name": "WAWOROPE"
+  },
+  {
+    "id": "7412022002",
+    "district_id": "741202",
+    "name": "DONGKALAEA"
+  },
+  {
+    "id": "7412022003",
+    "district_id": "741202",
+    "name": "LABEAU"
+  },
+  {
+    "id": "7412022004",
+    "district_id": "741202",
+    "name": "TAMBAONE"
+  },
+  {
+    "id": "7412022005",
+    "district_id": "741202",
+    "name": "PALINGI"
+  },
+  {
+    "id": "7412022006",
+    "district_id": "741202",
+    "name": "MAWA"
+  },
+  {
+    "id": "7412022007",
+    "district_id": "741202",
+    "name": "MATA BURANGA"
+  },
+  {
+    "id": "7412022009",
+    "district_id": "741202",
+    "name": "TAMBAONE UTAMA"
+  },
+  {
+    "id": "7412022010",
+    "district_id": "741202",
+    "name": "WAWOEA"
+  },
+  {
+    "id": "7412022011",
+    "district_id": "741202",
+    "name": "PALINGI BARAT"
+  },
+  {
+    "id": "7412022012",
+    "district_id": "741202",
+    "name": "TUMBURANO"
+  },
+  {
+    "id": "7412022013",
+    "district_id": "741202",
+    "name": "MATAIWOI"
+  },
+  {
+    "id": "7412022014",
+    "district_id": "741202",
+    "name": "LABISA"
+  },
+  {
+    "id": "7412022015",
+    "district_id": "741202",
+    "name": "MATA BUBU"
+  },
+  {
+    "id": "7412022016",
+    "district_id": "741202",
+    "name": "WAWOBEAU"
+  },
+  {
+    "id": "7412022017",
+    "district_id": "741202",
+    "name": "TAPUM BATU"
+  },
+  {
+    "id": "7412022018",
+    "district_id": "741202",
+    "name": "PALINGI TIMUR"
+  },
+  {
+    "id": "7412022019",
+    "district_id": "741202",
+    "name": "TONGALERE"
+  },
+  {
+    "id": "7412022020",
+    "district_id": "741202",
+    "name": "TEPOLAWA"
+  },
+  {
+    "id": "7412022021",
+    "district_id": "741202",
+    "name": "SAWA INDAH"
+  }
+]

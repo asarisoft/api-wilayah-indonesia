@@ -1,1 +1,57 @@
-[{"id": "5305142001", "district_id": "530514", "name": "NULE"}, {"id": "5305142002", "district_id": "530514", "name": "KALEB"}, {"id": "5305142003", "district_id": "530514", "name": "BATU"}, {"id": "5305142004", "district_id": "530514", "name": "KAERA"}, {"id": "5305142005", "district_id": "530514", "name": "MAWAR"}, {"id": "5305142006", "district_id": "530514", "name": "MERDEKA"}, {"id": "5305142007", "district_id": "530514", "name": "OMBAY"}, {"id": "5305142008", "district_id": "530514", "name": "LEKOM"}, {"id": "5305142009", "district_id": "530514", "name": "BUNGABALI"}, {"id": "5305142010", "district_id": "530514", "name": "TEREWENG"}, {"id": "5305142011", "district_id": "530514", "name": "LALAFANG"}]
+[
+  {
+    "id": "5305142001",
+    "district_id": "530514",
+    "name": "NULE"
+  },
+  {
+    "id": "5305142002",
+    "district_id": "530514",
+    "name": "KALEB"
+  },
+  {
+    "id": "5305142003",
+    "district_id": "530514",
+    "name": "BATU"
+  },
+  {
+    "id": "5305142004",
+    "district_id": "530514",
+    "name": "KAERA"
+  },
+  {
+    "id": "5305142005",
+    "district_id": "530514",
+    "name": "MAWAR"
+  },
+  {
+    "id": "5305142006",
+    "district_id": "530514",
+    "name": "MERDEKA"
+  },
+  {
+    "id": "5305142007",
+    "district_id": "530514",
+    "name": "OMBAY"
+  },
+  {
+    "id": "5305142008",
+    "district_id": "530514",
+    "name": "LEKOM"
+  },
+  {
+    "id": "5305142009",
+    "district_id": "530514",
+    "name": "BUNGABALI"
+  },
+  {
+    "id": "5305142010",
+    "district_id": "530514",
+    "name": "TEREWENG"
+  },
+  {
+    "id": "5305142011",
+    "district_id": "530514",
+    "name": "LALAFANG"
+  }
+]

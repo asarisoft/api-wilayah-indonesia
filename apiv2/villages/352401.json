@@ -1,1 +1,47 @@
-[{"id": "3524012001", "district_id": "352401", "name": "SEMBUNG"}, {"id": "3524012002", "district_id": "352401", "name": "BANGGLE"}, {"id": "3524012003", "district_id": "352401", "name": "KEDUNGKUMPUL"}, {"id": "3524012004", "district_id": "352401", "name": "SUKORAME"}, {"id": "3524012005", "district_id": "352401", "name": "MRAGEL"}, {"id": "3524012006", "district_id": "352401", "name": "KEDUNGREJO"}, {"id": "3524012007", "district_id": "352401", "name": "SEWOR"}, {"id": "3524012008", "district_id": "352401", "name": "WEDORO"}, {"id": "3524012009", "district_id": "352401", "name": "PENDOWOKUMPUL"}]
+[
+  {
+    "id": "3524012001",
+    "district_id": "352401",
+    "name": "SEMBUNG"
+  },
+  {
+    "id": "3524012002",
+    "district_id": "352401",
+    "name": "BANGGLE"
+  },
+  {
+    "id": "3524012003",
+    "district_id": "352401",
+    "name": "KEDUNGKUMPUL"
+  },
+  {
+    "id": "3524012004",
+    "district_id": "352401",
+    "name": "SUKORAME"
+  },
+  {
+    "id": "3524012005",
+    "district_id": "352401",
+    "name": "MRAGEL"
+  },
+  {
+    "id": "3524012006",
+    "district_id": "352401",
+    "name": "KEDUNGREJO"
+  },
+  {
+    "id": "3524012007",
+    "district_id": "352401",
+    "name": "SEWOR"
+  },
+  {
+    "id": "3524012008",
+    "district_id": "352401",
+    "name": "WEDORO"
+  },
+  {
+    "id": "3524012009",
+    "district_id": "352401",
+    "name": "PENDOWOKUMPUL"
+  }
+]

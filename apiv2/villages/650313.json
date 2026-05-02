@@ -1,1 +1,22 @@
-[{"id": "6503132001", "district_id": "650313", "name": "SRINANTI"}, {"id": "6503132002", "district_id": "650313", "name": "TABUR LESTARI"}, {"id": "6503132003", "district_id": "650313", "name": "SAMAENRE SEMAJA"}, {"id": "6503132004", "district_id": "650313", "name": "SEKADUYAN TAKA"}]
+[
+  {
+    "id": "6503132001",
+    "district_id": "650313",
+    "name": "SRINANTI"
+  },
+  {
+    "id": "6503132002",
+    "district_id": "650313",
+    "name": "TABUR LESTARI"
+  },
+  {
+    "id": "6503132003",
+    "district_id": "650313",
+    "name": "SAMAENRE SEMAJA"
+  },
+  {
+    "id": "6503132004",
+    "district_id": "650313",
+    "name": "SEKADUYAN TAKA"
+  }
+]

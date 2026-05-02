@@ -1,1 +1,32 @@
-[{"id": "7403302001", "district_id": "740330", "name": "KAFO FOO"}, {"id": "7403302002", "district_id": "740330", "name": "LEMBO"}, {"id": "7403302003", "district_id": "740330", "name": "KILAMBIBITO"}, {"id": "7403302004", "district_id": "740330", "name": "BAHUTARA"}, {"id": "7403302005", "district_id": "740330", "name": "KONTU KOWUNA"}, {"id": "7403302006", "district_id": "740330", "name": "LAHORIO"}]
+[
+  {
+    "id": "7403302001",
+    "district_id": "740330",
+    "name": "KAFO FOO"
+  },
+  {
+    "id": "7403302002",
+    "district_id": "740330",
+    "name": "LEMBO"
+  },
+  {
+    "id": "7403302003",
+    "district_id": "740330",
+    "name": "KILAMBIBITO"
+  },
+  {
+    "id": "7403302004",
+    "district_id": "740330",
+    "name": "BAHUTARA"
+  },
+  {
+    "id": "7403302005",
+    "district_id": "740330",
+    "name": "KONTU KOWUNA"
+  },
+  {
+    "id": "7403302006",
+    "district_id": "740330",
+    "name": "LAHORIO"
+  }
+]

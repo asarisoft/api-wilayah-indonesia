@@ -1,1 +1,47 @@
-[{"id": "9602022001", "district_id": "960202", "name": "MATE"}, {"id": "9602022002", "district_id": "960202", "name": "SERKOS"}, {"id": "9602022003", "district_id": "960202", "name": "SOLTA BARU"}, {"id": "9602022004", "district_id": "960202", "name": "WADOI"}, {"id": "9602022005", "district_id": "960202", "name": "ISOGO"}, {"id": "9602022006", "district_id": "960202", "name": "SIBAE"}, {"id": "9602022007", "district_id": "960202", "name": "MOGIBI"}, {"id": "9602022008", "district_id": "960202", "name": "ODEARE"}, {"id": "9602022009", "district_id": "960202", "name": "SIRI-SIRI"}]
+[
+  {
+    "id": "9602022001",
+    "district_id": "960202",
+    "name": "MATE"
+  },
+  {
+    "id": "9602022002",
+    "district_id": "960202",
+    "name": "SERKOS"
+  },
+  {
+    "id": "9602022003",
+    "district_id": "960202",
+    "name": "SOLTA BARU"
+  },
+  {
+    "id": "9602022004",
+    "district_id": "960202",
+    "name": "WADOI"
+  },
+  {
+    "id": "9602022005",
+    "district_id": "960202",
+    "name": "ISOGO"
+  },
+  {
+    "id": "9602022006",
+    "district_id": "960202",
+    "name": "SIBAE"
+  },
+  {
+    "id": "9602022007",
+    "district_id": "960202",
+    "name": "MOGIBI"
+  },
+  {
+    "id": "9602022008",
+    "district_id": "960202",
+    "name": "ODEARE"
+  },
+  {
+    "id": "9602022009",
+    "district_id": "960202",
+    "name": "SIRI-SIRI"
+  }
+]

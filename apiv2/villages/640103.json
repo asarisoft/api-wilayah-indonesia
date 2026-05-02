@@ -1,1 +1,77 @@
-[{"id": "6401032001", "district_id": "640103", "name": "LEMPESU"}, {"id": "6401032002", "district_id": "640103", "name": "BEKOSO"}, {"id": "6401032003", "district_id": "640103", "name": "DAMIT"}, {"id": "6401032004", "district_id": "640103", "name": "SUATANG"}, {"id": "6401032005", "district_id": "640103", "name": "SULILIRAN"}, {"id": "6401032006", "district_id": "640103", "name": "PASIR BELENGKONG"}, {"id": "6401032007", "district_id": "640103", "name": "SANGKURIMAN"}, {"id": "6401032008", "district_id": "640103", "name": "LABURAN"}, {"id": "6401032009", "district_id": "640103", "name": "SULILIRAN BARU"}, {"id": "6401032010", "district_id": "640103", "name": "KERESIK BURA"}, {"id": "6401032011", "district_id": "640103", "name": "LABURAN BARU"}, {"id": "6401032012", "district_id": "640103", "name": "SENIUNG JAYA"}, {"id": "6401032013", "district_id": "640103", "name": "SUNGE BATU"}, {"id": "6401032014", "district_id": "640103", "name": "OLONG PINANG"}, {"id": "6401032015", "district_id": "640103", "name": "SUATANG KETEBAN"}]
+[
+  {
+    "id": "6401032001",
+    "district_id": "640103",
+    "name": "LEMPESU"
+  },
+  {
+    "id": "6401032002",
+    "district_id": "640103",
+    "name": "BEKOSO"
+  },
+  {
+    "id": "6401032003",
+    "district_id": "640103",
+    "name": "DAMIT"
+  },
+  {
+    "id": "6401032004",
+    "district_id": "640103",
+    "name": "SUATANG"
+  },
+  {
+    "id": "6401032005",
+    "district_id": "640103",
+    "name": "SULILIRAN"
+  },
+  {
+    "id": "6401032006",
+    "district_id": "640103",
+    "name": "PASIR BELENGKONG"
+  },
+  {
+    "id": "6401032007",
+    "district_id": "640103",
+    "name": "SANGKURIMAN"
+  },
+  {
+    "id": "6401032008",
+    "district_id": "640103",
+    "name": "LABURAN"
+  },
+  {
+    "id": "6401032009",
+    "district_id": "640103",
+    "name": "SULILIRAN BARU"
+  },
+  {
+    "id": "6401032010",
+    "district_id": "640103",
+    "name": "KERESIK BURA"
+  },
+  {
+    "id": "6401032011",
+    "district_id": "640103",
+    "name": "LABURAN BARU"
+  },
+  {
+    "id": "6401032012",
+    "district_id": "640103",
+    "name": "SENIUNG JAYA"
+  },
+  {
+    "id": "6401032013",
+    "district_id": "640103",
+    "name": "SUNGE BATU"
+  },
+  {
+    "id": "6401032014",
+    "district_id": "640103",
+    "name": "OLONG PINANG"
+  },
+  {
+    "id": "6401032015",
+    "district_id": "640103",
+    "name": "SUATANG KETEBAN"
+  }
+]

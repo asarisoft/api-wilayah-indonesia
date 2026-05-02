@@ -1,1 +1,27 @@
-[{"id": "1472061001", "district_id": "147206", "name": "LAKSAMANA"}, {"id": "1472061002", "district_id": "147206", "name": "RIMBA SEKAMPUNG"}, {"id": "1472061003", "district_id": "147206", "name": "DUMAI KOTA"}, {"id": "1472061004", "district_id": "147206", "name": "BINTAN"}, {"id": "1472061005", "district_id": "147206", "name": "SUKAJADI"}]
+[
+  {
+    "id": "1472061001",
+    "district_id": "147206",
+    "name": "LAKSAMANA"
+  },
+  {
+    "id": "1472061002",
+    "district_id": "147206",
+    "name": "RIMBA SEKAMPUNG"
+  },
+  {
+    "id": "1472061003",
+    "district_id": "147206",
+    "name": "DUMAI KOTA"
+  },
+  {
+    "id": "1472061004",
+    "district_id": "147206",
+    "name": "BINTAN"
+  },
+  {
+    "id": "1472061005",
+    "district_id": "147206",
+    "name": "SUKAJADI"
+  }
+]

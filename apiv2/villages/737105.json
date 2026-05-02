@@ -1,1 +1,42 @@
-[{"id": "7371051001", "district_id": "737105", "name": "PATTUNUANG"}, {"id": "7371051002", "district_id": "737105", "name": "MELAYU"}, {"id": "7371051003", "district_id": "737105", "name": "BUTUNG"}, {"id": "7371051004", "district_id": "737105", "name": "MALIMONGAN TUA"}, {"id": "7371051005", "district_id": "737105", "name": "ENDE"}, {"id": "7371051006", "district_id": "737105", "name": "MAMPU"}, {"id": "7371051007", "district_id": "737105", "name": "MALIMONGAN"}, {"id": "7371051008", "district_id": "737105", "name": "MELAYU BARU"}]
+[
+  {
+    "id": "7371051001",
+    "district_id": "737105",
+    "name": "PATTUNUANG"
+  },
+  {
+    "id": "7371051002",
+    "district_id": "737105",
+    "name": "MELAYU"
+  },
+  {
+    "id": "7371051003",
+    "district_id": "737105",
+    "name": "BUTUNG"
+  },
+  {
+    "id": "7371051004",
+    "district_id": "737105",
+    "name": "MALIMONGAN TUA"
+  },
+  {
+    "id": "7371051005",
+    "district_id": "737105",
+    "name": "ENDE"
+  },
+  {
+    "id": "7371051006",
+    "district_id": "737105",
+    "name": "MAMPU"
+  },
+  {
+    "id": "7371051007",
+    "district_id": "737105",
+    "name": "MALIMONGAN"
+  },
+  {
+    "id": "7371051008",
+    "district_id": "737105",
+    "name": "MELAYU BARU"
+  }
+]

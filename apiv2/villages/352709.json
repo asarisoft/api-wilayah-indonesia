@@ -1,1 +1,102 @@
-[{"id": "3527092001", "district_id": "352709", "name": "OLOR"}, {"id": "3527092002", "district_id": "352709", "name": "PLANGGARAN BARAT"}, {"id": "3527092003", "district_id": "352709", "name": "PLANGGARAN TIMUR"}, {"id": "3527092004", "district_id": "352709", "name": "TOLANG"}, {"id": "3527092005", "district_id": "352709", "name": "LAR LAR"}, {"id": "3527092006", "district_id": "352709", "name": "TLAGAH"}, {"id": "3527092007", "district_id": "352709", "name": "NAGASAREH"}, {"id": "3527092008", "district_id": "352709", "name": "TRAPANG"}, {"id": "3527092009", "district_id": "352709", "name": "TEROSAN"}, {"id": "3527092010", "district_id": "352709", "name": "ASEM JARAN"}, {"id": "3527092011", "district_id": "352709", "name": "KEMBANG JERUK"}, {"id": "3527092012", "district_id": "352709", "name": "MORBATOH"}, {"id": "3527092013", "district_id": "352709", "name": "MONTOR"}, {"id": "3527092014", "district_id": "352709", "name": "TEBANAH"}, {"id": "3527092015", "district_id": "352709", "name": "NEPA"}, {"id": "3527092016", "district_id": "352709", "name": "BATIOH"}, {"id": "3527092017", "district_id": "352709", "name": "MASARAN"}, {"id": "3527092018", "district_id": "352709", "name": "BANYUATES"}, {"id": "3527092019", "district_id": "352709", "name": "JATRA TIMUR"}, {"id": "3527092020", "district_id": "352709", "name": "TAPA'AN"}]
+[
+  {
+    "id": "3527092001",
+    "district_id": "352709",
+    "name": "OLOR"
+  },
+  {
+    "id": "3527092002",
+    "district_id": "352709",
+    "name": "PLANGGARAN BARAT"
+  },
+  {
+    "id": "3527092003",
+    "district_id": "352709",
+    "name": "PLANGGARAN TIMUR"
+  },
+  {
+    "id": "3527092004",
+    "district_id": "352709",
+    "name": "TOLANG"
+  },
+  {
+    "id": "3527092005",
+    "district_id": "352709",
+    "name": "LAR LAR"
+  },
+  {
+    "id": "3527092006",
+    "district_id": "352709",
+    "name": "TLAGAH"
+  },
+  {
+    "id": "3527092007",
+    "district_id": "352709",
+    "name": "NAGASAREH"
+  },
+  {
+    "id": "3527092008",
+    "district_id": "352709",
+    "name": "TRAPANG"
+  },
+  {
+    "id": "3527092009",
+    "district_id": "352709",
+    "name": "TEROSAN"
+  },
+  {
+    "id": "3527092010",
+    "district_id": "352709",
+    "name": "ASEM JARAN"
+  },
+  {
+    "id": "3527092011",
+    "district_id": "352709",
+    "name": "KEMBANG JERUK"
+  },
+  {
+    "id": "3527092012",
+    "district_id": "352709",
+    "name": "MORBATOH"
+  },
+  {
+    "id": "3527092013",
+    "district_id": "352709",
+    "name": "MONTOR"
+  },
+  {
+    "id": "3527092014",
+    "district_id": "352709",
+    "name": "TEBANAH"
+  },
+  {
+    "id": "3527092015",
+    "district_id": "352709",
+    "name": "NEPA"
+  },
+  {
+    "id": "3527092016",
+    "district_id": "352709",
+    "name": "BATIOH"
+  },
+  {
+    "id": "3527092017",
+    "district_id": "352709",
+    "name": "MASARAN"
+  },
+  {
+    "id": "3527092018",
+    "district_id": "352709",
+    "name": "BANYUATES"
+  },
+  {
+    "id": "3527092019",
+    "district_id": "352709",
+    "name": "JATRA TIMUR"
+  },
+  {
+    "id": "3527092020",
+    "district_id": "352709",
+    "name": "TAPA'AN"
+  }
+]

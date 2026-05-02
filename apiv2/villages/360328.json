@@ -1,1 +1,32 @@
-[{"id": "3603281001", "district_id": "360328", "name": "KELAPA DUA"}, {"id": "3603281002", "district_id": "360328", "name": "BENCONGAN"}, {"id": "3603281003", "district_id": "360328", "name": "BENCONGAN INDAH"}, {"id": "3603281004", "district_id": "360328", "name": "PAKULONAN BARAT"}, {"id": "3603281005", "district_id": "360328", "name": "BOJONG NANGKA"}, {"id": "3603282006", "district_id": "360328", "name": "CURUG SANGERENG"}]
+[
+  {
+    "id": "3603281001",
+    "district_id": "360328",
+    "name": "KELAPA DUA"
+  },
+  {
+    "id": "3603281002",
+    "district_id": "360328",
+    "name": "BENCONGAN"
+  },
+  {
+    "id": "3603281003",
+    "district_id": "360328",
+    "name": "BENCONGAN INDAH"
+  },
+  {
+    "id": "3603281004",
+    "district_id": "360328",
+    "name": "PAKULONAN BARAT"
+  },
+  {
+    "id": "3603281005",
+    "district_id": "360328",
+    "name": "BOJONG NANGKA"
+  },
+  {
+    "id": "3603282006",
+    "district_id": "360328",
+    "name": "CURUG SANGERENG"
+  }
+]

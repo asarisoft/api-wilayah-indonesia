@@ -1,1 +1,62 @@
-[{"id": "3328172001", "district_id": "332817", "name": "SIDAMULYA"}, {"id": "3328172002", "district_id": "332817", "name": "KEDUNGJATI"}, {"id": "3328172003", "district_id": "332817", "name": "KENDAYAKAN"}, {"id": "3328172004", "district_id": "332817", "name": "WARUREJA"}, {"id": "3328172005", "district_id": "332817", "name": "DEMANGHARJO"}, {"id": "3328172006", "district_id": "332817", "name": "BANJARTURI"}, {"id": "3328172007", "district_id": "332817", "name": "KEDUNGKELOR"}, {"id": "3328172008", "district_id": "332817", "name": "SUKAREJA"}, {"id": "3328172009", "district_id": "332817", "name": "BANJARAGUNG"}, {"id": "3328172010", "district_id": "332817", "name": "SIGENTONG"}, {"id": "3328172011", "district_id": "332817", "name": "KREMAN"}, {"id": "3328172012", "district_id": "332817", "name": "RANGI MULYA"}]
+[
+  {
+    "id": "3328172001",
+    "district_id": "332817",
+    "name": "SIDAMULYA"
+  },
+  {
+    "id": "3328172002",
+    "district_id": "332817",
+    "name": "KEDUNGJATI"
+  },
+  {
+    "id": "3328172003",
+    "district_id": "332817",
+    "name": "KENDAYAKAN"
+  },
+  {
+    "id": "3328172004",
+    "district_id": "332817",
+    "name": "WARUREJA"
+  },
+  {
+    "id": "3328172005",
+    "district_id": "332817",
+    "name": "DEMANGHARJO"
+  },
+  {
+    "id": "3328172006",
+    "district_id": "332817",
+    "name": "BANJARTURI"
+  },
+  {
+    "id": "3328172007",
+    "district_id": "332817",
+    "name": "KEDUNGKELOR"
+  },
+  {
+    "id": "3328172008",
+    "district_id": "332817",
+    "name": "SUKAREJA"
+  },
+  {
+    "id": "3328172009",
+    "district_id": "332817",
+    "name": "BANJARAGUNG"
+  },
+  {
+    "id": "3328172010",
+    "district_id": "332817",
+    "name": "SIGENTONG"
+  },
+  {
+    "id": "3328172011",
+    "district_id": "332817",
+    "name": "KREMAN"
+  },
+  {
+    "id": "3328172012",
+    "district_id": "332817",
+    "name": "RANGI MULYA"
+  }
+]

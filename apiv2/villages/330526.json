@@ -1,1 +1,72 @@
-[{"id": "3305262001", "district_id": "330526", "name": "WIDORO"}, {"id": "3305262002", "district_id": "330526", "name": "SELING"}, {"id": "3305262003", "district_id": "330526", "name": "PENCIL"}, {"id": "3305262004", "district_id": "330526", "name": "KEDUNGWARU"}, {"id": "3305262005", "district_id": "330526", "name": "KALIGENDING"}, {"id": "3305262006", "district_id": "330526", "name": "PLUMBON"}, {"id": "3305262007", "district_id": "330526", "name": "PUJOTIRTO"}, {"id": "3305262008", "district_id": "330526", "name": "WADASMALANG"}, {"id": "3305262009", "district_id": "330526", "name": "TLEPOK"}, {"id": "3305262010", "district_id": "330526", "name": "KALISONO"}, {"id": "3305262011", "district_id": "330526", "name": "LANGSE"}, {"id": "3305262012", "district_id": "330526", "name": "BANIORO"}, {"id": "3305262013", "district_id": "330526", "name": "KARANGSAMBUNG"}, {"id": "3305262014", "district_id": "330526", "name": "TOTOGAN"}]
+[
+  {
+    "id": "3305262001",
+    "district_id": "330526",
+    "name": "WIDORO"
+  },
+  {
+    "id": "3305262002",
+    "district_id": "330526",
+    "name": "SELING"
+  },
+  {
+    "id": "3305262003",
+    "district_id": "330526",
+    "name": "PENCIL"
+  },
+  {
+    "id": "3305262004",
+    "district_id": "330526",
+    "name": "KEDUNGWARU"
+  },
+  {
+    "id": "3305262005",
+    "district_id": "330526",
+    "name": "KALIGENDING"
+  },
+  {
+    "id": "3305262006",
+    "district_id": "330526",
+    "name": "PLUMBON"
+  },
+  {
+    "id": "3305262007",
+    "district_id": "330526",
+    "name": "PUJOTIRTO"
+  },
+  {
+    "id": "3305262008",
+    "district_id": "330526",
+    "name": "WADASMALANG"
+  },
+  {
+    "id": "3305262009",
+    "district_id": "330526",
+    "name": "TLEPOK"
+  },
+  {
+    "id": "3305262010",
+    "district_id": "330526",
+    "name": "KALISONO"
+  },
+  {
+    "id": "3305262011",
+    "district_id": "330526",
+    "name": "LANGSE"
+  },
+  {
+    "id": "3305262012",
+    "district_id": "330526",
+    "name": "BANIORO"
+  },
+  {
+    "id": "3305262013",
+    "district_id": "330526",
+    "name": "KARANGSAMBUNG"
+  },
+  {
+    "id": "3305262014",
+    "district_id": "330526",
+    "name": "TOTOGAN"
+  }
+]

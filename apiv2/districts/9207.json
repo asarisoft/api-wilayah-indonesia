@@ -1,1 +1,67 @@
-[{"id": "920701", "regency_id": "9207", "name": "WASIOR"}, {"id": "920702", "regency_id": "9207", "name": "WINDESI"}, {"id": "920703", "regency_id": "9207", "name": "TELUK DUAIRI"}, {"id": "920704", "regency_id": "9207", "name": "WONDIBOY"}, {"id": "920705", "regency_id": "9207", "name": "WAMESA"}, {"id": "920706", "regency_id": "9207", "name": "RUMBERPON"}, {"id": "920707", "regency_id": "9207", "name": "NAIKERE"}, {"id": "920708", "regency_id": "9207", "name": "RASIEI"}, {"id": "920709", "regency_id": "9207", "name": "KURI WAMESA"}, {"id": "920710", "regency_id": "9207", "name": "ROON"}, {"id": "920711", "regency_id": "9207", "name": "ROSWAR"}, {"id": "920712", "regency_id": "9207", "name": "NIKIWAR"}, {"id": "920713", "regency_id": "9207", "name": "SOUG JAYA"}]
+[
+  {
+    "id": "920701",
+    "regency_id": "9207",
+    "name": "WASIOR"
+  },
+  {
+    "id": "920702",
+    "regency_id": "9207",
+    "name": "WINDESI"
+  },
+  {
+    "id": "920703",
+    "regency_id": "9207",
+    "name": "TELUK DUAIRI"
+  },
+  {
+    "id": "920704",
+    "regency_id": "9207",
+    "name": "WONDIBOY"
+  },
+  {
+    "id": "920705",
+    "regency_id": "9207",
+    "name": "WAMESA"
+  },
+  {
+    "id": "920706",
+    "regency_id": "9207",
+    "name": "RUMBERPON"
+  },
+  {
+    "id": "920707",
+    "regency_id": "9207",
+    "name": "NAIKERE"
+  },
+  {
+    "id": "920708",
+    "regency_id": "9207",
+    "name": "RASIEI"
+  },
+  {
+    "id": "920709",
+    "regency_id": "9207",
+    "name": "KURI WAMESA"
+  },
+  {
+    "id": "920710",
+    "regency_id": "9207",
+    "name": "ROON"
+  },
+  {
+    "id": "920711",
+    "regency_id": "9207",
+    "name": "ROSWAR"
+  },
+  {
+    "id": "920712",
+    "regency_id": "9207",
+    "name": "NIKIWAR"
+  },
+  {
+    "id": "920713",
+    "regency_id": "9207",
+    "name": "SOUG JAYA"
+  }
+]

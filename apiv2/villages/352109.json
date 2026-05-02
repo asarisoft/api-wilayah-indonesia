@@ -1,1 +1,82 @@
-[{"id": "3521091013", "district_id": "352109", "name": "MARGOMULYO"}, {"id": "3521091014", "district_id": "352109", "name": "KARANGTENGAH"}, {"id": "3521091015", "district_id": "352109", "name": "KETANGGI"}, {"id": "3521091016", "district_id": "352109", "name": "PELEM"}, {"id": "3521092001", "district_id": "352109", "name": "MANGUNHARJO"}, {"id": "3521092002", "district_id": "352109", "name": "KANDANGAN"}, {"id": "3521092003", "district_id": "352109", "name": "KARTOHARJO"}, {"id": "3521092004", "district_id": "352109", "name": "KARANGASRI"}, {"id": "3521092005", "district_id": "352109", "name": "BANYUURIP"}, {"id": "3521092006", "district_id": "352109", "name": "BERAN"}, {"id": "3521092007", "district_id": "352109", "name": "JURUREJO"}, {"id": "3521092008", "district_id": "352109", "name": "GRUDO"}, {"id": "3521092009", "district_id": "352109", "name": "WATUALANG"}, {"id": "3521092010", "district_id": "352109", "name": "NGAWI"}, {"id": "3521092011", "district_id": "352109", "name": "KARANGTENGAH PRANDON"}, {"id": "3521092012", "district_id": "352109", "name": "KEREK"}]
+[
+  {
+    "id": "3521091013",
+    "district_id": "352109",
+    "name": "MARGOMULYO"
+  },
+  {
+    "id": "3521091014",
+    "district_id": "352109",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3521091015",
+    "district_id": "352109",
+    "name": "KETANGGI"
+  },
+  {
+    "id": "3521091016",
+    "district_id": "352109",
+    "name": "PELEM"
+  },
+  {
+    "id": "3521092001",
+    "district_id": "352109",
+    "name": "MANGUNHARJO"
+  },
+  {
+    "id": "3521092002",
+    "district_id": "352109",
+    "name": "KANDANGAN"
+  },
+  {
+    "id": "3521092003",
+    "district_id": "352109",
+    "name": "KARTOHARJO"
+  },
+  {
+    "id": "3521092004",
+    "district_id": "352109",
+    "name": "KARANGASRI"
+  },
+  {
+    "id": "3521092005",
+    "district_id": "352109",
+    "name": "BANYUURIP"
+  },
+  {
+    "id": "3521092006",
+    "district_id": "352109",
+    "name": "BERAN"
+  },
+  {
+    "id": "3521092007",
+    "district_id": "352109",
+    "name": "JURUREJO"
+  },
+  {
+    "id": "3521092008",
+    "district_id": "352109",
+    "name": "GRUDO"
+  },
+  {
+    "id": "3521092009",
+    "district_id": "352109",
+    "name": "WATUALANG"
+  },
+  {
+    "id": "3521092010",
+    "district_id": "352109",
+    "name": "NGAWI"
+  },
+  {
+    "id": "3521092011",
+    "district_id": "352109",
+    "name": "KARANGTENGAH PRANDON"
+  },
+  {
+    "id": "3521092012",
+    "district_id": "352109",
+    "name": "KEREK"
+  }
+]

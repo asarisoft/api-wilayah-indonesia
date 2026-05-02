@@ -1,1 +1,72 @@
-[{"id": "350301", "regency_id": "3503", "name": "PANGGUL"}, {"id": "350302", "regency_id": "3503", "name": "MUNJUNGAN"}, {"id": "350303", "regency_id": "3503", "name": "PULE"}, {"id": "350304", "regency_id": "3503", "name": "DONGKO"}, {"id": "350305", "regency_id": "3503", "name": "TUGU"}, {"id": "350306", "regency_id": "3503", "name": "KARANGAN"}, {"id": "350307", "regency_id": "3503", "name": "KAMPAK"}, {"id": "350308", "regency_id": "3503", "name": "WATULIMO"}, {"id": "350309", "regency_id": "3503", "name": "BENDUNGAN"}, {"id": "350310", "regency_id": "3503", "name": "GANDUSARI"}, {"id": "350311", "regency_id": "3503", "name": "TRENGGALEK"}, {"id": "350312", "regency_id": "3503", "name": "POGALAN"}, {"id": "350313", "regency_id": "3503", "name": "DURENAN"}, {"id": "350314", "regency_id": "3503", "name": "SURUH"}]
+[
+  {
+    "id": "350301",
+    "regency_id": "3503",
+    "name": "PANGGUL"
+  },
+  {
+    "id": "350302",
+    "regency_id": "3503",
+    "name": "MUNJUNGAN"
+  },
+  {
+    "id": "350303",
+    "regency_id": "3503",
+    "name": "PULE"
+  },
+  {
+    "id": "350304",
+    "regency_id": "3503",
+    "name": "DONGKO"
+  },
+  {
+    "id": "350305",
+    "regency_id": "3503",
+    "name": "TUGU"
+  },
+  {
+    "id": "350306",
+    "regency_id": "3503",
+    "name": "KARANGAN"
+  },
+  {
+    "id": "350307",
+    "regency_id": "3503",
+    "name": "KAMPAK"
+  },
+  {
+    "id": "350308",
+    "regency_id": "3503",
+    "name": "WATULIMO"
+  },
+  {
+    "id": "350309",
+    "regency_id": "3503",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "350310",
+    "regency_id": "3503",
+    "name": "GANDUSARI"
+  },
+  {
+    "id": "350311",
+    "regency_id": "3503",
+    "name": "TRENGGALEK"
+  },
+  {
+    "id": "350312",
+    "regency_id": "3503",
+    "name": "POGALAN"
+  },
+  {
+    "id": "350313",
+    "regency_id": "3503",
+    "name": "DURENAN"
+  },
+  {
+    "id": "350314",
+    "regency_id": "3503",
+    "name": "SURUH"
+  }
+]

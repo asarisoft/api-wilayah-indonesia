@@ -1,1 +1,37 @@
-[{"id": "9405152001", "district_id": "940515", "name": "KILUNGGAME"}, {"id": "9405152002", "district_id": "940515", "name": "BAKCINI"}, {"id": "9405152003", "district_id": "940515", "name": "TIMOBUT"}, {"id": "9405152004", "district_id": "940515", "name": "TAGALAME I"}, {"id": "9405152005", "district_id": "940515", "name": "WONELUPAGA"}, {"id": "9405152006", "district_id": "940515", "name": "KOMAPAGA"}, {"id": "9405152007", "district_id": "940515", "name": "TIMOBUT EGEWAK"}]
+[
+  {
+    "id": "9405152001",
+    "district_id": "940515",
+    "name": "KILUNGGAME"
+  },
+  {
+    "id": "9405152002",
+    "district_id": "940515",
+    "name": "BAKCINI"
+  },
+  {
+    "id": "9405152003",
+    "district_id": "940515",
+    "name": "TIMOBUT"
+  },
+  {
+    "id": "9405152004",
+    "district_id": "940515",
+    "name": "TAGALAME I"
+  },
+  {
+    "id": "9405152005",
+    "district_id": "940515",
+    "name": "WONELUPAGA"
+  },
+  {
+    "id": "9405152006",
+    "district_id": "940515",
+    "name": "KOMAPAGA"
+  },
+  {
+    "id": "9405152007",
+    "district_id": "940515",
+    "name": "TIMOBUT EGEWAK"
+  }
+]

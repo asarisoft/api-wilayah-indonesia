@@ -1,1 +1,62 @@
-[{"id": "3302082001", "district_id": "330208", "name": "PLANGKAPAN"}, {"id": "3302082002", "district_id": "330208", "name": "GUMELAR LOR"}, {"id": "3302082003", "district_id": "330208", "name": "GUMELAR KIDUL"}, {"id": "3302082004", "district_id": "330208", "name": "KARANGPETIR"}, {"id": "3302082005", "district_id": "330208", "name": "GEBANGSARI"}, {"id": "3302082006", "district_id": "330208", "name": "PREMBUN"}, {"id": "3302082007", "district_id": "330208", "name": "BUNIAYU"}, {"id": "3302082008", "district_id": "330208", "name": "PESANTREN"}, {"id": "3302082009", "district_id": "330208", "name": "KARANGPUCUNG"}, {"id": "3302082010", "district_id": "330208", "name": "KAMULYAN"}, {"id": "3302082011", "district_id": "330208", "name": "PURWODADI"}, {"id": "3302082012", "district_id": "330208", "name": "WATUAGUNG"}]
+[
+  {
+    "id": "3302082001",
+    "district_id": "330208",
+    "name": "PLANGKAPAN"
+  },
+  {
+    "id": "3302082002",
+    "district_id": "330208",
+    "name": "GUMELAR LOR"
+  },
+  {
+    "id": "3302082003",
+    "district_id": "330208",
+    "name": "GUMELAR KIDUL"
+  },
+  {
+    "id": "3302082004",
+    "district_id": "330208",
+    "name": "KARANGPETIR"
+  },
+  {
+    "id": "3302082005",
+    "district_id": "330208",
+    "name": "GEBANGSARI"
+  },
+  {
+    "id": "3302082006",
+    "district_id": "330208",
+    "name": "PREMBUN"
+  },
+  {
+    "id": "3302082007",
+    "district_id": "330208",
+    "name": "BUNIAYU"
+  },
+  {
+    "id": "3302082008",
+    "district_id": "330208",
+    "name": "PESANTREN"
+  },
+  {
+    "id": "3302082009",
+    "district_id": "330208",
+    "name": "KARANGPUCUNG"
+  },
+  {
+    "id": "3302082010",
+    "district_id": "330208",
+    "name": "KAMULYAN"
+  },
+  {
+    "id": "3302082011",
+    "district_id": "330208",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "3302082012",
+    "district_id": "330208",
+    "name": "WATUAGUNG"
+  }
+]

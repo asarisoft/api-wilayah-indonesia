@@ -1,1 +1,47 @@
-[{"id": "9115032006", "district_id": "911503", "name": "SAURISIRAMI"}, {"id": "9115032009", "district_id": "911503", "name": "SINONDE"}, {"id": "9115032013", "district_id": "911503", "name": "KALI BARU"}, {"id": "9115032014", "district_id": "911503", "name": "SIRAMI"}, {"id": "9115032015", "district_id": "911503", "name": "BUNGGU"}, {"id": "9115032016", "district_id": "911503", "name": "KOWOGI"}, {"id": "9115032017", "district_id": "911503", "name": "EMAURI"}, {"id": "9115032018", "district_id": "911503", "name": "OBUTAY"}, {"id": "9115032019", "district_id": "911503", "name": "WAIRO"}]
+[
+  {
+    "id": "9115032006",
+    "district_id": "911503",
+    "name": "SAURISIRAMI"
+  },
+  {
+    "id": "9115032009",
+    "district_id": "911503",
+    "name": "SINONDE"
+  },
+  {
+    "id": "9115032013",
+    "district_id": "911503",
+    "name": "KALI BARU"
+  },
+  {
+    "id": "9115032014",
+    "district_id": "911503",
+    "name": "SIRAMI"
+  },
+  {
+    "id": "9115032015",
+    "district_id": "911503",
+    "name": "BUNGGU"
+  },
+  {
+    "id": "9115032016",
+    "district_id": "911503",
+    "name": "KOWOGI"
+  },
+  {
+    "id": "9115032017",
+    "district_id": "911503",
+    "name": "EMAURI"
+  },
+  {
+    "id": "9115032018",
+    "district_id": "911503",
+    "name": "OBUTAY"
+  },
+  {
+    "id": "9115032019",
+    "district_id": "911503",
+    "name": "WAIRO"
+  }
+]

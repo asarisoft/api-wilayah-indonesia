@@ -1,1 +1,72 @@
-[{"id": "1502232001", "district_id": "150223", "name": "MUARA KIBUL"}, {"id": "1502232002", "district_id": "150223", "name": "TANJUNG PUTUS"}, {"id": "1502232003", "district_id": "150223", "name": "PULAU TEBAKAR"}, {"id": "1502232004", "district_id": "150223", "name": "BATANG KIBUL"}, {"id": "1502232005", "district_id": "150223", "name": "SUNGAI TABIR"}, {"id": "1502232006", "district_id": "150223", "name": "TELENTAM"}, {"id": "1502232007", "district_id": "150223", "name": "NGAOL"}, {"id": "1502232008", "district_id": "150223", "name": "AIR LIKI"}, {"id": "1502232009", "district_id": "150223", "name": "PULAU LEBAR"}, {"id": "1502232010", "district_id": "150223", "name": "MUARA LANGEH"}, {"id": "1502232011", "district_id": "150223", "name": "TANJUNG BERINGIN"}, {"id": "1502232012", "district_id": "150223", "name": "BARU KIBUL"}, {"id": "1502232013", "district_id": "150223", "name": "NGAOL ILIR"}, {"id": "1502232014", "district_id": "150223", "name": "AIR LIKI BARU"}]
+[
+  {
+    "id": "1502232001",
+    "district_id": "150223",
+    "name": "MUARA KIBUL"
+  },
+  {
+    "id": "1502232002",
+    "district_id": "150223",
+    "name": "TANJUNG PUTUS"
+  },
+  {
+    "id": "1502232003",
+    "district_id": "150223",
+    "name": "PULAU TEBAKAR"
+  },
+  {
+    "id": "1502232004",
+    "district_id": "150223",
+    "name": "BATANG KIBUL"
+  },
+  {
+    "id": "1502232005",
+    "district_id": "150223",
+    "name": "SUNGAI TABIR"
+  },
+  {
+    "id": "1502232006",
+    "district_id": "150223",
+    "name": "TELENTAM"
+  },
+  {
+    "id": "1502232007",
+    "district_id": "150223",
+    "name": "NGAOL"
+  },
+  {
+    "id": "1502232008",
+    "district_id": "150223",
+    "name": "AIR LIKI"
+  },
+  {
+    "id": "1502232009",
+    "district_id": "150223",
+    "name": "PULAU LEBAR"
+  },
+  {
+    "id": "1502232010",
+    "district_id": "150223",
+    "name": "MUARA LANGEH"
+  },
+  {
+    "id": "1502232011",
+    "district_id": "150223",
+    "name": "TANJUNG BERINGIN"
+  },
+  {
+    "id": "1502232012",
+    "district_id": "150223",
+    "name": "BARU KIBUL"
+  },
+  {
+    "id": "1502232013",
+    "district_id": "150223",
+    "name": "NGAOL ILIR"
+  },
+  {
+    "id": "1502232014",
+    "district_id": "150223",
+    "name": "AIR LIKI BARU"
+  }
+]

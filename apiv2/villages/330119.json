@@ -1,1 +1,37 @@
-[{"id": "3301192001", "district_id": "330119", "name": "PATIMUAN"}, {"id": "3301192002", "district_id": "330119", "name": "RAWAAPU"}, {"id": "3301192003", "district_id": "330119", "name": "SIDAMUKTI"}, {"id": "3301192004", "district_id": "330119", "name": "PURWADADI"}, {"id": "3301192005", "district_id": "330119", "name": "CINYAWANG"}, {"id": "3301192006", "district_id": "330119", "name": "BULUPAYUNG"}, {"id": "3301192007", "district_id": "330119", "name": "CIMRUTU"}]
+[
+  {
+    "id": "3301192001",
+    "district_id": "330119",
+    "name": "PATIMUAN"
+  },
+  {
+    "id": "3301192002",
+    "district_id": "330119",
+    "name": "RAWAAPU"
+  },
+  {
+    "id": "3301192003",
+    "district_id": "330119",
+    "name": "SIDAMUKTI"
+  },
+  {
+    "id": "3301192004",
+    "district_id": "330119",
+    "name": "PURWADADI"
+  },
+  {
+    "id": "3301192005",
+    "district_id": "330119",
+    "name": "CINYAWANG"
+  },
+  {
+    "id": "3301192006",
+    "district_id": "330119",
+    "name": "BULUPAYUNG"
+  },
+  {
+    "id": "3301192007",
+    "district_id": "330119",
+    "name": "CIMRUTU"
+  }
+]

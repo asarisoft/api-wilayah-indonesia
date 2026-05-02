@@ -1,1 +1,127 @@
-[{"id": "1401102001", "district_id": "140110", "name": "PETAPAHAN"}, {"id": "1401102002", "district_id": "140110", "name": "PANTAI CERMIN"}, {"id": "1401102003", "district_id": "140110", "name": "PETAPAHAN JAYA"}, {"id": "1401102004", "district_id": "140110", "name": "MUKTI SARI"}, {"id": "1401102005", "district_id": "140110", "name": "SUNGAI PUTIH"}, {"id": "1401102006", "district_id": "140110", "name": "INDRA SAKTI"}, {"id": "1401102007", "district_id": "140110", "name": "GADING SARI"}, {"id": "1401102008", "district_id": "140110", "name": "SUMBER MAKMUR"}, {"id": "1401102009", "district_id": "140110", "name": "PANCURAN GADING"}, {"id": "1401102010", "district_id": "140110", "name": "SARI GALUH"}, {"id": "1401102011", "district_id": "140110", "name": "TRI MANUNGGAL"}, {"id": "1401102012", "district_id": "140110", "name": "AIR TERBIT"}, {"id": "1401102013", "district_id": "140110", "name": "TANJUNG SAWIT"}, {"id": "1401102014", "district_id": "140110", "name": "PAGARUYUNG"}, {"id": "1401102015", "district_id": "140110", "name": "SIBUAK"}, {"id": "1401102016", "district_id": "140110", "name": "PELAMBAIAN"}, {"id": "1401102017", "district_id": "140110", "name": "KENANTAN"}, {"id": "1401102018", "district_id": "140110", "name": "INDRAPURI"}, {"id": "1401102019", "district_id": "140110", "name": "SUNGAI LAMBU MAKMUR"}, {"id": "1401102020", "district_id": "140110", "name": "MUARA MAHAT BARU"}, {"id": "1401102021", "district_id": "140110", "name": "KARYA INDAH"}, {"id": "1401102022", "district_id": "140110", "name": "KIJANG REJO"}, {"id": "1401102023", "district_id": "140110", "name": "SUNGAI AGUNG"}, {"id": "1401102024", "district_id": "140110", "name": "BENCAH KELUBI"}, {"id": "1401102025", "district_id": "140110", "name": "BATU GAJAH"}]
+[
+  {
+    "id": "1401102001",
+    "district_id": "140110",
+    "name": "PETAPAHAN"
+  },
+  {
+    "id": "1401102002",
+    "district_id": "140110",
+    "name": "PANTAI CERMIN"
+  },
+  {
+    "id": "1401102003",
+    "district_id": "140110",
+    "name": "PETAPAHAN JAYA"
+  },
+  {
+    "id": "1401102004",
+    "district_id": "140110",
+    "name": "MUKTI SARI"
+  },
+  {
+    "id": "1401102005",
+    "district_id": "140110",
+    "name": "SUNGAI PUTIH"
+  },
+  {
+    "id": "1401102006",
+    "district_id": "140110",
+    "name": "INDRA SAKTI"
+  },
+  {
+    "id": "1401102007",
+    "district_id": "140110",
+    "name": "GADING SARI"
+  },
+  {
+    "id": "1401102008",
+    "district_id": "140110",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "1401102009",
+    "district_id": "140110",
+    "name": "PANCURAN GADING"
+  },
+  {
+    "id": "1401102010",
+    "district_id": "140110",
+    "name": "SARI GALUH"
+  },
+  {
+    "id": "1401102011",
+    "district_id": "140110",
+    "name": "TRI MANUNGGAL"
+  },
+  {
+    "id": "1401102012",
+    "district_id": "140110",
+    "name": "AIR TERBIT"
+  },
+  {
+    "id": "1401102013",
+    "district_id": "140110",
+    "name": "TANJUNG SAWIT"
+  },
+  {
+    "id": "1401102014",
+    "district_id": "140110",
+    "name": "PAGARUYUNG"
+  },
+  {
+    "id": "1401102015",
+    "district_id": "140110",
+    "name": "SIBUAK"
+  },
+  {
+    "id": "1401102016",
+    "district_id": "140110",
+    "name": "PELAMBAIAN"
+  },
+  {
+    "id": "1401102017",
+    "district_id": "140110",
+    "name": "KENANTAN"
+  },
+  {
+    "id": "1401102018",
+    "district_id": "140110",
+    "name": "INDRAPURI"
+  },
+  {
+    "id": "1401102019",
+    "district_id": "140110",
+    "name": "SUNGAI LAMBU MAKMUR"
+  },
+  {
+    "id": "1401102020",
+    "district_id": "140110",
+    "name": "MUARA MAHAT BARU"
+  },
+  {
+    "id": "1401102021",
+    "district_id": "140110",
+    "name": "KARYA INDAH"
+  },
+  {
+    "id": "1401102022",
+    "district_id": "140110",
+    "name": "KIJANG REJO"
+  },
+  {
+    "id": "1401102023",
+    "district_id": "140110",
+    "name": "SUNGAI AGUNG"
+  },
+  {
+    "id": "1401102024",
+    "district_id": "140110",
+    "name": "BENCAH KELUBI"
+  },
+  {
+    "id": "1401102025",
+    "district_id": "140110",
+    "name": "BATU GAJAH"
+  }
+]

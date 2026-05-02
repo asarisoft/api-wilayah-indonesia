@@ -1,1 +1,42 @@
-[{"id": "6302032006", "district_id": "630203", "name": "TELUK SIRIH"}, {"id": "6302032007", "district_id": "630203", "name": "SUNGAI BAHIM"}, {"id": "6302032008", "district_id": "630203", "name": "TANJUNG SELOKA"}, {"id": "6302032009", "district_id": "630203", "name": "TANJUNG SERUDUNG"}, {"id": "6302032011", "district_id": "630203", "name": "ALLE-ALLE"}, {"id": "6302032013", "district_id": "630203", "name": "SUNGAI BULAN"}, {"id": "6302032015", "district_id": "630203", "name": "LABUAN MAS"}, {"id": "6302032016", "district_id": "630203", "name": "TANJUNG SELOKA UTARA"}]
+[
+  {
+    "id": "6302032006",
+    "district_id": "630203",
+    "name": "TELUK SIRIH"
+  },
+  {
+    "id": "6302032007",
+    "district_id": "630203",
+    "name": "SUNGAI BAHIM"
+  },
+  {
+    "id": "6302032008",
+    "district_id": "630203",
+    "name": "TANJUNG SELOKA"
+  },
+  {
+    "id": "6302032009",
+    "district_id": "630203",
+    "name": "TANJUNG SERUDUNG"
+  },
+  {
+    "id": "6302032011",
+    "district_id": "630203",
+    "name": "ALLE-ALLE"
+  },
+  {
+    "id": "6302032013",
+    "district_id": "630203",
+    "name": "SUNGAI BULAN"
+  },
+  {
+    "id": "6302032015",
+    "district_id": "630203",
+    "name": "LABUAN MAS"
+  },
+  {
+    "id": "6302032016",
+    "district_id": "630203",
+    "name": "TANJUNG SELOKA UTARA"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "6107112001", "district_id": "610711", "name": "CAPKALA"}, {"id": "6107112002", "district_id": "610711", "name": "MANDOR"}, {"id": "6107112003", "district_id": "610711", "name": "SETANDUK"}, {"id": "6107112004", "district_id": "610711", "name": "ARIS"}, {"id": "6107112005", "district_id": "610711", "name": "SEBANDUT"}, {"id": "6107112006", "district_id": "610711", "name": "PAWANGI"}]
+[
+  {
+    "id": "6107112001",
+    "district_id": "610711",
+    "name": "CAPKALA"
+  },
+  {
+    "id": "6107112002",
+    "district_id": "610711",
+    "name": "MANDOR"
+  },
+  {
+    "id": "6107112003",
+    "district_id": "610711",
+    "name": "SETANDUK"
+  },
+  {
+    "id": "6107112004",
+    "district_id": "610711",
+    "name": "ARIS"
+  },
+  {
+    "id": "6107112005",
+    "district_id": "610711",
+    "name": "SEBANDUT"
+  },
+  {
+    "id": "6107112006",
+    "district_id": "610711",
+    "name": "PAWANGI"
+  }
+]

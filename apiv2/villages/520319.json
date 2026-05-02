@@ -1,1 +1,92 @@
-[{"id": "5203192001", "district_id": "520319", "name": "SUKARARA"}, {"id": "5203192002", "district_id": "520319", "name": "GUNUNG RAJAK"}, {"id": "5203192003", "district_id": "520319", "name": "RENSING"}, {"id": "5203192004", "district_id": "520319", "name": "BUNGTIANG"}, {"id": "5203192005", "district_id": "520319", "name": "PENGKELAK MAS"}, {"id": "5203192006", "district_id": "520319", "name": "BOROK TOYANG"}, {"id": "5203192007", "district_id": "520319", "name": "RENSING RAYA"}, {"id": "5203192008", "district_id": "520319", "name": "PEMATUNG"}, {"id": "5203192009", "district_id": "520319", "name": "JEROGUNUNG"}, {"id": "5203192010", "district_id": "520319", "name": "PEJARING"}, {"id": "5203192011", "district_id": "520319", "name": "BOYEMARE"}, {"id": "5203192012", "district_id": "520319", "name": "MONTONG BETER"}, {"id": "5203192013", "district_id": "520319", "name": "MENGKURU"}, {"id": "5203192014", "district_id": "520319", "name": "GADUNGMAS"}, {"id": "5203192015", "district_id": "520319", "name": "KEMBANG ARE SAMPAI"}, {"id": "5203192016", "district_id": "520319", "name": "RENSING BAT"}, {"id": "5203192017", "district_id": "520319", "name": "TANAK KAKEN"}, {"id": "5203192018", "district_id": "520319", "name": "GERISAK SEMANGGELENG"}]
+[
+  {
+    "id": "5203192001",
+    "district_id": "520319",
+    "name": "SUKARARA"
+  },
+  {
+    "id": "5203192002",
+    "district_id": "520319",
+    "name": "GUNUNG RAJAK"
+  },
+  {
+    "id": "5203192003",
+    "district_id": "520319",
+    "name": "RENSING"
+  },
+  {
+    "id": "5203192004",
+    "district_id": "520319",
+    "name": "BUNGTIANG"
+  },
+  {
+    "id": "5203192005",
+    "district_id": "520319",
+    "name": "PENGKELAK MAS"
+  },
+  {
+    "id": "5203192006",
+    "district_id": "520319",
+    "name": "BOROK TOYANG"
+  },
+  {
+    "id": "5203192007",
+    "district_id": "520319",
+    "name": "RENSING RAYA"
+  },
+  {
+    "id": "5203192008",
+    "district_id": "520319",
+    "name": "PEMATUNG"
+  },
+  {
+    "id": "5203192009",
+    "district_id": "520319",
+    "name": "JEROGUNUNG"
+  },
+  {
+    "id": "5203192010",
+    "district_id": "520319",
+    "name": "PEJARING"
+  },
+  {
+    "id": "5203192011",
+    "district_id": "520319",
+    "name": "BOYEMARE"
+  },
+  {
+    "id": "5203192012",
+    "district_id": "520319",
+    "name": "MONTONG BETER"
+  },
+  {
+    "id": "5203192013",
+    "district_id": "520319",
+    "name": "MENGKURU"
+  },
+  {
+    "id": "5203192014",
+    "district_id": "520319",
+    "name": "GADUNGMAS"
+  },
+  {
+    "id": "5203192015",
+    "district_id": "520319",
+    "name": "KEMBANG ARE SAMPAI"
+  },
+  {
+    "id": "5203192016",
+    "district_id": "520319",
+    "name": "RENSING BAT"
+  },
+  {
+    "id": "5203192017",
+    "district_id": "520319",
+    "name": "TANAK KAKEN"
+  },
+  {
+    "id": "5203192018",
+    "district_id": "520319",
+    "name": "GERISAK SEMANGGELENG"
+  }
+]

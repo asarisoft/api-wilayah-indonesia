@@ -1,1 +1,67 @@
-[{"id": "210401", "regency_id": "2104", "name": "SINGKEP"}, {"id": "210402", "regency_id": "2104", "name": "LINGGA"}, {"id": "210403", "regency_id": "2104", "name": "SENAYANG"}, {"id": "210404", "regency_id": "2104", "name": "SINGKEP BARAT"}, {"id": "210405", "regency_id": "2104", "name": "LINGGA UTARA"}, {"id": "210406", "regency_id": "2104", "name": "SINGKEP PESISIR"}, {"id": "210407", "regency_id": "2104", "name": "LINGGA TIMUR"}, {"id": "210408", "regency_id": "2104", "name": "SELAYAR"}, {"id": "210409", "regency_id": "2104", "name": "SINGKEP SELATAN"}, {"id": "210410", "regency_id": "2104", "name": "KEPULAUAN POSEK"}, {"id": "210411", "regency_id": "2104", "name": "KATANG BIDARE"}, {"id": "210412", "regency_id": "2104", "name": "TEMIANG PESISIR"}, {"id": "210413", "regency_id": "2104", "name": "BAKUNG SERUMPUN"}]
+[
+  {
+    "id": "210401",
+    "regency_id": "2104",
+    "name": "SINGKEP"
+  },
+  {
+    "id": "210402",
+    "regency_id": "2104",
+    "name": "LINGGA"
+  },
+  {
+    "id": "210403",
+    "regency_id": "2104",
+    "name": "SENAYANG"
+  },
+  {
+    "id": "210404",
+    "regency_id": "2104",
+    "name": "SINGKEP BARAT"
+  },
+  {
+    "id": "210405",
+    "regency_id": "2104",
+    "name": "LINGGA UTARA"
+  },
+  {
+    "id": "210406",
+    "regency_id": "2104",
+    "name": "SINGKEP PESISIR"
+  },
+  {
+    "id": "210407",
+    "regency_id": "2104",
+    "name": "LINGGA TIMUR"
+  },
+  {
+    "id": "210408",
+    "regency_id": "2104",
+    "name": "SELAYAR"
+  },
+  {
+    "id": "210409",
+    "regency_id": "2104",
+    "name": "SINGKEP SELATAN"
+  },
+  {
+    "id": "210410",
+    "regency_id": "2104",
+    "name": "KEPULAUAN POSEK"
+  },
+  {
+    "id": "210411",
+    "regency_id": "2104",
+    "name": "KATANG BIDARE"
+  },
+  {
+    "id": "210412",
+    "regency_id": "2104",
+    "name": "TEMIANG PESISIR"
+  },
+  {
+    "id": "210413",
+    "regency_id": "2104",
+    "name": "BAKUNG SERUMPUN"
+  }
+]

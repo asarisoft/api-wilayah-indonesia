@@ -1,1 +1,22 @@
-[{"id": "9601182001", "district_id": "960118", "name": "MAIBO"}, {"id": "9601182002", "district_id": "960118", "name": "MALAFLON"}, {"id": "9601182003", "district_id": "960118", "name": "KABANMOLO"}, {"id": "9601182004", "district_id": "960118", "name": "KAGIWALA"}]
+[
+  {
+    "id": "9601182001",
+    "district_id": "960118",
+    "name": "MAIBO"
+  },
+  {
+    "id": "9601182002",
+    "district_id": "960118",
+    "name": "MALAFLON"
+  },
+  {
+    "id": "9601182003",
+    "district_id": "960118",
+    "name": "KABANMOLO"
+  },
+  {
+    "id": "9601182004",
+    "district_id": "960118",
+    "name": "KAGIWALA"
+  }
+]

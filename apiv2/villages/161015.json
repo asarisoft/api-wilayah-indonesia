@@ -1,1 +1,52 @@
-[{"id": "1610152001", "district_id": "161015", "name": "ULAK KEMBAHANG"}, {"id": "1610152002", "district_id": "161015", "name": "LUBUK KELIAT"}, {"id": "1610152003", "district_id": "161015", "name": "EMBACANG"}, {"id": "1610152004", "district_id": "161015", "name": "KASIH RAJA"}, {"id": "1610152005", "district_id": "161015", "name": "TALANG TENGAH DARAT"}, {"id": "1610152006", "district_id": "161015", "name": "BETUNG II"}, {"id": "1610152007", "district_id": "161015", "name": "KETIAU"}, {"id": "1610152008", "district_id": "161015", "name": "PAYALINGKUNG"}, {"id": "1610152009", "district_id": "161015", "name": "BETUNG I"}, {"id": "1610152010", "district_id": "161015", "name": "TALANG TENGAH LAUT"}]
+[
+  {
+    "id": "1610152001",
+    "district_id": "161015",
+    "name": "ULAK KEMBAHANG"
+  },
+  {
+    "id": "1610152002",
+    "district_id": "161015",
+    "name": "LUBUK KELIAT"
+  },
+  {
+    "id": "1610152003",
+    "district_id": "161015",
+    "name": "EMBACANG"
+  },
+  {
+    "id": "1610152004",
+    "district_id": "161015",
+    "name": "KASIH RAJA"
+  },
+  {
+    "id": "1610152005",
+    "district_id": "161015",
+    "name": "TALANG TENGAH DARAT"
+  },
+  {
+    "id": "1610152006",
+    "district_id": "161015",
+    "name": "BETUNG II"
+  },
+  {
+    "id": "1610152007",
+    "district_id": "161015",
+    "name": "KETIAU"
+  },
+  {
+    "id": "1610152008",
+    "district_id": "161015",
+    "name": "PAYALINGKUNG"
+  },
+  {
+    "id": "1610152009",
+    "district_id": "161015",
+    "name": "BETUNG I"
+  },
+  {
+    "id": "1610152010",
+    "district_id": "161015",
+    "name": "TALANG TENGAH LAUT"
+  }
+]

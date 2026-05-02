@@ -1,1 +1,52 @@
-[{"id": "1607182001", "district_id": "160718", "name": "TERUSAN DALAM"}, {"id": "1607182002", "district_id": "160718", "name": "KARANG ANYAR"}, {"id": "1607182003", "district_id": "160718", "name": "MUARA TELANG"}, {"id": "1607182004", "district_id": "160718", "name": "TERUSAN TENGAH"}, {"id": "1607182005", "district_id": "160718", "name": "SUMBER JAYA"}, {"id": "1607182006", "district_id": "160718", "name": "KARANG BARU"}, {"id": "1607182007", "district_id": "160718", "name": "MUARA TELANG MARGA"}, {"id": "1607182008", "district_id": "160718", "name": "TERUSAN MUARA"}, {"id": "1607182009", "district_id": "160718", "name": "TALANG LUBUK"}, {"id": "1607182010", "district_id": "160718", "name": "SRI TIGA"}]
+[
+  {
+    "id": "1607182001",
+    "district_id": "160718",
+    "name": "TERUSAN DALAM"
+  },
+  {
+    "id": "1607182002",
+    "district_id": "160718",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1607182003",
+    "district_id": "160718",
+    "name": "MUARA TELANG"
+  },
+  {
+    "id": "1607182004",
+    "district_id": "160718",
+    "name": "TERUSAN TENGAH"
+  },
+  {
+    "id": "1607182005",
+    "district_id": "160718",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1607182006",
+    "district_id": "160718",
+    "name": "KARANG BARU"
+  },
+  {
+    "id": "1607182007",
+    "district_id": "160718",
+    "name": "MUARA TELANG MARGA"
+  },
+  {
+    "id": "1607182008",
+    "district_id": "160718",
+    "name": "TERUSAN MUARA"
+  },
+  {
+    "id": "1607182009",
+    "district_id": "160718",
+    "name": "TALANG LUBUK"
+  },
+  {
+    "id": "1607182010",
+    "district_id": "160718",
+    "name": "SRI TIGA"
+  }
+]

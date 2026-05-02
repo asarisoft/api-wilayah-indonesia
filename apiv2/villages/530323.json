@@ -1,1 +1,37 @@
-[{"id": "5303232001", "district_id": "530323", "name": "TUNBES"}, {"id": "5303232002", "district_id": "530323", "name": "LUNIUP"}, {"id": "5303232003", "district_id": "530323", "name": "MATABESI"}, {"id": "5303232004", "district_id": "530323", "name": "OEPUAH"}, {"id": "5303232005", "district_id": "530323", "name": "KAUBELE"}, {"id": "5303232006", "district_id": "530323", "name": "OEPUAH UTARA"}, {"id": "5303232007", "district_id": "530323", "name": "OEPUAH SELATAN"}]
+[
+  {
+    "id": "5303232001",
+    "district_id": "530323",
+    "name": "TUNBES"
+  },
+  {
+    "id": "5303232002",
+    "district_id": "530323",
+    "name": "LUNIUP"
+  },
+  {
+    "id": "5303232003",
+    "district_id": "530323",
+    "name": "MATABESI"
+  },
+  {
+    "id": "5303232004",
+    "district_id": "530323",
+    "name": "OEPUAH"
+  },
+  {
+    "id": "5303232005",
+    "district_id": "530323",
+    "name": "KAUBELE"
+  },
+  {
+    "id": "5303232006",
+    "district_id": "530323",
+    "name": "OEPUAH UTARA"
+  },
+  {
+    "id": "5303232007",
+    "district_id": "530323",
+    "name": "OEPUAH SELATAN"
+  }
+]

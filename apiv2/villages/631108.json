@@ -1,1 +1,62 @@
-[{"id": "6311082001", "district_id": "631108", "name": "DAYAK PITAP"}, {"id": "6311082002", "district_id": "631108", "name": "TEBING TINGGI"}, {"id": "6311082003", "district_id": "631108", "name": "SUNGSUM"}, {"id": "6311082004", "district_id": "631108", "name": "JU'UH"}, {"id": "6311082005", "district_id": "631108", "name": "MAYANAU"}, {"id": "6311082006", "district_id": "631108", "name": "SIMPANG BUMBUAN"}, {"id": "6311082007", "district_id": "631108", "name": "AUH"}, {"id": "6311082008", "district_id": "631108", "name": "GUNUNG BATU"}, {"id": "6311082009", "district_id": "631108", "name": "LANGKAP"}, {"id": "6311082010", "district_id": "631108", "name": "SIMPANG NADONG"}, {"id": "6311082011", "district_id": "631108", "name": "AJUNG"}, {"id": "6311082012", "district_id": "631108", "name": "KAMBIYAIN"}]
+[
+  {
+    "id": "6311082001",
+    "district_id": "631108",
+    "name": "DAYAK PITAP"
+  },
+  {
+    "id": "6311082002",
+    "district_id": "631108",
+    "name": "TEBING TINGGI"
+  },
+  {
+    "id": "6311082003",
+    "district_id": "631108",
+    "name": "SUNGSUM"
+  },
+  {
+    "id": "6311082004",
+    "district_id": "631108",
+    "name": "JU'UH"
+  },
+  {
+    "id": "6311082005",
+    "district_id": "631108",
+    "name": "MAYANAU"
+  },
+  {
+    "id": "6311082006",
+    "district_id": "631108",
+    "name": "SIMPANG BUMBUAN"
+  },
+  {
+    "id": "6311082007",
+    "district_id": "631108",
+    "name": "AUH"
+  },
+  {
+    "id": "6311082008",
+    "district_id": "631108",
+    "name": "GUNUNG BATU"
+  },
+  {
+    "id": "6311082009",
+    "district_id": "631108",
+    "name": "LANGKAP"
+  },
+  {
+    "id": "6311082010",
+    "district_id": "631108",
+    "name": "SIMPANG NADONG"
+  },
+  {
+    "id": "6311082011",
+    "district_id": "631108",
+    "name": "AJUNG"
+  },
+  {
+    "id": "6311082012",
+    "district_id": "631108",
+    "name": "KAMBIYAIN"
+  }
+]

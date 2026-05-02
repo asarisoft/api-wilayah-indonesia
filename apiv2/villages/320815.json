@@ -1,1 +1,37 @@
-[{"id": "3208152001", "district_id": "320815", "name": "SELAJAMBE"}, {"id": "3208152002", "district_id": "320815", "name": "CANTILAN"}, {"id": "3208152003", "district_id": "320815", "name": "CIBERUNG"}, {"id": "3208152004", "district_id": "320815", "name": "KUTAWARINGIN"}, {"id": "3208152005", "district_id": "320815", "name": "JAMBERAMA"}, {"id": "3208152006", "district_id": "320815", "name": "BAGAWAT"}, {"id": "3208152007", "district_id": "320815", "name": "PADAHURIP"}]
+[
+  {
+    "id": "3208152001",
+    "district_id": "320815",
+    "name": "SELAJAMBE"
+  },
+  {
+    "id": "3208152002",
+    "district_id": "320815",
+    "name": "CANTILAN"
+  },
+  {
+    "id": "3208152003",
+    "district_id": "320815",
+    "name": "CIBERUNG"
+  },
+  {
+    "id": "3208152004",
+    "district_id": "320815",
+    "name": "KUTAWARINGIN"
+  },
+  {
+    "id": "3208152005",
+    "district_id": "320815",
+    "name": "JAMBERAMA"
+  },
+  {
+    "id": "3208152006",
+    "district_id": "320815",
+    "name": "BAGAWAT"
+  },
+  {
+    "id": "3208152007",
+    "district_id": "320815",
+    "name": "PADAHURIP"
+  }
+]

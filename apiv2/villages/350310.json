@@ -1,1 +1,57 @@
-[{"id": "3503102001", "district_id": "350310", "name": "NGRAYUNG"}, {"id": "3503102002", "district_id": "350310", "name": "WONOREJO"}, {"id": "3503102003", "district_id": "350310", "name": "SUKOREJO"}, {"id": "3503102004", "district_id": "350310", "name": "WONOANTI"}, {"id": "3503102005", "district_id": "350310", "name": "JAJAR"}, {"id": "3503102006", "district_id": "350310", "name": "GANDUSARI"}, {"id": "3503102007", "district_id": "350310", "name": "WIDORO"}, {"id": "3503102008", "district_id": "350310", "name": "KARANGANYAR"}, {"id": "3503102009", "district_id": "350310", "name": "MELIS"}, {"id": "3503102010", "district_id": "350310", "name": "KRANDEGAN"}, {"id": "3503102011", "district_id": "350310", "name": "SUKORAME"}]
+[
+  {
+    "id": "3503102001",
+    "district_id": "350310",
+    "name": "NGRAYUNG"
+  },
+  {
+    "id": "3503102002",
+    "district_id": "350310",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3503102003",
+    "district_id": "350310",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3503102004",
+    "district_id": "350310",
+    "name": "WONOANTI"
+  },
+  {
+    "id": "3503102005",
+    "district_id": "350310",
+    "name": "JAJAR"
+  },
+  {
+    "id": "3503102006",
+    "district_id": "350310",
+    "name": "GANDUSARI"
+  },
+  {
+    "id": "3503102007",
+    "district_id": "350310",
+    "name": "WIDORO"
+  },
+  {
+    "id": "3503102008",
+    "district_id": "350310",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3503102009",
+    "district_id": "350310",
+    "name": "MELIS"
+  },
+  {
+    "id": "3503102010",
+    "district_id": "350310",
+    "name": "KRANDEGAN"
+  },
+  {
+    "id": "3503102011",
+    "district_id": "350310",
+    "name": "SUKORAME"
+  }
+]

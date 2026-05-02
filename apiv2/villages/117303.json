@@ -1,1 +1,112 @@
-[{"id": "1173032001", "district_id": "117303", "name": "KUALA"}, {"id": "1173032002", "district_id": "117303", "name": "BLANG CUT"}, {"id": "1173032003", "district_id": "117303", "name": "JAMBO MESJID"}, {"id": "1173032004", "district_id": "117303", "name": "JAMBO TIMU"}, {"id": "1173032005", "district_id": "117303", "name": "TUNONG"}, {"id": "1173032006", "district_id": "117303", "name": "BLANG TEUE"}, {"id": "1173032007", "district_id": "117303", "name": "TEUNGOH"}, {"id": "1173032008", "district_id": "117303", "name": "BALOI"}, {"id": "1173032009", "district_id": "117303", "name": "MANE KAREUNG"}, {"id": "1173032010", "district_id": "117303", "name": "ASAN KAREUNG"}, {"id": "1173032011", "district_id": "117303", "name": "RAYEUK KAREUNG"}, {"id": "1173032012", "district_id": "117303", "name": "BLANG PUNTEUET"}, {"id": "1173032013", "district_id": "117303", "name": "KUMBANG PUNTEUET"}, {"id": "1173032014", "district_id": "117303", "name": "MESJID PUNTEUET"}, {"id": "1173032015", "district_id": "117303", "name": "ULEE BLANG MANE"}, {"id": "1173032016", "district_id": "117303", "name": "KEUDE PUNTEUET"}, {"id": "1173032017", "district_id": "117303", "name": "ALUE LIM"}, {"id": "1173032018", "district_id": "117303", "name": "BLANG BULOH"}, {"id": "1173032019", "district_id": "117303", "name": "BLANG WEU PANJOE"}, {"id": "1173032020", "district_id": "117303", "name": "JEULIKAT"}, {"id": "1173032021", "district_id": "117303", "name": "BLANG WEU BAROH"}, {"id": "1173032022", "district_id": "117303", "name": "SEUNEUBOK"}]
+[
+  {
+    "id": "1173032001",
+    "district_id": "117303",
+    "name": "KUALA"
+  },
+  {
+    "id": "1173032002",
+    "district_id": "117303",
+    "name": "BLANG CUT"
+  },
+  {
+    "id": "1173032003",
+    "district_id": "117303",
+    "name": "JAMBO MESJID"
+  },
+  {
+    "id": "1173032004",
+    "district_id": "117303",
+    "name": "JAMBO TIMU"
+  },
+  {
+    "id": "1173032005",
+    "district_id": "117303",
+    "name": "TUNONG"
+  },
+  {
+    "id": "1173032006",
+    "district_id": "117303",
+    "name": "BLANG TEUE"
+  },
+  {
+    "id": "1173032007",
+    "district_id": "117303",
+    "name": "TEUNGOH"
+  },
+  {
+    "id": "1173032008",
+    "district_id": "117303",
+    "name": "BALOI"
+  },
+  {
+    "id": "1173032009",
+    "district_id": "117303",
+    "name": "MANE KAREUNG"
+  },
+  {
+    "id": "1173032010",
+    "district_id": "117303",
+    "name": "ASAN KAREUNG"
+  },
+  {
+    "id": "1173032011",
+    "district_id": "117303",
+    "name": "RAYEUK KAREUNG"
+  },
+  {
+    "id": "1173032012",
+    "district_id": "117303",
+    "name": "BLANG PUNTEUET"
+  },
+  {
+    "id": "1173032013",
+    "district_id": "117303",
+    "name": "KUMBANG PUNTEUET"
+  },
+  {
+    "id": "1173032014",
+    "district_id": "117303",
+    "name": "MESJID PUNTEUET"
+  },
+  {
+    "id": "1173032015",
+    "district_id": "117303",
+    "name": "ULEE BLANG MANE"
+  },
+  {
+    "id": "1173032016",
+    "district_id": "117303",
+    "name": "KEUDE PUNTEUET"
+  },
+  {
+    "id": "1173032017",
+    "district_id": "117303",
+    "name": "ALUE LIM"
+  },
+  {
+    "id": "1173032018",
+    "district_id": "117303",
+    "name": "BLANG BULOH"
+  },
+  {
+    "id": "1173032019",
+    "district_id": "117303",
+    "name": "BLANG WEU PANJOE"
+  },
+  {
+    "id": "1173032020",
+    "district_id": "117303",
+    "name": "JEULIKAT"
+  },
+  {
+    "id": "1173032021",
+    "district_id": "117303",
+    "name": "BLANG WEU BAROH"
+  },
+  {
+    "id": "1173032022",
+    "district_id": "117303",
+    "name": "SEUNEUBOK"
+  }
+]

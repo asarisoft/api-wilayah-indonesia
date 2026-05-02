@@ -1,1 +1,67 @@
-[{"id": "3315062001", "district_id": "331506", "name": "RANDUREJO"}, {"id": "3315062002", "district_id": "331506", "name": "MLOWOKARANGTALUN"}, {"id": "3315062003", "district_id": "331506", "name": "POJOK"}, {"id": "3315062004", "district_id": "331506", "name": "JATIHARJO"}, {"id": "3315062005", "district_id": "331506", "name": "SIDOREJO"}, {"id": "3315062006", "district_id": "331506", "name": "TUKO"}, {"id": "3315062007", "district_id": "331506", "name": "PANUNGGALAN"}, {"id": "3315062008", "district_id": "331506", "name": "MANGUNREJO"}, {"id": "3315062009", "district_id": "331506", "name": "JETAKSARI"}, {"id": "3315062010", "district_id": "331506", "name": "PULOKULON"}, {"id": "3315062011", "district_id": "331506", "name": "JAMBON"}, {"id": "3315062012", "district_id": "331506", "name": "KARANGHARJO"}, {"id": "3315062013", "district_id": "331506", "name": "SEMBUNGHARJO"}]
+[
+  {
+    "id": "3315062001",
+    "district_id": "331506",
+    "name": "RANDUREJO"
+  },
+  {
+    "id": "3315062002",
+    "district_id": "331506",
+    "name": "MLOWOKARANGTALUN"
+  },
+  {
+    "id": "3315062003",
+    "district_id": "331506",
+    "name": "POJOK"
+  },
+  {
+    "id": "3315062004",
+    "district_id": "331506",
+    "name": "JATIHARJO"
+  },
+  {
+    "id": "3315062005",
+    "district_id": "331506",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3315062006",
+    "district_id": "331506",
+    "name": "TUKO"
+  },
+  {
+    "id": "3315062007",
+    "district_id": "331506",
+    "name": "PANUNGGALAN"
+  },
+  {
+    "id": "3315062008",
+    "district_id": "331506",
+    "name": "MANGUNREJO"
+  },
+  {
+    "id": "3315062009",
+    "district_id": "331506",
+    "name": "JETAKSARI"
+  },
+  {
+    "id": "3315062010",
+    "district_id": "331506",
+    "name": "PULOKULON"
+  },
+  {
+    "id": "3315062011",
+    "district_id": "331506",
+    "name": "JAMBON"
+  },
+  {
+    "id": "3315062012",
+    "district_id": "331506",
+    "name": "KARANGHARJO"
+  },
+  {
+    "id": "3315062013",
+    "district_id": "331506",
+    "name": "SEMBUNGHARJO"
+  }
+]

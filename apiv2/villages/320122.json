@@ -1,1 +1,77 @@
-[{"id": "3201222001", "district_id": "320122", "name": "SUKAMAJU"}, {"id": "3201222002", "district_id": "320122", "name": "CIGUDEG"}, {"id": "3201222003", "district_id": "320122", "name": "BUNAR"}, {"id": "3201222004", "district_id": "320122", "name": "BANYURESMI"}, {"id": "3201222005", "district_id": "320122", "name": "CINTAMANIK"}, {"id": "3201222006", "district_id": "320122", "name": "ARGAPURA"}, {"id": "3201222007", "district_id": "320122", "name": "BANGUNJAYA"}, {"id": "3201222008", "district_id": "320122", "name": "RENGASJAJAR"}, {"id": "3201222009", "district_id": "320122", "name": "BATUJAJAR"}, {"id": "3201222010", "district_id": "320122", "name": "WARGAJAYA"}, {"id": "3201222011", "district_id": "320122", "name": "SUKARAKSA"}, {"id": "3201222012", "district_id": "320122", "name": "BANYUWANGI"}, {"id": "3201222013", "district_id": "320122", "name": "BANYUASIH"}, {"id": "3201222014", "district_id": "320122", "name": "MEKARJAYA"}, {"id": "3201222015", "district_id": "320122", "name": "TEGALLEGA"}]
+[
+  {
+    "id": "3201222001",
+    "district_id": "320122",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3201222002",
+    "district_id": "320122",
+    "name": "CIGUDEG"
+  },
+  {
+    "id": "3201222003",
+    "district_id": "320122",
+    "name": "BUNAR"
+  },
+  {
+    "id": "3201222004",
+    "district_id": "320122",
+    "name": "BANYURESMI"
+  },
+  {
+    "id": "3201222005",
+    "district_id": "320122",
+    "name": "CINTAMANIK"
+  },
+  {
+    "id": "3201222006",
+    "district_id": "320122",
+    "name": "ARGAPURA"
+  },
+  {
+    "id": "3201222007",
+    "district_id": "320122",
+    "name": "BANGUNJAYA"
+  },
+  {
+    "id": "3201222008",
+    "district_id": "320122",
+    "name": "RENGASJAJAR"
+  },
+  {
+    "id": "3201222009",
+    "district_id": "320122",
+    "name": "BATUJAJAR"
+  },
+  {
+    "id": "3201222010",
+    "district_id": "320122",
+    "name": "WARGAJAYA"
+  },
+  {
+    "id": "3201222011",
+    "district_id": "320122",
+    "name": "SUKARAKSA"
+  },
+  {
+    "id": "3201222012",
+    "district_id": "320122",
+    "name": "BANYUWANGI"
+  },
+  {
+    "id": "3201222013",
+    "district_id": "320122",
+    "name": "BANYUASIH"
+  },
+  {
+    "id": "3201222014",
+    "district_id": "320122",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3201222015",
+    "district_id": "320122",
+    "name": "TEGALLEGA"
+  }
+]

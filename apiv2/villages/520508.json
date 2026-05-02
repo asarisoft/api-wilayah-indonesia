@@ -1,1 +1,32 @@
-[{"id": "5205082001", "district_id": "520508", "name": "RANGGO"}, {"id": "5205082002", "district_id": "520508", "name": "JAMBU"}, {"id": "5205082003", "district_id": "520508", "name": "LEPADI"}, {"id": "5205082004", "district_id": "520508", "name": "LUNE"}, {"id": "5205082005", "district_id": "520508", "name": "WOKO"}, {"id": "5205082006", "district_id": "520508", "name": "TEMBAL LAE"}]
+[
+  {
+    "id": "5205082001",
+    "district_id": "520508",
+    "name": "RANGGO"
+  },
+  {
+    "id": "5205082002",
+    "district_id": "520508",
+    "name": "JAMBU"
+  },
+  {
+    "id": "5205082003",
+    "district_id": "520508",
+    "name": "LEPADI"
+  },
+  {
+    "id": "5205082004",
+    "district_id": "520508",
+    "name": "LUNE"
+  },
+  {
+    "id": "5205082005",
+    "district_id": "520508",
+    "name": "WOKO"
+  },
+  {
+    "id": "5205082006",
+    "district_id": "520508",
+    "name": "TEMBAL LAE"
+  }
+]

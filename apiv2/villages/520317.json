@@ -1,1 +1,62 @@
-[{"id": "5203171004", "district_id": "520317", "name": "TANJUNG"}, {"id": "5203171005", "district_id": "520317", "name": "SURYAWANGI"}, {"id": "5203171007", "district_id": "520317", "name": "IJOBALIT"}, {"id": "5203171012", "district_id": "520317", "name": "GERES"}, {"id": "5203172001", "district_id": "520317", "name": "LABUHAN HAJI"}, {"id": "5203172002", "district_id": "520317", "name": "PENEDA GANDOR"}, {"id": "5203172003", "district_id": "520317", "name": "TEROS"}, {"id": "5203172006", "district_id": "520317", "name": "KORLEKO"}, {"id": "5203172008", "district_id": "520317", "name": "KERTASARI"}, {"id": "5203172009", "district_id": "520317", "name": "TIRTANADI"}, {"id": "5203172010", "district_id": "520317", "name": "BANJARSARI"}, {"id": "5203172011", "district_id": "520317", "name": "KORLEKO SELATAN"}]
+[
+  {
+    "id": "5203171004",
+    "district_id": "520317",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "5203171005",
+    "district_id": "520317",
+    "name": "SURYAWANGI"
+  },
+  {
+    "id": "5203171007",
+    "district_id": "520317",
+    "name": "IJOBALIT"
+  },
+  {
+    "id": "5203171012",
+    "district_id": "520317",
+    "name": "GERES"
+  },
+  {
+    "id": "5203172001",
+    "district_id": "520317",
+    "name": "LABUHAN HAJI"
+  },
+  {
+    "id": "5203172002",
+    "district_id": "520317",
+    "name": "PENEDA GANDOR"
+  },
+  {
+    "id": "5203172003",
+    "district_id": "520317",
+    "name": "TEROS"
+  },
+  {
+    "id": "5203172006",
+    "district_id": "520317",
+    "name": "KORLEKO"
+  },
+  {
+    "id": "5203172008",
+    "district_id": "520317",
+    "name": "KERTASARI"
+  },
+  {
+    "id": "5203172009",
+    "district_id": "520317",
+    "name": "TIRTANADI"
+  },
+  {
+    "id": "5203172010",
+    "district_id": "520317",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "5203172011",
+    "district_id": "520317",
+    "name": "KORLEKO SELATAN"
+  }
+]

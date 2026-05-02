@@ -1,1 +1,82 @@
-[{"id": "5305011001", "district_id": "530501", "name": "KALABAHI BARAT"}, {"id": "5305011002", "district_id": "530501", "name": "KALABAHI KOTA"}, {"id": "5305011003", "district_id": "530501", "name": "KALABAHI TENGAH"}, {"id": "5305011004", "district_id": "530501", "name": "KALABAHI TIMUR"}, {"id": "5305011005", "district_id": "530501", "name": "BINONGKO"}, {"id": "5305011006", "district_id": "530501", "name": "NUSA KENARI"}, {"id": "5305011008", "district_id": "530501", "name": "WELAI BARAT"}, {"id": "5305011009", "district_id": "530501", "name": "WELAI TIMUR"}, {"id": "5305011010", "district_id": "530501", "name": "MUTIARA"}, {"id": "5305011011", "district_id": "530501", "name": "WETABUA"}, {"id": "5305012012", "district_id": "530501", "name": "LENDOLA"}, {"id": "5305012013", "district_id": "530501", "name": "FANATING"}, {"id": "5305012014", "district_id": "530501", "name": "MOTONGBANG"}, {"id": "5305012015", "district_id": "530501", "name": "AIR KENARI"}, {"id": "5305012018", "district_id": "530501", "name": "TELUK KENARI"}, {"id": "5305012019", "district_id": "530501", "name": "ADANG BUOM"}]
+[
+  {
+    "id": "5305011001",
+    "district_id": "530501",
+    "name": "KALABAHI BARAT"
+  },
+  {
+    "id": "5305011002",
+    "district_id": "530501",
+    "name": "KALABAHI KOTA"
+  },
+  {
+    "id": "5305011003",
+    "district_id": "530501",
+    "name": "KALABAHI TENGAH"
+  },
+  {
+    "id": "5305011004",
+    "district_id": "530501",
+    "name": "KALABAHI TIMUR"
+  },
+  {
+    "id": "5305011005",
+    "district_id": "530501",
+    "name": "BINONGKO"
+  },
+  {
+    "id": "5305011006",
+    "district_id": "530501",
+    "name": "NUSA KENARI"
+  },
+  {
+    "id": "5305011008",
+    "district_id": "530501",
+    "name": "WELAI BARAT"
+  },
+  {
+    "id": "5305011009",
+    "district_id": "530501",
+    "name": "WELAI TIMUR"
+  },
+  {
+    "id": "5305011010",
+    "district_id": "530501",
+    "name": "MUTIARA"
+  },
+  {
+    "id": "5305011011",
+    "district_id": "530501",
+    "name": "WETABUA"
+  },
+  {
+    "id": "5305012012",
+    "district_id": "530501",
+    "name": "LENDOLA"
+  },
+  {
+    "id": "5305012013",
+    "district_id": "530501",
+    "name": "FANATING"
+  },
+  {
+    "id": "5305012014",
+    "district_id": "530501",
+    "name": "MOTONGBANG"
+  },
+  {
+    "id": "5305012015",
+    "district_id": "530501",
+    "name": "AIR KENARI"
+  },
+  {
+    "id": "5305012018",
+    "district_id": "530501",
+    "name": "TELUK KENARI"
+  },
+  {
+    "id": "5305012019",
+    "district_id": "530501",
+    "name": "ADANG BUOM"
+  }
+]

@@ -1,1 +1,92 @@
-[{"id": "5313012001", "district_id": "531301", "name": "PASIR PUTIH"}, {"id": "5313012002", "district_id": "531301", "name": "DUAWUTUN"}, {"id": "5313012003", "district_id": "531301", "name": "ATAWAI"}, {"id": "5313012004", "district_id": "531301", "name": "LUSIDUAWUTUN"}, {"id": "5313012005", "district_id": "531301", "name": "LABALIMUT"}, {"id": "5313012006", "district_id": "531301", "name": "ILEBOLI"}, {"id": "5313012007", "district_id": "531301", "name": "BABOKERONG"}, {"id": "5313012008", "district_id": "531301", "name": "PENIKENEK"}, {"id": "5313012009", "district_id": "531301", "name": "BELABAJA"}, {"id": "5313012010", "district_id": "531301", "name": "LOLONG"}, {"id": "5313012011", "district_id": "531301", "name": "WUAKORENG"}, {"id": "5313012012", "district_id": "531301", "name": "BAOBOLAK"}, {"id": "5313012013", "district_id": "531301", "name": "TEWAOWUTUNG"}, {"id": "5313012014", "district_id": "531301", "name": "BOLI BEAN"}, {"id": "5313012015", "district_id": "531301", "name": "WARAWATUNG"}, {"id": "5313012016", "district_id": "531301", "name": "IDALOLONG"}, {"id": "5313012017", "district_id": "531301", "name": "RIA BAO"}, {"id": "5313012018", "district_id": "531301", "name": "LIWULAGANG"}]
+[
+  {
+    "id": "5313012001",
+    "district_id": "531301",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "5313012002",
+    "district_id": "531301",
+    "name": "DUAWUTUN"
+  },
+  {
+    "id": "5313012003",
+    "district_id": "531301",
+    "name": "ATAWAI"
+  },
+  {
+    "id": "5313012004",
+    "district_id": "531301",
+    "name": "LUSIDUAWUTUN"
+  },
+  {
+    "id": "5313012005",
+    "district_id": "531301",
+    "name": "LABALIMUT"
+  },
+  {
+    "id": "5313012006",
+    "district_id": "531301",
+    "name": "ILEBOLI"
+  },
+  {
+    "id": "5313012007",
+    "district_id": "531301",
+    "name": "BABOKERONG"
+  },
+  {
+    "id": "5313012008",
+    "district_id": "531301",
+    "name": "PENIKENEK"
+  },
+  {
+    "id": "5313012009",
+    "district_id": "531301",
+    "name": "BELABAJA"
+  },
+  {
+    "id": "5313012010",
+    "district_id": "531301",
+    "name": "LOLONG"
+  },
+  {
+    "id": "5313012011",
+    "district_id": "531301",
+    "name": "WUAKORENG"
+  },
+  {
+    "id": "5313012012",
+    "district_id": "531301",
+    "name": "BAOBOLAK"
+  },
+  {
+    "id": "5313012013",
+    "district_id": "531301",
+    "name": "TEWAOWUTUNG"
+  },
+  {
+    "id": "5313012014",
+    "district_id": "531301",
+    "name": "BOLI BEAN"
+  },
+  {
+    "id": "5313012015",
+    "district_id": "531301",
+    "name": "WARAWATUNG"
+  },
+  {
+    "id": "5313012016",
+    "district_id": "531301",
+    "name": "IDALOLONG"
+  },
+  {
+    "id": "5313012017",
+    "district_id": "531301",
+    "name": "RIA BAO"
+  },
+  {
+    "id": "5313012018",
+    "district_id": "531301",
+    "name": "LIWULAGANG"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "3602182001", "district_id": "360218", "name": "TAMBAKBAYA"}, {"id": "3602182002", "district_id": "360218", "name": "KADUAGUNG TIMUR"}, {"id": "3602182003", "district_id": "360218", "name": "PANANCANGAN"}, {"id": "3602182004", "district_id": "360218", "name": "CIBADAK"}, {"id": "3602182005", "district_id": "360218", "name": "ASEM"}, {"id": "3602182006", "district_id": "360218", "name": "CISANGU"}, {"id": "3602182007", "district_id": "360218", "name": "KADUAGUNG BARAT"}, {"id": "3602182008", "district_id": "360218", "name": "BOJONGCAE"}, {"id": "3602182009", "district_id": "360218", "name": "MALABAR"}, {"id": "3602182010", "district_id": "360218", "name": "PASAR KEONG"}, {"id": "3602182011", "district_id": "360218", "name": "BOJONG LELES"}, {"id": "3602182012", "district_id": "360218", "name": "CIMENTENG JAYA"}, {"id": "3602182013", "district_id": "360218", "name": "MEKAR AGUNG"}, {"id": "3602182014", "district_id": "360218", "name": "ASEM MARGALUYU"}, {"id": "3602182015", "district_id": "360218", "name": "KADUAGUNG TENGAH"}]
+[
+  {
+    "id": "3602182001",
+    "district_id": "360218",
+    "name": "TAMBAKBAYA"
+  },
+  {
+    "id": "3602182002",
+    "district_id": "360218",
+    "name": "KADUAGUNG TIMUR"
+  },
+  {
+    "id": "3602182003",
+    "district_id": "360218",
+    "name": "PANANCANGAN"
+  },
+  {
+    "id": "3602182004",
+    "district_id": "360218",
+    "name": "CIBADAK"
+  },
+  {
+    "id": "3602182005",
+    "district_id": "360218",
+    "name": "ASEM"
+  },
+  {
+    "id": "3602182006",
+    "district_id": "360218",
+    "name": "CISANGU"
+  },
+  {
+    "id": "3602182007",
+    "district_id": "360218",
+    "name": "KADUAGUNG BARAT"
+  },
+  {
+    "id": "3602182008",
+    "district_id": "360218",
+    "name": "BOJONGCAE"
+  },
+  {
+    "id": "3602182009",
+    "district_id": "360218",
+    "name": "MALABAR"
+  },
+  {
+    "id": "3602182010",
+    "district_id": "360218",
+    "name": "PASAR KEONG"
+  },
+  {
+    "id": "3602182011",
+    "district_id": "360218",
+    "name": "BOJONG LELES"
+  },
+  {
+    "id": "3602182012",
+    "district_id": "360218",
+    "name": "CIMENTENG JAYA"
+  },
+  {
+    "id": "3602182013",
+    "district_id": "360218",
+    "name": "MEKAR AGUNG"
+  },
+  {
+    "id": "3602182014",
+    "district_id": "360218",
+    "name": "ASEM MARGALUYU"
+  },
+  {
+    "id": "3602182015",
+    "district_id": "360218",
+    "name": "KADUAGUNG TENGAH"
+  }
+]

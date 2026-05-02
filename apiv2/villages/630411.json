@@ -1,1 +1,47 @@
-[{"id": "6304112001", "district_id": "630411", "name": "JAMBU BARU"}, {"id": "6304112002", "district_id": "630411", "name": "JAMBU"}, {"id": "6304112003", "district_id": "630411", "name": "KABUAU"}, {"id": "6304112004", "district_id": "630411", "name": "JARENANG"}, {"id": "6304112005", "district_id": "630411", "name": "TABATAN"}, {"id": "6304112006", "district_id": "630411", "name": "KURIPAN"}, {"id": "6304112007", "district_id": "630411", "name": "TABATAN BARU"}, {"id": "6304112008", "district_id": "630411", "name": "ASIA BARU"}, {"id": "6304112009", "district_id": "630411", "name": "RIMBUN TULANG"}]
+[
+  {
+    "id": "6304112001",
+    "district_id": "630411",
+    "name": "JAMBU BARU"
+  },
+  {
+    "id": "6304112002",
+    "district_id": "630411",
+    "name": "JAMBU"
+  },
+  {
+    "id": "6304112003",
+    "district_id": "630411",
+    "name": "KABUAU"
+  },
+  {
+    "id": "6304112004",
+    "district_id": "630411",
+    "name": "JARENANG"
+  },
+  {
+    "id": "6304112005",
+    "district_id": "630411",
+    "name": "TABATAN"
+  },
+  {
+    "id": "6304112006",
+    "district_id": "630411",
+    "name": "KURIPAN"
+  },
+  {
+    "id": "6304112007",
+    "district_id": "630411",
+    "name": "TABATAN BARU"
+  },
+  {
+    "id": "6304112008",
+    "district_id": "630411",
+    "name": "ASIA BARU"
+  },
+  {
+    "id": "6304112009",
+    "district_id": "630411",
+    "name": "RIMBUN TULANG"
+  }
+]

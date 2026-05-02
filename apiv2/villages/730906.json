@@ -1,1 +1,57 @@
-[{"id": "7309061001", "district_id": "730906", "name": "SABILA"}, {"id": "7309062002", "district_id": "730906", "name": "PADAELO"}, {"id": "7309062003", "district_id": "730906", "name": "BATU PUTIH"}, {"id": "7309062004", "district_id": "730906", "name": "WANUA WARU"}, {"id": "7309062005", "district_id": "730906", "name": "TELUMPANUAE"}, {"id": "7309062006", "district_id": "730906", "name": "SAMAENRE"}, {"id": "7309062007", "district_id": "730906", "name": "BENTENGE"}, {"id": "7309062008", "district_id": "730906", "name": "MATTAMPAPOLE"}, {"id": "7309062009", "district_id": "730906", "name": "ULUDAYA"}, {"id": "7309062010", "district_id": "730906", "name": "GATTARENG MATINGGI"}, {"id": "7309062011", "district_id": "730906", "name": "BARUGAE"}]
+[
+  {
+    "id": "7309061001",
+    "district_id": "730906",
+    "name": "SABILA"
+  },
+  {
+    "id": "7309062002",
+    "district_id": "730906",
+    "name": "PADAELO"
+  },
+  {
+    "id": "7309062003",
+    "district_id": "730906",
+    "name": "BATU PUTIH"
+  },
+  {
+    "id": "7309062004",
+    "district_id": "730906",
+    "name": "WANUA WARU"
+  },
+  {
+    "id": "7309062005",
+    "district_id": "730906",
+    "name": "TELUMPANUAE"
+  },
+  {
+    "id": "7309062006",
+    "district_id": "730906",
+    "name": "SAMAENRE"
+  },
+  {
+    "id": "7309062007",
+    "district_id": "730906",
+    "name": "BENTENGE"
+  },
+  {
+    "id": "7309062008",
+    "district_id": "730906",
+    "name": "MATTAMPAPOLE"
+  },
+  {
+    "id": "7309062009",
+    "district_id": "730906",
+    "name": "ULUDAYA"
+  },
+  {
+    "id": "7309062010",
+    "district_id": "730906",
+    "name": "GATTARENG MATINGGI"
+  },
+  {
+    "id": "7309062011",
+    "district_id": "730906",
+    "name": "BARUGAE"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "7371081002", "district_id": "737108", "name": "TABARINGAN"}, {"id": "7371081003", "district_id": "737108", "name": "PATINGALLOANG"}, {"id": "7371081004", "district_id": "737108", "name": "GUSUNG"}, {"id": "7371081005", "district_id": "737108", "name": "CAMBAYA"}, {"id": "7371081006", "district_id": "737108", "name": "UJUNG TANAH"}, {"id": "7371081009", "district_id": "737108", "name": "TOTAKA"}, {"id": "7371081010", "district_id": "737108", "name": "TAMALABBA"}, {"id": "7371081011", "district_id": "737108", "name": "CAMBA BERUA"}, {"id": "7371081012", "district_id": "737108", "name": "PATINGALLOANG BARU"}]
+[
+  {
+    "id": "7371081002",
+    "district_id": "737108",
+    "name": "TABARINGAN"
+  },
+  {
+    "id": "7371081003",
+    "district_id": "737108",
+    "name": "PATINGALLOANG"
+  },
+  {
+    "id": "7371081004",
+    "district_id": "737108",
+    "name": "GUSUNG"
+  },
+  {
+    "id": "7371081005",
+    "district_id": "737108",
+    "name": "CAMBAYA"
+  },
+  {
+    "id": "7371081006",
+    "district_id": "737108",
+    "name": "UJUNG TANAH"
+  },
+  {
+    "id": "7371081009",
+    "district_id": "737108",
+    "name": "TOTAKA"
+  },
+  {
+    "id": "7371081010",
+    "district_id": "737108",
+    "name": "TAMALABBA"
+  },
+  {
+    "id": "7371081011",
+    "district_id": "737108",
+    "name": "CAMBA BERUA"
+  },
+  {
+    "id": "7371081012",
+    "district_id": "737108",
+    "name": "PATINGALLOANG BARU"
+  }
+]

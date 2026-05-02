@@ -1,1 +1,27 @@
-[{"id": "3376021001", "district_id": "337602", "name": "KEJAMBON"}, {"id": "3376021002", "district_id": "337602", "name": "SLEROK"}, {"id": "3376021003", "district_id": "337602", "name": "PANGGUNG"}, {"id": "3376021004", "district_id": "337602", "name": "MANGKUKUSUMAN"}, {"id": "3376021005", "district_id": "337602", "name": "MINTARAGEN"}]
+[
+  {
+    "id": "3376021001",
+    "district_id": "337602",
+    "name": "KEJAMBON"
+  },
+  {
+    "id": "3376021002",
+    "district_id": "337602",
+    "name": "SLEROK"
+  },
+  {
+    "id": "3376021003",
+    "district_id": "337602",
+    "name": "PANGGUNG"
+  },
+  {
+    "id": "3376021004",
+    "district_id": "337602",
+    "name": "MANGKUKUSUMAN"
+  },
+  {
+    "id": "3376021005",
+    "district_id": "337602",
+    "name": "MINTARAGEN"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "1203051001", "district_id": "120305", "name": "PASAR SIPAGIMBAR"}, {"id": "1203051080", "district_id": "120305", "name": "AEK SIMOTUNG"}, {"id": "1203052018", "district_id": "120305", "name": "SIMANGAMBAT"}, {"id": "1203052069", "district_id": "120305", "name": "SIDAPDAP SIMANOSOR"}, {"id": "1203052070", "district_id": "120305", "name": "SAUT BANUA SIMANOSOR"}, {"id": "1203052071", "district_id": "120305", "name": "DAMPARAN HAUNATAS"}, {"id": "1203052072", "district_id": "120305", "name": "SOMBA DEBATA PURBA"}, {"id": "1203052073", "district_id": "120305", "name": "PADANG MANDAILING GARUGUR"}, {"id": "1203052074", "district_id": "120305", "name": "ULU MAMIS SITUNGGALING"}, {"id": "1203052075", "district_id": "120305", "name": "PARAU SORAT SITABO-TABO"}, {"id": "1203052076", "district_id": "120305", "name": "PINTU PADANG MANDALASENA"}, {"id": "1203052077", "district_id": "120305", "name": "SUNGE SIGIRING-GIRING"}, {"id": "1203052078", "district_id": "120305", "name": "SILANGKITANG TAMBISKI"}, {"id": "1203052079", "district_id": "120305", "name": "BATANG PARSULUMAN"}]
+[
+  {
+    "id": "1203051001",
+    "district_id": "120305",
+    "name": "PASAR SIPAGIMBAR"
+  },
+  {
+    "id": "1203051080",
+    "district_id": "120305",
+    "name": "AEK SIMOTUNG"
+  },
+  {
+    "id": "1203052018",
+    "district_id": "120305",
+    "name": "SIMANGAMBAT"
+  },
+  {
+    "id": "1203052069",
+    "district_id": "120305",
+    "name": "SIDAPDAP SIMANOSOR"
+  },
+  {
+    "id": "1203052070",
+    "district_id": "120305",
+    "name": "SAUT BANUA SIMANOSOR"
+  },
+  {
+    "id": "1203052071",
+    "district_id": "120305",
+    "name": "DAMPARAN HAUNATAS"
+  },
+  {
+    "id": "1203052072",
+    "district_id": "120305",
+    "name": "SOMBA DEBATA PURBA"
+  },
+  {
+    "id": "1203052073",
+    "district_id": "120305",
+    "name": "PADANG MANDAILING GARUGUR"
+  },
+  {
+    "id": "1203052074",
+    "district_id": "120305",
+    "name": "ULU MAMIS SITUNGGALING"
+  },
+  {
+    "id": "1203052075",
+    "district_id": "120305",
+    "name": "PARAU SORAT SITABO-TABO"
+  },
+  {
+    "id": "1203052076",
+    "district_id": "120305",
+    "name": "PINTU PADANG MANDALASENA"
+  },
+  {
+    "id": "1203052077",
+    "district_id": "120305",
+    "name": "SUNGE SIGIRING-GIRING"
+  },
+  {
+    "id": "1203052078",
+    "district_id": "120305",
+    "name": "SILANGKITANG TAMBISKI"
+  },
+  {
+    "id": "1203052079",
+    "district_id": "120305",
+    "name": "BATANG PARSULUMAN"
+  }
+]

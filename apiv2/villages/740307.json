@@ -1,1 +1,32 @@
-[{"id": "7403072001", "district_id": "740307", "name": "LANGKORONI"}, {"id": "7403072002", "district_id": "740307", "name": "LATOMPA"}, {"id": "7403072003", "district_id": "740307", "name": "RAIMUNA"}, {"id": "7403072004", "district_id": "740307", "name": "MALIGANO"}, {"id": "7403072005", "district_id": "740307", "name": "LAPOLE"}, {"id": "7403072007", "district_id": "740307", "name": "POHORUA"}]
+[
+  {
+    "id": "7403072001",
+    "district_id": "740307",
+    "name": "LANGKORONI"
+  },
+  {
+    "id": "7403072002",
+    "district_id": "740307",
+    "name": "LATOMPA"
+  },
+  {
+    "id": "7403072003",
+    "district_id": "740307",
+    "name": "RAIMUNA"
+  },
+  {
+    "id": "7403072004",
+    "district_id": "740307",
+    "name": "MALIGANO"
+  },
+  {
+    "id": "7403072005",
+    "district_id": "740307",
+    "name": "LAPOLE"
+  },
+  {
+    "id": "7403072007",
+    "district_id": "740307",
+    "name": "POHORUA"
+  }
+]

@@ -1,1 +1,97 @@
-[{"id": "750101", "regency_id": "7501", "name": "LIMBOTO"}, {"id": "750102", "regency_id": "7501", "name": "TELAGA"}, {"id": "750103", "regency_id": "7501", "name": "BATUDAA"}, {"id": "750104", "regency_id": "7501", "name": "TIBAWA"}, {"id": "750105", "regency_id": "7501", "name": "BATUDAA PANTAI"}, {"id": "750109", "regency_id": "7501", "name": "BOLIYOHUTO"}, {"id": "750110", "regency_id": "7501", "name": "TELAGA BIRU"}, {"id": "750111", "regency_id": "7501", "name": "BONGOMEME"}, {"id": "750113", "regency_id": "7501", "name": "TOLANGOHULA"}, {"id": "750114", "regency_id": "7501", "name": "MOOTILANGO"}, {"id": "750116", "regency_id": "7501", "name": "PULUBALA"}, {"id": "750117", "regency_id": "7501", "name": "LIMBOTO BARAT"}, {"id": "750118", "regency_id": "7501", "name": "TILANGO"}, {"id": "750119", "regency_id": "7501", "name": "TABONGO"}, {"id": "750120", "regency_id": "7501", "name": "BILUHU"}, {"id": "750121", "regency_id": "7501", "name": "ASPARAGA"}, {"id": "750122", "regency_id": "7501", "name": "TALAGA JAYA"}, {"id": "750123", "regency_id": "7501", "name": "BILATO"}, {"id": "750124", "regency_id": "7501", "name": "DUNGALIYO"}]
+[
+  {
+    "id": "750101",
+    "regency_id": "7501",
+    "name": "LIMBOTO"
+  },
+  {
+    "id": "750102",
+    "regency_id": "7501",
+    "name": "TELAGA"
+  },
+  {
+    "id": "750103",
+    "regency_id": "7501",
+    "name": "BATUDAA"
+  },
+  {
+    "id": "750104",
+    "regency_id": "7501",
+    "name": "TIBAWA"
+  },
+  {
+    "id": "750105",
+    "regency_id": "7501",
+    "name": "BATUDAA PANTAI"
+  },
+  {
+    "id": "750109",
+    "regency_id": "7501",
+    "name": "BOLIYOHUTO"
+  },
+  {
+    "id": "750110",
+    "regency_id": "7501",
+    "name": "TELAGA BIRU"
+  },
+  {
+    "id": "750111",
+    "regency_id": "7501",
+    "name": "BONGOMEME"
+  },
+  {
+    "id": "750113",
+    "regency_id": "7501",
+    "name": "TOLANGOHULA"
+  },
+  {
+    "id": "750114",
+    "regency_id": "7501",
+    "name": "MOOTILANGO"
+  },
+  {
+    "id": "750116",
+    "regency_id": "7501",
+    "name": "PULUBALA"
+  },
+  {
+    "id": "750117",
+    "regency_id": "7501",
+    "name": "LIMBOTO BARAT"
+  },
+  {
+    "id": "750118",
+    "regency_id": "7501",
+    "name": "TILANGO"
+  },
+  {
+    "id": "750119",
+    "regency_id": "7501",
+    "name": "TABONGO"
+  },
+  {
+    "id": "750120",
+    "regency_id": "7501",
+    "name": "BILUHU"
+  },
+  {
+    "id": "750121",
+    "regency_id": "7501",
+    "name": "ASPARAGA"
+  },
+  {
+    "id": "750122",
+    "regency_id": "7501",
+    "name": "TALAGA JAYA"
+  },
+  {
+    "id": "750123",
+    "regency_id": "7501",
+    "name": "BILATO"
+  },
+  {
+    "id": "750124",
+    "regency_id": "7501",
+    "name": "DUNGALIYO"
+  }
+]

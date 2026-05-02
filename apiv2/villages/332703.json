@@ -1,1 +1,67 @@
-[{"id": "3327032001", "district_id": "332703", "name": "GOMBONG"}, {"id": "3327032002", "district_id": "332703", "name": "BELIK"}, {"id": "3327032003", "district_id": "332703", "name": "GUNUNGTIGA"}, {"id": "3327032004", "district_id": "332703", "name": "KUTA"}, {"id": "3327032005", "district_id": "332703", "name": "BADAK"}, {"id": "3327032006", "district_id": "332703", "name": "GUNUNGJAYA"}, {"id": "3327032007", "district_id": "332703", "name": "SIMPUR"}, {"id": "3327032008", "district_id": "332703", "name": "MENDELEM"}, {"id": "3327032009", "district_id": "332703", "name": "BELUK"}, {"id": "3327032010", "district_id": "332703", "name": "BULAKAN"}, {"id": "3327032011", "district_id": "332703", "name": "SIKASUR"}, {"id": "3327032012", "district_id": "332703", "name": "KALISALEH"}, {"id": "3327032013", "district_id": "332703", "name": "SODONG BASARI"}]
+[
+  {
+    "id": "3327032001",
+    "district_id": "332703",
+    "name": "GOMBONG"
+  },
+  {
+    "id": "3327032002",
+    "district_id": "332703",
+    "name": "BELIK"
+  },
+  {
+    "id": "3327032003",
+    "district_id": "332703",
+    "name": "GUNUNGTIGA"
+  },
+  {
+    "id": "3327032004",
+    "district_id": "332703",
+    "name": "KUTA"
+  },
+  {
+    "id": "3327032005",
+    "district_id": "332703",
+    "name": "BADAK"
+  },
+  {
+    "id": "3327032006",
+    "district_id": "332703",
+    "name": "GUNUNGJAYA"
+  },
+  {
+    "id": "3327032007",
+    "district_id": "332703",
+    "name": "SIMPUR"
+  },
+  {
+    "id": "3327032008",
+    "district_id": "332703",
+    "name": "MENDELEM"
+  },
+  {
+    "id": "3327032009",
+    "district_id": "332703",
+    "name": "BELUK"
+  },
+  {
+    "id": "3327032010",
+    "district_id": "332703",
+    "name": "BULAKAN"
+  },
+  {
+    "id": "3327032011",
+    "district_id": "332703",
+    "name": "SIKASUR"
+  },
+  {
+    "id": "3327032012",
+    "district_id": "332703",
+    "name": "KALISALEH"
+  },
+  {
+    "id": "3327032013",
+    "district_id": "332703",
+    "name": "SODONG BASARI"
+  }
+]

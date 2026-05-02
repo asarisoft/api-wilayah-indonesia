@@ -1,1 +1,57 @@
-[{"id": "3322172001", "district_id": "332217", "name": "KALIWUNGU"}, {"id": "3322172002", "district_id": "332217", "name": "JETIS"}, {"id": "3322172003", "district_id": "332217", "name": "KENER"}, {"id": "3322172004", "district_id": "332217", "name": "KRADENAN"}, {"id": "3322172005", "district_id": "332217", "name": "MUKIRAN"}, {"id": "3322172006", "district_id": "332217", "name": "PAGER"}, {"id": "3322172007", "district_id": "332217", "name": "PAPRINGAN"}, {"id": "3322172008", "district_id": "332217", "name": "PAYUNGAN"}, {"id": "3322172009", "district_id": "332217", "name": "ROGOMULYO"}, {"id": "3322172010", "district_id": "332217", "name": "SIWAL"}, {"id": "3322172011", "district_id": "332217", "name": "UDANWUH"}]
+[
+  {
+    "id": "3322172001",
+    "district_id": "332217",
+    "name": "KALIWUNGU"
+  },
+  {
+    "id": "3322172002",
+    "district_id": "332217",
+    "name": "JETIS"
+  },
+  {
+    "id": "3322172003",
+    "district_id": "332217",
+    "name": "KENER"
+  },
+  {
+    "id": "3322172004",
+    "district_id": "332217",
+    "name": "KRADENAN"
+  },
+  {
+    "id": "3322172005",
+    "district_id": "332217",
+    "name": "MUKIRAN"
+  },
+  {
+    "id": "3322172006",
+    "district_id": "332217",
+    "name": "PAGER"
+  },
+  {
+    "id": "3322172007",
+    "district_id": "332217",
+    "name": "PAPRINGAN"
+  },
+  {
+    "id": "3322172008",
+    "district_id": "332217",
+    "name": "PAYUNGAN"
+  },
+  {
+    "id": "3322172009",
+    "district_id": "332217",
+    "name": "ROGOMULYO"
+  },
+  {
+    "id": "3322172010",
+    "district_id": "332217",
+    "name": "SIWAL"
+  },
+  {
+    "id": "3322172011",
+    "district_id": "332217",
+    "name": "UDANWUH"
+  }
+]

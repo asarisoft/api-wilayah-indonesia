@@ -1,1 +1,52 @@
-[{"id": "1603232001", "district_id": "160323", "name": "TANJUNG"}, {"id": "1603232002", "district_id": "160323", "name": "SIMPANG TANJUNG"}, {"id": "1603232003", "district_id": "160323", "name": "CINTA KASIH"}, {"id": "1603232004", "district_id": "160323", "name": "TELUK LUBUK"}, {"id": "1603232005", "district_id": "160323", "name": "BERUGO"}, {"id": "1603232006", "district_id": "160323", "name": "BELIMBING"}, {"id": "1603232007", "district_id": "160323", "name": "BULANG"}, {"id": "1603232008", "district_id": "160323", "name": "BELIMBING JAYA"}, {"id": "1603232009", "district_id": "160323", "name": "DARMO KASIH"}, {"id": "1603232010", "district_id": "160323", "name": "DALAM"}]
+[
+  {
+    "id": "1603232001",
+    "district_id": "160323",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "1603232002",
+    "district_id": "160323",
+    "name": "SIMPANG TANJUNG"
+  },
+  {
+    "id": "1603232003",
+    "district_id": "160323",
+    "name": "CINTA KASIH"
+  },
+  {
+    "id": "1603232004",
+    "district_id": "160323",
+    "name": "TELUK LUBUK"
+  },
+  {
+    "id": "1603232005",
+    "district_id": "160323",
+    "name": "BERUGO"
+  },
+  {
+    "id": "1603232006",
+    "district_id": "160323",
+    "name": "BELIMBING"
+  },
+  {
+    "id": "1603232007",
+    "district_id": "160323",
+    "name": "BULANG"
+  },
+  {
+    "id": "1603232008",
+    "district_id": "160323",
+    "name": "BELIMBING JAYA"
+  },
+  {
+    "id": "1603232009",
+    "district_id": "160323",
+    "name": "DARMO KASIH"
+  },
+  {
+    "id": "1603232010",
+    "district_id": "160323",
+    "name": "DALAM"
+  }
+]

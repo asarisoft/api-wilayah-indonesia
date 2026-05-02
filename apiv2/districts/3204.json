@@ -1,1 +1,157 @@
-[{"id": "320405", "regency_id": "3204", "name": "CILEUNYI"}, {"id": "320406", "regency_id": "3204", "name": "CIMENYAN"}, {"id": "320407", "regency_id": "3204", "name": "CILENGKRANG"}, {"id": "320408", "regency_id": "3204", "name": "BOJONGSOANG"}, {"id": "320409", "regency_id": "3204", "name": "MARGAHAYU"}, {"id": "320410", "regency_id": "3204", "name": "MARGAASIH"}, {"id": "320411", "regency_id": "3204", "name": "KATAPANG"}, {"id": "320412", "regency_id": "3204", "name": "DAYEUHKOLOT"}, {"id": "320413", "regency_id": "3204", "name": "BANJARAN"}, {"id": "320414", "regency_id": "3204", "name": "PAMEUNGPEUK"}, {"id": "320415", "regency_id": "3204", "name": "PANGALENGAN"}, {"id": "320416", "regency_id": "3204", "name": "ARJASARI"}, {"id": "320417", "regency_id": "3204", "name": "CIMAUNG"}, {"id": "320425", "regency_id": "3204", "name": "CICALENGKA"}, {"id": "320426", "regency_id": "3204", "name": "NAGREG"}, {"id": "320427", "regency_id": "3204", "name": "CIKANCUNG"}, {"id": "320428", "regency_id": "3204", "name": "RANCAEKEK"}, {"id": "320429", "regency_id": "3204", "name": "CIPARAY"}, {"id": "320430", "regency_id": "3204", "name": "PACET"}, {"id": "320431", "regency_id": "3204", "name": "KERTASARI"}, {"id": "320432", "regency_id": "3204", "name": "BALEENDAH"}, {"id": "320433", "regency_id": "3204", "name": "MAJALAYA"}, {"id": "320434", "regency_id": "3204", "name": "SOLOKANJERUK"}, {"id": "320435", "regency_id": "3204", "name": "PASEH"}, {"id": "320436", "regency_id": "3204", "name": "IBUN"}, {"id": "320437", "regency_id": "3204", "name": "SOREANG"}, {"id": "320438", "regency_id": "3204", "name": "PASIRJAMBU"}, {"id": "320439", "regency_id": "3204", "name": "CIWIDEY"}, {"id": "320440", "regency_id": "3204", "name": "RANCABALI"}, {"id": "320444", "regency_id": "3204", "name": "CANGKUANG"}, {"id": "320446", "regency_id": "3204", "name": "KUTAWARINGIN"}]
+[
+  {
+    "id": "320405",
+    "regency_id": "3204",
+    "name": "CILEUNYI"
+  },
+  {
+    "id": "320406",
+    "regency_id": "3204",
+    "name": "CIMENYAN"
+  },
+  {
+    "id": "320407",
+    "regency_id": "3204",
+    "name": "CILENGKRANG"
+  },
+  {
+    "id": "320408",
+    "regency_id": "3204",
+    "name": "BOJONGSOANG"
+  },
+  {
+    "id": "320409",
+    "regency_id": "3204",
+    "name": "MARGAHAYU"
+  },
+  {
+    "id": "320410",
+    "regency_id": "3204",
+    "name": "MARGAASIH"
+  },
+  {
+    "id": "320411",
+    "regency_id": "3204",
+    "name": "KATAPANG"
+  },
+  {
+    "id": "320412",
+    "regency_id": "3204",
+    "name": "DAYEUHKOLOT"
+  },
+  {
+    "id": "320413",
+    "regency_id": "3204",
+    "name": "BANJARAN"
+  },
+  {
+    "id": "320414",
+    "regency_id": "3204",
+    "name": "PAMEUNGPEUK"
+  },
+  {
+    "id": "320415",
+    "regency_id": "3204",
+    "name": "PANGALENGAN"
+  },
+  {
+    "id": "320416",
+    "regency_id": "3204",
+    "name": "ARJASARI"
+  },
+  {
+    "id": "320417",
+    "regency_id": "3204",
+    "name": "CIMAUNG"
+  },
+  {
+    "id": "320425",
+    "regency_id": "3204",
+    "name": "CICALENGKA"
+  },
+  {
+    "id": "320426",
+    "regency_id": "3204",
+    "name": "NAGREG"
+  },
+  {
+    "id": "320427",
+    "regency_id": "3204",
+    "name": "CIKANCUNG"
+  },
+  {
+    "id": "320428",
+    "regency_id": "3204",
+    "name": "RANCAEKEK"
+  },
+  {
+    "id": "320429",
+    "regency_id": "3204",
+    "name": "CIPARAY"
+  },
+  {
+    "id": "320430",
+    "regency_id": "3204",
+    "name": "PACET"
+  },
+  {
+    "id": "320431",
+    "regency_id": "3204",
+    "name": "KERTASARI"
+  },
+  {
+    "id": "320432",
+    "regency_id": "3204",
+    "name": "BALEENDAH"
+  },
+  {
+    "id": "320433",
+    "regency_id": "3204",
+    "name": "MAJALAYA"
+  },
+  {
+    "id": "320434",
+    "regency_id": "3204",
+    "name": "SOLOKANJERUK"
+  },
+  {
+    "id": "320435",
+    "regency_id": "3204",
+    "name": "PASEH"
+  },
+  {
+    "id": "320436",
+    "regency_id": "3204",
+    "name": "IBUN"
+  },
+  {
+    "id": "320437",
+    "regency_id": "3204",
+    "name": "SOREANG"
+  },
+  {
+    "id": "320438",
+    "regency_id": "3204",
+    "name": "PASIRJAMBU"
+  },
+  {
+    "id": "320439",
+    "regency_id": "3204",
+    "name": "CIWIDEY"
+  },
+  {
+    "id": "320440",
+    "regency_id": "3204",
+    "name": "RANCABALI"
+  },
+  {
+    "id": "320444",
+    "regency_id": "3204",
+    "name": "CANGKUANG"
+  },
+  {
+    "id": "320446",
+    "regency_id": "3204",
+    "name": "KUTAWARINGIN"
+  }
+]

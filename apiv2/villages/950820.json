@@ -1,1 +1,42 @@
-[{"id": "9508202001", "district_id": "950820", "name": "BIRIPEM"}, {"id": "9508202002", "district_id": "950820", "name": "DAKBRI"}, {"id": "9508202003", "district_id": "950820", "name": "ABUALAK"}, {"id": "9508202004", "district_id": "950820", "name": "URUGOM"}, {"id": "9508202005", "district_id": "950820", "name": "AREA"}, {"id": "9508202006", "district_id": "950820", "name": "WUMAGA"}, {"id": "9508202007", "district_id": "950820", "name": "GULAMA"}, {"id": "9508202008", "district_id": "950820", "name": "KIGAM"}]
+[
+  {
+    "id": "9508202001",
+    "district_id": "950820",
+    "name": "BIRIPEM"
+  },
+  {
+    "id": "9508202002",
+    "district_id": "950820",
+    "name": "DAKBRI"
+  },
+  {
+    "id": "9508202003",
+    "district_id": "950820",
+    "name": "ABUALAK"
+  },
+  {
+    "id": "9508202004",
+    "district_id": "950820",
+    "name": "URUGOM"
+  },
+  {
+    "id": "9508202005",
+    "district_id": "950820",
+    "name": "AREA"
+  },
+  {
+    "id": "9508202006",
+    "district_id": "950820",
+    "name": "WUMAGA"
+  },
+  {
+    "id": "9508202007",
+    "district_id": "950820",
+    "name": "GULAMA"
+  },
+  {
+    "id": "9508202008",
+    "district_id": "950820",
+    "name": "KIGAM"
+  }
+]

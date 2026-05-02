@@ -1,1 +1,102 @@
-[{"id": "3506022001", "district_id": "350602", "name": "JUGO"}, {"id": "3506022002", "district_id": "350602", "name": "BLIMBING"}, {"id": "3506022003", "district_id": "350602", "name": "PAMONGAN"}, {"id": "3506022004", "district_id": "350602", "name": "PETUNGROTO"}, {"id": "3506022005", "district_id": "350602", "name": "NGETREP"}, {"id": "3506022006", "district_id": "350602", "name": "PONGGOK"}, {"id": "3506022007", "district_id": "350602", "name": "NGADI"}, {"id": "3506022008", "district_id": "350602", "name": "KRANDING"}, {"id": "3506022009", "district_id": "350602", "name": "MAESAN"}, {"id": "3506022010", "district_id": "350602", "name": "KEDAWUNG"}, {"id": "3506022011", "district_id": "350602", "name": "PLOSO"}, {"id": "3506022012", "district_id": "350602", "name": "KRATON"}, {"id": "3506022013", "district_id": "350602", "name": "TAMBIBENDO"}, {"id": "3506022014", "district_id": "350602", "name": "MOJO"}, {"id": "3506022015", "district_id": "350602", "name": "MLATI"}, {"id": "3506022016", "district_id": "350602", "name": "SURAT"}, {"id": "3506022017", "district_id": "350602", "name": "SUKOANYAR"}, {"id": "3506022018", "district_id": "350602", "name": "KENITEN"}, {"id": "3506022019", "district_id": "350602", "name": "MONDO"}, {"id": "3506022020", "district_id": "350602", "name": "PETOK"}]
+[
+  {
+    "id": "3506022001",
+    "district_id": "350602",
+    "name": "JUGO"
+  },
+  {
+    "id": "3506022002",
+    "district_id": "350602",
+    "name": "BLIMBING"
+  },
+  {
+    "id": "3506022003",
+    "district_id": "350602",
+    "name": "PAMONGAN"
+  },
+  {
+    "id": "3506022004",
+    "district_id": "350602",
+    "name": "PETUNGROTO"
+  },
+  {
+    "id": "3506022005",
+    "district_id": "350602",
+    "name": "NGETREP"
+  },
+  {
+    "id": "3506022006",
+    "district_id": "350602",
+    "name": "PONGGOK"
+  },
+  {
+    "id": "3506022007",
+    "district_id": "350602",
+    "name": "NGADI"
+  },
+  {
+    "id": "3506022008",
+    "district_id": "350602",
+    "name": "KRANDING"
+  },
+  {
+    "id": "3506022009",
+    "district_id": "350602",
+    "name": "MAESAN"
+  },
+  {
+    "id": "3506022010",
+    "district_id": "350602",
+    "name": "KEDAWUNG"
+  },
+  {
+    "id": "3506022011",
+    "district_id": "350602",
+    "name": "PLOSO"
+  },
+  {
+    "id": "3506022012",
+    "district_id": "350602",
+    "name": "KRATON"
+  },
+  {
+    "id": "3506022013",
+    "district_id": "350602",
+    "name": "TAMBIBENDO"
+  },
+  {
+    "id": "3506022014",
+    "district_id": "350602",
+    "name": "MOJO"
+  },
+  {
+    "id": "3506022015",
+    "district_id": "350602",
+    "name": "MLATI"
+  },
+  {
+    "id": "3506022016",
+    "district_id": "350602",
+    "name": "SURAT"
+  },
+  {
+    "id": "3506022017",
+    "district_id": "350602",
+    "name": "SUKOANYAR"
+  },
+  {
+    "id": "3506022018",
+    "district_id": "350602",
+    "name": "KENITEN"
+  },
+  {
+    "id": "3506022019",
+    "district_id": "350602",
+    "name": "MONDO"
+  },
+  {
+    "id": "3506022020",
+    "district_id": "350602",
+    "name": "PETOK"
+  }
+]

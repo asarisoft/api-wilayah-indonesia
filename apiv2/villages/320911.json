@@ -1,1 +1,47 @@
-[{"id": "3209112001", "district_id": "320911", "name": "GETRAKMOYAN"}, {"id": "3209112002", "district_id": "320911", "name": "ENDER"}, {"id": "3209112003", "district_id": "320911", "name": "PANGENAN"}, {"id": "3209112004", "district_id": "320911", "name": "BENDUNGAN"}, {"id": "3209112005", "district_id": "320911", "name": "RAWAURIP"}, {"id": "3209112006", "district_id": "320911", "name": "BERINGIN"}, {"id": "3209112007", "district_id": "320911", "name": "JAPURA LOR"}, {"id": "3209112008", "district_id": "320911", "name": "PENGARENGAN"}, {"id": "3209112009", "district_id": "320911", "name": "ASTANAMUKTI"}]
+[
+  {
+    "id": "3209112001",
+    "district_id": "320911",
+    "name": "GETRAKMOYAN"
+  },
+  {
+    "id": "3209112002",
+    "district_id": "320911",
+    "name": "ENDER"
+  },
+  {
+    "id": "3209112003",
+    "district_id": "320911",
+    "name": "PANGENAN"
+  },
+  {
+    "id": "3209112004",
+    "district_id": "320911",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "3209112005",
+    "district_id": "320911",
+    "name": "RAWAURIP"
+  },
+  {
+    "id": "3209112006",
+    "district_id": "320911",
+    "name": "BERINGIN"
+  },
+  {
+    "id": "3209112007",
+    "district_id": "320911",
+    "name": "JAPURA LOR"
+  },
+  {
+    "id": "3209112008",
+    "district_id": "320911",
+    "name": "PENGARENGAN"
+  },
+  {
+    "id": "3209112009",
+    "district_id": "320911",
+    "name": "ASTANAMUKTI"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "9503252001", "district_id": "950325", "name": "WALMA"}, {"id": "9503252002", "district_id": "950325", "name": "SOLINGGUL"}, {"id": "9503252003", "district_id": "950325", "name": "HONTULUN"}, {"id": "9503252004", "district_id": "950325", "name": "HONGGOLEK"}, {"id": "9503252005", "district_id": "950325", "name": "WERENE"}, {"id": "9503252006", "district_id": "950325", "name": "WERI"}, {"id": "9503252007", "district_id": "950325", "name": "WEWASI"}, {"id": "9503252008", "district_id": "950325", "name": "YETEHUP"}]
+[
+  {
+    "id": "9503252001",
+    "district_id": "950325",
+    "name": "WALMA"
+  },
+  {
+    "id": "9503252002",
+    "district_id": "950325",
+    "name": "SOLINGGUL"
+  },
+  {
+    "id": "9503252003",
+    "district_id": "950325",
+    "name": "HONTULUN"
+  },
+  {
+    "id": "9503252004",
+    "district_id": "950325",
+    "name": "HONGGOLEK"
+  },
+  {
+    "id": "9503252005",
+    "district_id": "950325",
+    "name": "WERENE"
+  },
+  {
+    "id": "9503252006",
+    "district_id": "950325",
+    "name": "WERI"
+  },
+  {
+    "id": "9503252007",
+    "district_id": "950325",
+    "name": "WEWASI"
+  },
+  {
+    "id": "9503252008",
+    "district_id": "950325",
+    "name": "YETEHUP"
+  }
+]

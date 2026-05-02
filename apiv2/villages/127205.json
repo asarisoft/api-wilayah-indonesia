@@ -1,1 +1,37 @@
-[{"id": "1272051002", "district_id": "127205", "name": "SUKARAJA"}, {"id": "1272051005", "district_id": "127205", "name": "BARINGIN PANCUR NAULI"}, {"id": "1272051006", "district_id": "127205", "name": "PARDAMEAN"}, {"id": "1272051007", "district_id": "127205", "name": "SUKAMAJU"}, {"id": "1272051008", "district_id": "127205", "name": "PARHORASAN NAULI"}, {"id": "1272051009", "district_id": "127205", "name": "SUKAMAKMUR"}, {"id": "1272051010", "district_id": "127205", "name": "MEKAR NAULI"}]
+[
+  {
+    "id": "1272051002",
+    "district_id": "127205",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "1272051005",
+    "district_id": "127205",
+    "name": "BARINGIN PANCUR NAULI"
+  },
+  {
+    "id": "1272051006",
+    "district_id": "127205",
+    "name": "PARDAMEAN"
+  },
+  {
+    "id": "1272051007",
+    "district_id": "127205",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "1272051008",
+    "district_id": "127205",
+    "name": "PARHORASAN NAULI"
+  },
+  {
+    "id": "1272051009",
+    "district_id": "127205",
+    "name": "SUKAMAKMUR"
+  },
+  {
+    "id": "1272051010",
+    "district_id": "127205",
+    "name": "MEKAR NAULI"
+  }
+]

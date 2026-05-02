@@ -1,1 +1,52 @@
-[{"id": "1408082001", "district_id": "140808", "name": "BUNGA RAYA"}, {"id": "1408082002", "district_id": "140808", "name": "JATI BARU"}, {"id": "1408082003", "district_id": "140808", "name": "JAYAPURA"}, {"id": "1408082011", "district_id": "140808", "name": "KEMUNING MUDA"}, {"id": "1408082012", "district_id": "140808", "name": "BUATAN LESTARI"}, {"id": "1408082013", "district_id": "140808", "name": "TUAH INDRAPURA"}, {"id": "1408082014", "district_id": "140808", "name": "LANGSAT PERMAI"}, {"id": "1408082015", "district_id": "140808", "name": "TEMUSAI"}, {"id": "1408082016", "district_id": "140808", "name": "DAYANG SURI"}, {"id": "1408082017", "district_id": "140808", "name": "SUAK MERAMBAI"}]
+[
+  {
+    "id": "1408082001",
+    "district_id": "140808",
+    "name": "BUNGA RAYA"
+  },
+  {
+    "id": "1408082002",
+    "district_id": "140808",
+    "name": "JATI BARU"
+  },
+  {
+    "id": "1408082003",
+    "district_id": "140808",
+    "name": "JAYAPURA"
+  },
+  {
+    "id": "1408082011",
+    "district_id": "140808",
+    "name": "KEMUNING MUDA"
+  },
+  {
+    "id": "1408082012",
+    "district_id": "140808",
+    "name": "BUATAN LESTARI"
+  },
+  {
+    "id": "1408082013",
+    "district_id": "140808",
+    "name": "TUAH INDRAPURA"
+  },
+  {
+    "id": "1408082014",
+    "district_id": "140808",
+    "name": "LANGSAT PERMAI"
+  },
+  {
+    "id": "1408082015",
+    "district_id": "140808",
+    "name": "TEMUSAI"
+  },
+  {
+    "id": "1408082016",
+    "district_id": "140808",
+    "name": "DAYANG SURI"
+  },
+  {
+    "id": "1408082017",
+    "district_id": "140808",
+    "name": "SUAK MERAMBAI"
+  }
+]

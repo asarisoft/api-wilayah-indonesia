@@ -1,1 +1,67 @@
-[{"id": "9301042001", "district_id": "930104", "name": "KIMAAM"}, {"id": "9301042002", "district_id": "930104", "name": "KOMOLOM"}, {"id": "9301042003", "district_id": "930104", "name": "KUMBIS"}, {"id": "9301042004", "district_id": "930104", "name": "KALILAM"}, {"id": "9301042005", "district_id": "930104", "name": "TERI"}, {"id": "9301042006", "district_id": "930104", "name": "MAMBUM"}, {"id": "9301042007", "district_id": "930104", "name": "KIWORO"}, {"id": "9301042008", "district_id": "930104", "name": "WONER"}, {"id": "9301042009", "district_id": "930104", "name": "DEKA"}, {"id": "9301042010", "district_id": "930104", "name": "TURIRAM"}, {"id": "9301042011", "district_id": "930104", "name": "PURAWANDERU"}, {"id": "9301042012", "district_id": "930104", "name": "UMANDERU"}, {"id": "9301042013", "district_id": "930104", "name": "WEBU"}]
+[
+  {
+    "id": "9301042001",
+    "district_id": "930104",
+    "name": "KIMAAM"
+  },
+  {
+    "id": "9301042002",
+    "district_id": "930104",
+    "name": "KOMOLOM"
+  },
+  {
+    "id": "9301042003",
+    "district_id": "930104",
+    "name": "KUMBIS"
+  },
+  {
+    "id": "9301042004",
+    "district_id": "930104",
+    "name": "KALILAM"
+  },
+  {
+    "id": "9301042005",
+    "district_id": "930104",
+    "name": "TERI"
+  },
+  {
+    "id": "9301042006",
+    "district_id": "930104",
+    "name": "MAMBUM"
+  },
+  {
+    "id": "9301042007",
+    "district_id": "930104",
+    "name": "KIWORO"
+  },
+  {
+    "id": "9301042008",
+    "district_id": "930104",
+    "name": "WONER"
+  },
+  {
+    "id": "9301042009",
+    "district_id": "930104",
+    "name": "DEKA"
+  },
+  {
+    "id": "9301042010",
+    "district_id": "930104",
+    "name": "TURIRAM"
+  },
+  {
+    "id": "9301042011",
+    "district_id": "930104",
+    "name": "PURAWANDERU"
+  },
+  {
+    "id": "9301042012",
+    "district_id": "930104",
+    "name": "UMANDERU"
+  },
+  {
+    "id": "9301042013",
+    "district_id": "930104",
+    "name": "WEBU"
+  }
+]

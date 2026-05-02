@@ -1,1 +1,57 @@
-[{"id": "131001", "regency_id": "1310", "name": "KOTO BARU"}, {"id": "131002", "regency_id": "1310", "name": "PULAU PUNJUNG"}, {"id": "131003", "regency_id": "1310", "name": "SUNGAI RUMBAI"}, {"id": "131004", "regency_id": "1310", "name": "SITIUNG"}, {"id": "131005", "regency_id": "1310", "name": "SEMBILAN KOTO"}, {"id": "131006", "regency_id": "1310", "name": "TIMPEH"}, {"id": "131007", "regency_id": "1310", "name": "KOTO SALAK"}, {"id": "131008", "regency_id": "1310", "name": "TIUMANG"}, {"id": "131009", "regency_id": "1310", "name": "PADANG LAWEH"}, {"id": "131010", "regency_id": "1310", "name": "ASAM JUJUHAN"}, {"id": "131011", "regency_id": "1310", "name": "KOTO BESAR"}]
+[
+  {
+    "id": "131001",
+    "regency_id": "1310",
+    "name": "KOTO BARU"
+  },
+  {
+    "id": "131002",
+    "regency_id": "1310",
+    "name": "PULAU PUNJUNG"
+  },
+  {
+    "id": "131003",
+    "regency_id": "1310",
+    "name": "SUNGAI RUMBAI"
+  },
+  {
+    "id": "131004",
+    "regency_id": "1310",
+    "name": "SITIUNG"
+  },
+  {
+    "id": "131005",
+    "regency_id": "1310",
+    "name": "SEMBILAN KOTO"
+  },
+  {
+    "id": "131006",
+    "regency_id": "1310",
+    "name": "TIMPEH"
+  },
+  {
+    "id": "131007",
+    "regency_id": "1310",
+    "name": "KOTO SALAK"
+  },
+  {
+    "id": "131008",
+    "regency_id": "1310",
+    "name": "TIUMANG"
+  },
+  {
+    "id": "131009",
+    "regency_id": "1310",
+    "name": "PADANG LAWEH"
+  },
+  {
+    "id": "131010",
+    "regency_id": "1310",
+    "name": "ASAM JUJUHAN"
+  },
+  {
+    "id": "131011",
+    "regency_id": "1310",
+    "name": "KOTO BESAR"
+  }
+]

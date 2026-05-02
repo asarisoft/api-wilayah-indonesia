@@ -1,1 +1,32 @@
-[{"id": "7471011005", "district_id": "747101", "name": "MANDONGA"}, {"id": "7471011006", "district_id": "747101", "name": "KORUMBA"}, {"id": "7471011007", "district_id": "747101", "name": "LABIBIA"}, {"id": "7471011008", "district_id": "747101", "name": "WAWOMBALATA"}, {"id": "7471011009", "district_id": "747101", "name": "ALOLAMA"}, {"id": "7471011010", "district_id": "747101", "name": "ANGGILOWU"}]
+[
+  {
+    "id": "7471011005",
+    "district_id": "747101",
+    "name": "MANDONGA"
+  },
+  {
+    "id": "7471011006",
+    "district_id": "747101",
+    "name": "KORUMBA"
+  },
+  {
+    "id": "7471011007",
+    "district_id": "747101",
+    "name": "LABIBIA"
+  },
+  {
+    "id": "7471011008",
+    "district_id": "747101",
+    "name": "WAWOMBALATA"
+  },
+  {
+    "id": "7471011009",
+    "district_id": "747101",
+    "name": "ALOLAMA"
+  },
+  {
+    "id": "7471011010",
+    "district_id": "747101",
+    "name": "ANGGILOWU"
+  }
+]

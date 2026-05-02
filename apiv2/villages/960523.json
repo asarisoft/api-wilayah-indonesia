@@ -1,1 +1,52 @@
-[{"id": "9605232001", "district_id": "960523", "name": "JITMAU"}, {"id": "9605232002", "district_id": "960523", "name": "IKUF"}, {"id": "9605232003", "district_id": "960523", "name": "ISIR"}, {"id": "9605232004", "district_id": "960523", "name": "JITMAU TIMUR"}, {"id": "9605232005", "district_id": "960523", "name": "IKUF UTARA"}, {"id": "9605232006", "district_id": "960523", "name": "SARIMO"}, {"id": "9605232007", "district_id": "960523", "name": "KAMBUSABO"}, {"id": "9605232008", "district_id": "960523", "name": "SRIRTABAM"}, {"id": "9605232009", "district_id": "960523", "name": "FAITHOWES"}, {"id": "9605232010", "district_id": "960523", "name": "YUMAME"}]
+[
+  {
+    "id": "9605232001",
+    "district_id": "960523",
+    "name": "JITMAU"
+  },
+  {
+    "id": "9605232002",
+    "district_id": "960523",
+    "name": "IKUF"
+  },
+  {
+    "id": "9605232003",
+    "district_id": "960523",
+    "name": "ISIR"
+  },
+  {
+    "id": "9605232004",
+    "district_id": "960523",
+    "name": "JITMAU TIMUR"
+  },
+  {
+    "id": "9605232005",
+    "district_id": "960523",
+    "name": "IKUF UTARA"
+  },
+  {
+    "id": "9605232006",
+    "district_id": "960523",
+    "name": "SARIMO"
+  },
+  {
+    "id": "9605232007",
+    "district_id": "960523",
+    "name": "KAMBUSABO"
+  },
+  {
+    "id": "9605232008",
+    "district_id": "960523",
+    "name": "SRIRTABAM"
+  },
+  {
+    "id": "9605232009",
+    "district_id": "960523",
+    "name": "FAITHOWES"
+  },
+  {
+    "id": "9605232010",
+    "district_id": "960523",
+    "name": "YUMAME"
+  }
+]

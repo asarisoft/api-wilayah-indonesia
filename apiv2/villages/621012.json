@@ -1,1 +1,57 @@
-[{"id": "6210121006", "district_id": "621012", "name": "RABAMBANG"}, {"id": "6210122001", "district_id": "621012", "name": "HUJUNG PATA"}, {"id": "6210122002", "district_id": "621012", "name": "TUMBANG JALEMU KAJUEI"}, {"id": "6210122003", "district_id": "621012", "name": "JALEMU RAYA"}, {"id": "6210122004", "district_id": "621012", "name": "JALEMU MASULAN"}, {"id": "6210122005", "district_id": "621012", "name": "MANGKAWUK"}, {"id": "6210122007", "district_id": "621012", "name": "TAJAH ANTANG RAYA"}, {"id": "6210122008", "district_id": "621012", "name": "TUMBANG KUAYAN"}, {"id": "6210122009", "district_id": "621012", "name": "TUMBANG LANGGAH"}, {"id": "6210122010", "district_id": "621012", "name": "TUSANG RAYA"}, {"id": "6210122011", "district_id": "621012", "name": "TUMBANG BAHANEI"}]
+[
+  {
+    "id": "6210121006",
+    "district_id": "621012",
+    "name": "RABAMBANG"
+  },
+  {
+    "id": "6210122001",
+    "district_id": "621012",
+    "name": "HUJUNG PATA"
+  },
+  {
+    "id": "6210122002",
+    "district_id": "621012",
+    "name": "TUMBANG JALEMU KAJUEI"
+  },
+  {
+    "id": "6210122003",
+    "district_id": "621012",
+    "name": "JALEMU RAYA"
+  },
+  {
+    "id": "6210122004",
+    "district_id": "621012",
+    "name": "JALEMU MASULAN"
+  },
+  {
+    "id": "6210122005",
+    "district_id": "621012",
+    "name": "MANGKAWUK"
+  },
+  {
+    "id": "6210122007",
+    "district_id": "621012",
+    "name": "TAJAH ANTANG RAYA"
+  },
+  {
+    "id": "6210122008",
+    "district_id": "621012",
+    "name": "TUMBANG KUAYAN"
+  },
+  {
+    "id": "6210122009",
+    "district_id": "621012",
+    "name": "TUMBANG LANGGAH"
+  },
+  {
+    "id": "6210122010",
+    "district_id": "621012",
+    "name": "TUSANG RAYA"
+  },
+  {
+    "id": "6210122011",
+    "district_id": "621012",
+    "name": "TUMBANG BAHANEI"
+  }
+]

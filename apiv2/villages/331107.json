@@ -1,1 +1,87 @@
-[{"id": "3311072001", "district_id": "331107", "name": "PRANAN"}, {"id": "3311072002", "district_id": "331107", "name": "KARANGWUNI"}, {"id": "3311072003", "district_id": "331107", "name": "BUGEL"}, {"id": "3311072004", "district_id": "331107", "name": "NGOMBAKAN"}, {"id": "3311072005", "district_id": "331107", "name": "BAKALAN"}, {"id": "3311072006", "district_id": "331107", "name": "GODOG"}, {"id": "3311072007", "district_id": "331107", "name": "KEMASAN"}, {"id": "3311072008", "district_id": "331107", "name": "KENOKOREJO"}, {"id": "3311072009", "district_id": "331107", "name": "TEPISARI"}, {"id": "3311072010", "district_id": "331107", "name": "BULU"}, {"id": "3311072011", "district_id": "331107", "name": "REJOSARI"}, {"id": "3311072012", "district_id": "331107", "name": "POLOKARTO"}, {"id": "3311072013", "district_id": "331107", "name": "MRANGGEN"}, {"id": "3311072014", "district_id": "331107", "name": "WONOREJO"}, {"id": "3311072015", "district_id": "331107", "name": "JATISOBO"}, {"id": "3311072016", "district_id": "331107", "name": "KAYUAPAK"}, {"id": "3311072017", "district_id": "331107", "name": "GENENGSARI"}]
+[
+  {
+    "id": "3311072001",
+    "district_id": "331107",
+    "name": "PRANAN"
+  },
+  {
+    "id": "3311072002",
+    "district_id": "331107",
+    "name": "KARANGWUNI"
+  },
+  {
+    "id": "3311072003",
+    "district_id": "331107",
+    "name": "BUGEL"
+  },
+  {
+    "id": "3311072004",
+    "district_id": "331107",
+    "name": "NGOMBAKAN"
+  },
+  {
+    "id": "3311072005",
+    "district_id": "331107",
+    "name": "BAKALAN"
+  },
+  {
+    "id": "3311072006",
+    "district_id": "331107",
+    "name": "GODOG"
+  },
+  {
+    "id": "3311072007",
+    "district_id": "331107",
+    "name": "KEMASAN"
+  },
+  {
+    "id": "3311072008",
+    "district_id": "331107",
+    "name": "KENOKOREJO"
+  },
+  {
+    "id": "3311072009",
+    "district_id": "331107",
+    "name": "TEPISARI"
+  },
+  {
+    "id": "3311072010",
+    "district_id": "331107",
+    "name": "BULU"
+  },
+  {
+    "id": "3311072011",
+    "district_id": "331107",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3311072012",
+    "district_id": "331107",
+    "name": "POLOKARTO"
+  },
+  {
+    "id": "3311072013",
+    "district_id": "331107",
+    "name": "MRANGGEN"
+  },
+  {
+    "id": "3311072014",
+    "district_id": "331107",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3311072015",
+    "district_id": "331107",
+    "name": "JATISOBO"
+  },
+  {
+    "id": "3311072016",
+    "district_id": "331107",
+    "name": "KAYUAPAK"
+  },
+  {
+    "id": "3311072017",
+    "district_id": "331107",
+    "name": "GENENGSARI"
+  }
+]

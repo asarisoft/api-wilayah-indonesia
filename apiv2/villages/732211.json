@@ -1,1 +1,57 @@
-[{"id": "7322111005", "district_id": "732211", "name": "SALASSA"}, {"id": "7322112002", "district_id": "732211", "name": "SALULEMO"}, {"id": "7322112003", "district_id": "732211", "name": "RADDA"}, {"id": "7322112004", "district_id": "732211", "name": "BAEBUNTA"}, {"id": "7322112007", "district_id": "732211", "name": "TAROBOK"}, {"id": "7322112008", "district_id": "732211", "name": "MARIO"}, {"id": "7322112009", "district_id": "732211", "name": "SASSA"}, {"id": "7322112010", "district_id": "732211", "name": "KARIANGO"}, {"id": "7322112011", "district_id": "732211", "name": "MELI"}, {"id": "7322112013", "district_id": "732211", "name": "PALANDAN"}, {"id": "7322112015", "district_id": "732211", "name": "BUMI HARAPAN"}]
+[
+  {
+    "id": "7322111005",
+    "district_id": "732211",
+    "name": "SALASSA"
+  },
+  {
+    "id": "7322112002",
+    "district_id": "732211",
+    "name": "SALULEMO"
+  },
+  {
+    "id": "7322112003",
+    "district_id": "732211",
+    "name": "RADDA"
+  },
+  {
+    "id": "7322112004",
+    "district_id": "732211",
+    "name": "BAEBUNTA"
+  },
+  {
+    "id": "7322112007",
+    "district_id": "732211",
+    "name": "TAROBOK"
+  },
+  {
+    "id": "7322112008",
+    "district_id": "732211",
+    "name": "MARIO"
+  },
+  {
+    "id": "7322112009",
+    "district_id": "732211",
+    "name": "SASSA"
+  },
+  {
+    "id": "7322112010",
+    "district_id": "732211",
+    "name": "KARIANGO"
+  },
+  {
+    "id": "7322112011",
+    "district_id": "732211",
+    "name": "MELI"
+  },
+  {
+    "id": "7322112013",
+    "district_id": "732211",
+    "name": "PALANDAN"
+  },
+  {
+    "id": "7322112015",
+    "district_id": "732211",
+    "name": "BUMI HARAPAN"
+  }
+]

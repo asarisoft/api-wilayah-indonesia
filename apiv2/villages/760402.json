@@ -1,1 +1,92 @@
-[{"id": "7604021001", "district_id": "760402", "name": "PAPPANG"}, {"id": "7604022002", "district_id": "760402", "name": "LALIKO"}, {"id": "7604022003", "district_id": "760402", "name": "BONDE"}, {"id": "7604022004", "district_id": "760402", "name": "KATUMBANGAN LEMO"}, {"id": "7604022005", "district_id": "760402", "name": "PANYAMPA"}, {"id": "7604022006", "district_id": "760402", "name": "SURUANG"}, {"id": "7604022007", "district_id": "760402", "name": "LAMPOKO"}, {"id": "7604022008", "district_id": "760402", "name": "KATUMBANGAN"}, {"id": "7604022009", "district_id": "760402", "name": "LAPEO"}, {"id": "7604022010", "district_id": "760402", "name": "PARAPPE"}, {"id": "7604022011", "district_id": "760402", "name": "ONGKO"}, {"id": "7604022012", "district_id": "760402", "name": "KENJE"}, {"id": "7604022013", "district_id": "760402", "name": "SUMARRANG"}, {"id": "7604022014", "district_id": "760402", "name": "BOTTO"}, {"id": "7604022015", "district_id": "760402", "name": "GATTUNGAN"}, {"id": "7604022016", "district_id": "760402", "name": "PADANG TIMUR"}, {"id": "7604022017", "district_id": "760402", "name": "PADANG"}, {"id": "7604022018", "district_id": "760402", "name": "LAGI-AGI"}]
+[
+  {
+    "id": "7604021001",
+    "district_id": "760402",
+    "name": "PAPPANG"
+  },
+  {
+    "id": "7604022002",
+    "district_id": "760402",
+    "name": "LALIKO"
+  },
+  {
+    "id": "7604022003",
+    "district_id": "760402",
+    "name": "BONDE"
+  },
+  {
+    "id": "7604022004",
+    "district_id": "760402",
+    "name": "KATUMBANGAN LEMO"
+  },
+  {
+    "id": "7604022005",
+    "district_id": "760402",
+    "name": "PANYAMPA"
+  },
+  {
+    "id": "7604022006",
+    "district_id": "760402",
+    "name": "SURUANG"
+  },
+  {
+    "id": "7604022007",
+    "district_id": "760402",
+    "name": "LAMPOKO"
+  },
+  {
+    "id": "7604022008",
+    "district_id": "760402",
+    "name": "KATUMBANGAN"
+  },
+  {
+    "id": "7604022009",
+    "district_id": "760402",
+    "name": "LAPEO"
+  },
+  {
+    "id": "7604022010",
+    "district_id": "760402",
+    "name": "PARAPPE"
+  },
+  {
+    "id": "7604022011",
+    "district_id": "760402",
+    "name": "ONGKO"
+  },
+  {
+    "id": "7604022012",
+    "district_id": "760402",
+    "name": "KENJE"
+  },
+  {
+    "id": "7604022013",
+    "district_id": "760402",
+    "name": "SUMARRANG"
+  },
+  {
+    "id": "7604022014",
+    "district_id": "760402",
+    "name": "BOTTO"
+  },
+  {
+    "id": "7604022015",
+    "district_id": "760402",
+    "name": "GATTUNGAN"
+  },
+  {
+    "id": "7604022016",
+    "district_id": "760402",
+    "name": "PADANG TIMUR"
+  },
+  {
+    "id": "7604022017",
+    "district_id": "760402",
+    "name": "PADANG"
+  },
+  {
+    "id": "7604022018",
+    "district_id": "760402",
+    "name": "LAGI-AGI"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "3207352001", "district_id": "320735", "name": "BANTARDAWA"}, {"id": "3207352002", "district_id": "320735", "name": "PURWADADI"}, {"id": "3207352003", "district_id": "320735", "name": "PURWAJAYA"}, {"id": "3207352004", "district_id": "320735", "name": "KARANGPANINGAL"}, {"id": "3207352005", "district_id": "320735", "name": "SIDARAHAYU"}, {"id": "3207352006", "district_id": "320735", "name": "PADARINGAN"}, {"id": "3207352007", "district_id": "320735", "name": "PASIRLAWANG"}, {"id": "3207352008", "district_id": "320735", "name": "KUTAWARINGIN"}, {"id": "3207352009", "district_id": "320735", "name": "SUKAMULYA"}]
+[
+  {
+    "id": "3207352001",
+    "district_id": "320735",
+    "name": "BANTARDAWA"
+  },
+  {
+    "id": "3207352002",
+    "district_id": "320735",
+    "name": "PURWADADI"
+  },
+  {
+    "id": "3207352003",
+    "district_id": "320735",
+    "name": "PURWAJAYA"
+  },
+  {
+    "id": "3207352004",
+    "district_id": "320735",
+    "name": "KARANGPANINGAL"
+  },
+  {
+    "id": "3207352005",
+    "district_id": "320735",
+    "name": "SIDARAHAYU"
+  },
+  {
+    "id": "3207352006",
+    "district_id": "320735",
+    "name": "PADARINGAN"
+  },
+  {
+    "id": "3207352007",
+    "district_id": "320735",
+    "name": "PASIRLAWANG"
+  },
+  {
+    "id": "3207352008",
+    "district_id": "320735",
+    "name": "KUTAWARINGIN"
+  },
+  {
+    "id": "3207352009",
+    "district_id": "320735",
+    "name": "SUKAMULYA"
+  }
+]

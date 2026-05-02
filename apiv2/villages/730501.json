@@ -1,1 +1,22 @@
-[{"id": "7305011001", "district_id": "730501", "name": "TAKALAR"}, {"id": "7305012003", "district_id": "730501", "name": "PATANI"}, {"id": "7305012009", "district_id": "730501", "name": "SOREANG"}, {"id": "7305012010", "district_id": "730501", "name": "PA'BATANGANG"}]
+[
+  {
+    "id": "7305011001",
+    "district_id": "730501",
+    "name": "TAKALAR"
+  },
+  {
+    "id": "7305012003",
+    "district_id": "730501",
+    "name": "PATANI"
+  },
+  {
+    "id": "7305012009",
+    "district_id": "730501",
+    "name": "SOREANG"
+  },
+  {
+    "id": "7305012010",
+    "district_id": "730501",
+    "name": "PA'BATANGANG"
+  }
+]

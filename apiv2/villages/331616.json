@@ -1,1 +1,92 @@
-[{"id": "3316162001", "district_id": "331616", "name": "HARJOWINANGUN"}, {"id": "3316162002", "district_id": "331616", "name": "TENGGER"}, {"id": "3316162003", "district_id": "331616", "name": "KROCOK"}, {"id": "3316162004", "district_id": "331616", "name": "NGAPUS"}, {"id": "3316162005", "district_id": "331616", "name": "DOLOGAN"}, {"id": "3316162006", "district_id": "331616", "name": "TLOGOWUNGU"}, {"id": "3316162007", "district_id": "331616", "name": "JAPAH"}, {"id": "3316162008", "district_id": "331616", "name": "BEGANJING"}, {"id": "3316162009", "district_id": "331616", "name": "NGRAMBITAN"}, {"id": "3316162010", "district_id": "331616", "name": "PENGKOLREJO"}, {"id": "3316162011", "district_id": "331616", "name": "BOGOREJO"}, {"id": "3316162012", "district_id": "331616", "name": "WOTBAKAH"}, {"id": "3316162013", "district_id": "331616", "name": "PADAAN"}, {"id": "3316162014", "district_id": "331616", "name": "BOGEM"}, {"id": "3316162015", "district_id": "331616", "name": "SUMBEREJO"}, {"id": "3316162016", "district_id": "331616", "name": "NGIYONO"}, {"id": "3316162017", "district_id": "331616", "name": "GAPLOKAN"}, {"id": "3316162018", "district_id": "331616", "name": "KALINANAS"}]
+[
+  {
+    "id": "3316162001",
+    "district_id": "331616",
+    "name": "HARJOWINANGUN"
+  },
+  {
+    "id": "3316162002",
+    "district_id": "331616",
+    "name": "TENGGER"
+  },
+  {
+    "id": "3316162003",
+    "district_id": "331616",
+    "name": "KROCOK"
+  },
+  {
+    "id": "3316162004",
+    "district_id": "331616",
+    "name": "NGAPUS"
+  },
+  {
+    "id": "3316162005",
+    "district_id": "331616",
+    "name": "DOLOGAN"
+  },
+  {
+    "id": "3316162006",
+    "district_id": "331616",
+    "name": "TLOGOWUNGU"
+  },
+  {
+    "id": "3316162007",
+    "district_id": "331616",
+    "name": "JAPAH"
+  },
+  {
+    "id": "3316162008",
+    "district_id": "331616",
+    "name": "BEGANJING"
+  },
+  {
+    "id": "3316162009",
+    "district_id": "331616",
+    "name": "NGRAMBITAN"
+  },
+  {
+    "id": "3316162010",
+    "district_id": "331616",
+    "name": "PENGKOLREJO"
+  },
+  {
+    "id": "3316162011",
+    "district_id": "331616",
+    "name": "BOGOREJO"
+  },
+  {
+    "id": "3316162012",
+    "district_id": "331616",
+    "name": "WOTBAKAH"
+  },
+  {
+    "id": "3316162013",
+    "district_id": "331616",
+    "name": "PADAAN"
+  },
+  {
+    "id": "3316162014",
+    "district_id": "331616",
+    "name": "BOGEM"
+  },
+  {
+    "id": "3316162015",
+    "district_id": "331616",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3316162016",
+    "district_id": "331616",
+    "name": "NGIYONO"
+  },
+  {
+    "id": "3316162017",
+    "district_id": "331616",
+    "name": "GAPLOKAN"
+  },
+  {
+    "id": "3316162018",
+    "district_id": "331616",
+    "name": "KALINANAS"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3305191008", "district_id": "330519", "name": "GOMBONG"}, {"id": "3305191009", "district_id": "330519", "name": "WONOKRIYO"}, {"id": "3305192001", "district_id": "330519", "name": "KALITENGAH"}, {"id": "3305192002", "district_id": "330519", "name": "KEMUKUS"}, {"id": "3305192003", "district_id": "330519", "name": "BANJARSARI"}, {"id": "3305192004", "district_id": "330519", "name": "PANJANGSARI"}, {"id": "3305192005", "district_id": "330519", "name": "PATEMON"}, {"id": "3305192006", "district_id": "330519", "name": "KEDUNGPUJI"}, {"id": "3305192007", "district_id": "330519", "name": "WERO"}, {"id": "3305192010", "district_id": "330519", "name": "SEMONDO"}, {"id": "3305192011", "district_id": "330519", "name": "SEMANDING"}, {"id": "3305192012", "district_id": "330519", "name": "SIDAYU"}, {"id": "3305192013", "district_id": "330519", "name": "WONOSIGRO"}, {"id": "3305192014", "district_id": "330519", "name": "KLOPOGODO"}]
+[
+  {
+    "id": "3305191008",
+    "district_id": "330519",
+    "name": "GOMBONG"
+  },
+  {
+    "id": "3305191009",
+    "district_id": "330519",
+    "name": "WONOKRIYO"
+  },
+  {
+    "id": "3305192001",
+    "district_id": "330519",
+    "name": "KALITENGAH"
+  },
+  {
+    "id": "3305192002",
+    "district_id": "330519",
+    "name": "KEMUKUS"
+  },
+  {
+    "id": "3305192003",
+    "district_id": "330519",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3305192004",
+    "district_id": "330519",
+    "name": "PANJANGSARI"
+  },
+  {
+    "id": "3305192005",
+    "district_id": "330519",
+    "name": "PATEMON"
+  },
+  {
+    "id": "3305192006",
+    "district_id": "330519",
+    "name": "KEDUNGPUJI"
+  },
+  {
+    "id": "3305192007",
+    "district_id": "330519",
+    "name": "WERO"
+  },
+  {
+    "id": "3305192010",
+    "district_id": "330519",
+    "name": "SEMONDO"
+  },
+  {
+    "id": "3305192011",
+    "district_id": "330519",
+    "name": "SEMANDING"
+  },
+  {
+    "id": "3305192012",
+    "district_id": "330519",
+    "name": "SIDAYU"
+  },
+  {
+    "id": "3305192013",
+    "district_id": "330519",
+    "name": "WONOSIGRO"
+  },
+  {
+    "id": "3305192014",
+    "district_id": "330519",
+    "name": "KLOPOGODO"
+  }
+]

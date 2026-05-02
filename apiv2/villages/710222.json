@@ -1,1 +1,52 @@
-[{"id": "7102222001", "district_id": "710222", "name": "KAYUUWI"}, {"id": "7102222002", "district_id": "710222", "name": "KAYUUWI SATU"}, {"id": "7102222003", "district_id": "710222", "name": "KANONANG SATU"}, {"id": "7102222004", "district_id": "710222", "name": "KANONANG DUA"}, {"id": "7102222005", "district_id": "710222", "name": "KANONANG EMPAT"}, {"id": "7102222006", "district_id": "710222", "name": "KANONANG LIMA"}, {"id": "7102222007", "district_id": "710222", "name": "TOMBASIAN ATAS"}, {"id": "7102222008", "district_id": "710222", "name": "TOMBASIAN ATAS SATU"}, {"id": "7102222009", "district_id": "710222", "name": "TOMBASIAN BAWAH"}, {"id": "7102222010", "district_id": "710222", "name": "RANOLAMBOT"}]
+[
+  {
+    "id": "7102222001",
+    "district_id": "710222",
+    "name": "KAYUUWI"
+  },
+  {
+    "id": "7102222002",
+    "district_id": "710222",
+    "name": "KAYUUWI SATU"
+  },
+  {
+    "id": "7102222003",
+    "district_id": "710222",
+    "name": "KANONANG SATU"
+  },
+  {
+    "id": "7102222004",
+    "district_id": "710222",
+    "name": "KANONANG DUA"
+  },
+  {
+    "id": "7102222005",
+    "district_id": "710222",
+    "name": "KANONANG EMPAT"
+  },
+  {
+    "id": "7102222006",
+    "district_id": "710222",
+    "name": "KANONANG LIMA"
+  },
+  {
+    "id": "7102222007",
+    "district_id": "710222",
+    "name": "TOMBASIAN ATAS"
+  },
+  {
+    "id": "7102222008",
+    "district_id": "710222",
+    "name": "TOMBASIAN ATAS SATU"
+  },
+  {
+    "id": "7102222009",
+    "district_id": "710222",
+    "name": "TOMBASIAN BAWAH"
+  },
+  {
+    "id": "7102222010",
+    "district_id": "710222",
+    "name": "RANOLAMBOT"
+  }
+]

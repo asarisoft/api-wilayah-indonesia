@@ -1,1 +1,57 @@
-[{"id": "5202032001", "district_id": "520203", "name": "BUJAK"}, {"id": "5202032002", "district_id": "520203", "name": "SELEBUNG"}, {"id": "5202032003", "district_id": "520203", "name": "PERESAK"}, {"id": "5202032004", "district_id": "520203", "name": "MANTANG"}, {"id": "5202032005", "district_id": "520203", "name": "AIK DAREK"}, {"id": "5202032006", "district_id": "520203", "name": "TAMPAK SIRING"}, {"id": "5202032007", "district_id": "520203", "name": "BARABALI"}, {"id": "5202032008", "district_id": "520203", "name": "BEBER"}, {"id": "5202032009", "district_id": "520203", "name": "PAGUTAN"}, {"id": "5202032010", "district_id": "520203", "name": "MEKAR BERSATU"}, {"id": "5202032011", "district_id": "520203", "name": "LENDANG TAMPEL"}]
+[
+  {
+    "id": "5202032001",
+    "district_id": "520203",
+    "name": "BUJAK"
+  },
+  {
+    "id": "5202032002",
+    "district_id": "520203",
+    "name": "SELEBUNG"
+  },
+  {
+    "id": "5202032003",
+    "district_id": "520203",
+    "name": "PERESAK"
+  },
+  {
+    "id": "5202032004",
+    "district_id": "520203",
+    "name": "MANTANG"
+  },
+  {
+    "id": "5202032005",
+    "district_id": "520203",
+    "name": "AIK DAREK"
+  },
+  {
+    "id": "5202032006",
+    "district_id": "520203",
+    "name": "TAMPAK SIRING"
+  },
+  {
+    "id": "5202032007",
+    "district_id": "520203",
+    "name": "BARABALI"
+  },
+  {
+    "id": "5202032008",
+    "district_id": "520203",
+    "name": "BEBER"
+  },
+  {
+    "id": "5202032009",
+    "district_id": "520203",
+    "name": "PAGUTAN"
+  },
+  {
+    "id": "5202032010",
+    "district_id": "520203",
+    "name": "MEKAR BERSATU"
+  },
+  {
+    "id": "5202032011",
+    "district_id": "520203",
+    "name": "LENDANG TAMPEL"
+  }
+]

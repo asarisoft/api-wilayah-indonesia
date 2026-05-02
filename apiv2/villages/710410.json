@@ -1,1 +1,57 @@
-[{"id": "7104102001", "district_id": "710410", "name": "TUABATU"}, {"id": "7104102002", "district_id": "710410", "name": "DAPALAN"}, {"id": "7104102003", "district_id": "710410", "name": "RIUNG"}, {"id": "7104102004", "district_id": "710410", "name": "AMMAT"}, {"id": "7104102005", "district_id": "710410", "name": "BINALANG"}, {"id": "7104102006", "district_id": "710410", "name": "GANALO"}, {"id": "7104102007", "district_id": "710410", "name": "DAPIHE"}, {"id": "7104102008", "district_id": "710410", "name": "TUABATU BARAT"}, {"id": "7104102009", "district_id": "710410", "name": "AMMAT SELATAN"}, {"id": "7104102010", "district_id": "710410", "name": "BINALANG TIMUR"}, {"id": "7104102011", "district_id": "710410", "name": "RIUNG UTARA"}]
+[
+  {
+    "id": "7104102001",
+    "district_id": "710410",
+    "name": "TUABATU"
+  },
+  {
+    "id": "7104102002",
+    "district_id": "710410",
+    "name": "DAPALAN"
+  },
+  {
+    "id": "7104102003",
+    "district_id": "710410",
+    "name": "RIUNG"
+  },
+  {
+    "id": "7104102004",
+    "district_id": "710410",
+    "name": "AMMAT"
+  },
+  {
+    "id": "7104102005",
+    "district_id": "710410",
+    "name": "BINALANG"
+  },
+  {
+    "id": "7104102006",
+    "district_id": "710410",
+    "name": "GANALO"
+  },
+  {
+    "id": "7104102007",
+    "district_id": "710410",
+    "name": "DAPIHE"
+  },
+  {
+    "id": "7104102008",
+    "district_id": "710410",
+    "name": "TUABATU BARAT"
+  },
+  {
+    "id": "7104102009",
+    "district_id": "710410",
+    "name": "AMMAT SELATAN"
+  },
+  {
+    "id": "7104102010",
+    "district_id": "710410",
+    "name": "BINALANG TIMUR"
+  },
+  {
+    "id": "7104102011",
+    "district_id": "710410",
+    "name": "RIUNG UTARA"
+  }
+]

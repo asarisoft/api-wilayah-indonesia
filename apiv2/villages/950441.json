@@ -1,1 +1,52 @@
-[{"id": "9504412001", "district_id": "950441", "name": "KAIGA"}, {"id": "9504412002", "district_id": "950441", "name": "BAWI"}, {"id": "9504412003", "district_id": "950441", "name": "TINA"}, {"id": "9504412004", "district_id": "950441", "name": "KURBAYA"}, {"id": "9504412005", "district_id": "950441", "name": "WIYANGGER"}, {"id": "9504412006", "district_id": "950441", "name": "AGAIN"}, {"id": "9504412007", "district_id": "950441", "name": "PIRALEME"}, {"id": "9504412008", "district_id": "950441", "name": "TUNGGUNALE"}, {"id": "9504412009", "district_id": "950441", "name": "KOTORAMBUR"}, {"id": "9504412010", "district_id": "950441", "name": "WOLU"}]
+[
+  {
+    "id": "9504412001",
+    "district_id": "950441",
+    "name": "KAIGA"
+  },
+  {
+    "id": "9504412002",
+    "district_id": "950441",
+    "name": "BAWI"
+  },
+  {
+    "id": "9504412003",
+    "district_id": "950441",
+    "name": "TINA"
+  },
+  {
+    "id": "9504412004",
+    "district_id": "950441",
+    "name": "KURBAYA"
+  },
+  {
+    "id": "9504412005",
+    "district_id": "950441",
+    "name": "WIYANGGER"
+  },
+  {
+    "id": "9504412006",
+    "district_id": "950441",
+    "name": "AGAIN"
+  },
+  {
+    "id": "9504412007",
+    "district_id": "950441",
+    "name": "PIRALEME"
+  },
+  {
+    "id": "9504412008",
+    "district_id": "950441",
+    "name": "TUNGGUNALE"
+  },
+  {
+    "id": "9504412009",
+    "district_id": "950441",
+    "name": "KOTORAMBUR"
+  },
+  {
+    "id": "9504412010",
+    "district_id": "950441",
+    "name": "WOLU"
+  }
+]

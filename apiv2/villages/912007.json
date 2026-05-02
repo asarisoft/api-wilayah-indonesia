@@ -1,1 +1,37 @@
-[{"id": "9120072001", "district_id": "912007", "name": "KAMAI"}, {"id": "9120072002", "district_id": "912007", "name": "DADAT"}, {"id": "9120072003", "district_id": "912007", "name": "KEREMA"}, {"id": "9120072005", "district_id": "912007", "name": "TEUW"}, {"id": "9120072006", "district_id": "912007", "name": "WATIARO"}, {"id": "9120072007", "district_id": "912007", "name": "GESA BARU"}, {"id": "9120072008", "district_id": "912007", "name": "BAITANISA"}]
+[
+  {
+    "id": "9120072001",
+    "district_id": "912007",
+    "name": "KAMAI"
+  },
+  {
+    "id": "9120072002",
+    "district_id": "912007",
+    "name": "DADAT"
+  },
+  {
+    "id": "9120072003",
+    "district_id": "912007",
+    "name": "KEREMA"
+  },
+  {
+    "id": "9120072005",
+    "district_id": "912007",
+    "name": "TEUW"
+  },
+  {
+    "id": "9120072006",
+    "district_id": "912007",
+    "name": "WATIARO"
+  },
+  {
+    "id": "9120072007",
+    "district_id": "912007",
+    "name": "GESA BARU"
+  },
+  {
+    "id": "9120072008",
+    "district_id": "912007",
+    "name": "BAITANISA"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3511092001", "district_id": "351109", "name": "LOMBOK KULON"}, {"id": "3511092002", "district_id": "351109", "name": "LOMBOK WETAN"}, {"id": "3511092003", "district_id": "351109", "name": "TUMPENG"}, {"id": "3511092004", "district_id": "351109", "name": "JUMPONG"}, {"id": "3511092005", "district_id": "351109", "name": "TANGSIL WETAN"}, {"id": "3511092006", "district_id": "351109", "name": "PASAREJO"}, {"id": "3511092007", "district_id": "351109", "name": "BENDOARUM"}, {"id": "3511092008", "district_id": "351109", "name": "KAPURAN"}, {"id": "3511092009", "district_id": "351109", "name": "SUMBERKALONG"}, {"id": "3511092010", "district_id": "351109", "name": "TRAKTAKAN"}, {"id": "3511092011", "district_id": "351109", "name": "WONOSARI"}, {"id": "3511092012", "district_id": "351109", "name": "PELALANGAN"}]
+[
+  {
+    "id": "3511092001",
+    "district_id": "351109",
+    "name": "LOMBOK KULON"
+  },
+  {
+    "id": "3511092002",
+    "district_id": "351109",
+    "name": "LOMBOK WETAN"
+  },
+  {
+    "id": "3511092003",
+    "district_id": "351109",
+    "name": "TUMPENG"
+  },
+  {
+    "id": "3511092004",
+    "district_id": "351109",
+    "name": "JUMPONG"
+  },
+  {
+    "id": "3511092005",
+    "district_id": "351109",
+    "name": "TANGSIL WETAN"
+  },
+  {
+    "id": "3511092006",
+    "district_id": "351109",
+    "name": "PASAREJO"
+  },
+  {
+    "id": "3511092007",
+    "district_id": "351109",
+    "name": "BENDOARUM"
+  },
+  {
+    "id": "3511092008",
+    "district_id": "351109",
+    "name": "KAPURAN"
+  },
+  {
+    "id": "3511092009",
+    "district_id": "351109",
+    "name": "SUMBERKALONG"
+  },
+  {
+    "id": "3511092010",
+    "district_id": "351109",
+    "name": "TRAKTAKAN"
+  },
+  {
+    "id": "3511092011",
+    "district_id": "351109",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3511092012",
+    "district_id": "351109",
+    "name": "PELALANGAN"
+  }
+]

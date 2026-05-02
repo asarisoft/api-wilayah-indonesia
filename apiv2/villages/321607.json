@@ -1,1 +1,37 @@
-[{"id": "3216071001", "district_id": "321607", "name": "WANASARI"}, {"id": "3216072002", "district_id": "321607", "name": "WANAJAYA"}, {"id": "3216072003", "district_id": "321607", "name": "KERTAMUKTI"}, {"id": "3216072004", "district_id": "321607", "name": "MUKTIWARI"}, {"id": "3216072005", "district_id": "321607", "name": "SARIMUKTI"}, {"id": "3216072006", "district_id": "321607", "name": "SUKAJAYA"}, {"id": "3216072007", "district_id": "321607", "name": "CIBUNTU"}]
+[
+  {
+    "id": "3216071001",
+    "district_id": "321607",
+    "name": "WANASARI"
+  },
+  {
+    "id": "3216072002",
+    "district_id": "321607",
+    "name": "WANAJAYA"
+  },
+  {
+    "id": "3216072003",
+    "district_id": "321607",
+    "name": "KERTAMUKTI"
+  },
+  {
+    "id": "3216072004",
+    "district_id": "321607",
+    "name": "MUKTIWARI"
+  },
+  {
+    "id": "3216072005",
+    "district_id": "321607",
+    "name": "SARIMUKTI"
+  },
+  {
+    "id": "3216072006",
+    "district_id": "321607",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3216072007",
+    "district_id": "321607",
+    "name": "CIBUNTU"
+  }
+]

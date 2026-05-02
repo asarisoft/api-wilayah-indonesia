@@ -1,1 +1,37 @@
-[{"id": "9103102001", "district_id": "910310", "name": "DEMTA"}, {"id": "9103102002", "district_id": "910310", "name": "AMBORA"}, {"id": "9103102003", "district_id": "910310", "name": "YOUGAPSA"}, {"id": "9103102004", "district_id": "910310", "name": "MURIS KECIL"}, {"id": "9103102005", "district_id": "910310", "name": "YAKORE"}, {"id": "9103102006", "district_id": "910310", "name": "KAMDERA"}, {"id": "9103102007", "district_id": "910310", "name": "MUAIF"}]
+[
+  {
+    "id": "9103102001",
+    "district_id": "910310",
+    "name": "DEMTA"
+  },
+  {
+    "id": "9103102002",
+    "district_id": "910310",
+    "name": "AMBORA"
+  },
+  {
+    "id": "9103102003",
+    "district_id": "910310",
+    "name": "YOUGAPSA"
+  },
+  {
+    "id": "9103102004",
+    "district_id": "910310",
+    "name": "MURIS KECIL"
+  },
+  {
+    "id": "9103102005",
+    "district_id": "910310",
+    "name": "YAKORE"
+  },
+  {
+    "id": "9103102006",
+    "district_id": "910310",
+    "name": "KAMDERA"
+  },
+  {
+    "id": "9103102007",
+    "district_id": "910310",
+    "name": "MUAIF"
+  }
+]

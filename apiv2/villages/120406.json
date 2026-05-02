@@ -1,1 +1,107 @@
-[{"id": "1204062006", "district_id": "120406", "name": "HILIOTALUA"}, {"id": "1204062008", "district_id": "120406", "name": "AKHELAUWE"}, {"id": "1204062016", "district_id": "120406", "name": "HILISEBUA"}, {"id": "1204062017", "district_id": "120406", "name": "SOMI"}, {"id": "1204062018", "district_id": "120406", "name": "SIRETE"}, {"id": "1204062019", "district_id": "120406", "name": "HILIWETO GIDO"}, {"id": "1204062020", "district_id": "120406", "name": "LOLOANA'A GIDO"}, {"id": "1204062022", "district_id": "120406", "name": "SISOBAHILI"}, {"id": "1204062023", "district_id": "120406", "name": "LAHEMO"}, {"id": "1204062024", "district_id": "120406", "name": "LADEA"}, {"id": "1204062027", "district_id": "120406", "name": "UMBU"}, {"id": "1204062028", "district_id": "120406", "name": "SOEWE"}, {"id": "1204062029", "district_id": "120406", "name": "LOLOZASAI"}, {"id": "1204062030", "district_id": "120406", "name": "LASARA IDANOI"}, {"id": "1204062050", "district_id": "120406", "name": "LASELA"}, {"id": "1204062051", "district_id": "120406", "name": "LADEA ORAHUA"}, {"id": "1204062052", "district_id": "120406", "name": "TULUMBAHO SALO'O"}, {"id": "1204062053", "district_id": "120406", "name": "NIFALO'OLAURU"}, {"id": "1204062054", "district_id": "120406", "name": "HILIZOI"}, {"id": "1204062055", "district_id": "120406", "name": "SOMI BOTOGO'O"}, {"id": "1204062056", "district_id": "120406", "name": "OLINDRAWA SISARAHILI"}]
+[
+  {
+    "id": "1204062006",
+    "district_id": "120406",
+    "name": "HILIOTALUA"
+  },
+  {
+    "id": "1204062008",
+    "district_id": "120406",
+    "name": "AKHELAUWE"
+  },
+  {
+    "id": "1204062016",
+    "district_id": "120406",
+    "name": "HILISEBUA"
+  },
+  {
+    "id": "1204062017",
+    "district_id": "120406",
+    "name": "SOMI"
+  },
+  {
+    "id": "1204062018",
+    "district_id": "120406",
+    "name": "SIRETE"
+  },
+  {
+    "id": "1204062019",
+    "district_id": "120406",
+    "name": "HILIWETO GIDO"
+  },
+  {
+    "id": "1204062020",
+    "district_id": "120406",
+    "name": "LOLOANA'A GIDO"
+  },
+  {
+    "id": "1204062022",
+    "district_id": "120406",
+    "name": "SISOBAHILI"
+  },
+  {
+    "id": "1204062023",
+    "district_id": "120406",
+    "name": "LAHEMO"
+  },
+  {
+    "id": "1204062024",
+    "district_id": "120406",
+    "name": "LADEA"
+  },
+  {
+    "id": "1204062027",
+    "district_id": "120406",
+    "name": "UMBU"
+  },
+  {
+    "id": "1204062028",
+    "district_id": "120406",
+    "name": "SOEWE"
+  },
+  {
+    "id": "1204062029",
+    "district_id": "120406",
+    "name": "LOLOZASAI"
+  },
+  {
+    "id": "1204062030",
+    "district_id": "120406",
+    "name": "LASARA IDANOI"
+  },
+  {
+    "id": "1204062050",
+    "district_id": "120406",
+    "name": "LASELA"
+  },
+  {
+    "id": "1204062051",
+    "district_id": "120406",
+    "name": "LADEA ORAHUA"
+  },
+  {
+    "id": "1204062052",
+    "district_id": "120406",
+    "name": "TULUMBAHO SALO'O"
+  },
+  {
+    "id": "1204062053",
+    "district_id": "120406",
+    "name": "NIFALO'OLAURU"
+  },
+  {
+    "id": "1204062054",
+    "district_id": "120406",
+    "name": "HILIZOI"
+  },
+  {
+    "id": "1204062055",
+    "district_id": "120406",
+    "name": "SOMI BOTOGO'O"
+  },
+  {
+    "id": "1204062056",
+    "district_id": "120406",
+    "name": "OLINDRAWA SISARAHILI"
+  }
+]

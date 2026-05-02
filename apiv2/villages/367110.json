@@ -1,1 +1,37 @@
-[{"id": "3671101001", "district_id": "367110", "name": "NEGLASARI"}, {"id": "3671101002", "district_id": "367110", "name": "KARANG SARI"}, {"id": "3671101003", "district_id": "367110", "name": "SELAPAJANG JAYA"}, {"id": "3671101004", "district_id": "367110", "name": "KEDAUNG WETAN"}, {"id": "3671101005", "district_id": "367110", "name": "MEKAR SARI"}, {"id": "3671101006", "district_id": "367110", "name": "KARANG ANYAR"}, {"id": "3671101007", "district_id": "367110", "name": "KEDAUNG BARU"}]
+[
+  {
+    "id": "3671101001",
+    "district_id": "367110",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3671101002",
+    "district_id": "367110",
+    "name": "KARANG SARI"
+  },
+  {
+    "id": "3671101003",
+    "district_id": "367110",
+    "name": "SELAPAJANG JAYA"
+  },
+  {
+    "id": "3671101004",
+    "district_id": "367110",
+    "name": "KEDAUNG WETAN"
+  },
+  {
+    "id": "3671101005",
+    "district_id": "367110",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "3671101006",
+    "district_id": "367110",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "3671101007",
+    "district_id": "367110",
+    "name": "KEDAUNG BARU"
+  }
+]

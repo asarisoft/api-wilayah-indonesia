@@ -1,1 +1,132 @@
-[{"id": "1103122001", "district_id": "110312", "name": "MADAT"}, {"id": "1103122002", "district_id": "110312", "name": "MATANG KEUPULA SA"}, {"id": "1103122003", "district_id": "110312", "name": "MATANG KEUPULA DUA"}, {"id": "1103122004", "district_id": "110312", "name": "MATANG KEUPULA LHEE"}, {"id": "1103122005", "district_id": "110312", "name": "ULEE ATEUNG"}, {"id": "1103122006", "district_id": "110312", "name": "BLANG UBIT"}, {"id": "1103122007", "district_id": "110312", "name": "MATANG GURU"}, {"id": "1103122008", "district_id": "110312", "name": "PANTEE BAYAM"}, {"id": "1103122009", "district_id": "110312", "name": "MEUNASAH ASAN"}, {"id": "1103122010", "district_id": "110312", "name": "MEUNASAH TINGKEUM"}, {"id": "1103122011", "district_id": "110312", "name": "LUENG DUA"}, {"id": "1103122012", "district_id": "110312", "name": "LUENG PEUT"}, {"id": "1103122013", "district_id": "110312", "name": "PAYA DEMAM PEUT"}, {"id": "1103122014", "district_id": "110312", "name": "ABEUK GEULANTEU"}, {"id": "1103122015", "district_id": "110312", "name": "RAMBONG LOP"}, {"id": "1103122016", "district_id": "110312", "name": "TANJONG ARA"}, {"id": "1103122017", "district_id": "110312", "name": "MATANG JROK"}, {"id": "1103122018", "district_id": "110312", "name": "PAYA NADEN"}, {"id": "1103122019", "district_id": "110312", "name": "TANJONG MINJEI"}, {"id": "1103122020", "district_id": "110312", "name": "PANTE MERBO"}, {"id": "1103122021", "district_id": "110312", "name": "BLANG AWE"}, {"id": "1103122022", "district_id": "110312", "name": "BINTAH"}, {"id": "1103122023", "district_id": "110312", "name": "SEUNEUBOK PIDIE"}, {"id": "1103122024", "district_id": "110312", "name": "BLANG ANDAM"}, {"id": "1103122025", "district_id": "110312", "name": "MATANG NIBONG"}, {"id": "1103122026", "district_id": "110312", "name": "LUENG SA"}]
+[
+  {
+    "id": "1103122001",
+    "district_id": "110312",
+    "name": "MADAT"
+  },
+  {
+    "id": "1103122002",
+    "district_id": "110312",
+    "name": "MATANG KEUPULA SA"
+  },
+  {
+    "id": "1103122003",
+    "district_id": "110312",
+    "name": "MATANG KEUPULA DUA"
+  },
+  {
+    "id": "1103122004",
+    "district_id": "110312",
+    "name": "MATANG KEUPULA LHEE"
+  },
+  {
+    "id": "1103122005",
+    "district_id": "110312",
+    "name": "ULEE ATEUNG"
+  },
+  {
+    "id": "1103122006",
+    "district_id": "110312",
+    "name": "BLANG UBIT"
+  },
+  {
+    "id": "1103122007",
+    "district_id": "110312",
+    "name": "MATANG GURU"
+  },
+  {
+    "id": "1103122008",
+    "district_id": "110312",
+    "name": "PANTEE BAYAM"
+  },
+  {
+    "id": "1103122009",
+    "district_id": "110312",
+    "name": "MEUNASAH ASAN"
+  },
+  {
+    "id": "1103122010",
+    "district_id": "110312",
+    "name": "MEUNASAH TINGKEUM"
+  },
+  {
+    "id": "1103122011",
+    "district_id": "110312",
+    "name": "LUENG DUA"
+  },
+  {
+    "id": "1103122012",
+    "district_id": "110312",
+    "name": "LUENG PEUT"
+  },
+  {
+    "id": "1103122013",
+    "district_id": "110312",
+    "name": "PAYA DEMAM PEUT"
+  },
+  {
+    "id": "1103122014",
+    "district_id": "110312",
+    "name": "ABEUK GEULANTEU"
+  },
+  {
+    "id": "1103122015",
+    "district_id": "110312",
+    "name": "RAMBONG LOP"
+  },
+  {
+    "id": "1103122016",
+    "district_id": "110312",
+    "name": "TANJONG ARA"
+  },
+  {
+    "id": "1103122017",
+    "district_id": "110312",
+    "name": "MATANG JROK"
+  },
+  {
+    "id": "1103122018",
+    "district_id": "110312",
+    "name": "PAYA NADEN"
+  },
+  {
+    "id": "1103122019",
+    "district_id": "110312",
+    "name": "TANJONG MINJEI"
+  },
+  {
+    "id": "1103122020",
+    "district_id": "110312",
+    "name": "PANTE MERBO"
+  },
+  {
+    "id": "1103122021",
+    "district_id": "110312",
+    "name": "BLANG AWE"
+  },
+  {
+    "id": "1103122022",
+    "district_id": "110312",
+    "name": "BINTAH"
+  },
+  {
+    "id": "1103122023",
+    "district_id": "110312",
+    "name": "SEUNEUBOK PIDIE"
+  },
+  {
+    "id": "1103122024",
+    "district_id": "110312",
+    "name": "BLANG ANDAM"
+  },
+  {
+    "id": "1103122025",
+    "district_id": "110312",
+    "name": "MATANG NIBONG"
+  },
+  {
+    "id": "1103122026",
+    "district_id": "110312",
+    "name": "LUENG SA"
+  }
+]

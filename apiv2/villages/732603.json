@@ -1,1 +1,47 @@
-[{"id": "7326031004", "district_id": "732603", "name": "NANGGALA SANPIAK SATU"}, {"id": "7326032001", "district_id": "732603", "name": "NANGGALA"}, {"id": "7326032002", "district_id": "732603", "name": "TANDUNG NANGGALA"}, {"id": "7326032003", "district_id": "732603", "name": "LILI'KIRA'"}, {"id": "7326032005", "district_id": "732603", "name": "KARRE LIMBONG"}, {"id": "7326032006", "district_id": "732603", "name": "RANTE"}, {"id": "7326032007", "district_id": "732603", "name": "BASOKAN"}, {"id": "7326032008", "district_id": "732603", "name": "NANNA' NANGGALA"}, {"id": "7326032009", "district_id": "732603", "name": "KARRE PANANIAN"}]
+[
+  {
+    "id": "7326031004",
+    "district_id": "732603",
+    "name": "NANGGALA SANPIAK SATU"
+  },
+  {
+    "id": "7326032001",
+    "district_id": "732603",
+    "name": "NANGGALA"
+  },
+  {
+    "id": "7326032002",
+    "district_id": "732603",
+    "name": "TANDUNG NANGGALA"
+  },
+  {
+    "id": "7326032003",
+    "district_id": "732603",
+    "name": "LILI'KIRA'"
+  },
+  {
+    "id": "7326032005",
+    "district_id": "732603",
+    "name": "KARRE LIMBONG"
+  },
+  {
+    "id": "7326032006",
+    "district_id": "732603",
+    "name": "RANTE"
+  },
+  {
+    "id": "7326032007",
+    "district_id": "732603",
+    "name": "BASOKAN"
+  },
+  {
+    "id": "7326032008",
+    "district_id": "732603",
+    "name": "NANNA' NANGGALA"
+  },
+  {
+    "id": "7326032009",
+    "district_id": "732603",
+    "name": "KARRE PANANIAN"
+  }
+]

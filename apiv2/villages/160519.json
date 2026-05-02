@@ -1,1 +1,52 @@
-[{"id": "1605191002", "district_id": "160519", "name": "SUMBER HARTA"}, {"id": "1605192001", "district_id": "160519", "name": "SUMBER JAYA"}, {"id": "1605192003", "district_id": "160519", "name": "SUKAMAJU"}, {"id": "1605192004", "district_id": "160519", "name": "JAMBUREJO"}, {"id": "1605192005", "district_id": "160519", "name": "SUMBER SARI"}, {"id": "1605192006", "district_id": "160519", "name": "SUKA MULYA"}, {"id": "1605192007", "district_id": "160519", "name": "SUKAJAYA"}, {"id": "1605192008", "district_id": "160519", "name": "MADANG"}, {"id": "1605192009", "district_id": "160519", "name": "SUKARAMI JAYA"}, {"id": "1605192010", "district_id": "160519", "name": "SUMBER ASRI"}]
+[
+  {
+    "id": "1605191002",
+    "district_id": "160519",
+    "name": "SUMBER HARTA"
+  },
+  {
+    "id": "1605192001",
+    "district_id": "160519",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1605192003",
+    "district_id": "160519",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "1605192004",
+    "district_id": "160519",
+    "name": "JAMBUREJO"
+  },
+  {
+    "id": "1605192005",
+    "district_id": "160519",
+    "name": "SUMBER SARI"
+  },
+  {
+    "id": "1605192006",
+    "district_id": "160519",
+    "name": "SUKA MULYA"
+  },
+  {
+    "id": "1605192007",
+    "district_id": "160519",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "1605192008",
+    "district_id": "160519",
+    "name": "MADANG"
+  },
+  {
+    "id": "1605192009",
+    "district_id": "160519",
+    "name": "SUKARAMI JAYA"
+  },
+  {
+    "id": "1605192010",
+    "district_id": "160519",
+    "name": "SUMBER ASRI"
+  }
+]

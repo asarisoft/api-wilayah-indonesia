@@ -1,1 +1,37 @@
-[{"id": "1403142001", "district_id": "140314", "name": "PARIT I API-API"}, {"id": "1403142002", "district_id": "140314", "name": "TEMIANG"}, {"id": "1403142003", "district_id": "140314", "name": "API-API"}, {"id": "1403142004", "district_id": "140314", "name": "TENGGAYUN"}, {"id": "1403142005", "district_id": "140314", "name": "SEPAHAT"}, {"id": "1403142006", "district_id": "140314", "name": "BUKIT KERIKIL"}, {"id": "1403142007", "district_id": "140314", "name": "TANJUNG LEBAN"}]
+[
+  {
+    "id": "1403142001",
+    "district_id": "140314",
+    "name": "PARIT I API-API"
+  },
+  {
+    "id": "1403142002",
+    "district_id": "140314",
+    "name": "TEMIANG"
+  },
+  {
+    "id": "1403142003",
+    "district_id": "140314",
+    "name": "API-API"
+  },
+  {
+    "id": "1403142004",
+    "district_id": "140314",
+    "name": "TENGGAYUN"
+  },
+  {
+    "id": "1403142005",
+    "district_id": "140314",
+    "name": "SEPAHAT"
+  },
+  {
+    "id": "1403142006",
+    "district_id": "140314",
+    "name": "BUKIT KERIKIL"
+  },
+  {
+    "id": "1403142007",
+    "district_id": "140314",
+    "name": "TANJUNG LEBAN"
+  }
+]

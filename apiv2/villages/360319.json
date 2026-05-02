@@ -1,1 +1,42 @@
-[{"id": "3603191002", "district_id": "360319", "name": "MEKAR BAKTI"}, {"id": "3603192001", "district_id": "360319", "name": "RANCA IYUH"}, {"id": "3603192003", "district_id": "360319", "name": "PEUSAR"}, {"id": "3603192004", "district_id": "360319", "name": "RANCA KALAPA"}, {"id": "3603192005", "district_id": "360319", "name": "SERDANG KULON"}, {"id": "3603192006", "district_id": "360319", "name": "MEKAR JAYA"}, {"id": "3603192007", "district_id": "360319", "name": "CIAKAR"}, {"id": "3603192008", "district_id": "360319", "name": "PANONGAN"}]
+[
+  {
+    "id": "3603191002",
+    "district_id": "360319",
+    "name": "MEKAR BAKTI"
+  },
+  {
+    "id": "3603192001",
+    "district_id": "360319",
+    "name": "RANCA IYUH"
+  },
+  {
+    "id": "3603192003",
+    "district_id": "360319",
+    "name": "PEUSAR"
+  },
+  {
+    "id": "3603192004",
+    "district_id": "360319",
+    "name": "RANCA KALAPA"
+  },
+  {
+    "id": "3603192005",
+    "district_id": "360319",
+    "name": "SERDANG KULON"
+  },
+  {
+    "id": "3603192006",
+    "district_id": "360319",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "3603192007",
+    "district_id": "360319",
+    "name": "CIAKAR"
+  },
+  {
+    "id": "3603192008",
+    "district_id": "360319",
+    "name": "PANONGAN"
+  }
+]

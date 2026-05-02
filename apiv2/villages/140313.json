@@ -1,1 +1,52 @@
-[{"id": "1403131001", "district_id": "140313", "name": "TITIAN ANTUI"}, {"id": "1403131012", "district_id": "140313", "name": "BALAI RAJA"}, {"id": "1403132003", "district_id": "140313", "name": "BALAI PUNGUT"}, {"id": "1403132005", "district_id": "140313", "name": "MUARA BASUNG"}, {"id": "1403132007", "district_id": "140313", "name": "PINGGIR"}, {"id": "1403132008", "district_id": "140313", "name": "SEMUNAI"}, {"id": "1403132011", "district_id": "140313", "name": "TENGGANAU"}, {"id": "1403132014", "district_id": "140313", "name": "SUNGAI MERANTI"}, {"id": "1403132015", "district_id": "140313", "name": "PANGKALAN LIBUT"}, {"id": "1403132016", "district_id": "140313", "name": "BULUH APO"}]
+[
+  {
+    "id": "1403131001",
+    "district_id": "140313",
+    "name": "TITIAN ANTUI"
+  },
+  {
+    "id": "1403131012",
+    "district_id": "140313",
+    "name": "BALAI RAJA"
+  },
+  {
+    "id": "1403132003",
+    "district_id": "140313",
+    "name": "BALAI PUNGUT"
+  },
+  {
+    "id": "1403132005",
+    "district_id": "140313",
+    "name": "MUARA BASUNG"
+  },
+  {
+    "id": "1403132007",
+    "district_id": "140313",
+    "name": "PINGGIR"
+  },
+  {
+    "id": "1403132008",
+    "district_id": "140313",
+    "name": "SEMUNAI"
+  },
+  {
+    "id": "1403132011",
+    "district_id": "140313",
+    "name": "TENGGANAU"
+  },
+  {
+    "id": "1403132014",
+    "district_id": "140313",
+    "name": "SUNGAI MERANTI"
+  },
+  {
+    "id": "1403132015",
+    "district_id": "140313",
+    "name": "PANGKALAN LIBUT"
+  },
+  {
+    "id": "1403132016",
+    "district_id": "140313",
+    "name": "BULUH APO"
+  }
+]

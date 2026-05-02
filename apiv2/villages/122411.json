@@ -1,1 +1,37 @@
-[{"id": "1224112001", "district_id": "122411", "name": "LAOWOWAGA"}, {"id": "1224112002", "district_id": "122411", "name": "LUKHU LASE"}, {"id": "1224112003", "district_id": "122411", "name": "TETEHOSI SOROWI"}, {"id": "1224112004", "district_id": "122411", "name": "TEFA'O"}, {"id": "1224112005", "district_id": "122411", "name": "TUGALA LAURU"}, {"id": "1224112006", "district_id": "122411", "name": "MUZOI"}, {"id": "1224112007", "district_id": "122411", "name": "MEAFU"}]
+[
+  {
+    "id": "1224112001",
+    "district_id": "122411",
+    "name": "LAOWOWAGA"
+  },
+  {
+    "id": "1224112002",
+    "district_id": "122411",
+    "name": "LUKHU LASE"
+  },
+  {
+    "id": "1224112003",
+    "district_id": "122411",
+    "name": "TETEHOSI SOROWI"
+  },
+  {
+    "id": "1224112004",
+    "district_id": "122411",
+    "name": "TEFA'O"
+  },
+  {
+    "id": "1224112005",
+    "district_id": "122411",
+    "name": "TUGALA LAURU"
+  },
+  {
+    "id": "1224112006",
+    "district_id": "122411",
+    "name": "MUZOI"
+  },
+  {
+    "id": "1224112007",
+    "district_id": "122411",
+    "name": "MEAFU"
+  }
+]

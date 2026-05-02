@@ -1,1 +1,112 @@
-[{"id": "3524112001", "district_id": "352411", "name": "SIDOKUMPUL"}, {"id": "3524112002", "district_id": "352411", "name": "PASARLEGI"}, {"id": "3524112003", "district_id": "352411", "name": "SEMAMPIREJO"}, {"id": "3524112004", "district_id": "352411", "name": "WATESWINANGUN"}, {"id": "3524112005", "district_id": "352411", "name": "SUMBERSARI"}, {"id": "3524112006", "district_id": "352411", "name": "PATAAN"}, {"id": "3524112007", "district_id": "352411", "name": "TENGGIRING"}, {"id": "3524112008", "district_id": "352411", "name": "GARUNG"}, {"id": "3524112009", "district_id": "352411", "name": "WONOREJO"}, {"id": "3524112010", "district_id": "352411", "name": "ARDIREJO"}, {"id": "3524112011", "district_id": "352411", "name": "SEKIDANG"}, {"id": "3524112012", "district_id": "352411", "name": "KEDUNGWANGI"}, {"id": "3524112013", "district_id": "352411", "name": "JATIPANDAK"}, {"id": "3524112014", "district_id": "352411", "name": "CANDISARI"}, {"id": "3524112015", "district_id": "352411", "name": "NOGOJATISARI"}, {"id": "3524112016", "district_id": "352411", "name": "PAMOTAN"}, {"id": "3524112017", "district_id": "352411", "name": "WUDI"}, {"id": "3524112018", "district_id": "352411", "name": "BARUREJO"}, {"id": "3524112019", "district_id": "352411", "name": "KEDUNGBANJAR"}, {"id": "3524112020", "district_id": "352411", "name": "GEMPOLMANIS"}, {"id": "3524112021", "district_id": "352411", "name": "SELOREJO"}, {"id": "3524112022", "district_id": "352411", "name": "KRETERANGGON"}]
+[
+  {
+    "id": "3524112001",
+    "district_id": "352411",
+    "name": "SIDOKUMPUL"
+  },
+  {
+    "id": "3524112002",
+    "district_id": "352411",
+    "name": "PASARLEGI"
+  },
+  {
+    "id": "3524112003",
+    "district_id": "352411",
+    "name": "SEMAMPIREJO"
+  },
+  {
+    "id": "3524112004",
+    "district_id": "352411",
+    "name": "WATESWINANGUN"
+  },
+  {
+    "id": "3524112005",
+    "district_id": "352411",
+    "name": "SUMBERSARI"
+  },
+  {
+    "id": "3524112006",
+    "district_id": "352411",
+    "name": "PATAAN"
+  },
+  {
+    "id": "3524112007",
+    "district_id": "352411",
+    "name": "TENGGIRING"
+  },
+  {
+    "id": "3524112008",
+    "district_id": "352411",
+    "name": "GARUNG"
+  },
+  {
+    "id": "3524112009",
+    "district_id": "352411",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3524112010",
+    "district_id": "352411",
+    "name": "ARDIREJO"
+  },
+  {
+    "id": "3524112011",
+    "district_id": "352411",
+    "name": "SEKIDANG"
+  },
+  {
+    "id": "3524112012",
+    "district_id": "352411",
+    "name": "KEDUNGWANGI"
+  },
+  {
+    "id": "3524112013",
+    "district_id": "352411",
+    "name": "JATIPANDAK"
+  },
+  {
+    "id": "3524112014",
+    "district_id": "352411",
+    "name": "CANDISARI"
+  },
+  {
+    "id": "3524112015",
+    "district_id": "352411",
+    "name": "NOGOJATISARI"
+  },
+  {
+    "id": "3524112016",
+    "district_id": "352411",
+    "name": "PAMOTAN"
+  },
+  {
+    "id": "3524112017",
+    "district_id": "352411",
+    "name": "WUDI"
+  },
+  {
+    "id": "3524112018",
+    "district_id": "352411",
+    "name": "BARUREJO"
+  },
+  {
+    "id": "3524112019",
+    "district_id": "352411",
+    "name": "KEDUNGBANJAR"
+  },
+  {
+    "id": "3524112020",
+    "district_id": "352411",
+    "name": "GEMPOLMANIS"
+  },
+  {
+    "id": "3524112021",
+    "district_id": "352411",
+    "name": "SELOREJO"
+  },
+  {
+    "id": "3524112022",
+    "district_id": "352411",
+    "name": "KRETERANGGON"
+  }
+]

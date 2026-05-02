@@ -1,1 +1,52 @@
-[{"id": "3671051001", "district_id": "367105", "name": "CIPONDOH"}, {"id": "3671051002", "district_id": "367105", "name": "CIPONDOH MAKMUR"}, {"id": "3671051003", "district_id": "367105", "name": "CIPONDOH INDAH"}, {"id": "3671051004", "district_id": "367105", "name": "GONDRONG"}, {"id": "3671051005", "district_id": "367105", "name": "KENANGA"}, {"id": "3671051006", "district_id": "367105", "name": "PETIR"}, {"id": "3671051007", "district_id": "367105", "name": "KETAPANG"}, {"id": "3671051008", "district_id": "367105", "name": "PORIS PLAWAD"}, {"id": "3671051009", "district_id": "367105", "name": "PORIS PLAWAD UTARA"}, {"id": "3671051010", "district_id": "367105", "name": "PORIS PLAWAD INDAH"}]
+[
+  {
+    "id": "3671051001",
+    "district_id": "367105",
+    "name": "CIPONDOH"
+  },
+  {
+    "id": "3671051002",
+    "district_id": "367105",
+    "name": "CIPONDOH MAKMUR"
+  },
+  {
+    "id": "3671051003",
+    "district_id": "367105",
+    "name": "CIPONDOH INDAH"
+  },
+  {
+    "id": "3671051004",
+    "district_id": "367105",
+    "name": "GONDRONG"
+  },
+  {
+    "id": "3671051005",
+    "district_id": "367105",
+    "name": "KENANGA"
+  },
+  {
+    "id": "3671051006",
+    "district_id": "367105",
+    "name": "PETIR"
+  },
+  {
+    "id": "3671051007",
+    "district_id": "367105",
+    "name": "KETAPANG"
+  },
+  {
+    "id": "3671051008",
+    "district_id": "367105",
+    "name": "PORIS PLAWAD"
+  },
+  {
+    "id": "3671051009",
+    "district_id": "367105",
+    "name": "PORIS PLAWAD UTARA"
+  },
+  {
+    "id": "3671051010",
+    "district_id": "367105",
+    "name": "PORIS PLAWAD INDAH"
+  }
+]

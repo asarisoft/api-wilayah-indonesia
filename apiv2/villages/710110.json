@@ -1,1 +1,82 @@
-[{"id": "7101101003", "district_id": "710110", "name": "IMANDI"}, {"id": "7101102001", "district_id": "710110", "name": "TONOM"}, {"id": "7101102002", "district_id": "710110", "name": "MOGOYUNGGUNG"}, {"id": "7101102004", "district_id": "710110", "name": "MODOMANG"}, {"id": "7101102005", "district_id": "710110", "name": "KEMBANG MERTHA"}, {"id": "7101102006", "district_id": "710110", "name": "DUMOGA"}, {"id": "7101102013", "district_id": "710110", "name": "PINONOBATUAN"}, {"id": "7101102017", "district_id": "710110", "name": "DUMOGA II"}, {"id": "7101102018", "district_id": "710110", "name": "PINONOBATUAN BARAT"}, {"id": "7101102019", "district_id": "710110", "name": "AMERTHA SARI"}, {"id": "7101102020", "district_id": "710110", "name": "KEMBANG SARI"}, {"id": "7101102021", "district_id": "710110", "name": "AMERTHA BUANA"}, {"id": "7101102023", "district_id": "710110", "name": "MOGOYUNGGUNG SATU"}, {"id": "7101102024", "district_id": "710110", "name": "MOGOYUNGGUNG DUA"}, {"id": "7101102025", "district_id": "710110", "name": "DUMOGA TIGA"}, {"id": "7101102026", "district_id": "710110", "name": "DUMOGA EMPAT"}]
+[
+  {
+    "id": "7101101003",
+    "district_id": "710110",
+    "name": "IMANDI"
+  },
+  {
+    "id": "7101102001",
+    "district_id": "710110",
+    "name": "TONOM"
+  },
+  {
+    "id": "7101102002",
+    "district_id": "710110",
+    "name": "MOGOYUNGGUNG"
+  },
+  {
+    "id": "7101102004",
+    "district_id": "710110",
+    "name": "MODOMANG"
+  },
+  {
+    "id": "7101102005",
+    "district_id": "710110",
+    "name": "KEMBANG MERTHA"
+  },
+  {
+    "id": "7101102006",
+    "district_id": "710110",
+    "name": "DUMOGA"
+  },
+  {
+    "id": "7101102013",
+    "district_id": "710110",
+    "name": "PINONOBATUAN"
+  },
+  {
+    "id": "7101102017",
+    "district_id": "710110",
+    "name": "DUMOGA II"
+  },
+  {
+    "id": "7101102018",
+    "district_id": "710110",
+    "name": "PINONOBATUAN BARAT"
+  },
+  {
+    "id": "7101102019",
+    "district_id": "710110",
+    "name": "AMERTHA SARI"
+  },
+  {
+    "id": "7101102020",
+    "district_id": "710110",
+    "name": "KEMBANG SARI"
+  },
+  {
+    "id": "7101102021",
+    "district_id": "710110",
+    "name": "AMERTHA BUANA"
+  },
+  {
+    "id": "7101102023",
+    "district_id": "710110",
+    "name": "MOGOYUNGGUNG SATU"
+  },
+  {
+    "id": "7101102024",
+    "district_id": "710110",
+    "name": "MOGOYUNGGUNG DUA"
+  },
+  {
+    "id": "7101102025",
+    "district_id": "710110",
+    "name": "DUMOGA TIGA"
+  },
+  {
+    "id": "7101102026",
+    "district_id": "710110",
+    "name": "DUMOGA EMPAT"
+  }
+]

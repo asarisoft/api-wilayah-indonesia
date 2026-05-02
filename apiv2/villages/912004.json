@@ -1,1 +1,37 @@
-[{"id": "9120042001", "district_id": "912004", "name": "KUSTRA"}, {"id": "9120042002", "district_id": "912004", "name": "NOYADI"}, {"id": "9120042003", "district_id": "912004", "name": "OBOGOI"}, {"id": "9120042004", "district_id": "912004", "name": "BIRI"}, {"id": "9120042005", "district_id": "912004", "name": "WAKEYADI"}, {"id": "9120042006", "district_id": "912004", "name": "ERI"}, {"id": "9120042007", "district_id": "912004", "name": "TOWAO"}]
+[
+  {
+    "id": "9120042001",
+    "district_id": "912004",
+    "name": "KUSTRA"
+  },
+  {
+    "id": "9120042002",
+    "district_id": "912004",
+    "name": "NOYADI"
+  },
+  {
+    "id": "9120042003",
+    "district_id": "912004",
+    "name": "OBOGOI"
+  },
+  {
+    "id": "9120042004",
+    "district_id": "912004",
+    "name": "BIRI"
+  },
+  {
+    "id": "9120042005",
+    "district_id": "912004",
+    "name": "WAKEYADI"
+  },
+  {
+    "id": "9120042006",
+    "district_id": "912004",
+    "name": "ERI"
+  },
+  {
+    "id": "9120042007",
+    "district_id": "912004",
+    "name": "TOWAO"
+  }
+]

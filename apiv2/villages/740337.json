@@ -1,1 +1,27 @@
-[{"id": "7403372001", "district_id": "740337", "name": "WANGKOLABU"}, {"id": "7403372002", "district_id": "740337", "name": "LAKARAMA"}, {"id": "7403372003", "district_id": "740337", "name": "MOASI"}, {"id": "7403372004", "district_id": "740337", "name": "RENDA"}, {"id": "7403372005", "district_id": "740337", "name": "BHONTU-BHONTU"}]
+[
+  {
+    "id": "7403372001",
+    "district_id": "740337",
+    "name": "WANGKOLABU"
+  },
+  {
+    "id": "7403372002",
+    "district_id": "740337",
+    "name": "LAKARAMA"
+  },
+  {
+    "id": "7403372003",
+    "district_id": "740337",
+    "name": "MOASI"
+  },
+  {
+    "id": "7403372004",
+    "district_id": "740337",
+    "name": "RENDA"
+  },
+  {
+    "id": "7403372005",
+    "district_id": "740337",
+    "name": "BHONTU-BHONTU"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "5309202001", "district_id": "530920", "name": "PAUPAGA"}, {"id": "5309202002", "district_id": "530920", "name": "SEBOWULI"}, {"id": "5309202003", "district_id": "530920", "name": "INERIE"}, {"id": "5309202004", "district_id": "530920", "name": "WARUPELE I"}, {"id": "5309202005", "district_id": "530920", "name": "WARUPELE II"}, {"id": "5309202006", "district_id": "530920", "name": "KELITEI"}, {"id": "5309202007", "district_id": "530920", "name": "WAEBELA"}, {"id": "5309202008", "district_id": "530920", "name": "TIWURANA"}, {"id": "5309202009", "district_id": "530920", "name": "LEGERIWU"}, {"id": "5309202010", "district_id": "530920", "name": "MANUBHARA"}, {"id": "5309202011", "district_id": "530920", "name": "RUTO"}, {"id": "5309202012", "district_id": "530920", "name": "ENABHARA"}, {"id": "5309202013", "district_id": "530920", "name": "NAGEBARU"}]
+[
+  {
+    "id": "5309202001",
+    "district_id": "530920",
+    "name": "PAUPAGA"
+  },
+  {
+    "id": "5309202002",
+    "district_id": "530920",
+    "name": "SEBOWULI"
+  },
+  {
+    "id": "5309202003",
+    "district_id": "530920",
+    "name": "INERIE"
+  },
+  {
+    "id": "5309202004",
+    "district_id": "530920",
+    "name": "WARUPELE I"
+  },
+  {
+    "id": "5309202005",
+    "district_id": "530920",
+    "name": "WARUPELE II"
+  },
+  {
+    "id": "5309202006",
+    "district_id": "530920",
+    "name": "KELITEI"
+  },
+  {
+    "id": "5309202007",
+    "district_id": "530920",
+    "name": "WAEBELA"
+  },
+  {
+    "id": "5309202008",
+    "district_id": "530920",
+    "name": "TIWURANA"
+  },
+  {
+    "id": "5309202009",
+    "district_id": "530920",
+    "name": "LEGERIWU"
+  },
+  {
+    "id": "5309202010",
+    "district_id": "530920",
+    "name": "MANUBHARA"
+  },
+  {
+    "id": "5309202011",
+    "district_id": "530920",
+    "name": "RUTO"
+  },
+  {
+    "id": "5309202012",
+    "district_id": "530920",
+    "name": "ENABHARA"
+  },
+  {
+    "id": "5309202013",
+    "district_id": "530920",
+    "name": "NAGEBARU"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "5301171001", "district_id": "530117", "name": "TEUNBAUN"}, {"id": "5301172002", "district_id": "530117", "name": "SOBA"}, {"id": "5301172003", "district_id": "530117", "name": "TOOBAUN"}, {"id": "5301172004", "district_id": "530117", "name": "NIUKBAUN"}, {"id": "5301172005", "district_id": "530117", "name": "TUNBAUN"}, {"id": "5301172006", "district_id": "530117", "name": "NEKBAUN"}, {"id": "5301172007", "district_id": "530117", "name": "MERBAUN"}, {"id": "5301172008", "district_id": "530117", "name": "ERBAUN"}]
+[
+  {
+    "id": "5301171001",
+    "district_id": "530117",
+    "name": "TEUNBAUN"
+  },
+  {
+    "id": "5301172002",
+    "district_id": "530117",
+    "name": "SOBA"
+  },
+  {
+    "id": "5301172003",
+    "district_id": "530117",
+    "name": "TOOBAUN"
+  },
+  {
+    "id": "5301172004",
+    "district_id": "530117",
+    "name": "NIUKBAUN"
+  },
+  {
+    "id": "5301172005",
+    "district_id": "530117",
+    "name": "TUNBAUN"
+  },
+  {
+    "id": "5301172006",
+    "district_id": "530117",
+    "name": "NEKBAUN"
+  },
+  {
+    "id": "5301172007",
+    "district_id": "530117",
+    "name": "MERBAUN"
+  },
+  {
+    "id": "5301172008",
+    "district_id": "530117",
+    "name": "ERBAUN"
+  }
+]

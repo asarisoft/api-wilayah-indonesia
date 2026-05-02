@@ -1,1 +1,77 @@
-[{"id": "7316031001", "district_id": "731603", "name": "BARAKA"}, {"id": "7316031002", "district_id": "731603", "name": "TOMENAWA"}, {"id": "7316031021", "district_id": "731603", "name": "BALLA"}, {"id": "7316032003", "district_id": "731603", "name": "BANTI"}, {"id": "7316032005", "district_id": "731603", "name": "BONTONGAN"}, {"id": "7316032006", "district_id": "731603", "name": "SALUKANAN"}, {"id": "7316032007", "district_id": "731603", "name": "PARINDING"}, {"id": "7316032010", "district_id": "731603", "name": "TIROWALI"}, {"id": "7316032011", "district_id": "731603", "name": "PEPANDUNGAN"}, {"id": "7316032012", "district_id": "731603", "name": "KENDENAN"}, {"id": "7316032015", "district_id": "731603", "name": "PERANGIAN"}, {"id": "7316032019", "district_id": "731603", "name": "JANGGURARA"}, {"id": "7316032020", "district_id": "731603", "name": "KADINGEH"}, {"id": "7316032022", "district_id": "731603", "name": "BONEBONE"}, {"id": "7316032023", "district_id": "731603", "name": "PANDUNG BATU"}]
+[
+  {
+    "id": "7316031001",
+    "district_id": "731603",
+    "name": "BARAKA"
+  },
+  {
+    "id": "7316031002",
+    "district_id": "731603",
+    "name": "TOMENAWA"
+  },
+  {
+    "id": "7316031021",
+    "district_id": "731603",
+    "name": "BALLA"
+  },
+  {
+    "id": "7316032003",
+    "district_id": "731603",
+    "name": "BANTI"
+  },
+  {
+    "id": "7316032005",
+    "district_id": "731603",
+    "name": "BONTONGAN"
+  },
+  {
+    "id": "7316032006",
+    "district_id": "731603",
+    "name": "SALUKANAN"
+  },
+  {
+    "id": "7316032007",
+    "district_id": "731603",
+    "name": "PARINDING"
+  },
+  {
+    "id": "7316032010",
+    "district_id": "731603",
+    "name": "TIROWALI"
+  },
+  {
+    "id": "7316032011",
+    "district_id": "731603",
+    "name": "PEPANDUNGAN"
+  },
+  {
+    "id": "7316032012",
+    "district_id": "731603",
+    "name": "KENDENAN"
+  },
+  {
+    "id": "7316032015",
+    "district_id": "731603",
+    "name": "PERANGIAN"
+  },
+  {
+    "id": "7316032019",
+    "district_id": "731603",
+    "name": "JANGGURARA"
+  },
+  {
+    "id": "7316032020",
+    "district_id": "731603",
+    "name": "KADINGEH"
+  },
+  {
+    "id": "7316032022",
+    "district_id": "731603",
+    "name": "BONEBONE"
+  },
+  {
+    "id": "7316032023",
+    "district_id": "731603",
+    "name": "PANDUNG BATU"
+  }
+]

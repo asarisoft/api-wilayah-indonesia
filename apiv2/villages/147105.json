@@ -1,1 +1,32 @@
-[{"id": "1471051001", "district_id": "147105", "name": "PADANG BULAN"}, {"id": "1471051002", "district_id": "147105", "name": "SAGO"}, {"id": "1471051003", "district_id": "147105", "name": "KAMPUNG BARU"}, {"id": "1471051004", "district_id": "147105", "name": "KAMPUNG DALAM"}, {"id": "1471051005", "district_id": "147105", "name": "KAMPUNG BANDAR"}, {"id": "1471051006", "district_id": "147105", "name": "PADANG TERUBUK"}]
+[
+  {
+    "id": "1471051001",
+    "district_id": "147105",
+    "name": "PADANG BULAN"
+  },
+  {
+    "id": "1471051002",
+    "district_id": "147105",
+    "name": "SAGO"
+  },
+  {
+    "id": "1471051003",
+    "district_id": "147105",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1471051004",
+    "district_id": "147105",
+    "name": "KAMPUNG DALAM"
+  },
+  {
+    "id": "1471051005",
+    "district_id": "147105",
+    "name": "KAMPUNG BANDAR"
+  },
+  {
+    "id": "1471051006",
+    "district_id": "147105",
+    "name": "PADANG TERUBUK"
+  }
+]

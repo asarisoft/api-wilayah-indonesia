@@ -1,1 +1,27 @@
-[{"id": "1472021002", "district_id": "147202", "name": "TELUK BINJAI"}, {"id": "1472021003", "district_id": "147202", "name": "TANJUNG PALAS"}, {"id": "1472021004", "district_id": "147202", "name": "JAYA MUKTI"}, {"id": "1472021006", "district_id": "147202", "name": "BULUH KASAP"}, {"id": "1472021009", "district_id": "147202", "name": "BUKIT BATREM"}]
+[
+  {
+    "id": "1472021002",
+    "district_id": "147202",
+    "name": "TELUK BINJAI"
+  },
+  {
+    "id": "1472021003",
+    "district_id": "147202",
+    "name": "TANJUNG PALAS"
+  },
+  {
+    "id": "1472021004",
+    "district_id": "147202",
+    "name": "JAYA MUKTI"
+  },
+  {
+    "id": "1472021006",
+    "district_id": "147202",
+    "name": "BULUH KASAP"
+  },
+  {
+    "id": "1472021009",
+    "district_id": "147202",
+    "name": "BUKIT BATREM"
+  }
+]

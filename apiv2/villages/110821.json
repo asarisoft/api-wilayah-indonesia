@@ -1,1 +1,102 @@
-[{"id": "1108212001", "district_id": "110821", "name": "NIBONG BAROH"}, {"id": "1108212002", "district_id": "110821", "name": "NIBONG WAKHEUH"}, {"id": "1108212003", "district_id": "110821", "name": "KEUDE NIBONG"}, {"id": "1108212004", "district_id": "110821", "name": "KEUPOK NIBONG"}, {"id": "1108212005", "district_id": "110821", "name": "DAYAH NIBONG"}, {"id": "1108212006", "district_id": "110821", "name": "SUMBOK RAYEUK"}, {"id": "1108212007", "district_id": "110821", "name": "PAYA TERBANG"}, {"id": "1108212008", "district_id": "110821", "name": "TEUPIN JOK"}, {"id": "1108212009", "district_id": "110821", "name": "MAMPLAM"}, {"id": "1108212010", "district_id": "110821", "name": "KEULILEE"}, {"id": "1108212011", "district_id": "110821", "name": "MEUNYE LHEE"}, {"id": "1108212012", "district_id": "110821", "name": "RANTO"}, {"id": "1108212013", "district_id": "110821", "name": "SEULUNYOK"}, {"id": "1108212014", "district_id": "110821", "name": "KEH NIBONG"}, {"id": "1108212015", "district_id": "110821", "name": "ALUE IE MIRAH"}, {"id": "1108212016", "district_id": "110821", "name": "MADDI"}, {"id": "1108212017", "district_id": "110821", "name": "ALUE NGOM"}, {"id": "1108212018", "district_id": "110821", "name": "TANJONG PUTOH"}, {"id": "1108212019", "district_id": "110821", "name": "BUMBAN"}, {"id": "1108212020", "district_id": "110821", "name": "ALUE PANAH"}]
+[
+  {
+    "id": "1108212001",
+    "district_id": "110821",
+    "name": "NIBONG BAROH"
+  },
+  {
+    "id": "1108212002",
+    "district_id": "110821",
+    "name": "NIBONG WAKHEUH"
+  },
+  {
+    "id": "1108212003",
+    "district_id": "110821",
+    "name": "KEUDE NIBONG"
+  },
+  {
+    "id": "1108212004",
+    "district_id": "110821",
+    "name": "KEUPOK NIBONG"
+  },
+  {
+    "id": "1108212005",
+    "district_id": "110821",
+    "name": "DAYAH NIBONG"
+  },
+  {
+    "id": "1108212006",
+    "district_id": "110821",
+    "name": "SUMBOK RAYEUK"
+  },
+  {
+    "id": "1108212007",
+    "district_id": "110821",
+    "name": "PAYA TERBANG"
+  },
+  {
+    "id": "1108212008",
+    "district_id": "110821",
+    "name": "TEUPIN JOK"
+  },
+  {
+    "id": "1108212009",
+    "district_id": "110821",
+    "name": "MAMPLAM"
+  },
+  {
+    "id": "1108212010",
+    "district_id": "110821",
+    "name": "KEULILEE"
+  },
+  {
+    "id": "1108212011",
+    "district_id": "110821",
+    "name": "MEUNYE LHEE"
+  },
+  {
+    "id": "1108212012",
+    "district_id": "110821",
+    "name": "RANTO"
+  },
+  {
+    "id": "1108212013",
+    "district_id": "110821",
+    "name": "SEULUNYOK"
+  },
+  {
+    "id": "1108212014",
+    "district_id": "110821",
+    "name": "KEH NIBONG"
+  },
+  {
+    "id": "1108212015",
+    "district_id": "110821",
+    "name": "ALUE IE MIRAH"
+  },
+  {
+    "id": "1108212016",
+    "district_id": "110821",
+    "name": "MADDI"
+  },
+  {
+    "id": "1108212017",
+    "district_id": "110821",
+    "name": "ALUE NGOM"
+  },
+  {
+    "id": "1108212018",
+    "district_id": "110821",
+    "name": "TANJONG PUTOH"
+  },
+  {
+    "id": "1108212019",
+    "district_id": "110821",
+    "name": "BUMBAN"
+  },
+  {
+    "id": "1108212020",
+    "district_id": "110821",
+    "name": "ALUE PANAH"
+  }
+]

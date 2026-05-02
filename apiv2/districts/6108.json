@@ -1,1 +1,67 @@
-[{"id": "610801", "regency_id": "6108", "name": "NGABANG"}, {"id": "610802", "regency_id": "6108", "name": "MEMPAWAH HULU"}, {"id": "610803", "regency_id": "6108", "name": "MENJALIN"}, {"id": "610804", "regency_id": "6108", "name": "MANDOR"}, {"id": "610805", "regency_id": "6108", "name": "AIR BESAR"}, {"id": "610806", "regency_id": "6108", "name": "MENYUKE"}, {"id": "610807", "regency_id": "6108", "name": "SENGAH TEMILA"}, {"id": "610808", "regency_id": "6108", "name": "MERANTI"}, {"id": "610809", "regency_id": "6108", "name": "KUALA BEHE"}, {"id": "610810", "regency_id": "6108", "name": "SEBANGKI"}, {"id": "610811", "regency_id": "6108", "name": "JELIMPO"}, {"id": "610812", "regency_id": "6108", "name": "BANYUKE HULU"}, {"id": "610813", "regency_id": "6108", "name": "SOMPAK"}]
+[
+  {
+    "id": "610801",
+    "regency_id": "6108",
+    "name": "NGABANG"
+  },
+  {
+    "id": "610802",
+    "regency_id": "6108",
+    "name": "MEMPAWAH HULU"
+  },
+  {
+    "id": "610803",
+    "regency_id": "6108",
+    "name": "MENJALIN"
+  },
+  {
+    "id": "610804",
+    "regency_id": "6108",
+    "name": "MANDOR"
+  },
+  {
+    "id": "610805",
+    "regency_id": "6108",
+    "name": "AIR BESAR"
+  },
+  {
+    "id": "610806",
+    "regency_id": "6108",
+    "name": "MENYUKE"
+  },
+  {
+    "id": "610807",
+    "regency_id": "6108",
+    "name": "SENGAH TEMILA"
+  },
+  {
+    "id": "610808",
+    "regency_id": "6108",
+    "name": "MERANTI"
+  },
+  {
+    "id": "610809",
+    "regency_id": "6108",
+    "name": "KUALA BEHE"
+  },
+  {
+    "id": "610810",
+    "regency_id": "6108",
+    "name": "SEBANGKI"
+  },
+  {
+    "id": "610811",
+    "regency_id": "6108",
+    "name": "JELIMPO"
+  },
+  {
+    "id": "610812",
+    "regency_id": "6108",
+    "name": "BANYUKE HULU"
+  },
+  {
+    "id": "610813",
+    "regency_id": "6108",
+    "name": "SOMPAK"
+  }
+]

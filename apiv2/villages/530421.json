@@ -1,1 +1,22 @@
-[{"id": "5304211001", "district_id": "530421", "name": "BARDAO"}, {"id": "5304211002", "district_id": "530421", "name": "TULAMALAE"}, {"id": "5304211003", "district_id": "530421", "name": "UMANEN"}, {"id": "5304211004", "district_id": "530421", "name": "BEIRAFU"}]
+[
+  {
+    "id": "5304211001",
+    "district_id": "530421",
+    "name": "BARDAO"
+  },
+  {
+    "id": "5304211002",
+    "district_id": "530421",
+    "name": "TULAMALAE"
+  },
+  {
+    "id": "5304211003",
+    "district_id": "530421",
+    "name": "UMANEN"
+  },
+  {
+    "id": "5304211004",
+    "district_id": "530421",
+    "name": "BEIRAFU"
+  }
+]

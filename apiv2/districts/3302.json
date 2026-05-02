@@ -1,1 +1,137 @@
-[{"id": "330201", "regency_id": "3302", "name": "LUMBIR"}, {"id": "330202", "regency_id": "3302", "name": "WANGON"}, {"id": "330203", "regency_id": "3302", "name": "JATILAWANG"}, {"id": "330204", "regency_id": "3302", "name": "RAWALO"}, {"id": "330205", "regency_id": "3302", "name": "KEBASEN"}, {"id": "330206", "regency_id": "3302", "name": "KEMRANJEN"}, {"id": "330207", "regency_id": "3302", "name": "SUMPIUH"}, {"id": "330208", "regency_id": "3302", "name": "TAMBAK"}, {"id": "330209", "regency_id": "3302", "name": "SOMAGEDE"}, {"id": "330210", "regency_id": "3302", "name": "KALIBAGOR"}, {"id": "330211", "regency_id": "3302", "name": "BANYUMAS"}, {"id": "330212", "regency_id": "3302", "name": "PATIKRAJA"}, {"id": "330213", "regency_id": "3302", "name": "PURWOJATI"}, {"id": "330214", "regency_id": "3302", "name": "AJIBARANG"}, {"id": "330215", "regency_id": "3302", "name": "GUMELAR"}, {"id": "330216", "regency_id": "3302", "name": "PEKUNCEN"}, {"id": "330217", "regency_id": "3302", "name": "CILONGOK"}, {"id": "330218", "regency_id": "3302", "name": "KARANGLEWAS"}, {"id": "330219", "regency_id": "3302", "name": "SOKARAJA"}, {"id": "330220", "regency_id": "3302", "name": "KEMBARAN"}, {"id": "330221", "regency_id": "3302", "name": "SUMBANG"}, {"id": "330222", "regency_id": "3302", "name": "BATURRADEN"}, {"id": "330223", "regency_id": "3302", "name": "KEDUNGBANTENG"}, {"id": "330224", "regency_id": "3302", "name": "PURWOKERTO SELATAN"}, {"id": "330225", "regency_id": "3302", "name": "PURWOKERTO BARAT"}, {"id": "330226", "regency_id": "3302", "name": "PURWOKERTO TIMUR"}, {"id": "330227", "regency_id": "3302", "name": "PURWOKERTO UTARA"}]
+[
+  {
+    "id": "330201",
+    "regency_id": "3302",
+    "name": "LUMBIR"
+  },
+  {
+    "id": "330202",
+    "regency_id": "3302",
+    "name": "WANGON"
+  },
+  {
+    "id": "330203",
+    "regency_id": "3302",
+    "name": "JATILAWANG"
+  },
+  {
+    "id": "330204",
+    "regency_id": "3302",
+    "name": "RAWALO"
+  },
+  {
+    "id": "330205",
+    "regency_id": "3302",
+    "name": "KEBASEN"
+  },
+  {
+    "id": "330206",
+    "regency_id": "3302",
+    "name": "KEMRANJEN"
+  },
+  {
+    "id": "330207",
+    "regency_id": "3302",
+    "name": "SUMPIUH"
+  },
+  {
+    "id": "330208",
+    "regency_id": "3302",
+    "name": "TAMBAK"
+  },
+  {
+    "id": "330209",
+    "regency_id": "3302",
+    "name": "SOMAGEDE"
+  },
+  {
+    "id": "330210",
+    "regency_id": "3302",
+    "name": "KALIBAGOR"
+  },
+  {
+    "id": "330211",
+    "regency_id": "3302",
+    "name": "BANYUMAS"
+  },
+  {
+    "id": "330212",
+    "regency_id": "3302",
+    "name": "PATIKRAJA"
+  },
+  {
+    "id": "330213",
+    "regency_id": "3302",
+    "name": "PURWOJATI"
+  },
+  {
+    "id": "330214",
+    "regency_id": "3302",
+    "name": "AJIBARANG"
+  },
+  {
+    "id": "330215",
+    "regency_id": "3302",
+    "name": "GUMELAR"
+  },
+  {
+    "id": "330216",
+    "regency_id": "3302",
+    "name": "PEKUNCEN"
+  },
+  {
+    "id": "330217",
+    "regency_id": "3302",
+    "name": "CILONGOK"
+  },
+  {
+    "id": "330218",
+    "regency_id": "3302",
+    "name": "KARANGLEWAS"
+  },
+  {
+    "id": "330219",
+    "regency_id": "3302",
+    "name": "SOKARAJA"
+  },
+  {
+    "id": "330220",
+    "regency_id": "3302",
+    "name": "KEMBARAN"
+  },
+  {
+    "id": "330221",
+    "regency_id": "3302",
+    "name": "SUMBANG"
+  },
+  {
+    "id": "330222",
+    "regency_id": "3302",
+    "name": "BATURRADEN"
+  },
+  {
+    "id": "330223",
+    "regency_id": "3302",
+    "name": "KEDUNGBANTENG"
+  },
+  {
+    "id": "330224",
+    "regency_id": "3302",
+    "name": "PURWOKERTO SELATAN"
+  },
+  {
+    "id": "330225",
+    "regency_id": "3302",
+    "name": "PURWOKERTO BARAT"
+  },
+  {
+    "id": "330226",
+    "regency_id": "3302",
+    "name": "PURWOKERTO TIMUR"
+  },
+  {
+    "id": "330227",
+    "regency_id": "3302",
+    "name": "PURWOKERTO UTARA"
+  }
+]

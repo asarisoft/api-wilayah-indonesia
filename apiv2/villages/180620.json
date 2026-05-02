@@ -1,1 +1,47 @@
-[{"id": "1806202001", "district_id": "180620", "name": "BANJAR MANIS"}, {"id": "1806202002", "district_id": "180620", "name": "CAMPANG"}, {"id": "1806202003", "district_id": "180620", "name": "KUTA DALOM"}, {"id": "1806202004", "district_id": "180620", "name": "PURWODADI"}, {"id": "1806202005", "district_id": "180620", "name": "GISTING BAWAH"}, {"id": "1806202006", "district_id": "180620", "name": "GISTING ATAS"}, {"id": "1806202007", "district_id": "180620", "name": "SIDOKATON"}, {"id": "1806202008", "district_id": "180620", "name": "LANDBAW"}, {"id": "1806202009", "district_id": "180620", "name": "GISTING PERMAI"}]
+[
+  {
+    "id": "1806202001",
+    "district_id": "180620",
+    "name": "BANJAR MANIS"
+  },
+  {
+    "id": "1806202002",
+    "district_id": "180620",
+    "name": "CAMPANG"
+  },
+  {
+    "id": "1806202003",
+    "district_id": "180620",
+    "name": "KUTA DALOM"
+  },
+  {
+    "id": "1806202004",
+    "district_id": "180620",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "1806202005",
+    "district_id": "180620",
+    "name": "GISTING BAWAH"
+  },
+  {
+    "id": "1806202006",
+    "district_id": "180620",
+    "name": "GISTING ATAS"
+  },
+  {
+    "id": "1806202007",
+    "district_id": "180620",
+    "name": "SIDOKATON"
+  },
+  {
+    "id": "1806202008",
+    "district_id": "180620",
+    "name": "LANDBAW"
+  },
+  {
+    "id": "1806202009",
+    "district_id": "180620",
+    "name": "GISTING PERMAI"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "3202362001", "district_id": "320236", "name": "SUKALARANG"}, {"id": "3202362002", "district_id": "320236", "name": "SUKAMAJU"}, {"id": "3202362003", "district_id": "320236", "name": "CIMANGKOK"}, {"id": "3202362004", "district_id": "320236", "name": "TITISAN"}, {"id": "3202362005", "district_id": "320236", "name": "SEMPLAK"}, {"id": "3202362006", "district_id": "320236", "name": "PRIANGANJAYA"}]
+[
+  {
+    "id": "3202362001",
+    "district_id": "320236",
+    "name": "SUKALARANG"
+  },
+  {
+    "id": "3202362002",
+    "district_id": "320236",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3202362003",
+    "district_id": "320236",
+    "name": "CIMANGKOK"
+  },
+  {
+    "id": "3202362004",
+    "district_id": "320236",
+    "name": "TITISAN"
+  },
+  {
+    "id": "3202362005",
+    "district_id": "320236",
+    "name": "SEMPLAK"
+  },
+  {
+    "id": "3202362006",
+    "district_id": "320236",
+    "name": "PRIANGANJAYA"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3527112001", "district_id": "352711", "name": "TOBAI BARAT"}, {"id": "3527112002", "district_id": "352711", "name": "TOBAI TENGAH"}, {"id": "3527112003", "district_id": "352711", "name": "TOBAI TIMUR"}, {"id": "3527112004", "district_id": "352711", "name": "BIRA TENGAH"}, {"id": "3527112005", "district_id": "352711", "name": "BIRA TIMUR"}, {"id": "3527112006", "district_id": "352711", "name": "SOKOBANAH LAOK"}, {"id": "3527112007", "district_id": "352711", "name": "TAMBERU LAOK"}, {"id": "3527112008", "district_id": "352711", "name": "TAMBERU DAYA"}, {"id": "3527112009", "district_id": "352711", "name": "SOKOBANAH TENGAH"}, {"id": "3527112010", "district_id": "352711", "name": "SOKOBANAH DAYA"}, {"id": "3527112011", "district_id": "352711", "name": "TAMBERU BARAT"}, {"id": "3527112012", "district_id": "352711", "name": "TAMBERU TIMUR"}]
+[
+  {
+    "id": "3527112001",
+    "district_id": "352711",
+    "name": "TOBAI BARAT"
+  },
+  {
+    "id": "3527112002",
+    "district_id": "352711",
+    "name": "TOBAI TENGAH"
+  },
+  {
+    "id": "3527112003",
+    "district_id": "352711",
+    "name": "TOBAI TIMUR"
+  },
+  {
+    "id": "3527112004",
+    "district_id": "352711",
+    "name": "BIRA TENGAH"
+  },
+  {
+    "id": "3527112005",
+    "district_id": "352711",
+    "name": "BIRA TIMUR"
+  },
+  {
+    "id": "3527112006",
+    "district_id": "352711",
+    "name": "SOKOBANAH LAOK"
+  },
+  {
+    "id": "3527112007",
+    "district_id": "352711",
+    "name": "TAMBERU LAOK"
+  },
+  {
+    "id": "3527112008",
+    "district_id": "352711",
+    "name": "TAMBERU DAYA"
+  },
+  {
+    "id": "3527112009",
+    "district_id": "352711",
+    "name": "SOKOBANAH TENGAH"
+  },
+  {
+    "id": "3527112010",
+    "district_id": "352711",
+    "name": "SOKOBANAH DAYA"
+  },
+  {
+    "id": "3527112011",
+    "district_id": "352711",
+    "name": "TAMBERU BARAT"
+  },
+  {
+    "id": "3527112012",
+    "district_id": "352711",
+    "name": "TAMBERU TIMUR"
+  }
+]

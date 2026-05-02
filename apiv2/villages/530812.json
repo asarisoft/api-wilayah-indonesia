@@ -1,1 +1,67 @@
-[{"id": "5308121001", "district_id": "530812", "name": "WATUNESO"}, {"id": "5308122002", "district_id": "530812", "name": "HOBATUA"}, {"id": "5308122003", "district_id": "530812", "name": "WOLOSAMBI"}, {"id": "5308122004", "district_id": "530812", "name": "WOLOARA"}, {"id": "5308122005", "district_id": "530812", "name": "DETUPERA"}, {"id": "5308122006", "district_id": "530812", "name": "WOLOLELA A"}, {"id": "5308122007", "district_id": "530812", "name": "LIABEKE"}, {"id": "5308122013", "district_id": "530812", "name": "FATAMARI"}, {"id": "5308122014", "district_id": "530812", "name": "RANGGATALO"}, {"id": "5308122015", "district_id": "530812", "name": "NUA LIMA"}, {"id": "5308122016", "district_id": "530812", "name": "TANAROGA"}, {"id": "5308122017", "district_id": "530812", "name": "BU TANALAGU"}, {"id": "5308122018", "district_id": "530812", "name": "MBEWAWORA"}]
+[
+  {
+    "id": "5308121001",
+    "district_id": "530812",
+    "name": "WATUNESO"
+  },
+  {
+    "id": "5308122002",
+    "district_id": "530812",
+    "name": "HOBATUA"
+  },
+  {
+    "id": "5308122003",
+    "district_id": "530812",
+    "name": "WOLOSAMBI"
+  },
+  {
+    "id": "5308122004",
+    "district_id": "530812",
+    "name": "WOLOARA"
+  },
+  {
+    "id": "5308122005",
+    "district_id": "530812",
+    "name": "DETUPERA"
+  },
+  {
+    "id": "5308122006",
+    "district_id": "530812",
+    "name": "WOLOLELA A"
+  },
+  {
+    "id": "5308122007",
+    "district_id": "530812",
+    "name": "LIABEKE"
+  },
+  {
+    "id": "5308122013",
+    "district_id": "530812",
+    "name": "FATAMARI"
+  },
+  {
+    "id": "5308122014",
+    "district_id": "530812",
+    "name": "RANGGATALO"
+  },
+  {
+    "id": "5308122015",
+    "district_id": "530812",
+    "name": "NUA LIMA"
+  },
+  {
+    "id": "5308122016",
+    "district_id": "530812",
+    "name": "TANAROGA"
+  },
+  {
+    "id": "5308122017",
+    "district_id": "530812",
+    "name": "BU TANALAGU"
+  },
+  {
+    "id": "5308122018",
+    "district_id": "530812",
+    "name": "MBEWAWORA"
+  }
+]

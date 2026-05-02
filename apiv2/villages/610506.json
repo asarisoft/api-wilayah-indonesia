@@ -1,1 +1,147 @@
-[{"id": "6105062001", "district_id": "610506", "name": "SENANING"}, {"id": "6105062002", "district_id": "610506", "name": "EMPURA"}, {"id": "6105062003", "district_id": "610506", "name": "SEBADAK"}, {"id": "6105062004", "district_id": "610506", "name": "SEPILUK"}, {"id": "6105062005", "district_id": "610506", "name": "SUNGAI SERIA"}, {"id": "6105062006", "district_id": "610506", "name": "SUAK MEDANG"}, {"id": "6105062007", "district_id": "610506", "name": "NANGA BAYAN"}, {"id": "6105062008", "district_id": "610506", "name": "RASAU"}, {"id": "6105062009", "district_id": "610506", "name": "JASA"}, {"id": "6105062010", "district_id": "610506", "name": "SUNGAI BUGAU"}, {"id": "6105062011", "district_id": "610506", "name": "NANGA BUGAU"}, {"id": "6105062012", "district_id": "610506", "name": "EMPUNAK TAPANG KELADAN"}, {"id": "6105062013", "district_id": "610506", "name": "SEBETUNG PALUK"}, {"id": "6105062014", "district_id": "610506", "name": "MUAKAN PETINGGI"}, {"id": "6105062015", "district_id": "610506", "name": "NANGA SEBAWANG"}, {"id": "6105062016", "district_id": "610506", "name": "SEKAIH"}, {"id": "6105062017", "district_id": "610506", "name": "BEKUAN LUYANG"}, {"id": "6105062018", "district_id": "610506", "name": "SUNGAI PISAU"}, {"id": "6105062019", "district_id": "610506", "name": "MUNGGUK ENTAWAK"}, {"id": "6105062020", "district_id": "610506", "name": "EMBALEH"}, {"id": "6105062021", "district_id": "610506", "name": "SEBULUH"}, {"id": "6105062022", "district_id": "610506", "name": "RIAM SEJAWAK"}, {"id": "6105062023", "district_id": "610506", "name": "ENGKERUH"}, {"id": "6105062024", "district_id": "610506", "name": "SUNGAI KELIK"}, {"id": "6105062025", "district_id": "610506", "name": "IDAI"}, {"id": "6105062026", "district_id": "610506", "name": "SUNGAI MAWANG"}, {"id": "6105062027", "district_id": "610506", "name": "UJUNG KEMPAS"}, {"id": "6105062028", "district_id": "610506", "name": "NERACI JAYA"}, {"id": "6105062029", "district_id": "610506", "name": "SEJAWAK"}]
+[
+  {
+    "id": "6105062001",
+    "district_id": "610506",
+    "name": "SENANING"
+  },
+  {
+    "id": "6105062002",
+    "district_id": "610506",
+    "name": "EMPURA"
+  },
+  {
+    "id": "6105062003",
+    "district_id": "610506",
+    "name": "SEBADAK"
+  },
+  {
+    "id": "6105062004",
+    "district_id": "610506",
+    "name": "SEPILUK"
+  },
+  {
+    "id": "6105062005",
+    "district_id": "610506",
+    "name": "SUNGAI SERIA"
+  },
+  {
+    "id": "6105062006",
+    "district_id": "610506",
+    "name": "SUAK MEDANG"
+  },
+  {
+    "id": "6105062007",
+    "district_id": "610506",
+    "name": "NANGA BAYAN"
+  },
+  {
+    "id": "6105062008",
+    "district_id": "610506",
+    "name": "RASAU"
+  },
+  {
+    "id": "6105062009",
+    "district_id": "610506",
+    "name": "JASA"
+  },
+  {
+    "id": "6105062010",
+    "district_id": "610506",
+    "name": "SUNGAI BUGAU"
+  },
+  {
+    "id": "6105062011",
+    "district_id": "610506",
+    "name": "NANGA BUGAU"
+  },
+  {
+    "id": "6105062012",
+    "district_id": "610506",
+    "name": "EMPUNAK TAPANG KELADAN"
+  },
+  {
+    "id": "6105062013",
+    "district_id": "610506",
+    "name": "SEBETUNG PALUK"
+  },
+  {
+    "id": "6105062014",
+    "district_id": "610506",
+    "name": "MUAKAN PETINGGI"
+  },
+  {
+    "id": "6105062015",
+    "district_id": "610506",
+    "name": "NANGA SEBAWANG"
+  },
+  {
+    "id": "6105062016",
+    "district_id": "610506",
+    "name": "SEKAIH"
+  },
+  {
+    "id": "6105062017",
+    "district_id": "610506",
+    "name": "BEKUAN LUYANG"
+  },
+  {
+    "id": "6105062018",
+    "district_id": "610506",
+    "name": "SUNGAI PISAU"
+  },
+  {
+    "id": "6105062019",
+    "district_id": "610506",
+    "name": "MUNGGUK ENTAWAK"
+  },
+  {
+    "id": "6105062020",
+    "district_id": "610506",
+    "name": "EMBALEH"
+  },
+  {
+    "id": "6105062021",
+    "district_id": "610506",
+    "name": "SEBULUH"
+  },
+  {
+    "id": "6105062022",
+    "district_id": "610506",
+    "name": "RIAM SEJAWAK"
+  },
+  {
+    "id": "6105062023",
+    "district_id": "610506",
+    "name": "ENGKERUH"
+  },
+  {
+    "id": "6105062024",
+    "district_id": "610506",
+    "name": "SUNGAI KELIK"
+  },
+  {
+    "id": "6105062025",
+    "district_id": "610506",
+    "name": "IDAI"
+  },
+  {
+    "id": "6105062026",
+    "district_id": "610506",
+    "name": "SUNGAI MAWANG"
+  },
+  {
+    "id": "6105062027",
+    "district_id": "610506",
+    "name": "UJUNG KEMPAS"
+  },
+  {
+    "id": "6105062028",
+    "district_id": "610506",
+    "name": "NERACI JAYA"
+  },
+  {
+    "id": "6105062029",
+    "district_id": "610506",
+    "name": "SEJAWAK"
+  }
+]

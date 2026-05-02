@@ -1,1 +1,42 @@
-[{"id": "1608112001", "district_id": "160811", "name": "BATU RAJA BUNGIN"}, {"id": "1608112002", "district_id": "160811", "name": "TULANG BAWANG"}, {"id": "1608112003", "district_id": "160811", "name": "SABAHLIOH"}, {"id": "1608112004", "district_id": "160811", "name": "NEGERI RATU"}, {"id": "1608112005", "district_id": "160811", "name": "PERACAK"}, {"id": "1608112006", "district_id": "160811", "name": "NEGERI RATU BARU"}, {"id": "1608112007", "district_id": "160811", "name": "TUNAS PERACAK"}, {"id": "1608112008", "district_id": "160811", "name": "SUKABARU"}]
+[
+  {
+    "id": "1608112001",
+    "district_id": "160811",
+    "name": "BATU RAJA BUNGIN"
+  },
+  {
+    "id": "1608112002",
+    "district_id": "160811",
+    "name": "TULANG BAWANG"
+  },
+  {
+    "id": "1608112003",
+    "district_id": "160811",
+    "name": "SABAHLIOH"
+  },
+  {
+    "id": "1608112004",
+    "district_id": "160811",
+    "name": "NEGERI RATU"
+  },
+  {
+    "id": "1608112005",
+    "district_id": "160811",
+    "name": "PERACAK"
+  },
+  {
+    "id": "1608112006",
+    "district_id": "160811",
+    "name": "NEGERI RATU BARU"
+  },
+  {
+    "id": "1608112007",
+    "district_id": "160811",
+    "name": "TUNAS PERACAK"
+  },
+  {
+    "id": "1608112008",
+    "district_id": "160811",
+    "name": "SUKABARU"
+  }
+]

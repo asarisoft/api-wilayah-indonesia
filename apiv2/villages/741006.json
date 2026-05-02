@@ -1,1 +1,67 @@
-[{"id": "7410061007", "district_id": "741006", "name": "LABUAN"}, {"id": "7410061008", "district_id": "741006", "name": "LABUAN WOLIO"}, {"id": "7410062001", "district_id": "741006", "name": "LASIWA"}, {"id": "7410062002", "district_id": "741006", "name": "LAEYA"}, {"id": "7410062003", "district_id": "741006", "name": "MATALAGI"}, {"id": "7410062004", "district_id": "741006", "name": "WANTULASI"}, {"id": "7410062005", "district_id": "741006", "name": "LABUAN BAJO"}, {"id": "7410062006", "district_id": "741006", "name": "LABARAGA"}, {"id": "7410062009", "district_id": "741006", "name": "WAMORAPA"}, {"id": "7410062010", "district_id": "741006", "name": "SUMAMPENO"}, {"id": "7410062011", "district_id": "741006", "name": "OENGKAPALA"}, {"id": "7410062012", "district_id": "741006", "name": "LABUKO"}, {"id": "7410062013", "district_id": "741006", "name": "LABA JAYA"}]
+[
+  {
+    "id": "7410061007",
+    "district_id": "741006",
+    "name": "LABUAN"
+  },
+  {
+    "id": "7410061008",
+    "district_id": "741006",
+    "name": "LABUAN WOLIO"
+  },
+  {
+    "id": "7410062001",
+    "district_id": "741006",
+    "name": "LASIWA"
+  },
+  {
+    "id": "7410062002",
+    "district_id": "741006",
+    "name": "LAEYA"
+  },
+  {
+    "id": "7410062003",
+    "district_id": "741006",
+    "name": "MATALAGI"
+  },
+  {
+    "id": "7410062004",
+    "district_id": "741006",
+    "name": "WANTULASI"
+  },
+  {
+    "id": "7410062005",
+    "district_id": "741006",
+    "name": "LABUAN BAJO"
+  },
+  {
+    "id": "7410062006",
+    "district_id": "741006",
+    "name": "LABARAGA"
+  },
+  {
+    "id": "7410062009",
+    "district_id": "741006",
+    "name": "WAMORAPA"
+  },
+  {
+    "id": "7410062010",
+    "district_id": "741006",
+    "name": "SUMAMPENO"
+  },
+  {
+    "id": "7410062011",
+    "district_id": "741006",
+    "name": "OENGKAPALA"
+  },
+  {
+    "id": "7410062012",
+    "district_id": "741006",
+    "name": "LABUKO"
+  },
+  {
+    "id": "7410062013",
+    "district_id": "741006",
+    "name": "LABA JAYA"
+  }
+]

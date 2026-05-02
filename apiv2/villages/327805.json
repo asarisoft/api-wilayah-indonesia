@@ -1,1 +1,52 @@
-[{"id": "3278051001", "district_id": "327805", "name": "KERSAMENAK"}, {"id": "3278051002", "district_id": "327805", "name": "CILAMAJANG"}, {"id": "3278051003", "district_id": "327805", "name": "GUNUNG TANDALA"}, {"id": "3278051004", "district_id": "327805", "name": "URUG"}, {"id": "3278051005", "district_id": "327805", "name": "TANJUNG"}, {"id": "3278051006", "district_id": "327805", "name": "CIBEUTI"}, {"id": "3278051007", "district_id": "327805", "name": "KARANGANYAR"}, {"id": "3278051008", "district_id": "327805", "name": "TALAGASARI"}, {"id": "3278051009", "district_id": "327805", "name": "LEUWILIANG"}, {"id": "3278051010", "district_id": "327805", "name": "GUNUNG GEDE"}]
+[
+  {
+    "id": "3278051001",
+    "district_id": "327805",
+    "name": "KERSAMENAK"
+  },
+  {
+    "id": "3278051002",
+    "district_id": "327805",
+    "name": "CILAMAJANG"
+  },
+  {
+    "id": "3278051003",
+    "district_id": "327805",
+    "name": "GUNUNG TANDALA"
+  },
+  {
+    "id": "3278051004",
+    "district_id": "327805",
+    "name": "URUG"
+  },
+  {
+    "id": "3278051005",
+    "district_id": "327805",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "3278051006",
+    "district_id": "327805",
+    "name": "CIBEUTI"
+  },
+  {
+    "id": "3278051007",
+    "district_id": "327805",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3278051008",
+    "district_id": "327805",
+    "name": "TALAGASARI"
+  },
+  {
+    "id": "3278051009",
+    "district_id": "327805",
+    "name": "LEUWILIANG"
+  },
+  {
+    "id": "3278051010",
+    "district_id": "327805",
+    "name": "GUNUNG GEDE"
+  }
+]

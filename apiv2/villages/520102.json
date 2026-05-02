@@ -1,1 +1,52 @@
-[{"id": "5201022001", "district_id": "520102", "name": "KEDIRI"}, {"id": "5201022002", "district_id": "520102", "name": "MONTONG ARE"}, {"id": "5201022003", "district_id": "520102", "name": "JAGARAGA INDAH"}, {"id": "5201022004", "district_id": "520102", "name": "GELOGOR"}, {"id": "5201022005", "district_id": "520102", "name": "RUMAK"}, {"id": "5201022006", "district_id": "520102", "name": "BANYUMULEK"}, {"id": "5201022007", "district_id": "520102", "name": "OMBE BARU"}, {"id": "5201022008", "district_id": "520102", "name": "DASAN BARU"}, {"id": "5201022009", "district_id": "520102", "name": "KEDIRI SELATAN"}, {"id": "5201022010", "district_id": "520102", "name": "LELEDE"}]
+[
+  {
+    "id": "5201022001",
+    "district_id": "520102",
+    "name": "KEDIRI"
+  },
+  {
+    "id": "5201022002",
+    "district_id": "520102",
+    "name": "MONTONG ARE"
+  },
+  {
+    "id": "5201022003",
+    "district_id": "520102",
+    "name": "JAGARAGA INDAH"
+  },
+  {
+    "id": "5201022004",
+    "district_id": "520102",
+    "name": "GELOGOR"
+  },
+  {
+    "id": "5201022005",
+    "district_id": "520102",
+    "name": "RUMAK"
+  },
+  {
+    "id": "5201022006",
+    "district_id": "520102",
+    "name": "BANYUMULEK"
+  },
+  {
+    "id": "5201022007",
+    "district_id": "520102",
+    "name": "OMBE BARU"
+  },
+  {
+    "id": "5201022008",
+    "district_id": "520102",
+    "name": "DASAN BARU"
+  },
+  {
+    "id": "5201022009",
+    "district_id": "520102",
+    "name": "KEDIRI SELATAN"
+  },
+  {
+    "id": "5201022010",
+    "district_id": "520102",
+    "name": "LELEDE"
+  }
+]

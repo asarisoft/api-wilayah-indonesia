@@ -1,1 +1,42 @@
-[{"id": "3509201001", "district_id": "350920", "name": "BANJARSENGON"}, {"id": "3509201002", "district_id": "350920", "name": "JUMERTO"}, {"id": "3509201003", "district_id": "350920", "name": "GEBANG"}, {"id": "3509201004", "district_id": "350920", "name": "SLAWU"}, {"id": "3509201005", "district_id": "350920", "name": "BINTORO"}, {"id": "3509201006", "district_id": "350920", "name": "JEMBERLOR"}, {"id": "3509201007", "district_id": "350920", "name": "PATRANG"}, {"id": "3509201008", "district_id": "350920", "name": "BARATAN"}]
+[
+  {
+    "id": "3509201001",
+    "district_id": "350920",
+    "name": "BANJARSENGON"
+  },
+  {
+    "id": "3509201002",
+    "district_id": "350920",
+    "name": "JUMERTO"
+  },
+  {
+    "id": "3509201003",
+    "district_id": "350920",
+    "name": "GEBANG"
+  },
+  {
+    "id": "3509201004",
+    "district_id": "350920",
+    "name": "SLAWU"
+  },
+  {
+    "id": "3509201005",
+    "district_id": "350920",
+    "name": "BINTORO"
+  },
+  {
+    "id": "3509201006",
+    "district_id": "350920",
+    "name": "JEMBERLOR"
+  },
+  {
+    "id": "3509201007",
+    "district_id": "350920",
+    "name": "PATRANG"
+  },
+  {
+    "id": "3509201008",
+    "district_id": "350920",
+    "name": "BARATAN"
+  }
+]

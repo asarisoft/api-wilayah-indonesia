@@ -1,1 +1,77 @@
-[{"id": "3511152001", "district_id": "351115", "name": "SOLOR"}, {"id": "3511152002", "district_id": "351115", "name": "KLADI"}, {"id": "3511152003", "district_id": "351115", "name": "BERCAK"}, {"id": "3511152004", "district_id": "351115", "name": "SULING WETAN"}, {"id": "3511152005", "district_id": "351115", "name": "SULING KULON"}, {"id": "3511152006", "district_id": "351115", "name": "CERMEE"}, {"id": "3511152007", "district_id": "351115", "name": "RAMBAN WETAN"}, {"id": "3511152008", "district_id": "351115", "name": "GRUJUGAN"}, {"id": "3511152009", "district_id": "351115", "name": "RAMBAN KULON"}, {"id": "3511152010", "district_id": "351115", "name": "BAJURAN"}, {"id": "3511152011", "district_id": "351115", "name": "JIREK MAS"}, {"id": "3511152012", "district_id": "351115", "name": "BATU SALANG"}, {"id": "3511152013", "district_id": "351115", "name": "PALALANGAN"}, {"id": "3511152014", "district_id": "351115", "name": "BATU AMPAR"}, {"id": "3511152015", "district_id": "351115", "name": "BERCAK ASRI"}]
+[
+  {
+    "id": "3511152001",
+    "district_id": "351115",
+    "name": "SOLOR"
+  },
+  {
+    "id": "3511152002",
+    "district_id": "351115",
+    "name": "KLADI"
+  },
+  {
+    "id": "3511152003",
+    "district_id": "351115",
+    "name": "BERCAK"
+  },
+  {
+    "id": "3511152004",
+    "district_id": "351115",
+    "name": "SULING WETAN"
+  },
+  {
+    "id": "3511152005",
+    "district_id": "351115",
+    "name": "SULING KULON"
+  },
+  {
+    "id": "3511152006",
+    "district_id": "351115",
+    "name": "CERMEE"
+  },
+  {
+    "id": "3511152007",
+    "district_id": "351115",
+    "name": "RAMBAN WETAN"
+  },
+  {
+    "id": "3511152008",
+    "district_id": "351115",
+    "name": "GRUJUGAN"
+  },
+  {
+    "id": "3511152009",
+    "district_id": "351115",
+    "name": "RAMBAN KULON"
+  },
+  {
+    "id": "3511152010",
+    "district_id": "351115",
+    "name": "BAJURAN"
+  },
+  {
+    "id": "3511152011",
+    "district_id": "351115",
+    "name": "JIREK MAS"
+  },
+  {
+    "id": "3511152012",
+    "district_id": "351115",
+    "name": "BATU SALANG"
+  },
+  {
+    "id": "3511152013",
+    "district_id": "351115",
+    "name": "PALALANGAN"
+  },
+  {
+    "id": "3511152014",
+    "district_id": "351115",
+    "name": "BATU AMPAR"
+  },
+  {
+    "id": "3511152015",
+    "district_id": "351115",
+    "name": "BERCAK ASRI"
+  }
+]

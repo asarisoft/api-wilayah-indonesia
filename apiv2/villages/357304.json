@@ -1,1 +1,57 @@
-[{"id": "3573041001", "district_id": "357304", "name": "CIPTOMULYO"}, {"id": "3573041002", "district_id": "357304", "name": "GADANG"}, {"id": "3573041003", "district_id": "357304", "name": "KEBONSARI"}, {"id": "3573041004", "district_id": "357304", "name": "BANDUNGREJOSARI"}, {"id": "3573041005", "district_id": "357304", "name": "SUKUN"}, {"id": "3573041006", "district_id": "357304", "name": "TANJUNGREJO"}, {"id": "3573041007", "district_id": "357304", "name": "PISANGCANDI"}, {"id": "3573041008", "district_id": "357304", "name": "BANDULAN"}, {"id": "3573041009", "district_id": "357304", "name": "KARANGBESUKI"}, {"id": "3573041010", "district_id": "357304", "name": "MULYOREJO"}, {"id": "3573041011", "district_id": "357304", "name": "BAKALANKRAJAN"}]
+[
+  {
+    "id": "3573041001",
+    "district_id": "357304",
+    "name": "CIPTOMULYO"
+  },
+  {
+    "id": "3573041002",
+    "district_id": "357304",
+    "name": "GADANG"
+  },
+  {
+    "id": "3573041003",
+    "district_id": "357304",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3573041004",
+    "district_id": "357304",
+    "name": "BANDUNGREJOSARI"
+  },
+  {
+    "id": "3573041005",
+    "district_id": "357304",
+    "name": "SUKUN"
+  },
+  {
+    "id": "3573041006",
+    "district_id": "357304",
+    "name": "TANJUNGREJO"
+  },
+  {
+    "id": "3573041007",
+    "district_id": "357304",
+    "name": "PISANGCANDI"
+  },
+  {
+    "id": "3573041008",
+    "district_id": "357304",
+    "name": "BANDULAN"
+  },
+  {
+    "id": "3573041009",
+    "district_id": "357304",
+    "name": "KARANGBESUKI"
+  },
+  {
+    "id": "3573041010",
+    "district_id": "357304",
+    "name": "MULYOREJO"
+  },
+  {
+    "id": "3573041011",
+    "district_id": "357304",
+    "name": "BAKALANKRAJAN"
+  }
+]

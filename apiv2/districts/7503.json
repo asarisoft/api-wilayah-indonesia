@@ -1,1 +1,92 @@
-[{"id": "750301", "regency_id": "7503", "name": "TAPA"}, {"id": "750302", "regency_id": "7503", "name": "KABILA"}, {"id": "750303", "regency_id": "7503", "name": "SUWAWA"}, {"id": "750304", "regency_id": "7503", "name": "BONEPANTAI"}, {"id": "750305", "regency_id": "7503", "name": "BULANGO UTARA"}, {"id": "750306", "regency_id": "7503", "name": "TILONGKABILA"}, {"id": "750307", "regency_id": "7503", "name": "BOTUPINGGE"}, {"id": "750308", "regency_id": "7503", "name": "KABILA BONE"}, {"id": "750309", "regency_id": "7503", "name": "BONE"}, {"id": "750310", "regency_id": "7503", "name": "BONE RAYA"}, {"id": "750311", "regency_id": "7503", "name": "SUWAWA TIMUR"}, {"id": "750312", "regency_id": "7503", "name": "SUWAWA SELATAN"}, {"id": "750313", "regency_id": "7503", "name": "SUWAWA TENGAH"}, {"id": "750314", "regency_id": "7503", "name": "BULANGO ULU"}, {"id": "750315", "regency_id": "7503", "name": "BULANGO SELATAN"}, {"id": "750316", "regency_id": "7503", "name": "BULANGO TIMUR"}, {"id": "750317", "regency_id": "7503", "name": "BULAWA"}, {"id": "750318", "regency_id": "7503", "name": "PINOGU"}]
+[
+  {
+    "id": "750301",
+    "regency_id": "7503",
+    "name": "TAPA"
+  },
+  {
+    "id": "750302",
+    "regency_id": "7503",
+    "name": "KABILA"
+  },
+  {
+    "id": "750303",
+    "regency_id": "7503",
+    "name": "SUWAWA"
+  },
+  {
+    "id": "750304",
+    "regency_id": "7503",
+    "name": "BONEPANTAI"
+  },
+  {
+    "id": "750305",
+    "regency_id": "7503",
+    "name": "BULANGO UTARA"
+  },
+  {
+    "id": "750306",
+    "regency_id": "7503",
+    "name": "TILONGKABILA"
+  },
+  {
+    "id": "750307",
+    "regency_id": "7503",
+    "name": "BOTUPINGGE"
+  },
+  {
+    "id": "750308",
+    "regency_id": "7503",
+    "name": "KABILA BONE"
+  },
+  {
+    "id": "750309",
+    "regency_id": "7503",
+    "name": "BONE"
+  },
+  {
+    "id": "750310",
+    "regency_id": "7503",
+    "name": "BONE RAYA"
+  },
+  {
+    "id": "750311",
+    "regency_id": "7503",
+    "name": "SUWAWA TIMUR"
+  },
+  {
+    "id": "750312",
+    "regency_id": "7503",
+    "name": "SUWAWA SELATAN"
+  },
+  {
+    "id": "750313",
+    "regency_id": "7503",
+    "name": "SUWAWA TENGAH"
+  },
+  {
+    "id": "750314",
+    "regency_id": "7503",
+    "name": "BULANGO ULU"
+  },
+  {
+    "id": "750315",
+    "regency_id": "7503",
+    "name": "BULANGO SELATAN"
+  },
+  {
+    "id": "750316",
+    "regency_id": "7503",
+    "name": "BULANGO TIMUR"
+  },
+  {
+    "id": "750317",
+    "regency_id": "7503",
+    "name": "BULAWA"
+  },
+  {
+    "id": "750318",
+    "regency_id": "7503",
+    "name": "PINOGU"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "6101062001", "district_id": "610106", "name": "SULUNG"}, {"id": "6101062002", "district_id": "610106", "name": "PENAKALAN"}, {"id": "6101062003", "district_id": "610106", "name": "SEKUDUK"}, {"id": "6101062004", "district_id": "610106", "name": "SETALIK"}, {"id": "6101062005", "district_id": "610106", "name": "PARIT RAJA"}, {"id": "6101062006", "district_id": "610106", "name": "PIANTUS"}, {"id": "6101062007", "district_id": "610106", "name": "PERIGI LANDU"}, {"id": "6101062008", "district_id": "610106", "name": "SENDOYAN"}, {"id": "6101062009", "district_id": "610106", "name": "SENUJUH"}, {"id": "6101062010", "district_id": "610106", "name": "PERIGI LIMUS"}, {"id": "6101062011", "district_id": "610106", "name": "SEMANGA"}, {"id": "6101062012", "district_id": "610106", "name": "SEPANTAI"}]
+[
+  {
+    "id": "6101062001",
+    "district_id": "610106",
+    "name": "SULUNG"
+  },
+  {
+    "id": "6101062002",
+    "district_id": "610106",
+    "name": "PENAKALAN"
+  },
+  {
+    "id": "6101062003",
+    "district_id": "610106",
+    "name": "SEKUDUK"
+  },
+  {
+    "id": "6101062004",
+    "district_id": "610106",
+    "name": "SETALIK"
+  },
+  {
+    "id": "6101062005",
+    "district_id": "610106",
+    "name": "PARIT RAJA"
+  },
+  {
+    "id": "6101062006",
+    "district_id": "610106",
+    "name": "PIANTUS"
+  },
+  {
+    "id": "6101062007",
+    "district_id": "610106",
+    "name": "PERIGI LANDU"
+  },
+  {
+    "id": "6101062008",
+    "district_id": "610106",
+    "name": "SENDOYAN"
+  },
+  {
+    "id": "6101062009",
+    "district_id": "610106",
+    "name": "SENUJUH"
+  },
+  {
+    "id": "6101062010",
+    "district_id": "610106",
+    "name": "PERIGI LIMUS"
+  },
+  {
+    "id": "6101062011",
+    "district_id": "610106",
+    "name": "SEMANGA"
+  },
+  {
+    "id": "6101062012",
+    "district_id": "610106",
+    "name": "SEPANTAI"
+  }
+]

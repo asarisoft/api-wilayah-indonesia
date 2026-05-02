@@ -1,1 +1,52 @@
-[{"id": "1806272001", "district_id": "180627", "name": "SUKAMARA"}, {"id": "1806272002", "district_id": "180627", "name": "SUKANEGARA"}, {"id": "1806272003", "district_id": "180627", "name": "BANJARMASIN"}, {"id": "1806272004", "district_id": "180627", "name": "SUKA AGUNG BARAT"}, {"id": "1806272005", "district_id": "180627", "name": "SUKA AGUNG"}, {"id": "1806272006", "district_id": "180627", "name": "GUNUNG TERANG"}, {"id": "1806272007", "district_id": "180627", "name": "NAPAL"}, {"id": "1806272008", "district_id": "180627", "name": "SINAR PETIR"}, {"id": "1806272009", "district_id": "180627", "name": "PEMATANG NEBAK"}, {"id": "1806272010", "district_id": "180627", "name": "TANJUNG SARI"}]
+[
+  {
+    "id": "1806272001",
+    "district_id": "180627",
+    "name": "SUKAMARA"
+  },
+  {
+    "id": "1806272002",
+    "district_id": "180627",
+    "name": "SUKANEGARA"
+  },
+  {
+    "id": "1806272003",
+    "district_id": "180627",
+    "name": "BANJARMASIN"
+  },
+  {
+    "id": "1806272004",
+    "district_id": "180627",
+    "name": "SUKA AGUNG BARAT"
+  },
+  {
+    "id": "1806272005",
+    "district_id": "180627",
+    "name": "SUKA AGUNG"
+  },
+  {
+    "id": "1806272006",
+    "district_id": "180627",
+    "name": "GUNUNG TERANG"
+  },
+  {
+    "id": "1806272007",
+    "district_id": "180627",
+    "name": "NAPAL"
+  },
+  {
+    "id": "1806272008",
+    "district_id": "180627",
+    "name": "SINAR PETIR"
+  },
+  {
+    "id": "1806272009",
+    "district_id": "180627",
+    "name": "PEMATANG NEBAK"
+  },
+  {
+    "id": "1806272010",
+    "district_id": "180627",
+    "name": "TANJUNG SARI"
+  }
+]

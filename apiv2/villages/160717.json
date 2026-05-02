@@ -1,1 +1,57 @@
-[{"id": "1607172001", "district_id": "160717", "name": "MAINAN"}, {"id": "1607172002", "district_id": "160717", "name": "SANTAN SARI"}, {"id": "1607172003", "district_id": "160717", "name": "LIMAU"}, {"id": "1607172004", "district_id": "160717", "name": "REJODADI"}, {"id": "1607172005", "district_id": "160717", "name": "LALANG SEMBAWA"}, {"id": "1607172006", "district_id": "160717", "name": "MUARA DAMAI"}, {"id": "1607172007", "district_id": "160717", "name": "PULAU HARAPAN"}, {"id": "1607172008", "district_id": "160717", "name": "PURWOSARI"}, {"id": "1607172009", "district_id": "160717", "name": "LIMBANG MULIA"}, {"id": "1607172010", "district_id": "160717", "name": "SAKO MAKMUR"}, {"id": "1607172011", "district_id": "160717", "name": "PULAU MUNING"}]
+[
+  {
+    "id": "1607172001",
+    "district_id": "160717",
+    "name": "MAINAN"
+  },
+  {
+    "id": "1607172002",
+    "district_id": "160717",
+    "name": "SANTAN SARI"
+  },
+  {
+    "id": "1607172003",
+    "district_id": "160717",
+    "name": "LIMAU"
+  },
+  {
+    "id": "1607172004",
+    "district_id": "160717",
+    "name": "REJODADI"
+  },
+  {
+    "id": "1607172005",
+    "district_id": "160717",
+    "name": "LALANG SEMBAWA"
+  },
+  {
+    "id": "1607172006",
+    "district_id": "160717",
+    "name": "MUARA DAMAI"
+  },
+  {
+    "id": "1607172007",
+    "district_id": "160717",
+    "name": "PULAU HARAPAN"
+  },
+  {
+    "id": "1607172008",
+    "district_id": "160717",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "1607172009",
+    "district_id": "160717",
+    "name": "LIMBANG MULIA"
+  },
+  {
+    "id": "1607172010",
+    "district_id": "160717",
+    "name": "SAKO MAKMUR"
+  },
+  {
+    "id": "1607172011",
+    "district_id": "160717",
+    "name": "PULAU MUNING"
+  }
+]

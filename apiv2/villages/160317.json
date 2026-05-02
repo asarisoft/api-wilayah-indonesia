@@ -1,1 +1,52 @@
-[{"id": "1603172007", "district_id": "160317", "name": "PETANANG"}, {"id": "1603172008", "district_id": "160317", "name": "TALANG NANGKA"}, {"id": "1603172009", "district_id": "160317", "name": "ALAI"}, {"id": "1603172010", "district_id": "160317", "name": "SUNGAI DUREN"}, {"id": "1603172011", "district_id": "160317", "name": "TAPUS"}, {"id": "1603172012", "district_id": "160317", "name": "LEMBAK"}, {"id": "1603172013", "district_id": "160317", "name": "KEMANG"}, {"id": "1603172014", "district_id": "160317", "name": "LUBUK ENAU"}, {"id": "1603172015", "district_id": "160317", "name": "ALAI SELATAN"}, {"id": "1603172019", "district_id": "160317", "name": "TANJUNG BARU"}]
+[
+  {
+    "id": "1603172007",
+    "district_id": "160317",
+    "name": "PETANANG"
+  },
+  {
+    "id": "1603172008",
+    "district_id": "160317",
+    "name": "TALANG NANGKA"
+  },
+  {
+    "id": "1603172009",
+    "district_id": "160317",
+    "name": "ALAI"
+  },
+  {
+    "id": "1603172010",
+    "district_id": "160317",
+    "name": "SUNGAI DUREN"
+  },
+  {
+    "id": "1603172011",
+    "district_id": "160317",
+    "name": "TAPUS"
+  },
+  {
+    "id": "1603172012",
+    "district_id": "160317",
+    "name": "LEMBAK"
+  },
+  {
+    "id": "1603172013",
+    "district_id": "160317",
+    "name": "KEMANG"
+  },
+  {
+    "id": "1603172014",
+    "district_id": "160317",
+    "name": "LUBUK ENAU"
+  },
+  {
+    "id": "1603172015",
+    "district_id": "160317",
+    "name": "ALAI SELATAN"
+  },
+  {
+    "id": "1603172019",
+    "district_id": "160317",
+    "name": "TANJUNG BARU"
+  }
+]

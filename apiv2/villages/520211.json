@@ -1,1 +1,62 @@
-[{"id": "5202112001", "district_id": "520211", "name": "MONTONG SAPAH"}, {"id": "5202112002", "district_id": "520211", "name": "UNGGA"}, {"id": "5202112003", "district_id": "520211", "name": "KABUL"}, {"id": "5202112004", "district_id": "520211", "name": "PELAMBIK"}, {"id": "5202112005", "district_id": "520211", "name": "DAREK"}, {"id": "5202112006", "district_id": "520211", "name": "RANGGAGATA"}, {"id": "5202112007", "district_id": "520211", "name": "PANDAN INDAH"}, {"id": "5202112008", "district_id": "520211", "name": "SERAGE"}, {"id": "5202112009", "district_id": "520211", "name": "MONTONG AJAN"}, {"id": "5202112010", "district_id": "520211", "name": "BATU JANGKIH"}, {"id": "5202112011", "district_id": "520211", "name": "TEDUH"}, {"id": "5202112012", "district_id": "520211", "name": "PANDAN TINGGANG"}]
+[
+  {
+    "id": "5202112001",
+    "district_id": "520211",
+    "name": "MONTONG SAPAH"
+  },
+  {
+    "id": "5202112002",
+    "district_id": "520211",
+    "name": "UNGGA"
+  },
+  {
+    "id": "5202112003",
+    "district_id": "520211",
+    "name": "KABUL"
+  },
+  {
+    "id": "5202112004",
+    "district_id": "520211",
+    "name": "PELAMBIK"
+  },
+  {
+    "id": "5202112005",
+    "district_id": "520211",
+    "name": "DAREK"
+  },
+  {
+    "id": "5202112006",
+    "district_id": "520211",
+    "name": "RANGGAGATA"
+  },
+  {
+    "id": "5202112007",
+    "district_id": "520211",
+    "name": "PANDAN INDAH"
+  },
+  {
+    "id": "5202112008",
+    "district_id": "520211",
+    "name": "SERAGE"
+  },
+  {
+    "id": "5202112009",
+    "district_id": "520211",
+    "name": "MONTONG AJAN"
+  },
+  {
+    "id": "5202112010",
+    "district_id": "520211",
+    "name": "BATU JANGKIH"
+  },
+  {
+    "id": "5202112011",
+    "district_id": "520211",
+    "name": "TEDUH"
+  },
+  {
+    "id": "5202112012",
+    "district_id": "520211",
+    "name": "PANDAN TINGGANG"
+  }
+]

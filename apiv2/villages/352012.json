@@ -1,1 +1,72 @@
-[{"id": "3520121005", "district_id": "352012", "name": "MANGGE"}, {"id": "3520121006", "district_id": "352012", "name": "TEBON"}, {"id": "3520122001", "district_id": "352012", "name": "BOGOREJO"}, {"id": "3520122002", "district_id": "352012", "name": "BANJAREJO"}, {"id": "3520122003", "district_id": "352012", "name": "KARANGSONO"}, {"id": "3520122004", "district_id": "352012", "name": "PURWODADI"}, {"id": "3520122007", "district_id": "352012", "name": "MANJUNG"}, {"id": "3520122008", "district_id": "352012", "name": "NGUMPUL"}, {"id": "3520122009", "district_id": "352012", "name": "PANGGUNG"}, {"id": "3520122010", "district_id": "352012", "name": "BLARAN"}, {"id": "3520122011", "district_id": "352012", "name": "JONGGRANG"}, {"id": "3520122012", "district_id": "352012", "name": "REJOMULYO"}, {"id": "3520122013", "district_id": "352012", "name": "BANGUNASRI"}, {"id": "3520122014", "district_id": "352012", "name": "KLAGEN"}]
+[
+  {
+    "id": "3520121005",
+    "district_id": "352012",
+    "name": "MANGGE"
+  },
+  {
+    "id": "3520121006",
+    "district_id": "352012",
+    "name": "TEBON"
+  },
+  {
+    "id": "3520122001",
+    "district_id": "352012",
+    "name": "BOGOREJO"
+  },
+  {
+    "id": "3520122002",
+    "district_id": "352012",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "3520122003",
+    "district_id": "352012",
+    "name": "KARANGSONO"
+  },
+  {
+    "id": "3520122004",
+    "district_id": "352012",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "3520122007",
+    "district_id": "352012",
+    "name": "MANJUNG"
+  },
+  {
+    "id": "3520122008",
+    "district_id": "352012",
+    "name": "NGUMPUL"
+  },
+  {
+    "id": "3520122009",
+    "district_id": "352012",
+    "name": "PANGGUNG"
+  },
+  {
+    "id": "3520122010",
+    "district_id": "352012",
+    "name": "BLARAN"
+  },
+  {
+    "id": "3520122011",
+    "district_id": "352012",
+    "name": "JONGGRANG"
+  },
+  {
+    "id": "3520122012",
+    "district_id": "352012",
+    "name": "REJOMULYO"
+  },
+  {
+    "id": "3520122013",
+    "district_id": "352012",
+    "name": "BANGUNASRI"
+  },
+  {
+    "id": "3520122014",
+    "district_id": "352012",
+    "name": "KLAGEN"
+  }
+]

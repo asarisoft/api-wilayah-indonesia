@@ -1,1 +1,52 @@
-[{"id": "317401", "regency_id": "3174", "name": "TEBET"}, {"id": "317402", "regency_id": "3174", "name": "SETIABUDI"}, {"id": "317403", "regency_id": "3174", "name": "MAMPANG PRAPATAN"}, {"id": "317404", "regency_id": "3174", "name": "PASAR MINGGU"}, {"id": "317405", "regency_id": "3174", "name": "KEBAYORAN LAMA"}, {"id": "317406", "regency_id": "3174", "name": "CILANDAK"}, {"id": "317407", "regency_id": "3174", "name": "KEBAYORAN BARU"}, {"id": "317408", "regency_id": "3174", "name": "PANCORAN"}, {"id": "317409", "regency_id": "3174", "name": "JAGAKARSA"}, {"id": "317410", "regency_id": "3174", "name": "PESANGGRAHAN"}]
+[
+  {
+    "id": "317401",
+    "regency_id": "3174",
+    "name": "TEBET"
+  },
+  {
+    "id": "317402",
+    "regency_id": "3174",
+    "name": "SETIABUDI"
+  },
+  {
+    "id": "317403",
+    "regency_id": "3174",
+    "name": "MAMPANG PRAPATAN"
+  },
+  {
+    "id": "317404",
+    "regency_id": "3174",
+    "name": "PASAR MINGGU"
+  },
+  {
+    "id": "317405",
+    "regency_id": "3174",
+    "name": "KEBAYORAN LAMA"
+  },
+  {
+    "id": "317406",
+    "regency_id": "3174",
+    "name": "CILANDAK"
+  },
+  {
+    "id": "317407",
+    "regency_id": "3174",
+    "name": "KEBAYORAN BARU"
+  },
+  {
+    "id": "317408",
+    "regency_id": "3174",
+    "name": "PANCORAN"
+  },
+  {
+    "id": "317409",
+    "regency_id": "3174",
+    "name": "JAGAKARSA"
+  },
+  {
+    "id": "317410",
+    "regency_id": "3174",
+    "name": "PESANGGRAHAN"
+  }
+]

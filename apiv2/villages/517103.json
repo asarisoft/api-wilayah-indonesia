@@ -1,1 +1,57 @@
-[{"id": "5171031005", "district_id": "517103", "name": "DAUH PURI"}, {"id": "5171031007", "district_id": "517103", "name": "PEMECUTAN"}, {"id": "5171031010", "district_id": "517103", "name": "PADANGSAMBIAN"}, {"id": "5171032001", "district_id": "517103", "name": "PADANGSAMBIAN KELOD"}, {"id": "5171032002", "district_id": "517103", "name": "PEMECUTAN KELOD"}, {"id": "5171032003", "district_id": "517103", "name": "DAUH PURI KAUH"}, {"id": "5171032004", "district_id": "517103", "name": "DAUH PURI KELOD"}, {"id": "5171032006", "district_id": "517103", "name": "DAUH PURI KANGIN"}, {"id": "5171032008", "district_id": "517103", "name": "TEGAL HARUM"}, {"id": "5171032009", "district_id": "517103", "name": "TEGAL KERTHA"}, {"id": "5171032011", "district_id": "517103", "name": "PADANG SAMBIAN KAJA"}]
+[
+  {
+    "id": "5171031005",
+    "district_id": "517103",
+    "name": "DAUH PURI"
+  },
+  {
+    "id": "5171031007",
+    "district_id": "517103",
+    "name": "PEMECUTAN"
+  },
+  {
+    "id": "5171031010",
+    "district_id": "517103",
+    "name": "PADANGSAMBIAN"
+  },
+  {
+    "id": "5171032001",
+    "district_id": "517103",
+    "name": "PADANGSAMBIAN KELOD"
+  },
+  {
+    "id": "5171032002",
+    "district_id": "517103",
+    "name": "PEMECUTAN KELOD"
+  },
+  {
+    "id": "5171032003",
+    "district_id": "517103",
+    "name": "DAUH PURI KAUH"
+  },
+  {
+    "id": "5171032004",
+    "district_id": "517103",
+    "name": "DAUH PURI KELOD"
+  },
+  {
+    "id": "5171032006",
+    "district_id": "517103",
+    "name": "DAUH PURI KANGIN"
+  },
+  {
+    "id": "5171032008",
+    "district_id": "517103",
+    "name": "TEGAL HARUM"
+  },
+  {
+    "id": "5171032009",
+    "district_id": "517103",
+    "name": "TEGAL KERTHA"
+  },
+  {
+    "id": "5171032011",
+    "district_id": "517103",
+    "name": "PADANG SAMBIAN KAJA"
+  }
+]

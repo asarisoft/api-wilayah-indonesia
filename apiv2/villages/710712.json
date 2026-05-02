@@ -1,1 +1,52 @@
-[{"id": "7107122001", "district_id": "710712", "name": "WIOI"}, {"id": "7107122002", "district_id": "710712", "name": "WIOI SATU"}, {"id": "7107122003", "district_id": "710712", "name": "WIOI DUA"}, {"id": "7107122004", "district_id": "710712", "name": "WIOI TIGA"}, {"id": "7107122005", "district_id": "710712", "name": "WIOI TIMUR"}, {"id": "7107122006", "district_id": "710712", "name": "PANGU"}, {"id": "7107122007", "district_id": "710712", "name": "PANGU SATU"}, {"id": "7107122008", "district_id": "710712", "name": "PANGU DUA"}, {"id": "7107122009", "district_id": "710712", "name": "WONGKAI"}, {"id": "7107122010", "district_id": "710712", "name": "WONGKAI SATU"}]
+[
+  {
+    "id": "7107122001",
+    "district_id": "710712",
+    "name": "WIOI"
+  },
+  {
+    "id": "7107122002",
+    "district_id": "710712",
+    "name": "WIOI SATU"
+  },
+  {
+    "id": "7107122003",
+    "district_id": "710712",
+    "name": "WIOI DUA"
+  },
+  {
+    "id": "7107122004",
+    "district_id": "710712",
+    "name": "WIOI TIGA"
+  },
+  {
+    "id": "7107122005",
+    "district_id": "710712",
+    "name": "WIOI TIMUR"
+  },
+  {
+    "id": "7107122006",
+    "district_id": "710712",
+    "name": "PANGU"
+  },
+  {
+    "id": "7107122007",
+    "district_id": "710712",
+    "name": "PANGU SATU"
+  },
+  {
+    "id": "7107122008",
+    "district_id": "710712",
+    "name": "PANGU DUA"
+  },
+  {
+    "id": "7107122009",
+    "district_id": "710712",
+    "name": "WONGKAI"
+  },
+  {
+    "id": "7107122010",
+    "district_id": "710712",
+    "name": "WONGKAI SATU"
+  }
+]

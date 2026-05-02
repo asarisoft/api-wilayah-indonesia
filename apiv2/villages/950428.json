@@ -1,1 +1,42 @@
-[{"id": "9504282001", "district_id": "950428", "name": "ONGGOKME"}, {"id": "9504282002", "district_id": "950428", "name": "KUBUR"}, {"id": "9504282003", "district_id": "950428", "name": "WEU"}, {"id": "9504282004", "district_id": "950428", "name": "LIWESE"}, {"id": "9504282005", "district_id": "950428", "name": "WENDURI"}, {"id": "9504282006", "district_id": "950428", "name": "TABO WANIMBO"}, {"id": "9504282007", "district_id": "950428", "name": "LENGGUP"}, {"id": "9504282008", "district_id": "950428", "name": "TINGER"}]
+[
+  {
+    "id": "9504282001",
+    "district_id": "950428",
+    "name": "ONGGOKME"
+  },
+  {
+    "id": "9504282002",
+    "district_id": "950428",
+    "name": "KUBUR"
+  },
+  {
+    "id": "9504282003",
+    "district_id": "950428",
+    "name": "WEU"
+  },
+  {
+    "id": "9504282004",
+    "district_id": "950428",
+    "name": "LIWESE"
+  },
+  {
+    "id": "9504282005",
+    "district_id": "950428",
+    "name": "WENDURI"
+  },
+  {
+    "id": "9504282006",
+    "district_id": "950428",
+    "name": "TABO WANIMBO"
+  },
+  {
+    "id": "9504282007",
+    "district_id": "950428",
+    "name": "LENGGUP"
+  },
+  {
+    "id": "9504282008",
+    "district_id": "950428",
+    "name": "TINGER"
+  }
+]

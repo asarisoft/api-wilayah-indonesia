@@ -1,1 +1,62 @@
-[{"id": "5104012001", "district_id": "510401", "name": "BATUBULAN"}, {"id": "5104012002", "district_id": "510401", "name": "KETEWEL"}, {"id": "5104012003", "district_id": "510401", "name": "GUWANG"}, {"id": "5104012004", "district_id": "510401", "name": "SUKAWATI"}, {"id": "5104012005", "district_id": "510401", "name": "CELUK"}, {"id": "5104012006", "district_id": "510401", "name": "SINGAPADU"}, {"id": "5104012007", "district_id": "510401", "name": "BATUAN"}, {"id": "5104012008", "district_id": "510401", "name": "KEMENUH"}, {"id": "5104012009", "district_id": "510401", "name": "BATUBULAN KANGIN"}, {"id": "5104012010", "district_id": "510401", "name": "SINGAPADU TENGAH"}, {"id": "5104012011", "district_id": "510401", "name": "SINGAPADU KALER"}, {"id": "5104012012", "district_id": "510401", "name": "BATUAN KALER"}]
+[
+  {
+    "id": "5104012001",
+    "district_id": "510401",
+    "name": "BATUBULAN"
+  },
+  {
+    "id": "5104012002",
+    "district_id": "510401",
+    "name": "KETEWEL"
+  },
+  {
+    "id": "5104012003",
+    "district_id": "510401",
+    "name": "GUWANG"
+  },
+  {
+    "id": "5104012004",
+    "district_id": "510401",
+    "name": "SUKAWATI"
+  },
+  {
+    "id": "5104012005",
+    "district_id": "510401",
+    "name": "CELUK"
+  },
+  {
+    "id": "5104012006",
+    "district_id": "510401",
+    "name": "SINGAPADU"
+  },
+  {
+    "id": "5104012007",
+    "district_id": "510401",
+    "name": "BATUAN"
+  },
+  {
+    "id": "5104012008",
+    "district_id": "510401",
+    "name": "KEMENUH"
+  },
+  {
+    "id": "5104012009",
+    "district_id": "510401",
+    "name": "BATUBULAN KANGIN"
+  },
+  {
+    "id": "5104012010",
+    "district_id": "510401",
+    "name": "SINGAPADU TENGAH"
+  },
+  {
+    "id": "5104012011",
+    "district_id": "510401",
+    "name": "SINGAPADU KALER"
+  },
+  {
+    "id": "5104012012",
+    "district_id": "510401",
+    "name": "BATUAN KALER"
+  }
+]

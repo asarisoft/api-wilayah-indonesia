@@ -1,1 +1,37 @@
-[{"id": "6208052001", "district_id": "620805", "name": "KENAWAN"}, {"id": "6208052002", "district_id": "620805", "name": "LAMAN BARU"}, {"id": "6208052003", "district_id": "620805", "name": "AJANG"}, {"id": "6208052004", "district_id": "620805", "name": "SEMANTUN"}, {"id": "6208052005", "district_id": "620805", "name": "NIBUNG TERJUN"}, {"id": "6208052006", "district_id": "620805", "name": "NATAI KONDANG"}, {"id": "6208052007", "district_id": "620805", "name": "SEMBIKUAN"}]
+[
+  {
+    "id": "6208052001",
+    "district_id": "620805",
+    "name": "KENAWAN"
+  },
+  {
+    "id": "6208052002",
+    "district_id": "620805",
+    "name": "LAMAN BARU"
+  },
+  {
+    "id": "6208052003",
+    "district_id": "620805",
+    "name": "AJANG"
+  },
+  {
+    "id": "6208052004",
+    "district_id": "620805",
+    "name": "SEMANTUN"
+  },
+  {
+    "id": "6208052005",
+    "district_id": "620805",
+    "name": "NIBUNG TERJUN"
+  },
+  {
+    "id": "6208052006",
+    "district_id": "620805",
+    "name": "NATAI KONDANG"
+  },
+  {
+    "id": "6208052007",
+    "district_id": "620805",
+    "name": "SEMBIKUAN"
+  }
+]

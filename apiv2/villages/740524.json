@@ -1,1 +1,47 @@
-[{"id": "7405242001", "district_id": "740524", "name": "SABULAKOA"}, {"id": "7405242002", "district_id": "740524", "name": "TALUMBINGA"}, {"id": "7405242003", "district_id": "740524", "name": "TETENGGABO"}, {"id": "7405242004", "district_id": "740524", "name": "WATU-WATU"}, {"id": "7405242005", "district_id": "740524", "name": "KAROONUA"}, {"id": "7405242006", "district_id": "740524", "name": "ULU SABULAKOA"}, {"id": "7405242007", "district_id": "740524", "name": "ASARIA"}, {"id": "7405242008", "district_id": "740524", "name": "WAWOBENDE"}, {"id": "7405242009", "district_id": "740524", "name": "WONUA KOA"}]
+[
+  {
+    "id": "7405242001",
+    "district_id": "740524",
+    "name": "SABULAKOA"
+  },
+  {
+    "id": "7405242002",
+    "district_id": "740524",
+    "name": "TALUMBINGA"
+  },
+  {
+    "id": "7405242003",
+    "district_id": "740524",
+    "name": "TETENGGABO"
+  },
+  {
+    "id": "7405242004",
+    "district_id": "740524",
+    "name": "WATU-WATU"
+  },
+  {
+    "id": "7405242005",
+    "district_id": "740524",
+    "name": "KAROONUA"
+  },
+  {
+    "id": "7405242006",
+    "district_id": "740524",
+    "name": "ULU SABULAKOA"
+  },
+  {
+    "id": "7405242007",
+    "district_id": "740524",
+    "name": "ASARIA"
+  },
+  {
+    "id": "7405242008",
+    "district_id": "740524",
+    "name": "WAWOBENDE"
+  },
+  {
+    "id": "7405242009",
+    "district_id": "740524",
+    "name": "WONUA KOA"
+  }
+]

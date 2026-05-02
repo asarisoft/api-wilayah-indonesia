@@ -1,1 +1,67 @@
-[{"id": "9507102001", "district_id": "950710", "name": "MEGALUNIK"}, {"id": "9507102002", "district_id": "950710", "name": "LUGOBAK"}, {"id": "9507102003", "district_id": "950710", "name": "KANIKBUKME"}, {"id": "9507102004", "district_id": "950710", "name": "POGA"}, {"id": "9507102005", "district_id": "950710", "name": "BIGIPAGA"}, {"id": "9507102006", "district_id": "950710", "name": "LUNERI"}, {"id": "9507102007", "district_id": "950710", "name": "BINIPAGA"}, {"id": "9507102008", "district_id": "950710", "name": "MUGIME"}, {"id": "9507102009", "district_id": "950710", "name": "BRIGME"}, {"id": "9507102010", "district_id": "950710", "name": "UNIKME"}, {"id": "9507102011", "district_id": "950710", "name": "BINOMPAGA"}, {"id": "9507102012", "district_id": "950710", "name": "LUGWA"}, {"id": "9507102013", "district_id": "950710", "name": "GUANERI"}]
+[
+  {
+    "id": "9507102001",
+    "district_id": "950710",
+    "name": "MEGALUNIK"
+  },
+  {
+    "id": "9507102002",
+    "district_id": "950710",
+    "name": "LUGOBAK"
+  },
+  {
+    "id": "9507102003",
+    "district_id": "950710",
+    "name": "KANIKBUKME"
+  },
+  {
+    "id": "9507102004",
+    "district_id": "950710",
+    "name": "POGA"
+  },
+  {
+    "id": "9507102005",
+    "district_id": "950710",
+    "name": "BIGIPAGA"
+  },
+  {
+    "id": "9507102006",
+    "district_id": "950710",
+    "name": "LUNERI"
+  },
+  {
+    "id": "9507102007",
+    "district_id": "950710",
+    "name": "BINIPAGA"
+  },
+  {
+    "id": "9507102008",
+    "district_id": "950710",
+    "name": "MUGIME"
+  },
+  {
+    "id": "9507102009",
+    "district_id": "950710",
+    "name": "BRIGME"
+  },
+  {
+    "id": "9507102010",
+    "district_id": "950710",
+    "name": "UNIKME"
+  },
+  {
+    "id": "9507102011",
+    "district_id": "950710",
+    "name": "BINOMPAGA"
+  },
+  {
+    "id": "9507102012",
+    "district_id": "950710",
+    "name": "LUGWA"
+  },
+  {
+    "id": "9507102013",
+    "district_id": "950710",
+    "name": "GUANERI"
+  }
+]

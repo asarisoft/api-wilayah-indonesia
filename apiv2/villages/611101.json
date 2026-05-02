@@ -1,1 +1,52 @@
-[{"id": "6111012001", "district_id": "611101", "name": "SUTERA"}, {"id": "6111012002", "district_id": "611101", "name": "PANGKALAN BUTON"}, {"id": "6111012003", "district_id": "611101", "name": "SEJAHTERA"}, {"id": "6111012004", "district_id": "611101", "name": "SIMPANG TIGA"}, {"id": "6111012005", "district_id": "611101", "name": "BENAWAI AGUNG"}, {"id": "6111012006", "district_id": "611101", "name": "HARAPAN MULIA"}, {"id": "6111012007", "district_id": "611101", "name": "PAMPANG HARAPAN"}, {"id": "6111012008", "district_id": "611101", "name": "SEDAHAN JAYA"}, {"id": "6111012009", "district_id": "611101", "name": "GUNUNGSEMBILAN"}, {"id": "6111012010", "district_id": "611101", "name": "RIAM BERASAP JAYA"}]
+[
+  {
+    "id": "6111012001",
+    "district_id": "611101",
+    "name": "SUTERA"
+  },
+  {
+    "id": "6111012002",
+    "district_id": "611101",
+    "name": "PANGKALAN BUTON"
+  },
+  {
+    "id": "6111012003",
+    "district_id": "611101",
+    "name": "SEJAHTERA"
+  },
+  {
+    "id": "6111012004",
+    "district_id": "611101",
+    "name": "SIMPANG TIGA"
+  },
+  {
+    "id": "6111012005",
+    "district_id": "611101",
+    "name": "BENAWAI AGUNG"
+  },
+  {
+    "id": "6111012006",
+    "district_id": "611101",
+    "name": "HARAPAN MULIA"
+  },
+  {
+    "id": "6111012007",
+    "district_id": "611101",
+    "name": "PAMPANG HARAPAN"
+  },
+  {
+    "id": "6111012008",
+    "district_id": "611101",
+    "name": "SEDAHAN JAYA"
+  },
+  {
+    "id": "6111012009",
+    "district_id": "611101",
+    "name": "GUNUNGSEMBILAN"
+  },
+  {
+    "id": "6111012010",
+    "district_id": "611101",
+    "name": "RIAM BERASAP JAYA"
+  }
+]

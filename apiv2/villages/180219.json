@@ -1,1 +1,102 @@
-[{"id": "1802192001", "district_id": "180219", "name": "KOTA BATU"}, {"id": "1802192002", "district_id": "180219", "name": "SANGUN RATU"}, {"id": "1802192003", "district_id": "180219", "name": "GUNUNG RAYA"}, {"id": "1802192004", "district_id": "180219", "name": "GUNUNG HAJI"}, {"id": "1802192005", "district_id": "180219", "name": "NEGERI RATU"}, {"id": "1802192006", "district_id": "180219", "name": "TANJUNG KEMALA"}, {"id": "1802192007", "district_id": "180219", "name": "PAYUNG REJO"}, {"id": "1802192008", "district_id": "180219", "name": "PAYUNG BATU"}, {"id": "1802192009", "district_id": "180219", "name": "NEGERI KEPAYUNGAN"}, {"id": "1802192010", "district_id": "180219", "name": "SEGALA MIDER"}, {"id": "1802192011", "district_id": "180219", "name": "TIAS BANGUN"}, {"id": "1802192012", "district_id": "180219", "name": "RIAU PRIANGAN"}, {"id": "1802192013", "district_id": "180219", "name": "PAYUNG DADI"}, {"id": "1802192014", "district_id": "180219", "name": "PAYUNG MAKMUR"}, {"id": "1802192015", "district_id": "180219", "name": "TANJUNG REJO"}, {"id": "1802192016", "district_id": "180219", "name": "TAWANG NEGERI"}, {"id": "1802192017", "district_id": "180219", "name": "SINAR NEGERI"}, {"id": "1802192018", "district_id": "180219", "name": "PEKANDANGAN"}, {"id": "1802192019", "district_id": "180219", "name": "PAYUNG MULYA"}, {"id": "1802192020", "district_id": "180219", "name": "PADANG REJO"}]
+[
+  {
+    "id": "1802192001",
+    "district_id": "180219",
+    "name": "KOTA BATU"
+  },
+  {
+    "id": "1802192002",
+    "district_id": "180219",
+    "name": "SANGUN RATU"
+  },
+  {
+    "id": "1802192003",
+    "district_id": "180219",
+    "name": "GUNUNG RAYA"
+  },
+  {
+    "id": "1802192004",
+    "district_id": "180219",
+    "name": "GUNUNG HAJI"
+  },
+  {
+    "id": "1802192005",
+    "district_id": "180219",
+    "name": "NEGERI RATU"
+  },
+  {
+    "id": "1802192006",
+    "district_id": "180219",
+    "name": "TANJUNG KEMALA"
+  },
+  {
+    "id": "1802192007",
+    "district_id": "180219",
+    "name": "PAYUNG REJO"
+  },
+  {
+    "id": "1802192008",
+    "district_id": "180219",
+    "name": "PAYUNG BATU"
+  },
+  {
+    "id": "1802192009",
+    "district_id": "180219",
+    "name": "NEGERI KEPAYUNGAN"
+  },
+  {
+    "id": "1802192010",
+    "district_id": "180219",
+    "name": "SEGALA MIDER"
+  },
+  {
+    "id": "1802192011",
+    "district_id": "180219",
+    "name": "TIAS BANGUN"
+  },
+  {
+    "id": "1802192012",
+    "district_id": "180219",
+    "name": "RIAU PRIANGAN"
+  },
+  {
+    "id": "1802192013",
+    "district_id": "180219",
+    "name": "PAYUNG DADI"
+  },
+  {
+    "id": "1802192014",
+    "district_id": "180219",
+    "name": "PAYUNG MAKMUR"
+  },
+  {
+    "id": "1802192015",
+    "district_id": "180219",
+    "name": "TANJUNG REJO"
+  },
+  {
+    "id": "1802192016",
+    "district_id": "180219",
+    "name": "TAWANG NEGERI"
+  },
+  {
+    "id": "1802192017",
+    "district_id": "180219",
+    "name": "SINAR NEGERI"
+  },
+  {
+    "id": "1802192018",
+    "district_id": "180219",
+    "name": "PEKANDANGAN"
+  },
+  {
+    "id": "1802192019",
+    "district_id": "180219",
+    "name": "PAYUNG MULYA"
+  },
+  {
+    "id": "1802192020",
+    "district_id": "180219",
+    "name": "PADANG REJO"
+  }
+]

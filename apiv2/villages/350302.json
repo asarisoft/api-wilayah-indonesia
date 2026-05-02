@@ -1,1 +1,57 @@
-[{"id": "3503022001", "district_id": "350302", "name": "NGULUNGKULON"}, {"id": "3503022002", "district_id": "350302", "name": "SOBO"}, {"id": "3503022003", "district_id": "350302", "name": "NGULUNGWETAN"}, {"id": "3503022004", "district_id": "350302", "name": "CRAKEN"}, {"id": "3503022005", "district_id": "350302", "name": "MASARAN"}, {"id": "3503022006", "district_id": "350302", "name": "TAWING"}, {"id": "3503022007", "district_id": "350302", "name": "KARANGTURI"}, {"id": "3503022008", "district_id": "350302", "name": "MUNJUNGAN"}, {"id": "3503022009", "district_id": "350302", "name": "BESUKI"}, {"id": "3503022010", "district_id": "350302", "name": "BENDOROTO"}, {"id": "3503022011", "district_id": "350302", "name": "BANGUN"}]
+[
+  {
+    "id": "3503022001",
+    "district_id": "350302",
+    "name": "NGULUNGKULON"
+  },
+  {
+    "id": "3503022002",
+    "district_id": "350302",
+    "name": "SOBO"
+  },
+  {
+    "id": "3503022003",
+    "district_id": "350302",
+    "name": "NGULUNGWETAN"
+  },
+  {
+    "id": "3503022004",
+    "district_id": "350302",
+    "name": "CRAKEN"
+  },
+  {
+    "id": "3503022005",
+    "district_id": "350302",
+    "name": "MASARAN"
+  },
+  {
+    "id": "3503022006",
+    "district_id": "350302",
+    "name": "TAWING"
+  },
+  {
+    "id": "3503022007",
+    "district_id": "350302",
+    "name": "KARANGTURI"
+  },
+  {
+    "id": "3503022008",
+    "district_id": "350302",
+    "name": "MUNJUNGAN"
+  },
+  {
+    "id": "3503022009",
+    "district_id": "350302",
+    "name": "BESUKI"
+  },
+  {
+    "id": "3503022010",
+    "district_id": "350302",
+    "name": "BENDOROTO"
+  },
+  {
+    "id": "3503022011",
+    "district_id": "350302",
+    "name": "BANGUN"
+  }
+]

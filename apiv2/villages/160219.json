@@ -1,1 +1,97 @@
-[{"id": "1602192001", "district_id": "160219", "name": "DELING"}, {"id": "1602192002", "district_id": "160219", "name": "PANGKALAN LAMPAN"}, {"id": "1602192003", "district_id": "160219", "name": "LIRIK"}, {"id": "1602192004", "district_id": "160219", "name": "LEBUNG BATANG"}, {"id": "1602192005", "district_id": "160219", "name": "SUNGAI BUNGIN"}, {"id": "1602192006", "district_id": "160219", "name": "SUKARAJA"}, {"id": "1602192007", "district_id": "160219", "name": "DARAT"}, {"id": "1602192008", "district_id": "160219", "name": "PULAUAN"}, {"id": "1602192009", "district_id": "160219", "name": "RIDING"}, {"id": "1602192010", "district_id": "160219", "name": "SUNGGUTAN"}, {"id": "1602192011", "district_id": "160219", "name": "SUKA DAMAI"}, {"id": "1602192012", "district_id": "160219", "name": "AIR PEDARA"}, {"id": "1602192013", "district_id": "160219", "name": "RIMBA SAMAK"}, {"id": "1602192014", "district_id": "160219", "name": "TALANG DAYA"}, {"id": "1602192015", "district_id": "160219", "name": "AIR RUMBAI"}, {"id": "1602192016", "district_id": "160219", "name": "RAMBAI"}, {"id": "1602192017", "district_id": "160219", "name": "PERIGI"}, {"id": "1602192018", "district_id": "160219", "name": "BUKIT BATU"}, {"id": "1602192019", "district_id": "160219", "name": "RAWA TENAM"}]
+[
+  {
+    "id": "1602192001",
+    "district_id": "160219",
+    "name": "DELING"
+  },
+  {
+    "id": "1602192002",
+    "district_id": "160219",
+    "name": "PANGKALAN LAMPAN"
+  },
+  {
+    "id": "1602192003",
+    "district_id": "160219",
+    "name": "LIRIK"
+  },
+  {
+    "id": "1602192004",
+    "district_id": "160219",
+    "name": "LEBUNG BATANG"
+  },
+  {
+    "id": "1602192005",
+    "district_id": "160219",
+    "name": "SUNGAI BUNGIN"
+  },
+  {
+    "id": "1602192006",
+    "district_id": "160219",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "1602192007",
+    "district_id": "160219",
+    "name": "DARAT"
+  },
+  {
+    "id": "1602192008",
+    "district_id": "160219",
+    "name": "PULAUAN"
+  },
+  {
+    "id": "1602192009",
+    "district_id": "160219",
+    "name": "RIDING"
+  },
+  {
+    "id": "1602192010",
+    "district_id": "160219",
+    "name": "SUNGGUTAN"
+  },
+  {
+    "id": "1602192011",
+    "district_id": "160219",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "1602192012",
+    "district_id": "160219",
+    "name": "AIR PEDARA"
+  },
+  {
+    "id": "1602192013",
+    "district_id": "160219",
+    "name": "RIMBA SAMAK"
+  },
+  {
+    "id": "1602192014",
+    "district_id": "160219",
+    "name": "TALANG DAYA"
+  },
+  {
+    "id": "1602192015",
+    "district_id": "160219",
+    "name": "AIR RUMBAI"
+  },
+  {
+    "id": "1602192016",
+    "district_id": "160219",
+    "name": "RAMBAI"
+  },
+  {
+    "id": "1602192017",
+    "district_id": "160219",
+    "name": "PERIGI"
+  },
+  {
+    "id": "1602192018",
+    "district_id": "160219",
+    "name": "BUKIT BATU"
+  },
+  {
+    "id": "1602192019",
+    "district_id": "160219",
+    "name": "RAWA TENAM"
+  }
+]

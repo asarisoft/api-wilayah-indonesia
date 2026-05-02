@@ -1,1 +1,62 @@
-[{"id": "3522232001", "district_id": "352223", "name": "BANJARSARI"}, {"id": "3522232002", "district_id": "352223", "name": "TULUNGREJO"}, {"id": "3522232003", "district_id": "352223", "name": "TRUCUK"}, {"id": "3522232004", "district_id": "352223", "name": "MORI"}, {"id": "3522232005", "district_id": "352223", "name": "PADANG"}, {"id": "3522232006", "district_id": "352223", "name": "SUMBEREJO"}, {"id": "3522232007", "district_id": "352223", "name": "GUYANGAN"}, {"id": "3522232008", "district_id": "352223", "name": "SRANAK"}, {"id": "3522232009", "district_id": "352223", "name": "SUMBANGTIMUN"}, {"id": "3522232010", "district_id": "352223", "name": "KANTEN"}, {"id": "3522232011", "district_id": "352223", "name": "KANDANGAN"}, {"id": "3522232012", "district_id": "352223", "name": "PAGERWESI"}]
+[
+  {
+    "id": "3522232001",
+    "district_id": "352223",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3522232002",
+    "district_id": "352223",
+    "name": "TULUNGREJO"
+  },
+  {
+    "id": "3522232003",
+    "district_id": "352223",
+    "name": "TRUCUK"
+  },
+  {
+    "id": "3522232004",
+    "district_id": "352223",
+    "name": "MORI"
+  },
+  {
+    "id": "3522232005",
+    "district_id": "352223",
+    "name": "PADANG"
+  },
+  {
+    "id": "3522232006",
+    "district_id": "352223",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3522232007",
+    "district_id": "352223",
+    "name": "GUYANGAN"
+  },
+  {
+    "id": "3522232008",
+    "district_id": "352223",
+    "name": "SRANAK"
+  },
+  {
+    "id": "3522232009",
+    "district_id": "352223",
+    "name": "SUMBANGTIMUN"
+  },
+  {
+    "id": "3522232010",
+    "district_id": "352223",
+    "name": "KANTEN"
+  },
+  {
+    "id": "3522232011",
+    "district_id": "352223",
+    "name": "KANDANGAN"
+  },
+  {
+    "id": "3522232012",
+    "district_id": "352223",
+    "name": "PAGERWESI"
+  }
+]

@@ -1,1 +1,92 @@
-[{"id": "3329022001", "district_id": "332902", "name": "BANGBAYANG"}, {"id": "3329022002", "district_id": "332902", "name": "BANJARSARI"}, {"id": "3329022003", "district_id": "332902", "name": "BANTARKAWUNG"}, {"id": "3329022004", "district_id": "332902", "name": "BANTARWARU"}, {"id": "3329022005", "district_id": "332902", "name": "CIBENTANG"}, {"id": "3329022006", "district_id": "332902", "name": "CINANAS"}, {"id": "3329022007", "district_id": "332902", "name": "CIOMAS"}, {"id": "3329022008", "district_id": "332902", "name": "JIPANG"}, {"id": "3329022009", "district_id": "332902", "name": "KARANGPARI"}, {"id": "3329022010", "district_id": "332902", "name": "KEBANDUNGAN"}, {"id": "3329022011", "district_id": "332902", "name": "LEGOK"}, {"id": "3329022012", "district_id": "332902", "name": "PANGEBATAN"}, {"id": "3329022013", "district_id": "332902", "name": "PENGARASAN"}, {"id": "3329022014", "district_id": "332902", "name": "SINDANGWANGI"}, {"id": "3329022015", "district_id": "332902", "name": "TAMBAKSERANG"}, {"id": "3329022016", "district_id": "332902", "name": "TERLAYA"}, {"id": "3329022017", "district_id": "332902", "name": "TELAGA"}, {"id": "3329022018", "district_id": "332902", "name": "WARU"}]
+[
+  {
+    "id": "3329022001",
+    "district_id": "332902",
+    "name": "BANGBAYANG"
+  },
+  {
+    "id": "3329022002",
+    "district_id": "332902",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3329022003",
+    "district_id": "332902",
+    "name": "BANTARKAWUNG"
+  },
+  {
+    "id": "3329022004",
+    "district_id": "332902",
+    "name": "BANTARWARU"
+  },
+  {
+    "id": "3329022005",
+    "district_id": "332902",
+    "name": "CIBENTANG"
+  },
+  {
+    "id": "3329022006",
+    "district_id": "332902",
+    "name": "CINANAS"
+  },
+  {
+    "id": "3329022007",
+    "district_id": "332902",
+    "name": "CIOMAS"
+  },
+  {
+    "id": "3329022008",
+    "district_id": "332902",
+    "name": "JIPANG"
+  },
+  {
+    "id": "3329022009",
+    "district_id": "332902",
+    "name": "KARANGPARI"
+  },
+  {
+    "id": "3329022010",
+    "district_id": "332902",
+    "name": "KEBANDUNGAN"
+  },
+  {
+    "id": "3329022011",
+    "district_id": "332902",
+    "name": "LEGOK"
+  },
+  {
+    "id": "3329022012",
+    "district_id": "332902",
+    "name": "PANGEBATAN"
+  },
+  {
+    "id": "3329022013",
+    "district_id": "332902",
+    "name": "PENGARASAN"
+  },
+  {
+    "id": "3329022014",
+    "district_id": "332902",
+    "name": "SINDANGWANGI"
+  },
+  {
+    "id": "3329022015",
+    "district_id": "332902",
+    "name": "TAMBAKSERANG"
+  },
+  {
+    "id": "3329022016",
+    "district_id": "332902",
+    "name": "TERLAYA"
+  },
+  {
+    "id": "3329022017",
+    "district_id": "332902",
+    "name": "TELAGA"
+  },
+  {
+    "id": "3329022018",
+    "district_id": "332902",
+    "name": "WARU"
+  }
+]

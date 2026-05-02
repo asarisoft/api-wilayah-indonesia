@@ -1,1 +1,22 @@
-[{"id": "9302152001", "district_id": "930215", "name": "SUBUR"}, {"id": "9302152002", "district_id": "930215", "name": "KAISA"}, {"id": "9302152003", "district_id": "930215", "name": "WAGAI"}, {"id": "9302152004", "district_id": "930215", "name": "AIWAT"}]
+[
+  {
+    "id": "9302152001",
+    "district_id": "930215",
+    "name": "SUBUR"
+  },
+  {
+    "id": "9302152002",
+    "district_id": "930215",
+    "name": "KAISA"
+  },
+  {
+    "id": "9302152003",
+    "district_id": "930215",
+    "name": "WAGAI"
+  },
+  {
+    "id": "9302152004",
+    "district_id": "930215",
+    "name": "AIWAT"
+  }
+]

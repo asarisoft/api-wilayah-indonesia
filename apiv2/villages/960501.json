@@ -1,1 +1,117 @@
-[{"id": "9605012001", "district_id": "960501", "name": "KUMURKEK"}, {"id": "9605012002", "district_id": "960501", "name": "SUSUMUK"}, {"id": "9605012003", "district_id": "960501", "name": "KOKAS"}, {"id": "9605012004", "district_id": "960501", "name": "KOCUAS"}, {"id": "9605012005", "district_id": "960501", "name": "KOCUWER"}, {"id": "9605012006", "district_id": "960501", "name": "BORI"}, {"id": "9605012007", "district_id": "960501", "name": "WERJAYA"}, {"id": "9605012008", "district_id": "960501", "name": "TEHAHITE"}, {"id": "9605012009", "district_id": "960501", "name": "FAITMAYAF"}, {"id": "9605012010", "district_id": "960501", "name": "AISYO"}, {"id": "9605012011", "district_id": "960501", "name": "FUTON"}, {"id": "9605012012", "district_id": "960501", "name": "SAMPIKA"}, {"id": "9605012013", "district_id": "960501", "name": "MARTAIM"}, {"id": "9605012014", "district_id": "960501", "name": "FRAWEBO"}, {"id": "9605012015", "district_id": "960501", "name": "FAITSAWE"}, {"id": "9605012016", "district_id": "960501", "name": "KOCUWER SELATAN"}, {"id": "9605012017", "district_id": "960501", "name": "FAITMAYAF BARAT"}, {"id": "9605012018", "district_id": "960501", "name": "SIKOF"}, {"id": "9605012019", "district_id": "960501", "name": "BORI TIMUR"}, {"id": "9605012020", "district_id": "960501", "name": "KUMURKEK BARAT"}, {"id": "9605012021", "district_id": "960501", "name": "AINOD"}, {"id": "9605012022", "district_id": "960501", "name": "KOCUAS UTARA"}, {"id": "9605012023", "district_id": "960501", "name": "SUNEI"}]
+[
+  {
+    "id": "9605012001",
+    "district_id": "960501",
+    "name": "KUMURKEK"
+  },
+  {
+    "id": "9605012002",
+    "district_id": "960501",
+    "name": "SUSUMUK"
+  },
+  {
+    "id": "9605012003",
+    "district_id": "960501",
+    "name": "KOKAS"
+  },
+  {
+    "id": "9605012004",
+    "district_id": "960501",
+    "name": "KOCUAS"
+  },
+  {
+    "id": "9605012005",
+    "district_id": "960501",
+    "name": "KOCUWER"
+  },
+  {
+    "id": "9605012006",
+    "district_id": "960501",
+    "name": "BORI"
+  },
+  {
+    "id": "9605012007",
+    "district_id": "960501",
+    "name": "WERJAYA"
+  },
+  {
+    "id": "9605012008",
+    "district_id": "960501",
+    "name": "TEHAHITE"
+  },
+  {
+    "id": "9605012009",
+    "district_id": "960501",
+    "name": "FAITMAYAF"
+  },
+  {
+    "id": "9605012010",
+    "district_id": "960501",
+    "name": "AISYO"
+  },
+  {
+    "id": "9605012011",
+    "district_id": "960501",
+    "name": "FUTON"
+  },
+  {
+    "id": "9605012012",
+    "district_id": "960501",
+    "name": "SAMPIKA"
+  },
+  {
+    "id": "9605012013",
+    "district_id": "960501",
+    "name": "MARTAIM"
+  },
+  {
+    "id": "9605012014",
+    "district_id": "960501",
+    "name": "FRAWEBO"
+  },
+  {
+    "id": "9605012015",
+    "district_id": "960501",
+    "name": "FAITSAWE"
+  },
+  {
+    "id": "9605012016",
+    "district_id": "960501",
+    "name": "KOCUWER SELATAN"
+  },
+  {
+    "id": "9605012017",
+    "district_id": "960501",
+    "name": "FAITMAYAF BARAT"
+  },
+  {
+    "id": "9605012018",
+    "district_id": "960501",
+    "name": "SIKOF"
+  },
+  {
+    "id": "9605012019",
+    "district_id": "960501",
+    "name": "BORI TIMUR"
+  },
+  {
+    "id": "9605012020",
+    "district_id": "960501",
+    "name": "KUMURKEK BARAT"
+  },
+  {
+    "id": "9605012021",
+    "district_id": "960501",
+    "name": "AINOD"
+  },
+  {
+    "id": "9605012022",
+    "district_id": "960501",
+    "name": "KOCUAS UTARA"
+  },
+  {
+    "id": "9605012023",
+    "district_id": "960501",
+    "name": "SUNEI"
+  }
+]

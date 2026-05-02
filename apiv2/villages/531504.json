@@ -1,1 +1,77 @@
-[{"id": "5315042001", "district_id": "531504", "name": "GOLO NDARING"}, {"id": "5315042005", "district_id": "531504", "name": "GOLO KEMPO"}, {"id": "5315042008", "district_id": "531504", "name": "GOLO MANTING"}, {"id": "5315042009", "district_id": "531504", "name": "MATAWAE"}, {"id": "5315042011", "district_id": "531504", "name": "NAMPAR MACING"}, {"id": "5315042014", "district_id": "531504", "name": "WAE SANO"}, {"id": "5315042016", "district_id": "531504", "name": "GOLO MBU"}, {"id": "5315042017", "district_id": "531504", "name": "GOLO LELENG"}, {"id": "5315042018", "district_id": "531504", "name": "SANO NGGOANG"}, {"id": "5315042020", "district_id": "531504", "name": "WAE LOLOS"}, {"id": "5315042024", "district_id": "531504", "name": "GOLO SENGANG"}, {"id": "5315042025", "district_id": "531504", "name": "WATU PANGGAL"}, {"id": "5315042026", "district_id": "531504", "name": "GOLO KONDENG"}, {"id": "5315042027", "district_id": "531504", "name": "POCO GOLO KEMPO"}, {"id": "5315042028", "district_id": "531504", "name": "PULAU NUNCUNG"}]
+[
+  {
+    "id": "5315042001",
+    "district_id": "531504",
+    "name": "GOLO NDARING"
+  },
+  {
+    "id": "5315042005",
+    "district_id": "531504",
+    "name": "GOLO KEMPO"
+  },
+  {
+    "id": "5315042008",
+    "district_id": "531504",
+    "name": "GOLO MANTING"
+  },
+  {
+    "id": "5315042009",
+    "district_id": "531504",
+    "name": "MATAWAE"
+  },
+  {
+    "id": "5315042011",
+    "district_id": "531504",
+    "name": "NAMPAR MACING"
+  },
+  {
+    "id": "5315042014",
+    "district_id": "531504",
+    "name": "WAE SANO"
+  },
+  {
+    "id": "5315042016",
+    "district_id": "531504",
+    "name": "GOLO MBU"
+  },
+  {
+    "id": "5315042017",
+    "district_id": "531504",
+    "name": "GOLO LELENG"
+  },
+  {
+    "id": "5315042018",
+    "district_id": "531504",
+    "name": "SANO NGGOANG"
+  },
+  {
+    "id": "5315042020",
+    "district_id": "531504",
+    "name": "WAE LOLOS"
+  },
+  {
+    "id": "5315042024",
+    "district_id": "531504",
+    "name": "GOLO SENGANG"
+  },
+  {
+    "id": "5315042025",
+    "district_id": "531504",
+    "name": "WATU PANGGAL"
+  },
+  {
+    "id": "5315042026",
+    "district_id": "531504",
+    "name": "GOLO KONDENG"
+  },
+  {
+    "id": "5315042027",
+    "district_id": "531504",
+    "name": "POCO GOLO KEMPO"
+  },
+  {
+    "id": "5315042028",
+    "district_id": "531504",
+    "name": "PULAU NUNCUNG"
+  }
+]

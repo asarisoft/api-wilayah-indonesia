@@ -1,1 +1,72 @@
-[{"id": "6210051021", "district_id": "621005", "name": "JAKATAN RAYA"}, {"id": "6210052001", "district_id": "621005", "name": "TUMBANG JUTUH"}, {"id": "6210052002", "district_id": "621005", "name": "TUMBANG BARINGEI"}, {"id": "6210052009", "district_id": "621005", "name": "TUMBANG MALAHOI"}, {"id": "6210052014", "district_id": "621005", "name": "TUMBANG BUNUT"}, {"id": "6210052015", "district_id": "621005", "name": "TUMBANG KAJUEI"}, {"id": "6210052016", "district_id": "621005", "name": "LUWUK KANTOR"}, {"id": "6210052017", "district_id": "621005", "name": "LUWUK LANGKUAS"}, {"id": "6210052018", "district_id": "621005", "name": "TALANGKAH"}, {"id": "6210052019", "district_id": "621005", "name": "PAREMPEI"}, {"id": "6210052020", "district_id": "621005", "name": "LINAU"}, {"id": "6210052022", "district_id": "621005", "name": "BERENG BARU"}, {"id": "6210052023", "district_id": "621005", "name": "BERENG MALAKA"}, {"id": "6210052027", "district_id": "621005", "name": "KARYA BHAKTI"}]
+[
+  {
+    "id": "6210051021",
+    "district_id": "621005",
+    "name": "JAKATAN RAYA"
+  },
+  {
+    "id": "6210052001",
+    "district_id": "621005",
+    "name": "TUMBANG JUTUH"
+  },
+  {
+    "id": "6210052002",
+    "district_id": "621005",
+    "name": "TUMBANG BARINGEI"
+  },
+  {
+    "id": "6210052009",
+    "district_id": "621005",
+    "name": "TUMBANG MALAHOI"
+  },
+  {
+    "id": "6210052014",
+    "district_id": "621005",
+    "name": "TUMBANG BUNUT"
+  },
+  {
+    "id": "6210052015",
+    "district_id": "621005",
+    "name": "TUMBANG KAJUEI"
+  },
+  {
+    "id": "6210052016",
+    "district_id": "621005",
+    "name": "LUWUK KANTOR"
+  },
+  {
+    "id": "6210052017",
+    "district_id": "621005",
+    "name": "LUWUK LANGKUAS"
+  },
+  {
+    "id": "6210052018",
+    "district_id": "621005",
+    "name": "TALANGKAH"
+  },
+  {
+    "id": "6210052019",
+    "district_id": "621005",
+    "name": "PAREMPEI"
+  },
+  {
+    "id": "6210052020",
+    "district_id": "621005",
+    "name": "LINAU"
+  },
+  {
+    "id": "6210052022",
+    "district_id": "621005",
+    "name": "BERENG BARU"
+  },
+  {
+    "id": "6210052023",
+    "district_id": "621005",
+    "name": "BERENG MALAKA"
+  },
+  {
+    "id": "6210052027",
+    "district_id": "621005",
+    "name": "KARYA BHAKTI"
+  }
+]

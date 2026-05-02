@@ -1,1 +1,27 @@
-[{"id": "9208042001", "district_id": "920804", "name": "RURUMO"}, {"id": "9208042002", "district_id": "920804", "name": "BOIYA"}, {"id": "9208042003", "district_id": "920804", "name": "NARIKI"}, {"id": "9208042004", "district_id": "920804", "name": "BAMANA"}, {"id": "9208042005", "district_id": "920804", "name": "SIAWATAN"}]
+[
+  {
+    "id": "9208042001",
+    "district_id": "920804",
+    "name": "RURUMO"
+  },
+  {
+    "id": "9208042002",
+    "district_id": "920804",
+    "name": "BOIYA"
+  },
+  {
+    "id": "9208042003",
+    "district_id": "920804",
+    "name": "NARIKI"
+  },
+  {
+    "id": "9208042004",
+    "district_id": "920804",
+    "name": "BAMANA"
+  },
+  {
+    "id": "9208042005",
+    "district_id": "920804",
+    "name": "SIAWATAN"
+  }
+]

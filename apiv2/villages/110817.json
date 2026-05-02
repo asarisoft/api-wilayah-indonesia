@@ -1,1 +1,122 @@
-[{"id": "1108172001", "district_id": "110817", "name": "COT GIREK"}, {"id": "1108172002", "district_id": "110817", "name": "LHOK MEURBO"}, {"id": "1108172003", "district_id": "110817", "name": "KP. BANTAN"}, {"id": "1108172004", "district_id": "110817", "name": "ALUE SEUMAMBU"}, {"id": "1108172005", "district_id": "110817", "name": "ULEE GAMPONG"}, {"id": "1108172006", "district_id": "110817", "name": "BATU XII"}, {"id": "1108172007", "district_id": "110817", "name": "KP. TEMPEL"}, {"id": "1108172008", "district_id": "110817", "name": "ALUE LEUHOB"}, {"id": "1108172009", "district_id": "110817", "name": "SEUNEUBOK BARO"}, {"id": "1108172010", "district_id": "110817", "name": "ALUE DRIEN"}, {"id": "1108172011", "district_id": "110817", "name": "CEMPEUDAK"}, {"id": "1108172012", "district_id": "110817", "name": "MATANG TEUNGOH"}, {"id": "1108172013", "district_id": "110817", "name": "PUCOK ALUE"}, {"id": "1108172014", "district_id": "110817", "name": "U BARO"}, {"id": "1108172015", "district_id": "110817", "name": "TRIENG"}, {"id": "1108172016", "district_id": "110817", "name": "LHOK REUHAT"}, {"id": "1108172017", "district_id": "110817", "name": "LUENG BARO"}, {"id": "1108172018", "district_id": "110817", "name": "JEULIKAT"}, {"id": "1108172019", "district_id": "110817", "name": "GAMPONG ARA"}, {"id": "1108172020", "district_id": "110817", "name": "BEURANDANG DAYAH"}, {"id": "1108172021", "district_id": "110817", "name": "BEURANDANG KRUENG"}, {"id": "1108172022", "district_id": "110817", "name": "SEUPENG"}, {"id": "1108172023", "district_id": "110817", "name": "BEURANDANG ASAN"}, {"id": "1108172024", "district_id": "110817", "name": "DRIEN II"}]
+[
+  {
+    "id": "1108172001",
+    "district_id": "110817",
+    "name": "COT GIREK"
+  },
+  {
+    "id": "1108172002",
+    "district_id": "110817",
+    "name": "LHOK MEURBO"
+  },
+  {
+    "id": "1108172003",
+    "district_id": "110817",
+    "name": "KP. BANTAN"
+  },
+  {
+    "id": "1108172004",
+    "district_id": "110817",
+    "name": "ALUE SEUMAMBU"
+  },
+  {
+    "id": "1108172005",
+    "district_id": "110817",
+    "name": "ULEE GAMPONG"
+  },
+  {
+    "id": "1108172006",
+    "district_id": "110817",
+    "name": "BATU XII"
+  },
+  {
+    "id": "1108172007",
+    "district_id": "110817",
+    "name": "KP. TEMPEL"
+  },
+  {
+    "id": "1108172008",
+    "district_id": "110817",
+    "name": "ALUE LEUHOB"
+  },
+  {
+    "id": "1108172009",
+    "district_id": "110817",
+    "name": "SEUNEUBOK BARO"
+  },
+  {
+    "id": "1108172010",
+    "district_id": "110817",
+    "name": "ALUE DRIEN"
+  },
+  {
+    "id": "1108172011",
+    "district_id": "110817",
+    "name": "CEMPEUDAK"
+  },
+  {
+    "id": "1108172012",
+    "district_id": "110817",
+    "name": "MATANG TEUNGOH"
+  },
+  {
+    "id": "1108172013",
+    "district_id": "110817",
+    "name": "PUCOK ALUE"
+  },
+  {
+    "id": "1108172014",
+    "district_id": "110817",
+    "name": "U BARO"
+  },
+  {
+    "id": "1108172015",
+    "district_id": "110817",
+    "name": "TRIENG"
+  },
+  {
+    "id": "1108172016",
+    "district_id": "110817",
+    "name": "LHOK REUHAT"
+  },
+  {
+    "id": "1108172017",
+    "district_id": "110817",
+    "name": "LUENG BARO"
+  },
+  {
+    "id": "1108172018",
+    "district_id": "110817",
+    "name": "JEULIKAT"
+  },
+  {
+    "id": "1108172019",
+    "district_id": "110817",
+    "name": "GAMPONG ARA"
+  },
+  {
+    "id": "1108172020",
+    "district_id": "110817",
+    "name": "BEURANDANG DAYAH"
+  },
+  {
+    "id": "1108172021",
+    "district_id": "110817",
+    "name": "BEURANDANG KRUENG"
+  },
+  {
+    "id": "1108172022",
+    "district_id": "110817",
+    "name": "SEUPENG"
+  },
+  {
+    "id": "1108172023",
+    "district_id": "110817",
+    "name": "BEURANDANG ASAN"
+  },
+  {
+    "id": "1108172024",
+    "district_id": "110817",
+    "name": "DRIEN II"
+  }
+]

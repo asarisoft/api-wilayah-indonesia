@@ -1,1 +1,147 @@
-[{"id": "6105011001", "district_id": "610501", "name": "LADANG"}, {"id": "6105011002", "district_id": "610501", "name": "KAPUAS KANAN HULU"}, {"id": "6105011003", "district_id": "610501", "name": "TANJUNG PURI"}, {"id": "6105011004", "district_id": "610501", "name": "KAPUAS KANAN HILIR"}, {"id": "6105011005", "district_id": "610501", "name": "KAPUAS KIRI HILIR"}, {"id": "6105011006", "district_id": "610501", "name": "KAPUAS KIRI HULU"}, {"id": "6105011016", "district_id": "610501", "name": "AKCAYA"}, {"id": "6105011017", "district_id": "610501", "name": "ALAI"}, {"id": "6105011018", "district_id": "610501", "name": "RAWA MAMBOK"}, {"id": "6105011019", "district_id": "610501", "name": "SENGKUANG"}, {"id": "6105011020", "district_id": "610501", "name": "MENGKURAI"}, {"id": "6105011021", "district_id": "610501", "name": "KEDABANG"}, {"id": "6105011022", "district_id": "610501", "name": "MEKAR JAYA"}, {"id": "6105011023", "district_id": "610501", "name": "BATU LALAU"}, {"id": "6105011024", "district_id": "610501", "name": "MENYUMBUNG TENGAH"}, {"id": "6105011025", "district_id": "610501", "name": "ULAK JAYA"}, {"id": "6105012007", "district_id": "610501", "name": "BANING KOTA"}, {"id": "6105012008", "district_id": "610501", "name": "TERTUNG"}, {"id": "6105012009", "district_id": "610501", "name": "MUNGGUK BANTOK"}, {"id": "6105012010", "district_id": "610501", "name": "TELUK KELANSAM"}, {"id": "6105012011", "district_id": "610501", "name": "SUNGAI ANA"}, {"id": "6105012012", "district_id": "610501", "name": "MERTI GUNA"}, {"id": "6105012013", "district_id": "610501", "name": "TANJUNG KELANSAM"}, {"id": "6105012014", "district_id": "610501", "name": "ANGGAH JAYA"}, {"id": "6105012015", "district_id": "610501", "name": "LALANG BARU"}, {"id": "6105012026", "district_id": "610501", "name": "TEBING RAYA"}, {"id": "6105012027", "district_id": "610501", "name": "MAIL JAMPONG"}, {"id": "6105012028", "district_id": "610501", "name": "JERORA SATU"}, {"id": "6105012029", "district_id": "610501", "name": "KEBIAU BARU"}]
+[
+  {
+    "id": "6105011001",
+    "district_id": "610501",
+    "name": "LADANG"
+  },
+  {
+    "id": "6105011002",
+    "district_id": "610501",
+    "name": "KAPUAS KANAN HULU"
+  },
+  {
+    "id": "6105011003",
+    "district_id": "610501",
+    "name": "TANJUNG PURI"
+  },
+  {
+    "id": "6105011004",
+    "district_id": "610501",
+    "name": "KAPUAS KANAN HILIR"
+  },
+  {
+    "id": "6105011005",
+    "district_id": "610501",
+    "name": "KAPUAS KIRI HILIR"
+  },
+  {
+    "id": "6105011006",
+    "district_id": "610501",
+    "name": "KAPUAS KIRI HULU"
+  },
+  {
+    "id": "6105011016",
+    "district_id": "610501",
+    "name": "AKCAYA"
+  },
+  {
+    "id": "6105011017",
+    "district_id": "610501",
+    "name": "ALAI"
+  },
+  {
+    "id": "6105011018",
+    "district_id": "610501",
+    "name": "RAWA MAMBOK"
+  },
+  {
+    "id": "6105011019",
+    "district_id": "610501",
+    "name": "SENGKUANG"
+  },
+  {
+    "id": "6105011020",
+    "district_id": "610501",
+    "name": "MENGKURAI"
+  },
+  {
+    "id": "6105011021",
+    "district_id": "610501",
+    "name": "KEDABANG"
+  },
+  {
+    "id": "6105011022",
+    "district_id": "610501",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "6105011023",
+    "district_id": "610501",
+    "name": "BATU LALAU"
+  },
+  {
+    "id": "6105011024",
+    "district_id": "610501",
+    "name": "MENYUMBUNG TENGAH"
+  },
+  {
+    "id": "6105011025",
+    "district_id": "610501",
+    "name": "ULAK JAYA"
+  },
+  {
+    "id": "6105012007",
+    "district_id": "610501",
+    "name": "BANING KOTA"
+  },
+  {
+    "id": "6105012008",
+    "district_id": "610501",
+    "name": "TERTUNG"
+  },
+  {
+    "id": "6105012009",
+    "district_id": "610501",
+    "name": "MUNGGUK BANTOK"
+  },
+  {
+    "id": "6105012010",
+    "district_id": "610501",
+    "name": "TELUK KELANSAM"
+  },
+  {
+    "id": "6105012011",
+    "district_id": "610501",
+    "name": "SUNGAI ANA"
+  },
+  {
+    "id": "6105012012",
+    "district_id": "610501",
+    "name": "MERTI GUNA"
+  },
+  {
+    "id": "6105012013",
+    "district_id": "610501",
+    "name": "TANJUNG KELANSAM"
+  },
+  {
+    "id": "6105012014",
+    "district_id": "610501",
+    "name": "ANGGAH JAYA"
+  },
+  {
+    "id": "6105012015",
+    "district_id": "610501",
+    "name": "LALANG BARU"
+  },
+  {
+    "id": "6105012026",
+    "district_id": "610501",
+    "name": "TEBING RAYA"
+  },
+  {
+    "id": "6105012027",
+    "district_id": "610501",
+    "name": "MAIL JAMPONG"
+  },
+  {
+    "id": "6105012028",
+    "district_id": "610501",
+    "name": "JERORA SATU"
+  },
+  {
+    "id": "6105012029",
+    "district_id": "610501",
+    "name": "KEBIAU BARU"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "1472041001", "district_id": "147204", "name": "LUBUK GAUNG"}, {"id": "1472041002", "district_id": "147204", "name": "TANJUNG PENYEMBAL"}, {"id": "1472041003", "district_id": "147204", "name": "BANGSAL ACEH"}, {"id": "1472041004", "district_id": "147204", "name": "BASILAM BARU"}, {"id": "1472041005", "district_id": "147204", "name": "BATU TERITIP"}, {"id": "1472041006", "district_id": "147204", "name": "SUNGAI GENIOT"}]
+[
+  {
+    "id": "1472041001",
+    "district_id": "147204",
+    "name": "LUBUK GAUNG"
+  },
+  {
+    "id": "1472041002",
+    "district_id": "147204",
+    "name": "TANJUNG PENYEMBAL"
+  },
+  {
+    "id": "1472041003",
+    "district_id": "147204",
+    "name": "BANGSAL ACEH"
+  },
+  {
+    "id": "1472041004",
+    "district_id": "147204",
+    "name": "BASILAM BARU"
+  },
+  {
+    "id": "1472041005",
+    "district_id": "147204",
+    "name": "BATU TERITIP"
+  },
+  {
+    "id": "1472041006",
+    "district_id": "147204",
+    "name": "SUNGAI GENIOT"
+  }
+]

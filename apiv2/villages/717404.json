@@ -1,1 +1,32 @@
-[{"id": "7174041001", "district_id": "717404", "name": "MONGKONAI"}, {"id": "7174041002", "district_id": "717404", "name": "MOLINOW"}, {"id": "7174041003", "district_id": "717404", "name": "MOGOLAING"}, {"id": "7174041004", "district_id": "717404", "name": "GOGAGOMAN"}, {"id": "7174041005", "district_id": "717404", "name": "KOTAMOBAGU"}, {"id": "7174041006", "district_id": "717404", "name": "MONGKONAI BARAT"}]
+[
+  {
+    "id": "7174041001",
+    "district_id": "717404",
+    "name": "MONGKONAI"
+  },
+  {
+    "id": "7174041002",
+    "district_id": "717404",
+    "name": "MOLINOW"
+  },
+  {
+    "id": "7174041003",
+    "district_id": "717404",
+    "name": "MOGOLAING"
+  },
+  {
+    "id": "7174041004",
+    "district_id": "717404",
+    "name": "GOGAGOMAN"
+  },
+  {
+    "id": "7174041005",
+    "district_id": "717404",
+    "name": "KOTAMOBAGU"
+  },
+  {
+    "id": "7174041006",
+    "district_id": "717404",
+    "name": "MONGKONAI BARAT"
+  }
+]

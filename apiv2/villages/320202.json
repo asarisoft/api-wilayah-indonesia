@@ -1,1 +1,37 @@
-[{"id": "3202022001", "district_id": "320202", "name": "CIDADAP"}, {"id": "3202022002", "district_id": "320202", "name": "LOJI"}, {"id": "3202022003", "district_id": "320202", "name": "KERTAJAYA"}, {"id": "3202022004", "district_id": "320202", "name": "CIHAUR"}, {"id": "3202022005", "district_id": "320202", "name": "CIBUNTU"}, {"id": "3202022006", "district_id": "320202", "name": "MEKARASIH"}, {"id": "3202022007", "district_id": "320202", "name": "SANGRAWAYANG"}]
+[
+  {
+    "id": "3202022001",
+    "district_id": "320202",
+    "name": "CIDADAP"
+  },
+  {
+    "id": "3202022002",
+    "district_id": "320202",
+    "name": "LOJI"
+  },
+  {
+    "id": "3202022003",
+    "district_id": "320202",
+    "name": "KERTAJAYA"
+  },
+  {
+    "id": "3202022004",
+    "district_id": "320202",
+    "name": "CIHAUR"
+  },
+  {
+    "id": "3202022005",
+    "district_id": "320202",
+    "name": "CIBUNTU"
+  },
+  {
+    "id": "3202022006",
+    "district_id": "320202",
+    "name": "MEKARASIH"
+  },
+  {
+    "id": "3202022007",
+    "district_id": "320202",
+    "name": "SANGRAWAYANG"
+  }
+]

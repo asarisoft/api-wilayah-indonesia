@@ -1,1 +1,102 @@
-[{"id": "332401", "regency_id": "3324", "name": "PLANTUNGAN"}, {"id": "332402", "regency_id": "3324", "name": "PAGERUYUNG"}, {"id": "332403", "regency_id": "3324", "name": "SUKOREJO"}, {"id": "332404", "regency_id": "3324", "name": "PATEAN"}, {"id": "332405", "regency_id": "3324", "name": "SINGOROJO"}, {"id": "332406", "regency_id": "3324", "name": "LIMBANGAN"}, {"id": "332407", "regency_id": "3324", "name": "BOJA"}, {"id": "332408", "regency_id": "3324", "name": "KALIWUNGU"}, {"id": "332409", "regency_id": "3324", "name": "BRANGSONG"}, {"id": "332410", "regency_id": "3324", "name": "PEGANDON"}, {"id": "332411", "regency_id": "3324", "name": "GEMUH"}, {"id": "332412", "regency_id": "3324", "name": "WELERI"}, {"id": "332413", "regency_id": "3324", "name": "CEPIRING"}, {"id": "332414", "regency_id": "3324", "name": "PATEBON"}, {"id": "332415", "regency_id": "3324", "name": "KENDAL"}, {"id": "332416", "regency_id": "3324", "name": "ROWOSARI"}, {"id": "332417", "regency_id": "3324", "name": "KANGKUNG"}, {"id": "332418", "regency_id": "3324", "name": "RINGINARUM"}, {"id": "332419", "regency_id": "3324", "name": "NGAMPEL"}, {"id": "332420", "regency_id": "3324", "name": "KALIWUNGU SELATAN"}]
+[
+  {
+    "id": "332401",
+    "regency_id": "3324",
+    "name": "PLANTUNGAN"
+  },
+  {
+    "id": "332402",
+    "regency_id": "3324",
+    "name": "PAGERUYUNG"
+  },
+  {
+    "id": "332403",
+    "regency_id": "3324",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "332404",
+    "regency_id": "3324",
+    "name": "PATEAN"
+  },
+  {
+    "id": "332405",
+    "regency_id": "3324",
+    "name": "SINGOROJO"
+  },
+  {
+    "id": "332406",
+    "regency_id": "3324",
+    "name": "LIMBANGAN"
+  },
+  {
+    "id": "332407",
+    "regency_id": "3324",
+    "name": "BOJA"
+  },
+  {
+    "id": "332408",
+    "regency_id": "3324",
+    "name": "KALIWUNGU"
+  },
+  {
+    "id": "332409",
+    "regency_id": "3324",
+    "name": "BRANGSONG"
+  },
+  {
+    "id": "332410",
+    "regency_id": "3324",
+    "name": "PEGANDON"
+  },
+  {
+    "id": "332411",
+    "regency_id": "3324",
+    "name": "GEMUH"
+  },
+  {
+    "id": "332412",
+    "regency_id": "3324",
+    "name": "WELERI"
+  },
+  {
+    "id": "332413",
+    "regency_id": "3324",
+    "name": "CEPIRING"
+  },
+  {
+    "id": "332414",
+    "regency_id": "3324",
+    "name": "PATEBON"
+  },
+  {
+    "id": "332415",
+    "regency_id": "3324",
+    "name": "KENDAL"
+  },
+  {
+    "id": "332416",
+    "regency_id": "3324",
+    "name": "ROWOSARI"
+  },
+  {
+    "id": "332417",
+    "regency_id": "3324",
+    "name": "KANGKUNG"
+  },
+  {
+    "id": "332418",
+    "regency_id": "3324",
+    "name": "RINGINARUM"
+  },
+  {
+    "id": "332419",
+    "regency_id": "3324",
+    "name": "NGAMPEL"
+  },
+  {
+    "id": "332420",
+    "regency_id": "3324",
+    "name": "KALIWUNGU SELATAN"
+  }
+]

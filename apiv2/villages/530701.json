@@ -1,1 +1,72 @@
-[{"id": "5307012001", "district_id": "530701", "name": "MASABEWA"}, {"id": "5307012003", "district_id": "530701", "name": "WOLOWIRO"}, {"id": "5307012004", "district_id": "530701", "name": "MBENGU"}, {"id": "5307012005", "district_id": "530701", "name": "PAGA"}, {"id": "5307012008", "district_id": "530701", "name": "LENANDARETA"}, {"id": "5307012012", "district_id": "530701", "name": "MAULOO"}, {"id": "5307012013", "district_id": "530701", "name": "WOLOREGA"}, {"id": "5307012015", "district_id": "530701", "name": "WOLOWONA"}, {"id": "5307012017", "district_id": "530701", "name": "BEGU"}, {"id": "5307012018", "district_id": "530701", "name": "KOTANDELU"}, {"id": "5307012019", "district_id": "530701", "name": "LOWOLABO"}, {"id": "5307012020", "district_id": "530701", "name": "AEBUBU"}, {"id": "5307012021", "district_id": "530701", "name": "REGAPU’U"}, {"id": "5307012022", "district_id": "530701", "name": "REJO"}]
+[
+  {
+    "id": "5307012001",
+    "district_id": "530701",
+    "name": "MASABEWA"
+  },
+  {
+    "id": "5307012003",
+    "district_id": "530701",
+    "name": "WOLOWIRO"
+  },
+  {
+    "id": "5307012004",
+    "district_id": "530701",
+    "name": "MBENGU"
+  },
+  {
+    "id": "5307012005",
+    "district_id": "530701",
+    "name": "PAGA"
+  },
+  {
+    "id": "5307012008",
+    "district_id": "530701",
+    "name": "LENANDARETA"
+  },
+  {
+    "id": "5307012012",
+    "district_id": "530701",
+    "name": "MAULOO"
+  },
+  {
+    "id": "5307012013",
+    "district_id": "530701",
+    "name": "WOLOREGA"
+  },
+  {
+    "id": "5307012015",
+    "district_id": "530701",
+    "name": "WOLOWONA"
+  },
+  {
+    "id": "5307012017",
+    "district_id": "530701",
+    "name": "BEGU"
+  },
+  {
+    "id": "5307012018",
+    "district_id": "530701",
+    "name": "KOTANDELU"
+  },
+  {
+    "id": "5307012019",
+    "district_id": "530701",
+    "name": "LOWOLABO"
+  },
+  {
+    "id": "5307012020",
+    "district_id": "530701",
+    "name": "AEBUBU"
+  },
+  {
+    "id": "5307012021",
+    "district_id": "530701",
+    "name": "REGAPU’U"
+  },
+  {
+    "id": "5307012022",
+    "district_id": "530701",
+    "name": "REJO"
+  }
+]

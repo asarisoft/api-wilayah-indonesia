@@ -1,1 +1,37 @@
-[{"id": "1571081001", "district_id": "157108", "name": "TALANG JAUH"}, {"id": "1571081002", "district_id": "157108", "name": "CEMPAKA PUTIH"}, {"id": "1571081003", "district_id": "157108", "name": "KEBUN HANDIL"}, {"id": "1571081004", "district_id": "157108", "name": "LEBAK BANDUNG"}, {"id": "1571081005", "district_id": "157108", "name": "PAYO LEBAR"}, {"id": "1571081006", "district_id": "157108", "name": "JELUTUNG"}, {"id": "1571081007", "district_id": "157108", "name": "HANDIL JAYA"}]
+[
+  {
+    "id": "1571081001",
+    "district_id": "157108",
+    "name": "TALANG JAUH"
+  },
+  {
+    "id": "1571081002",
+    "district_id": "157108",
+    "name": "CEMPAKA PUTIH"
+  },
+  {
+    "id": "1571081003",
+    "district_id": "157108",
+    "name": "KEBUN HANDIL"
+  },
+  {
+    "id": "1571081004",
+    "district_id": "157108",
+    "name": "LEBAK BANDUNG"
+  },
+  {
+    "id": "1571081005",
+    "district_id": "157108",
+    "name": "PAYO LEBAR"
+  },
+  {
+    "id": "1571081006",
+    "district_id": "157108",
+    "name": "JELUTUNG"
+  },
+  {
+    "id": "1571081007",
+    "district_id": "157108",
+    "name": "HANDIL JAYA"
+  }
+]

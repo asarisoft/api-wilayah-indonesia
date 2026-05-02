@@ -1,1 +1,57 @@
-[{"id": "150701", "regency_id": "1507", "name": "MUARA SABAK TIMUR"}, {"id": "150702", "regency_id": "1507", "name": "NIPAH PANJANG"}, {"id": "150703", "regency_id": "1507", "name": "MENDAHARA"}, {"id": "150704", "regency_id": "1507", "name": "RANTAU RASAU"}, {"id": "150705", "regency_id": "1507", "name": "SADU"}, {"id": "150706", "regency_id": "1507", "name": "DENDANG"}, {"id": "150707", "regency_id": "1507", "name": "MUARA SABAK BARAT"}, {"id": "150708", "regency_id": "1507", "name": "KUALA JAMBI"}, {"id": "150709", "regency_id": "1507", "name": "MENDAHARA ULU"}, {"id": "150710", "regency_id": "1507", "name": "GERAGAI"}, {"id": "150711", "regency_id": "1507", "name": "BERBAK"}]
+[
+  {
+    "id": "150701",
+    "regency_id": "1507",
+    "name": "MUARA SABAK TIMUR"
+  },
+  {
+    "id": "150702",
+    "regency_id": "1507",
+    "name": "NIPAH PANJANG"
+  },
+  {
+    "id": "150703",
+    "regency_id": "1507",
+    "name": "MENDAHARA"
+  },
+  {
+    "id": "150704",
+    "regency_id": "1507",
+    "name": "RANTAU RASAU"
+  },
+  {
+    "id": "150705",
+    "regency_id": "1507",
+    "name": "SADU"
+  },
+  {
+    "id": "150706",
+    "regency_id": "1507",
+    "name": "DENDANG"
+  },
+  {
+    "id": "150707",
+    "regency_id": "1507",
+    "name": "MUARA SABAK BARAT"
+  },
+  {
+    "id": "150708",
+    "regency_id": "1507",
+    "name": "KUALA JAMBI"
+  },
+  {
+    "id": "150709",
+    "regency_id": "1507",
+    "name": "MENDAHARA ULU"
+  },
+  {
+    "id": "150710",
+    "regency_id": "1507",
+    "name": "GERAGAI"
+  },
+  {
+    "id": "150711",
+    "regency_id": "1507",
+    "name": "BERBAK"
+  }
+]

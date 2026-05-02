@@ -1,1 +1,82 @@
-[{"id": "3324162001", "district_id": "332416", "name": "WONOTENGGANG"}, {"id": "3324162002", "district_id": "332416", "name": "POJOKSARI"}, {"id": "3324162003", "district_id": "332416", "name": "RANDUSARI"}, {"id": "3324162004", "district_id": "332416", "name": "KARANGSARI"}, {"id": "3324162005", "district_id": "332416", "name": "PARAKAN"}, {"id": "3324162006", "district_id": "332416", "name": "TAMBAKSARI"}, {"id": "3324162007", "district_id": "332416", "name": "JATIPURWO"}, {"id": "3324162008", "district_id": "332416", "name": "ROWOSARI"}, {"id": "3324162009", "district_id": "332416", "name": "TANJUNGSARI"}, {"id": "3324162010", "district_id": "332416", "name": "TANJUNGANOM"}, {"id": "3324162011", "district_id": "332416", "name": "SENDANGDAWUHAN"}, {"id": "3324162012", "district_id": "332416", "name": "KEBONSARI"}, {"id": "3324162013", "district_id": "332416", "name": "BULAK"}, {"id": "3324162014", "district_id": "332416", "name": "GEBANGANOM"}, {"id": "3324162015", "district_id": "332416", "name": "GEMPOLSEWU"}, {"id": "3324162016", "district_id": "332416", "name": "SENDANGSIKUCING"}]
+[
+  {
+    "id": "3324162001",
+    "district_id": "332416",
+    "name": "WONOTENGGANG"
+  },
+  {
+    "id": "3324162002",
+    "district_id": "332416",
+    "name": "POJOKSARI"
+  },
+  {
+    "id": "3324162003",
+    "district_id": "332416",
+    "name": "RANDUSARI"
+  },
+  {
+    "id": "3324162004",
+    "district_id": "332416",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3324162005",
+    "district_id": "332416",
+    "name": "PARAKAN"
+  },
+  {
+    "id": "3324162006",
+    "district_id": "332416",
+    "name": "TAMBAKSARI"
+  },
+  {
+    "id": "3324162007",
+    "district_id": "332416",
+    "name": "JATIPURWO"
+  },
+  {
+    "id": "3324162008",
+    "district_id": "332416",
+    "name": "ROWOSARI"
+  },
+  {
+    "id": "3324162009",
+    "district_id": "332416",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3324162010",
+    "district_id": "332416",
+    "name": "TANJUNGANOM"
+  },
+  {
+    "id": "3324162011",
+    "district_id": "332416",
+    "name": "SENDANGDAWUHAN"
+  },
+  {
+    "id": "3324162012",
+    "district_id": "332416",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3324162013",
+    "district_id": "332416",
+    "name": "BULAK"
+  },
+  {
+    "id": "3324162014",
+    "district_id": "332416",
+    "name": "GEBANGANOM"
+  },
+  {
+    "id": "3324162015",
+    "district_id": "332416",
+    "name": "GEMPOLSEWU"
+  },
+  {
+    "id": "3324162016",
+    "district_id": "332416",
+    "name": "SENDANGSIKUCING"
+  }
+]

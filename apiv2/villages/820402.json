@@ -1,1 +1,72 @@
-[{"id": "8204022004", "district_id": "820402", "name": "SIKO"}, {"id": "8204022005", "district_id": "820402", "name": "GAFI"}, {"id": "8204022006", "district_id": "820402", "name": "LAIGOMA"}, {"id": "8204022016", "district_id": "820402", "name": "LIGUA"}, {"id": "8204022017", "district_id": "820402", "name": "KIDA"}, {"id": "8204022018", "district_id": "820402", "name": "BULI"}, {"id": "8204022019", "district_id": "820402", "name": "TALIMAU"}, {"id": "8204022020", "district_id": "820402", "name": "GUNANGE"}, {"id": "8204022021", "district_id": "820402", "name": "LELEI"}, {"id": "8204022022", "district_id": "820402", "name": "BAJO"}, {"id": "8204022023", "district_id": "820402", "name": "GURUAPIN"}, {"id": "8204022024", "district_id": "820402", "name": "KARAMAT"}, {"id": "8204022029", "district_id": "820402", "name": "TAWABI"}, {"id": "8204022030", "district_id": "820402", "name": "DOROLAMO"}]
+[
+  {
+    "id": "8204022004",
+    "district_id": "820402",
+    "name": "SIKO"
+  },
+  {
+    "id": "8204022005",
+    "district_id": "820402",
+    "name": "GAFI"
+  },
+  {
+    "id": "8204022006",
+    "district_id": "820402",
+    "name": "LAIGOMA"
+  },
+  {
+    "id": "8204022016",
+    "district_id": "820402",
+    "name": "LIGUA"
+  },
+  {
+    "id": "8204022017",
+    "district_id": "820402",
+    "name": "KIDA"
+  },
+  {
+    "id": "8204022018",
+    "district_id": "820402",
+    "name": "BULI"
+  },
+  {
+    "id": "8204022019",
+    "district_id": "820402",
+    "name": "TALIMAU"
+  },
+  {
+    "id": "8204022020",
+    "district_id": "820402",
+    "name": "GUNANGE"
+  },
+  {
+    "id": "8204022021",
+    "district_id": "820402",
+    "name": "LELEI"
+  },
+  {
+    "id": "8204022022",
+    "district_id": "820402",
+    "name": "BAJO"
+  },
+  {
+    "id": "8204022023",
+    "district_id": "820402",
+    "name": "GURUAPIN"
+  },
+  {
+    "id": "8204022024",
+    "district_id": "820402",
+    "name": "KARAMAT"
+  },
+  {
+    "id": "8204022029",
+    "district_id": "820402",
+    "name": "TAWABI"
+  },
+  {
+    "id": "8204022030",
+    "district_id": "820402",
+    "name": "DOROLAMO"
+  }
+]

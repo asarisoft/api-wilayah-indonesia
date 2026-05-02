@@ -1,1 +1,22 @@
-[{"id": "3275121001", "district_id": "327512", "name": "JATIRAHAYU"}, {"id": "3275121002", "district_id": "327512", "name": "JATIWARNA"}, {"id": "3275121003", "district_id": "327512", "name": "JATIMELATI"}, {"id": "3275121004", "district_id": "327512", "name": "JATIMURNI"}]
+[
+  {
+    "id": "3275121001",
+    "district_id": "327512",
+    "name": "JATIRAHAYU"
+  },
+  {
+    "id": "3275121002",
+    "district_id": "327512",
+    "name": "JATIWARNA"
+  },
+  {
+    "id": "3275121003",
+    "district_id": "327512",
+    "name": "JATIMELATI"
+  },
+  {
+    "id": "3275121004",
+    "district_id": "327512",
+    "name": "JATIMURNI"
+  }
+]

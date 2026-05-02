@@ -1,1 +1,87 @@
-[{"id": "3506162001", "district_id": "350616", "name": "LANGENHARJO"}, {"id": "3506162002", "district_id": "350616", "name": "TEGOWANGI"}, {"id": "3506162003", "district_id": "350616", "name": "PUHJARAK"}, {"id": "3506162004", "district_id": "350616", "name": "MEJONO"}, {"id": "3506162005", "district_id": "350616", "name": "PAYAMAN"}, {"id": "3506162006", "district_id": "350616", "name": "BOGOKIDUL"}, {"id": "3506162007", "district_id": "350616", "name": "KAYEN LOR"}, {"id": "3506162008", "district_id": "350616", "name": "WONOKERTO"}, {"id": "3506162009", "district_id": "350616", "name": "NGINO"}, {"id": "3506162010", "district_id": "350616", "name": "SEBET"}, {"id": "3506162011", "district_id": "350616", "name": "BANJAREJO"}, {"id": "3506162012", "district_id": "350616", "name": "SIDOWAREK"}, {"id": "3506162013", "district_id": "350616", "name": "RINGINPITU"}, {"id": "3506162014", "district_id": "350616", "name": "SUKOHARJO"}, {"id": "3506162015", "district_id": "350616", "name": "MOJOAYU"}, {"id": "3506162016", "district_id": "350616", "name": "PLEMAHAN"}, {"id": "3506162017", "district_id": "350616", "name": "MOJOKEREP"}]
+[
+  {
+    "id": "3506162001",
+    "district_id": "350616",
+    "name": "LANGENHARJO"
+  },
+  {
+    "id": "3506162002",
+    "district_id": "350616",
+    "name": "TEGOWANGI"
+  },
+  {
+    "id": "3506162003",
+    "district_id": "350616",
+    "name": "PUHJARAK"
+  },
+  {
+    "id": "3506162004",
+    "district_id": "350616",
+    "name": "MEJONO"
+  },
+  {
+    "id": "3506162005",
+    "district_id": "350616",
+    "name": "PAYAMAN"
+  },
+  {
+    "id": "3506162006",
+    "district_id": "350616",
+    "name": "BOGOKIDUL"
+  },
+  {
+    "id": "3506162007",
+    "district_id": "350616",
+    "name": "KAYEN LOR"
+  },
+  {
+    "id": "3506162008",
+    "district_id": "350616",
+    "name": "WONOKERTO"
+  },
+  {
+    "id": "3506162009",
+    "district_id": "350616",
+    "name": "NGINO"
+  },
+  {
+    "id": "3506162010",
+    "district_id": "350616",
+    "name": "SEBET"
+  },
+  {
+    "id": "3506162011",
+    "district_id": "350616",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "3506162012",
+    "district_id": "350616",
+    "name": "SIDOWAREK"
+  },
+  {
+    "id": "3506162013",
+    "district_id": "350616",
+    "name": "RINGINPITU"
+  },
+  {
+    "id": "3506162014",
+    "district_id": "350616",
+    "name": "SUKOHARJO"
+  },
+  {
+    "id": "3506162015",
+    "district_id": "350616",
+    "name": "MOJOAYU"
+  },
+  {
+    "id": "3506162016",
+    "district_id": "350616",
+    "name": "PLEMAHAN"
+  },
+  {
+    "id": "3506162017",
+    "district_id": "350616",
+    "name": "MOJOKEREP"
+  }
+]

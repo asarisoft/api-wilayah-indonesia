@@ -1,1 +1,52 @@
-[{"id": "1703232001", "district_id": "170323", "name": "AIR LELANGI"}, {"id": "1703232002", "district_id": "170323", "name": "BUKIT BERLIAN"}, {"id": "1703232003", "district_id": "170323", "name": "TANJUNG DALAM"}, {"id": "1703232004", "district_id": "170323", "name": "BUKIT SARI"}, {"id": "1703232005", "district_id": "170323", "name": "PAGARDIN"}, {"id": "1703232006", "district_id": "170323", "name": "TANJUNG HARAPAN"}, {"id": "1703232007", "district_id": "170323", "name": "TANJUNG SARI"}, {"id": "1703232008", "district_id": "170323", "name": "BANGUN KARYA"}, {"id": "1703232009", "district_id": "170323", "name": "PONDOK BAKIL"}, {"id": "1703232010", "district_id": "170323", "name": "TALANG BERANTAI"}]
+[
+  {
+    "id": "1703232001",
+    "district_id": "170323",
+    "name": "AIR LELANGI"
+  },
+  {
+    "id": "1703232002",
+    "district_id": "170323",
+    "name": "BUKIT BERLIAN"
+  },
+  {
+    "id": "1703232003",
+    "district_id": "170323",
+    "name": "TANJUNG DALAM"
+  },
+  {
+    "id": "1703232004",
+    "district_id": "170323",
+    "name": "BUKIT SARI"
+  },
+  {
+    "id": "1703232005",
+    "district_id": "170323",
+    "name": "PAGARDIN"
+  },
+  {
+    "id": "1703232006",
+    "district_id": "170323",
+    "name": "TANJUNG HARAPAN"
+  },
+  {
+    "id": "1703232007",
+    "district_id": "170323",
+    "name": "TANJUNG SARI"
+  },
+  {
+    "id": "1703232008",
+    "district_id": "170323",
+    "name": "BANGUN KARYA"
+  },
+  {
+    "id": "1703232009",
+    "district_id": "170323",
+    "name": "PONDOK BAKIL"
+  },
+  {
+    "id": "1703232010",
+    "district_id": "170323",
+    "name": "TALANG BERANTAI"
+  }
+]

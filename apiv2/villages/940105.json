@@ -1,1 +1,17 @@
-[{"id": "9401052001", "district_id": "940105", "name": "BUMI MULIA"}, {"id": "9401052002", "district_id": "940105", "name": "KARADIRI"}, {"id": "9401052003", "district_id": "940105", "name": "WANGGAR MAKMUR"}]
+[
+  {
+    "id": "9401052001",
+    "district_id": "940105",
+    "name": "BUMI MULIA"
+  },
+  {
+    "id": "9401052002",
+    "district_id": "940105",
+    "name": "KARADIRI"
+  },
+  {
+    "id": "9401052003",
+    "district_id": "940105",
+    "name": "WANGGAR MAKMUR"
+  }
+]

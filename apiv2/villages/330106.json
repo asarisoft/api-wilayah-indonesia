@@ -1,1 +1,87 @@
-[{"id": "3301062001", "district_id": "330106", "name": "SIKAMPUH"}, {"id": "3301062002", "district_id": "330106", "name": "PEKUNCEN"}, {"id": "3301062003", "district_id": "330106", "name": "AYAMALAS"}, {"id": "3301062004", "district_id": "330106", "name": "PESANGGRAHAN"}, {"id": "3301062005", "district_id": "330106", "name": "KROYA"}, {"id": "3301062006", "district_id": "330106", "name": "KARANGMANGU"}, {"id": "3301062007", "district_id": "330106", "name": "PUCUNG KIDUL"}, {"id": "3301062008", "district_id": "330106", "name": "MERGAWATI"}, {"id": "3301062009", "district_id": "330106", "name": "PUCUNG LOR"}, {"id": "3301062010", "district_id": "330106", "name": "BAJING"}, {"id": "3301062011", "district_id": "330106", "name": "GENTASARI"}, {"id": "3301062012", "district_id": "330106", "name": "KEDAWUNG"}, {"id": "3301062013", "district_id": "330106", "name": "MUJUR"}, {"id": "3301062014", "district_id": "330106", "name": "BUNTU"}, {"id": "3301062015", "district_id": "330106", "name": "KARANGTURI"}, {"id": "3301062016", "district_id": "330106", "name": "BAJING KULON"}, {"id": "3301062017", "district_id": "330106", "name": "MUJUR LOR"}]
+[
+  {
+    "id": "3301062001",
+    "district_id": "330106",
+    "name": "SIKAMPUH"
+  },
+  {
+    "id": "3301062002",
+    "district_id": "330106",
+    "name": "PEKUNCEN"
+  },
+  {
+    "id": "3301062003",
+    "district_id": "330106",
+    "name": "AYAMALAS"
+  },
+  {
+    "id": "3301062004",
+    "district_id": "330106",
+    "name": "PESANGGRAHAN"
+  },
+  {
+    "id": "3301062005",
+    "district_id": "330106",
+    "name": "KROYA"
+  },
+  {
+    "id": "3301062006",
+    "district_id": "330106",
+    "name": "KARANGMANGU"
+  },
+  {
+    "id": "3301062007",
+    "district_id": "330106",
+    "name": "PUCUNG KIDUL"
+  },
+  {
+    "id": "3301062008",
+    "district_id": "330106",
+    "name": "MERGAWATI"
+  },
+  {
+    "id": "3301062009",
+    "district_id": "330106",
+    "name": "PUCUNG LOR"
+  },
+  {
+    "id": "3301062010",
+    "district_id": "330106",
+    "name": "BAJING"
+  },
+  {
+    "id": "3301062011",
+    "district_id": "330106",
+    "name": "GENTASARI"
+  },
+  {
+    "id": "3301062012",
+    "district_id": "330106",
+    "name": "KEDAWUNG"
+  },
+  {
+    "id": "3301062013",
+    "district_id": "330106",
+    "name": "MUJUR"
+  },
+  {
+    "id": "3301062014",
+    "district_id": "330106",
+    "name": "BUNTU"
+  },
+  {
+    "id": "3301062015",
+    "district_id": "330106",
+    "name": "KARANGTURI"
+  },
+  {
+    "id": "3301062016",
+    "district_id": "330106",
+    "name": "BAJING KULON"
+  },
+  {
+    "id": "3301062017",
+    "district_id": "330106",
+    "name": "MUJUR LOR"
+  }
+]

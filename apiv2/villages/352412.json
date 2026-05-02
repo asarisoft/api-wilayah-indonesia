@@ -1,1 +1,107 @@
-[{"id": "3524122001", "district_id": "352412", "name": "SIDOBOGEM"}, {"id": "3524122002", "district_id": "352412", "name": "KALITENGAH"}, {"id": "3524122003", "district_id": "352412", "name": "KEDUNGDADI"}, {"id": "3524122004", "district_id": "352412", "name": "SIDOREJO"}, {"id": "3524122005", "district_id": "352412", "name": "KEDUNGBANJAR"}, {"id": "3524122006", "district_id": "352412", "name": "BEDINGIN"}, {"id": "3524122007", "district_id": "352412", "name": "BAKALREJO"}, {"id": "3524122008", "district_id": "352412", "name": "GONDANGLOR"}, {"id": "3524122009", "district_id": "352412", "name": "PANGKATREJO"}, {"id": "3524122010", "district_id": "352412", "name": "KARANGSAMBIGALIH"}, {"id": "3524122011", "district_id": "352412", "name": "SUPENUH"}, {"id": "3524122012", "district_id": "352412", "name": "LEBAKADI"}, {"id": "3524122013", "district_id": "352412", "name": "DEKETAGUNG"}, {"id": "3524122014", "district_id": "352412", "name": "JUBELLOR"}, {"id": "3524122015", "district_id": "352412", "name": "SUGIO"}, {"id": "3524122016", "district_id": "352412", "name": "DALIWANGUN"}, {"id": "3524122017", "district_id": "352412", "name": "JUBELKIDUL"}, {"id": "3524122018", "district_id": "352412", "name": "LAWANGANAGUNG"}, {"id": "3524122019", "district_id": "352412", "name": "KALIPANG"}, {"id": "3524122020", "district_id": "352412", "name": "GERMAN"}, {"id": "3524122021", "district_id": "352412", "name": "SEKARBAGUS"}]
+[
+  {
+    "id": "3524122001",
+    "district_id": "352412",
+    "name": "SIDOBOGEM"
+  },
+  {
+    "id": "3524122002",
+    "district_id": "352412",
+    "name": "KALITENGAH"
+  },
+  {
+    "id": "3524122003",
+    "district_id": "352412",
+    "name": "KEDUNGDADI"
+  },
+  {
+    "id": "3524122004",
+    "district_id": "352412",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3524122005",
+    "district_id": "352412",
+    "name": "KEDUNGBANJAR"
+  },
+  {
+    "id": "3524122006",
+    "district_id": "352412",
+    "name": "BEDINGIN"
+  },
+  {
+    "id": "3524122007",
+    "district_id": "352412",
+    "name": "BAKALREJO"
+  },
+  {
+    "id": "3524122008",
+    "district_id": "352412",
+    "name": "GONDANGLOR"
+  },
+  {
+    "id": "3524122009",
+    "district_id": "352412",
+    "name": "PANGKATREJO"
+  },
+  {
+    "id": "3524122010",
+    "district_id": "352412",
+    "name": "KARANGSAMBIGALIH"
+  },
+  {
+    "id": "3524122011",
+    "district_id": "352412",
+    "name": "SUPENUH"
+  },
+  {
+    "id": "3524122012",
+    "district_id": "352412",
+    "name": "LEBAKADI"
+  },
+  {
+    "id": "3524122013",
+    "district_id": "352412",
+    "name": "DEKETAGUNG"
+  },
+  {
+    "id": "3524122014",
+    "district_id": "352412",
+    "name": "JUBELLOR"
+  },
+  {
+    "id": "3524122015",
+    "district_id": "352412",
+    "name": "SUGIO"
+  },
+  {
+    "id": "3524122016",
+    "district_id": "352412",
+    "name": "DALIWANGUN"
+  },
+  {
+    "id": "3524122017",
+    "district_id": "352412",
+    "name": "JUBELKIDUL"
+  },
+  {
+    "id": "3524122018",
+    "district_id": "352412",
+    "name": "LAWANGANAGUNG"
+  },
+  {
+    "id": "3524122019",
+    "district_id": "352412",
+    "name": "KALIPANG"
+  },
+  {
+    "id": "3524122020",
+    "district_id": "352412",
+    "name": "GERMAN"
+  },
+  {
+    "id": "3524122021",
+    "district_id": "352412",
+    "name": "SEKARBAGUS"
+  }
+]

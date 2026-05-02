@@ -1,1 +1,52 @@
-[{"id": "7401121001", "district_id": "740112", "name": "PUUNDOHO"}, {"id": "7401122002", "district_id": "740112", "name": "LONGORI"}, {"id": "7401122003", "district_id": "740112", "name": "PUUBUNGA"}, {"id": "7401122004", "district_id": "740112", "name": "PUULEMO"}, {"id": "7401122005", "district_id": "740112", "name": "PUUBENUA"}, {"id": "7401122006", "district_id": "740112", "name": "BAULA"}, {"id": "7401122007", "district_id": "740112", "name": "PEWUTAA"}, {"id": "7401122008", "district_id": "740112", "name": "WATALARA"}, {"id": "7401122009", "district_id": "740112", "name": "PUURODA"}, {"id": "7401122010", "district_id": "740112", "name": "ULU BAULA"}]
+[
+  {
+    "id": "7401121001",
+    "district_id": "740112",
+    "name": "PUUNDOHO"
+  },
+  {
+    "id": "7401122002",
+    "district_id": "740112",
+    "name": "LONGORI"
+  },
+  {
+    "id": "7401122003",
+    "district_id": "740112",
+    "name": "PUUBUNGA"
+  },
+  {
+    "id": "7401122004",
+    "district_id": "740112",
+    "name": "PUULEMO"
+  },
+  {
+    "id": "7401122005",
+    "district_id": "740112",
+    "name": "PUUBENUA"
+  },
+  {
+    "id": "7401122006",
+    "district_id": "740112",
+    "name": "BAULA"
+  },
+  {
+    "id": "7401122007",
+    "district_id": "740112",
+    "name": "PEWUTAA"
+  },
+  {
+    "id": "7401122008",
+    "district_id": "740112",
+    "name": "WATALARA"
+  },
+  {
+    "id": "7401122009",
+    "district_id": "740112",
+    "name": "PUURODA"
+  },
+  {
+    "id": "7401122010",
+    "district_id": "740112",
+    "name": "ULU BAULA"
+  }
+]

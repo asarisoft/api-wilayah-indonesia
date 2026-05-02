@@ -1,1 +1,57 @@
-[{"id": "7201211010", "district_id": "720121", "name": "KILONGAN"}, {"id": "7201211011", "district_id": "720121", "name": "KILONGAN PERMAI"}, {"id": "7201212001", "district_id": "720121", "name": "BIAK"}, {"id": "7201212002", "district_id": "720121", "name": "BUNGA"}, {"id": "7201212003", "district_id": "720121", "name": "KAMUMU"}, {"id": "7201212004", "district_id": "720121", "name": "SALODIK"}, {"id": "7201212005", "district_id": "720121", "name": "LENYEK"}, {"id": "7201212006", "district_id": "720121", "name": "BUON MANDIRI"}, {"id": "7201212007", "district_id": "720121", "name": "BOYOU"}, {"id": "7201212008", "district_id": "720121", "name": "AWU"}, {"id": "7201212009", "district_id": "720121", "name": "BUMI BERINGIN"}]
+[
+  {
+    "id": "7201211010",
+    "district_id": "720121",
+    "name": "KILONGAN"
+  },
+  {
+    "id": "7201211011",
+    "district_id": "720121",
+    "name": "KILONGAN PERMAI"
+  },
+  {
+    "id": "7201212001",
+    "district_id": "720121",
+    "name": "BIAK"
+  },
+  {
+    "id": "7201212002",
+    "district_id": "720121",
+    "name": "BUNGA"
+  },
+  {
+    "id": "7201212003",
+    "district_id": "720121",
+    "name": "KAMUMU"
+  },
+  {
+    "id": "7201212004",
+    "district_id": "720121",
+    "name": "SALODIK"
+  },
+  {
+    "id": "7201212005",
+    "district_id": "720121",
+    "name": "LENYEK"
+  },
+  {
+    "id": "7201212006",
+    "district_id": "720121",
+    "name": "BUON MANDIRI"
+  },
+  {
+    "id": "7201212007",
+    "district_id": "720121",
+    "name": "BOYOU"
+  },
+  {
+    "id": "7201212008",
+    "district_id": "720121",
+    "name": "AWU"
+  },
+  {
+    "id": "7201212009",
+    "district_id": "720121",
+    "name": "BUMI BERINGIN"
+  }
+]

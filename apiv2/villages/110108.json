@@ -1,1 +1,82 @@
-[{"id": "1101082001", "district_id": "110108", "name": "LHOK KEUTAPANG"}, {"id": "1101082002", "district_id": "110108", "name": "HILIR"}, {"id": "1101082003", "district_id": "110108", "name": "PADANG"}, {"id": "1101082004", "district_id": "110108", "name": "HULU"}, {"id": "1101082005", "district_id": "110108", "name": "JAMBO APHA"}, {"id": "1101082006", "district_id": "110108", "name": "TEPI AIR"}, {"id": "1101082007", "district_id": "110108", "name": "PASAR"}, {"id": "1101082008", "district_id": "110108", "name": "LHOK BENGKUANG"}, {"id": "1101082009", "district_id": "110108", "name": "PANTON LUAS"}, {"id": "1101082010", "district_id": "110108", "name": "GUNUNG KERAMBIL"}, {"id": "1101082011", "district_id": "110108", "name": "AIR BERUDANG"}, {"id": "1101082012", "district_id": "110108", "name": "BATU ITAM"}, {"id": "1101082013", "district_id": "110108", "name": "PANJUPIAN"}, {"id": "1101082014", "district_id": "110108", "name": "LHOK RUKAM"}, {"id": "1101082015", "district_id": "110108", "name": "AIR PINANG"}, {"id": "1101082016", "district_id": "110108", "name": "LHOK BENGKUANG TIMUR"}]
+[
+  {
+    "id": "1101082001",
+    "district_id": "110108",
+    "name": "LHOK KEUTAPANG"
+  },
+  {
+    "id": "1101082002",
+    "district_id": "110108",
+    "name": "HILIR"
+  },
+  {
+    "id": "1101082003",
+    "district_id": "110108",
+    "name": "PADANG"
+  },
+  {
+    "id": "1101082004",
+    "district_id": "110108",
+    "name": "HULU"
+  },
+  {
+    "id": "1101082005",
+    "district_id": "110108",
+    "name": "JAMBO APHA"
+  },
+  {
+    "id": "1101082006",
+    "district_id": "110108",
+    "name": "TEPI AIR"
+  },
+  {
+    "id": "1101082007",
+    "district_id": "110108",
+    "name": "PASAR"
+  },
+  {
+    "id": "1101082008",
+    "district_id": "110108",
+    "name": "LHOK BENGKUANG"
+  },
+  {
+    "id": "1101082009",
+    "district_id": "110108",
+    "name": "PANTON LUAS"
+  },
+  {
+    "id": "1101082010",
+    "district_id": "110108",
+    "name": "GUNUNG KERAMBIL"
+  },
+  {
+    "id": "1101082011",
+    "district_id": "110108",
+    "name": "AIR BERUDANG"
+  },
+  {
+    "id": "1101082012",
+    "district_id": "110108",
+    "name": "BATU ITAM"
+  },
+  {
+    "id": "1101082013",
+    "district_id": "110108",
+    "name": "PANJUPIAN"
+  },
+  {
+    "id": "1101082014",
+    "district_id": "110108",
+    "name": "LHOK RUKAM"
+  },
+  {
+    "id": "1101082015",
+    "district_id": "110108",
+    "name": "AIR PINANG"
+  },
+  {
+    "id": "1101082016",
+    "district_id": "110108",
+    "name": "LHOK BENGKUANG TIMUR"
+  }
+]

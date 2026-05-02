@@ -1,1 +1,47 @@
-[{"id": "5321072001", "district_id": "532107", "name": "AS MANULEA"}, {"id": "5321072002", "district_id": "532107", "name": "MANULEA"}, {"id": "5321072003", "district_id": "532107", "name": "NAIBONE"}, {"id": "5321072004", "district_id": "532107", "name": "FATUARUIN"}, {"id": "5321072005", "district_id": "532107", "name": "BUILARAN"}, {"id": "5321072006", "district_id": "532107", "name": "MANUMUTIN SILOLE"}, {"id": "5321072007", "district_id": "532107", "name": "UMUTNANA"}, {"id": "5321072008", "district_id": "532107", "name": "BEANENO"}, {"id": "5321072009", "district_id": "532107", "name": "NAISAU"}]
+[
+  {
+    "id": "5321072001",
+    "district_id": "532107",
+    "name": "AS MANULEA"
+  },
+  {
+    "id": "5321072002",
+    "district_id": "532107",
+    "name": "MANULEA"
+  },
+  {
+    "id": "5321072003",
+    "district_id": "532107",
+    "name": "NAIBONE"
+  },
+  {
+    "id": "5321072004",
+    "district_id": "532107",
+    "name": "FATUARUIN"
+  },
+  {
+    "id": "5321072005",
+    "district_id": "532107",
+    "name": "BUILARAN"
+  },
+  {
+    "id": "5321072006",
+    "district_id": "532107",
+    "name": "MANUMUTIN SILOLE"
+  },
+  {
+    "id": "5321072007",
+    "district_id": "532107",
+    "name": "UMUTNANA"
+  },
+  {
+    "id": "5321072008",
+    "district_id": "532107",
+    "name": "BEANENO"
+  },
+  {
+    "id": "5321072009",
+    "district_id": "532107",
+    "name": "NAISAU"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "8107082001", "district_id": "810708", "name": "LONGGAR"}, {"id": "8107082002", "district_id": "810708", "name": "APARA"}, {"id": "8107082003", "district_id": "810708", "name": "BEMUN"}, {"id": "8107082004", "district_id": "810708", "name": "MESIANG"}, {"id": "8107082005", "district_id": "810708", "name": "GOMO-GOMO"}, {"id": "8107082006", "district_id": "810708", "name": "JAMBU AIR"}, {"id": "8107082007", "district_id": "810708", "name": "WARABAL"}]
+[
+  {
+    "id": "8107082001",
+    "district_id": "810708",
+    "name": "LONGGAR"
+  },
+  {
+    "id": "8107082002",
+    "district_id": "810708",
+    "name": "APARA"
+  },
+  {
+    "id": "8107082003",
+    "district_id": "810708",
+    "name": "BEMUN"
+  },
+  {
+    "id": "8107082004",
+    "district_id": "810708",
+    "name": "MESIANG"
+  },
+  {
+    "id": "8107082005",
+    "district_id": "810708",
+    "name": "GOMO-GOMO"
+  },
+  {
+    "id": "8107082006",
+    "district_id": "810708",
+    "name": "JAMBU AIR"
+  },
+  {
+    "id": "8107082007",
+    "district_id": "810708",
+    "name": "WARABAL"
+  }
+]

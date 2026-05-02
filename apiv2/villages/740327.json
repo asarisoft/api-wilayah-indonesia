@@ -1,1 +1,62 @@
-[{"id": "7403271005", "district_id": "740327", "name": "DANAGOA"}, {"id": "7403271007", "district_id": "740327", "name": "KONTUMOLEPE"}, {"id": "7403271008", "district_id": "740327", "name": "TOMBULA"}, {"id": "7403272003", "district_id": "740327", "name": "LAHONTOHE"}, {"id": "7403272004", "district_id": "740327", "name": "LAMORENDE"}, {"id": "7403272006", "district_id": "740327", "name": "LAKOLOGOU"}, {"id": "7403272009", "district_id": "740327", "name": "MATANO OE"}, {"id": "7403272014", "district_id": "740327", "name": "LAPADINDI"}, {"id": "7403272015", "district_id": "740327", "name": "OEMPU"}, {"id": "7403272016", "district_id": "740327", "name": "FONGKANIWA"}, {"id": "7403272017", "district_id": "740327", "name": "TANJUNG"}, {"id": "7403272019", "district_id": "740327", "name": "KOTANO WUNA"}]
+[
+  {
+    "id": "7403271005",
+    "district_id": "740327",
+    "name": "DANAGOA"
+  },
+  {
+    "id": "7403271007",
+    "district_id": "740327",
+    "name": "KONTUMOLEPE"
+  },
+  {
+    "id": "7403271008",
+    "district_id": "740327",
+    "name": "TOMBULA"
+  },
+  {
+    "id": "7403272003",
+    "district_id": "740327",
+    "name": "LAHONTOHE"
+  },
+  {
+    "id": "7403272004",
+    "district_id": "740327",
+    "name": "LAMORENDE"
+  },
+  {
+    "id": "7403272006",
+    "district_id": "740327",
+    "name": "LAKOLOGOU"
+  },
+  {
+    "id": "7403272009",
+    "district_id": "740327",
+    "name": "MATANO OE"
+  },
+  {
+    "id": "7403272014",
+    "district_id": "740327",
+    "name": "LAPADINDI"
+  },
+  {
+    "id": "7403272015",
+    "district_id": "740327",
+    "name": "OEMPU"
+  },
+  {
+    "id": "7403272016",
+    "district_id": "740327",
+    "name": "FONGKANIWA"
+  },
+  {
+    "id": "7403272017",
+    "district_id": "740327",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "7403272019",
+    "district_id": "740327",
+    "name": "KOTANO WUNA"
+  }
+]

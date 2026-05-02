@@ -1,1 +1,57 @@
-[{"id": "1214342001", "district_id": "121434", "name": "FANEDANU"}, {"id": "1214342002", "district_id": "121434", "name": "FANEDANU SIBOHOU"}, {"id": "1214342003", "district_id": "121434", "name": "LAWA-LAWA LUO IDANOTAE"}, {"id": "1214342004", "district_id": "121434", "name": "DAO-DAO ZANUWO IDANO TAE"}, {"id": "1214342005", "district_id": "121434", "name": "SISIWA EWALI"}, {"id": "1214342006", "district_id": "121434", "name": "SISARAHILI EWO"}, {"id": "1214342007", "district_id": "121434", "name": "HILIALO'OA"}, {"id": "1214342008", "district_id": "121434", "name": "DAMAI"}, {"id": "1214342009", "district_id": "121434", "name": "LOLOZUKHU"}, {"id": "1214342010", "district_id": "121434", "name": "SILIMA BANUA UMBUNASI"}, {"id": "1214342011", "district_id": "121434", "name": "SINDROLO"}]
+[
+  {
+    "id": "1214342001",
+    "district_id": "121434",
+    "name": "FANEDANU"
+  },
+  {
+    "id": "1214342002",
+    "district_id": "121434",
+    "name": "FANEDANU SIBOHOU"
+  },
+  {
+    "id": "1214342003",
+    "district_id": "121434",
+    "name": "LAWA-LAWA LUO IDANOTAE"
+  },
+  {
+    "id": "1214342004",
+    "district_id": "121434",
+    "name": "DAO-DAO ZANUWO IDANO TAE"
+  },
+  {
+    "id": "1214342005",
+    "district_id": "121434",
+    "name": "SISIWA EWALI"
+  },
+  {
+    "id": "1214342006",
+    "district_id": "121434",
+    "name": "SISARAHILI EWO"
+  },
+  {
+    "id": "1214342007",
+    "district_id": "121434",
+    "name": "HILIALO'OA"
+  },
+  {
+    "id": "1214342008",
+    "district_id": "121434",
+    "name": "DAMAI"
+  },
+  {
+    "id": "1214342009",
+    "district_id": "121434",
+    "name": "LOLOZUKHU"
+  },
+  {
+    "id": "1214342010",
+    "district_id": "121434",
+    "name": "SILIMA BANUA UMBUNASI"
+  },
+  {
+    "id": "1214342011",
+    "district_id": "121434",
+    "name": "SINDROLO"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "7406202001", "district_id": "740620", "name": "TONTONUNU"}, {"id": "7406202002", "district_id": "740620", "name": "TONGKOSENG"}, {"id": "7406202003", "district_id": "740620", "name": "TETEHAKA"}, {"id": "7406202004", "district_id": "740620", "name": "WATU MELOMBA"}, {"id": "7406202005", "district_id": "740620", "name": "PUU WONUA"}]
+[
+  {
+    "id": "7406202001",
+    "district_id": "740620",
+    "name": "TONTONUNU"
+  },
+  {
+    "id": "7406202002",
+    "district_id": "740620",
+    "name": "TONGKOSENG"
+  },
+  {
+    "id": "7406202003",
+    "district_id": "740620",
+    "name": "TETEHAKA"
+  },
+  {
+    "id": "7406202004",
+    "district_id": "740620",
+    "name": "WATU MELOMBA"
+  },
+  {
+    "id": "7406202005",
+    "district_id": "740620",
+    "name": "PUU WONUA"
+  }
+]

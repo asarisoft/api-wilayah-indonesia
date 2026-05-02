@@ -1,1 +1,82 @@
-[{"id": "3326161010", "district_id": "332616", "name": "GUMAWANG"}, {"id": "3326161011", "district_id": "332616", "name": "KEPATIHAN"}, {"id": "3326161012", "district_id": "332616", "name": "MAYANGAN"}, {"id": "3326161013", "district_id": "332616", "name": "PEKUNCEN"}, {"id": "3326161014", "district_id": "332616", "name": "BENER"}, {"id": "3326162001", "district_id": "332616", "name": "KADIPATEN"}, {"id": "3326162002", "district_id": "332616", "name": "DELEGTUKANG"}, {"id": "3326162003", "district_id": "332616", "name": "KARANGJATI"}, {"id": "3326162004", "district_id": "332616", "name": "PETUKANGAN"}, {"id": "3326162005", "district_id": "332616", "name": "WIRADESA"}, {"id": "3326162006", "district_id": "332616", "name": "WARUKIDUL"}, {"id": "3326162007", "district_id": "332616", "name": "BONDANSARI"}, {"id": "3326162008", "district_id": "332616", "name": "WARULOR"}, {"id": "3326162009", "district_id": "332616", "name": "KAMPIL"}, {"id": "3326162015", "district_id": "332616", "name": "KEMPLONG"}, {"id": "3326162016", "district_id": "332616", "name": "KAUMAN"}]
+[
+  {
+    "id": "3326161010",
+    "district_id": "332616",
+    "name": "GUMAWANG"
+  },
+  {
+    "id": "3326161011",
+    "district_id": "332616",
+    "name": "KEPATIHAN"
+  },
+  {
+    "id": "3326161012",
+    "district_id": "332616",
+    "name": "MAYANGAN"
+  },
+  {
+    "id": "3326161013",
+    "district_id": "332616",
+    "name": "PEKUNCEN"
+  },
+  {
+    "id": "3326161014",
+    "district_id": "332616",
+    "name": "BENER"
+  },
+  {
+    "id": "3326162001",
+    "district_id": "332616",
+    "name": "KADIPATEN"
+  },
+  {
+    "id": "3326162002",
+    "district_id": "332616",
+    "name": "DELEGTUKANG"
+  },
+  {
+    "id": "3326162003",
+    "district_id": "332616",
+    "name": "KARANGJATI"
+  },
+  {
+    "id": "3326162004",
+    "district_id": "332616",
+    "name": "PETUKANGAN"
+  },
+  {
+    "id": "3326162005",
+    "district_id": "332616",
+    "name": "WIRADESA"
+  },
+  {
+    "id": "3326162006",
+    "district_id": "332616",
+    "name": "WARUKIDUL"
+  },
+  {
+    "id": "3326162007",
+    "district_id": "332616",
+    "name": "BONDANSARI"
+  },
+  {
+    "id": "3326162008",
+    "district_id": "332616",
+    "name": "WARULOR"
+  },
+  {
+    "id": "3326162009",
+    "district_id": "332616",
+    "name": "KAMPIL"
+  },
+  {
+    "id": "3326162015",
+    "district_id": "332616",
+    "name": "KEMPLONG"
+  },
+  {
+    "id": "3326162016",
+    "district_id": "332616",
+    "name": "KAUMAN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "7603061001", "district_id": "760306", "name": "SUMARORONG"}, {"id": "7603061002", "district_id": "760306", "name": "TABONE"}, {"id": "7603062003", "district_id": "760306", "name": "BATANG URU"}, {"id": "7603062004", "district_id": "760306", "name": "SASAKAN"}, {"id": "7603062005", "district_id": "760306", "name": "TADISI"}, {"id": "7603062006", "district_id": "760306", "name": "SIBANAWA"}, {"id": "7603062007", "district_id": "760306", "name": "BATANGNGURU TIMUR"}, {"id": "7603062008", "district_id": "760306", "name": "SALUBALO"}, {"id": "7603062009", "district_id": "760306", "name": "BANEA"}, {"id": "7603062010", "district_id": "760306", "name": "RANTE KAMASE"}]
+[
+  {
+    "id": "7603061001",
+    "district_id": "760306",
+    "name": "SUMARORONG"
+  },
+  {
+    "id": "7603061002",
+    "district_id": "760306",
+    "name": "TABONE"
+  },
+  {
+    "id": "7603062003",
+    "district_id": "760306",
+    "name": "BATANG URU"
+  },
+  {
+    "id": "7603062004",
+    "district_id": "760306",
+    "name": "SASAKAN"
+  },
+  {
+    "id": "7603062005",
+    "district_id": "760306",
+    "name": "TADISI"
+  },
+  {
+    "id": "7603062006",
+    "district_id": "760306",
+    "name": "SIBANAWA"
+  },
+  {
+    "id": "7603062007",
+    "district_id": "760306",
+    "name": "BATANGNGURU TIMUR"
+  },
+  {
+    "id": "7603062008",
+    "district_id": "760306",
+    "name": "SALUBALO"
+  },
+  {
+    "id": "7603062009",
+    "district_id": "760306",
+    "name": "BANEA"
+  },
+  {
+    "id": "7603062010",
+    "district_id": "760306",
+    "name": "RANTE KAMASE"
+  }
+]

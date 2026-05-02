@@ -1,1 +1,32 @@
-[{"id": "9404172001", "district_id": "940417", "name": "AMAR"}, {"id": "9404172002", "district_id": "940417", "name": "KAWAR"}, {"id": "9404172003", "district_id": "940417", "name": "MANUARE"}, {"id": "9404172004", "district_id": "940417", "name": "IPIRI"}, {"id": "9404172005", "district_id": "940417", "name": "PARIPI"}, {"id": "9404172006", "district_id": "940417", "name": "YARAYA"}]
+[
+  {
+    "id": "9404172001",
+    "district_id": "940417",
+    "name": "AMAR"
+  },
+  {
+    "id": "9404172002",
+    "district_id": "940417",
+    "name": "KAWAR"
+  },
+  {
+    "id": "9404172003",
+    "district_id": "940417",
+    "name": "MANUARE"
+  },
+  {
+    "id": "9404172004",
+    "district_id": "940417",
+    "name": "IPIRI"
+  },
+  {
+    "id": "9404172005",
+    "district_id": "940417",
+    "name": "PARIPI"
+  },
+  {
+    "id": "9404172006",
+    "district_id": "940417",
+    "name": "YARAYA"
+  }
+]

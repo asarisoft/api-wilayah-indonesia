@@ -1,1 +1,22 @@
-[{"id": "2102092002", "district_id": "210209", "name": "SANGLAR"}, {"id": "2102092003", "district_id": "210209", "name": "TANJUNG KILANG"}, {"id": "2102092004", "district_id": "210209", "name": "SEMEMBANG"}, {"id": "2102092005", "district_id": "210209", "name": "TELAGA TUJUH"}]
+[
+  {
+    "id": "2102092002",
+    "district_id": "210209",
+    "name": "SANGLAR"
+  },
+  {
+    "id": "2102092003",
+    "district_id": "210209",
+    "name": "TANJUNG KILANG"
+  },
+  {
+    "id": "2102092004",
+    "district_id": "210209",
+    "name": "SEMEMBANG"
+  },
+  {
+    "id": "2102092005",
+    "district_id": "210209",
+    "name": "TELAGA TUJUH"
+  }
+]

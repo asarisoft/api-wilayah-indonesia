@@ -1,1 +1,127 @@
-[{"id": "120908", "regency_id": "1209", "name": "MERANTI"}, {"id": "120909", "regency_id": "1209", "name": "AIR JOMAN"}, {"id": "120910", "regency_id": "1209", "name": "TANJUNG BALAI"}, {"id": "120911", "regency_id": "1209", "name": "SEI KEPAYANG"}, {"id": "120912", "regency_id": "1209", "name": "SIMPANG EMPAT"}, {"id": "120913", "regency_id": "1209", "name": "AIR BATU"}, {"id": "120914", "regency_id": "1209", "name": "PULAU RAKYAT"}, {"id": "120915", "regency_id": "1209", "name": "BANDAR PULAU"}, {"id": "120916", "regency_id": "1209", "name": "BUNTU PANE"}, {"id": "120917", "regency_id": "1209", "name": "BANDAR PASIR MANDOGE"}, {"id": "120918", "regency_id": "1209", "name": "AEK KUASAN"}, {"id": "120919", "regency_id": "1209", "name": "KOTA KISARAN BARAT"}, {"id": "120920", "regency_id": "1209", "name": "KOTA KISARAN TIMUR"}, {"id": "120921", "regency_id": "1209", "name": "AEK SONGSONGAN"}, {"id": "120922", "regency_id": "1209", "name": "RAHUNING"}, {"id": "120923", "regency_id": "1209", "name": "SEI DADAP"}, {"id": "120924", "regency_id": "1209", "name": "SEI KEPAYANG BARAT"}, {"id": "120925", "regency_id": "1209", "name": "SEI KEPAYANG TIMUR"}, {"id": "120926", "regency_id": "1209", "name": "TINGGI RAJA"}, {"id": "120927", "regency_id": "1209", "name": "SETIA JANJI"}, {"id": "120928", "regency_id": "1209", "name": "SILAU LAUT"}, {"id": "120929", "regency_id": "1209", "name": "RAWANG PANCA ARGA"}, {"id": "120930", "regency_id": "1209", "name": "PULO BANDRING"}, {"id": "120931", "regency_id": "1209", "name": "TELUK DALAM"}, {"id": "120932", "regency_id": "1209", "name": "AEK LEDONG"}]
+[
+  {
+    "id": "120908",
+    "regency_id": "1209",
+    "name": "MERANTI"
+  },
+  {
+    "id": "120909",
+    "regency_id": "1209",
+    "name": "AIR JOMAN"
+  },
+  {
+    "id": "120910",
+    "regency_id": "1209",
+    "name": "TANJUNG BALAI"
+  },
+  {
+    "id": "120911",
+    "regency_id": "1209",
+    "name": "SEI KEPAYANG"
+  },
+  {
+    "id": "120912",
+    "regency_id": "1209",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "120913",
+    "regency_id": "1209",
+    "name": "AIR BATU"
+  },
+  {
+    "id": "120914",
+    "regency_id": "1209",
+    "name": "PULAU RAKYAT"
+  },
+  {
+    "id": "120915",
+    "regency_id": "1209",
+    "name": "BANDAR PULAU"
+  },
+  {
+    "id": "120916",
+    "regency_id": "1209",
+    "name": "BUNTU PANE"
+  },
+  {
+    "id": "120917",
+    "regency_id": "1209",
+    "name": "BANDAR PASIR MANDOGE"
+  },
+  {
+    "id": "120918",
+    "regency_id": "1209",
+    "name": "AEK KUASAN"
+  },
+  {
+    "id": "120919",
+    "regency_id": "1209",
+    "name": "KOTA KISARAN BARAT"
+  },
+  {
+    "id": "120920",
+    "regency_id": "1209",
+    "name": "KOTA KISARAN TIMUR"
+  },
+  {
+    "id": "120921",
+    "regency_id": "1209",
+    "name": "AEK SONGSONGAN"
+  },
+  {
+    "id": "120922",
+    "regency_id": "1209",
+    "name": "RAHUNING"
+  },
+  {
+    "id": "120923",
+    "regency_id": "1209",
+    "name": "SEI DADAP"
+  },
+  {
+    "id": "120924",
+    "regency_id": "1209",
+    "name": "SEI KEPAYANG BARAT"
+  },
+  {
+    "id": "120925",
+    "regency_id": "1209",
+    "name": "SEI KEPAYANG TIMUR"
+  },
+  {
+    "id": "120926",
+    "regency_id": "1209",
+    "name": "TINGGI RAJA"
+  },
+  {
+    "id": "120927",
+    "regency_id": "1209",
+    "name": "SETIA JANJI"
+  },
+  {
+    "id": "120928",
+    "regency_id": "1209",
+    "name": "SILAU LAUT"
+  },
+  {
+    "id": "120929",
+    "regency_id": "1209",
+    "name": "RAWANG PANCA ARGA"
+  },
+  {
+    "id": "120930",
+    "regency_id": "1209",
+    "name": "PULO BANDRING"
+  },
+  {
+    "id": "120931",
+    "regency_id": "1209",
+    "name": "TELUK DALAM"
+  },
+  {
+    "id": "120932",
+    "regency_id": "1209",
+    "name": "AEK LEDONG"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "9302122001", "district_id": "930212", "name": "MANGGELUM"}, {"id": "9302122002", "district_id": "930212", "name": "BURUNGGOP"}, {"id": "9302122003", "district_id": "930212", "name": "BAYANGGOP"}, {"id": "9302122004", "district_id": "930212", "name": "GAGUOP"}, {"id": "9302122005", "district_id": "930212", "name": "KEWAM"}, {"id": "9302122006", "district_id": "930212", "name": "MANGGA TIGA"}]
+[
+  {
+    "id": "9302122001",
+    "district_id": "930212",
+    "name": "MANGGELUM"
+  },
+  {
+    "id": "9302122002",
+    "district_id": "930212",
+    "name": "BURUNGGOP"
+  },
+  {
+    "id": "9302122003",
+    "district_id": "930212",
+    "name": "BAYANGGOP"
+  },
+  {
+    "id": "9302122004",
+    "district_id": "930212",
+    "name": "GAGUOP"
+  },
+  {
+    "id": "9302122005",
+    "district_id": "930212",
+    "name": "KEWAM"
+  },
+  {
+    "id": "9302122006",
+    "district_id": "930212",
+    "name": "MANGGA TIGA"
+  }
+]

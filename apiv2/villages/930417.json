@@ -1,1 +1,42 @@
-[{"id": "9304172001", "district_id": "930417", "name": "YAUSAKOR"}, {"id": "9304172002", "district_id": "930417", "name": "DAMEN"}, {"id": "9304172003", "district_id": "930417", "name": "BIWAR DARAT"}, {"id": "9304172004", "district_id": "930417", "name": "KAIMO"}, {"id": "9304172005", "district_id": "930417", "name": "AWOK"}, {"id": "9304172006", "district_id": "930417", "name": "FOS"}, {"id": "9304172007", "district_id": "930417", "name": "WAGANU"}, {"id": "9304172008", "district_id": "930417", "name": "SAKOR"}]
+[
+  {
+    "id": "9304172001",
+    "district_id": "930417",
+    "name": "YAUSAKOR"
+  },
+  {
+    "id": "9304172002",
+    "district_id": "930417",
+    "name": "DAMEN"
+  },
+  {
+    "id": "9304172003",
+    "district_id": "930417",
+    "name": "BIWAR DARAT"
+  },
+  {
+    "id": "9304172004",
+    "district_id": "930417",
+    "name": "KAIMO"
+  },
+  {
+    "id": "9304172005",
+    "district_id": "930417",
+    "name": "AWOK"
+  },
+  {
+    "id": "9304172006",
+    "district_id": "930417",
+    "name": "FOS"
+  },
+  {
+    "id": "9304172007",
+    "district_id": "930417",
+    "name": "WAGANU"
+  },
+  {
+    "id": "9304172008",
+    "district_id": "930417",
+    "name": "SAKOR"
+  }
+]

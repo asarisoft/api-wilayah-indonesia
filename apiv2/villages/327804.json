@@ -1,1 +1,32 @@
-[{"id": "3278041003", "district_id": "327804", "name": "INDIHIANG"}, {"id": "3278041004", "district_id": "327804", "name": "SIRNAGALIH"}, {"id": "3278041005", "district_id": "327804", "name": "PARAKANNYASAG"}, {"id": "3278041006", "district_id": "327804", "name": "PANYINGKIRAN"}, {"id": "3278041007", "district_id": "327804", "name": "SUKAMAJU KALER"}, {"id": "3278041008", "district_id": "327804", "name": "SUKAMAJU KIDUL"}]
+[
+  {
+    "id": "3278041003",
+    "district_id": "327804",
+    "name": "INDIHIANG"
+  },
+  {
+    "id": "3278041004",
+    "district_id": "327804",
+    "name": "SIRNAGALIH"
+  },
+  {
+    "id": "3278041005",
+    "district_id": "327804",
+    "name": "PARAKANNYASAG"
+  },
+  {
+    "id": "3278041006",
+    "district_id": "327804",
+    "name": "PANYINGKIRAN"
+  },
+  {
+    "id": "3278041007",
+    "district_id": "327804",
+    "name": "SUKAMAJU KALER"
+  },
+  {
+    "id": "3278041008",
+    "district_id": "327804",
+    "name": "SUKAMAJU KIDUL"
+  }
+]

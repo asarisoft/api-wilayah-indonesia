@@ -1,1 +1,52 @@
-[{"id": "9605152001", "district_id": "960515", "name": "SAUF"}, {"id": "9605152002", "district_id": "960515", "name": "SEMBARO"}, {"id": "9605152003", "district_id": "960515", "name": "KOMA KOMA"}, {"id": "9605152004", "district_id": "960515", "name": "KANISABAR"}, {"id": "9605152005", "district_id": "960515", "name": "SFARARE"}, {"id": "9605152006", "district_id": "960515", "name": "SANEH"}, {"id": "9605152007", "district_id": "960515", "name": "LEMAUK KLIT"}, {"id": "9605152008", "district_id": "960515", "name": "HAWIOH"}, {"id": "9605152009", "district_id": "960515", "name": "SIMIYAH"}, {"id": "9605152010", "district_id": "960515", "name": "SAGRIM"}]
+[
+  {
+    "id": "9605152001",
+    "district_id": "960515",
+    "name": "SAUF"
+  },
+  {
+    "id": "9605152002",
+    "district_id": "960515",
+    "name": "SEMBARO"
+  },
+  {
+    "id": "9605152003",
+    "district_id": "960515",
+    "name": "KOMA KOMA"
+  },
+  {
+    "id": "9605152004",
+    "district_id": "960515",
+    "name": "KANISABAR"
+  },
+  {
+    "id": "9605152005",
+    "district_id": "960515",
+    "name": "SFARARE"
+  },
+  {
+    "id": "9605152006",
+    "district_id": "960515",
+    "name": "SANEH"
+  },
+  {
+    "id": "9605152007",
+    "district_id": "960515",
+    "name": "LEMAUK KLIT"
+  },
+  {
+    "id": "9605152008",
+    "district_id": "960515",
+    "name": "HAWIOH"
+  },
+  {
+    "id": "9605152009",
+    "district_id": "960515",
+    "name": "SIMIYAH"
+  },
+  {
+    "id": "9605152010",
+    "district_id": "960515",
+    "name": "SAGRIM"
+  }
+]

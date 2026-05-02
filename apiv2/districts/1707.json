@@ -1,1 +1,62 @@
-[{"id": "170701", "regency_id": "1707", "name": "LEBONG UTARA"}, {"id": "170702", "regency_id": "1707", "name": "LEBONG ATAS"}, {"id": "170703", "regency_id": "1707", "name": "LEBONG TENGAH"}, {"id": "170704", "regency_id": "1707", "name": "LEBONG SELATAN"}, {"id": "170705", "regency_id": "1707", "name": "RIMBO PENGADANG"}, {"id": "170706", "regency_id": "1707", "name": "TOPOS"}, {"id": "170707", "regency_id": "1707", "name": "BINGIN KUNING"}, {"id": "170708", "regency_id": "1707", "name": "LEBONG SAKTI"}, {"id": "170709", "regency_id": "1707", "name": "TUBEI"}, {"id": "170710", "regency_id": "1707", "name": "AMEN"}, {"id": "170711", "regency_id": "1707", "name": "URAM JAYA"}, {"id": "170712", "regency_id": "1707", "name": "PINANG BELAPIS"}]
+[
+  {
+    "id": "170701",
+    "regency_id": "1707",
+    "name": "LEBONG UTARA"
+  },
+  {
+    "id": "170702",
+    "regency_id": "1707",
+    "name": "LEBONG ATAS"
+  },
+  {
+    "id": "170703",
+    "regency_id": "1707",
+    "name": "LEBONG TENGAH"
+  },
+  {
+    "id": "170704",
+    "regency_id": "1707",
+    "name": "LEBONG SELATAN"
+  },
+  {
+    "id": "170705",
+    "regency_id": "1707",
+    "name": "RIMBO PENGADANG"
+  },
+  {
+    "id": "170706",
+    "regency_id": "1707",
+    "name": "TOPOS"
+  },
+  {
+    "id": "170707",
+    "regency_id": "1707",
+    "name": "BINGIN KUNING"
+  },
+  {
+    "id": "170708",
+    "regency_id": "1707",
+    "name": "LEBONG SAKTI"
+  },
+  {
+    "id": "170709",
+    "regency_id": "1707",
+    "name": "TUBEI"
+  },
+  {
+    "id": "170710",
+    "regency_id": "1707",
+    "name": "AMEN"
+  },
+  {
+    "id": "170711",
+    "regency_id": "1707",
+    "name": "URAM JAYA"
+  },
+  {
+    "id": "170712",
+    "regency_id": "1707",
+    "name": "PINANG BELAPIS"
+  }
+]

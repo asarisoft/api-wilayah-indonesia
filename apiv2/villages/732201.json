@@ -1,1 +1,72 @@
-[{"id": "7322012001", "district_id": "732201", "name": "PATTIMANG"}, {"id": "7322012002", "district_id": "732201", "name": "MALANGKE"}, {"id": "7322012003", "district_id": "732201", "name": "BENTENG"}, {"id": "7322012004", "district_id": "732201", "name": "TOLADA"}, {"id": "7322012005", "district_id": "732201", "name": "SALEKOE"}, {"id": "7322012006", "district_id": "732201", "name": "PUTE MATA"}, {"id": "7322012007", "district_id": "732201", "name": "TINGKARA"}, {"id": "7322012008", "district_id": "732201", "name": "LADONGI"}, {"id": "7322012009", "district_id": "732201", "name": "GIRI KUSUMA"}, {"id": "7322012010", "district_id": "732201", "name": "TANDUNG"}, {"id": "7322012011", "district_id": "732201", "name": "TAKKALALA"}, {"id": "7322012012", "district_id": "732201", "name": "PETTALANDUNG"}, {"id": "7322012013", "district_id": "732201", "name": "TOKKE"}, {"id": "7322012014", "district_id": "732201", "name": "PINCE PUTE"}]
+[
+  {
+    "id": "7322012001",
+    "district_id": "732201",
+    "name": "PATTIMANG"
+  },
+  {
+    "id": "7322012002",
+    "district_id": "732201",
+    "name": "MALANGKE"
+  },
+  {
+    "id": "7322012003",
+    "district_id": "732201",
+    "name": "BENTENG"
+  },
+  {
+    "id": "7322012004",
+    "district_id": "732201",
+    "name": "TOLADA"
+  },
+  {
+    "id": "7322012005",
+    "district_id": "732201",
+    "name": "SALEKOE"
+  },
+  {
+    "id": "7322012006",
+    "district_id": "732201",
+    "name": "PUTE MATA"
+  },
+  {
+    "id": "7322012007",
+    "district_id": "732201",
+    "name": "TINGKARA"
+  },
+  {
+    "id": "7322012008",
+    "district_id": "732201",
+    "name": "LADONGI"
+  },
+  {
+    "id": "7322012009",
+    "district_id": "732201",
+    "name": "GIRI KUSUMA"
+  },
+  {
+    "id": "7322012010",
+    "district_id": "732201",
+    "name": "TANDUNG"
+  },
+  {
+    "id": "7322012011",
+    "district_id": "732201",
+    "name": "TAKKALALA"
+  },
+  {
+    "id": "7322012012",
+    "district_id": "732201",
+    "name": "PETTALANDUNG"
+  },
+  {
+    "id": "7322012013",
+    "district_id": "732201",
+    "name": "TOKKE"
+  },
+  {
+    "id": "7322012014",
+    "district_id": "732201",
+    "name": "PINCE PUTE"
+  }
+]

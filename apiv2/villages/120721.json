@@ -1,1 +1,42 @@
-[{"id": "1207212001", "district_id": "120721", "name": "LANTASAN BARU"}, {"id": "1207212002", "district_id": "120721", "name": "PATUMBAK I"}, {"id": "1207212003", "district_id": "120721", "name": "PATUMBAK II"}, {"id": "1207212004", "district_id": "120721", "name": "LANTASAN LAMA"}, {"id": "1207212005", "district_id": "120721", "name": "SIGARA-GARA"}, {"id": "1207212006", "district_id": "120721", "name": "MARINDAL I"}, {"id": "1207212007", "district_id": "120721", "name": "MARINDAL II"}, {"id": "1207212008", "district_id": "120721", "name": "PATUMBAK KAMPUNG"}]
+[
+  {
+    "id": "1207212001",
+    "district_id": "120721",
+    "name": "LANTASAN BARU"
+  },
+  {
+    "id": "1207212002",
+    "district_id": "120721",
+    "name": "PATUMBAK I"
+  },
+  {
+    "id": "1207212003",
+    "district_id": "120721",
+    "name": "PATUMBAK II"
+  },
+  {
+    "id": "1207212004",
+    "district_id": "120721",
+    "name": "LANTASAN LAMA"
+  },
+  {
+    "id": "1207212005",
+    "district_id": "120721",
+    "name": "SIGARA-GARA"
+  },
+  {
+    "id": "1207212006",
+    "district_id": "120721",
+    "name": "MARINDAL I"
+  },
+  {
+    "id": "1207212007",
+    "district_id": "120721",
+    "name": "MARINDAL II"
+  },
+  {
+    "id": "1207212008",
+    "district_id": "120721",
+    "name": "PATUMBAK KAMPUNG"
+  }
+]

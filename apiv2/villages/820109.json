@@ -1,1 +1,92 @@
-[{"id": "8201092001", "district_id": "820109", "name": "LOCE"}, {"id": "8201092002", "district_id": "820109", "name": "IDAM GAMLAMO"}, {"id": "8201092003", "district_id": "820109", "name": "GAMOMENG"}, {"id": "8201092004", "district_id": "820109", "name": "AKELAMO"}, {"id": "8201092005", "district_id": "820109", "name": "TARAUDU KUSU"}, {"id": "8201092006", "district_id": "820109", "name": "AWER"}, {"id": "8201092007", "district_id": "820109", "name": "AKETOLA"}, {"id": "8201092008", "district_id": "820109", "name": "TIBOBO"}, {"id": "8201092009", "district_id": "820109", "name": "HOKU- HOKU GAM"}, {"id": "8201092010", "district_id": "820109", "name": "GAMIYEL"}, {"id": "8201092011", "district_id": "820109", "name": "GOLAGO KUSUMA"}, {"id": "8201092012", "district_id": "820109", "name": "NGAON"}, {"id": "8201092013", "district_id": "820109", "name": "GAMSUGI"}, {"id": "8201092014", "district_id": "820109", "name": "TABA CAMPAKA"}, {"id": "8201092015", "district_id": "820109", "name": "CAMPAKA"}, {"id": "8201092016", "district_id": "820109", "name": "GOAL"}, {"id": "8201092017", "district_id": "820109", "name": "SIDODADI"}, {"id": "8201092018", "district_id": "820109", "name": "AIR PANAS"}]
+[
+  {
+    "id": "8201092001",
+    "district_id": "820109",
+    "name": "LOCE"
+  },
+  {
+    "id": "8201092002",
+    "district_id": "820109",
+    "name": "IDAM GAMLAMO"
+  },
+  {
+    "id": "8201092003",
+    "district_id": "820109",
+    "name": "GAMOMENG"
+  },
+  {
+    "id": "8201092004",
+    "district_id": "820109",
+    "name": "AKELAMO"
+  },
+  {
+    "id": "8201092005",
+    "district_id": "820109",
+    "name": "TARAUDU KUSU"
+  },
+  {
+    "id": "8201092006",
+    "district_id": "820109",
+    "name": "AWER"
+  },
+  {
+    "id": "8201092007",
+    "district_id": "820109",
+    "name": "AKETOLA"
+  },
+  {
+    "id": "8201092008",
+    "district_id": "820109",
+    "name": "TIBOBO"
+  },
+  {
+    "id": "8201092009",
+    "district_id": "820109",
+    "name": "HOKU- HOKU GAM"
+  },
+  {
+    "id": "8201092010",
+    "district_id": "820109",
+    "name": "GAMIYEL"
+  },
+  {
+    "id": "8201092011",
+    "district_id": "820109",
+    "name": "GOLAGO KUSUMA"
+  },
+  {
+    "id": "8201092012",
+    "district_id": "820109",
+    "name": "NGAON"
+  },
+  {
+    "id": "8201092013",
+    "district_id": "820109",
+    "name": "GAMSUGI"
+  },
+  {
+    "id": "8201092014",
+    "district_id": "820109",
+    "name": "TABA CAMPAKA"
+  },
+  {
+    "id": "8201092015",
+    "district_id": "820109",
+    "name": "CAMPAKA"
+  },
+  {
+    "id": "8201092016",
+    "district_id": "820109",
+    "name": "GOAL"
+  },
+  {
+    "id": "8201092017",
+    "district_id": "820109",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "8201092018",
+    "district_id": "820109",
+    "name": "AIR PANAS"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "7406112001", "district_id": "740611", "name": "BATU PUTIH"}, {"id": "7406112002", "district_id": "740611", "name": "WAEMPUTANG"}, {"id": "7406112003", "district_id": "740611", "name": "KALI BARU"}, {"id": "7406112004", "district_id": "740611", "name": "AKACIPONG"}, {"id": "7406112005", "district_id": "740611", "name": "LA EA"}]
+[
+  {
+    "id": "7406112001",
+    "district_id": "740611",
+    "name": "BATU PUTIH"
+  },
+  {
+    "id": "7406112002",
+    "district_id": "740611",
+    "name": "WAEMPUTANG"
+  },
+  {
+    "id": "7406112003",
+    "district_id": "740611",
+    "name": "KALI BARU"
+  },
+  {
+    "id": "7406112004",
+    "district_id": "740611",
+    "name": "AKACIPONG"
+  },
+  {
+    "id": "7406112005",
+    "district_id": "740611",
+    "name": "LA EA"
+  }
+]

@@ -1,1 +1,87 @@
-[{"id": "1208041011", "district_id": "120804", "name": "PANEI TONGAH"}, {"id": "1208042001", "district_id": "120804", "name": "JANGGIR LETO"}, {"id": "1208042002", "district_id": "120804", "name": "SIMPANG PANE RAYA"}, {"id": "1208042003", "district_id": "120804", "name": "SIBORNA"}, {"id": "1208042004", "district_id": "120804", "name": "SIPOLDAS"}, {"id": "1208042005", "district_id": "120804", "name": "BANGUN RAKYAT"}, {"id": "1208042006", "district_id": "120804", "name": "SIGODANG"}, {"id": "1208042007", "district_id": "120804", "name": "SIGODANG BARAT"}, {"id": "1208042008", "district_id": "120804", "name": "BAH BOLON TONGAH"}, {"id": "1208042009", "district_id": "120804", "name": "MEKAR SARI RAYA"}, {"id": "1208042010", "district_id": "120804", "name": "SIMANTIN PANE DAME"}, {"id": "1208042012", "district_id": "120804", "name": "SIMPANG RAYA DASMA"}, {"id": "1208042013", "district_id": "120804", "name": "BANGUN DAS MARIAH"}, {"id": "1208042014", "district_id": "120804", "name": "BANGUN SITOLU BAH"}, {"id": "1208042015", "district_id": "120804", "name": "BAH LIRAN SIBORNA"}, {"id": "1208042016", "district_id": "120804", "name": "NAULI BARU"}, {"id": "1208042017", "district_id": "120804", "name": "RAWANG PARDOMUAN NAULI"}]
+[
+  {
+    "id": "1208041011",
+    "district_id": "120804",
+    "name": "PANEI TONGAH"
+  },
+  {
+    "id": "1208042001",
+    "district_id": "120804",
+    "name": "JANGGIR LETO"
+  },
+  {
+    "id": "1208042002",
+    "district_id": "120804",
+    "name": "SIMPANG PANE RAYA"
+  },
+  {
+    "id": "1208042003",
+    "district_id": "120804",
+    "name": "SIBORNA"
+  },
+  {
+    "id": "1208042004",
+    "district_id": "120804",
+    "name": "SIPOLDAS"
+  },
+  {
+    "id": "1208042005",
+    "district_id": "120804",
+    "name": "BANGUN RAKYAT"
+  },
+  {
+    "id": "1208042006",
+    "district_id": "120804",
+    "name": "SIGODANG"
+  },
+  {
+    "id": "1208042007",
+    "district_id": "120804",
+    "name": "SIGODANG BARAT"
+  },
+  {
+    "id": "1208042008",
+    "district_id": "120804",
+    "name": "BAH BOLON TONGAH"
+  },
+  {
+    "id": "1208042009",
+    "district_id": "120804",
+    "name": "MEKAR SARI RAYA"
+  },
+  {
+    "id": "1208042010",
+    "district_id": "120804",
+    "name": "SIMANTIN PANE DAME"
+  },
+  {
+    "id": "1208042012",
+    "district_id": "120804",
+    "name": "SIMPANG RAYA DASMA"
+  },
+  {
+    "id": "1208042013",
+    "district_id": "120804",
+    "name": "BANGUN DAS MARIAH"
+  },
+  {
+    "id": "1208042014",
+    "district_id": "120804",
+    "name": "BANGUN SITOLU BAH"
+  },
+  {
+    "id": "1208042015",
+    "district_id": "120804",
+    "name": "BAH LIRAN SIBORNA"
+  },
+  {
+    "id": "1208042016",
+    "district_id": "120804",
+    "name": "NAULI BARU"
+  },
+  {
+    "id": "1208042017",
+    "district_id": "120804",
+    "name": "RAWANG PARDOMUAN NAULI"
+  }
+]

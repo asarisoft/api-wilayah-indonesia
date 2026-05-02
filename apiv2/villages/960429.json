@@ -1,1 +1,27 @@
-[{"id": "9604292001", "district_id": "960429", "name": "DELLA"}, {"id": "9604292002", "district_id": "960429", "name": "MALAYAUW"}, {"id": "9604292003", "district_id": "960429", "name": "KLASBON"}, {"id": "9604292004", "district_id": "960429", "name": "KLASEI"}, {"id": "9604292005", "district_id": "960429", "name": "KLABILI"}]
+[
+  {
+    "id": "9604292001",
+    "district_id": "960429",
+    "name": "DELLA"
+  },
+  {
+    "id": "9604292002",
+    "district_id": "960429",
+    "name": "MALAYAUW"
+  },
+  {
+    "id": "9604292003",
+    "district_id": "960429",
+    "name": "KLASBON"
+  },
+  {
+    "id": "9604292004",
+    "district_id": "960429",
+    "name": "KLASEI"
+  },
+  {
+    "id": "9604292005",
+    "district_id": "960429",
+    "name": "KLABILI"
+  }
+]

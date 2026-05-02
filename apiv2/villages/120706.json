@@ -1,1 +1,182 @@
-[{"id": "1207062001", "district_id": "120706", "name": "DELI TUA"}, {"id": "1207062002", "district_id": "120706", "name": "JATI KESUMA"}, {"id": "1207062003", "district_id": "120706", "name": "NAMO RAMBE"}, {"id": "1207062004", "district_id": "120706", "name": "GUNUNG KELAWAS"}, {"id": "1207062005", "district_id": "120706", "name": "UJUNG LABUHAN"}, {"id": "1207062006", "district_id": "120706", "name": "LUBANG IDO"}, {"id": "1207062007", "district_id": "120706", "name": "SILUE-LUE"}, {"id": "1207062008", "district_id": "120706", "name": "TIMBANG LAWAN"}, {"id": "1207062009", "district_id": "120706", "name": "BATU MBELIN"}, {"id": "1207062010", "district_id": "120706", "name": "NAMO BATANG"}, {"id": "1207062011", "district_id": "120706", "name": "TANJUNG SELAMAT"}, {"id": "1207062012", "district_id": "120706", "name": "BEKUKUL"}, {"id": "1207062013", "district_id": "120706", "name": "NAMO PAKAM"}, {"id": "1207062014", "district_id": "120706", "name": "SUKA MULIA HILIR"}, {"id": "1207062015", "district_id": "120706", "name": "SUKA MULIA HULU"}, {"id": "1207062016", "district_id": "120706", "name": "RUMAH MBACANG"}, {"id": "1207062017", "district_id": "120706", "name": "CINTA RAKYAT"}, {"id": "1207062018", "district_id": "120706", "name": "BATU PENJEMURAN"}, {"id": "1207062019", "district_id": "120706", "name": "KUTA TENGAH"}, {"id": "1207062020", "district_id": "120706", "name": "NAMO LANDUR"}, {"id": "1207062021", "district_id": "120706", "name": "GUNUNG BERITA"}, {"id": "1207062022", "district_id": "120706", "name": "TANGKAHAN"}, {"id": "1207062023", "district_id": "120706", "name": "URUK GEDANG"}, {"id": "1207062024", "district_id": "120706", "name": "RUMAH KEBEN"}, {"id": "1207062025", "district_id": "120706", "name": "NAMO PINANG"}, {"id": "1207062026", "district_id": "120706", "name": "SUDI REJO"}, {"id": "1207062027", "district_id": "120706", "name": "JABA"}, {"id": "1207062028", "district_id": "120706", "name": "KUTA TUALAH"}, {"id": "1207062029", "district_id": "120706", "name": "KWALA SIMEME"}, {"id": "1207062030", "district_id": "120706", "name": "BATU GEMUK"}, {"id": "1207062031", "district_id": "120706", "name": "LAU MULGAP"}, {"id": "1207062032", "district_id": "120706", "name": "BATU REJO"}, {"id": "1207062033", "district_id": "120706", "name": "SALANG TUNGIR"}, {"id": "1207062034", "district_id": "120706", "name": "NAMO MBARU"}, {"id": "1207062035", "district_id": "120706", "name": "RIMO MUNGKUR"}, {"id": "1207062036", "district_id": "120706", "name": "NAMO MBELIN"}]
+[
+  {
+    "id": "1207062001",
+    "district_id": "120706",
+    "name": "DELI TUA"
+  },
+  {
+    "id": "1207062002",
+    "district_id": "120706",
+    "name": "JATI KESUMA"
+  },
+  {
+    "id": "1207062003",
+    "district_id": "120706",
+    "name": "NAMO RAMBE"
+  },
+  {
+    "id": "1207062004",
+    "district_id": "120706",
+    "name": "GUNUNG KELAWAS"
+  },
+  {
+    "id": "1207062005",
+    "district_id": "120706",
+    "name": "UJUNG LABUHAN"
+  },
+  {
+    "id": "1207062006",
+    "district_id": "120706",
+    "name": "LUBANG IDO"
+  },
+  {
+    "id": "1207062007",
+    "district_id": "120706",
+    "name": "SILUE-LUE"
+  },
+  {
+    "id": "1207062008",
+    "district_id": "120706",
+    "name": "TIMBANG LAWAN"
+  },
+  {
+    "id": "1207062009",
+    "district_id": "120706",
+    "name": "BATU MBELIN"
+  },
+  {
+    "id": "1207062010",
+    "district_id": "120706",
+    "name": "NAMO BATANG"
+  },
+  {
+    "id": "1207062011",
+    "district_id": "120706",
+    "name": "TANJUNG SELAMAT"
+  },
+  {
+    "id": "1207062012",
+    "district_id": "120706",
+    "name": "BEKUKUL"
+  },
+  {
+    "id": "1207062013",
+    "district_id": "120706",
+    "name": "NAMO PAKAM"
+  },
+  {
+    "id": "1207062014",
+    "district_id": "120706",
+    "name": "SUKA MULIA HILIR"
+  },
+  {
+    "id": "1207062015",
+    "district_id": "120706",
+    "name": "SUKA MULIA HULU"
+  },
+  {
+    "id": "1207062016",
+    "district_id": "120706",
+    "name": "RUMAH MBACANG"
+  },
+  {
+    "id": "1207062017",
+    "district_id": "120706",
+    "name": "CINTA RAKYAT"
+  },
+  {
+    "id": "1207062018",
+    "district_id": "120706",
+    "name": "BATU PENJEMURAN"
+  },
+  {
+    "id": "1207062019",
+    "district_id": "120706",
+    "name": "KUTA TENGAH"
+  },
+  {
+    "id": "1207062020",
+    "district_id": "120706",
+    "name": "NAMO LANDUR"
+  },
+  {
+    "id": "1207062021",
+    "district_id": "120706",
+    "name": "GUNUNG BERITA"
+  },
+  {
+    "id": "1207062022",
+    "district_id": "120706",
+    "name": "TANGKAHAN"
+  },
+  {
+    "id": "1207062023",
+    "district_id": "120706",
+    "name": "URUK GEDANG"
+  },
+  {
+    "id": "1207062024",
+    "district_id": "120706",
+    "name": "RUMAH KEBEN"
+  },
+  {
+    "id": "1207062025",
+    "district_id": "120706",
+    "name": "NAMO PINANG"
+  },
+  {
+    "id": "1207062026",
+    "district_id": "120706",
+    "name": "SUDI REJO"
+  },
+  {
+    "id": "1207062027",
+    "district_id": "120706",
+    "name": "JABA"
+  },
+  {
+    "id": "1207062028",
+    "district_id": "120706",
+    "name": "KUTA TUALAH"
+  },
+  {
+    "id": "1207062029",
+    "district_id": "120706",
+    "name": "KWALA SIMEME"
+  },
+  {
+    "id": "1207062030",
+    "district_id": "120706",
+    "name": "BATU GEMUK"
+  },
+  {
+    "id": "1207062031",
+    "district_id": "120706",
+    "name": "LAU MULGAP"
+  },
+  {
+    "id": "1207062032",
+    "district_id": "120706",
+    "name": "BATU REJO"
+  },
+  {
+    "id": "1207062033",
+    "district_id": "120706",
+    "name": "SALANG TUNGIR"
+  },
+  {
+    "id": "1207062034",
+    "district_id": "120706",
+    "name": "NAMO MBARU"
+  },
+  {
+    "id": "1207062035",
+    "district_id": "120706",
+    "name": "RIMO MUNGKUR"
+  },
+  {
+    "id": "1207062036",
+    "district_id": "120706",
+    "name": "NAMO MBELIN"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "9601202001", "district_id": "960120", "name": "SALUK"}, {"id": "9601202002", "district_id": "960120", "name": "KLAWAREN"}, {"id": "9601202003", "district_id": "960120", "name": "WOLOIN"}, {"id": "9601202004", "district_id": "960120", "name": "KLALIN MOS"}, {"id": "9601202005", "district_id": "960120", "name": "KWARI"}, {"id": "9601202006", "district_id": "960120", "name": "KAMLIN"}]
+[
+  {
+    "id": "9601202001",
+    "district_id": "960120",
+    "name": "SALUK"
+  },
+  {
+    "id": "9601202002",
+    "district_id": "960120",
+    "name": "KLAWAREN"
+  },
+  {
+    "id": "9601202003",
+    "district_id": "960120",
+    "name": "WOLOIN"
+  },
+  {
+    "id": "9601202004",
+    "district_id": "960120",
+    "name": "KLALIN MOS"
+  },
+  {
+    "id": "9601202005",
+    "district_id": "960120",
+    "name": "KWARI"
+  },
+  {
+    "id": "9601202006",
+    "district_id": "960120",
+    "name": "KAMLIN"
+  }
+]

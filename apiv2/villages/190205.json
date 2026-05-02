@@ -1,1 +1,37 @@
-[{"id": "1902052001", "district_id": "190205", "name": "BADAU"}, {"id": "1902052002", "district_id": "190205", "name": "AIR BATU BUDING"}, {"id": "1902052003", "district_id": "190205", "name": "SUNGAI SAMAK"}, {"id": "1902052004", "district_id": "190205", "name": "KACANG BUTOR"}, {"id": "1902052005", "district_id": "190205", "name": "CERUCUK"}, {"id": "1902052006", "district_id": "190205", "name": "PEGANTUNGAN"}, {"id": "1902052007", "district_id": "190205", "name": "IBUL"}]
+[
+  {
+    "id": "1902052001",
+    "district_id": "190205",
+    "name": "BADAU"
+  },
+  {
+    "id": "1902052002",
+    "district_id": "190205",
+    "name": "AIR BATU BUDING"
+  },
+  {
+    "id": "1902052003",
+    "district_id": "190205",
+    "name": "SUNGAI SAMAK"
+  },
+  {
+    "id": "1902052004",
+    "district_id": "190205",
+    "name": "KACANG BUTOR"
+  },
+  {
+    "id": "1902052005",
+    "district_id": "190205",
+    "name": "CERUCUK"
+  },
+  {
+    "id": "1902052006",
+    "district_id": "190205",
+    "name": "PEGANTUNGAN"
+  },
+  {
+    "id": "1902052007",
+    "district_id": "190205",
+    "name": "IBUL"
+  }
+]

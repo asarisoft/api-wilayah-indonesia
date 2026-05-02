@@ -1,1 +1,102 @@
-[{"id": "351801", "regency_id": "3518", "name": "SAWAHAN"}, {"id": "351802", "regency_id": "3518", "name": "NGETOS"}, {"id": "351803", "regency_id": "3518", "name": "BERBEK"}, {"id": "351804", "regency_id": "3518", "name": "LOCERET"}, {"id": "351805", "regency_id": "3518", "name": "PACE"}, {"id": "351806", "regency_id": "3518", "name": "PRAMBON"}, {"id": "351807", "regency_id": "3518", "name": "NGRONGGOT"}, {"id": "351808", "regency_id": "3518", "name": "KERTOSONO"}, {"id": "351809", "regency_id": "3518", "name": "PATIANROWO"}, {"id": "351810", "regency_id": "3518", "name": "BARON"}, {"id": "351811", "regency_id": "3518", "name": "TANJUNGANOM"}, {"id": "351812", "regency_id": "3518", "name": "SUKOMORO"}, {"id": "351813", "regency_id": "3518", "name": "NGANJUK"}, {"id": "351814", "regency_id": "3518", "name": "BAGOR"}, {"id": "351815", "regency_id": "3518", "name": "WILANGAN"}, {"id": "351816", "regency_id": "3518", "name": "REJOSO"}, {"id": "351817", "regency_id": "3518", "name": "GONDANG"}, {"id": "351818", "regency_id": "3518", "name": "NGLUYU"}, {"id": "351819", "regency_id": "3518", "name": "LENGKONG"}, {"id": "351820", "regency_id": "3518", "name": "JATIKALEN"}]
+[
+  {
+    "id": "351801",
+    "regency_id": "3518",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "351802",
+    "regency_id": "3518",
+    "name": "NGETOS"
+  },
+  {
+    "id": "351803",
+    "regency_id": "3518",
+    "name": "BERBEK"
+  },
+  {
+    "id": "351804",
+    "regency_id": "3518",
+    "name": "LOCERET"
+  },
+  {
+    "id": "351805",
+    "regency_id": "3518",
+    "name": "PACE"
+  },
+  {
+    "id": "351806",
+    "regency_id": "3518",
+    "name": "PRAMBON"
+  },
+  {
+    "id": "351807",
+    "regency_id": "3518",
+    "name": "NGRONGGOT"
+  },
+  {
+    "id": "351808",
+    "regency_id": "3518",
+    "name": "KERTOSONO"
+  },
+  {
+    "id": "351809",
+    "regency_id": "3518",
+    "name": "PATIANROWO"
+  },
+  {
+    "id": "351810",
+    "regency_id": "3518",
+    "name": "BARON"
+  },
+  {
+    "id": "351811",
+    "regency_id": "3518",
+    "name": "TANJUNGANOM"
+  },
+  {
+    "id": "351812",
+    "regency_id": "3518",
+    "name": "SUKOMORO"
+  },
+  {
+    "id": "351813",
+    "regency_id": "3518",
+    "name": "NGANJUK"
+  },
+  {
+    "id": "351814",
+    "regency_id": "3518",
+    "name": "BAGOR"
+  },
+  {
+    "id": "351815",
+    "regency_id": "3518",
+    "name": "WILANGAN"
+  },
+  {
+    "id": "351816",
+    "regency_id": "3518",
+    "name": "REJOSO"
+  },
+  {
+    "id": "351817",
+    "regency_id": "3518",
+    "name": "GONDANG"
+  },
+  {
+    "id": "351818",
+    "regency_id": "3518",
+    "name": "NGLUYU"
+  },
+  {
+    "id": "351819",
+    "regency_id": "3518",
+    "name": "LENGKONG"
+  },
+  {
+    "id": "351820",
+    "regency_id": "3518",
+    "name": "JATIKALEN"
+  }
+]

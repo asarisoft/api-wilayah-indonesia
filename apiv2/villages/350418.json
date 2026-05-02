@@ -1,1 +1,97 @@
-[{"id": "3504182001", "district_id": "350418", "name": "SAMBITAN"}, {"id": "3504182002", "district_id": "350418", "name": "BONO"}, {"id": "3504182003", "district_id": "350418", "name": "SUKOANYAR"}, {"id": "3504182004", "district_id": "350418", "name": "DUWET"}, {"id": "3504182005", "district_id": "350418", "name": "TAMBAN"}, {"id": "3504182006", "district_id": "350418", "name": "NGEBONG"}, {"id": "3504182007", "district_id": "350418", "name": "SODO"}, {"id": "3504182008", "district_id": "350418", "name": "GOMBANG"}, {"id": "3504182009", "district_id": "350418", "name": "PAKEL"}, {"id": "3504182010", "district_id": "350418", "name": "SUWALUH"}, {"id": "3504182011", "district_id": "350418", "name": "PECUK"}, {"id": "3504182012", "district_id": "350418", "name": "BANGUNMULYO"}, {"id": "3504182013", "district_id": "350418", "name": "KASREMAN"}, {"id": "3504182014", "district_id": "350418", "name": "SANAN"}, {"id": "3504182015", "district_id": "350418", "name": "BANGUNJAYA"}, {"id": "3504182016", "district_id": "350418", "name": "NGRANCE"}, {"id": "3504182017", "district_id": "350418", "name": "GEBANG"}, {"id": "3504182018", "district_id": "350418", "name": "GESIKAN"}, {"id": "3504182019", "district_id": "350418", "name": "GEMPOLAN"}]
+[
+  {
+    "id": "3504182001",
+    "district_id": "350418",
+    "name": "SAMBITAN"
+  },
+  {
+    "id": "3504182002",
+    "district_id": "350418",
+    "name": "BONO"
+  },
+  {
+    "id": "3504182003",
+    "district_id": "350418",
+    "name": "SUKOANYAR"
+  },
+  {
+    "id": "3504182004",
+    "district_id": "350418",
+    "name": "DUWET"
+  },
+  {
+    "id": "3504182005",
+    "district_id": "350418",
+    "name": "TAMBAN"
+  },
+  {
+    "id": "3504182006",
+    "district_id": "350418",
+    "name": "NGEBONG"
+  },
+  {
+    "id": "3504182007",
+    "district_id": "350418",
+    "name": "SODO"
+  },
+  {
+    "id": "3504182008",
+    "district_id": "350418",
+    "name": "GOMBANG"
+  },
+  {
+    "id": "3504182009",
+    "district_id": "350418",
+    "name": "PAKEL"
+  },
+  {
+    "id": "3504182010",
+    "district_id": "350418",
+    "name": "SUWALUH"
+  },
+  {
+    "id": "3504182011",
+    "district_id": "350418",
+    "name": "PECUK"
+  },
+  {
+    "id": "3504182012",
+    "district_id": "350418",
+    "name": "BANGUNMULYO"
+  },
+  {
+    "id": "3504182013",
+    "district_id": "350418",
+    "name": "KASREMAN"
+  },
+  {
+    "id": "3504182014",
+    "district_id": "350418",
+    "name": "SANAN"
+  },
+  {
+    "id": "3504182015",
+    "district_id": "350418",
+    "name": "BANGUNJAYA"
+  },
+  {
+    "id": "3504182016",
+    "district_id": "350418",
+    "name": "NGRANCE"
+  },
+  {
+    "id": "3504182017",
+    "district_id": "350418",
+    "name": "GEBANG"
+  },
+  {
+    "id": "3504182018",
+    "district_id": "350418",
+    "name": "GESIKAN"
+  },
+  {
+    "id": "3504182019",
+    "district_id": "350418",
+    "name": "GEMPOLAN"
+  }
+]

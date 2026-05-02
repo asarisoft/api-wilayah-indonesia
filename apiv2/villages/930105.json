@@ -1,1 +1,52 @@
-[{"id": "9301052001", "district_id": "930105", "name": "MATARA"}, {"id": "9301052002", "district_id": "930105", "name": "WANINGGAP NANGGO"}, {"id": "9301052003", "district_id": "930105", "name": "URUMB"}, {"id": "9301052004", "district_id": "930105", "name": "SIDO MULYO"}, {"id": "9301052005", "district_id": "930105", "name": "KUPRIK"}, {"id": "9301052006", "district_id": "930105", "name": "KUPER"}, {"id": "9301052007", "district_id": "930105", "name": "SEMANGGA JAYA"}, {"id": "9301052008", "district_id": "930105", "name": "MARGA MULYA"}, {"id": "9301052009", "district_id": "930105", "name": "MURAM SARI"}, {"id": "9301052010", "district_id": "930105", "name": "WANINGGAP KAI"}]
+[
+  {
+    "id": "9301052001",
+    "district_id": "930105",
+    "name": "MATARA"
+  },
+  {
+    "id": "9301052002",
+    "district_id": "930105",
+    "name": "WANINGGAP NANGGO"
+  },
+  {
+    "id": "9301052003",
+    "district_id": "930105",
+    "name": "URUMB"
+  },
+  {
+    "id": "9301052004",
+    "district_id": "930105",
+    "name": "SIDO MULYO"
+  },
+  {
+    "id": "9301052005",
+    "district_id": "930105",
+    "name": "KUPRIK"
+  },
+  {
+    "id": "9301052006",
+    "district_id": "930105",
+    "name": "KUPER"
+  },
+  {
+    "id": "9301052007",
+    "district_id": "930105",
+    "name": "SEMANGGA JAYA"
+  },
+  {
+    "id": "9301052008",
+    "district_id": "930105",
+    "name": "MARGA MULYA"
+  },
+  {
+    "id": "9301052009",
+    "district_id": "930105",
+    "name": "MURAM SARI"
+  },
+  {
+    "id": "9301052010",
+    "district_id": "930105",
+    "name": "WANINGGAP KAI"
+  }
+]

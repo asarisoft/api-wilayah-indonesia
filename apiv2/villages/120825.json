@@ -1,1 +1,37 @@
-[{"id": "1208251012", "district_id": "120825", "name": "SARIBU DOLOK"}, {"id": "1208252003", "district_id": "120825", "name": "BANGUN MARIAH"}, {"id": "1208252004", "district_id": "120825", "name": "PURBA SINOMBAH"}, {"id": "1208252006", "district_id": "120825", "name": "PURBA TUA"}, {"id": "1208252009", "district_id": "120825", "name": "PURBA TUA BARU"}, {"id": "1208252014", "district_id": "120825", "name": "SINAR BARU"}, {"id": "1208252016", "district_id": "120825", "name": "PURBA TUA ETEK"}]
+[
+  {
+    "id": "1208251012",
+    "district_id": "120825",
+    "name": "SARIBU DOLOK"
+  },
+  {
+    "id": "1208252003",
+    "district_id": "120825",
+    "name": "BANGUN MARIAH"
+  },
+  {
+    "id": "1208252004",
+    "district_id": "120825",
+    "name": "PURBA SINOMBAH"
+  },
+  {
+    "id": "1208252006",
+    "district_id": "120825",
+    "name": "PURBA TUA"
+  },
+  {
+    "id": "1208252009",
+    "district_id": "120825",
+    "name": "PURBA TUA BARU"
+  },
+  {
+    "id": "1208252014",
+    "district_id": "120825",
+    "name": "SINAR BARU"
+  },
+  {
+    "id": "1208252016",
+    "district_id": "120825",
+    "name": "PURBA TUA ETEK"
+  }
+]

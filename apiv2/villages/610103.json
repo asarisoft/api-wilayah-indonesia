@@ -1,1 +1,67 @@
-[{"id": "6101032001", "district_id": "610103", "name": "SARANG BURUNG DANAU"}, {"id": "6101032002", "district_id": "610103", "name": "SUNGAI NILAM"}, {"id": "6101032003", "district_id": "610103", "name": "SARANG BURUNG KOLAM"}, {"id": "6101032004", "district_id": "610103", "name": "SARANG BURUNG USRAT"}, {"id": "6101032005", "district_id": "610103", "name": "SARANG BURUNG KUALA"}, {"id": "6101032006", "district_id": "610103", "name": "PELIMPAAN"}, {"id": "6101032007", "district_id": "610103", "name": "PARIT SETIA"}, {"id": "6101032008", "district_id": "610103", "name": "BAKAU"}, {"id": "6101032009", "district_id": "610103", "name": "SUNGAI NYIRIH"}, {"id": "6101032010", "district_id": "610103", "name": "SENTEBANG"}, {"id": "6101032011", "district_id": "610103", "name": "DUNGUN LAUT"}, {"id": "6101032021", "district_id": "610103", "name": "LAMBAU"}, {"id": "6101032022", "district_id": "610103", "name": "MUTUS DARUSSALAM"}]
+[
+  {
+    "id": "6101032001",
+    "district_id": "610103",
+    "name": "SARANG BURUNG DANAU"
+  },
+  {
+    "id": "6101032002",
+    "district_id": "610103",
+    "name": "SUNGAI NILAM"
+  },
+  {
+    "id": "6101032003",
+    "district_id": "610103",
+    "name": "SARANG BURUNG KOLAM"
+  },
+  {
+    "id": "6101032004",
+    "district_id": "610103",
+    "name": "SARANG BURUNG USRAT"
+  },
+  {
+    "id": "6101032005",
+    "district_id": "610103",
+    "name": "SARANG BURUNG KUALA"
+  },
+  {
+    "id": "6101032006",
+    "district_id": "610103",
+    "name": "PELIMPAAN"
+  },
+  {
+    "id": "6101032007",
+    "district_id": "610103",
+    "name": "PARIT SETIA"
+  },
+  {
+    "id": "6101032008",
+    "district_id": "610103",
+    "name": "BAKAU"
+  },
+  {
+    "id": "6101032009",
+    "district_id": "610103",
+    "name": "SUNGAI NYIRIH"
+  },
+  {
+    "id": "6101032010",
+    "district_id": "610103",
+    "name": "SENTEBANG"
+  },
+  {
+    "id": "6101032011",
+    "district_id": "610103",
+    "name": "DUNGUN LAUT"
+  },
+  {
+    "id": "6101032021",
+    "district_id": "610103",
+    "name": "LAMBAU"
+  },
+  {
+    "id": "6101032022",
+    "district_id": "610103",
+    "name": "MUTUS DARUSSALAM"
+  }
+]

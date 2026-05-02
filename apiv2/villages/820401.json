@@ -1,1 +1,77 @@
-[{"id": "8204012001", "district_id": "820401", "name": "RABUTDAIYO"}, {"id": "8204012002", "district_id": "820401", "name": "WAYKION"}, {"id": "8204012003", "district_id": "820401", "name": "GORUP"}, {"id": "8204012004", "district_id": "820401", "name": "WALO"}, {"id": "8204012005", "district_id": "820401", "name": "DALAM"}, {"id": "8204012006", "district_id": "820401", "name": "GITANG"}, {"id": "8204012007", "district_id": "820401", "name": "KYOWOR"}, {"id": "8204012008", "district_id": "820401", "name": "MATENTENGIN"}, {"id": "8204012009", "district_id": "820401", "name": "SANGAPATI"}, {"id": "8204012010", "district_id": "820401", "name": "SUMA"}, {"id": "8204012011", "district_id": "820401", "name": "PLOILI"}, {"id": "8204012012", "district_id": "820401", "name": "DAURI"}, {"id": "8204012013", "district_id": "820401", "name": "GURUA"}, {"id": "8204012014", "district_id": "820401", "name": "WAILOA"}, {"id": "8204012022", "district_id": "820401", "name": "WAIGITANG"}]
+[
+  {
+    "id": "8204012001",
+    "district_id": "820401",
+    "name": "RABUTDAIYO"
+  },
+  {
+    "id": "8204012002",
+    "district_id": "820401",
+    "name": "WAYKION"
+  },
+  {
+    "id": "8204012003",
+    "district_id": "820401",
+    "name": "GORUP"
+  },
+  {
+    "id": "8204012004",
+    "district_id": "820401",
+    "name": "WALO"
+  },
+  {
+    "id": "8204012005",
+    "district_id": "820401",
+    "name": "DALAM"
+  },
+  {
+    "id": "8204012006",
+    "district_id": "820401",
+    "name": "GITANG"
+  },
+  {
+    "id": "8204012007",
+    "district_id": "820401",
+    "name": "KYOWOR"
+  },
+  {
+    "id": "8204012008",
+    "district_id": "820401",
+    "name": "MATENTENGIN"
+  },
+  {
+    "id": "8204012009",
+    "district_id": "820401",
+    "name": "SANGAPATI"
+  },
+  {
+    "id": "8204012010",
+    "district_id": "820401",
+    "name": "SUMA"
+  },
+  {
+    "id": "8204012011",
+    "district_id": "820401",
+    "name": "PLOILI"
+  },
+  {
+    "id": "8204012012",
+    "district_id": "820401",
+    "name": "DAURI"
+  },
+  {
+    "id": "8204012013",
+    "district_id": "820401",
+    "name": "GURUA"
+  },
+  {
+    "id": "8204012014",
+    "district_id": "820401",
+    "name": "WAILOA"
+  },
+  {
+    "id": "8204012022",
+    "district_id": "820401",
+    "name": "WAIGITANG"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "911101", "regency_id": "9111", "name": "WARIS"}, {"id": "911102", "regency_id": "9111", "name": "ARSO"}, {"id": "911103", "regency_id": "9111", "name": "SENGGI"}, {"id": "911104", "regency_id": "9111", "name": "WEB"}, {"id": "911105", "regency_id": "9111", "name": "SKANTO"}, {"id": "911106", "regency_id": "9111", "name": "ARSO TIMUR"}, {"id": "911107", "regency_id": "9111", "name": "TOWE"}, {"id": "911108", "regency_id": "9111", "name": "ARSO BARAT"}, {"id": "911109", "regency_id": "9111", "name": "MANNEM"}, {"id": "911110", "regency_id": "9111", "name": "YAFFI"}, {"id": "911111", "regency_id": "9111", "name": "KAISENAR"}]
+[
+  {
+    "id": "911101",
+    "regency_id": "9111",
+    "name": "WARIS"
+  },
+  {
+    "id": "911102",
+    "regency_id": "9111",
+    "name": "ARSO"
+  },
+  {
+    "id": "911103",
+    "regency_id": "9111",
+    "name": "SENGGI"
+  },
+  {
+    "id": "911104",
+    "regency_id": "9111",
+    "name": "WEB"
+  },
+  {
+    "id": "911105",
+    "regency_id": "9111",
+    "name": "SKANTO"
+  },
+  {
+    "id": "911106",
+    "regency_id": "9111",
+    "name": "ARSO TIMUR"
+  },
+  {
+    "id": "911107",
+    "regency_id": "9111",
+    "name": "TOWE"
+  },
+  {
+    "id": "911108",
+    "regency_id": "9111",
+    "name": "ARSO BARAT"
+  },
+  {
+    "id": "911109",
+    "regency_id": "9111",
+    "name": "MANNEM"
+  },
+  {
+    "id": "911110",
+    "regency_id": "9111",
+    "name": "YAFFI"
+  },
+  {
+    "id": "911111",
+    "regency_id": "9111",
+    "name": "KAISENAR"
+  }
+]

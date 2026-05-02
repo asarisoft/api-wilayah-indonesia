@@ -1,1 +1,252 @@
-[{"id": "9506022001", "district_id": "950602", "name": "APALAPSILI"}, {"id": "9506022002", "district_id": "950602", "name": "HUBLIKI"}, {"id": "9506022003", "district_id": "950602", "name": "KULET"}, {"id": "9506022004", "district_id": "950602", "name": "YAREMA"}, {"id": "9506022005", "district_id": "950602", "name": "ASILIGMA"}, {"id": "9506022006", "district_id": "950602", "name": "LAMBUKMU"}, {"id": "9506022007", "district_id": "950602", "name": "SUWEWILI"}, {"id": "9506022008", "district_id": "950602", "name": "YOHUL"}, {"id": "9506022009", "district_id": "950602", "name": "LILINSALUK"}, {"id": "9506022010", "district_id": "950602", "name": "NATOKSILI"}, {"id": "9506022011", "district_id": "950602", "name": "HINANGGOAMBUT"}, {"id": "9506022012", "district_id": "950602", "name": "WIYUKWILIK"}, {"id": "9506022013", "district_id": "950602", "name": "FARI"}, {"id": "9506022014", "district_id": "950602", "name": "WASALALO"}, {"id": "9506022015", "district_id": "950602", "name": "SUERLIHIM"}, {"id": "9506022016", "district_id": "950602", "name": "OROHON"}, {"id": "9506022017", "district_id": "950602", "name": "HABALO"}, {"id": "9506022018", "district_id": "950602", "name": "SABILIKALEM"}, {"id": "9506022019", "district_id": "950602", "name": "WANAMALO"}, {"id": "9506022020", "district_id": "950602", "name": "KUNDIKELE"}, {"id": "9506022021", "district_id": "950602", "name": "KELAMPURIM"}, {"id": "9506022022", "district_id": "950602", "name": "HOLUKALEM"}, {"id": "9506022023", "district_id": "950602", "name": "YEPTEK"}, {"id": "9506022024", "district_id": "950602", "name": "BENYAM"}, {"id": "9506022025", "district_id": "950602", "name": "TEMPUT"}, {"id": "9506022026", "district_id": "950602", "name": "SABUALO"}, {"id": "9506022027", "district_id": "950602", "name": "NANAHORUK"}, {"id": "9506022028", "district_id": "950602", "name": "KENGKENBUN"}, {"id": "9506022029", "district_id": "950602", "name": "SIEN"}, {"id": "9506022030", "district_id": "950602", "name": "KINHE"}, {"id": "9506022031", "district_id": "950602", "name": "HUMALEM"}, {"id": "9506022032", "district_id": "950602", "name": "PIPISIM"}, {"id": "9506022033", "district_id": "950602", "name": "MAKRIG"}, {"id": "9506022034", "district_id": "950602", "name": "ILIREK"}, {"id": "9506022035", "district_id": "950602", "name": "FILIAHIK"}, {"id": "9506022036", "district_id": "950602", "name": "KILAT"}, {"id": "9506022037", "district_id": "950602", "name": "BAPTEKMA"}, {"id": "9506022038", "district_id": "950602", "name": "NOHONIL"}, {"id": "9506022039", "district_id": "950602", "name": "ASILIKMA"}, {"id": "9506022040", "district_id": "950602", "name": "TIKANO"}, {"id": "9506022041", "district_id": "950602", "name": "NASINEMA"}, {"id": "9506022042", "district_id": "950602", "name": "EAL"}, {"id": "9506022043", "district_id": "950602", "name": "HUKALOPUNU"}, {"id": "9506022044", "district_id": "950602", "name": "ALIMUHUK"}, {"id": "9506022045", "district_id": "950602", "name": "PONG"}, {"id": "9506022046", "district_id": "950602", "name": "MOLINGGI"}, {"id": "9506022047", "district_id": "950602", "name": "SOBIKAMBUT"}, {"id": "9506022048", "district_id": "950602", "name": "WIRALESILI"}, {"id": "9506022049", "district_id": "950602", "name": "HOLUOGALMA"}, {"id": "9506022050", "district_id": "950602", "name": "FALUKWALILO"}]
+[
+  {
+    "id": "9506022001",
+    "district_id": "950602",
+    "name": "APALAPSILI"
+  },
+  {
+    "id": "9506022002",
+    "district_id": "950602",
+    "name": "HUBLIKI"
+  },
+  {
+    "id": "9506022003",
+    "district_id": "950602",
+    "name": "KULET"
+  },
+  {
+    "id": "9506022004",
+    "district_id": "950602",
+    "name": "YAREMA"
+  },
+  {
+    "id": "9506022005",
+    "district_id": "950602",
+    "name": "ASILIGMA"
+  },
+  {
+    "id": "9506022006",
+    "district_id": "950602",
+    "name": "LAMBUKMU"
+  },
+  {
+    "id": "9506022007",
+    "district_id": "950602",
+    "name": "SUWEWILI"
+  },
+  {
+    "id": "9506022008",
+    "district_id": "950602",
+    "name": "YOHUL"
+  },
+  {
+    "id": "9506022009",
+    "district_id": "950602",
+    "name": "LILINSALUK"
+  },
+  {
+    "id": "9506022010",
+    "district_id": "950602",
+    "name": "NATOKSILI"
+  },
+  {
+    "id": "9506022011",
+    "district_id": "950602",
+    "name": "HINANGGOAMBUT"
+  },
+  {
+    "id": "9506022012",
+    "district_id": "950602",
+    "name": "WIYUKWILIK"
+  },
+  {
+    "id": "9506022013",
+    "district_id": "950602",
+    "name": "FARI"
+  },
+  {
+    "id": "9506022014",
+    "district_id": "950602",
+    "name": "WASALALO"
+  },
+  {
+    "id": "9506022015",
+    "district_id": "950602",
+    "name": "SUERLIHIM"
+  },
+  {
+    "id": "9506022016",
+    "district_id": "950602",
+    "name": "OROHON"
+  },
+  {
+    "id": "9506022017",
+    "district_id": "950602",
+    "name": "HABALO"
+  },
+  {
+    "id": "9506022018",
+    "district_id": "950602",
+    "name": "SABILIKALEM"
+  },
+  {
+    "id": "9506022019",
+    "district_id": "950602",
+    "name": "WANAMALO"
+  },
+  {
+    "id": "9506022020",
+    "district_id": "950602",
+    "name": "KUNDIKELE"
+  },
+  {
+    "id": "9506022021",
+    "district_id": "950602",
+    "name": "KELAMPURIM"
+  },
+  {
+    "id": "9506022022",
+    "district_id": "950602",
+    "name": "HOLUKALEM"
+  },
+  {
+    "id": "9506022023",
+    "district_id": "950602",
+    "name": "YEPTEK"
+  },
+  {
+    "id": "9506022024",
+    "district_id": "950602",
+    "name": "BENYAM"
+  },
+  {
+    "id": "9506022025",
+    "district_id": "950602",
+    "name": "TEMPUT"
+  },
+  {
+    "id": "9506022026",
+    "district_id": "950602",
+    "name": "SABUALO"
+  },
+  {
+    "id": "9506022027",
+    "district_id": "950602",
+    "name": "NANAHORUK"
+  },
+  {
+    "id": "9506022028",
+    "district_id": "950602",
+    "name": "KENGKENBUN"
+  },
+  {
+    "id": "9506022029",
+    "district_id": "950602",
+    "name": "SIEN"
+  },
+  {
+    "id": "9506022030",
+    "district_id": "950602",
+    "name": "KINHE"
+  },
+  {
+    "id": "9506022031",
+    "district_id": "950602",
+    "name": "HUMALEM"
+  },
+  {
+    "id": "9506022032",
+    "district_id": "950602",
+    "name": "PIPISIM"
+  },
+  {
+    "id": "9506022033",
+    "district_id": "950602",
+    "name": "MAKRIG"
+  },
+  {
+    "id": "9506022034",
+    "district_id": "950602",
+    "name": "ILIREK"
+  },
+  {
+    "id": "9506022035",
+    "district_id": "950602",
+    "name": "FILIAHIK"
+  },
+  {
+    "id": "9506022036",
+    "district_id": "950602",
+    "name": "KILAT"
+  },
+  {
+    "id": "9506022037",
+    "district_id": "950602",
+    "name": "BAPTEKMA"
+  },
+  {
+    "id": "9506022038",
+    "district_id": "950602",
+    "name": "NOHONIL"
+  },
+  {
+    "id": "9506022039",
+    "district_id": "950602",
+    "name": "ASILIKMA"
+  },
+  {
+    "id": "9506022040",
+    "district_id": "950602",
+    "name": "TIKANO"
+  },
+  {
+    "id": "9506022041",
+    "district_id": "950602",
+    "name": "NASINEMA"
+  },
+  {
+    "id": "9506022042",
+    "district_id": "950602",
+    "name": "EAL"
+  },
+  {
+    "id": "9506022043",
+    "district_id": "950602",
+    "name": "HUKALOPUNU"
+  },
+  {
+    "id": "9506022044",
+    "district_id": "950602",
+    "name": "ALIMUHUK"
+  },
+  {
+    "id": "9506022045",
+    "district_id": "950602",
+    "name": "PONG"
+  },
+  {
+    "id": "9506022046",
+    "district_id": "950602",
+    "name": "MOLINGGI"
+  },
+  {
+    "id": "9506022047",
+    "district_id": "950602",
+    "name": "SOBIKAMBUT"
+  },
+  {
+    "id": "9506022048",
+    "district_id": "950602",
+    "name": "WIRALESILI"
+  },
+  {
+    "id": "9506022049",
+    "district_id": "950602",
+    "name": "HOLUOGALMA"
+  },
+  {
+    "id": "9506022050",
+    "district_id": "950602",
+    "name": "FALUKWALILO"
+  }
+]

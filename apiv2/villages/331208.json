@@ -1,1 +1,77 @@
-[{"id": "3312081003", "district_id": "331208", "name": "PULOHARJO"}, {"id": "3312081009", "district_id": "331208", "name": "NGADIREJO"}, {"id": "3312082001", "district_id": "331208", "name": "BASUHAN"}, {"id": "3312082002", "district_id": "331208", "name": "PUCUNG"}, {"id": "3312082004", "district_id": "331208", "name": "SINDUKARTO"}, {"id": "3312082005", "district_id": "331208", "name": "PANEKAN"}, {"id": "3312082006", "district_id": "331208", "name": "BALEHARJO"}, {"id": "3312082007", "district_id": "331208", "name": "SUMBERHARJO"}, {"id": "3312082008", "district_id": "331208", "name": "MINGGARHARJO"}, {"id": "3312082010", "district_id": "331208", "name": "TEGALHARJO"}, {"id": "3312082011", "district_id": "331208", "name": "EROMOKO"}, {"id": "3312082012", "district_id": "331208", "name": "NGUNGGAHAN"}, {"id": "3312082013", "district_id": "331208", "name": "TEMPURHARJO"}, {"id": "3312082014", "district_id": "331208", "name": "PASEKAN"}, {"id": "3312082015", "district_id": "331208", "name": "NGANDONG"}]
+[
+  {
+    "id": "3312081003",
+    "district_id": "331208",
+    "name": "PULOHARJO"
+  },
+  {
+    "id": "3312081009",
+    "district_id": "331208",
+    "name": "NGADIREJO"
+  },
+  {
+    "id": "3312082001",
+    "district_id": "331208",
+    "name": "BASUHAN"
+  },
+  {
+    "id": "3312082002",
+    "district_id": "331208",
+    "name": "PUCUNG"
+  },
+  {
+    "id": "3312082004",
+    "district_id": "331208",
+    "name": "SINDUKARTO"
+  },
+  {
+    "id": "3312082005",
+    "district_id": "331208",
+    "name": "PANEKAN"
+  },
+  {
+    "id": "3312082006",
+    "district_id": "331208",
+    "name": "BALEHARJO"
+  },
+  {
+    "id": "3312082007",
+    "district_id": "331208",
+    "name": "SUMBERHARJO"
+  },
+  {
+    "id": "3312082008",
+    "district_id": "331208",
+    "name": "MINGGARHARJO"
+  },
+  {
+    "id": "3312082010",
+    "district_id": "331208",
+    "name": "TEGALHARJO"
+  },
+  {
+    "id": "3312082011",
+    "district_id": "331208",
+    "name": "EROMOKO"
+  },
+  {
+    "id": "3312082012",
+    "district_id": "331208",
+    "name": "NGUNGGAHAN"
+  },
+  {
+    "id": "3312082013",
+    "district_id": "331208",
+    "name": "TEMPURHARJO"
+  },
+  {
+    "id": "3312082014",
+    "district_id": "331208",
+    "name": "PASEKAN"
+  },
+  {
+    "id": "3312082015",
+    "district_id": "331208",
+    "name": "NGANDONG"
+  }
+]

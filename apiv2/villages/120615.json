@@ -1,1 +1,47 @@
-[{"id": "1206152001", "district_id": "120615", "name": "CINTA RAKYAT"}, {"id": "1206152002", "district_id": "120615", "name": "SEMANGAT"}, {"id": "1206152003", "district_id": "120615", "name": "UJUNG TERAN"}, {"id": "1206152004", "district_id": "120615", "name": "GONGSOL"}, {"id": "1206152005", "district_id": "120615", "name": "JARANGUDA"}, {"id": "1206152006", "district_id": "120615", "name": "SEMANGAT GUNUNG"}, {"id": "1206152007", "district_id": "120615", "name": "DERAM"}, {"id": "1206152008", "district_id": "120615", "name": "MERDEKA"}, {"id": "1206152009", "district_id": "120615", "name": "SADA PERARIH"}]
+[
+  {
+    "id": "1206152001",
+    "district_id": "120615",
+    "name": "CINTA RAKYAT"
+  },
+  {
+    "id": "1206152002",
+    "district_id": "120615",
+    "name": "SEMANGAT"
+  },
+  {
+    "id": "1206152003",
+    "district_id": "120615",
+    "name": "UJUNG TERAN"
+  },
+  {
+    "id": "1206152004",
+    "district_id": "120615",
+    "name": "GONGSOL"
+  },
+  {
+    "id": "1206152005",
+    "district_id": "120615",
+    "name": "JARANGUDA"
+  },
+  {
+    "id": "1206152006",
+    "district_id": "120615",
+    "name": "SEMANGAT GUNUNG"
+  },
+  {
+    "id": "1206152007",
+    "district_id": "120615",
+    "name": "DERAM"
+  },
+  {
+    "id": "1206152008",
+    "district_id": "120615",
+    "name": "MERDEKA"
+  },
+  {
+    "id": "1206152009",
+    "district_id": "120615",
+    "name": "SADA PERARIH"
+  }
+]

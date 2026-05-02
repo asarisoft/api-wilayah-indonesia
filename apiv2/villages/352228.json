@@ -1,1 +1,62 @@
-[{"id": "3522282001", "district_id": "352228", "name": "GAYAM"}, {"id": "3522282002", "district_id": "352228", "name": "BEGADON"}, {"id": "3522282003", "district_id": "352228", "name": "RINGINTUNGGAL"}, {"id": "3522282004", "district_id": "352228", "name": "MOJODELIK"}, {"id": "3522282005", "district_id": "352228", "name": "BRABOWAN"}, {"id": "3522282006", "district_id": "352228", "name": "BONOREJO"}, {"id": "3522282007", "district_id": "352228", "name": "BEGED"}, {"id": "3522282008", "district_id": "352228", "name": "KATUR"}, {"id": "3522282009", "district_id": "352228", "name": "NGRAHO"}, {"id": "3522282010", "district_id": "352228", "name": "SUDU"}, {"id": "3522282011", "district_id": "352228", "name": "CENGUNGKLUNG"}, {"id": "3522282012", "district_id": "352228", "name": "MANUKAN"}]
+[
+  {
+    "id": "3522282001",
+    "district_id": "352228",
+    "name": "GAYAM"
+  },
+  {
+    "id": "3522282002",
+    "district_id": "352228",
+    "name": "BEGADON"
+  },
+  {
+    "id": "3522282003",
+    "district_id": "352228",
+    "name": "RINGINTUNGGAL"
+  },
+  {
+    "id": "3522282004",
+    "district_id": "352228",
+    "name": "MOJODELIK"
+  },
+  {
+    "id": "3522282005",
+    "district_id": "352228",
+    "name": "BRABOWAN"
+  },
+  {
+    "id": "3522282006",
+    "district_id": "352228",
+    "name": "BONOREJO"
+  },
+  {
+    "id": "3522282007",
+    "district_id": "352228",
+    "name": "BEGED"
+  },
+  {
+    "id": "3522282008",
+    "district_id": "352228",
+    "name": "KATUR"
+  },
+  {
+    "id": "3522282009",
+    "district_id": "352228",
+    "name": "NGRAHO"
+  },
+  {
+    "id": "3522282010",
+    "district_id": "352228",
+    "name": "SUDU"
+  },
+  {
+    "id": "3522282011",
+    "district_id": "352228",
+    "name": "CENGUNGKLUNG"
+  },
+  {
+    "id": "3522282012",
+    "district_id": "352228",
+    "name": "MANUKAN"
+  }
+]

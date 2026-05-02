@@ -1,1 +1,52 @@
-[{"id": "7402011001", "district_id": "740201", "name": "LAMBUYA"}, {"id": "7402012006", "district_id": "740201", "name": "AWULITI"}, {"id": "7402012007", "district_id": "740201", "name": "ASAKI"}, {"id": "7402012011", "district_id": "740201", "name": "AMBERI"}, {"id": "7402012012", "district_id": "740201", "name": "WAWORAHA"}, {"id": "7402012015", "district_id": "740201", "name": "TANGGOBU"}, {"id": "7402012027", "district_id": "740201", "name": "MERAKA"}, {"id": "7402012035", "district_id": "740201", "name": "WANUA HOA"}, {"id": "7402012036", "district_id": "740201", "name": "WATAREMA"}, {"id": "7402012037", "district_id": "740201", "name": "TETEMBOMUA"}]
+[
+  {
+    "id": "7402011001",
+    "district_id": "740201",
+    "name": "LAMBUYA"
+  },
+  {
+    "id": "7402012006",
+    "district_id": "740201",
+    "name": "AWULITI"
+  },
+  {
+    "id": "7402012007",
+    "district_id": "740201",
+    "name": "ASAKI"
+  },
+  {
+    "id": "7402012011",
+    "district_id": "740201",
+    "name": "AMBERI"
+  },
+  {
+    "id": "7402012012",
+    "district_id": "740201",
+    "name": "WAWORAHA"
+  },
+  {
+    "id": "7402012015",
+    "district_id": "740201",
+    "name": "TANGGOBU"
+  },
+  {
+    "id": "7402012027",
+    "district_id": "740201",
+    "name": "MERAKA"
+  },
+  {
+    "id": "7402012035",
+    "district_id": "740201",
+    "name": "WANUA HOA"
+  },
+  {
+    "id": "7402012036",
+    "district_id": "740201",
+    "name": "WATAREMA"
+  },
+  {
+    "id": "7402012037",
+    "district_id": "740201",
+    "name": "TETEMBOMUA"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "3509022001", "district_id": "350902", "name": "CAKRU"}, {"id": "3509022002", "district_id": "350902", "name": "PASEBAN"}, {"id": "3509022003", "district_id": "350902", "name": "KRATON"}, {"id": "3509022004", "district_id": "350902", "name": "KENCONG"}, {"id": "3509022005", "district_id": "350902", "name": "WONOREJO"}]
+[
+  {
+    "id": "3509022001",
+    "district_id": "350902",
+    "name": "CAKRU"
+  },
+  {
+    "id": "3509022002",
+    "district_id": "350902",
+    "name": "PASEBAN"
+  },
+  {
+    "id": "3509022003",
+    "district_id": "350902",
+    "name": "KRATON"
+  },
+  {
+    "id": "3509022004",
+    "district_id": "350902",
+    "name": "KENCONG"
+  },
+  {
+    "id": "3509022005",
+    "district_id": "350902",
+    "name": "WONOREJO"
+  }
+]

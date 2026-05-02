@@ -1,1 +1,77 @@
-[{"id": "3529182001", "district_id": "352918", "name": "CANDI"}, {"id": "3529182002", "district_id": "352918", "name": "JADUNG"}, {"id": "3529182003", "district_id": "352918", "name": "ROMBEN BARAT"}, {"id": "3529182004", "district_id": "352918", "name": "ROMBEN RANA"}, {"id": "3529182005", "district_id": "352918", "name": "ROMBEN GUNA"}, {"id": "3529182006", "district_id": "352918", "name": "TAMAN SARE"}, {"id": "3529182007", "district_id": "352918", "name": "BICABBI"}, {"id": "3529182008", "district_id": "352918", "name": "DUNGKEK"}, {"id": "3529182009", "district_id": "352918", "name": "BUNPENANG"}, {"id": "3529182010", "district_id": "352918", "name": "BUNGIN-BUNGIN"}, {"id": "3529182011", "district_id": "352918", "name": "LAPA TAMAN"}, {"id": "3529182012", "district_id": "352918", "name": "LAPA LAOK"}, {"id": "3529182013", "district_id": "352918", "name": "LAPA DAYA"}, {"id": "3529182014", "district_id": "352918", "name": "BANCAMARA"}, {"id": "3529182015", "district_id": "352918", "name": "BANRA'AS"}]
+[
+  {
+    "id": "3529182001",
+    "district_id": "352918",
+    "name": "CANDI"
+  },
+  {
+    "id": "3529182002",
+    "district_id": "352918",
+    "name": "JADUNG"
+  },
+  {
+    "id": "3529182003",
+    "district_id": "352918",
+    "name": "ROMBEN BARAT"
+  },
+  {
+    "id": "3529182004",
+    "district_id": "352918",
+    "name": "ROMBEN RANA"
+  },
+  {
+    "id": "3529182005",
+    "district_id": "352918",
+    "name": "ROMBEN GUNA"
+  },
+  {
+    "id": "3529182006",
+    "district_id": "352918",
+    "name": "TAMAN SARE"
+  },
+  {
+    "id": "3529182007",
+    "district_id": "352918",
+    "name": "BICABBI"
+  },
+  {
+    "id": "3529182008",
+    "district_id": "352918",
+    "name": "DUNGKEK"
+  },
+  {
+    "id": "3529182009",
+    "district_id": "352918",
+    "name": "BUNPENANG"
+  },
+  {
+    "id": "3529182010",
+    "district_id": "352918",
+    "name": "BUNGIN-BUNGIN"
+  },
+  {
+    "id": "3529182011",
+    "district_id": "352918",
+    "name": "LAPA TAMAN"
+  },
+  {
+    "id": "3529182012",
+    "district_id": "352918",
+    "name": "LAPA LAOK"
+  },
+  {
+    "id": "3529182013",
+    "district_id": "352918",
+    "name": "LAPA DAYA"
+  },
+  {
+    "id": "3529182014",
+    "district_id": "352918",
+    "name": "BANCAMARA"
+  },
+  {
+    "id": "3529182015",
+    "district_id": "352918",
+    "name": "BANRA'AS"
+  }
+]

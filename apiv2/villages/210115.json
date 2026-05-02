@@ -1,1 +1,27 @@
-[{"id": "2101151003", "district_id": "210115", "name": "TELUK LOBAM"}, {"id": "2101151005", "district_id": "210115", "name": "TANJUNG PERMAI"}, {"id": "2101152001", "district_id": "210115", "name": "BUSUNG"}, {"id": "2101152002", "district_id": "210115", "name": "TELUK SASAH"}, {"id": "2101152004", "district_id": "210115", "name": "KUALA SEMPANG"}]
+[
+  {
+    "id": "2101151003",
+    "district_id": "210115",
+    "name": "TELUK LOBAM"
+  },
+  {
+    "id": "2101151005",
+    "district_id": "210115",
+    "name": "TANJUNG PERMAI"
+  },
+  {
+    "id": "2101152001",
+    "district_id": "210115",
+    "name": "BUSUNG"
+  },
+  {
+    "id": "2101152002",
+    "district_id": "210115",
+    "name": "TELUK SASAH"
+  },
+  {
+    "id": "2101152004",
+    "district_id": "210115",
+    "name": "KUALA SEMPANG"
+  }
+]

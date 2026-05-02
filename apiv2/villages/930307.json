@@ -1,1 +1,37 @@
-[{"id": "9303072001", "district_id": "930307", "name": "AMAZU"}, {"id": "9303072002", "district_id": "930307", "name": "IMEMBI"}, {"id": "9303072003", "district_id": "930307", "name": "YEMU"}, {"id": "9303072004", "district_id": "930307", "name": "FOMU"}, {"id": "9303072005", "district_id": "930307", "name": "TIAU"}, {"id": "9303072006", "district_id": "930307", "name": "BINERBIS"}, {"id": "9303072007", "district_id": "930307", "name": "TAYAU"}]
+[
+  {
+    "id": "9303072001",
+    "district_id": "930307",
+    "name": "AMAZU"
+  },
+  {
+    "id": "9303072002",
+    "district_id": "930307",
+    "name": "IMEMBI"
+  },
+  {
+    "id": "9303072003",
+    "district_id": "930307",
+    "name": "YEMU"
+  },
+  {
+    "id": "9303072004",
+    "district_id": "930307",
+    "name": "FOMU"
+  },
+  {
+    "id": "9303072005",
+    "district_id": "930307",
+    "name": "TIAU"
+  },
+  {
+    "id": "9303072006",
+    "district_id": "930307",
+    "name": "BINERBIS"
+  },
+  {
+    "id": "9303072007",
+    "district_id": "930307",
+    "name": "TAYAU"
+  }
+]

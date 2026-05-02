@@ -1,1 +1,67 @@
-[{"id": "8272021002", "district_id": "827202", "name": "GURAPING"}, {"id": "8272021003", "district_id": "827202", "name": "SOFIFI"}, {"id": "8272022001", "district_id": "827202", "name": "KAIYASA"}, {"id": "8272022005", "district_id": "827202", "name": "OBA"}, {"id": "8272022006", "district_id": "827202", "name": "SOMAHODE"}, {"id": "8272022007", "district_id": "827202", "name": "AKE KOLANO"}, {"id": "8272022009", "district_id": "827202", "name": "BALBAR"}, {"id": "8272022010", "district_id": "827202", "name": "BUKIT DURIAN"}, {"id": "8272022011", "district_id": "827202", "name": "GALALA"}, {"id": "8272022012", "district_id": "827202", "name": "AMPERA"}, {"id": "8272022013", "district_id": "827202", "name": "KUSU"}, {"id": "8272022014", "district_id": "827202", "name": "GAROJOU"}, {"id": "8272022015", "district_id": "827202", "name": "GOSALE"}]
+[
+  {
+    "id": "8272021002",
+    "district_id": "827202",
+    "name": "GURAPING"
+  },
+  {
+    "id": "8272021003",
+    "district_id": "827202",
+    "name": "SOFIFI"
+  },
+  {
+    "id": "8272022001",
+    "district_id": "827202",
+    "name": "KAIYASA"
+  },
+  {
+    "id": "8272022005",
+    "district_id": "827202",
+    "name": "OBA"
+  },
+  {
+    "id": "8272022006",
+    "district_id": "827202",
+    "name": "SOMAHODE"
+  },
+  {
+    "id": "8272022007",
+    "district_id": "827202",
+    "name": "AKE KOLANO"
+  },
+  {
+    "id": "8272022009",
+    "district_id": "827202",
+    "name": "BALBAR"
+  },
+  {
+    "id": "8272022010",
+    "district_id": "827202",
+    "name": "BUKIT DURIAN"
+  },
+  {
+    "id": "8272022011",
+    "district_id": "827202",
+    "name": "GALALA"
+  },
+  {
+    "id": "8272022012",
+    "district_id": "827202",
+    "name": "AMPERA"
+  },
+  {
+    "id": "8272022013",
+    "district_id": "827202",
+    "name": "KUSU"
+  },
+  {
+    "id": "8272022014",
+    "district_id": "827202",
+    "name": "GAROJOU"
+  },
+  {
+    "id": "8272022015",
+    "district_id": "827202",
+    "name": "GOSALE"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "1116072001", "district_id": "111607", "name": "ALUR TANI SATU"}, {"id": "1116072002", "district_id": "111607", "name": "ALUR TANI DUA"}, {"id": "1116072003", "district_id": "111607", "name": "BANDAR KHALIFAH"}, {"id": "1116072004", "district_id": "111607", "name": "KALOY"}, {"id": "1116072005", "district_id": "111607", "name": "PERKEBUNAN PULAU TIGA"}, {"id": "1116072006", "district_id": "111607", "name": "HARUM SARI"}, {"id": "1116072007", "district_id": "111607", "name": "BANDAR SETIA"}, {"id": "1116072008", "district_id": "111607", "name": "RONGOH"}, {"id": "1116072010", "district_id": "111607", "name": "WONO SARI"}]
+[
+  {
+    "id": "1116072001",
+    "district_id": "111607",
+    "name": "ALUR TANI SATU"
+  },
+  {
+    "id": "1116072002",
+    "district_id": "111607",
+    "name": "ALUR TANI DUA"
+  },
+  {
+    "id": "1116072003",
+    "district_id": "111607",
+    "name": "BANDAR KHALIFAH"
+  },
+  {
+    "id": "1116072004",
+    "district_id": "111607",
+    "name": "KALOY"
+  },
+  {
+    "id": "1116072005",
+    "district_id": "111607",
+    "name": "PERKEBUNAN PULAU TIGA"
+  },
+  {
+    "id": "1116072006",
+    "district_id": "111607",
+    "name": "HARUM SARI"
+  },
+  {
+    "id": "1116072007",
+    "district_id": "111607",
+    "name": "BANDAR SETIA"
+  },
+  {
+    "id": "1116072008",
+    "district_id": "111607",
+    "name": "RONGOH"
+  },
+  {
+    "id": "1116072010",
+    "district_id": "111607",
+    "name": "WONO SARI"
+  }
+]

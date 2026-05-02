@@ -1,1 +1,32 @@
-[{"id": "1806282001", "district_id": "180628", "name": "LENGKUKAI"}, {"id": "1806282002", "district_id": "180628", "name": "SIDOHARJO"}, {"id": "1806282003", "district_id": "180628", "name": "MERBAU"}, {"id": "1806282004", "district_id": "180628", "name": "BATU PATAH"}, {"id": "1806282005", "district_id": "180628", "name": "PURWOSARI"}, {"id": "1806282006", "district_id": "180628", "name": "MARGA MULYA"}]
+[
+  {
+    "id": "1806282001",
+    "district_id": "180628",
+    "name": "LENGKUKAI"
+  },
+  {
+    "id": "1806282002",
+    "district_id": "180628",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "1806282003",
+    "district_id": "180628",
+    "name": "MERBAU"
+  },
+  {
+    "id": "1806282004",
+    "district_id": "180628",
+    "name": "BATU PATAH"
+  },
+  {
+    "id": "1806282005",
+    "district_id": "180628",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "1806282006",
+    "district_id": "180628",
+    "name": "MARGA MULYA"
+  }
+]

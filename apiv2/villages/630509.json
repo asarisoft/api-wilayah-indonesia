@@ -1,1 +1,62 @@
-[{"id": "6305092001", "district_id": "630509", "name": "KALUMPANG"}, {"id": "6305092002", "district_id": "630509", "name": "BANUA PADANG"}, {"id": "6305092003", "district_id": "630509", "name": "BUNGUR"}, {"id": "6305092004", "district_id": "630509", "name": "BANUA PADANG HILIR"}, {"id": "6305092005", "district_id": "630509", "name": "SHABAH"}, {"id": "6305092006", "district_id": "630509", "name": "HANGUI"}, {"id": "6305092007", "district_id": "630509", "name": "RANTAU BUJUR"}, {"id": "6305092008", "district_id": "630509", "name": "PURUT"}, {"id": "6305092009", "district_id": "630509", "name": "BUNGUR BARU"}, {"id": "6305092010", "district_id": "630509", "name": "TIMBUNG"}, {"id": "6305092011", "district_id": "630509", "name": "PARING GULING"}, {"id": "6305092012", "district_id": "630509", "name": "LINUH"}]
+[
+  {
+    "id": "6305092001",
+    "district_id": "630509",
+    "name": "KALUMPANG"
+  },
+  {
+    "id": "6305092002",
+    "district_id": "630509",
+    "name": "BANUA PADANG"
+  },
+  {
+    "id": "6305092003",
+    "district_id": "630509",
+    "name": "BUNGUR"
+  },
+  {
+    "id": "6305092004",
+    "district_id": "630509",
+    "name": "BANUA PADANG HILIR"
+  },
+  {
+    "id": "6305092005",
+    "district_id": "630509",
+    "name": "SHABAH"
+  },
+  {
+    "id": "6305092006",
+    "district_id": "630509",
+    "name": "HANGUI"
+  },
+  {
+    "id": "6305092007",
+    "district_id": "630509",
+    "name": "RANTAU BUJUR"
+  },
+  {
+    "id": "6305092008",
+    "district_id": "630509",
+    "name": "PURUT"
+  },
+  {
+    "id": "6305092009",
+    "district_id": "630509",
+    "name": "BUNGUR BARU"
+  },
+  {
+    "id": "6305092010",
+    "district_id": "630509",
+    "name": "TIMBUNG"
+  },
+  {
+    "id": "6305092011",
+    "district_id": "630509",
+    "name": "PARING GULING"
+  },
+  {
+    "id": "6305092012",
+    "district_id": "630509",
+    "name": "LINUH"
+  }
+]

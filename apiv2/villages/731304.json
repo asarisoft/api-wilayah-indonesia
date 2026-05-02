@@ -1,1 +1,47 @@
-[{"id": "7313041001", "district_id": "731304", "name": "AKKAJENG"}, {"id": "7313041002", "district_id": "731304", "name": "ASSORAJANG"}, {"id": "7313041003", "district_id": "731304", "name": "MINANGAE"}, {"id": "7313042004", "district_id": "731304", "name": "AKKOTENGENG"}, {"id": "7313042005", "district_id": "731304", "name": "SAKKOLI"}, {"id": "7313042006", "district_id": "731304", "name": "BARANGMAMASE"}, {"id": "7313042007", "district_id": "731304", "name": "SALOBULO"}, {"id": "7313042008", "district_id": "731304", "name": "TOWALIDA"}, {"id": "7313042009", "district_id": "731304", "name": "ALEWADENG"}]
+[
+  {
+    "id": "7313041001",
+    "district_id": "731304",
+    "name": "AKKAJENG"
+  },
+  {
+    "id": "7313041002",
+    "district_id": "731304",
+    "name": "ASSORAJANG"
+  },
+  {
+    "id": "7313041003",
+    "district_id": "731304",
+    "name": "MINANGAE"
+  },
+  {
+    "id": "7313042004",
+    "district_id": "731304",
+    "name": "AKKOTENGENG"
+  },
+  {
+    "id": "7313042005",
+    "district_id": "731304",
+    "name": "SAKKOLI"
+  },
+  {
+    "id": "7313042006",
+    "district_id": "731304",
+    "name": "BARANGMAMASE"
+  },
+  {
+    "id": "7313042007",
+    "district_id": "731304",
+    "name": "SALOBULO"
+  },
+  {
+    "id": "7313042008",
+    "district_id": "731304",
+    "name": "TOWALIDA"
+  },
+  {
+    "id": "7313042009",
+    "district_id": "731304",
+    "name": "ALEWADENG"
+  }
+]

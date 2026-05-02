@@ -1,1 +1,62 @@
-[{"id": "7408061003", "district_id": "740806", "name": "LAPAI"}, {"id": "7408062002", "district_id": "740806", "name": "NGAPA"}, {"id": "7408062005", "district_id": "740806", "name": "PARUTTELLANG"}, {"id": "7408062008", "district_id": "740806", "name": "PUURAU"}, {"id": "7408062009", "district_id": "740806", "name": "KOREIHA"}, {"id": "7408062011", "district_id": "740806", "name": "LAWOLATU"}, {"id": "7408062012", "district_id": "740806", "name": "TADAUMERA"}, {"id": "7408062013", "district_id": "740806", "name": "WATUMOTAHA"}, {"id": "7408062014", "district_id": "740806", "name": "BERINGIN"}, {"id": "7408062015", "district_id": "740806", "name": "MATAIWOI"}, {"id": "7408062016", "district_id": "740806", "name": "NIMBUNEHA"}, {"id": "7408062017", "district_id": "740806", "name": "PADAELO"}]
+[
+  {
+    "id": "7408061003",
+    "district_id": "740806",
+    "name": "LAPAI"
+  },
+  {
+    "id": "7408062002",
+    "district_id": "740806",
+    "name": "NGAPA"
+  },
+  {
+    "id": "7408062005",
+    "district_id": "740806",
+    "name": "PARUTTELLANG"
+  },
+  {
+    "id": "7408062008",
+    "district_id": "740806",
+    "name": "PUURAU"
+  },
+  {
+    "id": "7408062009",
+    "district_id": "740806",
+    "name": "KOREIHA"
+  },
+  {
+    "id": "7408062011",
+    "district_id": "740806",
+    "name": "LAWOLATU"
+  },
+  {
+    "id": "7408062012",
+    "district_id": "740806",
+    "name": "TADAUMERA"
+  },
+  {
+    "id": "7408062013",
+    "district_id": "740806",
+    "name": "WATUMOTAHA"
+  },
+  {
+    "id": "7408062014",
+    "district_id": "740806",
+    "name": "BERINGIN"
+  },
+  {
+    "id": "7408062015",
+    "district_id": "740806",
+    "name": "MATAIWOI"
+  },
+  {
+    "id": "7408062016",
+    "district_id": "740806",
+    "name": "NIMBUNEHA"
+  },
+  {
+    "id": "7408062017",
+    "district_id": "740806",
+    "name": "PADAELO"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "7207072008", "district_id": "720707", "name": "PAISUBATU"}, {"id": "7207072009", "district_id": "720707", "name": "BATANGONO"}, {"id": "7207072010", "district_id": "720707", "name": "LALENGAN"}, {"id": "7207072011", "district_id": "720707", "name": "PELING LALOMO"}, {"id": "7207072012", "district_id": "720707", "name": "LABASIANO"}, {"id": "7207072013", "district_id": "720707", "name": "TATABA"}, {"id": "7207072014", "district_id": "720707", "name": "MALANGGONG"}, {"id": "7207072015", "district_id": "720707", "name": "LEME-LEME BUNGIN"}, {"id": "7207072016", "district_id": "720707", "name": "LEME-LEME DARAT"}, {"id": "7207072017", "district_id": "720707", "name": "TALAS-TALAS"}, {"id": "7207072018", "district_id": "720707", "name": "OKULO POTIL"}, {"id": "7207072019", "district_id": "720707", "name": "TATENDENG"}, {"id": "7207072020", "district_id": "720707", "name": "OLUSI"}]
+[
+  {
+    "id": "7207072008",
+    "district_id": "720707",
+    "name": "PAISUBATU"
+  },
+  {
+    "id": "7207072009",
+    "district_id": "720707",
+    "name": "BATANGONO"
+  },
+  {
+    "id": "7207072010",
+    "district_id": "720707",
+    "name": "LALENGAN"
+  },
+  {
+    "id": "7207072011",
+    "district_id": "720707",
+    "name": "PELING LALOMO"
+  },
+  {
+    "id": "7207072012",
+    "district_id": "720707",
+    "name": "LABASIANO"
+  },
+  {
+    "id": "7207072013",
+    "district_id": "720707",
+    "name": "TATABA"
+  },
+  {
+    "id": "7207072014",
+    "district_id": "720707",
+    "name": "MALANGGONG"
+  },
+  {
+    "id": "7207072015",
+    "district_id": "720707",
+    "name": "LEME-LEME BUNGIN"
+  },
+  {
+    "id": "7207072016",
+    "district_id": "720707",
+    "name": "LEME-LEME DARAT"
+  },
+  {
+    "id": "7207072017",
+    "district_id": "720707",
+    "name": "TALAS-TALAS"
+  },
+  {
+    "id": "7207072018",
+    "district_id": "720707",
+    "name": "OKULO POTIL"
+  },
+  {
+    "id": "7207072019",
+    "district_id": "720707",
+    "name": "TATENDENG"
+  },
+  {
+    "id": "7207072020",
+    "district_id": "720707",
+    "name": "OLUSI"
+  }
+]

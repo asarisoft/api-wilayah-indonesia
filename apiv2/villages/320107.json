@@ -1,1 +1,62 @@
-[{"id": "3201072001", "district_id": "320107", "name": "PASIRANGIN"}, {"id": "3201072002", "district_id": "320107", "name": "MEKARSARI"}, {"id": "3201072003", "district_id": "320107", "name": "MAMPIR"}, {"id": "3201072004", "district_id": "320107", "name": "DAYEUH"}, {"id": "3201072005", "district_id": "320107", "name": "GANDOANG"}, {"id": "3201072006", "district_id": "320107", "name": "JATISARI"}, {"id": "3201072007", "district_id": "320107", "name": "CILEUNGSI KIDUL"}, {"id": "3201072008", "district_id": "320107", "name": "CIPEUCANG"}, {"id": "3201072009", "district_id": "320107", "name": "SITUSARI"}, {"id": "3201072010", "district_id": "320107", "name": "CIPENJO"}, {"id": "3201072011", "district_id": "320107", "name": "LIMUSNUNGGAL"}, {"id": "3201072012", "district_id": "320107", "name": "CILEUNGSI"}]
+[
+  {
+    "id": "3201072001",
+    "district_id": "320107",
+    "name": "PASIRANGIN"
+  },
+  {
+    "id": "3201072002",
+    "district_id": "320107",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3201072003",
+    "district_id": "320107",
+    "name": "MAMPIR"
+  },
+  {
+    "id": "3201072004",
+    "district_id": "320107",
+    "name": "DAYEUH"
+  },
+  {
+    "id": "3201072005",
+    "district_id": "320107",
+    "name": "GANDOANG"
+  },
+  {
+    "id": "3201072006",
+    "district_id": "320107",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3201072007",
+    "district_id": "320107",
+    "name": "CILEUNGSI KIDUL"
+  },
+  {
+    "id": "3201072008",
+    "district_id": "320107",
+    "name": "CIPEUCANG"
+  },
+  {
+    "id": "3201072009",
+    "district_id": "320107",
+    "name": "SITUSARI"
+  },
+  {
+    "id": "3201072010",
+    "district_id": "320107",
+    "name": "CIPENJO"
+  },
+  {
+    "id": "3201072011",
+    "district_id": "320107",
+    "name": "LIMUSNUNGGAL"
+  },
+  {
+    "id": "3201072012",
+    "district_id": "320107",
+    "name": "CILEUNGSI"
+  }
+]

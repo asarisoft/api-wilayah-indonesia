@@ -1,1 +1,72 @@
-[{"id": "1214082001", "district_id": "121408", "name": "AMURI"}, {"id": "1214082004", "district_id": "121408", "name": "BAWOSALO'O SIWALAWA"}, {"id": "1214082009", "district_id": "121408", "name": "HILIFADOLO"}, {"id": "1214082014", "district_id": "121408", "name": "LOLOFAOSO"}, {"id": "1214082015", "district_id": "121408", "name": "LOLOMOYO"}, {"id": "1214082016", "district_id": "121408", "name": "LOLOWAU"}, {"id": "1214082017", "district_id": "121408", "name": "LOLOHOWA"}, {"id": "1214082022", "district_id": "121408", "name": "SISARAHILI EKHOLO"}, {"id": "1214082030", "district_id": "121408", "name": "TUHEGAFOA"}, {"id": "1214082033", "district_id": "121408", "name": "BOTOHILI"}, {"id": "1214082035", "district_id": "121408", "name": "HILIKARA"}, {"id": "1214082044", "district_id": "121408", "name": "SAMIRI"}, {"id": "1214082047", "district_id": "121408", "name": "HILIMBOWO SIWALAWA"}, {"id": "1214082048", "district_id": "121408", "name": "NITUWU BOHO"}]
+[
+  {
+    "id": "1214082001",
+    "district_id": "121408",
+    "name": "AMURI"
+  },
+  {
+    "id": "1214082004",
+    "district_id": "121408",
+    "name": "BAWOSALO'O SIWALAWA"
+  },
+  {
+    "id": "1214082009",
+    "district_id": "121408",
+    "name": "HILIFADOLO"
+  },
+  {
+    "id": "1214082014",
+    "district_id": "121408",
+    "name": "LOLOFAOSO"
+  },
+  {
+    "id": "1214082015",
+    "district_id": "121408",
+    "name": "LOLOMOYO"
+  },
+  {
+    "id": "1214082016",
+    "district_id": "121408",
+    "name": "LOLOWAU"
+  },
+  {
+    "id": "1214082017",
+    "district_id": "121408",
+    "name": "LOLOHOWA"
+  },
+  {
+    "id": "1214082022",
+    "district_id": "121408",
+    "name": "SISARAHILI EKHOLO"
+  },
+  {
+    "id": "1214082030",
+    "district_id": "121408",
+    "name": "TUHEGAFOA"
+  },
+  {
+    "id": "1214082033",
+    "district_id": "121408",
+    "name": "BOTOHILI"
+  },
+  {
+    "id": "1214082035",
+    "district_id": "121408",
+    "name": "HILIKARA"
+  },
+  {
+    "id": "1214082044",
+    "district_id": "121408",
+    "name": "SAMIRI"
+  },
+  {
+    "id": "1214082047",
+    "district_id": "121408",
+    "name": "HILIMBOWO SIWALAWA"
+  },
+  {
+    "id": "1214082048",
+    "district_id": "121408",
+    "name": "NITUWU BOHO"
+  }
+]

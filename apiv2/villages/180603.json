@@ -1,1 +1,142 @@
-[{"id": "1806032001", "district_id": "180603", "name": "KARANG ANYAR"}, {"id": "1806032002", "district_id": "180603", "name": "KALIREJO"}, {"id": "1806032003", "district_id": "180603", "name": "DADIREJO"}, {"id": "1806032004", "district_id": "180603", "name": "BANYU URIP"}, {"id": "1806032005", "district_id": "180603", "name": "WONOSOBO"}, {"id": "1806032006", "district_id": "180603", "name": "SOPONYONO"}, {"id": "1806032007", "district_id": "180603", "name": "BANDAR KEJADIAN"}, {"id": "1806032008", "district_id": "180603", "name": "WAY PANAS"}, {"id": "1806032009", "district_id": "180603", "name": "SINAR SAUDARA"}, {"id": "1806032010", "district_id": "180603", "name": "SRIDADI"}, {"id": "1806032011", "district_id": "180603", "name": "LAKARAN"}, {"id": "1806032012", "district_id": "180603", "name": "PADANG RATU"}, {"id": "1806032013", "district_id": "180603", "name": "PARDASUKA"}, {"id": "1806032014", "district_id": "180603", "name": "TANJUNG KURUNG"}, {"id": "1806032015", "district_id": "180603", "name": "PADANG MANIS"}, {"id": "1806032016", "district_id": "180603", "name": "KEJADIAN"}, {"id": "1806032017", "district_id": "180603", "name": "DADISARI"}, {"id": "1806032018", "district_id": "180603", "name": "KALISARI"}, {"id": "1806032019", "district_id": "180603", "name": "BANJAR NEGORO"}, {"id": "1806032020", "district_id": "180603", "name": "PEKON BALAK"}, {"id": "1806032021", "district_id": "180603", "name": "KUNYAYAN"}, {"id": "1806032022", "district_id": "180603", "name": "BANJAR SARI"}, {"id": "1806032023", "district_id": "180603", "name": "NEGERI NGARIP"}, {"id": "1806032034", "district_id": "180603", "name": "DADIMULYO"}, {"id": "1806032035", "district_id": "180603", "name": "SAMPANG TURUS"}, {"id": "1806032036", "district_id": "180603", "name": "SRI MELATI"}, {"id": "1806032037", "district_id": "180603", "name": "WAY LIWOK"}, {"id": "1806032038", "district_id": "180603", "name": "SUMUR TUJUH"}]
+[
+  {
+    "id": "1806032001",
+    "district_id": "180603",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1806032002",
+    "district_id": "180603",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "1806032003",
+    "district_id": "180603",
+    "name": "DADIREJO"
+  },
+  {
+    "id": "1806032004",
+    "district_id": "180603",
+    "name": "BANYU URIP"
+  },
+  {
+    "id": "1806032005",
+    "district_id": "180603",
+    "name": "WONOSOBO"
+  },
+  {
+    "id": "1806032006",
+    "district_id": "180603",
+    "name": "SOPONYONO"
+  },
+  {
+    "id": "1806032007",
+    "district_id": "180603",
+    "name": "BANDAR KEJADIAN"
+  },
+  {
+    "id": "1806032008",
+    "district_id": "180603",
+    "name": "WAY PANAS"
+  },
+  {
+    "id": "1806032009",
+    "district_id": "180603",
+    "name": "SINAR SAUDARA"
+  },
+  {
+    "id": "1806032010",
+    "district_id": "180603",
+    "name": "SRIDADI"
+  },
+  {
+    "id": "1806032011",
+    "district_id": "180603",
+    "name": "LAKARAN"
+  },
+  {
+    "id": "1806032012",
+    "district_id": "180603",
+    "name": "PADANG RATU"
+  },
+  {
+    "id": "1806032013",
+    "district_id": "180603",
+    "name": "PARDASUKA"
+  },
+  {
+    "id": "1806032014",
+    "district_id": "180603",
+    "name": "TANJUNG KURUNG"
+  },
+  {
+    "id": "1806032015",
+    "district_id": "180603",
+    "name": "PADANG MANIS"
+  },
+  {
+    "id": "1806032016",
+    "district_id": "180603",
+    "name": "KEJADIAN"
+  },
+  {
+    "id": "1806032017",
+    "district_id": "180603",
+    "name": "DADISARI"
+  },
+  {
+    "id": "1806032018",
+    "district_id": "180603",
+    "name": "KALISARI"
+  },
+  {
+    "id": "1806032019",
+    "district_id": "180603",
+    "name": "BANJAR NEGORO"
+  },
+  {
+    "id": "1806032020",
+    "district_id": "180603",
+    "name": "PEKON BALAK"
+  },
+  {
+    "id": "1806032021",
+    "district_id": "180603",
+    "name": "KUNYAYAN"
+  },
+  {
+    "id": "1806032022",
+    "district_id": "180603",
+    "name": "BANJAR SARI"
+  },
+  {
+    "id": "1806032023",
+    "district_id": "180603",
+    "name": "NEGERI NGARIP"
+  },
+  {
+    "id": "1806032034",
+    "district_id": "180603",
+    "name": "DADIMULYO"
+  },
+  {
+    "id": "1806032035",
+    "district_id": "180603",
+    "name": "SAMPANG TURUS"
+  },
+  {
+    "id": "1806032036",
+    "district_id": "180603",
+    "name": "SRI MELATI"
+  },
+  {
+    "id": "1806032037",
+    "district_id": "180603",
+    "name": "WAY LIWOK"
+  },
+  {
+    "id": "1806032038",
+    "district_id": "180603",
+    "name": "SUMUR TUJUH"
+  }
+]

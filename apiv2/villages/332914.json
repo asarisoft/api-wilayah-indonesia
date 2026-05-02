@@ -1,1 +1,97 @@
-[{"id": "3329142001", "district_id": "332914", "name": "BANGSRI"}, {"id": "3329142002", "district_id": "332914", "name": "BANJARATMA"}, {"id": "3329142003", "district_id": "332914", "name": "BULAKAMBA"}, {"id": "3329142004", "district_id": "332914", "name": "BULAKPAREN"}, {"id": "3329142005", "district_id": "332914", "name": "BULUSARI"}, {"id": "3329142006", "district_id": "332914", "name": "CIMOHONG"}, {"id": "3329142007", "district_id": "332914", "name": "CIPELEM"}, {"id": "3329142008", "district_id": "332914", "name": "DUKUHLO"}, {"id": "3329142009", "district_id": "332914", "name": "GRINTING"}, {"id": "3329142010", "district_id": "332914", "name": "JUBANG"}, {"id": "3329142011", "district_id": "332914", "name": "KARANGSARI"}, {"id": "3329142012", "district_id": "332914", "name": "KLUWUT"}, {"id": "3329142013", "district_id": "332914", "name": "LUWUNGRAGI"}, {"id": "3329142014", "district_id": "332914", "name": "PAKIJANGAN"}, {"id": "3329142015", "district_id": "332914", "name": "PETUNJUNGAN"}, {"id": "3329142016", "district_id": "332914", "name": "PULOGADING"}, {"id": "3329142017", "district_id": "332914", "name": "RANCAWULUH"}, {"id": "3329142018", "district_id": "332914", "name": "SIWULUH"}, {"id": "3329142019", "district_id": "332914", "name": "TEGALGLAGAH"}]
+[
+  {
+    "id": "3329142001",
+    "district_id": "332914",
+    "name": "BANGSRI"
+  },
+  {
+    "id": "3329142002",
+    "district_id": "332914",
+    "name": "BANJARATMA"
+  },
+  {
+    "id": "3329142003",
+    "district_id": "332914",
+    "name": "BULAKAMBA"
+  },
+  {
+    "id": "3329142004",
+    "district_id": "332914",
+    "name": "BULAKPAREN"
+  },
+  {
+    "id": "3329142005",
+    "district_id": "332914",
+    "name": "BULUSARI"
+  },
+  {
+    "id": "3329142006",
+    "district_id": "332914",
+    "name": "CIMOHONG"
+  },
+  {
+    "id": "3329142007",
+    "district_id": "332914",
+    "name": "CIPELEM"
+  },
+  {
+    "id": "3329142008",
+    "district_id": "332914",
+    "name": "DUKUHLO"
+  },
+  {
+    "id": "3329142009",
+    "district_id": "332914",
+    "name": "GRINTING"
+  },
+  {
+    "id": "3329142010",
+    "district_id": "332914",
+    "name": "JUBANG"
+  },
+  {
+    "id": "3329142011",
+    "district_id": "332914",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3329142012",
+    "district_id": "332914",
+    "name": "KLUWUT"
+  },
+  {
+    "id": "3329142013",
+    "district_id": "332914",
+    "name": "LUWUNGRAGI"
+  },
+  {
+    "id": "3329142014",
+    "district_id": "332914",
+    "name": "PAKIJANGAN"
+  },
+  {
+    "id": "3329142015",
+    "district_id": "332914",
+    "name": "PETUNJUNGAN"
+  },
+  {
+    "id": "3329142016",
+    "district_id": "332914",
+    "name": "PULOGADING"
+  },
+  {
+    "id": "3329142017",
+    "district_id": "332914",
+    "name": "RANCAWULUH"
+  },
+  {
+    "id": "3329142018",
+    "district_id": "332914",
+    "name": "SIWULUH"
+  },
+  {
+    "id": "3329142019",
+    "district_id": "332914",
+    "name": "TEGALGLAGAH"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "637101", "regency_id": "6371", "name": "BANJARMASIN SELATAN"}, {"id": "637102", "regency_id": "6371", "name": "BANJARMASIN TIMUR"}, {"id": "637103", "regency_id": "6371", "name": "BANJARMASIN BARAT"}, {"id": "637104", "regency_id": "6371", "name": "BANJARMASIN UTARA"}, {"id": "637105", "regency_id": "6371", "name": "BANJARMASIN TENGAH"}]
+[
+  {
+    "id": "637101",
+    "regency_id": "6371",
+    "name": "BANJARMASIN SELATAN"
+  },
+  {
+    "id": "637102",
+    "regency_id": "6371",
+    "name": "BANJARMASIN TIMUR"
+  },
+  {
+    "id": "637103",
+    "regency_id": "6371",
+    "name": "BANJARMASIN BARAT"
+  },
+  {
+    "id": "637104",
+    "regency_id": "6371",
+    "name": "BANJARMASIN UTARA"
+  },
+  {
+    "id": "637105",
+    "regency_id": "6371",
+    "name": "BANJARMASIN TENGAH"
+  }
+]

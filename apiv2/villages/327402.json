@@ -1,1 +1,22 @@
-[{"id": "3274021001", "district_id": "327402", "name": "PEGAMBIRAN"}, {"id": "3274021002", "district_id": "327402", "name": "LEMAHWUNGKUK"}, {"id": "3274021003", "district_id": "327402", "name": "KESEPUHAN"}, {"id": "3274021004", "district_id": "327402", "name": "PANJUNAN"}]
+[
+  {
+    "id": "3274021001",
+    "district_id": "327402",
+    "name": "PEGAMBIRAN"
+  },
+  {
+    "id": "3274021002",
+    "district_id": "327402",
+    "name": "LEMAHWUNGKUK"
+  },
+  {
+    "id": "3274021003",
+    "district_id": "327402",
+    "name": "KESEPUHAN"
+  },
+  {
+    "id": "3274021004",
+    "district_id": "327402",
+    "name": "PANJUNAN"
+  }
+]

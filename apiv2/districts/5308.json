@@ -1,1 +1,107 @@
-[{"id": "530801", "regency_id": "5308", "name": "NANGAPANDA"}, {"id": "530802", "regency_id": "5308", "name": "PULAU ENDE"}, {"id": "530803", "regency_id": "5308", "name": "ENDE"}, {"id": "530804", "regency_id": "5308", "name": "ENDE SELATAN"}, {"id": "530805", "regency_id": "5308", "name": "NDONA"}, {"id": "530806", "regency_id": "5308", "name": "DETUSOKO"}, {"id": "530807", "regency_id": "5308", "name": "WEWARIA"}, {"id": "530808", "regency_id": "5308", "name": "WOLOWARU"}, {"id": "530809", "regency_id": "5308", "name": "WOLOJITA"}, {"id": "530810", "regency_id": "5308", "name": "MAUROLE"}, {"id": "530811", "regency_id": "5308", "name": "MAUKARO"}, {"id": "530812", "regency_id": "5308", "name": "LIO TIMUR"}, {"id": "530813", "regency_id": "5308", "name": "KOTA BARU"}, {"id": "530814", "regency_id": "5308", "name": "KELIMUTU"}, {"id": "530815", "regency_id": "5308", "name": "DETUKELI"}, {"id": "530816", "regency_id": "5308", "name": "NDONA TIMUR"}, {"id": "530817", "regency_id": "5308", "name": "NDORI"}, {"id": "530818", "regency_id": "5308", "name": "ENDE UTARA"}, {"id": "530819", "regency_id": "5308", "name": "ENDE TENGAH"}, {"id": "530820", "regency_id": "5308", "name": "ENDE TIMUR"}, {"id": "530821", "regency_id": "5308", "name": "LEPEMBUSU KELISOKE"}]
+[
+  {
+    "id": "530801",
+    "regency_id": "5308",
+    "name": "NANGAPANDA"
+  },
+  {
+    "id": "530802",
+    "regency_id": "5308",
+    "name": "PULAU ENDE"
+  },
+  {
+    "id": "530803",
+    "regency_id": "5308",
+    "name": "ENDE"
+  },
+  {
+    "id": "530804",
+    "regency_id": "5308",
+    "name": "ENDE SELATAN"
+  },
+  {
+    "id": "530805",
+    "regency_id": "5308",
+    "name": "NDONA"
+  },
+  {
+    "id": "530806",
+    "regency_id": "5308",
+    "name": "DETUSOKO"
+  },
+  {
+    "id": "530807",
+    "regency_id": "5308",
+    "name": "WEWARIA"
+  },
+  {
+    "id": "530808",
+    "regency_id": "5308",
+    "name": "WOLOWARU"
+  },
+  {
+    "id": "530809",
+    "regency_id": "5308",
+    "name": "WOLOJITA"
+  },
+  {
+    "id": "530810",
+    "regency_id": "5308",
+    "name": "MAUROLE"
+  },
+  {
+    "id": "530811",
+    "regency_id": "5308",
+    "name": "MAUKARO"
+  },
+  {
+    "id": "530812",
+    "regency_id": "5308",
+    "name": "LIO TIMUR"
+  },
+  {
+    "id": "530813",
+    "regency_id": "5308",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "530814",
+    "regency_id": "5308",
+    "name": "KELIMUTU"
+  },
+  {
+    "id": "530815",
+    "regency_id": "5308",
+    "name": "DETUKELI"
+  },
+  {
+    "id": "530816",
+    "regency_id": "5308",
+    "name": "NDONA TIMUR"
+  },
+  {
+    "id": "530817",
+    "regency_id": "5308",
+    "name": "NDORI"
+  },
+  {
+    "id": "530818",
+    "regency_id": "5308",
+    "name": "ENDE UTARA"
+  },
+  {
+    "id": "530819",
+    "regency_id": "5308",
+    "name": "ENDE TENGAH"
+  },
+  {
+    "id": "530820",
+    "regency_id": "5308",
+    "name": "ENDE TIMUR"
+  },
+  {
+    "id": "530821",
+    "regency_id": "5308",
+    "name": "LEPEMBUSU KELISOKE"
+  }
+]

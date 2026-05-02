@@ -1,1 +1,22 @@
-[{"id": "7403332001", "district_id": "740333", "name": "KOLESE"}, {"id": "7403332002", "district_id": "740333", "name": "TAMPUNABALE"}, {"id": "7403332003", "district_id": "740333", "name": "MATA INDAHA"}, {"id": "7403332004", "district_id": "740333", "name": "LAMBELU"}]
+[
+  {
+    "id": "7403332001",
+    "district_id": "740333",
+    "name": "KOLESE"
+  },
+  {
+    "id": "7403332002",
+    "district_id": "740333",
+    "name": "TAMPUNABALE"
+  },
+  {
+    "id": "7403332003",
+    "district_id": "740333",
+    "name": "MATA INDAHA"
+  },
+  {
+    "id": "7403332004",
+    "district_id": "740333",
+    "name": "LAMBELU"
+  }
+]

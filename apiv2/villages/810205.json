@@ -1,1 +1,152 @@
-[{"id": "8102052001", "district_id": "810205", "name": "HOLLAT"}, {"id": "8102052002", "district_id": "810205", "name": "OHOIRAUT"}, {"id": "8102052003", "district_id": "810205", "name": "HAAR OHOIMEL"}, {"id": "8102052004", "district_id": "810205", "name": "LANGGIAR HAAR"}, {"id": "8102052005", "district_id": "810205", "name": "BANDA ELI"}, {"id": "8102052006", "district_id": "810205", "name": "WATLAAR"}, {"id": "8102052007", "district_id": "810205", "name": "OHOIFAU"}, {"id": "8102052008", "district_id": "810205", "name": "KILWAIR"}, {"id": "8102052009", "district_id": "810205", "name": "RENFAN"}, {"id": "8102052010", "district_id": "810205", "name": "HOLLAT SOLAIR"}, {"id": "8102052011", "district_id": "810205", "name": "HOKO"}, {"id": "8102052012", "district_id": "810205", "name": "HOLLAY"}, {"id": "8102052013", "district_id": "810205", "name": "SOIN"}, {"id": "8102052014", "district_id": "810205", "name": "HAAR OHOIMUR GPM"}, {"id": "8102052015", "district_id": "810205", "name": "HAAR OHOIMUR RK"}, {"id": "8102052016", "district_id": "810205", "name": "HAAR OHOIWAIT"}, {"id": "8102052017", "district_id": "810205", "name": "HAAR WASSAR"}, {"id": "8102052018", "district_id": "810205", "name": "HAAR RENRAHANTEL"}, {"id": "8102052019", "district_id": "810205", "name": "UR"}, {"id": "8102052020", "district_id": "810205", "name": "OHOIMAJANG"}, {"id": "8102052021", "district_id": "810205", "name": "BANDA EFRUAN"}, {"id": "8102052022", "district_id": "810205", "name": "BANDA SUKU TIGAPULUH"}, {"id": "8102052023", "district_id": "810205", "name": "TUBURLAY"}, {"id": "8102052024", "district_id": "810205", "name": "OHOIFARUAN"}, {"id": "8102052025", "district_id": "810205", "name": "OHOIWIRIN"}, {"id": "8102052026", "district_id": "810205", "name": "TUBURNGIL"}, {"id": "8102052027", "district_id": "810205", "name": "YAMTIMUR"}, {"id": "8102052028", "district_id": "810205", "name": "RENFAAN ISLAM"}, {"id": "8102052029", "district_id": "810205", "name": "RENFAAN GPM"}, {"id": "8102052030", "district_id": "810205", "name": "FANWAV"}]
+[
+  {
+    "id": "8102052001",
+    "district_id": "810205",
+    "name": "HOLLAT"
+  },
+  {
+    "id": "8102052002",
+    "district_id": "810205",
+    "name": "OHOIRAUT"
+  },
+  {
+    "id": "8102052003",
+    "district_id": "810205",
+    "name": "HAAR OHOIMEL"
+  },
+  {
+    "id": "8102052004",
+    "district_id": "810205",
+    "name": "LANGGIAR HAAR"
+  },
+  {
+    "id": "8102052005",
+    "district_id": "810205",
+    "name": "BANDA ELI"
+  },
+  {
+    "id": "8102052006",
+    "district_id": "810205",
+    "name": "WATLAAR"
+  },
+  {
+    "id": "8102052007",
+    "district_id": "810205",
+    "name": "OHOIFAU"
+  },
+  {
+    "id": "8102052008",
+    "district_id": "810205",
+    "name": "KILWAIR"
+  },
+  {
+    "id": "8102052009",
+    "district_id": "810205",
+    "name": "RENFAN"
+  },
+  {
+    "id": "8102052010",
+    "district_id": "810205",
+    "name": "HOLLAT SOLAIR"
+  },
+  {
+    "id": "8102052011",
+    "district_id": "810205",
+    "name": "HOKO"
+  },
+  {
+    "id": "8102052012",
+    "district_id": "810205",
+    "name": "HOLLAY"
+  },
+  {
+    "id": "8102052013",
+    "district_id": "810205",
+    "name": "SOIN"
+  },
+  {
+    "id": "8102052014",
+    "district_id": "810205",
+    "name": "HAAR OHOIMUR GPM"
+  },
+  {
+    "id": "8102052015",
+    "district_id": "810205",
+    "name": "HAAR OHOIMUR RK"
+  },
+  {
+    "id": "8102052016",
+    "district_id": "810205",
+    "name": "HAAR OHOIWAIT"
+  },
+  {
+    "id": "8102052017",
+    "district_id": "810205",
+    "name": "HAAR WASSAR"
+  },
+  {
+    "id": "8102052018",
+    "district_id": "810205",
+    "name": "HAAR RENRAHANTEL"
+  },
+  {
+    "id": "8102052019",
+    "district_id": "810205",
+    "name": "UR"
+  },
+  {
+    "id": "8102052020",
+    "district_id": "810205",
+    "name": "OHOIMAJANG"
+  },
+  {
+    "id": "8102052021",
+    "district_id": "810205",
+    "name": "BANDA EFRUAN"
+  },
+  {
+    "id": "8102052022",
+    "district_id": "810205",
+    "name": "BANDA SUKU TIGAPULUH"
+  },
+  {
+    "id": "8102052023",
+    "district_id": "810205",
+    "name": "TUBURLAY"
+  },
+  {
+    "id": "8102052024",
+    "district_id": "810205",
+    "name": "OHOIFARUAN"
+  },
+  {
+    "id": "8102052025",
+    "district_id": "810205",
+    "name": "OHOIWIRIN"
+  },
+  {
+    "id": "8102052026",
+    "district_id": "810205",
+    "name": "TUBURNGIL"
+  },
+  {
+    "id": "8102052027",
+    "district_id": "810205",
+    "name": "YAMTIMUR"
+  },
+  {
+    "id": "8102052028",
+    "district_id": "810205",
+    "name": "RENFAAN ISLAM"
+  },
+  {
+    "id": "8102052029",
+    "district_id": "810205",
+    "name": "RENFAAN GPM"
+  },
+  {
+    "id": "8102052030",
+    "district_id": "810205",
+    "name": "FANWAV"
+  }
+]

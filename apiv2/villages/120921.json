@@ -1,1 +1,47 @@
-[{"id": "1209212001", "district_id": "120921", "name": "AEK SONGSONGAN"}, {"id": "1209212002", "district_id": "120921", "name": "PERKEBUNAN BANDAR SELAMAT"}, {"id": "1209212003", "district_id": "120921", "name": "PERKEBUNAN BANDAR PULAU"}, {"id": "1209212004", "district_id": "120921", "name": "AEK BAMBAN"}, {"id": "1209212005", "district_id": "120921", "name": "MARJANJI ACEH"}, {"id": "1209212006", "district_id": "120921", "name": "LOBU RAPPA"}, {"id": "1209212007", "district_id": "120921", "name": "TANGGA"}, {"id": "1209212008", "district_id": "120921", "name": "SITUNJAK"}, {"id": "1209212009", "district_id": "120921", "name": "MEKAR MARJANJI"}]
+[
+  {
+    "id": "1209212001",
+    "district_id": "120921",
+    "name": "AEK SONGSONGAN"
+  },
+  {
+    "id": "1209212002",
+    "district_id": "120921",
+    "name": "PERKEBUNAN BANDAR SELAMAT"
+  },
+  {
+    "id": "1209212003",
+    "district_id": "120921",
+    "name": "PERKEBUNAN BANDAR PULAU"
+  },
+  {
+    "id": "1209212004",
+    "district_id": "120921",
+    "name": "AEK BAMBAN"
+  },
+  {
+    "id": "1209212005",
+    "district_id": "120921",
+    "name": "MARJANJI ACEH"
+  },
+  {
+    "id": "1209212006",
+    "district_id": "120921",
+    "name": "LOBU RAPPA"
+  },
+  {
+    "id": "1209212007",
+    "district_id": "120921",
+    "name": "TANGGA"
+  },
+  {
+    "id": "1209212008",
+    "district_id": "120921",
+    "name": "SITUNJAK"
+  },
+  {
+    "id": "1209212009",
+    "district_id": "120921",
+    "name": "MEKAR MARJANJI"
+  }
+]

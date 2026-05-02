@@ -1,1 +1,67 @@
-[{"id": "6302132002", "district_id": "630213", "name": "BEPARA"}, {"id": "6302132004", "district_id": "630213", "name": "BETUNG"}, {"id": "6302132005", "district_id": "630213", "name": "SEKAYU BARU"}, {"id": "6302132006", "district_id": "630213", "name": "BAKAU"}, {"id": "6302132007", "district_id": "630213", "name": "BINTURUNG"}, {"id": "6302132008", "district_id": "630213", "name": "HARAPAN BARU"}, {"id": "6302132009", "district_id": "630213", "name": "BALAIMEA"}, {"id": "6302132010", "district_id": "630213", "name": "TAMIANG"}, {"id": "6302132011", "district_id": "630213", "name": "KALIAN"}, {"id": "6302132012", "district_id": "630213", "name": "MULYOHARJO"}, {"id": "6302132013", "district_id": "630213", "name": "PAMUKAN INDAH"}, {"id": "6302132014", "district_id": "630213", "name": "WONOREJO"}, {"id": "6302132015", "district_id": "630213", "name": "LINTANG JAYA"}]
+[
+  {
+    "id": "6302132002",
+    "district_id": "630213",
+    "name": "BEPARA"
+  },
+  {
+    "id": "6302132004",
+    "district_id": "630213",
+    "name": "BETUNG"
+  },
+  {
+    "id": "6302132005",
+    "district_id": "630213",
+    "name": "SEKAYU BARU"
+  },
+  {
+    "id": "6302132006",
+    "district_id": "630213",
+    "name": "BAKAU"
+  },
+  {
+    "id": "6302132007",
+    "district_id": "630213",
+    "name": "BINTURUNG"
+  },
+  {
+    "id": "6302132008",
+    "district_id": "630213",
+    "name": "HARAPAN BARU"
+  },
+  {
+    "id": "6302132009",
+    "district_id": "630213",
+    "name": "BALAIMEA"
+  },
+  {
+    "id": "6302132010",
+    "district_id": "630213",
+    "name": "TAMIANG"
+  },
+  {
+    "id": "6302132011",
+    "district_id": "630213",
+    "name": "KALIAN"
+  },
+  {
+    "id": "6302132012",
+    "district_id": "630213",
+    "name": "MULYOHARJO"
+  },
+  {
+    "id": "6302132013",
+    "district_id": "630213",
+    "name": "PAMUKAN INDAH"
+  },
+  {
+    "id": "6302132014",
+    "district_id": "630213",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "6302132015",
+    "district_id": "630213",
+    "name": "LINTANG JAYA"
+  }
+]

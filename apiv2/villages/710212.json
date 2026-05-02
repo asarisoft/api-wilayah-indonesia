@@ -1,1 +1,52 @@
-[{"id": "7102121005", "district_id": "710212", "name": "SENDANGAN"}, {"id": "7102121011", "district_id": "710212", "name": "KINALI"}, {"id": "7102121019", "district_id": "710212", "name": "SENDANGAN SELATAN"}, {"id": "7102121020", "district_id": "710212", "name": "SENDANGAN TENGAH"}, {"id": "7102121028", "district_id": "710212", "name": "UNER SATU"}, {"id": "7102121029", "district_id": "710212", "name": "KINALI SATU"}, {"id": "7102122012", "district_id": "710212", "name": "TONDEGESAN"}, {"id": "7102122016", "district_id": "710212", "name": "KANONANG TIGA"}, {"id": "7102122030", "district_id": "710212", "name": "TONDEGESAN SATU"}, {"id": "7102122031", "district_id": "710212", "name": "TONDEGESAN DUA"}]
+[
+  {
+    "id": "7102121005",
+    "district_id": "710212",
+    "name": "SENDANGAN"
+  },
+  {
+    "id": "7102121011",
+    "district_id": "710212",
+    "name": "KINALI"
+  },
+  {
+    "id": "7102121019",
+    "district_id": "710212",
+    "name": "SENDANGAN SELATAN"
+  },
+  {
+    "id": "7102121020",
+    "district_id": "710212",
+    "name": "SENDANGAN TENGAH"
+  },
+  {
+    "id": "7102121028",
+    "district_id": "710212",
+    "name": "UNER SATU"
+  },
+  {
+    "id": "7102121029",
+    "district_id": "710212",
+    "name": "KINALI SATU"
+  },
+  {
+    "id": "7102122012",
+    "district_id": "710212",
+    "name": "TONDEGESAN"
+  },
+  {
+    "id": "7102122016",
+    "district_id": "710212",
+    "name": "KANONANG TIGA"
+  },
+  {
+    "id": "7102122030",
+    "district_id": "710212",
+    "name": "TONDEGESAN SATU"
+  },
+  {
+    "id": "7102122031",
+    "district_id": "710212",
+    "name": "TONDEGESAN DUA"
+  }
+]

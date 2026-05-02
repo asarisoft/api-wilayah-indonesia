@@ -1,1 +1,72 @@
-[{"id": "9301072001", "district_id": "930107", "name": "KARTINI"}, {"id": "9301072002", "district_id": "930107", "name": "MAKARTI JAYA"}, {"id": "9301072003", "district_id": "930107", "name": "NALKIN"}, {"id": "9301072004", "district_id": "930107", "name": "ANGGER PERMEGI"}, {"id": "9301072005", "district_id": "930107", "name": "POO"}, {"id": "9301072006", "district_id": "930107", "name": "MIMI BARU"}, {"id": "9301072007", "district_id": "930107", "name": "KAMNO SARI"}, {"id": "9301072008", "district_id": "930107", "name": "BLANDIN KAKAYO"}, {"id": "9301072009", "district_id": "930107", "name": "GURINDA JAYA"}, {"id": "9301072010", "district_id": "930107", "name": "JAGEBOB RAYA"}, {"id": "9301072011", "district_id": "930107", "name": "WENDA ASRI"}, {"id": "9301072012", "district_id": "930107", "name": "MELIN MEGIKAR"}, {"id": "9301072013", "district_id": "930107", "name": "OBAAT THROW"}, {"id": "9301072014", "district_id": "930107", "name": "YEMUNAIN JAYA"}]
+[
+  {
+    "id": "9301072001",
+    "district_id": "930107",
+    "name": "KARTINI"
+  },
+  {
+    "id": "9301072002",
+    "district_id": "930107",
+    "name": "MAKARTI JAYA"
+  },
+  {
+    "id": "9301072003",
+    "district_id": "930107",
+    "name": "NALKIN"
+  },
+  {
+    "id": "9301072004",
+    "district_id": "930107",
+    "name": "ANGGER PERMEGI"
+  },
+  {
+    "id": "9301072005",
+    "district_id": "930107",
+    "name": "POO"
+  },
+  {
+    "id": "9301072006",
+    "district_id": "930107",
+    "name": "MIMI BARU"
+  },
+  {
+    "id": "9301072007",
+    "district_id": "930107",
+    "name": "KAMNO SARI"
+  },
+  {
+    "id": "9301072008",
+    "district_id": "930107",
+    "name": "BLANDIN KAKAYO"
+  },
+  {
+    "id": "9301072009",
+    "district_id": "930107",
+    "name": "GURINDA JAYA"
+  },
+  {
+    "id": "9301072010",
+    "district_id": "930107",
+    "name": "JAGEBOB RAYA"
+  },
+  {
+    "id": "9301072011",
+    "district_id": "930107",
+    "name": "WENDA ASRI"
+  },
+  {
+    "id": "9301072012",
+    "district_id": "930107",
+    "name": "MELIN MEGIKAR"
+  },
+  {
+    "id": "9301072013",
+    "district_id": "930107",
+    "name": "OBAAT THROW"
+  },
+  {
+    "id": "9301072014",
+    "district_id": "930107",
+    "name": "YEMUNAIN JAYA"
+  }
+]

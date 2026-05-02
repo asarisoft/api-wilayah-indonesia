@@ -1,1 +1,142 @@
-[{"id": "180201", "regency_id": "1802", "name": "KALIREJO"}, {"id": "180202", "regency_id": "1802", "name": "BANGUN REJO"}, {"id": "180203", "regency_id": "1802", "name": "PADANG RATU"}, {"id": "180204", "regency_id": "1802", "name": "GUNUNG SUGIH"}, {"id": "180205", "regency_id": "1802", "name": "TRIMURJO"}, {"id": "180206", "regency_id": "1802", "name": "PUNGGUR"}, {"id": "180207", "regency_id": "1802", "name": "TERBANGGI BESAR"}, {"id": "180208", "regency_id": "1802", "name": "SEPUTIH RAMAN"}, {"id": "180209", "regency_id": "1802", "name": "RUMBIA"}, {"id": "180210", "regency_id": "1802", "name": "SEPUTIH BANYAK"}, {"id": "180211", "regency_id": "1802", "name": "SEPUTIH MATARAM"}, {"id": "180212", "regency_id": "1802", "name": "SEPUTIH SURABAYA"}, {"id": "180213", "regency_id": "1802", "name": "TERUSAN NUNYAI"}, {"id": "180214", "regency_id": "1802", "name": "BUMI RATU NUBAN"}, {"id": "180215", "regency_id": "1802", "name": "BEKRI"}, {"id": "180216", "regency_id": "1802", "name": "SEPUTIH AGUNG"}, {"id": "180217", "regency_id": "1802", "name": "WAY PENGUBUAN"}, {"id": "180218", "regency_id": "1802", "name": "BANDAR MATARAM"}, {"id": "180219", "regency_id": "1802", "name": "PUBIAN"}, {"id": "180220", "regency_id": "1802", "name": "SELAGAI LINGGA"}, {"id": "180221", "regency_id": "1802", "name": "ANAK TUHA"}, {"id": "180222", "regency_id": "1802", "name": "SENDANG AGUNG"}, {"id": "180223", "regency_id": "1802", "name": "KOTA GAJAH"}, {"id": "180224", "regency_id": "1802", "name": "BUMI NABUNG"}, {"id": "180225", "regency_id": "1802", "name": "WAY SEPUTIH"}, {"id": "180226", "regency_id": "1802", "name": "BANDAR SURABAYA"}, {"id": "180227", "regency_id": "1802", "name": "ANAK RATU AJI"}, {"id": "180228", "regency_id": "1802", "name": "PUTRA RUMBIA"}]
+[
+  {
+    "id": "180201",
+    "regency_id": "1802",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "180202",
+    "regency_id": "1802",
+    "name": "BANGUN REJO"
+  },
+  {
+    "id": "180203",
+    "regency_id": "1802",
+    "name": "PADANG RATU"
+  },
+  {
+    "id": "180204",
+    "regency_id": "1802",
+    "name": "GUNUNG SUGIH"
+  },
+  {
+    "id": "180205",
+    "regency_id": "1802",
+    "name": "TRIMURJO"
+  },
+  {
+    "id": "180206",
+    "regency_id": "1802",
+    "name": "PUNGGUR"
+  },
+  {
+    "id": "180207",
+    "regency_id": "1802",
+    "name": "TERBANGGI BESAR"
+  },
+  {
+    "id": "180208",
+    "regency_id": "1802",
+    "name": "SEPUTIH RAMAN"
+  },
+  {
+    "id": "180209",
+    "regency_id": "1802",
+    "name": "RUMBIA"
+  },
+  {
+    "id": "180210",
+    "regency_id": "1802",
+    "name": "SEPUTIH BANYAK"
+  },
+  {
+    "id": "180211",
+    "regency_id": "1802",
+    "name": "SEPUTIH MATARAM"
+  },
+  {
+    "id": "180212",
+    "regency_id": "1802",
+    "name": "SEPUTIH SURABAYA"
+  },
+  {
+    "id": "180213",
+    "regency_id": "1802",
+    "name": "TERUSAN NUNYAI"
+  },
+  {
+    "id": "180214",
+    "regency_id": "1802",
+    "name": "BUMI RATU NUBAN"
+  },
+  {
+    "id": "180215",
+    "regency_id": "1802",
+    "name": "BEKRI"
+  },
+  {
+    "id": "180216",
+    "regency_id": "1802",
+    "name": "SEPUTIH AGUNG"
+  },
+  {
+    "id": "180217",
+    "regency_id": "1802",
+    "name": "WAY PENGUBUAN"
+  },
+  {
+    "id": "180218",
+    "regency_id": "1802",
+    "name": "BANDAR MATARAM"
+  },
+  {
+    "id": "180219",
+    "regency_id": "1802",
+    "name": "PUBIAN"
+  },
+  {
+    "id": "180220",
+    "regency_id": "1802",
+    "name": "SELAGAI LINGGA"
+  },
+  {
+    "id": "180221",
+    "regency_id": "1802",
+    "name": "ANAK TUHA"
+  },
+  {
+    "id": "180222",
+    "regency_id": "1802",
+    "name": "SENDANG AGUNG"
+  },
+  {
+    "id": "180223",
+    "regency_id": "1802",
+    "name": "KOTA GAJAH"
+  },
+  {
+    "id": "180224",
+    "regency_id": "1802",
+    "name": "BUMI NABUNG"
+  },
+  {
+    "id": "180225",
+    "regency_id": "1802",
+    "name": "WAY SEPUTIH"
+  },
+  {
+    "id": "180226",
+    "regency_id": "1802",
+    "name": "BANDAR SURABAYA"
+  },
+  {
+    "id": "180227",
+    "regency_id": "1802",
+    "name": "ANAK RATU AJI"
+  },
+  {
+    "id": "180228",
+    "regency_id": "1802",
+    "name": "PUTRA RUMBIA"
+  }
+]

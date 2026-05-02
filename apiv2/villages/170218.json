@@ -1,1 +1,57 @@
-[{"id": "1702181001", "district_id": "170218", "name": "AIR PUTIH BARU"}, {"id": "1702181002", "district_id": "170218", "name": "TEMPEL REJO"}, {"id": "1702182003", "district_id": "170218", "name": "RIMBO RECAP"}, {"id": "1702182004", "district_id": "170218", "name": "WATAS MARGA"}, {"id": "1702182005", "district_id": "170218", "name": "TELADAN"}, {"id": "1702182006", "district_id": "170218", "name": "SUKA MARGA"}, {"id": "1702182007", "district_id": "170218", "name": "LUBUK UBAR"}, {"id": "1702182008", "district_id": "170218", "name": "PUNGGUK LALANG"}, {"id": "1702182009", "district_id": "170218", "name": "TURAN BARU"}, {"id": "1702182010", "district_id": "170218", "name": "TANJUNG DALAM"}, {"id": "1702182011", "district_id": "170218", "name": "AIR LANANG"}]
+[
+  {
+    "id": "1702181001",
+    "district_id": "170218",
+    "name": "AIR PUTIH BARU"
+  },
+  {
+    "id": "1702181002",
+    "district_id": "170218",
+    "name": "TEMPEL REJO"
+  },
+  {
+    "id": "1702182003",
+    "district_id": "170218",
+    "name": "RIMBO RECAP"
+  },
+  {
+    "id": "1702182004",
+    "district_id": "170218",
+    "name": "WATAS MARGA"
+  },
+  {
+    "id": "1702182005",
+    "district_id": "170218",
+    "name": "TELADAN"
+  },
+  {
+    "id": "1702182006",
+    "district_id": "170218",
+    "name": "SUKA MARGA"
+  },
+  {
+    "id": "1702182007",
+    "district_id": "170218",
+    "name": "LUBUK UBAR"
+  },
+  {
+    "id": "1702182008",
+    "district_id": "170218",
+    "name": "PUNGGUK LALANG"
+  },
+  {
+    "id": "1702182009",
+    "district_id": "170218",
+    "name": "TURAN BARU"
+  },
+  {
+    "id": "1702182010",
+    "district_id": "170218",
+    "name": "TANJUNG DALAM"
+  },
+  {
+    "id": "1702182011",
+    "district_id": "170218",
+    "name": "AIR LANANG"
+  }
+]

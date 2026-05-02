@@ -1,1 +1,47 @@
-[{"id": "6304101001", "district_id": "630410", "name": "LEPASAN"}, {"id": "6304102002", "district_id": "630410", "name": "BANUA ANYAR"}, {"id": "6304102003", "district_id": "630410", "name": "MURUNG RAYA"}, {"id": "6304102004", "district_id": "630410", "name": "PALINGKAU"}, {"id": "6304102005", "district_id": "630410", "name": "BALUKUNG"}, {"id": "6304102006", "district_id": "630410", "name": "BANITAN"}, {"id": "6304102007", "district_id": "630410", "name": "BATIK"}, {"id": "6304102008", "district_id": "630410", "name": "BAHALAYUNG"}, {"id": "6304102009", "district_id": "630410", "name": "SUNGAI SELIRIK"}]
+[
+  {
+    "id": "6304101001",
+    "district_id": "630410",
+    "name": "LEPASAN"
+  },
+  {
+    "id": "6304102002",
+    "district_id": "630410",
+    "name": "BANUA ANYAR"
+  },
+  {
+    "id": "6304102003",
+    "district_id": "630410",
+    "name": "MURUNG RAYA"
+  },
+  {
+    "id": "6304102004",
+    "district_id": "630410",
+    "name": "PALINGKAU"
+  },
+  {
+    "id": "6304102005",
+    "district_id": "630410",
+    "name": "BALUKUNG"
+  },
+  {
+    "id": "6304102006",
+    "district_id": "630410",
+    "name": "BANITAN"
+  },
+  {
+    "id": "6304102007",
+    "district_id": "630410",
+    "name": "BATIK"
+  },
+  {
+    "id": "6304102008",
+    "district_id": "630410",
+    "name": "BAHALAYUNG"
+  },
+  {
+    "id": "6304102009",
+    "district_id": "630410",
+    "name": "SUNGAI SELIRIK"
+  }
+]

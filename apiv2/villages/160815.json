@@ -1,1 +1,97 @@
-[{"id": "1608152001", "district_id": "160815", "name": "KARANG MELATI"}, {"id": "1608152002", "district_id": "160815", "name": "KARANG MENJANGAN"}, {"id": "1608152003", "district_id": "160815", "name": "KARANG ANYAR"}, {"id": "1608152004", "district_id": "160815", "name": "TULUNG HARAPAN"}, {"id": "1608152005", "district_id": "160815", "name": "KOTA TANAH"}, {"id": "1608152006", "district_id": "160815", "name": "NIRWANA"}, {"id": "1608152007", "district_id": "160815", "name": "BURNAI MULYA"}, {"id": "1608152008", "district_id": "160815", "name": "KOTA MULYA"}, {"id": "1608152009", "district_id": "160815", "name": "BUNGIN JAYA"}, {"id": "1608152010", "district_id": "160815", "name": "BURNAI JAYA"}, {"id": "1608152011", "district_id": "160815", "name": "MULIA JAYA"}, {"id": "1608152012", "district_id": "160815", "name": "MELATI JAYA"}, {"id": "1608152013", "district_id": "160815", "name": "KARANG MULYA"}, {"id": "1608152014", "district_id": "160815", "name": "WANASARI"}, {"id": "1608152015", "district_id": "160815", "name": "HARAPAN JAYA"}, {"id": "1608152016", "district_id": "160815", "name": "MELATI AGUNG"}, {"id": "1608152017", "district_id": "160815", "name": "WANA MAKMUR"}, {"id": "1608152018", "district_id": "160815", "name": "BAWANG TIKAR"}, {"id": "1608152019", "district_id": "160815", "name": "KARYA BAKTI"}]
+[
+  {
+    "id": "1608152001",
+    "district_id": "160815",
+    "name": "KARANG MELATI"
+  },
+  {
+    "id": "1608152002",
+    "district_id": "160815",
+    "name": "KARANG MENJANGAN"
+  },
+  {
+    "id": "1608152003",
+    "district_id": "160815",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1608152004",
+    "district_id": "160815",
+    "name": "TULUNG HARAPAN"
+  },
+  {
+    "id": "1608152005",
+    "district_id": "160815",
+    "name": "KOTA TANAH"
+  },
+  {
+    "id": "1608152006",
+    "district_id": "160815",
+    "name": "NIRWANA"
+  },
+  {
+    "id": "1608152007",
+    "district_id": "160815",
+    "name": "BURNAI MULYA"
+  },
+  {
+    "id": "1608152008",
+    "district_id": "160815",
+    "name": "KOTA MULYA"
+  },
+  {
+    "id": "1608152009",
+    "district_id": "160815",
+    "name": "BUNGIN JAYA"
+  },
+  {
+    "id": "1608152010",
+    "district_id": "160815",
+    "name": "BURNAI JAYA"
+  },
+  {
+    "id": "1608152011",
+    "district_id": "160815",
+    "name": "MULIA JAYA"
+  },
+  {
+    "id": "1608152012",
+    "district_id": "160815",
+    "name": "MELATI JAYA"
+  },
+  {
+    "id": "1608152013",
+    "district_id": "160815",
+    "name": "KARANG MULYA"
+  },
+  {
+    "id": "1608152014",
+    "district_id": "160815",
+    "name": "WANASARI"
+  },
+  {
+    "id": "1608152015",
+    "district_id": "160815",
+    "name": "HARAPAN JAYA"
+  },
+  {
+    "id": "1608152016",
+    "district_id": "160815",
+    "name": "MELATI AGUNG"
+  },
+  {
+    "id": "1608152017",
+    "district_id": "160815",
+    "name": "WANA MAKMUR"
+  },
+  {
+    "id": "1608152018",
+    "district_id": "160815",
+    "name": "BAWANG TIKAR"
+  },
+  {
+    "id": "1608152019",
+    "district_id": "160815",
+    "name": "KARYA BAKTI"
+  }
+]

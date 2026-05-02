@@ -1,1 +1,72 @@
-[{"id": "9405202001", "district_id": "940520", "name": "EROMAGA"}, {"id": "9405202002", "district_id": "940520", "name": "PINGGIL/ERONGGOBAK"}, {"id": "9405202003", "district_id": "940520", "name": "GILINI"}, {"id": "9405202004", "district_id": "940520", "name": "PINAPA"}, {"id": "9405202005", "district_id": "940520", "name": "KUNGA"}, {"id": "9405202006", "district_id": "940520", "name": "ONDUGURA"}, {"id": "9405202007", "district_id": "940520", "name": "MANGGUME"}, {"id": "9405202008", "district_id": "940520", "name": "KULEME"}, {"id": "9405202009", "district_id": "940520", "name": "NINGGIBOME"}, {"id": "9405202010", "district_id": "940520", "name": "AWILKINOP"}, {"id": "9405202011", "district_id": "940520", "name": "DOMAOA"}, {"id": "9405202012", "district_id": "940520", "name": "PUNGTRAMA"}, {"id": "9405202013", "district_id": "940520", "name": "BALAMAGALAMA"}, {"id": "9405202014", "district_id": "940520", "name": "AMINGGARU"}]
+[
+  {
+    "id": "9405202001",
+    "district_id": "940520",
+    "name": "EROMAGA"
+  },
+  {
+    "id": "9405202002",
+    "district_id": "940520",
+    "name": "PINGGIL/ERONGGOBAK"
+  },
+  {
+    "id": "9405202003",
+    "district_id": "940520",
+    "name": "GILINI"
+  },
+  {
+    "id": "9405202004",
+    "district_id": "940520",
+    "name": "PINAPA"
+  },
+  {
+    "id": "9405202005",
+    "district_id": "940520",
+    "name": "KUNGA"
+  },
+  {
+    "id": "9405202006",
+    "district_id": "940520",
+    "name": "ONDUGURA"
+  },
+  {
+    "id": "9405202007",
+    "district_id": "940520",
+    "name": "MANGGUME"
+  },
+  {
+    "id": "9405202008",
+    "district_id": "940520",
+    "name": "KULEME"
+  },
+  {
+    "id": "9405202009",
+    "district_id": "940520",
+    "name": "NINGGIBOME"
+  },
+  {
+    "id": "9405202010",
+    "district_id": "940520",
+    "name": "AWILKINOP"
+  },
+  {
+    "id": "9405202011",
+    "district_id": "940520",
+    "name": "DOMAOA"
+  },
+  {
+    "id": "9405202012",
+    "district_id": "940520",
+    "name": "PUNGTRAMA"
+  },
+  {
+    "id": "9405202013",
+    "district_id": "940520",
+    "name": "BALAMAGALAMA"
+  },
+  {
+    "id": "9405202014",
+    "district_id": "940520",
+    "name": "AMINGGARU"
+  }
+]

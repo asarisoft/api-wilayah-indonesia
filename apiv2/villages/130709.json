@@ -1,1 +1,42 @@
-[{"id": "1307092001", "district_id": "130709", "name": "LABUAH GUNUANG"}, {"id": "1307092002", "district_id": "130709", "name": "BATU PAYUANG"}, {"id": "1307092003", "district_id": "130709", "name": "AMPALU"}, {"id": "1307092004", "district_id": "130709", "name": "BUKIK SIKUMPA"}, {"id": "1307092005", "district_id": "130709", "name": "BALAI PANJANG"}, {"id": "1307092006", "district_id": "130709", "name": "HALABAN"}, {"id": "1307092007", "district_id": "130709", "name": "TANJUANG GADANG"}, {"id": "1307092008", "district_id": "130709", "name": "SITANANG"}]
+[
+  {
+    "id": "1307092001",
+    "district_id": "130709",
+    "name": "LABUAH GUNUANG"
+  },
+  {
+    "id": "1307092002",
+    "district_id": "130709",
+    "name": "BATU PAYUANG"
+  },
+  {
+    "id": "1307092003",
+    "district_id": "130709",
+    "name": "AMPALU"
+  },
+  {
+    "id": "1307092004",
+    "district_id": "130709",
+    "name": "BUKIK SIKUMPA"
+  },
+  {
+    "id": "1307092005",
+    "district_id": "130709",
+    "name": "BALAI PANJANG"
+  },
+  {
+    "id": "1307092006",
+    "district_id": "130709",
+    "name": "HALABAN"
+  },
+  {
+    "id": "1307092007",
+    "district_id": "130709",
+    "name": "TANJUANG GADANG"
+  },
+  {
+    "id": "1307092008",
+    "district_id": "130709",
+    "name": "SITANANG"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3208322001", "district_id": "320832", "name": "BUNIGEULIS"}, {"id": "3208322002", "district_id": "320832", "name": "JAMBUGEULIS"}, {"id": "3208322003", "district_id": "320832", "name": "KOREAK"}, {"id": "3208322004", "district_id": "320832", "name": "KARANGMUNCANG"}, {"id": "3208322005", "district_id": "320832", "name": "SANGKANURIP"}, {"id": "3208322006", "district_id": "320832", "name": "PANAWUAN"}, {"id": "3208322007", "district_id": "320832", "name": "TIMBANG"}, {"id": "3208322008", "district_id": "320832", "name": "BABAKANJATI"}, {"id": "3208322009", "district_id": "320832", "name": "INDAPATRA"}, {"id": "3208322010", "district_id": "320832", "name": "CIBUNTU"}, {"id": "3208322011", "district_id": "320832", "name": "SANGKANMULYA"}]
+[
+  {
+    "id": "3208322001",
+    "district_id": "320832",
+    "name": "BUNIGEULIS"
+  },
+  {
+    "id": "3208322002",
+    "district_id": "320832",
+    "name": "JAMBUGEULIS"
+  },
+  {
+    "id": "3208322003",
+    "district_id": "320832",
+    "name": "KOREAK"
+  },
+  {
+    "id": "3208322004",
+    "district_id": "320832",
+    "name": "KARANGMUNCANG"
+  },
+  {
+    "id": "3208322005",
+    "district_id": "320832",
+    "name": "SANGKANURIP"
+  },
+  {
+    "id": "3208322006",
+    "district_id": "320832",
+    "name": "PANAWUAN"
+  },
+  {
+    "id": "3208322007",
+    "district_id": "320832",
+    "name": "TIMBANG"
+  },
+  {
+    "id": "3208322008",
+    "district_id": "320832",
+    "name": "BABAKANJATI"
+  },
+  {
+    "id": "3208322009",
+    "district_id": "320832",
+    "name": "INDAPATRA"
+  },
+  {
+    "id": "3208322010",
+    "district_id": "320832",
+    "name": "CIBUNTU"
+  },
+  {
+    "id": "3208322011",
+    "district_id": "320832",
+    "name": "SANGKANMULYA"
+  }
+]

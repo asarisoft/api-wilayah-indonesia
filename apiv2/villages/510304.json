@@ -1,1 +1,37 @@
-[{"id": "5103042001", "district_id": "510304", "name": "CARANGSARI"}, {"id": "5103042002", "district_id": "510304", "name": "PETANG"}, {"id": "5103042003", "district_id": "510304", "name": "BELOK/SIDAN"}, {"id": "5103042004", "district_id": "510304", "name": "PELAGA"}, {"id": "5103042005", "district_id": "510304", "name": "GETASAN"}, {"id": "5103042006", "district_id": "510304", "name": "PANGSAN"}, {"id": "5103042007", "district_id": "510304", "name": "SULANGAI"}]
+[
+  {
+    "id": "5103042001",
+    "district_id": "510304",
+    "name": "CARANGSARI"
+  },
+  {
+    "id": "5103042002",
+    "district_id": "510304",
+    "name": "PETANG"
+  },
+  {
+    "id": "5103042003",
+    "district_id": "510304",
+    "name": "BELOK/SIDAN"
+  },
+  {
+    "id": "5103042004",
+    "district_id": "510304",
+    "name": "PELAGA"
+  },
+  {
+    "id": "5103042005",
+    "district_id": "510304",
+    "name": "GETASAN"
+  },
+  {
+    "id": "5103042006",
+    "district_id": "510304",
+    "name": "PANGSAN"
+  },
+  {
+    "id": "5103042007",
+    "district_id": "510304",
+    "name": "SULANGAI"
+  }
+]

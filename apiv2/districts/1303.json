@@ -1,1 +1,42 @@
-[{"id": "130303", "regency_id": "1303", "name": "TANJUNG GADANG"}, {"id": "130304", "regency_id": "1303", "name": "SIJUNJUNG"}, {"id": "130305", "regency_id": "1303", "name": "IV NAGARI"}, {"id": "130306", "regency_id": "1303", "name": "KAMANG BARU"}, {"id": "130307", "regency_id": "1303", "name": "LUBUK TAROK"}, {"id": "130308", "regency_id": "1303", "name": "KOTO VII"}, {"id": "130309", "regency_id": "1303", "name": "SUMPUR KUDUS"}, {"id": "130310", "regency_id": "1303", "name": "KUPITAN"}]
+[
+  {
+    "id": "130303",
+    "regency_id": "1303",
+    "name": "TANJUNG GADANG"
+  },
+  {
+    "id": "130304",
+    "regency_id": "1303",
+    "name": "SIJUNJUNG"
+  },
+  {
+    "id": "130305",
+    "regency_id": "1303",
+    "name": "IV NAGARI"
+  },
+  {
+    "id": "130306",
+    "regency_id": "1303",
+    "name": "KAMANG BARU"
+  },
+  {
+    "id": "130307",
+    "regency_id": "1303",
+    "name": "LUBUK TAROK"
+  },
+  {
+    "id": "130308",
+    "regency_id": "1303",
+    "name": "KOTO VII"
+  },
+  {
+    "id": "130309",
+    "regency_id": "1303",
+    "name": "SUMPUR KUDUS"
+  },
+  {
+    "id": "130310",
+    "regency_id": "1303",
+    "name": "KUPITAN"
+  }
+]

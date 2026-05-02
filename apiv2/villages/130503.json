@@ -1,1 +1,47 @@
-[{"id": "1305032001", "district_id": "130503", "name": "KAPALO KOTO"}, {"id": "1305032002", "district_id": "130503", "name": "PAUH KAMBAR"}, {"id": "1305032003", "district_id": "130503", "name": "PADANG BINTUNGAN"}, {"id": "1305032004", "district_id": "130503", "name": "KURAI TAJI"}, {"id": "1305032005", "district_id": "130503", "name": "SUNUA"}, {"id": "1305032006", "district_id": "130503", "name": "PADANG KANDANG PULAU AIR PADANG BINTUNGAN"}, {"id": "1305032007", "district_id": "130503", "name": "SUNUA TENGAH"}, {"id": "1305032008", "district_id": "130503", "name": "SUNUA BARAT"}, {"id": "1305032009", "district_id": "130503", "name": "KURAI TAJI TIMUR"}]
+[
+  {
+    "id": "1305032001",
+    "district_id": "130503",
+    "name": "KAPALO KOTO"
+  },
+  {
+    "id": "1305032002",
+    "district_id": "130503",
+    "name": "PAUH KAMBAR"
+  },
+  {
+    "id": "1305032003",
+    "district_id": "130503",
+    "name": "PADANG BINTUNGAN"
+  },
+  {
+    "id": "1305032004",
+    "district_id": "130503",
+    "name": "KURAI TAJI"
+  },
+  {
+    "id": "1305032005",
+    "district_id": "130503",
+    "name": "SUNUA"
+  },
+  {
+    "id": "1305032006",
+    "district_id": "130503",
+    "name": "PADANG KANDANG PULAU AIR PADANG BINTUNGAN"
+  },
+  {
+    "id": "1305032007",
+    "district_id": "130503",
+    "name": "SUNUA TENGAH"
+  },
+  {
+    "id": "1305032008",
+    "district_id": "130503",
+    "name": "SUNUA BARAT"
+  },
+  {
+    "id": "1305032009",
+    "district_id": "130503",
+    "name": "KURAI TAJI TIMUR"
+  }
+]

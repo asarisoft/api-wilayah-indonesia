@@ -1,1 +1,27 @@
-[{"id": "1302082001", "district_id": "130208", "name": "MUARO PANEH"}, {"id": "1302082002", "district_id": "130208", "name": "KINARI"}, {"id": "1302082003", "district_id": "130208", "name": "BUKIT TANDANG"}, {"id": "1302082004", "district_id": "130208", "name": "PARAMBAHAN"}, {"id": "1302082005", "district_id": "130208", "name": "DILAM"}]
+[
+  {
+    "id": "1302082001",
+    "district_id": "130208",
+    "name": "MUARO PANEH"
+  },
+  {
+    "id": "1302082002",
+    "district_id": "130208",
+    "name": "KINARI"
+  },
+  {
+    "id": "1302082003",
+    "district_id": "130208",
+    "name": "BUKIT TANDANG"
+  },
+  {
+    "id": "1302082004",
+    "district_id": "130208",
+    "name": "PARAMBAHAN"
+  },
+  {
+    "id": "1302082005",
+    "district_id": "130208",
+    "name": "DILAM"
+  }
+]

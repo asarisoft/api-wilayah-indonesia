@@ -1,1 +1,52 @@
-[{"id": "3214132001", "district_id": "321413", "name": "CIWANGI"}, {"id": "3214132002", "district_id": "321413", "name": "CIBENING"}, {"id": "3214132003", "district_id": "321413", "name": "BUNGURSARI"}, {"id": "3214132004", "district_id": "321413", "name": "DANGDEUR"}, {"id": "3214132005", "district_id": "321413", "name": "CIBUNGUR"}, {"id": "3214132006", "district_id": "321413", "name": "WANAKERTA"}, {"id": "3214132007", "district_id": "321413", "name": "CINANGKA"}, {"id": "3214132008", "district_id": "321413", "name": "CIKOPO"}, {"id": "3214132009", "district_id": "321413", "name": "CIBODAS"}, {"id": "3214132010", "district_id": "321413", "name": "KARANGMUKTI"}]
+[
+  {
+    "id": "3214132001",
+    "district_id": "321413",
+    "name": "CIWANGI"
+  },
+  {
+    "id": "3214132002",
+    "district_id": "321413",
+    "name": "CIBENING"
+  },
+  {
+    "id": "3214132003",
+    "district_id": "321413",
+    "name": "BUNGURSARI"
+  },
+  {
+    "id": "3214132004",
+    "district_id": "321413",
+    "name": "DANGDEUR"
+  },
+  {
+    "id": "3214132005",
+    "district_id": "321413",
+    "name": "CIBUNGUR"
+  },
+  {
+    "id": "3214132006",
+    "district_id": "321413",
+    "name": "WANAKERTA"
+  },
+  {
+    "id": "3214132007",
+    "district_id": "321413",
+    "name": "CINANGKA"
+  },
+  {
+    "id": "3214132008",
+    "district_id": "321413",
+    "name": "CIKOPO"
+  },
+  {
+    "id": "3214132009",
+    "district_id": "321413",
+    "name": "CIBODAS"
+  },
+  {
+    "id": "3214132010",
+    "district_id": "321413",
+    "name": "KARANGMUKTI"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "3215272001", "district_id": "321527", "name": "MARGAKAYA"}, {"id": "3215272002", "district_id": "321527", "name": "MARGAMULYA"}, {"id": "3215272003", "district_id": "321527", "name": "KARANGLIGAR"}, {"id": "3215272004", "district_id": "321527", "name": "MEKARMULYA"}, {"id": "3215272005", "district_id": "321527", "name": "PARUNGSARI"}, {"id": "3215272006", "district_id": "321527", "name": "KARANGMULYA"}, {"id": "3215272007", "district_id": "321527", "name": "WANASARI"}, {"id": "3215272008", "district_id": "321527", "name": "WANAKERTA"}, {"id": "3215272009", "district_id": "321527", "name": "WANAJAYA"}, {"id": "3215272010", "district_id": "321527", "name": "MULYAJAYA"}]
+[
+  {
+    "id": "3215272001",
+    "district_id": "321527",
+    "name": "MARGAKAYA"
+  },
+  {
+    "id": "3215272002",
+    "district_id": "321527",
+    "name": "MARGAMULYA"
+  },
+  {
+    "id": "3215272003",
+    "district_id": "321527",
+    "name": "KARANGLIGAR"
+  },
+  {
+    "id": "3215272004",
+    "district_id": "321527",
+    "name": "MEKARMULYA"
+  },
+  {
+    "id": "3215272005",
+    "district_id": "321527",
+    "name": "PARUNGSARI"
+  },
+  {
+    "id": "3215272006",
+    "district_id": "321527",
+    "name": "KARANGMULYA"
+  },
+  {
+    "id": "3215272007",
+    "district_id": "321527",
+    "name": "WANASARI"
+  },
+  {
+    "id": "3215272008",
+    "district_id": "321527",
+    "name": "WANAKERTA"
+  },
+  {
+    "id": "3215272009",
+    "district_id": "321527",
+    "name": "WANAJAYA"
+  },
+  {
+    "id": "3215272010",
+    "district_id": "321527",
+    "name": "MULYAJAYA"
+  }
+]

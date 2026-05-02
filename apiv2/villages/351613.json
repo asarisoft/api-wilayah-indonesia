@@ -1,1 +1,77 @@
-[{"id": "3516132001", "district_id": "351613", "name": "GEMEKAN"}, {"id": "3516132002", "district_id": "351613", "name": "BLIMBINGSARI"}, {"id": "3516132003", "district_id": "351613", "name": "BRANGKAL"}, {"id": "3516132004", "district_id": "351613", "name": "KEDUNGMALING"}, {"id": "3516132005", "district_id": "351613", "name": "KLINTEREJO"}, {"id": "3516132006", "district_id": "351613", "name": "MODONGAN"}, {"id": "3516132007", "district_id": "351613", "name": "SAMBIROTO"}, {"id": "3516132008", "district_id": "351613", "name": "JAMPIROGO"}, {"id": "3516132009", "district_id": "351613", "name": "JAPAN"}, {"id": "3516132010", "district_id": "351613", "name": "SOOKO"}, {"id": "3516132011", "district_id": "351613", "name": "WRINGINREJO"}, {"id": "3516132012", "district_id": "351613", "name": "KARANGKEDAWANG"}, {"id": "3516132013", "district_id": "351613", "name": "MOJORANU"}, {"id": "3516132014", "district_id": "351613", "name": "TEMPURAN"}, {"id": "3516132015", "district_id": "351613", "name": "NGINGASREMBYONG"}]
+[
+  {
+    "id": "3516132001",
+    "district_id": "351613",
+    "name": "GEMEKAN"
+  },
+  {
+    "id": "3516132002",
+    "district_id": "351613",
+    "name": "BLIMBINGSARI"
+  },
+  {
+    "id": "3516132003",
+    "district_id": "351613",
+    "name": "BRANGKAL"
+  },
+  {
+    "id": "3516132004",
+    "district_id": "351613",
+    "name": "KEDUNGMALING"
+  },
+  {
+    "id": "3516132005",
+    "district_id": "351613",
+    "name": "KLINTEREJO"
+  },
+  {
+    "id": "3516132006",
+    "district_id": "351613",
+    "name": "MODONGAN"
+  },
+  {
+    "id": "3516132007",
+    "district_id": "351613",
+    "name": "SAMBIROTO"
+  },
+  {
+    "id": "3516132008",
+    "district_id": "351613",
+    "name": "JAMPIROGO"
+  },
+  {
+    "id": "3516132009",
+    "district_id": "351613",
+    "name": "JAPAN"
+  },
+  {
+    "id": "3516132010",
+    "district_id": "351613",
+    "name": "SOOKO"
+  },
+  {
+    "id": "3516132011",
+    "district_id": "351613",
+    "name": "WRINGINREJO"
+  },
+  {
+    "id": "3516132012",
+    "district_id": "351613",
+    "name": "KARANGKEDAWANG"
+  },
+  {
+    "id": "3516132013",
+    "district_id": "351613",
+    "name": "MOJORANU"
+  },
+  {
+    "id": "3516132014",
+    "district_id": "351613",
+    "name": "TEMPURAN"
+  },
+  {
+    "id": "3516132015",
+    "district_id": "351613",
+    "name": "NGINGASREMBYONG"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "9503462001", "district_id": "950346", "name": "SILAKMA"}, {"id": "9503462002", "district_id": "950346", "name": "SOMARIN"}, {"id": "9503462003", "district_id": "950346", "name": "KENKENI"}, {"id": "9503462004", "district_id": "950346", "name": "MONIN"}, {"id": "9503462005", "district_id": "950346", "name": "ENGGELASUE"}, {"id": "9503462006", "district_id": "950346", "name": "OAKBISIK"}, {"id": "9503462007", "district_id": "950346", "name": "MOMENGGAMA"}, {"id": "9503462008", "district_id": "950346", "name": "HUSMO"}, {"id": "9503462009", "district_id": "950346", "name": "KARELMA"}, {"id": "9503462010", "district_id": "950346", "name": "USABINI"}]
+[
+  {
+    "id": "9503462001",
+    "district_id": "950346",
+    "name": "SILAKMA"
+  },
+  {
+    "id": "9503462002",
+    "district_id": "950346",
+    "name": "SOMARIN"
+  },
+  {
+    "id": "9503462003",
+    "district_id": "950346",
+    "name": "KENKENI"
+  },
+  {
+    "id": "9503462004",
+    "district_id": "950346",
+    "name": "MONIN"
+  },
+  {
+    "id": "9503462005",
+    "district_id": "950346",
+    "name": "ENGGELASUE"
+  },
+  {
+    "id": "9503462006",
+    "district_id": "950346",
+    "name": "OAKBISIK"
+  },
+  {
+    "id": "9503462007",
+    "district_id": "950346",
+    "name": "MOMENGGAMA"
+  },
+  {
+    "id": "9503462008",
+    "district_id": "950346",
+    "name": "HUSMO"
+  },
+  {
+    "id": "9503462009",
+    "district_id": "950346",
+    "name": "KARELMA"
+  },
+  {
+    "id": "9503462010",
+    "district_id": "950346",
+    "name": "USABINI"
+  }
+]

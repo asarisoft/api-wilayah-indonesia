@@ -1,1 +1,27 @@
-[{"id": "917101", "regency_id": "9171", "name": "JAYAPURA UTARA"}, {"id": "917102", "regency_id": "9171", "name": "JAYAPURA SELATAN"}, {"id": "917103", "regency_id": "9171", "name": "ABEPURA"}, {"id": "917104", "regency_id": "9171", "name": "MUARA TAMI"}, {"id": "917105", "regency_id": "9171", "name": "HERAM"}]
+[
+  {
+    "id": "917101",
+    "regency_id": "9171",
+    "name": "JAYAPURA UTARA"
+  },
+  {
+    "id": "917102",
+    "regency_id": "9171",
+    "name": "JAYAPURA SELATAN"
+  },
+  {
+    "id": "917103",
+    "regency_id": "9171",
+    "name": "ABEPURA"
+  },
+  {
+    "id": "917104",
+    "regency_id": "9171",
+    "name": "MUARA TAMI"
+  },
+  {
+    "id": "917105",
+    "regency_id": "9171",
+    "name": "HERAM"
+  }
+]

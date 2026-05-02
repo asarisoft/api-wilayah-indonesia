@@ -1,1 +1,32 @@
-[{"id": "1271131001", "district_id": "127113", "name": "PEKAN LABUHAN"}, {"id": "1271131002", "district_id": "127113", "name": "SEI MATI"}, {"id": "1271131003", "district_id": "127113", "name": "BESAR"}, {"id": "1271131004", "district_id": "127113", "name": "MARTUBUNG"}, {"id": "1271131005", "district_id": "127113", "name": "NELAYAN INDAH"}, {"id": "1271131006", "district_id": "127113", "name": "TANGKAHAN"}]
+[
+  {
+    "id": "1271131001",
+    "district_id": "127113",
+    "name": "PEKAN LABUHAN"
+  },
+  {
+    "id": "1271131002",
+    "district_id": "127113",
+    "name": "SEI MATI"
+  },
+  {
+    "id": "1271131003",
+    "district_id": "127113",
+    "name": "BESAR"
+  },
+  {
+    "id": "1271131004",
+    "district_id": "127113",
+    "name": "MARTUBUNG"
+  },
+  {
+    "id": "1271131005",
+    "district_id": "127113",
+    "name": "NELAYAN INDAH"
+  },
+  {
+    "id": "1271131006",
+    "district_id": "127113",
+    "name": "TANGKAHAN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "9119032001", "district_id": "911903", "name": "YAWERMA"}, {"id": "9119032002", "district_id": "911903", "name": "WOMBONDA"}, {"id": "9119032003", "district_id": "911903", "name": "MARSRAM"}, {"id": "9119032004", "district_id": "911903", "name": "DUBER"}, {"id": "9119032005", "district_id": "911903", "name": "SAUYAS"}, {"id": "9119032006", "district_id": "911903", "name": "WAFOR"}, {"id": "9119032007", "district_id": "911903", "name": "SORENDIDORI"}, {"id": "9119032008", "district_id": "911903", "name": "WARYESI"}, {"id": "9119032009", "district_id": "911903", "name": "SYURDORI"}, {"id": "9119032010", "district_id": "911903", "name": "DOUWBO"}]
+[
+  {
+    "id": "9119032001",
+    "district_id": "911903",
+    "name": "YAWERMA"
+  },
+  {
+    "id": "9119032002",
+    "district_id": "911903",
+    "name": "WOMBONDA"
+  },
+  {
+    "id": "9119032003",
+    "district_id": "911903",
+    "name": "MARSRAM"
+  },
+  {
+    "id": "9119032004",
+    "district_id": "911903",
+    "name": "DUBER"
+  },
+  {
+    "id": "9119032005",
+    "district_id": "911903",
+    "name": "SAUYAS"
+  },
+  {
+    "id": "9119032006",
+    "district_id": "911903",
+    "name": "WAFOR"
+  },
+  {
+    "id": "9119032007",
+    "district_id": "911903",
+    "name": "SORENDIDORI"
+  },
+  {
+    "id": "9119032008",
+    "district_id": "911903",
+    "name": "WARYESI"
+  },
+  {
+    "id": "9119032009",
+    "district_id": "911903",
+    "name": "SYURDORI"
+  },
+  {
+    "id": "9119032010",
+    "district_id": "911903",
+    "name": "DOUWBO"
+  }
+]

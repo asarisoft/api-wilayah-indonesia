@@ -1,1 +1,67 @@
-[{"id": "1205101008", "district_id": "120510", "name": "KEBUN LADA"}, {"id": "1205102001", "district_id": "120510", "name": "CEMPA"}, {"id": "1205102002", "district_id": "120510", "name": "BATU MALENGGANG"}, {"id": "1205102003", "district_id": "120510", "name": "TAMARAN"}, {"id": "1205102004", "district_id": "120510", "name": "TANJUNG MULIA"}, {"id": "1205102005", "district_id": "120510", "name": "MUKA PAYA"}, {"id": "1205102006", "district_id": "120510", "name": "HINAI KANAN"}, {"id": "1205102007", "district_id": "120510", "name": "SUKA DAMAI"}, {"id": "1205102009", "district_id": "120510", "name": "BARU PASAR VIII"}, {"id": "1205102010", "district_id": "120510", "name": "PERKEBUNAN TANJUNG BERINGIN"}, {"id": "1205102011", "district_id": "120510", "name": "SUKA JADI"}, {"id": "1205102012", "district_id": "120510", "name": "PAYA RENGAS"}, {"id": "1205102013", "district_id": "120510", "name": "SUKA DAMAI TIMUR"}]
+[
+  {
+    "id": "1205101008",
+    "district_id": "120510",
+    "name": "KEBUN LADA"
+  },
+  {
+    "id": "1205102001",
+    "district_id": "120510",
+    "name": "CEMPA"
+  },
+  {
+    "id": "1205102002",
+    "district_id": "120510",
+    "name": "BATU MALENGGANG"
+  },
+  {
+    "id": "1205102003",
+    "district_id": "120510",
+    "name": "TAMARAN"
+  },
+  {
+    "id": "1205102004",
+    "district_id": "120510",
+    "name": "TANJUNG MULIA"
+  },
+  {
+    "id": "1205102005",
+    "district_id": "120510",
+    "name": "MUKA PAYA"
+  },
+  {
+    "id": "1205102006",
+    "district_id": "120510",
+    "name": "HINAI KANAN"
+  },
+  {
+    "id": "1205102007",
+    "district_id": "120510",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "1205102009",
+    "district_id": "120510",
+    "name": "BARU PASAR VIII"
+  },
+  {
+    "id": "1205102010",
+    "district_id": "120510",
+    "name": "PERKEBUNAN TANJUNG BERINGIN"
+  },
+  {
+    "id": "1205102011",
+    "district_id": "120510",
+    "name": "SUKA JADI"
+  },
+  {
+    "id": "1205102012",
+    "district_id": "120510",
+    "name": "PAYA RENGAS"
+  },
+  {
+    "id": "1205102013",
+    "district_id": "120510",
+    "name": "SUKA DAMAI TIMUR"
+  }
+]

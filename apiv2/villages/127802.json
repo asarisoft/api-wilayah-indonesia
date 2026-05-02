@@ -1,1 +1,77 @@
-[{"id": "1278022001", "district_id": "127802", "name": "ONONAMOLO I LOT"}, {"id": "1278022002", "district_id": "127802", "name": "FODO"}, {"id": "1278022003", "district_id": "127802", "name": "FAEKHU"}, {"id": "1278022004", "district_id": "127802", "name": "LOLOFAOSO TABALOHO"}, {"id": "1278022005", "district_id": "127802", "name": "LOLOMBOLI"}, {"id": "1278022006", "district_id": "127802", "name": "MAZINGO TABALOHO"}, {"id": "1278022007", "district_id": "127802", "name": "ONOZITOLI TABALOHO"}, {"id": "1278022008", "district_id": "127802", "name": "LOLOLAKHA"}, {"id": "1278022009", "district_id": "127802", "name": "SIHARE'O I TABALOHO"}, {"id": "1278022010", "district_id": "127802", "name": "OMBOLATA SIMENARI"}, {"id": "1278022011", "district_id": "127802", "name": "HILIGARA"}, {"id": "1278022012", "district_id": "127802", "name": "LUAHALARAGA"}, {"id": "1278022013", "district_id": "127802", "name": "SISOBAHILI II TANOSE'O"}, {"id": "1278022014", "district_id": "127802", "name": "HILIGODU OMBOLATA"}, {"id": "1278022015", "district_id": "127802", "name": "TETEHOSI OMBOLATA"}]
+[
+  {
+    "id": "1278022001",
+    "district_id": "127802",
+    "name": "ONONAMOLO I LOT"
+  },
+  {
+    "id": "1278022002",
+    "district_id": "127802",
+    "name": "FODO"
+  },
+  {
+    "id": "1278022003",
+    "district_id": "127802",
+    "name": "FAEKHU"
+  },
+  {
+    "id": "1278022004",
+    "district_id": "127802",
+    "name": "LOLOFAOSO TABALOHO"
+  },
+  {
+    "id": "1278022005",
+    "district_id": "127802",
+    "name": "LOLOMBOLI"
+  },
+  {
+    "id": "1278022006",
+    "district_id": "127802",
+    "name": "MAZINGO TABALOHO"
+  },
+  {
+    "id": "1278022007",
+    "district_id": "127802",
+    "name": "ONOZITOLI TABALOHO"
+  },
+  {
+    "id": "1278022008",
+    "district_id": "127802",
+    "name": "LOLOLAKHA"
+  },
+  {
+    "id": "1278022009",
+    "district_id": "127802",
+    "name": "SIHARE'O I TABALOHO"
+  },
+  {
+    "id": "1278022010",
+    "district_id": "127802",
+    "name": "OMBOLATA SIMENARI"
+  },
+  {
+    "id": "1278022011",
+    "district_id": "127802",
+    "name": "HILIGARA"
+  },
+  {
+    "id": "1278022012",
+    "district_id": "127802",
+    "name": "LUAHALARAGA"
+  },
+  {
+    "id": "1278022013",
+    "district_id": "127802",
+    "name": "SISOBAHILI II TANOSE'O"
+  },
+  {
+    "id": "1278022014",
+    "district_id": "127802",
+    "name": "HILIGODU OMBOLATA"
+  },
+  {
+    "id": "1278022015",
+    "district_id": "127802",
+    "name": "TETEHOSI OMBOLATA"
+  }
+]

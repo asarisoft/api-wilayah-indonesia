@@ -1,1 +1,87 @@
-[{"id": "1802022001", "district_id": "180202", "name": "PURWODADI"}, {"id": "1802022002", "district_id": "180202", "name": "SIDO DADI"}, {"id": "1802022003", "district_id": "180202", "name": "SIDO REJO"}, {"id": "1802022004", "district_id": "180202", "name": "CIMARIAS"}, {"id": "1802022005", "district_id": "180202", "name": "BANGUN REJO"}, {"id": "1802022006", "district_id": "180202", "name": "SIDO LUHUR"}, {"id": "1802022007", "district_id": "180202", "name": "SIDO MULYO"}, {"id": "1802022008", "district_id": "180202", "name": "TIMBUL REJO"}, {"id": "1802022009", "district_id": "180202", "name": "SUKA NEGARA"}, {"id": "1802022010", "district_id": "180202", "name": "SINAR SEPUTIH"}, {"id": "1802022011", "district_id": "180202", "name": "SINAR LUAS"}, {"id": "1802022012", "district_id": "180202", "name": "TANJUNG PANDAN"}, {"id": "1802022013", "district_id": "180202", "name": "TANJUNG JAYA"}, {"id": "1802022014", "district_id": "180202", "name": "SRI PENDOWO"}, {"id": "1802022015", "district_id": "180202", "name": "SUKOWARINGIN"}, {"id": "1802022016", "district_id": "180202", "name": "MEKAR JAYA"}, {"id": "1802022017", "district_id": "180202", "name": "SUKA NEGERI"}]
+[
+  {
+    "id": "1802022001",
+    "district_id": "180202",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "1802022002",
+    "district_id": "180202",
+    "name": "SIDO DADI"
+  },
+  {
+    "id": "1802022003",
+    "district_id": "180202",
+    "name": "SIDO REJO"
+  },
+  {
+    "id": "1802022004",
+    "district_id": "180202",
+    "name": "CIMARIAS"
+  },
+  {
+    "id": "1802022005",
+    "district_id": "180202",
+    "name": "BANGUN REJO"
+  },
+  {
+    "id": "1802022006",
+    "district_id": "180202",
+    "name": "SIDO LUHUR"
+  },
+  {
+    "id": "1802022007",
+    "district_id": "180202",
+    "name": "SIDO MULYO"
+  },
+  {
+    "id": "1802022008",
+    "district_id": "180202",
+    "name": "TIMBUL REJO"
+  },
+  {
+    "id": "1802022009",
+    "district_id": "180202",
+    "name": "SUKA NEGARA"
+  },
+  {
+    "id": "1802022010",
+    "district_id": "180202",
+    "name": "SINAR SEPUTIH"
+  },
+  {
+    "id": "1802022011",
+    "district_id": "180202",
+    "name": "SINAR LUAS"
+  },
+  {
+    "id": "1802022012",
+    "district_id": "180202",
+    "name": "TANJUNG PANDAN"
+  },
+  {
+    "id": "1802022013",
+    "district_id": "180202",
+    "name": "TANJUNG JAYA"
+  },
+  {
+    "id": "1802022014",
+    "district_id": "180202",
+    "name": "SRI PENDOWO"
+  },
+  {
+    "id": "1802022015",
+    "district_id": "180202",
+    "name": "SUKOWARINGIN"
+  },
+  {
+    "id": "1802022016",
+    "district_id": "180202",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "1802022017",
+    "district_id": "180202",
+    "name": "SUKA NEGERI"
+  }
+]

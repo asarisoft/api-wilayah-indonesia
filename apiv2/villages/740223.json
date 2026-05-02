@@ -1,1 +1,37 @@
-[{"id": "7402231001", "district_id": "740223", "name": "RUOTA"}, {"id": "7402232002", "district_id": "740223", "name": "TIRAWONUA"}, {"id": "7402232003", "district_id": "740223", "name": "PARUDONGKA"}, {"id": "7402232004", "district_id": "740223", "name": "WALANDAWE"}, {"id": "7402232005", "district_id": "740223", "name": "PUUWIWIRANO"}, {"id": "7402232006", "district_id": "740223", "name": "TANGGOLA"}, {"id": "7402232007", "district_id": "740223", "name": "LALOMERUI"}]
+[
+  {
+    "id": "7402231001",
+    "district_id": "740223",
+    "name": "RUOTA"
+  },
+  {
+    "id": "7402232002",
+    "district_id": "740223",
+    "name": "TIRAWONUA"
+  },
+  {
+    "id": "7402232003",
+    "district_id": "740223",
+    "name": "PARUDONGKA"
+  },
+  {
+    "id": "7402232004",
+    "district_id": "740223",
+    "name": "WALANDAWE"
+  },
+  {
+    "id": "7402232005",
+    "district_id": "740223",
+    "name": "PUUWIWIRANO"
+  },
+  {
+    "id": "7402232006",
+    "district_id": "740223",
+    "name": "TANGGOLA"
+  },
+  {
+    "id": "7402232007",
+    "district_id": "740223",
+    "name": "LALOMERUI"
+  }
+]

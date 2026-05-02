@@ -1,1 +1,47 @@
-[{"id": "1302122001", "district_id": "130212", "name": "SULIT AIR"}, {"id": "1302122002", "district_id": "130212", "name": "TANJUNG BALIK"}, {"id": "1302122003", "district_id": "130212", "name": "PANINJAUAN"}, {"id": "1302122004", "district_id": "130212", "name": "KUNCIR"}, {"id": "1302122005", "district_id": "130212", "name": "KATIALO"}, {"id": "1302122006", "district_id": "130212", "name": "PASILIHAN"}, {"id": "1302122007", "district_id": "130212", "name": "BUKIT KANDUANG"}, {"id": "1302122008", "district_id": "130212", "name": "SIBARAMBANG"}, {"id": "1302122009", "district_id": "130212", "name": "LABUH PANJANG"}]
+[
+  {
+    "id": "1302122001",
+    "district_id": "130212",
+    "name": "SULIT AIR"
+  },
+  {
+    "id": "1302122002",
+    "district_id": "130212",
+    "name": "TANJUNG BALIK"
+  },
+  {
+    "id": "1302122003",
+    "district_id": "130212",
+    "name": "PANINJAUAN"
+  },
+  {
+    "id": "1302122004",
+    "district_id": "130212",
+    "name": "KUNCIR"
+  },
+  {
+    "id": "1302122005",
+    "district_id": "130212",
+    "name": "KATIALO"
+  },
+  {
+    "id": "1302122006",
+    "district_id": "130212",
+    "name": "PASILIHAN"
+  },
+  {
+    "id": "1302122007",
+    "district_id": "130212",
+    "name": "BUKIT KANDUANG"
+  },
+  {
+    "id": "1302122008",
+    "district_id": "130212",
+    "name": "SIBARAMBANG"
+  },
+  {
+    "id": "1302122009",
+    "district_id": "130212",
+    "name": "LABUH PANJANG"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "1301122001", "district_id": "130112", "name": "PULUIK-PULUIK"}, {"id": "1301122002", "district_id": "130112", "name": "KOTO RANAH"}, {"id": "1301122003", "district_id": "130112", "name": "MUARO AIE"}, {"id": "1301122004", "district_id": "130112", "name": "PANCUANG TABA"}, {"id": "1301122005", "district_id": "130112", "name": "PULUIK-PULUIK SELATAN"}, {"id": "1301122006", "district_id": "130112", "name": "LIMAU GADANG PANCUNG TABA"}]
+[
+  {
+    "id": "1301122001",
+    "district_id": "130112",
+    "name": "PULUIK-PULUIK"
+  },
+  {
+    "id": "1301122002",
+    "district_id": "130112",
+    "name": "KOTO RANAH"
+  },
+  {
+    "id": "1301122003",
+    "district_id": "130112",
+    "name": "MUARO AIE"
+  },
+  {
+    "id": "1301122004",
+    "district_id": "130112",
+    "name": "PANCUANG TABA"
+  },
+  {
+    "id": "1301122005",
+    "district_id": "130112",
+    "name": "PULUIK-PULUIK SELATAN"
+  },
+  {
+    "id": "1301122006",
+    "district_id": "130112",
+    "name": "LIMAU GADANG PANCUNG TABA"
+  }
+]

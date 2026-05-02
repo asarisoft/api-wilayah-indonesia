@@ -1,1 +1,37 @@
-[{"id": "7311011001", "district_id": "731101", "name": "LOMPO RIAJA"}, {"id": "7311012002", "district_id": "731101", "name": "HARAPAN"}, {"id": "7311012003", "district_id": "731101", "name": "LOMPO TENGAH"}, {"id": "7311012004", "district_id": "731101", "name": "KADING"}, {"id": "7311012005", "district_id": "731101", "name": "LIBURENG"}, {"id": "7311012006", "district_id": "731101", "name": "MATTIROWALIE"}, {"id": "7311012007", "district_id": "731101", "name": "LEMPANG"}]
+[
+  {
+    "id": "7311011001",
+    "district_id": "731101",
+    "name": "LOMPO RIAJA"
+  },
+  {
+    "id": "7311012002",
+    "district_id": "731101",
+    "name": "HARAPAN"
+  },
+  {
+    "id": "7311012003",
+    "district_id": "731101",
+    "name": "LOMPO TENGAH"
+  },
+  {
+    "id": "7311012004",
+    "district_id": "731101",
+    "name": "KADING"
+  },
+  {
+    "id": "7311012005",
+    "district_id": "731101",
+    "name": "LIBURENG"
+  },
+  {
+    "id": "7311012006",
+    "district_id": "731101",
+    "name": "MATTIROWALIE"
+  },
+  {
+    "id": "7311012007",
+    "district_id": "731101",
+    "name": "LEMPANG"
+  }
+]

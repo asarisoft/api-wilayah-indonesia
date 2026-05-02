@@ -1,1 +1,37 @@
-[{"id": "3314182001", "district_id": "331418", "name": "TANGGAN"}, {"id": "3314182002", "district_id": "331418", "name": "PILANGSARI"}, {"id": "3314182003", "district_id": "331418", "name": "BLANGU"}, {"id": "3314182004", "district_id": "331418", "name": "GESI"}, {"id": "3314182005", "district_id": "331418", "name": "SRAWUNG"}, {"id": "3314182006", "district_id": "331418", "name": "POLENG"}, {"id": "3314182007", "district_id": "331418", "name": "SLENDRO"}]
+[
+  {
+    "id": "3314182001",
+    "district_id": "331418",
+    "name": "TANGGAN"
+  },
+  {
+    "id": "3314182002",
+    "district_id": "331418",
+    "name": "PILANGSARI"
+  },
+  {
+    "id": "3314182003",
+    "district_id": "331418",
+    "name": "BLANGU"
+  },
+  {
+    "id": "3314182004",
+    "district_id": "331418",
+    "name": "GESI"
+  },
+  {
+    "id": "3314182005",
+    "district_id": "331418",
+    "name": "SRAWUNG"
+  },
+  {
+    "id": "3314182006",
+    "district_id": "331418",
+    "name": "POLENG"
+  },
+  {
+    "id": "3314182007",
+    "district_id": "331418",
+    "name": "SLENDRO"
+  }
+]

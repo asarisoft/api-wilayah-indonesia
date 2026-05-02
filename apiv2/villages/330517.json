@@ -1,1 +1,57 @@
-[{"id": "3305172001", "district_id": "330517", "name": "REDISARI"}, {"id": "3305172002", "district_id": "330517", "name": "KALISARI"}, {"id": "3305172003", "district_id": "330517", "name": "PRINGTUTUL"}, {"id": "3305172004", "district_id": "330517", "name": "ROWOKELE"}, {"id": "3305172005", "district_id": "330517", "name": "BUMIAGUNG"}, {"id": "3305172006", "district_id": "330517", "name": "JATILUHUR"}, {"id": "3305172007", "district_id": "330517", "name": "KRETEK"}, {"id": "3305172008", "district_id": "330517", "name": "SUKOMULYO"}, {"id": "3305172009", "district_id": "330517", "name": "GIYANTI"}, {"id": "3305172010", "district_id": "330517", "name": "WONOHARJO"}, {"id": "3305172011", "district_id": "330517", "name": "WAGIRPANDAN"}]
+[
+  {
+    "id": "3305172001",
+    "district_id": "330517",
+    "name": "REDISARI"
+  },
+  {
+    "id": "3305172002",
+    "district_id": "330517",
+    "name": "KALISARI"
+  },
+  {
+    "id": "3305172003",
+    "district_id": "330517",
+    "name": "PRINGTUTUL"
+  },
+  {
+    "id": "3305172004",
+    "district_id": "330517",
+    "name": "ROWOKELE"
+  },
+  {
+    "id": "3305172005",
+    "district_id": "330517",
+    "name": "BUMIAGUNG"
+  },
+  {
+    "id": "3305172006",
+    "district_id": "330517",
+    "name": "JATILUHUR"
+  },
+  {
+    "id": "3305172007",
+    "district_id": "330517",
+    "name": "KRETEK"
+  },
+  {
+    "id": "3305172008",
+    "district_id": "330517",
+    "name": "SUKOMULYO"
+  },
+  {
+    "id": "3305172009",
+    "district_id": "330517",
+    "name": "GIYANTI"
+  },
+  {
+    "id": "3305172010",
+    "district_id": "330517",
+    "name": "WONOHARJO"
+  },
+  {
+    "id": "3305172011",
+    "district_id": "330517",
+    "name": "WAGIRPANDAN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1221162001", "district_id": "122116", "name": "GADING"}, {"id": "1221162002", "district_id": "122116", "name": "HUTA RUHOM"}, {"id": "1221162003", "district_id": "122116", "name": "AEK SIALA"}, {"id": "1221162004", "district_id": "122116", "name": "BIRE"}, {"id": "1221162005", "district_id": "122116", "name": "SIBONTAR"}, {"id": "1221162006", "district_id": "122116", "name": "PARA NAPA JAE"}, {"id": "1221162007", "district_id": "122116", "name": "PARA NAPA DOLOK"}, {"id": "1221162008", "district_id": "122116", "name": "BATUSUNDUNG"}, {"id": "1221162009", "district_id": "122116", "name": "SIDONGDONG"}, {"id": "1221162010", "district_id": "122116", "name": "SISALEAN"}]
+[
+  {
+    "id": "1221162001",
+    "district_id": "122116",
+    "name": "GADING"
+  },
+  {
+    "id": "1221162002",
+    "district_id": "122116",
+    "name": "HUTA RUHOM"
+  },
+  {
+    "id": "1221162003",
+    "district_id": "122116",
+    "name": "AEK SIALA"
+  },
+  {
+    "id": "1221162004",
+    "district_id": "122116",
+    "name": "BIRE"
+  },
+  {
+    "id": "1221162005",
+    "district_id": "122116",
+    "name": "SIBONTAR"
+  },
+  {
+    "id": "1221162006",
+    "district_id": "122116",
+    "name": "PARA NAPA JAE"
+  },
+  {
+    "id": "1221162007",
+    "district_id": "122116",
+    "name": "PARA NAPA DOLOK"
+  },
+  {
+    "id": "1221162008",
+    "district_id": "122116",
+    "name": "BATUSUNDUNG"
+  },
+  {
+    "id": "1221162009",
+    "district_id": "122116",
+    "name": "SIDONGDONG"
+  },
+  {
+    "id": "1221162010",
+    "district_id": "122116",
+    "name": "SISALEAN"
+  }
+]

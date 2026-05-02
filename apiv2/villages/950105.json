@@ -1,1 +1,62 @@
-[{"id": "9501052001", "district_id": "950105", "name": "BOLAKME"}, {"id": "9501052002", "district_id": "950105", "name": "MUNAK"}, {"id": "9501052003", "district_id": "950105", "name": "TENONGGAME"}, {"id": "9501052004", "district_id": "950105", "name": "BANDUA"}, {"id": "9501052005", "district_id": "950105", "name": "LANI TIMUR"}, {"id": "9501052006", "district_id": "950105", "name": "NUNGGARUGUM"}, {"id": "9501052007", "district_id": "950105", "name": "POITMOS"}, {"id": "9501052008", "district_id": "950105", "name": "KUGITERO"}, {"id": "9501052009", "district_id": "950105", "name": "WENAMELA"}, {"id": "9501052010", "district_id": "950105", "name": "BIMU"}, {"id": "9501052011", "district_id": "950105", "name": "TEKANI"}, {"id": "9501052012", "district_id": "950105", "name": "OWAGAMBAK"}]
+[
+  {
+    "id": "9501052001",
+    "district_id": "950105",
+    "name": "BOLAKME"
+  },
+  {
+    "id": "9501052002",
+    "district_id": "950105",
+    "name": "MUNAK"
+  },
+  {
+    "id": "9501052003",
+    "district_id": "950105",
+    "name": "TENONGGAME"
+  },
+  {
+    "id": "9501052004",
+    "district_id": "950105",
+    "name": "BANDUA"
+  },
+  {
+    "id": "9501052005",
+    "district_id": "950105",
+    "name": "LANI TIMUR"
+  },
+  {
+    "id": "9501052006",
+    "district_id": "950105",
+    "name": "NUNGGARUGUM"
+  },
+  {
+    "id": "9501052007",
+    "district_id": "950105",
+    "name": "POITMOS"
+  },
+  {
+    "id": "9501052008",
+    "district_id": "950105",
+    "name": "KUGITERO"
+  },
+  {
+    "id": "9501052009",
+    "district_id": "950105",
+    "name": "WENAMELA"
+  },
+  {
+    "id": "9501052010",
+    "district_id": "950105",
+    "name": "BIMU"
+  },
+  {
+    "id": "9501052011",
+    "district_id": "950105",
+    "name": "TEKANI"
+  },
+  {
+    "id": "9501052012",
+    "district_id": "950105",
+    "name": "OWAGAMBAK"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "5201152001", "district_id": "520115", "name": "KURIPAN"}, {"id": "5201152002", "district_id": "520115", "name": "JAGARAGA"}, {"id": "5201152003", "district_id": "520115", "name": "KURIPAN UTARA"}, {"id": "5201152004", "district_id": "520115", "name": "KURIPAN SELATAN"}, {"id": "5201152005", "district_id": "520115", "name": "KURIPAN TIMUR"}, {"id": "5201152006", "district_id": "520115", "name": "GIRI SASAK"}]
+[
+  {
+    "id": "5201152001",
+    "district_id": "520115",
+    "name": "KURIPAN"
+  },
+  {
+    "id": "5201152002",
+    "district_id": "520115",
+    "name": "JAGARAGA"
+  },
+  {
+    "id": "5201152003",
+    "district_id": "520115",
+    "name": "KURIPAN UTARA"
+  },
+  {
+    "id": "5201152004",
+    "district_id": "520115",
+    "name": "KURIPAN SELATAN"
+  },
+  {
+    "id": "5201152005",
+    "district_id": "520115",
+    "name": "KURIPAN TIMUR"
+  },
+  {
+    "id": "5201152006",
+    "district_id": "520115",
+    "name": "GIRI SASAK"
+  }
+]

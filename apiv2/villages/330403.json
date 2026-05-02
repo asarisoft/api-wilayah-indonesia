@@ -1,1 +1,82 @@
-[{"id": "3304032001", "district_id": "330403", "name": "JALATUNDA"}, {"id": "3304032002", "district_id": "330403", "name": "SOMAWANGI"}, {"id": "3304032003", "district_id": "330403", "name": "KALIWUNGU"}, {"id": "3304032004", "district_id": "330403", "name": "KEBANARAN"}, {"id": "3304032005", "district_id": "330403", "name": "GLEMPANG"}, {"id": "3304032006", "district_id": "330403", "name": "SALAMERTA"}, {"id": "3304032007", "district_id": "330403", "name": "PURWASABA"}, {"id": "3304032008", "district_id": "330403", "name": "BLIMBING"}, {"id": "3304032009", "district_id": "330403", "name": "PANGGISARI"}, {"id": "3304032010", "district_id": "330403", "name": "CANDIWULAN"}, {"id": "3304032011", "district_id": "330403", "name": "SIMBANG"}, {"id": "3304032012", "district_id": "330403", "name": "KERTAYASA"}, {"id": "3304032013", "district_id": "330403", "name": "BANJENGAN"}, {"id": "3304032014", "district_id": "330403", "name": "MANDIRAJA KULON"}, {"id": "3304032015", "district_id": "330403", "name": "KEBAKALAN"}, {"id": "3304032016", "district_id": "330403", "name": "MANDIRAJA WETAN"}]
+[
+  {
+    "id": "3304032001",
+    "district_id": "330403",
+    "name": "JALATUNDA"
+  },
+  {
+    "id": "3304032002",
+    "district_id": "330403",
+    "name": "SOMAWANGI"
+  },
+  {
+    "id": "3304032003",
+    "district_id": "330403",
+    "name": "KALIWUNGU"
+  },
+  {
+    "id": "3304032004",
+    "district_id": "330403",
+    "name": "KEBANARAN"
+  },
+  {
+    "id": "3304032005",
+    "district_id": "330403",
+    "name": "GLEMPANG"
+  },
+  {
+    "id": "3304032006",
+    "district_id": "330403",
+    "name": "SALAMERTA"
+  },
+  {
+    "id": "3304032007",
+    "district_id": "330403",
+    "name": "PURWASABA"
+  },
+  {
+    "id": "3304032008",
+    "district_id": "330403",
+    "name": "BLIMBING"
+  },
+  {
+    "id": "3304032009",
+    "district_id": "330403",
+    "name": "PANGGISARI"
+  },
+  {
+    "id": "3304032010",
+    "district_id": "330403",
+    "name": "CANDIWULAN"
+  },
+  {
+    "id": "3304032011",
+    "district_id": "330403",
+    "name": "SIMBANG"
+  },
+  {
+    "id": "3304032012",
+    "district_id": "330403",
+    "name": "KERTAYASA"
+  },
+  {
+    "id": "3304032013",
+    "district_id": "330403",
+    "name": "BANJENGAN"
+  },
+  {
+    "id": "3304032014",
+    "district_id": "330403",
+    "name": "MANDIRAJA KULON"
+  },
+  {
+    "id": "3304032015",
+    "district_id": "330403",
+    "name": "KEBAKALAN"
+  },
+  {
+    "id": "3304032016",
+    "district_id": "330403",
+    "name": "MANDIRAJA WETAN"
+  }
+]

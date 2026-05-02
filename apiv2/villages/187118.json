@@ -1,1 +1,37 @@
-[{"id": "1871181001", "district_id": "187118", "name": "KEDAMAIAN"}, {"id": "1871181002", "district_id": "187118", "name": "BUMI KEDAMAIAN"}, {"id": "1871181003", "district_id": "187118", "name": "TANJUNGAGUNG RAYA"}, {"id": "1871181004", "district_id": "187118", "name": "TANJUNGBARU"}, {"id": "1871181005", "district_id": "187118", "name": "KALIBALAU KENCANA"}, {"id": "1871181006", "district_id": "187118", "name": "TANJUNGRAYA"}, {"id": "1871181007", "district_id": "187118", "name": "TANJUNGGADING"}]
+[
+  {
+    "id": "1871181001",
+    "district_id": "187118",
+    "name": "KEDAMAIAN"
+  },
+  {
+    "id": "1871181002",
+    "district_id": "187118",
+    "name": "BUMI KEDAMAIAN"
+  },
+  {
+    "id": "1871181003",
+    "district_id": "187118",
+    "name": "TANJUNGAGUNG RAYA"
+  },
+  {
+    "id": "1871181004",
+    "district_id": "187118",
+    "name": "TANJUNGBARU"
+  },
+  {
+    "id": "1871181005",
+    "district_id": "187118",
+    "name": "KALIBALAU KENCANA"
+  },
+  {
+    "id": "1871181006",
+    "district_id": "187118",
+    "name": "TANJUNGRAYA"
+  },
+  {
+    "id": "1871181007",
+    "district_id": "187118",
+    "name": "TANJUNGGADING"
+  }
+]

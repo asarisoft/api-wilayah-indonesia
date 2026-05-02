@@ -1,1 +1,32 @@
-[{"id": "3575031001", "district_id": "357503", "name": "BLANDONGAN"}, {"id": "3575031002", "district_id": "357503", "name": "KEPEL"}, {"id": "3575031003", "district_id": "357503", "name": "TAPA'AN"}, {"id": "3575031005", "district_id": "357503", "name": "BAKALAN"}, {"id": "3575031006", "district_id": "357503", "name": "KRAMPYANGAN"}, {"id": "3575031009", "district_id": "357503", "name": "BUGUL KIDUL"}]
+[
+  {
+    "id": "3575031001",
+    "district_id": "357503",
+    "name": "BLANDONGAN"
+  },
+  {
+    "id": "3575031002",
+    "district_id": "357503",
+    "name": "KEPEL"
+  },
+  {
+    "id": "3575031003",
+    "district_id": "357503",
+    "name": "TAPA'AN"
+  },
+  {
+    "id": "3575031005",
+    "district_id": "357503",
+    "name": "BAKALAN"
+  },
+  {
+    "id": "3575031006",
+    "district_id": "357503",
+    "name": "KRAMPYANGAN"
+  },
+  {
+    "id": "3575031009",
+    "district_id": "357503",
+    "name": "BUGUL KIDUL"
+  }
+]

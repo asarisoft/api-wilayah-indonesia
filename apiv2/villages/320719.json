@@ -1,1 +1,72 @@
-[{"id": "3207192001", "district_id": "320719", "name": "PAMARICAN"}, {"id": "3207192002", "district_id": "320719", "name": "SIDAMULIH"}, {"id": "3207192003", "district_id": "320719", "name": "KERTAHAYU"}, {"id": "3207192004", "district_id": "320719", "name": "SUKAMUKTI"}, {"id": "3207192005", "district_id": "320719", "name": "BANGUNSARI"}, {"id": "3207192006", "district_id": "320719", "name": "NEGLASARI"}, {"id": "3207192007", "district_id": "320719", "name": "BANTARSARI"}, {"id": "3207192008", "district_id": "320719", "name": "MARGAJAYA"}, {"id": "3207192009", "district_id": "320719", "name": "SUKAJAYA"}, {"id": "3207192010", "district_id": "320719", "name": "SUKAHURIP"}, {"id": "3207192011", "district_id": "320719", "name": "SUKAJADI"}, {"id": "3207192012", "district_id": "320719", "name": "SIDAHARJA"}, {"id": "3207192013", "district_id": "320719", "name": "PASIRNAGARA"}, {"id": "3207192014", "district_id": "320719", "name": "MEKARMULYA"}]
+[
+  {
+    "id": "3207192001",
+    "district_id": "320719",
+    "name": "PAMARICAN"
+  },
+  {
+    "id": "3207192002",
+    "district_id": "320719",
+    "name": "SIDAMULIH"
+  },
+  {
+    "id": "3207192003",
+    "district_id": "320719",
+    "name": "KERTAHAYU"
+  },
+  {
+    "id": "3207192004",
+    "district_id": "320719",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "3207192005",
+    "district_id": "320719",
+    "name": "BANGUNSARI"
+  },
+  {
+    "id": "3207192006",
+    "district_id": "320719",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3207192007",
+    "district_id": "320719",
+    "name": "BANTARSARI"
+  },
+  {
+    "id": "3207192008",
+    "district_id": "320719",
+    "name": "MARGAJAYA"
+  },
+  {
+    "id": "3207192009",
+    "district_id": "320719",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3207192010",
+    "district_id": "320719",
+    "name": "SUKAHURIP"
+  },
+  {
+    "id": "3207192011",
+    "district_id": "320719",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "3207192012",
+    "district_id": "320719",
+    "name": "SIDAHARJA"
+  },
+  {
+    "id": "3207192013",
+    "district_id": "320719",
+    "name": "PASIRNAGARA"
+  },
+  {
+    "id": "3207192014",
+    "district_id": "320719",
+    "name": "MEKARMULYA"
+  }
+]

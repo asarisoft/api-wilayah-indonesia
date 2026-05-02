@@ -1,1 +1,27 @@
-[{"id": "9206122001", "district_id": "920612", "name": "TUHIBA"}, {"id": "9206122002", "district_id": "920612", "name": "TISAIDA"}, {"id": "9206122003", "district_id": "920612", "name": "KUCIR"}, {"id": "9206122004", "district_id": "920612", "name": "SIBENA RAYA"}, {"id": "9206122005", "district_id": "920612", "name": "SIBENA PERMAI"}]
+[
+  {
+    "id": "9206122001",
+    "district_id": "920612",
+    "name": "TUHIBA"
+  },
+  {
+    "id": "9206122002",
+    "district_id": "920612",
+    "name": "TISAIDA"
+  },
+  {
+    "id": "9206122003",
+    "district_id": "920612",
+    "name": "KUCIR"
+  },
+  {
+    "id": "9206122004",
+    "district_id": "920612",
+    "name": "SIBENA RAYA"
+  },
+  {
+    "id": "9206122005",
+    "district_id": "920612",
+    "name": "SIBENA PERMAI"
+  }
+]

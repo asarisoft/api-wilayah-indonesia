@@ -1,1 +1,137 @@
-[{"id": "1103042001", "district_id": "110304", "name": "JAMBO LABU"}, {"id": "1103042002", "district_id": "110304", "name": "ALUE CANANG"}, {"id": "1103042003", "district_id": "110304", "name": "ALUE DRIEN"}, {"id": "1103042004", "district_id": "110304", "name": "BUKET TIGA"}, {"id": "1103042005", "district_id": "110304", "name": "BENTENG"}, {"id": "1103042006", "district_id": "110304", "name": "AFELING II BUKIT"}, {"id": "1103042007", "district_id": "110304", "name": "KEUMUNENG HULU"}, {"id": "1103042008", "district_id": "110304", "name": "PEUTOW"}, {"id": "1103042009", "district_id": "110304", "name": "ALUE BULOH"}, {"id": "1103042010", "district_id": "110304", "name": "ALUE TEH"}, {"id": "1103042011", "district_id": "110304", "name": "PAYA RAMBONG"}, {"id": "1103042012", "district_id": "110304", "name": "ALUE GADENG SA"}, {"id": "1103042013", "district_id": "110304", "name": "PAYA TAMPAH"}, {"id": "1103042014", "district_id": "110304", "name": "PAYA BILI DUA"}, {"id": "1103042015", "district_id": "110304", "name": "PAYA BILI SA"}, {"id": "1103042016", "district_id": "110304", "name": "PAYA PEULAWI"}, {"id": "1103042017", "district_id": "110304", "name": "KEUDE BIREM"}, {"id": "1103042018", "district_id": "110304", "name": "BAYEUN"}, {"id": "1103042019", "district_id": "110304", "name": "ARAMIYAH"}, {"id": "1103042020", "district_id": "110304", "name": "BLANG TUALANG"}, {"id": "1103042021", "district_id": "110304", "name": "BUKET SEULEUMAK"}, {"id": "1103042022", "district_id": "110304", "name": "BIREM RAYEUK"}, {"id": "1103042023", "district_id": "110304", "name": "ALUE GADENG"}, {"id": "1103042024", "district_id": "110304", "name": "ALUE GADENG DUA"}, {"id": "1103042025", "district_id": "110304", "name": "ALUE SENTANG"}, {"id": "1103042026", "district_id": "110304", "name": "MERBOU DUA"}, {"id": "1103042027", "district_id": "110304", "name": "ALUE NYAMOEK"}]
+[
+  {
+    "id": "1103042001",
+    "district_id": "110304",
+    "name": "JAMBO LABU"
+  },
+  {
+    "id": "1103042002",
+    "district_id": "110304",
+    "name": "ALUE CANANG"
+  },
+  {
+    "id": "1103042003",
+    "district_id": "110304",
+    "name": "ALUE DRIEN"
+  },
+  {
+    "id": "1103042004",
+    "district_id": "110304",
+    "name": "BUKET TIGA"
+  },
+  {
+    "id": "1103042005",
+    "district_id": "110304",
+    "name": "BENTENG"
+  },
+  {
+    "id": "1103042006",
+    "district_id": "110304",
+    "name": "AFELING II BUKIT"
+  },
+  {
+    "id": "1103042007",
+    "district_id": "110304",
+    "name": "KEUMUNENG HULU"
+  },
+  {
+    "id": "1103042008",
+    "district_id": "110304",
+    "name": "PEUTOW"
+  },
+  {
+    "id": "1103042009",
+    "district_id": "110304",
+    "name": "ALUE BULOH"
+  },
+  {
+    "id": "1103042010",
+    "district_id": "110304",
+    "name": "ALUE TEH"
+  },
+  {
+    "id": "1103042011",
+    "district_id": "110304",
+    "name": "PAYA RAMBONG"
+  },
+  {
+    "id": "1103042012",
+    "district_id": "110304",
+    "name": "ALUE GADENG SA"
+  },
+  {
+    "id": "1103042013",
+    "district_id": "110304",
+    "name": "PAYA TAMPAH"
+  },
+  {
+    "id": "1103042014",
+    "district_id": "110304",
+    "name": "PAYA BILI DUA"
+  },
+  {
+    "id": "1103042015",
+    "district_id": "110304",
+    "name": "PAYA BILI SA"
+  },
+  {
+    "id": "1103042016",
+    "district_id": "110304",
+    "name": "PAYA PEULAWI"
+  },
+  {
+    "id": "1103042017",
+    "district_id": "110304",
+    "name": "KEUDE BIREM"
+  },
+  {
+    "id": "1103042018",
+    "district_id": "110304",
+    "name": "BAYEUN"
+  },
+  {
+    "id": "1103042019",
+    "district_id": "110304",
+    "name": "ARAMIYAH"
+  },
+  {
+    "id": "1103042020",
+    "district_id": "110304",
+    "name": "BLANG TUALANG"
+  },
+  {
+    "id": "1103042021",
+    "district_id": "110304",
+    "name": "BUKET SEULEUMAK"
+  },
+  {
+    "id": "1103042022",
+    "district_id": "110304",
+    "name": "BIREM RAYEUK"
+  },
+  {
+    "id": "1103042023",
+    "district_id": "110304",
+    "name": "ALUE GADENG"
+  },
+  {
+    "id": "1103042024",
+    "district_id": "110304",
+    "name": "ALUE GADENG DUA"
+  },
+  {
+    "id": "1103042025",
+    "district_id": "110304",
+    "name": "ALUE SENTANG"
+  },
+  {
+    "id": "1103042026",
+    "district_id": "110304",
+    "name": "MERBOU DUA"
+  },
+  {
+    "id": "1103042027",
+    "district_id": "110304",
+    "name": "ALUE NYAMOEK"
+  }
+]

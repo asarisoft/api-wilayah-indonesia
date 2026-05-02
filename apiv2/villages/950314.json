@@ -1,1 +1,42 @@
-[{"id": "9503142001", "district_id": "950314", "name": "PAIMA"}, {"id": "9503142002", "district_id": "950314", "name": "DUGUMHAD"}, {"id": "9503142003", "district_id": "950314", "name": "LELEAK"}, {"id": "9503142004", "district_id": "950314", "name": "SUBSAL"}, {"id": "9503142005", "district_id": "950314", "name": "SENGSENAGAIK"}, {"id": "9503142006", "district_id": "950314", "name": "SIPNIDIPMU"}, {"id": "9503142007", "district_id": "950314", "name": "HOGIO I"}, {"id": "9503142008", "district_id": "950314", "name": "HOGIO II"}]
+[
+  {
+    "id": "9503142001",
+    "district_id": "950314",
+    "name": "PAIMA"
+  },
+  {
+    "id": "9503142002",
+    "district_id": "950314",
+    "name": "DUGUMHAD"
+  },
+  {
+    "id": "9503142003",
+    "district_id": "950314",
+    "name": "LELEAK"
+  },
+  {
+    "id": "9503142004",
+    "district_id": "950314",
+    "name": "SUBSAL"
+  },
+  {
+    "id": "9503142005",
+    "district_id": "950314",
+    "name": "SENGSENAGAIK"
+  },
+  {
+    "id": "9503142006",
+    "district_id": "950314",
+    "name": "SIPNIDIPMU"
+  },
+  {
+    "id": "9503142007",
+    "district_id": "950314",
+    "name": "HOGIO I"
+  },
+  {
+    "id": "9503142008",
+    "district_id": "950314",
+    "name": "HOGIO II"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "3510042001", "district_id": "351004", "name": "PURWOASRI"}, {"id": "3510042002", "district_id": "351004", "name": "KENDALREJO"}, {"id": "3510042003", "district_id": "351004", "name": "KEDUNGASRI"}, {"id": "3510042004", "district_id": "351004", "name": "KEDUNGWUNGU"}, {"id": "3510042005", "district_id": "351004", "name": "TEGALDLIMO"}, {"id": "3510042006", "district_id": "351004", "name": "WRINGINPITU"}, {"id": "3510042007", "district_id": "351004", "name": "KEDUNGGEBANG"}, {"id": "3510042008", "district_id": "351004", "name": "PURWOAGUNG"}, {"id": "3510042009", "district_id": "351004", "name": "KALIPAIT"}]
+[
+  {
+    "id": "3510042001",
+    "district_id": "351004",
+    "name": "PURWOASRI"
+  },
+  {
+    "id": "3510042002",
+    "district_id": "351004",
+    "name": "KENDALREJO"
+  },
+  {
+    "id": "3510042003",
+    "district_id": "351004",
+    "name": "KEDUNGASRI"
+  },
+  {
+    "id": "3510042004",
+    "district_id": "351004",
+    "name": "KEDUNGWUNGU"
+  },
+  {
+    "id": "3510042005",
+    "district_id": "351004",
+    "name": "TEGALDLIMO"
+  },
+  {
+    "id": "3510042006",
+    "district_id": "351004",
+    "name": "WRINGINPITU"
+  },
+  {
+    "id": "3510042007",
+    "district_id": "351004",
+    "name": "KEDUNGGEBANG"
+  },
+  {
+    "id": "3510042008",
+    "district_id": "351004",
+    "name": "PURWOAGUNG"
+  },
+  {
+    "id": "3510042009",
+    "district_id": "351004",
+    "name": "KALIPAIT"
+  }
+]

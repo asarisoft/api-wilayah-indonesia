@@ -1,1 +1,47 @@
-[{"id": "7104192001", "district_id": "710419", "name": "SAMBUARA SATU"}, {"id": "7104192002", "district_id": "710419", "name": "SAMBUARA"}, {"id": "7104192003", "district_id": "710419", "name": "ENSEM"}, {"id": "7104192004", "district_id": "710419", "name": "ENSEM TIMUR"}, {"id": "7104192005", "district_id": "710419", "name": "BATUMBALANGO"}, {"id": "7104192006", "district_id": "710419", "name": "AMBIA"}, {"id": "7104192007", "district_id": "710419", "name": "AMBIA UTARA"}, {"id": "7104192008", "district_id": "710419", "name": "KUMA"}, {"id": "7104192009", "district_id": "710419", "name": "KUMA SELATAN"}]
+[
+  {
+    "id": "7104192001",
+    "district_id": "710419",
+    "name": "SAMBUARA SATU"
+  },
+  {
+    "id": "7104192002",
+    "district_id": "710419",
+    "name": "SAMBUARA"
+  },
+  {
+    "id": "7104192003",
+    "district_id": "710419",
+    "name": "ENSEM"
+  },
+  {
+    "id": "7104192004",
+    "district_id": "710419",
+    "name": "ENSEM TIMUR"
+  },
+  {
+    "id": "7104192005",
+    "district_id": "710419",
+    "name": "BATUMBALANGO"
+  },
+  {
+    "id": "7104192006",
+    "district_id": "710419",
+    "name": "AMBIA"
+  },
+  {
+    "id": "7104192007",
+    "district_id": "710419",
+    "name": "AMBIA UTARA"
+  },
+  {
+    "id": "7104192008",
+    "district_id": "710419",
+    "name": "KUMA"
+  },
+  {
+    "id": "7104192009",
+    "district_id": "710419",
+    "name": "KUMA SELATAN"
+  }
+]

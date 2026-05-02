@@ -1,1 +1,72 @@
-[{"id": "1602232001", "district_id": "160223", "name": "BENAWA"}, {"id": "1602232002", "district_id": "160223", "name": "SERAPEK"}, {"id": "1602232003", "district_id": "160223", "name": "SUGIH WARAS"}, {"id": "1602232004", "district_id": "160223", "name": "MUARA TELANG"}, {"id": "1602232005", "district_id": "160223", "name": "KURIPAN"}, {"id": "1602232006", "district_id": "160223", "name": "CINTA MARGA"}, {"id": "1602232007", "district_id": "160223", "name": "PENYANDINGAN"}, {"id": "1602232008", "district_id": "160223", "name": "TALANG PENGERAN"}, {"id": "1602232009", "district_id": "160223", "name": "ULAK KETAPANG"}, {"id": "1602232010", "district_id": "160223", "name": "MULYAGUNA"}, {"id": "1602232011", "district_id": "160223", "name": "PANCA TUNGGAL BENAWA"}, {"id": "1602232012", "district_id": "160223", "name": "BUMI HARAPAN"}, {"id": "1602232013", "district_id": "160223", "name": "SINAR HARAPAN MULYA"}, {"id": "1602232014", "district_id": "160223", "name": "SERIGUNA"}]
+[
+  {
+    "id": "1602232001",
+    "district_id": "160223",
+    "name": "BENAWA"
+  },
+  {
+    "id": "1602232002",
+    "district_id": "160223",
+    "name": "SERAPEK"
+  },
+  {
+    "id": "1602232003",
+    "district_id": "160223",
+    "name": "SUGIH WARAS"
+  },
+  {
+    "id": "1602232004",
+    "district_id": "160223",
+    "name": "MUARA TELANG"
+  },
+  {
+    "id": "1602232005",
+    "district_id": "160223",
+    "name": "KURIPAN"
+  },
+  {
+    "id": "1602232006",
+    "district_id": "160223",
+    "name": "CINTA MARGA"
+  },
+  {
+    "id": "1602232007",
+    "district_id": "160223",
+    "name": "PENYANDINGAN"
+  },
+  {
+    "id": "1602232008",
+    "district_id": "160223",
+    "name": "TALANG PENGERAN"
+  },
+  {
+    "id": "1602232009",
+    "district_id": "160223",
+    "name": "ULAK KETAPANG"
+  },
+  {
+    "id": "1602232010",
+    "district_id": "160223",
+    "name": "MULYAGUNA"
+  },
+  {
+    "id": "1602232011",
+    "district_id": "160223",
+    "name": "PANCA TUNGGAL BENAWA"
+  },
+  {
+    "id": "1602232012",
+    "district_id": "160223",
+    "name": "BUMI HARAPAN"
+  },
+  {
+    "id": "1602232013",
+    "district_id": "160223",
+    "name": "SINAR HARAPAN MULYA"
+  },
+  {
+    "id": "1602232014",
+    "district_id": "160223",
+    "name": "SERIGUNA"
+  }
+]

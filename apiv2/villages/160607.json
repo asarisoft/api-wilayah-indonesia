@@ -1,1 +1,77 @@
-[{"id": "1606071020", "district_id": "160607", "name": "SUNGAI LILIN"}, {"id": "1606071030", "district_id": "160607", "name": "SUNGAI LILIN JAYA"}, {"id": "1606072007", "district_id": "160607", "name": "SRI GUNUNG"}, {"id": "1606072008", "district_id": "160607", "name": "SUMBER REJEKI"}, {"id": "1606072009", "district_id": "160607", "name": "LINGGO SARI"}, {"id": "1606072010", "district_id": "160607", "name": "MULYO REJO"}, {"id": "1606072011", "district_id": "160607", "name": "SUKA DAMAI BARU"}, {"id": "1606072012", "district_id": "160607", "name": "CINTA DAMAI"}, {"id": "1606072013", "district_id": "160607", "name": "BERLIAN MAKMUR"}, {"id": "1606072014", "district_id": "160607", "name": "BUMI KENCANA"}, {"id": "1606072015", "district_id": "160607", "name": "MEKAR JADI"}, {"id": "1606072016", "district_id": "160607", "name": "NUSA SERASAN"}, {"id": "1606072017", "district_id": "160607", "name": "PINANG BANJAR"}, {"id": "1606072019", "district_id": "160607", "name": "PANCA TUNGGAL"}, {"id": "1606072021", "district_id": "160607", "name": "BUKIT JAYA"}]
+[
+  {
+    "id": "1606071020",
+    "district_id": "160607",
+    "name": "SUNGAI LILIN"
+  },
+  {
+    "id": "1606071030",
+    "district_id": "160607",
+    "name": "SUNGAI LILIN JAYA"
+  },
+  {
+    "id": "1606072007",
+    "district_id": "160607",
+    "name": "SRI GUNUNG"
+  },
+  {
+    "id": "1606072008",
+    "district_id": "160607",
+    "name": "SUMBER REJEKI"
+  },
+  {
+    "id": "1606072009",
+    "district_id": "160607",
+    "name": "LINGGO SARI"
+  },
+  {
+    "id": "1606072010",
+    "district_id": "160607",
+    "name": "MULYO REJO"
+  },
+  {
+    "id": "1606072011",
+    "district_id": "160607",
+    "name": "SUKA DAMAI BARU"
+  },
+  {
+    "id": "1606072012",
+    "district_id": "160607",
+    "name": "CINTA DAMAI"
+  },
+  {
+    "id": "1606072013",
+    "district_id": "160607",
+    "name": "BERLIAN MAKMUR"
+  },
+  {
+    "id": "1606072014",
+    "district_id": "160607",
+    "name": "BUMI KENCANA"
+  },
+  {
+    "id": "1606072015",
+    "district_id": "160607",
+    "name": "MEKAR JADI"
+  },
+  {
+    "id": "1606072016",
+    "district_id": "160607",
+    "name": "NUSA SERASAN"
+  },
+  {
+    "id": "1606072017",
+    "district_id": "160607",
+    "name": "PINANG BANJAR"
+  },
+  {
+    "id": "1606072019",
+    "district_id": "160607",
+    "name": "PANCA TUNGGAL"
+  },
+  {
+    "id": "1606072021",
+    "district_id": "160607",
+    "name": "BUKIT JAYA"
+  }
+]

@@ -1,1 +1,117 @@
-[{"id": "321601", "regency_id": "3216", "name": "TARUMAJAYA"}, {"id": "321602", "regency_id": "3216", "name": "BABELAN"}, {"id": "321603", "regency_id": "3216", "name": "SUKAWANGI"}, {"id": "321604", "regency_id": "3216", "name": "TAMBELANG"}, {"id": "321605", "regency_id": "3216", "name": "TAMBUN UTARA"}, {"id": "321606", "regency_id": "3216", "name": "TAMBUN SELATAN"}, {"id": "321607", "regency_id": "3216", "name": "CIBITUNG"}, {"id": "321608", "regency_id": "3216", "name": "CIKARANG BARAT"}, {"id": "321609", "regency_id": "3216", "name": "CIKARANG UTARA"}, {"id": "321610", "regency_id": "3216", "name": "KARANG BAHAGIA"}, {"id": "321611", "regency_id": "3216", "name": "CIKARANG TIMUR"}, {"id": "321612", "regency_id": "3216", "name": "KEDUNG WARINGIN"}, {"id": "321613", "regency_id": "3216", "name": "PEBAYURAN"}, {"id": "321614", "regency_id": "3216", "name": "SUKAKARYA"}, {"id": "321615", "regency_id": "3216", "name": "SUKATANI"}, {"id": "321616", "regency_id": "3216", "name": "CABANGBUNGIN"}, {"id": "321617", "regency_id": "3216", "name": "MUARAGEMBONG"}, {"id": "321618", "regency_id": "3216", "name": "SETU"}, {"id": "321619", "regency_id": "3216", "name": "CIKARANG SELATAN"}, {"id": "321620", "regency_id": "3216", "name": "CIKARANG PUSAT"}, {"id": "321621", "regency_id": "3216", "name": "SERANG BARU"}, {"id": "321622", "regency_id": "3216", "name": "CIBARUSAH"}, {"id": "321623", "regency_id": "3216", "name": "BOJONGMANGU"}]
+[
+  {
+    "id": "321601",
+    "regency_id": "3216",
+    "name": "TARUMAJAYA"
+  },
+  {
+    "id": "321602",
+    "regency_id": "3216",
+    "name": "BABELAN"
+  },
+  {
+    "id": "321603",
+    "regency_id": "3216",
+    "name": "SUKAWANGI"
+  },
+  {
+    "id": "321604",
+    "regency_id": "3216",
+    "name": "TAMBELANG"
+  },
+  {
+    "id": "321605",
+    "regency_id": "3216",
+    "name": "TAMBUN UTARA"
+  },
+  {
+    "id": "321606",
+    "regency_id": "3216",
+    "name": "TAMBUN SELATAN"
+  },
+  {
+    "id": "321607",
+    "regency_id": "3216",
+    "name": "CIBITUNG"
+  },
+  {
+    "id": "321608",
+    "regency_id": "3216",
+    "name": "CIKARANG BARAT"
+  },
+  {
+    "id": "321609",
+    "regency_id": "3216",
+    "name": "CIKARANG UTARA"
+  },
+  {
+    "id": "321610",
+    "regency_id": "3216",
+    "name": "KARANG BAHAGIA"
+  },
+  {
+    "id": "321611",
+    "regency_id": "3216",
+    "name": "CIKARANG TIMUR"
+  },
+  {
+    "id": "321612",
+    "regency_id": "3216",
+    "name": "KEDUNG WARINGIN"
+  },
+  {
+    "id": "321613",
+    "regency_id": "3216",
+    "name": "PEBAYURAN"
+  },
+  {
+    "id": "321614",
+    "regency_id": "3216",
+    "name": "SUKAKARYA"
+  },
+  {
+    "id": "321615",
+    "regency_id": "3216",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "321616",
+    "regency_id": "3216",
+    "name": "CABANGBUNGIN"
+  },
+  {
+    "id": "321617",
+    "regency_id": "3216",
+    "name": "MUARAGEMBONG"
+  },
+  {
+    "id": "321618",
+    "regency_id": "3216",
+    "name": "SETU"
+  },
+  {
+    "id": "321619",
+    "regency_id": "3216",
+    "name": "CIKARANG SELATAN"
+  },
+  {
+    "id": "321620",
+    "regency_id": "3216",
+    "name": "CIKARANG PUSAT"
+  },
+  {
+    "id": "321621",
+    "regency_id": "3216",
+    "name": "SERANG BARU"
+  },
+  {
+    "id": "321622",
+    "regency_id": "3216",
+    "name": "CIBARUSAH"
+  },
+  {
+    "id": "321623",
+    "regency_id": "3216",
+    "name": "BOJONGMANGU"
+  }
+]

@@ -1,1 +1,17 @@
-[{"id": "2102132001", "district_id": "210213", "name": "PARIT"}, {"id": "2102132002", "district_id": "210213", "name": "TULANG"}, {"id": "2102132003", "district_id": "210213", "name": "SELAT MENDAUN"}]
+[
+  {
+    "id": "2102132001",
+    "district_id": "210213",
+    "name": "PARIT"
+  },
+  {
+    "id": "2102132002",
+    "district_id": "210213",
+    "name": "TULANG"
+  },
+  {
+    "id": "2102132003",
+    "district_id": "210213",
+    "name": "SELAT MENDAUN"
+  }
+]

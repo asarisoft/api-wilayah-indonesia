@@ -1,1 +1,172 @@
-[{"id": "1114052011", "district_id": "111405", "name": "PANTE CERMIN"}, {"id": "1114052012", "district_id": "111405", "name": "SABET"}, {"id": "1114052013", "district_id": "111405", "name": "SANGO"}, {"id": "1114052014", "district_id": "111405", "name": "MAREU"}, {"id": "1114052015", "district_id": "111405", "name": "LAM ASAN"}, {"id": "1114052016", "district_id": "111405", "name": "ALUE RAYEUK"}, {"id": "1114052017", "district_id": "111405", "name": "SAPEK"}, {"id": "1114052018", "district_id": "111405", "name": "LAMBAROH"}, {"id": "1114052019", "district_id": "111405", "name": "MEUDHEUN"}, {"id": "1114052020", "district_id": "111405", "name": "BABAH IE"}, {"id": "1114052021", "district_id": "111405", "name": "UJONG SUDHEUN"}, {"id": "1114052022", "district_id": "111405", "name": "KRUENG TUNONG"}, {"id": "1114052023", "district_id": "111405", "name": "JAMBO MASI"}, {"id": "1114052024", "district_id": "111405", "name": "LAMTUI"}, {"id": "1114052025", "district_id": "111405", "name": "PASAR LAMNO"}, {"id": "1114052026", "district_id": "111405", "name": "MEUNASAH WEH"}, {"id": "1114052027", "district_id": "111405", "name": "BAK PAOH"}, {"id": "1114052028", "district_id": "111405", "name": "BABAH KRUENG"}, {"id": "1114052029", "district_id": "111405", "name": "COT DULANG"}, {"id": "1114052030", "district_id": "111405", "name": "LAMDURIAN"}, {"id": "1114052031", "district_id": "111405", "name": "PUTUE"}, {"id": "1114052032", "district_id": "111405", "name": "GLE PUTOH"}, {"id": "1114052033", "district_id": "111405", "name": "PANTE KEUTAPANG"}, {"id": "1114052034", "district_id": "111405", "name": "LAMME"}, {"id": "1114052035", "district_id": "111405", "name": "MEUNASAH SERBA"}, {"id": "1114052036", "district_id": "111405", "name": "LEUPE"}, {"id": "1114052037", "district_id": "111405", "name": "MEUTARA"}, {"id": "1114052038", "district_id": "111405", "name": "LHUET"}, {"id": "1114052039", "district_id": "111405", "name": "GLE JONG"}, {"id": "1114052040", "district_id": "111405", "name": "DARAT"}, {"id": "1114052041", "district_id": "111405", "name": "GAMPONG BARO"}, {"id": "1114052042", "district_id": "111405", "name": "PANTON MAKMUR"}, {"id": "1114052043", "district_id": "111405", "name": "RUMPET"}, {"id": "1114052044", "district_id": "111405", "name": "NUSA"}]
+[
+  {
+    "id": "1114052011",
+    "district_id": "111405",
+    "name": "PANTE CERMIN"
+  },
+  {
+    "id": "1114052012",
+    "district_id": "111405",
+    "name": "SABET"
+  },
+  {
+    "id": "1114052013",
+    "district_id": "111405",
+    "name": "SANGO"
+  },
+  {
+    "id": "1114052014",
+    "district_id": "111405",
+    "name": "MAREU"
+  },
+  {
+    "id": "1114052015",
+    "district_id": "111405",
+    "name": "LAM ASAN"
+  },
+  {
+    "id": "1114052016",
+    "district_id": "111405",
+    "name": "ALUE RAYEUK"
+  },
+  {
+    "id": "1114052017",
+    "district_id": "111405",
+    "name": "SAPEK"
+  },
+  {
+    "id": "1114052018",
+    "district_id": "111405",
+    "name": "LAMBAROH"
+  },
+  {
+    "id": "1114052019",
+    "district_id": "111405",
+    "name": "MEUDHEUN"
+  },
+  {
+    "id": "1114052020",
+    "district_id": "111405",
+    "name": "BABAH IE"
+  },
+  {
+    "id": "1114052021",
+    "district_id": "111405",
+    "name": "UJONG SUDHEUN"
+  },
+  {
+    "id": "1114052022",
+    "district_id": "111405",
+    "name": "KRUENG TUNONG"
+  },
+  {
+    "id": "1114052023",
+    "district_id": "111405",
+    "name": "JAMBO MASI"
+  },
+  {
+    "id": "1114052024",
+    "district_id": "111405",
+    "name": "LAMTUI"
+  },
+  {
+    "id": "1114052025",
+    "district_id": "111405",
+    "name": "PASAR LAMNO"
+  },
+  {
+    "id": "1114052026",
+    "district_id": "111405",
+    "name": "MEUNASAH WEH"
+  },
+  {
+    "id": "1114052027",
+    "district_id": "111405",
+    "name": "BAK PAOH"
+  },
+  {
+    "id": "1114052028",
+    "district_id": "111405",
+    "name": "BABAH KRUENG"
+  },
+  {
+    "id": "1114052029",
+    "district_id": "111405",
+    "name": "COT DULANG"
+  },
+  {
+    "id": "1114052030",
+    "district_id": "111405",
+    "name": "LAMDURIAN"
+  },
+  {
+    "id": "1114052031",
+    "district_id": "111405",
+    "name": "PUTUE"
+  },
+  {
+    "id": "1114052032",
+    "district_id": "111405",
+    "name": "GLE PUTOH"
+  },
+  {
+    "id": "1114052033",
+    "district_id": "111405",
+    "name": "PANTE KEUTAPANG"
+  },
+  {
+    "id": "1114052034",
+    "district_id": "111405",
+    "name": "LAMME"
+  },
+  {
+    "id": "1114052035",
+    "district_id": "111405",
+    "name": "MEUNASAH SERBA"
+  },
+  {
+    "id": "1114052036",
+    "district_id": "111405",
+    "name": "LEUPE"
+  },
+  {
+    "id": "1114052037",
+    "district_id": "111405",
+    "name": "MEUTARA"
+  },
+  {
+    "id": "1114052038",
+    "district_id": "111405",
+    "name": "LHUET"
+  },
+  {
+    "id": "1114052039",
+    "district_id": "111405",
+    "name": "GLE JONG"
+  },
+  {
+    "id": "1114052040",
+    "district_id": "111405",
+    "name": "DARAT"
+  },
+  {
+    "id": "1114052041",
+    "district_id": "111405",
+    "name": "GAMPONG BARO"
+  },
+  {
+    "id": "1114052042",
+    "district_id": "111405",
+    "name": "PANTON MAKMUR"
+  },
+  {
+    "id": "1114052043",
+    "district_id": "111405",
+    "name": "RUMPET"
+  },
+  {
+    "id": "1114052044",
+    "district_id": "111405",
+    "name": "NUSA"
+  }
+]

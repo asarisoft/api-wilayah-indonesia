@@ -1,1 +1,37 @@
-[{"id": "3202402001", "district_id": "320240", "name": "GEGERBITUNG"}, {"id": "3202402002", "district_id": "320240", "name": "CIJUREY"}, {"id": "3202402003", "district_id": "320240", "name": "CIENGANG"}, {"id": "3202402004", "district_id": "320240", "name": "KARANGJAYA"}, {"id": "3202402005", "district_id": "320240", "name": "CARINGIN"}, {"id": "3202402006", "district_id": "320240", "name": "SUKAMANAH"}, {"id": "3202402007", "district_id": "320240", "name": "BUNIWANGI"}]
+[
+  {
+    "id": "3202402001",
+    "district_id": "320240",
+    "name": "GEGERBITUNG"
+  },
+  {
+    "id": "3202402002",
+    "district_id": "320240",
+    "name": "CIJUREY"
+  },
+  {
+    "id": "3202402003",
+    "district_id": "320240",
+    "name": "CIENGANG"
+  },
+  {
+    "id": "3202402004",
+    "district_id": "320240",
+    "name": "KARANGJAYA"
+  },
+  {
+    "id": "3202402005",
+    "district_id": "320240",
+    "name": "CARINGIN"
+  },
+  {
+    "id": "3202402006",
+    "district_id": "320240",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3202402007",
+    "district_id": "320240",
+    "name": "BUNIWANGI"
+  }
+]

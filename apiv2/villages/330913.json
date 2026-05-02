@@ -1,1 +1,67 @@
-[{"id": "3309132001", "district_id": "330913", "name": "PELEM"}, {"id": "3309132002", "district_id": "330913", "name": "BENDUNGAN"}, {"id": "3309132003", "district_id": "330913", "name": "TEMON"}, {"id": "3309132004", "district_id": "330913", "name": "TETER"}, {"id": "3309132005", "district_id": "330913", "name": "SIMO"}, {"id": "3309132006", "district_id": "330913", "name": "WALEN"}, {"id": "3309132007", "district_id": "330913", "name": "PENTUR"}, {"id": "3309132008", "district_id": "330913", "name": "GUNUNG"}, {"id": "3309132009", "district_id": "330913", "name": "TALAKBROTO"}, {"id": "3309132010", "district_id": "330913", "name": "KEDUNGLENGKONG"}, {"id": "3309132011", "district_id": "330913", "name": "BLAGUNG"}, {"id": "3309132012", "district_id": "330913", "name": "SUMBER"}, {"id": "3309132013", "district_id": "330913", "name": "WATES"}]
+[
+  {
+    "id": "3309132001",
+    "district_id": "330913",
+    "name": "PELEM"
+  },
+  {
+    "id": "3309132002",
+    "district_id": "330913",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "3309132003",
+    "district_id": "330913",
+    "name": "TEMON"
+  },
+  {
+    "id": "3309132004",
+    "district_id": "330913",
+    "name": "TETER"
+  },
+  {
+    "id": "3309132005",
+    "district_id": "330913",
+    "name": "SIMO"
+  },
+  {
+    "id": "3309132006",
+    "district_id": "330913",
+    "name": "WALEN"
+  },
+  {
+    "id": "3309132007",
+    "district_id": "330913",
+    "name": "PENTUR"
+  },
+  {
+    "id": "3309132008",
+    "district_id": "330913",
+    "name": "GUNUNG"
+  },
+  {
+    "id": "3309132009",
+    "district_id": "330913",
+    "name": "TALAKBROTO"
+  },
+  {
+    "id": "3309132010",
+    "district_id": "330913",
+    "name": "KEDUNGLENGKONG"
+  },
+  {
+    "id": "3309132011",
+    "district_id": "330913",
+    "name": "BLAGUNG"
+  },
+  {
+    "id": "3309132012",
+    "district_id": "330913",
+    "name": "SUMBER"
+  },
+  {
+    "id": "3309132013",
+    "district_id": "330913",
+    "name": "WATES"
+  }
+]

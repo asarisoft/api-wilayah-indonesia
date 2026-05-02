@@ -1,1 +1,57 @@
-[{"id": "9405022001", "district_id": "940502", "name": "WANGBE"}, {"id": "9405022002", "district_id": "940502", "name": "JINDAK"}, {"id": "9405022003", "district_id": "940502", "name": "PUNGKI"}, {"id": "9405022004", "district_id": "940502", "name": "WONALBE"}, {"id": "9405022005", "district_id": "940502", "name": "ULIPIA"}, {"id": "9405022006", "district_id": "940502", "name": "MARILAUKIN"}, {"id": "9405022007", "district_id": "940502", "name": "AILPAILIN"}, {"id": "9405022008", "district_id": "940502", "name": "WUNGBET"}, {"id": "9405022009", "district_id": "940502", "name": "NAGALJAGAMA"}, {"id": "9405022010", "district_id": "940502", "name": "MONGKOIHOL"}, {"id": "9405022011", "district_id": "940502", "name": "NANGI"}]
+[
+  {
+    "id": "9405022001",
+    "district_id": "940502",
+    "name": "WANGBE"
+  },
+  {
+    "id": "9405022002",
+    "district_id": "940502",
+    "name": "JINDAK"
+  },
+  {
+    "id": "9405022003",
+    "district_id": "940502",
+    "name": "PUNGKI"
+  },
+  {
+    "id": "9405022004",
+    "district_id": "940502",
+    "name": "WONALBE"
+  },
+  {
+    "id": "9405022005",
+    "district_id": "940502",
+    "name": "ULIPIA"
+  },
+  {
+    "id": "9405022006",
+    "district_id": "940502",
+    "name": "MARILAUKIN"
+  },
+  {
+    "id": "9405022007",
+    "district_id": "940502",
+    "name": "AILPAILIN"
+  },
+  {
+    "id": "9405022008",
+    "district_id": "940502",
+    "name": "WUNGBET"
+  },
+  {
+    "id": "9405022009",
+    "district_id": "940502",
+    "name": "NAGALJAGAMA"
+  },
+  {
+    "id": "9405022010",
+    "district_id": "940502",
+    "name": "MONGKOIHOL"
+  },
+  {
+    "id": "9405022011",
+    "district_id": "940502",
+    "name": "NANGI"
+  }
+]

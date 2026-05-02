@@ -1,1 +1,127 @@
-[{"id": "710201", "regency_id": "7102", "name": "TONDANO BARAT"}, {"id": "710202", "regency_id": "7102", "name": "TONDANO TIMUR"}, {"id": "710203", "regency_id": "7102", "name": "ERIS"}, {"id": "710204", "regency_id": "7102", "name": "KOMBI"}, {"id": "710205", "regency_id": "7102", "name": "LEMBEAN TIMUR"}, {"id": "710206", "regency_id": "7102", "name": "KAKAS"}, {"id": "710207", "regency_id": "7102", "name": "TOMPASO"}, {"id": "710208", "regency_id": "7102", "name": "REMBOKEN"}, {"id": "710209", "regency_id": "7102", "name": "LANGOWAN TIMUR"}, {"id": "710210", "regency_id": "7102", "name": "LANGOWAN BARAT"}, {"id": "710211", "regency_id": "7102", "name": "SONDER"}, {"id": "710212", "regency_id": "7102", "name": "KAWANGKOAN"}, {"id": "710213", "regency_id": "7102", "name": "PINELENG"}, {"id": "710214", "regency_id": "7102", "name": "TOMBULU"}, {"id": "710215", "regency_id": "7102", "name": "TOMBARIRI"}, {"id": "710216", "regency_id": "7102", "name": "TONDANO UTARA"}, {"id": "710217", "regency_id": "7102", "name": "LANGOWAN SELATAN"}, {"id": "710218", "regency_id": "7102", "name": "TONDANO SELATAN"}, {"id": "710219", "regency_id": "7102", "name": "LANGOWAN UTARA"}, {"id": "710220", "regency_id": "7102", "name": "KAKAS BARAT"}, {"id": "710221", "regency_id": "7102", "name": "KAWANGKOAN UTARA"}, {"id": "710222", "regency_id": "7102", "name": "KAWANGKOAN BARAT"}, {"id": "710223", "regency_id": "7102", "name": "MANDOLANG"}, {"id": "710224", "regency_id": "7102", "name": "TOMBARIRI TIMUR"}, {"id": "710225", "regency_id": "7102", "name": "TOMPASO BARAT"}]
+[
+  {
+    "id": "710201",
+    "regency_id": "7102",
+    "name": "TONDANO BARAT"
+  },
+  {
+    "id": "710202",
+    "regency_id": "7102",
+    "name": "TONDANO TIMUR"
+  },
+  {
+    "id": "710203",
+    "regency_id": "7102",
+    "name": "ERIS"
+  },
+  {
+    "id": "710204",
+    "regency_id": "7102",
+    "name": "KOMBI"
+  },
+  {
+    "id": "710205",
+    "regency_id": "7102",
+    "name": "LEMBEAN TIMUR"
+  },
+  {
+    "id": "710206",
+    "regency_id": "7102",
+    "name": "KAKAS"
+  },
+  {
+    "id": "710207",
+    "regency_id": "7102",
+    "name": "TOMPASO"
+  },
+  {
+    "id": "710208",
+    "regency_id": "7102",
+    "name": "REMBOKEN"
+  },
+  {
+    "id": "710209",
+    "regency_id": "7102",
+    "name": "LANGOWAN TIMUR"
+  },
+  {
+    "id": "710210",
+    "regency_id": "7102",
+    "name": "LANGOWAN BARAT"
+  },
+  {
+    "id": "710211",
+    "regency_id": "7102",
+    "name": "SONDER"
+  },
+  {
+    "id": "710212",
+    "regency_id": "7102",
+    "name": "KAWANGKOAN"
+  },
+  {
+    "id": "710213",
+    "regency_id": "7102",
+    "name": "PINELENG"
+  },
+  {
+    "id": "710214",
+    "regency_id": "7102",
+    "name": "TOMBULU"
+  },
+  {
+    "id": "710215",
+    "regency_id": "7102",
+    "name": "TOMBARIRI"
+  },
+  {
+    "id": "710216",
+    "regency_id": "7102",
+    "name": "TONDANO UTARA"
+  },
+  {
+    "id": "710217",
+    "regency_id": "7102",
+    "name": "LANGOWAN SELATAN"
+  },
+  {
+    "id": "710218",
+    "regency_id": "7102",
+    "name": "TONDANO SELATAN"
+  },
+  {
+    "id": "710219",
+    "regency_id": "7102",
+    "name": "LANGOWAN UTARA"
+  },
+  {
+    "id": "710220",
+    "regency_id": "7102",
+    "name": "KAKAS BARAT"
+  },
+  {
+    "id": "710221",
+    "regency_id": "7102",
+    "name": "KAWANGKOAN UTARA"
+  },
+  {
+    "id": "710222",
+    "regency_id": "7102",
+    "name": "KAWANGKOAN BARAT"
+  },
+  {
+    "id": "710223",
+    "regency_id": "7102",
+    "name": "MANDOLANG"
+  },
+  {
+    "id": "710224",
+    "regency_id": "7102",
+    "name": "TOMBARIRI TIMUR"
+  },
+  {
+    "id": "710225",
+    "regency_id": "7102",
+    "name": "TOMPASO BARAT"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "6206132001", "district_id": "620613", "name": "TUMBANG GAEI"}, {"id": "6206132002", "district_id": "620613", "name": "TUMBANG KATAEI"}, {"id": "6206132003", "district_id": "620613", "name": "TUMBANG KARUEI"}, {"id": "6206132004", "district_id": "620613", "name": "TUMBANG DAHUEI"}, {"id": "6206132005", "district_id": "620613", "name": "RANTAU PANDAN"}, {"id": "6206132006", "district_id": "620613", "name": "RANGAN RONDAN"}, {"id": "6206132007", "district_id": "620613", "name": "RANGAN BAHEKANG"}, {"id": "6206132008", "district_id": "620613", "name": "TUMBANG KAJAMEI"}, {"id": "6206132009", "district_id": "620613", "name": "TUMBANG KABURAI"}, {"id": "6206132010", "district_id": "620613", "name": "TANJUNG BATIK"}, {"id": "6206132011", "district_id": "620613", "name": "PENDA NANGE"}]
+[
+  {
+    "id": "6206132001",
+    "district_id": "620613",
+    "name": "TUMBANG GAEI"
+  },
+  {
+    "id": "6206132002",
+    "district_id": "620613",
+    "name": "TUMBANG KATAEI"
+  },
+  {
+    "id": "6206132003",
+    "district_id": "620613",
+    "name": "TUMBANG KARUEI"
+  },
+  {
+    "id": "6206132004",
+    "district_id": "620613",
+    "name": "TUMBANG DAHUEI"
+  },
+  {
+    "id": "6206132005",
+    "district_id": "620613",
+    "name": "RANTAU PANDAN"
+  },
+  {
+    "id": "6206132006",
+    "district_id": "620613",
+    "name": "RANGAN RONDAN"
+  },
+  {
+    "id": "6206132007",
+    "district_id": "620613",
+    "name": "RANGAN BAHEKANG"
+  },
+  {
+    "id": "6206132008",
+    "district_id": "620613",
+    "name": "TUMBANG KAJAMEI"
+  },
+  {
+    "id": "6206132009",
+    "district_id": "620613",
+    "name": "TUMBANG KABURAI"
+  },
+  {
+    "id": "6206132010",
+    "district_id": "620613",
+    "name": "TANJUNG BATIK"
+  },
+  {
+    "id": "6206132011",
+    "district_id": "620613",
+    "name": "PENDA NANGE"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "3324112001", "district_id": "332411", "name": "SEDAYU"}, {"id": "3324112002", "district_id": "332411", "name": "PAMRIYAN"}, {"id": "3324112003", "district_id": "332411", "name": "JENARSARI"}, {"id": "3324112004", "district_id": "332411", "name": "PONCOREJO"}, {"id": "3324112005", "district_id": "332411", "name": "GEBANG"}, {"id": "3324112006", "district_id": "332411", "name": "KROMPAAN"}, {"id": "3324112007", "district_id": "332411", "name": "GEMUHBLANTEN"}, {"id": "3324112008", "district_id": "332411", "name": "TAMANGEDE"}, {"id": "3324112009", "district_id": "332411", "name": "LUMANSARI"}, {"id": "3324112010", "district_id": "332411", "name": "JOHOREJO"}, {"id": "3324112011", "district_id": "332411", "name": "TLAHAB"}, {"id": "3324112012", "district_id": "332411", "name": "PUCANGREJO"}, {"id": "3324112013", "district_id": "332411", "name": "SOJOMERTO"}, {"id": "3324112014", "district_id": "332411", "name": "TRIHARJO"}, {"id": "3324112015", "district_id": "332411", "name": "CEPOKOMULYO"}, {"id": "3324112016", "district_id": "332411", "name": "GALIH"}]
+[
+  {
+    "id": "3324112001",
+    "district_id": "332411",
+    "name": "SEDAYU"
+  },
+  {
+    "id": "3324112002",
+    "district_id": "332411",
+    "name": "PAMRIYAN"
+  },
+  {
+    "id": "3324112003",
+    "district_id": "332411",
+    "name": "JENARSARI"
+  },
+  {
+    "id": "3324112004",
+    "district_id": "332411",
+    "name": "PONCOREJO"
+  },
+  {
+    "id": "3324112005",
+    "district_id": "332411",
+    "name": "GEBANG"
+  },
+  {
+    "id": "3324112006",
+    "district_id": "332411",
+    "name": "KROMPAAN"
+  },
+  {
+    "id": "3324112007",
+    "district_id": "332411",
+    "name": "GEMUHBLANTEN"
+  },
+  {
+    "id": "3324112008",
+    "district_id": "332411",
+    "name": "TAMANGEDE"
+  },
+  {
+    "id": "3324112009",
+    "district_id": "332411",
+    "name": "LUMANSARI"
+  },
+  {
+    "id": "3324112010",
+    "district_id": "332411",
+    "name": "JOHOREJO"
+  },
+  {
+    "id": "3324112011",
+    "district_id": "332411",
+    "name": "TLAHAB"
+  },
+  {
+    "id": "3324112012",
+    "district_id": "332411",
+    "name": "PUCANGREJO"
+  },
+  {
+    "id": "3324112013",
+    "district_id": "332411",
+    "name": "SOJOMERTO"
+  },
+  {
+    "id": "3324112014",
+    "district_id": "332411",
+    "name": "TRIHARJO"
+  },
+  {
+    "id": "3324112015",
+    "district_id": "332411",
+    "name": "CEPOKOMULYO"
+  },
+  {
+    "id": "3324112016",
+    "district_id": "332411",
+    "name": "GALIH"
+  }
+]

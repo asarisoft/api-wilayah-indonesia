@@ -1,1 +1,52 @@
-[{"id": "3302132001", "district_id": "330213", "name": "GERDUREN"}, {"id": "3302132002", "district_id": "330213", "name": "KARANGTALUN KIDUL"}, {"id": "3302132003", "district_id": "330213", "name": "KALIURIP"}, {"id": "3302132004", "district_id": "330213", "name": "KARANGTALUN LOR"}, {"id": "3302132005", "district_id": "330213", "name": "PURWOJATI"}, {"id": "3302132006", "district_id": "330213", "name": "KLAPASAWIT"}, {"id": "3302132007", "district_id": "330213", "name": "KARANGMANGU"}, {"id": "3302132008", "district_id": "330213", "name": "KALIPUTIH"}, {"id": "3302132009", "district_id": "330213", "name": "KALIWANGI"}, {"id": "3302132010", "district_id": "330213", "name": "KALITAPEN"}]
+[
+  {
+    "id": "3302132001",
+    "district_id": "330213",
+    "name": "GERDUREN"
+  },
+  {
+    "id": "3302132002",
+    "district_id": "330213",
+    "name": "KARANGTALUN KIDUL"
+  },
+  {
+    "id": "3302132003",
+    "district_id": "330213",
+    "name": "KALIURIP"
+  },
+  {
+    "id": "3302132004",
+    "district_id": "330213",
+    "name": "KARANGTALUN LOR"
+  },
+  {
+    "id": "3302132005",
+    "district_id": "330213",
+    "name": "PURWOJATI"
+  },
+  {
+    "id": "3302132006",
+    "district_id": "330213",
+    "name": "KLAPASAWIT"
+  },
+  {
+    "id": "3302132007",
+    "district_id": "330213",
+    "name": "KARANGMANGU"
+  },
+  {
+    "id": "3302132008",
+    "district_id": "330213",
+    "name": "KALIPUTIH"
+  },
+  {
+    "id": "3302132009",
+    "district_id": "330213",
+    "name": "KALIWANGI"
+  },
+  {
+    "id": "3302132010",
+    "district_id": "330213",
+    "name": "KALITAPEN"
+  }
+]

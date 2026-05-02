@@ -1,1 +1,72 @@
-[{"id": "7203081020", "district_id": "720308", "name": "GANTI"}, {"id": "7203081021", "district_id": "720308", "name": "KABONGA BESAR"}, {"id": "7203081022", "district_id": "720308", "name": "KABONGA KECIL"}, {"id": "7203081023", "district_id": "720308", "name": "GUNUNG BALE"}, {"id": "7203081024", "district_id": "720308", "name": "MALENI"}, {"id": "7203081025", "district_id": "720308", "name": "TANJUNG BATU"}, {"id": "7203081026", "district_id": "720308", "name": "BOYA"}, {"id": "7203081027", "district_id": "720308", "name": "LABUAN BAJO"}, {"id": "7203081028", "district_id": "720308", "name": "BONEOGE"}, {"id": "7203082012", "district_id": "720308", "name": "LOLI OGE"}, {"id": "7203082013", "district_id": "720308", "name": "LOLI TASIBURI"}, {"id": "7203082029", "district_id": "720308", "name": "LOLI PESUA"}, {"id": "7203082030", "district_id": "720308", "name": "LOLI DONDO"}, {"id": "7203082031", "district_id": "720308", "name": "LOLI SALURAN"}]
+[
+  {
+    "id": "7203081020",
+    "district_id": "720308",
+    "name": "GANTI"
+  },
+  {
+    "id": "7203081021",
+    "district_id": "720308",
+    "name": "KABONGA BESAR"
+  },
+  {
+    "id": "7203081022",
+    "district_id": "720308",
+    "name": "KABONGA KECIL"
+  },
+  {
+    "id": "7203081023",
+    "district_id": "720308",
+    "name": "GUNUNG BALE"
+  },
+  {
+    "id": "7203081024",
+    "district_id": "720308",
+    "name": "MALENI"
+  },
+  {
+    "id": "7203081025",
+    "district_id": "720308",
+    "name": "TANJUNG BATU"
+  },
+  {
+    "id": "7203081026",
+    "district_id": "720308",
+    "name": "BOYA"
+  },
+  {
+    "id": "7203081027",
+    "district_id": "720308",
+    "name": "LABUAN BAJO"
+  },
+  {
+    "id": "7203081028",
+    "district_id": "720308",
+    "name": "BONEOGE"
+  },
+  {
+    "id": "7203082012",
+    "district_id": "720308",
+    "name": "LOLI OGE"
+  },
+  {
+    "id": "7203082013",
+    "district_id": "720308",
+    "name": "LOLI TASIBURI"
+  },
+  {
+    "id": "7203082029",
+    "district_id": "720308",
+    "name": "LOLI PESUA"
+  },
+  {
+    "id": "7203082030",
+    "district_id": "720308",
+    "name": "LOLI DONDO"
+  },
+  {
+    "id": "7203082031",
+    "district_id": "720308",
+    "name": "LOLI SALURAN"
+  }
+]

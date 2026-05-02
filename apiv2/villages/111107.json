@@ -1,1 +1,202 @@
-[{"id": "1111072001", "district_id": "111107", "name": "KEUDE LAPANG"}, {"id": "1111072002", "district_id": "111107", "name": "LAPANG BARAT"}, {"id": "1111072003", "district_id": "111107", "name": "LINGKA KUTA"}, {"id": "1111072004", "district_id": "111107", "name": "LAPANG TIMU"}, {"id": "1111072005", "district_id": "111107", "name": "TEUPIN SIRON"}, {"id": "1111072006", "district_id": "111107", "name": "IE RHOP"}, {"id": "1111072007", "district_id": "111107", "name": "CEUBO"}, {"id": "1111072008", "district_id": "111107", "name": "PALOH ME"}, {"id": "1111072009", "district_id": "111107", "name": "LHOK MAMBANG"}, {"id": "1111072010", "district_id": "111107", "name": "SAMUTI KRUENG"}, {"id": "1111072011", "district_id": "111107", "name": "COT MANE"}, {"id": "1111072012", "district_id": "111107", "name": "SAMUTI MAKMUR"}, {"id": "1111072013", "district_id": "111107", "name": "SAMUTI RAYEUK"}, {"id": "1111072014", "district_id": "111107", "name": "COT PUUK"}, {"id": "1111072015", "district_id": "111107", "name": "SAMUTI AMAN"}, {"id": "1111072016", "district_id": "111107", "name": "ALUE MANGKI"}, {"id": "1111072017", "district_id": "111107", "name": "MON KEULAYU"}, {"id": "1111072018", "district_id": "111107", "name": "GEURUGOK"}, {"id": "1111072019", "district_id": "111107", "name": "BLANG KEUDE"}, {"id": "1111072020", "district_id": "111107", "name": "COT TUFAH"}, {"id": "1111072021", "district_id": "111107", "name": "COT TUNONG"}, {"id": "1111072022", "district_id": "111107", "name": "PAYA BARO"}, {"id": "1111072023", "district_id": "111107", "name": "PALOH KAYE KUNYET"}, {"id": "1111072024", "district_id": "111107", "name": "COT JABET"}, {"id": "1111072025", "district_id": "111107", "name": "COT TUBE"}, {"id": "1111072026", "district_id": "111107", "name": "PANTE SIKUMBONG"}, {"id": "1111072027", "district_id": "111107", "name": "BLANG GURON"}, {"id": "1111072028", "district_id": "111107", "name": "DAMA KAWAN"}, {"id": "1111072029", "district_id": "111107", "name": "PAYA SEUPAT"}, {"id": "1111072030", "district_id": "111107", "name": "COT RAMBAT"}, {"id": "1111072031", "district_id": "111107", "name": "PAYA KAREUNG"}, {"id": "1111072032", "district_id": "111107", "name": "MON JEURUJAK"}, {"id": "1111072033", "district_id": "111107", "name": "TANJONG RAYA"}, {"id": "1111072034", "district_id": "111107", "name": "TANJONG MESJID"}, {"id": "1111072035", "district_id": "111107", "name": "BLANG KUBU"}, {"id": "1111072036", "district_id": "111107", "name": "TANJONG BUNGONG"}, {"id": "1111072037", "district_id": "111107", "name": "PULO GISA"}, {"id": "1111072038", "district_id": "111107", "name": "UJONG BAYU"}, {"id": "1111072078", "district_id": "111107", "name": "MON JAMBE"}, {"id": "1111072079", "district_id": "111107", "name": "BLANG RHEUE"}]
+[
+  {
+    "id": "1111072001",
+    "district_id": "111107",
+    "name": "KEUDE LAPANG"
+  },
+  {
+    "id": "1111072002",
+    "district_id": "111107",
+    "name": "LAPANG BARAT"
+  },
+  {
+    "id": "1111072003",
+    "district_id": "111107",
+    "name": "LINGKA KUTA"
+  },
+  {
+    "id": "1111072004",
+    "district_id": "111107",
+    "name": "LAPANG TIMU"
+  },
+  {
+    "id": "1111072005",
+    "district_id": "111107",
+    "name": "TEUPIN SIRON"
+  },
+  {
+    "id": "1111072006",
+    "district_id": "111107",
+    "name": "IE RHOP"
+  },
+  {
+    "id": "1111072007",
+    "district_id": "111107",
+    "name": "CEUBO"
+  },
+  {
+    "id": "1111072008",
+    "district_id": "111107",
+    "name": "PALOH ME"
+  },
+  {
+    "id": "1111072009",
+    "district_id": "111107",
+    "name": "LHOK MAMBANG"
+  },
+  {
+    "id": "1111072010",
+    "district_id": "111107",
+    "name": "SAMUTI KRUENG"
+  },
+  {
+    "id": "1111072011",
+    "district_id": "111107",
+    "name": "COT MANE"
+  },
+  {
+    "id": "1111072012",
+    "district_id": "111107",
+    "name": "SAMUTI MAKMUR"
+  },
+  {
+    "id": "1111072013",
+    "district_id": "111107",
+    "name": "SAMUTI RAYEUK"
+  },
+  {
+    "id": "1111072014",
+    "district_id": "111107",
+    "name": "COT PUUK"
+  },
+  {
+    "id": "1111072015",
+    "district_id": "111107",
+    "name": "SAMUTI AMAN"
+  },
+  {
+    "id": "1111072016",
+    "district_id": "111107",
+    "name": "ALUE MANGKI"
+  },
+  {
+    "id": "1111072017",
+    "district_id": "111107",
+    "name": "MON KEULAYU"
+  },
+  {
+    "id": "1111072018",
+    "district_id": "111107",
+    "name": "GEURUGOK"
+  },
+  {
+    "id": "1111072019",
+    "district_id": "111107",
+    "name": "BLANG KEUDE"
+  },
+  {
+    "id": "1111072020",
+    "district_id": "111107",
+    "name": "COT TUFAH"
+  },
+  {
+    "id": "1111072021",
+    "district_id": "111107",
+    "name": "COT TUNONG"
+  },
+  {
+    "id": "1111072022",
+    "district_id": "111107",
+    "name": "PAYA BARO"
+  },
+  {
+    "id": "1111072023",
+    "district_id": "111107",
+    "name": "PALOH KAYE KUNYET"
+  },
+  {
+    "id": "1111072024",
+    "district_id": "111107",
+    "name": "COT JABET"
+  },
+  {
+    "id": "1111072025",
+    "district_id": "111107",
+    "name": "COT TUBE"
+  },
+  {
+    "id": "1111072026",
+    "district_id": "111107",
+    "name": "PANTE SIKUMBONG"
+  },
+  {
+    "id": "1111072027",
+    "district_id": "111107",
+    "name": "BLANG GURON"
+  },
+  {
+    "id": "1111072028",
+    "district_id": "111107",
+    "name": "DAMA KAWAN"
+  },
+  {
+    "id": "1111072029",
+    "district_id": "111107",
+    "name": "PAYA SEUPAT"
+  },
+  {
+    "id": "1111072030",
+    "district_id": "111107",
+    "name": "COT RAMBAT"
+  },
+  {
+    "id": "1111072031",
+    "district_id": "111107",
+    "name": "PAYA KAREUNG"
+  },
+  {
+    "id": "1111072032",
+    "district_id": "111107",
+    "name": "MON JEURUJAK"
+  },
+  {
+    "id": "1111072033",
+    "district_id": "111107",
+    "name": "TANJONG RAYA"
+  },
+  {
+    "id": "1111072034",
+    "district_id": "111107",
+    "name": "TANJONG MESJID"
+  },
+  {
+    "id": "1111072035",
+    "district_id": "111107",
+    "name": "BLANG KUBU"
+  },
+  {
+    "id": "1111072036",
+    "district_id": "111107",
+    "name": "TANJONG BUNGONG"
+  },
+  {
+    "id": "1111072037",
+    "district_id": "111107",
+    "name": "PULO GISA"
+  },
+  {
+    "id": "1111072038",
+    "district_id": "111107",
+    "name": "UJONG BAYU"
+  },
+  {
+    "id": "1111072078",
+    "district_id": "111107",
+    "name": "MON JAMBE"
+  },
+  {
+    "id": "1111072079",
+    "district_id": "111107",
+    "name": "BLANG RHEUE"
+  }
+]

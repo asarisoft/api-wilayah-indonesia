@@ -1,1 +1,87 @@
-[{"id": "130501", "regency_id": "1305", "name": "LUBUAK ALUANG"}, {"id": "130502", "regency_id": "1305", "name": "BATANG ANAI"}, {"id": "130503", "regency_id": "1305", "name": "NAN SABARIS"}, {"id": "130504", "regency_id": "1305", "name": "2 X 11 ANAM LINGKUANG"}, {"id": "130505", "regency_id": "1305", "name": "VII KOTO"}, {"id": "130506", "regency_id": "1305", "name": "V KOTO"}, {"id": "130507", "regency_id": "1305", "name": "SUNGAI GARINGGIANG"}, {"id": "130508", "regency_id": "1305", "name": "SUNGAI LIMAU"}, {"id": "130509", "regency_id": "1305", "name": "IV KOTO AUA MALINTANG"}, {"id": "130510", "regency_id": "1305", "name": "ULAKAN TAPAKIH"}, {"id": "130511", "regency_id": "1305", "name": "SINTUAK TOBOH GADANG"}, {"id": "130512", "regency_id": "1305", "name": "VII KOTO PADANG SAGO"}, {"id": "130513", "regency_id": "1305", "name": "BATANG GASAN"}, {"id": "130514", "regency_id": "1305", "name": "V KOTO TIMUR"}, {"id": "130515", "regency_id": "1305", "name": "2 X 11 KAYU TANAM"}, {"id": "130516", "regency_id": "1305", "name": "KOTO PATAMUAN"}, {"id": "130517", "regency_id": "1305", "name": "ANAM LINGKUANG"}]
+[
+  {
+    "id": "130501",
+    "regency_id": "1305",
+    "name": "LUBUAK ALUANG"
+  },
+  {
+    "id": "130502",
+    "regency_id": "1305",
+    "name": "BATANG ANAI"
+  },
+  {
+    "id": "130503",
+    "regency_id": "1305",
+    "name": "NAN SABARIS"
+  },
+  {
+    "id": "130504",
+    "regency_id": "1305",
+    "name": "2 X 11 ANAM LINGKUANG"
+  },
+  {
+    "id": "130505",
+    "regency_id": "1305",
+    "name": "VII KOTO"
+  },
+  {
+    "id": "130506",
+    "regency_id": "1305",
+    "name": "V KOTO"
+  },
+  {
+    "id": "130507",
+    "regency_id": "1305",
+    "name": "SUNGAI GARINGGIANG"
+  },
+  {
+    "id": "130508",
+    "regency_id": "1305",
+    "name": "SUNGAI LIMAU"
+  },
+  {
+    "id": "130509",
+    "regency_id": "1305",
+    "name": "IV KOTO AUA MALINTANG"
+  },
+  {
+    "id": "130510",
+    "regency_id": "1305",
+    "name": "ULAKAN TAPAKIH"
+  },
+  {
+    "id": "130511",
+    "regency_id": "1305",
+    "name": "SINTUAK TOBOH GADANG"
+  },
+  {
+    "id": "130512",
+    "regency_id": "1305",
+    "name": "VII KOTO PADANG SAGO"
+  },
+  {
+    "id": "130513",
+    "regency_id": "1305",
+    "name": "BATANG GASAN"
+  },
+  {
+    "id": "130514",
+    "regency_id": "1305",
+    "name": "V KOTO TIMUR"
+  },
+  {
+    "id": "130515",
+    "regency_id": "1305",
+    "name": "2 X 11 KAYU TANAM"
+  },
+  {
+    "id": "130516",
+    "regency_id": "1305",
+    "name": "KOTO PATAMUAN"
+  },
+  {
+    "id": "130517",
+    "regency_id": "1305",
+    "name": "ANAM LINGKUANG"
+  }
+]

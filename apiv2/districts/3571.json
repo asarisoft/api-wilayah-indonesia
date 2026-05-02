@@ -1,1 +1,17 @@
-[{"id": "357101", "regency_id": "3571", "name": "MOJOROTO"}, {"id": "357102", "regency_id": "3571", "name": "KOTA"}, {"id": "357103", "regency_id": "3571", "name": "PESANTREN"}]
+[
+  {
+    "id": "357101",
+    "regency_id": "3571",
+    "name": "MOJOROTO"
+  },
+  {
+    "id": "357102",
+    "regency_id": "3571",
+    "name": "KOTA"
+  },
+  {
+    "id": "357103",
+    "regency_id": "3571",
+    "name": "PESANTREN"
+  }
+]

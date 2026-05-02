@@ -1,1 +1,17 @@
-[{"id": "3172051001", "district_id": "317205", "name": "PADEMANGAN TIMUR"}, {"id": "3172051002", "district_id": "317205", "name": "PADEMANGAN BARAT"}, {"id": "3172051003", "district_id": "317205", "name": "ANCOL"}]
+[
+  {
+    "id": "3172051001",
+    "district_id": "317205",
+    "name": "PADEMANGAN TIMUR"
+  },
+  {
+    "id": "3172051002",
+    "district_id": "317205",
+    "name": "PADEMANGAN BARAT"
+  },
+  {
+    "id": "3172051003",
+    "district_id": "317205",
+    "name": "ANCOL"
+  }
+]

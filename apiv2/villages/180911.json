@@ -1,1 +1,57 @@
-[{"id": "1809112001", "district_id": "180911", "name": "BUNUT"}, {"id": "1809112002", "district_id": "180911", "name": "BUNUT SEBERANG"}, {"id": "1809112003", "district_id": "180911", "name": "WATES WAY RATAI"}, {"id": "1809112004", "district_id": "180911", "name": "CERINGIN ASRI"}, {"id": "1809112005", "district_id": "180911", "name": "SUMBER JAYA"}, {"id": "1809112006", "district_id": "180911", "name": "MULYO SARI"}, {"id": "1809112007", "district_id": "180911", "name": "PONCOREJO"}, {"id": "1809112008", "district_id": "180911", "name": "GUNUNG REJO"}, {"id": "1809112009", "district_id": "180911", "name": "PESAWARAN INDAH"}, {"id": "1809112010", "district_id": "180911", "name": "HARAPAN JAYA"}, {"id": "1809112011", "district_id": "180911", "name": "KALIREJO"}]
+[
+  {
+    "id": "1809112001",
+    "district_id": "180911",
+    "name": "BUNUT"
+  },
+  {
+    "id": "1809112002",
+    "district_id": "180911",
+    "name": "BUNUT SEBERANG"
+  },
+  {
+    "id": "1809112003",
+    "district_id": "180911",
+    "name": "WATES WAY RATAI"
+  },
+  {
+    "id": "1809112004",
+    "district_id": "180911",
+    "name": "CERINGIN ASRI"
+  },
+  {
+    "id": "1809112005",
+    "district_id": "180911",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1809112006",
+    "district_id": "180911",
+    "name": "MULYO SARI"
+  },
+  {
+    "id": "1809112007",
+    "district_id": "180911",
+    "name": "PONCOREJO"
+  },
+  {
+    "id": "1809112008",
+    "district_id": "180911",
+    "name": "GUNUNG REJO"
+  },
+  {
+    "id": "1809112009",
+    "district_id": "180911",
+    "name": "PESAWARAN INDAH"
+  },
+  {
+    "id": "1809112010",
+    "district_id": "180911",
+    "name": "HARAPAN JAYA"
+  },
+  {
+    "id": "1809112011",
+    "district_id": "180911",
+    "name": "KALIREJO"
+  }
+]

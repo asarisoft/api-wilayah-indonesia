@@ -1,1 +1,72 @@
-[{"id": "6301072001", "district_id": "630107", "name": "PANDAN SARI"}, {"id": "6301072002", "district_id": "630107", "name": "KINTAP"}, {"id": "6301072003", "district_id": "630107", "name": "KINTAPURA"}, {"id": "6301072004", "district_id": "630107", "name": "SUNGAI CUKA"}, {"id": "6301072005", "district_id": "630107", "name": "RIAM ADUNGAN"}, {"id": "6301072006", "district_id": "630107", "name": "MUARA KINTAP"}, {"id": "6301072007", "district_id": "630107", "name": "SALAMAN"}, {"id": "6301072008", "district_id": "630107", "name": "KINTAP KECIL"}, {"id": "6301072009", "district_id": "630107", "name": "PASIR PUTIH"}, {"id": "6301072010", "district_id": "630107", "name": "SUMBER JAYA"}, {"id": "6301072011", "district_id": "630107", "name": "BUKIT MULIA"}, {"id": "6301072012", "district_id": "630107", "name": "KEBUN RAYA"}, {"id": "6301072013", "district_id": "630107", "name": "MEKAR SARI"}, {"id": "6301072014", "district_id": "630107", "name": "SEBAMBAN BARU"}]
+[
+  {
+    "id": "6301072001",
+    "district_id": "630107",
+    "name": "PANDAN SARI"
+  },
+  {
+    "id": "6301072002",
+    "district_id": "630107",
+    "name": "KINTAP"
+  },
+  {
+    "id": "6301072003",
+    "district_id": "630107",
+    "name": "KINTAPURA"
+  },
+  {
+    "id": "6301072004",
+    "district_id": "630107",
+    "name": "SUNGAI CUKA"
+  },
+  {
+    "id": "6301072005",
+    "district_id": "630107",
+    "name": "RIAM ADUNGAN"
+  },
+  {
+    "id": "6301072006",
+    "district_id": "630107",
+    "name": "MUARA KINTAP"
+  },
+  {
+    "id": "6301072007",
+    "district_id": "630107",
+    "name": "SALAMAN"
+  },
+  {
+    "id": "6301072008",
+    "district_id": "630107",
+    "name": "KINTAP KECIL"
+  },
+  {
+    "id": "6301072009",
+    "district_id": "630107",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "6301072010",
+    "district_id": "630107",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "6301072011",
+    "district_id": "630107",
+    "name": "BUKIT MULIA"
+  },
+  {
+    "id": "6301072012",
+    "district_id": "630107",
+    "name": "KEBUN RAYA"
+  },
+  {
+    "id": "6301072013",
+    "district_id": "630107",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "6301072014",
+    "district_id": "630107",
+    "name": "SEBAMBAN BARU"
+  }
+]

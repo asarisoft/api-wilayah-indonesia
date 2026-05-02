@@ -1,1 +1,47 @@
-[{"id": "9601252001", "district_id": "960125", "name": "TARSA"}, {"id": "9601252002", "district_id": "960125", "name": "KLAMNE"}, {"id": "9601252003", "district_id": "960125", "name": "WISBIAK"}, {"id": "9601252004", "district_id": "960125", "name": "KLAFYO"}, {"id": "9601252005", "district_id": "960125", "name": "MLASIWOR"}, {"id": "9601252006", "district_id": "960125", "name": "KLAFELEM"}, {"id": "9601252007", "district_id": "960125", "name": "KLAFLUM"}, {"id": "9601252008", "district_id": "960125", "name": "KLARIN"}, {"id": "9601252009", "district_id": "960125", "name": "MLARON"}]
+[
+  {
+    "id": "9601252001",
+    "district_id": "960125",
+    "name": "TARSA"
+  },
+  {
+    "id": "9601252002",
+    "district_id": "960125",
+    "name": "KLAMNE"
+  },
+  {
+    "id": "9601252003",
+    "district_id": "960125",
+    "name": "WISBIAK"
+  },
+  {
+    "id": "9601252004",
+    "district_id": "960125",
+    "name": "KLAFYO"
+  },
+  {
+    "id": "9601252005",
+    "district_id": "960125",
+    "name": "MLASIWOR"
+  },
+  {
+    "id": "9601252006",
+    "district_id": "960125",
+    "name": "KLAFELEM"
+  },
+  {
+    "id": "9601252007",
+    "district_id": "960125",
+    "name": "KLAFLUM"
+  },
+  {
+    "id": "9601252008",
+    "district_id": "960125",
+    "name": "KLARIN"
+  },
+  {
+    "id": "9601252009",
+    "district_id": "960125",
+    "name": "MLARON"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "9304022001", "district_id": "930402", "name": "ATSJ"}, {"id": "9304022002", "district_id": "930402", "name": "SOGONI"}, {"id": "9304022003", "district_id": "930402", "name": "AMANAMKAI"}, {"id": "9304022004", "district_id": "930402", "name": "AMBISU"}, {"id": "9304022005", "district_id": "930402", "name": "BINE"}, {"id": "9304022006", "district_id": "930402", "name": "BIPIM"}, {"id": "9304022007", "district_id": "930402", "name": "YASIUW"}, {"id": "9304022008", "district_id": "930402", "name": "BAKASAI"}, {"id": "9304022009", "district_id": "930402", "name": "CEWEWYAMEW"}]
+[
+  {
+    "id": "9304022001",
+    "district_id": "930402",
+    "name": "ATSJ"
+  },
+  {
+    "id": "9304022002",
+    "district_id": "930402",
+    "name": "SOGONI"
+  },
+  {
+    "id": "9304022003",
+    "district_id": "930402",
+    "name": "AMANAMKAI"
+  },
+  {
+    "id": "9304022004",
+    "district_id": "930402",
+    "name": "AMBISU"
+  },
+  {
+    "id": "9304022005",
+    "district_id": "930402",
+    "name": "BINE"
+  },
+  {
+    "id": "9304022006",
+    "district_id": "930402",
+    "name": "BIPIM"
+  },
+  {
+    "id": "9304022007",
+    "district_id": "930402",
+    "name": "YASIUW"
+  },
+  {
+    "id": "9304022008",
+    "district_id": "930402",
+    "name": "BAKASAI"
+  },
+  {
+    "id": "9304022009",
+    "district_id": "930402",
+    "name": "CEWEWYAMEW"
+  }
+]

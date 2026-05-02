@@ -1,1 +1,77 @@
-[{"id": "3507172001", "district_id": "350717", "name": "TAJI"}, {"id": "3507172002", "district_id": "350717", "name": "NGADIREJO"}, {"id": "3507172003", "district_id": "350717", "name": "KENONGO"}, {"id": "3507172004", "district_id": "350717", "name": "SIDOREJO"}, {"id": "3507172005", "district_id": "350717", "name": "SUKOPURO"}, {"id": "3507172006", "district_id": "350717", "name": "PANDANSARI LOR"}, {"id": "3507172007", "district_id": "350717", "name": "SIDOMULYO"}, {"id": "3507172008", "district_id": "350717", "name": "GADINGKEMBAR"}, {"id": "3507172009", "district_id": "350717", "name": "ARGOSARI"}, {"id": "3507172010", "district_id": "350717", "name": "KEMANTREN"}, {"id": "3507172011", "district_id": "350717", "name": "SUKOLILO"}, {"id": "3507172012", "district_id": "350717", "name": "GUNUNGJATI"}, {"id": "3507172013", "district_id": "350717", "name": "JABUNG"}, {"id": "3507172014", "district_id": "350717", "name": "SLAMPAREJO"}, {"id": "3507172015", "district_id": "350717", "name": "KEMIRI"}]
+[
+  {
+    "id": "3507172001",
+    "district_id": "350717",
+    "name": "TAJI"
+  },
+  {
+    "id": "3507172002",
+    "district_id": "350717",
+    "name": "NGADIREJO"
+  },
+  {
+    "id": "3507172003",
+    "district_id": "350717",
+    "name": "KENONGO"
+  },
+  {
+    "id": "3507172004",
+    "district_id": "350717",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3507172005",
+    "district_id": "350717",
+    "name": "SUKOPURO"
+  },
+  {
+    "id": "3507172006",
+    "district_id": "350717",
+    "name": "PANDANSARI LOR"
+  },
+  {
+    "id": "3507172007",
+    "district_id": "350717",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3507172008",
+    "district_id": "350717",
+    "name": "GADINGKEMBAR"
+  },
+  {
+    "id": "3507172009",
+    "district_id": "350717",
+    "name": "ARGOSARI"
+  },
+  {
+    "id": "3507172010",
+    "district_id": "350717",
+    "name": "KEMANTREN"
+  },
+  {
+    "id": "3507172011",
+    "district_id": "350717",
+    "name": "SUKOLILO"
+  },
+  {
+    "id": "3507172012",
+    "district_id": "350717",
+    "name": "GUNUNGJATI"
+  },
+  {
+    "id": "3507172013",
+    "district_id": "350717",
+    "name": "JABUNG"
+  },
+  {
+    "id": "3507172014",
+    "district_id": "350717",
+    "name": "SLAMPAREJO"
+  },
+  {
+    "id": "3507172015",
+    "district_id": "350717",
+    "name": "KEMIRI"
+  }
+]

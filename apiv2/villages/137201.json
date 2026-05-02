@@ -1,1 +1,37 @@
-[{"id": "1372011001", "district_id": "137201", "name": "TANAH GARAM"}, {"id": "1372011002", "district_id": "137201", "name": "VI SUKU"}, {"id": "1372011003", "district_id": "137201", "name": "SINAPA PILIANG"}, {"id": "1372011004", "district_id": "137201", "name": "IX KORONG"}, {"id": "1372011005", "district_id": "137201", "name": "KAMPAI TABU KARAMBIA"}, {"id": "1372011006", "district_id": "137201", "name": "ARO IV KORONG"}, {"id": "1372011007", "district_id": "137201", "name": "SIMPANG RUMBIO"}]
+[
+  {
+    "id": "1372011001",
+    "district_id": "137201",
+    "name": "TANAH GARAM"
+  },
+  {
+    "id": "1372011002",
+    "district_id": "137201",
+    "name": "VI SUKU"
+  },
+  {
+    "id": "1372011003",
+    "district_id": "137201",
+    "name": "SINAPA PILIANG"
+  },
+  {
+    "id": "1372011004",
+    "district_id": "137201",
+    "name": "IX KORONG"
+  },
+  {
+    "id": "1372011005",
+    "district_id": "137201",
+    "name": "KAMPAI TABU KARAMBIA"
+  },
+  {
+    "id": "1372011006",
+    "district_id": "137201",
+    "name": "ARO IV KORONG"
+  },
+  {
+    "id": "1372011007",
+    "district_id": "137201",
+    "name": "SIMPANG RUMBIO"
+  }
+]

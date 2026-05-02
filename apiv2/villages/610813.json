@@ -1,1 +1,37 @@
-[{"id": "6108132001", "district_id": "610813", "name": "SOMPAK"}, {"id": "6108132002", "district_id": "610813", "name": "PAUH"}, {"id": "6108132003", "district_id": "610813", "name": "LINGKONONG"}, {"id": "6108132004", "district_id": "610813", "name": "GALAR"}, {"id": "6108132005", "district_id": "610813", "name": "AMAWAKNG"}, {"id": "6108132006", "district_id": "610813", "name": "TAPAKNG"}, {"id": "6108132007", "district_id": "610813", "name": "PAKUMBANG"}]
+[
+  {
+    "id": "6108132001",
+    "district_id": "610813",
+    "name": "SOMPAK"
+  },
+  {
+    "id": "6108132002",
+    "district_id": "610813",
+    "name": "PAUH"
+  },
+  {
+    "id": "6108132003",
+    "district_id": "610813",
+    "name": "LINGKONONG"
+  },
+  {
+    "id": "6108132004",
+    "district_id": "610813",
+    "name": "GALAR"
+  },
+  {
+    "id": "6108132005",
+    "district_id": "610813",
+    "name": "AMAWAKNG"
+  },
+  {
+    "id": "6108132006",
+    "district_id": "610813",
+    "name": "TAPAKNG"
+  },
+  {
+    "id": "6108132007",
+    "district_id": "610813",
+    "name": "PAKUMBANG"
+  }
+]

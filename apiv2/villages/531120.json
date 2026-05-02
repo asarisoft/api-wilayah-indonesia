@@ -1,1 +1,27 @@
-[{"id": "5311201001", "district_id": "531120", "name": "TEMU"}, {"id": "5311202002", "district_id": "531120", "name": "KUTA"}, {"id": "5311202003", "district_id": "531120", "name": "HAMBAPRAING"}, {"id": "5311202004", "district_id": "531120", "name": "MONDU"}, {"id": "5311202005", "district_id": "531120", "name": "NDAPAYAMI"}]
+[
+  {
+    "id": "5311201001",
+    "district_id": "531120",
+    "name": "TEMU"
+  },
+  {
+    "id": "5311202002",
+    "district_id": "531120",
+    "name": "KUTA"
+  },
+  {
+    "id": "5311202003",
+    "district_id": "531120",
+    "name": "HAMBAPRAING"
+  },
+  {
+    "id": "5311202004",
+    "district_id": "531120",
+    "name": "MONDU"
+  },
+  {
+    "id": "5311202005",
+    "district_id": "531120",
+    "name": "NDAPAYAMI"
+  }
+]

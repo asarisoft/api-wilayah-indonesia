@@ -1,1 +1,37 @@
-[{"id": "3278091001", "district_id": "327809", "name": "SUKAMULYA"}, {"id": "3278091002", "district_id": "327809", "name": "SUKARINDIK"}, {"id": "3278091003", "district_id": "327809", "name": "BUNGURSARI"}, {"id": "3278091004", "district_id": "327809", "name": "SUKAJAYA"}, {"id": "3278091005", "district_id": "327809", "name": "CIBUNIGEULIS"}, {"id": "3278091006", "district_id": "327809", "name": "BANTARSARI"}, {"id": "3278091007", "district_id": "327809", "name": "SUKALAKSANA"}]
+[
+  {
+    "id": "3278091001",
+    "district_id": "327809",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3278091002",
+    "district_id": "327809",
+    "name": "SUKARINDIK"
+  },
+  {
+    "id": "3278091003",
+    "district_id": "327809",
+    "name": "BUNGURSARI"
+  },
+  {
+    "id": "3278091004",
+    "district_id": "327809",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3278091005",
+    "district_id": "327809",
+    "name": "CIBUNIGEULIS"
+  },
+  {
+    "id": "3278091006",
+    "district_id": "327809",
+    "name": "BANTARSARI"
+  },
+  {
+    "id": "3278091007",
+    "district_id": "327809",
+    "name": "SUKALAKSANA"
+  }
+]

@@ -1,1 +1,217 @@
-[{"id": "1118062001", "district_id": "111806", "name": "CUT NYONG"}, {"id": "1118062002", "district_id": "111806", "name": "MEUNASAH GAMPONG"}, {"id": "1118062003", "district_id": "111806", "name": "BARO"}, {"id": "1118062004", "district_id": "111806", "name": "PULO RHENG"}, {"id": "1118062005", "district_id": "111806", "name": "DAYAH NYONG"}, {"id": "1118062006", "district_id": "111806", "name": "DABOIH"}, {"id": "1118062007", "district_id": "111806", "name": "BEURANDEH"}, {"id": "1118062008", "district_id": "111806", "name": "KAYE RAYA"}, {"id": "1118062009", "district_id": "111806", "name": "BLANG GLONG"}, {"id": "1118062010", "district_id": "111806", "name": "TUTONG"}, {"id": "1118062011", "district_id": "111806", "name": "SIREN"}, {"id": "1118062012", "district_id": "111806", "name": "KEUDE LUENG PUTU"}, {"id": "1118062013", "district_id": "111806", "name": "PEUB LUENG NIBONG"}, {"id": "1118062014", "district_id": "111806", "name": "BAROH MUSA"}, {"id": "1118062015", "district_id": "111806", "name": "TEUNGOH MUSA"}, {"id": "1118062016", "district_id": "111806", "name": "BALEE"}, {"id": "1118062017", "district_id": "111806", "name": "UDEUNG"}, {"id": "1118062018", "district_id": "111806", "name": "ARA"}, {"id": "1118062019", "district_id": "111806", "name": "BAROH LANCOK"}, {"id": "1118062020", "district_id": "111806", "name": "MANYANG"}, {"id": "1118062021", "district_id": "111806", "name": "MESJID"}, {"id": "1118062022", "district_id": "111806", "name": "PULO PUEB"}, {"id": "1118062023", "district_id": "111806", "name": "SAWANG"}, {"id": "1118062024", "district_id": "111806", "name": "TUALADA"}, {"id": "1118062025", "district_id": "111806", "name": "CUT LANGIEN"}, {"id": "1118062026", "district_id": "111806", "name": "SAGOE"}, {"id": "1118062027", "district_id": "111806", "name": "DAYAH LANGIEN"}, {"id": "1118062028", "district_id": "111806", "name": "BAROH COT"}, {"id": "1118062029", "district_id": "111806", "name": "MEUNASAH BLANG IBOIH"}, {"id": "1118062030", "district_id": "111806", "name": "BLANG SUKON"}, {"id": "1118062031", "district_id": "111806", "name": "KAYEE JATOE"}, {"id": "1118062032", "district_id": "111806", "name": "BLANG BARO"}, {"id": "1118062033", "district_id": "111806", "name": "LANCANG"}, {"id": "1118062034", "district_id": "111806", "name": "PARU KEUDE"}, {"id": "1118062035", "district_id": "111806", "name": "BLANG KRUENG"}, {"id": "1118062036", "district_id": "111806", "name": "JIJIEM"}, {"id": "1118062037", "district_id": "111806", "name": "SARAH PANYANG"}, {"id": "1118062038", "district_id": "111806", "name": "ABAH LUENG"}, {"id": "1118062039", "district_id": "111806", "name": "AKI NEUNGOH"}, {"id": "1118062040", "district_id": "111806", "name": "UJONG LEUBAT"}, {"id": "1118062041", "district_id": "111806", "name": "ALUE"}, {"id": "1118062042", "district_id": "111806", "name": "TANOH MIRAH"}, {"id": "1118062043", "district_id": "111806", "name": "PARU COT"}]
+[
+  {
+    "id": "1118062001",
+    "district_id": "111806",
+    "name": "CUT NYONG"
+  },
+  {
+    "id": "1118062002",
+    "district_id": "111806",
+    "name": "MEUNASAH GAMPONG"
+  },
+  {
+    "id": "1118062003",
+    "district_id": "111806",
+    "name": "BARO"
+  },
+  {
+    "id": "1118062004",
+    "district_id": "111806",
+    "name": "PULO RHENG"
+  },
+  {
+    "id": "1118062005",
+    "district_id": "111806",
+    "name": "DAYAH NYONG"
+  },
+  {
+    "id": "1118062006",
+    "district_id": "111806",
+    "name": "DABOIH"
+  },
+  {
+    "id": "1118062007",
+    "district_id": "111806",
+    "name": "BEURANDEH"
+  },
+  {
+    "id": "1118062008",
+    "district_id": "111806",
+    "name": "KAYE RAYA"
+  },
+  {
+    "id": "1118062009",
+    "district_id": "111806",
+    "name": "BLANG GLONG"
+  },
+  {
+    "id": "1118062010",
+    "district_id": "111806",
+    "name": "TUTONG"
+  },
+  {
+    "id": "1118062011",
+    "district_id": "111806",
+    "name": "SIREN"
+  },
+  {
+    "id": "1118062012",
+    "district_id": "111806",
+    "name": "KEUDE LUENG PUTU"
+  },
+  {
+    "id": "1118062013",
+    "district_id": "111806",
+    "name": "PEUB LUENG NIBONG"
+  },
+  {
+    "id": "1118062014",
+    "district_id": "111806",
+    "name": "BAROH MUSA"
+  },
+  {
+    "id": "1118062015",
+    "district_id": "111806",
+    "name": "TEUNGOH MUSA"
+  },
+  {
+    "id": "1118062016",
+    "district_id": "111806",
+    "name": "BALEE"
+  },
+  {
+    "id": "1118062017",
+    "district_id": "111806",
+    "name": "UDEUNG"
+  },
+  {
+    "id": "1118062018",
+    "district_id": "111806",
+    "name": "ARA"
+  },
+  {
+    "id": "1118062019",
+    "district_id": "111806",
+    "name": "BAROH LANCOK"
+  },
+  {
+    "id": "1118062020",
+    "district_id": "111806",
+    "name": "MANYANG"
+  },
+  {
+    "id": "1118062021",
+    "district_id": "111806",
+    "name": "MESJID"
+  },
+  {
+    "id": "1118062022",
+    "district_id": "111806",
+    "name": "PULO PUEB"
+  },
+  {
+    "id": "1118062023",
+    "district_id": "111806",
+    "name": "SAWANG"
+  },
+  {
+    "id": "1118062024",
+    "district_id": "111806",
+    "name": "TUALADA"
+  },
+  {
+    "id": "1118062025",
+    "district_id": "111806",
+    "name": "CUT LANGIEN"
+  },
+  {
+    "id": "1118062026",
+    "district_id": "111806",
+    "name": "SAGOE"
+  },
+  {
+    "id": "1118062027",
+    "district_id": "111806",
+    "name": "DAYAH LANGIEN"
+  },
+  {
+    "id": "1118062028",
+    "district_id": "111806",
+    "name": "BAROH COT"
+  },
+  {
+    "id": "1118062029",
+    "district_id": "111806",
+    "name": "MEUNASAH BLANG IBOIH"
+  },
+  {
+    "id": "1118062030",
+    "district_id": "111806",
+    "name": "BLANG SUKON"
+  },
+  {
+    "id": "1118062031",
+    "district_id": "111806",
+    "name": "KAYEE JATOE"
+  },
+  {
+    "id": "1118062032",
+    "district_id": "111806",
+    "name": "BLANG BARO"
+  },
+  {
+    "id": "1118062033",
+    "district_id": "111806",
+    "name": "LANCANG"
+  },
+  {
+    "id": "1118062034",
+    "district_id": "111806",
+    "name": "PARU KEUDE"
+  },
+  {
+    "id": "1118062035",
+    "district_id": "111806",
+    "name": "BLANG KRUENG"
+  },
+  {
+    "id": "1118062036",
+    "district_id": "111806",
+    "name": "JIJIEM"
+  },
+  {
+    "id": "1118062037",
+    "district_id": "111806",
+    "name": "SARAH PANYANG"
+  },
+  {
+    "id": "1118062038",
+    "district_id": "111806",
+    "name": "ABAH LUENG"
+  },
+  {
+    "id": "1118062039",
+    "district_id": "111806",
+    "name": "AKI NEUNGOH"
+  },
+  {
+    "id": "1118062040",
+    "district_id": "111806",
+    "name": "UJONG LEUBAT"
+  },
+  {
+    "id": "1118062041",
+    "district_id": "111806",
+    "name": "ALUE"
+  },
+  {
+    "id": "1118062042",
+    "district_id": "111806",
+    "name": "TANOH MIRAH"
+  },
+  {
+    "id": "1118062043",
+    "district_id": "111806",
+    "name": "PARU COT"
+  }
+]

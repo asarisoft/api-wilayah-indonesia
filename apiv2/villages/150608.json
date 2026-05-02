@@ -1,1 +1,52 @@
-[{"id": "1506081001", "district_id": "150608", "name": "LUBUK KAMBING"}, {"id": "1506082002", "district_id": "150608", "name": "PULAU PAUH"}, {"id": "1506082003", "district_id": "150608", "name": "RANTAU BENAR"}, {"id": "1506082004", "district_id": "150608", "name": "LAMPISI"}, {"id": "1506082005", "district_id": "150608", "name": "CINTA DAMAI"}, {"id": "1506082006", "district_id": "150608", "name": "SUNGAI ROTAN"}, {"id": "1506082007", "district_id": "150608", "name": "MUARA DANAU"}, {"id": "1506082008", "district_id": "150608", "name": "TANAH TUMBUH"}, {"id": "1506082009", "district_id": "150608", "name": "SUNGAI PAUR"}, {"id": "1506082010", "district_id": "150608", "name": "BUKIT BAKAR"}]
+[
+  {
+    "id": "1506081001",
+    "district_id": "150608",
+    "name": "LUBUK KAMBING"
+  },
+  {
+    "id": "1506082002",
+    "district_id": "150608",
+    "name": "PULAU PAUH"
+  },
+  {
+    "id": "1506082003",
+    "district_id": "150608",
+    "name": "RANTAU BENAR"
+  },
+  {
+    "id": "1506082004",
+    "district_id": "150608",
+    "name": "LAMPISI"
+  },
+  {
+    "id": "1506082005",
+    "district_id": "150608",
+    "name": "CINTA DAMAI"
+  },
+  {
+    "id": "1506082006",
+    "district_id": "150608",
+    "name": "SUNGAI ROTAN"
+  },
+  {
+    "id": "1506082007",
+    "district_id": "150608",
+    "name": "MUARA DANAU"
+  },
+  {
+    "id": "1506082008",
+    "district_id": "150608",
+    "name": "TANAH TUMBUH"
+  },
+  {
+    "id": "1506082009",
+    "district_id": "150608",
+    "name": "SUNGAI PAUR"
+  },
+  {
+    "id": "1506082010",
+    "district_id": "150608",
+    "name": "BUKIT BAKAR"
+  }
+]

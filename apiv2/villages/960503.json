@@ -1,1 +1,47 @@
-[{"id": "9605032001", "district_id": "960503", "name": "AISA"}, {"id": "9605032002", "district_id": "960503", "name": "AIKRER"}, {"id": "9605032003", "district_id": "960503", "name": "AITREM"}, {"id": "9605032004", "district_id": "960503", "name": "SAWIN"}, {"id": "9605032005", "district_id": "960503", "name": "SAHBUKU"}, {"id": "9605032006", "district_id": "960503", "name": "SASIOR FRABUKU"}, {"id": "9605032007", "district_id": "960503", "name": "WAKOM"}, {"id": "9605032008", "district_id": "960503", "name": "SANEM"}, {"id": "9605032009", "district_id": "960503", "name": "BUOH SA"}]
+[
+  {
+    "id": "9605032001",
+    "district_id": "960503",
+    "name": "AISA"
+  },
+  {
+    "id": "9605032002",
+    "district_id": "960503",
+    "name": "AIKRER"
+  },
+  {
+    "id": "9605032003",
+    "district_id": "960503",
+    "name": "AITREM"
+  },
+  {
+    "id": "9605032004",
+    "district_id": "960503",
+    "name": "SAWIN"
+  },
+  {
+    "id": "9605032005",
+    "district_id": "960503",
+    "name": "SAHBUKU"
+  },
+  {
+    "id": "9605032006",
+    "district_id": "960503",
+    "name": "SASIOR FRABUKU"
+  },
+  {
+    "id": "9605032007",
+    "district_id": "960503",
+    "name": "WAKOM"
+  },
+  {
+    "id": "9605032008",
+    "district_id": "960503",
+    "name": "SANEM"
+  },
+  {
+    "id": "9605032009",
+    "district_id": "960503",
+    "name": "BUOH SA"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "1803222001", "district_id": "180322", "name": "AJI KAGUNGAN"}, {"id": "1803222002", "district_id": "180322", "name": "TALANG JEMBATAN"}, {"id": "1803222003", "district_id": "180322", "name": "SABUK EMPAT"}, {"id": "1803222004", "district_id": "180322", "name": "BERINGIN"}, {"id": "1803222005", "district_id": "180322", "name": "SABUK INDAH"}, {"id": "1803222006", "district_id": "180322", "name": "BINDU"}, {"id": "1803222007", "district_id": "180322", "name": "WAY PERANCANG"}]
+[
+  {
+    "id": "1803222001",
+    "district_id": "180322",
+    "name": "AJI KAGUNGAN"
+  },
+  {
+    "id": "1803222002",
+    "district_id": "180322",
+    "name": "TALANG JEMBATAN"
+  },
+  {
+    "id": "1803222003",
+    "district_id": "180322",
+    "name": "SABUK EMPAT"
+  },
+  {
+    "id": "1803222004",
+    "district_id": "180322",
+    "name": "BERINGIN"
+  },
+  {
+    "id": "1803222005",
+    "district_id": "180322",
+    "name": "SABUK INDAH"
+  },
+  {
+    "id": "1803222006",
+    "district_id": "180322",
+    "name": "BINDU"
+  },
+  {
+    "id": "1803222007",
+    "district_id": "180322",
+    "name": "WAY PERANCANG"
+  }
+]

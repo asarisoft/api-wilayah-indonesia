@@ -1,1 +1,57 @@
-[{"id": "3511111004", "district_id": "351111", "name": "NANGKAAN"}, {"id": "3511111005", "district_id": "351111", "name": "TAMANSARI"}, {"id": "3511111006", "district_id": "351111", "name": "KADEMANGAN"}, {"id": "3511111007", "district_id": "351111", "name": "DABASAH"}, {"id": "3511111008", "district_id": "351111", "name": "BADEAN"}, {"id": "3511111009", "district_id": "351111", "name": "KOTAKULON"}, {"id": "3511111010", "district_id": "351111", "name": "BLINDUNGAN"}, {"id": "3511112001", "district_id": "351111", "name": "PANCORAN"}, {"id": "3511112002", "district_id": "351111", "name": "SUKOWIRYO"}, {"id": "3511112003", "district_id": "351111", "name": "KEMBANG"}, {"id": "3511112011", "district_id": "351111", "name": "PEJATEN"}]
+[
+  {
+    "id": "3511111004",
+    "district_id": "351111",
+    "name": "NANGKAAN"
+  },
+  {
+    "id": "3511111005",
+    "district_id": "351111",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3511111006",
+    "district_id": "351111",
+    "name": "KADEMANGAN"
+  },
+  {
+    "id": "3511111007",
+    "district_id": "351111",
+    "name": "DABASAH"
+  },
+  {
+    "id": "3511111008",
+    "district_id": "351111",
+    "name": "BADEAN"
+  },
+  {
+    "id": "3511111009",
+    "district_id": "351111",
+    "name": "KOTAKULON"
+  },
+  {
+    "id": "3511111010",
+    "district_id": "351111",
+    "name": "BLINDUNGAN"
+  },
+  {
+    "id": "3511112001",
+    "district_id": "351111",
+    "name": "PANCORAN"
+  },
+  {
+    "id": "3511112002",
+    "district_id": "351111",
+    "name": "SUKOWIRYO"
+  },
+  {
+    "id": "3511112003",
+    "district_id": "351111",
+    "name": "KEMBANG"
+  },
+  {
+    "id": "3511112011",
+    "district_id": "351111",
+    "name": "PEJATEN"
+  }
+]

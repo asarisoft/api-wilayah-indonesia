@@ -1,1 +1,197 @@
-[{"id": "6105032001", "district_id": "610503", "name": "NANGA SEPAUK"}, {"id": "6105032002", "district_id": "610503", "name": "TANJUNG RIA"}, {"id": "6105032003", "district_id": "610503", "name": "SEKUBANG"}, {"id": "6105032004", "district_id": "610503", "name": "KENYAUK"}, {"id": "6105032005", "district_id": "610503", "name": "LENGKENAT"}, {"id": "6105032006", "district_id": "610503", "name": "MANIS RAYA"}, {"id": "6105032007", "district_id": "610503", "name": "TEMIANG KAPUAS"}, {"id": "6105032008", "district_id": "610503", "name": "ENSABANG"}, {"id": "6105032009", "district_id": "610503", "name": "MAIT HILIR"}, {"id": "6105032010", "district_id": "610503", "name": "SEKUJAM TIMBAI"}, {"id": "6105032011", "district_id": "610503", "name": "SEMUNTAI"}, {"id": "6105032012", "district_id": "610503", "name": "SIRANG SETAMBANG"}, {"id": "6105032013", "district_id": "610503", "name": "NANGA LIBAU"}, {"id": "6105032014", "district_id": "610503", "name": "BERNAYAU"}, {"id": "6105032015", "district_id": "610503", "name": "SINAR PEKAYAU"}, {"id": "6105032016", "district_id": "610503", "name": "NANGA PARI"}, {"id": "6105032017", "district_id": "610503", "name": "BULUH KUNING"}, {"id": "6105032018", "district_id": "610503", "name": "TEMAWANG MUNTAI"}, {"id": "6105032019", "district_id": "610503", "name": "TAWANG SARI"}, {"id": "6105032020", "district_id": "610503", "name": "GERNIS JAYA"}, {"id": "6105032021", "district_id": "610503", "name": "PAOH BENUA"}, {"id": "6105032022", "district_id": "610503", "name": "BEDAYAN"}, {"id": "6105032023", "district_id": "610503", "name": "TANJUNG HULU"}, {"id": "6105032024", "district_id": "610503", "name": "SUNGAI RAYA"}, {"id": "6105032025", "district_id": "610503", "name": "LANDAU PANJANG"}, {"id": "6105032026", "district_id": "610503", "name": "BANGUN"}, {"id": "6105032027", "district_id": "610503", "name": "SUKAU BERSATU"}, {"id": "6105032028", "district_id": "610503", "name": "KEMANTAN"}, {"id": "6105032029", "district_id": "610503", "name": "PENINSUNG"}, {"id": "6105032030", "district_id": "610503", "name": "SEPULUT"}, {"id": "6105032031", "district_id": "610503", "name": "TEMAWANG BULAI"}, {"id": "6105032032", "district_id": "610503", "name": "SUNGAI SEGAK"}, {"id": "6105032033", "district_id": "610503", "name": "TANJUNG BALAI"}, {"id": "6105032034", "district_id": "610503", "name": "SINAR HARAPAN"}, {"id": "6105032035", "district_id": "610503", "name": "RIAM KEMPADIK"}, {"id": "6105032036", "district_id": "610503", "name": "NANGA LAYUNG"}, {"id": "6105032037", "district_id": "610503", "name": "LIMAU BAKTI"}, {"id": "6105032038", "district_id": "610503", "name": "TANJUNG MAWANG"}, {"id": "6105032040", "district_id": "610503", "name": "SUNGAI JAUNG"}]
+[
+  {
+    "id": "6105032001",
+    "district_id": "610503",
+    "name": "NANGA SEPAUK"
+  },
+  {
+    "id": "6105032002",
+    "district_id": "610503",
+    "name": "TANJUNG RIA"
+  },
+  {
+    "id": "6105032003",
+    "district_id": "610503",
+    "name": "SEKUBANG"
+  },
+  {
+    "id": "6105032004",
+    "district_id": "610503",
+    "name": "KENYAUK"
+  },
+  {
+    "id": "6105032005",
+    "district_id": "610503",
+    "name": "LENGKENAT"
+  },
+  {
+    "id": "6105032006",
+    "district_id": "610503",
+    "name": "MANIS RAYA"
+  },
+  {
+    "id": "6105032007",
+    "district_id": "610503",
+    "name": "TEMIANG KAPUAS"
+  },
+  {
+    "id": "6105032008",
+    "district_id": "610503",
+    "name": "ENSABANG"
+  },
+  {
+    "id": "6105032009",
+    "district_id": "610503",
+    "name": "MAIT HILIR"
+  },
+  {
+    "id": "6105032010",
+    "district_id": "610503",
+    "name": "SEKUJAM TIMBAI"
+  },
+  {
+    "id": "6105032011",
+    "district_id": "610503",
+    "name": "SEMUNTAI"
+  },
+  {
+    "id": "6105032012",
+    "district_id": "610503",
+    "name": "SIRANG SETAMBANG"
+  },
+  {
+    "id": "6105032013",
+    "district_id": "610503",
+    "name": "NANGA LIBAU"
+  },
+  {
+    "id": "6105032014",
+    "district_id": "610503",
+    "name": "BERNAYAU"
+  },
+  {
+    "id": "6105032015",
+    "district_id": "610503",
+    "name": "SINAR PEKAYAU"
+  },
+  {
+    "id": "6105032016",
+    "district_id": "610503",
+    "name": "NANGA PARI"
+  },
+  {
+    "id": "6105032017",
+    "district_id": "610503",
+    "name": "BULUH KUNING"
+  },
+  {
+    "id": "6105032018",
+    "district_id": "610503",
+    "name": "TEMAWANG MUNTAI"
+  },
+  {
+    "id": "6105032019",
+    "district_id": "610503",
+    "name": "TAWANG SARI"
+  },
+  {
+    "id": "6105032020",
+    "district_id": "610503",
+    "name": "GERNIS JAYA"
+  },
+  {
+    "id": "6105032021",
+    "district_id": "610503",
+    "name": "PAOH BENUA"
+  },
+  {
+    "id": "6105032022",
+    "district_id": "610503",
+    "name": "BEDAYAN"
+  },
+  {
+    "id": "6105032023",
+    "district_id": "610503",
+    "name": "TANJUNG HULU"
+  },
+  {
+    "id": "6105032024",
+    "district_id": "610503",
+    "name": "SUNGAI RAYA"
+  },
+  {
+    "id": "6105032025",
+    "district_id": "610503",
+    "name": "LANDAU PANJANG"
+  },
+  {
+    "id": "6105032026",
+    "district_id": "610503",
+    "name": "BANGUN"
+  },
+  {
+    "id": "6105032027",
+    "district_id": "610503",
+    "name": "SUKAU BERSATU"
+  },
+  {
+    "id": "6105032028",
+    "district_id": "610503",
+    "name": "KEMANTAN"
+  },
+  {
+    "id": "6105032029",
+    "district_id": "610503",
+    "name": "PENINSUNG"
+  },
+  {
+    "id": "6105032030",
+    "district_id": "610503",
+    "name": "SEPULUT"
+  },
+  {
+    "id": "6105032031",
+    "district_id": "610503",
+    "name": "TEMAWANG BULAI"
+  },
+  {
+    "id": "6105032032",
+    "district_id": "610503",
+    "name": "SUNGAI SEGAK"
+  },
+  {
+    "id": "6105032033",
+    "district_id": "610503",
+    "name": "TANJUNG BALAI"
+  },
+  {
+    "id": "6105032034",
+    "district_id": "610503",
+    "name": "SINAR HARAPAN"
+  },
+  {
+    "id": "6105032035",
+    "district_id": "610503",
+    "name": "RIAM KEMPADIK"
+  },
+  {
+    "id": "6105032036",
+    "district_id": "610503",
+    "name": "NANGA LAYUNG"
+  },
+  {
+    "id": "6105032037",
+    "district_id": "610503",
+    "name": "LIMAU BAKTI"
+  },
+  {
+    "id": "6105032038",
+    "district_id": "610503",
+    "name": "TANJUNG MAWANG"
+  },
+  {
+    "id": "6105032040",
+    "district_id": "610503",
+    "name": "SUNGAI JAUNG"
+  }
+]

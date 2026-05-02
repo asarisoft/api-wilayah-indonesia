@@ -1,1 +1,57 @@
-[{"id": "6109052001", "district_id": "610905", "name": "SUNGAI AYAK SATU"}, {"id": "6109052002", "district_id": "610905", "name": "SUNGAI AYAK DUA"}, {"id": "6109052003", "district_id": "610905", "name": "ENTABUK"}, {"id": "6109052004", "district_id": "610905", "name": "TAPANG PULAU"}, {"id": "6109052005", "district_id": "610905", "name": "KUMPANG BIS"}, {"id": "6109052006", "district_id": "610905", "name": "MENAWAI TEKAM"}, {"id": "6109052007", "district_id": "610905", "name": "SEMADU"}, {"id": "6109052008", "district_id": "610905", "name": "MERBANG"}, {"id": "6109052009", "district_id": "610905", "name": "EMPAJAK"}, {"id": "6109052010", "district_id": "610905", "name": "SEPANTAK"}, {"id": "6109052011", "district_id": "610905", "name": "MELANJAN RAYA"}]
+[
+  {
+    "id": "6109052001",
+    "district_id": "610905",
+    "name": "SUNGAI AYAK SATU"
+  },
+  {
+    "id": "6109052002",
+    "district_id": "610905",
+    "name": "SUNGAI AYAK DUA"
+  },
+  {
+    "id": "6109052003",
+    "district_id": "610905",
+    "name": "ENTABUK"
+  },
+  {
+    "id": "6109052004",
+    "district_id": "610905",
+    "name": "TAPANG PULAU"
+  },
+  {
+    "id": "6109052005",
+    "district_id": "610905",
+    "name": "KUMPANG BIS"
+  },
+  {
+    "id": "6109052006",
+    "district_id": "610905",
+    "name": "MENAWAI TEKAM"
+  },
+  {
+    "id": "6109052007",
+    "district_id": "610905",
+    "name": "SEMADU"
+  },
+  {
+    "id": "6109052008",
+    "district_id": "610905",
+    "name": "MERBANG"
+  },
+  {
+    "id": "6109052009",
+    "district_id": "610905",
+    "name": "EMPAJAK"
+  },
+  {
+    "id": "6109052010",
+    "district_id": "610905",
+    "name": "SEPANTAK"
+  },
+  {
+    "id": "6109052011",
+    "district_id": "610905",
+    "name": "MELANJAN RAYA"
+  }
+]

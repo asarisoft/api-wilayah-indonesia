@@ -1,1 +1,52 @@
-[{"id": "7322122001", "district_id": "732212", "name": "BUNGAPATI"}, {"id": "7322122002", "district_id": "732212", "name": "BUNGADIDI"}, {"id": "7322122003", "district_id": "732212", "name": "POREANG"}, {"id": "7322122004", "district_id": "732212", "name": "SUMBERDADI"}, {"id": "7322122005", "district_id": "732212", "name": "PATILA"}, {"id": "7322122006", "district_id": "732212", "name": "SIDOBINANGUN"}, {"id": "7322122007", "district_id": "732212", "name": "RAMPOANG"}, {"id": "7322122008", "district_id": "732212", "name": "KARONDANG"}, {"id": "7322122009", "district_id": "732212", "name": "MUNTE"}, {"id": "7322122010", "district_id": "732212", "name": "SIDOMAKMUR"}]
+[
+  {
+    "id": "7322122001",
+    "district_id": "732212",
+    "name": "BUNGAPATI"
+  },
+  {
+    "id": "7322122002",
+    "district_id": "732212",
+    "name": "BUNGADIDI"
+  },
+  {
+    "id": "7322122003",
+    "district_id": "732212",
+    "name": "POREANG"
+  },
+  {
+    "id": "7322122004",
+    "district_id": "732212",
+    "name": "SUMBERDADI"
+  },
+  {
+    "id": "7322122005",
+    "district_id": "732212",
+    "name": "PATILA"
+  },
+  {
+    "id": "7322122006",
+    "district_id": "732212",
+    "name": "SIDOBINANGUN"
+  },
+  {
+    "id": "7322122007",
+    "district_id": "732212",
+    "name": "RAMPOANG"
+  },
+  {
+    "id": "7322122008",
+    "district_id": "732212",
+    "name": "KARONDANG"
+  },
+  {
+    "id": "7322122009",
+    "district_id": "732212",
+    "name": "MUNTE"
+  },
+  {
+    "id": "7322122010",
+    "district_id": "732212",
+    "name": "SIDOMAKMUR"
+  }
+]

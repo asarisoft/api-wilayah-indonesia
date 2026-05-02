@@ -1,1 +1,77 @@
-[{"id": "7404231005", "district_id": "740423", "name": "KAMARU"}, {"id": "7404232001", "district_id": "740423", "name": "KAKENAUWE"}, {"id": "7404232002", "district_id": "740423", "name": "WAOLEONA"}, {"id": "7404232003", "district_id": "740423", "name": "LAWELE"}, {"id": "7404232004", "district_id": "740423", "name": "SUANDALA"}, {"id": "7404232006", "district_id": "740423", "name": "LASEMBANGI"}, {"id": "7404232007", "district_id": "740423", "name": "BONELALO"}, {"id": "7404232008", "district_id": "740423", "name": "WASUAMBA"}, {"id": "7404232009", "district_id": "740423", "name": "WAGARI"}, {"id": "7404232010", "district_id": "740423", "name": "SRIBATARA"}, {"id": "7404232011", "district_id": "740423", "name": "TOGOMANGURA"}, {"id": "7404232012", "district_id": "740423", "name": "WASAMBAA"}, {"id": "7404232013", "district_id": "740423", "name": "BENTENG"}, {"id": "7404232014", "district_id": "740423", "name": "TALAGA BARU"}, {"id": "7404232015", "district_id": "740423", "name": "NAMBO"}]
+[
+  {
+    "id": "7404231005",
+    "district_id": "740423",
+    "name": "KAMARU"
+  },
+  {
+    "id": "7404232001",
+    "district_id": "740423",
+    "name": "KAKENAUWE"
+  },
+  {
+    "id": "7404232002",
+    "district_id": "740423",
+    "name": "WAOLEONA"
+  },
+  {
+    "id": "7404232003",
+    "district_id": "740423",
+    "name": "LAWELE"
+  },
+  {
+    "id": "7404232004",
+    "district_id": "740423",
+    "name": "SUANDALA"
+  },
+  {
+    "id": "7404232006",
+    "district_id": "740423",
+    "name": "LASEMBANGI"
+  },
+  {
+    "id": "7404232007",
+    "district_id": "740423",
+    "name": "BONELALO"
+  },
+  {
+    "id": "7404232008",
+    "district_id": "740423",
+    "name": "WASUAMBA"
+  },
+  {
+    "id": "7404232009",
+    "district_id": "740423",
+    "name": "WAGARI"
+  },
+  {
+    "id": "7404232010",
+    "district_id": "740423",
+    "name": "SRIBATARA"
+  },
+  {
+    "id": "7404232011",
+    "district_id": "740423",
+    "name": "TOGOMANGURA"
+  },
+  {
+    "id": "7404232012",
+    "district_id": "740423",
+    "name": "WASAMBAA"
+  },
+  {
+    "id": "7404232013",
+    "district_id": "740423",
+    "name": "BENTENG"
+  },
+  {
+    "id": "7404232014",
+    "district_id": "740423",
+    "name": "TALAGA BARU"
+  },
+  {
+    "id": "7404232015",
+    "district_id": "740423",
+    "name": "NAMBO"
+  }
+]

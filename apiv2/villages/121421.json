@@ -1,1 +1,57 @@
-[{"id": "1214212001", "district_id": "121421", "name": "HILINAMAZIHONO"}, {"id": "1214212002", "district_id": "121421", "name": "HILIMBOWO"}, {"id": "1214212003", "district_id": "121421", "name": "SIMANDRAOLO"}, {"id": "1214212004", "district_id": "121421", "name": "BAWOSALO'O BAWOLUO"}, {"id": "1214212005", "district_id": "121421", "name": "HILIMBUASI"}, {"id": "1214212006", "district_id": "121421", "name": "SIMANDRAOLO O'O'U"}, {"id": "1214212007", "district_id": "121421", "name": "LOLOMAYA"}, {"id": "1214212008", "district_id": "121421", "name": "SUKA MAJU"}, {"id": "1214212009", "district_id": "121421", "name": "HILIORUDUA"}, {"id": "1214212010", "district_id": "121421", "name": "HILINAMAZIHONO MOALE"}, {"id": "1214212011", "district_id": "121421", "name": "BALOHILI O'O'U"}]
+[
+  {
+    "id": "1214212001",
+    "district_id": "121421",
+    "name": "HILINAMAZIHONO"
+  },
+  {
+    "id": "1214212002",
+    "district_id": "121421",
+    "name": "HILIMBOWO"
+  },
+  {
+    "id": "1214212003",
+    "district_id": "121421",
+    "name": "SIMANDRAOLO"
+  },
+  {
+    "id": "1214212004",
+    "district_id": "121421",
+    "name": "BAWOSALO'O BAWOLUO"
+  },
+  {
+    "id": "1214212005",
+    "district_id": "121421",
+    "name": "HILIMBUASI"
+  },
+  {
+    "id": "1214212006",
+    "district_id": "121421",
+    "name": "SIMANDRAOLO O'O'U"
+  },
+  {
+    "id": "1214212007",
+    "district_id": "121421",
+    "name": "LOLOMAYA"
+  },
+  {
+    "id": "1214212008",
+    "district_id": "121421",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1214212009",
+    "district_id": "121421",
+    "name": "HILIORUDUA"
+  },
+  {
+    "id": "1214212010",
+    "district_id": "121421",
+    "name": "HILINAMAZIHONO MOALE"
+  },
+  {
+    "id": "1214212011",
+    "district_id": "121421",
+    "name": "BALOHILI O'O'U"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "3517152001", "district_id": "351715", "name": "KLITIH"}, {"id": "3517152002", "district_id": "351715", "name": "PLABUHAN"}, {"id": "3517152003", "district_id": "351715", "name": "KAMPUNGBARU"}, {"id": "3517152004", "district_id": "351715", "name": "GEBANGBUNDER"}, {"id": "3517152005", "district_id": "351715", "name": "JATIMLEREK"}, {"id": "3517152006", "district_id": "351715", "name": "KARANGMOJO"}, {"id": "3517152007", "district_id": "351715", "name": "PLANDAAN"}, {"id": "3517152008", "district_id": "351715", "name": "BANGSRI"}, {"id": "3517152009", "district_id": "351715", "name": "PURISEMANDING"}, {"id": "3517152010", "district_id": "351715", "name": "TONDOWULAN"}, {"id": "3517152011", "district_id": "351715", "name": "DARUREJO"}, {"id": "3517152012", "district_id": "351715", "name": "SUMBERJO"}, {"id": "3517152013", "district_id": "351715", "name": "JIPORAPAH"}]
+[
+  {
+    "id": "3517152001",
+    "district_id": "351715",
+    "name": "KLITIH"
+  },
+  {
+    "id": "3517152002",
+    "district_id": "351715",
+    "name": "PLABUHAN"
+  },
+  {
+    "id": "3517152003",
+    "district_id": "351715",
+    "name": "KAMPUNGBARU"
+  },
+  {
+    "id": "3517152004",
+    "district_id": "351715",
+    "name": "GEBANGBUNDER"
+  },
+  {
+    "id": "3517152005",
+    "district_id": "351715",
+    "name": "JATIMLEREK"
+  },
+  {
+    "id": "3517152006",
+    "district_id": "351715",
+    "name": "KARANGMOJO"
+  },
+  {
+    "id": "3517152007",
+    "district_id": "351715",
+    "name": "PLANDAAN"
+  },
+  {
+    "id": "3517152008",
+    "district_id": "351715",
+    "name": "BANGSRI"
+  },
+  {
+    "id": "3517152009",
+    "district_id": "351715",
+    "name": "PURISEMANDING"
+  },
+  {
+    "id": "3517152010",
+    "district_id": "351715",
+    "name": "TONDOWULAN"
+  },
+  {
+    "id": "3517152011",
+    "district_id": "351715",
+    "name": "DARUREJO"
+  },
+  {
+    "id": "3517152012",
+    "district_id": "351715",
+    "name": "SUMBERJO"
+  },
+  {
+    "id": "3517152013",
+    "district_id": "351715",
+    "name": "JIPORAPAH"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "8272072001", "district_id": "827207", "name": "MAIDI"}, {"id": "8272072002", "district_id": "827207", "name": "LIFOFA"}, {"id": "8272072003", "district_id": "827207", "name": "HAGER"}, {"id": "8272072004", "district_id": "827207", "name": "WAMA"}, {"id": "8272072005", "district_id": "827207", "name": "SELAMALOFO"}, {"id": "8272072006", "district_id": "827207", "name": "TAGALAYA"}, {"id": "8272072007", "district_id": "827207", "name": "NUKU"}]
+[
+  {
+    "id": "8272072001",
+    "district_id": "827207",
+    "name": "MAIDI"
+  },
+  {
+    "id": "8272072002",
+    "district_id": "827207",
+    "name": "LIFOFA"
+  },
+  {
+    "id": "8272072003",
+    "district_id": "827207",
+    "name": "HAGER"
+  },
+  {
+    "id": "8272072004",
+    "district_id": "827207",
+    "name": "WAMA"
+  },
+  {
+    "id": "8272072005",
+    "district_id": "827207",
+    "name": "SELAMALOFO"
+  },
+  {
+    "id": "8272072006",
+    "district_id": "827207",
+    "name": "TAGALAYA"
+  },
+  {
+    "id": "8272072007",
+    "district_id": "827207",
+    "name": "NUKU"
+  }
+]

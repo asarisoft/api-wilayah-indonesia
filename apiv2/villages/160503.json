@@ -1,1 +1,107 @@
-[{"id": "1605031013", "district_id": "160503", "name": "MUARA KELINGI"}, {"id": "1605032001", "district_id": "160503", "name": "BINJAI"}, {"id": "1605032002", "district_id": "160503", "name": "PULAU PANGGUNG"}, {"id": "1605032003", "district_id": "160503", "name": "TANJUNG LAMA"}, {"id": "1605032012", "district_id": "160503", "name": "MANDI AUR"}, {"id": "1605032014", "district_id": "160503", "name": "LUBUK TUA"}, {"id": "1605032015", "district_id": "160503", "name": "MAMBANG"}, {"id": "1605032016", "district_id": "160503", "name": "BINGIN JANGGUT"}, {"id": "1605032017", "district_id": "160503", "name": "TUGU SEMPURNA"}, {"id": "1605032019", "district_id": "160503", "name": "MARGA SAKTI"}, {"id": "1605032021", "district_id": "160503", "name": "KARYA SAKTI"}, {"id": "1605032022", "district_id": "160503", "name": "PETRANS JAYA"}, {"id": "1605032023", "district_id": "160503", "name": "KARYA MUKTI"}, {"id": "1605032024", "district_id": "160503", "name": "BELITI JAYA"}, {"id": "1605032026", "district_id": "160503", "name": "KARYA TELADAN"}, {"id": "1605032027", "district_id": "160503", "name": "TEMUAN SARI"}, {"id": "1605032028", "district_id": "160503", "name": "TEMUAN JAYA"}, {"id": "1605032029", "district_id": "160503", "name": "MEKAR SARI"}, {"id": "1605032030", "district_id": "160503", "name": "MANGAN JAYA"}, {"id": "1605032031", "district_id": "160503", "name": "LUBUK MUDA"}, {"id": "1605032032", "district_id": "160503", "name": "SUKAMENANG"}]
+[
+  {
+    "id": "1605031013",
+    "district_id": "160503",
+    "name": "MUARA KELINGI"
+  },
+  {
+    "id": "1605032001",
+    "district_id": "160503",
+    "name": "BINJAI"
+  },
+  {
+    "id": "1605032002",
+    "district_id": "160503",
+    "name": "PULAU PANGGUNG"
+  },
+  {
+    "id": "1605032003",
+    "district_id": "160503",
+    "name": "TANJUNG LAMA"
+  },
+  {
+    "id": "1605032012",
+    "district_id": "160503",
+    "name": "MANDI AUR"
+  },
+  {
+    "id": "1605032014",
+    "district_id": "160503",
+    "name": "LUBUK TUA"
+  },
+  {
+    "id": "1605032015",
+    "district_id": "160503",
+    "name": "MAMBANG"
+  },
+  {
+    "id": "1605032016",
+    "district_id": "160503",
+    "name": "BINGIN JANGGUT"
+  },
+  {
+    "id": "1605032017",
+    "district_id": "160503",
+    "name": "TUGU SEMPURNA"
+  },
+  {
+    "id": "1605032019",
+    "district_id": "160503",
+    "name": "MARGA SAKTI"
+  },
+  {
+    "id": "1605032021",
+    "district_id": "160503",
+    "name": "KARYA SAKTI"
+  },
+  {
+    "id": "1605032022",
+    "district_id": "160503",
+    "name": "PETRANS JAYA"
+  },
+  {
+    "id": "1605032023",
+    "district_id": "160503",
+    "name": "KARYA MUKTI"
+  },
+  {
+    "id": "1605032024",
+    "district_id": "160503",
+    "name": "BELITI JAYA"
+  },
+  {
+    "id": "1605032026",
+    "district_id": "160503",
+    "name": "KARYA TELADAN"
+  },
+  {
+    "id": "1605032027",
+    "district_id": "160503",
+    "name": "TEMUAN SARI"
+  },
+  {
+    "id": "1605032028",
+    "district_id": "160503",
+    "name": "TEMUAN JAYA"
+  },
+  {
+    "id": "1605032029",
+    "district_id": "160503",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "1605032030",
+    "district_id": "160503",
+    "name": "MANGAN JAYA"
+  },
+  {
+    "id": "1605032031",
+    "district_id": "160503",
+    "name": "LUBUK MUDA"
+  },
+  {
+    "id": "1605032032",
+    "district_id": "160503",
+    "name": "SUKAMENANG"
+  }
+]

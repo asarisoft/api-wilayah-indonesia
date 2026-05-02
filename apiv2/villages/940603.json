@@ -1,1 +1,42 @@
-[{"id": "9406032001", "district_id": "940603", "name": "APOGOMAKIDA"}, {"id": "9406032002", "district_id": "940603", "name": "DENEIODE"}, {"id": "9406032003", "district_id": "940603", "name": "YEGIYEPA"}, {"id": "9406032004", "district_id": "940603", "name": "IDEDUWA"}, {"id": "9406032005", "district_id": "940603", "name": "KEGATA"}, {"id": "9406032006", "district_id": "940603", "name": "EGIPA"}, {"id": "9406032007", "district_id": "940603", "name": "UKAGU"}, {"id": "9406032008", "district_id": "940603", "name": "TIBAUGI"}]
+[
+  {
+    "id": "9406032001",
+    "district_id": "940603",
+    "name": "APOGOMAKIDA"
+  },
+  {
+    "id": "9406032002",
+    "district_id": "940603",
+    "name": "DENEIODE"
+  },
+  {
+    "id": "9406032003",
+    "district_id": "940603",
+    "name": "YEGIYEPA"
+  },
+  {
+    "id": "9406032004",
+    "district_id": "940603",
+    "name": "IDEDUWA"
+  },
+  {
+    "id": "9406032005",
+    "district_id": "940603",
+    "name": "KEGATA"
+  },
+  {
+    "id": "9406032006",
+    "district_id": "940603",
+    "name": "EGIPA"
+  },
+  {
+    "id": "9406032007",
+    "district_id": "940603",
+    "name": "UKAGU"
+  },
+  {
+    "id": "9406032008",
+    "district_id": "940603",
+    "name": "TIBAUGI"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "5201092001", "district_id": "520109", "name": "GUNUNGSARI"}, {"id": "5201092002", "district_id": "520109", "name": "MIDANG"}, {"id": "5201092003", "district_id": "520109", "name": "SESELA"}, {"id": "5201092004", "district_id": "520109", "name": "KEKAIT"}, {"id": "5201092005", "district_id": "520109", "name": "KEKERI"}, {"id": "5201092006", "district_id": "520109", "name": "MAMBALAN"}, {"id": "5201092007", "district_id": "520109", "name": "DOPANG"}, {"id": "5201092008", "district_id": "520109", "name": "PENIMBUNG"}, {"id": "5201092009", "district_id": "520109", "name": "TAMAN SARI"}, {"id": "5201092010", "district_id": "520109", "name": "JATISELA"}, {"id": "5201092011", "district_id": "520109", "name": "GUNTUR MACAN"}, {"id": "5201092012", "district_id": "520109", "name": "MEKAR SARI"}, {"id": "5201092013", "district_id": "520109", "name": "RANJOK"}, {"id": "5201092014", "district_id": "520109", "name": "GELANGSAR"}, {"id": "5201092015", "district_id": "520109", "name": "JERINGO"}, {"id": "5201092016", "district_id": "520109", "name": "BUKITTINGGI"}]
+[
+  {
+    "id": "5201092001",
+    "district_id": "520109",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "5201092002",
+    "district_id": "520109",
+    "name": "MIDANG"
+  },
+  {
+    "id": "5201092003",
+    "district_id": "520109",
+    "name": "SESELA"
+  },
+  {
+    "id": "5201092004",
+    "district_id": "520109",
+    "name": "KEKAIT"
+  },
+  {
+    "id": "5201092005",
+    "district_id": "520109",
+    "name": "KEKERI"
+  },
+  {
+    "id": "5201092006",
+    "district_id": "520109",
+    "name": "MAMBALAN"
+  },
+  {
+    "id": "5201092007",
+    "district_id": "520109",
+    "name": "DOPANG"
+  },
+  {
+    "id": "5201092008",
+    "district_id": "520109",
+    "name": "PENIMBUNG"
+  },
+  {
+    "id": "5201092009",
+    "district_id": "520109",
+    "name": "TAMAN SARI"
+  },
+  {
+    "id": "5201092010",
+    "district_id": "520109",
+    "name": "JATISELA"
+  },
+  {
+    "id": "5201092011",
+    "district_id": "520109",
+    "name": "GUNTUR MACAN"
+  },
+  {
+    "id": "5201092012",
+    "district_id": "520109",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "5201092013",
+    "district_id": "520109",
+    "name": "RANJOK"
+  },
+  {
+    "id": "5201092014",
+    "district_id": "520109",
+    "name": "GELANGSAR"
+  },
+  {
+    "id": "5201092015",
+    "district_id": "520109",
+    "name": "JERINGO"
+  },
+  {
+    "id": "5201092016",
+    "district_id": "520109",
+    "name": "BUKITTINGGI"
+  }
+]

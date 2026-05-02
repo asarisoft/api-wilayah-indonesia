@@ -1,1 +1,42 @@
-[{"id": "3213152001", "district_id": "321315", "name": "JATIMULYA"}, {"id": "3213152002", "district_id": "321315", "name": "SUKATANI"}, {"id": "3213152003", "district_id": "321315", "name": "JATIREJA"}, {"id": "3213152004", "district_id": "321315", "name": "COMPRENG"}, {"id": "3213152005", "district_id": "321315", "name": "KALENSARI"}, {"id": "3213152006", "district_id": "321315", "name": "MEKARJAYA"}, {"id": "3213152007", "district_id": "321315", "name": "KIARASARI"}, {"id": "3213152008", "district_id": "321315", "name": "SUKADANA"}]
+[
+  {
+    "id": "3213152001",
+    "district_id": "321315",
+    "name": "JATIMULYA"
+  },
+  {
+    "id": "3213152002",
+    "district_id": "321315",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "3213152003",
+    "district_id": "321315",
+    "name": "JATIREJA"
+  },
+  {
+    "id": "3213152004",
+    "district_id": "321315",
+    "name": "COMPRENG"
+  },
+  {
+    "id": "3213152005",
+    "district_id": "321315",
+    "name": "KALENSARI"
+  },
+  {
+    "id": "3213152006",
+    "district_id": "321315",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3213152007",
+    "district_id": "321315",
+    "name": "KIARASARI"
+  },
+  {
+    "id": "3213152008",
+    "district_id": "321315",
+    "name": "SUKADANA"
+  }
+]

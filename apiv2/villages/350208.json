@@ -1,1 +1,77 @@
-[{"id": "3502082001", "district_id": "350208", "name": "TUGU"}, {"id": "3502082002", "district_id": "350208", "name": "CANDI"}, {"id": "3502082003", "district_id": "350208", "name": "TOTOKAN"}, {"id": "3502082004", "district_id": "350208", "name": "NGRUKEM"}, {"id": "3502082005", "district_id": "350208", "name": "SIWALAN"}, {"id": "3502082006", "district_id": "350208", "name": "JORESAN"}, {"id": "3502082007", "district_id": "350208", "name": "NGLUMPANG"}, {"id": "3502082008", "district_id": "350208", "name": "GONTOR"}, {"id": "3502082009", "district_id": "350208", "name": "GANDU"}, {"id": "3502082010", "district_id": "350208", "name": "JABUNG"}, {"id": "3502082011", "district_id": "350208", "name": "BAJANG"}, {"id": "3502082012", "district_id": "350208", "name": "MLARAK"}, {"id": "3502082013", "district_id": "350208", "name": "SERANGAN"}, {"id": "3502082014", "district_id": "350208", "name": "SUREN"}, {"id": "3502082015", "district_id": "350208", "name": "KAPONAN"}]
+[
+  {
+    "id": "3502082001",
+    "district_id": "350208",
+    "name": "TUGU"
+  },
+  {
+    "id": "3502082002",
+    "district_id": "350208",
+    "name": "CANDI"
+  },
+  {
+    "id": "3502082003",
+    "district_id": "350208",
+    "name": "TOTOKAN"
+  },
+  {
+    "id": "3502082004",
+    "district_id": "350208",
+    "name": "NGRUKEM"
+  },
+  {
+    "id": "3502082005",
+    "district_id": "350208",
+    "name": "SIWALAN"
+  },
+  {
+    "id": "3502082006",
+    "district_id": "350208",
+    "name": "JORESAN"
+  },
+  {
+    "id": "3502082007",
+    "district_id": "350208",
+    "name": "NGLUMPANG"
+  },
+  {
+    "id": "3502082008",
+    "district_id": "350208",
+    "name": "GONTOR"
+  },
+  {
+    "id": "3502082009",
+    "district_id": "350208",
+    "name": "GANDU"
+  },
+  {
+    "id": "3502082010",
+    "district_id": "350208",
+    "name": "JABUNG"
+  },
+  {
+    "id": "3502082011",
+    "district_id": "350208",
+    "name": "BAJANG"
+  },
+  {
+    "id": "3502082012",
+    "district_id": "350208",
+    "name": "MLARAK"
+  },
+  {
+    "id": "3502082013",
+    "district_id": "350208",
+    "name": "SERANGAN"
+  },
+  {
+    "id": "3502082014",
+    "district_id": "350208",
+    "name": "SUREN"
+  },
+  {
+    "id": "3502082015",
+    "district_id": "350208",
+    "name": "KAPONAN"
+  }
+]

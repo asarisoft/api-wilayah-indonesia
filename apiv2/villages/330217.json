@@ -1,1 +1,102 @@
-[{"id": "3302172001", "district_id": "330217", "name": "PANUSUPAN"}, {"id": "3302172002", "district_id": "330217", "name": "JATISABA"}, {"id": "3302172003", "district_id": "330217", "name": "KASEGERAN"}, {"id": "3302172004", "district_id": "330217", "name": "PEJOGOL"}, {"id": "3302172005", "district_id": "330217", "name": "LANGGONGSARI"}, {"id": "3302172006", "district_id": "330217", "name": "PAGERAJI"}, {"id": "3302172007", "district_id": "330217", "name": "SUDIMARA"}, {"id": "3302172008", "district_id": "330217", "name": "BATUANTEN"}, {"id": "3302172009", "district_id": "330217", "name": "CIPETE"}, {"id": "3302172010", "district_id": "330217", "name": "CILONGOK"}, {"id": "3302172011", "district_id": "330217", "name": "PERNASIDI"}, {"id": "3302172012", "district_id": "330217", "name": "CIKIDANG"}, {"id": "3302172013", "district_id": "330217", "name": "KARANGLO"}, {"id": "3302172014", "district_id": "330217", "name": "KALISARI"}, {"id": "3302172015", "district_id": "330217", "name": "KARANGTENGAH"}, {"id": "3302172016", "district_id": "330217", "name": "PANEMBANGAN"}, {"id": "3302172017", "district_id": "330217", "name": "RANCAMAYA"}, {"id": "3302172018", "district_id": "330217", "name": "SAMBIRATA"}, {"id": "3302172019", "district_id": "330217", "name": "GUNUNGLURAH"}, {"id": "3302172020", "district_id": "330217", "name": "SOKAWERA"}]
+[
+  {
+    "id": "3302172001",
+    "district_id": "330217",
+    "name": "PANUSUPAN"
+  },
+  {
+    "id": "3302172002",
+    "district_id": "330217",
+    "name": "JATISABA"
+  },
+  {
+    "id": "3302172003",
+    "district_id": "330217",
+    "name": "KASEGERAN"
+  },
+  {
+    "id": "3302172004",
+    "district_id": "330217",
+    "name": "PEJOGOL"
+  },
+  {
+    "id": "3302172005",
+    "district_id": "330217",
+    "name": "LANGGONGSARI"
+  },
+  {
+    "id": "3302172006",
+    "district_id": "330217",
+    "name": "PAGERAJI"
+  },
+  {
+    "id": "3302172007",
+    "district_id": "330217",
+    "name": "SUDIMARA"
+  },
+  {
+    "id": "3302172008",
+    "district_id": "330217",
+    "name": "BATUANTEN"
+  },
+  {
+    "id": "3302172009",
+    "district_id": "330217",
+    "name": "CIPETE"
+  },
+  {
+    "id": "3302172010",
+    "district_id": "330217",
+    "name": "CILONGOK"
+  },
+  {
+    "id": "3302172011",
+    "district_id": "330217",
+    "name": "PERNASIDI"
+  },
+  {
+    "id": "3302172012",
+    "district_id": "330217",
+    "name": "CIKIDANG"
+  },
+  {
+    "id": "3302172013",
+    "district_id": "330217",
+    "name": "KARANGLO"
+  },
+  {
+    "id": "3302172014",
+    "district_id": "330217",
+    "name": "KALISARI"
+  },
+  {
+    "id": "3302172015",
+    "district_id": "330217",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3302172016",
+    "district_id": "330217",
+    "name": "PANEMBANGAN"
+  },
+  {
+    "id": "3302172017",
+    "district_id": "330217",
+    "name": "RANCAMAYA"
+  },
+  {
+    "id": "3302172018",
+    "district_id": "330217",
+    "name": "SAMBIRATA"
+  },
+  {
+    "id": "3302172019",
+    "district_id": "330217",
+    "name": "GUNUNGLURAH"
+  },
+  {
+    "id": "3302172020",
+    "district_id": "330217",
+    "name": "SOKAWERA"
+  }
+]

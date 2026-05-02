@@ -1,1 +1,37 @@
-[{"id": "7171061001", "district_id": "717106", "name": "SARIO UTARA"}, {"id": "7171061002", "district_id": "717106", "name": "SARIO KOTABARU"}, {"id": "7171061003", "district_id": "717106", "name": "SARIO TUMPAAN"}, {"id": "7171061004", "district_id": "717106", "name": "SARIO"}, {"id": "7171061005", "district_id": "717106", "name": "TITIWUNGAN UTARA"}, {"id": "7171061006", "district_id": "717106", "name": "TITIWUNGAN SELATAN"}, {"id": "7171061007", "district_id": "717106", "name": "RANOTANA"}]
+[
+  {
+    "id": "7171061001",
+    "district_id": "717106",
+    "name": "SARIO UTARA"
+  },
+  {
+    "id": "7171061002",
+    "district_id": "717106",
+    "name": "SARIO KOTABARU"
+  },
+  {
+    "id": "7171061003",
+    "district_id": "717106",
+    "name": "SARIO TUMPAAN"
+  },
+  {
+    "id": "7171061004",
+    "district_id": "717106",
+    "name": "SARIO"
+  },
+  {
+    "id": "7171061005",
+    "district_id": "717106",
+    "name": "TITIWUNGAN UTARA"
+  },
+  {
+    "id": "7171061006",
+    "district_id": "717106",
+    "name": "TITIWUNGAN SELATAN"
+  },
+  {
+    "id": "7171061007",
+    "district_id": "717106",
+    "name": "RANOTANA"
+  }
+]

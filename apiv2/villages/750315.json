@@ -1,1 +1,52 @@
-[{"id": "7503152001", "district_id": "750315", "name": "AYULA SELATAN"}, {"id": "7503152002", "district_id": "750315", "name": "HUNTU UTARA"}, {"id": "7503152003", "district_id": "750315", "name": "AYULA UTARA"}, {"id": "7503152004", "district_id": "750315", "name": "HUNTU SELATAN"}, {"id": "7503152006", "district_id": "750315", "name": "AYULA TILANGO"}, {"id": "7503152007", "district_id": "750315", "name": "AYULA TIMUR"}, {"id": "7503152008", "district_id": "750315", "name": "LAMAHU"}, {"id": "7503152009", "district_id": "750315", "name": "TINELO AYULA"}, {"id": "7503152010", "district_id": "750315", "name": "SEJAHTERA"}, {"id": "7503152011", "district_id": "750315", "name": "HUNTU BARAT"}]
+[
+  {
+    "id": "7503152001",
+    "district_id": "750315",
+    "name": "AYULA SELATAN"
+  },
+  {
+    "id": "7503152002",
+    "district_id": "750315",
+    "name": "HUNTU UTARA"
+  },
+  {
+    "id": "7503152003",
+    "district_id": "750315",
+    "name": "AYULA UTARA"
+  },
+  {
+    "id": "7503152004",
+    "district_id": "750315",
+    "name": "HUNTU SELATAN"
+  },
+  {
+    "id": "7503152006",
+    "district_id": "750315",
+    "name": "AYULA TILANGO"
+  },
+  {
+    "id": "7503152007",
+    "district_id": "750315",
+    "name": "AYULA TIMUR"
+  },
+  {
+    "id": "7503152008",
+    "district_id": "750315",
+    "name": "LAMAHU"
+  },
+  {
+    "id": "7503152009",
+    "district_id": "750315",
+    "name": "TINELO AYULA"
+  },
+  {
+    "id": "7503152010",
+    "district_id": "750315",
+    "name": "SEJAHTERA"
+  },
+  {
+    "id": "7503152011",
+    "district_id": "750315",
+    "name": "HUNTU BARAT"
+  }
+]

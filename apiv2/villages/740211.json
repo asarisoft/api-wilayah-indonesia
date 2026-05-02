@@ -1,1 +1,77 @@
-[{"id": "7402111001", "district_id": "740211", "name": "TORONIPA"}, {"id": "7402112002", "district_id": "740211", "name": "ATOWATU"}, {"id": "7402112004", "district_id": "740211", "name": "WAWORAHA"}, {"id": "7402112006", "district_id": "740211", "name": "SORUE JAYA"}, {"id": "7402112010", "district_id": "740211", "name": "SOROPIA"}, {"id": "7402112011", "district_id": "740211", "name": "TAPULAGA"}, {"id": "7402112012", "district_id": "740211", "name": "SAWAPUDO"}, {"id": "7402112014", "district_id": "740211", "name": "BOKORI"}, {"id": "7402112015", "district_id": "740211", "name": "SAPONDA"}, {"id": "7402112016", "district_id": "740211", "name": "MEKAR"}, {"id": "7402112017", "district_id": "740211", "name": "BAJO INDAH"}, {"id": "7402112022", "district_id": "740211", "name": "TELAGA BIRU"}, {"id": "7402112023", "district_id": "740211", "name": "LEPPE"}, {"id": "7402112024", "district_id": "740211", "name": "BAJOE"}, {"id": "7402112025", "district_id": "740211", "name": "SAPONDA LAUT"}]
+[
+  {
+    "id": "7402111001",
+    "district_id": "740211",
+    "name": "TORONIPA"
+  },
+  {
+    "id": "7402112002",
+    "district_id": "740211",
+    "name": "ATOWATU"
+  },
+  {
+    "id": "7402112004",
+    "district_id": "740211",
+    "name": "WAWORAHA"
+  },
+  {
+    "id": "7402112006",
+    "district_id": "740211",
+    "name": "SORUE JAYA"
+  },
+  {
+    "id": "7402112010",
+    "district_id": "740211",
+    "name": "SOROPIA"
+  },
+  {
+    "id": "7402112011",
+    "district_id": "740211",
+    "name": "TAPULAGA"
+  },
+  {
+    "id": "7402112012",
+    "district_id": "740211",
+    "name": "SAWAPUDO"
+  },
+  {
+    "id": "7402112014",
+    "district_id": "740211",
+    "name": "BOKORI"
+  },
+  {
+    "id": "7402112015",
+    "district_id": "740211",
+    "name": "SAPONDA"
+  },
+  {
+    "id": "7402112016",
+    "district_id": "740211",
+    "name": "MEKAR"
+  },
+  {
+    "id": "7402112017",
+    "district_id": "740211",
+    "name": "BAJO INDAH"
+  },
+  {
+    "id": "7402112022",
+    "district_id": "740211",
+    "name": "TELAGA BIRU"
+  },
+  {
+    "id": "7402112023",
+    "district_id": "740211",
+    "name": "LEPPE"
+  },
+  {
+    "id": "7402112024",
+    "district_id": "740211",
+    "name": "BAJOE"
+  },
+  {
+    "id": "7402112025",
+    "district_id": "740211",
+    "name": "SAPONDA LAUT"
+  }
+]

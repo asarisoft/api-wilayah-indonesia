@@ -1,1 +1,22 @@
-[{"id": "3279031001", "district_id": "327903", "name": "PURWAHARJA"}, {"id": "3279031004", "district_id": "327903", "name": "KARANGPANIMBAL"}, {"id": "3279032002", "district_id": "327903", "name": "RAHARJA"}, {"id": "3279032003", "district_id": "327903", "name": "MEKARHARJA"}]
+[
+  {
+    "id": "3279031001",
+    "district_id": "327903",
+    "name": "PURWAHARJA"
+  },
+  {
+    "id": "3279031004",
+    "district_id": "327903",
+    "name": "KARANGPANIMBAL"
+  },
+  {
+    "id": "3279032002",
+    "district_id": "327903",
+    "name": "RAHARJA"
+  },
+  {
+    "id": "3279032003",
+    "district_id": "327903",
+    "name": "MEKARHARJA"
+  }
+]

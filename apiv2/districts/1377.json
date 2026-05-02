@@ -1,1 +1,22 @@
-[{"id": "137701", "regency_id": "1377", "name": "PARIAMAN TENGAH"}, {"id": "137702", "regency_id": "1377", "name": "PARIAMAN UTARA"}, {"id": "137703", "regency_id": "1377", "name": "PARIAMAN SELATAN"}, {"id": "137704", "regency_id": "1377", "name": "PARIAMAN TIMUR"}]
+[
+  {
+    "id": "137701",
+    "regency_id": "1377",
+    "name": "PARIAMAN TENGAH"
+  },
+  {
+    "id": "137702",
+    "regency_id": "1377",
+    "name": "PARIAMAN UTARA"
+  },
+  {
+    "id": "137703",
+    "regency_id": "1377",
+    "name": "PARIAMAN SELATAN"
+  },
+  {
+    "id": "137704",
+    "regency_id": "1377",
+    "name": "PARIAMAN TIMUR"
+  }
+]

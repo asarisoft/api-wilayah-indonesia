@@ -1,1 +1,47 @@
-[{"id": "3518012001", "district_id": "351801", "name": "BENDOLO"}, {"id": "3518012002", "district_id": "351801", "name": "SAWAHAN"}, {"id": "3518012003", "district_id": "351801", "name": "NGLIMAN"}, {"id": "3518012004", "district_id": "351801", "name": "BARENG"}, {"id": "3518012005", "district_id": "351801", "name": "SIDOREJO"}, {"id": "3518012006", "district_id": "351801", "name": "DUREN"}, {"id": "3518012007", "district_id": "351801", "name": "SIWALAN"}, {"id": "3518012008", "district_id": "351801", "name": "MARGOPATUT"}, {"id": "3518012009", "district_id": "351801", "name": "KEBONAGUNG"}]
+[
+  {
+    "id": "3518012001",
+    "district_id": "351801",
+    "name": "BENDOLO"
+  },
+  {
+    "id": "3518012002",
+    "district_id": "351801",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "3518012003",
+    "district_id": "351801",
+    "name": "NGLIMAN"
+  },
+  {
+    "id": "3518012004",
+    "district_id": "351801",
+    "name": "BARENG"
+  },
+  {
+    "id": "3518012005",
+    "district_id": "351801",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3518012006",
+    "district_id": "351801",
+    "name": "DUREN"
+  },
+  {
+    "id": "3518012007",
+    "district_id": "351801",
+    "name": "SIWALAN"
+  },
+  {
+    "id": "3518012008",
+    "district_id": "351801",
+    "name": "MARGOPATUT"
+  },
+  {
+    "id": "3518012009",
+    "district_id": "351801",
+    "name": "KEBONAGUNG"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "3514201005", "district_id": "351420", "name": "GRATITUNON"}, {"id": "3514202001", "district_id": "351420", "name": "KEBONREJO"}, {"id": "3514202002", "district_id": "351420", "name": "KARANGLO"}, {"id": "3514202003", "district_id": "351420", "name": "REBALAS"}, {"id": "3514202004", "district_id": "351420", "name": "PLOSOSARI"}, {"id": "3514202006", "district_id": "351420", "name": "KALIPANG"}, {"id": "3514202007", "district_id": "351420", "name": "TREWUNG"}, {"id": "3514202008", "district_id": "351420", "name": "KAMBINGANREJO"}, {"id": "3514202009", "district_id": "351420", "name": "KARANGKLIWON"}, {"id": "3514202010", "district_id": "351420", "name": "KEDAWUNGKULON"}, {"id": "3514202011", "district_id": "351420", "name": "KEDAWUNGWETAN"}, {"id": "3514202012", "district_id": "351420", "name": "SUMBERAGUNG"}, {"id": "3514202013", "district_id": "351420", "name": "RANUKLINDUNGAN"}, {"id": "3514202014", "district_id": "351420", "name": "SUMBERDAWESARI"}, {"id": "3514202015", "district_id": "351420", "name": "CUKURGONDANG"}]
+[
+  {
+    "id": "3514201005",
+    "district_id": "351420",
+    "name": "GRATITUNON"
+  },
+  {
+    "id": "3514202001",
+    "district_id": "351420",
+    "name": "KEBONREJO"
+  },
+  {
+    "id": "3514202002",
+    "district_id": "351420",
+    "name": "KARANGLO"
+  },
+  {
+    "id": "3514202003",
+    "district_id": "351420",
+    "name": "REBALAS"
+  },
+  {
+    "id": "3514202004",
+    "district_id": "351420",
+    "name": "PLOSOSARI"
+  },
+  {
+    "id": "3514202006",
+    "district_id": "351420",
+    "name": "KALIPANG"
+  },
+  {
+    "id": "3514202007",
+    "district_id": "351420",
+    "name": "TREWUNG"
+  },
+  {
+    "id": "3514202008",
+    "district_id": "351420",
+    "name": "KAMBINGANREJO"
+  },
+  {
+    "id": "3514202009",
+    "district_id": "351420",
+    "name": "KARANGKLIWON"
+  },
+  {
+    "id": "3514202010",
+    "district_id": "351420",
+    "name": "KEDAWUNGKULON"
+  },
+  {
+    "id": "3514202011",
+    "district_id": "351420",
+    "name": "KEDAWUNGWETAN"
+  },
+  {
+    "id": "3514202012",
+    "district_id": "351420",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3514202013",
+    "district_id": "351420",
+    "name": "RANUKLINDUNGAN"
+  },
+  {
+    "id": "3514202014",
+    "district_id": "351420",
+    "name": "SUMBERDAWESARI"
+  },
+  {
+    "id": "3514202015",
+    "district_id": "351420",
+    "name": "CUKURGONDANG"
+  }
+]

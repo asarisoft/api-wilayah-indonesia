@@ -1,1 +1,47 @@
-[{"id": "5206052001", "district_id": "520605", "name": "TARLAWI"}, {"id": "5206052005", "district_id": "520605", "name": "NTORI"}, {"id": "5206052006", "district_id": "520605", "name": "MARIA"}, {"id": "5206052007", "district_id": "520605", "name": "PESA"}, {"id": "5206052008", "district_id": "520605", "name": "RABA"}, {"id": "5206052011", "district_id": "520605", "name": "KAMBILO"}, {"id": "5206052012", "district_id": "520605", "name": "MARIA UTARA"}, {"id": "5206052013", "district_id": "520605", "name": "KOMBO"}, {"id": "5206052014", "district_id": "520605", "name": "RIAMAU"}]
+[
+  {
+    "id": "5206052001",
+    "district_id": "520605",
+    "name": "TARLAWI"
+  },
+  {
+    "id": "5206052005",
+    "district_id": "520605",
+    "name": "NTORI"
+  },
+  {
+    "id": "5206052006",
+    "district_id": "520605",
+    "name": "MARIA"
+  },
+  {
+    "id": "5206052007",
+    "district_id": "520605",
+    "name": "PESA"
+  },
+  {
+    "id": "5206052008",
+    "district_id": "520605",
+    "name": "RABA"
+  },
+  {
+    "id": "5206052011",
+    "district_id": "520605",
+    "name": "KAMBILO"
+  },
+  {
+    "id": "5206052012",
+    "district_id": "520605",
+    "name": "MARIA UTARA"
+  },
+  {
+    "id": "5206052013",
+    "district_id": "520605",
+    "name": "KOMBO"
+  },
+  {
+    "id": "5206052014",
+    "district_id": "520605",
+    "name": "RIAMAU"
+  }
+]

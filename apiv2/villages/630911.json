@@ -1,1 +1,47 @@
-[{"id": "6309112001", "district_id": "630911", "name": "TERATAU"}, {"id": "6309112002", "district_id": "630911", "name": "NAMUN"}, {"id": "6309112003", "district_id": "630911", "name": "JARO"}, {"id": "6309112004", "district_id": "630911", "name": "SOLAN"}, {"id": "6309112005", "district_id": "630911", "name": "MUANG"}, {"id": "6309112006", "district_id": "630911", "name": "LANO"}, {"id": "6309112007", "district_id": "630911", "name": "PURUI"}, {"id": "6309112008", "district_id": "630911", "name": "GARAGATA"}, {"id": "6309112009", "district_id": "630911", "name": "NALUI"}]
+[
+  {
+    "id": "6309112001",
+    "district_id": "630911",
+    "name": "TERATAU"
+  },
+  {
+    "id": "6309112002",
+    "district_id": "630911",
+    "name": "NAMUN"
+  },
+  {
+    "id": "6309112003",
+    "district_id": "630911",
+    "name": "JARO"
+  },
+  {
+    "id": "6309112004",
+    "district_id": "630911",
+    "name": "SOLAN"
+  },
+  {
+    "id": "6309112005",
+    "district_id": "630911",
+    "name": "MUANG"
+  },
+  {
+    "id": "6309112006",
+    "district_id": "630911",
+    "name": "LANO"
+  },
+  {
+    "id": "6309112007",
+    "district_id": "630911",
+    "name": "PURUI"
+  },
+  {
+    "id": "6309112008",
+    "district_id": "630911",
+    "name": "GARAGATA"
+  },
+  {
+    "id": "6309112009",
+    "district_id": "630911",
+    "name": "NALUI"
+  }
+]

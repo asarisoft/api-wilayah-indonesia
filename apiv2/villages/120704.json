@@ -1,1 +1,72 @@
-[{"id": "1207042001", "district_id": "120704", "name": "SUKA MAKMUR"}, {"id": "1207042002", "district_id": "120704", "name": "NAMO MIRIK"}, {"id": "1207042003", "district_id": "120704", "name": "SUKA DAME"}, {"id": "1207042004", "district_id": "120704", "name": "PASAR X"}, {"id": "1207042005", "district_id": "120704", "name": "PERPANDEN"}, {"id": "1207042006", "district_id": "120704", "name": "KUTALIMBARU"}, {"id": "1207042007", "district_id": "120704", "name": "SAMPE CITA"}, {"id": "1207042008", "district_id": "120704", "name": "SUKA RENDE"}, {"id": "1207042009", "district_id": "120704", "name": "KWALA LAU BICIK"}, {"id": "1207042010", "district_id": "120704", "name": "LAU BEKERI"}, {"id": "1207042011", "district_id": "120704", "name": "SILEBO-LEBO"}, {"id": "1207042012", "district_id": "120704", "name": "SAWIT REJO"}, {"id": "1207042013", "district_id": "120704", "name": "NAMO RUBE JULU"}, {"id": "1207042014", "district_id": "120704", "name": "SEI MENCIRIM"}]
+[
+  {
+    "id": "1207042001",
+    "district_id": "120704",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1207042002",
+    "district_id": "120704",
+    "name": "NAMO MIRIK"
+  },
+  {
+    "id": "1207042003",
+    "district_id": "120704",
+    "name": "SUKA DAME"
+  },
+  {
+    "id": "1207042004",
+    "district_id": "120704",
+    "name": "PASAR X"
+  },
+  {
+    "id": "1207042005",
+    "district_id": "120704",
+    "name": "PERPANDEN"
+  },
+  {
+    "id": "1207042006",
+    "district_id": "120704",
+    "name": "KUTALIMBARU"
+  },
+  {
+    "id": "1207042007",
+    "district_id": "120704",
+    "name": "SAMPE CITA"
+  },
+  {
+    "id": "1207042008",
+    "district_id": "120704",
+    "name": "SUKA RENDE"
+  },
+  {
+    "id": "1207042009",
+    "district_id": "120704",
+    "name": "KWALA LAU BICIK"
+  },
+  {
+    "id": "1207042010",
+    "district_id": "120704",
+    "name": "LAU BEKERI"
+  },
+  {
+    "id": "1207042011",
+    "district_id": "120704",
+    "name": "SILEBO-LEBO"
+  },
+  {
+    "id": "1207042012",
+    "district_id": "120704",
+    "name": "SAWIT REJO"
+  },
+  {
+    "id": "1207042013",
+    "district_id": "120704",
+    "name": "NAMO RUBE JULU"
+  },
+  {
+    "id": "1207042014",
+    "district_id": "120704",
+    "name": "SEI MENCIRIM"
+  }
+]

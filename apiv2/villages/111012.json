@@ -1,1 +1,57 @@
-[{"id": "1110122001", "district_id": "111012", "name": "SURO MAKMUR"}, {"id": "1110122002", "district_id": "111012", "name": "PANGKALAN SULAMPI"}, {"id": "1110122003", "district_id": "111012", "name": "BULU SEMA"}, {"id": "1110122004", "district_id": "111012", "name": "LAE BANGUN"}, {"id": "1110122005", "district_id": "111012", "name": "ALUR LINCI"}, {"id": "1110122006", "district_id": "111012", "name": "SIOMPIN"}, {"id": "1110122007", "district_id": "111012", "name": "KETANGKUHAN"}, {"id": "1110122008", "district_id": "111012", "name": "KERAS"}, {"id": "1110122009", "district_id": "111012", "name": "MANDUMPANG"}, {"id": "1110122010", "district_id": "111012", "name": "SIRIMO MUNGKUR"}, {"id": "1110122011", "district_id": "111012", "name": "BULU ARA"}]
+[
+  {
+    "id": "1110122001",
+    "district_id": "111012",
+    "name": "SURO MAKMUR"
+  },
+  {
+    "id": "1110122002",
+    "district_id": "111012",
+    "name": "PANGKALAN SULAMPI"
+  },
+  {
+    "id": "1110122003",
+    "district_id": "111012",
+    "name": "BULU SEMA"
+  },
+  {
+    "id": "1110122004",
+    "district_id": "111012",
+    "name": "LAE BANGUN"
+  },
+  {
+    "id": "1110122005",
+    "district_id": "111012",
+    "name": "ALUR LINCI"
+  },
+  {
+    "id": "1110122006",
+    "district_id": "111012",
+    "name": "SIOMPIN"
+  },
+  {
+    "id": "1110122007",
+    "district_id": "111012",
+    "name": "KETANGKUHAN"
+  },
+  {
+    "id": "1110122008",
+    "district_id": "111012",
+    "name": "KERAS"
+  },
+  {
+    "id": "1110122009",
+    "district_id": "111012",
+    "name": "MANDUMPANG"
+  },
+  {
+    "id": "1110122010",
+    "district_id": "111012",
+    "name": "SIRIMO MUNGKUR"
+  },
+  {
+    "id": "1110122011",
+    "district_id": "111012",
+    "name": "BULU ARA"
+  }
+]

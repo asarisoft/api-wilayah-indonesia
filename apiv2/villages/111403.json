@@ -1,1 +1,67 @@
-[{"id": "1114032001", "district_id": "111403", "name": "SAWANG"}, {"id": "1114032002", "district_id": "111403", "name": "LHOK GEULUMPANG"}, {"id": "1114032003", "district_id": "111403", "name": "PADANG"}, {"id": "1114032004", "district_id": "111403", "name": "GUNONG MEUNASAH"}, {"id": "1114032005", "district_id": "111403", "name": "SAPEK"}, {"id": "1114032006", "district_id": "111403", "name": "PANTE KUYUN"}, {"id": "1114032007", "district_id": "111403", "name": "GLEE SEUBAK"}, {"id": "1114032008", "district_id": "111403", "name": "GAMPONG BAROH"}, {"id": "1114032009", "district_id": "111403", "name": "LHOK TIMON"}, {"id": "1114032010", "district_id": "111403", "name": "GAMPONG BARO"}, {"id": "1114032011", "district_id": "111403", "name": "LHOK BUYA"}, {"id": "1114032012", "district_id": "111403", "name": "LHOK BOT"}, {"id": "1114032013", "district_id": "111403", "name": "PAYA LAOT"}]
+[
+  {
+    "id": "1114032001",
+    "district_id": "111403",
+    "name": "SAWANG"
+  },
+  {
+    "id": "1114032002",
+    "district_id": "111403",
+    "name": "LHOK GEULUMPANG"
+  },
+  {
+    "id": "1114032003",
+    "district_id": "111403",
+    "name": "PADANG"
+  },
+  {
+    "id": "1114032004",
+    "district_id": "111403",
+    "name": "GUNONG MEUNASAH"
+  },
+  {
+    "id": "1114032005",
+    "district_id": "111403",
+    "name": "SAPEK"
+  },
+  {
+    "id": "1114032006",
+    "district_id": "111403",
+    "name": "PANTE KUYUN"
+  },
+  {
+    "id": "1114032007",
+    "district_id": "111403",
+    "name": "GLEE SEUBAK"
+  },
+  {
+    "id": "1114032008",
+    "district_id": "111403",
+    "name": "GAMPONG BAROH"
+  },
+  {
+    "id": "1114032009",
+    "district_id": "111403",
+    "name": "LHOK TIMON"
+  },
+  {
+    "id": "1114032010",
+    "district_id": "111403",
+    "name": "GAMPONG BARO"
+  },
+  {
+    "id": "1114032011",
+    "district_id": "111403",
+    "name": "LHOK BUYA"
+  },
+  {
+    "id": "1114032012",
+    "district_id": "111403",
+    "name": "LHOK BOT"
+  },
+  {
+    "id": "1114032013",
+    "district_id": "111403",
+    "name": "PAYA LAOT"
+  }
+]

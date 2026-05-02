@@ -1,1 +1,172 @@
-[{"id": "8201012001", "district_id": "820101", "name": "GUFASA"}, {"id": "8201012002", "district_id": "820101", "name": "GUAIMAADU"}, {"id": "8201012003", "district_id": "820101", "name": "JALAN BARU"}, {"id": "8201012004", "district_id": "820101", "name": "GAM LAMO"}, {"id": "8201012005", "district_id": "820101", "name": "SOAKONORA"}, {"id": "8201012006", "district_id": "820101", "name": "GALALA"}, {"id": "8201012007", "district_id": "820101", "name": "BOBANEHENA"}, {"id": "8201012008", "district_id": "820101", "name": "PAYO"}, {"id": "8201012009", "district_id": "820101", "name": "BOBO"}, {"id": "8201012010", "district_id": "820101", "name": "SARIA"}, {"id": "8201012011", "district_id": "820101", "name": "IDAM DEHE"}, {"id": "8201012012", "district_id": "820101", "name": "IDAMDEHE GAMSUNGI"}, {"id": "8201012013", "district_id": "820101", "name": "MARMABATI"}, {"id": "8201012014", "district_id": "820101", "name": "GAMTALA"}, {"id": "8201012015", "district_id": "820101", "name": "LOLORY"}, {"id": "8201012016", "district_id": "820101", "name": "TOBOSO"}, {"id": "8201012017", "district_id": "820101", "name": "HUKU-HUKU KIE"}, {"id": "8201012018", "district_id": "820101", "name": "ACANGO"}, {"id": "8201012019", "district_id": "820101", "name": "TEDENG"}, {"id": "8201012020", "district_id": "820101", "name": "AKEDIRI"}, {"id": "8201012021", "district_id": "820101", "name": "PORNITY"}, {"id": "8201012022", "district_id": "820101", "name": "BUKU MATITI"}, {"id": "8201012023", "district_id": "820101", "name": "TODOWONGI"}, {"id": "8201012024", "district_id": "820101", "name": "TUADA"}, {"id": "8201012025", "district_id": "820101", "name": "MATUI"}, {"id": "8201012026", "district_id": "820101", "name": "BUKU BUALAWA"}, {"id": "8201012027", "district_id": "820101", "name": "TAURO"}, {"id": "8201012034", "district_id": "820101", "name": "HATE BICARA"}, {"id": "8201012035", "district_id": "820101", "name": "GUARIA"}, {"id": "8201012036", "district_id": "820101", "name": "PATENG"}, {"id": "8201012037", "district_id": "820101", "name": "BOBO JIKO"}, {"id": "8201012038", "district_id": "820101", "name": "ULO"}, {"id": "8201012039", "district_id": "820101", "name": "KURIPASAI"}, {"id": "8201012040", "district_id": "820101", "name": "BUKU MAADU"}]
+[
+  {
+    "id": "8201012001",
+    "district_id": "820101",
+    "name": "GUFASA"
+  },
+  {
+    "id": "8201012002",
+    "district_id": "820101",
+    "name": "GUAIMAADU"
+  },
+  {
+    "id": "8201012003",
+    "district_id": "820101",
+    "name": "JALAN BARU"
+  },
+  {
+    "id": "8201012004",
+    "district_id": "820101",
+    "name": "GAM LAMO"
+  },
+  {
+    "id": "8201012005",
+    "district_id": "820101",
+    "name": "SOAKONORA"
+  },
+  {
+    "id": "8201012006",
+    "district_id": "820101",
+    "name": "GALALA"
+  },
+  {
+    "id": "8201012007",
+    "district_id": "820101",
+    "name": "BOBANEHENA"
+  },
+  {
+    "id": "8201012008",
+    "district_id": "820101",
+    "name": "PAYO"
+  },
+  {
+    "id": "8201012009",
+    "district_id": "820101",
+    "name": "BOBO"
+  },
+  {
+    "id": "8201012010",
+    "district_id": "820101",
+    "name": "SARIA"
+  },
+  {
+    "id": "8201012011",
+    "district_id": "820101",
+    "name": "IDAM DEHE"
+  },
+  {
+    "id": "8201012012",
+    "district_id": "820101",
+    "name": "IDAMDEHE GAMSUNGI"
+  },
+  {
+    "id": "8201012013",
+    "district_id": "820101",
+    "name": "MARMABATI"
+  },
+  {
+    "id": "8201012014",
+    "district_id": "820101",
+    "name": "GAMTALA"
+  },
+  {
+    "id": "8201012015",
+    "district_id": "820101",
+    "name": "LOLORY"
+  },
+  {
+    "id": "8201012016",
+    "district_id": "820101",
+    "name": "TOBOSO"
+  },
+  {
+    "id": "8201012017",
+    "district_id": "820101",
+    "name": "HUKU-HUKU KIE"
+  },
+  {
+    "id": "8201012018",
+    "district_id": "820101",
+    "name": "ACANGO"
+  },
+  {
+    "id": "8201012019",
+    "district_id": "820101",
+    "name": "TEDENG"
+  },
+  {
+    "id": "8201012020",
+    "district_id": "820101",
+    "name": "AKEDIRI"
+  },
+  {
+    "id": "8201012021",
+    "district_id": "820101",
+    "name": "PORNITY"
+  },
+  {
+    "id": "8201012022",
+    "district_id": "820101",
+    "name": "BUKU MATITI"
+  },
+  {
+    "id": "8201012023",
+    "district_id": "820101",
+    "name": "TODOWONGI"
+  },
+  {
+    "id": "8201012024",
+    "district_id": "820101",
+    "name": "TUADA"
+  },
+  {
+    "id": "8201012025",
+    "district_id": "820101",
+    "name": "MATUI"
+  },
+  {
+    "id": "8201012026",
+    "district_id": "820101",
+    "name": "BUKU BUALAWA"
+  },
+  {
+    "id": "8201012027",
+    "district_id": "820101",
+    "name": "TAURO"
+  },
+  {
+    "id": "8201012034",
+    "district_id": "820101",
+    "name": "HATE BICARA"
+  },
+  {
+    "id": "8201012035",
+    "district_id": "820101",
+    "name": "GUARIA"
+  },
+  {
+    "id": "8201012036",
+    "district_id": "820101",
+    "name": "PATENG"
+  },
+  {
+    "id": "8201012037",
+    "district_id": "820101",
+    "name": "BOBO JIKO"
+  },
+  {
+    "id": "8201012038",
+    "district_id": "820101",
+    "name": "ULO"
+  },
+  {
+    "id": "8201012039",
+    "district_id": "820101",
+    "name": "KURIPASAI"
+  },
+  {
+    "id": "8201012040",
+    "district_id": "820101",
+    "name": "BUKU MAADU"
+  }
+]

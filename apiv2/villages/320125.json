@@ -1,1 +1,52 @@
-[{"id": "3201251010", "district_id": "320125", "name": "CISARUA"}, {"id": "3201252001", "district_id": "320125", "name": "BATULAYANG"}, {"id": "3201252002", "district_id": "320125", "name": "JOGJOGAN"}, {"id": "3201252003", "district_id": "320125", "name": "CIBEUREUM"}, {"id": "3201252004", "district_id": "320125", "name": "CILEMBER"}, {"id": "3201252005", "district_id": "320125", "name": "CITEKO"}, {"id": "3201252006", "district_id": "320125", "name": "TUGU SELATAN"}, {"id": "3201252007", "district_id": "320125", "name": "LEUWIMALANG"}, {"id": "3201252008", "district_id": "320125", "name": "KOPO"}, {"id": "3201252009", "district_id": "320125", "name": "TUGU UTARA"}]
+[
+  {
+    "id": "3201251010",
+    "district_id": "320125",
+    "name": "CISARUA"
+  },
+  {
+    "id": "3201252001",
+    "district_id": "320125",
+    "name": "BATULAYANG"
+  },
+  {
+    "id": "3201252002",
+    "district_id": "320125",
+    "name": "JOGJOGAN"
+  },
+  {
+    "id": "3201252003",
+    "district_id": "320125",
+    "name": "CIBEUREUM"
+  },
+  {
+    "id": "3201252004",
+    "district_id": "320125",
+    "name": "CILEMBER"
+  },
+  {
+    "id": "3201252005",
+    "district_id": "320125",
+    "name": "CITEKO"
+  },
+  {
+    "id": "3201252006",
+    "district_id": "320125",
+    "name": "TUGU SELATAN"
+  },
+  {
+    "id": "3201252007",
+    "district_id": "320125",
+    "name": "LEUWIMALANG"
+  },
+  {
+    "id": "3201252008",
+    "district_id": "320125",
+    "name": "KOPO"
+  },
+  {
+    "id": "3201252009",
+    "district_id": "320125",
+    "name": "TUGU UTARA"
+  }
+]

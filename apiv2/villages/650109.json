@@ -1,1 +1,112 @@
-[{"id": "6501092001", "district_id": "650109", "name": "SEKATAK BUJI"}, {"id": "6501092002", "district_id": "650109", "name": "PARU ABANG"}, {"id": "6501092003", "district_id": "650109", "name": "BUNAU"}, {"id": "6501092004", "district_id": "650109", "name": "UJANG"}, {"id": "6501092005", "district_id": "650109", "name": "TENGGILING"}, {"id": "6501092006", "district_id": "650109", "name": "KELEMBUNAN"}, {"id": "6501092007", "district_id": "650109", "name": "TURUNG"}, {"id": "6501092008", "district_id": "650109", "name": "TERINDAK"}, {"id": "6501092009", "district_id": "650109", "name": "KELISING"}, {"id": "6501092010", "district_id": "650109", "name": "AMBALAT"}, {"id": "6501092011", "district_id": "650109", "name": "KERITING"}, {"id": "6501092012", "district_id": "650109", "name": "KENDARI"}, {"id": "6501092013", "district_id": "650109", "name": "BAMBANG"}, {"id": "6501092014", "district_id": "650109", "name": "MARITAM"}, {"id": "6501092015", "district_id": "650109", "name": "PENTIAN"}, {"id": "6501092016", "district_id": "650109", "name": "PUNAN DULAU"}, {"id": "6501092017", "district_id": "650109", "name": "KELINCAUAN"}, {"id": "6501092018", "district_id": "650109", "name": "BEKILIU"}, {"id": "6501092019", "district_id": "650109", "name": "SEKATAK BENGARA"}, {"id": "6501092020", "district_id": "650109", "name": "PUNGIT"}, {"id": "6501092021", "district_id": "650109", "name": "ANJAR ARIP"}, {"id": "6501092022", "district_id": "650109", "name": "LIAGU"}]
+[
+  {
+    "id": "6501092001",
+    "district_id": "650109",
+    "name": "SEKATAK BUJI"
+  },
+  {
+    "id": "6501092002",
+    "district_id": "650109",
+    "name": "PARU ABANG"
+  },
+  {
+    "id": "6501092003",
+    "district_id": "650109",
+    "name": "BUNAU"
+  },
+  {
+    "id": "6501092004",
+    "district_id": "650109",
+    "name": "UJANG"
+  },
+  {
+    "id": "6501092005",
+    "district_id": "650109",
+    "name": "TENGGILING"
+  },
+  {
+    "id": "6501092006",
+    "district_id": "650109",
+    "name": "KELEMBUNAN"
+  },
+  {
+    "id": "6501092007",
+    "district_id": "650109",
+    "name": "TURUNG"
+  },
+  {
+    "id": "6501092008",
+    "district_id": "650109",
+    "name": "TERINDAK"
+  },
+  {
+    "id": "6501092009",
+    "district_id": "650109",
+    "name": "KELISING"
+  },
+  {
+    "id": "6501092010",
+    "district_id": "650109",
+    "name": "AMBALAT"
+  },
+  {
+    "id": "6501092011",
+    "district_id": "650109",
+    "name": "KERITING"
+  },
+  {
+    "id": "6501092012",
+    "district_id": "650109",
+    "name": "KENDARI"
+  },
+  {
+    "id": "6501092013",
+    "district_id": "650109",
+    "name": "BAMBANG"
+  },
+  {
+    "id": "6501092014",
+    "district_id": "650109",
+    "name": "MARITAM"
+  },
+  {
+    "id": "6501092015",
+    "district_id": "650109",
+    "name": "PENTIAN"
+  },
+  {
+    "id": "6501092016",
+    "district_id": "650109",
+    "name": "PUNAN DULAU"
+  },
+  {
+    "id": "6501092017",
+    "district_id": "650109",
+    "name": "KELINCAUAN"
+  },
+  {
+    "id": "6501092018",
+    "district_id": "650109",
+    "name": "BEKILIU"
+  },
+  {
+    "id": "6501092019",
+    "district_id": "650109",
+    "name": "SEKATAK BENGARA"
+  },
+  {
+    "id": "6501092020",
+    "district_id": "650109",
+    "name": "PUNGIT"
+  },
+  {
+    "id": "6501092021",
+    "district_id": "650109",
+    "name": "ANJAR ARIP"
+  },
+  {
+    "id": "6501092022",
+    "district_id": "650109",
+    "name": "LIAGU"
+  }
+]

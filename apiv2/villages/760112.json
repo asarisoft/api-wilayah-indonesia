@@ -1,1 +1,37 @@
-[{"id": "7601122001", "district_id": "760112", "name": "PARABU"}, {"id": "7601122002", "district_id": "760112", "name": "KENANGAN"}, {"id": "7601122003", "district_id": "760112", "name": "BAJAWALI"}, {"id": "7601122004", "district_id": "760112", "name": "SINGGANI"}, {"id": "7601122005", "district_id": "760112", "name": "KULU"}, {"id": "7601122006", "district_id": "760112", "name": "BATU MATORU"}, {"id": "7601122007", "district_id": "760112", "name": "BAMBAKORO"}]
+[
+  {
+    "id": "7601122001",
+    "district_id": "760112",
+    "name": "PARABU"
+  },
+  {
+    "id": "7601122002",
+    "district_id": "760112",
+    "name": "KENANGAN"
+  },
+  {
+    "id": "7601122003",
+    "district_id": "760112",
+    "name": "BAJAWALI"
+  },
+  {
+    "id": "7601122004",
+    "district_id": "760112",
+    "name": "SINGGANI"
+  },
+  {
+    "id": "7601122005",
+    "district_id": "760112",
+    "name": "KULU"
+  },
+  {
+    "id": "7601122006",
+    "district_id": "760112",
+    "name": "BATU MATORU"
+  },
+  {
+    "id": "7601122007",
+    "district_id": "760112",
+    "name": "BAMBAKORO"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "9303022001", "district_id": "930302", "name": "MUR"}, {"id": "9303022002", "district_id": "930302", "name": "AGHAM"}, {"id": "9303022003", "district_id": "930302", "name": "WAGHIEN/KOBA"}, {"id": "9303022004", "district_id": "930302", "name": "KHATAN"}, {"id": "9303022005", "district_id": "930302", "name": "MONANA"}, {"id": "9303022006", "district_id": "930302", "name": "WAGIN"}, {"id": "9303022007", "district_id": "930302", "name": "WAMAN"}, {"id": "9303022008", "district_id": "930302", "name": "IMA"}, {"id": "9303022009", "district_id": "930302", "name": "KOGOYAMAN"}, {"id": "9303022010", "district_id": "930302", "name": "MAGABAG"}, {"id": "9303022011", "district_id": "930302", "name": "TEREYEMU"}, {"id": "9303022012", "district_id": "930302", "name": "YATAN"}, {"id": "9303022013", "district_id": "930302", "name": "LINGGUA"}, {"id": "9303022014", "district_id": "930302", "name": "WARUWE"}, {"id": "9303022015", "district_id": "930302", "name": "GHANU"}]
+[
+  {
+    "id": "9303022001",
+    "district_id": "930302",
+    "name": "MUR"
+  },
+  {
+    "id": "9303022002",
+    "district_id": "930302",
+    "name": "AGHAM"
+  },
+  {
+    "id": "9303022003",
+    "district_id": "930302",
+    "name": "WAGHIEN/KOBA"
+  },
+  {
+    "id": "9303022004",
+    "district_id": "930302",
+    "name": "KHATAN"
+  },
+  {
+    "id": "9303022005",
+    "district_id": "930302",
+    "name": "MONANA"
+  },
+  {
+    "id": "9303022006",
+    "district_id": "930302",
+    "name": "WAGIN"
+  },
+  {
+    "id": "9303022007",
+    "district_id": "930302",
+    "name": "WAMAN"
+  },
+  {
+    "id": "9303022008",
+    "district_id": "930302",
+    "name": "IMA"
+  },
+  {
+    "id": "9303022009",
+    "district_id": "930302",
+    "name": "KOGOYAMAN"
+  },
+  {
+    "id": "9303022010",
+    "district_id": "930302",
+    "name": "MAGABAG"
+  },
+  {
+    "id": "9303022011",
+    "district_id": "930302",
+    "name": "TEREYEMU"
+  },
+  {
+    "id": "9303022012",
+    "district_id": "930302",
+    "name": "YATAN"
+  },
+  {
+    "id": "9303022013",
+    "district_id": "930302",
+    "name": "LINGGUA"
+  },
+  {
+    "id": "9303022014",
+    "district_id": "930302",
+    "name": "WARUWE"
+  },
+  {
+    "id": "9303022015",
+    "district_id": "930302",
+    "name": "GHANU"
+  }
+]

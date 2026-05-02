@@ -1,1 +1,62 @@
-[{"id": "1214242001", "district_id": "121424", "name": "FONDRAKORAYA"}, {"id": "1214242002", "district_id": "121424", "name": "ORUDUA SIBOHOU"}, {"id": "1214242003", "district_id": "121424", "name": "SISARAHILI SUSUA"}, {"id": "1214242004", "district_id": "121424", "name": "SUSUA"}, {"id": "1214242005", "district_id": "121424", "name": "LAHUSA SUSUA"}, {"id": "1214242006", "district_id": "121424", "name": "RAMBA-RAMBA"}, {"id": "1214242007", "district_id": "121424", "name": "HILINIFAOSO"}, {"id": "1214242008", "district_id": "121424", "name": "SIFAOROASI"}, {"id": "1214242009", "district_id": "121424", "name": "AMANDRAYA"}, {"id": "1214242010", "district_id": "121424", "name": "FOIKHU FONDRAKO"}, {"id": "1214242011", "district_id": "121424", "name": "HILIWOSI"}, {"id": "1214242012", "district_id": "121424", "name": "ORAHILI FONDRAKO"}]
+[
+  {
+    "id": "1214242001",
+    "district_id": "121424",
+    "name": "FONDRAKORAYA"
+  },
+  {
+    "id": "1214242002",
+    "district_id": "121424",
+    "name": "ORUDUA SIBOHOU"
+  },
+  {
+    "id": "1214242003",
+    "district_id": "121424",
+    "name": "SISARAHILI SUSUA"
+  },
+  {
+    "id": "1214242004",
+    "district_id": "121424",
+    "name": "SUSUA"
+  },
+  {
+    "id": "1214242005",
+    "district_id": "121424",
+    "name": "LAHUSA SUSUA"
+  },
+  {
+    "id": "1214242006",
+    "district_id": "121424",
+    "name": "RAMBA-RAMBA"
+  },
+  {
+    "id": "1214242007",
+    "district_id": "121424",
+    "name": "HILINIFAOSO"
+  },
+  {
+    "id": "1214242008",
+    "district_id": "121424",
+    "name": "SIFAOROASI"
+  },
+  {
+    "id": "1214242009",
+    "district_id": "121424",
+    "name": "AMANDRAYA"
+  },
+  {
+    "id": "1214242010",
+    "district_id": "121424",
+    "name": "FOIKHU FONDRAKO"
+  },
+  {
+    "id": "1214242011",
+    "district_id": "121424",
+    "name": "HILIWOSI"
+  },
+  {
+    "id": "1214242012",
+    "district_id": "121424",
+    "name": "ORAHILI FONDRAKO"
+  }
+]

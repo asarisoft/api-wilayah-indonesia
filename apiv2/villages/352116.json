@@ -1,1 +1,52 @@
-[{"id": "3521162001", "district_id": "352116", "name": "KALANG"}, {"id": "3521162002", "district_id": "352116", "name": "PITU"}, {"id": "3521162003", "district_id": "352116", "name": "DUMPLENGAN"}, {"id": "3521162004", "district_id": "352116", "name": "SELOPURO"}, {"id": "3521162005", "district_id": "352116", "name": "KARANGGENENG"}, {"id": "3521162006", "district_id": "352116", "name": "NGANCAR"}, {"id": "3521162007", "district_id": "352116", "name": "CANTEL"}, {"id": "3521162008", "district_id": "352116", "name": "PAPUNGAN"}, {"id": "3521162009", "district_id": "352116", "name": "BANJARBANGGI"}, {"id": "3521162010", "district_id": "352116", "name": "BANGUNREJO LOR"}]
+[
+  {
+    "id": "3521162001",
+    "district_id": "352116",
+    "name": "KALANG"
+  },
+  {
+    "id": "3521162002",
+    "district_id": "352116",
+    "name": "PITU"
+  },
+  {
+    "id": "3521162003",
+    "district_id": "352116",
+    "name": "DUMPLENGAN"
+  },
+  {
+    "id": "3521162004",
+    "district_id": "352116",
+    "name": "SELOPURO"
+  },
+  {
+    "id": "3521162005",
+    "district_id": "352116",
+    "name": "KARANGGENENG"
+  },
+  {
+    "id": "3521162006",
+    "district_id": "352116",
+    "name": "NGANCAR"
+  },
+  {
+    "id": "3521162007",
+    "district_id": "352116",
+    "name": "CANTEL"
+  },
+  {
+    "id": "3521162008",
+    "district_id": "352116",
+    "name": "PAPUNGAN"
+  },
+  {
+    "id": "3521162009",
+    "district_id": "352116",
+    "name": "BANJARBANGGI"
+  },
+  {
+    "id": "3521162010",
+    "district_id": "352116",
+    "name": "BANGUNREJO LOR"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "7409112001", "district_id": "740911", "name": "TANJUNG BUNGA"}, {"id": "7409112002", "district_id": "740911", "name": "KAMPOH BUNGA"}, {"id": "7409112003", "district_id": "740911", "name": "LEMO BAJO"}, {"id": "7409112004", "district_id": "740911", "name": "BARASANGA"}, {"id": "7409112005", "district_id": "740911", "name": "WAWOLESEA"}, {"id": "7409112006", "district_id": "740911", "name": "TOREO"}, {"id": "7409112007", "district_id": "740911", "name": "OTIPULU"}, {"id": "7409112009", "district_id": "740911", "name": "KAMPOH CINA"}]
+[
+  {
+    "id": "7409112001",
+    "district_id": "740911",
+    "name": "TANJUNG BUNGA"
+  },
+  {
+    "id": "7409112002",
+    "district_id": "740911",
+    "name": "KAMPOH BUNGA"
+  },
+  {
+    "id": "7409112003",
+    "district_id": "740911",
+    "name": "LEMO BAJO"
+  },
+  {
+    "id": "7409112004",
+    "district_id": "740911",
+    "name": "BARASANGA"
+  },
+  {
+    "id": "7409112005",
+    "district_id": "740911",
+    "name": "WAWOLESEA"
+  },
+  {
+    "id": "7409112006",
+    "district_id": "740911",
+    "name": "TOREO"
+  },
+  {
+    "id": "7409112007",
+    "district_id": "740911",
+    "name": "OTIPULU"
+  },
+  {
+    "id": "7409112009",
+    "district_id": "740911",
+    "name": "KAMPOH CINA"
+  }
+]

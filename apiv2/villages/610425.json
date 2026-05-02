@@ -1,1 +1,57 @@
-[{"id": "6104252001", "district_id": "610425", "name": "BERINGIN JAYA"}, {"id": "6104252002", "district_id": "610425", "name": "SUNGAI MELAYU BARU"}, {"id": "6104252003", "district_id": "610425", "name": "SUKA MULYA"}, {"id": "6104252004", "district_id": "610425", "name": "KARYA MUKTI"}, {"id": "6104252005", "district_id": "610425", "name": "PIANSAK"}, {"id": "6104252006", "district_id": "610425", "name": "JAIRAN JAYA"}, {"id": "6104252007", "district_id": "610425", "name": "KEPULUK"}, {"id": "6104252008", "district_id": "610425", "name": "SUNGAI MELAYU JAYA"}, {"id": "6104252009", "district_id": "610425", "name": "SUNGAI MELAYU"}, {"id": "6104252010", "district_id": "610425", "name": "MEKAR JAYA"}, {"id": "6104252011", "district_id": "610425", "name": "MAKMUR ABADI"}]
+[
+  {
+    "id": "6104252001",
+    "district_id": "610425",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "6104252002",
+    "district_id": "610425",
+    "name": "SUNGAI MELAYU BARU"
+  },
+  {
+    "id": "6104252003",
+    "district_id": "610425",
+    "name": "SUKA MULYA"
+  },
+  {
+    "id": "6104252004",
+    "district_id": "610425",
+    "name": "KARYA MUKTI"
+  },
+  {
+    "id": "6104252005",
+    "district_id": "610425",
+    "name": "PIANSAK"
+  },
+  {
+    "id": "6104252006",
+    "district_id": "610425",
+    "name": "JAIRAN JAYA"
+  },
+  {
+    "id": "6104252007",
+    "district_id": "610425",
+    "name": "KEPULUK"
+  },
+  {
+    "id": "6104252008",
+    "district_id": "610425",
+    "name": "SUNGAI MELAYU JAYA"
+  },
+  {
+    "id": "6104252009",
+    "district_id": "610425",
+    "name": "SUNGAI MELAYU"
+  },
+  {
+    "id": "6104252010",
+    "district_id": "610425",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "6104252011",
+    "district_id": "610425",
+    "name": "MAKMUR ABADI"
+  }
+]

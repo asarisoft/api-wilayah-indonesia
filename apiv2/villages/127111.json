@@ -1,1 +1,32 @@
-[{"id": "1271111001", "district_id": "127111", "name": "SUKA MAJU"}, {"id": "1271111002", "district_id": "127111", "name": "TITI KUNING"}, {"id": "1271111003", "district_id": "127111", "name": "KEDAI DURIAN"}, {"id": "1271111004", "district_id": "127111", "name": "PANGKALAN MANSUR"}, {"id": "1271111005", "district_id": "127111", "name": "GEDUNG JOHOR"}, {"id": "1271111006", "district_id": "127111", "name": "KWALA BEKALA"}]
+[
+  {
+    "id": "1271111001",
+    "district_id": "127111",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1271111002",
+    "district_id": "127111",
+    "name": "TITI KUNING"
+  },
+  {
+    "id": "1271111003",
+    "district_id": "127111",
+    "name": "KEDAI DURIAN"
+  },
+  {
+    "id": "1271111004",
+    "district_id": "127111",
+    "name": "PANGKALAN MANSUR"
+  },
+  {
+    "id": "1271111005",
+    "district_id": "127111",
+    "name": "GEDUNG JOHOR"
+  },
+  {
+    "id": "1271111006",
+    "district_id": "127111",
+    "name": "KWALA BEKALA"
+  }
+]

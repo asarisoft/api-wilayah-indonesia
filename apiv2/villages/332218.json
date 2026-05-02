@@ -1,1 +1,57 @@
-[{"id": "3322181006", "district_id": "332218", "name": "CANDIREJO"}, {"id": "3322181007", "district_id": "332218", "name": "GENUK"}, {"id": "3322181008", "district_id": "332218", "name": "UNGARAN"}, {"id": "3322181009", "district_id": "332218", "name": "BANDARJO"}, {"id": "3322181010", "district_id": "332218", "name": "LANGENSARI"}, {"id": "3322182001", "district_id": "332218", "name": "BRANJANG"}, {"id": "3322182002", "district_id": "332218", "name": "KALISIDI"}, {"id": "3322182003", "district_id": "332218", "name": "KEJI"}, {"id": "3322182004", "district_id": "332218", "name": "LEREP"}, {"id": "3322182005", "district_id": "332218", "name": "NYATNYONO"}, {"id": "3322182011", "district_id": "332218", "name": "GOGIK"}]
+[
+  {
+    "id": "3322181006",
+    "district_id": "332218",
+    "name": "CANDIREJO"
+  },
+  {
+    "id": "3322181007",
+    "district_id": "332218",
+    "name": "GENUK"
+  },
+  {
+    "id": "3322181008",
+    "district_id": "332218",
+    "name": "UNGARAN"
+  },
+  {
+    "id": "3322181009",
+    "district_id": "332218",
+    "name": "BANDARJO"
+  },
+  {
+    "id": "3322181010",
+    "district_id": "332218",
+    "name": "LANGENSARI"
+  },
+  {
+    "id": "3322182001",
+    "district_id": "332218",
+    "name": "BRANJANG"
+  },
+  {
+    "id": "3322182002",
+    "district_id": "332218",
+    "name": "KALISIDI"
+  },
+  {
+    "id": "3322182003",
+    "district_id": "332218",
+    "name": "KEJI"
+  },
+  {
+    "id": "3322182004",
+    "district_id": "332218",
+    "name": "LEREP"
+  },
+  {
+    "id": "3322182005",
+    "district_id": "332218",
+    "name": "NYATNYONO"
+  },
+  {
+    "id": "3322182011",
+    "district_id": "332218",
+    "name": "GOGIK"
+  }
+]

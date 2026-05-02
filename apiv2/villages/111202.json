@@ -1,1 +1,77 @@
-[{"id": "1112022001", "district_id": "111202", "name": "ADAN"}, {"id": "1112022002", "district_id": "111202", "name": "PANTE GEULUMPANG"}, {"id": "1112022003", "district_id": "111202", "name": "MESJID"}, {"id": "1112022004", "district_id": "111202", "name": "GUNONG CUT"}, {"id": "1112022005", "district_id": "111202", "name": "PADANG KAWA"}, {"id": "1112022006", "district_id": "111202", "name": "BLANG PADANG"}, {"id": "1112022007", "district_id": "111202", "name": "PADANG BAK JEUMPA"}, {"id": "1112022008", "district_id": "111202", "name": "SUAK LABU"}, {"id": "1112022014", "district_id": "111202", "name": "BINEH KRUENG"}, {"id": "1112022015", "district_id": "111202", "name": "DRIEN KIPAH"}, {"id": "1112022016", "district_id": "111202", "name": "DRIEN JALO"}, {"id": "1112022017", "district_id": "111202", "name": "PADANG BAK JOK"}, {"id": "1112022018", "district_id": "111202", "name": "SUAK NIBONG"}, {"id": "1112022019", "district_id": "111202", "name": "KUTA BAK DRIEN"}, {"id": "1112022020", "district_id": "111202", "name": "IE LHOB"}]
+[
+  {
+    "id": "1112022001",
+    "district_id": "111202",
+    "name": "ADAN"
+  },
+  {
+    "id": "1112022002",
+    "district_id": "111202",
+    "name": "PANTE GEULUMPANG"
+  },
+  {
+    "id": "1112022003",
+    "district_id": "111202",
+    "name": "MESJID"
+  },
+  {
+    "id": "1112022004",
+    "district_id": "111202",
+    "name": "GUNONG CUT"
+  },
+  {
+    "id": "1112022005",
+    "district_id": "111202",
+    "name": "PADANG KAWA"
+  },
+  {
+    "id": "1112022006",
+    "district_id": "111202",
+    "name": "BLANG PADANG"
+  },
+  {
+    "id": "1112022007",
+    "district_id": "111202",
+    "name": "PADANG BAK JEUMPA"
+  },
+  {
+    "id": "1112022008",
+    "district_id": "111202",
+    "name": "SUAK LABU"
+  },
+  {
+    "id": "1112022014",
+    "district_id": "111202",
+    "name": "BINEH KRUENG"
+  },
+  {
+    "id": "1112022015",
+    "district_id": "111202",
+    "name": "DRIEN KIPAH"
+  },
+  {
+    "id": "1112022016",
+    "district_id": "111202",
+    "name": "DRIEN JALO"
+  },
+  {
+    "id": "1112022017",
+    "district_id": "111202",
+    "name": "PADANG BAK JOK"
+  },
+  {
+    "id": "1112022018",
+    "district_id": "111202",
+    "name": "SUAK NIBONG"
+  },
+  {
+    "id": "1112022019",
+    "district_id": "111202",
+    "name": "KUTA BAK DRIEN"
+  },
+  {
+    "id": "1112022020",
+    "district_id": "111202",
+    "name": "IE LHOB"
+  }
+]

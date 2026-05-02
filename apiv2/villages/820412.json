@@ -1,1 +1,32 @@
-[{"id": "8204122001", "district_id": "820412", "name": "NGUTE-NGUTE"}, {"id": "8204122002", "district_id": "820412", "name": "LALUIN"}, {"id": "8204122003", "district_id": "820412", "name": "POSI-POSI"}, {"id": "8204122004", "district_id": "820412", "name": "SAGAWELE"}, {"id": "8204122005", "district_id": "820412", "name": "ORIMAKURUNGA"}, {"id": "8204122006", "district_id": "820412", "name": "PASIR PUTIH"}]
+[
+  {
+    "id": "8204122001",
+    "district_id": "820412",
+    "name": "NGUTE-NGUTE"
+  },
+  {
+    "id": "8204122002",
+    "district_id": "820412",
+    "name": "LALUIN"
+  },
+  {
+    "id": "8204122003",
+    "district_id": "820412",
+    "name": "POSI-POSI"
+  },
+  {
+    "id": "8204122004",
+    "district_id": "820412",
+    "name": "SAGAWELE"
+  },
+  {
+    "id": "8204122005",
+    "district_id": "820412",
+    "name": "ORIMAKURUNGA"
+  },
+  {
+    "id": "8204122006",
+    "district_id": "820412",
+    "name": "PASIR PUTIH"
+  }
+]

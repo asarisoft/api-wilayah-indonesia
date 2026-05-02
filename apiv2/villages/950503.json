@@ -1,1 +1,77 @@
-[{"id": "9505032001", "district_id": "950503", "name": "WINIMA"}, {"id": "9505032002", "district_id": "950503", "name": "MOGONIK"}, {"id": "9505032003", "district_id": "950503", "name": "WINAM"}, {"id": "9505032004", "district_id": "950503", "name": "KINO"}, {"id": "9505032005", "district_id": "950503", "name": "AYEKI"}, {"id": "9505032006", "district_id": "950503", "name": "ENGGAMA"}, {"id": "9505032007", "district_id": "950503", "name": "WURIGELOBAR"}, {"id": "9505032008", "district_id": "950503", "name": "PAGALE"}, {"id": "9505032009", "district_id": "950503", "name": "ARSBOL"}, {"id": "9505032010", "district_id": "950503", "name": "YABENDILI"}, {"id": "9505032011", "district_id": "950503", "name": "MOLIGI"}, {"id": "9505032012", "district_id": "950503", "name": "KUGAB"}, {"id": "9505032013", "district_id": "950503", "name": "ENGAIMA"}, {"id": "9505032014", "district_id": "950503", "name": "ERAGEAM"}, {"id": "9505032015", "district_id": "950503", "name": "WANILOK"}]
+[
+  {
+    "id": "9505032001",
+    "district_id": "950503",
+    "name": "WINIMA"
+  },
+  {
+    "id": "9505032002",
+    "district_id": "950503",
+    "name": "MOGONIK"
+  },
+  {
+    "id": "9505032003",
+    "district_id": "950503",
+    "name": "WINAM"
+  },
+  {
+    "id": "9505032004",
+    "district_id": "950503",
+    "name": "KINO"
+  },
+  {
+    "id": "9505032005",
+    "district_id": "950503",
+    "name": "AYEKI"
+  },
+  {
+    "id": "9505032006",
+    "district_id": "950503",
+    "name": "ENGGAMA"
+  },
+  {
+    "id": "9505032007",
+    "district_id": "950503",
+    "name": "WURIGELOBAR"
+  },
+  {
+    "id": "9505032008",
+    "district_id": "950503",
+    "name": "PAGALE"
+  },
+  {
+    "id": "9505032009",
+    "district_id": "950503",
+    "name": "ARSBOL"
+  },
+  {
+    "id": "9505032010",
+    "district_id": "950503",
+    "name": "YABENDILI"
+  },
+  {
+    "id": "9505032011",
+    "district_id": "950503",
+    "name": "MOLIGI"
+  },
+  {
+    "id": "9505032012",
+    "district_id": "950503",
+    "name": "KUGAB"
+  },
+  {
+    "id": "9505032013",
+    "district_id": "950503",
+    "name": "ENGAIMA"
+  },
+  {
+    "id": "9505032014",
+    "district_id": "950503",
+    "name": "ERAGEAM"
+  },
+  {
+    "id": "9505032015",
+    "district_id": "950503",
+    "name": "WANILOK"
+  }
+]

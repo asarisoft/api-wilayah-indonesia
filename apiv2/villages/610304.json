@@ -1,1 +1,57 @@
-[{"id": "6103042001", "district_id": "610304", "name": "BALAI SEBUT"}, {"id": "6103042002", "district_id": "610304", "name": "JANGKANG BENUA"}, {"id": "6103042003", "district_id": "610304", "name": "TANGGUNG"}, {"id": "6103042004", "district_id": "610304", "name": "EMPIYANG"}, {"id": "6103042005", "district_id": "610304", "name": "PISANG"}, {"id": "6103042006", "district_id": "610304", "name": "KETORI"}, {"id": "6103042007", "district_id": "610304", "name": "SEMOMBAT"}, {"id": "6103042008", "district_id": "610304", "name": "TERATI"}, {"id": "6103042009", "district_id": "610304", "name": "SAPE"}, {"id": "6103042010", "district_id": "610304", "name": "SELAMPUNG"}, {"id": "6103042011", "district_id": "610304", "name": "SEMIRAU"}]
+[
+  {
+    "id": "6103042001",
+    "district_id": "610304",
+    "name": "BALAI SEBUT"
+  },
+  {
+    "id": "6103042002",
+    "district_id": "610304",
+    "name": "JANGKANG BENUA"
+  },
+  {
+    "id": "6103042003",
+    "district_id": "610304",
+    "name": "TANGGUNG"
+  },
+  {
+    "id": "6103042004",
+    "district_id": "610304",
+    "name": "EMPIYANG"
+  },
+  {
+    "id": "6103042005",
+    "district_id": "610304",
+    "name": "PISANG"
+  },
+  {
+    "id": "6103042006",
+    "district_id": "610304",
+    "name": "KETORI"
+  },
+  {
+    "id": "6103042007",
+    "district_id": "610304",
+    "name": "SEMOMBAT"
+  },
+  {
+    "id": "6103042008",
+    "district_id": "610304",
+    "name": "TERATI"
+  },
+  {
+    "id": "6103042009",
+    "district_id": "610304",
+    "name": "SAPE"
+  },
+  {
+    "id": "6103042010",
+    "district_id": "610304",
+    "name": "SELAMPUNG"
+  },
+  {
+    "id": "6103042011",
+    "district_id": "610304",
+    "name": "SEMIRAU"
+  }
+]

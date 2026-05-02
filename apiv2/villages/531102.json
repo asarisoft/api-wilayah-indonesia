@@ -1,1 +1,37 @@
-[{"id": "5311022003", "district_id": "531102", "name": "RAMBANGARU"}, {"id": "5311022006", "district_id": "531102", "name": "PRAIBAKUL"}, {"id": "5311022007", "district_id": "531102", "name": "WUNGA"}, {"id": "5311022008", "district_id": "531102", "name": "KADAHANG"}, {"id": "5311022009", "district_id": "531102", "name": "NAPU"}, {"id": "5311022010", "district_id": "531102", "name": "MBATAPUHU"}, {"id": "5311022012", "district_id": "531102", "name": "KALAMBA"}]
+[
+  {
+    "id": "5311022003",
+    "district_id": "531102",
+    "name": "RAMBANGARU"
+  },
+  {
+    "id": "5311022006",
+    "district_id": "531102",
+    "name": "PRAIBAKUL"
+  },
+  {
+    "id": "5311022007",
+    "district_id": "531102",
+    "name": "WUNGA"
+  },
+  {
+    "id": "5311022008",
+    "district_id": "531102",
+    "name": "KADAHANG"
+  },
+  {
+    "id": "5311022009",
+    "district_id": "531102",
+    "name": "NAPU"
+  },
+  {
+    "id": "5311022010",
+    "district_id": "531102",
+    "name": "MBATAPUHU"
+  },
+  {
+    "id": "5311022012",
+    "district_id": "531102",
+    "name": "KALAMBA"
+  }
+]

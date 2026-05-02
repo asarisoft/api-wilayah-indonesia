@@ -1,1 +1,72 @@
-[{"id": "3203172003", "district_id": "320317", "name": "SUKASARI"}, {"id": "3203172006", "district_id": "320317", "name": "PASIRDALEM"}, {"id": "3203172008", "district_id": "320317", "name": "TALAGASARI"}, {"id": "3203172009", "district_id": "320317", "name": "BOJONGKASIH"}, {"id": "3203172010", "district_id": "320317", "name": "WARGAASIH"}, {"id": "3203172011", "district_id": "320317", "name": "SUKARAHARJA"}, {"id": "3203172014", "district_id": "320317", "name": "SUKAKERTA"}, {"id": "3203172016", "district_id": "320317", "name": "NEGLASARI"}, {"id": "3203172017", "district_id": "320317", "name": "SUKARESMI"}, {"id": "3203172019", "district_id": "320317", "name": "WARGASARI"}, {"id": "3203172020", "district_id": "320317", "name": "SUKARAJA"}, {"id": "3203172021", "district_id": "320317", "name": "KADUPANDAK"}, {"id": "3203172022", "district_id": "320317", "name": "GANDASARI"}, {"id": "3203172023", "district_id": "320317", "name": "SINDANGSARI"}]
+[
+  {
+    "id": "3203172003",
+    "district_id": "320317",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3203172006",
+    "district_id": "320317",
+    "name": "PASIRDALEM"
+  },
+  {
+    "id": "3203172008",
+    "district_id": "320317",
+    "name": "TALAGASARI"
+  },
+  {
+    "id": "3203172009",
+    "district_id": "320317",
+    "name": "BOJONGKASIH"
+  },
+  {
+    "id": "3203172010",
+    "district_id": "320317",
+    "name": "WARGAASIH"
+  },
+  {
+    "id": "3203172011",
+    "district_id": "320317",
+    "name": "SUKARAHARJA"
+  },
+  {
+    "id": "3203172014",
+    "district_id": "320317",
+    "name": "SUKAKERTA"
+  },
+  {
+    "id": "3203172016",
+    "district_id": "320317",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3203172017",
+    "district_id": "320317",
+    "name": "SUKARESMI"
+  },
+  {
+    "id": "3203172019",
+    "district_id": "320317",
+    "name": "WARGASARI"
+  },
+  {
+    "id": "3203172020",
+    "district_id": "320317",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "3203172021",
+    "district_id": "320317",
+    "name": "KADUPANDAK"
+  },
+  {
+    "id": "3203172022",
+    "district_id": "320317",
+    "name": "GANDASARI"
+  },
+  {
+    "id": "3203172023",
+    "district_id": "320317",
+    "name": "SINDANGSARI"
+  }
+]

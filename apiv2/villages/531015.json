@@ -1,1 +1,52 @@
-[{"id": "5310152001", "district_id": "531015", "name": "BANGKA LELAK"}, {"id": "5310152002", "district_id": "531015", "name": "GELONG"}, {"id": "5310152003", "district_id": "531015", "name": "URANG"}, {"id": "5310152004", "district_id": "531015", "name": "KETANG"}, {"id": "5310152005", "district_id": "531015", "name": "PONG UMPU"}, {"id": "5310152006", "district_id": "531015", "name": "BANGKA DESE"}, {"id": "5310152007", "district_id": "531015", "name": "NATI"}, {"id": "5310152008", "district_id": "531015", "name": "NDIWAR"}, {"id": "5310152009", "district_id": "531015", "name": "BANGKA TONGGUR"}, {"id": "5310152010", "district_id": "531015", "name": "LENTANG"}]
+[
+  {
+    "id": "5310152001",
+    "district_id": "531015",
+    "name": "BANGKA LELAK"
+  },
+  {
+    "id": "5310152002",
+    "district_id": "531015",
+    "name": "GELONG"
+  },
+  {
+    "id": "5310152003",
+    "district_id": "531015",
+    "name": "URANG"
+  },
+  {
+    "id": "5310152004",
+    "district_id": "531015",
+    "name": "KETANG"
+  },
+  {
+    "id": "5310152005",
+    "district_id": "531015",
+    "name": "PONG UMPU"
+  },
+  {
+    "id": "5310152006",
+    "district_id": "531015",
+    "name": "BANGKA DESE"
+  },
+  {
+    "id": "5310152007",
+    "district_id": "531015",
+    "name": "NATI"
+  },
+  {
+    "id": "5310152008",
+    "district_id": "531015",
+    "name": "NDIWAR"
+  },
+  {
+    "id": "5310152009",
+    "district_id": "531015",
+    "name": "BANGKA TONGGUR"
+  },
+  {
+    "id": "5310152010",
+    "district_id": "531015",
+    "name": "LENTANG"
+  }
+]

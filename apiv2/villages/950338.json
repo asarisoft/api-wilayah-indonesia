@@ -1,1 +1,62 @@
-[{"id": "9503382001", "district_id": "950338", "name": "KORUPUN"}, {"id": "9503382002", "district_id": "950338", "name": "DAGI"}, {"id": "9503382003", "district_id": "950338", "name": "WEMIN"}, {"id": "9503382004", "district_id": "950338", "name": "MOROME"}, {"id": "9503382005", "district_id": "950338", "name": "MOO"}, {"id": "9503382006", "district_id": "950338", "name": "BATKUK"}, {"id": "9503382007", "district_id": "950338", "name": "MALDUA"}, {"id": "9503382008", "district_id": "950338", "name": "AMDUA"}, {"id": "9503382009", "district_id": "950338", "name": "SOMSEK"}, {"id": "9503382010", "district_id": "950338", "name": "BASAL"}, {"id": "9503382011", "district_id": "950338", "name": "YAMDUA"}, {"id": "9503382012", "district_id": "950338", "name": "DILDAU"}]
+[
+  {
+    "id": "9503382001",
+    "district_id": "950338",
+    "name": "KORUPUN"
+  },
+  {
+    "id": "9503382002",
+    "district_id": "950338",
+    "name": "DAGI"
+  },
+  {
+    "id": "9503382003",
+    "district_id": "950338",
+    "name": "WEMIN"
+  },
+  {
+    "id": "9503382004",
+    "district_id": "950338",
+    "name": "MOROME"
+  },
+  {
+    "id": "9503382005",
+    "district_id": "950338",
+    "name": "MOO"
+  },
+  {
+    "id": "9503382006",
+    "district_id": "950338",
+    "name": "BATKUK"
+  },
+  {
+    "id": "9503382007",
+    "district_id": "950338",
+    "name": "MALDUA"
+  },
+  {
+    "id": "9503382008",
+    "district_id": "950338",
+    "name": "AMDUA"
+  },
+  {
+    "id": "9503382009",
+    "district_id": "950338",
+    "name": "SOMSEK"
+  },
+  {
+    "id": "9503382010",
+    "district_id": "950338",
+    "name": "BASAL"
+  },
+  {
+    "id": "9503382011",
+    "district_id": "950338",
+    "name": "YAMDUA"
+  },
+  {
+    "id": "9503382012",
+    "district_id": "950338",
+    "name": "DILDAU"
+  }
+]

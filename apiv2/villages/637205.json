@@ -1,1 +1,22 @@
-[{"id": "6372051001", "district_id": "637205", "name": "SUNGAI BESAR"}, {"id": "6372051002", "district_id": "637205", "name": "LOKTABAT SELATAN"}, {"id": "6372051003", "district_id": "637205", "name": "KEMUNING"}, {"id": "6372051004", "district_id": "637205", "name": "GUNTUNG PAIKAT"}]
+[
+  {
+    "id": "6372051001",
+    "district_id": "637205",
+    "name": "SUNGAI BESAR"
+  },
+  {
+    "id": "6372051002",
+    "district_id": "637205",
+    "name": "LOKTABAT SELATAN"
+  },
+  {
+    "id": "6372051003",
+    "district_id": "637205",
+    "name": "KEMUNING"
+  },
+  {
+    "id": "6372051004",
+    "district_id": "637205",
+    "name": "GUNTUNG PAIKAT"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "1222032001", "district_id": "122203", "name": "BANGAI"}, {"id": "1222032002", "district_id": "122203", "name": "RASAU"}, {"id": "1222032003", "district_id": "122203", "name": "TELUK RAMPAH"}, {"id": "1222032004", "district_id": "122203", "name": "PANGARUNGAN"}, {"id": "1222032005", "district_id": "122203", "name": "BUNUT"}, {"id": "1222032006", "district_id": "122203", "name": "AEK BATU"}, {"id": "1222032007", "district_id": "122203", "name": "PINANG DAMAI"}, {"id": "1222032008", "district_id": "122203", "name": "AEK RASO"}, {"id": "1222032009", "district_id": "122203", "name": "TORGAMBA"}, {"id": "1222032010", "district_id": "122203", "name": "ASAM JAWA"}, {"id": "1222032011", "district_id": "122203", "name": "TORGANDA"}, {"id": "1222032012", "district_id": "122203", "name": "BERINGIN JAYA"}, {"id": "1222032013", "district_id": "122203", "name": "BUKIT TUJUH"}, {"id": "1222032014", "district_id": "122203", "name": "SEI MERANTI"}]
+[
+  {
+    "id": "1222032001",
+    "district_id": "122203",
+    "name": "BANGAI"
+  },
+  {
+    "id": "1222032002",
+    "district_id": "122203",
+    "name": "RASAU"
+  },
+  {
+    "id": "1222032003",
+    "district_id": "122203",
+    "name": "TELUK RAMPAH"
+  },
+  {
+    "id": "1222032004",
+    "district_id": "122203",
+    "name": "PANGARUNGAN"
+  },
+  {
+    "id": "1222032005",
+    "district_id": "122203",
+    "name": "BUNUT"
+  },
+  {
+    "id": "1222032006",
+    "district_id": "122203",
+    "name": "AEK BATU"
+  },
+  {
+    "id": "1222032007",
+    "district_id": "122203",
+    "name": "PINANG DAMAI"
+  },
+  {
+    "id": "1222032008",
+    "district_id": "122203",
+    "name": "AEK RASO"
+  },
+  {
+    "id": "1222032009",
+    "district_id": "122203",
+    "name": "TORGAMBA"
+  },
+  {
+    "id": "1222032010",
+    "district_id": "122203",
+    "name": "ASAM JAWA"
+  },
+  {
+    "id": "1222032011",
+    "district_id": "122203",
+    "name": "TORGANDA"
+  },
+  {
+    "id": "1222032012",
+    "district_id": "122203",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "1222032013",
+    "district_id": "122203",
+    "name": "BUKIT TUJUH"
+  },
+  {
+    "id": "1222032014",
+    "district_id": "122203",
+    "name": "SEI MERANTI"
+  }
+]

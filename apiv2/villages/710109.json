@@ -1,1 +1,62 @@
-[{"id": "7101092001", "district_id": "710109", "name": "MATAYANGAN"}, {"id": "7101092002", "district_id": "710109", "name": "UUAN"}, {"id": "7101092003", "district_id": "710109", "name": "IKHWAN"}, {"id": "7101092004", "district_id": "710109", "name": "DOLODUO"}, {"id": "7101092005", "district_id": "710109", "name": "WANGGA BARU"}, {"id": "7101092010", "district_id": "710109", "name": "TORAUT"}, {"id": "7101092011", "district_id": "710109", "name": "MEKARUO"}, {"id": "7101092017", "district_id": "710109", "name": "TORAUT UTARA"}, {"id": "7101092018", "district_id": "710109", "name": "DOLODUO SATU"}, {"id": "7101092019", "district_id": "710109", "name": "DOLODUO DUA"}, {"id": "7101092020", "district_id": "710109", "name": "DOLODUO TIGA"}, {"id": "7101092022", "district_id": "710109", "name": "TORAUT TENGAH"}]
+[
+  {
+    "id": "7101092001",
+    "district_id": "710109",
+    "name": "MATAYANGAN"
+  },
+  {
+    "id": "7101092002",
+    "district_id": "710109",
+    "name": "UUAN"
+  },
+  {
+    "id": "7101092003",
+    "district_id": "710109",
+    "name": "IKHWAN"
+  },
+  {
+    "id": "7101092004",
+    "district_id": "710109",
+    "name": "DOLODUO"
+  },
+  {
+    "id": "7101092005",
+    "district_id": "710109",
+    "name": "WANGGA BARU"
+  },
+  {
+    "id": "7101092010",
+    "district_id": "710109",
+    "name": "TORAUT"
+  },
+  {
+    "id": "7101092011",
+    "district_id": "710109",
+    "name": "MEKARUO"
+  },
+  {
+    "id": "7101092017",
+    "district_id": "710109",
+    "name": "TORAUT UTARA"
+  },
+  {
+    "id": "7101092018",
+    "district_id": "710109",
+    "name": "DOLODUO SATU"
+  },
+  {
+    "id": "7101092019",
+    "district_id": "710109",
+    "name": "DOLODUO DUA"
+  },
+  {
+    "id": "7101092020",
+    "district_id": "710109",
+    "name": "DOLODUO TIGA"
+  },
+  {
+    "id": "7101092022",
+    "district_id": "710109",
+    "name": "TORAUT TENGAH"
+  }
+]

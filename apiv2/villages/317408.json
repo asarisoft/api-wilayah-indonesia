@@ -1,1 +1,32 @@
-[{"id": "3174081001", "district_id": "317408", "name": "PANCORAN"}, {"id": "3174081002", "district_id": "317408", "name": "KALIBATA"}, {"id": "3174081003", "district_id": "317408", "name": "RAWAJATI"}, {"id": "3174081004", "district_id": "317408", "name": "DUREN TIGA"}, {"id": "3174081005", "district_id": "317408", "name": "PENGADEGAN"}, {"id": "3174081006", "district_id": "317408", "name": "CIKOKO"}]
+[
+  {
+    "id": "3174081001",
+    "district_id": "317408",
+    "name": "PANCORAN"
+  },
+  {
+    "id": "3174081002",
+    "district_id": "317408",
+    "name": "KALIBATA"
+  },
+  {
+    "id": "3174081003",
+    "district_id": "317408",
+    "name": "RAWAJATI"
+  },
+  {
+    "id": "3174081004",
+    "district_id": "317408",
+    "name": "DUREN TIGA"
+  },
+  {
+    "id": "3174081005",
+    "district_id": "317408",
+    "name": "PENGADEGAN"
+  },
+  {
+    "id": "3174081006",
+    "district_id": "317408",
+    "name": "CIKOKO"
+  }
+]

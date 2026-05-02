@@ -1,1 +1,37 @@
-[{"id": "6213102001", "district_id": "621310", "name": "DAYU"}, {"id": "6213102002", "district_id": "621310", "name": "WURAN"}, {"id": "6213102003", "district_id": "621310", "name": "IPU MEA"}, {"id": "6213102004", "district_id": "621310", "name": "LAGAN"}, {"id": "6213102005", "district_id": "621310", "name": "PUTUT TAWULUH"}, {"id": "6213102006", "district_id": "621310", "name": "SIMPANG NANENG"}, {"id": "6213102007", "district_id": "621310", "name": "KANDRIS"}]
+[
+  {
+    "id": "6213102001",
+    "district_id": "621310",
+    "name": "DAYU"
+  },
+  {
+    "id": "6213102002",
+    "district_id": "621310",
+    "name": "WURAN"
+  },
+  {
+    "id": "6213102003",
+    "district_id": "621310",
+    "name": "IPU MEA"
+  },
+  {
+    "id": "6213102004",
+    "district_id": "621310",
+    "name": "LAGAN"
+  },
+  {
+    "id": "6213102005",
+    "district_id": "621310",
+    "name": "PUTUT TAWULUH"
+  },
+  {
+    "id": "6213102006",
+    "district_id": "621310",
+    "name": "SIMPANG NANENG"
+  },
+  {
+    "id": "6213102007",
+    "district_id": "621310",
+    "name": "KANDRIS"
+  }
+]

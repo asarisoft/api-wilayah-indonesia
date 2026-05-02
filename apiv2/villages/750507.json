@@ -1,1 +1,52 @@
-[{"id": "7505072001", "district_id": "750507", "name": "DAMBALO"}, {"id": "7505072002", "district_id": "750507", "name": "MILANGO"}, {"id": "7505072003", "district_id": "750507", "name": "JEMBATAN MERAH"}, {"id": "7505072004", "district_id": "750507", "name": "BUBODE"}, {"id": "7505072005", "district_id": "750507", "name": "LEYAO"}, {"id": "7505072006", "district_id": "750507", "name": "MOLANTADU"}, {"id": "7505072007", "district_id": "750507", "name": "HUIDU MELITO"}, {"id": "7505072008", "district_id": "750507", "name": "BULANGO RAYA"}, {"id": "7505072009", "district_id": "750507", "name": "TANJUNG KARANG"}, {"id": "7505072010", "district_id": "750507", "name": "MUTIARA LAUT"}]
+[
+  {
+    "id": "7505072001",
+    "district_id": "750507",
+    "name": "DAMBALO"
+  },
+  {
+    "id": "7505072002",
+    "district_id": "750507",
+    "name": "MILANGO"
+  },
+  {
+    "id": "7505072003",
+    "district_id": "750507",
+    "name": "JEMBATAN MERAH"
+  },
+  {
+    "id": "7505072004",
+    "district_id": "750507",
+    "name": "BUBODE"
+  },
+  {
+    "id": "7505072005",
+    "district_id": "750507",
+    "name": "LEYAO"
+  },
+  {
+    "id": "7505072006",
+    "district_id": "750507",
+    "name": "MOLANTADU"
+  },
+  {
+    "id": "7505072007",
+    "district_id": "750507",
+    "name": "HUIDU MELITO"
+  },
+  {
+    "id": "7505072008",
+    "district_id": "750507",
+    "name": "BULANGO RAYA"
+  },
+  {
+    "id": "7505072009",
+    "district_id": "750507",
+    "name": "TANJUNG KARANG"
+  },
+  {
+    "id": "7505072010",
+    "district_id": "750507",
+    "name": "MUTIARA LAUT"
+  }
+]

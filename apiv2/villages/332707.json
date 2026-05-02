@@ -1,1 +1,92 @@
-[{"id": "3327072001", "district_id": "332707", "name": "KECEPIT"}, {"id": "3327072002", "district_id": "332707", "name": "GEMBYANG"}, {"id": "3327072003", "district_id": "332707", "name": "MEJAGONG"}, {"id": "3327072004", "district_id": "332707", "name": "PENUSUPAN"}, {"id": "3327072005", "district_id": "332707", "name": "BANJARANYAR"}, {"id": "3327072006", "district_id": "332707", "name": "RANDUDONGKAL"}, {"id": "3327072007", "district_id": "332707", "name": "KARANGMONCOL"}, {"id": "3327072008", "district_id": "332707", "name": "SEMINGKIR"}, {"id": "3327072009", "district_id": "332707", "name": "SEMAYA"}, {"id": "3327072010", "district_id": "332707", "name": "TANAHBAYA"}, {"id": "3327072011", "district_id": "332707", "name": "LODAYA"}, {"id": "3327072012", "district_id": "332707", "name": "REMBUL"}, {"id": "3327072013", "district_id": "332707", "name": "KREYO"}, {"id": "3327072014", "district_id": "332707", "name": "KALIMAS"}, {"id": "3327072015", "district_id": "332707", "name": "MANGLI"}, {"id": "3327072016", "district_id": "332707", "name": "KALITORONG"}, {"id": "3327072017", "district_id": "332707", "name": "KEJENE"}, {"id": "3327072018", "district_id": "332707", "name": "GONGSENG"}]
+[
+  {
+    "id": "3327072001",
+    "district_id": "332707",
+    "name": "KECEPIT"
+  },
+  {
+    "id": "3327072002",
+    "district_id": "332707",
+    "name": "GEMBYANG"
+  },
+  {
+    "id": "3327072003",
+    "district_id": "332707",
+    "name": "MEJAGONG"
+  },
+  {
+    "id": "3327072004",
+    "district_id": "332707",
+    "name": "PENUSUPAN"
+  },
+  {
+    "id": "3327072005",
+    "district_id": "332707",
+    "name": "BANJARANYAR"
+  },
+  {
+    "id": "3327072006",
+    "district_id": "332707",
+    "name": "RANDUDONGKAL"
+  },
+  {
+    "id": "3327072007",
+    "district_id": "332707",
+    "name": "KARANGMONCOL"
+  },
+  {
+    "id": "3327072008",
+    "district_id": "332707",
+    "name": "SEMINGKIR"
+  },
+  {
+    "id": "3327072009",
+    "district_id": "332707",
+    "name": "SEMAYA"
+  },
+  {
+    "id": "3327072010",
+    "district_id": "332707",
+    "name": "TANAHBAYA"
+  },
+  {
+    "id": "3327072011",
+    "district_id": "332707",
+    "name": "LODAYA"
+  },
+  {
+    "id": "3327072012",
+    "district_id": "332707",
+    "name": "REMBUL"
+  },
+  {
+    "id": "3327072013",
+    "district_id": "332707",
+    "name": "KREYO"
+  },
+  {
+    "id": "3327072014",
+    "district_id": "332707",
+    "name": "KALIMAS"
+  },
+  {
+    "id": "3327072015",
+    "district_id": "332707",
+    "name": "MANGLI"
+  },
+  {
+    "id": "3327072016",
+    "district_id": "332707",
+    "name": "KALITORONG"
+  },
+  {
+    "id": "3327072017",
+    "district_id": "332707",
+    "name": "KEJENE"
+  },
+  {
+    "id": "3327072018",
+    "district_id": "332707",
+    "name": "GONGSENG"
+  }
+]

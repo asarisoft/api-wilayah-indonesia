@@ -1,1 +1,72 @@
-[{"id": "3521062001", "district_id": "352106", "name": "KENDUNG"}, {"id": "3521062002", "district_id": "352106", "name": "DINDEN"}, {"id": "3521062003", "district_id": "352106", "name": "POJOK"}, {"id": "3521062004", "district_id": "352106", "name": "JENANGAN"}, {"id": "3521062005", "district_id": "352106", "name": "PURWOSARI"}, {"id": "3521062006", "district_id": "352106", "name": "TIRAK"}, {"id": "3521062007", "district_id": "352106", "name": "SUMENGKO"}, {"id": "3521062008", "district_id": "352106", "name": "SIMO"}, {"id": "3521062009", "district_id": "352106", "name": "WARUKKALONG"}, {"id": "3521062010", "district_id": "352106", "name": "KWADUNGAN"}, {"id": "3521062011", "district_id": "352106", "name": "BUDUG"}, {"id": "3521062012", "district_id": "352106", "name": "MOJOMANIS"}, {"id": "3521062013", "district_id": "352106", "name": "BANGET"}, {"id": "3521062014", "district_id": "352106", "name": "KARANGSONO"}]
+[
+  {
+    "id": "3521062001",
+    "district_id": "352106",
+    "name": "KENDUNG"
+  },
+  {
+    "id": "3521062002",
+    "district_id": "352106",
+    "name": "DINDEN"
+  },
+  {
+    "id": "3521062003",
+    "district_id": "352106",
+    "name": "POJOK"
+  },
+  {
+    "id": "3521062004",
+    "district_id": "352106",
+    "name": "JENANGAN"
+  },
+  {
+    "id": "3521062005",
+    "district_id": "352106",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "3521062006",
+    "district_id": "352106",
+    "name": "TIRAK"
+  },
+  {
+    "id": "3521062007",
+    "district_id": "352106",
+    "name": "SUMENGKO"
+  },
+  {
+    "id": "3521062008",
+    "district_id": "352106",
+    "name": "SIMO"
+  },
+  {
+    "id": "3521062009",
+    "district_id": "352106",
+    "name": "WARUKKALONG"
+  },
+  {
+    "id": "3521062010",
+    "district_id": "352106",
+    "name": "KWADUNGAN"
+  },
+  {
+    "id": "3521062011",
+    "district_id": "352106",
+    "name": "BUDUG"
+  },
+  {
+    "id": "3521062012",
+    "district_id": "352106",
+    "name": "MOJOMANIS"
+  },
+  {
+    "id": "3521062013",
+    "district_id": "352106",
+    "name": "BANGET"
+  },
+  {
+    "id": "3521062014",
+    "district_id": "352106",
+    "name": "KARANGSONO"
+  }
+]

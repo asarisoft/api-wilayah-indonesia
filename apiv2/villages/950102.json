@@ -1,1 +1,62 @@
-[{"id": "9501022001", "district_id": "950102", "name": "JIWIKA"}, {"id": "9501022002", "district_id": "950102", "name": "MULIMA"}, {"id": "9501022003", "district_id": "950102", "name": "WAGA-WAGA"}, {"id": "9501022004", "district_id": "950102", "name": "ABUSA"}, {"id": "9501022005", "district_id": "950102", "name": "ERAGAMA"}, {"id": "9501022006", "district_id": "950102", "name": "KUMIMA"}, {"id": "9501022007", "district_id": "950102", "name": "MENAGAIMA"}, {"id": "9501022008", "district_id": "950102", "name": "IYANTIK"}, {"id": "9501022009", "district_id": "950102", "name": "UMPAGALO"}, {"id": "9501022010", "district_id": "950102", "name": "HOPAMA"}, {"id": "9501022011", "district_id": "950102", "name": "OBYA"}, {"id": "9501022012", "district_id": "950102", "name": "UTKOLO SATU"}]
+[
+  {
+    "id": "9501022001",
+    "district_id": "950102",
+    "name": "JIWIKA"
+  },
+  {
+    "id": "9501022002",
+    "district_id": "950102",
+    "name": "MULIMA"
+  },
+  {
+    "id": "9501022003",
+    "district_id": "950102",
+    "name": "WAGA-WAGA"
+  },
+  {
+    "id": "9501022004",
+    "district_id": "950102",
+    "name": "ABUSA"
+  },
+  {
+    "id": "9501022005",
+    "district_id": "950102",
+    "name": "ERAGAMA"
+  },
+  {
+    "id": "9501022006",
+    "district_id": "950102",
+    "name": "KUMIMA"
+  },
+  {
+    "id": "9501022007",
+    "district_id": "950102",
+    "name": "MENAGAIMA"
+  },
+  {
+    "id": "9501022008",
+    "district_id": "950102",
+    "name": "IYANTIK"
+  },
+  {
+    "id": "9501022009",
+    "district_id": "950102",
+    "name": "UMPAGALO"
+  },
+  {
+    "id": "9501022010",
+    "district_id": "950102",
+    "name": "HOPAMA"
+  },
+  {
+    "id": "9501022011",
+    "district_id": "950102",
+    "name": "OBYA"
+  },
+  {
+    "id": "9501022012",
+    "district_id": "950102",
+    "name": "UTKOLO SATU"
+  }
+]

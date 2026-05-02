@@ -1,1 +1,162 @@
-[{"id": "1220071001", "district_id": "122007", "name": "SAYUR MATINGGI"}, {"id": "1220072002", "district_id": "122007", "name": "PANGKAL DOLOK LAMA"}, {"id": "1220072003", "district_id": "122007", "name": "PANGKAL DOLOK JULU"}, {"id": "1220072004", "district_id": "122007", "name": "PINTU PADANG"}, {"id": "1220072005", "district_id": "122007", "name": "BATANG ONANG LAMA"}, {"id": "1220072006", "district_id": "122007", "name": "BONAN DOLOK"}, {"id": "1220072007", "district_id": "122007", "name": "SIMARDONA"}, {"id": "1220072008", "district_id": "122007", "name": "BATANG ONANG BARU"}, {"id": "1220072009", "district_id": "122007", "name": "PARAU SORAT"}, {"id": "1220072010", "district_id": "122007", "name": "PASAR MATANGGOR"}, {"id": "1220072011", "district_id": "122007", "name": "BATU PULUT"}, {"id": "1220072012", "district_id": "122007", "name": "HUTA LAMBUNG"}, {"id": "1220072013", "district_id": "122007", "name": "GALANGGANG"}, {"id": "1220072014", "district_id": "122007", "name": "GUNUNGTUA TUMBU JATI"}, {"id": "1220072015", "district_id": "122007", "name": "GUNUNGTUA BATANG ONANG"}, {"id": "1220072016", "district_id": "122007", "name": "SIMANAPANG"}, {"id": "1220072017", "district_id": "122007", "name": "SIMANINGGIR"}, {"id": "1220072018", "district_id": "122007", "name": "BATU MAMAK"}, {"id": "1220072019", "district_id": "122007", "name": "PADANG GARUGUR"}, {"id": "1220072020", "district_id": "122007", "name": "PADANG MATINGGI"}, {"id": "1220072021", "district_id": "122007", "name": "PURBA TUA"}, {"id": "1220072022", "district_id": "122007", "name": "JANJI MAULI"}, {"id": "1220072023", "district_id": "122007", "name": "SAYUR MATINGGI JULU"}, {"id": "1220072024", "district_id": "122007", "name": "GUNUNG TUA JULU"}, {"id": "1220072025", "district_id": "122007", "name": "PASIR AMPOLU HOPONG"}, {"id": "1220072026", "district_id": "122007", "name": "PAGARAN BATU"}, {"id": "1220072027", "district_id": "122007", "name": "TAMOSU"}, {"id": "1220072028", "district_id": "122007", "name": "SIMANGAMBAT DOLOK"}, {"id": "1220072029", "district_id": "122007", "name": "JANJI MANAHAN"}, {"id": "1220072030", "district_id": "122007", "name": "PADANG BUJUR BARU"}, {"id": "1220072031", "district_id": "122007", "name": "BATU NANGGAR"}, {"id": "1220072032", "district_id": "122007", "name": "MORANG"}]
+[
+  {
+    "id": "1220071001",
+    "district_id": "122007",
+    "name": "SAYUR MATINGGI"
+  },
+  {
+    "id": "1220072002",
+    "district_id": "122007",
+    "name": "PANGKAL DOLOK LAMA"
+  },
+  {
+    "id": "1220072003",
+    "district_id": "122007",
+    "name": "PANGKAL DOLOK JULU"
+  },
+  {
+    "id": "1220072004",
+    "district_id": "122007",
+    "name": "PINTU PADANG"
+  },
+  {
+    "id": "1220072005",
+    "district_id": "122007",
+    "name": "BATANG ONANG LAMA"
+  },
+  {
+    "id": "1220072006",
+    "district_id": "122007",
+    "name": "BONAN DOLOK"
+  },
+  {
+    "id": "1220072007",
+    "district_id": "122007",
+    "name": "SIMARDONA"
+  },
+  {
+    "id": "1220072008",
+    "district_id": "122007",
+    "name": "BATANG ONANG BARU"
+  },
+  {
+    "id": "1220072009",
+    "district_id": "122007",
+    "name": "PARAU SORAT"
+  },
+  {
+    "id": "1220072010",
+    "district_id": "122007",
+    "name": "PASAR MATANGGOR"
+  },
+  {
+    "id": "1220072011",
+    "district_id": "122007",
+    "name": "BATU PULUT"
+  },
+  {
+    "id": "1220072012",
+    "district_id": "122007",
+    "name": "HUTA LAMBUNG"
+  },
+  {
+    "id": "1220072013",
+    "district_id": "122007",
+    "name": "GALANGGANG"
+  },
+  {
+    "id": "1220072014",
+    "district_id": "122007",
+    "name": "GUNUNGTUA TUMBU JATI"
+  },
+  {
+    "id": "1220072015",
+    "district_id": "122007",
+    "name": "GUNUNGTUA BATANG ONANG"
+  },
+  {
+    "id": "1220072016",
+    "district_id": "122007",
+    "name": "SIMANAPANG"
+  },
+  {
+    "id": "1220072017",
+    "district_id": "122007",
+    "name": "SIMANINGGIR"
+  },
+  {
+    "id": "1220072018",
+    "district_id": "122007",
+    "name": "BATU MAMAK"
+  },
+  {
+    "id": "1220072019",
+    "district_id": "122007",
+    "name": "PADANG GARUGUR"
+  },
+  {
+    "id": "1220072020",
+    "district_id": "122007",
+    "name": "PADANG MATINGGI"
+  },
+  {
+    "id": "1220072021",
+    "district_id": "122007",
+    "name": "PURBA TUA"
+  },
+  {
+    "id": "1220072022",
+    "district_id": "122007",
+    "name": "JANJI MAULI"
+  },
+  {
+    "id": "1220072023",
+    "district_id": "122007",
+    "name": "SAYUR MATINGGI JULU"
+  },
+  {
+    "id": "1220072024",
+    "district_id": "122007",
+    "name": "GUNUNG TUA JULU"
+  },
+  {
+    "id": "1220072025",
+    "district_id": "122007",
+    "name": "PASIR AMPOLU HOPONG"
+  },
+  {
+    "id": "1220072026",
+    "district_id": "122007",
+    "name": "PAGARAN BATU"
+  },
+  {
+    "id": "1220072027",
+    "district_id": "122007",
+    "name": "TAMOSU"
+  },
+  {
+    "id": "1220072028",
+    "district_id": "122007",
+    "name": "SIMANGAMBAT DOLOK"
+  },
+  {
+    "id": "1220072029",
+    "district_id": "122007",
+    "name": "JANJI MANAHAN"
+  },
+  {
+    "id": "1220072030",
+    "district_id": "122007",
+    "name": "PADANG BUJUR BARU"
+  },
+  {
+    "id": "1220072031",
+    "district_id": "122007",
+    "name": "BATU NANGGAR"
+  },
+  {
+    "id": "1220072032",
+    "district_id": "122007",
+    "name": "MORANG"
+  }
+]

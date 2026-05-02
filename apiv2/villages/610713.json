@@ -1,1 +1,27 @@
-[{"id": "6107132001", "district_id": "610713", "name": "MAGMAGAN KARYA"}, {"id": "6107132002", "district_id": "610713", "name": "TIGA BERKAT"}, {"id": "6107132003", "district_id": "610713", "name": "SEREN SELIMBAU"}, {"id": "6107132004", "district_id": "610713", "name": "BELIMBING"}, {"id": "6107132005", "district_id": "610713", "name": "LAMOLDA"}]
+[
+  {
+    "id": "6107132001",
+    "district_id": "610713",
+    "name": "MAGMAGAN KARYA"
+  },
+  {
+    "id": "6107132002",
+    "district_id": "610713",
+    "name": "TIGA BERKAT"
+  },
+  {
+    "id": "6107132003",
+    "district_id": "610713",
+    "name": "SEREN SELIMBAU"
+  },
+  {
+    "id": "6107132004",
+    "district_id": "610713",
+    "name": "BELIMBING"
+  },
+  {
+    "id": "6107132005",
+    "district_id": "610713",
+    "name": "LAMOLDA"
+  }
+]

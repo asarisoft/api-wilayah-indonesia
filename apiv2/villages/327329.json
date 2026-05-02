@@ -1,1 +1,22 @@
-[{"id": "3273291001", "district_id": "327329", "name": "CISARANTEN WETAN"}, {"id": "3273291002", "district_id": "327329", "name": "PAKEMITAN"}, {"id": "3273291003", "district_id": "327329", "name": "SUKAMULYA"}, {"id": "3273291004", "district_id": "327329", "name": "BABAKAN PENGHULU"}]
+[
+  {
+    "id": "3273291001",
+    "district_id": "327329",
+    "name": "CISARANTEN WETAN"
+  },
+  {
+    "id": "3273291002",
+    "district_id": "327329",
+    "name": "PAKEMITAN"
+  },
+  {
+    "id": "3273291003",
+    "district_id": "327329",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3273291004",
+    "district_id": "327329",
+    "name": "BABAKAN PENGHULU"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3522242001", "district_id": "352224", "name": "SEMAWOT"}, {"id": "3522242002", "district_id": "352224", "name": "KALICILIK"}, {"id": "3522242003", "district_id": "352224", "name": "SUKOSEWU"}, {"id": "3522242004", "district_id": "352224", "name": "KLEPEK"}, {"id": "3522242005", "district_id": "352224", "name": "TEGALKODO"}, {"id": "3522242006", "district_id": "352224", "name": "SITIAJI"}, {"id": "3522242007", "district_id": "352224", "name": "PURWOASRI"}, {"id": "3522242008", "district_id": "352224", "name": "PACING"}, {"id": "3522242009", "district_id": "352224", "name": "JUMPUT"}, {"id": "3522242010", "district_id": "352224", "name": "DUYUNGAN"}, {"id": "3522242011", "district_id": "352224", "name": "SEMENKIDUL"}, {"id": "3522242012", "district_id": "352224", "name": "SIDODADI"}, {"id": "3522242013", "district_id": "352224", "name": "SIDOREJO"}, {"id": "3522242014", "district_id": "352224", "name": "SUMBERJOKIDUL"}]
+[
+  {
+    "id": "3522242001",
+    "district_id": "352224",
+    "name": "SEMAWOT"
+  },
+  {
+    "id": "3522242002",
+    "district_id": "352224",
+    "name": "KALICILIK"
+  },
+  {
+    "id": "3522242003",
+    "district_id": "352224",
+    "name": "SUKOSEWU"
+  },
+  {
+    "id": "3522242004",
+    "district_id": "352224",
+    "name": "KLEPEK"
+  },
+  {
+    "id": "3522242005",
+    "district_id": "352224",
+    "name": "TEGALKODO"
+  },
+  {
+    "id": "3522242006",
+    "district_id": "352224",
+    "name": "SITIAJI"
+  },
+  {
+    "id": "3522242007",
+    "district_id": "352224",
+    "name": "PURWOASRI"
+  },
+  {
+    "id": "3522242008",
+    "district_id": "352224",
+    "name": "PACING"
+  },
+  {
+    "id": "3522242009",
+    "district_id": "352224",
+    "name": "JUMPUT"
+  },
+  {
+    "id": "3522242010",
+    "district_id": "352224",
+    "name": "DUYUNGAN"
+  },
+  {
+    "id": "3522242011",
+    "district_id": "352224",
+    "name": "SEMENKIDUL"
+  },
+  {
+    "id": "3522242012",
+    "district_id": "352224",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "3522242013",
+    "district_id": "352224",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3522242014",
+    "district_id": "352224",
+    "name": "SUMBERJOKIDUL"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "1607152001", "district_id": "160715", "name": "BENTAYAN"}, {"id": "1607152002", "district_id": "160715", "name": "TELUK TENGGULANG"}, {"id": "1607152004", "district_id": "160715", "name": "SUKA MULYA"}, {"id": "1607152005", "district_id": "160715", "name": "SUKA RAJA"}, {"id": "1607152006", "district_id": "160715", "name": "KARANG ANYAR"}, {"id": "1607152007", "district_id": "160715", "name": "KARANG ASEM"}, {"id": "1607152008", "district_id": "160715", "name": "MARGA RAHAYU"}, {"id": "1607152009", "district_id": "160715", "name": "SIDO MULYO"}, {"id": "1607152010", "district_id": "160715", "name": "KELUANG"}, {"id": "1607152011", "district_id": "160715", "name": "BUMI SERDANG"}, {"id": "1607152012", "district_id": "160715", "name": "KARANG MULYA"}, {"id": "1607152013", "district_id": "160715", "name": "SUKA KARYA"}, {"id": "1607152014", "district_id": "160715", "name": "PANCA MULYA"}, {"id": "1607152015", "district_id": "160715", "name": "SUKA JAYA"}]
+[
+  {
+    "id": "1607152001",
+    "district_id": "160715",
+    "name": "BENTAYAN"
+  },
+  {
+    "id": "1607152002",
+    "district_id": "160715",
+    "name": "TELUK TENGGULANG"
+  },
+  {
+    "id": "1607152004",
+    "district_id": "160715",
+    "name": "SUKA MULYA"
+  },
+  {
+    "id": "1607152005",
+    "district_id": "160715",
+    "name": "SUKA RAJA"
+  },
+  {
+    "id": "1607152006",
+    "district_id": "160715",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1607152007",
+    "district_id": "160715",
+    "name": "KARANG ASEM"
+  },
+  {
+    "id": "1607152008",
+    "district_id": "160715",
+    "name": "MARGA RAHAYU"
+  },
+  {
+    "id": "1607152009",
+    "district_id": "160715",
+    "name": "SIDO MULYO"
+  },
+  {
+    "id": "1607152010",
+    "district_id": "160715",
+    "name": "KELUANG"
+  },
+  {
+    "id": "1607152011",
+    "district_id": "160715",
+    "name": "BUMI SERDANG"
+  },
+  {
+    "id": "1607152012",
+    "district_id": "160715",
+    "name": "KARANG MULYA"
+  },
+  {
+    "id": "1607152013",
+    "district_id": "160715",
+    "name": "SUKA KARYA"
+  },
+  {
+    "id": "1607152014",
+    "district_id": "160715",
+    "name": "PANCA MULYA"
+  },
+  {
+    "id": "1607152015",
+    "district_id": "160715",
+    "name": "SUKA JAYA"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "8103062001", "district_id": "810306", "name": "ROMEAN"}, {"id": "8103062002", "district_id": "810306", "name": "RUMNGEUR"}, {"id": "8103062003", "district_id": "810306", "name": "AWEAR"}, {"id": "8103062004", "district_id": "810306", "name": "SOFYANIN"}, {"id": "8103062005", "district_id": "810306", "name": "WALERANG"}, {"id": "8103062006", "district_id": "810306", "name": "ADODO FORDATA"}]
+[
+  {
+    "id": "8103062001",
+    "district_id": "810306",
+    "name": "ROMEAN"
+  },
+  {
+    "id": "8103062002",
+    "district_id": "810306",
+    "name": "RUMNGEUR"
+  },
+  {
+    "id": "8103062003",
+    "district_id": "810306",
+    "name": "AWEAR"
+  },
+  {
+    "id": "8103062004",
+    "district_id": "810306",
+    "name": "SOFYANIN"
+  },
+  {
+    "id": "8103062005",
+    "district_id": "810306",
+    "name": "WALERANG"
+  },
+  {
+    "id": "8103062006",
+    "district_id": "810306",
+    "name": "ADODO FORDATA"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3526031005", "district_id": "352603", "name": "TUNJUNG"}, {"id": "3526032001", "district_id": "352603", "name": "BURNEH"}, {"id": "3526032002", "district_id": "352603", "name": "LANGKAP"}, {"id": "3526032003", "district_id": "352603", "name": "BANANGKAH"}, {"id": "3526032004", "district_id": "352603", "name": "ALASKEMBANG"}, {"id": "3526032006", "district_id": "352603", "name": "AROK"}, {"id": "3526032007", "district_id": "352603", "name": "KAPOR"}, {"id": "3526032008", "district_id": "352603", "name": "SOBIH"}, {"id": "3526032009", "district_id": "352603", "name": "PANGOLANGAN"}, {"id": "3526032010", "district_id": "352603", "name": "BINOH"}, {"id": "3526032011", "district_id": "352603", "name": "PERRENG"}, {"id": "3526032012", "district_id": "352603", "name": "JAMBUH"}]
+[
+  {
+    "id": "3526031005",
+    "district_id": "352603",
+    "name": "TUNJUNG"
+  },
+  {
+    "id": "3526032001",
+    "district_id": "352603",
+    "name": "BURNEH"
+  },
+  {
+    "id": "3526032002",
+    "district_id": "352603",
+    "name": "LANGKAP"
+  },
+  {
+    "id": "3526032003",
+    "district_id": "352603",
+    "name": "BANANGKAH"
+  },
+  {
+    "id": "3526032004",
+    "district_id": "352603",
+    "name": "ALASKEMBANG"
+  },
+  {
+    "id": "3526032006",
+    "district_id": "352603",
+    "name": "AROK"
+  },
+  {
+    "id": "3526032007",
+    "district_id": "352603",
+    "name": "KAPOR"
+  },
+  {
+    "id": "3526032008",
+    "district_id": "352603",
+    "name": "SOBIH"
+  },
+  {
+    "id": "3526032009",
+    "district_id": "352603",
+    "name": "PANGOLANGAN"
+  },
+  {
+    "id": "3526032010",
+    "district_id": "352603",
+    "name": "BINOH"
+  },
+  {
+    "id": "3526032011",
+    "district_id": "352603",
+    "name": "PERRENG"
+  },
+  {
+    "id": "3526032012",
+    "district_id": "352603",
+    "name": "JAMBUH"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "1603021006", "district_id": "160302", "name": "TUNGKAL"}, {"id": "1603021007", "district_id": "160302", "name": "PASAR II MUARA ENIM"}, {"id": "1603021008", "district_id": "160302", "name": "PASAR III MUARA ENIM"}, {"id": "1603021009", "district_id": "160302", "name": "PASAR I MUARA ENIM"}, {"id": "1603021010", "district_id": "160302", "name": "MUARA ENIM"}, {"id": "1603021016", "district_id": "160302", "name": "AIR LINTANG"}, {"id": "1603022001", "district_id": "160302", "name": "TANJUNG RAJA"}, {"id": "1603022002", "district_id": "160302", "name": "KARANG RAJA"}, {"id": "1603022003", "district_id": "160302", "name": "MUARA LAWAI"}, {"id": "1603022004", "district_id": "160302", "name": "TANJUNG JATI"}, {"id": "1603022005", "district_id": "160302", "name": "LUBUK EMPLAS"}, {"id": "1603022011", "district_id": "160302", "name": "KEPUR"}, {"id": "1603022012", "district_id": "160302", "name": "TANJUNG SERIAN"}, {"id": "1603022013", "district_id": "160302", "name": "MUARA HARAPAN"}, {"id": "1603022014", "district_id": "160302", "name": "SAKA JAYA"}, {"id": "1603022015", "district_id": "160302", "name": "HARAPAN JAYA"}]
+[
+  {
+    "id": "1603021006",
+    "district_id": "160302",
+    "name": "TUNGKAL"
+  },
+  {
+    "id": "1603021007",
+    "district_id": "160302",
+    "name": "PASAR II MUARA ENIM"
+  },
+  {
+    "id": "1603021008",
+    "district_id": "160302",
+    "name": "PASAR III MUARA ENIM"
+  },
+  {
+    "id": "1603021009",
+    "district_id": "160302",
+    "name": "PASAR I MUARA ENIM"
+  },
+  {
+    "id": "1603021010",
+    "district_id": "160302",
+    "name": "MUARA ENIM"
+  },
+  {
+    "id": "1603021016",
+    "district_id": "160302",
+    "name": "AIR LINTANG"
+  },
+  {
+    "id": "1603022001",
+    "district_id": "160302",
+    "name": "TANJUNG RAJA"
+  },
+  {
+    "id": "1603022002",
+    "district_id": "160302",
+    "name": "KARANG RAJA"
+  },
+  {
+    "id": "1603022003",
+    "district_id": "160302",
+    "name": "MUARA LAWAI"
+  },
+  {
+    "id": "1603022004",
+    "district_id": "160302",
+    "name": "TANJUNG JATI"
+  },
+  {
+    "id": "1603022005",
+    "district_id": "160302",
+    "name": "LUBUK EMPLAS"
+  },
+  {
+    "id": "1603022011",
+    "district_id": "160302",
+    "name": "KEPUR"
+  },
+  {
+    "id": "1603022012",
+    "district_id": "160302",
+    "name": "TANJUNG SERIAN"
+  },
+  {
+    "id": "1603022013",
+    "district_id": "160302",
+    "name": "MUARA HARAPAN"
+  },
+  {
+    "id": "1603022014",
+    "district_id": "160302",
+    "name": "SAKA JAYA"
+  },
+  {
+    "id": "1603022015",
+    "district_id": "160302",
+    "name": "HARAPAN JAYA"
+  }
+]

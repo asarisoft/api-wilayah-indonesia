@@ -1,1 +1,77 @@
-[{"id": "5203082001", "district_id": "520308", "name": "BAGIK PAPAN"}, {"id": "5203082002", "district_id": "520308", "name": "APIT AIK"}, {"id": "5203082003", "district_id": "520308", "name": "KERUMUT"}, {"id": "5203082004", "district_id": "520308", "name": "POHGADING"}, {"id": "5203082005", "district_id": "520308", "name": "BATUYANG"}, {"id": "5203082006", "district_id": "520308", "name": "PRINGGABAYA"}, {"id": "5203082007", "district_id": "520308", "name": "LABUHAN LOMBOK"}, {"id": "5203082008", "district_id": "520308", "name": "PRINGGABAYA UTARA"}, {"id": "5203082009", "district_id": "520308", "name": "POHGADING TIMUR"}, {"id": "5203082010", "district_id": "520308", "name": "TEKO"}, {"id": "5203082011", "district_id": "520308", "name": "ANGGARAKSA"}, {"id": "5203082012", "district_id": "520308", "name": "TANAK GADANG"}, {"id": "5203082013", "district_id": "520308", "name": "GUNUNG MALANG"}, {"id": "5203082014", "district_id": "520308", "name": "SERUNI MUMBUL"}, {"id": "5203082015", "district_id": "520308", "name": "TELAGA WARU"}]
+[
+  {
+    "id": "5203082001",
+    "district_id": "520308",
+    "name": "BAGIK PAPAN"
+  },
+  {
+    "id": "5203082002",
+    "district_id": "520308",
+    "name": "APIT AIK"
+  },
+  {
+    "id": "5203082003",
+    "district_id": "520308",
+    "name": "KERUMUT"
+  },
+  {
+    "id": "5203082004",
+    "district_id": "520308",
+    "name": "POHGADING"
+  },
+  {
+    "id": "5203082005",
+    "district_id": "520308",
+    "name": "BATUYANG"
+  },
+  {
+    "id": "5203082006",
+    "district_id": "520308",
+    "name": "PRINGGABAYA"
+  },
+  {
+    "id": "5203082007",
+    "district_id": "520308",
+    "name": "LABUHAN LOMBOK"
+  },
+  {
+    "id": "5203082008",
+    "district_id": "520308",
+    "name": "PRINGGABAYA UTARA"
+  },
+  {
+    "id": "5203082009",
+    "district_id": "520308",
+    "name": "POHGADING TIMUR"
+  },
+  {
+    "id": "5203082010",
+    "district_id": "520308",
+    "name": "TEKO"
+  },
+  {
+    "id": "5203082011",
+    "district_id": "520308",
+    "name": "ANGGARAKSA"
+  },
+  {
+    "id": "5203082012",
+    "district_id": "520308",
+    "name": "TANAK GADANG"
+  },
+  {
+    "id": "5203082013",
+    "district_id": "520308",
+    "name": "GUNUNG MALANG"
+  },
+  {
+    "id": "5203082014",
+    "district_id": "520308",
+    "name": "SERUNI MUMBUL"
+  },
+  {
+    "id": "5203082015",
+    "district_id": "520308",
+    "name": "TELAGA WARU"
+  }
+]

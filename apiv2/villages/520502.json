@@ -1,1 +1,42 @@
-[{"id": "5205022001", "district_id": "520502", "name": "KEMPO"}, {"id": "5205022002", "district_id": "520502", "name": "TA'A"}, {"id": "5205022003", "district_id": "520502", "name": "SORO"}, {"id": "5205022004", "district_id": "520502", "name": "KONTE"}, {"id": "5205022005", "district_id": "520502", "name": "TOLO KALO"}, {"id": "5205022006", "district_id": "520502", "name": "SONGGAJA"}, {"id": "5205022007", "district_id": "520502", "name": "DORO KOBO"}, {"id": "5205022008", "district_id": "520502", "name": "SORO BARAT"}]
+[
+  {
+    "id": "5205022001",
+    "district_id": "520502",
+    "name": "KEMPO"
+  },
+  {
+    "id": "5205022002",
+    "district_id": "520502",
+    "name": "TA'A"
+  },
+  {
+    "id": "5205022003",
+    "district_id": "520502",
+    "name": "SORO"
+  },
+  {
+    "id": "5205022004",
+    "district_id": "520502",
+    "name": "KONTE"
+  },
+  {
+    "id": "5205022005",
+    "district_id": "520502",
+    "name": "TOLO KALO"
+  },
+  {
+    "id": "5205022006",
+    "district_id": "520502",
+    "name": "SONGGAJA"
+  },
+  {
+    "id": "5205022007",
+    "district_id": "520502",
+    "name": "DORO KOBO"
+  },
+  {
+    "id": "5205022008",
+    "district_id": "520502",
+    "name": "SORO BARAT"
+  }
+]

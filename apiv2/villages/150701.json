@@ -1,1 +1,62 @@
-[{"id": "1507011010", "district_id": "150701", "name": "MUARA SABAK ILIR"}, {"id": "1507011013", "district_id": "150701", "name": "MUARA SABAK ULU"}, {"id": "1507012001", "district_id": "150701", "name": "ALANG-ALANG"}, {"id": "1507012002", "district_id": "150701", "name": "LAMBUR"}, {"id": "1507012004", "district_id": "150701", "name": "SIMBUR NAIK"}, {"id": "1507012011", "district_id": "150701", "name": "LAMBUR I"}, {"id": "1507012012", "district_id": "150701", "name": "LAMBUR II"}, {"id": "1507012014", "district_id": "150701", "name": "KOTA RAJA"}, {"id": "1507012015", "district_id": "150701", "name": "SIAU DALAM"}, {"id": "1507012016", "district_id": "150701", "name": "SUNGAI ULAR"}, {"id": "1507012017", "district_id": "150701", "name": "KOTA HARAPAN"}, {"id": "1507012018", "district_id": "150701", "name": "KUALA SIMBUR"}]
+[
+  {
+    "id": "1507011010",
+    "district_id": "150701",
+    "name": "MUARA SABAK ILIR"
+  },
+  {
+    "id": "1507011013",
+    "district_id": "150701",
+    "name": "MUARA SABAK ULU"
+  },
+  {
+    "id": "1507012001",
+    "district_id": "150701",
+    "name": "ALANG-ALANG"
+  },
+  {
+    "id": "1507012002",
+    "district_id": "150701",
+    "name": "LAMBUR"
+  },
+  {
+    "id": "1507012004",
+    "district_id": "150701",
+    "name": "SIMBUR NAIK"
+  },
+  {
+    "id": "1507012011",
+    "district_id": "150701",
+    "name": "LAMBUR I"
+  },
+  {
+    "id": "1507012012",
+    "district_id": "150701",
+    "name": "LAMBUR II"
+  },
+  {
+    "id": "1507012014",
+    "district_id": "150701",
+    "name": "KOTA RAJA"
+  },
+  {
+    "id": "1507012015",
+    "district_id": "150701",
+    "name": "SIAU DALAM"
+  },
+  {
+    "id": "1507012016",
+    "district_id": "150701",
+    "name": "SUNGAI ULAR"
+  },
+  {
+    "id": "1507012017",
+    "district_id": "150701",
+    "name": "KOTA HARAPAN"
+  },
+  {
+    "id": "1507012018",
+    "district_id": "150701",
+    "name": "KUALA SIMBUR"
+  }
+]

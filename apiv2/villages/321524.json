@@ -1,1 +1,62 @@
-[{"id": "3215242001", "district_id": "321524", "name": "GEMBONGAN"}, {"id": "3215242002", "district_id": "321524", "name": "GEMPOL"}, {"id": "3215242003", "district_id": "321524", "name": "GEMPOL KOLOT"}, {"id": "3215242004", "district_id": "321524", "name": "BANYUASIH"}, {"id": "3215242005", "district_id": "321524", "name": "KERTARAHARJA"}, {"id": "3215242006", "district_id": "321524", "name": "TANJUNG"}, {"id": "3215242007", "district_id": "321524", "name": "JAYAMUKTI"}, {"id": "3215242008", "district_id": "321524", "name": "CICINDE UTARA"}, {"id": "3215242009", "district_id": "321524", "name": "CICINDE SELATAN"}, {"id": "3215242010", "district_id": "321524", "name": "MEKARASIH"}, {"id": "3215242011", "district_id": "321524", "name": "TALUNJAYA"}, {"id": "3215242012", "district_id": "321524", "name": "PAMEKARAN"}]
+[
+  {
+    "id": "3215242001",
+    "district_id": "321524",
+    "name": "GEMBONGAN"
+  },
+  {
+    "id": "3215242002",
+    "district_id": "321524",
+    "name": "GEMPOL"
+  },
+  {
+    "id": "3215242003",
+    "district_id": "321524",
+    "name": "GEMPOL KOLOT"
+  },
+  {
+    "id": "3215242004",
+    "district_id": "321524",
+    "name": "BANYUASIH"
+  },
+  {
+    "id": "3215242005",
+    "district_id": "321524",
+    "name": "KERTARAHARJA"
+  },
+  {
+    "id": "3215242006",
+    "district_id": "321524",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "3215242007",
+    "district_id": "321524",
+    "name": "JAYAMUKTI"
+  },
+  {
+    "id": "3215242008",
+    "district_id": "321524",
+    "name": "CICINDE UTARA"
+  },
+  {
+    "id": "3215242009",
+    "district_id": "321524",
+    "name": "CICINDE SELATAN"
+  },
+  {
+    "id": "3215242010",
+    "district_id": "321524",
+    "name": "MEKARASIH"
+  },
+  {
+    "id": "3215242011",
+    "district_id": "321524",
+    "name": "TALUNJAYA"
+  },
+  {
+    "id": "3215242012",
+    "district_id": "321524",
+    "name": "PAMEKARAN"
+  }
+]

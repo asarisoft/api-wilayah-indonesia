@@ -1,1 +1,77 @@
-[{"id": "5102062001", "district_id": "510206", "name": "BENGKEL"}, {"id": "5102062002", "district_id": "510206", "name": "PANGKUNG TIBAH"}, {"id": "5102062003", "district_id": "510206", "name": "BELALANG"}, {"id": "5102062004", "district_id": "510206", "name": "BERABAN"}, {"id": "5102062005", "district_id": "510206", "name": "BUWIT"}, {"id": "5102062006", "district_id": "510206", "name": "CEPAKA"}, {"id": "5102062007", "district_id": "510206", "name": "KABA-KABA"}, {"id": "5102062008", "district_id": "510206", "name": "NYAMBU"}, {"id": "5102062009", "district_id": "510206", "name": "PANDAK BANDUNG"}, {"id": "5102062010", "district_id": "510206", "name": "PANDAK GEDE"}, {"id": "5102062011", "district_id": "510206", "name": "NYITDAH"}, {"id": "5102062012", "district_id": "510206", "name": "PEJATEN"}, {"id": "5102062013", "district_id": "510206", "name": "KEDIRI"}, {"id": "5102062014", "district_id": "510206", "name": "ABIAN TUWUNG"}, {"id": "5102062015", "district_id": "510206", "name": "BANJAR ANYAR"}]
+[
+  {
+    "id": "5102062001",
+    "district_id": "510206",
+    "name": "BENGKEL"
+  },
+  {
+    "id": "5102062002",
+    "district_id": "510206",
+    "name": "PANGKUNG TIBAH"
+  },
+  {
+    "id": "5102062003",
+    "district_id": "510206",
+    "name": "BELALANG"
+  },
+  {
+    "id": "5102062004",
+    "district_id": "510206",
+    "name": "BERABAN"
+  },
+  {
+    "id": "5102062005",
+    "district_id": "510206",
+    "name": "BUWIT"
+  },
+  {
+    "id": "5102062006",
+    "district_id": "510206",
+    "name": "CEPAKA"
+  },
+  {
+    "id": "5102062007",
+    "district_id": "510206",
+    "name": "KABA-KABA"
+  },
+  {
+    "id": "5102062008",
+    "district_id": "510206",
+    "name": "NYAMBU"
+  },
+  {
+    "id": "5102062009",
+    "district_id": "510206",
+    "name": "PANDAK BANDUNG"
+  },
+  {
+    "id": "5102062010",
+    "district_id": "510206",
+    "name": "PANDAK GEDE"
+  },
+  {
+    "id": "5102062011",
+    "district_id": "510206",
+    "name": "NYITDAH"
+  },
+  {
+    "id": "5102062012",
+    "district_id": "510206",
+    "name": "PEJATEN"
+  },
+  {
+    "id": "5102062013",
+    "district_id": "510206",
+    "name": "KEDIRI"
+  },
+  {
+    "id": "5102062014",
+    "district_id": "510206",
+    "name": "ABIAN TUWUNG"
+  },
+  {
+    "id": "5102062015",
+    "district_id": "510206",
+    "name": "BANJAR ANYAR"
+  }
+]

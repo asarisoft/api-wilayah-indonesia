@@ -1,1 +1,82 @@
-[{"id": "3206272001", "district_id": "320627", "name": "KERSAMAJU"}, {"id": "3206272002", "district_id": "320627", "name": "NANGTANG"}, {"id": "3206272003", "district_id": "320627", "name": "PUSPARAJA"}, {"id": "3206272004", "district_id": "320627", "name": "JAYAPURA"}, {"id": "3206272005", "district_id": "320627", "name": "LENGKONGJAYA"}, {"id": "3206272006", "district_id": "320627", "name": "NANGGERANG"}, {"id": "3206272007", "district_id": "320627", "name": "SUKAMANAH"}, {"id": "3206272008", "district_id": "320627", "name": "SIRNARAJA"}, {"id": "3206272009", "district_id": "320627", "name": "CIDUGALEUN"}, {"id": "3206272010", "district_id": "320627", "name": "PARENTAS"}, {"id": "3206272011", "district_id": "320627", "name": "PUSPAMUKTI"}, {"id": "3206272012", "district_id": "320627", "name": "TENJONAGARA"}, {"id": "3206272013", "district_id": "320627", "name": "CIGALONTANG"}, {"id": "3206272014", "district_id": "320627", "name": "SIRNAGALIH"}, {"id": "3206272015", "district_id": "320627", "name": "TANJUNGKARANG"}, {"id": "3206272016", "district_id": "320627", "name": "SIRNAPUTRA"}]
+[
+  {
+    "id": "3206272001",
+    "district_id": "320627",
+    "name": "KERSAMAJU"
+  },
+  {
+    "id": "3206272002",
+    "district_id": "320627",
+    "name": "NANGTANG"
+  },
+  {
+    "id": "3206272003",
+    "district_id": "320627",
+    "name": "PUSPARAJA"
+  },
+  {
+    "id": "3206272004",
+    "district_id": "320627",
+    "name": "JAYAPURA"
+  },
+  {
+    "id": "3206272005",
+    "district_id": "320627",
+    "name": "LENGKONGJAYA"
+  },
+  {
+    "id": "3206272006",
+    "district_id": "320627",
+    "name": "NANGGERANG"
+  },
+  {
+    "id": "3206272007",
+    "district_id": "320627",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3206272008",
+    "district_id": "320627",
+    "name": "SIRNARAJA"
+  },
+  {
+    "id": "3206272009",
+    "district_id": "320627",
+    "name": "CIDUGALEUN"
+  },
+  {
+    "id": "3206272010",
+    "district_id": "320627",
+    "name": "PARENTAS"
+  },
+  {
+    "id": "3206272011",
+    "district_id": "320627",
+    "name": "PUSPAMUKTI"
+  },
+  {
+    "id": "3206272012",
+    "district_id": "320627",
+    "name": "TENJONAGARA"
+  },
+  {
+    "id": "3206272013",
+    "district_id": "320627",
+    "name": "CIGALONTANG"
+  },
+  {
+    "id": "3206272014",
+    "district_id": "320627",
+    "name": "SIRNAGALIH"
+  },
+  {
+    "id": "3206272015",
+    "district_id": "320627",
+    "name": "TANJUNGKARANG"
+  },
+  {
+    "id": "3206272016",
+    "district_id": "320627",
+    "name": "SIRNAPUTRA"
+  }
+]

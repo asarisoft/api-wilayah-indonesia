@@ -1,1 +1,102 @@
-[{"id": "3516032001", "district_id": "351603", "name": "KEMIRI"}, {"id": "3516032002", "district_id": "351603", "name": "WIYU"}, {"id": "3516032003", "district_id": "351603", "name": "KESIMANTENGAH"}, {"id": "3516032004", "district_id": "351603", "name": "SAJEN"}, {"id": "3516032005", "district_id": "351603", "name": "PACET"}, {"id": "3516032006", "district_id": "351603", "name": "PADUSAN"}, {"id": "3516032007", "district_id": "351603", "name": "CEPOKOLIMO"}, {"id": "3516032008", "district_id": "351603", "name": "CLAKET"}, {"id": "3516032009", "district_id": "351603", "name": "CEMBOR"}, {"id": "3516032010", "district_id": "351603", "name": "NOGOSARI"}, {"id": "3516032011", "district_id": "351603", "name": "KEMBANGBELOR"}, {"id": "3516032012", "district_id": "351603", "name": "MOJOKEMBANG"}, {"id": "3516032013", "district_id": "351603", "name": "BENDUNGANJATI"}, {"id": "3516032014", "district_id": "351603", "name": "PETAK"}, {"id": "3516032015", "district_id": "351603", "name": "CANDIWATU"}, {"id": "3516032016", "district_id": "351603", "name": "WARUGUNUNG"}, {"id": "3516032017", "district_id": "351603", "name": "TANJUNGKENONGO"}, {"id": "3516032018", "district_id": "351603", "name": "SUMBERKEMBAR"}, {"id": "3516032019", "district_id": "351603", "name": "KURIPANSARI"}, {"id": "3516032020", "district_id": "351603", "name": "PANDANARUM"}]
+[
+  {
+    "id": "3516032001",
+    "district_id": "351603",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3516032002",
+    "district_id": "351603",
+    "name": "WIYU"
+  },
+  {
+    "id": "3516032003",
+    "district_id": "351603",
+    "name": "KESIMANTENGAH"
+  },
+  {
+    "id": "3516032004",
+    "district_id": "351603",
+    "name": "SAJEN"
+  },
+  {
+    "id": "3516032005",
+    "district_id": "351603",
+    "name": "PACET"
+  },
+  {
+    "id": "3516032006",
+    "district_id": "351603",
+    "name": "PADUSAN"
+  },
+  {
+    "id": "3516032007",
+    "district_id": "351603",
+    "name": "CEPOKOLIMO"
+  },
+  {
+    "id": "3516032008",
+    "district_id": "351603",
+    "name": "CLAKET"
+  },
+  {
+    "id": "3516032009",
+    "district_id": "351603",
+    "name": "CEMBOR"
+  },
+  {
+    "id": "3516032010",
+    "district_id": "351603",
+    "name": "NOGOSARI"
+  },
+  {
+    "id": "3516032011",
+    "district_id": "351603",
+    "name": "KEMBANGBELOR"
+  },
+  {
+    "id": "3516032012",
+    "district_id": "351603",
+    "name": "MOJOKEMBANG"
+  },
+  {
+    "id": "3516032013",
+    "district_id": "351603",
+    "name": "BENDUNGANJATI"
+  },
+  {
+    "id": "3516032014",
+    "district_id": "351603",
+    "name": "PETAK"
+  },
+  {
+    "id": "3516032015",
+    "district_id": "351603",
+    "name": "CANDIWATU"
+  },
+  {
+    "id": "3516032016",
+    "district_id": "351603",
+    "name": "WARUGUNUNG"
+  },
+  {
+    "id": "3516032017",
+    "district_id": "351603",
+    "name": "TANJUNGKENONGO"
+  },
+  {
+    "id": "3516032018",
+    "district_id": "351603",
+    "name": "SUMBERKEMBAR"
+  },
+  {
+    "id": "3516032019",
+    "district_id": "351603",
+    "name": "KURIPANSARI"
+  },
+  {
+    "id": "3516032020",
+    "district_id": "351603",
+    "name": "PANDANARUM"
+  }
+]

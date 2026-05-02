@@ -1,1 +1,47 @@
-[{"id": "7314021001", "district_id": "731402", "name": "AMPARITA"}, {"id": "7314021002", "district_id": "731402", "name": "MASSEPE"}, {"id": "7314021003", "district_id": "731402", "name": "TODDANG PULU"}, {"id": "7314021004", "district_id": "731402", "name": "PAJALELE"}, {"id": "7314021005", "district_id": "731402", "name": "BAULA"}, {"id": "7314021006", "district_id": "731402", "name": "ARATENG"}, {"id": "7314022007", "district_id": "731402", "name": "TETEAJI"}, {"id": "7314022008", "district_id": "731402", "name": "POLEWALI"}, {"id": "7314022009", "district_id": "731402", "name": "TEPPO"}]
+[
+  {
+    "id": "7314021001",
+    "district_id": "731402",
+    "name": "AMPARITA"
+  },
+  {
+    "id": "7314021002",
+    "district_id": "731402",
+    "name": "MASSEPE"
+  },
+  {
+    "id": "7314021003",
+    "district_id": "731402",
+    "name": "TODDANG PULU"
+  },
+  {
+    "id": "7314021004",
+    "district_id": "731402",
+    "name": "PAJALELE"
+  },
+  {
+    "id": "7314021005",
+    "district_id": "731402",
+    "name": "BAULA"
+  },
+  {
+    "id": "7314021006",
+    "district_id": "731402",
+    "name": "ARATENG"
+  },
+  {
+    "id": "7314022007",
+    "district_id": "731402",
+    "name": "TETEAJI"
+  },
+  {
+    "id": "7314022008",
+    "district_id": "731402",
+    "name": "POLEWALI"
+  },
+  {
+    "id": "7314022009",
+    "district_id": "731402",
+    "name": "TEPPO"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "1671061005", "district_id": "167106", "name": "LIMA ILIR"}, {"id": "1671061006", "district_id": "167106", "name": "TIGA ILIR"}, {"id": "1671061007", "district_id": "167106", "name": "SATU ILIR"}, {"id": "1671061008", "district_id": "167106", "name": "DUA ILIR"}, {"id": "1671061009", "district_id": "167106", "name": "LAWANGKIDUL"}, {"id": "1671061012", "district_id": "167106", "name": "SUNGAIBUAH"}]
+[
+  {
+    "id": "1671061005",
+    "district_id": "167106",
+    "name": "LIMA ILIR"
+  },
+  {
+    "id": "1671061006",
+    "district_id": "167106",
+    "name": "TIGA ILIR"
+  },
+  {
+    "id": "1671061007",
+    "district_id": "167106",
+    "name": "SATU ILIR"
+  },
+  {
+    "id": "1671061008",
+    "district_id": "167106",
+    "name": "DUA ILIR"
+  },
+  {
+    "id": "1671061009",
+    "district_id": "167106",
+    "name": "LAWANGKIDUL"
+  },
+  {
+    "id": "1671061012",
+    "district_id": "167106",
+    "name": "SUNGAIBUAH"
+  }
+]

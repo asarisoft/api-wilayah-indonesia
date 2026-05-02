@@ -1,1 +1,47 @@
-[{"id": "5207052001", "district_id": "520705", "name": "DESA BERU"}, {"id": "5207052002", "district_id": "520705", "name": "TEPAS"}, {"id": "5207052003", "district_id": "520705", "name": "BANGKAT MONTEH"}, {"id": "5207052004", "district_id": "520705", "name": "SAPUGARA BREE"}, {"id": "5207052005", "district_id": "520705", "name": "TEPAS SEPAKAT"}, {"id": "5207052006", "district_id": "520705", "name": "LAMUNTET"}, {"id": "5207052007", "district_id": "520705", "name": "RARAK RONGES"}, {"id": "5207052008", "district_id": "520705", "name": "MOTENG"}, {"id": "5207052009", "district_id": "520705", "name": "SEMINAR SALIT"}]
+[
+  {
+    "id": "5207052001",
+    "district_id": "520705",
+    "name": "DESA BERU"
+  },
+  {
+    "id": "5207052002",
+    "district_id": "520705",
+    "name": "TEPAS"
+  },
+  {
+    "id": "5207052003",
+    "district_id": "520705",
+    "name": "BANGKAT MONTEH"
+  },
+  {
+    "id": "5207052004",
+    "district_id": "520705",
+    "name": "SAPUGARA BREE"
+  },
+  {
+    "id": "5207052005",
+    "district_id": "520705",
+    "name": "TEPAS SEPAKAT"
+  },
+  {
+    "id": "5207052006",
+    "district_id": "520705",
+    "name": "LAMUNTET"
+  },
+  {
+    "id": "5207052007",
+    "district_id": "520705",
+    "name": "RARAK RONGES"
+  },
+  {
+    "id": "5207052008",
+    "district_id": "520705",
+    "name": "MOTENG"
+  },
+  {
+    "id": "5207052009",
+    "district_id": "520705",
+    "name": "SEMINAR SALIT"
+  }
+]

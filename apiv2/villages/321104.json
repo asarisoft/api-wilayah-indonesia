@@ -1,1 +1,37 @@
-[{"id": "3211042001", "district_id": "321104", "name": "JAYAMEKAR"}, {"id": "3211042002", "district_id": "321104", "name": "BUANAMEKAR"}, {"id": "3211042003", "district_id": "321104", "name": "CIBUGEL"}, {"id": "3211042004", "district_id": "321104", "name": "SUKARAJA"}, {"id": "3211042005", "district_id": "321104", "name": "CIPASANG"}, {"id": "3211042006", "district_id": "321104", "name": "TAMANSARI"}, {"id": "3211042007", "district_id": "321104", "name": "JAYAMANDIRI"}]
+[
+  {
+    "id": "3211042001",
+    "district_id": "321104",
+    "name": "JAYAMEKAR"
+  },
+  {
+    "id": "3211042002",
+    "district_id": "321104",
+    "name": "BUANAMEKAR"
+  },
+  {
+    "id": "3211042003",
+    "district_id": "321104",
+    "name": "CIBUGEL"
+  },
+  {
+    "id": "3211042004",
+    "district_id": "321104",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "3211042005",
+    "district_id": "321104",
+    "name": "CIPASANG"
+  },
+  {
+    "id": "3211042006",
+    "district_id": "321104",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3211042007",
+    "district_id": "321104",
+    "name": "JAYAMANDIRI"
+  }
+]

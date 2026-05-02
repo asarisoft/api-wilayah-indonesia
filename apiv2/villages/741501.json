@@ -1,1 +1,62 @@
-[{"id": "7415011002", "district_id": "741501", "name": "BUSOA"}, {"id": "7415011003", "district_id": "741501", "name": "LAOMPO"}, {"id": "7415011004", "district_id": "741501", "name": "MASIRI"}, {"id": "7415011005", "district_id": "741501", "name": "MAJAPAHIT"}, {"id": "7415011010", "district_id": "741501", "name": "LAKAMBAU"}, {"id": "7415011011", "district_id": "741501", "name": "MOLAGINA"}, {"id": "7415011012", "district_id": "741501", "name": "BANDAR BATAUGA"}, {"id": "7415012001", "district_id": "741501", "name": "LAWELA"}, {"id": "7415012006", "district_id": "741501", "name": "BOLA"}, {"id": "7415012007", "district_id": "741501", "name": "POOGALAMPA"}, {"id": "7415012008", "district_id": "741501", "name": "LAWELA SELATAN"}, {"id": "7415012009", "district_id": "741501", "name": "LAMPANAIRI"}]
+[
+  {
+    "id": "7415011002",
+    "district_id": "741501",
+    "name": "BUSOA"
+  },
+  {
+    "id": "7415011003",
+    "district_id": "741501",
+    "name": "LAOMPO"
+  },
+  {
+    "id": "7415011004",
+    "district_id": "741501",
+    "name": "MASIRI"
+  },
+  {
+    "id": "7415011005",
+    "district_id": "741501",
+    "name": "MAJAPAHIT"
+  },
+  {
+    "id": "7415011010",
+    "district_id": "741501",
+    "name": "LAKAMBAU"
+  },
+  {
+    "id": "7415011011",
+    "district_id": "741501",
+    "name": "MOLAGINA"
+  },
+  {
+    "id": "7415011012",
+    "district_id": "741501",
+    "name": "BANDAR BATAUGA"
+  },
+  {
+    "id": "7415012001",
+    "district_id": "741501",
+    "name": "LAWELA"
+  },
+  {
+    "id": "7415012006",
+    "district_id": "741501",
+    "name": "BOLA"
+  },
+  {
+    "id": "7415012007",
+    "district_id": "741501",
+    "name": "POOGALAMPA"
+  },
+  {
+    "id": "7415012008",
+    "district_id": "741501",
+    "name": "LAWELA SELATAN"
+  },
+  {
+    "id": "7415012009",
+    "district_id": "741501",
+    "name": "LAMPANAIRI"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "1114072001", "district_id": "111407", "name": "UJONG MULOH"}, {"id": "1114072002", "district_id": "111407", "name": "JANGUET"}, {"id": "1114072003", "district_id": "111407", "name": "MEUNASAH RAYEUK"}, {"id": "1114072004", "district_id": "111407", "name": "MUKHAN"}, {"id": "1114072005", "district_id": "111407", "name": "MEUNASAH TEUNGOH"}, {"id": "1114072006", "district_id": "111407", "name": "MEUNASAH TUTONG"}, {"id": "1114072007", "district_id": "111407", "name": "BABAH DUA"}, {"id": "1114072008", "district_id": "111407", "name": "ALUE MIE"}, {"id": "1114072009", "district_id": "111407", "name": "TEUMAREUM"}, {"id": "1114072010", "district_id": "111407", "name": "KUALA"}, {"id": "1114072011", "district_id": "111407", "name": "MEUDHANG GHON"}, {"id": "1114072012", "district_id": "111407", "name": "KAREUNG ATEUH"}, {"id": "1114072013", "district_id": "111407", "name": "KEUDE UNGA"}, {"id": "1114072014", "district_id": "111407", "name": "CEUNAMPRONG"}]
+[
+  {
+    "id": "1114072001",
+    "district_id": "111407",
+    "name": "UJONG MULOH"
+  },
+  {
+    "id": "1114072002",
+    "district_id": "111407",
+    "name": "JANGUET"
+  },
+  {
+    "id": "1114072003",
+    "district_id": "111407",
+    "name": "MEUNASAH RAYEUK"
+  },
+  {
+    "id": "1114072004",
+    "district_id": "111407",
+    "name": "MUKHAN"
+  },
+  {
+    "id": "1114072005",
+    "district_id": "111407",
+    "name": "MEUNASAH TEUNGOH"
+  },
+  {
+    "id": "1114072006",
+    "district_id": "111407",
+    "name": "MEUNASAH TUTONG"
+  },
+  {
+    "id": "1114072007",
+    "district_id": "111407",
+    "name": "BABAH DUA"
+  },
+  {
+    "id": "1114072008",
+    "district_id": "111407",
+    "name": "ALUE MIE"
+  },
+  {
+    "id": "1114072009",
+    "district_id": "111407",
+    "name": "TEUMAREUM"
+  },
+  {
+    "id": "1114072010",
+    "district_id": "111407",
+    "name": "KUALA"
+  },
+  {
+    "id": "1114072011",
+    "district_id": "111407",
+    "name": "MEUDHANG GHON"
+  },
+  {
+    "id": "1114072012",
+    "district_id": "111407",
+    "name": "KAREUNG ATEUH"
+  },
+  {
+    "id": "1114072013",
+    "district_id": "111407",
+    "name": "KEUDE UNGA"
+  },
+  {
+    "id": "1114072014",
+    "district_id": "111407",
+    "name": "CEUNAMPRONG"
+  }
+]

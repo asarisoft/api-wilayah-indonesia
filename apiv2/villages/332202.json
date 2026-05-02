@@ -1,1 +1,77 @@
-[{"id": "3322022001", "district_id": "332202", "name": "DUREN"}, {"id": "3322022002", "district_id": "332202", "name": "SUGIHAN"}, {"id": "3322022003", "district_id": "332202", "name": "SRUWEN"}, {"id": "3322022004", "district_id": "332202", "name": "TEGALREJO"}, {"id": "3322022005", "district_id": "332202", "name": "TENGARAN"}, {"id": "3322022006", "district_id": "332202", "name": "KLERO"}, {"id": "3322022007", "district_id": "332202", "name": "REGUNUNG"}, {"id": "3322022008", "district_id": "332202", "name": "CUKIL"}, {"id": "3322022009", "district_id": "332202", "name": "KARANGDUREN"}, {"id": "3322022010", "district_id": "332202", "name": "BUTUH"}, {"id": "3322022011", "district_id": "332202", "name": "PATEMON"}, {"id": "3322022012", "district_id": "332202", "name": "BENER"}, {"id": "3322022013", "district_id": "332202", "name": "TEGALWATON"}, {"id": "3322022014", "district_id": "332202", "name": "BARUKAN"}, {"id": "3322022015", "district_id": "332202", "name": "NYAMAT"}]
+[
+  {
+    "id": "3322022001",
+    "district_id": "332202",
+    "name": "DUREN"
+  },
+  {
+    "id": "3322022002",
+    "district_id": "332202",
+    "name": "SUGIHAN"
+  },
+  {
+    "id": "3322022003",
+    "district_id": "332202",
+    "name": "SRUWEN"
+  },
+  {
+    "id": "3322022004",
+    "district_id": "332202",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "3322022005",
+    "district_id": "332202",
+    "name": "TENGARAN"
+  },
+  {
+    "id": "3322022006",
+    "district_id": "332202",
+    "name": "KLERO"
+  },
+  {
+    "id": "3322022007",
+    "district_id": "332202",
+    "name": "REGUNUNG"
+  },
+  {
+    "id": "3322022008",
+    "district_id": "332202",
+    "name": "CUKIL"
+  },
+  {
+    "id": "3322022009",
+    "district_id": "332202",
+    "name": "KARANGDUREN"
+  },
+  {
+    "id": "3322022010",
+    "district_id": "332202",
+    "name": "BUTUH"
+  },
+  {
+    "id": "3322022011",
+    "district_id": "332202",
+    "name": "PATEMON"
+  },
+  {
+    "id": "3322022012",
+    "district_id": "332202",
+    "name": "BENER"
+  },
+  {
+    "id": "3322022013",
+    "district_id": "332202",
+    "name": "TEGALWATON"
+  },
+  {
+    "id": "3322022014",
+    "district_id": "332202",
+    "name": "BARUKAN"
+  },
+  {
+    "id": "3322022015",
+    "district_id": "332202",
+    "name": "NYAMAT"
+  }
+]

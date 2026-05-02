@@ -1,1 +1,27 @@
-[{"id": "2103051008", "district_id": "210305", "name": "SEDANAU"}, {"id": "2103052007", "district_id": "210305", "name": "MEKAR JAYA"}, {"id": "2103052012", "district_id": "210305", "name": "BINJAI"}, {"id": "2103052013", "district_id": "210305", "name": "PIANTENGAH"}, {"id": "2103052015", "district_id": "210305", "name": "SELAUT"}]
+[
+  {
+    "id": "2103051008",
+    "district_id": "210305",
+    "name": "SEDANAU"
+  },
+  {
+    "id": "2103052007",
+    "district_id": "210305",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "2103052012",
+    "district_id": "210305",
+    "name": "BINJAI"
+  },
+  {
+    "id": "2103052013",
+    "district_id": "210305",
+    "name": "PIANTENGAH"
+  },
+  {
+    "id": "2103052015",
+    "district_id": "210305",
+    "name": "SELAUT"
+  }
+]

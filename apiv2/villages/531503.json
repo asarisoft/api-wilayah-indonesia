@@ -1,1 +1,77 @@
-[{"id": "5315031032", "district_id": "531503", "name": "TANGGE"}, {"id": "5315032003", "district_id": "531503", "name": "WAE WAKO"}, {"id": "5315032010", "district_id": "531503", "name": "WAE KANTA"}, {"id": "5315032011", "district_id": "531503", "name": "PONTO ARA"}, {"id": "5315032012", "district_id": "531503", "name": "WAE BANGKA"}, {"id": "5315032013", "district_id": "531503", "name": "PONG MAJOK"}, {"id": "5315032014", "district_id": "531503", "name": "DALENG"}, {"id": "5315032021", "district_id": "531503", "name": "SIRU"}, {"id": "5315032022", "district_id": "531503", "name": "PONDO"}, {"id": "5315032023", "district_id": "531503", "name": "POCO RUTANG"}, {"id": "5315032025", "district_id": "531503", "name": "NGANCAR"}, {"id": "5315032033", "district_id": "531503", "name": "LIANG SOLA"}, {"id": "5315032034", "district_id": "531503", "name": "WAE MOWOL"}, {"id": "5315032035", "district_id": "531503", "name": "GOLO NDEWENG"}, {"id": "5315032036", "district_id": "531503", "name": "POCO DEDENG"}]
+[
+  {
+    "id": "5315031032",
+    "district_id": "531503",
+    "name": "TANGGE"
+  },
+  {
+    "id": "5315032003",
+    "district_id": "531503",
+    "name": "WAE WAKO"
+  },
+  {
+    "id": "5315032010",
+    "district_id": "531503",
+    "name": "WAE KANTA"
+  },
+  {
+    "id": "5315032011",
+    "district_id": "531503",
+    "name": "PONTO ARA"
+  },
+  {
+    "id": "5315032012",
+    "district_id": "531503",
+    "name": "WAE BANGKA"
+  },
+  {
+    "id": "5315032013",
+    "district_id": "531503",
+    "name": "PONG MAJOK"
+  },
+  {
+    "id": "5315032014",
+    "district_id": "531503",
+    "name": "DALENG"
+  },
+  {
+    "id": "5315032021",
+    "district_id": "531503",
+    "name": "SIRU"
+  },
+  {
+    "id": "5315032022",
+    "district_id": "531503",
+    "name": "PONDO"
+  },
+  {
+    "id": "5315032023",
+    "district_id": "531503",
+    "name": "POCO RUTANG"
+  },
+  {
+    "id": "5315032025",
+    "district_id": "531503",
+    "name": "NGANCAR"
+  },
+  {
+    "id": "5315032033",
+    "district_id": "531503",
+    "name": "LIANG SOLA"
+  },
+  {
+    "id": "5315032034",
+    "district_id": "531503",
+    "name": "WAE MOWOL"
+  },
+  {
+    "id": "5315032035",
+    "district_id": "531503",
+    "name": "GOLO NDEWENG"
+  },
+  {
+    "id": "5315032036",
+    "district_id": "531503",
+    "name": "POCO DEDENG"
+  }
+]

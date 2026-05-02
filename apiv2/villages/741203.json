@@ -1,1 +1,52 @@
-[{"id": "7412031004", "district_id": "741203", "name": "LADIANTA"}, {"id": "7412032001", "district_id": "741203", "name": "BANGUN MEKAR"}, {"id": "7412032002", "district_id": "741203", "name": "NOKO"}, {"id": "7412032003", "district_id": "741203", "name": "TANGKOMBUNO"}, {"id": "7412032005", "district_id": "741203", "name": "DIMBA"}, {"id": "7412032006", "district_id": "741203", "name": "MATA DIMBA"}, {"id": "7412032007", "district_id": "741203", "name": "PUURAU"}, {"id": "7412032008", "district_id": "741203", "name": "WATUONDO"}, {"id": "7412032009", "district_id": "741203", "name": "PATANDE"}, {"id": "7412032010", "district_id": "741203", "name": "BAHO BUBU"}]
+[
+  {
+    "id": "7412031004",
+    "district_id": "741203",
+    "name": "LADIANTA"
+  },
+  {
+    "id": "7412032001",
+    "district_id": "741203",
+    "name": "BANGUN MEKAR"
+  },
+  {
+    "id": "7412032002",
+    "district_id": "741203",
+    "name": "NOKO"
+  },
+  {
+    "id": "7412032003",
+    "district_id": "741203",
+    "name": "TANGKOMBUNO"
+  },
+  {
+    "id": "7412032005",
+    "district_id": "741203",
+    "name": "DIMBA"
+  },
+  {
+    "id": "7412032006",
+    "district_id": "741203",
+    "name": "MATA DIMBA"
+  },
+  {
+    "id": "7412032007",
+    "district_id": "741203",
+    "name": "PUURAU"
+  },
+  {
+    "id": "7412032008",
+    "district_id": "741203",
+    "name": "WATUONDO"
+  },
+  {
+    "id": "7412032009",
+    "district_id": "741203",
+    "name": "PATANDE"
+  },
+  {
+    "id": "7412032010",
+    "district_id": "741203",
+    "name": "BAHO BUBU"
+  }
+]

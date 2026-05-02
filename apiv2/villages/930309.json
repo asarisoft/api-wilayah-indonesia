@@ -1,1 +1,62 @@
-[{"id": "9303092001", "district_id": "930309", "name": "KABE"}, {"id": "9303092002", "district_id": "930309", "name": "KAUMI"}, {"id": "9303092003", "district_id": "930309", "name": "KAYAGAI"}, {"id": "9303092004", "district_id": "930309", "name": "ATI"}, {"id": "9303092005", "district_id": "930309", "name": "UPIN"}, {"id": "9303092006", "district_id": "930309", "name": "TARAGAI"}, {"id": "9303092007", "district_id": "930309", "name": "SENE"}, {"id": "9303092008", "district_id": "930309", "name": "KOMRU"}, {"id": "9303092009", "district_id": "930309", "name": "KOFAR"}, {"id": "9303092010", "district_id": "930309", "name": "SUMURAMAN"}, {"id": "9303092011", "district_id": "930309", "name": "PANO"}, {"id": "9303092012", "district_id": "930309", "name": "KOGIR"}]
+[
+  {
+    "id": "9303092001",
+    "district_id": "930309",
+    "name": "KABE"
+  },
+  {
+    "id": "9303092002",
+    "district_id": "930309",
+    "name": "KAUMI"
+  },
+  {
+    "id": "9303092003",
+    "district_id": "930309",
+    "name": "KAYAGAI"
+  },
+  {
+    "id": "9303092004",
+    "district_id": "930309",
+    "name": "ATI"
+  },
+  {
+    "id": "9303092005",
+    "district_id": "930309",
+    "name": "UPIN"
+  },
+  {
+    "id": "9303092006",
+    "district_id": "930309",
+    "name": "TARAGAI"
+  },
+  {
+    "id": "9303092007",
+    "district_id": "930309",
+    "name": "SENE"
+  },
+  {
+    "id": "9303092008",
+    "district_id": "930309",
+    "name": "KOMRU"
+  },
+  {
+    "id": "9303092009",
+    "district_id": "930309",
+    "name": "KOFAR"
+  },
+  {
+    "id": "9303092010",
+    "district_id": "930309",
+    "name": "SUMURAMAN"
+  },
+  {
+    "id": "9303092011",
+    "district_id": "930309",
+    "name": "PANO"
+  },
+  {
+    "id": "9303092012",
+    "district_id": "930309",
+    "name": "KOGIR"
+  }
+]

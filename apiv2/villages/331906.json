@@ -1,1 +1,62 @@
-[{"id": "3319062001", "district_id": "331906", "name": "SADANG"}, {"id": "3319062002", "district_id": "331906", "name": "BULUNGCANGKRING"}, {"id": "3319062003", "district_id": "331906", "name": "BULUNG KULON"}, {"id": "3319062004", "district_id": "331906", "name": "SIDOMULYO"}, {"id": "3319062005", "district_id": "331906", "name": "GONDOHARUM"}, {"id": "3319062006", "district_id": "331906", "name": "TERBAN"}, {"id": "3319062007", "district_id": "331906", "name": "PLADEN"}, {"id": "3319062008", "district_id": "331906", "name": "KLALING"}, {"id": "3319062009", "district_id": "331906", "name": "JEKULO"}, {"id": "3319062010", "district_id": "331906", "name": "HADIPOLO"}, {"id": "3319062011", "district_id": "331906", "name": "HONGGOSOCO"}, {"id": "3319062012", "district_id": "331906", "name": "TANJUNGREJO"}]
+[
+  {
+    "id": "3319062001",
+    "district_id": "331906",
+    "name": "SADANG"
+  },
+  {
+    "id": "3319062002",
+    "district_id": "331906",
+    "name": "BULUNGCANGKRING"
+  },
+  {
+    "id": "3319062003",
+    "district_id": "331906",
+    "name": "BULUNG KULON"
+  },
+  {
+    "id": "3319062004",
+    "district_id": "331906",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3319062005",
+    "district_id": "331906",
+    "name": "GONDOHARUM"
+  },
+  {
+    "id": "3319062006",
+    "district_id": "331906",
+    "name": "TERBAN"
+  },
+  {
+    "id": "3319062007",
+    "district_id": "331906",
+    "name": "PLADEN"
+  },
+  {
+    "id": "3319062008",
+    "district_id": "331906",
+    "name": "KLALING"
+  },
+  {
+    "id": "3319062009",
+    "district_id": "331906",
+    "name": "JEKULO"
+  },
+  {
+    "id": "3319062010",
+    "district_id": "331906",
+    "name": "HADIPOLO"
+  },
+  {
+    "id": "3319062011",
+    "district_id": "331906",
+    "name": "HONGGOSOCO"
+  },
+  {
+    "id": "3319062012",
+    "district_id": "331906",
+    "name": "TANJUNGREJO"
+  }
+]

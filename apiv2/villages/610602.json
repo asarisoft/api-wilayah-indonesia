@@ -1,1 +1,42 @@
-[{"id": "6106022001", "district_id": "610602", "name": "TELUK SINDUR"}, {"id": "6106022002", "district_id": "610602", "name": "BIKA"}, {"id": "6106022003", "district_id": "610602", "name": "JELEMUK"}, {"id": "6106022008", "district_id": "610602", "name": "BIKA HULU"}, {"id": "6106022009", "district_id": "610602", "name": "NANGA MANDAY"}, {"id": "6106022010", "district_id": "610602", "name": "MELAPI MANDAY"}, {"id": "6106022011", "district_id": "610602", "name": "PENYELUANG"}, {"id": "6106022012", "district_id": "610602", "name": "JONGKONG MANDAY"}]
+[
+  {
+    "id": "6106022001",
+    "district_id": "610602",
+    "name": "TELUK SINDUR"
+  },
+  {
+    "id": "6106022002",
+    "district_id": "610602",
+    "name": "BIKA"
+  },
+  {
+    "id": "6106022003",
+    "district_id": "610602",
+    "name": "JELEMUK"
+  },
+  {
+    "id": "6106022008",
+    "district_id": "610602",
+    "name": "BIKA HULU"
+  },
+  {
+    "id": "6106022009",
+    "district_id": "610602",
+    "name": "NANGA MANDAY"
+  },
+  {
+    "id": "6106022010",
+    "district_id": "610602",
+    "name": "MELAPI MANDAY"
+  },
+  {
+    "id": "6106022011",
+    "district_id": "610602",
+    "name": "PENYELUANG"
+  },
+  {
+    "id": "6106022012",
+    "district_id": "610602",
+    "name": "JONGKONG MANDAY"
+  }
+]

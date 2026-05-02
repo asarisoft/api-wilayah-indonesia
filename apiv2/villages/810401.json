@@ -1,1 +1,37 @@
-[{"id": "8104012001", "district_id": "810401", "name": "NAMLEA"}, {"id": "8104012002", "district_id": "810401", "name": "LALA"}, {"id": "8104012003", "district_id": "810401", "name": "KARANG JAYA"}, {"id": "8104012009", "district_id": "810401", "name": "SIAHONI"}, {"id": "8104012010", "district_id": "810401", "name": "JAMILU"}, {"id": "8104012011", "district_id": "810401", "name": "SANLEKO"}, {"id": "8104012012", "district_id": "810401", "name": "BATU BOY"}]
+[
+  {
+    "id": "8104012001",
+    "district_id": "810401",
+    "name": "NAMLEA"
+  },
+  {
+    "id": "8104012002",
+    "district_id": "810401",
+    "name": "LALA"
+  },
+  {
+    "id": "8104012003",
+    "district_id": "810401",
+    "name": "KARANG JAYA"
+  },
+  {
+    "id": "8104012009",
+    "district_id": "810401",
+    "name": "SIAHONI"
+  },
+  {
+    "id": "8104012010",
+    "district_id": "810401",
+    "name": "JAMILU"
+  },
+  {
+    "id": "8104012011",
+    "district_id": "810401",
+    "name": "SANLEKO"
+  },
+  {
+    "id": "8104012012",
+    "district_id": "810401",
+    "name": "BATU BOY"
+  }
+]

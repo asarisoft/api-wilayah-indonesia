@@ -1,1 +1,52 @@
-[{"id": "3528032001", "district_id": "352803", "name": "TOBUNGAN"}, {"id": "3528032002", "district_id": "352803", "name": "KONANG"}, {"id": "3528032003", "district_id": "352803", "name": "PANDAN"}, {"id": "3528032004", "district_id": "352803", "name": "LEMBUNG"}, {"id": "3528032005", "district_id": "352803", "name": "GALIS"}, {"id": "3528032006", "district_id": "352803", "name": "BULAY"}, {"id": "3528032007", "district_id": "352803", "name": "PAGENDINGAN"}, {"id": "3528032008", "district_id": "352803", "name": "PONTEH"}, {"id": "3528032009", "district_id": "352803", "name": "POLAGAN"}, {"id": "3528032010", "district_id": "352803", "name": "ARTODUNG"}]
+[
+  {
+    "id": "3528032001",
+    "district_id": "352803",
+    "name": "TOBUNGAN"
+  },
+  {
+    "id": "3528032002",
+    "district_id": "352803",
+    "name": "KONANG"
+  },
+  {
+    "id": "3528032003",
+    "district_id": "352803",
+    "name": "PANDAN"
+  },
+  {
+    "id": "3528032004",
+    "district_id": "352803",
+    "name": "LEMBUNG"
+  },
+  {
+    "id": "3528032005",
+    "district_id": "352803",
+    "name": "GALIS"
+  },
+  {
+    "id": "3528032006",
+    "district_id": "352803",
+    "name": "BULAY"
+  },
+  {
+    "id": "3528032007",
+    "district_id": "352803",
+    "name": "PAGENDINGAN"
+  },
+  {
+    "id": "3528032008",
+    "district_id": "352803",
+    "name": "PONTEH"
+  },
+  {
+    "id": "3528032009",
+    "district_id": "352803",
+    "name": "POLAGAN"
+  },
+  {
+    "id": "3528032010",
+    "district_id": "352803",
+    "name": "ARTODUNG"
+  }
+]

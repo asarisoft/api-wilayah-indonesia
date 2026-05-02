@@ -1,1 +1,62 @@
-[{"id": "6503142001", "district_id": "650314", "name": "SANUR"}, {"id": "6503142002", "district_id": "650314", "name": "MAKMUR"}, {"id": "6503142003", "district_id": "650314", "name": "SEMUNAD"}, {"id": "6503142004", "district_id": "650314", "name": "SEKIKILAN"}, {"id": "6503142005", "district_id": "650314", "name": "KALUNSAYAN"}, {"id": "6503142006", "district_id": "650314", "name": "TEMBALANG"}, {"id": "6503142007", "district_id": "650314", "name": "SALANG"}, {"id": "6503142008", "district_id": "650314", "name": "TINAMPAK I"}, {"id": "6503142009", "district_id": "650314", "name": "TINAMPAK II"}, {"id": "6503142010", "district_id": "650314", "name": "NAPUTI"}, {"id": "6503142011", "district_id": "650314", "name": "TAU BARU"}, {"id": "6503142012", "district_id": "650314", "name": "BALATIKON"}]
+[
+  {
+    "id": "6503142001",
+    "district_id": "650314",
+    "name": "SANUR"
+  },
+  {
+    "id": "6503142002",
+    "district_id": "650314",
+    "name": "MAKMUR"
+  },
+  {
+    "id": "6503142003",
+    "district_id": "650314",
+    "name": "SEMUNAD"
+  },
+  {
+    "id": "6503142004",
+    "district_id": "650314",
+    "name": "SEKIKILAN"
+  },
+  {
+    "id": "6503142005",
+    "district_id": "650314",
+    "name": "KALUNSAYAN"
+  },
+  {
+    "id": "6503142006",
+    "district_id": "650314",
+    "name": "TEMBALANG"
+  },
+  {
+    "id": "6503142007",
+    "district_id": "650314",
+    "name": "SALANG"
+  },
+  {
+    "id": "6503142008",
+    "district_id": "650314",
+    "name": "TINAMPAK I"
+  },
+  {
+    "id": "6503142009",
+    "district_id": "650314",
+    "name": "TINAMPAK II"
+  },
+  {
+    "id": "6503142010",
+    "district_id": "650314",
+    "name": "NAPUTI"
+  },
+  {
+    "id": "6503142011",
+    "district_id": "650314",
+    "name": "TAU BARU"
+  },
+  {
+    "id": "6503142012",
+    "district_id": "650314",
+    "name": "BALATIKON"
+  }
+]

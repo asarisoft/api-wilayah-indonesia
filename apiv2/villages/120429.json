@@ -1,1 +1,57 @@
-[{"id": "1204292001", "district_id": "120429", "name": "SISOBAWINO I"}, {"id": "1204292002", "district_id": "120429", "name": "I'ODANO"}, {"id": "1204292003", "district_id": "120429", "name": "HUNO"}, {"id": "1204292004", "district_id": "120429", "name": "SISARATANDRAWA"}, {"id": "1204292005", "district_id": "120429", "name": "SOMOLO-MOLO"}, {"id": "1204292006", "district_id": "120429", "name": "LEWUOGURU I"}, {"id": "1204292007", "district_id": "120429", "name": "SIFAOROASI"}, {"id": "1204292008", "district_id": "120429", "name": "LEWUOMBANUA"}, {"id": "1204292009", "district_id": "120429", "name": "HILIGODU SOMOLO-MOLO"}, {"id": "1204292010", "district_id": "120429", "name": "HILIMBORODANO"}, {"id": "1204292011", "district_id": "120429", "name": "SO'EWALI"}]
+[
+  {
+    "id": "1204292001",
+    "district_id": "120429",
+    "name": "SISOBAWINO I"
+  },
+  {
+    "id": "1204292002",
+    "district_id": "120429",
+    "name": "I'ODANO"
+  },
+  {
+    "id": "1204292003",
+    "district_id": "120429",
+    "name": "HUNO"
+  },
+  {
+    "id": "1204292004",
+    "district_id": "120429",
+    "name": "SISARATANDRAWA"
+  },
+  {
+    "id": "1204292005",
+    "district_id": "120429",
+    "name": "SOMOLO-MOLO"
+  },
+  {
+    "id": "1204292006",
+    "district_id": "120429",
+    "name": "LEWUOGURU I"
+  },
+  {
+    "id": "1204292007",
+    "district_id": "120429",
+    "name": "SIFAOROASI"
+  },
+  {
+    "id": "1204292008",
+    "district_id": "120429",
+    "name": "LEWUOMBANUA"
+  },
+  {
+    "id": "1204292009",
+    "district_id": "120429",
+    "name": "HILIGODU SOMOLO-MOLO"
+  },
+  {
+    "id": "1204292010",
+    "district_id": "120429",
+    "name": "HILIMBORODANO"
+  },
+  {
+    "id": "1204292011",
+    "district_id": "120429",
+    "name": "SO'EWALI"
+  }
+]

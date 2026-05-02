@@ -1,1 +1,52 @@
-[{"id": "1673041001", "district_id": "167304", "name": "DURIAN RAMPAK"}, {"id": "1673041002", "district_id": "167304", "name": "TANJUNG RAYA"}, {"id": "1673041003", "district_id": "167304", "name": "SUMBER AGUNG"}, {"id": "1673041004", "district_id": "167304", "name": "MARGA BAKTI"}, {"id": "1673041005", "district_id": "167304", "name": "BELALAU I"}, {"id": "1673041006", "district_id": "167304", "name": "BELALAU II"}, {"id": "1673041007", "district_id": "167304", "name": "TABA BARU"}, {"id": "1673041008", "district_id": "167304", "name": "MARGOREJO"}, {"id": "1673041009", "district_id": "167304", "name": "PETANANG ULU"}, {"id": "1673041010", "district_id": "167304", "name": "PETANANG ILIR"}]
+[
+  {
+    "id": "1673041001",
+    "district_id": "167304",
+    "name": "DURIAN RAMPAK"
+  },
+  {
+    "id": "1673041002",
+    "district_id": "167304",
+    "name": "TANJUNG RAYA"
+  },
+  {
+    "id": "1673041003",
+    "district_id": "167304",
+    "name": "SUMBER AGUNG"
+  },
+  {
+    "id": "1673041004",
+    "district_id": "167304",
+    "name": "MARGA BAKTI"
+  },
+  {
+    "id": "1673041005",
+    "district_id": "167304",
+    "name": "BELALAU I"
+  },
+  {
+    "id": "1673041006",
+    "district_id": "167304",
+    "name": "BELALAU II"
+  },
+  {
+    "id": "1673041007",
+    "district_id": "167304",
+    "name": "TABA BARU"
+  },
+  {
+    "id": "1673041008",
+    "district_id": "167304",
+    "name": "MARGOREJO"
+  },
+  {
+    "id": "1673041009",
+    "district_id": "167304",
+    "name": "PETANANG ULU"
+  },
+  {
+    "id": "1673041010",
+    "district_id": "167304",
+    "name": "PETANANG ILIR"
+  }
+]

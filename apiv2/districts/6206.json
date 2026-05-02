@@ -1,1 +1,67 @@
-[{"id": "620601", "regency_id": "6206", "name": "KAMIPANG"}, {"id": "620602", "regency_id": "6206", "name": "KATINGAN HILIR"}, {"id": "620603", "regency_id": "6206", "name": "TEWANG SANGALANG GARING"}, {"id": "620604", "regency_id": "6206", "name": "PULAU MALAN"}, {"id": "620605", "regency_id": "6206", "name": "KATINGAN TENGAH"}, {"id": "620606", "regency_id": "6206", "name": "SANAMAN MANTIKEI"}, {"id": "620607", "regency_id": "6206", "name": "MARIKIT"}, {"id": "620608", "regency_id": "6206", "name": "KATINGAN HULU"}, {"id": "620609", "regency_id": "6206", "name": "MENDAWAI"}, {"id": "620610", "regency_id": "6206", "name": "KATINGAN KUALA"}, {"id": "620611", "regency_id": "6206", "name": "TASIK PAYAWAN"}, {"id": "620612", "regency_id": "6206", "name": "PETAK MALAI"}, {"id": "620613", "regency_id": "6206", "name": "BUKIT RAYA"}]
+[
+  {
+    "id": "620601",
+    "regency_id": "6206",
+    "name": "KAMIPANG"
+  },
+  {
+    "id": "620602",
+    "regency_id": "6206",
+    "name": "KATINGAN HILIR"
+  },
+  {
+    "id": "620603",
+    "regency_id": "6206",
+    "name": "TEWANG SANGALANG GARING"
+  },
+  {
+    "id": "620604",
+    "regency_id": "6206",
+    "name": "PULAU MALAN"
+  },
+  {
+    "id": "620605",
+    "regency_id": "6206",
+    "name": "KATINGAN TENGAH"
+  },
+  {
+    "id": "620606",
+    "regency_id": "6206",
+    "name": "SANAMAN MANTIKEI"
+  },
+  {
+    "id": "620607",
+    "regency_id": "6206",
+    "name": "MARIKIT"
+  },
+  {
+    "id": "620608",
+    "regency_id": "6206",
+    "name": "KATINGAN HULU"
+  },
+  {
+    "id": "620609",
+    "regency_id": "6206",
+    "name": "MENDAWAI"
+  },
+  {
+    "id": "620610",
+    "regency_id": "6206",
+    "name": "KATINGAN KUALA"
+  },
+  {
+    "id": "620611",
+    "regency_id": "6206",
+    "name": "TASIK PAYAWAN"
+  },
+  {
+    "id": "620612",
+    "regency_id": "6206",
+    "name": "PETAK MALAI"
+  },
+  {
+    "id": "620613",
+    "regency_id": "6206",
+    "name": "BUKIT RAYA"
+  }
+]

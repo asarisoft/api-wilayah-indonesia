@@ -1,1 +1,52 @@
-[{"id": "9115072002", "district_id": "911507", "name": "FAFADO"}, {"id": "9115072003", "district_id": "911507", "name": "WOBARI"}, {"id": "9115072013", "district_id": "911507", "name": "AIMASI"}, {"id": "9115072014", "district_id": "911507", "name": "MUI"}, {"id": "9115072015", "district_id": "911507", "name": "WAGHARE"}, {"id": "9115072016", "district_id": "911507", "name": "GHAIWANDO"}, {"id": "9115072017", "district_id": "911507", "name": "WOMORISI"}, {"id": "9115072018", "district_id": "911507", "name": "ORAMBIN"}, {"id": "9115072019", "district_id": "911507", "name": "UNAREU"}, {"id": "9115072020", "district_id": "911507", "name": "GHAIWARU"}]
+[
+  {
+    "id": "9115072002",
+    "district_id": "911507",
+    "name": "FAFADO"
+  },
+  {
+    "id": "9115072003",
+    "district_id": "911507",
+    "name": "WOBARI"
+  },
+  {
+    "id": "9115072013",
+    "district_id": "911507",
+    "name": "AIMASI"
+  },
+  {
+    "id": "9115072014",
+    "district_id": "911507",
+    "name": "MUI"
+  },
+  {
+    "id": "9115072015",
+    "district_id": "911507",
+    "name": "WAGHARE"
+  },
+  {
+    "id": "9115072016",
+    "district_id": "911507",
+    "name": "GHAIWANDO"
+  },
+  {
+    "id": "9115072017",
+    "district_id": "911507",
+    "name": "WOMORISI"
+  },
+  {
+    "id": "9115072018",
+    "district_id": "911507",
+    "name": "ORAMBIN"
+  },
+  {
+    "id": "9115072019",
+    "district_id": "911507",
+    "name": "UNAREU"
+  },
+  {
+    "id": "9115072020",
+    "district_id": "911507",
+    "name": "GHAIWARU"
+  }
+]

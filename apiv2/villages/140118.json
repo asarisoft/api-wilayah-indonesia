@@ -1,1 +1,42 @@
-[{"id": "1401182001", "district_id": "140118", "name": "MUARA JALAI"}, {"id": "1401182002", "district_id": "140118", "name": "SAWAH"}, {"id": "1401182003", "district_id": "140118", "name": "KAMPUNG PANJANG"}, {"id": "1401182004", "district_id": "140118", "name": "KAYU ARO"}, {"id": "1401182005", "district_id": "140118", "name": "SUNGAI TONANG"}, {"id": "1401182006", "district_id": "140118", "name": "SUNGAI JALAU"}, {"id": "1401182007", "district_id": "140118", "name": "SENDAYAN"}, {"id": "1401182008", "district_id": "140118", "name": "NAGA BERALIH"}]
+[
+  {
+    "id": "1401182001",
+    "district_id": "140118",
+    "name": "MUARA JALAI"
+  },
+  {
+    "id": "1401182002",
+    "district_id": "140118",
+    "name": "SAWAH"
+  },
+  {
+    "id": "1401182003",
+    "district_id": "140118",
+    "name": "KAMPUNG PANJANG"
+  },
+  {
+    "id": "1401182004",
+    "district_id": "140118",
+    "name": "KAYU ARO"
+  },
+  {
+    "id": "1401182005",
+    "district_id": "140118",
+    "name": "SUNGAI TONANG"
+  },
+  {
+    "id": "1401182006",
+    "district_id": "140118",
+    "name": "SUNGAI JALAU"
+  },
+  {
+    "id": "1401182007",
+    "district_id": "140118",
+    "name": "SENDAYAN"
+  },
+  {
+    "id": "1401182008",
+    "district_id": "140118",
+    "name": "NAGA BERALIH"
+  }
+]

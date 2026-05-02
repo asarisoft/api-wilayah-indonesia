@@ -1,1 +1,37 @@
-[{"id": "5316072001", "district_id": "531607", "name": "RENDUBUTOWE"}, {"id": "5316072002", "district_id": "531607", "name": "TENGATIBA"}, {"id": "5316072003", "district_id": "531607", "name": "LANGEDHAWE"}, {"id": "5316072004", "district_id": "531607", "name": "RENDUTENO"}, {"id": "5316072005", "district_id": "531607", "name": "RENDUWAWO"}, {"id": "5316072006", "district_id": "531607", "name": "WAJOMARA"}, {"id": "5316072007", "district_id": "531607", "name": "RENDUT TUTUBHADA"}]
+[
+  {
+    "id": "5316072001",
+    "district_id": "531607",
+    "name": "RENDUBUTOWE"
+  },
+  {
+    "id": "5316072002",
+    "district_id": "531607",
+    "name": "TENGATIBA"
+  },
+  {
+    "id": "5316072003",
+    "district_id": "531607",
+    "name": "LANGEDHAWE"
+  },
+  {
+    "id": "5316072004",
+    "district_id": "531607",
+    "name": "RENDUTENO"
+  },
+  {
+    "id": "5316072005",
+    "district_id": "531607",
+    "name": "RENDUWAWO"
+  },
+  {
+    "id": "5316072006",
+    "district_id": "531607",
+    "name": "WAJOMARA"
+  },
+  {
+    "id": "5316072007",
+    "district_id": "531607",
+    "name": "RENDUT TUTUBHADA"
+  }
+]

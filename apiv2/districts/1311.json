@@ -1,1 +1,37 @@
-[{"id": "131101", "regency_id": "1311", "name": "SANGIR"}, {"id": "131102", "regency_id": "1311", "name": "SUNGAI PAGU"}, {"id": "131103", "regency_id": "1311", "name": "KOTO PARIK GADANG DIATEH"}, {"id": "131104", "regency_id": "1311", "name": "SANGIR JUJUAN"}, {"id": "131105", "regency_id": "1311", "name": "SANGIR BATANG HARI"}, {"id": "131106", "regency_id": "1311", "name": "PAUH DUO"}, {"id": "131107", "regency_id": "1311", "name": "SANGIR BALAI JANGGO"}]
+[
+  {
+    "id": "131101",
+    "regency_id": "1311",
+    "name": "SANGIR"
+  },
+  {
+    "id": "131102",
+    "regency_id": "1311",
+    "name": "SUNGAI PAGU"
+  },
+  {
+    "id": "131103",
+    "regency_id": "1311",
+    "name": "KOTO PARIK GADANG DIATEH"
+  },
+  {
+    "id": "131104",
+    "regency_id": "1311",
+    "name": "SANGIR JUJUAN"
+  },
+  {
+    "id": "131105",
+    "regency_id": "1311",
+    "name": "SANGIR BATANG HARI"
+  },
+  {
+    "id": "131106",
+    "regency_id": "1311",
+    "name": "PAUH DUO"
+  },
+  {
+    "id": "131107",
+    "regency_id": "1311",
+    "name": "SANGIR BALAI JANGGO"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "3277031001", "district_id": "327703", "name": "PASIRKALIKI"}, {"id": "3277031002", "district_id": "327703", "name": "CIBABAT"}, {"id": "3277031003", "district_id": "327703", "name": "CITEUREUP"}, {"id": "3277031004", "district_id": "327703", "name": "CIPAGERAN"}]
+[
+  {
+    "id": "3277031001",
+    "district_id": "327703",
+    "name": "PASIRKALIKI"
+  },
+  {
+    "id": "3277031002",
+    "district_id": "327703",
+    "name": "CIBABAT"
+  },
+  {
+    "id": "3277031003",
+    "district_id": "327703",
+    "name": "CITEUREUP"
+  },
+  {
+    "id": "3277031004",
+    "district_id": "327703",
+    "name": "CIPAGERAN"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "3209042001", "district_id": "320904", "name": "PABEDILAN KIDUL"}, {"id": "3209042002", "district_id": "320904", "name": "PABEDILAN WETAN"}, {"id": "3209042003", "district_id": "320904", "name": "PABEDILAN KULON"}, {"id": "3209042004", "district_id": "320904", "name": "PABEDILAN KALER"}, {"id": "3209042005", "district_id": "320904", "name": "SILIHASIH"}, {"id": "3209042006", "district_id": "320904", "name": "TERSANA"}, {"id": "3209042007", "district_id": "320904", "name": "PASURUAN"}, {"id": "3209042008", "district_id": "320904", "name": "DUKUHWIDARA"}, {"id": "3209042009", "district_id": "320904", "name": "KALIBUNTU"}, {"id": "3209042010", "district_id": "320904", "name": "KALIMUKTI"}, {"id": "3209042011", "district_id": "320904", "name": "SIDARESMI"}, {"id": "3209042012", "district_id": "320904", "name": "BABAKAN LOSARI"}, {"id": "3209042013", "district_id": "320904", "name": "BABAKAN LOSARI LOR"}]
+[
+  {
+    "id": "3209042001",
+    "district_id": "320904",
+    "name": "PABEDILAN KIDUL"
+  },
+  {
+    "id": "3209042002",
+    "district_id": "320904",
+    "name": "PABEDILAN WETAN"
+  },
+  {
+    "id": "3209042003",
+    "district_id": "320904",
+    "name": "PABEDILAN KULON"
+  },
+  {
+    "id": "3209042004",
+    "district_id": "320904",
+    "name": "PABEDILAN KALER"
+  },
+  {
+    "id": "3209042005",
+    "district_id": "320904",
+    "name": "SILIHASIH"
+  },
+  {
+    "id": "3209042006",
+    "district_id": "320904",
+    "name": "TERSANA"
+  },
+  {
+    "id": "3209042007",
+    "district_id": "320904",
+    "name": "PASURUAN"
+  },
+  {
+    "id": "3209042008",
+    "district_id": "320904",
+    "name": "DUKUHWIDARA"
+  },
+  {
+    "id": "3209042009",
+    "district_id": "320904",
+    "name": "KALIBUNTU"
+  },
+  {
+    "id": "3209042010",
+    "district_id": "320904",
+    "name": "KALIMUKTI"
+  },
+  {
+    "id": "3209042011",
+    "district_id": "320904",
+    "name": "SIDARESMI"
+  },
+  {
+    "id": "3209042012",
+    "district_id": "320904",
+    "name": "BABAKAN LOSARI"
+  },
+  {
+    "id": "3209042013",
+    "district_id": "320904",
+    "name": "BABAKAN LOSARI LOR"
+  }
+]

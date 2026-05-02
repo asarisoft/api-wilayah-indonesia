@@ -1,1 +1,72 @@
-[{"id": "7604031001", "district_id": "760403", "name": "SIDODADI"}, {"id": "7604032002", "district_id": "760403", "name": "SIDOREJO"}, {"id": "7604032003", "district_id": "760403", "name": "SUMBERJO"}, {"id": "7604032004", "district_id": "760403", "name": "BUMIAYU"}, {"id": "7604032005", "district_id": "760403", "name": "KEBUNSARI"}, {"id": "7604032006", "district_id": "760403", "name": "BANUA BARU"}, {"id": "7604032007", "district_id": "760403", "name": "NEPO"}, {"id": "7604032008", "district_id": "760403", "name": "SUGIHWARAS"}, {"id": "7604032009", "district_id": "760403", "name": "CAMPURJO"}, {"id": "7604032010", "district_id": "760403", "name": "BUMIMULYO"}, {"id": "7604032011", "district_id": "760403", "name": "TUMPILING"}, {"id": "7604032012", "district_id": "760403", "name": "BAKKA-BAKKA"}, {"id": "7604032013", "district_id": "760403", "name": "ARJOSARI"}, {"id": "7604032014", "district_id": "760403", "name": "GALESO"}]
+[
+  {
+    "id": "7604031001",
+    "district_id": "760403",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "7604032002",
+    "district_id": "760403",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "7604032003",
+    "district_id": "760403",
+    "name": "SUMBERJO"
+  },
+  {
+    "id": "7604032004",
+    "district_id": "760403",
+    "name": "BUMIAYU"
+  },
+  {
+    "id": "7604032005",
+    "district_id": "760403",
+    "name": "KEBUNSARI"
+  },
+  {
+    "id": "7604032006",
+    "district_id": "760403",
+    "name": "BANUA BARU"
+  },
+  {
+    "id": "7604032007",
+    "district_id": "760403",
+    "name": "NEPO"
+  },
+  {
+    "id": "7604032008",
+    "district_id": "760403",
+    "name": "SUGIHWARAS"
+  },
+  {
+    "id": "7604032009",
+    "district_id": "760403",
+    "name": "CAMPURJO"
+  },
+  {
+    "id": "7604032010",
+    "district_id": "760403",
+    "name": "BUMIMULYO"
+  },
+  {
+    "id": "7604032011",
+    "district_id": "760403",
+    "name": "TUMPILING"
+  },
+  {
+    "id": "7604032012",
+    "district_id": "760403",
+    "name": "BAKKA-BAKKA"
+  },
+  {
+    "id": "7604032013",
+    "district_id": "760403",
+    "name": "ARJOSARI"
+  },
+  {
+    "id": "7604032014",
+    "district_id": "760403",
+    "name": "GALESO"
+  }
+]

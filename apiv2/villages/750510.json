@@ -1,1 +1,52 @@
-[{"id": "7505102001", "district_id": "750510", "name": "BIAU"}, {"id": "7505102002", "district_id": "750510", "name": "OMUTO"}, {"id": "7505102003", "district_id": "750510", "name": "LUHUTO"}, {"id": "7505102004", "district_id": "750510", "name": "WINDU"}, {"id": "7505102005", "district_id": "750510", "name": "TOPI"}, {"id": "7505102006", "district_id": "750510", "name": "SEMBIHINGAN"}, {"id": "7505102007", "district_id": "750510", "name": "DIDINGGA"}, {"id": "7505102008", "district_id": "750510", "name": "BUALO"}, {"id": "7505102009", "district_id": "750510", "name": "POTANGA"}, {"id": "7505102010", "district_id": "750510", "name": "BOHULO"}]
+[
+  {
+    "id": "7505102001",
+    "district_id": "750510",
+    "name": "BIAU"
+  },
+  {
+    "id": "7505102002",
+    "district_id": "750510",
+    "name": "OMUTO"
+  },
+  {
+    "id": "7505102003",
+    "district_id": "750510",
+    "name": "LUHUTO"
+  },
+  {
+    "id": "7505102004",
+    "district_id": "750510",
+    "name": "WINDU"
+  },
+  {
+    "id": "7505102005",
+    "district_id": "750510",
+    "name": "TOPI"
+  },
+  {
+    "id": "7505102006",
+    "district_id": "750510",
+    "name": "SEMBIHINGAN"
+  },
+  {
+    "id": "7505102007",
+    "district_id": "750510",
+    "name": "DIDINGGA"
+  },
+  {
+    "id": "7505102008",
+    "district_id": "750510",
+    "name": "BUALO"
+  },
+  {
+    "id": "7505102009",
+    "district_id": "750510",
+    "name": "POTANGA"
+  },
+  {
+    "id": "7505102010",
+    "district_id": "750510",
+    "name": "BOHULO"
+  }
+]

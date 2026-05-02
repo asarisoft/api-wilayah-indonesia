@@ -1,1 +1,47 @@
-[{"id": "1218112004", "district_id": "121811", "name": "BATU MASAGI"}, {"id": "1218112013", "district_id": "121811", "name": "DAMAK GELUGUR"}, {"id": "1218112016", "district_id": "121811", "name": "KULASAR"}, {"id": "1218112021", "district_id": "121811", "name": "PAGAR MANIK"}, {"id": "1218112022", "district_id": "121811", "name": "PAMAH"}, {"id": "1218112026", "district_id": "121811", "name": "SILINDA"}, {"id": "1218112028", "district_id": "121811", "name": "SUNGAI BUAYA"}, {"id": "1218112029", "district_id": "121811", "name": "TAREAN"}, {"id": "1218112031", "district_id": "121811", "name": "TAPAK MERIAH"}]
+[
+  {
+    "id": "1218112004",
+    "district_id": "121811",
+    "name": "BATU MASAGI"
+  },
+  {
+    "id": "1218112013",
+    "district_id": "121811",
+    "name": "DAMAK GELUGUR"
+  },
+  {
+    "id": "1218112016",
+    "district_id": "121811",
+    "name": "KULASAR"
+  },
+  {
+    "id": "1218112021",
+    "district_id": "121811",
+    "name": "PAGAR MANIK"
+  },
+  {
+    "id": "1218112022",
+    "district_id": "121811",
+    "name": "PAMAH"
+  },
+  {
+    "id": "1218112026",
+    "district_id": "121811",
+    "name": "SILINDA"
+  },
+  {
+    "id": "1218112028",
+    "district_id": "121811",
+    "name": "SUNGAI BUAYA"
+  },
+  {
+    "id": "1218112029",
+    "district_id": "121811",
+    "name": "TAREAN"
+  },
+  {
+    "id": "1218112031",
+    "district_id": "121811",
+    "name": "TAPAK MERIAH"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "3312161005", "district_id": "331216", "name": "KISMANTORO"}, {"id": "3312161008", "district_id": "331216", "name": "GESING"}, {"id": "3312162001", "district_id": "331216", "name": "PUCUNG"}, {"id": "3312162002", "district_id": "331216", "name": "PLOSOREJO"}, {"id": "3312162003", "district_id": "331216", "name": "BUGELAN"}, {"id": "3312162004", "district_id": "331216", "name": "NGROTO"}, {"id": "3312162006", "district_id": "331216", "name": "MIRI"}, {"id": "3312162007", "district_id": "331216", "name": "LEMAHBANG"}, {"id": "3312162009", "district_id": "331216", "name": "GAMBIRANOM"}, {"id": "3312162010", "district_id": "331216", "name": "GEDAWUNG"}]
+[
+  {
+    "id": "3312161005",
+    "district_id": "331216",
+    "name": "KISMANTORO"
+  },
+  {
+    "id": "3312161008",
+    "district_id": "331216",
+    "name": "GESING"
+  },
+  {
+    "id": "3312162001",
+    "district_id": "331216",
+    "name": "PUCUNG"
+  },
+  {
+    "id": "3312162002",
+    "district_id": "331216",
+    "name": "PLOSOREJO"
+  },
+  {
+    "id": "3312162003",
+    "district_id": "331216",
+    "name": "BUGELAN"
+  },
+  {
+    "id": "3312162004",
+    "district_id": "331216",
+    "name": "NGROTO"
+  },
+  {
+    "id": "3312162006",
+    "district_id": "331216",
+    "name": "MIRI"
+  },
+  {
+    "id": "3312162007",
+    "district_id": "331216",
+    "name": "LEMAHBANG"
+  },
+  {
+    "id": "3312162009",
+    "district_id": "331216",
+    "name": "GAMBIRANOM"
+  },
+  {
+    "id": "3312162010",
+    "district_id": "331216",
+    "name": "GEDAWUNG"
+  }
+]

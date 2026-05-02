@@ -1,1 +1,32 @@
-[{"id": "7503142001", "district_id": "750314", "name": "MONGIILO"}, {"id": "7503142002", "district_id": "750314", "name": "OWATA"}, {"id": "7503142003", "district_id": "750314", "name": "MONGIILO UTARA"}, {"id": "7503142004", "district_id": "750314", "name": "PILOLAHEYA"}, {"id": "7503142005", "district_id": "750314", "name": "ILOMATA"}, {"id": "7503142006", "district_id": "750314", "name": "SUKA MAKMUR"}]
+[
+  {
+    "id": "7503142001",
+    "district_id": "750314",
+    "name": "MONGIILO"
+  },
+  {
+    "id": "7503142002",
+    "district_id": "750314",
+    "name": "OWATA"
+  },
+  {
+    "id": "7503142003",
+    "district_id": "750314",
+    "name": "MONGIILO UTARA"
+  },
+  {
+    "id": "7503142004",
+    "district_id": "750314",
+    "name": "PILOLAHEYA"
+  },
+  {
+    "id": "7503142005",
+    "district_id": "750314",
+    "name": "ILOMATA"
+  },
+  {
+    "id": "7503142006",
+    "district_id": "750314",
+    "name": "SUKA MAKMUR"
+  }
+]

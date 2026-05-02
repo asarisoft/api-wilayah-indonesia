@@ -1,1 +1,27 @@
-[{"id": "5321122001", "district_id": "532112", "name": "BABOTIN"}, {"id": "5321122002", "district_id": "532112", "name": "KEREANA"}, {"id": "5321122003", "district_id": "532112", "name": "BABOTIN MAEMINA"}, {"id": "5321122004", "district_id": "532112", "name": "BABOTIN SELATAN"}, {"id": "5321122005", "district_id": "532112", "name": "TAKARAI"}]
+[
+  {
+    "id": "5321122001",
+    "district_id": "532112",
+    "name": "BABOTIN"
+  },
+  {
+    "id": "5321122002",
+    "district_id": "532112",
+    "name": "KEREANA"
+  },
+  {
+    "id": "5321122003",
+    "district_id": "532112",
+    "name": "BABOTIN MAEMINA"
+  },
+  {
+    "id": "5321122004",
+    "district_id": "532112",
+    "name": "BABOTIN SELATAN"
+  },
+  {
+    "id": "5321122005",
+    "district_id": "532112",
+    "name": "TAKARAI"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "3578291001", "district_id": "357829", "name": "KEDUNG COWEK"}, {"id": "3578291003", "district_id": "357829", "name": "KENJERAN"}, {"id": "3578291004", "district_id": "357829", "name": "BULAK"}, {"id": "3578291005", "district_id": "357829", "name": "SUKOLILO BARU"}]
+[
+  {
+    "id": "3578291001",
+    "district_id": "357829",
+    "name": "KEDUNG COWEK"
+  },
+  {
+    "id": "3578291003",
+    "district_id": "357829",
+    "name": "KENJERAN"
+  },
+  {
+    "id": "3578291004",
+    "district_id": "357829",
+    "name": "BULAK"
+  },
+  {
+    "id": "3578291005",
+    "district_id": "357829",
+    "name": "SUKOLILO BARU"
+  }
+]

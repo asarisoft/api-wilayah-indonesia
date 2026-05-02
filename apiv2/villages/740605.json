@@ -1,1 +1,22 @@
-[{"id": "7406051009", "district_id": "740605", "name": "TEOMOKOLE"}, {"id": "7406051016", "district_id": "740605", "name": "RAHAMPUU"}, {"id": "7406052010", "district_id": "740605", "name": "RAHADOPI"}, {"id": "7406052011", "district_id": "740605", "name": "TIRONGKOTUA"}]
+[
+  {
+    "id": "7406051009",
+    "district_id": "740605",
+    "name": "TEOMOKOLE"
+  },
+  {
+    "id": "7406051016",
+    "district_id": "740605",
+    "name": "RAHAMPUU"
+  },
+  {
+    "id": "7406052010",
+    "district_id": "740605",
+    "name": "RAHADOPI"
+  },
+  {
+    "id": "7406052011",
+    "district_id": "740605",
+    "name": "TIRONGKOTUA"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "6106152001", "district_id": "610615", "name": "PERIGI"}, {"id": "6106152002", "district_id": "610615", "name": "BARU"}, {"id": "6106152003", "district_id": "610615", "name": "PANGERAN"}, {"id": "6106152004", "district_id": "610615", "name": "MIAU MERAH"}, {"id": "6106152005", "district_id": "610615", "name": "SETUNGGUL"}, {"id": "6106152006", "district_id": "610615", "name": "SUNGAI SENA"}, {"id": "6106152007", "district_id": "610615", "name": "PENAI"}, {"id": "6106152008", "district_id": "610615", "name": "NANGA NUAR"}, {"id": "6106152009", "district_id": "610615", "name": "BONGKONG"}, {"id": "6106152010", "district_id": "610615", "name": "SEBERU"}, {"id": "6106152011", "district_id": "610615", "name": "SENTABAI"}, {"id": "6106152012", "district_id": "610615", "name": "RUMBIH"}, {"id": "6106152013", "district_id": "610615", "name": "BUKIT PENAI"}]
+[
+  {
+    "id": "6106152001",
+    "district_id": "610615",
+    "name": "PERIGI"
+  },
+  {
+    "id": "6106152002",
+    "district_id": "610615",
+    "name": "BARU"
+  },
+  {
+    "id": "6106152003",
+    "district_id": "610615",
+    "name": "PANGERAN"
+  },
+  {
+    "id": "6106152004",
+    "district_id": "610615",
+    "name": "MIAU MERAH"
+  },
+  {
+    "id": "6106152005",
+    "district_id": "610615",
+    "name": "SETUNGGUL"
+  },
+  {
+    "id": "6106152006",
+    "district_id": "610615",
+    "name": "SUNGAI SENA"
+  },
+  {
+    "id": "6106152007",
+    "district_id": "610615",
+    "name": "PENAI"
+  },
+  {
+    "id": "6106152008",
+    "district_id": "610615",
+    "name": "NANGA NUAR"
+  },
+  {
+    "id": "6106152009",
+    "district_id": "610615",
+    "name": "BONGKONG"
+  },
+  {
+    "id": "6106152010",
+    "district_id": "610615",
+    "name": "SEBERU"
+  },
+  {
+    "id": "6106152011",
+    "district_id": "610615",
+    "name": "SENTABAI"
+  },
+  {
+    "id": "6106152012",
+    "district_id": "610615",
+    "name": "RUMBIH"
+  },
+  {
+    "id": "6106152013",
+    "district_id": "610615",
+    "name": "BUKIT PENAI"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "6407172001", "district_id": "640717", "name": "TEBISAQ"}, {"id": "6407172002", "district_id": "640717", "name": "KALIQ"}, {"id": "6407172003", "district_id": "640717", "name": "TANAH MEA"}, {"id": "6407172004", "district_id": "640717", "name": "SANG-SANG"}, {"id": "6407172005", "district_id": "640717", "name": "MUHUR"}, {"id": "6407172006", "district_id": "640717", "name": "MUARA KELAWIT"}, {"id": "6407172007", "district_id": "640717", "name": "BENTAS"}, {"id": "6407172008", "district_id": "640717", "name": "BETUNG"}, {"id": "6407172009", "district_id": "640717", "name": "KIAQ"}, {"id": "6407172010", "district_id": "640717", "name": "TENDIQ"}, {"id": "6407172011", "district_id": "640717", "name": "PENAWANG"}, {"id": "6407172012", "district_id": "640717", "name": "LENDIAN LIANG NAYUQ"}, {"id": "6407172013", "district_id": "640717", "name": "KENYANYAN"}, {"id": "6407172014", "district_id": "640717", "name": "RIKONG"}, {"id": "6407172015", "district_id": "640717", "name": "KENDESIQ"}, {"id": "6407172016", "district_id": "640717", "name": "MUARA PONAQ"}]
+[
+  {
+    "id": "6407172001",
+    "district_id": "640717",
+    "name": "TEBISAQ"
+  },
+  {
+    "id": "6407172002",
+    "district_id": "640717",
+    "name": "KALIQ"
+  },
+  {
+    "id": "6407172003",
+    "district_id": "640717",
+    "name": "TANAH MEA"
+  },
+  {
+    "id": "6407172004",
+    "district_id": "640717",
+    "name": "SANG-SANG"
+  },
+  {
+    "id": "6407172005",
+    "district_id": "640717",
+    "name": "MUHUR"
+  },
+  {
+    "id": "6407172006",
+    "district_id": "640717",
+    "name": "MUARA KELAWIT"
+  },
+  {
+    "id": "6407172007",
+    "district_id": "640717",
+    "name": "BENTAS"
+  },
+  {
+    "id": "6407172008",
+    "district_id": "640717",
+    "name": "BETUNG"
+  },
+  {
+    "id": "6407172009",
+    "district_id": "640717",
+    "name": "KIAQ"
+  },
+  {
+    "id": "6407172010",
+    "district_id": "640717",
+    "name": "TENDIQ"
+  },
+  {
+    "id": "6407172011",
+    "district_id": "640717",
+    "name": "PENAWANG"
+  },
+  {
+    "id": "6407172012",
+    "district_id": "640717",
+    "name": "LENDIAN LIANG NAYUQ"
+  },
+  {
+    "id": "6407172013",
+    "district_id": "640717",
+    "name": "KENYANYAN"
+  },
+  {
+    "id": "6407172014",
+    "district_id": "640717",
+    "name": "RIKONG"
+  },
+  {
+    "id": "6407172015",
+    "district_id": "640717",
+    "name": "KENDESIQ"
+  },
+  {
+    "id": "6407172016",
+    "district_id": "640717",
+    "name": "MUARA PONAQ"
+  }
+]

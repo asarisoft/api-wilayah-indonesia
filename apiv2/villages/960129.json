@@ -1,1 +1,27 @@
-[{"id": "9601292001", "district_id": "960129", "name": "KLAFLUK"}, {"id": "9601292002", "district_id": "960129", "name": "MAMSIT"}, {"id": "9601292003", "district_id": "960129", "name": "SABAKE"}, {"id": "9601292004", "district_id": "960129", "name": "KLAYASTANI"}, {"id": "9601292005", "district_id": "960129", "name": "BOTAIN"}]
+[
+  {
+    "id": "9601292001",
+    "district_id": "960129",
+    "name": "KLAFLUK"
+  },
+  {
+    "id": "9601292002",
+    "district_id": "960129",
+    "name": "MAMSIT"
+  },
+  {
+    "id": "9601292003",
+    "district_id": "960129",
+    "name": "SABAKE"
+  },
+  {
+    "id": "9601292004",
+    "district_id": "960129",
+    "name": "KLAYASTANI"
+  },
+  {
+    "id": "9601292005",
+    "district_id": "960129",
+    "name": "BOTAIN"
+  }
+]

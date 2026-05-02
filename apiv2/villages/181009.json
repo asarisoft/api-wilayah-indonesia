@@ -1,1 +1,52 @@
-[{"id": "1810092001", "district_id": "181009", "name": "FAJAR BARU"}, {"id": "1810092002", "district_id": "181009", "name": "KEMILIN"}, {"id": "1810092003", "district_id": "181009", "name": "NEGLASARI"}, {"id": "1810092004", "district_id": "181009", "name": "FAJAR MULIA"}, {"id": "1810092005", "district_id": "181009", "name": "MARGOSARI"}, {"id": "1810092006", "district_id": "181009", "name": "GIRI TUNGGAL"}, {"id": "1810092007", "district_id": "181009", "name": "SUMBER BANDUNG"}, {"id": "1810092008", "district_id": "181009", "name": "MADARAYA"}, {"id": "1810092009", "district_id": "181009", "name": "WAY KUNIR"}, {"id": "1810092010", "district_id": "181009", "name": "GUNUNG RAYA"}]
+[
+  {
+    "id": "1810092001",
+    "district_id": "181009",
+    "name": "FAJAR BARU"
+  },
+  {
+    "id": "1810092002",
+    "district_id": "181009",
+    "name": "KEMILIN"
+  },
+  {
+    "id": "1810092003",
+    "district_id": "181009",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "1810092004",
+    "district_id": "181009",
+    "name": "FAJAR MULIA"
+  },
+  {
+    "id": "1810092005",
+    "district_id": "181009",
+    "name": "MARGOSARI"
+  },
+  {
+    "id": "1810092006",
+    "district_id": "181009",
+    "name": "GIRI TUNGGAL"
+  },
+  {
+    "id": "1810092007",
+    "district_id": "181009",
+    "name": "SUMBER BANDUNG"
+  },
+  {
+    "id": "1810092008",
+    "district_id": "181009",
+    "name": "MADARAYA"
+  },
+  {
+    "id": "1810092009",
+    "district_id": "181009",
+    "name": "WAY KUNIR"
+  },
+  {
+    "id": "1810092010",
+    "district_id": "181009",
+    "name": "GUNUNG RAYA"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3302112001", "district_id": "330211", "name": "BINANGUN"}, {"id": "3302112002", "district_id": "330211", "name": "PASINGGANGAN"}, {"id": "3302112003", "district_id": "330211", "name": "KEDUNGGEDE"}, {"id": "3302112004", "district_id": "330211", "name": "KARANGRAU"}, {"id": "3302112005", "district_id": "330211", "name": "KEJAWAR"}, {"id": "3302112006", "district_id": "330211", "name": "DANARAJA"}, {"id": "3302112007", "district_id": "330211", "name": "KEDUNGUTER"}, {"id": "3302112008", "district_id": "330211", "name": "SUDAGARAN"}, {"id": "3302112009", "district_id": "330211", "name": "PEKUNDEN"}, {"id": "3302112010", "district_id": "330211", "name": "KALISUBE"}, {"id": "3302112011", "district_id": "330211", "name": "DAWUHAN"}, {"id": "3302112012", "district_id": "330211", "name": "PAPRINGAN"}]
+[
+  {
+    "id": "3302112001",
+    "district_id": "330211",
+    "name": "BINANGUN"
+  },
+  {
+    "id": "3302112002",
+    "district_id": "330211",
+    "name": "PASINGGANGAN"
+  },
+  {
+    "id": "3302112003",
+    "district_id": "330211",
+    "name": "KEDUNGGEDE"
+  },
+  {
+    "id": "3302112004",
+    "district_id": "330211",
+    "name": "KARANGRAU"
+  },
+  {
+    "id": "3302112005",
+    "district_id": "330211",
+    "name": "KEJAWAR"
+  },
+  {
+    "id": "3302112006",
+    "district_id": "330211",
+    "name": "DANARAJA"
+  },
+  {
+    "id": "3302112007",
+    "district_id": "330211",
+    "name": "KEDUNGUTER"
+  },
+  {
+    "id": "3302112008",
+    "district_id": "330211",
+    "name": "SUDAGARAN"
+  },
+  {
+    "id": "3302112009",
+    "district_id": "330211",
+    "name": "PEKUNDEN"
+  },
+  {
+    "id": "3302112010",
+    "district_id": "330211",
+    "name": "KALISUBE"
+  },
+  {
+    "id": "3302112011",
+    "district_id": "330211",
+    "name": "DAWUHAN"
+  },
+  {
+    "id": "3302112012",
+    "district_id": "330211",
+    "name": "PAPRINGAN"
+  }
+]

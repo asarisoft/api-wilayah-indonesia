@@ -1,1 +1,67 @@
-[{"id": "9302022001", "district_id": "930202", "name": "MINDIPTANA"}, {"id": "9302022002", "district_id": "930202", "name": "UMAP"}, {"id": "9302022003", "district_id": "930202", "name": "AWAYANKA"}, {"id": "9302022004", "district_id": "930202", "name": "WANGGATKIBI"}, {"id": "9302022005", "district_id": "930202", "name": "EPSEMBIT"}, {"id": "9302022006", "district_id": "930202", "name": "ANDOBIT"}, {"id": "9302022007", "district_id": "930202", "name": "NIYIMBANG"}, {"id": "9302022008", "district_id": "930202", "name": "ANGGUMBIT"}, {"id": "9302022009", "district_id": "930202", "name": "IMKO"}, {"id": "9302022010", "district_id": "930202", "name": "KAMKA"}, {"id": "9302022011", "district_id": "930202", "name": "OSSO"}, {"id": "9302022012", "district_id": "930202", "name": "TINGGAM"}, {"id": "9302022013", "district_id": "930202", "name": "KAKUNA"}]
+[
+  {
+    "id": "9302022001",
+    "district_id": "930202",
+    "name": "MINDIPTANA"
+  },
+  {
+    "id": "9302022002",
+    "district_id": "930202",
+    "name": "UMAP"
+  },
+  {
+    "id": "9302022003",
+    "district_id": "930202",
+    "name": "AWAYANKA"
+  },
+  {
+    "id": "9302022004",
+    "district_id": "930202",
+    "name": "WANGGATKIBI"
+  },
+  {
+    "id": "9302022005",
+    "district_id": "930202",
+    "name": "EPSEMBIT"
+  },
+  {
+    "id": "9302022006",
+    "district_id": "930202",
+    "name": "ANDOBIT"
+  },
+  {
+    "id": "9302022007",
+    "district_id": "930202",
+    "name": "NIYIMBANG"
+  },
+  {
+    "id": "9302022008",
+    "district_id": "930202",
+    "name": "ANGGUMBIT"
+  },
+  {
+    "id": "9302022009",
+    "district_id": "930202",
+    "name": "IMKO"
+  },
+  {
+    "id": "9302022010",
+    "district_id": "930202",
+    "name": "KAMKA"
+  },
+  {
+    "id": "9302022011",
+    "district_id": "930202",
+    "name": "OSSO"
+  },
+  {
+    "id": "9302022012",
+    "district_id": "930202",
+    "name": "TINGGAM"
+  },
+  {
+    "id": "9302022013",
+    "district_id": "930202",
+    "name": "KAKUNA"
+  }
+]

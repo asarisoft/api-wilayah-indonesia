@@ -1,1 +1,32 @@
-[{"id": "3276061001", "district_id": "327606", "name": "BEJI"}, {"id": "3276061002", "district_id": "327606", "name": "KUKUSAN"}, {"id": "3276061003", "district_id": "327606", "name": "TANAH BARU"}, {"id": "3276061004", "district_id": "327606", "name": "KEMIRI MUKA"}, {"id": "3276061005", "district_id": "327606", "name": "PONDOK CINA"}, {"id": "3276061006", "district_id": "327606", "name": "BEJI TIMUR"}]
+[
+  {
+    "id": "3276061001",
+    "district_id": "327606",
+    "name": "BEJI"
+  },
+  {
+    "id": "3276061002",
+    "district_id": "327606",
+    "name": "KUKUSAN"
+  },
+  {
+    "id": "3276061003",
+    "district_id": "327606",
+    "name": "TANAH BARU"
+  },
+  {
+    "id": "3276061004",
+    "district_id": "327606",
+    "name": "KEMIRI MUKA"
+  },
+  {
+    "id": "3276061005",
+    "district_id": "327606",
+    "name": "PONDOK CINA"
+  },
+  {
+    "id": "3276061006",
+    "district_id": "327606",
+    "name": "BEJI TIMUR"
+  }
+]

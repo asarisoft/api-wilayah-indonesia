@@ -1,1 +1,142 @@
-[{"id": "5309061013", "district_id": "530906", "name": "BAJAWA"}, {"id": "5309061014", "district_id": "530906", "name": "TANALODU"}, {"id": "5309061015", "district_id": "530906", "name": "KISANATA"}, {"id": "5309061016", "district_id": "530906", "name": "JAWAMEZE"}, {"id": "5309061017", "district_id": "530906", "name": "TRIKORA"}, {"id": "5309061018", "district_id": "530906", "name": "NGEDUKELU"}, {"id": "5309061019", "district_id": "530906", "name": "LEBIJAGA"}, {"id": "5309061020", "district_id": "530906", "name": "FAOBATA"}, {"id": "5309061021", "district_id": "530906", "name": "SUSU"}, {"id": "5309062001", "district_id": "530906", "name": "BEJA"}, {"id": "5309062002", "district_id": "530906", "name": "BOMARI"}, {"id": "5309062003", "district_id": "530906", "name": "WAWOWAE"}, {"id": "5309062004", "district_id": "530906", "name": "UBEDOLUMOLO"}, {"id": "5309062005", "district_id": "530906", "name": "NARU"}, {"id": "5309062009", "district_id": "530906", "name": "BEIWALI"}, {"id": "5309062022", "district_id": "530906", "name": "BORANI"}, {"id": "5309062023", "district_id": "530906", "name": "LANGAGEDHA"}, {"id": "5309062024", "district_id": "530906", "name": "PAPE"}, {"id": "5309062025", "district_id": "530906", "name": "BOWALI"}, {"id": "5309062026", "district_id": "530906", "name": "NGORANALE"}, {"id": "5309062027", "district_id": "530906", "name": "UBEDOLUMOLO I"}, {"id": "5309062028", "district_id": "530906", "name": "BELA"}, {"id": "5309062029", "district_id": "530906", "name": "NGADHAMANA"}, {"id": "5309062030", "district_id": "530906", "name": "BOLONGA"}, {"id": "5309062031", "district_id": "530906", "name": "BORADHO"}, {"id": "5309062032", "district_id": "530906", "name": "MUKUVOKA"}, {"id": "5309062033", "district_id": "530906", "name": "UBEDOLUMOLO II"}, {"id": "5309062034", "district_id": "530906", "name": "LANGAGEDHA I"}]
+[
+  {
+    "id": "5309061013",
+    "district_id": "530906",
+    "name": "BAJAWA"
+  },
+  {
+    "id": "5309061014",
+    "district_id": "530906",
+    "name": "TANALODU"
+  },
+  {
+    "id": "5309061015",
+    "district_id": "530906",
+    "name": "KISANATA"
+  },
+  {
+    "id": "5309061016",
+    "district_id": "530906",
+    "name": "JAWAMEZE"
+  },
+  {
+    "id": "5309061017",
+    "district_id": "530906",
+    "name": "TRIKORA"
+  },
+  {
+    "id": "5309061018",
+    "district_id": "530906",
+    "name": "NGEDUKELU"
+  },
+  {
+    "id": "5309061019",
+    "district_id": "530906",
+    "name": "LEBIJAGA"
+  },
+  {
+    "id": "5309061020",
+    "district_id": "530906",
+    "name": "FAOBATA"
+  },
+  {
+    "id": "5309061021",
+    "district_id": "530906",
+    "name": "SUSU"
+  },
+  {
+    "id": "5309062001",
+    "district_id": "530906",
+    "name": "BEJA"
+  },
+  {
+    "id": "5309062002",
+    "district_id": "530906",
+    "name": "BOMARI"
+  },
+  {
+    "id": "5309062003",
+    "district_id": "530906",
+    "name": "WAWOWAE"
+  },
+  {
+    "id": "5309062004",
+    "district_id": "530906",
+    "name": "UBEDOLUMOLO"
+  },
+  {
+    "id": "5309062005",
+    "district_id": "530906",
+    "name": "NARU"
+  },
+  {
+    "id": "5309062009",
+    "district_id": "530906",
+    "name": "BEIWALI"
+  },
+  {
+    "id": "5309062022",
+    "district_id": "530906",
+    "name": "BORANI"
+  },
+  {
+    "id": "5309062023",
+    "district_id": "530906",
+    "name": "LANGAGEDHA"
+  },
+  {
+    "id": "5309062024",
+    "district_id": "530906",
+    "name": "PAPE"
+  },
+  {
+    "id": "5309062025",
+    "district_id": "530906",
+    "name": "BOWALI"
+  },
+  {
+    "id": "5309062026",
+    "district_id": "530906",
+    "name": "NGORANALE"
+  },
+  {
+    "id": "5309062027",
+    "district_id": "530906",
+    "name": "UBEDOLUMOLO I"
+  },
+  {
+    "id": "5309062028",
+    "district_id": "530906",
+    "name": "BELA"
+  },
+  {
+    "id": "5309062029",
+    "district_id": "530906",
+    "name": "NGADHAMANA"
+  },
+  {
+    "id": "5309062030",
+    "district_id": "530906",
+    "name": "BOLONGA"
+  },
+  {
+    "id": "5309062031",
+    "district_id": "530906",
+    "name": "BORADHO"
+  },
+  {
+    "id": "5309062032",
+    "district_id": "530906",
+    "name": "MUKUVOKA"
+  },
+  {
+    "id": "5309062033",
+    "district_id": "530906",
+    "name": "UBEDOLUMOLO II"
+  },
+  {
+    "id": "5309062034",
+    "district_id": "530906",
+    "name": "LANGAGEDHA I"
+  }
+]

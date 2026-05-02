@@ -1,1 +1,37 @@
-[{"id": "7322052001", "district_id": "732205", "name": "MARAMPA"}, {"id": "7322052002", "district_id": "732205", "name": "PENGKENDEKAN"}, {"id": "7322052003", "district_id": "732205", "name": "KANANDEDE"}, {"id": "7322052004", "district_id": "732205", "name": "RINDING ALLO"}, {"id": "7322052005", "district_id": "732205", "name": "MINANGA"}, {"id": "7322052006", "district_id": "732205", "name": "KOMBA"}, {"id": "7322052007", "district_id": "732205", "name": "LIMBONG"}]
+[
+  {
+    "id": "7322052001",
+    "district_id": "732205",
+    "name": "MARAMPA"
+  },
+  {
+    "id": "7322052002",
+    "district_id": "732205",
+    "name": "PENGKENDEKAN"
+  },
+  {
+    "id": "7322052003",
+    "district_id": "732205",
+    "name": "KANANDEDE"
+  },
+  {
+    "id": "7322052004",
+    "district_id": "732205",
+    "name": "RINDING ALLO"
+  },
+  {
+    "id": "7322052005",
+    "district_id": "732205",
+    "name": "MINANGA"
+  },
+  {
+    "id": "7322052006",
+    "district_id": "732205",
+    "name": "KOMBA"
+  },
+  {
+    "id": "7322052007",
+    "district_id": "732205",
+    "name": "LIMBONG"
+  }
+]

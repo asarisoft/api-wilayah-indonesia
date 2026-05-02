@@ -1,1 +1,117 @@
-[{"id": "6409011001", "district_id": "640901", "name": "TANJUNG TENGAH"}, {"id": "6409011002", "district_id": "640901", "name": "SALO LOANG"}, {"id": "6409011003", "district_id": "640901", "name": "PETUNG"}, {"id": "6409011004", "district_id": "640901", "name": "LAWE-LAWE"}, {"id": "6409011005", "district_id": "640901", "name": "PEJALA"}, {"id": "6409011006", "district_id": "640901", "name": "KAMPUNG BARU"}, {"id": "6409011007", "district_id": "640901", "name": "SESUMPU"}, {"id": "6409011008", "district_id": "640901", "name": "SUNGAI PARIT"}, {"id": "6409011009", "district_id": "640901", "name": "NIPAH-NIPAH"}, {"id": "6409011010", "district_id": "640901", "name": "NENANG"}, {"id": "6409011011", "district_id": "640901", "name": "PENAJAM"}, {"id": "6409011012", "district_id": "640901", "name": "GUNUNG SETELENG"}, {"id": "6409011013", "district_id": "640901", "name": "BULUMINUNG"}, {"id": "6409011014", "district_id": "640901", "name": "SOTEK"}, {"id": "6409011015", "district_id": "640901", "name": "SEPAN"}, {"id": "6409011016", "district_id": "640901", "name": "RIKO"}, {"id": "6409011017", "district_id": "640901", "name": "GERSIK"}, {"id": "6409011018", "district_id": "640901", "name": "JENEBORA"}, {"id": "6409011019", "district_id": "640901", "name": "PANTAI LANGO"}, {"id": "6409012020", "district_id": "640901", "name": "GIRI MUKTI"}, {"id": "6409012021", "district_id": "640901", "name": "BUKIT SUBUR"}, {"id": "6409012022", "district_id": "640901", "name": "SIDOREJO"}, {"id": "6409012023", "district_id": "640901", "name": "GIRI PURWA"}]
+[
+  {
+    "id": "6409011001",
+    "district_id": "640901",
+    "name": "TANJUNG TENGAH"
+  },
+  {
+    "id": "6409011002",
+    "district_id": "640901",
+    "name": "SALO LOANG"
+  },
+  {
+    "id": "6409011003",
+    "district_id": "640901",
+    "name": "PETUNG"
+  },
+  {
+    "id": "6409011004",
+    "district_id": "640901",
+    "name": "LAWE-LAWE"
+  },
+  {
+    "id": "6409011005",
+    "district_id": "640901",
+    "name": "PEJALA"
+  },
+  {
+    "id": "6409011006",
+    "district_id": "640901",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "6409011007",
+    "district_id": "640901",
+    "name": "SESUMPU"
+  },
+  {
+    "id": "6409011008",
+    "district_id": "640901",
+    "name": "SUNGAI PARIT"
+  },
+  {
+    "id": "6409011009",
+    "district_id": "640901",
+    "name": "NIPAH-NIPAH"
+  },
+  {
+    "id": "6409011010",
+    "district_id": "640901",
+    "name": "NENANG"
+  },
+  {
+    "id": "6409011011",
+    "district_id": "640901",
+    "name": "PENAJAM"
+  },
+  {
+    "id": "6409011012",
+    "district_id": "640901",
+    "name": "GUNUNG SETELENG"
+  },
+  {
+    "id": "6409011013",
+    "district_id": "640901",
+    "name": "BULUMINUNG"
+  },
+  {
+    "id": "6409011014",
+    "district_id": "640901",
+    "name": "SOTEK"
+  },
+  {
+    "id": "6409011015",
+    "district_id": "640901",
+    "name": "SEPAN"
+  },
+  {
+    "id": "6409011016",
+    "district_id": "640901",
+    "name": "RIKO"
+  },
+  {
+    "id": "6409011017",
+    "district_id": "640901",
+    "name": "GERSIK"
+  },
+  {
+    "id": "6409011018",
+    "district_id": "640901",
+    "name": "JENEBORA"
+  },
+  {
+    "id": "6409011019",
+    "district_id": "640901",
+    "name": "PANTAI LANGO"
+  },
+  {
+    "id": "6409012020",
+    "district_id": "640901",
+    "name": "GIRI MUKTI"
+  },
+  {
+    "id": "6409012021",
+    "district_id": "640901",
+    "name": "BUKIT SUBUR"
+  },
+  {
+    "id": "6409012022",
+    "district_id": "640901",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "6409012023",
+    "district_id": "640901",
+    "name": "GIRI PURWA"
+  }
+]

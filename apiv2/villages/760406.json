@@ -1,1 +1,52 @@
-[{"id": "7604061005", "district_id": "760406", "name": "AMASSANGAN"}, {"id": "7604062001", "district_id": "760406", "name": "TONYAMAN"}, {"id": "7604062002", "district_id": "760406", "name": "KUAJANG"}, {"id": "7604062003", "district_id": "760406", "name": "PAKU"}, {"id": "7604062004", "district_id": "760406", "name": "MIRRING"}, {"id": "7604062006", "district_id": "760406", "name": "BATETANGNGA"}, {"id": "7604062007", "district_id": "760406", "name": "MAMMI"}, {"id": "7604062008", "district_id": "760406", "name": "KALEOK"}, {"id": "7604062009", "district_id": "760406", "name": "AMOLA"}, {"id": "7604062010", "district_id": "760406", "name": "REA"}]
+[
+  {
+    "id": "7604061005",
+    "district_id": "760406",
+    "name": "AMASSANGAN"
+  },
+  {
+    "id": "7604062001",
+    "district_id": "760406",
+    "name": "TONYAMAN"
+  },
+  {
+    "id": "7604062002",
+    "district_id": "760406",
+    "name": "KUAJANG"
+  },
+  {
+    "id": "7604062003",
+    "district_id": "760406",
+    "name": "PAKU"
+  },
+  {
+    "id": "7604062004",
+    "district_id": "760406",
+    "name": "MIRRING"
+  },
+  {
+    "id": "7604062006",
+    "district_id": "760406",
+    "name": "BATETANGNGA"
+  },
+  {
+    "id": "7604062007",
+    "district_id": "760406",
+    "name": "MAMMI"
+  },
+  {
+    "id": "7604062008",
+    "district_id": "760406",
+    "name": "KALEOK"
+  },
+  {
+    "id": "7604062009",
+    "district_id": "760406",
+    "name": "AMOLA"
+  },
+  {
+    "id": "7604062010",
+    "district_id": "760406",
+    "name": "REA"
+  }
+]

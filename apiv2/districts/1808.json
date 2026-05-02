@@ -1,1 +1,77 @@
-[{"id": "180801", "regency_id": "1808", "name": "BLAMBANGAN UMPU"}, {"id": "180802", "regency_id": "1808", "name": "KASUI"}, {"id": "180803", "regency_id": "1808", "name": "BANJIT"}, {"id": "180804", "regency_id": "1808", "name": "BARADATU"}, {"id": "180805", "regency_id": "1808", "name": "BAHUGA"}, {"id": "180806", "regency_id": "1808", "name": "PAKUAN RATU"}, {"id": "180807", "regency_id": "1808", "name": "NEGERI AGUNG"}, {"id": "180808", "regency_id": "1808", "name": "WAY TUBA"}, {"id": "180809", "regency_id": "1808", "name": "REBANG TANGKAS"}, {"id": "180810", "regency_id": "1808", "name": "GUNUNG LABUHAN"}, {"id": "180811", "regency_id": "1808", "name": "NEGARA BATIN"}, {"id": "180812", "regency_id": "1808", "name": "NEGERI BESAR"}, {"id": "180813", "regency_id": "1808", "name": "BUAY BAHUGA"}, {"id": "180814", "regency_id": "1808", "name": "BUMI AGUNG"}, {"id": "180815", "regency_id": "1808", "name": "UMPU SEMENGUK"}]
+[
+  {
+    "id": "180801",
+    "regency_id": "1808",
+    "name": "BLAMBANGAN UMPU"
+  },
+  {
+    "id": "180802",
+    "regency_id": "1808",
+    "name": "KASUI"
+  },
+  {
+    "id": "180803",
+    "regency_id": "1808",
+    "name": "BANJIT"
+  },
+  {
+    "id": "180804",
+    "regency_id": "1808",
+    "name": "BARADATU"
+  },
+  {
+    "id": "180805",
+    "regency_id": "1808",
+    "name": "BAHUGA"
+  },
+  {
+    "id": "180806",
+    "regency_id": "1808",
+    "name": "PAKUAN RATU"
+  },
+  {
+    "id": "180807",
+    "regency_id": "1808",
+    "name": "NEGERI AGUNG"
+  },
+  {
+    "id": "180808",
+    "regency_id": "1808",
+    "name": "WAY TUBA"
+  },
+  {
+    "id": "180809",
+    "regency_id": "1808",
+    "name": "REBANG TANGKAS"
+  },
+  {
+    "id": "180810",
+    "regency_id": "1808",
+    "name": "GUNUNG LABUHAN"
+  },
+  {
+    "id": "180811",
+    "regency_id": "1808",
+    "name": "NEGARA BATIN"
+  },
+  {
+    "id": "180812",
+    "regency_id": "1808",
+    "name": "NEGERI BESAR"
+  },
+  {
+    "id": "180813",
+    "regency_id": "1808",
+    "name": "BUAY BAHUGA"
+  },
+  {
+    "id": "180814",
+    "regency_id": "1808",
+    "name": "BUMI AGUNG"
+  },
+  {
+    "id": "180815",
+    "regency_id": "1808",
+    "name": "UMPU SEMENGUK"
+  }
+]

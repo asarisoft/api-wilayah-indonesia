@@ -1,1 +1,62 @@
-[{"id": "3505162001", "district_id": "350516", "name": "KEDUNGWUNGU"}, {"id": "3505162002", "district_id": "350516", "name": "SALAMREJO"}, {"id": "3505162003", "district_id": "350516", "name": "SUMBERKEMBAR"}, {"id": "3505162004", "district_id": "350516", "name": "BINANGUN"}, {"id": "3505162005", "district_id": "350516", "name": "REJOSO"}, {"id": "3505162006", "district_id": "350516", "name": "NGEMBUL"}, {"id": "3505162007", "district_id": "350516", "name": "SAMBIGEDE"}, {"id": "3505162008", "district_id": "350516", "name": "TAWANGREJO"}, {"id": "3505162009", "district_id": "350516", "name": "UMBULDAMAR"}, {"id": "3505162010", "district_id": "350516", "name": "NGADRI"}, {"id": "3505162011", "district_id": "350516", "name": "BIROWO"}, {"id": "3505162012", "district_id": "350516", "name": "SUKORAME"}]
+[
+  {
+    "id": "3505162001",
+    "district_id": "350516",
+    "name": "KEDUNGWUNGU"
+  },
+  {
+    "id": "3505162002",
+    "district_id": "350516",
+    "name": "SALAMREJO"
+  },
+  {
+    "id": "3505162003",
+    "district_id": "350516",
+    "name": "SUMBERKEMBAR"
+  },
+  {
+    "id": "3505162004",
+    "district_id": "350516",
+    "name": "BINANGUN"
+  },
+  {
+    "id": "3505162005",
+    "district_id": "350516",
+    "name": "REJOSO"
+  },
+  {
+    "id": "3505162006",
+    "district_id": "350516",
+    "name": "NGEMBUL"
+  },
+  {
+    "id": "3505162007",
+    "district_id": "350516",
+    "name": "SAMBIGEDE"
+  },
+  {
+    "id": "3505162008",
+    "district_id": "350516",
+    "name": "TAWANGREJO"
+  },
+  {
+    "id": "3505162009",
+    "district_id": "350516",
+    "name": "UMBULDAMAR"
+  },
+  {
+    "id": "3505162010",
+    "district_id": "350516",
+    "name": "NGADRI"
+  },
+  {
+    "id": "3505162011",
+    "district_id": "350516",
+    "name": "BIROWO"
+  },
+  {
+    "id": "3505162012",
+    "district_id": "350516",
+    "name": "SUKORAME"
+  }
+]

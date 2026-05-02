@@ -1,1 +1,52 @@
-[{"id": "9404091001", "district_id": "940409", "name": "KUALA KENCANA"}, {"id": "9404091002", "district_id": "940409", "name": "KARANG SENANG"}, {"id": "9404092003", "district_id": "940409", "name": "UTIKINI BARU"}, {"id": "9404092004", "district_id": "940409", "name": "BHINTUKA"}, {"id": "9404092005", "district_id": "940409", "name": "TIOKA KENCANA"}, {"id": "9404092006", "district_id": "940409", "name": "MIMIKA GUNUNG"}, {"id": "9404092007", "district_id": "940409", "name": "KARYA KENCANA"}, {"id": "9404092008", "district_id": "940409", "name": "UTIKINI DUA"}, {"id": "9404092009", "district_id": "940409", "name": "UTIKINI TIGA"}, {"id": "9404092010", "district_id": "940409", "name": "JIMBI"}]
+[
+  {
+    "id": "9404091001",
+    "district_id": "940409",
+    "name": "KUALA KENCANA"
+  },
+  {
+    "id": "9404091002",
+    "district_id": "940409",
+    "name": "KARANG SENANG"
+  },
+  {
+    "id": "9404092003",
+    "district_id": "940409",
+    "name": "UTIKINI BARU"
+  },
+  {
+    "id": "9404092004",
+    "district_id": "940409",
+    "name": "BHINTUKA"
+  },
+  {
+    "id": "9404092005",
+    "district_id": "940409",
+    "name": "TIOKA KENCANA"
+  },
+  {
+    "id": "9404092006",
+    "district_id": "940409",
+    "name": "MIMIKA GUNUNG"
+  },
+  {
+    "id": "9404092007",
+    "district_id": "940409",
+    "name": "KARYA KENCANA"
+  },
+  {
+    "id": "9404092008",
+    "district_id": "940409",
+    "name": "UTIKINI DUA"
+  },
+  {
+    "id": "9404092009",
+    "district_id": "940409",
+    "name": "UTIKINI TIGA"
+  },
+  {
+    "id": "9404092010",
+    "district_id": "940409",
+    "name": "JIMBI"
+  }
+]

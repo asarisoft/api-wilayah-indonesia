@@ -1,1 +1,27 @@
-[{"id": "1804152001", "district_id": "180415", "name": "GEDUNG SURIAN"}, {"id": "1804152002", "district_id": "180415", "name": "PURAMEKAR"}, {"id": "1804152003", "district_id": "180415", "name": "CIPTAWARAS"}, {"id": "1804152004", "district_id": "180415", "name": "TRIMULYO"}, {"id": "1804152005", "district_id": "180415", "name": "MEKARJAYA"}]
+[
+  {
+    "id": "1804152001",
+    "district_id": "180415",
+    "name": "GEDUNG SURIAN"
+  },
+  {
+    "id": "1804152002",
+    "district_id": "180415",
+    "name": "PURAMEKAR"
+  },
+  {
+    "id": "1804152003",
+    "district_id": "180415",
+    "name": "CIPTAWARAS"
+  },
+  {
+    "id": "1804152004",
+    "district_id": "180415",
+    "name": "TRIMULYO"
+  },
+  {
+    "id": "1804152005",
+    "district_id": "180415",
+    "name": "MEKARJAYA"
+  }
+]

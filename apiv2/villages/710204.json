@@ -1,1 +1,67 @@
-[{"id": "7102042001", "district_id": "710204", "name": "TULAP"}, {"id": "7102042002", "district_id": "710204", "name": "LALUMPE"}, {"id": "7102042003", "district_id": "710204", "name": "KAYUBESI"}, {"id": "7102042004", "district_id": "710204", "name": "RANOWANGKO II"}, {"id": "7102042005", "district_id": "710204", "name": "KOMBI"}, {"id": "7102042006", "district_id": "710204", "name": "SAWANGAN"}, {"id": "7102042007", "district_id": "710204", "name": "KOLONGAN"}, {"id": "7102042008", "district_id": "710204", "name": "RERER"}, {"id": "7102042009", "district_id": "710204", "name": "KINALEOSAN"}, {"id": "7102042010", "district_id": "710204", "name": "MAKALISUNG"}, {"id": "7102042011", "district_id": "710204", "name": "KALAWIRAN"}, {"id": "7102042012", "district_id": "710204", "name": "KOLONGAN SATU"}, {"id": "7102042013", "district_id": "710204", "name": "RERER SATU"}]
+[
+  {
+    "id": "7102042001",
+    "district_id": "710204",
+    "name": "TULAP"
+  },
+  {
+    "id": "7102042002",
+    "district_id": "710204",
+    "name": "LALUMPE"
+  },
+  {
+    "id": "7102042003",
+    "district_id": "710204",
+    "name": "KAYUBESI"
+  },
+  {
+    "id": "7102042004",
+    "district_id": "710204",
+    "name": "RANOWANGKO II"
+  },
+  {
+    "id": "7102042005",
+    "district_id": "710204",
+    "name": "KOMBI"
+  },
+  {
+    "id": "7102042006",
+    "district_id": "710204",
+    "name": "SAWANGAN"
+  },
+  {
+    "id": "7102042007",
+    "district_id": "710204",
+    "name": "KOLONGAN"
+  },
+  {
+    "id": "7102042008",
+    "district_id": "710204",
+    "name": "RERER"
+  },
+  {
+    "id": "7102042009",
+    "district_id": "710204",
+    "name": "KINALEOSAN"
+  },
+  {
+    "id": "7102042010",
+    "district_id": "710204",
+    "name": "MAKALISUNG"
+  },
+  {
+    "id": "7102042011",
+    "district_id": "710204",
+    "name": "KALAWIRAN"
+  },
+  {
+    "id": "7102042012",
+    "district_id": "710204",
+    "name": "KOLONGAN SATU"
+  },
+  {
+    "id": "7102042013",
+    "district_id": "710204",
+    "name": "RERER SATU"
+  }
+]

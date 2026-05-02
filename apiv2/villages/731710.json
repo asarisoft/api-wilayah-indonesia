@@ -1,1 +1,52 @@
-[{"id": "7317101001", "district_id": "731710", "name": "BONE PUTE"}, {"id": "7317102002", "district_id": "731710", "name": "TEMBOE"}, {"id": "7317102003", "district_id": "731710", "name": "SAMPANO"}, {"id": "7317102004", "district_id": "731710", "name": "BABANG"}, {"id": "7317102005", "district_id": "731710", "name": "LA'LOA"}, {"id": "7317102006", "district_id": "731710", "name": "BATULAPPA"}, {"id": "7317102007", "district_id": "731710", "name": "MALEWONG"}, {"id": "7317102008", "district_id": "731710", "name": "SALUSANA"}, {"id": "7317102009", "district_id": "731710", "name": "DADEKO"}, {"id": "7317102010", "district_id": "731710", "name": "GANDANG BATU"}]
+[
+  {
+    "id": "7317101001",
+    "district_id": "731710",
+    "name": "BONE PUTE"
+  },
+  {
+    "id": "7317102002",
+    "district_id": "731710",
+    "name": "TEMBOE"
+  },
+  {
+    "id": "7317102003",
+    "district_id": "731710",
+    "name": "SAMPANO"
+  },
+  {
+    "id": "7317102004",
+    "district_id": "731710",
+    "name": "BABANG"
+  },
+  {
+    "id": "7317102005",
+    "district_id": "731710",
+    "name": "LA'LOA"
+  },
+  {
+    "id": "7317102006",
+    "district_id": "731710",
+    "name": "BATULAPPA"
+  },
+  {
+    "id": "7317102007",
+    "district_id": "731710",
+    "name": "MALEWONG"
+  },
+  {
+    "id": "7317102008",
+    "district_id": "731710",
+    "name": "SALUSANA"
+  },
+  {
+    "id": "7317102009",
+    "district_id": "731710",
+    "name": "DADEKO"
+  },
+  {
+    "id": "7317102010",
+    "district_id": "731710",
+    "name": "GANDANG BATU"
+  }
+]

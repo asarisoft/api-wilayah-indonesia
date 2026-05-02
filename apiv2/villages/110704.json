@@ -1,1 +1,222 @@
-[{"id": "1107042001", "district_id": "110704", "name": "TUNONG"}, {"id": "1107042002", "district_id": "110704", "name": "RAYA"}, {"id": "1107042003", "district_id": "110704", "name": "DABOH"}, {"id": "1107042004", "district_id": "110704", "name": "CUT"}, {"id": "1107042005", "district_id": "110704", "name": "MESJID REUBEE"}, {"id": "1107042006", "district_id": "110704", "name": "TANJONG"}, {"id": "1107042007", "district_id": "110704", "name": "GEUDONG"}, {"id": "1107042008", "district_id": "110704", "name": "REUNTOH"}, {"id": "1107042009", "district_id": "110704", "name": "REUBA"}, {"id": "1107042010", "district_id": "110704", "name": "KRUENG REUBEE"}, {"id": "1107042011", "district_id": "110704", "name": "NEULOP"}, {"id": "1107042012", "district_id": "110704", "name": "GLEE"}, {"id": "1107042013", "district_id": "110704", "name": "KUMBANG"}, {"id": "1107042014", "district_id": "110704", "name": "BULOH"}, {"id": "1107042015", "district_id": "110704", "name": "BUNGO"}, {"id": "1107042016", "district_id": "110704", "name": "DAYAH REUBEE"}, {"id": "1107042017", "district_id": "110704", "name": "JAMBEE"}, {"id": "1107042018", "district_id": "110704", "name": "DAYAH BARO"}, {"id": "1107042019", "district_id": "110704", "name": "PUUK AREE"}, {"id": "1107042020", "district_id": "110704", "name": "LHEE MEUNASAH"}, {"id": "1107042021", "district_id": "110704", "name": "ULEE TUTUE RAYA"}, {"id": "1107042022", "district_id": "110704", "name": "MESJID AREE"}, {"id": "1107042023", "district_id": "110704", "name": "KEUTAPANG AREE"}, {"id": "1107042024", "district_id": "110704", "name": "PANTEE AREE"}, {"id": "1107042025", "district_id": "110704", "name": "PULO TUNONG"}, {"id": "1107042026", "district_id": "110704", "name": "PULO BAROH AREE"}, {"id": "1107042027", "district_id": "110704", "name": "KEURUMBOK"}, {"id": "1107042028", "district_id": "110704", "name": "CEURIH BLANG MEE"}, {"id": "1107042029", "district_id": "110704", "name": "CEURIH KUPULA"}, {"id": "1107042030", "district_id": "110704", "name": "CEURIH ALUE"}, {"id": "1107042031", "district_id": "110704", "name": "CEURIH COT"}, {"id": "1107042032", "district_id": "110704", "name": "SEUPEUNG"}, {"id": "1107042033", "district_id": "110704", "name": "SUKON LHONG"}, {"id": "1107042034", "district_id": "110704", "name": "DAYAH BEUAH"}, {"id": "1107042035", "district_id": "110704", "name": "KRUENG COT"}, {"id": "1107042036", "district_id": "110704", "name": "MESJID BEUAH"}, {"id": "1107042037", "district_id": "110704", "name": "LUENG DAMA"}, {"id": "1107042038", "district_id": "110704", "name": "MESJID BAMBONG"}, {"id": "1107042039", "district_id": "110704", "name": "RUSEB"}, {"id": "1107042040", "district_id": "110704", "name": "SAGOE"}, {"id": "1107042041", "district_id": "110704", "name": "SEUKEUM"}, {"id": "1107042042", "district_id": "110704", "name": "PANGOE"}, {"id": "1107042043", "district_id": "110704", "name": "KEUTAPANG BAMBONG"}, {"id": "1107042044", "district_id": "110704", "name": "METAREUM"}]
+[
+  {
+    "id": "1107042001",
+    "district_id": "110704",
+    "name": "TUNONG"
+  },
+  {
+    "id": "1107042002",
+    "district_id": "110704",
+    "name": "RAYA"
+  },
+  {
+    "id": "1107042003",
+    "district_id": "110704",
+    "name": "DABOH"
+  },
+  {
+    "id": "1107042004",
+    "district_id": "110704",
+    "name": "CUT"
+  },
+  {
+    "id": "1107042005",
+    "district_id": "110704",
+    "name": "MESJID REUBEE"
+  },
+  {
+    "id": "1107042006",
+    "district_id": "110704",
+    "name": "TANJONG"
+  },
+  {
+    "id": "1107042007",
+    "district_id": "110704",
+    "name": "GEUDONG"
+  },
+  {
+    "id": "1107042008",
+    "district_id": "110704",
+    "name": "REUNTOH"
+  },
+  {
+    "id": "1107042009",
+    "district_id": "110704",
+    "name": "REUBA"
+  },
+  {
+    "id": "1107042010",
+    "district_id": "110704",
+    "name": "KRUENG REUBEE"
+  },
+  {
+    "id": "1107042011",
+    "district_id": "110704",
+    "name": "NEULOP"
+  },
+  {
+    "id": "1107042012",
+    "district_id": "110704",
+    "name": "GLEE"
+  },
+  {
+    "id": "1107042013",
+    "district_id": "110704",
+    "name": "KUMBANG"
+  },
+  {
+    "id": "1107042014",
+    "district_id": "110704",
+    "name": "BULOH"
+  },
+  {
+    "id": "1107042015",
+    "district_id": "110704",
+    "name": "BUNGO"
+  },
+  {
+    "id": "1107042016",
+    "district_id": "110704",
+    "name": "DAYAH REUBEE"
+  },
+  {
+    "id": "1107042017",
+    "district_id": "110704",
+    "name": "JAMBEE"
+  },
+  {
+    "id": "1107042018",
+    "district_id": "110704",
+    "name": "DAYAH BARO"
+  },
+  {
+    "id": "1107042019",
+    "district_id": "110704",
+    "name": "PUUK AREE"
+  },
+  {
+    "id": "1107042020",
+    "district_id": "110704",
+    "name": "LHEE MEUNASAH"
+  },
+  {
+    "id": "1107042021",
+    "district_id": "110704",
+    "name": "ULEE TUTUE RAYA"
+  },
+  {
+    "id": "1107042022",
+    "district_id": "110704",
+    "name": "MESJID AREE"
+  },
+  {
+    "id": "1107042023",
+    "district_id": "110704",
+    "name": "KEUTAPANG AREE"
+  },
+  {
+    "id": "1107042024",
+    "district_id": "110704",
+    "name": "PANTEE AREE"
+  },
+  {
+    "id": "1107042025",
+    "district_id": "110704",
+    "name": "PULO TUNONG"
+  },
+  {
+    "id": "1107042026",
+    "district_id": "110704",
+    "name": "PULO BAROH AREE"
+  },
+  {
+    "id": "1107042027",
+    "district_id": "110704",
+    "name": "KEURUMBOK"
+  },
+  {
+    "id": "1107042028",
+    "district_id": "110704",
+    "name": "CEURIH BLANG MEE"
+  },
+  {
+    "id": "1107042029",
+    "district_id": "110704",
+    "name": "CEURIH KUPULA"
+  },
+  {
+    "id": "1107042030",
+    "district_id": "110704",
+    "name": "CEURIH ALUE"
+  },
+  {
+    "id": "1107042031",
+    "district_id": "110704",
+    "name": "CEURIH COT"
+  },
+  {
+    "id": "1107042032",
+    "district_id": "110704",
+    "name": "SEUPEUNG"
+  },
+  {
+    "id": "1107042033",
+    "district_id": "110704",
+    "name": "SUKON LHONG"
+  },
+  {
+    "id": "1107042034",
+    "district_id": "110704",
+    "name": "DAYAH BEUAH"
+  },
+  {
+    "id": "1107042035",
+    "district_id": "110704",
+    "name": "KRUENG COT"
+  },
+  {
+    "id": "1107042036",
+    "district_id": "110704",
+    "name": "MESJID BEUAH"
+  },
+  {
+    "id": "1107042037",
+    "district_id": "110704",
+    "name": "LUENG DAMA"
+  },
+  {
+    "id": "1107042038",
+    "district_id": "110704",
+    "name": "MESJID BAMBONG"
+  },
+  {
+    "id": "1107042039",
+    "district_id": "110704",
+    "name": "RUSEB"
+  },
+  {
+    "id": "1107042040",
+    "district_id": "110704",
+    "name": "SAGOE"
+  },
+  {
+    "id": "1107042041",
+    "district_id": "110704",
+    "name": "SEUKEUM"
+  },
+  {
+    "id": "1107042042",
+    "district_id": "110704",
+    "name": "PANGOE"
+  },
+  {
+    "id": "1107042043",
+    "district_id": "110704",
+    "name": "KEUTAPANG BAMBONG"
+  },
+  {
+    "id": "1107042044",
+    "district_id": "110704",
+    "name": "METAREUM"
+  }
+]

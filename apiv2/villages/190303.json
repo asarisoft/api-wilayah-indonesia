@@ -1,1 +1,52 @@
-[{"id": "1903032001", "district_id": "190303", "name": "AIRGEGAS"}, {"id": "1903032002", "district_id": "190303", "name": "DELAS"}, {"id": "1903032003", "district_id": "190303", "name": "PERGAM"}, {"id": "1903032004", "district_id": "190303", "name": "BENCAH"}, {"id": "1903032005", "district_id": "190303", "name": "NYELANDING"}, {"id": "1903032006", "district_id": "190303", "name": "NANGKA"}, {"id": "1903032007", "district_id": "190303", "name": "RANGGAS"}, {"id": "1903032008", "district_id": "190303", "name": "AIRBARA"}, {"id": "1903032009", "district_id": "190303", "name": "SIDOHARJO"}, {"id": "1903032010", "district_id": "190303", "name": "TEPUS"}]
+[
+  {
+    "id": "1903032001",
+    "district_id": "190303",
+    "name": "AIRGEGAS"
+  },
+  {
+    "id": "1903032002",
+    "district_id": "190303",
+    "name": "DELAS"
+  },
+  {
+    "id": "1903032003",
+    "district_id": "190303",
+    "name": "PERGAM"
+  },
+  {
+    "id": "1903032004",
+    "district_id": "190303",
+    "name": "BENCAH"
+  },
+  {
+    "id": "1903032005",
+    "district_id": "190303",
+    "name": "NYELANDING"
+  },
+  {
+    "id": "1903032006",
+    "district_id": "190303",
+    "name": "NANGKA"
+  },
+  {
+    "id": "1903032007",
+    "district_id": "190303",
+    "name": "RANGGAS"
+  },
+  {
+    "id": "1903032008",
+    "district_id": "190303",
+    "name": "AIRBARA"
+  },
+  {
+    "id": "1903032009",
+    "district_id": "190303",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "1903032010",
+    "district_id": "190303",
+    "name": "TEPUS"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1224022001", "district_id": "122402", "name": "SERIWA'U"}, {"id": "1224022002", "district_id": "122402", "name": "OMBOLATA SAWO"}, {"id": "1224022003", "district_id": "122402", "name": "SANAWUYU"}, {"id": "1224022004", "district_id": "122402", "name": "ONOZITOLI SAWO"}, {"id": "1224022005", "district_id": "122402", "name": "SIFAHANDRO"}, {"id": "1224022006", "district_id": "122402", "name": "SISARAHILI TELUK SIABANG"}, {"id": "1224022007", "district_id": "122402", "name": "LASARA SAWO"}, {"id": "1224022008", "district_id": "122402", "name": "SAWO"}, {"id": "1224022009", "district_id": "122402", "name": "HILIDURUWA"}, {"id": "1224022010", "district_id": "122402", "name": "TELUK BENGKUANG"}]
+[
+  {
+    "id": "1224022001",
+    "district_id": "122402",
+    "name": "SERIWA'U"
+  },
+  {
+    "id": "1224022002",
+    "district_id": "122402",
+    "name": "OMBOLATA SAWO"
+  },
+  {
+    "id": "1224022003",
+    "district_id": "122402",
+    "name": "SANAWUYU"
+  },
+  {
+    "id": "1224022004",
+    "district_id": "122402",
+    "name": "ONOZITOLI SAWO"
+  },
+  {
+    "id": "1224022005",
+    "district_id": "122402",
+    "name": "SIFAHANDRO"
+  },
+  {
+    "id": "1224022006",
+    "district_id": "122402",
+    "name": "SISARAHILI TELUK SIABANG"
+  },
+  {
+    "id": "1224022007",
+    "district_id": "122402",
+    "name": "LASARA SAWO"
+  },
+  {
+    "id": "1224022008",
+    "district_id": "122402",
+    "name": "SAWO"
+  },
+  {
+    "id": "1224022009",
+    "district_id": "122402",
+    "name": "HILIDURUWA"
+  },
+  {
+    "id": "1224022010",
+    "district_id": "122402",
+    "name": "TELUK BENGKUANG"
+  }
+]

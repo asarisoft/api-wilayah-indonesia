@@ -1,1 +1,27 @@
-[{"id": "7210032001", "district_id": "721003", "name": "KAMARORA A"}, {"id": "7210032002", "district_id": "721003", "name": "KAMARORA B"}, {"id": "7210032003", "district_id": "721003", "name": "KADIDIA"}, {"id": "7210032004", "district_id": "721003", "name": "SOPU"}, {"id": "7210032005", "district_id": "721003", "name": "BULILI"}]
+[
+  {
+    "id": "7210032001",
+    "district_id": "721003",
+    "name": "KAMARORA A"
+  },
+  {
+    "id": "7210032002",
+    "district_id": "721003",
+    "name": "KAMARORA B"
+  },
+  {
+    "id": "7210032003",
+    "district_id": "721003",
+    "name": "KADIDIA"
+  },
+  {
+    "id": "7210032004",
+    "district_id": "721003",
+    "name": "SOPU"
+  },
+  {
+    "id": "7210032005",
+    "district_id": "721003",
+    "name": "BULILI"
+  }
+]

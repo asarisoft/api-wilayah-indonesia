@@ -1,1 +1,27 @@
-[{"id": "8104102001", "district_id": "810410", "name": "ILATH"}, {"id": "8104102002", "district_id": "810410", "name": "BATU JUNGKU"}, {"id": "8104102003", "district_id": "810410", "name": "PELA"}, {"id": "8104102004", "district_id": "810410", "name": "WAEMORAT"}, {"id": "8104102006", "district_id": "810410", "name": "NAMLEA ILATH"}]
+[
+  {
+    "id": "8104102001",
+    "district_id": "810410",
+    "name": "ILATH"
+  },
+  {
+    "id": "8104102002",
+    "district_id": "810410",
+    "name": "BATU JUNGKU"
+  },
+  {
+    "id": "8104102003",
+    "district_id": "810410",
+    "name": "PELA"
+  },
+  {
+    "id": "8104102004",
+    "district_id": "810410",
+    "name": "WAEMORAT"
+  },
+  {
+    "id": "8104102006",
+    "district_id": "810410",
+    "name": "NAMLEA ILATH"
+  }
+]

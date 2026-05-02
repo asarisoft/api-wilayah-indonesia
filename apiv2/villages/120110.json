@@ -1,1 +1,62 @@
-[{"id": "1201101001", "district_id": "120110", "name": "SORKAM KANAN"}, {"id": "1201101019", "district_id": "120110", "name": "BINASI"}, {"id": "1201102002", "district_id": "120110", "name": "SIPEA PEA"}, {"id": "1201102003", "district_id": "120110", "name": "PAHIEME I"}, {"id": "1201102004", "district_id": "120110", "name": "PASAR SORKAM"}, {"id": "1201102005", "district_id": "120110", "name": "AEK RASO"}, {"id": "1201102006", "district_id": "120110", "name": "PASARIBU TOBING JAE"}, {"id": "1201102014", "district_id": "120110", "name": "MADUMA"}, {"id": "1201102016", "district_id": "120110", "name": "SIDIKALANG"}, {"id": "1201102017", "district_id": "120110", "name": "PAHIEME II"}, {"id": "1201102018", "district_id": "120110", "name": "SORKAM KANAN"}, {"id": "1201102020", "district_id": "120110", "name": "MADANI"}]
+[
+  {
+    "id": "1201101001",
+    "district_id": "120110",
+    "name": "SORKAM KANAN"
+  },
+  {
+    "id": "1201101019",
+    "district_id": "120110",
+    "name": "BINASI"
+  },
+  {
+    "id": "1201102002",
+    "district_id": "120110",
+    "name": "SIPEA PEA"
+  },
+  {
+    "id": "1201102003",
+    "district_id": "120110",
+    "name": "PAHIEME I"
+  },
+  {
+    "id": "1201102004",
+    "district_id": "120110",
+    "name": "PASAR SORKAM"
+  },
+  {
+    "id": "1201102005",
+    "district_id": "120110",
+    "name": "AEK RASO"
+  },
+  {
+    "id": "1201102006",
+    "district_id": "120110",
+    "name": "PASARIBU TOBING JAE"
+  },
+  {
+    "id": "1201102014",
+    "district_id": "120110",
+    "name": "MADUMA"
+  },
+  {
+    "id": "1201102016",
+    "district_id": "120110",
+    "name": "SIDIKALANG"
+  },
+  {
+    "id": "1201102017",
+    "district_id": "120110",
+    "name": "PAHIEME II"
+  },
+  {
+    "id": "1201102018",
+    "district_id": "120110",
+    "name": "SORKAM KANAN"
+  },
+  {
+    "id": "1201102020",
+    "district_id": "120110",
+    "name": "MADANI"
+  }
+]

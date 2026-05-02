@@ -1,1 +1,162 @@
-[{"id": "3306012001", "district_id": "330601", "name": "HARJOBINANGUN"}, {"id": "3306012002", "district_id": "330601", "name": "PATUTREJO"}, {"id": "3306012003", "district_id": "330601", "name": "KETAWANGREJO"}, {"id": "3306012004", "district_id": "330601", "name": "MUNGGANGSARI"}, {"id": "3306012005", "district_id": "330601", "name": "KERTOJAYAN"}, {"id": "3306012006", "district_id": "330601", "name": "PASARANOM"}, {"id": "3306012007", "district_id": "330601", "name": "UKIRSARI"}, {"id": "3306012008", "district_id": "330601", "name": "NAMBANGAN"}, {"id": "3306012009", "district_id": "330601", "name": "SUMBERAGUNG"}, {"id": "3306012010", "district_id": "330601", "name": "BENDUNGAN"}, {"id": "3306012011", "district_id": "330601", "name": "ROWODADI"}, {"id": "3306012012", "district_id": "330601", "name": "BAKUREJO"}, {"id": "3306012013", "district_id": "330601", "name": "DUDUWETAN"}, {"id": "3306012014", "district_id": "330601", "name": "DUDUKULON"}, {"id": "3306012015", "district_id": "330601", "name": "REJOSARI"}, {"id": "3306012016", "district_id": "330601", "name": "TRIMULYO"}, {"id": "3306012017", "district_id": "330601", "name": "TULUSREJO"}, {"id": "3306012018", "district_id": "330601", "name": "TEGALREJO"}, {"id": "3306012019", "district_id": "330601", "name": "KALIREJO"}, {"id": "3306012020", "district_id": "330601", "name": "WONOENGGAL"}, {"id": "3306012021", "district_id": "330601", "name": "BANYUYOSO"}, {"id": "3306012022", "district_id": "330601", "name": "GRABAG"}, {"id": "3306012023", "district_id": "330601", "name": "AGLIK"}, {"id": "3306012024", "district_id": "330601", "name": "ROWOREJO"}, {"id": "3306012025", "district_id": "330601", "name": "TUNGGULREJO"}, {"id": "3306012026", "district_id": "330601", "name": "KEDUNGKAMAL"}, {"id": "3306012027", "district_id": "330601", "name": "SANGUBANYU"}, {"id": "3306012028", "district_id": "330601", "name": "DUKUHDUNGUS"}, {"id": "3306012029", "district_id": "330601", "name": "TLEPOKWETAN"}, {"id": "3306012030", "district_id": "330601", "name": "TLEPOKKULON"}, {"id": "3306012031", "district_id": "330601", "name": "KUMPULREJO"}, {"id": "3306012032", "district_id": "330601", "name": "KESE"}]
+[
+  {
+    "id": "3306012001",
+    "district_id": "330601",
+    "name": "HARJOBINANGUN"
+  },
+  {
+    "id": "3306012002",
+    "district_id": "330601",
+    "name": "PATUTREJO"
+  },
+  {
+    "id": "3306012003",
+    "district_id": "330601",
+    "name": "KETAWANGREJO"
+  },
+  {
+    "id": "3306012004",
+    "district_id": "330601",
+    "name": "MUNGGANGSARI"
+  },
+  {
+    "id": "3306012005",
+    "district_id": "330601",
+    "name": "KERTOJAYAN"
+  },
+  {
+    "id": "3306012006",
+    "district_id": "330601",
+    "name": "PASARANOM"
+  },
+  {
+    "id": "3306012007",
+    "district_id": "330601",
+    "name": "UKIRSARI"
+  },
+  {
+    "id": "3306012008",
+    "district_id": "330601",
+    "name": "NAMBANGAN"
+  },
+  {
+    "id": "3306012009",
+    "district_id": "330601",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3306012010",
+    "district_id": "330601",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "3306012011",
+    "district_id": "330601",
+    "name": "ROWODADI"
+  },
+  {
+    "id": "3306012012",
+    "district_id": "330601",
+    "name": "BAKUREJO"
+  },
+  {
+    "id": "3306012013",
+    "district_id": "330601",
+    "name": "DUDUWETAN"
+  },
+  {
+    "id": "3306012014",
+    "district_id": "330601",
+    "name": "DUDUKULON"
+  },
+  {
+    "id": "3306012015",
+    "district_id": "330601",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3306012016",
+    "district_id": "330601",
+    "name": "TRIMULYO"
+  },
+  {
+    "id": "3306012017",
+    "district_id": "330601",
+    "name": "TULUSREJO"
+  },
+  {
+    "id": "3306012018",
+    "district_id": "330601",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "3306012019",
+    "district_id": "330601",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "3306012020",
+    "district_id": "330601",
+    "name": "WONOENGGAL"
+  },
+  {
+    "id": "3306012021",
+    "district_id": "330601",
+    "name": "BANYUYOSO"
+  },
+  {
+    "id": "3306012022",
+    "district_id": "330601",
+    "name": "GRABAG"
+  },
+  {
+    "id": "3306012023",
+    "district_id": "330601",
+    "name": "AGLIK"
+  },
+  {
+    "id": "3306012024",
+    "district_id": "330601",
+    "name": "ROWOREJO"
+  },
+  {
+    "id": "3306012025",
+    "district_id": "330601",
+    "name": "TUNGGULREJO"
+  },
+  {
+    "id": "3306012026",
+    "district_id": "330601",
+    "name": "KEDUNGKAMAL"
+  },
+  {
+    "id": "3306012027",
+    "district_id": "330601",
+    "name": "SANGUBANYU"
+  },
+  {
+    "id": "3306012028",
+    "district_id": "330601",
+    "name": "DUKUHDUNGUS"
+  },
+  {
+    "id": "3306012029",
+    "district_id": "330601",
+    "name": "TLEPOKWETAN"
+  },
+  {
+    "id": "3306012030",
+    "district_id": "330601",
+    "name": "TLEPOKKULON"
+  },
+  {
+    "id": "3306012031",
+    "district_id": "330601",
+    "name": "KUMPULREJO"
+  },
+  {
+    "id": "3306012032",
+    "district_id": "330601",
+    "name": "KESE"
+  }
+]

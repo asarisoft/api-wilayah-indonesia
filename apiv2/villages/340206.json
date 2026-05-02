@@ -1,1 +1,22 @@
-[{"id": "3402062001", "district_id": "340206", "name": "CATURHARJO"}, {"id": "3402062002", "district_id": "340206", "name": "TRIHARJO"}, {"id": "3402062003", "district_id": "340206", "name": "GILANGHARJO"}, {"id": "3402062004", "district_id": "340206", "name": "WIJIREJO"}]
+[
+  {
+    "id": "3402062001",
+    "district_id": "340206",
+    "name": "CATURHARJO"
+  },
+  {
+    "id": "3402062002",
+    "district_id": "340206",
+    "name": "TRIHARJO"
+  },
+  {
+    "id": "3402062003",
+    "district_id": "340206",
+    "name": "GILANGHARJO"
+  },
+  {
+    "id": "3402062004",
+    "district_id": "340206",
+    "name": "WIJIREJO"
+  }
+]

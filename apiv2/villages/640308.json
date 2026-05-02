@@ -1,1 +1,32 @@
-[{"id": "6403082001", "district_id": "640308", "name": "BIDUK-BIDUK"}, {"id": "6403082002", "district_id": "640308", "name": "PANTAI HARAPAN"}, {"id": "6403082003", "district_id": "640308", "name": "TANJUNG PREPAT"}, {"id": "6403082004", "district_id": "640308", "name": "TELUK SUMBANG"}, {"id": "6403082008", "district_id": "640308", "name": "TELUK SULAIMAN"}, {"id": "6403082009", "district_id": "640308", "name": "GIRING-GIRING"}]
+[
+  {
+    "id": "6403082001",
+    "district_id": "640308",
+    "name": "BIDUK-BIDUK"
+  },
+  {
+    "id": "6403082002",
+    "district_id": "640308",
+    "name": "PANTAI HARAPAN"
+  },
+  {
+    "id": "6403082003",
+    "district_id": "640308",
+    "name": "TANJUNG PREPAT"
+  },
+  {
+    "id": "6403082004",
+    "district_id": "640308",
+    "name": "TELUK SUMBANG"
+  },
+  {
+    "id": "6403082008",
+    "district_id": "640308",
+    "name": "TELUK SULAIMAN"
+  },
+  {
+    "id": "6403082009",
+    "district_id": "640308",
+    "name": "GIRING-GIRING"
+  }
+]

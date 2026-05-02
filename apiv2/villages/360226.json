@@ -1,1 +1,47 @@
-[{"id": "3602262001", "district_id": "360226", "name": "PANYAUNGAN"}, {"id": "3602262002", "district_id": "360226", "name": "CIHARA"}, {"id": "3602262003", "district_id": "360226", "name": "CIPARAHU"}, {"id": "3602262004", "district_id": "360226", "name": "PONDOKPANJANG"}, {"id": "3602262005", "district_id": "360226", "name": "CITEUPUSEUN"}, {"id": "3602262006", "district_id": "360226", "name": "LEBAKPEUNDEUY"}, {"id": "3602262007", "district_id": "360226", "name": "MEKARSARI"}, {"id": "3602262008", "district_id": "360226", "name": "KARANGKAMULYAN"}, {"id": "3602262009", "district_id": "360226", "name": "BARUNAI"}]
+[
+  {
+    "id": "3602262001",
+    "district_id": "360226",
+    "name": "PANYAUNGAN"
+  },
+  {
+    "id": "3602262002",
+    "district_id": "360226",
+    "name": "CIHARA"
+  },
+  {
+    "id": "3602262003",
+    "district_id": "360226",
+    "name": "CIPARAHU"
+  },
+  {
+    "id": "3602262004",
+    "district_id": "360226",
+    "name": "PONDOKPANJANG"
+  },
+  {
+    "id": "3602262005",
+    "district_id": "360226",
+    "name": "CITEUPUSEUN"
+  },
+  {
+    "id": "3602262006",
+    "district_id": "360226",
+    "name": "LEBAKPEUNDEUY"
+  },
+  {
+    "id": "3602262007",
+    "district_id": "360226",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3602262008",
+    "district_id": "360226",
+    "name": "KARANGKAMULYAN"
+  },
+  {
+    "id": "3602262009",
+    "district_id": "360226",
+    "name": "BARUNAI"
+  }
+]

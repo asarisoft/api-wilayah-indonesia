@@ -1,1 +1,57 @@
-[{"id": "3271061001", "district_id": "327106", "name": "TANAH SAREAL"}, {"id": "3271061002", "district_id": "327106", "name": "KEBON PEDES"}, {"id": "3271061003", "district_id": "327106", "name": "KEDUNG BADAK"}, {"id": "3271061004", "district_id": "327106", "name": "SUKARESMI"}, {"id": "3271061005", "district_id": "327106", "name": "KEDUNG WARINGIN"}, {"id": "3271061006", "district_id": "327106", "name": "KEDUNG JAYA"}, {"id": "3271061007", "district_id": "327106", "name": "SUKADAMAI"}, {"id": "3271061008", "district_id": "327106", "name": "MEKAR WANGI"}, {"id": "3271061009", "district_id": "327106", "name": "KENCANA"}, {"id": "3271061010", "district_id": "327106", "name": "KAYU MANIS"}, {"id": "3271061011", "district_id": "327106", "name": "CIBADAK"}]
+[
+  {
+    "id": "3271061001",
+    "district_id": "327106",
+    "name": "TANAH SAREAL"
+  },
+  {
+    "id": "3271061002",
+    "district_id": "327106",
+    "name": "KEBON PEDES"
+  },
+  {
+    "id": "3271061003",
+    "district_id": "327106",
+    "name": "KEDUNG BADAK"
+  },
+  {
+    "id": "3271061004",
+    "district_id": "327106",
+    "name": "SUKARESMI"
+  },
+  {
+    "id": "3271061005",
+    "district_id": "327106",
+    "name": "KEDUNG WARINGIN"
+  },
+  {
+    "id": "3271061006",
+    "district_id": "327106",
+    "name": "KEDUNG JAYA"
+  },
+  {
+    "id": "3271061007",
+    "district_id": "327106",
+    "name": "SUKADAMAI"
+  },
+  {
+    "id": "3271061008",
+    "district_id": "327106",
+    "name": "MEKAR WANGI"
+  },
+  {
+    "id": "3271061009",
+    "district_id": "327106",
+    "name": "KENCANA"
+  },
+  {
+    "id": "3271061010",
+    "district_id": "327106",
+    "name": "KAYU MANIS"
+  },
+  {
+    "id": "3271061011",
+    "district_id": "327106",
+    "name": "CIBADAK"
+  }
+]

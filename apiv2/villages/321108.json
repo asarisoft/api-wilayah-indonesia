@@ -1,1 +1,52 @@
-[{"id": "3211082001", "district_id": "321108", "name": "PASEH KIDUL"}, {"id": "3211082002", "district_id": "321108", "name": "PASEH KALER"}, {"id": "3211082003", "district_id": "321108", "name": "LEGOK KIDUL"}, {"id": "3211082004", "district_id": "321108", "name": "LEGOK KALER"}, {"id": "3211082005", "district_id": "321108", "name": "BONGKOK"}, {"id": "3211082006", "district_id": "321108", "name": "PADANAAN"}, {"id": "3211082007", "district_id": "321108", "name": "PASIREUNGIT"}, {"id": "3211082008", "district_id": "321108", "name": "CIJAMBE"}, {"id": "3211082009", "district_id": "321108", "name": "HAURKUNING"}, {"id": "3211082010", "district_id": "321108", "name": "CITEPOK"}]
+[
+  {
+    "id": "3211082001",
+    "district_id": "321108",
+    "name": "PASEH KIDUL"
+  },
+  {
+    "id": "3211082002",
+    "district_id": "321108",
+    "name": "PASEH KALER"
+  },
+  {
+    "id": "3211082003",
+    "district_id": "321108",
+    "name": "LEGOK KIDUL"
+  },
+  {
+    "id": "3211082004",
+    "district_id": "321108",
+    "name": "LEGOK KALER"
+  },
+  {
+    "id": "3211082005",
+    "district_id": "321108",
+    "name": "BONGKOK"
+  },
+  {
+    "id": "3211082006",
+    "district_id": "321108",
+    "name": "PADANAAN"
+  },
+  {
+    "id": "3211082007",
+    "district_id": "321108",
+    "name": "PASIREUNGIT"
+  },
+  {
+    "id": "3211082008",
+    "district_id": "321108",
+    "name": "CIJAMBE"
+  },
+  {
+    "id": "3211082009",
+    "district_id": "321108",
+    "name": "HAURKUNING"
+  },
+  {
+    "id": "3211082010",
+    "district_id": "321108",
+    "name": "CITEPOK"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "3515172001", "district_id": "351517", "name": "KWANGSAN"}, {"id": "3515172002", "district_id": "351517", "name": "PEPE"}, {"id": "3515172003", "district_id": "351517", "name": "BUNCITAN"}, {"id": "3515172004", "district_id": "351517", "name": "KALANGANYAR"}, {"id": "3515172005", "district_id": "351517", "name": "TAMBAKCEMANDI"}, {"id": "3515172006", "district_id": "351517", "name": "GISIKCEMANDI"}, {"id": "3515172007", "district_id": "351517", "name": "CEMANDI"}, {"id": "3515172008", "district_id": "351517", "name": "PULUNGAN"}, {"id": "3515172009", "district_id": "351517", "name": "BETRO"}, {"id": "3515172010", "district_id": "351517", "name": "SEDATIAGUNG"}, {"id": "3515172011", "district_id": "351517", "name": "SEDATIGEDE"}, {"id": "3515172012", "district_id": "351517", "name": "PABEAN"}, {"id": "3515172013", "district_id": "351517", "name": "SEMAMPIR"}, {"id": "3515172014", "district_id": "351517", "name": "PRANTI"}, {"id": "3515172015", "district_id": "351517", "name": "SEGOROTAMBAK"}, {"id": "3515172016", "district_id": "351517", "name": "BANJARKEMUNING"}]
+[
+  {
+    "id": "3515172001",
+    "district_id": "351517",
+    "name": "KWANGSAN"
+  },
+  {
+    "id": "3515172002",
+    "district_id": "351517",
+    "name": "PEPE"
+  },
+  {
+    "id": "3515172003",
+    "district_id": "351517",
+    "name": "BUNCITAN"
+  },
+  {
+    "id": "3515172004",
+    "district_id": "351517",
+    "name": "KALANGANYAR"
+  },
+  {
+    "id": "3515172005",
+    "district_id": "351517",
+    "name": "TAMBAKCEMANDI"
+  },
+  {
+    "id": "3515172006",
+    "district_id": "351517",
+    "name": "GISIKCEMANDI"
+  },
+  {
+    "id": "3515172007",
+    "district_id": "351517",
+    "name": "CEMANDI"
+  },
+  {
+    "id": "3515172008",
+    "district_id": "351517",
+    "name": "PULUNGAN"
+  },
+  {
+    "id": "3515172009",
+    "district_id": "351517",
+    "name": "BETRO"
+  },
+  {
+    "id": "3515172010",
+    "district_id": "351517",
+    "name": "SEDATIAGUNG"
+  },
+  {
+    "id": "3515172011",
+    "district_id": "351517",
+    "name": "SEDATIGEDE"
+  },
+  {
+    "id": "3515172012",
+    "district_id": "351517",
+    "name": "PABEAN"
+  },
+  {
+    "id": "3515172013",
+    "district_id": "351517",
+    "name": "SEMAMPIR"
+  },
+  {
+    "id": "3515172014",
+    "district_id": "351517",
+    "name": "PRANTI"
+  },
+  {
+    "id": "3515172015",
+    "district_id": "351517",
+    "name": "SEGOROTAMBAK"
+  },
+  {
+    "id": "3515172016",
+    "district_id": "351517",
+    "name": "BANJARKEMUNING"
+  }
+]

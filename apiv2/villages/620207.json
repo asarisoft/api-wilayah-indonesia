@@ -1,1 +1,37 @@
-[{"id": "6202072001", "district_id": "620207", "name": "PONDOK DAMAR"}, {"id": "6202072002", "district_id": "620207", "name": "BAGENDANG HILIR"}, {"id": "6202072003", "district_id": "620207", "name": "BAGENDANG TENGAH"}, {"id": "6202072004", "district_id": "620207", "name": "NATAI BARU"}, {"id": "6202072005", "district_id": "620207", "name": "BAGENDANG HULU"}, {"id": "6202072006", "district_id": "620207", "name": "SUMBER MAKMUR"}, {"id": "6202072007", "district_id": "620207", "name": "BAGENDANG PERMAI"}]
+[
+  {
+    "id": "6202072001",
+    "district_id": "620207",
+    "name": "PONDOK DAMAR"
+  },
+  {
+    "id": "6202072002",
+    "district_id": "620207",
+    "name": "BAGENDANG HILIR"
+  },
+  {
+    "id": "6202072003",
+    "district_id": "620207",
+    "name": "BAGENDANG TENGAH"
+  },
+  {
+    "id": "6202072004",
+    "district_id": "620207",
+    "name": "NATAI BARU"
+  },
+  {
+    "id": "6202072005",
+    "district_id": "620207",
+    "name": "BAGENDANG HULU"
+  },
+  {
+    "id": "6202072006",
+    "district_id": "620207",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "6202072007",
+    "district_id": "620207",
+    "name": "BAGENDANG PERMAI"
+  }
+]

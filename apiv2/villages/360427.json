@@ -1,1 +1,57 @@
-[{"id": "3604272001", "district_id": "360427", "name": "UJUNGTEBU"}, {"id": "3604272002", "district_id": "360427", "name": "SIKETUG"}, {"id": "3604272003", "district_id": "360427", "name": "LEBAK"}, {"id": "3604272004", "district_id": "360427", "name": "PONDOK KAHURU"}, {"id": "3604272005", "district_id": "360427", "name": "SUKABARES"}, {"id": "3604272006", "district_id": "360427", "name": "SUKARENA"}, {"id": "3604272007", "district_id": "360427", "name": "SUKADANA"}, {"id": "3604272008", "district_id": "360427", "name": "CEMPLANG"}, {"id": "3604272009", "district_id": "360427", "name": "CISITU"}, {"id": "3604272010", "district_id": "360427", "name": "CITAMAN"}, {"id": "3604272011", "district_id": "360427", "name": "PANYAUNGAN JAYA"}]
+[
+  {
+    "id": "3604272001",
+    "district_id": "360427",
+    "name": "UJUNGTEBU"
+  },
+  {
+    "id": "3604272002",
+    "district_id": "360427",
+    "name": "SIKETUG"
+  },
+  {
+    "id": "3604272003",
+    "district_id": "360427",
+    "name": "LEBAK"
+  },
+  {
+    "id": "3604272004",
+    "district_id": "360427",
+    "name": "PONDOK KAHURU"
+  },
+  {
+    "id": "3604272005",
+    "district_id": "360427",
+    "name": "SUKABARES"
+  },
+  {
+    "id": "3604272006",
+    "district_id": "360427",
+    "name": "SUKARENA"
+  },
+  {
+    "id": "3604272007",
+    "district_id": "360427",
+    "name": "SUKADANA"
+  },
+  {
+    "id": "3604272008",
+    "district_id": "360427",
+    "name": "CEMPLANG"
+  },
+  {
+    "id": "3604272009",
+    "district_id": "360427",
+    "name": "CISITU"
+  },
+  {
+    "id": "3604272010",
+    "district_id": "360427",
+    "name": "CITAMAN"
+  },
+  {
+    "id": "3604272011",
+    "district_id": "360427",
+    "name": "PANYAUNGAN JAYA"
+  }
+]

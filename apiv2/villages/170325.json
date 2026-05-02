@@ -1,1 +1,52 @@
-[{"id": "1703252001", "district_id": "170325", "name": "AIR PUTIH"}, {"id": "1703252002", "district_id": "170325", "name": "SUKA MAKMUR"}, {"id": "1703252003", "district_id": "170325", "name": "KARYA PELITA"}, {"id": "1703252004", "district_id": "170325", "name": "SUKA MAJU"}, {"id": "1703252005", "district_id": "170325", "name": "SUKA BARU"}, {"id": "1703252006", "district_id": "170325", "name": "SUKA MERINDU"}, {"id": "1703252007", "district_id": "170325", "name": "SUKA MEDAN"}, {"id": "1703252008", "district_id": "170325", "name": "KARYA BAKTI"}, {"id": "1703252009", "district_id": "170325", "name": "KARYA JAYA"}, {"id": "1703252010", "district_id": "170325", "name": "SUKA NEGARA"}]
+[
+  {
+    "id": "1703252001",
+    "district_id": "170325",
+    "name": "AIR PUTIH"
+  },
+  {
+    "id": "1703252002",
+    "district_id": "170325",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1703252003",
+    "district_id": "170325",
+    "name": "KARYA PELITA"
+  },
+  {
+    "id": "1703252004",
+    "district_id": "170325",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1703252005",
+    "district_id": "170325",
+    "name": "SUKA BARU"
+  },
+  {
+    "id": "1703252006",
+    "district_id": "170325",
+    "name": "SUKA MERINDU"
+  },
+  {
+    "id": "1703252007",
+    "district_id": "170325",
+    "name": "SUKA MEDAN"
+  },
+  {
+    "id": "1703252008",
+    "district_id": "170325",
+    "name": "KARYA BAKTI"
+  },
+  {
+    "id": "1703252009",
+    "district_id": "170325",
+    "name": "KARYA JAYA"
+  },
+  {
+    "id": "1703252010",
+    "district_id": "170325",
+    "name": "SUKA NEGARA"
+  }
+]

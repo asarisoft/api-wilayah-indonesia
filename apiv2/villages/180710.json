@@ -1,1 +1,37 @@
-[{"id": "1807102001", "district_id": "180710", "name": "KIBANG"}, {"id": "1807102002", "district_id": "180710", "name": "MARGA JAYA"}, {"id": "1807102003", "district_id": "180710", "name": "MARGOTOTO"}, {"id": "1807102004", "district_id": "180710", "name": "PURBOSEMBODO"}, {"id": "1807102005", "district_id": "180710", "name": "SUMBER AGUNG"}, {"id": "1807102006", "district_id": "180710", "name": "MARGASARI"}, {"id": "1807102007", "district_id": "180710", "name": "JAYA ASRI"}]
+[
+  {
+    "id": "1807102001",
+    "district_id": "180710",
+    "name": "KIBANG"
+  },
+  {
+    "id": "1807102002",
+    "district_id": "180710",
+    "name": "MARGA JAYA"
+  },
+  {
+    "id": "1807102003",
+    "district_id": "180710",
+    "name": "MARGOTOTO"
+  },
+  {
+    "id": "1807102004",
+    "district_id": "180710",
+    "name": "PURBOSEMBODO"
+  },
+  {
+    "id": "1807102005",
+    "district_id": "180710",
+    "name": "SUMBER AGUNG"
+  },
+  {
+    "id": "1807102006",
+    "district_id": "180710",
+    "name": "MARGASARI"
+  },
+  {
+    "id": "1807102007",
+    "district_id": "180710",
+    "name": "JAYA ASRI"
+  }
+]

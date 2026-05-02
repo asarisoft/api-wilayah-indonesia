@@ -1,1 +1,22 @@
-[{"id": "7505082001", "district_id": "750508", "name": "PONELO"}, {"id": "7505082002", "district_id": "750508", "name": "MALAMBE"}, {"id": "7505082003", "district_id": "750508", "name": "OTIOLA"}, {"id": "7505082004", "district_id": "750508", "name": "TIHENGO"}]
+[
+  {
+    "id": "7505082001",
+    "district_id": "750508",
+    "name": "PONELO"
+  },
+  {
+    "id": "7505082002",
+    "district_id": "750508",
+    "name": "MALAMBE"
+  },
+  {
+    "id": "7505082003",
+    "district_id": "750508",
+    "name": "OTIOLA"
+  },
+  {
+    "id": "7505082004",
+    "district_id": "750508",
+    "name": "TIHENGO"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "6411022001", "district_id": "641102", "name": "LONG HUBUNG"}, {"id": "6411022002", "district_id": "641102", "name": "MEMAHAK TEBOQ"}, {"id": "6411022003", "district_id": "641102", "name": "LUTAN"}, {"id": "6411022004", "district_id": "641102", "name": "MATALIBAQ"}, {"id": "6411022005", "district_id": "641102", "name": "DATAH BILANG ILIR"}, {"id": "6411022006", "district_id": "641102", "name": "DATAH BILANG ULU"}, {"id": "6411022007", "district_id": "641102", "name": "TRI PARIQ MAKMUR"}, {"id": "6411022008", "district_id": "641102", "name": "WANA PARIQ"}, {"id": "6411022009", "district_id": "641102", "name": "DATAH BILANG BARU"}, {"id": "6411022010", "district_id": "641102", "name": "SIRAU"}, {"id": "6411022011", "district_id": "641102", "name": "LONG HUBUNG ULU"}]
+[
+  {
+    "id": "6411022001",
+    "district_id": "641102",
+    "name": "LONG HUBUNG"
+  },
+  {
+    "id": "6411022002",
+    "district_id": "641102",
+    "name": "MEMAHAK TEBOQ"
+  },
+  {
+    "id": "6411022003",
+    "district_id": "641102",
+    "name": "LUTAN"
+  },
+  {
+    "id": "6411022004",
+    "district_id": "641102",
+    "name": "MATALIBAQ"
+  },
+  {
+    "id": "6411022005",
+    "district_id": "641102",
+    "name": "DATAH BILANG ILIR"
+  },
+  {
+    "id": "6411022006",
+    "district_id": "641102",
+    "name": "DATAH BILANG ULU"
+  },
+  {
+    "id": "6411022007",
+    "district_id": "641102",
+    "name": "TRI PARIQ MAKMUR"
+  },
+  {
+    "id": "6411022008",
+    "district_id": "641102",
+    "name": "WANA PARIQ"
+  },
+  {
+    "id": "6411022009",
+    "district_id": "641102",
+    "name": "DATAH BILANG BARU"
+  },
+  {
+    "id": "6411022010",
+    "district_id": "641102",
+    "name": "SIRAU"
+  },
+  {
+    "id": "6411022011",
+    "district_id": "641102",
+    "name": "LONG HUBUNG ULU"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "6203171001", "district_id": "620317", "name": "PULAU KUPANG"}, {"id": "6203172002", "district_id": "620317", "name": "PULAU MAMBULAU"}, {"id": "6203172003", "district_id": "620317", "name": "SEI LUNUK"}, {"id": "6203172004", "district_id": "620317", "name": "SEI JANGKIT"}, {"id": "6203172005", "district_id": "620317", "name": "TAMBAN LUAR"}, {"id": "6203172006", "district_id": "620317", "name": "TERUSAN RAYA"}, {"id": "6203172007", "district_id": "620317", "name": "TERUSAN KARYA"}, {"id": "6203172008", "district_id": "620317", "name": "TERUSAN MAKMUR"}, {"id": "6203172009", "district_id": "620317", "name": "TERUSAN MULYA"}, {"id": "6203172010", "district_id": "620317", "name": "BAMBAN RAYA"}, {"id": "6203172011", "district_id": "620317", "name": "BANGUN HARJO"}, {"id": "6203172012", "district_id": "620317", "name": "TERUSAN BAGUNTAN RAYA"}, {"id": "6203172013", "district_id": "620317", "name": "TERUSAN RAYA BARAT"}, {"id": "6203172014", "district_id": "620317", "name": "TERUSAN RAYA HULU"}, {"id": "6203172015", "district_id": "620317", "name": "BUDI MUFAKAT"}]
+[
+  {
+    "id": "6203171001",
+    "district_id": "620317",
+    "name": "PULAU KUPANG"
+  },
+  {
+    "id": "6203172002",
+    "district_id": "620317",
+    "name": "PULAU MAMBULAU"
+  },
+  {
+    "id": "6203172003",
+    "district_id": "620317",
+    "name": "SEI LUNUK"
+  },
+  {
+    "id": "6203172004",
+    "district_id": "620317",
+    "name": "SEI JANGKIT"
+  },
+  {
+    "id": "6203172005",
+    "district_id": "620317",
+    "name": "TAMBAN LUAR"
+  },
+  {
+    "id": "6203172006",
+    "district_id": "620317",
+    "name": "TERUSAN RAYA"
+  },
+  {
+    "id": "6203172007",
+    "district_id": "620317",
+    "name": "TERUSAN KARYA"
+  },
+  {
+    "id": "6203172008",
+    "district_id": "620317",
+    "name": "TERUSAN MAKMUR"
+  },
+  {
+    "id": "6203172009",
+    "district_id": "620317",
+    "name": "TERUSAN MULYA"
+  },
+  {
+    "id": "6203172010",
+    "district_id": "620317",
+    "name": "BAMBAN RAYA"
+  },
+  {
+    "id": "6203172011",
+    "district_id": "620317",
+    "name": "BANGUN HARJO"
+  },
+  {
+    "id": "6203172012",
+    "district_id": "620317",
+    "name": "TERUSAN BAGUNTAN RAYA"
+  },
+  {
+    "id": "6203172013",
+    "district_id": "620317",
+    "name": "TERUSAN RAYA BARAT"
+  },
+  {
+    "id": "6203172014",
+    "district_id": "620317",
+    "name": "TERUSAN RAYA HULU"
+  },
+  {
+    "id": "6203172015",
+    "district_id": "620317",
+    "name": "BUDI MUFAKAT"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "7205072001", "district_id": "720507", "name": "BOILAN"}, {"id": "7205072002", "district_id": "720507", "name": "KOKOBUKA"}, {"id": "7205072003", "district_id": "720507", "name": "AIR TERANG"}, {"id": "7205072004", "district_id": "720507", "name": "PANILAN JAYA"}, {"id": "7205072005", "district_id": "720507", "name": "JATIMULYA"}, {"id": "7205072006", "district_id": "720507", "name": "LOMULI"}, {"id": "7205072007", "district_id": "720507", "name": "BALAU"}, {"id": "7205072008", "district_id": "720507", "name": "MANIALA"}, {"id": "7205072009", "district_id": "720507", "name": "MONGGONIT"}]
+[
+  {
+    "id": "7205072001",
+    "district_id": "720507",
+    "name": "BOILAN"
+  },
+  {
+    "id": "7205072002",
+    "district_id": "720507",
+    "name": "KOKOBUKA"
+  },
+  {
+    "id": "7205072003",
+    "district_id": "720507",
+    "name": "AIR TERANG"
+  },
+  {
+    "id": "7205072004",
+    "district_id": "720507",
+    "name": "PANILAN JAYA"
+  },
+  {
+    "id": "7205072005",
+    "district_id": "720507",
+    "name": "JATIMULYA"
+  },
+  {
+    "id": "7205072006",
+    "district_id": "720507",
+    "name": "LOMULI"
+  },
+  {
+    "id": "7205072007",
+    "district_id": "720507",
+    "name": "BALAU"
+  },
+  {
+    "id": "7205072008",
+    "district_id": "720507",
+    "name": "MANIALA"
+  },
+  {
+    "id": "7205072009",
+    "district_id": "720507",
+    "name": "MONGGONIT"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3315092001", "district_id": "331509", "name": "SENDANGREJO"}, {"id": "3315092002", "district_id": "331509", "name": "SARIREJO"}, {"id": "3315092003", "district_id": "331509", "name": "KALANGDOSARI"}, {"id": "3315092004", "district_id": "331509", "name": "KALANGLUNDO"}, {"id": "3315092005", "district_id": "331509", "name": "TRUWOLU"}, {"id": "3315092006", "district_id": "331509", "name": "PENDEM"}, {"id": "3315092007", "district_id": "331509", "name": "BANDUNGSARI"}, {"id": "3315092008", "district_id": "331509", "name": "NGARINGAN"}, {"id": "3315092009", "district_id": "331509", "name": "NGARAP-ARAP"}, {"id": "3315092010", "district_id": "331509", "name": "BELOR"}, {"id": "3315092011", "district_id": "331509", "name": "TANJUNGHARJO"}, {"id": "3315092012", "district_id": "331509", "name": "SUMBERAGUNG"}]
+[
+  {
+    "id": "3315092001",
+    "district_id": "331509",
+    "name": "SENDANGREJO"
+  },
+  {
+    "id": "3315092002",
+    "district_id": "331509",
+    "name": "SARIREJO"
+  },
+  {
+    "id": "3315092003",
+    "district_id": "331509",
+    "name": "KALANGDOSARI"
+  },
+  {
+    "id": "3315092004",
+    "district_id": "331509",
+    "name": "KALANGLUNDO"
+  },
+  {
+    "id": "3315092005",
+    "district_id": "331509",
+    "name": "TRUWOLU"
+  },
+  {
+    "id": "3315092006",
+    "district_id": "331509",
+    "name": "PENDEM"
+  },
+  {
+    "id": "3315092007",
+    "district_id": "331509",
+    "name": "BANDUNGSARI"
+  },
+  {
+    "id": "3315092008",
+    "district_id": "331509",
+    "name": "NGARINGAN"
+  },
+  {
+    "id": "3315092009",
+    "district_id": "331509",
+    "name": "NGARAP-ARAP"
+  },
+  {
+    "id": "3315092010",
+    "district_id": "331509",
+    "name": "BELOR"
+  },
+  {
+    "id": "3315092011",
+    "district_id": "331509",
+    "name": "TANJUNGHARJO"
+  },
+  {
+    "id": "3315092012",
+    "district_id": "331509",
+    "name": "SUMBERAGUNG"
+  }
+]

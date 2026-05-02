@@ -1,1 +1,92 @@
-[{"id": "3519132001", "district_id": "351913", "name": "MUNENG"}, {"id": "3519132002", "district_id": "351913", "name": "PULEREJO"}, {"id": "3519132003", "district_id": "351913", "name": "PURWOREJO"}, {"id": "3519132004", "district_id": "351913", "name": "KEDUNGREJO"}, {"id": "3519132005", "district_id": "351913", "name": "WONOAYU"}, {"id": "3519132006", "district_id": "351913", "name": "PILANGKENCENG"}, {"id": "3519132007", "district_id": "351913", "name": "SUMBERGANDU"}, {"id": "3519132008", "district_id": "351913", "name": "KEDUNGMARON"}, {"id": "3519132009", "district_id": "351913", "name": "DUREN"}, {"id": "3519132010", "district_id": "351913", "name": "DAWUHAN"}, {"id": "3519132011", "district_id": "351913", "name": "BULU"}, {"id": "3519132012", "district_id": "351913", "name": "KENONGOREJO"}, {"id": "3519132013", "district_id": "351913", "name": "NGENGOR"}, {"id": "3519132014", "district_id": "351913", "name": "GANDUL"}, {"id": "3519132015", "district_id": "351913", "name": "LUWORO"}, {"id": "3519132016", "district_id": "351913", "name": "KEDUNGBANTENG"}, {"id": "3519132017", "district_id": "351913", "name": "KREBET"}, {"id": "3519132018", "district_id": "351913", "name": "NGALE"}]
+[
+  {
+    "id": "3519132001",
+    "district_id": "351913",
+    "name": "MUNENG"
+  },
+  {
+    "id": "3519132002",
+    "district_id": "351913",
+    "name": "PULEREJO"
+  },
+  {
+    "id": "3519132003",
+    "district_id": "351913",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3519132004",
+    "district_id": "351913",
+    "name": "KEDUNGREJO"
+  },
+  {
+    "id": "3519132005",
+    "district_id": "351913",
+    "name": "WONOAYU"
+  },
+  {
+    "id": "3519132006",
+    "district_id": "351913",
+    "name": "PILANGKENCENG"
+  },
+  {
+    "id": "3519132007",
+    "district_id": "351913",
+    "name": "SUMBERGANDU"
+  },
+  {
+    "id": "3519132008",
+    "district_id": "351913",
+    "name": "KEDUNGMARON"
+  },
+  {
+    "id": "3519132009",
+    "district_id": "351913",
+    "name": "DUREN"
+  },
+  {
+    "id": "3519132010",
+    "district_id": "351913",
+    "name": "DAWUHAN"
+  },
+  {
+    "id": "3519132011",
+    "district_id": "351913",
+    "name": "BULU"
+  },
+  {
+    "id": "3519132012",
+    "district_id": "351913",
+    "name": "KENONGOREJO"
+  },
+  {
+    "id": "3519132013",
+    "district_id": "351913",
+    "name": "NGENGOR"
+  },
+  {
+    "id": "3519132014",
+    "district_id": "351913",
+    "name": "GANDUL"
+  },
+  {
+    "id": "3519132015",
+    "district_id": "351913",
+    "name": "LUWORO"
+  },
+  {
+    "id": "3519132016",
+    "district_id": "351913",
+    "name": "KEDUNGBANTENG"
+  },
+  {
+    "id": "3519132017",
+    "district_id": "351913",
+    "name": "KREBET"
+  },
+  {
+    "id": "3519132018",
+    "district_id": "351913",
+    "name": "NGALE"
+  }
+]

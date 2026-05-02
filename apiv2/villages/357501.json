@@ -1,1 +1,42 @@
-[{"id": "3575011001", "district_id": "357501", "name": "KARANGKETUG"}, {"id": "3575011002", "district_id": "357501", "name": "GENTONG"}, {"id": "3575011003", "district_id": "357501", "name": "SEBANI"}, {"id": "3575011004", "district_id": "357501", "name": "PETAHUNAN"}, {"id": "3575011005", "district_id": "357501", "name": "BUKIR"}, {"id": "3575011006", "district_id": "357501", "name": "RANDUSARI"}, {"id": "3575011007", "district_id": "357501", "name": "KRAPYAKREJO"}, {"id": "3575011009", "district_id": "357501", "name": "GADINGREJO"}]
+[
+  {
+    "id": "3575011001",
+    "district_id": "357501",
+    "name": "KARANGKETUG"
+  },
+  {
+    "id": "3575011002",
+    "district_id": "357501",
+    "name": "GENTONG"
+  },
+  {
+    "id": "3575011003",
+    "district_id": "357501",
+    "name": "SEBANI"
+  },
+  {
+    "id": "3575011004",
+    "district_id": "357501",
+    "name": "PETAHUNAN"
+  },
+  {
+    "id": "3575011005",
+    "district_id": "357501",
+    "name": "BUKIR"
+  },
+  {
+    "id": "3575011006",
+    "district_id": "357501",
+    "name": "RANDUSARI"
+  },
+  {
+    "id": "3575011007",
+    "district_id": "357501",
+    "name": "KRAPYAKREJO"
+  },
+  {
+    "id": "3575011009",
+    "district_id": "357501",
+    "name": "GADINGREJO"
+  }
+]

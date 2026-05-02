@@ -1,1 +1,42 @@
-[{"id": "6107162001", "district_id": "610716", "name": "SAKA TARU"}, {"id": "6107162002", "district_id": "610716", "name": "LEMBAH BAWANG"}, {"id": "6107162003", "district_id": "610716", "name": "JANYAT"}, {"id": "6107162004", "district_id": "610716", "name": "TEMPAPAN"}, {"id": "6107162005", "district_id": "610716", "name": "PAPAN UDUK"}, {"id": "6107162006", "district_id": "610716", "name": "PAPAN TEMBAWANG"}, {"id": "6107162007", "district_id": "610716", "name": "GODANG DAMAR"}, {"id": "6107162008", "district_id": "610716", "name": "KINANDE"}]
+[
+  {
+    "id": "6107162001",
+    "district_id": "610716",
+    "name": "SAKA TARU"
+  },
+  {
+    "id": "6107162002",
+    "district_id": "610716",
+    "name": "LEMBAH BAWANG"
+  },
+  {
+    "id": "6107162003",
+    "district_id": "610716",
+    "name": "JANYAT"
+  },
+  {
+    "id": "6107162004",
+    "district_id": "610716",
+    "name": "TEMPAPAN"
+  },
+  {
+    "id": "6107162005",
+    "district_id": "610716",
+    "name": "PAPAN UDUK"
+  },
+  {
+    "id": "6107162006",
+    "district_id": "610716",
+    "name": "PAPAN TEMBAWANG"
+  },
+  {
+    "id": "6107162007",
+    "district_id": "610716",
+    "name": "GODANG DAMAR"
+  },
+  {
+    "id": "6107162008",
+    "district_id": "610716",
+    "name": "KINANDE"
+  }
+]

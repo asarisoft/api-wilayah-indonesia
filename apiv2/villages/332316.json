@@ -1,1 +1,67 @@
-[{"id": "3323162001", "district_id": "332316", "name": "BANSARI"}, {"id": "3323162002", "district_id": "332316", "name": "MOJOSARI"}, {"id": "3323162003", "district_id": "332316", "name": "REJOSARI"}, {"id": "3323162004", "district_id": "332316", "name": "GUNUNGSARI"}, {"id": "3323162005", "district_id": "332316", "name": "BALESARI"}, {"id": "3323162006", "district_id": "332316", "name": "PURBOREJO"}, {"id": "3323162007", "district_id": "332316", "name": "TLOGOWERO"}, {"id": "3323162008", "district_id": "332316", "name": "MRANGGEN KIDUL"}, {"id": "3323162009", "district_id": "332316", "name": "MRANGGEN TENGAH"}, {"id": "3323162010", "district_id": "332316", "name": "CANDISARI"}, {"id": "3323162011", "district_id": "332316", "name": "CAMPURANOM"}, {"id": "3323162012", "district_id": "332316", "name": "GENTINGSARI"}, {"id": "3323162013", "district_id": "332316", "name": "TANUREJO"}]
+[
+  {
+    "id": "3323162001",
+    "district_id": "332316",
+    "name": "BANSARI"
+  },
+  {
+    "id": "3323162002",
+    "district_id": "332316",
+    "name": "MOJOSARI"
+  },
+  {
+    "id": "3323162003",
+    "district_id": "332316",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3323162004",
+    "district_id": "332316",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3323162005",
+    "district_id": "332316",
+    "name": "BALESARI"
+  },
+  {
+    "id": "3323162006",
+    "district_id": "332316",
+    "name": "PURBOREJO"
+  },
+  {
+    "id": "3323162007",
+    "district_id": "332316",
+    "name": "TLOGOWERO"
+  },
+  {
+    "id": "3323162008",
+    "district_id": "332316",
+    "name": "MRANGGEN KIDUL"
+  },
+  {
+    "id": "3323162009",
+    "district_id": "332316",
+    "name": "MRANGGEN TENGAH"
+  },
+  {
+    "id": "3323162010",
+    "district_id": "332316",
+    "name": "CANDISARI"
+  },
+  {
+    "id": "3323162011",
+    "district_id": "332316",
+    "name": "CAMPURANOM"
+  },
+  {
+    "id": "3323162012",
+    "district_id": "332316",
+    "name": "GENTINGSARI"
+  },
+  {
+    "id": "3323162013",
+    "district_id": "332316",
+    "name": "TANUREJO"
+  }
+]

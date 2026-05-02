@@ -1,1 +1,42 @@
-[{"id": "7306132001", "district_id": "730613", "name": "TIMBUSENG"}, {"id": "7306132002", "district_id": "730613", "name": "PALLANTIKANG"}, {"id": "7306132003", "district_id": "730613", "name": "SUNGGUMANAI"}, {"id": "7306132004", "district_id": "730613", "name": "PACCELLEKANG"}, {"id": "7306132005", "district_id": "730613", "name": "PATTALLASSANG"}, {"id": "7306132006", "district_id": "730613", "name": "JE'NEMADINGING"}, {"id": "7306132007", "district_id": "730613", "name": "PANAIKANG"}, {"id": "7306132008", "district_id": "730613", "name": "BORONGPALA'LA"}]
+[
+  {
+    "id": "7306132001",
+    "district_id": "730613",
+    "name": "TIMBUSENG"
+  },
+  {
+    "id": "7306132002",
+    "district_id": "730613",
+    "name": "PALLANTIKANG"
+  },
+  {
+    "id": "7306132003",
+    "district_id": "730613",
+    "name": "SUNGGUMANAI"
+  },
+  {
+    "id": "7306132004",
+    "district_id": "730613",
+    "name": "PACCELLEKANG"
+  },
+  {
+    "id": "7306132005",
+    "district_id": "730613",
+    "name": "PATTALLASSANG"
+  },
+  {
+    "id": "7306132006",
+    "district_id": "730613",
+    "name": "JE'NEMADINGING"
+  },
+  {
+    "id": "7306132007",
+    "district_id": "730613",
+    "name": "PANAIKANG"
+  },
+  {
+    "id": "7306132008",
+    "district_id": "730613",
+    "name": "BORONGPALA'LA"
+  }
+]

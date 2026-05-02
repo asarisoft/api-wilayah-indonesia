@@ -1,1 +1,42 @@
-[{"id": "1109082001", "district_id": "110908", "name": "LEWAK"}, {"id": "1109082002", "district_id": "110908", "name": "LAMEREM"}, {"id": "1109082003", "district_id": "110908", "name": "LHOK PAUH"}, {"id": "1109082004", "district_id": "110908", "name": "SERAFON"}, {"id": "1109082005", "district_id": "110908", "name": "LANGI"}, {"id": "1109082006", "district_id": "110908", "name": "LUBUK BAIK"}, {"id": "1109082007", "district_id": "110908", "name": "LHOK DALAM"}, {"id": "1109082008", "district_id": "110908", "name": "LAFAKHA"}]
+[
+  {
+    "id": "1109082001",
+    "district_id": "110908",
+    "name": "LEWAK"
+  },
+  {
+    "id": "1109082002",
+    "district_id": "110908",
+    "name": "LAMEREM"
+  },
+  {
+    "id": "1109082003",
+    "district_id": "110908",
+    "name": "LHOK PAUH"
+  },
+  {
+    "id": "1109082004",
+    "district_id": "110908",
+    "name": "SERAFON"
+  },
+  {
+    "id": "1109082005",
+    "district_id": "110908",
+    "name": "LANGI"
+  },
+  {
+    "id": "1109082006",
+    "district_id": "110908",
+    "name": "LUBUK BAIK"
+  },
+  {
+    "id": "1109082007",
+    "district_id": "110908",
+    "name": "LHOK DALAM"
+  },
+  {
+    "id": "1109082008",
+    "district_id": "110908",
+    "name": "LAFAKHA"
+  }
+]

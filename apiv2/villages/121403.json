@@ -1,1 +1,117 @@
-[{"id": "1214032001", "district_id": "121403", "name": "BAWOLATO"}, {"id": "1214032002", "district_id": "121403", "name": "BAWOZIHONO"}, {"id": "1214032003", "district_id": "121403", "name": "BAWO'OTALUA"}, {"id": "1214032004", "district_id": "121403", "name": "GOLAMBANUA I"}, {"id": "1214032007", "district_id": "121403", "name": "HILISIMAETANO BALAEKHA"}, {"id": "1214032009", "district_id": "121403", "name": "LAHUSA"}, {"id": "1214032014", "district_id": "121403", "name": "TETEZOU"}, {"id": "1214032016", "district_id": "121403", "name": "ORAHILI BALAEKHA"}, {"id": "1214032017", "district_id": "121403", "name": "HARENORO"}, {"id": "1214032018", "district_id": "121403", "name": "SARAHILILAZA"}, {"id": "1214032024", "district_id": "121403", "name": "HILIABOLATA"}, {"id": "1214032025", "district_id": "121403", "name": "HILIGAMBUKHA"}, {"id": "1214032026", "district_id": "121403", "name": "SINAR BARU DARODARO"}, {"id": "1214032027", "district_id": "121403", "name": "HILIORUDUA"}, {"id": "1214032032", "district_id": "121403", "name": "HILIZOMBOI"}, {"id": "1214032036", "district_id": "121403", "name": "OIKHODA BALAEKHA"}, {"id": "1214032037", "district_id": "121403", "name": "ANGORUDUA BALAEKHA"}, {"id": "1214032038", "district_id": "121403", "name": "HILINAWALO BALAEKHA"}, {"id": "1214032039", "district_id": "121403", "name": "SOBAWAGOLI"}, {"id": "1214032040", "district_id": "121403", "name": "LAHUSA I"}, {"id": "1214032041", "district_id": "121403", "name": "HILIWATEMA"}, {"id": "1214032042", "district_id": "121403", "name": "MOGAE"}, {"id": "1214032043", "district_id": "121403", "name": "SINAR BAHO"}]
+[
+  {
+    "id": "1214032001",
+    "district_id": "121403",
+    "name": "BAWOLATO"
+  },
+  {
+    "id": "1214032002",
+    "district_id": "121403",
+    "name": "BAWOZIHONO"
+  },
+  {
+    "id": "1214032003",
+    "district_id": "121403",
+    "name": "BAWO'OTALUA"
+  },
+  {
+    "id": "1214032004",
+    "district_id": "121403",
+    "name": "GOLAMBANUA I"
+  },
+  {
+    "id": "1214032007",
+    "district_id": "121403",
+    "name": "HILISIMAETANO BALAEKHA"
+  },
+  {
+    "id": "1214032009",
+    "district_id": "121403",
+    "name": "LAHUSA"
+  },
+  {
+    "id": "1214032014",
+    "district_id": "121403",
+    "name": "TETEZOU"
+  },
+  {
+    "id": "1214032016",
+    "district_id": "121403",
+    "name": "ORAHILI BALAEKHA"
+  },
+  {
+    "id": "1214032017",
+    "district_id": "121403",
+    "name": "HARENORO"
+  },
+  {
+    "id": "1214032018",
+    "district_id": "121403",
+    "name": "SARAHILILAZA"
+  },
+  {
+    "id": "1214032024",
+    "district_id": "121403",
+    "name": "HILIABOLATA"
+  },
+  {
+    "id": "1214032025",
+    "district_id": "121403",
+    "name": "HILIGAMBUKHA"
+  },
+  {
+    "id": "1214032026",
+    "district_id": "121403",
+    "name": "SINAR BARU DARODARO"
+  },
+  {
+    "id": "1214032027",
+    "district_id": "121403",
+    "name": "HILIORUDUA"
+  },
+  {
+    "id": "1214032032",
+    "district_id": "121403",
+    "name": "HILIZOMBOI"
+  },
+  {
+    "id": "1214032036",
+    "district_id": "121403",
+    "name": "OIKHODA BALAEKHA"
+  },
+  {
+    "id": "1214032037",
+    "district_id": "121403",
+    "name": "ANGORUDUA BALAEKHA"
+  },
+  {
+    "id": "1214032038",
+    "district_id": "121403",
+    "name": "HILINAWALO BALAEKHA"
+  },
+  {
+    "id": "1214032039",
+    "district_id": "121403",
+    "name": "SOBAWAGOLI"
+  },
+  {
+    "id": "1214032040",
+    "district_id": "121403",
+    "name": "LAHUSA I"
+  },
+  {
+    "id": "1214032041",
+    "district_id": "121403",
+    "name": "HILIWATEMA"
+  },
+  {
+    "id": "1214032042",
+    "district_id": "121403",
+    "name": "MOGAE"
+  },
+  {
+    "id": "1214032043",
+    "district_id": "121403",
+    "name": "SINAR BAHO"
+  }
+]

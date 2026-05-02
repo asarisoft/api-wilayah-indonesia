@@ -1,1 +1,107 @@
-[{"id": "7405091001", "district_id": "740509", "name": "KOLONO"}, {"id": "7405092002", "district_id": "740509", "name": "SAWA"}, {"id": "7405092003", "district_id": "740509", "name": "LANGGOWALA"}, {"id": "7405092004", "district_id": "740509", "name": "WAWORANO"}, {"id": "7405092005", "district_id": "740509", "name": "MATANDAHI"}, {"id": "7405092006", "district_id": "740509", "name": "PUUPI"}, {"id": "7405092007", "district_id": "740509", "name": "MATAIWOI"}, {"id": "7405092008", "district_id": "740509", "name": "TIRAOSU"}, {"id": "7405092009", "district_id": "740509", "name": "MONDOE JAYA"}, {"id": "7405092010", "district_id": "740509", "name": "ULUSENA JAYA"}, {"id": "7405092011", "district_id": "740509", "name": "LAMOTAU"}, {"id": "7405092012", "district_id": "740509", "name": "AWUNIO"}, {"id": "7405092013", "district_id": "740509", "name": "MELETUMBO"}, {"id": "7405092014", "district_id": "740509", "name": "RODA"}, {"id": "7405092016", "district_id": "740509", "name": "LAMAPU"}, {"id": "7405092025", "district_id": "740509", "name": "ANDINETE"}, {"id": "7405092026", "district_id": "740509", "name": "WAWOOSU"}, {"id": "7405092028", "district_id": "740509", "name": "ALOSI"}, {"id": "7405092029", "district_id": "740509", "name": "SILEA"}, {"id": "7405092030", "district_id": "740509", "name": "PUUDONGI"}, {"id": "7405092031", "district_id": "740509", "name": "SARANDUA"}]
+[
+  {
+    "id": "7405091001",
+    "district_id": "740509",
+    "name": "KOLONO"
+  },
+  {
+    "id": "7405092002",
+    "district_id": "740509",
+    "name": "SAWA"
+  },
+  {
+    "id": "7405092003",
+    "district_id": "740509",
+    "name": "LANGGOWALA"
+  },
+  {
+    "id": "7405092004",
+    "district_id": "740509",
+    "name": "WAWORANO"
+  },
+  {
+    "id": "7405092005",
+    "district_id": "740509",
+    "name": "MATANDAHI"
+  },
+  {
+    "id": "7405092006",
+    "district_id": "740509",
+    "name": "PUUPI"
+  },
+  {
+    "id": "7405092007",
+    "district_id": "740509",
+    "name": "MATAIWOI"
+  },
+  {
+    "id": "7405092008",
+    "district_id": "740509",
+    "name": "TIRAOSU"
+  },
+  {
+    "id": "7405092009",
+    "district_id": "740509",
+    "name": "MONDOE JAYA"
+  },
+  {
+    "id": "7405092010",
+    "district_id": "740509",
+    "name": "ULUSENA JAYA"
+  },
+  {
+    "id": "7405092011",
+    "district_id": "740509",
+    "name": "LAMOTAU"
+  },
+  {
+    "id": "7405092012",
+    "district_id": "740509",
+    "name": "AWUNIO"
+  },
+  {
+    "id": "7405092013",
+    "district_id": "740509",
+    "name": "MELETUMBO"
+  },
+  {
+    "id": "7405092014",
+    "district_id": "740509",
+    "name": "RODA"
+  },
+  {
+    "id": "7405092016",
+    "district_id": "740509",
+    "name": "LAMAPU"
+  },
+  {
+    "id": "7405092025",
+    "district_id": "740509",
+    "name": "ANDINETE"
+  },
+  {
+    "id": "7405092026",
+    "district_id": "740509",
+    "name": "WAWOOSU"
+  },
+  {
+    "id": "7405092028",
+    "district_id": "740509",
+    "name": "ALOSI"
+  },
+  {
+    "id": "7405092029",
+    "district_id": "740509",
+    "name": "SILEA"
+  },
+  {
+    "id": "7405092030",
+    "district_id": "740509",
+    "name": "PUUDONGI"
+  },
+  {
+    "id": "7405092031",
+    "district_id": "740509",
+    "name": "SARANDUA"
+  }
+]

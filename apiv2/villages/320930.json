@@ -1,1 +1,67 @@
-[{"id": "3209302001", "district_id": "320930", "name": "DOMPYONG KULON"}, {"id": "3209302002", "district_id": "320930", "name": "DOMPYONG WETAN"}, {"id": "3209302003", "district_id": "320930", "name": "KALIMEKAR"}, {"id": "3209302004", "district_id": "320930", "name": "KALIMARO"}, {"id": "3209302005", "district_id": "320930", "name": "GAGASARI"}, {"id": "3209302006", "district_id": "320930", "name": "KALIPASUNG"}, {"id": "3209302007", "district_id": "320930", "name": "GEBANG KULON"}, {"id": "3209302008", "district_id": "320930", "name": "GEBANG"}, {"id": "3209302009", "district_id": "320930", "name": "GEBANG ILIR"}, {"id": "3209302010", "district_id": "320930", "name": "GEBANG UDIK"}, {"id": "3209302011", "district_id": "320930", "name": "GEBANG MEKAR"}, {"id": "3209302012", "district_id": "320930", "name": "PLAYANGAN"}, {"id": "3209302013", "district_id": "320930", "name": "MELAKASARI"}]
+[
+  {
+    "id": "3209302001",
+    "district_id": "320930",
+    "name": "DOMPYONG KULON"
+  },
+  {
+    "id": "3209302002",
+    "district_id": "320930",
+    "name": "DOMPYONG WETAN"
+  },
+  {
+    "id": "3209302003",
+    "district_id": "320930",
+    "name": "KALIMEKAR"
+  },
+  {
+    "id": "3209302004",
+    "district_id": "320930",
+    "name": "KALIMARO"
+  },
+  {
+    "id": "3209302005",
+    "district_id": "320930",
+    "name": "GAGASARI"
+  },
+  {
+    "id": "3209302006",
+    "district_id": "320930",
+    "name": "KALIPASUNG"
+  },
+  {
+    "id": "3209302007",
+    "district_id": "320930",
+    "name": "GEBANG KULON"
+  },
+  {
+    "id": "3209302008",
+    "district_id": "320930",
+    "name": "GEBANG"
+  },
+  {
+    "id": "3209302009",
+    "district_id": "320930",
+    "name": "GEBANG ILIR"
+  },
+  {
+    "id": "3209302010",
+    "district_id": "320930",
+    "name": "GEBANG UDIK"
+  },
+  {
+    "id": "3209302011",
+    "district_id": "320930",
+    "name": "GEBANG MEKAR"
+  },
+  {
+    "id": "3209302012",
+    "district_id": "320930",
+    "name": "PLAYANGAN"
+  },
+  {
+    "id": "3209302013",
+    "district_id": "320930",
+    "name": "MELAKASARI"
+  }
+]

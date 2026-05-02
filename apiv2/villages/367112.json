@@ -1,1 +1,37 @@
-[{"id": "3671121001", "district_id": "367112", "name": "KARANG TENGAH"}, {"id": "3671121002", "district_id": "367112", "name": "KARANG MULYA"}, {"id": "3671121003", "district_id": "367112", "name": "PONDOK BAHAR"}, {"id": "3671121004", "district_id": "367112", "name": "PONDOK PUCUNG"}, {"id": "3671121005", "district_id": "367112", "name": "KARANG TIMUR"}, {"id": "3671121006", "district_id": "367112", "name": "PADURENAN"}, {"id": "3671121007", "district_id": "367112", "name": "PARUNG JAYA"}]
+[
+  {
+    "id": "3671121001",
+    "district_id": "367112",
+    "name": "KARANG TENGAH"
+  },
+  {
+    "id": "3671121002",
+    "district_id": "367112",
+    "name": "KARANG MULYA"
+  },
+  {
+    "id": "3671121003",
+    "district_id": "367112",
+    "name": "PONDOK BAHAR"
+  },
+  {
+    "id": "3671121004",
+    "district_id": "367112",
+    "name": "PONDOK PUCUNG"
+  },
+  {
+    "id": "3671121005",
+    "district_id": "367112",
+    "name": "KARANG TIMUR"
+  },
+  {
+    "id": "3671121006",
+    "district_id": "367112",
+    "name": "PADURENAN"
+  },
+  {
+    "id": "3671121007",
+    "district_id": "367112",
+    "name": "PARUNG JAYA"
+  }
+]

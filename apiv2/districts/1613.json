@@ -1,1 +1,37 @@
-[{"id": "161301", "regency_id": "1613", "name": "RUPIT"}, {"id": "161302", "regency_id": "1613", "name": "RAWAS ULU"}, {"id": "161303", "regency_id": "1613", "name": "NIBUNG"}, {"id": "161304", "regency_id": "1613", "name": "RAWAS ILIR"}, {"id": "161305", "regency_id": "1613", "name": "KARANG DAPO"}, {"id": "161306", "regency_id": "1613", "name": "KARANG JAYA"}, {"id": "161307", "regency_id": "1613", "name": "ULU RAWAS"}]
+[
+  {
+    "id": "161301",
+    "regency_id": "1613",
+    "name": "RUPIT"
+  },
+  {
+    "id": "161302",
+    "regency_id": "1613",
+    "name": "RAWAS ULU"
+  },
+  {
+    "id": "161303",
+    "regency_id": "1613",
+    "name": "NIBUNG"
+  },
+  {
+    "id": "161304",
+    "regency_id": "1613",
+    "name": "RAWAS ILIR"
+  },
+  {
+    "id": "161305",
+    "regency_id": "1613",
+    "name": "KARANG DAPO"
+  },
+  {
+    "id": "161306",
+    "regency_id": "1613",
+    "name": "KARANG JAYA"
+  },
+  {
+    "id": "161307",
+    "regency_id": "1613",
+    "name": "ULU RAWAS"
+  }
+]

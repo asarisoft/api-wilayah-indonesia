@@ -1,1 +1,102 @@
-[{"id": "1808031006", "district_id": "180803", "name": "PASAR BANJIT"}, {"id": "1808032001", "district_id": "180803", "name": "BONGLAI"}, {"id": "1808032002", "district_id": "180803", "name": "CAMPANG LAPAN"}, {"id": "1808032003", "district_id": "180803", "name": "SUMBER BARU"}, {"id": "1808032004", "district_id": "180803", "name": "RANTAU TEMIANG"}, {"id": "1808032005", "district_id": "180803", "name": "JUKU BATU"}, {"id": "1808032007", "district_id": "180803", "name": "BALI SADHAR TENGAH"}, {"id": "1808032008", "district_id": "180803", "name": "DONOMULYO"}, {"id": "1808032009", "district_id": "180803", "name": "BALI SADHAR UTARA"}, {"id": "1808032010", "district_id": "180803", "name": "BALI SADHAR SELATAN"}, {"id": "1808032011", "district_id": "180803", "name": "MENANGA JAYA"}, {"id": "1808032012", "district_id": "180803", "name": "ARGOMULYO"}, {"id": "1808032013", "district_id": "180803", "name": "RANTAU JAYA"}, {"id": "1808032014", "district_id": "180803", "name": "REBANG TINGGI"}, {"id": "1808032015", "district_id": "180803", "name": "SIMPANG ASAM"}, {"id": "1808032016", "district_id": "180803", "name": "BANDAR AGUNG"}, {"id": "1808032017", "district_id": "180803", "name": "KEMU"}, {"id": "1808032018", "district_id": "180803", "name": "MENANGA SIAMANG"}, {"id": "1808032019", "district_id": "180803", "name": "NEKI"}, {"id": "1808032020", "district_id": "180803", "name": "SUMBER SARI"}]
+[
+  {
+    "id": "1808031006",
+    "district_id": "180803",
+    "name": "PASAR BANJIT"
+  },
+  {
+    "id": "1808032001",
+    "district_id": "180803",
+    "name": "BONGLAI"
+  },
+  {
+    "id": "1808032002",
+    "district_id": "180803",
+    "name": "CAMPANG LAPAN"
+  },
+  {
+    "id": "1808032003",
+    "district_id": "180803",
+    "name": "SUMBER BARU"
+  },
+  {
+    "id": "1808032004",
+    "district_id": "180803",
+    "name": "RANTAU TEMIANG"
+  },
+  {
+    "id": "1808032005",
+    "district_id": "180803",
+    "name": "JUKU BATU"
+  },
+  {
+    "id": "1808032007",
+    "district_id": "180803",
+    "name": "BALI SADHAR TENGAH"
+  },
+  {
+    "id": "1808032008",
+    "district_id": "180803",
+    "name": "DONOMULYO"
+  },
+  {
+    "id": "1808032009",
+    "district_id": "180803",
+    "name": "BALI SADHAR UTARA"
+  },
+  {
+    "id": "1808032010",
+    "district_id": "180803",
+    "name": "BALI SADHAR SELATAN"
+  },
+  {
+    "id": "1808032011",
+    "district_id": "180803",
+    "name": "MENANGA JAYA"
+  },
+  {
+    "id": "1808032012",
+    "district_id": "180803",
+    "name": "ARGOMULYO"
+  },
+  {
+    "id": "1808032013",
+    "district_id": "180803",
+    "name": "RANTAU JAYA"
+  },
+  {
+    "id": "1808032014",
+    "district_id": "180803",
+    "name": "REBANG TINGGI"
+  },
+  {
+    "id": "1808032015",
+    "district_id": "180803",
+    "name": "SIMPANG ASAM"
+  },
+  {
+    "id": "1808032016",
+    "district_id": "180803",
+    "name": "BANDAR AGUNG"
+  },
+  {
+    "id": "1808032017",
+    "district_id": "180803",
+    "name": "KEMU"
+  },
+  {
+    "id": "1808032018",
+    "district_id": "180803",
+    "name": "MENANGA SIAMANG"
+  },
+  {
+    "id": "1808032019",
+    "district_id": "180803",
+    "name": "NEKI"
+  },
+  {
+    "id": "1808032020",
+    "district_id": "180803",
+    "name": "SUMBER SARI"
+  }
+]

@@ -1,1 +1,172 @@
-[{"id": "950201", "regency_id": "9502", "name": "OKSIBIL"}, {"id": "950202", "regency_id": "9502", "name": "KIWIROK"}, {"id": "950203", "regency_id": "9502", "name": "OKBIBAB"}, {"id": "950204", "regency_id": "9502", "name": "IWUR"}, {"id": "950205", "regency_id": "9502", "name": "BATOM"}, {"id": "950206", "regency_id": "9502", "name": "BORME"}, {"id": "950207", "regency_id": "9502", "name": "KIWIROK TIMUR"}, {"id": "950208", "regency_id": "9502", "name": "ABOY"}, {"id": "950209", "regency_id": "9502", "name": "PEPERA"}, {"id": "950210", "regency_id": "9502", "name": "BIME"}, {"id": "950211", "regency_id": "9502", "name": "ALEMSOM"}, {"id": "950212", "regency_id": "9502", "name": "OKBAPE"}, {"id": "950213", "regency_id": "9502", "name": "KALOMDOL"}, {"id": "950214", "regency_id": "9502", "name": "OKSOP"}, {"id": "950215", "regency_id": "9502", "name": "SERAMBAKON"}, {"id": "950216", "regency_id": "9502", "name": "OK AOM"}, {"id": "950217", "regency_id": "9502", "name": "KAWOR"}, {"id": "950218", "regency_id": "9502", "name": "AWINBON"}, {"id": "950219", "regency_id": "9502", "name": "TARUP"}, {"id": "950220", "regency_id": "9502", "name": "OKHIKA"}, {"id": "950221", "regency_id": "9502", "name": "OKSAMOL"}, {"id": "950222", "regency_id": "9502", "name": "OKLIP"}, {"id": "950223", "regency_id": "9502", "name": "OKBEMTAU"}, {"id": "950224", "regency_id": "9502", "name": "OKSEBANG"}, {"id": "950225", "regency_id": "9502", "name": "OKBAB"}, {"id": "950226", "regency_id": "9502", "name": "BATANI"}, {"id": "950227", "regency_id": "9502", "name": "WEIME"}, {"id": "950228", "regency_id": "9502", "name": "MURKIM"}, {"id": "950229", "regency_id": "9502", "name": "MOFINOP"}, {"id": "950230", "regency_id": "9502", "name": "JETFA"}, {"id": "950231", "regency_id": "9502", "name": "TEIRAPLU"}, {"id": "950232", "regency_id": "9502", "name": "EIPUMEK"}, {"id": "950233", "regency_id": "9502", "name": "PAMEK"}, {"id": "950234", "regency_id": "9502", "name": "NONGME"}]
+[
+  {
+    "id": "950201",
+    "regency_id": "9502",
+    "name": "OKSIBIL"
+  },
+  {
+    "id": "950202",
+    "regency_id": "9502",
+    "name": "KIWIROK"
+  },
+  {
+    "id": "950203",
+    "regency_id": "9502",
+    "name": "OKBIBAB"
+  },
+  {
+    "id": "950204",
+    "regency_id": "9502",
+    "name": "IWUR"
+  },
+  {
+    "id": "950205",
+    "regency_id": "9502",
+    "name": "BATOM"
+  },
+  {
+    "id": "950206",
+    "regency_id": "9502",
+    "name": "BORME"
+  },
+  {
+    "id": "950207",
+    "regency_id": "9502",
+    "name": "KIWIROK TIMUR"
+  },
+  {
+    "id": "950208",
+    "regency_id": "9502",
+    "name": "ABOY"
+  },
+  {
+    "id": "950209",
+    "regency_id": "9502",
+    "name": "PEPERA"
+  },
+  {
+    "id": "950210",
+    "regency_id": "9502",
+    "name": "BIME"
+  },
+  {
+    "id": "950211",
+    "regency_id": "9502",
+    "name": "ALEMSOM"
+  },
+  {
+    "id": "950212",
+    "regency_id": "9502",
+    "name": "OKBAPE"
+  },
+  {
+    "id": "950213",
+    "regency_id": "9502",
+    "name": "KALOMDOL"
+  },
+  {
+    "id": "950214",
+    "regency_id": "9502",
+    "name": "OKSOP"
+  },
+  {
+    "id": "950215",
+    "regency_id": "9502",
+    "name": "SERAMBAKON"
+  },
+  {
+    "id": "950216",
+    "regency_id": "9502",
+    "name": "OK AOM"
+  },
+  {
+    "id": "950217",
+    "regency_id": "9502",
+    "name": "KAWOR"
+  },
+  {
+    "id": "950218",
+    "regency_id": "9502",
+    "name": "AWINBON"
+  },
+  {
+    "id": "950219",
+    "regency_id": "9502",
+    "name": "TARUP"
+  },
+  {
+    "id": "950220",
+    "regency_id": "9502",
+    "name": "OKHIKA"
+  },
+  {
+    "id": "950221",
+    "regency_id": "9502",
+    "name": "OKSAMOL"
+  },
+  {
+    "id": "950222",
+    "regency_id": "9502",
+    "name": "OKLIP"
+  },
+  {
+    "id": "950223",
+    "regency_id": "9502",
+    "name": "OKBEMTAU"
+  },
+  {
+    "id": "950224",
+    "regency_id": "9502",
+    "name": "OKSEBANG"
+  },
+  {
+    "id": "950225",
+    "regency_id": "9502",
+    "name": "OKBAB"
+  },
+  {
+    "id": "950226",
+    "regency_id": "9502",
+    "name": "BATANI"
+  },
+  {
+    "id": "950227",
+    "regency_id": "9502",
+    "name": "WEIME"
+  },
+  {
+    "id": "950228",
+    "regency_id": "9502",
+    "name": "MURKIM"
+  },
+  {
+    "id": "950229",
+    "regency_id": "9502",
+    "name": "MOFINOP"
+  },
+  {
+    "id": "950230",
+    "regency_id": "9502",
+    "name": "JETFA"
+  },
+  {
+    "id": "950231",
+    "regency_id": "9502",
+    "name": "TEIRAPLU"
+  },
+  {
+    "id": "950232",
+    "regency_id": "9502",
+    "name": "EIPUMEK"
+  },
+  {
+    "id": "950233",
+    "regency_id": "9502",
+    "name": "PAMEK"
+  },
+  {
+    "id": "950234",
+    "regency_id": "9502",
+    "name": "NONGME"
+  }
+]

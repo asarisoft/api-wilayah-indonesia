@@ -1,1 +1,22 @@
-[{"id": "6403112001", "district_id": "640311", "name": "BOHE SILIAN"}, {"id": "6403112002", "district_id": "640311", "name": "PAYUNG-PAYUNG"}, {"id": "6403112003", "district_id": "640311", "name": "TELUK ALULU"}, {"id": "6403112004", "district_id": "640311", "name": "TELUK HARAPAN"}]
+[
+  {
+    "id": "6403112001",
+    "district_id": "640311",
+    "name": "BOHE SILIAN"
+  },
+  {
+    "id": "6403112002",
+    "district_id": "640311",
+    "name": "PAYUNG-PAYUNG"
+  },
+  {
+    "id": "6403112003",
+    "district_id": "640311",
+    "name": "TELUK ALULU"
+  },
+  {
+    "id": "6403112004",
+    "district_id": "640311",
+    "name": "TELUK HARAPAN"
+  }
+]

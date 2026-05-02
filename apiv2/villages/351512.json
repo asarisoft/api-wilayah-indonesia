@@ -1,1 +1,102 @@
-[{"id": "3515122001", "district_id": "351512", "name": "WONOKUPANG"}, {"id": "3515122002", "district_id": "351512", "name": "SUMOKEMBANGSRI"}, {"id": "3515122003", "district_id": "351512", "name": "SINGKALAN"}, {"id": "3515122004", "district_id": "351512", "name": "BAKUNGPRINGGODANI"}, {"id": "3515122005", "district_id": "351512", "name": "WONOKARANG"}, {"id": "3515122006", "district_id": "351512", "name": "SEDURI"}, {"id": "3515122007", "district_id": "351512", "name": "BAKALANWRINGINPITU"}, {"id": "3515122008", "district_id": "351512", "name": "GAGANGKEPUHSARI"}, {"id": "3515122009", "district_id": "351512", "name": "SUWALUH"}, {"id": "3515122010", "district_id": "351512", "name": "WATESARI"}, {"id": "3515122011", "district_id": "351512", "name": "SEKETI"}, {"id": "3515122012", "district_id": "351512", "name": "KEMANGSEN"}, {"id": "3515122013", "district_id": "351512", "name": "JABARAN"}, {"id": "3515122014", "district_id": "351512", "name": "BALONGBENDO"}, {"id": "3515122015", "district_id": "351512", "name": "JERUKLEGI"}, {"id": "3515122016", "district_id": "351512", "name": "PENAMBANGAN"}, {"id": "3515122017", "district_id": "351512", "name": "WARUBERON"}, {"id": "3515122018", "district_id": "351512", "name": "BOGEMPINGGIR"}, {"id": "3515122019", "district_id": "351512", "name": "KEDUNGSUKODANI"}, {"id": "3515122020", "district_id": "351512", "name": "BAKUNGTEMENGGUNGAN"}]
+[
+  {
+    "id": "3515122001",
+    "district_id": "351512",
+    "name": "WONOKUPANG"
+  },
+  {
+    "id": "3515122002",
+    "district_id": "351512",
+    "name": "SUMOKEMBANGSRI"
+  },
+  {
+    "id": "3515122003",
+    "district_id": "351512",
+    "name": "SINGKALAN"
+  },
+  {
+    "id": "3515122004",
+    "district_id": "351512",
+    "name": "BAKUNGPRINGGODANI"
+  },
+  {
+    "id": "3515122005",
+    "district_id": "351512",
+    "name": "WONOKARANG"
+  },
+  {
+    "id": "3515122006",
+    "district_id": "351512",
+    "name": "SEDURI"
+  },
+  {
+    "id": "3515122007",
+    "district_id": "351512",
+    "name": "BAKALANWRINGINPITU"
+  },
+  {
+    "id": "3515122008",
+    "district_id": "351512",
+    "name": "GAGANGKEPUHSARI"
+  },
+  {
+    "id": "3515122009",
+    "district_id": "351512",
+    "name": "SUWALUH"
+  },
+  {
+    "id": "3515122010",
+    "district_id": "351512",
+    "name": "WATESARI"
+  },
+  {
+    "id": "3515122011",
+    "district_id": "351512",
+    "name": "SEKETI"
+  },
+  {
+    "id": "3515122012",
+    "district_id": "351512",
+    "name": "KEMANGSEN"
+  },
+  {
+    "id": "3515122013",
+    "district_id": "351512",
+    "name": "JABARAN"
+  },
+  {
+    "id": "3515122014",
+    "district_id": "351512",
+    "name": "BALONGBENDO"
+  },
+  {
+    "id": "3515122015",
+    "district_id": "351512",
+    "name": "JERUKLEGI"
+  },
+  {
+    "id": "3515122016",
+    "district_id": "351512",
+    "name": "PENAMBANGAN"
+  },
+  {
+    "id": "3515122017",
+    "district_id": "351512",
+    "name": "WARUBERON"
+  },
+  {
+    "id": "3515122018",
+    "district_id": "351512",
+    "name": "BOGEMPINGGIR"
+  },
+  {
+    "id": "3515122019",
+    "district_id": "351512",
+    "name": "KEDUNGSUKODANI"
+  },
+  {
+    "id": "3515122020",
+    "district_id": "351512",
+    "name": "BAKUNGTEMENGGUNGAN"
+  }
+]

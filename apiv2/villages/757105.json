@@ -1,1 +1,32 @@
-[{"id": "7571051003", "district_id": "757105", "name": "HELEDULAA UTARA"}, {"id": "7571051004", "district_id": "757105", "name": "HELEDULAA SELATAN"}, {"id": "7571051005", "district_id": "757105", "name": "IPILO"}, {"id": "7571051008", "district_id": "757105", "name": "MOODU"}, {"id": "7571051009", "district_id": "757105", "name": "PADEBUOLO"}, {"id": "7571051011", "district_id": "757105", "name": "TAMALATE"}]
+[
+  {
+    "id": "7571051003",
+    "district_id": "757105",
+    "name": "HELEDULAA UTARA"
+  },
+  {
+    "id": "7571051004",
+    "district_id": "757105",
+    "name": "HELEDULAA SELATAN"
+  },
+  {
+    "id": "7571051005",
+    "district_id": "757105",
+    "name": "IPILO"
+  },
+  {
+    "id": "7571051008",
+    "district_id": "757105",
+    "name": "MOODU"
+  },
+  {
+    "id": "7571051009",
+    "district_id": "757105",
+    "name": "PADEBUOLO"
+  },
+  {
+    "id": "7571051011",
+    "district_id": "757105",
+    "name": "TAMALATE"
+  }
+]

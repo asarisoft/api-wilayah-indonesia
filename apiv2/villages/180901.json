@@ -1,1 +1,97 @@
-[{"id": "1809012001", "district_id": "180901", "name": "PADANG RATU"}, {"id": "1809012002", "district_id": "180901", "name": "PAMPANGAN"}, {"id": "1809012003", "district_id": "180901", "name": "CIPADANG"}, {"id": "1809012004", "district_id": "180901", "name": "WAY LAYAP"}, {"id": "1809012005", "district_id": "180901", "name": "SUKADADI"}, {"id": "1809012006", "district_id": "180901", "name": "GEDUNG TATAAN"}, {"id": "1809012007", "district_id": "180901", "name": "BAGELEN"}, {"id": "1809012008", "district_id": "180901", "name": "SUKARAJA"}, {"id": "1809012009", "district_id": "180901", "name": "KEBAGUSAN"}, {"id": "1809012010", "district_id": "180901", "name": "SUNGAI LANGKA"}, {"id": "1809012011", "district_id": "180901", "name": "KURUNGAN NYAWA"}, {"id": "1809012012", "district_id": "180901", "name": "NEGERI SAKTI"}, {"id": "1809012013", "district_id": "180901", "name": "BERNUNG"}, {"id": "1809012014", "district_id": "180901", "name": "SUKA BANJAR"}, {"id": "1809012015", "district_id": "180901", "name": "WIYONO"}, {"id": "1809012016", "district_id": "180901", "name": "TAMAN SARI"}, {"id": "1809012017", "district_id": "180901", "name": "BOGOREJO"}, {"id": "1809012018", "district_id": "180901", "name": "KARANG ANYAR"}, {"id": "1809012019", "district_id": "180901", "name": "KUTOARJO"}]
+[
+  {
+    "id": "1809012001",
+    "district_id": "180901",
+    "name": "PADANG RATU"
+  },
+  {
+    "id": "1809012002",
+    "district_id": "180901",
+    "name": "PAMPANGAN"
+  },
+  {
+    "id": "1809012003",
+    "district_id": "180901",
+    "name": "CIPADANG"
+  },
+  {
+    "id": "1809012004",
+    "district_id": "180901",
+    "name": "WAY LAYAP"
+  },
+  {
+    "id": "1809012005",
+    "district_id": "180901",
+    "name": "SUKADADI"
+  },
+  {
+    "id": "1809012006",
+    "district_id": "180901",
+    "name": "GEDUNG TATAAN"
+  },
+  {
+    "id": "1809012007",
+    "district_id": "180901",
+    "name": "BAGELEN"
+  },
+  {
+    "id": "1809012008",
+    "district_id": "180901",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "1809012009",
+    "district_id": "180901",
+    "name": "KEBAGUSAN"
+  },
+  {
+    "id": "1809012010",
+    "district_id": "180901",
+    "name": "SUNGAI LANGKA"
+  },
+  {
+    "id": "1809012011",
+    "district_id": "180901",
+    "name": "KURUNGAN NYAWA"
+  },
+  {
+    "id": "1809012012",
+    "district_id": "180901",
+    "name": "NEGERI SAKTI"
+  },
+  {
+    "id": "1809012013",
+    "district_id": "180901",
+    "name": "BERNUNG"
+  },
+  {
+    "id": "1809012014",
+    "district_id": "180901",
+    "name": "SUKA BANJAR"
+  },
+  {
+    "id": "1809012015",
+    "district_id": "180901",
+    "name": "WIYONO"
+  },
+  {
+    "id": "1809012016",
+    "district_id": "180901",
+    "name": "TAMAN SARI"
+  },
+  {
+    "id": "1809012017",
+    "district_id": "180901",
+    "name": "BOGOREJO"
+  },
+  {
+    "id": "1809012018",
+    "district_id": "180901",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1809012019",
+    "district_id": "180901",
+    "name": "KUTOARJO"
+  }
+]

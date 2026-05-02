@@ -1,1 +1,57 @@
-[{"id": "3302032001", "district_id": "330203", "name": "GUNUNG WETAN"}, {"id": "3302032002", "district_id": "330203", "name": "PEKUNCEN"}, {"id": "3302032003", "district_id": "330203", "name": "KARANGLEWAS"}, {"id": "3302032004", "district_id": "330203", "name": "KARANGANYAR"}, {"id": "3302032005", "district_id": "330203", "name": "MARGASANA"}, {"id": "3302032006", "district_id": "330203", "name": "ADISARA"}, {"id": "3302032007", "district_id": "330203", "name": "KEDUNGWRINGIN"}, {"id": "3302032008", "district_id": "330203", "name": "BANTAR"}, {"id": "3302032009", "district_id": "330203", "name": "TINGGARJAYA"}, {"id": "3302032010", "district_id": "330203", "name": "TUNJUNG"}, {"id": "3302032011", "district_id": "330203", "name": "GENTAWANGI"}]
+[
+  {
+    "id": "3302032001",
+    "district_id": "330203",
+    "name": "GUNUNG WETAN"
+  },
+  {
+    "id": "3302032002",
+    "district_id": "330203",
+    "name": "PEKUNCEN"
+  },
+  {
+    "id": "3302032003",
+    "district_id": "330203",
+    "name": "KARANGLEWAS"
+  },
+  {
+    "id": "3302032004",
+    "district_id": "330203",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3302032005",
+    "district_id": "330203",
+    "name": "MARGASANA"
+  },
+  {
+    "id": "3302032006",
+    "district_id": "330203",
+    "name": "ADISARA"
+  },
+  {
+    "id": "3302032007",
+    "district_id": "330203",
+    "name": "KEDUNGWRINGIN"
+  },
+  {
+    "id": "3302032008",
+    "district_id": "330203",
+    "name": "BANTAR"
+  },
+  {
+    "id": "3302032009",
+    "district_id": "330203",
+    "name": "TINGGARJAYA"
+  },
+  {
+    "id": "3302032010",
+    "district_id": "330203",
+    "name": "TUNJUNG"
+  },
+  {
+    "id": "3302032011",
+    "district_id": "330203",
+    "name": "GENTAWANGI"
+  }
+]

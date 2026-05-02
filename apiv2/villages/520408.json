@@ -1,1 +1,42 @@
-[{"id": "5204081001", "district_id": "520408", "name": "SAMAPUIN"}, {"id": "5204081002", "district_id": "520408", "name": "BRANG BARA"}, {"id": "5204081003", "district_id": "520408", "name": "PEKAT"}, {"id": "5204081004", "district_id": "520408", "name": "SEKETENG"}, {"id": "5204081005", "district_id": "520408", "name": "BUGIS"}, {"id": "5204081006", "district_id": "520408", "name": "LEMPEH"}, {"id": "5204081007", "district_id": "520408", "name": "BRANG BIJI"}, {"id": "5204081008", "district_id": "520408", "name": "UMA SIMA"}]
+[
+  {
+    "id": "5204081001",
+    "district_id": "520408",
+    "name": "SAMAPUIN"
+  },
+  {
+    "id": "5204081002",
+    "district_id": "520408",
+    "name": "BRANG BARA"
+  },
+  {
+    "id": "5204081003",
+    "district_id": "520408",
+    "name": "PEKAT"
+  },
+  {
+    "id": "5204081004",
+    "district_id": "520408",
+    "name": "SEKETENG"
+  },
+  {
+    "id": "5204081005",
+    "district_id": "520408",
+    "name": "BUGIS"
+  },
+  {
+    "id": "5204081006",
+    "district_id": "520408",
+    "name": "LEMPEH"
+  },
+  {
+    "id": "5204081007",
+    "district_id": "520408",
+    "name": "BRANG BIJI"
+  },
+  {
+    "id": "5204081008",
+    "district_id": "520408",
+    "name": "UMA SIMA"
+  }
+]

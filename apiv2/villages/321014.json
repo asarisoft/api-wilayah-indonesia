@@ -1,1 +1,72 @@
-[{"id": "3210142001", "district_id": "321014", "name": "PAKUBEUREUM"}, {"id": "3210142002", "district_id": "321014", "name": "SUKAWANA"}, {"id": "3210142003", "district_id": "321014", "name": "KERTAWINANGUN"}, {"id": "3210142004", "district_id": "321014", "name": "PALASAH"}, {"id": "3210142005", "district_id": "321014", "name": "BABAKAN"}, {"id": "3210142006", "district_id": "321014", "name": "KERTAJATI"}, {"id": "3210142007", "district_id": "321014", "name": "BANTARJATI"}, {"id": "3210142008", "district_id": "321014", "name": "PASIRIPIS"}, {"id": "3210142009", "district_id": "321014", "name": "SUKAMULYA"}, {"id": "3210142010", "district_id": "321014", "name": "KERTASARI"}, {"id": "3210142011", "district_id": "321014", "name": "MEKARJAYA"}, {"id": "3210142012", "district_id": "321014", "name": "MEKARMULYA"}, {"id": "3210142013", "district_id": "321014", "name": "SUKAKERTA"}, {"id": "3210142014", "district_id": "321014", "name": "SAHBANDAR"}]
+[
+  {
+    "id": "3210142001",
+    "district_id": "321014",
+    "name": "PAKUBEUREUM"
+  },
+  {
+    "id": "3210142002",
+    "district_id": "321014",
+    "name": "SUKAWANA"
+  },
+  {
+    "id": "3210142003",
+    "district_id": "321014",
+    "name": "KERTAWINANGUN"
+  },
+  {
+    "id": "3210142004",
+    "district_id": "321014",
+    "name": "PALASAH"
+  },
+  {
+    "id": "3210142005",
+    "district_id": "321014",
+    "name": "BABAKAN"
+  },
+  {
+    "id": "3210142006",
+    "district_id": "321014",
+    "name": "KERTAJATI"
+  },
+  {
+    "id": "3210142007",
+    "district_id": "321014",
+    "name": "BANTARJATI"
+  },
+  {
+    "id": "3210142008",
+    "district_id": "321014",
+    "name": "PASIRIPIS"
+  },
+  {
+    "id": "3210142009",
+    "district_id": "321014",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3210142010",
+    "district_id": "321014",
+    "name": "KERTASARI"
+  },
+  {
+    "id": "3210142011",
+    "district_id": "321014",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3210142012",
+    "district_id": "321014",
+    "name": "MEKARMULYA"
+  },
+  {
+    "id": "3210142013",
+    "district_id": "321014",
+    "name": "SUKAKERTA"
+  },
+  {
+    "id": "3210142014",
+    "district_id": "321014",
+    "name": "SAHBANDAR"
+  }
+]

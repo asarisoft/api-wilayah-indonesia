@@ -1,1 +1,62 @@
-[{"id": "1804041001", "district_id": "180404", "name": "PASAR LIWA"}, {"id": "1804041003", "district_id": "180404", "name": "WAY MENGAKU"}, {"id": "1804042002", "district_id": "180404", "name": "KUBU PERAHU"}, {"id": "1804042004", "district_id": "180404", "name": "PADANG CAHYA"}, {"id": "1804042005", "district_id": "180404", "name": "SEBARUS"}, {"id": "1804042006", "district_id": "180404", "name": "WAY EMPULAU ULU"}, {"id": "1804042007", "district_id": "180404", "name": "GUNUNG SUGIH"}, {"id": "1804042008", "district_id": "180404", "name": "WATES"}, {"id": "1804042009", "district_id": "180404", "name": "PADANG DALOM"}, {"id": "1804042010", "district_id": "180404", "name": "SUKARAME"}, {"id": "1804042011", "district_id": "180404", "name": "BAHWAY"}, {"id": "1804042012", "district_id": "180404", "name": "SEDAMPAH INDAH"}]
+[
+  {
+    "id": "1804041001",
+    "district_id": "180404",
+    "name": "PASAR LIWA"
+  },
+  {
+    "id": "1804041003",
+    "district_id": "180404",
+    "name": "WAY MENGAKU"
+  },
+  {
+    "id": "1804042002",
+    "district_id": "180404",
+    "name": "KUBU PERAHU"
+  },
+  {
+    "id": "1804042004",
+    "district_id": "180404",
+    "name": "PADANG CAHYA"
+  },
+  {
+    "id": "1804042005",
+    "district_id": "180404",
+    "name": "SEBARUS"
+  },
+  {
+    "id": "1804042006",
+    "district_id": "180404",
+    "name": "WAY EMPULAU ULU"
+  },
+  {
+    "id": "1804042007",
+    "district_id": "180404",
+    "name": "GUNUNG SUGIH"
+  },
+  {
+    "id": "1804042008",
+    "district_id": "180404",
+    "name": "WATES"
+  },
+  {
+    "id": "1804042009",
+    "district_id": "180404",
+    "name": "PADANG DALOM"
+  },
+  {
+    "id": "1804042010",
+    "district_id": "180404",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "1804042011",
+    "district_id": "180404",
+    "name": "BAHWAY"
+  },
+  {
+    "id": "1804042012",
+    "district_id": "180404",
+    "name": "SEDAMPAH INDAH"
+  }
+]

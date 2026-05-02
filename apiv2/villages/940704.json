@@ -1,1 +1,82 @@
-[{"id": "9407042001", "district_id": "940704", "name": "DANGGATADI"}, {"id": "9407042002", "district_id": "940704", "name": "MBIANDOGA"}, {"id": "9407042003", "district_id": "940704", "name": "BUGALAGA"}, {"id": "9407042004", "district_id": "940704", "name": "YAGAITO"}, {"id": "9407042005", "district_id": "940704", "name": "KALAWA"}, {"id": "9407042006", "district_id": "940704", "name": "YANEI"}, {"id": "9407042007", "district_id": "940704", "name": "MANIUWO"}, {"id": "9407042008", "district_id": "940704", "name": "TUNGGAPO"}, {"id": "9407042009", "district_id": "940704", "name": "PAGAMBA"}, {"id": "9407042010", "district_id": "940704", "name": "MAOLAGI"}, {"id": "9407042011", "district_id": "940704", "name": "ANEYA"}, {"id": "9407042012", "district_id": "940704", "name": "KIGITADI"}, {"id": "9407042013", "district_id": "940704", "name": "NDABATADI"}, {"id": "9407042014", "district_id": "940704", "name": "MOYOMATAGA"}, {"id": "9407042015", "district_id": "940704", "name": "PITADI"}, {"id": "9407042016", "district_id": "940704", "name": "ULAR MERAH"}]
+[
+  {
+    "id": "9407042001",
+    "district_id": "940704",
+    "name": "DANGGATADI"
+  },
+  {
+    "id": "9407042002",
+    "district_id": "940704",
+    "name": "MBIANDOGA"
+  },
+  {
+    "id": "9407042003",
+    "district_id": "940704",
+    "name": "BUGALAGA"
+  },
+  {
+    "id": "9407042004",
+    "district_id": "940704",
+    "name": "YAGAITO"
+  },
+  {
+    "id": "9407042005",
+    "district_id": "940704",
+    "name": "KALAWA"
+  },
+  {
+    "id": "9407042006",
+    "district_id": "940704",
+    "name": "YANEI"
+  },
+  {
+    "id": "9407042007",
+    "district_id": "940704",
+    "name": "MANIUWO"
+  },
+  {
+    "id": "9407042008",
+    "district_id": "940704",
+    "name": "TUNGGAPO"
+  },
+  {
+    "id": "9407042009",
+    "district_id": "940704",
+    "name": "PAGAMBA"
+  },
+  {
+    "id": "9407042010",
+    "district_id": "940704",
+    "name": "MAOLAGI"
+  },
+  {
+    "id": "9407042011",
+    "district_id": "940704",
+    "name": "ANEYA"
+  },
+  {
+    "id": "9407042012",
+    "district_id": "940704",
+    "name": "KIGITADI"
+  },
+  {
+    "id": "9407042013",
+    "district_id": "940704",
+    "name": "NDABATADI"
+  },
+  {
+    "id": "9407042014",
+    "district_id": "940704",
+    "name": "MOYOMATAGA"
+  },
+  {
+    "id": "9407042015",
+    "district_id": "940704",
+    "name": "PITADI"
+  },
+  {
+    "id": "9407042016",
+    "district_id": "940704",
+    "name": "ULAR MERAH"
+  }
+]

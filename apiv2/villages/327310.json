@@ -1,1 +1,32 @@
-[{"id": "3273101001", "district_id": "327310", "name": "KARASAK"}, {"id": "3273101002", "district_id": "327310", "name": "NYENGSERET"}, {"id": "3273101003", "district_id": "327310", "name": "KARANG ANYAR"}, {"id": "3273101004", "district_id": "327310", "name": "PANJUNAN"}, {"id": "3273101005", "district_id": "327310", "name": "CIBADAK"}, {"id": "3273101006", "district_id": "327310", "name": "PELINDUNG HEWAN"}]
+[
+  {
+    "id": "3273101001",
+    "district_id": "327310",
+    "name": "KARASAK"
+  },
+  {
+    "id": "3273101002",
+    "district_id": "327310",
+    "name": "NYENGSERET"
+  },
+  {
+    "id": "3273101003",
+    "district_id": "327310",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "3273101004",
+    "district_id": "327310",
+    "name": "PANJUNAN"
+  },
+  {
+    "id": "3273101005",
+    "district_id": "327310",
+    "name": "CIBADAK"
+  },
+  {
+    "id": "3273101006",
+    "district_id": "327310",
+    "name": "PELINDUNG HEWAN"
+  }
+]

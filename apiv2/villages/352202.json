@@ -1,1 +1,92 @@
-[{"id": "3522022001", "district_id": "352202", "name": "NAPIS"}, {"id": "3522022002", "district_id": "352202", "name": "JATIMULYO"}, {"id": "3522022003", "district_id": "352202", "name": "NGRANCANG"}, {"id": "3522022004", "district_id": "352202", "name": "TURI"}, {"id": "3522022005", "district_id": "352202", "name": "MALINGMATI"}, {"id": "3522022006", "district_id": "352202", "name": "TAMBAKREJO"}, {"id": "3522022007", "district_id": "352202", "name": "BAKALAN"}, {"id": "3522022008", "district_id": "352202", "name": "JAWIK"}, {"id": "3522022009", "district_id": "352202", "name": "SUKOREJO"}, {"id": "3522022010", "district_id": "352202", "name": "GADING"}, {"id": "3522022011", "district_id": "352202", "name": "PENGKOL"}, {"id": "3522022012", "district_id": "352202", "name": "TANJUNG"}, {"id": "3522022013", "district_id": "352202", "name": "GAMONGAN"}, {"id": "3522022014", "district_id": "352202", "name": "KALISUMBER"}, {"id": "3522022015", "district_id": "352202", "name": "MULYOREJO"}, {"id": "3522022016", "district_id": "352202", "name": "DOLOKGEDE"}, {"id": "3522022017", "district_id": "352202", "name": "SENDANGREJO"}, {"id": "3522022018", "district_id": "352202", "name": "KACANGAN"}]
+[
+  {
+    "id": "3522022001",
+    "district_id": "352202",
+    "name": "NAPIS"
+  },
+  {
+    "id": "3522022002",
+    "district_id": "352202",
+    "name": "JATIMULYO"
+  },
+  {
+    "id": "3522022003",
+    "district_id": "352202",
+    "name": "NGRANCANG"
+  },
+  {
+    "id": "3522022004",
+    "district_id": "352202",
+    "name": "TURI"
+  },
+  {
+    "id": "3522022005",
+    "district_id": "352202",
+    "name": "MALINGMATI"
+  },
+  {
+    "id": "3522022006",
+    "district_id": "352202",
+    "name": "TAMBAKREJO"
+  },
+  {
+    "id": "3522022007",
+    "district_id": "352202",
+    "name": "BAKALAN"
+  },
+  {
+    "id": "3522022008",
+    "district_id": "352202",
+    "name": "JAWIK"
+  },
+  {
+    "id": "3522022009",
+    "district_id": "352202",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3522022010",
+    "district_id": "352202",
+    "name": "GADING"
+  },
+  {
+    "id": "3522022011",
+    "district_id": "352202",
+    "name": "PENGKOL"
+  },
+  {
+    "id": "3522022012",
+    "district_id": "352202",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "3522022013",
+    "district_id": "352202",
+    "name": "GAMONGAN"
+  },
+  {
+    "id": "3522022014",
+    "district_id": "352202",
+    "name": "KALISUMBER"
+  },
+  {
+    "id": "3522022015",
+    "district_id": "352202",
+    "name": "MULYOREJO"
+  },
+  {
+    "id": "3522022016",
+    "district_id": "352202",
+    "name": "DOLOKGEDE"
+  },
+  {
+    "id": "3522022017",
+    "district_id": "352202",
+    "name": "SENDANGREJO"
+  },
+  {
+    "id": "3522022018",
+    "district_id": "352202",
+    "name": "KACANGAN"
+  }
+]

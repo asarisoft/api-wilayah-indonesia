@@ -1,1 +1,77 @@
-[{"id": "6310061001", "district_id": "631006", "name": "KAMPUNG BARU"}, {"id": "6310061002", "district_id": "631006", "name": "TUNGKARAN PANGERAN"}, {"id": "6310062003", "district_id": "631006", "name": "SARI GADUNG"}, {"id": "6310062004", "district_id": "631006", "name": "MEKAR SARI"}, {"id": "6310062005", "district_id": "631006", "name": "SUNGAIDUA"}, {"id": "6310062006", "district_id": "631006", "name": "BATU AMPAR"}, {"id": "6310062007", "district_id": "631006", "name": "GUNUNGBESAR"}, {"id": "6310062008", "district_id": "631006", "name": "PULAU BURUNG"}, {"id": "6310062009", "district_id": "631006", "name": "BAROQAH"}, {"id": "6310062010", "district_id": "631006", "name": "BERSUJUD"}, {"id": "6310062011", "district_id": "631006", "name": "SEJAHTERA"}, {"id": "6310062012", "district_id": "631006", "name": "GUNUNGANTASARI"}, {"id": "6310062013", "district_id": "631006", "name": "HIDAYAH MAKMUR"}, {"id": "6310062014", "district_id": "631006", "name": "PLAJAU MULIA"}, {"id": "6310062015", "district_id": "631006", "name": "KUPANG BERKAH JAYA"}]
+[
+  {
+    "id": "6310061001",
+    "district_id": "631006",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "6310061002",
+    "district_id": "631006",
+    "name": "TUNGKARAN PANGERAN"
+  },
+  {
+    "id": "6310062003",
+    "district_id": "631006",
+    "name": "SARI GADUNG"
+  },
+  {
+    "id": "6310062004",
+    "district_id": "631006",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "6310062005",
+    "district_id": "631006",
+    "name": "SUNGAIDUA"
+  },
+  {
+    "id": "6310062006",
+    "district_id": "631006",
+    "name": "BATU AMPAR"
+  },
+  {
+    "id": "6310062007",
+    "district_id": "631006",
+    "name": "GUNUNGBESAR"
+  },
+  {
+    "id": "6310062008",
+    "district_id": "631006",
+    "name": "PULAU BURUNG"
+  },
+  {
+    "id": "6310062009",
+    "district_id": "631006",
+    "name": "BAROQAH"
+  },
+  {
+    "id": "6310062010",
+    "district_id": "631006",
+    "name": "BERSUJUD"
+  },
+  {
+    "id": "6310062011",
+    "district_id": "631006",
+    "name": "SEJAHTERA"
+  },
+  {
+    "id": "6310062012",
+    "district_id": "631006",
+    "name": "GUNUNGANTASARI"
+  },
+  {
+    "id": "6310062013",
+    "district_id": "631006",
+    "name": "HIDAYAH MAKMUR"
+  },
+  {
+    "id": "6310062014",
+    "district_id": "631006",
+    "name": "PLAJAU MULIA"
+  },
+  {
+    "id": "6310062015",
+    "district_id": "631006",
+    "name": "KUPANG BERKAH JAYA"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3508112001", "district_id": "350811", "name": "PASRUJAMBE"}, {"id": "3508112002", "district_id": "350811", "name": "JAMBEKUMBU"}, {"id": "3508112003", "district_id": "350811", "name": "SUKOREJO"}, {"id": "3508112004", "district_id": "350811", "name": "JAMBEARUM"}, {"id": "3508112005", "district_id": "350811", "name": "KERTOSARI"}, {"id": "3508112006", "district_id": "350811", "name": "PAGOWAN"}, {"id": "3508112007", "district_id": "350811", "name": "KARANGANOM"}]
+[
+  {
+    "id": "3508112001",
+    "district_id": "350811",
+    "name": "PASRUJAMBE"
+  },
+  {
+    "id": "3508112002",
+    "district_id": "350811",
+    "name": "JAMBEKUMBU"
+  },
+  {
+    "id": "3508112003",
+    "district_id": "350811",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3508112004",
+    "district_id": "350811",
+    "name": "JAMBEARUM"
+  },
+  {
+    "id": "3508112005",
+    "district_id": "350811",
+    "name": "KERTOSARI"
+  },
+  {
+    "id": "3508112006",
+    "district_id": "350811",
+    "name": "PAGOWAN"
+  },
+  {
+    "id": "3508112007",
+    "district_id": "350811",
+    "name": "KARANGANOM"
+  }
+]

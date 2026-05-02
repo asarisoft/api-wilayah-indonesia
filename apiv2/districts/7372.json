@@ -1,1 +1,22 @@
-[{"id": "737201", "regency_id": "7372", "name": "BACUKIKI"}, {"id": "737202", "regency_id": "7372", "name": "UJUNG"}, {"id": "737203", "regency_id": "7372", "name": "SOREANG"}, {"id": "737204", "regency_id": "7372", "name": "BACUKIKI BARAT"}]
+[
+  {
+    "id": "737201",
+    "regency_id": "7372",
+    "name": "BACUKIKI"
+  },
+  {
+    "id": "737202",
+    "regency_id": "7372",
+    "name": "UJUNG"
+  },
+  {
+    "id": "737203",
+    "regency_id": "7372",
+    "name": "SOREANG"
+  },
+  {
+    "id": "737204",
+    "regency_id": "7372",
+    "name": "BACUKIKI BARAT"
+  }
+]

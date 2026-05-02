@@ -1,1 +1,62 @@
-[{"id": "7210092001", "district_id": "721009", "name": "BANGGA"}, {"id": "7210092002", "district_id": "721009", "name": "WALATANA"}, {"id": "7210092003", "district_id": "721009", "name": "BULUBETE"}, {"id": "7210092004", "district_id": "721009", "name": "BALUASE"}, {"id": "7210092005", "district_id": "721009", "name": "ROGO"}, {"id": "7210092006", "district_id": "721009", "name": "PULU"}, {"id": "7210092007", "district_id": "721009", "name": "BALONGGA"}, {"id": "7210092008", "district_id": "721009", "name": "SAMBO"}, {"id": "7210092009", "district_id": "721009", "name": "WISOLO"}, {"id": "7210092010", "district_id": "721009", "name": "JONO"}, {"id": "7210092011", "district_id": "721009", "name": "POI"}, {"id": "7210092012", "district_id": "721009", "name": "RAMBA"}]
+[
+  {
+    "id": "7210092001",
+    "district_id": "721009",
+    "name": "BANGGA"
+  },
+  {
+    "id": "7210092002",
+    "district_id": "721009",
+    "name": "WALATANA"
+  },
+  {
+    "id": "7210092003",
+    "district_id": "721009",
+    "name": "BULUBETE"
+  },
+  {
+    "id": "7210092004",
+    "district_id": "721009",
+    "name": "BALUASE"
+  },
+  {
+    "id": "7210092005",
+    "district_id": "721009",
+    "name": "ROGO"
+  },
+  {
+    "id": "7210092006",
+    "district_id": "721009",
+    "name": "PULU"
+  },
+  {
+    "id": "7210092007",
+    "district_id": "721009",
+    "name": "BALONGGA"
+  },
+  {
+    "id": "7210092008",
+    "district_id": "721009",
+    "name": "SAMBO"
+  },
+  {
+    "id": "7210092009",
+    "district_id": "721009",
+    "name": "WISOLO"
+  },
+  {
+    "id": "7210092010",
+    "district_id": "721009",
+    "name": "JONO"
+  },
+  {
+    "id": "7210092011",
+    "district_id": "721009",
+    "name": "POI"
+  },
+  {
+    "id": "7210092012",
+    "district_id": "721009",
+    "name": "RAMBA"
+  }
+]

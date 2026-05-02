@@ -1,1 +1,67 @@
-[{"id": "3603111010", "district_id": "360311", "name": "SUKATANI"}, {"id": "3603112001", "district_id": "360311", "name": "RAJEG"}, {"id": "3603112002", "district_id": "360311", "name": "RAJEG MULYA"}, {"id": "3603112003", "district_id": "360311", "name": "PANGARENGAN"}, {"id": "3603112005", "district_id": "360311", "name": "JAMBU KARYA"}, {"id": "3603112006", "district_id": "360311", "name": "LEMBANGSARI"}, {"id": "3603112007", "district_id": "360311", "name": "SUKAMANAH"}, {"id": "3603112008", "district_id": "360311", "name": "TANJAKAN"}, {"id": "3603112009", "district_id": "360311", "name": "TANJAKAN MEKAR"}, {"id": "3603112011", "district_id": "360311", "name": "SUKASARI"}, {"id": "3603112012", "district_id": "360311", "name": "RANCA BANGO"}, {"id": "3603112013", "district_id": "360311", "name": "DAON"}, {"id": "3603112014", "district_id": "360311", "name": "MEKARSARI"}]
+[
+  {
+    "id": "3603111010",
+    "district_id": "360311",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "3603112001",
+    "district_id": "360311",
+    "name": "RAJEG"
+  },
+  {
+    "id": "3603112002",
+    "district_id": "360311",
+    "name": "RAJEG MULYA"
+  },
+  {
+    "id": "3603112003",
+    "district_id": "360311",
+    "name": "PANGARENGAN"
+  },
+  {
+    "id": "3603112005",
+    "district_id": "360311",
+    "name": "JAMBU KARYA"
+  },
+  {
+    "id": "3603112006",
+    "district_id": "360311",
+    "name": "LEMBANGSARI"
+  },
+  {
+    "id": "3603112007",
+    "district_id": "360311",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3603112008",
+    "district_id": "360311",
+    "name": "TANJAKAN"
+  },
+  {
+    "id": "3603112009",
+    "district_id": "360311",
+    "name": "TANJAKAN MEKAR"
+  },
+  {
+    "id": "3603112011",
+    "district_id": "360311",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3603112012",
+    "district_id": "360311",
+    "name": "RANCA BANGO"
+  },
+  {
+    "id": "3603112013",
+    "district_id": "360311",
+    "name": "DAON"
+  },
+  {
+    "id": "3603112014",
+    "district_id": "360311",
+    "name": "MEKARSARI"
+  }
+]

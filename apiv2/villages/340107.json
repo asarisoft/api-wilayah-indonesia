@@ -1,1 +1,37 @@
-[{"id": "3401072001", "district_id": "340107", "name": "TAWANGSARI"}, {"id": "3401072002", "district_id": "340107", "name": "KARANGSARI"}, {"id": "3401072003", "district_id": "340107", "name": "KEDUNGSARI"}, {"id": "3401072004", "district_id": "340107", "name": "MARGOSARI"}, {"id": "3401072005", "district_id": "340107", "name": "PENGASIH"}, {"id": "3401072006", "district_id": "340107", "name": "SENDANGSARI"}, {"id": "3401072007", "district_id": "340107", "name": "SIDOMULYO"}]
+[
+  {
+    "id": "3401072001",
+    "district_id": "340107",
+    "name": "TAWANGSARI"
+  },
+  {
+    "id": "3401072002",
+    "district_id": "340107",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3401072003",
+    "district_id": "340107",
+    "name": "KEDUNGSARI"
+  },
+  {
+    "id": "3401072004",
+    "district_id": "340107",
+    "name": "MARGOSARI"
+  },
+  {
+    "id": "3401072005",
+    "district_id": "340107",
+    "name": "PENGASIH"
+  },
+  {
+    "id": "3401072006",
+    "district_id": "340107",
+    "name": "SENDANGSARI"
+  },
+  {
+    "id": "3401072007",
+    "district_id": "340107",
+    "name": "SIDOMULYO"
+  }
+]

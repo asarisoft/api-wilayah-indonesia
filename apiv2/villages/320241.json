@@ -1,1 +1,62 @@
-[{"id": "3202412001", "district_id": "320241", "name": "SAGARANTEN"}, {"id": "3202412002", "district_id": "320241", "name": "CURUGLUHUR"}, {"id": "3202412003", "district_id": "320241", "name": "CIBAREGBEG"}, {"id": "3202412004", "district_id": "320241", "name": "PASANGGRAHAN"}, {"id": "3202412005", "district_id": "320241", "name": "DATARNANGKA"}, {"id": "3202412006", "district_id": "320241", "name": "PUNCAKMANGGIS"}, {"id": "3202412007", "district_id": "320241", "name": "HEGARMANAH"}, {"id": "3202412008", "district_id": "320241", "name": "GUNUNGBENTANG"}, {"id": "3202412009", "district_id": "320241", "name": "SINARBENTANG"}, {"id": "3202412010", "district_id": "320241", "name": "CIBITUNG"}, {"id": "3202412011", "district_id": "320241", "name": "MARGALUYU"}, {"id": "3202412012", "district_id": "320241", "name": "MEKARSARI"}]
+[
+  {
+    "id": "3202412001",
+    "district_id": "320241",
+    "name": "SAGARANTEN"
+  },
+  {
+    "id": "3202412002",
+    "district_id": "320241",
+    "name": "CURUGLUHUR"
+  },
+  {
+    "id": "3202412003",
+    "district_id": "320241",
+    "name": "CIBAREGBEG"
+  },
+  {
+    "id": "3202412004",
+    "district_id": "320241",
+    "name": "PASANGGRAHAN"
+  },
+  {
+    "id": "3202412005",
+    "district_id": "320241",
+    "name": "DATARNANGKA"
+  },
+  {
+    "id": "3202412006",
+    "district_id": "320241",
+    "name": "PUNCAKMANGGIS"
+  },
+  {
+    "id": "3202412007",
+    "district_id": "320241",
+    "name": "HEGARMANAH"
+  },
+  {
+    "id": "3202412008",
+    "district_id": "320241",
+    "name": "GUNUNGBENTANG"
+  },
+  {
+    "id": "3202412009",
+    "district_id": "320241",
+    "name": "SINARBENTANG"
+  },
+  {
+    "id": "3202412010",
+    "district_id": "320241",
+    "name": "CIBITUNG"
+  },
+  {
+    "id": "3202412011",
+    "district_id": "320241",
+    "name": "MARGALUYU"
+  },
+  {
+    "id": "3202412012",
+    "district_id": "320241",
+    "name": "MEKARSARI"
+  }
+]

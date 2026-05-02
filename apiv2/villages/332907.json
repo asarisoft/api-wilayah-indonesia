@@ -1,1 +1,112 @@
-[{"id": "3329072001", "district_id": "332907", "name": "BOJONG"}, {"id": "3329072002", "district_id": "332907", "name": "BUARAN"}, {"id": "3329072003", "district_id": "332907", "name": "JANEGARA"}, {"id": "3329072004", "district_id": "332907", "name": "JATIBARANG KIDUL"}, {"id": "3329072005", "district_id": "332907", "name": "JATIBARANG LOR"}, {"id": "3329072006", "district_id": "332907", "name": "KALIALANG"}, {"id": "3329072007", "district_id": "332907", "name": "KALIPUCANG"}, {"id": "3329072008", "district_id": "332907", "name": "KARANGLO"}, {"id": "3329072009", "district_id": "332907", "name": "KEBOGADUNG"}, {"id": "3329072010", "district_id": "332907", "name": "KEBONAGUNG"}, {"id": "3329072011", "district_id": "332907", "name": "KEDUNGTUKANG"}, {"id": "3329072012", "district_id": "332907", "name": "KEMIRIAMBA"}, {"id": "3329072013", "district_id": "332907", "name": "KENDAWA"}, {"id": "3329072014", "district_id": "332907", "name": "KERTASINDUYASA"}, {"id": "3329072015", "district_id": "332907", "name": "KLAMPIS"}, {"id": "3329072016", "district_id": "332907", "name": "KLIKIRAN"}, {"id": "3329072017", "district_id": "332907", "name": "KRAMAT"}, {"id": "3329072018", "district_id": "332907", "name": "PAMENGGER"}, {"id": "3329072019", "district_id": "332907", "name": "PEDESLOHOR"}, {"id": "3329072020", "district_id": "332907", "name": "RENGASBANDUNG"}, {"id": "3329072021", "district_id": "332907", "name": "TEGALWULUNG"}, {"id": "3329072022", "district_id": "332907", "name": "TEMBELANG"}]
+[
+  {
+    "id": "3329072001",
+    "district_id": "332907",
+    "name": "BOJONG"
+  },
+  {
+    "id": "3329072002",
+    "district_id": "332907",
+    "name": "BUARAN"
+  },
+  {
+    "id": "3329072003",
+    "district_id": "332907",
+    "name": "JANEGARA"
+  },
+  {
+    "id": "3329072004",
+    "district_id": "332907",
+    "name": "JATIBARANG KIDUL"
+  },
+  {
+    "id": "3329072005",
+    "district_id": "332907",
+    "name": "JATIBARANG LOR"
+  },
+  {
+    "id": "3329072006",
+    "district_id": "332907",
+    "name": "KALIALANG"
+  },
+  {
+    "id": "3329072007",
+    "district_id": "332907",
+    "name": "KALIPUCANG"
+  },
+  {
+    "id": "3329072008",
+    "district_id": "332907",
+    "name": "KARANGLO"
+  },
+  {
+    "id": "3329072009",
+    "district_id": "332907",
+    "name": "KEBOGADUNG"
+  },
+  {
+    "id": "3329072010",
+    "district_id": "332907",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3329072011",
+    "district_id": "332907",
+    "name": "KEDUNGTUKANG"
+  },
+  {
+    "id": "3329072012",
+    "district_id": "332907",
+    "name": "KEMIRIAMBA"
+  },
+  {
+    "id": "3329072013",
+    "district_id": "332907",
+    "name": "KENDAWA"
+  },
+  {
+    "id": "3329072014",
+    "district_id": "332907",
+    "name": "KERTASINDUYASA"
+  },
+  {
+    "id": "3329072015",
+    "district_id": "332907",
+    "name": "KLAMPIS"
+  },
+  {
+    "id": "3329072016",
+    "district_id": "332907",
+    "name": "KLIKIRAN"
+  },
+  {
+    "id": "3329072017",
+    "district_id": "332907",
+    "name": "KRAMAT"
+  },
+  {
+    "id": "3329072018",
+    "district_id": "332907",
+    "name": "PAMENGGER"
+  },
+  {
+    "id": "3329072019",
+    "district_id": "332907",
+    "name": "PEDESLOHOR"
+  },
+  {
+    "id": "3329072020",
+    "district_id": "332907",
+    "name": "RENGASBANDUNG"
+  },
+  {
+    "id": "3329072021",
+    "district_id": "332907",
+    "name": "TEGALWULUNG"
+  },
+  {
+    "id": "3329072022",
+    "district_id": "332907",
+    "name": "TEMBELANG"
+  }
+]

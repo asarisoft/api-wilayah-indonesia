@@ -1,1 +1,52 @@
-[{"id": "3509052001", "district_id": "350905", "name": "SUKORENO"}, {"id": "3509052002", "district_id": "350905", "name": "SIDOREJO"}, {"id": "3509052003", "district_id": "350905", "name": "GUNUNGSARI"}, {"id": "3509052004", "district_id": "350905", "name": "GADINGREJO"}, {"id": "3509052005", "district_id": "350905", "name": "UMBULREJO"}, {"id": "3509052006", "district_id": "350905", "name": "UMBULSARI"}, {"id": "3509052007", "district_id": "350905", "name": "TANJUNGSARI"}, {"id": "3509052008", "district_id": "350905", "name": "TEGALWANGI"}, {"id": "3509052009", "district_id": "350905", "name": "PALERAN"}, {"id": "3509052010", "district_id": "350905", "name": "MUNDUREJO"}]
+[
+  {
+    "id": "3509052001",
+    "district_id": "350905",
+    "name": "SUKORENO"
+  },
+  {
+    "id": "3509052002",
+    "district_id": "350905",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3509052003",
+    "district_id": "350905",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3509052004",
+    "district_id": "350905",
+    "name": "GADINGREJO"
+  },
+  {
+    "id": "3509052005",
+    "district_id": "350905",
+    "name": "UMBULREJO"
+  },
+  {
+    "id": "3509052006",
+    "district_id": "350905",
+    "name": "UMBULSARI"
+  },
+  {
+    "id": "3509052007",
+    "district_id": "350905",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3509052008",
+    "district_id": "350905",
+    "name": "TEGALWANGI"
+  },
+  {
+    "id": "3509052009",
+    "district_id": "350905",
+    "name": "PALERAN"
+  },
+  {
+    "id": "3509052010",
+    "district_id": "350905",
+    "name": "MUNDUREJO"
+  }
+]

@@ -1,1 +1,97 @@
-[{"id": "6104072001", "district_id": "610407", "name": "RIAM BUNUT"}, {"id": "6104072002", "district_id": "610407", "name": "SEMPURNA"}, {"id": "6104072003", "district_id": "610407", "name": "BENGARAS"}, {"id": "6104072004", "district_id": "610407", "name": "SEPOTONG"}, {"id": "6104072005", "district_id": "610407", "name": "SUKARAMAI"}, {"id": "6104072006", "district_id": "610407", "name": "TANJUNG BERINGIN"}, {"id": "6104072007", "district_id": "610407", "name": "HARAPAN BARU"}, {"id": "6104072008", "district_id": "610407", "name": "RANDAU LIMAT"}, {"id": "6104072009", "district_id": "610407", "name": "BAYUN SARI"}, {"id": "6104072010", "district_id": "610407", "name": "TELUK BAYUR"}, {"id": "6104072011", "district_id": "610407", "name": "TANJUNG MAJU"}, {"id": "6104072012", "district_id": "610407", "name": "SUNGAI DAKA"}, {"id": "6104072013", "district_id": "610407", "name": "MEKAR HARAPAN"}, {"id": "6104072014", "district_id": "610407", "name": "SINAR KURI"}, {"id": "6104072015", "district_id": "610407", "name": "SELANGKUT RAYA"}, {"id": "6104072016", "district_id": "610407", "name": "LANJUT MEKAR SARI"}, {"id": "6104072017", "district_id": "610407", "name": "KEPARI"}, {"id": "6104072018", "district_id": "610407", "name": "TELUK MUTIARA"}, {"id": "6104072019", "district_id": "610407", "name": "MERABU JAYA"}]
+[
+  {
+    "id": "6104072001",
+    "district_id": "610407",
+    "name": "RIAM BUNUT"
+  },
+  {
+    "id": "6104072002",
+    "district_id": "610407",
+    "name": "SEMPURNA"
+  },
+  {
+    "id": "6104072003",
+    "district_id": "610407",
+    "name": "BENGARAS"
+  },
+  {
+    "id": "6104072004",
+    "district_id": "610407",
+    "name": "SEPOTONG"
+  },
+  {
+    "id": "6104072005",
+    "district_id": "610407",
+    "name": "SUKARAMAI"
+  },
+  {
+    "id": "6104072006",
+    "district_id": "610407",
+    "name": "TANJUNG BERINGIN"
+  },
+  {
+    "id": "6104072007",
+    "district_id": "610407",
+    "name": "HARAPAN BARU"
+  },
+  {
+    "id": "6104072008",
+    "district_id": "610407",
+    "name": "RANDAU LIMAT"
+  },
+  {
+    "id": "6104072009",
+    "district_id": "610407",
+    "name": "BAYUN SARI"
+  },
+  {
+    "id": "6104072010",
+    "district_id": "610407",
+    "name": "TELUK BAYUR"
+  },
+  {
+    "id": "6104072011",
+    "district_id": "610407",
+    "name": "TANJUNG MAJU"
+  },
+  {
+    "id": "6104072012",
+    "district_id": "610407",
+    "name": "SUNGAI DAKA"
+  },
+  {
+    "id": "6104072013",
+    "district_id": "610407",
+    "name": "MEKAR HARAPAN"
+  },
+  {
+    "id": "6104072014",
+    "district_id": "610407",
+    "name": "SINAR KURI"
+  },
+  {
+    "id": "6104072015",
+    "district_id": "610407",
+    "name": "SELANGKUT RAYA"
+  },
+  {
+    "id": "6104072016",
+    "district_id": "610407",
+    "name": "LANJUT MEKAR SARI"
+  },
+  {
+    "id": "6104072017",
+    "district_id": "610407",
+    "name": "KEPARI"
+  },
+  {
+    "id": "6104072018",
+    "district_id": "610407",
+    "name": "TELUK MUTIARA"
+  },
+  {
+    "id": "6104072019",
+    "district_id": "610407",
+    "name": "MERABU JAYA"
+  }
+]

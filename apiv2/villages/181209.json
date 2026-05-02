@@ -1,1 +1,52 @@
-[{"id": "1812092001", "district_id": "181209", "name": "PANCA MARGA"}, {"id": "1812092002", "district_id": "181209", "name": "SIDO MAKMUR"}, {"id": "1812092003", "district_id": "181209", "name": "SAKTI JAYA"}, {"id": "1812092004", "district_id": "181209", "name": "MARGO MULYA"}, {"id": "1812092005", "district_id": "181209", "name": "MARGO DADI"}, {"id": "1812092006", "district_id": "181209", "name": "MARGA SARI"}, {"id": "1812092007", "district_id": "181209", "name": "MULYO SARI"}, {"id": "1812092008", "district_id": "181209", "name": "TOTO KATON"}, {"id": "1812092009", "district_id": "181209", "name": "TOTO MAKMUR"}, {"id": "1812092010", "district_id": "181209", "name": "TOTO WONODADI"}]
+[
+  {
+    "id": "1812092001",
+    "district_id": "181209",
+    "name": "PANCA MARGA"
+  },
+  {
+    "id": "1812092002",
+    "district_id": "181209",
+    "name": "SIDO MAKMUR"
+  },
+  {
+    "id": "1812092003",
+    "district_id": "181209",
+    "name": "SAKTI JAYA"
+  },
+  {
+    "id": "1812092004",
+    "district_id": "181209",
+    "name": "MARGO MULYA"
+  },
+  {
+    "id": "1812092005",
+    "district_id": "181209",
+    "name": "MARGO DADI"
+  },
+  {
+    "id": "1812092006",
+    "district_id": "181209",
+    "name": "MARGA SARI"
+  },
+  {
+    "id": "1812092007",
+    "district_id": "181209",
+    "name": "MULYO SARI"
+  },
+  {
+    "id": "1812092008",
+    "district_id": "181209",
+    "name": "TOTO KATON"
+  },
+  {
+    "id": "1812092009",
+    "district_id": "181209",
+    "name": "TOTO MAKMUR"
+  },
+  {
+    "id": "1812092010",
+    "district_id": "181209",
+    "name": "TOTO WONODADI"
+  }
+]

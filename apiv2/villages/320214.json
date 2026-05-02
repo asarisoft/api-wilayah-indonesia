@@ -1,1 +1,27 @@
-[{"id": "3202142001", "district_id": "320214", "name": "BOJONGGENTENG"}, {"id": "3202142002", "district_id": "320214", "name": "CIBODAS"}, {"id": "3202142003", "district_id": "320214", "name": "BEREKAH"}, {"id": "3202142004", "district_id": "320214", "name": "CIPANENGAH"}, {"id": "3202142005", "district_id": "320214", "name": "BOJONGGALING"}]
+[
+  {
+    "id": "3202142001",
+    "district_id": "320214",
+    "name": "BOJONGGENTENG"
+  },
+  {
+    "id": "3202142002",
+    "district_id": "320214",
+    "name": "CIBODAS"
+  },
+  {
+    "id": "3202142003",
+    "district_id": "320214",
+    "name": "BEREKAH"
+  },
+  {
+    "id": "3202142004",
+    "district_id": "320214",
+    "name": "CIPANENGAH"
+  },
+  {
+    "id": "3202142005",
+    "district_id": "320214",
+    "name": "BOJONGGALING"
+  }
+]

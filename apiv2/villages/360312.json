@@ -1,1 +1,47 @@
-[{"id": "3603121005", "district_id": "360312", "name": "SINDANGSARI"}, {"id": "3603121010", "district_id": "360312", "name": "KUTABUMI"}, {"id": "3603121012", "district_id": "360312", "name": "KUTA JAYA"}, {"id": "3603121014", "district_id": "360312", "name": "KUTA BARU"}, {"id": "3603122001", "district_id": "360312", "name": "PASAR KEMIS"}, {"id": "3603122008", "district_id": "360312", "name": "SUKAMANTRI"}, {"id": "3603122011", "district_id": "360312", "name": "PANGADEGAN"}, {"id": "3603122013", "district_id": "360312", "name": "GELAM JAYA"}, {"id": "3603122015", "district_id": "360312", "name": "SUKA ASIH"}]
+[
+  {
+    "id": "3603121005",
+    "district_id": "360312",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3603121010",
+    "district_id": "360312",
+    "name": "KUTABUMI"
+  },
+  {
+    "id": "3603121012",
+    "district_id": "360312",
+    "name": "KUTA JAYA"
+  },
+  {
+    "id": "3603121014",
+    "district_id": "360312",
+    "name": "KUTA BARU"
+  },
+  {
+    "id": "3603122001",
+    "district_id": "360312",
+    "name": "PASAR KEMIS"
+  },
+  {
+    "id": "3603122008",
+    "district_id": "360312",
+    "name": "SUKAMANTRI"
+  },
+  {
+    "id": "3603122011",
+    "district_id": "360312",
+    "name": "PANGADEGAN"
+  },
+  {
+    "id": "3603122013",
+    "district_id": "360312",
+    "name": "GELAM JAYA"
+  },
+  {
+    "id": "3603122015",
+    "district_id": "360312",
+    "name": "SUKA ASIH"
+  }
+]

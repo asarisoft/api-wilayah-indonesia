@@ -1,1 +1,47 @@
-[{"id": "5308142002", "district_id": "530814", "name": "NDUARIA"}, {"id": "5308142003", "district_id": "530814", "name": "NUAMURI"}, {"id": "5308142004", "district_id": "530814", "name": "NUAMURI BARAT"}, {"id": "5308142005", "district_id": "530814", "name": "KOANARA"}, {"id": "5308142006", "district_id": "530814", "name": "WOLOARA"}, {"id": "5308142007", "district_id": "530814", "name": "PEMO"}, {"id": "5308142009", "district_id": "530814", "name": "DETUENA"}, {"id": "5308142010", "district_id": "530814", "name": "WOLOKELO"}, {"id": "5308142011", "district_id": "530814", "name": "WATURAKA"}]
+[
+  {
+    "id": "5308142002",
+    "district_id": "530814",
+    "name": "NDUARIA"
+  },
+  {
+    "id": "5308142003",
+    "district_id": "530814",
+    "name": "NUAMURI"
+  },
+  {
+    "id": "5308142004",
+    "district_id": "530814",
+    "name": "NUAMURI BARAT"
+  },
+  {
+    "id": "5308142005",
+    "district_id": "530814",
+    "name": "KOANARA"
+  },
+  {
+    "id": "5308142006",
+    "district_id": "530814",
+    "name": "WOLOARA"
+  },
+  {
+    "id": "5308142007",
+    "district_id": "530814",
+    "name": "PEMO"
+  },
+  {
+    "id": "5308142009",
+    "district_id": "530814",
+    "name": "DETUENA"
+  },
+  {
+    "id": "5308142010",
+    "district_id": "530814",
+    "name": "WOLOKELO"
+  },
+  {
+    "id": "5308142011",
+    "district_id": "530814",
+    "name": "WATURAKA"
+  }
+]

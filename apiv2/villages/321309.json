@@ -1,1 +1,47 @@
-[{"id": "3213092001", "district_id": "321309", "name": "CIASEM GIRANG"}, {"id": "3213092002", "district_id": "321309", "name": "CIASEM TENGAH"}, {"id": "3213092003", "district_id": "321309", "name": "DUKUH"}, {"id": "3213092004", "district_id": "321309", "name": "CIASEM HILIR"}, {"id": "3213092005", "district_id": "321309", "name": "SUKAHAJI"}, {"id": "3213092006", "district_id": "321309", "name": "SUKAMANDIJAYA"}, {"id": "3213092007", "district_id": "321309", "name": "CIASEM BARU"}, {"id": "3213092008", "district_id": "321309", "name": "PINANGSARI"}, {"id": "3213092009", "district_id": "321309", "name": "JATIBARU"}]
+[
+  {
+    "id": "3213092001",
+    "district_id": "321309",
+    "name": "CIASEM GIRANG"
+  },
+  {
+    "id": "3213092002",
+    "district_id": "321309",
+    "name": "CIASEM TENGAH"
+  },
+  {
+    "id": "3213092003",
+    "district_id": "321309",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3213092004",
+    "district_id": "321309",
+    "name": "CIASEM HILIR"
+  },
+  {
+    "id": "3213092005",
+    "district_id": "321309",
+    "name": "SUKAHAJI"
+  },
+  {
+    "id": "3213092006",
+    "district_id": "321309",
+    "name": "SUKAMANDIJAYA"
+  },
+  {
+    "id": "3213092007",
+    "district_id": "321309",
+    "name": "CIASEM BARU"
+  },
+  {
+    "id": "3213092008",
+    "district_id": "321309",
+    "name": "PINANGSARI"
+  },
+  {
+    "id": "3213092009",
+    "district_id": "321309",
+    "name": "JATIBARU"
+  }
+]

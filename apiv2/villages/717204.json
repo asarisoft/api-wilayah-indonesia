@@ -1,1 +1,52 @@
-[{"id": "7172041003", "district_id": "717204", "name": "PATETEN SATU"}, {"id": "7172041004", "district_id": "717204", "name": "WINENET SATU"}, {"id": "7172041005", "district_id": "717204", "name": "AERTEMBAGA SATU"}, {"id": "7172041006", "district_id": "717204", "name": "TANDURUSA"}, {"id": "7172041007", "district_id": "717204", "name": "MAKAWIDEY"}, {"id": "7172041008", "district_id": "717204", "name": "PINANGUNIAN"}, {"id": "7172041011", "district_id": "717204", "name": "PATETEN DUA"}, {"id": "7172041012", "district_id": "717204", "name": "WINENET DUA"}, {"id": "7172041013", "district_id": "717204", "name": "KASAWARI"}, {"id": "7172041014", "district_id": "717204", "name": "AERTEMBAGA DUA"}]
+[
+  {
+    "id": "7172041003",
+    "district_id": "717204",
+    "name": "PATETEN SATU"
+  },
+  {
+    "id": "7172041004",
+    "district_id": "717204",
+    "name": "WINENET SATU"
+  },
+  {
+    "id": "7172041005",
+    "district_id": "717204",
+    "name": "AERTEMBAGA SATU"
+  },
+  {
+    "id": "7172041006",
+    "district_id": "717204",
+    "name": "TANDURUSA"
+  },
+  {
+    "id": "7172041007",
+    "district_id": "717204",
+    "name": "MAKAWIDEY"
+  },
+  {
+    "id": "7172041008",
+    "district_id": "717204",
+    "name": "PINANGUNIAN"
+  },
+  {
+    "id": "7172041011",
+    "district_id": "717204",
+    "name": "PATETEN DUA"
+  },
+  {
+    "id": "7172041012",
+    "district_id": "717204",
+    "name": "WINENET DUA"
+  },
+  {
+    "id": "7172041013",
+    "district_id": "717204",
+    "name": "KASAWARI"
+  },
+  {
+    "id": "7172041014",
+    "district_id": "717204",
+    "name": "AERTEMBAGA DUA"
+  }
+]

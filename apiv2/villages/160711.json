@@ -1,1 +1,107 @@
-[{"id": "1607112001", "district_id": "160711", "name": "MUARA ABAB"}, {"id": "1607112002", "district_id": "160711", "name": "TANJUNG PASIR"}, {"id": "1607112003", "district_id": "160711", "name": "TANJUNG TIGA"}, {"id": "1607112004", "district_id": "160711", "name": "RANTAU BAYUR"}, {"id": "1607112005", "district_id": "160711", "name": "PAGAR BULAN"}, {"id": "1607112006", "district_id": "160711", "name": "KEMANG BEJALU"}, {"id": "1607112007", "district_id": "160711", "name": "TANJUNG MENANG"}, {"id": "1607112008", "district_id": "160711", "name": "SRIJAYA"}, {"id": "1607112009", "district_id": "160711", "name": "SEJAGUNG"}, {"id": "1607112010", "district_id": "160711", "name": "SUNGAI PINANG"}, {"id": "1607112011", "district_id": "160711", "name": "SEMUNTUL"}, {"id": "1607112012", "district_id": "160711", "name": "LEBUNG"}, {"id": "1607112013", "district_id": "160711", "name": "LUBUK RENGAS"}, {"id": "1607112014", "district_id": "160711", "name": "PALDAS"}, {"id": "1607112015", "district_id": "160711", "name": "TEBING ABANG"}, {"id": "1607112016", "district_id": "160711", "name": "TALANG KEMANG"}, {"id": "1607112017", "district_id": "160711", "name": "RANTAU HARAPAN"}, {"id": "1607112018", "district_id": "160711", "name": "PENANDINGAN"}, {"id": "1607112019", "district_id": "160711", "name": "SUNGAI NAIK"}, {"id": "1607112020", "district_id": "160711", "name": "SUNGAI LILIN"}, {"id": "1607112021", "district_id": "160711", "name": "SUKARELA"}]
+[
+  {
+    "id": "1607112001",
+    "district_id": "160711",
+    "name": "MUARA ABAB"
+  },
+  {
+    "id": "1607112002",
+    "district_id": "160711",
+    "name": "TANJUNG PASIR"
+  },
+  {
+    "id": "1607112003",
+    "district_id": "160711",
+    "name": "TANJUNG TIGA"
+  },
+  {
+    "id": "1607112004",
+    "district_id": "160711",
+    "name": "RANTAU BAYUR"
+  },
+  {
+    "id": "1607112005",
+    "district_id": "160711",
+    "name": "PAGAR BULAN"
+  },
+  {
+    "id": "1607112006",
+    "district_id": "160711",
+    "name": "KEMANG BEJALU"
+  },
+  {
+    "id": "1607112007",
+    "district_id": "160711",
+    "name": "TANJUNG MENANG"
+  },
+  {
+    "id": "1607112008",
+    "district_id": "160711",
+    "name": "SRIJAYA"
+  },
+  {
+    "id": "1607112009",
+    "district_id": "160711",
+    "name": "SEJAGUNG"
+  },
+  {
+    "id": "1607112010",
+    "district_id": "160711",
+    "name": "SUNGAI PINANG"
+  },
+  {
+    "id": "1607112011",
+    "district_id": "160711",
+    "name": "SEMUNTUL"
+  },
+  {
+    "id": "1607112012",
+    "district_id": "160711",
+    "name": "LEBUNG"
+  },
+  {
+    "id": "1607112013",
+    "district_id": "160711",
+    "name": "LUBUK RENGAS"
+  },
+  {
+    "id": "1607112014",
+    "district_id": "160711",
+    "name": "PALDAS"
+  },
+  {
+    "id": "1607112015",
+    "district_id": "160711",
+    "name": "TEBING ABANG"
+  },
+  {
+    "id": "1607112016",
+    "district_id": "160711",
+    "name": "TALANG KEMANG"
+  },
+  {
+    "id": "1607112017",
+    "district_id": "160711",
+    "name": "RANTAU HARAPAN"
+  },
+  {
+    "id": "1607112018",
+    "district_id": "160711",
+    "name": "PENANDINGAN"
+  },
+  {
+    "id": "1607112019",
+    "district_id": "160711",
+    "name": "SUNGAI NAIK"
+  },
+  {
+    "id": "1607112020",
+    "district_id": "160711",
+    "name": "SUNGAI LILIN"
+  },
+  {
+    "id": "1607112021",
+    "district_id": "160711",
+    "name": "SUKARELA"
+  }
+]

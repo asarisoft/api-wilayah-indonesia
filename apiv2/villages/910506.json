@@ -1,1 +1,77 @@
-[{"id": "9105062001", "district_id": "910506", "name": "KAMANAP"}, {"id": "9105062002", "district_id": "910506", "name": "AROMAREA"}, {"id": "9105062003", "district_id": "910506", "name": "MARIA ROTU"}, {"id": "9105062004", "district_id": "910506", "name": "KANAWA"}, {"id": "9105062005", "district_id": "910506", "name": "TATUI"}, {"id": "9105062006", "district_id": "910506", "name": "ARIEPI"}, {"id": "9105062007", "district_id": "910506", "name": "SARAWANDORI"}, {"id": "9105062008", "district_id": "910506", "name": "AMBAIDIRU"}, {"id": "9105062009", "district_id": "910506", "name": "MAMBO"}, {"id": "9105062010", "district_id": "910506", "name": "MANAININ"}, {"id": "9105062011", "district_id": "910506", "name": "NUMAMAN"}, {"id": "9105062012", "district_id": "910506", "name": "RAMANGKURANI"}, {"id": "9105062013", "district_id": "910506", "name": "SARAWANDORI DUA"}, {"id": "9105062014", "district_id": "910506", "name": "ARIEPI DUA"}, {"id": "9105062015", "district_id": "910506", "name": "PANDUAMI"}]
+[
+  {
+    "id": "9105062001",
+    "district_id": "910506",
+    "name": "KAMANAP"
+  },
+  {
+    "id": "9105062002",
+    "district_id": "910506",
+    "name": "AROMAREA"
+  },
+  {
+    "id": "9105062003",
+    "district_id": "910506",
+    "name": "MARIA ROTU"
+  },
+  {
+    "id": "9105062004",
+    "district_id": "910506",
+    "name": "KANAWA"
+  },
+  {
+    "id": "9105062005",
+    "district_id": "910506",
+    "name": "TATUI"
+  },
+  {
+    "id": "9105062006",
+    "district_id": "910506",
+    "name": "ARIEPI"
+  },
+  {
+    "id": "9105062007",
+    "district_id": "910506",
+    "name": "SARAWANDORI"
+  },
+  {
+    "id": "9105062008",
+    "district_id": "910506",
+    "name": "AMBAIDIRU"
+  },
+  {
+    "id": "9105062009",
+    "district_id": "910506",
+    "name": "MAMBO"
+  },
+  {
+    "id": "9105062010",
+    "district_id": "910506",
+    "name": "MANAININ"
+  },
+  {
+    "id": "9105062011",
+    "district_id": "910506",
+    "name": "NUMAMAN"
+  },
+  {
+    "id": "9105062012",
+    "district_id": "910506",
+    "name": "RAMANGKURANI"
+  },
+  {
+    "id": "9105062013",
+    "district_id": "910506",
+    "name": "SARAWANDORI DUA"
+  },
+  {
+    "id": "9105062014",
+    "district_id": "910506",
+    "name": "ARIEPI DUA"
+  },
+  {
+    "id": "9105062015",
+    "district_id": "910506",
+    "name": "PANDUAMI"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "1673021001", "district_id": "167302", "name": "KAYU ARA"}, {"id": "1673021002", "district_id": "167302", "name": "LUBUK TANJUNG"}, {"id": "1673021003", "district_id": "167302", "name": "TANJUNG INDAH"}, {"id": "1673021004", "district_id": "167302", "name": "BANDUNG UJUNG"}, {"id": "1673021008", "district_id": "167302", "name": "BANDUNG KIRI"}, {"id": "1673021009", "district_id": "167302", "name": "SUKAJADI"}, {"id": "1673021010", "district_id": "167302", "name": "MUARA ENIM"}, {"id": "1673021015", "district_id": "167302", "name": "WATAS LUBUK DURIAN"}, {"id": "1673021016", "district_id": "167302", "name": "LUBUK AMAN"}, {"id": "1673021018", "district_id": "167302", "name": "TANJUNG AMAN"}, {"id": "1673021019", "district_id": "167302", "name": "PELITA JAYA"}]
+[
+  {
+    "id": "1673021001",
+    "district_id": "167302",
+    "name": "KAYU ARA"
+  },
+  {
+    "id": "1673021002",
+    "district_id": "167302",
+    "name": "LUBUK TANJUNG"
+  },
+  {
+    "id": "1673021003",
+    "district_id": "167302",
+    "name": "TANJUNG INDAH"
+  },
+  {
+    "id": "1673021004",
+    "district_id": "167302",
+    "name": "BANDUNG UJUNG"
+  },
+  {
+    "id": "1673021008",
+    "district_id": "167302",
+    "name": "BANDUNG KIRI"
+  },
+  {
+    "id": "1673021009",
+    "district_id": "167302",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "1673021010",
+    "district_id": "167302",
+    "name": "MUARA ENIM"
+  },
+  {
+    "id": "1673021015",
+    "district_id": "167302",
+    "name": "WATAS LUBUK DURIAN"
+  },
+  {
+    "id": "1673021016",
+    "district_id": "167302",
+    "name": "LUBUK AMAN"
+  },
+  {
+    "id": "1673021018",
+    "district_id": "167302",
+    "name": "TANJUNG AMAN"
+  },
+  {
+    "id": "1673021019",
+    "district_id": "167302",
+    "name": "PELITA JAYA"
+  }
+]

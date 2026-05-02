@@ -1,1 +1,82 @@
-[{"id": "1174012007", "district_id": "117401", "name": "BUKET MEDANG ARA"}, {"id": "1174012009", "district_id": "117401", "name": "MATANG SEUTUI"}, {"id": "1174012010", "district_id": "117401", "name": "BUKET PULO"}, {"id": "1174012011", "district_id": "117401", "name": "MATANG PANYANG"}, {"id": "1174012012", "district_id": "117401", "name": "SIMPANG WIE"}, {"id": "1174012013", "district_id": "117401", "name": "BUKET RATA"}, {"id": "1174012014", "district_id": "117401", "name": "BUKET MEUTUAH"}, {"id": "1174012015", "district_id": "117401", "name": "ALUE MERBAU"}, {"id": "1174012016", "district_id": "117401", "name": "MATANG CENGAI"}, {"id": "1174012017", "district_id": "117401", "name": "SEUNUBOK ANTARA"}, {"id": "1174012018", "district_id": "117401", "name": "ALUE PINEUNG"}, {"id": "1174012019", "district_id": "117401", "name": "SUKAREJO"}, {"id": "1174012020", "district_id": "117401", "name": "CINTA RAJA"}, {"id": "1174012021", "district_id": "117401", "name": "SUNGAI LUENG"}, {"id": "1174012025", "district_id": "117401", "name": "ALUE PINEUNG TIMUE"}, {"id": "1174012026", "district_id": "117401", "name": "KAPA"}]
+[
+  {
+    "id": "1174012007",
+    "district_id": "117401",
+    "name": "BUKET MEDANG ARA"
+  },
+  {
+    "id": "1174012009",
+    "district_id": "117401",
+    "name": "MATANG SEUTUI"
+  },
+  {
+    "id": "1174012010",
+    "district_id": "117401",
+    "name": "BUKET PULO"
+  },
+  {
+    "id": "1174012011",
+    "district_id": "117401",
+    "name": "MATANG PANYANG"
+  },
+  {
+    "id": "1174012012",
+    "district_id": "117401",
+    "name": "SIMPANG WIE"
+  },
+  {
+    "id": "1174012013",
+    "district_id": "117401",
+    "name": "BUKET RATA"
+  },
+  {
+    "id": "1174012014",
+    "district_id": "117401",
+    "name": "BUKET MEUTUAH"
+  },
+  {
+    "id": "1174012015",
+    "district_id": "117401",
+    "name": "ALUE MERBAU"
+  },
+  {
+    "id": "1174012016",
+    "district_id": "117401",
+    "name": "MATANG CENGAI"
+  },
+  {
+    "id": "1174012017",
+    "district_id": "117401",
+    "name": "SEUNUBOK ANTARA"
+  },
+  {
+    "id": "1174012018",
+    "district_id": "117401",
+    "name": "ALUE PINEUNG"
+  },
+  {
+    "id": "1174012019",
+    "district_id": "117401",
+    "name": "SUKAREJO"
+  },
+  {
+    "id": "1174012020",
+    "district_id": "117401",
+    "name": "CINTA RAJA"
+  },
+  {
+    "id": "1174012021",
+    "district_id": "117401",
+    "name": "SUNGAI LUENG"
+  },
+  {
+    "id": "1174012025",
+    "district_id": "117401",
+    "name": "ALUE PINEUNG TIMUE"
+  },
+  {
+    "id": "1174012026",
+    "district_id": "117401",
+    "name": "KAPA"
+  }
+]

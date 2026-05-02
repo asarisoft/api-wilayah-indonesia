@@ -1,1 +1,37 @@
-[{"id": "3507122001", "district_id": "350712", "name": "TERNYANG"}, {"id": "3507122002", "district_id": "350712", "name": "SENGGRENG"}, {"id": "3507122003", "district_id": "350712", "name": "SAMBIGEDE"}, {"id": "3507122004", "district_id": "350712", "name": "NGEBRUK"}, {"id": "3507122005", "district_id": "350712", "name": "JATIGUWI"}, {"id": "3507122006", "district_id": "350712", "name": "SUMBERPUCUNG"}, {"id": "3507122007", "district_id": "350712", "name": "KARANGKATES"}]
+[
+  {
+    "id": "3507122001",
+    "district_id": "350712",
+    "name": "TERNYANG"
+  },
+  {
+    "id": "3507122002",
+    "district_id": "350712",
+    "name": "SENGGRENG"
+  },
+  {
+    "id": "3507122003",
+    "district_id": "350712",
+    "name": "SAMBIGEDE"
+  },
+  {
+    "id": "3507122004",
+    "district_id": "350712",
+    "name": "NGEBRUK"
+  },
+  {
+    "id": "3507122005",
+    "district_id": "350712",
+    "name": "JATIGUWI"
+  },
+  {
+    "id": "3507122006",
+    "district_id": "350712",
+    "name": "SUMBERPUCUNG"
+  },
+  {
+    "id": "3507122007",
+    "district_id": "350712",
+    "name": "KARANGKATES"
+  }
+]

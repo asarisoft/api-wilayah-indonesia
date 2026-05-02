@@ -1,1 +1,82 @@
-[{"id": "1902011001", "district_id": "190201", "name": "KOTA"}, {"id": "1902011002", "district_id": "190201", "name": "PARIT"}, {"id": "1902011005", "district_id": "190201", "name": "LESUNG BATANG"}, {"id": "1902011006", "district_id": "190201", "name": "PANGKALLALANG"}, {"id": "1902011009", "district_id": "190201", "name": "TANJUNGPENDAM"}, {"id": "1902011011", "district_id": "190201", "name": "PAAL SATU"}, {"id": "1902011016", "district_id": "190201", "name": "KAMPONG DAMAI"}, {"id": "1902012003", "district_id": "190201", "name": "BULUH TUMBANG"}, {"id": "1902012004", "district_id": "190201", "name": "PERAWAS"}, {"id": "1902012007", "district_id": "190201", "name": "DUKONG"}, {"id": "1902012008", "district_id": "190201", "name": "JURU SEBERANG"}, {"id": "1902012010", "district_id": "190201", "name": "AIR SAGA"}, {"id": "1902012012", "district_id": "190201", "name": "AIR MERBAU"}, {"id": "1902012013", "district_id": "190201", "name": "AIK PELEMPANG JAYA"}, {"id": "1902012014", "district_id": "190201", "name": "AIK KETEKOK"}, {"id": "1902012015", "district_id": "190201", "name": "AIK RAYAK"}]
+[
+  {
+    "id": "1902011001",
+    "district_id": "190201",
+    "name": "KOTA"
+  },
+  {
+    "id": "1902011002",
+    "district_id": "190201",
+    "name": "PARIT"
+  },
+  {
+    "id": "1902011005",
+    "district_id": "190201",
+    "name": "LESUNG BATANG"
+  },
+  {
+    "id": "1902011006",
+    "district_id": "190201",
+    "name": "PANGKALLALANG"
+  },
+  {
+    "id": "1902011009",
+    "district_id": "190201",
+    "name": "TANJUNGPENDAM"
+  },
+  {
+    "id": "1902011011",
+    "district_id": "190201",
+    "name": "PAAL SATU"
+  },
+  {
+    "id": "1902011016",
+    "district_id": "190201",
+    "name": "KAMPONG DAMAI"
+  },
+  {
+    "id": "1902012003",
+    "district_id": "190201",
+    "name": "BULUH TUMBANG"
+  },
+  {
+    "id": "1902012004",
+    "district_id": "190201",
+    "name": "PERAWAS"
+  },
+  {
+    "id": "1902012007",
+    "district_id": "190201",
+    "name": "DUKONG"
+  },
+  {
+    "id": "1902012008",
+    "district_id": "190201",
+    "name": "JURU SEBERANG"
+  },
+  {
+    "id": "1902012010",
+    "district_id": "190201",
+    "name": "AIR SAGA"
+  },
+  {
+    "id": "1902012012",
+    "district_id": "190201",
+    "name": "AIR MERBAU"
+  },
+  {
+    "id": "1902012013",
+    "district_id": "190201",
+    "name": "AIK PELEMPANG JAYA"
+  },
+  {
+    "id": "1902012014",
+    "district_id": "190201",
+    "name": "AIK KETEKOK"
+  },
+  {
+    "id": "1902012015",
+    "district_id": "190201",
+    "name": "AIK RAYAK"
+  }
+]

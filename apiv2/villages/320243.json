@@ -1,1 +1,27 @@
-[{"id": "3202432001", "district_id": "320243", "name": "CIDOLOG"}, {"id": "3202432002", "district_id": "320243", "name": "CIPAMINGKIS"}, {"id": "3202432003", "district_id": "320243", "name": "CIKARANG"}, {"id": "3202432004", "district_id": "320243", "name": "TEGALLEGA"}, {"id": "3202432005", "district_id": "320243", "name": "MEKARJAYA"}]
+[
+  {
+    "id": "3202432001",
+    "district_id": "320243",
+    "name": "CIDOLOG"
+  },
+  {
+    "id": "3202432002",
+    "district_id": "320243",
+    "name": "CIPAMINGKIS"
+  },
+  {
+    "id": "3202432003",
+    "district_id": "320243",
+    "name": "CIKARANG"
+  },
+  {
+    "id": "3202432004",
+    "district_id": "320243",
+    "name": "TEGALLEGA"
+  },
+  {
+    "id": "3202432005",
+    "district_id": "320243",
+    "name": "MEKARJAYA"
+  }
+]

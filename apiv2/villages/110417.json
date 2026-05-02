@@ -1,1 +1,92 @@
-[{"id": "1104172001", "district_id": "110417", "name": "TAKENGON TIMUR"}, {"id": "1104172002", "district_id": "110417", "name": "ASIR ASIR"}, {"id": "1104172003", "district_id": "110417", "name": "ASIR ASIR ASIA"}, {"id": "1104172004", "district_id": "110417", "name": "BALE ATU"}, {"id": "1104172005", "district_id": "110417", "name": "BUJANG"}, {"id": "1104172006", "district_id": "110417", "name": "GUNUNG SUKU"}, {"id": "1104172007", "district_id": "110417", "name": "HAKIM BALE BUJANG"}, {"id": "1104172008", "district_id": "110417", "name": "KENAWAT"}, {"id": "1104172009", "district_id": "110417", "name": "KUTENI REJE"}, {"id": "1104172010", "district_id": "110417", "name": "PEDEMUN ONE ONE"}, {"id": "1104172011", "district_id": "110417", "name": "RAWE"}, {"id": "1104172012", "district_id": "110417", "name": "TAKENGON BARAT"}, {"id": "1104172013", "district_id": "110417", "name": "TOWEREN ANTARA"}, {"id": "1104172014", "district_id": "110417", "name": "TOWEREN TOA"}, {"id": "1104172015", "district_id": "110417", "name": "TOWEREN UKEN"}, {"id": "1104172016", "district_id": "110417", "name": "TELUK ONE-ONE"}, {"id": "1104172017", "district_id": "110417", "name": "MERAH MERSA"}, {"id": "1104172018", "district_id": "110417", "name": "WAQ TOWEREN"}]
+[
+  {
+    "id": "1104172001",
+    "district_id": "110417",
+    "name": "TAKENGON TIMUR"
+  },
+  {
+    "id": "1104172002",
+    "district_id": "110417",
+    "name": "ASIR ASIR"
+  },
+  {
+    "id": "1104172003",
+    "district_id": "110417",
+    "name": "ASIR ASIR ASIA"
+  },
+  {
+    "id": "1104172004",
+    "district_id": "110417",
+    "name": "BALE ATU"
+  },
+  {
+    "id": "1104172005",
+    "district_id": "110417",
+    "name": "BUJANG"
+  },
+  {
+    "id": "1104172006",
+    "district_id": "110417",
+    "name": "GUNUNG SUKU"
+  },
+  {
+    "id": "1104172007",
+    "district_id": "110417",
+    "name": "HAKIM BALE BUJANG"
+  },
+  {
+    "id": "1104172008",
+    "district_id": "110417",
+    "name": "KENAWAT"
+  },
+  {
+    "id": "1104172009",
+    "district_id": "110417",
+    "name": "KUTENI REJE"
+  },
+  {
+    "id": "1104172010",
+    "district_id": "110417",
+    "name": "PEDEMUN ONE ONE"
+  },
+  {
+    "id": "1104172011",
+    "district_id": "110417",
+    "name": "RAWE"
+  },
+  {
+    "id": "1104172012",
+    "district_id": "110417",
+    "name": "TAKENGON BARAT"
+  },
+  {
+    "id": "1104172013",
+    "district_id": "110417",
+    "name": "TOWEREN ANTARA"
+  },
+  {
+    "id": "1104172014",
+    "district_id": "110417",
+    "name": "TOWEREN TOA"
+  },
+  {
+    "id": "1104172015",
+    "district_id": "110417",
+    "name": "TOWEREN UKEN"
+  },
+  {
+    "id": "1104172016",
+    "district_id": "110417",
+    "name": "TELUK ONE-ONE"
+  },
+  {
+    "id": "1104172017",
+    "district_id": "110417",
+    "name": "MERAH MERSA"
+  },
+  {
+    "id": "1104172018",
+    "district_id": "110417",
+    "name": "WAQ TOWEREN"
+  }
+]

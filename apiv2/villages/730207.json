@@ -1,1 +1,87 @@
-[{"id": "7302071001", "district_id": "730207", "name": "TANETE"}, {"id": "7302071002", "district_id": "730207", "name": "JAWIJAWI"}, {"id": "7302071003", "district_id": "730207", "name": "BALLA SARAJA"}, {"id": "7302072004", "district_id": "730207", "name": "BONTOBULAENG"}, {"id": "7302072005", "district_id": "730207", "name": "BULO BULO"}, {"id": "7302072006", "district_id": "730207", "name": "BONTOMINASA"}, {"id": "7302072007", "district_id": "730207", "name": "BALANGTAROANG"}, {"id": "7302072008", "district_id": "730207", "name": "BARUGAE"}, {"id": "7302072009", "district_id": "730207", "name": "SALASSAE"}, {"id": "7302072010", "district_id": "730207", "name": "KAMBUNO"}, {"id": "7302072011", "district_id": "730207", "name": "JOJJOLO"}, {"id": "7302072012", "district_id": "730207", "name": "SAPOBONTO"}, {"id": "7302072013", "district_id": "730207", "name": "TIBONA"}, {"id": "7302072014", "district_id": "730207", "name": "BALANGPESOANG"}, {"id": "7302072015", "district_id": "730207", "name": "BATULOHE"}, {"id": "7302072016", "district_id": "730207", "name": "BONTOMANGIRING"}, {"id": "7302072017", "district_id": "730207", "name": "BARUGA RIATTANG"}]
+[
+  {
+    "id": "7302071001",
+    "district_id": "730207",
+    "name": "TANETE"
+  },
+  {
+    "id": "7302071002",
+    "district_id": "730207",
+    "name": "JAWIJAWI"
+  },
+  {
+    "id": "7302071003",
+    "district_id": "730207",
+    "name": "BALLA SARAJA"
+  },
+  {
+    "id": "7302072004",
+    "district_id": "730207",
+    "name": "BONTOBULAENG"
+  },
+  {
+    "id": "7302072005",
+    "district_id": "730207",
+    "name": "BULO BULO"
+  },
+  {
+    "id": "7302072006",
+    "district_id": "730207",
+    "name": "BONTOMINASA"
+  },
+  {
+    "id": "7302072007",
+    "district_id": "730207",
+    "name": "BALANGTAROANG"
+  },
+  {
+    "id": "7302072008",
+    "district_id": "730207",
+    "name": "BARUGAE"
+  },
+  {
+    "id": "7302072009",
+    "district_id": "730207",
+    "name": "SALASSAE"
+  },
+  {
+    "id": "7302072010",
+    "district_id": "730207",
+    "name": "KAMBUNO"
+  },
+  {
+    "id": "7302072011",
+    "district_id": "730207",
+    "name": "JOJJOLO"
+  },
+  {
+    "id": "7302072012",
+    "district_id": "730207",
+    "name": "SAPOBONTO"
+  },
+  {
+    "id": "7302072013",
+    "district_id": "730207",
+    "name": "TIBONA"
+  },
+  {
+    "id": "7302072014",
+    "district_id": "730207",
+    "name": "BALANGPESOANG"
+  },
+  {
+    "id": "7302072015",
+    "district_id": "730207",
+    "name": "BATULOHE"
+  },
+  {
+    "id": "7302072016",
+    "district_id": "730207",
+    "name": "BONTOMANGIRING"
+  },
+  {
+    "id": "7302072017",
+    "district_id": "730207",
+    "name": "BARUGA RIATTANG"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "6502012002", "district_id": "650201", "name": "LONG BISAI"}, {"id": "6502012005", "district_id": "650201", "name": "PULAU SAPI"}, {"id": "6502012006", "district_id": "650201", "name": "PAKING"}, {"id": "6502012007", "district_id": "650201", "name": "LIDUNG KEMENCI"}, {"id": "6502012008", "district_id": "650201", "name": "MENTARANG BARU"}, {"id": "6502012009", "district_id": "650201", "name": "HARAPAN MAJU"}]
+[
+  {
+    "id": "6502012002",
+    "district_id": "650201",
+    "name": "LONG BISAI"
+  },
+  {
+    "id": "6502012005",
+    "district_id": "650201",
+    "name": "PULAU SAPI"
+  },
+  {
+    "id": "6502012006",
+    "district_id": "650201",
+    "name": "PAKING"
+  },
+  {
+    "id": "6502012007",
+    "district_id": "650201",
+    "name": "LIDUNG KEMENCI"
+  },
+  {
+    "id": "6502012008",
+    "district_id": "650201",
+    "name": "MENTARANG BARU"
+  },
+  {
+    "id": "6502012009",
+    "district_id": "650201",
+    "name": "HARAPAN MAJU"
+  }
+]

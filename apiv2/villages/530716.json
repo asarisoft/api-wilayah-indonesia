@@ -1,1 +1,37 @@
-[{"id": "5307162001", "district_id": "530716", "name": "KOTING A"}, {"id": "5307162002", "district_id": "530716", "name": "KOTING B"}, {"id": "5307162003", "district_id": "530716", "name": "KOTING C"}, {"id": "5307162004", "district_id": "530716", "name": "KOTING D"}, {"id": "5307162005", "district_id": "530716", "name": "PAUBEKOR"}, {"id": "5307162006", "district_id": "530716", "name": "RIBANG"}, {"id": "5307162007", "district_id": "530716", "name": "WATU REPA"}]
+[
+  {
+    "id": "5307162001",
+    "district_id": "530716",
+    "name": "KOTING A"
+  },
+  {
+    "id": "5307162002",
+    "district_id": "530716",
+    "name": "KOTING B"
+  },
+  {
+    "id": "5307162003",
+    "district_id": "530716",
+    "name": "KOTING C"
+  },
+  {
+    "id": "5307162004",
+    "district_id": "530716",
+    "name": "KOTING D"
+  },
+  {
+    "id": "5307162005",
+    "district_id": "530716",
+    "name": "PAUBEKOR"
+  },
+  {
+    "id": "5307162006",
+    "district_id": "530716",
+    "name": "RIBANG"
+  },
+  {
+    "id": "5307162007",
+    "district_id": "530716",
+    "name": "WATU REPA"
+  }
+]

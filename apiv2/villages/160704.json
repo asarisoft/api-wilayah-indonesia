@@ -1,1 +1,87 @@
-[{"id": "1607042002", "district_id": "160704", "name": "TELUK BETUNG"}, {"id": "1607042004", "district_id": "160704", "name": "MUKUT"}, {"id": "1607042006", "district_id": "160704", "name": "SUMBER REJEKI"}, {"id": "1607042007", "district_id": "160704", "name": "DANA MULYA"}, {"id": "1607042008", "district_id": "160704", "name": "WANA MUKTI"}, {"id": "1607042009", "district_id": "160704", "name": "BUDI ASIH"}, {"id": "1607042013", "district_id": "160704", "name": "RUKUN MAKMUR"}, {"id": "1607042014", "district_id": "160704", "name": "NUNGGAL SARI"}, {"id": "1607042017", "district_id": "160704", "name": "MAJATRA"}, {"id": "1607042018", "district_id": "160704", "name": "WONOSARI"}, {"id": "1607042031", "district_id": "160704", "name": "SUMBER MULYA"}, {"id": "1607042032", "district_id": "160704", "name": "RAWA BANDA"}, {"id": "1607042037", "district_id": "160704", "name": "SENDA MUKTI"}, {"id": "1607042038", "district_id": "160704", "name": "TIRTA MULYA"}, {"id": "1607042039", "district_id": "160704", "name": "BANJAR SARI"}, {"id": "1607042040", "district_id": "160704", "name": "BUANA MURTI"}, {"id": "1607042041", "district_id": "160704", "name": "TABUAN ASRI"}]
+[
+  {
+    "id": "1607042002",
+    "district_id": "160704",
+    "name": "TELUK BETUNG"
+  },
+  {
+    "id": "1607042004",
+    "district_id": "160704",
+    "name": "MUKUT"
+  },
+  {
+    "id": "1607042006",
+    "district_id": "160704",
+    "name": "SUMBER REJEKI"
+  },
+  {
+    "id": "1607042007",
+    "district_id": "160704",
+    "name": "DANA MULYA"
+  },
+  {
+    "id": "1607042008",
+    "district_id": "160704",
+    "name": "WANA MUKTI"
+  },
+  {
+    "id": "1607042009",
+    "district_id": "160704",
+    "name": "BUDI ASIH"
+  },
+  {
+    "id": "1607042013",
+    "district_id": "160704",
+    "name": "RUKUN MAKMUR"
+  },
+  {
+    "id": "1607042014",
+    "district_id": "160704",
+    "name": "NUNGGAL SARI"
+  },
+  {
+    "id": "1607042017",
+    "district_id": "160704",
+    "name": "MAJATRA"
+  },
+  {
+    "id": "1607042018",
+    "district_id": "160704",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "1607042031",
+    "district_id": "160704",
+    "name": "SUMBER MULYA"
+  },
+  {
+    "id": "1607042032",
+    "district_id": "160704",
+    "name": "RAWA BANDA"
+  },
+  {
+    "id": "1607042037",
+    "district_id": "160704",
+    "name": "SENDA MUKTI"
+  },
+  {
+    "id": "1607042038",
+    "district_id": "160704",
+    "name": "TIRTA MULYA"
+  },
+  {
+    "id": "1607042039",
+    "district_id": "160704",
+    "name": "BANJAR SARI"
+  },
+  {
+    "id": "1607042040",
+    "district_id": "160704",
+    "name": "BUANA MURTI"
+  },
+  {
+    "id": "1607042041",
+    "district_id": "160704",
+    "name": "TABUAN ASRI"
+  }
+]

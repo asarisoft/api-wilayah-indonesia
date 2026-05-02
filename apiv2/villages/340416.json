@@ -1,1 +1,27 @@
-[{"id": "3404162001", "district_id": "340416", "name": "PURWOBINANGUN"}, {"id": "3404162002", "district_id": "340416", "name": "CANDIBINANGUN"}, {"id": "3404162003", "district_id": "340416", "name": "HARJOBINANGUN"}, {"id": "3404162004", "district_id": "340416", "name": "PAKEMBINANGUN"}, {"id": "3404162005", "district_id": "340416", "name": "HARGOBINANGUN"}]
+[
+  {
+    "id": "3404162001",
+    "district_id": "340416",
+    "name": "PURWOBINANGUN"
+  },
+  {
+    "id": "3404162002",
+    "district_id": "340416",
+    "name": "CANDIBINANGUN"
+  },
+  {
+    "id": "3404162003",
+    "district_id": "340416",
+    "name": "HARJOBINANGUN"
+  },
+  {
+    "id": "3404162004",
+    "district_id": "340416",
+    "name": "PAKEMBINANGUN"
+  },
+  {
+    "id": "3404162005",
+    "district_id": "340416",
+    "name": "HARGOBINANGUN"
+  }
+]

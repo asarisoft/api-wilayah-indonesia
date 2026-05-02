@@ -1,1 +1,57 @@
-[{"id": "6303202001", "district_id": "630320", "name": "KERAMAT MINA"}, {"id": "6303202002", "district_id": "630320", "name": "GARIS HANYAR"}, {"id": "6303202003", "district_id": "630320", "name": "CINTAPURI"}, {"id": "6303202004", "district_id": "630320", "name": "SURIAN HANYAR"}, {"id": "6303202005", "district_id": "630320", "name": "BENUA ANYAR"}, {"id": "6303202006", "district_id": "630320", "name": "ALALAK PADANG"}, {"id": "6303202007", "district_id": "630320", "name": "MAKMUR KARYA"}, {"id": "6303202008", "district_id": "630320", "name": "SIMPANG LIMA"}, {"id": "6303202009", "district_id": "630320", "name": "KARYA MAKMUR"}, {"id": "6303202010", "district_id": "630320", "name": "SINDANG JAYA"}, {"id": "6303202011", "district_id": "630320", "name": "SUMBER SARI"}]
+[
+  {
+    "id": "6303202001",
+    "district_id": "630320",
+    "name": "KERAMAT MINA"
+  },
+  {
+    "id": "6303202002",
+    "district_id": "630320",
+    "name": "GARIS HANYAR"
+  },
+  {
+    "id": "6303202003",
+    "district_id": "630320",
+    "name": "CINTAPURI"
+  },
+  {
+    "id": "6303202004",
+    "district_id": "630320",
+    "name": "SURIAN HANYAR"
+  },
+  {
+    "id": "6303202005",
+    "district_id": "630320",
+    "name": "BENUA ANYAR"
+  },
+  {
+    "id": "6303202006",
+    "district_id": "630320",
+    "name": "ALALAK PADANG"
+  },
+  {
+    "id": "6303202007",
+    "district_id": "630320",
+    "name": "MAKMUR KARYA"
+  },
+  {
+    "id": "6303202008",
+    "district_id": "630320",
+    "name": "SIMPANG LIMA"
+  },
+  {
+    "id": "6303202009",
+    "district_id": "630320",
+    "name": "KARYA MAKMUR"
+  },
+  {
+    "id": "6303202010",
+    "district_id": "630320",
+    "name": "SINDANG JAYA"
+  },
+  {
+    "id": "6303202011",
+    "district_id": "630320",
+    "name": "SUMBER SARI"
+  }
+]

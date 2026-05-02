@@ -1,1 +1,82 @@
-[{"id": "3312031002", "district_id": "331203", "name": "GIRIKIKIS"}, {"id": "3312031011", "district_id": "331203", "name": "GIRIWOYO"}, {"id": "3312032001", "district_id": "331203", "name": "TIRTOSUWORO"}, {"id": "3312032003", "district_id": "331203", "name": "GUWOTIRTO"}, {"id": "3312032004", "district_id": "331203", "name": "NGANCAR"}, {"id": "3312032005", "district_id": "331203", "name": "BULUREJO"}, {"id": "3312032006", "district_id": "331203", "name": "GEDONGREJO"}, {"id": "3312032007", "district_id": "331203", "name": "PIDEKSO"}, {"id": "3312032008", "district_id": "331203", "name": "TUKULREJO"}, {"id": "3312032009", "district_id": "331203", "name": "BUMIHARJO"}, {"id": "3312032010", "district_id": "331203", "name": "SELOMARTO"}, {"id": "3312032012", "district_id": "331203", "name": "SEJATI"}, {"id": "3312032013", "district_id": "331203", "name": "SENDANGAGUNG"}, {"id": "3312032014", "district_id": "331203", "name": "PLATAREJO"}, {"id": "3312032015", "district_id": "331203", "name": "SIRNOBOYO"}, {"id": "3312032016", "district_id": "331203", "name": "TAWANGHARJO"}]
+[
+  {
+    "id": "3312031002",
+    "district_id": "331203",
+    "name": "GIRIKIKIS"
+  },
+  {
+    "id": "3312031011",
+    "district_id": "331203",
+    "name": "GIRIWOYO"
+  },
+  {
+    "id": "3312032001",
+    "district_id": "331203",
+    "name": "TIRTOSUWORO"
+  },
+  {
+    "id": "3312032003",
+    "district_id": "331203",
+    "name": "GUWOTIRTO"
+  },
+  {
+    "id": "3312032004",
+    "district_id": "331203",
+    "name": "NGANCAR"
+  },
+  {
+    "id": "3312032005",
+    "district_id": "331203",
+    "name": "BULUREJO"
+  },
+  {
+    "id": "3312032006",
+    "district_id": "331203",
+    "name": "GEDONGREJO"
+  },
+  {
+    "id": "3312032007",
+    "district_id": "331203",
+    "name": "PIDEKSO"
+  },
+  {
+    "id": "3312032008",
+    "district_id": "331203",
+    "name": "TUKULREJO"
+  },
+  {
+    "id": "3312032009",
+    "district_id": "331203",
+    "name": "BUMIHARJO"
+  },
+  {
+    "id": "3312032010",
+    "district_id": "331203",
+    "name": "SELOMARTO"
+  },
+  {
+    "id": "3312032012",
+    "district_id": "331203",
+    "name": "SEJATI"
+  },
+  {
+    "id": "3312032013",
+    "district_id": "331203",
+    "name": "SENDANGAGUNG"
+  },
+  {
+    "id": "3312032014",
+    "district_id": "331203",
+    "name": "PLATAREJO"
+  },
+  {
+    "id": "3312032015",
+    "district_id": "331203",
+    "name": "SIRNOBOYO"
+  },
+  {
+    "id": "3312032016",
+    "district_id": "331203",
+    "name": "TAWANGHARJO"
+  }
+]

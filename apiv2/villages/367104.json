@@ -1,1 +1,27 @@
-[{"id": "3671041001", "district_id": "367104", "name": "BELENDUNG"}, {"id": "3671041002", "district_id": "367104", "name": "JURUMUDI"}, {"id": "3671041003", "district_id": "367104", "name": "BENDA"}, {"id": "3671041004", "district_id": "367104", "name": "PAJANG"}, {"id": "3671041005", "district_id": "367104", "name": "JURUMUDI BARU"}]
+[
+  {
+    "id": "3671041001",
+    "district_id": "367104",
+    "name": "BELENDUNG"
+  },
+  {
+    "id": "3671041002",
+    "district_id": "367104",
+    "name": "JURUMUDI"
+  },
+  {
+    "id": "3671041003",
+    "district_id": "367104",
+    "name": "BENDA"
+  },
+  {
+    "id": "3671041004",
+    "district_id": "367104",
+    "name": "PAJANG"
+  },
+  {
+    "id": "3671041005",
+    "district_id": "367104",
+    "name": "JURUMUDI BARU"
+  }
+]

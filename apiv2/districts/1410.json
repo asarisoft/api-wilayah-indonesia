@@ -1,1 +1,47 @@
-[{"id": "141001", "regency_id": "1410", "name": "TEBING TINGGI"}, {"id": "141002", "regency_id": "1410", "name": "RANGSANG BARAT"}, {"id": "141003", "regency_id": "1410", "name": "RANGSANG"}, {"id": "141004", "regency_id": "1410", "name": "TEBING TINGGI BARAT"}, {"id": "141005", "regency_id": "1410", "name": "MERBAU"}, {"id": "141006", "regency_id": "1410", "name": "PULAUMERBAU"}, {"id": "141007", "regency_id": "1410", "name": "TEBING TINGGI TIMUR"}, {"id": "141008", "regency_id": "1410", "name": "TASIK PUTRI PUYU"}, {"id": "141009", "regency_id": "1410", "name": "RANGSANG PESISIR"}]
+[
+  {
+    "id": "141001",
+    "regency_id": "1410",
+    "name": "TEBING TINGGI"
+  },
+  {
+    "id": "141002",
+    "regency_id": "1410",
+    "name": "RANGSANG BARAT"
+  },
+  {
+    "id": "141003",
+    "regency_id": "1410",
+    "name": "RANGSANG"
+  },
+  {
+    "id": "141004",
+    "regency_id": "1410",
+    "name": "TEBING TINGGI BARAT"
+  },
+  {
+    "id": "141005",
+    "regency_id": "1410",
+    "name": "MERBAU"
+  },
+  {
+    "id": "141006",
+    "regency_id": "1410",
+    "name": "PULAUMERBAU"
+  },
+  {
+    "id": "141007",
+    "regency_id": "1410",
+    "name": "TEBING TINGGI TIMUR"
+  },
+  {
+    "id": "141008",
+    "regency_id": "1410",
+    "name": "TASIK PUTRI PUYU"
+  },
+  {
+    "id": "141009",
+    "regency_id": "1410",
+    "name": "RANGSANG PESISIR"
+  }
+]

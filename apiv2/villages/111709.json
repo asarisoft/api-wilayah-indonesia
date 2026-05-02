@@ -1,1 +1,77 @@
-[{"id": "1117092001", "district_id": "111709", "name": "CEMPARAM LAMA"}, {"id": "1117092002", "district_id": "111709", "name": "CEMPARAM PAKAT JEROH"}, {"id": "1117092003", "district_id": "111709", "name": "CEMPARAM JAYA"}, {"id": "1117092004", "district_id": "111709", "name": "PANTAN KULI"}, {"id": "1117092005", "district_id": "111709", "name": "SIMPANG RENGGALI"}, {"id": "1117092006", "district_id": "111709", "name": "JAMUR ATU JAYA"}, {"id": "1117092007", "district_id": "111709", "name": "SOSIAL"}, {"id": "1117092008", "district_id": "111709", "name": "GUNUNG SAYANG"}, {"id": "1117092009", "district_id": "111709", "name": "AMOR"}, {"id": "1117092010", "district_id": "111709", "name": "BUNTUL GAYO"}, {"id": "1117092011", "district_id": "111709", "name": "WIH RESAP"}, {"id": "1117092012", "district_id": "111709", "name": "WER TINGKEM"}, {"id": "1117092013", "district_id": "111709", "name": "PERUMPAKEN BENJADI"}, {"id": "1117092014", "district_id": "111709", "name": "HAKIM PETERI PINTU"}, {"id": "1117092015", "district_id": "111709", "name": "SIMPUR"}]
+[
+  {
+    "id": "1117092001",
+    "district_id": "111709",
+    "name": "CEMPARAM LAMA"
+  },
+  {
+    "id": "1117092002",
+    "district_id": "111709",
+    "name": "CEMPARAM PAKAT JEROH"
+  },
+  {
+    "id": "1117092003",
+    "district_id": "111709",
+    "name": "CEMPARAM JAYA"
+  },
+  {
+    "id": "1117092004",
+    "district_id": "111709",
+    "name": "PANTAN KULI"
+  },
+  {
+    "id": "1117092005",
+    "district_id": "111709",
+    "name": "SIMPANG RENGGALI"
+  },
+  {
+    "id": "1117092006",
+    "district_id": "111709",
+    "name": "JAMUR ATU JAYA"
+  },
+  {
+    "id": "1117092007",
+    "district_id": "111709",
+    "name": "SOSIAL"
+  },
+  {
+    "id": "1117092008",
+    "district_id": "111709",
+    "name": "GUNUNG SAYANG"
+  },
+  {
+    "id": "1117092009",
+    "district_id": "111709",
+    "name": "AMOR"
+  },
+  {
+    "id": "1117092010",
+    "district_id": "111709",
+    "name": "BUNTUL GAYO"
+  },
+  {
+    "id": "1117092011",
+    "district_id": "111709",
+    "name": "WIH RESAP"
+  },
+  {
+    "id": "1117092012",
+    "district_id": "111709",
+    "name": "WER TINGKEM"
+  },
+  {
+    "id": "1117092013",
+    "district_id": "111709",
+    "name": "PERUMPAKEN BENJADI"
+  },
+  {
+    "id": "1117092014",
+    "district_id": "111709",
+    "name": "HAKIM PETERI PINTU"
+  },
+  {
+    "id": "1117092015",
+    "district_id": "111709",
+    "name": "SIMPUR"
+  }
+]

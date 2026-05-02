@@ -1,1 +1,37 @@
-[{"id": "3211122001", "district_id": "321112", "name": "SUKASARI"}, {"id": "3211122002", "district_id": "321112", "name": "GENTENG"}, {"id": "3211122003", "district_id": "321112", "name": "BANYURESMI"}, {"id": "3211122004", "district_id": "321112", "name": "NANGGERANG"}, {"id": "3211122005", "district_id": "321112", "name": "MEKARSARI"}, {"id": "3211122006", "district_id": "321112", "name": "SINDANGSARI"}, {"id": "3211122007", "district_id": "321112", "name": "SUKARAPIH"}]
+[
+  {
+    "id": "3211122001",
+    "district_id": "321112",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3211122002",
+    "district_id": "321112",
+    "name": "GENTENG"
+  },
+  {
+    "id": "3211122003",
+    "district_id": "321112",
+    "name": "BANYURESMI"
+  },
+  {
+    "id": "3211122004",
+    "district_id": "321112",
+    "name": "NANGGERANG"
+  },
+  {
+    "id": "3211122005",
+    "district_id": "321112",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3211122006",
+    "district_id": "321112",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3211122007",
+    "district_id": "321112",
+    "name": "SUKARAPIH"
+  }
+]

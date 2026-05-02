@@ -1,1 +1,102 @@
-[{"id": "1604122001", "district_id": "160412", "name": "TALANG BARU"}, {"id": "1604122002", "district_id": "160412", "name": "TALANG PAGAR AGUNG"}, {"id": "1604122003", "district_id": "160412", "name": "BANTUNAN"}, {"id": "1604122004", "district_id": "160412", "name": "SUKA BUMI"}, {"id": "1604122005", "district_id": "160412", "name": "PULAU PANGGUNG"}, {"id": "1604122006", "district_id": "160412", "name": "PAJAR BULAN"}, {"id": "1604122007", "district_id": "160412", "name": "KOTA RAYA LEMBAK"}, {"id": "1604122008", "district_id": "160412", "name": "SUMUR"}, {"id": "1604122009", "district_id": "160412", "name": "GELUNG SAKTI"}, {"id": "1604122010", "district_id": "160412", "name": "PULAU"}, {"id": "1604122011", "district_id": "160412", "name": "ULAK BANDUNG"}, {"id": "1604122012", "district_id": "160412", "name": "TALANG PADANG TINGGI"}, {"id": "1604122019", "district_id": "160412", "name": "ACEH"}, {"id": "1604122020", "district_id": "160412", "name": "PAJAR TINGGI"}, {"id": "1604122025", "district_id": "160412", "name": "KOTA RAYA DARAT"}, {"id": "1604122026", "district_id": "160412", "name": "JENTI'AN"}, {"id": "1604122027", "district_id": "160412", "name": "TONGKOK"}, {"id": "1604122028", "district_id": "160412", "name": "BENUA RAJA"}, {"id": "1604122029", "district_id": "160412", "name": "TALANG MENGKENANG"}, {"id": "1604122030", "district_id": "160412", "name": "TALANG TANGSI"}]
+[
+  {
+    "id": "1604122001",
+    "district_id": "160412",
+    "name": "TALANG BARU"
+  },
+  {
+    "id": "1604122002",
+    "district_id": "160412",
+    "name": "TALANG PAGAR AGUNG"
+  },
+  {
+    "id": "1604122003",
+    "district_id": "160412",
+    "name": "BANTUNAN"
+  },
+  {
+    "id": "1604122004",
+    "district_id": "160412",
+    "name": "SUKA BUMI"
+  },
+  {
+    "id": "1604122005",
+    "district_id": "160412",
+    "name": "PULAU PANGGUNG"
+  },
+  {
+    "id": "1604122006",
+    "district_id": "160412",
+    "name": "PAJAR BULAN"
+  },
+  {
+    "id": "1604122007",
+    "district_id": "160412",
+    "name": "KOTA RAYA LEMBAK"
+  },
+  {
+    "id": "1604122008",
+    "district_id": "160412",
+    "name": "SUMUR"
+  },
+  {
+    "id": "1604122009",
+    "district_id": "160412",
+    "name": "GELUNG SAKTI"
+  },
+  {
+    "id": "1604122010",
+    "district_id": "160412",
+    "name": "PULAU"
+  },
+  {
+    "id": "1604122011",
+    "district_id": "160412",
+    "name": "ULAK BANDUNG"
+  },
+  {
+    "id": "1604122012",
+    "district_id": "160412",
+    "name": "TALANG PADANG TINGGI"
+  },
+  {
+    "id": "1604122019",
+    "district_id": "160412",
+    "name": "ACEH"
+  },
+  {
+    "id": "1604122020",
+    "district_id": "160412",
+    "name": "PAJAR TINGGI"
+  },
+  {
+    "id": "1604122025",
+    "district_id": "160412",
+    "name": "KOTA RAYA DARAT"
+  },
+  {
+    "id": "1604122026",
+    "district_id": "160412",
+    "name": "JENTI'AN"
+  },
+  {
+    "id": "1604122027",
+    "district_id": "160412",
+    "name": "TONGKOK"
+  },
+  {
+    "id": "1604122028",
+    "district_id": "160412",
+    "name": "BENUA RAJA"
+  },
+  {
+    "id": "1604122029",
+    "district_id": "160412",
+    "name": "TALANG MENGKENANG"
+  },
+  {
+    "id": "1604122030",
+    "district_id": "160412",
+    "name": "TALANG TANGSI"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "7405041001", "district_id": "740504", "name": "PALANGGA"}, {"id": "7405042003", "district_id": "740504", "name": "AOSOLE"}, {"id": "7405042005", "district_id": "740504", "name": "ANGGONDARA"}, {"id": "7405042007", "district_id": "740504", "name": "EEWA"}, {"id": "7405042008", "district_id": "740504", "name": "KIAEA"}, {"id": "7405042011", "district_id": "740504", "name": "MEKAR SARI"}, {"id": "7405042013", "district_id": "740504", "name": "ONEMBUTE"}, {"id": "7405042018", "district_id": "740504", "name": "WAWORAHA"}, {"id": "7405042019", "district_id": "740504", "name": "WATUMEREMBE"}, {"id": "7405042022", "district_id": "740504", "name": "WAWOURU"}, {"id": "7405042025", "district_id": "740504", "name": "ALAKAYA"}, {"id": "7405042029", "district_id": "740504", "name": "WAWONGGURA"}, {"id": "7405042030", "district_id": "740504", "name": "KAPUJAYA"}, {"id": "7405042031", "district_id": "740504", "name": "WATUDEMBA"}, {"id": "7405042032", "district_id": "740504", "name": "SANGGI-SANGGI"}]
+[
+  {
+    "id": "7405041001",
+    "district_id": "740504",
+    "name": "PALANGGA"
+  },
+  {
+    "id": "7405042003",
+    "district_id": "740504",
+    "name": "AOSOLE"
+  },
+  {
+    "id": "7405042005",
+    "district_id": "740504",
+    "name": "ANGGONDARA"
+  },
+  {
+    "id": "7405042007",
+    "district_id": "740504",
+    "name": "EEWA"
+  },
+  {
+    "id": "7405042008",
+    "district_id": "740504",
+    "name": "KIAEA"
+  },
+  {
+    "id": "7405042011",
+    "district_id": "740504",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "7405042013",
+    "district_id": "740504",
+    "name": "ONEMBUTE"
+  },
+  {
+    "id": "7405042018",
+    "district_id": "740504",
+    "name": "WAWORAHA"
+  },
+  {
+    "id": "7405042019",
+    "district_id": "740504",
+    "name": "WATUMEREMBE"
+  },
+  {
+    "id": "7405042022",
+    "district_id": "740504",
+    "name": "WAWOURU"
+  },
+  {
+    "id": "7405042025",
+    "district_id": "740504",
+    "name": "ALAKAYA"
+  },
+  {
+    "id": "7405042029",
+    "district_id": "740504",
+    "name": "WAWONGGURA"
+  },
+  {
+    "id": "7405042030",
+    "district_id": "740504",
+    "name": "KAPUJAYA"
+  },
+  {
+    "id": "7405042031",
+    "district_id": "740504",
+    "name": "WATUDEMBA"
+  },
+  {
+    "id": "7405042032",
+    "district_id": "740504",
+    "name": "SANGGI-SANGGI"
+  }
+]

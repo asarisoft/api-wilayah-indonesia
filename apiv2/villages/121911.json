@@ -1,1 +1,52 @@
-[{"id": "1219112001", "district_id": "121911", "name": "SUMBER TANI"}, {"id": "1219112002", "district_id": "121911", "name": "SEI MUKA"}, {"id": "1219112003", "district_id": "121911", "name": "PERKEBUNAN TANAH DATAR"}, {"id": "1219112004", "district_id": "121911", "name": "BINJAI BARU"}, {"id": "1219112005", "district_id": "121911", "name": "BANGUN SARI"}, {"id": "1219112006", "district_id": "121911", "name": "KARANG BARU"}, {"id": "1219112007", "district_id": "121911", "name": "PERKEBUNAN PETATAL"}, {"id": "1219112008", "district_id": "121911", "name": "MEKAR BARU"}, {"id": "1219112009", "district_id": "121911", "name": "PETATAL"}, {"id": "1219112010", "district_id": "121911", "name": "GLUGUR MAKMUR"}]
+[
+  {
+    "id": "1219112001",
+    "district_id": "121911",
+    "name": "SUMBER TANI"
+  },
+  {
+    "id": "1219112002",
+    "district_id": "121911",
+    "name": "SEI MUKA"
+  },
+  {
+    "id": "1219112003",
+    "district_id": "121911",
+    "name": "PERKEBUNAN TANAH DATAR"
+  },
+  {
+    "id": "1219112004",
+    "district_id": "121911",
+    "name": "BINJAI BARU"
+  },
+  {
+    "id": "1219112005",
+    "district_id": "121911",
+    "name": "BANGUN SARI"
+  },
+  {
+    "id": "1219112006",
+    "district_id": "121911",
+    "name": "KARANG BARU"
+  },
+  {
+    "id": "1219112007",
+    "district_id": "121911",
+    "name": "PERKEBUNAN PETATAL"
+  },
+  {
+    "id": "1219112008",
+    "district_id": "121911",
+    "name": "MEKAR BARU"
+  },
+  {
+    "id": "1219112009",
+    "district_id": "121911",
+    "name": "PETATAL"
+  },
+  {
+    "id": "1219112010",
+    "district_id": "121911",
+    "name": "GLUGUR MAKMUR"
+  }
+]

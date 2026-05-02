@@ -1,1 +1,37 @@
-[{"id": "7408142001", "district_id": "740814", "name": "MATTIRO BULU"}, {"id": "7408142002", "district_id": "740814", "name": "LAWADIA"}, {"id": "7408142003", "district_id": "740814", "name": "WATUMEA"}, {"id": "7408142004", "district_id": "740814", "name": "TIWU"}, {"id": "7408142005", "district_id": "740814", "name": "TAHIBUA"}, {"id": "7408142006", "district_id": "740814", "name": "LAPOLU"}, {"id": "7408142007", "district_id": "740814", "name": "TANGGEAWO"}]
+[
+  {
+    "id": "7408142001",
+    "district_id": "740814",
+    "name": "MATTIRO BULU"
+  },
+  {
+    "id": "7408142002",
+    "district_id": "740814",
+    "name": "LAWADIA"
+  },
+  {
+    "id": "7408142003",
+    "district_id": "740814",
+    "name": "WATUMEA"
+  },
+  {
+    "id": "7408142004",
+    "district_id": "740814",
+    "name": "TIWU"
+  },
+  {
+    "id": "7408142005",
+    "district_id": "740814",
+    "name": "TAHIBUA"
+  },
+  {
+    "id": "7408142006",
+    "district_id": "740814",
+    "name": "LAPOLU"
+  },
+  {
+    "id": "7408142007",
+    "district_id": "740814",
+    "name": "TANGGEAWO"
+  }
+]

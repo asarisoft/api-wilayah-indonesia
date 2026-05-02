@@ -1,1 +1,52 @@
-[{"id": "6203132001", "district_id": "620313", "name": "TAMBAN BARU TIMUR"}, {"id": "6203132002", "district_id": "620313", "name": "TAMBAN BARU TENGAH"}, {"id": "6203132003", "district_id": "620313", "name": "TAMBAN BARU MEKAR"}, {"id": "6203132004", "district_id": "620313", "name": "BANDARAYA"}, {"id": "6203132005", "district_id": "620313", "name": "SIDOREJO"}, {"id": "6203132006", "district_id": "620313", "name": "WARNA SARI"}, {"id": "6203132007", "district_id": "620313", "name": "BANDAR MEKAR"}, {"id": "6203132008", "district_id": "620313", "name": "TAMBAN MAKMUR"}, {"id": "6203132009", "district_id": "620313", "name": "SIDOMULYO"}, {"id": "6203132010", "district_id": "620313", "name": "TAMBAN JAYA"}]
+[
+  {
+    "id": "6203132001",
+    "district_id": "620313",
+    "name": "TAMBAN BARU TIMUR"
+  },
+  {
+    "id": "6203132002",
+    "district_id": "620313",
+    "name": "TAMBAN BARU TENGAH"
+  },
+  {
+    "id": "6203132003",
+    "district_id": "620313",
+    "name": "TAMBAN BARU MEKAR"
+  },
+  {
+    "id": "6203132004",
+    "district_id": "620313",
+    "name": "BANDARAYA"
+  },
+  {
+    "id": "6203132005",
+    "district_id": "620313",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "6203132006",
+    "district_id": "620313",
+    "name": "WARNA SARI"
+  },
+  {
+    "id": "6203132007",
+    "district_id": "620313",
+    "name": "BANDAR MEKAR"
+  },
+  {
+    "id": "6203132008",
+    "district_id": "620313",
+    "name": "TAMBAN MAKMUR"
+  },
+  {
+    "id": "6203132009",
+    "district_id": "620313",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "6203132010",
+    "district_id": "620313",
+    "name": "TAMBAN JAYA"
+  }
+]

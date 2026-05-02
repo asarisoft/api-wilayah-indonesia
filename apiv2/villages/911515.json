@@ -1,1 +1,52 @@
-[{"id": "9115152001", "district_id": "911515", "name": "MAMBAI"}, {"id": "9115152002", "district_id": "911515", "name": "SOYOI"}, {"id": "9115152003", "district_id": "911515", "name": "DAIMBOA"}, {"id": "9115152004", "district_id": "911515", "name": "NAPANI"}, {"id": "9115152005", "district_id": "911515", "name": "SEGHA"}, {"id": "9115152006", "district_id": "911515", "name": "WAINARISI"}, {"id": "9115152007", "district_id": "911515", "name": "FAFARUI"}, {"id": "9115152008", "district_id": "911515", "name": "DAWOA"}, {"id": "9115152009", "district_id": "911515", "name": "SINABO"}, {"id": "9115152010", "district_id": "911515", "name": "WOINUI"}]
+[
+  {
+    "id": "9115152001",
+    "district_id": "911515",
+    "name": "MAMBAI"
+  },
+  {
+    "id": "9115152002",
+    "district_id": "911515",
+    "name": "SOYOI"
+  },
+  {
+    "id": "9115152003",
+    "district_id": "911515",
+    "name": "DAIMBOA"
+  },
+  {
+    "id": "9115152004",
+    "district_id": "911515",
+    "name": "NAPANI"
+  },
+  {
+    "id": "9115152005",
+    "district_id": "911515",
+    "name": "SEGHA"
+  },
+  {
+    "id": "9115152006",
+    "district_id": "911515",
+    "name": "WAINARISI"
+  },
+  {
+    "id": "9115152007",
+    "district_id": "911515",
+    "name": "FAFARUI"
+  },
+  {
+    "id": "9115152008",
+    "district_id": "911515",
+    "name": "DAWOA"
+  },
+  {
+    "id": "9115152009",
+    "district_id": "911515",
+    "name": "SINABO"
+  },
+  {
+    "id": "9115152010",
+    "district_id": "911515",
+    "name": "WOINUI"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "9402032001", "district_id": "940203", "name": "FAWI"}, {"id": "9402032002", "district_id": "940203", "name": "BAKUSI"}, {"id": "9402032003", "district_id": "940203", "name": "TURUMO"}, {"id": "9402032004", "district_id": "940203", "name": "KAHO"}, {"id": "9402032005", "district_id": "940203", "name": "BIRICARE"}, {"id": "9402032006", "district_id": "940203", "name": "DOREY"}, {"id": "9402032007", "district_id": "940203", "name": "FII"}, {"id": "9402032008", "district_id": "940203", "name": "EVO"}, {"id": "9402032009", "district_id": "940203", "name": "YEREI"}]
+[
+  {
+    "id": "9402032001",
+    "district_id": "940203",
+    "name": "FAWI"
+  },
+  {
+    "id": "9402032002",
+    "district_id": "940203",
+    "name": "BAKUSI"
+  },
+  {
+    "id": "9402032003",
+    "district_id": "940203",
+    "name": "TURUMO"
+  },
+  {
+    "id": "9402032004",
+    "district_id": "940203",
+    "name": "KAHO"
+  },
+  {
+    "id": "9402032005",
+    "district_id": "940203",
+    "name": "BIRICARE"
+  },
+  {
+    "id": "9402032006",
+    "district_id": "940203",
+    "name": "DOREY"
+  },
+  {
+    "id": "9402032007",
+    "district_id": "940203",
+    "name": "FII"
+  },
+  {
+    "id": "9402032008",
+    "district_id": "940203",
+    "name": "EVO"
+  },
+  {
+    "id": "9402032009",
+    "district_id": "940203",
+    "name": "YEREI"
+  }
+]

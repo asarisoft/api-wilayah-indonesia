@@ -1,1 +1,52 @@
-[{"id": "7107102001", "district_id": "710710", "name": "TOMBATU DUA"}, {"id": "7107102002", "district_id": "710710", "name": "TOMBATU DUA UTARA"}, {"id": "7107102003", "district_id": "710710", "name": "TOMBATU DUA BARAT"}, {"id": "7107102004", "district_id": "710710", "name": "TOMBATU DUA TENGAH"}, {"id": "7107102005", "district_id": "710710", "name": "TOMBATU TIGA"}, {"id": "7107102006", "district_id": "710710", "name": "TOMBATU TIGA TENGAH"}, {"id": "7107102007", "district_id": "710710", "name": "KUYANGA"}, {"id": "7107102008", "district_id": "710710", "name": "KUYANGA SATU"}, {"id": "7107102009", "district_id": "710710", "name": "WINORANGIAN"}, {"id": "7107102010", "district_id": "710710", "name": "WINORANGIAN SATU"}]
+[
+  {
+    "id": "7107102001",
+    "district_id": "710710",
+    "name": "TOMBATU DUA"
+  },
+  {
+    "id": "7107102002",
+    "district_id": "710710",
+    "name": "TOMBATU DUA UTARA"
+  },
+  {
+    "id": "7107102003",
+    "district_id": "710710",
+    "name": "TOMBATU DUA BARAT"
+  },
+  {
+    "id": "7107102004",
+    "district_id": "710710",
+    "name": "TOMBATU DUA TENGAH"
+  },
+  {
+    "id": "7107102005",
+    "district_id": "710710",
+    "name": "TOMBATU TIGA"
+  },
+  {
+    "id": "7107102006",
+    "district_id": "710710",
+    "name": "TOMBATU TIGA TENGAH"
+  },
+  {
+    "id": "7107102007",
+    "district_id": "710710",
+    "name": "KUYANGA"
+  },
+  {
+    "id": "7107102008",
+    "district_id": "710710",
+    "name": "KUYANGA SATU"
+  },
+  {
+    "id": "7107102009",
+    "district_id": "710710",
+    "name": "WINORANGIAN"
+  },
+  {
+    "id": "7107102010",
+    "district_id": "710710",
+    "name": "WINORANGIAN SATU"
+  }
+]

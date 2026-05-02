@@ -1,1 +1,87 @@
-[{"id": "150801", "regency_id": "1508", "name": "TANAH TUMBUH"}, {"id": "150802", "regency_id": "1508", "name": "RANTAU PANDAN"}, {"id": "150803", "regency_id": "1508", "name": "PASAR MUARO BUNGO"}, {"id": "150804", "regency_id": "1508", "name": "JUJUHAN"}, {"id": "150805", "regency_id": "1508", "name": "TANAH SEPENGGAL"}, {"id": "150806", "regency_id": "1508", "name": "PELEPAT"}, {"id": "150807", "regency_id": "1508", "name": "LIMBUR LUBUK MENGKUANG"}, {"id": "150808", "regency_id": "1508", "name": "MUKO-MUKO BATHIN VII"}, {"id": "150809", "regency_id": "1508", "name": "PELEPAT ILIR"}, {"id": "150810", "regency_id": "1508", "name": "BATIN II BABEKO"}, {"id": "150811", "regency_id": "1508", "name": "BATHIN III"}, {"id": "150812", "regency_id": "1508", "name": "BUNGO DANI"}, {"id": "150813", "regency_id": "1508", "name": "RIMBO TENGAH"}, {"id": "150814", "regency_id": "1508", "name": "BATHIN III ULU"}, {"id": "150815", "regency_id": "1508", "name": "BATHIN II PELAYANG"}, {"id": "150816", "regency_id": "1508", "name": "JUJUHAN ILIR"}, {"id": "150817", "regency_id": "1508", "name": "TANAH SEPENGGAL LINTAS"}]
+[
+  {
+    "id": "150801",
+    "regency_id": "1508",
+    "name": "TANAH TUMBUH"
+  },
+  {
+    "id": "150802",
+    "regency_id": "1508",
+    "name": "RANTAU PANDAN"
+  },
+  {
+    "id": "150803",
+    "regency_id": "1508",
+    "name": "PASAR MUARO BUNGO"
+  },
+  {
+    "id": "150804",
+    "regency_id": "1508",
+    "name": "JUJUHAN"
+  },
+  {
+    "id": "150805",
+    "regency_id": "1508",
+    "name": "TANAH SEPENGGAL"
+  },
+  {
+    "id": "150806",
+    "regency_id": "1508",
+    "name": "PELEPAT"
+  },
+  {
+    "id": "150807",
+    "regency_id": "1508",
+    "name": "LIMBUR LUBUK MENGKUANG"
+  },
+  {
+    "id": "150808",
+    "regency_id": "1508",
+    "name": "MUKO-MUKO BATHIN VII"
+  },
+  {
+    "id": "150809",
+    "regency_id": "1508",
+    "name": "PELEPAT ILIR"
+  },
+  {
+    "id": "150810",
+    "regency_id": "1508",
+    "name": "BATIN II BABEKO"
+  },
+  {
+    "id": "150811",
+    "regency_id": "1508",
+    "name": "BATHIN III"
+  },
+  {
+    "id": "150812",
+    "regency_id": "1508",
+    "name": "BUNGO DANI"
+  },
+  {
+    "id": "150813",
+    "regency_id": "1508",
+    "name": "RIMBO TENGAH"
+  },
+  {
+    "id": "150814",
+    "regency_id": "1508",
+    "name": "BATHIN III ULU"
+  },
+  {
+    "id": "150815",
+    "regency_id": "1508",
+    "name": "BATHIN II PELAYANG"
+  },
+  {
+    "id": "150816",
+    "regency_id": "1508",
+    "name": "JUJUHAN ILIR"
+  },
+  {
+    "id": "150817",
+    "regency_id": "1508",
+    "name": "TANAH SEPENGGAL LINTAS"
+  }
+]

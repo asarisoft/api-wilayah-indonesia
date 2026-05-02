@@ -1,1 +1,52 @@
-[{"id": "1205212001", "district_id": "120521", "name": "SERAPIT"}, {"id": "1205212002", "district_id": "120521", "name": "GUNUNG TINGGI"}, {"id": "1205212003", "district_id": "120521", "name": "SIDOREJO"}, {"id": "1205212004", "district_id": "120521", "name": "SUKA PULUNG"}, {"id": "1205212005", "district_id": "120521", "name": "AMAN DAMAI"}, {"id": "1205212006", "district_id": "120521", "name": "TANJUNG KARIAHAN"}, {"id": "1205212007", "district_id": "120521", "name": "SEBERTUNG"}, {"id": "1205212008", "district_id": "120521", "name": "PULAU SEMIKAT"}, {"id": "1205212009", "district_id": "120521", "name": "SUMBER JAYA"}, {"id": "1205212010", "district_id": "120521", "name": "PERKEBUNAN AMAL TANI"}]
+[
+  {
+    "id": "1205212001",
+    "district_id": "120521",
+    "name": "SERAPIT"
+  },
+  {
+    "id": "1205212002",
+    "district_id": "120521",
+    "name": "GUNUNG TINGGI"
+  },
+  {
+    "id": "1205212003",
+    "district_id": "120521",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "1205212004",
+    "district_id": "120521",
+    "name": "SUKA PULUNG"
+  },
+  {
+    "id": "1205212005",
+    "district_id": "120521",
+    "name": "AMAN DAMAI"
+  },
+  {
+    "id": "1205212006",
+    "district_id": "120521",
+    "name": "TANJUNG KARIAHAN"
+  },
+  {
+    "id": "1205212007",
+    "district_id": "120521",
+    "name": "SEBERTUNG"
+  },
+  {
+    "id": "1205212008",
+    "district_id": "120521",
+    "name": "PULAU SEMIKAT"
+  },
+  {
+    "id": "1205212009",
+    "district_id": "120521",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1205212010",
+    "district_id": "120521",
+    "name": "PERKEBUNAN AMAL TANI"
+  }
+]

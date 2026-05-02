@@ -1,1 +1,87 @@
-[{"id": "3304092001", "district_id": "330409", "name": "JENGGAWUR"}, {"id": "3304092002", "district_id": "330409", "name": "BANJARKULON"}, {"id": "3304092003", "district_id": "330409", "name": "BANJARMANGU"}, {"id": "3304092004", "district_id": "330409", "name": "REJASARI"}, {"id": "3304092005", "district_id": "330409", "name": "KESENET"}, {"id": "3304092006", "district_id": "330409", "name": "KALILUNJAR"}, {"id": "3304092007", "district_id": "330409", "name": "SIJERUK"}, {"id": "3304092008", "district_id": "330409", "name": "KENDAGA"}, {"id": "3304092009", "district_id": "330409", "name": "GRIPIT"}, {"id": "3304092010", "district_id": "330409", "name": "PEKANDANGAN"}, {"id": "3304092011", "district_id": "330409", "name": "SIGEBLOG"}, {"id": "3304092012", "district_id": "330409", "name": "PASEH"}, {"id": "3304092013", "district_id": "330409", "name": "SIPEDANG"}, {"id": "3304092014", "district_id": "330409", "name": "SIJENGGUNG"}, {"id": "3304092015", "district_id": "330409", "name": "BEJI"}, {"id": "3304092016", "district_id": "330409", "name": "PRENDENGAN"}, {"id": "3304092017", "district_id": "330409", "name": "MAJATENGAH"}]
+[
+  {
+    "id": "3304092001",
+    "district_id": "330409",
+    "name": "JENGGAWUR"
+  },
+  {
+    "id": "3304092002",
+    "district_id": "330409",
+    "name": "BANJARKULON"
+  },
+  {
+    "id": "3304092003",
+    "district_id": "330409",
+    "name": "BANJARMANGU"
+  },
+  {
+    "id": "3304092004",
+    "district_id": "330409",
+    "name": "REJASARI"
+  },
+  {
+    "id": "3304092005",
+    "district_id": "330409",
+    "name": "KESENET"
+  },
+  {
+    "id": "3304092006",
+    "district_id": "330409",
+    "name": "KALILUNJAR"
+  },
+  {
+    "id": "3304092007",
+    "district_id": "330409",
+    "name": "SIJERUK"
+  },
+  {
+    "id": "3304092008",
+    "district_id": "330409",
+    "name": "KENDAGA"
+  },
+  {
+    "id": "3304092009",
+    "district_id": "330409",
+    "name": "GRIPIT"
+  },
+  {
+    "id": "3304092010",
+    "district_id": "330409",
+    "name": "PEKANDANGAN"
+  },
+  {
+    "id": "3304092011",
+    "district_id": "330409",
+    "name": "SIGEBLOG"
+  },
+  {
+    "id": "3304092012",
+    "district_id": "330409",
+    "name": "PASEH"
+  },
+  {
+    "id": "3304092013",
+    "district_id": "330409",
+    "name": "SIPEDANG"
+  },
+  {
+    "id": "3304092014",
+    "district_id": "330409",
+    "name": "SIJENGGUNG"
+  },
+  {
+    "id": "3304092015",
+    "district_id": "330409",
+    "name": "BEJI"
+  },
+  {
+    "id": "3304092016",
+    "district_id": "330409",
+    "name": "PRENDENGAN"
+  },
+  {
+    "id": "3304092017",
+    "district_id": "330409",
+    "name": "MAJATENGAH"
+  }
+]

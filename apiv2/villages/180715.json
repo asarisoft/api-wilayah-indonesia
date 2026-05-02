@@ -1,1 +1,37 @@
-[{"id": "1807152001", "district_id": "180715", "name": "SRIBHAWONO"}, {"id": "1807152002", "district_id": "180715", "name": "SADAR SRIWIJAYA"}, {"id": "1807152003", "district_id": "180715", "name": "SRIMENANTI"}, {"id": "1807152004", "district_id": "180715", "name": "SRIPENDOWO"}, {"id": "1807152005", "district_id": "180715", "name": "WARINGIN JAYA"}, {"id": "1807152006", "district_id": "180715", "name": "BANDAR AGUNG"}, {"id": "1807152007", "district_id": "180715", "name": "MEKAR JAYA"}]
+[
+  {
+    "id": "1807152001",
+    "district_id": "180715",
+    "name": "SRIBHAWONO"
+  },
+  {
+    "id": "1807152002",
+    "district_id": "180715",
+    "name": "SADAR SRIWIJAYA"
+  },
+  {
+    "id": "1807152003",
+    "district_id": "180715",
+    "name": "SRIMENANTI"
+  },
+  {
+    "id": "1807152004",
+    "district_id": "180715",
+    "name": "SRIPENDOWO"
+  },
+  {
+    "id": "1807152005",
+    "district_id": "180715",
+    "name": "WARINGIN JAYA"
+  },
+  {
+    "id": "1807152006",
+    "district_id": "180715",
+    "name": "BANDAR AGUNG"
+  },
+  {
+    "id": "1807152007",
+    "district_id": "180715",
+    "name": "MEKAR JAYA"
+  }
+]

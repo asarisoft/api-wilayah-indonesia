@@ -1,1 +1,57 @@
-[{"id": "9504462001", "district_id": "950446", "name": "PEKALEME"}, {"id": "9504462002", "district_id": "950446", "name": "TELEME"}, {"id": "9504462003", "district_id": "950446", "name": "GIKO"}, {"id": "9504462004", "district_id": "950446", "name": "KUNGGE"}, {"id": "9504462005", "district_id": "950446", "name": "KOTORAMBUR"}, {"id": "9504462006", "district_id": "950446", "name": "MIYANAGAME"}, {"id": "9504462007", "district_id": "950446", "name": "KARU"}, {"id": "9504462008", "district_id": "950446", "name": "TABUH"}, {"id": "9504462009", "district_id": "950446", "name": "GWAK DUGUNIK"}, {"id": "9504462010", "district_id": "950446", "name": "MINEGIMEN"}, {"id": "9504462011", "district_id": "950446", "name": "AMBIRIK"}]
+[
+  {
+    "id": "9504462001",
+    "district_id": "950446",
+    "name": "PEKALEME"
+  },
+  {
+    "id": "9504462002",
+    "district_id": "950446",
+    "name": "TELEME"
+  },
+  {
+    "id": "9504462003",
+    "district_id": "950446",
+    "name": "GIKO"
+  },
+  {
+    "id": "9504462004",
+    "district_id": "950446",
+    "name": "KUNGGE"
+  },
+  {
+    "id": "9504462005",
+    "district_id": "950446",
+    "name": "KOTORAMBUR"
+  },
+  {
+    "id": "9504462006",
+    "district_id": "950446",
+    "name": "MIYANAGAME"
+  },
+  {
+    "id": "9504462007",
+    "district_id": "950446",
+    "name": "KARU"
+  },
+  {
+    "id": "9504462008",
+    "district_id": "950446",
+    "name": "TABUH"
+  },
+  {
+    "id": "9504462009",
+    "district_id": "950446",
+    "name": "GWAK DUGUNIK"
+  },
+  {
+    "id": "9504462010",
+    "district_id": "950446",
+    "name": "MINEGIMEN"
+  },
+  {
+    "id": "9504462011",
+    "district_id": "950446",
+    "name": "AMBIRIK"
+  }
+]

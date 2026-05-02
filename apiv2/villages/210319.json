@@ -1,1 +1,22 @@
-[{"id": "2103192001", "district_id": "210319", "name": "ARUNG AYAM"}, {"id": "2103192002", "district_id": "210319", "name": "AIR NUSA"}, {"id": "2103192004", "district_id": "210319", "name": "AIR RINGAU"}, {"id": "2103192005", "district_id": "210319", "name": "PAYAK"}]
+[
+  {
+    "id": "2103192001",
+    "district_id": "210319",
+    "name": "ARUNG AYAM"
+  },
+  {
+    "id": "2103192002",
+    "district_id": "210319",
+    "name": "AIR NUSA"
+  },
+  {
+    "id": "2103192004",
+    "district_id": "210319",
+    "name": "AIR RINGAU"
+  },
+  {
+    "id": "2103192005",
+    "district_id": "210319",
+    "name": "PAYAK"
+  }
+]

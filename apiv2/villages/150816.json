@@ -1,1 +1,37 @@
-[{"id": "1508162001", "district_id": "150816", "name": "TEPIAN DANTO"}, {"id": "1508162002", "district_id": "150816", "name": "AUR GADING"}, {"id": "1508162003", "district_id": "150816", "name": "PULAU BATU"}, {"id": "1508162004", "district_id": "150816", "name": "SARI MULYA"}, {"id": "1508162005", "district_id": "150816", "name": "BUKIT SARI"}, {"id": "1508162006", "district_id": "150816", "name": "LUBUK TENAM"}, {"id": "1508162007", "district_id": "150816", "name": "KUAMANG"}]
+[
+  {
+    "id": "1508162001",
+    "district_id": "150816",
+    "name": "TEPIAN DANTO"
+  },
+  {
+    "id": "1508162002",
+    "district_id": "150816",
+    "name": "AUR GADING"
+  },
+  {
+    "id": "1508162003",
+    "district_id": "150816",
+    "name": "PULAU BATU"
+  },
+  {
+    "id": "1508162004",
+    "district_id": "150816",
+    "name": "SARI MULYA"
+  },
+  {
+    "id": "1508162005",
+    "district_id": "150816",
+    "name": "BUKIT SARI"
+  },
+  {
+    "id": "1508162006",
+    "district_id": "150816",
+    "name": "LUBUK TENAM"
+  },
+  {
+    "id": "1508162007",
+    "district_id": "150816",
+    "name": "KUAMANG"
+  }
+]

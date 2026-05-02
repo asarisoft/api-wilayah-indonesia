@@ -1,1 +1,42 @@
-[{"id": "190101", "regency_id": "1901", "name": "SUNGAILIAT"}, {"id": "190102", "regency_id": "1901", "name": "BELINYU"}, {"id": "190103", "regency_id": "1901", "name": "MERAWANG"}, {"id": "190104", "regency_id": "1901", "name": "MENDO BARAT"}, {"id": "190105", "regency_id": "1901", "name": "PEMALI"}, {"id": "190106", "regency_id": "1901", "name": "BAKAM"}, {"id": "190107", "regency_id": "1901", "name": "RIAU SILIP"}, {"id": "190108", "regency_id": "1901", "name": "PUDING BESAR"}]
+[
+  {
+    "id": "190101",
+    "regency_id": "1901",
+    "name": "SUNGAILIAT"
+  },
+  {
+    "id": "190102",
+    "regency_id": "1901",
+    "name": "BELINYU"
+  },
+  {
+    "id": "190103",
+    "regency_id": "1901",
+    "name": "MERAWANG"
+  },
+  {
+    "id": "190104",
+    "regency_id": "1901",
+    "name": "MENDO BARAT"
+  },
+  {
+    "id": "190105",
+    "regency_id": "1901",
+    "name": "PEMALI"
+  },
+  {
+    "id": "190106",
+    "regency_id": "1901",
+    "name": "BAKAM"
+  },
+  {
+    "id": "190107",
+    "regency_id": "1901",
+    "name": "RIAU SILIP"
+  },
+  {
+    "id": "190108",
+    "regency_id": "1901",
+    "name": "PUDING BESAR"
+  }
+]

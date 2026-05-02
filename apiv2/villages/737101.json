@@ -1,1 +1,47 @@
-[{"id": "7371011001", "district_id": "737101", "name": "BONTORANNU"}, {"id": "7371011002", "district_id": "737101", "name": "MATTOANGIN"}, {"id": "7371011003", "district_id": "737101", "name": "KUNJUNG MAE"}, {"id": "7371011004", "district_id": "737101", "name": "LETTE"}, {"id": "7371011005", "district_id": "737101", "name": "PANAMBUNGAN"}, {"id": "7371011006", "district_id": "737101", "name": "MARISO"}, {"id": "7371011007", "district_id": "737101", "name": "MARIO"}, {"id": "7371011008", "district_id": "737101", "name": "KAMPUNG BUYANG"}, {"id": "7371011009", "district_id": "737101", "name": "TAMARUNANG"}]
+[
+  {
+    "id": "7371011001",
+    "district_id": "737101",
+    "name": "BONTORANNU"
+  },
+  {
+    "id": "7371011002",
+    "district_id": "737101",
+    "name": "MATTOANGIN"
+  },
+  {
+    "id": "7371011003",
+    "district_id": "737101",
+    "name": "KUNJUNG MAE"
+  },
+  {
+    "id": "7371011004",
+    "district_id": "737101",
+    "name": "LETTE"
+  },
+  {
+    "id": "7371011005",
+    "district_id": "737101",
+    "name": "PANAMBUNGAN"
+  },
+  {
+    "id": "7371011006",
+    "district_id": "737101",
+    "name": "MARISO"
+  },
+  {
+    "id": "7371011007",
+    "district_id": "737101",
+    "name": "MARIO"
+  },
+  {
+    "id": "7371011008",
+    "district_id": "737101",
+    "name": "KAMPUNG BUYANG"
+  },
+  {
+    "id": "7371011009",
+    "district_id": "737101",
+    "name": "TAMARUNANG"
+  }
+]

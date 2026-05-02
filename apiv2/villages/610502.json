@@ -1,1 +1,132 @@
-[{"id": "6105022001", "district_id": "610502", "name": "NANGA TEMPUNAK"}, {"id": "6105022002", "district_id": "610502", "name": "MENSIAP BARU"}, {"id": "6105022003", "district_id": "610502", "name": "TANJUNG PERADA"}, {"id": "6105022004", "district_id": "610502", "name": "SUKA JAYA"}, {"id": "6105022005", "district_id": "610502", "name": "MANGKURAT BARU"}, {"id": "6105022006", "district_id": "610502", "name": "PARIBANG BARU"}, {"id": "6105022007", "district_id": "610502", "name": "REPAK SARI"}, {"id": "6105022008", "district_id": "610502", "name": "PAGAL BARU"}, {"id": "6105022009", "district_id": "610502", "name": "KENYABUR BARU"}, {"id": "6105022010", "district_id": "610502", "name": "BENUA BARU"}, {"id": "6105022011", "district_id": "610502", "name": "TINUM BARU"}, {"id": "6105022012", "district_id": "610502", "name": "PANGKAL BARU"}, {"id": "6105022013", "district_id": "610502", "name": "PULAU JAYA"}, {"id": "6105022014", "district_id": "610502", "name": "KUALA TIGA"}, {"id": "6105022015", "district_id": "610502", "name": "GURUNG MALI"}, {"id": "6105022016", "district_id": "610502", "name": "MERTI JAYA"}, {"id": "6105022017", "district_id": "610502", "name": "BENUA KENCANA"}, {"id": "6105022018", "district_id": "610502", "name": "BALAI HARAPAN"}, {"id": "6105022019", "district_id": "610502", "name": "TEMPUNAK KAPUAS"}, {"id": "6105022020", "district_id": "610502", "name": "RIAM BATU"}, {"id": "6105022021", "district_id": "610502", "name": "PUDAU BERSATU"}, {"id": "6105022022", "district_id": "610502", "name": "KUPAN JAYA"}, {"id": "6105022023", "district_id": "610502", "name": "SUNGAI BULUH"}, {"id": "6105022024", "district_id": "610502", "name": "JAYA MENTARI"}, {"id": "6105022025", "district_id": "610502", "name": "PEKULAI BERSATU"}, {"id": "6105022026", "district_id": "610502", "name": "MENSIAP JAYA"}]
+[
+  {
+    "id": "6105022001",
+    "district_id": "610502",
+    "name": "NANGA TEMPUNAK"
+  },
+  {
+    "id": "6105022002",
+    "district_id": "610502",
+    "name": "MENSIAP BARU"
+  },
+  {
+    "id": "6105022003",
+    "district_id": "610502",
+    "name": "TANJUNG PERADA"
+  },
+  {
+    "id": "6105022004",
+    "district_id": "610502",
+    "name": "SUKA JAYA"
+  },
+  {
+    "id": "6105022005",
+    "district_id": "610502",
+    "name": "MANGKURAT BARU"
+  },
+  {
+    "id": "6105022006",
+    "district_id": "610502",
+    "name": "PARIBANG BARU"
+  },
+  {
+    "id": "6105022007",
+    "district_id": "610502",
+    "name": "REPAK SARI"
+  },
+  {
+    "id": "6105022008",
+    "district_id": "610502",
+    "name": "PAGAL BARU"
+  },
+  {
+    "id": "6105022009",
+    "district_id": "610502",
+    "name": "KENYABUR BARU"
+  },
+  {
+    "id": "6105022010",
+    "district_id": "610502",
+    "name": "BENUA BARU"
+  },
+  {
+    "id": "6105022011",
+    "district_id": "610502",
+    "name": "TINUM BARU"
+  },
+  {
+    "id": "6105022012",
+    "district_id": "610502",
+    "name": "PANGKAL BARU"
+  },
+  {
+    "id": "6105022013",
+    "district_id": "610502",
+    "name": "PULAU JAYA"
+  },
+  {
+    "id": "6105022014",
+    "district_id": "610502",
+    "name": "KUALA TIGA"
+  },
+  {
+    "id": "6105022015",
+    "district_id": "610502",
+    "name": "GURUNG MALI"
+  },
+  {
+    "id": "6105022016",
+    "district_id": "610502",
+    "name": "MERTI JAYA"
+  },
+  {
+    "id": "6105022017",
+    "district_id": "610502",
+    "name": "BENUA KENCANA"
+  },
+  {
+    "id": "6105022018",
+    "district_id": "610502",
+    "name": "BALAI HARAPAN"
+  },
+  {
+    "id": "6105022019",
+    "district_id": "610502",
+    "name": "TEMPUNAK KAPUAS"
+  },
+  {
+    "id": "6105022020",
+    "district_id": "610502",
+    "name": "RIAM BATU"
+  },
+  {
+    "id": "6105022021",
+    "district_id": "610502",
+    "name": "PUDAU BERSATU"
+  },
+  {
+    "id": "6105022022",
+    "district_id": "610502",
+    "name": "KUPAN JAYA"
+  },
+  {
+    "id": "6105022023",
+    "district_id": "610502",
+    "name": "SUNGAI BULUH"
+  },
+  {
+    "id": "6105022024",
+    "district_id": "610502",
+    "name": "JAYA MENTARI"
+  },
+  {
+    "id": "6105022025",
+    "district_id": "610502",
+    "name": "PEKULAI BERSATU"
+  },
+  {
+    "id": "6105022026",
+    "district_id": "610502",
+    "name": "MENSIAP JAYA"
+  }
+]

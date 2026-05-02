@@ -1,1 +1,127 @@
-[{"id": "3323031001", "district_id": "332303", "name": "TEMANGGUNG I"}, {"id": "3323031002", "district_id": "332303", "name": "TEMANGGUNG II"}, {"id": "3323031003", "district_id": "332303", "name": "BUTUH"}, {"id": "3323031004", "district_id": "332303", "name": "JAMPIROSO"}, {"id": "3323031005", "district_id": "332303", "name": "JAMPIREJO"}, {"id": "3323031006", "district_id": "332303", "name": "KERTOSARI"}, {"id": "3323031007", "district_id": "332303", "name": "BANYUURIP"}, {"id": "3323031008", "district_id": "332303", "name": "KOWANGAN"}, {"id": "3323031009", "district_id": "332303", "name": "JURANG"}, {"id": "3323031010", "district_id": "332303", "name": "TLOGOREJO"}, {"id": "3323031012", "district_id": "332303", "name": "KEBONSARI"}, {"id": "3323031013", "district_id": "332303", "name": "MANDING"}, {"id": "3323031014", "district_id": "332303", "name": "MUNGSENG"}, {"id": "3323031015", "district_id": "332303", "name": "PURWOREJO"}, {"id": "3323031016", "district_id": "332303", "name": "GIYANTI"}, {"id": "3323031018", "district_id": "332303", "name": "MADURESO"}, {"id": "3323031022", "district_id": "332303", "name": "SIDOREJO"}, {"id": "3323031025", "district_id": "332303", "name": "WALITELON UTARA"}, {"id": "3323031026", "district_id": "332303", "name": "WALITELON SELATAN"}, {"id": "3323032011", "district_id": "332303", "name": "JOHO"}, {"id": "3323032017", "district_id": "332303", "name": "GUNTUR"}, {"id": "3323032019", "district_id": "332303", "name": "LUNGGE"}, {"id": "3323032020", "district_id": "332303", "name": "MUDAL"}, {"id": "3323032021", "district_id": "332303", "name": "GILINGSARI"}, {"id": "3323032024", "district_id": "332303", "name": "NAMPIREJO"}]
+[
+  {
+    "id": "3323031001",
+    "district_id": "332303",
+    "name": "TEMANGGUNG I"
+  },
+  {
+    "id": "3323031002",
+    "district_id": "332303",
+    "name": "TEMANGGUNG II"
+  },
+  {
+    "id": "3323031003",
+    "district_id": "332303",
+    "name": "BUTUH"
+  },
+  {
+    "id": "3323031004",
+    "district_id": "332303",
+    "name": "JAMPIROSO"
+  },
+  {
+    "id": "3323031005",
+    "district_id": "332303",
+    "name": "JAMPIREJO"
+  },
+  {
+    "id": "3323031006",
+    "district_id": "332303",
+    "name": "KERTOSARI"
+  },
+  {
+    "id": "3323031007",
+    "district_id": "332303",
+    "name": "BANYUURIP"
+  },
+  {
+    "id": "3323031008",
+    "district_id": "332303",
+    "name": "KOWANGAN"
+  },
+  {
+    "id": "3323031009",
+    "district_id": "332303",
+    "name": "JURANG"
+  },
+  {
+    "id": "3323031010",
+    "district_id": "332303",
+    "name": "TLOGOREJO"
+  },
+  {
+    "id": "3323031012",
+    "district_id": "332303",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3323031013",
+    "district_id": "332303",
+    "name": "MANDING"
+  },
+  {
+    "id": "3323031014",
+    "district_id": "332303",
+    "name": "MUNGSENG"
+  },
+  {
+    "id": "3323031015",
+    "district_id": "332303",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3323031016",
+    "district_id": "332303",
+    "name": "GIYANTI"
+  },
+  {
+    "id": "3323031018",
+    "district_id": "332303",
+    "name": "MADURESO"
+  },
+  {
+    "id": "3323031022",
+    "district_id": "332303",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3323031025",
+    "district_id": "332303",
+    "name": "WALITELON UTARA"
+  },
+  {
+    "id": "3323031026",
+    "district_id": "332303",
+    "name": "WALITELON SELATAN"
+  },
+  {
+    "id": "3323032011",
+    "district_id": "332303",
+    "name": "JOHO"
+  },
+  {
+    "id": "3323032017",
+    "district_id": "332303",
+    "name": "GUNTUR"
+  },
+  {
+    "id": "3323032019",
+    "district_id": "332303",
+    "name": "LUNGGE"
+  },
+  {
+    "id": "3323032020",
+    "district_id": "332303",
+    "name": "MUDAL"
+  },
+  {
+    "id": "3323032021",
+    "district_id": "332303",
+    "name": "GILINGSARI"
+  },
+  {
+    "id": "3323032024",
+    "district_id": "332303",
+    "name": "NAMPIREJO"
+  }
+]

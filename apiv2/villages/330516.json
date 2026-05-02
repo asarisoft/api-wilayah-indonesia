@@ -1,1 +1,112 @@
-[{"id": "3305162001", "district_id": "330516", "name": "KAMULYAN"}, {"id": "3305162002", "district_id": "330516", "name": "SIDOMUKTI"}, {"id": "3305162003", "district_id": "330516", "name": "TAMBAKSARI"}, {"id": "3305162004", "district_id": "330516", "name": "KALIPURWO"}, {"id": "3305162005", "district_id": "330516", "name": "PURWODADI"}, {"id": "3305162006", "district_id": "330516", "name": "PONDOKGEBANGSARI"}, {"id": "3305162007", "district_id": "330516", "name": "KUWARASAN"}, {"id": "3305162008", "district_id": "330516", "name": "HARJODOWO"}, {"id": "3305162009", "district_id": "330516", "name": "LEMAHDUWUR"}, {"id": "3305162010", "district_id": "330516", "name": "MADURESO"}, {"id": "3305162011", "district_id": "330516", "name": "MANGLI"}, {"id": "3305162012", "district_id": "330516", "name": "GANDUSARI"}, {"id": "3305162013", "district_id": "330516", "name": "ORI"}, {"id": "3305162014", "district_id": "330516", "name": "SERUT"}, {"id": "3305162015", "district_id": "330516", "name": "BANJAREJA"}, {"id": "3305162016", "district_id": "330516", "name": "GUMAWANG"}, {"id": "3305162017", "district_id": "330516", "name": "WONOYOSO"}, {"id": "3305162018", "district_id": "330516", "name": "GUNUNGMUJIL"}, {"id": "3305162019", "district_id": "330516", "name": "KUWARU"}, {"id": "3305162020", "district_id": "330516", "name": "BENDUNGAN"}, {"id": "3305162021", "district_id": "330516", "name": "JATIMULYO"}, {"id": "3305162022", "district_id": "330516", "name": "SAWANGAN"}]
+[
+  {
+    "id": "3305162001",
+    "district_id": "330516",
+    "name": "KAMULYAN"
+  },
+  {
+    "id": "3305162002",
+    "district_id": "330516",
+    "name": "SIDOMUKTI"
+  },
+  {
+    "id": "3305162003",
+    "district_id": "330516",
+    "name": "TAMBAKSARI"
+  },
+  {
+    "id": "3305162004",
+    "district_id": "330516",
+    "name": "KALIPURWO"
+  },
+  {
+    "id": "3305162005",
+    "district_id": "330516",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "3305162006",
+    "district_id": "330516",
+    "name": "PONDOKGEBANGSARI"
+  },
+  {
+    "id": "3305162007",
+    "district_id": "330516",
+    "name": "KUWARASAN"
+  },
+  {
+    "id": "3305162008",
+    "district_id": "330516",
+    "name": "HARJODOWO"
+  },
+  {
+    "id": "3305162009",
+    "district_id": "330516",
+    "name": "LEMAHDUWUR"
+  },
+  {
+    "id": "3305162010",
+    "district_id": "330516",
+    "name": "MADURESO"
+  },
+  {
+    "id": "3305162011",
+    "district_id": "330516",
+    "name": "MANGLI"
+  },
+  {
+    "id": "3305162012",
+    "district_id": "330516",
+    "name": "GANDUSARI"
+  },
+  {
+    "id": "3305162013",
+    "district_id": "330516",
+    "name": "ORI"
+  },
+  {
+    "id": "3305162014",
+    "district_id": "330516",
+    "name": "SERUT"
+  },
+  {
+    "id": "3305162015",
+    "district_id": "330516",
+    "name": "BANJAREJA"
+  },
+  {
+    "id": "3305162016",
+    "district_id": "330516",
+    "name": "GUMAWANG"
+  },
+  {
+    "id": "3305162017",
+    "district_id": "330516",
+    "name": "WONOYOSO"
+  },
+  {
+    "id": "3305162018",
+    "district_id": "330516",
+    "name": "GUNUNGMUJIL"
+  },
+  {
+    "id": "3305162019",
+    "district_id": "330516",
+    "name": "KUWARU"
+  },
+  {
+    "id": "3305162020",
+    "district_id": "330516",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "3305162021",
+    "district_id": "330516",
+    "name": "JATIMULYO"
+  },
+  {
+    "id": "3305162022",
+    "district_id": "330516",
+    "name": "SAWANGAN"
+  }
+]

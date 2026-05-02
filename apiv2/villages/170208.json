@@ -1,1 +1,52 @@
-[{"id": "1702081006", "district_id": "170208", "name": "BERINGIN TIGA"}, {"id": "1702082001", "district_id": "170208", "name": "SINDANG JAYA"}, {"id": "1702082002", "district_id": "170208", "name": "SINDANG JATI"}, {"id": "1702082003", "district_id": "170208", "name": "BELITAR MUKA"}, {"id": "1702082004", "district_id": "170208", "name": "PELALO"}, {"id": "1702082005", "district_id": "170208", "name": "KAYU MANIS"}, {"id": "1702082009", "district_id": "170208", "name": "AIR DINGIN"}, {"id": "1702082011", "district_id": "170208", "name": "BELITAR SEBERANG"}, {"id": "1702082013", "district_id": "170208", "name": "CAHAYA NEGERI"}, {"id": "1702082014", "district_id": "170208", "name": "TANJUNG AUR"}]
+[
+  {
+    "id": "1702081006",
+    "district_id": "170208",
+    "name": "BERINGIN TIGA"
+  },
+  {
+    "id": "1702082001",
+    "district_id": "170208",
+    "name": "SINDANG JAYA"
+  },
+  {
+    "id": "1702082002",
+    "district_id": "170208",
+    "name": "SINDANG JATI"
+  },
+  {
+    "id": "1702082003",
+    "district_id": "170208",
+    "name": "BELITAR MUKA"
+  },
+  {
+    "id": "1702082004",
+    "district_id": "170208",
+    "name": "PELALO"
+  },
+  {
+    "id": "1702082005",
+    "district_id": "170208",
+    "name": "KAYU MANIS"
+  },
+  {
+    "id": "1702082009",
+    "district_id": "170208",
+    "name": "AIR DINGIN"
+  },
+  {
+    "id": "1702082011",
+    "district_id": "170208",
+    "name": "BELITAR SEBERANG"
+  },
+  {
+    "id": "1702082013",
+    "district_id": "170208",
+    "name": "CAHAYA NEGERI"
+  },
+  {
+    "id": "1702082014",
+    "district_id": "170208",
+    "name": "TANJUNG AUR"
+  }
+]

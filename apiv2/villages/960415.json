@@ -1,1 +1,22 @@
-[{"id": "9604152001", "district_id": "960415", "name": "ASES"}, {"id": "9604152002", "district_id": "960415", "name": "ASUON"}, {"id": "9604152003", "district_id": "960415", "name": "SAFOTIEK"}, {"id": "9604152004", "district_id": "960415", "name": "FRASAYOAH"}]
+[
+  {
+    "id": "9604152001",
+    "district_id": "960415",
+    "name": "ASES"
+  },
+  {
+    "id": "9604152002",
+    "district_id": "960415",
+    "name": "ASUON"
+  },
+  {
+    "id": "9604152003",
+    "district_id": "960415",
+    "name": "SAFOTIEK"
+  },
+  {
+    "id": "9604152004",
+    "district_id": "960415",
+    "name": "FRASAYOAH"
+  }
+]

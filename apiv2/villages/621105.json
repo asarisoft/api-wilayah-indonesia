@@ -1,1 +1,52 @@
-[{"id": "6211051005", "district_id": "621105", "name": "PULANG PISAU"}, {"id": "6211051015", "district_id": "621105", "name": "KALAWA"}, {"id": "6211051016", "district_id": "621105", "name": "BERENG"}, {"id": "6211052001", "district_id": "621105", "name": "BUNTOI"}, {"id": "6211052002", "district_id": "621105", "name": "MINTIN"}, {"id": "6211052003", "district_id": "621105", "name": "MANTAREN I"}, {"id": "6211052004", "district_id": "621105", "name": "ANJIR PULANG PISAU"}, {"id": "6211052006", "district_id": "621105", "name": "GOHONG"}, {"id": "6211052014", "district_id": "621105", "name": "MANTAREN II"}, {"id": "6211052017", "district_id": "621105", "name": "HANJAK MAJU"}]
+[
+  {
+    "id": "6211051005",
+    "district_id": "621105",
+    "name": "PULANG PISAU"
+  },
+  {
+    "id": "6211051015",
+    "district_id": "621105",
+    "name": "KALAWA"
+  },
+  {
+    "id": "6211051016",
+    "district_id": "621105",
+    "name": "BERENG"
+  },
+  {
+    "id": "6211052001",
+    "district_id": "621105",
+    "name": "BUNTOI"
+  },
+  {
+    "id": "6211052002",
+    "district_id": "621105",
+    "name": "MINTIN"
+  },
+  {
+    "id": "6211052003",
+    "district_id": "621105",
+    "name": "MANTAREN I"
+  },
+  {
+    "id": "6211052004",
+    "district_id": "621105",
+    "name": "ANJIR PULANG PISAU"
+  },
+  {
+    "id": "6211052006",
+    "district_id": "621105",
+    "name": "GOHONG"
+  },
+  {
+    "id": "6211052014",
+    "district_id": "621105",
+    "name": "MANTAREN II"
+  },
+  {
+    "id": "6211052017",
+    "district_id": "621105",
+    "name": "HANJAK MAJU"
+  }
+]

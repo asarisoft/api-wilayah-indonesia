@@ -1,1 +1,77 @@
-[{"id": "3514141001", "district_id": "351414", "name": "KOLURSARI"}, {"id": "3514141002", "district_id": "351414", "name": "KIDULDALEM"}, {"id": "3514141003", "district_id": "351414", "name": "POGAR"}, {"id": "3514141004", "district_id": "351414", "name": "KAUMAN"}, {"id": "3514141005", "district_id": "351414", "name": "BENDOMUNGAL"}, {"id": "3514141006", "district_id": "351414", "name": "KERSIKAN"}, {"id": "3514141007", "district_id": "351414", "name": "GEMPENG"}, {"id": "3514141008", "district_id": "351414", "name": "DERMO"}, {"id": "3514141009", "district_id": "351414", "name": "LATEK"}, {"id": "3514141012", "district_id": "351414", "name": "KALIANYAR"}, {"id": "3514141014", "district_id": "351414", "name": "KALIREJO"}, {"id": "3514142010", "district_id": "351414", "name": "MASANGAN"}, {"id": "3514142011", "district_id": "351414", "name": "RACI"}, {"id": "3514142013", "district_id": "351414", "name": "MANARUWI"}, {"id": "3514142015", "district_id": "351414", "name": "TAMBAKAN"}]
+[
+  {
+    "id": "3514141001",
+    "district_id": "351414",
+    "name": "KOLURSARI"
+  },
+  {
+    "id": "3514141002",
+    "district_id": "351414",
+    "name": "KIDULDALEM"
+  },
+  {
+    "id": "3514141003",
+    "district_id": "351414",
+    "name": "POGAR"
+  },
+  {
+    "id": "3514141004",
+    "district_id": "351414",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3514141005",
+    "district_id": "351414",
+    "name": "BENDOMUNGAL"
+  },
+  {
+    "id": "3514141006",
+    "district_id": "351414",
+    "name": "KERSIKAN"
+  },
+  {
+    "id": "3514141007",
+    "district_id": "351414",
+    "name": "GEMPENG"
+  },
+  {
+    "id": "3514141008",
+    "district_id": "351414",
+    "name": "DERMO"
+  },
+  {
+    "id": "3514141009",
+    "district_id": "351414",
+    "name": "LATEK"
+  },
+  {
+    "id": "3514141012",
+    "district_id": "351414",
+    "name": "KALIANYAR"
+  },
+  {
+    "id": "3514141014",
+    "district_id": "351414",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "3514142010",
+    "district_id": "351414",
+    "name": "MASANGAN"
+  },
+  {
+    "id": "3514142011",
+    "district_id": "351414",
+    "name": "RACI"
+  },
+  {
+    "id": "3514142013",
+    "district_id": "351414",
+    "name": "MANARUWI"
+  },
+  {
+    "id": "3514142015",
+    "district_id": "351414",
+    "name": "TAMBAKAN"
+  }
+]

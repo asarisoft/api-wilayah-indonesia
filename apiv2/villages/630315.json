@@ -1,1 +1,102 @@
-[{"id": "6303152001", "district_id": "630315", "name": "PEKAUMAN"}, {"id": "6303152002", "district_id": "630315", "name": "KERAMAT"}, {"id": "6303152003", "district_id": "630315", "name": "ANTASAN SENOR"}, {"id": "6303152004", "district_id": "630315", "name": "TAMBAK ANYAR"}, {"id": "6303152005", "district_id": "630315", "name": "MELAYU"}, {"id": "6303152006", "district_id": "630315", "name": "MELAYU ILIR"}, {"id": "6303152007", "district_id": "630315", "name": "AKAR BAGANTUNG"}, {"id": "6303152008", "district_id": "630315", "name": "DALAM PAGAR"}, {"id": "6303152009", "district_id": "630315", "name": "TAMBAK ANYAR ULU"}, {"id": "6303152010", "district_id": "630315", "name": "PEMATANG BARU"}, {"id": "6303152011", "district_id": "630315", "name": "MELAYU TENGAH"}, {"id": "6303152012", "district_id": "630315", "name": "AKAR BARU"}, {"id": "6303152013", "district_id": "630315", "name": "DALAM PAGAR ULU"}, {"id": "6303152014", "district_id": "630315", "name": "PEKAUMAN ULU"}, {"id": "6303152015", "district_id": "630315", "name": "MEKAR"}, {"id": "6303152016", "district_id": "630315", "name": "TAMBAK ANYAR ILIR"}, {"id": "6303152017", "district_id": "630315", "name": "SUNGAI KITANO"}, {"id": "6303152018", "district_id": "630315", "name": "KERAMAT BARU"}, {"id": "6303152019", "district_id": "630315", "name": "PEKAUMAN DALAM"}, {"id": "6303152020", "district_id": "630315", "name": "ANTASAN SENOR ILIR"}]
+[
+  {
+    "id": "6303152001",
+    "district_id": "630315",
+    "name": "PEKAUMAN"
+  },
+  {
+    "id": "6303152002",
+    "district_id": "630315",
+    "name": "KERAMAT"
+  },
+  {
+    "id": "6303152003",
+    "district_id": "630315",
+    "name": "ANTASAN SENOR"
+  },
+  {
+    "id": "6303152004",
+    "district_id": "630315",
+    "name": "TAMBAK ANYAR"
+  },
+  {
+    "id": "6303152005",
+    "district_id": "630315",
+    "name": "MELAYU"
+  },
+  {
+    "id": "6303152006",
+    "district_id": "630315",
+    "name": "MELAYU ILIR"
+  },
+  {
+    "id": "6303152007",
+    "district_id": "630315",
+    "name": "AKAR BAGANTUNG"
+  },
+  {
+    "id": "6303152008",
+    "district_id": "630315",
+    "name": "DALAM PAGAR"
+  },
+  {
+    "id": "6303152009",
+    "district_id": "630315",
+    "name": "TAMBAK ANYAR ULU"
+  },
+  {
+    "id": "6303152010",
+    "district_id": "630315",
+    "name": "PEMATANG BARU"
+  },
+  {
+    "id": "6303152011",
+    "district_id": "630315",
+    "name": "MELAYU TENGAH"
+  },
+  {
+    "id": "6303152012",
+    "district_id": "630315",
+    "name": "AKAR BARU"
+  },
+  {
+    "id": "6303152013",
+    "district_id": "630315",
+    "name": "DALAM PAGAR ULU"
+  },
+  {
+    "id": "6303152014",
+    "district_id": "630315",
+    "name": "PEKAUMAN ULU"
+  },
+  {
+    "id": "6303152015",
+    "district_id": "630315",
+    "name": "MEKAR"
+  },
+  {
+    "id": "6303152016",
+    "district_id": "630315",
+    "name": "TAMBAK ANYAR ILIR"
+  },
+  {
+    "id": "6303152017",
+    "district_id": "630315",
+    "name": "SUNGAI KITANO"
+  },
+  {
+    "id": "6303152018",
+    "district_id": "630315",
+    "name": "KERAMAT BARU"
+  },
+  {
+    "id": "6303152019",
+    "district_id": "630315",
+    "name": "PEKAUMAN DALAM"
+  },
+  {
+    "id": "6303152020",
+    "district_id": "630315",
+    "name": "ANTASAN SENOR ILIR"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "7501112001", "district_id": "750111", "name": "DULAMAYO"}, {"id": "7501112008", "district_id": "750111", "name": "UPOMELA"}, {"id": "7501112009", "district_id": "750111", "name": "TOHUPO"}, {"id": "7501112010", "district_id": "750111", "name": "MOLANIHU"}, {"id": "7501112011", "district_id": "750111", "name": "MOLOPATODU"}, {"id": "7501112012", "district_id": "750111", "name": "MOLAS"}, {"id": "7501112013", "district_id": "750111", "name": "BATULAYAR"}, {"id": "7501112014", "district_id": "750111", "name": "BATULORENG"}, {"id": "7501112015", "district_id": "750111", "name": "BONGOHULAWA"}, {"id": "7501112016", "district_id": "750111", "name": "OTOPADE"}, {"id": "7501112018", "district_id": "750111", "name": "HUNTU LO HULAWA"}, {"id": "7501112022", "district_id": "750111", "name": "OWALANGA"}, {"id": "7501112023", "district_id": "750111", "name": "LIYODU"}, {"id": "7501112024", "district_id": "750111", "name": "LIYOTO"}, {"id": "7501112025", "district_id": "750111", "name": "KAYUMERAH"}]
+[
+  {
+    "id": "7501112001",
+    "district_id": "750111",
+    "name": "DULAMAYO"
+  },
+  {
+    "id": "7501112008",
+    "district_id": "750111",
+    "name": "UPOMELA"
+  },
+  {
+    "id": "7501112009",
+    "district_id": "750111",
+    "name": "TOHUPO"
+  },
+  {
+    "id": "7501112010",
+    "district_id": "750111",
+    "name": "MOLANIHU"
+  },
+  {
+    "id": "7501112011",
+    "district_id": "750111",
+    "name": "MOLOPATODU"
+  },
+  {
+    "id": "7501112012",
+    "district_id": "750111",
+    "name": "MOLAS"
+  },
+  {
+    "id": "7501112013",
+    "district_id": "750111",
+    "name": "BATULAYAR"
+  },
+  {
+    "id": "7501112014",
+    "district_id": "750111",
+    "name": "BATULORENG"
+  },
+  {
+    "id": "7501112015",
+    "district_id": "750111",
+    "name": "BONGOHULAWA"
+  },
+  {
+    "id": "7501112016",
+    "district_id": "750111",
+    "name": "OTOPADE"
+  },
+  {
+    "id": "7501112018",
+    "district_id": "750111",
+    "name": "HUNTU LO HULAWA"
+  },
+  {
+    "id": "7501112022",
+    "district_id": "750111",
+    "name": "OWALANGA"
+  },
+  {
+    "id": "7501112023",
+    "district_id": "750111",
+    "name": "LIYODU"
+  },
+  {
+    "id": "7501112024",
+    "district_id": "750111",
+    "name": "LIYOTO"
+  },
+  {
+    "id": "7501112025",
+    "district_id": "750111",
+    "name": "KAYUMERAH"
+  }
+]

@@ -1,1 +1,87 @@
-[{"id": "1208291001", "district_id": "120829", "name": "MEREK RAYA"}, {"id": "1208291002", "district_id": "120829", "name": "DALIG RAYA"}, {"id": "1208291005", "district_id": "120829", "name": "SONDI RAYA"}, {"id": "1208291011", "district_id": "120829", "name": "PAMATANG RAYA"}, {"id": "1208291018", "district_id": "120829", "name": "BARINGIN RAYA"}, {"id": "1208292004", "district_id": "120829", "name": "RAYA BAYU"}, {"id": "1208292007", "district_id": "120829", "name": "BAHAPAL RAYA"}, {"id": "1208292010", "district_id": "120829", "name": "SIPORKAS"}, {"id": "1208292012", "district_id": "120829", "name": "SIHUBU RAYA"}, {"id": "1208292013", "district_id": "120829", "name": "RAYA BOSI"}, {"id": "1208292014", "district_id": "120829", "name": "SILOU HULUAN"}, {"id": "1208292015", "district_id": "120829", "name": "SILOU BUTTU"}, {"id": "1208292016", "district_id": "120829", "name": "BONGGURON KARIAHAN"}, {"id": "1208292017", "district_id": "120829", "name": "SIMBOU BARU"}, {"id": "1208292020", "district_id": "120829", "name": "DAME RAYA"}, {"id": "1208292021", "district_id": "120829", "name": "LIMAG RAYA"}, {"id": "1208292022", "district_id": "120829", "name": "LOKKUNG RAYA"}]
+[
+  {
+    "id": "1208291001",
+    "district_id": "120829",
+    "name": "MEREK RAYA"
+  },
+  {
+    "id": "1208291002",
+    "district_id": "120829",
+    "name": "DALIG RAYA"
+  },
+  {
+    "id": "1208291005",
+    "district_id": "120829",
+    "name": "SONDI RAYA"
+  },
+  {
+    "id": "1208291011",
+    "district_id": "120829",
+    "name": "PAMATANG RAYA"
+  },
+  {
+    "id": "1208291018",
+    "district_id": "120829",
+    "name": "BARINGIN RAYA"
+  },
+  {
+    "id": "1208292004",
+    "district_id": "120829",
+    "name": "RAYA BAYU"
+  },
+  {
+    "id": "1208292007",
+    "district_id": "120829",
+    "name": "BAHAPAL RAYA"
+  },
+  {
+    "id": "1208292010",
+    "district_id": "120829",
+    "name": "SIPORKAS"
+  },
+  {
+    "id": "1208292012",
+    "district_id": "120829",
+    "name": "SIHUBU RAYA"
+  },
+  {
+    "id": "1208292013",
+    "district_id": "120829",
+    "name": "RAYA BOSI"
+  },
+  {
+    "id": "1208292014",
+    "district_id": "120829",
+    "name": "SILOU HULUAN"
+  },
+  {
+    "id": "1208292015",
+    "district_id": "120829",
+    "name": "SILOU BUTTU"
+  },
+  {
+    "id": "1208292016",
+    "district_id": "120829",
+    "name": "BONGGURON KARIAHAN"
+  },
+  {
+    "id": "1208292017",
+    "district_id": "120829",
+    "name": "SIMBOU BARU"
+  },
+  {
+    "id": "1208292020",
+    "district_id": "120829",
+    "name": "DAME RAYA"
+  },
+  {
+    "id": "1208292021",
+    "district_id": "120829",
+    "name": "LIMAG RAYA"
+  },
+  {
+    "id": "1208292022",
+    "district_id": "120829",
+    "name": "LOKKUNG RAYA"
+  }
+]

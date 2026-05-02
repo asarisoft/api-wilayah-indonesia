@@ -1,1 +1,32 @@
-[{"id": "8106072001", "district_id": "810607", "name": "WAIHATU"}, {"id": "8106072002", "district_id": "810607", "name": "LOHIATALA"}, {"id": "8106072003", "district_id": "810607", "name": "WAISAMU"}, {"id": "8106072004", "district_id": "810607", "name": "NURUWE"}, {"id": "8106072005", "district_id": "810607", "name": "KAMAL"}, {"id": "8106072006", "district_id": "810607", "name": "WAISARISA"}]
+[
+  {
+    "id": "8106072001",
+    "district_id": "810607",
+    "name": "WAIHATU"
+  },
+  {
+    "id": "8106072002",
+    "district_id": "810607",
+    "name": "LOHIATALA"
+  },
+  {
+    "id": "8106072003",
+    "district_id": "810607",
+    "name": "WAISAMU"
+  },
+  {
+    "id": "8106072004",
+    "district_id": "810607",
+    "name": "NURUWE"
+  },
+  {
+    "id": "8106072005",
+    "district_id": "810607",
+    "name": "KAMAL"
+  },
+  {
+    "id": "8106072006",
+    "district_id": "810607",
+    "name": "WAISARISA"
+  }
+]

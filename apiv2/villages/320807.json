@@ -1,1 +1,67 @@
-[{"id": "3208072010", "district_id": "320807", "name": "LANGSEB"}, {"id": "3208072011", "district_id": "320807", "name": "CINAGARA"}, {"id": "3208072012", "district_id": "320807", "name": "CINEUMBEUY"}, {"id": "3208072013", "district_id": "320807", "name": "CIPETIR"}, {"id": "3208072014", "district_id": "320807", "name": "LEBAKWANGI"}, {"id": "3208072015", "district_id": "320807", "name": "MANCAGAR"}, {"id": "3208072016", "district_id": "320807", "name": "BENDUNGAN"}, {"id": "3208072017", "district_id": "320807", "name": "SINDANG"}, {"id": "3208072018", "district_id": "320807", "name": "PASAYANGAN"}, {"id": "3208072019", "district_id": "320807", "name": "PAJAWANKIDUL"}, {"id": "3208072020", "district_id": "320807", "name": "PAGUNDAN"}, {"id": "3208072021", "district_id": "320807", "name": "MEKARWANGI"}, {"id": "3208072025", "district_id": "320807", "name": "MANGGARI"}]
+[
+  {
+    "id": "3208072010",
+    "district_id": "320807",
+    "name": "LANGSEB"
+  },
+  {
+    "id": "3208072011",
+    "district_id": "320807",
+    "name": "CINAGARA"
+  },
+  {
+    "id": "3208072012",
+    "district_id": "320807",
+    "name": "CINEUMBEUY"
+  },
+  {
+    "id": "3208072013",
+    "district_id": "320807",
+    "name": "CIPETIR"
+  },
+  {
+    "id": "3208072014",
+    "district_id": "320807",
+    "name": "LEBAKWANGI"
+  },
+  {
+    "id": "3208072015",
+    "district_id": "320807",
+    "name": "MANCAGAR"
+  },
+  {
+    "id": "3208072016",
+    "district_id": "320807",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "3208072017",
+    "district_id": "320807",
+    "name": "SINDANG"
+  },
+  {
+    "id": "3208072018",
+    "district_id": "320807",
+    "name": "PASAYANGAN"
+  },
+  {
+    "id": "3208072019",
+    "district_id": "320807",
+    "name": "PAJAWANKIDUL"
+  },
+  {
+    "id": "3208072020",
+    "district_id": "320807",
+    "name": "PAGUNDAN"
+  },
+  {
+    "id": "3208072021",
+    "district_id": "320807",
+    "name": "MEKARWANGI"
+  },
+  {
+    "id": "3208072025",
+    "district_id": "320807",
+    "name": "MANGGARI"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3204332001", "district_id": "320433", "name": "MAJALAYA"}, {"id": "3204332002", "district_id": "320433", "name": "WANGISAGARA"}, {"id": "3204332003", "district_id": "320433", "name": "BIRU"}, {"id": "3204332004", "district_id": "320433", "name": "PADAMULYA"}, {"id": "3204332005", "district_id": "320433", "name": "BOJONG"}, {"id": "3204332006", "district_id": "320433", "name": "MAJASETRA"}, {"id": "3204332007", "district_id": "320433", "name": "MAJAKERTA"}, {"id": "3204332008", "district_id": "320433", "name": "SUKAMAJU"}, {"id": "3204332009", "district_id": "320433", "name": "PADAULUN"}, {"id": "3204332010", "district_id": "320433", "name": "NEGLASARI"}, {"id": "3204332011", "district_id": "320433", "name": "SUKAMUKTI"}]
+[
+  {
+    "id": "3204332001",
+    "district_id": "320433",
+    "name": "MAJALAYA"
+  },
+  {
+    "id": "3204332002",
+    "district_id": "320433",
+    "name": "WANGISAGARA"
+  },
+  {
+    "id": "3204332003",
+    "district_id": "320433",
+    "name": "BIRU"
+  },
+  {
+    "id": "3204332004",
+    "district_id": "320433",
+    "name": "PADAMULYA"
+  },
+  {
+    "id": "3204332005",
+    "district_id": "320433",
+    "name": "BOJONG"
+  },
+  {
+    "id": "3204332006",
+    "district_id": "320433",
+    "name": "MAJASETRA"
+  },
+  {
+    "id": "3204332007",
+    "district_id": "320433",
+    "name": "MAJAKERTA"
+  },
+  {
+    "id": "3204332008",
+    "district_id": "320433",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3204332009",
+    "district_id": "320433",
+    "name": "PADAULUN"
+  },
+  {
+    "id": "3204332010",
+    "district_id": "320433",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3204332011",
+    "district_id": "320433",
+    "name": "SUKAMUKTI"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3503142001", "district_id": "350314", "name": "PURU"}, {"id": "3503142002", "district_id": "350314", "name": "WONOKERTO"}, {"id": "3503142003", "district_id": "350314", "name": "NGLEBO"}, {"id": "3503142004", "district_id": "350314", "name": "NGRANDU"}, {"id": "3503142005", "district_id": "350314", "name": "GAMPING"}, {"id": "3503142006", "district_id": "350314", "name": "SURUH"}, {"id": "3503142007", "district_id": "350314", "name": "MLINJON"}]
+[
+  {
+    "id": "3503142001",
+    "district_id": "350314",
+    "name": "PURU"
+  },
+  {
+    "id": "3503142002",
+    "district_id": "350314",
+    "name": "WONOKERTO"
+  },
+  {
+    "id": "3503142003",
+    "district_id": "350314",
+    "name": "NGLEBO"
+  },
+  {
+    "id": "3503142004",
+    "district_id": "350314",
+    "name": "NGRANDU"
+  },
+  {
+    "id": "3503142005",
+    "district_id": "350314",
+    "name": "GAMPING"
+  },
+  {
+    "id": "3503142006",
+    "district_id": "350314",
+    "name": "SURUH"
+  },
+  {
+    "id": "3503142007",
+    "district_id": "350314",
+    "name": "MLINJON"
+  }
+]

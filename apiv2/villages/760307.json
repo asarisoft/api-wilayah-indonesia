@@ -1,1 +1,47 @@
-[{"id": "7603071001", "district_id": "760307", "name": "MESSAWA"}, {"id": "7603072002", "district_id": "760307", "name": "RIPPUNG"}, {"id": "7603072003", "district_id": "760307", "name": "MAKUANG"}, {"id": "7603072004", "district_id": "760307", "name": "SEPANG"}, {"id": "7603072005", "district_id": "760307", "name": "MALIMBONG"}, {"id": "7603072006", "district_id": "760307", "name": "MATANDE"}, {"id": "7603072007", "district_id": "760307", "name": "SIPAI"}, {"id": "7603072008", "district_id": "760307", "name": "PASMA MAMBU"}, {"id": "7603072009", "district_id": "760307", "name": "TANETE BATU"}]
+[
+  {
+    "id": "7603071001",
+    "district_id": "760307",
+    "name": "MESSAWA"
+  },
+  {
+    "id": "7603072002",
+    "district_id": "760307",
+    "name": "RIPPUNG"
+  },
+  {
+    "id": "7603072003",
+    "district_id": "760307",
+    "name": "MAKUANG"
+  },
+  {
+    "id": "7603072004",
+    "district_id": "760307",
+    "name": "SEPANG"
+  },
+  {
+    "id": "7603072005",
+    "district_id": "760307",
+    "name": "MALIMBONG"
+  },
+  {
+    "id": "7603072006",
+    "district_id": "760307",
+    "name": "MATANDE"
+  },
+  {
+    "id": "7603072007",
+    "district_id": "760307",
+    "name": "SIPAI"
+  },
+  {
+    "id": "7603072008",
+    "district_id": "760307",
+    "name": "PASMA MAMBU"
+  },
+  {
+    "id": "7603072009",
+    "district_id": "760307",
+    "name": "TANETE BATU"
+  }
+]

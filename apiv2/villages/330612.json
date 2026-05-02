@@ -1,1 +1,202 @@
-[{"id": "3306122001", "district_id": "330612", "name": "WALED"}, {"id": "3306122002", "district_id": "330612", "name": "KROYOKULON"}, {"id": "3306122003", "district_id": "330612", "name": "REJOSARI"}, {"id": "3306122004", "district_id": "330612", "name": "GESIKAN"}, {"id": "3306122005", "district_id": "330612", "name": "PAITAN"}, {"id": "3306122006", "district_id": "330612", "name": "GEDONG"}, {"id": "3306122007", "district_id": "330612", "name": "ROWOBAYEM"}, {"id": "3306122008", "district_id": "330612", "name": "KEMIRI KIDUL"}, {"id": "3306122009", "district_id": "330612", "name": "BEDONO KLUWUNG"}, {"id": "3306122010", "district_id": "330612", "name": "BEDONO PAGERON"}, {"id": "3306122011", "district_id": "330612", "name": "BEDONO KARANGDUWUR"}, {"id": "3306122012", "district_id": "330612", "name": "REBUG"}, {"id": "3306122013", "district_id": "330612", "name": "LONING"}, {"id": "3306122014", "district_id": "330612", "name": "WINONG"}, {"id": "3306122015", "district_id": "330612", "name": "SUTORAGAN"}, {"id": "3306122016", "district_id": "330612", "name": "JATIWANGSAN"}, {"id": "3306122017", "district_id": "330612", "name": "GIRIMULYO"}, {"id": "3306122018", "district_id": "330612", "name": "GIRIJOYO"}, {"id": "3306122019", "district_id": "330612", "name": "TURUS"}, {"id": "3306122020", "district_id": "330612", "name": "DILEM"}, {"id": "3306122021", "district_id": "330612", "name": "KEDUNGLO"}, {"id": "3306122022", "district_id": "330612", "name": "WONOSUKO"}, {"id": "3306122023", "district_id": "330612", "name": "SIDODADI"}, {"id": "3306122024", "district_id": "330612", "name": "KALIMENENG"}, {"id": "3306122025", "district_id": "330612", "name": "KEMIRILOR"}, {"id": "3306122026", "district_id": "330612", "name": "KEREP"}, {"id": "3306122027", "district_id": "330612", "name": "KROYOLOR"}, {"id": "3306122028", "district_id": "330612", "name": "SAMPING"}, {"id": "3306122029", "district_id": "330612", "name": "WONOSARI"}, {"id": "3306122030", "district_id": "330612", "name": "KALIGLAGAH"}, {"id": "3306122031", "district_id": "330612", "name": "KAPITERAN"}, {"id": "3306122032", "district_id": "330612", "name": "WANUROJO"}, {"id": "3306122033", "district_id": "330612", "name": "REJOWINANGUN"}, {"id": "3306122034", "district_id": "330612", "name": "KALIURIP"}, {"id": "3306122035", "district_id": "330612", "name": "KEDUNGPOMAHANWETAN"}, {"id": "3306122036", "district_id": "330612", "name": "KARANGLUAS"}, {"id": "3306122037", "district_id": "330612", "name": "KEDUNGPOMAHANKULON"}, {"id": "3306122038", "district_id": "330612", "name": "SUKOGELAP"}, {"id": "3306122039", "district_id": "330612", "name": "GUNUNGTEGES"}, {"id": "3306122040", "district_id": "330612", "name": "PURBAYAN"}]
+[
+  {
+    "id": "3306122001",
+    "district_id": "330612",
+    "name": "WALED"
+  },
+  {
+    "id": "3306122002",
+    "district_id": "330612",
+    "name": "KROYOKULON"
+  },
+  {
+    "id": "3306122003",
+    "district_id": "330612",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3306122004",
+    "district_id": "330612",
+    "name": "GESIKAN"
+  },
+  {
+    "id": "3306122005",
+    "district_id": "330612",
+    "name": "PAITAN"
+  },
+  {
+    "id": "3306122006",
+    "district_id": "330612",
+    "name": "GEDONG"
+  },
+  {
+    "id": "3306122007",
+    "district_id": "330612",
+    "name": "ROWOBAYEM"
+  },
+  {
+    "id": "3306122008",
+    "district_id": "330612",
+    "name": "KEMIRI KIDUL"
+  },
+  {
+    "id": "3306122009",
+    "district_id": "330612",
+    "name": "BEDONO KLUWUNG"
+  },
+  {
+    "id": "3306122010",
+    "district_id": "330612",
+    "name": "BEDONO PAGERON"
+  },
+  {
+    "id": "3306122011",
+    "district_id": "330612",
+    "name": "BEDONO KARANGDUWUR"
+  },
+  {
+    "id": "3306122012",
+    "district_id": "330612",
+    "name": "REBUG"
+  },
+  {
+    "id": "3306122013",
+    "district_id": "330612",
+    "name": "LONING"
+  },
+  {
+    "id": "3306122014",
+    "district_id": "330612",
+    "name": "WINONG"
+  },
+  {
+    "id": "3306122015",
+    "district_id": "330612",
+    "name": "SUTORAGAN"
+  },
+  {
+    "id": "3306122016",
+    "district_id": "330612",
+    "name": "JATIWANGSAN"
+  },
+  {
+    "id": "3306122017",
+    "district_id": "330612",
+    "name": "GIRIMULYO"
+  },
+  {
+    "id": "3306122018",
+    "district_id": "330612",
+    "name": "GIRIJOYO"
+  },
+  {
+    "id": "3306122019",
+    "district_id": "330612",
+    "name": "TURUS"
+  },
+  {
+    "id": "3306122020",
+    "district_id": "330612",
+    "name": "DILEM"
+  },
+  {
+    "id": "3306122021",
+    "district_id": "330612",
+    "name": "KEDUNGLO"
+  },
+  {
+    "id": "3306122022",
+    "district_id": "330612",
+    "name": "WONOSUKO"
+  },
+  {
+    "id": "3306122023",
+    "district_id": "330612",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "3306122024",
+    "district_id": "330612",
+    "name": "KALIMENENG"
+  },
+  {
+    "id": "3306122025",
+    "district_id": "330612",
+    "name": "KEMIRILOR"
+  },
+  {
+    "id": "3306122026",
+    "district_id": "330612",
+    "name": "KEREP"
+  },
+  {
+    "id": "3306122027",
+    "district_id": "330612",
+    "name": "KROYOLOR"
+  },
+  {
+    "id": "3306122028",
+    "district_id": "330612",
+    "name": "SAMPING"
+  },
+  {
+    "id": "3306122029",
+    "district_id": "330612",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3306122030",
+    "district_id": "330612",
+    "name": "KALIGLAGAH"
+  },
+  {
+    "id": "3306122031",
+    "district_id": "330612",
+    "name": "KAPITERAN"
+  },
+  {
+    "id": "3306122032",
+    "district_id": "330612",
+    "name": "WANUROJO"
+  },
+  {
+    "id": "3306122033",
+    "district_id": "330612",
+    "name": "REJOWINANGUN"
+  },
+  {
+    "id": "3306122034",
+    "district_id": "330612",
+    "name": "KALIURIP"
+  },
+  {
+    "id": "3306122035",
+    "district_id": "330612",
+    "name": "KEDUNGPOMAHANWETAN"
+  },
+  {
+    "id": "3306122036",
+    "district_id": "330612",
+    "name": "KARANGLUAS"
+  },
+  {
+    "id": "3306122037",
+    "district_id": "330612",
+    "name": "KEDUNGPOMAHANKULON"
+  },
+  {
+    "id": "3306122038",
+    "district_id": "330612",
+    "name": "SUKOGELAP"
+  },
+  {
+    "id": "3306122039",
+    "district_id": "330612",
+    "name": "GUNUNGTEGES"
+  },
+  {
+    "id": "3306122040",
+    "district_id": "330612",
+    "name": "PURBAYAN"
+  }
+]

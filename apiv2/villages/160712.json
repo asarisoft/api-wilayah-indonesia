@@ -1,1 +1,77 @@
-[{"id": "1607122001", "district_id": "160712", "name": "TELANG SARI"}, {"id": "1607122002", "district_id": "160712", "name": "MULYA SARI"}, {"id": "1607122003", "district_id": "160712", "name": "PURWOSARI"}, {"id": "1607122004", "district_id": "160712", "name": "SRI MENANTI"}, {"id": "1607122005", "district_id": "160712", "name": "SEBALIK"}, {"id": "1607122006", "district_id": "160712", "name": "TANJUNG LAGO"}, {"id": "1607122007", "district_id": "160712", "name": "KUALA PUNTIAN"}, {"id": "1607122008", "district_id": "160712", "name": "SUKATANI"}, {"id": "1607122009", "district_id": "160712", "name": "SUKADAMAI"}, {"id": "1607122010", "district_id": "160712", "name": "BANYU URIP"}, {"id": "1607122011", "district_id": "160712", "name": "BANGUN SARI"}, {"id": "1607122012", "district_id": "160712", "name": "SUMBER MEKAR MUKTI"}, {"id": "1607122013", "district_id": "160712", "name": "MUARA SUGIH"}, {"id": "1607122014", "district_id": "160712", "name": "MANGGAR RAYA"}, {"id": "1607122015", "district_id": "160712", "name": "BUNGA KARANG"}]
+[
+  {
+    "id": "1607122001",
+    "district_id": "160712",
+    "name": "TELANG SARI"
+  },
+  {
+    "id": "1607122002",
+    "district_id": "160712",
+    "name": "MULYA SARI"
+  },
+  {
+    "id": "1607122003",
+    "district_id": "160712",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "1607122004",
+    "district_id": "160712",
+    "name": "SRI MENANTI"
+  },
+  {
+    "id": "1607122005",
+    "district_id": "160712",
+    "name": "SEBALIK"
+  },
+  {
+    "id": "1607122006",
+    "district_id": "160712",
+    "name": "TANJUNG LAGO"
+  },
+  {
+    "id": "1607122007",
+    "district_id": "160712",
+    "name": "KUALA PUNTIAN"
+  },
+  {
+    "id": "1607122008",
+    "district_id": "160712",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "1607122009",
+    "district_id": "160712",
+    "name": "SUKADAMAI"
+  },
+  {
+    "id": "1607122010",
+    "district_id": "160712",
+    "name": "BANYU URIP"
+  },
+  {
+    "id": "1607122011",
+    "district_id": "160712",
+    "name": "BANGUN SARI"
+  },
+  {
+    "id": "1607122012",
+    "district_id": "160712",
+    "name": "SUMBER MEKAR MUKTI"
+  },
+  {
+    "id": "1607122013",
+    "district_id": "160712",
+    "name": "MUARA SUGIH"
+  },
+  {
+    "id": "1607122014",
+    "district_id": "160712",
+    "name": "MANGGAR RAYA"
+  },
+  {
+    "id": "1607122015",
+    "district_id": "160712",
+    "name": "BUNGA KARANG"
+  }
+]

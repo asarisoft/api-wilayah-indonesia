@@ -1,1 +1,52 @@
-[{"id": "9504031001", "district_id": "950403", "name": "KANGGIME"}, {"id": "9504032002", "district_id": "950403", "name": "MARLO"}, {"id": "9504032003", "district_id": "950403", "name": "LOGON"}, {"id": "9504032004", "district_id": "950403", "name": "AULANI"}, {"id": "9504032005", "district_id": "950403", "name": "LIGIIBAK"}, {"id": "9504032006", "district_id": "950403", "name": "KERENA"}, {"id": "9504032007", "district_id": "950403", "name": "PURUGI"}, {"id": "9504032008", "district_id": "950403", "name": "LAWOR"}, {"id": "9504032009", "district_id": "950403", "name": "KAGIMALUK"}, {"id": "9504032010", "district_id": "950403", "name": "DUNDU"}]
+[
+  {
+    "id": "9504031001",
+    "district_id": "950403",
+    "name": "KANGGIME"
+  },
+  {
+    "id": "9504032002",
+    "district_id": "950403",
+    "name": "MARLO"
+  },
+  {
+    "id": "9504032003",
+    "district_id": "950403",
+    "name": "LOGON"
+  },
+  {
+    "id": "9504032004",
+    "district_id": "950403",
+    "name": "AULANI"
+  },
+  {
+    "id": "9504032005",
+    "district_id": "950403",
+    "name": "LIGIIBAK"
+  },
+  {
+    "id": "9504032006",
+    "district_id": "950403",
+    "name": "KERENA"
+  },
+  {
+    "id": "9504032007",
+    "district_id": "950403",
+    "name": "PURUGI"
+  },
+  {
+    "id": "9504032008",
+    "district_id": "950403",
+    "name": "LAWOR"
+  },
+  {
+    "id": "9504032009",
+    "district_id": "950403",
+    "name": "KAGIMALUK"
+  },
+  {
+    "id": "9504032010",
+    "district_id": "950403",
+    "name": "DUNDU"
+  }
+]

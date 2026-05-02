@@ -1,1 +1,52 @@
-[{"id": "7308272001", "district_id": "730827", "name": "PATIMPENG"}, {"id": "7308272002", "district_id": "730827", "name": "LATELLANG"}, {"id": "7308272003", "district_id": "730827", "name": "MADDENRENG PULU"}, {"id": "7308272004", "district_id": "730827", "name": "MASAGO"}, {"id": "7308272005", "district_id": "730827", "name": "BATU LAPPA"}, {"id": "7308272006", "district_id": "730827", "name": "PACCING"}, {"id": "7308272007", "district_id": "730827", "name": "MASSILA"}, {"id": "7308272008", "district_id": "730827", "name": "TALABANGI"}, {"id": "7308272009", "district_id": "730827", "name": "PATIONGI"}, {"id": "7308272010", "district_id": "730827", "name": "BULU ULAWENG"}]
+[
+  {
+    "id": "7308272001",
+    "district_id": "730827",
+    "name": "PATIMPENG"
+  },
+  {
+    "id": "7308272002",
+    "district_id": "730827",
+    "name": "LATELLANG"
+  },
+  {
+    "id": "7308272003",
+    "district_id": "730827",
+    "name": "MADDENRENG PULU"
+  },
+  {
+    "id": "7308272004",
+    "district_id": "730827",
+    "name": "MASAGO"
+  },
+  {
+    "id": "7308272005",
+    "district_id": "730827",
+    "name": "BATU LAPPA"
+  },
+  {
+    "id": "7308272006",
+    "district_id": "730827",
+    "name": "PACCING"
+  },
+  {
+    "id": "7308272007",
+    "district_id": "730827",
+    "name": "MASSILA"
+  },
+  {
+    "id": "7308272008",
+    "district_id": "730827",
+    "name": "TALABANGI"
+  },
+  {
+    "id": "7308272009",
+    "district_id": "730827",
+    "name": "PATIONGI"
+  },
+  {
+    "id": "7308272010",
+    "district_id": "730827",
+    "name": "BULU ULAWENG"
+  }
+]

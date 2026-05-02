@@ -1,1 +1,62 @@
-[{"id": "1904021001", "district_id": "190402", "name": "DUL"}, {"id": "1904022004", "district_id": "190402", "name": "AIR MESU"}, {"id": "1904022006", "district_id": "190402", "name": "MANGKOL"}, {"id": "1904022007", "district_id": "190402", "name": "TANJUNG GUNUNG"}, {"id": "1904022010", "district_id": "190402", "name": "BENTENG"}, {"id": "1904022012", "district_id": "190402", "name": "PADANG BARU"}, {"id": "1904022013", "district_id": "190402", "name": "JERUK"}, {"id": "1904022014", "district_id": "190402", "name": "BELULUK"}, {"id": "1904022016", "district_id": "190402", "name": "PEDINDANG"}, {"id": "1904022018", "district_id": "190402", "name": "BATU BELUBANG"}, {"id": "1904022020", "district_id": "190402", "name": "AIR MESU TIMUR"}, {"id": "1904022021", "district_id": "190402", "name": "KEBINTIK"}]
+[
+  {
+    "id": "1904021001",
+    "district_id": "190402",
+    "name": "DUL"
+  },
+  {
+    "id": "1904022004",
+    "district_id": "190402",
+    "name": "AIR MESU"
+  },
+  {
+    "id": "1904022006",
+    "district_id": "190402",
+    "name": "MANGKOL"
+  },
+  {
+    "id": "1904022007",
+    "district_id": "190402",
+    "name": "TANJUNG GUNUNG"
+  },
+  {
+    "id": "1904022010",
+    "district_id": "190402",
+    "name": "BENTENG"
+  },
+  {
+    "id": "1904022012",
+    "district_id": "190402",
+    "name": "PADANG BARU"
+  },
+  {
+    "id": "1904022013",
+    "district_id": "190402",
+    "name": "JERUK"
+  },
+  {
+    "id": "1904022014",
+    "district_id": "190402",
+    "name": "BELULUK"
+  },
+  {
+    "id": "1904022016",
+    "district_id": "190402",
+    "name": "PEDINDANG"
+  },
+  {
+    "id": "1904022018",
+    "district_id": "190402",
+    "name": "BATU BELUBANG"
+  },
+  {
+    "id": "1904022020",
+    "district_id": "190402",
+    "name": "AIR MESU TIMUR"
+  },
+  {
+    "id": "1904022021",
+    "district_id": "190402",
+    "name": "KEBINTIK"
+  }
+]

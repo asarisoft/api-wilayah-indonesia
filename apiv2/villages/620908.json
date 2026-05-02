@@ -1,1 +1,47 @@
-[{"id": "6209082001", "district_id": "620908", "name": "BATU TAMBUN"}, {"id": "6209082002", "district_id": "620908", "name": "KINIPAN"}, {"id": "6209082003", "district_id": "620908", "name": "GINIH"}, {"id": "6209082004", "district_id": "620908", "name": "BENAKITAN"}, {"id": "6209082005", "district_id": "620908", "name": "LIKU"}, {"id": "6209082006", "district_id": "620908", "name": "MENGKALANG"}, {"id": "6209082007", "district_id": "620908", "name": "KARANG MAS"}, {"id": "6209082008", "district_id": "620908", "name": "KINA"}, {"id": "6209082009", "district_id": "620908", "name": "JAMUAT"}]
+[
+  {
+    "id": "6209082001",
+    "district_id": "620908",
+    "name": "BATU TAMBUN"
+  },
+  {
+    "id": "6209082002",
+    "district_id": "620908",
+    "name": "KINIPAN"
+  },
+  {
+    "id": "6209082003",
+    "district_id": "620908",
+    "name": "GINIH"
+  },
+  {
+    "id": "6209082004",
+    "district_id": "620908",
+    "name": "BENAKITAN"
+  },
+  {
+    "id": "6209082005",
+    "district_id": "620908",
+    "name": "LIKU"
+  },
+  {
+    "id": "6209082006",
+    "district_id": "620908",
+    "name": "MENGKALANG"
+  },
+  {
+    "id": "6209082007",
+    "district_id": "620908",
+    "name": "KARANG MAS"
+  },
+  {
+    "id": "6209082008",
+    "district_id": "620908",
+    "name": "KINA"
+  },
+  {
+    "id": "6209082009",
+    "district_id": "620908",
+    "name": "JAMUAT"
+  }
+]

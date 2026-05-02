@@ -1,1 +1,47 @@
-[{"id": "1604182001", "district_id": "160418", "name": "SUNGAI LARU"}, {"id": "1604182002", "district_id": "160418", "name": "MUARA LINGSING"}, {"id": "1604182003", "district_id": "160418", "name": "TANJUNG BARU"}, {"id": "1604182004", "district_id": "160418", "name": "KEPALA SIRING"}, {"id": "1604182005", "district_id": "160418", "name": "MASPURA"}, {"id": "1604182006", "district_id": "160418", "name": "SUKA RAJA"}, {"id": "1604182007", "district_id": "160418", "name": "TANJUNG AUR"}, {"id": "1604182008", "district_id": "160418", "name": "PURBAMAS"}, {"id": "1604182009", "district_id": "160418", "name": "BANYU MAS"}]
+[
+  {
+    "id": "1604182001",
+    "district_id": "160418",
+    "name": "SUNGAI LARU"
+  },
+  {
+    "id": "1604182002",
+    "district_id": "160418",
+    "name": "MUARA LINGSING"
+  },
+  {
+    "id": "1604182003",
+    "district_id": "160418",
+    "name": "TANJUNG BARU"
+  },
+  {
+    "id": "1604182004",
+    "district_id": "160418",
+    "name": "KEPALA SIRING"
+  },
+  {
+    "id": "1604182005",
+    "district_id": "160418",
+    "name": "MASPURA"
+  },
+  {
+    "id": "1604182006",
+    "district_id": "160418",
+    "name": "SUKA RAJA"
+  },
+  {
+    "id": "1604182007",
+    "district_id": "160418",
+    "name": "TANJUNG AUR"
+  },
+  {
+    "id": "1604182008",
+    "district_id": "160418",
+    "name": "PURBAMAS"
+  },
+  {
+    "id": "1604182009",
+    "district_id": "160418",
+    "name": "BANYU MAS"
+  }
+]

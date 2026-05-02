@@ -1,1 +1,82 @@
-[{"id": "1409041001", "district_id": "140904", "name": "PASAR USANG"}, {"id": "1409041002", "district_id": "140904", "name": "PASAR BARU"}, {"id": "1409042003", "district_id": "140904", "name": "SIMPANG TANAH LAPANG"}, {"id": "1409042004", "district_id": "140904", "name": "RAWANG BONTO"}, {"id": "1409042005", "district_id": "140904", "name": "KOTO TUO"}, {"id": "1409042006", "district_id": "140904", "name": "BANUARAN"}, {"id": "1409042007", "district_id": "140904", "name": "KAMPUNG MADURA"}, {"id": "1409042009", "district_id": "140904", "name": "PULAU KIJANG"}, {"id": "1409042015", "district_id": "140904", "name": "PULAUMADINAH"}, {"id": "1409042016", "district_id": "140904", "name": "KAMPUNG TENGAH"}, {"id": "1409042017", "district_id": "140904", "name": "KAMPUNG MEDAN"}, {"id": "1409042018", "district_id": "140904", "name": "KEPALA PULAU"}, {"id": "1409042019", "district_id": "140904", "name": "TERATAK BARU"}, {"id": "1409042020", "district_id": "140904", "name": "DUSUN TUO"}, {"id": "1409042028", "district_id": "140904", "name": "GUNUNGMELINTANG"}, {"id": "1409042030", "district_id": "140904", "name": "SIMPANG PULAUBERALO"}]
+[
+  {
+    "id": "1409041001",
+    "district_id": "140904",
+    "name": "PASAR USANG"
+  },
+  {
+    "id": "1409041002",
+    "district_id": "140904",
+    "name": "PASAR BARU"
+  },
+  {
+    "id": "1409042003",
+    "district_id": "140904",
+    "name": "SIMPANG TANAH LAPANG"
+  },
+  {
+    "id": "1409042004",
+    "district_id": "140904",
+    "name": "RAWANG BONTO"
+  },
+  {
+    "id": "1409042005",
+    "district_id": "140904",
+    "name": "KOTO TUO"
+  },
+  {
+    "id": "1409042006",
+    "district_id": "140904",
+    "name": "BANUARAN"
+  },
+  {
+    "id": "1409042007",
+    "district_id": "140904",
+    "name": "KAMPUNG MADURA"
+  },
+  {
+    "id": "1409042009",
+    "district_id": "140904",
+    "name": "PULAU KIJANG"
+  },
+  {
+    "id": "1409042015",
+    "district_id": "140904",
+    "name": "PULAUMADINAH"
+  },
+  {
+    "id": "1409042016",
+    "district_id": "140904",
+    "name": "KAMPUNG TENGAH"
+  },
+  {
+    "id": "1409042017",
+    "district_id": "140904",
+    "name": "KAMPUNG MEDAN"
+  },
+  {
+    "id": "1409042018",
+    "district_id": "140904",
+    "name": "KEPALA PULAU"
+  },
+  {
+    "id": "1409042019",
+    "district_id": "140904",
+    "name": "TERATAK BARU"
+  },
+  {
+    "id": "1409042020",
+    "district_id": "140904",
+    "name": "DUSUN TUO"
+  },
+  {
+    "id": "1409042028",
+    "district_id": "140904",
+    "name": "GUNUNGMELINTANG"
+  },
+  {
+    "id": "1409042030",
+    "district_id": "140904",
+    "name": "SIMPANG PULAUBERALO"
+  }
+]

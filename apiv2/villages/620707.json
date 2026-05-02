@@ -1,1 +1,27 @@
-[{"id": "6207072001", "district_id": "620707", "name": "TERAWAN"}, {"id": "6207072002", "district_id": "620707", "name": "SELUNUK"}, {"id": "6207072003", "district_id": "620707", "name": "LANPASA"}, {"id": "6207072005", "district_id": "620707", "name": "BANGKAL"}, {"id": "6207072006", "district_id": "620707", "name": "TABIKU"}]
+[
+  {
+    "id": "6207072001",
+    "district_id": "620707",
+    "name": "TERAWAN"
+  },
+  {
+    "id": "6207072002",
+    "district_id": "620707",
+    "name": "SELUNUK"
+  },
+  {
+    "id": "6207072003",
+    "district_id": "620707",
+    "name": "LANPASA"
+  },
+  {
+    "id": "6207072005",
+    "district_id": "620707",
+    "name": "BANGKAL"
+  },
+  {
+    "id": "6207072006",
+    "district_id": "620707",
+    "name": "TABIKU"
+  }
+]

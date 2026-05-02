@@ -1,1 +1,47 @@
-[{"id": "7317202001", "district_id": "731720", "name": "BONELEMO"}, {"id": "7317202002", "district_id": "731720", "name": "SAMPEANG"}, {"id": "7317202003", "district_id": "731720", "name": "MARINDING"}, {"id": "7317202004", "district_id": "731720", "name": "SARONDA"}, {"id": "7317202005", "district_id": "731720", "name": "KADONG-KADONG"}, {"id": "7317202006", "district_id": "731720", "name": "TUMBUBARA"}, {"id": "7317202007", "district_id": "731720", "name": "TETTEKANG"}, {"id": "7317202008", "district_id": "731720", "name": "BONELEMO UTARA"}, {"id": "7317202009", "district_id": "731720", "name": "BONELEMO BARAT"}]
+[
+  {
+    "id": "7317202001",
+    "district_id": "731720",
+    "name": "BONELEMO"
+  },
+  {
+    "id": "7317202002",
+    "district_id": "731720",
+    "name": "SAMPEANG"
+  },
+  {
+    "id": "7317202003",
+    "district_id": "731720",
+    "name": "MARINDING"
+  },
+  {
+    "id": "7317202004",
+    "district_id": "731720",
+    "name": "SARONDA"
+  },
+  {
+    "id": "7317202005",
+    "district_id": "731720",
+    "name": "KADONG-KADONG"
+  },
+  {
+    "id": "7317202006",
+    "district_id": "731720",
+    "name": "TUMBUBARA"
+  },
+  {
+    "id": "7317202007",
+    "district_id": "731720",
+    "name": "TETTEKANG"
+  },
+  {
+    "id": "7317202008",
+    "district_id": "731720",
+    "name": "BONELEMO UTARA"
+  },
+  {
+    "id": "7317202009",
+    "district_id": "731720",
+    "name": "BONELEMO BARAT"
+  }
+]

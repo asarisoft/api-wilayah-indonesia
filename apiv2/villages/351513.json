@@ -1,1 +1,122 @@
-[{"id": "3515131005", "district_id": "351513", "name": "TAMAN"}, {"id": "3515131015", "district_id": "351513", "name": "GELURAN"}, {"id": "3515131017", "district_id": "351513", "name": "KALIJATEN"}, {"id": "3515131018", "district_id": "351513", "name": "KETEGAN"}, {"id": "3515131019", "district_id": "351513", "name": "SEPANJANG"}, {"id": "3515131020", "district_id": "351513", "name": "BEBEKAN"}, {"id": "3515131021", "district_id": "351513", "name": "WONOCOLO"}, {"id": "3515131022", "district_id": "351513", "name": "NGELOM"}, {"id": "3515132001", "district_id": "351513", "name": "BOHAR"}, {"id": "3515132002", "district_id": "351513", "name": "WAGE"}, {"id": "3515132003", "district_id": "351513", "name": "KEDUNGTURI"}, {"id": "3515132004", "district_id": "351513", "name": "JEMUNDO"}, {"id": "3515132006", "district_id": "351513", "name": "SADANG"}, {"id": "3515132007", "district_id": "351513", "name": "SAMBIBULU"}, {"id": "3515132008", "district_id": "351513", "name": "BRINGINBENDO"}, {"id": "3515132009", "district_id": "351513", "name": "SIDODADI"}, {"id": "3515132010", "district_id": "351513", "name": "KRAMATJEGU"}, {"id": "3515132011", "district_id": "351513", "name": "TROSOBO"}, {"id": "3515132012", "district_id": "351513", "name": "PERTAPANMADURETNO"}, {"id": "3515132013", "district_id": "351513", "name": "TAWANGSARI"}, {"id": "3515132014", "district_id": "351513", "name": "GILANG"}, {"id": "3515132016", "district_id": "351513", "name": "KLETEK"}, {"id": "3515132023", "district_id": "351513", "name": "TANJUNGSARI"}, {"id": "3515132024", "district_id": "351513", "name": "KREMBANGAN"}]
+[
+  {
+    "id": "3515131005",
+    "district_id": "351513",
+    "name": "TAMAN"
+  },
+  {
+    "id": "3515131015",
+    "district_id": "351513",
+    "name": "GELURAN"
+  },
+  {
+    "id": "3515131017",
+    "district_id": "351513",
+    "name": "KALIJATEN"
+  },
+  {
+    "id": "3515131018",
+    "district_id": "351513",
+    "name": "KETEGAN"
+  },
+  {
+    "id": "3515131019",
+    "district_id": "351513",
+    "name": "SEPANJANG"
+  },
+  {
+    "id": "3515131020",
+    "district_id": "351513",
+    "name": "BEBEKAN"
+  },
+  {
+    "id": "3515131021",
+    "district_id": "351513",
+    "name": "WONOCOLO"
+  },
+  {
+    "id": "3515131022",
+    "district_id": "351513",
+    "name": "NGELOM"
+  },
+  {
+    "id": "3515132001",
+    "district_id": "351513",
+    "name": "BOHAR"
+  },
+  {
+    "id": "3515132002",
+    "district_id": "351513",
+    "name": "WAGE"
+  },
+  {
+    "id": "3515132003",
+    "district_id": "351513",
+    "name": "KEDUNGTURI"
+  },
+  {
+    "id": "3515132004",
+    "district_id": "351513",
+    "name": "JEMUNDO"
+  },
+  {
+    "id": "3515132006",
+    "district_id": "351513",
+    "name": "SADANG"
+  },
+  {
+    "id": "3515132007",
+    "district_id": "351513",
+    "name": "SAMBIBULU"
+  },
+  {
+    "id": "3515132008",
+    "district_id": "351513",
+    "name": "BRINGINBENDO"
+  },
+  {
+    "id": "3515132009",
+    "district_id": "351513",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "3515132010",
+    "district_id": "351513",
+    "name": "KRAMATJEGU"
+  },
+  {
+    "id": "3515132011",
+    "district_id": "351513",
+    "name": "TROSOBO"
+  },
+  {
+    "id": "3515132012",
+    "district_id": "351513",
+    "name": "PERTAPANMADURETNO"
+  },
+  {
+    "id": "3515132013",
+    "district_id": "351513",
+    "name": "TAWANGSARI"
+  },
+  {
+    "id": "3515132014",
+    "district_id": "351513",
+    "name": "GILANG"
+  },
+  {
+    "id": "3515132016",
+    "district_id": "351513",
+    "name": "KLETEK"
+  },
+  {
+    "id": "3515132023",
+    "district_id": "351513",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3515132024",
+    "district_id": "351513",
+    "name": "KREMBANGAN"
+  }
+]

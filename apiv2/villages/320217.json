@@ -1,1 +1,42 @@
-[{"id": "3202172001", "district_id": "320217", "name": "PONDOKKASO TONGGOH"}, {"id": "3202172002", "district_id": "320217", "name": "BABAKANPARI"}, {"id": "3202172003", "district_id": "320217", "name": "PONDOKKASO TENGAH"}, {"id": "3202172004", "district_id": "320217", "name": "CIDAHU"}, {"id": "3202172005", "district_id": "320217", "name": "TANGKIL"}, {"id": "3202172006", "district_id": "320217", "name": "JAYABAKTI"}, {"id": "3202172007", "district_id": "320217", "name": "GIRIJAYA"}, {"id": "3202172008", "district_id": "320217", "name": "PASIRDOTON"}]
+[
+  {
+    "id": "3202172001",
+    "district_id": "320217",
+    "name": "PONDOKKASO TONGGOH"
+  },
+  {
+    "id": "3202172002",
+    "district_id": "320217",
+    "name": "BABAKANPARI"
+  },
+  {
+    "id": "3202172003",
+    "district_id": "320217",
+    "name": "PONDOKKASO TENGAH"
+  },
+  {
+    "id": "3202172004",
+    "district_id": "320217",
+    "name": "CIDAHU"
+  },
+  {
+    "id": "3202172005",
+    "district_id": "320217",
+    "name": "TANGKIL"
+  },
+  {
+    "id": "3202172006",
+    "district_id": "320217",
+    "name": "JAYABAKTI"
+  },
+  {
+    "id": "3202172007",
+    "district_id": "320217",
+    "name": "GIRIJAYA"
+  },
+  {
+    "id": "3202172008",
+    "district_id": "320217",
+    "name": "PASIRDOTON"
+  }
+]

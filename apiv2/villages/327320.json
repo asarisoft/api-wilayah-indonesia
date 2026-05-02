@@ -1,1 +1,22 @@
-[{"id": "3273201001", "district_id": "327320", "name": "ANTAPANI KULON"}, {"id": "3273201004", "district_id": "327320", "name": "ANTAPANI TENGAH"}, {"id": "3273201005", "district_id": "327320", "name": "ANTAPANI KIDUL"}, {"id": "3273201006", "district_id": "327320", "name": "ANTAPANI WETAN"}]
+[
+  {
+    "id": "3273201001",
+    "district_id": "327320",
+    "name": "ANTAPANI KULON"
+  },
+  {
+    "id": "3273201004",
+    "district_id": "327320",
+    "name": "ANTAPANI TENGAH"
+  },
+  {
+    "id": "3273201005",
+    "district_id": "327320",
+    "name": "ANTAPANI KIDUL"
+  },
+  {
+    "id": "3273201006",
+    "district_id": "327320",
+    "name": "ANTAPANI WETAN"
+  }
+]

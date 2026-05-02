@@ -1,1 +1,77 @@
-[{"id": "3506092001", "district_id": "350609", "name": "GONDANG"}, {"id": "3506092002", "district_id": "350609", "name": "KAYUNAN"}, {"id": "3506092003", "district_id": "350609", "name": "PANJER"}, {"id": "3506092004", "district_id": "350609", "name": "JARAK"}, {"id": "3506092005", "district_id": "350609", "name": "PLOSO KIDUL"}, {"id": "3506092006", "district_id": "350609", "name": "PLOSO LOR"}, {"id": "3506092007", "district_id": "350609", "name": "BRENGGOLO"}, {"id": "3506092008", "district_id": "350609", "name": "DONGANTI"}, {"id": "3506092009", "district_id": "350609", "name": "KAWEDUSAN"}, {"id": "3506092010", "district_id": "350609", "name": "KLANDERAN"}, {"id": "3506092011", "district_id": "350609", "name": "PUNJUL"}, {"id": "3506092012", "district_id": "350609", "name": "PRANGGANG"}, {"id": "3506092013", "district_id": "350609", "name": "SUMBERAGUNG"}, {"id": "3506092014", "district_id": "350609", "name": "WONOREJO TRISULO"}, {"id": "3506092015", "district_id": "350609", "name": "SEPAWON"}]
+[
+  {
+    "id": "3506092001",
+    "district_id": "350609",
+    "name": "GONDANG"
+  },
+  {
+    "id": "3506092002",
+    "district_id": "350609",
+    "name": "KAYUNAN"
+  },
+  {
+    "id": "3506092003",
+    "district_id": "350609",
+    "name": "PANJER"
+  },
+  {
+    "id": "3506092004",
+    "district_id": "350609",
+    "name": "JARAK"
+  },
+  {
+    "id": "3506092005",
+    "district_id": "350609",
+    "name": "PLOSO KIDUL"
+  },
+  {
+    "id": "3506092006",
+    "district_id": "350609",
+    "name": "PLOSO LOR"
+  },
+  {
+    "id": "3506092007",
+    "district_id": "350609",
+    "name": "BRENGGOLO"
+  },
+  {
+    "id": "3506092008",
+    "district_id": "350609",
+    "name": "DONGANTI"
+  },
+  {
+    "id": "3506092009",
+    "district_id": "350609",
+    "name": "KAWEDUSAN"
+  },
+  {
+    "id": "3506092010",
+    "district_id": "350609",
+    "name": "KLANDERAN"
+  },
+  {
+    "id": "3506092011",
+    "district_id": "350609",
+    "name": "PUNJUL"
+  },
+  {
+    "id": "3506092012",
+    "district_id": "350609",
+    "name": "PRANGGANG"
+  },
+  {
+    "id": "3506092013",
+    "district_id": "350609",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3506092014",
+    "district_id": "350609",
+    "name": "WONOREJO TRISULO"
+  },
+  {
+    "id": "3506092015",
+    "district_id": "350609",
+    "name": "SEPAWON"
+  }
+]

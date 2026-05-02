@@ -1,1 +1,52 @@
-[{"id": "8105102001", "district_id": "810510", "name": "TEOR"}, {"id": "8105102002", "district_id": "810510", "name": "KARTUTIN KARTENGA"}, {"id": "8105102003", "district_id": "810510", "name": "KER KER"}, {"id": "8105102004", "district_id": "810510", "name": "DURYAR RUMOY"}, {"id": "8105102005", "district_id": "810510", "name": "LAPANG KAMPUNG JAWA"}, {"id": "8105102006", "district_id": "810510", "name": "KAMPUNG TENGAH WERMAF"}, {"id": "8105102007", "district_id": "810510", "name": "KAMPUNG BARU"}, {"id": "8105102008", "district_id": "810510", "name": "MAMUR"}, {"id": "8105102009", "district_id": "810510", "name": "KILIWOUW"}, {"id": "8105102010", "district_id": "810510", "name": "KARLOKIN"}]
+[
+  {
+    "id": "8105102001",
+    "district_id": "810510",
+    "name": "TEOR"
+  },
+  {
+    "id": "8105102002",
+    "district_id": "810510",
+    "name": "KARTUTIN KARTENGA"
+  },
+  {
+    "id": "8105102003",
+    "district_id": "810510",
+    "name": "KER KER"
+  },
+  {
+    "id": "8105102004",
+    "district_id": "810510",
+    "name": "DURYAR RUMOY"
+  },
+  {
+    "id": "8105102005",
+    "district_id": "810510",
+    "name": "LAPANG KAMPUNG JAWA"
+  },
+  {
+    "id": "8105102006",
+    "district_id": "810510",
+    "name": "KAMPUNG TENGAH WERMAF"
+  },
+  {
+    "id": "8105102007",
+    "district_id": "810510",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "8105102008",
+    "district_id": "810510",
+    "name": "MAMUR"
+  },
+  {
+    "id": "8105102009",
+    "district_id": "810510",
+    "name": "KILIWOUW"
+  },
+  {
+    "id": "8105102010",
+    "district_id": "810510",
+    "name": "KARLOKIN"
+  }
+]

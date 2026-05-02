@@ -1,1 +1,52 @@
-[{"id": "5208032001", "district_id": "520803", "name": "KAYANGAN"}, {"id": "5208032002", "district_id": "520803", "name": "SANTONG"}, {"id": "5208032003", "district_id": "520803", "name": "SELENGEN"}, {"id": "5208032004", "district_id": "520803", "name": "SESAIT"}, {"id": "5208032005", "district_id": "520803", "name": "GUMANTAR"}, {"id": "5208032006", "district_id": "520803", "name": "SALUT"}, {"id": "5208032007", "district_id": "520803", "name": "DANGIANG"}, {"id": "5208032008", "district_id": "520803", "name": "PENDUA"}, {"id": "5208032009", "district_id": "520803", "name": "PANSOR"}, {"id": "5208032010", "district_id": "520803", "name": "SANTONG MULIA"}]
+[
+  {
+    "id": "5208032001",
+    "district_id": "520803",
+    "name": "KAYANGAN"
+  },
+  {
+    "id": "5208032002",
+    "district_id": "520803",
+    "name": "SANTONG"
+  },
+  {
+    "id": "5208032003",
+    "district_id": "520803",
+    "name": "SELENGEN"
+  },
+  {
+    "id": "5208032004",
+    "district_id": "520803",
+    "name": "SESAIT"
+  },
+  {
+    "id": "5208032005",
+    "district_id": "520803",
+    "name": "GUMANTAR"
+  },
+  {
+    "id": "5208032006",
+    "district_id": "520803",
+    "name": "SALUT"
+  },
+  {
+    "id": "5208032007",
+    "district_id": "520803",
+    "name": "DANGIANG"
+  },
+  {
+    "id": "5208032008",
+    "district_id": "520803",
+    "name": "PENDUA"
+  },
+  {
+    "id": "5208032009",
+    "district_id": "520803",
+    "name": "PANSOR"
+  },
+  {
+    "id": "5208032010",
+    "district_id": "520803",
+    "name": "SANTONG MULIA"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "6309041001", "district_id": "630904", "name": "JANGKUNG"}, {"id": "6309041002", "district_id": "630904", "name": "TANJUNG"}, {"id": "6309041003", "district_id": "630904", "name": "AGUNG"}, {"id": "6309041004", "district_id": "630904", "name": "HIKUN"}, {"id": "6309042005", "district_id": "630904", "name": "BANYU TAJUN"}, {"id": "6309042006", "district_id": "630904", "name": "PAMARANGAN KIWA"}, {"id": "6309042007", "district_id": "630904", "name": "PUAIN KIWA"}, {"id": "6309042008", "district_id": "630904", "name": "JUAI"}, {"id": "6309042009", "district_id": "630904", "name": "MAHE SEBERANG"}, {"id": "6309042010", "district_id": "630904", "name": "KAMBITIN"}, {"id": "6309042011", "district_id": "630904", "name": "WAYAU"}, {"id": "6309042012", "district_id": "630904", "name": "GARUNGGUNG"}, {"id": "6309042013", "district_id": "630904", "name": "KITANG"}, {"id": "6309042014", "district_id": "630904", "name": "SUNGAI PIMPING"}, {"id": "6309042015", "district_id": "630904", "name": "KAMBITIN RAYA"}]
+[
+  {
+    "id": "6309041001",
+    "district_id": "630904",
+    "name": "JANGKUNG"
+  },
+  {
+    "id": "6309041002",
+    "district_id": "630904",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "6309041003",
+    "district_id": "630904",
+    "name": "AGUNG"
+  },
+  {
+    "id": "6309041004",
+    "district_id": "630904",
+    "name": "HIKUN"
+  },
+  {
+    "id": "6309042005",
+    "district_id": "630904",
+    "name": "BANYU TAJUN"
+  },
+  {
+    "id": "6309042006",
+    "district_id": "630904",
+    "name": "PAMARANGAN KIWA"
+  },
+  {
+    "id": "6309042007",
+    "district_id": "630904",
+    "name": "PUAIN KIWA"
+  },
+  {
+    "id": "6309042008",
+    "district_id": "630904",
+    "name": "JUAI"
+  },
+  {
+    "id": "6309042009",
+    "district_id": "630904",
+    "name": "MAHE SEBERANG"
+  },
+  {
+    "id": "6309042010",
+    "district_id": "630904",
+    "name": "KAMBITIN"
+  },
+  {
+    "id": "6309042011",
+    "district_id": "630904",
+    "name": "WAYAU"
+  },
+  {
+    "id": "6309042012",
+    "district_id": "630904",
+    "name": "GARUNGGUNG"
+  },
+  {
+    "id": "6309042013",
+    "district_id": "630904",
+    "name": "KITANG"
+  },
+  {
+    "id": "6309042014",
+    "district_id": "630904",
+    "name": "SUNGAI PIMPING"
+  },
+  {
+    "id": "6309042015",
+    "district_id": "630904",
+    "name": "KAMBITIN RAYA"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "9503192001", "district_id": "950319", "name": "UKHA"}, {"id": "9503192002", "district_id": "950319", "name": "KULEKEN"}, {"id": "9503192003", "district_id": "950319", "name": "AMISANGI"}, {"id": "9503192004", "district_id": "950319", "name": "WENAPUK"}, {"id": "9503192005", "district_id": "950319", "name": "EKI"}, {"id": "9503192006", "district_id": "950319", "name": "YELEPUNU"}, {"id": "9503192007", "district_id": "950319", "name": "SIOLOREMA"}, {"id": "9503192008", "district_id": "950319", "name": "MUSANAREK"}, {"id": "9503192009", "district_id": "950319", "name": "WALIALEMA"}, {"id": "9503192010", "district_id": "950319", "name": "LUA"}, {"id": "9503192022", "district_id": "950319", "name": "WAKUNYAMA"}]
+[
+  {
+    "id": "9503192001",
+    "district_id": "950319",
+    "name": "UKHA"
+  },
+  {
+    "id": "9503192002",
+    "district_id": "950319",
+    "name": "KULEKEN"
+  },
+  {
+    "id": "9503192003",
+    "district_id": "950319",
+    "name": "AMISANGI"
+  },
+  {
+    "id": "9503192004",
+    "district_id": "950319",
+    "name": "WENAPUK"
+  },
+  {
+    "id": "9503192005",
+    "district_id": "950319",
+    "name": "EKI"
+  },
+  {
+    "id": "9503192006",
+    "district_id": "950319",
+    "name": "YELEPUNU"
+  },
+  {
+    "id": "9503192007",
+    "district_id": "950319",
+    "name": "SIOLOREMA"
+  },
+  {
+    "id": "9503192008",
+    "district_id": "950319",
+    "name": "MUSANAREK"
+  },
+  {
+    "id": "9503192009",
+    "district_id": "950319",
+    "name": "WALIALEMA"
+  },
+  {
+    "id": "9503192010",
+    "district_id": "950319",
+    "name": "LUA"
+  },
+  {
+    "id": "9503192022",
+    "district_id": "950319",
+    "name": "WAKUNYAMA"
+  }
+]

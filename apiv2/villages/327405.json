@@ -1,1 +1,27 @@
-[{"id": "3274051001", "district_id": "327405", "name": "PEKIRINGAN"}, {"id": "3274051002", "district_id": "327405", "name": "SUNYARAGI"}, {"id": "3274051003", "district_id": "327405", "name": "KESAMBI"}, {"id": "3274051004", "district_id": "327405", "name": "DRAJAT"}, {"id": "3274051005", "district_id": "327405", "name": "KARYAMULYA"}]
+[
+  {
+    "id": "3274051001",
+    "district_id": "327405",
+    "name": "PEKIRINGAN"
+  },
+  {
+    "id": "3274051002",
+    "district_id": "327405",
+    "name": "SUNYARAGI"
+  },
+  {
+    "id": "3274051003",
+    "district_id": "327405",
+    "name": "KESAMBI"
+  },
+  {
+    "id": "3274051004",
+    "district_id": "327405",
+    "name": "DRAJAT"
+  },
+  {
+    "id": "3274051005",
+    "district_id": "327405",
+    "name": "KARYAMULYA"
+  }
+]

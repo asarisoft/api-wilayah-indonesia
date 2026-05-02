@@ -1,1 +1,62 @@
-[{"id": "720901", "regency_id": "7209", "name": "UNA UNA"}, {"id": "720902", "regency_id": "7209", "name": "TOGEAN"}, {"id": "720903", "regency_id": "7209", "name": "WALEA KEPULAUAN"}, {"id": "720904", "regency_id": "7209", "name": "AMPANA TETE"}, {"id": "720905", "regency_id": "7209", "name": "AMPANA KOTA"}, {"id": "720906", "regency_id": "7209", "name": "ULUBONGKA"}, {"id": "720907", "regency_id": "7209", "name": "TOJO BARAT"}, {"id": "720908", "regency_id": "7209", "name": "TOJO"}, {"id": "720909", "regency_id": "7209", "name": "WALEA BESAR"}, {"id": "720910", "regency_id": "7209", "name": "RATOLINDO"}, {"id": "720911", "regency_id": "7209", "name": "BATUDAKA"}, {"id": "720912", "regency_id": "7209", "name": "TALATAKO"}]
+[
+  {
+    "id": "720901",
+    "regency_id": "7209",
+    "name": "UNA UNA"
+  },
+  {
+    "id": "720902",
+    "regency_id": "7209",
+    "name": "TOGEAN"
+  },
+  {
+    "id": "720903",
+    "regency_id": "7209",
+    "name": "WALEA KEPULAUAN"
+  },
+  {
+    "id": "720904",
+    "regency_id": "7209",
+    "name": "AMPANA TETE"
+  },
+  {
+    "id": "720905",
+    "regency_id": "7209",
+    "name": "AMPANA KOTA"
+  },
+  {
+    "id": "720906",
+    "regency_id": "7209",
+    "name": "ULUBONGKA"
+  },
+  {
+    "id": "720907",
+    "regency_id": "7209",
+    "name": "TOJO BARAT"
+  },
+  {
+    "id": "720908",
+    "regency_id": "7209",
+    "name": "TOJO"
+  },
+  {
+    "id": "720909",
+    "regency_id": "7209",
+    "name": "WALEA BESAR"
+  },
+  {
+    "id": "720910",
+    "regency_id": "7209",
+    "name": "RATOLINDO"
+  },
+  {
+    "id": "720911",
+    "regency_id": "7209",
+    "name": "BATUDAKA"
+  },
+  {
+    "id": "720912",
+    "regency_id": "7209",
+    "name": "TALATAKO"
+  }
+]

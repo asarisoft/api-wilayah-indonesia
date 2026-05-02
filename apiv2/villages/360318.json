@@ -1,1 +1,72 @@
-[{"id": "3603181001", "district_id": "360318", "name": "SUKAMULYA"}, {"id": "3603181003", "district_id": "360318", "name": "BUNDER"}, {"id": "3603182002", "district_id": "360318", "name": "CIBADAK"}, {"id": "3603182004", "district_id": "360318", "name": "TALAGA"}, {"id": "3603182005", "district_id": "360318", "name": "TALAGASARI"}, {"id": "3603182006", "district_id": "360318", "name": "DUKUH"}, {"id": "3603182007", "district_id": "360318", "name": "CIKUPA"}, {"id": "3603182008", "district_id": "360318", "name": "SUKANAGARA"}, {"id": "3603182009", "district_id": "360318", "name": "BITUNG JAYA"}, {"id": "3603182010", "district_id": "360318", "name": "PASIR GADUNG"}, {"id": "3603182011", "district_id": "360318", "name": "SUKADAMAI"}, {"id": "3603182012", "district_id": "360318", "name": "PASIR JAYA"}, {"id": "3603182013", "district_id": "360318", "name": "BUDI MULYA"}, {"id": "3603182014", "district_id": "360318", "name": "BOJONG"}]
+[
+  {
+    "id": "3603181001",
+    "district_id": "360318",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3603181003",
+    "district_id": "360318",
+    "name": "BUNDER"
+  },
+  {
+    "id": "3603182002",
+    "district_id": "360318",
+    "name": "CIBADAK"
+  },
+  {
+    "id": "3603182004",
+    "district_id": "360318",
+    "name": "TALAGA"
+  },
+  {
+    "id": "3603182005",
+    "district_id": "360318",
+    "name": "TALAGASARI"
+  },
+  {
+    "id": "3603182006",
+    "district_id": "360318",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3603182007",
+    "district_id": "360318",
+    "name": "CIKUPA"
+  },
+  {
+    "id": "3603182008",
+    "district_id": "360318",
+    "name": "SUKANAGARA"
+  },
+  {
+    "id": "3603182009",
+    "district_id": "360318",
+    "name": "BITUNG JAYA"
+  },
+  {
+    "id": "3603182010",
+    "district_id": "360318",
+    "name": "PASIR GADUNG"
+  },
+  {
+    "id": "3603182011",
+    "district_id": "360318",
+    "name": "SUKADAMAI"
+  },
+  {
+    "id": "3603182012",
+    "district_id": "360318",
+    "name": "PASIR JAYA"
+  },
+  {
+    "id": "3603182013",
+    "district_id": "360318",
+    "name": "BUDI MULYA"
+  },
+  {
+    "id": "3603182014",
+    "district_id": "360318",
+    "name": "BOJONG"
+  }
+]

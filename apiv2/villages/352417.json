@@ -1,1 +1,102 @@
-[{"id": "3524172001", "district_id": "352417", "name": "SIWALANREJO"}, {"id": "3524172002", "district_id": "352417", "name": "KEBONSARI"}, {"id": "3524172003", "district_id": "352417", "name": "SUKOLILO"}, {"id": "3524172004", "district_id": "352417", "name": "PAJANGAN"}, {"id": "3524172005", "district_id": "352417", "name": "KADUNGREMBUG"}, {"id": "3524172006", "district_id": "352417", "name": "SUMBERAGUNG"}, {"id": "3524172007", "district_id": "352417", "name": "SUKODADI"}, {"id": "3524172008", "district_id": "352417", "name": "SUMBERAJI"}, {"id": "3524172009", "district_id": "352417", "name": "MENONGO"}, {"id": "3524172010", "district_id": "352417", "name": "MADULEGI"}, {"id": "3524172011", "district_id": "352417", "name": "BANJAREJO"}, {"id": "3524172012", "district_id": "352417", "name": "PLUMPANG"}, {"id": "3524172013", "district_id": "352417", "name": "BANDUNGSARI"}, {"id": "3524172014", "district_id": "352417", "name": "SIDOGEMBUL"}, {"id": "3524172015", "district_id": "352417", "name": "BALONGTAWUN"}, {"id": "3524172016", "district_id": "352417", "name": "GEDANGAN"}, {"id": "3524172017", "district_id": "352417", "name": "TLOGOREJO"}, {"id": "3524172018", "district_id": "352417", "name": "BATURONO"}, {"id": "3524172019", "district_id": "352417", "name": "SURABAYAN"}, {"id": "3524172020", "district_id": "352417", "name": "SUGIHREJO"}]
+[
+  {
+    "id": "3524172001",
+    "district_id": "352417",
+    "name": "SIWALANREJO"
+  },
+  {
+    "id": "3524172002",
+    "district_id": "352417",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3524172003",
+    "district_id": "352417",
+    "name": "SUKOLILO"
+  },
+  {
+    "id": "3524172004",
+    "district_id": "352417",
+    "name": "PAJANGAN"
+  },
+  {
+    "id": "3524172005",
+    "district_id": "352417",
+    "name": "KADUNGREMBUG"
+  },
+  {
+    "id": "3524172006",
+    "district_id": "352417",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3524172007",
+    "district_id": "352417",
+    "name": "SUKODADI"
+  },
+  {
+    "id": "3524172008",
+    "district_id": "352417",
+    "name": "SUMBERAJI"
+  },
+  {
+    "id": "3524172009",
+    "district_id": "352417",
+    "name": "MENONGO"
+  },
+  {
+    "id": "3524172010",
+    "district_id": "352417",
+    "name": "MADULEGI"
+  },
+  {
+    "id": "3524172011",
+    "district_id": "352417",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "3524172012",
+    "district_id": "352417",
+    "name": "PLUMPANG"
+  },
+  {
+    "id": "3524172013",
+    "district_id": "352417",
+    "name": "BANDUNGSARI"
+  },
+  {
+    "id": "3524172014",
+    "district_id": "352417",
+    "name": "SIDOGEMBUL"
+  },
+  {
+    "id": "3524172015",
+    "district_id": "352417",
+    "name": "BALONGTAWUN"
+  },
+  {
+    "id": "3524172016",
+    "district_id": "352417",
+    "name": "GEDANGAN"
+  },
+  {
+    "id": "3524172017",
+    "district_id": "352417",
+    "name": "TLOGOREJO"
+  },
+  {
+    "id": "3524172018",
+    "district_id": "352417",
+    "name": "BATURONO"
+  },
+  {
+    "id": "3524172019",
+    "district_id": "352417",
+    "name": "SURABAYAN"
+  },
+  {
+    "id": "3524172020",
+    "district_id": "352417",
+    "name": "SUGIHREJO"
+  }
+]

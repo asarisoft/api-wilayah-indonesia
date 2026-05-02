@@ -1,1 +1,82 @@
-[{"id": "9106022001", "district_id": "910602", "name": "SARWOM"}, {"id": "9106022002", "district_id": "910602", "name": "ANDEI"}, {"id": "9106022004", "district_id": "910602", "name": "WAROMI"}, {"id": "9106022006", "district_id": "910602", "name": "KOBEOSER"}, {"id": "9106022007", "district_id": "910602", "name": "MAMBESAK"}, {"id": "9106022008", "district_id": "910602", "name": "SAUKOBYE"}, {"id": "9106022010", "district_id": "910602", "name": "YOBDI"}, {"id": "9106022012", "district_id": "910602", "name": "DERNAFI"}, {"id": "9106022013", "district_id": "910602", "name": "ROSAYENDI"}, {"id": "9106022016", "district_id": "910602", "name": "WARSANSAN"}, {"id": "9106022017", "district_id": "910602", "name": "NERMNU"}, {"id": "9106022018", "district_id": "910602", "name": "KOREM"}, {"id": "9106022019", "district_id": "910602", "name": "MNUSWOR"}, {"id": "9106022020", "district_id": "910602", "name": "DOFYO WAFOR"}, {"id": "9106022021", "district_id": "910602", "name": "WARBON"}, {"id": "9106022022", "district_id": "910602", "name": "WARI"}]
+[
+  {
+    "id": "9106022001",
+    "district_id": "910602",
+    "name": "SARWOM"
+  },
+  {
+    "id": "9106022002",
+    "district_id": "910602",
+    "name": "ANDEI"
+  },
+  {
+    "id": "9106022004",
+    "district_id": "910602",
+    "name": "WAROMI"
+  },
+  {
+    "id": "9106022006",
+    "district_id": "910602",
+    "name": "KOBEOSER"
+  },
+  {
+    "id": "9106022007",
+    "district_id": "910602",
+    "name": "MAMBESAK"
+  },
+  {
+    "id": "9106022008",
+    "district_id": "910602",
+    "name": "SAUKOBYE"
+  },
+  {
+    "id": "9106022010",
+    "district_id": "910602",
+    "name": "YOBDI"
+  },
+  {
+    "id": "9106022012",
+    "district_id": "910602",
+    "name": "DERNAFI"
+  },
+  {
+    "id": "9106022013",
+    "district_id": "910602",
+    "name": "ROSAYENDI"
+  },
+  {
+    "id": "9106022016",
+    "district_id": "910602",
+    "name": "WARSANSAN"
+  },
+  {
+    "id": "9106022017",
+    "district_id": "910602",
+    "name": "NERMNU"
+  },
+  {
+    "id": "9106022018",
+    "district_id": "910602",
+    "name": "KOREM"
+  },
+  {
+    "id": "9106022019",
+    "district_id": "910602",
+    "name": "MNUSWOR"
+  },
+  {
+    "id": "9106022020",
+    "district_id": "910602",
+    "name": "DOFYO WAFOR"
+  },
+  {
+    "id": "9106022021",
+    "district_id": "910602",
+    "name": "WARBON"
+  },
+  {
+    "id": "9106022022",
+    "district_id": "910602",
+    "name": "WARI"
+  }
+]

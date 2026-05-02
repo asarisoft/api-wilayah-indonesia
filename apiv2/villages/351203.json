@@ -1,1 +1,42 @@
-[{"id": "3512032001", "district_id": "351203", "name": "CEMARA"}, {"id": "3512032002", "district_id": "351203", "name": "MOJODUNGKOL"}, {"id": "3512032003", "district_id": "351203", "name": "GUNUNG MALANG"}, {"id": "3512032004", "district_id": "351203", "name": "GUNUNG PUTRI"}, {"id": "3512032005", "district_id": "351203", "name": "SUBOH"}, {"id": "3512032006", "district_id": "351203", "name": "DAWUAN"}, {"id": "3512032007", "district_id": "351203", "name": "BUDUAN"}, {"id": "3512032008", "district_id": "351203", "name": "KETAH"}]
+[
+  {
+    "id": "3512032001",
+    "district_id": "351203",
+    "name": "CEMARA"
+  },
+  {
+    "id": "3512032002",
+    "district_id": "351203",
+    "name": "MOJODUNGKOL"
+  },
+  {
+    "id": "3512032003",
+    "district_id": "351203",
+    "name": "GUNUNG MALANG"
+  },
+  {
+    "id": "3512032004",
+    "district_id": "351203",
+    "name": "GUNUNG PUTRI"
+  },
+  {
+    "id": "3512032005",
+    "district_id": "351203",
+    "name": "SUBOH"
+  },
+  {
+    "id": "3512032006",
+    "district_id": "351203",
+    "name": "DAWUAN"
+  },
+  {
+    "id": "3512032007",
+    "district_id": "351203",
+    "name": "BUDUAN"
+  },
+  {
+    "id": "3512032008",
+    "district_id": "351203",
+    "name": "KETAH"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1171072001", "district_id": "117107", "name": "GEUCEU KOMPLEK"}, {"id": "1171072002", "district_id": "117107", "name": "LAMLAGANG"}, {"id": "1171072003", "district_id": "117107", "name": "GEUCEU INIEM"}, {"id": "1171072004", "district_id": "117107", "name": "GEUCEU KAYEE JATO"}, {"id": "1171072005", "district_id": "117107", "name": "LAM ARA"}, {"id": "1171072006", "district_id": "117107", "name": "LHONG RAYA"}, {"id": "1171072007", "district_id": "117107", "name": "MIBO"}, {"id": "1171072008", "district_id": "117107", "name": "PEUNYERAT"}, {"id": "1171072009", "district_id": "117107", "name": "LHONG CUT"}, {"id": "1171072010", "district_id": "117107", "name": "LAMPEUOT"}]
+[
+  {
+    "id": "1171072001",
+    "district_id": "117107",
+    "name": "GEUCEU KOMPLEK"
+  },
+  {
+    "id": "1171072002",
+    "district_id": "117107",
+    "name": "LAMLAGANG"
+  },
+  {
+    "id": "1171072003",
+    "district_id": "117107",
+    "name": "GEUCEU INIEM"
+  },
+  {
+    "id": "1171072004",
+    "district_id": "117107",
+    "name": "GEUCEU KAYEE JATO"
+  },
+  {
+    "id": "1171072005",
+    "district_id": "117107",
+    "name": "LAM ARA"
+  },
+  {
+    "id": "1171072006",
+    "district_id": "117107",
+    "name": "LHONG RAYA"
+  },
+  {
+    "id": "1171072007",
+    "district_id": "117107",
+    "name": "MIBO"
+  },
+  {
+    "id": "1171072008",
+    "district_id": "117107",
+    "name": "PEUNYERAT"
+  },
+  {
+    "id": "1171072009",
+    "district_id": "117107",
+    "name": "LHONG CUT"
+  },
+  {
+    "id": "1171072010",
+    "district_id": "117107",
+    "name": "LAMPEUOT"
+  }
+]

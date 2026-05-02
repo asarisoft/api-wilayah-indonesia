@@ -1,1 +1,72 @@
-[{"id": "1224072001", "district_id": "122407", "name": "BITAYA"}, {"id": "1224072002", "district_id": "122407", "name": "LAHEMBOHO"}, {"id": "1224072003", "district_id": "122407", "name": "ANAOMA"}, {"id": "1224072004", "district_id": "122407", "name": "DAHANA TUGALA OYO"}, {"id": "1224072005", "district_id": "122407", "name": "FULOLO"}, {"id": "1224072006", "district_id": "122407", "name": "HILIGAWONI"}, {"id": "1224072007", "district_id": "122407", "name": "ONONAMOLO TUMULA"}, {"id": "1224072008", "district_id": "122407", "name": "BANUA SIBOHOU I"}, {"id": "1224072009", "district_id": "122407", "name": "OMBOLATA"}, {"id": "1224072010", "district_id": "122407", "name": "BANUA SIBOHOU II"}, {"id": "1224072011", "district_id": "122407", "name": "DAHANA ALASA"}, {"id": "1224072012", "district_id": "122407", "name": "ONONAMOLO ALASA"}, {"id": "1224072013", "district_id": "122407", "name": "LOLOANA'A"}, {"id": "1224072014", "district_id": "122407", "name": "HILISEBUA SIWALUBANUA"}]
+[
+  {
+    "id": "1224072001",
+    "district_id": "122407",
+    "name": "BITAYA"
+  },
+  {
+    "id": "1224072002",
+    "district_id": "122407",
+    "name": "LAHEMBOHO"
+  },
+  {
+    "id": "1224072003",
+    "district_id": "122407",
+    "name": "ANAOMA"
+  },
+  {
+    "id": "1224072004",
+    "district_id": "122407",
+    "name": "DAHANA TUGALA OYO"
+  },
+  {
+    "id": "1224072005",
+    "district_id": "122407",
+    "name": "FULOLO"
+  },
+  {
+    "id": "1224072006",
+    "district_id": "122407",
+    "name": "HILIGAWONI"
+  },
+  {
+    "id": "1224072007",
+    "district_id": "122407",
+    "name": "ONONAMOLO TUMULA"
+  },
+  {
+    "id": "1224072008",
+    "district_id": "122407",
+    "name": "BANUA SIBOHOU I"
+  },
+  {
+    "id": "1224072009",
+    "district_id": "122407",
+    "name": "OMBOLATA"
+  },
+  {
+    "id": "1224072010",
+    "district_id": "122407",
+    "name": "BANUA SIBOHOU II"
+  },
+  {
+    "id": "1224072011",
+    "district_id": "122407",
+    "name": "DAHANA ALASA"
+  },
+  {
+    "id": "1224072012",
+    "district_id": "122407",
+    "name": "ONONAMOLO ALASA"
+  },
+  {
+    "id": "1224072013",
+    "district_id": "122407",
+    "name": "LOLOANA'A"
+  },
+  {
+    "id": "1224072014",
+    "district_id": "122407",
+    "name": "HILISEBUA SIWALUBANUA"
+  }
+]

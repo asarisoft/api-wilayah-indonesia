@@ -1,1 +1,67 @@
-[{"id": "6310112001", "district_id": "631011", "name": "SARING SUNGAI BUBU"}, {"id": "6310112002", "district_id": "631011", "name": "SARING SUNGAI BINJAI"}, {"id": "6310112003", "district_id": "631011", "name": "SEPUNGGUR"}, {"id": "6310112004", "district_id": "631011", "name": "SERDANGAN"}, {"id": "6310112005", "district_id": "631011", "name": "SATIUNG"}, {"id": "6310112006", "district_id": "631011", "name": "API-API"}, {"id": "6310112007", "district_id": "631011", "name": "PAKATELLU"}, {"id": "6310112008", "district_id": "631011", "name": "MANURUNG"}, {"id": "6310112009", "district_id": "631011", "name": "BATARANG"}, {"id": "6310112010", "district_id": "631011", "name": "MEKAR JAYA"}, {"id": "6310112011", "district_id": "631011", "name": "PULAU TANJUNG"}, {"id": "6310112012", "district_id": "631011", "name": "UPT KARYA BAKTI"}, {"id": "6310112013", "district_id": "631011", "name": "SALIMURAN"}]
+[
+  {
+    "id": "6310112001",
+    "district_id": "631011",
+    "name": "SARING SUNGAI BUBU"
+  },
+  {
+    "id": "6310112002",
+    "district_id": "631011",
+    "name": "SARING SUNGAI BINJAI"
+  },
+  {
+    "id": "6310112003",
+    "district_id": "631011",
+    "name": "SEPUNGGUR"
+  },
+  {
+    "id": "6310112004",
+    "district_id": "631011",
+    "name": "SERDANGAN"
+  },
+  {
+    "id": "6310112005",
+    "district_id": "631011",
+    "name": "SATIUNG"
+  },
+  {
+    "id": "6310112006",
+    "district_id": "631011",
+    "name": "API-API"
+  },
+  {
+    "id": "6310112007",
+    "district_id": "631011",
+    "name": "PAKATELLU"
+  },
+  {
+    "id": "6310112008",
+    "district_id": "631011",
+    "name": "MANURUNG"
+  },
+  {
+    "id": "6310112009",
+    "district_id": "631011",
+    "name": "BATARANG"
+  },
+  {
+    "id": "6310112010",
+    "district_id": "631011",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "6310112011",
+    "district_id": "631011",
+    "name": "PULAU TANJUNG"
+  },
+  {
+    "id": "6310112012",
+    "district_id": "631011",
+    "name": "UPT KARYA BAKTI"
+  },
+  {
+    "id": "6310112013",
+    "district_id": "631011",
+    "name": "SALIMURAN"
+  }
+]

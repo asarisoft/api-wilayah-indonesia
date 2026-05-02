@@ -1,1 +1,42 @@
-[{"id": "5307122001", "district_id": "530712", "name": "MAGEPANDA"}, {"id": "5307122002", "district_id": "530712", "name": "REROROJA"}, {"id": "5307122003", "district_id": "530712", "name": "DONE"}, {"id": "5307122004", "district_id": "530712", "name": "KOLISIA"}, {"id": "5307122005", "district_id": "530712", "name": "KOLISIA B"}, {"id": "5307122006", "district_id": "530712", "name": "WODA MUDE"}, {"id": "5307122007", "district_id": "530712", "name": "LEGU WODA"}, {"id": "5307122008", "district_id": "530712", "name": "WATURIA"}]
+[
+  {
+    "id": "5307122001",
+    "district_id": "530712",
+    "name": "MAGEPANDA"
+  },
+  {
+    "id": "5307122002",
+    "district_id": "530712",
+    "name": "REROROJA"
+  },
+  {
+    "id": "5307122003",
+    "district_id": "530712",
+    "name": "DONE"
+  },
+  {
+    "id": "5307122004",
+    "district_id": "530712",
+    "name": "KOLISIA"
+  },
+  {
+    "id": "5307122005",
+    "district_id": "530712",
+    "name": "KOLISIA B"
+  },
+  {
+    "id": "5307122006",
+    "district_id": "530712",
+    "name": "WODA MUDE"
+  },
+  {
+    "id": "5307122007",
+    "district_id": "530712",
+    "name": "LEGU WODA"
+  },
+  {
+    "id": "5307122008",
+    "district_id": "530712",
+    "name": "WATURIA"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "3313012001", "district_id": "331301", "name": "NGEPUNGSARI"}, {"id": "3313012002", "district_id": "331301", "name": "JATIPURWO"}, {"id": "3313012003", "district_id": "331301", "name": "JATIPURO"}, {"id": "3313012004", "district_id": "331301", "name": "JATISOBO"}, {"id": "3313012005", "district_id": "331301", "name": "JATIWARNO"}, {"id": "3313012006", "district_id": "331301", "name": "JATIMULYO"}, {"id": "3313012007", "district_id": "331301", "name": "JATISUKO"}, {"id": "3313012008", "district_id": "331301", "name": "JATIHARJO"}, {"id": "3313012009", "district_id": "331301", "name": "JATIKUWUNG"}, {"id": "3313012010", "district_id": "331301", "name": "JATIROYO"}]
+[
+  {
+    "id": "3313012001",
+    "district_id": "331301",
+    "name": "NGEPUNGSARI"
+  },
+  {
+    "id": "3313012002",
+    "district_id": "331301",
+    "name": "JATIPURWO"
+  },
+  {
+    "id": "3313012003",
+    "district_id": "331301",
+    "name": "JATIPURO"
+  },
+  {
+    "id": "3313012004",
+    "district_id": "331301",
+    "name": "JATISOBO"
+  },
+  {
+    "id": "3313012005",
+    "district_id": "331301",
+    "name": "JATIWARNO"
+  },
+  {
+    "id": "3313012006",
+    "district_id": "331301",
+    "name": "JATIMULYO"
+  },
+  {
+    "id": "3313012007",
+    "district_id": "331301",
+    "name": "JATISUKO"
+  },
+  {
+    "id": "3313012008",
+    "district_id": "331301",
+    "name": "JATIHARJO"
+  },
+  {
+    "id": "3313012009",
+    "district_id": "331301",
+    "name": "JATIKUWUNG"
+  },
+  {
+    "id": "3313012010",
+    "district_id": "331301",
+    "name": "JATIROYO"
+  }
+]

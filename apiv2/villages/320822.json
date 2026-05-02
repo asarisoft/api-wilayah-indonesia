@@ -1,1 +1,67 @@
-[{"id": "3208222001", "district_id": "320822", "name": "SILEBU"}, {"id": "3208222002", "district_id": "320822", "name": "PATALAGAN"}, {"id": "3208222003", "district_id": "320822", "name": "KAHIYANGAN"}, {"id": "3208222004", "district_id": "320822", "name": "TAJURBUNTU"}, {"id": "3208222005", "district_id": "320822", "name": "PANCALANG"}, {"id": "3208222006", "district_id": "320822", "name": "SUMBAKELING"}, {"id": "3208222007", "district_id": "320822", "name": "SAREWU"}, {"id": "3208222008", "district_id": "320822", "name": "SINDANGKEMPENG"}, {"id": "3208222009", "district_id": "320822", "name": "RAJAWETAN"}, {"id": "3208222010", "district_id": "320822", "name": "TENJOLAYAR"}, {"id": "3208222011", "district_id": "320822", "name": "MEKARJAYA"}, {"id": "3208222012", "district_id": "320822", "name": "TARIKOLOT"}, {"id": "3208222013", "district_id": "320822", "name": "DANALAMPAH"}]
+[
+  {
+    "id": "3208222001",
+    "district_id": "320822",
+    "name": "SILEBU"
+  },
+  {
+    "id": "3208222002",
+    "district_id": "320822",
+    "name": "PATALAGAN"
+  },
+  {
+    "id": "3208222003",
+    "district_id": "320822",
+    "name": "KAHIYANGAN"
+  },
+  {
+    "id": "3208222004",
+    "district_id": "320822",
+    "name": "TAJURBUNTU"
+  },
+  {
+    "id": "3208222005",
+    "district_id": "320822",
+    "name": "PANCALANG"
+  },
+  {
+    "id": "3208222006",
+    "district_id": "320822",
+    "name": "SUMBAKELING"
+  },
+  {
+    "id": "3208222007",
+    "district_id": "320822",
+    "name": "SAREWU"
+  },
+  {
+    "id": "3208222008",
+    "district_id": "320822",
+    "name": "SINDANGKEMPENG"
+  },
+  {
+    "id": "3208222009",
+    "district_id": "320822",
+    "name": "RAJAWETAN"
+  },
+  {
+    "id": "3208222010",
+    "district_id": "320822",
+    "name": "TENJOLAYAR"
+  },
+  {
+    "id": "3208222011",
+    "district_id": "320822",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3208222012",
+    "district_id": "320822",
+    "name": "TARIKOLOT"
+  },
+  {
+    "id": "3208222013",
+    "district_id": "320822",
+    "name": "DANALAMPAH"
+  }
+]

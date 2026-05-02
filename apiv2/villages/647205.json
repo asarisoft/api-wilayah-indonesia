@@ -1,1 +1,42 @@
-[{"id": "6472051002", "district_id": "647205", "name": "SEMPAJA SELATAN"}, {"id": "6472051003", "district_id": "647205", "name": "LEMPAKE"}, {"id": "6472051004", "district_id": "647205", "name": "SUNGAI SIRING PELITA"}, {"id": "6472051010", "district_id": "647205", "name": "SEMPAJA UTARA"}, {"id": "6472051011", "district_id": "647205", "name": "TANAH MERAH"}, {"id": "6472051012", "district_id": "647205", "name": "SEMPAJA BARAT"}, {"id": "6472051013", "district_id": "647205", "name": "SEMPAJA TIMUR"}, {"id": "6472051014", "district_id": "647205", "name": "BUDAYA PAMPANG"}]
+[
+  {
+    "id": "6472051002",
+    "district_id": "647205",
+    "name": "SEMPAJA SELATAN"
+  },
+  {
+    "id": "6472051003",
+    "district_id": "647205",
+    "name": "LEMPAKE"
+  },
+  {
+    "id": "6472051004",
+    "district_id": "647205",
+    "name": "SUNGAI SIRING PELITA"
+  },
+  {
+    "id": "6472051010",
+    "district_id": "647205",
+    "name": "SEMPAJA UTARA"
+  },
+  {
+    "id": "6472051011",
+    "district_id": "647205",
+    "name": "TANAH MERAH"
+  },
+  {
+    "id": "6472051012",
+    "district_id": "647205",
+    "name": "SEMPAJA BARAT"
+  },
+  {
+    "id": "6472051013",
+    "district_id": "647205",
+    "name": "SEMPAJA TIMUR"
+  },
+  {
+    "id": "6472051014",
+    "district_id": "647205",
+    "name": "BUDAYA PAMPANG"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "9504182001", "district_id": "950418", "name": "TINGGOM"}, {"id": "9504182002", "district_id": "950418", "name": "EGONI"}, {"id": "9504182003", "district_id": "950418", "name": "MARTELO"}, {"id": "9504182004", "district_id": "950418", "name": "LEREWERE"}, {"id": "9504182005", "district_id": "950418", "name": "YAKEP"}, {"id": "9504182006", "district_id": "950418", "name": "WELESI"}, {"id": "9504182007", "district_id": "950418", "name": "ORELUKBAN"}, {"id": "9504182008", "district_id": "950418", "name": "BAGUNI"}, {"id": "9504182009", "district_id": "950418", "name": "KULUTIN"}, {"id": "9504182010", "district_id": "950418", "name": "YAMULO"}]
+[
+  {
+    "id": "9504182001",
+    "district_id": "950418",
+    "name": "TINGGOM"
+  },
+  {
+    "id": "9504182002",
+    "district_id": "950418",
+    "name": "EGONI"
+  },
+  {
+    "id": "9504182003",
+    "district_id": "950418",
+    "name": "MARTELO"
+  },
+  {
+    "id": "9504182004",
+    "district_id": "950418",
+    "name": "LEREWERE"
+  },
+  {
+    "id": "9504182005",
+    "district_id": "950418",
+    "name": "YAKEP"
+  },
+  {
+    "id": "9504182006",
+    "district_id": "950418",
+    "name": "WELESI"
+  },
+  {
+    "id": "9504182007",
+    "district_id": "950418",
+    "name": "ORELUKBAN"
+  },
+  {
+    "id": "9504182008",
+    "district_id": "950418",
+    "name": "BAGUNI"
+  },
+  {
+    "id": "9504182009",
+    "district_id": "950418",
+    "name": "KULUTIN"
+  },
+  {
+    "id": "9504182010",
+    "district_id": "950418",
+    "name": "YAMULO"
+  }
+]

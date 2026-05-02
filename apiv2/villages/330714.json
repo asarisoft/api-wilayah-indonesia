@@ -1,1 +1,87 @@
-[{"id": "3307142001", "district_id": "330714", "name": "KUPANGAN"}, {"id": "3307142002", "district_id": "330714", "name": "MERGOSARI"}, {"id": "3307142003", "district_id": "330714", "name": "SUKOHARJO"}, {"id": "3307142004", "district_id": "330714", "name": "ROGOJATI"}, {"id": "3307142005", "district_id": "330714", "name": "KARANGANYAR"}, {"id": "3307142006", "district_id": "330714", "name": "SEMPOL"}, {"id": "3307142007", "district_id": "330714", "name": "PLODONGAN"}, {"id": "3307142008", "district_id": "330714", "name": "SUROYUDAN"}, {"id": "3307142009", "district_id": "330714", "name": "GUMIWANG"}, {"id": "3307142010", "district_id": "330714", "name": "GUNUNGTUGEL"}, {"id": "3307142011", "district_id": "330714", "name": "PULUS"}, {"id": "3307142012", "district_id": "330714", "name": "PUCUNGWETAN"}, {"id": "3307142013", "district_id": "330714", "name": "KAJEKSAN"}, {"id": "3307142014", "district_id": "330714", "name": "TLOGO"}, {"id": "3307142015", "district_id": "330714", "name": "KALIBENING"}, {"id": "3307142016", "district_id": "330714", "name": "GARUNGLOR"}, {"id": "3307142017", "district_id": "330714", "name": "JEBENGPLAMPITAN"}]
+[
+  {
+    "id": "3307142001",
+    "district_id": "330714",
+    "name": "KUPANGAN"
+  },
+  {
+    "id": "3307142002",
+    "district_id": "330714",
+    "name": "MERGOSARI"
+  },
+  {
+    "id": "3307142003",
+    "district_id": "330714",
+    "name": "SUKOHARJO"
+  },
+  {
+    "id": "3307142004",
+    "district_id": "330714",
+    "name": "ROGOJATI"
+  },
+  {
+    "id": "3307142005",
+    "district_id": "330714",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3307142006",
+    "district_id": "330714",
+    "name": "SEMPOL"
+  },
+  {
+    "id": "3307142007",
+    "district_id": "330714",
+    "name": "PLODONGAN"
+  },
+  {
+    "id": "3307142008",
+    "district_id": "330714",
+    "name": "SUROYUDAN"
+  },
+  {
+    "id": "3307142009",
+    "district_id": "330714",
+    "name": "GUMIWANG"
+  },
+  {
+    "id": "3307142010",
+    "district_id": "330714",
+    "name": "GUNUNGTUGEL"
+  },
+  {
+    "id": "3307142011",
+    "district_id": "330714",
+    "name": "PULUS"
+  },
+  {
+    "id": "3307142012",
+    "district_id": "330714",
+    "name": "PUCUNGWETAN"
+  },
+  {
+    "id": "3307142013",
+    "district_id": "330714",
+    "name": "KAJEKSAN"
+  },
+  {
+    "id": "3307142014",
+    "district_id": "330714",
+    "name": "TLOGO"
+  },
+  {
+    "id": "3307142015",
+    "district_id": "330714",
+    "name": "KALIBENING"
+  },
+  {
+    "id": "3307142016",
+    "district_id": "330714",
+    "name": "GARUNGLOR"
+  },
+  {
+    "id": "3307142017",
+    "district_id": "330714",
+    "name": "JEBENGPLAMPITAN"
+  }
+]

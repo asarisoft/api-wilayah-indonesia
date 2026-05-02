@@ -1,1 +1,62 @@
-[{"id": "6110062001", "district_id": "611006", "name": "BATU BEGIGI"}, {"id": "6110062002", "district_id": "611006", "name": "LOKA JAYA"}, {"id": "6110062003", "district_id": "611006", "name": "SUKA MAJU"}, {"id": "6110062004", "district_id": "611006", "name": "BINA JAYA"}, {"id": "6110062005", "district_id": "611006", "name": "BINA KARYA"}, {"id": "6110062006", "district_id": "611006", "name": "MADONG JAYA"}, {"id": "6110062016", "district_id": "611006", "name": "BATA LUAR"}, {"id": "6110062017", "district_id": "611006", "name": "MARIS PERMAI"}, {"id": "6110062019", "district_id": "611006", "name": "PELITA KENAYA"}, {"id": "6110062020", "district_id": "611006", "name": "TANJUNG BERINGIN RAYA"}, {"id": "6110062021", "district_id": "611006", "name": "TANJUNG GUNUNG"}, {"id": "6110062022", "district_id": "611006", "name": "KERANJIK"}]
+[
+  {
+    "id": "6110062001",
+    "district_id": "611006",
+    "name": "BATU BEGIGI"
+  },
+  {
+    "id": "6110062002",
+    "district_id": "611006",
+    "name": "LOKA JAYA"
+  },
+  {
+    "id": "6110062003",
+    "district_id": "611006",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "6110062004",
+    "district_id": "611006",
+    "name": "BINA JAYA"
+  },
+  {
+    "id": "6110062005",
+    "district_id": "611006",
+    "name": "BINA KARYA"
+  },
+  {
+    "id": "6110062006",
+    "district_id": "611006",
+    "name": "MADONG JAYA"
+  },
+  {
+    "id": "6110062016",
+    "district_id": "611006",
+    "name": "BATA LUAR"
+  },
+  {
+    "id": "6110062017",
+    "district_id": "611006",
+    "name": "MARIS PERMAI"
+  },
+  {
+    "id": "6110062019",
+    "district_id": "611006",
+    "name": "PELITA KENAYA"
+  },
+  {
+    "id": "6110062020",
+    "district_id": "611006",
+    "name": "TANJUNG BERINGIN RAYA"
+  },
+  {
+    "id": "6110062021",
+    "district_id": "611006",
+    "name": "TANJUNG GUNUNG"
+  },
+  {
+    "id": "6110062022",
+    "district_id": "611006",
+    "name": "KERANJIK"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "7314071001", "district_id": "731407", "name": "PANGKAJENE"}, {"id": "7314071002", "district_id": "731407", "name": "LAUTANG BENTENG"}, {"id": "7314071003", "district_id": "731407", "name": "MAJJELLING"}, {"id": "7314071004", "district_id": "731407", "name": "WALA"}, {"id": "7314071005", "district_id": "731407", "name": "LAKESSI"}, {"id": "7314071006", "district_id": "731407", "name": "RIJANG PITTU"}, {"id": "7314071007", "district_id": "731407", "name": "MAJJELLING WATANG"}, {"id": "7314072008", "district_id": "731407", "name": "SEREANG"}, {"id": "7314072009", "district_id": "731407", "name": "KANIE"}, {"id": "7314072010", "district_id": "731407", "name": "ALLAKUANG"}, {"id": "7314072011", "district_id": "731407", "name": "TANETE"}, {"id": "7314072012", "district_id": "731407", "name": "TAKKALASI"}]
+[
+  {
+    "id": "7314071001",
+    "district_id": "731407",
+    "name": "PANGKAJENE"
+  },
+  {
+    "id": "7314071002",
+    "district_id": "731407",
+    "name": "LAUTANG BENTENG"
+  },
+  {
+    "id": "7314071003",
+    "district_id": "731407",
+    "name": "MAJJELLING"
+  },
+  {
+    "id": "7314071004",
+    "district_id": "731407",
+    "name": "WALA"
+  },
+  {
+    "id": "7314071005",
+    "district_id": "731407",
+    "name": "LAKESSI"
+  },
+  {
+    "id": "7314071006",
+    "district_id": "731407",
+    "name": "RIJANG PITTU"
+  },
+  {
+    "id": "7314071007",
+    "district_id": "731407",
+    "name": "MAJJELLING WATANG"
+  },
+  {
+    "id": "7314072008",
+    "district_id": "731407",
+    "name": "SEREANG"
+  },
+  {
+    "id": "7314072009",
+    "district_id": "731407",
+    "name": "KANIE"
+  },
+  {
+    "id": "7314072010",
+    "district_id": "731407",
+    "name": "ALLAKUANG"
+  },
+  {
+    "id": "7314072011",
+    "district_id": "731407",
+    "name": "TANETE"
+  },
+  {
+    "id": "7314072012",
+    "district_id": "731407",
+    "name": "TAKKALASI"
+  }
+]

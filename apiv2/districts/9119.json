@@ -1,1 +1,27 @@
-[{"id": "911901", "regency_id": "9119", "name": "SUPIORI SELATAN"}, {"id": "911902", "regency_id": "9119", "name": "SUPIORI UTARA"}, {"id": "911903", "regency_id": "9119", "name": "SUPIORI TIMUR"}, {"id": "911904", "regency_id": "9119", "name": "KEPULAUAN ARURI"}, {"id": "911905", "regency_id": "9119", "name": "SUPIORI BARAT"}]
+[
+  {
+    "id": "911901",
+    "regency_id": "9119",
+    "name": "SUPIORI SELATAN"
+  },
+  {
+    "id": "911902",
+    "regency_id": "9119",
+    "name": "SUPIORI UTARA"
+  },
+  {
+    "id": "911903",
+    "regency_id": "9119",
+    "name": "SUPIORI TIMUR"
+  },
+  {
+    "id": "911904",
+    "regency_id": "9119",
+    "name": "KEPULAUAN ARURI"
+  },
+  {
+    "id": "911905",
+    "regency_id": "9119",
+    "name": "SUPIORI BARAT"
+  }
+]

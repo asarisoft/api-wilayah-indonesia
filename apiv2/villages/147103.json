@@ -1,1 +1,17 @@
-[{"id": "1471031001", "district_id": "147103", "name": "CINTA RAJA"}, {"id": "1471031002", "district_id": "147103", "name": "SUKAMULYA"}, {"id": "1471031003", "district_id": "147103", "name": "SUKAMAJU"}]
+[
+  {
+    "id": "1471031001",
+    "district_id": "147103",
+    "name": "CINTA RAJA"
+  },
+  {
+    "id": "1471031002",
+    "district_id": "147103",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "1471031003",
+    "district_id": "147103",
+    "name": "SUKAMAJU"
+  }
+]

@@ -1,1 +1,167 @@
-[{"id": "1102032001", "district_id": "110203", "name": "BAMBEL GABUNGAN"}, {"id": "1102032002", "district_id": "110203", "name": "KUTA BULUH"}, {"id": "1102032005", "district_id": "110203", "name": "LAWE HIJO"}, {"id": "1102032006", "district_id": "110203", "name": "PINDING"}, {"id": "1102032009", "district_id": "110203", "name": "TERUTUNG MEGARA ASLI"}, {"id": "1102032011", "district_id": "110203", "name": "BIAK MULI"}, {"id": "1102032012", "district_id": "110203", "name": "KUTE LANG-LANG"}, {"id": "1102032013", "district_id": "110203", "name": "PEDESI"}, {"id": "1102032014", "district_id": "110203", "name": "TERUTUNG PAYUNG HULU"}, {"id": "1102032015", "district_id": "110203", "name": "TERUTUNG PAYUNG HILIR"}, {"id": "1102032016", "district_id": "110203", "name": "TUALANG SEMBILAR"}, {"id": "1102032017", "district_id": "110203", "name": "KUNING I"}, {"id": "1102032018", "district_id": "110203", "name": "KUNING II"}, {"id": "1102032019", "district_id": "110203", "name": "CINTA DAMAI"}, {"id": "1102032020", "district_id": "110203", "name": "LIKAT"}, {"id": "1102032021", "district_id": "110203", "name": "RIKIT"}, {"id": "1102032023", "district_id": "110203", "name": "BAMBEL"}, {"id": "1102032025", "district_id": "110203", "name": "LAWE KIHING"}, {"id": "1102032026", "district_id": "110203", "name": "TERUTUNG SEPERAI"}, {"id": "1102032027", "district_id": "110203", "name": "KUTE SERI"}, {"id": "1102032028", "district_id": "110203", "name": "KUTA ANTARA"}, {"id": "1102032029", "district_id": "110203", "name": "PULO PERENGGE"}, {"id": "1102032031", "district_id": "110203", "name": "PULO KENDONDONG"}, {"id": "1102032033", "district_id": "110203", "name": "PANCAKH IMAN"}, {"id": "1102032034", "district_id": "110203", "name": "BIAK MULI BARU"}, {"id": "1102032035", "district_id": "110203", "name": "BIAK MULI PANTAI RAJA"}, {"id": "1102032036", "district_id": "110203", "name": "BIAK MULI SEJAHTERA"}, {"id": "1102032037", "district_id": "110203", "name": "LEMBAH HAJI"}, {"id": "1102032038", "district_id": "110203", "name": "TERUTUNG PAYUNG GABUNGAN"}, {"id": "1102032039", "district_id": "110203", "name": "LAWE HIJO METUAH"}, {"id": "1102032040", "district_id": "110203", "name": "AMPERA"}, {"id": "1102032041", "district_id": "110203", "name": "TEMBILAKH MBAKHU"}, {"id": "1102032042", "district_id": "110203", "name": "KUTE LANG-LANG BAKHU"}]
+[
+  {
+    "id": "1102032001",
+    "district_id": "110203",
+    "name": "BAMBEL GABUNGAN"
+  },
+  {
+    "id": "1102032002",
+    "district_id": "110203",
+    "name": "KUTA BULUH"
+  },
+  {
+    "id": "1102032005",
+    "district_id": "110203",
+    "name": "LAWE HIJO"
+  },
+  {
+    "id": "1102032006",
+    "district_id": "110203",
+    "name": "PINDING"
+  },
+  {
+    "id": "1102032009",
+    "district_id": "110203",
+    "name": "TERUTUNG MEGARA ASLI"
+  },
+  {
+    "id": "1102032011",
+    "district_id": "110203",
+    "name": "BIAK MULI"
+  },
+  {
+    "id": "1102032012",
+    "district_id": "110203",
+    "name": "KUTE LANG-LANG"
+  },
+  {
+    "id": "1102032013",
+    "district_id": "110203",
+    "name": "PEDESI"
+  },
+  {
+    "id": "1102032014",
+    "district_id": "110203",
+    "name": "TERUTUNG PAYUNG HULU"
+  },
+  {
+    "id": "1102032015",
+    "district_id": "110203",
+    "name": "TERUTUNG PAYUNG HILIR"
+  },
+  {
+    "id": "1102032016",
+    "district_id": "110203",
+    "name": "TUALANG SEMBILAR"
+  },
+  {
+    "id": "1102032017",
+    "district_id": "110203",
+    "name": "KUNING I"
+  },
+  {
+    "id": "1102032018",
+    "district_id": "110203",
+    "name": "KUNING II"
+  },
+  {
+    "id": "1102032019",
+    "district_id": "110203",
+    "name": "CINTA DAMAI"
+  },
+  {
+    "id": "1102032020",
+    "district_id": "110203",
+    "name": "LIKAT"
+  },
+  {
+    "id": "1102032021",
+    "district_id": "110203",
+    "name": "RIKIT"
+  },
+  {
+    "id": "1102032023",
+    "district_id": "110203",
+    "name": "BAMBEL"
+  },
+  {
+    "id": "1102032025",
+    "district_id": "110203",
+    "name": "LAWE KIHING"
+  },
+  {
+    "id": "1102032026",
+    "district_id": "110203",
+    "name": "TERUTUNG SEPERAI"
+  },
+  {
+    "id": "1102032027",
+    "district_id": "110203",
+    "name": "KUTE SERI"
+  },
+  {
+    "id": "1102032028",
+    "district_id": "110203",
+    "name": "KUTA ANTARA"
+  },
+  {
+    "id": "1102032029",
+    "district_id": "110203",
+    "name": "PULO PERENGGE"
+  },
+  {
+    "id": "1102032031",
+    "district_id": "110203",
+    "name": "PULO KENDONDONG"
+  },
+  {
+    "id": "1102032033",
+    "district_id": "110203",
+    "name": "PANCAKH IMAN"
+  },
+  {
+    "id": "1102032034",
+    "district_id": "110203",
+    "name": "BIAK MULI BARU"
+  },
+  {
+    "id": "1102032035",
+    "district_id": "110203",
+    "name": "BIAK MULI PANTAI RAJA"
+  },
+  {
+    "id": "1102032036",
+    "district_id": "110203",
+    "name": "BIAK MULI SEJAHTERA"
+  },
+  {
+    "id": "1102032037",
+    "district_id": "110203",
+    "name": "LEMBAH HAJI"
+  },
+  {
+    "id": "1102032038",
+    "district_id": "110203",
+    "name": "TERUTUNG PAYUNG GABUNGAN"
+  },
+  {
+    "id": "1102032039",
+    "district_id": "110203",
+    "name": "LAWE HIJO METUAH"
+  },
+  {
+    "id": "1102032040",
+    "district_id": "110203",
+    "name": "AMPERA"
+  },
+  {
+    "id": "1102032041",
+    "district_id": "110203",
+    "name": "TEMBILAKH MBAKHU"
+  },
+  {
+    "id": "1102032042",
+    "district_id": "110203",
+    "name": "KUTE LANG-LANG BAKHU"
+  }
+]

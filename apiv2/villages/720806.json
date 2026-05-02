@@ -1,1 +1,52 @@
-[{"id": "7208062009", "district_id": "720806", "name": "SAUSU PEORE"}, {"id": "7208062010", "district_id": "720806", "name": "MALEALI"}, {"id": "7208062011", "district_id": "720806", "name": "SAUSU TRANS"}, {"id": "7208062012", "district_id": "720806", "name": "SAUSU TORONO"}, {"id": "7208062013", "district_id": "720806", "name": "SAUSU PAKAREME"}, {"id": "7208062015", "district_id": "720806", "name": "SAUSU GANDASARI"}, {"id": "7208062016", "district_id": "720806", "name": "SAUSU SALUBANGA"}, {"id": "7208062017", "district_id": "720806", "name": "TALIABO"}, {"id": "7208062018", "district_id": "720806", "name": "SAUSU TAMBU"}, {"id": "7208062019", "district_id": "720806", "name": "SAUSU AUMA"}]
+[
+  {
+    "id": "7208062009",
+    "district_id": "720806",
+    "name": "SAUSU PEORE"
+  },
+  {
+    "id": "7208062010",
+    "district_id": "720806",
+    "name": "MALEALI"
+  },
+  {
+    "id": "7208062011",
+    "district_id": "720806",
+    "name": "SAUSU TRANS"
+  },
+  {
+    "id": "7208062012",
+    "district_id": "720806",
+    "name": "SAUSU TORONO"
+  },
+  {
+    "id": "7208062013",
+    "district_id": "720806",
+    "name": "SAUSU PAKAREME"
+  },
+  {
+    "id": "7208062015",
+    "district_id": "720806",
+    "name": "SAUSU GANDASARI"
+  },
+  {
+    "id": "7208062016",
+    "district_id": "720806",
+    "name": "SAUSU SALUBANGA"
+  },
+  {
+    "id": "7208062017",
+    "district_id": "720806",
+    "name": "TALIABO"
+  },
+  {
+    "id": "7208062018",
+    "district_id": "720806",
+    "name": "SAUSU TAMBU"
+  },
+  {
+    "id": "7208062019",
+    "district_id": "720806",
+    "name": "SAUSU AUMA"
+  }
+]

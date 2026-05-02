@@ -1,1 +1,102 @@
-[{"id": "3513122001", "district_id": "351312", "name": "JABUNGSISIR"}, {"id": "3513122002", "district_id": "351312", "name": "JABUNGCANDI"}, {"id": "3513122003", "district_id": "351312", "name": "JABUNG WETAN"}, {"id": "3513122004", "district_id": "351312", "name": "KALIKAJAR KULON"}, {"id": "3513122005", "district_id": "351312", "name": "KALIKAJAR WETAN"}, {"id": "3513122006", "district_id": "351312", "name": "PANDEAN"}, {"id": "3513122007", "district_id": "351312", "name": "ALASTENGAH"}, {"id": "3513122008", "district_id": "351312", "name": "SIDODADI"}, {"id": "3513122009", "district_id": "351312", "name": "RANDUMERAK"}, {"id": "3513122010", "district_id": "351312", "name": "RANDUTATAH"}, {"id": "3513122011", "district_id": "351312", "name": "KARANGANYAR"}, {"id": "3513122012", "district_id": "351312", "name": "PLAMPANG"}, {"id": "3513122013", "district_id": "351312", "name": "PETUNJUNGAN"}, {"id": "3513122014", "district_id": "351312", "name": "TAMAN"}, {"id": "3513122015", "district_id": "351312", "name": "PAITON"}, {"id": "3513122016", "district_id": "351312", "name": "SUKODADI"}, {"id": "3513122017", "district_id": "351312", "name": "PODOKKELOR"}, {"id": "3513122018", "district_id": "351312", "name": "SUMBERANYAR"}, {"id": "3513122019", "district_id": "351312", "name": "SUMBEREJO"}, {"id": "3513122020", "district_id": "351312", "name": "BHINOR"}]
+[
+  {
+    "id": "3513122001",
+    "district_id": "351312",
+    "name": "JABUNGSISIR"
+  },
+  {
+    "id": "3513122002",
+    "district_id": "351312",
+    "name": "JABUNGCANDI"
+  },
+  {
+    "id": "3513122003",
+    "district_id": "351312",
+    "name": "JABUNG WETAN"
+  },
+  {
+    "id": "3513122004",
+    "district_id": "351312",
+    "name": "KALIKAJAR KULON"
+  },
+  {
+    "id": "3513122005",
+    "district_id": "351312",
+    "name": "KALIKAJAR WETAN"
+  },
+  {
+    "id": "3513122006",
+    "district_id": "351312",
+    "name": "PANDEAN"
+  },
+  {
+    "id": "3513122007",
+    "district_id": "351312",
+    "name": "ALASTENGAH"
+  },
+  {
+    "id": "3513122008",
+    "district_id": "351312",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "3513122009",
+    "district_id": "351312",
+    "name": "RANDUMERAK"
+  },
+  {
+    "id": "3513122010",
+    "district_id": "351312",
+    "name": "RANDUTATAH"
+  },
+  {
+    "id": "3513122011",
+    "district_id": "351312",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3513122012",
+    "district_id": "351312",
+    "name": "PLAMPANG"
+  },
+  {
+    "id": "3513122013",
+    "district_id": "351312",
+    "name": "PETUNJUNGAN"
+  },
+  {
+    "id": "3513122014",
+    "district_id": "351312",
+    "name": "TAMAN"
+  },
+  {
+    "id": "3513122015",
+    "district_id": "351312",
+    "name": "PAITON"
+  },
+  {
+    "id": "3513122016",
+    "district_id": "351312",
+    "name": "SUKODADI"
+  },
+  {
+    "id": "3513122017",
+    "district_id": "351312",
+    "name": "PODOKKELOR"
+  },
+  {
+    "id": "3513122018",
+    "district_id": "351312",
+    "name": "SUMBERANYAR"
+  },
+  {
+    "id": "3513122019",
+    "district_id": "351312",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3513122020",
+    "district_id": "351312",
+    "name": "BHINOR"
+  }
+]

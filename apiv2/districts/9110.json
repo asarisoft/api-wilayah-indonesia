@@ -1,1 +1,52 @@
-[{"id": "911001", "regency_id": "9110", "name": "SARMI"}, {"id": "911002", "regency_id": "9110", "name": "TOR ATAS"}, {"id": "911003", "regency_id": "9110", "name": "PANTAI BARAT"}, {"id": "911004", "regency_id": "9110", "name": "PANTAI TIMUR"}, {"id": "911005", "regency_id": "9110", "name": "BONGGO"}, {"id": "911009", "regency_id": "9110", "name": "APAWER HULU"}, {"id": "911012", "regency_id": "9110", "name": "SARMI SELATAN"}, {"id": "911013", "regency_id": "9110", "name": "SARMI TIMUR"}, {"id": "911014", "regency_id": "9110", "name": "PANTAI TIMUR BAGIAN BARAT"}, {"id": "911015", "regency_id": "9110", "name": "BONGGO TIMUR"}]
+[
+  {
+    "id": "911001",
+    "regency_id": "9110",
+    "name": "SARMI"
+  },
+  {
+    "id": "911002",
+    "regency_id": "9110",
+    "name": "TOR ATAS"
+  },
+  {
+    "id": "911003",
+    "regency_id": "9110",
+    "name": "PANTAI BARAT"
+  },
+  {
+    "id": "911004",
+    "regency_id": "9110",
+    "name": "PANTAI TIMUR"
+  },
+  {
+    "id": "911005",
+    "regency_id": "9110",
+    "name": "BONGGO"
+  },
+  {
+    "id": "911009",
+    "regency_id": "9110",
+    "name": "APAWER HULU"
+  },
+  {
+    "id": "911012",
+    "regency_id": "9110",
+    "name": "SARMI SELATAN"
+  },
+  {
+    "id": "911013",
+    "regency_id": "9110",
+    "name": "SARMI TIMUR"
+  },
+  {
+    "id": "911014",
+    "regency_id": "9110",
+    "name": "PANTAI TIMUR BAGIAN BARAT"
+  },
+  {
+    "id": "911015",
+    "regency_id": "9110",
+    "name": "BONGGO TIMUR"
+  }
+]

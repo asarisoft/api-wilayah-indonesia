@@ -1,1 +1,87 @@
-[{"id": "3328072001", "district_id": "332807", "name": "KEDUNGWUNGU"}, {"id": "3328072002", "district_id": "332807", "name": "MOKAHA"}, {"id": "3328072003", "district_id": "332807", "name": "PENYALAHAN"}, {"id": "3328072004", "district_id": "332807", "name": "SITAIL"}, {"id": "3328072005", "district_id": "332807", "name": "SUMBARANG"}, {"id": "3328072006", "district_id": "332807", "name": "CERIH"}, {"id": "3328072007", "district_id": "332807", "name": "GANTUNGAN"}, {"id": "3328072008", "district_id": "332807", "name": "ARGATAWANG"}, {"id": "3328072009", "district_id": "332807", "name": "PADASARI"}, {"id": "3328072010", "district_id": "332807", "name": "CAPAR"}, {"id": "3328072011", "district_id": "332807", "name": "LEBAKWANGI"}, {"id": "3328072012", "district_id": "332807", "name": "DUKUHBANGSA"}, {"id": "3328072013", "district_id": "332807", "name": "JATINEGARA"}, {"id": "3328072014", "district_id": "332807", "name": "LUWIJAWA"}, {"id": "3328072015", "district_id": "332807", "name": "LEMBASARI"}, {"id": "3328072016", "district_id": "332807", "name": "TAMANSARI"}, {"id": "3328072017", "district_id": "332807", "name": "WOTGALIH"}]
+[
+  {
+    "id": "3328072001",
+    "district_id": "332807",
+    "name": "KEDUNGWUNGU"
+  },
+  {
+    "id": "3328072002",
+    "district_id": "332807",
+    "name": "MOKAHA"
+  },
+  {
+    "id": "3328072003",
+    "district_id": "332807",
+    "name": "PENYALAHAN"
+  },
+  {
+    "id": "3328072004",
+    "district_id": "332807",
+    "name": "SITAIL"
+  },
+  {
+    "id": "3328072005",
+    "district_id": "332807",
+    "name": "SUMBARANG"
+  },
+  {
+    "id": "3328072006",
+    "district_id": "332807",
+    "name": "CERIH"
+  },
+  {
+    "id": "3328072007",
+    "district_id": "332807",
+    "name": "GANTUNGAN"
+  },
+  {
+    "id": "3328072008",
+    "district_id": "332807",
+    "name": "ARGATAWANG"
+  },
+  {
+    "id": "3328072009",
+    "district_id": "332807",
+    "name": "PADASARI"
+  },
+  {
+    "id": "3328072010",
+    "district_id": "332807",
+    "name": "CAPAR"
+  },
+  {
+    "id": "3328072011",
+    "district_id": "332807",
+    "name": "LEBAKWANGI"
+  },
+  {
+    "id": "3328072012",
+    "district_id": "332807",
+    "name": "DUKUHBANGSA"
+  },
+  {
+    "id": "3328072013",
+    "district_id": "332807",
+    "name": "JATINEGARA"
+  },
+  {
+    "id": "3328072014",
+    "district_id": "332807",
+    "name": "LUWIJAWA"
+  },
+  {
+    "id": "3328072015",
+    "district_id": "332807",
+    "name": "LEMBASARI"
+  },
+  {
+    "id": "3328072016",
+    "district_id": "332807",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3328072017",
+    "district_id": "332807",
+    "name": "WOTGALIH"
+  }
+]

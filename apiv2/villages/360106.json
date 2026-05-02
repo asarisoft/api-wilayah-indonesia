@@ -1,1 +1,32 @@
-[{"id": "3601062001", "district_id": "360106", "name": "PANIMBANGJAYA"}, {"id": "3601062002", "district_id": "360106", "name": "MEKARJAYA"}, {"id": "3601062004", "district_id": "360106", "name": "GOMBONG"}, {"id": "3601062009", "district_id": "360106", "name": "MEKARSARI"}, {"id": "3601062011", "district_id": "360106", "name": "CITEUREUP"}, {"id": "3601062012", "district_id": "360106", "name": "TANJUNGJAYA"}]
+[
+  {
+    "id": "3601062001",
+    "district_id": "360106",
+    "name": "PANIMBANGJAYA"
+  },
+  {
+    "id": "3601062002",
+    "district_id": "360106",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3601062004",
+    "district_id": "360106",
+    "name": "GOMBONG"
+  },
+  {
+    "id": "3601062009",
+    "district_id": "360106",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3601062011",
+    "district_id": "360106",
+    "name": "CITEUREUP"
+  },
+  {
+    "id": "3601062012",
+    "district_id": "360106",
+    "name": "TANJUNGJAYA"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "9406052001", "district_id": "940605", "name": "UNITO"}, {"id": "9406052002", "district_id": "940605", "name": "SUKIKAI"}, {"id": "9406052003", "district_id": "940605", "name": "IYARO"}, {"id": "9406052004", "district_id": "940605", "name": "WIGOUMAKIDA"}]
+[
+  {
+    "id": "9406052001",
+    "district_id": "940605",
+    "name": "UNITO"
+  },
+  {
+    "id": "9406052002",
+    "district_id": "940605",
+    "name": "SUKIKAI"
+  },
+  {
+    "id": "9406052003",
+    "district_id": "940605",
+    "name": "IYARO"
+  },
+  {
+    "id": "9406052004",
+    "district_id": "940605",
+    "name": "WIGOUMAKIDA"
+  }
+]

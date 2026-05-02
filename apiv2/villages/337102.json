@@ -1,1 +1,27 @@
-[{"id": "3371021003", "district_id": "337102", "name": "WATES"}, {"id": "3371021004", "district_id": "337102", "name": "POTROBANGSAN"}, {"id": "3371021005", "district_id": "337102", "name": "KEDUNGSARI"}, {"id": "3371021008", "district_id": "337102", "name": "KRAMAT UTARA"}, {"id": "3371021009", "district_id": "337102", "name": "KRAMAT SELATAN"}]
+[
+  {
+    "id": "3371021003",
+    "district_id": "337102",
+    "name": "WATES"
+  },
+  {
+    "id": "3371021004",
+    "district_id": "337102",
+    "name": "POTROBANGSAN"
+  },
+  {
+    "id": "3371021005",
+    "district_id": "337102",
+    "name": "KEDUNGSARI"
+  },
+  {
+    "id": "3371021008",
+    "district_id": "337102",
+    "name": "KRAMAT UTARA"
+  },
+  {
+    "id": "3371021009",
+    "district_id": "337102",
+    "name": "KRAMAT SELATAN"
+  }
+]

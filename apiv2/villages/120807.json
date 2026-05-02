@@ -1,1 +1,72 @@
-[{"id": "1208071008", "district_id": "120807", "name": "SINDAR RAYA"}, {"id": "1208072001", "district_id": "120807", "name": "SAMBOSAR RAYA"}, {"id": "1208072002", "district_id": "120807", "name": "PANDUMAN"}, {"id": "1208072003", "district_id": "120807", "name": "AMBAROKAN PANEI RAYA"}, {"id": "1208072004", "district_id": "120807", "name": "BAH TONANG"}, {"id": "1208072005", "district_id": "120807", "name": "BAH BULIAN"}, {"id": "1208072006", "district_id": "120807", "name": "BANGUN RAYA"}, {"id": "1208072007", "district_id": "120807", "name": "DURIAN BANGGAL"}, {"id": "1208072008", "district_id": "120807", "name": "SORBA DOLOG"}, {"id": "1208072009", "district_id": "120807", "name": "GUNUNG DATAS"}, {"id": "1208072010", "district_id": "120807", "name": "PULI BUAH"}, {"id": "1208072011", "district_id": "120807", "name": "BANU RAYA"}, {"id": "1208072012", "district_id": "120807", "name": "MARUBUN SIBORAS"}, {"id": "1208072013", "district_id": "120807", "name": "BANJARAN"}]
+[
+  {
+    "id": "1208071008",
+    "district_id": "120807",
+    "name": "SINDAR RAYA"
+  },
+  {
+    "id": "1208072001",
+    "district_id": "120807",
+    "name": "SAMBOSAR RAYA"
+  },
+  {
+    "id": "1208072002",
+    "district_id": "120807",
+    "name": "PANDUMAN"
+  },
+  {
+    "id": "1208072003",
+    "district_id": "120807",
+    "name": "AMBAROKAN PANEI RAYA"
+  },
+  {
+    "id": "1208072004",
+    "district_id": "120807",
+    "name": "BAH TONANG"
+  },
+  {
+    "id": "1208072005",
+    "district_id": "120807",
+    "name": "BAH BULIAN"
+  },
+  {
+    "id": "1208072006",
+    "district_id": "120807",
+    "name": "BANGUN RAYA"
+  },
+  {
+    "id": "1208072007",
+    "district_id": "120807",
+    "name": "DURIAN BANGGAL"
+  },
+  {
+    "id": "1208072008",
+    "district_id": "120807",
+    "name": "SORBA DOLOG"
+  },
+  {
+    "id": "1208072009",
+    "district_id": "120807",
+    "name": "GUNUNG DATAS"
+  },
+  {
+    "id": "1208072010",
+    "district_id": "120807",
+    "name": "PULI BUAH"
+  },
+  {
+    "id": "1208072011",
+    "district_id": "120807",
+    "name": "BANU RAYA"
+  },
+  {
+    "id": "1208072012",
+    "district_id": "120807",
+    "name": "MARUBUN SIBORAS"
+  },
+  {
+    "id": "1208072013",
+    "district_id": "120807",
+    "name": "BANJARAN"
+  }
+]

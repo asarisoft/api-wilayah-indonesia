@@ -1,1 +1,82 @@
-[{"id": "1609132001", "district_id": "160913", "name": "SUKAJAYA"}, {"id": "1609132002", "district_id": "160913", "name": "KOTA BATU"}, {"id": "1609132003", "district_id": "160913", "name": "PAGAR DEWA"}, {"id": "1609132004", "district_id": "160913", "name": "TANJUNG JATI"}, {"id": "1609132005", "district_id": "160913", "name": "GUNUNG AJI"}, {"id": "1609132006", "district_id": "160913", "name": "PILLA"}, {"id": "1609132007", "district_id": "160913", "name": "GUNUNG RAYA"}, {"id": "1609132008", "district_id": "160913", "name": "REMANAM JAYA"}, {"id": "1609132009", "district_id": "160913", "name": "KIWIS RAYA"}, {"id": "1609132010", "district_id": "160913", "name": "SEGIGOK RAYA"}, {"id": "1609132011", "district_id": "160913", "name": "BUMI AGUNG"}, {"id": "1609132012", "district_id": "160913", "name": "MEKAR SARI"}, {"id": "1609132013", "district_id": "160913", "name": "BEDENG TIGA"}, {"id": "1609132014", "district_id": "160913", "name": "GEDUNG RANAU"}, {"id": "1609132015", "district_id": "160913", "name": "TANJUNG BARU"}, {"id": "1609132016", "district_id": "160913", "name": "WAY WANGI SEMINUNG"}]
+[
+  {
+    "id": "1609132001",
+    "district_id": "160913",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "1609132002",
+    "district_id": "160913",
+    "name": "KOTA BATU"
+  },
+  {
+    "id": "1609132003",
+    "district_id": "160913",
+    "name": "PAGAR DEWA"
+  },
+  {
+    "id": "1609132004",
+    "district_id": "160913",
+    "name": "TANJUNG JATI"
+  },
+  {
+    "id": "1609132005",
+    "district_id": "160913",
+    "name": "GUNUNG AJI"
+  },
+  {
+    "id": "1609132006",
+    "district_id": "160913",
+    "name": "PILLA"
+  },
+  {
+    "id": "1609132007",
+    "district_id": "160913",
+    "name": "GUNUNG RAYA"
+  },
+  {
+    "id": "1609132008",
+    "district_id": "160913",
+    "name": "REMANAM JAYA"
+  },
+  {
+    "id": "1609132009",
+    "district_id": "160913",
+    "name": "KIWIS RAYA"
+  },
+  {
+    "id": "1609132010",
+    "district_id": "160913",
+    "name": "SEGIGOK RAYA"
+  },
+  {
+    "id": "1609132011",
+    "district_id": "160913",
+    "name": "BUMI AGUNG"
+  },
+  {
+    "id": "1609132012",
+    "district_id": "160913",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "1609132013",
+    "district_id": "160913",
+    "name": "BEDENG TIGA"
+  },
+  {
+    "id": "1609132014",
+    "district_id": "160913",
+    "name": "GEDUNG RANAU"
+  },
+  {
+    "id": "1609132015",
+    "district_id": "160913",
+    "name": "TANJUNG BARU"
+  },
+  {
+    "id": "1609132016",
+    "district_id": "160913",
+    "name": "WAY WANGI SEMINUNG"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "7310091001", "district_id": "731009", "name": "BONTO MATENE"}, {"id": "7310091002", "district_id": "731009", "name": "SEGERI"}, {"id": "7310091003", "district_id": "731009", "name": "BONE"}, {"id": "7310091004", "district_id": "731009", "name": "BAWASALO"}, {"id": "7310092005", "district_id": "731009", "name": "BARING"}, {"id": "7310092006", "district_id": "731009", "name": "PARENRENG"}]
+[
+  {
+    "id": "7310091001",
+    "district_id": "731009",
+    "name": "BONTO MATENE"
+  },
+  {
+    "id": "7310091002",
+    "district_id": "731009",
+    "name": "SEGERI"
+  },
+  {
+    "id": "7310091003",
+    "district_id": "731009",
+    "name": "BONE"
+  },
+  {
+    "id": "7310091004",
+    "district_id": "731009",
+    "name": "BAWASALO"
+  },
+  {
+    "id": "7310092005",
+    "district_id": "731009",
+    "name": "BARING"
+  },
+  {
+    "id": "7310092006",
+    "district_id": "731009",
+    "name": "PARENRENG"
+  }
+]

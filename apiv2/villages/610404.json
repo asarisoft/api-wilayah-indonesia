@@ -1,1 +1,97 @@
-[{"id": "6104042001", "district_id": "610404", "name": "KENDAWANGAN KIRI"}, {"id": "6104042002", "district_id": "610404", "name": "BANJAR SARI"}, {"id": "6104042003", "district_id": "610404", "name": "KENDAWANGAN KANAN"}, {"id": "6104042004", "district_id": "610404", "name": "PANGKALAN BATU"}, {"id": "6104042005", "district_id": "610404", "name": "BANGKAL SERAI"}, {"id": "6104042006", "district_id": "610404", "name": "AIR HITAM BESAR"}, {"id": "6104042007", "district_id": "610404", "name": "SUKA HARAPAN"}, {"id": "6104042008", "district_id": "610404", "name": "SUKA DAMAI"}, {"id": "6104042009", "district_id": "610404", "name": "SELIMANTAN JAYA"}, {"id": "6104042010", "district_id": "610404", "name": "DANAU BUNTAR"}, {"id": "6104042011", "district_id": "610404", "name": "MEKAR UTAMA"}, {"id": "6104042012", "district_id": "610404", "name": "PEMBEDILAN"}, {"id": "6104042013", "district_id": "610404", "name": "AIR HITAM HULU"}, {"id": "6104042014", "district_id": "610404", "name": "NATAI KUINI"}, {"id": "6104042015", "district_id": "610404", "name": "KERAMAT JAYA"}, {"id": "6104042016", "district_id": "610404", "name": "SERIAM"}, {"id": "6104042017", "district_id": "610404", "name": "KEDONDONG"}, {"id": "6104042018", "district_id": "610404", "name": "SUNGAI JELAYAN"}, {"id": "6104042019", "district_id": "610404", "name": "AIR TARAP"}]
+[
+  {
+    "id": "6104042001",
+    "district_id": "610404",
+    "name": "KENDAWANGAN KIRI"
+  },
+  {
+    "id": "6104042002",
+    "district_id": "610404",
+    "name": "BANJAR SARI"
+  },
+  {
+    "id": "6104042003",
+    "district_id": "610404",
+    "name": "KENDAWANGAN KANAN"
+  },
+  {
+    "id": "6104042004",
+    "district_id": "610404",
+    "name": "PANGKALAN BATU"
+  },
+  {
+    "id": "6104042005",
+    "district_id": "610404",
+    "name": "BANGKAL SERAI"
+  },
+  {
+    "id": "6104042006",
+    "district_id": "610404",
+    "name": "AIR HITAM BESAR"
+  },
+  {
+    "id": "6104042007",
+    "district_id": "610404",
+    "name": "SUKA HARAPAN"
+  },
+  {
+    "id": "6104042008",
+    "district_id": "610404",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "6104042009",
+    "district_id": "610404",
+    "name": "SELIMANTAN JAYA"
+  },
+  {
+    "id": "6104042010",
+    "district_id": "610404",
+    "name": "DANAU BUNTAR"
+  },
+  {
+    "id": "6104042011",
+    "district_id": "610404",
+    "name": "MEKAR UTAMA"
+  },
+  {
+    "id": "6104042012",
+    "district_id": "610404",
+    "name": "PEMBEDILAN"
+  },
+  {
+    "id": "6104042013",
+    "district_id": "610404",
+    "name": "AIR HITAM HULU"
+  },
+  {
+    "id": "6104042014",
+    "district_id": "610404",
+    "name": "NATAI KUINI"
+  },
+  {
+    "id": "6104042015",
+    "district_id": "610404",
+    "name": "KERAMAT JAYA"
+  },
+  {
+    "id": "6104042016",
+    "district_id": "610404",
+    "name": "SERIAM"
+  },
+  {
+    "id": "6104042017",
+    "district_id": "610404",
+    "name": "KEDONDONG"
+  },
+  {
+    "id": "6104042018",
+    "district_id": "610404",
+    "name": "SUNGAI JELAYAN"
+  },
+  {
+    "id": "6104042019",
+    "district_id": "610404",
+    "name": "AIR TARAP"
+  }
+]

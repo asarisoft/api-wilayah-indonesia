@@ -1,1 +1,57 @@
-[{"id": "3509092001", "district_id": "350909", "name": "CURAHKALONG"}, {"id": "3509092002", "district_id": "350909", "name": "GAMBIRONO"}, {"id": "3509092003", "district_id": "350909", "name": "BANGSALSARI"}, {"id": "3509092004", "district_id": "350909", "name": "TUGUSARI"}, {"id": "3509092005", "district_id": "350909", "name": "KARANGSONO"}, {"id": "3509092006", "district_id": "350909", "name": "SUKOREJO"}, {"id": "3509092007", "district_id": "350909", "name": "LANGKAP"}, {"id": "3509092008", "district_id": "350909", "name": "TISNOGAMBAR"}, {"id": "3509092009", "district_id": "350909", "name": "PETUNG"}, {"id": "3509092010", "district_id": "350909", "name": "BANJARSARI"}, {"id": "3509092011", "district_id": "350909", "name": "BADEAN"}]
+[
+  {
+    "id": "3509092001",
+    "district_id": "350909",
+    "name": "CURAHKALONG"
+  },
+  {
+    "id": "3509092002",
+    "district_id": "350909",
+    "name": "GAMBIRONO"
+  },
+  {
+    "id": "3509092003",
+    "district_id": "350909",
+    "name": "BANGSALSARI"
+  },
+  {
+    "id": "3509092004",
+    "district_id": "350909",
+    "name": "TUGUSARI"
+  },
+  {
+    "id": "3509092005",
+    "district_id": "350909",
+    "name": "KARANGSONO"
+  },
+  {
+    "id": "3509092006",
+    "district_id": "350909",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3509092007",
+    "district_id": "350909",
+    "name": "LANGKAP"
+  },
+  {
+    "id": "3509092008",
+    "district_id": "350909",
+    "name": "TISNOGAMBAR"
+  },
+  {
+    "id": "3509092009",
+    "district_id": "350909",
+    "name": "PETUNG"
+  },
+  {
+    "id": "3509092010",
+    "district_id": "350909",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3509092011",
+    "district_id": "350909",
+    "name": "BADEAN"
+  }
+]

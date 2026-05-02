@@ -1,1 +1,117 @@
-[{"id": "6101042001", "district_id": "610104", "name": "TEBAS KUALA"}, {"id": "6101042002", "district_id": "610104", "name": "TEBAS SUNGAI"}, {"id": "6101042003", "district_id": "610104", "name": "SEMPALAI"}, {"id": "6101042004", "district_id": "610104", "name": "BEKUT"}, {"id": "6101042005", "district_id": "610104", "name": "SEBERKAT"}, {"id": "6101042006", "district_id": "610104", "name": "SEJIRAM"}, {"id": "6101042007", "district_id": "610104", "name": "MAKRAMPAI"}, {"id": "6101042008", "district_id": "610104", "name": "MEKAR SEKUNTUM"}, {"id": "6101042009", "district_id": "610104", "name": "MENSERE"}, {"id": "6101042010", "district_id": "610104", "name": "PUSAKA"}, {"id": "6101042011", "district_id": "610104", "name": "SEGEDONG"}, {"id": "6101042012", "district_id": "610104", "name": "SUNGAI KELAMBU"}, {"id": "6101042013", "district_id": "610104", "name": "SERUMPUN BULUH"}, {"id": "6101042014", "district_id": "610104", "name": "PANGKALAN KONGSI"}, {"id": "6101042015", "district_id": "610104", "name": "DUNGUN PERAPAKAN"}, {"id": "6101042016", "district_id": "610104", "name": "BATU MAKJAGE"}, {"id": "6101042017", "district_id": "610104", "name": "SERINDANG"}, {"id": "6101042018", "district_id": "610104", "name": "BUKIT SIGOLER"}, {"id": "6101042019", "district_id": "610104", "name": "MATANG LABONG"}, {"id": "6101042020", "district_id": "610104", "name": "MAKTANGGUK"}, {"id": "6101042021", "district_id": "610104", "name": "SEGARAU PARIT"}, {"id": "6101042022", "district_id": "610104", "name": "MARIBAS"}, {"id": "6101042023", "district_id": "610104", "name": "SERET AYON"}]
+[
+  {
+    "id": "6101042001",
+    "district_id": "610104",
+    "name": "TEBAS KUALA"
+  },
+  {
+    "id": "6101042002",
+    "district_id": "610104",
+    "name": "TEBAS SUNGAI"
+  },
+  {
+    "id": "6101042003",
+    "district_id": "610104",
+    "name": "SEMPALAI"
+  },
+  {
+    "id": "6101042004",
+    "district_id": "610104",
+    "name": "BEKUT"
+  },
+  {
+    "id": "6101042005",
+    "district_id": "610104",
+    "name": "SEBERKAT"
+  },
+  {
+    "id": "6101042006",
+    "district_id": "610104",
+    "name": "SEJIRAM"
+  },
+  {
+    "id": "6101042007",
+    "district_id": "610104",
+    "name": "MAKRAMPAI"
+  },
+  {
+    "id": "6101042008",
+    "district_id": "610104",
+    "name": "MEKAR SEKUNTUM"
+  },
+  {
+    "id": "6101042009",
+    "district_id": "610104",
+    "name": "MENSERE"
+  },
+  {
+    "id": "6101042010",
+    "district_id": "610104",
+    "name": "PUSAKA"
+  },
+  {
+    "id": "6101042011",
+    "district_id": "610104",
+    "name": "SEGEDONG"
+  },
+  {
+    "id": "6101042012",
+    "district_id": "610104",
+    "name": "SUNGAI KELAMBU"
+  },
+  {
+    "id": "6101042013",
+    "district_id": "610104",
+    "name": "SERUMPUN BULUH"
+  },
+  {
+    "id": "6101042014",
+    "district_id": "610104",
+    "name": "PANGKALAN KONGSI"
+  },
+  {
+    "id": "6101042015",
+    "district_id": "610104",
+    "name": "DUNGUN PERAPAKAN"
+  },
+  {
+    "id": "6101042016",
+    "district_id": "610104",
+    "name": "BATU MAKJAGE"
+  },
+  {
+    "id": "6101042017",
+    "district_id": "610104",
+    "name": "SERINDANG"
+  },
+  {
+    "id": "6101042018",
+    "district_id": "610104",
+    "name": "BUKIT SIGOLER"
+  },
+  {
+    "id": "6101042019",
+    "district_id": "610104",
+    "name": "MATANG LABONG"
+  },
+  {
+    "id": "6101042020",
+    "district_id": "610104",
+    "name": "MAKTANGGUK"
+  },
+  {
+    "id": "6101042021",
+    "district_id": "610104",
+    "name": "SEGARAU PARIT"
+  },
+  {
+    "id": "6101042022",
+    "district_id": "610104",
+    "name": "MARIBAS"
+  },
+  {
+    "id": "6101042023",
+    "district_id": "610104",
+    "name": "SERET AYON"
+  }
+]

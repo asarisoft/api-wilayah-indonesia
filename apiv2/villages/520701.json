@@ -1,1 +1,22 @@
-[{"id": "5207012001", "district_id": "520701", "name": "GOA"}, {"id": "5207012002", "district_id": "520701", "name": "BELO"}, {"id": "5207012003", "district_id": "520701", "name": "BERU"}, {"id": "5207012009", "district_id": "520701", "name": "DASAN ANYAR"}]
+[
+  {
+    "id": "5207012001",
+    "district_id": "520701",
+    "name": "GOA"
+  },
+  {
+    "id": "5207012002",
+    "district_id": "520701",
+    "name": "BELO"
+  },
+  {
+    "id": "5207012003",
+    "district_id": "520701",
+    "name": "BERU"
+  },
+  {
+    "id": "5207012009",
+    "district_id": "520701",
+    "name": "DASAN ANYAR"
+  }
+]

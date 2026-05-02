@@ -1,1 +1,82 @@
-[{"id": "121201", "regency_id": "1212", "name": "BALIGE"}, {"id": "121202", "regency_id": "1212", "name": "LAGUBOTI"}, {"id": "121203", "regency_id": "1212", "name": "SILAEN"}, {"id": "121204", "regency_id": "1212", "name": "HABINSARAN"}, {"id": "121205", "regency_id": "1212", "name": "PINTU POHAN MERANTI"}, {"id": "121206", "regency_id": "1212", "name": "BORBOR"}, {"id": "121207", "regency_id": "1212", "name": "PORSEA"}, {"id": "121208", "regency_id": "1212", "name": "AJIBATA"}, {"id": "121209", "regency_id": "1212", "name": "LUMBAN JULU"}, {"id": "121210", "regency_id": "1212", "name": "ULUAN"}, {"id": "121219", "regency_id": "1212", "name": "SIGUMPAR"}, {"id": "121220", "regency_id": "1212", "name": "SIANTAR NARUMONDA"}, {"id": "121221", "regency_id": "1212", "name": "NASSAU"}, {"id": "121222", "regency_id": "1212", "name": "TAMPAHAN"}, {"id": "121223", "regency_id": "1212", "name": "BONATUA LUNASI"}, {"id": "121224", "regency_id": "1212", "name": "PARMAKSIAN"}]
+[
+  {
+    "id": "121201",
+    "regency_id": "1212",
+    "name": "BALIGE"
+  },
+  {
+    "id": "121202",
+    "regency_id": "1212",
+    "name": "LAGUBOTI"
+  },
+  {
+    "id": "121203",
+    "regency_id": "1212",
+    "name": "SILAEN"
+  },
+  {
+    "id": "121204",
+    "regency_id": "1212",
+    "name": "HABINSARAN"
+  },
+  {
+    "id": "121205",
+    "regency_id": "1212",
+    "name": "PINTU POHAN MERANTI"
+  },
+  {
+    "id": "121206",
+    "regency_id": "1212",
+    "name": "BORBOR"
+  },
+  {
+    "id": "121207",
+    "regency_id": "1212",
+    "name": "PORSEA"
+  },
+  {
+    "id": "121208",
+    "regency_id": "1212",
+    "name": "AJIBATA"
+  },
+  {
+    "id": "121209",
+    "regency_id": "1212",
+    "name": "LUMBAN JULU"
+  },
+  {
+    "id": "121210",
+    "regency_id": "1212",
+    "name": "ULUAN"
+  },
+  {
+    "id": "121219",
+    "regency_id": "1212",
+    "name": "SIGUMPAR"
+  },
+  {
+    "id": "121220",
+    "regency_id": "1212",
+    "name": "SIANTAR NARUMONDA"
+  },
+  {
+    "id": "121221",
+    "regency_id": "1212",
+    "name": "NASSAU"
+  },
+  {
+    "id": "121222",
+    "regency_id": "1212",
+    "name": "TAMPAHAN"
+  },
+  {
+    "id": "121223",
+    "regency_id": "1212",
+    "name": "BONATUA LUNASI"
+  },
+  {
+    "id": "121224",
+    "regency_id": "1212",
+    "name": "PARMAKSIAN"
+  }
+]

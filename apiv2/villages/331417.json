@@ -1,1 +1,47 @@
-[{"id": "3314172001", "district_id": "331417", "name": "NEWUNG"}, {"id": "3314172002", "district_id": "331417", "name": "JATITENGAH"}, {"id": "3314172003", "district_id": "331417", "name": "BENDO"}, {"id": "3314172004", "district_id": "331417", "name": "JUWOK"}, {"id": "3314172005", "district_id": "331417", "name": "PANTIREJO"}, {"id": "3314172006", "district_id": "331417", "name": "MAJENANG"}, {"id": "3314172007", "district_id": "331417", "name": "KARANGANOM"}, {"id": "3314172008", "district_id": "331417", "name": "GEBANG"}, {"id": "3314172009", "district_id": "331417", "name": "BALEHARJO"}]
+[
+  {
+    "id": "3314172001",
+    "district_id": "331417",
+    "name": "NEWUNG"
+  },
+  {
+    "id": "3314172002",
+    "district_id": "331417",
+    "name": "JATITENGAH"
+  },
+  {
+    "id": "3314172003",
+    "district_id": "331417",
+    "name": "BENDO"
+  },
+  {
+    "id": "3314172004",
+    "district_id": "331417",
+    "name": "JUWOK"
+  },
+  {
+    "id": "3314172005",
+    "district_id": "331417",
+    "name": "PANTIREJO"
+  },
+  {
+    "id": "3314172006",
+    "district_id": "331417",
+    "name": "MAJENANG"
+  },
+  {
+    "id": "3314172007",
+    "district_id": "331417",
+    "name": "KARANGANOM"
+  },
+  {
+    "id": "3314172008",
+    "district_id": "331417",
+    "name": "GEBANG"
+  },
+  {
+    "id": "3314172009",
+    "district_id": "331417",
+    "name": "BALEHARJO"
+  }
+]

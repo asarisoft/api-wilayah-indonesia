@@ -1,1 +1,102 @@
-[{"id": "1610041030", "district_id": "161004", "name": "INDRALAYA RAYA"}, {"id": "1610041031", "district_id": "161004", "name": "INDRALAYA INDAH"}, {"id": "1610041032", "district_id": "161004", "name": "INDRALAYA MULIA"}, {"id": "1610042005", "district_id": "161004", "name": "LUBUK SAKTI"}, {"id": "1610042006", "district_id": "161004", "name": "TANJUNG GELAM"}, {"id": "1610042007", "district_id": "161004", "name": "TANJUNG AGUNG"}, {"id": "1610042008", "district_id": "161004", "name": "TANJUNG SEJARO"}, {"id": "1610042009", "district_id": "161004", "name": "SAKATIGA SEBERANG"}, {"id": "1610042010", "district_id": "161004", "name": "MUARA P. ULU"}, {"id": "1610042012", "district_id": "161004", "name": "TANJUNG SETEKO"}, {"id": "1610042013", "district_id": "161004", "name": "SAKA TIGA"}, {"id": "1610042014", "district_id": "161004", "name": "ULAK BANDING"}, {"id": "1610042015", "district_id": "161004", "name": "MUARA P. ILIR"}, {"id": "1610042016", "district_id": "161004", "name": "TALANG AUR"}, {"id": "1610042017", "district_id": "161004", "name": "ULAK BEDIL"}, {"id": "1610042018", "district_id": "161004", "name": "PENYANDINGAN"}, {"id": "1610042019", "district_id": "161004", "name": "SUDIMAMPIR"}, {"id": "1610042027", "district_id": "161004", "name": "ULAK SEGELUNG"}, {"id": "1610042028", "district_id": "161004", "name": "SEJARO SAKTI"}, {"id": "1610042029", "district_id": "161004", "name": "TUNAS AUR"}]
+[
+  {
+    "id": "1610041030",
+    "district_id": "161004",
+    "name": "INDRALAYA RAYA"
+  },
+  {
+    "id": "1610041031",
+    "district_id": "161004",
+    "name": "INDRALAYA INDAH"
+  },
+  {
+    "id": "1610041032",
+    "district_id": "161004",
+    "name": "INDRALAYA MULIA"
+  },
+  {
+    "id": "1610042005",
+    "district_id": "161004",
+    "name": "LUBUK SAKTI"
+  },
+  {
+    "id": "1610042006",
+    "district_id": "161004",
+    "name": "TANJUNG GELAM"
+  },
+  {
+    "id": "1610042007",
+    "district_id": "161004",
+    "name": "TANJUNG AGUNG"
+  },
+  {
+    "id": "1610042008",
+    "district_id": "161004",
+    "name": "TANJUNG SEJARO"
+  },
+  {
+    "id": "1610042009",
+    "district_id": "161004",
+    "name": "SAKATIGA SEBERANG"
+  },
+  {
+    "id": "1610042010",
+    "district_id": "161004",
+    "name": "MUARA P. ULU"
+  },
+  {
+    "id": "1610042012",
+    "district_id": "161004",
+    "name": "TANJUNG SETEKO"
+  },
+  {
+    "id": "1610042013",
+    "district_id": "161004",
+    "name": "SAKA TIGA"
+  },
+  {
+    "id": "1610042014",
+    "district_id": "161004",
+    "name": "ULAK BANDING"
+  },
+  {
+    "id": "1610042015",
+    "district_id": "161004",
+    "name": "MUARA P. ILIR"
+  },
+  {
+    "id": "1610042016",
+    "district_id": "161004",
+    "name": "TALANG AUR"
+  },
+  {
+    "id": "1610042017",
+    "district_id": "161004",
+    "name": "ULAK BEDIL"
+  },
+  {
+    "id": "1610042018",
+    "district_id": "161004",
+    "name": "PENYANDINGAN"
+  },
+  {
+    "id": "1610042019",
+    "district_id": "161004",
+    "name": "SUDIMAMPIR"
+  },
+  {
+    "id": "1610042027",
+    "district_id": "161004",
+    "name": "ULAK SEGELUNG"
+  },
+  {
+    "id": "1610042028",
+    "district_id": "161004",
+    "name": "SEJARO SAKTI"
+  },
+  {
+    "id": "1610042029",
+    "district_id": "161004",
+    "name": "TUNAS AUR"
+  }
+]

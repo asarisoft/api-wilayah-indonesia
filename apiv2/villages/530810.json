@@ -1,1 +1,67 @@
-[{"id": "5308102001", "district_id": "530810", "name": "MAUROLE"}, {"id": "5308102003", "district_id": "530810", "name": "AEWORA"}, {"id": "5308102005", "district_id": "530810", "name": "MAUSAMBI"}, {"id": "5308102006", "district_id": "530810", "name": "RANAKOLO"}, {"id": "5308102007", "district_id": "530810", "name": "WATUKAMBA"}, {"id": "5308102008", "district_id": "530810", "name": "RANAKOLO SELATAN"}, {"id": "5308102009", "district_id": "530810", "name": "KELIWUMBU"}, {"id": "5308102018", "district_id": "530810", "name": "DETUWULU"}, {"id": "5308102019", "district_id": "530810", "name": "OTOGEDU"}, {"id": "5308102020", "district_id": "530810", "name": "WOLOAU"}, {"id": "5308102021", "district_id": "530810", "name": "NGALUKOJA"}, {"id": "5308102022", "district_id": "530810", "name": "NIRANUSA"}, {"id": "5308102023", "district_id": "530810", "name": "ULUDALA"}]
+[
+  {
+    "id": "5308102001",
+    "district_id": "530810",
+    "name": "MAUROLE"
+  },
+  {
+    "id": "5308102003",
+    "district_id": "530810",
+    "name": "AEWORA"
+  },
+  {
+    "id": "5308102005",
+    "district_id": "530810",
+    "name": "MAUSAMBI"
+  },
+  {
+    "id": "5308102006",
+    "district_id": "530810",
+    "name": "RANAKOLO"
+  },
+  {
+    "id": "5308102007",
+    "district_id": "530810",
+    "name": "WATUKAMBA"
+  },
+  {
+    "id": "5308102008",
+    "district_id": "530810",
+    "name": "RANAKOLO SELATAN"
+  },
+  {
+    "id": "5308102009",
+    "district_id": "530810",
+    "name": "KELIWUMBU"
+  },
+  {
+    "id": "5308102018",
+    "district_id": "530810",
+    "name": "DETUWULU"
+  },
+  {
+    "id": "5308102019",
+    "district_id": "530810",
+    "name": "OTOGEDU"
+  },
+  {
+    "id": "5308102020",
+    "district_id": "530810",
+    "name": "WOLOAU"
+  },
+  {
+    "id": "5308102021",
+    "district_id": "530810",
+    "name": "NGALUKOJA"
+  },
+  {
+    "id": "5308102022",
+    "district_id": "530810",
+    "name": "NIRANUSA"
+  },
+  {
+    "id": "5308102023",
+    "district_id": "530810",
+    "name": "ULUDALA"
+  }
+]

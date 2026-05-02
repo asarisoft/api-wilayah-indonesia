@@ -1,1 +1,52 @@
-[{"id": "1219102001", "district_id": "121910", "name": "PERKEBUNAN TANAH ITAM ULU"}, {"id": "1219102002", "district_id": "121910", "name": "EMPAT NEGERI"}, {"id": "1219102003", "district_id": "121910", "name": "SUMBER REJO"}, {"id": "1219102004", "district_id": "121910", "name": "LUBUK HULU"}, {"id": "1219102005", "district_id": "121910", "name": "LUBUK BESAR"}, {"id": "1219102006", "district_id": "121910", "name": "PULAU SEJUK"}, {"id": "1219102007", "district_id": "121910", "name": "SIMPANG DOLOK"}, {"id": "1219102008", "district_id": "121910", "name": "AIR HITAM"}, {"id": "1219102009", "district_id": "121910", "name": "KWALA GUNUNG"}, {"id": "1219102010", "district_id": "121910", "name": "CAHAYA PARDOMUAN"}]
+[
+  {
+    "id": "1219102001",
+    "district_id": "121910",
+    "name": "PERKEBUNAN TANAH ITAM ULU"
+  },
+  {
+    "id": "1219102002",
+    "district_id": "121910",
+    "name": "EMPAT NEGERI"
+  },
+  {
+    "id": "1219102003",
+    "district_id": "121910",
+    "name": "SUMBER REJO"
+  },
+  {
+    "id": "1219102004",
+    "district_id": "121910",
+    "name": "LUBUK HULU"
+  },
+  {
+    "id": "1219102005",
+    "district_id": "121910",
+    "name": "LUBUK BESAR"
+  },
+  {
+    "id": "1219102006",
+    "district_id": "121910",
+    "name": "PULAU SEJUK"
+  },
+  {
+    "id": "1219102007",
+    "district_id": "121910",
+    "name": "SIMPANG DOLOK"
+  },
+  {
+    "id": "1219102008",
+    "district_id": "121910",
+    "name": "AIR HITAM"
+  },
+  {
+    "id": "1219102009",
+    "district_id": "121910",
+    "name": "KWALA GUNUNG"
+  },
+  {
+    "id": "1219102010",
+    "district_id": "121910",
+    "name": "CAHAYA PARDOMUAN"
+  }
+]

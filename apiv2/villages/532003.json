@@ -1,1 +1,52 @@
-[{"id": "5320031001", "district_id": "532003", "name": "BOLOU"}, {"id": "5320031002", "district_id": "532003", "name": "LIMAGGU"}, {"id": "5320032003", "district_id": "532003", "name": "LOBODEI"}, {"id": "5320032004", "district_id": "532003", "name": "BODAE"}, {"id": "5320032005", "district_id": "532003", "name": "KEDURU"}, {"id": "5320032006", "district_id": "532003", "name": "KUJI RATU"}, {"id": "5320032007", "district_id": "532003", "name": "LOBORAI"}, {"id": "5320032008", "district_id": "532003", "name": "HUWAGA"}, {"id": "5320032009", "district_id": "532003", "name": "EIADA"}, {"id": "5320032010", "district_id": "532003", "name": "KELIHA"}]
+[
+  {
+    "id": "5320031001",
+    "district_id": "532003",
+    "name": "BOLOU"
+  },
+  {
+    "id": "5320031002",
+    "district_id": "532003",
+    "name": "LIMAGGU"
+  },
+  {
+    "id": "5320032003",
+    "district_id": "532003",
+    "name": "LOBODEI"
+  },
+  {
+    "id": "5320032004",
+    "district_id": "532003",
+    "name": "BODAE"
+  },
+  {
+    "id": "5320032005",
+    "district_id": "532003",
+    "name": "KEDURU"
+  },
+  {
+    "id": "5320032006",
+    "district_id": "532003",
+    "name": "KUJI RATU"
+  },
+  {
+    "id": "5320032007",
+    "district_id": "532003",
+    "name": "LOBORAI"
+  },
+  {
+    "id": "5320032008",
+    "district_id": "532003",
+    "name": "HUWAGA"
+  },
+  {
+    "id": "5320032009",
+    "district_id": "532003",
+    "name": "EIADA"
+  },
+  {
+    "id": "5320032010",
+    "district_id": "532003",
+    "name": "KELIHA"
+  }
+]

@@ -1,1 +1,87 @@
-[{"id": "3516102001", "district_id": "351610", "name": "PACING"}, {"id": "3516102002", "district_id": "351610", "name": "SUMBERWONO"}, {"id": "3516102003", "district_id": "351610", "name": "KEDUNGUNENG"}, {"id": "3516102004", "district_id": "351610", "name": "KUTOPORONG"}, {"id": "3516102005", "district_id": "351610", "name": "NGASTEMI"}, {"id": "3516102006", "district_id": "351610", "name": "PETERONGAN"}, {"id": "3516102007", "district_id": "351610", "name": "BANGSAL"}, {"id": "3516102008", "district_id": "351610", "name": "SUMBERTEBU"}, {"id": "3516102009", "district_id": "351610", "name": "SIDOMULYO"}, {"id": "3516102010", "district_id": "351610", "name": "GAYAM"}, {"id": "3516102011", "district_id": "351610", "name": "TINGGARBUNTUT"}, {"id": "3516102012", "district_id": "351610", "name": "PEKUWON"}, {"id": "3516102013", "district_id": "351610", "name": "SALEN"}, {"id": "3516102014", "district_id": "351610", "name": "MEJOYO"}, {"id": "3516102015", "district_id": "351610", "name": "NGROWO"}, {"id": "3516102016", "district_id": "351610", "name": "PULONITI"}, {"id": "3516102017", "district_id": "351610", "name": "MOJOTAMPING"}]
+[
+  {
+    "id": "3516102001",
+    "district_id": "351610",
+    "name": "PACING"
+  },
+  {
+    "id": "3516102002",
+    "district_id": "351610",
+    "name": "SUMBERWONO"
+  },
+  {
+    "id": "3516102003",
+    "district_id": "351610",
+    "name": "KEDUNGUNENG"
+  },
+  {
+    "id": "3516102004",
+    "district_id": "351610",
+    "name": "KUTOPORONG"
+  },
+  {
+    "id": "3516102005",
+    "district_id": "351610",
+    "name": "NGASTEMI"
+  },
+  {
+    "id": "3516102006",
+    "district_id": "351610",
+    "name": "PETERONGAN"
+  },
+  {
+    "id": "3516102007",
+    "district_id": "351610",
+    "name": "BANGSAL"
+  },
+  {
+    "id": "3516102008",
+    "district_id": "351610",
+    "name": "SUMBERTEBU"
+  },
+  {
+    "id": "3516102009",
+    "district_id": "351610",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3516102010",
+    "district_id": "351610",
+    "name": "GAYAM"
+  },
+  {
+    "id": "3516102011",
+    "district_id": "351610",
+    "name": "TINGGARBUNTUT"
+  },
+  {
+    "id": "3516102012",
+    "district_id": "351610",
+    "name": "PEKUWON"
+  },
+  {
+    "id": "3516102013",
+    "district_id": "351610",
+    "name": "SALEN"
+  },
+  {
+    "id": "3516102014",
+    "district_id": "351610",
+    "name": "MEJOYO"
+  },
+  {
+    "id": "3516102015",
+    "district_id": "351610",
+    "name": "NGROWO"
+  },
+  {
+    "id": "3516102016",
+    "district_id": "351610",
+    "name": "PULONITI"
+  },
+  {
+    "id": "3516102017",
+    "district_id": "351610",
+    "name": "MOJOTAMPING"
+  }
+]

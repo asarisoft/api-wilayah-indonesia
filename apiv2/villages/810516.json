@@ -1,1 +1,52 @@
-[{"id": "8105162001", "district_id": "810516", "name": "URUNG"}, {"id": "8105162002", "district_id": "810516", "name": "KWAMOR KECIL MATA ATA"}, {"id": "8105162003", "district_id": "810516", "name": "KWAMOR KECIL MATA WAWA"}, {"id": "8105162004", "district_id": "810516", "name": "KWAMOR BESAR ENA"}, {"id": "8105162005", "district_id": "810516", "name": "KWAMOR BESAR WITAU"}, {"id": "8105162006", "district_id": "810516", "name": "GULI-GULI"}, {"id": "8105162007", "district_id": "810516", "name": "MANGGIS"}, {"id": "8105162008", "district_id": "810516", "name": "AINENA"}, {"id": "8105162009", "district_id": "810516", "name": "MUGUSINIS"}, {"id": "8105162010", "district_id": "810516", "name": "AKAT FADEDO"}]
+[
+  {
+    "id": "8105162001",
+    "district_id": "810516",
+    "name": "URUNG"
+  },
+  {
+    "id": "8105162002",
+    "district_id": "810516",
+    "name": "KWAMOR KECIL MATA ATA"
+  },
+  {
+    "id": "8105162003",
+    "district_id": "810516",
+    "name": "KWAMOR KECIL MATA WAWA"
+  },
+  {
+    "id": "8105162004",
+    "district_id": "810516",
+    "name": "KWAMOR BESAR ENA"
+  },
+  {
+    "id": "8105162005",
+    "district_id": "810516",
+    "name": "KWAMOR BESAR WITAU"
+  },
+  {
+    "id": "8105162006",
+    "district_id": "810516",
+    "name": "GULI-GULI"
+  },
+  {
+    "id": "8105162007",
+    "district_id": "810516",
+    "name": "MANGGIS"
+  },
+  {
+    "id": "8105162008",
+    "district_id": "810516",
+    "name": "AINENA"
+  },
+  {
+    "id": "8105162009",
+    "district_id": "810516",
+    "name": "MUGUSINIS"
+  },
+  {
+    "id": "8105162010",
+    "district_id": "810516",
+    "name": "AKAT FADEDO"
+  }
+]

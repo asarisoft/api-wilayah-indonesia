@@ -1,1 +1,77 @@
-[{"id": "3325072005", "district_id": "332507", "name": "SURODADI"}, {"id": "3325072006", "district_id": "332507", "name": "SENTUL"}, {"id": "3325072007", "district_id": "332507", "name": "PLELEN"}, {"id": "3325072008", "district_id": "332507", "name": "KUTOSARI"}, {"id": "3325072009", "district_id": "332507", "name": "MENTOSARI"}, {"id": "3325072010", "district_id": "332507", "name": "GRINGSING"}, {"id": "3325072011", "district_id": "332507", "name": "YOSOREJO"}, {"id": "3325072012", "district_id": "332507", "name": "KRENGSENG"}, {"id": "3325072013", "district_id": "332507", "name": "SAWANGAN"}, {"id": "3325072014", "district_id": "332507", "name": "KETANGGAN"}, {"id": "3325072015", "district_id": "332507", "name": "LEBO"}, {"id": "3325072016", "district_id": "332507", "name": "KEBONDALEM"}, {"id": "3325072017", "district_id": "332507", "name": "SIDOREJO"}, {"id": "3325072018", "district_id": "332507", "name": "TEDUNAN"}, {"id": "3325072019", "district_id": "332507", "name": "MADUGOWONGJATI"}]
+[
+  {
+    "id": "3325072005",
+    "district_id": "332507",
+    "name": "SURODADI"
+  },
+  {
+    "id": "3325072006",
+    "district_id": "332507",
+    "name": "SENTUL"
+  },
+  {
+    "id": "3325072007",
+    "district_id": "332507",
+    "name": "PLELEN"
+  },
+  {
+    "id": "3325072008",
+    "district_id": "332507",
+    "name": "KUTOSARI"
+  },
+  {
+    "id": "3325072009",
+    "district_id": "332507",
+    "name": "MENTOSARI"
+  },
+  {
+    "id": "3325072010",
+    "district_id": "332507",
+    "name": "GRINGSING"
+  },
+  {
+    "id": "3325072011",
+    "district_id": "332507",
+    "name": "YOSOREJO"
+  },
+  {
+    "id": "3325072012",
+    "district_id": "332507",
+    "name": "KRENGSENG"
+  },
+  {
+    "id": "3325072013",
+    "district_id": "332507",
+    "name": "SAWANGAN"
+  },
+  {
+    "id": "3325072014",
+    "district_id": "332507",
+    "name": "KETANGGAN"
+  },
+  {
+    "id": "3325072015",
+    "district_id": "332507",
+    "name": "LEBO"
+  },
+  {
+    "id": "3325072016",
+    "district_id": "332507",
+    "name": "KEBONDALEM"
+  },
+  {
+    "id": "3325072017",
+    "district_id": "332507",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3325072018",
+    "district_id": "332507",
+    "name": "TEDUNAN"
+  },
+  {
+    "id": "3325072019",
+    "district_id": "332507",
+    "name": "MADUGOWONGJATI"
+  }
+]

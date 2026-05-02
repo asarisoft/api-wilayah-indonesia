@@ -1,1 +1,47 @@
-[{"id": "3304202001", "district_id": "330420", "name": "PAGEDONGAN"}, {"id": "3304202002", "district_id": "330420", "name": "GUNUNGJATI"}, {"id": "3304202003", "district_id": "330420", "name": "TWELAGIRI"}, {"id": "3304202004", "district_id": "330420", "name": "KEBUTUHDUWUR"}, {"id": "3304202005", "district_id": "330420", "name": "KEBUTUHJURANG"}, {"id": "3304202006", "district_id": "330420", "name": "PESANGKALAN"}, {"id": "3304202007", "district_id": "330420", "name": "DUREN"}, {"id": "3304202008", "district_id": "330420", "name": "LEBAKWANGI"}, {"id": "3304202009", "district_id": "330420", "name": "GENTANSARI"}]
+[
+  {
+    "id": "3304202001",
+    "district_id": "330420",
+    "name": "PAGEDONGAN"
+  },
+  {
+    "id": "3304202002",
+    "district_id": "330420",
+    "name": "GUNUNGJATI"
+  },
+  {
+    "id": "3304202003",
+    "district_id": "330420",
+    "name": "TWELAGIRI"
+  },
+  {
+    "id": "3304202004",
+    "district_id": "330420",
+    "name": "KEBUTUHDUWUR"
+  },
+  {
+    "id": "3304202005",
+    "district_id": "330420",
+    "name": "KEBUTUHJURANG"
+  },
+  {
+    "id": "3304202006",
+    "district_id": "330420",
+    "name": "PESANGKALAN"
+  },
+  {
+    "id": "3304202007",
+    "district_id": "330420",
+    "name": "DUREN"
+  },
+  {
+    "id": "3304202008",
+    "district_id": "330420",
+    "name": "LEBAKWANGI"
+  },
+  {
+    "id": "3304202009",
+    "district_id": "330420",
+    "name": "GENTANSARI"
+  }
+]

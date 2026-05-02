@@ -1,1 +1,52 @@
-[{"id": "1506021004", "district_id": "150602", "name": "TUNGKAL EMPAT KOTA"}, {"id": "1506021005", "district_id": "150602", "name": "TUNGKAL III"}, {"id": "1506021006", "district_id": "150602", "name": "TUNGKAL HARAPAN"}, {"id": "1506021007", "district_id": "150602", "name": "TUNGKAL II"}, {"id": "1506021015", "district_id": "150602", "name": "KAMPUNG NELAYAN"}, {"id": "1506021016", "district_id": "150602", "name": "PATUNAS"}, {"id": "1506021017", "district_id": "150602", "name": "SRIWIJAYA"}, {"id": "1506021018", "district_id": "150602", "name": "SUNGAINIBUNG"}, {"id": "1506022003", "district_id": "150602", "name": "TUNGKAL I"}, {"id": "1506022014", "district_id": "150602", "name": "TELUK SIALANG"}]
+[
+  {
+    "id": "1506021004",
+    "district_id": "150602",
+    "name": "TUNGKAL EMPAT KOTA"
+  },
+  {
+    "id": "1506021005",
+    "district_id": "150602",
+    "name": "TUNGKAL III"
+  },
+  {
+    "id": "1506021006",
+    "district_id": "150602",
+    "name": "TUNGKAL HARAPAN"
+  },
+  {
+    "id": "1506021007",
+    "district_id": "150602",
+    "name": "TUNGKAL II"
+  },
+  {
+    "id": "1506021015",
+    "district_id": "150602",
+    "name": "KAMPUNG NELAYAN"
+  },
+  {
+    "id": "1506021016",
+    "district_id": "150602",
+    "name": "PATUNAS"
+  },
+  {
+    "id": "1506021017",
+    "district_id": "150602",
+    "name": "SRIWIJAYA"
+  },
+  {
+    "id": "1506021018",
+    "district_id": "150602",
+    "name": "SUNGAINIBUNG"
+  },
+  {
+    "id": "1506022003",
+    "district_id": "150602",
+    "name": "TUNGKAL I"
+  },
+  {
+    "id": "1506022014",
+    "district_id": "150602",
+    "name": "TELUK SIALANG"
+  }
+]

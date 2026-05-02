@@ -1,1 +1,42 @@
-[{"id": "1673061001", "district_id": "167306", "name": "SIDOREJO"}, {"id": "1673061002", "district_id": "167306", "name": "ULAK LEBAR"}, {"id": "1673061003", "district_id": "167306", "name": "TAPAK LEBAR"}, {"id": "1673061004", "district_id": "167306", "name": "BANDUNG KANAN"}, {"id": "1673061005", "district_id": "167306", "name": "KEPUTRAAN"}, {"id": "1673061006", "district_id": "167306", "name": "LUBUKLINGGAU ILIR"}, {"id": "1673061007", "district_id": "167306", "name": "LUBUKLINGGAU ULU"}, {"id": "1673061008", "district_id": "167306", "name": "PASAR PERMIRI"}]
+[
+  {
+    "id": "1673061001",
+    "district_id": "167306",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "1673061002",
+    "district_id": "167306",
+    "name": "ULAK LEBAR"
+  },
+  {
+    "id": "1673061003",
+    "district_id": "167306",
+    "name": "TAPAK LEBAR"
+  },
+  {
+    "id": "1673061004",
+    "district_id": "167306",
+    "name": "BANDUNG KANAN"
+  },
+  {
+    "id": "1673061005",
+    "district_id": "167306",
+    "name": "KEPUTRAAN"
+  },
+  {
+    "id": "1673061006",
+    "district_id": "167306",
+    "name": "LUBUKLINGGAU ILIR"
+  },
+  {
+    "id": "1673061007",
+    "district_id": "167306",
+    "name": "LUBUKLINGGAU ULU"
+  },
+  {
+    "id": "1673061008",
+    "district_id": "167306",
+    "name": "PASAR PERMIRI"
+  }
+]

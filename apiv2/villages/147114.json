@@ -1,1 +1,27 @@
-[{"id": "1471141001", "district_id": "147114", "name": "KULIM"}, {"id": "1471141002", "district_id": "147114", "name": "MENTANGOR"}, {"id": "1471141003", "district_id": "147114", "name": "SIALANGRAMPAI"}, {"id": "1471141004", "district_id": "147114", "name": "PEBATUAN"}, {"id": "1471141005", "district_id": "147114", "name": "PEMATANGKAPAU"}]
+[
+  {
+    "id": "1471141001",
+    "district_id": "147114",
+    "name": "KULIM"
+  },
+  {
+    "id": "1471141002",
+    "district_id": "147114",
+    "name": "MENTANGOR"
+  },
+  {
+    "id": "1471141003",
+    "district_id": "147114",
+    "name": "SIALANGRAMPAI"
+  },
+  {
+    "id": "1471141004",
+    "district_id": "147114",
+    "name": "PEBATUAN"
+  },
+  {
+    "id": "1471141005",
+    "district_id": "147114",
+    "name": "PEMATANGKAPAU"
+  }
+]

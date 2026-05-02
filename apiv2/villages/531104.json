@@ -1,1 +1,42 @@
-[{"id": "5311042001", "district_id": "531104", "name": "MAKAMENGGIT"}, {"id": "5311042002", "district_id": "531104", "name": "TANDULA JANGGA"}, {"id": "5311042003", "district_id": "531104", "name": "PRAIPAHA"}, {"id": "5311042004", "district_id": "531104", "name": "PRAIHAMBULI"}, {"id": "5311042005", "district_id": "531104", "name": "PULU PANJANG"}, {"id": "5311042010", "district_id": "531104", "name": "PRAIKARANG"}, {"id": "5311042011", "district_id": "531104", "name": "TANATUKU"}, {"id": "5311042012", "district_id": "531104", "name": "NGADULANGGI"}]
+[
+  {
+    "id": "5311042001",
+    "district_id": "531104",
+    "name": "MAKAMENGGIT"
+  },
+  {
+    "id": "5311042002",
+    "district_id": "531104",
+    "name": "TANDULA JANGGA"
+  },
+  {
+    "id": "5311042003",
+    "district_id": "531104",
+    "name": "PRAIPAHA"
+  },
+  {
+    "id": "5311042004",
+    "district_id": "531104",
+    "name": "PRAIHAMBULI"
+  },
+  {
+    "id": "5311042005",
+    "district_id": "531104",
+    "name": "PULU PANJANG"
+  },
+  {
+    "id": "5311042010",
+    "district_id": "531104",
+    "name": "PRAIKARANG"
+  },
+  {
+    "id": "5311042011",
+    "district_id": "531104",
+    "name": "TANATUKU"
+  },
+  {
+    "id": "5311042012",
+    "district_id": "531104",
+    "name": "NGADULANGGI"
+  }
+]

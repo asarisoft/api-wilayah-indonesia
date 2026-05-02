@@ -1,1 +1,67 @@
-[{"id": "5302112001", "district_id": "530211", "name": "OLAIS"}, {"id": "5302112002", "district_id": "530211", "name": "LASI"}, {"id": "5302112003", "district_id": "530211", "name": "KAKAN"}, {"id": "5302112005", "district_id": "530211", "name": "BASMUTI"}, {"id": "5302112006", "district_id": "530211", "name": "KUSI"}, {"id": "5302112007", "district_id": "530211", "name": "KUANFATU"}, {"id": "5302112008", "district_id": "530211", "name": "KELLE"}, {"id": "5302112009", "district_id": "530211", "name": "TAUPI"}, {"id": "5302112010", "district_id": "530211", "name": "OEBO"}, {"id": "5302112011", "district_id": "530211", "name": "KUSI UTARA"}, {"id": "5302112012", "district_id": "530211", "name": "KELLE TUNAN"}, {"id": "5302112013", "district_id": "530211", "name": "NOEBEBA"}, {"id": "5302112014", "district_id": "530211", "name": "OEHAN"}]
+[
+  {
+    "id": "5302112001",
+    "district_id": "530211",
+    "name": "OLAIS"
+  },
+  {
+    "id": "5302112002",
+    "district_id": "530211",
+    "name": "LASI"
+  },
+  {
+    "id": "5302112003",
+    "district_id": "530211",
+    "name": "KAKAN"
+  },
+  {
+    "id": "5302112005",
+    "district_id": "530211",
+    "name": "BASMUTI"
+  },
+  {
+    "id": "5302112006",
+    "district_id": "530211",
+    "name": "KUSI"
+  },
+  {
+    "id": "5302112007",
+    "district_id": "530211",
+    "name": "KUANFATU"
+  },
+  {
+    "id": "5302112008",
+    "district_id": "530211",
+    "name": "KELLE"
+  },
+  {
+    "id": "5302112009",
+    "district_id": "530211",
+    "name": "TAUPI"
+  },
+  {
+    "id": "5302112010",
+    "district_id": "530211",
+    "name": "OEBO"
+  },
+  {
+    "id": "5302112011",
+    "district_id": "530211",
+    "name": "KUSI UTARA"
+  },
+  {
+    "id": "5302112012",
+    "district_id": "530211",
+    "name": "KELLE TUNAN"
+  },
+  {
+    "id": "5302112013",
+    "district_id": "530211",
+    "name": "NOEBEBA"
+  },
+  {
+    "id": "5302112014",
+    "district_id": "530211",
+    "name": "OEHAN"
+  }
+]

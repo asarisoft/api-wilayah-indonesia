@@ -1,1 +1,47 @@
-[{"id": "5307202001", "district_id": "530720", "name": "WAIHAWA"}, {"id": "5307202002", "district_id": "530720", "name": "NENBURA"}, {"id": "5307202003", "district_id": "530720", "name": "WOGALIRIT"}, {"id": "5307202004", "district_id": "530720", "name": "WATUMERAK"}, {"id": "5307202005", "district_id": "530720", "name": "WOLONTERANG"}, {"id": "5307202006", "district_id": "530720", "name": "KLOANGPOPOT"}, {"id": "5307202007", "district_id": "530720", "name": "WOLOMOTONG"}, {"id": "5307202008", "district_id": "530720", "name": "MAHE TANAH"}, {"id": "5307202009", "district_id": "530720", "name": "PELIBALER"}]
+[
+  {
+    "id": "5307202001",
+    "district_id": "530720",
+    "name": "WAIHAWA"
+  },
+  {
+    "id": "5307202002",
+    "district_id": "530720",
+    "name": "NENBURA"
+  },
+  {
+    "id": "5307202003",
+    "district_id": "530720",
+    "name": "WOGALIRIT"
+  },
+  {
+    "id": "5307202004",
+    "district_id": "530720",
+    "name": "WATUMERAK"
+  },
+  {
+    "id": "5307202005",
+    "district_id": "530720",
+    "name": "WOLONTERANG"
+  },
+  {
+    "id": "5307202006",
+    "district_id": "530720",
+    "name": "KLOANGPOPOT"
+  },
+  {
+    "id": "5307202007",
+    "district_id": "530720",
+    "name": "WOLOMOTONG"
+  },
+  {
+    "id": "5307202008",
+    "district_id": "530720",
+    "name": "MAHE TANAH"
+  },
+  {
+    "id": "5307202009",
+    "district_id": "530720",
+    "name": "PELIBALER"
+  }
+]

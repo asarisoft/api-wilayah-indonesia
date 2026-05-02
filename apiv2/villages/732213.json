@@ -1,1 +1,57 @@
-[{"id": "7322132001", "district_id": "732213", "name": "MULYOREJO"}, {"id": "7322132002", "district_id": "732213", "name": "RAWAMANGUN"}, {"id": "7322132003", "district_id": "732213", "name": "PAOMACANG"}, {"id": "7322132004", "district_id": "732213", "name": "WONOKERTO"}, {"id": "7322132005", "district_id": "732213", "name": "SUMBERBARU"}, {"id": "7322132006", "district_id": "732213", "name": "BANYUWANGI"}, {"id": "7322132007", "district_id": "732213", "name": "SUBUR"}, {"id": "7322132008", "district_id": "732213", "name": "LINO"}, {"id": "7322132009", "district_id": "732213", "name": "SIDOHARJO"}, {"id": "7322132010", "district_id": "732213", "name": "SUKAMUKTI"}, {"id": "7322132011", "district_id": "732213", "name": "SUKAHARAPAN"}]
+[
+  {
+    "id": "7322132001",
+    "district_id": "732213",
+    "name": "MULYOREJO"
+  },
+  {
+    "id": "7322132002",
+    "district_id": "732213",
+    "name": "RAWAMANGUN"
+  },
+  {
+    "id": "7322132003",
+    "district_id": "732213",
+    "name": "PAOMACANG"
+  },
+  {
+    "id": "7322132004",
+    "district_id": "732213",
+    "name": "WONOKERTO"
+  },
+  {
+    "id": "7322132005",
+    "district_id": "732213",
+    "name": "SUMBERBARU"
+  },
+  {
+    "id": "7322132006",
+    "district_id": "732213",
+    "name": "BANYUWANGI"
+  },
+  {
+    "id": "7322132007",
+    "district_id": "732213",
+    "name": "SUBUR"
+  },
+  {
+    "id": "7322132008",
+    "district_id": "732213",
+    "name": "LINO"
+  },
+  {
+    "id": "7322132009",
+    "district_id": "732213",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "7322132010",
+    "district_id": "732213",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "7322132011",
+    "district_id": "732213",
+    "name": "SUKAHARAPAN"
+  }
+]

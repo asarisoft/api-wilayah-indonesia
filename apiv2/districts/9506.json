@@ -1,1 +1,27 @@
-[{"id": "950601", "regency_id": "9506", "name": "ELELIM"}, {"id": "950602", "regency_id": "9506", "name": "APALAPSILI"}, {"id": "950603", "regency_id": "9506", "name": "ABENAHO"}, {"id": "950604", "regency_id": "9506", "name": "BENAWA"}, {"id": "950605", "regency_id": "9506", "name": "WELAREK"}]
+[
+  {
+    "id": "950601",
+    "regency_id": "9506",
+    "name": "ELELIM"
+  },
+  {
+    "id": "950602",
+    "regency_id": "9506",
+    "name": "APALAPSILI"
+  },
+  {
+    "id": "950603",
+    "regency_id": "9506",
+    "name": "ABENAHO"
+  },
+  {
+    "id": "950604",
+    "regency_id": "9506",
+    "name": "BENAWA"
+  },
+  {
+    "id": "950605",
+    "regency_id": "9506",
+    "name": "WELAREK"
+  }
+]

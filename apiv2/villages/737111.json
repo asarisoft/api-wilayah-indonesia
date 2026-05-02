@@ -1,1 +1,57 @@
-[{"id": "7371111001", "district_id": "737111", "name": "PACCERAKKANG"}, {"id": "7371111002", "district_id": "737111", "name": "DAYA"}, {"id": "7371111003", "district_id": "737111", "name": "PAI"}, {"id": "7371111004", "district_id": "737111", "name": "BULUROKENG"}, {"id": "7371111005", "district_id": "737111", "name": "SUDIANG"}, {"id": "7371111006", "district_id": "737111", "name": "SUDIANG RAYA"}, {"id": "7371111007", "district_id": "737111", "name": "UNTIA"}, {"id": "7371111008", "district_id": "737111", "name": "LAIKANG"}, {"id": "7371111009", "district_id": "737111", "name": "BERUA"}, {"id": "7371111010", "district_id": "737111", "name": "KATIMBANG"}, {"id": "7371111011", "district_id": "737111", "name": "BAKUNG"}]
+[
+  {
+    "id": "7371111001",
+    "district_id": "737111",
+    "name": "PACCERAKKANG"
+  },
+  {
+    "id": "7371111002",
+    "district_id": "737111",
+    "name": "DAYA"
+  },
+  {
+    "id": "7371111003",
+    "district_id": "737111",
+    "name": "PAI"
+  },
+  {
+    "id": "7371111004",
+    "district_id": "737111",
+    "name": "BULUROKENG"
+  },
+  {
+    "id": "7371111005",
+    "district_id": "737111",
+    "name": "SUDIANG"
+  },
+  {
+    "id": "7371111006",
+    "district_id": "737111",
+    "name": "SUDIANG RAYA"
+  },
+  {
+    "id": "7371111007",
+    "district_id": "737111",
+    "name": "UNTIA"
+  },
+  {
+    "id": "7371111008",
+    "district_id": "737111",
+    "name": "LAIKANG"
+  },
+  {
+    "id": "7371111009",
+    "district_id": "737111",
+    "name": "BERUA"
+  },
+  {
+    "id": "7371111010",
+    "district_id": "737111",
+    "name": "KATIMBANG"
+  },
+  {
+    "id": "7371111011",
+    "district_id": "737111",
+    "name": "BAKUNG"
+  }
+]

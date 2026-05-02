@@ -1,1 +1,32 @@
-[{"id": "9203032001", "district_id": "920303", "name": "TUNAS GAIN"}, {"id": "9203032003", "district_id": "920303", "name": "URAT"}, {"id": "9203032004", "district_id": "920303", "name": "SANGGRAM"}, {"id": "9203032010", "district_id": "920303", "name": "WERI"}, {"id": "9203032012", "district_id": "920303", "name": "KIRIA BISA"}, {"id": "9203032013", "district_id": "920303", "name": "SAHAREI"}]
+[
+  {
+    "id": "9203032001",
+    "district_id": "920303",
+    "name": "TUNAS GAIN"
+  },
+  {
+    "id": "9203032003",
+    "district_id": "920303",
+    "name": "URAT"
+  },
+  {
+    "id": "9203032004",
+    "district_id": "920303",
+    "name": "SANGGRAM"
+  },
+  {
+    "id": "9203032010",
+    "district_id": "920303",
+    "name": "WERI"
+  },
+  {
+    "id": "9203032012",
+    "district_id": "920303",
+    "name": "KIRIA BISA"
+  },
+  {
+    "id": "9203032013",
+    "district_id": "920303",
+    "name": "SAHAREI"
+  }
+]

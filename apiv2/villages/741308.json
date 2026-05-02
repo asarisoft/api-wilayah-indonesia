@@ -1,1 +1,37 @@
-[{"id": "7413082001", "district_id": "741308", "name": "TASIPI"}, {"id": "7413082002", "district_id": "741308", "name": "MANDIKE"}, {"id": "7413082003", "district_id": "741308", "name": "BERO"}, {"id": "7413082004", "district_id": "741308", "name": "SANTIGI"}, {"id": "7413082005", "district_id": "741308", "name": "TONDASI"}, {"id": "7413082006", "district_id": "741308", "name": "SANTIRI"}, {"id": "7413082007", "district_id": "741308", "name": "TIGA"}]
+[
+  {
+    "id": "7413082001",
+    "district_id": "741308",
+    "name": "TASIPI"
+  },
+  {
+    "id": "7413082002",
+    "district_id": "741308",
+    "name": "MANDIKE"
+  },
+  {
+    "id": "7413082003",
+    "district_id": "741308",
+    "name": "BERO"
+  },
+  {
+    "id": "7413082004",
+    "district_id": "741308",
+    "name": "SANTIGI"
+  },
+  {
+    "id": "7413082005",
+    "district_id": "741308",
+    "name": "TONDASI"
+  },
+  {
+    "id": "7413082006",
+    "district_id": "741308",
+    "name": "SANTIRI"
+  },
+  {
+    "id": "7413082007",
+    "district_id": "741308",
+    "name": "TIGA"
+  }
+]

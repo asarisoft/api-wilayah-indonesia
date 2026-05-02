@@ -1,1 +1,77 @@
-[{"id": "5202011001", "district_id": "520201", "name": "PRAYA"}, {"id": "5202011002", "district_id": "520201", "name": "LENENG"}, {"id": "5202011003", "district_id": "520201", "name": "GERUNUNG"}, {"id": "5202011004", "district_id": "520201", "name": "SEMAYAN"}, {"id": "5202011005", "district_id": "520201", "name": "PERAPEN"}, {"id": "5202011006", "district_id": "520201", "name": "TIWUGALIH"}, {"id": "5202011007", "district_id": "520201", "name": "GONJAK"}, {"id": "5202011008", "district_id": "520201", "name": "PANJI SARI"}, {"id": "5202011009", "district_id": "520201", "name": "RENTENG"}, {"id": "5202012010", "district_id": "520201", "name": "MERTAK TOMBOK"}, {"id": "5202012011", "district_id": "520201", "name": "AIK MUAL"}, {"id": "5202012012", "district_id": "520201", "name": "MONTONG TEREP"}, {"id": "5202012013", "district_id": "520201", "name": "JAGO"}, {"id": "5202012014", "district_id": "520201", "name": "BUNUT BAOK"}, {"id": "5202012015", "district_id": "520201", "name": "MEKAR DAMAI"}]
+[
+  {
+    "id": "5202011001",
+    "district_id": "520201",
+    "name": "PRAYA"
+  },
+  {
+    "id": "5202011002",
+    "district_id": "520201",
+    "name": "LENENG"
+  },
+  {
+    "id": "5202011003",
+    "district_id": "520201",
+    "name": "GERUNUNG"
+  },
+  {
+    "id": "5202011004",
+    "district_id": "520201",
+    "name": "SEMAYAN"
+  },
+  {
+    "id": "5202011005",
+    "district_id": "520201",
+    "name": "PERAPEN"
+  },
+  {
+    "id": "5202011006",
+    "district_id": "520201",
+    "name": "TIWUGALIH"
+  },
+  {
+    "id": "5202011007",
+    "district_id": "520201",
+    "name": "GONJAK"
+  },
+  {
+    "id": "5202011008",
+    "district_id": "520201",
+    "name": "PANJI SARI"
+  },
+  {
+    "id": "5202011009",
+    "district_id": "520201",
+    "name": "RENTENG"
+  },
+  {
+    "id": "5202012010",
+    "district_id": "520201",
+    "name": "MERTAK TOMBOK"
+  },
+  {
+    "id": "5202012011",
+    "district_id": "520201",
+    "name": "AIK MUAL"
+  },
+  {
+    "id": "5202012012",
+    "district_id": "520201",
+    "name": "MONTONG TEREP"
+  },
+  {
+    "id": "5202012013",
+    "district_id": "520201",
+    "name": "JAGO"
+  },
+  {
+    "id": "5202012014",
+    "district_id": "520201",
+    "name": "BUNUT BAOK"
+  },
+  {
+    "id": "5202012015",
+    "district_id": "520201",
+    "name": "MEKAR DAMAI"
+  }
+]

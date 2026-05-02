@@ -1,1 +1,57 @@
-[{"id": "1402061001", "district_id": "140206", "name": "PANGKALAN KASAI"}, {"id": "1402062002", "district_id": "140206", "name": "KELESA"}, {"id": "1402062003", "district_id": "140206", "name": "BELIGAN"}, {"id": "1402062004", "district_id": "140206", "name": "SERESAM"}, {"id": "1402062005", "district_id": "140206", "name": "PAYA RUMBAI"}, {"id": "1402062006", "district_id": "140206", "name": "BUKIT MERANTI"}, {"id": "1402062007", "district_id": "140206", "name": "BULUH RAMPAI"}, {"id": "1402062008", "district_id": "140206", "name": "TITIAN RESAK"}, {"id": "1402062009", "district_id": "140206", "name": "PETALA BUMI"}, {"id": "1402062010", "district_id": "140206", "name": "SIBABAT"}, {"id": "1402062011", "district_id": "140206", "name": "BANDAR PADANG"}]
+[
+  {
+    "id": "1402061001",
+    "district_id": "140206",
+    "name": "PANGKALAN KASAI"
+  },
+  {
+    "id": "1402062002",
+    "district_id": "140206",
+    "name": "KELESA"
+  },
+  {
+    "id": "1402062003",
+    "district_id": "140206",
+    "name": "BELIGAN"
+  },
+  {
+    "id": "1402062004",
+    "district_id": "140206",
+    "name": "SERESAM"
+  },
+  {
+    "id": "1402062005",
+    "district_id": "140206",
+    "name": "PAYA RUMBAI"
+  },
+  {
+    "id": "1402062006",
+    "district_id": "140206",
+    "name": "BUKIT MERANTI"
+  },
+  {
+    "id": "1402062007",
+    "district_id": "140206",
+    "name": "BULUH RAMPAI"
+  },
+  {
+    "id": "1402062008",
+    "district_id": "140206",
+    "name": "TITIAN RESAK"
+  },
+  {
+    "id": "1402062009",
+    "district_id": "140206",
+    "name": "PETALA BUMI"
+  },
+  {
+    "id": "1402062010",
+    "district_id": "140206",
+    "name": "SIBABAT"
+  },
+  {
+    "id": "1402062011",
+    "district_id": "140206",
+    "name": "BANDAR PADANG"
+  }
+]

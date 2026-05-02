@@ -1,1 +1,142 @@
-[{"id": "1102012001", "district_id": "110201", "name": "ENGKERAN"}, {"id": "1102012002", "district_id": "110201", "name": "RUMAH KAMPUNG"}, {"id": "1102012004", "district_id": "110201", "name": "PASIR BANGUN"}, {"id": "1102012006", "district_id": "110201", "name": "KUBU"}, {"id": "1102012007", "district_id": "110201", "name": "LAWE KONGKER"}, {"id": "1102012008", "district_id": "110201", "name": "KUTA CINGKAM II"}, {"id": "1102012009", "district_id": "110201", "name": "MUARA BARU"}, {"id": "1102012011", "district_id": "110201", "name": "KUTA BATU I"}, {"id": "1102012012", "district_id": "110201", "name": "KUTA CINGKAM I"}, {"id": "1102012013", "district_id": "110201", "name": "KUTA BATU II"}, {"id": "1102012014", "district_id": "110201", "name": "LAWE SEMPILANG"}, {"id": "1102012015", "district_id": "110201", "name": "PRAPAT BATU NUNGGUL"}, {"id": "1102012016", "district_id": "110201", "name": "PULO SEPANG"}, {"id": "1102012017", "district_id": "110201", "name": "RIH MBELANG"}, {"id": "1102012018", "district_id": "110201", "name": "KUTE BATU BARU"}, {"id": "1102012019", "district_id": "110201", "name": "DARUL AMIN"}, {"id": "1102012020", "district_id": "110201", "name": "LAWE LUBANG INDAH"}, {"id": "1102012021", "district_id": "110201", "name": "BATU HAMPARAN"}, {"id": "1102012022", "district_id": "110201", "name": "PAYE MUNJE"}, {"id": "1102012023", "district_id": "110201", "name": "PULO NDADAP"}, {"id": "1102012024", "district_id": "110201", "name": "PASIR NUNGGUL"}, {"id": "1102012025", "district_id": "110201", "name": "CINGKHAM MEKHANGGUN"}, {"id": "1102012026", "district_id": "110201", "name": "PINTU KHIMBE"}, {"id": "1102012027", "district_id": "110201", "name": "LAWE KONGKER HILIR"}, {"id": "1102012028", "district_id": "110201", "name": "PULO GADUNG"}, {"id": "1102012029", "district_id": "110201", "name": "PASIKH PEHKMATE"}, {"id": "1102012030", "district_id": "110201", "name": "PASIKH NUNANG"}, {"id": "1102012031", "district_id": "110201", "name": "DELENG KUKUSEN"}]
+[
+  {
+    "id": "1102012001",
+    "district_id": "110201",
+    "name": "ENGKERAN"
+  },
+  {
+    "id": "1102012002",
+    "district_id": "110201",
+    "name": "RUMAH KAMPUNG"
+  },
+  {
+    "id": "1102012004",
+    "district_id": "110201",
+    "name": "PASIR BANGUN"
+  },
+  {
+    "id": "1102012006",
+    "district_id": "110201",
+    "name": "KUBU"
+  },
+  {
+    "id": "1102012007",
+    "district_id": "110201",
+    "name": "LAWE KONGKER"
+  },
+  {
+    "id": "1102012008",
+    "district_id": "110201",
+    "name": "KUTA CINGKAM II"
+  },
+  {
+    "id": "1102012009",
+    "district_id": "110201",
+    "name": "MUARA BARU"
+  },
+  {
+    "id": "1102012011",
+    "district_id": "110201",
+    "name": "KUTA BATU I"
+  },
+  {
+    "id": "1102012012",
+    "district_id": "110201",
+    "name": "KUTA CINGKAM I"
+  },
+  {
+    "id": "1102012013",
+    "district_id": "110201",
+    "name": "KUTA BATU II"
+  },
+  {
+    "id": "1102012014",
+    "district_id": "110201",
+    "name": "LAWE SEMPILANG"
+  },
+  {
+    "id": "1102012015",
+    "district_id": "110201",
+    "name": "PRAPAT BATU NUNGGUL"
+  },
+  {
+    "id": "1102012016",
+    "district_id": "110201",
+    "name": "PULO SEPANG"
+  },
+  {
+    "id": "1102012017",
+    "district_id": "110201",
+    "name": "RIH MBELANG"
+  },
+  {
+    "id": "1102012018",
+    "district_id": "110201",
+    "name": "KUTE BATU BARU"
+  },
+  {
+    "id": "1102012019",
+    "district_id": "110201",
+    "name": "DARUL AMIN"
+  },
+  {
+    "id": "1102012020",
+    "district_id": "110201",
+    "name": "LAWE LUBANG INDAH"
+  },
+  {
+    "id": "1102012021",
+    "district_id": "110201",
+    "name": "BATU HAMPARAN"
+  },
+  {
+    "id": "1102012022",
+    "district_id": "110201",
+    "name": "PAYE MUNJE"
+  },
+  {
+    "id": "1102012023",
+    "district_id": "110201",
+    "name": "PULO NDADAP"
+  },
+  {
+    "id": "1102012024",
+    "district_id": "110201",
+    "name": "PASIR NUNGGUL"
+  },
+  {
+    "id": "1102012025",
+    "district_id": "110201",
+    "name": "CINGKHAM MEKHANGGUN"
+  },
+  {
+    "id": "1102012026",
+    "district_id": "110201",
+    "name": "PINTU KHIMBE"
+  },
+  {
+    "id": "1102012027",
+    "district_id": "110201",
+    "name": "LAWE KONGKER HILIR"
+  },
+  {
+    "id": "1102012028",
+    "district_id": "110201",
+    "name": "PULO GADUNG"
+  },
+  {
+    "id": "1102012029",
+    "district_id": "110201",
+    "name": "PASIKH PEHKMATE"
+  },
+  {
+    "id": "1102012030",
+    "district_id": "110201",
+    "name": "PASIKH NUNANG"
+  },
+  {
+    "id": "1102012031",
+    "district_id": "110201",
+    "name": "DELENG KUKUSEN"
+  }
+]

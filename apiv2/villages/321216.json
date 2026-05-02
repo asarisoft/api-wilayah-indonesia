@@ -1,1 +1,52 @@
-[{"id": "3212162001", "district_id": "321216", "name": "PANYINDANGAN KULON"}, {"id": "3212162002", "district_id": "321216", "name": "RAMBATAN WETAN"}, {"id": "3212162003", "district_id": "321216", "name": "PANYINDANGAN WETAN"}, {"id": "3212162004", "district_id": "321216", "name": "KENANGA"}, {"id": "3212162005", "district_id": "321216", "name": "TERUSAN"}, {"id": "3212162006", "district_id": "321216", "name": "DERMAYU"}, {"id": "3212162007", "district_id": "321216", "name": "SINDANG"}, {"id": "3212162008", "district_id": "321216", "name": "PENGANJANG"}, {"id": "3212162009", "district_id": "321216", "name": "BABADAN"}, {"id": "3212162014", "district_id": "321216", "name": "WANANTARA"}]
+[
+  {
+    "id": "3212162001",
+    "district_id": "321216",
+    "name": "PANYINDANGAN KULON"
+  },
+  {
+    "id": "3212162002",
+    "district_id": "321216",
+    "name": "RAMBATAN WETAN"
+  },
+  {
+    "id": "3212162003",
+    "district_id": "321216",
+    "name": "PANYINDANGAN WETAN"
+  },
+  {
+    "id": "3212162004",
+    "district_id": "321216",
+    "name": "KENANGA"
+  },
+  {
+    "id": "3212162005",
+    "district_id": "321216",
+    "name": "TERUSAN"
+  },
+  {
+    "id": "3212162006",
+    "district_id": "321216",
+    "name": "DERMAYU"
+  },
+  {
+    "id": "3212162007",
+    "district_id": "321216",
+    "name": "SINDANG"
+  },
+  {
+    "id": "3212162008",
+    "district_id": "321216",
+    "name": "PENGANJANG"
+  },
+  {
+    "id": "3212162009",
+    "district_id": "321216",
+    "name": "BABADAN"
+  },
+  {
+    "id": "3212162014",
+    "district_id": "321216",
+    "name": "WANANTARA"
+  }
+]

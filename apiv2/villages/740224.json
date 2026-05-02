@@ -1,1 +1,42 @@
-[{"id": "7402241001", "district_id": "740224", "name": "PARAUNA"}, {"id": "7402241002", "district_id": "740224", "name": "ANGGABERI"}, {"id": "7402241003", "district_id": "740224", "name": "LAWULO"}, {"id": "7402241004", "district_id": "740224", "name": "ANDABIA"}, {"id": "7402241005", "district_id": "740224", "name": "UNAASI"}, {"id": "7402241006", "district_id": "740224", "name": "TORIKI"}, {"id": "7402242007", "district_id": "740224", "name": "LEREHOMA"}, {"id": "7402242008", "district_id": "740224", "name": "WUNDUONGOHI"}]
+[
+  {
+    "id": "7402241001",
+    "district_id": "740224",
+    "name": "PARAUNA"
+  },
+  {
+    "id": "7402241002",
+    "district_id": "740224",
+    "name": "ANGGABERI"
+  },
+  {
+    "id": "7402241003",
+    "district_id": "740224",
+    "name": "LAWULO"
+  },
+  {
+    "id": "7402241004",
+    "district_id": "740224",
+    "name": "ANDABIA"
+  },
+  {
+    "id": "7402241005",
+    "district_id": "740224",
+    "name": "UNAASI"
+  },
+  {
+    "id": "7402241006",
+    "district_id": "740224",
+    "name": "TORIKI"
+  },
+  {
+    "id": "7402242007",
+    "district_id": "740224",
+    "name": "LEREHOMA"
+  },
+  {
+    "id": "7402242008",
+    "district_id": "740224",
+    "name": "WUNDUONGOHI"
+  }
+]

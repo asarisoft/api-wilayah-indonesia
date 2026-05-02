@@ -1,1 +1,47 @@
-[{"id": "9203101001", "district_id": "920310", "name": "WAGOM"}, {"id": "9203101002", "district_id": "920310", "name": "WAGOM UTARA"}, {"id": "9203101003", "district_id": "920310", "name": "DULANPOKPOK"}, {"id": "9203102004", "district_id": "920310", "name": "TANAMA"}, {"id": "9203102005", "district_id": "920310", "name": "KAPAURTUTIN"}, {"id": "9203102006", "district_id": "920310", "name": "SEKBAN"}, {"id": "9203102007", "district_id": "920310", "name": "TOREA"}, {"id": "9203102008", "district_id": "920310", "name": "SEKRU"}, {"id": "9203102009", "district_id": "920310", "name": "SUKURU TUARE"}]
+[
+  {
+    "id": "9203101001",
+    "district_id": "920310",
+    "name": "WAGOM"
+  },
+  {
+    "id": "9203101002",
+    "district_id": "920310",
+    "name": "WAGOM UTARA"
+  },
+  {
+    "id": "9203101003",
+    "district_id": "920310",
+    "name": "DULANPOKPOK"
+  },
+  {
+    "id": "9203102004",
+    "district_id": "920310",
+    "name": "TANAMA"
+  },
+  {
+    "id": "9203102005",
+    "district_id": "920310",
+    "name": "KAPAURTUTIN"
+  },
+  {
+    "id": "9203102006",
+    "district_id": "920310",
+    "name": "SEKBAN"
+  },
+  {
+    "id": "9203102007",
+    "district_id": "920310",
+    "name": "TOREA"
+  },
+  {
+    "id": "9203102008",
+    "district_id": "920310",
+    "name": "SEKRU"
+  },
+  {
+    "id": "9203102009",
+    "district_id": "920310",
+    "name": "SUKURU TUARE"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "1471061003", "district_id": "147106", "name": "RUMBAI BUKIT"}, {"id": "1471061005", "district_id": "147106", "name": "MUARAFAJAR TIMUR"}, {"id": "1471061010", "district_id": "147106", "name": "MUARAFAJAR BARAT"}, {"id": "1471061011", "district_id": "147106", "name": "RANTAUPANJANG"}, {"id": "1471061012", "district_id": "147106", "name": "MAHARANI"}, {"id": "1471061013", "district_id": "147106", "name": "AGROWISATA"}]
+[
+  {
+    "id": "1471061003",
+    "district_id": "147106",
+    "name": "RUMBAI BUKIT"
+  },
+  {
+    "id": "1471061005",
+    "district_id": "147106",
+    "name": "MUARAFAJAR TIMUR"
+  },
+  {
+    "id": "1471061010",
+    "district_id": "147106",
+    "name": "MUARAFAJAR BARAT"
+  },
+  {
+    "id": "1471061011",
+    "district_id": "147106",
+    "name": "RANTAUPANJANG"
+  },
+  {
+    "id": "1471061012",
+    "district_id": "147106",
+    "name": "MAHARANI"
+  },
+  {
+    "id": "1471061013",
+    "district_id": "147106",
+    "name": "AGROWISATA"
+  }
+]

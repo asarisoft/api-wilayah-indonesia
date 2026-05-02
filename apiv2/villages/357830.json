@@ -1,1 +1,22 @@
-[{"id": "3578301001", "district_id": "357830", "name": "PAKAL"}, {"id": "3578301002", "district_id": "357830", "name": "BABAT JERAWAT"}, {"id": "3578301004", "district_id": "357830", "name": "SUMBER REJO"}, {"id": "3578301005", "district_id": "357830", "name": "BENOWO"}]
+[
+  {
+    "id": "3578301001",
+    "district_id": "357830",
+    "name": "PAKAL"
+  },
+  {
+    "id": "3578301002",
+    "district_id": "357830",
+    "name": "BABAT JERAWAT"
+  },
+  {
+    "id": "3578301004",
+    "district_id": "357830",
+    "name": "SUMBER REJO"
+  },
+  {
+    "id": "3578301005",
+    "district_id": "357830",
+    "name": "BENOWO"
+  }
+]

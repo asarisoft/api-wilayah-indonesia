@@ -1,1 +1,77 @@
-[{"id": "930301", "regency_id": "9303", "name": "OBAA"}, {"id": "930302", "regency_id": "9303", "name": "MAMBIOMAN BAPAI"}, {"id": "930303", "regency_id": "9303", "name": "CITAK-MITAK"}, {"id": "930304", "regency_id": "9303", "name": "EDERA"}, {"id": "930305", "regency_id": "9303", "name": "HAJU"}, {"id": "930306", "regency_id": "9303", "name": "ASSUE"}, {"id": "930307", "regency_id": "9303", "name": "KAIBAR"}, {"id": "930308", "regency_id": "9303", "name": "PASSUE"}, {"id": "930309", "regency_id": "9303", "name": "MINYAMUR"}, {"id": "930310", "regency_id": "9303", "name": "VENAHA"}, {"id": "930311", "regency_id": "9303", "name": "SYAHCAME"}, {"id": "930312", "regency_id": "9303", "name": "YAKOMI"}, {"id": "930313", "regency_id": "9303", "name": "BAMGI"}, {"id": "930314", "regency_id": "9303", "name": "PASSUE BAWAH"}, {"id": "930315", "regency_id": "9303", "name": "TI ZAIN"}]
+[
+  {
+    "id": "930301",
+    "regency_id": "9303",
+    "name": "OBAA"
+  },
+  {
+    "id": "930302",
+    "regency_id": "9303",
+    "name": "MAMBIOMAN BAPAI"
+  },
+  {
+    "id": "930303",
+    "regency_id": "9303",
+    "name": "CITAK-MITAK"
+  },
+  {
+    "id": "930304",
+    "regency_id": "9303",
+    "name": "EDERA"
+  },
+  {
+    "id": "930305",
+    "regency_id": "9303",
+    "name": "HAJU"
+  },
+  {
+    "id": "930306",
+    "regency_id": "9303",
+    "name": "ASSUE"
+  },
+  {
+    "id": "930307",
+    "regency_id": "9303",
+    "name": "KAIBAR"
+  },
+  {
+    "id": "930308",
+    "regency_id": "9303",
+    "name": "PASSUE"
+  },
+  {
+    "id": "930309",
+    "regency_id": "9303",
+    "name": "MINYAMUR"
+  },
+  {
+    "id": "930310",
+    "regency_id": "9303",
+    "name": "VENAHA"
+  },
+  {
+    "id": "930311",
+    "regency_id": "9303",
+    "name": "SYAHCAME"
+  },
+  {
+    "id": "930312",
+    "regency_id": "9303",
+    "name": "YAKOMI"
+  },
+  {
+    "id": "930313",
+    "regency_id": "9303",
+    "name": "BAMGI"
+  },
+  {
+    "id": "930314",
+    "regency_id": "9303",
+    "name": "PASSUE BAWAH"
+  },
+  {
+    "id": "930315",
+    "regency_id": "9303",
+    "name": "TI ZAIN"
+  }
+]

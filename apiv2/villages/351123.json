@@ -1,1 +1,47 @@
-[{"id": "3511232001", "district_id": "351123", "name": "JAMBESARI"}, {"id": "3511232002", "district_id": "351123", "name": "JAMBEANOM"}, {"id": "3511232003", "district_id": "351123", "name": "PUCANGANOM"}, {"id": "3511232004", "district_id": "351123", "name": "SUMBERJERUK"}, {"id": "3511232005", "district_id": "351123", "name": "TEGALPASIR"}, {"id": "3511232006", "district_id": "351123", "name": "PENGARANG"}, {"id": "3511232007", "district_id": "351123", "name": "GRUJUGAN LOR"}, {"id": "3511232008", "district_id": "351123", "name": "PEJAGAN"}, {"id": "3511232009", "district_id": "351123", "name": "SUMBER ANYAR"}]
+[
+  {
+    "id": "3511232001",
+    "district_id": "351123",
+    "name": "JAMBESARI"
+  },
+  {
+    "id": "3511232002",
+    "district_id": "351123",
+    "name": "JAMBEANOM"
+  },
+  {
+    "id": "3511232003",
+    "district_id": "351123",
+    "name": "PUCANGANOM"
+  },
+  {
+    "id": "3511232004",
+    "district_id": "351123",
+    "name": "SUMBERJERUK"
+  },
+  {
+    "id": "3511232005",
+    "district_id": "351123",
+    "name": "TEGALPASIR"
+  },
+  {
+    "id": "3511232006",
+    "district_id": "351123",
+    "name": "PENGARANG"
+  },
+  {
+    "id": "3511232007",
+    "district_id": "351123",
+    "name": "GRUJUGAN LOR"
+  },
+  {
+    "id": "3511232008",
+    "district_id": "351123",
+    "name": "PEJAGAN"
+  },
+  {
+    "id": "3511232009",
+    "district_id": "351123",
+    "name": "SUMBER ANYAR"
+  }
+]

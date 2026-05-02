@@ -1,1 +1,32 @@
-[{"id": "7403282001", "district_id": "740328", "name": "KOGHOLIFANO"}, {"id": "7403282002", "district_id": "740328", "name": "POLA"}, {"id": "7403282007", "district_id": "740328", "name": "KAMOSOPE"}, {"id": "7403282008", "district_id": "740328", "name": "LIWUMETINGKI"}, {"id": "7403282009", "district_id": "740328", "name": "LABULAWA"}, {"id": "7403282010", "district_id": "740328", "name": "BUMBU"}]
+[
+  {
+    "id": "7403282001",
+    "district_id": "740328",
+    "name": "KOGHOLIFANO"
+  },
+  {
+    "id": "7403282002",
+    "district_id": "740328",
+    "name": "POLA"
+  },
+  {
+    "id": "7403282007",
+    "district_id": "740328",
+    "name": "KAMOSOPE"
+  },
+  {
+    "id": "7403282008",
+    "district_id": "740328",
+    "name": "LIWUMETINGKI"
+  },
+  {
+    "id": "7403282009",
+    "district_id": "740328",
+    "name": "LABULAWA"
+  },
+  {
+    "id": "7403282010",
+    "district_id": "740328",
+    "name": "BUMBU"
+  }
+]

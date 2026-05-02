@@ -1,1 +1,62 @@
-[{"id": "7314101001", "district_id": "731410", "name": "LANCIRANG"}, {"id": "7314101002", "district_id": "731410", "name": "PONGRANGAE"}, {"id": "7314102003", "district_id": "731410", "name": "AJUBISSUE"}, {"id": "7314102004", "district_id": "731410", "name": "OTTING"}, {"id": "7314102005", "district_id": "731410", "name": "BULUCENRANA"}, {"id": "7314102006", "district_id": "731410", "name": "BETAO"}, {"id": "7314102007", "district_id": "731410", "name": "ANABANNAE"}, {"id": "7314102008", "district_id": "731410", "name": "BETAO RIASE"}, {"id": "7314102009", "district_id": "731410", "name": "DONGI"}, {"id": "7314102010", "district_id": "731410", "name": "LASIWALA"}, {"id": "7314102011", "district_id": "731410", "name": "SUMPANG MANGO"}, {"id": "7314102012", "district_id": "731410", "name": "KALEMPANG"}]
+[
+  {
+    "id": "7314101001",
+    "district_id": "731410",
+    "name": "LANCIRANG"
+  },
+  {
+    "id": "7314101002",
+    "district_id": "731410",
+    "name": "PONGRANGAE"
+  },
+  {
+    "id": "7314102003",
+    "district_id": "731410",
+    "name": "AJUBISSUE"
+  },
+  {
+    "id": "7314102004",
+    "district_id": "731410",
+    "name": "OTTING"
+  },
+  {
+    "id": "7314102005",
+    "district_id": "731410",
+    "name": "BULUCENRANA"
+  },
+  {
+    "id": "7314102006",
+    "district_id": "731410",
+    "name": "BETAO"
+  },
+  {
+    "id": "7314102007",
+    "district_id": "731410",
+    "name": "ANABANNAE"
+  },
+  {
+    "id": "7314102008",
+    "district_id": "731410",
+    "name": "BETAO RIASE"
+  },
+  {
+    "id": "7314102009",
+    "district_id": "731410",
+    "name": "DONGI"
+  },
+  {
+    "id": "7314102010",
+    "district_id": "731410",
+    "name": "LASIWALA"
+  },
+  {
+    "id": "7314102011",
+    "district_id": "731410",
+    "name": "SUMPANG MANGO"
+  },
+  {
+    "id": "7314102012",
+    "district_id": "731410",
+    "name": "KALEMPANG"
+  }
+]

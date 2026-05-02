@@ -1,1 +1,77 @@
-[{"id": "1208132001", "district_id": "120813", "name": "NEGERI DOLOK"}, {"id": "1208132002", "district_id": "120813", "name": "DOLOK PARMONANGAN"}, {"id": "1208132003", "district_id": "120813", "name": "DOLOK TOMUAN"}, {"id": "1208132004", "district_id": "120813", "name": "MARIHAT DOLOK"}, {"id": "1208132005", "district_id": "120813", "name": "TIGA DOLOK"}, {"id": "1208132006", "district_id": "120813", "name": "UJUNG BONDAR"}, {"id": "1208132007", "district_id": "120813", "name": "MARIHAT RAJA"}, {"id": "1208132008", "district_id": "120813", "name": "BANDAR DOLOK"}, {"id": "1208132009", "district_id": "120813", "name": "GUNUNG MARIAH"}, {"id": "1208132010", "district_id": "120813", "name": "SIATASAN"}, {"id": "1208132011", "district_id": "120813", "name": "MARIHAT MARSADA"}, {"id": "1208132012", "district_id": "120813", "name": "PONDOK BULUH"}, {"id": "1208132013", "district_id": "120813", "name": "MARIHAT PONDOK"}, {"id": "1208132014", "district_id": "120813", "name": "LUMBAN GORAT"}, {"id": "1208132015", "district_id": "120813", "name": "PALIA NAOPAT"}]
+[
+  {
+    "id": "1208132001",
+    "district_id": "120813",
+    "name": "NEGERI DOLOK"
+  },
+  {
+    "id": "1208132002",
+    "district_id": "120813",
+    "name": "DOLOK PARMONANGAN"
+  },
+  {
+    "id": "1208132003",
+    "district_id": "120813",
+    "name": "DOLOK TOMUAN"
+  },
+  {
+    "id": "1208132004",
+    "district_id": "120813",
+    "name": "MARIHAT DOLOK"
+  },
+  {
+    "id": "1208132005",
+    "district_id": "120813",
+    "name": "TIGA DOLOK"
+  },
+  {
+    "id": "1208132006",
+    "district_id": "120813",
+    "name": "UJUNG BONDAR"
+  },
+  {
+    "id": "1208132007",
+    "district_id": "120813",
+    "name": "MARIHAT RAJA"
+  },
+  {
+    "id": "1208132008",
+    "district_id": "120813",
+    "name": "BANDAR DOLOK"
+  },
+  {
+    "id": "1208132009",
+    "district_id": "120813",
+    "name": "GUNUNG MARIAH"
+  },
+  {
+    "id": "1208132010",
+    "district_id": "120813",
+    "name": "SIATASAN"
+  },
+  {
+    "id": "1208132011",
+    "district_id": "120813",
+    "name": "MARIHAT MARSADA"
+  },
+  {
+    "id": "1208132012",
+    "district_id": "120813",
+    "name": "PONDOK BULUH"
+  },
+  {
+    "id": "1208132013",
+    "district_id": "120813",
+    "name": "MARIHAT PONDOK"
+  },
+  {
+    "id": "1208132014",
+    "district_id": "120813",
+    "name": "LUMBAN GORAT"
+  },
+  {
+    "id": "1208132015",
+    "district_id": "120813",
+    "name": "PALIA NAOPAT"
+  }
+]

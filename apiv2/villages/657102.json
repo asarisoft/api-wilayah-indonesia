@@ -1,1 +1,27 @@
-[{"id": "6571021001", "district_id": "657102", "name": "KAMPUNG I SKIP"}, {"id": "6571021002", "district_id": "657102", "name": "PAMUSIAN"}, {"id": "6571021003", "district_id": "657102", "name": "SEBENGKOK"}, {"id": "6571021004", "district_id": "657102", "name": "SELUMIT"}, {"id": "6571021005", "district_id": "657102", "name": "SELUMIT PANTAI"}]
+[
+  {
+    "id": "6571021001",
+    "district_id": "657102",
+    "name": "KAMPUNG I SKIP"
+  },
+  {
+    "id": "6571021002",
+    "district_id": "657102",
+    "name": "PAMUSIAN"
+  },
+  {
+    "id": "6571021003",
+    "district_id": "657102",
+    "name": "SEBENGKOK"
+  },
+  {
+    "id": "6571021004",
+    "district_id": "657102",
+    "name": "SELUMIT"
+  },
+  {
+    "id": "6571021005",
+    "district_id": "657102",
+    "name": "SELUMIT PANTAI"
+  }
+]

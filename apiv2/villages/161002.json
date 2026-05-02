@@ -1,1 +1,107 @@
-[{"id": "1610021017", "district_id": "161002", "name": "TANJUNG BATU"}, {"id": "1610021037", "district_id": "161002", "name": "TANJUNG BATU TIMUR"}, {"id": "1610022010", "district_id": "161002", "name": "SERI BANDUNG"}, {"id": "1610022011", "district_id": "161002", "name": "SERI TANJUNG"}, {"id": "1610022012", "district_id": "161002", "name": "TANJUNG TAMBAK"}, {"id": "1610022013", "district_id": "161002", "name": "SENURO TIMUR"}, {"id": "1610022014", "district_id": "161002", "name": "TANJUNG BARU PETAI"}, {"id": "1610022015", "district_id": "161002", "name": "TANJUNG BATU SEBERANG"}, {"id": "1610022016", "district_id": "161002", "name": "PAJAR BULAN"}, {"id": "1610022018", "district_id": "161002", "name": "TANJUNG ATAP"}, {"id": "1610022019", "district_id": "161002", "name": "TANJUNG PINANG I"}, {"id": "1610022020", "district_id": "161002", "name": "LIMBANG JAYA I"}, {"id": "1610022021", "district_id": "161002", "name": "TANJUNG LAUT"}, {"id": "1610022026", "district_id": "161002", "name": "BURAI"}, {"id": "1610022027", "district_id": "161002", "name": "SENTUL"}, {"id": "1610022031", "district_id": "161002", "name": "BANGUN JAYA"}, {"id": "1610022032", "district_id": "161002", "name": "TANJUNG TAMBAK BARU"}, {"id": "1610022033", "district_id": "161002", "name": "LIMBANG JAYA II"}, {"id": "1610022034", "district_id": "161002", "name": "SENURO BARAT"}, {"id": "1610022035", "district_id": "161002", "name": "TANJUNG PINANG II"}, {"id": "1610022036", "district_id": "161002", "name": "TANJUNG ATAP BARAT"}]
+[
+  {
+    "id": "1610021017",
+    "district_id": "161002",
+    "name": "TANJUNG BATU"
+  },
+  {
+    "id": "1610021037",
+    "district_id": "161002",
+    "name": "TANJUNG BATU TIMUR"
+  },
+  {
+    "id": "1610022010",
+    "district_id": "161002",
+    "name": "SERI BANDUNG"
+  },
+  {
+    "id": "1610022011",
+    "district_id": "161002",
+    "name": "SERI TANJUNG"
+  },
+  {
+    "id": "1610022012",
+    "district_id": "161002",
+    "name": "TANJUNG TAMBAK"
+  },
+  {
+    "id": "1610022013",
+    "district_id": "161002",
+    "name": "SENURO TIMUR"
+  },
+  {
+    "id": "1610022014",
+    "district_id": "161002",
+    "name": "TANJUNG BARU PETAI"
+  },
+  {
+    "id": "1610022015",
+    "district_id": "161002",
+    "name": "TANJUNG BATU SEBERANG"
+  },
+  {
+    "id": "1610022016",
+    "district_id": "161002",
+    "name": "PAJAR BULAN"
+  },
+  {
+    "id": "1610022018",
+    "district_id": "161002",
+    "name": "TANJUNG ATAP"
+  },
+  {
+    "id": "1610022019",
+    "district_id": "161002",
+    "name": "TANJUNG PINANG I"
+  },
+  {
+    "id": "1610022020",
+    "district_id": "161002",
+    "name": "LIMBANG JAYA I"
+  },
+  {
+    "id": "1610022021",
+    "district_id": "161002",
+    "name": "TANJUNG LAUT"
+  },
+  {
+    "id": "1610022026",
+    "district_id": "161002",
+    "name": "BURAI"
+  },
+  {
+    "id": "1610022027",
+    "district_id": "161002",
+    "name": "SENTUL"
+  },
+  {
+    "id": "1610022031",
+    "district_id": "161002",
+    "name": "BANGUN JAYA"
+  },
+  {
+    "id": "1610022032",
+    "district_id": "161002",
+    "name": "TANJUNG TAMBAK BARU"
+  },
+  {
+    "id": "1610022033",
+    "district_id": "161002",
+    "name": "LIMBANG JAYA II"
+  },
+  {
+    "id": "1610022034",
+    "district_id": "161002",
+    "name": "SENURO BARAT"
+  },
+  {
+    "id": "1610022035",
+    "district_id": "161002",
+    "name": "TANJUNG PINANG II"
+  },
+  {
+    "id": "1610022036",
+    "district_id": "161002",
+    "name": "TANJUNG ATAP BARAT"
+  }
+]

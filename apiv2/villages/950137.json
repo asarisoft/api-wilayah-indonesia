@@ -1,1 +1,37 @@
-[{"id": "9501372001", "district_id": "950137", "name": "MAIMA"}, {"id": "9501372002", "district_id": "950137", "name": "MINIMO"}, {"id": "9501372003", "district_id": "950137", "name": "ESIAK"}, {"id": "9501372004", "district_id": "950137", "name": "HERAEWA"}, {"id": "9501372005", "district_id": "950137", "name": "KEPI"}, {"id": "9501372006", "district_id": "950137", "name": "HUSEWA"}, {"id": "9501372007", "district_id": "950137", "name": "MENAGAIMA"}]
+[
+  {
+    "id": "9501372001",
+    "district_id": "950137",
+    "name": "MAIMA"
+  },
+  {
+    "id": "9501372002",
+    "district_id": "950137",
+    "name": "MINIMO"
+  },
+  {
+    "id": "9501372003",
+    "district_id": "950137",
+    "name": "ESIAK"
+  },
+  {
+    "id": "9501372004",
+    "district_id": "950137",
+    "name": "HERAEWA"
+  },
+  {
+    "id": "9501372005",
+    "district_id": "950137",
+    "name": "KEPI"
+  },
+  {
+    "id": "9501372006",
+    "district_id": "950137",
+    "name": "HUSEWA"
+  },
+  {
+    "id": "9501372007",
+    "district_id": "950137",
+    "name": "MENAGAIMA"
+  }
+]

@@ -1,1 +1,142 @@
-[{"id": "1217081026", "district_id": "121708", "name": "PASAR PANGURURAN"}, {"id": "1217081027", "district_id": "121708", "name": "PINTU SONA"}, {"id": "1217081028", "district_id": "121708", "name": "SIOGUNG-OGUNG"}, {"id": "1217082001", "district_id": "121708", "name": "LUMBAN SS DOLOK"}, {"id": "1217082002", "district_id": "121708", "name": "LUMBAN SS TORUA"}, {"id": "1217082003", "district_id": "121708", "name": "PARBABA DOLOK"}, {"id": "1217082004", "district_id": "121708", "name": "HUTA TINGGI"}, {"id": "1217082005", "district_id": "121708", "name": "PARHORASAN"}, {"id": "1217082006", "district_id": "121708", "name": "PARDOMUAN NAULI"}, {"id": "1217082007", "district_id": "121708", "name": "PARSAORAN I"}, {"id": "1217082008", "district_id": "121708", "name": "RIANIATE"}, {"id": "1217082009", "district_id": "121708", "name": "HUTA BOLON"}, {"id": "1217082010", "district_id": "121708", "name": "PANAMPANGAN"}, {"id": "1217082011", "district_id": "121708", "name": "PARDUGUL"}, {"id": "1217082012", "district_id": "121708", "name": "HUTA NAMORA"}, {"id": "1217082013", "district_id": "121708", "name": "PARLONDUT"}, {"id": "1217082014", "district_id": "121708", "name": "TANJUNG BUNGA"}, {"id": "1217082015", "district_id": "121708", "name": "PARMONANGAN"}, {"id": "1217082016", "district_id": "121708", "name": "SAIT NIHUTA"}, {"id": "1217082017", "district_id": "121708", "name": "SITUNGKIR"}, {"id": "1217082018", "district_id": "121708", "name": "SIANTING-ANTING"}, {"id": "1217082019", "district_id": "121708", "name": "SIALANGUAN"}, {"id": "1217082020", "district_id": "121708", "name": "LUMBAN PINGGOL"}, {"id": "1217082021", "district_id": "121708", "name": "PARDOMUAN I"}, {"id": "1217082022", "district_id": "121708", "name": "SITOLU HUTA"}, {"id": "1217082023", "district_id": "121708", "name": "SINABULAN"}, {"id": "1217082024", "district_id": "121708", "name": "AEK NAULI"}, {"id": "1217082025", "district_id": "121708", "name": "SIOPAT SOSOR"}]
+[
+  {
+    "id": "1217081026",
+    "district_id": "121708",
+    "name": "PASAR PANGURURAN"
+  },
+  {
+    "id": "1217081027",
+    "district_id": "121708",
+    "name": "PINTU SONA"
+  },
+  {
+    "id": "1217081028",
+    "district_id": "121708",
+    "name": "SIOGUNG-OGUNG"
+  },
+  {
+    "id": "1217082001",
+    "district_id": "121708",
+    "name": "LUMBAN SS DOLOK"
+  },
+  {
+    "id": "1217082002",
+    "district_id": "121708",
+    "name": "LUMBAN SS TORUA"
+  },
+  {
+    "id": "1217082003",
+    "district_id": "121708",
+    "name": "PARBABA DOLOK"
+  },
+  {
+    "id": "1217082004",
+    "district_id": "121708",
+    "name": "HUTA TINGGI"
+  },
+  {
+    "id": "1217082005",
+    "district_id": "121708",
+    "name": "PARHORASAN"
+  },
+  {
+    "id": "1217082006",
+    "district_id": "121708",
+    "name": "PARDOMUAN NAULI"
+  },
+  {
+    "id": "1217082007",
+    "district_id": "121708",
+    "name": "PARSAORAN I"
+  },
+  {
+    "id": "1217082008",
+    "district_id": "121708",
+    "name": "RIANIATE"
+  },
+  {
+    "id": "1217082009",
+    "district_id": "121708",
+    "name": "HUTA BOLON"
+  },
+  {
+    "id": "1217082010",
+    "district_id": "121708",
+    "name": "PANAMPANGAN"
+  },
+  {
+    "id": "1217082011",
+    "district_id": "121708",
+    "name": "PARDUGUL"
+  },
+  {
+    "id": "1217082012",
+    "district_id": "121708",
+    "name": "HUTA NAMORA"
+  },
+  {
+    "id": "1217082013",
+    "district_id": "121708",
+    "name": "PARLONDUT"
+  },
+  {
+    "id": "1217082014",
+    "district_id": "121708",
+    "name": "TANJUNG BUNGA"
+  },
+  {
+    "id": "1217082015",
+    "district_id": "121708",
+    "name": "PARMONANGAN"
+  },
+  {
+    "id": "1217082016",
+    "district_id": "121708",
+    "name": "SAIT NIHUTA"
+  },
+  {
+    "id": "1217082017",
+    "district_id": "121708",
+    "name": "SITUNGKIR"
+  },
+  {
+    "id": "1217082018",
+    "district_id": "121708",
+    "name": "SIANTING-ANTING"
+  },
+  {
+    "id": "1217082019",
+    "district_id": "121708",
+    "name": "SIALANGUAN"
+  },
+  {
+    "id": "1217082020",
+    "district_id": "121708",
+    "name": "LUMBAN PINGGOL"
+  },
+  {
+    "id": "1217082021",
+    "district_id": "121708",
+    "name": "PARDOMUAN I"
+  },
+  {
+    "id": "1217082022",
+    "district_id": "121708",
+    "name": "SITOLU HUTA"
+  },
+  {
+    "id": "1217082023",
+    "district_id": "121708",
+    "name": "SINABULAN"
+  },
+  {
+    "id": "1217082024",
+    "district_id": "121708",
+    "name": "AEK NAULI"
+  },
+  {
+    "id": "1217082025",
+    "district_id": "121708",
+    "name": "SIOPAT SOSOR"
+  }
+]

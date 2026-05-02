@@ -1,1 +1,37 @@
-[{"id": "7203092001", "district_id": "720309", "name": "LABUAN"}, {"id": "7203092008", "district_id": "720309", "name": "LABUAN SALUMBONE"}, {"id": "7203092009", "district_id": "720309", "name": "LABUAN PANIMBA"}, {"id": "7203092010", "district_id": "720309", "name": "LABUAN LELEA"}, {"id": "7203092011", "district_id": "720309", "name": "LABUAN KUNGGUMA"}, {"id": "7203092012", "district_id": "720309", "name": "LABUAN TOPOSO"}, {"id": "7203092013", "district_id": "720309", "name": "LABUAN LUMBUBAKA"}]
+[
+  {
+    "id": "7203092001",
+    "district_id": "720309",
+    "name": "LABUAN"
+  },
+  {
+    "id": "7203092008",
+    "district_id": "720309",
+    "name": "LABUAN SALUMBONE"
+  },
+  {
+    "id": "7203092009",
+    "district_id": "720309",
+    "name": "LABUAN PANIMBA"
+  },
+  {
+    "id": "7203092010",
+    "district_id": "720309",
+    "name": "LABUAN LELEA"
+  },
+  {
+    "id": "7203092011",
+    "district_id": "720309",
+    "name": "LABUAN KUNGGUMA"
+  },
+  {
+    "id": "7203092012",
+    "district_id": "720309",
+    "name": "LABUAN TOPOSO"
+  },
+  {
+    "id": "7203092013",
+    "district_id": "720309",
+    "name": "LABUAN LUMBUBAKA"
+  }
+]

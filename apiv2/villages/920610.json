@@ -1,1 +1,27 @@
-[{"id": "9206102001", "district_id": "920610", "name": "SARBE"}, {"id": "9206102002", "district_id": "920610", "name": "WAGURA"}, {"id": "9206102003", "district_id": "920610", "name": "REFIDESO"}, {"id": "9206102004", "district_id": "920610", "name": "NARAMASA"}, {"id": "9206102005", "district_id": "920610", "name": "OBO"}]
+[
+  {
+    "id": "9206102001",
+    "district_id": "920610",
+    "name": "SARBE"
+  },
+  {
+    "id": "9206102002",
+    "district_id": "920610",
+    "name": "WAGURA"
+  },
+  {
+    "id": "9206102003",
+    "district_id": "920610",
+    "name": "REFIDESO"
+  },
+  {
+    "id": "9206102004",
+    "district_id": "920610",
+    "name": "NARAMASA"
+  },
+  {
+    "id": "9206102005",
+    "district_id": "920610",
+    "name": "OBO"
+  }
+]

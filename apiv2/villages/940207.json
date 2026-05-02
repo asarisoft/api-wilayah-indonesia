@@ -1,1 +1,67 @@
-[{"id": "9402072001", "district_id": "940207", "name": "GUBUGANI"}, {"id": "9402072002", "district_id": "940207", "name": "AMBOK"}, {"id": "9402072003", "district_id": "940207", "name": "AWIYAM"}, {"id": "9402072004", "district_id": "940207", "name": "TUBUGIME"}, {"id": "9402072005", "district_id": "940207", "name": "WARIRU"}, {"id": "9402072006", "district_id": "940207", "name": "DIGI"}, {"id": "9402072007", "district_id": "940207", "name": "KIKUP"}, {"id": "9402072008", "district_id": "940207", "name": "GUNUNG TAYOK"}, {"id": "9402072009", "district_id": "940207", "name": "NAMBU"}, {"id": "9402072010", "district_id": "940207", "name": "ASUA"}, {"id": "9402072011", "district_id": "940207", "name": "DEGEI"}, {"id": "9402072012", "district_id": "940207", "name": "SIGOU"}, {"id": "9402072013", "district_id": "940207", "name": "NALU"}]
+[
+  {
+    "id": "9402072001",
+    "district_id": "940207",
+    "name": "GUBUGANI"
+  },
+  {
+    "id": "9402072002",
+    "district_id": "940207",
+    "name": "AMBOK"
+  },
+  {
+    "id": "9402072003",
+    "district_id": "940207",
+    "name": "AWIYAM"
+  },
+  {
+    "id": "9402072004",
+    "district_id": "940207",
+    "name": "TUBUGIME"
+  },
+  {
+    "id": "9402072005",
+    "district_id": "940207",
+    "name": "WARIRU"
+  },
+  {
+    "id": "9402072006",
+    "district_id": "940207",
+    "name": "DIGI"
+  },
+  {
+    "id": "9402072007",
+    "district_id": "940207",
+    "name": "KIKUP"
+  },
+  {
+    "id": "9402072008",
+    "district_id": "940207",
+    "name": "GUNUNG TAYOK"
+  },
+  {
+    "id": "9402072009",
+    "district_id": "940207",
+    "name": "NAMBU"
+  },
+  {
+    "id": "9402072010",
+    "district_id": "940207",
+    "name": "ASUA"
+  },
+  {
+    "id": "9402072011",
+    "district_id": "940207",
+    "name": "DEGEI"
+  },
+  {
+    "id": "9402072012",
+    "district_id": "940207",
+    "name": "SIGOU"
+  },
+  {
+    "id": "9402072013",
+    "district_id": "940207",
+    "name": "NALU"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "7103102001", "district_id": "710310", "name": "KALUWATU"}, {"id": "7103102002", "district_id": "710310", "name": "LAINE"}, {"id": "7103102003", "district_id": "710310", "name": "LAPANGO"}, {"id": "7103102004", "district_id": "710310", "name": "SOWAENG"}, {"id": "7103102005", "district_id": "710310", "name": "NGALIPAENG I"}, {"id": "7103102006", "district_id": "710310", "name": "NGALIPAENG II"}, {"id": "7103102007", "district_id": "710310", "name": "BATUNDERANG"}, {"id": "7103102008", "district_id": "710310", "name": "BEBALANG"}, {"id": "7103102009", "district_id": "710310", "name": "MAWIRA"}, {"id": "7103102010", "district_id": "710310", "name": "PINDANG"}, {"id": "7103102011", "district_id": "710310", "name": "LAPEPAHE"}, {"id": "7103102012", "district_id": "710310", "name": "LEHIMI TARIANG"}, {"id": "7103102013", "district_id": "710310", "name": "LAPANGO I"}]
+[
+  {
+    "id": "7103102001",
+    "district_id": "710310",
+    "name": "KALUWATU"
+  },
+  {
+    "id": "7103102002",
+    "district_id": "710310",
+    "name": "LAINE"
+  },
+  {
+    "id": "7103102003",
+    "district_id": "710310",
+    "name": "LAPANGO"
+  },
+  {
+    "id": "7103102004",
+    "district_id": "710310",
+    "name": "SOWAENG"
+  },
+  {
+    "id": "7103102005",
+    "district_id": "710310",
+    "name": "NGALIPAENG I"
+  },
+  {
+    "id": "7103102006",
+    "district_id": "710310",
+    "name": "NGALIPAENG II"
+  },
+  {
+    "id": "7103102007",
+    "district_id": "710310",
+    "name": "BATUNDERANG"
+  },
+  {
+    "id": "7103102008",
+    "district_id": "710310",
+    "name": "BEBALANG"
+  },
+  {
+    "id": "7103102009",
+    "district_id": "710310",
+    "name": "MAWIRA"
+  },
+  {
+    "id": "7103102010",
+    "district_id": "710310",
+    "name": "PINDANG"
+  },
+  {
+    "id": "7103102011",
+    "district_id": "710310",
+    "name": "LAPEPAHE"
+  },
+  {
+    "id": "7103102012",
+    "district_id": "710310",
+    "name": "LEHIMI TARIANG"
+  },
+  {
+    "id": "7103102013",
+    "district_id": "710310",
+    "name": "LAPANGO I"
+  }
+]

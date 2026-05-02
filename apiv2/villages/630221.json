@@ -1,1 +1,52 @@
-[{"id": "6302212001", "district_id": "630221", "name": "TANJUNG PELAYAR"}, {"id": "6302212002", "district_id": "630221", "name": "TANJUNG SUNGKAI"}, {"id": "6302212003", "district_id": "630221", "name": "TANJUNG TENGAH"}, {"id": "6302212004", "district_id": "630221", "name": "TANJUNG KUNYIT"}, {"id": "6302212005", "district_id": "630221", "name": "TELUK TAMIANG"}, {"id": "6302212006", "district_id": "630221", "name": "GOSONG PANJANG"}, {"id": "6302212007", "district_id": "630221", "name": "KAMPUNG BARU"}, {"id": "6302212008", "district_id": "630221", "name": "TATA MEKAR"}, {"id": "6302212009", "district_id": "630221", "name": "BANDAR RAYA"}, {"id": "6302212010", "district_id": "630221", "name": "BANGUN REJO"}]
+[
+  {
+    "id": "6302212001",
+    "district_id": "630221",
+    "name": "TANJUNG PELAYAR"
+  },
+  {
+    "id": "6302212002",
+    "district_id": "630221",
+    "name": "TANJUNG SUNGKAI"
+  },
+  {
+    "id": "6302212003",
+    "district_id": "630221",
+    "name": "TANJUNG TENGAH"
+  },
+  {
+    "id": "6302212004",
+    "district_id": "630221",
+    "name": "TANJUNG KUNYIT"
+  },
+  {
+    "id": "6302212005",
+    "district_id": "630221",
+    "name": "TELUK TAMIANG"
+  },
+  {
+    "id": "6302212006",
+    "district_id": "630221",
+    "name": "GOSONG PANJANG"
+  },
+  {
+    "id": "6302212007",
+    "district_id": "630221",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "6302212008",
+    "district_id": "630221",
+    "name": "TATA MEKAR"
+  },
+  {
+    "id": "6302212009",
+    "district_id": "630221",
+    "name": "BANDAR RAYA"
+  },
+  {
+    "id": "6302212010",
+    "district_id": "630221",
+    "name": "BANGUN REJO"
+  }
+]

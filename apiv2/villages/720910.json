@@ -1,1 +1,52 @@
-[{"id": "7209101001", "district_id": "720910", "name": "UENTANAGA BAWAH"}, {"id": "7209101002", "district_id": "720910", "name": "UENTANAGA ATAS"}, {"id": "7209101003", "district_id": "720910", "name": "DONDO"}, {"id": "7209101007", "district_id": "720910", "name": "UAMALINGKU"}, {"id": "7209101008", "district_id": "720910", "name": "DONDO BARAT"}, {"id": "7209101009", "district_id": "720910", "name": "MUARA TOBA"}, {"id": "7209102004", "district_id": "720910", "name": "SUMOLI"}, {"id": "7209102005", "district_id": "720910", "name": "SABULIRA TOBA"}, {"id": "7209102006", "district_id": "720910", "name": "LABUAN"}, {"id": "7209102010", "district_id": "720910", "name": "PATINGKO"}]
+[
+  {
+    "id": "7209101001",
+    "district_id": "720910",
+    "name": "UENTANAGA BAWAH"
+  },
+  {
+    "id": "7209101002",
+    "district_id": "720910",
+    "name": "UENTANAGA ATAS"
+  },
+  {
+    "id": "7209101003",
+    "district_id": "720910",
+    "name": "DONDO"
+  },
+  {
+    "id": "7209101007",
+    "district_id": "720910",
+    "name": "UAMALINGKU"
+  },
+  {
+    "id": "7209101008",
+    "district_id": "720910",
+    "name": "DONDO BARAT"
+  },
+  {
+    "id": "7209101009",
+    "district_id": "720910",
+    "name": "MUARA TOBA"
+  },
+  {
+    "id": "7209102004",
+    "district_id": "720910",
+    "name": "SUMOLI"
+  },
+  {
+    "id": "7209102005",
+    "district_id": "720910",
+    "name": "SABULIRA TOBA"
+  },
+  {
+    "id": "7209102006",
+    "district_id": "720910",
+    "name": "LABUAN"
+  },
+  {
+    "id": "7209102010",
+    "district_id": "720910",
+    "name": "PATINGKO"
+  }
+]

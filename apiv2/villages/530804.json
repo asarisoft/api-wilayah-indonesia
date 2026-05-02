@@ -1,1 +1,27 @@
-[{"id": "5308041003", "district_id": "530804", "name": "MBONGAWANI"}, {"id": "5308041004", "district_id": "530804", "name": "RUKUN LIMA"}, {"id": "5308041006", "district_id": "530804", "name": "PAUPANDA"}, {"id": "5308041008", "district_id": "530804", "name": "TETANDARA"}, {"id": "5308041014", "district_id": "530804", "name": "TANJUNG"}]
+[
+  {
+    "id": "5308041003",
+    "district_id": "530804",
+    "name": "MBONGAWANI"
+  },
+  {
+    "id": "5308041004",
+    "district_id": "530804",
+    "name": "RUKUN LIMA"
+  },
+  {
+    "id": "5308041006",
+    "district_id": "530804",
+    "name": "PAUPANDA"
+  },
+  {
+    "id": "5308041008",
+    "district_id": "530804",
+    "name": "TETANDARA"
+  },
+  {
+    "id": "5308041014",
+    "district_id": "530804",
+    "name": "TANJUNG"
+  }
+]

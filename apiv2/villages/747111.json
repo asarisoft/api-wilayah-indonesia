@@ -1,1 +1,32 @@
-[{"id": "7471111001", "district_id": "747111", "name": "TOBIMEITA"}, {"id": "7471111002", "district_id": "747111", "name": "PETOAHA"}, {"id": "7471111003", "district_id": "747111", "name": "NAMBO"}, {"id": "7471111004", "district_id": "747111", "name": "BUNGKUTOKO"}, {"id": "7471111005", "district_id": "747111", "name": "SAMBULI"}, {"id": "7471111006", "district_id": "747111", "name": "TONDONGGEU"}]
+[
+  {
+    "id": "7471111001",
+    "district_id": "747111",
+    "name": "TOBIMEITA"
+  },
+  {
+    "id": "7471111002",
+    "district_id": "747111",
+    "name": "PETOAHA"
+  },
+  {
+    "id": "7471111003",
+    "district_id": "747111",
+    "name": "NAMBO"
+  },
+  {
+    "id": "7471111004",
+    "district_id": "747111",
+    "name": "BUNGKUTOKO"
+  },
+  {
+    "id": "7471111005",
+    "district_id": "747111",
+    "name": "SAMBULI"
+  },
+  {
+    "id": "7471111006",
+    "district_id": "747111",
+    "name": "TONDONGGEU"
+  }
+]

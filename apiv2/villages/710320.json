@@ -1,1 +1,32 @@
-[{"id": "7103202001", "district_id": "710320", "name": "PINTARENG"}, {"id": "7103202002", "district_id": "710320", "name": "BASAUH"}, {"id": "7103202003", "district_id": "710320", "name": "TUMALEDE"}, {"id": "7103202004", "district_id": "710320", "name": "SAMPAKANG"}, {"id": "7103202005", "district_id": "710320", "name": "DALOKAWENG"}, {"id": "7103202006", "district_id": "710320", "name": "MALISADE"}]
+[
+  {
+    "id": "7103202001",
+    "district_id": "710320",
+    "name": "PINTARENG"
+  },
+  {
+    "id": "7103202002",
+    "district_id": "710320",
+    "name": "BASAUH"
+  },
+  {
+    "id": "7103202003",
+    "district_id": "710320",
+    "name": "TUMALEDE"
+  },
+  {
+    "id": "7103202004",
+    "district_id": "710320",
+    "name": "SAMPAKANG"
+  },
+  {
+    "id": "7103202005",
+    "district_id": "710320",
+    "name": "DALOKAWENG"
+  },
+  {
+    "id": "7103202006",
+    "district_id": "710320",
+    "name": "MALISADE"
+  }
+]

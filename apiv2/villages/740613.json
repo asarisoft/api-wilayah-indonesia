@@ -1,1 +1,22 @@
-[{"id": "7406132001", "district_id": "740613", "name": "LANGKEMA"}, {"id": "7406132002", "district_id": "740613", "name": "BATUAWU"}, {"id": "7406132003", "district_id": "740613", "name": "PONGKALAERO"}, {"id": "7406132004", "district_id": "740613", "name": "PUU NUNU"}]
+[
+  {
+    "id": "7406132001",
+    "district_id": "740613",
+    "name": "LANGKEMA"
+  },
+  {
+    "id": "7406132002",
+    "district_id": "740613",
+    "name": "BATUAWU"
+  },
+  {
+    "id": "7406132003",
+    "district_id": "740613",
+    "name": "PONGKALAERO"
+  },
+  {
+    "id": "7406132004",
+    "district_id": "740613",
+    "name": "PUU NUNU"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "3578241001", "district_id": "357824", "name": "KUTISARI"}, {"id": "3578241002", "district_id": "357824", "name": "KENDANGSARI"}, {"id": "3578241003", "district_id": "357824", "name": "TENGGILIS MEJOYO"}, {"id": "3578241004", "district_id": "357824", "name": "PANJANG JIWO"}]
+[
+  {
+    "id": "3578241001",
+    "district_id": "357824",
+    "name": "KUTISARI"
+  },
+  {
+    "id": "3578241002",
+    "district_id": "357824",
+    "name": "KENDANGSARI"
+  },
+  {
+    "id": "3578241003",
+    "district_id": "357824",
+    "name": "TENGGILIS MEJOYO"
+  },
+  {
+    "id": "3578241004",
+    "district_id": "357824",
+    "name": "PANJANG JIWO"
+  }
+]

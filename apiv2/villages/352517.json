@@ -1,1 +1,87 @@
-[{"id": "3525172001", "district_id": "352517", "name": "DEKATAGUNG"}, {"id": "3525172002", "district_id": "352517", "name": "KUMALASA"}, {"id": "3525172003", "district_id": "352517", "name": "SUWARI"}, {"id": "3525172004", "district_id": "352517", "name": "PUDAKITBARAT"}, {"id": "3525172005", "district_id": "352517", "name": "PUDAKITTIMUR"}, {"id": "3525172006", "district_id": "352517", "name": "LEBAK"}, {"id": "3525172007", "district_id": "352517", "name": "BULULANJANG"}, {"id": "3525172008", "district_id": "352517", "name": "PATARSELAMAT"}, {"id": "3525172009", "district_id": "352517", "name": "KOTAKUSUMA"}, {"id": "3525172010", "district_id": "352517", "name": "SUNGAITELUK"}, {"id": "3525172011", "district_id": "352517", "name": "GUNUNGTEGUH"}, {"id": "3525172012", "district_id": "352517", "name": "SAWAHMULYA"}, {"id": "3525172013", "district_id": "352517", "name": "SUNGAIRUJING"}, {"id": "3525172014", "district_id": "352517", "name": "BALIKTERUS"}, {"id": "3525172015", "district_id": "352517", "name": "KEBONTELUKDALAM"}, {"id": "3525172016", "district_id": "352517", "name": "SIDOGEDUNGBATU"}, {"id": "3525172017", "district_id": "352517", "name": "DAUN"}]
+[
+  {
+    "id": "3525172001",
+    "district_id": "352517",
+    "name": "DEKATAGUNG"
+  },
+  {
+    "id": "3525172002",
+    "district_id": "352517",
+    "name": "KUMALASA"
+  },
+  {
+    "id": "3525172003",
+    "district_id": "352517",
+    "name": "SUWARI"
+  },
+  {
+    "id": "3525172004",
+    "district_id": "352517",
+    "name": "PUDAKITBARAT"
+  },
+  {
+    "id": "3525172005",
+    "district_id": "352517",
+    "name": "PUDAKITTIMUR"
+  },
+  {
+    "id": "3525172006",
+    "district_id": "352517",
+    "name": "LEBAK"
+  },
+  {
+    "id": "3525172007",
+    "district_id": "352517",
+    "name": "BULULANJANG"
+  },
+  {
+    "id": "3525172008",
+    "district_id": "352517",
+    "name": "PATARSELAMAT"
+  },
+  {
+    "id": "3525172009",
+    "district_id": "352517",
+    "name": "KOTAKUSUMA"
+  },
+  {
+    "id": "3525172010",
+    "district_id": "352517",
+    "name": "SUNGAITELUK"
+  },
+  {
+    "id": "3525172011",
+    "district_id": "352517",
+    "name": "GUNUNGTEGUH"
+  },
+  {
+    "id": "3525172012",
+    "district_id": "352517",
+    "name": "SAWAHMULYA"
+  },
+  {
+    "id": "3525172013",
+    "district_id": "352517",
+    "name": "SUNGAIRUJING"
+  },
+  {
+    "id": "3525172014",
+    "district_id": "352517",
+    "name": "BALIKTERUS"
+  },
+  {
+    "id": "3525172015",
+    "district_id": "352517",
+    "name": "KEBONTELUKDALAM"
+  },
+  {
+    "id": "3525172016",
+    "district_id": "352517",
+    "name": "SIDOGEDUNGBATU"
+  },
+  {
+    "id": "3525172017",
+    "district_id": "352517",
+    "name": "DAUN"
+  }
+]

@@ -1,1 +1,142 @@
-[{"id": "1106022001", "district_id": "110602", "name": "MON IKEUN"}, {"id": "1106022002", "district_id": "110602", "name": "NUSA"}, {"id": "1106022003", "district_id": "110602", "name": "WEU RAYA"}, {"id": "1106022004", "district_id": "110602", "name": "LAMKRUT"}, {"id": "1106022005", "district_id": "110602", "name": "LAMGABOH"}, {"id": "1106022006", "district_id": "110602", "name": "LAMBARO KUEH"}, {"id": "1106022007", "district_id": "110602", "name": "LAM ATEUK"}, {"id": "1106022008", "district_id": "110602", "name": "KUEH"}, {"id": "1106022009", "district_id": "110602", "name": "TANJONG"}, {"id": "1106022010", "district_id": "110602", "name": "ANEUK PAYA"}, {"id": "1106022011", "district_id": "110602", "name": "SEUBUN KEUTAPANG"}, {"id": "1106022012", "district_id": "110602", "name": "SEUBUN AYON"}, {"id": "1106022013", "district_id": "110602", "name": "LAMBARO SEUBUN"}, {"id": "1106022014", "district_id": "110602", "name": "NAGA UMBANG"}, {"id": "1106022015", "district_id": "110602", "name": "LAMPAYA"}, {"id": "1106022016", "district_id": "110602", "name": "MEUNASAH MESJID LAMLHOM"}, {"id": "1106022017", "district_id": "110602", "name": "MEUNASAH MON CUT"}, {"id": "1106022018", "district_id": "110602", "name": "MEUNASAH MANYANG"}, {"id": "1106022019", "district_id": "110602", "name": "MEUNASAH LAM GIREK"}, {"id": "1106022020", "district_id": "110602", "name": "MEUNASAH LAMBARO"}, {"id": "1106022021", "district_id": "110602", "name": "MEUNASAH BARO LAMLHOM"}, {"id": "1106022022", "district_id": "110602", "name": "MEUNASAH BEUTONG"}, {"id": "1106022023", "district_id": "110602", "name": "MNS. MESJID LAMPUUK"}, {"id": "1106022024", "district_id": "110602", "name": "MEUNASAH BALEE"}, {"id": "1106022025", "district_id": "110602", "name": "MEUNASAH KARIENG"}, {"id": "1106022026", "district_id": "110602", "name": "LAMCOK"}, {"id": "1106022027", "district_id": "110602", "name": "MEUNASAH CUT"}, {"id": "1106022028", "district_id": "110602", "name": "MEUNASAH BLANG"}]
+[
+  {
+    "id": "1106022001",
+    "district_id": "110602",
+    "name": "MON IKEUN"
+  },
+  {
+    "id": "1106022002",
+    "district_id": "110602",
+    "name": "NUSA"
+  },
+  {
+    "id": "1106022003",
+    "district_id": "110602",
+    "name": "WEU RAYA"
+  },
+  {
+    "id": "1106022004",
+    "district_id": "110602",
+    "name": "LAMKRUT"
+  },
+  {
+    "id": "1106022005",
+    "district_id": "110602",
+    "name": "LAMGABOH"
+  },
+  {
+    "id": "1106022006",
+    "district_id": "110602",
+    "name": "LAMBARO KUEH"
+  },
+  {
+    "id": "1106022007",
+    "district_id": "110602",
+    "name": "LAM ATEUK"
+  },
+  {
+    "id": "1106022008",
+    "district_id": "110602",
+    "name": "KUEH"
+  },
+  {
+    "id": "1106022009",
+    "district_id": "110602",
+    "name": "TANJONG"
+  },
+  {
+    "id": "1106022010",
+    "district_id": "110602",
+    "name": "ANEUK PAYA"
+  },
+  {
+    "id": "1106022011",
+    "district_id": "110602",
+    "name": "SEUBUN KEUTAPANG"
+  },
+  {
+    "id": "1106022012",
+    "district_id": "110602",
+    "name": "SEUBUN AYON"
+  },
+  {
+    "id": "1106022013",
+    "district_id": "110602",
+    "name": "LAMBARO SEUBUN"
+  },
+  {
+    "id": "1106022014",
+    "district_id": "110602",
+    "name": "NAGA UMBANG"
+  },
+  {
+    "id": "1106022015",
+    "district_id": "110602",
+    "name": "LAMPAYA"
+  },
+  {
+    "id": "1106022016",
+    "district_id": "110602",
+    "name": "MEUNASAH MESJID LAMLHOM"
+  },
+  {
+    "id": "1106022017",
+    "district_id": "110602",
+    "name": "MEUNASAH MON CUT"
+  },
+  {
+    "id": "1106022018",
+    "district_id": "110602",
+    "name": "MEUNASAH MANYANG"
+  },
+  {
+    "id": "1106022019",
+    "district_id": "110602",
+    "name": "MEUNASAH LAM GIREK"
+  },
+  {
+    "id": "1106022020",
+    "district_id": "110602",
+    "name": "MEUNASAH LAMBARO"
+  },
+  {
+    "id": "1106022021",
+    "district_id": "110602",
+    "name": "MEUNASAH BARO LAMLHOM"
+  },
+  {
+    "id": "1106022022",
+    "district_id": "110602",
+    "name": "MEUNASAH BEUTONG"
+  },
+  {
+    "id": "1106022023",
+    "district_id": "110602",
+    "name": "MNS. MESJID LAMPUUK"
+  },
+  {
+    "id": "1106022024",
+    "district_id": "110602",
+    "name": "MEUNASAH BALEE"
+  },
+  {
+    "id": "1106022025",
+    "district_id": "110602",
+    "name": "MEUNASAH KARIENG"
+  },
+  {
+    "id": "1106022026",
+    "district_id": "110602",
+    "name": "LAMCOK"
+  },
+  {
+    "id": "1106022027",
+    "district_id": "110602",
+    "name": "MEUNASAH CUT"
+  },
+  {
+    "id": "1106022028",
+    "district_id": "110602",
+    "name": "MEUNASAH BLANG"
+  }
+]

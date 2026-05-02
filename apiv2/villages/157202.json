@@ -1,1 +1,47 @@
-[{"id": "1572022001", "district_id": "157202", "name": "KOTO RENAH"}, {"id": "1572022002", "district_id": "157202", "name": "KOTO KERAS"}, {"id": "1572022003", "district_id": "157202", "name": "KOTO BENTO"}, {"id": "1572022004", "district_id": "157202", "name": "KOTO LOLO"}, {"id": "1572022005", "district_id": "157202", "name": "KOTO TENGAH"}, {"id": "1572022008", "district_id": "157202", "name": "KOTO DUO"}, {"id": "1572022010", "district_id": "157202", "name": "SUNGAI LIUK"}, {"id": "1572022011", "district_id": "157202", "name": "SEBERANG"}, {"id": "1572022015", "district_id": "157202", "name": "SUMUR GEDANG"}]
+[
+  {
+    "id": "1572022001",
+    "district_id": "157202",
+    "name": "KOTO RENAH"
+  },
+  {
+    "id": "1572022002",
+    "district_id": "157202",
+    "name": "KOTO KERAS"
+  },
+  {
+    "id": "1572022003",
+    "district_id": "157202",
+    "name": "KOTO BENTO"
+  },
+  {
+    "id": "1572022004",
+    "district_id": "157202",
+    "name": "KOTO LOLO"
+  },
+  {
+    "id": "1572022005",
+    "district_id": "157202",
+    "name": "KOTO TENGAH"
+  },
+  {
+    "id": "1572022008",
+    "district_id": "157202",
+    "name": "KOTO DUO"
+  },
+  {
+    "id": "1572022010",
+    "district_id": "157202",
+    "name": "SUNGAI LIUK"
+  },
+  {
+    "id": "1572022011",
+    "district_id": "157202",
+    "name": "SEBERANG"
+  },
+  {
+    "id": "1572022015",
+    "district_id": "157202",
+    "name": "SUMUR GEDANG"
+  }
+]

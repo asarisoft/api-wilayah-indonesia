@@ -1,1 +1,112 @@
-[{"id": "6112012001", "district_id": "611201", "name": "SUNGAI RAYA"}, {"id": "6112012002", "district_id": "611201", "name": "SUNGAI AMBANGAH"}, {"id": "6112012003", "district_id": "611201", "name": "ARANG LIMBUNG"}, {"id": "6112012004", "district_id": "611201", "name": "KUALA DUA"}, {"id": "6112012005", "district_id": "611201", "name": "TEBANG KACANG"}, {"id": "6112012006", "district_id": "611201", "name": "SUNGAI ASAM"}, {"id": "6112012007", "district_id": "611201", "name": "PULAU LIMBUNG"}, {"id": "6112012008", "district_id": "611201", "name": "KAPUR"}, {"id": "6112012009", "district_id": "611201", "name": "GUNUNG TAMANG"}, {"id": "6112012010", "district_id": "611201", "name": "SUNGAI BULAN"}, {"id": "6112012011", "district_id": "611201", "name": "LIMBUNG"}, {"id": "6112012012", "district_id": "611201", "name": "TELUK KAPUAS"}, {"id": "6112012013", "district_id": "611201", "name": "MADU SARI"}, {"id": "6112012014", "district_id": "611201", "name": "MEKAR SARI"}, {"id": "6112012015", "district_id": "611201", "name": "MEKAR BARU"}, {"id": "6112012016", "district_id": "611201", "name": "SUNGAI RAYA DALAM"}, {"id": "6112012017", "district_id": "611201", "name": "PARIT BARU"}, {"id": "6112012018", "district_id": "611201", "name": "PULAU JAMBU"}, {"id": "6112012019", "district_id": "611201", "name": "KALIBANDUNG"}, {"id": "6112012020", "district_id": "611201", "name": "MUARA BARU"}, {"id": "6112012021", "district_id": "611201", "name": "SUKULANTING"}, {"id": "6112012022", "district_id": "611201", "name": "PERMATA JAYA"}]
+[
+  {
+    "id": "6112012001",
+    "district_id": "611201",
+    "name": "SUNGAI RAYA"
+  },
+  {
+    "id": "6112012002",
+    "district_id": "611201",
+    "name": "SUNGAI AMBANGAH"
+  },
+  {
+    "id": "6112012003",
+    "district_id": "611201",
+    "name": "ARANG LIMBUNG"
+  },
+  {
+    "id": "6112012004",
+    "district_id": "611201",
+    "name": "KUALA DUA"
+  },
+  {
+    "id": "6112012005",
+    "district_id": "611201",
+    "name": "TEBANG KACANG"
+  },
+  {
+    "id": "6112012006",
+    "district_id": "611201",
+    "name": "SUNGAI ASAM"
+  },
+  {
+    "id": "6112012007",
+    "district_id": "611201",
+    "name": "PULAU LIMBUNG"
+  },
+  {
+    "id": "6112012008",
+    "district_id": "611201",
+    "name": "KAPUR"
+  },
+  {
+    "id": "6112012009",
+    "district_id": "611201",
+    "name": "GUNUNG TAMANG"
+  },
+  {
+    "id": "6112012010",
+    "district_id": "611201",
+    "name": "SUNGAI BULAN"
+  },
+  {
+    "id": "6112012011",
+    "district_id": "611201",
+    "name": "LIMBUNG"
+  },
+  {
+    "id": "6112012012",
+    "district_id": "611201",
+    "name": "TELUK KAPUAS"
+  },
+  {
+    "id": "6112012013",
+    "district_id": "611201",
+    "name": "MADU SARI"
+  },
+  {
+    "id": "6112012014",
+    "district_id": "611201",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "6112012015",
+    "district_id": "611201",
+    "name": "MEKAR BARU"
+  },
+  {
+    "id": "6112012016",
+    "district_id": "611201",
+    "name": "SUNGAI RAYA DALAM"
+  },
+  {
+    "id": "6112012017",
+    "district_id": "611201",
+    "name": "PARIT BARU"
+  },
+  {
+    "id": "6112012018",
+    "district_id": "611201",
+    "name": "PULAU JAMBU"
+  },
+  {
+    "id": "6112012019",
+    "district_id": "611201",
+    "name": "KALIBANDUNG"
+  },
+  {
+    "id": "6112012020",
+    "district_id": "611201",
+    "name": "MUARA BARU"
+  },
+  {
+    "id": "6112012021",
+    "district_id": "611201",
+    "name": "SUKULANTING"
+  },
+  {
+    "id": "6112012022",
+    "district_id": "611201",
+    "name": "PERMATA JAYA"
+  }
+]

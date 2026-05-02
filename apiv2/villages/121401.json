@@ -1,1 +1,67 @@
-[{"id": "1214012002", "district_id": "121401", "name": "HILISANGOWOLA"}, {"id": "1214012005", "district_id": "121401", "name": "HILIOTALUA"}, {"id": "1214012006", "district_id": "121401", "name": "KOENDRAFO"}, {"id": "1214012008", "district_id": "121401", "name": "LAWA-LAWA LUO"}, {"id": "1214012016", "district_id": "121401", "name": "TUHEMBERUA"}, {"id": "1214012017", "district_id": "121401", "name": "TESIKHORI"}, {"id": "1214012021", "district_id": "121401", "name": "TUMARI"}, {"id": "1214012023", "district_id": "121401", "name": "EWO"}, {"id": "1214012024", "district_id": "121401", "name": "KO'OLOTANO"}, {"id": "1214012026", "district_id": "121401", "name": "BOTOHILINDRURIA"}, {"id": "1214012027", "district_id": "121401", "name": "CARITAS SOGAWUNASI"}, {"id": "1214012028", "district_id": "121401", "name": "ORUDUA LAWA-LAWA LUO"}, {"id": "1214012029", "district_id": "121401", "name": "HILIFAONDRATO"}]
+[
+  {
+    "id": "1214012002",
+    "district_id": "121401",
+    "name": "HILISANGOWOLA"
+  },
+  {
+    "id": "1214012005",
+    "district_id": "121401",
+    "name": "HILIOTALUA"
+  },
+  {
+    "id": "1214012006",
+    "district_id": "121401",
+    "name": "KOENDRAFO"
+  },
+  {
+    "id": "1214012008",
+    "district_id": "121401",
+    "name": "LAWA-LAWA LUO"
+  },
+  {
+    "id": "1214012016",
+    "district_id": "121401",
+    "name": "TUHEMBERUA"
+  },
+  {
+    "id": "1214012017",
+    "district_id": "121401",
+    "name": "TESIKHORI"
+  },
+  {
+    "id": "1214012021",
+    "district_id": "121401",
+    "name": "TUMARI"
+  },
+  {
+    "id": "1214012023",
+    "district_id": "121401",
+    "name": "EWO"
+  },
+  {
+    "id": "1214012024",
+    "district_id": "121401",
+    "name": "KO'OLOTANO"
+  },
+  {
+    "id": "1214012026",
+    "district_id": "121401",
+    "name": "BOTOHILINDRURIA"
+  },
+  {
+    "id": "1214012027",
+    "district_id": "121401",
+    "name": "CARITAS SOGAWUNASI"
+  },
+  {
+    "id": "1214012028",
+    "district_id": "121401",
+    "name": "ORUDUA LAWA-LAWA LUO"
+  },
+  {
+    "id": "1214012029",
+    "district_id": "121401",
+    "name": "HILIFAONDRATO"
+  }
+]

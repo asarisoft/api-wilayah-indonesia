@@ -1,1 +1,57 @@
-[{"id": "7404272001", "district_id": "740427", "name": "WALOMPO"}, {"id": "7404272002", "district_id": "740427", "name": "MATANAUWE"}, {"id": "7404272003", "district_id": "740427", "name": "SAMPUABALO"}, {"id": "7404272004", "district_id": "740427", "name": "KURAA"}, {"id": "7404272005", "district_id": "740427", "name": "KUMBEWAHA"}, {"id": "7404272006", "district_id": "740427", "name": "SUMBER SARI"}, {"id": "7404272007", "district_id": "740427", "name": "LABUANDIRI"}, {"id": "7404272008", "district_id": "740427", "name": "KARYA JAYA"}, {"id": "7404272009", "district_id": "740427", "name": "MANURU"}, {"id": "7404272010", "district_id": "740427", "name": "GUNUNGJAYA"}, {"id": "7404272011", "district_id": "740427", "name": "BAHARI MAKMUR"}]
+[
+  {
+    "id": "7404272001",
+    "district_id": "740427",
+    "name": "WALOMPO"
+  },
+  {
+    "id": "7404272002",
+    "district_id": "740427",
+    "name": "MATANAUWE"
+  },
+  {
+    "id": "7404272003",
+    "district_id": "740427",
+    "name": "SAMPUABALO"
+  },
+  {
+    "id": "7404272004",
+    "district_id": "740427",
+    "name": "KURAA"
+  },
+  {
+    "id": "7404272005",
+    "district_id": "740427",
+    "name": "KUMBEWAHA"
+  },
+  {
+    "id": "7404272006",
+    "district_id": "740427",
+    "name": "SUMBER SARI"
+  },
+  {
+    "id": "7404272007",
+    "district_id": "740427",
+    "name": "LABUANDIRI"
+  },
+  {
+    "id": "7404272008",
+    "district_id": "740427",
+    "name": "KARYA JAYA"
+  },
+  {
+    "id": "7404272009",
+    "district_id": "740427",
+    "name": "MANURU"
+  },
+  {
+    "id": "7404272010",
+    "district_id": "740427",
+    "name": "GUNUNGJAYA"
+  },
+  {
+    "id": "7404272011",
+    "district_id": "740427",
+    "name": "BAHARI MAKMUR"
+  }
+]

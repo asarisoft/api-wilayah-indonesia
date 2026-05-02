@@ -1,1 +1,27 @@
-[{"id": "9602092001", "district_id": "960209", "name": "KONDA"}, {"id": "9602092002", "district_id": "960209", "name": "WAMARGEGE"}, {"id": "9602092003", "district_id": "960209", "name": "BARIAT"}, {"id": "9602092004", "district_id": "960209", "name": "MANELEK"}, {"id": "9602092005", "district_id": "960209", "name": "NAGNA"}]
+[
+  {
+    "id": "9602092001",
+    "district_id": "960209",
+    "name": "KONDA"
+  },
+  {
+    "id": "9602092002",
+    "district_id": "960209",
+    "name": "WAMARGEGE"
+  },
+  {
+    "id": "9602092003",
+    "district_id": "960209",
+    "name": "BARIAT"
+  },
+  {
+    "id": "9602092004",
+    "district_id": "960209",
+    "name": "MANELEK"
+  },
+  {
+    "id": "9602092005",
+    "district_id": "960209",
+    "name": "NAGNA"
+  }
+]

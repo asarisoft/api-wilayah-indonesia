@@ -1,1 +1,47 @@
-[{"id": "7103192001", "district_id": "710319", "name": "HANGKE"}, {"id": "7103192002", "district_id": "710319", "name": "SALURANG"}, {"id": "7103192003", "district_id": "710319", "name": "TAMBUNG"}, {"id": "7103192004", "district_id": "710319", "name": "BEENG"}, {"id": "7103192005", "district_id": "710319", "name": "LEHUPU"}, {"id": "7103192006", "district_id": "710319", "name": "BOWONE"}, {"id": "7103192007", "district_id": "710319", "name": "BEENG LAUT"}, {"id": "7103192008", "district_id": "710319", "name": "TENDA"}, {"id": "7103192009", "district_id": "710319", "name": "AHA PATUNG"}]
+[
+  {
+    "id": "7103192001",
+    "district_id": "710319",
+    "name": "HANGKE"
+  },
+  {
+    "id": "7103192002",
+    "district_id": "710319",
+    "name": "SALURANG"
+  },
+  {
+    "id": "7103192003",
+    "district_id": "710319",
+    "name": "TAMBUNG"
+  },
+  {
+    "id": "7103192004",
+    "district_id": "710319",
+    "name": "BEENG"
+  },
+  {
+    "id": "7103192005",
+    "district_id": "710319",
+    "name": "LEHUPU"
+  },
+  {
+    "id": "7103192006",
+    "district_id": "710319",
+    "name": "BOWONE"
+  },
+  {
+    "id": "7103192007",
+    "district_id": "710319",
+    "name": "BEENG LAUT"
+  },
+  {
+    "id": "7103192008",
+    "district_id": "710319",
+    "name": "TENDA"
+  },
+  {
+    "id": "7103192009",
+    "district_id": "710319",
+    "name": "AHA PATUNG"
+  }
+]

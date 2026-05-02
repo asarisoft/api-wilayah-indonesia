@@ -1,1 +1,167 @@
-[{"id": "6308032001", "district_id": "630803", "name": "RANTAU KARAU HILIR"}, {"id": "6308032002", "district_id": "630803", "name": "RANTAU KARAU HULU"}, {"id": "6308032003", "district_id": "630803", "name": "BANYU TAJUN HILIR"}, {"id": "6308032004", "district_id": "630803", "name": "BANYU TAJUN HULU"}, {"id": "6308032005", "district_id": "630803", "name": "BANYU TAJUN PANGKALAN"}, {"id": "6308032006", "district_id": "630803", "name": "SUNGAI SANDUNG"}, {"id": "6308032007", "district_id": "630803", "name": "SUNGAI PANDAN HILIR"}, {"id": "6308032008", "district_id": "630803", "name": "TELUK BETUNG"}, {"id": "6308032009", "district_id": "630803", "name": "TAMBALANG"}, {"id": "6308032010", "district_id": "630803", "name": "HAMBUKU HULU"}, {"id": "6308032011", "district_id": "630803", "name": "HAMBUKU TENGAH"}, {"id": "6308032014", "district_id": "630803", "name": "PANDULANGAN"}, {"id": "6308032015", "district_id": "630803", "name": "SUNGAI PANDAN HULU"}, {"id": "6308032021", "district_id": "630803", "name": "PONDOK BABARIS"}, {"id": "6308032024", "district_id": "630803", "name": "SUNGAI PINANG"}, {"id": "6308032025", "district_id": "630803", "name": "TAMBALANG KECIL"}, {"id": "6308032026", "district_id": "630803", "name": "PUTAT ATAS"}, {"id": "6308032029", "district_id": "630803", "name": "BANYU TAJUN DALAM"}, {"id": "6308032031", "district_id": "630803", "name": "SUNGAI PANDAN TENGAH"}, {"id": "6308032032", "district_id": "630803", "name": "HAMBUKU RAYA"}, {"id": "6308032033", "district_id": "630803", "name": "SUNGAI KUINI"}, {"id": "6308032034", "district_id": "630803", "name": "TAPUS DALAM"}, {"id": "6308032035", "district_id": "630803", "name": "RANTAU KARAUTENGAH"}, {"id": "6308032037", "district_id": "630803", "name": "TAMBALANG TENGAH"}, {"id": "6308032038", "district_id": "630803", "name": "TELUK MESJID"}, {"id": "6308032039", "district_id": "630803", "name": "MURUNG ASAM"}, {"id": "6308032040", "district_id": "630803", "name": "TATAH LABAN"}, {"id": "6308032041", "district_id": "630803", "name": "JALAN LURUS"}, {"id": "6308032042", "district_id": "630803", "name": "TELUK SINAR"}, {"id": "6308032043", "district_id": "630803", "name": "PADANG BANGKAL"}, {"id": "6308032044", "district_id": "630803", "name": "HAMBUKU PASAR"}, {"id": "6308032045", "district_id": "630803", "name": "PANGKALAN SARI"}, {"id": "6308032046", "district_id": "630803", "name": "RANTAU KARAU RAYA"}]
+[
+  {
+    "id": "6308032001",
+    "district_id": "630803",
+    "name": "RANTAU KARAU HILIR"
+  },
+  {
+    "id": "6308032002",
+    "district_id": "630803",
+    "name": "RANTAU KARAU HULU"
+  },
+  {
+    "id": "6308032003",
+    "district_id": "630803",
+    "name": "BANYU TAJUN HILIR"
+  },
+  {
+    "id": "6308032004",
+    "district_id": "630803",
+    "name": "BANYU TAJUN HULU"
+  },
+  {
+    "id": "6308032005",
+    "district_id": "630803",
+    "name": "BANYU TAJUN PANGKALAN"
+  },
+  {
+    "id": "6308032006",
+    "district_id": "630803",
+    "name": "SUNGAI SANDUNG"
+  },
+  {
+    "id": "6308032007",
+    "district_id": "630803",
+    "name": "SUNGAI PANDAN HILIR"
+  },
+  {
+    "id": "6308032008",
+    "district_id": "630803",
+    "name": "TELUK BETUNG"
+  },
+  {
+    "id": "6308032009",
+    "district_id": "630803",
+    "name": "TAMBALANG"
+  },
+  {
+    "id": "6308032010",
+    "district_id": "630803",
+    "name": "HAMBUKU HULU"
+  },
+  {
+    "id": "6308032011",
+    "district_id": "630803",
+    "name": "HAMBUKU TENGAH"
+  },
+  {
+    "id": "6308032014",
+    "district_id": "630803",
+    "name": "PANDULANGAN"
+  },
+  {
+    "id": "6308032015",
+    "district_id": "630803",
+    "name": "SUNGAI PANDAN HULU"
+  },
+  {
+    "id": "6308032021",
+    "district_id": "630803",
+    "name": "PONDOK BABARIS"
+  },
+  {
+    "id": "6308032024",
+    "district_id": "630803",
+    "name": "SUNGAI PINANG"
+  },
+  {
+    "id": "6308032025",
+    "district_id": "630803",
+    "name": "TAMBALANG KECIL"
+  },
+  {
+    "id": "6308032026",
+    "district_id": "630803",
+    "name": "PUTAT ATAS"
+  },
+  {
+    "id": "6308032029",
+    "district_id": "630803",
+    "name": "BANYU TAJUN DALAM"
+  },
+  {
+    "id": "6308032031",
+    "district_id": "630803",
+    "name": "SUNGAI PANDAN TENGAH"
+  },
+  {
+    "id": "6308032032",
+    "district_id": "630803",
+    "name": "HAMBUKU RAYA"
+  },
+  {
+    "id": "6308032033",
+    "district_id": "630803",
+    "name": "SUNGAI KUINI"
+  },
+  {
+    "id": "6308032034",
+    "district_id": "630803",
+    "name": "TAPUS DALAM"
+  },
+  {
+    "id": "6308032035",
+    "district_id": "630803",
+    "name": "RANTAU KARAUTENGAH"
+  },
+  {
+    "id": "6308032037",
+    "district_id": "630803",
+    "name": "TAMBALANG TENGAH"
+  },
+  {
+    "id": "6308032038",
+    "district_id": "630803",
+    "name": "TELUK MESJID"
+  },
+  {
+    "id": "6308032039",
+    "district_id": "630803",
+    "name": "MURUNG ASAM"
+  },
+  {
+    "id": "6308032040",
+    "district_id": "630803",
+    "name": "TATAH LABAN"
+  },
+  {
+    "id": "6308032041",
+    "district_id": "630803",
+    "name": "JALAN LURUS"
+  },
+  {
+    "id": "6308032042",
+    "district_id": "630803",
+    "name": "TELUK SINAR"
+  },
+  {
+    "id": "6308032043",
+    "district_id": "630803",
+    "name": "PADANG BANGKAL"
+  },
+  {
+    "id": "6308032044",
+    "district_id": "630803",
+    "name": "HAMBUKU PASAR"
+  },
+  {
+    "id": "6308032045",
+    "district_id": "630803",
+    "name": "PANGKALAN SARI"
+  },
+  {
+    "id": "6308032046",
+    "district_id": "630803",
+    "name": "RANTAU KARAU RAYA"
+  }
+]

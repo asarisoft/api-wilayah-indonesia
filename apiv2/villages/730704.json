@@ -1,1 +1,57 @@
-[{"id": "7307041001", "district_id": "730704", "name": "SAMAENRE"}, {"id": "7307042002", "district_id": "730704", "name": "MATTUNRENG TELLUE"}, {"id": "7307042003", "district_id": "730704", "name": "KOMPANG"}, {"id": "7307042004", "district_id": "730704", "name": "BARU"}, {"id": "7307042005", "district_id": "730704", "name": "PATTONGKO"}, {"id": "7307042006", "district_id": "730704", "name": "SAOTENGNGA"}, {"id": "7307042007", "district_id": "730704", "name": "SAOHIRING"}, {"id": "7307042008", "district_id": "730704", "name": "KANRUNG"}, {"id": "7307042009", "district_id": "730704", "name": "SAOTANRE"}, {"id": "7307042010", "district_id": "730704", "name": "BONTO"}, {"id": "7307042011", "district_id": "730704", "name": "GANTARANG"}]
+[
+  {
+    "id": "7307041001",
+    "district_id": "730704",
+    "name": "SAMAENRE"
+  },
+  {
+    "id": "7307042002",
+    "district_id": "730704",
+    "name": "MATTUNRENG TELLUE"
+  },
+  {
+    "id": "7307042003",
+    "district_id": "730704",
+    "name": "KOMPANG"
+  },
+  {
+    "id": "7307042004",
+    "district_id": "730704",
+    "name": "BARU"
+  },
+  {
+    "id": "7307042005",
+    "district_id": "730704",
+    "name": "PATTONGKO"
+  },
+  {
+    "id": "7307042006",
+    "district_id": "730704",
+    "name": "SAOTENGNGA"
+  },
+  {
+    "id": "7307042007",
+    "district_id": "730704",
+    "name": "SAOHIRING"
+  },
+  {
+    "id": "7307042008",
+    "district_id": "730704",
+    "name": "KANRUNG"
+  },
+  {
+    "id": "7307042009",
+    "district_id": "730704",
+    "name": "SAOTANRE"
+  },
+  {
+    "id": "7307042010",
+    "district_id": "730704",
+    "name": "BONTO"
+  },
+  {
+    "id": "7307042011",
+    "district_id": "730704",
+    "name": "GANTARANG"
+  }
+]

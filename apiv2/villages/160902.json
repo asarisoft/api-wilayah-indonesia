@@ -1,1 +1,67 @@
-[{"id": "1609022012", "district_id": "160902", "name": "TANJUNG BULAN"}, {"id": "1609022013", "district_id": "160902", "name": "PULAU BERINGIN"}, {"id": "1609022014", "district_id": "160902", "name": "AROMANTAI"}, {"id": "1609022015", "district_id": "160902", "name": "TANJUNG KARI"}, {"id": "1609022016", "district_id": "160902", "name": "SIMPANG PANCUR"}, {"id": "1609022017", "district_id": "160902", "name": "PAGAR AGUNG"}, {"id": "1609022018", "district_id": "160902", "name": "GUNUNG BATU"}, {"id": "1609022019", "district_id": "160902", "name": "KEMU"}, {"id": "1609022020", "district_id": "160902", "name": "ANUGERAH KEMU"}, {"id": "1609022021", "district_id": "160902", "name": "KEMU ULU"}, {"id": "1609022022", "district_id": "160902", "name": "PEMATANG OBAR"}, {"id": "1609022023", "district_id": "160902", "name": "TANJUNG BULAN ULU"}, {"id": "1609022024", "district_id": "160902", "name": "PULAU BERINGIN UTARA"}]
+[
+  {
+    "id": "1609022012",
+    "district_id": "160902",
+    "name": "TANJUNG BULAN"
+  },
+  {
+    "id": "1609022013",
+    "district_id": "160902",
+    "name": "PULAU BERINGIN"
+  },
+  {
+    "id": "1609022014",
+    "district_id": "160902",
+    "name": "AROMANTAI"
+  },
+  {
+    "id": "1609022015",
+    "district_id": "160902",
+    "name": "TANJUNG KARI"
+  },
+  {
+    "id": "1609022016",
+    "district_id": "160902",
+    "name": "SIMPANG PANCUR"
+  },
+  {
+    "id": "1609022017",
+    "district_id": "160902",
+    "name": "PAGAR AGUNG"
+  },
+  {
+    "id": "1609022018",
+    "district_id": "160902",
+    "name": "GUNUNG BATU"
+  },
+  {
+    "id": "1609022019",
+    "district_id": "160902",
+    "name": "KEMU"
+  },
+  {
+    "id": "1609022020",
+    "district_id": "160902",
+    "name": "ANUGERAH KEMU"
+  },
+  {
+    "id": "1609022021",
+    "district_id": "160902",
+    "name": "KEMU ULU"
+  },
+  {
+    "id": "1609022022",
+    "district_id": "160902",
+    "name": "PEMATANG OBAR"
+  },
+  {
+    "id": "1609022023",
+    "district_id": "160902",
+    "name": "TANJUNG BULAN ULU"
+  },
+  {
+    "id": "1609022024",
+    "district_id": "160902",
+    "name": "PULAU BERINGIN UTARA"
+  }
+]

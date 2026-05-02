@@ -1,1 +1,32 @@
-[{"id": "5204072001", "district_id": "520407", "name": "BATU ROTOK"}, {"id": "5204072002", "district_id": "520407", "name": "TANGKAM PULIT"}, {"id": "5204072003", "district_id": "520407", "name": "BAO DESA"}, {"id": "5204072004", "district_id": "520407", "name": "TEPAL"}, {"id": "5204072005", "district_id": "520407", "name": "BATU DULANG"}, {"id": "5204072006", "district_id": "520407", "name": "KELUNGKUNG"}]
+[
+  {
+    "id": "5204072001",
+    "district_id": "520407",
+    "name": "BATU ROTOK"
+  },
+  {
+    "id": "5204072002",
+    "district_id": "520407",
+    "name": "TANGKAM PULIT"
+  },
+  {
+    "id": "5204072003",
+    "district_id": "520407",
+    "name": "BAO DESA"
+  },
+  {
+    "id": "5204072004",
+    "district_id": "520407",
+    "name": "TEPAL"
+  },
+  {
+    "id": "5204072005",
+    "district_id": "520407",
+    "name": "BATU DULANG"
+  },
+  {
+    "id": "5204072006",
+    "district_id": "520407",
+    "name": "KELUNGKUNG"
+  }
+]

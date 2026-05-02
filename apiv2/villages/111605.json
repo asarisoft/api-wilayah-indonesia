@@ -1,1 +1,27 @@
-[{"id": "1116052001", "district_id": "111605", "name": "KOTA KUALASIMPANG"}, {"id": "1116052002", "district_id": "111605", "name": "PERDAMAIAN"}, {"id": "1116052003", "district_id": "111605", "name": "SRIWIJAYA"}, {"id": "1116052004", "district_id": "111605", "name": "BUKIT TEMPURUNG"}, {"id": "1116052005", "district_id": "111605", "name": "KOTA LINTANG"}]
+[
+  {
+    "id": "1116052001",
+    "district_id": "111605",
+    "name": "KOTA KUALASIMPANG"
+  },
+  {
+    "id": "1116052002",
+    "district_id": "111605",
+    "name": "PERDAMAIAN"
+  },
+  {
+    "id": "1116052003",
+    "district_id": "111605",
+    "name": "SRIWIJAYA"
+  },
+  {
+    "id": "1116052004",
+    "district_id": "111605",
+    "name": "BUKIT TEMPURUNG"
+  },
+  {
+    "id": "1116052005",
+    "district_id": "111605",
+    "name": "KOTA LINTANG"
+  }
+]

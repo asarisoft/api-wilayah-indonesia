@@ -1,1 +1,57 @@
-[{"id": "5319112001", "district_id": "531911", "name": "SATAR PADUT"}, {"id": "5319112002", "district_id": "531911", "name": "SATAR PUNDA"}, {"id": "5319112003", "district_id": "531911", "name": "NAMPAR TABANG"}, {"id": "5319112004", "district_id": "531911", "name": "LENCUR"}, {"id": "5319112005", "district_id": "531911", "name": "LIANG DERUK"}, {"id": "5319112006", "district_id": "531911", "name": "HAJU WANGI"}, {"id": "5319112007", "district_id": "531911", "name": "SATAR KAMPAS"}, {"id": "5319112008", "district_id": "531911", "name": "GOLO MANGUNG"}, {"id": "5319112009", "district_id": "531911", "name": "GOLO WONTONG"}, {"id": "5319112010", "district_id": "531911", "name": "GOLO MUNGA BARAT"}, {"id": "5319112011", "district_id": "531911", "name": "SATAR PUNDA BARAT"}]
+[
+  {
+    "id": "5319112001",
+    "district_id": "531911",
+    "name": "SATAR PADUT"
+  },
+  {
+    "id": "5319112002",
+    "district_id": "531911",
+    "name": "SATAR PUNDA"
+  },
+  {
+    "id": "5319112003",
+    "district_id": "531911",
+    "name": "NAMPAR TABANG"
+  },
+  {
+    "id": "5319112004",
+    "district_id": "531911",
+    "name": "LENCUR"
+  },
+  {
+    "id": "5319112005",
+    "district_id": "531911",
+    "name": "LIANG DERUK"
+  },
+  {
+    "id": "5319112006",
+    "district_id": "531911",
+    "name": "HAJU WANGI"
+  },
+  {
+    "id": "5319112007",
+    "district_id": "531911",
+    "name": "SATAR KAMPAS"
+  },
+  {
+    "id": "5319112008",
+    "district_id": "531911",
+    "name": "GOLO MANGUNG"
+  },
+  {
+    "id": "5319112009",
+    "district_id": "531911",
+    "name": "GOLO WONTONG"
+  },
+  {
+    "id": "5319112010",
+    "district_id": "531911",
+    "name": "GOLO MUNGA BARAT"
+  },
+  {
+    "id": "5319112011",
+    "district_id": "531911",
+    "name": "SATAR PUNDA BARAT"
+  }
+]

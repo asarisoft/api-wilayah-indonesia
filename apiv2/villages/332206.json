@@ -1,1 +1,82 @@
-[{"id": "3322062001", "district_id": "332206", "name": "GEDANGAN"}, {"id": "3322062002", "district_id": "332206", "name": "KALIBEJI"}, {"id": "3322062003", "district_id": "332206", "name": "ROWOSARI"}, {"id": "3322062004", "district_id": "332206", "name": "SRATEN"}, {"id": "3322062005", "district_id": "332206", "name": "JOMBOR"}, {"id": "3322062006", "district_id": "332206", "name": "CANDIREJO"}, {"id": "3322062007", "district_id": "332206", "name": "KESONGO"}, {"id": "3322062008", "district_id": "332206", "name": "WATUAGUNG"}, {"id": "3322062009", "district_id": "332206", "name": "LOPAIT"}, {"id": "3322062010", "district_id": "332206", "name": "TUNTANG"}, {"id": "3322062011", "district_id": "332206", "name": "DELIK"}, {"id": "3322062012", "district_id": "332206", "name": "TLOGO"}, {"id": "3322062013", "district_id": "332206", "name": "KARANGTENGAH"}, {"id": "3322062014", "district_id": "332206", "name": "KARANGANYAR"}, {"id": "3322062015", "district_id": "332206", "name": "TLOMPAKAN"}, {"id": "3322062016", "district_id": "332206", "name": "NGAJARAN"}]
+[
+  {
+    "id": "3322062001",
+    "district_id": "332206",
+    "name": "GEDANGAN"
+  },
+  {
+    "id": "3322062002",
+    "district_id": "332206",
+    "name": "KALIBEJI"
+  },
+  {
+    "id": "3322062003",
+    "district_id": "332206",
+    "name": "ROWOSARI"
+  },
+  {
+    "id": "3322062004",
+    "district_id": "332206",
+    "name": "SRATEN"
+  },
+  {
+    "id": "3322062005",
+    "district_id": "332206",
+    "name": "JOMBOR"
+  },
+  {
+    "id": "3322062006",
+    "district_id": "332206",
+    "name": "CANDIREJO"
+  },
+  {
+    "id": "3322062007",
+    "district_id": "332206",
+    "name": "KESONGO"
+  },
+  {
+    "id": "3322062008",
+    "district_id": "332206",
+    "name": "WATUAGUNG"
+  },
+  {
+    "id": "3322062009",
+    "district_id": "332206",
+    "name": "LOPAIT"
+  },
+  {
+    "id": "3322062010",
+    "district_id": "332206",
+    "name": "TUNTANG"
+  },
+  {
+    "id": "3322062011",
+    "district_id": "332206",
+    "name": "DELIK"
+  },
+  {
+    "id": "3322062012",
+    "district_id": "332206",
+    "name": "TLOGO"
+  },
+  {
+    "id": "3322062013",
+    "district_id": "332206",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3322062014",
+    "district_id": "332206",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3322062015",
+    "district_id": "332206",
+    "name": "TLOMPAKAN"
+  },
+  {
+    "id": "3322062016",
+    "district_id": "332206",
+    "name": "NGAJARAN"
+  }
+]

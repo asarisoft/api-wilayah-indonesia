@@ -1,1 +1,57 @@
-[{"id": "3506122010", "district_id": "350612", "name": "JONGBIRU"}, {"id": "3506122011", "district_id": "350612", "name": "PUTIH"}, {"id": "3506122012", "district_id": "350612", "name": "SAMBIREJO"}, {"id": "3506122016", "district_id": "350612", "name": "KEPUHREJO"}, {"id": "3506122017", "district_id": "350612", "name": "KALIBELO"}, {"id": "3506122018", "district_id": "350612", "name": "PLOSOREJO"}, {"id": "3506122019", "district_id": "350612", "name": "TURUS"}, {"id": "3506122020", "district_id": "350612", "name": "SAMBIRESIK"}, {"id": "3506122021", "district_id": "350612", "name": "GAMPENG"}, {"id": "3506122022", "district_id": "350612", "name": "NGEBRAK"}, {"id": "3506122023", "district_id": "350612", "name": "WANENGPATEN"}]
+[
+  {
+    "id": "3506122010",
+    "district_id": "350612",
+    "name": "JONGBIRU"
+  },
+  {
+    "id": "3506122011",
+    "district_id": "350612",
+    "name": "PUTIH"
+  },
+  {
+    "id": "3506122012",
+    "district_id": "350612",
+    "name": "SAMBIREJO"
+  },
+  {
+    "id": "3506122016",
+    "district_id": "350612",
+    "name": "KEPUHREJO"
+  },
+  {
+    "id": "3506122017",
+    "district_id": "350612",
+    "name": "KALIBELO"
+  },
+  {
+    "id": "3506122018",
+    "district_id": "350612",
+    "name": "PLOSOREJO"
+  },
+  {
+    "id": "3506122019",
+    "district_id": "350612",
+    "name": "TURUS"
+  },
+  {
+    "id": "3506122020",
+    "district_id": "350612",
+    "name": "SAMBIRESIK"
+  },
+  {
+    "id": "3506122021",
+    "district_id": "350612",
+    "name": "GAMPENG"
+  },
+  {
+    "id": "3506122022",
+    "district_id": "350612",
+    "name": "NGEBRAK"
+  },
+  {
+    "id": "3506122023",
+    "district_id": "350612",
+    "name": "WANENGPATEN"
+  }
+]

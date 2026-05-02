@@ -1,1 +1,62 @@
-[{"id": "7201052009", "district_id": "720105", "name": "NIPA"}, {"id": "7201052010", "district_id": "720105", "name": "KAGITAKAN"}, {"id": "7201052011", "district_id": "720105", "name": "SIROM"}, {"id": "7201052012", "district_id": "720105", "name": "POROAN"}, {"id": "7201052013", "district_id": "720105", "name": "LOMBA"}, {"id": "7201052014", "district_id": "720105", "name": "BONEBOBAKAL"}, {"id": "7201052015", "district_id": "720105", "name": "BARUGA"}, {"id": "7201052016", "district_id": "720105", "name": "KOTABARU"}, {"id": "7201052017", "district_id": "720105", "name": "LABOTAN"}, {"id": "7201052023", "district_id": "720105", "name": "TINONDA"}, {"id": "7201052027", "district_id": "720105", "name": "BAHARI MAKMUR"}, {"id": "7201052028", "district_id": "720105", "name": "KOTA RAYA"}]
+[
+  {
+    "id": "7201052009",
+    "district_id": "720105",
+    "name": "NIPA"
+  },
+  {
+    "id": "7201052010",
+    "district_id": "720105",
+    "name": "KAGITAKAN"
+  },
+  {
+    "id": "7201052011",
+    "district_id": "720105",
+    "name": "SIROM"
+  },
+  {
+    "id": "7201052012",
+    "district_id": "720105",
+    "name": "POROAN"
+  },
+  {
+    "id": "7201052013",
+    "district_id": "720105",
+    "name": "LOMBA"
+  },
+  {
+    "id": "7201052014",
+    "district_id": "720105",
+    "name": "BONEBOBAKAL"
+  },
+  {
+    "id": "7201052015",
+    "district_id": "720105",
+    "name": "BARUGA"
+  },
+  {
+    "id": "7201052016",
+    "district_id": "720105",
+    "name": "KOTABARU"
+  },
+  {
+    "id": "7201052017",
+    "district_id": "720105",
+    "name": "LABOTAN"
+  },
+  {
+    "id": "7201052023",
+    "district_id": "720105",
+    "name": "TINONDA"
+  },
+  {
+    "id": "7201052027",
+    "district_id": "720105",
+    "name": "BAHARI MAKMUR"
+  },
+  {
+    "id": "7201052028",
+    "district_id": "720105",
+    "name": "KOTA RAYA"
+  }
+]

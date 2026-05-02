@@ -1,1 +1,37 @@
-[{"id": "5301071001", "district_id": "530107", "name": "SULAMU"}, {"id": "5301072002", "district_id": "530107", "name": "PITAI"}, {"id": "5301072003", "district_id": "530107", "name": "PARITI"}, {"id": "5301072004", "district_id": "530107", "name": "OETETA"}, {"id": "5301072005", "district_id": "530107", "name": "BIPOLO"}, {"id": "5301072006", "district_id": "530107", "name": "PANTAI BERINGIN"}, {"id": "5301072007", "district_id": "530107", "name": "PANTULAN"}]
+[
+  {
+    "id": "5301071001",
+    "district_id": "530107",
+    "name": "SULAMU"
+  },
+  {
+    "id": "5301072002",
+    "district_id": "530107",
+    "name": "PITAI"
+  },
+  {
+    "id": "5301072003",
+    "district_id": "530107",
+    "name": "PARITI"
+  },
+  {
+    "id": "5301072004",
+    "district_id": "530107",
+    "name": "OETETA"
+  },
+  {
+    "id": "5301072005",
+    "district_id": "530107",
+    "name": "BIPOLO"
+  },
+  {
+    "id": "5301072006",
+    "district_id": "530107",
+    "name": "PANTAI BERINGIN"
+  },
+  {
+    "id": "5301072007",
+    "district_id": "530107",
+    "name": "PANTULAN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "6503062001", "district_id": "650306", "name": "PEMBELIANGAN"}, {"id": "6503062002", "district_id": "650306", "name": "APAS"}, {"id": "6503062003", "district_id": "650306", "name": "KUNYIT"}, {"id": "6503062004", "district_id": "650306", "name": "TETABAN"}, {"id": "6503062005", "district_id": "650306", "name": "KEKAYAP"}, {"id": "6503062006", "district_id": "650306", "name": "BEBANAS"}, {"id": "6503062007", "district_id": "650306", "name": "LULU"}, {"id": "6503062008", "district_id": "650306", "name": "SUJAU"}, {"id": "6503062009", "district_id": "650306", "name": "MELASU BARU"}, {"id": "6503062010", "district_id": "650306", "name": "HARAPAN"}]
+[
+  {
+    "id": "6503062001",
+    "district_id": "650306",
+    "name": "PEMBELIANGAN"
+  },
+  {
+    "id": "6503062002",
+    "district_id": "650306",
+    "name": "APAS"
+  },
+  {
+    "id": "6503062003",
+    "district_id": "650306",
+    "name": "KUNYIT"
+  },
+  {
+    "id": "6503062004",
+    "district_id": "650306",
+    "name": "TETABAN"
+  },
+  {
+    "id": "6503062005",
+    "district_id": "650306",
+    "name": "KEKAYAP"
+  },
+  {
+    "id": "6503062006",
+    "district_id": "650306",
+    "name": "BEBANAS"
+  },
+  {
+    "id": "6503062007",
+    "district_id": "650306",
+    "name": "LULU"
+  },
+  {
+    "id": "6503062008",
+    "district_id": "650306",
+    "name": "SUJAU"
+  },
+  {
+    "id": "6503062009",
+    "district_id": "650306",
+    "name": "MELASU BARU"
+  },
+  {
+    "id": "6503062010",
+    "district_id": "650306",
+    "name": "HARAPAN"
+  }
+]

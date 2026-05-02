@@ -1,1 +1,32 @@
-[{"id": "3509252001", "district_id": "350925", "name": "SUCOPANGEPOK"}, {"id": "3509252002", "district_id": "350925", "name": "PANDUMAN"}, {"id": "3509252003", "district_id": "350925", "name": "SUKOJEMBER"}, {"id": "3509252004", "district_id": "350925", "name": "JELBUK"}, {"id": "3509252005", "district_id": "350925", "name": "SUKOWIRYO"}, {"id": "3509252006", "district_id": "350925", "name": "SUGERKIDUL"}]
+[
+  {
+    "id": "3509252001",
+    "district_id": "350925",
+    "name": "SUCOPANGEPOK"
+  },
+  {
+    "id": "3509252002",
+    "district_id": "350925",
+    "name": "PANDUMAN"
+  },
+  {
+    "id": "3509252003",
+    "district_id": "350925",
+    "name": "SUKOJEMBER"
+  },
+  {
+    "id": "3509252004",
+    "district_id": "350925",
+    "name": "JELBUK"
+  },
+  {
+    "id": "3509252005",
+    "district_id": "350925",
+    "name": "SUKOWIRYO"
+  },
+  {
+    "id": "3509252006",
+    "district_id": "350925",
+    "name": "SUGERKIDUL"
+  }
+]

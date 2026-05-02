@@ -1,1 +1,92 @@
-[{"id": "3207102001", "district_id": "320710", "name": "PANAWANGAN"}, {"id": "3207102002", "district_id": "320710", "name": "SAGALAHERANG"}, {"id": "3207102003", "district_id": "320710", "name": "NAGARAPAGEUH"}, {"id": "3207102004", "district_id": "320710", "name": "NAGARAJATI"}, {"id": "3207102005", "district_id": "320710", "name": "NAGARAJAYA"}, {"id": "3207102006", "district_id": "320710", "name": "KERTAYASA"}, {"id": "3207102007", "district_id": "320710", "name": "INDRAGIRI"}, {"id": "3207102008", "district_id": "320710", "name": "CINYASAG"}, {"id": "3207102009", "district_id": "320710", "name": "SADAPAINGAN"}, {"id": "3207102010", "district_id": "320710", "name": "JAGABAYA"}, {"id": "3207102011", "district_id": "320710", "name": "GARDUJAYA"}, {"id": "3207102012", "district_id": "320710", "name": "KARANGPANINGAL"}, {"id": "3207102013", "district_id": "320710", "name": "BANGUNJAYA"}, {"id": "3207102014", "district_id": "320710", "name": "GIRILAYA"}, {"id": "3207102015", "district_id": "320710", "name": "KERTAJAYA"}, {"id": "3207102016", "district_id": "320710", "name": "NAGARAWANGI"}, {"id": "3207102017", "district_id": "320710", "name": "MEKARBUANA"}, {"id": "3207102018", "district_id": "320710", "name": "NATANEGARA"}]
+[
+  {
+    "id": "3207102001",
+    "district_id": "320710",
+    "name": "PANAWANGAN"
+  },
+  {
+    "id": "3207102002",
+    "district_id": "320710",
+    "name": "SAGALAHERANG"
+  },
+  {
+    "id": "3207102003",
+    "district_id": "320710",
+    "name": "NAGARAPAGEUH"
+  },
+  {
+    "id": "3207102004",
+    "district_id": "320710",
+    "name": "NAGARAJATI"
+  },
+  {
+    "id": "3207102005",
+    "district_id": "320710",
+    "name": "NAGARAJAYA"
+  },
+  {
+    "id": "3207102006",
+    "district_id": "320710",
+    "name": "KERTAYASA"
+  },
+  {
+    "id": "3207102007",
+    "district_id": "320710",
+    "name": "INDRAGIRI"
+  },
+  {
+    "id": "3207102008",
+    "district_id": "320710",
+    "name": "CINYASAG"
+  },
+  {
+    "id": "3207102009",
+    "district_id": "320710",
+    "name": "SADAPAINGAN"
+  },
+  {
+    "id": "3207102010",
+    "district_id": "320710",
+    "name": "JAGABAYA"
+  },
+  {
+    "id": "3207102011",
+    "district_id": "320710",
+    "name": "GARDUJAYA"
+  },
+  {
+    "id": "3207102012",
+    "district_id": "320710",
+    "name": "KARANGPANINGAL"
+  },
+  {
+    "id": "3207102013",
+    "district_id": "320710",
+    "name": "BANGUNJAYA"
+  },
+  {
+    "id": "3207102014",
+    "district_id": "320710",
+    "name": "GIRILAYA"
+  },
+  {
+    "id": "3207102015",
+    "district_id": "320710",
+    "name": "KERTAJAYA"
+  },
+  {
+    "id": "3207102016",
+    "district_id": "320710",
+    "name": "NAGARAWANGI"
+  },
+  {
+    "id": "3207102017",
+    "district_id": "320710",
+    "name": "MEKARBUANA"
+  },
+  {
+    "id": "3207102018",
+    "district_id": "320710",
+    "name": "NATANEGARA"
+  }
+]

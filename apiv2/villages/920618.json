@@ -1,1 +1,37 @@
-[{"id": "9206182001", "district_id": "920618", "name": "JAHABRA"}, {"id": "9206182002", "district_id": "920618", "name": "IBORI"}, {"id": "9206182003", "district_id": "920618", "name": "MENYEMBRU"}, {"id": "9206182004", "district_id": "920618", "name": "MEYORGA"}, {"id": "9206182005", "district_id": "920618", "name": "LAUDOHO"}, {"id": "9206182006", "district_id": "920618", "name": "ENIBA"}, {"id": "9206182007", "district_id": "920618", "name": "MOWITKA"}]
+[
+  {
+    "id": "9206182001",
+    "district_id": "920618",
+    "name": "JAHABRA"
+  },
+  {
+    "id": "9206182002",
+    "district_id": "920618",
+    "name": "IBORI"
+  },
+  {
+    "id": "9206182003",
+    "district_id": "920618",
+    "name": "MENYEMBRU"
+  },
+  {
+    "id": "9206182004",
+    "district_id": "920618",
+    "name": "MEYORGA"
+  },
+  {
+    "id": "9206182005",
+    "district_id": "920618",
+    "name": "LAUDOHO"
+  },
+  {
+    "id": "9206182006",
+    "district_id": "920618",
+    "name": "ENIBA"
+  },
+  {
+    "id": "9206182007",
+    "district_id": "920618",
+    "name": "MOWITKA"
+  }
+]

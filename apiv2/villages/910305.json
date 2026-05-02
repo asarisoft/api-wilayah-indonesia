@@ -1,1 +1,62 @@
-[{"id": "9103052001", "district_id": "910305", "name": "SAMA"}, {"id": "9103052002", "district_id": "910305", "name": "MANDA YAWAN"}, {"id": "9103052003", "district_id": "910305", "name": "MAMDA"}, {"id": "9103052004", "district_id": "910305", "name": "MAMEI"}, {"id": "9103052005", "district_id": "910305", "name": "NAMBOM"}, {"id": "9103052006", "district_id": "910305", "name": "KWANSU"}, {"id": "9103052007", "district_id": "910305", "name": "SOAIB"}, {"id": "9103052008", "district_id": "910305", "name": "SABEAB KECIL"}, {"id": "9103052009", "district_id": "910305", "name": "SEKORI"}, {"id": "9103052010", "district_id": "910305", "name": "SKOAIM"}, {"id": "9103052011", "district_id": "910305", "name": "BENGGWIN PROGO"}, {"id": "9103052012", "district_id": "910305", "name": "AIB"}]
+[
+  {
+    "id": "9103052001",
+    "district_id": "910305",
+    "name": "SAMA"
+  },
+  {
+    "id": "9103052002",
+    "district_id": "910305",
+    "name": "MANDA YAWAN"
+  },
+  {
+    "id": "9103052003",
+    "district_id": "910305",
+    "name": "MAMDA"
+  },
+  {
+    "id": "9103052004",
+    "district_id": "910305",
+    "name": "MAMEI"
+  },
+  {
+    "id": "9103052005",
+    "district_id": "910305",
+    "name": "NAMBOM"
+  },
+  {
+    "id": "9103052006",
+    "district_id": "910305",
+    "name": "KWANSU"
+  },
+  {
+    "id": "9103052007",
+    "district_id": "910305",
+    "name": "SOAIB"
+  },
+  {
+    "id": "9103052008",
+    "district_id": "910305",
+    "name": "SABEAB KECIL"
+  },
+  {
+    "id": "9103052009",
+    "district_id": "910305",
+    "name": "SEKORI"
+  },
+  {
+    "id": "9103052010",
+    "district_id": "910305",
+    "name": "SKOAIM"
+  },
+  {
+    "id": "9103052011",
+    "district_id": "910305",
+    "name": "BENGGWIN PROGO"
+  },
+  {
+    "id": "9103052012",
+    "district_id": "910305",
+    "name": "AIB"
+  }
+]

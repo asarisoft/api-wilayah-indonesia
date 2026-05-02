@@ -1,1 +1,87 @@
-[{"id": "3521072001", "district_id": "352107", "name": "CAMPURASRI"}, {"id": "3521072002", "district_id": "352107", "name": "DANGUK"}, {"id": "3521072003", "district_id": "352107", "name": "GEMPOL"}, {"id": "3521072004", "district_id": "352107", "name": "RINGINANOM"}, {"id": "3521072005", "district_id": "352107", "name": "SEMBUNG"}, {"id": "3521072006", "district_id": "352107", "name": "SIDOREJO"}, {"id": "3521072007", "district_id": "352107", "name": "DUNGMIRI"}, {"id": "3521072008", "district_id": "352107", "name": "BRANGOL"}, {"id": "3521072009", "district_id": "352107", "name": "SIDOKERTO"}, {"id": "3521072010", "district_id": "352107", "name": "JATIPURO"}, {"id": "3521072011", "district_id": "352107", "name": "PUHTI"}, {"id": "3521072012", "district_id": "352107", "name": "SAWO"}, {"id": "3521072013", "district_id": "352107", "name": "KARANGJATI"}, {"id": "3521072014", "district_id": "352107", "name": "LEGUNDI"}, {"id": "3521072015", "district_id": "352107", "name": "REJOMULYO"}, {"id": "3521072016", "district_id": "352107", "name": "REJUNO"}, {"id": "3521072017", "district_id": "352107", "name": "PLOSOLOR"}]
+[
+  {
+    "id": "3521072001",
+    "district_id": "352107",
+    "name": "CAMPURASRI"
+  },
+  {
+    "id": "3521072002",
+    "district_id": "352107",
+    "name": "DANGUK"
+  },
+  {
+    "id": "3521072003",
+    "district_id": "352107",
+    "name": "GEMPOL"
+  },
+  {
+    "id": "3521072004",
+    "district_id": "352107",
+    "name": "RINGINANOM"
+  },
+  {
+    "id": "3521072005",
+    "district_id": "352107",
+    "name": "SEMBUNG"
+  },
+  {
+    "id": "3521072006",
+    "district_id": "352107",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3521072007",
+    "district_id": "352107",
+    "name": "DUNGMIRI"
+  },
+  {
+    "id": "3521072008",
+    "district_id": "352107",
+    "name": "BRANGOL"
+  },
+  {
+    "id": "3521072009",
+    "district_id": "352107",
+    "name": "SIDOKERTO"
+  },
+  {
+    "id": "3521072010",
+    "district_id": "352107",
+    "name": "JATIPURO"
+  },
+  {
+    "id": "3521072011",
+    "district_id": "352107",
+    "name": "PUHTI"
+  },
+  {
+    "id": "3521072012",
+    "district_id": "352107",
+    "name": "SAWO"
+  },
+  {
+    "id": "3521072013",
+    "district_id": "352107",
+    "name": "KARANGJATI"
+  },
+  {
+    "id": "3521072014",
+    "district_id": "352107",
+    "name": "LEGUNDI"
+  },
+  {
+    "id": "3521072015",
+    "district_id": "352107",
+    "name": "REJOMULYO"
+  },
+  {
+    "id": "3521072016",
+    "district_id": "352107",
+    "name": "REJUNO"
+  },
+  {
+    "id": "3521072017",
+    "district_id": "352107",
+    "name": "PLOSOLOR"
+  }
+]

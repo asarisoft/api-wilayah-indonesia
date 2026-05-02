@@ -1,1 +1,47 @@
-[{"id": "3322162001", "district_id": "332216", "name": "BANCAK"}, {"id": "3322162002", "district_id": "332216", "name": "WONOKERTO"}, {"id": "3322162003", "district_id": "332216", "name": "JLUMPANG"}, {"id": "3322162004", "district_id": "332216", "name": "BANTAL"}, {"id": "3322162005", "district_id": "332216", "name": "REJOSARI"}, {"id": "3322162006", "district_id": "332216", "name": "PLUMUTAN"}, {"id": "3322162007", "district_id": "332216", "name": "LEMBU"}, {"id": "3322162008", "district_id": "332216", "name": "PUCUNG"}, {"id": "3322162009", "district_id": "332216", "name": "BOTO"}]
+[
+  {
+    "id": "3322162001",
+    "district_id": "332216",
+    "name": "BANCAK"
+  },
+  {
+    "id": "3322162002",
+    "district_id": "332216",
+    "name": "WONOKERTO"
+  },
+  {
+    "id": "3322162003",
+    "district_id": "332216",
+    "name": "JLUMPANG"
+  },
+  {
+    "id": "3322162004",
+    "district_id": "332216",
+    "name": "BANTAL"
+  },
+  {
+    "id": "3322162005",
+    "district_id": "332216",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3322162006",
+    "district_id": "332216",
+    "name": "PLUMUTAN"
+  },
+  {
+    "id": "3322162007",
+    "district_id": "332216",
+    "name": "LEMBU"
+  },
+  {
+    "id": "3322162008",
+    "district_id": "332216",
+    "name": "PUCUNG"
+  },
+  {
+    "id": "3322162009",
+    "district_id": "332216",
+    "name": "BOTO"
+  }
+]

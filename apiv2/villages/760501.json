@@ -1,1 +1,42 @@
-[{"id": "7605011001", "district_id": "760501", "name": "BANGGAE"}, {"id": "7605011003", "district_id": "760501", "name": "BARU"}, {"id": "7605011007", "district_id": "760501", "name": "PANGALI ALI"}, {"id": "7605011009", "district_id": "760501", "name": "TOTOLI"}, {"id": "7605011010", "district_id": "760501", "name": "RANGAS"}, {"id": "7605011013", "district_id": "760501", "name": "GALUNG"}, {"id": "7605012011", "district_id": "760501", "name": "PALIPI SOREANG"}, {"id": "7605012012", "district_id": "760501", "name": "PAMBOBORANG"}]
+[
+  {
+    "id": "7605011001",
+    "district_id": "760501",
+    "name": "BANGGAE"
+  },
+  {
+    "id": "7605011003",
+    "district_id": "760501",
+    "name": "BARU"
+  },
+  {
+    "id": "7605011007",
+    "district_id": "760501",
+    "name": "PANGALI ALI"
+  },
+  {
+    "id": "7605011009",
+    "district_id": "760501",
+    "name": "TOTOLI"
+  },
+  {
+    "id": "7605011010",
+    "district_id": "760501",
+    "name": "RANGAS"
+  },
+  {
+    "id": "7605011013",
+    "district_id": "760501",
+    "name": "GALUNG"
+  },
+  {
+    "id": "7605012011",
+    "district_id": "760501",
+    "name": "PALIPI SOREANG"
+  },
+  {
+    "id": "7605012012",
+    "district_id": "760501",
+    "name": "PAMBOBORANG"
+  }
+]

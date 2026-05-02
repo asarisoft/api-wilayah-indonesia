@@ -1,1 +1,52 @@
-[{"id": "7204042001", "district_id": "720404", "name": "SIBALUTON"}, {"id": "7204042002", "district_id": "720404", "name": "KAYU LOMPA"}, {"id": "7204042003", "district_id": "720404", "name": "LABONU"}, {"id": "7204042004", "district_id": "720404", "name": "SILONDOU"}, {"id": "7204042005", "district_id": "720404", "name": "KINAPASAN"}, {"id": "7204042006", "district_id": "720404", "name": "KONGKOMOS"}, {"id": "7204042007", "district_id": "720404", "name": "OGOSIPAT"}, {"id": "7204042008", "district_id": "720404", "name": "GALANDAU"}, {"id": "7204042009", "district_id": "720404", "name": "MARISA"}, {"id": "7204042010", "district_id": "720404", "name": "BASI"}]
+[
+  {
+    "id": "7204042001",
+    "district_id": "720404",
+    "name": "SIBALUTON"
+  },
+  {
+    "id": "7204042002",
+    "district_id": "720404",
+    "name": "KAYU LOMPA"
+  },
+  {
+    "id": "7204042003",
+    "district_id": "720404",
+    "name": "LABONU"
+  },
+  {
+    "id": "7204042004",
+    "district_id": "720404",
+    "name": "SILONDOU"
+  },
+  {
+    "id": "7204042005",
+    "district_id": "720404",
+    "name": "KINAPASAN"
+  },
+  {
+    "id": "7204042006",
+    "district_id": "720404",
+    "name": "KONGKOMOS"
+  },
+  {
+    "id": "7204042007",
+    "district_id": "720404",
+    "name": "OGOSIPAT"
+  },
+  {
+    "id": "7204042008",
+    "district_id": "720404",
+    "name": "GALANDAU"
+  },
+  {
+    "id": "7204042009",
+    "district_id": "720404",
+    "name": "MARISA"
+  },
+  {
+    "id": "7204042010",
+    "district_id": "720404",
+    "name": "BASI"
+  }
+]

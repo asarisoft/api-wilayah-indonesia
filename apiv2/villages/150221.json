@@ -1,1 +1,32 @@
-[{"id": "1502212001", "district_id": "150221", "name": "TANJUNG REJO"}, {"id": "1502212002", "district_id": "150221", "name": "SUMBER AGUNG"}, {"id": "1502212003", "district_id": "150221", "name": "SUKO REJO"}, {"id": "1502212004", "district_id": "150221", "name": "SIDO RUKUN"}, {"id": "1502212005", "district_id": "150221", "name": "LUBUK BUMBUN"}, {"id": "1502212006", "district_id": "150221", "name": "TEGAL REJO"}]
+[
+  {
+    "id": "1502212001",
+    "district_id": "150221",
+    "name": "TANJUNG REJO"
+  },
+  {
+    "id": "1502212002",
+    "district_id": "150221",
+    "name": "SUMBER AGUNG"
+  },
+  {
+    "id": "1502212003",
+    "district_id": "150221",
+    "name": "SUKO REJO"
+  },
+  {
+    "id": "1502212004",
+    "district_id": "150221",
+    "name": "SIDO RUKUN"
+  },
+  {
+    "id": "1502212005",
+    "district_id": "150221",
+    "name": "LUBUK BUMBUN"
+  },
+  {
+    "id": "1502212006",
+    "district_id": "150221",
+    "name": "TEGAL REJO"
+  }
+]

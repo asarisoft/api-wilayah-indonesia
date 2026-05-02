@@ -1,1 +1,97 @@
-[{"id": "5316021001", "district_id": "531602", "name": "NANGARORO"}, {"id": "5316022002", "district_id": "531602", "name": "PODENURA"}, {"id": "5316022003", "district_id": "531602", "name": "TONGGO"}, {"id": "5316022004", "district_id": "531602", "name": "WOKODEKORORO"}, {"id": "5316022005", "district_id": "531602", "name": "RITI"}, {"id": "5316022006", "district_id": "531602", "name": "KOTAKEO"}, {"id": "5316022007", "district_id": "531602", "name": "PAGOMOGO"}, {"id": "5316022008", "district_id": "531602", "name": "DEGALEA"}, {"id": "5316022009", "district_id": "531602", "name": "ULUPULU"}, {"id": "5316022010", "district_id": "531602", "name": "BIDOA"}, {"id": "5316022011", "district_id": "531602", "name": "UTETOTO"}, {"id": "5316022012", "district_id": "531602", "name": "NATAUTE"}, {"id": "5316022013", "district_id": "531602", "name": "WOEDOA"}, {"id": "5316022014", "district_id": "531602", "name": "WOEWUTU"}, {"id": "5316022015", "district_id": "531602", "name": "ULUPULU I"}, {"id": "5316022016", "district_id": "531602", "name": "WOKOWOE"}, {"id": "5316022017", "district_id": "531602", "name": "KOTAKEO SATU"}, {"id": "5316022018", "district_id": "531602", "name": "KOTAKEO DUA"}, {"id": "5316022019", "district_id": "531602", "name": "KODAUTE"}]
+[
+  {
+    "id": "5316021001",
+    "district_id": "531602",
+    "name": "NANGARORO"
+  },
+  {
+    "id": "5316022002",
+    "district_id": "531602",
+    "name": "PODENURA"
+  },
+  {
+    "id": "5316022003",
+    "district_id": "531602",
+    "name": "TONGGO"
+  },
+  {
+    "id": "5316022004",
+    "district_id": "531602",
+    "name": "WOKODEKORORO"
+  },
+  {
+    "id": "5316022005",
+    "district_id": "531602",
+    "name": "RITI"
+  },
+  {
+    "id": "5316022006",
+    "district_id": "531602",
+    "name": "KOTAKEO"
+  },
+  {
+    "id": "5316022007",
+    "district_id": "531602",
+    "name": "PAGOMOGO"
+  },
+  {
+    "id": "5316022008",
+    "district_id": "531602",
+    "name": "DEGALEA"
+  },
+  {
+    "id": "5316022009",
+    "district_id": "531602",
+    "name": "ULUPULU"
+  },
+  {
+    "id": "5316022010",
+    "district_id": "531602",
+    "name": "BIDOA"
+  },
+  {
+    "id": "5316022011",
+    "district_id": "531602",
+    "name": "UTETOTO"
+  },
+  {
+    "id": "5316022012",
+    "district_id": "531602",
+    "name": "NATAUTE"
+  },
+  {
+    "id": "5316022013",
+    "district_id": "531602",
+    "name": "WOEDOA"
+  },
+  {
+    "id": "5316022014",
+    "district_id": "531602",
+    "name": "WOEWUTU"
+  },
+  {
+    "id": "5316022015",
+    "district_id": "531602",
+    "name": "ULUPULU I"
+  },
+  {
+    "id": "5316022016",
+    "district_id": "531602",
+    "name": "WOKOWOE"
+  },
+  {
+    "id": "5316022017",
+    "district_id": "531602",
+    "name": "KOTAKEO SATU"
+  },
+  {
+    "id": "5316022018",
+    "district_id": "531602",
+    "name": "KOTAKEO DUA"
+  },
+  {
+    "id": "5316022019",
+    "district_id": "531602",
+    "name": "KODAUTE"
+  }
+]

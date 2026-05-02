@@ -1,1 +1,52 @@
-[{"id": "3203042001", "district_id": "320304", "name": "RANCAGOONG"}, {"id": "3203042002", "district_id": "320304", "name": "SUKASARI"}, {"id": "3203042003", "district_id": "320304", "name": "SIRNAGALIH"}, {"id": "3203042004", "district_id": "320304", "name": "SUKAKERTA"}, {"id": "3203042005", "district_id": "320304", "name": "CIBINONGHILIR"}, {"id": "3203042006", "district_id": "320304", "name": "RAHONG"}, {"id": "3203042007", "district_id": "320304", "name": "MUNJUL"}, {"id": "3203042008", "district_id": "320304", "name": "SINDANGSARI"}, {"id": "3203042009", "district_id": "320304", "name": "CIHARASHAS"}, {"id": "3203042010", "district_id": "320304", "name": "MULYASARI"}]
+[
+  {
+    "id": "3203042001",
+    "district_id": "320304",
+    "name": "RANCAGOONG"
+  },
+  {
+    "id": "3203042002",
+    "district_id": "320304",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3203042003",
+    "district_id": "320304",
+    "name": "SIRNAGALIH"
+  },
+  {
+    "id": "3203042004",
+    "district_id": "320304",
+    "name": "SUKAKERTA"
+  },
+  {
+    "id": "3203042005",
+    "district_id": "320304",
+    "name": "CIBINONGHILIR"
+  },
+  {
+    "id": "3203042006",
+    "district_id": "320304",
+    "name": "RAHONG"
+  },
+  {
+    "id": "3203042007",
+    "district_id": "320304",
+    "name": "MUNJUL"
+  },
+  {
+    "id": "3203042008",
+    "district_id": "320304",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3203042009",
+    "district_id": "320304",
+    "name": "CIHARASHAS"
+  },
+  {
+    "id": "3203042010",
+    "district_id": "320304",
+    "name": "MULYASARI"
+  }
+]

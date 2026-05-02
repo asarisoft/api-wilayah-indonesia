@@ -1,1 +1,152 @@
-[{"id": "1118022001", "district_id": "111802", "name": "DAYAH BAROH"}, {"id": "1118022002", "district_id": "111802", "name": "REULEUT"}, {"id": "1118022003", "district_id": "111802", "name": "SAMBONGAN BARO"}, {"id": "1118022004", "district_id": "111802", "name": "TIJIEN HUSEN"}, {"id": "1118022005", "district_id": "111802", "name": "MEUNASAH KRUENG"}, {"id": "1118022006", "district_id": "111802", "name": "GEULANGGANG"}, {"id": "1118022007", "district_id": "111802", "name": "MESJID ULIM BAROH"}, {"id": "1118022008", "district_id": "111802", "name": "PULO LHOK"}, {"id": "1118022009", "district_id": "111802", "name": "DAYAH LEUBUE"}, {"id": "1118022010", "district_id": "111802", "name": "TIJIEN DABOH"}, {"id": "1118022011", "district_id": "111802", "name": "KEUDE ULIM"}, {"id": "1118022012", "district_id": "111802", "name": "MEUNASAH BUENG"}, {"id": "1118022013", "district_id": "111802", "name": "BALEE ULIM"}, {"id": "1118022014", "district_id": "111802", "name": "GRONG GRONG CAPA"}, {"id": "1118022015", "district_id": "111802", "name": "MEUNASAH KUMBANG"}, {"id": "1118022016", "district_id": "111802", "name": "TANJONG ULIM"}, {"id": "1118022017", "district_id": "111802", "name": "MESJID ULIM TUNONG"}, {"id": "1118022018", "district_id": "111802", "name": "PULO ULIM"}, {"id": "1118022019", "district_id": "111802", "name": "SIBLAH COH"}, {"id": "1118022020", "district_id": "111802", "name": "BIDOK"}, {"id": "1118022021", "district_id": "111802", "name": "PANTANG COT BALOI"}, {"id": "1118022022", "district_id": "111802", "name": "MEUNASAH PUPU"}, {"id": "1118022023", "district_id": "111802", "name": "NANGRHOE BARAT"}, {"id": "1118022024", "district_id": "111802", "name": "NANGRHOE TIMU"}, {"id": "1118022025", "district_id": "111802", "name": "MEUNASAH MESJID"}, {"id": "1118022026", "district_id": "111802", "name": "BLANG RHEUE"}, {"id": "1118022027", "district_id": "111802", "name": "COT SEUTUI"}, {"id": "1118022028", "district_id": "111802", "name": "LHOK GAJAH"}, {"id": "1118022029", "district_id": "111802", "name": "ALUE KEUMIKI"}, {"id": "1118022030", "district_id": "111802", "name": "BLANG CARI"}]
+[
+  {
+    "id": "1118022001",
+    "district_id": "111802",
+    "name": "DAYAH BAROH"
+  },
+  {
+    "id": "1118022002",
+    "district_id": "111802",
+    "name": "REULEUT"
+  },
+  {
+    "id": "1118022003",
+    "district_id": "111802",
+    "name": "SAMBONGAN BARO"
+  },
+  {
+    "id": "1118022004",
+    "district_id": "111802",
+    "name": "TIJIEN HUSEN"
+  },
+  {
+    "id": "1118022005",
+    "district_id": "111802",
+    "name": "MEUNASAH KRUENG"
+  },
+  {
+    "id": "1118022006",
+    "district_id": "111802",
+    "name": "GEULANGGANG"
+  },
+  {
+    "id": "1118022007",
+    "district_id": "111802",
+    "name": "MESJID ULIM BAROH"
+  },
+  {
+    "id": "1118022008",
+    "district_id": "111802",
+    "name": "PULO LHOK"
+  },
+  {
+    "id": "1118022009",
+    "district_id": "111802",
+    "name": "DAYAH LEUBUE"
+  },
+  {
+    "id": "1118022010",
+    "district_id": "111802",
+    "name": "TIJIEN DABOH"
+  },
+  {
+    "id": "1118022011",
+    "district_id": "111802",
+    "name": "KEUDE ULIM"
+  },
+  {
+    "id": "1118022012",
+    "district_id": "111802",
+    "name": "MEUNASAH BUENG"
+  },
+  {
+    "id": "1118022013",
+    "district_id": "111802",
+    "name": "BALEE ULIM"
+  },
+  {
+    "id": "1118022014",
+    "district_id": "111802",
+    "name": "GRONG GRONG CAPA"
+  },
+  {
+    "id": "1118022015",
+    "district_id": "111802",
+    "name": "MEUNASAH KUMBANG"
+  },
+  {
+    "id": "1118022016",
+    "district_id": "111802",
+    "name": "TANJONG ULIM"
+  },
+  {
+    "id": "1118022017",
+    "district_id": "111802",
+    "name": "MESJID ULIM TUNONG"
+  },
+  {
+    "id": "1118022018",
+    "district_id": "111802",
+    "name": "PULO ULIM"
+  },
+  {
+    "id": "1118022019",
+    "district_id": "111802",
+    "name": "SIBLAH COH"
+  },
+  {
+    "id": "1118022020",
+    "district_id": "111802",
+    "name": "BIDOK"
+  },
+  {
+    "id": "1118022021",
+    "district_id": "111802",
+    "name": "PANTANG COT BALOI"
+  },
+  {
+    "id": "1118022022",
+    "district_id": "111802",
+    "name": "MEUNASAH PUPU"
+  },
+  {
+    "id": "1118022023",
+    "district_id": "111802",
+    "name": "NANGRHOE BARAT"
+  },
+  {
+    "id": "1118022024",
+    "district_id": "111802",
+    "name": "NANGRHOE TIMU"
+  },
+  {
+    "id": "1118022025",
+    "district_id": "111802",
+    "name": "MEUNASAH MESJID"
+  },
+  {
+    "id": "1118022026",
+    "district_id": "111802",
+    "name": "BLANG RHEUE"
+  },
+  {
+    "id": "1118022027",
+    "district_id": "111802",
+    "name": "COT SEUTUI"
+  },
+  {
+    "id": "1118022028",
+    "district_id": "111802",
+    "name": "LHOK GAJAH"
+  },
+  {
+    "id": "1118022029",
+    "district_id": "111802",
+    "name": "ALUE KEUMIKI"
+  },
+  {
+    "id": "1118022030",
+    "district_id": "111802",
+    "name": "BLANG CARI"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "7203252001", "district_id": "720325", "name": "SIKARA TOBATA"}, {"id": "7203252002", "district_id": "720325", "name": "ALINDAU"}, {"id": "7203252003", "district_id": "720325", "name": "OTI"}, {"id": "7203252004", "district_id": "720325", "name": "TAMARENJA"}, {"id": "7203252005", "district_id": "720325", "name": "SIPESO"}, {"id": "7203252006", "district_id": "720325", "name": "SINDOSA"}]
+[
+  {
+    "id": "7203252001",
+    "district_id": "720325",
+    "name": "SIKARA TOBATA"
+  },
+  {
+    "id": "7203252002",
+    "district_id": "720325",
+    "name": "ALINDAU"
+  },
+  {
+    "id": "7203252003",
+    "district_id": "720325",
+    "name": "OTI"
+  },
+  {
+    "id": "7203252004",
+    "district_id": "720325",
+    "name": "TAMARENJA"
+  },
+  {
+    "id": "7203252005",
+    "district_id": "720325",
+    "name": "SIPESO"
+  },
+  {
+    "id": "7203252006",
+    "district_id": "720325",
+    "name": "SINDOSA"
+  }
+]

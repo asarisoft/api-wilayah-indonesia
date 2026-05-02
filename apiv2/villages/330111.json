@@ -1,1 +1,52 @@
-[{"id": "3301112001", "district_id": "330111", "name": "TINGGARJAYA"}, {"id": "3301112002", "district_id": "330111", "name": "SIDAREJA"}, {"id": "3301112003", "district_id": "330111", "name": "SIDAMULYA"}, {"id": "3301112004", "district_id": "330111", "name": "KUNCI"}, {"id": "3301112005", "district_id": "330111", "name": "KARANGGEDANG"}, {"id": "3301112006", "district_id": "330111", "name": "PENYARANG"}, {"id": "3301112007", "district_id": "330111", "name": "TEGALSARI"}, {"id": "3301112008", "district_id": "330111", "name": "MARGASARI"}, {"id": "3301112009", "district_id": "330111", "name": "GUNUNGREJA"}, {"id": "3301112010", "district_id": "330111", "name": "SUDAGARAN"}]
+[
+  {
+    "id": "3301112001",
+    "district_id": "330111",
+    "name": "TINGGARJAYA"
+  },
+  {
+    "id": "3301112002",
+    "district_id": "330111",
+    "name": "SIDAREJA"
+  },
+  {
+    "id": "3301112003",
+    "district_id": "330111",
+    "name": "SIDAMULYA"
+  },
+  {
+    "id": "3301112004",
+    "district_id": "330111",
+    "name": "KUNCI"
+  },
+  {
+    "id": "3301112005",
+    "district_id": "330111",
+    "name": "KARANGGEDANG"
+  },
+  {
+    "id": "3301112006",
+    "district_id": "330111",
+    "name": "PENYARANG"
+  },
+  {
+    "id": "3301112007",
+    "district_id": "330111",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3301112008",
+    "district_id": "330111",
+    "name": "MARGASARI"
+  },
+  {
+    "id": "3301112009",
+    "district_id": "330111",
+    "name": "GUNUNGREJA"
+  },
+  {
+    "id": "3301112010",
+    "district_id": "330111",
+    "name": "SUDAGARAN"
+  }
+]

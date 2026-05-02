@@ -1,1 +1,87 @@
-[{"id": "1404091003", "district_id": "140409", "name": "KOTA BARU RETEH"}, {"id": "1404092001", "district_id": "140409", "name": "PEBENAAN"}, {"id": "1404092002", "district_id": "140409", "name": "SEBERANG PEBENAAN"}, {"id": "1404092004", "district_id": "140409", "name": "NUSANTARA JAYA"}, {"id": "1404092005", "district_id": "140409", "name": "KOTA BARU SEBERIDA"}, {"id": "1404092006", "district_id": "140409", "name": "KEMBANG MEKARSARI"}, {"id": "1404092007", "district_id": "140409", "name": "PASAR KEMBANG"}, {"id": "1404092008", "district_id": "140409", "name": "KUALA KERITANG"}, {"id": "1404092009", "district_id": "140409", "name": "KUALA LEMANG"}, {"id": "1404092010", "district_id": "140409", "name": "TELUKKELASA"}, {"id": "1404092011", "district_id": "140409", "name": "PENGALIHAN"}, {"id": "1404092012", "district_id": "140409", "name": "PANCUR"}, {"id": "1404092013", "district_id": "140409", "name": "SENCALANG"}, {"id": "1404092014", "district_id": "140409", "name": "PETALONGAN"}, {"id": "1404092015", "district_id": "140409", "name": "NYIUR PERMAI"}, {"id": "1404092016", "district_id": "140409", "name": "LINTAS UTARA"}, {"id": "1404092017", "district_id": "140409", "name": "KAYU RAJA"}]
+[
+  {
+    "id": "1404091003",
+    "district_id": "140409",
+    "name": "KOTA BARU RETEH"
+  },
+  {
+    "id": "1404092001",
+    "district_id": "140409",
+    "name": "PEBENAAN"
+  },
+  {
+    "id": "1404092002",
+    "district_id": "140409",
+    "name": "SEBERANG PEBENAAN"
+  },
+  {
+    "id": "1404092004",
+    "district_id": "140409",
+    "name": "NUSANTARA JAYA"
+  },
+  {
+    "id": "1404092005",
+    "district_id": "140409",
+    "name": "KOTA BARU SEBERIDA"
+  },
+  {
+    "id": "1404092006",
+    "district_id": "140409",
+    "name": "KEMBANG MEKARSARI"
+  },
+  {
+    "id": "1404092007",
+    "district_id": "140409",
+    "name": "PASAR KEMBANG"
+  },
+  {
+    "id": "1404092008",
+    "district_id": "140409",
+    "name": "KUALA KERITANG"
+  },
+  {
+    "id": "1404092009",
+    "district_id": "140409",
+    "name": "KUALA LEMANG"
+  },
+  {
+    "id": "1404092010",
+    "district_id": "140409",
+    "name": "TELUKKELASA"
+  },
+  {
+    "id": "1404092011",
+    "district_id": "140409",
+    "name": "PENGALIHAN"
+  },
+  {
+    "id": "1404092012",
+    "district_id": "140409",
+    "name": "PANCUR"
+  },
+  {
+    "id": "1404092013",
+    "district_id": "140409",
+    "name": "SENCALANG"
+  },
+  {
+    "id": "1404092014",
+    "district_id": "140409",
+    "name": "PETALONGAN"
+  },
+  {
+    "id": "1404092015",
+    "district_id": "140409",
+    "name": "NYIUR PERMAI"
+  },
+  {
+    "id": "1404092016",
+    "district_id": "140409",
+    "name": "LINTAS UTARA"
+  },
+  {
+    "id": "1404092017",
+    "district_id": "140409",
+    "name": "KAYU RAJA"
+  }
+]

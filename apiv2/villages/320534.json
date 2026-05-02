@@ -1,1 +1,27 @@
-[{"id": "3205342001", "district_id": "320534", "name": "PAKENJENG"}, {"id": "3205342002", "district_id": "320534", "name": "GARUMUKTI"}, {"id": "3205342003", "district_id": "320534", "name": "PANAWA"}, {"id": "3205342004", "district_id": "320534", "name": "PANANJUNG"}, {"id": "3205342005", "district_id": "320534", "name": "LINGGARJATI"}]
+[
+  {
+    "id": "3205342001",
+    "district_id": "320534",
+    "name": "PAKENJENG"
+  },
+  {
+    "id": "3205342002",
+    "district_id": "320534",
+    "name": "GARUMUKTI"
+  },
+  {
+    "id": "3205342003",
+    "district_id": "320534",
+    "name": "PANAWA"
+  },
+  {
+    "id": "3205342004",
+    "district_id": "320534",
+    "name": "PANANJUNG"
+  },
+  {
+    "id": "3205342005",
+    "district_id": "320534",
+    "name": "LINGGARJATI"
+  }
+]

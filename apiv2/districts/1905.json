@@ -1,1 +1,32 @@
-[{"id": "190501", "regency_id": "1905", "name": "MENTOK"}, {"id": "190502", "regency_id": "1905", "name": "SIMPANG TERITIP"}, {"id": "190503", "regency_id": "1905", "name": "JEBUS"}, {"id": "190504", "regency_id": "1905", "name": "KELAPA"}, {"id": "190505", "regency_id": "1905", "name": "TEMPILANG"}, {"id": "190506", "regency_id": "1905", "name": "PARITTIGA"}]
+[
+  {
+    "id": "190501",
+    "regency_id": "1905",
+    "name": "MENTOK"
+  },
+  {
+    "id": "190502",
+    "regency_id": "1905",
+    "name": "SIMPANG TERITIP"
+  },
+  {
+    "id": "190503",
+    "regency_id": "1905",
+    "name": "JEBUS"
+  },
+  {
+    "id": "190504",
+    "regency_id": "1905",
+    "name": "KELAPA"
+  },
+  {
+    "id": "190505",
+    "regency_id": "1905",
+    "name": "TEMPILANG"
+  },
+  {
+    "id": "190506",
+    "regency_id": "1905",
+    "name": "PARITTIGA"
+  }
+]

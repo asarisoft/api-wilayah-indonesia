@@ -1,1 +1,67 @@
-[{"id": "7209072001", "district_id": "720907", "name": "MALEI TOJO"}, {"id": "7209072002", "district_id": "720907", "name": "MATAKO"}, {"id": "7209072003", "district_id": "720907", "name": "BAMBALO"}, {"id": "7209072004", "district_id": "720907", "name": "GALUGA"}, {"id": "7209072005", "district_id": "720907", "name": "TOLIBA"}, {"id": "7209072006", "district_id": "720907", "name": "UJUNG TIBU"}, {"id": "7209072007", "district_id": "720907", "name": "NGGAWIA"}, {"id": "7209072008", "district_id": "720907", "name": "TOMBIANO"}, {"id": "7209072009", "district_id": "720907", "name": "TATARI"}, {"id": "7209072010", "district_id": "720907", "name": "KABALO"}, {"id": "7209072011", "district_id": "720907", "name": "TANAMAWAU"}, {"id": "7209072012", "district_id": "720907", "name": "MALEWA"}, {"id": "7209072013", "district_id": "720907", "name": "MAWOMBA"}]
+[
+  {
+    "id": "7209072001",
+    "district_id": "720907",
+    "name": "MALEI TOJO"
+  },
+  {
+    "id": "7209072002",
+    "district_id": "720907",
+    "name": "MATAKO"
+  },
+  {
+    "id": "7209072003",
+    "district_id": "720907",
+    "name": "BAMBALO"
+  },
+  {
+    "id": "7209072004",
+    "district_id": "720907",
+    "name": "GALUGA"
+  },
+  {
+    "id": "7209072005",
+    "district_id": "720907",
+    "name": "TOLIBA"
+  },
+  {
+    "id": "7209072006",
+    "district_id": "720907",
+    "name": "UJUNG TIBU"
+  },
+  {
+    "id": "7209072007",
+    "district_id": "720907",
+    "name": "NGGAWIA"
+  },
+  {
+    "id": "7209072008",
+    "district_id": "720907",
+    "name": "TOMBIANO"
+  },
+  {
+    "id": "7209072009",
+    "district_id": "720907",
+    "name": "TATARI"
+  },
+  {
+    "id": "7209072010",
+    "district_id": "720907",
+    "name": "KABALO"
+  },
+  {
+    "id": "7209072011",
+    "district_id": "720907",
+    "name": "TANAMAWAU"
+  },
+  {
+    "id": "7209072012",
+    "district_id": "720907",
+    "name": "MALEWA"
+  },
+  {
+    "id": "7209072013",
+    "district_id": "720907",
+    "name": "MAWOMBA"
+  }
+]

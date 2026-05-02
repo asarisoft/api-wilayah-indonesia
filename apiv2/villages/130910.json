@@ -1,1 +1,22 @@
-[{"id": "1309102001", "district_id": "130910", "name": "SINAKA"}, {"id": "1309102002", "district_id": "130910", "name": "BULASAT"}, {"id": "1309102003", "district_id": "130910", "name": "MALAKOPA"}, {"id": "1309102004", "district_id": "130910", "name": "MAKALO"}]
+[
+  {
+    "id": "1309102001",
+    "district_id": "130910",
+    "name": "SINAKA"
+  },
+  {
+    "id": "1309102002",
+    "district_id": "130910",
+    "name": "BULASAT"
+  },
+  {
+    "id": "1309102003",
+    "district_id": "130910",
+    "name": "MALAKOPA"
+  },
+  {
+    "id": "1309102004",
+    "district_id": "130910",
+    "name": "MAKALO"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id": "1302192001", "district_id": "130219", "name": "SIMPANG TJ. NAN IV"}, {"id": "1302192002", "district_id": "130219", "name": "KAMPUNG BATU DALAM"}]
+[
+  {
+    "id": "1302192001",
+    "district_id": "130219",
+    "name": "SIMPANG TJ. NAN IV"
+  },
+  {
+    "id": "1302192002",
+    "district_id": "130219",
+    "name": "KAMPUNG BATU DALAM"
+  }
+]

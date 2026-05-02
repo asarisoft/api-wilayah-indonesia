@@ -1,1 +1,52 @@
-[{"id": "9604252001", "district_id": "960425", "name": "ATAI"}, {"id": "9604252002", "district_id": "960425", "name": "AKMURI"}, {"id": "9604252003", "district_id": "960425", "name": "AWORI"}, {"id": "9604252004", "district_id": "960425", "name": "ITAFITI"}, {"id": "9604252005", "district_id": "960425", "name": "ATUNARI"}, {"id": "9604252006", "district_id": "960425", "name": "AJAMI WARIPI"}, {"id": "9604252007", "district_id": "960425", "name": "NARAI"}, {"id": "9604252008", "district_id": "960425", "name": "ARANARI"}, {"id": "9604252009", "district_id": "960425", "name": "WAUMI"}, {"id": "9604252010", "district_id": "960425", "name": "ANETI"}]
+[
+  {
+    "id": "9604252001",
+    "district_id": "960425",
+    "name": "ATAI"
+  },
+  {
+    "id": "9604252002",
+    "district_id": "960425",
+    "name": "AKMURI"
+  },
+  {
+    "id": "9604252003",
+    "district_id": "960425",
+    "name": "AWORI"
+  },
+  {
+    "id": "9604252004",
+    "district_id": "960425",
+    "name": "ITAFITI"
+  },
+  {
+    "id": "9604252005",
+    "district_id": "960425",
+    "name": "ATUNARI"
+  },
+  {
+    "id": "9604252006",
+    "district_id": "960425",
+    "name": "AJAMI WARIPI"
+  },
+  {
+    "id": "9604252007",
+    "district_id": "960425",
+    "name": "NARAI"
+  },
+  {
+    "id": "9604252008",
+    "district_id": "960425",
+    "name": "ARANARI"
+  },
+  {
+    "id": "9604252009",
+    "district_id": "960425",
+    "name": "WAUMI"
+  },
+  {
+    "id": "9604252010",
+    "district_id": "960425",
+    "name": "ANETI"
+  }
+]

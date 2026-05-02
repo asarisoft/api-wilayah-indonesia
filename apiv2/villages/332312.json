@@ -1,1 +1,72 @@
-[{"id": "3323122001", "district_id": "332312", "name": "CANDIROTO"}, {"id": "3323122002", "district_id": "332312", "name": "LEMPUYANG"}, {"id": "3323122003", "district_id": "332312", "name": "CANGGAL"}, {"id": "3323122004", "district_id": "332312", "name": "KENTENGSARI"}, {"id": "3323122005", "district_id": "332312", "name": "NGABEYAN"}, {"id": "3323122006", "district_id": "332312", "name": "BANTIR"}, {"id": "3323122007", "district_id": "332312", "name": "KRAWITAN"}, {"id": "3323122008", "district_id": "332312", "name": "MUNTUNG"}, {"id": "3323122009", "district_id": "332312", "name": "BATURSARI"}, {"id": "3323122010", "district_id": "332312", "name": "MENTO"}, {"id": "3323122011", "district_id": "332312", "name": "MUNENG"}, {"id": "3323122012", "district_id": "332312", "name": "PLOSOGADEN"}, {"id": "3323122013", "district_id": "332312", "name": "SIDOHARJO"}, {"id": "3323122014", "district_id": "332312", "name": "GUNUNGPAYUNG"}]
+[
+  {
+    "id": "3323122001",
+    "district_id": "332312",
+    "name": "CANDIROTO"
+  },
+  {
+    "id": "3323122002",
+    "district_id": "332312",
+    "name": "LEMPUYANG"
+  },
+  {
+    "id": "3323122003",
+    "district_id": "332312",
+    "name": "CANGGAL"
+  },
+  {
+    "id": "3323122004",
+    "district_id": "332312",
+    "name": "KENTENGSARI"
+  },
+  {
+    "id": "3323122005",
+    "district_id": "332312",
+    "name": "NGABEYAN"
+  },
+  {
+    "id": "3323122006",
+    "district_id": "332312",
+    "name": "BANTIR"
+  },
+  {
+    "id": "3323122007",
+    "district_id": "332312",
+    "name": "KRAWITAN"
+  },
+  {
+    "id": "3323122008",
+    "district_id": "332312",
+    "name": "MUNTUNG"
+  },
+  {
+    "id": "3323122009",
+    "district_id": "332312",
+    "name": "BATURSARI"
+  },
+  {
+    "id": "3323122010",
+    "district_id": "332312",
+    "name": "MENTO"
+  },
+  {
+    "id": "3323122011",
+    "district_id": "332312",
+    "name": "MUNENG"
+  },
+  {
+    "id": "3323122012",
+    "district_id": "332312",
+    "name": "PLOSOGADEN"
+  },
+  {
+    "id": "3323122013",
+    "district_id": "332312",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "3323122014",
+    "district_id": "332312",
+    "name": "GUNUNGPAYUNG"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3509142001", "district_id": "350914", "name": "PAKIS"}, {"id": "3509142002", "district_id": "350914", "name": "KEMUNING SARI LOR"}, {"id": "3509142003", "district_id": "350914", "name": "PANTI"}, {"id": "3509142004", "district_id": "350914", "name": "GLAGAHWERO"}, {"id": "3509142005", "district_id": "350914", "name": "SUCI"}, {"id": "3509142006", "district_id": "350914", "name": "KEMIRI"}, {"id": "3509142007", "district_id": "350914", "name": "SERUT"}]
+[
+  {
+    "id": "3509142001",
+    "district_id": "350914",
+    "name": "PAKIS"
+  },
+  {
+    "id": "3509142002",
+    "district_id": "350914",
+    "name": "KEMUNING SARI LOR"
+  },
+  {
+    "id": "3509142003",
+    "district_id": "350914",
+    "name": "PANTI"
+  },
+  {
+    "id": "3509142004",
+    "district_id": "350914",
+    "name": "GLAGAHWERO"
+  },
+  {
+    "id": "3509142005",
+    "district_id": "350914",
+    "name": "SUCI"
+  },
+  {
+    "id": "3509142006",
+    "district_id": "350914",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3509142007",
+    "district_id": "350914",
+    "name": "SERUT"
+  }
+]

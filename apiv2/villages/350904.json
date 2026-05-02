@@ -1,1 +1,42 @@
-[{"id": "3509042001", "district_id": "350904", "name": "KEPANJEN"}, {"id": "3509042002", "district_id": "350904", "name": "MAYANGAN"}, {"id": "3509042003", "district_id": "350904", "name": "GUMUKMAS"}, {"id": "3509042004", "district_id": "350904", "name": "MENAMPU"}, {"id": "3509042005", "district_id": "350904", "name": "TEMBOKREJO"}, {"id": "3509042006", "district_id": "350904", "name": "PURWOASRI"}, {"id": "3509042007", "district_id": "350904", "name": "BAGOREJO"}, {"id": "3509042008", "district_id": "350904", "name": "KARANGREJO"}]
+[
+  {
+    "id": "3509042001",
+    "district_id": "350904",
+    "name": "KEPANJEN"
+  },
+  {
+    "id": "3509042002",
+    "district_id": "350904",
+    "name": "MAYANGAN"
+  },
+  {
+    "id": "3509042003",
+    "district_id": "350904",
+    "name": "GUMUKMAS"
+  },
+  {
+    "id": "3509042004",
+    "district_id": "350904",
+    "name": "MENAMPU"
+  },
+  {
+    "id": "3509042005",
+    "district_id": "350904",
+    "name": "TEMBOKREJO"
+  },
+  {
+    "id": "3509042006",
+    "district_id": "350904",
+    "name": "PURWOASRI"
+  },
+  {
+    "id": "3509042007",
+    "district_id": "350904",
+    "name": "BAGOREJO"
+  },
+  {
+    "id": "3509042008",
+    "district_id": "350904",
+    "name": "KARANGREJO"
+  }
+]

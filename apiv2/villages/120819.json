@@ -1,1 +1,42 @@
-[{"id": "1208192001", "district_id": "120819", "name": "JAWA MARAJA"}, {"id": "1208192002", "district_id": "120819", "name": "MOHO"}, {"id": "1208192003", "district_id": "120819", "name": "BAHALAT BAYU"}, {"id": "1208192004", "district_id": "120819", "name": "MEKAR BAHALAT"}, {"id": "1208192005", "district_id": "120819", "name": "TANJUNG MARAJA"}, {"id": "1208192006", "district_id": "120819", "name": "MARIAH JAMBI"}, {"id": "1208192007", "district_id": "120819", "name": "BAH JOGA"}, {"id": "1208192008", "district_id": "120819", "name": "BAH JAMBI"}]
+[
+  {
+    "id": "1208192001",
+    "district_id": "120819",
+    "name": "JAWA MARAJA"
+  },
+  {
+    "id": "1208192002",
+    "district_id": "120819",
+    "name": "MOHO"
+  },
+  {
+    "id": "1208192003",
+    "district_id": "120819",
+    "name": "BAHALAT BAYU"
+  },
+  {
+    "id": "1208192004",
+    "district_id": "120819",
+    "name": "MEKAR BAHALAT"
+  },
+  {
+    "id": "1208192005",
+    "district_id": "120819",
+    "name": "TANJUNG MARAJA"
+  },
+  {
+    "id": "1208192006",
+    "district_id": "120819",
+    "name": "MARIAH JAMBI"
+  },
+  {
+    "id": "1208192007",
+    "district_id": "120819",
+    "name": "BAH JOGA"
+  },
+  {
+    "id": "1208192008",
+    "district_id": "120819",
+    "name": "BAH JAMBI"
+  }
+]

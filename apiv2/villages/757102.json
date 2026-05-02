@@ -1,1 +1,27 @@
-[{"id": "7571021010", "district_id": "757102", "name": "BIAWAO"}, {"id": "7571021012", "district_id": "757102", "name": "BIAWU"}, {"id": "7571021013", "district_id": "757102", "name": "LIMBA B"}, {"id": "7571021019", "district_id": "757102", "name": "LIMBA U I"}, {"id": "7571021020", "district_id": "757102", "name": "LIMBA U II"}]
+[
+  {
+    "id": "7571021010",
+    "district_id": "757102",
+    "name": "BIAWAO"
+  },
+  {
+    "id": "7571021012",
+    "district_id": "757102",
+    "name": "BIAWU"
+  },
+  {
+    "id": "7571021013",
+    "district_id": "757102",
+    "name": "LIMBA B"
+  },
+  {
+    "id": "7571021019",
+    "district_id": "757102",
+    "name": "LIMBA U I"
+  },
+  {
+    "id": "7571021020",
+    "district_id": "757102",
+    "name": "LIMBA U II"
+  }
+]

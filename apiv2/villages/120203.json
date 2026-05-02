@@ -1,1 +1,82 @@
-[{"id": "1202032001", "district_id": "120203", "name": "DOLOK NAULI"}, {"id": "1202032002", "district_id": "120203", "name": "PANSURBATU"}, {"id": "1202032003", "district_id": "120203", "name": "PARDOMUAN NAULI"}, {"id": "1202032004", "district_id": "120203", "name": "SIANTAR NAIPOSPOS"}, {"id": "1202032005", "district_id": "120203", "name": "SIBALANGA"}, {"id": "1202032006", "district_id": "120203", "name": "PAGARAN LAMBUNG III"}, {"id": "1202032007", "district_id": "120203", "name": "PAGARAN LAMBUNG IV"}, {"id": "1202032008", "district_id": "120203", "name": "ADIAN KOTING"}, {"id": "1202032009", "district_id": "120203", "name": "PANGARAN PISANG"}, {"id": "1202032010", "district_id": "120203", "name": "BANUAJI IV"}, {"id": "1202032011", "district_id": "120203", "name": "BANUAJI I"}, {"id": "1202032012", "district_id": "120203", "name": "BANUAJI II"}, {"id": "1202032013", "district_id": "120203", "name": "PANGARAN LAMBUNG I"}, {"id": "1202032014", "district_id": "120203", "name": "PANGARAN LAMBUNG II"}, {"id": "1202032015", "district_id": "120203", "name": "PANSURBATU I"}, {"id": "1202032016", "district_id": "120203", "name": "PANSURBATU II"}]
+[
+  {
+    "id": "1202032001",
+    "district_id": "120203",
+    "name": "DOLOK NAULI"
+  },
+  {
+    "id": "1202032002",
+    "district_id": "120203",
+    "name": "PANSURBATU"
+  },
+  {
+    "id": "1202032003",
+    "district_id": "120203",
+    "name": "PARDOMUAN NAULI"
+  },
+  {
+    "id": "1202032004",
+    "district_id": "120203",
+    "name": "SIANTAR NAIPOSPOS"
+  },
+  {
+    "id": "1202032005",
+    "district_id": "120203",
+    "name": "SIBALANGA"
+  },
+  {
+    "id": "1202032006",
+    "district_id": "120203",
+    "name": "PAGARAN LAMBUNG III"
+  },
+  {
+    "id": "1202032007",
+    "district_id": "120203",
+    "name": "PAGARAN LAMBUNG IV"
+  },
+  {
+    "id": "1202032008",
+    "district_id": "120203",
+    "name": "ADIAN KOTING"
+  },
+  {
+    "id": "1202032009",
+    "district_id": "120203",
+    "name": "PANGARAN PISANG"
+  },
+  {
+    "id": "1202032010",
+    "district_id": "120203",
+    "name": "BANUAJI IV"
+  },
+  {
+    "id": "1202032011",
+    "district_id": "120203",
+    "name": "BANUAJI I"
+  },
+  {
+    "id": "1202032012",
+    "district_id": "120203",
+    "name": "BANUAJI II"
+  },
+  {
+    "id": "1202032013",
+    "district_id": "120203",
+    "name": "PANGARAN LAMBUNG I"
+  },
+  {
+    "id": "1202032014",
+    "district_id": "120203",
+    "name": "PANGARAN LAMBUNG II"
+  },
+  {
+    "id": "1202032015",
+    "district_id": "120203",
+    "name": "PANSURBATU I"
+  },
+  {
+    "id": "1202032016",
+    "district_id": "120203",
+    "name": "PANSURBATU II"
+  }
+]

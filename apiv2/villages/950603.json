@@ -1,1 +1,542 @@
-[{"id": "9506032001", "district_id": "950603", "name": "ABENAHO"}, {"id": "9506032002", "district_id": "950603", "name": "WAMBALFAK"}, {"id": "9506032003", "district_id": "950603", "name": "LANDIKMA"}, {"id": "9506032004", "district_id": "950603", "name": "DOMBOMI"}, {"id": "9506032005", "district_id": "950603", "name": "DOSUMO"}, {"id": "9506032006", "district_id": "950603", "name": "WAMBO"}, {"id": "9506032007", "district_id": "950603", "name": "SOMBULE"}, {"id": "9506032008", "district_id": "950603", "name": "HUBLIKI"}, {"id": "9506032009", "district_id": "950603", "name": "HULIKMA"}, {"id": "9506032010", "district_id": "950603", "name": "SEBI"}, {"id": "9506032011", "district_id": "950603", "name": "SUMINAIKMA"}, {"id": "9506032012", "district_id": "950603", "name": "ULUN"}, {"id": "9506032013", "district_id": "950603", "name": "FUAHE"}, {"id": "9506032014", "district_id": "950603", "name": "WUTLARIN"}, {"id": "9506032015", "district_id": "950603", "name": "KOLAIMA"}, {"id": "9506032016", "district_id": "950603", "name": "WANGGIBO"}, {"id": "9506032017", "district_id": "950603", "name": "WALAGIMA"}, {"id": "9506032018", "district_id": "950603", "name": "TAGABAGA"}, {"id": "9506032019", "district_id": "950603", "name": "BOHUM"}, {"id": "9506032020", "district_id": "950603", "name": "JINGGIWI"}, {"id": "9506032021", "district_id": "950603", "name": "HURUALMA"}, {"id": "9506032022", "district_id": "950603", "name": "HUMALMA"}, {"id": "9506032023", "district_id": "950603", "name": "YAHATMA"}, {"id": "9506032024", "district_id": "950603", "name": "SOHOMBUNU"}, {"id": "9506032025", "district_id": "950603", "name": "BUMBUM"}, {"id": "9506032026", "district_id": "950603", "name": "BURIM"}, {"id": "9506032027", "district_id": "950603", "name": "DAHONAIKMA"}, {"id": "9506032028", "district_id": "950603", "name": "MUSANAHIKMA"}, {"id": "9506032029", "district_id": "950603", "name": "ABAGIMA"}, {"id": "9506032030", "district_id": "950603", "name": "WAGHASILIMO"}, {"id": "9506032031", "district_id": "950603", "name": "WILEROMA"}, {"id": "9506032032", "district_id": "950603", "name": "OBABIN"}, {"id": "9506032033", "district_id": "950603", "name": "BABIN"}, {"id": "9506032034", "district_id": "950603", "name": "ELESIM"}, {"id": "9506032035", "district_id": "950603", "name": "WANWAL"}, {"id": "9506032036", "district_id": "950603", "name": "SABILIRONGGO"}, {"id": "9506032037", "district_id": "950603", "name": "YANAMIK"}, {"id": "9506032038", "district_id": "950603", "name": "LAKONGKONG"}, {"id": "9506032039", "district_id": "950603", "name": "HELAKSILI"}, {"id": "9506032040", "district_id": "950603", "name": "BUKURIK"}, {"id": "9506032041", "district_id": "950603", "name": "KEWI"}, {"id": "9506032042", "district_id": "950603", "name": "YAMBAIKMA"}, {"id": "9506032043", "district_id": "950603", "name": "HUBUALMA"}, {"id": "9506032044", "district_id": "950603", "name": "YUKTANGGO"}, {"id": "9506032045", "district_id": "950603", "name": "WAMBAL"}, {"id": "9506032046", "district_id": "950603", "name": "LILIMUHUK"}, {"id": "9506032047", "district_id": "950603", "name": "HULHULE"}, {"id": "9506032048", "district_id": "950603", "name": "MAHIYAL"}, {"id": "9506032049", "district_id": "950603", "name": "ALUGI"}, {"id": "9506032050", "district_id": "950603", "name": "SAHIKMA"}, {"id": "9506032051", "district_id": "950603", "name": "BONAHIK"}, {"id": "9506032052", "district_id": "950603", "name": "ELIYEKMA"}, {"id": "9506032053", "district_id": "950603", "name": "YABUSUP"}, {"id": "9506032054", "district_id": "950603", "name": "ARIKBALEK"}, {"id": "9506032055", "district_id": "950603", "name": "YAWAN"}, {"id": "9506032056", "district_id": "950603", "name": "FUIM"}, {"id": "9506032057", "district_id": "950603", "name": "WITLANGGO"}, {"id": "9506032058", "district_id": "950603", "name": "WOROWI"}, {"id": "9506032059", "district_id": "950603", "name": "BONGGI"}, {"id": "9506032060", "district_id": "950603", "name": "WILAK"}, {"id": "9506032061", "district_id": "950603", "name": "WANGGUN"}, {"id": "9506032062", "district_id": "950603", "name": "HOMBANMA"}, {"id": "9506032063", "district_id": "950603", "name": "YAMA"}, {"id": "9506032064", "district_id": "950603", "name": "HALIFUR"}, {"id": "9506032065", "district_id": "950603", "name": "BEIM"}, {"id": "9506032066", "district_id": "950603", "name": "ULUSI"}, {"id": "9506032067", "district_id": "950603", "name": "SALO"}, {"id": "9506032068", "district_id": "950603", "name": "MOBAN"}, {"id": "9506032069", "district_id": "950603", "name": "MULIP"}, {"id": "9506032070", "district_id": "950603", "name": "ULUKHUMI"}, {"id": "9506032071", "district_id": "950603", "name": "HALISEK"}, {"id": "9506032072", "district_id": "950603", "name": "LOHOMABEL"}, {"id": "9506032073", "district_id": "950603", "name": "KULE"}, {"id": "9506032074", "district_id": "950603", "name": "KANDIBUNG"}, {"id": "9506032075", "district_id": "950603", "name": "GEFIDO"}, {"id": "9506032076", "district_id": "950603", "name": "SAPIWAREK"}, {"id": "9506032077", "district_id": "950603", "name": "FIALEM"}, {"id": "9506032078", "district_id": "950603", "name": "HORAKIA"}, {"id": "9506032079", "district_id": "950603", "name": "SUAHE"}, {"id": "9506032080", "district_id": "950603", "name": "ULUHUFUK"}, {"id": "9506032081", "district_id": "950603", "name": "WAROHAM"}, {"id": "9506032082", "district_id": "950603", "name": "SOHI"}, {"id": "9506032083", "district_id": "950603", "name": "AKRIS"}, {"id": "9506032084", "district_id": "950603", "name": "PIRIKALEM"}, {"id": "9506032085", "district_id": "950603", "name": "SUMBUL"}, {"id": "9506032086", "district_id": "950603", "name": "HUNDILIP"}, {"id": "9506032087", "district_id": "950603", "name": "AMUKI"}, {"id": "9506032088", "district_id": "950603", "name": "WAMHOR"}, {"id": "9506032089", "district_id": "950603", "name": "KESUWI"}, {"id": "9506032090", "district_id": "950603", "name": "PAMUMU"}, {"id": "9506032091", "district_id": "950603", "name": "WAFUHUK"}, {"id": "9506032092", "district_id": "950603", "name": "LILLUIKMA"}, {"id": "9506032093", "district_id": "950603", "name": "NOHOLUOK"}, {"id": "9506032094", "district_id": "950603", "name": "WANAM"}, {"id": "9506032095", "district_id": "950603", "name": "NENOMANI"}, {"id": "9506032096", "district_id": "950603", "name": "WILOFING"}, {"id": "9506032097", "district_id": "950603", "name": "SALOHE"}, {"id": "9506032098", "district_id": "950603", "name": "DAMA"}, {"id": "9506032099", "district_id": "950603", "name": "KELESU"}, {"id": "9506032100", "district_id": "950603", "name": "KABOHOLIK"}, {"id": "9506032101", "district_id": "950603", "name": "HORENIKMA"}, {"id": "9506032102", "district_id": "950603", "name": "LASIKMA"}, {"id": "9506032103", "district_id": "950603", "name": "SUELE"}, {"id": "9506032104", "district_id": "950603", "name": "HEAHOBAK"}, {"id": "9506032105", "district_id": "950603", "name": "MALEO"}, {"id": "9506032106", "district_id": "950603", "name": "USABIYE"}, {"id": "9506032107", "district_id": "950603", "name": "WIWULIK"}, {"id": "9506032108", "district_id": "950603", "name": "SOMOHI"}]
+[
+  {
+    "id": "9506032001",
+    "district_id": "950603",
+    "name": "ABENAHO"
+  },
+  {
+    "id": "9506032002",
+    "district_id": "950603",
+    "name": "WAMBALFAK"
+  },
+  {
+    "id": "9506032003",
+    "district_id": "950603",
+    "name": "LANDIKMA"
+  },
+  {
+    "id": "9506032004",
+    "district_id": "950603",
+    "name": "DOMBOMI"
+  },
+  {
+    "id": "9506032005",
+    "district_id": "950603",
+    "name": "DOSUMO"
+  },
+  {
+    "id": "9506032006",
+    "district_id": "950603",
+    "name": "WAMBO"
+  },
+  {
+    "id": "9506032007",
+    "district_id": "950603",
+    "name": "SOMBULE"
+  },
+  {
+    "id": "9506032008",
+    "district_id": "950603",
+    "name": "HUBLIKI"
+  },
+  {
+    "id": "9506032009",
+    "district_id": "950603",
+    "name": "HULIKMA"
+  },
+  {
+    "id": "9506032010",
+    "district_id": "950603",
+    "name": "SEBI"
+  },
+  {
+    "id": "9506032011",
+    "district_id": "950603",
+    "name": "SUMINAIKMA"
+  },
+  {
+    "id": "9506032012",
+    "district_id": "950603",
+    "name": "ULUN"
+  },
+  {
+    "id": "9506032013",
+    "district_id": "950603",
+    "name": "FUAHE"
+  },
+  {
+    "id": "9506032014",
+    "district_id": "950603",
+    "name": "WUTLARIN"
+  },
+  {
+    "id": "9506032015",
+    "district_id": "950603",
+    "name": "KOLAIMA"
+  },
+  {
+    "id": "9506032016",
+    "district_id": "950603",
+    "name": "WANGGIBO"
+  },
+  {
+    "id": "9506032017",
+    "district_id": "950603",
+    "name": "WALAGIMA"
+  },
+  {
+    "id": "9506032018",
+    "district_id": "950603",
+    "name": "TAGABAGA"
+  },
+  {
+    "id": "9506032019",
+    "district_id": "950603",
+    "name": "BOHUM"
+  },
+  {
+    "id": "9506032020",
+    "district_id": "950603",
+    "name": "JINGGIWI"
+  },
+  {
+    "id": "9506032021",
+    "district_id": "950603",
+    "name": "HURUALMA"
+  },
+  {
+    "id": "9506032022",
+    "district_id": "950603",
+    "name": "HUMALMA"
+  },
+  {
+    "id": "9506032023",
+    "district_id": "950603",
+    "name": "YAHATMA"
+  },
+  {
+    "id": "9506032024",
+    "district_id": "950603",
+    "name": "SOHOMBUNU"
+  },
+  {
+    "id": "9506032025",
+    "district_id": "950603",
+    "name": "BUMBUM"
+  },
+  {
+    "id": "9506032026",
+    "district_id": "950603",
+    "name": "BURIM"
+  },
+  {
+    "id": "9506032027",
+    "district_id": "950603",
+    "name": "DAHONAIKMA"
+  },
+  {
+    "id": "9506032028",
+    "district_id": "950603",
+    "name": "MUSANAHIKMA"
+  },
+  {
+    "id": "9506032029",
+    "district_id": "950603",
+    "name": "ABAGIMA"
+  },
+  {
+    "id": "9506032030",
+    "district_id": "950603",
+    "name": "WAGHASILIMO"
+  },
+  {
+    "id": "9506032031",
+    "district_id": "950603",
+    "name": "WILEROMA"
+  },
+  {
+    "id": "9506032032",
+    "district_id": "950603",
+    "name": "OBABIN"
+  },
+  {
+    "id": "9506032033",
+    "district_id": "950603",
+    "name": "BABIN"
+  },
+  {
+    "id": "9506032034",
+    "district_id": "950603",
+    "name": "ELESIM"
+  },
+  {
+    "id": "9506032035",
+    "district_id": "950603",
+    "name": "WANWAL"
+  },
+  {
+    "id": "9506032036",
+    "district_id": "950603",
+    "name": "SABILIRONGGO"
+  },
+  {
+    "id": "9506032037",
+    "district_id": "950603",
+    "name": "YANAMIK"
+  },
+  {
+    "id": "9506032038",
+    "district_id": "950603",
+    "name": "LAKONGKONG"
+  },
+  {
+    "id": "9506032039",
+    "district_id": "950603",
+    "name": "HELAKSILI"
+  },
+  {
+    "id": "9506032040",
+    "district_id": "950603",
+    "name": "BUKURIK"
+  },
+  {
+    "id": "9506032041",
+    "district_id": "950603",
+    "name": "KEWI"
+  },
+  {
+    "id": "9506032042",
+    "district_id": "950603",
+    "name": "YAMBAIKMA"
+  },
+  {
+    "id": "9506032043",
+    "district_id": "950603",
+    "name": "HUBUALMA"
+  },
+  {
+    "id": "9506032044",
+    "district_id": "950603",
+    "name": "YUKTANGGO"
+  },
+  {
+    "id": "9506032045",
+    "district_id": "950603",
+    "name": "WAMBAL"
+  },
+  {
+    "id": "9506032046",
+    "district_id": "950603",
+    "name": "LILIMUHUK"
+  },
+  {
+    "id": "9506032047",
+    "district_id": "950603",
+    "name": "HULHULE"
+  },
+  {
+    "id": "9506032048",
+    "district_id": "950603",
+    "name": "MAHIYAL"
+  },
+  {
+    "id": "9506032049",
+    "district_id": "950603",
+    "name": "ALUGI"
+  },
+  {
+    "id": "9506032050",
+    "district_id": "950603",
+    "name": "SAHIKMA"
+  },
+  {
+    "id": "9506032051",
+    "district_id": "950603",
+    "name": "BONAHIK"
+  },
+  {
+    "id": "9506032052",
+    "district_id": "950603",
+    "name": "ELIYEKMA"
+  },
+  {
+    "id": "9506032053",
+    "district_id": "950603",
+    "name": "YABUSUP"
+  },
+  {
+    "id": "9506032054",
+    "district_id": "950603",
+    "name": "ARIKBALEK"
+  },
+  {
+    "id": "9506032055",
+    "district_id": "950603",
+    "name": "YAWAN"
+  },
+  {
+    "id": "9506032056",
+    "district_id": "950603",
+    "name": "FUIM"
+  },
+  {
+    "id": "9506032057",
+    "district_id": "950603",
+    "name": "WITLANGGO"
+  },
+  {
+    "id": "9506032058",
+    "district_id": "950603",
+    "name": "WOROWI"
+  },
+  {
+    "id": "9506032059",
+    "district_id": "950603",
+    "name": "BONGGI"
+  },
+  {
+    "id": "9506032060",
+    "district_id": "950603",
+    "name": "WILAK"
+  },
+  {
+    "id": "9506032061",
+    "district_id": "950603",
+    "name": "WANGGUN"
+  },
+  {
+    "id": "9506032062",
+    "district_id": "950603",
+    "name": "HOMBANMA"
+  },
+  {
+    "id": "9506032063",
+    "district_id": "950603",
+    "name": "YAMA"
+  },
+  {
+    "id": "9506032064",
+    "district_id": "950603",
+    "name": "HALIFUR"
+  },
+  {
+    "id": "9506032065",
+    "district_id": "950603",
+    "name": "BEIM"
+  },
+  {
+    "id": "9506032066",
+    "district_id": "950603",
+    "name": "ULUSI"
+  },
+  {
+    "id": "9506032067",
+    "district_id": "950603",
+    "name": "SALO"
+  },
+  {
+    "id": "9506032068",
+    "district_id": "950603",
+    "name": "MOBAN"
+  },
+  {
+    "id": "9506032069",
+    "district_id": "950603",
+    "name": "MULIP"
+  },
+  {
+    "id": "9506032070",
+    "district_id": "950603",
+    "name": "ULUKHUMI"
+  },
+  {
+    "id": "9506032071",
+    "district_id": "950603",
+    "name": "HALISEK"
+  },
+  {
+    "id": "9506032072",
+    "district_id": "950603",
+    "name": "LOHOMABEL"
+  },
+  {
+    "id": "9506032073",
+    "district_id": "950603",
+    "name": "KULE"
+  },
+  {
+    "id": "9506032074",
+    "district_id": "950603",
+    "name": "KANDIBUNG"
+  },
+  {
+    "id": "9506032075",
+    "district_id": "950603",
+    "name": "GEFIDO"
+  },
+  {
+    "id": "9506032076",
+    "district_id": "950603",
+    "name": "SAPIWAREK"
+  },
+  {
+    "id": "9506032077",
+    "district_id": "950603",
+    "name": "FIALEM"
+  },
+  {
+    "id": "9506032078",
+    "district_id": "950603",
+    "name": "HORAKIA"
+  },
+  {
+    "id": "9506032079",
+    "district_id": "950603",
+    "name": "SUAHE"
+  },
+  {
+    "id": "9506032080",
+    "district_id": "950603",
+    "name": "ULUHUFUK"
+  },
+  {
+    "id": "9506032081",
+    "district_id": "950603",
+    "name": "WAROHAM"
+  },
+  {
+    "id": "9506032082",
+    "district_id": "950603",
+    "name": "SOHI"
+  },
+  {
+    "id": "9506032083",
+    "district_id": "950603",
+    "name": "AKRIS"
+  },
+  {
+    "id": "9506032084",
+    "district_id": "950603",
+    "name": "PIRIKALEM"
+  },
+  {
+    "id": "9506032085",
+    "district_id": "950603",
+    "name": "SUMBUL"
+  },
+  {
+    "id": "9506032086",
+    "district_id": "950603",
+    "name": "HUNDILIP"
+  },
+  {
+    "id": "9506032087",
+    "district_id": "950603",
+    "name": "AMUKI"
+  },
+  {
+    "id": "9506032088",
+    "district_id": "950603",
+    "name": "WAMHOR"
+  },
+  {
+    "id": "9506032089",
+    "district_id": "950603",
+    "name": "KESUWI"
+  },
+  {
+    "id": "9506032090",
+    "district_id": "950603",
+    "name": "PAMUMU"
+  },
+  {
+    "id": "9506032091",
+    "district_id": "950603",
+    "name": "WAFUHUK"
+  },
+  {
+    "id": "9506032092",
+    "district_id": "950603",
+    "name": "LILLUIKMA"
+  },
+  {
+    "id": "9506032093",
+    "district_id": "950603",
+    "name": "NOHOLUOK"
+  },
+  {
+    "id": "9506032094",
+    "district_id": "950603",
+    "name": "WANAM"
+  },
+  {
+    "id": "9506032095",
+    "district_id": "950603",
+    "name": "NENOMANI"
+  },
+  {
+    "id": "9506032096",
+    "district_id": "950603",
+    "name": "WILOFING"
+  },
+  {
+    "id": "9506032097",
+    "district_id": "950603",
+    "name": "SALOHE"
+  },
+  {
+    "id": "9506032098",
+    "district_id": "950603",
+    "name": "DAMA"
+  },
+  {
+    "id": "9506032099",
+    "district_id": "950603",
+    "name": "KELESU"
+  },
+  {
+    "id": "9506032100",
+    "district_id": "950603",
+    "name": "KABOHOLIK"
+  },
+  {
+    "id": "9506032101",
+    "district_id": "950603",
+    "name": "HORENIKMA"
+  },
+  {
+    "id": "9506032102",
+    "district_id": "950603",
+    "name": "LASIKMA"
+  },
+  {
+    "id": "9506032103",
+    "district_id": "950603",
+    "name": "SUELE"
+  },
+  {
+    "id": "9506032104",
+    "district_id": "950603",
+    "name": "HEAHOBAK"
+  },
+  {
+    "id": "9506032105",
+    "district_id": "950603",
+    "name": "MALEO"
+  },
+  {
+    "id": "9506032106",
+    "district_id": "950603",
+    "name": "USABIYE"
+  },
+  {
+    "id": "9506032107",
+    "district_id": "950603",
+    "name": "WIWULIK"
+  },
+  {
+    "id": "9506032108",
+    "district_id": "950603",
+    "name": "SOMOHI"
+  }
+]

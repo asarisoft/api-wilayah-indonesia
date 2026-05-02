@@ -1,1 +1,27 @@
-[{"id": "3174061001", "district_id": "317406", "name": "CILANDAK BARAT"}, {"id": "3174061002", "district_id": "317406", "name": "LEBAK BULUS"}, {"id": "3174061003", "district_id": "317406", "name": "PONDOK LABU"}, {"id": "3174061004", "district_id": "317406", "name": "GANDARIA SELATAN"}, {"id": "3174061005", "district_id": "317406", "name": "CIPETE SELATAN"}]
+[
+  {
+    "id": "3174061001",
+    "district_id": "317406",
+    "name": "CILANDAK BARAT"
+  },
+  {
+    "id": "3174061002",
+    "district_id": "317406",
+    "name": "LEBAK BULUS"
+  },
+  {
+    "id": "3174061003",
+    "district_id": "317406",
+    "name": "PONDOK LABU"
+  },
+  {
+    "id": "3174061004",
+    "district_id": "317406",
+    "name": "GANDARIA SELATAN"
+  },
+  {
+    "id": "3174061005",
+    "district_id": "317406",
+    "name": "CIPETE SELATAN"
+  }
+]

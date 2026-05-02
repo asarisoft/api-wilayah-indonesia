@@ -1,1 +1,77 @@
-[{"id": "7411051002", "district_id": "741105", "name": "PENANGGO JAYA"}, {"id": "7411052001", "district_id": "741105", "name": "WONUAMBUTEO"}, {"id": "7411052003", "district_id": "741105", "name": "MOKUPA"}, {"id": "7411052005", "district_id": "741105", "name": "PENANGGOOSI"}, {"id": "7411052007", "district_id": "741105", "name": "LOWA"}, {"id": "7411052008", "district_id": "741105", "name": "ATOLANU"}, {"id": "7411052009", "district_id": "741105", "name": "LERE JAYA"}, {"id": "7411052010", "district_id": "741105", "name": "BOU"}, {"id": "7411052012", "district_id": "741105", "name": "LAMBANDIA"}, {"id": "7411052013", "district_id": "741105", "name": "INOTU"}, {"id": "7411052018", "district_id": "741105", "name": "LALOLERA"}, {"id": "7411052019", "district_id": "741105", "name": "POMBUREA"}, {"id": "7411052021", "district_id": "741105", "name": "PENANGGOOTU"}, {"id": "7411052022", "district_id": "741105", "name": "MONDOKE"}, {"id": "7411052026", "district_id": "741105", "name": "ONEMANU"}]
+[
+  {
+    "id": "7411051002",
+    "district_id": "741105",
+    "name": "PENANGGO JAYA"
+  },
+  {
+    "id": "7411052001",
+    "district_id": "741105",
+    "name": "WONUAMBUTEO"
+  },
+  {
+    "id": "7411052003",
+    "district_id": "741105",
+    "name": "MOKUPA"
+  },
+  {
+    "id": "7411052005",
+    "district_id": "741105",
+    "name": "PENANGGOOSI"
+  },
+  {
+    "id": "7411052007",
+    "district_id": "741105",
+    "name": "LOWA"
+  },
+  {
+    "id": "7411052008",
+    "district_id": "741105",
+    "name": "ATOLANU"
+  },
+  {
+    "id": "7411052009",
+    "district_id": "741105",
+    "name": "LERE JAYA"
+  },
+  {
+    "id": "7411052010",
+    "district_id": "741105",
+    "name": "BOU"
+  },
+  {
+    "id": "7411052012",
+    "district_id": "741105",
+    "name": "LAMBANDIA"
+  },
+  {
+    "id": "7411052013",
+    "district_id": "741105",
+    "name": "INOTU"
+  },
+  {
+    "id": "7411052018",
+    "district_id": "741105",
+    "name": "LALOLERA"
+  },
+  {
+    "id": "7411052019",
+    "district_id": "741105",
+    "name": "POMBUREA"
+  },
+  {
+    "id": "7411052021",
+    "district_id": "741105",
+    "name": "PENANGGOOTU"
+  },
+  {
+    "id": "7411052022",
+    "district_id": "741105",
+    "name": "MONDOKE"
+  },
+  {
+    "id": "7411052026",
+    "district_id": "741105",
+    "name": "ONEMANU"
+  }
+]

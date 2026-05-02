@@ -1,1 +1,117 @@
-[{"id": "1102092001", "district_id": "110209", "name": "KUTE LENGAT PANGAN"}, {"id": "1102092002", "district_id": "110209", "name": "KUTE LENGAT SELIAN"}, {"id": "1102092003", "district_id": "110209", "name": "TUALANG BARU"}, {"id": "1102092004", "district_id": "110209", "name": "ALUR BULUH"}, {"id": "1102092005", "district_id": "110209", "name": "MAHA SINGKIL"}, {"id": "1102092006", "district_id": "110209", "name": "TENEMBAK BINTANG"}, {"id": "1102092007", "district_id": "110209", "name": "KUTE LINGGA"}, {"id": "1102092008", "district_id": "110209", "name": "RIKIT BUR"}, {"id": "1102092010", "district_id": "110209", "name": "KERUKUNAN"}, {"id": "1102092011", "district_id": "110209", "name": "LAWE DUA"}, {"id": "1102092012", "district_id": "110209", "name": "REMA"}, {"id": "1102092013", "district_id": "110209", "name": "BAMBEL BARU"}, {"id": "1102092014", "district_id": "110209", "name": "PEJUANG"}, {"id": "1102092015", "district_id": "110209", "name": "DARUSSALAM"}, {"id": "1102092016", "district_id": "110209", "name": "AMALIAH"}, {"id": "1102092017", "district_id": "110209", "name": "SEBUDI JAYA"}, {"id": "1102092018", "district_id": "110209", "name": "GUMPANG"}, {"id": "1102092019", "district_id": "110209", "name": "KUTE GEKHAT"}, {"id": "1102092020", "district_id": "110209", "name": "PAYE KHAMBUNG"}, {"id": "1102092021", "district_id": "110209", "name": "MBAK SAKO"}, {"id": "1102092022", "district_id": "110209", "name": "DARUL IMAMI"}, {"id": "1102092023", "district_id": "110209", "name": "RIKIT BUR II"}, {"id": "1102092024", "district_id": "110209", "name": "KUTE EMPAT LIMA"}]
+[
+  {
+    "id": "1102092001",
+    "district_id": "110209",
+    "name": "KUTE LENGAT PANGAN"
+  },
+  {
+    "id": "1102092002",
+    "district_id": "110209",
+    "name": "KUTE LENGAT SELIAN"
+  },
+  {
+    "id": "1102092003",
+    "district_id": "110209",
+    "name": "TUALANG BARU"
+  },
+  {
+    "id": "1102092004",
+    "district_id": "110209",
+    "name": "ALUR BULUH"
+  },
+  {
+    "id": "1102092005",
+    "district_id": "110209",
+    "name": "MAHA SINGKIL"
+  },
+  {
+    "id": "1102092006",
+    "district_id": "110209",
+    "name": "TENEMBAK BINTANG"
+  },
+  {
+    "id": "1102092007",
+    "district_id": "110209",
+    "name": "KUTE LINGGA"
+  },
+  {
+    "id": "1102092008",
+    "district_id": "110209",
+    "name": "RIKIT BUR"
+  },
+  {
+    "id": "1102092010",
+    "district_id": "110209",
+    "name": "KERUKUNAN"
+  },
+  {
+    "id": "1102092011",
+    "district_id": "110209",
+    "name": "LAWE DUA"
+  },
+  {
+    "id": "1102092012",
+    "district_id": "110209",
+    "name": "REMA"
+  },
+  {
+    "id": "1102092013",
+    "district_id": "110209",
+    "name": "BAMBEL BARU"
+  },
+  {
+    "id": "1102092014",
+    "district_id": "110209",
+    "name": "PEJUANG"
+  },
+  {
+    "id": "1102092015",
+    "district_id": "110209",
+    "name": "DARUSSALAM"
+  },
+  {
+    "id": "1102092016",
+    "district_id": "110209",
+    "name": "AMALIAH"
+  },
+  {
+    "id": "1102092017",
+    "district_id": "110209",
+    "name": "SEBUDI JAYA"
+  },
+  {
+    "id": "1102092018",
+    "district_id": "110209",
+    "name": "GUMPANG"
+  },
+  {
+    "id": "1102092019",
+    "district_id": "110209",
+    "name": "KUTE GEKHAT"
+  },
+  {
+    "id": "1102092020",
+    "district_id": "110209",
+    "name": "PAYE KHAMBUNG"
+  },
+  {
+    "id": "1102092021",
+    "district_id": "110209",
+    "name": "MBAK SAKO"
+  },
+  {
+    "id": "1102092022",
+    "district_id": "110209",
+    "name": "DARUL IMAMI"
+  },
+  {
+    "id": "1102092023",
+    "district_id": "110209",
+    "name": "RIKIT BUR II"
+  },
+  {
+    "id": "1102092024",
+    "district_id": "110209",
+    "name": "KUTE EMPAT LIMA"
+  }
+]

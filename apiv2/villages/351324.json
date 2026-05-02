@@ -1,1 +1,52 @@
-[{"id": "3513242001", "district_id": "351324", "name": "SAPIH"}, {"id": "3513242002", "district_id": "351324", "name": "NEGOROREJO"}, {"id": "3513242003", "district_id": "351324", "name": "BRANGGAH"}, {"id": "3513242004", "district_id": "351324", "name": "LAMBANGKUNING"}, {"id": "3513242005", "district_id": "351324", "name": "WONOGORO"}, {"id": "3513242006", "district_id": "351324", "name": "PALANGBESI"}, {"id": "3513242007", "district_id": "351324", "name": "BOTO"}, {"id": "3513242008", "district_id": "351324", "name": "LUMBANG"}, {"id": "3513242009", "district_id": "351324", "name": "TANDONSENTUL"}, {"id": "3513242010", "district_id": "351324", "name": "PURUT"}]
+[
+  {
+    "id": "3513242001",
+    "district_id": "351324",
+    "name": "SAPIH"
+  },
+  {
+    "id": "3513242002",
+    "district_id": "351324",
+    "name": "NEGOROREJO"
+  },
+  {
+    "id": "3513242003",
+    "district_id": "351324",
+    "name": "BRANGGAH"
+  },
+  {
+    "id": "3513242004",
+    "district_id": "351324",
+    "name": "LAMBANGKUNING"
+  },
+  {
+    "id": "3513242005",
+    "district_id": "351324",
+    "name": "WONOGORO"
+  },
+  {
+    "id": "3513242006",
+    "district_id": "351324",
+    "name": "PALANGBESI"
+  },
+  {
+    "id": "3513242007",
+    "district_id": "351324",
+    "name": "BOTO"
+  },
+  {
+    "id": "3513242008",
+    "district_id": "351324",
+    "name": "LUMBANG"
+  },
+  {
+    "id": "3513242009",
+    "district_id": "351324",
+    "name": "TANDONSENTUL"
+  },
+  {
+    "id": "3513242010",
+    "district_id": "351324",
+    "name": "PURUT"
+  }
+]

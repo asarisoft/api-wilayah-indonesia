@@ -1,1 +1,87 @@
-[{"id": "351201", "regency_id": "3512", "name": "JATIBANTENG"}, {"id": "351202", "regency_id": "3512", "name": "BESUKI"}, {"id": "351203", "regency_id": "3512", "name": "SUBOH"}, {"id": "351204", "regency_id": "3512", "name": "MLANDINGAN"}, {"id": "351205", "regency_id": "3512", "name": "KENDIT"}, {"id": "351206", "regency_id": "3512", "name": "PANARUKAN"}, {"id": "351207", "regency_id": "3512", "name": "SITUBONDO"}, {"id": "351208", "regency_id": "3512", "name": "PANJI"}, {"id": "351209", "regency_id": "3512", "name": "MANGARAN"}, {"id": "351210", "regency_id": "3512", "name": "KAPONGAN"}, {"id": "351211", "regency_id": "3512", "name": "ARJASA"}, {"id": "351212", "regency_id": "3512", "name": "JANGKAR"}, {"id": "351213", "regency_id": "3512", "name": "ASEMBAGUS"}, {"id": "351214", "regency_id": "3512", "name": "BANYUPUTIH"}, {"id": "351215", "regency_id": "3512", "name": "SUMBERMALANG"}, {"id": "351216", "regency_id": "3512", "name": "BANYUGLUGUR"}, {"id": "351217", "regency_id": "3512", "name": "BUNGATAN"}]
+[
+  {
+    "id": "351201",
+    "regency_id": "3512",
+    "name": "JATIBANTENG"
+  },
+  {
+    "id": "351202",
+    "regency_id": "3512",
+    "name": "BESUKI"
+  },
+  {
+    "id": "351203",
+    "regency_id": "3512",
+    "name": "SUBOH"
+  },
+  {
+    "id": "351204",
+    "regency_id": "3512",
+    "name": "MLANDINGAN"
+  },
+  {
+    "id": "351205",
+    "regency_id": "3512",
+    "name": "KENDIT"
+  },
+  {
+    "id": "351206",
+    "regency_id": "3512",
+    "name": "PANARUKAN"
+  },
+  {
+    "id": "351207",
+    "regency_id": "3512",
+    "name": "SITUBONDO"
+  },
+  {
+    "id": "351208",
+    "regency_id": "3512",
+    "name": "PANJI"
+  },
+  {
+    "id": "351209",
+    "regency_id": "3512",
+    "name": "MANGARAN"
+  },
+  {
+    "id": "351210",
+    "regency_id": "3512",
+    "name": "KAPONGAN"
+  },
+  {
+    "id": "351211",
+    "regency_id": "3512",
+    "name": "ARJASA"
+  },
+  {
+    "id": "351212",
+    "regency_id": "3512",
+    "name": "JANGKAR"
+  },
+  {
+    "id": "351213",
+    "regency_id": "3512",
+    "name": "ASEMBAGUS"
+  },
+  {
+    "id": "351214",
+    "regency_id": "3512",
+    "name": "BANYUPUTIH"
+  },
+  {
+    "id": "351215",
+    "regency_id": "3512",
+    "name": "SUMBERMALANG"
+  },
+  {
+    "id": "351216",
+    "regency_id": "3512",
+    "name": "BANYUGLUGUR"
+  },
+  {
+    "id": "351217",
+    "regency_id": "3512",
+    "name": "BUNGATAN"
+  }
+]

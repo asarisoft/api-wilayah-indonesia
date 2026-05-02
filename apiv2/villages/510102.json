@@ -1,1 +1,57 @@
-[{"id": "5101021006", "district_id": "510102", "name": "TEGALCANGKRING"}, {"id": "5101022001", "district_id": "510102", "name": "MENDOYO DAUH TUKAD"}, {"id": "5101022002", "district_id": "510102", "name": "POHSANTEN"}, {"id": "5101022003", "district_id": "510102", "name": "MENDOYO DANGIN TUKAD"}, {"id": "5101022004", "district_id": "510102", "name": "PERGUNG"}, {"id": "5101022005", "district_id": "510102", "name": "DELODBERAWAH"}, {"id": "5101022007", "district_id": "510102", "name": "PENYARINGAN"}, {"id": "5101022008", "district_id": "510102", "name": "YEHEMBANG"}, {"id": "5101022009", "district_id": "510102", "name": "YEH SUMBUL"}, {"id": "5101022010", "district_id": "510102", "name": "YEHEMBANG KAUH"}, {"id": "5101022011", "district_id": "510102", "name": "YEHEMBANG KANGIN"}]
+[
+  {
+    "id": "5101021006",
+    "district_id": "510102",
+    "name": "TEGALCANGKRING"
+  },
+  {
+    "id": "5101022001",
+    "district_id": "510102",
+    "name": "MENDOYO DAUH TUKAD"
+  },
+  {
+    "id": "5101022002",
+    "district_id": "510102",
+    "name": "POHSANTEN"
+  },
+  {
+    "id": "5101022003",
+    "district_id": "510102",
+    "name": "MENDOYO DANGIN TUKAD"
+  },
+  {
+    "id": "5101022004",
+    "district_id": "510102",
+    "name": "PERGUNG"
+  },
+  {
+    "id": "5101022005",
+    "district_id": "510102",
+    "name": "DELODBERAWAH"
+  },
+  {
+    "id": "5101022007",
+    "district_id": "510102",
+    "name": "PENYARINGAN"
+  },
+  {
+    "id": "5101022008",
+    "district_id": "510102",
+    "name": "YEHEMBANG"
+  },
+  {
+    "id": "5101022009",
+    "district_id": "510102",
+    "name": "YEH SUMBUL"
+  },
+  {
+    "id": "5101022010",
+    "district_id": "510102",
+    "name": "YEHEMBANG KAUH"
+  },
+  {
+    "id": "5101022011",
+    "district_id": "510102",
+    "name": "YEHEMBANG KANGIN"
+  }
+]

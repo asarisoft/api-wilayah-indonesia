@@ -1,1 +1,57 @@
-[{"id": "3313082001", "district_id": "331308", "name": "BANGSRI"}, {"id": "3313082002", "district_id": "331308", "name": "NGEMPLAK"}, {"id": "3313082003", "district_id": "331308", "name": "DOPLANG"}, {"id": "3313082004", "district_id": "331308", "name": "GERDU"}, {"id": "3313082005", "district_id": "331308", "name": "KARANG"}, {"id": "3313082006", "district_id": "331308", "name": "SALAM"}, {"id": "3313082007", "district_id": "331308", "name": "KARANGPANDAN"}, {"id": "3313082008", "district_id": "331308", "name": "TOHKUNING"}, {"id": "3313082009", "district_id": "331308", "name": "GONDANGMANIS"}, {"id": "3313082010", "district_id": "331308", "name": "DAYU"}, {"id": "3313082011", "district_id": "331308", "name": "HARJOSARI"}]
+[
+  {
+    "id": "3313082001",
+    "district_id": "331308",
+    "name": "BANGSRI"
+  },
+  {
+    "id": "3313082002",
+    "district_id": "331308",
+    "name": "NGEMPLAK"
+  },
+  {
+    "id": "3313082003",
+    "district_id": "331308",
+    "name": "DOPLANG"
+  },
+  {
+    "id": "3313082004",
+    "district_id": "331308",
+    "name": "GERDU"
+  },
+  {
+    "id": "3313082005",
+    "district_id": "331308",
+    "name": "KARANG"
+  },
+  {
+    "id": "3313082006",
+    "district_id": "331308",
+    "name": "SALAM"
+  },
+  {
+    "id": "3313082007",
+    "district_id": "331308",
+    "name": "KARANGPANDAN"
+  },
+  {
+    "id": "3313082008",
+    "district_id": "331308",
+    "name": "TOHKUNING"
+  },
+  {
+    "id": "3313082009",
+    "district_id": "331308",
+    "name": "GONDANGMANIS"
+  },
+  {
+    "id": "3313082010",
+    "district_id": "331308",
+    "name": "DAYU"
+  },
+  {
+    "id": "3313082011",
+    "district_id": "331308",
+    "name": "HARJOSARI"
+  }
+]

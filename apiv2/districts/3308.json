@@ -1,1 +1,107 @@
-[{"id": "330801", "regency_id": "3308", "name": "SALAMAN"}, {"id": "330802", "regency_id": "3308", "name": "BOROBUDUR"}, {"id": "330803", "regency_id": "3308", "name": "NGLUWAR"}, {"id": "330804", "regency_id": "3308", "name": "SALAM"}, {"id": "330805", "regency_id": "3308", "name": "SRUMBUNG"}, {"id": "330806", "regency_id": "3308", "name": "DUKUN"}, {"id": "330807", "regency_id": "3308", "name": "SAWANGAN"}, {"id": "330808", "regency_id": "3308", "name": "MUNTILAN"}, {"id": "330809", "regency_id": "3308", "name": "MUNGKID"}, {"id": "330810", "regency_id": "3308", "name": "MERTOYUDAN"}, {"id": "330811", "regency_id": "3308", "name": "TEMPURAN"}, {"id": "330812", "regency_id": "3308", "name": "KAJORAN"}, {"id": "330813", "regency_id": "3308", "name": "KALIANGKRIK"}, {"id": "330814", "regency_id": "3308", "name": "BANDONGAN"}, {"id": "330815", "regency_id": "3308", "name": "CANDIMULYO"}, {"id": "330816", "regency_id": "3308", "name": "PAKIS"}, {"id": "330817", "regency_id": "3308", "name": "NGABLAK"}, {"id": "330818", "regency_id": "3308", "name": "GRABAG"}, {"id": "330819", "regency_id": "3308", "name": "TEGALREJO"}, {"id": "330820", "regency_id": "3308", "name": "SECANG"}, {"id": "330821", "regency_id": "3308", "name": "WINDUSARI"}]
+[
+  {
+    "id": "330801",
+    "regency_id": "3308",
+    "name": "SALAMAN"
+  },
+  {
+    "id": "330802",
+    "regency_id": "3308",
+    "name": "BOROBUDUR"
+  },
+  {
+    "id": "330803",
+    "regency_id": "3308",
+    "name": "NGLUWAR"
+  },
+  {
+    "id": "330804",
+    "regency_id": "3308",
+    "name": "SALAM"
+  },
+  {
+    "id": "330805",
+    "regency_id": "3308",
+    "name": "SRUMBUNG"
+  },
+  {
+    "id": "330806",
+    "regency_id": "3308",
+    "name": "DUKUN"
+  },
+  {
+    "id": "330807",
+    "regency_id": "3308",
+    "name": "SAWANGAN"
+  },
+  {
+    "id": "330808",
+    "regency_id": "3308",
+    "name": "MUNTILAN"
+  },
+  {
+    "id": "330809",
+    "regency_id": "3308",
+    "name": "MUNGKID"
+  },
+  {
+    "id": "330810",
+    "regency_id": "3308",
+    "name": "MERTOYUDAN"
+  },
+  {
+    "id": "330811",
+    "regency_id": "3308",
+    "name": "TEMPURAN"
+  },
+  {
+    "id": "330812",
+    "regency_id": "3308",
+    "name": "KAJORAN"
+  },
+  {
+    "id": "330813",
+    "regency_id": "3308",
+    "name": "KALIANGKRIK"
+  },
+  {
+    "id": "330814",
+    "regency_id": "3308",
+    "name": "BANDONGAN"
+  },
+  {
+    "id": "330815",
+    "regency_id": "3308",
+    "name": "CANDIMULYO"
+  },
+  {
+    "id": "330816",
+    "regency_id": "3308",
+    "name": "PAKIS"
+  },
+  {
+    "id": "330817",
+    "regency_id": "3308",
+    "name": "NGABLAK"
+  },
+  {
+    "id": "330818",
+    "regency_id": "3308",
+    "name": "GRABAG"
+  },
+  {
+    "id": "330819",
+    "regency_id": "3308",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "330820",
+    "regency_id": "3308",
+    "name": "SECANG"
+  },
+  {
+    "id": "330821",
+    "regency_id": "3308",
+    "name": "WINDUSARI"
+  }
+]

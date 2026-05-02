@@ -1,1 +1,47 @@
-[{"id": "5106021003", "district_id": "510602", "name": "BEBALANG"}, {"id": "5106021004", "district_id": "510602", "name": "KAWAN"}, {"id": "5106021005", "district_id": "510602", "name": "CEMPAGA"}, {"id": "5106021006", "district_id": "510602", "name": "KUBU"}, {"id": "5106022001", "district_id": "510602", "name": "BUNUTIN"}, {"id": "5106022002", "district_id": "510602", "name": "TAMANBALI"}, {"id": "5106022007", "district_id": "510602", "name": "KAYUBIHI"}, {"id": "5106022008", "district_id": "510602", "name": "PENGOTAN"}, {"id": "5106022009", "district_id": "510602", "name": "LANDIH"}]
+[
+  {
+    "id": "5106021003",
+    "district_id": "510602",
+    "name": "BEBALANG"
+  },
+  {
+    "id": "5106021004",
+    "district_id": "510602",
+    "name": "KAWAN"
+  },
+  {
+    "id": "5106021005",
+    "district_id": "510602",
+    "name": "CEMPAGA"
+  },
+  {
+    "id": "5106021006",
+    "district_id": "510602",
+    "name": "KUBU"
+  },
+  {
+    "id": "5106022001",
+    "district_id": "510602",
+    "name": "BUNUTIN"
+  },
+  {
+    "id": "5106022002",
+    "district_id": "510602",
+    "name": "TAMANBALI"
+  },
+  {
+    "id": "5106022007",
+    "district_id": "510602",
+    "name": "KAYUBIHI"
+  },
+  {
+    "id": "5106022008",
+    "district_id": "510602",
+    "name": "PENGOTAN"
+  },
+  {
+    "id": "5106022009",
+    "district_id": "510602",
+    "name": "LANDIH"
+  }
+]

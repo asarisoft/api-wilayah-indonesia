@@ -1,1 +1,112 @@
-[{"id": "120701", "regency_id": "1207", "name": "GUNUNG MERIAH"}, {"id": "120702", "regency_id": "1207", "name": "TANJUNG MORAWA"}, {"id": "120703", "regency_id": "1207", "name": "SIBOLANGIT"}, {"id": "120704", "regency_id": "1207", "name": "KUTALIMBARU"}, {"id": "120705", "regency_id": "1207", "name": "PANCUR BATU"}, {"id": "120706", "regency_id": "1207", "name": "NAMO RAMBE"}, {"id": "120707", "regency_id": "1207", "name": "BIRU-BIRU"}, {"id": "120708", "regency_id": "1207", "name": "SINEMBAH TANJUNG MUDA HILIR"}, {"id": "120709", "regency_id": "1207", "name": "BANGUN PURBA"}, {"id": "120719", "regency_id": "1207", "name": "GALANG"}, {"id": "120720", "regency_id": "1207", "name": "SINEMBAH TANJUNG MUDA HULU"}, {"id": "120721", "regency_id": "1207", "name": "PATUMBAK"}, {"id": "120722", "regency_id": "1207", "name": "DELI TUA"}, {"id": "120723", "regency_id": "1207", "name": "SUNGGAL"}, {"id": "120724", "regency_id": "1207", "name": "HAMPARAN PERAK"}, {"id": "120725", "regency_id": "1207", "name": "LABUHAN DELI"}, {"id": "120726", "regency_id": "1207", "name": "PERCUT SEI TUAN"}, {"id": "120727", "regency_id": "1207", "name": "BATANG KUIS"}, {"id": "120728", "regency_id": "1207", "name": "LUBUK PAKAM"}, {"id": "120731", "regency_id": "1207", "name": "PAGAR MERBAU"}, {"id": "120732", "regency_id": "1207", "name": "PANTAI LABU"}, {"id": "120733", "regency_id": "1207", "name": "BERINGIN"}]
+[
+  {
+    "id": "120701",
+    "regency_id": "1207",
+    "name": "GUNUNG MERIAH"
+  },
+  {
+    "id": "120702",
+    "regency_id": "1207",
+    "name": "TANJUNG MORAWA"
+  },
+  {
+    "id": "120703",
+    "regency_id": "1207",
+    "name": "SIBOLANGIT"
+  },
+  {
+    "id": "120704",
+    "regency_id": "1207",
+    "name": "KUTALIMBARU"
+  },
+  {
+    "id": "120705",
+    "regency_id": "1207",
+    "name": "PANCUR BATU"
+  },
+  {
+    "id": "120706",
+    "regency_id": "1207",
+    "name": "NAMO RAMBE"
+  },
+  {
+    "id": "120707",
+    "regency_id": "1207",
+    "name": "BIRU-BIRU"
+  },
+  {
+    "id": "120708",
+    "regency_id": "1207",
+    "name": "SINEMBAH TANJUNG MUDA HILIR"
+  },
+  {
+    "id": "120709",
+    "regency_id": "1207",
+    "name": "BANGUN PURBA"
+  },
+  {
+    "id": "120719",
+    "regency_id": "1207",
+    "name": "GALANG"
+  },
+  {
+    "id": "120720",
+    "regency_id": "1207",
+    "name": "SINEMBAH TANJUNG MUDA HULU"
+  },
+  {
+    "id": "120721",
+    "regency_id": "1207",
+    "name": "PATUMBAK"
+  },
+  {
+    "id": "120722",
+    "regency_id": "1207",
+    "name": "DELI TUA"
+  },
+  {
+    "id": "120723",
+    "regency_id": "1207",
+    "name": "SUNGGAL"
+  },
+  {
+    "id": "120724",
+    "regency_id": "1207",
+    "name": "HAMPARAN PERAK"
+  },
+  {
+    "id": "120725",
+    "regency_id": "1207",
+    "name": "LABUHAN DELI"
+  },
+  {
+    "id": "120726",
+    "regency_id": "1207",
+    "name": "PERCUT SEI TUAN"
+  },
+  {
+    "id": "120727",
+    "regency_id": "1207",
+    "name": "BATANG KUIS"
+  },
+  {
+    "id": "120728",
+    "regency_id": "1207",
+    "name": "LUBUK PAKAM"
+  },
+  {
+    "id": "120731",
+    "regency_id": "1207",
+    "name": "PAGAR MERBAU"
+  },
+  {
+    "id": "120732",
+    "regency_id": "1207",
+    "name": "PANTAI LABU"
+  },
+  {
+    "id": "120733",
+    "regency_id": "1207",
+    "name": "BERINGIN"
+  }
+]

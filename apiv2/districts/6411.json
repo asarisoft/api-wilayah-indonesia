@@ -1,1 +1,27 @@
-[{"id": "641101", "regency_id": "6411", "name": "LONG BAGUN"}, {"id": "641102", "regency_id": "6411", "name": "LONG HUBUNG"}, {"id": "641103", "regency_id": "6411", "name": "LAHAM"}, {"id": "641104", "regency_id": "6411", "name": "LONG APARI"}, {"id": "641105", "regency_id": "6411", "name": "LONG PAHANGAI"}]
+[
+  {
+    "id": "641101",
+    "regency_id": "6411",
+    "name": "LONG BAGUN"
+  },
+  {
+    "id": "641102",
+    "regency_id": "6411",
+    "name": "LONG HUBUNG"
+  },
+  {
+    "id": "641103",
+    "regency_id": "6411",
+    "name": "LAHAM"
+  },
+  {
+    "id": "641104",
+    "regency_id": "6411",
+    "name": "LONG APARI"
+  },
+  {
+    "id": "641105",
+    "regency_id": "6411",
+    "name": "LONG PAHANGAI"
+  }
+]

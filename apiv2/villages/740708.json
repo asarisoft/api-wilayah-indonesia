@@ -1,1 +1,27 @@
-[{"id": "7407081003", "district_id": "740708", "name": "SOWA"}, {"id": "7407081004", "district_id": "740708", "name": "POPALIA"}, {"id": "7407082001", "district_id": "740708", "name": "WALOINDI"}, {"id": "7407082002", "district_id": "740708", "name": "OIHU"}, {"id": "7407082005", "district_id": "740708", "name": "HAKA"}]
+[
+  {
+    "id": "7407081003",
+    "district_id": "740708",
+    "name": "SOWA"
+  },
+  {
+    "id": "7407081004",
+    "district_id": "740708",
+    "name": "POPALIA"
+  },
+  {
+    "id": "7407082001",
+    "district_id": "740708",
+    "name": "WALOINDI"
+  },
+  {
+    "id": "7407082002",
+    "district_id": "740708",
+    "name": "OIHU"
+  },
+  {
+    "id": "7407082005",
+    "district_id": "740708",
+    "name": "HAKA"
+  }
+]

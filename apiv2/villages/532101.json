@@ -1,1 +1,87 @@
-[{"id": "5321012001", "district_id": "532101", "name": "BARENE"}, {"id": "5321012002", "district_id": "532101", "name": "KAKANIUK"}, {"id": "5321012003", "district_id": "532101", "name": "KATERI"}, {"id": "5321012004", "district_id": "532101", "name": "BAKIRUK"}, {"id": "5321012005", "district_id": "532101", "name": "KAMANASA"}, {"id": "5321012006", "district_id": "532101", "name": "WEHALI"}, {"id": "5321012007", "district_id": "532101", "name": "UMAKATAHAN"}, {"id": "5321012008", "district_id": "532101", "name": "UMANEN LAWALU"}, {"id": "5321012009", "district_id": "532101", "name": "KLETEK"}, {"id": "5321012010", "district_id": "532101", "name": "NAIMANA"}, {"id": "5321012011", "district_id": "532101", "name": "FAHILUKA"}, {"id": "5321012012", "district_id": "532101", "name": "LAWALU"}, {"id": "5321012013", "district_id": "532101", "name": "HAREKAKAE"}, {"id": "5321012014", "district_id": "532101", "name": "BARADA"}, {"id": "5321012015", "district_id": "532101", "name": "BERELIKU"}, {"id": "5321012016", "district_id": "532101", "name": "RAILOR TAHAK"}, {"id": "5321012017", "district_id": "532101", "name": "SUAI"}]
+[
+  {
+    "id": "5321012001",
+    "district_id": "532101",
+    "name": "BARENE"
+  },
+  {
+    "id": "5321012002",
+    "district_id": "532101",
+    "name": "KAKANIUK"
+  },
+  {
+    "id": "5321012003",
+    "district_id": "532101",
+    "name": "KATERI"
+  },
+  {
+    "id": "5321012004",
+    "district_id": "532101",
+    "name": "BAKIRUK"
+  },
+  {
+    "id": "5321012005",
+    "district_id": "532101",
+    "name": "KAMANASA"
+  },
+  {
+    "id": "5321012006",
+    "district_id": "532101",
+    "name": "WEHALI"
+  },
+  {
+    "id": "5321012007",
+    "district_id": "532101",
+    "name": "UMAKATAHAN"
+  },
+  {
+    "id": "5321012008",
+    "district_id": "532101",
+    "name": "UMANEN LAWALU"
+  },
+  {
+    "id": "5321012009",
+    "district_id": "532101",
+    "name": "KLETEK"
+  },
+  {
+    "id": "5321012010",
+    "district_id": "532101",
+    "name": "NAIMANA"
+  },
+  {
+    "id": "5321012011",
+    "district_id": "532101",
+    "name": "FAHILUKA"
+  },
+  {
+    "id": "5321012012",
+    "district_id": "532101",
+    "name": "LAWALU"
+  },
+  {
+    "id": "5321012013",
+    "district_id": "532101",
+    "name": "HAREKAKAE"
+  },
+  {
+    "id": "5321012014",
+    "district_id": "532101",
+    "name": "BARADA"
+  },
+  {
+    "id": "5321012015",
+    "district_id": "532101",
+    "name": "BERELIKU"
+  },
+  {
+    "id": "5321012016",
+    "district_id": "532101",
+    "name": "RAILOR TAHAK"
+  },
+  {
+    "id": "5321012017",
+    "district_id": "532101",
+    "name": "SUAI"
+  }
+]

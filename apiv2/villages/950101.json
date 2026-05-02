@@ -1,1 +1,57 @@
-[{"id": "9501011001", "district_id": "950101", "name": "WAMENA KOTA"}, {"id": "9501011006", "district_id": "950101", "name": "SINAPUK"}, {"id": "9501011007", "district_id": "950101", "name": "SINAKMA"}, {"id": "9501012002", "district_id": "950101", "name": "HONELAMA"}, {"id": "9501012003", "district_id": "950101", "name": "HULEKAMA"}, {"id": "9501012004", "district_id": "950101", "name": "BATU MERAH"}, {"id": "9501012005", "district_id": "950101", "name": "AUTAKMA"}, {"id": "9501012008", "district_id": "950101", "name": "HONELAMA DUA"}, {"id": "9501012009", "district_id": "950101", "name": "HONAIMA"}, {"id": "9501012010", "district_id": "950101", "name": "LANITIPO"}, {"id": "9501012011", "district_id": "950101", "name": "WAMAROMA"}]
+[
+  {
+    "id": "9501011001",
+    "district_id": "950101",
+    "name": "WAMENA KOTA"
+  },
+  {
+    "id": "9501011006",
+    "district_id": "950101",
+    "name": "SINAPUK"
+  },
+  {
+    "id": "9501011007",
+    "district_id": "950101",
+    "name": "SINAKMA"
+  },
+  {
+    "id": "9501012002",
+    "district_id": "950101",
+    "name": "HONELAMA"
+  },
+  {
+    "id": "9501012003",
+    "district_id": "950101",
+    "name": "HULEKAMA"
+  },
+  {
+    "id": "9501012004",
+    "district_id": "950101",
+    "name": "BATU MERAH"
+  },
+  {
+    "id": "9501012005",
+    "district_id": "950101",
+    "name": "AUTAKMA"
+  },
+  {
+    "id": "9501012008",
+    "district_id": "950101",
+    "name": "HONELAMA DUA"
+  },
+  {
+    "id": "9501012009",
+    "district_id": "950101",
+    "name": "HONAIMA"
+  },
+  {
+    "id": "9501012010",
+    "district_id": "950101",
+    "name": "LANITIPO"
+  },
+  {
+    "id": "9501012011",
+    "district_id": "950101",
+    "name": "WAMAROMA"
+  }
+]

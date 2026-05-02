@@ -1,1 +1,92 @@
-[{"id": "3310192001", "district_id": "331019", "name": "MUNDU"}, {"id": "3310192002", "district_id": "331019", "name": "SEDAYU"}, {"id": "3310192003", "district_id": "331019", "name": "POMAH"}, {"id": "3310192004", "district_id": "331019", "name": "BONO"}, {"id": "3310192005", "district_id": "331019", "name": "KIRINGAN"}, {"id": "3310192006", "district_id": "331019", "name": "MAJEGAN"}, {"id": "3310192007", "district_id": "331019", "name": "DALANGAN"}, {"id": "3310192008", "district_id": "331019", "name": "GEDONGJETIS"}, {"id": "3310192009", "district_id": "331019", "name": "SOROGATEN"}, {"id": "3310192010", "district_id": "331019", "name": "BEJI"}, {"id": "3310192011", "district_id": "331019", "name": "KEMIRI"}, {"id": "3310192012", "district_id": "331019", "name": "SUDIMORO"}, {"id": "3310192013", "district_id": "331019", "name": "TULUNG"}, {"id": "3310192014", "district_id": "331019", "name": "MALANGAN"}, {"id": "3310192015", "district_id": "331019", "name": "PUCANGMILIRAN"}, {"id": "3310192016", "district_id": "331019", "name": "COKRO"}, {"id": "3310192017", "district_id": "331019", "name": "DALEMAN"}, {"id": "3310192018", "district_id": "331019", "name": "WUNUT"}]
+[
+  {
+    "id": "3310192001",
+    "district_id": "331019",
+    "name": "MUNDU"
+  },
+  {
+    "id": "3310192002",
+    "district_id": "331019",
+    "name": "SEDAYU"
+  },
+  {
+    "id": "3310192003",
+    "district_id": "331019",
+    "name": "POMAH"
+  },
+  {
+    "id": "3310192004",
+    "district_id": "331019",
+    "name": "BONO"
+  },
+  {
+    "id": "3310192005",
+    "district_id": "331019",
+    "name": "KIRINGAN"
+  },
+  {
+    "id": "3310192006",
+    "district_id": "331019",
+    "name": "MAJEGAN"
+  },
+  {
+    "id": "3310192007",
+    "district_id": "331019",
+    "name": "DALANGAN"
+  },
+  {
+    "id": "3310192008",
+    "district_id": "331019",
+    "name": "GEDONGJETIS"
+  },
+  {
+    "id": "3310192009",
+    "district_id": "331019",
+    "name": "SOROGATEN"
+  },
+  {
+    "id": "3310192010",
+    "district_id": "331019",
+    "name": "BEJI"
+  },
+  {
+    "id": "3310192011",
+    "district_id": "331019",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3310192012",
+    "district_id": "331019",
+    "name": "SUDIMORO"
+  },
+  {
+    "id": "3310192013",
+    "district_id": "331019",
+    "name": "TULUNG"
+  },
+  {
+    "id": "3310192014",
+    "district_id": "331019",
+    "name": "MALANGAN"
+  },
+  {
+    "id": "3310192015",
+    "district_id": "331019",
+    "name": "PUCANGMILIRAN"
+  },
+  {
+    "id": "3310192016",
+    "district_id": "331019",
+    "name": "COKRO"
+  },
+  {
+    "id": "3310192017",
+    "district_id": "331019",
+    "name": "DALEMAN"
+  },
+  {
+    "id": "3310192018",
+    "district_id": "331019",
+    "name": "WUNUT"
+  }
+]

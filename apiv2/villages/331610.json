@@ -1,1 +1,77 @@
-[{"id": "3316102001", "district_id": "331610", "name": "TAWANGREJO"}, {"id": "3316102002", "district_id": "331610", "name": "KEDUNGRINGIN"}, {"id": "3316102003", "district_id": "331610", "name": "ADIREJO"}, {"id": "3316102004", "district_id": "331610", "name": "TAMANREJO"}, {"id": "3316102005", "district_id": "331610", "name": "TUTUP"}, {"id": "3316102006", "district_id": "331610", "name": "SUKOREJO"}, {"id": "3316102007", "district_id": "331610", "name": "TAMBAHREJO"}, {"id": "3316102008", "district_id": "331610", "name": "KALANGAN"}, {"id": "3316102009", "district_id": "331610", "name": "SAMBONGREJO"}, {"id": "3316102010", "district_id": "331610", "name": "TUNJUNGAN"}, {"id": "3316102011", "district_id": "331610", "name": "KEDUNGREJO"}, {"id": "3316102012", "district_id": "331610", "name": "GEMPOLREJO"}, {"id": "3316102013", "district_id": "331610", "name": "NGLANGITAN"}, {"id": "3316102014", "district_id": "331610", "name": "KESER"}, {"id": "3316102015", "district_id": "331610", "name": "SITIREJO"}]
+[
+  {
+    "id": "3316102001",
+    "district_id": "331610",
+    "name": "TAWANGREJO"
+  },
+  {
+    "id": "3316102002",
+    "district_id": "331610",
+    "name": "KEDUNGRINGIN"
+  },
+  {
+    "id": "3316102003",
+    "district_id": "331610",
+    "name": "ADIREJO"
+  },
+  {
+    "id": "3316102004",
+    "district_id": "331610",
+    "name": "TAMANREJO"
+  },
+  {
+    "id": "3316102005",
+    "district_id": "331610",
+    "name": "TUTUP"
+  },
+  {
+    "id": "3316102006",
+    "district_id": "331610",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3316102007",
+    "district_id": "331610",
+    "name": "TAMBAHREJO"
+  },
+  {
+    "id": "3316102008",
+    "district_id": "331610",
+    "name": "KALANGAN"
+  },
+  {
+    "id": "3316102009",
+    "district_id": "331610",
+    "name": "SAMBONGREJO"
+  },
+  {
+    "id": "3316102010",
+    "district_id": "331610",
+    "name": "TUNJUNGAN"
+  },
+  {
+    "id": "3316102011",
+    "district_id": "331610",
+    "name": "KEDUNGREJO"
+  },
+  {
+    "id": "3316102012",
+    "district_id": "331610",
+    "name": "GEMPOLREJO"
+  },
+  {
+    "id": "3316102013",
+    "district_id": "331610",
+    "name": "NGLANGITAN"
+  },
+  {
+    "id": "3316102014",
+    "district_id": "331610",
+    "name": "KESER"
+  },
+  {
+    "id": "3316102015",
+    "district_id": "331610",
+    "name": "SITIREJO"
+  }
+]

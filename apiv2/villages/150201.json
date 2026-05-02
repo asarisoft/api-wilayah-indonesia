@@ -1,1 +1,57 @@
-[{"id": "1502012001", "district_id": "150201", "name": "RENAH KEMUMU"}, {"id": "1502012002", "district_id": "150201", "name": "TANJUNG KASRI"}, {"id": "1502012003", "district_id": "150201", "name": "LUBUK MENTILIN"}, {"id": "1502012004", "district_id": "150201", "name": "RANTAU KERMAS"}, {"id": "1502012005", "district_id": "150201", "name": "RENAH ALAI"}, {"id": "1502012008", "district_id": "150201", "name": "PULAU TENGAH"}, {"id": "1502012009", "district_id": "150201", "name": "LUBUK PUNGGUK"}, {"id": "1502012010", "district_id": "150201", "name": "KOTO RENAH"}, {"id": "1502012011", "district_id": "150201", "name": "MUARA MADRAS"}, {"id": "1502012023", "district_id": "150201", "name": "RENAH PELAAN"}, {"id": "1502012024", "district_id": "150201", "name": "KOTO RAWANG"}]
+[
+  {
+    "id": "1502012001",
+    "district_id": "150201",
+    "name": "RENAH KEMUMU"
+  },
+  {
+    "id": "1502012002",
+    "district_id": "150201",
+    "name": "TANJUNG KASRI"
+  },
+  {
+    "id": "1502012003",
+    "district_id": "150201",
+    "name": "LUBUK MENTILIN"
+  },
+  {
+    "id": "1502012004",
+    "district_id": "150201",
+    "name": "RANTAU KERMAS"
+  },
+  {
+    "id": "1502012005",
+    "district_id": "150201",
+    "name": "RENAH ALAI"
+  },
+  {
+    "id": "1502012008",
+    "district_id": "150201",
+    "name": "PULAU TENGAH"
+  },
+  {
+    "id": "1502012009",
+    "district_id": "150201",
+    "name": "LUBUK PUNGGUK"
+  },
+  {
+    "id": "1502012010",
+    "district_id": "150201",
+    "name": "KOTO RENAH"
+  },
+  {
+    "id": "1502012011",
+    "district_id": "150201",
+    "name": "MUARA MADRAS"
+  },
+  {
+    "id": "1502012023",
+    "district_id": "150201",
+    "name": "RENAH PELAAN"
+  },
+  {
+    "id": "1502012024",
+    "district_id": "150201",
+    "name": "KOTO RAWANG"
+  }
+]

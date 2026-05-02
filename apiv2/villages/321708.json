@@ -1,1 +1,52 @@
-[{"id": "3217082001", "district_id": "321708", "name": "KERTAMULYA"}, {"id": "3217082002", "district_id": "321708", "name": "PADALARANG"}, {"id": "3217082003", "district_id": "321708", "name": "CIMERANG"}, {"id": "3217082004", "district_id": "321708", "name": "CAMPAKA MEKAR"}, {"id": "3217082005", "district_id": "321708", "name": "TAGOGAPU"}, {"id": "3217082006", "district_id": "321708", "name": "CIBURUY"}, {"id": "3217082007", "district_id": "321708", "name": "KERTAJAYA"}, {"id": "3217082008", "district_id": "321708", "name": "CIPEUNDEUY"}, {"id": "3217082009", "district_id": "321708", "name": "JAYAMEKAR"}, {"id": "3217082010", "district_id": "321708", "name": "LAKSANAMEKAR"}]
+[
+  {
+    "id": "3217082001",
+    "district_id": "321708",
+    "name": "KERTAMULYA"
+  },
+  {
+    "id": "3217082002",
+    "district_id": "321708",
+    "name": "PADALARANG"
+  },
+  {
+    "id": "3217082003",
+    "district_id": "321708",
+    "name": "CIMERANG"
+  },
+  {
+    "id": "3217082004",
+    "district_id": "321708",
+    "name": "CAMPAKA MEKAR"
+  },
+  {
+    "id": "3217082005",
+    "district_id": "321708",
+    "name": "TAGOGAPU"
+  },
+  {
+    "id": "3217082006",
+    "district_id": "321708",
+    "name": "CIBURUY"
+  },
+  {
+    "id": "3217082007",
+    "district_id": "321708",
+    "name": "KERTAJAYA"
+  },
+  {
+    "id": "3217082008",
+    "district_id": "321708",
+    "name": "CIPEUNDEUY"
+  },
+  {
+    "id": "3217082009",
+    "district_id": "321708",
+    "name": "JAYAMEKAR"
+  },
+  {
+    "id": "3217082010",
+    "district_id": "321708",
+    "name": "LAKSANAMEKAR"
+  }
+]

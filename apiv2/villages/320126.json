@@ -1,1 +1,62 @@
-[{"id": "3201262001", "district_id": "320126", "name": "SUKAMAJU"}, {"id": "3201262002", "district_id": "320126", "name": "KUTA"}, {"id": "3201262003", "district_id": "320126", "name": "GADOG"}, {"id": "3201262004", "district_id": "320126", "name": "SUKAKARYA"}, {"id": "3201262005", "district_id": "320126", "name": "MEGAMENDUNG"}, {"id": "3201262006", "district_id": "320126", "name": "CIPAYUNG"}, {"id": "3201262007", "district_id": "320126", "name": "SUKAMANAH"}, {"id": "3201262008", "district_id": "320126", "name": "SUKAGALIH"}, {"id": "3201262009", "district_id": "320126", "name": "CIPAYUNG GIRANG"}, {"id": "3201262010", "district_id": "320126", "name": "SUKAMAHI"}, {"id": "3201262011", "district_id": "320126", "name": "SUKARESMI"}, {"id": "3201262012", "district_id": "320126", "name": "PASIR ANGIN"}]
+[
+  {
+    "id": "3201262001",
+    "district_id": "320126",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3201262002",
+    "district_id": "320126",
+    "name": "KUTA"
+  },
+  {
+    "id": "3201262003",
+    "district_id": "320126",
+    "name": "GADOG"
+  },
+  {
+    "id": "3201262004",
+    "district_id": "320126",
+    "name": "SUKAKARYA"
+  },
+  {
+    "id": "3201262005",
+    "district_id": "320126",
+    "name": "MEGAMENDUNG"
+  },
+  {
+    "id": "3201262006",
+    "district_id": "320126",
+    "name": "CIPAYUNG"
+  },
+  {
+    "id": "3201262007",
+    "district_id": "320126",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3201262008",
+    "district_id": "320126",
+    "name": "SUKAGALIH"
+  },
+  {
+    "id": "3201262009",
+    "district_id": "320126",
+    "name": "CIPAYUNG GIRANG"
+  },
+  {
+    "id": "3201262010",
+    "district_id": "320126",
+    "name": "SUKAMAHI"
+  },
+  {
+    "id": "3201262011",
+    "district_id": "320126",
+    "name": "SUKARESMI"
+  },
+  {
+    "id": "3201262012",
+    "district_id": "320126",
+    "name": "PASIR ANGIN"
+  }
+]

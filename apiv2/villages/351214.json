@@ -1,1 +1,27 @@
-[{"id": "3512142001", "district_id": "351214", "name": "WONOREJO"}, {"id": "3512142002", "district_id": "351214", "name": "SUMBERANYAR"}, {"id": "3512142003", "district_id": "351214", "name": "SUMBEREJO"}, {"id": "3512142004", "district_id": "351214", "name": "BANYUPUTIH"}, {"id": "3512142005", "district_id": "351214", "name": "SUMBERWARU"}]
+[
+  {
+    "id": "3512142001",
+    "district_id": "351214",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3512142002",
+    "district_id": "351214",
+    "name": "SUMBERANYAR"
+  },
+  {
+    "id": "3512142003",
+    "district_id": "351214",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3512142004",
+    "district_id": "351214",
+    "name": "BANYUPUTIH"
+  },
+  {
+    "id": "3512142005",
+    "district_id": "351214",
+    "name": "SUMBERWARU"
+  }
+]

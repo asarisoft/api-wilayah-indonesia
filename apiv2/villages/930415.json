@@ -1,1 +1,52 @@
-[{"id": "9304152001", "district_id": "930415", "name": "KAWEM"}, {"id": "9304152002", "district_id": "930415", "name": "HAHARE"}, {"id": "9304152003", "district_id": "930415", "name": "AIKUT"}, {"id": "9304152004", "district_id": "930415", "name": "SANEM"}, {"id": "9304152005", "district_id": "930415", "name": "KAIPOM"}, {"id": "9304152006", "district_id": "930415", "name": "AIRO SAPEM"}, {"id": "9304152007", "district_id": "930415", "name": "SIMIPIT"}, {"id": "9304152008", "district_id": "930415", "name": "HEIYARAM"}, {"id": "9304152009", "district_id": "930415", "name": "WAGASU"}, {"id": "9304152010", "district_id": "930415", "name": "SASIME"}]
+[
+  {
+    "id": "9304152001",
+    "district_id": "930415",
+    "name": "KAWEM"
+  },
+  {
+    "id": "9304152002",
+    "district_id": "930415",
+    "name": "HAHARE"
+  },
+  {
+    "id": "9304152003",
+    "district_id": "930415",
+    "name": "AIKUT"
+  },
+  {
+    "id": "9304152004",
+    "district_id": "930415",
+    "name": "SANEM"
+  },
+  {
+    "id": "9304152005",
+    "district_id": "930415",
+    "name": "KAIPOM"
+  },
+  {
+    "id": "9304152006",
+    "district_id": "930415",
+    "name": "AIRO SAPEM"
+  },
+  {
+    "id": "9304152007",
+    "district_id": "930415",
+    "name": "SIMIPIT"
+  },
+  {
+    "id": "9304152008",
+    "district_id": "930415",
+    "name": "HEIYARAM"
+  },
+  {
+    "id": "9304152009",
+    "district_id": "930415",
+    "name": "WAGASU"
+  },
+  {
+    "id": "9304152010",
+    "district_id": "930415",
+    "name": "SASIME"
+  }
+]

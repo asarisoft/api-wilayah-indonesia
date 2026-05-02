@@ -1,1 +1,57 @@
-[{"id": "3217112001", "district_id": "321711", "name": "CILILIN"}, {"id": "3217112002", "district_id": "321711", "name": "BUDIHARJA"}, {"id": "3217112003", "district_id": "321711", "name": "BATULAYANG"}, {"id": "3217112004", "district_id": "321711", "name": "BONGAS"}, {"id": "3217112005", "district_id": "321711", "name": "KARANGANYAR"}, {"id": "3217112006", "district_id": "321711", "name": "KARANGTANJUNG"}, {"id": "3217112007", "district_id": "321711", "name": "KARYAMUKTI"}, {"id": "3217112008", "district_id": "321711", "name": "KIDANGPANANJUNG"}, {"id": "3217112009", "district_id": "321711", "name": "MUKAPAYUNG"}, {"id": "3217112010", "district_id": "321711", "name": "NANGGERANG"}, {"id": "3217112011", "district_id": "321711", "name": "RANCAPANGGUNG"}]
+[
+  {
+    "id": "3217112001",
+    "district_id": "321711",
+    "name": "CILILIN"
+  },
+  {
+    "id": "3217112002",
+    "district_id": "321711",
+    "name": "BUDIHARJA"
+  },
+  {
+    "id": "3217112003",
+    "district_id": "321711",
+    "name": "BATULAYANG"
+  },
+  {
+    "id": "3217112004",
+    "district_id": "321711",
+    "name": "BONGAS"
+  },
+  {
+    "id": "3217112005",
+    "district_id": "321711",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3217112006",
+    "district_id": "321711",
+    "name": "KARANGTANJUNG"
+  },
+  {
+    "id": "3217112007",
+    "district_id": "321711",
+    "name": "KARYAMUKTI"
+  },
+  {
+    "id": "3217112008",
+    "district_id": "321711",
+    "name": "KIDANGPANANJUNG"
+  },
+  {
+    "id": "3217112009",
+    "district_id": "321711",
+    "name": "MUKAPAYUNG"
+  },
+  {
+    "id": "3217112010",
+    "district_id": "321711",
+    "name": "NANGGERANG"
+  },
+  {
+    "id": "3217112011",
+    "district_id": "321711",
+    "name": "RANCAPANGGUNG"
+  }
+]

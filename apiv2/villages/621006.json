@@ -1,1 +1,62 @@
-[{"id": "6210061001", "district_id": "621006", "name": "TUMBANG TALAKEN"}, {"id": "6210062002", "district_id": "621006", "name": "TUMBANG SEPAN"}, {"id": "6210062003", "district_id": "621006", "name": "TANGKI DAHUYAN"}, {"id": "6210062004", "district_id": "621006", "name": "BERENG BALAWAN"}, {"id": "6210062005", "district_id": "621006", "name": "BERENG JUN"}, {"id": "6210062006", "district_id": "621006", "name": "TAKARAS"}, {"id": "6210062012", "district_id": "621006", "name": "BELAWAN MULIA"}, {"id": "6210062013", "district_id": "621006", "name": "TARINGEN"}, {"id": "6210062014", "district_id": "621006", "name": "BANGUN SARI"}, {"id": "6210062015", "district_id": "621006", "name": "FAJAR HARAPAN"}, {"id": "6210062017", "district_id": "621006", "name": "GOHONG"}, {"id": "6210062018", "district_id": "621006", "name": "TUMBANG JALEMU"}]
+[
+  {
+    "id": "6210061001",
+    "district_id": "621006",
+    "name": "TUMBANG TALAKEN"
+  },
+  {
+    "id": "6210062002",
+    "district_id": "621006",
+    "name": "TUMBANG SEPAN"
+  },
+  {
+    "id": "6210062003",
+    "district_id": "621006",
+    "name": "TANGKI DAHUYAN"
+  },
+  {
+    "id": "6210062004",
+    "district_id": "621006",
+    "name": "BERENG BALAWAN"
+  },
+  {
+    "id": "6210062005",
+    "district_id": "621006",
+    "name": "BERENG JUN"
+  },
+  {
+    "id": "6210062006",
+    "district_id": "621006",
+    "name": "TAKARAS"
+  },
+  {
+    "id": "6210062012",
+    "district_id": "621006",
+    "name": "BELAWAN MULIA"
+  },
+  {
+    "id": "6210062013",
+    "district_id": "621006",
+    "name": "TARINGEN"
+  },
+  {
+    "id": "6210062014",
+    "district_id": "621006",
+    "name": "BANGUN SARI"
+  },
+  {
+    "id": "6210062015",
+    "district_id": "621006",
+    "name": "FAJAR HARAPAN"
+  },
+  {
+    "id": "6210062017",
+    "district_id": "621006",
+    "name": "GOHONG"
+  },
+  {
+    "id": "6210062018",
+    "district_id": "621006",
+    "name": "TUMBANG JALEMU"
+  }
+]

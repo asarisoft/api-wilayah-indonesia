@@ -1,1 +1,62 @@
-[{"id": "1509011001", "district_id": "150901", "name": "MUARA TEBO"}, {"id": "1509011002", "district_id": "150901", "name": "TEBING TINGGI"}, {"id": "1509012003", "district_id": "150901", "name": "BEDARO RAMPAK"}, {"id": "1509012004", "district_id": "150901", "name": "MANGUN JAYO"}, {"id": "1509012005", "district_id": "150901", "name": "TELUK PANDAK"}, {"id": "1509012006", "district_id": "150901", "name": "TENGAH ULU"}, {"id": "1509012007", "district_id": "150901", "name": "SEMABU"}, {"id": "1509012008", "district_id": "150901", "name": "KANDANG"}, {"id": "1509012009", "district_id": "150901", "name": "PELAYANG"}, {"id": "1509012010", "district_id": "150901", "name": "SUNGAI KERUH"}, {"id": "1509012011", "district_id": "150901", "name": "ABURAN BATANG TEBO"}, {"id": "1509012012", "district_id": "150901", "name": "SUNGAI ALAI"}]
+[
+  {
+    "id": "1509011001",
+    "district_id": "150901",
+    "name": "MUARA TEBO"
+  },
+  {
+    "id": "1509011002",
+    "district_id": "150901",
+    "name": "TEBING TINGGI"
+  },
+  {
+    "id": "1509012003",
+    "district_id": "150901",
+    "name": "BEDARO RAMPAK"
+  },
+  {
+    "id": "1509012004",
+    "district_id": "150901",
+    "name": "MANGUN JAYO"
+  },
+  {
+    "id": "1509012005",
+    "district_id": "150901",
+    "name": "TELUK PANDAK"
+  },
+  {
+    "id": "1509012006",
+    "district_id": "150901",
+    "name": "TENGAH ULU"
+  },
+  {
+    "id": "1509012007",
+    "district_id": "150901",
+    "name": "SEMABU"
+  },
+  {
+    "id": "1509012008",
+    "district_id": "150901",
+    "name": "KANDANG"
+  },
+  {
+    "id": "1509012009",
+    "district_id": "150901",
+    "name": "PELAYANG"
+  },
+  {
+    "id": "1509012010",
+    "district_id": "150901",
+    "name": "SUNGAI KERUH"
+  },
+  {
+    "id": "1509012011",
+    "district_id": "150901",
+    "name": "ABURAN BATANG TEBO"
+  },
+  {
+    "id": "1509012012",
+    "district_id": "150901",
+    "name": "SUNGAI ALAI"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "3324202001", "district_id": "332420", "name": "JERUK GILING"}, {"id": "3324202002", "district_id": "332420", "name": "KEDUNGSUREN"}, {"id": "3324202003", "district_id": "332420", "name": "DARUPONO"}, {"id": "3324202004", "district_id": "332420", "name": "PROTOMULYO"}, {"id": "3324202005", "district_id": "332420", "name": "MAGELUNG"}, {"id": "3324202006", "district_id": "332420", "name": "PLANTARAN"}, {"id": "3324202007", "district_id": "332420", "name": "SUKOMULYO"}, {"id": "3324202008", "district_id": "332420", "name": "SIDOMAKMUR"}]
+[
+  {
+    "id": "3324202001",
+    "district_id": "332420",
+    "name": "JERUK GILING"
+  },
+  {
+    "id": "3324202002",
+    "district_id": "332420",
+    "name": "KEDUNGSUREN"
+  },
+  {
+    "id": "3324202003",
+    "district_id": "332420",
+    "name": "DARUPONO"
+  },
+  {
+    "id": "3324202004",
+    "district_id": "332420",
+    "name": "PROTOMULYO"
+  },
+  {
+    "id": "3324202005",
+    "district_id": "332420",
+    "name": "MAGELUNG"
+  },
+  {
+    "id": "3324202006",
+    "district_id": "332420",
+    "name": "PLANTARAN"
+  },
+  {
+    "id": "3324202007",
+    "district_id": "332420",
+    "name": "SUKOMULYO"
+  },
+  {
+    "id": "3324202008",
+    "district_id": "332420",
+    "name": "SIDOMAKMUR"
+  }
+]

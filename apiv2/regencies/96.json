@@ -1,1 +1,32 @@
-[{"id": "9601", "province_id": "96", "name": "KABUPATEN SORONG"}, {"id": "9602", "province_id": "96", "name": "KABUPATEN SORONG SELATAN"}, {"id": "9603", "province_id": "96", "name": "KABUPATEN RAJA AMPAT"}, {"id": "9604", "province_id": "96", "name": "KABUPATEN TAMBRAUW"}, {"id": "9605", "province_id": "96", "name": "KABUPATEN MAYBRAT"}, {"id": "9671", "province_id": "96", "name": "KOTA SORONG"}]
+[
+  {
+    "id": "9601",
+    "province_id": "96",
+    "name": "KABUPATEN SORONG"
+  },
+  {
+    "id": "9602",
+    "province_id": "96",
+    "name": "KABUPATEN SORONG SELATAN"
+  },
+  {
+    "id": "9603",
+    "province_id": "96",
+    "name": "KABUPATEN RAJA AMPAT"
+  },
+  {
+    "id": "9604",
+    "province_id": "96",
+    "name": "KABUPATEN TAMBRAUW"
+  },
+  {
+    "id": "9605",
+    "province_id": "96",
+    "name": "KABUPATEN MAYBRAT"
+  },
+  {
+    "id": "9671",
+    "province_id": "96",
+    "name": "KOTA SORONG"
+  }
+]

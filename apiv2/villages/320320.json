@@ -1,1 +1,72 @@
-[{"id": "3203202001", "district_id": "320320", "name": "PANANGGAPAN"}, {"id": "3203202002", "district_id": "320320", "name": "CIKANGKARENG"}, {"id": "3203202003", "district_id": "320320", "name": "SUKAJADI"}, {"id": "3203202004", "district_id": "320320", "name": "PANYINDANGAN"}, {"id": "3203202005", "district_id": "320320", "name": "PADASUKA"}, {"id": "3203202006", "district_id": "320320", "name": "CIMASKARA"}, {"id": "3203202007", "district_id": "320320", "name": "PAMOYANAN"}, {"id": "3203202008", "district_id": "320320", "name": "BATULAWANG"}, {"id": "3203202009", "district_id": "320320", "name": "SUKAMEKAR"}, {"id": "3203202010", "district_id": "320320", "name": "HAMERANG"}, {"id": "3203202011", "district_id": "320320", "name": "GIRIJAYA"}, {"id": "3203202012", "district_id": "320320", "name": "WARGALUYU"}, {"id": "3203202013", "district_id": "320320", "name": "MEKARMUKTI"}, {"id": "3203202014", "district_id": "320320", "name": "CIBURIAL"}]
+[
+  {
+    "id": "3203202001",
+    "district_id": "320320",
+    "name": "PANANGGAPAN"
+  },
+  {
+    "id": "3203202002",
+    "district_id": "320320",
+    "name": "CIKANGKARENG"
+  },
+  {
+    "id": "3203202003",
+    "district_id": "320320",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "3203202004",
+    "district_id": "320320",
+    "name": "PANYINDANGAN"
+  },
+  {
+    "id": "3203202005",
+    "district_id": "320320",
+    "name": "PADASUKA"
+  },
+  {
+    "id": "3203202006",
+    "district_id": "320320",
+    "name": "CIMASKARA"
+  },
+  {
+    "id": "3203202007",
+    "district_id": "320320",
+    "name": "PAMOYANAN"
+  },
+  {
+    "id": "3203202008",
+    "district_id": "320320",
+    "name": "BATULAWANG"
+  },
+  {
+    "id": "3203202009",
+    "district_id": "320320",
+    "name": "SUKAMEKAR"
+  },
+  {
+    "id": "3203202010",
+    "district_id": "320320",
+    "name": "HAMERANG"
+  },
+  {
+    "id": "3203202011",
+    "district_id": "320320",
+    "name": "GIRIJAYA"
+  },
+  {
+    "id": "3203202012",
+    "district_id": "320320",
+    "name": "WARGALUYU"
+  },
+  {
+    "id": "3203202013",
+    "district_id": "320320",
+    "name": "MEKARMUKTI"
+  },
+  {
+    "id": "3203202014",
+    "district_id": "320320",
+    "name": "CIBURIAL"
+  }
+]

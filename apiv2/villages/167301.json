@@ -1,1 +1,42 @@
-[{"id": "1673011001", "district_id": "167301", "name": "AIR KUTI"}, {"id": "1673011002", "district_id": "167301", "name": "MAJAPAHIT"}, {"id": "1673011003", "district_id": "167301", "name": "TABA JEMEKEH"}, {"id": "1673011004", "district_id": "167301", "name": "NIKAN JAYA"}, {"id": "1673011005", "district_id": "167301", "name": "TABA LESTARI"}, {"id": "1673011007", "district_id": "167301", "name": "BATU URIP TABA"}, {"id": "1673011015", "district_id": "167301", "name": "TABA KOJI"}, {"id": "1673011016", "district_id": "167301", "name": "WATERVANG"}]
+[
+  {
+    "id": "1673011001",
+    "district_id": "167301",
+    "name": "AIR KUTI"
+  },
+  {
+    "id": "1673011002",
+    "district_id": "167301",
+    "name": "MAJAPAHIT"
+  },
+  {
+    "id": "1673011003",
+    "district_id": "167301",
+    "name": "TABA JEMEKEH"
+  },
+  {
+    "id": "1673011004",
+    "district_id": "167301",
+    "name": "NIKAN JAYA"
+  },
+  {
+    "id": "1673011005",
+    "district_id": "167301",
+    "name": "TABA LESTARI"
+  },
+  {
+    "id": "1673011007",
+    "district_id": "167301",
+    "name": "BATU URIP TABA"
+  },
+  {
+    "id": "1673011015",
+    "district_id": "167301",
+    "name": "TABA KOJI"
+  },
+  {
+    "id": "1673011016",
+    "district_id": "167301",
+    "name": "WATERVANG"
+  }
+]

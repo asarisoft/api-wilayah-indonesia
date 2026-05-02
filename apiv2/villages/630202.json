@@ -1,1 +1,57 @@
-[{"id": "6302022005", "district_id": "630202", "name": "LONTAR SELATAN"}, {"id": "6302022006", "district_id": "630202", "name": "LONTAR TIMUR"}, {"id": "6302022007", "district_id": "630202", "name": "SEBANTI"}, {"id": "6302022008", "district_id": "630202", "name": "SEPAGAR"}, {"id": "6302022009", "district_id": "630202", "name": "SEMARAS"}, {"id": "6302022012", "district_id": "630202", "name": "TERANGKIH"}, {"id": "6302022015", "district_id": "630202", "name": "GEMURUH"}, {"id": "6302022017", "district_id": "630202", "name": "TAPIAN BALAI"}, {"id": "6302022018", "district_id": "630202", "name": "LONTAR UTARA"}, {"id": "6302022021", "district_id": "630202", "name": "SUMBER SARI"}, {"id": "6302022022", "district_id": "630202", "name": "SUBUR MAKMUR"}]
+[
+  {
+    "id": "6302022005",
+    "district_id": "630202",
+    "name": "LONTAR SELATAN"
+  },
+  {
+    "id": "6302022006",
+    "district_id": "630202",
+    "name": "LONTAR TIMUR"
+  },
+  {
+    "id": "6302022007",
+    "district_id": "630202",
+    "name": "SEBANTI"
+  },
+  {
+    "id": "6302022008",
+    "district_id": "630202",
+    "name": "SEPAGAR"
+  },
+  {
+    "id": "6302022009",
+    "district_id": "630202",
+    "name": "SEMARAS"
+  },
+  {
+    "id": "6302022012",
+    "district_id": "630202",
+    "name": "TERANGKIH"
+  },
+  {
+    "id": "6302022015",
+    "district_id": "630202",
+    "name": "GEMURUH"
+  },
+  {
+    "id": "6302022017",
+    "district_id": "630202",
+    "name": "TAPIAN BALAI"
+  },
+  {
+    "id": "6302022018",
+    "district_id": "630202",
+    "name": "LONTAR UTARA"
+  },
+  {
+    "id": "6302022021",
+    "district_id": "630202",
+    "name": "SUMBER SARI"
+  },
+  {
+    "id": "6302022022",
+    "district_id": "630202",
+    "name": "SUBUR MAKMUR"
+  }
+]

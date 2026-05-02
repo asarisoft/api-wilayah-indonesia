@@ -1,1 +1,37 @@
-[{"id": "3376011001", "district_id": "337601", "name": "PESURUNGAN KIDUL"}, {"id": "3376011002", "district_id": "337601", "name": "DEBONG LOR"}, {"id": "3376011003", "district_id": "337601", "name": "KEMANDUNGAN"}, {"id": "3376011004", "district_id": "337601", "name": "PEKAUMAN"}, {"id": "3376011005", "district_id": "337601", "name": "KRATON"}, {"id": "3376011006", "district_id": "337601", "name": "TEGALSARI"}, {"id": "3376011007", "district_id": "337601", "name": "MUARAREJA"}]
+[
+  {
+    "id": "3376011001",
+    "district_id": "337601",
+    "name": "PESURUNGAN KIDUL"
+  },
+  {
+    "id": "3376011002",
+    "district_id": "337601",
+    "name": "DEBONG LOR"
+  },
+  {
+    "id": "3376011003",
+    "district_id": "337601",
+    "name": "KEMANDUNGAN"
+  },
+  {
+    "id": "3376011004",
+    "district_id": "337601",
+    "name": "PEKAUMAN"
+  },
+  {
+    "id": "3376011005",
+    "district_id": "337601",
+    "name": "KRATON"
+  },
+  {
+    "id": "3376011006",
+    "district_id": "337601",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3376011007",
+    "district_id": "337601",
+    "name": "MUARAREJA"
+  }
+]

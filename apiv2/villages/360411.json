@@ -1,1 +1,62 @@
-[{"id": "3604112001", "district_id": "360411", "name": "KRAGILAN"}, {"id": "3604112002", "district_id": "360411", "name": "SILEBU"}, {"id": "3604112003", "district_id": "360411", "name": "PEMATANG"}, {"id": "3604112004", "district_id": "360411", "name": "DUKUH"}, {"id": "3604112005", "district_id": "360411", "name": "UNDAR ANDIR"}, {"id": "3604112006", "district_id": "360411", "name": "SUKAJADI"}, {"id": "3604112007", "district_id": "360411", "name": "SENTUL"}, {"id": "3604112008", "district_id": "360411", "name": "JERUK TIPIS"}, {"id": "3604112011", "district_id": "360411", "name": "KENDAYAKAN"}, {"id": "3604112012", "district_id": "360411", "name": "TEGALMAJA"}, {"id": "3604112013", "district_id": "360411", "name": "CISAIT"}, {"id": "3604112014", "district_id": "360411", "name": "KRAMATJATI"}]
+[
+  {
+    "id": "3604112001",
+    "district_id": "360411",
+    "name": "KRAGILAN"
+  },
+  {
+    "id": "3604112002",
+    "district_id": "360411",
+    "name": "SILEBU"
+  },
+  {
+    "id": "3604112003",
+    "district_id": "360411",
+    "name": "PEMATANG"
+  },
+  {
+    "id": "3604112004",
+    "district_id": "360411",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3604112005",
+    "district_id": "360411",
+    "name": "UNDAR ANDIR"
+  },
+  {
+    "id": "3604112006",
+    "district_id": "360411",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "3604112007",
+    "district_id": "360411",
+    "name": "SENTUL"
+  },
+  {
+    "id": "3604112008",
+    "district_id": "360411",
+    "name": "JERUK TIPIS"
+  },
+  {
+    "id": "3604112011",
+    "district_id": "360411",
+    "name": "KENDAYAKAN"
+  },
+  {
+    "id": "3604112012",
+    "district_id": "360411",
+    "name": "TEGALMAJA"
+  },
+  {
+    "id": "3604112013",
+    "district_id": "360411",
+    "name": "CISAIT"
+  },
+  {
+    "id": "3604112014",
+    "district_id": "360411",
+    "name": "KRAMATJATI"
+  }
+]

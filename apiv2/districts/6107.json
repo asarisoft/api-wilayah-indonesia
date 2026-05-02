@@ -1,1 +1,87 @@
-[{"id": "610701", "regency_id": "6107", "name": "SUNGAI RAYA"}, {"id": "610702", "regency_id": "6107", "name": "SAMALANTAN"}, {"id": "610703", "regency_id": "6107", "name": "LEDO"}, {"id": "610704", "regency_id": "6107", "name": "BENGKAYANG"}, {"id": "610705", "regency_id": "6107", "name": "SELUAS"}, {"id": "610706", "regency_id": "6107", "name": "SANGGAU LEDO"}, {"id": "610707", "regency_id": "6107", "name": "JAGOI BABANG"}, {"id": "610708", "regency_id": "6107", "name": "MONTERADO"}, {"id": "610709", "regency_id": "6107", "name": "TERIAK"}, {"id": "610710", "regency_id": "6107", "name": "SUTI SEMARANG"}, {"id": "610711", "regency_id": "6107", "name": "CAPKALA"}, {"id": "610712", "regency_id": "6107", "name": "SIDING"}, {"id": "610713", "regency_id": "6107", "name": "LUMAR"}, {"id": "610714", "regency_id": "6107", "name": "SUNGAI BETUNG"}, {"id": "610715", "regency_id": "6107", "name": "SUNGAI RAYA KEPULAUAN"}, {"id": "610716", "regency_id": "6107", "name": "LEMBAH BAWANG"}, {"id": "610717", "regency_id": "6107", "name": "TUJUH BELAS"}]
+[
+  {
+    "id": "610701",
+    "regency_id": "6107",
+    "name": "SUNGAI RAYA"
+  },
+  {
+    "id": "610702",
+    "regency_id": "6107",
+    "name": "SAMALANTAN"
+  },
+  {
+    "id": "610703",
+    "regency_id": "6107",
+    "name": "LEDO"
+  },
+  {
+    "id": "610704",
+    "regency_id": "6107",
+    "name": "BENGKAYANG"
+  },
+  {
+    "id": "610705",
+    "regency_id": "6107",
+    "name": "SELUAS"
+  },
+  {
+    "id": "610706",
+    "regency_id": "6107",
+    "name": "SANGGAU LEDO"
+  },
+  {
+    "id": "610707",
+    "regency_id": "6107",
+    "name": "JAGOI BABANG"
+  },
+  {
+    "id": "610708",
+    "regency_id": "6107",
+    "name": "MONTERADO"
+  },
+  {
+    "id": "610709",
+    "regency_id": "6107",
+    "name": "TERIAK"
+  },
+  {
+    "id": "610710",
+    "regency_id": "6107",
+    "name": "SUTI SEMARANG"
+  },
+  {
+    "id": "610711",
+    "regency_id": "6107",
+    "name": "CAPKALA"
+  },
+  {
+    "id": "610712",
+    "regency_id": "6107",
+    "name": "SIDING"
+  },
+  {
+    "id": "610713",
+    "regency_id": "6107",
+    "name": "LUMAR"
+  },
+  {
+    "id": "610714",
+    "regency_id": "6107",
+    "name": "SUNGAI BETUNG"
+  },
+  {
+    "id": "610715",
+    "regency_id": "6107",
+    "name": "SUNGAI RAYA KEPULAUAN"
+  },
+  {
+    "id": "610716",
+    "regency_id": "6107",
+    "name": "LEMBAH BAWANG"
+  },
+  {
+    "id": "610717",
+    "regency_id": "6107",
+    "name": "TUJUH BELAS"
+  }
+]

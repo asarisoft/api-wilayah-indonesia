@@ -1,1 +1,47 @@
-[{"id": "7402251003", "district_id": "740225", "name": "MELUHU"}, {"id": "7402252001", "district_id": "740225", "name": "WOERAHI"}, {"id": "7402252002", "district_id": "740225", "name": "LAMELAI"}, {"id": "7402252004", "district_id": "740225", "name": "AHUHU"}, {"id": "7402252005", "district_id": "740225", "name": "TUDAMEASO"}, {"id": "7402252006", "district_id": "740225", "name": "LAROWIU"}, {"id": "7402252007", "district_id": "740225", "name": "AHULOA"}, {"id": "7402252008", "district_id": "740225", "name": "SAMBASULE"}, {"id": "7402252009", "district_id": "740225", "name": "LALOPISI"}]
+[
+  {
+    "id": "7402251003",
+    "district_id": "740225",
+    "name": "MELUHU"
+  },
+  {
+    "id": "7402252001",
+    "district_id": "740225",
+    "name": "WOERAHI"
+  },
+  {
+    "id": "7402252002",
+    "district_id": "740225",
+    "name": "LAMELAI"
+  },
+  {
+    "id": "7402252004",
+    "district_id": "740225",
+    "name": "AHUHU"
+  },
+  {
+    "id": "7402252005",
+    "district_id": "740225",
+    "name": "TUDAMEASO"
+  },
+  {
+    "id": "7402252006",
+    "district_id": "740225",
+    "name": "LAROWIU"
+  },
+  {
+    "id": "7402252007",
+    "district_id": "740225",
+    "name": "AHULOA"
+  },
+  {
+    "id": "7402252008",
+    "district_id": "740225",
+    "name": "SAMBASULE"
+  },
+  {
+    "id": "7402252009",
+    "district_id": "740225",
+    "name": "LALOPISI"
+  }
+]

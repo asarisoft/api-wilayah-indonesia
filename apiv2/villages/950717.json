@@ -1,1 +1,47 @@
-[{"id": "9507172001", "district_id": "950717", "name": "TABUKEKER"}, {"id": "9507172002", "district_id": "950717", "name": "PONALO"}, {"id": "9507172003", "district_id": "950717", "name": "TIMI"}, {"id": "9507172004", "district_id": "950717", "name": "WURAGI"}, {"id": "9507172005", "district_id": "950717", "name": "TIWA"}, {"id": "9507172006", "district_id": "950717", "name": "DINGUN"}, {"id": "9507172007", "district_id": "950717", "name": "LURA MARAH"}, {"id": "9507172008", "district_id": "950717", "name": "PELEK"}, {"id": "9507172009", "district_id": "950717", "name": "BEYONGWI"}]
+[
+  {
+    "id": "9507172001",
+    "district_id": "950717",
+    "name": "TABUKEKER"
+  },
+  {
+    "id": "9507172002",
+    "district_id": "950717",
+    "name": "PONALO"
+  },
+  {
+    "id": "9507172003",
+    "district_id": "950717",
+    "name": "TIMI"
+  },
+  {
+    "id": "9507172004",
+    "district_id": "950717",
+    "name": "WURAGI"
+  },
+  {
+    "id": "9507172005",
+    "district_id": "950717",
+    "name": "TIWA"
+  },
+  {
+    "id": "9507172006",
+    "district_id": "950717",
+    "name": "DINGUN"
+  },
+  {
+    "id": "9507172007",
+    "district_id": "950717",
+    "name": "LURA MARAH"
+  },
+  {
+    "id": "9507172008",
+    "district_id": "950717",
+    "name": "PELEK"
+  },
+  {
+    "id": "9507172009",
+    "district_id": "950717",
+    "name": "BEYONGWI"
+  }
+]

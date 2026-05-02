@@ -1,1 +1,47 @@
-[{"id": "7606022001", "district_id": "760602", "name": "POLO PANGALE"}, {"id": "7606022002", "district_id": "760602", "name": "PANGALE"}, {"id": "7606022003", "district_id": "760602", "name": "SARTANAMAJU"}, {"id": "7606022004", "district_id": "760602", "name": "POLO LERENG"}, {"id": "7606022005", "district_id": "760602", "name": "KUO"}, {"id": "7606022006", "district_id": "760602", "name": "POLO CAMBA"}, {"id": "7606022007", "district_id": "760602", "name": "LAMBA-LAMBA"}, {"id": "7606022008", "district_id": "760602", "name": "KOMBILING"}, {"id": "7606022009", "district_id": "760602", "name": "LEMO-LEMO"}]
+[
+  {
+    "id": "7606022001",
+    "district_id": "760602",
+    "name": "POLO PANGALE"
+  },
+  {
+    "id": "7606022002",
+    "district_id": "760602",
+    "name": "PANGALE"
+  },
+  {
+    "id": "7606022003",
+    "district_id": "760602",
+    "name": "SARTANAMAJU"
+  },
+  {
+    "id": "7606022004",
+    "district_id": "760602",
+    "name": "POLO LERENG"
+  },
+  {
+    "id": "7606022005",
+    "district_id": "760602",
+    "name": "KUO"
+  },
+  {
+    "id": "7606022006",
+    "district_id": "760602",
+    "name": "POLO CAMBA"
+  },
+  {
+    "id": "7606022007",
+    "district_id": "760602",
+    "name": "LAMBA-LAMBA"
+  },
+  {
+    "id": "7606022008",
+    "district_id": "760602",
+    "name": "KOMBILING"
+  },
+  {
+    "id": "7606022009",
+    "district_id": "760602",
+    "name": "LEMO-LEMO"
+  }
+]

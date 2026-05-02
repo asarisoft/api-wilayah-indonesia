@@ -1,1 +1,57 @@
-[{"id": "1507041006", "district_id": "150704", "name": "BANDAR JAYA"}, {"id": "1507042004", "district_id": "150704", "name": "RANTAU RASAU I"}, {"id": "1507042005", "district_id": "150704", "name": "RANTAU RASAU II"}, {"id": "1507042007", "district_id": "150704", "name": "HARAPAN MAKMUR"}, {"id": "1507042008", "district_id": "150704", "name": "BANGUN KARYA"}, {"id": "1507042009", "district_id": "150704", "name": "RANTAU JAYA"}, {"id": "1507042011", "district_id": "150704", "name": "SUNGAI DUSUN"}, {"id": "1507042013", "district_id": "150704", "name": "KARYA BAKTI"}, {"id": "1507042014", "district_id": "150704", "name": "MARGA MULYA"}, {"id": "1507042015", "district_id": "150704", "name": "PEMATANG MAYAN"}, {"id": "1507042016", "district_id": "150704", "name": "TRI MULYO"}]
+[
+  {
+    "id": "1507041006",
+    "district_id": "150704",
+    "name": "BANDAR JAYA"
+  },
+  {
+    "id": "1507042004",
+    "district_id": "150704",
+    "name": "RANTAU RASAU I"
+  },
+  {
+    "id": "1507042005",
+    "district_id": "150704",
+    "name": "RANTAU RASAU II"
+  },
+  {
+    "id": "1507042007",
+    "district_id": "150704",
+    "name": "HARAPAN MAKMUR"
+  },
+  {
+    "id": "1507042008",
+    "district_id": "150704",
+    "name": "BANGUN KARYA"
+  },
+  {
+    "id": "1507042009",
+    "district_id": "150704",
+    "name": "RANTAU JAYA"
+  },
+  {
+    "id": "1507042011",
+    "district_id": "150704",
+    "name": "SUNGAI DUSUN"
+  },
+  {
+    "id": "1507042013",
+    "district_id": "150704",
+    "name": "KARYA BAKTI"
+  },
+  {
+    "id": "1507042014",
+    "district_id": "150704",
+    "name": "MARGA MULYA"
+  },
+  {
+    "id": "1507042015",
+    "district_id": "150704",
+    "name": "PEMATANG MAYAN"
+  },
+  {
+    "id": "1507042016",
+    "district_id": "150704",
+    "name": "TRI MULYO"
+  }
+]

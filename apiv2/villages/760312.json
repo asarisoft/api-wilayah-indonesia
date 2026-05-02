@@ -1,1 +1,42 @@
-[{"id": "7603122001", "district_id": "760312", "name": "BALLA"}, {"id": "7603122002", "district_id": "760312", "name": "BALLA BARAT"}, {"id": "7603122003", "district_id": "760312", "name": "BALLA SATANETEAN"}, {"id": "7603122004", "district_id": "760312", "name": "BALLA TUMUKA"}, {"id": "7603122005", "district_id": "760312", "name": "SEPAKUAN"}, {"id": "7603122006", "district_id": "760312", "name": "PIDARA"}, {"id": "7603122007", "district_id": "760312", "name": "BAMBAPUANG"}, {"id": "7603122008", "district_id": "760312", "name": "BALLA TIMUR"}]
+[
+  {
+    "id": "7603122001",
+    "district_id": "760312",
+    "name": "BALLA"
+  },
+  {
+    "id": "7603122002",
+    "district_id": "760312",
+    "name": "BALLA BARAT"
+  },
+  {
+    "id": "7603122003",
+    "district_id": "760312",
+    "name": "BALLA SATANETEAN"
+  },
+  {
+    "id": "7603122004",
+    "district_id": "760312",
+    "name": "BALLA TUMUKA"
+  },
+  {
+    "id": "7603122005",
+    "district_id": "760312",
+    "name": "SEPAKUAN"
+  },
+  {
+    "id": "7603122006",
+    "district_id": "760312",
+    "name": "PIDARA"
+  },
+  {
+    "id": "7603122007",
+    "district_id": "760312",
+    "name": "BAMBAPUANG"
+  },
+  {
+    "id": "7603122008",
+    "district_id": "760312",
+    "name": "BALLA TIMUR"
+  }
+]

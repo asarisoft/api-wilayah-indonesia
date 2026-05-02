@@ -1,1 +1,147 @@
-[{"id": "5108061006", "district_id": "510806", "name": "BANYUASRI"}, {"id": "5108061007", "district_id": "510806", "name": "BANJAR TEGAL"}, {"id": "5108061008", "district_id": "510806", "name": "KENDRAN"}, {"id": "5108061009", "district_id": "510806", "name": "PAKET AGUNG"}, {"id": "5108061010", "district_id": "510806", "name": "KAMPUNG SINGARAJA"}, {"id": "5108061011", "district_id": "510806", "name": "LILIGUNDI"}, {"id": "5108061012", "district_id": "510806", "name": "BERATAN"}, {"id": "5108061019", "district_id": "510806", "name": "BANYUNING"}, {"id": "5108061020", "district_id": "510806", "name": "PENARUKAN"}, {"id": "5108061021", "district_id": "510806", "name": "KAMPUNG KAJANAN"}, {"id": "5108061022", "district_id": "510806", "name": "ASTINA"}, {"id": "5108061023", "district_id": "510806", "name": "BANJAR JAWA"}, {"id": "5108061024", "district_id": "510806", "name": "KALIUNTU"}, {"id": "5108061025", "district_id": "510806", "name": "KAMPUNG ANYAR"}, {"id": "5108061026", "district_id": "510806", "name": "KAMPUNG BUGIS"}, {"id": "5108061027", "district_id": "510806", "name": "BANJAR BALI"}, {"id": "5108061029", "district_id": "510806", "name": "KAMPUNG BARU"}, {"id": "5108062001", "district_id": "510806", "name": "KALIBUKBUK"}, {"id": "5108062002", "district_id": "510806", "name": "ANTURAN"}, {"id": "5108062003", "district_id": "510806", "name": "TUKADMUNGGA"}, {"id": "5108062004", "district_id": "510806", "name": "PEMARON"}, {"id": "5108062005", "district_id": "510806", "name": "BAKTISERAGA"}, {"id": "5108062013", "district_id": "510806", "name": "SARIMEKAR"}, {"id": "5108062014", "district_id": "510806", "name": "NAGASEPAHA"}, {"id": "5108062015", "district_id": "510806", "name": "PETANDAKAN"}, {"id": "5108062016", "district_id": "510806", "name": "ALASANGKER"}, {"id": "5108062017", "district_id": "510806", "name": "POH BERGONG"}, {"id": "5108062018", "district_id": "510806", "name": "JINENGDALEM"}, {"id": "5108062028", "district_id": "510806", "name": "PENGLATAN"}]
+[
+  {
+    "id": "5108061006",
+    "district_id": "510806",
+    "name": "BANYUASRI"
+  },
+  {
+    "id": "5108061007",
+    "district_id": "510806",
+    "name": "BANJAR TEGAL"
+  },
+  {
+    "id": "5108061008",
+    "district_id": "510806",
+    "name": "KENDRAN"
+  },
+  {
+    "id": "5108061009",
+    "district_id": "510806",
+    "name": "PAKET AGUNG"
+  },
+  {
+    "id": "5108061010",
+    "district_id": "510806",
+    "name": "KAMPUNG SINGARAJA"
+  },
+  {
+    "id": "5108061011",
+    "district_id": "510806",
+    "name": "LILIGUNDI"
+  },
+  {
+    "id": "5108061012",
+    "district_id": "510806",
+    "name": "BERATAN"
+  },
+  {
+    "id": "5108061019",
+    "district_id": "510806",
+    "name": "BANYUNING"
+  },
+  {
+    "id": "5108061020",
+    "district_id": "510806",
+    "name": "PENARUKAN"
+  },
+  {
+    "id": "5108061021",
+    "district_id": "510806",
+    "name": "KAMPUNG KAJANAN"
+  },
+  {
+    "id": "5108061022",
+    "district_id": "510806",
+    "name": "ASTINA"
+  },
+  {
+    "id": "5108061023",
+    "district_id": "510806",
+    "name": "BANJAR JAWA"
+  },
+  {
+    "id": "5108061024",
+    "district_id": "510806",
+    "name": "KALIUNTU"
+  },
+  {
+    "id": "5108061025",
+    "district_id": "510806",
+    "name": "KAMPUNG ANYAR"
+  },
+  {
+    "id": "5108061026",
+    "district_id": "510806",
+    "name": "KAMPUNG BUGIS"
+  },
+  {
+    "id": "5108061027",
+    "district_id": "510806",
+    "name": "BANJAR BALI"
+  },
+  {
+    "id": "5108061029",
+    "district_id": "510806",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "5108062001",
+    "district_id": "510806",
+    "name": "KALIBUKBUK"
+  },
+  {
+    "id": "5108062002",
+    "district_id": "510806",
+    "name": "ANTURAN"
+  },
+  {
+    "id": "5108062003",
+    "district_id": "510806",
+    "name": "TUKADMUNGGA"
+  },
+  {
+    "id": "5108062004",
+    "district_id": "510806",
+    "name": "PEMARON"
+  },
+  {
+    "id": "5108062005",
+    "district_id": "510806",
+    "name": "BAKTISERAGA"
+  },
+  {
+    "id": "5108062013",
+    "district_id": "510806",
+    "name": "SARIMEKAR"
+  },
+  {
+    "id": "5108062014",
+    "district_id": "510806",
+    "name": "NAGASEPAHA"
+  },
+  {
+    "id": "5108062015",
+    "district_id": "510806",
+    "name": "PETANDAKAN"
+  },
+  {
+    "id": "5108062016",
+    "district_id": "510806",
+    "name": "ALASANGKER"
+  },
+  {
+    "id": "5108062017",
+    "district_id": "510806",
+    "name": "POH BERGONG"
+  },
+  {
+    "id": "5108062018",
+    "district_id": "510806",
+    "name": "JINENGDALEM"
+  },
+  {
+    "id": "5108062028",
+    "district_id": "510806",
+    "name": "PENGLATAN"
+  }
+]

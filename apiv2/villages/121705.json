@@ -1,1 +1,67 @@
-[{"id": "1217052001", "district_id": "121705", "name": "SOSOR DOLOK"}, {"id": "1217052002", "district_id": "121705", "name": "PARTUNGKONAGINJANG"}, {"id": "1217052003", "district_id": "121705", "name": "HARIARA POHAN"}, {"id": "1217052004", "district_id": "121705", "name": "DOLOK RAJA"}, {"id": "1217052006", "district_id": "121705", "name": "SAMPUR TOBA"}, {"id": "1217052007", "district_id": "121705", "name": "SIPARMAHAN"}, {"id": "1217052008", "district_id": "121705", "name": "TURPUK LIMBONG"}, {"id": "1217052009", "district_id": "121705", "name": "TURPUK SAGALA"}, {"id": "1217052010", "district_id": "121705", "name": "TURPUK MALAU"}, {"id": "1217052011", "district_id": "121705", "name": "TURPUK SIHOTANG"}, {"id": "1217052012", "district_id": "121705", "name": "JANJI MARTAHAN"}, {"id": "1217052014", "district_id": "121705", "name": "HUTAGALUNG"}, {"id": "1217052015", "district_id": "121705", "name": "HARIARA PINTU"}]
+[
+  {
+    "id": "1217052001",
+    "district_id": "121705",
+    "name": "SOSOR DOLOK"
+  },
+  {
+    "id": "1217052002",
+    "district_id": "121705",
+    "name": "PARTUNGKONAGINJANG"
+  },
+  {
+    "id": "1217052003",
+    "district_id": "121705",
+    "name": "HARIARA POHAN"
+  },
+  {
+    "id": "1217052004",
+    "district_id": "121705",
+    "name": "DOLOK RAJA"
+  },
+  {
+    "id": "1217052006",
+    "district_id": "121705",
+    "name": "SAMPUR TOBA"
+  },
+  {
+    "id": "1217052007",
+    "district_id": "121705",
+    "name": "SIPARMAHAN"
+  },
+  {
+    "id": "1217052008",
+    "district_id": "121705",
+    "name": "TURPUK LIMBONG"
+  },
+  {
+    "id": "1217052009",
+    "district_id": "121705",
+    "name": "TURPUK SAGALA"
+  },
+  {
+    "id": "1217052010",
+    "district_id": "121705",
+    "name": "TURPUK MALAU"
+  },
+  {
+    "id": "1217052011",
+    "district_id": "121705",
+    "name": "TURPUK SIHOTANG"
+  },
+  {
+    "id": "1217052012",
+    "district_id": "121705",
+    "name": "JANJI MARTAHAN"
+  },
+  {
+    "id": "1217052014",
+    "district_id": "121705",
+    "name": "HUTAGALUNG"
+  },
+  {
+    "id": "1217052015",
+    "district_id": "121705",
+    "name": "HARIARA PINTU"
+  }
+]

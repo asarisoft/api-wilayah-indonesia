@@ -1,1 +1,62 @@
-[{"id": "7106092001", "district_id": "710609", "name": "PANIKI ATAS"}, {"id": "7106092002", "district_id": "710609", "name": "KOLONGAN"}, {"id": "7106092003", "district_id": "710609", "name": "TALAWAAN"}, {"id": "7106092004", "district_id": "710609", "name": "MAPANGET"}, {"id": "7106092005", "district_id": "710609", "name": "WUSA"}, {"id": "7106092006", "district_id": "710609", "name": "WARISA"}, {"id": "7106092007", "district_id": "710609", "name": "TUMBOHON"}, {"id": "7106092008", "district_id": "710609", "name": "WINETIN"}, {"id": "7106092009", "district_id": "710609", "name": "PATOKAAN"}, {"id": "7106092010", "district_id": "710609", "name": "TEEPWARISA"}, {"id": "7106092011", "district_id": "710609", "name": "WARISA KAMPUNG BARU"}, {"id": "7106092012", "district_id": "710609", "name": "PANIKI BARU"}]
+[
+  {
+    "id": "7106092001",
+    "district_id": "710609",
+    "name": "PANIKI ATAS"
+  },
+  {
+    "id": "7106092002",
+    "district_id": "710609",
+    "name": "KOLONGAN"
+  },
+  {
+    "id": "7106092003",
+    "district_id": "710609",
+    "name": "TALAWAAN"
+  },
+  {
+    "id": "7106092004",
+    "district_id": "710609",
+    "name": "MAPANGET"
+  },
+  {
+    "id": "7106092005",
+    "district_id": "710609",
+    "name": "WUSA"
+  },
+  {
+    "id": "7106092006",
+    "district_id": "710609",
+    "name": "WARISA"
+  },
+  {
+    "id": "7106092007",
+    "district_id": "710609",
+    "name": "TUMBOHON"
+  },
+  {
+    "id": "7106092008",
+    "district_id": "710609",
+    "name": "WINETIN"
+  },
+  {
+    "id": "7106092009",
+    "district_id": "710609",
+    "name": "PATOKAAN"
+  },
+  {
+    "id": "7106092010",
+    "district_id": "710609",
+    "name": "TEEPWARISA"
+  },
+  {
+    "id": "7106092011",
+    "district_id": "710609",
+    "name": "WARISA KAMPUNG BARU"
+  },
+  {
+    "id": "7106092012",
+    "district_id": "710609",
+    "name": "PANIKI BARU"
+  }
+]

@@ -1,1 +1,92 @@
-[{"id": "6308082001", "district_id": "630808", "name": "PALIMBANGAN"}, {"id": "6308082002", "district_id": "630808", "name": "PALIMBANGAN GUSTI"}, {"id": "6308082003", "district_id": "630808", "name": "PALIMBANG SARI"}, {"id": "6308082004", "district_id": "630808", "name": "BAYUR"}, {"id": "6308082005", "district_id": "630808", "name": "LOK SUGA"}, {"id": "6308082006", "district_id": "630808", "name": "SUNGAI LIMAS"}, {"id": "6308082007", "district_id": "630808", "name": "PIHAUNG"}, {"id": "6308082008", "district_id": "630808", "name": "SUNGAI BINUANG"}, {"id": "6308082009", "district_id": "630808", "name": "JINGAH BUJUR"}, {"id": "6308082010", "district_id": "630808", "name": "HAUR GADING"}, {"id": "6308082011", "district_id": "630808", "name": "KERAMAT"}, {"id": "6308082012", "district_id": "630808", "name": "TAMBAK SARI PANJI"}, {"id": "6308082013", "district_id": "630808", "name": "PULANTANI"}, {"id": "6308082014", "district_id": "630808", "name": "WARINGIN"}, {"id": "6308082015", "district_id": "630808", "name": "TANGKAWANG"}, {"id": "6308082016", "district_id": "630808", "name": "TUHURAN"}, {"id": "6308082017", "district_id": "630808", "name": "TELUK HAUR"}, {"id": "6308082018", "district_id": "630808", "name": "PANAWAKAN"}]
+[
+  {
+    "id": "6308082001",
+    "district_id": "630808",
+    "name": "PALIMBANGAN"
+  },
+  {
+    "id": "6308082002",
+    "district_id": "630808",
+    "name": "PALIMBANGAN GUSTI"
+  },
+  {
+    "id": "6308082003",
+    "district_id": "630808",
+    "name": "PALIMBANG SARI"
+  },
+  {
+    "id": "6308082004",
+    "district_id": "630808",
+    "name": "BAYUR"
+  },
+  {
+    "id": "6308082005",
+    "district_id": "630808",
+    "name": "LOK SUGA"
+  },
+  {
+    "id": "6308082006",
+    "district_id": "630808",
+    "name": "SUNGAI LIMAS"
+  },
+  {
+    "id": "6308082007",
+    "district_id": "630808",
+    "name": "PIHAUNG"
+  },
+  {
+    "id": "6308082008",
+    "district_id": "630808",
+    "name": "SUNGAI BINUANG"
+  },
+  {
+    "id": "6308082009",
+    "district_id": "630808",
+    "name": "JINGAH BUJUR"
+  },
+  {
+    "id": "6308082010",
+    "district_id": "630808",
+    "name": "HAUR GADING"
+  },
+  {
+    "id": "6308082011",
+    "district_id": "630808",
+    "name": "KERAMAT"
+  },
+  {
+    "id": "6308082012",
+    "district_id": "630808",
+    "name": "TAMBAK SARI PANJI"
+  },
+  {
+    "id": "6308082013",
+    "district_id": "630808",
+    "name": "PULANTANI"
+  },
+  {
+    "id": "6308082014",
+    "district_id": "630808",
+    "name": "WARINGIN"
+  },
+  {
+    "id": "6308082015",
+    "district_id": "630808",
+    "name": "TANGKAWANG"
+  },
+  {
+    "id": "6308082016",
+    "district_id": "630808",
+    "name": "TUHURAN"
+  },
+  {
+    "id": "6308082017",
+    "district_id": "630808",
+    "name": "TELUK HAUR"
+  },
+  {
+    "id": "6308082018",
+    "district_id": "630808",
+    "name": "PANAWAKAN"
+  }
+]

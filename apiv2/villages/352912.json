@@ -1,1 +1,77 @@
-[{"id": "3529122001", "district_id": "352912", "name": "AMBUNTEN BARAT"}, {"id": "3529122002", "district_id": "352912", "name": "AMBUNTEN TENGAH"}, {"id": "3529122003", "district_id": "352912", "name": "AMBUNTEN TIMUR"}, {"id": "3529122004", "district_id": "352912", "name": "TAMBAAGUNG BARAT"}, {"id": "3529122005", "district_id": "352912", "name": "TAMBAAGUNG TENGAH"}, {"id": "3529122006", "district_id": "352912", "name": "TAMBAAGUNG ARES"}, {"id": "3529122007", "district_id": "352912", "name": "SOGIAN"}, {"id": "3529122008", "district_id": "352912", "name": "TAMBAAGUNG TIMUR"}, {"id": "3529122009", "district_id": "352912", "name": "BUKABU"}, {"id": "3529122010", "district_id": "352912", "name": "CAMPOR BARAT"}, {"id": "3529122011", "district_id": "352912", "name": "KELES"}, {"id": "3529122012", "district_id": "352912", "name": "CAMPOR TIMUR"}, {"id": "3529122013", "district_id": "352912", "name": "BELLUK ARES"}, {"id": "3529122014", "district_id": "352912", "name": "BELLUK KENEK"}, {"id": "3529122015", "district_id": "352912", "name": "BELLUK RAJA"}]
+[
+  {
+    "id": "3529122001",
+    "district_id": "352912",
+    "name": "AMBUNTEN BARAT"
+  },
+  {
+    "id": "3529122002",
+    "district_id": "352912",
+    "name": "AMBUNTEN TENGAH"
+  },
+  {
+    "id": "3529122003",
+    "district_id": "352912",
+    "name": "AMBUNTEN TIMUR"
+  },
+  {
+    "id": "3529122004",
+    "district_id": "352912",
+    "name": "TAMBAAGUNG BARAT"
+  },
+  {
+    "id": "3529122005",
+    "district_id": "352912",
+    "name": "TAMBAAGUNG TENGAH"
+  },
+  {
+    "id": "3529122006",
+    "district_id": "352912",
+    "name": "TAMBAAGUNG ARES"
+  },
+  {
+    "id": "3529122007",
+    "district_id": "352912",
+    "name": "SOGIAN"
+  },
+  {
+    "id": "3529122008",
+    "district_id": "352912",
+    "name": "TAMBAAGUNG TIMUR"
+  },
+  {
+    "id": "3529122009",
+    "district_id": "352912",
+    "name": "BUKABU"
+  },
+  {
+    "id": "3529122010",
+    "district_id": "352912",
+    "name": "CAMPOR BARAT"
+  },
+  {
+    "id": "3529122011",
+    "district_id": "352912",
+    "name": "KELES"
+  },
+  {
+    "id": "3529122012",
+    "district_id": "352912",
+    "name": "CAMPOR TIMUR"
+  },
+  {
+    "id": "3529122013",
+    "district_id": "352912",
+    "name": "BELLUK ARES"
+  },
+  {
+    "id": "3529122014",
+    "district_id": "352912",
+    "name": "BELLUK KENEK"
+  },
+  {
+    "id": "3529122015",
+    "district_id": "352912",
+    "name": "BELLUK RAJA"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "3175031001", "district_id": "317503", "name": "KAMPUNG MELAYU"}, {"id": "3175031002", "district_id": "317503", "name": "BIDARA CINA"}, {"id": "3175031003", "district_id": "317503", "name": "BALI MESTER"}, {"id": "3175031004", "district_id": "317503", "name": "RAWA BUNGA"}, {"id": "3175031005", "district_id": "317503", "name": "CIPINANG CEMPEDAK"}, {"id": "3175031006", "district_id": "317503", "name": "CIPINANG MUARA"}, {"id": "3175031007", "district_id": "317503", "name": "CIPINANG BESAR SELATAN"}, {"id": "3175031008", "district_id": "317503", "name": "CIPINANG BESAR UTARA"}]
+[
+  {
+    "id": "3175031001",
+    "district_id": "317503",
+    "name": "KAMPUNG MELAYU"
+  },
+  {
+    "id": "3175031002",
+    "district_id": "317503",
+    "name": "BIDARA CINA"
+  },
+  {
+    "id": "3175031003",
+    "district_id": "317503",
+    "name": "BALI MESTER"
+  },
+  {
+    "id": "3175031004",
+    "district_id": "317503",
+    "name": "RAWA BUNGA"
+  },
+  {
+    "id": "3175031005",
+    "district_id": "317503",
+    "name": "CIPINANG CEMPEDAK"
+  },
+  {
+    "id": "3175031006",
+    "district_id": "317503",
+    "name": "CIPINANG MUARA"
+  },
+  {
+    "id": "3175031007",
+    "district_id": "317503",
+    "name": "CIPINANG BESAR SELATAN"
+  },
+  {
+    "id": "3175031008",
+    "district_id": "317503",
+    "name": "CIPINANG BESAR UTARA"
+  }
+]

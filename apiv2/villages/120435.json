@@ -1,1 +1,57 @@
-[{"id": "1204352001", "district_id": "120435", "name": "TUHEMBUASI"}, {"id": "1204352002", "district_id": "120435", "name": "HILIBADALU"}, {"id": "1204352003", "district_id": "120435", "name": "LA'URI"}, {"id": "1204352004", "district_id": "120435", "name": "HILIMBANA"}, {"id": "1204352005", "district_id": "120435", "name": "SAITAGARAMBA"}, {"id": "1204352006", "district_id": "120435", "name": "SOGAE'ADU"}, {"id": "1204352007", "district_id": "120435", "name": "BARUZO"}, {"id": "1204352008", "district_id": "120435", "name": "TULUMBAHO"}, {"id": "1204352009", "district_id": "120435", "name": "SISARAHILI SOGAE'ADU"}, {"id": "1204352010", "district_id": "120435", "name": "WE'A-WE'A"}, {"id": "1204352011", "district_id": "120435", "name": "SIHARE'O SOGAE'ADU"}]
+[
+  {
+    "id": "1204352001",
+    "district_id": "120435",
+    "name": "TUHEMBUASI"
+  },
+  {
+    "id": "1204352002",
+    "district_id": "120435",
+    "name": "HILIBADALU"
+  },
+  {
+    "id": "1204352003",
+    "district_id": "120435",
+    "name": "LA'URI"
+  },
+  {
+    "id": "1204352004",
+    "district_id": "120435",
+    "name": "HILIMBANA"
+  },
+  {
+    "id": "1204352005",
+    "district_id": "120435",
+    "name": "SAITAGARAMBA"
+  },
+  {
+    "id": "1204352006",
+    "district_id": "120435",
+    "name": "SOGAE'ADU"
+  },
+  {
+    "id": "1204352007",
+    "district_id": "120435",
+    "name": "BARUZO"
+  },
+  {
+    "id": "1204352008",
+    "district_id": "120435",
+    "name": "TULUMBAHO"
+  },
+  {
+    "id": "1204352009",
+    "district_id": "120435",
+    "name": "SISARAHILI SOGAE'ADU"
+  },
+  {
+    "id": "1204352010",
+    "district_id": "120435",
+    "name": "WE'A-WE'A"
+  },
+  {
+    "id": "1204352011",
+    "district_id": "120435",
+    "name": "SIHARE'O SOGAE'ADU"
+  }
+]

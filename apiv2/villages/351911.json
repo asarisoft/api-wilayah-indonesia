@@ -1,1 +1,72 @@
-[{"id": "3519111012", "district_id": "351911", "name": "BANGUNSARI"}, {"id": "3519111013", "district_id": "351911", "name": "KRAJAN"}, {"id": "3519111014", "district_id": "351911", "name": "PANDEAN"}, {"id": "3519112001", "district_id": "351911", "name": "KALIABU"}, {"id": "3519112002", "district_id": "351911", "name": "KLECOREJO"}, {"id": "3519112003", "district_id": "351911", "name": "BLABAKAN"}, {"id": "3519112004", "district_id": "351911", "name": "WONOREJO"}, {"id": "3519112005", "district_id": "351911", "name": "KEBONAGUNG"}, {"id": "3519112006", "district_id": "351911", "name": "DARMOREJO"}, {"id": "3519112007", "district_id": "351911", "name": "KALIGUNTING"}, {"id": "3519112008", "district_id": "351911", "name": "SIDODADI"}, {"id": "3519112009", "district_id": "351911", "name": "KUNCEN"}, {"id": "3519112010", "district_id": "351911", "name": "MEJAYAN"}, {"id": "3519112011", "district_id": "351911", "name": "NGAMPEL"}]
+[
+  {
+    "id": "3519111012",
+    "district_id": "351911",
+    "name": "BANGUNSARI"
+  },
+  {
+    "id": "3519111013",
+    "district_id": "351911",
+    "name": "KRAJAN"
+  },
+  {
+    "id": "3519111014",
+    "district_id": "351911",
+    "name": "PANDEAN"
+  },
+  {
+    "id": "3519112001",
+    "district_id": "351911",
+    "name": "KALIABU"
+  },
+  {
+    "id": "3519112002",
+    "district_id": "351911",
+    "name": "KLECOREJO"
+  },
+  {
+    "id": "3519112003",
+    "district_id": "351911",
+    "name": "BLABAKAN"
+  },
+  {
+    "id": "3519112004",
+    "district_id": "351911",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3519112005",
+    "district_id": "351911",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3519112006",
+    "district_id": "351911",
+    "name": "DARMOREJO"
+  },
+  {
+    "id": "3519112007",
+    "district_id": "351911",
+    "name": "KALIGUNTING"
+  },
+  {
+    "id": "3519112008",
+    "district_id": "351911",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "3519112009",
+    "district_id": "351911",
+    "name": "KUNCEN"
+  },
+  {
+    "id": "3519112010",
+    "district_id": "351911",
+    "name": "MEJAYAN"
+  },
+  {
+    "id": "3519112011",
+    "district_id": "351911",
+    "name": "NGAMPEL"
+  }
+]

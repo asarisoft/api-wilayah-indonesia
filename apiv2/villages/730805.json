@@ -1,1 +1,57 @@
-[{"id": "7308052001", "district_id": "730805", "name": "BULU BULU"}, {"id": "7308052002", "district_id": "730805", "name": "GARECCING"}, {"id": "7308052003", "district_id": "730805", "name": "BICCOING"}, {"id": "7308052004", "district_id": "730805", "name": "UJUNGE"}, {"id": "7308052005", "district_id": "730805", "name": "LIBURENG"}, {"id": "7308052006", "district_id": "730805", "name": "RAPPA"}, {"id": "7308052007", "district_id": "730805", "name": "BACU"}, {"id": "7308052008", "district_id": "730805", "name": "MUARA"}, {"id": "7308052009", "district_id": "730805", "name": "BONE PUTE"}, {"id": "7308052010", "district_id": "730805", "name": "PADATUO"}, {"id": "7308052011", "district_id": "730805", "name": "SAMAENRE"}]
+[
+  {
+    "id": "7308052001",
+    "district_id": "730805",
+    "name": "BULU BULU"
+  },
+  {
+    "id": "7308052002",
+    "district_id": "730805",
+    "name": "GARECCING"
+  },
+  {
+    "id": "7308052003",
+    "district_id": "730805",
+    "name": "BICCOING"
+  },
+  {
+    "id": "7308052004",
+    "district_id": "730805",
+    "name": "UJUNGE"
+  },
+  {
+    "id": "7308052005",
+    "district_id": "730805",
+    "name": "LIBURENG"
+  },
+  {
+    "id": "7308052006",
+    "district_id": "730805",
+    "name": "RAPPA"
+  },
+  {
+    "id": "7308052007",
+    "district_id": "730805",
+    "name": "BACU"
+  },
+  {
+    "id": "7308052008",
+    "district_id": "730805",
+    "name": "MUARA"
+  },
+  {
+    "id": "7308052009",
+    "district_id": "730805",
+    "name": "BONE PUTE"
+  },
+  {
+    "id": "7308052010",
+    "district_id": "730805",
+    "name": "PADATUO"
+  },
+  {
+    "id": "7308052011",
+    "district_id": "730805",
+    "name": "SAMAENRE"
+  }
+]

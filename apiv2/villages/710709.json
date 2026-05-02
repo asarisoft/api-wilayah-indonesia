@@ -1,1 +1,57 @@
-[{"id": "7107092001", "district_id": "710709", "name": "MOLOMPAR"}, {"id": "7107092002", "district_id": "710709", "name": "MOLOMPAR SATU"}, {"id": "7107092003", "district_id": "710709", "name": "MOLOMPAR ATAS"}, {"id": "7107092004", "district_id": "710709", "name": "MOLOMPAR DUA"}, {"id": "7107092005", "district_id": "710709", "name": "MOLOMPAR DUA UTARA"}, {"id": "7107092006", "district_id": "710709", "name": "MOLOMPAR DUA SELATAN"}, {"id": "7107092007", "district_id": "710709", "name": "MUNDUNG"}, {"id": "7107092008", "district_id": "710709", "name": "MUNDUNG SATU"}, {"id": "7107092009", "district_id": "710709", "name": "ESANDOM"}, {"id": "7107092010", "district_id": "710709", "name": "ESANDOM SATU"}, {"id": "7107092011", "district_id": "710709", "name": "ESANDOM DUA"}]
+[
+  {
+    "id": "7107092001",
+    "district_id": "710709",
+    "name": "MOLOMPAR"
+  },
+  {
+    "id": "7107092002",
+    "district_id": "710709",
+    "name": "MOLOMPAR SATU"
+  },
+  {
+    "id": "7107092003",
+    "district_id": "710709",
+    "name": "MOLOMPAR ATAS"
+  },
+  {
+    "id": "7107092004",
+    "district_id": "710709",
+    "name": "MOLOMPAR DUA"
+  },
+  {
+    "id": "7107092005",
+    "district_id": "710709",
+    "name": "MOLOMPAR DUA UTARA"
+  },
+  {
+    "id": "7107092006",
+    "district_id": "710709",
+    "name": "MOLOMPAR DUA SELATAN"
+  },
+  {
+    "id": "7107092007",
+    "district_id": "710709",
+    "name": "MUNDUNG"
+  },
+  {
+    "id": "7107092008",
+    "district_id": "710709",
+    "name": "MUNDUNG SATU"
+  },
+  {
+    "id": "7107092009",
+    "district_id": "710709",
+    "name": "ESANDOM"
+  },
+  {
+    "id": "7107092010",
+    "district_id": "710709",
+    "name": "ESANDOM SATU"
+  },
+  {
+    "id": "7107092011",
+    "district_id": "710709",
+    "name": "ESANDOM DUA"
+  }
+]

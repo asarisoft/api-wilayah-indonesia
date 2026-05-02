@@ -1,1 +1,27 @@
-[{"id": "1310062001", "district_id": "131006", "name": "TIMPEH"}, {"id": "1310062002", "district_id": "131006", "name": "TARATAK TINGGI"}, {"id": "1310062003", "district_id": "131006", "name": "TABEK"}, {"id": "1310062004", "district_id": "131006", "name": "PANYUBARANGAN"}, {"id": "1310062005", "district_id": "131006", "name": "RANAH PALABI"}]
+[
+  {
+    "id": "1310062001",
+    "district_id": "131006",
+    "name": "TIMPEH"
+  },
+  {
+    "id": "1310062002",
+    "district_id": "131006",
+    "name": "TARATAK TINGGI"
+  },
+  {
+    "id": "1310062003",
+    "district_id": "131006",
+    "name": "TABEK"
+  },
+  {
+    "id": "1310062004",
+    "district_id": "131006",
+    "name": "PANYUBARANGAN"
+  },
+  {
+    "id": "1310062005",
+    "district_id": "131006",
+    "name": "RANAH PALABI"
+  }
+]

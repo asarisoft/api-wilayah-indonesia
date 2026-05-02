@@ -1,1 +1,42 @@
-[{"id": "9501162001", "district_id": "950116", "name": "HUBIKIAK"}, {"id": "9501162002", "district_id": "950116", "name": "HETUMA"}, {"id": "9501162003", "district_id": "950116", "name": "DOKOPKU"}, {"id": "9501162004", "district_id": "950116", "name": "LIKINO"}, {"id": "9501162005", "district_id": "950116", "name": "MUSIAMIA"}, {"id": "9501162006", "district_id": "950116", "name": "HUSOAK"}, {"id": "9501162007", "district_id": "950116", "name": "HOM-HOM"}, {"id": "9501162008", "district_id": "950116", "name": "MUSIAMIA DUA"}]
+[
+  {
+    "id": "9501162001",
+    "district_id": "950116",
+    "name": "HUBIKIAK"
+  },
+  {
+    "id": "9501162002",
+    "district_id": "950116",
+    "name": "HETUMA"
+  },
+  {
+    "id": "9501162003",
+    "district_id": "950116",
+    "name": "DOKOPKU"
+  },
+  {
+    "id": "9501162004",
+    "district_id": "950116",
+    "name": "LIKINO"
+  },
+  {
+    "id": "9501162005",
+    "district_id": "950116",
+    "name": "MUSIAMIA"
+  },
+  {
+    "id": "9501162006",
+    "district_id": "950116",
+    "name": "HUSOAK"
+  },
+  {
+    "id": "9501162007",
+    "district_id": "950116",
+    "name": "HOM-HOM"
+  },
+  {
+    "id": "9501162008",
+    "district_id": "950116",
+    "name": "MUSIAMIA DUA"
+  }
+]

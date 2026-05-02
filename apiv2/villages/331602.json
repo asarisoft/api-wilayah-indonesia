@@ -1,1 +1,92 @@
-[{"id": "3316021005", "district_id": "331602", "name": "RANDUBLATUNG"}, {"id": "3316021011", "district_id": "331602", "name": "WULUNG"}, {"id": "3316022001", "district_id": "331602", "name": "TLOGOTUWUNG"}, {"id": "3316022002", "district_id": "331602", "name": "BODEH"}, {"id": "3316022003", "district_id": "331602", "name": "GEMBYUNGAN"}, {"id": "3316022004", "district_id": "331602", "name": "SAMBONGWANGAN"}, {"id": "3316022006", "district_id": "331602", "name": "PILANG"}, {"id": "3316022007", "district_id": "331602", "name": "TEMULUS"}, {"id": "3316022008", "district_id": "331602", "name": "SUMBEREJO"}, {"id": "3316022009", "district_id": "331602", "name": "KUTUKAN"}, {"id": "3316022010", "district_id": "331602", "name": "KEDIREN"}, {"id": "3316022012", "district_id": "331602", "name": "KADENGAN"}, {"id": "3316022013", "district_id": "331602", "name": "BEKUTUK"}, {"id": "3316022014", "district_id": "331602", "name": "PLOSOREJO"}, {"id": "3316022015", "district_id": "331602", "name": "JERUK"}, {"id": "3316022016", "district_id": "331602", "name": "TANGGEL"}, {"id": "3316022017", "district_id": "331602", "name": "KALISARI"}, {"id": "3316022018", "district_id": "331602", "name": "NGLIRON"}]
+[
+  {
+    "id": "3316021005",
+    "district_id": "331602",
+    "name": "RANDUBLATUNG"
+  },
+  {
+    "id": "3316021011",
+    "district_id": "331602",
+    "name": "WULUNG"
+  },
+  {
+    "id": "3316022001",
+    "district_id": "331602",
+    "name": "TLOGOTUWUNG"
+  },
+  {
+    "id": "3316022002",
+    "district_id": "331602",
+    "name": "BODEH"
+  },
+  {
+    "id": "3316022003",
+    "district_id": "331602",
+    "name": "GEMBYUNGAN"
+  },
+  {
+    "id": "3316022004",
+    "district_id": "331602",
+    "name": "SAMBONGWANGAN"
+  },
+  {
+    "id": "3316022006",
+    "district_id": "331602",
+    "name": "PILANG"
+  },
+  {
+    "id": "3316022007",
+    "district_id": "331602",
+    "name": "TEMULUS"
+  },
+  {
+    "id": "3316022008",
+    "district_id": "331602",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3316022009",
+    "district_id": "331602",
+    "name": "KUTUKAN"
+  },
+  {
+    "id": "3316022010",
+    "district_id": "331602",
+    "name": "KEDIREN"
+  },
+  {
+    "id": "3316022012",
+    "district_id": "331602",
+    "name": "KADENGAN"
+  },
+  {
+    "id": "3316022013",
+    "district_id": "331602",
+    "name": "BEKUTUK"
+  },
+  {
+    "id": "3316022014",
+    "district_id": "331602",
+    "name": "PLOSOREJO"
+  },
+  {
+    "id": "3316022015",
+    "district_id": "331602",
+    "name": "JERUK"
+  },
+  {
+    "id": "3316022016",
+    "district_id": "331602",
+    "name": "TANGGEL"
+  },
+  {
+    "id": "3316022017",
+    "district_id": "331602",
+    "name": "KALISARI"
+  },
+  {
+    "id": "3316022018",
+    "district_id": "331602",
+    "name": "NGLIRON"
+  }
+]

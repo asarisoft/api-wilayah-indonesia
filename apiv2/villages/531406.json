@@ -1,1 +1,57 @@
-[{"id": "5314061004", "district_id": "531406", "name": "LONDALUSI"}, {"id": "5314062001", "district_id": "531406", "name": "MUKEKUKU"}, {"id": "5314062002", "district_id": "531406", "name": "FAIFUA"}, {"id": "5314062003", "district_id": "531406", "name": "HUNDIHOPO"}, {"id": "5314062005", "district_id": "531406", "name": "SERUBEBA"}, {"id": "5314062006", "district_id": "531406", "name": "LAKAMOLA"}, {"id": "5314062007", "district_id": "531406", "name": "MATASIO"}, {"id": "5314062014", "district_id": "531406", "name": "PENGODUA"}, {"id": "5314062015", "district_id": "531406", "name": "BATEFALU"}, {"id": "5314062016", "district_id": "531406", "name": "PAPELA"}, {"id": "5314062017", "district_id": "531406", "name": "MATANAE"}]
+[
+  {
+    "id": "5314061004",
+    "district_id": "531406",
+    "name": "LONDALUSI"
+  },
+  {
+    "id": "5314062001",
+    "district_id": "531406",
+    "name": "MUKEKUKU"
+  },
+  {
+    "id": "5314062002",
+    "district_id": "531406",
+    "name": "FAIFUA"
+  },
+  {
+    "id": "5314062003",
+    "district_id": "531406",
+    "name": "HUNDIHOPO"
+  },
+  {
+    "id": "5314062005",
+    "district_id": "531406",
+    "name": "SERUBEBA"
+  },
+  {
+    "id": "5314062006",
+    "district_id": "531406",
+    "name": "LAKAMOLA"
+  },
+  {
+    "id": "5314062007",
+    "district_id": "531406",
+    "name": "MATASIO"
+  },
+  {
+    "id": "5314062014",
+    "district_id": "531406",
+    "name": "PENGODUA"
+  },
+  {
+    "id": "5314062015",
+    "district_id": "531406",
+    "name": "BATEFALU"
+  },
+  {
+    "id": "5314062016",
+    "district_id": "531406",
+    "name": "PAPELA"
+  },
+  {
+    "id": "5314062017",
+    "district_id": "531406",
+    "name": "MATANAE"
+  }
+]

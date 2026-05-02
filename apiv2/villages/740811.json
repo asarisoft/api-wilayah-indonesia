@@ -1,1 +1,47 @@
-[{"id": "7408112001", "district_id": "740811", "name": "PUUNDOHO"}, {"id": "7408112002", "district_id": "740811", "name": "PAKUE"}, {"id": "7408112003", "district_id": "740811", "name": "LAWATA"}, {"id": "7408112004", "district_id": "740811", "name": "MATALEUNO"}, {"id": "7408112005", "district_id": "740811", "name": "TEPOSUA"}, {"id": "7408112006", "district_id": "740811", "name": "SALUDONGKA"}, {"id": "7408112007", "district_id": "740811", "name": "KALO"}, {"id": "7408112008", "district_id": "740811", "name": "AMOE"}, {"id": "7408112009", "district_id": "740811", "name": "LENGKONG BATU"}]
+[
+  {
+    "id": "7408112001",
+    "district_id": "740811",
+    "name": "PUUNDOHO"
+  },
+  {
+    "id": "7408112002",
+    "district_id": "740811",
+    "name": "PAKUE"
+  },
+  {
+    "id": "7408112003",
+    "district_id": "740811",
+    "name": "LAWATA"
+  },
+  {
+    "id": "7408112004",
+    "district_id": "740811",
+    "name": "MATALEUNO"
+  },
+  {
+    "id": "7408112005",
+    "district_id": "740811",
+    "name": "TEPOSUA"
+  },
+  {
+    "id": "7408112006",
+    "district_id": "740811",
+    "name": "SALUDONGKA"
+  },
+  {
+    "id": "7408112007",
+    "district_id": "740811",
+    "name": "KALO"
+  },
+  {
+    "id": "7408112008",
+    "district_id": "740811",
+    "name": "AMOE"
+  },
+  {
+    "id": "7408112009",
+    "district_id": "740811",
+    "name": "LENGKONG BATU"
+  }
+]

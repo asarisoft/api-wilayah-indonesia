@@ -1,1 +1,52 @@
-[{"id": "3403122001", "district_id": "340312", "name": "KALITEKUK"}, {"id": "3403122002", "district_id": "340312", "name": "KEMEJING"}, {"id": "3403122003", "district_id": "340312", "name": "BULUREJO"}, {"id": "3403122004", "district_id": "340312", "name": "SUMBEREJO"}, {"id": "3403122005", "district_id": "340312", "name": "BENDUNG"}, {"id": "3403122006", "district_id": "340312", "name": "CANDIREJO"}, {"id": "3403122007", "district_id": "340312", "name": "REJOSARI"}, {"id": "3403122008", "district_id": "340312", "name": "KARANGSARI"}, {"id": "3403122009", "district_id": "340312", "name": "PUNDUNGSARI"}, {"id": "3403122010", "district_id": "340312", "name": "SEMIN"}]
+[
+  {
+    "id": "3403122001",
+    "district_id": "340312",
+    "name": "KALITEKUK"
+  },
+  {
+    "id": "3403122002",
+    "district_id": "340312",
+    "name": "KEMEJING"
+  },
+  {
+    "id": "3403122003",
+    "district_id": "340312",
+    "name": "BULUREJO"
+  },
+  {
+    "id": "3403122004",
+    "district_id": "340312",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3403122005",
+    "district_id": "340312",
+    "name": "BENDUNG"
+  },
+  {
+    "id": "3403122006",
+    "district_id": "340312",
+    "name": "CANDIREJO"
+  },
+  {
+    "id": "3403122007",
+    "district_id": "340312",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3403122008",
+    "district_id": "340312",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3403122009",
+    "district_id": "340312",
+    "name": "PUNDUNGSARI"
+  },
+  {
+    "id": "3403122010",
+    "district_id": "340312",
+    "name": "SEMIN"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "3324132001", "district_id": "332413", "name": "PANDES"}, {"id": "3324132002", "district_id": "332413", "name": "PODOSARI"}, {"id": "3324132003", "district_id": "332413", "name": "BOTOMULYO"}, {"id": "3324132004", "district_id": "332413", "name": "CEPIRING"}, {"id": "3324132005", "district_id": "332413", "name": "DAMARSARI"}, {"id": "3324132006", "district_id": "332413", "name": "KARANGAYU"}, {"id": "3324132007", "district_id": "332413", "name": "KARANGSUNO"}, {"id": "3324132008", "district_id": "332413", "name": "GONDANG"}, {"id": "3324132009", "district_id": "332413", "name": "SIDOMULYO"}, {"id": "3324132010", "district_id": "332413", "name": "JUWIRING"}, {"id": "3324132011", "district_id": "332413", "name": "KALIAYU"}, {"id": "3324132012", "district_id": "332413", "name": "KALIRANDUGEDE"}, {"id": "3324132013", "district_id": "332413", "name": "KOROWELANGKULON"}, {"id": "3324132014", "district_id": "332413", "name": "KOROWELANGANYAR"}, {"id": "3324132015", "district_id": "332413", "name": "MARGOREJO"}]
+[
+  {
+    "id": "3324132001",
+    "district_id": "332413",
+    "name": "PANDES"
+  },
+  {
+    "id": "3324132002",
+    "district_id": "332413",
+    "name": "PODOSARI"
+  },
+  {
+    "id": "3324132003",
+    "district_id": "332413",
+    "name": "BOTOMULYO"
+  },
+  {
+    "id": "3324132004",
+    "district_id": "332413",
+    "name": "CEPIRING"
+  },
+  {
+    "id": "3324132005",
+    "district_id": "332413",
+    "name": "DAMARSARI"
+  },
+  {
+    "id": "3324132006",
+    "district_id": "332413",
+    "name": "KARANGAYU"
+  },
+  {
+    "id": "3324132007",
+    "district_id": "332413",
+    "name": "KARANGSUNO"
+  },
+  {
+    "id": "3324132008",
+    "district_id": "332413",
+    "name": "GONDANG"
+  },
+  {
+    "id": "3324132009",
+    "district_id": "332413",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3324132010",
+    "district_id": "332413",
+    "name": "JUWIRING"
+  },
+  {
+    "id": "3324132011",
+    "district_id": "332413",
+    "name": "KALIAYU"
+  },
+  {
+    "id": "3324132012",
+    "district_id": "332413",
+    "name": "KALIRANDUGEDE"
+  },
+  {
+    "id": "3324132013",
+    "district_id": "332413",
+    "name": "KOROWELANGKULON"
+  },
+  {
+    "id": "3324132014",
+    "district_id": "332413",
+    "name": "KOROWELANGANYAR"
+  },
+  {
+    "id": "3324132015",
+    "district_id": "332413",
+    "name": "MARGOREJO"
+  }
+]

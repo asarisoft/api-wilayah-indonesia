@@ -1,1 +1,32 @@
-[{"id": "3277021001", "district_id": "327702", "name": "BAROS"}, {"id": "3277021002", "district_id": "327702", "name": "CIGUGUR TENGAH"}, {"id": "3277021003", "district_id": "327702", "name": "KARANGMEKAR"}, {"id": "3277021004", "district_id": "327702", "name": "SETIAMANAH"}, {"id": "3277021005", "district_id": "327702", "name": "PADASUKA"}, {"id": "3277021006", "district_id": "327702", "name": "CIMAHI"}]
+[
+  {
+    "id": "3277021001",
+    "district_id": "327702",
+    "name": "BAROS"
+  },
+  {
+    "id": "3277021002",
+    "district_id": "327702",
+    "name": "CIGUGUR TENGAH"
+  },
+  {
+    "id": "3277021003",
+    "district_id": "327702",
+    "name": "KARANGMEKAR"
+  },
+  {
+    "id": "3277021004",
+    "district_id": "327702",
+    "name": "SETIAMANAH"
+  },
+  {
+    "id": "3277021005",
+    "district_id": "327702",
+    "name": "PADASUKA"
+  },
+  {
+    "id": "3277021006",
+    "district_id": "327702",
+    "name": "CIMAHI"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3674021001", "district_id": "367402", "name": "PAKULONAN"}, {"id": "3674021002", "district_id": "367402", "name": "PAKUALAM"}, {"id": "3674021003", "district_id": "367402", "name": "PAKUJAYA"}, {"id": "3674021004", "district_id": "367402", "name": "PONDOK JAGUNG"}, {"id": "3674021005", "district_id": "367402", "name": "PONDOK JAGUNG TIMUR"}, {"id": "3674021006", "district_id": "367402", "name": "JELUPANG"}, {"id": "3674021007", "district_id": "367402", "name": "LENGKONG KARYA"}]
+[
+  {
+    "id": "3674021001",
+    "district_id": "367402",
+    "name": "PAKULONAN"
+  },
+  {
+    "id": "3674021002",
+    "district_id": "367402",
+    "name": "PAKUALAM"
+  },
+  {
+    "id": "3674021003",
+    "district_id": "367402",
+    "name": "PAKUJAYA"
+  },
+  {
+    "id": "3674021004",
+    "district_id": "367402",
+    "name": "PONDOK JAGUNG"
+  },
+  {
+    "id": "3674021005",
+    "district_id": "367402",
+    "name": "PONDOK JAGUNG TIMUR"
+  },
+  {
+    "id": "3674021006",
+    "district_id": "367402",
+    "name": "JELUPANG"
+  },
+  {
+    "id": "3674021007",
+    "district_id": "367402",
+    "name": "LENGKONG KARYA"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "3304061001", "district_id": "330406", "name": "ARGASOKA"}, {"id": "3304061006", "district_id": "330406", "name": "KARANGTENGAH"}, {"id": "3304061007", "district_id": "330406", "name": "WANGON"}, {"id": "3304061008", "district_id": "330406", "name": "SEMAMPIR"}, {"id": "3304061009", "district_id": "330406", "name": "SOKANANDI"}, {"id": "3304061010", "district_id": "330406", "name": "PARAKANCANGGAH"}, {"id": "3304061011", "district_id": "330406", "name": "SEMARANG"}, {"id": "3304061012", "district_id": "330406", "name": "KRANDEGAN"}, {"id": "3304061013", "district_id": "330406", "name": "KUTABANJARNEGARA"}, {"id": "3304062002", "district_id": "330406", "name": "AMPELSARI"}, {"id": "3304062003", "district_id": "330406", "name": "TLAGAWERA"}, {"id": "3304062004", "district_id": "330406", "name": "CENDANA"}, {"id": "3304062005", "district_id": "330406", "name": "SOKAYASA"}]
+[
+  {
+    "id": "3304061001",
+    "district_id": "330406",
+    "name": "ARGASOKA"
+  },
+  {
+    "id": "3304061006",
+    "district_id": "330406",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3304061007",
+    "district_id": "330406",
+    "name": "WANGON"
+  },
+  {
+    "id": "3304061008",
+    "district_id": "330406",
+    "name": "SEMAMPIR"
+  },
+  {
+    "id": "3304061009",
+    "district_id": "330406",
+    "name": "SOKANANDI"
+  },
+  {
+    "id": "3304061010",
+    "district_id": "330406",
+    "name": "PARAKANCANGGAH"
+  },
+  {
+    "id": "3304061011",
+    "district_id": "330406",
+    "name": "SEMARANG"
+  },
+  {
+    "id": "3304061012",
+    "district_id": "330406",
+    "name": "KRANDEGAN"
+  },
+  {
+    "id": "3304061013",
+    "district_id": "330406",
+    "name": "KUTABANJARNEGARA"
+  },
+  {
+    "id": "3304062002",
+    "district_id": "330406",
+    "name": "AMPELSARI"
+  },
+  {
+    "id": "3304062003",
+    "district_id": "330406",
+    "name": "TLAGAWERA"
+  },
+  {
+    "id": "3304062004",
+    "district_id": "330406",
+    "name": "CENDANA"
+  },
+  {
+    "id": "3304062005",
+    "district_id": "330406",
+    "name": "SOKAYASA"
+  }
+]

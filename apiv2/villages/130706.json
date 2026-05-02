@@ -1,1 +1,32 @@
-[{"id": "1307062001", "district_id": "130706", "name": "MANGGILANG"}, {"id": "1307062002", "district_id": "130706", "name": "TANJUANG BALIK"}, {"id": "1307062003", "district_id": "130706", "name": "GUNUANG MALINTANG"}, {"id": "1307062004", "district_id": "130706", "name": "PANGKALAN"}, {"id": "1307062005", "district_id": "130706", "name": "KOTO ALAM"}, {"id": "1307062006", "district_id": "130706", "name": "TANJUNG PAUH"}]
+[
+  {
+    "id": "1307062001",
+    "district_id": "130706",
+    "name": "MANGGILANG"
+  },
+  {
+    "id": "1307062002",
+    "district_id": "130706",
+    "name": "TANJUANG BALIK"
+  },
+  {
+    "id": "1307062003",
+    "district_id": "130706",
+    "name": "GUNUANG MALINTANG"
+  },
+  {
+    "id": "1307062004",
+    "district_id": "130706",
+    "name": "PANGKALAN"
+  },
+  {
+    "id": "1307062005",
+    "district_id": "130706",
+    "name": "KOTO ALAM"
+  },
+  {
+    "id": "1307062006",
+    "district_id": "130706",
+    "name": "TANJUNG PAUH"
+  }
+]

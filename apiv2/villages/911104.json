@@ -1,1 +1,32 @@
-[{"id": "9111042001", "district_id": "911104", "name": "DUBU"}, {"id": "9111042002", "district_id": "911104", "name": "UMURAF"}, {"id": "9111042003", "district_id": "911104", "name": "SEMOGRAFI"}, {"id": "9111042005", "district_id": "911104", "name": "EMBI"}, {"id": "9111042015", "district_id": "911104", "name": "YAMRAF DUA"}, {"id": "9111042017", "district_id": "911104", "name": "TATAKRA"}]
+[
+  {
+    "id": "9111042001",
+    "district_id": "911104",
+    "name": "DUBU"
+  },
+  {
+    "id": "9111042002",
+    "district_id": "911104",
+    "name": "UMURAF"
+  },
+  {
+    "id": "9111042003",
+    "district_id": "911104",
+    "name": "SEMOGRAFI"
+  },
+  {
+    "id": "9111042005",
+    "district_id": "911104",
+    "name": "EMBI"
+  },
+  {
+    "id": "9111042015",
+    "district_id": "911104",
+    "name": "YAMRAF DUA"
+  },
+  {
+    "id": "9111042017",
+    "district_id": "911104",
+    "name": "TATAKRA"
+  }
+]

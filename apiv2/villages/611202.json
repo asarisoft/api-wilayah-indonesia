@@ -1,1 +1,32 @@
-[{"id": "6112022001", "district_id": "611202", "name": "KUALA MANDOR B"}, {"id": "6112022002", "district_id": "611202", "name": "KUBU PADI"}, {"id": "6112022003", "district_id": "611202", "name": "KUALA MANDOR A"}, {"id": "6112022004", "district_id": "611202", "name": "RETOK"}, {"id": "6112022005", "district_id": "611202", "name": "SUNGAI ENAU"}, {"id": "6112022006", "district_id": "611202", "name": "PADI JAYA"}]
+[
+  {
+    "id": "6112022001",
+    "district_id": "611202",
+    "name": "KUALA MANDOR B"
+  },
+  {
+    "id": "6112022002",
+    "district_id": "611202",
+    "name": "KUBU PADI"
+  },
+  {
+    "id": "6112022003",
+    "district_id": "611202",
+    "name": "KUALA MANDOR A"
+  },
+  {
+    "id": "6112022004",
+    "district_id": "611202",
+    "name": "RETOK"
+  },
+  {
+    "id": "6112022005",
+    "district_id": "611202",
+    "name": "SUNGAI ENAU"
+  },
+  {
+    "id": "6112022006",
+    "district_id": "611202",
+    "name": "PADI JAYA"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "1410042001", "district_id": "141004", "name": "ALAI"}, {"id": "1410042002", "district_id": "141004", "name": "TENAN"}, {"id": "1410042003", "district_id": "141004", "name": "INSIT"}, {"id": "1410042004", "district_id": "141004", "name": "TANJUNG"}, {"id": "1410042005", "district_id": "141004", "name": "TANJUNG PERANAP"}, {"id": "1410042006", "district_id": "141004", "name": "KUNDUR"}, {"id": "1410042007", "district_id": "141004", "name": "MEKONG"}, {"id": "1410042008", "district_id": "141004", "name": "BATANG MALAS"}, {"id": "1410042009", "district_id": "141004", "name": "MANTIASA"}, {"id": "1410042010", "district_id": "141004", "name": "GOGOK DARUSSALAM"}, {"id": "1410042011", "district_id": "141004", "name": "MAINI DARUL AMAN"}, {"id": "1410042012", "district_id": "141004", "name": "MENGKIKIP"}, {"id": "1410042013", "district_id": "141004", "name": "ALAI SELATAN"}, {"id": "1410042014", "district_id": "141004", "name": "TANJUNG DARUL TAKZIM"}]
+[
+  {
+    "id": "1410042001",
+    "district_id": "141004",
+    "name": "ALAI"
+  },
+  {
+    "id": "1410042002",
+    "district_id": "141004",
+    "name": "TENAN"
+  },
+  {
+    "id": "1410042003",
+    "district_id": "141004",
+    "name": "INSIT"
+  },
+  {
+    "id": "1410042004",
+    "district_id": "141004",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "1410042005",
+    "district_id": "141004",
+    "name": "TANJUNG PERANAP"
+  },
+  {
+    "id": "1410042006",
+    "district_id": "141004",
+    "name": "KUNDUR"
+  },
+  {
+    "id": "1410042007",
+    "district_id": "141004",
+    "name": "MEKONG"
+  },
+  {
+    "id": "1410042008",
+    "district_id": "141004",
+    "name": "BATANG MALAS"
+  },
+  {
+    "id": "1410042009",
+    "district_id": "141004",
+    "name": "MANTIASA"
+  },
+  {
+    "id": "1410042010",
+    "district_id": "141004",
+    "name": "GOGOK DARUSSALAM"
+  },
+  {
+    "id": "1410042011",
+    "district_id": "141004",
+    "name": "MAINI DARUL AMAN"
+  },
+  {
+    "id": "1410042012",
+    "district_id": "141004",
+    "name": "MENGKIKIP"
+  },
+  {
+    "id": "1410042013",
+    "district_id": "141004",
+    "name": "ALAI SELATAN"
+  },
+  {
+    "id": "1410042014",
+    "district_id": "141004",
+    "name": "TANJUNG DARUL TAKZIM"
+  }
+]

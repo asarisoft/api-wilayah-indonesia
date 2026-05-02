@@ -1,1 +1,67 @@
-[{"id": "3309072001", "district_id": "330907", "name": "KOPEN"}, {"id": "3309072002", "district_id": "330907", "name": "DOPLANG"}, {"id": "3309072003", "district_id": "330907", "name": "KADIRESO"}, {"id": "3309072004", "district_id": "330907", "name": "NEPEN"}, {"id": "3309072005", "district_id": "330907", "name": "SUDIMORO"}, {"id": "3309072006", "district_id": "330907", "name": "BANGSALAN"}, {"id": "3309072007", "district_id": "330907", "name": "SALAKAN"}, {"id": "3309072008", "district_id": "330907", "name": "TERAS"}, {"id": "3309072009", "district_id": "330907", "name": "RANDUSARI"}, {"id": "3309072010", "district_id": "330907", "name": "MOJOLEGI"}, {"id": "3309072011", "district_id": "330907", "name": "GUMUKREJO"}, {"id": "3309072012", "district_id": "330907", "name": "TAWANGSARI"}, {"id": "3309072013", "district_id": "330907", "name": "KRASAK"}]
+[
+  {
+    "id": "3309072001",
+    "district_id": "330907",
+    "name": "KOPEN"
+  },
+  {
+    "id": "3309072002",
+    "district_id": "330907",
+    "name": "DOPLANG"
+  },
+  {
+    "id": "3309072003",
+    "district_id": "330907",
+    "name": "KADIRESO"
+  },
+  {
+    "id": "3309072004",
+    "district_id": "330907",
+    "name": "NEPEN"
+  },
+  {
+    "id": "3309072005",
+    "district_id": "330907",
+    "name": "SUDIMORO"
+  },
+  {
+    "id": "3309072006",
+    "district_id": "330907",
+    "name": "BANGSALAN"
+  },
+  {
+    "id": "3309072007",
+    "district_id": "330907",
+    "name": "SALAKAN"
+  },
+  {
+    "id": "3309072008",
+    "district_id": "330907",
+    "name": "TERAS"
+  },
+  {
+    "id": "3309072009",
+    "district_id": "330907",
+    "name": "RANDUSARI"
+  },
+  {
+    "id": "3309072010",
+    "district_id": "330907",
+    "name": "MOJOLEGI"
+  },
+  {
+    "id": "3309072011",
+    "district_id": "330907",
+    "name": "GUMUKREJO"
+  },
+  {
+    "id": "3309072012",
+    "district_id": "330907",
+    "name": "TAWANGSARI"
+  },
+  {
+    "id": "3309072013",
+    "district_id": "330907",
+    "name": "KRASAK"
+  }
+]

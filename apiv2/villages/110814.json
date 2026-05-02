@@ -1,1 +1,237 @@
-[{"id": "1108142001", "district_id": "110814", "name": "TEUPIN GAJAH"}, {"id": "1108142002", "district_id": "110814", "name": "GEULUMPANG UMPUNG UNOU"}, {"id": "1108142003", "district_id": "110814", "name": "RANTO PANYANG"}, {"id": "1108142004", "district_id": "110814", "name": "SEUNEUBOK DOE"}, {"id": "1108142005", "district_id": "110814", "name": "MEUNASAH GEUDONG"}, {"id": "1108142006", "district_id": "110814", "name": "MEUNASAH MERBO"}, {"id": "1108142007", "district_id": "110814", "name": "TANJONG MEUNYE"}, {"id": "1108142008", "district_id": "110814", "name": "MATANG JURONG"}, {"id": "1108142009", "district_id": "110814", "name": "TANJONG DALAM UTARA"}, {"id": "1108142010", "district_id": "110814", "name": "MEUNASAH DAYAH"}, {"id": "1108142011", "district_id": "110814", "name": "SEUNEUBOK PIDIE"}, {"id": "1108142012", "district_id": "110814", "name": "TANJONG MENUANG"}, {"id": "1108142013", "district_id": "110814", "name": "MATANG TEUNGOH-TEUNGOH"}, {"id": "1108142014", "district_id": "110814", "name": "LHOK REUDEUP"}, {"id": "1108142015", "district_id": "110814", "name": "LHOK MERBO"}, {"id": "1108142016", "district_id": "110814", "name": "TANJONG ARA"}, {"id": "1108142017", "district_id": "110814", "name": "ALUE IE MIRAH"}, {"id": "1108142018", "district_id": "110814", "name": "TANJONG PUNTI"}, {"id": "1108142019", "district_id": "110814", "name": "BUKET ALUE PUTEH"}, {"id": "1108142020", "district_id": "110814", "name": "BUKET JRAT MANYANG"}, {"id": "1108142021", "district_id": "110814", "name": "MATANG MANEH"}, {"id": "1108142022", "district_id": "110814", "name": "PUCOK ALUE"}, {"id": "1108142023", "district_id": "110814", "name": "MATANG SERDANG"}, {"id": "1108142024", "district_id": "110814", "name": "MATANG SANTOT"}, {"id": "1108142025", "district_id": "110814", "name": "BUKET PADANG"}, {"id": "1108142026", "district_id": "110814", "name": "MATANG SEUKE PULOT"}, {"id": "1108142027", "district_id": "110814", "name": "LHOK BEURINGEN"}, {"id": "1108142028", "district_id": "110814", "name": "LUENG TUHA"}, {"id": "1108142029", "district_id": "110814", "name": "MATANG RAYA"}, {"id": "1108142030", "district_id": "110814", "name": "TANJONG CEUNGAI"}, {"id": "1108142031", "district_id": "110814", "name": "TEUPIN BAYU"}, {"id": "1108142032", "district_id": "110814", "name": "MEUNASAH PANTON LABU"}, {"id": "1108142033", "district_id": "110814", "name": "KOTA PANTON LABU"}, {"id": "1108142034", "district_id": "110814", "name": "RAWANG ITEK"}, {"id": "1108142035", "district_id": "110814", "name": "SAMAKUROK"}, {"id": "1108142036", "district_id": "110814", "name": "BIARA BARAT"}, {"id": "1108142037", "district_id": "110814", "name": "BIARA TIMUR"}, {"id": "1108142038", "district_id": "110814", "name": "MATANG DRIEN"}, {"id": "1108142039", "district_id": "110814", "name": "CEUMPEUDAK"}, {"id": "1108142040", "district_id": "110814", "name": "ALUE PAPEUN"}, {"id": "1108142041", "district_id": "110814", "name": "LHOK BINTANG HU"}, {"id": "1108142042", "district_id": "110814", "name": "BIRAM RAYEUK"}, {"id": "1108142043", "district_id": "110814", "name": "COT BIEK"}, {"id": "1108142044", "district_id": "110814", "name": "MATANG ARONGAN"}, {"id": "1108142045", "district_id": "110814", "name": "BIRAM CUT"}, {"id": "1108142046", "district_id": "110814", "name": "BUKET BATEE BADAN"}, {"id": "1108142047", "district_id": "110814", "name": "ULEE GLEE"}]
+[
+  {
+    "id": "1108142001",
+    "district_id": "110814",
+    "name": "TEUPIN GAJAH"
+  },
+  {
+    "id": "1108142002",
+    "district_id": "110814",
+    "name": "GEULUMPANG UMPUNG UNOU"
+  },
+  {
+    "id": "1108142003",
+    "district_id": "110814",
+    "name": "RANTO PANYANG"
+  },
+  {
+    "id": "1108142004",
+    "district_id": "110814",
+    "name": "SEUNEUBOK DOE"
+  },
+  {
+    "id": "1108142005",
+    "district_id": "110814",
+    "name": "MEUNASAH GEUDONG"
+  },
+  {
+    "id": "1108142006",
+    "district_id": "110814",
+    "name": "MEUNASAH MERBO"
+  },
+  {
+    "id": "1108142007",
+    "district_id": "110814",
+    "name": "TANJONG MEUNYE"
+  },
+  {
+    "id": "1108142008",
+    "district_id": "110814",
+    "name": "MATANG JURONG"
+  },
+  {
+    "id": "1108142009",
+    "district_id": "110814",
+    "name": "TANJONG DALAM UTARA"
+  },
+  {
+    "id": "1108142010",
+    "district_id": "110814",
+    "name": "MEUNASAH DAYAH"
+  },
+  {
+    "id": "1108142011",
+    "district_id": "110814",
+    "name": "SEUNEUBOK PIDIE"
+  },
+  {
+    "id": "1108142012",
+    "district_id": "110814",
+    "name": "TANJONG MENUANG"
+  },
+  {
+    "id": "1108142013",
+    "district_id": "110814",
+    "name": "MATANG TEUNGOH-TEUNGOH"
+  },
+  {
+    "id": "1108142014",
+    "district_id": "110814",
+    "name": "LHOK REUDEUP"
+  },
+  {
+    "id": "1108142015",
+    "district_id": "110814",
+    "name": "LHOK MERBO"
+  },
+  {
+    "id": "1108142016",
+    "district_id": "110814",
+    "name": "TANJONG ARA"
+  },
+  {
+    "id": "1108142017",
+    "district_id": "110814",
+    "name": "ALUE IE MIRAH"
+  },
+  {
+    "id": "1108142018",
+    "district_id": "110814",
+    "name": "TANJONG PUNTI"
+  },
+  {
+    "id": "1108142019",
+    "district_id": "110814",
+    "name": "BUKET ALUE PUTEH"
+  },
+  {
+    "id": "1108142020",
+    "district_id": "110814",
+    "name": "BUKET JRAT MANYANG"
+  },
+  {
+    "id": "1108142021",
+    "district_id": "110814",
+    "name": "MATANG MANEH"
+  },
+  {
+    "id": "1108142022",
+    "district_id": "110814",
+    "name": "PUCOK ALUE"
+  },
+  {
+    "id": "1108142023",
+    "district_id": "110814",
+    "name": "MATANG SERDANG"
+  },
+  {
+    "id": "1108142024",
+    "district_id": "110814",
+    "name": "MATANG SANTOT"
+  },
+  {
+    "id": "1108142025",
+    "district_id": "110814",
+    "name": "BUKET PADANG"
+  },
+  {
+    "id": "1108142026",
+    "district_id": "110814",
+    "name": "MATANG SEUKE PULOT"
+  },
+  {
+    "id": "1108142027",
+    "district_id": "110814",
+    "name": "LHOK BEURINGEN"
+  },
+  {
+    "id": "1108142028",
+    "district_id": "110814",
+    "name": "LUENG TUHA"
+  },
+  {
+    "id": "1108142029",
+    "district_id": "110814",
+    "name": "MATANG RAYA"
+  },
+  {
+    "id": "1108142030",
+    "district_id": "110814",
+    "name": "TANJONG CEUNGAI"
+  },
+  {
+    "id": "1108142031",
+    "district_id": "110814",
+    "name": "TEUPIN BAYU"
+  },
+  {
+    "id": "1108142032",
+    "district_id": "110814",
+    "name": "MEUNASAH PANTON LABU"
+  },
+  {
+    "id": "1108142033",
+    "district_id": "110814",
+    "name": "KOTA PANTON LABU"
+  },
+  {
+    "id": "1108142034",
+    "district_id": "110814",
+    "name": "RAWANG ITEK"
+  },
+  {
+    "id": "1108142035",
+    "district_id": "110814",
+    "name": "SAMAKUROK"
+  },
+  {
+    "id": "1108142036",
+    "district_id": "110814",
+    "name": "BIARA BARAT"
+  },
+  {
+    "id": "1108142037",
+    "district_id": "110814",
+    "name": "BIARA TIMUR"
+  },
+  {
+    "id": "1108142038",
+    "district_id": "110814",
+    "name": "MATANG DRIEN"
+  },
+  {
+    "id": "1108142039",
+    "district_id": "110814",
+    "name": "CEUMPEUDAK"
+  },
+  {
+    "id": "1108142040",
+    "district_id": "110814",
+    "name": "ALUE PAPEUN"
+  },
+  {
+    "id": "1108142041",
+    "district_id": "110814",
+    "name": "LHOK BINTANG HU"
+  },
+  {
+    "id": "1108142042",
+    "district_id": "110814",
+    "name": "BIRAM RAYEUK"
+  },
+  {
+    "id": "1108142043",
+    "district_id": "110814",
+    "name": "COT BIEK"
+  },
+  {
+    "id": "1108142044",
+    "district_id": "110814",
+    "name": "MATANG ARONGAN"
+  },
+  {
+    "id": "1108142045",
+    "district_id": "110814",
+    "name": "BIRAM CUT"
+  },
+  {
+    "id": "1108142046",
+    "district_id": "110814",
+    "name": "BUKET BATEE BADAN"
+  },
+  {
+    "id": "1108142047",
+    "district_id": "110814",
+    "name": "ULEE GLEE"
+  }
+]

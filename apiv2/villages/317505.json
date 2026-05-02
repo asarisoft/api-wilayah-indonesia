@@ -1,1 +1,27 @@
-[{"id": "3175051001", "district_id": "317505", "name": "GEDONG"}, {"id": "3175051002", "district_id": "317505", "name": "BARU"}, {"id": "3175051003", "district_id": "317505", "name": "CIJANTUNG"}, {"id": "3175051004", "district_id": "317505", "name": "KALISARI"}, {"id": "3175051005", "district_id": "317505", "name": "PEKAYON"}]
+[
+  {
+    "id": "3175051001",
+    "district_id": "317505",
+    "name": "GEDONG"
+  },
+  {
+    "id": "3175051002",
+    "district_id": "317505",
+    "name": "BARU"
+  },
+  {
+    "id": "3175051003",
+    "district_id": "317505",
+    "name": "CIJANTUNG"
+  },
+  {
+    "id": "3175051004",
+    "district_id": "317505",
+    "name": "KALISARI"
+  },
+  {
+    "id": "3175051005",
+    "district_id": "317505",
+    "name": "PEKAYON"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "5302312001", "district_id": "530231", "name": "TOBU"}, {"id": "5302312002", "district_id": "530231", "name": "TUTEM"}, {"id": "5302312003", "district_id": "530231", "name": "TUNE"}, {"id": "5302312004", "district_id": "530231", "name": "BONLEU"}, {"id": "5302312005", "district_id": "530231", "name": "PUBASU"}, {"id": "5302312006", "district_id": "530231", "name": "HUETALAN"}, {"id": "5302312007", "district_id": "530231", "name": "SAUBALAN"}, {"id": "5302312008", "district_id": "530231", "name": "BESTOBE"}]
+[
+  {
+    "id": "5302312001",
+    "district_id": "530231",
+    "name": "TOBU"
+  },
+  {
+    "id": "5302312002",
+    "district_id": "530231",
+    "name": "TUTEM"
+  },
+  {
+    "id": "5302312003",
+    "district_id": "530231",
+    "name": "TUNE"
+  },
+  {
+    "id": "5302312004",
+    "district_id": "530231",
+    "name": "BONLEU"
+  },
+  {
+    "id": "5302312005",
+    "district_id": "530231",
+    "name": "PUBASU"
+  },
+  {
+    "id": "5302312006",
+    "district_id": "530231",
+    "name": "HUETALAN"
+  },
+  {
+    "id": "5302312007",
+    "district_id": "530231",
+    "name": "SAUBALAN"
+  },
+  {
+    "id": "5302312008",
+    "district_id": "530231",
+    "name": "BESTOBE"
+  }
+]

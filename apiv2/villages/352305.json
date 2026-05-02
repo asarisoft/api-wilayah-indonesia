@@ -1,1 +1,62 @@
-[{"id": "3523052001", "district_id": "352305", "name": "MEDALEM"}, {"id": "3523052002", "district_id": "352305", "name": "JATISARI"}, {"id": "3523052003", "district_id": "352305", "name": "KALIGEDE"}, {"id": "3523052004", "district_id": "352305", "name": "BANYUURIP"}, {"id": "3523052005", "district_id": "352305", "name": "LERAN"}, {"id": "3523052006", "district_id": "352305", "name": "WONOSARI"}, {"id": "3523052007", "district_id": "352305", "name": "SENDANG"}, {"id": "3523052008", "district_id": "352305", "name": "WANGLUKULON"}, {"id": "3523052009", "district_id": "352305", "name": "WANGLUWETAN"}, {"id": "3523052010", "district_id": "352305", "name": "SIDOHARJO"}, {"id": "3523052011", "district_id": "352305", "name": "RAYUNG"}, {"id": "3523052012", "district_id": "352305", "name": "KATERBAN"}]
+[
+  {
+    "id": "3523052001",
+    "district_id": "352305",
+    "name": "MEDALEM"
+  },
+  {
+    "id": "3523052002",
+    "district_id": "352305",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3523052003",
+    "district_id": "352305",
+    "name": "KALIGEDE"
+  },
+  {
+    "id": "3523052004",
+    "district_id": "352305",
+    "name": "BANYUURIP"
+  },
+  {
+    "id": "3523052005",
+    "district_id": "352305",
+    "name": "LERAN"
+  },
+  {
+    "id": "3523052006",
+    "district_id": "352305",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3523052007",
+    "district_id": "352305",
+    "name": "SENDANG"
+  },
+  {
+    "id": "3523052008",
+    "district_id": "352305",
+    "name": "WANGLUKULON"
+  },
+  {
+    "id": "3523052009",
+    "district_id": "352305",
+    "name": "WANGLUWETAN"
+  },
+  {
+    "id": "3523052010",
+    "district_id": "352305",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "3523052011",
+    "district_id": "352305",
+    "name": "RAYUNG"
+  },
+  {
+    "id": "3523052012",
+    "district_id": "352305",
+    "name": "KATERBAN"
+  }
+]

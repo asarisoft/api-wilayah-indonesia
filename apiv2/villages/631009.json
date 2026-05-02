@@ -1,1 +1,47 @@
-[{"id": "6310092001", "district_id": "631009", "name": "BUNATI"}, {"id": "6310092002", "district_id": "631009", "name": "PURWODADI"}, {"id": "6310092003", "district_id": "631009", "name": "SUMBER BARU"}, {"id": "6310092004", "district_id": "631009", "name": "KARANG INDAH"}, {"id": "6310092005", "district_id": "631009", "name": "ANGSANA"}, {"id": "6310092006", "district_id": "631009", "name": "BANJAR SARI"}, {"id": "6310092007", "district_id": "631009", "name": "BAYAN SARI"}, {"id": "6310092008", "district_id": "631009", "name": "MAKMUR"}, {"id": "6310092009", "district_id": "631009", "name": "MEKAR JAYA"}]
+[
+  {
+    "id": "6310092001",
+    "district_id": "631009",
+    "name": "BUNATI"
+  },
+  {
+    "id": "6310092002",
+    "district_id": "631009",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "6310092003",
+    "district_id": "631009",
+    "name": "SUMBER BARU"
+  },
+  {
+    "id": "6310092004",
+    "district_id": "631009",
+    "name": "KARANG INDAH"
+  },
+  {
+    "id": "6310092005",
+    "district_id": "631009",
+    "name": "ANGSANA"
+  },
+  {
+    "id": "6310092006",
+    "district_id": "631009",
+    "name": "BANJAR SARI"
+  },
+  {
+    "id": "6310092007",
+    "district_id": "631009",
+    "name": "BAYAN SARI"
+  },
+  {
+    "id": "6310092008",
+    "district_id": "631009",
+    "name": "MAKMUR"
+  },
+  {
+    "id": "6310092009",
+    "district_id": "631009",
+    "name": "MEKAR JAYA"
+  }
+]

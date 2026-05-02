@@ -1,1 +1,82 @@
-[{"id": "7202021008", "district_id": "720202", "name": "KASINGUNCU"}, {"id": "7202021009", "district_id": "720202", "name": "MAPANE"}, {"id": "7202021031", "district_id": "720202", "name": "TABALU"}, {"id": "7202022007", "district_id": "720202", "name": "BETANIA"}, {"id": "7202022010", "district_id": "720202", "name": "TOINI"}, {"id": "7202022012", "district_id": "720202", "name": "BEGA"}, {"id": "7202022013", "district_id": "720202", "name": "MASAMBA"}, {"id": "7202022014", "district_id": "720202", "name": "SAATU"}, {"id": "7202022015", "district_id": "720202", "name": "PINEDAPA"}, {"id": "7202022016", "district_id": "720202", "name": "MASANI"}, {"id": "7202022017", "district_id": "720202", "name": "TOKORONDO"}, {"id": "7202022018", "district_id": "720202", "name": "TIWAA"}, {"id": "7202022027", "district_id": "720202", "name": "LANTO JAYA"}, {"id": "7202022028", "district_id": "720202", "name": "LAPE"}, {"id": "7202022029", "district_id": "720202", "name": "TOWU"}, {"id": "7202022030", "district_id": "720202", "name": "UERALULU"}]
+[
+  {
+    "id": "7202021008",
+    "district_id": "720202",
+    "name": "KASINGUNCU"
+  },
+  {
+    "id": "7202021009",
+    "district_id": "720202",
+    "name": "MAPANE"
+  },
+  {
+    "id": "7202021031",
+    "district_id": "720202",
+    "name": "TABALU"
+  },
+  {
+    "id": "7202022007",
+    "district_id": "720202",
+    "name": "BETANIA"
+  },
+  {
+    "id": "7202022010",
+    "district_id": "720202",
+    "name": "TOINI"
+  },
+  {
+    "id": "7202022012",
+    "district_id": "720202",
+    "name": "BEGA"
+  },
+  {
+    "id": "7202022013",
+    "district_id": "720202",
+    "name": "MASAMBA"
+  },
+  {
+    "id": "7202022014",
+    "district_id": "720202",
+    "name": "SAATU"
+  },
+  {
+    "id": "7202022015",
+    "district_id": "720202",
+    "name": "PINEDAPA"
+  },
+  {
+    "id": "7202022016",
+    "district_id": "720202",
+    "name": "MASANI"
+  },
+  {
+    "id": "7202022017",
+    "district_id": "720202",
+    "name": "TOKORONDO"
+  },
+  {
+    "id": "7202022018",
+    "district_id": "720202",
+    "name": "TIWAA"
+  },
+  {
+    "id": "7202022027",
+    "district_id": "720202",
+    "name": "LANTO JAYA"
+  },
+  {
+    "id": "7202022028",
+    "district_id": "720202",
+    "name": "LAPE"
+  },
+  {
+    "id": "7202022029",
+    "district_id": "720202",
+    "name": "TOWU"
+  },
+  {
+    "id": "7202022030",
+    "district_id": "720202",
+    "name": "UERALULU"
+  }
+]

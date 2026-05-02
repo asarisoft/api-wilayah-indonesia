@@ -1,1 +1,77 @@
-[{"id": "6103112001", "district_id": "610311", "name": "PULAU TAYAN UTARA"}, {"id": "6103112002", "district_id": "610311", "name": "KAWAT"}, {"id": "6103112003", "district_id": "610311", "name": "PEDALAMAN"}, {"id": "6103112004", "district_id": "610311", "name": "BALAI INGIN"}, {"id": "6103112005", "district_id": "610311", "name": "LALANG"}, {"id": "6103112006", "district_id": "610311", "name": "CEMPEDAK"}, {"id": "6103112007", "district_id": "610311", "name": "MELUGAI"}, {"id": "6103112008", "district_id": "610311", "name": "EMBERAS"}, {"id": "6103112009", "district_id": "610311", "name": "BEGINJAN"}, {"id": "6103112010", "district_id": "610311", "name": "SEJOTANG"}, {"id": "6103112011", "district_id": "610311", "name": "SEBEMBAN"}, {"id": "6103112012", "district_id": "610311", "name": "SUBAH"}, {"id": "6103112013", "district_id": "610311", "name": "SUNGAI JAMAN"}, {"id": "6103112014", "district_id": "610311", "name": "TANJUNG BUNUT"}, {"id": "6103112015", "district_id": "610311", "name": "TEBANG BENUA"}]
+[
+  {
+    "id": "6103112001",
+    "district_id": "610311",
+    "name": "PULAU TAYAN UTARA"
+  },
+  {
+    "id": "6103112002",
+    "district_id": "610311",
+    "name": "KAWAT"
+  },
+  {
+    "id": "6103112003",
+    "district_id": "610311",
+    "name": "PEDALAMAN"
+  },
+  {
+    "id": "6103112004",
+    "district_id": "610311",
+    "name": "BALAI INGIN"
+  },
+  {
+    "id": "6103112005",
+    "district_id": "610311",
+    "name": "LALANG"
+  },
+  {
+    "id": "6103112006",
+    "district_id": "610311",
+    "name": "CEMPEDAK"
+  },
+  {
+    "id": "6103112007",
+    "district_id": "610311",
+    "name": "MELUGAI"
+  },
+  {
+    "id": "6103112008",
+    "district_id": "610311",
+    "name": "EMBERAS"
+  },
+  {
+    "id": "6103112009",
+    "district_id": "610311",
+    "name": "BEGINJAN"
+  },
+  {
+    "id": "6103112010",
+    "district_id": "610311",
+    "name": "SEJOTANG"
+  },
+  {
+    "id": "6103112011",
+    "district_id": "610311",
+    "name": "SEBEMBAN"
+  },
+  {
+    "id": "6103112012",
+    "district_id": "610311",
+    "name": "SUBAH"
+  },
+  {
+    "id": "6103112013",
+    "district_id": "610311",
+    "name": "SUNGAI JAMAN"
+  },
+  {
+    "id": "6103112014",
+    "district_id": "610311",
+    "name": "TANJUNG BUNUT"
+  },
+  {
+    "id": "6103112015",
+    "district_id": "610311",
+    "name": "TEBANG BENUA"
+  }
+]

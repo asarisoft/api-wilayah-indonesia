@@ -1,1 +1,87 @@
-[{"id": "7404221005", "district_id": "740422", "name": "WATUMOTOBE"}, {"id": "7404221006", "district_id": "740422", "name": "WAKANGKA"}, {"id": "7404222001", "district_id": "740422", "name": "BARANGKA"}, {"id": "7404222002", "district_id": "740422", "name": "WAKALAMBE"}, {"id": "7404222003", "district_id": "740422", "name": "BONEATIRO"}, {"id": "7404222004", "district_id": "740422", "name": "LAMBUSANGO"}, {"id": "7404222007", "district_id": "740422", "name": "TODANGA"}, {"id": "7404222008", "district_id": "740422", "name": "TUANGILA"}, {"id": "7404222009", "district_id": "740422", "name": "WAONDO WOLIO"}, {"id": "7404222010", "district_id": "740422", "name": "BUKIT ASRI"}, {"id": "7404222011", "district_id": "740422", "name": "KAMELANTA"}, {"id": "7404222012", "district_id": "740422", "name": "LAMBUSANGO TIMUR"}, {"id": "7404222013", "district_id": "740422", "name": "WAKULI"}, {"id": "7404222014", "district_id": "740422", "name": "MABULUGO"}, {"id": "7404222015", "district_id": "740422", "name": "WAMBULU"}, {"id": "7404222016", "district_id": "740422", "name": "TUMADA"}, {"id": "7404222017", "district_id": "740422", "name": "BONEATIRO BARAT"}]
+[
+  {
+    "id": "7404221005",
+    "district_id": "740422",
+    "name": "WATUMOTOBE"
+  },
+  {
+    "id": "7404221006",
+    "district_id": "740422",
+    "name": "WAKANGKA"
+  },
+  {
+    "id": "7404222001",
+    "district_id": "740422",
+    "name": "BARANGKA"
+  },
+  {
+    "id": "7404222002",
+    "district_id": "740422",
+    "name": "WAKALAMBE"
+  },
+  {
+    "id": "7404222003",
+    "district_id": "740422",
+    "name": "BONEATIRO"
+  },
+  {
+    "id": "7404222004",
+    "district_id": "740422",
+    "name": "LAMBUSANGO"
+  },
+  {
+    "id": "7404222007",
+    "district_id": "740422",
+    "name": "TODANGA"
+  },
+  {
+    "id": "7404222008",
+    "district_id": "740422",
+    "name": "TUANGILA"
+  },
+  {
+    "id": "7404222009",
+    "district_id": "740422",
+    "name": "WAONDO WOLIO"
+  },
+  {
+    "id": "7404222010",
+    "district_id": "740422",
+    "name": "BUKIT ASRI"
+  },
+  {
+    "id": "7404222011",
+    "district_id": "740422",
+    "name": "KAMELANTA"
+  },
+  {
+    "id": "7404222012",
+    "district_id": "740422",
+    "name": "LAMBUSANGO TIMUR"
+  },
+  {
+    "id": "7404222013",
+    "district_id": "740422",
+    "name": "WAKULI"
+  },
+  {
+    "id": "7404222014",
+    "district_id": "740422",
+    "name": "MABULUGO"
+  },
+  {
+    "id": "7404222015",
+    "district_id": "740422",
+    "name": "WAMBULU"
+  },
+  {
+    "id": "7404222016",
+    "district_id": "740422",
+    "name": "TUMADA"
+  },
+  {
+    "id": "7404222017",
+    "district_id": "740422",
+    "name": "BONEATIRO BARAT"
+  }
+]

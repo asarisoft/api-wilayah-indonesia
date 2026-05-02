@@ -1,1 +1,32 @@
-[{"id": "7601031001", "district_id": "760103", "name": "BARAS"}, {"id": "7601032002", "district_id": "760103", "name": "BALANTI"}, {"id": "7601032003", "district_id": "760103", "name": "MOTU"}, {"id": "7601032012", "district_id": "760103", "name": "BULU PARIGI"}, {"id": "7601032013", "district_id": "760103", "name": "TOWONI"}, {"id": "7601032016", "district_id": "760103", "name": "KASANO"}]
+[
+  {
+    "id": "7601031001",
+    "district_id": "760103",
+    "name": "BARAS"
+  },
+  {
+    "id": "7601032002",
+    "district_id": "760103",
+    "name": "BALANTI"
+  },
+  {
+    "id": "7601032003",
+    "district_id": "760103",
+    "name": "MOTU"
+  },
+  {
+    "id": "7601032012",
+    "district_id": "760103",
+    "name": "BULU PARIGI"
+  },
+  {
+    "id": "7601032013",
+    "district_id": "760103",
+    "name": "TOWONI"
+  },
+  {
+    "id": "7601032016",
+    "district_id": "760103",
+    "name": "KASANO"
+  }
+]

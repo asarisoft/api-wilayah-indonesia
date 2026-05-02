@@ -1,1 +1,42 @@
-[{"id": "717201", "regency_id": "7172", "name": "LEMBEH SELATAN"}, {"id": "717202", "regency_id": "7172", "name": "MADIDIR"}, {"id": "717203", "regency_id": "7172", "name": "RANOWULU"}, {"id": "717204", "regency_id": "7172", "name": "AERTEMBAGA"}, {"id": "717205", "regency_id": "7172", "name": "MATUARI"}, {"id": "717206", "regency_id": "7172", "name": "GIRIAN"}, {"id": "717207", "regency_id": "7172", "name": "MAESA"}, {"id": "717208", "regency_id": "7172", "name": "LEMBEH UTARA"}]
+[
+  {
+    "id": "717201",
+    "regency_id": "7172",
+    "name": "LEMBEH SELATAN"
+  },
+  {
+    "id": "717202",
+    "regency_id": "7172",
+    "name": "MADIDIR"
+  },
+  {
+    "id": "717203",
+    "regency_id": "7172",
+    "name": "RANOWULU"
+  },
+  {
+    "id": "717204",
+    "regency_id": "7172",
+    "name": "AERTEMBAGA"
+  },
+  {
+    "id": "717205",
+    "regency_id": "7172",
+    "name": "MATUARI"
+  },
+  {
+    "id": "717206",
+    "regency_id": "7172",
+    "name": "GIRIAN"
+  },
+  {
+    "id": "717207",
+    "regency_id": "7172",
+    "name": "MAESA"
+  },
+  {
+    "id": "717208",
+    "regency_id": "7172",
+    "name": "LEMBEH UTARA"
+  }
+]

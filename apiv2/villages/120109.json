@@ -1,1 +1,47 @@
-[{"id": "1201091001", "district_id": "120109", "name": "SOSOR GADONG"}, {"id": "1201092002", "district_id": "120109", "name": "UNTE BOANG"}, {"id": "1201092003", "district_id": "120109", "name": "SIBINTANG"}, {"id": "1201092004", "district_id": "120109", "name": "BARAMBANG"}, {"id": "1201092005", "district_id": "120109", "name": "SIANTAR CA"}, {"id": "1201092006", "district_id": "120109", "name": "MUARA BOLAK"}, {"id": "1201092007", "district_id": "120109", "name": "HUTA TOMBAK"}, {"id": "1201092008", "district_id": "120109", "name": "SIANTAR DOLOK"}, {"id": "1201092009", "district_id": "120109", "name": "BARINGIN"}]
+[
+  {
+    "id": "1201091001",
+    "district_id": "120109",
+    "name": "SOSOR GADONG"
+  },
+  {
+    "id": "1201092002",
+    "district_id": "120109",
+    "name": "UNTE BOANG"
+  },
+  {
+    "id": "1201092003",
+    "district_id": "120109",
+    "name": "SIBINTANG"
+  },
+  {
+    "id": "1201092004",
+    "district_id": "120109",
+    "name": "BARAMBANG"
+  },
+  {
+    "id": "1201092005",
+    "district_id": "120109",
+    "name": "SIANTAR CA"
+  },
+  {
+    "id": "1201092006",
+    "district_id": "120109",
+    "name": "MUARA BOLAK"
+  },
+  {
+    "id": "1201092007",
+    "district_id": "120109",
+    "name": "HUTA TOMBAK"
+  },
+  {
+    "id": "1201092008",
+    "district_id": "120109",
+    "name": "SIANTAR DOLOK"
+  },
+  {
+    "id": "1201092009",
+    "district_id": "120109",
+    "name": "BARINGIN"
+  }
+]

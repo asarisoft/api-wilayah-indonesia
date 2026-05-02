@@ -1,1 +1,47 @@
-[{"id": "9106182001", "district_id": "910618", "name": "ANDEI"}, {"id": "9106182002", "district_id": "910618", "name": "SYORIBO"}, {"id": "9106182003", "district_id": "910618", "name": "SAURIBRU"}, {"id": "9106182004", "district_id": "910618", "name": "MANGGARI"}, {"id": "9106182005", "district_id": "910618", "name": "BAWEI"}, {"id": "9106182006", "district_id": "910618", "name": "SAURI"}, {"id": "9106182007", "district_id": "910618", "name": "ANDEI SUP"}, {"id": "9106182008", "district_id": "910618", "name": "SURDORI"}, {"id": "9106182009", "district_id": "910618", "name": "KORYAKAM"}]
+[
+  {
+    "id": "9106182001",
+    "district_id": "910618",
+    "name": "ANDEI"
+  },
+  {
+    "id": "9106182002",
+    "district_id": "910618",
+    "name": "SYORIBO"
+  },
+  {
+    "id": "9106182003",
+    "district_id": "910618",
+    "name": "SAURIBRU"
+  },
+  {
+    "id": "9106182004",
+    "district_id": "910618",
+    "name": "MANGGARI"
+  },
+  {
+    "id": "9106182005",
+    "district_id": "910618",
+    "name": "BAWEI"
+  },
+  {
+    "id": "9106182006",
+    "district_id": "910618",
+    "name": "SAURI"
+  },
+  {
+    "id": "9106182007",
+    "district_id": "910618",
+    "name": "ANDEI SUP"
+  },
+  {
+    "id": "9106182008",
+    "district_id": "910618",
+    "name": "SURDORI"
+  },
+  {
+    "id": "9106182009",
+    "district_id": "910618",
+    "name": "KORYAKAM"
+  }
+]

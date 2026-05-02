@@ -1,1 +1,47 @@
-[{"id": "3604142001", "district_id": "360414", "name": "TANARA"}, {"id": "3604142002", "district_id": "360414", "name": "CERUKCUK"}, {"id": "3604142003", "district_id": "360414", "name": "TENJOAYU"}, {"id": "3604142004", "district_id": "360414", "name": "SUKAMANAH"}, {"id": "3604142005", "district_id": "360414", "name": "LEMPUYANG"}, {"id": "3604142006", "district_id": "360414", "name": "SIREMEN"}, {"id": "3604142007", "district_id": "360414", "name": "BENDUNG"}, {"id": "3604142008", "district_id": "360414", "name": "PEDALEMAN"}, {"id": "3604142009", "district_id": "360414", "name": "CIBODAS"}]
+[
+  {
+    "id": "3604142001",
+    "district_id": "360414",
+    "name": "TANARA"
+  },
+  {
+    "id": "3604142002",
+    "district_id": "360414",
+    "name": "CERUKCUK"
+  },
+  {
+    "id": "3604142003",
+    "district_id": "360414",
+    "name": "TENJOAYU"
+  },
+  {
+    "id": "3604142004",
+    "district_id": "360414",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3604142005",
+    "district_id": "360414",
+    "name": "LEMPUYANG"
+  },
+  {
+    "id": "3604142006",
+    "district_id": "360414",
+    "name": "SIREMEN"
+  },
+  {
+    "id": "3604142007",
+    "district_id": "360414",
+    "name": "BENDUNG"
+  },
+  {
+    "id": "3604142008",
+    "district_id": "360414",
+    "name": "PEDALEMAN"
+  },
+  {
+    "id": "3604142009",
+    "district_id": "360414",
+    "name": "CIBODAS"
+  }
+]

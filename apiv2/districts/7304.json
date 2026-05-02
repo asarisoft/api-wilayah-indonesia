@@ -1,1 +1,57 @@
-[{"id": "730401", "regency_id": "7304", "name": "BANGKALA"}, {"id": "730402", "regency_id": "7304", "name": "TAMALATEA"}, {"id": "730403", "regency_id": "7304", "name": "BINAMU"}, {"id": "730404", "regency_id": "7304", "name": "BATANG"}, {"id": "730405", "regency_id": "7304", "name": "KELARA"}, {"id": "730406", "regency_id": "7304", "name": "BANGKALA BARAT"}, {"id": "730407", "regency_id": "7304", "name": "BONTORAMBA"}, {"id": "730408", "regency_id": "7304", "name": "TURATEA"}, {"id": "730409", "regency_id": "7304", "name": "ARUNGKEKE"}, {"id": "730410", "regency_id": "7304", "name": "RUMBIA"}, {"id": "730411", "regency_id": "7304", "name": "TAROWANG"}]
+[
+  {
+    "id": "730401",
+    "regency_id": "7304",
+    "name": "BANGKALA"
+  },
+  {
+    "id": "730402",
+    "regency_id": "7304",
+    "name": "TAMALATEA"
+  },
+  {
+    "id": "730403",
+    "regency_id": "7304",
+    "name": "BINAMU"
+  },
+  {
+    "id": "730404",
+    "regency_id": "7304",
+    "name": "BATANG"
+  },
+  {
+    "id": "730405",
+    "regency_id": "7304",
+    "name": "KELARA"
+  },
+  {
+    "id": "730406",
+    "regency_id": "7304",
+    "name": "BANGKALA BARAT"
+  },
+  {
+    "id": "730407",
+    "regency_id": "7304",
+    "name": "BONTORAMBA"
+  },
+  {
+    "id": "730408",
+    "regency_id": "7304",
+    "name": "TURATEA"
+  },
+  {
+    "id": "730409",
+    "regency_id": "7304",
+    "name": "ARUNGKEKE"
+  },
+  {
+    "id": "730410",
+    "regency_id": "7304",
+    "name": "RUMBIA"
+  },
+  {
+    "id": "730411",
+    "regency_id": "7304",
+    "name": "TAROWANG"
+  }
+]

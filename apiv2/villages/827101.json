@@ -1,1 +1,32 @@
-[{"id": "8271011001", "district_id": "827101", "name": "JAMBULA"}, {"id": "8271011002", "district_id": "827101", "name": "FORAMADIAHI"}, {"id": "8271011003", "district_id": "827101", "name": "KASTELA"}, {"id": "8271011004", "district_id": "827101", "name": "RUA"}, {"id": "8271011005", "district_id": "827101", "name": "AFE TADUMA"}, {"id": "8271011019", "district_id": "827101", "name": "DORPEDU"}]
+[
+  {
+    "id": "8271011001",
+    "district_id": "827101",
+    "name": "JAMBULA"
+  },
+  {
+    "id": "8271011002",
+    "district_id": "827101",
+    "name": "FORAMADIAHI"
+  },
+  {
+    "id": "8271011003",
+    "district_id": "827101",
+    "name": "KASTELA"
+  },
+  {
+    "id": "8271011004",
+    "district_id": "827101",
+    "name": "RUA"
+  },
+  {
+    "id": "8271011005",
+    "district_id": "827101",
+    "name": "AFE TADUMA"
+  },
+  {
+    "id": "8271011019",
+    "district_id": "827101",
+    "name": "DORPEDU"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "3206212001", "district_id": "320621", "name": "SIRNAJAYA"}, {"id": "3206212002", "district_id": "320621", "name": "KARANGJAYA"}, {"id": "3206212003", "district_id": "320621", "name": "KARANG LAYUNG"}, {"id": "3206212004", "district_id": "320621", "name": "CITALAHAB"}]
+[
+  {
+    "id": "3206212001",
+    "district_id": "320621",
+    "name": "SIRNAJAYA"
+  },
+  {
+    "id": "3206212002",
+    "district_id": "320621",
+    "name": "KARANGJAYA"
+  },
+  {
+    "id": "3206212003",
+    "district_id": "320621",
+    "name": "KARANG LAYUNG"
+  },
+  {
+    "id": "3206212004",
+    "district_id": "320621",
+    "name": "CITALAHAB"
+  }
+]

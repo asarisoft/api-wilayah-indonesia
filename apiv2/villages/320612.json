@@ -1,1 +1,62 @@
-[{"id": "3206122001", "district_id": "320612", "name": "PARUMASAN"}, {"id": "3206122002", "district_id": "320612", "name": "CUKANGKAWUNG"}, {"id": "3206122003", "district_id": "320612", "name": "SODONGHILIR"}, {"id": "3206122004", "district_id": "320612", "name": "CIKALONG"}, {"id": "3206122005", "district_id": "320612", "name": "CIPAINGEUN"}, {"id": "3206122006", "district_id": "320612", "name": "LEUWIDULANG"}, {"id": "3206122007", "district_id": "320612", "name": "MUNCANG"}, {"id": "3206122008", "district_id": "320612", "name": "SEPATNUNGGAL"}, {"id": "3206122009", "district_id": "320612", "name": "CUKANGJAYAGUNA"}, {"id": "3206122010", "district_id": "320612", "name": "RAKSAJAYA"}, {"id": "3206122011", "district_id": "320612", "name": "PAKALONGAN"}, {"id": "3206122012", "district_id": "320612", "name": "SUKABAKTI"}]
+[
+  {
+    "id": "3206122001",
+    "district_id": "320612",
+    "name": "PARUMASAN"
+  },
+  {
+    "id": "3206122002",
+    "district_id": "320612",
+    "name": "CUKANGKAWUNG"
+  },
+  {
+    "id": "3206122003",
+    "district_id": "320612",
+    "name": "SODONGHILIR"
+  },
+  {
+    "id": "3206122004",
+    "district_id": "320612",
+    "name": "CIKALONG"
+  },
+  {
+    "id": "3206122005",
+    "district_id": "320612",
+    "name": "CIPAINGEUN"
+  },
+  {
+    "id": "3206122006",
+    "district_id": "320612",
+    "name": "LEUWIDULANG"
+  },
+  {
+    "id": "3206122007",
+    "district_id": "320612",
+    "name": "MUNCANG"
+  },
+  {
+    "id": "3206122008",
+    "district_id": "320612",
+    "name": "SEPATNUNGGAL"
+  },
+  {
+    "id": "3206122009",
+    "district_id": "320612",
+    "name": "CUKANGJAYAGUNA"
+  },
+  {
+    "id": "3206122010",
+    "district_id": "320612",
+    "name": "RAKSAJAYA"
+  },
+  {
+    "id": "3206122011",
+    "district_id": "320612",
+    "name": "PAKALONGAN"
+  },
+  {
+    "id": "3206122012",
+    "district_id": "320612",
+    "name": "SUKABAKTI"
+  }
+]

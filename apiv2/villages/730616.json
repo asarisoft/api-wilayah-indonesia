@@ -1,1 +1,47 @@
-[{"id": "7306161009", "district_id": "730616", "name": "BONTORAMBA"}, {"id": "7306162001", "district_id": "730616", "name": "SENGKA"}, {"id": "7306162002", "district_id": "730616", "name": "TANRARA"}, {"id": "7306162003", "district_id": "730616", "name": "TINDANG"}, {"id": "7306162004", "district_id": "730616", "name": "PA'BUNDUKANG"}, {"id": "7306162005", "district_id": "730616", "name": "BONTOSUNGGU"}, {"id": "7306162006", "district_id": "730616", "name": "SALAJANGKI"}, {"id": "7306162007", "district_id": "730616", "name": "SALAJO"}, {"id": "7306162008", "district_id": "730616", "name": "JIPANG"}]
+[
+  {
+    "id": "7306161009",
+    "district_id": "730616",
+    "name": "BONTORAMBA"
+  },
+  {
+    "id": "7306162001",
+    "district_id": "730616",
+    "name": "SENGKA"
+  },
+  {
+    "id": "7306162002",
+    "district_id": "730616",
+    "name": "TANRARA"
+  },
+  {
+    "id": "7306162003",
+    "district_id": "730616",
+    "name": "TINDANG"
+  },
+  {
+    "id": "7306162004",
+    "district_id": "730616",
+    "name": "PA'BUNDUKANG"
+  },
+  {
+    "id": "7306162005",
+    "district_id": "730616",
+    "name": "BONTOSUNGGU"
+  },
+  {
+    "id": "7306162006",
+    "district_id": "730616",
+    "name": "SALAJANGKI"
+  },
+  {
+    "id": "7306162007",
+    "district_id": "730616",
+    "name": "SALAJO"
+  },
+  {
+    "id": "7306162008",
+    "district_id": "730616",
+    "name": "JIPANG"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3209172002", "district_id": "320917", "name": "CILUKRAK"}, {"id": "3209172003", "district_id": "320917", "name": "KEPUH"}, {"id": "3209172004", "district_id": "320917", "name": "BALERANTE"}, {"id": "3209172005", "district_id": "320917", "name": "PANONGAN"}, {"id": "3209172006", "district_id": "320917", "name": "BEBERAN"}, {"id": "3209172007", "district_id": "320917", "name": "SEMPLO"}, {"id": "3209172008", "district_id": "320917", "name": "PALIMANAN TIMUR"}, {"id": "3209172011", "district_id": "320917", "name": "PEGAGAN"}, {"id": "3209172012", "district_id": "320917", "name": "LUNGBENDA"}, {"id": "3209172013", "district_id": "320917", "name": "CIAWI"}, {"id": "3209172014", "district_id": "320917", "name": "TEGALKARANG"}, {"id": "3209172015", "district_id": "320917", "name": "CENGKUANG"}]
+[
+  {
+    "id": "3209172002",
+    "district_id": "320917",
+    "name": "CILUKRAK"
+  },
+  {
+    "id": "3209172003",
+    "district_id": "320917",
+    "name": "KEPUH"
+  },
+  {
+    "id": "3209172004",
+    "district_id": "320917",
+    "name": "BALERANTE"
+  },
+  {
+    "id": "3209172005",
+    "district_id": "320917",
+    "name": "PANONGAN"
+  },
+  {
+    "id": "3209172006",
+    "district_id": "320917",
+    "name": "BEBERAN"
+  },
+  {
+    "id": "3209172007",
+    "district_id": "320917",
+    "name": "SEMPLO"
+  },
+  {
+    "id": "3209172008",
+    "district_id": "320917",
+    "name": "PALIMANAN TIMUR"
+  },
+  {
+    "id": "3209172011",
+    "district_id": "320917",
+    "name": "PEGAGAN"
+  },
+  {
+    "id": "3209172012",
+    "district_id": "320917",
+    "name": "LUNGBENDA"
+  },
+  {
+    "id": "3209172013",
+    "district_id": "320917",
+    "name": "CIAWI"
+  },
+  {
+    "id": "3209172014",
+    "district_id": "320917",
+    "name": "TEGALKARANG"
+  },
+  {
+    "id": "3209172015",
+    "district_id": "320917",
+    "name": "CENGKUANG"
+  }
+]

@@ -1,1 +1,92 @@
-[{"id": "9202151001", "district_id": "920215", "name": "SOWI"}, {"id": "9202151002", "district_id": "920215", "name": "ANDAY"}, {"id": "9202152003", "district_id": "920215", "name": "KATEBU"}, {"id": "9202152004", "district_id": "920215", "name": "MASYEPI"}, {"id": "9202152005", "district_id": "920215", "name": "WARMOMI"}, {"id": "9202152006", "district_id": "920215", "name": "DIHARA"}, {"id": "9202152007", "district_id": "920215", "name": "WALURI"}, {"id": "9202152008", "district_id": "920215", "name": "MARUNI"}, {"id": "9202152009", "district_id": "920215", "name": "MISAPMEYSI"}, {"id": "9202152010", "district_id": "920215", "name": "WASAI"}, {"id": "9202152011", "district_id": "920215", "name": "ANGGRESI"}, {"id": "9202152012", "district_id": "920215", "name": "MUPI"}, {"id": "9202152013", "district_id": "920215", "name": "WARSWAMI"}, {"id": "9202152014", "district_id": "920215", "name": "ACEMO"}, {"id": "9202152015", "district_id": "920215", "name": "WAMESA"}, {"id": "9202152016", "district_id": "920215", "name": "DOBUT"}, {"id": "9202152017", "district_id": "920215", "name": "WARKOMI"}, {"id": "9202152018", "district_id": "920215", "name": "NGUNIMBOUW"}]
+[
+  {
+    "id": "9202151001",
+    "district_id": "920215",
+    "name": "SOWI"
+  },
+  {
+    "id": "9202151002",
+    "district_id": "920215",
+    "name": "ANDAY"
+  },
+  {
+    "id": "9202152003",
+    "district_id": "920215",
+    "name": "KATEBU"
+  },
+  {
+    "id": "9202152004",
+    "district_id": "920215",
+    "name": "MASYEPI"
+  },
+  {
+    "id": "9202152005",
+    "district_id": "920215",
+    "name": "WARMOMI"
+  },
+  {
+    "id": "9202152006",
+    "district_id": "920215",
+    "name": "DIHARA"
+  },
+  {
+    "id": "9202152007",
+    "district_id": "920215",
+    "name": "WALURI"
+  },
+  {
+    "id": "9202152008",
+    "district_id": "920215",
+    "name": "MARUNI"
+  },
+  {
+    "id": "9202152009",
+    "district_id": "920215",
+    "name": "MISAPMEYSI"
+  },
+  {
+    "id": "9202152010",
+    "district_id": "920215",
+    "name": "WASAI"
+  },
+  {
+    "id": "9202152011",
+    "district_id": "920215",
+    "name": "ANGGRESI"
+  },
+  {
+    "id": "9202152012",
+    "district_id": "920215",
+    "name": "MUPI"
+  },
+  {
+    "id": "9202152013",
+    "district_id": "920215",
+    "name": "WARSWAMI"
+  },
+  {
+    "id": "9202152014",
+    "district_id": "920215",
+    "name": "ACEMO"
+  },
+  {
+    "id": "9202152015",
+    "district_id": "920215",
+    "name": "WAMESA"
+  },
+  {
+    "id": "9202152016",
+    "district_id": "920215",
+    "name": "DOBUT"
+  },
+  {
+    "id": "9202152017",
+    "district_id": "920215",
+    "name": "WARKOMI"
+  },
+  {
+    "id": "9202152018",
+    "district_id": "920215",
+    "name": "NGUNIMBOUW"
+  }
+]

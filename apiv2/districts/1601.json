@@ -1,1 +1,67 @@
-[{"id": "160107", "regency_id": "1601", "name": "SOSOH BUAY RAYAP"}, {"id": "160108", "regency_id": "1601", "name": "PENGANDONAN"}, {"id": "160109", "regency_id": "1601", "name": "PENINJAUAN"}, {"id": "160113", "regency_id": "1601", "name": "BATURAJA BARAT"}, {"id": "160114", "regency_id": "1601", "name": "BATURAJA TIMUR"}, {"id": "160120", "regency_id": "1601", "name": "ULU OGAN"}, {"id": "160121", "regency_id": "1601", "name": "SEMIDANG AJI"}, {"id": "160122", "regency_id": "1601", "name": "LUBUK BATANG"}, {"id": "160128", "regency_id": "1601", "name": "LENGKITI"}, {"id": "160129", "regency_id": "1601", "name": "SINAR PENINJAUAN"}, {"id": "160130", "regency_id": "1601", "name": "LUBUK RAJA"}, {"id": "160131", "regency_id": "1601", "name": "MUARA JAYA"}, {"id": "160132", "regency_id": "1601", "name": "KEDATON PENINJAUAN RAYA"}]
+[
+  {
+    "id": "160107",
+    "regency_id": "1601",
+    "name": "SOSOH BUAY RAYAP"
+  },
+  {
+    "id": "160108",
+    "regency_id": "1601",
+    "name": "PENGANDONAN"
+  },
+  {
+    "id": "160109",
+    "regency_id": "1601",
+    "name": "PENINJAUAN"
+  },
+  {
+    "id": "160113",
+    "regency_id": "1601",
+    "name": "BATURAJA BARAT"
+  },
+  {
+    "id": "160114",
+    "regency_id": "1601",
+    "name": "BATURAJA TIMUR"
+  },
+  {
+    "id": "160120",
+    "regency_id": "1601",
+    "name": "ULU OGAN"
+  },
+  {
+    "id": "160121",
+    "regency_id": "1601",
+    "name": "SEMIDANG AJI"
+  },
+  {
+    "id": "160122",
+    "regency_id": "1601",
+    "name": "LUBUK BATANG"
+  },
+  {
+    "id": "160128",
+    "regency_id": "1601",
+    "name": "LENGKITI"
+  },
+  {
+    "id": "160129",
+    "regency_id": "1601",
+    "name": "SINAR PENINJAUAN"
+  },
+  {
+    "id": "160130",
+    "regency_id": "1601",
+    "name": "LUBUK RAJA"
+  },
+  {
+    "id": "160131",
+    "regency_id": "1601",
+    "name": "MUARA JAYA"
+  },
+  {
+    "id": "160132",
+    "regency_id": "1601",
+    "name": "KEDATON PENINJAUAN RAYA"
+  }
+]

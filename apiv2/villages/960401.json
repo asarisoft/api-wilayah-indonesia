@@ -1,1 +1,52 @@
-[{"id": "9604012001", "district_id": "960401", "name": "FEF"}, {"id": "9604012002", "district_id": "960401", "name": "WAYO"}, {"id": "9604012003", "district_id": "960401", "name": "SYUBUN"}, {"id": "9604012004", "district_id": "960401", "name": "SIKOR"}, {"id": "9604012005", "district_id": "960401", "name": "IBE"}, {"id": "9604012006", "district_id": "960401", "name": "SYUNAM"}, {"id": "9604012007", "district_id": "960401", "name": "BANFOT"}, {"id": "9604012008", "district_id": "960401", "name": "IWIN"}, {"id": "9604012009", "district_id": "960401", "name": "ESYUM"}, {"id": "9604012010", "district_id": "960401", "name": "IMOR"}]
+[
+  {
+    "id": "9604012001",
+    "district_id": "960401",
+    "name": "FEF"
+  },
+  {
+    "id": "9604012002",
+    "district_id": "960401",
+    "name": "WAYO"
+  },
+  {
+    "id": "9604012003",
+    "district_id": "960401",
+    "name": "SYUBUN"
+  },
+  {
+    "id": "9604012004",
+    "district_id": "960401",
+    "name": "SIKOR"
+  },
+  {
+    "id": "9604012005",
+    "district_id": "960401",
+    "name": "IBE"
+  },
+  {
+    "id": "9604012006",
+    "district_id": "960401",
+    "name": "SYUNAM"
+  },
+  {
+    "id": "9604012007",
+    "district_id": "960401",
+    "name": "BANFOT"
+  },
+  {
+    "id": "9604012008",
+    "district_id": "960401",
+    "name": "IWIN"
+  },
+  {
+    "id": "9604012009",
+    "district_id": "960401",
+    "name": "ESYUM"
+  },
+  {
+    "id": "9604012010",
+    "district_id": "960401",
+    "name": "IMOR"
+  }
+]

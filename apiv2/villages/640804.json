@@ -1,1 +1,22 @@
-[{"id": "6408041010", "district_id": "640804", "name": "TELUK LINGGA"}, {"id": "6408042001", "district_id": "640804", "name": "SANGATTA UTARA"}, {"id": "6408042011", "district_id": "640804", "name": "SINGA GEMBARA"}, {"id": "6408042012", "district_id": "640804", "name": "SWARGA BARA"}]
+[
+  {
+    "id": "6408041010",
+    "district_id": "640804",
+    "name": "TELUK LINGGA"
+  },
+  {
+    "id": "6408042001",
+    "district_id": "640804",
+    "name": "SANGATTA UTARA"
+  },
+  {
+    "id": "6408042011",
+    "district_id": "640804",
+    "name": "SINGA GEMBARA"
+  },
+  {
+    "id": "6408042012",
+    "district_id": "640804",
+    "name": "SWARGA BARA"
+  }
+]

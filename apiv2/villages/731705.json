@@ -1,1 +1,52 @@
-[{"id": "7317051001", "district_id": "731705", "name": "NOLING"}, {"id": "7317052002", "district_id": "731705", "name": "TANJONG"}, {"id": "7317052003", "district_id": "731705", "name": "BUNTU BATU"}, {"id": "7317052004", "district_id": "731705", "name": "TAMPUMIA"}, {"id": "7317052005", "district_id": "731705", "name": "PADANG TUJU"}, {"id": "7317052006", "district_id": "731705", "name": "PADANG KAMBURI"}, {"id": "7317052007", "district_id": "731705", "name": "MALENGGANG"}, {"id": "7317052008", "district_id": "731705", "name": "BALUTAN"}, {"id": "7317052009", "district_id": "731705", "name": "PADANG MA'BUD"}, {"id": "7317052010", "district_id": "731705", "name": "SALUINDUK"}]
+[
+  {
+    "id": "7317051001",
+    "district_id": "731705",
+    "name": "NOLING"
+  },
+  {
+    "id": "7317052002",
+    "district_id": "731705",
+    "name": "TANJONG"
+  },
+  {
+    "id": "7317052003",
+    "district_id": "731705",
+    "name": "BUNTU BATU"
+  },
+  {
+    "id": "7317052004",
+    "district_id": "731705",
+    "name": "TAMPUMIA"
+  },
+  {
+    "id": "7317052005",
+    "district_id": "731705",
+    "name": "PADANG TUJU"
+  },
+  {
+    "id": "7317052006",
+    "district_id": "731705",
+    "name": "PADANG KAMBURI"
+  },
+  {
+    "id": "7317052007",
+    "district_id": "731705",
+    "name": "MALENGGANG"
+  },
+  {
+    "id": "7317052008",
+    "district_id": "731705",
+    "name": "BALUTAN"
+  },
+  {
+    "id": "7317052009",
+    "district_id": "731705",
+    "name": "PADANG MA'BUD"
+  },
+  {
+    "id": "7317052010",
+    "district_id": "731705",
+    "name": "SALUINDUK"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "1208211009", "district_id": "120821", "name": "KERASAAN I"}, {"id": "1208211010", "district_id": "120821", "name": "PEMATANG BANDAR"}, {"id": "1208212001", "district_id": "120821", "name": "PURWOSARI"}, {"id": "1208212002", "district_id": "120821", "name": "TALUN MADEAR"}, {"id": "1208212003", "district_id": "120821", "name": "MARIAH BANDAR"}, {"id": "1208212004", "district_id": "120821", "name": "KANDANGAN"}, {"id": "1208212005", "district_id": "120821", "name": "PARDOMUAN NAULI"}, {"id": "1208212006", "district_id": "120821", "name": "PURBA GANDA"}, {"id": "1208212007", "district_id": "120821", "name": "KERASAAN II"}, {"id": "1208212008", "district_id": "120821", "name": "BANDAR MANIS"}, {"id": "1208212011", "district_id": "120821", "name": "WONOREJO"}, {"id": "1208212012", "district_id": "120821", "name": "TALUN REJO"}, {"id": "1208212013", "district_id": "120821", "name": "PURWODADI"}]
+[
+  {
+    "id": "1208211009",
+    "district_id": "120821",
+    "name": "KERASAAN I"
+  },
+  {
+    "id": "1208211010",
+    "district_id": "120821",
+    "name": "PEMATANG BANDAR"
+  },
+  {
+    "id": "1208212001",
+    "district_id": "120821",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "1208212002",
+    "district_id": "120821",
+    "name": "TALUN MADEAR"
+  },
+  {
+    "id": "1208212003",
+    "district_id": "120821",
+    "name": "MARIAH BANDAR"
+  },
+  {
+    "id": "1208212004",
+    "district_id": "120821",
+    "name": "KANDANGAN"
+  },
+  {
+    "id": "1208212005",
+    "district_id": "120821",
+    "name": "PARDOMUAN NAULI"
+  },
+  {
+    "id": "1208212006",
+    "district_id": "120821",
+    "name": "PURBA GANDA"
+  },
+  {
+    "id": "1208212007",
+    "district_id": "120821",
+    "name": "KERASAAN II"
+  },
+  {
+    "id": "1208212008",
+    "district_id": "120821",
+    "name": "BANDAR MANIS"
+  },
+  {
+    "id": "1208212011",
+    "district_id": "120821",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "1208212012",
+    "district_id": "120821",
+    "name": "TALUN REJO"
+  },
+  {
+    "id": "1208212013",
+    "district_id": "120821",
+    "name": "PURWODADI"
+  }
+]

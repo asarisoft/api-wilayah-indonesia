@@ -1,1 +1,62 @@
-[{"id": "3508122001", "district_id": "350812", "name": "PURWOREJO"}, {"id": "3508122002", "district_id": "350812", "name": "SARIKEMUNING"}, {"id": "3508122003", "district_id": "350812", "name": "PANDANSARI"}, {"id": "3508122004", "district_id": "350812", "name": "SENDURO"}, {"id": "3508122005", "district_id": "350812", "name": "BURNO"}, {"id": "3508122006", "district_id": "350812", "name": "KANDANGTEPUS"}, {"id": "3508122007", "district_id": "350812", "name": "KANDANGAN"}, {"id": "3508122008", "district_id": "350812", "name": "BEDAYU"}, {"id": "3508122009", "district_id": "350812", "name": "BEDAYUTALANG"}, {"id": "3508122010", "district_id": "350812", "name": "WONOCEPOKOAYU"}, {"id": "3508122011", "district_id": "350812", "name": "ARGOSARI"}, {"id": "3508122012", "district_id": "350812", "name": "RANUPANI"}]
+[
+  {
+    "id": "3508122001",
+    "district_id": "350812",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3508122002",
+    "district_id": "350812",
+    "name": "SARIKEMUNING"
+  },
+  {
+    "id": "3508122003",
+    "district_id": "350812",
+    "name": "PANDANSARI"
+  },
+  {
+    "id": "3508122004",
+    "district_id": "350812",
+    "name": "SENDURO"
+  },
+  {
+    "id": "3508122005",
+    "district_id": "350812",
+    "name": "BURNO"
+  },
+  {
+    "id": "3508122006",
+    "district_id": "350812",
+    "name": "KANDANGTEPUS"
+  },
+  {
+    "id": "3508122007",
+    "district_id": "350812",
+    "name": "KANDANGAN"
+  },
+  {
+    "id": "3508122008",
+    "district_id": "350812",
+    "name": "BEDAYU"
+  },
+  {
+    "id": "3508122009",
+    "district_id": "350812",
+    "name": "BEDAYUTALANG"
+  },
+  {
+    "id": "3508122010",
+    "district_id": "350812",
+    "name": "WONOCEPOKOAYU"
+  },
+  {
+    "id": "3508122011",
+    "district_id": "350812",
+    "name": "ARGOSARI"
+  },
+  {
+    "id": "3508122012",
+    "district_id": "350812",
+    "name": "RANUPANI"
+  }
+]

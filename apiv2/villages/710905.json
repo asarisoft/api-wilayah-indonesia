@@ -1,1 +1,37 @@
-[{"id": "7109052001", "district_id": "710905", "name": "TANAKI"}, {"id": "7109052002", "district_id": "710905", "name": "KAPETA"}, {"id": "7109052003", "district_id": "710905", "name": "TALAWID"}, {"id": "7109052004", "district_id": "710905", "name": "LAGHAENG"}, {"id": "7109052005", "district_id": "710905", "name": "MAKOA"}, {"id": "7109052006", "district_id": "710905", "name": "BATUSENGGO"}, {"id": "7109052007", "district_id": "710905", "name": "MAHUNENI"}]
+[
+  {
+    "id": "7109052001",
+    "district_id": "710905",
+    "name": "TANAKI"
+  },
+  {
+    "id": "7109052002",
+    "district_id": "710905",
+    "name": "KAPETA"
+  },
+  {
+    "id": "7109052003",
+    "district_id": "710905",
+    "name": "TALAWID"
+  },
+  {
+    "id": "7109052004",
+    "district_id": "710905",
+    "name": "LAGHAENG"
+  },
+  {
+    "id": "7109052005",
+    "district_id": "710905",
+    "name": "MAKOA"
+  },
+  {
+    "id": "7109052006",
+    "district_id": "710905",
+    "name": "BATUSENGGO"
+  },
+  {
+    "id": "7109052007",
+    "district_id": "710905",
+    "name": "MAHUNENI"
+  }
+]

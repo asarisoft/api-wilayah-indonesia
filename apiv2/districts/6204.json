@@ -1,1 +1,32 @@
-[{"id": "620401", "regency_id": "6204", "name": "JENAMAS"}, {"id": "620402", "regency_id": "6204", "name": "DUSUN HILIR"}, {"id": "620403", "regency_id": "6204", "name": "KARAU KUALA"}, {"id": "620404", "regency_id": "6204", "name": "DUSUN UTARA"}, {"id": "620405", "regency_id": "6204", "name": "GN. BINTANG AWAI"}, {"id": "620406", "regency_id": "6204", "name": "DUSUN SELATAN"}]
+[
+  {
+    "id": "620401",
+    "regency_id": "6204",
+    "name": "JENAMAS"
+  },
+  {
+    "id": "620402",
+    "regency_id": "6204",
+    "name": "DUSUN HILIR"
+  },
+  {
+    "id": "620403",
+    "regency_id": "6204",
+    "name": "KARAU KUALA"
+  },
+  {
+    "id": "620404",
+    "regency_id": "6204",
+    "name": "DUSUN UTARA"
+  },
+  {
+    "id": "620405",
+    "regency_id": "6204",
+    "name": "GN. BINTANG AWAI"
+  },
+  {
+    "id": "620406",
+    "regency_id": "6204",
+    "name": "DUSUN SELATAN"
+  }
+]

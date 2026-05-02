@@ -1,1 +1,27 @@
-[{"id": "1702202001", "district_id": "170220", "name": "KEPALA CURUP"}, {"id": "1702202002", "district_id": "170220", "name": "KAMPUNG JERUK"}, {"id": "1702202003", "district_id": "170220", "name": "SIMPANG BELITI"}, {"id": "1702202004", "district_id": "170220", "name": "TABA PADANG"}, {"id": "1702202005", "district_id": "170220", "name": "AIR APO"}]
+[
+  {
+    "id": "1702202001",
+    "district_id": "170220",
+    "name": "KEPALA CURUP"
+  },
+  {
+    "id": "1702202002",
+    "district_id": "170220",
+    "name": "KAMPUNG JERUK"
+  },
+  {
+    "id": "1702202003",
+    "district_id": "170220",
+    "name": "SIMPANG BELITI"
+  },
+  {
+    "id": "1702202004",
+    "district_id": "170220",
+    "name": "TABA PADANG"
+  },
+  {
+    "id": "1702202005",
+    "district_id": "170220",
+    "name": "AIR APO"
+  }
+]

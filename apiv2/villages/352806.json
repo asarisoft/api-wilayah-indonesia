@@ -1,1 +1,62 @@
-[{"id": "3528062001", "district_id": "352806", "name": "BANYUPELLE"}, {"id": "3528062002", "district_id": "352806", "name": "REK KERREK"}, {"id": "3528062003", "district_id": "352806", "name": "ANGSANAH"}, {"id": "3528062004", "district_id": "352806", "name": "AKKOR"}, {"id": "3528062005", "district_id": "352806", "name": "LARANGAN BADUNG"}, {"id": "3528062006", "district_id": "352806", "name": "PANAAN"}, {"id": "3528062007", "district_id": "352806", "name": "POTOAN LAOK"}, {"id": "3528062008", "district_id": "352806", "name": "PATOAN DAJA"}, {"id": "3528062009", "district_id": "352806", "name": "KACOK"}, {"id": "3528062010", "district_id": "352806", "name": "ROMBUH"}, {"id": "3528062011", "district_id": "352806", "name": "PALENGAAN LAOK"}, {"id": "3528062012", "district_id": "352806", "name": "PALENGAAN DAJAH"}]
+[
+  {
+    "id": "3528062001",
+    "district_id": "352806",
+    "name": "BANYUPELLE"
+  },
+  {
+    "id": "3528062002",
+    "district_id": "352806",
+    "name": "REK KERREK"
+  },
+  {
+    "id": "3528062003",
+    "district_id": "352806",
+    "name": "ANGSANAH"
+  },
+  {
+    "id": "3528062004",
+    "district_id": "352806",
+    "name": "AKKOR"
+  },
+  {
+    "id": "3528062005",
+    "district_id": "352806",
+    "name": "LARANGAN BADUNG"
+  },
+  {
+    "id": "3528062006",
+    "district_id": "352806",
+    "name": "PANAAN"
+  },
+  {
+    "id": "3528062007",
+    "district_id": "352806",
+    "name": "POTOAN LAOK"
+  },
+  {
+    "id": "3528062008",
+    "district_id": "352806",
+    "name": "PATOAN DAJA"
+  },
+  {
+    "id": "3528062009",
+    "district_id": "352806",
+    "name": "KACOK"
+  },
+  {
+    "id": "3528062010",
+    "district_id": "352806",
+    "name": "ROMBUH"
+  },
+  {
+    "id": "3528062011",
+    "district_id": "352806",
+    "name": "PALENGAAN LAOK"
+  },
+  {
+    "id": "3528062012",
+    "district_id": "352806",
+    "name": "PALENGAAN DAJAH"
+  }
+]

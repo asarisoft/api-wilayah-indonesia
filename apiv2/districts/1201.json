@@ -1,1 +1,102 @@
-[{"id": "120101", "regency_id": "1201", "name": "BARUS"}, {"id": "120102", "regency_id": "1201", "name": "SORKAM"}, {"id": "120103", "regency_id": "1201", "name": "PANDAN"}, {"id": "120104", "regency_id": "1201", "name": "PINANGSORI"}, {"id": "120105", "regency_id": "1201", "name": "MANDUAMAS"}, {"id": "120106", "regency_id": "1201", "name": "KOLANG"}, {"id": "120107", "regency_id": "1201", "name": "TAPIAN NAULI"}, {"id": "120108", "regency_id": "1201", "name": "SIBABANGUN"}, {"id": "120109", "regency_id": "1201", "name": "SOSORGADONG"}, {"id": "120110", "regency_id": "1201", "name": "SORKAM BARAT"}, {"id": "120111", "regency_id": "1201", "name": "SIRANDORUNG"}, {"id": "120112", "regency_id": "1201", "name": "ANDAM DEWI"}, {"id": "120113", "regency_id": "1201", "name": "SITAHUIS"}, {"id": "120114", "regency_id": "1201", "name": "TUKKA"}, {"id": "120115", "regency_id": "1201", "name": "BADIRI"}, {"id": "120116", "regency_id": "1201", "name": "PASARIBU TOBING"}, {"id": "120117", "regency_id": "1201", "name": "BARUS UTARA"}, {"id": "120118", "regency_id": "1201", "name": "SUKA BANGUN"}, {"id": "120119", "regency_id": "1201", "name": "LUMUT"}, {"id": "120120", "regency_id": "1201", "name": "SARUDIK"}]
+[
+  {
+    "id": "120101",
+    "regency_id": "1201",
+    "name": "BARUS"
+  },
+  {
+    "id": "120102",
+    "regency_id": "1201",
+    "name": "SORKAM"
+  },
+  {
+    "id": "120103",
+    "regency_id": "1201",
+    "name": "PANDAN"
+  },
+  {
+    "id": "120104",
+    "regency_id": "1201",
+    "name": "PINANGSORI"
+  },
+  {
+    "id": "120105",
+    "regency_id": "1201",
+    "name": "MANDUAMAS"
+  },
+  {
+    "id": "120106",
+    "regency_id": "1201",
+    "name": "KOLANG"
+  },
+  {
+    "id": "120107",
+    "regency_id": "1201",
+    "name": "TAPIAN NAULI"
+  },
+  {
+    "id": "120108",
+    "regency_id": "1201",
+    "name": "SIBABANGUN"
+  },
+  {
+    "id": "120109",
+    "regency_id": "1201",
+    "name": "SOSORGADONG"
+  },
+  {
+    "id": "120110",
+    "regency_id": "1201",
+    "name": "SORKAM BARAT"
+  },
+  {
+    "id": "120111",
+    "regency_id": "1201",
+    "name": "SIRANDORUNG"
+  },
+  {
+    "id": "120112",
+    "regency_id": "1201",
+    "name": "ANDAM DEWI"
+  },
+  {
+    "id": "120113",
+    "regency_id": "1201",
+    "name": "SITAHUIS"
+  },
+  {
+    "id": "120114",
+    "regency_id": "1201",
+    "name": "TUKKA"
+  },
+  {
+    "id": "120115",
+    "regency_id": "1201",
+    "name": "BADIRI"
+  },
+  {
+    "id": "120116",
+    "regency_id": "1201",
+    "name": "PASARIBU TOBING"
+  },
+  {
+    "id": "120117",
+    "regency_id": "1201",
+    "name": "BARUS UTARA"
+  },
+  {
+    "id": "120118",
+    "regency_id": "1201",
+    "name": "SUKA BANGUN"
+  },
+  {
+    "id": "120119",
+    "regency_id": "1201",
+    "name": "LUMUT"
+  },
+  {
+    "id": "120120",
+    "regency_id": "1201",
+    "name": "SARUDIK"
+  }
+]

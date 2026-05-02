@@ -1,1 +1,72 @@
-[{"id": "3510142001", "district_id": "351014", "name": "BARENG"}, {"id": "3510142002", "district_id": "351014", "name": "BUNDER"}, {"id": "3510142003", "district_id": "351014", "name": "GOMBOLIRANG"}, {"id": "3510142004", "district_id": "351014", "name": "BENELAN LOR"}, {"id": "3510142005", "district_id": "351014", "name": "LABANASEM"}, {"id": "3510142006", "district_id": "351014", "name": "PAKISTAJI"}, {"id": "3510142009", "district_id": "351014", "name": "PONDOKNONGKO"}, {"id": "3510142010", "district_id": "351014", "name": "DADAPAN"}, {"id": "3510142011", "district_id": "351014", "name": "KEDAYUNAN"}, {"id": "3510142012", "district_id": "351014", "name": "KABAT"}, {"id": "3510142013", "district_id": "351014", "name": "MACAN PUTIH"}, {"id": "3510142014", "district_id": "351014", "name": "TAMBONG"}, {"id": "3510142015", "district_id": "351014", "name": "PENDARUNGAN"}, {"id": "3510142016", "district_id": "351014", "name": "KALIREJO"}]
+[
+  {
+    "id": "3510142001",
+    "district_id": "351014",
+    "name": "BARENG"
+  },
+  {
+    "id": "3510142002",
+    "district_id": "351014",
+    "name": "BUNDER"
+  },
+  {
+    "id": "3510142003",
+    "district_id": "351014",
+    "name": "GOMBOLIRANG"
+  },
+  {
+    "id": "3510142004",
+    "district_id": "351014",
+    "name": "BENELAN LOR"
+  },
+  {
+    "id": "3510142005",
+    "district_id": "351014",
+    "name": "LABANASEM"
+  },
+  {
+    "id": "3510142006",
+    "district_id": "351014",
+    "name": "PAKISTAJI"
+  },
+  {
+    "id": "3510142009",
+    "district_id": "351014",
+    "name": "PONDOKNONGKO"
+  },
+  {
+    "id": "3510142010",
+    "district_id": "351014",
+    "name": "DADAPAN"
+  },
+  {
+    "id": "3510142011",
+    "district_id": "351014",
+    "name": "KEDAYUNAN"
+  },
+  {
+    "id": "3510142012",
+    "district_id": "351014",
+    "name": "KABAT"
+  },
+  {
+    "id": "3510142013",
+    "district_id": "351014",
+    "name": "MACAN PUTIH"
+  },
+  {
+    "id": "3510142014",
+    "district_id": "351014",
+    "name": "TAMBONG"
+  },
+  {
+    "id": "3510142015",
+    "district_id": "351014",
+    "name": "PENDARUNGAN"
+  },
+  {
+    "id": "3510142016",
+    "district_id": "351014",
+    "name": "KALIREJO"
+  }
+]

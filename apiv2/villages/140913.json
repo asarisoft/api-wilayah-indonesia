@@ -1,1 +1,72 @@
-[{"id": "1409132001", "district_id": "140913", "name": "PULAUBARU"}, {"id": "1409132002", "district_id": "140913", "name": "PULAUBERALO"}, {"id": "1409132003", "district_id": "140913", "name": "PULAUKULUR"}, {"id": "1409132004", "district_id": "140913", "name": "PELUKAHAN"}, {"id": "1409132005", "district_id": "140913", "name": "PENGALIHAN"}, {"id": "1409132006", "district_id": "140913", "name": "LUMBOK"}, {"id": "1409132007", "district_id": "140913", "name": "TERATAK JERING"}, {"id": "1409132008", "district_id": "140913", "name": "TANJUNGPISANG"}, {"id": "1409132009", "district_id": "140913", "name": "DANAU"}, {"id": "1409132010", "district_id": "140913", "name": "KASANG LIMAU SUNDAI"}, {"id": "1409132011", "district_id": "140913", "name": "KOTO RAJO"}, {"id": "1409132012", "district_id": "140913", "name": "TANJUNG"}, {"id": "1409132013", "district_id": "140913", "name": "SUNGAISORIK"}, {"id": "1409132014", "district_id": "140913", "name": "RAWANG OGUANG"}]
+[
+  {
+    "id": "1409132001",
+    "district_id": "140913",
+    "name": "PULAUBARU"
+  },
+  {
+    "id": "1409132002",
+    "district_id": "140913",
+    "name": "PULAUBERALO"
+  },
+  {
+    "id": "1409132003",
+    "district_id": "140913",
+    "name": "PULAUKULUR"
+  },
+  {
+    "id": "1409132004",
+    "district_id": "140913",
+    "name": "PELUKAHAN"
+  },
+  {
+    "id": "1409132005",
+    "district_id": "140913",
+    "name": "PENGALIHAN"
+  },
+  {
+    "id": "1409132006",
+    "district_id": "140913",
+    "name": "LUMBOK"
+  },
+  {
+    "id": "1409132007",
+    "district_id": "140913",
+    "name": "TERATAK JERING"
+  },
+  {
+    "id": "1409132008",
+    "district_id": "140913",
+    "name": "TANJUNGPISANG"
+  },
+  {
+    "id": "1409132009",
+    "district_id": "140913",
+    "name": "DANAU"
+  },
+  {
+    "id": "1409132010",
+    "district_id": "140913",
+    "name": "KASANG LIMAU SUNDAI"
+  },
+  {
+    "id": "1409132011",
+    "district_id": "140913",
+    "name": "KOTO RAJO"
+  },
+  {
+    "id": "1409132012",
+    "district_id": "140913",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "1409132013",
+    "district_id": "140913",
+    "name": "SUNGAISORIK"
+  },
+  {
+    "id": "1409132014",
+    "district_id": "140913",
+    "name": "RAWANG OGUANG"
+  }
+]

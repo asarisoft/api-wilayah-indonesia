@@ -1,1 +1,47 @@
-[{"id": "3603011001", "district_id": "360301", "name": "BALARAJA"}, {"id": "3603012003", "district_id": "360301", "name": "CANGKUDU"}, {"id": "3603012005", "district_id": "360301", "name": "TALAGASARI"}, {"id": "3603012009", "district_id": "360301", "name": "TOBAT"}, {"id": "3603012010", "district_id": "360301", "name": "SENTUL"}, {"id": "3603012011", "district_id": "360301", "name": "GEMBONG"}, {"id": "3603012013", "district_id": "360301", "name": "SUKAMURNI"}, {"id": "3603012014", "district_id": "360301", "name": "SAGA"}, {"id": "3603012016", "district_id": "360301", "name": "SENTUL JAYA"}]
+[
+  {
+    "id": "3603011001",
+    "district_id": "360301",
+    "name": "BALARAJA"
+  },
+  {
+    "id": "3603012003",
+    "district_id": "360301",
+    "name": "CANGKUDU"
+  },
+  {
+    "id": "3603012005",
+    "district_id": "360301",
+    "name": "TALAGASARI"
+  },
+  {
+    "id": "3603012009",
+    "district_id": "360301",
+    "name": "TOBAT"
+  },
+  {
+    "id": "3603012010",
+    "district_id": "360301",
+    "name": "SENTUL"
+  },
+  {
+    "id": "3603012011",
+    "district_id": "360301",
+    "name": "GEMBONG"
+  },
+  {
+    "id": "3603012013",
+    "district_id": "360301",
+    "name": "SUKAMURNI"
+  },
+  {
+    "id": "3603012014",
+    "district_id": "360301",
+    "name": "SAGA"
+  },
+  {
+    "id": "3603012016",
+    "district_id": "360301",
+    "name": "SENTUL JAYA"
+  }
+]

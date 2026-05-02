@@ -1,1 +1,52 @@
-[{"id": "3313102001", "district_id": "331310", "name": "BURAN"}, {"id": "3313102002", "district_id": "331310", "name": "PAPAHAN"}, {"id": "3313102003", "district_id": "331310", "name": "NGIJO"}, {"id": "3313102004", "district_id": "331310", "name": "GAUM"}, {"id": "3313102005", "district_id": "331310", "name": "SURUH"}, {"id": "3313102006", "district_id": "331310", "name": "PANDEYAN"}, {"id": "3313102007", "district_id": "331310", "name": "KARANGMOJO"}, {"id": "3313102008", "district_id": "331310", "name": "KALING"}, {"id": "3313102009", "district_id": "331310", "name": "WONOLOPO"}, {"id": "3313102010", "district_id": "331310", "name": "KALIJIRAK"}]
+[
+  {
+    "id": "3313102001",
+    "district_id": "331310",
+    "name": "BURAN"
+  },
+  {
+    "id": "3313102002",
+    "district_id": "331310",
+    "name": "PAPAHAN"
+  },
+  {
+    "id": "3313102003",
+    "district_id": "331310",
+    "name": "NGIJO"
+  },
+  {
+    "id": "3313102004",
+    "district_id": "331310",
+    "name": "GAUM"
+  },
+  {
+    "id": "3313102005",
+    "district_id": "331310",
+    "name": "SURUH"
+  },
+  {
+    "id": "3313102006",
+    "district_id": "331310",
+    "name": "PANDEYAN"
+  },
+  {
+    "id": "3313102007",
+    "district_id": "331310",
+    "name": "KARANGMOJO"
+  },
+  {
+    "id": "3313102008",
+    "district_id": "331310",
+    "name": "KALING"
+  },
+  {
+    "id": "3313102009",
+    "district_id": "331310",
+    "name": "WONOLOPO"
+  },
+  {
+    "id": "3313102010",
+    "district_id": "331310",
+    "name": "KALIJIRAK"
+  }
+]

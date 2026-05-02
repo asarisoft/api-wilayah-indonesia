@@ -1,1 +1,57 @@
-[{"id": "9501272001", "district_id": "950127", "name": "TAGIME"}, {"id": "9501272002", "district_id": "950127", "name": "POROME"}, {"id": "9501272003", "district_id": "950127", "name": "ONGGOBALO"}, {"id": "9501272004", "district_id": "950127", "name": "LAKWAME"}, {"id": "9501272005", "district_id": "950127", "name": "YORDANIA TULAK"}, {"id": "9501272006", "district_id": "950127", "name": "GUME KUPARI"}, {"id": "9501272007", "district_id": "950127", "name": "WANDINGGUNIE"}, {"id": "9501272008", "district_id": "950127", "name": "MULUGAME"}, {"id": "9501272009", "district_id": "950127", "name": "LAPEYO"}, {"id": "9501272010", "district_id": "950127", "name": "YANGGAPURA"}, {"id": "9501272011", "district_id": "950127", "name": "YOGOBUR"}]
+[
+  {
+    "id": "9501272001",
+    "district_id": "950127",
+    "name": "TAGIME"
+  },
+  {
+    "id": "9501272002",
+    "district_id": "950127",
+    "name": "POROME"
+  },
+  {
+    "id": "9501272003",
+    "district_id": "950127",
+    "name": "ONGGOBALO"
+  },
+  {
+    "id": "9501272004",
+    "district_id": "950127",
+    "name": "LAKWAME"
+  },
+  {
+    "id": "9501272005",
+    "district_id": "950127",
+    "name": "YORDANIA TULAK"
+  },
+  {
+    "id": "9501272006",
+    "district_id": "950127",
+    "name": "GUME KUPARI"
+  },
+  {
+    "id": "9501272007",
+    "district_id": "950127",
+    "name": "WANDINGGUNIE"
+  },
+  {
+    "id": "9501272008",
+    "district_id": "950127",
+    "name": "MULUGAME"
+  },
+  {
+    "id": "9501272009",
+    "district_id": "950127",
+    "name": "LAPEYO"
+  },
+  {
+    "id": "9501272010",
+    "district_id": "950127",
+    "name": "YANGGAPURA"
+  },
+  {
+    "id": "9501272011",
+    "district_id": "950127",
+    "name": "YOGOBUR"
+  }
+]

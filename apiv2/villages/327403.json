@@ -1,1 +1,27 @@
-[{"id": "3274031001", "district_id": "327403", "name": "KALIJAGA"}, {"id": "3274031002", "district_id": "327403", "name": "HARJAMUKTI"}, {"id": "3274031003", "district_id": "327403", "name": "KECAPI"}, {"id": "3274031004", "district_id": "327403", "name": "LARANGAN"}, {"id": "3274031005", "district_id": "327403", "name": "ARGASUNYA"}]
+[
+  {
+    "id": "3274031001",
+    "district_id": "327403",
+    "name": "KALIJAGA"
+  },
+  {
+    "id": "3274031002",
+    "district_id": "327403",
+    "name": "HARJAMUKTI"
+  },
+  {
+    "id": "3274031003",
+    "district_id": "327403",
+    "name": "KECAPI"
+  },
+  {
+    "id": "3274031004",
+    "district_id": "327403",
+    "name": "LARANGAN"
+  },
+  {
+    "id": "3274031005",
+    "district_id": "327403",
+    "name": "ARGASUNYA"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1804212001", "district_id": "180421", "name": "ARGOMULYO"}, {"id": "1804212002", "district_id": "180421", "name": "BATU KEBAYAN"}, {"id": "1804212003", "district_id": "180421", "name": "ATAR BAWANG"}, {"id": "1804212004", "district_id": "180421", "name": "CAMPANG TIGA"}, {"id": "1804212005", "district_id": "180421", "name": "LUAS"}, {"id": "1804212006", "district_id": "180421", "name": "BAKHU"}, {"id": "1804212007", "district_id": "180421", "name": "WAY NGISON"}, {"id": "1804212008", "district_id": "180421", "name": "KUBU LIKU JAYA"}, {"id": "1804212009", "district_id": "180421", "name": "SUMBER REJO"}, {"id": "1804212010", "district_id": "180421", "name": "ATAR KUWAU"}]
+[
+  {
+    "id": "1804212001",
+    "district_id": "180421",
+    "name": "ARGOMULYO"
+  },
+  {
+    "id": "1804212002",
+    "district_id": "180421",
+    "name": "BATU KEBAYAN"
+  },
+  {
+    "id": "1804212003",
+    "district_id": "180421",
+    "name": "ATAR BAWANG"
+  },
+  {
+    "id": "1804212004",
+    "district_id": "180421",
+    "name": "CAMPANG TIGA"
+  },
+  {
+    "id": "1804212005",
+    "district_id": "180421",
+    "name": "LUAS"
+  },
+  {
+    "id": "1804212006",
+    "district_id": "180421",
+    "name": "BAKHU"
+  },
+  {
+    "id": "1804212007",
+    "district_id": "180421",
+    "name": "WAY NGISON"
+  },
+  {
+    "id": "1804212008",
+    "district_id": "180421",
+    "name": "KUBU LIKU JAYA"
+  },
+  {
+    "id": "1804212009",
+    "district_id": "180421",
+    "name": "SUMBER REJO"
+  },
+  {
+    "id": "1804212010",
+    "district_id": "180421",
+    "name": "ATAR KUWAU"
+  }
+]

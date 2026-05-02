@@ -1,1 +1,72 @@
-[{"id": "1607142001", "district_id": "160714", "name": "AIR SOLOK BATU"}, {"id": "1607142002", "district_id": "160714", "name": "SRI MULYO"}, {"id": "1607142003", "district_id": "160714", "name": "SRIKATON"}, {"id": "1607142004", "district_id": "160714", "name": "SIDOHARJO"}, {"id": "1607142005", "district_id": "160714", "name": "BINTARAN"}, {"id": "1607142006", "district_id": "160714", "name": "DAMAR WULAN"}, {"id": "1607142007", "district_id": "160714", "name": "ENGGAL REJO"}, {"id": "1607142008", "district_id": "160714", "name": "SALEH JAYA"}, {"id": "1607142009", "district_id": "160714", "name": "SALEH AGUNG"}, {"id": "1607142010", "district_id": "160714", "name": "SALEH MULYA"}, {"id": "1607142011", "district_id": "160714", "name": "SALEH MUKTI"}, {"id": "1607142012", "district_id": "160714", "name": "SALEH MAKMUR"}, {"id": "1607142013", "district_id": "160714", "name": "UPANG"}, {"id": "1607142014", "district_id": "160714", "name": "UPANG MARGA"}]
+[
+  {
+    "id": "1607142001",
+    "district_id": "160714",
+    "name": "AIR SOLOK BATU"
+  },
+  {
+    "id": "1607142002",
+    "district_id": "160714",
+    "name": "SRI MULYO"
+  },
+  {
+    "id": "1607142003",
+    "district_id": "160714",
+    "name": "SRIKATON"
+  },
+  {
+    "id": "1607142004",
+    "district_id": "160714",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "1607142005",
+    "district_id": "160714",
+    "name": "BINTARAN"
+  },
+  {
+    "id": "1607142006",
+    "district_id": "160714",
+    "name": "DAMAR WULAN"
+  },
+  {
+    "id": "1607142007",
+    "district_id": "160714",
+    "name": "ENGGAL REJO"
+  },
+  {
+    "id": "1607142008",
+    "district_id": "160714",
+    "name": "SALEH JAYA"
+  },
+  {
+    "id": "1607142009",
+    "district_id": "160714",
+    "name": "SALEH AGUNG"
+  },
+  {
+    "id": "1607142010",
+    "district_id": "160714",
+    "name": "SALEH MULYA"
+  },
+  {
+    "id": "1607142011",
+    "district_id": "160714",
+    "name": "SALEH MUKTI"
+  },
+  {
+    "id": "1607142012",
+    "district_id": "160714",
+    "name": "SALEH MAKMUR"
+  },
+  {
+    "id": "1607142013",
+    "district_id": "160714",
+    "name": "UPANG"
+  },
+  {
+    "id": "1607142014",
+    "district_id": "160714",
+    "name": "UPANG MARGA"
+  }
+]

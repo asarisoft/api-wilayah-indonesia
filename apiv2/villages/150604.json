@@ -1,1 +1,62 @@
-[{"id": "1506041007", "district_id": "150604", "name": "MEKAR JAYA"}, {"id": "1506042001", "district_id": "150604", "name": "PEMATANG LUMUT"}, {"id": "1506042008", "district_id": "150604", "name": "MAKMUR JAYA"}, {"id": "1506042009", "district_id": "150604", "name": "SERDANG JAYA"}, {"id": "1506042010", "district_id": "150604", "name": "TERJUN GAJAH"}, {"id": "1506042011", "district_id": "150604", "name": "LUBUK TERENTANG"}, {"id": "1506042012", "district_id": "150604", "name": "PEMATANG BULUH"}, {"id": "1506042013", "district_id": "150604", "name": "MUNTIALO"}, {"id": "1506042014", "district_id": "150604", "name": "TELUK KULBI"}, {"id": "1506042015", "district_id": "150604", "name": "BUNGA TANJUNG"}, {"id": "1506042016", "district_id": "150604", "name": "SUNGAI TERAP"}, {"id": "1506042017", "district_id": "150604", "name": "MANDALA JAYA"}]
+[
+  {
+    "id": "1506041007",
+    "district_id": "150604",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "1506042001",
+    "district_id": "150604",
+    "name": "PEMATANG LUMUT"
+  },
+  {
+    "id": "1506042008",
+    "district_id": "150604",
+    "name": "MAKMUR JAYA"
+  },
+  {
+    "id": "1506042009",
+    "district_id": "150604",
+    "name": "SERDANG JAYA"
+  },
+  {
+    "id": "1506042010",
+    "district_id": "150604",
+    "name": "TERJUN GAJAH"
+  },
+  {
+    "id": "1506042011",
+    "district_id": "150604",
+    "name": "LUBUK TERENTANG"
+  },
+  {
+    "id": "1506042012",
+    "district_id": "150604",
+    "name": "PEMATANG BULUH"
+  },
+  {
+    "id": "1506042013",
+    "district_id": "150604",
+    "name": "MUNTIALO"
+  },
+  {
+    "id": "1506042014",
+    "district_id": "150604",
+    "name": "TELUK KULBI"
+  },
+  {
+    "id": "1506042015",
+    "district_id": "150604",
+    "name": "BUNGA TANJUNG"
+  },
+  {
+    "id": "1506042016",
+    "district_id": "150604",
+    "name": "SUNGAI TERAP"
+  },
+  {
+    "id": "1506042017",
+    "district_id": "150604",
+    "name": "MANDALA JAYA"
+  }
+]

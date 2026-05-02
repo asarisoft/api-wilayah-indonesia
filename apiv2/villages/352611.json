@@ -1,1 +1,82 @@
-[{"id": "3526112001", "district_id": "352611", "name": "PESANGGRAHAN"}, {"id": "3526112002", "district_id": "352611", "name": "KWANYAR BARAT"}, {"id": "3526112003", "district_id": "352611", "name": "KETETANG"}, {"id": "3526112004", "district_id": "352611", "name": "DLEMER"}, {"id": "3526112005", "district_id": "352611", "name": "MOROMBUH"}, {"id": "3526112006", "district_id": "352611", "name": "TEBUL"}, {"id": "3526112007", "district_id": "352611", "name": "KARANG ANYAR"}, {"id": "3526112008", "district_id": "352611", "name": "JANTEH"}, {"id": "3526112009", "district_id": "352611", "name": "SOMOR KONENG"}, {"id": "3526112010", "district_id": "352611", "name": "PAORAN"}, {"id": "3526112011", "district_id": "352611", "name": "KARANG ENTANG"}, {"id": "3526112012", "district_id": "352611", "name": "BATAH BARAT"}, {"id": "3526112013", "district_id": "352611", "name": "BATAH TIMUR"}, {"id": "3526112014", "district_id": "352611", "name": "PANDANAN"}, {"id": "3526112015", "district_id": "352611", "name": "GUNUNG SERENG"}, {"id": "3526112016", "district_id": "352611", "name": "DUWEK BUTER"}]
+[
+  {
+    "id": "3526112001",
+    "district_id": "352611",
+    "name": "PESANGGRAHAN"
+  },
+  {
+    "id": "3526112002",
+    "district_id": "352611",
+    "name": "KWANYAR BARAT"
+  },
+  {
+    "id": "3526112003",
+    "district_id": "352611",
+    "name": "KETETANG"
+  },
+  {
+    "id": "3526112004",
+    "district_id": "352611",
+    "name": "DLEMER"
+  },
+  {
+    "id": "3526112005",
+    "district_id": "352611",
+    "name": "MOROMBUH"
+  },
+  {
+    "id": "3526112006",
+    "district_id": "352611",
+    "name": "TEBUL"
+  },
+  {
+    "id": "3526112007",
+    "district_id": "352611",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "3526112008",
+    "district_id": "352611",
+    "name": "JANTEH"
+  },
+  {
+    "id": "3526112009",
+    "district_id": "352611",
+    "name": "SOMOR KONENG"
+  },
+  {
+    "id": "3526112010",
+    "district_id": "352611",
+    "name": "PAORAN"
+  },
+  {
+    "id": "3526112011",
+    "district_id": "352611",
+    "name": "KARANG ENTANG"
+  },
+  {
+    "id": "3526112012",
+    "district_id": "352611",
+    "name": "BATAH BARAT"
+  },
+  {
+    "id": "3526112013",
+    "district_id": "352611",
+    "name": "BATAH TIMUR"
+  },
+  {
+    "id": "3526112014",
+    "district_id": "352611",
+    "name": "PANDANAN"
+  },
+  {
+    "id": "3526112015",
+    "district_id": "352611",
+    "name": "GUNUNG SERENG"
+  },
+  {
+    "id": "3526112016",
+    "district_id": "352611",
+    "name": "DUWEK BUTER"
+  }
+]

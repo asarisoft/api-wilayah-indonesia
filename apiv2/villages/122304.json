@@ -1,1 +1,42 @@
-[{"id": "1223042001", "district_id": "122304", "name": "AEK KORSIK"}, {"id": "1223042002", "district_id": "122304", "name": "BANDAR SELAMAT"}, {"id": "1223042003", "district_id": "122304", "name": "PERK. PADANG HALABAN"}, {"id": "1223042004", "district_id": "122304", "name": "PERKEBUNAN PANIGORAN"}, {"id": "1223042005", "district_id": "122304", "name": "SIDOMULYO"}, {"id": "1223042006", "district_id": "122304", "name": "KARANG ANYAR"}, {"id": "1223042007", "district_id": "122304", "name": "PADANG MANINJAU"}, {"id": "1223042008", "district_id": "122304", "name": "PURWOREJO"}]
+[
+  {
+    "id": "1223042001",
+    "district_id": "122304",
+    "name": "AEK KORSIK"
+  },
+  {
+    "id": "1223042002",
+    "district_id": "122304",
+    "name": "BANDAR SELAMAT"
+  },
+  {
+    "id": "1223042003",
+    "district_id": "122304",
+    "name": "PERK. PADANG HALABAN"
+  },
+  {
+    "id": "1223042004",
+    "district_id": "122304",
+    "name": "PERKEBUNAN PANIGORAN"
+  },
+  {
+    "id": "1223042005",
+    "district_id": "122304",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "1223042006",
+    "district_id": "122304",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1223042007",
+    "district_id": "122304",
+    "name": "PADANG MANINJAU"
+  },
+  {
+    "id": "1223042008",
+    "district_id": "122304",
+    "name": "PURWOREJO"
+  }
+]

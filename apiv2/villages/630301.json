@@ -1,1 +1,97 @@
-[{"id": "6303012001", "district_id": "630301", "name": "BAKAMBAT"}, {"id": "6303012002", "district_id": "630301", "name": "TANIPAH"}, {"id": "6303012009", "district_id": "630301", "name": "PEMURUS"}, {"id": "6303012010", "district_id": "630301", "name": "SIMPANG WARGA"}, {"id": "6303012011", "district_id": "630301", "name": "BUNIPAH"}, {"id": "6303012012", "district_id": "630301", "name": "ALUH ALUH BESAR"}, {"id": "6303012013", "district_id": "630301", "name": "ALUH ALUH KECIL"}, {"id": "6303012014", "district_id": "630301", "name": "PODOK"}, {"id": "6303012015", "district_id": "630301", "name": "HANDIL BUJUR"}, {"id": "6303012016", "district_id": "630301", "name": "KUIN BESAR"}, {"id": "6303012017", "district_id": "630301", "name": "TERAPU"}, {"id": "6303012019", "district_id": "630301", "name": "LABAT MUARA"}, {"id": "6303012022", "district_id": "630301", "name": "PULANTAN"}, {"id": "6303012024", "district_id": "630301", "name": "ALUH ALUH KECIL MUARA"}, {"id": "6303012026", "district_id": "630301", "name": "SIMPANG WARGA DALAM"}, {"id": "6303012027", "district_id": "630301", "name": "KUIN KECIL"}, {"id": "6303012028", "district_id": "630301", "name": "HANDIL BARU"}, {"id": "6303012030", "district_id": "630301", "name": "BALIMAU"}, {"id": "6303012031", "district_id": "630301", "name": "SUNGAI MUSANG"}]
+[
+  {
+    "id": "6303012001",
+    "district_id": "630301",
+    "name": "BAKAMBAT"
+  },
+  {
+    "id": "6303012002",
+    "district_id": "630301",
+    "name": "TANIPAH"
+  },
+  {
+    "id": "6303012009",
+    "district_id": "630301",
+    "name": "PEMURUS"
+  },
+  {
+    "id": "6303012010",
+    "district_id": "630301",
+    "name": "SIMPANG WARGA"
+  },
+  {
+    "id": "6303012011",
+    "district_id": "630301",
+    "name": "BUNIPAH"
+  },
+  {
+    "id": "6303012012",
+    "district_id": "630301",
+    "name": "ALUH ALUH BESAR"
+  },
+  {
+    "id": "6303012013",
+    "district_id": "630301",
+    "name": "ALUH ALUH KECIL"
+  },
+  {
+    "id": "6303012014",
+    "district_id": "630301",
+    "name": "PODOK"
+  },
+  {
+    "id": "6303012015",
+    "district_id": "630301",
+    "name": "HANDIL BUJUR"
+  },
+  {
+    "id": "6303012016",
+    "district_id": "630301",
+    "name": "KUIN BESAR"
+  },
+  {
+    "id": "6303012017",
+    "district_id": "630301",
+    "name": "TERAPU"
+  },
+  {
+    "id": "6303012019",
+    "district_id": "630301",
+    "name": "LABAT MUARA"
+  },
+  {
+    "id": "6303012022",
+    "district_id": "630301",
+    "name": "PULANTAN"
+  },
+  {
+    "id": "6303012024",
+    "district_id": "630301",
+    "name": "ALUH ALUH KECIL MUARA"
+  },
+  {
+    "id": "6303012026",
+    "district_id": "630301",
+    "name": "SIMPANG WARGA DALAM"
+  },
+  {
+    "id": "6303012027",
+    "district_id": "630301",
+    "name": "KUIN KECIL"
+  },
+  {
+    "id": "6303012028",
+    "district_id": "630301",
+    "name": "HANDIL BARU"
+  },
+  {
+    "id": "6303012030",
+    "district_id": "630301",
+    "name": "BALIMAU"
+  },
+  {
+    "id": "6303012031",
+    "district_id": "630301",
+    "name": "SUNGAI MUSANG"
+  }
+]

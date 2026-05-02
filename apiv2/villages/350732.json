@@ -1,1 +1,42 @@
-[{"id": "3507322001", "district_id": "350732", "name": "KLUWUT"}, {"id": "3507322002", "district_id": "350732", "name": "PLANDI"}, {"id": "3507322003", "district_id": "350732", "name": "PLAOSAN"}, {"id": "3507322004", "district_id": "350732", "name": "KEBOBANG"}, {"id": "3507322005", "district_id": "350732", "name": "SUMBERTEMPUR"}, {"id": "3507322006", "district_id": "350732", "name": "SUMBERDEM"}, {"id": "3507322007", "district_id": "350732", "name": "WONOSARI"}, {"id": "3507322008", "district_id": "350732", "name": "BANGELAN"}]
+[
+  {
+    "id": "3507322001",
+    "district_id": "350732",
+    "name": "KLUWUT"
+  },
+  {
+    "id": "3507322002",
+    "district_id": "350732",
+    "name": "PLANDI"
+  },
+  {
+    "id": "3507322003",
+    "district_id": "350732",
+    "name": "PLAOSAN"
+  },
+  {
+    "id": "3507322004",
+    "district_id": "350732",
+    "name": "KEBOBANG"
+  },
+  {
+    "id": "3507322005",
+    "district_id": "350732",
+    "name": "SUMBERTEMPUR"
+  },
+  {
+    "id": "3507322006",
+    "district_id": "350732",
+    "name": "SUMBERDEM"
+  },
+  {
+    "id": "3507322007",
+    "district_id": "350732",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3507322008",
+    "district_id": "350732",
+    "name": "BANGELAN"
+  }
+]

@@ -1,1 +1,87 @@
-[{"id": "1807062001", "district_id": "180706", "name": "BANARJOYO"}, {"id": "1807062002", "district_id": "180706", "name": "BUANA SAKTI"}, {"id": "1807062003", "district_id": "180706", "name": "BALEKENCONO"}, {"id": "1807062004", "district_id": "180706", "name": "REJO AGUNG"}, {"id": "1807062005", "district_id": "180706", "name": "ADIWARNO"}, {"id": "1807062006", "district_id": "180706", "name": "TELOGOREJO"}, {"id": "1807062007", "district_id": "180706", "name": "NAMPIREJO"}, {"id": "1807062008", "district_id": "180706", "name": "SUMBEREJO"}, {"id": "1807062009", "district_id": "180706", "name": "BANJAREJO"}, {"id": "1807062010", "district_id": "180706", "name": "BALEREJO"}, {"id": "1807062011", "district_id": "180706", "name": "BATANGHARJO"}, {"id": "1807062012", "district_id": "180706", "name": "BUMI HARJO"}, {"id": "1807062013", "district_id": "180706", "name": "BUMI MAS"}, {"id": "1807062014", "district_id": "180706", "name": "SELOREJO"}, {"id": "1807062015", "district_id": "180706", "name": "SRI BASUKI"}, {"id": "1807062016", "district_id": "180706", "name": "SUMBER AGUNG"}, {"id": "1807062017", "district_id": "180706", "name": "PURWODADI MEKAR"}]
+[
+  {
+    "id": "1807062001",
+    "district_id": "180706",
+    "name": "BANARJOYO"
+  },
+  {
+    "id": "1807062002",
+    "district_id": "180706",
+    "name": "BUANA SAKTI"
+  },
+  {
+    "id": "1807062003",
+    "district_id": "180706",
+    "name": "BALEKENCONO"
+  },
+  {
+    "id": "1807062004",
+    "district_id": "180706",
+    "name": "REJO AGUNG"
+  },
+  {
+    "id": "1807062005",
+    "district_id": "180706",
+    "name": "ADIWARNO"
+  },
+  {
+    "id": "1807062006",
+    "district_id": "180706",
+    "name": "TELOGOREJO"
+  },
+  {
+    "id": "1807062007",
+    "district_id": "180706",
+    "name": "NAMPIREJO"
+  },
+  {
+    "id": "1807062008",
+    "district_id": "180706",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "1807062009",
+    "district_id": "180706",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "1807062010",
+    "district_id": "180706",
+    "name": "BALEREJO"
+  },
+  {
+    "id": "1807062011",
+    "district_id": "180706",
+    "name": "BATANGHARJO"
+  },
+  {
+    "id": "1807062012",
+    "district_id": "180706",
+    "name": "BUMI HARJO"
+  },
+  {
+    "id": "1807062013",
+    "district_id": "180706",
+    "name": "BUMI MAS"
+  },
+  {
+    "id": "1807062014",
+    "district_id": "180706",
+    "name": "SELOREJO"
+  },
+  {
+    "id": "1807062015",
+    "district_id": "180706",
+    "name": "SRI BASUKI"
+  },
+  {
+    "id": "1807062016",
+    "district_id": "180706",
+    "name": "SUMBER AGUNG"
+  },
+  {
+    "id": "1807062017",
+    "district_id": "180706",
+    "name": "PURWODADI MEKAR"
+  }
+]

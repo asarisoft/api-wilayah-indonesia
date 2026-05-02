@@ -1,1 +1,52 @@
-[{"id": "7201242001", "district_id": "720124", "name": "TOLISU"}, {"id": "7201242002", "district_id": "720124", "name": "MEKAR KENCANA"}, {"id": "7201242003", "district_id": "720124", "name": "MARGA KENCANA"}, {"id": "7201242004", "district_id": "720124", "name": "MULYASARI"}, {"id": "7201242005", "district_id": "720124", "name": "TIRTA JAYA"}, {"id": "7201242006", "district_id": "720124", "name": "SARIBUANA"}, {"id": "7201242007", "district_id": "720124", "name": "TOHITISARI"}, {"id": "7201242008", "district_id": "720124", "name": "SINDANG BARU"}, {"id": "7201242009", "district_id": "720124", "name": "BUKIT JAYA"}, {"id": "7201242010", "district_id": "720124", "name": "PIONDO"}]
+[
+  {
+    "id": "7201242001",
+    "district_id": "720124",
+    "name": "TOLISU"
+  },
+  {
+    "id": "7201242002",
+    "district_id": "720124",
+    "name": "MEKAR KENCANA"
+  },
+  {
+    "id": "7201242003",
+    "district_id": "720124",
+    "name": "MARGA KENCANA"
+  },
+  {
+    "id": "7201242004",
+    "district_id": "720124",
+    "name": "MULYASARI"
+  },
+  {
+    "id": "7201242005",
+    "district_id": "720124",
+    "name": "TIRTA JAYA"
+  },
+  {
+    "id": "7201242006",
+    "district_id": "720124",
+    "name": "SARIBUANA"
+  },
+  {
+    "id": "7201242007",
+    "district_id": "720124",
+    "name": "TOHITISARI"
+  },
+  {
+    "id": "7201242008",
+    "district_id": "720124",
+    "name": "SINDANG BARU"
+  },
+  {
+    "id": "7201242009",
+    "district_id": "720124",
+    "name": "BUKIT JAYA"
+  },
+  {
+    "id": "7201242010",
+    "district_id": "720124",
+    "name": "PIONDO"
+  }
+]

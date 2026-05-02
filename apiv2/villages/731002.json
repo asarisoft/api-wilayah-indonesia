@@ -1,1 +1,37 @@
-[{"id": "7310021001", "district_id": "731002", "name": "KALU-KALUKUANG"}, {"id": "7310022002", "district_id": "731002", "name": "PAMMAS"}, {"id": "7310022003", "district_id": "731002", "name": "SABARU"}, {"id": "7310022004", "district_id": "731002", "name": "KANYURANG"}, {"id": "7310022005", "district_id": "731002", "name": "DOANG-DOANGAN LOMPO"}, {"id": "7310022006", "district_id": "731002", "name": "MARASENDE"}, {"id": "7310022007", "district_id": "731002", "name": "DEWAKANG"}]
+[
+  {
+    "id": "7310021001",
+    "district_id": "731002",
+    "name": "KALU-KALUKUANG"
+  },
+  {
+    "id": "7310022002",
+    "district_id": "731002",
+    "name": "PAMMAS"
+  },
+  {
+    "id": "7310022003",
+    "district_id": "731002",
+    "name": "SABARU"
+  },
+  {
+    "id": "7310022004",
+    "district_id": "731002",
+    "name": "KANYURANG"
+  },
+  {
+    "id": "7310022005",
+    "district_id": "731002",
+    "name": "DOANG-DOANGAN LOMPO"
+  },
+  {
+    "id": "7310022006",
+    "district_id": "731002",
+    "name": "MARASENDE"
+  },
+  {
+    "id": "7310022007",
+    "district_id": "731002",
+    "name": "DEWAKANG"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3604292001", "district_id": "360429", "name": "PADARINCANG"}, {"id": "3604292002", "district_id": "360429", "name": "BUGEL"}, {"id": "3604292003", "district_id": "360429", "name": "CIBOJONG"}, {"id": "3604292004", "district_id": "360429", "name": "CITASUK"}, {"id": "3604292005", "district_id": "360429", "name": "CISAAT"}, {"id": "3604292006", "district_id": "360429", "name": "CIOMAS"}, {"id": "3604292007", "district_id": "360429", "name": "BARUGBUG"}, {"id": "3604292008", "district_id": "360429", "name": "BATU KUWUNG"}, {"id": "3604292009", "district_id": "360429", "name": "KRAMATLABAN"}, {"id": "3604292010", "district_id": "360429", "name": "KALUMPANG"}, {"id": "3604292011", "district_id": "360429", "name": "KADUBEUREUM"}, {"id": "3604292012", "district_id": "360429", "name": "CIPAYUNG"}, {"id": "3604292013", "district_id": "360429", "name": "CURUG GOONG"}, {"id": "3604292014", "district_id": "360429", "name": "KADU KEMPONG"}]
+[
+  {
+    "id": "3604292001",
+    "district_id": "360429",
+    "name": "PADARINCANG"
+  },
+  {
+    "id": "3604292002",
+    "district_id": "360429",
+    "name": "BUGEL"
+  },
+  {
+    "id": "3604292003",
+    "district_id": "360429",
+    "name": "CIBOJONG"
+  },
+  {
+    "id": "3604292004",
+    "district_id": "360429",
+    "name": "CITASUK"
+  },
+  {
+    "id": "3604292005",
+    "district_id": "360429",
+    "name": "CISAAT"
+  },
+  {
+    "id": "3604292006",
+    "district_id": "360429",
+    "name": "CIOMAS"
+  },
+  {
+    "id": "3604292007",
+    "district_id": "360429",
+    "name": "BARUGBUG"
+  },
+  {
+    "id": "3604292008",
+    "district_id": "360429",
+    "name": "BATU KUWUNG"
+  },
+  {
+    "id": "3604292009",
+    "district_id": "360429",
+    "name": "KRAMATLABAN"
+  },
+  {
+    "id": "3604292010",
+    "district_id": "360429",
+    "name": "KALUMPANG"
+  },
+  {
+    "id": "3604292011",
+    "district_id": "360429",
+    "name": "KADUBEUREUM"
+  },
+  {
+    "id": "3604292012",
+    "district_id": "360429",
+    "name": "CIPAYUNG"
+  },
+  {
+    "id": "3604292013",
+    "district_id": "360429",
+    "name": "CURUG GOONG"
+  },
+  {
+    "id": "3604292014",
+    "district_id": "360429",
+    "name": "KADU KEMPONG"
+  }
+]

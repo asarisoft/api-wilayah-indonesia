@@ -1,1 +1,52 @@
-[{"id": "7212072001", "district_id": "721207", "name": "LEMBAH SUMARA"}, {"id": "7212072002", "district_id": "721207", "name": "SUMARA JAYA"}, {"id": "7212072003", "district_id": "721207", "name": "TAMBAYOLI"}, {"id": "7212072004", "district_id": "721207", "name": "MALINO"}, {"id": "7212072005", "district_id": "721207", "name": "PANCA MAKMUR"}, {"id": "7212072006", "district_id": "721207", "name": "TAMAINUSI"}, {"id": "7212072007", "district_id": "721207", "name": "BAU"}, {"id": "7212072008", "district_id": "721207", "name": "MALINO JAYA"}, {"id": "7212072009", "district_id": "721207", "name": "TODDOPOLI UEBANGKE"}, {"id": "7212072010", "district_id": "721207", "name": "TANDOYONDO"}]
+[
+  {
+    "id": "7212072001",
+    "district_id": "721207",
+    "name": "LEMBAH SUMARA"
+  },
+  {
+    "id": "7212072002",
+    "district_id": "721207",
+    "name": "SUMARA JAYA"
+  },
+  {
+    "id": "7212072003",
+    "district_id": "721207",
+    "name": "TAMBAYOLI"
+  },
+  {
+    "id": "7212072004",
+    "district_id": "721207",
+    "name": "MALINO"
+  },
+  {
+    "id": "7212072005",
+    "district_id": "721207",
+    "name": "PANCA MAKMUR"
+  },
+  {
+    "id": "7212072006",
+    "district_id": "721207",
+    "name": "TAMAINUSI"
+  },
+  {
+    "id": "7212072007",
+    "district_id": "721207",
+    "name": "BAU"
+  },
+  {
+    "id": "7212072008",
+    "district_id": "721207",
+    "name": "MALINO JAYA"
+  },
+  {
+    "id": "7212072009",
+    "district_id": "721207",
+    "name": "TODDOPOLI UEBANGKE"
+  },
+  {
+    "id": "7212072010",
+    "district_id": "721207",
+    "name": "TANDOYONDO"
+  }
+]

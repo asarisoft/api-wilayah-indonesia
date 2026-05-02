@@ -1,1 +1,37 @@
-[{"id": "5307182001", "district_id": "530718", "name": "RUBIT"}, {"id": "5307182002", "district_id": "530718", "name": "WOLOMAPA"}, {"id": "5307182003", "district_id": "530718", "name": "BAOMEKOT"}, {"id": "5307182004", "district_id": "530718", "name": "KAJOWAIR"}, {"id": "5307182005", "district_id": "530718", "name": "HEWOKLOANG"}, {"id": "5307182006", "district_id": "530718", "name": "HEOPUAT"}, {"id": "5307182007", "district_id": "530718", "name": "MUNERANA"}]
+[
+  {
+    "id": "5307182001",
+    "district_id": "530718",
+    "name": "RUBIT"
+  },
+  {
+    "id": "5307182002",
+    "district_id": "530718",
+    "name": "WOLOMAPA"
+  },
+  {
+    "id": "5307182003",
+    "district_id": "530718",
+    "name": "BAOMEKOT"
+  },
+  {
+    "id": "5307182004",
+    "district_id": "530718",
+    "name": "KAJOWAIR"
+  },
+  {
+    "id": "5307182005",
+    "district_id": "530718",
+    "name": "HEWOKLOANG"
+  },
+  {
+    "id": "5307182006",
+    "district_id": "530718",
+    "name": "HEOPUAT"
+  },
+  {
+    "id": "5307182007",
+    "district_id": "530718",
+    "name": "MUNERANA"
+  }
+]

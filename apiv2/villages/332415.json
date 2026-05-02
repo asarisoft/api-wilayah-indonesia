@@ -1,1 +1,102 @@
-[{"id": "3324151001", "district_id": "332415", "name": "CANDIROTO"}, {"id": "3324151002", "district_id": "332415", "name": "SUKODONO"}, {"id": "3324151003", "district_id": "332415", "name": "JOTANG"}, {"id": "3324151004", "district_id": "332415", "name": "TROMPO"}, {"id": "3324151005", "district_id": "332415", "name": "KETAPANG"}, {"id": "3324151006", "district_id": "332415", "name": "KEBONDALEM"}, {"id": "3324151007", "district_id": "332415", "name": "KALIBUNTU WETAN"}, {"id": "3324151008", "district_id": "332415", "name": "SIJERUK"}, {"id": "3324151009", "district_id": "332415", "name": "TUNGGULREJO"}, {"id": "3324151010", "district_id": "332415", "name": "JETIS"}, {"id": "3324151011", "district_id": "332415", "name": "BUGANGIN"}, {"id": "3324151012", "district_id": "332415", "name": "LANGENHARJO"}, {"id": "3324151013", "district_id": "332415", "name": "PEKAUMAN"}, {"id": "3324151014", "district_id": "332415", "name": "PATUKANGAN"}, {"id": "3324151015", "district_id": "332415", "name": "PEGULON"}, {"id": "3324151016", "district_id": "332415", "name": "BANYUTOWO"}, {"id": "3324151017", "district_id": "332415", "name": "KARANGSARI"}, {"id": "3324151018", "district_id": "332415", "name": "NGILIR"}, {"id": "3324151019", "district_id": "332415", "name": "BANDENGAN"}, {"id": "3324151020", "district_id": "332415", "name": "BALOK"}]
+[
+  {
+    "id": "3324151001",
+    "district_id": "332415",
+    "name": "CANDIROTO"
+  },
+  {
+    "id": "3324151002",
+    "district_id": "332415",
+    "name": "SUKODONO"
+  },
+  {
+    "id": "3324151003",
+    "district_id": "332415",
+    "name": "JOTANG"
+  },
+  {
+    "id": "3324151004",
+    "district_id": "332415",
+    "name": "TROMPO"
+  },
+  {
+    "id": "3324151005",
+    "district_id": "332415",
+    "name": "KETAPANG"
+  },
+  {
+    "id": "3324151006",
+    "district_id": "332415",
+    "name": "KEBONDALEM"
+  },
+  {
+    "id": "3324151007",
+    "district_id": "332415",
+    "name": "KALIBUNTU WETAN"
+  },
+  {
+    "id": "3324151008",
+    "district_id": "332415",
+    "name": "SIJERUK"
+  },
+  {
+    "id": "3324151009",
+    "district_id": "332415",
+    "name": "TUNGGULREJO"
+  },
+  {
+    "id": "3324151010",
+    "district_id": "332415",
+    "name": "JETIS"
+  },
+  {
+    "id": "3324151011",
+    "district_id": "332415",
+    "name": "BUGANGIN"
+  },
+  {
+    "id": "3324151012",
+    "district_id": "332415",
+    "name": "LANGENHARJO"
+  },
+  {
+    "id": "3324151013",
+    "district_id": "332415",
+    "name": "PEKAUMAN"
+  },
+  {
+    "id": "3324151014",
+    "district_id": "332415",
+    "name": "PATUKANGAN"
+  },
+  {
+    "id": "3324151015",
+    "district_id": "332415",
+    "name": "PEGULON"
+  },
+  {
+    "id": "3324151016",
+    "district_id": "332415",
+    "name": "BANYUTOWO"
+  },
+  {
+    "id": "3324151017",
+    "district_id": "332415",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3324151018",
+    "district_id": "332415",
+    "name": "NGILIR"
+  },
+  {
+    "id": "3324151019",
+    "district_id": "332415",
+    "name": "BANDENGAN"
+  },
+  {
+    "id": "3324151020",
+    "district_id": "332415",
+    "name": "BALOK"
+  }
+]

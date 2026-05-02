@@ -1,1 +1,102 @@
-[{"id": "3327101006", "district_id": "332710", "name": "PETARUKAN"}, {"id": "3327102001", "district_id": "332710", "name": "KENDALSARI"}, {"id": "3327102002", "district_id": "332710", "name": "WIDODAREN"}, {"id": "3327102003", "district_id": "332710", "name": "KARANGASEM"}, {"id": "3327102004", "district_id": "332710", "name": "PETANJUNGAN"}, {"id": "3327102005", "district_id": "332710", "name": "SERANG"}, {"id": "3327102007", "district_id": "332710", "name": "KALIRANDU"}, {"id": "3327102008", "district_id": "332710", "name": "ISER"}, {"id": "3327102009", "district_id": "332710", "name": "SIRANGKANG"}, {"id": "3327102010", "district_id": "332710", "name": "PESUCEN"}, {"id": "3327102011", "district_id": "332710", "name": "TEMUIRENG"}, {"id": "3327102012", "district_id": "332710", "name": "PANJUNAN"}, {"id": "3327102013", "district_id": "332710", "name": "KENDALDOYONG"}, {"id": "3327102014", "district_id": "332710", "name": "PEGUNDAN"}, {"id": "3327102015", "district_id": "332710", "name": "BULU"}, {"id": "3327102016", "district_id": "332710", "name": "TEGALMLATI"}, {"id": "3327102017", "district_id": "332710", "name": "LONING"}, {"id": "3327102018", "district_id": "332710", "name": "KLAREYAN"}, {"id": "3327102019", "district_id": "332710", "name": "KENDALREJO"}, {"id": "3327102020", "district_id": "332710", "name": "NYAMPLUNGSARI"}]
+[
+  {
+    "id": "3327101006",
+    "district_id": "332710",
+    "name": "PETARUKAN"
+  },
+  {
+    "id": "3327102001",
+    "district_id": "332710",
+    "name": "KENDALSARI"
+  },
+  {
+    "id": "3327102002",
+    "district_id": "332710",
+    "name": "WIDODAREN"
+  },
+  {
+    "id": "3327102003",
+    "district_id": "332710",
+    "name": "KARANGASEM"
+  },
+  {
+    "id": "3327102004",
+    "district_id": "332710",
+    "name": "PETANJUNGAN"
+  },
+  {
+    "id": "3327102005",
+    "district_id": "332710",
+    "name": "SERANG"
+  },
+  {
+    "id": "3327102007",
+    "district_id": "332710",
+    "name": "KALIRANDU"
+  },
+  {
+    "id": "3327102008",
+    "district_id": "332710",
+    "name": "ISER"
+  },
+  {
+    "id": "3327102009",
+    "district_id": "332710",
+    "name": "SIRANGKANG"
+  },
+  {
+    "id": "3327102010",
+    "district_id": "332710",
+    "name": "PESUCEN"
+  },
+  {
+    "id": "3327102011",
+    "district_id": "332710",
+    "name": "TEMUIRENG"
+  },
+  {
+    "id": "3327102012",
+    "district_id": "332710",
+    "name": "PANJUNAN"
+  },
+  {
+    "id": "3327102013",
+    "district_id": "332710",
+    "name": "KENDALDOYONG"
+  },
+  {
+    "id": "3327102014",
+    "district_id": "332710",
+    "name": "PEGUNDAN"
+  },
+  {
+    "id": "3327102015",
+    "district_id": "332710",
+    "name": "BULU"
+  },
+  {
+    "id": "3327102016",
+    "district_id": "332710",
+    "name": "TEGALMLATI"
+  },
+  {
+    "id": "3327102017",
+    "district_id": "332710",
+    "name": "LONING"
+  },
+  {
+    "id": "3327102018",
+    "district_id": "332710",
+    "name": "KLAREYAN"
+  },
+  {
+    "id": "3327102019",
+    "district_id": "332710",
+    "name": "KENDALREJO"
+  },
+  {
+    "id": "3327102020",
+    "district_id": "332710",
+    "name": "NYAMPLUNGSARI"
+  }
+]

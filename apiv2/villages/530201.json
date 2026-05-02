@@ -1,1 +1,67 @@
-[{"id": "5302011001", "district_id": "530201", "name": "SOE"}, {"id": "5302011002", "district_id": "530201", "name": "CENDANA"}, {"id": "5302011003", "district_id": "530201", "name": "OEBESA"}, {"id": "5302011004", "district_id": "530201", "name": "TAUBNENO"}, {"id": "5302011005", "district_id": "530201", "name": "NONOHONIS"}, {"id": "5302011006", "district_id": "530201", "name": "KARANG SIRIH"}, {"id": "5302011007", "district_id": "530201", "name": "NUNUMEU"}, {"id": "5302011008", "district_id": "530201", "name": "KOBEKAMUSA"}, {"id": "5302011009", "district_id": "530201", "name": "OE KEFAN"}, {"id": "5302011010", "district_id": "530201", "name": "KOTA BARU"}, {"id": "5302011011", "district_id": "530201", "name": "KAMPUNG BARU"}, {"id": "5302012012", "district_id": "530201", "name": "KUATAE"}, {"id": "5302012013", "district_id": "530201", "name": "NOEMETO"}]
+[
+  {
+    "id": "5302011001",
+    "district_id": "530201",
+    "name": "SOE"
+  },
+  {
+    "id": "5302011002",
+    "district_id": "530201",
+    "name": "CENDANA"
+  },
+  {
+    "id": "5302011003",
+    "district_id": "530201",
+    "name": "OEBESA"
+  },
+  {
+    "id": "5302011004",
+    "district_id": "530201",
+    "name": "TAUBNENO"
+  },
+  {
+    "id": "5302011005",
+    "district_id": "530201",
+    "name": "NONOHONIS"
+  },
+  {
+    "id": "5302011006",
+    "district_id": "530201",
+    "name": "KARANG SIRIH"
+  },
+  {
+    "id": "5302011007",
+    "district_id": "530201",
+    "name": "NUNUMEU"
+  },
+  {
+    "id": "5302011008",
+    "district_id": "530201",
+    "name": "KOBEKAMUSA"
+  },
+  {
+    "id": "5302011009",
+    "district_id": "530201",
+    "name": "OE KEFAN"
+  },
+  {
+    "id": "5302011010",
+    "district_id": "530201",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "5302011011",
+    "district_id": "530201",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "5302012012",
+    "district_id": "530201",
+    "name": "KUATAE"
+  },
+  {
+    "id": "5302012013",
+    "district_id": "530201",
+    "name": "NOEMETO"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3209332001", "district_id": "320933", "name": "SUKADANA"}, {"id": "3209332002", "district_id": "320933", "name": "PABUARAN KIDUL"}, {"id": "3209332003", "district_id": "320933", "name": "PABUARAN WETAN"}, {"id": "3209332004", "district_id": "320933", "name": "PABUARAN LOR"}, {"id": "3209332005", "district_id": "320933", "name": "JATIRENGGANG"}, {"id": "3209332006", "district_id": "320933", "name": "HULUBANTENG"}, {"id": "3209332007", "district_id": "320933", "name": "HULUBANTENG LOR"}]
+[
+  {
+    "id": "3209332001",
+    "district_id": "320933",
+    "name": "SUKADANA"
+  },
+  {
+    "id": "3209332002",
+    "district_id": "320933",
+    "name": "PABUARAN KIDUL"
+  },
+  {
+    "id": "3209332003",
+    "district_id": "320933",
+    "name": "PABUARAN WETAN"
+  },
+  {
+    "id": "3209332004",
+    "district_id": "320933",
+    "name": "PABUARAN LOR"
+  },
+  {
+    "id": "3209332005",
+    "district_id": "320933",
+    "name": "JATIRENGGANG"
+  },
+  {
+    "id": "3209332006",
+    "district_id": "320933",
+    "name": "HULUBANTENG"
+  },
+  {
+    "id": "3209332007",
+    "district_id": "320933",
+    "name": "HULUBANTENG LOR"
+  }
+]

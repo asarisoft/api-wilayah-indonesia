@@ -1,1 +1,32 @@
-[{"id": "6202142001", "district_id": "620214", "name": "SEBABI"}, {"id": "6202142002", "district_id": "620214", "name": "TANAH PUTIH"}, {"id": "6202142003", "district_id": "620214", "name": "SUMBER MAKMUR"}, {"id": "6202142004", "district_id": "620214", "name": "KENYALA"}, {"id": "6202142005", "district_id": "620214", "name": "PENYANG"}, {"id": "6202142006", "district_id": "620214", "name": "BIRU MAJU"}]
+[
+  {
+    "id": "6202142001",
+    "district_id": "620214",
+    "name": "SEBABI"
+  },
+  {
+    "id": "6202142002",
+    "district_id": "620214",
+    "name": "TANAH PUTIH"
+  },
+  {
+    "id": "6202142003",
+    "district_id": "620214",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "6202142004",
+    "district_id": "620214",
+    "name": "KENYALA"
+  },
+  {
+    "id": "6202142005",
+    "district_id": "620214",
+    "name": "PENYANG"
+  },
+  {
+    "id": "6202142006",
+    "district_id": "620214",
+    "name": "BIRU MAJU"
+  }
+]

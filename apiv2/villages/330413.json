@@ -1,1 +1,67 @@
-[{"id": "3304132001", "district_id": "330413", "name": "PAWEDEN"}, {"id": "3304132002", "district_id": "330413", "name": "GUMELAR"}, {"id": "3304132003", "district_id": "330413", "name": "PURWODADI"}, {"id": "3304132004", "district_id": "330413", "name": "SAMPANG"}, {"id": "3304132005", "district_id": "330413", "name": "SLATRI"}, {"id": "3304132006", "district_id": "330413", "name": "PAGERPELAH"}, {"id": "3304132007", "district_id": "330413", "name": "PASURUHAN"}, {"id": "3304132008", "district_id": "330413", "name": "KARANGGONDANG"}, {"id": "3304132009", "district_id": "330413", "name": "JLEGONG"}, {"id": "3304132010", "district_id": "330413", "name": "AMBAL"}, {"id": "3304132011", "district_id": "330413", "name": "BINANGUN"}, {"id": "3304132012", "district_id": "330413", "name": "KARANGKOBAR"}, {"id": "3304132013", "district_id": "330413", "name": "LEKSANA"}]
+[
+  {
+    "id": "3304132001",
+    "district_id": "330413",
+    "name": "PAWEDEN"
+  },
+  {
+    "id": "3304132002",
+    "district_id": "330413",
+    "name": "GUMELAR"
+  },
+  {
+    "id": "3304132003",
+    "district_id": "330413",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "3304132004",
+    "district_id": "330413",
+    "name": "SAMPANG"
+  },
+  {
+    "id": "3304132005",
+    "district_id": "330413",
+    "name": "SLATRI"
+  },
+  {
+    "id": "3304132006",
+    "district_id": "330413",
+    "name": "PAGERPELAH"
+  },
+  {
+    "id": "3304132007",
+    "district_id": "330413",
+    "name": "PASURUHAN"
+  },
+  {
+    "id": "3304132008",
+    "district_id": "330413",
+    "name": "KARANGGONDANG"
+  },
+  {
+    "id": "3304132009",
+    "district_id": "330413",
+    "name": "JLEGONG"
+  },
+  {
+    "id": "3304132010",
+    "district_id": "330413",
+    "name": "AMBAL"
+  },
+  {
+    "id": "3304132011",
+    "district_id": "330413",
+    "name": "BINANGUN"
+  },
+  {
+    "id": "3304132012",
+    "district_id": "330413",
+    "name": "KARANGKOBAR"
+  },
+  {
+    "id": "3304132013",
+    "district_id": "330413",
+    "name": "LEKSANA"
+  }
+]

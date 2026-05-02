@@ -1,1 +1,72 @@
-[{"id": "6403012001", "district_id": "640301", "name": "MERABU"}, {"id": "6403012002", "district_id": "640301", "name": "PANAAN"}, {"id": "6403012003", "district_id": "640301", "name": "MERAPUN"}, {"id": "6403012004", "district_id": "640301", "name": "MUARA LESAN"}, {"id": "6403012005", "district_id": "640301", "name": "MERASA"}, {"id": "6403012006", "district_id": "640301", "name": "LESAN DAYAK"}, {"id": "6403012007", "district_id": "640301", "name": "LONG BELIU"}, {"id": "6403012008", "district_id": "640301", "name": "LONG DUHUNG"}, {"id": "6403012009", "district_id": "640301", "name": "LONG LAMCIN"}, {"id": "6403012010", "district_id": "640301", "name": "LONG KELUH"}, {"id": "6403012011", "district_id": "640301", "name": "LONG PELAY"}, {"id": "6403012012", "district_id": "640301", "name": "MAPULU"}, {"id": "6403012013", "district_id": "640301", "name": "LONG SULUI"}, {"id": "6403012014", "district_id": "640301", "name": "SIDO BANGEN"}]
+[
+  {
+    "id": "6403012001",
+    "district_id": "640301",
+    "name": "MERABU"
+  },
+  {
+    "id": "6403012002",
+    "district_id": "640301",
+    "name": "PANAAN"
+  },
+  {
+    "id": "6403012003",
+    "district_id": "640301",
+    "name": "MERAPUN"
+  },
+  {
+    "id": "6403012004",
+    "district_id": "640301",
+    "name": "MUARA LESAN"
+  },
+  {
+    "id": "6403012005",
+    "district_id": "640301",
+    "name": "MERASA"
+  },
+  {
+    "id": "6403012006",
+    "district_id": "640301",
+    "name": "LESAN DAYAK"
+  },
+  {
+    "id": "6403012007",
+    "district_id": "640301",
+    "name": "LONG BELIU"
+  },
+  {
+    "id": "6403012008",
+    "district_id": "640301",
+    "name": "LONG DUHUNG"
+  },
+  {
+    "id": "6403012009",
+    "district_id": "640301",
+    "name": "LONG LAMCIN"
+  },
+  {
+    "id": "6403012010",
+    "district_id": "640301",
+    "name": "LONG KELUH"
+  },
+  {
+    "id": "6403012011",
+    "district_id": "640301",
+    "name": "LONG PELAY"
+  },
+  {
+    "id": "6403012012",
+    "district_id": "640301",
+    "name": "MAPULU"
+  },
+  {
+    "id": "6403012013",
+    "district_id": "640301",
+    "name": "LONG SULUI"
+  },
+  {
+    "id": "6403012014",
+    "district_id": "640301",
+    "name": "SIDO BANGEN"
+  }
+]

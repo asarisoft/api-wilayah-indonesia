@@ -1,1 +1,42 @@
-[{"id": "3206312001", "district_id": "320631", "name": "LINGGAJATI"}, {"id": "3206312002", "district_id": "320631", "name": "TAWANGBANTENG"}, {"id": "3206312003", "district_id": "320631", "name": "SINAGAR"}, {"id": "3206312004", "district_id": "320631", "name": "GUNUNGSARI"}, {"id": "3206312005", "district_id": "320631", "name": "SUKAMAHI"}, {"id": "3206312006", "district_id": "320631", "name": "SUKAGALIH"}, {"id": "3206312007", "district_id": "320631", "name": "SUKARATU"}, {"id": "3206312008", "district_id": "320631", "name": "INDRAJAYA"}]
+[
+  {
+    "id": "3206312001",
+    "district_id": "320631",
+    "name": "LINGGAJATI"
+  },
+  {
+    "id": "3206312002",
+    "district_id": "320631",
+    "name": "TAWANGBANTENG"
+  },
+  {
+    "id": "3206312003",
+    "district_id": "320631",
+    "name": "SINAGAR"
+  },
+  {
+    "id": "3206312004",
+    "district_id": "320631",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3206312005",
+    "district_id": "320631",
+    "name": "SUKAMAHI"
+  },
+  {
+    "id": "3206312006",
+    "district_id": "320631",
+    "name": "SUKAGALIH"
+  },
+  {
+    "id": "3206312007",
+    "district_id": "320631",
+    "name": "SUKARATU"
+  },
+  {
+    "id": "3206312008",
+    "district_id": "320631",
+    "name": "INDRAJAYA"
+  }
+]

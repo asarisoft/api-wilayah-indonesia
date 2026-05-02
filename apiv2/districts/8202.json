@@ -1,1 +1,52 @@
-[{"id": "820201", "regency_id": "8202", "name": "WEDA"}, {"id": "820202", "regency_id": "8202", "name": "PATANI"}, {"id": "820203", "regency_id": "8202", "name": "PULAU GEBE"}, {"id": "820204", "regency_id": "8202", "name": "WEDA UTARA"}, {"id": "820205", "regency_id": "8202", "name": "WEDA SELATAN"}, {"id": "820206", "regency_id": "8202", "name": "PATANI UTARA"}, {"id": "820207", "regency_id": "8202", "name": "WEDA TENGAH"}, {"id": "820208", "regency_id": "8202", "name": "PATANI BARAT"}, {"id": "820209", "regency_id": "8202", "name": "WEDA TIMUR"}, {"id": "820210", "regency_id": "8202", "name": "PATANI TIMUR"}]
+[
+  {
+    "id": "820201",
+    "regency_id": "8202",
+    "name": "WEDA"
+  },
+  {
+    "id": "820202",
+    "regency_id": "8202",
+    "name": "PATANI"
+  },
+  {
+    "id": "820203",
+    "regency_id": "8202",
+    "name": "PULAU GEBE"
+  },
+  {
+    "id": "820204",
+    "regency_id": "8202",
+    "name": "WEDA UTARA"
+  },
+  {
+    "id": "820205",
+    "regency_id": "8202",
+    "name": "WEDA SELATAN"
+  },
+  {
+    "id": "820206",
+    "regency_id": "8202",
+    "name": "PATANI UTARA"
+  },
+  {
+    "id": "820207",
+    "regency_id": "8202",
+    "name": "WEDA TENGAH"
+  },
+  {
+    "id": "820208",
+    "regency_id": "8202",
+    "name": "PATANI BARAT"
+  },
+  {
+    "id": "820209",
+    "regency_id": "8202",
+    "name": "WEDA TIMUR"
+  },
+  {
+    "id": "820210",
+    "regency_id": "8202",
+    "name": "PATANI TIMUR"
+  }
+]

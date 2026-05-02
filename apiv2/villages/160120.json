@@ -1,1 +1,37 @@
-[{"id": "1601202001", "district_id": "160120", "name": "KELUMPANG"}, {"id": "1601202002", "district_id": "160120", "name": "GUNUNG TIGA"}, {"id": "1601202003", "district_id": "160120", "name": "MENDINGIN"}, {"id": "1601202004", "district_id": "160120", "name": "ULAK LEBAR"}, {"id": "1601202005", "district_id": "160120", "name": "PEDATARAN"}, {"id": "1601202006", "district_id": "160120", "name": "SUKAJADI"}, {"id": "1601202007", "district_id": "160120", "name": "BELANDANG"}]
+[
+  {
+    "id": "1601202001",
+    "district_id": "160120",
+    "name": "KELUMPANG"
+  },
+  {
+    "id": "1601202002",
+    "district_id": "160120",
+    "name": "GUNUNG TIGA"
+  },
+  {
+    "id": "1601202003",
+    "district_id": "160120",
+    "name": "MENDINGIN"
+  },
+  {
+    "id": "1601202004",
+    "district_id": "160120",
+    "name": "ULAK LEBAR"
+  },
+  {
+    "id": "1601202005",
+    "district_id": "160120",
+    "name": "PEDATARAN"
+  },
+  {
+    "id": "1601202006",
+    "district_id": "160120",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "1601202007",
+    "district_id": "160120",
+    "name": "BELANDANG"
+  }
+]

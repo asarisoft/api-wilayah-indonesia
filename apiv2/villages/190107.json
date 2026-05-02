@@ -1,1 +1,47 @@
-[{"id": "1901072001", "district_id": "190107", "name": "RIAU"}, {"id": "1901072002", "district_id": "190107", "name": "PANGKAL NIUR"}, {"id": "1901072003", "district_id": "190107", "name": "PUGUL"}, {"id": "1901072004", "district_id": "190107", "name": "CIT"}, {"id": "1901072005", "district_id": "190107", "name": "DENIANG"}, {"id": "1901072006", "district_id": "190107", "name": "SILIP"}, {"id": "1901072007", "district_id": "190107", "name": "MAPUR"}, {"id": "1901072008", "district_id": "190107", "name": "BANYU ASIN"}, {"id": "1901072009", "district_id": "190107", "name": "BERBURA"}]
+[
+  {
+    "id": "1901072001",
+    "district_id": "190107",
+    "name": "RIAU"
+  },
+  {
+    "id": "1901072002",
+    "district_id": "190107",
+    "name": "PANGKAL NIUR"
+  },
+  {
+    "id": "1901072003",
+    "district_id": "190107",
+    "name": "PUGUL"
+  },
+  {
+    "id": "1901072004",
+    "district_id": "190107",
+    "name": "CIT"
+  },
+  {
+    "id": "1901072005",
+    "district_id": "190107",
+    "name": "DENIANG"
+  },
+  {
+    "id": "1901072006",
+    "district_id": "190107",
+    "name": "SILIP"
+  },
+  {
+    "id": "1901072007",
+    "district_id": "190107",
+    "name": "MAPUR"
+  },
+  {
+    "id": "1901072008",
+    "district_id": "190107",
+    "name": "BANYU ASIN"
+  },
+  {
+    "id": "1901072009",
+    "district_id": "190107",
+    "name": "BERBURA"
+  }
+]

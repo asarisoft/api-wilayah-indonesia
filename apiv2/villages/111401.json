@@ -1,1 +1,112 @@
-[{"id": "1114012001", "district_id": "111401", "name": "KEUDE TEUNOM"}, {"id": "1114012002", "district_id": "111401", "name": "ALUE AMBANG"}, {"id": "1114012003", "district_id": "111401", "name": "PADANG KLENG"}, {"id": "1114012004", "district_id": "111401", "name": "PANTON"}, {"id": "1114012005", "district_id": "111401", "name": "PASI TULAK BALA"}, {"id": "1114012006", "district_id": "111401", "name": "GAMPONG BARO"}, {"id": "1114012007", "district_id": "111401", "name": "RAMBONG PAYONG"}, {"id": "1114012008", "district_id": "111401", "name": "PASI PAWANG"}, {"id": "1114012009", "district_id": "111401", "name": "BLANG BARO"}, {"id": "1114012010", "district_id": "111401", "name": "TANOH ANOE"}, {"id": "1114012011", "district_id": "111401", "name": "TANOH MANYANG"}, {"id": "1114012012", "district_id": "111401", "name": "BATEE ROO"}, {"id": "1114012013", "district_id": "111401", "name": "SEUNEUBOK PADANG"}, {"id": "1114012014", "district_id": "111401", "name": "SEUMIRA"}, {"id": "1114012015", "district_id": "111401", "name": "KUBU"}, {"id": "1114012016", "district_id": "111401", "name": "ALUE MEURAKSA"}, {"id": "1114012017", "district_id": "111401", "name": "PAYA BARO"}, {"id": "1114012018", "district_id": "111401", "name": "TEUPIN ARA"}, {"id": "1114012019", "district_id": "111401", "name": "COT TRAP"}, {"id": "1114012020", "district_id": "111401", "name": "LEUNG GAYO"}, {"id": "1114012021", "district_id": "111401", "name": "PASI GEULIMA"}, {"id": "1114012022", "district_id": "111401", "name": "PASI TIMON"}]
+[
+  {
+    "id": "1114012001",
+    "district_id": "111401",
+    "name": "KEUDE TEUNOM"
+  },
+  {
+    "id": "1114012002",
+    "district_id": "111401",
+    "name": "ALUE AMBANG"
+  },
+  {
+    "id": "1114012003",
+    "district_id": "111401",
+    "name": "PADANG KLENG"
+  },
+  {
+    "id": "1114012004",
+    "district_id": "111401",
+    "name": "PANTON"
+  },
+  {
+    "id": "1114012005",
+    "district_id": "111401",
+    "name": "PASI TULAK BALA"
+  },
+  {
+    "id": "1114012006",
+    "district_id": "111401",
+    "name": "GAMPONG BARO"
+  },
+  {
+    "id": "1114012007",
+    "district_id": "111401",
+    "name": "RAMBONG PAYONG"
+  },
+  {
+    "id": "1114012008",
+    "district_id": "111401",
+    "name": "PASI PAWANG"
+  },
+  {
+    "id": "1114012009",
+    "district_id": "111401",
+    "name": "BLANG BARO"
+  },
+  {
+    "id": "1114012010",
+    "district_id": "111401",
+    "name": "TANOH ANOE"
+  },
+  {
+    "id": "1114012011",
+    "district_id": "111401",
+    "name": "TANOH MANYANG"
+  },
+  {
+    "id": "1114012012",
+    "district_id": "111401",
+    "name": "BATEE ROO"
+  },
+  {
+    "id": "1114012013",
+    "district_id": "111401",
+    "name": "SEUNEUBOK PADANG"
+  },
+  {
+    "id": "1114012014",
+    "district_id": "111401",
+    "name": "SEUMIRA"
+  },
+  {
+    "id": "1114012015",
+    "district_id": "111401",
+    "name": "KUBU"
+  },
+  {
+    "id": "1114012016",
+    "district_id": "111401",
+    "name": "ALUE MEURAKSA"
+  },
+  {
+    "id": "1114012017",
+    "district_id": "111401",
+    "name": "PAYA BARO"
+  },
+  {
+    "id": "1114012018",
+    "district_id": "111401",
+    "name": "TEUPIN ARA"
+  },
+  {
+    "id": "1114012019",
+    "district_id": "111401",
+    "name": "COT TRAP"
+  },
+  {
+    "id": "1114012020",
+    "district_id": "111401",
+    "name": "LEUNG GAYO"
+  },
+  {
+    "id": "1114012021",
+    "district_id": "111401",
+    "name": "PASI GEULIMA"
+  },
+  {
+    "id": "1114012022",
+    "district_id": "111401",
+    "name": "PASI TIMON"
+  }
+]

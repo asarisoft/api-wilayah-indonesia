@@ -1,1 +1,132 @@
-[{"id": "1202132001", "district_id": "120213", "name": "PAKPAHAN"}, {"id": "1202132002", "district_id": "120213", "name": "SAMPAGUL"}, {"id": "1202132003", "district_id": "120213", "name": "GODUNG BOROTAN"}, {"id": "1202132004", "district_id": "120213", "name": "PARRATUSAN"}, {"id": "1202132005", "district_id": "120213", "name": "LUMBAN SIREGAR"}, {"id": "1202132006", "district_id": "120213", "name": "SIGOTOM JULU"}, {"id": "1202132007", "district_id": "120213", "name": "RAHUT BOSI"}, {"id": "1202132008", "district_id": "120213", "name": "BATU NADUA"}, {"id": "1202132009", "district_id": "120213", "name": "SILANTOM TONGA"}, {"id": "1202132010", "district_id": "120213", "name": "SILANTOM JULU"}, {"id": "1202132011", "district_id": "120213", "name": "PANSURNATOLU"}, {"id": "1202132012", "district_id": "120213", "name": "PARLOMBUAN"}, {"id": "1202132013", "district_id": "120213", "name": "PURBATUA"}, {"id": "1202132014", "district_id": "120213", "name": "LUMBAN SINAGA SIMATUPANG"}, {"id": "1202132015", "district_id": "120213", "name": "BATUMANUMPAK"}, {"id": "1202132016", "district_id": "120213", "name": "SIBINGKE"}, {"id": "1202132017", "district_id": "120213", "name": "NAJUMAMBE"}, {"id": "1202132018", "district_id": "120213", "name": "PARSIBARUNGAN"}, {"id": "1202132019", "district_id": "120213", "name": "HARIANJA"}, {"id": "1202132020", "district_id": "120213", "name": "SILANTOM JAE"}, {"id": "1202132021", "district_id": "120213", "name": "PADANG PARSADAAN"}, {"id": "1202132022", "district_id": "120213", "name": "PARSORMINAN I"}, {"id": "1202132023", "district_id": "120213", "name": "HUTARAJA"}, {"id": "1202132024", "district_id": "120213", "name": "RAHUT BOSI ONAN"}, {"id": "1202132025", "district_id": "120213", "name": "SIGOTOM TIMUR"}, {"id": "1202132026", "district_id": "120213", "name": "SIGOTOM DOLOK NAULI"}]
+[
+  {
+    "id": "1202132001",
+    "district_id": "120213",
+    "name": "PAKPAHAN"
+  },
+  {
+    "id": "1202132002",
+    "district_id": "120213",
+    "name": "SAMPAGUL"
+  },
+  {
+    "id": "1202132003",
+    "district_id": "120213",
+    "name": "GODUNG BOROTAN"
+  },
+  {
+    "id": "1202132004",
+    "district_id": "120213",
+    "name": "PARRATUSAN"
+  },
+  {
+    "id": "1202132005",
+    "district_id": "120213",
+    "name": "LUMBAN SIREGAR"
+  },
+  {
+    "id": "1202132006",
+    "district_id": "120213",
+    "name": "SIGOTOM JULU"
+  },
+  {
+    "id": "1202132007",
+    "district_id": "120213",
+    "name": "RAHUT BOSI"
+  },
+  {
+    "id": "1202132008",
+    "district_id": "120213",
+    "name": "BATU NADUA"
+  },
+  {
+    "id": "1202132009",
+    "district_id": "120213",
+    "name": "SILANTOM TONGA"
+  },
+  {
+    "id": "1202132010",
+    "district_id": "120213",
+    "name": "SILANTOM JULU"
+  },
+  {
+    "id": "1202132011",
+    "district_id": "120213",
+    "name": "PANSURNATOLU"
+  },
+  {
+    "id": "1202132012",
+    "district_id": "120213",
+    "name": "PARLOMBUAN"
+  },
+  {
+    "id": "1202132013",
+    "district_id": "120213",
+    "name": "PURBATUA"
+  },
+  {
+    "id": "1202132014",
+    "district_id": "120213",
+    "name": "LUMBAN SINAGA SIMATUPANG"
+  },
+  {
+    "id": "1202132015",
+    "district_id": "120213",
+    "name": "BATUMANUMPAK"
+  },
+  {
+    "id": "1202132016",
+    "district_id": "120213",
+    "name": "SIBINGKE"
+  },
+  {
+    "id": "1202132017",
+    "district_id": "120213",
+    "name": "NAJUMAMBE"
+  },
+  {
+    "id": "1202132018",
+    "district_id": "120213",
+    "name": "PARSIBARUNGAN"
+  },
+  {
+    "id": "1202132019",
+    "district_id": "120213",
+    "name": "HARIANJA"
+  },
+  {
+    "id": "1202132020",
+    "district_id": "120213",
+    "name": "SILANTOM JAE"
+  },
+  {
+    "id": "1202132021",
+    "district_id": "120213",
+    "name": "PADANG PARSADAAN"
+  },
+  {
+    "id": "1202132022",
+    "district_id": "120213",
+    "name": "PARSORMINAN I"
+  },
+  {
+    "id": "1202132023",
+    "district_id": "120213",
+    "name": "HUTARAJA"
+  },
+  {
+    "id": "1202132024",
+    "district_id": "120213",
+    "name": "RAHUT BOSI ONAN"
+  },
+  {
+    "id": "1202132025",
+    "district_id": "120213",
+    "name": "SIGOTOM TIMUR"
+  },
+  {
+    "id": "1202132026",
+    "district_id": "120213",
+    "name": "SIGOTOM DOLOK NAULI"
+  }
+]

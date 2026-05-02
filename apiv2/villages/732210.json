@@ -1,1 +1,77 @@
-[{"id": "7322102001", "district_id": "732210", "name": "MAPPEDECENG"}, {"id": "7322102002", "district_id": "732210", "name": "CENDANA PUTIH"}, {"id": "7322102003", "district_id": "732210", "name": "HASANA"}, {"id": "7322102004", "district_id": "732210", "name": "KAPIDI"}, {"id": "7322102005", "district_id": "732210", "name": "URASO"}, {"id": "7322102006", "district_id": "732210", "name": "BENTENG"}, {"id": "7322102007", "district_id": "732210", "name": "UJUNG MATTAJANG"}, {"id": "7322102009", "district_id": "732210", "name": "CENDANA PUTIH I"}, {"id": "7322102010", "district_id": "732210", "name": "SUMBER WANGI"}, {"id": "7322102011", "district_id": "732210", "name": "MANGALLE"}, {"id": "7322102012", "district_id": "732210", "name": "MEKAR JAYA TONDOK"}, {"id": "7322102013", "district_id": "732210", "name": "CENDANA PUTIH II"}, {"id": "7322102014", "district_id": "732210", "name": "SUMBER HARUM"}, {"id": "7322102015", "district_id": "732210", "name": "TARRAK TALLU"}, {"id": "7322102016", "district_id": "732210", "name": "HARAPAN"}]
+[
+  {
+    "id": "7322102001",
+    "district_id": "732210",
+    "name": "MAPPEDECENG"
+  },
+  {
+    "id": "7322102002",
+    "district_id": "732210",
+    "name": "CENDANA PUTIH"
+  },
+  {
+    "id": "7322102003",
+    "district_id": "732210",
+    "name": "HASANA"
+  },
+  {
+    "id": "7322102004",
+    "district_id": "732210",
+    "name": "KAPIDI"
+  },
+  {
+    "id": "7322102005",
+    "district_id": "732210",
+    "name": "URASO"
+  },
+  {
+    "id": "7322102006",
+    "district_id": "732210",
+    "name": "BENTENG"
+  },
+  {
+    "id": "7322102007",
+    "district_id": "732210",
+    "name": "UJUNG MATTAJANG"
+  },
+  {
+    "id": "7322102009",
+    "district_id": "732210",
+    "name": "CENDANA PUTIH I"
+  },
+  {
+    "id": "7322102010",
+    "district_id": "732210",
+    "name": "SUMBER WANGI"
+  },
+  {
+    "id": "7322102011",
+    "district_id": "732210",
+    "name": "MANGALLE"
+  },
+  {
+    "id": "7322102012",
+    "district_id": "732210",
+    "name": "MEKAR JAYA TONDOK"
+  },
+  {
+    "id": "7322102013",
+    "district_id": "732210",
+    "name": "CENDANA PUTIH II"
+  },
+  {
+    "id": "7322102014",
+    "district_id": "732210",
+    "name": "SUMBER HARUM"
+  },
+  {
+    "id": "7322102015",
+    "district_id": "732210",
+    "name": "TARRAK TALLU"
+  },
+  {
+    "id": "7322102016",
+    "district_id": "732210",
+    "name": "HARAPAN"
+  }
+]

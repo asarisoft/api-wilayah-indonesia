@@ -1,1 +1,107 @@
-[{"id": "1809022001", "district_id": "180902", "name": "KAGUNGAN RATU"}, {"id": "1809022002", "district_id": "180902", "name": "KALI REJO"}, {"id": "1809022003", "district_id": "180902", "name": "PURWOREJO"}, {"id": "1809022004", "district_id": "180902", "name": "PUJO RAHAYU"}, {"id": "1809022005", "district_id": "180902", "name": "NEGERI KATON"}, {"id": "1809022006", "district_id": "180902", "name": "PONCO KRESNO"}, {"id": "1809022007", "district_id": "180902", "name": "HALANGAN RATU"}, {"id": "1809022008", "district_id": "180902", "name": "PEJAMBON"}, {"id": "1809022009", "district_id": "180902", "name": "NEGARA SAKA"}, {"id": "1809022010", "district_id": "180902", "name": "SINAR BANDUNG"}, {"id": "1809022011", "district_id": "180902", "name": "TANJUNG REJO"}, {"id": "1809022012", "district_id": "180902", "name": "ROWO REJO"}, {"id": "1809022013", "district_id": "180902", "name": "TRESNO MAJU"}, {"id": "1809022014", "district_id": "180902", "name": "SIDOMULYO"}, {"id": "1809022015", "district_id": "180902", "name": "LUMBIREJO"}, {"id": "1809022016", "district_id": "180902", "name": "TRI RAHAYU"}, {"id": "1809022017", "district_id": "180902", "name": "BANGUN SARI"}, {"id": "1809022018", "district_id": "180902", "name": "KARANG REJO"}, {"id": "1809022019", "district_id": "180902", "name": "NEGERI ULANGAN JAYA"}, {"id": "1809022020", "district_id": "180902", "name": "PUJODADI"}, {"id": "1809022021", "district_id": "180902", "name": "GRUJUGAN BARU"}]
+[
+  {
+    "id": "1809022001",
+    "district_id": "180902",
+    "name": "KAGUNGAN RATU"
+  },
+  {
+    "id": "1809022002",
+    "district_id": "180902",
+    "name": "KALI REJO"
+  },
+  {
+    "id": "1809022003",
+    "district_id": "180902",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "1809022004",
+    "district_id": "180902",
+    "name": "PUJO RAHAYU"
+  },
+  {
+    "id": "1809022005",
+    "district_id": "180902",
+    "name": "NEGERI KATON"
+  },
+  {
+    "id": "1809022006",
+    "district_id": "180902",
+    "name": "PONCO KRESNO"
+  },
+  {
+    "id": "1809022007",
+    "district_id": "180902",
+    "name": "HALANGAN RATU"
+  },
+  {
+    "id": "1809022008",
+    "district_id": "180902",
+    "name": "PEJAMBON"
+  },
+  {
+    "id": "1809022009",
+    "district_id": "180902",
+    "name": "NEGARA SAKA"
+  },
+  {
+    "id": "1809022010",
+    "district_id": "180902",
+    "name": "SINAR BANDUNG"
+  },
+  {
+    "id": "1809022011",
+    "district_id": "180902",
+    "name": "TANJUNG REJO"
+  },
+  {
+    "id": "1809022012",
+    "district_id": "180902",
+    "name": "ROWO REJO"
+  },
+  {
+    "id": "1809022013",
+    "district_id": "180902",
+    "name": "TRESNO MAJU"
+  },
+  {
+    "id": "1809022014",
+    "district_id": "180902",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "1809022015",
+    "district_id": "180902",
+    "name": "LUMBIREJO"
+  },
+  {
+    "id": "1809022016",
+    "district_id": "180902",
+    "name": "TRI RAHAYU"
+  },
+  {
+    "id": "1809022017",
+    "district_id": "180902",
+    "name": "BANGUN SARI"
+  },
+  {
+    "id": "1809022018",
+    "district_id": "180902",
+    "name": "KARANG REJO"
+  },
+  {
+    "id": "1809022019",
+    "district_id": "180902",
+    "name": "NEGERI ULANGAN JAYA"
+  },
+  {
+    "id": "1809022020",
+    "district_id": "180902",
+    "name": "PUJODADI"
+  },
+  {
+    "id": "1809022021",
+    "district_id": "180902",
+    "name": "GRUJUGAN BARU"
+  }
+]

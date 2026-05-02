@@ -1,1 +1,92 @@
-[{"id": "352601", "regency_id": "3526", "name": "BANGKALAN"}, {"id": "352602", "regency_id": "3526", "name": "SOCAH"}, {"id": "352603", "regency_id": "3526", "name": "BURNEH"}, {"id": "352604", "regency_id": "3526", "name": "KAMAL"}, {"id": "352605", "regency_id": "3526", "name": "AROSBAYA"}, {"id": "352606", "regency_id": "3526", "name": "GEGER"}, {"id": "352607", "regency_id": "3526", "name": "KLAMPIS"}, {"id": "352608", "regency_id": "3526", "name": "SEPULU"}, {"id": "352609", "regency_id": "3526", "name": "TANJUNG BUMI"}, {"id": "352610", "regency_id": "3526", "name": "KOKOP"}, {"id": "352611", "regency_id": "3526", "name": "KWANYAR"}, {"id": "352612", "regency_id": "3526", "name": "LABANG"}, {"id": "352613", "regency_id": "3526", "name": "TANAH MERAH"}, {"id": "352614", "regency_id": "3526", "name": "TRAGAH"}, {"id": "352615", "regency_id": "3526", "name": "BLEGA"}, {"id": "352616", "regency_id": "3526", "name": "MODUNG"}, {"id": "352617", "regency_id": "3526", "name": "KONANG"}, {"id": "352618", "regency_id": "3526", "name": "GALIS"}]
+[
+  {
+    "id": "352601",
+    "regency_id": "3526",
+    "name": "BANGKALAN"
+  },
+  {
+    "id": "352602",
+    "regency_id": "3526",
+    "name": "SOCAH"
+  },
+  {
+    "id": "352603",
+    "regency_id": "3526",
+    "name": "BURNEH"
+  },
+  {
+    "id": "352604",
+    "regency_id": "3526",
+    "name": "KAMAL"
+  },
+  {
+    "id": "352605",
+    "regency_id": "3526",
+    "name": "AROSBAYA"
+  },
+  {
+    "id": "352606",
+    "regency_id": "3526",
+    "name": "GEGER"
+  },
+  {
+    "id": "352607",
+    "regency_id": "3526",
+    "name": "KLAMPIS"
+  },
+  {
+    "id": "352608",
+    "regency_id": "3526",
+    "name": "SEPULU"
+  },
+  {
+    "id": "352609",
+    "regency_id": "3526",
+    "name": "TANJUNG BUMI"
+  },
+  {
+    "id": "352610",
+    "regency_id": "3526",
+    "name": "KOKOP"
+  },
+  {
+    "id": "352611",
+    "regency_id": "3526",
+    "name": "KWANYAR"
+  },
+  {
+    "id": "352612",
+    "regency_id": "3526",
+    "name": "LABANG"
+  },
+  {
+    "id": "352613",
+    "regency_id": "3526",
+    "name": "TANAH MERAH"
+  },
+  {
+    "id": "352614",
+    "regency_id": "3526",
+    "name": "TRAGAH"
+  },
+  {
+    "id": "352615",
+    "regency_id": "3526",
+    "name": "BLEGA"
+  },
+  {
+    "id": "352616",
+    "regency_id": "3526",
+    "name": "MODUNG"
+  },
+  {
+    "id": "352617",
+    "regency_id": "3526",
+    "name": "KONANG"
+  },
+  {
+    "id": "352618",
+    "regency_id": "3526",
+    "name": "GALIS"
+  }
+]

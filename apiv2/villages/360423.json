@@ -1,1 +1,87 @@
-[{"id": "3604232001", "district_id": "360423", "name": "CIKEUSAL"}, {"id": "3604232002", "district_id": "360423", "name": "DAHU"}, {"id": "3604232003", "district_id": "360423", "name": "KATULISAN"}, {"id": "3604232004", "district_id": "360423", "name": "SUKAMAJU"}, {"id": "3604232005", "district_id": "360423", "name": "CILAYANG"}, {"id": "3604232006", "district_id": "360423", "name": "SUKAMENAK"}, {"id": "3604232007", "district_id": "360423", "name": "CIMAUNG"}, {"id": "3604232008", "district_id": "360423", "name": "PANYABRANGAN"}, {"id": "3604232009", "district_id": "360423", "name": "GANDAYASA"}, {"id": "3604232010", "district_id": "360423", "name": "BANTAR PANJANG"}, {"id": "3604232011", "district_id": "360423", "name": "SUKARATU"}, {"id": "3604232012", "district_id": "360423", "name": "HARUNDANG"}, {"id": "3604232013", "district_id": "360423", "name": "SUKARAME"}, {"id": "3604232014", "district_id": "360423", "name": "PANOSOGAN"}, {"id": "3604232015", "district_id": "360423", "name": "MONGPOK"}, {"id": "3604232016", "district_id": "360423", "name": "SUKARAJA"}, {"id": "3604232017", "district_id": "360423", "name": "CILAYANG GUHA"}]
+[
+  {
+    "id": "3604232001",
+    "district_id": "360423",
+    "name": "CIKEUSAL"
+  },
+  {
+    "id": "3604232002",
+    "district_id": "360423",
+    "name": "DAHU"
+  },
+  {
+    "id": "3604232003",
+    "district_id": "360423",
+    "name": "KATULISAN"
+  },
+  {
+    "id": "3604232004",
+    "district_id": "360423",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3604232005",
+    "district_id": "360423",
+    "name": "CILAYANG"
+  },
+  {
+    "id": "3604232006",
+    "district_id": "360423",
+    "name": "SUKAMENAK"
+  },
+  {
+    "id": "3604232007",
+    "district_id": "360423",
+    "name": "CIMAUNG"
+  },
+  {
+    "id": "3604232008",
+    "district_id": "360423",
+    "name": "PANYABRANGAN"
+  },
+  {
+    "id": "3604232009",
+    "district_id": "360423",
+    "name": "GANDAYASA"
+  },
+  {
+    "id": "3604232010",
+    "district_id": "360423",
+    "name": "BANTAR PANJANG"
+  },
+  {
+    "id": "3604232011",
+    "district_id": "360423",
+    "name": "SUKARATU"
+  },
+  {
+    "id": "3604232012",
+    "district_id": "360423",
+    "name": "HARUNDANG"
+  },
+  {
+    "id": "3604232013",
+    "district_id": "360423",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "3604232014",
+    "district_id": "360423",
+    "name": "PANOSOGAN"
+  },
+  {
+    "id": "3604232015",
+    "district_id": "360423",
+    "name": "MONGPOK"
+  },
+  {
+    "id": "3604232016",
+    "district_id": "360423",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "3604232017",
+    "district_id": "360423",
+    "name": "CILAYANG GUHA"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "721101", "regency_id": "7211", "name": "BANGGAI"}, {"id": "721102", "regency_id": "7211", "name": "BANGGAI UTARA"}, {"id": "721103", "regency_id": "7211", "name": "BOKAN KEPULAUAN"}, {"id": "721104", "regency_id": "7211", "name": "BANGKURUNG"}, {"id": "721105", "regency_id": "7211", "name": "LABOBO"}, {"id": "721106", "regency_id": "7211", "name": "BANGGAI SELATAN"}, {"id": "721107", "regency_id": "7211", "name": "BANGGAI TENGAH"}]
+[
+  {
+    "id": "721101",
+    "regency_id": "7211",
+    "name": "BANGGAI"
+  },
+  {
+    "id": "721102",
+    "regency_id": "7211",
+    "name": "BANGGAI UTARA"
+  },
+  {
+    "id": "721103",
+    "regency_id": "7211",
+    "name": "BOKAN KEPULAUAN"
+  },
+  {
+    "id": "721104",
+    "regency_id": "7211",
+    "name": "BANGKURUNG"
+  },
+  {
+    "id": "721105",
+    "regency_id": "7211",
+    "name": "LABOBO"
+  },
+  {
+    "id": "721106",
+    "regency_id": "7211",
+    "name": "BANGGAI SELATAN"
+  },
+  {
+    "id": "721107",
+    "regency_id": "7211",
+    "name": "BANGGAI TENGAH"
+  }
+]

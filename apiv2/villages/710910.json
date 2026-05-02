@@ -1,1 +1,32 @@
-[{"id": "7109102001", "district_id": "710910", "name": "HUMBIA"}, {"id": "7109102002", "district_id": "710910", "name": "KISIHANG"}, {"id": "7109102003", "district_id": "710910", "name": "BIRA KIAMA"}, {"id": "7109102004", "district_id": "710910", "name": "BUHA"}, {"id": "7109102005", "district_id": "710910", "name": "BATUMAWIRA"}, {"id": "7109102006", "district_id": "710910", "name": "BIRARIKEI"}]
+[
+  {
+    "id": "7109102001",
+    "district_id": "710910",
+    "name": "HUMBIA"
+  },
+  {
+    "id": "7109102002",
+    "district_id": "710910",
+    "name": "KISIHANG"
+  },
+  {
+    "id": "7109102003",
+    "district_id": "710910",
+    "name": "BIRA KIAMA"
+  },
+  {
+    "id": "7109102004",
+    "district_id": "710910",
+    "name": "BUHA"
+  },
+  {
+    "id": "7109102005",
+    "district_id": "710910",
+    "name": "BATUMAWIRA"
+  },
+  {
+    "id": "7109102006",
+    "district_id": "710910",
+    "name": "BIRARIKEI"
+  }
+]

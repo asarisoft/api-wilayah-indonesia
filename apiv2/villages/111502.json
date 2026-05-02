@@ -1,1 +1,177 @@
-[{"id": "1115022001", "district_id": "111502", "name": "JEURAM"}, {"id": "1115022002", "district_id": "111502", "name": "PANTE CEUREUMEN"}, {"id": "1115022003", "district_id": "111502", "name": "KUTA BARO JEURAM"}, {"id": "1115022004", "district_id": "111502", "name": "PAROM"}, {"id": "1115022005", "district_id": "111502", "name": "PEUREULAK"}, {"id": "1115022006", "district_id": "111502", "name": "KUTA SAYEH"}, {"id": "1115022007", "district_id": "111502", "name": "BLANG BARO"}, {"id": "1115022008", "district_id": "111502", "name": "PADANG"}, {"id": "1115022009", "district_id": "111502", "name": "ALUE THO"}, {"id": "1115022010", "district_id": "111502", "name": "LHOK PAROM"}, {"id": "1115022011", "district_id": "111502", "name": "SAPEK"}, {"id": "1115022012", "district_id": "111502", "name": "ALUE DODOK"}, {"id": "1115022013", "district_id": "111502", "name": "COT KUMBANG"}, {"id": "1115022014", "district_id": "111502", "name": "KUTA KUMBANG"}, {"id": "1115022015", "district_id": "111502", "name": "NIGAN"}, {"id": "1115022016", "district_id": "111502", "name": "GAMPONG COT"}, {"id": "1115022017", "district_id": "111502", "name": "BLANG PATEUK"}, {"id": "1115022018", "district_id": "111502", "name": "BLANG PUUK NIGAN"}, {"id": "1115022019", "district_id": "111502", "name": "KRUENG CEH"}, {"id": "1115022020", "district_id": "111502", "name": "BANTAN"}, {"id": "1115022021", "district_id": "111502", "name": "COT LHE-LHE"}, {"id": "1115022022", "district_id": "111502", "name": "RAMBONG RAYEUK"}, {"id": "1115022023", "district_id": "111502", "name": "PAYA UDEUNG"}, {"id": "1115022024", "district_id": "111502", "name": "ALUE BULOH"}, {"id": "1115022025", "district_id": "111502", "name": "KUTA PAYA"}, {"id": "1115022026", "district_id": "111502", "name": "KRUENG CEUKO"}, {"id": "1115022027", "district_id": "111502", "name": "LHOK PADANG"}, {"id": "1115022028", "district_id": "111502", "name": "KUTA ACEH"}, {"id": "1115022029", "district_id": "111502", "name": "KRUENG MANGKOM"}, {"id": "1115022030", "district_id": "111502", "name": "LATONG"}, {"id": "1115022031", "district_id": "111502", "name": "PAYA UNDAN"}, {"id": "1115022032", "district_id": "111502", "name": "BLANG PUUK KULU"}, {"id": "1115022033", "district_id": "111502", "name": "BLANG MURONG"}, {"id": "1115022034", "district_id": "111502", "name": "KULU"}, {"id": "1115022035", "district_id": "111502", "name": "RAMBONG CUT"}]
+[
+  {
+    "id": "1115022001",
+    "district_id": "111502",
+    "name": "JEURAM"
+  },
+  {
+    "id": "1115022002",
+    "district_id": "111502",
+    "name": "PANTE CEUREUMEN"
+  },
+  {
+    "id": "1115022003",
+    "district_id": "111502",
+    "name": "KUTA BARO JEURAM"
+  },
+  {
+    "id": "1115022004",
+    "district_id": "111502",
+    "name": "PAROM"
+  },
+  {
+    "id": "1115022005",
+    "district_id": "111502",
+    "name": "PEUREULAK"
+  },
+  {
+    "id": "1115022006",
+    "district_id": "111502",
+    "name": "KUTA SAYEH"
+  },
+  {
+    "id": "1115022007",
+    "district_id": "111502",
+    "name": "BLANG BARO"
+  },
+  {
+    "id": "1115022008",
+    "district_id": "111502",
+    "name": "PADANG"
+  },
+  {
+    "id": "1115022009",
+    "district_id": "111502",
+    "name": "ALUE THO"
+  },
+  {
+    "id": "1115022010",
+    "district_id": "111502",
+    "name": "LHOK PAROM"
+  },
+  {
+    "id": "1115022011",
+    "district_id": "111502",
+    "name": "SAPEK"
+  },
+  {
+    "id": "1115022012",
+    "district_id": "111502",
+    "name": "ALUE DODOK"
+  },
+  {
+    "id": "1115022013",
+    "district_id": "111502",
+    "name": "COT KUMBANG"
+  },
+  {
+    "id": "1115022014",
+    "district_id": "111502",
+    "name": "KUTA KUMBANG"
+  },
+  {
+    "id": "1115022015",
+    "district_id": "111502",
+    "name": "NIGAN"
+  },
+  {
+    "id": "1115022016",
+    "district_id": "111502",
+    "name": "GAMPONG COT"
+  },
+  {
+    "id": "1115022017",
+    "district_id": "111502",
+    "name": "BLANG PATEUK"
+  },
+  {
+    "id": "1115022018",
+    "district_id": "111502",
+    "name": "BLANG PUUK NIGAN"
+  },
+  {
+    "id": "1115022019",
+    "district_id": "111502",
+    "name": "KRUENG CEH"
+  },
+  {
+    "id": "1115022020",
+    "district_id": "111502",
+    "name": "BANTAN"
+  },
+  {
+    "id": "1115022021",
+    "district_id": "111502",
+    "name": "COT LHE-LHE"
+  },
+  {
+    "id": "1115022022",
+    "district_id": "111502",
+    "name": "RAMBONG RAYEUK"
+  },
+  {
+    "id": "1115022023",
+    "district_id": "111502",
+    "name": "PAYA UDEUNG"
+  },
+  {
+    "id": "1115022024",
+    "district_id": "111502",
+    "name": "ALUE BULOH"
+  },
+  {
+    "id": "1115022025",
+    "district_id": "111502",
+    "name": "KUTA PAYA"
+  },
+  {
+    "id": "1115022026",
+    "district_id": "111502",
+    "name": "KRUENG CEUKO"
+  },
+  {
+    "id": "1115022027",
+    "district_id": "111502",
+    "name": "LHOK PADANG"
+  },
+  {
+    "id": "1115022028",
+    "district_id": "111502",
+    "name": "KUTA ACEH"
+  },
+  {
+    "id": "1115022029",
+    "district_id": "111502",
+    "name": "KRUENG MANGKOM"
+  },
+  {
+    "id": "1115022030",
+    "district_id": "111502",
+    "name": "LATONG"
+  },
+  {
+    "id": "1115022031",
+    "district_id": "111502",
+    "name": "PAYA UNDAN"
+  },
+  {
+    "id": "1115022032",
+    "district_id": "111502",
+    "name": "BLANG PUUK KULU"
+  },
+  {
+    "id": "1115022033",
+    "district_id": "111502",
+    "name": "BLANG MURONG"
+  },
+  {
+    "id": "1115022034",
+    "district_id": "111502",
+    "name": "KULU"
+  },
+  {
+    "id": "1115022035",
+    "district_id": "111502",
+    "name": "RAMBONG CUT"
+  }
+]

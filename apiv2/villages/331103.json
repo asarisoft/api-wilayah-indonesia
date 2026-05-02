@@ -1,1 +1,62 @@
-[{"id": "3311032001", "district_id": "331103", "name": "PUNDUNGREJO"}, {"id": "3311032002", "district_id": "331103", "name": "WATUBONANG"}, {"id": "3311032003", "district_id": "331103", "name": "KEDUNGJAMBAL"}, {"id": "3311032004", "district_id": "331103", "name": "GRAJEGAN"}, {"id": "3311032005", "district_id": "331103", "name": "LOROG"}, {"id": "3311032006", "district_id": "331103", "name": "KATEGUHAN"}, {"id": "3311032007", "district_id": "331103", "name": "DALANGAN"}, {"id": "3311032008", "district_id": "331103", "name": "POJOK"}, {"id": "3311032009", "district_id": "331103", "name": "TANGKISAN"}, {"id": "3311032010", "district_id": "331103", "name": "PONOWAREN"}, {"id": "3311032011", "district_id": "331103", "name": "MAJASTO"}, {"id": "3311032012", "district_id": "331103", "name": "TAMBAKBOYO"}]
+[
+  {
+    "id": "3311032001",
+    "district_id": "331103",
+    "name": "PUNDUNGREJO"
+  },
+  {
+    "id": "3311032002",
+    "district_id": "331103",
+    "name": "WATUBONANG"
+  },
+  {
+    "id": "3311032003",
+    "district_id": "331103",
+    "name": "KEDUNGJAMBAL"
+  },
+  {
+    "id": "3311032004",
+    "district_id": "331103",
+    "name": "GRAJEGAN"
+  },
+  {
+    "id": "3311032005",
+    "district_id": "331103",
+    "name": "LOROG"
+  },
+  {
+    "id": "3311032006",
+    "district_id": "331103",
+    "name": "KATEGUHAN"
+  },
+  {
+    "id": "3311032007",
+    "district_id": "331103",
+    "name": "DALANGAN"
+  },
+  {
+    "id": "3311032008",
+    "district_id": "331103",
+    "name": "POJOK"
+  },
+  {
+    "id": "3311032009",
+    "district_id": "331103",
+    "name": "TANGKISAN"
+  },
+  {
+    "id": "3311032010",
+    "district_id": "331103",
+    "name": "PONOWAREN"
+  },
+  {
+    "id": "3311032011",
+    "district_id": "331103",
+    "name": "MAJASTO"
+  },
+  {
+    "id": "3311032012",
+    "district_id": "331103",
+    "name": "TAMBAKBOYO"
+  }
+]

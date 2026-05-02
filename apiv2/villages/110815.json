@@ -1,1 +1,197 @@
-[{"id": "1108152001", "district_id": "110815", "name": "LAGANG"}, {"id": "1108152002", "district_id": "110815", "name": "ABEUK REULING"}, {"id": "1108152003", "district_id": "110815", "name": "LHOK KREK"}, {"id": "1108152004", "district_id": "110815", "name": "LHOK MERBO"}, {"id": "1108152005", "district_id": "110815", "name": "GLE DAGANG"}, {"id": "1108152006", "district_id": "110815", "name": "KUTA MEULIGOE"}, {"id": "1108152007", "district_id": "110815", "name": "GAMPONG TEUNGOH"}, {"id": "1108152008", "district_id": "110815", "name": "BABAH BULOH"}, {"id": "1108152009", "district_id": "110815", "name": "MEUNASAH PULO"}, {"id": "1108152010", "district_id": "110815", "name": "PUNTEUET"}, {"id": "1108152011", "district_id": "110815", "name": "PANTE JALOH"}, {"id": "1108152012", "district_id": "110815", "name": "LHOK KUYUN"}, {"id": "1108152013", "district_id": "110815", "name": "BLANG REULING"}, {"id": "1108152014", "district_id": "110815", "name": "LHOK GAJAH"}, {"id": "1108152015", "district_id": "110815", "name": "TEUPIN RUSEP"}, {"id": "1108152016", "district_id": "110815", "name": "ULEE GEUDONG"}, {"id": "1108152017", "district_id": "110815", "name": "TANJONG KEUMALA"}, {"id": "1108152018", "district_id": "110815", "name": "COT KUMUNENG"}, {"id": "1108152019", "district_id": "110815", "name": "COT LAMBIDENG"}, {"id": "1108152020", "district_id": "110815", "name": "PAYA GABOH"}, {"id": "1108152021", "district_id": "110815", "name": "PAYA RABO LHOK"}, {"id": "1108152022", "district_id": "110815", "name": "PAYA RABO TIMU"}, {"id": "1108152023", "district_id": "110815", "name": "LANCOK"}, {"id": "1108152024", "district_id": "110815", "name": "RAMBONG PAYONG"}, {"id": "1108152025", "district_id": "110815", "name": "LHOK BAYU"}, {"id": "1108152026", "district_id": "110815", "name": "KRUENG BARO"}, {"id": "1108152027", "district_id": "110815", "name": "BABAH KRUENG"}, {"id": "1108152028", "district_id": "110815", "name": "JURONG"}, {"id": "1108152029", "district_id": "110815", "name": "BLANG MANYAK"}, {"id": "1108152030", "district_id": "110815", "name": "LHOK JOK"}, {"id": "1108152031", "district_id": "110815", "name": "BLANG TEURAKAN"}, {"id": "1108152032", "district_id": "110815", "name": "SAWANG"}, {"id": "1108152033", "district_id": "110815", "name": "RISEH BAROH"}, {"id": "1108152034", "district_id": "110815", "name": "RISEH TEUNGOH"}, {"id": "1108152035", "district_id": "110815", "name": "RISEH TUNONG"}, {"id": "1108152036", "district_id": "110815", "name": "GUNCI"}, {"id": "1108152037", "district_id": "110815", "name": "KUBU"}, {"id": "1108152038", "district_id": "110815", "name": "BLANG CUT"}, {"id": "1108152039", "district_id": "110815", "name": "LHOK CUT"}]
+[
+  {
+    "id": "1108152001",
+    "district_id": "110815",
+    "name": "LAGANG"
+  },
+  {
+    "id": "1108152002",
+    "district_id": "110815",
+    "name": "ABEUK REULING"
+  },
+  {
+    "id": "1108152003",
+    "district_id": "110815",
+    "name": "LHOK KREK"
+  },
+  {
+    "id": "1108152004",
+    "district_id": "110815",
+    "name": "LHOK MERBO"
+  },
+  {
+    "id": "1108152005",
+    "district_id": "110815",
+    "name": "GLE DAGANG"
+  },
+  {
+    "id": "1108152006",
+    "district_id": "110815",
+    "name": "KUTA MEULIGOE"
+  },
+  {
+    "id": "1108152007",
+    "district_id": "110815",
+    "name": "GAMPONG TEUNGOH"
+  },
+  {
+    "id": "1108152008",
+    "district_id": "110815",
+    "name": "BABAH BULOH"
+  },
+  {
+    "id": "1108152009",
+    "district_id": "110815",
+    "name": "MEUNASAH PULO"
+  },
+  {
+    "id": "1108152010",
+    "district_id": "110815",
+    "name": "PUNTEUET"
+  },
+  {
+    "id": "1108152011",
+    "district_id": "110815",
+    "name": "PANTE JALOH"
+  },
+  {
+    "id": "1108152012",
+    "district_id": "110815",
+    "name": "LHOK KUYUN"
+  },
+  {
+    "id": "1108152013",
+    "district_id": "110815",
+    "name": "BLANG REULING"
+  },
+  {
+    "id": "1108152014",
+    "district_id": "110815",
+    "name": "LHOK GAJAH"
+  },
+  {
+    "id": "1108152015",
+    "district_id": "110815",
+    "name": "TEUPIN RUSEP"
+  },
+  {
+    "id": "1108152016",
+    "district_id": "110815",
+    "name": "ULEE GEUDONG"
+  },
+  {
+    "id": "1108152017",
+    "district_id": "110815",
+    "name": "TANJONG KEUMALA"
+  },
+  {
+    "id": "1108152018",
+    "district_id": "110815",
+    "name": "COT KUMUNENG"
+  },
+  {
+    "id": "1108152019",
+    "district_id": "110815",
+    "name": "COT LAMBIDENG"
+  },
+  {
+    "id": "1108152020",
+    "district_id": "110815",
+    "name": "PAYA GABOH"
+  },
+  {
+    "id": "1108152021",
+    "district_id": "110815",
+    "name": "PAYA RABO LHOK"
+  },
+  {
+    "id": "1108152022",
+    "district_id": "110815",
+    "name": "PAYA RABO TIMU"
+  },
+  {
+    "id": "1108152023",
+    "district_id": "110815",
+    "name": "LANCOK"
+  },
+  {
+    "id": "1108152024",
+    "district_id": "110815",
+    "name": "RAMBONG PAYONG"
+  },
+  {
+    "id": "1108152025",
+    "district_id": "110815",
+    "name": "LHOK BAYU"
+  },
+  {
+    "id": "1108152026",
+    "district_id": "110815",
+    "name": "KRUENG BARO"
+  },
+  {
+    "id": "1108152027",
+    "district_id": "110815",
+    "name": "BABAH KRUENG"
+  },
+  {
+    "id": "1108152028",
+    "district_id": "110815",
+    "name": "JURONG"
+  },
+  {
+    "id": "1108152029",
+    "district_id": "110815",
+    "name": "BLANG MANYAK"
+  },
+  {
+    "id": "1108152030",
+    "district_id": "110815",
+    "name": "LHOK JOK"
+  },
+  {
+    "id": "1108152031",
+    "district_id": "110815",
+    "name": "BLANG TEURAKAN"
+  },
+  {
+    "id": "1108152032",
+    "district_id": "110815",
+    "name": "SAWANG"
+  },
+  {
+    "id": "1108152033",
+    "district_id": "110815",
+    "name": "RISEH BAROH"
+  },
+  {
+    "id": "1108152034",
+    "district_id": "110815",
+    "name": "RISEH TEUNGOH"
+  },
+  {
+    "id": "1108152035",
+    "district_id": "110815",
+    "name": "RISEH TUNONG"
+  },
+  {
+    "id": "1108152036",
+    "district_id": "110815",
+    "name": "GUNCI"
+  },
+  {
+    "id": "1108152037",
+    "district_id": "110815",
+    "name": "KUBU"
+  },
+  {
+    "id": "1108152038",
+    "district_id": "110815",
+    "name": "BLANG CUT"
+  },
+  {
+    "id": "1108152039",
+    "district_id": "110815",
+    "name": "LHOK CUT"
+  }
+]

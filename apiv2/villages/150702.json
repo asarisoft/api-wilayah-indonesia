@@ -1,1 +1,52 @@
-[{"id": "1507021001", "district_id": "150702", "name": "NIPAH PANJANG I"}, {"id": "1507021002", "district_id": "150702", "name": "NIPAH PANJANG II"}, {"id": "1507022003", "district_id": "150702", "name": "SIMPANG JELITA"}, {"id": "1507022004", "district_id": "150702", "name": "SIMPANG DATUK"}, {"id": "1507022005", "district_id": "150702", "name": "TELUK KIJING"}, {"id": "1507022006", "district_id": "150702", "name": "SUNGAI RAYA"}, {"id": "1507022007", "district_id": "150702", "name": "PEMUSIRAN"}, {"id": "1507022008", "district_id": "150702", "name": "SUNGAI TERING"}, {"id": "1507022009", "district_id": "150702", "name": "SUNGAI JERUK"}, {"id": "1507022010", "district_id": "150702", "name": "BUNGA TANJUNG"}]
+[
+  {
+    "id": "1507021001",
+    "district_id": "150702",
+    "name": "NIPAH PANJANG I"
+  },
+  {
+    "id": "1507021002",
+    "district_id": "150702",
+    "name": "NIPAH PANJANG II"
+  },
+  {
+    "id": "1507022003",
+    "district_id": "150702",
+    "name": "SIMPANG JELITA"
+  },
+  {
+    "id": "1507022004",
+    "district_id": "150702",
+    "name": "SIMPANG DATUK"
+  },
+  {
+    "id": "1507022005",
+    "district_id": "150702",
+    "name": "TELUK KIJING"
+  },
+  {
+    "id": "1507022006",
+    "district_id": "150702",
+    "name": "SUNGAI RAYA"
+  },
+  {
+    "id": "1507022007",
+    "district_id": "150702",
+    "name": "PEMUSIRAN"
+  },
+  {
+    "id": "1507022008",
+    "district_id": "150702",
+    "name": "SUNGAI TERING"
+  },
+  {
+    "id": "1507022009",
+    "district_id": "150702",
+    "name": "SUNGAI JERUK"
+  },
+  {
+    "id": "1507022010",
+    "district_id": "150702",
+    "name": "BUNGA TANJUNG"
+  }
+]

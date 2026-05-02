@@ -1,1 +1,57 @@
-[{"id": "1271201001", "district_id": "127120", "name": "GANG BUNTU"}, {"id": "1271201002", "district_id": "127120", "name": "SIDODADI"}, {"id": "1271201003", "district_id": "127120", "name": "DURIAN"}, {"id": "1271201004", "district_id": "127120", "name": "GLUGUR DARAT I"}, {"id": "1271201005", "district_id": "127120", "name": "GLUGUR DARAT II"}, {"id": "1271201006", "district_id": "127120", "name": "P BERAYAN DARAT I"}, {"id": "1271201007", "district_id": "127120", "name": "P BERAYAN DARAT II"}, {"id": "1271201008", "district_id": "127120", "name": "P BERAYAN BENGKEL"}, {"id": "1271201009", "district_id": "127120", "name": "PB BENGKEL BARU"}, {"id": "1271201010", "district_id": "127120", "name": "PERINTIS"}, {"id": "1271201011", "district_id": "127120", "name": "GAHARU"}]
+[
+  {
+    "id": "1271201001",
+    "district_id": "127120",
+    "name": "GANG BUNTU"
+  },
+  {
+    "id": "1271201002",
+    "district_id": "127120",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1271201003",
+    "district_id": "127120",
+    "name": "DURIAN"
+  },
+  {
+    "id": "1271201004",
+    "district_id": "127120",
+    "name": "GLUGUR DARAT I"
+  },
+  {
+    "id": "1271201005",
+    "district_id": "127120",
+    "name": "GLUGUR DARAT II"
+  },
+  {
+    "id": "1271201006",
+    "district_id": "127120",
+    "name": "P BERAYAN DARAT I"
+  },
+  {
+    "id": "1271201007",
+    "district_id": "127120",
+    "name": "P BERAYAN DARAT II"
+  },
+  {
+    "id": "1271201008",
+    "district_id": "127120",
+    "name": "P BERAYAN BENGKEL"
+  },
+  {
+    "id": "1271201009",
+    "district_id": "127120",
+    "name": "PB BENGKEL BARU"
+  },
+  {
+    "id": "1271201010",
+    "district_id": "127120",
+    "name": "PERINTIS"
+  },
+  {
+    "id": "1271201011",
+    "district_id": "127120",
+    "name": "GAHARU"
+  }
+]

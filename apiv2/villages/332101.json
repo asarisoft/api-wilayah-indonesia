@@ -1,1 +1,97 @@
-[{"id": "3321012001", "district_id": "332101", "name": "BANYUMENENG"}, {"id": "3321012002", "district_id": "332101", "name": "KEBONBATUR"}, {"id": "3321012003", "district_id": "332101", "name": "SUMBEREJO"}, {"id": "3321012004", "district_id": "332101", "name": "KALITENGAH"}, {"id": "3321012005", "district_id": "332101", "name": "KANGKUNG"}, {"id": "3321012006", "district_id": "332101", "name": "MRANGGEN"}, {"id": "3321012007", "district_id": "332101", "name": "BATURSARI"}, {"id": "3321012008", "district_id": "332101", "name": "BANDUNGREJO"}, {"id": "3321012009", "district_id": "332101", "name": "BRUMBUNG"}, {"id": "3321012010", "district_id": "332101", "name": "KEMBANGARUM"}, {"id": "3321012011", "district_id": "332101", "name": "KARANGSONO"}, {"id": "3321012012", "district_id": "332101", "name": "TAMANSARI"}, {"id": "3321012013", "district_id": "332101", "name": "NGEMPLAK"}, {"id": "3321012014", "district_id": "332101", "name": "MENUR"}, {"id": "3321012015", "district_id": "332101", "name": "JAMUS"}, {"id": "3321012016", "district_id": "332101", "name": "WRINGINJAJAR"}, {"id": "3321012017", "district_id": "332101", "name": "WARU"}, {"id": "3321012018", "district_id": "332101", "name": "TEGALARUM"}, {"id": "3321012019", "district_id": "332101", "name": "CANDISARI"}]
+[
+  {
+    "id": "3321012001",
+    "district_id": "332101",
+    "name": "BANYUMENENG"
+  },
+  {
+    "id": "3321012002",
+    "district_id": "332101",
+    "name": "KEBONBATUR"
+  },
+  {
+    "id": "3321012003",
+    "district_id": "332101",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3321012004",
+    "district_id": "332101",
+    "name": "KALITENGAH"
+  },
+  {
+    "id": "3321012005",
+    "district_id": "332101",
+    "name": "KANGKUNG"
+  },
+  {
+    "id": "3321012006",
+    "district_id": "332101",
+    "name": "MRANGGEN"
+  },
+  {
+    "id": "3321012007",
+    "district_id": "332101",
+    "name": "BATURSARI"
+  },
+  {
+    "id": "3321012008",
+    "district_id": "332101",
+    "name": "BANDUNGREJO"
+  },
+  {
+    "id": "3321012009",
+    "district_id": "332101",
+    "name": "BRUMBUNG"
+  },
+  {
+    "id": "3321012010",
+    "district_id": "332101",
+    "name": "KEMBANGARUM"
+  },
+  {
+    "id": "3321012011",
+    "district_id": "332101",
+    "name": "KARANGSONO"
+  },
+  {
+    "id": "3321012012",
+    "district_id": "332101",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3321012013",
+    "district_id": "332101",
+    "name": "NGEMPLAK"
+  },
+  {
+    "id": "3321012014",
+    "district_id": "332101",
+    "name": "MENUR"
+  },
+  {
+    "id": "3321012015",
+    "district_id": "332101",
+    "name": "JAMUS"
+  },
+  {
+    "id": "3321012016",
+    "district_id": "332101",
+    "name": "WRINGINJAJAR"
+  },
+  {
+    "id": "3321012017",
+    "district_id": "332101",
+    "name": "WARU"
+  },
+  {
+    "id": "3321012018",
+    "district_id": "332101",
+    "name": "TEGALARUM"
+  },
+  {
+    "id": "3321012019",
+    "district_id": "332101",
+    "name": "CANDISARI"
+  }
+]

@@ -1,1 +1,97 @@
-[{"id": "3519032001", "district_id": "351903", "name": "BANARAN"}, {"id": "3519032002", "district_id": "351903", "name": "KLOROGAN"}, {"id": "3519032003", "district_id": "351903", "name": "SLAMBUR"}, {"id": "3519032004", "district_id": "351903", "name": "GEGER"}, {"id": "3519032005", "district_id": "351903", "name": "SARENG"}, {"id": "3519032006", "district_id": "351903", "name": "PURWOREJO"}, {"id": "3519032007", "district_id": "351903", "name": "SUMBEREJO"}, {"id": "3519032008", "district_id": "351903", "name": "JATISARI"}, {"id": "3519032009", "district_id": "351903", "name": "UTERAN"}, {"id": "3519032010", "district_id": "351903", "name": "PAGOTAN"}, {"id": "3519032011", "district_id": "351903", "name": "SANGEN"}, {"id": "3519032012", "district_id": "351903", "name": "JOGODAYUH"}, {"id": "3519032013", "district_id": "351903", "name": "NGLANDUNG"}, {"id": "3519032014", "district_id": "351903", "name": "SAMBIREJO"}, {"id": "3519032015", "district_id": "351903", "name": "PUTAT"}, {"id": "3519032016", "district_id": "351903", "name": "KRANGGAN"}, {"id": "3519032017", "district_id": "351903", "name": "KAIBON"}, {"id": "3519032018", "district_id": "351903", "name": "KERTOBANYON"}, {"id": "3519032019", "district_id": "351903", "name": "KERTOSARI"}]
+[
+  {
+    "id": "3519032001",
+    "district_id": "351903",
+    "name": "BANARAN"
+  },
+  {
+    "id": "3519032002",
+    "district_id": "351903",
+    "name": "KLOROGAN"
+  },
+  {
+    "id": "3519032003",
+    "district_id": "351903",
+    "name": "SLAMBUR"
+  },
+  {
+    "id": "3519032004",
+    "district_id": "351903",
+    "name": "GEGER"
+  },
+  {
+    "id": "3519032005",
+    "district_id": "351903",
+    "name": "SARENG"
+  },
+  {
+    "id": "3519032006",
+    "district_id": "351903",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3519032007",
+    "district_id": "351903",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3519032008",
+    "district_id": "351903",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3519032009",
+    "district_id": "351903",
+    "name": "UTERAN"
+  },
+  {
+    "id": "3519032010",
+    "district_id": "351903",
+    "name": "PAGOTAN"
+  },
+  {
+    "id": "3519032011",
+    "district_id": "351903",
+    "name": "SANGEN"
+  },
+  {
+    "id": "3519032012",
+    "district_id": "351903",
+    "name": "JOGODAYUH"
+  },
+  {
+    "id": "3519032013",
+    "district_id": "351903",
+    "name": "NGLANDUNG"
+  },
+  {
+    "id": "3519032014",
+    "district_id": "351903",
+    "name": "SAMBIREJO"
+  },
+  {
+    "id": "3519032015",
+    "district_id": "351903",
+    "name": "PUTAT"
+  },
+  {
+    "id": "3519032016",
+    "district_id": "351903",
+    "name": "KRANGGAN"
+  },
+  {
+    "id": "3519032017",
+    "district_id": "351903",
+    "name": "KAIBON"
+  },
+  {
+    "id": "3519032018",
+    "district_id": "351903",
+    "name": "KERTOBANYON"
+  },
+  {
+    "id": "3519032019",
+    "district_id": "351903",
+    "name": "KERTOSARI"
+  }
+]

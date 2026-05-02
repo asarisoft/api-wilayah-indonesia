@@ -1,1 +1,27 @@
-[{"id": "3301211001", "district_id": "330121", "name": "SIDAKAYA"}, {"id": "3301211002", "district_id": "330121", "name": "CILACAP"}, {"id": "3301211003", "district_id": "330121", "name": "TAMBAKREJA"}, {"id": "3301211004", "district_id": "330121", "name": "TEGALKAMULYAN"}, {"id": "3301211005", "district_id": "330121", "name": "TEGALREJA"}]
+[
+  {
+    "id": "3301211001",
+    "district_id": "330121",
+    "name": "SIDAKAYA"
+  },
+  {
+    "id": "3301211002",
+    "district_id": "330121",
+    "name": "CILACAP"
+  },
+  {
+    "id": "3301211003",
+    "district_id": "330121",
+    "name": "TAMBAKREJA"
+  },
+  {
+    "id": "3301211004",
+    "district_id": "330121",
+    "name": "TEGALKAMULYAN"
+  },
+  {
+    "id": "3301211005",
+    "district_id": "330121",
+    "name": "TEGALREJA"
+  }
+]

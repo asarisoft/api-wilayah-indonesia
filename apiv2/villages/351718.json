@@ -1,1 +1,57 @@
-[{"id": "3517182001", "district_id": "351718", "name": "BANDARKEDUNGMULYO"}, {"id": "3517182002", "district_id": "351718", "name": "MOJOKAMBANG"}, {"id": "3517182003", "district_id": "351718", "name": "BARONGSAWAHAN"}, {"id": "3517182004", "district_id": "351718", "name": "KAYEN"}, {"id": "3517182005", "district_id": "351718", "name": "GONDANGMANIS"}, {"id": "3517182006", "district_id": "351718", "name": "BRODOT"}, {"id": "3517182007", "district_id": "351718", "name": "PUCANGSIMO"}, {"id": "3517182008", "district_id": "351718", "name": "BANJARSARI"}, {"id": "3517182009", "district_id": "351718", "name": "BRANGKAL"}, {"id": "3517182010", "district_id": "351718", "name": "KARANGDAGANGAN"}, {"id": "3517182011", "district_id": "351718", "name": "TINGGAR"}]
+[
+  {
+    "id": "3517182001",
+    "district_id": "351718",
+    "name": "BANDARKEDUNGMULYO"
+  },
+  {
+    "id": "3517182002",
+    "district_id": "351718",
+    "name": "MOJOKAMBANG"
+  },
+  {
+    "id": "3517182003",
+    "district_id": "351718",
+    "name": "BARONGSAWAHAN"
+  },
+  {
+    "id": "3517182004",
+    "district_id": "351718",
+    "name": "KAYEN"
+  },
+  {
+    "id": "3517182005",
+    "district_id": "351718",
+    "name": "GONDANGMANIS"
+  },
+  {
+    "id": "3517182006",
+    "district_id": "351718",
+    "name": "BRODOT"
+  },
+  {
+    "id": "3517182007",
+    "district_id": "351718",
+    "name": "PUCANGSIMO"
+  },
+  {
+    "id": "3517182008",
+    "district_id": "351718",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3517182009",
+    "district_id": "351718",
+    "name": "BRANGKAL"
+  },
+  {
+    "id": "3517182010",
+    "district_id": "351718",
+    "name": "KARANGDAGANGAN"
+  },
+  {
+    "id": "3517182011",
+    "district_id": "351718",
+    "name": "TINGGAR"
+  }
+]

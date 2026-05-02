@@ -1,1 +1,52 @@
-[{"id": "3314091009", "district_id": "331409", "name": "PLUMBUNGAN"}, {"id": "3314091010", "district_id": "331409", "name": "KROYO"}, {"id": "3314092001", "district_id": "331409", "name": "KEDUNGWADUK"}, {"id": "3314092002", "district_id": "331409", "name": "JURANGJERO"}, {"id": "3314092003", "district_id": "331409", "name": "SARADAN"}, {"id": "3314092004", "district_id": "331409", "name": "PLOSOKEREP"}, {"id": "3314092005", "district_id": "331409", "name": "GUWOREJO"}, {"id": "3314092006", "district_id": "331409", "name": "PURO"}, {"id": "3314092007", "district_id": "331409", "name": "MOJOREJO"}, {"id": "3314092008", "district_id": "331409", "name": "PELEMGADUNG"}]
+[
+  {
+    "id": "3314091009",
+    "district_id": "331409",
+    "name": "PLUMBUNGAN"
+  },
+  {
+    "id": "3314091010",
+    "district_id": "331409",
+    "name": "KROYO"
+  },
+  {
+    "id": "3314092001",
+    "district_id": "331409",
+    "name": "KEDUNGWADUK"
+  },
+  {
+    "id": "3314092002",
+    "district_id": "331409",
+    "name": "JURANGJERO"
+  },
+  {
+    "id": "3314092003",
+    "district_id": "331409",
+    "name": "SARADAN"
+  },
+  {
+    "id": "3314092004",
+    "district_id": "331409",
+    "name": "PLOSOKEREP"
+  },
+  {
+    "id": "3314092005",
+    "district_id": "331409",
+    "name": "GUWOREJO"
+  },
+  {
+    "id": "3314092006",
+    "district_id": "331409",
+    "name": "PURO"
+  },
+  {
+    "id": "3314092007",
+    "district_id": "331409",
+    "name": "MOJOREJO"
+  },
+  {
+    "id": "3314092008",
+    "district_id": "331409",
+    "name": "PELEMGADUNG"
+  }
+]

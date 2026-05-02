@@ -1,1 +1,112 @@
-[{"id": "6104032001", "district_id": "610403", "name": "MANIS MATA"}, {"id": "6104032002", "district_id": "610403", "name": "AIR DEKAKAH"}, {"id": "6104032003", "district_id": "610403", "name": "SUKA RAMAI"}, {"id": "6104032004", "district_id": "610403", "name": "SUAK BURUNG"}, {"id": "6104032005", "district_id": "610403", "name": "SILAT"}, {"id": "6104032006", "district_id": "610403", "name": "TERUSAN"}, {"id": "6104032007", "district_id": "610403", "name": "KEMUNING"}, {"id": "6104032008", "district_id": "610403", "name": "KELAMPAI"}, {"id": "6104032009", "district_id": "610403", "name": "BUKIT GAJAH"}, {"id": "6104032010", "district_id": "610403", "name": "LEMBAH MUKTI"}, {"id": "6104032011", "district_id": "610403", "name": "ASAM BESAR"}, {"id": "6104032012", "district_id": "610403", "name": "BATU SEDAU"}, {"id": "6104032013", "district_id": "610403", "name": "JAMBI"}, {"id": "6104032014", "district_id": "610403", "name": "SEGULING"}, {"id": "6104032015", "district_id": "610403", "name": "KALIMANTAN"}, {"id": "6104032016", "district_id": "610403", "name": "PELEMPANGAN"}, {"id": "6104032017", "district_id": "610403", "name": "SENGKUANG MERABONG"}, {"id": "6104032018", "district_id": "610403", "name": "PAKIT SELABA"}, {"id": "6104032019", "district_id": "610403", "name": "SUNGAI BULUH"}, {"id": "6104032020", "district_id": "610403", "name": "RATU ELOK"}, {"id": "6104032021", "district_id": "610403", "name": "MEKAR JAYA"}, {"id": "6104032022", "district_id": "610403", "name": "TRIBUN JAYA"}]
+[
+  {
+    "id": "6104032001",
+    "district_id": "610403",
+    "name": "MANIS MATA"
+  },
+  {
+    "id": "6104032002",
+    "district_id": "610403",
+    "name": "AIR DEKAKAH"
+  },
+  {
+    "id": "6104032003",
+    "district_id": "610403",
+    "name": "SUKA RAMAI"
+  },
+  {
+    "id": "6104032004",
+    "district_id": "610403",
+    "name": "SUAK BURUNG"
+  },
+  {
+    "id": "6104032005",
+    "district_id": "610403",
+    "name": "SILAT"
+  },
+  {
+    "id": "6104032006",
+    "district_id": "610403",
+    "name": "TERUSAN"
+  },
+  {
+    "id": "6104032007",
+    "district_id": "610403",
+    "name": "KEMUNING"
+  },
+  {
+    "id": "6104032008",
+    "district_id": "610403",
+    "name": "KELAMPAI"
+  },
+  {
+    "id": "6104032009",
+    "district_id": "610403",
+    "name": "BUKIT GAJAH"
+  },
+  {
+    "id": "6104032010",
+    "district_id": "610403",
+    "name": "LEMBAH MUKTI"
+  },
+  {
+    "id": "6104032011",
+    "district_id": "610403",
+    "name": "ASAM BESAR"
+  },
+  {
+    "id": "6104032012",
+    "district_id": "610403",
+    "name": "BATU SEDAU"
+  },
+  {
+    "id": "6104032013",
+    "district_id": "610403",
+    "name": "JAMBI"
+  },
+  {
+    "id": "6104032014",
+    "district_id": "610403",
+    "name": "SEGULING"
+  },
+  {
+    "id": "6104032015",
+    "district_id": "610403",
+    "name": "KALIMANTAN"
+  },
+  {
+    "id": "6104032016",
+    "district_id": "610403",
+    "name": "PELEMPANGAN"
+  },
+  {
+    "id": "6104032017",
+    "district_id": "610403",
+    "name": "SENGKUANG MERABONG"
+  },
+  {
+    "id": "6104032018",
+    "district_id": "610403",
+    "name": "PAKIT SELABA"
+  },
+  {
+    "id": "6104032019",
+    "district_id": "610403",
+    "name": "SUNGAI BULUH"
+  },
+  {
+    "id": "6104032020",
+    "district_id": "610403",
+    "name": "RATU ELOK"
+  },
+  {
+    "id": "6104032021",
+    "district_id": "610403",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "6104032022",
+    "district_id": "610403",
+    "name": "TRIBUN JAYA"
+  }
+]

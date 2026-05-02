@@ -1,1 +1,77 @@
-[{"id": "8107022001", "district_id": "810702", "name": "JEROL"}, {"id": "8107022002", "district_id": "810702", "name": "MARFENFEN"}, {"id": "8107022003", "district_id": "810702", "name": "KABALUKIN"}, {"id": "8107022004", "district_id": "810702", "name": "KALAR-KALAR"}, {"id": "8107022005", "district_id": "810702", "name": "FERUNI"}, {"id": "8107022006", "district_id": "810702", "name": "NGAIGULI"}, {"id": "8107022007", "district_id": "810702", "name": "FATURAL"}, {"id": "8107022008", "district_id": "810702", "name": "NGAIBOR"}, {"id": "8107022010", "district_id": "810702", "name": "POPJETUR"}, {"id": "8107022026", "district_id": "810702", "name": "LOR-LOR"}, {"id": "8107022027", "district_id": "810702", "name": "GAIMAR"}, {"id": "8107022028", "district_id": "810702", "name": "LAININIR"}, {"id": "8107022029", "district_id": "810702", "name": "DOKA BARAT"}, {"id": "8107022030", "district_id": "810702", "name": "DOKA TIMUR"}, {"id": "8107022031", "district_id": "810702", "name": "JELIA"}]
+[
+  {
+    "id": "8107022001",
+    "district_id": "810702",
+    "name": "JEROL"
+  },
+  {
+    "id": "8107022002",
+    "district_id": "810702",
+    "name": "MARFENFEN"
+  },
+  {
+    "id": "8107022003",
+    "district_id": "810702",
+    "name": "KABALUKIN"
+  },
+  {
+    "id": "8107022004",
+    "district_id": "810702",
+    "name": "KALAR-KALAR"
+  },
+  {
+    "id": "8107022005",
+    "district_id": "810702",
+    "name": "FERUNI"
+  },
+  {
+    "id": "8107022006",
+    "district_id": "810702",
+    "name": "NGAIGULI"
+  },
+  {
+    "id": "8107022007",
+    "district_id": "810702",
+    "name": "FATURAL"
+  },
+  {
+    "id": "8107022008",
+    "district_id": "810702",
+    "name": "NGAIBOR"
+  },
+  {
+    "id": "8107022010",
+    "district_id": "810702",
+    "name": "POPJETUR"
+  },
+  {
+    "id": "8107022026",
+    "district_id": "810702",
+    "name": "LOR-LOR"
+  },
+  {
+    "id": "8107022027",
+    "district_id": "810702",
+    "name": "GAIMAR"
+  },
+  {
+    "id": "8107022028",
+    "district_id": "810702",
+    "name": "LAININIR"
+  },
+  {
+    "id": "8107022029",
+    "district_id": "810702",
+    "name": "DOKA BARAT"
+  },
+  {
+    "id": "8107022030",
+    "district_id": "810702",
+    "name": "DOKA TIMUR"
+  },
+  {
+    "id": "8107022031",
+    "district_id": "810702",
+    "name": "JELIA"
+  }
+]

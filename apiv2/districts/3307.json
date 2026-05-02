@@ -1,1 +1,77 @@
-[{"id": "330701", "regency_id": "3307", "name": "WADASLINTANG"}, {"id": "330702", "regency_id": "3307", "name": "KEPIL"}, {"id": "330703", "regency_id": "3307", "name": "SAPURAN"}, {"id": "330704", "regency_id": "3307", "name": "KALIWIRO"}, {"id": "330705", "regency_id": "3307", "name": "LEKSONO"}, {"id": "330706", "regency_id": "3307", "name": "SELOMERTO"}, {"id": "330707", "regency_id": "3307", "name": "KALIKAJAR"}, {"id": "330708", "regency_id": "3307", "name": "KERTEK"}, {"id": "330709", "regency_id": "3307", "name": "WONOSOBO"}, {"id": "330710", "regency_id": "3307", "name": "WATUMALANG"}, {"id": "330711", "regency_id": "3307", "name": "MOJOTENGAH"}, {"id": "330712", "regency_id": "3307", "name": "GARUNG"}, {"id": "330713", "regency_id": "3307", "name": "KEJAJAR"}, {"id": "330714", "regency_id": "3307", "name": "SUKOHARJO"}, {"id": "330715", "regency_id": "3307", "name": "KALIBAWANG"}]
+[
+  {
+    "id": "330701",
+    "regency_id": "3307",
+    "name": "WADASLINTANG"
+  },
+  {
+    "id": "330702",
+    "regency_id": "3307",
+    "name": "KEPIL"
+  },
+  {
+    "id": "330703",
+    "regency_id": "3307",
+    "name": "SAPURAN"
+  },
+  {
+    "id": "330704",
+    "regency_id": "3307",
+    "name": "KALIWIRO"
+  },
+  {
+    "id": "330705",
+    "regency_id": "3307",
+    "name": "LEKSONO"
+  },
+  {
+    "id": "330706",
+    "regency_id": "3307",
+    "name": "SELOMERTO"
+  },
+  {
+    "id": "330707",
+    "regency_id": "3307",
+    "name": "KALIKAJAR"
+  },
+  {
+    "id": "330708",
+    "regency_id": "3307",
+    "name": "KERTEK"
+  },
+  {
+    "id": "330709",
+    "regency_id": "3307",
+    "name": "WONOSOBO"
+  },
+  {
+    "id": "330710",
+    "regency_id": "3307",
+    "name": "WATUMALANG"
+  },
+  {
+    "id": "330711",
+    "regency_id": "3307",
+    "name": "MOJOTENGAH"
+  },
+  {
+    "id": "330712",
+    "regency_id": "3307",
+    "name": "GARUNG"
+  },
+  {
+    "id": "330713",
+    "regency_id": "3307",
+    "name": "KEJAJAR"
+  },
+  {
+    "id": "330714",
+    "regency_id": "3307",
+    "name": "SUKOHARJO"
+  },
+  {
+    "id": "330715",
+    "regency_id": "3307",
+    "name": "KALIBAWANG"
+  }
+]

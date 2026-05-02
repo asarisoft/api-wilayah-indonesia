@@ -1,1 +1,62 @@
-[{"id": "3211072001", "district_id": "321107", "name": "CONGGEANG KULON"}, {"id": "3211072002", "district_id": "321107", "name": "CONGGEANG WETAN"}, {"id": "3211072003", "district_id": "321107", "name": "CIPAMEKAR"}, {"id": "3211072004", "district_id": "321107", "name": "CIBEUREUYEUH"}, {"id": "3211072005", "district_id": "321107", "name": "JAMBU"}, {"id": "3211072006", "district_id": "321107", "name": "BABAKAN ASEM"}, {"id": "3211072007", "district_id": "321107", "name": "PADAASIH"}, {"id": "3211072008", "district_id": "321107", "name": "UNGKAL"}, {"id": "3211072009", "district_id": "321107", "name": "KARANGLAYUNG"}, {"id": "3211072010", "district_id": "321107", "name": "CACABAN"}, {"id": "3211072011", "district_id": "321107", "name": "NARIMBANG"}, {"id": "3211072012", "district_id": "321107", "name": "CIBUBUAN"}]
+[
+  {
+    "id": "3211072001",
+    "district_id": "321107",
+    "name": "CONGGEANG KULON"
+  },
+  {
+    "id": "3211072002",
+    "district_id": "321107",
+    "name": "CONGGEANG WETAN"
+  },
+  {
+    "id": "3211072003",
+    "district_id": "321107",
+    "name": "CIPAMEKAR"
+  },
+  {
+    "id": "3211072004",
+    "district_id": "321107",
+    "name": "CIBEUREUYEUH"
+  },
+  {
+    "id": "3211072005",
+    "district_id": "321107",
+    "name": "JAMBU"
+  },
+  {
+    "id": "3211072006",
+    "district_id": "321107",
+    "name": "BABAKAN ASEM"
+  },
+  {
+    "id": "3211072007",
+    "district_id": "321107",
+    "name": "PADAASIH"
+  },
+  {
+    "id": "3211072008",
+    "district_id": "321107",
+    "name": "UNGKAL"
+  },
+  {
+    "id": "3211072009",
+    "district_id": "321107",
+    "name": "KARANGLAYUNG"
+  },
+  {
+    "id": "3211072010",
+    "district_id": "321107",
+    "name": "CACABAN"
+  },
+  {
+    "id": "3211072011",
+    "district_id": "321107",
+    "name": "NARIMBANG"
+  },
+  {
+    "id": "3211072012",
+    "district_id": "321107",
+    "name": "CIBUBUAN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "3511032001", "district_id": "351103", "name": "KEMBANG"}, {"id": "3511032002", "district_id": "351103", "name": "GUNOSARI"}, {"id": "3511032003", "district_id": "351103", "name": "TROTOSARI"}, {"id": "3511032004", "district_id": "351103", "name": "JEBUNG KIDUL"}, {"id": "3511032005", "district_id": "351103", "name": "SULEK"}, {"id": "3511032006", "district_id": "351103", "name": "TLOGOSARI"}, {"id": "3511032007", "district_id": "351103", "name": "PAKISAN"}, {"id": "3511032008", "district_id": "351103", "name": "PATEMON"}, {"id": "3511032009", "district_id": "351103", "name": "JEBUNG LOR"}, {"id": "3511032010", "district_id": "351103", "name": "BRAMBANG DARUSSALAM"}]
+[
+  {
+    "id": "3511032001",
+    "district_id": "351103",
+    "name": "KEMBANG"
+  },
+  {
+    "id": "3511032002",
+    "district_id": "351103",
+    "name": "GUNOSARI"
+  },
+  {
+    "id": "3511032003",
+    "district_id": "351103",
+    "name": "TROTOSARI"
+  },
+  {
+    "id": "3511032004",
+    "district_id": "351103",
+    "name": "JEBUNG KIDUL"
+  },
+  {
+    "id": "3511032005",
+    "district_id": "351103",
+    "name": "SULEK"
+  },
+  {
+    "id": "3511032006",
+    "district_id": "351103",
+    "name": "TLOGOSARI"
+  },
+  {
+    "id": "3511032007",
+    "district_id": "351103",
+    "name": "PAKISAN"
+  },
+  {
+    "id": "3511032008",
+    "district_id": "351103",
+    "name": "PATEMON"
+  },
+  {
+    "id": "3511032009",
+    "district_id": "351103",
+    "name": "JEBUNG LOR"
+  },
+  {
+    "id": "3511032010",
+    "district_id": "351103",
+    "name": "BRAMBANG DARUSSALAM"
+  }
+]

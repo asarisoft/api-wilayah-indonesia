@@ -1,1 +1,42 @@
-[{"id": "190301", "regency_id": "1903", "name": "TOBOALI"}, {"id": "190302", "regency_id": "1903", "name": "LEPAR"}, {"id": "190303", "regency_id": "1903", "name": "AIRGEGAS"}, {"id": "190304", "regency_id": "1903", "name": "SIMPANG RIMBA"}, {"id": "190305", "regency_id": "1903", "name": "PAYUNG"}, {"id": "190306", "regency_id": "1903", "name": "TUKAK SADAI"}, {"id": "190307", "regency_id": "1903", "name": "PULAU BESAR"}, {"id": "190308", "regency_id": "1903", "name": "KEPULAUAN PONGOK"}]
+[
+  {
+    "id": "190301",
+    "regency_id": "1903",
+    "name": "TOBOALI"
+  },
+  {
+    "id": "190302",
+    "regency_id": "1903",
+    "name": "LEPAR"
+  },
+  {
+    "id": "190303",
+    "regency_id": "1903",
+    "name": "AIRGEGAS"
+  },
+  {
+    "id": "190304",
+    "regency_id": "1903",
+    "name": "SIMPANG RIMBA"
+  },
+  {
+    "id": "190305",
+    "regency_id": "1903",
+    "name": "PAYUNG"
+  },
+  {
+    "id": "190306",
+    "regency_id": "1903",
+    "name": "TUKAK SADAI"
+  },
+  {
+    "id": "190307",
+    "regency_id": "1903",
+    "name": "PULAU BESAR"
+  },
+  {
+    "id": "190308",
+    "regency_id": "1903",
+    "name": "KEPULAUAN PONGOK"
+  }
+]

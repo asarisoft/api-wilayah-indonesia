@@ -1,1 +1,27 @@
-[{"id": "122201", "regency_id": "1222", "name": "KOTAPINANG"}, {"id": "122202", "regency_id": "1222", "name": "KAMPUNG RAKYAT"}, {"id": "122203", "regency_id": "1222", "name": "TORGAMBA"}, {"id": "122204", "regency_id": "1222", "name": "SUNGAI KANAN"}, {"id": "122205", "regency_id": "1222", "name": "SILANGKITANG"}]
+[
+  {
+    "id": "122201",
+    "regency_id": "1222",
+    "name": "KOTAPINANG"
+  },
+  {
+    "id": "122202",
+    "regency_id": "1222",
+    "name": "KAMPUNG RAKYAT"
+  },
+  {
+    "id": "122203",
+    "regency_id": "1222",
+    "name": "TORGAMBA"
+  },
+  {
+    "id": "122204",
+    "regency_id": "1222",
+    "name": "SUNGAI KANAN"
+  },
+  {
+    "id": "122205",
+    "regency_id": "1222",
+    "name": "SILANGKITANG"
+  }
+]

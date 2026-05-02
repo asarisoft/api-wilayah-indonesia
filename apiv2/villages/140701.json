@@ -1,1 +1,52 @@
-[{"id": "1407011010", "district_id": "140701", "name": "TELUKMERBAU"}, {"id": "1407012002", "district_id": "140701", "name": "TANJUNGLEBAN"}, {"id": "1407012003", "district_id": "140701", "name": "SUNGAIKUBU"}, {"id": "1407012004", "district_id": "140701", "name": "RANTAU PANJANG KANAN"}, {"id": "1407012012", "district_id": "140701", "name": "TELUKPIYAI"}, {"id": "1407012013", "district_id": "140701", "name": "SUNGAISEGAJAH"}, {"id": "1407012015", "district_id": "140701", "name": "SEI SEGAJAH MAKMUR"}, {"id": "1407012020", "district_id": "140701", "name": "TELUKPIYAI PESISIR"}, {"id": "1407012021", "district_id": "140701", "name": "SUNGAIKUBU HULU"}, {"id": "1407012022", "district_id": "140701", "name": "SUNGAI SEGAJAH JAYA"}]
+[
+  {
+    "id": "1407011010",
+    "district_id": "140701",
+    "name": "TELUKMERBAU"
+  },
+  {
+    "id": "1407012002",
+    "district_id": "140701",
+    "name": "TANJUNGLEBAN"
+  },
+  {
+    "id": "1407012003",
+    "district_id": "140701",
+    "name": "SUNGAIKUBU"
+  },
+  {
+    "id": "1407012004",
+    "district_id": "140701",
+    "name": "RANTAU PANJANG KANAN"
+  },
+  {
+    "id": "1407012012",
+    "district_id": "140701",
+    "name": "TELUKPIYAI"
+  },
+  {
+    "id": "1407012013",
+    "district_id": "140701",
+    "name": "SUNGAISEGAJAH"
+  },
+  {
+    "id": "1407012015",
+    "district_id": "140701",
+    "name": "SEI SEGAJAH MAKMUR"
+  },
+  {
+    "id": "1407012020",
+    "district_id": "140701",
+    "name": "TELUKPIYAI PESISIR"
+  },
+  {
+    "id": "1407012021",
+    "district_id": "140701",
+    "name": "SUNGAIKUBU HULU"
+  },
+  {
+    "id": "1407012022",
+    "district_id": "140701",
+    "name": "SUNGAI SEGAJAH JAYA"
+  }
+]

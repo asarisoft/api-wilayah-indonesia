@@ -1,1 +1,67 @@
-[{"id": "5309191001", "district_id": "530919", "name": "MANGULEWA"}, {"id": "5309192002", "district_id": "530919", "name": "TUREKISA"}, {"id": "5309192003", "district_id": "530919", "name": "RAKALABA"}, {"id": "5309192004", "district_id": "530919", "name": "SOBO"}, {"id": "5309192005", "district_id": "530919", "name": "SOBO I"}, {"id": "5309192006", "district_id": "530919", "name": "RAKATEDA I"}, {"id": "5309192007", "district_id": "530919", "name": "RAKATEDA II"}, {"id": "5309192008", "district_id": "530919", "name": "WATUNAY"}, {"id": "5309192009", "district_id": "530919", "name": "DIZI GEDHA"}, {"id": "5309192010", "district_id": "530919", "name": "BEA PAWE"}, {"id": "5309192011", "district_id": "530919", "name": "BOPOMA"}, {"id": "5309192012", "district_id": "530919", "name": "RAKALABA I"}, {"id": "5309192013", "district_id": "530919", "name": "SOBO II"}]
+[
+  {
+    "id": "5309191001",
+    "district_id": "530919",
+    "name": "MANGULEWA"
+  },
+  {
+    "id": "5309192002",
+    "district_id": "530919",
+    "name": "TUREKISA"
+  },
+  {
+    "id": "5309192003",
+    "district_id": "530919",
+    "name": "RAKALABA"
+  },
+  {
+    "id": "5309192004",
+    "district_id": "530919",
+    "name": "SOBO"
+  },
+  {
+    "id": "5309192005",
+    "district_id": "530919",
+    "name": "SOBO I"
+  },
+  {
+    "id": "5309192006",
+    "district_id": "530919",
+    "name": "RAKATEDA I"
+  },
+  {
+    "id": "5309192007",
+    "district_id": "530919",
+    "name": "RAKATEDA II"
+  },
+  {
+    "id": "5309192008",
+    "district_id": "530919",
+    "name": "WATUNAY"
+  },
+  {
+    "id": "5309192009",
+    "district_id": "530919",
+    "name": "DIZI GEDHA"
+  },
+  {
+    "id": "5309192010",
+    "district_id": "530919",
+    "name": "BEA PAWE"
+  },
+  {
+    "id": "5309192011",
+    "district_id": "530919",
+    "name": "BOPOMA"
+  },
+  {
+    "id": "5309192012",
+    "district_id": "530919",
+    "name": "RAKALABA I"
+  },
+  {
+    "id": "5309192013",
+    "district_id": "530919",
+    "name": "SOBO II"
+  }
+]

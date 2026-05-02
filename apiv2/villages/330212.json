@@ -1,1 +1,67 @@
-[{"id": "3302122001", "district_id": "330212", "name": "WLAHAR KULON"}, {"id": "3302122002", "district_id": "330212", "name": "SOKAWERA"}, {"id": "3302122003", "district_id": "330212", "name": "PEGALONGAN"}, {"id": "3302122004", "district_id": "330212", "name": "PATIKRAJA"}, {"id": "3302122005", "district_id": "330212", "name": "NOTOG"}, {"id": "3302122006", "district_id": "330212", "name": "KARANGENDEP"}, {"id": "3302122007", "district_id": "330212", "name": "SAWANGAN WETAN"}, {"id": "3302122008", "district_id": "330212", "name": "KEDUNGWULUH KIDUL"}, {"id": "3302122009", "district_id": "330212", "name": "KEDUNGRANDU"}, {"id": "3302122010", "district_id": "330212", "name": "KEDUNGWULUH LOR"}, {"id": "3302122011", "district_id": "330212", "name": "KARANGANYAR"}, {"id": "3302122012", "district_id": "330212", "name": "SIDABOWA"}, {"id": "3302122013", "district_id": "330212", "name": "KEDUNGWRINGIN"}]
+[
+  {
+    "id": "3302122001",
+    "district_id": "330212",
+    "name": "WLAHAR KULON"
+  },
+  {
+    "id": "3302122002",
+    "district_id": "330212",
+    "name": "SOKAWERA"
+  },
+  {
+    "id": "3302122003",
+    "district_id": "330212",
+    "name": "PEGALONGAN"
+  },
+  {
+    "id": "3302122004",
+    "district_id": "330212",
+    "name": "PATIKRAJA"
+  },
+  {
+    "id": "3302122005",
+    "district_id": "330212",
+    "name": "NOTOG"
+  },
+  {
+    "id": "3302122006",
+    "district_id": "330212",
+    "name": "KARANGENDEP"
+  },
+  {
+    "id": "3302122007",
+    "district_id": "330212",
+    "name": "SAWANGAN WETAN"
+  },
+  {
+    "id": "3302122008",
+    "district_id": "330212",
+    "name": "KEDUNGWULUH KIDUL"
+  },
+  {
+    "id": "3302122009",
+    "district_id": "330212",
+    "name": "KEDUNGRANDU"
+  },
+  {
+    "id": "3302122010",
+    "district_id": "330212",
+    "name": "KEDUNGWULUH LOR"
+  },
+  {
+    "id": "3302122011",
+    "district_id": "330212",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3302122012",
+    "district_id": "330212",
+    "name": "SIDABOWA"
+  },
+  {
+    "id": "3302122013",
+    "district_id": "330212",
+    "name": "KEDUNGWRINGIN"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "7207052001", "district_id": "720705", "name": "TANGKOP"}, {"id": "7207052002", "district_id": "720705", "name": "BINUNTULI"}, {"id": "7207052003", "district_id": "720705", "name": "POPIDOLON"}, {"id": "7207052004", "district_id": "720705", "name": "OKUMEL"}, {"id": "7207052005", "district_id": "720705", "name": "TOMBONIKI"}, {"id": "7207052006", "district_id": "720705", "name": "KINDANDAL"}, {"id": "7207052007", "district_id": "720705", "name": "MAMULUSAN"}, {"id": "7207052010", "district_id": "720705", "name": "SALEATI"}, {"id": "7207052011", "district_id": "720705", "name": "LIANG"}, {"id": "7207052012", "district_id": "720705", "name": "BAJO"}, {"id": "7207052013", "district_id": "720705", "name": "BALAYON"}, {"id": "7207052016", "district_id": "720705", "name": "BASOSOL"}, {"id": "7207052017", "district_id": "720705", "name": "BOYOUMOUTE"}, {"id": "7207052018", "district_id": "720705", "name": "APAL"}, {"id": "7207052025", "district_id": "720705", "name": "SELEKAN"}, {"id": "7207052026", "district_id": "720705", "name": "LOOLONG"}]
+[
+  {
+    "id": "7207052001",
+    "district_id": "720705",
+    "name": "TANGKOP"
+  },
+  {
+    "id": "7207052002",
+    "district_id": "720705",
+    "name": "BINUNTULI"
+  },
+  {
+    "id": "7207052003",
+    "district_id": "720705",
+    "name": "POPIDOLON"
+  },
+  {
+    "id": "7207052004",
+    "district_id": "720705",
+    "name": "OKUMEL"
+  },
+  {
+    "id": "7207052005",
+    "district_id": "720705",
+    "name": "TOMBONIKI"
+  },
+  {
+    "id": "7207052006",
+    "district_id": "720705",
+    "name": "KINDANDAL"
+  },
+  {
+    "id": "7207052007",
+    "district_id": "720705",
+    "name": "MAMULUSAN"
+  },
+  {
+    "id": "7207052010",
+    "district_id": "720705",
+    "name": "SALEATI"
+  },
+  {
+    "id": "7207052011",
+    "district_id": "720705",
+    "name": "LIANG"
+  },
+  {
+    "id": "7207052012",
+    "district_id": "720705",
+    "name": "BAJO"
+  },
+  {
+    "id": "7207052013",
+    "district_id": "720705",
+    "name": "BALAYON"
+  },
+  {
+    "id": "7207052016",
+    "district_id": "720705",
+    "name": "BASOSOL"
+  },
+  {
+    "id": "7207052017",
+    "district_id": "720705",
+    "name": "BOYOUMOUTE"
+  },
+  {
+    "id": "7207052018",
+    "district_id": "720705",
+    "name": "APAL"
+  },
+  {
+    "id": "7207052025",
+    "district_id": "720705",
+    "name": "SELEKAN"
+  },
+  {
+    "id": "7207052026",
+    "district_id": "720705",
+    "name": "LOOLONG"
+  }
+]

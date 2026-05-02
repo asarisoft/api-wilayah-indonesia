@@ -1,1 +1,27 @@
-[{"id": "3402032001", "district_id": "340203", "name": "TIRTOMULYO"}, {"id": "3402032002", "district_id": "340203", "name": "PARANGTRITIS"}, {"id": "3402032003", "district_id": "340203", "name": "DONOTIRTO"}, {"id": "3402032004", "district_id": "340203", "name": "TIRTOSARI"}, {"id": "3402032005", "district_id": "340203", "name": "TIRTOHARGO"}]
+[
+  {
+    "id": "3402032001",
+    "district_id": "340203",
+    "name": "TIRTOMULYO"
+  },
+  {
+    "id": "3402032002",
+    "district_id": "340203",
+    "name": "PARANGTRITIS"
+  },
+  {
+    "id": "3402032003",
+    "district_id": "340203",
+    "name": "DONOTIRTO"
+  },
+  {
+    "id": "3402032004",
+    "district_id": "340203",
+    "name": "TIRTOSARI"
+  },
+  {
+    "id": "3402032005",
+    "district_id": "340203",
+    "name": "TIRTOHARGO"
+  }
+]

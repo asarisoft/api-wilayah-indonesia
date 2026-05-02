@@ -1,1 +1,22 @@
-[{"id": "5204122003", "district_id": "520412", "name": "LAPE"}, {"id": "5204122005", "district_id": "520412", "name": "LABUHAN KURIS"}, {"id": "5204122006", "district_id": "520412", "name": "DETE"}, {"id": "5204122009", "district_id": "520412", "name": "HIJRAH"}]
+[
+  {
+    "id": "5204122003",
+    "district_id": "520412",
+    "name": "LAPE"
+  },
+  {
+    "id": "5204122005",
+    "district_id": "520412",
+    "name": "LABUHAN KURIS"
+  },
+  {
+    "id": "5204122006",
+    "district_id": "520412",
+    "name": "DETE"
+  },
+  {
+    "id": "5204122009",
+    "district_id": "520412",
+    "name": "HIJRAH"
+  }
+]

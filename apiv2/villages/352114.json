@@ -1,1 +1,47 @@
-[{"id": "3521142001", "district_id": "352114", "name": "BABADAN"}, {"id": "3521142002", "district_id": "352114", "name": "POHKONYAL"}, {"id": "3521142003", "district_id": "352114", "name": "SUMBER"}, {"id": "3521142004", "district_id": "352114", "name": "GANDRI"}, {"id": "3521142005", "district_id": "352114", "name": "PLESET"}, {"id": "3521142006", "district_id": "352114", "name": "WARUKTENGAH"}, {"id": "3521142007", "district_id": "352114", "name": "NGOMPRO"}, {"id": "3521142008", "district_id": "352114", "name": "PANGKUR"}, {"id": "3521142009", "district_id": "352114", "name": "PARAS"}]
+[
+  {
+    "id": "3521142001",
+    "district_id": "352114",
+    "name": "BABADAN"
+  },
+  {
+    "id": "3521142002",
+    "district_id": "352114",
+    "name": "POHKONYAL"
+  },
+  {
+    "id": "3521142003",
+    "district_id": "352114",
+    "name": "SUMBER"
+  },
+  {
+    "id": "3521142004",
+    "district_id": "352114",
+    "name": "GANDRI"
+  },
+  {
+    "id": "3521142005",
+    "district_id": "352114",
+    "name": "PLESET"
+  },
+  {
+    "id": "3521142006",
+    "district_id": "352114",
+    "name": "WARUKTENGAH"
+  },
+  {
+    "id": "3521142007",
+    "district_id": "352114",
+    "name": "NGOMPRO"
+  },
+  {
+    "id": "3521142008",
+    "district_id": "352114",
+    "name": "PANGKUR"
+  },
+  {
+    "id": "3521142009",
+    "district_id": "352114",
+    "name": "PARAS"
+  }
+]

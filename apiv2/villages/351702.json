@@ -1,1 +1,92 @@
-[{"id": "3517022001", "district_id": "351702", "name": "PUCANGRO"}, {"id": "3517022002", "district_id": "351702", "name": "KEDUNGTURI"}, {"id": "3517022003", "district_id": "351702", "name": "JAPANAN"}, {"id": "3517022004", "district_id": "351702", "name": "BLIMBING"}, {"id": "3517022005", "district_id": "351702", "name": "MENTAOS"}, {"id": "3517022006", "district_id": "351702", "name": "SUKOIBER"}, {"id": "3517022007", "district_id": "351702", "name": "SUKOPINGGIR"}, {"id": "3517022008", "district_id": "351702", "name": "BUGASUR KEDALEMAN"}, {"id": "3517022009", "district_id": "351702", "name": "GUDO"}, {"id": "3517022010", "district_id": "351702", "name": "PESANGGRAHAN"}, {"id": "3517022011", "district_id": "351702", "name": "WANGKALKEPUH"}, {"id": "3517022012", "district_id": "351702", "name": "KREMBANGAN"}, {"id": "3517022013", "district_id": "351702", "name": "SEPANYUL"}, {"id": "3517022014", "district_id": "351702", "name": "GODONG"}, {"id": "3517022015", "district_id": "351702", "name": "MEJOYOLOSARI"}, {"id": "3517022016", "district_id": "351702", "name": "PLUMBON GAMBANG"}, {"id": "3517022017", "district_id": "351702", "name": "GEMPOLLEGUNDI"}, {"id": "3517022018", "district_id": "351702", "name": "TANGGUNGAN"}]
+[
+  {
+    "id": "3517022001",
+    "district_id": "351702",
+    "name": "PUCANGRO"
+  },
+  {
+    "id": "3517022002",
+    "district_id": "351702",
+    "name": "KEDUNGTURI"
+  },
+  {
+    "id": "3517022003",
+    "district_id": "351702",
+    "name": "JAPANAN"
+  },
+  {
+    "id": "3517022004",
+    "district_id": "351702",
+    "name": "BLIMBING"
+  },
+  {
+    "id": "3517022005",
+    "district_id": "351702",
+    "name": "MENTAOS"
+  },
+  {
+    "id": "3517022006",
+    "district_id": "351702",
+    "name": "SUKOIBER"
+  },
+  {
+    "id": "3517022007",
+    "district_id": "351702",
+    "name": "SUKOPINGGIR"
+  },
+  {
+    "id": "3517022008",
+    "district_id": "351702",
+    "name": "BUGASUR KEDALEMAN"
+  },
+  {
+    "id": "3517022009",
+    "district_id": "351702",
+    "name": "GUDO"
+  },
+  {
+    "id": "3517022010",
+    "district_id": "351702",
+    "name": "PESANGGRAHAN"
+  },
+  {
+    "id": "3517022011",
+    "district_id": "351702",
+    "name": "WANGKALKEPUH"
+  },
+  {
+    "id": "3517022012",
+    "district_id": "351702",
+    "name": "KREMBANGAN"
+  },
+  {
+    "id": "3517022013",
+    "district_id": "351702",
+    "name": "SEPANYUL"
+  },
+  {
+    "id": "3517022014",
+    "district_id": "351702",
+    "name": "GODONG"
+  },
+  {
+    "id": "3517022015",
+    "district_id": "351702",
+    "name": "MEJOYOLOSARI"
+  },
+  {
+    "id": "3517022016",
+    "district_id": "351702",
+    "name": "PLUMBON GAMBANG"
+  },
+  {
+    "id": "3517022017",
+    "district_id": "351702",
+    "name": "GEMPOLLEGUNDI"
+  },
+  {
+    "id": "3517022018",
+    "district_id": "351702",
+    "name": "TANGGUNGAN"
+  }
+]

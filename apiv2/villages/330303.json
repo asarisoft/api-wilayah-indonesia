@@ -1,1 +1,67 @@
-[{"id": "3303032001", "district_id": "330303", "name": "BANDINGAN"}, {"id": "3303032002", "district_id": "330303", "name": "LAMUK"}, {"id": "3303032003", "district_id": "330303", "name": "SOKANEGARA"}, {"id": "3303032004", "district_id": "330303", "name": "GUMIWANG"}, {"id": "3303032005", "district_id": "330303", "name": "KRENCENG"}, {"id": "3303032006", "district_id": "330303", "name": "NANGKASAWIT"}, {"id": "3303032007", "district_id": "330303", "name": "PANDANSARI"}, {"id": "3303032008", "district_id": "330303", "name": "KEJOBONG"}, {"id": "3303032009", "district_id": "330303", "name": "LANGGAR"}, {"id": "3303032010", "district_id": "330303", "name": "TIMBANG"}, {"id": "3303032011", "district_id": "330303", "name": "NANGKOD"}, {"id": "3303032012", "district_id": "330303", "name": "KEDARPAN"}, {"id": "3303032013", "district_id": "330303", "name": "PANGEMPON"}]
+[
+  {
+    "id": "3303032001",
+    "district_id": "330303",
+    "name": "BANDINGAN"
+  },
+  {
+    "id": "3303032002",
+    "district_id": "330303",
+    "name": "LAMUK"
+  },
+  {
+    "id": "3303032003",
+    "district_id": "330303",
+    "name": "SOKANEGARA"
+  },
+  {
+    "id": "3303032004",
+    "district_id": "330303",
+    "name": "GUMIWANG"
+  },
+  {
+    "id": "3303032005",
+    "district_id": "330303",
+    "name": "KRENCENG"
+  },
+  {
+    "id": "3303032006",
+    "district_id": "330303",
+    "name": "NANGKASAWIT"
+  },
+  {
+    "id": "3303032007",
+    "district_id": "330303",
+    "name": "PANDANSARI"
+  },
+  {
+    "id": "3303032008",
+    "district_id": "330303",
+    "name": "KEJOBONG"
+  },
+  {
+    "id": "3303032009",
+    "district_id": "330303",
+    "name": "LANGGAR"
+  },
+  {
+    "id": "3303032010",
+    "district_id": "330303",
+    "name": "TIMBANG"
+  },
+  {
+    "id": "3303032011",
+    "district_id": "330303",
+    "name": "NANGKOD"
+  },
+  {
+    "id": "3303032012",
+    "district_id": "330303",
+    "name": "KEDARPAN"
+  },
+  {
+    "id": "3303032013",
+    "district_id": "330303",
+    "name": "PANGEMPON"
+  }
+]

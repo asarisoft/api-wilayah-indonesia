@@ -1,1 +1,32 @@
-[{"id": "1703012001", "district_id": "170301", "name": "BANJAR SARI"}, {"id": "1703012002", "district_id": "170301", "name": "MEOK"}, {"id": "1703012003", "district_id": "170301", "name": "MALAKONI"}, {"id": "1703012004", "district_id": "170301", "name": "KAANA"}, {"id": "1703012005", "district_id": "170301", "name": "KAHYAPU"}, {"id": "1703012006", "district_id": "170301", "name": "APOHO"}]
+[
+  {
+    "id": "1703012001",
+    "district_id": "170301",
+    "name": "BANJAR SARI"
+  },
+  {
+    "id": "1703012002",
+    "district_id": "170301",
+    "name": "MEOK"
+  },
+  {
+    "id": "1703012003",
+    "district_id": "170301",
+    "name": "MALAKONI"
+  },
+  {
+    "id": "1703012004",
+    "district_id": "170301",
+    "name": "KAANA"
+  },
+  {
+    "id": "1703012005",
+    "district_id": "170301",
+    "name": "KAHYAPU"
+  },
+  {
+    "id": "1703012006",
+    "district_id": "170301",
+    "name": "APOHO"
+  }
+]

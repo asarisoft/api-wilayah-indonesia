@@ -1,1 +1,67 @@
-[{"id": "3514012001", "district_id": "351401", "name": "GERBO"}, {"id": "3514012002", "district_id": "351401", "name": "DAWUHANSENGON"}, {"id": "3514012003", "district_id": "351401", "name": "LEBAKREJO"}, {"id": "3514012004", "district_id": "351401", "name": "COWEK"}, {"id": "3514012005", "district_id": "351401", "name": "PURWODADI"}, {"id": "3514012006", "district_id": "351401", "name": "PAREREJO"}, {"id": "3514012007", "district_id": "351401", "name": "GAJAHREJO"}, {"id": "3514012008", "district_id": "351401", "name": "SENTUL"}, {"id": "3514012009", "district_id": "351401", "name": "JATISARI"}, {"id": "3514012010", "district_id": "351401", "name": "TAMBAKSARI"}, {"id": "3514012011", "district_id": "351401", "name": "PUCANGSARI"}, {"id": "3514012012", "district_id": "351401", "name": "SEMUT"}, {"id": "3514012013", "district_id": "351401", "name": "CAPANG"}]
+[
+  {
+    "id": "3514012001",
+    "district_id": "351401",
+    "name": "GERBO"
+  },
+  {
+    "id": "3514012002",
+    "district_id": "351401",
+    "name": "DAWUHANSENGON"
+  },
+  {
+    "id": "3514012003",
+    "district_id": "351401",
+    "name": "LEBAKREJO"
+  },
+  {
+    "id": "3514012004",
+    "district_id": "351401",
+    "name": "COWEK"
+  },
+  {
+    "id": "3514012005",
+    "district_id": "351401",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "3514012006",
+    "district_id": "351401",
+    "name": "PAREREJO"
+  },
+  {
+    "id": "3514012007",
+    "district_id": "351401",
+    "name": "GAJAHREJO"
+  },
+  {
+    "id": "3514012008",
+    "district_id": "351401",
+    "name": "SENTUL"
+  },
+  {
+    "id": "3514012009",
+    "district_id": "351401",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3514012010",
+    "district_id": "351401",
+    "name": "TAMBAKSARI"
+  },
+  {
+    "id": "3514012011",
+    "district_id": "351401",
+    "name": "PUCANGSARI"
+  },
+  {
+    "id": "3514012012",
+    "district_id": "351401",
+    "name": "SEMUT"
+  },
+  {
+    "id": "3514012013",
+    "district_id": "351401",
+    "name": "CAPANG"
+  }
+]

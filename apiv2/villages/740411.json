@@ -1,1 +1,112 @@
-[{"id": "7404111005", "district_id": "740411", "name": "WAKOKO"}, {"id": "7404111006", "district_id": "740411", "name": "WASAGA"}, {"id": "7404111020", "district_id": "740411", "name": "HOLIMOMBO"}, {"id": "7404111021", "district_id": "740411", "name": "KOMBELI"}, {"id": "7404111022", "district_id": "740411", "name": "TAKIMPO"}, {"id": "7404111023", "district_id": "740411", "name": "AWAINULU"}, {"id": "7404111026", "district_id": "740411", "name": "KAMBULABULANA"}, {"id": "7404111027", "district_id": "740411", "name": "PASARWAJO"}, {"id": "7404111028", "district_id": "740411", "name": "SARAGI"}, {"id": "7404112002", "district_id": "740411", "name": "WAANGU-ANGU"}, {"id": "7404112003", "district_id": "740411", "name": "WARINTA"}, {"id": "7404112004", "district_id": "740411", "name": "LAPODI"}, {"id": "7404112007", "district_id": "740411", "name": "KANCINAA"}, {"id": "7404112008", "district_id": "740411", "name": "WINNING"}, {"id": "7404112017", "district_id": "740411", "name": "HOLIMOMBO JAYA"}, {"id": "7404112018", "district_id": "740411", "name": "KONDOWA"}, {"id": "7404112019", "district_id": "740411", "name": "DONGKALA"}, {"id": "7404112024", "district_id": "740411", "name": "LABURUNCI"}, {"id": "7404112025", "district_id": "740411", "name": "BANABUNGI"}, {"id": "7404112029", "district_id": "740411", "name": "KABAWAKOLE"}, {"id": "7404112030", "district_id": "740411", "name": "MANTOWU"}, {"id": "7404112031", "district_id": "740411", "name": "KAONGKEONGKEA"}]
+[
+  {
+    "id": "7404111005",
+    "district_id": "740411",
+    "name": "WAKOKO"
+  },
+  {
+    "id": "7404111006",
+    "district_id": "740411",
+    "name": "WASAGA"
+  },
+  {
+    "id": "7404111020",
+    "district_id": "740411",
+    "name": "HOLIMOMBO"
+  },
+  {
+    "id": "7404111021",
+    "district_id": "740411",
+    "name": "KOMBELI"
+  },
+  {
+    "id": "7404111022",
+    "district_id": "740411",
+    "name": "TAKIMPO"
+  },
+  {
+    "id": "7404111023",
+    "district_id": "740411",
+    "name": "AWAINULU"
+  },
+  {
+    "id": "7404111026",
+    "district_id": "740411",
+    "name": "KAMBULABULANA"
+  },
+  {
+    "id": "7404111027",
+    "district_id": "740411",
+    "name": "PASARWAJO"
+  },
+  {
+    "id": "7404111028",
+    "district_id": "740411",
+    "name": "SARAGI"
+  },
+  {
+    "id": "7404112002",
+    "district_id": "740411",
+    "name": "WAANGU-ANGU"
+  },
+  {
+    "id": "7404112003",
+    "district_id": "740411",
+    "name": "WARINTA"
+  },
+  {
+    "id": "7404112004",
+    "district_id": "740411",
+    "name": "LAPODI"
+  },
+  {
+    "id": "7404112007",
+    "district_id": "740411",
+    "name": "KANCINAA"
+  },
+  {
+    "id": "7404112008",
+    "district_id": "740411",
+    "name": "WINNING"
+  },
+  {
+    "id": "7404112017",
+    "district_id": "740411",
+    "name": "HOLIMOMBO JAYA"
+  },
+  {
+    "id": "7404112018",
+    "district_id": "740411",
+    "name": "KONDOWA"
+  },
+  {
+    "id": "7404112019",
+    "district_id": "740411",
+    "name": "DONGKALA"
+  },
+  {
+    "id": "7404112024",
+    "district_id": "740411",
+    "name": "LABURUNCI"
+  },
+  {
+    "id": "7404112025",
+    "district_id": "740411",
+    "name": "BANABUNGI"
+  },
+  {
+    "id": "7404112029",
+    "district_id": "740411",
+    "name": "KABAWAKOLE"
+  },
+  {
+    "id": "7404112030",
+    "district_id": "740411",
+    "name": "MANTOWU"
+  },
+  {
+    "id": "7404112031",
+    "district_id": "740411",
+    "name": "KAONGKEONGKEA"
+  }
+]

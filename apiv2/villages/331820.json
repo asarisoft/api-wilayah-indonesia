@@ -1,1 +1,62 @@
-[{"id": "3318202001", "district_id": "331820", "name": "WEDUSAN"}, {"id": "3318202002", "district_id": "331820", "name": "DUMPIL"}, {"id": "3318202003", "district_id": "331820", "name": "NGAGEL"}, {"id": "3318202004", "district_id": "331820", "name": "BAKALAN"}, {"id": "3318202005", "district_id": "331820", "name": "KENANTI"}, {"id": "3318202006", "district_id": "331820", "name": "ALASDOWO"}, {"id": "3318202007", "district_id": "331820", "name": "BANYUTOWO"}, {"id": "3318202008", "district_id": "331820", "name": "DUKUHSETI"}, {"id": "3318202009", "district_id": "331820", "name": "GROGOLAN"}, {"id": "3318202010", "district_id": "331820", "name": "KEMBANG"}, {"id": "3318202011", "district_id": "331820", "name": "TEGALOMBO"}, {"id": "3318202012", "district_id": "331820", "name": "PUNCEL"}]
+[
+  {
+    "id": "3318202001",
+    "district_id": "331820",
+    "name": "WEDUSAN"
+  },
+  {
+    "id": "3318202002",
+    "district_id": "331820",
+    "name": "DUMPIL"
+  },
+  {
+    "id": "3318202003",
+    "district_id": "331820",
+    "name": "NGAGEL"
+  },
+  {
+    "id": "3318202004",
+    "district_id": "331820",
+    "name": "BAKALAN"
+  },
+  {
+    "id": "3318202005",
+    "district_id": "331820",
+    "name": "KENANTI"
+  },
+  {
+    "id": "3318202006",
+    "district_id": "331820",
+    "name": "ALASDOWO"
+  },
+  {
+    "id": "3318202007",
+    "district_id": "331820",
+    "name": "BANYUTOWO"
+  },
+  {
+    "id": "3318202008",
+    "district_id": "331820",
+    "name": "DUKUHSETI"
+  },
+  {
+    "id": "3318202009",
+    "district_id": "331820",
+    "name": "GROGOLAN"
+  },
+  {
+    "id": "3318202010",
+    "district_id": "331820",
+    "name": "KEMBANG"
+  },
+  {
+    "id": "3318202011",
+    "district_id": "331820",
+    "name": "TEGALOMBO"
+  },
+  {
+    "id": "3318202012",
+    "district_id": "331820",
+    "name": "PUNCEL"
+  }
+]

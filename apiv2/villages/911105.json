@@ -1,1 +1,62 @@
-[{"id": "9111052001", "district_id": "911105", "name": "SKANTO"}, {"id": "9111052002", "district_id": "911105", "name": "JAIFURI"}, {"id": "9111052003", "district_id": "911105", "name": "ARSOPURA"}, {"id": "9111052004", "district_id": "911105", "name": "WIANTRE"}, {"id": "9111052005", "district_id": "911105", "name": "NARAMBEN"}, {"id": "9111052006", "district_id": "911105", "name": "INTAIMELYAN"}, {"id": "9111052007", "district_id": "911105", "name": "TRAIMELYAN"}, {"id": "9111052008", "district_id": "911105", "name": "WULUKUBUN"}, {"id": "9111052009", "district_id": "911105", "name": "GUDANG GARAM"}, {"id": "9111052010", "district_id": "911105", "name": "SAEFEN EMPAT DUA"}, {"id": "9111052011", "district_id": "911105", "name": "WALMA"}, {"id": "9111052012", "district_id": "911105", "name": "ALANG-ALANG RAYA"}]
+[
+  {
+    "id": "9111052001",
+    "district_id": "911105",
+    "name": "SKANTO"
+  },
+  {
+    "id": "9111052002",
+    "district_id": "911105",
+    "name": "JAIFURI"
+  },
+  {
+    "id": "9111052003",
+    "district_id": "911105",
+    "name": "ARSOPURA"
+  },
+  {
+    "id": "9111052004",
+    "district_id": "911105",
+    "name": "WIANTRE"
+  },
+  {
+    "id": "9111052005",
+    "district_id": "911105",
+    "name": "NARAMBEN"
+  },
+  {
+    "id": "9111052006",
+    "district_id": "911105",
+    "name": "INTAIMELYAN"
+  },
+  {
+    "id": "9111052007",
+    "district_id": "911105",
+    "name": "TRAIMELYAN"
+  },
+  {
+    "id": "9111052008",
+    "district_id": "911105",
+    "name": "WULUKUBUN"
+  },
+  {
+    "id": "9111052009",
+    "district_id": "911105",
+    "name": "GUDANG GARAM"
+  },
+  {
+    "id": "9111052010",
+    "district_id": "911105",
+    "name": "SAEFEN EMPAT DUA"
+  },
+  {
+    "id": "9111052011",
+    "district_id": "911105",
+    "name": "WALMA"
+  },
+  {
+    "id": "9111052012",
+    "district_id": "911105",
+    "name": "ALANG-ALANG RAYA"
+  }
+]

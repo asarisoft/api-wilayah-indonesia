@@ -1,1 +1,122 @@
-[{"id": "530301", "regency_id": "5303", "name": "MIOMAFFO TIMUR"}, {"id": "530302", "regency_id": "5303", "name": "MIOMAFFO BARAT"}, {"id": "530303", "regency_id": "5303", "name": "BIBOKI SELATAN"}, {"id": "530304", "regency_id": "5303", "name": "NOEMUTI"}, {"id": "530305", "regency_id": "5303", "name": "KOTA KEFAMENANU"}, {"id": "530306", "regency_id": "5303", "name": "BIBOKI UTARA"}, {"id": "530307", "regency_id": "5303", "name": "BIBOKI ANLEU"}, {"id": "530308", "regency_id": "5303", "name": "INSANA"}, {"id": "530309", "regency_id": "5303", "name": "INSANA UTARA"}, {"id": "530310", "regency_id": "5303", "name": "NOEMUTI TIMUR"}, {"id": "530311", "regency_id": "5303", "name": "MIOMAFFO TENGAH"}, {"id": "530312", "regency_id": "5303", "name": "MUSI"}, {"id": "530313", "regency_id": "5303", "name": "MUTIS"}, {"id": "530314", "regency_id": "5303", "name": "BIKOMI SELATAN"}, {"id": "530315", "regency_id": "5303", "name": "BIKOMI TENGAH"}, {"id": "530316", "regency_id": "5303", "name": "BIKOMI NILULAT"}, {"id": "530317", "regency_id": "5303", "name": "BIKOMI UTARA"}, {"id": "530318", "regency_id": "5303", "name": "NAIBENU"}, {"id": "530319", "regency_id": "5303", "name": "INSANA FAFINESU"}, {"id": "530320", "regency_id": "5303", "name": "INSANA BARAT"}, {"id": "530321", "regency_id": "5303", "name": "INSANA TENGAH"}, {"id": "530322", "regency_id": "5303", "name": "BIBOKI TAN PAH"}, {"id": "530323", "regency_id": "5303", "name": "BIBOKI MOENLEU"}, {"id": "530324", "regency_id": "5303", "name": "BIBOKI FEOTLEU"}]
+[
+  {
+    "id": "530301",
+    "regency_id": "5303",
+    "name": "MIOMAFFO TIMUR"
+  },
+  {
+    "id": "530302",
+    "regency_id": "5303",
+    "name": "MIOMAFFO BARAT"
+  },
+  {
+    "id": "530303",
+    "regency_id": "5303",
+    "name": "BIBOKI SELATAN"
+  },
+  {
+    "id": "530304",
+    "regency_id": "5303",
+    "name": "NOEMUTI"
+  },
+  {
+    "id": "530305",
+    "regency_id": "5303",
+    "name": "KOTA KEFAMENANU"
+  },
+  {
+    "id": "530306",
+    "regency_id": "5303",
+    "name": "BIBOKI UTARA"
+  },
+  {
+    "id": "530307",
+    "regency_id": "5303",
+    "name": "BIBOKI ANLEU"
+  },
+  {
+    "id": "530308",
+    "regency_id": "5303",
+    "name": "INSANA"
+  },
+  {
+    "id": "530309",
+    "regency_id": "5303",
+    "name": "INSANA UTARA"
+  },
+  {
+    "id": "530310",
+    "regency_id": "5303",
+    "name": "NOEMUTI TIMUR"
+  },
+  {
+    "id": "530311",
+    "regency_id": "5303",
+    "name": "MIOMAFFO TENGAH"
+  },
+  {
+    "id": "530312",
+    "regency_id": "5303",
+    "name": "MUSI"
+  },
+  {
+    "id": "530313",
+    "regency_id": "5303",
+    "name": "MUTIS"
+  },
+  {
+    "id": "530314",
+    "regency_id": "5303",
+    "name": "BIKOMI SELATAN"
+  },
+  {
+    "id": "530315",
+    "regency_id": "5303",
+    "name": "BIKOMI TENGAH"
+  },
+  {
+    "id": "530316",
+    "regency_id": "5303",
+    "name": "BIKOMI NILULAT"
+  },
+  {
+    "id": "530317",
+    "regency_id": "5303",
+    "name": "BIKOMI UTARA"
+  },
+  {
+    "id": "530318",
+    "regency_id": "5303",
+    "name": "NAIBENU"
+  },
+  {
+    "id": "530319",
+    "regency_id": "5303",
+    "name": "INSANA FAFINESU"
+  },
+  {
+    "id": "530320",
+    "regency_id": "5303",
+    "name": "INSANA BARAT"
+  },
+  {
+    "id": "530321",
+    "regency_id": "5303",
+    "name": "INSANA TENGAH"
+  },
+  {
+    "id": "530322",
+    "regency_id": "5303",
+    "name": "BIBOKI TAN PAH"
+  },
+  {
+    "id": "530323",
+    "regency_id": "5303",
+    "name": "BIBOKI MOENLEU"
+  },
+  {
+    "id": "530324",
+    "regency_id": "5303",
+    "name": "BIBOKI FEOTLEU"
+  }
+]

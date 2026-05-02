@@ -1,1 +1,82 @@
-[{"id": "1208022001", "district_id": "120802", "name": "DOLOG MALELA"}, {"id": "1208022002", "district_id": "120802", "name": "SENIO"}, {"id": "1208022003", "district_id": "120802", "name": "PAMATANG ASILOM"}, {"id": "1208022004", "district_id": "120802", "name": "SERAPUH"}, {"id": "1208022005", "district_id": "120802", "name": "MARGO MULYO"}, {"id": "1208022006", "district_id": "120802", "name": "SILULU"}, {"id": "1208022007", "district_id": "120802", "name": "SILOU MALELA"}, {"id": "1208022008", "district_id": "120802", "name": "BANDAR SIANTAR"}, {"id": "1208022009", "district_id": "120802", "name": "PAMATANG GAJING"}, {"id": "1208022010", "district_id": "120802", "name": "BANGUN"}, {"id": "1208022011", "district_id": "120802", "name": "MALELA"}, {"id": "1208022012", "district_id": "120802", "name": "BUKIT MARAJA"}, {"id": "1208022013", "district_id": "120802", "name": "PAMATANG SAHKUDA"}, {"id": "1208022014", "district_id": "120802", "name": "MARIHAT BUKIT"}, {"id": "1208022015", "district_id": "120802", "name": "SAHKUDA BAYU"}, {"id": "1208022016", "district_id": "120802", "name": "LINGGA"}]
+[
+  {
+    "id": "1208022001",
+    "district_id": "120802",
+    "name": "DOLOG MALELA"
+  },
+  {
+    "id": "1208022002",
+    "district_id": "120802",
+    "name": "SENIO"
+  },
+  {
+    "id": "1208022003",
+    "district_id": "120802",
+    "name": "PAMATANG ASILOM"
+  },
+  {
+    "id": "1208022004",
+    "district_id": "120802",
+    "name": "SERAPUH"
+  },
+  {
+    "id": "1208022005",
+    "district_id": "120802",
+    "name": "MARGO MULYO"
+  },
+  {
+    "id": "1208022006",
+    "district_id": "120802",
+    "name": "SILULU"
+  },
+  {
+    "id": "1208022007",
+    "district_id": "120802",
+    "name": "SILOU MALELA"
+  },
+  {
+    "id": "1208022008",
+    "district_id": "120802",
+    "name": "BANDAR SIANTAR"
+  },
+  {
+    "id": "1208022009",
+    "district_id": "120802",
+    "name": "PAMATANG GAJING"
+  },
+  {
+    "id": "1208022010",
+    "district_id": "120802",
+    "name": "BANGUN"
+  },
+  {
+    "id": "1208022011",
+    "district_id": "120802",
+    "name": "MALELA"
+  },
+  {
+    "id": "1208022012",
+    "district_id": "120802",
+    "name": "BUKIT MARAJA"
+  },
+  {
+    "id": "1208022013",
+    "district_id": "120802",
+    "name": "PAMATANG SAHKUDA"
+  },
+  {
+    "id": "1208022014",
+    "district_id": "120802",
+    "name": "MARIHAT BUKIT"
+  },
+  {
+    "id": "1208022015",
+    "district_id": "120802",
+    "name": "SAHKUDA BAYU"
+  },
+  {
+    "id": "1208022016",
+    "district_id": "120802",
+    "name": "LINGGA"
+  }
+]

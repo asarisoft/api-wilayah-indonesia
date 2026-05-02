@@ -1,1 +1,67 @@
-[{"id": "7206092001", "district_id": "720609", "name": "PARILANGKE"}, {"id": "7206092002", "district_id": "720609", "name": "BAHONSUAI"}, {"id": "7206092003", "district_id": "720609", "name": "ATANANGA"}, {"id": "7206092004", "district_id": "720609", "name": "PEBATAE"}, {"id": "7206092005", "district_id": "720609", "name": "UMBELE"}, {"id": "7206092006", "district_id": "720609", "name": "LAMBELU"}, {"id": "7206092007", "district_id": "720609", "name": "LIMBO MAKMUR"}, {"id": "7206092008", "district_id": "720609", "name": "BERINGIN JAYA"}, {"id": "7206092009", "district_id": "720609", "name": "SAMARENDA"}, {"id": "7206092010", "district_id": "720609", "name": "LASAMPI"}, {"id": "7206092011", "district_id": "720609", "name": "HARAPAN JAYA"}, {"id": "7206092012", "district_id": "720609", "name": "PEBOTOA"}, {"id": "7206092013", "district_id": "720609", "name": "KARAUPA"}]
+[
+  {
+    "id": "7206092001",
+    "district_id": "720609",
+    "name": "PARILANGKE"
+  },
+  {
+    "id": "7206092002",
+    "district_id": "720609",
+    "name": "BAHONSUAI"
+  },
+  {
+    "id": "7206092003",
+    "district_id": "720609",
+    "name": "ATANANGA"
+  },
+  {
+    "id": "7206092004",
+    "district_id": "720609",
+    "name": "PEBATAE"
+  },
+  {
+    "id": "7206092005",
+    "district_id": "720609",
+    "name": "UMBELE"
+  },
+  {
+    "id": "7206092006",
+    "district_id": "720609",
+    "name": "LAMBELU"
+  },
+  {
+    "id": "7206092007",
+    "district_id": "720609",
+    "name": "LIMBO MAKMUR"
+  },
+  {
+    "id": "7206092008",
+    "district_id": "720609",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "7206092009",
+    "district_id": "720609",
+    "name": "SAMARENDA"
+  },
+  {
+    "id": "7206092010",
+    "district_id": "720609",
+    "name": "LASAMPI"
+  },
+  {
+    "id": "7206092011",
+    "district_id": "720609",
+    "name": "HARAPAN JAYA"
+  },
+  {
+    "id": "7206092012",
+    "district_id": "720609",
+    "name": "PEBOTOA"
+  },
+  {
+    "id": "7206092013",
+    "district_id": "720609",
+    "name": "KARAUPA"
+  }
+]

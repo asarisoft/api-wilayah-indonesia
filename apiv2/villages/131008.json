@@ -1,1 +1,22 @@
-[{"id": "1310082001", "district_id": "131008", "name": "TIUMANG"}, {"id": "1310082002", "district_id": "131008", "name": "SUNGAI LANGKOK"}, {"id": "1310082003", "district_id": "131008", "name": "KOTO BERINGIN"}, {"id": "1310082004", "district_id": "131008", "name": "SIPANGKUR"}]
+[
+  {
+    "id": "1310082001",
+    "district_id": "131008",
+    "name": "TIUMANG"
+  },
+  {
+    "id": "1310082002",
+    "district_id": "131008",
+    "name": "SUNGAI LANGKOK"
+  },
+  {
+    "id": "1310082003",
+    "district_id": "131008",
+    "name": "KOTO BERINGIN"
+  },
+  {
+    "id": "1310082004",
+    "district_id": "131008",
+    "name": "SIPANGKUR"
+  }
+]

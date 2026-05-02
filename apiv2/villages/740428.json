@@ -1,1 +1,37 @@
-[{"id": "7404282001", "district_id": "740428", "name": "KAUMBU"}, {"id": "7404282002", "district_id": "740428", "name": "WOLOWA"}, {"id": "7404282003", "district_id": "740428", "name": "MATAWIA"}, {"id": "7404282004", "district_id": "740428", "name": "WOLOWA BARU"}, {"id": "7404282005", "district_id": "740428", "name": "SUKA MAJU"}, {"id": "7404282006", "district_id": "740428", "name": "BUNGI"}, {"id": "7404282007", "district_id": "740428", "name": "GALANTI"}]
+[
+  {
+    "id": "7404282001",
+    "district_id": "740428",
+    "name": "KAUMBU"
+  },
+  {
+    "id": "7404282002",
+    "district_id": "740428",
+    "name": "WOLOWA"
+  },
+  {
+    "id": "7404282003",
+    "district_id": "740428",
+    "name": "MATAWIA"
+  },
+  {
+    "id": "7404282004",
+    "district_id": "740428",
+    "name": "WOLOWA BARU"
+  },
+  {
+    "id": "7404282005",
+    "district_id": "740428",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "7404282006",
+    "district_id": "740428",
+    "name": "BUNGI"
+  },
+  {
+    "id": "7404282007",
+    "district_id": "740428",
+    "name": "GALANTI"
+  }
+]

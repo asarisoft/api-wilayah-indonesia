@@ -1,1 +1,57 @@
-[{"id": "3201202001", "district_id": "320120", "name": "JAGABAYA"}, {"id": "3201202002", "district_id": "320120", "name": "GOROWONG"}, {"id": "3201202003", "district_id": "320120", "name": "DAGO"}, {"id": "3201202004", "district_id": "320120", "name": "PINGKU"}, {"id": "3201202005", "district_id": "320120", "name": "CIKUDA"}, {"id": "3201202006", "district_id": "320120", "name": "PARUNGPANJANG"}, {"id": "3201202007", "district_id": "320120", "name": "LUMPANG"}, {"id": "3201202008", "district_id": "320120", "name": "CIBUNAR"}, {"id": "3201202009", "district_id": "320120", "name": "JAGABITA"}, {"id": "3201202010", "district_id": "320120", "name": "GINTUNGCILEJET"}, {"id": "3201202011", "district_id": "320120", "name": "KABASIRAN"}]
+[
+  {
+    "id": "3201202001",
+    "district_id": "320120",
+    "name": "JAGABAYA"
+  },
+  {
+    "id": "3201202002",
+    "district_id": "320120",
+    "name": "GOROWONG"
+  },
+  {
+    "id": "3201202003",
+    "district_id": "320120",
+    "name": "DAGO"
+  },
+  {
+    "id": "3201202004",
+    "district_id": "320120",
+    "name": "PINGKU"
+  },
+  {
+    "id": "3201202005",
+    "district_id": "320120",
+    "name": "CIKUDA"
+  },
+  {
+    "id": "3201202006",
+    "district_id": "320120",
+    "name": "PARUNGPANJANG"
+  },
+  {
+    "id": "3201202007",
+    "district_id": "320120",
+    "name": "LUMPANG"
+  },
+  {
+    "id": "3201202008",
+    "district_id": "320120",
+    "name": "CIBUNAR"
+  },
+  {
+    "id": "3201202009",
+    "district_id": "320120",
+    "name": "JAGABITA"
+  },
+  {
+    "id": "3201202010",
+    "district_id": "320120",
+    "name": "GINTUNGCILEJET"
+  },
+  {
+    "id": "3201202011",
+    "district_id": "320120",
+    "name": "KABASIRAN"
+  }
+]

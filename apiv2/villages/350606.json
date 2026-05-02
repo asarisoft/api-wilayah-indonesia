@@ -1,1 +1,92 @@
-[{"id": "3506062001", "district_id": "350606", "name": "DUWET"}, {"id": "3506062002", "district_id": "350606", "name": "POJOK"}, {"id": "3506062003", "district_id": "350606", "name": "SEGARAN"}, {"id": "3506062004", "district_id": "350606", "name": "GADUNGAN"}, {"id": "3506062005", "district_id": "350606", "name": "WATES"}, {"id": "3506062006", "district_id": "350606", "name": "TAWANG"}, {"id": "3506062007", "district_id": "350606", "name": "JAJAR"}, {"id": "3506062008", "district_id": "350606", "name": "TUNGE"}, {"id": "3506062009", "district_id": "350606", "name": "TEMPUREJO"}, {"id": "3506062010", "district_id": "350606", "name": "PLAOSAN"}, {"id": "3506062011", "district_id": "350606", "name": "KARANGANYAR"}, {"id": "3506062012", "district_id": "350606", "name": "WONOREJO"}, {"id": "3506062013", "district_id": "350606", "name": "PAGU"}, {"id": "3506062014", "district_id": "350606", "name": "JOHO"}, {"id": "3506062015", "district_id": "350606", "name": "SILIR"}, {"id": "3506062016", "district_id": "350606", "name": "SUMBERAGUNG"}, {"id": "3506062017", "district_id": "350606", "name": "SIDOMULYO"}, {"id": "3506062018", "district_id": "350606", "name": "JANTI"}]
+[
+  {
+    "id": "3506062001",
+    "district_id": "350606",
+    "name": "DUWET"
+  },
+  {
+    "id": "3506062002",
+    "district_id": "350606",
+    "name": "POJOK"
+  },
+  {
+    "id": "3506062003",
+    "district_id": "350606",
+    "name": "SEGARAN"
+  },
+  {
+    "id": "3506062004",
+    "district_id": "350606",
+    "name": "GADUNGAN"
+  },
+  {
+    "id": "3506062005",
+    "district_id": "350606",
+    "name": "WATES"
+  },
+  {
+    "id": "3506062006",
+    "district_id": "350606",
+    "name": "TAWANG"
+  },
+  {
+    "id": "3506062007",
+    "district_id": "350606",
+    "name": "JAJAR"
+  },
+  {
+    "id": "3506062008",
+    "district_id": "350606",
+    "name": "TUNGE"
+  },
+  {
+    "id": "3506062009",
+    "district_id": "350606",
+    "name": "TEMPUREJO"
+  },
+  {
+    "id": "3506062010",
+    "district_id": "350606",
+    "name": "PLAOSAN"
+  },
+  {
+    "id": "3506062011",
+    "district_id": "350606",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3506062012",
+    "district_id": "350606",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3506062013",
+    "district_id": "350606",
+    "name": "PAGU"
+  },
+  {
+    "id": "3506062014",
+    "district_id": "350606",
+    "name": "JOHO"
+  },
+  {
+    "id": "3506062015",
+    "district_id": "350606",
+    "name": "SILIR"
+  },
+  {
+    "id": "3506062016",
+    "district_id": "350606",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3506062017",
+    "district_id": "350606",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3506062018",
+    "district_id": "350606",
+    "name": "JANTI"
+  }
+]

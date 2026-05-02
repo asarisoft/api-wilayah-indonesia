@@ -1,1 +1,42 @@
-[{"id": "9171011001", "district_id": "917101", "name": "GURABESI"}, {"id": "9171011002", "district_id": "917101", "name": "BAYANGKARA"}, {"id": "9171011003", "district_id": "917101", "name": "TRIKORA"}, {"id": "9171011004", "district_id": "917101", "name": "IMBI"}, {"id": "9171011005", "district_id": "917101", "name": "TANJUNG RIA"}, {"id": "9171011006", "district_id": "917101", "name": "MANDALA"}, {"id": "9171011007", "district_id": "917101", "name": "ANGKASAPURA"}, {"id": "9171012008", "district_id": "917101", "name": "KAYO BATU"}]
+[
+  {
+    "id": "9171011001",
+    "district_id": "917101",
+    "name": "GURABESI"
+  },
+  {
+    "id": "9171011002",
+    "district_id": "917101",
+    "name": "BAYANGKARA"
+  },
+  {
+    "id": "9171011003",
+    "district_id": "917101",
+    "name": "TRIKORA"
+  },
+  {
+    "id": "9171011004",
+    "district_id": "917101",
+    "name": "IMBI"
+  },
+  {
+    "id": "9171011005",
+    "district_id": "917101",
+    "name": "TANJUNG RIA"
+  },
+  {
+    "id": "9171011006",
+    "district_id": "917101",
+    "name": "MANDALA"
+  },
+  {
+    "id": "9171011007",
+    "district_id": "917101",
+    "name": "ANGKASAPURA"
+  },
+  {
+    "id": "9171012008",
+    "district_id": "917101",
+    "name": "KAYO BATU"
+  }
+]

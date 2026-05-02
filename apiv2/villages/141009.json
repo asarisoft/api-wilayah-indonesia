@@ -1,1 +1,57 @@
-[{"id": "1410092001", "district_id": "141009", "name": "TANJUNG KEDABU"}, {"id": "1410092002", "district_id": "141009", "name": "BETING"}, {"id": "1410092003", "district_id": "141009", "name": "SOKOP"}, {"id": "1410092004", "district_id": "141009", "name": "TELESUNG"}, {"id": "1410092005", "district_id": "141009", "name": "BUNGUR"}, {"id": "1410092006", "district_id": "141009", "name": "TENGGAYUN RAYA"}, {"id": "1410092007", "district_id": "141009", "name": "SENDAUR"}, {"id": "1410092008", "district_id": "141009", "name": "KAYU ARA"}, {"id": "1410092009", "district_id": "141009", "name": "SONDE"}, {"id": "1410092010", "district_id": "141009", "name": "KEDABU RAPAT"}, {"id": "1410092011", "district_id": "141009", "name": "TANAH MERAH"}]
+[
+  {
+    "id": "1410092001",
+    "district_id": "141009",
+    "name": "TANJUNG KEDABU"
+  },
+  {
+    "id": "1410092002",
+    "district_id": "141009",
+    "name": "BETING"
+  },
+  {
+    "id": "1410092003",
+    "district_id": "141009",
+    "name": "SOKOP"
+  },
+  {
+    "id": "1410092004",
+    "district_id": "141009",
+    "name": "TELESUNG"
+  },
+  {
+    "id": "1410092005",
+    "district_id": "141009",
+    "name": "BUNGUR"
+  },
+  {
+    "id": "1410092006",
+    "district_id": "141009",
+    "name": "TENGGAYUN RAYA"
+  },
+  {
+    "id": "1410092007",
+    "district_id": "141009",
+    "name": "SENDAUR"
+  },
+  {
+    "id": "1410092008",
+    "district_id": "141009",
+    "name": "KAYU ARA"
+  },
+  {
+    "id": "1410092009",
+    "district_id": "141009",
+    "name": "SONDE"
+  },
+  {
+    "id": "1410092010",
+    "district_id": "141009",
+    "name": "KEDABU RAPAT"
+  },
+  {
+    "id": "1410092011",
+    "district_id": "141009",
+    "name": "TANAH MERAH"
+  }
+]

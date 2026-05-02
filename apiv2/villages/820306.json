@@ -1,1 +1,67 @@
-[{"id": "8203062001", "district_id": "820306", "name": "KUPA KUPA"}, {"id": "8203062002", "district_id": "820306", "name": "GAMHOKU"}, {"id": "8203062003", "district_id": "820306", "name": "EFI EFI"}, {"id": "8203062004", "district_id": "820306", "name": "TOMAHALU"}, {"id": "8203062005", "district_id": "820306", "name": "PACA"}, {"id": "8203062006", "district_id": "820306", "name": "LELEOTO"}, {"id": "8203062009", "district_id": "820306", "name": "TOBE"}, {"id": "8203062015", "district_id": "820306", "name": "KAKARA B"}, {"id": "8203062018", "district_id": "820306", "name": "TALAGA PACA"}, {"id": "8203062020", "district_id": "820306", "name": "TIOUA"}, {"id": "8203062021", "district_id": "820306", "name": "PALE"}, {"id": "8203062022", "district_id": "820306", "name": "KUPA-KUPA SELATAN (HALEHE)"}, {"id": "8203062024", "district_id": "820306", "name": "LEMAH INO"}]
+[
+  {
+    "id": "8203062001",
+    "district_id": "820306",
+    "name": "KUPA KUPA"
+  },
+  {
+    "id": "8203062002",
+    "district_id": "820306",
+    "name": "GAMHOKU"
+  },
+  {
+    "id": "8203062003",
+    "district_id": "820306",
+    "name": "EFI EFI"
+  },
+  {
+    "id": "8203062004",
+    "district_id": "820306",
+    "name": "TOMAHALU"
+  },
+  {
+    "id": "8203062005",
+    "district_id": "820306",
+    "name": "PACA"
+  },
+  {
+    "id": "8203062006",
+    "district_id": "820306",
+    "name": "LELEOTO"
+  },
+  {
+    "id": "8203062009",
+    "district_id": "820306",
+    "name": "TOBE"
+  },
+  {
+    "id": "8203062015",
+    "district_id": "820306",
+    "name": "KAKARA B"
+  },
+  {
+    "id": "8203062018",
+    "district_id": "820306",
+    "name": "TALAGA PACA"
+  },
+  {
+    "id": "8203062020",
+    "district_id": "820306",
+    "name": "TIOUA"
+  },
+  {
+    "id": "8203062021",
+    "district_id": "820306",
+    "name": "PALE"
+  },
+  {
+    "id": "8203062022",
+    "district_id": "820306",
+    "name": "KUPA-KUPA SELATAN (HALEHE)"
+  },
+  {
+    "id": "8203062024",
+    "district_id": "820306",
+    "name": "LEMAH INO"
+  }
+]

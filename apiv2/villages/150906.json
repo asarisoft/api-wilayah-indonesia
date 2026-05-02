@@ -1,1 +1,52 @@
-[{"id": "1509062001", "district_id": "150906", "name": "TANJUNG PUCUK JAMBI"}, {"id": "1509062002", "district_id": "150906", "name": "KUAMANG"}, {"id": "1509062003", "district_id": "150906", "name": "TELUK KAYU PUTIH"}, {"id": "1509062004", "district_id": "150906", "name": "SUNGAI ABANG"}, {"id": "1509062005", "district_id": "150906", "name": "AUR CINO"}, {"id": "1509062007", "district_id": "150906", "name": "MUARA NIRO"}, {"id": "1509062013", "district_id": "150906", "name": "TELUK LANCANG"}, {"id": "1509062014", "district_id": "150906", "name": "DUSUN BARU"}, {"id": "1509062015", "district_id": "150906", "name": "TABUN"}, {"id": "1509062016", "district_id": "150906", "name": "MUARA TABUN"}]
+[
+  {
+    "id": "1509062001",
+    "district_id": "150906",
+    "name": "TANJUNG PUCUK JAMBI"
+  },
+  {
+    "id": "1509062002",
+    "district_id": "150906",
+    "name": "KUAMANG"
+  },
+  {
+    "id": "1509062003",
+    "district_id": "150906",
+    "name": "TELUK KAYU PUTIH"
+  },
+  {
+    "id": "1509062004",
+    "district_id": "150906",
+    "name": "SUNGAI ABANG"
+  },
+  {
+    "id": "1509062005",
+    "district_id": "150906",
+    "name": "AUR CINO"
+  },
+  {
+    "id": "1509062007",
+    "district_id": "150906",
+    "name": "MUARA NIRO"
+  },
+  {
+    "id": "1509062013",
+    "district_id": "150906",
+    "name": "TELUK LANCANG"
+  },
+  {
+    "id": "1509062014",
+    "district_id": "150906",
+    "name": "DUSUN BARU"
+  },
+  {
+    "id": "1509062015",
+    "district_id": "150906",
+    "name": "TABUN"
+  },
+  {
+    "id": "1509062016",
+    "district_id": "150906",
+    "name": "MUARA TABUN"
+  }
+]

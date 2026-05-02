@@ -1,1 +1,82 @@
-[{"id": "1801072001", "district_id": "180107", "name": "BANDAR DALAM"}, {"id": "1801072002", "district_id": "180107", "name": "CAMPANG TIGA"}, {"id": "1801072003", "district_id": "180107", "name": "TALANG BARU"}, {"id": "1801072004", "district_id": "180107", "name": "SUKA BANJAR"}, {"id": "1801072005", "district_id": "180107", "name": "KOTA DALAM"}, {"id": "1801072006", "district_id": "180107", "name": "BUDIDAYA"}, {"id": "1801072007", "district_id": "180107", "name": "SIRING JAHA"}, {"id": "1801072008", "district_id": "180107", "name": "SUAK"}, {"id": "1801072009", "district_id": "180107", "name": "SUKAMAJU"}, {"id": "1801072010", "district_id": "180107", "name": "SUKAMARGA"}, {"id": "1801072011", "district_id": "180107", "name": "SELORETNO"}, {"id": "1801072012", "district_id": "180107", "name": "SIDODADI"}, {"id": "1801072013", "district_id": "180107", "name": "SIDOREJO"}, {"id": "1801072014", "district_id": "180107", "name": "SIDOMULYO"}, {"id": "1801072015", "district_id": "180107", "name": "SIDOWALUYO"}, {"id": "1801072020", "district_id": "180107", "name": "BANJAR SURI"}]
+[
+  {
+    "id": "1801072001",
+    "district_id": "180107",
+    "name": "BANDAR DALAM"
+  },
+  {
+    "id": "1801072002",
+    "district_id": "180107",
+    "name": "CAMPANG TIGA"
+  },
+  {
+    "id": "1801072003",
+    "district_id": "180107",
+    "name": "TALANG BARU"
+  },
+  {
+    "id": "1801072004",
+    "district_id": "180107",
+    "name": "SUKA BANJAR"
+  },
+  {
+    "id": "1801072005",
+    "district_id": "180107",
+    "name": "KOTA DALAM"
+  },
+  {
+    "id": "1801072006",
+    "district_id": "180107",
+    "name": "BUDIDAYA"
+  },
+  {
+    "id": "1801072007",
+    "district_id": "180107",
+    "name": "SIRING JAHA"
+  },
+  {
+    "id": "1801072008",
+    "district_id": "180107",
+    "name": "SUAK"
+  },
+  {
+    "id": "1801072009",
+    "district_id": "180107",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "1801072010",
+    "district_id": "180107",
+    "name": "SUKAMARGA"
+  },
+  {
+    "id": "1801072011",
+    "district_id": "180107",
+    "name": "SELORETNO"
+  },
+  {
+    "id": "1801072012",
+    "district_id": "180107",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1801072013",
+    "district_id": "180107",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "1801072014",
+    "district_id": "180107",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "1801072015",
+    "district_id": "180107",
+    "name": "SIDOWALUYO"
+  },
+  {
+    "id": "1801072020",
+    "district_id": "180107",
+    "name": "BANJAR SURI"
+  }
+]

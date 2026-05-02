@@ -1,1 +1,47 @@
-[{"id": "1301032001", "district_id": "130103", "name": "KAMBANG"}, {"id": "1301032002", "district_id": "130103", "name": "LAKITAN"}, {"id": "1301032003", "district_id": "130103", "name": "KAMBANG UTARA"}, {"id": "1301032004", "district_id": "130103", "name": "KAMBANG TIMUR"}, {"id": "1301032005", "district_id": "130103", "name": "KAMBANG BARAT"}, {"id": "1301032006", "district_id": "130103", "name": "LAKITAN UTARA"}, {"id": "1301032007", "district_id": "130103", "name": "LAKITAN SELATAN"}, {"id": "1301032008", "district_id": "130103", "name": "LAKITAN TIMUR"}, {"id": "1301032009", "district_id": "130103", "name": "LAKITAN TENGAH"}]
+[
+  {
+    "id": "1301032001",
+    "district_id": "130103",
+    "name": "KAMBANG"
+  },
+  {
+    "id": "1301032002",
+    "district_id": "130103",
+    "name": "LAKITAN"
+  },
+  {
+    "id": "1301032003",
+    "district_id": "130103",
+    "name": "KAMBANG UTARA"
+  },
+  {
+    "id": "1301032004",
+    "district_id": "130103",
+    "name": "KAMBANG TIMUR"
+  },
+  {
+    "id": "1301032005",
+    "district_id": "130103",
+    "name": "KAMBANG BARAT"
+  },
+  {
+    "id": "1301032006",
+    "district_id": "130103",
+    "name": "LAKITAN UTARA"
+  },
+  {
+    "id": "1301032007",
+    "district_id": "130103",
+    "name": "LAKITAN SELATAN"
+  },
+  {
+    "id": "1301032008",
+    "district_id": "130103",
+    "name": "LAKITAN TIMUR"
+  },
+  {
+    "id": "1301032009",
+    "district_id": "130103",
+    "name": "LAKITAN TENGAH"
+  }
+]

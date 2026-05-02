@@ -1,1 +1,47 @@
-[{"id": "1405091001", "district_id": "140509", "name": "TELUK MERANTI"}, {"id": "1405092002", "district_id": "140509", "name": "KUALA PANDUK"}, {"id": "1405092003", "district_id": "140509", "name": "PETODAAN"}, {"id": "1405092004", "district_id": "140509", "name": "TELUK BINJAI"}, {"id": "1405092005", "district_id": "140509", "name": "PULAU MUDA"}, {"id": "1405092006", "district_id": "140509", "name": "GAMBUT MUTIARA"}, {"id": "1405092007", "district_id": "140509", "name": "LABUHAN BILIK"}, {"id": "1405092008", "district_id": "140509", "name": "PANGKALAN TERAP"}, {"id": "1405092009", "district_id": "140509", "name": "SEGAMAI"}]
+[
+  {
+    "id": "1405091001",
+    "district_id": "140509",
+    "name": "TELUK MERANTI"
+  },
+  {
+    "id": "1405092002",
+    "district_id": "140509",
+    "name": "KUALA PANDUK"
+  },
+  {
+    "id": "1405092003",
+    "district_id": "140509",
+    "name": "PETODAAN"
+  },
+  {
+    "id": "1405092004",
+    "district_id": "140509",
+    "name": "TELUK BINJAI"
+  },
+  {
+    "id": "1405092005",
+    "district_id": "140509",
+    "name": "PULAU MUDA"
+  },
+  {
+    "id": "1405092006",
+    "district_id": "140509",
+    "name": "GAMBUT MUTIARA"
+  },
+  {
+    "id": "1405092007",
+    "district_id": "140509",
+    "name": "LABUHAN BILIK"
+  },
+  {
+    "id": "1405092008",
+    "district_id": "140509",
+    "name": "PANGKALAN TERAP"
+  },
+  {
+    "id": "1405092009",
+    "district_id": "140509",
+    "name": "SEGAMAI"
+  }
+]

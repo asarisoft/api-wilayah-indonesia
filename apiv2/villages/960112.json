@@ -1,1 +1,57 @@
-[{"id": "9601122001", "district_id": "960112", "name": "WILTY"}, {"id": "9601122002", "district_id": "960112", "name": "MLAWEN"}, {"id": "9601122003", "district_id": "960112", "name": "BYOKLOKFLE"}, {"id": "9601122004", "district_id": "960112", "name": "TBOTJIN"}, {"id": "9601122005", "district_id": "960112", "name": "SAS"}, {"id": "9601122006", "district_id": "960112", "name": "SAMOLSLO"}, {"id": "9601122007", "district_id": "960112", "name": "KMASEN"}, {"id": "9601122008", "district_id": "960112", "name": "KLASAWON"}, {"id": "9601122009", "district_id": "960112", "name": "YURKADEN"}, {"id": "9601122010", "district_id": "960112", "name": "BETWAF"}, {"id": "9601122011", "district_id": "960112", "name": "COKHIF"}]
+[
+  {
+    "id": "9601122001",
+    "district_id": "960112",
+    "name": "WILTY"
+  },
+  {
+    "id": "9601122002",
+    "district_id": "960112",
+    "name": "MLAWEN"
+  },
+  {
+    "id": "9601122003",
+    "district_id": "960112",
+    "name": "BYOKLOKFLE"
+  },
+  {
+    "id": "9601122004",
+    "district_id": "960112",
+    "name": "TBOTJIN"
+  },
+  {
+    "id": "9601122005",
+    "district_id": "960112",
+    "name": "SAS"
+  },
+  {
+    "id": "9601122006",
+    "district_id": "960112",
+    "name": "SAMOLSLO"
+  },
+  {
+    "id": "9601122007",
+    "district_id": "960112",
+    "name": "KMASEN"
+  },
+  {
+    "id": "9601122008",
+    "district_id": "960112",
+    "name": "KLASAWON"
+  },
+  {
+    "id": "9601122009",
+    "district_id": "960112",
+    "name": "YURKADEN"
+  },
+  {
+    "id": "9601122010",
+    "district_id": "960112",
+    "name": "BETWAF"
+  },
+  {
+    "id": "9601122011",
+    "district_id": "960112",
+    "name": "COKHIF"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1405101001", "district_id": "140510", "name": "TELUK DALAM"}, {"id": "1405102002", "district_id": "140510", "name": "TANJUNG SUM"}, {"id": "1405102003", "district_id": "140510", "name": "SUNGAI SOLOK"}, {"id": "1405102004", "district_id": "140510", "name": "SUNGAI UPIH"}, {"id": "1405102005", "district_id": "140510", "name": "TELUK"}, {"id": "1405102006", "district_id": "140510", "name": "SERAPUNG"}, {"id": "1405102007", "district_id": "140510", "name": "TELUK BERINGIN"}, {"id": "1405102008", "district_id": "140510", "name": "SOKOI"}, {"id": "1405102009", "district_id": "140510", "name": "SUNGAI MAS"}, {"id": "1405102010", "district_id": "140510", "name": "TELUK BAKAU"}]
+[
+  {
+    "id": "1405101001",
+    "district_id": "140510",
+    "name": "TELUK DALAM"
+  },
+  {
+    "id": "1405102002",
+    "district_id": "140510",
+    "name": "TANJUNG SUM"
+  },
+  {
+    "id": "1405102003",
+    "district_id": "140510",
+    "name": "SUNGAI SOLOK"
+  },
+  {
+    "id": "1405102004",
+    "district_id": "140510",
+    "name": "SUNGAI UPIH"
+  },
+  {
+    "id": "1405102005",
+    "district_id": "140510",
+    "name": "TELUK"
+  },
+  {
+    "id": "1405102006",
+    "district_id": "140510",
+    "name": "SERAPUNG"
+  },
+  {
+    "id": "1405102007",
+    "district_id": "140510",
+    "name": "TELUK BERINGIN"
+  },
+  {
+    "id": "1405102008",
+    "district_id": "140510",
+    "name": "SOKOI"
+  },
+  {
+    "id": "1405102009",
+    "district_id": "140510",
+    "name": "SUNGAI MAS"
+  },
+  {
+    "id": "1405102010",
+    "district_id": "140510",
+    "name": "TELUK BAKAU"
+  }
+]

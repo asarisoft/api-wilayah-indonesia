@@ -1,1 +1,107 @@
-[{"id": "3315172001", "district_id": "331517", "name": "PENADARAN"}, {"id": "3315172002", "district_id": "331517", "name": "GINGGANGTANI"}, {"id": "3315172003", "district_id": "331517", "name": "GLAPAN"}, {"id": "3315172004", "district_id": "331517", "name": "TRISARI"}, {"id": "3315172005", "district_id": "331517", "name": "NGROTO"}, {"id": "3315172006", "district_id": "331517", "name": "JEKETRO"}, {"id": "3315172007", "district_id": "331517", "name": "SABAN"}, {"id": "3315172008", "district_id": "331517", "name": "MLILIR"}, {"id": "3315172009", "district_id": "331517", "name": "KEMIRI"}, {"id": "3315172010", "district_id": "331517", "name": "PAPANREJO"}, {"id": "3315172011", "district_id": "331517", "name": "KUNJENG"}, {"id": "3315172012", "district_id": "331517", "name": "KUWARON"}, {"id": "3315172013", "district_id": "331517", "name": "ROWOSARI"}, {"id": "3315172014", "district_id": "331517", "name": "GUBUG"}, {"id": "3315172015", "district_id": "331517", "name": "PRANTEN"}, {"id": "3315172016", "district_id": "331517", "name": "BATURAGUNG"}, {"id": "3315172017", "district_id": "331517", "name": "JATIPECARON"}, {"id": "3315172018", "district_id": "331517", "name": "TAMBAKAN"}, {"id": "3315172019", "district_id": "331517", "name": "RINGINKIDUL"}, {"id": "3315172020", "district_id": "331517", "name": "RINGINHARJO"}, {"id": "3315172021", "district_id": "331517", "name": "TLOGOMULYO"}]
+[
+  {
+    "id": "3315172001",
+    "district_id": "331517",
+    "name": "PENADARAN"
+  },
+  {
+    "id": "3315172002",
+    "district_id": "331517",
+    "name": "GINGGANGTANI"
+  },
+  {
+    "id": "3315172003",
+    "district_id": "331517",
+    "name": "GLAPAN"
+  },
+  {
+    "id": "3315172004",
+    "district_id": "331517",
+    "name": "TRISARI"
+  },
+  {
+    "id": "3315172005",
+    "district_id": "331517",
+    "name": "NGROTO"
+  },
+  {
+    "id": "3315172006",
+    "district_id": "331517",
+    "name": "JEKETRO"
+  },
+  {
+    "id": "3315172007",
+    "district_id": "331517",
+    "name": "SABAN"
+  },
+  {
+    "id": "3315172008",
+    "district_id": "331517",
+    "name": "MLILIR"
+  },
+  {
+    "id": "3315172009",
+    "district_id": "331517",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3315172010",
+    "district_id": "331517",
+    "name": "PAPANREJO"
+  },
+  {
+    "id": "3315172011",
+    "district_id": "331517",
+    "name": "KUNJENG"
+  },
+  {
+    "id": "3315172012",
+    "district_id": "331517",
+    "name": "KUWARON"
+  },
+  {
+    "id": "3315172013",
+    "district_id": "331517",
+    "name": "ROWOSARI"
+  },
+  {
+    "id": "3315172014",
+    "district_id": "331517",
+    "name": "GUBUG"
+  },
+  {
+    "id": "3315172015",
+    "district_id": "331517",
+    "name": "PRANTEN"
+  },
+  {
+    "id": "3315172016",
+    "district_id": "331517",
+    "name": "BATURAGUNG"
+  },
+  {
+    "id": "3315172017",
+    "district_id": "331517",
+    "name": "JATIPECARON"
+  },
+  {
+    "id": "3315172018",
+    "district_id": "331517",
+    "name": "TAMBAKAN"
+  },
+  {
+    "id": "3315172019",
+    "district_id": "331517",
+    "name": "RINGINKIDUL"
+  },
+  {
+    "id": "3315172020",
+    "district_id": "331517",
+    "name": "RINGINHARJO"
+  },
+  {
+    "id": "3315172021",
+    "district_id": "331517",
+    "name": "TLOGOMULYO"
+  }
+]

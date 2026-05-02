@@ -1,1 +1,62 @@
-[{"id": "3205092001", "district_id": "320509", "name": "LELES"}, {"id": "3205092002", "district_id": "320509", "name": "CIBURIAL"}, {"id": "3205092003", "district_id": "320509", "name": "JANGKURANG"}, {"id": "3205092004", "district_id": "320509", "name": "SUKARAME"}, {"id": "3205092005", "district_id": "320509", "name": "LEMBANG"}, {"id": "3205092006", "district_id": "320509", "name": "CANGKUANG"}, {"id": "3205092007", "district_id": "320509", "name": "SALAMNUNGGAL"}, {"id": "3205092008", "district_id": "320509", "name": "KANDANGMUKTI"}, {"id": "3205092009", "district_id": "320509", "name": "MARGALUYU"}, {"id": "3205092010", "district_id": "320509", "name": "CIPANCAR"}, {"id": "3205092011", "district_id": "320509", "name": "HARUMAN"}, {"id": "3205092012", "district_id": "320509", "name": "DANO"}]
+[
+  {
+    "id": "3205092001",
+    "district_id": "320509",
+    "name": "LELES"
+  },
+  {
+    "id": "3205092002",
+    "district_id": "320509",
+    "name": "CIBURIAL"
+  },
+  {
+    "id": "3205092003",
+    "district_id": "320509",
+    "name": "JANGKURANG"
+  },
+  {
+    "id": "3205092004",
+    "district_id": "320509",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "3205092005",
+    "district_id": "320509",
+    "name": "LEMBANG"
+  },
+  {
+    "id": "3205092006",
+    "district_id": "320509",
+    "name": "CANGKUANG"
+  },
+  {
+    "id": "3205092007",
+    "district_id": "320509",
+    "name": "SALAMNUNGGAL"
+  },
+  {
+    "id": "3205092008",
+    "district_id": "320509",
+    "name": "KANDANGMUKTI"
+  },
+  {
+    "id": "3205092009",
+    "district_id": "320509",
+    "name": "MARGALUYU"
+  },
+  {
+    "id": "3205092010",
+    "district_id": "320509",
+    "name": "CIPANCAR"
+  },
+  {
+    "id": "3205092011",
+    "district_id": "320509",
+    "name": "HARUMAN"
+  },
+  {
+    "id": "3205092012",
+    "district_id": "320509",
+    "name": "DANO"
+  }
+]

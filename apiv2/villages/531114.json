@@ -1,1 +1,47 @@
-[{"id": "5311142001", "district_id": "531114", "name": "KAMANGGIH"}, {"id": "5311142002", "district_id": "531114", "name": "KAMBATABUNDUNG"}, {"id": "5311142003", "district_id": "531114", "name": "MEURUMBA"}, {"id": "5311142004", "district_id": "531114", "name": "LAIMBONGA"}, {"id": "5311142005", "district_id": "531114", "name": "KOTA KAWAU"}, {"id": "5311142006", "district_id": "531114", "name": "MATAWAI KATINGGA"}, {"id": "5311142007", "district_id": "531114", "name": "KATAKA"}, {"id": "5311142008", "district_id": "531114", "name": "MATAWAI MARINGGU"}, {"id": "5311142009", "district_id": "531114", "name": "MAURAMBA"}]
+[
+  {
+    "id": "5311142001",
+    "district_id": "531114",
+    "name": "KAMANGGIH"
+  },
+  {
+    "id": "5311142002",
+    "district_id": "531114",
+    "name": "KAMBATABUNDUNG"
+  },
+  {
+    "id": "5311142003",
+    "district_id": "531114",
+    "name": "MEURUMBA"
+  },
+  {
+    "id": "5311142004",
+    "district_id": "531114",
+    "name": "LAIMBONGA"
+  },
+  {
+    "id": "5311142005",
+    "district_id": "531114",
+    "name": "KOTA KAWAU"
+  },
+  {
+    "id": "5311142006",
+    "district_id": "531114",
+    "name": "MATAWAI KATINGGA"
+  },
+  {
+    "id": "5311142007",
+    "district_id": "531114",
+    "name": "KATAKA"
+  },
+  {
+    "id": "5311142008",
+    "district_id": "531114",
+    "name": "MATAWAI MARINGGU"
+  },
+  {
+    "id": "5311142009",
+    "district_id": "531114",
+    "name": "MAURAMBA"
+  }
+]

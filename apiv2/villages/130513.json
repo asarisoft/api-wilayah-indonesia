@@ -1,1 +1,17 @@
-[{"id": "1305132001", "district_id": "130513", "name": "MALAI V SUKU"}, {"id": "1305132002", "district_id": "130513", "name": "GASAN GADANG"}, {"id": "1305132003", "district_id": "130513", "name": "MALAI V SUKU TIMUR"}]
+[
+  {
+    "id": "1305132001",
+    "district_id": "130513",
+    "name": "MALAI V SUKU"
+  },
+  {
+    "id": "1305132002",
+    "district_id": "130513",
+    "name": "GASAN GADANG"
+  },
+  {
+    "id": "1305132003",
+    "district_id": "130513",
+    "name": "MALAI V SUKU TIMUR"
+  }
+]

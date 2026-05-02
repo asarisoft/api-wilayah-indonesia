@@ -1,1 +1,127 @@
-[{"id": "3522112001", "district_id": "352211", "name": "SEMAMBUNG"}, {"id": "3522112002", "district_id": "352211", "name": "KANOR"}, {"id": "3522112003", "district_id": "352211", "name": "TAMBAHREJO"}, {"id": "3522112004", "district_id": "352211", "name": "PIYAK"}, {"id": "3522112005", "district_id": "352211", "name": "KABALAN"}, {"id": "3522112006", "district_id": "352211", "name": "CANGAAN"}, {"id": "3522112007", "district_id": "352211", "name": "SARANGAN"}, {"id": "3522112008", "district_id": "352211", "name": "TEJO"}, {"id": "3522112009", "district_id": "352211", "name": "SIMBATAN"}, {"id": "3522112010", "district_id": "352211", "name": "PESEN"}, {"id": "3522112011", "district_id": "352211", "name": "SAMBERAN"}, {"id": "3522112012", "district_id": "352211", "name": "PALEMBON"}, {"id": "3522112013", "district_id": "352211", "name": "SEDENG"}, {"id": "3522112014", "district_id": "352211", "name": "CARUBAN"}, {"id": "3522112015", "district_id": "352211", "name": "SUMBERWANGI"}, {"id": "3522112016", "district_id": "352211", "name": "PRIGI"}, {"id": "3522112017", "district_id": "352211", "name": "PILANG"}, {"id": "3522112018", "district_id": "352211", "name": "GEDONGARUM"}, {"id": "3522112019", "district_id": "352211", "name": "KEDUNGPRIMPEN"}, {"id": "3522112020", "district_id": "352211", "name": "TEMU"}, {"id": "3522112021", "district_id": "352211", "name": "SIMOREJO"}, {"id": "3522112022", "district_id": "352211", "name": "BUNGUR"}, {"id": "3522112023", "district_id": "352211", "name": "BAKUNG"}, {"id": "3522112024", "district_id": "352211", "name": "NGLARANGAN"}, {"id": "3522112025", "district_id": "352211", "name": "SROYO"}]
+[
+  {
+    "id": "3522112001",
+    "district_id": "352211",
+    "name": "SEMAMBUNG"
+  },
+  {
+    "id": "3522112002",
+    "district_id": "352211",
+    "name": "KANOR"
+  },
+  {
+    "id": "3522112003",
+    "district_id": "352211",
+    "name": "TAMBAHREJO"
+  },
+  {
+    "id": "3522112004",
+    "district_id": "352211",
+    "name": "PIYAK"
+  },
+  {
+    "id": "3522112005",
+    "district_id": "352211",
+    "name": "KABALAN"
+  },
+  {
+    "id": "3522112006",
+    "district_id": "352211",
+    "name": "CANGAAN"
+  },
+  {
+    "id": "3522112007",
+    "district_id": "352211",
+    "name": "SARANGAN"
+  },
+  {
+    "id": "3522112008",
+    "district_id": "352211",
+    "name": "TEJO"
+  },
+  {
+    "id": "3522112009",
+    "district_id": "352211",
+    "name": "SIMBATAN"
+  },
+  {
+    "id": "3522112010",
+    "district_id": "352211",
+    "name": "PESEN"
+  },
+  {
+    "id": "3522112011",
+    "district_id": "352211",
+    "name": "SAMBERAN"
+  },
+  {
+    "id": "3522112012",
+    "district_id": "352211",
+    "name": "PALEMBON"
+  },
+  {
+    "id": "3522112013",
+    "district_id": "352211",
+    "name": "SEDENG"
+  },
+  {
+    "id": "3522112014",
+    "district_id": "352211",
+    "name": "CARUBAN"
+  },
+  {
+    "id": "3522112015",
+    "district_id": "352211",
+    "name": "SUMBERWANGI"
+  },
+  {
+    "id": "3522112016",
+    "district_id": "352211",
+    "name": "PRIGI"
+  },
+  {
+    "id": "3522112017",
+    "district_id": "352211",
+    "name": "PILANG"
+  },
+  {
+    "id": "3522112018",
+    "district_id": "352211",
+    "name": "GEDONGARUM"
+  },
+  {
+    "id": "3522112019",
+    "district_id": "352211",
+    "name": "KEDUNGPRIMPEN"
+  },
+  {
+    "id": "3522112020",
+    "district_id": "352211",
+    "name": "TEMU"
+  },
+  {
+    "id": "3522112021",
+    "district_id": "352211",
+    "name": "SIMOREJO"
+  },
+  {
+    "id": "3522112022",
+    "district_id": "352211",
+    "name": "BUNGUR"
+  },
+  {
+    "id": "3522112023",
+    "district_id": "352211",
+    "name": "BAKUNG"
+  },
+  {
+    "id": "3522112024",
+    "district_id": "352211",
+    "name": "NGLARANGAN"
+  },
+  {
+    "id": "3522112025",
+    "district_id": "352211",
+    "name": "SROYO"
+  }
+]

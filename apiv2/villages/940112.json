@@ -1,1 +1,27 @@
-[{"id": "9401122001", "district_id": "940112", "name": "BUMI RAYA"}, {"id": "9401122002", "district_id": "940112", "name": "WAROKI"}, {"id": "9401122003", "district_id": "940112", "name": "GERBANG SADU"}, {"id": "9401122004", "district_id": "940112", "name": "KALI SEMEN"}, {"id": "9401122005", "district_id": "940112", "name": "WADIO"}]
+[
+  {
+    "id": "9401122001",
+    "district_id": "940112",
+    "name": "BUMI RAYA"
+  },
+  {
+    "id": "9401122002",
+    "district_id": "940112",
+    "name": "WAROKI"
+  },
+  {
+    "id": "9401122003",
+    "district_id": "940112",
+    "name": "GERBANG SADU"
+  },
+  {
+    "id": "9401122004",
+    "district_id": "940112",
+    "name": "KALI SEMEN"
+  },
+  {
+    "id": "9401122005",
+    "district_id": "940112",
+    "name": "WADIO"
+  }
+]

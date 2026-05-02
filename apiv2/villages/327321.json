@@ -1,1 +1,22 @@
-[{"id": "3273211001", "district_id": "327321", "name": "BATUNUNGGAL"}, {"id": "3273211002", "district_id": "327321", "name": "WATES"}, {"id": "3273211003", "district_id": "327321", "name": "MENGGER"}, {"id": "3273211004", "district_id": "327321", "name": "KUJANGSARI"}]
+[
+  {
+    "id": "3273211001",
+    "district_id": "327321",
+    "name": "BATUNUNGGAL"
+  },
+  {
+    "id": "3273211002",
+    "district_id": "327321",
+    "name": "WATES"
+  },
+  {
+    "id": "3273211003",
+    "district_id": "327321",
+    "name": "MENGGER"
+  },
+  {
+    "id": "3273211004",
+    "district_id": "327321",
+    "name": "KUJANGSARI"
+  }
+]

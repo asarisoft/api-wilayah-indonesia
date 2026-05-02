@@ -1,1 +1,72 @@
-[{"id": "5206122001", "district_id": "520612", "name": "KALEO"}, {"id": "5206122002", "district_id": "520612", "name": "SIMPASAI"}, {"id": "5206122003", "district_id": "520612", "name": "MANGGE"}, {"id": "5206122004", "district_id": "520612", "name": "LANTA"}, {"id": "5206122005", "district_id": "520612", "name": "NGGELU"}, {"id": "5206122006", "district_id": "520612", "name": "RATO"}, {"id": "5206122007", "district_id": "520612", "name": "SUMI"}, {"id": "5206122008", "district_id": "520612", "name": "SORO"}, {"id": "5206122009", "district_id": "520612", "name": "LAMBU"}, {"id": "5206122010", "district_id": "520612", "name": "HIDIRASA"}, {"id": "5206122011", "district_id": "520612", "name": "LANTA BARAT"}, {"id": "5206122012", "district_id": "520612", "name": "MELAYU"}, {"id": "5206122013", "district_id": "520612", "name": "SANGGA"}, {"id": "5206122014", "district_id": "520612", "name": "MONTA BARU"}]
+[
+  {
+    "id": "5206122001",
+    "district_id": "520612",
+    "name": "KALEO"
+  },
+  {
+    "id": "5206122002",
+    "district_id": "520612",
+    "name": "SIMPASAI"
+  },
+  {
+    "id": "5206122003",
+    "district_id": "520612",
+    "name": "MANGGE"
+  },
+  {
+    "id": "5206122004",
+    "district_id": "520612",
+    "name": "LANTA"
+  },
+  {
+    "id": "5206122005",
+    "district_id": "520612",
+    "name": "NGGELU"
+  },
+  {
+    "id": "5206122006",
+    "district_id": "520612",
+    "name": "RATO"
+  },
+  {
+    "id": "5206122007",
+    "district_id": "520612",
+    "name": "SUMI"
+  },
+  {
+    "id": "5206122008",
+    "district_id": "520612",
+    "name": "SORO"
+  },
+  {
+    "id": "5206122009",
+    "district_id": "520612",
+    "name": "LAMBU"
+  },
+  {
+    "id": "5206122010",
+    "district_id": "520612",
+    "name": "HIDIRASA"
+  },
+  {
+    "id": "5206122011",
+    "district_id": "520612",
+    "name": "LANTA BARAT"
+  },
+  {
+    "id": "5206122012",
+    "district_id": "520612",
+    "name": "MELAYU"
+  },
+  {
+    "id": "5206122013",
+    "district_id": "520612",
+    "name": "SANGGA"
+  },
+  {
+    "id": "5206122014",
+    "district_id": "520612",
+    "name": "MONTA BARU"
+  }
+]

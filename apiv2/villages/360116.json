@@ -1,1 +1,67 @@
-[{"id": "3601162001", "district_id": "360116", "name": "PAMARAYAN"}, {"id": "3601162002", "district_id": "360116", "name": "JIPUT"}, {"id": "3601162003", "district_id": "360116", "name": "SUKACAI"}, {"id": "3601162004", "district_id": "360116", "name": "TENJOLAHANG"}, {"id": "3601162005", "district_id": "360116", "name": "JANAKA"}, {"id": "3601162006", "district_id": "360116", "name": "SIKULAN"}, {"id": "3601162007", "district_id": "360116", "name": "CITAMAN"}, {"id": "3601162008", "district_id": "360116", "name": "JAYAMEKAR"}, {"id": "3601162011", "district_id": "360116", "name": "SUKAMANAH"}, {"id": "3601162012", "district_id": "360116", "name": "SALAPRAYA"}, {"id": "3601162013", "district_id": "360116", "name": "BANYURESMI"}, {"id": "3601162014", "district_id": "360116", "name": "SAMPANG BITUNG"}, {"id": "3601162015", "district_id": "360116", "name": "BABADSARI"}]
+[
+  {
+    "id": "3601162001",
+    "district_id": "360116",
+    "name": "PAMARAYAN"
+  },
+  {
+    "id": "3601162002",
+    "district_id": "360116",
+    "name": "JIPUT"
+  },
+  {
+    "id": "3601162003",
+    "district_id": "360116",
+    "name": "SUKACAI"
+  },
+  {
+    "id": "3601162004",
+    "district_id": "360116",
+    "name": "TENJOLAHANG"
+  },
+  {
+    "id": "3601162005",
+    "district_id": "360116",
+    "name": "JANAKA"
+  },
+  {
+    "id": "3601162006",
+    "district_id": "360116",
+    "name": "SIKULAN"
+  },
+  {
+    "id": "3601162007",
+    "district_id": "360116",
+    "name": "CITAMAN"
+  },
+  {
+    "id": "3601162008",
+    "district_id": "360116",
+    "name": "JAYAMEKAR"
+  },
+  {
+    "id": "3601162011",
+    "district_id": "360116",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3601162012",
+    "district_id": "360116",
+    "name": "SALAPRAYA"
+  },
+  {
+    "id": "3601162013",
+    "district_id": "360116",
+    "name": "BANYURESMI"
+  },
+  {
+    "id": "3601162014",
+    "district_id": "360116",
+    "name": "SAMPANG BITUNG"
+  },
+  {
+    "id": "3601162015",
+    "district_id": "360116",
+    "name": "BABADSARI"
+  }
+]

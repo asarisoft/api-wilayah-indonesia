@@ -1,1 +1,32 @@
-[{"id": "3303172001", "district_id": "330317", "name": "PURBASARI"}, {"id": "3303172002", "district_id": "330317", "name": "SIRANDU"}, {"id": "3303172003", "district_id": "330317", "name": "KARANGJAMBU"}, {"id": "3303172004", "district_id": "330317", "name": "SANGUWATANG"}, {"id": "3303172005", "district_id": "330317", "name": "JINGKANG"}, {"id": "3303172006", "district_id": "330317", "name": "DANASARI"}]
+[
+  {
+    "id": "3303172001",
+    "district_id": "330317",
+    "name": "PURBASARI"
+  },
+  {
+    "id": "3303172002",
+    "district_id": "330317",
+    "name": "SIRANDU"
+  },
+  {
+    "id": "3303172003",
+    "district_id": "330317",
+    "name": "KARANGJAMBU"
+  },
+  {
+    "id": "3303172004",
+    "district_id": "330317",
+    "name": "SANGUWATANG"
+  },
+  {
+    "id": "3303172005",
+    "district_id": "330317",
+    "name": "JINGKANG"
+  },
+  {
+    "id": "3303172006",
+    "district_id": "330317",
+    "name": "DANASARI"
+  }
+]

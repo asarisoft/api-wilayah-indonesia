@@ -1,1 +1,52 @@
-[{"id": "3174071001", "district_id": "317407", "name": "MELAWAI"}, {"id": "3174071002", "district_id": "317407", "name": "GUNUNG"}, {"id": "3174071003", "district_id": "317407", "name": "KRAMAT PELA"}, {"id": "3174071004", "district_id": "317407", "name": "SELONG"}, {"id": "3174071005", "district_id": "317407", "name": "RAWA BARAT"}, {"id": "3174071006", "district_id": "317407", "name": "SENAYAN"}, {"id": "3174071007", "district_id": "317407", "name": "PULO"}, {"id": "3174071008", "district_id": "317407", "name": "PETOGOGAN"}, {"id": "3174071009", "district_id": "317407", "name": "GANDARIA UTARA"}, {"id": "3174071010", "district_id": "317407", "name": "CIPETE UTARA"}]
+[
+  {
+    "id": "3174071001",
+    "district_id": "317407",
+    "name": "MELAWAI"
+  },
+  {
+    "id": "3174071002",
+    "district_id": "317407",
+    "name": "GUNUNG"
+  },
+  {
+    "id": "3174071003",
+    "district_id": "317407",
+    "name": "KRAMAT PELA"
+  },
+  {
+    "id": "3174071004",
+    "district_id": "317407",
+    "name": "SELONG"
+  },
+  {
+    "id": "3174071005",
+    "district_id": "317407",
+    "name": "RAWA BARAT"
+  },
+  {
+    "id": "3174071006",
+    "district_id": "317407",
+    "name": "SENAYAN"
+  },
+  {
+    "id": "3174071007",
+    "district_id": "317407",
+    "name": "PULO"
+  },
+  {
+    "id": "3174071008",
+    "district_id": "317407",
+    "name": "PETOGOGAN"
+  },
+  {
+    "id": "3174071009",
+    "district_id": "317407",
+    "name": "GANDARIA UTARA"
+  },
+  {
+    "id": "3174071010",
+    "district_id": "317407",
+    "name": "CIPETE UTARA"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "1674041001", "district_id": "167404", "name": "TANJUNG RAMBANG"}, {"id": "1674042003", "district_id": "167404", "name": "KARYA MULYA"}, {"id": "1674042005", "district_id": "167404", "name": "RAMBANG SENULING"}, {"id": "1674042006", "district_id": "167404", "name": "JUNGAI"}, {"id": "1674042007", "district_id": "167404", "name": "TALANG BATU"}, {"id": "1674042008", "district_id": "167404", "name": "KARANGAN"}, {"id": "1674042009", "district_id": "167404", "name": "KARANG BINDU"}, {"id": "1674042010", "district_id": "167404", "name": "SINAR RAMBANG"}, {"id": "1674042011", "district_id": "167404", "name": "KEMANG TANDUK"}]
+[
+  {
+    "id": "1674041001",
+    "district_id": "167404",
+    "name": "TANJUNG RAMBANG"
+  },
+  {
+    "id": "1674042003",
+    "district_id": "167404",
+    "name": "KARYA MULYA"
+  },
+  {
+    "id": "1674042005",
+    "district_id": "167404",
+    "name": "RAMBANG SENULING"
+  },
+  {
+    "id": "1674042006",
+    "district_id": "167404",
+    "name": "JUNGAI"
+  },
+  {
+    "id": "1674042007",
+    "district_id": "167404",
+    "name": "TALANG BATU"
+  },
+  {
+    "id": "1674042008",
+    "district_id": "167404",
+    "name": "KARANGAN"
+  },
+  {
+    "id": "1674042009",
+    "district_id": "167404",
+    "name": "KARANG BINDU"
+  },
+  {
+    "id": "1674042010",
+    "district_id": "167404",
+    "name": "SINAR RAMBANG"
+  },
+  {
+    "id": "1674042011",
+    "district_id": "167404",
+    "name": "KEMANG TANDUK"
+  }
+]

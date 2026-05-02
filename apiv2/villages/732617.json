@@ -1,1 +1,22 @@
-[{"id": "7326172001", "district_id": "732617", "name": "TO'YASA AKUNG"}, {"id": "7326172002", "district_id": "732617", "name": "BATU LIMBONG"}, {"id": "7326172003", "district_id": "732617", "name": "BANGKELEKILA'"}, {"id": "7326172004", "district_id": "732617", "name": "TAMPAN BONGA"}]
+[
+  {
+    "id": "7326172001",
+    "district_id": "732617",
+    "name": "TO'YASA AKUNG"
+  },
+  {
+    "id": "7326172002",
+    "district_id": "732617",
+    "name": "BATU LIMBONG"
+  },
+  {
+    "id": "7326172003",
+    "district_id": "732617",
+    "name": "BANGKELEKILA'"
+  },
+  {
+    "id": "7326172004",
+    "district_id": "732617",
+    "name": "TAMPAN BONGA"
+  }
+]

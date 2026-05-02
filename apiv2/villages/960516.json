@@ -1,1 +1,52 @@
-[{"id": "9605162001", "district_id": "960516", "name": "ADOH"}, {"id": "9605162002", "district_id": "960516", "name": "TEMEL"}, {"id": "9605162003", "district_id": "960516", "name": "SOSIAN"}, {"id": "9605162004", "district_id": "960516", "name": "SEGIOR"}, {"id": "9605162005", "district_id": "960516", "name": "ORAIN"}, {"id": "9605162006", "district_id": "960516", "name": "RAWAS"}, {"id": "9605162007", "district_id": "960516", "name": "ORSU"}, {"id": "9605162008", "district_id": "960516", "name": "SOAN"}, {"id": "9605162009", "district_id": "960516", "name": "WARBO"}, {"id": "9605162010", "district_id": "960516", "name": "WOMAN"}]
+[
+  {
+    "id": "9605162001",
+    "district_id": "960516",
+    "name": "ADOH"
+  },
+  {
+    "id": "9605162002",
+    "district_id": "960516",
+    "name": "TEMEL"
+  },
+  {
+    "id": "9605162003",
+    "district_id": "960516",
+    "name": "SOSIAN"
+  },
+  {
+    "id": "9605162004",
+    "district_id": "960516",
+    "name": "SEGIOR"
+  },
+  {
+    "id": "9605162005",
+    "district_id": "960516",
+    "name": "ORAIN"
+  },
+  {
+    "id": "9605162006",
+    "district_id": "960516",
+    "name": "RAWAS"
+  },
+  {
+    "id": "9605162007",
+    "district_id": "960516",
+    "name": "ORSU"
+  },
+  {
+    "id": "9605162008",
+    "district_id": "960516",
+    "name": "SOAN"
+  },
+  {
+    "id": "9605162009",
+    "district_id": "960516",
+    "name": "WARBO"
+  },
+  {
+    "id": "9605162010",
+    "district_id": "960516",
+    "name": "WOMAN"
+  }
+]

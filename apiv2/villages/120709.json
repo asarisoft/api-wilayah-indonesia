@@ -1,1 +1,122 @@
-[{"id": "1207092001", "district_id": "120709", "name": "BAH PERAK"}, {"id": "1207092002", "district_id": "120709", "name": "BANDAR KWALA"}, {"id": "1207092003", "district_id": "120709", "name": "BAH BALUA"}, {"id": "1207092005", "district_id": "120709", "name": "BANDAR GUGUNG"}, {"id": "1207092006", "district_id": "120709", "name": "BANDAR MERIAH"}, {"id": "1207092007", "district_id": "120709", "name": "BATU GINGGING"}, {"id": "1207092008", "district_id": "120709", "name": "BANGUN PURBA"}, {"id": "1207092009", "district_id": "120709", "name": "BANGUN PURBA TENGAH"}, {"id": "1207092010", "district_id": "120709", "name": "BEGERPANG"}, {"id": "1207092011", "district_id": "120709", "name": "BATU RATA"}, {"id": "1207092012", "district_id": "120709", "name": "CIMAHI"}, {"id": "1207092014", "district_id": "120709", "name": "DAMAK MALIHO"}, {"id": "1207092015", "district_id": "120709", "name": "GREAHAN"}, {"id": "1207092017", "district_id": "120709", "name": "MAROMBUN UJUNG JAWI"}, {"id": "1207092018", "district_id": "120709", "name": "MAROMBUN BARAT"}, {"id": "1207092019", "district_id": "120709", "name": "MABAR"}, {"id": "1207092020", "district_id": "120709", "name": "PERGUROAN"}, {"id": "1207092023", "district_id": "120709", "name": "RUMAH DELENG"}, {"id": "1207092024", "district_id": "120709", "name": "SIBAGANDING"}, {"id": "1207092025", "district_id": "120709", "name": "SIALANG"}, {"id": "1207092027", "district_id": "120709", "name": "SUKALUWEI"}, {"id": "1207092030", "district_id": "120709", "name": "TANJUNG PURBA"}, {"id": "1207092032", "district_id": "120709", "name": "URUNG GANJANG"}, {"id": "1207092033", "district_id": "120709", "name": "UJUNG RAMBE"}]
+[
+  {
+    "id": "1207092001",
+    "district_id": "120709",
+    "name": "BAH PERAK"
+  },
+  {
+    "id": "1207092002",
+    "district_id": "120709",
+    "name": "BANDAR KWALA"
+  },
+  {
+    "id": "1207092003",
+    "district_id": "120709",
+    "name": "BAH BALUA"
+  },
+  {
+    "id": "1207092005",
+    "district_id": "120709",
+    "name": "BANDAR GUGUNG"
+  },
+  {
+    "id": "1207092006",
+    "district_id": "120709",
+    "name": "BANDAR MERIAH"
+  },
+  {
+    "id": "1207092007",
+    "district_id": "120709",
+    "name": "BATU GINGGING"
+  },
+  {
+    "id": "1207092008",
+    "district_id": "120709",
+    "name": "BANGUN PURBA"
+  },
+  {
+    "id": "1207092009",
+    "district_id": "120709",
+    "name": "BANGUN PURBA TENGAH"
+  },
+  {
+    "id": "1207092010",
+    "district_id": "120709",
+    "name": "BEGERPANG"
+  },
+  {
+    "id": "1207092011",
+    "district_id": "120709",
+    "name": "BATU RATA"
+  },
+  {
+    "id": "1207092012",
+    "district_id": "120709",
+    "name": "CIMAHI"
+  },
+  {
+    "id": "1207092014",
+    "district_id": "120709",
+    "name": "DAMAK MALIHO"
+  },
+  {
+    "id": "1207092015",
+    "district_id": "120709",
+    "name": "GREAHAN"
+  },
+  {
+    "id": "1207092017",
+    "district_id": "120709",
+    "name": "MAROMBUN UJUNG JAWI"
+  },
+  {
+    "id": "1207092018",
+    "district_id": "120709",
+    "name": "MAROMBUN BARAT"
+  },
+  {
+    "id": "1207092019",
+    "district_id": "120709",
+    "name": "MABAR"
+  },
+  {
+    "id": "1207092020",
+    "district_id": "120709",
+    "name": "PERGUROAN"
+  },
+  {
+    "id": "1207092023",
+    "district_id": "120709",
+    "name": "RUMAH DELENG"
+  },
+  {
+    "id": "1207092024",
+    "district_id": "120709",
+    "name": "SIBAGANDING"
+  },
+  {
+    "id": "1207092025",
+    "district_id": "120709",
+    "name": "SIALANG"
+  },
+  {
+    "id": "1207092027",
+    "district_id": "120709",
+    "name": "SUKALUWEI"
+  },
+  {
+    "id": "1207092030",
+    "district_id": "120709",
+    "name": "TANJUNG PURBA"
+  },
+  {
+    "id": "1207092032",
+    "district_id": "120709",
+    "name": "URUNG GANJANG"
+  },
+  {
+    "id": "1207092033",
+    "district_id": "120709",
+    "name": "UJUNG RAMBE"
+  }
+]

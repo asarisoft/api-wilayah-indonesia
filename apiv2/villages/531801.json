@@ -1,1 +1,57 @@
-[{"id": "5318012001", "district_id": "531801", "name": "BONDO BOGHILA"}, {"id": "5318012002", "district_id": "531801", "name": "LETE KONDA"}, {"id": "5318012003", "district_id": "531801", "name": "KARUNI"}, {"id": "5318012004", "district_id": "531801", "name": "TOTOK"}, {"id": "5318012009", "district_id": "531801", "name": "RAMA DANA"}, {"id": "5318012010", "district_id": "531801", "name": "WEE MANANDA"}, {"id": "5318012013", "district_id": "531801", "name": "POGO TENA"}, {"id": "5318012014", "district_id": "531801", "name": "PAYOLA UMBU"}, {"id": "5318012015", "district_id": "531801", "name": "WEE KAMBALA"}, {"id": "5318012016", "district_id": "531801", "name": "LOKO KALADA"}, {"id": "5318012017", "district_id": "531801", "name": "LETE KONDA SELATAN"}]
+[
+  {
+    "id": "5318012001",
+    "district_id": "531801",
+    "name": "BONDO BOGHILA"
+  },
+  {
+    "id": "5318012002",
+    "district_id": "531801",
+    "name": "LETE KONDA"
+  },
+  {
+    "id": "5318012003",
+    "district_id": "531801",
+    "name": "KARUNI"
+  },
+  {
+    "id": "5318012004",
+    "district_id": "531801",
+    "name": "TOTOK"
+  },
+  {
+    "id": "5318012009",
+    "district_id": "531801",
+    "name": "RAMA DANA"
+  },
+  {
+    "id": "5318012010",
+    "district_id": "531801",
+    "name": "WEE MANANDA"
+  },
+  {
+    "id": "5318012013",
+    "district_id": "531801",
+    "name": "POGO TENA"
+  },
+  {
+    "id": "5318012014",
+    "district_id": "531801",
+    "name": "PAYOLA UMBU"
+  },
+  {
+    "id": "5318012015",
+    "district_id": "531801",
+    "name": "WEE KAMBALA"
+  },
+  {
+    "id": "5318012016",
+    "district_id": "531801",
+    "name": "LOKO KALADA"
+  },
+  {
+    "id": "5318012017",
+    "district_id": "531801",
+    "name": "LETE KONDA SELATAN"
+  }
+]

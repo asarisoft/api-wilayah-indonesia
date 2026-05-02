@@ -1,1 +1,162 @@
-[{"id": "950801", "regency_id": "9508", "name": "KENYAM"}, {"id": "950802", "regency_id": "9508", "name": "MAPENDUMA"}, {"id": "950803", "regency_id": "9508", "name": "YIGI"}, {"id": "950804", "regency_id": "9508", "name": "WOSAK"}, {"id": "950805", "regency_id": "9508", "name": "GESELMA"}, {"id": "950806", "regency_id": "9508", "name": "MUGI"}, {"id": "950807", "regency_id": "9508", "name": "MBUWA"}, {"id": "950808", "regency_id": "9508", "name": "GEAREK"}, {"id": "950809", "regency_id": "9508", "name": "KOROPTAK"}, {"id": "950810", "regency_id": "9508", "name": "KEGAYEM"}, {"id": "950811", "regency_id": "9508", "name": "PARO"}, {"id": "950812", "regency_id": "9508", "name": "MEBAROK"}, {"id": "950813", "regency_id": "9508", "name": "YENGGELO"}, {"id": "950814", "regency_id": "9508", "name": "KILMID"}, {"id": "950815", "regency_id": "9508", "name": "ALAMA"}, {"id": "950816", "regency_id": "9508", "name": "YAL"}, {"id": "950817", "regency_id": "9508", "name": "MAM"}, {"id": "950818", "regency_id": "9508", "name": "DAL"}, {"id": "950819", "regency_id": "9508", "name": "NIRKURI"}, {"id": "950820", "regency_id": "9508", "name": "INIKGAL"}, {"id": "950821", "regency_id": "9508", "name": "INIYE"}, {"id": "950822", "regency_id": "9508", "name": "MBULMU YALMA"}, {"id": "950823", "regency_id": "9508", "name": "MBUA TENGAH"}, {"id": "950824", "regency_id": "9508", "name": "EMBETPEN"}, {"id": "950825", "regency_id": "9508", "name": "KORA"}, {"id": "950826", "regency_id": "9508", "name": "WUSI"}, {"id": "950827", "regency_id": "9508", "name": "PIJA"}, {"id": "950828", "regency_id": "9508", "name": "MOBA"}, {"id": "950829", "regency_id": "9508", "name": "WUTPAGA"}, {"id": "950830", "regency_id": "9508", "name": "NENGGEAGIN"}, {"id": "950831", "regency_id": "9508", "name": "KREPKURI"}, {"id": "950832", "regency_id": "9508", "name": "PASIR PUTIH"}]
+[
+  {
+    "id": "950801",
+    "regency_id": "9508",
+    "name": "KENYAM"
+  },
+  {
+    "id": "950802",
+    "regency_id": "9508",
+    "name": "MAPENDUMA"
+  },
+  {
+    "id": "950803",
+    "regency_id": "9508",
+    "name": "YIGI"
+  },
+  {
+    "id": "950804",
+    "regency_id": "9508",
+    "name": "WOSAK"
+  },
+  {
+    "id": "950805",
+    "regency_id": "9508",
+    "name": "GESELMA"
+  },
+  {
+    "id": "950806",
+    "regency_id": "9508",
+    "name": "MUGI"
+  },
+  {
+    "id": "950807",
+    "regency_id": "9508",
+    "name": "MBUWA"
+  },
+  {
+    "id": "950808",
+    "regency_id": "9508",
+    "name": "GEAREK"
+  },
+  {
+    "id": "950809",
+    "regency_id": "9508",
+    "name": "KOROPTAK"
+  },
+  {
+    "id": "950810",
+    "regency_id": "9508",
+    "name": "KEGAYEM"
+  },
+  {
+    "id": "950811",
+    "regency_id": "9508",
+    "name": "PARO"
+  },
+  {
+    "id": "950812",
+    "regency_id": "9508",
+    "name": "MEBAROK"
+  },
+  {
+    "id": "950813",
+    "regency_id": "9508",
+    "name": "YENGGELO"
+  },
+  {
+    "id": "950814",
+    "regency_id": "9508",
+    "name": "KILMID"
+  },
+  {
+    "id": "950815",
+    "regency_id": "9508",
+    "name": "ALAMA"
+  },
+  {
+    "id": "950816",
+    "regency_id": "9508",
+    "name": "YAL"
+  },
+  {
+    "id": "950817",
+    "regency_id": "9508",
+    "name": "MAM"
+  },
+  {
+    "id": "950818",
+    "regency_id": "9508",
+    "name": "DAL"
+  },
+  {
+    "id": "950819",
+    "regency_id": "9508",
+    "name": "NIRKURI"
+  },
+  {
+    "id": "950820",
+    "regency_id": "9508",
+    "name": "INIKGAL"
+  },
+  {
+    "id": "950821",
+    "regency_id": "9508",
+    "name": "INIYE"
+  },
+  {
+    "id": "950822",
+    "regency_id": "9508",
+    "name": "MBULMU YALMA"
+  },
+  {
+    "id": "950823",
+    "regency_id": "9508",
+    "name": "MBUA TENGAH"
+  },
+  {
+    "id": "950824",
+    "regency_id": "9508",
+    "name": "EMBETPEN"
+  },
+  {
+    "id": "950825",
+    "regency_id": "9508",
+    "name": "KORA"
+  },
+  {
+    "id": "950826",
+    "regency_id": "9508",
+    "name": "WUSI"
+  },
+  {
+    "id": "950827",
+    "regency_id": "9508",
+    "name": "PIJA"
+  },
+  {
+    "id": "950828",
+    "regency_id": "9508",
+    "name": "MOBA"
+  },
+  {
+    "id": "950829",
+    "regency_id": "9508",
+    "name": "WUTPAGA"
+  },
+  {
+    "id": "950830",
+    "regency_id": "9508",
+    "name": "NENGGEAGIN"
+  },
+  {
+    "id": "950831",
+    "regency_id": "9508",
+    "name": "KREPKURI"
+  },
+  {
+    "id": "950832",
+    "regency_id": "9508",
+    "name": "PASIR PUTIH"
+  }
+]

@@ -1,1 +1,112 @@
-[{"id": "630201", "regency_id": "6302", "name": "PULAU SEMBILAN"}, {"id": "630202", "regency_id": "6302", "name": "PULAU LAUT BARAT"}, {"id": "630203", "regency_id": "6302", "name": "PULAU LAUT SELATAN"}, {"id": "630204", "regency_id": "6302", "name": "PULAU LAUT TIMUR"}, {"id": "630205", "regency_id": "6302", "name": "PULAU SEBUKU"}, {"id": "630206", "regency_id": "6302", "name": "PULAULAUT UTARA"}, {"id": "630207", "regency_id": "6302", "name": "KELUMPANG SELATAN"}, {"id": "630208", "regency_id": "6302", "name": "KELUMPANG HULU"}, {"id": "630209", "regency_id": "6302", "name": "KELUMPANG TENGAH"}, {"id": "630210", "regency_id": "6302", "name": "KELUMPANG UTARA"}, {"id": "630211", "regency_id": "6302", "name": "PAMUKAN SELATAN"}, {"id": "630212", "regency_id": "6302", "name": "SAMPANAHAN"}, {"id": "630213", "regency_id": "6302", "name": "PAMUKAN UTARA"}, {"id": "630214", "regency_id": "6302", "name": "HAMPANG"}, {"id": "630215", "regency_id": "6302", "name": "SUNGAI DURIAN"}, {"id": "630216", "regency_id": "6302", "name": "PULAU LAUT TENGAH"}, {"id": "630217", "regency_id": "6302", "name": "KELUMPANG HILIR"}, {"id": "630218", "regency_id": "6302", "name": "KELUMPANG BARAT"}, {"id": "630219", "regency_id": "6302", "name": "PAMUKAN BARAT"}, {"id": "630220", "regency_id": "6302", "name": "PULAU LAUT KEPULAUAN"}, {"id": "630221", "regency_id": "6302", "name": "PULAU LAUT TANJUNG SELAYAR"}, {"id": "630222", "regency_id": "6302", "name": "PULAULAUT SIGAM"}]
+[
+  {
+    "id": "630201",
+    "regency_id": "6302",
+    "name": "PULAU SEMBILAN"
+  },
+  {
+    "id": "630202",
+    "regency_id": "6302",
+    "name": "PULAU LAUT BARAT"
+  },
+  {
+    "id": "630203",
+    "regency_id": "6302",
+    "name": "PULAU LAUT SELATAN"
+  },
+  {
+    "id": "630204",
+    "regency_id": "6302",
+    "name": "PULAU LAUT TIMUR"
+  },
+  {
+    "id": "630205",
+    "regency_id": "6302",
+    "name": "PULAU SEBUKU"
+  },
+  {
+    "id": "630206",
+    "regency_id": "6302",
+    "name": "PULAULAUT UTARA"
+  },
+  {
+    "id": "630207",
+    "regency_id": "6302",
+    "name": "KELUMPANG SELATAN"
+  },
+  {
+    "id": "630208",
+    "regency_id": "6302",
+    "name": "KELUMPANG HULU"
+  },
+  {
+    "id": "630209",
+    "regency_id": "6302",
+    "name": "KELUMPANG TENGAH"
+  },
+  {
+    "id": "630210",
+    "regency_id": "6302",
+    "name": "KELUMPANG UTARA"
+  },
+  {
+    "id": "630211",
+    "regency_id": "6302",
+    "name": "PAMUKAN SELATAN"
+  },
+  {
+    "id": "630212",
+    "regency_id": "6302",
+    "name": "SAMPANAHAN"
+  },
+  {
+    "id": "630213",
+    "regency_id": "6302",
+    "name": "PAMUKAN UTARA"
+  },
+  {
+    "id": "630214",
+    "regency_id": "6302",
+    "name": "HAMPANG"
+  },
+  {
+    "id": "630215",
+    "regency_id": "6302",
+    "name": "SUNGAI DURIAN"
+  },
+  {
+    "id": "630216",
+    "regency_id": "6302",
+    "name": "PULAU LAUT TENGAH"
+  },
+  {
+    "id": "630217",
+    "regency_id": "6302",
+    "name": "KELUMPANG HILIR"
+  },
+  {
+    "id": "630218",
+    "regency_id": "6302",
+    "name": "KELUMPANG BARAT"
+  },
+  {
+    "id": "630219",
+    "regency_id": "6302",
+    "name": "PAMUKAN BARAT"
+  },
+  {
+    "id": "630220",
+    "regency_id": "6302",
+    "name": "PULAU LAUT KEPULAUAN"
+  },
+  {
+    "id": "630221",
+    "regency_id": "6302",
+    "name": "PULAU LAUT TANJUNG SELAYAR"
+  },
+  {
+    "id": "630222",
+    "regency_id": "6302",
+    "name": "PULAULAUT SIGAM"
+  }
+]

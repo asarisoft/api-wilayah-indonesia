@@ -1,1 +1,37 @@
-[{"id": "3215042001", "district_id": "321504", "name": "KUTAPOHACI"}, {"id": "3215042003", "district_id": "321504", "name": "PARUNGMULYA"}, {"id": "3215042004", "district_id": "321504", "name": "KUTAMEKAR"}, {"id": "3215042005", "district_id": "321504", "name": "KUTANEGARA"}, {"id": "3215042006", "district_id": "321504", "name": "MULYASARI"}, {"id": "3215042007", "district_id": "321504", "name": "MULYASEJATI"}, {"id": "3215042008", "district_id": "321504", "name": "TEGALLEGA"}]
+[
+  {
+    "id": "3215042001",
+    "district_id": "321504",
+    "name": "KUTAPOHACI"
+  },
+  {
+    "id": "3215042003",
+    "district_id": "321504",
+    "name": "PARUNGMULYA"
+  },
+  {
+    "id": "3215042004",
+    "district_id": "321504",
+    "name": "KUTAMEKAR"
+  },
+  {
+    "id": "3215042005",
+    "district_id": "321504",
+    "name": "KUTANEGARA"
+  },
+  {
+    "id": "3215042006",
+    "district_id": "321504",
+    "name": "MULYASARI"
+  },
+  {
+    "id": "3215042007",
+    "district_id": "321504",
+    "name": "MULYASEJATI"
+  },
+  {
+    "id": "3215042008",
+    "district_id": "321504",
+    "name": "TEGALLEGA"
+  }
+]

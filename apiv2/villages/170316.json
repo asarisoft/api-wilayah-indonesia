@@ -1,1 +1,62 @@
-[{"id": "1703162001", "district_id": "170316", "name": "PASAR BEMBAH"}, {"id": "1703162002", "district_id": "170316", "name": "TEPI LAUT"}, {"id": "1703162003", "district_id": "170316", "name": "PASAR KERKAP"}, {"id": "1703162005", "district_id": "170316", "name": "AIR NAPAL"}, {"id": "1703162006", "district_id": "170316", "name": "TALANG KERING"}, {"id": "1703162007", "district_id": "170316", "name": "SELUBUK"}, {"id": "1703162008", "district_id": "170316", "name": "PASAR TEBAT"}, {"id": "1703162009", "district_id": "170316", "name": "LUBUK TANJUNG"}, {"id": "1703162011", "district_id": "170316", "name": "PUKUR"}, {"id": "1703162014", "district_id": "170316", "name": "PASAR PALIK"}, {"id": "1703162015", "district_id": "170316", "name": "TEBING KANDANG"}, {"id": "1703162016", "district_id": "170316", "name": "TALANG JARANG"}]
+[
+  {
+    "id": "1703162001",
+    "district_id": "170316",
+    "name": "PASAR BEMBAH"
+  },
+  {
+    "id": "1703162002",
+    "district_id": "170316",
+    "name": "TEPI LAUT"
+  },
+  {
+    "id": "1703162003",
+    "district_id": "170316",
+    "name": "PASAR KERKAP"
+  },
+  {
+    "id": "1703162005",
+    "district_id": "170316",
+    "name": "AIR NAPAL"
+  },
+  {
+    "id": "1703162006",
+    "district_id": "170316",
+    "name": "TALANG KERING"
+  },
+  {
+    "id": "1703162007",
+    "district_id": "170316",
+    "name": "SELUBUK"
+  },
+  {
+    "id": "1703162008",
+    "district_id": "170316",
+    "name": "PASAR TEBAT"
+  },
+  {
+    "id": "1703162009",
+    "district_id": "170316",
+    "name": "LUBUK TANJUNG"
+  },
+  {
+    "id": "1703162011",
+    "district_id": "170316",
+    "name": "PUKUR"
+  },
+  {
+    "id": "1703162014",
+    "district_id": "170316",
+    "name": "PASAR PALIK"
+  },
+  {
+    "id": "1703162015",
+    "district_id": "170316",
+    "name": "TEBING KANDANG"
+  },
+  {
+    "id": "1703162016",
+    "district_id": "170316",
+    "name": "TALANG JARANG"
+  }
+]

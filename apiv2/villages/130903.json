@@ -1,1 +1,27 @@
-[{"id": "1309032002", "district_id": "130903", "name": "MUARA SIBERUT"}, {"id": "1309032003", "district_id": "130903", "name": "MAILEPPET"}, {"id": "1309032004", "district_id": "130903", "name": "MUNTEI"}, {"id": "1309032005", "district_id": "130903", "name": "MATOTONAN"}, {"id": "1309032007", "district_id": "130903", "name": "MADOBAG"}]
+[
+  {
+    "id": "1309032002",
+    "district_id": "130903",
+    "name": "MUARA SIBERUT"
+  },
+  {
+    "id": "1309032003",
+    "district_id": "130903",
+    "name": "MAILEPPET"
+  },
+  {
+    "id": "1309032004",
+    "district_id": "130903",
+    "name": "MUNTEI"
+  },
+  {
+    "id": "1309032005",
+    "district_id": "130903",
+    "name": "MATOTONAN"
+  },
+  {
+    "id": "1309032007",
+    "district_id": "130903",
+    "name": "MADOBAG"
+  }
+]

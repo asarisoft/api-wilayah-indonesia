@@ -1,1 +1,37 @@
-[{"id": "750201", "regency_id": "7502", "name": "PAGUYAMAN"}, {"id": "750202", "regency_id": "7502", "name": "WONOSARI"}, {"id": "750203", "regency_id": "7502", "name": "DULUPI"}, {"id": "750204", "regency_id": "7502", "name": "TILAMUTA"}, {"id": "750205", "regency_id": "7502", "name": "MANANGGU"}, {"id": "750206", "regency_id": "7502", "name": "BOTUMOITO"}, {"id": "750207", "regency_id": "7502", "name": "PAGUYAMAN PANTAI"}]
+[
+  {
+    "id": "750201",
+    "regency_id": "7502",
+    "name": "PAGUYAMAN"
+  },
+  {
+    "id": "750202",
+    "regency_id": "7502",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "750203",
+    "regency_id": "7502",
+    "name": "DULUPI"
+  },
+  {
+    "id": "750204",
+    "regency_id": "7502",
+    "name": "TILAMUTA"
+  },
+  {
+    "id": "750205",
+    "regency_id": "7502",
+    "name": "MANANGGU"
+  },
+  {
+    "id": "750206",
+    "regency_id": "7502",
+    "name": "BOTUMOITO"
+  },
+  {
+    "id": "750207",
+    "regency_id": "7502",
+    "name": "PAGUYAMAN PANTAI"
+  }
+]

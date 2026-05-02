@@ -1,1 +1,42 @@
-[{"id": "6407202001", "district_id": "640720", "name": "SEKOLAQ JOLEQ"}, {"id": "6407202002", "district_id": "640720", "name": "SEKOLAQ MULIAQ"}, {"id": "6407202003", "district_id": "640720", "name": "SEKOLAQ ODAY"}, {"id": "6407202004", "district_id": "640720", "name": "SRIMULYO"}, {"id": "6407202005", "district_id": "640720", "name": "SUMBER BANGUN"}, {"id": "6407202006", "district_id": "640720", "name": "SUMBER REJO"}, {"id": "6407202007", "district_id": "640720", "name": "SEKOLAQ DARAT"}, {"id": "6407202008", "district_id": "640720", "name": "LELENG"}]
+[
+  {
+    "id": "6407202001",
+    "district_id": "640720",
+    "name": "SEKOLAQ JOLEQ"
+  },
+  {
+    "id": "6407202002",
+    "district_id": "640720",
+    "name": "SEKOLAQ MULIAQ"
+  },
+  {
+    "id": "6407202003",
+    "district_id": "640720",
+    "name": "SEKOLAQ ODAY"
+  },
+  {
+    "id": "6407202004",
+    "district_id": "640720",
+    "name": "SRIMULYO"
+  },
+  {
+    "id": "6407202005",
+    "district_id": "640720",
+    "name": "SUMBER BANGUN"
+  },
+  {
+    "id": "6407202006",
+    "district_id": "640720",
+    "name": "SUMBER REJO"
+  },
+  {
+    "id": "6407202007",
+    "district_id": "640720",
+    "name": "SEKOLAQ DARAT"
+  },
+  {
+    "id": "6407202008",
+    "district_id": "640720",
+    "name": "LELENG"
+  }
+]

@@ -1,1 +1,262 @@
-[{"id": "1106032001", "district_id": "110603", "name": "REUKIH DAYAH"}, {"id": "1106032002", "district_id": "110603", "name": "INDRAPURI"}, {"id": "1106032003", "district_id": "110603", "name": "LAM LEUBOK"}, {"id": "1106032004", "district_id": "110603", "name": "EMPEE ARA"}, {"id": "1106032005", "district_id": "110603", "name": "LIMO BLANG"}, {"id": "1106032006", "district_id": "110603", "name": "LIMO MESJID"}, {"id": "1106032007", "district_id": "110603", "name": "LIMO LAMLEUWEUNG"}, {"id": "1106032008", "district_id": "110603", "name": "LHEUE"}, {"id": "1106032009", "district_id": "110603", "name": "MEUSALE"}, {"id": "1106032010", "district_id": "110603", "name": "CUREH"}, {"id": "1106032011", "district_id": "110603", "name": "COT KAREUNG"}, {"id": "1106032012", "district_id": "110603", "name": "LAMLUNG"}, {"id": "1106032013", "district_id": "110603", "name": "MEUREU ULEE TITIE"}, {"id": "1106032014", "district_id": "110603", "name": "MEUREU BUENG-U"}, {"id": "1106032015", "district_id": "110603", "name": "MUREU BARO"}, {"id": "1106032016", "district_id": "110603", "name": "MEUREU LAMGLUMPANG"}, {"id": "1106032017", "district_id": "110603", "name": "PASAR INDRAPURI"}, {"id": "1106032018", "district_id": "110603", "name": "MANGGRA"}, {"id": "1106032019", "district_id": "110603", "name": "REUKIH KUPULA"}, {"id": "1106032020", "district_id": "110603", "name": "LAM ILIE MESJID"}, {"id": "1106032021", "district_id": "110603", "name": "LAM ILIE TENGOH"}, {"id": "1106032022", "district_id": "110603", "name": "LAM ILIE GANTO"}, {"id": "1106032023", "district_id": "110603", "name": "MEUNARA"}, {"id": "1106032024", "district_id": "110603", "name": "ANEUK GLEE"}, {"id": "1106032025", "district_id": "110603", "name": "KRUENG LAMKAREUNG"}, {"id": "1106032026", "district_id": "110603", "name": "SINYEU"}, {"id": "1106032027", "district_id": "110603", "name": "SEUREUMO"}, {"id": "1106032028", "district_id": "110603", "name": "ULEE KAREUNG"}, {"id": "1106032029", "district_id": "110603", "name": "LAMBEUTONG"}, {"id": "1106032030", "district_id": "110603", "name": "LAMPUPOK BARO"}, {"id": "1106032031", "district_id": "110603", "name": "LAMPUPOK RAYA"}, {"id": "1106032032", "district_id": "110603", "name": "SEULANGAI"}, {"id": "1106032033", "district_id": "110603", "name": "RITING"}, {"id": "1106032034", "district_id": "110603", "name": "SIHOM LHOK"}, {"id": "1106032035", "district_id": "110603", "name": "SIHOM COT"}, {"id": "1106032036", "district_id": "110603", "name": "SEUOT BAROH"}, {"id": "1106032037", "district_id": "110603", "name": "SEUOT TUNONG"}, {"id": "1106032038", "district_id": "110603", "name": "LAMPANAH RANJO"}, {"id": "1106032039", "district_id": "110603", "name": "LAMPANAH TEUNGOH"}, {"id": "1106032040", "district_id": "110603", "name": "LAMPANAH DAYAH"}, {"id": "1106032041", "district_id": "110603", "name": "LAMPANAH BARO"}, {"id": "1106032042", "district_id": "110603", "name": "LAMPANAH TUNONG"}, {"id": "1106032043", "district_id": "110603", "name": "GROET BLANG"}, {"id": "1106032044", "district_id": "110603", "name": "GROET MANYANG"}, {"id": "1106032045", "district_id": "110603", "name": "GROET BARO"}, {"id": "1106032046", "district_id": "110603", "name": "JRUEK BAK KREH"}, {"id": "1106032047", "district_id": "110603", "name": "JRUEK BALEE"}, {"id": "1106032049", "district_id": "110603", "name": "MON ALUE"}, {"id": "1106032050", "district_id": "110603", "name": "LAMBEUNOT"}, {"id": "1106032051", "district_id": "110603", "name": "ULEE UE"}, {"id": "1106032052", "district_id": "110603", "name": "LAMSIOT"}, {"id": "1106032053", "district_id": "110603", "name": "LINGOM"}]
+[
+  {
+    "id": "1106032001",
+    "district_id": "110603",
+    "name": "REUKIH DAYAH"
+  },
+  {
+    "id": "1106032002",
+    "district_id": "110603",
+    "name": "INDRAPURI"
+  },
+  {
+    "id": "1106032003",
+    "district_id": "110603",
+    "name": "LAM LEUBOK"
+  },
+  {
+    "id": "1106032004",
+    "district_id": "110603",
+    "name": "EMPEE ARA"
+  },
+  {
+    "id": "1106032005",
+    "district_id": "110603",
+    "name": "LIMO BLANG"
+  },
+  {
+    "id": "1106032006",
+    "district_id": "110603",
+    "name": "LIMO MESJID"
+  },
+  {
+    "id": "1106032007",
+    "district_id": "110603",
+    "name": "LIMO LAMLEUWEUNG"
+  },
+  {
+    "id": "1106032008",
+    "district_id": "110603",
+    "name": "LHEUE"
+  },
+  {
+    "id": "1106032009",
+    "district_id": "110603",
+    "name": "MEUSALE"
+  },
+  {
+    "id": "1106032010",
+    "district_id": "110603",
+    "name": "CUREH"
+  },
+  {
+    "id": "1106032011",
+    "district_id": "110603",
+    "name": "COT KAREUNG"
+  },
+  {
+    "id": "1106032012",
+    "district_id": "110603",
+    "name": "LAMLUNG"
+  },
+  {
+    "id": "1106032013",
+    "district_id": "110603",
+    "name": "MEUREU ULEE TITIE"
+  },
+  {
+    "id": "1106032014",
+    "district_id": "110603",
+    "name": "MEUREU BUENG-U"
+  },
+  {
+    "id": "1106032015",
+    "district_id": "110603",
+    "name": "MUREU BARO"
+  },
+  {
+    "id": "1106032016",
+    "district_id": "110603",
+    "name": "MEUREU LAMGLUMPANG"
+  },
+  {
+    "id": "1106032017",
+    "district_id": "110603",
+    "name": "PASAR INDRAPURI"
+  },
+  {
+    "id": "1106032018",
+    "district_id": "110603",
+    "name": "MANGGRA"
+  },
+  {
+    "id": "1106032019",
+    "district_id": "110603",
+    "name": "REUKIH KUPULA"
+  },
+  {
+    "id": "1106032020",
+    "district_id": "110603",
+    "name": "LAM ILIE MESJID"
+  },
+  {
+    "id": "1106032021",
+    "district_id": "110603",
+    "name": "LAM ILIE TENGOH"
+  },
+  {
+    "id": "1106032022",
+    "district_id": "110603",
+    "name": "LAM ILIE GANTO"
+  },
+  {
+    "id": "1106032023",
+    "district_id": "110603",
+    "name": "MEUNARA"
+  },
+  {
+    "id": "1106032024",
+    "district_id": "110603",
+    "name": "ANEUK GLEE"
+  },
+  {
+    "id": "1106032025",
+    "district_id": "110603",
+    "name": "KRUENG LAMKAREUNG"
+  },
+  {
+    "id": "1106032026",
+    "district_id": "110603",
+    "name": "SINYEU"
+  },
+  {
+    "id": "1106032027",
+    "district_id": "110603",
+    "name": "SEUREUMO"
+  },
+  {
+    "id": "1106032028",
+    "district_id": "110603",
+    "name": "ULEE KAREUNG"
+  },
+  {
+    "id": "1106032029",
+    "district_id": "110603",
+    "name": "LAMBEUTONG"
+  },
+  {
+    "id": "1106032030",
+    "district_id": "110603",
+    "name": "LAMPUPOK BARO"
+  },
+  {
+    "id": "1106032031",
+    "district_id": "110603",
+    "name": "LAMPUPOK RAYA"
+  },
+  {
+    "id": "1106032032",
+    "district_id": "110603",
+    "name": "SEULANGAI"
+  },
+  {
+    "id": "1106032033",
+    "district_id": "110603",
+    "name": "RITING"
+  },
+  {
+    "id": "1106032034",
+    "district_id": "110603",
+    "name": "SIHOM LHOK"
+  },
+  {
+    "id": "1106032035",
+    "district_id": "110603",
+    "name": "SIHOM COT"
+  },
+  {
+    "id": "1106032036",
+    "district_id": "110603",
+    "name": "SEUOT BAROH"
+  },
+  {
+    "id": "1106032037",
+    "district_id": "110603",
+    "name": "SEUOT TUNONG"
+  },
+  {
+    "id": "1106032038",
+    "district_id": "110603",
+    "name": "LAMPANAH RANJO"
+  },
+  {
+    "id": "1106032039",
+    "district_id": "110603",
+    "name": "LAMPANAH TEUNGOH"
+  },
+  {
+    "id": "1106032040",
+    "district_id": "110603",
+    "name": "LAMPANAH DAYAH"
+  },
+  {
+    "id": "1106032041",
+    "district_id": "110603",
+    "name": "LAMPANAH BARO"
+  },
+  {
+    "id": "1106032042",
+    "district_id": "110603",
+    "name": "LAMPANAH TUNONG"
+  },
+  {
+    "id": "1106032043",
+    "district_id": "110603",
+    "name": "GROET BLANG"
+  },
+  {
+    "id": "1106032044",
+    "district_id": "110603",
+    "name": "GROET MANYANG"
+  },
+  {
+    "id": "1106032045",
+    "district_id": "110603",
+    "name": "GROET BARO"
+  },
+  {
+    "id": "1106032046",
+    "district_id": "110603",
+    "name": "JRUEK BAK KREH"
+  },
+  {
+    "id": "1106032047",
+    "district_id": "110603",
+    "name": "JRUEK BALEE"
+  },
+  {
+    "id": "1106032049",
+    "district_id": "110603",
+    "name": "MON ALUE"
+  },
+  {
+    "id": "1106032050",
+    "district_id": "110603",
+    "name": "LAMBEUNOT"
+  },
+  {
+    "id": "1106032051",
+    "district_id": "110603",
+    "name": "ULEE UE"
+  },
+  {
+    "id": "1106032052",
+    "district_id": "110603",
+    "name": "LAMSIOT"
+  },
+  {
+    "id": "1106032053",
+    "district_id": "110603",
+    "name": "LINGOM"
+  }
+]

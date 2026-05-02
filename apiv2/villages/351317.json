@@ -1,1 +1,92 @@
-[{"id": "3513172001", "district_id": "351317", "name": "BRABE"}, {"id": "3513172002", "district_id": "351317", "name": "GERONGAN"}, {"id": "3513172003", "district_id": "351317", "name": "MARON KIDUL"}, {"id": "3513172004", "district_id": "351317", "name": "SUMBERDAWE"}, {"id": "3513172005", "district_id": "351317", "name": "SUMBERPOH"}, {"id": "3513172006", "district_id": "351317", "name": "KEDUNGSARI"}, {"id": "3513172007", "district_id": "351317", "name": "MARON KULON"}, {"id": "3513172008", "district_id": "351317", "name": "MARON WETAN"}, {"id": "3513172009", "district_id": "351317", "name": "BRANI KULON"}, {"id": "3513172010", "district_id": "351317", "name": "SATREYAN"}, {"id": "3513172011", "district_id": "351317", "name": "BRANI WETAN"}, {"id": "3513172012", "district_id": "351317", "name": "PUSPAN"}, {"id": "3513172013", "district_id": "351317", "name": "WONOREJO"}, {"id": "3513172014", "district_id": "351317", "name": "BRUMBUNGAN KIDUL"}, {"id": "3513172015", "district_id": "351317", "name": "PEGALANGAN KIDUL"}, {"id": "3513172016", "district_id": "351317", "name": "SUKO"}, {"id": "3513172017", "district_id": "351317", "name": "GANTING KULON"}, {"id": "3513172018", "district_id": "351317", "name": "GANTING WETAN"}]
+[
+  {
+    "id": "3513172001",
+    "district_id": "351317",
+    "name": "BRABE"
+  },
+  {
+    "id": "3513172002",
+    "district_id": "351317",
+    "name": "GERONGAN"
+  },
+  {
+    "id": "3513172003",
+    "district_id": "351317",
+    "name": "MARON KIDUL"
+  },
+  {
+    "id": "3513172004",
+    "district_id": "351317",
+    "name": "SUMBERDAWE"
+  },
+  {
+    "id": "3513172005",
+    "district_id": "351317",
+    "name": "SUMBERPOH"
+  },
+  {
+    "id": "3513172006",
+    "district_id": "351317",
+    "name": "KEDUNGSARI"
+  },
+  {
+    "id": "3513172007",
+    "district_id": "351317",
+    "name": "MARON KULON"
+  },
+  {
+    "id": "3513172008",
+    "district_id": "351317",
+    "name": "MARON WETAN"
+  },
+  {
+    "id": "3513172009",
+    "district_id": "351317",
+    "name": "BRANI KULON"
+  },
+  {
+    "id": "3513172010",
+    "district_id": "351317",
+    "name": "SATREYAN"
+  },
+  {
+    "id": "3513172011",
+    "district_id": "351317",
+    "name": "BRANI WETAN"
+  },
+  {
+    "id": "3513172012",
+    "district_id": "351317",
+    "name": "PUSPAN"
+  },
+  {
+    "id": "3513172013",
+    "district_id": "351317",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3513172014",
+    "district_id": "351317",
+    "name": "BRUMBUNGAN KIDUL"
+  },
+  {
+    "id": "3513172015",
+    "district_id": "351317",
+    "name": "PEGALANGAN KIDUL"
+  },
+  {
+    "id": "3513172016",
+    "district_id": "351317",
+    "name": "SUKO"
+  },
+  {
+    "id": "3513172017",
+    "district_id": "351317",
+    "name": "GANTING KULON"
+  },
+  {
+    "id": "3513172018",
+    "district_id": "351317",
+    "name": "GANTING WETAN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "9507372001", "district_id": "950737", "name": "MUARA"}, {"id": "9507372002", "district_id": "950737", "name": "LUALO"}, {"id": "9507372003", "district_id": "950737", "name": "ABUA"}, {"id": "9507372004", "district_id": "950737", "name": "GIKUR"}, {"id": "9507372005", "district_id": "950737", "name": "GIPURA"}, {"id": "9507372006", "district_id": "950737", "name": "GULU"}, {"id": "9507372007", "district_id": "950737", "name": "BOGANGI"}, {"id": "9507372008", "district_id": "950737", "name": "GOLOME"}, {"id": "9507372009", "district_id": "950737", "name": "WIYAPUR"}, {"id": "9507372010", "district_id": "950737", "name": "KURUGUNERI"}]
+[
+  {
+    "id": "9507372001",
+    "district_id": "950737",
+    "name": "MUARA"
+  },
+  {
+    "id": "9507372002",
+    "district_id": "950737",
+    "name": "LUALO"
+  },
+  {
+    "id": "9507372003",
+    "district_id": "950737",
+    "name": "ABUA"
+  },
+  {
+    "id": "9507372004",
+    "district_id": "950737",
+    "name": "GIKUR"
+  },
+  {
+    "id": "9507372005",
+    "district_id": "950737",
+    "name": "GIPURA"
+  },
+  {
+    "id": "9507372006",
+    "district_id": "950737",
+    "name": "GULU"
+  },
+  {
+    "id": "9507372007",
+    "district_id": "950737",
+    "name": "BOGANGI"
+  },
+  {
+    "id": "9507372008",
+    "district_id": "950737",
+    "name": "GOLOME"
+  },
+  {
+    "id": "9507372009",
+    "district_id": "950737",
+    "name": "WIYAPUR"
+  },
+  {
+    "id": "9507372010",
+    "district_id": "950737",
+    "name": "KURUGUNERI"
+  }
+]

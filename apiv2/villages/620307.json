@@ -1,1 +1,117 @@
-[{"id": "6203071001", "district_id": "620307", "name": "PALINGKAU BARU"}, {"id": "6203071002", "district_id": "620307", "name": "PALINGKAU LAMA"}, {"id": "6203072003", "district_id": "620307", "name": "TAJEPAN"}, {"id": "6203072004", "district_id": "620307", "name": "MAMPAI"}, {"id": "6203072005", "district_id": "620307", "name": "MUARA DADAHUP"}, {"id": "6203072006", "district_id": "620307", "name": "BELAWANG"}, {"id": "6203072008", "district_id": "620307", "name": "PALANGKAU LAMA"}, {"id": "6203072010", "district_id": "620307", "name": "PALANGKAU BARU"}, {"id": "6203072014", "district_id": "620307", "name": "TALEKUNG PUNEI"}, {"id": "6203072015", "district_id": "620307", "name": "KARYA BERSAMA"}, {"id": "6203072016", "district_id": "620307", "name": "PALINGKAU JAYA"}, {"id": "6203072017", "district_id": "620307", "name": "PALINGKAU ASRI"}, {"id": "6203072018", "district_id": "620307", "name": "PALINGKAU SEJAHTERA"}, {"id": "6203072019", "district_id": "620307", "name": "SAKA BINJAI"}, {"id": "6203072020", "district_id": "620307", "name": "BINA SEJAHTERA"}, {"id": "6203072021", "district_id": "620307", "name": "SUKA REJA"}, {"id": "6203072022", "district_id": "620307", "name": "SUKA MUKTI"}, {"id": "6203072023", "district_id": "620307", "name": "BINA KARYA"}, {"id": "6203072024", "district_id": "620307", "name": "BINA MEKAR"}, {"id": "6203072025", "district_id": "620307", "name": "RAWA SUBUR"}, {"id": "6203072026", "district_id": "620307", "name": "SUMBER MULYA"}, {"id": "6203072027", "district_id": "620307", "name": "BUMI RAHAYU"}, {"id": "6203072028", "district_id": "620307", "name": "MANGGALA PERMAI"}]
+[
+  {
+    "id": "6203071001",
+    "district_id": "620307",
+    "name": "PALINGKAU BARU"
+  },
+  {
+    "id": "6203071002",
+    "district_id": "620307",
+    "name": "PALINGKAU LAMA"
+  },
+  {
+    "id": "6203072003",
+    "district_id": "620307",
+    "name": "TAJEPAN"
+  },
+  {
+    "id": "6203072004",
+    "district_id": "620307",
+    "name": "MAMPAI"
+  },
+  {
+    "id": "6203072005",
+    "district_id": "620307",
+    "name": "MUARA DADAHUP"
+  },
+  {
+    "id": "6203072006",
+    "district_id": "620307",
+    "name": "BELAWANG"
+  },
+  {
+    "id": "6203072008",
+    "district_id": "620307",
+    "name": "PALANGKAU LAMA"
+  },
+  {
+    "id": "6203072010",
+    "district_id": "620307",
+    "name": "PALANGKAU BARU"
+  },
+  {
+    "id": "6203072014",
+    "district_id": "620307",
+    "name": "TALEKUNG PUNEI"
+  },
+  {
+    "id": "6203072015",
+    "district_id": "620307",
+    "name": "KARYA BERSAMA"
+  },
+  {
+    "id": "6203072016",
+    "district_id": "620307",
+    "name": "PALINGKAU JAYA"
+  },
+  {
+    "id": "6203072017",
+    "district_id": "620307",
+    "name": "PALINGKAU ASRI"
+  },
+  {
+    "id": "6203072018",
+    "district_id": "620307",
+    "name": "PALINGKAU SEJAHTERA"
+  },
+  {
+    "id": "6203072019",
+    "district_id": "620307",
+    "name": "SAKA BINJAI"
+  },
+  {
+    "id": "6203072020",
+    "district_id": "620307",
+    "name": "BINA SEJAHTERA"
+  },
+  {
+    "id": "6203072021",
+    "district_id": "620307",
+    "name": "SUKA REJA"
+  },
+  {
+    "id": "6203072022",
+    "district_id": "620307",
+    "name": "SUKA MUKTI"
+  },
+  {
+    "id": "6203072023",
+    "district_id": "620307",
+    "name": "BINA KARYA"
+  },
+  {
+    "id": "6203072024",
+    "district_id": "620307",
+    "name": "BINA MEKAR"
+  },
+  {
+    "id": "6203072025",
+    "district_id": "620307",
+    "name": "RAWA SUBUR"
+  },
+  {
+    "id": "6203072026",
+    "district_id": "620307",
+    "name": "SUMBER MULYA"
+  },
+  {
+    "id": "6203072027",
+    "district_id": "620307",
+    "name": "BUMI RAHAYU"
+  },
+  {
+    "id": "6203072028",
+    "district_id": "620307",
+    "name": "MANGGALA PERMAI"
+  }
+]

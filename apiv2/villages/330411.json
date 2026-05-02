@@ -1,1 +1,57 @@
-[{"id": "3304112001", "district_id": "330411", "name": "PINGIT"}, {"id": "3304112002", "district_id": "330411", "name": "SITUWANGI"}, {"id": "3304112003", "district_id": "330411", "name": "GELANG"}, {"id": "3304112004", "district_id": "330411", "name": "RAKIT"}, {"id": "3304112005", "district_id": "330411", "name": "ADIPASIR"}, {"id": "3304112006", "district_id": "330411", "name": "BANDINGAN"}, {"id": "3304112007", "district_id": "330411", "name": "KINCANG"}, {"id": "3304112008", "district_id": "330411", "name": "BADAMITA"}, {"id": "3304112009", "district_id": "330411", "name": "TANJUNGANOM"}, {"id": "3304112010", "district_id": "330411", "name": "LUWUNG"}, {"id": "3304112011", "district_id": "330411", "name": "LENGKONG"}]
+[
+  {
+    "id": "3304112001",
+    "district_id": "330411",
+    "name": "PINGIT"
+  },
+  {
+    "id": "3304112002",
+    "district_id": "330411",
+    "name": "SITUWANGI"
+  },
+  {
+    "id": "3304112003",
+    "district_id": "330411",
+    "name": "GELANG"
+  },
+  {
+    "id": "3304112004",
+    "district_id": "330411",
+    "name": "RAKIT"
+  },
+  {
+    "id": "3304112005",
+    "district_id": "330411",
+    "name": "ADIPASIR"
+  },
+  {
+    "id": "3304112006",
+    "district_id": "330411",
+    "name": "BANDINGAN"
+  },
+  {
+    "id": "3304112007",
+    "district_id": "330411",
+    "name": "KINCANG"
+  },
+  {
+    "id": "3304112008",
+    "district_id": "330411",
+    "name": "BADAMITA"
+  },
+  {
+    "id": "3304112009",
+    "district_id": "330411",
+    "name": "TANJUNGANOM"
+  },
+  {
+    "id": "3304112010",
+    "district_id": "330411",
+    "name": "LUWUNG"
+  },
+  {
+    "id": "3304112011",
+    "district_id": "330411",
+    "name": "LENGKONG"
+  }
+]

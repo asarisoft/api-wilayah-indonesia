@@ -1,1 +1,82 @@
-[{"id": "9605042001", "district_id": "960504", "name": "KISOR"}, {"id": "9605042002", "district_id": "960504", "name": "SORRY"}, {"id": "9605042003", "district_id": "960504", "name": "IMSUN"}, {"id": "9605042004", "district_id": "960504", "name": "SABAH"}, {"id": "9605042005", "district_id": "960504", "name": "TAHSIMARA"}, {"id": "9605042006", "district_id": "960504", "name": "FUOG"}, {"id": "9605042007", "district_id": "960504", "name": "ASIAF SAMAN"}, {"id": "9605042008", "district_id": "960504", "name": "HORA IEK"}, {"id": "9605042009", "district_id": "960504", "name": "FUOG SELATAN"}, {"id": "9605042010", "district_id": "960504", "name": "SAME RAKATOR"}, {"id": "9605042011", "district_id": "960504", "name": "ROMA"}, {"id": "9605042012", "district_id": "960504", "name": "KRUS"}, {"id": "9605042013", "district_id": "960504", "name": "AWET MAIN"}, {"id": "9605042014", "district_id": "960504", "name": "YEEK"}, {"id": "9605042015", "district_id": "960504", "name": "KAITANA"}, {"id": "9605042016", "district_id": "960504", "name": "TOLAK"}]
+[
+  {
+    "id": "9605042001",
+    "district_id": "960504",
+    "name": "KISOR"
+  },
+  {
+    "id": "9605042002",
+    "district_id": "960504",
+    "name": "SORRY"
+  },
+  {
+    "id": "9605042003",
+    "district_id": "960504",
+    "name": "IMSUN"
+  },
+  {
+    "id": "9605042004",
+    "district_id": "960504",
+    "name": "SABAH"
+  },
+  {
+    "id": "9605042005",
+    "district_id": "960504",
+    "name": "TAHSIMARA"
+  },
+  {
+    "id": "9605042006",
+    "district_id": "960504",
+    "name": "FUOG"
+  },
+  {
+    "id": "9605042007",
+    "district_id": "960504",
+    "name": "ASIAF SAMAN"
+  },
+  {
+    "id": "9605042008",
+    "district_id": "960504",
+    "name": "HORA IEK"
+  },
+  {
+    "id": "9605042009",
+    "district_id": "960504",
+    "name": "FUOG SELATAN"
+  },
+  {
+    "id": "9605042010",
+    "district_id": "960504",
+    "name": "SAME RAKATOR"
+  },
+  {
+    "id": "9605042011",
+    "district_id": "960504",
+    "name": "ROMA"
+  },
+  {
+    "id": "9605042012",
+    "district_id": "960504",
+    "name": "KRUS"
+  },
+  {
+    "id": "9605042013",
+    "district_id": "960504",
+    "name": "AWET MAIN"
+  },
+  {
+    "id": "9605042014",
+    "district_id": "960504",
+    "name": "YEEK"
+  },
+  {
+    "id": "9605042015",
+    "district_id": "960504",
+    "name": "KAITANA"
+  },
+  {
+    "id": "9605042016",
+    "district_id": "960504",
+    "name": "TOLAK"
+  }
+]

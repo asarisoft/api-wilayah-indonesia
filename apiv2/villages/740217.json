@@ -1,1 +1,82 @@
-[{"id": "7402171002", "district_id": "740217", "name": "WATUNDEHOA"}, {"id": "7402172001", "district_id": "740217", "name": "PURIALA"}, {"id": "7402172003", "district_id": "740217", "name": "SONAI"}, {"id": "7402172004", "district_id": "740217", "name": "LALONGGATU"}, {"id": "7402172005", "district_id": "740217", "name": "POANAHA"}, {"id": "7402172006", "district_id": "740217", "name": "WONUA MOROME"}, {"id": "7402172007", "district_id": "740217", "name": "AHUAWALI"}, {"id": "7402172008", "district_id": "740217", "name": "WATUSA"}, {"id": "7402172009", "district_id": "740217", "name": "PUUSANGI"}, {"id": "7402172010", "district_id": "740217", "name": "MOKALELEO"}, {"id": "7402172011", "district_id": "740217", "name": "UNGGULINO"}, {"id": "7402172012", "district_id": "740217", "name": "TETEWATU"}, {"id": "7402172013", "district_id": "740217", "name": "TETEHAKA"}, {"id": "7402172014", "district_id": "740217", "name": "PUUHOPA"}, {"id": "7402172015", "district_id": "740217", "name": "LALOONAHA"}, {"id": "7402172016", "district_id": "740217", "name": "WAWOSANGGULA"}]
+[
+  {
+    "id": "7402171002",
+    "district_id": "740217",
+    "name": "WATUNDEHOA"
+  },
+  {
+    "id": "7402172001",
+    "district_id": "740217",
+    "name": "PURIALA"
+  },
+  {
+    "id": "7402172003",
+    "district_id": "740217",
+    "name": "SONAI"
+  },
+  {
+    "id": "7402172004",
+    "district_id": "740217",
+    "name": "LALONGGATU"
+  },
+  {
+    "id": "7402172005",
+    "district_id": "740217",
+    "name": "POANAHA"
+  },
+  {
+    "id": "7402172006",
+    "district_id": "740217",
+    "name": "WONUA MOROME"
+  },
+  {
+    "id": "7402172007",
+    "district_id": "740217",
+    "name": "AHUAWALI"
+  },
+  {
+    "id": "7402172008",
+    "district_id": "740217",
+    "name": "WATUSA"
+  },
+  {
+    "id": "7402172009",
+    "district_id": "740217",
+    "name": "PUUSANGI"
+  },
+  {
+    "id": "7402172010",
+    "district_id": "740217",
+    "name": "MOKALELEO"
+  },
+  {
+    "id": "7402172011",
+    "district_id": "740217",
+    "name": "UNGGULINO"
+  },
+  {
+    "id": "7402172012",
+    "district_id": "740217",
+    "name": "TETEWATU"
+  },
+  {
+    "id": "7402172013",
+    "district_id": "740217",
+    "name": "TETEHAKA"
+  },
+  {
+    "id": "7402172014",
+    "district_id": "740217",
+    "name": "PUUHOPA"
+  },
+  {
+    "id": "7402172015",
+    "district_id": "740217",
+    "name": "LALOONAHA"
+  },
+  {
+    "id": "7402172016",
+    "district_id": "740217",
+    "name": "WAWOSANGGULA"
+  }
+]

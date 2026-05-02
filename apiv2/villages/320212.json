@@ -1,1 +1,52 @@
-[{"id": "3202122001", "district_id": "320212", "name": "KALAPAREA"}, {"id": "3202122002", "district_id": "320212", "name": "PAWENANG"}, {"id": "3202122003", "district_id": "320212", "name": "NAGRAK UTARA"}, {"id": "3202122004", "district_id": "320212", "name": "CISARUA"}, {"id": "3202122009", "district_id": "320212", "name": "BALEKAMBANG"}, {"id": "3202122010", "district_id": "320212", "name": "BABAKAN PANJANG"}, {"id": "3202122011", "district_id": "320212", "name": "DARMAREJA"}, {"id": "3202122012", "district_id": "320212", "name": "CIHANYAWAR"}, {"id": "3202122013", "district_id": "320212", "name": "NAGRAK SELATAN"}, {"id": "3202122014", "district_id": "320212", "name": "GIRIJAYA"}]
+[
+  {
+    "id": "3202122001",
+    "district_id": "320212",
+    "name": "KALAPAREA"
+  },
+  {
+    "id": "3202122002",
+    "district_id": "320212",
+    "name": "PAWENANG"
+  },
+  {
+    "id": "3202122003",
+    "district_id": "320212",
+    "name": "NAGRAK UTARA"
+  },
+  {
+    "id": "3202122004",
+    "district_id": "320212",
+    "name": "CISARUA"
+  },
+  {
+    "id": "3202122009",
+    "district_id": "320212",
+    "name": "BALEKAMBANG"
+  },
+  {
+    "id": "3202122010",
+    "district_id": "320212",
+    "name": "BABAKAN PANJANG"
+  },
+  {
+    "id": "3202122011",
+    "district_id": "320212",
+    "name": "DARMAREJA"
+  },
+  {
+    "id": "3202122012",
+    "district_id": "320212",
+    "name": "CIHANYAWAR"
+  },
+  {
+    "id": "3202122013",
+    "district_id": "320212",
+    "name": "NAGRAK SELATAN"
+  },
+  {
+    "id": "3202122014",
+    "district_id": "320212",
+    "name": "GIRIJAYA"
+  }
+]

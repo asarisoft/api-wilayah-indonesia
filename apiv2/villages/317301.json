@@ -1,1 +1,32 @@
-[{"id": "3173011001", "district_id": "317301", "name": "CENGKARENG BARAT"}, {"id": "3173011002", "district_id": "317301", "name": "DURI KOSAMBI"}, {"id": "3173011003", "district_id": "317301", "name": "RAWA BUAYA"}, {"id": "3173011004", "district_id": "317301", "name": "KEDAUNG KALI ANGKE"}, {"id": "3173011005", "district_id": "317301", "name": "KAPUK"}, {"id": "3173011006", "district_id": "317301", "name": "CENGKARENG TIMUR"}]
+[
+  {
+    "id": "3173011001",
+    "district_id": "317301",
+    "name": "CENGKARENG BARAT"
+  },
+  {
+    "id": "3173011002",
+    "district_id": "317301",
+    "name": "DURI KOSAMBI"
+  },
+  {
+    "id": "3173011003",
+    "district_id": "317301",
+    "name": "RAWA BUAYA"
+  },
+  {
+    "id": "3173011004",
+    "district_id": "317301",
+    "name": "KEDAUNG KALI ANGKE"
+  },
+  {
+    "id": "3173011005",
+    "district_id": "317301",
+    "name": "KAPUK"
+  },
+  {
+    "id": "3173011006",
+    "district_id": "317301",
+    "name": "CENGKARENG TIMUR"
+  }
+]

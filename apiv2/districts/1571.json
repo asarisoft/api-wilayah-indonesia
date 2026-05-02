@@ -1,1 +1,57 @@
-[{"id": "157101", "regency_id": "1571", "name": "TELANAIPURA"}, {"id": "157102", "regency_id": "1571", "name": "JAMBI SELATAN"}, {"id": "157103", "regency_id": "1571", "name": "JAMBI TIMUR"}, {"id": "157104", "regency_id": "1571", "name": "PASAR JAMBI"}, {"id": "157105", "regency_id": "1571", "name": "PELAYANGAN"}, {"id": "157106", "regency_id": "1571", "name": "DANAU TELUK"}, {"id": "157107", "regency_id": "1571", "name": "KOTA BARU"}, {"id": "157108", "regency_id": "1571", "name": "JELUTUNG"}, {"id": "157109", "regency_id": "1571", "name": "ALAM BARAJO"}, {"id": "157110", "regency_id": "1571", "name": "DANAU SIPIN"}, {"id": "157111", "regency_id": "1571", "name": "PAAL MERAH"}]
+[
+  {
+    "id": "157101",
+    "regency_id": "1571",
+    "name": "TELANAIPURA"
+  },
+  {
+    "id": "157102",
+    "regency_id": "1571",
+    "name": "JAMBI SELATAN"
+  },
+  {
+    "id": "157103",
+    "regency_id": "1571",
+    "name": "JAMBI TIMUR"
+  },
+  {
+    "id": "157104",
+    "regency_id": "1571",
+    "name": "PASAR JAMBI"
+  },
+  {
+    "id": "157105",
+    "regency_id": "1571",
+    "name": "PELAYANGAN"
+  },
+  {
+    "id": "157106",
+    "regency_id": "1571",
+    "name": "DANAU TELUK"
+  },
+  {
+    "id": "157107",
+    "regency_id": "1571",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "157108",
+    "regency_id": "1571",
+    "name": "JELUTUNG"
+  },
+  {
+    "id": "157109",
+    "regency_id": "1571",
+    "name": "ALAM BARAJO"
+  },
+  {
+    "id": "157110",
+    "regency_id": "1571",
+    "name": "DANAU SIPIN"
+  },
+  {
+    "id": "157111",
+    "regency_id": "1571",
+    "name": "PAAL MERAH"
+  }
+]

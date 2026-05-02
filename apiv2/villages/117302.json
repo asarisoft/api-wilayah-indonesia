@@ -1,1 +1,92 @@
-[{"id": "1173022001", "district_id": "117302", "name": "KUTA BLANG"}, {"id": "1173022002", "district_id": "117302", "name": "TUMPOK TEUNGOH"}, {"id": "1173022003", "district_id": "117302", "name": "SIMPANG EMPAT"}, {"id": "1173022004", "district_id": "117302", "name": "KAMPUNG JAWA LHOKSEUMAWE"}, {"id": "1173022005", "district_id": "117302", "name": "KOTA LHOKSEUMAWE"}, {"id": "1173022006", "district_id": "117302", "name": "MON GEUDONG"}, {"id": "1173022007", "district_id": "117302", "name": "KEUDE ACEH"}, {"id": "1173022008", "district_id": "117302", "name": "PUSONG LHOKSEUMAWE"}, {"id": "1173022009", "district_id": "117302", "name": "HAGU TEUNGOH"}, {"id": "1173022010", "district_id": "117302", "name": "UTEUN BAYI"}, {"id": "1173022011", "district_id": "117302", "name": "UJONG BLANG"}, {"id": "1173022012", "district_id": "117302", "name": "HAGU SELATAN"}, {"id": "1173022013", "district_id": "117302", "name": "PUSONG BARU"}, {"id": "1173022014", "district_id": "117302", "name": "ULEE JALAN"}, {"id": "1173022015", "district_id": "117302", "name": "BANDA MASEN"}, {"id": "1173022016", "district_id": "117302", "name": "LANCANG GARAM"}, {"id": "1173022017", "district_id": "117302", "name": "JAWA BAROE"}, {"id": "1173022018", "district_id": "117302", "name": "HAGU BARAT LAUT"}]
+[
+  {
+    "id": "1173022001",
+    "district_id": "117302",
+    "name": "KUTA BLANG"
+  },
+  {
+    "id": "1173022002",
+    "district_id": "117302",
+    "name": "TUMPOK TEUNGOH"
+  },
+  {
+    "id": "1173022003",
+    "district_id": "117302",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "1173022004",
+    "district_id": "117302",
+    "name": "KAMPUNG JAWA LHOKSEUMAWE"
+  },
+  {
+    "id": "1173022005",
+    "district_id": "117302",
+    "name": "KOTA LHOKSEUMAWE"
+  },
+  {
+    "id": "1173022006",
+    "district_id": "117302",
+    "name": "MON GEUDONG"
+  },
+  {
+    "id": "1173022007",
+    "district_id": "117302",
+    "name": "KEUDE ACEH"
+  },
+  {
+    "id": "1173022008",
+    "district_id": "117302",
+    "name": "PUSONG LHOKSEUMAWE"
+  },
+  {
+    "id": "1173022009",
+    "district_id": "117302",
+    "name": "HAGU TEUNGOH"
+  },
+  {
+    "id": "1173022010",
+    "district_id": "117302",
+    "name": "UTEUN BAYI"
+  },
+  {
+    "id": "1173022011",
+    "district_id": "117302",
+    "name": "UJONG BLANG"
+  },
+  {
+    "id": "1173022012",
+    "district_id": "117302",
+    "name": "HAGU SELATAN"
+  },
+  {
+    "id": "1173022013",
+    "district_id": "117302",
+    "name": "PUSONG BARU"
+  },
+  {
+    "id": "1173022014",
+    "district_id": "117302",
+    "name": "ULEE JALAN"
+  },
+  {
+    "id": "1173022015",
+    "district_id": "117302",
+    "name": "BANDA MASEN"
+  },
+  {
+    "id": "1173022016",
+    "district_id": "117302",
+    "name": "LANCANG GARAM"
+  },
+  {
+    "id": "1173022017",
+    "district_id": "117302",
+    "name": "JAWA BAROE"
+  },
+  {
+    "id": "1173022018",
+    "district_id": "117302",
+    "name": "HAGU BARAT LAUT"
+  }
+]

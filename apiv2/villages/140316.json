@@ -1,1 +1,67 @@
-[{"id": "1403162001", "district_id": "140316", "name": "PETANI"}, {"id": "1403162002", "district_id": "140316", "name": "AIR KULIM"}, {"id": "1403162003", "district_id": "140316", "name": "BULUH MANIS"}, {"id": "1403162004", "district_id": "140316", "name": "BUMBUNG"}, {"id": "1403162005", "district_id": "140316", "name": "PAMESI"}, {"id": "1403162006", "district_id": "140316", "name": "KESUMBO AMPAI"}, {"id": "1403162007", "district_id": "140316", "name": "BATHIN SOBANGA"}, {"id": "1403162008", "district_id": "140316", "name": "SEBANGAR"}, {"id": "1403162009", "district_id": "140316", "name": "BONCAH MAHANG"}, {"id": "1403162010", "district_id": "140316", "name": "BALAI MAKAM"}, {"id": "1403162011", "district_id": "140316", "name": "TAMBUSAI BATANG DUI"}, {"id": "1403162012", "district_id": "140316", "name": "SIMPANG PADANG"}, {"id": "1403162013", "district_id": "140316", "name": "PEMATANG OBO"}]
+[
+  {
+    "id": "1403162001",
+    "district_id": "140316",
+    "name": "PETANI"
+  },
+  {
+    "id": "1403162002",
+    "district_id": "140316",
+    "name": "AIR KULIM"
+  },
+  {
+    "id": "1403162003",
+    "district_id": "140316",
+    "name": "BULUH MANIS"
+  },
+  {
+    "id": "1403162004",
+    "district_id": "140316",
+    "name": "BUMBUNG"
+  },
+  {
+    "id": "1403162005",
+    "district_id": "140316",
+    "name": "PAMESI"
+  },
+  {
+    "id": "1403162006",
+    "district_id": "140316",
+    "name": "KESUMBO AMPAI"
+  },
+  {
+    "id": "1403162007",
+    "district_id": "140316",
+    "name": "BATHIN SOBANGA"
+  },
+  {
+    "id": "1403162008",
+    "district_id": "140316",
+    "name": "SEBANGAR"
+  },
+  {
+    "id": "1403162009",
+    "district_id": "140316",
+    "name": "BONCAH MAHANG"
+  },
+  {
+    "id": "1403162010",
+    "district_id": "140316",
+    "name": "BALAI MAKAM"
+  },
+  {
+    "id": "1403162011",
+    "district_id": "140316",
+    "name": "TAMBUSAI BATANG DUI"
+  },
+  {
+    "id": "1403162012",
+    "district_id": "140316",
+    "name": "SIMPANG PADANG"
+  },
+  {
+    "id": "1403162013",
+    "district_id": "140316",
+    "name": "PEMATANG OBO"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "3202442001", "district_id": "320244", "name": "PADASENANG"}, {"id": "3202442002", "district_id": "320244", "name": "CIDADAP"}, {"id": "3202442003", "district_id": "320244", "name": "BANJARSARI"}, {"id": "3202442004", "district_id": "320244", "name": "HEGARMULYA"}, {"id": "3202442005", "district_id": "320244", "name": "TENJOLAUT"}, {"id": "3202442006", "district_id": "320244", "name": "MEKARTANI"}]
+[
+  {
+    "id": "3202442001",
+    "district_id": "320244",
+    "name": "PADASENANG"
+  },
+  {
+    "id": "3202442002",
+    "district_id": "320244",
+    "name": "CIDADAP"
+  },
+  {
+    "id": "3202442003",
+    "district_id": "320244",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3202442004",
+    "district_id": "320244",
+    "name": "HEGARMULYA"
+  },
+  {
+    "id": "3202442005",
+    "district_id": "320244",
+    "name": "TENJOLAUT"
+  },
+  {
+    "id": "3202442006",
+    "district_id": "320244",
+    "name": "MEKARTANI"
+  }
+]

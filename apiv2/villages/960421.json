@@ -1,1 +1,47 @@
-[{"id": "9604212001", "district_id": "960421", "name": "JOKBUJOKER"}, {"id": "9604212002", "district_id": "960421", "name": "KRANFOTSU"}, {"id": "9604212003", "district_id": "960421", "name": "SYUAU"}, {"id": "9604212004", "district_id": "960421", "name": "KWESEFO"}, {"id": "9604212005", "district_id": "960421", "name": "BATDEY"}, {"id": "9604212006", "district_id": "960421", "name": "SYUMBI"}, {"id": "9604212007", "district_id": "960421", "name": "BAO"}, {"id": "9604212008", "district_id": "960421", "name": "DONAN"}, {"id": "9604212009", "district_id": "960421", "name": "DOMBRON"}]
+[
+  {
+    "id": "9604212001",
+    "district_id": "960421",
+    "name": "JOKBUJOKER"
+  },
+  {
+    "id": "9604212002",
+    "district_id": "960421",
+    "name": "KRANFOTSU"
+  },
+  {
+    "id": "9604212003",
+    "district_id": "960421",
+    "name": "SYUAU"
+  },
+  {
+    "id": "9604212004",
+    "district_id": "960421",
+    "name": "KWESEFO"
+  },
+  {
+    "id": "9604212005",
+    "district_id": "960421",
+    "name": "BATDEY"
+  },
+  {
+    "id": "9604212006",
+    "district_id": "960421",
+    "name": "SYUMBI"
+  },
+  {
+    "id": "9604212007",
+    "district_id": "960421",
+    "name": "BAO"
+  },
+  {
+    "id": "9604212008",
+    "district_id": "960421",
+    "name": "DONAN"
+  },
+  {
+    "id": "9604212009",
+    "district_id": "960421",
+    "name": "DOMBRON"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3529092001", "district_id": "352909", "name": "BAKEONG"}, {"id": "3529092002", "district_id": "352909", "name": "PAYUDAN DUNDANG"}, {"id": "3529092003", "district_id": "352909", "name": "PORDAPOR"}, {"id": "3529092004", "district_id": "352909", "name": "GULUK-GULUK"}, {"id": "3529092005", "district_id": "352909", "name": "KETAWANG LAOK"}, {"id": "3529092006", "district_id": "352909", "name": "PANANGGUNGAN"}, {"id": "3529092007", "district_id": "352909", "name": "BRAGUNG"}, {"id": "3529092008", "district_id": "352909", "name": "TAMBUKO"}, {"id": "3529092009", "district_id": "352909", "name": "PAYUDAN NANGGER"}, {"id": "3529092010", "district_id": "352909", "name": "PAYUDAN DALEMAN"}, {"id": "3529092011", "district_id": "352909", "name": "PAYUDAN KARANGSOKON"}, {"id": "3529092012", "district_id": "352909", "name": "BATUAMPAR"}]
+[
+  {
+    "id": "3529092001",
+    "district_id": "352909",
+    "name": "BAKEONG"
+  },
+  {
+    "id": "3529092002",
+    "district_id": "352909",
+    "name": "PAYUDAN DUNDANG"
+  },
+  {
+    "id": "3529092003",
+    "district_id": "352909",
+    "name": "PORDAPOR"
+  },
+  {
+    "id": "3529092004",
+    "district_id": "352909",
+    "name": "GULUK-GULUK"
+  },
+  {
+    "id": "3529092005",
+    "district_id": "352909",
+    "name": "KETAWANG LAOK"
+  },
+  {
+    "id": "3529092006",
+    "district_id": "352909",
+    "name": "PANANGGUNGAN"
+  },
+  {
+    "id": "3529092007",
+    "district_id": "352909",
+    "name": "BRAGUNG"
+  },
+  {
+    "id": "3529092008",
+    "district_id": "352909",
+    "name": "TAMBUKO"
+  },
+  {
+    "id": "3529092009",
+    "district_id": "352909",
+    "name": "PAYUDAN NANGGER"
+  },
+  {
+    "id": "3529092010",
+    "district_id": "352909",
+    "name": "PAYUDAN DALEMAN"
+  },
+  {
+    "id": "3529092011",
+    "district_id": "352909",
+    "name": "PAYUDAN KARANGSOKON"
+  },
+  {
+    "id": "3529092012",
+    "district_id": "352909",
+    "name": "BATUAMPAR"
+  }
+]

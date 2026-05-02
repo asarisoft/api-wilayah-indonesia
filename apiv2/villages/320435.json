@@ -1,1 +1,62 @@
-[{"id": "3204352001", "district_id": "320435", "name": "CIGENTUR"}, {"id": "3204352002", "district_id": "320435", "name": "CIPEDES"}, {"id": "3204352003", "district_id": "320435", "name": "LOA"}, {"id": "3204352004", "district_id": "320435", "name": "CIJAGRA"}, {"id": "3204352005", "district_id": "320435", "name": "CIPAKU"}, {"id": "3204352006", "district_id": "320435", "name": "SINDANGSARI"}, {"id": "3204352007", "district_id": "320435", "name": "DRAWATI"}, {"id": "3204352008", "district_id": "320435", "name": "SUKAMANAH"}, {"id": "3204352009", "district_id": "320435", "name": "SUKAMANTRI"}, {"id": "3204352010", "district_id": "320435", "name": "KARANGTUNGGAL"}, {"id": "3204352011", "district_id": "320435", "name": "MEKARPAWITAN"}, {"id": "3204352012", "district_id": "320435", "name": "TANGSIMEKAR"}]
+[
+  {
+    "id": "3204352001",
+    "district_id": "320435",
+    "name": "CIGENTUR"
+  },
+  {
+    "id": "3204352002",
+    "district_id": "320435",
+    "name": "CIPEDES"
+  },
+  {
+    "id": "3204352003",
+    "district_id": "320435",
+    "name": "LOA"
+  },
+  {
+    "id": "3204352004",
+    "district_id": "320435",
+    "name": "CIJAGRA"
+  },
+  {
+    "id": "3204352005",
+    "district_id": "320435",
+    "name": "CIPAKU"
+  },
+  {
+    "id": "3204352006",
+    "district_id": "320435",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3204352007",
+    "district_id": "320435",
+    "name": "DRAWATI"
+  },
+  {
+    "id": "3204352008",
+    "district_id": "320435",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3204352009",
+    "district_id": "320435",
+    "name": "SUKAMANTRI"
+  },
+  {
+    "id": "3204352010",
+    "district_id": "320435",
+    "name": "KARANGTUNGGAL"
+  },
+  {
+    "id": "3204352011",
+    "district_id": "320435",
+    "name": "MEKARPAWITAN"
+  },
+  {
+    "id": "3204352012",
+    "district_id": "320435",
+    "name": "TANGSIMEKAR"
+  }
+]

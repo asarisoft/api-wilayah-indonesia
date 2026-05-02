@@ -1,1 +1,32 @@
-[{"id": "9601232001", "district_id": "960123", "name": "SAENGKEDUK"}, {"id": "9601232002", "district_id": "960123", "name": "SELEKOBO"}, {"id": "9601232003", "district_id": "960123", "name": "SUYE"}, {"id": "9601232004", "district_id": "960123", "name": "KLAMEDE"}, {"id": "9601232005", "district_id": "960123", "name": "SAMBATIE"}, {"id": "9601232006", "district_id": "960123", "name": "KLAGELE"}]
+[
+  {
+    "id": "9601232001",
+    "district_id": "960123",
+    "name": "SAENGKEDUK"
+  },
+  {
+    "id": "9601232002",
+    "district_id": "960123",
+    "name": "SELEKOBO"
+  },
+  {
+    "id": "9601232003",
+    "district_id": "960123",
+    "name": "SUYE"
+  },
+  {
+    "id": "9601232004",
+    "district_id": "960123",
+    "name": "KLAMEDE"
+  },
+  {
+    "id": "9601232005",
+    "district_id": "960123",
+    "name": "SAMBATIE"
+  },
+  {
+    "id": "9601232006",
+    "district_id": "960123",
+    "name": "KLAGELE"
+  }
+]

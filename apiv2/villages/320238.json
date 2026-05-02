@@ -1,1 +1,37 @@
-[{"id": "3202382001", "district_id": "320238", "name": "PURABAYA"}, {"id": "3202382002", "district_id": "320238", "name": "NEGLASARI"}, {"id": "3202382003", "district_id": "320238", "name": "PAGELARAN"}, {"id": "3202382004", "district_id": "320238", "name": "CIMERANG"}, {"id": "3202382005", "district_id": "320238", "name": "CITAMIANG"}, {"id": "3202382006", "district_id": "320238", "name": "MARGALUYU"}, {"id": "3202382007", "district_id": "320238", "name": "CICUKANG"}]
+[
+  {
+    "id": "3202382001",
+    "district_id": "320238",
+    "name": "PURABAYA"
+  },
+  {
+    "id": "3202382002",
+    "district_id": "320238",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3202382003",
+    "district_id": "320238",
+    "name": "PAGELARAN"
+  },
+  {
+    "id": "3202382004",
+    "district_id": "320238",
+    "name": "CIMERANG"
+  },
+  {
+    "id": "3202382005",
+    "district_id": "320238",
+    "name": "CITAMIANG"
+  },
+  {
+    "id": "3202382006",
+    "district_id": "320238",
+    "name": "MARGALUYU"
+  },
+  {
+    "id": "3202382007",
+    "district_id": "320238",
+    "name": "CICUKANG"
+  }
+]

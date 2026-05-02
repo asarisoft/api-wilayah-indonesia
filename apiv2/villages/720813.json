@@ -1,1 +1,47 @@
-[{"id": "7208132001", "district_id": "720813", "name": "TOMOLI"}, {"id": "7208132002", "district_id": "720813", "name": "TORIBULU"}, {"id": "7208132003", "district_id": "720813", "name": "SIENJO"}, {"id": "7208132004", "district_id": "720813", "name": "PINOTU"}, {"id": "7208132005", "district_id": "720813", "name": "SINGURA"}, {"id": "7208132006", "district_id": "720813", "name": "TOMOLI SELATAN"}, {"id": "7208132007", "district_id": "720813", "name": "SIBALAGO"}, {"id": "7208132008", "district_id": "720813", "name": "TORIBULU SELATAN"}, {"id": "7208132009", "district_id": "720813", "name": "TOMOLI UTARA"}]
+[
+  {
+    "id": "7208132001",
+    "district_id": "720813",
+    "name": "TOMOLI"
+  },
+  {
+    "id": "7208132002",
+    "district_id": "720813",
+    "name": "TORIBULU"
+  },
+  {
+    "id": "7208132003",
+    "district_id": "720813",
+    "name": "SIENJO"
+  },
+  {
+    "id": "7208132004",
+    "district_id": "720813",
+    "name": "PINOTU"
+  },
+  {
+    "id": "7208132005",
+    "district_id": "720813",
+    "name": "SINGURA"
+  },
+  {
+    "id": "7208132006",
+    "district_id": "720813",
+    "name": "TOMOLI SELATAN"
+  },
+  {
+    "id": "7208132007",
+    "district_id": "720813",
+    "name": "SIBALAGO"
+  },
+  {
+    "id": "7208132008",
+    "district_id": "720813",
+    "name": "TORIBULU SELATAN"
+  },
+  {
+    "id": "7208132009",
+    "district_id": "720813",
+    "name": "TOMOLI UTARA"
+  }
+]

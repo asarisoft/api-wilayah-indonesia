@@ -1,1 +1,97 @@
-[{"id": "8201042001", "district_id": "820104", "name": "SUSUPU"}, {"id": "8201042002", "district_id": "820104", "name": "LAKO AKELAMO"}, {"id": "8201042003", "district_id": "820104", "name": "TARUBA"}, {"id": "8201042004", "district_id": "820104", "name": "TODAHE"}, {"id": "8201042005", "district_id": "820104", "name": "PEOT"}, {"id": "8201042006", "district_id": "820104", "name": "SASUR"}, {"id": "8201042007", "district_id": "820104", "name": "GORO GORO"}, {"id": "8201042008", "district_id": "820104", "name": "TACIM"}, {"id": "8201042009", "district_id": "820104", "name": "BALISOANG"}, {"id": "8201042010", "district_id": "820104", "name": "WORAT-WORAT"}, {"id": "8201042011", "district_id": "820104", "name": "TACICI"}, {"id": "8201042012", "district_id": "820104", "name": "TARAUDU"}, {"id": "8201042013", "district_id": "820104", "name": "GOLO"}, {"id": "8201042028", "district_id": "820104", "name": "LAKO AKEDERI"}, {"id": "8201042029", "district_id": "820104", "name": "JARA KORE"}, {"id": "8201042030", "district_id": "820104", "name": "ROPU TENGAH BALU"}, {"id": "8201042033", "district_id": "820104", "name": "DERE"}, {"id": "8201042034", "district_id": "820104", "name": "BALISOAN UTARA"}, {"id": "8201042035", "district_id": "820104", "name": "SASUR PANTAI"}]
+[
+  {
+    "id": "8201042001",
+    "district_id": "820104",
+    "name": "SUSUPU"
+  },
+  {
+    "id": "8201042002",
+    "district_id": "820104",
+    "name": "LAKO AKELAMO"
+  },
+  {
+    "id": "8201042003",
+    "district_id": "820104",
+    "name": "TARUBA"
+  },
+  {
+    "id": "8201042004",
+    "district_id": "820104",
+    "name": "TODAHE"
+  },
+  {
+    "id": "8201042005",
+    "district_id": "820104",
+    "name": "PEOT"
+  },
+  {
+    "id": "8201042006",
+    "district_id": "820104",
+    "name": "SASUR"
+  },
+  {
+    "id": "8201042007",
+    "district_id": "820104",
+    "name": "GORO GORO"
+  },
+  {
+    "id": "8201042008",
+    "district_id": "820104",
+    "name": "TACIM"
+  },
+  {
+    "id": "8201042009",
+    "district_id": "820104",
+    "name": "BALISOANG"
+  },
+  {
+    "id": "8201042010",
+    "district_id": "820104",
+    "name": "WORAT-WORAT"
+  },
+  {
+    "id": "8201042011",
+    "district_id": "820104",
+    "name": "TACICI"
+  },
+  {
+    "id": "8201042012",
+    "district_id": "820104",
+    "name": "TARAUDU"
+  },
+  {
+    "id": "8201042013",
+    "district_id": "820104",
+    "name": "GOLO"
+  },
+  {
+    "id": "8201042028",
+    "district_id": "820104",
+    "name": "LAKO AKEDERI"
+  },
+  {
+    "id": "8201042029",
+    "district_id": "820104",
+    "name": "JARA KORE"
+  },
+  {
+    "id": "8201042030",
+    "district_id": "820104",
+    "name": "ROPU TENGAH BALU"
+  },
+  {
+    "id": "8201042033",
+    "district_id": "820104",
+    "name": "DERE"
+  },
+  {
+    "id": "8201042034",
+    "district_id": "820104",
+    "name": "BALISOAN UTARA"
+  },
+  {
+    "id": "8201042035",
+    "district_id": "820104",
+    "name": "SASUR PANTAI"
+  }
+]

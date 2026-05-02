@@ -1,1 +1,57 @@
-[{"id": "1604202001", "district_id": "160420", "name": "SUKAJADI"}, {"id": "1604202002", "district_id": "160420", "name": "TANJUNG AGUNG"}, {"id": "1604202003", "district_id": "160420", "name": "PENANDINGAN"}, {"id": "1604202004", "district_id": "160420", "name": "TALANG TINGGI"}, {"id": "1604202005", "district_id": "160420", "name": "BATU NIDING"}, {"id": "1604202006", "district_id": "160420", "name": "TANJUNG RAYA"}, {"id": "1604202007", "district_id": "160420", "name": "LUBUK MABAR"}, {"id": "1604202008", "district_id": "160420", "name": "PAGAR AGUNG"}, {"id": "1604202009", "district_id": "160420", "name": "LUBUK TUBA"}, {"id": "1604202010", "district_id": "160420", "name": "LUBUK ATUNG"}, {"id": "1604202011", "district_id": "160420", "name": "MUARA CAWANG"}]
+[
+  {
+    "id": "1604202001",
+    "district_id": "160420",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "1604202002",
+    "district_id": "160420",
+    "name": "TANJUNG AGUNG"
+  },
+  {
+    "id": "1604202003",
+    "district_id": "160420",
+    "name": "PENANDINGAN"
+  },
+  {
+    "id": "1604202004",
+    "district_id": "160420",
+    "name": "TALANG TINGGI"
+  },
+  {
+    "id": "1604202005",
+    "district_id": "160420",
+    "name": "BATU NIDING"
+  },
+  {
+    "id": "1604202006",
+    "district_id": "160420",
+    "name": "TANJUNG RAYA"
+  },
+  {
+    "id": "1604202007",
+    "district_id": "160420",
+    "name": "LUBUK MABAR"
+  },
+  {
+    "id": "1604202008",
+    "district_id": "160420",
+    "name": "PAGAR AGUNG"
+  },
+  {
+    "id": "1604202009",
+    "district_id": "160420",
+    "name": "LUBUK TUBA"
+  },
+  {
+    "id": "1604202010",
+    "district_id": "160420",
+    "name": "LUBUK ATUNG"
+  },
+  {
+    "id": "1604202011",
+    "district_id": "160420",
+    "name": "MUARA CAWANG"
+  }
+]

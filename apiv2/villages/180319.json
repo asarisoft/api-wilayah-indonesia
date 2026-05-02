@@ -1,1 +1,47 @@
-[{"id": "1803192001", "district_id": "180319", "name": "NYAPAH BANYU"}, {"id": "1803192002", "district_id": "180319", "name": "SINAR GUNUNG"}, {"id": "1803192003", "district_id": "180319", "name": "CAMPANG GIJUL"}, {"id": "1803192004", "district_id": "180319", "name": "SUMBER TANI"}, {"id": "1803192005", "district_id": "180319", "name": "PEKURUN"}, {"id": "1803192006", "district_id": "180319", "name": "OGAN CAMPANG"}, {"id": "1803192007", "district_id": "180319", "name": "PEKURUN TENGAH"}, {"id": "1803192008", "district_id": "180319", "name": "PEKURUN UDIK"}, {"id": "1803192009", "district_id": "180319", "name": "OGAN JAYA"}]
+[
+  {
+    "id": "1803192001",
+    "district_id": "180319",
+    "name": "NYAPAH BANYU"
+  },
+  {
+    "id": "1803192002",
+    "district_id": "180319",
+    "name": "SINAR GUNUNG"
+  },
+  {
+    "id": "1803192003",
+    "district_id": "180319",
+    "name": "CAMPANG GIJUL"
+  },
+  {
+    "id": "1803192004",
+    "district_id": "180319",
+    "name": "SUMBER TANI"
+  },
+  {
+    "id": "1803192005",
+    "district_id": "180319",
+    "name": "PEKURUN"
+  },
+  {
+    "id": "1803192006",
+    "district_id": "180319",
+    "name": "OGAN CAMPANG"
+  },
+  {
+    "id": "1803192007",
+    "district_id": "180319",
+    "name": "PEKURUN TENGAH"
+  },
+  {
+    "id": "1803192008",
+    "district_id": "180319",
+    "name": "PEKURUN UDIK"
+  },
+  {
+    "id": "1803192009",
+    "district_id": "180319",
+    "name": "OGAN JAYA"
+  }
+]

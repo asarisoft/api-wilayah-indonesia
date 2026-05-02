@@ -1,1 +1,47 @@
-[{"id": "3602282001", "district_id": "360228", "name": "PEUCANGPARI"}, {"id": "3602282002", "district_id": "360228", "name": "CIBUNGUR"}, {"id": "3602282003", "district_id": "360228", "name": "MUGIJAYA"}, {"id": "3602282004", "district_id": "360228", "name": "CIKATE"}, {"id": "3602282005", "district_id": "360228", "name": "CIGEMBLONG"}, {"id": "3602282006", "district_id": "360228", "name": "CIKADONGDONG"}, {"id": "3602282007", "district_id": "360228", "name": "CIKARET"}, {"id": "3602282008", "district_id": "360228", "name": "WANGUNJAYA"}, {"id": "3602282009", "district_id": "360228", "name": "CIKARATUAN"}]
+[
+  {
+    "id": "3602282001",
+    "district_id": "360228",
+    "name": "PEUCANGPARI"
+  },
+  {
+    "id": "3602282002",
+    "district_id": "360228",
+    "name": "CIBUNGUR"
+  },
+  {
+    "id": "3602282003",
+    "district_id": "360228",
+    "name": "MUGIJAYA"
+  },
+  {
+    "id": "3602282004",
+    "district_id": "360228",
+    "name": "CIKATE"
+  },
+  {
+    "id": "3602282005",
+    "district_id": "360228",
+    "name": "CIGEMBLONG"
+  },
+  {
+    "id": "3602282006",
+    "district_id": "360228",
+    "name": "CIKADONGDONG"
+  },
+  {
+    "id": "3602282007",
+    "district_id": "360228",
+    "name": "CIKARET"
+  },
+  {
+    "id": "3602282008",
+    "district_id": "360228",
+    "name": "WANGUNJAYA"
+  },
+  {
+    "id": "3602282009",
+    "district_id": "360228",
+    "name": "CIKARATUAN"
+  }
+]

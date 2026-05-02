@@ -1,1 +1,62 @@
-[{"id": "1408072001", "district_id": "140807", "name": "KERINCI KANAN"}, {"id": "1408072002", "district_id": "140807", "name": "KERINCI KIRI"}, {"id": "1408072003", "district_id": "140807", "name": "BUANA BAKTI"}, {"id": "1408072004", "district_id": "140807", "name": "BUKIT HARAPAN"}, {"id": "1408072005", "district_id": "140807", "name": "KUMBARA UTAMA"}, {"id": "1408072006", "district_id": "140807", "name": "BUKIT AGUNG"}, {"id": "1408072008", "district_id": "140807", "name": "SIMPANG PERAK JAYA"}, {"id": "1408072009", "district_id": "140807", "name": "BUATAN BARU"}, {"id": "1408072010", "district_id": "140807", "name": "GABUNG MAKMUR"}, {"id": "1408072011", "district_id": "140807", "name": "JATI MULYA"}, {"id": "1408072012", "district_id": "140807", "name": "SEMINAI"}, {"id": "1408072013", "district_id": "140807", "name": "DELIMA JAYA"}]
+[
+  {
+    "id": "1408072001",
+    "district_id": "140807",
+    "name": "KERINCI KANAN"
+  },
+  {
+    "id": "1408072002",
+    "district_id": "140807",
+    "name": "KERINCI KIRI"
+  },
+  {
+    "id": "1408072003",
+    "district_id": "140807",
+    "name": "BUANA BAKTI"
+  },
+  {
+    "id": "1408072004",
+    "district_id": "140807",
+    "name": "BUKIT HARAPAN"
+  },
+  {
+    "id": "1408072005",
+    "district_id": "140807",
+    "name": "KUMBARA UTAMA"
+  },
+  {
+    "id": "1408072006",
+    "district_id": "140807",
+    "name": "BUKIT AGUNG"
+  },
+  {
+    "id": "1408072008",
+    "district_id": "140807",
+    "name": "SIMPANG PERAK JAYA"
+  },
+  {
+    "id": "1408072009",
+    "district_id": "140807",
+    "name": "BUATAN BARU"
+  },
+  {
+    "id": "1408072010",
+    "district_id": "140807",
+    "name": "GABUNG MAKMUR"
+  },
+  {
+    "id": "1408072011",
+    "district_id": "140807",
+    "name": "JATI MULYA"
+  },
+  {
+    "id": "1408072012",
+    "district_id": "140807",
+    "name": "SEMINAI"
+  },
+  {
+    "id": "1408072013",
+    "district_id": "140807",
+    "name": "DELIMA JAYA"
+  }
+]

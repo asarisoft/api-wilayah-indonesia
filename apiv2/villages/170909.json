@@ -1,1 +1,62 @@
-[{"id": "1709092001", "district_id": "170909", "name": "PONDOK KUBANG"}, {"id": "1709092002", "district_id": "170909", "name": "BATU RAJA"}, {"id": "1709092003", "district_id": "170909", "name": "DUSUN ANYAR"}, {"id": "1709092004", "district_id": "170909", "name": "TANJUNG DALAM"}, {"id": "1709092005", "district_id": "170909", "name": "TALANG TENGAH I"}, {"id": "1709092006", "district_id": "170909", "name": "PAKU HAJI"}, {"id": "1709092007", "district_id": "170909", "name": "TANJUNG TERDANA"}, {"id": "1709092008", "district_id": "170909", "name": "LINGGAR GALING"}, {"id": "1709092009", "district_id": "170909", "name": "DUSUN BARU I"}, {"id": "1709092010", "district_id": "170909", "name": "HARAPAN MAKMUR"}, {"id": "1709092011", "district_id": "170909", "name": "MARGO MULYO"}, {"id": "1709092012", "district_id": "170909", "name": "TABA JAMBU"}]
+[
+  {
+    "id": "1709092001",
+    "district_id": "170909",
+    "name": "PONDOK KUBANG"
+  },
+  {
+    "id": "1709092002",
+    "district_id": "170909",
+    "name": "BATU RAJA"
+  },
+  {
+    "id": "1709092003",
+    "district_id": "170909",
+    "name": "DUSUN ANYAR"
+  },
+  {
+    "id": "1709092004",
+    "district_id": "170909",
+    "name": "TANJUNG DALAM"
+  },
+  {
+    "id": "1709092005",
+    "district_id": "170909",
+    "name": "TALANG TENGAH I"
+  },
+  {
+    "id": "1709092006",
+    "district_id": "170909",
+    "name": "PAKU HAJI"
+  },
+  {
+    "id": "1709092007",
+    "district_id": "170909",
+    "name": "TANJUNG TERDANA"
+  },
+  {
+    "id": "1709092008",
+    "district_id": "170909",
+    "name": "LINGGAR GALING"
+  },
+  {
+    "id": "1709092009",
+    "district_id": "170909",
+    "name": "DUSUN BARU I"
+  },
+  {
+    "id": "1709092010",
+    "district_id": "170909",
+    "name": "HARAPAN MAKMUR"
+  },
+  {
+    "id": "1709092011",
+    "district_id": "170909",
+    "name": "MARGO MULYO"
+  },
+  {
+    "id": "1709092012",
+    "district_id": "170909",
+    "name": "TABA JAMBU"
+  }
+]

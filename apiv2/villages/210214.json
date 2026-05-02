@@ -1,1 +1,37 @@
-[{"id": "2102142001", "district_id": "210214", "name": "SUGIE"}, {"id": "2102142002", "district_id": "210214", "name": "NIUR PERMAI"}, {"id": "2102142003", "district_id": "210214", "name": "KEBAN"}, {"id": "2102142004", "district_id": "210214", "name": "RAWA JAYA"}, {"id": "2102142005", "district_id": "210214", "name": "TANJUNG PELANDUK"}, {"id": "2102142006", "district_id": "210214", "name": "BULUH PATAH"}, {"id": "2102142007", "district_id": "210214", "name": "SELAT MIE"}]
+[
+  {
+    "id": "2102142001",
+    "district_id": "210214",
+    "name": "SUGIE"
+  },
+  {
+    "id": "2102142002",
+    "district_id": "210214",
+    "name": "NIUR PERMAI"
+  },
+  {
+    "id": "2102142003",
+    "district_id": "210214",
+    "name": "KEBAN"
+  },
+  {
+    "id": "2102142004",
+    "district_id": "210214",
+    "name": "RAWA JAYA"
+  },
+  {
+    "id": "2102142005",
+    "district_id": "210214",
+    "name": "TANJUNG PELANDUK"
+  },
+  {
+    "id": "2102142006",
+    "district_id": "210214",
+    "name": "BULUH PATAH"
+  },
+  {
+    "id": "2102142007",
+    "district_id": "210214",
+    "name": "SELAT MIE"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "1117082001", "district_id": "111708", "name": "BANDAR JAYA"}, {"id": "1117082002", "district_id": "111708", "name": "JONGOK MELUEM"}, {"id": "1117082003", "district_id": "111708", "name": "SUKU BENER"}, {"id": "1117082004", "district_id": "111708", "name": "BENER LUKUP II"}, {"id": "1117082005", "district_id": "111708", "name": "GUNUNG MUSARA"}, {"id": "1117082006", "district_id": "111708", "name": "BENER KELIPAH SELATAN"}, {"id": "1117082007", "district_id": "111708", "name": "BINTANG MUSARA"}, {"id": "1117082008", "district_id": "111708", "name": "KALA TENANG"}, {"id": "1117082009", "district_id": "111708", "name": "BENER KELIPAH UTARA"}, {"id": "1117082010", "district_id": "111708", "name": "LOT BENER KELIPAH"}, {"id": "1117082011", "district_id": "111708", "name": "NOSAR TAWAR JAYA"}, {"id": "1117082012", "district_id": "111708", "name": "NOSAR BARU"}]
+[
+  {
+    "id": "1117082001",
+    "district_id": "111708",
+    "name": "BANDAR JAYA"
+  },
+  {
+    "id": "1117082002",
+    "district_id": "111708",
+    "name": "JONGOK MELUEM"
+  },
+  {
+    "id": "1117082003",
+    "district_id": "111708",
+    "name": "SUKU BENER"
+  },
+  {
+    "id": "1117082004",
+    "district_id": "111708",
+    "name": "BENER LUKUP II"
+  },
+  {
+    "id": "1117082005",
+    "district_id": "111708",
+    "name": "GUNUNG MUSARA"
+  },
+  {
+    "id": "1117082006",
+    "district_id": "111708",
+    "name": "BENER KELIPAH SELATAN"
+  },
+  {
+    "id": "1117082007",
+    "district_id": "111708",
+    "name": "BINTANG MUSARA"
+  },
+  {
+    "id": "1117082008",
+    "district_id": "111708",
+    "name": "KALA TENANG"
+  },
+  {
+    "id": "1117082009",
+    "district_id": "111708",
+    "name": "BENER KELIPAH UTARA"
+  },
+  {
+    "id": "1117082010",
+    "district_id": "111708",
+    "name": "LOT BENER KELIPAH"
+  },
+  {
+    "id": "1117082011",
+    "district_id": "111708",
+    "name": "NOSAR TAWAR JAYA"
+  },
+  {
+    "id": "1117082012",
+    "district_id": "111708",
+    "name": "NOSAR BARU"
+  }
+]

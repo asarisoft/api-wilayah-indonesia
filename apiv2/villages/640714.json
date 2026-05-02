@@ -1,1 +1,47 @@
-[{"id": "6407142001", "district_id": "640714", "name": "RANDA EMPAS"}, {"id": "6407142002", "district_id": "640714", "name": "TUKUQ"}, {"id": "6407142003", "district_id": "640714", "name": "TENDE"}, {"id": "6407142004", "district_id": "640714", "name": "SAMBUNG"}, {"id": "6407142005", "district_id": "640714", "name": "ANAN JAYA"}, {"id": "6407142006", "district_id": "640714", "name": "JELMU SIBAK"}, {"id": "6407142007", "district_id": "640714", "name": "SUAKONG"}, {"id": "6407142008", "district_id": "640714", "name": "PENARUNG"}, {"id": "6407142009", "district_id": "640714", "name": "DILANG PUTI"}]
+[
+  {
+    "id": "6407142001",
+    "district_id": "640714",
+    "name": "RANDA EMPAS"
+  },
+  {
+    "id": "6407142002",
+    "district_id": "640714",
+    "name": "TUKUQ"
+  },
+  {
+    "id": "6407142003",
+    "district_id": "640714",
+    "name": "TENDE"
+  },
+  {
+    "id": "6407142004",
+    "district_id": "640714",
+    "name": "SAMBUNG"
+  },
+  {
+    "id": "6407142005",
+    "district_id": "640714",
+    "name": "ANAN JAYA"
+  },
+  {
+    "id": "6407142006",
+    "district_id": "640714",
+    "name": "JELMU SIBAK"
+  },
+  {
+    "id": "6407142007",
+    "district_id": "640714",
+    "name": "SUAKONG"
+  },
+  {
+    "id": "6407142008",
+    "district_id": "640714",
+    "name": "PENARUNG"
+  },
+  {
+    "id": "6407142009",
+    "district_id": "640714",
+    "name": "DILANG PUTI"
+  }
+]

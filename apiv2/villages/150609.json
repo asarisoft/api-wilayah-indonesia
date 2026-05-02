@@ -1,1 +1,52 @@
-[{"id": "1506091001", "district_id": "150609", "name": "RANTAU BADAK"}, {"id": "1506092002", "district_id": "150609", "name": "DUSUN MUDO"}, {"id": "1506092003", "district_id": "150609", "name": "INTAN JAYA"}, {"id": "1506092004", "district_id": "150609", "name": "BUKIT INDAH"}, {"id": "1506092005", "district_id": "150609", "name": "KEMANG MANIS"}, {"id": "1506092006", "district_id": "150609", "name": "RANTAU BADAK LAMO"}, {"id": "1506092007", "district_id": "150609", "name": "LUBUK SEBONTAN"}, {"id": "1506092008", "district_id": "150609", "name": "SUNGAI PAPAUH"}, {"id": "1506092009", "district_id": "150609", "name": "SUNGAI MULUK"}, {"id": "1506092010", "district_id": "150609", "name": "PEMATANG BALAM"}]
+[
+  {
+    "id": "1506091001",
+    "district_id": "150609",
+    "name": "RANTAU BADAK"
+  },
+  {
+    "id": "1506092002",
+    "district_id": "150609",
+    "name": "DUSUN MUDO"
+  },
+  {
+    "id": "1506092003",
+    "district_id": "150609",
+    "name": "INTAN JAYA"
+  },
+  {
+    "id": "1506092004",
+    "district_id": "150609",
+    "name": "BUKIT INDAH"
+  },
+  {
+    "id": "1506092005",
+    "district_id": "150609",
+    "name": "KEMANG MANIS"
+  },
+  {
+    "id": "1506092006",
+    "district_id": "150609",
+    "name": "RANTAU BADAK LAMO"
+  },
+  {
+    "id": "1506092007",
+    "district_id": "150609",
+    "name": "LUBUK SEBONTAN"
+  },
+  {
+    "id": "1506092008",
+    "district_id": "150609",
+    "name": "SUNGAI PAPAUH"
+  },
+  {
+    "id": "1506092009",
+    "district_id": "150609",
+    "name": "SUNGAI MULUK"
+  },
+  {
+    "id": "1506092010",
+    "district_id": "150609",
+    "name": "PEMATANG BALAM"
+  }
+]

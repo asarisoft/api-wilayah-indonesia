@@ -1,1 +1,42 @@
-[{"id": "9502032001", "district_id": "950203", "name": "OKBIFISIL"}, {"id": "9502032002", "district_id": "950203", "name": "ABMISIBIL"}, {"id": "9502032003", "district_id": "950203", "name": "MANUNGGAL"}, {"id": "9502032004", "district_id": "950203", "name": "IRIDING"}, {"id": "9502032005", "district_id": "950203", "name": "ATOLBOL"}, {"id": "9502032006", "district_id": "950203", "name": "OKTANGLAP"}, {"id": "9502032007", "district_id": "950203", "name": "OKSEMAR"}, {"id": "9502032008", "district_id": "950203", "name": "OKAPLO"}]
+[
+  {
+    "id": "9502032001",
+    "district_id": "950203",
+    "name": "OKBIFISIL"
+  },
+  {
+    "id": "9502032002",
+    "district_id": "950203",
+    "name": "ABMISIBIL"
+  },
+  {
+    "id": "9502032003",
+    "district_id": "950203",
+    "name": "MANUNGGAL"
+  },
+  {
+    "id": "9502032004",
+    "district_id": "950203",
+    "name": "IRIDING"
+  },
+  {
+    "id": "9502032005",
+    "district_id": "950203",
+    "name": "ATOLBOL"
+  },
+  {
+    "id": "9502032006",
+    "district_id": "950203",
+    "name": "OKTANGLAP"
+  },
+  {
+    "id": "9502032007",
+    "district_id": "950203",
+    "name": "OKSEMAR"
+  },
+  {
+    "id": "9502032008",
+    "district_id": "950203",
+    "name": "OKAPLO"
+  }
+]

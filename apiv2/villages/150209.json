@@ -1,1 +1,77 @@
-[{"id": "1502092001", "district_id": "150209", "name": "NILO DINGIN"}, {"id": "1502092002", "district_id": "150209", "name": "TANJUNG BERUGO"}, {"id": "1502092003", "district_id": "150209", "name": "TUO"}, {"id": "1502092004", "district_id": "150209", "name": "KOTO RAMI"}, {"id": "1502092005", "district_id": "150209", "name": "RANCAN"}, {"id": "1502092006", "district_id": "150209", "name": "PASAR MASURAI"}, {"id": "1502092007", "district_id": "150209", "name": "RANTAU JERING"}, {"id": "1502092008", "district_id": "150209", "name": "TANJUNG DALAM"}, {"id": "1502092009", "district_id": "150209", "name": "MUARO PANGI"}, {"id": "1502092010", "district_id": "150209", "name": "SUNGAI LALANG"}, {"id": "1502092011", "district_id": "150209", "name": "TALANG ASAL"}, {"id": "1502092012", "district_id": "150209", "name": "MUARA KELUKUP"}, {"id": "1502092013", "district_id": "150209", "name": "MUARA LENGAYO"}, {"id": "1502092014", "district_id": "150209", "name": "TALANG PARUH"}, {"id": "1502092015", "district_id": "150209", "name": "DURIAN MUKUT"}]
+[
+  {
+    "id": "1502092001",
+    "district_id": "150209",
+    "name": "NILO DINGIN"
+  },
+  {
+    "id": "1502092002",
+    "district_id": "150209",
+    "name": "TANJUNG BERUGO"
+  },
+  {
+    "id": "1502092003",
+    "district_id": "150209",
+    "name": "TUO"
+  },
+  {
+    "id": "1502092004",
+    "district_id": "150209",
+    "name": "KOTO RAMI"
+  },
+  {
+    "id": "1502092005",
+    "district_id": "150209",
+    "name": "RANCAN"
+  },
+  {
+    "id": "1502092006",
+    "district_id": "150209",
+    "name": "PASAR MASURAI"
+  },
+  {
+    "id": "1502092007",
+    "district_id": "150209",
+    "name": "RANTAU JERING"
+  },
+  {
+    "id": "1502092008",
+    "district_id": "150209",
+    "name": "TANJUNG DALAM"
+  },
+  {
+    "id": "1502092009",
+    "district_id": "150209",
+    "name": "MUARO PANGI"
+  },
+  {
+    "id": "1502092010",
+    "district_id": "150209",
+    "name": "SUNGAI LALANG"
+  },
+  {
+    "id": "1502092011",
+    "district_id": "150209",
+    "name": "TALANG ASAL"
+  },
+  {
+    "id": "1502092012",
+    "district_id": "150209",
+    "name": "MUARA KELUKUP"
+  },
+  {
+    "id": "1502092013",
+    "district_id": "150209",
+    "name": "MUARA LENGAYO"
+  },
+  {
+    "id": "1502092014",
+    "district_id": "150209",
+    "name": "TALANG PARUH"
+  },
+  {
+    "id": "1502092015",
+    "district_id": "150209",
+    "name": "DURIAN MUKUT"
+  }
+]

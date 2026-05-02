@@ -1,1 +1,52 @@
-[{"id": "1371031001", "district_id": "137103", "name": "FLAMBOYAN BARU"}, {"id": "1371031002", "district_id": "137103", "name": "RIMBO KALUANG"}, {"id": "1371031003", "district_id": "137103", "name": "UJUNG GURUN"}, {"id": "1371031004", "district_id": "137103", "name": "PURUS"}, {"id": "1371031005", "district_id": "137103", "name": "PADANG PASIR"}, {"id": "1371031006", "district_id": "137103", "name": "OLO"}, {"id": "1371031007", "district_id": "137103", "name": "KAMPUNG JAWA"}, {"id": "1371031008", "district_id": "137103", "name": "BELAKANG TANGSI"}, {"id": "1371031009", "district_id": "137103", "name": "KAMPUNG PONDOK"}, {"id": "1371031010", "district_id": "137103", "name": "BEROK NIPAH"}]
+[
+  {
+    "id": "1371031001",
+    "district_id": "137103",
+    "name": "FLAMBOYAN BARU"
+  },
+  {
+    "id": "1371031002",
+    "district_id": "137103",
+    "name": "RIMBO KALUANG"
+  },
+  {
+    "id": "1371031003",
+    "district_id": "137103",
+    "name": "UJUNG GURUN"
+  },
+  {
+    "id": "1371031004",
+    "district_id": "137103",
+    "name": "PURUS"
+  },
+  {
+    "id": "1371031005",
+    "district_id": "137103",
+    "name": "PADANG PASIR"
+  },
+  {
+    "id": "1371031006",
+    "district_id": "137103",
+    "name": "OLO"
+  },
+  {
+    "id": "1371031007",
+    "district_id": "137103",
+    "name": "KAMPUNG JAWA"
+  },
+  {
+    "id": "1371031008",
+    "district_id": "137103",
+    "name": "BELAKANG TANGSI"
+  },
+  {
+    "id": "1371031009",
+    "district_id": "137103",
+    "name": "KAMPUNG PONDOK"
+  },
+  {
+    "id": "1371031010",
+    "district_id": "137103",
+    "name": "BEROK NIPAH"
+  }
+]

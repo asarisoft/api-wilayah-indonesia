@@ -1,1 +1,77 @@
-[{"id": "7308152001", "district_id": "730815", "name": "CINENUNG"}, {"id": "7308152002", "district_id": "730815", "name": "SIAME"}, {"id": "7308152003", "district_id": "730815", "name": "PASEMPE"}, {"id": "7308152004", "district_id": "730815", "name": "URENG"}, {"id": "7308152005", "district_id": "730815", "name": "USA"}, {"id": "7308152006", "district_id": "730815", "name": "MICO"}, {"id": "7308152007", "district_id": "730815", "name": "BAINANG"}, {"id": "7308152008", "district_id": "730815", "name": "PASSIPPO"}, {"id": "7308152009", "district_id": "730815", "name": "TANAH TENGNGA"}, {"id": "7308152010", "district_id": "730815", "name": "TIRONG"}, {"id": "7308152011", "district_id": "730815", "name": "MATTANETE BUA"}, {"id": "7308152012", "district_id": "730815", "name": "MADURI"}, {"id": "7308152013", "district_id": "730815", "name": "MELLE"}, {"id": "7308152014", "district_id": "730815", "name": "LEMOAPE"}, {"id": "7308152015", "district_id": "730815", "name": "PANYILI"}]
+[
+  {
+    "id": "7308152001",
+    "district_id": "730815",
+    "name": "CINENUNG"
+  },
+  {
+    "id": "7308152002",
+    "district_id": "730815",
+    "name": "SIAME"
+  },
+  {
+    "id": "7308152003",
+    "district_id": "730815",
+    "name": "PASEMPE"
+  },
+  {
+    "id": "7308152004",
+    "district_id": "730815",
+    "name": "URENG"
+  },
+  {
+    "id": "7308152005",
+    "district_id": "730815",
+    "name": "USA"
+  },
+  {
+    "id": "7308152006",
+    "district_id": "730815",
+    "name": "MICO"
+  },
+  {
+    "id": "7308152007",
+    "district_id": "730815",
+    "name": "BAINANG"
+  },
+  {
+    "id": "7308152008",
+    "district_id": "730815",
+    "name": "PASSIPPO"
+  },
+  {
+    "id": "7308152009",
+    "district_id": "730815",
+    "name": "TANAH TENGNGA"
+  },
+  {
+    "id": "7308152010",
+    "district_id": "730815",
+    "name": "TIRONG"
+  },
+  {
+    "id": "7308152011",
+    "district_id": "730815",
+    "name": "MATTANETE BUA"
+  },
+  {
+    "id": "7308152012",
+    "district_id": "730815",
+    "name": "MADURI"
+  },
+  {
+    "id": "7308152013",
+    "district_id": "730815",
+    "name": "MELLE"
+  },
+  {
+    "id": "7308152014",
+    "district_id": "730815",
+    "name": "LEMOAPE"
+  },
+  {
+    "id": "7308152015",
+    "district_id": "730815",
+    "name": "PANYILI"
+  }
+]

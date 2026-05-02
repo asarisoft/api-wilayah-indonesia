@@ -1,1 +1,27 @@
-[{"id": "5314092001", "district_id": "531409", "name": "MBALI LENDEIKI"}, {"id": "5314092002", "district_id": "531409", "name": "ANARAE"}, {"id": "5314092003", "district_id": "531409", "name": "MBIU LOMBO"}, {"id": "5314092004", "district_id": "531409", "name": "NUSE"}, {"id": "5314092005", "district_id": "531409", "name": "NDAONUSE"}]
+[
+  {
+    "id": "5314092001",
+    "district_id": "531409",
+    "name": "MBALI LENDEIKI"
+  },
+  {
+    "id": "5314092002",
+    "district_id": "531409",
+    "name": "ANARAE"
+  },
+  {
+    "id": "5314092003",
+    "district_id": "531409",
+    "name": "MBIU LOMBO"
+  },
+  {
+    "id": "5314092004",
+    "district_id": "531409",
+    "name": "NUSE"
+  },
+  {
+    "id": "5314092005",
+    "district_id": "531409",
+    "name": "NDAONUSE"
+  }
+]

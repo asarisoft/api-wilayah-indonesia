@@ -1,1 +1,67 @@
-[{"id": "7318201001", "district_id": "731820", "name": "TALION"}, {"id": "7318201013", "district_id": "731820", "name": "REMBON"}, {"id": "7318202002", "district_id": "731820", "name": "PALESAN"}, {"id": "7318202003", "district_id": "731820", "name": "BANGA"}, {"id": "7318202004", "district_id": "731820", "name": "ULLIN"}, {"id": "7318202005", "district_id": "731820", "name": "LIMBONG"}, {"id": "7318202006", "district_id": "731820", "name": "SARAPEANG"}, {"id": "7318202007", "district_id": "731820", "name": "BURI'"}, {"id": "7318202008", "district_id": "731820", "name": "MAROSON"}, {"id": "7318202009", "district_id": "731820", "name": "BATUSURA'"}, {"id": "7318202010", "district_id": "731820", "name": "BUA' TARRUNG"}, {"id": "7318202011", "district_id": "731820", "name": "TO'PAO"}, {"id": "7318202012", "district_id": "731820", "name": "KAYUOSING"}]
+[
+  {
+    "id": "7318201001",
+    "district_id": "731820",
+    "name": "TALION"
+  },
+  {
+    "id": "7318201013",
+    "district_id": "731820",
+    "name": "REMBON"
+  },
+  {
+    "id": "7318202002",
+    "district_id": "731820",
+    "name": "PALESAN"
+  },
+  {
+    "id": "7318202003",
+    "district_id": "731820",
+    "name": "BANGA"
+  },
+  {
+    "id": "7318202004",
+    "district_id": "731820",
+    "name": "ULLIN"
+  },
+  {
+    "id": "7318202005",
+    "district_id": "731820",
+    "name": "LIMBONG"
+  },
+  {
+    "id": "7318202006",
+    "district_id": "731820",
+    "name": "SARAPEANG"
+  },
+  {
+    "id": "7318202007",
+    "district_id": "731820",
+    "name": "BURI'"
+  },
+  {
+    "id": "7318202008",
+    "district_id": "731820",
+    "name": "MAROSON"
+  },
+  {
+    "id": "7318202009",
+    "district_id": "731820",
+    "name": "BATUSURA'"
+  },
+  {
+    "id": "7318202010",
+    "district_id": "731820",
+    "name": "BUA' TARRUNG"
+  },
+  {
+    "id": "7318202011",
+    "district_id": "731820",
+    "name": "TO'PAO"
+  },
+  {
+    "id": "7318202012",
+    "district_id": "731820",
+    "name": "KAYUOSING"
+  }
+]

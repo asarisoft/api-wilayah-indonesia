@@ -1,1 +1,37 @@
-[{"id": "3202272001", "district_id": "320227", "name": "CIKUJANG"}, {"id": "3202272002", "district_id": "320227", "name": "GUNUNGGURUH"}, {"id": "3202272003", "district_id": "320227", "name": "CIBENTANG"}, {"id": "3202272004", "district_id": "320227", "name": "SIRNARESMI"}, {"id": "3202272005", "district_id": "320227", "name": "KEBONMANGGU"}, {"id": "3202272006", "district_id": "320227", "name": "CIBOLANG"}, {"id": "3202272007", "district_id": "320227", "name": "MANGKALAYA"}]
+[
+  {
+    "id": "3202272001",
+    "district_id": "320227",
+    "name": "CIKUJANG"
+  },
+  {
+    "id": "3202272002",
+    "district_id": "320227",
+    "name": "GUNUNGGURUH"
+  },
+  {
+    "id": "3202272003",
+    "district_id": "320227",
+    "name": "CIBENTANG"
+  },
+  {
+    "id": "3202272004",
+    "district_id": "320227",
+    "name": "SIRNARESMI"
+  },
+  {
+    "id": "3202272005",
+    "district_id": "320227",
+    "name": "KEBONMANGGU"
+  },
+  {
+    "id": "3202272006",
+    "district_id": "320227",
+    "name": "CIBOLANG"
+  },
+  {
+    "id": "3202272007",
+    "district_id": "320227",
+    "name": "MANGKALAYA"
+  }
+]

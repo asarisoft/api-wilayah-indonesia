@@ -1,1 +1,42 @@
-[{"id": "9502152001", "district_id": "950215", "name": "YAPIMAKOT"}, {"id": "9502152002", "district_id": "950215", "name": "SERAMKATOP"}, {"id": "9502152003", "district_id": "950215", "name": "PARIM"}, {"id": "9502152004", "district_id": "950215", "name": "SIMINBUK"}, {"id": "9502152005", "district_id": "950215", "name": "MODUSIT"}, {"id": "9502152006", "district_id": "950215", "name": "WANBAKON"}, {"id": "9502152007", "district_id": "950215", "name": "YAKMOR"}, {"id": "9502152008", "district_id": "950215", "name": "OKATEM"}]
+[
+  {
+    "id": "9502152001",
+    "district_id": "950215",
+    "name": "YAPIMAKOT"
+  },
+  {
+    "id": "9502152002",
+    "district_id": "950215",
+    "name": "SERAMKATOP"
+  },
+  {
+    "id": "9502152003",
+    "district_id": "950215",
+    "name": "PARIM"
+  },
+  {
+    "id": "9502152004",
+    "district_id": "950215",
+    "name": "SIMINBUK"
+  },
+  {
+    "id": "9502152005",
+    "district_id": "950215",
+    "name": "MODUSIT"
+  },
+  {
+    "id": "9502152006",
+    "district_id": "950215",
+    "name": "WANBAKON"
+  },
+  {
+    "id": "9502152007",
+    "district_id": "950215",
+    "name": "YAKMOR"
+  },
+  {
+    "id": "9502152008",
+    "district_id": "950215",
+    "name": "OKATEM"
+  }
+]

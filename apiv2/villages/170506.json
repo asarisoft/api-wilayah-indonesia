@@ -1,1 +1,82 @@
-[{"id": "1705061006", "district_id": "170506", "name": "DERMAYU"}, {"id": "1705062001", "district_id": "170506", "name": "SUKAMAJU"}, {"id": "1705062002", "district_id": "170506", "name": "TALANG ALAI"}, {"id": "1705062003", "district_id": "170506", "name": "TALANG BENUANG"}, {"id": "1705062004", "district_id": "170506", "name": "PADANG PELASAN"}, {"id": "1705062005", "district_id": "170506", "name": "AIR PERIUKAN"}, {"id": "1705062007", "district_id": "170506", "name": "KEBAN AGUNG"}, {"id": "1705062008", "district_id": "170506", "name": "PASAR NGALAM"}, {"id": "1705062009", "district_id": "170506", "name": "SUKASARI"}, {"id": "1705062010", "district_id": "170506", "name": "KUNGKAI BARU"}, {"id": "1705062011", "district_id": "170506", "name": "TAWANG REJO"}, {"id": "1705062012", "district_id": "170506", "name": "LAWANG AGUNG"}, {"id": "1705062013", "district_id": "170506", "name": "TABA LUBUK PUDING"}, {"id": "1705062014", "district_id": "170506", "name": "TALANG SEBARIS"}, {"id": "1705062015", "district_id": "170506", "name": "LUBUK GILANG"}, {"id": "1705062016", "district_id": "170506", "name": "LOKASI BARU"}]
+[
+  {
+    "id": "1705061006",
+    "district_id": "170506",
+    "name": "DERMAYU"
+  },
+  {
+    "id": "1705062001",
+    "district_id": "170506",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "1705062002",
+    "district_id": "170506",
+    "name": "TALANG ALAI"
+  },
+  {
+    "id": "1705062003",
+    "district_id": "170506",
+    "name": "TALANG BENUANG"
+  },
+  {
+    "id": "1705062004",
+    "district_id": "170506",
+    "name": "PADANG PELASAN"
+  },
+  {
+    "id": "1705062005",
+    "district_id": "170506",
+    "name": "AIR PERIUKAN"
+  },
+  {
+    "id": "1705062007",
+    "district_id": "170506",
+    "name": "KEBAN AGUNG"
+  },
+  {
+    "id": "1705062008",
+    "district_id": "170506",
+    "name": "PASAR NGALAM"
+  },
+  {
+    "id": "1705062009",
+    "district_id": "170506",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "1705062010",
+    "district_id": "170506",
+    "name": "KUNGKAI BARU"
+  },
+  {
+    "id": "1705062011",
+    "district_id": "170506",
+    "name": "TAWANG REJO"
+  },
+  {
+    "id": "1705062012",
+    "district_id": "170506",
+    "name": "LAWANG AGUNG"
+  },
+  {
+    "id": "1705062013",
+    "district_id": "170506",
+    "name": "TABA LUBUK PUDING"
+  },
+  {
+    "id": "1705062014",
+    "district_id": "170506",
+    "name": "TALANG SEBARIS"
+  },
+  {
+    "id": "1705062015",
+    "district_id": "170506",
+    "name": "LUBUK GILANG"
+  },
+  {
+    "id": "1705062016",
+    "district_id": "170506",
+    "name": "LOKASI BARU"
+  }
+]

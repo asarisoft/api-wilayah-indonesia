@@ -1,1 +1,27 @@
-[{"id": "3272061001", "district_id": "327206", "name": "CIPANENGAH"}, {"id": "3272061002", "district_id": "327206", "name": "SITUMEKAR"}, {"id": "3272061003", "district_id": "327206", "name": "LEMBURSITU"}, {"id": "3272061004", "district_id": "327206", "name": "CIKUNDUL"}, {"id": "3272061005", "district_id": "327206", "name": "SINDANGSARI"}]
+[
+  {
+    "id": "3272061001",
+    "district_id": "327206",
+    "name": "CIPANENGAH"
+  },
+  {
+    "id": "3272061002",
+    "district_id": "327206",
+    "name": "SITUMEKAR"
+  },
+  {
+    "id": "3272061003",
+    "district_id": "327206",
+    "name": "LEMBURSITU"
+  },
+  {
+    "id": "3272061004",
+    "district_id": "327206",
+    "name": "CIKUNDUL"
+  },
+  {
+    "id": "3272061005",
+    "district_id": "327206",
+    "name": "SINDANGSARI"
+  }
+]

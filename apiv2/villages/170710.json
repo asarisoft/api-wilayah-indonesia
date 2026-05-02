@@ -1,1 +1,52 @@
-[{"id": "1707101009", "district_id": "170710", "name": "AMEN"}, {"id": "1707102001", "district_id": "170710", "name": "NANGAI TAYAU"}, {"id": "1707102002", "district_id": "170710", "name": "NANGAI TAYAU I"}, {"id": "1707102003", "district_id": "170710", "name": "PYANG MBIK"}, {"id": "1707102004", "district_id": "170710", "name": "SUKAU MERGO"}, {"id": "1707102005", "district_id": "170710", "name": "SUKAU RAJO"}, {"id": "1707102006", "district_id": "170710", "name": "TALANG BUNUT"}, {"id": "1707102007", "district_id": "170710", "name": "SELEBAR JAYA"}, {"id": "1707102008", "district_id": "170710", "name": "GARUT"}, {"id": "1707102010", "district_id": "170710", "name": "SUNGAI GERONG"}]
+[
+  {
+    "id": "1707101009",
+    "district_id": "170710",
+    "name": "AMEN"
+  },
+  {
+    "id": "1707102001",
+    "district_id": "170710",
+    "name": "NANGAI TAYAU"
+  },
+  {
+    "id": "1707102002",
+    "district_id": "170710",
+    "name": "NANGAI TAYAU I"
+  },
+  {
+    "id": "1707102003",
+    "district_id": "170710",
+    "name": "PYANG MBIK"
+  },
+  {
+    "id": "1707102004",
+    "district_id": "170710",
+    "name": "SUKAU MERGO"
+  },
+  {
+    "id": "1707102005",
+    "district_id": "170710",
+    "name": "SUKAU RAJO"
+  },
+  {
+    "id": "1707102006",
+    "district_id": "170710",
+    "name": "TALANG BUNUT"
+  },
+  {
+    "id": "1707102007",
+    "district_id": "170710",
+    "name": "SELEBAR JAYA"
+  },
+  {
+    "id": "1707102008",
+    "district_id": "170710",
+    "name": "GARUT"
+  },
+  {
+    "id": "1707102010",
+    "district_id": "170710",
+    "name": "SUNGAI GERONG"
+  }
+]

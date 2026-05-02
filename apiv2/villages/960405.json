@@ -1,1 +1,52 @@
-[{"id": "9604052001", "district_id": "960405", "name": "SAUSAPOR"}, {"id": "9604052002", "district_id": "960405", "name": "EMAOS"}, {"id": "9604052003", "district_id": "960405", "name": "JOKTE"}, {"id": "9604052004", "district_id": "960405", "name": "UIGWEM"}, {"id": "9604052005", "district_id": "960405", "name": "SUNGGUWAN"}, {"id": "9604052006", "district_id": "960405", "name": "SAU URAM"}, {"id": "9604052007", "district_id": "960405", "name": "NANGGOU"}, {"id": "9604052008", "district_id": "960405", "name": "BONDEK"}, {"id": "9604052009", "district_id": "960405", "name": "BONDONGGWAN"}, {"id": "9604052010", "district_id": "960405", "name": "SYURAUW"}]
+[
+  {
+    "id": "9604052001",
+    "district_id": "960405",
+    "name": "SAUSAPOR"
+  },
+  {
+    "id": "9604052002",
+    "district_id": "960405",
+    "name": "EMAOS"
+  },
+  {
+    "id": "9604052003",
+    "district_id": "960405",
+    "name": "JOKTE"
+  },
+  {
+    "id": "9604052004",
+    "district_id": "960405",
+    "name": "UIGWEM"
+  },
+  {
+    "id": "9604052005",
+    "district_id": "960405",
+    "name": "SUNGGUWAN"
+  },
+  {
+    "id": "9604052006",
+    "district_id": "960405",
+    "name": "SAU URAM"
+  },
+  {
+    "id": "9604052007",
+    "district_id": "960405",
+    "name": "NANGGOU"
+  },
+  {
+    "id": "9604052008",
+    "district_id": "960405",
+    "name": "BONDEK"
+  },
+  {
+    "id": "9604052009",
+    "district_id": "960405",
+    "name": "BONDONGGWAN"
+  },
+  {
+    "id": "9604052010",
+    "district_id": "960405",
+    "name": "SYURAUW"
+  }
+]

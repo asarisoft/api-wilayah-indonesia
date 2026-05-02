@@ -1,1 +1,52 @@
-[{"id": "1407171001", "district_id": "140717", "name": "BAGAN SINEMBAH KOTA"}, {"id": "1407172002", "district_id": "140717", "name": "BAGAN SINEMBAH"}, {"id": "1407172003", "district_id": "140717", "name": "HARAPAN MAKMUR SELATAN"}, {"id": "1407172004", "district_id": "140717", "name": "HARAPAN MAKMUR"}, {"id": "1407172005", "district_id": "140717", "name": "MAKMUR JAYA"}, {"id": "1407172006", "district_id": "140717", "name": "SALAK"}, {"id": "1407172007", "district_id": "140717", "name": "PANCA MUKTI"}, {"id": "1407172008", "district_id": "140717", "name": "BAGANSINEMBAH TIMUR"}, {"id": "1407172009", "district_id": "140717", "name": "BAGANSINEMBAH UTARA"}, {"id": "1407172010", "district_id": "140717", "name": "BAGANSINEMBAH BARAT"}]
+[
+  {
+    "id": "1407171001",
+    "district_id": "140717",
+    "name": "BAGAN SINEMBAH KOTA"
+  },
+  {
+    "id": "1407172002",
+    "district_id": "140717",
+    "name": "BAGAN SINEMBAH"
+  },
+  {
+    "id": "1407172003",
+    "district_id": "140717",
+    "name": "HARAPAN MAKMUR SELATAN"
+  },
+  {
+    "id": "1407172004",
+    "district_id": "140717",
+    "name": "HARAPAN MAKMUR"
+  },
+  {
+    "id": "1407172005",
+    "district_id": "140717",
+    "name": "MAKMUR JAYA"
+  },
+  {
+    "id": "1407172006",
+    "district_id": "140717",
+    "name": "SALAK"
+  },
+  {
+    "id": "1407172007",
+    "district_id": "140717",
+    "name": "PANCA MUKTI"
+  },
+  {
+    "id": "1407172008",
+    "district_id": "140717",
+    "name": "BAGANSINEMBAH TIMUR"
+  },
+  {
+    "id": "1407172009",
+    "district_id": "140717",
+    "name": "BAGANSINEMBAH UTARA"
+  },
+  {
+    "id": "1407172010",
+    "district_id": "140717",
+    "name": "BAGANSINEMBAH BARAT"
+  }
+]

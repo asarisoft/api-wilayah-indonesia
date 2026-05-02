@@ -1,1 +1,72 @@
-[{"id": "3504011001", "district_id": "350401", "name": "KEDUNGSOKO"}, {"id": "3504011002", "district_id": "350401", "name": "TERTEK"}, {"id": "3504011003", "district_id": "350401", "name": "KARANGWARU"}, {"id": "3504011004", "district_id": "350401", "name": "TAMANAN"}, {"id": "3504011005", "district_id": "350401", "name": "JEPUN"}, {"id": "3504011006", "district_id": "350401", "name": "BAGO"}, {"id": "3504011007", "district_id": "350401", "name": "KEPATIHAN"}, {"id": "3504011008", "district_id": "350401", "name": "KENAYAN"}, {"id": "3504011009", "district_id": "350401", "name": "KAMPUNGDALEM"}, {"id": "3504011010", "district_id": "350401", "name": "KAUMAN"}, {"id": "3504011011", "district_id": "350401", "name": "KUTOANYAR"}, {"id": "3504011012", "district_id": "350401", "name": "SEMBUNG"}, {"id": "3504011013", "district_id": "350401", "name": "PANGGUNGREJO"}, {"id": "3504011014", "district_id": "350401", "name": "BOTORAN"}]
+[
+  {
+    "id": "3504011001",
+    "district_id": "350401",
+    "name": "KEDUNGSOKO"
+  },
+  {
+    "id": "3504011002",
+    "district_id": "350401",
+    "name": "TERTEK"
+  },
+  {
+    "id": "3504011003",
+    "district_id": "350401",
+    "name": "KARANGWARU"
+  },
+  {
+    "id": "3504011004",
+    "district_id": "350401",
+    "name": "TAMANAN"
+  },
+  {
+    "id": "3504011005",
+    "district_id": "350401",
+    "name": "JEPUN"
+  },
+  {
+    "id": "3504011006",
+    "district_id": "350401",
+    "name": "BAGO"
+  },
+  {
+    "id": "3504011007",
+    "district_id": "350401",
+    "name": "KEPATIHAN"
+  },
+  {
+    "id": "3504011008",
+    "district_id": "350401",
+    "name": "KENAYAN"
+  },
+  {
+    "id": "3504011009",
+    "district_id": "350401",
+    "name": "KAMPUNGDALEM"
+  },
+  {
+    "id": "3504011010",
+    "district_id": "350401",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3504011011",
+    "district_id": "350401",
+    "name": "KUTOANYAR"
+  },
+  {
+    "id": "3504011012",
+    "district_id": "350401",
+    "name": "SEMBUNG"
+  },
+  {
+    "id": "3504011013",
+    "district_id": "350401",
+    "name": "PANGGUNGREJO"
+  },
+  {
+    "id": "3504011014",
+    "district_id": "350401",
+    "name": "BOTORAN"
+  }
+]

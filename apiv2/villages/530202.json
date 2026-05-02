@@ -1,1 +1,37 @@
-[{"id": "5302022001", "district_id": "530202", "name": "BILOTO"}, {"id": "5302022003", "district_id": "530202", "name": "KESETNANA"}, {"id": "5302022006", "district_id": "530202", "name": "TUASENE"}, {"id": "5302022008", "district_id": "530202", "name": "OINLASI"}, {"id": "5302022010", "district_id": "530202", "name": "BISENE"}, {"id": "5302022012", "district_id": "530202", "name": "NOINBILA"}, {"id": "5302022013", "district_id": "530202", "name": "BIKEKNENO"}]
+[
+  {
+    "id": "5302022001",
+    "district_id": "530202",
+    "name": "BILOTO"
+  },
+  {
+    "id": "5302022003",
+    "district_id": "530202",
+    "name": "KESETNANA"
+  },
+  {
+    "id": "5302022006",
+    "district_id": "530202",
+    "name": "TUASENE"
+  },
+  {
+    "id": "5302022008",
+    "district_id": "530202",
+    "name": "OINLASI"
+  },
+  {
+    "id": "5302022010",
+    "district_id": "530202",
+    "name": "BISENE"
+  },
+  {
+    "id": "5302022012",
+    "district_id": "530202",
+    "name": "NOINBILA"
+  },
+  {
+    "id": "5302022013",
+    "district_id": "530202",
+    "name": "BIKEKNENO"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "5310142001", "district_id": "531014", "name": "BUAR"}, {"id": "5310142002", "district_id": "531014", "name": "BENTENG TUBI"}, {"id": "5310142003", "district_id": "531014", "name": "COMPANG DARI"}, {"id": "5310142004", "district_id": "531014", "name": "DIMPONG"}, {"id": "5310142005", "district_id": "531014", "name": "BANGKA AJANG"}, {"id": "5310142006", "district_id": "531014", "name": "LIANG BUA"}, {"id": "5310142007", "district_id": "531014", "name": "TENGKU LESE"}, {"id": "5310142008", "district_id": "531014", "name": "GOLO LANGKOK"}, {"id": "5310142009", "district_id": "531014", "name": "PONG LENGOR"}, {"id": "5310142010", "district_id": "531014", "name": "MANONG"}, {"id": "5310142011", "district_id": "531014", "name": "BANGKA RUANG"}, {"id": "5310142012", "district_id": "531014", "name": "WAE MANTANG"}]
+[
+  {
+    "id": "5310142001",
+    "district_id": "531014",
+    "name": "BUAR"
+  },
+  {
+    "id": "5310142002",
+    "district_id": "531014",
+    "name": "BENTENG TUBI"
+  },
+  {
+    "id": "5310142003",
+    "district_id": "531014",
+    "name": "COMPANG DARI"
+  },
+  {
+    "id": "5310142004",
+    "district_id": "531014",
+    "name": "DIMPONG"
+  },
+  {
+    "id": "5310142005",
+    "district_id": "531014",
+    "name": "BANGKA AJANG"
+  },
+  {
+    "id": "5310142006",
+    "district_id": "531014",
+    "name": "LIANG BUA"
+  },
+  {
+    "id": "5310142007",
+    "district_id": "531014",
+    "name": "TENGKU LESE"
+  },
+  {
+    "id": "5310142008",
+    "district_id": "531014",
+    "name": "GOLO LANGKOK"
+  },
+  {
+    "id": "5310142009",
+    "district_id": "531014",
+    "name": "PONG LENGOR"
+  },
+  {
+    "id": "5310142010",
+    "district_id": "531014",
+    "name": "MANONG"
+  },
+  {
+    "id": "5310142011",
+    "district_id": "531014",
+    "name": "BANGKA RUANG"
+  },
+  {
+    "id": "5310142012",
+    "district_id": "531014",
+    "name": "WAE MANTANG"
+  }
+]

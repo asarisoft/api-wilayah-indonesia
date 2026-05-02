@@ -1,1 +1,72 @@
-[{"id": "3314012001", "district_id": "331401", "name": "KEDEN"}, {"id": "3314012002", "district_id": "331401", "name": "TROBAYAN"}, {"id": "3314012003", "district_id": "331401", "name": "KALIMACAN"}, {"id": "3314012004", "district_id": "331401", "name": "JETISKARANGPUNG"}, {"id": "3314012005", "district_id": "331401", "name": "KRIKILAN"}, {"id": "3314012006", "district_id": "331401", "name": "BUKURAN"}, {"id": "3314012007", "district_id": "331401", "name": "NGEBUNG"}, {"id": "3314012008", "district_id": "331401", "name": "TEGALOMBO"}, {"id": "3314012009", "district_id": "331401", "name": "BANARAN"}, {"id": "3314012010", "district_id": "331401", "name": "KARANGJATI"}, {"id": "3314012011", "district_id": "331401", "name": "SAREN"}, {"id": "3314012012", "district_id": "331401", "name": "SAMBIREMBE"}, {"id": "3314012013", "district_id": "331401", "name": "DONOYUDAN"}, {"id": "3314012014", "district_id": "331401", "name": "WONOREJO"}]
+[
+  {
+    "id": "3314012001",
+    "district_id": "331401",
+    "name": "KEDEN"
+  },
+  {
+    "id": "3314012002",
+    "district_id": "331401",
+    "name": "TROBAYAN"
+  },
+  {
+    "id": "3314012003",
+    "district_id": "331401",
+    "name": "KALIMACAN"
+  },
+  {
+    "id": "3314012004",
+    "district_id": "331401",
+    "name": "JETISKARANGPUNG"
+  },
+  {
+    "id": "3314012005",
+    "district_id": "331401",
+    "name": "KRIKILAN"
+  },
+  {
+    "id": "3314012006",
+    "district_id": "331401",
+    "name": "BUKURAN"
+  },
+  {
+    "id": "3314012007",
+    "district_id": "331401",
+    "name": "NGEBUNG"
+  },
+  {
+    "id": "3314012008",
+    "district_id": "331401",
+    "name": "TEGALOMBO"
+  },
+  {
+    "id": "3314012009",
+    "district_id": "331401",
+    "name": "BANARAN"
+  },
+  {
+    "id": "3314012010",
+    "district_id": "331401",
+    "name": "KARANGJATI"
+  },
+  {
+    "id": "3314012011",
+    "district_id": "331401",
+    "name": "SAREN"
+  },
+  {
+    "id": "3314012012",
+    "district_id": "331401",
+    "name": "SAMBIREMBE"
+  },
+  {
+    "id": "3314012013",
+    "district_id": "331401",
+    "name": "DONOYUDAN"
+  },
+  {
+    "id": "3314012014",
+    "district_id": "331401",
+    "name": "WONOREJO"
+  }
+]

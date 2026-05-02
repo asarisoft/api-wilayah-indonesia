@@ -1,1 +1,37 @@
-[{"id": "9508082001", "district_id": "950808", "name": "TRIBID"}, {"id": "9508082002", "district_id": "950808", "name": "GEAREK"}, {"id": "9508082003", "district_id": "950808", "name": "KIBID"}, {"id": "9508082004", "district_id": "950808", "name": "WENEWORAROSA"}, {"id": "9508082005", "district_id": "950808", "name": "GEBEM"}, {"id": "9508082006", "district_id": "950808", "name": "BOMEGI"}, {"id": "9508082007", "district_id": "950808", "name": "GILINGGA"}]
+[
+  {
+    "id": "9508082001",
+    "district_id": "950808",
+    "name": "TRIBID"
+  },
+  {
+    "id": "9508082002",
+    "district_id": "950808",
+    "name": "GEAREK"
+  },
+  {
+    "id": "9508082003",
+    "district_id": "950808",
+    "name": "KIBID"
+  },
+  {
+    "id": "9508082004",
+    "district_id": "950808",
+    "name": "WENEWORAROSA"
+  },
+  {
+    "id": "9508082005",
+    "district_id": "950808",
+    "name": "GEBEM"
+  },
+  {
+    "id": "9508082006",
+    "district_id": "950808",
+    "name": "BOMEGI"
+  },
+  {
+    "id": "9508082007",
+    "district_id": "950808",
+    "name": "GILINGGA"
+  }
+]

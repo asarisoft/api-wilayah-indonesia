@@ -1,1 +1,87 @@
-[{"id": "9402232001", "district_id": "940223", "name": "GUBUME"}, {"id": "9402232002", "district_id": "940223", "name": "MILINERI"}, {"id": "9402232003", "district_id": "940223", "name": "MELELA"}, {"id": "9402232004", "district_id": "940223", "name": "KENENDAGA"}, {"id": "9402232005", "district_id": "940223", "name": "APELOME"}, {"id": "9402232006", "district_id": "940223", "name": "KUMIGI"}, {"id": "9402232007", "district_id": "940223", "name": "NOBA-NOBA"}, {"id": "9402232008", "district_id": "940223", "name": "NOGI"}, {"id": "9402232009", "district_id": "940223", "name": "GUBUNERI"}, {"id": "9402232010", "district_id": "940223", "name": "LIGUNI"}, {"id": "9402232011", "district_id": "940223", "name": "MONDU"}, {"id": "9402232012", "district_id": "940223", "name": "JINGGI"}, {"id": "9402232013", "district_id": "940223", "name": "GINILUME"}, {"id": "9402232014", "district_id": "940223", "name": "WUNGGANI"}, {"id": "9402232015", "district_id": "940223", "name": "MENGGEGENIKIME"}, {"id": "9402232016", "district_id": "940223", "name": "TINGGIREGE"}, {"id": "9402232017", "district_id": "940223", "name": "TIMORAMO"}]
+[
+  {
+    "id": "9402232001",
+    "district_id": "940223",
+    "name": "GUBUME"
+  },
+  {
+    "id": "9402232002",
+    "district_id": "940223",
+    "name": "MILINERI"
+  },
+  {
+    "id": "9402232003",
+    "district_id": "940223",
+    "name": "MELELA"
+  },
+  {
+    "id": "9402232004",
+    "district_id": "940223",
+    "name": "KENENDAGA"
+  },
+  {
+    "id": "9402232005",
+    "district_id": "940223",
+    "name": "APELOME"
+  },
+  {
+    "id": "9402232006",
+    "district_id": "940223",
+    "name": "KUMIGI"
+  },
+  {
+    "id": "9402232007",
+    "district_id": "940223",
+    "name": "NOBA-NOBA"
+  },
+  {
+    "id": "9402232008",
+    "district_id": "940223",
+    "name": "NOGI"
+  },
+  {
+    "id": "9402232009",
+    "district_id": "940223",
+    "name": "GUBUNERI"
+  },
+  {
+    "id": "9402232010",
+    "district_id": "940223",
+    "name": "LIGUNI"
+  },
+  {
+    "id": "9402232011",
+    "district_id": "940223",
+    "name": "MONDU"
+  },
+  {
+    "id": "9402232012",
+    "district_id": "940223",
+    "name": "JINGGI"
+  },
+  {
+    "id": "9402232013",
+    "district_id": "940223",
+    "name": "GINILUME"
+  },
+  {
+    "id": "9402232014",
+    "district_id": "940223",
+    "name": "WUNGGANI"
+  },
+  {
+    "id": "9402232015",
+    "district_id": "940223",
+    "name": "MENGGEGENIKIME"
+  },
+  {
+    "id": "9402232016",
+    "district_id": "940223",
+    "name": "TINGGIREGE"
+  },
+  {
+    "id": "9402232017",
+    "district_id": "940223",
+    "name": "TIMORAMO"
+  }
+]

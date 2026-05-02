@@ -1,1 +1,137 @@
-[{"id": "1806112001", "district_id": "180611", "name": "RANTAU TIJANG"}, {"id": "1806112002", "district_id": "180611", "name": "TIUH MEMON"}, {"id": "1806112003", "district_id": "180611", "name": "BANJAR AGUNG UDIK"}, {"id": "1806112004", "district_id": "180611", "name": "TANJUNG HERAN"}, {"id": "1806112005", "district_id": "180611", "name": "SUMANDA"}, {"id": "1806112006", "district_id": "180611", "name": "CAMPANG WAY HANDAK"}, {"id": "1806112007", "district_id": "180611", "name": "TAMAN SARI"}, {"id": "1806112008", "district_id": "180611", "name": "SUKAJADI"}, {"id": "1806112009", "district_id": "180611", "name": "BINJAI WANGI"}, {"id": "1806112010", "district_id": "180611", "name": "TANJUNG KEMALA"}, {"id": "1806112011", "district_id": "180611", "name": "TANJUNG AGUNG"}, {"id": "1806112012", "district_id": "180611", "name": "BABAKAN"}, {"id": "1806112013", "district_id": "180611", "name": "NEGERI RATU"}, {"id": "1806112014", "district_id": "180611", "name": "SINAR AGUNG"}, {"id": "1806112015", "district_id": "180611", "name": "TANGKIT SERDANG"}, {"id": "1806112016", "district_id": "180611", "name": "GUNUNG KASIH"}, {"id": "1806112017", "district_id": "180611", "name": "WAY JAHA"}, {"id": "1806112018", "district_id": "180611", "name": "BANJAR AGUNG ILIR"}, {"id": "1806112019", "district_id": "180611", "name": "GADING"}, {"id": "1806112020", "district_id": "180611", "name": "WAY PRING"}, {"id": "1806112021", "district_id": "180611", "name": "PUNGKUT"}, {"id": "1806112022", "district_id": "180611", "name": "GUNUNG TIGA"}, {"id": "1806112023", "district_id": "180611", "name": "WAY MANAK"}, {"id": "1806112024", "district_id": "180611", "name": "SUKAMAJU"}, {"id": "1806112025", "district_id": "180611", "name": "SUKA MULYA"}, {"id": "1806112026", "district_id": "180611", "name": "KAYUHUBI"}, {"id": "1806112027", "district_id": "180611", "name": "TALANG LEBAR"}]
+[
+  {
+    "id": "1806112001",
+    "district_id": "180611",
+    "name": "RANTAU TIJANG"
+  },
+  {
+    "id": "1806112002",
+    "district_id": "180611",
+    "name": "TIUH MEMON"
+  },
+  {
+    "id": "1806112003",
+    "district_id": "180611",
+    "name": "BANJAR AGUNG UDIK"
+  },
+  {
+    "id": "1806112004",
+    "district_id": "180611",
+    "name": "TANJUNG HERAN"
+  },
+  {
+    "id": "1806112005",
+    "district_id": "180611",
+    "name": "SUMANDA"
+  },
+  {
+    "id": "1806112006",
+    "district_id": "180611",
+    "name": "CAMPANG WAY HANDAK"
+  },
+  {
+    "id": "1806112007",
+    "district_id": "180611",
+    "name": "TAMAN SARI"
+  },
+  {
+    "id": "1806112008",
+    "district_id": "180611",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "1806112009",
+    "district_id": "180611",
+    "name": "BINJAI WANGI"
+  },
+  {
+    "id": "1806112010",
+    "district_id": "180611",
+    "name": "TANJUNG KEMALA"
+  },
+  {
+    "id": "1806112011",
+    "district_id": "180611",
+    "name": "TANJUNG AGUNG"
+  },
+  {
+    "id": "1806112012",
+    "district_id": "180611",
+    "name": "BABAKAN"
+  },
+  {
+    "id": "1806112013",
+    "district_id": "180611",
+    "name": "NEGERI RATU"
+  },
+  {
+    "id": "1806112014",
+    "district_id": "180611",
+    "name": "SINAR AGUNG"
+  },
+  {
+    "id": "1806112015",
+    "district_id": "180611",
+    "name": "TANGKIT SERDANG"
+  },
+  {
+    "id": "1806112016",
+    "district_id": "180611",
+    "name": "GUNUNG KASIH"
+  },
+  {
+    "id": "1806112017",
+    "district_id": "180611",
+    "name": "WAY JAHA"
+  },
+  {
+    "id": "1806112018",
+    "district_id": "180611",
+    "name": "BANJAR AGUNG ILIR"
+  },
+  {
+    "id": "1806112019",
+    "district_id": "180611",
+    "name": "GADING"
+  },
+  {
+    "id": "1806112020",
+    "district_id": "180611",
+    "name": "WAY PRING"
+  },
+  {
+    "id": "1806112021",
+    "district_id": "180611",
+    "name": "PUNGKUT"
+  },
+  {
+    "id": "1806112022",
+    "district_id": "180611",
+    "name": "GUNUNG TIGA"
+  },
+  {
+    "id": "1806112023",
+    "district_id": "180611",
+    "name": "WAY MANAK"
+  },
+  {
+    "id": "1806112024",
+    "district_id": "180611",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "1806112025",
+    "district_id": "180611",
+    "name": "SUKA MULYA"
+  },
+  {
+    "id": "1806112026",
+    "district_id": "180611",
+    "name": "KAYUHUBI"
+  },
+  {
+    "id": "1806112027",
+    "district_id": "180611",
+    "name": "TALANG LEBAR"
+  }
+]

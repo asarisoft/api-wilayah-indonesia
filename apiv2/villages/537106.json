@@ -1,1 +1,52 @@
-[{"id": "5371061001", "district_id": "537106", "name": "AIRMATA"}, {"id": "5371061002", "district_id": "537106", "name": "LAI LAI BISI KOPAN"}, {"id": "5371061003", "district_id": "537106", "name": "BONIPOI"}, {"id": "5371061004", "district_id": "537106", "name": "SOLOR"}, {"id": "5371061005", "district_id": "537106", "name": "TODE KISAR"}, {"id": "5371061006", "district_id": "537106", "name": "MERDEKA"}, {"id": "5371061007", "district_id": "537106", "name": "OEBA"}, {"id": "5371061008", "district_id": "537106", "name": "FATUBESI"}, {"id": "5371061009", "district_id": "537106", "name": "PASIR PANJANG"}, {"id": "5371061010", "district_id": "537106", "name": "NEFONAEK"}]
+[
+  {
+    "id": "5371061001",
+    "district_id": "537106",
+    "name": "AIRMATA"
+  },
+  {
+    "id": "5371061002",
+    "district_id": "537106",
+    "name": "LAI LAI BISI KOPAN"
+  },
+  {
+    "id": "5371061003",
+    "district_id": "537106",
+    "name": "BONIPOI"
+  },
+  {
+    "id": "5371061004",
+    "district_id": "537106",
+    "name": "SOLOR"
+  },
+  {
+    "id": "5371061005",
+    "district_id": "537106",
+    "name": "TODE KISAR"
+  },
+  {
+    "id": "5371061006",
+    "district_id": "537106",
+    "name": "MERDEKA"
+  },
+  {
+    "id": "5371061007",
+    "district_id": "537106",
+    "name": "OEBA"
+  },
+  {
+    "id": "5371061008",
+    "district_id": "537106",
+    "name": "FATUBESI"
+  },
+  {
+    "id": "5371061009",
+    "district_id": "537106",
+    "name": "PASIR PANJANG"
+  },
+  {
+    "id": "5371061010",
+    "district_id": "537106",
+    "name": "NEFONAEK"
+  }
+]

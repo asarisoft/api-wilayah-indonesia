@@ -1,1 +1,72 @@
-[{"id": "1202041001", "district_id": "120204", "name": "SITUMEANG HABINSARAN"}, {"id": "1202042002", "district_id": "120204", "name": "HUTAURUK"}, {"id": "1202042003", "district_id": "120204", "name": "SIMANUNGKALIT"}, {"id": "1202042004", "district_id": "120204", "name": "SITUMEANG HASUNDUTAN"}, {"id": "1202042005", "district_id": "120204", "name": "SIPAHUTAR"}, {"id": "1202042007", "district_id": "120204", "name": "TAPIAN NAULI"}, {"id": "1202042008", "district_id": "120204", "name": "HUTA RAJA"}, {"id": "1202042009", "district_id": "120204", "name": "LOBU SINGKAM"}, {"id": "1202042010", "district_id": "120204", "name": "RURA JULU DOLOK"}, {"id": "1202042011", "district_id": "120204", "name": "RURA JULU TORUAN"}, {"id": "1202042012", "district_id": "120204", "name": "HUTARAJA HASUNDUTAN"}, {"id": "1202042013", "district_id": "120204", "name": "PAGARBATU"}, {"id": "1202042014", "district_id": "120204", "name": "HUTARAJA SIMANUNGKALIT"}, {"id": "1202042015", "district_id": "120204", "name": "HUTAURUK HASUNDUTAN"}]
+[
+  {
+    "id": "1202041001",
+    "district_id": "120204",
+    "name": "SITUMEANG HABINSARAN"
+  },
+  {
+    "id": "1202042002",
+    "district_id": "120204",
+    "name": "HUTAURUK"
+  },
+  {
+    "id": "1202042003",
+    "district_id": "120204",
+    "name": "SIMANUNGKALIT"
+  },
+  {
+    "id": "1202042004",
+    "district_id": "120204",
+    "name": "SITUMEANG HASUNDUTAN"
+  },
+  {
+    "id": "1202042005",
+    "district_id": "120204",
+    "name": "SIPAHUTAR"
+  },
+  {
+    "id": "1202042007",
+    "district_id": "120204",
+    "name": "TAPIAN NAULI"
+  },
+  {
+    "id": "1202042008",
+    "district_id": "120204",
+    "name": "HUTA RAJA"
+  },
+  {
+    "id": "1202042009",
+    "district_id": "120204",
+    "name": "LOBU SINGKAM"
+  },
+  {
+    "id": "1202042010",
+    "district_id": "120204",
+    "name": "RURA JULU DOLOK"
+  },
+  {
+    "id": "1202042011",
+    "district_id": "120204",
+    "name": "RURA JULU TORUAN"
+  },
+  {
+    "id": "1202042012",
+    "district_id": "120204",
+    "name": "HUTARAJA HASUNDUTAN"
+  },
+  {
+    "id": "1202042013",
+    "district_id": "120204",
+    "name": "PAGARBATU"
+  },
+  {
+    "id": "1202042014",
+    "district_id": "120204",
+    "name": "HUTARAJA SIMANUNGKALIT"
+  },
+  {
+    "id": "1202042015",
+    "district_id": "120204",
+    "name": "HUTAURUK HASUNDUTAN"
+  }
+]

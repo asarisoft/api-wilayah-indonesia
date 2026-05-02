@@ -1,1 +1,62 @@
-[{"id": "720703", "regency_id": "7207", "name": "TOTIKUM"}, {"id": "720704", "regency_id": "7207", "name": "TINANGKUNG"}, {"id": "720705", "regency_id": "7207", "name": "LIANG"}, {"id": "720706", "regency_id": "7207", "name": "BULAGI"}, {"id": "720707", "regency_id": "7207", "name": "BUKO"}, {"id": "720709", "regency_id": "7207", "name": "BULAGI SELATAN"}, {"id": "720711", "regency_id": "7207", "name": "TINANGKUNG SELATAN"}, {"id": "720715", "regency_id": "7207", "name": "TOTIKUM SELATAN"}, {"id": "720716", "regency_id": "7207", "name": "PELING TENGAH"}, {"id": "720717", "regency_id": "7207", "name": "BULAGI UTARA"}, {"id": "720718", "regency_id": "7207", "name": "BUKO SELATAN"}, {"id": "720719", "regency_id": "7207", "name": "TINANGKUNG UTARA"}]
+[
+  {
+    "id": "720703",
+    "regency_id": "7207",
+    "name": "TOTIKUM"
+  },
+  {
+    "id": "720704",
+    "regency_id": "7207",
+    "name": "TINANGKUNG"
+  },
+  {
+    "id": "720705",
+    "regency_id": "7207",
+    "name": "LIANG"
+  },
+  {
+    "id": "720706",
+    "regency_id": "7207",
+    "name": "BULAGI"
+  },
+  {
+    "id": "720707",
+    "regency_id": "7207",
+    "name": "BUKO"
+  },
+  {
+    "id": "720709",
+    "regency_id": "7207",
+    "name": "BULAGI SELATAN"
+  },
+  {
+    "id": "720711",
+    "regency_id": "7207",
+    "name": "TINANGKUNG SELATAN"
+  },
+  {
+    "id": "720715",
+    "regency_id": "7207",
+    "name": "TOTIKUM SELATAN"
+  },
+  {
+    "id": "720716",
+    "regency_id": "7207",
+    "name": "PELING TENGAH"
+  },
+  {
+    "id": "720717",
+    "regency_id": "7207",
+    "name": "BULAGI UTARA"
+  },
+  {
+    "id": "720718",
+    "regency_id": "7207",
+    "name": "BUKO SELATAN"
+  },
+  {
+    "id": "720719",
+    "regency_id": "7207",
+    "name": "TINANGKUNG UTARA"
+  }
+]

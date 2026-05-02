@@ -1,1 +1,37 @@
-[{"id": "5104062001", "district_id": "510406", "name": "KELIKI"}, {"id": "5104062002", "district_id": "510406", "name": "TEGALLALANG"}, {"id": "5104062003", "district_id": "510406", "name": "KENDERAN"}, {"id": "5104062004", "district_id": "510406", "name": "KEDISAN"}, {"id": "5104062005", "district_id": "510406", "name": "PUPUAN"}, {"id": "5104062006", "district_id": "510406", "name": "SEBATU"}, {"id": "5104062007", "district_id": "510406", "name": "TARO"}]
+[
+  {
+    "id": "5104062001",
+    "district_id": "510406",
+    "name": "KELIKI"
+  },
+  {
+    "id": "5104062002",
+    "district_id": "510406",
+    "name": "TEGALLALANG"
+  },
+  {
+    "id": "5104062003",
+    "district_id": "510406",
+    "name": "KENDERAN"
+  },
+  {
+    "id": "5104062004",
+    "district_id": "510406",
+    "name": "KEDISAN"
+  },
+  {
+    "id": "5104062005",
+    "district_id": "510406",
+    "name": "PUPUAN"
+  },
+  {
+    "id": "5104062006",
+    "district_id": "510406",
+    "name": "SEBATU"
+  },
+  {
+    "id": "5104062007",
+    "district_id": "510406",
+    "name": "TARO"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "9303152001", "district_id": "930315", "name": "SAGIS"}, {"id": "9303152002", "district_id": "930315", "name": "KUMABAN"}, {"id": "9303152003", "district_id": "930315", "name": "TUGUMAU"}, {"id": "9303152004", "district_id": "930315", "name": "BASMAN"}, {"id": "9303152005", "district_id": "930315", "name": "MEROKIMA"}, {"id": "9303152006", "district_id": "930315", "name": "MU"}, {"id": "9303152007", "district_id": "930315", "name": "PIER"}, {"id": "9303152008", "district_id": "930315", "name": "TARWA"}]
+[
+  {
+    "id": "9303152001",
+    "district_id": "930315",
+    "name": "SAGIS"
+  },
+  {
+    "id": "9303152002",
+    "district_id": "930315",
+    "name": "KUMABAN"
+  },
+  {
+    "id": "9303152003",
+    "district_id": "930315",
+    "name": "TUGUMAU"
+  },
+  {
+    "id": "9303152004",
+    "district_id": "930315",
+    "name": "BASMAN"
+  },
+  {
+    "id": "9303152005",
+    "district_id": "930315",
+    "name": "MEROKIMA"
+  },
+  {
+    "id": "9303152006",
+    "district_id": "930315",
+    "name": "MU"
+  },
+  {
+    "id": "9303152007",
+    "district_id": "930315",
+    "name": "PIER"
+  },
+  {
+    "id": "9303152008",
+    "district_id": "930315",
+    "name": "TARWA"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "1307132001", "district_id": "130713", "name": "SARIAK LAWEH"}, {"id": "1307132002", "district_id": "130713", "name": "KOTO TANGAH BATU AMPA"}, {"id": "1307132003", "district_id": "130713", "name": "BATUHAMPAR"}, {"id": "1307132004", "district_id": "130713", "name": "SUAYAN"}, {"id": "1307132005", "district_id": "130713", "name": "SUNGAI BALANTIAK"}, {"id": "1307132006", "district_id": "130713", "name": "PAUH SANGIK"}, {"id": "1307132007", "district_id": "130713", "name": "DURIAN GADANG"}]
+[
+  {
+    "id": "1307132001",
+    "district_id": "130713",
+    "name": "SARIAK LAWEH"
+  },
+  {
+    "id": "1307132002",
+    "district_id": "130713",
+    "name": "KOTO TANGAH BATU AMPA"
+  },
+  {
+    "id": "1307132003",
+    "district_id": "130713",
+    "name": "BATUHAMPAR"
+  },
+  {
+    "id": "1307132004",
+    "district_id": "130713",
+    "name": "SUAYAN"
+  },
+  {
+    "id": "1307132005",
+    "district_id": "130713",
+    "name": "SUNGAI BALANTIAK"
+  },
+  {
+    "id": "1307132006",
+    "district_id": "130713",
+    "name": "PAUH SANGIK"
+  },
+  {
+    "id": "1307132007",
+    "district_id": "130713",
+    "name": "DURIAN GADANG"
+  }
+]

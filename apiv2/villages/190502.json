@@ -1,1 +1,67 @@
-[{"id": "1905022001", "district_id": "190502", "name": "PELANGAS"}, {"id": "1905022002", "district_id": "190502", "name": "KUNDI"}, {"id": "1905022003", "district_id": "190502", "name": "MAYANG"}, {"id": "1905022004", "district_id": "190502", "name": "PERADONG"}, {"id": "1905022005", "district_id": "190502", "name": "AIR NYATOH"}, {"id": "1905022006", "district_id": "190502", "name": "BERANG"}, {"id": "1905022007", "district_id": "190502", "name": "RAMBAT"}, {"id": "1905022008", "district_id": "190502", "name": "SIMPANG GONG"}, {"id": "1905022009", "district_id": "190502", "name": "SIMPANG TIGA"}, {"id": "1905022010", "district_id": "190502", "name": "IBUL"}, {"id": "1905022011", "district_id": "190502", "name": "PANGEK"}, {"id": "1905022012", "district_id": "190502", "name": "BUKIT TERAK"}, {"id": "1905022013", "district_id": "190502", "name": "AIR MENDUYUNG"}]
+[
+  {
+    "id": "1905022001",
+    "district_id": "190502",
+    "name": "PELANGAS"
+  },
+  {
+    "id": "1905022002",
+    "district_id": "190502",
+    "name": "KUNDI"
+  },
+  {
+    "id": "1905022003",
+    "district_id": "190502",
+    "name": "MAYANG"
+  },
+  {
+    "id": "1905022004",
+    "district_id": "190502",
+    "name": "PERADONG"
+  },
+  {
+    "id": "1905022005",
+    "district_id": "190502",
+    "name": "AIR NYATOH"
+  },
+  {
+    "id": "1905022006",
+    "district_id": "190502",
+    "name": "BERANG"
+  },
+  {
+    "id": "1905022007",
+    "district_id": "190502",
+    "name": "RAMBAT"
+  },
+  {
+    "id": "1905022008",
+    "district_id": "190502",
+    "name": "SIMPANG GONG"
+  },
+  {
+    "id": "1905022009",
+    "district_id": "190502",
+    "name": "SIMPANG TIGA"
+  },
+  {
+    "id": "1905022010",
+    "district_id": "190502",
+    "name": "IBUL"
+  },
+  {
+    "id": "1905022011",
+    "district_id": "190502",
+    "name": "PANGEK"
+  },
+  {
+    "id": "1905022012",
+    "district_id": "190502",
+    "name": "BUKIT TERAK"
+  },
+  {
+    "id": "1905022013",
+    "district_id": "190502",
+    "name": "AIR MENDUYUNG"
+  }
+]

@@ -1,1 +1,157 @@
-[{"id": "357801", "regency_id": "3578", "name": "KARANG PILANG"}, {"id": "357802", "regency_id": "3578", "name": "WONOCOLO"}, {"id": "357803", "regency_id": "3578", "name": "RUNGKUT"}, {"id": "357804", "regency_id": "3578", "name": "WONOKROMO"}, {"id": "357805", "regency_id": "3578", "name": "TEGALSARI"}, {"id": "357806", "regency_id": "3578", "name": "SAWAHAN"}, {"id": "357807", "regency_id": "3578", "name": "GENTENG"}, {"id": "357808", "regency_id": "3578", "name": "GUBENG"}, {"id": "357809", "regency_id": "3578", "name": "SUKOLILO"}, {"id": "357810", "regency_id": "3578", "name": "TAMBAKSARI"}, {"id": "357811", "regency_id": "3578", "name": "SIMOKERTO"}, {"id": "357812", "regency_id": "3578", "name": "PABEAN CANTIAN"}, {"id": "357813", "regency_id": "3578", "name": "BUBUTAN"}, {"id": "357814", "regency_id": "3578", "name": "TANDES"}, {"id": "357815", "regency_id": "3578", "name": "KREMBANGAN"}, {"id": "357816", "regency_id": "3578", "name": "SEMAMPIR"}, {"id": "357817", "regency_id": "3578", "name": "KENJERAN"}, {"id": "357818", "regency_id": "3578", "name": "LAKARSANTRI"}, {"id": "357819", "regency_id": "3578", "name": "BENOWO"}, {"id": "357820", "regency_id": "3578", "name": "WIYUNG"}, {"id": "357821", "regency_id": "3578", "name": "DUKUH PAKIS"}, {"id": "357822", "regency_id": "3578", "name": "GAYUNGAN"}, {"id": "357823", "regency_id": "3578", "name": "JAMBANGAN"}, {"id": "357824", "regency_id": "3578", "name": "TENGGILIS MEJOYO"}, {"id": "357825", "regency_id": "3578", "name": "GUNUNG ANYAR"}, {"id": "357826", "regency_id": "3578", "name": "MULYOREJO"}, {"id": "357827", "regency_id": "3578", "name": "SUKOMANUNGGAL"}, {"id": "357828", "regency_id": "3578", "name": "ASEM ROWO"}, {"id": "357829", "regency_id": "3578", "name": "BULAK"}, {"id": "357830", "regency_id": "3578", "name": "PAKAL"}, {"id": "357831", "regency_id": "3578", "name": "SAMBIKEREP"}]
+[
+  {
+    "id": "357801",
+    "regency_id": "3578",
+    "name": "KARANG PILANG"
+  },
+  {
+    "id": "357802",
+    "regency_id": "3578",
+    "name": "WONOCOLO"
+  },
+  {
+    "id": "357803",
+    "regency_id": "3578",
+    "name": "RUNGKUT"
+  },
+  {
+    "id": "357804",
+    "regency_id": "3578",
+    "name": "WONOKROMO"
+  },
+  {
+    "id": "357805",
+    "regency_id": "3578",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "357806",
+    "regency_id": "3578",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "357807",
+    "regency_id": "3578",
+    "name": "GENTENG"
+  },
+  {
+    "id": "357808",
+    "regency_id": "3578",
+    "name": "GUBENG"
+  },
+  {
+    "id": "357809",
+    "regency_id": "3578",
+    "name": "SUKOLILO"
+  },
+  {
+    "id": "357810",
+    "regency_id": "3578",
+    "name": "TAMBAKSARI"
+  },
+  {
+    "id": "357811",
+    "regency_id": "3578",
+    "name": "SIMOKERTO"
+  },
+  {
+    "id": "357812",
+    "regency_id": "3578",
+    "name": "PABEAN CANTIAN"
+  },
+  {
+    "id": "357813",
+    "regency_id": "3578",
+    "name": "BUBUTAN"
+  },
+  {
+    "id": "357814",
+    "regency_id": "3578",
+    "name": "TANDES"
+  },
+  {
+    "id": "357815",
+    "regency_id": "3578",
+    "name": "KREMBANGAN"
+  },
+  {
+    "id": "357816",
+    "regency_id": "3578",
+    "name": "SEMAMPIR"
+  },
+  {
+    "id": "357817",
+    "regency_id": "3578",
+    "name": "KENJERAN"
+  },
+  {
+    "id": "357818",
+    "regency_id": "3578",
+    "name": "LAKARSANTRI"
+  },
+  {
+    "id": "357819",
+    "regency_id": "3578",
+    "name": "BENOWO"
+  },
+  {
+    "id": "357820",
+    "regency_id": "3578",
+    "name": "WIYUNG"
+  },
+  {
+    "id": "357821",
+    "regency_id": "3578",
+    "name": "DUKUH PAKIS"
+  },
+  {
+    "id": "357822",
+    "regency_id": "3578",
+    "name": "GAYUNGAN"
+  },
+  {
+    "id": "357823",
+    "regency_id": "3578",
+    "name": "JAMBANGAN"
+  },
+  {
+    "id": "357824",
+    "regency_id": "3578",
+    "name": "TENGGILIS MEJOYO"
+  },
+  {
+    "id": "357825",
+    "regency_id": "3578",
+    "name": "GUNUNG ANYAR"
+  },
+  {
+    "id": "357826",
+    "regency_id": "3578",
+    "name": "MULYOREJO"
+  },
+  {
+    "id": "357827",
+    "regency_id": "3578",
+    "name": "SUKOMANUNGGAL"
+  },
+  {
+    "id": "357828",
+    "regency_id": "3578",
+    "name": "ASEM ROWO"
+  },
+  {
+    "id": "357829",
+    "regency_id": "3578",
+    "name": "BULAK"
+  },
+  {
+    "id": "357830",
+    "regency_id": "3578",
+    "name": "PAKAL"
+  },
+  {
+    "id": "357831",
+    "regency_id": "3578",
+    "name": "SAMBIKEREP"
+  }
+]

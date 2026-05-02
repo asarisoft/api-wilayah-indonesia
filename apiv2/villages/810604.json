@@ -1,1 +1,37 @@
-[{"id": "8106042001", "district_id": "810604", "name": "WAESALA"}, {"id": "8106042002", "district_id": "810604", "name": "ALLANG ASAUDE"}, {"id": "8106042003", "district_id": "810604", "name": "SOLE"}, {"id": "8106042004", "district_id": "810604", "name": "TONU JAYA"}, {"id": "8106042005", "district_id": "810604", "name": "TAHALUPU"}, {"id": "8106042006", "district_id": "810604", "name": "BUANO UTARA"}, {"id": "8106042007", "district_id": "810604", "name": "BUANO SELATAN"}]
+[
+  {
+    "id": "8106042001",
+    "district_id": "810604",
+    "name": "WAESALA"
+  },
+  {
+    "id": "8106042002",
+    "district_id": "810604",
+    "name": "ALLANG ASAUDE"
+  },
+  {
+    "id": "8106042003",
+    "district_id": "810604",
+    "name": "SOLE"
+  },
+  {
+    "id": "8106042004",
+    "district_id": "810604",
+    "name": "TONU JAYA"
+  },
+  {
+    "id": "8106042005",
+    "district_id": "810604",
+    "name": "TAHALUPU"
+  },
+  {
+    "id": "8106042006",
+    "district_id": "810604",
+    "name": "BUANO UTARA"
+  },
+  {
+    "id": "8106042007",
+    "district_id": "810604",
+    "name": "BUANO SELATAN"
+  }
+]

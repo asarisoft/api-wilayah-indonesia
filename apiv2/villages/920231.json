@@ -1,1 +1,52 @@
-[{"id": "9202312001", "district_id": "920231", "name": "KERENU"}, {"id": "9202312002", "district_id": "920231", "name": "WASEGI INDAH"}, {"id": "9202312003", "district_id": "920231", "name": "UDAPI HILIR"}, {"id": "9202312004", "district_id": "920231", "name": "WASEKI POP"}, {"id": "9202312005", "district_id": "920231", "name": "UHYEHEBRIG"}, {"id": "9202312006", "district_id": "920231", "name": "KALI AMIN"}, {"id": "9202312007", "district_id": "920231", "name": "BOGOR"}, {"id": "9202312008", "district_id": "920231", "name": "AIMASI"}, {"id": "9202312009", "district_id": "920231", "name": "LISMAUNGU"}, {"id": "9202312010", "district_id": "920231", "name": "BEDIP MATOA"}]
+[
+  {
+    "id": "9202312001",
+    "district_id": "920231",
+    "name": "KERENU"
+  },
+  {
+    "id": "9202312002",
+    "district_id": "920231",
+    "name": "WASEGI INDAH"
+  },
+  {
+    "id": "9202312003",
+    "district_id": "920231",
+    "name": "UDAPI HILIR"
+  },
+  {
+    "id": "9202312004",
+    "district_id": "920231",
+    "name": "WASEKI POP"
+  },
+  {
+    "id": "9202312005",
+    "district_id": "920231",
+    "name": "UHYEHEBRIG"
+  },
+  {
+    "id": "9202312006",
+    "district_id": "920231",
+    "name": "KALI AMIN"
+  },
+  {
+    "id": "9202312007",
+    "district_id": "920231",
+    "name": "BOGOR"
+  },
+  {
+    "id": "9202312008",
+    "district_id": "920231",
+    "name": "AIMASI"
+  },
+  {
+    "id": "9202312009",
+    "district_id": "920231",
+    "name": "LISMAUNGU"
+  },
+  {
+    "id": "9202312010",
+    "district_id": "920231",
+    "name": "BEDIP MATOA"
+  }
+]

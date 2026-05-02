@@ -1,1 +1,72 @@
-[{"id": "1609072001", "district_id": "160907", "name": "SUGIH RAWAS"}, {"id": "1609072002", "district_id": "160907", "name": "PADANG SARI"}, {"id": "1609072003", "district_id": "160907", "name": "PADANG BINDU"}, {"id": "1609072005", "district_id": "160907", "name": "SAUNG NAGA"}, {"id": "1609072006", "district_id": "160907", "name": "NEGERI BATIN BARU"}, {"id": "1609072007", "district_id": "160907", "name": "KOTA AMAN"}, {"id": "1609072008", "district_id": "160907", "name": "BELAMBANGAN"}, {"id": "1609072009", "district_id": "160907", "name": "PANINJAUAN"}, {"id": "1609072018", "district_id": "160907", "name": "NAGAR AGUNG"}, {"id": "1609072019", "district_id": "160907", "name": "SIMPANG SAGA"}, {"id": "1609072020", "district_id": "160907", "name": "PERUPUS BLAMBANGAN"}, {"id": "1609072021", "district_id": "160907", "name": "KAGELANG BLAMBANGAN"}, {"id": "1609072022", "district_id": "160907", "name": "SUKAJADI BLAMBANGAN"}, {"id": "1609072023", "district_id": "160907", "name": "BEDENG BLAMBANGAN"}]
+[
+  {
+    "id": "1609072001",
+    "district_id": "160907",
+    "name": "SUGIH RAWAS"
+  },
+  {
+    "id": "1609072002",
+    "district_id": "160907",
+    "name": "PADANG SARI"
+  },
+  {
+    "id": "1609072003",
+    "district_id": "160907",
+    "name": "PADANG BINDU"
+  },
+  {
+    "id": "1609072005",
+    "district_id": "160907",
+    "name": "SAUNG NAGA"
+  },
+  {
+    "id": "1609072006",
+    "district_id": "160907",
+    "name": "NEGERI BATIN BARU"
+  },
+  {
+    "id": "1609072007",
+    "district_id": "160907",
+    "name": "KOTA AMAN"
+  },
+  {
+    "id": "1609072008",
+    "district_id": "160907",
+    "name": "BELAMBANGAN"
+  },
+  {
+    "id": "1609072009",
+    "district_id": "160907",
+    "name": "PANINJAUAN"
+  },
+  {
+    "id": "1609072018",
+    "district_id": "160907",
+    "name": "NAGAR AGUNG"
+  },
+  {
+    "id": "1609072019",
+    "district_id": "160907",
+    "name": "SIMPANG SAGA"
+  },
+  {
+    "id": "1609072020",
+    "district_id": "160907",
+    "name": "PERUPUS BLAMBANGAN"
+  },
+  {
+    "id": "1609072021",
+    "district_id": "160907",
+    "name": "KAGELANG BLAMBANGAN"
+  },
+  {
+    "id": "1609072022",
+    "district_id": "160907",
+    "name": "SUKAJADI BLAMBANGAN"
+  },
+  {
+    "id": "1609072023",
+    "district_id": "160907",
+    "name": "BEDENG BLAMBANGAN"
+  }
+]

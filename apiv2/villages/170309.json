@@ -1,1 +1,62 @@
-[{"id": "1703092001", "district_id": "170309", "name": "LUBUK BANYAU"}, {"id": "1703092002", "district_id": "170309", "name": "TALANG TUA"}, {"id": "1703092003", "district_id": "170309", "name": "MARGA SAKTI"}, {"id": "1703092004", "district_id": "170309", "name": "TANJUNG HARAPAN"}, {"id": "1703092005", "district_id": "170309", "name": "PADANG JAYA"}, {"id": "1703092006", "district_id": "170309", "name": "ARGA MULYA"}, {"id": "1703092007", "district_id": "170309", "name": "SIDOMUKTI"}, {"id": "1703092008", "district_id": "170309", "name": "MARGA JAYA"}, {"id": "1703092009", "district_id": "170309", "name": "TANAH HITAM"}, {"id": "1703092010", "district_id": "170309", "name": "TAMBAK REJO"}, {"id": "1703092011", "district_id": "170309", "name": "SIDO LUHUR"}, {"id": "1703092012", "district_id": "170309", "name": "TANAH TINGGI"}]
+[
+  {
+    "id": "1703092001",
+    "district_id": "170309",
+    "name": "LUBUK BANYAU"
+  },
+  {
+    "id": "1703092002",
+    "district_id": "170309",
+    "name": "TALANG TUA"
+  },
+  {
+    "id": "1703092003",
+    "district_id": "170309",
+    "name": "MARGA SAKTI"
+  },
+  {
+    "id": "1703092004",
+    "district_id": "170309",
+    "name": "TANJUNG HARAPAN"
+  },
+  {
+    "id": "1703092005",
+    "district_id": "170309",
+    "name": "PADANG JAYA"
+  },
+  {
+    "id": "1703092006",
+    "district_id": "170309",
+    "name": "ARGA MULYA"
+  },
+  {
+    "id": "1703092007",
+    "district_id": "170309",
+    "name": "SIDOMUKTI"
+  },
+  {
+    "id": "1703092008",
+    "district_id": "170309",
+    "name": "MARGA JAYA"
+  },
+  {
+    "id": "1703092009",
+    "district_id": "170309",
+    "name": "TANAH HITAM"
+  },
+  {
+    "id": "1703092010",
+    "district_id": "170309",
+    "name": "TAMBAK REJO"
+  },
+  {
+    "id": "1703092011",
+    "district_id": "170309",
+    "name": "SIDO LUHUR"
+  },
+  {
+    "id": "1703092012",
+    "district_id": "170309",
+    "name": "TANAH TINGGI"
+  }
+]

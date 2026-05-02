@@ -1,1 +1,22 @@
-[{"id": "9206192001", "district_id": "920619", "name": "SEBYAR REJOSASI"}, {"id": "9206192002", "district_id": "920619", "name": "TOMU"}, {"id": "9206192003", "district_id": "920619", "name": "TAROY"}, {"id": "9206192004", "district_id": "920619", "name": "EKAM"}]
+[
+  {
+    "id": "9206192001",
+    "district_id": "920619",
+    "name": "SEBYAR REJOSASI"
+  },
+  {
+    "id": "9206192002",
+    "district_id": "920619",
+    "name": "TOMU"
+  },
+  {
+    "id": "9206192003",
+    "district_id": "920619",
+    "name": "TAROY"
+  },
+  {
+    "id": "9206192004",
+    "district_id": "920619",
+    "name": "EKAM"
+  }
+]

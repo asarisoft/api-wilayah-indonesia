@@ -1,1 +1,82 @@
-[{"id": "3310022001", "district_id": "331002", "name": "GENTAN"}, {"id": "3310022002", "district_id": "331002", "name": "KARANGTURI"}, {"id": "3310022003", "district_id": "331002", "name": "JOGOPRAYAN"}, {"id": "3310022004", "district_id": "331002", "name": "KRAGILAN"}, {"id": "3310022005", "district_id": "331002", "name": "NGANDONG"}, {"id": "3310022006", "district_id": "331002", "name": "KERTEN"}, {"id": "3310022007", "district_id": "331002", "name": "KATEKAN"}, {"id": "3310022008", "district_id": "331002", "name": "SAWIT"}, {"id": "3310022009", "district_id": "331002", "name": "MURUH"}, {"id": "3310022010", "district_id": "331002", "name": "MUTIHAN"}, {"id": "3310022011", "district_id": "331002", "name": "BATURAN"}, {"id": "3310022012", "district_id": "331002", "name": "MLESE"}, {"id": "3310022013", "district_id": "331002", "name": "GESIKAN"}, {"id": "3310022014", "district_id": "331002", "name": "JABUNG"}, {"id": "3310022015", "district_id": "331002", "name": "TOWANGSAN"}, {"id": "3310022016", "district_id": "331002", "name": "CEPORAN"}]
+[
+  {
+    "id": "3310022001",
+    "district_id": "331002",
+    "name": "GENTAN"
+  },
+  {
+    "id": "3310022002",
+    "district_id": "331002",
+    "name": "KARANGTURI"
+  },
+  {
+    "id": "3310022003",
+    "district_id": "331002",
+    "name": "JOGOPRAYAN"
+  },
+  {
+    "id": "3310022004",
+    "district_id": "331002",
+    "name": "KRAGILAN"
+  },
+  {
+    "id": "3310022005",
+    "district_id": "331002",
+    "name": "NGANDONG"
+  },
+  {
+    "id": "3310022006",
+    "district_id": "331002",
+    "name": "KERTEN"
+  },
+  {
+    "id": "3310022007",
+    "district_id": "331002",
+    "name": "KATEKAN"
+  },
+  {
+    "id": "3310022008",
+    "district_id": "331002",
+    "name": "SAWIT"
+  },
+  {
+    "id": "3310022009",
+    "district_id": "331002",
+    "name": "MURUH"
+  },
+  {
+    "id": "3310022010",
+    "district_id": "331002",
+    "name": "MUTIHAN"
+  },
+  {
+    "id": "3310022011",
+    "district_id": "331002",
+    "name": "BATURAN"
+  },
+  {
+    "id": "3310022012",
+    "district_id": "331002",
+    "name": "MLESE"
+  },
+  {
+    "id": "3310022013",
+    "district_id": "331002",
+    "name": "GESIKAN"
+  },
+  {
+    "id": "3310022014",
+    "district_id": "331002",
+    "name": "JABUNG"
+  },
+  {
+    "id": "3310022015",
+    "district_id": "331002",
+    "name": "TOWANGSAN"
+  },
+  {
+    "id": "3310022016",
+    "district_id": "331002",
+    "name": "CEPORAN"
+  }
+]

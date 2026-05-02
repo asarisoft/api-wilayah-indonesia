@@ -1,1 +1,72 @@
-[{"id": "3527042001", "district_id": "352704", "name": "TADDAN"}, {"id": "3527042002", "district_id": "352704", "name": "BANJAR TALELA"}, {"id": "3527042003", "district_id": "352704", "name": "TAMBA'AN"}, {"id": "3527042004", "district_id": "352704", "name": "PRAJJAN"}, {"id": "3527042005", "district_id": "352704", "name": "DHARMA CAMPLONG"}, {"id": "3527042006", "district_id": "352704", "name": "BATUKARANG"}, {"id": "3527042007", "district_id": "352704", "name": "SEJATI"}, {"id": "3527042008", "district_id": "352704", "name": "DHARMA TANJUNG"}, {"id": "3527042009", "district_id": "352704", "name": "RABASAN"}, {"id": "3527042010", "district_id": "352704", "name": "BANJARTABULU"}, {"id": "3527042011", "district_id": "352704", "name": "ANGGERSEK"}, {"id": "3527042012", "district_id": "352704", "name": "MADUPAT"}, {"id": "3527042013", "district_id": "352704", "name": "PAMOLA'AN"}, {"id": "3527042014", "district_id": "352704", "name": "PLAMPA'AN"}]
+[
+  {
+    "id": "3527042001",
+    "district_id": "352704",
+    "name": "TADDAN"
+  },
+  {
+    "id": "3527042002",
+    "district_id": "352704",
+    "name": "BANJAR TALELA"
+  },
+  {
+    "id": "3527042003",
+    "district_id": "352704",
+    "name": "TAMBA'AN"
+  },
+  {
+    "id": "3527042004",
+    "district_id": "352704",
+    "name": "PRAJJAN"
+  },
+  {
+    "id": "3527042005",
+    "district_id": "352704",
+    "name": "DHARMA CAMPLONG"
+  },
+  {
+    "id": "3527042006",
+    "district_id": "352704",
+    "name": "BATUKARANG"
+  },
+  {
+    "id": "3527042007",
+    "district_id": "352704",
+    "name": "SEJATI"
+  },
+  {
+    "id": "3527042008",
+    "district_id": "352704",
+    "name": "DHARMA TANJUNG"
+  },
+  {
+    "id": "3527042009",
+    "district_id": "352704",
+    "name": "RABASAN"
+  },
+  {
+    "id": "3527042010",
+    "district_id": "352704",
+    "name": "BANJARTABULU"
+  },
+  {
+    "id": "3527042011",
+    "district_id": "352704",
+    "name": "ANGGERSEK"
+  },
+  {
+    "id": "3527042012",
+    "district_id": "352704",
+    "name": "MADUPAT"
+  },
+  {
+    "id": "3527042013",
+    "district_id": "352704",
+    "name": "PAMOLA'AN"
+  },
+  {
+    "id": "3527042014",
+    "district_id": "352704",
+    "name": "PLAMPA'AN"
+  }
+]

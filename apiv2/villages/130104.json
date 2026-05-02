@@ -1,1 +1,47 @@
-[{"id": "1301042001", "district_id": "130104", "name": "IV KOTO HILIE"}, {"id": "1301042002", "district_id": "130104", "name": "IV KOTO MUDIEK"}, {"id": "1301042003", "district_id": "130104", "name": "TALUAK"}, {"id": "1301042004", "district_id": "130104", "name": "KOTO NAN DUO IV KOTO HILIE"}, {"id": "1301042005", "district_id": "130104", "name": "KOTO NAN TIGO IV KOTO HILIE"}, {"id": "1301042006", "district_id": "130104", "name": "TERATAK TEMPATIH IV KOTO MUDIEK"}, {"id": "1301042007", "district_id": "130104", "name": "TUIK IV KOTO MUDIEK"}, {"id": "1301042008", "district_id": "130104", "name": "SUNGAI NYALO IV KOTO MUDIEK"}, {"id": "1301042009", "district_id": "130104", "name": "TALUK TIGO SAKATO"}]
+[
+  {
+    "id": "1301042001",
+    "district_id": "130104",
+    "name": "IV KOTO HILIE"
+  },
+  {
+    "id": "1301042002",
+    "district_id": "130104",
+    "name": "IV KOTO MUDIEK"
+  },
+  {
+    "id": "1301042003",
+    "district_id": "130104",
+    "name": "TALUAK"
+  },
+  {
+    "id": "1301042004",
+    "district_id": "130104",
+    "name": "KOTO NAN DUO IV KOTO HILIE"
+  },
+  {
+    "id": "1301042005",
+    "district_id": "130104",
+    "name": "KOTO NAN TIGO IV KOTO HILIE"
+  },
+  {
+    "id": "1301042006",
+    "district_id": "130104",
+    "name": "TERATAK TEMPATIH IV KOTO MUDIEK"
+  },
+  {
+    "id": "1301042007",
+    "district_id": "130104",
+    "name": "TUIK IV KOTO MUDIEK"
+  },
+  {
+    "id": "1301042008",
+    "district_id": "130104",
+    "name": "SUNGAI NYALO IV KOTO MUDIEK"
+  },
+  {
+    "id": "1301042009",
+    "district_id": "130104",
+    "name": "TALUK TIGO SAKATO"
+  }
+]

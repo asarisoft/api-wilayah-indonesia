@@ -1,1 +1,32 @@
-[{"id": "7409122001", "district_id": "740912", "name": "BOENAGA"}, {"id": "7409122002", "district_id": "740912", "name": "WATURAMBAHA"}, {"id": "7409122003", "district_id": "740912", "name": "LABENGKI"}, {"id": "7409122004", "district_id": "740912", "name": "MOROMBO"}, {"id": "7409122005", "district_id": "740912", "name": "TAPUNOPAKA"}, {"id": "7409122006", "district_id": "740912", "name": "BOEDINGI"}]
+[
+  {
+    "id": "7409122001",
+    "district_id": "740912",
+    "name": "BOENAGA"
+  },
+  {
+    "id": "7409122002",
+    "district_id": "740912",
+    "name": "WATURAMBAHA"
+  },
+  {
+    "id": "7409122003",
+    "district_id": "740912",
+    "name": "LABENGKI"
+  },
+  {
+    "id": "7409122004",
+    "district_id": "740912",
+    "name": "MOROMBO"
+  },
+  {
+    "id": "7409122005",
+    "district_id": "740912",
+    "name": "TAPUNOPAKA"
+  },
+  {
+    "id": "7409122006",
+    "district_id": "740912",
+    "name": "BOEDINGI"
+  }
+]

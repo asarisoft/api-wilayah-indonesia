@@ -1,1 +1,52 @@
-[{"id": "1804192001", "district_id": "180419", "name": "SIDODADI"}, {"id": "1804192002", "district_id": "180419", "name": "SEMARANG JAYA"}, {"id": "1804192003", "district_id": "180419", "name": "SUMBER ALAM"}, {"id": "1804192004", "district_id": "180419", "name": "GUNUNGTERANG"}, {"id": "1804192005", "district_id": "180419", "name": "SUKA JADI"}, {"id": "1804192006", "district_id": "180419", "name": "SRI MENANTI"}, {"id": "1804192007", "district_id": "180419", "name": "SINAR JAYA"}, {"id": "1804192008", "district_id": "180419", "name": "RIGIS JAYA"}, {"id": "1804192009", "district_id": "180419", "name": "SUKA DAMAI"}, {"id": "1804192010", "district_id": "180419", "name": "MANGGARAI"}]
+[
+  {
+    "id": "1804192001",
+    "district_id": "180419",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1804192002",
+    "district_id": "180419",
+    "name": "SEMARANG JAYA"
+  },
+  {
+    "id": "1804192003",
+    "district_id": "180419",
+    "name": "SUMBER ALAM"
+  },
+  {
+    "id": "1804192004",
+    "district_id": "180419",
+    "name": "GUNUNGTERANG"
+  },
+  {
+    "id": "1804192005",
+    "district_id": "180419",
+    "name": "SUKA JADI"
+  },
+  {
+    "id": "1804192006",
+    "district_id": "180419",
+    "name": "SRI MENANTI"
+  },
+  {
+    "id": "1804192007",
+    "district_id": "180419",
+    "name": "SINAR JAYA"
+  },
+  {
+    "id": "1804192008",
+    "district_id": "180419",
+    "name": "RIGIS JAYA"
+  },
+  {
+    "id": "1804192009",
+    "district_id": "180419",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "1804192010",
+    "district_id": "180419",
+    "name": "MANGGARAI"
+  }
+]

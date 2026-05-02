@@ -1,1 +1,102 @@
-[{"id": "3328142001", "district_id": "332814", "name": "JATIRAWA"}, {"id": "3328142002", "district_id": "332814", "name": "KABUKAN"}, {"id": "3328142003", "district_id": "332814", "name": "SETU"}, {"id": "3328142004", "district_id": "332814", "name": "PURBASANA"}, {"id": "3328142005", "district_id": "332814", "name": "KEMANGGUNGAN"}, {"id": "3328142006", "district_id": "332814", "name": "KARANGMANGU"}, {"id": "3328142007", "district_id": "332814", "name": "LEBETENG"}, {"id": "3328142008", "district_id": "332814", "name": "BREKAT"}, {"id": "3328142009", "district_id": "332814", "name": "KARANGJATI"}, {"id": "3328142010", "district_id": "332814", "name": "BULAKWARU"}, {"id": "3328142011", "district_id": "332814", "name": "MINDAKA"}, {"id": "3328142012", "district_id": "332814", "name": "TARUB"}, {"id": "3328142013", "district_id": "332814", "name": "KEDUNGBUNGKUS"}, {"id": "3328142014", "district_id": "332814", "name": "KEDOKANSAYANG"}, {"id": "3328142015", "district_id": "332814", "name": "BUMIHARJA"}, {"id": "3328142016", "district_id": "332814", "name": "KALIJAMBE"}, {"id": "3328142017", "district_id": "332814", "name": "MARGAPADANG"}, {"id": "3328142018", "district_id": "332814", "name": "KESAMIRAN"}, {"id": "3328142019", "district_id": "332814", "name": "KESADIKAN"}, {"id": "3328142020", "district_id": "332814", "name": "MANGUNSAREN"}]
+[
+  {
+    "id": "3328142001",
+    "district_id": "332814",
+    "name": "JATIRAWA"
+  },
+  {
+    "id": "3328142002",
+    "district_id": "332814",
+    "name": "KABUKAN"
+  },
+  {
+    "id": "3328142003",
+    "district_id": "332814",
+    "name": "SETU"
+  },
+  {
+    "id": "3328142004",
+    "district_id": "332814",
+    "name": "PURBASANA"
+  },
+  {
+    "id": "3328142005",
+    "district_id": "332814",
+    "name": "KEMANGGUNGAN"
+  },
+  {
+    "id": "3328142006",
+    "district_id": "332814",
+    "name": "KARANGMANGU"
+  },
+  {
+    "id": "3328142007",
+    "district_id": "332814",
+    "name": "LEBETENG"
+  },
+  {
+    "id": "3328142008",
+    "district_id": "332814",
+    "name": "BREKAT"
+  },
+  {
+    "id": "3328142009",
+    "district_id": "332814",
+    "name": "KARANGJATI"
+  },
+  {
+    "id": "3328142010",
+    "district_id": "332814",
+    "name": "BULAKWARU"
+  },
+  {
+    "id": "3328142011",
+    "district_id": "332814",
+    "name": "MINDAKA"
+  },
+  {
+    "id": "3328142012",
+    "district_id": "332814",
+    "name": "TARUB"
+  },
+  {
+    "id": "3328142013",
+    "district_id": "332814",
+    "name": "KEDUNGBUNGKUS"
+  },
+  {
+    "id": "3328142014",
+    "district_id": "332814",
+    "name": "KEDOKANSAYANG"
+  },
+  {
+    "id": "3328142015",
+    "district_id": "332814",
+    "name": "BUMIHARJA"
+  },
+  {
+    "id": "3328142016",
+    "district_id": "332814",
+    "name": "KALIJAMBE"
+  },
+  {
+    "id": "3328142017",
+    "district_id": "332814",
+    "name": "MARGAPADANG"
+  },
+  {
+    "id": "3328142018",
+    "district_id": "332814",
+    "name": "KESAMIRAN"
+  },
+  {
+    "id": "3328142019",
+    "district_id": "332814",
+    "name": "KESADIKAN"
+  },
+  {
+    "id": "3328142020",
+    "district_id": "332814",
+    "name": "MANGUNSAREN"
+  }
+]

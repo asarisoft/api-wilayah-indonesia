@@ -1,1 +1,22 @@
-[{"id": "9603171001", "district_id": "960317", "name": "WAISAI"}, {"id": "9603171002", "district_id": "960317", "name": "SAPORDANCO"}, {"id": "9603171003", "district_id": "960317", "name": "BONKAWIR"}, {"id": "9603171004", "district_id": "960317", "name": "WARMASEN"}]
+[
+  {
+    "id": "9603171001",
+    "district_id": "960317",
+    "name": "WAISAI"
+  },
+  {
+    "id": "9603171002",
+    "district_id": "960317",
+    "name": "SAPORDANCO"
+  },
+  {
+    "id": "9603171003",
+    "district_id": "960317",
+    "name": "BONKAWIR"
+  },
+  {
+    "id": "9603171004",
+    "district_id": "960317",
+    "name": "WARMASEN"
+  }
+]

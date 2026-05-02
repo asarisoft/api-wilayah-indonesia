@@ -1,1 +1,72 @@
-[{"id": "3319032001", "district_id": "331903", "name": "JETISKAPUAN"}, {"id": "3319032002", "district_id": "331903", "name": "TANJUNGKARANG"}, {"id": "3319032003", "district_id": "331903", "name": "JATI WETAN"}, {"id": "3319032004", "district_id": "331903", "name": "PASURUHAN KIDUL"}, {"id": "3319032005", "district_id": "331903", "name": "PASURUHAN LOR"}, {"id": "3319032006", "district_id": "331903", "name": "PLOSO"}, {"id": "3319032007", "district_id": "331903", "name": "JATI KULON"}, {"id": "3319032008", "district_id": "331903", "name": "GETASPEJATEN"}, {"id": "3319032009", "district_id": "331903", "name": "LORAM KULON"}, {"id": "3319032010", "district_id": "331903", "name": "LORAM WETAN"}, {"id": "3319032011", "district_id": "331903", "name": "JEPANGPAKIS"}, {"id": "3319032012", "district_id": "331903", "name": "MEGAWON"}, {"id": "3319032013", "district_id": "331903", "name": "NGEMBAL KULON"}, {"id": "3319032014", "district_id": "331903", "name": "TUMPANGKRASAK"}]
+[
+  {
+    "id": "3319032001",
+    "district_id": "331903",
+    "name": "JETISKAPUAN"
+  },
+  {
+    "id": "3319032002",
+    "district_id": "331903",
+    "name": "TANJUNGKARANG"
+  },
+  {
+    "id": "3319032003",
+    "district_id": "331903",
+    "name": "JATI WETAN"
+  },
+  {
+    "id": "3319032004",
+    "district_id": "331903",
+    "name": "PASURUHAN KIDUL"
+  },
+  {
+    "id": "3319032005",
+    "district_id": "331903",
+    "name": "PASURUHAN LOR"
+  },
+  {
+    "id": "3319032006",
+    "district_id": "331903",
+    "name": "PLOSO"
+  },
+  {
+    "id": "3319032007",
+    "district_id": "331903",
+    "name": "JATI KULON"
+  },
+  {
+    "id": "3319032008",
+    "district_id": "331903",
+    "name": "GETASPEJATEN"
+  },
+  {
+    "id": "3319032009",
+    "district_id": "331903",
+    "name": "LORAM KULON"
+  },
+  {
+    "id": "3319032010",
+    "district_id": "331903",
+    "name": "LORAM WETAN"
+  },
+  {
+    "id": "3319032011",
+    "district_id": "331903",
+    "name": "JEPANGPAKIS"
+  },
+  {
+    "id": "3319032012",
+    "district_id": "331903",
+    "name": "MEGAWON"
+  },
+  {
+    "id": "3319032013",
+    "district_id": "331903",
+    "name": "NGEMBAL KULON"
+  },
+  {
+    "id": "3319032014",
+    "district_id": "331903",
+    "name": "TUMPANGKRASAK"
+  }
+]

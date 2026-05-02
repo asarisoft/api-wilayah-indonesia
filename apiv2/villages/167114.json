@@ -1,1 +1,37 @@
-[{"id": "1671141001", "district_id": "167114", "name": "PLAJU ULU"}, {"id": "1671141002", "district_id": "167114", "name": "PLAJU DARAT"}, {"id": "1671141003", "district_id": "167114", "name": "PLAJU ILIR"}, {"id": "1671141004", "district_id": "167114", "name": "BAGUSKUNING"}, {"id": "1671141005", "district_id": "167114", "name": "KOMPERTA"}, {"id": "1671141006", "district_id": "167114", "name": "TALANGPUTRI"}, {"id": "1671141007", "district_id": "167114", "name": "TALANGBUBUK"}]
+[
+  {
+    "id": "1671141001",
+    "district_id": "167114",
+    "name": "PLAJU ULU"
+  },
+  {
+    "id": "1671141002",
+    "district_id": "167114",
+    "name": "PLAJU DARAT"
+  },
+  {
+    "id": "1671141003",
+    "district_id": "167114",
+    "name": "PLAJU ILIR"
+  },
+  {
+    "id": "1671141004",
+    "district_id": "167114",
+    "name": "BAGUSKUNING"
+  },
+  {
+    "id": "1671141005",
+    "district_id": "167114",
+    "name": "KOMPERTA"
+  },
+  {
+    "id": "1671141006",
+    "district_id": "167114",
+    "name": "TALANGPUTRI"
+  },
+  {
+    "id": "1671141007",
+    "district_id": "167114",
+    "name": "TALANGBUBUK"
+  }
+]

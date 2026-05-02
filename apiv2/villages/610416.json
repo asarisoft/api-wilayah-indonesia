@@ -1,1 +1,47 @@
-[{"id": "6104161001", "district_id": "610416", "name": "KANTOR"}, {"id": "6104161002", "district_id": "610416", "name": "TENGAH"}, {"id": "6104161003", "district_id": "610416", "name": "MULIA BARU"}, {"id": "6104161004", "district_id": "610416", "name": "SAMPIT"}, {"id": "6104161005", "district_id": "610416", "name": "SUKA HARJA"}, {"id": "6104162006", "district_id": "610416", "name": "SUKA BANGUN"}, {"id": "6104162007", "district_id": "610416", "name": "KALI NILAM"}, {"id": "6104162008", "district_id": "610416", "name": "PAYA KUMANG"}, {"id": "6104162009", "district_id": "610416", "name": "SUKA BANGUN DALAM"}]
+[
+  {
+    "id": "6104161001",
+    "district_id": "610416",
+    "name": "KANTOR"
+  },
+  {
+    "id": "6104161002",
+    "district_id": "610416",
+    "name": "TENGAH"
+  },
+  {
+    "id": "6104161003",
+    "district_id": "610416",
+    "name": "MULIA BARU"
+  },
+  {
+    "id": "6104161004",
+    "district_id": "610416",
+    "name": "SAMPIT"
+  },
+  {
+    "id": "6104161005",
+    "district_id": "610416",
+    "name": "SUKA HARJA"
+  },
+  {
+    "id": "6104162006",
+    "district_id": "610416",
+    "name": "SUKA BANGUN"
+  },
+  {
+    "id": "6104162007",
+    "district_id": "610416",
+    "name": "KALI NILAM"
+  },
+  {
+    "id": "6104162008",
+    "district_id": "610416",
+    "name": "PAYA KUMANG"
+  },
+  {
+    "id": "6104162009",
+    "district_id": "610416",
+    "name": "SUKA BANGUN DALAM"
+  }
+]

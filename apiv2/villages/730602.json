@@ -1,1 +1,72 @@
-[{"id": "7306021001", "district_id": "730602", "name": "KALEBAJENG"}, {"id": "7306021002", "district_id": "730602", "name": "LIMBUNG"}, {"id": "7306021017", "district_id": "730602", "name": "TUBAJENG"}, {"id": "7306021018", "district_id": "730602", "name": "MATA ALLO"}, {"id": "7306022003", "district_id": "730602", "name": "BONTOSUNGGU"}, {"id": "7306022006", "district_id": "730602", "name": "MACCINIBAJI"}, {"id": "7306022007", "district_id": "730602", "name": "PA'BENTENGANG"}, {"id": "7306022009", "district_id": "730602", "name": "TANGKEBAJENG"}, {"id": "7306022010", "district_id": "730602", "name": "MARADEKAYA"}, {"id": "7306022011", "district_id": "730602", "name": "PANCIRO"}, {"id": "7306022012", "district_id": "730602", "name": "LEMPANGANG"}, {"id": "7306022013", "district_id": "730602", "name": "BONE"}, {"id": "7306022015", "district_id": "730602", "name": "PANNYANGKALANG"}, {"id": "7306022019", "district_id": "730602", "name": "PARAIKATTE"}]
+[
+  {
+    "id": "7306021001",
+    "district_id": "730602",
+    "name": "KALEBAJENG"
+  },
+  {
+    "id": "7306021002",
+    "district_id": "730602",
+    "name": "LIMBUNG"
+  },
+  {
+    "id": "7306021017",
+    "district_id": "730602",
+    "name": "TUBAJENG"
+  },
+  {
+    "id": "7306021018",
+    "district_id": "730602",
+    "name": "MATA ALLO"
+  },
+  {
+    "id": "7306022003",
+    "district_id": "730602",
+    "name": "BONTOSUNGGU"
+  },
+  {
+    "id": "7306022006",
+    "district_id": "730602",
+    "name": "MACCINIBAJI"
+  },
+  {
+    "id": "7306022007",
+    "district_id": "730602",
+    "name": "PA'BENTENGANG"
+  },
+  {
+    "id": "7306022009",
+    "district_id": "730602",
+    "name": "TANGKEBAJENG"
+  },
+  {
+    "id": "7306022010",
+    "district_id": "730602",
+    "name": "MARADEKAYA"
+  },
+  {
+    "id": "7306022011",
+    "district_id": "730602",
+    "name": "PANCIRO"
+  },
+  {
+    "id": "7306022012",
+    "district_id": "730602",
+    "name": "LEMPANGANG"
+  },
+  {
+    "id": "7306022013",
+    "district_id": "730602",
+    "name": "BONE"
+  },
+  {
+    "id": "7306022015",
+    "district_id": "730602",
+    "name": "PANNYANGKALANG"
+  },
+  {
+    "id": "7306022019",
+    "district_id": "730602",
+    "name": "PARAIKATTE"
+  }
+]

@@ -1,1 +1,147 @@
-[{"id": "5308011001", "district_id": "530801", "name": "NDORUREA"}, {"id": "5308012002", "district_id": "530801", "name": "ONDOREA"}, {"id": "5308012003", "district_id": "530801", "name": "WATUMITE"}, {"id": "5308012004", "district_id": "530801", "name": "TENDAREA"}, {"id": "5308012005", "district_id": "530801", "name": "KERIREA"}, {"id": "5308012006", "district_id": "530801", "name": "TENDAMBEPA"}, {"id": "5308012007", "district_id": "530801", "name": "ZOZOZEA"}, {"id": "5308012008", "district_id": "530801", "name": "RAPOWAWO"}, {"id": "5308012009", "district_id": "530801", "name": "NGGOREA"}, {"id": "5308012010", "district_id": "530801", "name": "RAPORENDU"}, {"id": "5308012011", "district_id": "530801", "name": "BHERAMARI"}, {"id": "5308012012", "district_id": "530801", "name": "TIWEREA"}, {"id": "5308012013", "district_id": "530801", "name": "SANGGARHORHO"}, {"id": "5308012014", "district_id": "530801", "name": "NDETUREA"}, {"id": "5308012015", "district_id": "530801", "name": "NDORUREA I"}, {"id": "5308012016", "district_id": "530801", "name": "PENGGAJAWA"}, {"id": "5308012017", "district_id": "530801", "name": "JEGHARANGGA"}, {"id": "5308012018", "district_id": "530801", "name": "ONDOREA BARAT"}, {"id": "5308012019", "district_id": "530801", "name": "ROMAREA"}, {"id": "5308012020", "district_id": "530801", "name": "TIMBARIA"}, {"id": "5308012021", "district_id": "530801", "name": "MBOBHENGA"}, {"id": "5308012022", "district_id": "530801", "name": "MALAWARU"}, {"id": "5308012023", "district_id": "530801", "name": "ANARAJA"}, {"id": "5308012024", "district_id": "530801", "name": "KEKANDERE"}, {"id": "5308012025", "district_id": "530801", "name": "TANAZOZO"}, {"id": "5308012026", "district_id": "530801", "name": "TENDA ONDO"}, {"id": "5308012027", "district_id": "530801", "name": "JEMBUREA"}, {"id": "5308012028", "district_id": "530801", "name": "EMBUZOZO"}, {"id": "5308012029", "district_id": "530801", "name": "UZUZOZO"}]
+[
+  {
+    "id": "5308011001",
+    "district_id": "530801",
+    "name": "NDORUREA"
+  },
+  {
+    "id": "5308012002",
+    "district_id": "530801",
+    "name": "ONDOREA"
+  },
+  {
+    "id": "5308012003",
+    "district_id": "530801",
+    "name": "WATUMITE"
+  },
+  {
+    "id": "5308012004",
+    "district_id": "530801",
+    "name": "TENDAREA"
+  },
+  {
+    "id": "5308012005",
+    "district_id": "530801",
+    "name": "KERIREA"
+  },
+  {
+    "id": "5308012006",
+    "district_id": "530801",
+    "name": "TENDAMBEPA"
+  },
+  {
+    "id": "5308012007",
+    "district_id": "530801",
+    "name": "ZOZOZEA"
+  },
+  {
+    "id": "5308012008",
+    "district_id": "530801",
+    "name": "RAPOWAWO"
+  },
+  {
+    "id": "5308012009",
+    "district_id": "530801",
+    "name": "NGGOREA"
+  },
+  {
+    "id": "5308012010",
+    "district_id": "530801",
+    "name": "RAPORENDU"
+  },
+  {
+    "id": "5308012011",
+    "district_id": "530801",
+    "name": "BHERAMARI"
+  },
+  {
+    "id": "5308012012",
+    "district_id": "530801",
+    "name": "TIWEREA"
+  },
+  {
+    "id": "5308012013",
+    "district_id": "530801",
+    "name": "SANGGARHORHO"
+  },
+  {
+    "id": "5308012014",
+    "district_id": "530801",
+    "name": "NDETUREA"
+  },
+  {
+    "id": "5308012015",
+    "district_id": "530801",
+    "name": "NDORUREA I"
+  },
+  {
+    "id": "5308012016",
+    "district_id": "530801",
+    "name": "PENGGAJAWA"
+  },
+  {
+    "id": "5308012017",
+    "district_id": "530801",
+    "name": "JEGHARANGGA"
+  },
+  {
+    "id": "5308012018",
+    "district_id": "530801",
+    "name": "ONDOREA BARAT"
+  },
+  {
+    "id": "5308012019",
+    "district_id": "530801",
+    "name": "ROMAREA"
+  },
+  {
+    "id": "5308012020",
+    "district_id": "530801",
+    "name": "TIMBARIA"
+  },
+  {
+    "id": "5308012021",
+    "district_id": "530801",
+    "name": "MBOBHENGA"
+  },
+  {
+    "id": "5308012022",
+    "district_id": "530801",
+    "name": "MALAWARU"
+  },
+  {
+    "id": "5308012023",
+    "district_id": "530801",
+    "name": "ANARAJA"
+  },
+  {
+    "id": "5308012024",
+    "district_id": "530801",
+    "name": "KEKANDERE"
+  },
+  {
+    "id": "5308012025",
+    "district_id": "530801",
+    "name": "TANAZOZO"
+  },
+  {
+    "id": "5308012026",
+    "district_id": "530801",
+    "name": "TENDA ONDO"
+  },
+  {
+    "id": "5308012027",
+    "district_id": "530801",
+    "name": "JEMBUREA"
+  },
+  {
+    "id": "5308012028",
+    "district_id": "530801",
+    "name": "EMBUZOZO"
+  },
+  {
+    "id": "5308012029",
+    "district_id": "530801",
+    "name": "UZUZOZO"
+  }
+]

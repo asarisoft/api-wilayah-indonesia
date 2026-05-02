@@ -1,1 +1,52 @@
-[{"id": "9202332001", "district_id": "920233", "name": "SIBUNI"}, {"id": "9202332002", "district_id": "920233", "name": "KALI MERAH"}, {"id": "9202332003", "district_id": "920233", "name": "PRAFI BARAT"}, {"id": "9202332004", "district_id": "920233", "name": "MACUAN"}, {"id": "9202332005", "district_id": "920233", "name": "MEIFORGA"}, {"id": "9202332006", "district_id": "920233", "name": "MUARA PRAFI"}, {"id": "9202332007", "district_id": "920233", "name": "MAKWAN"}, {"id": "9202332008", "district_id": "920233", "name": "UREY"}, {"id": "9202332009", "district_id": "920233", "name": "MANTEDI"}, {"id": "9202332010", "district_id": "920233", "name": "ASKA"}]
+[
+  {
+    "id": "9202332001",
+    "district_id": "920233",
+    "name": "SIBUNI"
+  },
+  {
+    "id": "9202332002",
+    "district_id": "920233",
+    "name": "KALI MERAH"
+  },
+  {
+    "id": "9202332003",
+    "district_id": "920233",
+    "name": "PRAFI BARAT"
+  },
+  {
+    "id": "9202332004",
+    "district_id": "920233",
+    "name": "MACUAN"
+  },
+  {
+    "id": "9202332005",
+    "district_id": "920233",
+    "name": "MEIFORGA"
+  },
+  {
+    "id": "9202332006",
+    "district_id": "920233",
+    "name": "MUARA PRAFI"
+  },
+  {
+    "id": "9202332007",
+    "district_id": "920233",
+    "name": "MAKWAN"
+  },
+  {
+    "id": "9202332008",
+    "district_id": "920233",
+    "name": "UREY"
+  },
+  {
+    "id": "9202332009",
+    "district_id": "920233",
+    "name": "MANTEDI"
+  },
+  {
+    "id": "9202332010",
+    "district_id": "920233",
+    "name": "ASKA"
+  }
+]

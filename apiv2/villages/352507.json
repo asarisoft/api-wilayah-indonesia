@@ -1,1 +1,67 @@
-[{"id": "3525072001", "district_id": "352507", "name": "PANGKAHKULON"}, {"id": "3525072002", "district_id": "352507", "name": "CANGAAN"}, {"id": "3525072003", "district_id": "352507", "name": "NGEMBOH"}, {"id": "3525072004", "district_id": "352507", "name": "SEKAPUK"}, {"id": "3525072005", "district_id": "352507", "name": "GOSARI"}, {"id": "3525072006", "district_id": "352507", "name": "BANYUURIP"}, {"id": "3525072007", "district_id": "352507", "name": "KEBONAGUNG"}, {"id": "3525072008", "district_id": "352507", "name": "PANGKAHWETAN"}, {"id": "3525072009", "district_id": "352507", "name": "BOLO"}, {"id": "3525072010", "district_id": "352507", "name": "GLATIK"}, {"id": "3525072011", "district_id": "352507", "name": "KARANGREJO"}, {"id": "3525072012", "district_id": "352507", "name": "KETAPANGLOR"}, {"id": "3525072013", "district_id": "352507", "name": "TANJANGAWAN"}]
+[
+  {
+    "id": "3525072001",
+    "district_id": "352507",
+    "name": "PANGKAHKULON"
+  },
+  {
+    "id": "3525072002",
+    "district_id": "352507",
+    "name": "CANGAAN"
+  },
+  {
+    "id": "3525072003",
+    "district_id": "352507",
+    "name": "NGEMBOH"
+  },
+  {
+    "id": "3525072004",
+    "district_id": "352507",
+    "name": "SEKAPUK"
+  },
+  {
+    "id": "3525072005",
+    "district_id": "352507",
+    "name": "GOSARI"
+  },
+  {
+    "id": "3525072006",
+    "district_id": "352507",
+    "name": "BANYUURIP"
+  },
+  {
+    "id": "3525072007",
+    "district_id": "352507",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3525072008",
+    "district_id": "352507",
+    "name": "PANGKAHWETAN"
+  },
+  {
+    "id": "3525072009",
+    "district_id": "352507",
+    "name": "BOLO"
+  },
+  {
+    "id": "3525072010",
+    "district_id": "352507",
+    "name": "GLATIK"
+  },
+  {
+    "id": "3525072011",
+    "district_id": "352507",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3525072012",
+    "district_id": "352507",
+    "name": "KETAPANGLOR"
+  },
+  {
+    "id": "3525072013",
+    "district_id": "352507",
+    "name": "TANJANGAWAN"
+  }
+]

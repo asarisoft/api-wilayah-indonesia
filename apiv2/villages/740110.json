@@ -1,1 +1,72 @@
-[{"id": "7401101001", "district_id": "740110", "name": "WOLO"}, {"id": "7401101007", "district_id": "740110", "name": "ULU WOLO"}, {"id": "7401102002", "district_id": "740110", "name": "DONGGALA"}, {"id": "7401102003", "district_id": "740110", "name": "ULULAPAO-PAO"}, {"id": "7401102008", "district_id": "740110", "name": "TOLOWE PONREWARU"}, {"id": "7401102009", "district_id": "740110", "name": "LAPAO-PAO"}, {"id": "7401102010", "district_id": "740110", "name": "LANGGOMALI"}, {"id": "7401102011", "district_id": "740110", "name": "LALONAHA"}, {"id": "7401102012", "district_id": "740110", "name": "LANA"}, {"id": "7401102015", "district_id": "740110", "name": "LALONGGOPI"}, {"id": "7401102016", "district_id": "740110", "name": "MUARA LAPAO-PAO"}, {"id": "7401102018", "district_id": "740110", "name": "SAMAENRE"}, {"id": "7401102019", "district_id": "740110", "name": "IWOIMOPURO"}, {"id": "7401102021", "district_id": "740110", "name": "ULU RINA"}]
+[
+  {
+    "id": "7401101001",
+    "district_id": "740110",
+    "name": "WOLO"
+  },
+  {
+    "id": "7401101007",
+    "district_id": "740110",
+    "name": "ULU WOLO"
+  },
+  {
+    "id": "7401102002",
+    "district_id": "740110",
+    "name": "DONGGALA"
+  },
+  {
+    "id": "7401102003",
+    "district_id": "740110",
+    "name": "ULULAPAO-PAO"
+  },
+  {
+    "id": "7401102008",
+    "district_id": "740110",
+    "name": "TOLOWE PONREWARU"
+  },
+  {
+    "id": "7401102009",
+    "district_id": "740110",
+    "name": "LAPAO-PAO"
+  },
+  {
+    "id": "7401102010",
+    "district_id": "740110",
+    "name": "LANGGOMALI"
+  },
+  {
+    "id": "7401102011",
+    "district_id": "740110",
+    "name": "LALONAHA"
+  },
+  {
+    "id": "7401102012",
+    "district_id": "740110",
+    "name": "LANA"
+  },
+  {
+    "id": "7401102015",
+    "district_id": "740110",
+    "name": "LALONGGOPI"
+  },
+  {
+    "id": "7401102016",
+    "district_id": "740110",
+    "name": "MUARA LAPAO-PAO"
+  },
+  {
+    "id": "7401102018",
+    "district_id": "740110",
+    "name": "SAMAENRE"
+  },
+  {
+    "id": "7401102019",
+    "district_id": "740110",
+    "name": "IWOIMOPURO"
+  },
+  {
+    "id": "7401102021",
+    "district_id": "740110",
+    "name": "ULU RINA"
+  }
+]

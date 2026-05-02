@@ -1,1 +1,72 @@
-[{"id": "3513232001", "district_id": "351323", "name": "SUMBERREJO"}, {"id": "3513232002", "district_id": "351323", "name": "SUMENDI"}, {"id": "3513232003", "district_id": "351323", "name": "BAYEMAN"}, {"id": "3513232004", "district_id": "351323", "name": "DUNGUN"}, {"id": "3513232005", "district_id": "351323", "name": "CURAHDRINGU"}, {"id": "3513232006", "district_id": "351323", "name": "WRINGINANOM"}, {"id": "3513232007", "district_id": "351323", "name": "SUMBERKRAMAT"}, {"id": "3513232008", "district_id": "351323", "name": "TONGAS WETAN"}, {"id": "3513232009", "district_id": "351323", "name": "PAMATAN"}, {"id": "3513232010", "district_id": "351323", "name": "KLAMPOK"}, {"id": "3513232011", "district_id": "351323", "name": "TONGAS KULON"}, {"id": "3513232012", "district_id": "351323", "name": "CURAHTULIS"}, {"id": "3513232013", "district_id": "351323", "name": "TAMBAKREJO"}, {"id": "3513232014", "district_id": "351323", "name": "TANJUNGREJO"}]
+[
+  {
+    "id": "3513232001",
+    "district_id": "351323",
+    "name": "SUMBERREJO"
+  },
+  {
+    "id": "3513232002",
+    "district_id": "351323",
+    "name": "SUMENDI"
+  },
+  {
+    "id": "3513232003",
+    "district_id": "351323",
+    "name": "BAYEMAN"
+  },
+  {
+    "id": "3513232004",
+    "district_id": "351323",
+    "name": "DUNGUN"
+  },
+  {
+    "id": "3513232005",
+    "district_id": "351323",
+    "name": "CURAHDRINGU"
+  },
+  {
+    "id": "3513232006",
+    "district_id": "351323",
+    "name": "WRINGINANOM"
+  },
+  {
+    "id": "3513232007",
+    "district_id": "351323",
+    "name": "SUMBERKRAMAT"
+  },
+  {
+    "id": "3513232008",
+    "district_id": "351323",
+    "name": "TONGAS WETAN"
+  },
+  {
+    "id": "3513232009",
+    "district_id": "351323",
+    "name": "PAMATAN"
+  },
+  {
+    "id": "3513232010",
+    "district_id": "351323",
+    "name": "KLAMPOK"
+  },
+  {
+    "id": "3513232011",
+    "district_id": "351323",
+    "name": "TONGAS KULON"
+  },
+  {
+    "id": "3513232012",
+    "district_id": "351323",
+    "name": "CURAHTULIS"
+  },
+  {
+    "id": "3513232013",
+    "district_id": "351323",
+    "name": "TAMBAKREJO"
+  },
+  {
+    "id": "3513232014",
+    "district_id": "351323",
+    "name": "TANJUNGREJO"
+  }
+]

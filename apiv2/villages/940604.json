@@ -1,1 +1,52 @@
-[{"id": "9406042001", "district_id": "940604", "name": "IDAKEBO"}, {"id": "9406042002", "district_id": "940604", "name": "PUGATADI I"}, {"id": "9406042003", "district_id": "940604", "name": "PUGATADI II"}, {"id": "9406042004", "district_id": "940604", "name": "IKRAR"}, {"id": "9406042005", "district_id": "940604", "name": "OBAYO"}, {"id": "9406042006", "district_id": "940604", "name": "KUYAKAGO"}, {"id": "9406042007", "district_id": "940604", "name": "MOGOU"}, {"id": "9406042008", "district_id": "940604", "name": "YAMETADI"}, {"id": "9406042009", "district_id": "940604", "name": "DUNTEK"}, {"id": "9406042010", "district_id": "940604", "name": "EKIMANI"}]
+[
+  {
+    "id": "9406042001",
+    "district_id": "940604",
+    "name": "IDAKEBO"
+  },
+  {
+    "id": "9406042002",
+    "district_id": "940604",
+    "name": "PUGATADI I"
+  },
+  {
+    "id": "9406042003",
+    "district_id": "940604",
+    "name": "PUGATADI II"
+  },
+  {
+    "id": "9406042004",
+    "district_id": "940604",
+    "name": "IKRAR"
+  },
+  {
+    "id": "9406042005",
+    "district_id": "940604",
+    "name": "OBAYO"
+  },
+  {
+    "id": "9406042006",
+    "district_id": "940604",
+    "name": "KUYAKAGO"
+  },
+  {
+    "id": "9406042007",
+    "district_id": "940604",
+    "name": "MOGOU"
+  },
+  {
+    "id": "9406042008",
+    "district_id": "940604",
+    "name": "YAMETADI"
+  },
+  {
+    "id": "9406042009",
+    "district_id": "940604",
+    "name": "DUNTEK"
+  },
+  {
+    "id": "9406042010",
+    "district_id": "940604",
+    "name": "EKIMANI"
+  }
+]

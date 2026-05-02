@@ -1,1 +1,82 @@
-[{"id": "760401", "regency_id": "7604", "name": "TINAMBUNG"}, {"id": "760402", "regency_id": "7604", "name": "CAMPALAGIAN"}, {"id": "760403", "regency_id": "7604", "name": "WONOMULYO"}, {"id": "760404", "regency_id": "7604", "name": "POLEWALI"}, {"id": "760405", "regency_id": "7604", "name": "TUTAR"}, {"id": "760406", "regency_id": "7604", "name": "BINUANG"}, {"id": "760407", "regency_id": "7604", "name": "TAPANGO"}, {"id": "760408", "regency_id": "7604", "name": "MAPILLI"}, {"id": "760409", "regency_id": "7604", "name": "MATANGNGA"}, {"id": "760410", "regency_id": "7604", "name": "LUYO"}, {"id": "760411", "regency_id": "7604", "name": "LIMBORO"}, {"id": "760412", "regency_id": "7604", "name": "BALANIPA"}, {"id": "760413", "regency_id": "7604", "name": "ANREAPI"}, {"id": "760414", "regency_id": "7604", "name": "MATAKALI"}, {"id": "760415", "regency_id": "7604", "name": "ALLU"}, {"id": "760416", "regency_id": "7604", "name": "BULO"}]
+[
+  {
+    "id": "760401",
+    "regency_id": "7604",
+    "name": "TINAMBUNG"
+  },
+  {
+    "id": "760402",
+    "regency_id": "7604",
+    "name": "CAMPALAGIAN"
+  },
+  {
+    "id": "760403",
+    "regency_id": "7604",
+    "name": "WONOMULYO"
+  },
+  {
+    "id": "760404",
+    "regency_id": "7604",
+    "name": "POLEWALI"
+  },
+  {
+    "id": "760405",
+    "regency_id": "7604",
+    "name": "TUTAR"
+  },
+  {
+    "id": "760406",
+    "regency_id": "7604",
+    "name": "BINUANG"
+  },
+  {
+    "id": "760407",
+    "regency_id": "7604",
+    "name": "TAPANGO"
+  },
+  {
+    "id": "760408",
+    "regency_id": "7604",
+    "name": "MAPILLI"
+  },
+  {
+    "id": "760409",
+    "regency_id": "7604",
+    "name": "MATANGNGA"
+  },
+  {
+    "id": "760410",
+    "regency_id": "7604",
+    "name": "LUYO"
+  },
+  {
+    "id": "760411",
+    "regency_id": "7604",
+    "name": "LIMBORO"
+  },
+  {
+    "id": "760412",
+    "regency_id": "7604",
+    "name": "BALANIPA"
+  },
+  {
+    "id": "760413",
+    "regency_id": "7604",
+    "name": "ANREAPI"
+  },
+  {
+    "id": "760414",
+    "regency_id": "7604",
+    "name": "MATAKALI"
+  },
+  {
+    "id": "760415",
+    "regency_id": "7604",
+    "name": "ALLU"
+  },
+  {
+    "id": "760416",
+    "regency_id": "7604",
+    "name": "BULO"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "3506032001", "district_id": "350603", "name": "SETONOREJO"}, {"id": "3506032002", "district_id": "350603", "name": "PELAS"}, {"id": "3506032003", "district_id": "350603", "name": "BLEBER"}, {"id": "3506032004", "district_id": "350603", "name": "BUTUH"}, {"id": "3506032005", "district_id": "350603", "name": "JABANG"}, {"id": "3506032006", "district_id": "350603", "name": "MOJOSARI"}, {"id": "3506032007", "district_id": "350603", "name": "REJOMULYO"}, {"id": "3506032008", "district_id": "350603", "name": "KARANGTALUN"}, {"id": "3506032009", "district_id": "350603", "name": "NYAWANGAN"}, {"id": "3506032010", "district_id": "350603", "name": "PURWODADI"}, {"id": "3506032011", "district_id": "350603", "name": "KRAS"}, {"id": "3506032012", "district_id": "350603", "name": "BENDOSARI"}, {"id": "3506032013", "district_id": "350603", "name": "KANIGORO"}, {"id": "3506032014", "district_id": "350603", "name": "KRANDANG"}, {"id": "3506032015", "district_id": "350603", "name": "BANJARANYAR"}, {"id": "3506032016", "district_id": "350603", "name": "JAMBEAN"}]
+[
+  {
+    "id": "3506032001",
+    "district_id": "350603",
+    "name": "SETONOREJO"
+  },
+  {
+    "id": "3506032002",
+    "district_id": "350603",
+    "name": "PELAS"
+  },
+  {
+    "id": "3506032003",
+    "district_id": "350603",
+    "name": "BLEBER"
+  },
+  {
+    "id": "3506032004",
+    "district_id": "350603",
+    "name": "BUTUH"
+  },
+  {
+    "id": "3506032005",
+    "district_id": "350603",
+    "name": "JABANG"
+  },
+  {
+    "id": "3506032006",
+    "district_id": "350603",
+    "name": "MOJOSARI"
+  },
+  {
+    "id": "3506032007",
+    "district_id": "350603",
+    "name": "REJOMULYO"
+  },
+  {
+    "id": "3506032008",
+    "district_id": "350603",
+    "name": "KARANGTALUN"
+  },
+  {
+    "id": "3506032009",
+    "district_id": "350603",
+    "name": "NYAWANGAN"
+  },
+  {
+    "id": "3506032010",
+    "district_id": "350603",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "3506032011",
+    "district_id": "350603",
+    "name": "KRAS"
+  },
+  {
+    "id": "3506032012",
+    "district_id": "350603",
+    "name": "BENDOSARI"
+  },
+  {
+    "id": "3506032013",
+    "district_id": "350603",
+    "name": "KANIGORO"
+  },
+  {
+    "id": "3506032014",
+    "district_id": "350603",
+    "name": "KRANDANG"
+  },
+  {
+    "id": "3506032015",
+    "district_id": "350603",
+    "name": "BANJARANYAR"
+  },
+  {
+    "id": "3506032016",
+    "district_id": "350603",
+    "name": "JAMBEAN"
+  }
+]

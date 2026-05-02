@@ -1,1 +1,92 @@
-[{"id": "3210062001", "district_id": "321006", "name": "CIHAUR"}, {"id": "3210062002", "district_id": "321006", "name": "WANAHAYU"}, {"id": "3210062003", "district_id": "321006", "name": "CENGAL"}, {"id": "3210062004", "district_id": "321006", "name": "ANGGRAWATI"}, {"id": "3210062005", "district_id": "321006", "name": "CIPICUNG"}, {"id": "3210062006", "district_id": "321006", "name": "MALONGPONG"}, {"id": "3210062007", "district_id": "321006", "name": "TEGALSARI"}, {"id": "3210062008", "district_id": "321006", "name": "MAJA UTARA"}, {"id": "3210062009", "district_id": "321006", "name": "PASANGGRAHAN"}, {"id": "3210062010", "district_id": "321006", "name": "CIEURIH"}, {"id": "3210062011", "district_id": "321006", "name": "KERTABASUKI"}, {"id": "3210062012", "district_id": "321006", "name": "SINDANGKERTA"}, {"id": "3210062013", "district_id": "321006", "name": "BANJARAN"}, {"id": "3210062014", "district_id": "321006", "name": "PANIIS"}, {"id": "3210062015", "district_id": "321006", "name": "CICALUNG"}, {"id": "3210062016", "district_id": "321006", "name": "PAGERAJI"}, {"id": "3210062017", "district_id": "321006", "name": "MAJA SELATAN"}, {"id": "3210062018", "district_id": "321006", "name": "NUNUK BARU"}]
+[
+  {
+    "id": "3210062001",
+    "district_id": "321006",
+    "name": "CIHAUR"
+  },
+  {
+    "id": "3210062002",
+    "district_id": "321006",
+    "name": "WANAHAYU"
+  },
+  {
+    "id": "3210062003",
+    "district_id": "321006",
+    "name": "CENGAL"
+  },
+  {
+    "id": "3210062004",
+    "district_id": "321006",
+    "name": "ANGGRAWATI"
+  },
+  {
+    "id": "3210062005",
+    "district_id": "321006",
+    "name": "CIPICUNG"
+  },
+  {
+    "id": "3210062006",
+    "district_id": "321006",
+    "name": "MALONGPONG"
+  },
+  {
+    "id": "3210062007",
+    "district_id": "321006",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3210062008",
+    "district_id": "321006",
+    "name": "MAJA UTARA"
+  },
+  {
+    "id": "3210062009",
+    "district_id": "321006",
+    "name": "PASANGGRAHAN"
+  },
+  {
+    "id": "3210062010",
+    "district_id": "321006",
+    "name": "CIEURIH"
+  },
+  {
+    "id": "3210062011",
+    "district_id": "321006",
+    "name": "KERTABASUKI"
+  },
+  {
+    "id": "3210062012",
+    "district_id": "321006",
+    "name": "SINDANGKERTA"
+  },
+  {
+    "id": "3210062013",
+    "district_id": "321006",
+    "name": "BANJARAN"
+  },
+  {
+    "id": "3210062014",
+    "district_id": "321006",
+    "name": "PANIIS"
+  },
+  {
+    "id": "3210062015",
+    "district_id": "321006",
+    "name": "CICALUNG"
+  },
+  {
+    "id": "3210062016",
+    "district_id": "321006",
+    "name": "PAGERAJI"
+  },
+  {
+    "id": "3210062017",
+    "district_id": "321006",
+    "name": "MAJA SELATAN"
+  },
+  {
+    "id": "3210062018",
+    "district_id": "321006",
+    "name": "NUNUK BARU"
+  }
+]

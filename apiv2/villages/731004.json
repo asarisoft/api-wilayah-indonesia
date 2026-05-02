@@ -1,1 +1,47 @@
-[{"id": "7310041001", "district_id": "731004", "name": "JAGONG"}, {"id": "7310041002", "district_id": "731004", "name": "MAPPASAILE"}, {"id": "7310041003", "district_id": "731004", "name": "PABUNDUKANG"}, {"id": "7310041004", "district_id": "731004", "name": "ANRONG APPAKA"}, {"id": "7310041005", "district_id": "731004", "name": "SIBATUA"}, {"id": "7310041006", "district_id": "731004", "name": "PADOANG DOANGAN"}, {"id": "7310041007", "district_id": "731004", "name": "TUMAMPUA"}, {"id": "7310041008", "district_id": "731004", "name": "TEKOLABBUA"}, {"id": "7310041009", "district_id": "731004", "name": "BONTO PERAK"}]
+[
+  {
+    "id": "7310041001",
+    "district_id": "731004",
+    "name": "JAGONG"
+  },
+  {
+    "id": "7310041002",
+    "district_id": "731004",
+    "name": "MAPPASAILE"
+  },
+  {
+    "id": "7310041003",
+    "district_id": "731004",
+    "name": "PABUNDUKANG"
+  },
+  {
+    "id": "7310041004",
+    "district_id": "731004",
+    "name": "ANRONG APPAKA"
+  },
+  {
+    "id": "7310041005",
+    "district_id": "731004",
+    "name": "SIBATUA"
+  },
+  {
+    "id": "7310041006",
+    "district_id": "731004",
+    "name": "PADOANG DOANGAN"
+  },
+  {
+    "id": "7310041007",
+    "district_id": "731004",
+    "name": "TUMAMPUA"
+  },
+  {
+    "id": "7310041008",
+    "district_id": "731004",
+    "name": "TEKOLABBUA"
+  },
+  {
+    "id": "7310041009",
+    "district_id": "731004",
+    "name": "BONTO PERAK"
+  }
+]

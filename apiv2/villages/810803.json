@@ -1,1 +1,57 @@
-[{"id": "8108032001", "district_id": "810803", "name": "LUANG BARAT"}, {"id": "8108032002", "district_id": "810803", "name": "LUANG TIMUR"}, {"id": "8108032003", "district_id": "810803", "name": "ELO"}, {"id": "8108032004", "district_id": "810803", "name": "RUMKISAR"}, {"id": "8108032005", "district_id": "810803", "name": "LELANG"}, {"id": "8108032006", "district_id": "810803", "name": "MAHALETA"}, {"id": "8108032007", "district_id": "810803", "name": "ROMDARA"}, {"id": "8108032008", "district_id": "810803", "name": "ROTNAMA"}, {"id": "8108032009", "district_id": "810803", "name": "BATUGAJAH"}, {"id": "8108032010", "district_id": "810803", "name": "PUPLIORA"}, {"id": "8108032011", "district_id": "810803", "name": "REGOHA"}]
+[
+  {
+    "id": "8108032001",
+    "district_id": "810803",
+    "name": "LUANG BARAT"
+  },
+  {
+    "id": "8108032002",
+    "district_id": "810803",
+    "name": "LUANG TIMUR"
+  },
+  {
+    "id": "8108032003",
+    "district_id": "810803",
+    "name": "ELO"
+  },
+  {
+    "id": "8108032004",
+    "district_id": "810803",
+    "name": "RUMKISAR"
+  },
+  {
+    "id": "8108032005",
+    "district_id": "810803",
+    "name": "LELANG"
+  },
+  {
+    "id": "8108032006",
+    "district_id": "810803",
+    "name": "MAHALETA"
+  },
+  {
+    "id": "8108032007",
+    "district_id": "810803",
+    "name": "ROMDARA"
+  },
+  {
+    "id": "8108032008",
+    "district_id": "810803",
+    "name": "ROTNAMA"
+  },
+  {
+    "id": "8108032009",
+    "district_id": "810803",
+    "name": "BATUGAJAH"
+  },
+  {
+    "id": "8108032010",
+    "district_id": "810803",
+    "name": "PUPLIORA"
+  },
+  {
+    "id": "8108032011",
+    "district_id": "810803",
+    "name": "REGOHA"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "7409041002", "district_id": "740904", "name": "MOLAWE"}, {"id": "7409042001", "district_id": "740904", "name": "BANDAEHA"}, {"id": "7409042003", "district_id": "740904", "name": "AWILA"}, {"id": "7409042004", "district_id": "740904", "name": "MOWUNDO"}, {"id": "7409042005", "district_id": "740904", "name": "MANDIODO"}, {"id": "7409042006", "district_id": "740904", "name": "TAPUNGGAYA"}, {"id": "7409042007", "district_id": "740904", "name": "MATAIWOI"}, {"id": "7409042008", "district_id": "740904", "name": "AWILA PUNCAK"}, {"id": "7409042009", "district_id": "740904", "name": "TAPUEMEA"}]
+[
+  {
+    "id": "7409041002",
+    "district_id": "740904",
+    "name": "MOLAWE"
+  },
+  {
+    "id": "7409042001",
+    "district_id": "740904",
+    "name": "BANDAEHA"
+  },
+  {
+    "id": "7409042003",
+    "district_id": "740904",
+    "name": "AWILA"
+  },
+  {
+    "id": "7409042004",
+    "district_id": "740904",
+    "name": "MOWUNDO"
+  },
+  {
+    "id": "7409042005",
+    "district_id": "740904",
+    "name": "MANDIODO"
+  },
+  {
+    "id": "7409042006",
+    "district_id": "740904",
+    "name": "TAPUNGGAYA"
+  },
+  {
+    "id": "7409042007",
+    "district_id": "740904",
+    "name": "MATAIWOI"
+  },
+  {
+    "id": "7409042008",
+    "district_id": "740904",
+    "name": "AWILA PUNCAK"
+  },
+  {
+    "id": "7409042009",
+    "district_id": "740904",
+    "name": "TAPUEMEA"
+  }
+]

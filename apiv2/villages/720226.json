@@ -1,1 +1,47 @@
-[{"id": "7202262001", "district_id": "720226", "name": "KOROBONO"}, {"id": "7202262002", "district_id": "720226", "name": "OMPORIWO"}, {"id": "7202262003", "district_id": "720226", "name": "WAYURA"}, {"id": "7202262004", "district_id": "720226", "name": "TOKILO"}, {"id": "7202262005", "district_id": "720226", "name": "TINDOLI"}, {"id": "7202262006", "district_id": "720226", "name": "TOLAMBO"}, {"id": "7202262007", "district_id": "720226", "name": "SINGKONA"}, {"id": "7202262008", "district_id": "720226", "name": "SALINDU"}, {"id": "7202262009", "district_id": "720226", "name": "BARATI"}]
+[
+  {
+    "id": "7202262001",
+    "district_id": "720226",
+    "name": "KOROBONO"
+  },
+  {
+    "id": "7202262002",
+    "district_id": "720226",
+    "name": "OMPORIWO"
+  },
+  {
+    "id": "7202262003",
+    "district_id": "720226",
+    "name": "WAYURA"
+  },
+  {
+    "id": "7202262004",
+    "district_id": "720226",
+    "name": "TOKILO"
+  },
+  {
+    "id": "7202262005",
+    "district_id": "720226",
+    "name": "TINDOLI"
+  },
+  {
+    "id": "7202262006",
+    "district_id": "720226",
+    "name": "TOLAMBO"
+  },
+  {
+    "id": "7202262007",
+    "district_id": "720226",
+    "name": "SINGKONA"
+  },
+  {
+    "id": "7202262008",
+    "district_id": "720226",
+    "name": "SALINDU"
+  },
+  {
+    "id": "7202262009",
+    "district_id": "720226",
+    "name": "BARATI"
+  }
+]

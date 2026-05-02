@@ -1,1 +1,32 @@
-[{"id": "5204232001", "district_id": "520423", "name": "PUNGKIT"}, {"id": "5204232002", "district_id": "520423", "name": "SEBEWE"}, {"id": "5204232003", "district_id": "520423", "name": "PENYARING"}, {"id": "5204232004", "district_id": "520423", "name": "KUKIN"}, {"id": "5204232005", "district_id": "520423", "name": "BARU TAHAN"}, {"id": "5204232006", "district_id": "520423", "name": "SONGKAR"}]
+[
+  {
+    "id": "5204232001",
+    "district_id": "520423",
+    "name": "PUNGKIT"
+  },
+  {
+    "id": "5204232002",
+    "district_id": "520423",
+    "name": "SEBEWE"
+  },
+  {
+    "id": "5204232003",
+    "district_id": "520423",
+    "name": "PENYARING"
+  },
+  {
+    "id": "5204232004",
+    "district_id": "520423",
+    "name": "KUKIN"
+  },
+  {
+    "id": "5204232005",
+    "district_id": "520423",
+    "name": "BARU TAHAN"
+  },
+  {
+    "id": "5204232006",
+    "district_id": "520423",
+    "name": "SONGKAR"
+  }
+]

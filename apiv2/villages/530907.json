@@ -1,1 +1,82 @@
-[{"id": "5309072001", "district_id": "530907", "name": "WAEPANA"}, {"id": "5309072004", "district_id": "530907", "name": "MASUMELI"}, {"id": "5309072005", "district_id": "530907", "name": "PIGA"}, {"id": "5309072006", "district_id": "530907", "name": "LOA"}, {"id": "5309072007", "district_id": "530907", "name": "TARAWAJA"}, {"id": "5309072008", "district_id": "530907", "name": "SESO"}, {"id": "5309072010", "district_id": "530907", "name": "MENGERUDA"}, {"id": "5309072011", "district_id": "530907", "name": "MASU KEDHI"}, {"id": "5309072012", "district_id": "530907", "name": "LIBUNIO"}, {"id": "5309072013", "district_id": "530907", "name": "MELI WARU"}, {"id": "5309072014", "district_id": "530907", "name": "NGABHEO"}, {"id": "5309072016", "district_id": "530907", "name": "BOGOBOA"}, {"id": "5309072017", "district_id": "530907", "name": "PIGA I"}, {"id": "5309072018", "district_id": "530907", "name": "TARAWALI"}, {"id": "5309072019", "district_id": "530907", "name": "WAEPANA I"}, {"id": "5309072020", "district_id": "530907", "name": "LOKAWEKA"}]
+[
+  {
+    "id": "5309072001",
+    "district_id": "530907",
+    "name": "WAEPANA"
+  },
+  {
+    "id": "5309072004",
+    "district_id": "530907",
+    "name": "MASUMELI"
+  },
+  {
+    "id": "5309072005",
+    "district_id": "530907",
+    "name": "PIGA"
+  },
+  {
+    "id": "5309072006",
+    "district_id": "530907",
+    "name": "LOA"
+  },
+  {
+    "id": "5309072007",
+    "district_id": "530907",
+    "name": "TARAWAJA"
+  },
+  {
+    "id": "5309072008",
+    "district_id": "530907",
+    "name": "SESO"
+  },
+  {
+    "id": "5309072010",
+    "district_id": "530907",
+    "name": "MENGERUDA"
+  },
+  {
+    "id": "5309072011",
+    "district_id": "530907",
+    "name": "MASU KEDHI"
+  },
+  {
+    "id": "5309072012",
+    "district_id": "530907",
+    "name": "LIBUNIO"
+  },
+  {
+    "id": "5309072013",
+    "district_id": "530907",
+    "name": "MELI WARU"
+  },
+  {
+    "id": "5309072014",
+    "district_id": "530907",
+    "name": "NGABHEO"
+  },
+  {
+    "id": "5309072016",
+    "district_id": "530907",
+    "name": "BOGOBOA"
+  },
+  {
+    "id": "5309072017",
+    "district_id": "530907",
+    "name": "PIGA I"
+  },
+  {
+    "id": "5309072018",
+    "district_id": "530907",
+    "name": "TARAWALI"
+  },
+  {
+    "id": "5309072019",
+    "district_id": "530907",
+    "name": "WAEPANA I"
+  },
+  {
+    "id": "5309072020",
+    "district_id": "530907",
+    "name": "LOKAWEKA"
+  }
+]

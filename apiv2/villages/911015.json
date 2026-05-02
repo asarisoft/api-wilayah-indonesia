@@ -1,1 +1,27 @@
-[{"id": "9110152001", "district_id": "911015", "name": "GWINJAYA"}, {"id": "9110152002", "district_id": "911015", "name": "TAMAR SARI"}, {"id": "9110152003", "district_id": "911015", "name": "MAWES MUKTI"}, {"id": "9110152004", "district_id": "911015", "name": "MAWESDAY"}, {"id": "9110152005", "district_id": "911015", "name": "KAPITIAU"}]
+[
+  {
+    "id": "9110152001",
+    "district_id": "911015",
+    "name": "GWINJAYA"
+  },
+  {
+    "id": "9110152002",
+    "district_id": "911015",
+    "name": "TAMAR SARI"
+  },
+  {
+    "id": "9110152003",
+    "district_id": "911015",
+    "name": "MAWES MUKTI"
+  },
+  {
+    "id": "9110152004",
+    "district_id": "911015",
+    "name": "MAWESDAY"
+  },
+  {
+    "id": "9110152005",
+    "district_id": "911015",
+    "name": "KAPITIAU"
+  }
+]

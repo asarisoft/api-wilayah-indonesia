@@ -1,1 +1,47 @@
-[{"id": "3601312001", "district_id": "360131", "name": "CIODENG"}, {"id": "3601312002", "district_id": "360131", "name": "PASIRTENJO"}, {"id": "3601312003", "district_id": "360131", "name": "BOJONGMANIK"}, {"id": "3601312004", "district_id": "360131", "name": "CAMPAKAWARNA"}, {"id": "3601312005", "district_id": "360131", "name": "PASIRLOA"}, {"id": "3601312006", "district_id": "360131", "name": "PASIRLANCAR"}, {"id": "3601312007", "district_id": "360131", "name": "SINDANGRESMI"}, {"id": "3601312008", "district_id": "360131", "name": "PASIRDURUNG"}, {"id": "3601312009", "district_id": "360131", "name": "KADUMALATI"}]
+[
+  {
+    "id": "3601312001",
+    "district_id": "360131",
+    "name": "CIODENG"
+  },
+  {
+    "id": "3601312002",
+    "district_id": "360131",
+    "name": "PASIRTENJO"
+  },
+  {
+    "id": "3601312003",
+    "district_id": "360131",
+    "name": "BOJONGMANIK"
+  },
+  {
+    "id": "3601312004",
+    "district_id": "360131",
+    "name": "CAMPAKAWARNA"
+  },
+  {
+    "id": "3601312005",
+    "district_id": "360131",
+    "name": "PASIRLOA"
+  },
+  {
+    "id": "3601312006",
+    "district_id": "360131",
+    "name": "PASIRLANCAR"
+  },
+  {
+    "id": "3601312007",
+    "district_id": "360131",
+    "name": "SINDANGRESMI"
+  },
+  {
+    "id": "3601312008",
+    "district_id": "360131",
+    "name": "PASIRDURUNG"
+  },
+  {
+    "id": "3601312009",
+    "district_id": "360131",
+    "name": "KADUMALATI"
+  }
+]

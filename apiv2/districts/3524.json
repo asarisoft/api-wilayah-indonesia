@@ -1,1 +1,137 @@
-[{"id": "352401", "regency_id": "3524", "name": "SUKORAME"}, {"id": "352402", "regency_id": "3524", "name": "BLULUK"}, {"id": "352403", "regency_id": "3524", "name": "MODO"}, {"id": "352404", "regency_id": "3524", "name": "NGIMBANG"}, {"id": "352405", "regency_id": "3524", "name": "BABAT"}, {"id": "352406", "regency_id": "3524", "name": "KEDUNGPRING"}, {"id": "352407", "regency_id": "3524", "name": "BRONDONG"}, {"id": "352408", "regency_id": "3524", "name": "LAREN"}, {"id": "352409", "regency_id": "3524", "name": "SEKARAN"}, {"id": "352410", "regency_id": "3524", "name": "MADURAN"}, {"id": "352411", "regency_id": "3524", "name": "SAMBENG"}, {"id": "352412", "regency_id": "3524", "name": "SUGIO"}, {"id": "352413", "regency_id": "3524", "name": "PUCUK"}, {"id": "352414", "regency_id": "3524", "name": "PACIRAN"}, {"id": "352415", "regency_id": "3524", "name": "SOLOKURO"}, {"id": "352416", "regency_id": "3524", "name": "MANTUP"}, {"id": "352417", "regency_id": "3524", "name": "SUKODADI"}, {"id": "352418", "regency_id": "3524", "name": "KARANGGENENG"}, {"id": "352419", "regency_id": "3524", "name": "KEMBANGBAHU"}, {"id": "352420", "regency_id": "3524", "name": "KALITENGAH"}, {"id": "352421", "regency_id": "3524", "name": "TURI"}, {"id": "352422", "regency_id": "3524", "name": "LAMONGAN"}, {"id": "352423", "regency_id": "3524", "name": "TIKUNG"}, {"id": "352424", "regency_id": "3524", "name": "KARANGBINANGUN"}, {"id": "352425", "regency_id": "3524", "name": "DEKET"}, {"id": "352426", "regency_id": "3524", "name": "GLAGAH"}, {"id": "352427", "regency_id": "3524", "name": "SARIREJO"}]
+[
+  {
+    "id": "352401",
+    "regency_id": "3524",
+    "name": "SUKORAME"
+  },
+  {
+    "id": "352402",
+    "regency_id": "3524",
+    "name": "BLULUK"
+  },
+  {
+    "id": "352403",
+    "regency_id": "3524",
+    "name": "MODO"
+  },
+  {
+    "id": "352404",
+    "regency_id": "3524",
+    "name": "NGIMBANG"
+  },
+  {
+    "id": "352405",
+    "regency_id": "3524",
+    "name": "BABAT"
+  },
+  {
+    "id": "352406",
+    "regency_id": "3524",
+    "name": "KEDUNGPRING"
+  },
+  {
+    "id": "352407",
+    "regency_id": "3524",
+    "name": "BRONDONG"
+  },
+  {
+    "id": "352408",
+    "regency_id": "3524",
+    "name": "LAREN"
+  },
+  {
+    "id": "352409",
+    "regency_id": "3524",
+    "name": "SEKARAN"
+  },
+  {
+    "id": "352410",
+    "regency_id": "3524",
+    "name": "MADURAN"
+  },
+  {
+    "id": "352411",
+    "regency_id": "3524",
+    "name": "SAMBENG"
+  },
+  {
+    "id": "352412",
+    "regency_id": "3524",
+    "name": "SUGIO"
+  },
+  {
+    "id": "352413",
+    "regency_id": "3524",
+    "name": "PUCUK"
+  },
+  {
+    "id": "352414",
+    "regency_id": "3524",
+    "name": "PACIRAN"
+  },
+  {
+    "id": "352415",
+    "regency_id": "3524",
+    "name": "SOLOKURO"
+  },
+  {
+    "id": "352416",
+    "regency_id": "3524",
+    "name": "MANTUP"
+  },
+  {
+    "id": "352417",
+    "regency_id": "3524",
+    "name": "SUKODADI"
+  },
+  {
+    "id": "352418",
+    "regency_id": "3524",
+    "name": "KARANGGENENG"
+  },
+  {
+    "id": "352419",
+    "regency_id": "3524",
+    "name": "KEMBANGBAHU"
+  },
+  {
+    "id": "352420",
+    "regency_id": "3524",
+    "name": "KALITENGAH"
+  },
+  {
+    "id": "352421",
+    "regency_id": "3524",
+    "name": "TURI"
+  },
+  {
+    "id": "352422",
+    "regency_id": "3524",
+    "name": "LAMONGAN"
+  },
+  {
+    "id": "352423",
+    "regency_id": "3524",
+    "name": "TIKUNG"
+  },
+  {
+    "id": "352424",
+    "regency_id": "3524",
+    "name": "KARANGBINANGUN"
+  },
+  {
+    "id": "352425",
+    "regency_id": "3524",
+    "name": "DEKET"
+  },
+  {
+    "id": "352426",
+    "regency_id": "3524",
+    "name": "GLAGAH"
+  },
+  {
+    "id": "352427",
+    "regency_id": "3524",
+    "name": "SARIREJO"
+  }
+]

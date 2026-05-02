@@ -1,1 +1,62 @@
-[{"id": "621001", "regency_id": "6210", "name": "SEPANG"}, {"id": "621002", "regency_id": "6210", "name": "KURUN"}, {"id": "621003", "regency_id": "6210", "name": "TEWAH"}, {"id": "621004", "regency_id": "6210", "name": "KAHAYAN HULU UTARA"}, {"id": "621005", "regency_id": "6210", "name": "RUNGAN"}, {"id": "621006", "regency_id": "6210", "name": "MANUHING"}, {"id": "621007", "regency_id": "6210", "name": "MIHING RAYA"}, {"id": "621008", "regency_id": "6210", "name": "DAMANG BATU"}, {"id": "621009", "regency_id": "6210", "name": "MIRI MANASA"}, {"id": "621010", "regency_id": "6210", "name": "RUNGAN HULU"}, {"id": "621011", "regency_id": "6210", "name": "MANUHING RAYA"}, {"id": "621012", "regency_id": "6210", "name": "RUNGAN BARAT"}]
+[
+  {
+    "id": "621001",
+    "regency_id": "6210",
+    "name": "SEPANG"
+  },
+  {
+    "id": "621002",
+    "regency_id": "6210",
+    "name": "KURUN"
+  },
+  {
+    "id": "621003",
+    "regency_id": "6210",
+    "name": "TEWAH"
+  },
+  {
+    "id": "621004",
+    "regency_id": "6210",
+    "name": "KAHAYAN HULU UTARA"
+  },
+  {
+    "id": "621005",
+    "regency_id": "6210",
+    "name": "RUNGAN"
+  },
+  {
+    "id": "621006",
+    "regency_id": "6210",
+    "name": "MANUHING"
+  },
+  {
+    "id": "621007",
+    "regency_id": "6210",
+    "name": "MIHING RAYA"
+  },
+  {
+    "id": "621008",
+    "regency_id": "6210",
+    "name": "DAMANG BATU"
+  },
+  {
+    "id": "621009",
+    "regency_id": "6210",
+    "name": "MIRI MANASA"
+  },
+  {
+    "id": "621010",
+    "regency_id": "6210",
+    "name": "RUNGAN HULU"
+  },
+  {
+    "id": "621011",
+    "regency_id": "6210",
+    "name": "MANUHING RAYA"
+  },
+  {
+    "id": "621012",
+    "regency_id": "6210",
+    "name": "RUNGAN BARAT"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "6101172001", "district_id": "610117", "name": "TANGARAN"}, {"id": "6101172002", "district_id": "610117", "name": "SIMPANG EMPAT"}, {"id": "6101172003", "district_id": "610117", "name": "MERABUAN"}, {"id": "6101172004", "district_id": "610117", "name": "SEMATA"}, {"id": "6101172005", "district_id": "610117", "name": "MERPATI"}, {"id": "6101172006", "district_id": "610117", "name": "PANCUR"}, {"id": "6101172007", "district_id": "610117", "name": "ARUNG PARAK"}, {"id": "6101172008", "district_id": "610117", "name": "ARUNG MEDANG"}]
+[
+  {
+    "id": "6101172001",
+    "district_id": "610117",
+    "name": "TANGARAN"
+  },
+  {
+    "id": "6101172002",
+    "district_id": "610117",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "6101172003",
+    "district_id": "610117",
+    "name": "MERABUAN"
+  },
+  {
+    "id": "6101172004",
+    "district_id": "610117",
+    "name": "SEMATA"
+  },
+  {
+    "id": "6101172005",
+    "district_id": "610117",
+    "name": "MERPATI"
+  },
+  {
+    "id": "6101172006",
+    "district_id": "610117",
+    "name": "PANCUR"
+  },
+  {
+    "id": "6101172007",
+    "district_id": "610117",
+    "name": "ARUNG PARAK"
+  },
+  {
+    "id": "6101172008",
+    "district_id": "610117",
+    "name": "ARUNG MEDANG"
+  }
+]

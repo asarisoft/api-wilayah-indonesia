@@ -1,1 +1,87 @@
-[{"id": "3210042001", "district_id": "321004", "name": "LAMPUYANG"}, {"id": "3210042002", "district_id": "321004", "name": "CIBEUREUM"}, {"id": "3210042003", "district_id": "321004", "name": "CIKEUSAL"}, {"id": "3210042004", "district_id": "321004", "name": "JATIPAMOR"}, {"id": "3210042005", "district_id": "321004", "name": "ARGASARI"}, {"id": "3210042006", "district_id": "321004", "name": "CICANIR"}, {"id": "3210042007", "district_id": "321004", "name": "CAMPAGA"}, {"id": "3210042008", "district_id": "321004", "name": "SUKAPERNA"}, {"id": "3210042009", "district_id": "321004", "name": "TALAGAKULON"}, {"id": "3210042010", "district_id": "321004", "name": "TALAGAWETAN"}, {"id": "3210042011", "district_id": "321004", "name": "GANEAS"}, {"id": "3210042012", "district_id": "321004", "name": "SALADO"}, {"id": "3210042013", "district_id": "321004", "name": "GUNUNGMANIK"}, {"id": "3210042014", "district_id": "321004", "name": "KERTARAHAYU"}, {"id": "3210042015", "district_id": "321004", "name": "MEKARRAHARJA"}, {"id": "3210042016", "district_id": "321004", "name": "MARGAMUKTI"}, {"id": "3210042017", "district_id": "321004", "name": "MEKARHURIP"}]
+[
+  {
+    "id": "3210042001",
+    "district_id": "321004",
+    "name": "LAMPUYANG"
+  },
+  {
+    "id": "3210042002",
+    "district_id": "321004",
+    "name": "CIBEUREUM"
+  },
+  {
+    "id": "3210042003",
+    "district_id": "321004",
+    "name": "CIKEUSAL"
+  },
+  {
+    "id": "3210042004",
+    "district_id": "321004",
+    "name": "JATIPAMOR"
+  },
+  {
+    "id": "3210042005",
+    "district_id": "321004",
+    "name": "ARGASARI"
+  },
+  {
+    "id": "3210042006",
+    "district_id": "321004",
+    "name": "CICANIR"
+  },
+  {
+    "id": "3210042007",
+    "district_id": "321004",
+    "name": "CAMPAGA"
+  },
+  {
+    "id": "3210042008",
+    "district_id": "321004",
+    "name": "SUKAPERNA"
+  },
+  {
+    "id": "3210042009",
+    "district_id": "321004",
+    "name": "TALAGAKULON"
+  },
+  {
+    "id": "3210042010",
+    "district_id": "321004",
+    "name": "TALAGAWETAN"
+  },
+  {
+    "id": "3210042011",
+    "district_id": "321004",
+    "name": "GANEAS"
+  },
+  {
+    "id": "3210042012",
+    "district_id": "321004",
+    "name": "SALADO"
+  },
+  {
+    "id": "3210042013",
+    "district_id": "321004",
+    "name": "GUNUNGMANIK"
+  },
+  {
+    "id": "3210042014",
+    "district_id": "321004",
+    "name": "KERTARAHAYU"
+  },
+  {
+    "id": "3210042015",
+    "district_id": "321004",
+    "name": "MEKARRAHARJA"
+  },
+  {
+    "id": "3210042016",
+    "district_id": "321004",
+    "name": "MARGAMUKTI"
+  },
+  {
+    "id": "3210042017",
+    "district_id": "321004",
+    "name": "MEKARHURIP"
+  }
+]

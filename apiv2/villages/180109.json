@@ -1,1 +1,112 @@
-[{"id": "1801092001", "district_id": "180109", "name": "KEKILING"}, {"id": "1801092002", "district_id": "180109", "name": "BELAMBANGAN"}, {"id": "1801092003", "district_id": "180109", "name": "RAWI"}, {"id": "1801092004", "district_id": "180109", "name": "PADAN"}, {"id": "1801092005", "district_id": "180109", "name": "KURIPAN"}, {"id": "1801092006", "district_id": "180109", "name": "TAMAN BARU"}, {"id": "1801092007", "district_id": "180109", "name": "KELAU"}, {"id": "1801092008", "district_id": "180109", "name": "RUANG TENGAH"}, {"id": "1801092009", "district_id": "180109", "name": "PASURUAN"}, {"id": "1801092010", "district_id": "180109", "name": "KLATEN"}, {"id": "1801092011", "district_id": "180109", "name": "KAMPUNG BARU"}, {"id": "1801092012", "district_id": "180109", "name": "BANJAR MASIN"}, {"id": "1801092013", "district_id": "180109", "name": "WAY KALAM"}, {"id": "1801092014", "district_id": "180109", "name": "GEDUNG HARTA"}, {"id": "1801092015", "district_id": "180109", "name": "GAYAM"}, {"id": "1801092016", "district_id": "180109", "name": "PENENGAHAN"}, {"id": "1801092017", "district_id": "180109", "name": "SUKAJAYA"}, {"id": "1801092018", "district_id": "180109", "name": "TETAAN"}, {"id": "1801092019", "district_id": "180109", "name": "SUKA BARU"}, {"id": "1801092020", "district_id": "180109", "name": "PISANG"}, {"id": "1801092021", "district_id": "180109", "name": "TANJUNG HERAN"}, {"id": "1801092026", "district_id": "180109", "name": "GANDRI"}]
+[
+  {
+    "id": "1801092001",
+    "district_id": "180109",
+    "name": "KEKILING"
+  },
+  {
+    "id": "1801092002",
+    "district_id": "180109",
+    "name": "BELAMBANGAN"
+  },
+  {
+    "id": "1801092003",
+    "district_id": "180109",
+    "name": "RAWI"
+  },
+  {
+    "id": "1801092004",
+    "district_id": "180109",
+    "name": "PADAN"
+  },
+  {
+    "id": "1801092005",
+    "district_id": "180109",
+    "name": "KURIPAN"
+  },
+  {
+    "id": "1801092006",
+    "district_id": "180109",
+    "name": "TAMAN BARU"
+  },
+  {
+    "id": "1801092007",
+    "district_id": "180109",
+    "name": "KELAU"
+  },
+  {
+    "id": "1801092008",
+    "district_id": "180109",
+    "name": "RUANG TENGAH"
+  },
+  {
+    "id": "1801092009",
+    "district_id": "180109",
+    "name": "PASURUAN"
+  },
+  {
+    "id": "1801092010",
+    "district_id": "180109",
+    "name": "KLATEN"
+  },
+  {
+    "id": "1801092011",
+    "district_id": "180109",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1801092012",
+    "district_id": "180109",
+    "name": "BANJAR MASIN"
+  },
+  {
+    "id": "1801092013",
+    "district_id": "180109",
+    "name": "WAY KALAM"
+  },
+  {
+    "id": "1801092014",
+    "district_id": "180109",
+    "name": "GEDUNG HARTA"
+  },
+  {
+    "id": "1801092015",
+    "district_id": "180109",
+    "name": "GAYAM"
+  },
+  {
+    "id": "1801092016",
+    "district_id": "180109",
+    "name": "PENENGAHAN"
+  },
+  {
+    "id": "1801092017",
+    "district_id": "180109",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "1801092018",
+    "district_id": "180109",
+    "name": "TETAAN"
+  },
+  {
+    "id": "1801092019",
+    "district_id": "180109",
+    "name": "SUKA BARU"
+  },
+  {
+    "id": "1801092020",
+    "district_id": "180109",
+    "name": "PISANG"
+  },
+  {
+    "id": "1801092021",
+    "district_id": "180109",
+    "name": "TANJUNG HERAN"
+  },
+  {
+    "id": "1801092026",
+    "district_id": "180109",
+    "name": "GANDRI"
+  }
+]

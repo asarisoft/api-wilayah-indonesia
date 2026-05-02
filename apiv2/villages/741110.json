@@ -1,1 +1,57 @@
-[{"id": "7411102001", "district_id": "741110", "name": "AERE"}, {"id": "7411102002", "district_id": "741110", "name": "PEKOREA"}, {"id": "7411102003", "district_id": "741110", "name": "IWOI MENGGURA"}, {"id": "7411102004", "district_id": "741110", "name": "IWOIMEA JAYA"}, {"id": "7411102005", "district_id": "741110", "name": "AWIU"}, {"id": "7411102006", "district_id": "741110", "name": "ALADADIO"}, {"id": "7411102007", "district_id": "741110", "name": "TINETE"}, {"id": "7411102008", "district_id": "741110", "name": "TAORE"}, {"id": "7411102009", "district_id": "741110", "name": "ULUNDORO"}, {"id": "7411102010", "district_id": "741110", "name": "WATUWOHA"}, {"id": "7411102011", "district_id": "741110", "name": "RUBIA"}]
+[
+  {
+    "id": "7411102001",
+    "district_id": "741110",
+    "name": "AERE"
+  },
+  {
+    "id": "7411102002",
+    "district_id": "741110",
+    "name": "PEKOREA"
+  },
+  {
+    "id": "7411102003",
+    "district_id": "741110",
+    "name": "IWOI MENGGURA"
+  },
+  {
+    "id": "7411102004",
+    "district_id": "741110",
+    "name": "IWOIMEA JAYA"
+  },
+  {
+    "id": "7411102005",
+    "district_id": "741110",
+    "name": "AWIU"
+  },
+  {
+    "id": "7411102006",
+    "district_id": "741110",
+    "name": "ALADADIO"
+  },
+  {
+    "id": "7411102007",
+    "district_id": "741110",
+    "name": "TINETE"
+  },
+  {
+    "id": "7411102008",
+    "district_id": "741110",
+    "name": "TAORE"
+  },
+  {
+    "id": "7411102009",
+    "district_id": "741110",
+    "name": "ULUNDORO"
+  },
+  {
+    "id": "7411102010",
+    "district_id": "741110",
+    "name": "WATUWOHA"
+  },
+  {
+    "id": "7411102011",
+    "district_id": "741110",
+    "name": "RUBIA"
+  }
+]

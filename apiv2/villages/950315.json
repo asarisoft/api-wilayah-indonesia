@@ -1,1 +1,102 @@
-[{"id": "9503152001", "district_id": "950315", "name": "KOSIHUN"}, {"id": "9503152002", "district_id": "950315", "name": "SEIMA"}, {"id": "9503152003", "district_id": "950315", "name": "USEREM"}, {"id": "9503152004", "district_id": "950315", "name": "YUARIMA"}, {"id": "9503152005", "district_id": "950315", "name": "UGEM"}, {"id": "9503152006", "district_id": "950315", "name": "WUSAGASEM"}, {"id": "9503152007", "district_id": "950315", "name": "HUNENIMA"}, {"id": "9503152008", "district_id": "950315", "name": "ITLAY WOPI"}, {"id": "9503152009", "district_id": "950315", "name": "TOGOLUK"}, {"id": "9503152010", "district_id": "950315", "name": "HERAWE"}, {"id": "9503152011", "district_id": "950315", "name": "HENDANG"}, {"id": "9503152012", "district_id": "950315", "name": "ILOKOMO"}, {"id": "9503152013", "district_id": "950315", "name": "HULESI"}, {"id": "9503152014", "district_id": "950315", "name": "WANESI"}, {"id": "9503152015", "district_id": "950315", "name": "PANYOKE"}, {"id": "9503152016", "district_id": "950315", "name": "NYIKINEN"}, {"id": "9503152017", "district_id": "950315", "name": "WESANGMA"}, {"id": "9503152018", "district_id": "950315", "name": "OLOMISING"}, {"id": "9503152019", "district_id": "950315", "name": "WEMASILI"}, {"id": "9503152020", "district_id": "950315", "name": "LUGULMU"}]
+[
+  {
+    "id": "9503152001",
+    "district_id": "950315",
+    "name": "KOSIHUN"
+  },
+  {
+    "id": "9503152002",
+    "district_id": "950315",
+    "name": "SEIMA"
+  },
+  {
+    "id": "9503152003",
+    "district_id": "950315",
+    "name": "USEREM"
+  },
+  {
+    "id": "9503152004",
+    "district_id": "950315",
+    "name": "YUARIMA"
+  },
+  {
+    "id": "9503152005",
+    "district_id": "950315",
+    "name": "UGEM"
+  },
+  {
+    "id": "9503152006",
+    "district_id": "950315",
+    "name": "WUSAGASEM"
+  },
+  {
+    "id": "9503152007",
+    "district_id": "950315",
+    "name": "HUNENIMA"
+  },
+  {
+    "id": "9503152008",
+    "district_id": "950315",
+    "name": "ITLAY WOPI"
+  },
+  {
+    "id": "9503152009",
+    "district_id": "950315",
+    "name": "TOGOLUK"
+  },
+  {
+    "id": "9503152010",
+    "district_id": "950315",
+    "name": "HERAWE"
+  },
+  {
+    "id": "9503152011",
+    "district_id": "950315",
+    "name": "HENDANG"
+  },
+  {
+    "id": "9503152012",
+    "district_id": "950315",
+    "name": "ILOKOMO"
+  },
+  {
+    "id": "9503152013",
+    "district_id": "950315",
+    "name": "HULESI"
+  },
+  {
+    "id": "9503152014",
+    "district_id": "950315",
+    "name": "WANESI"
+  },
+  {
+    "id": "9503152015",
+    "district_id": "950315",
+    "name": "PANYOKE"
+  },
+  {
+    "id": "9503152016",
+    "district_id": "950315",
+    "name": "NYIKINEN"
+  },
+  {
+    "id": "9503152017",
+    "district_id": "950315",
+    "name": "WESANGMA"
+  },
+  {
+    "id": "9503152018",
+    "district_id": "950315",
+    "name": "OLOMISING"
+  },
+  {
+    "id": "9503152019",
+    "district_id": "950315",
+    "name": "WEMASILI"
+  },
+  {
+    "id": "9503152020",
+    "district_id": "950315",
+    "name": "LUGULMU"
+  }
+]

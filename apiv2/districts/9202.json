@@ -1,1 +1,72 @@
-[{"id": "920203", "regency_id": "9202", "name": "WARMARE"}, {"id": "920204", "regency_id": "9202", "name": "PRAFI"}, {"id": "920205", "regency_id": "9202", "name": "MASNI"}, {"id": "920212", "regency_id": "9202", "name": "MANOKWARI BARAT"}, {"id": "920213", "regency_id": "9202", "name": "MANOKWARI TIMUR"}, {"id": "920214", "regency_id": "9202", "name": "MANOKWARI UTARA"}, {"id": "920215", "regency_id": "9202", "name": "MANOKWARI SELATAN"}, {"id": "920217", "regency_id": "9202", "name": "TANAH RUBUH"}, {"id": "920221", "regency_id": "9202", "name": "SIDEY"}, {"id": "920231", "regency_id": "9202", "name": "AIMASI"}, {"id": "920232", "regency_id": "9202", "name": "MOKWAM"}, {"id": "920233", "regency_id": "9202", "name": "MASNI UTARA"}, {"id": "920234", "regency_id": "9202", "name": "WASIRAWI"}, {"id": "920235", "regency_id": "9202", "name": "MORUJ MEGA"}]
+[
+  {
+    "id": "920203",
+    "regency_id": "9202",
+    "name": "WARMARE"
+  },
+  {
+    "id": "920204",
+    "regency_id": "9202",
+    "name": "PRAFI"
+  },
+  {
+    "id": "920205",
+    "regency_id": "9202",
+    "name": "MASNI"
+  },
+  {
+    "id": "920212",
+    "regency_id": "9202",
+    "name": "MANOKWARI BARAT"
+  },
+  {
+    "id": "920213",
+    "regency_id": "9202",
+    "name": "MANOKWARI TIMUR"
+  },
+  {
+    "id": "920214",
+    "regency_id": "9202",
+    "name": "MANOKWARI UTARA"
+  },
+  {
+    "id": "920215",
+    "regency_id": "9202",
+    "name": "MANOKWARI SELATAN"
+  },
+  {
+    "id": "920217",
+    "regency_id": "9202",
+    "name": "TANAH RUBUH"
+  },
+  {
+    "id": "920221",
+    "regency_id": "9202",
+    "name": "SIDEY"
+  },
+  {
+    "id": "920231",
+    "regency_id": "9202",
+    "name": "AIMASI"
+  },
+  {
+    "id": "920232",
+    "regency_id": "9202",
+    "name": "MOKWAM"
+  },
+  {
+    "id": "920233",
+    "regency_id": "9202",
+    "name": "MASNI UTARA"
+  },
+  {
+    "id": "920234",
+    "regency_id": "9202",
+    "name": "WASIRAWI"
+  },
+  {
+    "id": "920235",
+    "regency_id": "9202",
+    "name": "MORUJ MEGA"
+  }
+]

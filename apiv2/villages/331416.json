@@ -1,1 +1,47 @@
-[{"id": "3314162001", "district_id": "331416", "name": "SONO"}, {"id": "3314162002", "district_id": "331416", "name": "TEMPELREJO"}, {"id": "3314162003", "district_id": "331416", "name": "TROMBOL"}, {"id": "3314162004", "district_id": "331416", "name": "PARE"}, {"id": "3314162005", "district_id": "331416", "name": "JEKANI"}, {"id": "3314162006", "district_id": "331416", "name": "KEDAWUNG"}, {"id": "3314162007", "district_id": "331416", "name": "JAMBANGAN"}, {"id": "3314162008", "district_id": "331416", "name": "GEMANTAR"}, {"id": "3314162009", "district_id": "331416", "name": "SUMBEREJO"}]
+[
+  {
+    "id": "3314162001",
+    "district_id": "331416",
+    "name": "SONO"
+  },
+  {
+    "id": "3314162002",
+    "district_id": "331416",
+    "name": "TEMPELREJO"
+  },
+  {
+    "id": "3314162003",
+    "district_id": "331416",
+    "name": "TROMBOL"
+  },
+  {
+    "id": "3314162004",
+    "district_id": "331416",
+    "name": "PARE"
+  },
+  {
+    "id": "3314162005",
+    "district_id": "331416",
+    "name": "JEKANI"
+  },
+  {
+    "id": "3314162006",
+    "district_id": "331416",
+    "name": "KEDAWUNG"
+  },
+  {
+    "id": "3314162007",
+    "district_id": "331416",
+    "name": "JAMBANGAN"
+  },
+  {
+    "id": "3314162008",
+    "district_id": "331416",
+    "name": "GEMANTAR"
+  },
+  {
+    "id": "3314162009",
+    "district_id": "331416",
+    "name": "SUMBEREJO"
+  }
+]

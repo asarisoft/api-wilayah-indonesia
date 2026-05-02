@@ -1,1 +1,62 @@
-[{"id": "9503022001", "district_id": "950302", "name": "YAHULIKMA"}, {"id": "9503022002", "district_id": "950302", "name": "LELAMBO"}, {"id": "9503022003", "district_id": "950302", "name": "TULPA"}, {"id": "9503022004", "district_id": "950302", "name": "ILWAP"}, {"id": "9503022005", "district_id": "950302", "name": "KILTAM"}, {"id": "9503022006", "district_id": "950302", "name": "PILONG"}, {"id": "9503022007", "district_id": "950302", "name": "VUNO"}, {"id": "9503022008", "district_id": "950302", "name": "SUAHI"}, {"id": "9503022009", "district_id": "950302", "name": "TOHONG"}, {"id": "9503022010", "district_id": "950302", "name": "PALIPTEK"}, {"id": "9503022011", "district_id": "950302", "name": "LETIN"}, {"id": "9503022012", "district_id": "950302", "name": "HOHE"}]
+[
+  {
+    "id": "9503022001",
+    "district_id": "950302",
+    "name": "YAHULIKMA"
+  },
+  {
+    "id": "9503022002",
+    "district_id": "950302",
+    "name": "LELAMBO"
+  },
+  {
+    "id": "9503022003",
+    "district_id": "950302",
+    "name": "TULPA"
+  },
+  {
+    "id": "9503022004",
+    "district_id": "950302",
+    "name": "ILWAP"
+  },
+  {
+    "id": "9503022005",
+    "district_id": "950302",
+    "name": "KILTAM"
+  },
+  {
+    "id": "9503022006",
+    "district_id": "950302",
+    "name": "PILONG"
+  },
+  {
+    "id": "9503022007",
+    "district_id": "950302",
+    "name": "VUNO"
+  },
+  {
+    "id": "9503022008",
+    "district_id": "950302",
+    "name": "SUAHI"
+  },
+  {
+    "id": "9503022009",
+    "district_id": "950302",
+    "name": "TOHONG"
+  },
+  {
+    "id": "9503022010",
+    "district_id": "950302",
+    "name": "PALIPTEK"
+  },
+  {
+    "id": "9503022011",
+    "district_id": "950302",
+    "name": "LETIN"
+  },
+  {
+    "id": "9503022012",
+    "district_id": "950302",
+    "name": "HOHE"
+  }
+]

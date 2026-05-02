@@ -1,1 +1,62 @@
-[{"id": "1701072001", "district_id": "170107", "name": "KARANG CAYA"}, {"id": "1701072002", "district_id": "170107", "name": "BETUNGAN"}, {"id": "1701072003", "district_id": "170107", "name": "PAGAR BANYU"}, {"id": "1701072004", "district_id": "170107", "name": "NANJUNGAN"}, {"id": "1701072005", "district_id": "170107", "name": "SUKA RAMI"}, {"id": "1701072006", "district_id": "170107", "name": "PADANG BINDU"}, {"id": "1701072007", "district_id": "170107", "name": "PENINDAIAN"}, {"id": "1701072008", "district_id": "170107", "name": "LIMUS"}, {"id": "1701072009", "district_id": "170107", "name": "SUKARAJA"}, {"id": "1701072010", "district_id": "170107", "name": "LUBUK LADUNG"}, {"id": "1701072011", "district_id": "170107", "name": "AIR SULAU"}, {"id": "1701072012", "district_id": "170107", "name": "SUKA JAYA"}]
+[
+  {
+    "id": "1701072001",
+    "district_id": "170107",
+    "name": "KARANG CAYA"
+  },
+  {
+    "id": "1701072002",
+    "district_id": "170107",
+    "name": "BETUNGAN"
+  },
+  {
+    "id": "1701072003",
+    "district_id": "170107",
+    "name": "PAGAR BANYU"
+  },
+  {
+    "id": "1701072004",
+    "district_id": "170107",
+    "name": "NANJUNGAN"
+  },
+  {
+    "id": "1701072005",
+    "district_id": "170107",
+    "name": "SUKA RAMI"
+  },
+  {
+    "id": "1701072006",
+    "district_id": "170107",
+    "name": "PADANG BINDU"
+  },
+  {
+    "id": "1701072007",
+    "district_id": "170107",
+    "name": "PENINDAIAN"
+  },
+  {
+    "id": "1701072008",
+    "district_id": "170107",
+    "name": "LIMUS"
+  },
+  {
+    "id": "1701072009",
+    "district_id": "170107",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "1701072010",
+    "district_id": "170107",
+    "name": "LUBUK LADUNG"
+  },
+  {
+    "id": "1701072011",
+    "district_id": "170107",
+    "name": "AIR SULAU"
+  },
+  {
+    "id": "1701072012",
+    "district_id": "170107",
+    "name": "SUKA JAYA"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3204292001", "district_id": "320429", "name": "CIPARAY"}, {"id": "3204292002", "district_id": "320429", "name": "GUNUNGLEUTIK"}, {"id": "3204292003", "district_id": "320429", "name": "MEKARSARI"}, {"id": "3204292004", "district_id": "320429", "name": "CIKONENG"}, {"id": "3204292005", "district_id": "320429", "name": "CIHEULANG"}, {"id": "3204292006", "district_id": "320429", "name": "PAKUTANDANG"}, {"id": "3204292007", "district_id": "320429", "name": "SUMBERSARI"}, {"id": "3204292008", "district_id": "320429", "name": "MANGGUNGHARJA"}, {"id": "3204292009", "district_id": "320429", "name": "SAGARACIPTA"}, {"id": "3204292010", "district_id": "320429", "name": "SARIMAHI"}, {"id": "3204292011", "district_id": "320429", "name": "SERANGMEKAR"}, {"id": "3204292012", "district_id": "320429", "name": "BABAKAN"}, {"id": "3204292013", "district_id": "320429", "name": "BUMIWANGI"}, {"id": "3204292014", "district_id": "320429", "name": "MEKARLAKSANA"}]
+[
+  {
+    "id": "3204292001",
+    "district_id": "320429",
+    "name": "CIPARAY"
+  },
+  {
+    "id": "3204292002",
+    "district_id": "320429",
+    "name": "GUNUNGLEUTIK"
+  },
+  {
+    "id": "3204292003",
+    "district_id": "320429",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3204292004",
+    "district_id": "320429",
+    "name": "CIKONENG"
+  },
+  {
+    "id": "3204292005",
+    "district_id": "320429",
+    "name": "CIHEULANG"
+  },
+  {
+    "id": "3204292006",
+    "district_id": "320429",
+    "name": "PAKUTANDANG"
+  },
+  {
+    "id": "3204292007",
+    "district_id": "320429",
+    "name": "SUMBERSARI"
+  },
+  {
+    "id": "3204292008",
+    "district_id": "320429",
+    "name": "MANGGUNGHARJA"
+  },
+  {
+    "id": "3204292009",
+    "district_id": "320429",
+    "name": "SAGARACIPTA"
+  },
+  {
+    "id": "3204292010",
+    "district_id": "320429",
+    "name": "SARIMAHI"
+  },
+  {
+    "id": "3204292011",
+    "district_id": "320429",
+    "name": "SERANGMEKAR"
+  },
+  {
+    "id": "3204292012",
+    "district_id": "320429",
+    "name": "BABAKAN"
+  },
+  {
+    "id": "3204292013",
+    "district_id": "320429",
+    "name": "BUMIWANGI"
+  },
+  {
+    "id": "3204292014",
+    "district_id": "320429",
+    "name": "MEKARLAKSANA"
+  }
+]

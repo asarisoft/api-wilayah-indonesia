@@ -1,1 +1,52 @@
-[{"id": "1209302001", "district_id": "120930", "name": "SUKA DAMAI"}, {"id": "1209302002", "district_id": "120930", "name": "PERHUTAAN SILAU"}, {"id": "1209302003", "district_id": "120930", "name": "TANAH RAKYAT"}, {"id": "1209302004", "district_id": "120930", "name": "TAMAN SARI"}, {"id": "1209302005", "district_id": "120930", "name": "GEDANGAN"}, {"id": "1209302006", "district_id": "120930", "name": "SUKA MAKMUR"}, {"id": "1209302007", "district_id": "120930", "name": "PULO BANDRING"}, {"id": "1209302008", "district_id": "120930", "name": "SIDOMULYO"}, {"id": "1209302009", "district_id": "120930", "name": "SUKA DAMAI BARAT"}, {"id": "1209302010", "district_id": "120930", "name": "BUNUT SEBERANG"}]
+[
+  {
+    "id": "1209302001",
+    "district_id": "120930",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "1209302002",
+    "district_id": "120930",
+    "name": "PERHUTAAN SILAU"
+  },
+  {
+    "id": "1209302003",
+    "district_id": "120930",
+    "name": "TANAH RAKYAT"
+  },
+  {
+    "id": "1209302004",
+    "district_id": "120930",
+    "name": "TAMAN SARI"
+  },
+  {
+    "id": "1209302005",
+    "district_id": "120930",
+    "name": "GEDANGAN"
+  },
+  {
+    "id": "1209302006",
+    "district_id": "120930",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1209302007",
+    "district_id": "120930",
+    "name": "PULO BANDRING"
+  },
+  {
+    "id": "1209302008",
+    "district_id": "120930",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "1209302009",
+    "district_id": "120930",
+    "name": "SUKA DAMAI BARAT"
+  },
+  {
+    "id": "1209302010",
+    "district_id": "120930",
+    "name": "BUNUT SEBERANG"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "5305132001", "district_id": "530513", "name": "LANGKURU"}, {"id": "5305132002", "district_id": "530513", "name": "PURNAMA"}, {"id": "5305132003", "district_id": "530513", "name": "KAILESA"}, {"id": "5305132004", "district_id": "530513", "name": "LANGKURU UTARA"}]
+[
+  {
+    "id": "5305132001",
+    "district_id": "530513",
+    "name": "LANGKURU"
+  },
+  {
+    "id": "5305132002",
+    "district_id": "530513",
+    "name": "PURNAMA"
+  },
+  {
+    "id": "5305132003",
+    "district_id": "530513",
+    "name": "KAILESA"
+  },
+  {
+    "id": "5305132004",
+    "district_id": "530513",
+    "name": "LANGKURU UTARA"
+  }
+]

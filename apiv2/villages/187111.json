@@ -1,1 +1,27 @@
-[{"id": "1871111001", "district_id": "187111", "name": "TANJUNG SENANG"}, {"id": "1871111002", "district_id": "187111", "name": "WAY KANDIS"}, {"id": "1871111003", "district_id": "187111", "name": "LABUHAN DALAM"}, {"id": "1871111004", "district_id": "187111", "name": "PERUMNAS WAY KANDIS"}, {"id": "1871111005", "district_id": "187111", "name": "PEMATANG WANGI"}]
+[
+  {
+    "id": "1871111001",
+    "district_id": "187111",
+    "name": "TANJUNG SENANG"
+  },
+  {
+    "id": "1871111002",
+    "district_id": "187111",
+    "name": "WAY KANDIS"
+  },
+  {
+    "id": "1871111003",
+    "district_id": "187111",
+    "name": "LABUHAN DALAM"
+  },
+  {
+    "id": "1871111004",
+    "district_id": "187111",
+    "name": "PERUMNAS WAY KANDIS"
+  },
+  {
+    "id": "1871111005",
+    "district_id": "187111",
+    "name": "PEMATANG WANGI"
+  }
+]

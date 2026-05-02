@@ -1,1 +1,37 @@
-[{"id": "7408082001", "district_id": "740808", "name": "LAMBAI"}, {"id": "7408082002", "district_id": "740808", "name": "LATAWARO"}, {"id": "7408082003", "district_id": "740808", "name": "LAPASI-PASI"}, {"id": "7408082004", "district_id": "740808", "name": "RAODA"}, {"id": "7408082005", "district_id": "740808", "name": "WOISE"}, {"id": "7408082006", "district_id": "740808", "name": "WOITOMBO"}, {"id": "7408082007", "district_id": "740808", "name": "TEBONGEANO"}]
+[
+  {
+    "id": "7408082001",
+    "district_id": "740808",
+    "name": "LAMBAI"
+  },
+  {
+    "id": "7408082002",
+    "district_id": "740808",
+    "name": "LATAWARO"
+  },
+  {
+    "id": "7408082003",
+    "district_id": "740808",
+    "name": "LAPASI-PASI"
+  },
+  {
+    "id": "7408082004",
+    "district_id": "740808",
+    "name": "RAODA"
+  },
+  {
+    "id": "7408082005",
+    "district_id": "740808",
+    "name": "WOISE"
+  },
+  {
+    "id": "7408082006",
+    "district_id": "740808",
+    "name": "WOITOMBO"
+  },
+  {
+    "id": "7408082007",
+    "district_id": "740808",
+    "name": "TEBONGEANO"
+  }
+]

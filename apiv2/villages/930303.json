@@ -1,1 +1,37 @@
-[{"id": "9303032001", "district_id": "930303", "name": "BIDNEW"}, {"id": "9303032002", "district_id": "930303", "name": "SENGGO"}, {"id": "9303032003", "district_id": "930303", "name": "KUMASMA"}, {"id": "9303032004", "district_id": "930303", "name": "WOMIN"}, {"id": "9303032005", "district_id": "930303", "name": "TAMANIN"}, {"id": "9303032006", "district_id": "930303", "name": "EPEM"}, {"id": "9303032007", "district_id": "930303", "name": "ABAU"}]
+[
+  {
+    "id": "9303032001",
+    "district_id": "930303",
+    "name": "BIDNEW"
+  },
+  {
+    "id": "9303032002",
+    "district_id": "930303",
+    "name": "SENGGO"
+  },
+  {
+    "id": "9303032003",
+    "district_id": "930303",
+    "name": "KUMASMA"
+  },
+  {
+    "id": "9303032004",
+    "district_id": "930303",
+    "name": "WOMIN"
+  },
+  {
+    "id": "9303032005",
+    "district_id": "930303",
+    "name": "TAMANIN"
+  },
+  {
+    "id": "9303032006",
+    "district_id": "930303",
+    "name": "EPEM"
+  },
+  {
+    "id": "9303032007",
+    "district_id": "930303",
+    "name": "ABAU"
+  }
+]

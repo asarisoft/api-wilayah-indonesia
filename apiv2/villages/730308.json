@@ -1,1 +1,32 @@
-[{"id": "7303082001", "district_id": "730308", "name": "BONTO TIRO"}, {"id": "7303082002", "district_id": "730308", "name": "BONTO KARAENG"}, {"id": "7303082003", "district_id": "730308", "name": "BONTO MACCINI"}, {"id": "7303082004", "district_id": "730308", "name": "BONTO MATE'NE"}, {"id": "7303082005", "district_id": "730308", "name": "BONTO MAJANNANG"}, {"id": "7303082006", "district_id": "730308", "name": "BONTO BULAENG"}]
+[
+  {
+    "id": "7303082001",
+    "district_id": "730308",
+    "name": "BONTO TIRO"
+  },
+  {
+    "id": "7303082002",
+    "district_id": "730308",
+    "name": "BONTO KARAENG"
+  },
+  {
+    "id": "7303082003",
+    "district_id": "730308",
+    "name": "BONTO MACCINI"
+  },
+  {
+    "id": "7303082004",
+    "district_id": "730308",
+    "name": "BONTO MATE'NE"
+  },
+  {
+    "id": "7303082005",
+    "district_id": "730308",
+    "name": "BONTO MAJANNANG"
+  },
+  {
+    "id": "7303082006",
+    "district_id": "730308",
+    "name": "BONTO BULAENG"
+  }
+]

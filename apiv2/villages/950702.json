@@ -1,1 +1,42 @@
-[{"id": "9507022001", "district_id": "950702", "name": "UMBANUME"}, {"id": "9507022002", "district_id": "950702", "name": "WENAM"}, {"id": "9507022003", "district_id": "950702", "name": "YALIPAK"}, {"id": "9507022004", "district_id": "950702", "name": "EKANOM"}, {"id": "9507022005", "district_id": "950702", "name": "YUGUMBINIK"}, {"id": "9507022006", "district_id": "950702", "name": "AMBERINGIME"}, {"id": "9507022007", "district_id": "950702", "name": "ANIWO"}, {"id": "9507022008", "district_id": "950702", "name": "BUGUMBAK"}]
+[
+  {
+    "id": "9507022001",
+    "district_id": "950702",
+    "name": "UMBANUME"
+  },
+  {
+    "id": "9507022002",
+    "district_id": "950702",
+    "name": "WENAM"
+  },
+  {
+    "id": "9507022003",
+    "district_id": "950702",
+    "name": "YALIPAK"
+  },
+  {
+    "id": "9507022004",
+    "district_id": "950702",
+    "name": "EKANOM"
+  },
+  {
+    "id": "9507022005",
+    "district_id": "950702",
+    "name": "YUGUMBINIK"
+  },
+  {
+    "id": "9507022006",
+    "district_id": "950702",
+    "name": "AMBERINGIME"
+  },
+  {
+    "id": "9507022007",
+    "district_id": "950702",
+    "name": "ANIWO"
+  },
+  {
+    "id": "9507022008",
+    "district_id": "950702",
+    "name": "BUGUMBAK"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "6202022004", "district_id": "620202", "name": "RUBUNG BUYUNG"}, {"id": "6202022005", "district_id": "620202", "name": "PATAI"}, {"id": "6202022006", "district_id": "620202", "name": "LUWUK RANGGAN"}, {"id": "6202022007", "district_id": "620202", "name": "JEMARAS"}, {"id": "6202022008", "district_id": "620202", "name": "CEMPAKA MULIA TIMUR"}, {"id": "6202022009", "district_id": "620202", "name": "CEMPAKA MULIA BARAT"}, {"id": "6202022010", "district_id": "620202", "name": "LUWUK BUNTER"}, {"id": "6202022011", "district_id": "620202", "name": "SUNGAI PARING"}]
+[
+  {
+    "id": "6202022004",
+    "district_id": "620202",
+    "name": "RUBUNG BUYUNG"
+  },
+  {
+    "id": "6202022005",
+    "district_id": "620202",
+    "name": "PATAI"
+  },
+  {
+    "id": "6202022006",
+    "district_id": "620202",
+    "name": "LUWUK RANGGAN"
+  },
+  {
+    "id": "6202022007",
+    "district_id": "620202",
+    "name": "JEMARAS"
+  },
+  {
+    "id": "6202022008",
+    "district_id": "620202",
+    "name": "CEMPAKA MULIA TIMUR"
+  },
+  {
+    "id": "6202022009",
+    "district_id": "620202",
+    "name": "CEMPAKA MULIA BARAT"
+  },
+  {
+    "id": "6202022010",
+    "district_id": "620202",
+    "name": "LUWUK BUNTER"
+  },
+  {
+    "id": "6202022011",
+    "district_id": "620202",
+    "name": "SUNGAI PARING"
+  }
+]

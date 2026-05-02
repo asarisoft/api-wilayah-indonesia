@@ -1,1 +1,102 @@
-[{"id": "6109012001", "district_id": "610901", "name": "SUNGAI RINGIN"}, {"id": "6109012002", "district_id": "610901", "name": "MUNGGUK"}, {"id": "6109012003", "district_id": "610901", "name": "TANJUNG"}, {"id": "6109012004", "district_id": "610901", "name": "MERAPI"}, {"id": "6109012005", "district_id": "610901", "name": "SERARAS"}, {"id": "6109012006", "district_id": "610901", "name": "SEMABI"}, {"id": "6109012007", "district_id": "610901", "name": "SEBERANG KAPUAS"}, {"id": "6109012008", "district_id": "610901", "name": "LANDAU KODAH"}, {"id": "6109012009", "district_id": "610901", "name": "TIMPUK"}, {"id": "6109012010", "district_id": "610901", "name": "SUNGAI KUNYIT"}, {"id": "6109012011", "district_id": "610901", "name": "PENITI"}, {"id": "6109012012", "district_id": "610901", "name": "GONIS TEKAM"}, {"id": "6109012013", "district_id": "610901", "name": "TAPANG SEMADAK"}, {"id": "6109012014", "district_id": "610901", "name": "ENGKERSIK"}, {"id": "6109012015", "district_id": "610901", "name": "ENSALANG"}, {"id": "6109012016", "district_id": "610901", "name": "BOKAK SEBUMBUN"}, {"id": "6109012017", "district_id": "610901", "name": "SELALONG"}, {"id": "6109012018", "district_id": "610901", "name": "SEMPULAU INDAH"}, {"id": "6109012019", "district_id": "610901", "name": "TIGUR JAYA"}, {"id": "6109012020", "district_id": "610901", "name": "BERINGKAI RAYA"}]
+[
+  {
+    "id": "6109012001",
+    "district_id": "610901",
+    "name": "SUNGAI RINGIN"
+  },
+  {
+    "id": "6109012002",
+    "district_id": "610901",
+    "name": "MUNGGUK"
+  },
+  {
+    "id": "6109012003",
+    "district_id": "610901",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "6109012004",
+    "district_id": "610901",
+    "name": "MERAPI"
+  },
+  {
+    "id": "6109012005",
+    "district_id": "610901",
+    "name": "SERARAS"
+  },
+  {
+    "id": "6109012006",
+    "district_id": "610901",
+    "name": "SEMABI"
+  },
+  {
+    "id": "6109012007",
+    "district_id": "610901",
+    "name": "SEBERANG KAPUAS"
+  },
+  {
+    "id": "6109012008",
+    "district_id": "610901",
+    "name": "LANDAU KODAH"
+  },
+  {
+    "id": "6109012009",
+    "district_id": "610901",
+    "name": "TIMPUK"
+  },
+  {
+    "id": "6109012010",
+    "district_id": "610901",
+    "name": "SUNGAI KUNYIT"
+  },
+  {
+    "id": "6109012011",
+    "district_id": "610901",
+    "name": "PENITI"
+  },
+  {
+    "id": "6109012012",
+    "district_id": "610901",
+    "name": "GONIS TEKAM"
+  },
+  {
+    "id": "6109012013",
+    "district_id": "610901",
+    "name": "TAPANG SEMADAK"
+  },
+  {
+    "id": "6109012014",
+    "district_id": "610901",
+    "name": "ENGKERSIK"
+  },
+  {
+    "id": "6109012015",
+    "district_id": "610901",
+    "name": "ENSALANG"
+  },
+  {
+    "id": "6109012016",
+    "district_id": "610901",
+    "name": "BOKAK SEBUMBUN"
+  },
+  {
+    "id": "6109012017",
+    "district_id": "610901",
+    "name": "SELALONG"
+  },
+  {
+    "id": "6109012018",
+    "district_id": "610901",
+    "name": "SEMPULAU INDAH"
+  },
+  {
+    "id": "6109012019",
+    "district_id": "610901",
+    "name": "TIGUR JAYA"
+  },
+  {
+    "id": "6109012020",
+    "district_id": "610901",
+    "name": "BERINGKAI RAYA"
+  }
+]

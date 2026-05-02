@@ -1,1 +1,52 @@
-[{"id": "6203142001", "district_id": "620314", "name": "JANGKANG"}, {"id": "6203142002", "district_id": "620314", "name": "TUMBANG TUKUN"}, {"id": "6203142003", "district_id": "620314", "name": "SEI RINGIN"}, {"id": "6203142004", "district_id": "620314", "name": "KABURAN"}, {"id": "6203142005", "district_id": "620314", "name": "BALAI BANJANG"}, {"id": "6203142006", "district_id": "620314", "name": "TUMBANG DIRING"}, {"id": "6203142007", "district_id": "620314", "name": "DANDANG"}, {"id": "6203142008", "district_id": "620314", "name": "HURUNG KAMPIN"}, {"id": "6203142009", "district_id": "620314", "name": "BATU SAMBUNG"}, {"id": "6203142010", "district_id": "620314", "name": "TUMBANG NUSA"}]
+[
+  {
+    "id": "6203142001",
+    "district_id": "620314",
+    "name": "JANGKANG"
+  },
+  {
+    "id": "6203142002",
+    "district_id": "620314",
+    "name": "TUMBANG TUKUN"
+  },
+  {
+    "id": "6203142003",
+    "district_id": "620314",
+    "name": "SEI RINGIN"
+  },
+  {
+    "id": "6203142004",
+    "district_id": "620314",
+    "name": "KABURAN"
+  },
+  {
+    "id": "6203142005",
+    "district_id": "620314",
+    "name": "BALAI BANJANG"
+  },
+  {
+    "id": "6203142006",
+    "district_id": "620314",
+    "name": "TUMBANG DIRING"
+  },
+  {
+    "id": "6203142007",
+    "district_id": "620314",
+    "name": "DANDANG"
+  },
+  {
+    "id": "6203142008",
+    "district_id": "620314",
+    "name": "HURUNG KAMPIN"
+  },
+  {
+    "id": "6203142009",
+    "district_id": "620314",
+    "name": "BATU SAMBUNG"
+  },
+  {
+    "id": "6203142010",
+    "district_id": "620314",
+    "name": "TUMBANG NUSA"
+  }
+]

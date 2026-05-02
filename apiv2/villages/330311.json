@@ -1,1 +1,67 @@
-[{"id": "3303112001", "district_id": "330311", "name": "PONJEN"}, {"id": "3303112002", "district_id": "330311", "name": "BUARA"}, {"id": "3303112003", "district_id": "330311", "name": "BRAKAS"}, {"id": "3303112004", "district_id": "330311", "name": "BUNGKANEL"}, {"id": "3303112005", "district_id": "330311", "name": "LUMPANG"}, {"id": "3303112006", "district_id": "330311", "name": "KARANGGEDANG"}, {"id": "3303112007", "district_id": "330311", "name": "KABUNDERAN"}, {"id": "3303112008", "district_id": "330311", "name": "JAMBUDESA"}, {"id": "3303112009", "district_id": "330311", "name": "MARIBAYA"}, {"id": "3303112010", "district_id": "330311", "name": "KARANGANYAR"}, {"id": "3303112012", "district_id": "330311", "name": "BANJARKERTA"}, {"id": "3303112013", "district_id": "330311", "name": "KALIJARAN"}, {"id": "3303112014", "district_id": "330311", "name": "KALIORI"}]
+[
+  {
+    "id": "3303112001",
+    "district_id": "330311",
+    "name": "PONJEN"
+  },
+  {
+    "id": "3303112002",
+    "district_id": "330311",
+    "name": "BUARA"
+  },
+  {
+    "id": "3303112003",
+    "district_id": "330311",
+    "name": "BRAKAS"
+  },
+  {
+    "id": "3303112004",
+    "district_id": "330311",
+    "name": "BUNGKANEL"
+  },
+  {
+    "id": "3303112005",
+    "district_id": "330311",
+    "name": "LUMPANG"
+  },
+  {
+    "id": "3303112006",
+    "district_id": "330311",
+    "name": "KARANGGEDANG"
+  },
+  {
+    "id": "3303112007",
+    "district_id": "330311",
+    "name": "KABUNDERAN"
+  },
+  {
+    "id": "3303112008",
+    "district_id": "330311",
+    "name": "JAMBUDESA"
+  },
+  {
+    "id": "3303112009",
+    "district_id": "330311",
+    "name": "MARIBAYA"
+  },
+  {
+    "id": "3303112010",
+    "district_id": "330311",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3303112012",
+    "district_id": "330311",
+    "name": "BANJARKERTA"
+  },
+  {
+    "id": "3303112013",
+    "district_id": "330311",
+    "name": "KALIJARAN"
+  },
+  {
+    "id": "3303112014",
+    "district_id": "330311",
+    "name": "KALIORI"
+  }
+]

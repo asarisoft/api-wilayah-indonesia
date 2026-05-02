@@ -1,1 +1,52 @@
-[{"id": "7201192001", "district_id": "720119", "name": "KAMPANGAR"}, {"id": "7201192002", "district_id": "720119", "name": "KUNTANG"}, {"id": "7201192003", "district_id": "720119", "name": "PULAU DUA"}, {"id": "7201192004", "district_id": "720119", "name": "TEKU"}, {"id": "7201192005", "district_id": "720119", "name": "ONDOLIANG"}, {"id": "7201192006", "district_id": "720119", "name": "BATU SIMPANG"}, {"id": "7201192007", "district_id": "720119", "name": "BATU MANDI"}, {"id": "7201192008", "district_id": "720119", "name": "PANGKALASEANG"}, {"id": "7201192009", "district_id": "720119", "name": "PANGKALASEANG BARU"}, {"id": "7201192010", "district_id": "720119", "name": "TOWEER"}]
+[
+  {
+    "id": "7201192001",
+    "district_id": "720119",
+    "name": "KAMPANGAR"
+  },
+  {
+    "id": "7201192002",
+    "district_id": "720119",
+    "name": "KUNTANG"
+  },
+  {
+    "id": "7201192003",
+    "district_id": "720119",
+    "name": "PULAU DUA"
+  },
+  {
+    "id": "7201192004",
+    "district_id": "720119",
+    "name": "TEKU"
+  },
+  {
+    "id": "7201192005",
+    "district_id": "720119",
+    "name": "ONDOLIANG"
+  },
+  {
+    "id": "7201192006",
+    "district_id": "720119",
+    "name": "BATU SIMPANG"
+  },
+  {
+    "id": "7201192007",
+    "district_id": "720119",
+    "name": "BATU MANDI"
+  },
+  {
+    "id": "7201192008",
+    "district_id": "720119",
+    "name": "PANGKALASEANG"
+  },
+  {
+    "id": "7201192009",
+    "district_id": "720119",
+    "name": "PANGKALASEANG BARU"
+  },
+  {
+    "id": "7201192010",
+    "district_id": "720119",
+    "name": "TOWEER"
+  }
+]

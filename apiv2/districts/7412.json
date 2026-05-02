@@ -1,1 +1,37 @@
-[{"id": "741201", "regency_id": "7412", "name": "WAWONII BARAT"}, {"id": "741202", "regency_id": "7412", "name": "WAWONII UTARA"}, {"id": "741203", "regency_id": "7412", "name": "WAWONII TIMUR LAUT"}, {"id": "741204", "regency_id": "7412", "name": "WAWONII TIMUR"}, {"id": "741205", "regency_id": "7412", "name": "WAWONII TENGGARA"}, {"id": "741206", "regency_id": "7412", "name": "WAWONII SELATAN"}, {"id": "741207", "regency_id": "7412", "name": "WAWONII TENGAH"}]
+[
+  {
+    "id": "741201",
+    "regency_id": "7412",
+    "name": "WAWONII BARAT"
+  },
+  {
+    "id": "741202",
+    "regency_id": "7412",
+    "name": "WAWONII UTARA"
+  },
+  {
+    "id": "741203",
+    "regency_id": "7412",
+    "name": "WAWONII TIMUR LAUT"
+  },
+  {
+    "id": "741204",
+    "regency_id": "7412",
+    "name": "WAWONII TIMUR"
+  },
+  {
+    "id": "741205",
+    "regency_id": "7412",
+    "name": "WAWONII TENGGARA"
+  },
+  {
+    "id": "741206",
+    "regency_id": "7412",
+    "name": "WAWONII SELATAN"
+  },
+  {
+    "id": "741207",
+    "regency_id": "7412",
+    "name": "WAWONII TENGAH"
+  }
+]

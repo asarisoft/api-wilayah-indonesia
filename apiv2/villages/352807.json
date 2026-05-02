@@ -1,1 +1,67 @@
-[{"id": "3528072001", "district_id": "352807", "name": "PLAKPAK"}, {"id": "3528072002", "district_id": "352807", "name": "PALESANGGAR"}, {"id": "3528072003", "district_id": "352807", "name": "PEGANTENAN"}, {"id": "3528072004", "district_id": "352807", "name": "BULANGAN BRANTA"}, {"id": "3528072005", "district_id": "352807", "name": "BULANGAN BARAT"}, {"id": "3528072006", "district_id": "352807", "name": "BULANGAN HAJI"}, {"id": "3528072007", "district_id": "352807", "name": "TLAGAH"}, {"id": "3528072008", "district_id": "352807", "name": "BULANGAN TIMUR"}, {"id": "3528072009", "district_id": "352807", "name": "TEBUL TIMUR"}, {"id": "3528072010", "district_id": "352807", "name": "TEBUL BARAT"}, {"id": "3528072011", "district_id": "352807", "name": "AMBENDER"}, {"id": "3528072012", "district_id": "352807", "name": "PASANGGAR"}, {"id": "3528072013", "district_id": "352807", "name": "TANJUNG"}]
+[
+  {
+    "id": "3528072001",
+    "district_id": "352807",
+    "name": "PLAKPAK"
+  },
+  {
+    "id": "3528072002",
+    "district_id": "352807",
+    "name": "PALESANGGAR"
+  },
+  {
+    "id": "3528072003",
+    "district_id": "352807",
+    "name": "PEGANTENAN"
+  },
+  {
+    "id": "3528072004",
+    "district_id": "352807",
+    "name": "BULANGAN BRANTA"
+  },
+  {
+    "id": "3528072005",
+    "district_id": "352807",
+    "name": "BULANGAN BARAT"
+  },
+  {
+    "id": "3528072006",
+    "district_id": "352807",
+    "name": "BULANGAN HAJI"
+  },
+  {
+    "id": "3528072007",
+    "district_id": "352807",
+    "name": "TLAGAH"
+  },
+  {
+    "id": "3528072008",
+    "district_id": "352807",
+    "name": "BULANGAN TIMUR"
+  },
+  {
+    "id": "3528072009",
+    "district_id": "352807",
+    "name": "TEBUL TIMUR"
+  },
+  {
+    "id": "3528072010",
+    "district_id": "352807",
+    "name": "TEBUL BARAT"
+  },
+  {
+    "id": "3528072011",
+    "district_id": "352807",
+    "name": "AMBENDER"
+  },
+  {
+    "id": "3528072012",
+    "district_id": "352807",
+    "name": "PASANGGAR"
+  },
+  {
+    "id": "3528072013",
+    "district_id": "352807",
+    "name": "TANJUNG"
+  }
+]

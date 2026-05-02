@@ -1,1 +1,42 @@
-[{"id": "6101082001", "district_id": "610108", "name": "SEBUBUS"}, {"id": "6101082002", "district_id": "610108", "name": "NIBUNG"}, {"id": "6101082003", "district_id": "610108", "name": "MALEK"}, {"id": "6101082004", "district_id": "610108", "name": "TANAH HITAM"}, {"id": "6101082005", "district_id": "610108", "name": "MATANG DANAU"}, {"id": "6101082006", "district_id": "610108", "name": "KALIMANTAN"}, {"id": "6101082007", "district_id": "610108", "name": "TEMAJUK"}, {"id": "6101082008", "district_id": "610108", "name": "MENTIBAR"}]
+[
+  {
+    "id": "6101082001",
+    "district_id": "610108",
+    "name": "SEBUBUS"
+  },
+  {
+    "id": "6101082002",
+    "district_id": "610108",
+    "name": "NIBUNG"
+  },
+  {
+    "id": "6101082003",
+    "district_id": "610108",
+    "name": "MALEK"
+  },
+  {
+    "id": "6101082004",
+    "district_id": "610108",
+    "name": "TANAH HITAM"
+  },
+  {
+    "id": "6101082005",
+    "district_id": "610108",
+    "name": "MATANG DANAU"
+  },
+  {
+    "id": "6101082006",
+    "district_id": "610108",
+    "name": "KALIMANTAN"
+  },
+  {
+    "id": "6101082007",
+    "district_id": "610108",
+    "name": "TEMAJUK"
+  },
+  {
+    "id": "6101082008",
+    "district_id": "610108",
+    "name": "MENTIBAR"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "5314021008", "district_id": "531402", "name": "BUSALANGGA"}, {"id": "5314022004", "district_id": "531402", "name": "TEMAS"}, {"id": "5314022007", "district_id": "531402", "name": "MODOSINAL"}, {"id": "5314022009", "district_id": "531402", "name": "NETENAEN"}, {"id": "5314022012", "district_id": "531402", "name": "INGGUINAK"}, {"id": "5314022013", "district_id": "531402", "name": "OETUTULU"}, {"id": "5314022014", "district_id": "531402", "name": "DAUDOLU"}, {"id": "5314022017", "district_id": "531402", "name": "TUALIMA"}, {"id": "5314022019", "district_id": "531402", "name": "HUNDIHUK"}, {"id": "5314022021", "district_id": "531402", "name": "SAINDULE"}, {"id": "5314022025", "district_id": "531402", "name": "BUSALANGGA TIMUR"}, {"id": "5314022026", "district_id": "531402", "name": "BUSALANGGA BARAT"}]
+[
+  {
+    "id": "5314021008",
+    "district_id": "531402",
+    "name": "BUSALANGGA"
+  },
+  {
+    "id": "5314022004",
+    "district_id": "531402",
+    "name": "TEMAS"
+  },
+  {
+    "id": "5314022007",
+    "district_id": "531402",
+    "name": "MODOSINAL"
+  },
+  {
+    "id": "5314022009",
+    "district_id": "531402",
+    "name": "NETENAEN"
+  },
+  {
+    "id": "5314022012",
+    "district_id": "531402",
+    "name": "INGGUINAK"
+  },
+  {
+    "id": "5314022013",
+    "district_id": "531402",
+    "name": "OETUTULU"
+  },
+  {
+    "id": "5314022014",
+    "district_id": "531402",
+    "name": "DAUDOLU"
+  },
+  {
+    "id": "5314022017",
+    "district_id": "531402",
+    "name": "TUALIMA"
+  },
+  {
+    "id": "5314022019",
+    "district_id": "531402",
+    "name": "HUNDIHUK"
+  },
+  {
+    "id": "5314022021",
+    "district_id": "531402",
+    "name": "SAINDULE"
+  },
+  {
+    "id": "5314022025",
+    "district_id": "531402",
+    "name": "BUSALANGGA TIMUR"
+  },
+  {
+    "id": "5314022026",
+    "district_id": "531402",
+    "name": "BUSALANGGA BARAT"
+  }
+]

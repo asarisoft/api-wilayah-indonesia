@@ -1,1 +1,72 @@
-[{"id": "1213192001", "district_id": "121319", "name": "BANGUN SEJATI"}, {"id": "1213192002", "district_id": "121319", "name": "HUTARIMBARU"}, {"id": "1213192003", "district_id": "121319", "name": "PASAR HUTA BARGOT"}, {"id": "1213192004", "district_id": "121319", "name": "HUTA BARGOT LOMBANG"}, {"id": "1213192005", "district_id": "121319", "name": "HUTA BARGOT DOLOK"}, {"id": "1213192006", "district_id": "121319", "name": "HUTA BARGOT SETIA"}, {"id": "1213192007", "district_id": "121319", "name": "HUTA BARGOT NAULI"}, {"id": "1213192008", "district_id": "121319", "name": "MONDAN"}, {"id": "1213192009", "district_id": "121319", "name": "SAYUR MAINCAT"}, {"id": "1213192010", "district_id": "121319", "name": "KUMPULAN SETIA"}, {"id": "1213192011", "district_id": "121319", "name": "SIMALAGI"}, {"id": "1213192012", "district_id": "121319", "name": "SABA PADANG"}, {"id": "1213192013", "district_id": "121319", "name": "BINANGA"}, {"id": "1213192014", "district_id": "121319", "name": "HUTA NAINGKAN"}]
+[
+  {
+    "id": "1213192001",
+    "district_id": "121319",
+    "name": "BANGUN SEJATI"
+  },
+  {
+    "id": "1213192002",
+    "district_id": "121319",
+    "name": "HUTARIMBARU"
+  },
+  {
+    "id": "1213192003",
+    "district_id": "121319",
+    "name": "PASAR HUTA BARGOT"
+  },
+  {
+    "id": "1213192004",
+    "district_id": "121319",
+    "name": "HUTA BARGOT LOMBANG"
+  },
+  {
+    "id": "1213192005",
+    "district_id": "121319",
+    "name": "HUTA BARGOT DOLOK"
+  },
+  {
+    "id": "1213192006",
+    "district_id": "121319",
+    "name": "HUTA BARGOT SETIA"
+  },
+  {
+    "id": "1213192007",
+    "district_id": "121319",
+    "name": "HUTA BARGOT NAULI"
+  },
+  {
+    "id": "1213192008",
+    "district_id": "121319",
+    "name": "MONDAN"
+  },
+  {
+    "id": "1213192009",
+    "district_id": "121319",
+    "name": "SAYUR MAINCAT"
+  },
+  {
+    "id": "1213192010",
+    "district_id": "121319",
+    "name": "KUMPULAN SETIA"
+  },
+  {
+    "id": "1213192011",
+    "district_id": "121319",
+    "name": "SIMALAGI"
+  },
+  {
+    "id": "1213192012",
+    "district_id": "121319",
+    "name": "SABA PADANG"
+  },
+  {
+    "id": "1213192013",
+    "district_id": "121319",
+    "name": "BINANGA"
+  },
+  {
+    "id": "1213192014",
+    "district_id": "121319",
+    "name": "HUTA NAINGKAN"
+  }
+]

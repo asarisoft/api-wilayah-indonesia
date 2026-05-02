@@ -1,1 +1,47 @@
-[{"id": "1604262001", "district_id": "160426", "name": "PADANG"}, {"id": "1604262002", "district_id": "160426", "name": "TANJUNG MENANG"}, {"id": "1604262003", "district_id": "160426", "name": "LUBUK PEDARO"}, {"id": "1604262004", "district_id": "160426", "name": "SUKA MERINDU"}, {"id": "1604262005", "district_id": "160426", "name": "TANJUNG BERINGIN"}, {"id": "1604262006", "district_id": "160426", "name": "TALANG AKAR"}, {"id": "1604262007", "district_id": "160426", "name": "LUBUK BETUNG"}, {"id": "1604262008", "district_id": "160426", "name": "PERANGAI"}, {"id": "1604262009", "district_id": "160426", "name": "GERAMAT"}]
+[
+  {
+    "id": "1604262001",
+    "district_id": "160426",
+    "name": "PADANG"
+  },
+  {
+    "id": "1604262002",
+    "district_id": "160426",
+    "name": "TANJUNG MENANG"
+  },
+  {
+    "id": "1604262003",
+    "district_id": "160426",
+    "name": "LUBUK PEDARO"
+  },
+  {
+    "id": "1604262004",
+    "district_id": "160426",
+    "name": "SUKA MERINDU"
+  },
+  {
+    "id": "1604262005",
+    "district_id": "160426",
+    "name": "TANJUNG BERINGIN"
+  },
+  {
+    "id": "1604262006",
+    "district_id": "160426",
+    "name": "TALANG AKAR"
+  },
+  {
+    "id": "1604262007",
+    "district_id": "160426",
+    "name": "LUBUK BETUNG"
+  },
+  {
+    "id": "1604262008",
+    "district_id": "160426",
+    "name": "PERANGAI"
+  },
+  {
+    "id": "1604262009",
+    "district_id": "160426",
+    "name": "GERAMAT"
+  }
+]

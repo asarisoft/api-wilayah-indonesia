@@ -1,1 +1,37 @@
-[{"id": "9503092001", "district_id": "950309", "name": "GOPA"}, {"id": "9503092002", "district_id": "950309", "name": "JINUSUGU"}, {"id": "9503092003", "district_id": "950309", "name": "WOROPI"}, {"id": "9503092004", "district_id": "950309", "name": "SENIPAN"}, {"id": "9503092005", "district_id": "950309", "name": "YOSUA"}, {"id": "9503092006", "district_id": "950309", "name": "RENTIS"}, {"id": "9503092007", "district_id": "950309", "name": "SOLOK"}]
+[
+  {
+    "id": "9503092001",
+    "district_id": "950309",
+    "name": "GOPA"
+  },
+  {
+    "id": "9503092002",
+    "district_id": "950309",
+    "name": "JINUSUGU"
+  },
+  {
+    "id": "9503092003",
+    "district_id": "950309",
+    "name": "WOROPI"
+  },
+  {
+    "id": "9503092004",
+    "district_id": "950309",
+    "name": "SENIPAN"
+  },
+  {
+    "id": "9503092005",
+    "district_id": "950309",
+    "name": "YOSUA"
+  },
+  {
+    "id": "9503092006",
+    "district_id": "950309",
+    "name": "RENTIS"
+  },
+  {
+    "id": "9503092007",
+    "district_id": "950309",
+    "name": "SOLOK"
+  }
+]

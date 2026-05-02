@@ -1,1 +1,27 @@
-[{"id": "527201", "regency_id": "5272", "name": "RASANAE BARAT"}, {"id": "527202", "regency_id": "5272", "name": "RASANAE TIMUR"}, {"id": "527203", "regency_id": "5272", "name": "ASAKOTA"}, {"id": "527204", "regency_id": "5272", "name": "RABA"}, {"id": "527205", "regency_id": "5272", "name": "MPUNDA"}]
+[
+  {
+    "id": "527201",
+    "regency_id": "5272",
+    "name": "RASANAE BARAT"
+  },
+  {
+    "id": "527202",
+    "regency_id": "5272",
+    "name": "RASANAE TIMUR"
+  },
+  {
+    "id": "527203",
+    "regency_id": "5272",
+    "name": "ASAKOTA"
+  },
+  {
+    "id": "527204",
+    "regency_id": "5272",
+    "name": "RABA"
+  },
+  {
+    "id": "527205",
+    "regency_id": "5272",
+    "name": "MPUNDA"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "7313131002", "district_id": "731313", "name": "GILIRENG"}, {"id": "7313132001", "district_id": "731313", "name": "MAMMINASAE"}, {"id": "7313132003", "district_id": "731313", "name": "POLEONRO"}, {"id": "7313132004", "district_id": "731313", "name": "ARAJANG"}, {"id": "7313132005", "district_id": "731313", "name": "LAMATA"}, {"id": "7313132006", "district_id": "731313", "name": "PASELLORENG"}, {"id": "7313132007", "district_id": "731313", "name": "ALAUSALO"}, {"id": "7313132008", "district_id": "731313", "name": "POLEWALIE"}, {"id": "7313132009", "district_id": "731313", "name": "ABBATIRENG"}]
+[
+  {
+    "id": "7313131002",
+    "district_id": "731313",
+    "name": "GILIRENG"
+  },
+  {
+    "id": "7313132001",
+    "district_id": "731313",
+    "name": "MAMMINASAE"
+  },
+  {
+    "id": "7313132003",
+    "district_id": "731313",
+    "name": "POLEONRO"
+  },
+  {
+    "id": "7313132004",
+    "district_id": "731313",
+    "name": "ARAJANG"
+  },
+  {
+    "id": "7313132005",
+    "district_id": "731313",
+    "name": "LAMATA"
+  },
+  {
+    "id": "7313132006",
+    "district_id": "731313",
+    "name": "PASELLORENG"
+  },
+  {
+    "id": "7313132007",
+    "district_id": "731313",
+    "name": "ALAUSALO"
+  },
+  {
+    "id": "7313132008",
+    "district_id": "731313",
+    "name": "POLEWALIE"
+  },
+  {
+    "id": "7313132009",
+    "district_id": "731313",
+    "name": "ABBATIRENG"
+  }
+]

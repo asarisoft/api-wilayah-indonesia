@@ -1,1 +1,52 @@
-[{"id": "8104112001", "district_id": "810411", "name": "KUBALAHIN"}, {"id": "8104112002", "district_id": "810411", "name": "WAEGEREN"}, {"id": "8104112003", "district_id": "810411", "name": "GRANDENG"}, {"id": "8104112004", "district_id": "810411", "name": "LELE"}, {"id": "8104112005", "district_id": "810411", "name": "WANAKARTA"}, {"id": "8104112006", "district_id": "810411", "name": "WABLOY"}, {"id": "8104112007", "district_id": "810411", "name": "OHILAHIN"}, {"id": "8104112008", "district_id": "810411", "name": "TIFU"}, {"id": "8104112009", "district_id": "810411", "name": "WAPSALIT"}, {"id": "8104112010", "district_id": "810411", "name": "NAFRUA"}]
+[
+  {
+    "id": "8104112001",
+    "district_id": "810411",
+    "name": "KUBALAHIN"
+  },
+  {
+    "id": "8104112002",
+    "district_id": "810411",
+    "name": "WAEGEREN"
+  },
+  {
+    "id": "8104112003",
+    "district_id": "810411",
+    "name": "GRANDENG"
+  },
+  {
+    "id": "8104112004",
+    "district_id": "810411",
+    "name": "LELE"
+  },
+  {
+    "id": "8104112005",
+    "district_id": "810411",
+    "name": "WANAKARTA"
+  },
+  {
+    "id": "8104112006",
+    "district_id": "810411",
+    "name": "WABLOY"
+  },
+  {
+    "id": "8104112007",
+    "district_id": "810411",
+    "name": "OHILAHIN"
+  },
+  {
+    "id": "8104112008",
+    "district_id": "810411",
+    "name": "TIFU"
+  },
+  {
+    "id": "8104112009",
+    "district_id": "810411",
+    "name": "WAPSALIT"
+  },
+  {
+    "id": "8104112010",
+    "district_id": "810411",
+    "name": "NAFRUA"
+  }
+]

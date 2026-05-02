@@ -1,1 +1,37 @@
-[{"id": "6210011001", "district_id": "621001", "name": "SEPANG SIMIN"}, {"id": "6210012002", "district_id": "621001", "name": "SEPANG KOTA"}, {"id": "6210012003", "district_id": "621001", "name": "TEWAI BARU"}, {"id": "6210012004", "district_id": "621001", "name": "TANJUNG KARITAK"}, {"id": "6210012011", "district_id": "621001", "name": "PAMATANG LIMAU"}, {"id": "6210012012", "district_id": "621001", "name": "TAMPELAS"}, {"id": "6210012014", "district_id": "621001", "name": "RABAUH"}]
+[
+  {
+    "id": "6210011001",
+    "district_id": "621001",
+    "name": "SEPANG SIMIN"
+  },
+  {
+    "id": "6210012002",
+    "district_id": "621001",
+    "name": "SEPANG KOTA"
+  },
+  {
+    "id": "6210012003",
+    "district_id": "621001",
+    "name": "TEWAI BARU"
+  },
+  {
+    "id": "6210012004",
+    "district_id": "621001",
+    "name": "TANJUNG KARITAK"
+  },
+  {
+    "id": "6210012011",
+    "district_id": "621001",
+    "name": "PAMATANG LIMAU"
+  },
+  {
+    "id": "6210012012",
+    "district_id": "621001",
+    "name": "TAMPELAS"
+  },
+  {
+    "id": "6210012014",
+    "district_id": "621001",
+    "name": "RABAUH"
+  }
+]

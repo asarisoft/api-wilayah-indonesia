@@ -1,1 +1,42 @@
-[{"id": "9507332001", "district_id": "950733", "name": "ODIKA"}, {"id": "9507332002", "district_id": "950733", "name": "YUBUMABUR"}, {"id": "9507332003", "district_id": "950733", "name": "EKAPAME"}, {"id": "9507332004", "district_id": "950733", "name": "PAPANI"}, {"id": "9507332005", "district_id": "950733", "name": "KUBAGALO"}, {"id": "9507332006", "district_id": "950733", "name": "JILEKME"}, {"id": "9507332007", "district_id": "950733", "name": "WANOME"}, {"id": "9507332008", "district_id": "950733", "name": "YILUWENERI"}]
+[
+  {
+    "id": "9507332001",
+    "district_id": "950733",
+    "name": "ODIKA"
+  },
+  {
+    "id": "9507332002",
+    "district_id": "950733",
+    "name": "YUBUMABUR"
+  },
+  {
+    "id": "9507332003",
+    "district_id": "950733",
+    "name": "EKAPAME"
+  },
+  {
+    "id": "9507332004",
+    "district_id": "950733",
+    "name": "PAPANI"
+  },
+  {
+    "id": "9507332005",
+    "district_id": "950733",
+    "name": "KUBAGALO"
+  },
+  {
+    "id": "9507332006",
+    "district_id": "950733",
+    "name": "JILEKME"
+  },
+  {
+    "id": "9507332007",
+    "district_id": "950733",
+    "name": "WANOME"
+  },
+  {
+    "id": "9507332008",
+    "district_id": "950733",
+    "name": "YILUWENERI"
+  }
+]

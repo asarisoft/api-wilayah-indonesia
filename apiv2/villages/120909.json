@@ -1,1 +1,37 @@
-[{"id": "1209091001", "district_id": "120909", "name": "BINJAI SERBANGAN"}, {"id": "1209092002", "district_id": "120909", "name": "AIR JOMAN"}, {"id": "1209092003", "district_id": "120909", "name": "AIR JOMAN BARU"}, {"id": "1209092005", "district_id": "120909", "name": "BANJAR"}, {"id": "1209092007", "district_id": "120909", "name": "PASAR LEMBU"}, {"id": "1209092008", "district_id": "120909", "name": "PUNGGULAN"}, {"id": "1209092012", "district_id": "120909", "name": "SUBUR"}]
+[
+  {
+    "id": "1209091001",
+    "district_id": "120909",
+    "name": "BINJAI SERBANGAN"
+  },
+  {
+    "id": "1209092002",
+    "district_id": "120909",
+    "name": "AIR JOMAN"
+  },
+  {
+    "id": "1209092003",
+    "district_id": "120909",
+    "name": "AIR JOMAN BARU"
+  },
+  {
+    "id": "1209092005",
+    "district_id": "120909",
+    "name": "BANJAR"
+  },
+  {
+    "id": "1209092007",
+    "district_id": "120909",
+    "name": "PASAR LEMBU"
+  },
+  {
+    "id": "1209092008",
+    "district_id": "120909",
+    "name": "PUNGGULAN"
+  },
+  {
+    "id": "1209092012",
+    "district_id": "120909",
+    "name": "SUBUR"
+  }
+]

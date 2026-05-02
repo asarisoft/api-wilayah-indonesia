@@ -1,1 +1,52 @@
-[{"id": "1113102001", "district_id": "111310", "name": "PERLAK"}, {"id": "1113102002", "district_id": "111310", "name": "REREBE"}, {"id": "1113102003", "district_id": "111310", "name": "PASIR"}, {"id": "1113102004", "district_id": "111310", "name": "SETUL"}, {"id": "1113102005", "district_id": "111310", "name": "UPT PAYA KUMER"}, {"id": "1113102006", "district_id": "111310", "name": "UPT PANTAN KELA"}, {"id": "1113102007", "district_id": "111310", "name": "BUNTUL MUSARA"}, {"id": "1113102008", "district_id": "111310", "name": "KUALA JERNIH"}, {"id": "1113102009", "district_id": "111310", "name": "UYEM BERIRING"}, {"id": "1113102010", "district_id": "111310", "name": "PULO GELIME"}]
+[
+  {
+    "id": "1113102001",
+    "district_id": "111310",
+    "name": "PERLAK"
+  },
+  {
+    "id": "1113102002",
+    "district_id": "111310",
+    "name": "REREBE"
+  },
+  {
+    "id": "1113102003",
+    "district_id": "111310",
+    "name": "PASIR"
+  },
+  {
+    "id": "1113102004",
+    "district_id": "111310",
+    "name": "SETUL"
+  },
+  {
+    "id": "1113102005",
+    "district_id": "111310",
+    "name": "UPT PAYA KUMER"
+  },
+  {
+    "id": "1113102006",
+    "district_id": "111310",
+    "name": "UPT PANTAN KELA"
+  },
+  {
+    "id": "1113102007",
+    "district_id": "111310",
+    "name": "BUNTUL MUSARA"
+  },
+  {
+    "id": "1113102008",
+    "district_id": "111310",
+    "name": "KUALA JERNIH"
+  },
+  {
+    "id": "1113102009",
+    "district_id": "111310",
+    "name": "UYEM BERIRING"
+  },
+  {
+    "id": "1113102010",
+    "district_id": "111310",
+    "name": "PULO GELIME"
+  }
+]

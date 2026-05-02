@@ -1,1 +1,72 @@
-[{"id": "110401", "regency_id": "1104", "name": "LINGE"}, {"id": "110402", "regency_id": "1104", "name": "SILIH NARA"}, {"id": "110403", "regency_id": "1104", "name": "BEBESEN"}, {"id": "110407", "regency_id": "1104", "name": "PEGASING"}, {"id": "110408", "regency_id": "1104", "name": "BINTANG"}, {"id": "110410", "regency_id": "1104", "name": "KETOL"}, {"id": "110411", "regency_id": "1104", "name": "KEBAYAKAN"}, {"id": "110412", "regency_id": "1104", "name": "KUTE PANANG"}, {"id": "110413", "regency_id": "1104", "name": "CELALA"}, {"id": "110417", "regency_id": "1104", "name": "LAUT TAWAR"}, {"id": "110418", "regency_id": "1104", "name": "ATU LINTANG"}, {"id": "110419", "regency_id": "1104", "name": "JAGONG JEGET"}, {"id": "110420", "regency_id": "1104", "name": "BIES"}, {"id": "110421", "regency_id": "1104", "name": "RUSIP ANTARA"}]
+[
+  {
+    "id": "110401",
+    "regency_id": "1104",
+    "name": "LINGE"
+  },
+  {
+    "id": "110402",
+    "regency_id": "1104",
+    "name": "SILIH NARA"
+  },
+  {
+    "id": "110403",
+    "regency_id": "1104",
+    "name": "BEBESEN"
+  },
+  {
+    "id": "110407",
+    "regency_id": "1104",
+    "name": "PEGASING"
+  },
+  {
+    "id": "110408",
+    "regency_id": "1104",
+    "name": "BINTANG"
+  },
+  {
+    "id": "110410",
+    "regency_id": "1104",
+    "name": "KETOL"
+  },
+  {
+    "id": "110411",
+    "regency_id": "1104",
+    "name": "KEBAYAKAN"
+  },
+  {
+    "id": "110412",
+    "regency_id": "1104",
+    "name": "KUTE PANANG"
+  },
+  {
+    "id": "110413",
+    "regency_id": "1104",
+    "name": "CELALA"
+  },
+  {
+    "id": "110417",
+    "regency_id": "1104",
+    "name": "LAUT TAWAR"
+  },
+  {
+    "id": "110418",
+    "regency_id": "1104",
+    "name": "ATU LINTANG"
+  },
+  {
+    "id": "110419",
+    "regency_id": "1104",
+    "name": "JAGONG JEGET"
+  },
+  {
+    "id": "110420",
+    "regency_id": "1104",
+    "name": "BIES"
+  },
+  {
+    "id": "110421",
+    "regency_id": "1104",
+    "name": "RUSIP ANTARA"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "3273261003", "district_id": "327326", "name": "PASIR ENDAH"}, {"id": "3273261004", "district_id": "327326", "name": "CIGENDING"}, {"id": "3273261005", "district_id": "327326", "name": "PASIRWANGI"}, {"id": "3273261006", "district_id": "327326", "name": "PASIRJATI"}, {"id": "3273261007", "district_id": "327326", "name": "PASANGGRAHAN"}]
+[
+  {
+    "id": "3273261003",
+    "district_id": "327326",
+    "name": "PASIR ENDAH"
+  },
+  {
+    "id": "3273261004",
+    "district_id": "327326",
+    "name": "CIGENDING"
+  },
+  {
+    "id": "3273261005",
+    "district_id": "327326",
+    "name": "PASIRWANGI"
+  },
+  {
+    "id": "3273261006",
+    "district_id": "327326",
+    "name": "PASIRJATI"
+  },
+  {
+    "id": "3273261007",
+    "district_id": "327326",
+    "name": "PASANGGRAHAN"
+  }
+]

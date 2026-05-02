@@ -1,1 +1,42 @@
-[{"id": "5202122001", "district_id": "520212", "name": "LANTAN"}, {"id": "5202122002", "district_id": "520212", "name": "SETILING"}, {"id": "5202122003", "district_id": "520212", "name": "TANAK BEAK"}, {"id": "5202122004", "district_id": "520212", "name": "AIK BUKAQ"}, {"id": "5202122005", "district_id": "520212", "name": "TERATAK"}, {"id": "5202122006", "district_id": "520212", "name": "AIK BERIK"}, {"id": "5202122007", "district_id": "520212", "name": "MAS-MAS"}, {"id": "5202122008", "district_id": "520212", "name": "KARANG SIDEMEN"}]
+[
+  {
+    "id": "5202122001",
+    "district_id": "520212",
+    "name": "LANTAN"
+  },
+  {
+    "id": "5202122002",
+    "district_id": "520212",
+    "name": "SETILING"
+  },
+  {
+    "id": "5202122003",
+    "district_id": "520212",
+    "name": "TANAK BEAK"
+  },
+  {
+    "id": "5202122004",
+    "district_id": "520212",
+    "name": "AIK BUKAQ"
+  },
+  {
+    "id": "5202122005",
+    "district_id": "520212",
+    "name": "TERATAK"
+  },
+  {
+    "id": "5202122006",
+    "district_id": "520212",
+    "name": "AIK BERIK"
+  },
+  {
+    "id": "5202122007",
+    "district_id": "520212",
+    "name": "MAS-MAS"
+  },
+  {
+    "id": "5202122008",
+    "district_id": "520212",
+    "name": "KARANG SIDEMEN"
+  }
+]

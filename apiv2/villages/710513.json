@@ -1,1 +1,67 @@
-[{"id": "7105132001", "district_id": "710513", "name": "PINAMORONGAN"}, {"id": "7105132002", "district_id": "710513", "name": "KANEYAN"}, {"id": "7105132003", "district_id": "710513", "name": "KORENG"}, {"id": "7105132004", "district_id": "710513", "name": "TUMALUNTUNG"}, {"id": "7105132005", "district_id": "710513", "name": "RUMOONG ATAS"}, {"id": "7105132006", "district_id": "710513", "name": "LANSOT"}, {"id": "7105132007", "district_id": "710513", "name": "WIAU LAPI"}, {"id": "7105132008", "district_id": "710513", "name": "WUWUK"}, {"id": "7105132014", "district_id": "710513", "name": "RUMOONG ATAS DUA"}, {"id": "7105132017", "district_id": "710513", "name": "LANSOT TIMUR"}, {"id": "7105132018", "district_id": "710513", "name": "WUWUK BARAT"}, {"id": "7105132019", "district_id": "710513", "name": "TUMALUNTUNG SATU"}, {"id": "7105132020", "district_id": "710513", "name": "WIAU LAPI BARAT"}]
+[
+  {
+    "id": "7105132001",
+    "district_id": "710513",
+    "name": "PINAMORONGAN"
+  },
+  {
+    "id": "7105132002",
+    "district_id": "710513",
+    "name": "KANEYAN"
+  },
+  {
+    "id": "7105132003",
+    "district_id": "710513",
+    "name": "KORENG"
+  },
+  {
+    "id": "7105132004",
+    "district_id": "710513",
+    "name": "TUMALUNTUNG"
+  },
+  {
+    "id": "7105132005",
+    "district_id": "710513",
+    "name": "RUMOONG ATAS"
+  },
+  {
+    "id": "7105132006",
+    "district_id": "710513",
+    "name": "LANSOT"
+  },
+  {
+    "id": "7105132007",
+    "district_id": "710513",
+    "name": "WIAU LAPI"
+  },
+  {
+    "id": "7105132008",
+    "district_id": "710513",
+    "name": "WUWUK"
+  },
+  {
+    "id": "7105132014",
+    "district_id": "710513",
+    "name": "RUMOONG ATAS DUA"
+  },
+  {
+    "id": "7105132017",
+    "district_id": "710513",
+    "name": "LANSOT TIMUR"
+  },
+  {
+    "id": "7105132018",
+    "district_id": "710513",
+    "name": "WUWUK BARAT"
+  },
+  {
+    "id": "7105132019",
+    "district_id": "710513",
+    "name": "TUMALUNTUNG SATU"
+  },
+  {
+    "id": "7105132020",
+    "district_id": "710513",
+    "name": "WIAU LAPI BARAT"
+  }
+]

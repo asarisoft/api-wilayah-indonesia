@@ -1,1 +1,32 @@
-[{"id": "9508072001", "district_id": "950807", "name": "MBUWA"}, {"id": "9508072002", "district_id": "950807", "name": "OTALAMA"}, {"id": "9508072003", "district_id": "950807", "name": "ARUGIA"}, {"id": "9508072004", "district_id": "950807", "name": "OPMU"}, {"id": "9508072005", "district_id": "950807", "name": "DIGILIMU"}, {"id": "9508072006", "district_id": "950807", "name": "KOGOMARU"}]
+[
+  {
+    "id": "9508072001",
+    "district_id": "950807",
+    "name": "MBUWA"
+  },
+  {
+    "id": "9508072002",
+    "district_id": "950807",
+    "name": "OTALAMA"
+  },
+  {
+    "id": "9508072003",
+    "district_id": "950807",
+    "name": "ARUGIA"
+  },
+  {
+    "id": "9508072004",
+    "district_id": "950807",
+    "name": "OPMU"
+  },
+  {
+    "id": "9508072005",
+    "district_id": "950807",
+    "name": "DIGILIMU"
+  },
+  {
+    "id": "9508072006",
+    "district_id": "950807",
+    "name": "KOGOMARU"
+  }
+]

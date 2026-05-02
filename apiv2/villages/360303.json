@@ -1,1 +1,72 @@
-[{"id": "3603031001", "district_id": "360303", "name": "TIGARAKSA"}, {"id": "3603031007", "district_id": "360303", "name": "KADU AGUNG"}, {"id": "3603032002", "district_id": "360303", "name": "PASIR BOLANG"}, {"id": "3603032003", "district_id": "360303", "name": "MATAGARA"}, {"id": "3603032004", "district_id": "360303", "name": "PASIR NANGKA"}, {"id": "3603032005", "district_id": "360303", "name": "PETE"}, {"id": "3603032006", "district_id": "360303", "name": "TEGALSARI"}, {"id": "3603032008", "district_id": "360303", "name": "PEMATANG"}, {"id": "3603032009", "district_id": "360303", "name": "CISEREH"}, {"id": "3603032010", "district_id": "360303", "name": "MARGASARI"}, {"id": "3603032011", "district_id": "360303", "name": "CILELES"}, {"id": "3603032012", "district_id": "360303", "name": "SODONG"}, {"id": "3603032013", "district_id": "360303", "name": "TAPOS"}, {"id": "3603032014", "district_id": "360303", "name": "BANTAR PANJANG"}]
+[
+  {
+    "id": "3603031001",
+    "district_id": "360303",
+    "name": "TIGARAKSA"
+  },
+  {
+    "id": "3603031007",
+    "district_id": "360303",
+    "name": "KADU AGUNG"
+  },
+  {
+    "id": "3603032002",
+    "district_id": "360303",
+    "name": "PASIR BOLANG"
+  },
+  {
+    "id": "3603032003",
+    "district_id": "360303",
+    "name": "MATAGARA"
+  },
+  {
+    "id": "3603032004",
+    "district_id": "360303",
+    "name": "PASIR NANGKA"
+  },
+  {
+    "id": "3603032005",
+    "district_id": "360303",
+    "name": "PETE"
+  },
+  {
+    "id": "3603032006",
+    "district_id": "360303",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3603032008",
+    "district_id": "360303",
+    "name": "PEMATANG"
+  },
+  {
+    "id": "3603032009",
+    "district_id": "360303",
+    "name": "CISEREH"
+  },
+  {
+    "id": "3603032010",
+    "district_id": "360303",
+    "name": "MARGASARI"
+  },
+  {
+    "id": "3603032011",
+    "district_id": "360303",
+    "name": "CILELES"
+  },
+  {
+    "id": "3603032012",
+    "district_id": "360303",
+    "name": "SODONG"
+  },
+  {
+    "id": "3603032013",
+    "district_id": "360303",
+    "name": "TAPOS"
+  },
+  {
+    "id": "3603032014",
+    "district_id": "360303",
+    "name": "BANTAR PANJANG"
+  }
+]

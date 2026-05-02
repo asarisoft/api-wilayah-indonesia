@@ -1,1 +1,67 @@
-[{"id": "9203092001", "district_id": "920309", "name": "PUAR"}, {"id": "9203092002", "district_id": "920309", "name": "DEGEN"}, {"id": "9203092003", "district_id": "920309", "name": "TETAR"}, {"id": "9203092005", "district_id": "920309", "name": "SUM"}, {"id": "9203092011", "district_id": "920309", "name": "ADORA"}, {"id": "9203092012", "district_id": "920309", "name": "US"}, {"id": "9203092014", "district_id": "920309", "name": "PATIPI PASIR"}, {"id": "9203092015", "district_id": "920309", "name": "PATIPI PULAU"}, {"id": "9203092017", "district_id": "920309", "name": "MAWAR"}, {"id": "9203092018", "district_id": "920309", "name": "TIBATIBANANAM"}, {"id": "9203092020", "district_id": "920309", "name": "OFFIE"}, {"id": "9203092021", "district_id": "920309", "name": "MUHRI"}, {"id": "9203092022", "district_id": "920309", "name": "BISA"}]
+[
+  {
+    "id": "9203092001",
+    "district_id": "920309",
+    "name": "PUAR"
+  },
+  {
+    "id": "9203092002",
+    "district_id": "920309",
+    "name": "DEGEN"
+  },
+  {
+    "id": "9203092003",
+    "district_id": "920309",
+    "name": "TETAR"
+  },
+  {
+    "id": "9203092005",
+    "district_id": "920309",
+    "name": "SUM"
+  },
+  {
+    "id": "9203092011",
+    "district_id": "920309",
+    "name": "ADORA"
+  },
+  {
+    "id": "9203092012",
+    "district_id": "920309",
+    "name": "US"
+  },
+  {
+    "id": "9203092014",
+    "district_id": "920309",
+    "name": "PATIPI PASIR"
+  },
+  {
+    "id": "9203092015",
+    "district_id": "920309",
+    "name": "PATIPI PULAU"
+  },
+  {
+    "id": "9203092017",
+    "district_id": "920309",
+    "name": "MAWAR"
+  },
+  {
+    "id": "9203092018",
+    "district_id": "920309",
+    "name": "TIBATIBANANAM"
+  },
+  {
+    "id": "9203092020",
+    "district_id": "920309",
+    "name": "OFFIE"
+  },
+  {
+    "id": "9203092021",
+    "district_id": "920309",
+    "name": "MUHRI"
+  },
+  {
+    "id": "9203092022",
+    "district_id": "920309",
+    "name": "BISA"
+  }
+]

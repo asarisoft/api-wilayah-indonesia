@@ -1,1 +1,137 @@
-[{"id": "1111062001", "district_id": "111106", "name": "LEUBU ME"}, {"id": "1111062002", "district_id": "111106", "name": "PAYA DUA"}, {"id": "1111062003", "district_id": "111106", "name": "LEUBU COT"}, {"id": "1111062004", "district_id": "111106", "name": "LEUBU MESJID"}, {"id": "1111062005", "district_id": "111106", "name": "KUTA BARAT"}, {"id": "1111062006", "district_id": "111106", "name": "TRIENGGADENG"}, {"id": "1111062007", "district_id": "111106", "name": "COT KRUET"}, {"id": "1111062008", "district_id": "111106", "name": "BLANG KHUTANG"}, {"id": "1111062009", "district_id": "111106", "name": "BUKET SEULAMAT"}, {"id": "1111062010", "district_id": "111106", "name": "LAPEHAN MESJID"}, {"id": "1111062011", "district_id": "111106", "name": "ULEE GLEE"}, {"id": "1111062012", "district_id": "111106", "name": "MONA ARA"}, {"id": "1111062013", "district_id": "111106", "name": "PANDAK"}, {"id": "1111062014", "district_id": "111106", "name": "BLANG DALAM"}, {"id": "1111062015", "district_id": "111106", "name": "ALUE DUA"}, {"id": "1111062016", "district_id": "111106", "name": "SEUNEUBOK BARO"}, {"id": "1111062017", "district_id": "111106", "name": "PANTEU BREUH"}, {"id": "1111062018", "district_id": "111106", "name": "TANJONG MULIA"}, {"id": "1111062019", "district_id": "111106", "name": "BLANG MANE"}, {"id": "1111062020", "district_id": "111106", "name": "MEUREUBO"}, {"id": "1111062021", "district_id": "111106", "name": "BLANG PERLAK"}, {"id": "1111062022", "district_id": "111106", "name": "PANTON MESJID"}, {"id": "1111062023", "district_id": "111106", "name": "SUKARAME"}, {"id": "1111062024", "district_id": "111106", "name": "MATANG KUMBANG"}, {"id": "1111062025", "district_id": "111106", "name": "PULO TEUNGOH"}, {"id": "1111062026", "district_id": "111106", "name": "BATEE DABAI"}, {"id": "1111062027", "district_id": "111106", "name": "ARA LIPEH"}]
+[
+  {
+    "id": "1111062001",
+    "district_id": "111106",
+    "name": "LEUBU ME"
+  },
+  {
+    "id": "1111062002",
+    "district_id": "111106",
+    "name": "PAYA DUA"
+  },
+  {
+    "id": "1111062003",
+    "district_id": "111106",
+    "name": "LEUBU COT"
+  },
+  {
+    "id": "1111062004",
+    "district_id": "111106",
+    "name": "LEUBU MESJID"
+  },
+  {
+    "id": "1111062005",
+    "district_id": "111106",
+    "name": "KUTA BARAT"
+  },
+  {
+    "id": "1111062006",
+    "district_id": "111106",
+    "name": "TRIENGGADENG"
+  },
+  {
+    "id": "1111062007",
+    "district_id": "111106",
+    "name": "COT KRUET"
+  },
+  {
+    "id": "1111062008",
+    "district_id": "111106",
+    "name": "BLANG KHUTANG"
+  },
+  {
+    "id": "1111062009",
+    "district_id": "111106",
+    "name": "BUKET SEULAMAT"
+  },
+  {
+    "id": "1111062010",
+    "district_id": "111106",
+    "name": "LAPEHAN MESJID"
+  },
+  {
+    "id": "1111062011",
+    "district_id": "111106",
+    "name": "ULEE GLEE"
+  },
+  {
+    "id": "1111062012",
+    "district_id": "111106",
+    "name": "MONA ARA"
+  },
+  {
+    "id": "1111062013",
+    "district_id": "111106",
+    "name": "PANDAK"
+  },
+  {
+    "id": "1111062014",
+    "district_id": "111106",
+    "name": "BLANG DALAM"
+  },
+  {
+    "id": "1111062015",
+    "district_id": "111106",
+    "name": "ALUE DUA"
+  },
+  {
+    "id": "1111062016",
+    "district_id": "111106",
+    "name": "SEUNEUBOK BARO"
+  },
+  {
+    "id": "1111062017",
+    "district_id": "111106",
+    "name": "PANTEU BREUH"
+  },
+  {
+    "id": "1111062018",
+    "district_id": "111106",
+    "name": "TANJONG MULIA"
+  },
+  {
+    "id": "1111062019",
+    "district_id": "111106",
+    "name": "BLANG MANE"
+  },
+  {
+    "id": "1111062020",
+    "district_id": "111106",
+    "name": "MEUREUBO"
+  },
+  {
+    "id": "1111062021",
+    "district_id": "111106",
+    "name": "BLANG PERLAK"
+  },
+  {
+    "id": "1111062022",
+    "district_id": "111106",
+    "name": "PANTON MESJID"
+  },
+  {
+    "id": "1111062023",
+    "district_id": "111106",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "1111062024",
+    "district_id": "111106",
+    "name": "MATANG KUMBANG"
+  },
+  {
+    "id": "1111062025",
+    "district_id": "111106",
+    "name": "PULO TEUNGOH"
+  },
+  {
+    "id": "1111062026",
+    "district_id": "111106",
+    "name": "BATEE DABAI"
+  },
+  {
+    "id": "1111062027",
+    "district_id": "111106",
+    "name": "ARA LIPEH"
+  }
+]

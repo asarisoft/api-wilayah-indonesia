@@ -1,1 +1,152 @@
-[{"id": "321501", "regency_id": "3215", "name": "KARAWANG BARAT"}, {"id": "321502", "regency_id": "3215", "name": "PANGKALAN"}, {"id": "321503", "regency_id": "3215", "name": "TELUKJAMBE TIMUR"}, {"id": "321504", "regency_id": "3215", "name": "CIAMPEL"}, {"id": "321505", "regency_id": "3215", "name": "KLARI"}, {"id": "321506", "regency_id": "3215", "name": "RENGASDENGKLOK"}, {"id": "321507", "regency_id": "3215", "name": "KUTAWALUYA"}, {"id": "321508", "regency_id": "3215", "name": "BATUJAYA"}, {"id": "321509", "regency_id": "3215", "name": "TIRTAJAYA"}, {"id": "321510", "regency_id": "3215", "name": "PEDES"}, {"id": "321511", "regency_id": "3215", "name": "CIBUAYA"}, {"id": "321512", "regency_id": "3215", "name": "PAKISJAYA"}, {"id": "321513", "regency_id": "3215", "name": "CIKAMPEK"}, {"id": "321514", "regency_id": "3215", "name": "JATISARI"}, {"id": "321515", "regency_id": "3215", "name": "CILAMAYA WETAN"}, {"id": "321516", "regency_id": "3215", "name": "TIRTAMULYA"}, {"id": "321517", "regency_id": "3215", "name": "TELAGASARI"}, {"id": "321518", "regency_id": "3215", "name": "RAWAMERTA"}, {"id": "321519", "regency_id": "3215", "name": "LEMAHABANG"}, {"id": "321520", "regency_id": "3215", "name": "TEMPURAN"}, {"id": "321521", "regency_id": "3215", "name": "MAJALAYA"}, {"id": "321522", "regency_id": "3215", "name": "JAYAKERTA"}, {"id": "321523", "regency_id": "3215", "name": "CILAMAYA KULON"}, {"id": "321524", "regency_id": "3215", "name": "BANYUSARI"}, {"id": "321525", "regency_id": "3215", "name": "KOTA BARU"}, {"id": "321526", "regency_id": "3215", "name": "KARAWANG TIMUR"}, {"id": "321527", "regency_id": "3215", "name": "TELUKJAMBE BARAT"}, {"id": "321528", "regency_id": "3215", "name": "TEGALWARU"}, {"id": "321529", "regency_id": "3215", "name": "PURWASARI"}, {"id": "321530", "regency_id": "3215", "name": "CILEBAR"}]
+[
+  {
+    "id": "321501",
+    "regency_id": "3215",
+    "name": "KARAWANG BARAT"
+  },
+  {
+    "id": "321502",
+    "regency_id": "3215",
+    "name": "PANGKALAN"
+  },
+  {
+    "id": "321503",
+    "regency_id": "3215",
+    "name": "TELUKJAMBE TIMUR"
+  },
+  {
+    "id": "321504",
+    "regency_id": "3215",
+    "name": "CIAMPEL"
+  },
+  {
+    "id": "321505",
+    "regency_id": "3215",
+    "name": "KLARI"
+  },
+  {
+    "id": "321506",
+    "regency_id": "3215",
+    "name": "RENGASDENGKLOK"
+  },
+  {
+    "id": "321507",
+    "regency_id": "3215",
+    "name": "KUTAWALUYA"
+  },
+  {
+    "id": "321508",
+    "regency_id": "3215",
+    "name": "BATUJAYA"
+  },
+  {
+    "id": "321509",
+    "regency_id": "3215",
+    "name": "TIRTAJAYA"
+  },
+  {
+    "id": "321510",
+    "regency_id": "3215",
+    "name": "PEDES"
+  },
+  {
+    "id": "321511",
+    "regency_id": "3215",
+    "name": "CIBUAYA"
+  },
+  {
+    "id": "321512",
+    "regency_id": "3215",
+    "name": "PAKISJAYA"
+  },
+  {
+    "id": "321513",
+    "regency_id": "3215",
+    "name": "CIKAMPEK"
+  },
+  {
+    "id": "321514",
+    "regency_id": "3215",
+    "name": "JATISARI"
+  },
+  {
+    "id": "321515",
+    "regency_id": "3215",
+    "name": "CILAMAYA WETAN"
+  },
+  {
+    "id": "321516",
+    "regency_id": "3215",
+    "name": "TIRTAMULYA"
+  },
+  {
+    "id": "321517",
+    "regency_id": "3215",
+    "name": "TELAGASARI"
+  },
+  {
+    "id": "321518",
+    "regency_id": "3215",
+    "name": "RAWAMERTA"
+  },
+  {
+    "id": "321519",
+    "regency_id": "3215",
+    "name": "LEMAHABANG"
+  },
+  {
+    "id": "321520",
+    "regency_id": "3215",
+    "name": "TEMPURAN"
+  },
+  {
+    "id": "321521",
+    "regency_id": "3215",
+    "name": "MAJALAYA"
+  },
+  {
+    "id": "321522",
+    "regency_id": "3215",
+    "name": "JAYAKERTA"
+  },
+  {
+    "id": "321523",
+    "regency_id": "3215",
+    "name": "CILAMAYA KULON"
+  },
+  {
+    "id": "321524",
+    "regency_id": "3215",
+    "name": "BANYUSARI"
+  },
+  {
+    "id": "321525",
+    "regency_id": "3215",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "321526",
+    "regency_id": "3215",
+    "name": "KARAWANG TIMUR"
+  },
+  {
+    "id": "321527",
+    "regency_id": "3215",
+    "name": "TELUKJAMBE BARAT"
+  },
+  {
+    "id": "321528",
+    "regency_id": "3215",
+    "name": "TEGALWARU"
+  },
+  {
+    "id": "321529",
+    "regency_id": "3215",
+    "name": "PURWASARI"
+  },
+  {
+    "id": "321530",
+    "regency_id": "3215",
+    "name": "CILEBAR"
+  }
+]

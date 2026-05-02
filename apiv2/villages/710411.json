@@ -1,1 +1,32 @@
-[{"id": "7104112001", "district_id": "710411", "name": "BITUNURIS"}, {"id": "7104112002", "district_id": "710411", "name": "BITUNURIS SELATAN"}, {"id": "7104112003", "district_id": "710411", "name": "SALIBABU"}, {"id": "7104112004", "district_id": "710411", "name": "SALIBABU UTARA"}, {"id": "7104112005", "district_id": "710411", "name": "DALUM"}, {"id": "7104112006", "district_id": "710411", "name": "BALANG"}]
+[
+  {
+    "id": "7104112001",
+    "district_id": "710411",
+    "name": "BITUNURIS"
+  },
+  {
+    "id": "7104112002",
+    "district_id": "710411",
+    "name": "BITUNURIS SELATAN"
+  },
+  {
+    "id": "7104112003",
+    "district_id": "710411",
+    "name": "SALIBABU"
+  },
+  {
+    "id": "7104112004",
+    "district_id": "710411",
+    "name": "SALIBABU UTARA"
+  },
+  {
+    "id": "7104112005",
+    "district_id": "710411",
+    "name": "DALUM"
+  },
+  {
+    "id": "7104112006",
+    "district_id": "710411",
+    "name": "BALANG"
+  }
+]

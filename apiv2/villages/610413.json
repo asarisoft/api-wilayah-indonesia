@@ -1,1 +1,127 @@
-[{"id": "6104132001", "district_id": "610413", "name": "TUMBANG TITI"}, {"id": "6104132002", "district_id": "610413", "name": "NATAI PANJANG"}, {"id": "6104132003", "district_id": "610413", "name": "SERENGKAH"}, {"id": "6104132004", "district_id": "610413", "name": "MAHAWA"}, {"id": "6104132005", "district_id": "610413", "name": "NANGA KELAMPAI"}, {"id": "6104132006", "district_id": "610413", "name": "BATU TAJAM"}, {"id": "6104132009", "district_id": "610413", "name": "KALIMAS BARU"}, {"id": "6104132013", "district_id": "610413", "name": "PEMUATAN JAYA"}, {"id": "6104132016", "district_id": "610413", "name": "SENGKAHARAK"}, {"id": "6104132020", "district_id": "610413", "name": "BELABAN TUJUH"}, {"id": "6104132023", "district_id": "610413", "name": "SEGAR WANGI"}, {"id": "6104132024", "district_id": "610413", "name": "PETEBANG JAYA"}, {"id": "6104132025", "district_id": "610413", "name": "AUR GADING"}, {"id": "6104132026", "district_id": "610413", "name": "BERINGIN RAYO"}, {"id": "6104132027", "district_id": "610413", "name": "TITI BARU"}, {"id": "6104132028", "district_id": "610413", "name": "TANJUNG BEULANG"}, {"id": "6104132029", "district_id": "610413", "name": "BATU BERANSAK"}, {"id": "6104132030", "district_id": "610413", "name": "SERENGKAH KANAN"}, {"id": "6104132031", "district_id": "610413", "name": "SEPAUHAN RAYA"}, {"id": "6104132032", "district_id": "610413", "name": "JUNGKAL"}, {"id": "6104132033", "district_id": "610413", "name": "JELAYAN"}, {"id": "6104132034", "district_id": "610413", "name": "PENGATAPAN RAYA"}, {"id": "6104132035", "district_id": "610413", "name": "SUKA DAMAI"}, {"id": "6104132036", "district_id": "610413", "name": "TANJUNG MALOI"}, {"id": "6104132037", "district_id": "610413", "name": "SEPURING INDAH"}]
+[
+  {
+    "id": "6104132001",
+    "district_id": "610413",
+    "name": "TUMBANG TITI"
+  },
+  {
+    "id": "6104132002",
+    "district_id": "610413",
+    "name": "NATAI PANJANG"
+  },
+  {
+    "id": "6104132003",
+    "district_id": "610413",
+    "name": "SERENGKAH"
+  },
+  {
+    "id": "6104132004",
+    "district_id": "610413",
+    "name": "MAHAWA"
+  },
+  {
+    "id": "6104132005",
+    "district_id": "610413",
+    "name": "NANGA KELAMPAI"
+  },
+  {
+    "id": "6104132006",
+    "district_id": "610413",
+    "name": "BATU TAJAM"
+  },
+  {
+    "id": "6104132009",
+    "district_id": "610413",
+    "name": "KALIMAS BARU"
+  },
+  {
+    "id": "6104132013",
+    "district_id": "610413",
+    "name": "PEMUATAN JAYA"
+  },
+  {
+    "id": "6104132016",
+    "district_id": "610413",
+    "name": "SENGKAHARAK"
+  },
+  {
+    "id": "6104132020",
+    "district_id": "610413",
+    "name": "BELABAN TUJUH"
+  },
+  {
+    "id": "6104132023",
+    "district_id": "610413",
+    "name": "SEGAR WANGI"
+  },
+  {
+    "id": "6104132024",
+    "district_id": "610413",
+    "name": "PETEBANG JAYA"
+  },
+  {
+    "id": "6104132025",
+    "district_id": "610413",
+    "name": "AUR GADING"
+  },
+  {
+    "id": "6104132026",
+    "district_id": "610413",
+    "name": "BERINGIN RAYO"
+  },
+  {
+    "id": "6104132027",
+    "district_id": "610413",
+    "name": "TITI BARU"
+  },
+  {
+    "id": "6104132028",
+    "district_id": "610413",
+    "name": "TANJUNG BEULANG"
+  },
+  {
+    "id": "6104132029",
+    "district_id": "610413",
+    "name": "BATU BERANSAK"
+  },
+  {
+    "id": "6104132030",
+    "district_id": "610413",
+    "name": "SERENGKAH KANAN"
+  },
+  {
+    "id": "6104132031",
+    "district_id": "610413",
+    "name": "SEPAUHAN RAYA"
+  },
+  {
+    "id": "6104132032",
+    "district_id": "610413",
+    "name": "JUNGKAL"
+  },
+  {
+    "id": "6104132033",
+    "district_id": "610413",
+    "name": "JELAYAN"
+  },
+  {
+    "id": "6104132034",
+    "district_id": "610413",
+    "name": "PENGATAPAN RAYA"
+  },
+  {
+    "id": "6104132035",
+    "district_id": "610413",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "6104132036",
+    "district_id": "610413",
+    "name": "TANJUNG MALOI"
+  },
+  {
+    "id": "6104132037",
+    "district_id": "610413",
+    "name": "SEPURING INDAH"
+  }
+]

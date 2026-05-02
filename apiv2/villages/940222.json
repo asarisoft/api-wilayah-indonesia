@@ -1,1 +1,57 @@
-[{"id": "9402222001", "district_id": "940222", "name": "NIOGA"}, {"id": "9402222002", "district_id": "940222", "name": "YONGGI"}, {"id": "9402222003", "district_id": "940222", "name": "WONGGI"}, {"id": "9402222004", "district_id": "940222", "name": "WAMBAGALO"}, {"id": "9402222005", "district_id": "940222", "name": "JIGONIKME"}, {"id": "9402222006", "district_id": "940222", "name": "MURUWI"}, {"id": "9402222007", "district_id": "940222", "name": "WUTIME"}, {"id": "9402222008", "district_id": "940222", "name": "GIBAGA"}, {"id": "9402222009", "district_id": "940222", "name": "PAPAK"}, {"id": "9402222010", "district_id": "940222", "name": "WANDURI"}, {"id": "9402222011", "district_id": "940222", "name": "WALOM"}]
+[
+  {
+    "id": "9402222001",
+    "district_id": "940222",
+    "name": "NIOGA"
+  },
+  {
+    "id": "9402222002",
+    "district_id": "940222",
+    "name": "YONGGI"
+  },
+  {
+    "id": "9402222003",
+    "district_id": "940222",
+    "name": "WONGGI"
+  },
+  {
+    "id": "9402222004",
+    "district_id": "940222",
+    "name": "WAMBAGALO"
+  },
+  {
+    "id": "9402222005",
+    "district_id": "940222",
+    "name": "JIGONIKME"
+  },
+  {
+    "id": "9402222006",
+    "district_id": "940222",
+    "name": "MURUWI"
+  },
+  {
+    "id": "9402222007",
+    "district_id": "940222",
+    "name": "WUTIME"
+  },
+  {
+    "id": "9402222008",
+    "district_id": "940222",
+    "name": "GIBAGA"
+  },
+  {
+    "id": "9402222009",
+    "district_id": "940222",
+    "name": "PAPAK"
+  },
+  {
+    "id": "9402222010",
+    "district_id": "940222",
+    "name": "WANDURI"
+  },
+  {
+    "id": "9402222011",
+    "district_id": "940222",
+    "name": "WALOM"
+  }
+]

@@ -1,1 +1,147 @@
-[{"id": "5309091010", "district_id": "530909", "name": "BENTENG TENGAH"}, {"id": "5309091011", "district_id": "530909", "name": "NANGAMESE"}, {"id": "5309092005", "district_id": "530909", "name": "TAENTERONG"}, {"id": "5309092006", "district_id": "530909", "name": "WANGKA"}, {"id": "5309092008", "district_id": "530909", "name": "LENGKOSAMBI"}, {"id": "5309092009", "district_id": "530909", "name": "TADHO"}, {"id": "5309092012", "district_id": "530909", "name": "SAMBINASI"}, {"id": "5309092013", "district_id": "530909", "name": "LATUNG"}, {"id": "5309092014", "district_id": "530909", "name": "RAWANGKALO"}, {"id": "5309092016", "district_id": "530909", "name": "WANGKA SELATAN"}, {"id": "5309092017", "district_id": "530909", "name": "LENGKOSAMBI TIMUR"}, {"id": "5309092018", "district_id": "530909", "name": "LENGKOSAMBI BARAT"}, {"id": "5309092019", "district_id": "530909", "name": "SAMBINASI BARAT"}, {"id": "5309092020", "district_id": "530909", "name": "LENGKOSAMBI UTARA"}, {"id": "5309092021", "district_id": "530909", "name": "TAEN TERONG I"}, {"id": "5309092022", "district_id": "530909", "name": "TAEN TERONG II"}, {"id": "5309092023", "district_id": "530909", "name": "KOTA RAJA"}, {"id": "5309092024", "district_id": "530909", "name": "ITE JAYA"}, {"id": "5309092025", "district_id": "530909", "name": "WANGKA BARAT"}, {"id": "5309092026", "district_id": "530909", "name": "LENGKOSAMBI TENGAH"}, {"id": "5309092027", "district_id": "530909", "name": "TADHO TIMUR"}, {"id": "5309092028", "district_id": "530909", "name": "TADHO BARAT"}, {"id": "5309092029", "district_id": "530909", "name": "TADHO TENGAH"}, {"id": "5309092030", "district_id": "530909", "name": "SAMBINASI TENGAH"}, {"id": "5309092031", "district_id": "530909", "name": "LATUNG BARAT"}, {"id": "5309092032", "district_id": "530909", "name": "RAWANGKALO I"}, {"id": "5309092033", "district_id": "530909", "name": "RAWANGKALO II"}, {"id": "5309092034", "district_id": "530909", "name": "WAKAMANGA"}, {"id": "5309092035", "district_id": "530909", "name": "LENGKOSAMBI BARAT DAYA"}]
+[
+  {
+    "id": "5309091010",
+    "district_id": "530909",
+    "name": "BENTENG TENGAH"
+  },
+  {
+    "id": "5309091011",
+    "district_id": "530909",
+    "name": "NANGAMESE"
+  },
+  {
+    "id": "5309092005",
+    "district_id": "530909",
+    "name": "TAENTERONG"
+  },
+  {
+    "id": "5309092006",
+    "district_id": "530909",
+    "name": "WANGKA"
+  },
+  {
+    "id": "5309092008",
+    "district_id": "530909",
+    "name": "LENGKOSAMBI"
+  },
+  {
+    "id": "5309092009",
+    "district_id": "530909",
+    "name": "TADHO"
+  },
+  {
+    "id": "5309092012",
+    "district_id": "530909",
+    "name": "SAMBINASI"
+  },
+  {
+    "id": "5309092013",
+    "district_id": "530909",
+    "name": "LATUNG"
+  },
+  {
+    "id": "5309092014",
+    "district_id": "530909",
+    "name": "RAWANGKALO"
+  },
+  {
+    "id": "5309092016",
+    "district_id": "530909",
+    "name": "WANGKA SELATAN"
+  },
+  {
+    "id": "5309092017",
+    "district_id": "530909",
+    "name": "LENGKOSAMBI TIMUR"
+  },
+  {
+    "id": "5309092018",
+    "district_id": "530909",
+    "name": "LENGKOSAMBI BARAT"
+  },
+  {
+    "id": "5309092019",
+    "district_id": "530909",
+    "name": "SAMBINASI BARAT"
+  },
+  {
+    "id": "5309092020",
+    "district_id": "530909",
+    "name": "LENGKOSAMBI UTARA"
+  },
+  {
+    "id": "5309092021",
+    "district_id": "530909",
+    "name": "TAEN TERONG I"
+  },
+  {
+    "id": "5309092022",
+    "district_id": "530909",
+    "name": "TAEN TERONG II"
+  },
+  {
+    "id": "5309092023",
+    "district_id": "530909",
+    "name": "KOTA RAJA"
+  },
+  {
+    "id": "5309092024",
+    "district_id": "530909",
+    "name": "ITE JAYA"
+  },
+  {
+    "id": "5309092025",
+    "district_id": "530909",
+    "name": "WANGKA BARAT"
+  },
+  {
+    "id": "5309092026",
+    "district_id": "530909",
+    "name": "LENGKOSAMBI TENGAH"
+  },
+  {
+    "id": "5309092027",
+    "district_id": "530909",
+    "name": "TADHO TIMUR"
+  },
+  {
+    "id": "5309092028",
+    "district_id": "530909",
+    "name": "TADHO BARAT"
+  },
+  {
+    "id": "5309092029",
+    "district_id": "530909",
+    "name": "TADHO TENGAH"
+  },
+  {
+    "id": "5309092030",
+    "district_id": "530909",
+    "name": "SAMBINASI TENGAH"
+  },
+  {
+    "id": "5309092031",
+    "district_id": "530909",
+    "name": "LATUNG BARAT"
+  },
+  {
+    "id": "5309092032",
+    "district_id": "530909",
+    "name": "RAWANGKALO I"
+  },
+  {
+    "id": "5309092033",
+    "district_id": "530909",
+    "name": "RAWANGKALO II"
+  },
+  {
+    "id": "5309092034",
+    "district_id": "530909",
+    "name": "WAKAMANGA"
+  },
+  {
+    "id": "5309092035",
+    "district_id": "530909",
+    "name": "LENGKOSAMBI BARAT DAYA"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "3403132001", "district_id": "340313", "name": "TANCEP"}, {"id": "3403132002", "district_id": "340313", "name": "SAMBIREJO"}, {"id": "3403132003", "district_id": "340313", "name": "JURANGJERO"}, {"id": "3403132004", "district_id": "340313", "name": "KAMPUNG"}, {"id": "3403132005", "district_id": "340313", "name": "BEJI"}, {"id": "3403132006", "district_id": "340313", "name": "WATUSIGAR"}]
+[
+  {
+    "id": "3403132001",
+    "district_id": "340313",
+    "name": "TANCEP"
+  },
+  {
+    "id": "3403132002",
+    "district_id": "340313",
+    "name": "SAMBIREJO"
+  },
+  {
+    "id": "3403132003",
+    "district_id": "340313",
+    "name": "JURANGJERO"
+  },
+  {
+    "id": "3403132004",
+    "district_id": "340313",
+    "name": "KAMPUNG"
+  },
+  {
+    "id": "3403132005",
+    "district_id": "340313",
+    "name": "BEJI"
+  },
+  {
+    "id": "3403132006",
+    "district_id": "340313",
+    "name": "WATUSIGAR"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "7201011006", "district_id": "720101", "name": "BUGIS"}, {"id": "7201011007", "district_id": "720101", "name": "BALANTANG"}, {"id": "7201011008", "district_id": "720101", "name": "BATUI"}, {"id": "7201011009", "district_id": "720101", "name": "TOLANDO"}, {"id": "7201011010", "district_id": "720101", "name": "LAMO"}, {"id": "7201011017", "district_id": "720101", "name": "SISIPAN"}, {"id": "7201011023", "district_id": "720101", "name": "BAKUNG"}, {"id": "7201012002", "district_id": "720101", "name": "NONONG"}, {"id": "7201012003", "district_id": "720101", "name": "KAYOWA"}, {"id": "7201012005", "district_id": "720101", "name": "ONDO-ONDOLU"}, {"id": "7201012011", "district_id": "720101", "name": "HONBOLA"}, {"id": "7201012012", "district_id": "720101", "name": "USO"}, {"id": "7201012016", "district_id": "720101", "name": "ONDO-ONDOLU I"}]
+[
+  {
+    "id": "7201011006",
+    "district_id": "720101",
+    "name": "BUGIS"
+  },
+  {
+    "id": "7201011007",
+    "district_id": "720101",
+    "name": "BALANTANG"
+  },
+  {
+    "id": "7201011008",
+    "district_id": "720101",
+    "name": "BATUI"
+  },
+  {
+    "id": "7201011009",
+    "district_id": "720101",
+    "name": "TOLANDO"
+  },
+  {
+    "id": "7201011010",
+    "district_id": "720101",
+    "name": "LAMO"
+  },
+  {
+    "id": "7201011017",
+    "district_id": "720101",
+    "name": "SISIPAN"
+  },
+  {
+    "id": "7201011023",
+    "district_id": "720101",
+    "name": "BAKUNG"
+  },
+  {
+    "id": "7201012002",
+    "district_id": "720101",
+    "name": "NONONG"
+  },
+  {
+    "id": "7201012003",
+    "district_id": "720101",
+    "name": "KAYOWA"
+  },
+  {
+    "id": "7201012005",
+    "district_id": "720101",
+    "name": "ONDO-ONDOLU"
+  },
+  {
+    "id": "7201012011",
+    "district_id": "720101",
+    "name": "HONBOLA"
+  },
+  {
+    "id": "7201012012",
+    "district_id": "720101",
+    "name": "USO"
+  },
+  {
+    "id": "7201012016",
+    "district_id": "720101",
+    "name": "ONDO-ONDOLU I"
+  }
+]

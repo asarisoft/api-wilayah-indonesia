@@ -1,1 +1,37 @@
-[{"id": "8101122001", "district_id": "810112", "name": "BOOI"}, {"id": "8101122002", "district_id": "810112", "name": "PAPERU"}, {"id": "8101122003", "district_id": "810112", "name": "TIOUW"}, {"id": "8101122004", "district_id": "810112", "name": "HARIA"}, {"id": "8101122005", "district_id": "810112", "name": "PORTO"}, {"id": "8101122006", "district_id": "810112", "name": "KULUR"}, {"id": "8101122012", "district_id": "810112", "name": "SAPARUA"}]
+[
+  {
+    "id": "8101122001",
+    "district_id": "810112",
+    "name": "BOOI"
+  },
+  {
+    "id": "8101122002",
+    "district_id": "810112",
+    "name": "PAPERU"
+  },
+  {
+    "id": "8101122003",
+    "district_id": "810112",
+    "name": "TIOUW"
+  },
+  {
+    "id": "8101122004",
+    "district_id": "810112",
+    "name": "HARIA"
+  },
+  {
+    "id": "8101122005",
+    "district_id": "810112",
+    "name": "PORTO"
+  },
+  {
+    "id": "8101122006",
+    "district_id": "810112",
+    "name": "KULUR"
+  },
+  {
+    "id": "8101122012",
+    "district_id": "810112",
+    "name": "SAPARUA"
+  }
+]

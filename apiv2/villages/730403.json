@@ -1,1 +1,67 @@
-[{"id": "7304031001", "district_id": "730403", "name": "PABIRINGA"}, {"id": "7304031002", "district_id": "730403", "name": "BALANG"}, {"id": "7304031003", "district_id": "730403", "name": "EMPOANG"}, {"id": "7304031004", "district_id": "730403", "name": "BALANG TOA"}, {"id": "7304031005", "district_id": "730403", "name": "BALANG BERU"}, {"id": "7304031006", "district_id": "730403", "name": "EMPOANG SELATAN"}, {"id": "7304031007", "district_id": "730403", "name": "SIDENRE"}, {"id": "7304031008", "district_id": "730403", "name": "EMPOANG UTARA"}, {"id": "7304031009", "district_id": "730403", "name": "MONRO MONRO"}, {"id": "7304031010", "district_id": "730403", "name": "BIRING KASSI"}, {"id": "7304031011", "district_id": "730403", "name": "PANAIKANG"}, {"id": "7304031012", "district_id": "730403", "name": "BONTOA"}, {"id": "7304032013", "district_id": "730403", "name": "SAPANANG"}]
+[
+  {
+    "id": "7304031001",
+    "district_id": "730403",
+    "name": "PABIRINGA"
+  },
+  {
+    "id": "7304031002",
+    "district_id": "730403",
+    "name": "BALANG"
+  },
+  {
+    "id": "7304031003",
+    "district_id": "730403",
+    "name": "EMPOANG"
+  },
+  {
+    "id": "7304031004",
+    "district_id": "730403",
+    "name": "BALANG TOA"
+  },
+  {
+    "id": "7304031005",
+    "district_id": "730403",
+    "name": "BALANG BERU"
+  },
+  {
+    "id": "7304031006",
+    "district_id": "730403",
+    "name": "EMPOANG SELATAN"
+  },
+  {
+    "id": "7304031007",
+    "district_id": "730403",
+    "name": "SIDENRE"
+  },
+  {
+    "id": "7304031008",
+    "district_id": "730403",
+    "name": "EMPOANG UTARA"
+  },
+  {
+    "id": "7304031009",
+    "district_id": "730403",
+    "name": "MONRO MONRO"
+  },
+  {
+    "id": "7304031010",
+    "district_id": "730403",
+    "name": "BIRING KASSI"
+  },
+  {
+    "id": "7304031011",
+    "district_id": "730403",
+    "name": "PANAIKANG"
+  },
+  {
+    "id": "7304031012",
+    "district_id": "730403",
+    "name": "BONTOA"
+  },
+  {
+    "id": "7304032013",
+    "district_id": "730403",
+    "name": "SAPANANG"
+  }
+]

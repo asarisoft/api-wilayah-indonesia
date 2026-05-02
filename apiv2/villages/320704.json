@@ -1,1 +1,42 @@
-[{"id": "3207042001", "district_id": "320704", "name": "GUNUNGSARI"}, {"id": "3207042002", "district_id": "320704", "name": "SADANANYA"}, {"id": "3207042003", "district_id": "320704", "name": "WERASARI"}, {"id": "3207042004", "district_id": "320704", "name": "MANGKUBUMI"}, {"id": "3207042005", "district_id": "320704", "name": "TANJUNGSARI"}, {"id": "3207042006", "district_id": "320704", "name": "BENDASARI"}, {"id": "3207042007", "district_id": "320704", "name": "SUKAJADI"}, {"id": "3207042008", "district_id": "320704", "name": "MEKARJADI"}]
+[
+  {
+    "id": "3207042001",
+    "district_id": "320704",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3207042002",
+    "district_id": "320704",
+    "name": "SADANANYA"
+  },
+  {
+    "id": "3207042003",
+    "district_id": "320704",
+    "name": "WERASARI"
+  },
+  {
+    "id": "3207042004",
+    "district_id": "320704",
+    "name": "MANGKUBUMI"
+  },
+  {
+    "id": "3207042005",
+    "district_id": "320704",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3207042006",
+    "district_id": "320704",
+    "name": "BENDASARI"
+  },
+  {
+    "id": "3207042007",
+    "district_id": "320704",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "3207042008",
+    "district_id": "320704",
+    "name": "MEKARJADI"
+  }
+]

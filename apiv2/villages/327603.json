@@ -1,1 +1,37 @@
-[{"id": "3276031001", "district_id": "327603", "name": "PASIR PUTIH"}, {"id": "3276031002", "district_id": "327603", "name": "BEDAHAN"}, {"id": "3276031003", "district_id": "327603", "name": "PENGASINAN"}, {"id": "3276031009", "district_id": "327603", "name": "CINANGKA"}, {"id": "3276031010", "district_id": "327603", "name": "SAWANGAN"}, {"id": "3276031011", "district_id": "327603", "name": "SAWANGAN BARU"}, {"id": "3276031012", "district_id": "327603", "name": "KEDAUNG"}]
+[
+  {
+    "id": "3276031001",
+    "district_id": "327603",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "3276031002",
+    "district_id": "327603",
+    "name": "BEDAHAN"
+  },
+  {
+    "id": "3276031003",
+    "district_id": "327603",
+    "name": "PENGASINAN"
+  },
+  {
+    "id": "3276031009",
+    "district_id": "327603",
+    "name": "CINANGKA"
+  },
+  {
+    "id": "3276031010",
+    "district_id": "327603",
+    "name": "SAWANGAN"
+  },
+  {
+    "id": "3276031011",
+    "district_id": "327603",
+    "name": "SAWANGAN BARU"
+  },
+  {
+    "id": "3276031012",
+    "district_id": "327603",
+    "name": "KEDAUNG"
+  }
+]

@@ -1,1 +1,92 @@
-[{"id": "1277051001", "district_id": "127705", "name": "SIHITANG"}, {"id": "1277051002", "district_id": "127705", "name": "PIJOR KOLING"}, {"id": "1277052003", "district_id": "127705", "name": "PALOPAT PIJOR KOLING"}, {"id": "1277052004", "district_id": "127705", "name": "SALAMBUE"}, {"id": "1277052005", "district_id": "127705", "name": "PURBATUA PIJOR KOLING"}, {"id": "1277052006", "district_id": "127705", "name": "SIGULANG"}, {"id": "1277052007", "district_id": "127705", "name": "MANUNGGANG JULU"}, {"id": "1277052008", "district_id": "127705", "name": "GOTI"}, {"id": "1277052009", "district_id": "127705", "name": "MANEGEN"}, {"id": "1277052010", "district_id": "127705", "name": "HUTA KOJE"}, {"id": "1277052011", "district_id": "127705", "name": "HUTALIMBONG"}, {"id": "1277052012", "district_id": "127705", "name": "HUTA PADANG"}, {"id": "1277052013", "district_id": "127705", "name": "PERKEBUNAN PIJOR KOLING"}, {"id": "1277052014", "district_id": "127705", "name": "LABUHAN LABO"}, {"id": "1277052015", "district_id": "127705", "name": "HUTA LOMBANG"}, {"id": "1277052016", "district_id": "127705", "name": "MANUNGGANG JAE"}, {"id": "1277052017", "district_id": "127705", "name": "LABUHAN RASOKI"}, {"id": "1277052018", "district_id": "127705", "name": "TARUTUNG BARU"}]
+[
+  {
+    "id": "1277051001",
+    "district_id": "127705",
+    "name": "SIHITANG"
+  },
+  {
+    "id": "1277051002",
+    "district_id": "127705",
+    "name": "PIJOR KOLING"
+  },
+  {
+    "id": "1277052003",
+    "district_id": "127705",
+    "name": "PALOPAT PIJOR KOLING"
+  },
+  {
+    "id": "1277052004",
+    "district_id": "127705",
+    "name": "SALAMBUE"
+  },
+  {
+    "id": "1277052005",
+    "district_id": "127705",
+    "name": "PURBATUA PIJOR KOLING"
+  },
+  {
+    "id": "1277052006",
+    "district_id": "127705",
+    "name": "SIGULANG"
+  },
+  {
+    "id": "1277052007",
+    "district_id": "127705",
+    "name": "MANUNGGANG JULU"
+  },
+  {
+    "id": "1277052008",
+    "district_id": "127705",
+    "name": "GOTI"
+  },
+  {
+    "id": "1277052009",
+    "district_id": "127705",
+    "name": "MANEGEN"
+  },
+  {
+    "id": "1277052010",
+    "district_id": "127705",
+    "name": "HUTA KOJE"
+  },
+  {
+    "id": "1277052011",
+    "district_id": "127705",
+    "name": "HUTALIMBONG"
+  },
+  {
+    "id": "1277052012",
+    "district_id": "127705",
+    "name": "HUTA PADANG"
+  },
+  {
+    "id": "1277052013",
+    "district_id": "127705",
+    "name": "PERKEBUNAN PIJOR KOLING"
+  },
+  {
+    "id": "1277052014",
+    "district_id": "127705",
+    "name": "LABUHAN LABO"
+  },
+  {
+    "id": "1277052015",
+    "district_id": "127705",
+    "name": "HUTA LOMBANG"
+  },
+  {
+    "id": "1277052016",
+    "district_id": "127705",
+    "name": "MANUNGGANG JAE"
+  },
+  {
+    "id": "1277052017",
+    "district_id": "127705",
+    "name": "LABUHAN RASOKI"
+  },
+  {
+    "id": "1277052018",
+    "district_id": "127705",
+    "name": "TARUTUNG BARU"
+  }
+]

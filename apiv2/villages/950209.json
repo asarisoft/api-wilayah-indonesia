@@ -1,1 +1,37 @@
-[{"id": "9502092001", "district_id": "950209", "name": "PEPERA"}, {"id": "9502092002", "district_id": "950209", "name": "OKBON"}, {"id": "9502092003", "district_id": "950209", "name": "YUN MUKU"}, {"id": "9502092004", "district_id": "950209", "name": "DENOM"}, {"id": "9502092005", "district_id": "950209", "name": "BON YAKWOL"}, {"id": "9502092006", "district_id": "950209", "name": "OK TELABE"}, {"id": "9502092007", "district_id": "950209", "name": "WOK BAKON"}]
+[
+  {
+    "id": "9502092001",
+    "district_id": "950209",
+    "name": "PEPERA"
+  },
+  {
+    "id": "9502092002",
+    "district_id": "950209",
+    "name": "OKBON"
+  },
+  {
+    "id": "9502092003",
+    "district_id": "950209",
+    "name": "YUN MUKU"
+  },
+  {
+    "id": "9502092004",
+    "district_id": "950209",
+    "name": "DENOM"
+  },
+  {
+    "id": "9502092005",
+    "district_id": "950209",
+    "name": "BON YAKWOL"
+  },
+  {
+    "id": "9502092006",
+    "district_id": "950209",
+    "name": "OK TELABE"
+  },
+  {
+    "id": "9502092007",
+    "district_id": "950209",
+    "name": "WOK BAKON"
+  }
+]

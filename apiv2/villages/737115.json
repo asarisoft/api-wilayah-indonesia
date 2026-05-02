@@ -1,1 +1,17 @@
-[{"id": "7371151001", "district_id": "737115", "name": "BARRANG CADDI"}, {"id": "7371151002", "district_id": "737115", "name": "BARRANG LOMPO"}, {"id": "7371151003", "district_id": "737115", "name": "KODINGARENG"}]
+[
+  {
+    "id": "7371151001",
+    "district_id": "737115",
+    "name": "BARRANG CADDI"
+  },
+  {
+    "id": "7371151002",
+    "district_id": "737115",
+    "name": "BARRANG LOMPO"
+  },
+  {
+    "id": "7371151003",
+    "district_id": "737115",
+    "name": "KODINGARENG"
+  }
+]

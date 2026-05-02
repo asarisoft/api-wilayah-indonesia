@@ -1,1 +1,32 @@
-[{"id": "3510232001", "district_id": "351023", "name": "TEGALSARI"}, {"id": "3510232002", "district_id": "351023", "name": "KARANGDORO"}, {"id": "3510232003", "district_id": "351023", "name": "TAMANSARI"}, {"id": "3510232004", "district_id": "351023", "name": "DASRI"}, {"id": "3510232005", "district_id": "351023", "name": "KARANGMULYO"}, {"id": "3510232006", "district_id": "351023", "name": "TEGALREJO"}]
+[
+  {
+    "id": "3510232001",
+    "district_id": "351023",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3510232002",
+    "district_id": "351023",
+    "name": "KARANGDORO"
+  },
+  {
+    "id": "3510232003",
+    "district_id": "351023",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3510232004",
+    "district_id": "351023",
+    "name": "DASRI"
+  },
+  {
+    "id": "3510232005",
+    "district_id": "351023",
+    "name": "KARANGMULYO"
+  },
+  {
+    "id": "3510232006",
+    "district_id": "351023",
+    "name": "TEGALREJO"
+  }
+]

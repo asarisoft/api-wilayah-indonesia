@@ -1,1 +1,32 @@
-[{"id": "3578181001", "district_id": "357818", "name": "BANGKINGAN"}, {"id": "3578181002", "district_id": "357818", "name": "JERUK"}, {"id": "3578181003", "district_id": "357818", "name": "LAKARSANTRI"}, {"id": "3578181004", "district_id": "357818", "name": "LIDAH KULON"}, {"id": "3578181005", "district_id": "357818", "name": "LIDAH WETAN"}, {"id": "3578181006", "district_id": "357818", "name": "SUMURWELUT"}]
+[
+  {
+    "id": "3578181001",
+    "district_id": "357818",
+    "name": "BANGKINGAN"
+  },
+  {
+    "id": "3578181002",
+    "district_id": "357818",
+    "name": "JERUK"
+  },
+  {
+    "id": "3578181003",
+    "district_id": "357818",
+    "name": "LAKARSANTRI"
+  },
+  {
+    "id": "3578181004",
+    "district_id": "357818",
+    "name": "LIDAH KULON"
+  },
+  {
+    "id": "3578181005",
+    "district_id": "357818",
+    "name": "LIDAH WETAN"
+  },
+  {
+    "id": "3578181006",
+    "district_id": "357818",
+    "name": "SUMURWELUT"
+  }
+]

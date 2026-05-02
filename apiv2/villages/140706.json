@@ -1,1 +1,42 @@
-[{"id": "1407061007", "district_id": "140706", "name": "PANIPAHAN"}, {"id": "1407062001", "district_id": "140706", "name": "PANIPAHAN"}, {"id": "1407062002", "district_id": "140706", "name": "TELUKPULAI"}, {"id": "1407062003", "district_id": "140706", "name": "PASIR LIMAU KAPAS"}, {"id": "1407062004", "district_id": "140706", "name": "SUNGAI DAUN"}, {"id": "1407062005", "district_id": "140706", "name": "PANIPAHAN DARAT"}, {"id": "1407062006", "district_id": "140706", "name": "PANIPAHAN LAUT"}, {"id": "1407062008", "district_id": "140706", "name": "PULAUJEMUR"}]
+[
+  {
+    "id": "1407061007",
+    "district_id": "140706",
+    "name": "PANIPAHAN"
+  },
+  {
+    "id": "1407062001",
+    "district_id": "140706",
+    "name": "PANIPAHAN"
+  },
+  {
+    "id": "1407062002",
+    "district_id": "140706",
+    "name": "TELUKPULAI"
+  },
+  {
+    "id": "1407062003",
+    "district_id": "140706",
+    "name": "PASIR LIMAU KAPAS"
+  },
+  {
+    "id": "1407062004",
+    "district_id": "140706",
+    "name": "SUNGAI DAUN"
+  },
+  {
+    "id": "1407062005",
+    "district_id": "140706",
+    "name": "PANIPAHAN DARAT"
+  },
+  {
+    "id": "1407062006",
+    "district_id": "140706",
+    "name": "PANIPAHAN LAUT"
+  },
+  {
+    "id": "1407062008",
+    "district_id": "140706",
+    "name": "PULAUJEMUR"
+  }
+]

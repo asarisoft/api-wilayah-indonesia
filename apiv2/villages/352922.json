@@ -1,1 +1,47 @@
-[{"id": "3529222001", "district_id": "352922", "name": "KETUPAT"}, {"id": "3529222002", "district_id": "352922", "name": "JUNGKAT"}, {"id": "3529222003", "district_id": "352922", "name": "KROPOH"}, {"id": "3529222004", "district_id": "352922", "name": "KARANGNANGKA"}, {"id": "3529222005", "district_id": "352922", "name": "ALAS MALANG"}, {"id": "3529222006", "district_id": "352922", "name": "POTERAN"}, {"id": "3529222007", "district_id": "352922", "name": "BRAKAS"}, {"id": "3529222008", "district_id": "352922", "name": "TONDUK"}, {"id": "3529222009", "district_id": "352922", "name": "GUWA-GUWA"}]
+[
+  {
+    "id": "3529222001",
+    "district_id": "352922",
+    "name": "KETUPAT"
+  },
+  {
+    "id": "3529222002",
+    "district_id": "352922",
+    "name": "JUNGKAT"
+  },
+  {
+    "id": "3529222003",
+    "district_id": "352922",
+    "name": "KROPOH"
+  },
+  {
+    "id": "3529222004",
+    "district_id": "352922",
+    "name": "KARANGNANGKA"
+  },
+  {
+    "id": "3529222005",
+    "district_id": "352922",
+    "name": "ALAS MALANG"
+  },
+  {
+    "id": "3529222006",
+    "district_id": "352922",
+    "name": "POTERAN"
+  },
+  {
+    "id": "3529222007",
+    "district_id": "352922",
+    "name": "BRAKAS"
+  },
+  {
+    "id": "3529222008",
+    "district_id": "352922",
+    "name": "TONDUK"
+  },
+  {
+    "id": "3529222009",
+    "district_id": "352922",
+    "name": "GUWA-GUWA"
+  }
+]

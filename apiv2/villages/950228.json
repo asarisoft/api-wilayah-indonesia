@@ -1,1 +1,22 @@
-[{"id": "9502282001", "district_id": "950228", "name": "BIAS"}, {"id": "9502282002", "district_id": "950228", "name": "BUMI"}, {"id": "9502282003", "district_id": "950228", "name": "TERO"}, {"id": "9502282004", "district_id": "950228", "name": "DELEMO"}]
+[
+  {
+    "id": "9502282001",
+    "district_id": "950228",
+    "name": "BIAS"
+  },
+  {
+    "id": "9502282002",
+    "district_id": "950228",
+    "name": "BUMI"
+  },
+  {
+    "id": "9502282003",
+    "district_id": "950228",
+    "name": "TERO"
+  },
+  {
+    "id": "9502282004",
+    "district_id": "950228",
+    "name": "DELEMO"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "7104172001", "district_id": "710417", "name": "MORONGE"}, {"id": "7104172002", "district_id": "710417", "name": "MORONGE I"}, {"id": "7104172003", "district_id": "710417", "name": "MORONGE II"}, {"id": "7104172004", "district_id": "710417", "name": "MORONGE SELATAN"}, {"id": "7104172005", "district_id": "710417", "name": "MORONGE SELATAN II"}, {"id": "7104172006", "district_id": "710417", "name": "MORONGE SELATAN I"}]
+[
+  {
+    "id": "7104172001",
+    "district_id": "710417",
+    "name": "MORONGE"
+  },
+  {
+    "id": "7104172002",
+    "district_id": "710417",
+    "name": "MORONGE I"
+  },
+  {
+    "id": "7104172003",
+    "district_id": "710417",
+    "name": "MORONGE II"
+  },
+  {
+    "id": "7104172004",
+    "district_id": "710417",
+    "name": "MORONGE SELATAN"
+  },
+  {
+    "id": "7104172005",
+    "district_id": "710417",
+    "name": "MORONGE SELATAN II"
+  },
+  {
+    "id": "7104172006",
+    "district_id": "710417",
+    "name": "MORONGE SELATAN I"
+  }
+]

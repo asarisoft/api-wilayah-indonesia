@@ -1,1 +1,52 @@
-[{"id": "6203152001", "district_id": "620315", "name": "MASAHA"}, {"id": "6203152002", "district_id": "620315", "name": "SEI PINANG"}, {"id": "6203152003", "district_id": "620315", "name": "LAWANG TAMANG"}, {"id": "6203152004", "district_id": "620315", "name": "KARETAU MANTA'A"}, {"id": "6203152005", "district_id": "620315", "name": "TUMBANG BUKOI"}, {"id": "6203152006", "district_id": "620315", "name": "TUMBANG TIHIS"}, {"id": "6203152007", "district_id": "620315", "name": "TUMBANG MANYARUNG"}, {"id": "6203152008", "district_id": "620315", "name": "TANJUNG RENDAN"}, {"id": "6203152009", "district_id": "620315", "name": "JAKATAN MASAHA"}, {"id": "6203152010", "district_id": "620315", "name": "MASUPA RIA"}]
+[
+  {
+    "id": "6203152001",
+    "district_id": "620315",
+    "name": "MASAHA"
+  },
+  {
+    "id": "6203152002",
+    "district_id": "620315",
+    "name": "SEI PINANG"
+  },
+  {
+    "id": "6203152003",
+    "district_id": "620315",
+    "name": "LAWANG TAMANG"
+  },
+  {
+    "id": "6203152004",
+    "district_id": "620315",
+    "name": "KARETAU MANTA'A"
+  },
+  {
+    "id": "6203152005",
+    "district_id": "620315",
+    "name": "TUMBANG BUKOI"
+  },
+  {
+    "id": "6203152006",
+    "district_id": "620315",
+    "name": "TUMBANG TIHIS"
+  },
+  {
+    "id": "6203152007",
+    "district_id": "620315",
+    "name": "TUMBANG MANYARUNG"
+  },
+  {
+    "id": "6203152008",
+    "district_id": "620315",
+    "name": "TANJUNG RENDAN"
+  },
+  {
+    "id": "6203152009",
+    "district_id": "620315",
+    "name": "JAKATAN MASAHA"
+  },
+  {
+    "id": "6203152010",
+    "district_id": "620315",
+    "name": "MASUPA RIA"
+  }
+]

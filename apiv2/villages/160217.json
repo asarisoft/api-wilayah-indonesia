@@ -1,1 +1,97 @@
-[{"id": "1602172001", "district_id": "160217", "name": "TANJUNG AUR"}, {"id": "1602172002", "district_id": "160217", "name": "LUBUK KETEPENG"}, {"id": "1602172003", "district_id": "160217", "name": "TALANG CEMPEDAK"}, {"id": "1602172004", "district_id": "160217", "name": "BUBUSAN"}, {"id": "1602172005", "district_id": "160217", "name": "AIR ITAM"}, {"id": "1602172006", "district_id": "160217", "name": "JEJAWI"}, {"id": "1602172007", "district_id": "160217", "name": "KARANG AGUNG"}, {"id": "1602172008", "district_id": "160217", "name": "MUARA BATUN"}, {"id": "1602172009", "district_id": "160217", "name": "LINGKIS"}, {"id": "1602172010", "district_id": "160217", "name": "TERUSAN JAWA"}, {"id": "1602172011", "district_id": "160217", "name": "TANJUNG ALI"}, {"id": "1602172012", "district_id": "160217", "name": "SUKADARMA"}, {"id": "1602172013", "district_id": "160217", "name": "ULAK TEMBAGA"}, {"id": "1602172014", "district_id": "160217", "name": "PEDU"}, {"id": "1602172015", "district_id": "160217", "name": "PEMATANG KIJANG"}, {"id": "1602172016", "district_id": "160217", "name": "SIMPANG EMPAT"}, {"id": "1602172017", "district_id": "160217", "name": "PADANG BULAN"}, {"id": "1602172018", "district_id": "160217", "name": "BATUN BARU"}, {"id": "1602172019", "district_id": "160217", "name": "DANAU CEPER"}]
+[
+  {
+    "id": "1602172001",
+    "district_id": "160217",
+    "name": "TANJUNG AUR"
+  },
+  {
+    "id": "1602172002",
+    "district_id": "160217",
+    "name": "LUBUK KETEPENG"
+  },
+  {
+    "id": "1602172003",
+    "district_id": "160217",
+    "name": "TALANG CEMPEDAK"
+  },
+  {
+    "id": "1602172004",
+    "district_id": "160217",
+    "name": "BUBUSAN"
+  },
+  {
+    "id": "1602172005",
+    "district_id": "160217",
+    "name": "AIR ITAM"
+  },
+  {
+    "id": "1602172006",
+    "district_id": "160217",
+    "name": "JEJAWI"
+  },
+  {
+    "id": "1602172007",
+    "district_id": "160217",
+    "name": "KARANG AGUNG"
+  },
+  {
+    "id": "1602172008",
+    "district_id": "160217",
+    "name": "MUARA BATUN"
+  },
+  {
+    "id": "1602172009",
+    "district_id": "160217",
+    "name": "LINGKIS"
+  },
+  {
+    "id": "1602172010",
+    "district_id": "160217",
+    "name": "TERUSAN JAWA"
+  },
+  {
+    "id": "1602172011",
+    "district_id": "160217",
+    "name": "TANJUNG ALI"
+  },
+  {
+    "id": "1602172012",
+    "district_id": "160217",
+    "name": "SUKADARMA"
+  },
+  {
+    "id": "1602172013",
+    "district_id": "160217",
+    "name": "ULAK TEMBAGA"
+  },
+  {
+    "id": "1602172014",
+    "district_id": "160217",
+    "name": "PEDU"
+  },
+  {
+    "id": "1602172015",
+    "district_id": "160217",
+    "name": "PEMATANG KIJANG"
+  },
+  {
+    "id": "1602172016",
+    "district_id": "160217",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "1602172017",
+    "district_id": "160217",
+    "name": "PADANG BULAN"
+  },
+  {
+    "id": "1602172018",
+    "district_id": "160217",
+    "name": "BATUN BARU"
+  },
+  {
+    "id": "1602172019",
+    "district_id": "160217",
+    "name": "DANAU CEPER"
+  }
+]

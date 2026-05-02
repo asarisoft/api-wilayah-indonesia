@@ -1,1 +1,67 @@
-[{"id": "3528112001", "district_id": "352811", "name": "BUJUR BARAT"}, {"id": "3528112002", "district_id": "352811", "name": "PANGEREMAN"}, {"id": "3528112003", "district_id": "352811", "name": "BANGSERREH"}, {"id": "3528112004", "district_id": "352811", "name": "LESONG LAOK"}, {"id": "3528112005", "district_id": "352811", "name": "PONJANAN BARAT"}, {"id": "3528112006", "district_id": "352811", "name": "PONJANAN TIMUR"}, {"id": "3528112007", "district_id": "352811", "name": "KAPONG"}, {"id": "3528112008", "district_id": "352811", "name": "LESONG DAJA"}, {"id": "3528112009", "district_id": "352811", "name": "BATU BINTANG"}, {"id": "3528112010", "district_id": "352811", "name": "BLABAN"}, {"id": "3528112011", "district_id": "352811", "name": "TAMBERU"}, {"id": "3528112012", "district_id": "352811", "name": "BUJUR TENGAH"}, {"id": "3528112013", "district_id": "352811", "name": "BUJUR TIMUR"}]
+[
+  {
+    "id": "3528112001",
+    "district_id": "352811",
+    "name": "BUJUR BARAT"
+  },
+  {
+    "id": "3528112002",
+    "district_id": "352811",
+    "name": "PANGEREMAN"
+  },
+  {
+    "id": "3528112003",
+    "district_id": "352811",
+    "name": "BANGSERREH"
+  },
+  {
+    "id": "3528112004",
+    "district_id": "352811",
+    "name": "LESONG LAOK"
+  },
+  {
+    "id": "3528112005",
+    "district_id": "352811",
+    "name": "PONJANAN BARAT"
+  },
+  {
+    "id": "3528112006",
+    "district_id": "352811",
+    "name": "PONJANAN TIMUR"
+  },
+  {
+    "id": "3528112007",
+    "district_id": "352811",
+    "name": "KAPONG"
+  },
+  {
+    "id": "3528112008",
+    "district_id": "352811",
+    "name": "LESONG DAJA"
+  },
+  {
+    "id": "3528112009",
+    "district_id": "352811",
+    "name": "BATU BINTANG"
+  },
+  {
+    "id": "3528112010",
+    "district_id": "352811",
+    "name": "BLABAN"
+  },
+  {
+    "id": "3528112011",
+    "district_id": "352811",
+    "name": "TAMBERU"
+  },
+  {
+    "id": "3528112012",
+    "district_id": "352811",
+    "name": "BUJUR TENGAH"
+  },
+  {
+    "id": "3528112013",
+    "district_id": "352811",
+    "name": "BUJUR TIMUR"
+  }
+]

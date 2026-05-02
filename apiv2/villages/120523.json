@@ -1,1 +1,42 @@
-[{"id": "1205232001", "district_id": "120523", "name": "PEMATANG TENGAH"}, {"id": "1205232002", "district_id": "120523", "name": "DAMAR CONDONG"}, {"id": "1205232003", "district_id": "120523", "name": "PERKEBUNAN DAMAR CONDONG"}, {"id": "1205232004", "district_id": "120523", "name": "PERKEBUNAN PERAPEN"}, {"id": "1205232005", "district_id": "120523", "name": "LIMAU MUNGKUR"}, {"id": "1205232006", "district_id": "120523", "name": "SERANG JAYA HILIR"}, {"id": "1205232007", "district_id": "120523", "name": "SERANG JAYA"}, {"id": "1205232008", "district_id": "120523", "name": "SALA HAJI"}]
+[
+  {
+    "id": "1205232001",
+    "district_id": "120523",
+    "name": "PEMATANG TENGAH"
+  },
+  {
+    "id": "1205232002",
+    "district_id": "120523",
+    "name": "DAMAR CONDONG"
+  },
+  {
+    "id": "1205232003",
+    "district_id": "120523",
+    "name": "PERKEBUNAN DAMAR CONDONG"
+  },
+  {
+    "id": "1205232004",
+    "district_id": "120523",
+    "name": "PERKEBUNAN PERAPEN"
+  },
+  {
+    "id": "1205232005",
+    "district_id": "120523",
+    "name": "LIMAU MUNGKUR"
+  },
+  {
+    "id": "1205232006",
+    "district_id": "120523",
+    "name": "SERANG JAYA HILIR"
+  },
+  {
+    "id": "1205232007",
+    "district_id": "120523",
+    "name": "SERANG JAYA"
+  },
+  {
+    "id": "1205232008",
+    "district_id": "120523",
+    "name": "SALA HAJI"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "9110042001", "district_id": "911004", "name": "ANSUDU"}, {"id": "9110042002", "district_id": "911004", "name": "BETAF"}, {"id": "9110042003", "district_id": "911004", "name": "YAMBEN"}, {"id": "9110042010", "district_id": "911004", "name": "SUNUM"}, {"id": "9110042011", "district_id": "911004", "name": "KOMRA"}, {"id": "9110042013", "district_id": "911004", "name": "BETAF DUA"}, {"id": "9110042014", "district_id": "911004", "name": "ANSUDU DUA"}]
+[
+  {
+    "id": "9110042001",
+    "district_id": "911004",
+    "name": "ANSUDU"
+  },
+  {
+    "id": "9110042002",
+    "district_id": "911004",
+    "name": "BETAF"
+  },
+  {
+    "id": "9110042003",
+    "district_id": "911004",
+    "name": "YAMBEN"
+  },
+  {
+    "id": "9110042010",
+    "district_id": "911004",
+    "name": "SUNUM"
+  },
+  {
+    "id": "9110042011",
+    "district_id": "911004",
+    "name": "KOMRA"
+  },
+  {
+    "id": "9110042013",
+    "district_id": "911004",
+    "name": "BETAF DUA"
+  },
+  {
+    "id": "9110042014",
+    "district_id": "911004",
+    "name": "ANSUDU DUA"
+  }
+]

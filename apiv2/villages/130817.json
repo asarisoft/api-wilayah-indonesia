@@ -1,1 +1,22 @@
-[{"id": "1308172001", "district_id": "130817", "name": "PADANG GELUGUR"}, {"id": "1308172002", "district_id": "130817", "name": "SONTANG CUBADAK"}, {"id": "1308172003", "district_id": "130817", "name": "SITOMBOL PADANG GELUGUA"}, {"id": "1308172004", "district_id": "130817", "name": "BAHAGIA PADANG GELUGUA"}]
+[
+  {
+    "id": "1308172001",
+    "district_id": "130817",
+    "name": "PADANG GELUGUR"
+  },
+  {
+    "id": "1308172002",
+    "district_id": "130817",
+    "name": "SONTANG CUBADAK"
+  },
+  {
+    "id": "1308172003",
+    "district_id": "130817",
+    "name": "SITOMBOL PADANG GELUGUA"
+  },
+  {
+    "id": "1308172004",
+    "district_id": "130817",
+    "name": "BAHAGIA PADANG GELUGUA"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1216072001", "district_id": "121607", "name": "BATUNAJAGAR"}, {"id": "1216072002", "district_id": "121607", "name": "SANGGARAN I"}, {"id": "1216072003", "district_id": "121607", "name": "SITAPONGAN"}, {"id": "1216072004", "district_id": "121607", "name": "SIGULOK"}, {"id": "1216072005", "district_id": "121607", "name": "HUTAGINJANG"}, {"id": "1216072006", "district_id": "121607", "name": "SIBORBORON"}, {"id": "1216072007", "district_id": "121607", "name": "BONAN DOLOK I"}, {"id": "1216072008", "district_id": "121607", "name": "BONAN DOLOK II"}, {"id": "1216072009", "district_id": "121607", "name": "SIBUNTUON"}, {"id": "1216072010", "district_id": "121607", "name": "NAGURGURAN"}]
+[
+  {
+    "id": "1216072001",
+    "district_id": "121607",
+    "name": "BATUNAJAGAR"
+  },
+  {
+    "id": "1216072002",
+    "district_id": "121607",
+    "name": "SANGGARAN I"
+  },
+  {
+    "id": "1216072003",
+    "district_id": "121607",
+    "name": "SITAPONGAN"
+  },
+  {
+    "id": "1216072004",
+    "district_id": "121607",
+    "name": "SIGULOK"
+  },
+  {
+    "id": "1216072005",
+    "district_id": "121607",
+    "name": "HUTAGINJANG"
+  },
+  {
+    "id": "1216072006",
+    "district_id": "121607",
+    "name": "SIBORBORON"
+  },
+  {
+    "id": "1216072007",
+    "district_id": "121607",
+    "name": "BONAN DOLOK I"
+  },
+  {
+    "id": "1216072008",
+    "district_id": "121607",
+    "name": "BONAN DOLOK II"
+  },
+  {
+    "id": "1216072009",
+    "district_id": "121607",
+    "name": "SIBUNTUON"
+  },
+  {
+    "id": "1216072010",
+    "district_id": "121607",
+    "name": "NAGURGURAN"
+  }
+]

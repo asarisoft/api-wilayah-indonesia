@@ -1,1 +1,77 @@
-[{"id": "7324041003", "district_id": "732404", "name": "MALILI"}, {"id": "7324042001", "district_id": "732404", "name": "HARAPAN"}, {"id": "7324042002", "district_id": "732404", "name": "LASKAP"}, {"id": "7324042004", "district_id": "732404", "name": "MANURUNG"}, {"id": "7324042005", "district_id": "732404", "name": "WEWANGRIU"}, {"id": "7324042006", "district_id": "732404", "name": "BARUGA"}, {"id": "7324042007", "district_id": "732404", "name": "LAKAWALI"}, {"id": "7324042008", "district_id": "732404", "name": "USSU"}, {"id": "7324042009", "district_id": "732404", "name": "TARABBI"}, {"id": "7324042010", "district_id": "732404", "name": "BALANTANG"}, {"id": "7324042011", "district_id": "732404", "name": "ATUE"}, {"id": "7324042012", "district_id": "732404", "name": "PONGKERU"}, {"id": "7324042013", "district_id": "732404", "name": "PUNCAK INDAH"}, {"id": "7324042014", "district_id": "732404", "name": "PASI-PASI"}, {"id": "7324042015", "district_id": "732404", "name": "LAKAWALI PANTAI"}]
+[
+  {
+    "id": "7324041003",
+    "district_id": "732404",
+    "name": "MALILI"
+  },
+  {
+    "id": "7324042001",
+    "district_id": "732404",
+    "name": "HARAPAN"
+  },
+  {
+    "id": "7324042002",
+    "district_id": "732404",
+    "name": "LASKAP"
+  },
+  {
+    "id": "7324042004",
+    "district_id": "732404",
+    "name": "MANURUNG"
+  },
+  {
+    "id": "7324042005",
+    "district_id": "732404",
+    "name": "WEWANGRIU"
+  },
+  {
+    "id": "7324042006",
+    "district_id": "732404",
+    "name": "BARUGA"
+  },
+  {
+    "id": "7324042007",
+    "district_id": "732404",
+    "name": "LAKAWALI"
+  },
+  {
+    "id": "7324042008",
+    "district_id": "732404",
+    "name": "USSU"
+  },
+  {
+    "id": "7324042009",
+    "district_id": "732404",
+    "name": "TARABBI"
+  },
+  {
+    "id": "7324042010",
+    "district_id": "732404",
+    "name": "BALANTANG"
+  },
+  {
+    "id": "7324042011",
+    "district_id": "732404",
+    "name": "ATUE"
+  },
+  {
+    "id": "7324042012",
+    "district_id": "732404",
+    "name": "PONGKERU"
+  },
+  {
+    "id": "7324042013",
+    "district_id": "732404",
+    "name": "PUNCAK INDAH"
+  },
+  {
+    "id": "7324042014",
+    "district_id": "732404",
+    "name": "PASI-PASI"
+  },
+  {
+    "id": "7324042015",
+    "district_id": "732404",
+    "name": "LAKAWALI PANTAI"
+  }
+]

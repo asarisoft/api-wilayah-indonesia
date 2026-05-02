@@ -1,1 +1,52 @@
-[{"id": "1813082001", "district_id": "181308", "name": "BALAI KENCANA"}, {"id": "1813082002", "district_id": "181308", "name": "WAY SULUH"}, {"id": "1813082003", "district_id": "181308", "name": "WAY NAPAL"}, {"id": "1813082004", "district_id": "181308", "name": "PADANG HALUAN"}, {"id": "1813082005", "district_id": "181308", "name": "LINTIK"}, {"id": "1813082006", "district_id": "181308", "name": "WALUR"}, {"id": "1813082007", "district_id": "181308", "name": "PEMERIHAN"}, {"id": "1813082008", "district_id": "181308", "name": "MANDIRI SEJATI"}, {"id": "1813082009", "district_id": "181308", "name": "PADANG RAYA"}, {"id": "1813082010", "district_id": "181308", "name": "SUKA JADI"}]
+[
+  {
+    "id": "1813082001",
+    "district_id": "181308",
+    "name": "BALAI KENCANA"
+  },
+  {
+    "id": "1813082002",
+    "district_id": "181308",
+    "name": "WAY SULUH"
+  },
+  {
+    "id": "1813082003",
+    "district_id": "181308",
+    "name": "WAY NAPAL"
+  },
+  {
+    "id": "1813082004",
+    "district_id": "181308",
+    "name": "PADANG HALUAN"
+  },
+  {
+    "id": "1813082005",
+    "district_id": "181308",
+    "name": "LINTIK"
+  },
+  {
+    "id": "1813082006",
+    "district_id": "181308",
+    "name": "WALUR"
+  },
+  {
+    "id": "1813082007",
+    "district_id": "181308",
+    "name": "PEMERIHAN"
+  },
+  {
+    "id": "1813082008",
+    "district_id": "181308",
+    "name": "MANDIRI SEJATI"
+  },
+  {
+    "id": "1813082009",
+    "district_id": "181308",
+    "name": "PADANG RAYA"
+  },
+  {
+    "id": "1813082010",
+    "district_id": "181308",
+    "name": "SUKA JADI"
+  }
+]

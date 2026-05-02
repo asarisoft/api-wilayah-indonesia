@@ -1,1 +1,222 @@
-[{"id": "9506012001", "district_id": "950601", "name": "ELELIM"}, {"id": "9506012002", "district_id": "950601", "name": "ALUIS"}, {"id": "9506012003", "district_id": "950601", "name": "HONITA"}, {"id": "9506012004", "district_id": "950601", "name": "YABEMA"}, {"id": "9506012005", "district_id": "950601", "name": "PIHEL"}, {"id": "9506012006", "district_id": "950601", "name": "WALKEP"}, {"id": "9506012007", "district_id": "950601", "name": "PANGKIK"}, {"id": "9506012008", "district_id": "950601", "name": "MARIBU"}, {"id": "9506012009", "district_id": "950601", "name": "YAKIKMA"}, {"id": "9506012010", "district_id": "950601", "name": "ULO"}, {"id": "9506012011", "district_id": "950601", "name": "SIRA"}, {"id": "9506012012", "district_id": "950601", "name": "OHOAM"}, {"id": "9506012013", "district_id": "950601", "name": "BULMU"}, {"id": "9506012014", "district_id": "950601", "name": "UBI"}, {"id": "9506012015", "district_id": "950601", "name": "PIRIP"}, {"id": "9506012016", "district_id": "950601", "name": "MOMONHUSI"}, {"id": "9506012017", "district_id": "950601", "name": "HELABU"}, {"id": "9506012018", "district_id": "950601", "name": "PUNGKAHIK"}, {"id": "9506012019", "district_id": "950601", "name": "WEKOLANI"}, {"id": "9506012020", "district_id": "950601", "name": "HOBAKMA"}, {"id": "9506012021", "district_id": "950601", "name": "WASUA"}, {"id": "9506012022", "district_id": "950601", "name": "WARIKMA"}, {"id": "9506012023", "district_id": "950601", "name": "KALAK"}, {"id": "9506012024", "district_id": "950601", "name": "ISILA"}, {"id": "9506012025", "district_id": "950601", "name": "FIMA"}, {"id": "9506012026", "district_id": "950601", "name": "SOHI"}, {"id": "9506012027", "district_id": "950601", "name": "PASIMBOLO"}, {"id": "9506012028", "district_id": "950601", "name": "WAGAGU"}, {"id": "9506012029", "district_id": "950601", "name": "SOWI"}, {"id": "9506012030", "district_id": "950601", "name": "SIPSON"}, {"id": "9506012031", "district_id": "950601", "name": "SIPSOI"}, {"id": "9506012032", "district_id": "950601", "name": "EREGI"}, {"id": "9506012033", "district_id": "950601", "name": "OHONIAM"}, {"id": "9506012034", "district_id": "950601", "name": "HILING"}, {"id": "9506012035", "district_id": "950601", "name": "DUWONG"}, {"id": "9506012036", "district_id": "950601", "name": "PISIREG"}, {"id": "9506012037", "district_id": "950601", "name": "TANAPASIR"}, {"id": "9506012038", "district_id": "950601", "name": "OLANI"}, {"id": "9506012039", "district_id": "950601", "name": "SILI"}, {"id": "9506012040", "district_id": "950601", "name": "HESMAT"}, {"id": "9506012041", "district_id": "950601", "name": "MOLINGGU"}, {"id": "9506012042", "district_id": "950601", "name": "WEREKMA"}, {"id": "9506012043", "district_id": "950601", "name": "EMON"}, {"id": "9506012044", "district_id": "950601", "name": "KWIKMA"}]
+[
+  {
+    "id": "9506012001",
+    "district_id": "950601",
+    "name": "ELELIM"
+  },
+  {
+    "id": "9506012002",
+    "district_id": "950601",
+    "name": "ALUIS"
+  },
+  {
+    "id": "9506012003",
+    "district_id": "950601",
+    "name": "HONITA"
+  },
+  {
+    "id": "9506012004",
+    "district_id": "950601",
+    "name": "YABEMA"
+  },
+  {
+    "id": "9506012005",
+    "district_id": "950601",
+    "name": "PIHEL"
+  },
+  {
+    "id": "9506012006",
+    "district_id": "950601",
+    "name": "WALKEP"
+  },
+  {
+    "id": "9506012007",
+    "district_id": "950601",
+    "name": "PANGKIK"
+  },
+  {
+    "id": "9506012008",
+    "district_id": "950601",
+    "name": "MARIBU"
+  },
+  {
+    "id": "9506012009",
+    "district_id": "950601",
+    "name": "YAKIKMA"
+  },
+  {
+    "id": "9506012010",
+    "district_id": "950601",
+    "name": "ULO"
+  },
+  {
+    "id": "9506012011",
+    "district_id": "950601",
+    "name": "SIRA"
+  },
+  {
+    "id": "9506012012",
+    "district_id": "950601",
+    "name": "OHOAM"
+  },
+  {
+    "id": "9506012013",
+    "district_id": "950601",
+    "name": "BULMU"
+  },
+  {
+    "id": "9506012014",
+    "district_id": "950601",
+    "name": "UBI"
+  },
+  {
+    "id": "9506012015",
+    "district_id": "950601",
+    "name": "PIRIP"
+  },
+  {
+    "id": "9506012016",
+    "district_id": "950601",
+    "name": "MOMONHUSI"
+  },
+  {
+    "id": "9506012017",
+    "district_id": "950601",
+    "name": "HELABU"
+  },
+  {
+    "id": "9506012018",
+    "district_id": "950601",
+    "name": "PUNGKAHIK"
+  },
+  {
+    "id": "9506012019",
+    "district_id": "950601",
+    "name": "WEKOLANI"
+  },
+  {
+    "id": "9506012020",
+    "district_id": "950601",
+    "name": "HOBAKMA"
+  },
+  {
+    "id": "9506012021",
+    "district_id": "950601",
+    "name": "WASUA"
+  },
+  {
+    "id": "9506012022",
+    "district_id": "950601",
+    "name": "WARIKMA"
+  },
+  {
+    "id": "9506012023",
+    "district_id": "950601",
+    "name": "KALAK"
+  },
+  {
+    "id": "9506012024",
+    "district_id": "950601",
+    "name": "ISILA"
+  },
+  {
+    "id": "9506012025",
+    "district_id": "950601",
+    "name": "FIMA"
+  },
+  {
+    "id": "9506012026",
+    "district_id": "950601",
+    "name": "SOHI"
+  },
+  {
+    "id": "9506012027",
+    "district_id": "950601",
+    "name": "PASIMBOLO"
+  },
+  {
+    "id": "9506012028",
+    "district_id": "950601",
+    "name": "WAGAGU"
+  },
+  {
+    "id": "9506012029",
+    "district_id": "950601",
+    "name": "SOWI"
+  },
+  {
+    "id": "9506012030",
+    "district_id": "950601",
+    "name": "SIPSON"
+  },
+  {
+    "id": "9506012031",
+    "district_id": "950601",
+    "name": "SIPSOI"
+  },
+  {
+    "id": "9506012032",
+    "district_id": "950601",
+    "name": "EREGI"
+  },
+  {
+    "id": "9506012033",
+    "district_id": "950601",
+    "name": "OHONIAM"
+  },
+  {
+    "id": "9506012034",
+    "district_id": "950601",
+    "name": "HILING"
+  },
+  {
+    "id": "9506012035",
+    "district_id": "950601",
+    "name": "DUWONG"
+  },
+  {
+    "id": "9506012036",
+    "district_id": "950601",
+    "name": "PISIREG"
+  },
+  {
+    "id": "9506012037",
+    "district_id": "950601",
+    "name": "TANAPASIR"
+  },
+  {
+    "id": "9506012038",
+    "district_id": "950601",
+    "name": "OLANI"
+  },
+  {
+    "id": "9506012039",
+    "district_id": "950601",
+    "name": "SILI"
+  },
+  {
+    "id": "9506012040",
+    "district_id": "950601",
+    "name": "HESMAT"
+  },
+  {
+    "id": "9506012041",
+    "district_id": "950601",
+    "name": "MOLINGGU"
+  },
+  {
+    "id": "9506012042",
+    "district_id": "950601",
+    "name": "WEREKMA"
+  },
+  {
+    "id": "9506012043",
+    "district_id": "950601",
+    "name": "EMON"
+  },
+  {
+    "id": "9506012044",
+    "district_id": "950601",
+    "name": "KWIKMA"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "9401", "province_id": "94", "name": "KABUPATEN NABIRE"}, {"id": "9402", "province_id": "94", "name": "KABUPATEN PUNCAK JAYA"}, {"id": "9403", "province_id": "94", "name": "KABUPATEN PANIAI"}, {"id": "9404", "province_id": "94", "name": "KABUPATEN MIMIKA"}, {"id": "9405", "province_id": "94", "name": "KABUPATEN PUNCAK"}, {"id": "9406", "province_id": "94", "name": "KABUPATEN DOGIYAI"}, {"id": "9407", "province_id": "94", "name": "KABUPATEN INTAN JAYA"}, {"id": "9408", "province_id": "94", "name": "KABUPATEN DEIYAI"}]
+[
+  {
+    "id": "9401",
+    "province_id": "94",
+    "name": "KABUPATEN NABIRE"
+  },
+  {
+    "id": "9402",
+    "province_id": "94",
+    "name": "KABUPATEN PUNCAK JAYA"
+  },
+  {
+    "id": "9403",
+    "province_id": "94",
+    "name": "KABUPATEN PANIAI"
+  },
+  {
+    "id": "9404",
+    "province_id": "94",
+    "name": "KABUPATEN MIMIKA"
+  },
+  {
+    "id": "9405",
+    "province_id": "94",
+    "name": "KABUPATEN PUNCAK"
+  },
+  {
+    "id": "9406",
+    "province_id": "94",
+    "name": "KABUPATEN DOGIYAI"
+  },
+  {
+    "id": "9407",
+    "province_id": "94",
+    "name": "KABUPATEN INTAN JAYA"
+  },
+  {
+    "id": "9408",
+    "province_id": "94",
+    "name": "KABUPATEN DEIYAI"
+  }
+]

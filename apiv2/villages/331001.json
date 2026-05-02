@@ -1,1 +1,82 @@
-[{"id": "3310012001", "district_id": "331001", "name": "SENGON"}, {"id": "3310012002", "district_id": "331001", "name": "CUCUKAN"}, {"id": "3310012003", "district_id": "331001", "name": "KOTESAN"}, {"id": "3310012004", "district_id": "331001", "name": "PERENG"}, {"id": "3310012005", "district_id": "331001", "name": "KEBONDALEM KIDUL"}, {"id": "3310012006", "district_id": "331001", "name": "TLOGO"}, {"id": "3310012007", "district_id": "331001", "name": "TAJI"}, {"id": "3310012008", "district_id": "331001", "name": "SANGGRAHAN"}, {"id": "3310012009", "district_id": "331001", "name": "GENENG"}, {"id": "3310012010", "district_id": "331001", "name": "KEMUDO"}, {"id": "3310012011", "district_id": "331001", "name": "BUGISAN"}, {"id": "3310012012", "district_id": "331001", "name": "KOKOSAN"}, {"id": "3310012013", "district_id": "331001", "name": "KEBONDALEM LOR"}, {"id": "3310012014", "district_id": "331001", "name": "BRAJAN"}, {"id": "3310012015", "district_id": "331001", "name": "RANDUSARI"}, {"id": "3310012016", "district_id": "331001", "name": "JOHO"}]
+[
+  {
+    "id": "3310012001",
+    "district_id": "331001",
+    "name": "SENGON"
+  },
+  {
+    "id": "3310012002",
+    "district_id": "331001",
+    "name": "CUCUKAN"
+  },
+  {
+    "id": "3310012003",
+    "district_id": "331001",
+    "name": "KOTESAN"
+  },
+  {
+    "id": "3310012004",
+    "district_id": "331001",
+    "name": "PERENG"
+  },
+  {
+    "id": "3310012005",
+    "district_id": "331001",
+    "name": "KEBONDALEM KIDUL"
+  },
+  {
+    "id": "3310012006",
+    "district_id": "331001",
+    "name": "TLOGO"
+  },
+  {
+    "id": "3310012007",
+    "district_id": "331001",
+    "name": "TAJI"
+  },
+  {
+    "id": "3310012008",
+    "district_id": "331001",
+    "name": "SANGGRAHAN"
+  },
+  {
+    "id": "3310012009",
+    "district_id": "331001",
+    "name": "GENENG"
+  },
+  {
+    "id": "3310012010",
+    "district_id": "331001",
+    "name": "KEMUDO"
+  },
+  {
+    "id": "3310012011",
+    "district_id": "331001",
+    "name": "BUGISAN"
+  },
+  {
+    "id": "3310012012",
+    "district_id": "331001",
+    "name": "KOKOSAN"
+  },
+  {
+    "id": "3310012013",
+    "district_id": "331001",
+    "name": "KEBONDALEM LOR"
+  },
+  {
+    "id": "3310012014",
+    "district_id": "331001",
+    "name": "BRAJAN"
+  },
+  {
+    "id": "3310012015",
+    "district_id": "331001",
+    "name": "RANDUSARI"
+  },
+  {
+    "id": "3310012016",
+    "district_id": "331001",
+    "name": "JOHO"
+  }
+]

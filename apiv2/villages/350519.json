@@ -1,1 +1,52 @@
-[{"id": "3505192001", "district_id": "350519", "name": "SIRAMAN"}, {"id": "3505192002", "district_id": "350519", "name": "KESAMBEN"}, {"id": "3505192003", "district_id": "350519", "name": "JUGO"}, {"id": "3505192004", "district_id": "350519", "name": "PAGERWOJO"}, {"id": "3505192005", "district_id": "350519", "name": "PAGERGUNUNG"}, {"id": "3505192006", "district_id": "350519", "name": "TEPAS"}, {"id": "3505192007", "district_id": "350519", "name": "KEMIRIGEDE"}, {"id": "3505192008", "district_id": "350519", "name": "TAPAKREJO"}, {"id": "3505192009", "district_id": "350519", "name": "BUMIREJO"}, {"id": "3505192010", "district_id": "350519", "name": "SUKOANYAR"}]
+[
+  {
+    "id": "3505192001",
+    "district_id": "350519",
+    "name": "SIRAMAN"
+  },
+  {
+    "id": "3505192002",
+    "district_id": "350519",
+    "name": "KESAMBEN"
+  },
+  {
+    "id": "3505192003",
+    "district_id": "350519",
+    "name": "JUGO"
+  },
+  {
+    "id": "3505192004",
+    "district_id": "350519",
+    "name": "PAGERWOJO"
+  },
+  {
+    "id": "3505192005",
+    "district_id": "350519",
+    "name": "PAGERGUNUNG"
+  },
+  {
+    "id": "3505192006",
+    "district_id": "350519",
+    "name": "TEPAS"
+  },
+  {
+    "id": "3505192007",
+    "district_id": "350519",
+    "name": "KEMIRIGEDE"
+  },
+  {
+    "id": "3505192008",
+    "district_id": "350519",
+    "name": "TAPAKREJO"
+  },
+  {
+    "id": "3505192009",
+    "district_id": "350519",
+    "name": "BUMIREJO"
+  },
+  {
+    "id": "3505192010",
+    "district_id": "350519",
+    "name": "SUKOANYAR"
+  }
+]

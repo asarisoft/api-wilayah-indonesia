@@ -1,1 +1,52 @@
-[{"id": "3209092001", "district_id": "320909", "name": "KARANGWUNI"}, {"id": "3209092002", "district_id": "320909", "name": "SEDONG KIDUL"}, {"id": "3209092003", "district_id": "320909", "name": "SEDONG LOR"}, {"id": "3209092004", "district_id": "320909", "name": "WINDUJAYA"}, {"id": "3209092005", "district_id": "320909", "name": "WINDUHAJI"}, {"id": "3209092006", "district_id": "320909", "name": "KERTAWANGUN"}, {"id": "3209092007", "district_id": "320909", "name": "PANAMBANGAN"}, {"id": "3209092008", "district_id": "320909", "name": "PUTAT"}, {"id": "3209092009", "district_id": "320909", "name": "PANONGAN"}, {"id": "3209092010", "district_id": "320909", "name": "PANONGAN LOR"}]
+[
+  {
+    "id": "3209092001",
+    "district_id": "320909",
+    "name": "KARANGWUNI"
+  },
+  {
+    "id": "3209092002",
+    "district_id": "320909",
+    "name": "SEDONG KIDUL"
+  },
+  {
+    "id": "3209092003",
+    "district_id": "320909",
+    "name": "SEDONG LOR"
+  },
+  {
+    "id": "3209092004",
+    "district_id": "320909",
+    "name": "WINDUJAYA"
+  },
+  {
+    "id": "3209092005",
+    "district_id": "320909",
+    "name": "WINDUHAJI"
+  },
+  {
+    "id": "3209092006",
+    "district_id": "320909",
+    "name": "KERTAWANGUN"
+  },
+  {
+    "id": "3209092007",
+    "district_id": "320909",
+    "name": "PANAMBANGAN"
+  },
+  {
+    "id": "3209092008",
+    "district_id": "320909",
+    "name": "PUTAT"
+  },
+  {
+    "id": "3209092009",
+    "district_id": "320909",
+    "name": "PANONGAN"
+  },
+  {
+    "id": "3209092010",
+    "district_id": "320909",
+    "name": "PANONGAN LOR"
+  }
+]

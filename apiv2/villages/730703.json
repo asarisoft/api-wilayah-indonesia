@@ -1,1 +1,67 @@
-[{"id": "7307031001", "district_id": "730703", "name": "SAMATARING"}, {"id": "7307032002", "district_id": "730703", "name": "SANJAI"}, {"id": "7307032003", "district_id": "730703", "name": "PATTALASSANG"}, {"id": "7307032004", "district_id": "730703", "name": "PANAIKANG"}, {"id": "7307032005", "district_id": "730703", "name": "SAUKANG"}, {"id": "7307032006", "district_id": "730703", "name": "KAMPALA"}, {"id": "7307032007", "district_id": "730703", "name": "LASIAI"}, {"id": "7307032008", "district_id": "730703", "name": "BIRORO"}, {"id": "7307032009", "district_id": "730703", "name": "KALOLING"}, {"id": "7307032010", "district_id": "730703", "name": "PASIMARANNU"}, {"id": "7307032011", "district_id": "730703", "name": "TONGKE-TONGKE"}, {"id": "7307032012", "district_id": "730703", "name": "SALOHE"}, {"id": "7307032013", "district_id": "730703", "name": "BONGKI LENGKESE"}]
+[
+  {
+    "id": "7307031001",
+    "district_id": "730703",
+    "name": "SAMATARING"
+  },
+  {
+    "id": "7307032002",
+    "district_id": "730703",
+    "name": "SANJAI"
+  },
+  {
+    "id": "7307032003",
+    "district_id": "730703",
+    "name": "PATTALASSANG"
+  },
+  {
+    "id": "7307032004",
+    "district_id": "730703",
+    "name": "PANAIKANG"
+  },
+  {
+    "id": "7307032005",
+    "district_id": "730703",
+    "name": "SAUKANG"
+  },
+  {
+    "id": "7307032006",
+    "district_id": "730703",
+    "name": "KAMPALA"
+  },
+  {
+    "id": "7307032007",
+    "district_id": "730703",
+    "name": "LASIAI"
+  },
+  {
+    "id": "7307032008",
+    "district_id": "730703",
+    "name": "BIRORO"
+  },
+  {
+    "id": "7307032009",
+    "district_id": "730703",
+    "name": "KALOLING"
+  },
+  {
+    "id": "7307032010",
+    "district_id": "730703",
+    "name": "PASIMARANNU"
+  },
+  {
+    "id": "7307032011",
+    "district_id": "730703",
+    "name": "TONGKE-TONGKE"
+  },
+  {
+    "id": "7307032012",
+    "district_id": "730703",
+    "name": "SALOHE"
+  },
+  {
+    "id": "7307032013",
+    "district_id": "730703",
+    "name": "BONGKI LENGKESE"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "2103071011", "district_id": "210307", "name": "RANAI KOTA"}, {"id": "2103071016", "district_id": "210307", "name": "RANAI DARAT"}, {"id": "2103071017", "district_id": "210307", "name": "BANDARSYAH"}, {"id": "2103071019", "district_id": "210307", "name": "BATU HITAM"}, {"id": "2103072002", "district_id": "210307", "name": "SUNGAI ULU"}, {"id": "2103072004", "district_id": "210307", "name": "SEPEMPANG"}, {"id": "2103072014", "district_id": "210307", "name": "BATU GAJAH"}]
+[
+  {
+    "id": "2103071011",
+    "district_id": "210307",
+    "name": "RANAI KOTA"
+  },
+  {
+    "id": "2103071016",
+    "district_id": "210307",
+    "name": "RANAI DARAT"
+  },
+  {
+    "id": "2103071017",
+    "district_id": "210307",
+    "name": "BANDARSYAH"
+  },
+  {
+    "id": "2103071019",
+    "district_id": "210307",
+    "name": "BATU HITAM"
+  },
+  {
+    "id": "2103072002",
+    "district_id": "210307",
+    "name": "SUNGAI ULU"
+  },
+  {
+    "id": "2103072004",
+    "district_id": "210307",
+    "name": "SEPEMPANG"
+  },
+  {
+    "id": "2103072014",
+    "district_id": "210307",
+    "name": "BATU GAJAH"
+  }
+]

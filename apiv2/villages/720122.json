@@ -1,1 +1,52 @@
-[{"id": "7201222001", "district_id": "720122", "name": "PONDAN"}, {"id": "7201222002", "district_id": "720122", "name": "SOBOL"}, {"id": "7201222003", "district_id": "720122", "name": "SOBOL BARU"}, {"id": "7201222004", "district_id": "720122", "name": "BINOTIK"}, {"id": "7201222005", "district_id": "720122", "name": "GARUGA"}, {"id": "7201222006", "district_id": "720122", "name": "BOLLO"}, {"id": "7201222007", "district_id": "720122", "name": "SULUBOMBONG"}, {"id": "7201222008", "district_id": "720122", "name": "BORAS"}, {"id": "7201222009", "district_id": "720122", "name": "LONAS"}, {"id": "7201222010", "district_id": "720122", "name": "BOMBONGAN"}]
+[
+  {
+    "id": "7201222001",
+    "district_id": "720122",
+    "name": "PONDAN"
+  },
+  {
+    "id": "7201222002",
+    "district_id": "720122",
+    "name": "SOBOL"
+  },
+  {
+    "id": "7201222003",
+    "district_id": "720122",
+    "name": "SOBOL BARU"
+  },
+  {
+    "id": "7201222004",
+    "district_id": "720122",
+    "name": "BINOTIK"
+  },
+  {
+    "id": "7201222005",
+    "district_id": "720122",
+    "name": "GARUGA"
+  },
+  {
+    "id": "7201222006",
+    "district_id": "720122",
+    "name": "BOLLO"
+  },
+  {
+    "id": "7201222007",
+    "district_id": "720122",
+    "name": "SULUBOMBONG"
+  },
+  {
+    "id": "7201222008",
+    "district_id": "720122",
+    "name": "BORAS"
+  },
+  {
+    "id": "7201222009",
+    "district_id": "720122",
+    "name": "LONAS"
+  },
+  {
+    "id": "7201222010",
+    "district_id": "720122",
+    "name": "BOMBONGAN"
+  }
+]

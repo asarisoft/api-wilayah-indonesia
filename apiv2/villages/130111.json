@@ -1,1 +1,52 @@
-[{"id": "1301112001", "district_id": "130111", "name": "TAPAN"}, {"id": "1301112002", "district_id": "130111", "name": "PASAR TAPAN"}, {"id": "1301112007", "district_id": "130111", "name": "BATANG ARAH TAPAN"}, {"id": "1301112008", "district_id": "130111", "name": "AMPANG TULAK TAPAN"}, {"id": "1301112009", "district_id": "130111", "name": "TANJUNG PONDOK TAPAN"}, {"id": "1301112010", "district_id": "130111", "name": "BATANG BETUNG TAPAN"}, {"id": "1301112016", "district_id": "130111", "name": "BUKIT BUAI TAPAN"}, {"id": "1301112017", "district_id": "130111", "name": "RIAK DANAU TAPAN"}, {"id": "1301112018", "district_id": "130111", "name": "KOTO ANAU TAPAN"}, {"id": "1301112019", "district_id": "130111", "name": "DUSUN BARU TAPAN"}]
+[
+  {
+    "id": "1301112001",
+    "district_id": "130111",
+    "name": "TAPAN"
+  },
+  {
+    "id": "1301112002",
+    "district_id": "130111",
+    "name": "PASAR TAPAN"
+  },
+  {
+    "id": "1301112007",
+    "district_id": "130111",
+    "name": "BATANG ARAH TAPAN"
+  },
+  {
+    "id": "1301112008",
+    "district_id": "130111",
+    "name": "AMPANG TULAK TAPAN"
+  },
+  {
+    "id": "1301112009",
+    "district_id": "130111",
+    "name": "TANJUNG PONDOK TAPAN"
+  },
+  {
+    "id": "1301112010",
+    "district_id": "130111",
+    "name": "BATANG BETUNG TAPAN"
+  },
+  {
+    "id": "1301112016",
+    "district_id": "130111",
+    "name": "BUKIT BUAI TAPAN"
+  },
+  {
+    "id": "1301112017",
+    "district_id": "130111",
+    "name": "RIAK DANAU TAPAN"
+  },
+  {
+    "id": "1301112018",
+    "district_id": "130111",
+    "name": "KOTO ANAU TAPAN"
+  },
+  {
+    "id": "1301112019",
+    "district_id": "130111",
+    "name": "DUSUN BARU TAPAN"
+  }
+]

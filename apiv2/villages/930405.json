@@ -1,1 +1,67 @@
-[{"id": "9304052001", "district_id": "930405", "name": "BASIM"}, {"id": "9304052002", "district_id": "930405", "name": "WARAS"}, {"id": "9304052003", "district_id": "930405", "name": "BIOPIS"}, {"id": "9304052004", "district_id": "930405", "name": "NANAI"}, {"id": "9304052005", "district_id": "930405", "name": "PIRIEN"}, {"id": "9304052006", "district_id": "930405", "name": "OCENEP"}, {"id": "9304052007", "district_id": "930405", "name": "AIS"}, {"id": "9304052008", "district_id": "930405", "name": "YAWAS"}, {"id": "9304052009", "district_id": "930405", "name": "BAKYOR"}, {"id": "9304052010", "district_id": "930405", "name": "ISAR"}, {"id": "9304052011", "district_id": "930405", "name": "KAYARPIS"}, {"id": "9304052012", "district_id": "930405", "name": "SAYOA"}, {"id": "9304052013", "district_id": "930405", "name": "BORA"}]
+[
+  {
+    "id": "9304052001",
+    "district_id": "930405",
+    "name": "BASIM"
+  },
+  {
+    "id": "9304052002",
+    "district_id": "930405",
+    "name": "WARAS"
+  },
+  {
+    "id": "9304052003",
+    "district_id": "930405",
+    "name": "BIOPIS"
+  },
+  {
+    "id": "9304052004",
+    "district_id": "930405",
+    "name": "NANAI"
+  },
+  {
+    "id": "9304052005",
+    "district_id": "930405",
+    "name": "PIRIEN"
+  },
+  {
+    "id": "9304052006",
+    "district_id": "930405",
+    "name": "OCENEP"
+  },
+  {
+    "id": "9304052007",
+    "district_id": "930405",
+    "name": "AIS"
+  },
+  {
+    "id": "9304052008",
+    "district_id": "930405",
+    "name": "YAWAS"
+  },
+  {
+    "id": "9304052009",
+    "district_id": "930405",
+    "name": "BAKYOR"
+  },
+  {
+    "id": "9304052010",
+    "district_id": "930405",
+    "name": "ISAR"
+  },
+  {
+    "id": "9304052011",
+    "district_id": "930405",
+    "name": "KAYARPIS"
+  },
+  {
+    "id": "9304052012",
+    "district_id": "930405",
+    "name": "SAYOA"
+  },
+  {
+    "id": "9304052013",
+    "district_id": "930405",
+    "name": "BORA"
+  }
+]

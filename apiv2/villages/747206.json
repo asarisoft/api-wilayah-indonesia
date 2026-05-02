@@ -1,1 +1,27 @@
-[{"id": "7472061007", "district_id": "747206", "name": "WAJO"}, {"id": "7472061008", "district_id": "747206", "name": "LAMANGGA"}, {"id": "7472061009", "district_id": "747206", "name": "MELAI"}, {"id": "7472061010", "district_id": "747206", "name": "BAADIA"}, {"id": "7472061011", "district_id": "747206", "name": "TANGANAPADA"}]
+[
+  {
+    "id": "7472061007",
+    "district_id": "747206",
+    "name": "WAJO"
+  },
+  {
+    "id": "7472061008",
+    "district_id": "747206",
+    "name": "LAMANGGA"
+  },
+  {
+    "id": "7472061009",
+    "district_id": "747206",
+    "name": "MELAI"
+  },
+  {
+    "id": "7472061010",
+    "district_id": "747206",
+    "name": "BAADIA"
+  },
+  {
+    "id": "7472061011",
+    "district_id": "747206",
+    "name": "TANGANAPADA"
+  }
+]

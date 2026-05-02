@@ -1,1 +1,77 @@
-[{"id": "3212132001", "district_id": "321213", "name": "SUKALILA"}, {"id": "3212132002", "district_id": "321213", "name": "PILANGSARI"}, {"id": "3212132003", "district_id": "321213", "name": "JATIBARANG BARU"}, {"id": "3212132004", "district_id": "321213", "name": "BULAK"}, {"id": "3212132005", "district_id": "321213", "name": "BULAK LOR"}, {"id": "3212132006", "district_id": "321213", "name": "JATIBARANG"}, {"id": "3212132007", "district_id": "321213", "name": "KEBULEN"}, {"id": "3212132008", "district_id": "321213", "name": "PAWIDEAN"}, {"id": "3212132009", "district_id": "321213", "name": "JATISAWIT"}, {"id": "3212132010", "district_id": "321213", "name": "JATISAWIT LOR"}, {"id": "3212132011", "district_id": "321213", "name": "KRASAK"}, {"id": "3212132012", "district_id": "321213", "name": "KALIMATI"}, {"id": "3212132013", "district_id": "321213", "name": "MALANGSEMIRANG"}, {"id": "3212132014", "district_id": "321213", "name": "LOBENER"}, {"id": "3212132015", "district_id": "321213", "name": "LOBENER LOR"}]
+[
+  {
+    "id": "3212132001",
+    "district_id": "321213",
+    "name": "SUKALILA"
+  },
+  {
+    "id": "3212132002",
+    "district_id": "321213",
+    "name": "PILANGSARI"
+  },
+  {
+    "id": "3212132003",
+    "district_id": "321213",
+    "name": "JATIBARANG BARU"
+  },
+  {
+    "id": "3212132004",
+    "district_id": "321213",
+    "name": "BULAK"
+  },
+  {
+    "id": "3212132005",
+    "district_id": "321213",
+    "name": "BULAK LOR"
+  },
+  {
+    "id": "3212132006",
+    "district_id": "321213",
+    "name": "JATIBARANG"
+  },
+  {
+    "id": "3212132007",
+    "district_id": "321213",
+    "name": "KEBULEN"
+  },
+  {
+    "id": "3212132008",
+    "district_id": "321213",
+    "name": "PAWIDEAN"
+  },
+  {
+    "id": "3212132009",
+    "district_id": "321213",
+    "name": "JATISAWIT"
+  },
+  {
+    "id": "3212132010",
+    "district_id": "321213",
+    "name": "JATISAWIT LOR"
+  },
+  {
+    "id": "3212132011",
+    "district_id": "321213",
+    "name": "KRASAK"
+  },
+  {
+    "id": "3212132012",
+    "district_id": "321213",
+    "name": "KALIMATI"
+  },
+  {
+    "id": "3212132013",
+    "district_id": "321213",
+    "name": "MALANGSEMIRANG"
+  },
+  {
+    "id": "3212132014",
+    "district_id": "321213",
+    "name": "LOBENER"
+  },
+  {
+    "id": "3212132015",
+    "district_id": "321213",
+    "name": "LOBENER LOR"
+  }
+]

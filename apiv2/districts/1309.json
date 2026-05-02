@@ -1,1 +1,52 @@
-[{"id": "130901", "regency_id": "1309", "name": "PAGAI UTARA"}, {"id": "130902", "regency_id": "1309", "name": "SIPORA SELATAN"}, {"id": "130903", "regency_id": "1309", "name": "SIBERUT SELATAN"}, {"id": "130904", "regency_id": "1309", "name": "SIBERUT UTARA"}, {"id": "130905", "regency_id": "1309", "name": "SIBERUT BARAT"}, {"id": "130906", "regency_id": "1309", "name": "SIBERUT BARAT DAYA"}, {"id": "130907", "regency_id": "1309", "name": "SIBERUT TENGAH"}, {"id": "130908", "regency_id": "1309", "name": "SIPORA UTARA"}, {"id": "130909", "regency_id": "1309", "name": "SIKAKAP"}, {"id": "130910", "regency_id": "1309", "name": "PAGAI SELATAN"}]
+[
+  {
+    "id": "130901",
+    "regency_id": "1309",
+    "name": "PAGAI UTARA"
+  },
+  {
+    "id": "130902",
+    "regency_id": "1309",
+    "name": "SIPORA SELATAN"
+  },
+  {
+    "id": "130903",
+    "regency_id": "1309",
+    "name": "SIBERUT SELATAN"
+  },
+  {
+    "id": "130904",
+    "regency_id": "1309",
+    "name": "SIBERUT UTARA"
+  },
+  {
+    "id": "130905",
+    "regency_id": "1309",
+    "name": "SIBERUT BARAT"
+  },
+  {
+    "id": "130906",
+    "regency_id": "1309",
+    "name": "SIBERUT BARAT DAYA"
+  },
+  {
+    "id": "130907",
+    "regency_id": "1309",
+    "name": "SIBERUT TENGAH"
+  },
+  {
+    "id": "130908",
+    "regency_id": "1309",
+    "name": "SIPORA UTARA"
+  },
+  {
+    "id": "130909",
+    "regency_id": "1309",
+    "name": "SIKAKAP"
+  },
+  {
+    "id": "130910",
+    "regency_id": "1309",
+    "name": "PAGAI SELATAN"
+  }
+]

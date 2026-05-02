@@ -1,1 +1,82 @@
-[{"id": "3525062001", "district_id": "352506", "name": "KEPUHKLAGEN"}, {"id": "3525062002", "district_id": "352506", "name": "SUMBERGEDE"}, {"id": "3525062003", "district_id": "352506", "name": "MONDOLUKU"}, {"id": "3525062004", "district_id": "352506", "name": "KEDUNGANYAR"}, {"id": "3525062005", "district_id": "352506", "name": "SUMBERWARU"}, {"id": "3525062006", "district_id": "352506", "name": "KESAMBENKULON"}, {"id": "3525062007", "district_id": "352506", "name": "SUMBERAME"}, {"id": "3525062008", "district_id": "352506", "name": "SEMBUNG"}, {"id": "3525062009", "district_id": "352506", "name": "SOOKO"}, {"id": "3525062010", "district_id": "352506", "name": "WRINGINANOM"}, {"id": "3525062011", "district_id": "352506", "name": "PEDAGANGAN"}, {"id": "3525062012", "district_id": "352506", "name": "LEBANISUKO"}, {"id": "3525062013", "district_id": "352506", "name": "LEBANIWARAS"}, {"id": "3525062014", "district_id": "352506", "name": "WATESTANJUNG"}, {"id": "3525062015", "district_id": "352506", "name": "SUMENGKO"}, {"id": "3525062016", "district_id": "352506", "name": "PASINANLEMAHPUTIH"}]
+[
+  {
+    "id": "3525062001",
+    "district_id": "352506",
+    "name": "KEPUHKLAGEN"
+  },
+  {
+    "id": "3525062002",
+    "district_id": "352506",
+    "name": "SUMBERGEDE"
+  },
+  {
+    "id": "3525062003",
+    "district_id": "352506",
+    "name": "MONDOLUKU"
+  },
+  {
+    "id": "3525062004",
+    "district_id": "352506",
+    "name": "KEDUNGANYAR"
+  },
+  {
+    "id": "3525062005",
+    "district_id": "352506",
+    "name": "SUMBERWARU"
+  },
+  {
+    "id": "3525062006",
+    "district_id": "352506",
+    "name": "KESAMBENKULON"
+  },
+  {
+    "id": "3525062007",
+    "district_id": "352506",
+    "name": "SUMBERAME"
+  },
+  {
+    "id": "3525062008",
+    "district_id": "352506",
+    "name": "SEMBUNG"
+  },
+  {
+    "id": "3525062009",
+    "district_id": "352506",
+    "name": "SOOKO"
+  },
+  {
+    "id": "3525062010",
+    "district_id": "352506",
+    "name": "WRINGINANOM"
+  },
+  {
+    "id": "3525062011",
+    "district_id": "352506",
+    "name": "PEDAGANGAN"
+  },
+  {
+    "id": "3525062012",
+    "district_id": "352506",
+    "name": "LEBANISUKO"
+  },
+  {
+    "id": "3525062013",
+    "district_id": "352506",
+    "name": "LEBANIWARAS"
+  },
+  {
+    "id": "3525062014",
+    "district_id": "352506",
+    "name": "WATESTANJUNG"
+  },
+  {
+    "id": "3525062015",
+    "district_id": "352506",
+    "name": "SUMENGKO"
+  },
+  {
+    "id": "3525062016",
+    "district_id": "352506",
+    "name": "PASINANLEMAHPUTIH"
+  }
+]

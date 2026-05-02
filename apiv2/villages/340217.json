@@ -1,1 +1,22 @@
-[{"id": "3402172001", "district_id": "340217", "name": "ARGODADI"}, {"id": "3402172002", "district_id": "340217", "name": "ARGOREJO"}, {"id": "3402172003", "district_id": "340217", "name": "ARGOSARI"}, {"id": "3402172004", "district_id": "340217", "name": "ARGOMULYO"}]
+[
+  {
+    "id": "3402172001",
+    "district_id": "340217",
+    "name": "ARGODADI"
+  },
+  {
+    "id": "3402172002",
+    "district_id": "340217",
+    "name": "ARGOREJO"
+  },
+  {
+    "id": "3402172003",
+    "district_id": "340217",
+    "name": "ARGOSARI"
+  },
+  {
+    "id": "3402172004",
+    "district_id": "340217",
+    "name": "ARGOMULYO"
+  }
+]

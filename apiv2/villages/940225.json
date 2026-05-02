@@ -1,1 +1,52 @@
-[{"id": "9402252001", "district_id": "940225", "name": "DAGAI"}, {"id": "9402252002", "district_id": "940225", "name": "DAGAI 2"}, {"id": "9402252003", "district_id": "940225", "name": "DEIDE"}, {"id": "9402252004", "district_id": "940225", "name": "FARIDE"}, {"id": "9402252005", "district_id": "940225", "name": "SOI"}, {"id": "9402252006", "district_id": "940225", "name": "MBOMBAN"}, {"id": "9402252007", "district_id": "940225", "name": "YEIHNERI"}, {"id": "9402252008", "district_id": "940225", "name": "MANDARA LANI"}, {"id": "9402252009", "district_id": "940225", "name": "DEBITE"}, {"id": "9402252010", "district_id": "940225", "name": "GUERI"}]
+[
+  {
+    "id": "9402252001",
+    "district_id": "940225",
+    "name": "DAGAI"
+  },
+  {
+    "id": "9402252002",
+    "district_id": "940225",
+    "name": "DAGAI 2"
+  },
+  {
+    "id": "9402252003",
+    "district_id": "940225",
+    "name": "DEIDE"
+  },
+  {
+    "id": "9402252004",
+    "district_id": "940225",
+    "name": "FARIDE"
+  },
+  {
+    "id": "9402252005",
+    "district_id": "940225",
+    "name": "SOI"
+  },
+  {
+    "id": "9402252006",
+    "district_id": "940225",
+    "name": "MBOMBAN"
+  },
+  {
+    "id": "9402252007",
+    "district_id": "940225",
+    "name": "YEIHNERI"
+  },
+  {
+    "id": "9402252008",
+    "district_id": "940225",
+    "name": "MANDARA LANI"
+  },
+  {
+    "id": "9402252009",
+    "district_id": "940225",
+    "name": "DEBITE"
+  },
+  {
+    "id": "9402252010",
+    "district_id": "940225",
+    "name": "GUERI"
+  }
+]

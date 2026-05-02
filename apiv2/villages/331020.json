@@ -1,1 +1,92 @@
-[{"id": "3310201015", "district_id": "331020", "name": "JATINOM"}, {"id": "3310202001", "district_id": "331020", "name": "BETENG"}, {"id": "3310202002", "district_id": "331020", "name": "RANDULANANG"}, {"id": "3310202003", "district_id": "331020", "name": "MRANGGEN"}, {"id": "3310202004", "district_id": "331020", "name": "JEMAWAN"}, {"id": "3310202005", "district_id": "331020", "name": "GEDAREN"}, {"id": "3310202006", "district_id": "331020", "name": "CAWAN"}, {"id": "3310202007", "district_id": "331020", "name": "TIBAYAN"}, {"id": "3310202008", "district_id": "331020", "name": "BENGKING"}, {"id": "3310202009", "district_id": "331020", "name": "TEMUIRENG"}, {"id": "3310202010", "district_id": "331020", "name": "BANDUNGAN"}, {"id": "3310202011", "district_id": "331020", "name": "KAYUMAS"}, {"id": "3310202012", "district_id": "331020", "name": "SOCOKANGSI"}, {"id": "3310202013", "district_id": "331020", "name": "GLAGAH"}, {"id": "3310202014", "district_id": "331020", "name": "KRAJAN"}, {"id": "3310202016", "district_id": "331020", "name": "BONYOKAN"}, {"id": "3310202017", "district_id": "331020", "name": "PANDEYAN"}, {"id": "3310202018", "district_id": "331020", "name": "PULUHAN"}]
+[
+  {
+    "id": "3310201015",
+    "district_id": "331020",
+    "name": "JATINOM"
+  },
+  {
+    "id": "3310202001",
+    "district_id": "331020",
+    "name": "BETENG"
+  },
+  {
+    "id": "3310202002",
+    "district_id": "331020",
+    "name": "RANDULANANG"
+  },
+  {
+    "id": "3310202003",
+    "district_id": "331020",
+    "name": "MRANGGEN"
+  },
+  {
+    "id": "3310202004",
+    "district_id": "331020",
+    "name": "JEMAWAN"
+  },
+  {
+    "id": "3310202005",
+    "district_id": "331020",
+    "name": "GEDAREN"
+  },
+  {
+    "id": "3310202006",
+    "district_id": "331020",
+    "name": "CAWAN"
+  },
+  {
+    "id": "3310202007",
+    "district_id": "331020",
+    "name": "TIBAYAN"
+  },
+  {
+    "id": "3310202008",
+    "district_id": "331020",
+    "name": "BENGKING"
+  },
+  {
+    "id": "3310202009",
+    "district_id": "331020",
+    "name": "TEMUIRENG"
+  },
+  {
+    "id": "3310202010",
+    "district_id": "331020",
+    "name": "BANDUNGAN"
+  },
+  {
+    "id": "3310202011",
+    "district_id": "331020",
+    "name": "KAYUMAS"
+  },
+  {
+    "id": "3310202012",
+    "district_id": "331020",
+    "name": "SOCOKANGSI"
+  },
+  {
+    "id": "3310202013",
+    "district_id": "331020",
+    "name": "GLAGAH"
+  },
+  {
+    "id": "3310202014",
+    "district_id": "331020",
+    "name": "KRAJAN"
+  },
+  {
+    "id": "3310202016",
+    "district_id": "331020",
+    "name": "BONYOKAN"
+  },
+  {
+    "id": "3310202017",
+    "district_id": "331020",
+    "name": "PANDEYAN"
+  },
+  {
+    "id": "3310202018",
+    "district_id": "331020",
+    "name": "PULUHAN"
+  }
+]

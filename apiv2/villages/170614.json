@@ -1,1 +1,37 @@
-[{"id": "1706142001", "district_id": "170614", "name": "DUSUN BARU V KOTO"}, {"id": "1706142002", "district_id": "170614", "name": "AIR DIKIT"}, {"id": "1706142003", "district_id": "170614", "name": "PONDOK LUNANG"}, {"id": "1706142004", "district_id": "170614", "name": "SARI BULAN"}, {"id": "1706142005", "district_id": "170614", "name": "SARI MAKMUR"}, {"id": "1706142006", "district_id": "170614", "name": "SUMBER SARI"}, {"id": "1706142007", "district_id": "170614", "name": "AIR KASAI"}]
+[
+  {
+    "id": "1706142001",
+    "district_id": "170614",
+    "name": "DUSUN BARU V KOTO"
+  },
+  {
+    "id": "1706142002",
+    "district_id": "170614",
+    "name": "AIR DIKIT"
+  },
+  {
+    "id": "1706142003",
+    "district_id": "170614",
+    "name": "PONDOK LUNANG"
+  },
+  {
+    "id": "1706142004",
+    "district_id": "170614",
+    "name": "SARI BULAN"
+  },
+  {
+    "id": "1706142005",
+    "district_id": "170614",
+    "name": "SARI MAKMUR"
+  },
+  {
+    "id": "1706142006",
+    "district_id": "170614",
+    "name": "SUMBER SARI"
+  },
+  {
+    "id": "1706142007",
+    "district_id": "170614",
+    "name": "AIR KASAI"
+  }
+]

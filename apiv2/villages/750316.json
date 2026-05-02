@@ -1,1 +1,27 @@
-[{"id": "7503162001", "district_id": "750316", "name": "BULOTALANGI"}, {"id": "7503162002", "district_id": "750316", "name": "TOLUWAYA"}, {"id": "7503162003", "district_id": "750316", "name": "POPODU"}, {"id": "7503162004", "district_id": "750316", "name": "BULOTALANGI TIMUR"}, {"id": "7503162005", "district_id": "750316", "name": "BULOTALANGI BARAT"}]
+[
+  {
+    "id": "7503162001",
+    "district_id": "750316",
+    "name": "BULOTALANGI"
+  },
+  {
+    "id": "7503162002",
+    "district_id": "750316",
+    "name": "TOLUWAYA"
+  },
+  {
+    "id": "7503162003",
+    "district_id": "750316",
+    "name": "POPODU"
+  },
+  {
+    "id": "7503162004",
+    "district_id": "750316",
+    "name": "BULOTALANGI TIMUR"
+  },
+  {
+    "id": "7503162005",
+    "district_id": "750316",
+    "name": "BULOTALANGI BARAT"
+  }
+]

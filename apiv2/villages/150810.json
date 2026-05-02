@@ -1,1 +1,32 @@
-[{"id": "1508102001", "district_id": "150810", "name": "TANJUNG MENANTI"}, {"id": "1508102002", "district_id": "150810", "name": "BABEKO"}, {"id": "1508102003", "district_id": "150810", "name": "SEPUNGGUR"}, {"id": "1508102004", "district_id": "150810", "name": "SIMPANG BEBEKO"}, {"id": "1508102005", "district_id": "150810", "name": "SUKA MAKMUR"}, {"id": "1508102006", "district_id": "150810", "name": "TUO SEPUNGGUR"}]
+[
+  {
+    "id": "1508102001",
+    "district_id": "150810",
+    "name": "TANJUNG MENANTI"
+  },
+  {
+    "id": "1508102002",
+    "district_id": "150810",
+    "name": "BABEKO"
+  },
+  {
+    "id": "1508102003",
+    "district_id": "150810",
+    "name": "SEPUNGGUR"
+  },
+  {
+    "id": "1508102004",
+    "district_id": "150810",
+    "name": "SIMPANG BEBEKO"
+  },
+  {
+    "id": "1508102005",
+    "district_id": "150810",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1508102006",
+    "district_id": "150810",
+    "name": "TUO SEPUNGGUR"
+  }
+]

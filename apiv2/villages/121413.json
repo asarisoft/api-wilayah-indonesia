@@ -1,1 +1,57 @@
-[{"id": "1214132001", "district_id": "121413", "name": "HILIZALO'OTANO"}, {"id": "1214132002", "district_id": "121413", "name": "HILINAWALO MAZINO"}, {"id": "1214132003", "district_id": "121413", "name": "LAWINDRA"}, {"id": "1214132004", "district_id": "121413", "name": "BAWOLAHUSA"}, {"id": "1214132005", "district_id": "121413", "name": "HILIZOROI LAWA"}, {"id": "1214132006", "district_id": "121413", "name": "HILIZALO'OTANO LAOWO"}, {"id": "1214132007", "district_id": "121413", "name": "HILIZALO'OTANO LARONO"}, {"id": "1214132008", "district_id": "121413", "name": "HILILAZA HILINAWALO MAZINO"}, {"id": "1214132009", "district_id": "121413", "name": "HILIFONDEGE HILIZOROILAWA"}, {"id": "1214132010", "district_id": "121413", "name": "LOLOMBOLI"}, {"id": "1214132011", "district_id": "121413", "name": "BAWOLAHUSA DOLI-DOLI"}]
+[
+  {
+    "id": "1214132001",
+    "district_id": "121413",
+    "name": "HILIZALO'OTANO"
+  },
+  {
+    "id": "1214132002",
+    "district_id": "121413",
+    "name": "HILINAWALO MAZINO"
+  },
+  {
+    "id": "1214132003",
+    "district_id": "121413",
+    "name": "LAWINDRA"
+  },
+  {
+    "id": "1214132004",
+    "district_id": "121413",
+    "name": "BAWOLAHUSA"
+  },
+  {
+    "id": "1214132005",
+    "district_id": "121413",
+    "name": "HILIZOROI LAWA"
+  },
+  {
+    "id": "1214132006",
+    "district_id": "121413",
+    "name": "HILIZALO'OTANO LAOWO"
+  },
+  {
+    "id": "1214132007",
+    "district_id": "121413",
+    "name": "HILIZALO'OTANO LARONO"
+  },
+  {
+    "id": "1214132008",
+    "district_id": "121413",
+    "name": "HILILAZA HILINAWALO MAZINO"
+  },
+  {
+    "id": "1214132009",
+    "district_id": "121413",
+    "name": "HILIFONDEGE HILIZOROILAWA"
+  },
+  {
+    "id": "1214132010",
+    "district_id": "121413",
+    "name": "LOLOMBOLI"
+  },
+  {
+    "id": "1214132011",
+    "district_id": "121413",
+    "name": "BAWOLAHUSA DOLI-DOLI"
+  }
+]

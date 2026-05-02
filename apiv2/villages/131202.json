@@ -1,1 +1,47 @@
-[{"id": "1312022001", "district_id": "131202", "name": "UJUNG GADING"}, {"id": "1312022002", "district_id": "131202", "name": "BRASTAGI UJUNG GADING"}, {"id": "1312022003", "district_id": "131202", "name": "TAMPUS DAMAI UJUNG GADING"}, {"id": "1312022004", "district_id": "131202", "name": "TALUAK AMBUN UJUNG GADING"}, {"id": "1312022005", "district_id": "131202", "name": "KOTO GUNUNG UJUNG GADING"}, {"id": "1312022006", "district_id": "131202", "name": "KOTO SAWAH UJUNG GADING"}, {"id": "1312022007", "district_id": "131202", "name": "SALIDO SAROHA UJUNG GADING"}, {"id": "1312022008", "district_id": "131202", "name": "KUAMANG ALAI UJUNG GADING"}, {"id": "1312022009", "district_id": "131202", "name": "SITUAK UJUNG GADING"}]
+[
+  {
+    "id": "1312022001",
+    "district_id": "131202",
+    "name": "UJUNG GADING"
+  },
+  {
+    "id": "1312022002",
+    "district_id": "131202",
+    "name": "BRASTAGI UJUNG GADING"
+  },
+  {
+    "id": "1312022003",
+    "district_id": "131202",
+    "name": "TAMPUS DAMAI UJUNG GADING"
+  },
+  {
+    "id": "1312022004",
+    "district_id": "131202",
+    "name": "TALUAK AMBUN UJUNG GADING"
+  },
+  {
+    "id": "1312022005",
+    "district_id": "131202",
+    "name": "KOTO GUNUNG UJUNG GADING"
+  },
+  {
+    "id": "1312022006",
+    "district_id": "131202",
+    "name": "KOTO SAWAH UJUNG GADING"
+  },
+  {
+    "id": "1312022007",
+    "district_id": "131202",
+    "name": "SALIDO SAROHA UJUNG GADING"
+  },
+  {
+    "id": "1312022008",
+    "district_id": "131202",
+    "name": "KUAMANG ALAI UJUNG GADING"
+  },
+  {
+    "id": "1312022009",
+    "district_id": "131202",
+    "name": "SITUAK UJUNG GADING"
+  }
+]

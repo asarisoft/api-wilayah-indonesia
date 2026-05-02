@@ -1,1 +1,67 @@
-[{"id": "7317021003", "district_id": "731702", "name": "LAROMPONG"}, {"id": "7317022001", "district_id": "731702", "name": "RANTEBELU"}, {"id": "7317022002", "district_id": "731702", "name": "KOMBA"}, {"id": "7317022004", "district_id": "731702", "name": "LUMARING"}, {"id": "7317022005", "district_id": "731702", "name": "BINTURU"}, {"id": "7317022006", "district_id": "731702", "name": "BILANTE"}, {"id": "7317022007", "district_id": "731702", "name": "RANTE ALANG"}, {"id": "7317022008", "district_id": "731702", "name": "RIWANG"}, {"id": "7317022009", "district_id": "731702", "name": "BUNTU MATABING"}, {"id": "7317022010", "district_id": "731702", "name": "BUKIT SUTRA"}, {"id": "7317022011", "district_id": "731702", "name": "RIWANG SELATAN"}, {"id": "7317022012", "district_id": "731702", "name": "KOMBA SELATAN"}, {"id": "7317022013", "district_id": "731702", "name": "BUNTU PASIK"}]
+[
+  {
+    "id": "7317021003",
+    "district_id": "731702",
+    "name": "LAROMPONG"
+  },
+  {
+    "id": "7317022001",
+    "district_id": "731702",
+    "name": "RANTEBELU"
+  },
+  {
+    "id": "7317022002",
+    "district_id": "731702",
+    "name": "KOMBA"
+  },
+  {
+    "id": "7317022004",
+    "district_id": "731702",
+    "name": "LUMARING"
+  },
+  {
+    "id": "7317022005",
+    "district_id": "731702",
+    "name": "BINTURU"
+  },
+  {
+    "id": "7317022006",
+    "district_id": "731702",
+    "name": "BILANTE"
+  },
+  {
+    "id": "7317022007",
+    "district_id": "731702",
+    "name": "RANTE ALANG"
+  },
+  {
+    "id": "7317022008",
+    "district_id": "731702",
+    "name": "RIWANG"
+  },
+  {
+    "id": "7317022009",
+    "district_id": "731702",
+    "name": "BUNTU MATABING"
+  },
+  {
+    "id": "7317022010",
+    "district_id": "731702",
+    "name": "BUKIT SUTRA"
+  },
+  {
+    "id": "7317022011",
+    "district_id": "731702",
+    "name": "RIWANG SELATAN"
+  },
+  {
+    "id": "7317022012",
+    "district_id": "731702",
+    "name": "KOMBA SELATAN"
+  },
+  {
+    "id": "7317022013",
+    "district_id": "731702",
+    "name": "BUNTU PASIK"
+  }
+]

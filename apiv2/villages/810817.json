@@ -1,1 +1,17 @@
-[{"id": "8108172001", "district_id": "810817", "name": "PURPURA"}, {"id": "8108172002", "district_id": "810817", "name": "NOMAHA"}, {"id": "8108172003", "district_id": "810817", "name": "LABELAU"}]
+[
+  {
+    "id": "8108172001",
+    "district_id": "810817",
+    "name": "PURPURA"
+  },
+  {
+    "id": "8108172002",
+    "district_id": "810817",
+    "name": "NOMAHA"
+  },
+  {
+    "id": "8108172003",
+    "district_id": "810817",
+    "name": "LABELAU"
+  }
+]

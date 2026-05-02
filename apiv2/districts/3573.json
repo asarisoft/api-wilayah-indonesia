@@ -1,1 +1,27 @@
-[{"id": "357301", "regency_id": "3573", "name": "BLIMBING"}, {"id": "357302", "regency_id": "3573", "name": "KLOJEN"}, {"id": "357303", "regency_id": "3573", "name": "KEDUNGKANDANG"}, {"id": "357304", "regency_id": "3573", "name": "SUKUN"}, {"id": "357305", "regency_id": "3573", "name": "LOWOKWARU"}]
+[
+  {
+    "id": "357301",
+    "regency_id": "3573",
+    "name": "BLIMBING"
+  },
+  {
+    "id": "357302",
+    "regency_id": "3573",
+    "name": "KLOJEN"
+  },
+  {
+    "id": "357303",
+    "regency_id": "3573",
+    "name": "KEDUNGKANDANG"
+  },
+  {
+    "id": "357304",
+    "regency_id": "3573",
+    "name": "SUKUN"
+  },
+  {
+    "id": "357305",
+    "regency_id": "3573",
+    "name": "LOWOKWARU"
+  }
+]

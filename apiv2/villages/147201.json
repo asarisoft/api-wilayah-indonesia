@@ -1,1 +1,22 @@
-[{"id": "1472011003", "district_id": "147201", "name": "PANGKALAN SESAI"}, {"id": "1472011006", "district_id": "147201", "name": "PURNAMA"}, {"id": "1472011008", "district_id": "147201", "name": "BAGAN KELADI"}, {"id": "1472011009", "district_id": "147201", "name": "SIMPANG TETAP DARUL ICHSAN"}]
+[
+  {
+    "id": "1472011003",
+    "district_id": "147201",
+    "name": "PANGKALAN SESAI"
+  },
+  {
+    "id": "1472011006",
+    "district_id": "147201",
+    "name": "PURNAMA"
+  },
+  {
+    "id": "1472011008",
+    "district_id": "147201",
+    "name": "BAGAN KELADI"
+  },
+  {
+    "id": "1472011009",
+    "district_id": "147201",
+    "name": "SIMPANG TETAP DARUL ICHSAN"
+  }
+]

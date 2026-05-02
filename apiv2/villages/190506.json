@@ -1,1 +1,52 @@
-[{"id": "1905062001", "district_id": "190506", "name": "SEKAR BIRU"}, {"id": "1905062002", "district_id": "190506", "name": "TELAK"}, {"id": "1905062003", "district_id": "190506", "name": "CUPAT"}, {"id": "1905062004", "district_id": "190506", "name": "BAKIT"}, {"id": "1905062005", "district_id": "190506", "name": "PUPUT"}, {"id": "1905062006", "district_id": "190506", "name": "AIR GANTANG"}, {"id": "1905062007", "district_id": "190506", "name": "KELABAT"}, {"id": "1905062008", "district_id": "190506", "name": "KAPIT"}, {"id": "1905062009", "district_id": "190506", "name": "SEMULUT"}, {"id": "1905062010", "district_id": "190506", "name": "TELUK LIMAU"}]
+[
+  {
+    "id": "1905062001",
+    "district_id": "190506",
+    "name": "SEKAR BIRU"
+  },
+  {
+    "id": "1905062002",
+    "district_id": "190506",
+    "name": "TELAK"
+  },
+  {
+    "id": "1905062003",
+    "district_id": "190506",
+    "name": "CUPAT"
+  },
+  {
+    "id": "1905062004",
+    "district_id": "190506",
+    "name": "BAKIT"
+  },
+  {
+    "id": "1905062005",
+    "district_id": "190506",
+    "name": "PUPUT"
+  },
+  {
+    "id": "1905062006",
+    "district_id": "190506",
+    "name": "AIR GANTANG"
+  },
+  {
+    "id": "1905062007",
+    "district_id": "190506",
+    "name": "KELABAT"
+  },
+  {
+    "id": "1905062008",
+    "district_id": "190506",
+    "name": "KAPIT"
+  },
+  {
+    "id": "1905062009",
+    "district_id": "190506",
+    "name": "SEMULUT"
+  },
+  {
+    "id": "1905062010",
+    "district_id": "190506",
+    "name": "TELUK LIMAU"
+  }
+]

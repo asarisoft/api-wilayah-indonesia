@@ -1,1 +1,52 @@
-[{"id": "7212102001", "district_id": "721210", "name": "TIU"}, {"id": "7212102002", "district_id": "721210", "name": "TONTOWEA"}, {"id": "7212102003", "district_id": "721210", "name": "TOGO MULYO"}, {"id": "7212102004", "district_id": "721210", "name": "MARALEE"}, {"id": "7212102005", "district_id": "721210", "name": "MONDOWE"}, {"id": "7212102006", "district_id": "721210", "name": "SAMPALOWO"}, {"id": "7212102007", "district_id": "721210", "name": "MOLEONO"}, {"id": "7212102008", "district_id": "721210", "name": "ONEPUTE"}, {"id": "7212102009", "district_id": "721210", "name": "ULU LAA"}, {"id": "7212102010", "district_id": "721210", "name": "TADAKU JAYA"}]
+[
+  {
+    "id": "7212102001",
+    "district_id": "721210",
+    "name": "TIU"
+  },
+  {
+    "id": "7212102002",
+    "district_id": "721210",
+    "name": "TONTOWEA"
+  },
+  {
+    "id": "7212102003",
+    "district_id": "721210",
+    "name": "TOGO MULYO"
+  },
+  {
+    "id": "7212102004",
+    "district_id": "721210",
+    "name": "MARALEE"
+  },
+  {
+    "id": "7212102005",
+    "district_id": "721210",
+    "name": "MONDOWE"
+  },
+  {
+    "id": "7212102006",
+    "district_id": "721210",
+    "name": "SAMPALOWO"
+  },
+  {
+    "id": "7212102007",
+    "district_id": "721210",
+    "name": "MOLEONO"
+  },
+  {
+    "id": "7212102008",
+    "district_id": "721210",
+    "name": "ONEPUTE"
+  },
+  {
+    "id": "7212102009",
+    "district_id": "721210",
+    "name": "ULU LAA"
+  },
+  {
+    "id": "7212102010",
+    "district_id": "721210",
+    "name": "TADAKU JAYA"
+  }
+]

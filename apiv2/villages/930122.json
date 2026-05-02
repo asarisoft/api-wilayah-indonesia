@@ -1,1 +1,27 @@
-[{"id": "9301222001", "district_id": "930122", "name": "KAWE"}, {"id": "9301222002", "district_id": "930122", "name": "WETAU"}, {"id": "9301222003", "district_id": "930122", "name": "PEMBRI"}, {"id": "9301222004", "district_id": "930122", "name": "SIBENDA"}, {"id": "9301222005", "district_id": "930122", "name": "WANTARMA"}]
+[
+  {
+    "id": "9301222001",
+    "district_id": "930122",
+    "name": "KAWE"
+  },
+  {
+    "id": "9301222002",
+    "district_id": "930122",
+    "name": "WETAU"
+  },
+  {
+    "id": "9301222003",
+    "district_id": "930122",
+    "name": "PEMBRI"
+  },
+  {
+    "id": "9301222004",
+    "district_id": "930122",
+    "name": "SIBENDA"
+  },
+  {
+    "id": "9301222005",
+    "district_id": "930122",
+    "name": "WANTARMA"
+  }
+]

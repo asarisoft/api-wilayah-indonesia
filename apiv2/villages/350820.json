@@ -1,1 +1,57 @@
-[{"id": "3508202001", "district_id": "350820", "name": "JENGGRONG"}, {"id": "3508202002", "district_id": "350820", "name": "MENINJO"}, {"id": "3508202003", "district_id": "350820", "name": "TEGALBANGSRI"}, {"id": "3508202004", "district_id": "350820", "name": "SUMBERPETUNG"}, {"id": "3508202005", "district_id": "350820", "name": "ALUN-ALUN"}, {"id": "3508202006", "district_id": "350820", "name": "RANUBEDALI"}, {"id": "3508202007", "district_id": "350820", "name": "RANUYOSO"}, {"id": "3508202008", "district_id": "350820", "name": "WONOAYU"}, {"id": "3508202009", "district_id": "350820", "name": "PENAWUNGAN"}, {"id": "3508202010", "district_id": "350820", "name": "WATES KULON"}, {"id": "3508202011", "district_id": "350820", "name": "WATES WETAN"}]
+[
+  {
+    "id": "3508202001",
+    "district_id": "350820",
+    "name": "JENGGRONG"
+  },
+  {
+    "id": "3508202002",
+    "district_id": "350820",
+    "name": "MENINJO"
+  },
+  {
+    "id": "3508202003",
+    "district_id": "350820",
+    "name": "TEGALBANGSRI"
+  },
+  {
+    "id": "3508202004",
+    "district_id": "350820",
+    "name": "SUMBERPETUNG"
+  },
+  {
+    "id": "3508202005",
+    "district_id": "350820",
+    "name": "ALUN-ALUN"
+  },
+  {
+    "id": "3508202006",
+    "district_id": "350820",
+    "name": "RANUBEDALI"
+  },
+  {
+    "id": "3508202007",
+    "district_id": "350820",
+    "name": "RANUYOSO"
+  },
+  {
+    "id": "3508202008",
+    "district_id": "350820",
+    "name": "WONOAYU"
+  },
+  {
+    "id": "3508202009",
+    "district_id": "350820",
+    "name": "PENAWUNGAN"
+  },
+  {
+    "id": "3508202010",
+    "district_id": "350820",
+    "name": "WATES KULON"
+  },
+  {
+    "id": "3508202011",
+    "district_id": "350820",
+    "name": "WATES WETAN"
+  }
+]

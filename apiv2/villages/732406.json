@@ -1,1 +1,87 @@
-[{"id": "7324062001", "district_id": "732406", "name": "LAMPENAI"}, {"id": "7324062002", "district_id": "732406", "name": "TARENGGE"}, {"id": "7324062003", "district_id": "732406", "name": "MARAMBA"}, {"id": "7324062004", "district_id": "732406", "name": "CENDANA HIJAU"}, {"id": "7324062005", "district_id": "732406", "name": "BAWALIPU"}, {"id": "7324062006", "district_id": "732406", "name": "KALAENA"}, {"id": "7324062007", "district_id": "732406", "name": "LERA"}, {"id": "7324062008", "district_id": "732406", "name": "KANAWATU"}, {"id": "7324062009", "district_id": "732406", "name": "BAHARI"}, {"id": "7324062010", "district_id": "732406", "name": "KARAMBUA"}, {"id": "7324062011", "district_id": "732406", "name": "PEPURO BARAT"}, {"id": "7324062012", "district_id": "732406", "name": "BALO-BALO"}, {"id": "7324062013", "district_id": "732406", "name": "RINJANI"}, {"id": "7324062014", "district_id": "732406", "name": "TARENGGE TIMUR"}, {"id": "7324062015", "district_id": "732406", "name": "MADANI"}, {"id": "7324062016", "district_id": "732406", "name": "TABAROGE"}, {"id": "7324062017", "district_id": "732406", "name": "AROLIPU"}]
+[
+  {
+    "id": "7324062001",
+    "district_id": "732406",
+    "name": "LAMPENAI"
+  },
+  {
+    "id": "7324062002",
+    "district_id": "732406",
+    "name": "TARENGGE"
+  },
+  {
+    "id": "7324062003",
+    "district_id": "732406",
+    "name": "MARAMBA"
+  },
+  {
+    "id": "7324062004",
+    "district_id": "732406",
+    "name": "CENDANA HIJAU"
+  },
+  {
+    "id": "7324062005",
+    "district_id": "732406",
+    "name": "BAWALIPU"
+  },
+  {
+    "id": "7324062006",
+    "district_id": "732406",
+    "name": "KALAENA"
+  },
+  {
+    "id": "7324062007",
+    "district_id": "732406",
+    "name": "LERA"
+  },
+  {
+    "id": "7324062008",
+    "district_id": "732406",
+    "name": "KANAWATU"
+  },
+  {
+    "id": "7324062009",
+    "district_id": "732406",
+    "name": "BAHARI"
+  },
+  {
+    "id": "7324062010",
+    "district_id": "732406",
+    "name": "KARAMBUA"
+  },
+  {
+    "id": "7324062011",
+    "district_id": "732406",
+    "name": "PEPURO BARAT"
+  },
+  {
+    "id": "7324062012",
+    "district_id": "732406",
+    "name": "BALO-BALO"
+  },
+  {
+    "id": "7324062013",
+    "district_id": "732406",
+    "name": "RINJANI"
+  },
+  {
+    "id": "7324062014",
+    "district_id": "732406",
+    "name": "TARENGGE TIMUR"
+  },
+  {
+    "id": "7324062015",
+    "district_id": "732406",
+    "name": "MADANI"
+  },
+  {
+    "id": "7324062016",
+    "district_id": "732406",
+    "name": "TABAROGE"
+  },
+  {
+    "id": "7324062017",
+    "district_id": "732406",
+    "name": "AROLIPU"
+  }
+]

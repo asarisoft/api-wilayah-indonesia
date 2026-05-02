@@ -1,1 +1,52 @@
-[{"id": "3529202001", "district_id": "352920", "name": "PANCOR"}, {"id": "3529202002", "district_id": "352920", "name": "PRAMBANAN"}, {"id": "3529202003", "district_id": "352920", "name": "GENDANG TIMUR"}, {"id": "3529202004", "district_id": "352920", "name": "KARANG TENGAH"}, {"id": "3529202005", "district_id": "352920", "name": "JAMBUIR"}, {"id": "3529202006", "district_id": "352920", "name": "GAYAM"}, {"id": "3529202007", "district_id": "352920", "name": "KALOWANG"}, {"id": "3529202008", "district_id": "352920", "name": "NYAMPLONG"}, {"id": "3529202009", "district_id": "352920", "name": "GENDANG BARAT"}, {"id": "3529202010", "district_id": "352920", "name": "TAREBUNG"}]
+[
+  {
+    "id": "3529202001",
+    "district_id": "352920",
+    "name": "PANCOR"
+  },
+  {
+    "id": "3529202002",
+    "district_id": "352920",
+    "name": "PRAMBANAN"
+  },
+  {
+    "id": "3529202003",
+    "district_id": "352920",
+    "name": "GENDANG TIMUR"
+  },
+  {
+    "id": "3529202004",
+    "district_id": "352920",
+    "name": "KARANG TENGAH"
+  },
+  {
+    "id": "3529202005",
+    "district_id": "352920",
+    "name": "JAMBUIR"
+  },
+  {
+    "id": "3529202006",
+    "district_id": "352920",
+    "name": "GAYAM"
+  },
+  {
+    "id": "3529202007",
+    "district_id": "352920",
+    "name": "KALOWANG"
+  },
+  {
+    "id": "3529202008",
+    "district_id": "352920",
+    "name": "NYAMPLONG"
+  },
+  {
+    "id": "3529202009",
+    "district_id": "352920",
+    "name": "GENDANG BARAT"
+  },
+  {
+    "id": "3529202010",
+    "district_id": "352920",
+    "name": "TAREBUNG"
+  }
+]

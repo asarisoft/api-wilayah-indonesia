@@ -1,1 +1,42 @@
-[{"id": "1803122001", "district_id": "180312", "name": "ULAK RENGAS"}, {"id": "1803122002", "district_id": "180312", "name": "MUARA DUA"}, {"id": "1803122003", "district_id": "180312", "name": "PULAU PANGGUNG"}, {"id": "1803122004", "district_id": "180312", "name": "SEKIPI"}, {"id": "1803122005", "district_id": "180312", "name": "SIDO KAYO"}, {"id": "1803122006", "district_id": "180312", "name": "SUKA MARGA"}, {"id": "1803122007", "district_id": "180312", "name": "SUKA MAJU"}, {"id": "1803122008", "district_id": "180312", "name": "KEBUN DALAM"}]
+[
+  {
+    "id": "1803122001",
+    "district_id": "180312",
+    "name": "ULAK RENGAS"
+  },
+  {
+    "id": "1803122002",
+    "district_id": "180312",
+    "name": "MUARA DUA"
+  },
+  {
+    "id": "1803122003",
+    "district_id": "180312",
+    "name": "PULAU PANGGUNG"
+  },
+  {
+    "id": "1803122004",
+    "district_id": "180312",
+    "name": "SEKIPI"
+  },
+  {
+    "id": "1803122005",
+    "district_id": "180312",
+    "name": "SIDO KAYO"
+  },
+  {
+    "id": "1803122006",
+    "district_id": "180312",
+    "name": "SUKA MARGA"
+  },
+  {
+    "id": "1803122007",
+    "district_id": "180312",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1803122008",
+    "district_id": "180312",
+    "name": "KEBUN DALAM"
+  }
+]

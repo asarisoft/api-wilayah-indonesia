@@ -1,1 +1,42 @@
-[{"id": "8202052001", "district_id": "820205", "name": "TILOPE"}, {"id": "8202052002", "district_id": "820205", "name": "SOSOWOMO"}, {"id": "8202052003", "district_id": "820205", "name": "LOLEO"}, {"id": "8202052004", "district_id": "820205", "name": "WAIRORO INDAH"}, {"id": "8202052005", "district_id": "820205", "name": "KLUTING JAYA"}, {"id": "8202052006", "district_id": "820205", "name": "LEMBAH ASRI"}, {"id": "8202052007", "district_id": "820205", "name": "SUMBER SARI"}, {"id": "8202052008", "district_id": "820205", "name": "AIR SALOBAR"}]
+[
+  {
+    "id": "8202052001",
+    "district_id": "820205",
+    "name": "TILOPE"
+  },
+  {
+    "id": "8202052002",
+    "district_id": "820205",
+    "name": "SOSOWOMO"
+  },
+  {
+    "id": "8202052003",
+    "district_id": "820205",
+    "name": "LOLEO"
+  },
+  {
+    "id": "8202052004",
+    "district_id": "820205",
+    "name": "WAIRORO INDAH"
+  },
+  {
+    "id": "8202052005",
+    "district_id": "820205",
+    "name": "KLUTING JAYA"
+  },
+  {
+    "id": "8202052006",
+    "district_id": "820205",
+    "name": "LEMBAH ASRI"
+  },
+  {
+    "id": "8202052007",
+    "district_id": "820205",
+    "name": "SUMBER SARI"
+  },
+  {
+    "id": "8202052008",
+    "district_id": "820205",
+    "name": "AIR SALOBAR"
+  }
+]

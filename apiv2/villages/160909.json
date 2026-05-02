@@ -1,1 +1,112 @@
-[{"id": "1609092001", "district_id": "160909", "name": "TANJUNG DURIAN"}, {"id": "1609092002", "district_id": "160909", "name": "SIPIN"}, {"id": "1609092003", "district_id": "160909", "name": "KOTA WAY"}, {"id": "1609092004", "district_id": "160909", "name": "TALANG PADANG"}, {"id": "1609092005", "district_id": "160909", "name": "SRI MENANTI"}, {"id": "1609092006", "district_id": "160909", "name": "SERAKAT JAYA"}, {"id": "1609092007", "district_id": "160909", "name": "KARET JAYA"}, {"id": "1609092008", "district_id": "160909", "name": "DANAU JAYA"}, {"id": "1609092009", "district_id": "160909", "name": "SUMBER RINGIN"}, {"id": "1609092010", "district_id": "160909", "name": "KEMBANG TINGGI"}, {"id": "1609092011", "district_id": "160909", "name": "SIDO RAHAYU"}, {"id": "1609092012", "district_id": "160909", "name": "SIDODADI"}, {"id": "1609092013", "district_id": "160909", "name": "DURIAN SEMBILAN"}, {"id": "1609092014", "district_id": "160909", "name": "SUMBER RAYA"}, {"id": "1609092015", "district_id": "160909", "name": "SINAR NAPALAN"}, {"id": "1609092016", "district_id": "160909", "name": "TANJUNG JAYA"}, {"id": "1609092017", "district_id": "160909", "name": "SINAR BARU"}, {"id": "1609092018", "district_id": "160909", "name": "MEKAR JAYA"}, {"id": "1609092019", "district_id": "160909", "name": "TANJUNG SARI"}, {"id": "1609092020", "district_id": "160909", "name": "TANJUNG BARU"}, {"id": "1609092021", "district_id": "160909", "name": "AIR KELIAN"}, {"id": "1609092022", "district_id": "160909", "name": "TANJUNG MENANG"}]
+[
+  {
+    "id": "1609092001",
+    "district_id": "160909",
+    "name": "TANJUNG DURIAN"
+  },
+  {
+    "id": "1609092002",
+    "district_id": "160909",
+    "name": "SIPIN"
+  },
+  {
+    "id": "1609092003",
+    "district_id": "160909",
+    "name": "KOTA WAY"
+  },
+  {
+    "id": "1609092004",
+    "district_id": "160909",
+    "name": "TALANG PADANG"
+  },
+  {
+    "id": "1609092005",
+    "district_id": "160909",
+    "name": "SRI MENANTI"
+  },
+  {
+    "id": "1609092006",
+    "district_id": "160909",
+    "name": "SERAKAT JAYA"
+  },
+  {
+    "id": "1609092007",
+    "district_id": "160909",
+    "name": "KARET JAYA"
+  },
+  {
+    "id": "1609092008",
+    "district_id": "160909",
+    "name": "DANAU JAYA"
+  },
+  {
+    "id": "1609092009",
+    "district_id": "160909",
+    "name": "SUMBER RINGIN"
+  },
+  {
+    "id": "1609092010",
+    "district_id": "160909",
+    "name": "KEMBANG TINGGI"
+  },
+  {
+    "id": "1609092011",
+    "district_id": "160909",
+    "name": "SIDO RAHAYU"
+  },
+  {
+    "id": "1609092012",
+    "district_id": "160909",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1609092013",
+    "district_id": "160909",
+    "name": "DURIAN SEMBILAN"
+  },
+  {
+    "id": "1609092014",
+    "district_id": "160909",
+    "name": "SUMBER RAYA"
+  },
+  {
+    "id": "1609092015",
+    "district_id": "160909",
+    "name": "SINAR NAPALAN"
+  },
+  {
+    "id": "1609092016",
+    "district_id": "160909",
+    "name": "TANJUNG JAYA"
+  },
+  {
+    "id": "1609092017",
+    "district_id": "160909",
+    "name": "SINAR BARU"
+  },
+  {
+    "id": "1609092018",
+    "district_id": "160909",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "1609092019",
+    "district_id": "160909",
+    "name": "TANJUNG SARI"
+  },
+  {
+    "id": "1609092020",
+    "district_id": "160909",
+    "name": "TANJUNG BARU"
+  },
+  {
+    "id": "1609092021",
+    "district_id": "160909",
+    "name": "AIR KELIAN"
+  },
+  {
+    "id": "1609092022",
+    "district_id": "160909",
+    "name": "TANJUNG MENANG"
+  }
+]

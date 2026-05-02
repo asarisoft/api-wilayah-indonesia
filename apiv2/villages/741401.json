@@ -1,1 +1,77 @@
-[{"id": "7414011007", "district_id": "741401", "name": "LAKUDO"}, {"id": "7414011008", "district_id": "741401", "name": "GU TIMUR"}, {"id": "7414011010", "district_id": "741401", "name": "BONEOGE"}, {"id": "7414012001", "district_id": "741401", "name": "METERE"}, {"id": "7414012002", "district_id": "741401", "name": "LOLIBU"}, {"id": "7414012003", "district_id": "741401", "name": "WAJOGU"}, {"id": "7414012004", "district_id": "741401", "name": "MOKO"}, {"id": "7414012005", "district_id": "741401", "name": "MONE"}, {"id": "7414012006", "district_id": "741401", "name": "MATAWINE"}, {"id": "7414012009", "district_id": "741401", "name": "NEPA MEKAR"}, {"id": "7414012011", "district_id": "741401", "name": "MADONGKA"}, {"id": "7414012012", "district_id": "741401", "name": "WARAA"}, {"id": "7414012013", "district_id": "741401", "name": "WONGKO LAKUDO"}, {"id": "7414012014", "district_id": "741401", "name": "ONE WAARA"}, {"id": "7414012015", "district_id": "741401", "name": "TELUK LASONGKO"}]
+[
+  {
+    "id": "7414011007",
+    "district_id": "741401",
+    "name": "LAKUDO"
+  },
+  {
+    "id": "7414011008",
+    "district_id": "741401",
+    "name": "GU TIMUR"
+  },
+  {
+    "id": "7414011010",
+    "district_id": "741401",
+    "name": "BONEOGE"
+  },
+  {
+    "id": "7414012001",
+    "district_id": "741401",
+    "name": "METERE"
+  },
+  {
+    "id": "7414012002",
+    "district_id": "741401",
+    "name": "LOLIBU"
+  },
+  {
+    "id": "7414012003",
+    "district_id": "741401",
+    "name": "WAJOGU"
+  },
+  {
+    "id": "7414012004",
+    "district_id": "741401",
+    "name": "MOKO"
+  },
+  {
+    "id": "7414012005",
+    "district_id": "741401",
+    "name": "MONE"
+  },
+  {
+    "id": "7414012006",
+    "district_id": "741401",
+    "name": "MATAWINE"
+  },
+  {
+    "id": "7414012009",
+    "district_id": "741401",
+    "name": "NEPA MEKAR"
+  },
+  {
+    "id": "7414012011",
+    "district_id": "741401",
+    "name": "MADONGKA"
+  },
+  {
+    "id": "7414012012",
+    "district_id": "741401",
+    "name": "WARAA"
+  },
+  {
+    "id": "7414012013",
+    "district_id": "741401",
+    "name": "WONGKO LAKUDO"
+  },
+  {
+    "id": "7414012014",
+    "district_id": "741401",
+    "name": "ONE WAARA"
+  },
+  {
+    "id": "7414012015",
+    "district_id": "741401",
+    "name": "TELUK LASONGKO"
+  }
+]

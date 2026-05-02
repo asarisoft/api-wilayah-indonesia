@@ -1,1 +1,32 @@
-[{"id": "3212292001", "district_id": "321229", "name": "BRONDONG"}, {"id": "3212292002", "district_id": "321229", "name": "PABEANILIR"}, {"id": "3212292003", "district_id": "321229", "name": "PAGIRIKAN"}, {"id": "3212292004", "district_id": "321229", "name": "PASEKAN"}, {"id": "3212292005", "district_id": "321229", "name": "KARANGANYAR"}, {"id": "3212292006", "district_id": "321229", "name": "TOTORAN"}]
+[
+  {
+    "id": "3212292001",
+    "district_id": "321229",
+    "name": "BRONDONG"
+  },
+  {
+    "id": "3212292002",
+    "district_id": "321229",
+    "name": "PABEANILIR"
+  },
+  {
+    "id": "3212292003",
+    "district_id": "321229",
+    "name": "PAGIRIKAN"
+  },
+  {
+    "id": "3212292004",
+    "district_id": "321229",
+    "name": "PASEKAN"
+  },
+  {
+    "id": "3212292005",
+    "district_id": "321229",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3212292006",
+    "district_id": "321229",
+    "name": "TOTORAN"
+  }
+]

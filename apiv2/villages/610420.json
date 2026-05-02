@@ -1,1 +1,32 @@
-[{"id": "6104202001", "district_id": "610420", "name": "SEMANDANG KANAN"}, {"id": "6104202002", "district_id": "610420", "name": "GEMA"}, {"id": "6104202003", "district_id": "610420", "name": "MEKAR RAYA"}, {"id": "6104202004", "district_id": "610420", "name": "KAMPAR SEBOMBAN"}, {"id": "6104202005", "district_id": "610420", "name": "BATU DAYA"}, {"id": "6104202006", "district_id": "610420", "name": "KAMORA"}]
+[
+  {
+    "id": "6104202001",
+    "district_id": "610420",
+    "name": "SEMANDANG KANAN"
+  },
+  {
+    "id": "6104202002",
+    "district_id": "610420",
+    "name": "GEMA"
+  },
+  {
+    "id": "6104202003",
+    "district_id": "610420",
+    "name": "MEKAR RAYA"
+  },
+  {
+    "id": "6104202004",
+    "district_id": "610420",
+    "name": "KAMPAR SEBOMBAN"
+  },
+  {
+    "id": "6104202005",
+    "district_id": "610420",
+    "name": "BATU DAYA"
+  },
+  {
+    "id": "6104202006",
+    "district_id": "610420",
+    "name": "KAMORA"
+  }
+]

@@ -1,1 +1,112 @@
-[{"id": "1102132001", "district_id": "110213", "name": "SALANG BARU"}, {"id": "1102132002", "district_id": "110213", "name": "RANTO DIOR"}, {"id": "1102132003", "district_id": "110213", "name": "LEMBAH ALAS"}, {"id": "1102132004", "district_id": "110213", "name": "TENEMBAK LANG-LANG"}, {"id": "1102132005", "district_id": "110213", "name": "SALANG SIGOTOM"}, {"id": "1102132006", "district_id": "110213", "name": "TUALANG LAMA"}, {"id": "1102132007", "district_id": "110213", "name": "GUSUNG BATU"}, {"id": "1102132008", "district_id": "110213", "name": "KAYA PANGUR"}, {"id": "1102132009", "district_id": "110213", "name": "SEPAKAT"}, {"id": "1102132010", "district_id": "110213", "name": "LAWE PANGKAT"}, {"id": "1102132011", "district_id": "110213", "name": "BUNGA MELUR"}, {"id": "1102132012", "district_id": "110213", "name": "PENAMPAAN"}, {"id": "1102132013", "district_id": "110213", "name": "TERUTUNG MBELANG"}, {"id": "1102132014", "district_id": "110213", "name": "SALANG MUARA"}, {"id": "1102132015", "district_id": "110213", "name": "LAWE HAKHUM"}, {"id": "1102132016", "district_id": "110213", "name": "TANOH KHUKAHEN"}, {"id": "1102132017", "district_id": "110213", "name": "TADING NI ULIHI"}, {"id": "1102132018", "district_id": "110213", "name": "PESELUK PESIMBE"}, {"id": "1102132019", "district_id": "110213", "name": "KANE LOT"}, {"id": "1102132020", "district_id": "110213", "name": "MUHAJIRIN"}, {"id": "1102132021", "district_id": "110213", "name": "BERIRING NARU"}, {"id": "1102132022", "district_id": "110213", "name": "KATI JEROH"}]
+[
+  {
+    "id": "1102132001",
+    "district_id": "110213",
+    "name": "SALANG BARU"
+  },
+  {
+    "id": "1102132002",
+    "district_id": "110213",
+    "name": "RANTO DIOR"
+  },
+  {
+    "id": "1102132003",
+    "district_id": "110213",
+    "name": "LEMBAH ALAS"
+  },
+  {
+    "id": "1102132004",
+    "district_id": "110213",
+    "name": "TENEMBAK LANG-LANG"
+  },
+  {
+    "id": "1102132005",
+    "district_id": "110213",
+    "name": "SALANG SIGOTOM"
+  },
+  {
+    "id": "1102132006",
+    "district_id": "110213",
+    "name": "TUALANG LAMA"
+  },
+  {
+    "id": "1102132007",
+    "district_id": "110213",
+    "name": "GUSUNG BATU"
+  },
+  {
+    "id": "1102132008",
+    "district_id": "110213",
+    "name": "KAYA PANGUR"
+  },
+  {
+    "id": "1102132009",
+    "district_id": "110213",
+    "name": "SEPAKAT"
+  },
+  {
+    "id": "1102132010",
+    "district_id": "110213",
+    "name": "LAWE PANGKAT"
+  },
+  {
+    "id": "1102132011",
+    "district_id": "110213",
+    "name": "BUNGA MELUR"
+  },
+  {
+    "id": "1102132012",
+    "district_id": "110213",
+    "name": "PENAMPAAN"
+  },
+  {
+    "id": "1102132013",
+    "district_id": "110213",
+    "name": "TERUTUNG MBELANG"
+  },
+  {
+    "id": "1102132014",
+    "district_id": "110213",
+    "name": "SALANG MUARA"
+  },
+  {
+    "id": "1102132015",
+    "district_id": "110213",
+    "name": "LAWE HAKHUM"
+  },
+  {
+    "id": "1102132016",
+    "district_id": "110213",
+    "name": "TANOH KHUKAHEN"
+  },
+  {
+    "id": "1102132017",
+    "district_id": "110213",
+    "name": "TADING NI ULIHI"
+  },
+  {
+    "id": "1102132018",
+    "district_id": "110213",
+    "name": "PESELUK PESIMBE"
+  },
+  {
+    "id": "1102132019",
+    "district_id": "110213",
+    "name": "KANE LOT"
+  },
+  {
+    "id": "1102132020",
+    "district_id": "110213",
+    "name": "MUHAJIRIN"
+  },
+  {
+    "id": "1102132021",
+    "district_id": "110213",
+    "name": "BERIRING NARU"
+  },
+  {
+    "id": "1102132022",
+    "district_id": "110213",
+    "name": "KATI JEROH"
+  }
+]

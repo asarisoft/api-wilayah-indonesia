@@ -1,1 +1,57 @@
-[{"id": "1707031005", "district_id": "170703", "name": "EMBONG PANJANG"}, {"id": "1707032006", "district_id": "170703", "name": "TANJUNG BUNGAI I"}, {"id": "1707032007", "district_id": "170703", "name": "SEMELAKO I"}, {"id": "1707032008", "district_id": "170703", "name": "PAGAR AGUNG"}, {"id": "1707032009", "district_id": "170703", "name": "KARANG ANYAR"}, {"id": "1707032013", "district_id": "170703", "name": "SEMELAKO II"}, {"id": "1707032014", "district_id": "170703", "name": "SEMELAKO III"}, {"id": "1707032015", "district_id": "170703", "name": "SEMELAKO ATAS"}, {"id": "1707032016", "district_id": "170703", "name": "DANAU LIANG"}, {"id": "1707032020", "district_id": "170703", "name": "SUKA DAMAI"}, {"id": "1707032023", "district_id": "170703", "name": "TANJUNG BUNGAI II"}]
+[
+  {
+    "id": "1707031005",
+    "district_id": "170703",
+    "name": "EMBONG PANJANG"
+  },
+  {
+    "id": "1707032006",
+    "district_id": "170703",
+    "name": "TANJUNG BUNGAI I"
+  },
+  {
+    "id": "1707032007",
+    "district_id": "170703",
+    "name": "SEMELAKO I"
+  },
+  {
+    "id": "1707032008",
+    "district_id": "170703",
+    "name": "PAGAR AGUNG"
+  },
+  {
+    "id": "1707032009",
+    "district_id": "170703",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1707032013",
+    "district_id": "170703",
+    "name": "SEMELAKO II"
+  },
+  {
+    "id": "1707032014",
+    "district_id": "170703",
+    "name": "SEMELAKO III"
+  },
+  {
+    "id": "1707032015",
+    "district_id": "170703",
+    "name": "SEMELAKO ATAS"
+  },
+  {
+    "id": "1707032016",
+    "district_id": "170703",
+    "name": "DANAU LIANG"
+  },
+  {
+    "id": "1707032020",
+    "district_id": "170703",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "1707032023",
+    "district_id": "170703",
+    "name": "TANJUNG BUNGAI II"
+  }
+]

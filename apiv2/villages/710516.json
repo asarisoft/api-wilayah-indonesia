@@ -1,1 +1,62 @@
-[{"id": "7105162001", "district_id": "710516", "name": "TUMANI"}, {"id": "7105162002", "district_id": "710516", "name": "LOWIAN"}, {"id": "7105162003", "district_id": "710516", "name": "KINAWERUAN"}, {"id": "7105162004", "district_id": "710516", "name": "LININGAAN"}, {"id": "7105162005", "district_id": "710516", "name": "BOJONEGORO"}, {"id": "7105162006", "district_id": "710516", "name": "TAMBELANG"}, {"id": "7105162007", "district_id": "710516", "name": "KINAMANG"}, {"id": "7105162008", "district_id": "710516", "name": "TEMBOAN"}, {"id": "7105162009", "district_id": "710516", "name": "KINAMANG SATU"}, {"id": "7105162010", "district_id": "710516", "name": "LOWIAN SATU"}, {"id": "7105162011", "district_id": "710516", "name": "TUMANI UTARA"}, {"id": "7105162012", "district_id": "710516", "name": "TUMANI SELATAN"}]
+[
+  {
+    "id": "7105162001",
+    "district_id": "710516",
+    "name": "TUMANI"
+  },
+  {
+    "id": "7105162002",
+    "district_id": "710516",
+    "name": "LOWIAN"
+  },
+  {
+    "id": "7105162003",
+    "district_id": "710516",
+    "name": "KINAWERUAN"
+  },
+  {
+    "id": "7105162004",
+    "district_id": "710516",
+    "name": "LININGAAN"
+  },
+  {
+    "id": "7105162005",
+    "district_id": "710516",
+    "name": "BOJONEGORO"
+  },
+  {
+    "id": "7105162006",
+    "district_id": "710516",
+    "name": "TAMBELANG"
+  },
+  {
+    "id": "7105162007",
+    "district_id": "710516",
+    "name": "KINAMANG"
+  },
+  {
+    "id": "7105162008",
+    "district_id": "710516",
+    "name": "TEMBOAN"
+  },
+  {
+    "id": "7105162009",
+    "district_id": "710516",
+    "name": "KINAMANG SATU"
+  },
+  {
+    "id": "7105162010",
+    "district_id": "710516",
+    "name": "LOWIAN SATU"
+  },
+  {
+    "id": "7105162011",
+    "district_id": "710516",
+    "name": "TUMANI UTARA"
+  },
+  {
+    "id": "7105162012",
+    "district_id": "710516",
+    "name": "TUMANI SELATAN"
+  }
+]

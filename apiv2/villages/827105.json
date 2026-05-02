@@ -1,1 +1,32 @@
-[{"id": "8271051001", "district_id": "827105", "name": "MAYAU"}, {"id": "8271051002", "district_id": "827105", "name": "TIFURE"}, {"id": "8271051003", "district_id": "827105", "name": "LELEWI"}, {"id": "8271051004", "district_id": "827105", "name": "BIDO"}, {"id": "8271051005", "district_id": "827105", "name": "PANTAI SAGU"}, {"id": "8271051006", "district_id": "827105", "name": "PERUM BERSATU"}]
+[
+  {
+    "id": "8271051001",
+    "district_id": "827105",
+    "name": "MAYAU"
+  },
+  {
+    "id": "8271051002",
+    "district_id": "827105",
+    "name": "TIFURE"
+  },
+  {
+    "id": "8271051003",
+    "district_id": "827105",
+    "name": "LELEWI"
+  },
+  {
+    "id": "8271051004",
+    "district_id": "827105",
+    "name": "BIDO"
+  },
+  {
+    "id": "8271051005",
+    "district_id": "827105",
+    "name": "PANTAI SAGU"
+  },
+  {
+    "id": "8271051006",
+    "district_id": "827105",
+    "name": "PERUM BERSATU"
+  }
+]

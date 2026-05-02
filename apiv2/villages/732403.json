@@ -1,1 +1,92 @@
-[{"id": "7324032001", "district_id": "732403", "name": "LOEHA"}, {"id": "7324032002", "district_id": "732403", "name": "MAHALONA"}, {"id": "7324032003", "district_id": "732403", "name": "TIMAMPU"}, {"id": "7324032004", "district_id": "732403", "name": "WAWONDULA"}, {"id": "7324032005", "district_id": "732403", "name": "LANGKEA RAYA"}, {"id": "7324032006", "district_id": "732403", "name": "TOKALIMBO"}, {"id": "7324032007", "district_id": "732403", "name": "BARUGA"}, {"id": "7324032008", "district_id": "732403", "name": "PEKALOA"}, {"id": "7324032009", "district_id": "732403", "name": "LIOKA"}, {"id": "7324032010", "district_id": "732403", "name": "ASULI"}, {"id": "7324032011", "district_id": "732403", "name": "BANTILANG"}, {"id": "7324032012", "district_id": "732403", "name": "MASIKU"}, {"id": "7324032013", "district_id": "732403", "name": "RANTE ANGIN"}, {"id": "7324032014", "district_id": "732403", "name": "MATOMPI"}, {"id": "7324032015", "district_id": "732403", "name": "TOLE"}, {"id": "7324032016", "district_id": "732403", "name": "LIBUKAN MANDIRI"}, {"id": "7324032017", "district_id": "732403", "name": "KALOSI"}, {"id": "7324032018", "district_id": "732403", "name": "BUANGIN"}]
+[
+  {
+    "id": "7324032001",
+    "district_id": "732403",
+    "name": "LOEHA"
+  },
+  {
+    "id": "7324032002",
+    "district_id": "732403",
+    "name": "MAHALONA"
+  },
+  {
+    "id": "7324032003",
+    "district_id": "732403",
+    "name": "TIMAMPU"
+  },
+  {
+    "id": "7324032004",
+    "district_id": "732403",
+    "name": "WAWONDULA"
+  },
+  {
+    "id": "7324032005",
+    "district_id": "732403",
+    "name": "LANGKEA RAYA"
+  },
+  {
+    "id": "7324032006",
+    "district_id": "732403",
+    "name": "TOKALIMBO"
+  },
+  {
+    "id": "7324032007",
+    "district_id": "732403",
+    "name": "BARUGA"
+  },
+  {
+    "id": "7324032008",
+    "district_id": "732403",
+    "name": "PEKALOA"
+  },
+  {
+    "id": "7324032009",
+    "district_id": "732403",
+    "name": "LIOKA"
+  },
+  {
+    "id": "7324032010",
+    "district_id": "732403",
+    "name": "ASULI"
+  },
+  {
+    "id": "7324032011",
+    "district_id": "732403",
+    "name": "BANTILANG"
+  },
+  {
+    "id": "7324032012",
+    "district_id": "732403",
+    "name": "MASIKU"
+  },
+  {
+    "id": "7324032013",
+    "district_id": "732403",
+    "name": "RANTE ANGIN"
+  },
+  {
+    "id": "7324032014",
+    "district_id": "732403",
+    "name": "MATOMPI"
+  },
+  {
+    "id": "7324032015",
+    "district_id": "732403",
+    "name": "TOLE"
+  },
+  {
+    "id": "7324032016",
+    "district_id": "732403",
+    "name": "LIBUKAN MANDIRI"
+  },
+  {
+    "id": "7324032017",
+    "district_id": "732403",
+    "name": "KALOSI"
+  },
+  {
+    "id": "7324032018",
+    "district_id": "732403",
+    "name": "BUANGIN"
+  }
+]

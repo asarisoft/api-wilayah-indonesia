@@ -1,1 +1,22 @@
-[{"id": "9508262001", "district_id": "950826", "name": "WUSI"}, {"id": "9508262002", "district_id": "950826", "name": "GINIGIT"}, {"id": "9508262003", "district_id": "950826", "name": "PIJEMAE"}, {"id": "9508262004", "district_id": "950826", "name": "GIMIGIP"}]
+[
+  {
+    "id": "9508262001",
+    "district_id": "950826",
+    "name": "WUSI"
+  },
+  {
+    "id": "9508262002",
+    "district_id": "950826",
+    "name": "GINIGIT"
+  },
+  {
+    "id": "9508262003",
+    "district_id": "950826",
+    "name": "PIJEMAE"
+  },
+  {
+    "id": "9508262004",
+    "district_id": "950826",
+    "name": "GIMIGIP"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "367101", "regency_id": "3671", "name": "TANGERANG"}, {"id": "367102", "regency_id": "3671", "name": "JATIUWUNG"}, {"id": "367103", "regency_id": "3671", "name": "BATUCEPER"}, {"id": "367104", "regency_id": "3671", "name": "BENDA"}, {"id": "367105", "regency_id": "3671", "name": "CIPONDOH"}, {"id": "367106", "regency_id": "3671", "name": "CILEDUG"}, {"id": "367107", "regency_id": "3671", "name": "KARAWACI"}, {"id": "367108", "regency_id": "3671", "name": "PERIUK"}, {"id": "367109", "regency_id": "3671", "name": "CIBODAS"}, {"id": "367110", "regency_id": "3671", "name": "NEGLASARI"}, {"id": "367111", "regency_id": "3671", "name": "PINANG"}, {"id": "367112", "regency_id": "3671", "name": "KARANG TENGAH"}, {"id": "367113", "regency_id": "3671", "name": "LARANGAN"}]
+[
+  {
+    "id": "367101",
+    "regency_id": "3671",
+    "name": "TANGERANG"
+  },
+  {
+    "id": "367102",
+    "regency_id": "3671",
+    "name": "JATIUWUNG"
+  },
+  {
+    "id": "367103",
+    "regency_id": "3671",
+    "name": "BATUCEPER"
+  },
+  {
+    "id": "367104",
+    "regency_id": "3671",
+    "name": "BENDA"
+  },
+  {
+    "id": "367105",
+    "regency_id": "3671",
+    "name": "CIPONDOH"
+  },
+  {
+    "id": "367106",
+    "regency_id": "3671",
+    "name": "CILEDUG"
+  },
+  {
+    "id": "367107",
+    "regency_id": "3671",
+    "name": "KARAWACI"
+  },
+  {
+    "id": "367108",
+    "regency_id": "3671",
+    "name": "PERIUK"
+  },
+  {
+    "id": "367109",
+    "regency_id": "3671",
+    "name": "CIBODAS"
+  },
+  {
+    "id": "367110",
+    "regency_id": "3671",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "367111",
+    "regency_id": "3671",
+    "name": "PINANG"
+  },
+  {
+    "id": "367112",
+    "regency_id": "3671",
+    "name": "KARANG TENGAH"
+  },
+  {
+    "id": "367113",
+    "regency_id": "3671",
+    "name": "LARANGAN"
+  }
+]

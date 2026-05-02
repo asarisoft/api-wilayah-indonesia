@@ -1,1 +1,77 @@
-[{"id": "1813022001", "district_id": "181302", "name": "NEGERI RATU TENUMBANG"}, {"id": "1813022002", "district_id": "181302", "name": "SUKARAME"}, {"id": "1813022003", "district_id": "181302", "name": "PELITA JAYA"}, {"id": "1813022004", "district_id": "181302", "name": "SUMUR JAYA"}, {"id": "1813022005", "district_id": "181302", "name": "TANJUNG JATI"}, {"id": "1813022006", "district_id": "181302", "name": "PAGAR DALAM"}, {"id": "1813022007", "district_id": "181302", "name": "TANJUNG SETIA"}, {"id": "1813022008", "district_id": "181302", "name": "BIHA"}, {"id": "1813022009", "district_id": "181302", "name": "WAY JAMBU"}, {"id": "1813022010", "district_id": "181302", "name": "MARANG"}, {"id": "1813022011", "district_id": "181302", "name": "TANJUNG RAYA"}, {"id": "1813022012", "district_id": "181302", "name": "BANGUN NEGARA"}, {"id": "1813022013", "district_id": "181302", "name": "ULOK MANIK"}, {"id": "1813022014", "district_id": "181302", "name": "PAKU NEGARA"}, {"id": "1813022015", "district_id": "181302", "name": "TULUNG BAMBAN"}]
+[
+  {
+    "id": "1813022001",
+    "district_id": "181302",
+    "name": "NEGERI RATU TENUMBANG"
+  },
+  {
+    "id": "1813022002",
+    "district_id": "181302",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "1813022003",
+    "district_id": "181302",
+    "name": "PELITA JAYA"
+  },
+  {
+    "id": "1813022004",
+    "district_id": "181302",
+    "name": "SUMUR JAYA"
+  },
+  {
+    "id": "1813022005",
+    "district_id": "181302",
+    "name": "TANJUNG JATI"
+  },
+  {
+    "id": "1813022006",
+    "district_id": "181302",
+    "name": "PAGAR DALAM"
+  },
+  {
+    "id": "1813022007",
+    "district_id": "181302",
+    "name": "TANJUNG SETIA"
+  },
+  {
+    "id": "1813022008",
+    "district_id": "181302",
+    "name": "BIHA"
+  },
+  {
+    "id": "1813022009",
+    "district_id": "181302",
+    "name": "WAY JAMBU"
+  },
+  {
+    "id": "1813022010",
+    "district_id": "181302",
+    "name": "MARANG"
+  },
+  {
+    "id": "1813022011",
+    "district_id": "181302",
+    "name": "TANJUNG RAYA"
+  },
+  {
+    "id": "1813022012",
+    "district_id": "181302",
+    "name": "BANGUN NEGARA"
+  },
+  {
+    "id": "1813022013",
+    "district_id": "181302",
+    "name": "ULOK MANIK"
+  },
+  {
+    "id": "1813022014",
+    "district_id": "181302",
+    "name": "PAKU NEGARA"
+  },
+  {
+    "id": "1813022015",
+    "district_id": "181302",
+    "name": "TULUNG BAMBAN"
+  }
+]

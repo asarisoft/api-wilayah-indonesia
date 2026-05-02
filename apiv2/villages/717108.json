@@ -1,1 +1,52 @@
-[{"id": "7171081001", "district_id": "717108", "name": "PANIKI BAWAH"}, {"id": "7171081002", "district_id": "717108", "name": "LAPANGAN"}, {"id": "7171081003", "district_id": "717108", "name": "MAPANGET BARAT"}, {"id": "7171081004", "district_id": "717108", "name": "KIMA ATAS"}, {"id": "7171081005", "district_id": "717108", "name": "BUHA"}, {"id": "7171081006", "district_id": "717108", "name": "BENGKOL"}, {"id": "7171081008", "district_id": "717108", "name": "KAIRAGI SATU"}, {"id": "7171081009", "district_id": "717108", "name": "KAIRAGI DUA"}, {"id": "7171081010", "district_id": "717108", "name": "PANIKI SATU"}, {"id": "7171081011", "district_id": "717108", "name": "PANIKI DUA"}]
+[
+  {
+    "id": "7171081001",
+    "district_id": "717108",
+    "name": "PANIKI BAWAH"
+  },
+  {
+    "id": "7171081002",
+    "district_id": "717108",
+    "name": "LAPANGAN"
+  },
+  {
+    "id": "7171081003",
+    "district_id": "717108",
+    "name": "MAPANGET BARAT"
+  },
+  {
+    "id": "7171081004",
+    "district_id": "717108",
+    "name": "KIMA ATAS"
+  },
+  {
+    "id": "7171081005",
+    "district_id": "717108",
+    "name": "BUHA"
+  },
+  {
+    "id": "7171081006",
+    "district_id": "717108",
+    "name": "BENGKOL"
+  },
+  {
+    "id": "7171081008",
+    "district_id": "717108",
+    "name": "KAIRAGI SATU"
+  },
+  {
+    "id": "7171081009",
+    "district_id": "717108",
+    "name": "KAIRAGI DUA"
+  },
+  {
+    "id": "7171081010",
+    "district_id": "717108",
+    "name": "PANIKI SATU"
+  },
+  {
+    "id": "7171081011",
+    "district_id": "717108",
+    "name": "PANIKI DUA"
+  }
+]

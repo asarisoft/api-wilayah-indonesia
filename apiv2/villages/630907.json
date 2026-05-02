@@ -1,1 +1,72 @@
-[{"id": "6309072001", "district_id": "630907", "name": "KUPANG NUNDING"}, {"id": "6309072002", "district_id": "630907", "name": "MANGKUPUM"}, {"id": "6309072003", "district_id": "630907", "name": "PASAR BATU"}, {"id": "6309072004", "district_id": "630907", "name": "UWIE"}, {"id": "6309072005", "district_id": "630907", "name": "MUARA UYA"}, {"id": "6309072006", "district_id": "630907", "name": "LUMBANG"}, {"id": "6309072007", "district_id": "630907", "name": "SANTUUN"}, {"id": "6309072008", "district_id": "630907", "name": "SIMPUNG LAYUNG"}, {"id": "6309072009", "district_id": "630907", "name": "BINJAI"}, {"id": "6309072010", "district_id": "630907", "name": "PALAPI"}, {"id": "6309072011", "district_id": "630907", "name": "KAMPUNG BARU"}, {"id": "6309072012", "district_id": "630907", "name": "SALIKUNG"}, {"id": "6309072013", "district_id": "630907", "name": "RIBANG"}, {"id": "6309072014", "district_id": "630907", "name": "SUNGAI KUMAP"}]
+[
+  {
+    "id": "6309072001",
+    "district_id": "630907",
+    "name": "KUPANG NUNDING"
+  },
+  {
+    "id": "6309072002",
+    "district_id": "630907",
+    "name": "MANGKUPUM"
+  },
+  {
+    "id": "6309072003",
+    "district_id": "630907",
+    "name": "PASAR BATU"
+  },
+  {
+    "id": "6309072004",
+    "district_id": "630907",
+    "name": "UWIE"
+  },
+  {
+    "id": "6309072005",
+    "district_id": "630907",
+    "name": "MUARA UYA"
+  },
+  {
+    "id": "6309072006",
+    "district_id": "630907",
+    "name": "LUMBANG"
+  },
+  {
+    "id": "6309072007",
+    "district_id": "630907",
+    "name": "SANTUUN"
+  },
+  {
+    "id": "6309072008",
+    "district_id": "630907",
+    "name": "SIMPUNG LAYUNG"
+  },
+  {
+    "id": "6309072009",
+    "district_id": "630907",
+    "name": "BINJAI"
+  },
+  {
+    "id": "6309072010",
+    "district_id": "630907",
+    "name": "PALAPI"
+  },
+  {
+    "id": "6309072011",
+    "district_id": "630907",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "6309072012",
+    "district_id": "630907",
+    "name": "SALIKUNG"
+  },
+  {
+    "id": "6309072013",
+    "district_id": "630907",
+    "name": "RIBANG"
+  },
+  {
+    "id": "6309072014",
+    "district_id": "630907",
+    "name": "SUNGAI KUMAP"
+  }
+]

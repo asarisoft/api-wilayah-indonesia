@@ -1,1 +1,37 @@
-[{"id": "9211032001", "district_id": "921103", "name": "WAMA"}, {"id": "9211032002", "district_id": "921103", "name": "DISI"}, {"id": "9211032003", "district_id": "921103", "name": "HIYOU"}, {"id": "9211032004", "district_id": "921103", "name": "SESUM"}, {"id": "9211032005", "district_id": "921103", "name": "BENYAS"}, {"id": "9211032006", "district_id": "921103", "name": "ARYAWENMOHO"}, {"id": "9211032007", "district_id": "921103", "name": "NENEY"}]
+[
+  {
+    "id": "9211032001",
+    "district_id": "921103",
+    "name": "WAMA"
+  },
+  {
+    "id": "9211032002",
+    "district_id": "921103",
+    "name": "DISI"
+  },
+  {
+    "id": "9211032003",
+    "district_id": "921103",
+    "name": "HIYOU"
+  },
+  {
+    "id": "9211032004",
+    "district_id": "921103",
+    "name": "SESUM"
+  },
+  {
+    "id": "9211032005",
+    "district_id": "921103",
+    "name": "BENYAS"
+  },
+  {
+    "id": "9211032006",
+    "district_id": "921103",
+    "name": "ARYAWENMOHO"
+  },
+  {
+    "id": "9211032007",
+    "district_id": "921103",
+    "name": "NENEY"
+  }
+]

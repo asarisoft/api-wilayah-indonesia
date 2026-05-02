@@ -1,1 +1,72 @@
-[{"id": "8207032001", "district_id": "820703", "name": "PANGEO"}, {"id": "8207032002", "district_id": "820703", "name": "SOPI"}, {"id": "8207032003", "district_id": "820703", "name": "BERE BERE KECIL"}, {"id": "8207032004", "district_id": "820703", "name": "TITIGOGOLI"}, {"id": "8207032005", "district_id": "820703", "name": "HAPO"}, {"id": "8207032006", "district_id": "820703", "name": "LIBANO"}, {"id": "8207032007", "district_id": "820703", "name": "ARU"}, {"id": "8207032008", "district_id": "820703", "name": "TOWARA"}, {"id": "8207032009", "district_id": "820703", "name": "CENDANA"}, {"id": "8207032010", "district_id": "820703", "name": "PODIMOR PADANGE"}, {"id": "8207032011", "district_id": "820703", "name": "SOPI MAJIKO"}, {"id": "8207032012", "district_id": "820703", "name": "GORUGO"}, {"id": "8207032013", "district_id": "820703", "name": "LOLEO"}, {"id": "8207032014", "district_id": "820703", "name": "CEMPAKA"}]
+[
+  {
+    "id": "8207032001",
+    "district_id": "820703",
+    "name": "PANGEO"
+  },
+  {
+    "id": "8207032002",
+    "district_id": "820703",
+    "name": "SOPI"
+  },
+  {
+    "id": "8207032003",
+    "district_id": "820703",
+    "name": "BERE BERE KECIL"
+  },
+  {
+    "id": "8207032004",
+    "district_id": "820703",
+    "name": "TITIGOGOLI"
+  },
+  {
+    "id": "8207032005",
+    "district_id": "820703",
+    "name": "HAPO"
+  },
+  {
+    "id": "8207032006",
+    "district_id": "820703",
+    "name": "LIBANO"
+  },
+  {
+    "id": "8207032007",
+    "district_id": "820703",
+    "name": "ARU"
+  },
+  {
+    "id": "8207032008",
+    "district_id": "820703",
+    "name": "TOWARA"
+  },
+  {
+    "id": "8207032009",
+    "district_id": "820703",
+    "name": "CENDANA"
+  },
+  {
+    "id": "8207032010",
+    "district_id": "820703",
+    "name": "PODIMOR PADANGE"
+  },
+  {
+    "id": "8207032011",
+    "district_id": "820703",
+    "name": "SOPI MAJIKO"
+  },
+  {
+    "id": "8207032012",
+    "district_id": "820703",
+    "name": "GORUGO"
+  },
+  {
+    "id": "8207032013",
+    "district_id": "820703",
+    "name": "LOLEO"
+  },
+  {
+    "id": "8207032014",
+    "district_id": "820703",
+    "name": "CEMPAKA"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "197101", "regency_id": "1971", "name": "BUKIT INTAN"}, {"id": "197102", "regency_id": "1971", "name": "TAMAN SARI"}, {"id": "197103", "regency_id": "1971", "name": "PANGKAL BALAM"}, {"id": "197104", "regency_id": "1971", "name": "RANGKUI"}, {"id": "197105", "regency_id": "1971", "name": "GERUNGGANG"}, {"id": "197106", "regency_id": "1971", "name": "GABEK"}, {"id": "197107", "regency_id": "1971", "name": "GIRIMAYA"}]
+[
+  {
+    "id": "197101",
+    "regency_id": "1971",
+    "name": "BUKIT INTAN"
+  },
+  {
+    "id": "197102",
+    "regency_id": "1971",
+    "name": "TAMAN SARI"
+  },
+  {
+    "id": "197103",
+    "regency_id": "1971",
+    "name": "PANGKAL BALAM"
+  },
+  {
+    "id": "197104",
+    "regency_id": "1971",
+    "name": "RANGKUI"
+  },
+  {
+    "id": "197105",
+    "regency_id": "1971",
+    "name": "GERUNGGANG"
+  },
+  {
+    "id": "197106",
+    "regency_id": "1971",
+    "name": "GABEK"
+  },
+  {
+    "id": "197107",
+    "regency_id": "1971",
+    "name": "GIRIMAYA"
+  }
+]

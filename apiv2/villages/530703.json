@@ -1,1 +1,47 @@
-[{"id": "5307032001", "district_id": "530703", "name": "LELA"}, {"id": "5307032002", "district_id": "530703", "name": "WATUTEDANG"}, {"id": "5307032003", "district_id": "530703", "name": "KOROWUWU"}, {"id": "5307032004", "district_id": "530703", "name": "KOLIDETUNG"}, {"id": "5307032005", "district_id": "530703", "name": "SIKKA"}, {"id": "5307032006", "district_id": "530703", "name": "ILIGAI"}, {"id": "5307032007", "district_id": "530703", "name": "HEPANG"}, {"id": "5307032008", "district_id": "530703", "name": "BAOPAAT"}, {"id": "5307032009", "district_id": "530703", "name": "DU"}]
+[
+  {
+    "id": "5307032001",
+    "district_id": "530703",
+    "name": "LELA"
+  },
+  {
+    "id": "5307032002",
+    "district_id": "530703",
+    "name": "WATUTEDANG"
+  },
+  {
+    "id": "5307032003",
+    "district_id": "530703",
+    "name": "KOROWUWU"
+  },
+  {
+    "id": "5307032004",
+    "district_id": "530703",
+    "name": "KOLIDETUNG"
+  },
+  {
+    "id": "5307032005",
+    "district_id": "530703",
+    "name": "SIKKA"
+  },
+  {
+    "id": "5307032006",
+    "district_id": "530703",
+    "name": "ILIGAI"
+  },
+  {
+    "id": "5307032007",
+    "district_id": "530703",
+    "name": "HEPANG"
+  },
+  {
+    "id": "5307032008",
+    "district_id": "530703",
+    "name": "BAOPAAT"
+  },
+  {
+    "id": "5307032009",
+    "district_id": "530703",
+    "name": "DU"
+  }
+]

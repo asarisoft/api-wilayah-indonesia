@@ -1,1 +1,42 @@
-[{"id": "1807232001", "district_id": "180723", "name": "TAMBAH SUBUR"}, {"id": "1807232002", "district_id": "180723", "name": "TANJUNG QENCONO"}, {"id": "1807232003", "district_id": "180723", "name": "TANJUNG TIRTO"}, {"id": "1807232004", "district_id": "180723", "name": "TOTO MULYO"}, {"id": "1807232005", "district_id": "180723", "name": "TOTO PROJO"}, {"id": "1807232006", "district_id": "180723", "name": "TAMAN NEGERI"}, {"id": "1807232007", "district_id": "180723", "name": "TEGAL OMBO"}, {"id": "1807232008", "district_id": "180723", "name": "KALI PASIR"}]
+[
+  {
+    "id": "1807232001",
+    "district_id": "180723",
+    "name": "TAMBAH SUBUR"
+  },
+  {
+    "id": "1807232002",
+    "district_id": "180723",
+    "name": "TANJUNG QENCONO"
+  },
+  {
+    "id": "1807232003",
+    "district_id": "180723",
+    "name": "TANJUNG TIRTO"
+  },
+  {
+    "id": "1807232004",
+    "district_id": "180723",
+    "name": "TOTO MULYO"
+  },
+  {
+    "id": "1807232005",
+    "district_id": "180723",
+    "name": "TOTO PROJO"
+  },
+  {
+    "id": "1807232006",
+    "district_id": "180723",
+    "name": "TAMAN NEGERI"
+  },
+  {
+    "id": "1807232007",
+    "district_id": "180723",
+    "name": "TEGAL OMBO"
+  },
+  {
+    "id": "1807232008",
+    "district_id": "180723",
+    "name": "KALI PASIR"
+  }
+]

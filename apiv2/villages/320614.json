@@ -1,1 +1,62 @@
-[{"id": "3206142001", "district_id": "320614", "name": "JAHIANG"}, {"id": "3206142002", "district_id": "320614", "name": "SERANG"}, {"id": "3206142003", "district_id": "320614", "name": "SALAWU"}, {"id": "3206142004", "district_id": "320614", "name": "NEGLASARI"}, {"id": "3206142005", "district_id": "320614", "name": "TANJUNGSARI"}, {"id": "3206142006", "district_id": "320614", "name": "TENJOWARINGIN"}, {"id": "3206142007", "district_id": "320614", "name": "SUNDAWENANG"}, {"id": "3206142008", "district_id": "320614", "name": "KAWUNGSARI"}, {"id": "3206142009", "district_id": "320614", "name": "SUKARASA"}, {"id": "3206142010", "district_id": "320614", "name": "KUTAWARINGIN"}, {"id": "3206142011", "district_id": "320614", "name": "KARANGMUKTI"}, {"id": "3206142012", "district_id": "320614", "name": "MARGALAKSANA"}]
+[
+  {
+    "id": "3206142001",
+    "district_id": "320614",
+    "name": "JAHIANG"
+  },
+  {
+    "id": "3206142002",
+    "district_id": "320614",
+    "name": "SERANG"
+  },
+  {
+    "id": "3206142003",
+    "district_id": "320614",
+    "name": "SALAWU"
+  },
+  {
+    "id": "3206142004",
+    "district_id": "320614",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3206142005",
+    "district_id": "320614",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3206142006",
+    "district_id": "320614",
+    "name": "TENJOWARINGIN"
+  },
+  {
+    "id": "3206142007",
+    "district_id": "320614",
+    "name": "SUNDAWENANG"
+  },
+  {
+    "id": "3206142008",
+    "district_id": "320614",
+    "name": "KAWUNGSARI"
+  },
+  {
+    "id": "3206142009",
+    "district_id": "320614",
+    "name": "SUKARASA"
+  },
+  {
+    "id": "3206142010",
+    "district_id": "320614",
+    "name": "KUTAWARINGIN"
+  },
+  {
+    "id": "3206142011",
+    "district_id": "320614",
+    "name": "KARANGMUKTI"
+  },
+  {
+    "id": "3206142012",
+    "district_id": "320614",
+    "name": "MARGALAKSANA"
+  }
+]

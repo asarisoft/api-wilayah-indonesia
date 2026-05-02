@@ -1,1 +1,42 @@
-[{"id": "3213052001", "district_id": "321305", "name": "CIHAMBULU"}, {"id": "3213052002", "district_id": "321305", "name": "SILUMAN"}, {"id": "3213052003", "district_id": "321305", "name": "PRINGKASAP"}, {"id": "3213052004", "district_id": "321305", "name": "PABUARAN"}, {"id": "3213052005", "district_id": "321305", "name": "KARANGHEGAR"}, {"id": "3213052006", "district_id": "321305", "name": "SALAMJAYA"}, {"id": "3213052007", "district_id": "321305", "name": "KADAWUNG"}, {"id": "3213052008", "district_id": "321305", "name": "BALEBANDUNG JAYA"}]
+[
+  {
+    "id": "3213052001",
+    "district_id": "321305",
+    "name": "CIHAMBULU"
+  },
+  {
+    "id": "3213052002",
+    "district_id": "321305",
+    "name": "SILUMAN"
+  },
+  {
+    "id": "3213052003",
+    "district_id": "321305",
+    "name": "PRINGKASAP"
+  },
+  {
+    "id": "3213052004",
+    "district_id": "321305",
+    "name": "PABUARAN"
+  },
+  {
+    "id": "3213052005",
+    "district_id": "321305",
+    "name": "KARANGHEGAR"
+  },
+  {
+    "id": "3213052006",
+    "district_id": "321305",
+    "name": "SALAMJAYA"
+  },
+  {
+    "id": "3213052007",
+    "district_id": "321305",
+    "name": "KADAWUNG"
+  },
+  {
+    "id": "3213052008",
+    "district_id": "321305",
+    "name": "BALEBANDUNG JAYA"
+  }
+]

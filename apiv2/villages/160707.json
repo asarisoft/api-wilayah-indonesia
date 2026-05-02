@@ -1,1 +1,77 @@
-[{"id": "1607072001", "district_id": "160707", "name": "MUARA PADANG"}, {"id": "1607072002", "district_id": "160707", "name": "TANJUNG BARU"}, {"id": "1607072003", "district_id": "160707", "name": "KARANG ANYAR"}, {"id": "1607072006", "district_id": "160707", "name": "PURWODADI"}, {"id": "1607072007", "district_id": "160707", "name": "SUMBER MAKMUR"}, {"id": "1607072008", "district_id": "160707", "name": "AIR GADING"}, {"id": "1607072009", "district_id": "160707", "name": "TIRTO RAHARJO"}, {"id": "1607072010", "district_id": "160707", "name": "DAYA UTAMA"}, {"id": "1607072011", "district_id": "160707", "name": "DAYA MAKMUR"}, {"id": "1607072012", "district_id": "160707", "name": "SIDO MULYO 18"}, {"id": "1607072013", "district_id": "160707", "name": "SIDO REJO"}, {"id": "1607072018", "district_id": "160707", "name": "SIDO MULYO 20"}, {"id": "1607072037", "district_id": "160707", "name": "MARGO MULYO 20"}, {"id": "1607072038", "district_id": "160707", "name": "MARGO SUGIHAN"}, {"id": "1607072042", "district_id": "160707", "name": "TIRTA JAYA"}]
+[
+  {
+    "id": "1607072001",
+    "district_id": "160707",
+    "name": "MUARA PADANG"
+  },
+  {
+    "id": "1607072002",
+    "district_id": "160707",
+    "name": "TANJUNG BARU"
+  },
+  {
+    "id": "1607072003",
+    "district_id": "160707",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1607072006",
+    "district_id": "160707",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "1607072007",
+    "district_id": "160707",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "1607072008",
+    "district_id": "160707",
+    "name": "AIR GADING"
+  },
+  {
+    "id": "1607072009",
+    "district_id": "160707",
+    "name": "TIRTO RAHARJO"
+  },
+  {
+    "id": "1607072010",
+    "district_id": "160707",
+    "name": "DAYA UTAMA"
+  },
+  {
+    "id": "1607072011",
+    "district_id": "160707",
+    "name": "DAYA MAKMUR"
+  },
+  {
+    "id": "1607072012",
+    "district_id": "160707",
+    "name": "SIDO MULYO 18"
+  },
+  {
+    "id": "1607072013",
+    "district_id": "160707",
+    "name": "SIDO REJO"
+  },
+  {
+    "id": "1607072018",
+    "district_id": "160707",
+    "name": "SIDO MULYO 20"
+  },
+  {
+    "id": "1607072037",
+    "district_id": "160707",
+    "name": "MARGO MULYO 20"
+  },
+  {
+    "id": "1607072038",
+    "district_id": "160707",
+    "name": "MARGO SUGIHAN"
+  },
+  {
+    "id": "1607072042",
+    "district_id": "160707",
+    "name": "TIRTA JAYA"
+  }
+]

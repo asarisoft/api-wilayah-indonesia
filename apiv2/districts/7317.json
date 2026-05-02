@@ -1,1 +1,112 @@
-[{"id": "731701", "regency_id": "7317", "name": "BASSE SANGTEMPE"}, {"id": "731702", "regency_id": "7317", "name": "LAROMPONG"}, {"id": "731703", "regency_id": "7317", "name": "SULI"}, {"id": "731704", "regency_id": "7317", "name": "BAJO"}, {"id": "731705", "regency_id": "7317", "name": "BUA PONRANG"}, {"id": "731706", "regency_id": "7317", "name": "WALENRANG"}, {"id": "731707", "regency_id": "7317", "name": "BELOPA"}, {"id": "731708", "regency_id": "7317", "name": "BUA"}, {"id": "731709", "regency_id": "7317", "name": "LAMASI"}, {"id": "731710", "regency_id": "7317", "name": "LAROMPONG SELATAN"}, {"id": "731711", "regency_id": "7317", "name": "PONRANG"}, {"id": "731712", "regency_id": "7317", "name": "LATIMOJONG"}, {"id": "731713", "regency_id": "7317", "name": "KAMANRE"}, {"id": "731714", "regency_id": "7317", "name": "BELOPA UTARA"}, {"id": "731715", "regency_id": "7317", "name": "WALENRANG BARAT"}, {"id": "731716", "regency_id": "7317", "name": "WALENRANG UTARA"}, {"id": "731717", "regency_id": "7317", "name": "WALENRANG TIMUR"}, {"id": "731718", "regency_id": "7317", "name": "LAMASI TIMUR"}, {"id": "731719", "regency_id": "7317", "name": "SULI BARAT"}, {"id": "731720", "regency_id": "7317", "name": "BAJO BARAT"}, {"id": "731721", "regency_id": "7317", "name": "PONRANG SELATAN"}, {"id": "731722", "regency_id": "7317", "name": "BASSE SANGTEMPE UTARA"}]
+[
+  {
+    "id": "731701",
+    "regency_id": "7317",
+    "name": "BASSE SANGTEMPE"
+  },
+  {
+    "id": "731702",
+    "regency_id": "7317",
+    "name": "LAROMPONG"
+  },
+  {
+    "id": "731703",
+    "regency_id": "7317",
+    "name": "SULI"
+  },
+  {
+    "id": "731704",
+    "regency_id": "7317",
+    "name": "BAJO"
+  },
+  {
+    "id": "731705",
+    "regency_id": "7317",
+    "name": "BUA PONRANG"
+  },
+  {
+    "id": "731706",
+    "regency_id": "7317",
+    "name": "WALENRANG"
+  },
+  {
+    "id": "731707",
+    "regency_id": "7317",
+    "name": "BELOPA"
+  },
+  {
+    "id": "731708",
+    "regency_id": "7317",
+    "name": "BUA"
+  },
+  {
+    "id": "731709",
+    "regency_id": "7317",
+    "name": "LAMASI"
+  },
+  {
+    "id": "731710",
+    "regency_id": "7317",
+    "name": "LAROMPONG SELATAN"
+  },
+  {
+    "id": "731711",
+    "regency_id": "7317",
+    "name": "PONRANG"
+  },
+  {
+    "id": "731712",
+    "regency_id": "7317",
+    "name": "LATIMOJONG"
+  },
+  {
+    "id": "731713",
+    "regency_id": "7317",
+    "name": "KAMANRE"
+  },
+  {
+    "id": "731714",
+    "regency_id": "7317",
+    "name": "BELOPA UTARA"
+  },
+  {
+    "id": "731715",
+    "regency_id": "7317",
+    "name": "WALENRANG BARAT"
+  },
+  {
+    "id": "731716",
+    "regency_id": "7317",
+    "name": "WALENRANG UTARA"
+  },
+  {
+    "id": "731717",
+    "regency_id": "7317",
+    "name": "WALENRANG TIMUR"
+  },
+  {
+    "id": "731718",
+    "regency_id": "7317",
+    "name": "LAMASI TIMUR"
+  },
+  {
+    "id": "731719",
+    "regency_id": "7317",
+    "name": "SULI BARAT"
+  },
+  {
+    "id": "731720",
+    "regency_id": "7317",
+    "name": "BAJO BARAT"
+  },
+  {
+    "id": "731721",
+    "regency_id": "7317",
+    "name": "PONRANG SELATAN"
+  },
+  {
+    "id": "731722",
+    "regency_id": "7317",
+    "name": "BASSE SANGTEMPE UTARA"
+  }
+]

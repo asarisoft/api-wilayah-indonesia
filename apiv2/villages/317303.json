@@ -1,1 +1,42 @@
-[{"id": "3173031001", "district_id": "317303", "name": "TAMAN SARI"}, {"id": "3173031002", "district_id": "317303", "name": "KRUKUT"}, {"id": "3173031003", "district_id": "317303", "name": "MAPHAR"}, {"id": "3173031004", "district_id": "317303", "name": "TANGKI"}, {"id": "3173031005", "district_id": "317303", "name": "MANGGA BESAR"}, {"id": "3173031006", "district_id": "317303", "name": "KEAGUNGAN"}, {"id": "3173031007", "district_id": "317303", "name": "GLODOK"}, {"id": "3173031008", "district_id": "317303", "name": "PINANGSIA"}]
+[
+  {
+    "id": "3173031001",
+    "district_id": "317303",
+    "name": "TAMAN SARI"
+  },
+  {
+    "id": "3173031002",
+    "district_id": "317303",
+    "name": "KRUKUT"
+  },
+  {
+    "id": "3173031003",
+    "district_id": "317303",
+    "name": "MAPHAR"
+  },
+  {
+    "id": "3173031004",
+    "district_id": "317303",
+    "name": "TANGKI"
+  },
+  {
+    "id": "3173031005",
+    "district_id": "317303",
+    "name": "MANGGA BESAR"
+  },
+  {
+    "id": "3173031006",
+    "district_id": "317303",
+    "name": "KEAGUNGAN"
+  },
+  {
+    "id": "3173031007",
+    "district_id": "317303",
+    "name": "GLODOK"
+  },
+  {
+    "id": "3173031008",
+    "district_id": "317303",
+    "name": "PINANGSIA"
+  }
+]

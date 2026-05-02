@@ -1,1 +1,52 @@
-[{"id": "3209032001", "district_id": "320903", "name": "ASTANALANGGAR"}, {"id": "3209032002", "district_id": "320903", "name": "BARISAN"}, {"id": "3209032003", "district_id": "320903", "name": "LOSARI KIDUL"}, {"id": "3209032004", "district_id": "320903", "name": "PANGGANGSARI"}, {"id": "3209032005", "district_id": "320903", "name": "LOSARI LOR"}, {"id": "3209032006", "district_id": "320903", "name": "MULYASARI"}, {"id": "3209032007", "district_id": "320903", "name": "KALIRAHAYU"}, {"id": "3209032008", "district_id": "320903", "name": "KALISARI"}, {"id": "3209032009", "district_id": "320903", "name": "AMBULU"}, {"id": "3209032010", "district_id": "320903", "name": "TAWANGSARI"}]
+[
+  {
+    "id": "3209032001",
+    "district_id": "320903",
+    "name": "ASTANALANGGAR"
+  },
+  {
+    "id": "3209032002",
+    "district_id": "320903",
+    "name": "BARISAN"
+  },
+  {
+    "id": "3209032003",
+    "district_id": "320903",
+    "name": "LOSARI KIDUL"
+  },
+  {
+    "id": "3209032004",
+    "district_id": "320903",
+    "name": "PANGGANGSARI"
+  },
+  {
+    "id": "3209032005",
+    "district_id": "320903",
+    "name": "LOSARI LOR"
+  },
+  {
+    "id": "3209032006",
+    "district_id": "320903",
+    "name": "MULYASARI"
+  },
+  {
+    "id": "3209032007",
+    "district_id": "320903",
+    "name": "KALIRAHAYU"
+  },
+  {
+    "id": "3209032008",
+    "district_id": "320903",
+    "name": "KALISARI"
+  },
+  {
+    "id": "3209032009",
+    "district_id": "320903",
+    "name": "AMBULU"
+  },
+  {
+    "id": "3209032010",
+    "district_id": "320903",
+    "name": "TAWANGSARI"
+  }
+]

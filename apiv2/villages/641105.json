@@ -1,1 +1,67 @@
-[{"id": "6411052001", "district_id": "641105", "name": "DELANG KEROHONG"}, {"id": "6411052002", "district_id": "641105", "name": "LONG PAKAQ"}, {"id": "6411052003", "district_id": "641105", "name": "LONG LUNUK"}, {"id": "6411052004", "district_id": "641105", "name": "LONG ISUN"}, {"id": "6411052005", "district_id": "641105", "name": "NAHA ARU"}, {"id": "6411052006", "district_id": "641105", "name": "DATAH NAHA"}, {"id": "6411052007", "district_id": "641105", "name": "LIRUNG UBING"}, {"id": "6411052008", "district_id": "641105", "name": "LONG PAHANGAI I"}, {"id": "6411052009", "district_id": "641105", "name": "LONG PAHANGAI II"}, {"id": "6411052010", "district_id": "641105", "name": "LONG TUYOQ"}, {"id": "6411052011", "district_id": "641105", "name": "LIU MULANG"}, {"id": "6411052012", "district_id": "641105", "name": "LONG PAKAQ BARU"}, {"id": "6411052013", "district_id": "641105", "name": "LONG LUNUK BARU"}]
+[
+  {
+    "id": "6411052001",
+    "district_id": "641105",
+    "name": "DELANG KEROHONG"
+  },
+  {
+    "id": "6411052002",
+    "district_id": "641105",
+    "name": "LONG PAKAQ"
+  },
+  {
+    "id": "6411052003",
+    "district_id": "641105",
+    "name": "LONG LUNUK"
+  },
+  {
+    "id": "6411052004",
+    "district_id": "641105",
+    "name": "LONG ISUN"
+  },
+  {
+    "id": "6411052005",
+    "district_id": "641105",
+    "name": "NAHA ARU"
+  },
+  {
+    "id": "6411052006",
+    "district_id": "641105",
+    "name": "DATAH NAHA"
+  },
+  {
+    "id": "6411052007",
+    "district_id": "641105",
+    "name": "LIRUNG UBING"
+  },
+  {
+    "id": "6411052008",
+    "district_id": "641105",
+    "name": "LONG PAHANGAI I"
+  },
+  {
+    "id": "6411052009",
+    "district_id": "641105",
+    "name": "LONG PAHANGAI II"
+  },
+  {
+    "id": "6411052010",
+    "district_id": "641105",
+    "name": "LONG TUYOQ"
+  },
+  {
+    "id": "6411052011",
+    "district_id": "641105",
+    "name": "LIU MULANG"
+  },
+  {
+    "id": "6411052012",
+    "district_id": "641105",
+    "name": "LONG PAKAQ BARU"
+  },
+  {
+    "id": "6411052013",
+    "district_id": "641105",
+    "name": "LONG LUNUK BARU"
+  }
+]

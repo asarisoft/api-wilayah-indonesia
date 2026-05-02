@@ -1,1 +1,47 @@
-[{"id": "5303051001", "district_id": "530305", "name": "KEFAMENANU UTARA"}, {"id": "5303051002", "district_id": "530305", "name": "APLASI"}, {"id": "5303051003", "district_id": "530305", "name": "KEFAMENANU TENGAH"}, {"id": "5303051004", "district_id": "530305", "name": "BANSONE"}, {"id": "5303051005", "district_id": "530305", "name": "BENPASI"}, {"id": "5303051006", "district_id": "530305", "name": "KEFAMENANU SELATAN"}, {"id": "5303051007", "district_id": "530305", "name": "TUBUHUE"}, {"id": "5303051008", "district_id": "530305", "name": "MAUBELI"}, {"id": "5303051009", "district_id": "530305", "name": "SASI"}]
+[
+  {
+    "id": "5303051001",
+    "district_id": "530305",
+    "name": "KEFAMENANU UTARA"
+  },
+  {
+    "id": "5303051002",
+    "district_id": "530305",
+    "name": "APLASI"
+  },
+  {
+    "id": "5303051003",
+    "district_id": "530305",
+    "name": "KEFAMENANU TENGAH"
+  },
+  {
+    "id": "5303051004",
+    "district_id": "530305",
+    "name": "BANSONE"
+  },
+  {
+    "id": "5303051005",
+    "district_id": "530305",
+    "name": "BENPASI"
+  },
+  {
+    "id": "5303051006",
+    "district_id": "530305",
+    "name": "KEFAMENANU SELATAN"
+  },
+  {
+    "id": "5303051007",
+    "district_id": "530305",
+    "name": "TUBUHUE"
+  },
+  {
+    "id": "5303051008",
+    "district_id": "530305",
+    "name": "MAUBELI"
+  },
+  {
+    "id": "5303051009",
+    "district_id": "530305",
+    "name": "SASI"
+  }
+]

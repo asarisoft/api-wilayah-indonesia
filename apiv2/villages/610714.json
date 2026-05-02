@@ -1,1 +1,22 @@
-[{"id": "6107142001", "district_id": "610714", "name": "CIPTA KARYA"}, {"id": "6107142002", "district_id": "610714", "name": "SUKA BANGUN"}, {"id": "6107142003", "district_id": "610714", "name": "KARYA BHAKTI"}, {"id": "6107142004", "district_id": "610714", "name": "SUKA MAJU"}]
+[
+  {
+    "id": "6107142001",
+    "district_id": "610714",
+    "name": "CIPTA KARYA"
+  },
+  {
+    "id": "6107142002",
+    "district_id": "610714",
+    "name": "SUKA BANGUN"
+  },
+  {
+    "id": "6107142003",
+    "district_id": "610714",
+    "name": "KARYA BHAKTI"
+  },
+  {
+    "id": "6107142004",
+    "district_id": "610714",
+    "name": "SUKA MAJU"
+  }
+]

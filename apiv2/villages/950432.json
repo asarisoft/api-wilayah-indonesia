@@ -1,1 +1,57 @@
-[{"id": "9504322001", "district_id": "950432", "name": "YUNERI"}, {"id": "9504322002", "district_id": "950432", "name": "YIDO"}, {"id": "9504322003", "district_id": "950432", "name": "OMIBUR"}, {"id": "9504322004", "district_id": "950432", "name": "TENABAGA"}, {"id": "9504322005", "district_id": "950432", "name": "WONABUNGGAME"}, {"id": "9504322006", "district_id": "950432", "name": "GEMBILEME"}, {"id": "9504322007", "district_id": "950432", "name": "WENOME"}, {"id": "9504322008", "district_id": "950432", "name": "MOPI"}, {"id": "9504322009", "district_id": "950432", "name": "KANGGILO"}, {"id": "9504322010", "district_id": "950432", "name": "YUDIMBA"}, {"id": "9504322011", "district_id": "950432", "name": "UMAR"}]
+[
+  {
+    "id": "9504322001",
+    "district_id": "950432",
+    "name": "YUNERI"
+  },
+  {
+    "id": "9504322002",
+    "district_id": "950432",
+    "name": "YIDO"
+  },
+  {
+    "id": "9504322003",
+    "district_id": "950432",
+    "name": "OMIBUR"
+  },
+  {
+    "id": "9504322004",
+    "district_id": "950432",
+    "name": "TENABAGA"
+  },
+  {
+    "id": "9504322005",
+    "district_id": "950432",
+    "name": "WONABUNGGAME"
+  },
+  {
+    "id": "9504322006",
+    "district_id": "950432",
+    "name": "GEMBILEME"
+  },
+  {
+    "id": "9504322007",
+    "district_id": "950432",
+    "name": "WENOME"
+  },
+  {
+    "id": "9504322008",
+    "district_id": "950432",
+    "name": "MOPI"
+  },
+  {
+    "id": "9504322009",
+    "district_id": "950432",
+    "name": "KANGGILO"
+  },
+  {
+    "id": "9504322010",
+    "district_id": "950432",
+    "name": "YUDIMBA"
+  },
+  {
+    "id": "9504322011",
+    "district_id": "950432",
+    "name": "UMAR"
+  }
+]

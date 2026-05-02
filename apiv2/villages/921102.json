@@ -1,1 +1,72 @@
-[{"id": "9211022001", "district_id": "921102", "name": "ORANSBARI"}, {"id": "9211022002", "district_id": "921102", "name": "SIDOMULYO"}, {"id": "9211022003", "district_id": "921102", "name": "WAROSER"}, {"id": "9211022004", "district_id": "921102", "name": "MARGO RUKUN"}, {"id": "9211022005", "district_id": "921102", "name": "MUARI"}, {"id": "9211022006", "district_id": "921102", "name": "WATARIRI"}, {"id": "9211022007", "district_id": "921102", "name": "MASABUI"}, {"id": "9211022008", "district_id": "921102", "name": "WARBIADI"}, {"id": "9211022009", "district_id": "921102", "name": "MARGOMULYO"}, {"id": "9211022010", "district_id": "921102", "name": "WARKWANDI"}, {"id": "9211022011", "district_id": "921102", "name": "SINDANG JAYA"}, {"id": "9211022012", "district_id": "921102", "name": "WANDOKI"}, {"id": "9211022013", "district_id": "921102", "name": "AKEJU"}, {"id": "9211022014", "district_id": "921102", "name": "MASABUI II"}]
+[
+  {
+    "id": "9211022001",
+    "district_id": "921102",
+    "name": "ORANSBARI"
+  },
+  {
+    "id": "9211022002",
+    "district_id": "921102",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "9211022003",
+    "district_id": "921102",
+    "name": "WAROSER"
+  },
+  {
+    "id": "9211022004",
+    "district_id": "921102",
+    "name": "MARGO RUKUN"
+  },
+  {
+    "id": "9211022005",
+    "district_id": "921102",
+    "name": "MUARI"
+  },
+  {
+    "id": "9211022006",
+    "district_id": "921102",
+    "name": "WATARIRI"
+  },
+  {
+    "id": "9211022007",
+    "district_id": "921102",
+    "name": "MASABUI"
+  },
+  {
+    "id": "9211022008",
+    "district_id": "921102",
+    "name": "WARBIADI"
+  },
+  {
+    "id": "9211022009",
+    "district_id": "921102",
+    "name": "MARGOMULYO"
+  },
+  {
+    "id": "9211022010",
+    "district_id": "921102",
+    "name": "WARKWANDI"
+  },
+  {
+    "id": "9211022011",
+    "district_id": "921102",
+    "name": "SINDANG JAYA"
+  },
+  {
+    "id": "9211022012",
+    "district_id": "921102",
+    "name": "WANDOKI"
+  },
+  {
+    "id": "9211022013",
+    "district_id": "921102",
+    "name": "AKEJU"
+  },
+  {
+    "id": "9211022014",
+    "district_id": "921102",
+    "name": "MASABUI II"
+  }
+]

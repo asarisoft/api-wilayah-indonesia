@@ -1,1 +1,57 @@
-[{"id": "7604111001", "district_id": "760411", "name": "LIMBORO"}, {"id": "7604112002", "district_id": "760411", "name": "LEMBANG LEMBANG"}, {"id": "7604112003", "district_id": "760411", "name": "TANDASSURA"}, {"id": "7604112004", "district_id": "760411", "name": "SAMASUNDU"}, {"id": "7604112005", "district_id": "760411", "name": "NAPO"}, {"id": "7604112006", "district_id": "760411", "name": "TODANG TODANG"}, {"id": "7604112007", "district_id": "760411", "name": "PENDULANGAN"}, {"id": "7604112008", "district_id": "760411", "name": "RENGGEANG"}, {"id": "7604112009", "district_id": "760411", "name": "SALARRI"}, {"id": "7604112010", "district_id": "760411", "name": "TANGAN BARU"}, {"id": "7604112011", "district_id": "760411", "name": "PALECE"}]
+[
+  {
+    "id": "7604111001",
+    "district_id": "760411",
+    "name": "LIMBORO"
+  },
+  {
+    "id": "7604112002",
+    "district_id": "760411",
+    "name": "LEMBANG LEMBANG"
+  },
+  {
+    "id": "7604112003",
+    "district_id": "760411",
+    "name": "TANDASSURA"
+  },
+  {
+    "id": "7604112004",
+    "district_id": "760411",
+    "name": "SAMASUNDU"
+  },
+  {
+    "id": "7604112005",
+    "district_id": "760411",
+    "name": "NAPO"
+  },
+  {
+    "id": "7604112006",
+    "district_id": "760411",
+    "name": "TODANG TODANG"
+  },
+  {
+    "id": "7604112007",
+    "district_id": "760411",
+    "name": "PENDULANGAN"
+  },
+  {
+    "id": "7604112008",
+    "district_id": "760411",
+    "name": "RENGGEANG"
+  },
+  {
+    "id": "7604112009",
+    "district_id": "760411",
+    "name": "SALARRI"
+  },
+  {
+    "id": "7604112010",
+    "district_id": "760411",
+    "name": "TANGAN BARU"
+  },
+  {
+    "id": "7604112011",
+    "district_id": "760411",
+    "name": "PALECE"
+  }
+]

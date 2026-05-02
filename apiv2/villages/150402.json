@@ -1,1 +1,72 @@
-[{"id": "1504021001", "district_id": "150402", "name": "KAMPUNG BARU"}, {"id": "1504021002", "district_id": "150402", "name": "PASAR MUARA TEMBESI"}, {"id": "1504022003", "district_id": "150402", "name": "JEBAK"}, {"id": "1504022004", "district_id": "150402", "name": "AMPELU"}, {"id": "1504022005", "district_id": "150402", "name": "RAMBUTAN MASAM"}, {"id": "1504022006", "district_id": "150402", "name": "RANTAU KAPAS MUDO"}, {"id": "1504022007", "district_id": "150402", "name": "RANTAU KAPAS TUO"}, {"id": "1504022008", "district_id": "150402", "name": "SUNGAI PULAI"}, {"id": "1504022009", "district_id": "150402", "name": "PULAU"}, {"id": "1504022010", "district_id": "150402", "name": "TANJUNG MARWO"}, {"id": "1504022011", "district_id": "150402", "name": "SUKA RAMAI"}, {"id": "1504022012", "district_id": "150402", "name": "AMPELU MUDO"}, {"id": "1504022013", "district_id": "150402", "name": "PELAYANGAN"}, {"id": "1504022015", "district_id": "150402", "name": "PEMATANG LIMA SUKU"}]
+[
+  {
+    "id": "1504021001",
+    "district_id": "150402",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1504021002",
+    "district_id": "150402",
+    "name": "PASAR MUARA TEMBESI"
+  },
+  {
+    "id": "1504022003",
+    "district_id": "150402",
+    "name": "JEBAK"
+  },
+  {
+    "id": "1504022004",
+    "district_id": "150402",
+    "name": "AMPELU"
+  },
+  {
+    "id": "1504022005",
+    "district_id": "150402",
+    "name": "RAMBUTAN MASAM"
+  },
+  {
+    "id": "1504022006",
+    "district_id": "150402",
+    "name": "RANTAU KAPAS MUDO"
+  },
+  {
+    "id": "1504022007",
+    "district_id": "150402",
+    "name": "RANTAU KAPAS TUO"
+  },
+  {
+    "id": "1504022008",
+    "district_id": "150402",
+    "name": "SUNGAI PULAI"
+  },
+  {
+    "id": "1504022009",
+    "district_id": "150402",
+    "name": "PULAU"
+  },
+  {
+    "id": "1504022010",
+    "district_id": "150402",
+    "name": "TANJUNG MARWO"
+  },
+  {
+    "id": "1504022011",
+    "district_id": "150402",
+    "name": "SUKA RAMAI"
+  },
+  {
+    "id": "1504022012",
+    "district_id": "150402",
+    "name": "AMPELU MUDO"
+  },
+  {
+    "id": "1504022013",
+    "district_id": "150402",
+    "name": "PELAYANGAN"
+  },
+  {
+    "id": "1504022015",
+    "district_id": "150402",
+    "name": "PEMATANG LIMA SUKU"
+  }
+]

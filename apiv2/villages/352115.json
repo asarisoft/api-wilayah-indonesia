@@ -1,1 +1,52 @@
-[{"id": "3521152001", "district_id": "352115", "name": "SUMBERBENING"}, {"id": "3521152002", "district_id": "352115", "name": "MOJO"}, {"id": "3521152003", "district_id": "352115", "name": "KROMPOL"}, {"id": "3521152004", "district_id": "352115", "name": "BRINGIN"}, {"id": "3521152005", "district_id": "352115", "name": "DERO"}, {"id": "3521152006", "district_id": "352115", "name": "LEGO WETAN"}, {"id": "3521152007", "district_id": "352115", "name": "GANDONG"}, {"id": "3521152008", "district_id": "352115", "name": "DAMPIT"}, {"id": "3521152009", "district_id": "352115", "name": "SURUH"}, {"id": "3521152010", "district_id": "352115", "name": "KENONGOREJO"}]
+[
+  {
+    "id": "3521152001",
+    "district_id": "352115",
+    "name": "SUMBERBENING"
+  },
+  {
+    "id": "3521152002",
+    "district_id": "352115",
+    "name": "MOJO"
+  },
+  {
+    "id": "3521152003",
+    "district_id": "352115",
+    "name": "KROMPOL"
+  },
+  {
+    "id": "3521152004",
+    "district_id": "352115",
+    "name": "BRINGIN"
+  },
+  {
+    "id": "3521152005",
+    "district_id": "352115",
+    "name": "DERO"
+  },
+  {
+    "id": "3521152006",
+    "district_id": "352115",
+    "name": "LEGO WETAN"
+  },
+  {
+    "id": "3521152007",
+    "district_id": "352115",
+    "name": "GANDONG"
+  },
+  {
+    "id": "3521152008",
+    "district_id": "352115",
+    "name": "DAMPIT"
+  },
+  {
+    "id": "3521152009",
+    "district_id": "352115",
+    "name": "SURUH"
+  },
+  {
+    "id": "3521152010",
+    "district_id": "352115",
+    "name": "KENONGOREJO"
+  }
+]

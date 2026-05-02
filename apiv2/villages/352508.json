@@ -1,1 +1,77 @@
-[{"id": "3525082001", "district_id": "352508", "name": "MOJOWUKU"}, {"id": "3525082002", "district_id": "352508", "name": "GLINDAH"}, {"id": "3525082003", "district_id": "352508", "name": "SIDORAHARJO"}, {"id": "3525082004", "district_id": "352508", "name": "TULUNG"}, {"id": "3525082005", "district_id": "352508", "name": "CERMEN"}, {"id": "3525082006", "district_id": "352508", "name": "LAMPAH"}, {"id": "3525082007", "district_id": "352508", "name": "SLEMPIT"}, {"id": "3525082008", "district_id": "352508", "name": "TURIREJO"}, {"id": "3525082009", "district_id": "352508", "name": "BELAHANREJO"}, {"id": "3525082010", "district_id": "352508", "name": "MENUNGGAL"}, {"id": "3525082011", "district_id": "352508", "name": "TANJUNG"}, {"id": "3525082012", "district_id": "352508", "name": "KATIMOHO"}, {"id": "3525082013", "district_id": "352508", "name": "BANYUURIP"}, {"id": "3525082014", "district_id": "352508", "name": "KEDAMEAN"}, {"id": "3525082015", "district_id": "352508", "name": "NGEPUNG"}]
+[
+  {
+    "id": "3525082001",
+    "district_id": "352508",
+    "name": "MOJOWUKU"
+  },
+  {
+    "id": "3525082002",
+    "district_id": "352508",
+    "name": "GLINDAH"
+  },
+  {
+    "id": "3525082003",
+    "district_id": "352508",
+    "name": "SIDORAHARJO"
+  },
+  {
+    "id": "3525082004",
+    "district_id": "352508",
+    "name": "TULUNG"
+  },
+  {
+    "id": "3525082005",
+    "district_id": "352508",
+    "name": "CERMEN"
+  },
+  {
+    "id": "3525082006",
+    "district_id": "352508",
+    "name": "LAMPAH"
+  },
+  {
+    "id": "3525082007",
+    "district_id": "352508",
+    "name": "SLEMPIT"
+  },
+  {
+    "id": "3525082008",
+    "district_id": "352508",
+    "name": "TURIREJO"
+  },
+  {
+    "id": "3525082009",
+    "district_id": "352508",
+    "name": "BELAHANREJO"
+  },
+  {
+    "id": "3525082010",
+    "district_id": "352508",
+    "name": "MENUNGGAL"
+  },
+  {
+    "id": "3525082011",
+    "district_id": "352508",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "3525082012",
+    "district_id": "352508",
+    "name": "KATIMOHO"
+  },
+  {
+    "id": "3525082013",
+    "district_id": "352508",
+    "name": "BANYUURIP"
+  },
+  {
+    "id": "3525082014",
+    "district_id": "352508",
+    "name": "KEDAMEAN"
+  },
+  {
+    "id": "3525082015",
+    "district_id": "352508",
+    "name": "NGEPUNG"
+  }
+]

@@ -1,1 +1,122 @@
-[{"id": "1116042002", "district_id": "111604", "name": "PEKAN SERUWAY"}, {"id": "1116042003", "district_id": "111604", "name": "BINJAI"}, {"id": "1116042004", "district_id": "111604", "name": "PANTAI BALAI"}, {"id": "1116042005", "district_id": "111604", "name": "PADANG LANGGIS"}, {"id": "1116042006", "district_id": "111604", "name": "SUKA RAMAI SATU"}, {"id": "1116042007", "district_id": "111604", "name": "SUKA RAMAI DUA"}, {"id": "1116042008", "district_id": "111604", "name": "PERKEBUNAN SERUWAY"}, {"id": "1116042009", "district_id": "111604", "name": "GEDUNG BIARA"}, {"id": "1116042010", "district_id": "111604", "name": "ALUR ALIM"}, {"id": "1116042011", "district_id": "111604", "name": "TUALANG"}, {"id": "1116042012", "district_id": "111604", "name": "MATANG SENTANG"}, {"id": "1116042013", "district_id": "111604", "name": "AIR MASIN"}, {"id": "1116042014", "district_id": "111604", "name": "SIDODADI"}, {"id": "1116042015", "district_id": "111604", "name": "PERK. GEDUNG BIARA"}, {"id": "1116042016", "district_id": "111604", "name": "MUKA SUNGAI KURUK"}, {"id": "1116042017", "district_id": "111604", "name": "PAYA UDANG"}, {"id": "1116042018", "district_id": "111604", "name": "GELUNG"}, {"id": "1116042019", "district_id": "111604", "name": "KAMPUNG BARU"}, {"id": "1116042020", "district_id": "111604", "name": "KUALA PUSUNG KAPAL"}, {"id": "1116042021", "district_id": "111604", "name": "SUNGAI KURUK I"}, {"id": "1116042022", "district_id": "111604", "name": "SUNGAI KURUK II"}, {"id": "1116042023", "district_id": "111604", "name": "SUNGAI KURUK III"}, {"id": "1116042024", "district_id": "111604", "name": "TANGSI LAMA"}, {"id": "1116042025", "district_id": "111604", "name": "LUBUK DAMAR"}]
+[
+  {
+    "id": "1116042002",
+    "district_id": "111604",
+    "name": "PEKAN SERUWAY"
+  },
+  {
+    "id": "1116042003",
+    "district_id": "111604",
+    "name": "BINJAI"
+  },
+  {
+    "id": "1116042004",
+    "district_id": "111604",
+    "name": "PANTAI BALAI"
+  },
+  {
+    "id": "1116042005",
+    "district_id": "111604",
+    "name": "PADANG LANGGIS"
+  },
+  {
+    "id": "1116042006",
+    "district_id": "111604",
+    "name": "SUKA RAMAI SATU"
+  },
+  {
+    "id": "1116042007",
+    "district_id": "111604",
+    "name": "SUKA RAMAI DUA"
+  },
+  {
+    "id": "1116042008",
+    "district_id": "111604",
+    "name": "PERKEBUNAN SERUWAY"
+  },
+  {
+    "id": "1116042009",
+    "district_id": "111604",
+    "name": "GEDUNG BIARA"
+  },
+  {
+    "id": "1116042010",
+    "district_id": "111604",
+    "name": "ALUR ALIM"
+  },
+  {
+    "id": "1116042011",
+    "district_id": "111604",
+    "name": "TUALANG"
+  },
+  {
+    "id": "1116042012",
+    "district_id": "111604",
+    "name": "MATANG SENTANG"
+  },
+  {
+    "id": "1116042013",
+    "district_id": "111604",
+    "name": "AIR MASIN"
+  },
+  {
+    "id": "1116042014",
+    "district_id": "111604",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1116042015",
+    "district_id": "111604",
+    "name": "PERK. GEDUNG BIARA"
+  },
+  {
+    "id": "1116042016",
+    "district_id": "111604",
+    "name": "MUKA SUNGAI KURUK"
+  },
+  {
+    "id": "1116042017",
+    "district_id": "111604",
+    "name": "PAYA UDANG"
+  },
+  {
+    "id": "1116042018",
+    "district_id": "111604",
+    "name": "GELUNG"
+  },
+  {
+    "id": "1116042019",
+    "district_id": "111604",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1116042020",
+    "district_id": "111604",
+    "name": "KUALA PUSUNG KAPAL"
+  },
+  {
+    "id": "1116042021",
+    "district_id": "111604",
+    "name": "SUNGAI KURUK I"
+  },
+  {
+    "id": "1116042022",
+    "district_id": "111604",
+    "name": "SUNGAI KURUK II"
+  },
+  {
+    "id": "1116042023",
+    "district_id": "111604",
+    "name": "SUNGAI KURUK III"
+  },
+  {
+    "id": "1116042024",
+    "district_id": "111604",
+    "name": "TANGSI LAMA"
+  },
+  {
+    "id": "1116042025",
+    "district_id": "111604",
+    "name": "LUBUK DAMAR"
+  }
+]

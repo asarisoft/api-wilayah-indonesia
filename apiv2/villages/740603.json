@@ -1,1 +1,47 @@
-[{"id": "7406031010", "district_id": "740603", "name": "TAUBONTO"}, {"id": "7406032001", "district_id": "740603", "name": "RAU RAU"}, {"id": "7406032008", "district_id": "740603", "name": "LADUMPI"}, {"id": "7406032009", "district_id": "740603", "name": "RAROWATU"}, {"id": "7406032011", "district_id": "740603", "name": "LAKOMEA"}, {"id": "7406032012", "district_id": "740603", "name": "PANGKURI"}, {"id": "7406032013", "district_id": "740603", "name": "LAMPEANTANI"}, {"id": "7406032014", "district_id": "740603", "name": "WATU KALANGKARI"}, {"id": "7406032015", "district_id": "740603", "name": "TAHI ITE"}]
+[
+  {
+    "id": "7406031010",
+    "district_id": "740603",
+    "name": "TAUBONTO"
+  },
+  {
+    "id": "7406032001",
+    "district_id": "740603",
+    "name": "RAU RAU"
+  },
+  {
+    "id": "7406032008",
+    "district_id": "740603",
+    "name": "LADUMPI"
+  },
+  {
+    "id": "7406032009",
+    "district_id": "740603",
+    "name": "RAROWATU"
+  },
+  {
+    "id": "7406032011",
+    "district_id": "740603",
+    "name": "LAKOMEA"
+  },
+  {
+    "id": "7406032012",
+    "district_id": "740603",
+    "name": "PANGKURI"
+  },
+  {
+    "id": "7406032013",
+    "district_id": "740603",
+    "name": "LAMPEANTANI"
+  },
+  {
+    "id": "7406032014",
+    "district_id": "740603",
+    "name": "WATU KALANGKARI"
+  },
+  {
+    "id": "7406032015",
+    "district_id": "740603",
+    "name": "TAHI ITE"
+  }
+]

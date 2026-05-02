@@ -1,1 +1,37 @@
-[{"id": "7311061007", "district_id": "731106", "name": "MATTAPPAWALIE"}, {"id": "7311062001", "district_id": "731106", "name": "PUJANANTING"}, {"id": "7311062002", "district_id": "731106", "name": "GATTARENG"}, {"id": "7311062003", "district_id": "731106", "name": "PATTAPPA"}, {"id": "7311062004", "district_id": "731106", "name": "JANGAN JANGAN"}, {"id": "7311062005", "district_id": "731106", "name": "BULO BULO"}, {"id": "7311062006", "district_id": "731106", "name": "BACU BACU"}]
+[
+  {
+    "id": "7311061007",
+    "district_id": "731106",
+    "name": "MATTAPPAWALIE"
+  },
+  {
+    "id": "7311062001",
+    "district_id": "731106",
+    "name": "PUJANANTING"
+  },
+  {
+    "id": "7311062002",
+    "district_id": "731106",
+    "name": "GATTARENG"
+  },
+  {
+    "id": "7311062003",
+    "district_id": "731106",
+    "name": "PATTAPPA"
+  },
+  {
+    "id": "7311062004",
+    "district_id": "731106",
+    "name": "JANGAN JANGAN"
+  },
+  {
+    "id": "7311062005",
+    "district_id": "731106",
+    "name": "BULO BULO"
+  },
+  {
+    "id": "7311062006",
+    "district_id": "731106",
+    "name": "BACU BACU"
+  }
+]

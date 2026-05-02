@@ -1,1 +1,37 @@
-[{"id": "1306052002", "district_id": "130605", "name": "SUNGAI LANDIA"}, {"id": "1306052003", "district_id": "130605", "name": "BALINGKA"}, {"id": "1306052004", "district_id": "130605", "name": "KOTO TUO"}, {"id": "1306052005", "district_id": "130605", "name": "GUGUAK TABEK SAROJO"}, {"id": "1306052006", "district_id": "130605", "name": "KOTO PANJANG"}, {"id": "1306052007", "district_id": "130605", "name": "SIANOK ANAM SUKU"}, {"id": "1306052008", "district_id": "130605", "name": "KOTO GADANG"}]
+[
+  {
+    "id": "1306052002",
+    "district_id": "130605",
+    "name": "SUNGAI LANDIA"
+  },
+  {
+    "id": "1306052003",
+    "district_id": "130605",
+    "name": "BALINGKA"
+  },
+  {
+    "id": "1306052004",
+    "district_id": "130605",
+    "name": "KOTO TUO"
+  },
+  {
+    "id": "1306052005",
+    "district_id": "130605",
+    "name": "GUGUAK TABEK SAROJO"
+  },
+  {
+    "id": "1306052006",
+    "district_id": "130605",
+    "name": "KOTO PANJANG"
+  },
+  {
+    "id": "1306052007",
+    "district_id": "130605",
+    "name": "SIANOK ANAM SUKU"
+  },
+  {
+    "id": "1306052008",
+    "district_id": "130605",
+    "name": "KOTO GADANG"
+  }
+]

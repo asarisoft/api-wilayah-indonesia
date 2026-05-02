@@ -1,1 +1,72 @@
-[{"id": "5309122001", "district_id": "530912", "name": "WATUMANU"}, {"id": "5309122002", "district_id": "530912", "name": "TIWORIWU"}, {"id": "5309122003", "district_id": "530912", "name": "DARIWALI"}, {"id": "5309122004", "district_id": "530912", "name": "NARUWOLO"}, {"id": "5309122005", "district_id": "530912", "name": "NENOWEA"}, {"id": "5309122007", "district_id": "530912", "name": "NARUWOLO I"}, {"id": "5309122008", "district_id": "530912", "name": "NARUWOLO II"}, {"id": "5309122009", "district_id": "530912", "name": "DARIWALI I"}, {"id": "5309122010", "district_id": "530912", "name": "NIO LEWA"}, {"id": "5309122011", "district_id": "530912", "name": "TIWORIWU I"}, {"id": "5309122012", "district_id": "530912", "name": "TIWORIWU II"}, {"id": "5309122015", "district_id": "530912", "name": "BATAJAWA"}, {"id": "5309122016", "district_id": "530912", "name": "WONGAWEA"}, {"id": "5309122017", "district_id": "530912", "name": "BOWARU"}]
+[
+  {
+    "id": "5309122001",
+    "district_id": "530912",
+    "name": "WATUMANU"
+  },
+  {
+    "id": "5309122002",
+    "district_id": "530912",
+    "name": "TIWORIWU"
+  },
+  {
+    "id": "5309122003",
+    "district_id": "530912",
+    "name": "DARIWALI"
+  },
+  {
+    "id": "5309122004",
+    "district_id": "530912",
+    "name": "NARUWOLO"
+  },
+  {
+    "id": "5309122005",
+    "district_id": "530912",
+    "name": "NENOWEA"
+  },
+  {
+    "id": "5309122007",
+    "district_id": "530912",
+    "name": "NARUWOLO I"
+  },
+  {
+    "id": "5309122008",
+    "district_id": "530912",
+    "name": "NARUWOLO II"
+  },
+  {
+    "id": "5309122009",
+    "district_id": "530912",
+    "name": "DARIWALI I"
+  },
+  {
+    "id": "5309122010",
+    "district_id": "530912",
+    "name": "NIO LEWA"
+  },
+  {
+    "id": "5309122011",
+    "district_id": "530912",
+    "name": "TIWORIWU I"
+  },
+  {
+    "id": "5309122012",
+    "district_id": "530912",
+    "name": "TIWORIWU II"
+  },
+  {
+    "id": "5309122015",
+    "district_id": "530912",
+    "name": "BATAJAWA"
+  },
+  {
+    "id": "5309122016",
+    "district_id": "530912",
+    "name": "WONGAWEA"
+  },
+  {
+    "id": "5309122017",
+    "district_id": "530912",
+    "name": "BOWARU"
+  }
+]

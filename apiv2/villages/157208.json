@@ -1,1 +1,32 @@
-[{"id": "1572081005", "district_id": "157208", "name": "DUSUN BARU"}, {"id": "1572082001", "district_id": "157208", "name": "SUMUR ANYIR"}, {"id": "1572082002", "district_id": "157208", "name": "KOTO TINGGI"}, {"id": "1572082003", "district_id": "157208", "name": "TALANG LINDUNG"}, {"id": "1572082004", "district_id": "157208", "name": "PELAYANG RAYA"}, {"id": "1572082006", "district_id": "157208", "name": "SUNGAI NING"}]
+[
+  {
+    "id": "1572081005",
+    "district_id": "157208",
+    "name": "DUSUN BARU"
+  },
+  {
+    "id": "1572082001",
+    "district_id": "157208",
+    "name": "SUMUR ANYIR"
+  },
+  {
+    "id": "1572082002",
+    "district_id": "157208",
+    "name": "KOTO TINGGI"
+  },
+  {
+    "id": "1572082003",
+    "district_id": "157208",
+    "name": "TALANG LINDUNG"
+  },
+  {
+    "id": "1572082004",
+    "district_id": "157208",
+    "name": "PELAYANG RAYA"
+  },
+  {
+    "id": "1572082006",
+    "district_id": "157208",
+    "name": "SUNGAI NING"
+  }
+]

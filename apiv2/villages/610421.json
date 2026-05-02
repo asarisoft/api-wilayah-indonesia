@@ -1,1 +1,47 @@
-[{"id": "6104212001", "district_id": "610421", "name": "AIR UPAS"}, {"id": "6104212002", "district_id": "610421", "name": "SARI BEKAYAS"}, {"id": "6104212003", "district_id": "610421", "name": "AIR DURIAN JAYA"}, {"id": "6104212004", "district_id": "610421", "name": "HARAPAN BARU"}, {"id": "6104212005", "district_id": "610421", "name": "SUKA RIA"}, {"id": "6104212006", "district_id": "610421", "name": "BANDA SARI"}, {"id": "6104212007", "district_id": "610421", "name": "MEMBULUH BARU"}, {"id": "6104212008", "district_id": "610421", "name": "GAHANG"}, {"id": "6104212009", "district_id": "610421", "name": "MEKAR JAYA"}]
+[
+  {
+    "id": "6104212001",
+    "district_id": "610421",
+    "name": "AIR UPAS"
+  },
+  {
+    "id": "6104212002",
+    "district_id": "610421",
+    "name": "SARI BEKAYAS"
+  },
+  {
+    "id": "6104212003",
+    "district_id": "610421",
+    "name": "AIR DURIAN JAYA"
+  },
+  {
+    "id": "6104212004",
+    "district_id": "610421",
+    "name": "HARAPAN BARU"
+  },
+  {
+    "id": "6104212005",
+    "district_id": "610421",
+    "name": "SUKA RIA"
+  },
+  {
+    "id": "6104212006",
+    "district_id": "610421",
+    "name": "BANDA SARI"
+  },
+  {
+    "id": "6104212007",
+    "district_id": "610421",
+    "name": "MEMBULUH BARU"
+  },
+  {
+    "id": "6104212008",
+    "district_id": "610421",
+    "name": "GAHANG"
+  },
+  {
+    "id": "6104212009",
+    "district_id": "610421",
+    "name": "MEKAR JAYA"
+  }
+]

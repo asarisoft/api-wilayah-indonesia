@@ -1,1 +1,52 @@
-[{"id": "5301101001", "district_id": "530110", "name": "CAMPLONG I"}, {"id": "5301102007", "district_id": "530110", "name": "CAMPLONG II"}, {"id": "5301102008", "district_id": "530110", "name": "NAUNNU"}, {"id": "5301102009", "district_id": "530110", "name": "OEBOLA"}, {"id": "5301102010", "district_id": "530110", "name": "SILLU"}, {"id": "5301102011", "district_id": "530110", "name": "EKATETA"}, {"id": "5301102012", "district_id": "530110", "name": "KUIMASI"}, {"id": "5301102013", "district_id": "530110", "name": "TOLNAKU"}, {"id": "5301102014", "district_id": "530110", "name": "OEBOLA DALAM"}, {"id": "5301102015", "district_id": "530110", "name": "KIUONI"}]
+[
+  {
+    "id": "5301101001",
+    "district_id": "530110",
+    "name": "CAMPLONG I"
+  },
+  {
+    "id": "5301102007",
+    "district_id": "530110",
+    "name": "CAMPLONG II"
+  },
+  {
+    "id": "5301102008",
+    "district_id": "530110",
+    "name": "NAUNNU"
+  },
+  {
+    "id": "5301102009",
+    "district_id": "530110",
+    "name": "OEBOLA"
+  },
+  {
+    "id": "5301102010",
+    "district_id": "530110",
+    "name": "SILLU"
+  },
+  {
+    "id": "5301102011",
+    "district_id": "530110",
+    "name": "EKATETA"
+  },
+  {
+    "id": "5301102012",
+    "district_id": "530110",
+    "name": "KUIMASI"
+  },
+  {
+    "id": "5301102013",
+    "district_id": "530110",
+    "name": "TOLNAKU"
+  },
+  {
+    "id": "5301102014",
+    "district_id": "530110",
+    "name": "OEBOLA DALAM"
+  },
+  {
+    "id": "5301102015",
+    "district_id": "530110",
+    "name": "KIUONI"
+  }
+]

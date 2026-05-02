@@ -1,1 +1,27 @@
-[{"id": "3205322001", "district_id": "320532", "name": "MEKARMUKTI"}, {"id": "3205322002", "district_id": "320532", "name": "KARANGWANGI"}, {"id": "3205322003", "district_id": "320532", "name": "JAGABAYA"}, {"id": "3205322004", "district_id": "320532", "name": "CIJAYANA"}, {"id": "3205322005", "district_id": "320532", "name": "MEKARSARI"}]
+[
+  {
+    "id": "3205322001",
+    "district_id": "320532",
+    "name": "MEKARMUKTI"
+  },
+  {
+    "id": "3205322002",
+    "district_id": "320532",
+    "name": "KARANGWANGI"
+  },
+  {
+    "id": "3205322003",
+    "district_id": "320532",
+    "name": "JAGABAYA"
+  },
+  {
+    "id": "3205322004",
+    "district_id": "320532",
+    "name": "CIJAYANA"
+  },
+  {
+    "id": "3205322005",
+    "district_id": "320532",
+    "name": "MEKARSARI"
+  }
+]

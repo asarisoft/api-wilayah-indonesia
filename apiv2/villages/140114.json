@@ -1,1 +1,37 @@
-[{"id": "1401142001", "district_id": "140114", "name": "PULAU PAYUNG"}, {"id": "1401142002", "district_id": "140114", "name": "TERATAK"}, {"id": "1401142003", "district_id": "140114", "name": "ALAM PANJANG"}, {"id": "1401142004", "district_id": "140114", "name": "BUKIT KRATAI"}, {"id": "1401142005", "district_id": "140114", "name": "BATANG BATINDIH"}, {"id": "1401142006", "district_id": "140114", "name": "TAMBUSAI"}, {"id": "1401142007", "district_id": "140114", "name": "SIMPANG PETAI"}]
+[
+  {
+    "id": "1401142001",
+    "district_id": "140114",
+    "name": "PULAU PAYUNG"
+  },
+  {
+    "id": "1401142002",
+    "district_id": "140114",
+    "name": "TERATAK"
+  },
+  {
+    "id": "1401142003",
+    "district_id": "140114",
+    "name": "ALAM PANJANG"
+  },
+  {
+    "id": "1401142004",
+    "district_id": "140114",
+    "name": "BUKIT KRATAI"
+  },
+  {
+    "id": "1401142005",
+    "district_id": "140114",
+    "name": "BATANG BATINDIH"
+  },
+  {
+    "id": "1401142006",
+    "district_id": "140114",
+    "name": "TAMBUSAI"
+  },
+  {
+    "id": "1401142007",
+    "district_id": "140114",
+    "name": "SIMPANG PETAI"
+  }
+]

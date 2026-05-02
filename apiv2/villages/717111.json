@@ -1,1 +1,37 @@
-[{"id": "7171111001", "district_id": "717111", "name": "RANOMUUT"}, {"id": "7171111002", "district_id": "717111", "name": "KAIRAGI WERU"}, {"id": "7171111003", "district_id": "717111", "name": "PAAL DUA"}, {"id": "7171111004", "district_id": "717111", "name": "PERKAMIL"}, {"id": "7171111005", "district_id": "717111", "name": "MALENDENG"}, {"id": "7171111006", "district_id": "717111", "name": "DENDENGAN DALAM"}, {"id": "7171111007", "district_id": "717111", "name": "DENDENGAN LUAR"}]
+[
+  {
+    "id": "7171111001",
+    "district_id": "717111",
+    "name": "RANOMUUT"
+  },
+  {
+    "id": "7171111002",
+    "district_id": "717111",
+    "name": "KAIRAGI WERU"
+  },
+  {
+    "id": "7171111003",
+    "district_id": "717111",
+    "name": "PAAL DUA"
+  },
+  {
+    "id": "7171111004",
+    "district_id": "717111",
+    "name": "PERKAMIL"
+  },
+  {
+    "id": "7171111005",
+    "district_id": "717111",
+    "name": "MALENDENG"
+  },
+  {
+    "id": "7171111006",
+    "district_id": "717111",
+    "name": "DENDENGAN DALAM"
+  },
+  {
+    "id": "7171111007",
+    "district_id": "717111",
+    "name": "DENDENGAN LUAR"
+  }
+]

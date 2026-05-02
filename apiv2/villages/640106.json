@@ -1,1 +1,132 @@
-[{"id": "6401061001", "district_id": "640106", "name": "LONG IKIS"}, {"id": "6401062002", "district_id": "640106", "name": "MUARA ADANG"}, {"id": "6401062003", "district_id": "640106", "name": "TELUK WARU"}, {"id": "6401062004", "district_id": "640106", "name": "TAJUR"}, {"id": "6401062005", "district_id": "640106", "name": "SEMUNTAI"}, {"id": "6401062006", "district_id": "640106", "name": "LOMBOK"}, {"id": "6401062007", "district_id": "640106", "name": "PAIT"}, {"id": "6401062008", "district_id": "640106", "name": "OLUNG"}, {"id": "6401062009", "district_id": "640106", "name": "KAYUNGO"}, {"id": "6401062010", "district_id": "640106", "name": "JEMPARING"}, {"id": "6401062011", "district_id": "640106", "name": "TIWEI"}, {"id": "6401062012", "district_id": "640106", "name": "BELIMBING"}, {"id": "6401062013", "district_id": "640106", "name": "LONG GELANG"}, {"id": "6401062014", "district_id": "640106", "name": "KRAYAN JAYA"}, {"id": "6401062015", "district_id": "640106", "name": "BUKIT SALOKA"}, {"id": "6401062016", "district_id": "640106", "name": "KRAYAN SENTOSA"}, {"id": "6401062017", "district_id": "640106", "name": "KRAYAN MAKMUR"}, {"id": "6401062018", "district_id": "640106", "name": "KAYUNGO SARI"}, {"id": "6401062019", "district_id": "640106", "name": "KRAYAN BAHAGIA"}, {"id": "6401062020", "district_id": "640106", "name": "SAWIT JAYA"}, {"id": "6401062021", "district_id": "640106", "name": "SEKUROU JAYA"}, {"id": "6401062022", "district_id": "640106", "name": "KERTA BHAKTI"}, {"id": "6401062023", "district_id": "640106", "name": "ADANG JAYA"}, {"id": "6401062024", "district_id": "640106", "name": "TAJER MULYA"}, {"id": "6401062025", "district_id": "640106", "name": "BREWE"}, {"id": "6401062026", "district_id": "640106", "name": "ATANG PAIT"}]
+[
+  {
+    "id": "6401061001",
+    "district_id": "640106",
+    "name": "LONG IKIS"
+  },
+  {
+    "id": "6401062002",
+    "district_id": "640106",
+    "name": "MUARA ADANG"
+  },
+  {
+    "id": "6401062003",
+    "district_id": "640106",
+    "name": "TELUK WARU"
+  },
+  {
+    "id": "6401062004",
+    "district_id": "640106",
+    "name": "TAJUR"
+  },
+  {
+    "id": "6401062005",
+    "district_id": "640106",
+    "name": "SEMUNTAI"
+  },
+  {
+    "id": "6401062006",
+    "district_id": "640106",
+    "name": "LOMBOK"
+  },
+  {
+    "id": "6401062007",
+    "district_id": "640106",
+    "name": "PAIT"
+  },
+  {
+    "id": "6401062008",
+    "district_id": "640106",
+    "name": "OLUNG"
+  },
+  {
+    "id": "6401062009",
+    "district_id": "640106",
+    "name": "KAYUNGO"
+  },
+  {
+    "id": "6401062010",
+    "district_id": "640106",
+    "name": "JEMPARING"
+  },
+  {
+    "id": "6401062011",
+    "district_id": "640106",
+    "name": "TIWEI"
+  },
+  {
+    "id": "6401062012",
+    "district_id": "640106",
+    "name": "BELIMBING"
+  },
+  {
+    "id": "6401062013",
+    "district_id": "640106",
+    "name": "LONG GELANG"
+  },
+  {
+    "id": "6401062014",
+    "district_id": "640106",
+    "name": "KRAYAN JAYA"
+  },
+  {
+    "id": "6401062015",
+    "district_id": "640106",
+    "name": "BUKIT SALOKA"
+  },
+  {
+    "id": "6401062016",
+    "district_id": "640106",
+    "name": "KRAYAN SENTOSA"
+  },
+  {
+    "id": "6401062017",
+    "district_id": "640106",
+    "name": "KRAYAN MAKMUR"
+  },
+  {
+    "id": "6401062018",
+    "district_id": "640106",
+    "name": "KAYUNGO SARI"
+  },
+  {
+    "id": "6401062019",
+    "district_id": "640106",
+    "name": "KRAYAN BAHAGIA"
+  },
+  {
+    "id": "6401062020",
+    "district_id": "640106",
+    "name": "SAWIT JAYA"
+  },
+  {
+    "id": "6401062021",
+    "district_id": "640106",
+    "name": "SEKUROU JAYA"
+  },
+  {
+    "id": "6401062022",
+    "district_id": "640106",
+    "name": "KERTA BHAKTI"
+  },
+  {
+    "id": "6401062023",
+    "district_id": "640106",
+    "name": "ADANG JAYA"
+  },
+  {
+    "id": "6401062024",
+    "district_id": "640106",
+    "name": "TAJER MULYA"
+  },
+  {
+    "id": "6401062025",
+    "district_id": "640106",
+    "name": "BREWE"
+  },
+  {
+    "id": "6401062026",
+    "district_id": "640106",
+    "name": "ATANG PAIT"
+  }
+]

@@ -1,1 +1,152 @@
-[{"id": "960101", "regency_id": "9601", "name": "MAKBON"}, {"id": "960102", "regency_id": "9601", "name": "BERAUR"}, {"id": "960103", "regency_id": "9601", "name": "SALAWATI"}, {"id": "960104", "regency_id": "9601", "name": "SEGET"}, {"id": "960105", "regency_id": "9601", "name": "AIMAS"}, {"id": "960106", "regency_id": "9601", "name": "KLAMONO"}, {"id": "960107", "regency_id": "9601", "name": "SAYOSA"}, {"id": "960108", "regency_id": "9601", "name": "SEGUN"}, {"id": "960109", "regency_id": "9601", "name": "MAYAMUK"}, {"id": "960110", "regency_id": "9601", "name": "SALAWATI SELATAN"}, {"id": "960111", "regency_id": "9601", "name": "KLABOT"}, {"id": "960112", "regency_id": "9601", "name": "KLAWAK"}, {"id": "960113", "regency_id": "9601", "name": "MAUDUS"}, {"id": "960114", "regency_id": "9601", "name": "MARIAT"}, {"id": "960115", "regency_id": "9601", "name": "KLAYILI"}, {"id": "960116", "regency_id": "9601", "name": "KLASO"}, {"id": "960117", "regency_id": "9601", "name": "MOISEGEN"}, {"id": "960118", "regency_id": "9601", "name": "SORONG"}, {"id": "960119", "regency_id": "9601", "name": "BAGUN"}, {"id": "960120", "regency_id": "9601", "name": "WEMAK"}, {"id": "960121", "regency_id": "9601", "name": "SUNOOK"}, {"id": "960122", "regency_id": "9601", "name": "BUK"}, {"id": "960123", "regency_id": "9601", "name": "SAENGKEDUK"}, {"id": "960124", "regency_id": "9601", "name": "MALABOTOM"}, {"id": "960125", "regency_id": "9601", "name": "KONHIR"}, {"id": "960126", "regency_id": "9601", "name": "KLASAFET"}, {"id": "960127", "regency_id": "9601", "name": "HOBARD"}, {"id": "960128", "regency_id": "9601", "name": "SALAWATI TENGAH"}, {"id": "960129", "regency_id": "9601", "name": "BOTAIN"}, {"id": "960130", "regency_id": "9601", "name": "SAYOSA TIMUR"}]
+[
+  {
+    "id": "960101",
+    "regency_id": "9601",
+    "name": "MAKBON"
+  },
+  {
+    "id": "960102",
+    "regency_id": "9601",
+    "name": "BERAUR"
+  },
+  {
+    "id": "960103",
+    "regency_id": "9601",
+    "name": "SALAWATI"
+  },
+  {
+    "id": "960104",
+    "regency_id": "9601",
+    "name": "SEGET"
+  },
+  {
+    "id": "960105",
+    "regency_id": "9601",
+    "name": "AIMAS"
+  },
+  {
+    "id": "960106",
+    "regency_id": "9601",
+    "name": "KLAMONO"
+  },
+  {
+    "id": "960107",
+    "regency_id": "9601",
+    "name": "SAYOSA"
+  },
+  {
+    "id": "960108",
+    "regency_id": "9601",
+    "name": "SEGUN"
+  },
+  {
+    "id": "960109",
+    "regency_id": "9601",
+    "name": "MAYAMUK"
+  },
+  {
+    "id": "960110",
+    "regency_id": "9601",
+    "name": "SALAWATI SELATAN"
+  },
+  {
+    "id": "960111",
+    "regency_id": "9601",
+    "name": "KLABOT"
+  },
+  {
+    "id": "960112",
+    "regency_id": "9601",
+    "name": "KLAWAK"
+  },
+  {
+    "id": "960113",
+    "regency_id": "9601",
+    "name": "MAUDUS"
+  },
+  {
+    "id": "960114",
+    "regency_id": "9601",
+    "name": "MARIAT"
+  },
+  {
+    "id": "960115",
+    "regency_id": "9601",
+    "name": "KLAYILI"
+  },
+  {
+    "id": "960116",
+    "regency_id": "9601",
+    "name": "KLASO"
+  },
+  {
+    "id": "960117",
+    "regency_id": "9601",
+    "name": "MOISEGEN"
+  },
+  {
+    "id": "960118",
+    "regency_id": "9601",
+    "name": "SORONG"
+  },
+  {
+    "id": "960119",
+    "regency_id": "9601",
+    "name": "BAGUN"
+  },
+  {
+    "id": "960120",
+    "regency_id": "9601",
+    "name": "WEMAK"
+  },
+  {
+    "id": "960121",
+    "regency_id": "9601",
+    "name": "SUNOOK"
+  },
+  {
+    "id": "960122",
+    "regency_id": "9601",
+    "name": "BUK"
+  },
+  {
+    "id": "960123",
+    "regency_id": "9601",
+    "name": "SAENGKEDUK"
+  },
+  {
+    "id": "960124",
+    "regency_id": "9601",
+    "name": "MALABOTOM"
+  },
+  {
+    "id": "960125",
+    "regency_id": "9601",
+    "name": "KONHIR"
+  },
+  {
+    "id": "960126",
+    "regency_id": "9601",
+    "name": "KLASAFET"
+  },
+  {
+    "id": "960127",
+    "regency_id": "9601",
+    "name": "HOBARD"
+  },
+  {
+    "id": "960128",
+    "regency_id": "9601",
+    "name": "SALAWATI TENGAH"
+  },
+  {
+    "id": "960129",
+    "regency_id": "9601",
+    "name": "BOTAIN"
+  },
+  {
+    "id": "960130",
+    "regency_id": "9601",
+    "name": "SAYOSA TIMUR"
+  }
+]

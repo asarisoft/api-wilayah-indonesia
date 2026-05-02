@@ -1,1 +1,52 @@
-[{"id": "7204092005", "district_id": "720409", "name": "SANTIGI"}, {"id": "7204092006", "district_id": "720409", "name": "LAULALANG"}, {"id": "7204092007", "district_id": "720409", "name": "SALUMPAGA"}, {"id": "7204092008", "district_id": "720409", "name": "DIULE"}, {"id": "7204092009", "district_id": "720409", "name": "PINJAN"}, {"id": "7204092010", "district_id": "720409", "name": "BINONTOAN"}, {"id": "7204092011", "district_id": "720409", "name": "LAKUAN TOLITOLI"}, {"id": "7204092012", "district_id": "720409", "name": "TIMBOLO"}, {"id": "7204092013", "district_id": "720409", "name": "TELUK JAYA"}, {"id": "7204092014", "district_id": "720409", "name": "GIO"}]
+[
+  {
+    "id": "7204092005",
+    "district_id": "720409",
+    "name": "SANTIGI"
+  },
+  {
+    "id": "7204092006",
+    "district_id": "720409",
+    "name": "LAULALANG"
+  },
+  {
+    "id": "7204092007",
+    "district_id": "720409",
+    "name": "SALUMPAGA"
+  },
+  {
+    "id": "7204092008",
+    "district_id": "720409",
+    "name": "DIULE"
+  },
+  {
+    "id": "7204092009",
+    "district_id": "720409",
+    "name": "PINJAN"
+  },
+  {
+    "id": "7204092010",
+    "district_id": "720409",
+    "name": "BINONTOAN"
+  },
+  {
+    "id": "7204092011",
+    "district_id": "720409",
+    "name": "LAKUAN TOLITOLI"
+  },
+  {
+    "id": "7204092012",
+    "district_id": "720409",
+    "name": "TIMBOLO"
+  },
+  {
+    "id": "7204092013",
+    "district_id": "720409",
+    "name": "TELUK JAYA"
+  },
+  {
+    "id": "7204092014",
+    "district_id": "720409",
+    "name": "GIO"
+  }
+]

@@ -1,1 +1,97 @@
-[{"id": "3308152001", "district_id": "330815", "name": "SUROJOYO"}, {"id": "3308152002", "district_id": "330815", "name": "TEMPAK"}, {"id": "3308152003", "district_id": "330815", "name": "SIDOMULYO"}, {"id": "3308152004", "district_id": "330815", "name": "MEJING"}, {"id": "3308152005", "district_id": "330815", "name": "PURWOREJO"}, {"id": "3308152006", "district_id": "330815", "name": "CANDIMULYO"}, {"id": "3308152007", "district_id": "330815", "name": "GIYANTI"}, {"id": "3308152008", "district_id": "330815", "name": "KEMBARAN"}, {"id": "3308152009", "district_id": "330815", "name": "TEGALSARI"}, {"id": "3308152010", "district_id": "330815", "name": "PODOSOKO"}, {"id": "3308152011", "district_id": "330815", "name": "TAMPIRKULON"}, {"id": "3308152012", "district_id": "330815", "name": "TEMPURSARI"}, {"id": "3308152013", "district_id": "330815", "name": "KEBONREJO"}, {"id": "3308152014", "district_id": "330815", "name": "TAMPIRWETAN"}, {"id": "3308152015", "district_id": "330815", "name": "TEMBELANG"}, {"id": "3308152016", "district_id": "330815", "name": "SONOREJO"}, {"id": "3308152017", "district_id": "330815", "name": "TRENTEN"}, {"id": "3308152018", "district_id": "330815", "name": "BATEH"}, {"id": "3308152019", "district_id": "330815", "name": "SURODADI"}]
+[
+  {
+    "id": "3308152001",
+    "district_id": "330815",
+    "name": "SUROJOYO"
+  },
+  {
+    "id": "3308152002",
+    "district_id": "330815",
+    "name": "TEMPAK"
+  },
+  {
+    "id": "3308152003",
+    "district_id": "330815",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3308152004",
+    "district_id": "330815",
+    "name": "MEJING"
+  },
+  {
+    "id": "3308152005",
+    "district_id": "330815",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3308152006",
+    "district_id": "330815",
+    "name": "CANDIMULYO"
+  },
+  {
+    "id": "3308152007",
+    "district_id": "330815",
+    "name": "GIYANTI"
+  },
+  {
+    "id": "3308152008",
+    "district_id": "330815",
+    "name": "KEMBARAN"
+  },
+  {
+    "id": "3308152009",
+    "district_id": "330815",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3308152010",
+    "district_id": "330815",
+    "name": "PODOSOKO"
+  },
+  {
+    "id": "3308152011",
+    "district_id": "330815",
+    "name": "TAMPIRKULON"
+  },
+  {
+    "id": "3308152012",
+    "district_id": "330815",
+    "name": "TEMPURSARI"
+  },
+  {
+    "id": "3308152013",
+    "district_id": "330815",
+    "name": "KEBONREJO"
+  },
+  {
+    "id": "3308152014",
+    "district_id": "330815",
+    "name": "TAMPIRWETAN"
+  },
+  {
+    "id": "3308152015",
+    "district_id": "330815",
+    "name": "TEMBELANG"
+  },
+  {
+    "id": "3308152016",
+    "district_id": "330815",
+    "name": "SONOREJO"
+  },
+  {
+    "id": "3308152017",
+    "district_id": "330815",
+    "name": "TRENTEN"
+  },
+  {
+    "id": "3308152018",
+    "district_id": "330815",
+    "name": "BATEH"
+  },
+  {
+    "id": "3308152019",
+    "district_id": "330815",
+    "name": "SURODADI"
+  }
+]

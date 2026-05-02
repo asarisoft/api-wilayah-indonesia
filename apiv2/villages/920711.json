@@ -1,1 +1,17 @@
-[{"id": "9207112001", "district_id": "920711", "name": "WAPRAK"}, {"id": "9207112002", "district_id": "920711", "name": "YOMBER"}, {"id": "9207112003", "district_id": "920711", "name": "SYEIWAR"}]
+[
+  {
+    "id": "9207112001",
+    "district_id": "920711",
+    "name": "WAPRAK"
+  },
+  {
+    "id": "9207112002",
+    "district_id": "920711",
+    "name": "YOMBER"
+  },
+  {
+    "id": "9207112003",
+    "district_id": "920711",
+    "name": "SYEIWAR"
+  }
+]

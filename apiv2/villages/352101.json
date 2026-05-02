@@ -1,1 +1,77 @@
-[{"id": "3521012001", "district_id": "352101", "name": "WONOSARI"}, {"id": "3521012002", "district_id": "352101", "name": "PANDANSARI"}, {"id": "3521012003", "district_id": "352101", "name": "GIRIKERTO"}, {"id": "3521012004", "district_id": "352101", "name": "NGRENDENG"}, {"id": "3521012005", "district_id": "352101", "name": "HARGOSARI"}, {"id": "3521012006", "district_id": "352101", "name": "POCOL"}, {"id": "3521012007", "district_id": "352101", "name": "GENDOL"}, {"id": "3521012008", "district_id": "352101", "name": "SINE"}, {"id": "3521012009", "district_id": "352101", "name": "SUMBEREJO"}, {"id": "3521012010", "district_id": "352101", "name": "SUMBERSARI"}, {"id": "3521012011", "district_id": "352101", "name": "KUNIRAN"}, {"id": "3521012012", "district_id": "352101", "name": "TULAKAN"}, {"id": "3521012013", "district_id": "352101", "name": "KETANGGUNG"}, {"id": "3521012014", "district_id": "352101", "name": "JAGIR"}, {"id": "3521012015", "district_id": "352101", "name": "KAUMAN"}]
+[
+  {
+    "id": "3521012001",
+    "district_id": "352101",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3521012002",
+    "district_id": "352101",
+    "name": "PANDANSARI"
+  },
+  {
+    "id": "3521012003",
+    "district_id": "352101",
+    "name": "GIRIKERTO"
+  },
+  {
+    "id": "3521012004",
+    "district_id": "352101",
+    "name": "NGRENDENG"
+  },
+  {
+    "id": "3521012005",
+    "district_id": "352101",
+    "name": "HARGOSARI"
+  },
+  {
+    "id": "3521012006",
+    "district_id": "352101",
+    "name": "POCOL"
+  },
+  {
+    "id": "3521012007",
+    "district_id": "352101",
+    "name": "GENDOL"
+  },
+  {
+    "id": "3521012008",
+    "district_id": "352101",
+    "name": "SINE"
+  },
+  {
+    "id": "3521012009",
+    "district_id": "352101",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3521012010",
+    "district_id": "352101",
+    "name": "SUMBERSARI"
+  },
+  {
+    "id": "3521012011",
+    "district_id": "352101",
+    "name": "KUNIRAN"
+  },
+  {
+    "id": "3521012012",
+    "district_id": "352101",
+    "name": "TULAKAN"
+  },
+  {
+    "id": "3521012013",
+    "district_id": "352101",
+    "name": "KETANGGUNG"
+  },
+  {
+    "id": "3521012014",
+    "district_id": "352101",
+    "name": "JAGIR"
+  },
+  {
+    "id": "3521012015",
+    "district_id": "352101",
+    "name": "KAUMAN"
+  }
+]

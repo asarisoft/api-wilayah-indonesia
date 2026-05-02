@@ -1,1 +1,77 @@
-[{"id": "7371071001", "district_id": "737107", "name": "PANNAMPU"}, {"id": "7371071002", "district_id": "737107", "name": "KALUKUANG"}, {"id": "7371071003", "district_id": "737107", "name": "KALUKU BODOA"}, {"id": "7371071004", "district_id": "737107", "name": "RAPPOJAWA"}, {"id": "7371071005", "district_id": "737107", "name": "RAPPOKALLING"}, {"id": "7371071006", "district_id": "737107", "name": "LAKKANG"}, {"id": "7371071007", "district_id": "737107", "name": "TALLO"}, {"id": "7371071008", "district_id": "737107", "name": "LA'LATANG"}, {"id": "7371071009", "district_id": "737107", "name": "WALA-WALAYA"}, {"id": "7371071010", "district_id": "737107", "name": "TAMMUA"}, {"id": "7371071011", "district_id": "737107", "name": "BULOA"}, {"id": "7371071012", "district_id": "737107", "name": "SUANGGA"}, {"id": "7371071013", "district_id": "737107", "name": "UJUNG PANDANG BARU"}, {"id": "7371071014", "district_id": "737107", "name": "LEMBO"}, {"id": "7371071015", "district_id": "737107", "name": "BUNGA EJA BERU"}]
+[
+  {
+    "id": "7371071001",
+    "district_id": "737107",
+    "name": "PANNAMPU"
+  },
+  {
+    "id": "7371071002",
+    "district_id": "737107",
+    "name": "KALUKUANG"
+  },
+  {
+    "id": "7371071003",
+    "district_id": "737107",
+    "name": "KALUKU BODOA"
+  },
+  {
+    "id": "7371071004",
+    "district_id": "737107",
+    "name": "RAPPOJAWA"
+  },
+  {
+    "id": "7371071005",
+    "district_id": "737107",
+    "name": "RAPPOKALLING"
+  },
+  {
+    "id": "7371071006",
+    "district_id": "737107",
+    "name": "LAKKANG"
+  },
+  {
+    "id": "7371071007",
+    "district_id": "737107",
+    "name": "TALLO"
+  },
+  {
+    "id": "7371071008",
+    "district_id": "737107",
+    "name": "LA'LATANG"
+  },
+  {
+    "id": "7371071009",
+    "district_id": "737107",
+    "name": "WALA-WALAYA"
+  },
+  {
+    "id": "7371071010",
+    "district_id": "737107",
+    "name": "TAMMUA"
+  },
+  {
+    "id": "7371071011",
+    "district_id": "737107",
+    "name": "BULOA"
+  },
+  {
+    "id": "7371071012",
+    "district_id": "737107",
+    "name": "SUANGGA"
+  },
+  {
+    "id": "7371071013",
+    "district_id": "737107",
+    "name": "UJUNG PANDANG BARU"
+  },
+  {
+    "id": "7371071014",
+    "district_id": "737107",
+    "name": "LEMBO"
+  },
+  {
+    "id": "7371071015",
+    "district_id": "737107",
+    "name": "BUNGA EJA BERU"
+  }
+]

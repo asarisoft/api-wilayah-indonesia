@@ -1,1 +1,32 @@
-[{"id": "7318351001", "district_id": "731835", "name": "MALIMBONG"}, {"id": "7318352002", "district_id": "731835", "name": "LEPPAN"}, {"id": "7318352003", "district_id": "731835", "name": "KOLE SAWANGAN"}, {"id": "7318352004", "district_id": "731835", "name": "KOLE BAREBATU"}, {"id": "7318352005", "district_id": "731835", "name": "LEMO MENDURUK"}, {"id": "7318352006", "district_id": "731835", "name": "BALEPE'"}]
+[
+  {
+    "id": "7318351001",
+    "district_id": "731835",
+    "name": "MALIMBONG"
+  },
+  {
+    "id": "7318352002",
+    "district_id": "731835",
+    "name": "LEPPAN"
+  },
+  {
+    "id": "7318352003",
+    "district_id": "731835",
+    "name": "KOLE SAWANGAN"
+  },
+  {
+    "id": "7318352004",
+    "district_id": "731835",
+    "name": "KOLE BAREBATU"
+  },
+  {
+    "id": "7318352005",
+    "district_id": "731835",
+    "name": "LEMO MENDURUK"
+  },
+  {
+    "id": "7318352006",
+    "district_id": "731835",
+    "name": "BALEPE'"
+  }
+]

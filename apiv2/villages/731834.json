@@ -1,1 +1,32 @@
-[{"id": "7318341001", "district_id": "731834", "name": "LEATUNG"}, {"id": "7318341006", "district_id": "731834", "name": "BEBO'"}, {"id": "7318342002", "district_id": "731834", "name": "RANTELA'BI KAMBISA"}, {"id": "7318342003", "district_id": "731834", "name": "LEATUNG MATALLO"}, {"id": "7318342004", "district_id": "731834", "name": "SALUALLO"}, {"id": "7318342005", "district_id": "731834", "name": "TUMBANG DATU"}]
+[
+  {
+    "id": "7318341001",
+    "district_id": "731834",
+    "name": "LEATUNG"
+  },
+  {
+    "id": "7318341006",
+    "district_id": "731834",
+    "name": "BEBO'"
+  },
+  {
+    "id": "7318342002",
+    "district_id": "731834",
+    "name": "RANTELA'BI KAMBISA"
+  },
+  {
+    "id": "7318342003",
+    "district_id": "731834",
+    "name": "LEATUNG MATALLO"
+  },
+  {
+    "id": "7318342004",
+    "district_id": "731834",
+    "name": "SALUALLO"
+  },
+  {
+    "id": "7318342005",
+    "district_id": "731834",
+    "name": "TUMBANG DATU"
+  }
+]

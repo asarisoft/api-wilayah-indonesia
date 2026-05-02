@@ -1,1 +1,117 @@
-[{"id": "3326092001", "district_id": "332609", "name": "WINDUROJO"}, {"id": "3326092002", "district_id": "332609", "name": "UJUNGNEGORO"}, {"id": "3326092003", "district_id": "332609", "name": "BRONDONG"}, {"id": "3326092004", "district_id": "332609", "name": "PODOSARI"}, {"id": "3326092005", "district_id": "332609", "name": "LANGENSARI"}, {"id": "3326092006", "district_id": "332609", "name": "JAGUNG"}, {"id": "3326092007", "district_id": "332609", "name": "KWASEN"}, {"id": "3326092008", "district_id": "332609", "name": "KARYOMUKTI"}, {"id": "3326092009", "district_id": "332609", "name": "KESESI"}, {"id": "3326092010", "district_id": "332609", "name": "SRINAHAN"}, {"id": "3326092011", "district_id": "332609", "name": "KAIBAHAN"}, {"id": "3326092012", "district_id": "332609", "name": "KARANGREJO"}, {"id": "3326092013", "district_id": "332609", "name": "WATUGAJAH"}, {"id": "3326092014", "district_id": "332609", "name": "WATUPAYUNG"}, {"id": "3326092015", "district_id": "332609", "name": "KRANDON"}, {"id": "3326092016", "district_id": "332609", "name": "PONOLAWEN"}, {"id": "3326092017", "district_id": "332609", "name": "KALIMADE"}, {"id": "3326092018", "district_id": "332609", "name": "SIDOMULYO"}, {"id": "3326092019", "district_id": "332609", "name": "SIDOSARI"}, {"id": "3326092020", "district_id": "332609", "name": "MULYOREJO"}, {"id": "3326092021", "district_id": "332609", "name": "PANTIREJO"}, {"id": "3326092022", "district_id": "332609", "name": "KWIGARAN"}, {"id": "3326092023", "district_id": "332609", "name": "SUKOREJO"}]
+[
+  {
+    "id": "3326092001",
+    "district_id": "332609",
+    "name": "WINDUROJO"
+  },
+  {
+    "id": "3326092002",
+    "district_id": "332609",
+    "name": "UJUNGNEGORO"
+  },
+  {
+    "id": "3326092003",
+    "district_id": "332609",
+    "name": "BRONDONG"
+  },
+  {
+    "id": "3326092004",
+    "district_id": "332609",
+    "name": "PODOSARI"
+  },
+  {
+    "id": "3326092005",
+    "district_id": "332609",
+    "name": "LANGENSARI"
+  },
+  {
+    "id": "3326092006",
+    "district_id": "332609",
+    "name": "JAGUNG"
+  },
+  {
+    "id": "3326092007",
+    "district_id": "332609",
+    "name": "KWASEN"
+  },
+  {
+    "id": "3326092008",
+    "district_id": "332609",
+    "name": "KARYOMUKTI"
+  },
+  {
+    "id": "3326092009",
+    "district_id": "332609",
+    "name": "KESESI"
+  },
+  {
+    "id": "3326092010",
+    "district_id": "332609",
+    "name": "SRINAHAN"
+  },
+  {
+    "id": "3326092011",
+    "district_id": "332609",
+    "name": "KAIBAHAN"
+  },
+  {
+    "id": "3326092012",
+    "district_id": "332609",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3326092013",
+    "district_id": "332609",
+    "name": "WATUGAJAH"
+  },
+  {
+    "id": "3326092014",
+    "district_id": "332609",
+    "name": "WATUPAYUNG"
+  },
+  {
+    "id": "3326092015",
+    "district_id": "332609",
+    "name": "KRANDON"
+  },
+  {
+    "id": "3326092016",
+    "district_id": "332609",
+    "name": "PONOLAWEN"
+  },
+  {
+    "id": "3326092017",
+    "district_id": "332609",
+    "name": "KALIMADE"
+  },
+  {
+    "id": "3326092018",
+    "district_id": "332609",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3326092019",
+    "district_id": "332609",
+    "name": "SIDOSARI"
+  },
+  {
+    "id": "3326092020",
+    "district_id": "332609",
+    "name": "MULYOREJO"
+  },
+  {
+    "id": "3326092021",
+    "district_id": "332609",
+    "name": "PANTIREJO"
+  },
+  {
+    "id": "3326092022",
+    "district_id": "332609",
+    "name": "KWIGARAN"
+  },
+  {
+    "id": "3326092023",
+    "district_id": "332609",
+    "name": "SUKOREJO"
+  }
+]

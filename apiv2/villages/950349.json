@@ -1,1 +1,37 @@
-[{"id": "9503492001", "district_id": "950349", "name": "YOGOSEM"}, {"id": "9503492002", "district_id": "950349", "name": "KIROMA"}, {"id": "9503492003", "district_id": "950349", "name": "SOGASIO"}, {"id": "9503492004", "district_id": "950349", "name": "SAIKAMA"}, {"id": "9503492005", "district_id": "950349", "name": "HOKOLEKMA"}, {"id": "9503492006", "district_id": "950349", "name": "ESAHAPUK"}, {"id": "9503492007", "district_id": "950349", "name": "MESAHAPUT"}]
+[
+  {
+    "id": "9503492001",
+    "district_id": "950349",
+    "name": "YOGOSEM"
+  },
+  {
+    "id": "9503492002",
+    "district_id": "950349",
+    "name": "KIROMA"
+  },
+  {
+    "id": "9503492003",
+    "district_id": "950349",
+    "name": "SOGASIO"
+  },
+  {
+    "id": "9503492004",
+    "district_id": "950349",
+    "name": "SAIKAMA"
+  },
+  {
+    "id": "9503492005",
+    "district_id": "950349",
+    "name": "HOKOLEKMA"
+  },
+  {
+    "id": "9503492006",
+    "district_id": "950349",
+    "name": "ESAHAPUK"
+  },
+  {
+    "id": "9503492007",
+    "district_id": "950349",
+    "name": "MESAHAPUT"
+  }
+]

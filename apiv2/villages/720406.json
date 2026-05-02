@@ -1,1 +1,47 @@
-[{"id": "7204062001", "district_id": "720406", "name": "JANJA"}, {"id": "7204062002", "district_id": "720406", "name": "OYOM"}, {"id": "7204062003", "district_id": "720406", "name": "SALUGAN"}, {"id": "7204062004", "district_id": "720406", "name": "LAMPASIO"}, {"id": "7204062005", "district_id": "720406", "name": "TINADING"}, {"id": "7204062006", "district_id": "720406", "name": "SIBEA"}, {"id": "7204062007", "district_id": "720406", "name": "MAIBUA"}, {"id": "7204062008", "district_id": "720406", "name": "MULYA SARI"}, {"id": "7204062009", "district_id": "720406", "name": "OGOMATANANG"}]
+[
+  {
+    "id": "7204062001",
+    "district_id": "720406",
+    "name": "JANJA"
+  },
+  {
+    "id": "7204062002",
+    "district_id": "720406",
+    "name": "OYOM"
+  },
+  {
+    "id": "7204062003",
+    "district_id": "720406",
+    "name": "SALUGAN"
+  },
+  {
+    "id": "7204062004",
+    "district_id": "720406",
+    "name": "LAMPASIO"
+  },
+  {
+    "id": "7204062005",
+    "district_id": "720406",
+    "name": "TINADING"
+  },
+  {
+    "id": "7204062006",
+    "district_id": "720406",
+    "name": "SIBEA"
+  },
+  {
+    "id": "7204062007",
+    "district_id": "720406",
+    "name": "MAIBUA"
+  },
+  {
+    "id": "7204062008",
+    "district_id": "720406",
+    "name": "MULYA SARI"
+  },
+  {
+    "id": "7204062009",
+    "district_id": "720406",
+    "name": "OGOMATANANG"
+  }
+]

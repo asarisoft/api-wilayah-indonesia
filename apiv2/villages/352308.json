@@ -1,1 +1,87 @@
-[{"id": "3523082001", "district_id": "352308", "name": "GEMULUNG"}, {"id": "3523082002", "district_id": "352308", "name": "SIDONGANTI"}, {"id": "3523082003", "district_id": "352308", "name": "TRANTANG"}, {"id": "3523082004", "district_id": "352308", "name": "WOLUTENGAH"}, {"id": "3523082005", "district_id": "352308", "name": "TENGGERWETAN"}, {"id": "3523082006", "district_id": "352308", "name": "GAJI"}, {"id": "3523082007", "district_id": "352308", "name": "HARGORETNO"}, {"id": "3523082008", "district_id": "352308", "name": "MARGOREJO"}, {"id": "3523082009", "district_id": "352308", "name": "KEDUNGREJO"}, {"id": "3523082010", "district_id": "352308", "name": "JAROREJO"}, {"id": "3523082011", "district_id": "352308", "name": "MLIWANG"}, {"id": "3523082012", "district_id": "352308", "name": "KASIMAN"}, {"id": "3523082013", "district_id": "352308", "name": "MARGOMULYO"}, {"id": "3523082014", "district_id": "352308", "name": "TEMAYANG"}, {"id": "3523082015", "district_id": "352308", "name": "SUMBERARUM"}, {"id": "3523082016", "district_id": "352308", "name": "KARANGLO"}, {"id": "3523082017", "district_id": "352308", "name": "PADASAN"}]
+[
+  {
+    "id": "3523082001",
+    "district_id": "352308",
+    "name": "GEMULUNG"
+  },
+  {
+    "id": "3523082002",
+    "district_id": "352308",
+    "name": "SIDONGANTI"
+  },
+  {
+    "id": "3523082003",
+    "district_id": "352308",
+    "name": "TRANTANG"
+  },
+  {
+    "id": "3523082004",
+    "district_id": "352308",
+    "name": "WOLUTENGAH"
+  },
+  {
+    "id": "3523082005",
+    "district_id": "352308",
+    "name": "TENGGERWETAN"
+  },
+  {
+    "id": "3523082006",
+    "district_id": "352308",
+    "name": "GAJI"
+  },
+  {
+    "id": "3523082007",
+    "district_id": "352308",
+    "name": "HARGORETNO"
+  },
+  {
+    "id": "3523082008",
+    "district_id": "352308",
+    "name": "MARGOREJO"
+  },
+  {
+    "id": "3523082009",
+    "district_id": "352308",
+    "name": "KEDUNGREJO"
+  },
+  {
+    "id": "3523082010",
+    "district_id": "352308",
+    "name": "JAROREJO"
+  },
+  {
+    "id": "3523082011",
+    "district_id": "352308",
+    "name": "MLIWANG"
+  },
+  {
+    "id": "3523082012",
+    "district_id": "352308",
+    "name": "KASIMAN"
+  },
+  {
+    "id": "3523082013",
+    "district_id": "352308",
+    "name": "MARGOMULYO"
+  },
+  {
+    "id": "3523082014",
+    "district_id": "352308",
+    "name": "TEMAYANG"
+  },
+  {
+    "id": "3523082015",
+    "district_id": "352308",
+    "name": "SUMBERARUM"
+  },
+  {
+    "id": "3523082016",
+    "district_id": "352308",
+    "name": "KARANGLO"
+  },
+  {
+    "id": "3523082017",
+    "district_id": "352308",
+    "name": "PADASAN"
+  }
+]

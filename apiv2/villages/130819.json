@@ -1,1 +1,32 @@
-[{"id": "1308192001", "district_id": "130819", "name": "LANSEK KADOK"}, {"id": "1308192002", "district_id": "130819", "name": "LUBUAK LAYANG"}, {"id": "1308192003", "district_id": "130819", "name": "TANJUNG BETUNG"}, {"id": "1308192004", "district_id": "130819", "name": "LANSEK KADOK BARAT"}, {"id": "1308192005", "district_id": "130819", "name": "TANJUNG BETUNG UTARA"}, {"id": "1308192006", "district_id": "130819", "name": "TANJUNG BETUNG TIMUR"}]
+[
+  {
+    "id": "1308192001",
+    "district_id": "130819",
+    "name": "LANSEK KADOK"
+  },
+  {
+    "id": "1308192002",
+    "district_id": "130819",
+    "name": "LUBUAK LAYANG"
+  },
+  {
+    "id": "1308192003",
+    "district_id": "130819",
+    "name": "TANJUNG BETUNG"
+  },
+  {
+    "id": "1308192004",
+    "district_id": "130819",
+    "name": "LANSEK KADOK BARAT"
+  },
+  {
+    "id": "1308192005",
+    "district_id": "130819",
+    "name": "TANJUNG BETUNG UTARA"
+  },
+  {
+    "id": "1308192006",
+    "district_id": "130819",
+    "name": "TANJUNG BETUNG TIMUR"
+  }
+]

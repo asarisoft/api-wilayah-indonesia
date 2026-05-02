@@ -1,1 +1,42 @@
-[{"id": "9503222001", "district_id": "950322", "name": "NIPSAN"}, {"id": "9503222002", "district_id": "950322", "name": "TAPLA"}, {"id": "9503222003", "district_id": "950322", "name": "WALMAK"}, {"id": "9503222004", "district_id": "950322", "name": "SERENGON"}, {"id": "9503222005", "district_id": "950322", "name": "IKMU"}, {"id": "9503222006", "district_id": "950322", "name": "BIU"}, {"id": "9503222007", "district_id": "950322", "name": "ILUKDAMON"}, {"id": "9503222008", "district_id": "950322", "name": "YALMUN"}]
+[
+  {
+    "id": "9503222001",
+    "district_id": "950322",
+    "name": "NIPSAN"
+  },
+  {
+    "id": "9503222002",
+    "district_id": "950322",
+    "name": "TAPLA"
+  },
+  {
+    "id": "9503222003",
+    "district_id": "950322",
+    "name": "WALMAK"
+  },
+  {
+    "id": "9503222004",
+    "district_id": "950322",
+    "name": "SERENGON"
+  },
+  {
+    "id": "9503222005",
+    "district_id": "950322",
+    "name": "IKMU"
+  },
+  {
+    "id": "9503222006",
+    "district_id": "950322",
+    "name": "BIU"
+  },
+  {
+    "id": "9503222007",
+    "district_id": "950322",
+    "name": "ILUKDAMON"
+  },
+  {
+    "id": "9503222008",
+    "district_id": "950322",
+    "name": "YALMUN"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "520701", "regency_id": "5207", "name": "JEREWEH"}, {"id": "520702", "regency_id": "5207", "name": "TALIWANG"}, {"id": "520703", "regency_id": "5207", "name": "SETELUK"}, {"id": "520704", "regency_id": "5207", "name": "SEKONGKANG"}, {"id": "520705", "regency_id": "5207", "name": "BRANG REA"}, {"id": "520706", "regency_id": "5207", "name": "POTO TANO"}, {"id": "520707", "regency_id": "5207", "name": "BRANG ENE"}, {"id": "520708", "regency_id": "5207", "name": "MALUK"}]
+[
+  {
+    "id": "520701",
+    "regency_id": "5207",
+    "name": "JEREWEH"
+  },
+  {
+    "id": "520702",
+    "regency_id": "5207",
+    "name": "TALIWANG"
+  },
+  {
+    "id": "520703",
+    "regency_id": "5207",
+    "name": "SETELUK"
+  },
+  {
+    "id": "520704",
+    "regency_id": "5207",
+    "name": "SEKONGKANG"
+  },
+  {
+    "id": "520705",
+    "regency_id": "5207",
+    "name": "BRANG REA"
+  },
+  {
+    "id": "520706",
+    "regency_id": "5207",
+    "name": "POTO TANO"
+  },
+  {
+    "id": "520707",
+    "regency_id": "5207",
+    "name": "BRANG ENE"
+  },
+  {
+    "id": "520708",
+    "regency_id": "5207",
+    "name": "MALUK"
+  }
+]

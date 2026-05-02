@@ -1,1 +1,82 @@
-[{"id": "5105012001", "district_id": "510501", "name": "SAKTI"}, {"id": "5105012002", "district_id": "510501", "name": "BATUMADEG"}, {"id": "5105012003", "district_id": "510501", "name": "KLUMPU"}, {"id": "5105012004", "district_id": "510501", "name": "BATUKANDIK"}, {"id": "5105012005", "district_id": "510501", "name": "SEKARTAJI"}, {"id": "5105012006", "district_id": "510501", "name": "TANGLAD"}, {"id": "5105012007", "district_id": "510501", "name": "SUANA"}, {"id": "5105012008", "district_id": "510501", "name": "BATUNUNGGUL"}, {"id": "5105012009", "district_id": "510501", "name": "KUTAMPI"}, {"id": "5105012010", "district_id": "510501", "name": "PED"}, {"id": "5105012011", "district_id": "510501", "name": "KAMPUNG TOYAPAKEH"}, {"id": "5105012012", "district_id": "510501", "name": "LEMBONGAN"}, {"id": "5105012013", "district_id": "510501", "name": "JUNGUTBATU"}, {"id": "5105012014", "district_id": "510501", "name": "PEJUKUTAN"}, {"id": "5105012015", "district_id": "510501", "name": "KUTAMPI KALER"}, {"id": "5105012016", "district_id": "510501", "name": "BUNGA MEKAR"}]
+[
+  {
+    "id": "5105012001",
+    "district_id": "510501",
+    "name": "SAKTI"
+  },
+  {
+    "id": "5105012002",
+    "district_id": "510501",
+    "name": "BATUMADEG"
+  },
+  {
+    "id": "5105012003",
+    "district_id": "510501",
+    "name": "KLUMPU"
+  },
+  {
+    "id": "5105012004",
+    "district_id": "510501",
+    "name": "BATUKANDIK"
+  },
+  {
+    "id": "5105012005",
+    "district_id": "510501",
+    "name": "SEKARTAJI"
+  },
+  {
+    "id": "5105012006",
+    "district_id": "510501",
+    "name": "TANGLAD"
+  },
+  {
+    "id": "5105012007",
+    "district_id": "510501",
+    "name": "SUANA"
+  },
+  {
+    "id": "5105012008",
+    "district_id": "510501",
+    "name": "BATUNUNGGUL"
+  },
+  {
+    "id": "5105012009",
+    "district_id": "510501",
+    "name": "KUTAMPI"
+  },
+  {
+    "id": "5105012010",
+    "district_id": "510501",
+    "name": "PED"
+  },
+  {
+    "id": "5105012011",
+    "district_id": "510501",
+    "name": "KAMPUNG TOYAPAKEH"
+  },
+  {
+    "id": "5105012012",
+    "district_id": "510501",
+    "name": "LEMBONGAN"
+  },
+  {
+    "id": "5105012013",
+    "district_id": "510501",
+    "name": "JUNGUTBATU"
+  },
+  {
+    "id": "5105012014",
+    "district_id": "510501",
+    "name": "PEJUKUTAN"
+  },
+  {
+    "id": "5105012015",
+    "district_id": "510501",
+    "name": "KUTAMPI KALER"
+  },
+  {
+    "id": "5105012016",
+    "district_id": "510501",
+    "name": "BUNGA MEKAR"
+  }
+]

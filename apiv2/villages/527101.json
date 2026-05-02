@@ -1,1 +1,52 @@
-[{"id": "5271011004", "district_id": "527101", "name": "AMPENAN SELATAN"}, {"id": "5271011005", "district_id": "527101", "name": "AMPENAN TENGAH"}, {"id": "5271011006", "district_id": "527101", "name": "PEJERUK"}, {"id": "5271011007", "district_id": "527101", "name": "AMPENAN UTARA"}, {"id": "5271011008", "district_id": "527101", "name": "TAMAN SARI"}, {"id": "5271011009", "district_id": "527101", "name": "BANJAR"}, {"id": "5271011010", "district_id": "527101", "name": "KEBUN SARI"}, {"id": "5271011011", "district_id": "527101", "name": "PEJARAKAN KARYA"}, {"id": "5271011012", "district_id": "527101", "name": "DAYAN PEKEN"}, {"id": "5271011013", "district_id": "527101", "name": "BINTARO"}]
+[
+  {
+    "id": "5271011004",
+    "district_id": "527101",
+    "name": "AMPENAN SELATAN"
+  },
+  {
+    "id": "5271011005",
+    "district_id": "527101",
+    "name": "AMPENAN TENGAH"
+  },
+  {
+    "id": "5271011006",
+    "district_id": "527101",
+    "name": "PEJERUK"
+  },
+  {
+    "id": "5271011007",
+    "district_id": "527101",
+    "name": "AMPENAN UTARA"
+  },
+  {
+    "id": "5271011008",
+    "district_id": "527101",
+    "name": "TAMAN SARI"
+  },
+  {
+    "id": "5271011009",
+    "district_id": "527101",
+    "name": "BANJAR"
+  },
+  {
+    "id": "5271011010",
+    "district_id": "527101",
+    "name": "KEBUN SARI"
+  },
+  {
+    "id": "5271011011",
+    "district_id": "527101",
+    "name": "PEJARAKAN KARYA"
+  },
+  {
+    "id": "5271011012",
+    "district_id": "527101",
+    "name": "DAYAN PEKEN"
+  },
+  {
+    "id": "5271011013",
+    "district_id": "527101",
+    "name": "BINTARO"
+  }
+]

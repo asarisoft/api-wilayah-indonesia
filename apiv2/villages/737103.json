@@ -1,1 +1,72 @@
-[{"id": "7371031001", "district_id": "737103", "name": "MARICAYA"}, {"id": "7371031002", "district_id": "737103", "name": "BARA BARAYA"}, {"id": "7371031003", "district_id": "737103", "name": "MARADEKAYA"}, {"id": "7371031004", "district_id": "737103", "name": "LARIANGBANGI"}, {"id": "7371031005", "district_id": "737103", "name": "MACCINI"}, {"id": "7371031006", "district_id": "737103", "name": "MARICAYA BARU"}, {"id": "7371031007", "district_id": "737103", "name": "BARA BARAYA TIMUR"}, {"id": "7371031008", "district_id": "737103", "name": "BARA BARAYA SELATAN"}, {"id": "7371031009", "district_id": "737103", "name": "MARADEKAYA SELATAN"}, {"id": "7371031010", "district_id": "737103", "name": "BARANA"}, {"id": "7371031011", "district_id": "737103", "name": "MACCINI PARANG"}, {"id": "7371031012", "district_id": "737103", "name": "MACCINI GUSUNG"}, {"id": "7371031013", "district_id": "737103", "name": "MARADEKAYA UTARA"}, {"id": "7371031014", "district_id": "737103", "name": "BARA BARAYA UTARA"}]
+[
+  {
+    "id": "7371031001",
+    "district_id": "737103",
+    "name": "MARICAYA"
+  },
+  {
+    "id": "7371031002",
+    "district_id": "737103",
+    "name": "BARA BARAYA"
+  },
+  {
+    "id": "7371031003",
+    "district_id": "737103",
+    "name": "MARADEKAYA"
+  },
+  {
+    "id": "7371031004",
+    "district_id": "737103",
+    "name": "LARIANGBANGI"
+  },
+  {
+    "id": "7371031005",
+    "district_id": "737103",
+    "name": "MACCINI"
+  },
+  {
+    "id": "7371031006",
+    "district_id": "737103",
+    "name": "MARICAYA BARU"
+  },
+  {
+    "id": "7371031007",
+    "district_id": "737103",
+    "name": "BARA BARAYA TIMUR"
+  },
+  {
+    "id": "7371031008",
+    "district_id": "737103",
+    "name": "BARA BARAYA SELATAN"
+  },
+  {
+    "id": "7371031009",
+    "district_id": "737103",
+    "name": "MARADEKAYA SELATAN"
+  },
+  {
+    "id": "7371031010",
+    "district_id": "737103",
+    "name": "BARANA"
+  },
+  {
+    "id": "7371031011",
+    "district_id": "737103",
+    "name": "MACCINI PARANG"
+  },
+  {
+    "id": "7371031012",
+    "district_id": "737103",
+    "name": "MACCINI GUSUNG"
+  },
+  {
+    "id": "7371031013",
+    "district_id": "737103",
+    "name": "MARADEKAYA UTARA"
+  },
+  {
+    "id": "7371031014",
+    "district_id": "737103",
+    "name": "BARA BARAYA UTARA"
+  }
+]

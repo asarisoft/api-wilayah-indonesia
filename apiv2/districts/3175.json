@@ -1,1 +1,52 @@
-[{"id": "317501", "regency_id": "3175", "name": "MATRAMAN"}, {"id": "317502", "regency_id": "3175", "name": "PULOGADUNG"}, {"id": "317503", "regency_id": "3175", "name": "JATINEGARA"}, {"id": "317504", "regency_id": "3175", "name": "KRAMATJATI"}, {"id": "317505", "regency_id": "3175", "name": "PASAR REBO"}, {"id": "317506", "regency_id": "3175", "name": "CAKUNG"}, {"id": "317507", "regency_id": "3175", "name": "DUREN SAWIT"}, {"id": "317508", "regency_id": "3175", "name": "MAKASAR"}, {"id": "317509", "regency_id": "3175", "name": "CIRACAS"}, {"id": "317510", "regency_id": "3175", "name": "CIPAYUNG"}]
+[
+  {
+    "id": "317501",
+    "regency_id": "3175",
+    "name": "MATRAMAN"
+  },
+  {
+    "id": "317502",
+    "regency_id": "3175",
+    "name": "PULOGADUNG"
+  },
+  {
+    "id": "317503",
+    "regency_id": "3175",
+    "name": "JATINEGARA"
+  },
+  {
+    "id": "317504",
+    "regency_id": "3175",
+    "name": "KRAMATJATI"
+  },
+  {
+    "id": "317505",
+    "regency_id": "3175",
+    "name": "PASAR REBO"
+  },
+  {
+    "id": "317506",
+    "regency_id": "3175",
+    "name": "CAKUNG"
+  },
+  {
+    "id": "317507",
+    "regency_id": "3175",
+    "name": "DUREN SAWIT"
+  },
+  {
+    "id": "317508",
+    "regency_id": "3175",
+    "name": "MAKASAR"
+  },
+  {
+    "id": "317509",
+    "regency_id": "3175",
+    "name": "CIRACAS"
+  },
+  {
+    "id": "317510",
+    "regency_id": "3175",
+    "name": "CIPAYUNG"
+  }
+]

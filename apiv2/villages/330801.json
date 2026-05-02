@@ -1,1 +1,102 @@
-[{"id": "3308012001", "district_id": "330801", "name": "NGARGORETNO"}, {"id": "3308012002", "district_id": "330801", "name": "PARIPURNO"}, {"id": "3308012003", "district_id": "330801", "name": "KALIREJO"}, {"id": "3308012004", "district_id": "330801", "name": "MENOREH"}, {"id": "3308012005", "district_id": "330801", "name": "NGADIREJO"}, {"id": "3308012006", "district_id": "330801", "name": "SIDOMULYO"}, {"id": "3308012007", "district_id": "330801", "name": "KEBONREJO"}, {"id": "3308012008", "district_id": "330801", "name": "SALAMAN"}, {"id": "3308012009", "district_id": "330801", "name": "KALISALAK"}, {"id": "3308012010", "district_id": "330801", "name": "SRIWEDARI"}, {"id": "3308012011", "district_id": "330801", "name": "JEBENGSARI"}, {"id": "3308012012", "district_id": "330801", "name": "TANJUNGANOM"}, {"id": "3308012013", "district_id": "330801", "name": "BANJARHARJO"}, {"id": "3308012014", "district_id": "330801", "name": "PURWOSARI"}, {"id": "3308012015", "district_id": "330801", "name": "NGAMPELDENTO"}, {"id": "3308012016", "district_id": "330801", "name": "SIDOSARI"}, {"id": "3308012017", "district_id": "330801", "name": "SAWANGARGO"}, {"id": "3308012018", "district_id": "330801", "name": "KRASAK"}, {"id": "3308012019", "district_id": "330801", "name": "MARGOYOSO"}, {"id": "3308012020", "district_id": "330801", "name": "KALIABU"}]
+[
+  {
+    "id": "3308012001",
+    "district_id": "330801",
+    "name": "NGARGORETNO"
+  },
+  {
+    "id": "3308012002",
+    "district_id": "330801",
+    "name": "PARIPURNO"
+  },
+  {
+    "id": "3308012003",
+    "district_id": "330801",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "3308012004",
+    "district_id": "330801",
+    "name": "MENOREH"
+  },
+  {
+    "id": "3308012005",
+    "district_id": "330801",
+    "name": "NGADIREJO"
+  },
+  {
+    "id": "3308012006",
+    "district_id": "330801",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3308012007",
+    "district_id": "330801",
+    "name": "KEBONREJO"
+  },
+  {
+    "id": "3308012008",
+    "district_id": "330801",
+    "name": "SALAMAN"
+  },
+  {
+    "id": "3308012009",
+    "district_id": "330801",
+    "name": "KALISALAK"
+  },
+  {
+    "id": "3308012010",
+    "district_id": "330801",
+    "name": "SRIWEDARI"
+  },
+  {
+    "id": "3308012011",
+    "district_id": "330801",
+    "name": "JEBENGSARI"
+  },
+  {
+    "id": "3308012012",
+    "district_id": "330801",
+    "name": "TANJUNGANOM"
+  },
+  {
+    "id": "3308012013",
+    "district_id": "330801",
+    "name": "BANJARHARJO"
+  },
+  {
+    "id": "3308012014",
+    "district_id": "330801",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "3308012015",
+    "district_id": "330801",
+    "name": "NGAMPELDENTO"
+  },
+  {
+    "id": "3308012016",
+    "district_id": "330801",
+    "name": "SIDOSARI"
+  },
+  {
+    "id": "3308012017",
+    "district_id": "330801",
+    "name": "SAWANGARGO"
+  },
+  {
+    "id": "3308012018",
+    "district_id": "330801",
+    "name": "KRASAK"
+  },
+  {
+    "id": "3308012019",
+    "district_id": "330801",
+    "name": "MARGOYOSO"
+  },
+  {
+    "id": "3308012020",
+    "district_id": "330801",
+    "name": "KALIABU"
+  }
+]

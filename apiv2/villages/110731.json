@@ -1,1 +1,67 @@
-[{"id": "1107312001", "district_id": "110731", "name": "LINGKOK"}, {"id": "1107312002", "district_id": "110731", "name": "PANTE KULU"}, {"id": "1107312003", "district_id": "110731", "name": "UKE"}, {"id": "1107312004", "district_id": "110731", "name": "PANTE SIREN"}, {"id": "1107312005", "district_id": "110731", "name": "PULO RAYA"}, {"id": "1107312006", "district_id": "110731", "name": "CUT"}, {"id": "1107312007", "district_id": "110731", "name": "DAYAH MEUNARA"}, {"id": "1107312008", "district_id": "110731", "name": "PALOH NALEUENG"}, {"id": "1107312009", "district_id": "110731", "name": "PULO LHOIH"}, {"id": "1107312010", "district_id": "110731", "name": "MESJID TONGPUDENG"}, {"id": "1107312011", "district_id": "110731", "name": "BLANG THO"}, {"id": "1107312012", "district_id": "110731", "name": "ASAN TONGPUDENG"}, {"id": "1107312013", "district_id": "110731", "name": "ALUE"}]
+[
+  {
+    "id": "1107312001",
+    "district_id": "110731",
+    "name": "LINGKOK"
+  },
+  {
+    "id": "1107312002",
+    "district_id": "110731",
+    "name": "PANTE KULU"
+  },
+  {
+    "id": "1107312003",
+    "district_id": "110731",
+    "name": "UKE"
+  },
+  {
+    "id": "1107312004",
+    "district_id": "110731",
+    "name": "PANTE SIREN"
+  },
+  {
+    "id": "1107312005",
+    "district_id": "110731",
+    "name": "PULO RAYA"
+  },
+  {
+    "id": "1107312006",
+    "district_id": "110731",
+    "name": "CUT"
+  },
+  {
+    "id": "1107312007",
+    "district_id": "110731",
+    "name": "DAYAH MEUNARA"
+  },
+  {
+    "id": "1107312008",
+    "district_id": "110731",
+    "name": "PALOH NALEUENG"
+  },
+  {
+    "id": "1107312009",
+    "district_id": "110731",
+    "name": "PULO LHOIH"
+  },
+  {
+    "id": "1107312010",
+    "district_id": "110731",
+    "name": "MESJID TONGPUDENG"
+  },
+  {
+    "id": "1107312011",
+    "district_id": "110731",
+    "name": "BLANG THO"
+  },
+  {
+    "id": "1107312012",
+    "district_id": "110731",
+    "name": "ASAN TONGPUDENG"
+  },
+  {
+    "id": "1107312013",
+    "district_id": "110731",
+    "name": "ALUE"
+  }
+]

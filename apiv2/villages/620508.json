@@ -1,1 +1,52 @@
-[{"id": "6205082001", "district_id": "620508", "name": "TRAHEAN"}, {"id": "6205082002", "district_id": "620508", "name": "TRINSING"}, {"id": "6205082003", "district_id": "620508", "name": "BINTANG NINGGI I"}, {"id": "6205082004", "district_id": "620508", "name": "BINTANG NINGGI II"}, {"id": "6205082005", "district_id": "620508", "name": "BUTONG"}, {"id": "6205082006", "district_id": "620508", "name": "BUNTOK BARU"}, {"id": "6205082007", "district_id": "620508", "name": "BUKIT SAWIT"}, {"id": "6205082008", "district_id": "620508", "name": "TAWAN JAYA"}, {"id": "6205082009", "district_id": "620508", "name": "PANDRAN RAYA"}, {"id": "6205082010", "district_id": "620508", "name": "PANDRAN PERMAI"}]
+[
+  {
+    "id": "6205082001",
+    "district_id": "620508",
+    "name": "TRAHEAN"
+  },
+  {
+    "id": "6205082002",
+    "district_id": "620508",
+    "name": "TRINSING"
+  },
+  {
+    "id": "6205082003",
+    "district_id": "620508",
+    "name": "BINTANG NINGGI I"
+  },
+  {
+    "id": "6205082004",
+    "district_id": "620508",
+    "name": "BINTANG NINGGI II"
+  },
+  {
+    "id": "6205082005",
+    "district_id": "620508",
+    "name": "BUTONG"
+  },
+  {
+    "id": "6205082006",
+    "district_id": "620508",
+    "name": "BUNTOK BARU"
+  },
+  {
+    "id": "6205082007",
+    "district_id": "620508",
+    "name": "BUKIT SAWIT"
+  },
+  {
+    "id": "6205082008",
+    "district_id": "620508",
+    "name": "TAWAN JAYA"
+  },
+  {
+    "id": "6205082009",
+    "district_id": "620508",
+    "name": "PANDRAN RAYA"
+  },
+  {
+    "id": "6205082010",
+    "district_id": "620508",
+    "name": "PANDRAN PERMAI"
+  }
+]

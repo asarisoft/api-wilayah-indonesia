@@ -1,1 +1,37 @@
-[{"id": "1871031001", "district_id": "187103", "name": "GEDONG AIR"}, {"id": "1871031002", "district_id": "187103", "name": "SUKAJAWA"}, {"id": "1871031004", "district_id": "187103", "name": "SUSUNAN BARU"}, {"id": "1871031006", "district_id": "187103", "name": "SUKADANA HAM"}, {"id": "1871031008", "district_id": "187103", "name": "KELAPA TIGA PERMAI"}, {"id": "1871031010", "district_id": "187103", "name": "SUKAJAWA BARU"}, {"id": "1871031011", "district_id": "187103", "name": "SEGALAMIDER"}]
+[
+  {
+    "id": "1871031001",
+    "district_id": "187103",
+    "name": "GEDONG AIR"
+  },
+  {
+    "id": "1871031002",
+    "district_id": "187103",
+    "name": "SUKAJAWA"
+  },
+  {
+    "id": "1871031004",
+    "district_id": "187103",
+    "name": "SUSUNAN BARU"
+  },
+  {
+    "id": "1871031006",
+    "district_id": "187103",
+    "name": "SUKADANA HAM"
+  },
+  {
+    "id": "1871031008",
+    "district_id": "187103",
+    "name": "KELAPA TIGA PERMAI"
+  },
+  {
+    "id": "1871031010",
+    "district_id": "187103",
+    "name": "SUKAJAWA BARU"
+  },
+  {
+    "id": "1871031011",
+    "district_id": "187103",
+    "name": "SEGALAMIDER"
+  }
+]

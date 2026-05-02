@@ -1,1 +1,62 @@
-[{"id": "3512081002", "district_id": "351208", "name": "ARDIREJO"}, {"id": "3512081007", "district_id": "351208", "name": "MIMBAAN"}, {"id": "3512082001", "district_id": "351208", "name": "SLIWUNG"}, {"id": "3512082003", "district_id": "351208", "name": "BATTAL"}, {"id": "3512082004", "district_id": "351208", "name": "KLAMPOKAN"}, {"id": "3512082005", "district_id": "351208", "name": "JUGLANGAN"}, {"id": "3512082006", "district_id": "351208", "name": "PANJI KIDUL"}, {"id": "3512082008", "district_id": "351208", "name": "PANJI LOR"}, {"id": "3512082009", "district_id": "351208", "name": "TOKELAN"}, {"id": "3512082010", "district_id": "351208", "name": "CURAH JERU"}, {"id": "3512082011", "district_id": "351208", "name": "TENGGIR"}, {"id": "3512082012", "district_id": "351208", "name": "KAYU PUTIH"}]
+[
+  {
+    "id": "3512081002",
+    "district_id": "351208",
+    "name": "ARDIREJO"
+  },
+  {
+    "id": "3512081007",
+    "district_id": "351208",
+    "name": "MIMBAAN"
+  },
+  {
+    "id": "3512082001",
+    "district_id": "351208",
+    "name": "SLIWUNG"
+  },
+  {
+    "id": "3512082003",
+    "district_id": "351208",
+    "name": "BATTAL"
+  },
+  {
+    "id": "3512082004",
+    "district_id": "351208",
+    "name": "KLAMPOKAN"
+  },
+  {
+    "id": "3512082005",
+    "district_id": "351208",
+    "name": "JUGLANGAN"
+  },
+  {
+    "id": "3512082006",
+    "district_id": "351208",
+    "name": "PANJI KIDUL"
+  },
+  {
+    "id": "3512082008",
+    "district_id": "351208",
+    "name": "PANJI LOR"
+  },
+  {
+    "id": "3512082009",
+    "district_id": "351208",
+    "name": "TOKELAN"
+  },
+  {
+    "id": "3512082010",
+    "district_id": "351208",
+    "name": "CURAH JERU"
+  },
+  {
+    "id": "3512082011",
+    "district_id": "351208",
+    "name": "TENGGIR"
+  },
+  {
+    "id": "3512082012",
+    "district_id": "351208",
+    "name": "KAYU PUTIH"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3604072001", "district_id": "360407", "name": "BOJONEGARA"}, {"id": "3604072002", "district_id": "360407", "name": "MANGKUNEGARA"}, {"id": "3604072003", "district_id": "360407", "name": "WANAKARTA"}, {"id": "3604072004", "district_id": "360407", "name": "KARANG KEPUH"}, {"id": "3604072005", "district_id": "360407", "name": "LAMBANGSARI"}, {"id": "3604072006", "district_id": "360407", "name": "KERTASANA"}, {"id": "3604072007", "district_id": "360407", "name": "MARGAGIRI"}, {"id": "3604072008", "district_id": "360407", "name": "UKIRSARI"}, {"id": "3604072009", "district_id": "360407", "name": "PAKUNCEN"}, {"id": "3604072010", "district_id": "360407", "name": "PANGARENGAN"}, {"id": "3604072011", "district_id": "360407", "name": "MEKAR JAYA"}]
+[
+  {
+    "id": "3604072001",
+    "district_id": "360407",
+    "name": "BOJONEGARA"
+  },
+  {
+    "id": "3604072002",
+    "district_id": "360407",
+    "name": "MANGKUNEGARA"
+  },
+  {
+    "id": "3604072003",
+    "district_id": "360407",
+    "name": "WANAKARTA"
+  },
+  {
+    "id": "3604072004",
+    "district_id": "360407",
+    "name": "KARANG KEPUH"
+  },
+  {
+    "id": "3604072005",
+    "district_id": "360407",
+    "name": "LAMBANGSARI"
+  },
+  {
+    "id": "3604072006",
+    "district_id": "360407",
+    "name": "KERTASANA"
+  },
+  {
+    "id": "3604072007",
+    "district_id": "360407",
+    "name": "MARGAGIRI"
+  },
+  {
+    "id": "3604072008",
+    "district_id": "360407",
+    "name": "UKIRSARI"
+  },
+  {
+    "id": "3604072009",
+    "district_id": "360407",
+    "name": "PAKUNCEN"
+  },
+  {
+    "id": "3604072010",
+    "district_id": "360407",
+    "name": "PANGARENGAN"
+  },
+  {
+    "id": "3604072011",
+    "district_id": "360407",
+    "name": "MEKAR JAYA"
+  }
+]

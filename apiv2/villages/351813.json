@@ -1,1 +1,77 @@
-[{"id": "3518131001", "district_id": "351813", "name": "JATIREJO"}, {"id": "3518131002", "district_id": "351813", "name": "PLOSO"}, {"id": "3518131003", "district_id": "351813", "name": "PAYAMAN"}, {"id": "3518131004", "district_id": "351813", "name": "KRAMAT"}, {"id": "3518131005", "district_id": "351813", "name": "GANUNG KIDUL"}, {"id": "3518131006", "district_id": "351813", "name": "WERUNGOTOK"}, {"id": "3518131007", "district_id": "351813", "name": "MANGUNDIKARAN"}, {"id": "3518131008", "district_id": "351813", "name": "KAUMAN"}, {"id": "3518131009", "district_id": "351813", "name": "KARTOHARJO"}, {"id": "3518131010", "district_id": "351813", "name": "CANGKRINGAN"}, {"id": "3518131011", "district_id": "351813", "name": "BOGO"}, {"id": "3518131012", "district_id": "351813", "name": "RINGINANOM"}, {"id": "3518131013", "district_id": "351813", "name": "BEGADUNG"}, {"id": "3518132014", "district_id": "351813", "name": "KEDUNGDOWO"}, {"id": "3518132015", "district_id": "351813", "name": "BALONGPACUL"}]
+[
+  {
+    "id": "3518131001",
+    "district_id": "351813",
+    "name": "JATIREJO"
+  },
+  {
+    "id": "3518131002",
+    "district_id": "351813",
+    "name": "PLOSO"
+  },
+  {
+    "id": "3518131003",
+    "district_id": "351813",
+    "name": "PAYAMAN"
+  },
+  {
+    "id": "3518131004",
+    "district_id": "351813",
+    "name": "KRAMAT"
+  },
+  {
+    "id": "3518131005",
+    "district_id": "351813",
+    "name": "GANUNG KIDUL"
+  },
+  {
+    "id": "3518131006",
+    "district_id": "351813",
+    "name": "WERUNGOTOK"
+  },
+  {
+    "id": "3518131007",
+    "district_id": "351813",
+    "name": "MANGUNDIKARAN"
+  },
+  {
+    "id": "3518131008",
+    "district_id": "351813",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3518131009",
+    "district_id": "351813",
+    "name": "KARTOHARJO"
+  },
+  {
+    "id": "3518131010",
+    "district_id": "351813",
+    "name": "CANGKRINGAN"
+  },
+  {
+    "id": "3518131011",
+    "district_id": "351813",
+    "name": "BOGO"
+  },
+  {
+    "id": "3518131012",
+    "district_id": "351813",
+    "name": "RINGINANOM"
+  },
+  {
+    "id": "3518131013",
+    "district_id": "351813",
+    "name": "BEGADUNG"
+  },
+  {
+    "id": "3518132014",
+    "district_id": "351813",
+    "name": "KEDUNGDOWO"
+  },
+  {
+    "id": "3518132015",
+    "district_id": "351813",
+    "name": "BALONGPACUL"
+  }
+]

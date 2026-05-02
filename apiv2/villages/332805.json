@@ -1,1 +1,67 @@
-[{"id": "3328052001", "district_id": "332805", "name": "SRENGSENG"}, {"id": "3328052002", "district_id": "332805", "name": "RAJEGWESI"}, {"id": "3328052003", "district_id": "332805", "name": "SIDAMULYA"}, {"id": "3328052004", "district_id": "332805", "name": "MULYOHARJO"}, {"id": "3328052005", "district_id": "332805", "name": "SEMBOJA"}, {"id": "3328052006", "district_id": "332805", "name": "RANDUSARI"}, {"id": "3328052007", "district_id": "332805", "name": "JATIWANGI"}, {"id": "3328052008", "district_id": "332805", "name": "PAGERBARANG"}, {"id": "3328052009", "district_id": "332805", "name": "KARANGANYAR"}, {"id": "3328052010", "district_id": "332805", "name": "KERTAHARJA"}, {"id": "3328052011", "district_id": "332805", "name": "KEDUNGSUGIH"}, {"id": "3328052012", "district_id": "332805", "name": "SUROKIDUL"}, {"id": "3328052013", "district_id": "332805", "name": "PESAREAN"}]
+[
+  {
+    "id": "3328052001",
+    "district_id": "332805",
+    "name": "SRENGSENG"
+  },
+  {
+    "id": "3328052002",
+    "district_id": "332805",
+    "name": "RAJEGWESI"
+  },
+  {
+    "id": "3328052003",
+    "district_id": "332805",
+    "name": "SIDAMULYA"
+  },
+  {
+    "id": "3328052004",
+    "district_id": "332805",
+    "name": "MULYOHARJO"
+  },
+  {
+    "id": "3328052005",
+    "district_id": "332805",
+    "name": "SEMBOJA"
+  },
+  {
+    "id": "3328052006",
+    "district_id": "332805",
+    "name": "RANDUSARI"
+  },
+  {
+    "id": "3328052007",
+    "district_id": "332805",
+    "name": "JATIWANGI"
+  },
+  {
+    "id": "3328052008",
+    "district_id": "332805",
+    "name": "PAGERBARANG"
+  },
+  {
+    "id": "3328052009",
+    "district_id": "332805",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3328052010",
+    "district_id": "332805",
+    "name": "KERTAHARJA"
+  },
+  {
+    "id": "3328052011",
+    "district_id": "332805",
+    "name": "KEDUNGSUGIH"
+  },
+  {
+    "id": "3328052012",
+    "district_id": "332805",
+    "name": "SUROKIDUL"
+  },
+  {
+    "id": "3328052013",
+    "district_id": "332805",
+    "name": "PESAREAN"
+  }
+]

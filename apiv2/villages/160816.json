@@ -1,1 +1,42 @@
-[{"id": "1608162001", "district_id": "160816", "name": "JAYAPURA"}, {"id": "1608162002", "district_id": "160816", "name": "BUNGA MAYANG"}, {"id": "1608162003", "district_id": "160816", "name": "WAY SALAK"}, {"id": "1608162004", "district_id": "160816", "name": "MENDAH"}, {"id": "1608162005", "district_id": "160816", "name": "TUMIJAYA"}, {"id": "1608162006", "district_id": "160816", "name": "CONDONG"}, {"id": "1608162007", "district_id": "160816", "name": "PERACAK JAYA"}, {"id": "1608162008", "district_id": "160816", "name": "KAMBANG"}]
+[
+  {
+    "id": "1608162001",
+    "district_id": "160816",
+    "name": "JAYAPURA"
+  },
+  {
+    "id": "1608162002",
+    "district_id": "160816",
+    "name": "BUNGA MAYANG"
+  },
+  {
+    "id": "1608162003",
+    "district_id": "160816",
+    "name": "WAY SALAK"
+  },
+  {
+    "id": "1608162004",
+    "district_id": "160816",
+    "name": "MENDAH"
+  },
+  {
+    "id": "1608162005",
+    "district_id": "160816",
+    "name": "TUMIJAYA"
+  },
+  {
+    "id": "1608162006",
+    "district_id": "160816",
+    "name": "CONDONG"
+  },
+  {
+    "id": "1608162007",
+    "district_id": "160816",
+    "name": "PERACAK JAYA"
+  },
+  {
+    "id": "1608162008",
+    "district_id": "160816",
+    "name": "KAMBANG"
+  }
+]

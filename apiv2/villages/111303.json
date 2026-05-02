@@ -1,1 +1,67 @@
-[{"id": "1113032001", "district_id": "111303", "name": "AMPA KOLAK"}, {"id": "1113032002", "district_id": "111303", "name": "CANE TOA"}, {"id": "1113032003", "district_id": "111303", "name": "PADANG PASIR"}, {"id": "1113032005", "district_id": "111303", "name": "PINANG RUGUB"}, {"id": "1113032006", "district_id": "111303", "name": "KUNING"}, {"id": "1113032008", "district_id": "111303", "name": "MANGANG"}, {"id": "1113032011", "district_id": "111303", "name": "REMPELAM"}, {"id": "1113032012", "district_id": "111303", "name": "CANE UKEN"}, {"id": "1113032013", "district_id": "111303", "name": "TUNGEL"}, {"id": "1113032014", "district_id": "111303", "name": "KOTA RIKIT GAIB"}, {"id": "1113032016", "district_id": "111303", "name": "LUKUP BARU"}, {"id": "1113032017", "district_id": "111303", "name": "PENOMON JAYA"}, {"id": "1113032018", "district_id": "111303", "name": "TUNGEL BARU"}]
+[
+  {
+    "id": "1113032001",
+    "district_id": "111303",
+    "name": "AMPA KOLAK"
+  },
+  {
+    "id": "1113032002",
+    "district_id": "111303",
+    "name": "CANE TOA"
+  },
+  {
+    "id": "1113032003",
+    "district_id": "111303",
+    "name": "PADANG PASIR"
+  },
+  {
+    "id": "1113032005",
+    "district_id": "111303",
+    "name": "PINANG RUGUB"
+  },
+  {
+    "id": "1113032006",
+    "district_id": "111303",
+    "name": "KUNING"
+  },
+  {
+    "id": "1113032008",
+    "district_id": "111303",
+    "name": "MANGANG"
+  },
+  {
+    "id": "1113032011",
+    "district_id": "111303",
+    "name": "REMPELAM"
+  },
+  {
+    "id": "1113032012",
+    "district_id": "111303",
+    "name": "CANE UKEN"
+  },
+  {
+    "id": "1113032013",
+    "district_id": "111303",
+    "name": "TUNGEL"
+  },
+  {
+    "id": "1113032014",
+    "district_id": "111303",
+    "name": "KOTA RIKIT GAIB"
+  },
+  {
+    "id": "1113032016",
+    "district_id": "111303",
+    "name": "LUKUP BARU"
+  },
+  {
+    "id": "1113032017",
+    "district_id": "111303",
+    "name": "PENOMON JAYA"
+  },
+  {
+    "id": "1113032018",
+    "district_id": "111303",
+    "name": "TUNGEL BARU"
+  }
+]

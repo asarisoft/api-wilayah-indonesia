@@ -1,1 +1,32 @@
-[{"id": "6501032001", "district_id": "650103", "name": "KARANG AGUNG"}, {"id": "6501032002", "district_id": "650103", "name": "PIMPING"}, {"id": "6501032003", "district_id": "650103", "name": "PANCA AGUNG"}, {"id": "6501032004", "district_id": "650103", "name": "RUHUI RAHAYU"}, {"id": "6501032005", "district_id": "650103", "name": "ARDI MULYO"}, {"id": "6501032006", "district_id": "650103", "name": "KELUBIR"}]
+[
+  {
+    "id": "6501032001",
+    "district_id": "650103",
+    "name": "KARANG AGUNG"
+  },
+  {
+    "id": "6501032002",
+    "district_id": "650103",
+    "name": "PIMPING"
+  },
+  {
+    "id": "6501032003",
+    "district_id": "650103",
+    "name": "PANCA AGUNG"
+  },
+  {
+    "id": "6501032004",
+    "district_id": "650103",
+    "name": "RUHUI RAHAYU"
+  },
+  {
+    "id": "6501032005",
+    "district_id": "650103",
+    "name": "ARDI MULYO"
+  },
+  {
+    "id": "6501032006",
+    "district_id": "650103",
+    "name": "KELUBIR"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "3208062001", "district_id": "320806", "name": "DUKUHPICUNG"}, {"id": "3208062002", "district_id": "320806", "name": "WALAHARCAGEUR"}, {"id": "3208062003", "district_id": "320806", "name": "WILANAGARA"}, {"id": "3208062004", "district_id": "320806", "name": "CIGEDANG"}, {"id": "3208062005", "district_id": "320806", "name": "LURAGUNGTONGGOH"}, {"id": "3208062006", "district_id": "320806", "name": "SINDANGSARI"}, {"id": "3208062007", "district_id": "320806", "name": "CIRAHAYU"}, {"id": "3208062008", "district_id": "320806", "name": "MARGASARI"}, {"id": "3208062009", "district_id": "320806", "name": "SINDANGSUKA"}, {"id": "3208062010", "district_id": "320806", "name": "CIKANDANG"}, {"id": "3208062011", "district_id": "320806", "name": "PANYOSOGAN"}, {"id": "3208062012", "district_id": "320806", "name": "GUNUNGKARUNG"}, {"id": "3208062013", "district_id": "320806", "name": "LURAGUNGLANDEUH"}, {"id": "3208062014", "district_id": "320806", "name": "DUKUHMAJA"}, {"id": "3208062015", "district_id": "320806", "name": "BENDA"}, {"id": "3208062016", "district_id": "320806", "name": "CIKADUWETAN"}]
+[
+  {
+    "id": "3208062001",
+    "district_id": "320806",
+    "name": "DUKUHPICUNG"
+  },
+  {
+    "id": "3208062002",
+    "district_id": "320806",
+    "name": "WALAHARCAGEUR"
+  },
+  {
+    "id": "3208062003",
+    "district_id": "320806",
+    "name": "WILANAGARA"
+  },
+  {
+    "id": "3208062004",
+    "district_id": "320806",
+    "name": "CIGEDANG"
+  },
+  {
+    "id": "3208062005",
+    "district_id": "320806",
+    "name": "LURAGUNGTONGGOH"
+  },
+  {
+    "id": "3208062006",
+    "district_id": "320806",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3208062007",
+    "district_id": "320806",
+    "name": "CIRAHAYU"
+  },
+  {
+    "id": "3208062008",
+    "district_id": "320806",
+    "name": "MARGASARI"
+  },
+  {
+    "id": "3208062009",
+    "district_id": "320806",
+    "name": "SINDANGSUKA"
+  },
+  {
+    "id": "3208062010",
+    "district_id": "320806",
+    "name": "CIKANDANG"
+  },
+  {
+    "id": "3208062011",
+    "district_id": "320806",
+    "name": "PANYOSOGAN"
+  },
+  {
+    "id": "3208062012",
+    "district_id": "320806",
+    "name": "GUNUNGKARUNG"
+  },
+  {
+    "id": "3208062013",
+    "district_id": "320806",
+    "name": "LURAGUNGLANDEUH"
+  },
+  {
+    "id": "3208062014",
+    "district_id": "320806",
+    "name": "DUKUHMAJA"
+  },
+  {
+    "id": "3208062015",
+    "district_id": "320806",
+    "name": "BENDA"
+  },
+  {
+    "id": "3208062016",
+    "district_id": "320806",
+    "name": "CIKADUWETAN"
+  }
+]

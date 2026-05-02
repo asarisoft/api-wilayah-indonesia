@@ -1,1 +1,57 @@
-[{"id": "9503282001", "district_id": "950328", "name": "WANAM"}, {"id": "9503282002", "district_id": "950328", "name": "HEREKY"}, {"id": "9503282003", "district_id": "950328", "name": "MEMBAHAM"}, {"id": "9503282004", "district_id": "950328", "name": "WISOMI"}, {"id": "9503282005", "district_id": "950328", "name": "TALAMBELA"}, {"id": "9503282006", "district_id": "950328", "name": "SEHELU"}, {"id": "9503282007", "district_id": "950328", "name": "UBALIHION"}, {"id": "9503282008", "district_id": "950328", "name": "WALAHAN"}, {"id": "9503282009", "district_id": "950328", "name": "SALAKMA"}, {"id": "9503282010", "district_id": "950328", "name": "SAMIYUL"}, {"id": "9503282011", "district_id": "950328", "name": "LETFET"}]
+[
+  {
+    "id": "9503282001",
+    "district_id": "950328",
+    "name": "WANAM"
+  },
+  {
+    "id": "9503282002",
+    "district_id": "950328",
+    "name": "HEREKY"
+  },
+  {
+    "id": "9503282003",
+    "district_id": "950328",
+    "name": "MEMBAHAM"
+  },
+  {
+    "id": "9503282004",
+    "district_id": "950328",
+    "name": "WISOMI"
+  },
+  {
+    "id": "9503282005",
+    "district_id": "950328",
+    "name": "TALAMBELA"
+  },
+  {
+    "id": "9503282006",
+    "district_id": "950328",
+    "name": "SEHELU"
+  },
+  {
+    "id": "9503282007",
+    "district_id": "950328",
+    "name": "UBALIHION"
+  },
+  {
+    "id": "9503282008",
+    "district_id": "950328",
+    "name": "WALAHAN"
+  },
+  {
+    "id": "9503282009",
+    "district_id": "950328",
+    "name": "SALAKMA"
+  },
+  {
+    "id": "9503282010",
+    "district_id": "950328",
+    "name": "SAMIYUL"
+  },
+  {
+    "id": "9503282011",
+    "district_id": "950328",
+    "name": "LETFET"
+  }
+]

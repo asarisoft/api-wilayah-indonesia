@@ -1,1 +1,67 @@
-[{"id": "3519142001", "district_id": "351914", "name": "SIDOMULYO"}, {"id": "3519142002", "district_id": "351914", "name": "KANUNG"}, {"id": "3519142003", "district_id": "351914", "name": "REJOSARI"}, {"id": "3519142004", "district_id": "351914", "name": "PUCANGREJO"}, {"id": "3519142005", "district_id": "351914", "name": "KROKEH"}, {"id": "3519142006", "district_id": "351914", "name": "LEBAKAYU"}, {"id": "3519142007", "district_id": "351914", "name": "BAKUR"}, {"id": "3519142008", "district_id": "351914", "name": "GOLAN"}, {"id": "3519142009", "district_id": "351914", "name": "CABEAN"}, {"id": "3519142010", "district_id": "351914", "name": "SAWAHAN"}, {"id": "3519142011", "district_id": "351914", "name": "PULE"}, {"id": "3519142012", "district_id": "351914", "name": "KAJANG"}, {"id": "3519142013", "district_id": "351914", "name": "KLUMPIT"}]
+[
+  {
+    "id": "3519142001",
+    "district_id": "351914",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3519142002",
+    "district_id": "351914",
+    "name": "KANUNG"
+  },
+  {
+    "id": "3519142003",
+    "district_id": "351914",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3519142004",
+    "district_id": "351914",
+    "name": "PUCANGREJO"
+  },
+  {
+    "id": "3519142005",
+    "district_id": "351914",
+    "name": "KROKEH"
+  },
+  {
+    "id": "3519142006",
+    "district_id": "351914",
+    "name": "LEBAKAYU"
+  },
+  {
+    "id": "3519142007",
+    "district_id": "351914",
+    "name": "BAKUR"
+  },
+  {
+    "id": "3519142008",
+    "district_id": "351914",
+    "name": "GOLAN"
+  },
+  {
+    "id": "3519142009",
+    "district_id": "351914",
+    "name": "CABEAN"
+  },
+  {
+    "id": "3519142010",
+    "district_id": "351914",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "3519142011",
+    "district_id": "351914",
+    "name": "PULE"
+  },
+  {
+    "id": "3519142012",
+    "district_id": "351914",
+    "name": "KAJANG"
+  },
+  {
+    "id": "3519142013",
+    "district_id": "351914",
+    "name": "KLUMPIT"
+  }
+]

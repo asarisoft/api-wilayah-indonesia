@@ -1,1 +1,72 @@
-[{"id": "1213172001", "district_id": "121317", "name": "BATU MUNDOM"}, {"id": "1213172002", "district_id": "121317", "name": "HUTAIMBARU"}, {"id": "1213172003", "district_id": "121317", "name": "LUBUK KAPUNDUNG"}, {"id": "1213172004", "district_id": "121317", "name": "MANUNCANG"}, {"id": "1213172005", "district_id": "121317", "name": "PANUNGGULAN"}, {"id": "1213172006", "district_id": "121317", "name": "PASAR SINGKUANG I"}, {"id": "1213172007", "district_id": "121317", "name": "PASAR SINGKUANG II"}, {"id": "1213172008", "district_id": "121317", "name": "RANTAU PANJANG"}, {"id": "1213172009", "district_id": "121317", "name": "SIKAPAS"}, {"id": "1213172010", "district_id": "121317", "name": "TABUYUNG"}, {"id": "1213172011", "district_id": "121317", "name": "TAGILANG JULU"}, {"id": "1213172012", "district_id": "121317", "name": "SALI BARU"}, {"id": "1213172013", "district_id": "121317", "name": "LUBUK KAPUNDUNG II"}, {"id": "1213172014", "district_id": "121317", "name": "SUKA MAKMUR"}]
+[
+  {
+    "id": "1213172001",
+    "district_id": "121317",
+    "name": "BATU MUNDOM"
+  },
+  {
+    "id": "1213172002",
+    "district_id": "121317",
+    "name": "HUTAIMBARU"
+  },
+  {
+    "id": "1213172003",
+    "district_id": "121317",
+    "name": "LUBUK KAPUNDUNG"
+  },
+  {
+    "id": "1213172004",
+    "district_id": "121317",
+    "name": "MANUNCANG"
+  },
+  {
+    "id": "1213172005",
+    "district_id": "121317",
+    "name": "PANUNGGULAN"
+  },
+  {
+    "id": "1213172006",
+    "district_id": "121317",
+    "name": "PASAR SINGKUANG I"
+  },
+  {
+    "id": "1213172007",
+    "district_id": "121317",
+    "name": "PASAR SINGKUANG II"
+  },
+  {
+    "id": "1213172008",
+    "district_id": "121317",
+    "name": "RANTAU PANJANG"
+  },
+  {
+    "id": "1213172009",
+    "district_id": "121317",
+    "name": "SIKAPAS"
+  },
+  {
+    "id": "1213172010",
+    "district_id": "121317",
+    "name": "TABUYUNG"
+  },
+  {
+    "id": "1213172011",
+    "district_id": "121317",
+    "name": "TAGILANG JULU"
+  },
+  {
+    "id": "1213172012",
+    "district_id": "121317",
+    "name": "SALI BARU"
+  },
+  {
+    "id": "1213172013",
+    "district_id": "121317",
+    "name": "LUBUK KAPUNDUNG II"
+  },
+  {
+    "id": "1213172014",
+    "district_id": "121317",
+    "name": "SUKA MAKMUR"
+  }
+]

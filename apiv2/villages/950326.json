@@ -1,1 +1,27 @@
-[{"id": "9503262001", "district_id": "950326", "name": "SUBUNDALEK"}, {"id": "9503262002", "district_id": "950326", "name": "TANGGEAM"}, {"id": "9503262003", "district_id": "950326", "name": "AMFULMA"}, {"id": "9503262004", "district_id": "950326", "name": "SUKSALE"}, {"id": "9503262005", "district_id": "950326", "name": "LINGGISEN"}]
+[
+  {
+    "id": "9503262001",
+    "district_id": "950326",
+    "name": "SUBUNDALEK"
+  },
+  {
+    "id": "9503262002",
+    "district_id": "950326",
+    "name": "TANGGEAM"
+  },
+  {
+    "id": "9503262003",
+    "district_id": "950326",
+    "name": "AMFULMA"
+  },
+  {
+    "id": "9503262004",
+    "district_id": "950326",
+    "name": "SUKSALE"
+  },
+  {
+    "id": "9503262005",
+    "district_id": "950326",
+    "name": "LINGGISEN"
+  }
+]

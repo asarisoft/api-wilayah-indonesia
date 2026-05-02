@@ -1,1 +1,62 @@
-[{"id": "2104041006", "district_id": "210404", "name": "RAYA"}, {"id": "2104042001", "district_id": "210404", "name": "BAKONG"}, {"id": "2104042002", "district_id": "210404", "name": "KUALA RAYA"}, {"id": "2104042003", "district_id": "210404", "name": "MAROK TUA"}, {"id": "2104042005", "district_id": "210404", "name": "SUNGAI BULUH"}, {"id": "2104042007", "district_id": "210404", "name": "SUNGAI RAYA"}, {"id": "2104042008", "district_id": "210404", "name": "SUNGAI HARAPAN"}, {"id": "2104042009", "district_id": "210404", "name": "JAGOH"}, {"id": "2104042012", "district_id": "210404", "name": "TINJUL"}, {"id": "2104042013", "district_id": "210404", "name": "LANGKAP"}, {"id": "2104042014", "district_id": "210404", "name": "TANJUNG IRAT"}, {"id": "2104042015", "district_id": "210404", "name": "BUKIT BELAH"}]
+[
+  {
+    "id": "2104041006",
+    "district_id": "210404",
+    "name": "RAYA"
+  },
+  {
+    "id": "2104042001",
+    "district_id": "210404",
+    "name": "BAKONG"
+  },
+  {
+    "id": "2104042002",
+    "district_id": "210404",
+    "name": "KUALA RAYA"
+  },
+  {
+    "id": "2104042003",
+    "district_id": "210404",
+    "name": "MAROK TUA"
+  },
+  {
+    "id": "2104042005",
+    "district_id": "210404",
+    "name": "SUNGAI BULUH"
+  },
+  {
+    "id": "2104042007",
+    "district_id": "210404",
+    "name": "SUNGAI RAYA"
+  },
+  {
+    "id": "2104042008",
+    "district_id": "210404",
+    "name": "SUNGAI HARAPAN"
+  },
+  {
+    "id": "2104042009",
+    "district_id": "210404",
+    "name": "JAGOH"
+  },
+  {
+    "id": "2104042012",
+    "district_id": "210404",
+    "name": "TINJUL"
+  },
+  {
+    "id": "2104042013",
+    "district_id": "210404",
+    "name": "LANGKAP"
+  },
+  {
+    "id": "2104042014",
+    "district_id": "210404",
+    "name": "TANJUNG IRAT"
+  },
+  {
+    "id": "2104042015",
+    "district_id": "210404",
+    "name": "BUKIT BELAH"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "5204202001", "district_id": "520420", "name": "TARUSA"}, {"id": "5204202002", "district_id": "520420", "name": "JURU MAPIN"}, {"id": "5204202003", "district_id": "520420", "name": "KALABESO"}, {"id": "5204202004", "district_id": "520420", "name": "LABUHAN BURUNG"}, {"id": "5204202005", "district_id": "520420", "name": "PULAU KAUNG"}, {"id": "5204202006", "district_id": "520420", "name": "BUIN BARU"}]
+[
+  {
+    "id": "5204202001",
+    "district_id": "520420",
+    "name": "TARUSA"
+  },
+  {
+    "id": "5204202002",
+    "district_id": "520420",
+    "name": "JURU MAPIN"
+  },
+  {
+    "id": "5204202003",
+    "district_id": "520420",
+    "name": "KALABESO"
+  },
+  {
+    "id": "5204202004",
+    "district_id": "520420",
+    "name": "LABUHAN BURUNG"
+  },
+  {
+    "id": "5204202005",
+    "district_id": "520420",
+    "name": "PULAU KAUNG"
+  },
+  {
+    "id": "5204202006",
+    "district_id": "520420",
+    "name": "BUIN BARU"
+  }
+]

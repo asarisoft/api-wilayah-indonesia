@@ -1,1 +1,37 @@
-[{"id": "9406082001", "district_id": "940608", "name": "UGAPUGA"}, {"id": "9406082002", "district_id": "940608", "name": "DEIYAPA"}, {"id": "9406082003", "district_id": "940608", "name": "BODUDA"}, {"id": "9406082004", "district_id": "940608", "name": "YOTAPUGA"}, {"id": "9406082005", "district_id": "940608", "name": "BOKAIBUTU"}, {"id": "9406082006", "district_id": "940608", "name": "BUNAUWO"}, {"id": "9406082007", "district_id": "940608", "name": "NUWA"}]
+[
+  {
+    "id": "9406082001",
+    "district_id": "940608",
+    "name": "UGAPUGA"
+  },
+  {
+    "id": "9406082002",
+    "district_id": "940608",
+    "name": "DEIYAPA"
+  },
+  {
+    "id": "9406082003",
+    "district_id": "940608",
+    "name": "BODUDA"
+  },
+  {
+    "id": "9406082004",
+    "district_id": "940608",
+    "name": "YOTAPUGA"
+  },
+  {
+    "id": "9406082005",
+    "district_id": "940608",
+    "name": "BOKAIBUTU"
+  },
+  {
+    "id": "9406082006",
+    "district_id": "940608",
+    "name": "BUNAUWO"
+  },
+  {
+    "id": "9406082007",
+    "district_id": "940608",
+    "name": "NUWA"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "3517042001", "district_id": "351704", "name": "KEBONDALEM"}, {"id": "3517042002", "district_id": "351704", "name": "MUNDUSEWU"}, {"id": "3517042003", "district_id": "351704", "name": "PAKEL"}, {"id": "3517042004", "district_id": "351704", "name": "KARANGAN"}, {"id": "3517042005", "district_id": "351704", "name": "NGAMPUNGAN"}, {"id": "3517042006", "district_id": "351704", "name": "JENISGELARAN"}, {"id": "3517042007", "district_id": "351704", "name": "BARENG"}, {"id": "3517042008", "district_id": "351704", "name": "TEBEL"}, {"id": "3517042009", "district_id": "351704", "name": "MOJOTENGAH"}, {"id": "3517042010", "district_id": "351704", "name": "BANJARAGUNG"}, {"id": "3517042011", "district_id": "351704", "name": "NGLEBAK"}, {"id": "3517042012", "district_id": "351704", "name": "NGRIMBI"}, {"id": "3517042013", "district_id": "351704", "name": "PULOSARI"}]
+[
+  {
+    "id": "3517042001",
+    "district_id": "351704",
+    "name": "KEBONDALEM"
+  },
+  {
+    "id": "3517042002",
+    "district_id": "351704",
+    "name": "MUNDUSEWU"
+  },
+  {
+    "id": "3517042003",
+    "district_id": "351704",
+    "name": "PAKEL"
+  },
+  {
+    "id": "3517042004",
+    "district_id": "351704",
+    "name": "KARANGAN"
+  },
+  {
+    "id": "3517042005",
+    "district_id": "351704",
+    "name": "NGAMPUNGAN"
+  },
+  {
+    "id": "3517042006",
+    "district_id": "351704",
+    "name": "JENISGELARAN"
+  },
+  {
+    "id": "3517042007",
+    "district_id": "351704",
+    "name": "BARENG"
+  },
+  {
+    "id": "3517042008",
+    "district_id": "351704",
+    "name": "TEBEL"
+  },
+  {
+    "id": "3517042009",
+    "district_id": "351704",
+    "name": "MOJOTENGAH"
+  },
+  {
+    "id": "3517042010",
+    "district_id": "351704",
+    "name": "BANJARAGUNG"
+  },
+  {
+    "id": "3517042011",
+    "district_id": "351704",
+    "name": "NGLEBAK"
+  },
+  {
+    "id": "3517042012",
+    "district_id": "351704",
+    "name": "NGRIMBI"
+  },
+  {
+    "id": "3517042013",
+    "district_id": "351704",
+    "name": "PULOSARI"
+  }
+]

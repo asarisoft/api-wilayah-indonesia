@@ -1,1 +1,42 @@
-[{"id": "827201", "regency_id": "8272", "name": "TIDORE"}, {"id": "827202", "regency_id": "8272", "name": "OBA UTARA"}, {"id": "827203", "regency_id": "8272", "name": "OBA"}, {"id": "827204", "regency_id": "8272", "name": "TIDORE SELATAN"}, {"id": "827205", "regency_id": "8272", "name": "TIDORE UTARA"}, {"id": "827206", "regency_id": "8272", "name": "OBA TENGAH"}, {"id": "827207", "regency_id": "8272", "name": "OBA SELATAN"}, {"id": "827208", "regency_id": "8272", "name": "TIDORE TIMUR"}]
+[
+  {
+    "id": "827201",
+    "regency_id": "8272",
+    "name": "TIDORE"
+  },
+  {
+    "id": "827202",
+    "regency_id": "8272",
+    "name": "OBA UTARA"
+  },
+  {
+    "id": "827203",
+    "regency_id": "8272",
+    "name": "OBA"
+  },
+  {
+    "id": "827204",
+    "regency_id": "8272",
+    "name": "TIDORE SELATAN"
+  },
+  {
+    "id": "827205",
+    "regency_id": "8272",
+    "name": "TIDORE UTARA"
+  },
+  {
+    "id": "827206",
+    "regency_id": "8272",
+    "name": "OBA TENGAH"
+  },
+  {
+    "id": "827207",
+    "regency_id": "8272",
+    "name": "OBA SELATAN"
+  },
+  {
+    "id": "827208",
+    "regency_id": "8272",
+    "name": "TIDORE TIMUR"
+  }
+]

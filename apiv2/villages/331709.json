@@ -1,1 +1,117 @@
-[{"id": "3317092001", "district_id": "331709", "name": "METESEH"}, {"id": "3317092002", "district_id": "331709", "name": "MAGUAN"}, {"id": "3317092003", "district_id": "331709", "name": "SIDOMULYO"}, {"id": "3317092004", "district_id": "331709", "name": "WIROTO"}, {"id": "3317092005", "district_id": "331709", "name": "BANGGI"}, {"id": "3317092006", "district_id": "331709", "name": "KUANGSAN"}, {"id": "3317092007", "district_id": "331709", "name": "GUNUNGSARI"}, {"id": "3317092008", "district_id": "331709", "name": "SENDANGAGUNG"}, {"id": "3317092009", "district_id": "331709", "name": "KARANGSEKAR"}, {"id": "3317092010", "district_id": "331709", "name": "BABADAN"}, {"id": "3317092011", "district_id": "331709", "name": "PENGKOL"}, {"id": "3317092012", "district_id": "331709", "name": "SAMBIYAN"}, {"id": "3317092013", "district_id": "331709", "name": "MOJOREMBUN"}, {"id": "3317092014", "district_id": "331709", "name": "TUNGGULSARI"}, {"id": "3317092015", "district_id": "331709", "name": "TAMBAKAGUNG"}, {"id": "3317092016", "district_id": "331709", "name": "MOJOWARNO"}, {"id": "3317092017", "district_id": "331709", "name": "DRESI KULON"}, {"id": "3317092018", "district_id": "331709", "name": "DRESI WETAN"}, {"id": "3317092019", "district_id": "331709", "name": "TASIKHARJO"}, {"id": "3317092020", "district_id": "331709", "name": "PURWOREJO"}, {"id": "3317092021", "district_id": "331709", "name": "BOGOHARJO"}, {"id": "3317092022", "district_id": "331709", "name": "BANYUDONO"}, {"id": "3317092023", "district_id": "331709", "name": "PANTIHARJO"}]
+[
+  {
+    "id": "3317092001",
+    "district_id": "331709",
+    "name": "METESEH"
+  },
+  {
+    "id": "3317092002",
+    "district_id": "331709",
+    "name": "MAGUAN"
+  },
+  {
+    "id": "3317092003",
+    "district_id": "331709",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3317092004",
+    "district_id": "331709",
+    "name": "WIROTO"
+  },
+  {
+    "id": "3317092005",
+    "district_id": "331709",
+    "name": "BANGGI"
+  },
+  {
+    "id": "3317092006",
+    "district_id": "331709",
+    "name": "KUANGSAN"
+  },
+  {
+    "id": "3317092007",
+    "district_id": "331709",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3317092008",
+    "district_id": "331709",
+    "name": "SENDANGAGUNG"
+  },
+  {
+    "id": "3317092009",
+    "district_id": "331709",
+    "name": "KARANGSEKAR"
+  },
+  {
+    "id": "3317092010",
+    "district_id": "331709",
+    "name": "BABADAN"
+  },
+  {
+    "id": "3317092011",
+    "district_id": "331709",
+    "name": "PENGKOL"
+  },
+  {
+    "id": "3317092012",
+    "district_id": "331709",
+    "name": "SAMBIYAN"
+  },
+  {
+    "id": "3317092013",
+    "district_id": "331709",
+    "name": "MOJOREMBUN"
+  },
+  {
+    "id": "3317092014",
+    "district_id": "331709",
+    "name": "TUNGGULSARI"
+  },
+  {
+    "id": "3317092015",
+    "district_id": "331709",
+    "name": "TAMBAKAGUNG"
+  },
+  {
+    "id": "3317092016",
+    "district_id": "331709",
+    "name": "MOJOWARNO"
+  },
+  {
+    "id": "3317092017",
+    "district_id": "331709",
+    "name": "DRESI KULON"
+  },
+  {
+    "id": "3317092018",
+    "district_id": "331709",
+    "name": "DRESI WETAN"
+  },
+  {
+    "id": "3317092019",
+    "district_id": "331709",
+    "name": "TASIKHARJO"
+  },
+  {
+    "id": "3317092020",
+    "district_id": "331709",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3317092021",
+    "district_id": "331709",
+    "name": "BOGOHARJO"
+  },
+  {
+    "id": "3317092022",
+    "district_id": "331709",
+    "name": "BANYUDONO"
+  },
+  {
+    "id": "3317092023",
+    "district_id": "331709",
+    "name": "PANTIHARJO"
+  }
+]

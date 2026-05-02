@@ -1,1 +1,67 @@
-[{"id": "7101192001", "district_id": "710119", "name": "MUNTOI"}, {"id": "7101192002", "district_id": "710119", "name": "POYUYANAN"}, {"id": "7101192003", "district_id": "710119", "name": "LOBONG"}, {"id": "7101192004", "district_id": "710119", "name": "PASSI"}, {"id": "7101192017", "district_id": "710119", "name": "BINTAU"}, {"id": "7101192018", "district_id": "710119", "name": "BULUD"}, {"id": "7101192019", "district_id": "710119", "name": "OTAM"}, {"id": "7101192020", "district_id": "710119", "name": "WANGGA"}, {"id": "7101192022", "district_id": "710119", "name": "INUAI"}, {"id": "7101192023", "district_id": "710119", "name": "PASSI II"}, {"id": "7101192024", "district_id": "710119", "name": "MUNTOI TIMUR"}, {"id": "7101192025", "district_id": "710119", "name": "OTAM BARAT"}, {"id": "7101192026", "district_id": "710119", "name": "WANGGA SATU"}]
+[
+  {
+    "id": "7101192001",
+    "district_id": "710119",
+    "name": "MUNTOI"
+  },
+  {
+    "id": "7101192002",
+    "district_id": "710119",
+    "name": "POYUYANAN"
+  },
+  {
+    "id": "7101192003",
+    "district_id": "710119",
+    "name": "LOBONG"
+  },
+  {
+    "id": "7101192004",
+    "district_id": "710119",
+    "name": "PASSI"
+  },
+  {
+    "id": "7101192017",
+    "district_id": "710119",
+    "name": "BINTAU"
+  },
+  {
+    "id": "7101192018",
+    "district_id": "710119",
+    "name": "BULUD"
+  },
+  {
+    "id": "7101192019",
+    "district_id": "710119",
+    "name": "OTAM"
+  },
+  {
+    "id": "7101192020",
+    "district_id": "710119",
+    "name": "WANGGA"
+  },
+  {
+    "id": "7101192022",
+    "district_id": "710119",
+    "name": "INUAI"
+  },
+  {
+    "id": "7101192023",
+    "district_id": "710119",
+    "name": "PASSI II"
+  },
+  {
+    "id": "7101192024",
+    "district_id": "710119",
+    "name": "MUNTOI TIMUR"
+  },
+  {
+    "id": "7101192025",
+    "district_id": "710119",
+    "name": "OTAM BARAT"
+  },
+  {
+    "id": "7101192026",
+    "district_id": "710119",
+    "name": "WANGGA SATU"
+  }
+]

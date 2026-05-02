@@ -1,1 +1,57 @@
-[{"id": "7410021004", "district_id": "741002", "name": "KAMBOWA"}, {"id": "7410022001", "district_id": "741002", "name": "BUBU"}, {"id": "7410022002", "district_id": "741002", "name": "LAHUMOKO"}, {"id": "7410022003", "district_id": "741002", "name": "MORINDINO"}, {"id": "7410022005", "district_id": "741002", "name": "PONGKOWULU"}, {"id": "7410022006", "district_id": "741002", "name": "LAGUNDI"}, {"id": "7410022007", "district_id": "741002", "name": "KONDE"}, {"id": "7410022008", "district_id": "741002", "name": "MATA"}, {"id": "7410022009", "district_id": "741002", "name": "BUBU BARAT"}, {"id": "7410022010", "district_id": "741002", "name": "BENTE"}, {"id": "7410022011", "district_id": "741002", "name": "BALUARA"}]
+[
+  {
+    "id": "7410021004",
+    "district_id": "741002",
+    "name": "KAMBOWA"
+  },
+  {
+    "id": "7410022001",
+    "district_id": "741002",
+    "name": "BUBU"
+  },
+  {
+    "id": "7410022002",
+    "district_id": "741002",
+    "name": "LAHUMOKO"
+  },
+  {
+    "id": "7410022003",
+    "district_id": "741002",
+    "name": "MORINDINO"
+  },
+  {
+    "id": "7410022005",
+    "district_id": "741002",
+    "name": "PONGKOWULU"
+  },
+  {
+    "id": "7410022006",
+    "district_id": "741002",
+    "name": "LAGUNDI"
+  },
+  {
+    "id": "7410022007",
+    "district_id": "741002",
+    "name": "KONDE"
+  },
+  {
+    "id": "7410022008",
+    "district_id": "741002",
+    "name": "MATA"
+  },
+  {
+    "id": "7410022009",
+    "district_id": "741002",
+    "name": "BUBU BARAT"
+  },
+  {
+    "id": "7410022010",
+    "district_id": "741002",
+    "name": "BENTE"
+  },
+  {
+    "id": "7410022011",
+    "district_id": "741002",
+    "name": "BALUARA"
+  }
+]

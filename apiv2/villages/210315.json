@@ -1,1 +1,37 @@
-[{"id": "2103152001", "district_id": "210315", "name": "TANJUNG"}, {"id": "2103152002", "district_id": "210315", "name": "CERUK"}, {"id": "2103152003", "district_id": "210315", "name": "KELANGA"}, {"id": "2103152004", "district_id": "210315", "name": "PENGADAH"}, {"id": "2103152005", "district_id": "210315", "name": "SEBADAI ULU"}, {"id": "2103152006", "district_id": "210315", "name": "LIMAU MANIS"}, {"id": "2103152007", "district_id": "210315", "name": "SELEMAN"}]
+[
+  {
+    "id": "2103152001",
+    "district_id": "210315",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "2103152002",
+    "district_id": "210315",
+    "name": "CERUK"
+  },
+  {
+    "id": "2103152003",
+    "district_id": "210315",
+    "name": "KELANGA"
+  },
+  {
+    "id": "2103152004",
+    "district_id": "210315",
+    "name": "PENGADAH"
+  },
+  {
+    "id": "2103152005",
+    "district_id": "210315",
+    "name": "SEBADAI ULU"
+  },
+  {
+    "id": "2103152006",
+    "district_id": "210315",
+    "name": "LIMAU MANIS"
+  },
+  {
+    "id": "2103152007",
+    "district_id": "210315",
+    "name": "SELEMAN"
+  }
+]

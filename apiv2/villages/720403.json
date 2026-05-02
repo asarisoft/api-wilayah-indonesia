@@ -1,1 +1,82 @@
-[{"id": "7204032001", "district_id": "720403", "name": "LUOK MANIPI"}, {"id": "7204032002", "district_id": "720403", "name": "SALUMBIA"}, {"id": "7204032003", "district_id": "720403", "name": "BAMBAPUN"}, {"id": "7204032004", "district_id": "720403", "name": "OGOWELE"}, {"id": "7204032005", "district_id": "720403", "name": "LAIS"}, {"id": "7204032006", "district_id": "720403", "name": "OGOGASANG"}, {"id": "7204032007", "district_id": "720403", "name": "MALOMBA"}, {"id": "7204032008", "district_id": "720403", "name": "OGOGILI"}, {"id": "7204032009", "district_id": "720403", "name": "TINABOGAN"}, {"id": "7204032010", "district_id": "720403", "name": "MALULU"}, {"id": "7204032011", "district_id": "720403", "name": "MALALA"}, {"id": "7204032012", "district_id": "720403", "name": "ANGGASAN"}, {"id": "7204032013", "district_id": "720403", "name": "BETENGON"}, {"id": "7204032014", "district_id": "720403", "name": "PANGKUNG"}, {"id": "7204032015", "district_id": "720403", "name": "OGOWELE BUGA"}, {"id": "7204032016", "district_id": "720403", "name": "LOBUO"}]
+[
+  {
+    "id": "7204032001",
+    "district_id": "720403",
+    "name": "LUOK MANIPI"
+  },
+  {
+    "id": "7204032002",
+    "district_id": "720403",
+    "name": "SALUMBIA"
+  },
+  {
+    "id": "7204032003",
+    "district_id": "720403",
+    "name": "BAMBAPUN"
+  },
+  {
+    "id": "7204032004",
+    "district_id": "720403",
+    "name": "OGOWELE"
+  },
+  {
+    "id": "7204032005",
+    "district_id": "720403",
+    "name": "LAIS"
+  },
+  {
+    "id": "7204032006",
+    "district_id": "720403",
+    "name": "OGOGASANG"
+  },
+  {
+    "id": "7204032007",
+    "district_id": "720403",
+    "name": "MALOMBA"
+  },
+  {
+    "id": "7204032008",
+    "district_id": "720403",
+    "name": "OGOGILI"
+  },
+  {
+    "id": "7204032009",
+    "district_id": "720403",
+    "name": "TINABOGAN"
+  },
+  {
+    "id": "7204032010",
+    "district_id": "720403",
+    "name": "MALULU"
+  },
+  {
+    "id": "7204032011",
+    "district_id": "720403",
+    "name": "MALALA"
+  },
+  {
+    "id": "7204032012",
+    "district_id": "720403",
+    "name": "ANGGASAN"
+  },
+  {
+    "id": "7204032013",
+    "district_id": "720403",
+    "name": "BETENGON"
+  },
+  {
+    "id": "7204032014",
+    "district_id": "720403",
+    "name": "PANGKUNG"
+  },
+  {
+    "id": "7204032015",
+    "district_id": "720403",
+    "name": "OGOWELE BUGA"
+  },
+  {
+    "id": "7204032016",
+    "district_id": "720403",
+    "name": "LOBUO"
+  }
+]

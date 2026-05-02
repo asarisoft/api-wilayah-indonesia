@@ -1,1 +1,37 @@
-[{"id": "1271031001", "district_id": "127103", "name": "HELVETIA"}, {"id": "1271031002", "district_id": "127103", "name": "HELVETIA TENGAH"}, {"id": "1271031003", "district_id": "127103", "name": "HELVETIA TIMUR"}, {"id": "1271031004", "district_id": "127103", "name": "TANJUNG GUSTA"}, {"id": "1271031005", "district_id": "127103", "name": "CINTA DAMAI"}, {"id": "1271031006", "district_id": "127103", "name": "DWI KORA"}, {"id": "1271031007", "district_id": "127103", "name": "SEI SIKAMBING C II"}]
+[
+  {
+    "id": "1271031001",
+    "district_id": "127103",
+    "name": "HELVETIA"
+  },
+  {
+    "id": "1271031002",
+    "district_id": "127103",
+    "name": "HELVETIA TENGAH"
+  },
+  {
+    "id": "1271031003",
+    "district_id": "127103",
+    "name": "HELVETIA TIMUR"
+  },
+  {
+    "id": "1271031004",
+    "district_id": "127103",
+    "name": "TANJUNG GUSTA"
+  },
+  {
+    "id": "1271031005",
+    "district_id": "127103",
+    "name": "CINTA DAMAI"
+  },
+  {
+    "id": "1271031006",
+    "district_id": "127103",
+    "name": "DWI KORA"
+  },
+  {
+    "id": "1271031007",
+    "district_id": "127103",
+    "name": "SEI SIKAMBING C II"
+  }
+]

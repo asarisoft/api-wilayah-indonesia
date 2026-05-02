@@ -1,1 +1,32 @@
-[{"id": "7414071002", "district_id": "741407", "name": "TOLANDONA"}, {"id": "7414072001", "district_id": "741407", "name": "BARUTA LESTARI"}, {"id": "7414072003", "district_id": "741407", "name": "DODA BAHARI"}, {"id": "7414072004", "district_id": "741407", "name": "BARUTA"}, {"id": "7414072006", "district_id": "741407", "name": "BARUTA ANALALAKI"}, {"id": "7414072007", "district_id": "741407", "name": "TOLANDONA MATANAEO"}]
+[
+  {
+    "id": "7414071002",
+    "district_id": "741407",
+    "name": "TOLANDONA"
+  },
+  {
+    "id": "7414072001",
+    "district_id": "741407",
+    "name": "BARUTA LESTARI"
+  },
+  {
+    "id": "7414072003",
+    "district_id": "741407",
+    "name": "DODA BAHARI"
+  },
+  {
+    "id": "7414072004",
+    "district_id": "741407",
+    "name": "BARUTA"
+  },
+  {
+    "id": "7414072006",
+    "district_id": "741407",
+    "name": "BARUTA ANALALAKI"
+  },
+  {
+    "id": "7414072007",
+    "district_id": "741407",
+    "name": "TOLANDONA MATANAEO"
+  }
+]

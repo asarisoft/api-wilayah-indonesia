@@ -1,1 +1,47 @@
-[{"id": "1609112001", "district_id": "160911", "name": "PIUS"}, {"id": "1609112002", "district_id": "160911", "name": "PENGANDONAN"}, {"id": "1609112003", "district_id": "160911", "name": "SIRING ALAM"}, {"id": "1609112004", "district_id": "160911", "name": "SIMPANG CAMPANG"}, {"id": "1609112005", "district_id": "160911", "name": "PULAU KEMILING"}, {"id": "1609112006", "district_id": "160911", "name": "KEBAN AGUNG"}, {"id": "1609112007", "district_id": "160911", "name": "MUARA SINDANG"}, {"id": "1609112008", "district_id": "160911", "name": "CAMPANG JAYA"}, {"id": "1609112009", "district_id": "160911", "name": "TANJUNG JATI"}]
+[
+  {
+    "id": "1609112001",
+    "district_id": "160911",
+    "name": "PIUS"
+  },
+  {
+    "id": "1609112002",
+    "district_id": "160911",
+    "name": "PENGANDONAN"
+  },
+  {
+    "id": "1609112003",
+    "district_id": "160911",
+    "name": "SIRING ALAM"
+  },
+  {
+    "id": "1609112004",
+    "district_id": "160911",
+    "name": "SIMPANG CAMPANG"
+  },
+  {
+    "id": "1609112005",
+    "district_id": "160911",
+    "name": "PULAU KEMILING"
+  },
+  {
+    "id": "1609112006",
+    "district_id": "160911",
+    "name": "KEBAN AGUNG"
+  },
+  {
+    "id": "1609112007",
+    "district_id": "160911",
+    "name": "MUARA SINDANG"
+  },
+  {
+    "id": "1609112008",
+    "district_id": "160911",
+    "name": "CAMPANG JAYA"
+  },
+  {
+    "id": "1609112009",
+    "district_id": "160911",
+    "name": "TANJUNG JATI"
+  }
+]

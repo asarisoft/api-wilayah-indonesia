@@ -1,1 +1,32 @@
-[{"id": "7104021005", "district_id": "710402", "name": "BEO"}, {"id": "7104021017", "district_id": "710402", "name": "BEO TIMUR"}, {"id": "7104021018", "district_id": "710402", "name": "BEO BARAT"}, {"id": "7104022011", "district_id": "710402", "name": "BANTIK"}, {"id": "7104022019", "district_id": "710402", "name": "BENGEL"}, {"id": "7104022020", "district_id": "710402", "name": "BANTIK LAMA"}]
+[
+  {
+    "id": "7104021005",
+    "district_id": "710402",
+    "name": "BEO"
+  },
+  {
+    "id": "7104021017",
+    "district_id": "710402",
+    "name": "BEO TIMUR"
+  },
+  {
+    "id": "7104021018",
+    "district_id": "710402",
+    "name": "BEO BARAT"
+  },
+  {
+    "id": "7104022011",
+    "district_id": "710402",
+    "name": "BANTIK"
+  },
+  {
+    "id": "7104022019",
+    "district_id": "710402",
+    "name": "BENGEL"
+  },
+  {
+    "id": "7104022020",
+    "district_id": "710402",
+    "name": "BANTIK LAMA"
+  }
+]

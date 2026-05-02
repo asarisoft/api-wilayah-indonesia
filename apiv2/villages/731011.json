@@ -1,1 +1,32 @@
-[{"id": "7310112001", "district_id": "731011", "name": "BENTENG"}, {"id": "7310112002", "district_id": "731011", "name": "MANGGALUNG"}, {"id": "7310112003", "district_id": "731011", "name": "TAMARUPA"}, {"id": "7310112004", "district_id": "731011", "name": "MANDALLE"}, {"id": "7310112005", "district_id": "731011", "name": "BODDIE"}, {"id": "7310112006", "district_id": "731011", "name": "COPPO TOMPONG"}]
+[
+  {
+    "id": "7310112001",
+    "district_id": "731011",
+    "name": "BENTENG"
+  },
+  {
+    "id": "7310112002",
+    "district_id": "731011",
+    "name": "MANGGALUNG"
+  },
+  {
+    "id": "7310112003",
+    "district_id": "731011",
+    "name": "TAMARUPA"
+  },
+  {
+    "id": "7310112004",
+    "district_id": "731011",
+    "name": "MANDALLE"
+  },
+  {
+    "id": "7310112005",
+    "district_id": "731011",
+    "name": "BODDIE"
+  },
+  {
+    "id": "7310112006",
+    "district_id": "731011",
+    "name": "COPPO TOMPONG"
+  }
+]

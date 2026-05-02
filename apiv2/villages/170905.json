@@ -1,1 +1,72 @@
-[{"id": "1709052006", "district_id": "170905", "name": "TEMIANG"}, {"id": "1709052008", "district_id": "170905", "name": "TABA RENAH"}, {"id": "1709052009", "district_id": "170905", "name": "KERTA PATI"}, {"id": "1709052010", "district_id": "170905", "name": "PAGAR JATI"}, {"id": "1709052012", "district_id": "170905", "name": "KARANG ARE"}, {"id": "1709052013", "district_id": "170905", "name": "DATAR PENOKAT"}, {"id": "1709052014", "district_id": "170905", "name": "LAYANG LEKAT"}, {"id": "1709052015", "district_id": "170905", "name": "TUMBUK"}, {"id": "1709052016", "district_id": "170905", "name": "TALANG CURUP"}, {"id": "1709052017", "district_id": "170905", "name": "RENA KANDIS"}, {"id": "1709052018", "district_id": "170905", "name": "ARGA INDAH I"}, {"id": "1709052022", "district_id": "170905", "name": "KEROYA"}, {"id": "1709052023", "district_id": "170905", "name": "KERTAPATI MUDIK"}, {"id": "1709052024", "district_id": "170905", "name": "RENA JAYA"}]
+[
+  {
+    "id": "1709052006",
+    "district_id": "170905",
+    "name": "TEMIANG"
+  },
+  {
+    "id": "1709052008",
+    "district_id": "170905",
+    "name": "TABA RENAH"
+  },
+  {
+    "id": "1709052009",
+    "district_id": "170905",
+    "name": "KERTA PATI"
+  },
+  {
+    "id": "1709052010",
+    "district_id": "170905",
+    "name": "PAGAR JATI"
+  },
+  {
+    "id": "1709052012",
+    "district_id": "170905",
+    "name": "KARANG ARE"
+  },
+  {
+    "id": "1709052013",
+    "district_id": "170905",
+    "name": "DATAR PENOKAT"
+  },
+  {
+    "id": "1709052014",
+    "district_id": "170905",
+    "name": "LAYANG LEKAT"
+  },
+  {
+    "id": "1709052015",
+    "district_id": "170905",
+    "name": "TUMBUK"
+  },
+  {
+    "id": "1709052016",
+    "district_id": "170905",
+    "name": "TALANG CURUP"
+  },
+  {
+    "id": "1709052017",
+    "district_id": "170905",
+    "name": "RENA KANDIS"
+  },
+  {
+    "id": "1709052018",
+    "district_id": "170905",
+    "name": "ARGA INDAH I"
+  },
+  {
+    "id": "1709052022",
+    "district_id": "170905",
+    "name": "KEROYA"
+  },
+  {
+    "id": "1709052023",
+    "district_id": "170905",
+    "name": "KERTAPATI MUDIK"
+  },
+  {
+    "id": "1709052024",
+    "district_id": "170905",
+    "name": "RENA JAYA"
+  }
+]

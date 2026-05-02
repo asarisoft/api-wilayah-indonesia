@@ -1,1 +1,42 @@
-[{"id": "3674061001", "district_id": "367406", "name": "PAMULANG BARAT"}, {"id": "3674061002", "district_id": "367406", "name": "BENDA BARU"}, {"id": "3674061003", "district_id": "367406", "name": "PONDOK BENDA"}, {"id": "3674061004", "district_id": "367406", "name": "PONDOK CABE UDIK"}, {"id": "3674061005", "district_id": "367406", "name": "PONDOK CABE ILIR"}, {"id": "3674061006", "district_id": "367406", "name": "KEDAUNG"}, {"id": "3674061007", "district_id": "367406", "name": "BAMBU APUS"}, {"id": "3674061008", "district_id": "367406", "name": "PAMULANG TIMUR"}]
+[
+  {
+    "id": "3674061001",
+    "district_id": "367406",
+    "name": "PAMULANG BARAT"
+  },
+  {
+    "id": "3674061002",
+    "district_id": "367406",
+    "name": "BENDA BARU"
+  },
+  {
+    "id": "3674061003",
+    "district_id": "367406",
+    "name": "PONDOK BENDA"
+  },
+  {
+    "id": "3674061004",
+    "district_id": "367406",
+    "name": "PONDOK CABE UDIK"
+  },
+  {
+    "id": "3674061005",
+    "district_id": "367406",
+    "name": "PONDOK CABE ILIR"
+  },
+  {
+    "id": "3674061006",
+    "district_id": "367406",
+    "name": "KEDAUNG"
+  },
+  {
+    "id": "3674061007",
+    "district_id": "367406",
+    "name": "BAMBU APUS"
+  },
+  {
+    "id": "3674061008",
+    "district_id": "367406",
+    "name": "PAMULANG TIMUR"
+  }
+]

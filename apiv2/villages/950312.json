@@ -1,1 +1,52 @@
-[{"id": "9503122001", "district_id": "950312", "name": "USAREGEIK"}, {"id": "9503122002", "district_id": "950312", "name": "LIDIPMU"}, {"id": "9503122003", "district_id": "950312", "name": "SUMEGEN"}, {"id": "9503122004", "district_id": "950312", "name": "HENDIKMA"}, {"id": "9503122005", "district_id": "950312", "name": "BUE"}, {"id": "9503122006", "district_id": "950312", "name": "HALETUK"}, {"id": "9503122007", "district_id": "950312", "name": "DEKBOK"}, {"id": "9503122008", "district_id": "950312", "name": "YERIKO"}, {"id": "9503122009", "district_id": "950312", "name": "WELEHEIKMA"}, {"id": "9503122010", "district_id": "950312", "name": "ESAIKMA"}]
+[
+  {
+    "id": "9503122001",
+    "district_id": "950312",
+    "name": "USAREGEIK"
+  },
+  {
+    "id": "9503122002",
+    "district_id": "950312",
+    "name": "LIDIPMU"
+  },
+  {
+    "id": "9503122003",
+    "district_id": "950312",
+    "name": "SUMEGEN"
+  },
+  {
+    "id": "9503122004",
+    "district_id": "950312",
+    "name": "HENDIKMA"
+  },
+  {
+    "id": "9503122005",
+    "district_id": "950312",
+    "name": "BUE"
+  },
+  {
+    "id": "9503122006",
+    "district_id": "950312",
+    "name": "HALETUK"
+  },
+  {
+    "id": "9503122007",
+    "district_id": "950312",
+    "name": "DEKBOK"
+  },
+  {
+    "id": "9503122008",
+    "district_id": "950312",
+    "name": "YERIKO"
+  },
+  {
+    "id": "9503122009",
+    "district_id": "950312",
+    "name": "WELEHEIKMA"
+  },
+  {
+    "id": "9503122010",
+    "district_id": "950312",
+    "name": "ESAIKMA"
+  }
+]

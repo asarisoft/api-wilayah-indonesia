@@ -1,1 +1,67 @@
-[{"id": "3516042001", "district_id": "351604", "name": "KETAPANRAME"}, {"id": "3516042002", "district_id": "351604", "name": "TRAWAS"}, {"id": "3516042003", "district_id": "351604", "name": "SELOTAPAK"}, {"id": "3516042004", "district_id": "351604", "name": "TAMIAJENG"}, {"id": "3516042005", "district_id": "351604", "name": "KESIMAN"}, {"id": "3516042006", "district_id": "351604", "name": "BELIK"}, {"id": "3516042007", "district_id": "351604", "name": "DUYUNG"}, {"id": "3516042008", "district_id": "351604", "name": "PENANGGUNGAN"}, {"id": "3516042009", "district_id": "351604", "name": "KEDUNGUDI"}, {"id": "3516042010", "district_id": "351604", "name": "SUKOSARI"}, {"id": "3516042011", "district_id": "351604", "name": "JATIJEJER"}, {"id": "3516042012", "district_id": "351604", "name": "SUGENG"}, {"id": "3516042013", "district_id": "351604", "name": "SELOLIMAN"}]
+[
+  {
+    "id": "3516042001",
+    "district_id": "351604",
+    "name": "KETAPANRAME"
+  },
+  {
+    "id": "3516042002",
+    "district_id": "351604",
+    "name": "TRAWAS"
+  },
+  {
+    "id": "3516042003",
+    "district_id": "351604",
+    "name": "SELOTAPAK"
+  },
+  {
+    "id": "3516042004",
+    "district_id": "351604",
+    "name": "TAMIAJENG"
+  },
+  {
+    "id": "3516042005",
+    "district_id": "351604",
+    "name": "KESIMAN"
+  },
+  {
+    "id": "3516042006",
+    "district_id": "351604",
+    "name": "BELIK"
+  },
+  {
+    "id": "3516042007",
+    "district_id": "351604",
+    "name": "DUYUNG"
+  },
+  {
+    "id": "3516042008",
+    "district_id": "351604",
+    "name": "PENANGGUNGAN"
+  },
+  {
+    "id": "3516042009",
+    "district_id": "351604",
+    "name": "KEDUNGUDI"
+  },
+  {
+    "id": "3516042010",
+    "district_id": "351604",
+    "name": "SUKOSARI"
+  },
+  {
+    "id": "3516042011",
+    "district_id": "351604",
+    "name": "JATIJEJER"
+  },
+  {
+    "id": "3516042012",
+    "district_id": "351604",
+    "name": "SUGENG"
+  },
+  {
+    "id": "3516042013",
+    "district_id": "351604",
+    "name": "SELOLIMAN"
+  }
+]

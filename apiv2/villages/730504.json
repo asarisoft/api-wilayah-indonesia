@@ -1,1 +1,52 @@
-[{"id": "7305041001", "district_id": "730504", "name": "PANRANNUANGKU"}, {"id": "7305041002", "district_id": "730504", "name": "MANONGKOKI"}, {"id": "7305041003", "district_id": "730504", "name": "MALEWANG"}, {"id": "7305041004", "district_id": "730504", "name": "PALLEKO"}, {"id": "7305041005", "district_id": "730504", "name": "MATTOMPODALE"}, {"id": "7305041006", "district_id": "730504", "name": "PARANG LUARA"}, {"id": "7305042007", "district_id": "730504", "name": "LASSANG"}, {"id": "7305042009", "district_id": "730504", "name": "PA'RAPPUNGANTA"}, {"id": "7305042010", "district_id": "730504", "name": "TOWATA"}, {"id": "7305042016", "district_id": "730504", "name": "LASSANG BARAT"}]
+[
+  {
+    "id": "7305041001",
+    "district_id": "730504",
+    "name": "PANRANNUANGKU"
+  },
+  {
+    "id": "7305041002",
+    "district_id": "730504",
+    "name": "MANONGKOKI"
+  },
+  {
+    "id": "7305041003",
+    "district_id": "730504",
+    "name": "MALEWANG"
+  },
+  {
+    "id": "7305041004",
+    "district_id": "730504",
+    "name": "PALLEKO"
+  },
+  {
+    "id": "7305041005",
+    "district_id": "730504",
+    "name": "MATTOMPODALE"
+  },
+  {
+    "id": "7305041006",
+    "district_id": "730504",
+    "name": "PARANG LUARA"
+  },
+  {
+    "id": "7305042007",
+    "district_id": "730504",
+    "name": "LASSANG"
+  },
+  {
+    "id": "7305042009",
+    "district_id": "730504",
+    "name": "PA'RAPPUNGANTA"
+  },
+  {
+    "id": "7305042010",
+    "district_id": "730504",
+    "name": "TOWATA"
+  },
+  {
+    "id": "7305042016",
+    "district_id": "730504",
+    "name": "LASSANG BARAT"
+  }
+]

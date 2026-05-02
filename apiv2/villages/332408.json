@@ -1,1 +1,47 @@
-[{"id": "3324082003", "district_id": "332408", "name": "SUMBEREJO"}, {"id": "3324082004", "district_id": "332408", "name": "NOLOKERTO"}, {"id": "3324082009", "district_id": "332408", "name": "KUMPULREJO"}, {"id": "3324082010", "district_id": "332408", "name": "KARANGTENGAH"}, {"id": "3324082011", "district_id": "332408", "name": "SARIREJO"}, {"id": "3324082012", "district_id": "332408", "name": "KRAJANKULON"}, {"id": "3324082013", "district_id": "332408", "name": "KUTOHARJO"}, {"id": "3324082014", "district_id": "332408", "name": "WONOREJO"}, {"id": "3324082015", "district_id": "332408", "name": "MOROREJO"}]
+[
+  {
+    "id": "3324082003",
+    "district_id": "332408",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3324082004",
+    "district_id": "332408",
+    "name": "NOLOKERTO"
+  },
+  {
+    "id": "3324082009",
+    "district_id": "332408",
+    "name": "KUMPULREJO"
+  },
+  {
+    "id": "3324082010",
+    "district_id": "332408",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3324082011",
+    "district_id": "332408",
+    "name": "SARIREJO"
+  },
+  {
+    "id": "3324082012",
+    "district_id": "332408",
+    "name": "KRAJANKULON"
+  },
+  {
+    "id": "3324082013",
+    "district_id": "332408",
+    "name": "KUTOHARJO"
+  },
+  {
+    "id": "3324082014",
+    "district_id": "332408",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3324082015",
+    "district_id": "332408",
+    "name": "MOROREJO"
+  }
+]

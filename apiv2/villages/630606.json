@@ -1,1 +1,57 @@
-[{"id": "6306062001", "district_id": "630606", "name": "TEBING TINGGI"}, {"id": "6306062002", "district_id": "630606", "name": "SIMPUR"}, {"id": "6306062003", "district_id": "630606", "name": "GARUNGGANG"}, {"id": "6306062004", "district_id": "630606", "name": "AMPARAYA"}, {"id": "6306062005", "district_id": "630606", "name": "PANJAMPANG BAHAGIA"}, {"id": "6306062006", "district_id": "630606", "name": "ULIN"}, {"id": "6306062007", "district_id": "630606", "name": "PANTAI ULIN"}, {"id": "6306062008", "district_id": "630606", "name": "WASAH HULU"}, {"id": "6306062009", "district_id": "630606", "name": "WASAH TENGAH"}, {"id": "6306062010", "district_id": "630606", "name": "WASAH HILIR"}, {"id": "6306062011", "district_id": "630606", "name": "KAPUH"}]
+[
+  {
+    "id": "6306062001",
+    "district_id": "630606",
+    "name": "TEBING TINGGI"
+  },
+  {
+    "id": "6306062002",
+    "district_id": "630606",
+    "name": "SIMPUR"
+  },
+  {
+    "id": "6306062003",
+    "district_id": "630606",
+    "name": "GARUNGGANG"
+  },
+  {
+    "id": "6306062004",
+    "district_id": "630606",
+    "name": "AMPARAYA"
+  },
+  {
+    "id": "6306062005",
+    "district_id": "630606",
+    "name": "PANJAMPANG BAHAGIA"
+  },
+  {
+    "id": "6306062006",
+    "district_id": "630606",
+    "name": "ULIN"
+  },
+  {
+    "id": "6306062007",
+    "district_id": "630606",
+    "name": "PANTAI ULIN"
+  },
+  {
+    "id": "6306062008",
+    "district_id": "630606",
+    "name": "WASAH HULU"
+  },
+  {
+    "id": "6306062009",
+    "district_id": "630606",
+    "name": "WASAH TENGAH"
+  },
+  {
+    "id": "6306062010",
+    "district_id": "630606",
+    "name": "WASAH HILIR"
+  },
+  {
+    "id": "6306062011",
+    "district_id": "630606",
+    "name": "KAPUH"
+  }
+]

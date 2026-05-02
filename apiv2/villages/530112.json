@@ -1,1 +1,37 @@
-[{"id": "5301121003", "district_id": "530112", "name": "LELOGAMA"}, {"id": "5301122001", "district_id": "530112", "name": "FATUSUKI"}, {"id": "5301122002", "district_id": "530112", "name": "OELBANU"}, {"id": "5301122004", "district_id": "530112", "name": "FATUMETAN"}, {"id": "5301122005", "district_id": "530112", "name": "OH'AEM"}, {"id": "5301122008", "district_id": "530112", "name": "LELOBOKO"}, {"id": "5301122011", "district_id": "530112", "name": "OH'AEM II"}]
+[
+  {
+    "id": "5301121003",
+    "district_id": "530112",
+    "name": "LELOGAMA"
+  },
+  {
+    "id": "5301122001",
+    "district_id": "530112",
+    "name": "FATUSUKI"
+  },
+  {
+    "id": "5301122002",
+    "district_id": "530112",
+    "name": "OELBANU"
+  },
+  {
+    "id": "5301122004",
+    "district_id": "530112",
+    "name": "FATUMETAN"
+  },
+  {
+    "id": "5301122005",
+    "district_id": "530112",
+    "name": "OH'AEM"
+  },
+  {
+    "id": "5301122008",
+    "district_id": "530112",
+    "name": "LELOBOKO"
+  },
+  {
+    "id": "5301122011",
+    "district_id": "530112",
+    "name": "OH'AEM II"
+  }
+]

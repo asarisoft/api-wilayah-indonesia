@@ -1,1 +1,92 @@
-[{"id": "3501112001", "district_id": "350111", "name": "SIDOMULYO"}, {"id": "3501112002", "district_id": "350111", "name": "HADIWARNO"}, {"id": "3501112003", "district_id": "350111", "name": "TANJUNGPURO"}, {"id": "3501112004", "district_id": "350111", "name": "HADILUWIH"}, {"id": "3501112005", "district_id": "350111", "name": "PAGEREJO"}, {"id": "3501112006", "district_id": "350111", "name": "WIYORO"}, {"id": "3501112007", "district_id": "350111", "name": "NGADIROJO"}, {"id": "3501112008", "district_id": "350111", "name": "BOGOHARJO"}, {"id": "3501112009", "district_id": "350111", "name": "COKROKEMBANG"}, {"id": "3501112010", "district_id": "350111", "name": "BODAG"}, {"id": "3501112011", "district_id": "350111", "name": "TANJUNGLOR"}, {"id": "3501112012", "district_id": "350111", "name": "NOGOSARI"}, {"id": "3501112013", "district_id": "350111", "name": "CANGKRING"}, {"id": "3501112014", "district_id": "350111", "name": "WONODADI WETAN"}, {"id": "3501112015", "district_id": "350111", "name": "WONODADI KULON"}, {"id": "3501112016", "district_id": "350111", "name": "WONOKARTO"}, {"id": "3501112017", "district_id": "350111", "name": "WONOSOBO"}, {"id": "3501112018", "district_id": "350111", "name": "WONOASRI"}]
+[
+  {
+    "id": "3501112001",
+    "district_id": "350111",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3501112002",
+    "district_id": "350111",
+    "name": "HADIWARNO"
+  },
+  {
+    "id": "3501112003",
+    "district_id": "350111",
+    "name": "TANJUNGPURO"
+  },
+  {
+    "id": "3501112004",
+    "district_id": "350111",
+    "name": "HADILUWIH"
+  },
+  {
+    "id": "3501112005",
+    "district_id": "350111",
+    "name": "PAGEREJO"
+  },
+  {
+    "id": "3501112006",
+    "district_id": "350111",
+    "name": "WIYORO"
+  },
+  {
+    "id": "3501112007",
+    "district_id": "350111",
+    "name": "NGADIROJO"
+  },
+  {
+    "id": "3501112008",
+    "district_id": "350111",
+    "name": "BOGOHARJO"
+  },
+  {
+    "id": "3501112009",
+    "district_id": "350111",
+    "name": "COKROKEMBANG"
+  },
+  {
+    "id": "3501112010",
+    "district_id": "350111",
+    "name": "BODAG"
+  },
+  {
+    "id": "3501112011",
+    "district_id": "350111",
+    "name": "TANJUNGLOR"
+  },
+  {
+    "id": "3501112012",
+    "district_id": "350111",
+    "name": "NOGOSARI"
+  },
+  {
+    "id": "3501112013",
+    "district_id": "350111",
+    "name": "CANGKRING"
+  },
+  {
+    "id": "3501112014",
+    "district_id": "350111",
+    "name": "WONODADI WETAN"
+  },
+  {
+    "id": "3501112015",
+    "district_id": "350111",
+    "name": "WONODADI KULON"
+  },
+  {
+    "id": "3501112016",
+    "district_id": "350111",
+    "name": "WONOKARTO"
+  },
+  {
+    "id": "3501112017",
+    "district_id": "350111",
+    "name": "WONOSOBO"
+  },
+  {
+    "id": "3501112018",
+    "district_id": "350111",
+    "name": "WONOASRI"
+  }
+]

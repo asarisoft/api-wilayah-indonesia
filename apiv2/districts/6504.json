@@ -1,1 +1,27 @@
-[{"id": "650401", "regency_id": "6504", "name": "SESAYAP"}, {"id": "650402", "regency_id": "6504", "name": "SESAYAP HILIR"}, {"id": "650403", "regency_id": "6504", "name": "TANA LIA"}, {"id": "650404", "regency_id": "6504", "name": "BETAYAU"}, {"id": "650405", "regency_id": "6504", "name": "MURUK RIAN"}]
+[
+  {
+    "id": "650401",
+    "regency_id": "6504",
+    "name": "SESAYAP"
+  },
+  {
+    "id": "650402",
+    "regency_id": "6504",
+    "name": "SESAYAP HILIR"
+  },
+  {
+    "id": "650403",
+    "regency_id": "6504",
+    "name": "TANA LIA"
+  },
+  {
+    "id": "650404",
+    "regency_id": "6504",
+    "name": "BETAYAU"
+  },
+  {
+    "id": "650405",
+    "regency_id": "6504",
+    "name": "MURUK RIAN"
+  }
+]

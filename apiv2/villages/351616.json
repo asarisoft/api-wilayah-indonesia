@@ -1,1 +1,82 @@
-[{"id": "3516162001", "district_id": "351616", "name": "MLIRIP"}, {"id": "3516162002", "district_id": "351616", "name": "PENOMPO"}, {"id": "3516162003", "district_id": "351616", "name": "CANGGU"}, {"id": "3516162004", "district_id": "351616", "name": "NGABAR"}, {"id": "3516162005", "district_id": "351616", "name": "BANJARSARI"}, {"id": "3516162006", "district_id": "351616", "name": "SAWO"}, {"id": "3516162007", "district_id": "351616", "name": "MOJOREJO"}, {"id": "3516162008", "district_id": "351616", "name": "JOLOTUNDO"}, {"id": "3516162009", "district_id": "351616", "name": "KUPANG"}, {"id": "3516162010", "district_id": "351616", "name": "BENDUNG"}, {"id": "3516162011", "district_id": "351616", "name": "MOJOLEBAK"}, {"id": "3516162012", "district_id": "351616", "name": "PARENGAN"}, {"id": "3516162013", "district_id": "351616", "name": "JETIS"}, {"id": "3516162014", "district_id": "351616", "name": "PERNING"}, {"id": "3516162015", "district_id": "351616", "name": "SIDOREJO"}, {"id": "3516162016", "district_id": "351616", "name": "LAKARDOWO"}]
+[
+  {
+    "id": "3516162001",
+    "district_id": "351616",
+    "name": "MLIRIP"
+  },
+  {
+    "id": "3516162002",
+    "district_id": "351616",
+    "name": "PENOMPO"
+  },
+  {
+    "id": "3516162003",
+    "district_id": "351616",
+    "name": "CANGGU"
+  },
+  {
+    "id": "3516162004",
+    "district_id": "351616",
+    "name": "NGABAR"
+  },
+  {
+    "id": "3516162005",
+    "district_id": "351616",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3516162006",
+    "district_id": "351616",
+    "name": "SAWO"
+  },
+  {
+    "id": "3516162007",
+    "district_id": "351616",
+    "name": "MOJOREJO"
+  },
+  {
+    "id": "3516162008",
+    "district_id": "351616",
+    "name": "JOLOTUNDO"
+  },
+  {
+    "id": "3516162009",
+    "district_id": "351616",
+    "name": "KUPANG"
+  },
+  {
+    "id": "3516162010",
+    "district_id": "351616",
+    "name": "BENDUNG"
+  },
+  {
+    "id": "3516162011",
+    "district_id": "351616",
+    "name": "MOJOLEBAK"
+  },
+  {
+    "id": "3516162012",
+    "district_id": "351616",
+    "name": "PARENGAN"
+  },
+  {
+    "id": "3516162013",
+    "district_id": "351616",
+    "name": "JETIS"
+  },
+  {
+    "id": "3516162014",
+    "district_id": "351616",
+    "name": "PERNING"
+  },
+  {
+    "id": "3516162015",
+    "district_id": "351616",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3516162016",
+    "district_id": "351616",
+    "name": "LAKARDOWO"
+  }
+]

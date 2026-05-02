@@ -1,1 +1,22 @@
-[{"id": "1906072001", "district_id": "190607", "name": "SIMPANG PESAK"}, {"id": "1906072002", "district_id": "190607", "name": "TANJUNG BATU ITAM"}, {"id": "1906072003", "district_id": "190607", "name": "TANJUNG KELUMPANG"}, {"id": "1906072004", "district_id": "190607", "name": "DUKONG"}]
+[
+  {
+    "id": "1906072001",
+    "district_id": "190607",
+    "name": "SIMPANG PESAK"
+  },
+  {
+    "id": "1906072002",
+    "district_id": "190607",
+    "name": "TANJUNG BATU ITAM"
+  },
+  {
+    "id": "1906072003",
+    "district_id": "190607",
+    "name": "TANJUNG KELUMPANG"
+  },
+  {
+    "id": "1906072004",
+    "district_id": "190607",
+    "name": "DUKONG"
+  }
+]

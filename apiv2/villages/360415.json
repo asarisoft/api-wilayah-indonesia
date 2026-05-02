@@ -1,1 +1,67 @@
-[{"id": "3604152001", "district_id": "360415", "name": "CIKANDE"}, {"id": "3604152002", "district_id": "360415", "name": "LEUWI LIMUS"}, {"id": "3604152003", "district_id": "360415", "name": "NAMBO UDIK"}, {"id": "3604152004", "district_id": "360415", "name": "PARIGI"}, {"id": "3604152005", "district_id": "360415", "name": "KOPER"}, {"id": "3604152006", "district_id": "360415", "name": "BAKUNG"}, {"id": "3604152007", "district_id": "360415", "name": "JULANG"}, {"id": "3604152008", "district_id": "360415", "name": "SUKATANI"}, {"id": "3604152009", "district_id": "360415", "name": "SITUTERATE"}, {"id": "3604152010", "district_id": "360415", "name": "KAMURANG"}, {"id": "3604152011", "district_id": "360415", "name": "GEMBOR UDIK"}, {"id": "3604152012", "district_id": "360415", "name": "SONGGOM JAYA"}, {"id": "3604152013", "district_id": "360415", "name": "CIKANDE PERMAI"}]
+[
+  {
+    "id": "3604152001",
+    "district_id": "360415",
+    "name": "CIKANDE"
+  },
+  {
+    "id": "3604152002",
+    "district_id": "360415",
+    "name": "LEUWI LIMUS"
+  },
+  {
+    "id": "3604152003",
+    "district_id": "360415",
+    "name": "NAMBO UDIK"
+  },
+  {
+    "id": "3604152004",
+    "district_id": "360415",
+    "name": "PARIGI"
+  },
+  {
+    "id": "3604152005",
+    "district_id": "360415",
+    "name": "KOPER"
+  },
+  {
+    "id": "3604152006",
+    "district_id": "360415",
+    "name": "BAKUNG"
+  },
+  {
+    "id": "3604152007",
+    "district_id": "360415",
+    "name": "JULANG"
+  },
+  {
+    "id": "3604152008",
+    "district_id": "360415",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "3604152009",
+    "district_id": "360415",
+    "name": "SITUTERATE"
+  },
+  {
+    "id": "3604152010",
+    "district_id": "360415",
+    "name": "KAMURANG"
+  },
+  {
+    "id": "3604152011",
+    "district_id": "360415",
+    "name": "GEMBOR UDIK"
+  },
+  {
+    "id": "3604152012",
+    "district_id": "360415",
+    "name": "SONGGOM JAYA"
+  },
+  {
+    "id": "3604152013",
+    "district_id": "360415",
+    "name": "CIKANDE PERMAI"
+  }
+]

@@ -1,1 +1,107 @@
-[{"id": "732601", "regency_id": "7326", "name": "RANTEPAO"}, {"id": "732602", "regency_id": "7326", "name": "SESEAN"}, {"id": "732603", "regency_id": "7326", "name": "NANGGALA"}, {"id": "732604", "regency_id": "7326", "name": "RINDINGALLO"}, {"id": "732605", "regency_id": "7326", "name": "BUNTAO"}, {"id": "732606", "regency_id": "7326", "name": "SA'DAN"}, {"id": "732607", "regency_id": "7326", "name": "SANGGALANGI"}, {"id": "732608", "regency_id": "7326", "name": "SOPAI"}, {"id": "732609", "regency_id": "7326", "name": "TIKALA"}, {"id": "732610", "regency_id": "7326", "name": "BALUSU"}, {"id": "732611", "regency_id": "7326", "name": "TALLUNGLIPU"}, {"id": "732612", "regency_id": "7326", "name": "DENDE' PIONGAN NAPO"}, {"id": "732613", "regency_id": "7326", "name": "BUNTU PEPASAN"}, {"id": "732614", "regency_id": "7326", "name": "BARUPPU"}, {"id": "732615", "regency_id": "7326", "name": "KESU"}, {"id": "732616", "regency_id": "7326", "name": "TONDON"}, {"id": "732617", "regency_id": "7326", "name": "BANGKELEKILA"}, {"id": "732618", "regency_id": "7326", "name": "RANTEBUA"}, {"id": "732619", "regency_id": "7326", "name": "SESEAN SULOARA"}, {"id": "732620", "regency_id": "7326", "name": "KAPALA PITU"}, {"id": "732621", "regency_id": "7326", "name": "AWAN RANTE KARUA"}]
+[
+  {
+    "id": "732601",
+    "regency_id": "7326",
+    "name": "RANTEPAO"
+  },
+  {
+    "id": "732602",
+    "regency_id": "7326",
+    "name": "SESEAN"
+  },
+  {
+    "id": "732603",
+    "regency_id": "7326",
+    "name": "NANGGALA"
+  },
+  {
+    "id": "732604",
+    "regency_id": "7326",
+    "name": "RINDINGALLO"
+  },
+  {
+    "id": "732605",
+    "regency_id": "7326",
+    "name": "BUNTAO"
+  },
+  {
+    "id": "732606",
+    "regency_id": "7326",
+    "name": "SA'DAN"
+  },
+  {
+    "id": "732607",
+    "regency_id": "7326",
+    "name": "SANGGALANGI"
+  },
+  {
+    "id": "732608",
+    "regency_id": "7326",
+    "name": "SOPAI"
+  },
+  {
+    "id": "732609",
+    "regency_id": "7326",
+    "name": "TIKALA"
+  },
+  {
+    "id": "732610",
+    "regency_id": "7326",
+    "name": "BALUSU"
+  },
+  {
+    "id": "732611",
+    "regency_id": "7326",
+    "name": "TALLUNGLIPU"
+  },
+  {
+    "id": "732612",
+    "regency_id": "7326",
+    "name": "DENDE' PIONGAN NAPO"
+  },
+  {
+    "id": "732613",
+    "regency_id": "7326",
+    "name": "BUNTU PEPASAN"
+  },
+  {
+    "id": "732614",
+    "regency_id": "7326",
+    "name": "BARUPPU"
+  },
+  {
+    "id": "732615",
+    "regency_id": "7326",
+    "name": "KESU"
+  },
+  {
+    "id": "732616",
+    "regency_id": "7326",
+    "name": "TONDON"
+  },
+  {
+    "id": "732617",
+    "regency_id": "7326",
+    "name": "BANGKELEKILA"
+  },
+  {
+    "id": "732618",
+    "regency_id": "7326",
+    "name": "RANTEBUA"
+  },
+  {
+    "id": "732619",
+    "regency_id": "7326",
+    "name": "SESEAN SULOARA"
+  },
+  {
+    "id": "732620",
+    "regency_id": "7326",
+    "name": "KAPALA PITU"
+  },
+  {
+    "id": "732621",
+    "regency_id": "7326",
+    "name": "AWAN RANTE KARUA"
+  }
+]

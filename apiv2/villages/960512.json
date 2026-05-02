@@ -1,1 +1,62 @@
-[{"id": "9605122001", "district_id": "960512", "name": "MUPAS"}, {"id": "9605122002", "district_id": "960512", "name": "KAMAT"}, {"id": "9605122003", "district_id": "960512", "name": "FRAMBU"}, {"id": "9605122004", "district_id": "960512", "name": "AYATA"}, {"id": "9605122005", "district_id": "960512", "name": "AIKUS"}, {"id": "9605122006", "district_id": "960512", "name": "AIWESA"}, {"id": "9605122007", "district_id": "960512", "name": "PITOR"}, {"id": "9605122008", "district_id": "960512", "name": "AIFAM"}, {"id": "9605122009", "district_id": "960512", "name": "SAUD"}, {"id": "9605122010", "district_id": "960512", "name": "TIAM"}, {"id": "9605122011", "district_id": "960512", "name": "FAAN KAHRIO"}, {"id": "9605122012", "district_id": "960512", "name": "ASSEM"}]
+[
+  {
+    "id": "9605122001",
+    "district_id": "960512",
+    "name": "MUPAS"
+  },
+  {
+    "id": "9605122002",
+    "district_id": "960512",
+    "name": "KAMAT"
+  },
+  {
+    "id": "9605122003",
+    "district_id": "960512",
+    "name": "FRAMBU"
+  },
+  {
+    "id": "9605122004",
+    "district_id": "960512",
+    "name": "AYATA"
+  },
+  {
+    "id": "9605122005",
+    "district_id": "960512",
+    "name": "AIKUS"
+  },
+  {
+    "id": "9605122006",
+    "district_id": "960512",
+    "name": "AIWESA"
+  },
+  {
+    "id": "9605122007",
+    "district_id": "960512",
+    "name": "PITOR"
+  },
+  {
+    "id": "9605122008",
+    "district_id": "960512",
+    "name": "AIFAM"
+  },
+  {
+    "id": "9605122009",
+    "district_id": "960512",
+    "name": "SAUD"
+  },
+  {
+    "id": "9605122010",
+    "district_id": "960512",
+    "name": "TIAM"
+  },
+  {
+    "id": "9605122011",
+    "district_id": "960512",
+    "name": "FAAN KAHRIO"
+  },
+  {
+    "id": "9605122012",
+    "district_id": "960512",
+    "name": "ASSEM"
+  }
+]

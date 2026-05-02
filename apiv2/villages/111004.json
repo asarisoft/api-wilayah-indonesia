@@ -1,1 +1,82 @@
-[{"id": "1110042001", "district_id": "111004", "name": "PASAR"}, {"id": "1110042002", "district_id": "111004", "name": "UJUNG"}, {"id": "1110042003", "district_id": "111004", "name": "PULO SAROK"}, {"id": "1110042004", "district_id": "111004", "name": "KILANGAN"}, {"id": "1110042005", "district_id": "111004", "name": "KUTA SIMBOLING"}, {"id": "1110042007", "district_id": "111004", "name": "TELUK AMBUN"}, {"id": "1110042008", "district_id": "111004", "name": "RANTAU GEDANG"}, {"id": "1110042009", "district_id": "111004", "name": "TELUK RUMBIA"}, {"id": "1110042010", "district_id": "111004", "name": "PEA BUMBUNG"}, {"id": "1110042011", "district_id": "111004", "name": "PEMUKA"}, {"id": "1110042012", "district_id": "111004", "name": "TAKAL PASIR"}, {"id": "1110042014", "district_id": "111004", "name": "SELOK ACEH"}, {"id": "1110042016", "district_id": "111004", "name": "SUKA MAKMUR"}, {"id": "1110042017", "district_id": "111004", "name": "UJUNG BAWANG"}, {"id": "1110042019", "district_id": "111004", "name": "SITI AMBIA"}, {"id": "1110042020", "district_id": "111004", "name": "SUKA DAMAI"}]
+[
+  {
+    "id": "1110042001",
+    "district_id": "111004",
+    "name": "PASAR"
+  },
+  {
+    "id": "1110042002",
+    "district_id": "111004",
+    "name": "UJUNG"
+  },
+  {
+    "id": "1110042003",
+    "district_id": "111004",
+    "name": "PULO SAROK"
+  },
+  {
+    "id": "1110042004",
+    "district_id": "111004",
+    "name": "KILANGAN"
+  },
+  {
+    "id": "1110042005",
+    "district_id": "111004",
+    "name": "KUTA SIMBOLING"
+  },
+  {
+    "id": "1110042007",
+    "district_id": "111004",
+    "name": "TELUK AMBUN"
+  },
+  {
+    "id": "1110042008",
+    "district_id": "111004",
+    "name": "RANTAU GEDANG"
+  },
+  {
+    "id": "1110042009",
+    "district_id": "111004",
+    "name": "TELUK RUMBIA"
+  },
+  {
+    "id": "1110042010",
+    "district_id": "111004",
+    "name": "PEA BUMBUNG"
+  },
+  {
+    "id": "1110042011",
+    "district_id": "111004",
+    "name": "PEMUKA"
+  },
+  {
+    "id": "1110042012",
+    "district_id": "111004",
+    "name": "TAKAL PASIR"
+  },
+  {
+    "id": "1110042014",
+    "district_id": "111004",
+    "name": "SELOK ACEH"
+  },
+  {
+    "id": "1110042016",
+    "district_id": "111004",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1110042017",
+    "district_id": "111004",
+    "name": "UJUNG BAWANG"
+  },
+  {
+    "id": "1110042019",
+    "district_id": "111004",
+    "name": "SITI AMBIA"
+  },
+  {
+    "id": "1110042020",
+    "district_id": "111004",
+    "name": "SUKA DAMAI"
+  }
+]

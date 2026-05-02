@@ -1,1 +1,47 @@
-[{"id": "5303152001", "district_id": "530315", "name": "BUK"}, {"id": "5303152002", "district_id": "530315", "name": "OENENU"}, {"id": "5303152003", "district_id": "530315", "name": "NIMASI"}, {"id": "5303152004", "district_id": "530315", "name": "OELBONAK"}, {"id": "5303152005", "district_id": "530315", "name": "KUENAK"}, {"id": "5303152006", "district_id": "530315", "name": "OENINO"}, {"id": "5303152007", "district_id": "530315", "name": "OENENU UTARA"}, {"id": "5303152008", "district_id": "530315", "name": "OENENU SELATAN"}, {"id": "5303152009", "district_id": "530315", "name": "SONO"}]
+[
+  {
+    "id": "5303152001",
+    "district_id": "530315",
+    "name": "BUK"
+  },
+  {
+    "id": "5303152002",
+    "district_id": "530315",
+    "name": "OENENU"
+  },
+  {
+    "id": "5303152003",
+    "district_id": "530315",
+    "name": "NIMASI"
+  },
+  {
+    "id": "5303152004",
+    "district_id": "530315",
+    "name": "OELBONAK"
+  },
+  {
+    "id": "5303152005",
+    "district_id": "530315",
+    "name": "KUENAK"
+  },
+  {
+    "id": "5303152006",
+    "district_id": "530315",
+    "name": "OENINO"
+  },
+  {
+    "id": "5303152007",
+    "district_id": "530315",
+    "name": "OENENU UTARA"
+  },
+  {
+    "id": "5303152008",
+    "district_id": "530315",
+    "name": "OENENU SELATAN"
+  },
+  {
+    "id": "5303152009",
+    "district_id": "530315",
+    "name": "SONO"
+  }
+]

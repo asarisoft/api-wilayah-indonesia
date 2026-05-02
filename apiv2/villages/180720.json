@@ -1,1 +1,57 @@
-[{"id": "1807202001", "district_id": "180720", "name": "SUMBEREJO"}, {"id": "1807202002", "district_id": "180720", "name": "NGESTI KARYA"}, {"id": "1807202003", "district_id": "180720", "name": "TRI TUNGGAL"}, {"id": "1807202004", "district_id": "180720", "name": "SIDORAHAYU"}, {"id": "1807202005", "district_id": "180720", "name": "JEMBRANA"}, {"id": "1807202006", "district_id": "180720", "name": "TANJUNG WANGI"}, {"id": "1807202007", "district_id": "180720", "name": "MARGA BATIN"}, {"id": "1807202008", "district_id": "180720", "name": "MEKAR KARYA"}, {"id": "1807202009", "district_id": "180720", "name": "SUMBER JAYA"}, {"id": "1807202010", "district_id": "180720", "name": "KARANG ANOM"}, {"id": "1807202011", "district_id": "180720", "name": "KARYA BASUKI"}]
+[
+  {
+    "id": "1807202001",
+    "district_id": "180720",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "1807202002",
+    "district_id": "180720",
+    "name": "NGESTI KARYA"
+  },
+  {
+    "id": "1807202003",
+    "district_id": "180720",
+    "name": "TRI TUNGGAL"
+  },
+  {
+    "id": "1807202004",
+    "district_id": "180720",
+    "name": "SIDORAHAYU"
+  },
+  {
+    "id": "1807202005",
+    "district_id": "180720",
+    "name": "JEMBRANA"
+  },
+  {
+    "id": "1807202006",
+    "district_id": "180720",
+    "name": "TANJUNG WANGI"
+  },
+  {
+    "id": "1807202007",
+    "district_id": "180720",
+    "name": "MARGA BATIN"
+  },
+  {
+    "id": "1807202008",
+    "district_id": "180720",
+    "name": "MEKAR KARYA"
+  },
+  {
+    "id": "1807202009",
+    "district_id": "180720",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1807202010",
+    "district_id": "180720",
+    "name": "KARANG ANOM"
+  },
+  {
+    "id": "1807202011",
+    "district_id": "180720",
+    "name": "KARYA BASUKI"
+  }
+]

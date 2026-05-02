@@ -1,1 +1,17 @@
-[{"id": "1309012007", "district_id": "130901", "name": "BETUMONGA"}, {"id": "1309012008", "district_id": "130901", "name": "SILABU"}, {"id": "1309012009", "district_id": "130901", "name": "SAUMANGANYA"}]
+[
+  {
+    "id": "1309012007",
+    "district_id": "130901",
+    "name": "BETUMONGA"
+  },
+  {
+    "id": "1309012008",
+    "district_id": "130901",
+    "name": "SILABU"
+  },
+  {
+    "id": "1309012009",
+    "district_id": "130901",
+    "name": "SAUMANGANYA"
+  }
+]

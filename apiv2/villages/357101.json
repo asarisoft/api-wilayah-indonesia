@@ -1,1 +1,72 @@
-[{"id": "3571011001", "district_id": "357101", "name": "BANDAR LOR"}, {"id": "3571011002", "district_id": "357101", "name": "BANDAR KIDUL"}, {"id": "3571011003", "district_id": "357101", "name": "BANJARMLATI"}, {"id": "3571011004", "district_id": "357101", "name": "POJOK"}, {"id": "3571011005", "district_id": "357101", "name": "SUKORAME"}, {"id": "3571011006", "district_id": "357101", "name": "BUJEL"}, {"id": "3571011007", "district_id": "357101", "name": "GAYAM"}, {"id": "3571011008", "district_id": "357101", "name": "MRICAN"}, {"id": "3571011009", "district_id": "357101", "name": "DERMO"}, {"id": "3571011010", "district_id": "357101", "name": "NGAMPEL"}, {"id": "3571011011", "district_id": "357101", "name": "MOJOROTO"}, {"id": "3571011012", "district_id": "357101", "name": "CAMPUREJO"}, {"id": "3571011013", "district_id": "357101", "name": "LIRBOYO"}, {"id": "3571011014", "district_id": "357101", "name": "TAMANAN"}]
+[
+  {
+    "id": "3571011001",
+    "district_id": "357101",
+    "name": "BANDAR LOR"
+  },
+  {
+    "id": "3571011002",
+    "district_id": "357101",
+    "name": "BANDAR KIDUL"
+  },
+  {
+    "id": "3571011003",
+    "district_id": "357101",
+    "name": "BANJARMLATI"
+  },
+  {
+    "id": "3571011004",
+    "district_id": "357101",
+    "name": "POJOK"
+  },
+  {
+    "id": "3571011005",
+    "district_id": "357101",
+    "name": "SUKORAME"
+  },
+  {
+    "id": "3571011006",
+    "district_id": "357101",
+    "name": "BUJEL"
+  },
+  {
+    "id": "3571011007",
+    "district_id": "357101",
+    "name": "GAYAM"
+  },
+  {
+    "id": "3571011008",
+    "district_id": "357101",
+    "name": "MRICAN"
+  },
+  {
+    "id": "3571011009",
+    "district_id": "357101",
+    "name": "DERMO"
+  },
+  {
+    "id": "3571011010",
+    "district_id": "357101",
+    "name": "NGAMPEL"
+  },
+  {
+    "id": "3571011011",
+    "district_id": "357101",
+    "name": "MOJOROTO"
+  },
+  {
+    "id": "3571011012",
+    "district_id": "357101",
+    "name": "CAMPUREJO"
+  },
+  {
+    "id": "3571011013",
+    "district_id": "357101",
+    "name": "LIRBOYO"
+  },
+  {
+    "id": "3571011014",
+    "district_id": "357101",
+    "name": "TAMANAN"
+  }
+]

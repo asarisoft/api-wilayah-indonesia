@@ -1,1 +1,62 @@
-[{"id": "7502042001", "district_id": "750204", "name": "LIMBATO"}, {"id": "7502042002", "district_id": "750204", "name": "PILOLIYANGA"}, {"id": "7502042003", "district_id": "750204", "name": "AYUHULALO"}, {"id": "7502042004", "district_id": "750204", "name": "HUNGAYONAA"}, {"id": "7502042005", "district_id": "750204", "name": "MODELOMO"}, {"id": "7502042006", "district_id": "750204", "name": "PENTADU BARAT"}, {"id": "7502042007", "district_id": "750204", "name": "PENTADU TIMUR"}, {"id": "7502042008", "district_id": "750204", "name": "BAJO"}, {"id": "7502042009", "district_id": "750204", "name": "MOHUNGO"}, {"id": "7502042010", "district_id": "750204", "name": "LAHUMBO"}, {"id": "7502042011", "district_id": "750204", "name": "LAMU"}, {"id": "7502042018", "district_id": "750204", "name": "TENILO"}]
+[
+  {
+    "id": "7502042001",
+    "district_id": "750204",
+    "name": "LIMBATO"
+  },
+  {
+    "id": "7502042002",
+    "district_id": "750204",
+    "name": "PILOLIYANGA"
+  },
+  {
+    "id": "7502042003",
+    "district_id": "750204",
+    "name": "AYUHULALO"
+  },
+  {
+    "id": "7502042004",
+    "district_id": "750204",
+    "name": "HUNGAYONAA"
+  },
+  {
+    "id": "7502042005",
+    "district_id": "750204",
+    "name": "MODELOMO"
+  },
+  {
+    "id": "7502042006",
+    "district_id": "750204",
+    "name": "PENTADU BARAT"
+  },
+  {
+    "id": "7502042007",
+    "district_id": "750204",
+    "name": "PENTADU TIMUR"
+  },
+  {
+    "id": "7502042008",
+    "district_id": "750204",
+    "name": "BAJO"
+  },
+  {
+    "id": "7502042009",
+    "district_id": "750204",
+    "name": "MOHUNGO"
+  },
+  {
+    "id": "7502042010",
+    "district_id": "750204",
+    "name": "LAHUMBO"
+  },
+  {
+    "id": "7502042011",
+    "district_id": "750204",
+    "name": "LAMU"
+  },
+  {
+    "id": "7502042018",
+    "district_id": "750204",
+    "name": "TENILO"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "8201102001", "district_id": "820110", "name": "JANO"}, {"id": "8201102002", "district_id": "820110", "name": "JANGAILULU"}, {"id": "8201102003", "district_id": "820110", "name": "BAJA"}, {"id": "8201102004", "district_id": "820110", "name": "GAM KAHE"}, {"id": "8201102005", "district_id": "820110", "name": "BARATAKU"}, {"id": "8201102006", "district_id": "820110", "name": "PUMADADA"}, {"id": "8201102007", "district_id": "820110", "name": "TOSOMOLO"}, {"id": "8201102008", "district_id": "820110", "name": "BILOTE"}, {"id": "8201102009", "district_id": "820110", "name": "BAKUN PANTAI"}, {"id": "8201102010", "district_id": "820110", "name": "ARUKU"}]
+[
+  {
+    "id": "8201102001",
+    "district_id": "820110",
+    "name": "JANO"
+  },
+  {
+    "id": "8201102002",
+    "district_id": "820110",
+    "name": "JANGAILULU"
+  },
+  {
+    "id": "8201102003",
+    "district_id": "820110",
+    "name": "BAJA"
+  },
+  {
+    "id": "8201102004",
+    "district_id": "820110",
+    "name": "GAM KAHE"
+  },
+  {
+    "id": "8201102005",
+    "district_id": "820110",
+    "name": "BARATAKU"
+  },
+  {
+    "id": "8201102006",
+    "district_id": "820110",
+    "name": "PUMADADA"
+  },
+  {
+    "id": "8201102007",
+    "district_id": "820110",
+    "name": "TOSOMOLO"
+  },
+  {
+    "id": "8201102008",
+    "district_id": "820110",
+    "name": "BILOTE"
+  },
+  {
+    "id": "8201102009",
+    "district_id": "820110",
+    "name": "BAKUN PANTAI"
+  },
+  {
+    "id": "8201102010",
+    "district_id": "820110",
+    "name": "ARUKU"
+  }
+]

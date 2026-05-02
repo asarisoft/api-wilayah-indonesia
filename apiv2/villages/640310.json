@@ -1,1 +1,32 @@
-[{"id": "6403102002", "district_id": "640310", "name": "TABALAR MUARA"}, {"id": "6403102003", "district_id": "640310", "name": "TUBAAN"}, {"id": "6403102004", "district_id": "640310", "name": "TABALAR ULU"}, {"id": "6403102005", "district_id": "640310", "name": "SEMURUT"}, {"id": "6403102006", "district_id": "640310", "name": "BUYUNG-BUYUNG"}, {"id": "6403102007", "district_id": "640310", "name": "HARAPAN MAJU"}]
+[
+  {
+    "id": "6403102002",
+    "district_id": "640310",
+    "name": "TABALAR MUARA"
+  },
+  {
+    "id": "6403102003",
+    "district_id": "640310",
+    "name": "TUBAAN"
+  },
+  {
+    "id": "6403102004",
+    "district_id": "640310",
+    "name": "TABALAR ULU"
+  },
+  {
+    "id": "6403102005",
+    "district_id": "640310",
+    "name": "SEMURUT"
+  },
+  {
+    "id": "6403102006",
+    "district_id": "640310",
+    "name": "BUYUNG-BUYUNG"
+  },
+  {
+    "id": "6403102007",
+    "district_id": "640310",
+    "name": "HARAPAN MAJU"
+  }
+]

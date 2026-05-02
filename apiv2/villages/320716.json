@@ -1,1 +1,32 @@
-[{"id": "3207162001", "district_id": "320716", "name": "TAMBAKSARI"}, {"id": "3207162002", "district_id": "320716", "name": "MEKARSARI"}, {"id": "3207162003", "district_id": "320716", "name": "KASO"}, {"id": "3207162004", "district_id": "320716", "name": "KADUPANDAK"}, {"id": "3207162005", "district_id": "320716", "name": "SUKASARI"}, {"id": "3207162006", "district_id": "320716", "name": "KARANGPANINGAL"}]
+[
+  {
+    "id": "3207162001",
+    "district_id": "320716",
+    "name": "TAMBAKSARI"
+  },
+  {
+    "id": "3207162002",
+    "district_id": "320716",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3207162003",
+    "district_id": "320716",
+    "name": "KASO"
+  },
+  {
+    "id": "3207162004",
+    "district_id": "320716",
+    "name": "KADUPANDAK"
+  },
+  {
+    "id": "3207162005",
+    "district_id": "320716",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3207162006",
+    "district_id": "320716",
+    "name": "KARANGPANINGAL"
+  }
+]

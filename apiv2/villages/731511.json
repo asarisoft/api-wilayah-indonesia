@@ -1,1 +1,32 @@
-[{"id": "7315111001", "district_id": "731511", "name": "PACONGANG"}, {"id": "7315111002", "district_id": "731511", "name": "MACINNAE"}, {"id": "7315111003", "district_id": "731511", "name": "TEMMASSARANGNGE"}, {"id": "7315111004", "district_id": "731511", "name": "MAMMINASAE"}, {"id": "7315111005", "district_id": "731511", "name": "LALENG BATA"}, {"id": "7315111006", "district_id": "731511", "name": "BENTENG SAWITTO"}]
+[
+  {
+    "id": "7315111001",
+    "district_id": "731511",
+    "name": "PACONGANG"
+  },
+  {
+    "id": "7315111002",
+    "district_id": "731511",
+    "name": "MACINNAE"
+  },
+  {
+    "id": "7315111003",
+    "district_id": "731511",
+    "name": "TEMMASSARANGNGE"
+  },
+  {
+    "id": "7315111004",
+    "district_id": "731511",
+    "name": "MAMMINASAE"
+  },
+  {
+    "id": "7315111005",
+    "district_id": "731511",
+    "name": "LALENG BATA"
+  },
+  {
+    "id": "7315111006",
+    "district_id": "731511",
+    "name": "BENTENG SAWITTO"
+  }
+]

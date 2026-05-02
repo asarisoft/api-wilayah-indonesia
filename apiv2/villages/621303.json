@@ -1,1 +1,52 @@
-[{"id": "6213032001", "district_id": "621303", "name": "PULAU PADANG"}, {"id": "6213032002", "district_id": "621303", "name": "KAMBITIN"}, {"id": "6213032003", "district_id": "621303", "name": "RAMANIA"}, {"id": "6213032004", "district_id": "621303", "name": "BENTOT"}, {"id": "6213032005", "district_id": "621303", "name": "AMPARI BURA"}, {"id": "6213032006", "district_id": "621303", "name": "KOTAM"}, {"id": "6213032008", "district_id": "621303", "name": "BETANG NALONG"}, {"id": "6213032009", "district_id": "621303", "name": "MAWANI"}, {"id": "6213032010", "district_id": "621303", "name": "JANGO"}, {"id": "6213032011", "district_id": "621303", "name": "LALAP"}]
+[
+  {
+    "id": "6213032001",
+    "district_id": "621303",
+    "name": "PULAU PADANG"
+  },
+  {
+    "id": "6213032002",
+    "district_id": "621303",
+    "name": "KAMBITIN"
+  },
+  {
+    "id": "6213032003",
+    "district_id": "621303",
+    "name": "RAMANIA"
+  },
+  {
+    "id": "6213032004",
+    "district_id": "621303",
+    "name": "BENTOT"
+  },
+  {
+    "id": "6213032005",
+    "district_id": "621303",
+    "name": "AMPARI BURA"
+  },
+  {
+    "id": "6213032006",
+    "district_id": "621303",
+    "name": "KOTAM"
+  },
+  {
+    "id": "6213032008",
+    "district_id": "621303",
+    "name": "BETANG NALONG"
+  },
+  {
+    "id": "6213032009",
+    "district_id": "621303",
+    "name": "MAWANI"
+  },
+  {
+    "id": "6213032010",
+    "district_id": "621303",
+    "name": "JANGO"
+  },
+  {
+    "id": "6213032011",
+    "district_id": "621303",
+    "name": "LALAP"
+  }
+]

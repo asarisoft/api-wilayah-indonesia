@@ -1,1 +1,52 @@
-[{"id": "3604242001", "district_id": "360424", "name": "PAMARAYAN"}, {"id": "3604242002", "district_id": "360424", "name": "DAMPING"}, {"id": "3604242003", "district_id": "360424", "name": "WIRANA"}, {"id": "3604242004", "district_id": "360424", "name": "KEBONCAU"}, {"id": "3604242005", "district_id": "360424", "name": "PUDAR"}, {"id": "3604242006", "district_id": "360424", "name": "BINONG"}, {"id": "3604242007", "district_id": "360424", "name": "SANGIANG"}, {"id": "3604242008", "district_id": "360424", "name": "KAMPUNGBARU"}, {"id": "3604242010", "district_id": "360424", "name": "PASIRLIMUS"}, {"id": "3604242018", "district_id": "360424", "name": "PASIR KEMBANG"}]
+[
+  {
+    "id": "3604242001",
+    "district_id": "360424",
+    "name": "PAMARAYAN"
+  },
+  {
+    "id": "3604242002",
+    "district_id": "360424",
+    "name": "DAMPING"
+  },
+  {
+    "id": "3604242003",
+    "district_id": "360424",
+    "name": "WIRANA"
+  },
+  {
+    "id": "3604242004",
+    "district_id": "360424",
+    "name": "KEBONCAU"
+  },
+  {
+    "id": "3604242005",
+    "district_id": "360424",
+    "name": "PUDAR"
+  },
+  {
+    "id": "3604242006",
+    "district_id": "360424",
+    "name": "BINONG"
+  },
+  {
+    "id": "3604242007",
+    "district_id": "360424",
+    "name": "SANGIANG"
+  },
+  {
+    "id": "3604242008",
+    "district_id": "360424",
+    "name": "KAMPUNGBARU"
+  },
+  {
+    "id": "3604242010",
+    "district_id": "360424",
+    "name": "PASIRLIMUS"
+  },
+  {
+    "id": "3604242018",
+    "district_id": "360424",
+    "name": "PASIR KEMBANG"
+  }
+]

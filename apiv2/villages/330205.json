@@ -1,1 +1,62 @@
-[{"id": "3302052001", "district_id": "330205", "name": "ADISANA"}, {"id": "3302052002", "district_id": "330205", "name": "BANGSA"}, {"id": "3302052003", "district_id": "330205", "name": "KARANGSARI"}, {"id": "3302052004", "district_id": "330205", "name": "RANDEGAN"}, {"id": "3302052005", "district_id": "330205", "name": "KALIWEDI"}, {"id": "3302052006", "district_id": "330205", "name": "SAWANGAN"}, {"id": "3302052007", "district_id": "330205", "name": "KALISALAK"}, {"id": "3302052008", "district_id": "330205", "name": "CINDAGA"}, {"id": "3302052009", "district_id": "330205", "name": "KEBASEN"}, {"id": "3302052010", "district_id": "330205", "name": "GAMBARSARI"}, {"id": "3302052011", "district_id": "330205", "name": "TUMIYANG"}, {"id": "3302052012", "district_id": "330205", "name": "MANDIRANCAN"}]
+[
+  {
+    "id": "3302052001",
+    "district_id": "330205",
+    "name": "ADISANA"
+  },
+  {
+    "id": "3302052002",
+    "district_id": "330205",
+    "name": "BANGSA"
+  },
+  {
+    "id": "3302052003",
+    "district_id": "330205",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3302052004",
+    "district_id": "330205",
+    "name": "RANDEGAN"
+  },
+  {
+    "id": "3302052005",
+    "district_id": "330205",
+    "name": "KALIWEDI"
+  },
+  {
+    "id": "3302052006",
+    "district_id": "330205",
+    "name": "SAWANGAN"
+  },
+  {
+    "id": "3302052007",
+    "district_id": "330205",
+    "name": "KALISALAK"
+  },
+  {
+    "id": "3302052008",
+    "district_id": "330205",
+    "name": "CINDAGA"
+  },
+  {
+    "id": "3302052009",
+    "district_id": "330205",
+    "name": "KEBASEN"
+  },
+  {
+    "id": "3302052010",
+    "district_id": "330205",
+    "name": "GAMBARSARI"
+  },
+  {
+    "id": "3302052011",
+    "district_id": "330205",
+    "name": "TUMIYANG"
+  },
+  {
+    "id": "3302052012",
+    "district_id": "330205",
+    "name": "MANDIRANCAN"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "8202012004", "district_id": "820201", "name": "NUSLIKO"}, {"id": "8202012005", "district_id": "820201", "name": "WERE"}, {"id": "8202012020", "district_id": "820201", "name": "FIDY JAYA"}, {"id": "8202012021", "district_id": "820201", "name": "SIDANGA"}, {"id": "8202012022", "district_id": "820201", "name": "NURWEDA"}, {"id": "8202012023", "district_id": "820201", "name": "WEDANA"}, {"id": "8202012024", "district_id": "820201", "name": "GOENG"}]
+[
+  {
+    "id": "8202012004",
+    "district_id": "820201",
+    "name": "NUSLIKO"
+  },
+  {
+    "id": "8202012005",
+    "district_id": "820201",
+    "name": "WERE"
+  },
+  {
+    "id": "8202012020",
+    "district_id": "820201",
+    "name": "FIDY JAYA"
+  },
+  {
+    "id": "8202012021",
+    "district_id": "820201",
+    "name": "SIDANGA"
+  },
+  {
+    "id": "8202012022",
+    "district_id": "820201",
+    "name": "NURWEDA"
+  },
+  {
+    "id": "8202012023",
+    "district_id": "820201",
+    "name": "WEDANA"
+  },
+  {
+    "id": "8202012024",
+    "district_id": "820201",
+    "name": "GOENG"
+  }
+]

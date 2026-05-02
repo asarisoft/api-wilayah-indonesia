@@ -1,1 +1,142 @@
-[{"id": "3315162001", "district_id": "331516", "name": "GUYANGAN"}, {"id": "3315162002", "district_id": "331516", "name": "WERDOYO"}, {"id": "3315162003", "district_id": "331516", "name": "GUCI"}, {"id": "3315162004", "district_id": "331516", "name": "ANGGASWANGI"}, {"id": "3315162005", "district_id": "331516", "name": "KETANGIREJO"}, {"id": "3315162006", "district_id": "331516", "name": "SAMBUNG"}, {"id": "3315162007", "district_id": "331516", "name": "SUMURGEDE"}, {"id": "3315162008", "district_id": "331516", "name": "LATAK"}, {"id": "3315162009", "district_id": "331516", "name": "TUNGU"}, {"id": "3315162010", "district_id": "331516", "name": "PAHESAN"}, {"id": "3315162011", "district_id": "331516", "name": "WANUTUNGGAL"}, {"id": "3315162012", "district_id": "331516", "name": "KARANGGENENG"}, {"id": "3315162013", "district_id": "331516", "name": "MANGGARWETAN"}, {"id": "3315162014", "district_id": "331516", "name": "TINANDING"}, {"id": "3315162015", "district_id": "331516", "name": "MANGGARMAS"}, {"id": "3315162016", "district_id": "331516", "name": "HARJOWINANGUN"}, {"id": "3315162017", "district_id": "331516", "name": "RAJEK"}, {"id": "3315162018", "district_id": "331516", "name": "DOROLEGI"}, {"id": "3315162019", "district_id": "331516", "name": "KOPEK"}, {"id": "3315162020", "district_id": "331516", "name": "KEMLOKO"}, {"id": "3315162021", "district_id": "331516", "name": "SUMBERAGUNG"}, {"id": "3315162022", "district_id": "331516", "name": "GUNDI"}, {"id": "3315162023", "district_id": "331516", "name": "JATILOR"}, {"id": "3315162024", "district_id": "331516", "name": "BRINGIN"}, {"id": "3315162025", "district_id": "331516", "name": "KLAMPOK"}, {"id": "3315162026", "district_id": "331516", "name": "GODONG"}, {"id": "3315162027", "district_id": "331516", "name": "KETITANG"}, {"id": "3315162028", "district_id": "331516", "name": "BUGEL"}]
+[
+  {
+    "id": "3315162001",
+    "district_id": "331516",
+    "name": "GUYANGAN"
+  },
+  {
+    "id": "3315162002",
+    "district_id": "331516",
+    "name": "WERDOYO"
+  },
+  {
+    "id": "3315162003",
+    "district_id": "331516",
+    "name": "GUCI"
+  },
+  {
+    "id": "3315162004",
+    "district_id": "331516",
+    "name": "ANGGASWANGI"
+  },
+  {
+    "id": "3315162005",
+    "district_id": "331516",
+    "name": "KETANGIREJO"
+  },
+  {
+    "id": "3315162006",
+    "district_id": "331516",
+    "name": "SAMBUNG"
+  },
+  {
+    "id": "3315162007",
+    "district_id": "331516",
+    "name": "SUMURGEDE"
+  },
+  {
+    "id": "3315162008",
+    "district_id": "331516",
+    "name": "LATAK"
+  },
+  {
+    "id": "3315162009",
+    "district_id": "331516",
+    "name": "TUNGU"
+  },
+  {
+    "id": "3315162010",
+    "district_id": "331516",
+    "name": "PAHESAN"
+  },
+  {
+    "id": "3315162011",
+    "district_id": "331516",
+    "name": "WANUTUNGGAL"
+  },
+  {
+    "id": "3315162012",
+    "district_id": "331516",
+    "name": "KARANGGENENG"
+  },
+  {
+    "id": "3315162013",
+    "district_id": "331516",
+    "name": "MANGGARWETAN"
+  },
+  {
+    "id": "3315162014",
+    "district_id": "331516",
+    "name": "TINANDING"
+  },
+  {
+    "id": "3315162015",
+    "district_id": "331516",
+    "name": "MANGGARMAS"
+  },
+  {
+    "id": "3315162016",
+    "district_id": "331516",
+    "name": "HARJOWINANGUN"
+  },
+  {
+    "id": "3315162017",
+    "district_id": "331516",
+    "name": "RAJEK"
+  },
+  {
+    "id": "3315162018",
+    "district_id": "331516",
+    "name": "DOROLEGI"
+  },
+  {
+    "id": "3315162019",
+    "district_id": "331516",
+    "name": "KOPEK"
+  },
+  {
+    "id": "3315162020",
+    "district_id": "331516",
+    "name": "KEMLOKO"
+  },
+  {
+    "id": "3315162021",
+    "district_id": "331516",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3315162022",
+    "district_id": "331516",
+    "name": "GUNDI"
+  },
+  {
+    "id": "3315162023",
+    "district_id": "331516",
+    "name": "JATILOR"
+  },
+  {
+    "id": "3315162024",
+    "district_id": "331516",
+    "name": "BRINGIN"
+  },
+  {
+    "id": "3315162025",
+    "district_id": "331516",
+    "name": "KLAMPOK"
+  },
+  {
+    "id": "3315162026",
+    "district_id": "331516",
+    "name": "GODONG"
+  },
+  {
+    "id": "3315162027",
+    "district_id": "331516",
+    "name": "KETITANG"
+  },
+  {
+    "id": "3315162028",
+    "district_id": "331516",
+    "name": "BUGEL"
+  }
+]

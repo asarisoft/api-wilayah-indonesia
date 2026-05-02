@@ -1,1 +1,67 @@
-[{"id": "3205312001", "district_id": "320531", "name": "BUNGBULANG"}, {"id": "3205312002", "district_id": "320531", "name": "HANJUANG"}, {"id": "3205312003", "district_id": "320531", "name": "GUNAMEKAR"}, {"id": "3205312004", "district_id": "320531", "name": "TEGALLEGA"}, {"id": "3205312005", "district_id": "320531", "name": "MEKARBAKTI"}, {"id": "3205312006", "district_id": "320531", "name": "MARGALAKSANA"}, {"id": "3205312007", "district_id": "320531", "name": "BOJONG"}, {"id": "3205312008", "district_id": "320531", "name": "SINARJAYA"}, {"id": "3205312009", "district_id": "320531", "name": "MEKARJAYA"}, {"id": "3205312010", "district_id": "320531", "name": "CIHIKEU"}, {"id": "3205312011", "district_id": "320531", "name": "WANGUNJAYA"}, {"id": "3205312012", "district_id": "320531", "name": "GUNUNG JAMPANG"}, {"id": "3205312013", "district_id": "320531", "name": "HEGARMANAH"}]
+[
+  {
+    "id": "3205312001",
+    "district_id": "320531",
+    "name": "BUNGBULANG"
+  },
+  {
+    "id": "3205312002",
+    "district_id": "320531",
+    "name": "HANJUANG"
+  },
+  {
+    "id": "3205312003",
+    "district_id": "320531",
+    "name": "GUNAMEKAR"
+  },
+  {
+    "id": "3205312004",
+    "district_id": "320531",
+    "name": "TEGALLEGA"
+  },
+  {
+    "id": "3205312005",
+    "district_id": "320531",
+    "name": "MEKARBAKTI"
+  },
+  {
+    "id": "3205312006",
+    "district_id": "320531",
+    "name": "MARGALAKSANA"
+  },
+  {
+    "id": "3205312007",
+    "district_id": "320531",
+    "name": "BOJONG"
+  },
+  {
+    "id": "3205312008",
+    "district_id": "320531",
+    "name": "SINARJAYA"
+  },
+  {
+    "id": "3205312009",
+    "district_id": "320531",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3205312010",
+    "district_id": "320531",
+    "name": "CIHIKEU"
+  },
+  {
+    "id": "3205312011",
+    "district_id": "320531",
+    "name": "WANGUNJAYA"
+  },
+  {
+    "id": "3205312012",
+    "district_id": "320531",
+    "name": "GUNUNG JAMPANG"
+  },
+  {
+    "id": "3205312013",
+    "district_id": "320531",
+    "name": "HEGARMANAH"
+  }
+]

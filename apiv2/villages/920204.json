@@ -1,1 +1,32 @@
-[{"id": "9202042001", "district_id": "920204", "name": "PRAFI MULYA"}, {"id": "9202042002", "district_id": "920204", "name": "UMBUY"}, {"id": "9202042003", "district_id": "920204", "name": "DESAY"}, {"id": "9202042008", "district_id": "920204", "name": "INGKWOISI"}, {"id": "9202042010", "district_id": "920204", "name": "SOMI"}, {"id": "9202042016", "district_id": "920204", "name": "MEBJI"}]
+[
+  {
+    "id": "9202042001",
+    "district_id": "920204",
+    "name": "PRAFI MULYA"
+  },
+  {
+    "id": "9202042002",
+    "district_id": "920204",
+    "name": "UMBUY"
+  },
+  {
+    "id": "9202042003",
+    "district_id": "920204",
+    "name": "DESAY"
+  },
+  {
+    "id": "9202042008",
+    "district_id": "920204",
+    "name": "INGKWOISI"
+  },
+  {
+    "id": "9202042010",
+    "district_id": "920204",
+    "name": "SOMI"
+  },
+  {
+    "id": "9202042016",
+    "district_id": "920204",
+    "name": "MEBJI"
+  }
+]

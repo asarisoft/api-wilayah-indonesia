@@ -1,1 +1,112 @@
-[{"id": "1115082001", "district_id": "111508", "name": "ALUE BATA"}, {"id": "1115082002", "district_id": "111508", "name": "GUNONG SAPEK"}, {"id": "1115082003", "district_id": "111508", "name": "SARAH MANTOK"}, {"id": "1115082004", "district_id": "111508", "name": "PASIE LUAH"}, {"id": "1115082005", "district_id": "111508", "name": "GUNONG GEULUGO"}, {"id": "1115082006", "district_id": "111508", "name": "GUNONG KUPOK"}, {"id": "1115082007", "district_id": "111508", "name": "GUNONG PUNGKI"}, {"id": "1115082008", "district_id": "111508", "name": "ALUE SIRON"}, {"id": "1115082009", "district_id": "111508", "name": "COT MUE"}, {"id": "1115082010", "district_id": "111508", "name": "BABAH ROT"}, {"id": "1115082011", "district_id": "111508", "name": "BABAH DUA"}, {"id": "1115082012", "district_id": "111508", "name": "BATU RAJA"}, {"id": "1115082013", "district_id": "111508", "name": "SIMPANG JAYA"}, {"id": "1115082014", "district_id": "111508", "name": "SUMBER DAYA"}, {"id": "1115082015", "district_id": "111508", "name": "RANTAU SELAMAT"}, {"id": "1115082016", "district_id": "111508", "name": "ALUE SEUPEUNG"}, {"id": "1115082017", "district_id": "111508", "name": "KRUENG ITAM"}, {"id": "1115082018", "district_id": "111508", "name": "ALUE GAJAH"}, {"id": "1115082019", "district_id": "111508", "name": "ALUE LABU"}, {"id": "1115082020", "district_id": "111508", "name": "GAPA GARU"}, {"id": "1115082021", "district_id": "111508", "name": "KUALA TADU"}, {"id": "1115082022", "district_id": "111508", "name": "COT MEE"}]
+[
+  {
+    "id": "1115082001",
+    "district_id": "111508",
+    "name": "ALUE BATA"
+  },
+  {
+    "id": "1115082002",
+    "district_id": "111508",
+    "name": "GUNONG SAPEK"
+  },
+  {
+    "id": "1115082003",
+    "district_id": "111508",
+    "name": "SARAH MANTOK"
+  },
+  {
+    "id": "1115082004",
+    "district_id": "111508",
+    "name": "PASIE LUAH"
+  },
+  {
+    "id": "1115082005",
+    "district_id": "111508",
+    "name": "GUNONG GEULUGO"
+  },
+  {
+    "id": "1115082006",
+    "district_id": "111508",
+    "name": "GUNONG KUPOK"
+  },
+  {
+    "id": "1115082007",
+    "district_id": "111508",
+    "name": "GUNONG PUNGKI"
+  },
+  {
+    "id": "1115082008",
+    "district_id": "111508",
+    "name": "ALUE SIRON"
+  },
+  {
+    "id": "1115082009",
+    "district_id": "111508",
+    "name": "COT MUE"
+  },
+  {
+    "id": "1115082010",
+    "district_id": "111508",
+    "name": "BABAH ROT"
+  },
+  {
+    "id": "1115082011",
+    "district_id": "111508",
+    "name": "BABAH DUA"
+  },
+  {
+    "id": "1115082012",
+    "district_id": "111508",
+    "name": "BATU RAJA"
+  },
+  {
+    "id": "1115082013",
+    "district_id": "111508",
+    "name": "SIMPANG JAYA"
+  },
+  {
+    "id": "1115082014",
+    "district_id": "111508",
+    "name": "SUMBER DAYA"
+  },
+  {
+    "id": "1115082015",
+    "district_id": "111508",
+    "name": "RANTAU SELAMAT"
+  },
+  {
+    "id": "1115082016",
+    "district_id": "111508",
+    "name": "ALUE SEUPEUNG"
+  },
+  {
+    "id": "1115082017",
+    "district_id": "111508",
+    "name": "KRUENG ITAM"
+  },
+  {
+    "id": "1115082018",
+    "district_id": "111508",
+    "name": "ALUE GAJAH"
+  },
+  {
+    "id": "1115082019",
+    "district_id": "111508",
+    "name": "ALUE LABU"
+  },
+  {
+    "id": "1115082020",
+    "district_id": "111508",
+    "name": "GAPA GARU"
+  },
+  {
+    "id": "1115082021",
+    "district_id": "111508",
+    "name": "KUALA TADU"
+  },
+  {
+    "id": "1115082022",
+    "district_id": "111508",
+    "name": "COT MEE"
+  }
+]

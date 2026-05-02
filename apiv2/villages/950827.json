@@ -1,1 +1,27 @@
-[{"id": "9508272001", "district_id": "950827", "name": "NGANAI"}, {"id": "9508272002", "district_id": "950827", "name": "PIJA"}, {"id": "9508272003", "district_id": "950827", "name": "SITGAMA"}, {"id": "9508272004", "district_id": "950827", "name": "SIAT"}, {"id": "9508272005", "district_id": "950827", "name": "MURUPBAYE"}]
+[
+  {
+    "id": "9508272001",
+    "district_id": "950827",
+    "name": "NGANAI"
+  },
+  {
+    "id": "9508272002",
+    "district_id": "950827",
+    "name": "PIJA"
+  },
+  {
+    "id": "9508272003",
+    "district_id": "950827",
+    "name": "SITGAMA"
+  },
+  {
+    "id": "9508272004",
+    "district_id": "950827",
+    "name": "SIAT"
+  },
+  {
+    "id": "9508272005",
+    "district_id": "950827",
+    "name": "MURUPBAYE"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "3209362001", "district_id": "320936", "name": "TEGALSARI"}, {"id": "3209362002", "district_id": "320936", "name": "KALIWULU"}, {"id": "3209362003", "district_id": "320936", "name": "PANEMBAHAN"}, {"id": "3209362004", "district_id": "320936", "name": "TRUSMI WETAN"}, {"id": "3209362005", "district_id": "320936", "name": "TRUSMI KULON"}, {"id": "3209362006", "district_id": "320936", "name": "WOTGALI"}, {"id": "3209362007", "district_id": "320936", "name": "GAMEL"}, {"id": "3209362008", "district_id": "320936", "name": "SARABAU"}, {"id": "3209362009", "district_id": "320936", "name": "CANGKRING"}, {"id": "3209362010", "district_id": "320936", "name": "PANGKALAN"}]
+[
+  {
+    "id": "3209362001",
+    "district_id": "320936",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3209362002",
+    "district_id": "320936",
+    "name": "KALIWULU"
+  },
+  {
+    "id": "3209362003",
+    "district_id": "320936",
+    "name": "PANEMBAHAN"
+  },
+  {
+    "id": "3209362004",
+    "district_id": "320936",
+    "name": "TRUSMI WETAN"
+  },
+  {
+    "id": "3209362005",
+    "district_id": "320936",
+    "name": "TRUSMI KULON"
+  },
+  {
+    "id": "3209362006",
+    "district_id": "320936",
+    "name": "WOTGALI"
+  },
+  {
+    "id": "3209362007",
+    "district_id": "320936",
+    "name": "GAMEL"
+  },
+  {
+    "id": "3209362008",
+    "district_id": "320936",
+    "name": "SARABAU"
+  },
+  {
+    "id": "3209362009",
+    "district_id": "320936",
+    "name": "CANGKRING"
+  },
+  {
+    "id": "3209362010",
+    "district_id": "320936",
+    "name": "PANGKALAN"
+  }
+]

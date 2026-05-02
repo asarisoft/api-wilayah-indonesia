@@ -1,1 +1,47 @@
-[{"id": "3209252001", "district_id": "320925", "name": "KALIANYAR"}, {"id": "3209252002", "district_id": "320925", "name": "PANGURANGAN KULON"}, {"id": "3209252003", "district_id": "320925", "name": "PANGURANGAN WETAN"}, {"id": "3209252004", "district_id": "320925", "name": "PANGURANGAN LOR"}, {"id": "3209252005", "district_id": "320925", "name": "PANGURANGAN"}, {"id": "3209252006", "district_id": "320925", "name": "GUJEG"}, {"id": "3209252007", "district_id": "320925", "name": "LEMAHTAMBA"}, {"id": "3209252008", "district_id": "320925", "name": "KARANGANYAR"}, {"id": "3209252009", "district_id": "320925", "name": "KROYA"}]
+[
+  {
+    "id": "3209252001",
+    "district_id": "320925",
+    "name": "KALIANYAR"
+  },
+  {
+    "id": "3209252002",
+    "district_id": "320925",
+    "name": "PANGURANGAN KULON"
+  },
+  {
+    "id": "3209252003",
+    "district_id": "320925",
+    "name": "PANGURANGAN WETAN"
+  },
+  {
+    "id": "3209252004",
+    "district_id": "320925",
+    "name": "PANGURANGAN LOR"
+  },
+  {
+    "id": "3209252005",
+    "district_id": "320925",
+    "name": "PANGURANGAN"
+  },
+  {
+    "id": "3209252006",
+    "district_id": "320925",
+    "name": "GUJEG"
+  },
+  {
+    "id": "3209252007",
+    "district_id": "320925",
+    "name": "LEMAHTAMBA"
+  },
+  {
+    "id": "3209252008",
+    "district_id": "320925",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3209252009",
+    "district_id": "320925",
+    "name": "KROYA"
+  }
+]

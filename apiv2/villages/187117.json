@@ -1,1 +1,32 @@
-[{"id": "1871171001", "district_id": "187117", "name": "ENGGAL"}, {"id": "1871171002", "district_id": "187117", "name": "PELITA"}, {"id": "1871171003", "district_id": "187117", "name": "TANJUNGKARANG"}, {"id": "1871171004", "district_id": "187117", "name": "GUNUNGSARI"}, {"id": "1871171005", "district_id": "187117", "name": "RAWALAUT"}, {"id": "1871171006", "district_id": "187117", "name": "PAHOMAN"}]
+[
+  {
+    "id": "1871171001",
+    "district_id": "187117",
+    "name": "ENGGAL"
+  },
+  {
+    "id": "1871171002",
+    "district_id": "187117",
+    "name": "PELITA"
+  },
+  {
+    "id": "1871171003",
+    "district_id": "187117",
+    "name": "TANJUNGKARANG"
+  },
+  {
+    "id": "1871171004",
+    "district_id": "187117",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "1871171005",
+    "district_id": "187117",
+    "name": "RAWALAUT"
+  },
+  {
+    "id": "1871171006",
+    "district_id": "187117",
+    "name": "PAHOMAN"
+  }
+]

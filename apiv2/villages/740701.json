@@ -1,1 +1,102 @@
-[{"id": "7407011002", "district_id": "740701", "name": "PONGO"}, {"id": "7407011003", "district_id": "740701", "name": "WANCI"}, {"id": "7407011004", "district_id": "740701", "name": "WANDOKA"}, {"id": "7407011007", "district_id": "740701", "name": "WAETUNO"}, {"id": "7407011025", "district_id": "740701", "name": "WANDOKA UTARA"}, {"id": "7407011026", "district_id": "740701", "name": "WANDOKA SELATAN"}, {"id": "7407012005", "district_id": "740701", "name": "SOMBU"}, {"id": "7407012006", "district_id": "740701", "name": "WAHA"}, {"id": "7407012008", "district_id": "740701", "name": "TINDOI"}, {"id": "7407012009", "district_id": "740701", "name": "MALEKO"}, {"id": "7407012013", "district_id": "740701", "name": "LONGA"}, {"id": "7407012022", "district_id": "740701", "name": "PADA RAYA MAKMUR"}, {"id": "7407012023", "district_id": "740701", "name": "WAELUMU"}, {"id": "7407012024", "district_id": "740701", "name": "PATUNO"}, {"id": "7407012027", "district_id": "740701", "name": "WAGINOPO"}, {"id": "7407012028", "district_id": "740701", "name": "TINDOI TIMUR"}, {"id": "7407012029", "district_id": "740701", "name": "POSALU"}, {"id": "7407012030", "district_id": "740701", "name": "KOROE ONAWA"}, {"id": "7407012031", "district_id": "740701", "name": "WAPIA-PIA"}, {"id": "7407012032", "district_id": "740701", "name": "POOKAMBUA"}]
+[
+  {
+    "id": "7407011002",
+    "district_id": "740701",
+    "name": "PONGO"
+  },
+  {
+    "id": "7407011003",
+    "district_id": "740701",
+    "name": "WANCI"
+  },
+  {
+    "id": "7407011004",
+    "district_id": "740701",
+    "name": "WANDOKA"
+  },
+  {
+    "id": "7407011007",
+    "district_id": "740701",
+    "name": "WAETUNO"
+  },
+  {
+    "id": "7407011025",
+    "district_id": "740701",
+    "name": "WANDOKA UTARA"
+  },
+  {
+    "id": "7407011026",
+    "district_id": "740701",
+    "name": "WANDOKA SELATAN"
+  },
+  {
+    "id": "7407012005",
+    "district_id": "740701",
+    "name": "SOMBU"
+  },
+  {
+    "id": "7407012006",
+    "district_id": "740701",
+    "name": "WAHA"
+  },
+  {
+    "id": "7407012008",
+    "district_id": "740701",
+    "name": "TINDOI"
+  },
+  {
+    "id": "7407012009",
+    "district_id": "740701",
+    "name": "MALEKO"
+  },
+  {
+    "id": "7407012013",
+    "district_id": "740701",
+    "name": "LONGA"
+  },
+  {
+    "id": "7407012022",
+    "district_id": "740701",
+    "name": "PADA RAYA MAKMUR"
+  },
+  {
+    "id": "7407012023",
+    "district_id": "740701",
+    "name": "WAELUMU"
+  },
+  {
+    "id": "7407012024",
+    "district_id": "740701",
+    "name": "PATUNO"
+  },
+  {
+    "id": "7407012027",
+    "district_id": "740701",
+    "name": "WAGINOPO"
+  },
+  {
+    "id": "7407012028",
+    "district_id": "740701",
+    "name": "TINDOI TIMUR"
+  },
+  {
+    "id": "7407012029",
+    "district_id": "740701",
+    "name": "POSALU"
+  },
+  {
+    "id": "7407012030",
+    "district_id": "740701",
+    "name": "KOROE ONAWA"
+  },
+  {
+    "id": "7407012031",
+    "district_id": "740701",
+    "name": "WAPIA-PIA"
+  },
+  {
+    "id": "7407012032",
+    "district_id": "740701",
+    "name": "POOKAMBUA"
+  }
+]

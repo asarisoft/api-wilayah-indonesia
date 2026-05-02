@@ -1,1 +1,67 @@
-[{"id": "1210081001", "district_id": "121008", "name": "NEGERI LAMA"}, {"id": "1210081002", "district_id": "121008", "name": "NEGERI BARU"}, {"id": "1210082003", "district_id": "121008", "name": "PERKEBUNAN SENNAH"}, {"id": "1210082004", "district_id": "121008", "name": "PERKEBUNAN NEGERI LAMA"}, {"id": "1210082005", "district_id": "121008", "name": "PERKEBUNAN BILAH"}, {"id": "1210082006", "district_id": "121008", "name": "KAMPUNG BILAH"}, {"id": "1210082007", "district_id": "121008", "name": "NEGERI LAMA SEBERANG"}, {"id": "1210082008", "district_id": "121008", "name": "SEI TAMPANG"}, {"id": "1210082009", "district_id": "121008", "name": "SELAT BESAR"}, {"id": "1210082010", "district_id": "121008", "name": "TANJUNG HALOBAN"}, {"id": "1210082011", "district_id": "121008", "name": "SIDOMULYO"}, {"id": "1210082012", "district_id": "121008", "name": "SEI TAROLAT"}, {"id": "1210082013", "district_id": "121008", "name": "SEI KASIH"}]
+[
+  {
+    "id": "1210081001",
+    "district_id": "121008",
+    "name": "NEGERI LAMA"
+  },
+  {
+    "id": "1210081002",
+    "district_id": "121008",
+    "name": "NEGERI BARU"
+  },
+  {
+    "id": "1210082003",
+    "district_id": "121008",
+    "name": "PERKEBUNAN SENNAH"
+  },
+  {
+    "id": "1210082004",
+    "district_id": "121008",
+    "name": "PERKEBUNAN NEGERI LAMA"
+  },
+  {
+    "id": "1210082005",
+    "district_id": "121008",
+    "name": "PERKEBUNAN BILAH"
+  },
+  {
+    "id": "1210082006",
+    "district_id": "121008",
+    "name": "KAMPUNG BILAH"
+  },
+  {
+    "id": "1210082007",
+    "district_id": "121008",
+    "name": "NEGERI LAMA SEBERANG"
+  },
+  {
+    "id": "1210082008",
+    "district_id": "121008",
+    "name": "SEI TAMPANG"
+  },
+  {
+    "id": "1210082009",
+    "district_id": "121008",
+    "name": "SELAT BESAR"
+  },
+  {
+    "id": "1210082010",
+    "district_id": "121008",
+    "name": "TANJUNG HALOBAN"
+  },
+  {
+    "id": "1210082011",
+    "district_id": "121008",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "1210082012",
+    "district_id": "121008",
+    "name": "SEI TAROLAT"
+  },
+  {
+    "id": "1210082013",
+    "district_id": "121008",
+    "name": "SEI KASIH"
+  }
+]

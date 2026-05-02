@@ -1,1 +1,42 @@
-[{"id": "3206152001", "district_id": "320615", "name": "MANDALASARI"}, {"id": "3206152002", "district_id": "320615", "name": "SUKASARI"}, {"id": "3206152003", "district_id": "320615", "name": "PUSPASARI"}, {"id": "3206152004", "district_id": "320615", "name": "PUSPAHIANG"}, {"id": "3206152005", "district_id": "320615", "name": "LUYUBAKTI"}, {"id": "3206152006", "district_id": "320615", "name": "PUSPARAHAYU"}, {"id": "3206152007", "district_id": "320615", "name": "CIMANGGU"}, {"id": "3206152008", "district_id": "320615", "name": "PUSPAJAYA"}]
+[
+  {
+    "id": "3206152001",
+    "district_id": "320615",
+    "name": "MANDALASARI"
+  },
+  {
+    "id": "3206152002",
+    "district_id": "320615",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3206152003",
+    "district_id": "320615",
+    "name": "PUSPASARI"
+  },
+  {
+    "id": "3206152004",
+    "district_id": "320615",
+    "name": "PUSPAHIANG"
+  },
+  {
+    "id": "3206152005",
+    "district_id": "320615",
+    "name": "LUYUBAKTI"
+  },
+  {
+    "id": "3206152006",
+    "district_id": "320615",
+    "name": "PUSPARAHAYU"
+  },
+  {
+    "id": "3206152007",
+    "district_id": "320615",
+    "name": "CIMANGGU"
+  },
+  {
+    "id": "3206152008",
+    "district_id": "320615",
+    "name": "PUSPAJAYA"
+  }
+]

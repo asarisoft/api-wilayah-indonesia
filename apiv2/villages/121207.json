@@ -1,1 +1,87 @@
-[{"id": "1212071037", "district_id": "121207", "name": "PASAR PORSEA"}, {"id": "1212071038", "district_id": "121207", "name": "PATANE III"}, {"id": "1212071039", "district_id": "121207", "name": "PARPAREAN III"}, {"id": "1212072001", "district_id": "121207", "name": "PATANE IV"}, {"id": "1212072003", "district_id": "121207", "name": "LUMBAN GURNING"}, {"id": "1212072004", "district_id": "121207", "name": "AMBORGANG"}, {"id": "1212072005", "district_id": "121207", "name": "NALELA"}, {"id": "1212072007", "district_id": "121207", "name": "PATANE II"}, {"id": "1212072022", "district_id": "121207", "name": "GALA GALA PANGKAILAN"}, {"id": "1212072023", "district_id": "121207", "name": "SILAMOSIK I"}, {"id": "1212072030", "district_id": "121207", "name": "PARPAREAN IV"}, {"id": "1212072031", "district_id": "121207", "name": "PARPAREAN I"}, {"id": "1212072033", "district_id": "121207", "name": "PARPAREAN II"}, {"id": "1212072036", "district_id": "121207", "name": "PATANE I"}, {"id": "1212072040", "district_id": "121207", "name": "PATANE V"}, {"id": "1212072041", "district_id": "121207", "name": "SIMPANG SIGURA-GURA"}, {"id": "1212072042", "district_id": "121207", "name": "RAUT BOSI"}]
+[
+  {
+    "id": "1212071037",
+    "district_id": "121207",
+    "name": "PASAR PORSEA"
+  },
+  {
+    "id": "1212071038",
+    "district_id": "121207",
+    "name": "PATANE III"
+  },
+  {
+    "id": "1212071039",
+    "district_id": "121207",
+    "name": "PARPAREAN III"
+  },
+  {
+    "id": "1212072001",
+    "district_id": "121207",
+    "name": "PATANE IV"
+  },
+  {
+    "id": "1212072003",
+    "district_id": "121207",
+    "name": "LUMBAN GURNING"
+  },
+  {
+    "id": "1212072004",
+    "district_id": "121207",
+    "name": "AMBORGANG"
+  },
+  {
+    "id": "1212072005",
+    "district_id": "121207",
+    "name": "NALELA"
+  },
+  {
+    "id": "1212072007",
+    "district_id": "121207",
+    "name": "PATANE II"
+  },
+  {
+    "id": "1212072022",
+    "district_id": "121207",
+    "name": "GALA GALA PANGKAILAN"
+  },
+  {
+    "id": "1212072023",
+    "district_id": "121207",
+    "name": "SILAMOSIK I"
+  },
+  {
+    "id": "1212072030",
+    "district_id": "121207",
+    "name": "PARPAREAN IV"
+  },
+  {
+    "id": "1212072031",
+    "district_id": "121207",
+    "name": "PARPAREAN I"
+  },
+  {
+    "id": "1212072033",
+    "district_id": "121207",
+    "name": "PARPAREAN II"
+  },
+  {
+    "id": "1212072036",
+    "district_id": "121207",
+    "name": "PATANE I"
+  },
+  {
+    "id": "1212072040",
+    "district_id": "121207",
+    "name": "PATANE V"
+  },
+  {
+    "id": "1212072041",
+    "district_id": "121207",
+    "name": "SIMPANG SIGURA-GURA"
+  },
+  {
+    "id": "1212072042",
+    "district_id": "121207",
+    "name": "RAUT BOSI"
+  }
+]

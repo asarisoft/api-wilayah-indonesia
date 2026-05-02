@@ -1,1 +1,92 @@
-[{"id": "3310112001", "district_id": "331011", "name": "SREBEGAN"}, {"id": "3310112002", "district_id": "331011", "name": "KAJEN"}, {"id": "3310112003", "district_id": "331011", "name": "JAMBUKIDUL"}, {"id": "3310112004", "district_id": "331011", "name": "KUJON"}, {"id": "3310112005", "district_id": "331011", "name": "POKAK"}, {"id": "3310112006", "district_id": "331011", "name": "PASUNGAN"}, {"id": "3310112007", "district_id": "331011", "name": "MLESE"}, {"id": "3310112008", "district_id": "331011", "name": "JOMBOR"}, {"id": "3310112009", "district_id": "331011", "name": "MEGER"}, {"id": "3310112010", "district_id": "331011", "name": "DLIMAS"}, {"id": "3310112011", "district_id": "331011", "name": "JAMBUKULON"}, {"id": "3310112012", "district_id": "331011", "name": "CEPER"}, {"id": "3310112013", "district_id": "331011", "name": "KURUNG"}, {"id": "3310112014", "district_id": "331011", "name": "CETAN"}, {"id": "3310112015", "district_id": "331011", "name": "TEGALREJO"}, {"id": "3310112016", "district_id": "331011", "name": "NGAWONGGO"}, {"id": "3310112017", "district_id": "331011", "name": "KLEPU"}, {"id": "3310112018", "district_id": "331011", "name": "KUNCEN"}]
+[
+  {
+    "id": "3310112001",
+    "district_id": "331011",
+    "name": "SREBEGAN"
+  },
+  {
+    "id": "3310112002",
+    "district_id": "331011",
+    "name": "KAJEN"
+  },
+  {
+    "id": "3310112003",
+    "district_id": "331011",
+    "name": "JAMBUKIDUL"
+  },
+  {
+    "id": "3310112004",
+    "district_id": "331011",
+    "name": "KUJON"
+  },
+  {
+    "id": "3310112005",
+    "district_id": "331011",
+    "name": "POKAK"
+  },
+  {
+    "id": "3310112006",
+    "district_id": "331011",
+    "name": "PASUNGAN"
+  },
+  {
+    "id": "3310112007",
+    "district_id": "331011",
+    "name": "MLESE"
+  },
+  {
+    "id": "3310112008",
+    "district_id": "331011",
+    "name": "JOMBOR"
+  },
+  {
+    "id": "3310112009",
+    "district_id": "331011",
+    "name": "MEGER"
+  },
+  {
+    "id": "3310112010",
+    "district_id": "331011",
+    "name": "DLIMAS"
+  },
+  {
+    "id": "3310112011",
+    "district_id": "331011",
+    "name": "JAMBUKULON"
+  },
+  {
+    "id": "3310112012",
+    "district_id": "331011",
+    "name": "CEPER"
+  },
+  {
+    "id": "3310112013",
+    "district_id": "331011",
+    "name": "KURUNG"
+  },
+  {
+    "id": "3310112014",
+    "district_id": "331011",
+    "name": "CETAN"
+  },
+  {
+    "id": "3310112015",
+    "district_id": "331011",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "3310112016",
+    "district_id": "331011",
+    "name": "NGAWONGGO"
+  },
+  {
+    "id": "3310112017",
+    "district_id": "331011",
+    "name": "KLEPU"
+  },
+  {
+    "id": "3310112018",
+    "district_id": "331011",
+    "name": "KUNCEN"
+  }
+]

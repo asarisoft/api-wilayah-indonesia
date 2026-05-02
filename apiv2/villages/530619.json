@@ -1,1 +1,37 @@
-[{"id": "5306192001", "district_id": "530619", "name": "KALIKE"}, {"id": "5306192002", "district_id": "530619", "name": "KALIKE AIMATAN"}, {"id": "5306192003", "district_id": "530619", "name": "SULENGWASENG"}, {"id": "5306192004", "district_id": "530619", "name": "KENERE"}, {"id": "5306192005", "district_id": "530619", "name": "LEMANU"}, {"id": "5306192006", "district_id": "530619", "name": "LEWOGRARAN"}, {"id": "5306192007", "district_id": "530619", "name": "BUBUATAGAMU"}]
+[
+  {
+    "id": "5306192001",
+    "district_id": "530619",
+    "name": "KALIKE"
+  },
+  {
+    "id": "5306192002",
+    "district_id": "530619",
+    "name": "KALIKE AIMATAN"
+  },
+  {
+    "id": "5306192003",
+    "district_id": "530619",
+    "name": "SULENGWASENG"
+  },
+  {
+    "id": "5306192004",
+    "district_id": "530619",
+    "name": "KENERE"
+  },
+  {
+    "id": "5306192005",
+    "district_id": "530619",
+    "name": "LEMANU"
+  },
+  {
+    "id": "5306192006",
+    "district_id": "530619",
+    "name": "LEWOGRARAN"
+  },
+  {
+    "id": "5306192007",
+    "district_id": "530619",
+    "name": "BUBUATAGAMU"
+  }
+]

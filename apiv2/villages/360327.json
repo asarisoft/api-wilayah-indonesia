@@ -1,1 +1,42 @@
-[{"id": "3603272001", "district_id": "360327", "name": "BENDA"}, {"id": "3603272002", "district_id": "360327", "name": "SUKAMULYA"}, {"id": "3603272003", "district_id": "360327", "name": "KALIASIN"}, {"id": "3603272004", "district_id": "360327", "name": "BUNIAYU"}, {"id": "3603272005", "district_id": "360327", "name": "PARAHU"}, {"id": "3603272006", "district_id": "360327", "name": "MERAK"}, {"id": "3603272007", "district_id": "360327", "name": "BUNAR"}, {"id": "3603272008", "district_id": "360327", "name": "KUBANG"}]
+[
+  {
+    "id": "3603272001",
+    "district_id": "360327",
+    "name": "BENDA"
+  },
+  {
+    "id": "3603272002",
+    "district_id": "360327",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3603272003",
+    "district_id": "360327",
+    "name": "KALIASIN"
+  },
+  {
+    "id": "3603272004",
+    "district_id": "360327",
+    "name": "BUNIAYU"
+  },
+  {
+    "id": "3603272005",
+    "district_id": "360327",
+    "name": "PARAHU"
+  },
+  {
+    "id": "3603272006",
+    "district_id": "360327",
+    "name": "MERAK"
+  },
+  {
+    "id": "3603272007",
+    "district_id": "360327",
+    "name": "BUNAR"
+  },
+  {
+    "id": "3603272008",
+    "district_id": "360327",
+    "name": "KUBANG"
+  }
+]

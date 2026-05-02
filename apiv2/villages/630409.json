@@ -1,1 +1,42 @@
-[{"id": "6304092001", "district_id": "630409", "name": "SUNGAI KAMBAT"}, {"id": "6304092002", "district_id": "630409", "name": "SUNGAI RASAU"}, {"id": "6304092003", "district_id": "630409", "name": "SIMPANG NUNGKI"}, {"id": "6304092004", "district_id": "630409", "name": "SAWAHAN"}, {"id": "6304092005", "district_id": "630409", "name": "BANTUIL"}, {"id": "6304092006", "district_id": "630409", "name": "BADANDAN"}, {"id": "6304092007", "district_id": "630409", "name": "SEI TUNJANG"}, {"id": "6304092008", "district_id": "630409", "name": "SEI RAYA"}]
+[
+  {
+    "id": "6304092001",
+    "district_id": "630409",
+    "name": "SUNGAI KAMBAT"
+  },
+  {
+    "id": "6304092002",
+    "district_id": "630409",
+    "name": "SUNGAI RASAU"
+  },
+  {
+    "id": "6304092003",
+    "district_id": "630409",
+    "name": "SIMPANG NUNGKI"
+  },
+  {
+    "id": "6304092004",
+    "district_id": "630409",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "6304092005",
+    "district_id": "630409",
+    "name": "BANTUIL"
+  },
+  {
+    "id": "6304092006",
+    "district_id": "630409",
+    "name": "BADANDAN"
+  },
+  {
+    "id": "6304092007",
+    "district_id": "630409",
+    "name": "SEI TUNJANG"
+  },
+  {
+    "id": "6304092008",
+    "district_id": "630409",
+    "name": "SEI RAYA"
+  }
+]

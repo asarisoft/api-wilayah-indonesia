@@ -1,1 +1,62 @@
-[{"id": "760101", "regency_id": "7601", "name": "BAMBALAMOTU"}, {"id": "760102", "regency_id": "7601", "name": "PASANGKAYU"}, {"id": "760103", "regency_id": "7601", "name": "BARAS"}, {"id": "760104", "regency_id": "7601", "name": "SARUDU"}, {"id": "760105", "regency_id": "7601", "name": "DAPURANG"}, {"id": "760106", "regency_id": "7601", "name": "DURIPOKU"}, {"id": "760107", "regency_id": "7601", "name": "BULU TABA"}, {"id": "760108", "regency_id": "7601", "name": "TIKKE RAYA"}, {"id": "760109", "regency_id": "7601", "name": "PEDONGGA"}, {"id": "760110", "regency_id": "7601", "name": "BAMBAIRA"}, {"id": "760111", "regency_id": "7601", "name": "SARJO"}, {"id": "760112", "regency_id": "7601", "name": "LARIANG"}]
+[
+  {
+    "id": "760101",
+    "regency_id": "7601",
+    "name": "BAMBALAMOTU"
+  },
+  {
+    "id": "760102",
+    "regency_id": "7601",
+    "name": "PASANGKAYU"
+  },
+  {
+    "id": "760103",
+    "regency_id": "7601",
+    "name": "BARAS"
+  },
+  {
+    "id": "760104",
+    "regency_id": "7601",
+    "name": "SARUDU"
+  },
+  {
+    "id": "760105",
+    "regency_id": "7601",
+    "name": "DAPURANG"
+  },
+  {
+    "id": "760106",
+    "regency_id": "7601",
+    "name": "DURIPOKU"
+  },
+  {
+    "id": "760107",
+    "regency_id": "7601",
+    "name": "BULU TABA"
+  },
+  {
+    "id": "760108",
+    "regency_id": "7601",
+    "name": "TIKKE RAYA"
+  },
+  {
+    "id": "760109",
+    "regency_id": "7601",
+    "name": "PEDONGGA"
+  },
+  {
+    "id": "760110",
+    "regency_id": "7601",
+    "name": "BAMBAIRA"
+  },
+  {
+    "id": "760111",
+    "regency_id": "7601",
+    "name": "SARJO"
+  },
+  {
+    "id": "760112",
+    "regency_id": "7601",
+    "name": "LARIANG"
+  }
+]

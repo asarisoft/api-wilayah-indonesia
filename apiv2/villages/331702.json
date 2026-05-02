@@ -1,1 +1,82 @@
-[{"id": "3317022001", "district_id": "331702", "name": "MLATIREJO"}, {"id": "3317022002", "district_id": "331702", "name": "SENDANGMULYO"}, {"id": "3317022003", "district_id": "331702", "name": "PONDOKREJO"}, {"id": "3317022004", "district_id": "331702", "name": "WARUGUNUNG"}, {"id": "3317022005", "district_id": "331702", "name": "PINGGAN"}, {"id": "3317022006", "district_id": "331702", "name": "CABEAN KIDUL"}, {"id": "3317022007", "district_id": "331702", "name": "LAMBANGAN KULON"}, {"id": "3317022008", "district_id": "331702", "name": "LAMBANGAN WETAN"}, {"id": "3317022009", "district_id": "331702", "name": "SUMBERMULYO"}, {"id": "3317022010", "district_id": "331702", "name": "KARANGASEM"}, {"id": "3317022011", "district_id": "331702", "name": "PASEDAN"}, {"id": "3317022012", "district_id": "331702", "name": "NGULAAN"}, {"id": "3317022013", "district_id": "331702", "name": "JUKUNG"}, {"id": "3317022014", "district_id": "331702", "name": "BULU"}, {"id": "3317022015", "district_id": "331702", "name": "MANTINGAN"}, {"id": "3317022016", "district_id": "331702", "name": "KADIWONO"}]
+[
+  {
+    "id": "3317022001",
+    "district_id": "331702",
+    "name": "MLATIREJO"
+  },
+  {
+    "id": "3317022002",
+    "district_id": "331702",
+    "name": "SENDANGMULYO"
+  },
+  {
+    "id": "3317022003",
+    "district_id": "331702",
+    "name": "PONDOKREJO"
+  },
+  {
+    "id": "3317022004",
+    "district_id": "331702",
+    "name": "WARUGUNUNG"
+  },
+  {
+    "id": "3317022005",
+    "district_id": "331702",
+    "name": "PINGGAN"
+  },
+  {
+    "id": "3317022006",
+    "district_id": "331702",
+    "name": "CABEAN KIDUL"
+  },
+  {
+    "id": "3317022007",
+    "district_id": "331702",
+    "name": "LAMBANGAN KULON"
+  },
+  {
+    "id": "3317022008",
+    "district_id": "331702",
+    "name": "LAMBANGAN WETAN"
+  },
+  {
+    "id": "3317022009",
+    "district_id": "331702",
+    "name": "SUMBERMULYO"
+  },
+  {
+    "id": "3317022010",
+    "district_id": "331702",
+    "name": "KARANGASEM"
+  },
+  {
+    "id": "3317022011",
+    "district_id": "331702",
+    "name": "PASEDAN"
+  },
+  {
+    "id": "3317022012",
+    "district_id": "331702",
+    "name": "NGULAAN"
+  },
+  {
+    "id": "3317022013",
+    "district_id": "331702",
+    "name": "JUKUNG"
+  },
+  {
+    "id": "3317022014",
+    "district_id": "331702",
+    "name": "BULU"
+  },
+  {
+    "id": "3317022015",
+    "district_id": "331702",
+    "name": "MANTINGAN"
+  },
+  {
+    "id": "3317022016",
+    "district_id": "331702",
+    "name": "KADIWONO"
+  }
+]

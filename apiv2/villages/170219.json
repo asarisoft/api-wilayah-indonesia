@@ -1,1 +1,52 @@
-[{"id": "1702191001", "district_id": "170219", "name": "KEPALA SIRING"}, {"id": "1702191002", "district_id": "170219", "name": "TALANG RIMBO BARU"}, {"id": "1702191003", "district_id": "170219", "name": "TALANG RIMBO LAMA"}, {"id": "1702191004", "district_id": "170219", "name": "SIDEREJO"}, {"id": "1702191005", "district_id": "170219", "name": "KAMPUNG JAWA"}, {"id": "1702191006", "district_id": "170219", "name": "AIR BANG"}, {"id": "1702191007", "district_id": "170219", "name": "PELABUHAN BARU"}, {"id": "1702191008", "district_id": "170219", "name": "BATU GALING"}, {"id": "1702191009", "district_id": "170219", "name": "BANYU MAS"}, {"id": "1702192010", "district_id": "170219", "name": "AIR MERAH"}]
+[
+  {
+    "id": "1702191001",
+    "district_id": "170219",
+    "name": "KEPALA SIRING"
+  },
+  {
+    "id": "1702191002",
+    "district_id": "170219",
+    "name": "TALANG RIMBO BARU"
+  },
+  {
+    "id": "1702191003",
+    "district_id": "170219",
+    "name": "TALANG RIMBO LAMA"
+  },
+  {
+    "id": "1702191004",
+    "district_id": "170219",
+    "name": "SIDEREJO"
+  },
+  {
+    "id": "1702191005",
+    "district_id": "170219",
+    "name": "KAMPUNG JAWA"
+  },
+  {
+    "id": "1702191006",
+    "district_id": "170219",
+    "name": "AIR BANG"
+  },
+  {
+    "id": "1702191007",
+    "district_id": "170219",
+    "name": "PELABUHAN BARU"
+  },
+  {
+    "id": "1702191008",
+    "district_id": "170219",
+    "name": "BATU GALING"
+  },
+  {
+    "id": "1702191009",
+    "district_id": "170219",
+    "name": "BANYU MAS"
+  },
+  {
+    "id": "1702192010",
+    "district_id": "170219",
+    "name": "AIR MERAH"
+  }
+]

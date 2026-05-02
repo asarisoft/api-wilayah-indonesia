@@ -1,1 +1,32 @@
-[{"id": "9502162001", "district_id": "950216", "name": "KUNGULDING"}, {"id": "9502162002", "district_id": "950216", "name": "BULANGKOP"}, {"id": "9502162003", "district_id": "950216", "name": "LIMARUM"}, {"id": "9502162004", "district_id": "950216", "name": "YUMAKOT"}, {"id": "9502162005", "district_id": "950216", "name": "APLIM"}, {"id": "9502162006", "district_id": "950216", "name": "OKDO"}]
+[
+  {
+    "id": "9502162001",
+    "district_id": "950216",
+    "name": "KUNGULDING"
+  },
+  {
+    "id": "9502162002",
+    "district_id": "950216",
+    "name": "BULANGKOP"
+  },
+  {
+    "id": "9502162003",
+    "district_id": "950216",
+    "name": "LIMARUM"
+  },
+  {
+    "id": "9502162004",
+    "district_id": "950216",
+    "name": "YUMAKOT"
+  },
+  {
+    "id": "9502162005",
+    "district_id": "950216",
+    "name": "APLIM"
+  },
+  {
+    "id": "9502162006",
+    "district_id": "950216",
+    "name": "OKDO"
+  }
+]

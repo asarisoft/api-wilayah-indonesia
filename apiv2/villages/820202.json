@@ -1,1 +1,27 @@
-[{"id": "8202022004", "district_id": "820202", "name": "WAILEGI"}, {"id": "8202022005", "district_id": "820202", "name": "KIPAI"}, {"id": "8202022006", "district_id": "820202", "name": "YEISOWO"}, {"id": "8202022012", "district_id": "820202", "name": "YONDELIU"}, {"id": "8202022013", "district_id": "820202", "name": "BAKA JAYA"}]
+[
+  {
+    "id": "8202022004",
+    "district_id": "820202",
+    "name": "WAILEGI"
+  },
+  {
+    "id": "8202022005",
+    "district_id": "820202",
+    "name": "KIPAI"
+  },
+  {
+    "id": "8202022006",
+    "district_id": "820202",
+    "name": "YEISOWO"
+  },
+  {
+    "id": "8202022012",
+    "district_id": "820202",
+    "name": "YONDELIU"
+  },
+  {
+    "id": "8202022013",
+    "district_id": "820202",
+    "name": "BAKA JAYA"
+  }
+]

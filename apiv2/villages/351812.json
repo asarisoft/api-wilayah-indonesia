@@ -1,1 +1,62 @@
-[{"id": "3518121002", "district_id": "351812", "name": "KAPAS"}, {"id": "3518121007", "district_id": "351812", "name": "SUKOMORO"}, {"id": "3518122001", "district_id": "351812", "name": "SUMENGKO"}, {"id": "3518122003", "district_id": "351812", "name": "BLITARAN"}, {"id": "3518122004", "district_id": "351812", "name": "KEDUNGSOKO"}, {"id": "3518122005", "district_id": "351812", "name": "NGLUNDO"}, {"id": "3518122006", "district_id": "351812", "name": "BUNGUR"}, {"id": "3518122008", "district_id": "351812", "name": "PEHSERUT"}, {"id": "3518122009", "district_id": "351812", "name": "NGRAMI"}, {"id": "3518122010", "district_id": "351812", "name": "BAGOR WETAN"}, {"id": "3518122011", "district_id": "351812", "name": "PUTREN"}, {"id": "3518122012", "district_id": "351812", "name": "NGRENGKET"}]
+[
+  {
+    "id": "3518121002",
+    "district_id": "351812",
+    "name": "KAPAS"
+  },
+  {
+    "id": "3518121007",
+    "district_id": "351812",
+    "name": "SUKOMORO"
+  },
+  {
+    "id": "3518122001",
+    "district_id": "351812",
+    "name": "SUMENGKO"
+  },
+  {
+    "id": "3518122003",
+    "district_id": "351812",
+    "name": "BLITARAN"
+  },
+  {
+    "id": "3518122004",
+    "district_id": "351812",
+    "name": "KEDUNGSOKO"
+  },
+  {
+    "id": "3518122005",
+    "district_id": "351812",
+    "name": "NGLUNDO"
+  },
+  {
+    "id": "3518122006",
+    "district_id": "351812",
+    "name": "BUNGUR"
+  },
+  {
+    "id": "3518122008",
+    "district_id": "351812",
+    "name": "PEHSERUT"
+  },
+  {
+    "id": "3518122009",
+    "district_id": "351812",
+    "name": "NGRAMI"
+  },
+  {
+    "id": "3518122010",
+    "district_id": "351812",
+    "name": "BAGOR WETAN"
+  },
+  {
+    "id": "3518122011",
+    "district_id": "351812",
+    "name": "PUTREN"
+  },
+  {
+    "id": "3518122012",
+    "district_id": "351812",
+    "name": "NGRENGKET"
+  }
+]

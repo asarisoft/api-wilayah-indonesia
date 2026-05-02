@@ -1,1 +1,82 @@
-[{"id": "3522062001", "district_id": "352206", "name": "NGUNUT"}, {"id": "3522062002", "district_id": "352206", "name": "DANDER"}, {"id": "3522062003", "district_id": "352206", "name": "GROWOK"}, {"id": "3522062004", "district_id": "352206", "name": "SUMBERARUM"}, {"id": "3522062005", "district_id": "352206", "name": "KUNCI"}, {"id": "3522062006", "district_id": "352206", "name": "JATIBLIMBING"}, {"id": "3522062007", "district_id": "352206", "name": "NGRASEH"}, {"id": "3522062008", "district_id": "352206", "name": "MOJORANU"}, {"id": "3522062009", "district_id": "352206", "name": "SENDANGREJO"}, {"id": "3522062010", "district_id": "352206", "name": "KARANGSONO"}, {"id": "3522062011", "district_id": "352206", "name": "SUMBERAGUNG"}, {"id": "3522062012", "district_id": "352206", "name": "SUMODIKARAN"}, {"id": "3522062013", "district_id": "352206", "name": "NGUMPAKDALEM"}, {"id": "3522062014", "district_id": "352206", "name": "SUMBERTLASEH"}, {"id": "3522062015", "district_id": "352206", "name": "NGULANAN"}, {"id": "3522062016", "district_id": "352206", "name": "NGABLAK"}]
+[
+  {
+    "id": "3522062001",
+    "district_id": "352206",
+    "name": "NGUNUT"
+  },
+  {
+    "id": "3522062002",
+    "district_id": "352206",
+    "name": "DANDER"
+  },
+  {
+    "id": "3522062003",
+    "district_id": "352206",
+    "name": "GROWOK"
+  },
+  {
+    "id": "3522062004",
+    "district_id": "352206",
+    "name": "SUMBERARUM"
+  },
+  {
+    "id": "3522062005",
+    "district_id": "352206",
+    "name": "KUNCI"
+  },
+  {
+    "id": "3522062006",
+    "district_id": "352206",
+    "name": "JATIBLIMBING"
+  },
+  {
+    "id": "3522062007",
+    "district_id": "352206",
+    "name": "NGRASEH"
+  },
+  {
+    "id": "3522062008",
+    "district_id": "352206",
+    "name": "MOJORANU"
+  },
+  {
+    "id": "3522062009",
+    "district_id": "352206",
+    "name": "SENDANGREJO"
+  },
+  {
+    "id": "3522062010",
+    "district_id": "352206",
+    "name": "KARANGSONO"
+  },
+  {
+    "id": "3522062011",
+    "district_id": "352206",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3522062012",
+    "district_id": "352206",
+    "name": "SUMODIKARAN"
+  },
+  {
+    "id": "3522062013",
+    "district_id": "352206",
+    "name": "NGUMPAKDALEM"
+  },
+  {
+    "id": "3522062014",
+    "district_id": "352206",
+    "name": "SUMBERTLASEH"
+  },
+  {
+    "id": "3522062015",
+    "district_id": "352206",
+    "name": "NGULANAN"
+  },
+  {
+    "id": "3522062016",
+    "district_id": "352206",
+    "name": "NGABLAK"
+  }
+]

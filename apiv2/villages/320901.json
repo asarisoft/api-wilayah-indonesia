@@ -1,1 +1,62 @@
-[{"id": "3209012008", "district_id": "320901", "name": "WALED DESA"}, {"id": "3209012009", "district_id": "320901", "name": "WALED KOTA"}, {"id": "3209012010", "district_id": "320901", "name": "MEKARSARI"}, {"id": "3209012011", "district_id": "320901", "name": "WALED ASEM"}, {"id": "3209012012", "district_id": "320901", "name": "AMBIT"}, {"id": "3209012013", "district_id": "320901", "name": "CIUYAH"}, {"id": "3209012014", "district_id": "320901", "name": "GUNUNGSARI"}, {"id": "3209012015", "district_id": "320901", "name": "KARANGSARI"}, {"id": "3209012016", "district_id": "320901", "name": "CIKULAK KIDUL"}, {"id": "3209012017", "district_id": "320901", "name": "CIKULAK"}, {"id": "3209012018", "district_id": "320901", "name": "CIBOGO"}, {"id": "3209012019", "district_id": "320901", "name": "CISAAT"}]
+[
+  {
+    "id": "3209012008",
+    "district_id": "320901",
+    "name": "WALED DESA"
+  },
+  {
+    "id": "3209012009",
+    "district_id": "320901",
+    "name": "WALED KOTA"
+  },
+  {
+    "id": "3209012010",
+    "district_id": "320901",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3209012011",
+    "district_id": "320901",
+    "name": "WALED ASEM"
+  },
+  {
+    "id": "3209012012",
+    "district_id": "320901",
+    "name": "AMBIT"
+  },
+  {
+    "id": "3209012013",
+    "district_id": "320901",
+    "name": "CIUYAH"
+  },
+  {
+    "id": "3209012014",
+    "district_id": "320901",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3209012015",
+    "district_id": "320901",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3209012016",
+    "district_id": "320901",
+    "name": "CIKULAK KIDUL"
+  },
+  {
+    "id": "3209012017",
+    "district_id": "320901",
+    "name": "CIKULAK"
+  },
+  {
+    "id": "3209012018",
+    "district_id": "320901",
+    "name": "CIBOGO"
+  },
+  {
+    "id": "3209012019",
+    "district_id": "320901",
+    "name": "CISAAT"
+  }
+]

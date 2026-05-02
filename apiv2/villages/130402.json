@@ -1,1 +1,42 @@
-[{"id": "1304022001", "district_id": "130402", "name": "ANDALEH"}, {"id": "1304022002", "district_id": "130402", "name": "SABU"}, {"id": "1304022003", "district_id": "130402", "name": "BATIPUAH ATEH"}, {"id": "1304022004", "district_id": "130402", "name": "BATIPUAH BARUAH"}, {"id": "1304022005", "district_id": "130402", "name": "GUNUANG RAJO"}, {"id": "1304022006", "district_id": "130402", "name": "PITALAH"}, {"id": "1304022007", "district_id": "130402", "name": "TANJUANG BARULAK"}, {"id": "1304022008", "district_id": "130402", "name": "BUNGO TANJUANG"}]
+[
+  {
+    "id": "1304022001",
+    "district_id": "130402",
+    "name": "ANDALEH"
+  },
+  {
+    "id": "1304022002",
+    "district_id": "130402",
+    "name": "SABU"
+  },
+  {
+    "id": "1304022003",
+    "district_id": "130402",
+    "name": "BATIPUAH ATEH"
+  },
+  {
+    "id": "1304022004",
+    "district_id": "130402",
+    "name": "BATIPUAH BARUAH"
+  },
+  {
+    "id": "1304022005",
+    "district_id": "130402",
+    "name": "GUNUANG RAJO"
+  },
+  {
+    "id": "1304022006",
+    "district_id": "130402",
+    "name": "PITALAH"
+  },
+  {
+    "id": "1304022007",
+    "district_id": "130402",
+    "name": "TANJUANG BARULAK"
+  },
+  {
+    "id": "1304022008",
+    "district_id": "130402",
+    "name": "BUNGO TANJUANG"
+  }
+]

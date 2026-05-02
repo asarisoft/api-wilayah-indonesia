@@ -1,1 +1,72 @@
-[{"id": "3301122001", "district_id": "330112", "name": "CIDADAP"}, {"id": "3301122002", "district_id": "330112", "name": "PANGAWAREN"}, {"id": "3301122003", "district_id": "330112", "name": "GUNUNGTELU"}, {"id": "3301122004", "district_id": "330112", "name": "SINDANGBARANG"}, {"id": "3301122005", "district_id": "330112", "name": "KARANGPUCUNG"}, {"id": "3301122006", "district_id": "330112", "name": "CIPOROS"}, {"id": "3301122007", "district_id": "330112", "name": "TAYEM"}, {"id": "3301122008", "district_id": "330112", "name": "BENGBULANG"}, {"id": "3301122009", "district_id": "330112", "name": "SURUSUNDA"}, {"id": "3301122010", "district_id": "330112", "name": "BABAKAN"}, {"id": "3301122011", "district_id": "330112", "name": "CIRUYUNG"}, {"id": "3301122012", "district_id": "330112", "name": "PAMULIHAN"}, {"id": "3301122013", "district_id": "330112", "name": "TAYEM TIMUR"}, {"id": "3301122014", "district_id": "330112", "name": "SIDAMULYA"}]
+[
+  {
+    "id": "3301122001",
+    "district_id": "330112",
+    "name": "CIDADAP"
+  },
+  {
+    "id": "3301122002",
+    "district_id": "330112",
+    "name": "PANGAWAREN"
+  },
+  {
+    "id": "3301122003",
+    "district_id": "330112",
+    "name": "GUNUNGTELU"
+  },
+  {
+    "id": "3301122004",
+    "district_id": "330112",
+    "name": "SINDANGBARANG"
+  },
+  {
+    "id": "3301122005",
+    "district_id": "330112",
+    "name": "KARANGPUCUNG"
+  },
+  {
+    "id": "3301122006",
+    "district_id": "330112",
+    "name": "CIPOROS"
+  },
+  {
+    "id": "3301122007",
+    "district_id": "330112",
+    "name": "TAYEM"
+  },
+  {
+    "id": "3301122008",
+    "district_id": "330112",
+    "name": "BENGBULANG"
+  },
+  {
+    "id": "3301122009",
+    "district_id": "330112",
+    "name": "SURUSUNDA"
+  },
+  {
+    "id": "3301122010",
+    "district_id": "330112",
+    "name": "BABAKAN"
+  },
+  {
+    "id": "3301122011",
+    "district_id": "330112",
+    "name": "CIRUYUNG"
+  },
+  {
+    "id": "3301122012",
+    "district_id": "330112",
+    "name": "PAMULIHAN"
+  },
+  {
+    "id": "3301122013",
+    "district_id": "330112",
+    "name": "TAYEM TIMUR"
+  },
+  {
+    "id": "3301122014",
+    "district_id": "330112",
+    "name": "SIDAMULYA"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "3215222001", "district_id": "321522", "name": "JAYAMAKMUR"}, {"id": "3215222002", "district_id": "321522", "name": "KEMIRI"}, {"id": "3215222003", "district_id": "321522", "name": "MAKMURJAYA"}, {"id": "3215222004", "district_id": "321522", "name": "KERTAJAYA"}, {"id": "3215222005", "district_id": "321522", "name": "JAYAKERTA"}, {"id": "3215222006", "district_id": "321522", "name": "MEDANGASEM"}, {"id": "3215222007", "district_id": "321522", "name": "CIPTAMARGA"}, {"id": "3215222008", "district_id": "321522", "name": "KAMPUNGSAWAH"}]
+[
+  {
+    "id": "3215222001",
+    "district_id": "321522",
+    "name": "JAYAMAKMUR"
+  },
+  {
+    "id": "3215222002",
+    "district_id": "321522",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3215222003",
+    "district_id": "321522",
+    "name": "MAKMURJAYA"
+  },
+  {
+    "id": "3215222004",
+    "district_id": "321522",
+    "name": "KERTAJAYA"
+  },
+  {
+    "id": "3215222005",
+    "district_id": "321522",
+    "name": "JAYAKERTA"
+  },
+  {
+    "id": "3215222006",
+    "district_id": "321522",
+    "name": "MEDANGASEM"
+  },
+  {
+    "id": "3215222007",
+    "district_id": "321522",
+    "name": "CIPTAMARGA"
+  },
+  {
+    "id": "3215222008",
+    "district_id": "321522",
+    "name": "KAMPUNGSAWAH"
+  }
+]

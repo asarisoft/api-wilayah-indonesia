@@ -1,1 +1,52 @@
-[{"id": "9501072001", "district_id": "950107", "name": "TEMIA"}, {"id": "9501072002", "district_id": "950107", "name": "ANEGERA"}, {"id": "9501072003", "district_id": "950107", "name": "ELABUKAMA"}, {"id": "9501072004", "district_id": "950107", "name": "SIAPMA"}, {"id": "9501072005", "district_id": "950107", "name": "HAMUHI"}, {"id": "9501072006", "district_id": "950107", "name": "KOSIHAVE"}, {"id": "9501072007", "district_id": "950107", "name": "MULUPALEK"}, {"id": "9501072008", "district_id": "950107", "name": "PUMASILI"}, {"id": "9501072009", "district_id": "950107", "name": "ABULUKMO"}, {"id": "9501072010", "district_id": "950107", "name": "YUMUGIMA"}]
+[
+  {
+    "id": "9501072001",
+    "district_id": "950107",
+    "name": "TEMIA"
+  },
+  {
+    "id": "9501072002",
+    "district_id": "950107",
+    "name": "ANEGERA"
+  },
+  {
+    "id": "9501072003",
+    "district_id": "950107",
+    "name": "ELABUKAMA"
+  },
+  {
+    "id": "9501072004",
+    "district_id": "950107",
+    "name": "SIAPMA"
+  },
+  {
+    "id": "9501072005",
+    "district_id": "950107",
+    "name": "HAMUHI"
+  },
+  {
+    "id": "9501072006",
+    "district_id": "950107",
+    "name": "KOSIHAVE"
+  },
+  {
+    "id": "9501072007",
+    "district_id": "950107",
+    "name": "MULUPALEK"
+  },
+  {
+    "id": "9501072008",
+    "district_id": "950107",
+    "name": "PUMASILI"
+  },
+  {
+    "id": "9501072009",
+    "district_id": "950107",
+    "name": "ABULUKMO"
+  },
+  {
+    "id": "9501072010",
+    "district_id": "950107",
+    "name": "YUMUGIMA"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "1273031001", "district_id": "127303", "name": "AEK HABIL"}, {"id": "1273031002", "district_id": "127303", "name": "AEK MANIS"}, {"id": "1273031003", "district_id": "127303", "name": "AEK MUARA PINANG"}, {"id": "1273031004", "district_id": "127303", "name": "AEK PAROMBUNAN"}]
+[
+  {
+    "id": "1273031001",
+    "district_id": "127303",
+    "name": "AEK HABIL"
+  },
+  {
+    "id": "1273031002",
+    "district_id": "127303",
+    "name": "AEK MANIS"
+  },
+  {
+    "id": "1273031003",
+    "district_id": "127303",
+    "name": "AEK MUARA PINANG"
+  },
+  {
+    "id": "1273031004",
+    "district_id": "127303",
+    "name": "AEK PAROMBUNAN"
+  }
+]

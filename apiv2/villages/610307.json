@@ -1,1 +1,52 @@
-[{"id": "6103072001", "district_id": "610307", "name": "BALAI KARANGAN"}, {"id": "6103072002", "district_id": "610307", "name": "PENGADANG"}, {"id": "6103072003", "district_id": "610307", "name": "SOTOK"}, {"id": "6103072004", "district_id": "610307", "name": "KENAMAN"}, {"id": "6103072005", "district_id": "610307", "name": "RAUT MUARA"}, {"id": "6103072006", "district_id": "610307", "name": "ENGKAHAN"}, {"id": "6103072007", "district_id": "610307", "name": "BUNGKANG"}, {"id": "6103072008", "district_id": "610307", "name": "LUBUK SABUK"}, {"id": "6103072009", "district_id": "610307", "name": "SUNGAI TEKAM"}, {"id": "6103072010", "district_id": "610307", "name": "MALENGGANG"}]
+[
+  {
+    "id": "6103072001",
+    "district_id": "610307",
+    "name": "BALAI KARANGAN"
+  },
+  {
+    "id": "6103072002",
+    "district_id": "610307",
+    "name": "PENGADANG"
+  },
+  {
+    "id": "6103072003",
+    "district_id": "610307",
+    "name": "SOTOK"
+  },
+  {
+    "id": "6103072004",
+    "district_id": "610307",
+    "name": "KENAMAN"
+  },
+  {
+    "id": "6103072005",
+    "district_id": "610307",
+    "name": "RAUT MUARA"
+  },
+  {
+    "id": "6103072006",
+    "district_id": "610307",
+    "name": "ENGKAHAN"
+  },
+  {
+    "id": "6103072007",
+    "district_id": "610307",
+    "name": "BUNGKANG"
+  },
+  {
+    "id": "6103072008",
+    "district_id": "610307",
+    "name": "LUBUK SABUK"
+  },
+  {
+    "id": "6103072009",
+    "district_id": "610307",
+    "name": "SUNGAI TEKAM"
+  },
+  {
+    "id": "6103072010",
+    "district_id": "610307",
+    "name": "MALENGGANG"
+  }
+]

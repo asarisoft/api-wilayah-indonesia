@@ -1,1 +1,167 @@
-[{"id": "350701", "regency_id": "3507", "name": "DONOMULYO"}, {"id": "350702", "regency_id": "3507", "name": "PAGAK"}, {"id": "350703", "regency_id": "3507", "name": "BANTUR"}, {"id": "350704", "regency_id": "3507", "name": "SUMBERMANJING WETAN"}, {"id": "350705", "regency_id": "3507", "name": "DAMPIT"}, {"id": "350706", "regency_id": "3507", "name": "AMPELGADING"}, {"id": "350707", "regency_id": "3507", "name": "PONCOKUSUMO"}, {"id": "350708", "regency_id": "3507", "name": "WAJAK"}, {"id": "350709", "regency_id": "3507", "name": "TUREN"}, {"id": "350710", "regency_id": "3507", "name": "GONDANGLEGI"}, {"id": "350711", "regency_id": "3507", "name": "KALIPARE"}, {"id": "350712", "regency_id": "3507", "name": "SUMBERPUCUNG"}, {"id": "350713", "regency_id": "3507", "name": "KEPANJEN"}, {"id": "350714", "regency_id": "3507", "name": "BULULAWANG"}, {"id": "350715", "regency_id": "3507", "name": "TAJINAN"}, {"id": "350716", "regency_id": "3507", "name": "TUMPANG"}, {"id": "350717", "regency_id": "3507", "name": "JABUNG"}, {"id": "350718", "regency_id": "3507", "name": "PAKIS"}, {"id": "350719", "regency_id": "3507", "name": "PAKISAJI"}, {"id": "350720", "regency_id": "3507", "name": "NGAJUM"}, {"id": "350721", "regency_id": "3507", "name": "WAGIR"}, {"id": "350722", "regency_id": "3507", "name": "DAU"}, {"id": "350723", "regency_id": "3507", "name": "KARANGPLOSO"}, {"id": "350724", "regency_id": "3507", "name": "SINGOSARI"}, {"id": "350725", "regency_id": "3507", "name": "LAWANG"}, {"id": "350726", "regency_id": "3507", "name": "PUJON"}, {"id": "350727", "regency_id": "3507", "name": "NGANTANG"}, {"id": "350728", "regency_id": "3507", "name": "KASEMBON"}, {"id": "350729", "regency_id": "3507", "name": "GEDANGAN"}, {"id": "350730", "regency_id": "3507", "name": "TIRTOYUDO"}, {"id": "350731", "regency_id": "3507", "name": "KROMENGAN"}, {"id": "350732", "regency_id": "3507", "name": "WONOSARI"}, {"id": "350733", "regency_id": "3507", "name": "PAGELARAN"}]
+[
+  {
+    "id": "350701",
+    "regency_id": "3507",
+    "name": "DONOMULYO"
+  },
+  {
+    "id": "350702",
+    "regency_id": "3507",
+    "name": "PAGAK"
+  },
+  {
+    "id": "350703",
+    "regency_id": "3507",
+    "name": "BANTUR"
+  },
+  {
+    "id": "350704",
+    "regency_id": "3507",
+    "name": "SUMBERMANJING WETAN"
+  },
+  {
+    "id": "350705",
+    "regency_id": "3507",
+    "name": "DAMPIT"
+  },
+  {
+    "id": "350706",
+    "regency_id": "3507",
+    "name": "AMPELGADING"
+  },
+  {
+    "id": "350707",
+    "regency_id": "3507",
+    "name": "PONCOKUSUMO"
+  },
+  {
+    "id": "350708",
+    "regency_id": "3507",
+    "name": "WAJAK"
+  },
+  {
+    "id": "350709",
+    "regency_id": "3507",
+    "name": "TUREN"
+  },
+  {
+    "id": "350710",
+    "regency_id": "3507",
+    "name": "GONDANGLEGI"
+  },
+  {
+    "id": "350711",
+    "regency_id": "3507",
+    "name": "KALIPARE"
+  },
+  {
+    "id": "350712",
+    "regency_id": "3507",
+    "name": "SUMBERPUCUNG"
+  },
+  {
+    "id": "350713",
+    "regency_id": "3507",
+    "name": "KEPANJEN"
+  },
+  {
+    "id": "350714",
+    "regency_id": "3507",
+    "name": "BULULAWANG"
+  },
+  {
+    "id": "350715",
+    "regency_id": "3507",
+    "name": "TAJINAN"
+  },
+  {
+    "id": "350716",
+    "regency_id": "3507",
+    "name": "TUMPANG"
+  },
+  {
+    "id": "350717",
+    "regency_id": "3507",
+    "name": "JABUNG"
+  },
+  {
+    "id": "350718",
+    "regency_id": "3507",
+    "name": "PAKIS"
+  },
+  {
+    "id": "350719",
+    "regency_id": "3507",
+    "name": "PAKISAJI"
+  },
+  {
+    "id": "350720",
+    "regency_id": "3507",
+    "name": "NGAJUM"
+  },
+  {
+    "id": "350721",
+    "regency_id": "3507",
+    "name": "WAGIR"
+  },
+  {
+    "id": "350722",
+    "regency_id": "3507",
+    "name": "DAU"
+  },
+  {
+    "id": "350723",
+    "regency_id": "3507",
+    "name": "KARANGPLOSO"
+  },
+  {
+    "id": "350724",
+    "regency_id": "3507",
+    "name": "SINGOSARI"
+  },
+  {
+    "id": "350725",
+    "regency_id": "3507",
+    "name": "LAWANG"
+  },
+  {
+    "id": "350726",
+    "regency_id": "3507",
+    "name": "PUJON"
+  },
+  {
+    "id": "350727",
+    "regency_id": "3507",
+    "name": "NGANTANG"
+  },
+  {
+    "id": "350728",
+    "regency_id": "3507",
+    "name": "KASEMBON"
+  },
+  {
+    "id": "350729",
+    "regency_id": "3507",
+    "name": "GEDANGAN"
+  },
+  {
+    "id": "350730",
+    "regency_id": "3507",
+    "name": "TIRTOYUDO"
+  },
+  {
+    "id": "350731",
+    "regency_id": "3507",
+    "name": "KROMENGAN"
+  },
+  {
+    "id": "350732",
+    "regency_id": "3507",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "350733",
+    "regency_id": "3507",
+    "name": "PAGELARAN"
+  }
+]

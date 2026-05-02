@@ -1,1 +1,42 @@
-[{"id": "3215261001", "district_id": "321526", "name": "KARAWANG WETAN"}, {"id": "3215261002", "district_id": "321526", "name": "ADIARSA TIMUR"}, {"id": "3215261003", "district_id": "321526", "name": "PALUMBONSARI"}, {"id": "3215261004", "district_id": "321526", "name": "PLAWAD"}, {"id": "3215262005", "district_id": "321526", "name": "MARGASARI"}, {"id": "3215262006", "district_id": "321526", "name": "WARUNGBAMBU"}, {"id": "3215262007", "district_id": "321526", "name": "KONDANGJAYA"}, {"id": "3215262008", "district_id": "321526", "name": "TEGAL SAWAH"}]
+[
+  {
+    "id": "3215261001",
+    "district_id": "321526",
+    "name": "KARAWANG WETAN"
+  },
+  {
+    "id": "3215261002",
+    "district_id": "321526",
+    "name": "ADIARSA TIMUR"
+  },
+  {
+    "id": "3215261003",
+    "district_id": "321526",
+    "name": "PALUMBONSARI"
+  },
+  {
+    "id": "3215261004",
+    "district_id": "321526",
+    "name": "PLAWAD"
+  },
+  {
+    "id": "3215262005",
+    "district_id": "321526",
+    "name": "MARGASARI"
+  },
+  {
+    "id": "3215262006",
+    "district_id": "321526",
+    "name": "WARUNGBAMBU"
+  },
+  {
+    "id": "3215262007",
+    "district_id": "321526",
+    "name": "KONDANGJAYA"
+  },
+  {
+    "id": "3215262008",
+    "district_id": "321526",
+    "name": "TEGAL SAWAH"
+  }
+]

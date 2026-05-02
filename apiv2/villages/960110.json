@@ -1,1 +1,32 @@
-[{"id": "9601102001", "district_id": "960110", "name": "SAILOLOF"}, {"id": "9601102002", "district_id": "960110", "name": "KOTLOL"}, {"id": "9601102003", "district_id": "960110", "name": "DULBATAN"}, {"id": "9601102004", "district_id": "960110", "name": "MANOKET"}, {"id": "9601102005", "district_id": "960110", "name": "PAYAPOP"}, {"id": "9601102006", "district_id": "960110", "name": "MASMAPOP"}]
+[
+  {
+    "id": "9601102001",
+    "district_id": "960110",
+    "name": "SAILOLOF"
+  },
+  {
+    "id": "9601102002",
+    "district_id": "960110",
+    "name": "KOTLOL"
+  },
+  {
+    "id": "9601102003",
+    "district_id": "960110",
+    "name": "DULBATAN"
+  },
+  {
+    "id": "9601102004",
+    "district_id": "960110",
+    "name": "MANOKET"
+  },
+  {
+    "id": "9601102005",
+    "district_id": "960110",
+    "name": "PAYAPOP"
+  },
+  {
+    "id": "9601102006",
+    "district_id": "960110",
+    "name": "MASMAPOP"
+  }
+]

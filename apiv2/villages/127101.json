@@ -1,1 +1,62 @@
-[{"id": "1271011001", "district_id": "127101", "name": "PASAR BARU"}, {"id": "1271011002", "district_id": "127101", "name": "PUSAT PASAR"}, {"id": "1271011003", "district_id": "127101", "name": "SEI RENGAS I"}, {"id": "1271011004", "district_id": "127101", "name": "MESJID"}, {"id": "1271011005", "district_id": "127101", "name": "PANDAU HULU I"}, {"id": "1271011006", "district_id": "127101", "name": "KOTAMATSUM III"}, {"id": "1271011007", "district_id": "127101", "name": "PASAR MERAH BARAT"}, {"id": "1271011008", "district_id": "127101", "name": "TELADAN TIMUR"}, {"id": "1271011009", "district_id": "127101", "name": "TELADAN BARAT"}, {"id": "1271011010", "district_id": "127101", "name": "SUDIREJO 1"}, {"id": "1271011011", "district_id": "127101", "name": "SUDIREJO II"}, {"id": "1271011012", "district_id": "127101", "name": "SITIREJO I"}]
+[
+  {
+    "id": "1271011001",
+    "district_id": "127101",
+    "name": "PASAR BARU"
+  },
+  {
+    "id": "1271011002",
+    "district_id": "127101",
+    "name": "PUSAT PASAR"
+  },
+  {
+    "id": "1271011003",
+    "district_id": "127101",
+    "name": "SEI RENGAS I"
+  },
+  {
+    "id": "1271011004",
+    "district_id": "127101",
+    "name": "MESJID"
+  },
+  {
+    "id": "1271011005",
+    "district_id": "127101",
+    "name": "PANDAU HULU I"
+  },
+  {
+    "id": "1271011006",
+    "district_id": "127101",
+    "name": "KOTAMATSUM III"
+  },
+  {
+    "id": "1271011007",
+    "district_id": "127101",
+    "name": "PASAR MERAH BARAT"
+  },
+  {
+    "id": "1271011008",
+    "district_id": "127101",
+    "name": "TELADAN TIMUR"
+  },
+  {
+    "id": "1271011009",
+    "district_id": "127101",
+    "name": "TELADAN BARAT"
+  },
+  {
+    "id": "1271011010",
+    "district_id": "127101",
+    "name": "SUDIREJO 1"
+  },
+  {
+    "id": "1271011011",
+    "district_id": "127101",
+    "name": "SUDIREJO II"
+  },
+  {
+    "id": "1271011012",
+    "district_id": "127101",
+    "name": "SITIREJO I"
+  }
+]

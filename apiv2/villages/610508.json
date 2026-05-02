@@ -1,1 +1,217 @@
-[{"id": "6105082001", "district_id": "610508", "name": "NANGA MAU"}, {"id": "6105082002", "district_id": "610508", "name": "JAMBU"}, {"id": "6105082003", "district_id": "610508", "name": "TERTUNG MAU"}, {"id": "6105082004", "district_id": "610508", "name": "MENTUNAI"}, {"id": "6105082005", "district_id": "610508", "name": "TUGUK"}, {"id": "6105082006", "district_id": "610508", "name": "NATAI TEBEDAK"}, {"id": "6105082007", "district_id": "610508", "name": "NYANGKOM"}, {"id": "6105082008", "district_id": "610508", "name": "MELINGKAT"}, {"id": "6105082009", "district_id": "610508", "name": "NANGA TIKAN"}, {"id": "6105082010", "district_id": "610508", "name": "PELAIK"}, {"id": "6105082011", "district_id": "610508", "name": "KERAPA SEPAN"}, {"id": "6105082012", "district_id": "610508", "name": "SUNGAI BUAYA"}, {"id": "6105082013", "district_id": "610508", "name": "PAKAK"}, {"id": "6105082014", "district_id": "610508", "name": "SUNGAI SINTANG"}, {"id": "6105082015", "district_id": "610508", "name": "SUNGAI GARONG"}, {"id": "6105082016", "district_id": "610508", "name": "PAOH DESA"}, {"id": "6105082017", "district_id": "610508", "name": "JAYA SAKTI"}, {"id": "6105082018", "district_id": "610508", "name": "MEKAR MANDIRI"}, {"id": "6105082019", "district_id": "610508", "name": "LANDAU BERINGIN"}, {"id": "6105082020", "district_id": "610508", "name": "KARYA BARU"}, {"id": "6105082021", "district_id": "610508", "name": "BUKIT SEGALOH"}, {"id": "6105082022", "district_id": "610508", "name": "ENGKERANGAN"}, {"id": "6105082023", "district_id": "610508", "name": "LALANG INGGAR"}, {"id": "6105082024", "district_id": "610508", "name": "LINGGAM PERMAI"}, {"id": "6105082025", "district_id": "610508", "name": "SUNGAI MENUANG"}, {"id": "6105082026", "district_id": "610508", "name": "NATAI LESUNG"}, {"id": "6105082027", "district_id": "610508", "name": "BEGENDANG MAL"}, {"id": "6105082028", "district_id": "610508", "name": "SUNGAI RANAP"}, {"id": "6105082029", "district_id": "610508", "name": "LENGKONG BINDU"}, {"id": "6105082030", "district_id": "610508", "name": "NANGA LIDAU"}, {"id": "6105082031", "district_id": "610508", "name": "MENGKIRAI"}, {"id": "6105082032", "district_id": "610508", "name": "TANJUNG KELILING"}, {"id": "6105082033", "district_id": "610508", "name": "BULUK JEGARA"}, {"id": "6105082034", "district_id": "610508", "name": "BULUK PANJANG"}, {"id": "6105082035", "district_id": "610508", "name": "TANJUNG PUTAR"}, {"id": "6105082036", "district_id": "610508", "name": "SUNGAI EMANG"}, {"id": "6105082037", "district_id": "610508", "name": "SUNGAI MERAYA"}, {"id": "6105082038", "district_id": "610508", "name": "KEMPAS RAYA"}, {"id": "6105082039", "district_id": "610508", "name": "IPOH EMANG"}, {"id": "6105082040", "district_id": "610508", "name": "SUNGAI PENGGA"}, {"id": "6105082041", "district_id": "610508", "name": "BATU NETAK"}, {"id": "6105082042", "district_id": "610508", "name": "NERAN BAYA"}, {"id": "6105082043", "district_id": "610508", "name": "MONBAI BEGUNUNK"}]
+[
+  {
+    "id": "6105082001",
+    "district_id": "610508",
+    "name": "NANGA MAU"
+  },
+  {
+    "id": "6105082002",
+    "district_id": "610508",
+    "name": "JAMBU"
+  },
+  {
+    "id": "6105082003",
+    "district_id": "610508",
+    "name": "TERTUNG MAU"
+  },
+  {
+    "id": "6105082004",
+    "district_id": "610508",
+    "name": "MENTUNAI"
+  },
+  {
+    "id": "6105082005",
+    "district_id": "610508",
+    "name": "TUGUK"
+  },
+  {
+    "id": "6105082006",
+    "district_id": "610508",
+    "name": "NATAI TEBEDAK"
+  },
+  {
+    "id": "6105082007",
+    "district_id": "610508",
+    "name": "NYANGKOM"
+  },
+  {
+    "id": "6105082008",
+    "district_id": "610508",
+    "name": "MELINGKAT"
+  },
+  {
+    "id": "6105082009",
+    "district_id": "610508",
+    "name": "NANGA TIKAN"
+  },
+  {
+    "id": "6105082010",
+    "district_id": "610508",
+    "name": "PELAIK"
+  },
+  {
+    "id": "6105082011",
+    "district_id": "610508",
+    "name": "KERAPA SEPAN"
+  },
+  {
+    "id": "6105082012",
+    "district_id": "610508",
+    "name": "SUNGAI BUAYA"
+  },
+  {
+    "id": "6105082013",
+    "district_id": "610508",
+    "name": "PAKAK"
+  },
+  {
+    "id": "6105082014",
+    "district_id": "610508",
+    "name": "SUNGAI SINTANG"
+  },
+  {
+    "id": "6105082015",
+    "district_id": "610508",
+    "name": "SUNGAI GARONG"
+  },
+  {
+    "id": "6105082016",
+    "district_id": "610508",
+    "name": "PAOH DESA"
+  },
+  {
+    "id": "6105082017",
+    "district_id": "610508",
+    "name": "JAYA SAKTI"
+  },
+  {
+    "id": "6105082018",
+    "district_id": "610508",
+    "name": "MEKAR MANDIRI"
+  },
+  {
+    "id": "6105082019",
+    "district_id": "610508",
+    "name": "LANDAU BERINGIN"
+  },
+  {
+    "id": "6105082020",
+    "district_id": "610508",
+    "name": "KARYA BARU"
+  },
+  {
+    "id": "6105082021",
+    "district_id": "610508",
+    "name": "BUKIT SEGALOH"
+  },
+  {
+    "id": "6105082022",
+    "district_id": "610508",
+    "name": "ENGKERANGAN"
+  },
+  {
+    "id": "6105082023",
+    "district_id": "610508",
+    "name": "LALANG INGGAR"
+  },
+  {
+    "id": "6105082024",
+    "district_id": "610508",
+    "name": "LINGGAM PERMAI"
+  },
+  {
+    "id": "6105082025",
+    "district_id": "610508",
+    "name": "SUNGAI MENUANG"
+  },
+  {
+    "id": "6105082026",
+    "district_id": "610508",
+    "name": "NATAI LESUNG"
+  },
+  {
+    "id": "6105082027",
+    "district_id": "610508",
+    "name": "BEGENDANG MAL"
+  },
+  {
+    "id": "6105082028",
+    "district_id": "610508",
+    "name": "SUNGAI RANAP"
+  },
+  {
+    "id": "6105082029",
+    "district_id": "610508",
+    "name": "LENGKONG BINDU"
+  },
+  {
+    "id": "6105082030",
+    "district_id": "610508",
+    "name": "NANGA LIDAU"
+  },
+  {
+    "id": "6105082031",
+    "district_id": "610508",
+    "name": "MENGKIRAI"
+  },
+  {
+    "id": "6105082032",
+    "district_id": "610508",
+    "name": "TANJUNG KELILING"
+  },
+  {
+    "id": "6105082033",
+    "district_id": "610508",
+    "name": "BULUK JEGARA"
+  },
+  {
+    "id": "6105082034",
+    "district_id": "610508",
+    "name": "BULUK PANJANG"
+  },
+  {
+    "id": "6105082035",
+    "district_id": "610508",
+    "name": "TANJUNG PUTAR"
+  },
+  {
+    "id": "6105082036",
+    "district_id": "610508",
+    "name": "SUNGAI EMANG"
+  },
+  {
+    "id": "6105082037",
+    "district_id": "610508",
+    "name": "SUNGAI MERAYA"
+  },
+  {
+    "id": "6105082038",
+    "district_id": "610508",
+    "name": "KEMPAS RAYA"
+  },
+  {
+    "id": "6105082039",
+    "district_id": "610508",
+    "name": "IPOH EMANG"
+  },
+  {
+    "id": "6105082040",
+    "district_id": "610508",
+    "name": "SUNGAI PENGGA"
+  },
+  {
+    "id": "6105082041",
+    "district_id": "610508",
+    "name": "BATU NETAK"
+  },
+  {
+    "id": "6105082042",
+    "district_id": "610508",
+    "name": "NERAN BAYA"
+  },
+  {
+    "id": "6105082043",
+    "district_id": "610508",
+    "name": "MONBAI BEGUNUNK"
+  }
+]

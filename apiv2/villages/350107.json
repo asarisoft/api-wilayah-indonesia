@@ -1,1 +1,47 @@
-[{"id": "3501072001", "district_id": "350107", "name": "GONDANG"}, {"id": "3501072002", "district_id": "350107", "name": "MUJING"}, {"id": "3501072003", "district_id": "350107", "name": "SEMPU"}, {"id": "3501072004", "district_id": "350107", "name": "NAWANGAN"}, {"id": "3501072005", "district_id": "350107", "name": "TOKAWI"}, {"id": "3501072006", "district_id": "350107", "name": "JETIS LOR"}, {"id": "3501072007", "district_id": "350107", "name": "PENGGUNG"}, {"id": "3501072008", "district_id": "350107", "name": "PAKIS BARU"}, {"id": "3501072009", "district_id": "350107", "name": "NGROMO"}]
+[
+  {
+    "id": "3501072001",
+    "district_id": "350107",
+    "name": "GONDANG"
+  },
+  {
+    "id": "3501072002",
+    "district_id": "350107",
+    "name": "MUJING"
+  },
+  {
+    "id": "3501072003",
+    "district_id": "350107",
+    "name": "SEMPU"
+  },
+  {
+    "id": "3501072004",
+    "district_id": "350107",
+    "name": "NAWANGAN"
+  },
+  {
+    "id": "3501072005",
+    "district_id": "350107",
+    "name": "TOKAWI"
+  },
+  {
+    "id": "3501072006",
+    "district_id": "350107",
+    "name": "JETIS LOR"
+  },
+  {
+    "id": "3501072007",
+    "district_id": "350107",
+    "name": "PENGGUNG"
+  },
+  {
+    "id": "3501072008",
+    "district_id": "350107",
+    "name": "PAKIS BARU"
+  },
+  {
+    "id": "3501072009",
+    "district_id": "350107",
+    "name": "NGROMO"
+  }
+]

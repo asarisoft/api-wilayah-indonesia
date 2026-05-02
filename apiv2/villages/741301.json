@@ -1,1 +1,52 @@
-[{"id": "7413012001", "district_id": "741301", "name": "WAKOILA"}, {"id": "7413012002", "district_id": "741301", "name": "WAUKUNI"}, {"id": "7413012003", "district_id": "741301", "name": "KAMPOBALANO"}, {"id": "7413012004", "district_id": "741301", "name": "MAPERAHA"}, {"id": "7413012005", "district_id": "741301", "name": "NIHI"}, {"id": "7413012006", "district_id": "741301", "name": "MAROBEA"}, {"id": "7413012007", "district_id": "741301", "name": "ONDOKE"}, {"id": "7413012008", "district_id": "741301", "name": "LAKALAMBA"}, {"id": "7413012009", "district_id": "741301", "name": "LAWADA JAYA"}, {"id": "7413012010", "district_id": "741301", "name": "LOMBU JAYA"}]
+[
+  {
+    "id": "7413012001",
+    "district_id": "741301",
+    "name": "WAKOILA"
+  },
+  {
+    "id": "7413012002",
+    "district_id": "741301",
+    "name": "WAUKUNI"
+  },
+  {
+    "id": "7413012003",
+    "district_id": "741301",
+    "name": "KAMPOBALANO"
+  },
+  {
+    "id": "7413012004",
+    "district_id": "741301",
+    "name": "MAPERAHA"
+  },
+  {
+    "id": "7413012005",
+    "district_id": "741301",
+    "name": "NIHI"
+  },
+  {
+    "id": "7413012006",
+    "district_id": "741301",
+    "name": "MAROBEA"
+  },
+  {
+    "id": "7413012007",
+    "district_id": "741301",
+    "name": "ONDOKE"
+  },
+  {
+    "id": "7413012008",
+    "district_id": "741301",
+    "name": "LAKALAMBA"
+  },
+  {
+    "id": "7413012009",
+    "district_id": "741301",
+    "name": "LAWADA JAYA"
+  },
+  {
+    "id": "7413012010",
+    "district_id": "741301",
+    "name": "LOMBU JAYA"
+  }
+]

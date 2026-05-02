@@ -1,1 +1,42 @@
-[{"id": "6107122002", "district_id": "610712", "name": "SUNGKUNG I"}, {"id": "6107122004", "district_id": "610712", "name": "SIDING"}, {"id": "6107122005", "district_id": "610712", "name": "HLI BUEI"}, {"id": "6107122006", "district_id": "610712", "name": "TANGGUH"}, {"id": "6107122007", "district_id": "610712", "name": "SUNGKUNG II"}, {"id": "6107122008", "district_id": "610712", "name": "SUNGKUNG III"}, {"id": "6107122009", "district_id": "610712", "name": "TAMONG"}, {"id": "6107122010", "district_id": "610712", "name": "TAWANG"}]
+[
+  {
+    "id": "6107122002",
+    "district_id": "610712",
+    "name": "SUNGKUNG I"
+  },
+  {
+    "id": "6107122004",
+    "district_id": "610712",
+    "name": "SIDING"
+  },
+  {
+    "id": "6107122005",
+    "district_id": "610712",
+    "name": "HLI BUEI"
+  },
+  {
+    "id": "6107122006",
+    "district_id": "610712",
+    "name": "TANGGUH"
+  },
+  {
+    "id": "6107122007",
+    "district_id": "610712",
+    "name": "SUNGKUNG II"
+  },
+  {
+    "id": "6107122008",
+    "district_id": "610712",
+    "name": "SUNGKUNG III"
+  },
+  {
+    "id": "6107122009",
+    "district_id": "610712",
+    "name": "TAMONG"
+  },
+  {
+    "id": "6107122010",
+    "district_id": "610712",
+    "name": "TAWANG"
+  }
+]

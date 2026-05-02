@@ -1,1 +1,77 @@
-[{"id": "1203031098", "district_id": "120303", "name": "PASAR PARGARUTAN"}, {"id": "1203031099", "district_id": "120303", "name": "BATANG TURA SIRUMAMBE"}, {"id": "1203032003", "district_id": "120303", "name": "PANOMPUAN JAE"}, {"id": "1203032004", "district_id": "120303", "name": "PARGARUTAN TONGA"}, {"id": "1203032008", "district_id": "120303", "name": "HURABA"}, {"id": "1203032012", "district_id": "120303", "name": "MARISI"}, {"id": "1203032013", "district_id": "120303", "name": "PARGARUTAN JULU"}, {"id": "1203032014", "district_id": "120303", "name": "HUTA GINJANG"}, {"id": "1203032069", "district_id": "120303", "name": "LANTOSAN ROGAS"}, {"id": "1203032079", "district_id": "120303", "name": "SIJUNGKANG"}, {"id": "1203032083", "district_id": "120303", "name": "PARGARUTAN JAE"}, {"id": "1203032094", "district_id": "120303", "name": "PANOMPUAN"}, {"id": "1203032095", "district_id": "120303", "name": "PARGARUTAN DOLOK"}, {"id": "1203032096", "district_id": "120303", "name": "SANGGAPATI"}, {"id": "1203032097", "district_id": "120303", "name": "PALL XI"}]
+[
+  {
+    "id": "1203031098",
+    "district_id": "120303",
+    "name": "PASAR PARGARUTAN"
+  },
+  {
+    "id": "1203031099",
+    "district_id": "120303",
+    "name": "BATANG TURA SIRUMAMBE"
+  },
+  {
+    "id": "1203032003",
+    "district_id": "120303",
+    "name": "PANOMPUAN JAE"
+  },
+  {
+    "id": "1203032004",
+    "district_id": "120303",
+    "name": "PARGARUTAN TONGA"
+  },
+  {
+    "id": "1203032008",
+    "district_id": "120303",
+    "name": "HURABA"
+  },
+  {
+    "id": "1203032012",
+    "district_id": "120303",
+    "name": "MARISI"
+  },
+  {
+    "id": "1203032013",
+    "district_id": "120303",
+    "name": "PARGARUTAN JULU"
+  },
+  {
+    "id": "1203032014",
+    "district_id": "120303",
+    "name": "HUTA GINJANG"
+  },
+  {
+    "id": "1203032069",
+    "district_id": "120303",
+    "name": "LANTOSAN ROGAS"
+  },
+  {
+    "id": "1203032079",
+    "district_id": "120303",
+    "name": "SIJUNGKANG"
+  },
+  {
+    "id": "1203032083",
+    "district_id": "120303",
+    "name": "PARGARUTAN JAE"
+  },
+  {
+    "id": "1203032094",
+    "district_id": "120303",
+    "name": "PANOMPUAN"
+  },
+  {
+    "id": "1203032095",
+    "district_id": "120303",
+    "name": "PARGARUTAN DOLOK"
+  },
+  {
+    "id": "1203032096",
+    "district_id": "120303",
+    "name": "SANGGAPATI"
+  },
+  {
+    "id": "1203032097",
+    "district_id": "120303",
+    "name": "PALL XI"
+  }
+]

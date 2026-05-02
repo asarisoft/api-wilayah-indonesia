@@ -1,1 +1,32 @@
-[{"id": "647101", "regency_id": "6471", "name": "BALIKPAPAN TIMUR"}, {"id": "647102", "regency_id": "6471", "name": "BALIKPAPAN BARAT"}, {"id": "647103", "regency_id": "6471", "name": "BALIKPAPAN UTARA"}, {"id": "647104", "regency_id": "6471", "name": "BALIKPAPAN TENGAH"}, {"id": "647105", "regency_id": "6471", "name": "BALIKPAPAN SELATAN"}, {"id": "647106", "regency_id": "6471", "name": "BALIKPAPAN KOTA"}]
+[
+  {
+    "id": "647101",
+    "regency_id": "6471",
+    "name": "BALIKPAPAN TIMUR"
+  },
+  {
+    "id": "647102",
+    "regency_id": "6471",
+    "name": "BALIKPAPAN BARAT"
+  },
+  {
+    "id": "647103",
+    "regency_id": "6471",
+    "name": "BALIKPAPAN UTARA"
+  },
+  {
+    "id": "647104",
+    "regency_id": "6471",
+    "name": "BALIKPAPAN TENGAH"
+  },
+  {
+    "id": "647105",
+    "regency_id": "6471",
+    "name": "BALIKPAPAN SELATAN"
+  },
+  {
+    "id": "647106",
+    "regency_id": "6471",
+    "name": "BALIKPAPAN KOTA"
+  }
+]

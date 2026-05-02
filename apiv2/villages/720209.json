@@ -1,1 +1,42 @@
-[{"id": "7202092005", "district_id": "720209", "name": "GINTU"}, {"id": "7202092006", "district_id": "720209", "name": "RUNDE"}, {"id": "7202092007", "district_id": "720209", "name": "BADANGKAIA"}, {"id": "7202092008", "district_id": "720209", "name": "BAKEKAU"}, {"id": "7202092009", "district_id": "720209", "name": "BULILI"}, {"id": "7202092010", "district_id": "720209", "name": "BEWA"}, {"id": "7202092011", "district_id": "720209", "name": "PADA"}, {"id": "7202092012", "district_id": "720209", "name": "BOMBA"}]
+[
+  {
+    "id": "7202092005",
+    "district_id": "720209",
+    "name": "GINTU"
+  },
+  {
+    "id": "7202092006",
+    "district_id": "720209",
+    "name": "RUNDE"
+  },
+  {
+    "id": "7202092007",
+    "district_id": "720209",
+    "name": "BADANGKAIA"
+  },
+  {
+    "id": "7202092008",
+    "district_id": "720209",
+    "name": "BAKEKAU"
+  },
+  {
+    "id": "7202092009",
+    "district_id": "720209",
+    "name": "BULILI"
+  },
+  {
+    "id": "7202092010",
+    "district_id": "720209",
+    "name": "BEWA"
+  },
+  {
+    "id": "7202092011",
+    "district_id": "720209",
+    "name": "PADA"
+  },
+  {
+    "id": "7202092012",
+    "district_id": "720209",
+    "name": "BOMBA"
+  }
+]

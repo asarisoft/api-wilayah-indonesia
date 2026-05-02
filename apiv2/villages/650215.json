@@ -1,1 +1,27 @@
-[{"id": "6502152001", "district_id": "650215", "name": "LONG NYAU"}, {"id": "6502152002", "district_id": "650215", "name": "LONG TITI"}, {"id": "6502152003", "district_id": "650215", "name": "LONG RANAU"}, {"id": "6502152004", "district_id": "650215", "name": "RIAN TUBU"}, {"id": "6502152005", "district_id": "650215", "name": "LONG PADA"}]
+[
+  {
+    "id": "6502152001",
+    "district_id": "650215",
+    "name": "LONG NYAU"
+  },
+  {
+    "id": "6502152002",
+    "district_id": "650215",
+    "name": "LONG TITI"
+  },
+  {
+    "id": "6502152003",
+    "district_id": "650215",
+    "name": "LONG RANAU"
+  },
+  {
+    "id": "6502152004",
+    "district_id": "650215",
+    "name": "RIAN TUBU"
+  },
+  {
+    "id": "6502152005",
+    "district_id": "650215",
+    "name": "LONG PADA"
+  }
+]

@@ -1,1 +1,17 @@
-[{"id": "3172061001", "district_id": "317206", "name": "KELAPA GADING TIMUR"}, {"id": "3172061002", "district_id": "317206", "name": "PEGANGSAAN DUA"}, {"id": "3172061003", "district_id": "317206", "name": "KELAPA GADING BARAT"}]
+[
+  {
+    "id": "3172061001",
+    "district_id": "317206",
+    "name": "KELAPA GADING TIMUR"
+  },
+  {
+    "id": "3172061002",
+    "district_id": "317206",
+    "name": "PEGANGSAAN DUA"
+  },
+  {
+    "id": "3172061003",
+    "district_id": "317206",
+    "name": "KELAPA GADING BARAT"
+  }
+]

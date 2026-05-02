@@ -1,1 +1,82 @@
-[{"id": "5207021004", "district_id": "520702", "name": "MENALA"}, {"id": "5207021005", "district_id": "520702", "name": "KUANG"}, {"id": "5207021006", "district_id": "520702", "name": "BUGIS"}, {"id": "5207021007", "district_id": "520702", "name": "DALAM"}, {"id": "5207021008", "district_id": "520702", "name": "SAMPIR"}, {"id": "5207021012", "district_id": "520702", "name": "TELAGA BERTONG"}, {"id": "5207021019", "district_id": "520702", "name": "ARAB KENANGAN"}, {"id": "5207022001", "district_id": "520702", "name": "LABUHAN LALAR"}, {"id": "5207022009", "district_id": "520702", "name": "LALAR LIANG"}, {"id": "5207022010", "district_id": "520702", "name": "LABUHAN KERTASARI"}, {"id": "5207022011", "district_id": "520702", "name": "SELOTO"}, {"id": "5207022013", "district_id": "520702", "name": "TAMEKAN"}, {"id": "5207022014", "district_id": "520702", "name": "BANJAR"}, {"id": "5207022015", "district_id": "520702", "name": "BATU PUTIH"}, {"id": "5207022020", "district_id": "520702", "name": "SERMONG"}, {"id": "5207022021", "district_id": "520702", "name": "LAMUNGA"}]
+[
+  {
+    "id": "5207021004",
+    "district_id": "520702",
+    "name": "MENALA"
+  },
+  {
+    "id": "5207021005",
+    "district_id": "520702",
+    "name": "KUANG"
+  },
+  {
+    "id": "5207021006",
+    "district_id": "520702",
+    "name": "BUGIS"
+  },
+  {
+    "id": "5207021007",
+    "district_id": "520702",
+    "name": "DALAM"
+  },
+  {
+    "id": "5207021008",
+    "district_id": "520702",
+    "name": "SAMPIR"
+  },
+  {
+    "id": "5207021012",
+    "district_id": "520702",
+    "name": "TELAGA BERTONG"
+  },
+  {
+    "id": "5207021019",
+    "district_id": "520702",
+    "name": "ARAB KENANGAN"
+  },
+  {
+    "id": "5207022001",
+    "district_id": "520702",
+    "name": "LABUHAN LALAR"
+  },
+  {
+    "id": "5207022009",
+    "district_id": "520702",
+    "name": "LALAR LIANG"
+  },
+  {
+    "id": "5207022010",
+    "district_id": "520702",
+    "name": "LABUHAN KERTASARI"
+  },
+  {
+    "id": "5207022011",
+    "district_id": "520702",
+    "name": "SELOTO"
+  },
+  {
+    "id": "5207022013",
+    "district_id": "520702",
+    "name": "TAMEKAN"
+  },
+  {
+    "id": "5207022014",
+    "district_id": "520702",
+    "name": "BANJAR"
+  },
+  {
+    "id": "5207022015",
+    "district_id": "520702",
+    "name": "BATU PUTIH"
+  },
+  {
+    "id": "5207022020",
+    "district_id": "520702",
+    "name": "SERMONG"
+  },
+  {
+    "id": "5207022021",
+    "district_id": "520702",
+    "name": "LAMUNGA"
+  }
+]

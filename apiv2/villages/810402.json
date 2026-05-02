@@ -1,1 +1,52 @@
-[{"id": "8104022004", "district_id": "810402", "name": "WAEPURE"}, {"id": "8104022005", "district_id": "810402", "name": "WAEMANGIT"}, {"id": "8104022006", "district_id": "810402", "name": "AIR BUAYA"}, {"id": "8104022007", "district_id": "810402", "name": "TANJUNG KARANG"}, {"id": "8104022008", "district_id": "810402", "name": "BARA"}, {"id": "8104022014", "district_id": "810402", "name": "SELWADU"}, {"id": "8104022018", "district_id": "810402", "name": "WASBAKA"}, {"id": "8104022019", "district_id": "810402", "name": "KAMPUNG BARU"}, {"id": "8104022020", "district_id": "810402", "name": "BATLALE"}, {"id": "8104022023", "district_id": "810402", "name": "AWILINAN"}]
+[
+  {
+    "id": "8104022004",
+    "district_id": "810402",
+    "name": "WAEPURE"
+  },
+  {
+    "id": "8104022005",
+    "district_id": "810402",
+    "name": "WAEMANGIT"
+  },
+  {
+    "id": "8104022006",
+    "district_id": "810402",
+    "name": "AIR BUAYA"
+  },
+  {
+    "id": "8104022007",
+    "district_id": "810402",
+    "name": "TANJUNG KARANG"
+  },
+  {
+    "id": "8104022008",
+    "district_id": "810402",
+    "name": "BARA"
+  },
+  {
+    "id": "8104022014",
+    "district_id": "810402",
+    "name": "SELWADU"
+  },
+  {
+    "id": "8104022018",
+    "district_id": "810402",
+    "name": "WASBAKA"
+  },
+  {
+    "id": "8104022019",
+    "district_id": "810402",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "8104022020",
+    "district_id": "810402",
+    "name": "BATLALE"
+  },
+  {
+    "id": "8104022023",
+    "district_id": "810402",
+    "name": "AWILINAN"
+  }
+]

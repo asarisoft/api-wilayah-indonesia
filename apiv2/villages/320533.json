@@ -1,1 +1,67 @@
-[{"id": "3205332001", "district_id": "320533", "name": "NEGLASARI"}, {"id": "3205332002", "district_id": "320533", "name": "TANJUNGJAYA"}, {"id": "3205332003", "district_id": "320533", "name": "TANJUNGMULYA"}, {"id": "3205332004", "district_id": "320533", "name": "WANGUNJAYA"}, {"id": "3205332005", "district_id": "320533", "name": "SUKAMULYA"}, {"id": "3205332006", "district_id": "320533", "name": "PASIRLANGU"}, {"id": "3205332007", "district_id": "320533", "name": "TALAGAWANGI"}, {"id": "3205332008", "district_id": "320533", "name": "JATIWANGI"}, {"id": "3205332009", "district_id": "320533", "name": "PANYINDANGAN"}, {"id": "3205332010", "district_id": "320533", "name": "TEGALGEDE"}, {"id": "3205332011", "district_id": "320533", "name": "DEPOK"}, {"id": "3205332012", "district_id": "320533", "name": "KARANGSARI"}, {"id": "3205332013", "district_id": "320533", "name": "JAYAMEKAR"}]
+[
+  {
+    "id": "3205332001",
+    "district_id": "320533",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3205332002",
+    "district_id": "320533",
+    "name": "TANJUNGJAYA"
+  },
+  {
+    "id": "3205332003",
+    "district_id": "320533",
+    "name": "TANJUNGMULYA"
+  },
+  {
+    "id": "3205332004",
+    "district_id": "320533",
+    "name": "WANGUNJAYA"
+  },
+  {
+    "id": "3205332005",
+    "district_id": "320533",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3205332006",
+    "district_id": "320533",
+    "name": "PASIRLANGU"
+  },
+  {
+    "id": "3205332007",
+    "district_id": "320533",
+    "name": "TALAGAWANGI"
+  },
+  {
+    "id": "3205332008",
+    "district_id": "320533",
+    "name": "JATIWANGI"
+  },
+  {
+    "id": "3205332009",
+    "district_id": "320533",
+    "name": "PANYINDANGAN"
+  },
+  {
+    "id": "3205332010",
+    "district_id": "320533",
+    "name": "TEGALGEDE"
+  },
+  {
+    "id": "3205332011",
+    "district_id": "320533",
+    "name": "DEPOK"
+  },
+  {
+    "id": "3205332012",
+    "district_id": "320533",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3205332013",
+    "district_id": "320533",
+    "name": "JAYAMEKAR"
+  }
+]

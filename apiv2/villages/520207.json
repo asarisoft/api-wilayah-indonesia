@@ -1,1 +1,82 @@
-[{"id": "5202072001", "district_id": "520207", "name": "LEKOR"}, {"id": "5202072002", "district_id": "520207", "name": "LANGKO"}, {"id": "5202072003", "district_id": "520207", "name": "JANAPRIA"}, {"id": "5202072004", "district_id": "520207", "name": "LOANG MAKA"}, {"id": "5202072005", "district_id": "520207", "name": "SABA"}, {"id": "5202072006", "district_id": "520207", "name": "BAKAN"}, {"id": "5202072007", "district_id": "520207", "name": "DURIAN"}, {"id": "5202072008", "district_id": "520207", "name": "PENDEM"}, {"id": "5202072009", "district_id": "520207", "name": "SELEBUNG REMBIGA"}, {"id": "5202072010", "district_id": "520207", "name": "KEREMBONG"}, {"id": "5202072011", "district_id": "520207", "name": "JANGO"}, {"id": "5202072012", "district_id": "520207", "name": "SETUTA"}, {"id": "5202072013", "district_id": "520207", "name": "PRAKO"}, {"id": "5202072014", "district_id": "520207", "name": "TIBU SISOK"}, {"id": "5202072015", "district_id": "520207", "name": "JANGGAWANA"}, {"id": "5202072016", "district_id": "520207", "name": "LINGKOK BERENGE"}]
+[
+  {
+    "id": "5202072001",
+    "district_id": "520207",
+    "name": "LEKOR"
+  },
+  {
+    "id": "5202072002",
+    "district_id": "520207",
+    "name": "LANGKO"
+  },
+  {
+    "id": "5202072003",
+    "district_id": "520207",
+    "name": "JANAPRIA"
+  },
+  {
+    "id": "5202072004",
+    "district_id": "520207",
+    "name": "LOANG MAKA"
+  },
+  {
+    "id": "5202072005",
+    "district_id": "520207",
+    "name": "SABA"
+  },
+  {
+    "id": "5202072006",
+    "district_id": "520207",
+    "name": "BAKAN"
+  },
+  {
+    "id": "5202072007",
+    "district_id": "520207",
+    "name": "DURIAN"
+  },
+  {
+    "id": "5202072008",
+    "district_id": "520207",
+    "name": "PENDEM"
+  },
+  {
+    "id": "5202072009",
+    "district_id": "520207",
+    "name": "SELEBUNG REMBIGA"
+  },
+  {
+    "id": "5202072010",
+    "district_id": "520207",
+    "name": "KEREMBONG"
+  },
+  {
+    "id": "5202072011",
+    "district_id": "520207",
+    "name": "JANGO"
+  },
+  {
+    "id": "5202072012",
+    "district_id": "520207",
+    "name": "SETUTA"
+  },
+  {
+    "id": "5202072013",
+    "district_id": "520207",
+    "name": "PRAKO"
+  },
+  {
+    "id": "5202072014",
+    "district_id": "520207",
+    "name": "TIBU SISOK"
+  },
+  {
+    "id": "5202072015",
+    "district_id": "520207",
+    "name": "JANGGAWANA"
+  },
+  {
+    "id": "5202072016",
+    "district_id": "520207",
+    "name": "LINGKOK BERENGE"
+  }
+]

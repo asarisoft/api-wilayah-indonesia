@@ -1,1 +1,67 @@
-[{"id": "3201242001", "district_id": "320124", "name": "CILEUNGSI"}, {"id": "3201242002", "district_id": "320124", "name": "CITAPEN"}, {"id": "3201242003", "district_id": "320124", "name": "CIBEDUG"}, {"id": "3201242004", "district_id": "320124", "name": "JAMBULUWUK"}, {"id": "3201242005", "district_id": "320124", "name": "BANJARSARI"}, {"id": "3201242006", "district_id": "320124", "name": "TELUKPINANG"}, {"id": "3201242007", "district_id": "320124", "name": "BANJARWARU"}, {"id": "3201242008", "district_id": "320124", "name": "BENDUNGAN"}, {"id": "3201242009", "district_id": "320124", "name": "PANDANSARI"}, {"id": "3201242010", "district_id": "320124", "name": "BOJONGMURNI"}, {"id": "3201242011", "district_id": "320124", "name": "BANJARWANGI"}, {"id": "3201242012", "district_id": "320124", "name": "CIAWI"}, {"id": "3201242013", "district_id": "320124", "name": "BITUNGSARI"}]
+[
+  {
+    "id": "3201242001",
+    "district_id": "320124",
+    "name": "CILEUNGSI"
+  },
+  {
+    "id": "3201242002",
+    "district_id": "320124",
+    "name": "CITAPEN"
+  },
+  {
+    "id": "3201242003",
+    "district_id": "320124",
+    "name": "CIBEDUG"
+  },
+  {
+    "id": "3201242004",
+    "district_id": "320124",
+    "name": "JAMBULUWUK"
+  },
+  {
+    "id": "3201242005",
+    "district_id": "320124",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3201242006",
+    "district_id": "320124",
+    "name": "TELUKPINANG"
+  },
+  {
+    "id": "3201242007",
+    "district_id": "320124",
+    "name": "BANJARWARU"
+  },
+  {
+    "id": "3201242008",
+    "district_id": "320124",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "3201242009",
+    "district_id": "320124",
+    "name": "PANDANSARI"
+  },
+  {
+    "id": "3201242010",
+    "district_id": "320124",
+    "name": "BOJONGMURNI"
+  },
+  {
+    "id": "3201242011",
+    "district_id": "320124",
+    "name": "BANJARWANGI"
+  },
+  {
+    "id": "3201242012",
+    "district_id": "320124",
+    "name": "CIAWI"
+  },
+  {
+    "id": "3201242013",
+    "district_id": "320124",
+    "name": "BITUNGSARI"
+  }
+]

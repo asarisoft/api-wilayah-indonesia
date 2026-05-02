@@ -1,1 +1,42 @@
-[{"id": "9508282001", "district_id": "950828", "name": "MOBA"}, {"id": "9508282002", "district_id": "950828", "name": "GUNEA"}, {"id": "9508282003", "district_id": "950828", "name": "KWEGONO"}, {"id": "9508282004", "district_id": "950828", "name": "LANGPANG"}, {"id": "9508282005", "district_id": "950828", "name": "YERETMA"}, {"id": "9508282006", "district_id": "950828", "name": "ANGGULPA"}, {"id": "9508282007", "district_id": "950828", "name": "MOBA DUA"}, {"id": "9508282008", "district_id": "950828", "name": "PIJAMA"}]
+[
+  {
+    "id": "9508282001",
+    "district_id": "950828",
+    "name": "MOBA"
+  },
+  {
+    "id": "9508282002",
+    "district_id": "950828",
+    "name": "GUNEA"
+  },
+  {
+    "id": "9508282003",
+    "district_id": "950828",
+    "name": "KWEGONO"
+  },
+  {
+    "id": "9508282004",
+    "district_id": "950828",
+    "name": "LANGPANG"
+  },
+  {
+    "id": "9508282005",
+    "district_id": "950828",
+    "name": "YERETMA"
+  },
+  {
+    "id": "9508282006",
+    "district_id": "950828",
+    "name": "ANGGULPA"
+  },
+  {
+    "id": "9508282007",
+    "district_id": "950828",
+    "name": "MOBA DUA"
+  },
+  {
+    "id": "9508282008",
+    "district_id": "950828",
+    "name": "PIJAMA"
+  }
+]

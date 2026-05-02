@@ -1,1 +1,47 @@
-[{"id": "9407082001", "district_id": "940708", "name": "TOMOSIGA"}, {"id": "9407082002", "district_id": "940708", "name": "BIGASIGA"}, {"id": "9407082003", "district_id": "940708", "name": "DAPIAGA"}, {"id": "9407082004", "district_id": "940708", "name": "PEWESIGA"}, {"id": "9407082005", "district_id": "940708", "name": "HEGENAGAI"}, {"id": "9407082006", "district_id": "940708", "name": "GAIMIGI"}, {"id": "9407082007", "district_id": "940708", "name": "JAWASIGA"}, {"id": "9407082008", "district_id": "940708", "name": "DUGINGGOBO"}, {"id": "9407082009", "district_id": "940708", "name": "SUGULUBAGALA"}]
+[
+  {
+    "id": "9407082001",
+    "district_id": "940708",
+    "name": "TOMOSIGA"
+  },
+  {
+    "id": "9407082002",
+    "district_id": "940708",
+    "name": "BIGASIGA"
+  },
+  {
+    "id": "9407082003",
+    "district_id": "940708",
+    "name": "DAPIAGA"
+  },
+  {
+    "id": "9407082004",
+    "district_id": "940708",
+    "name": "PEWESIGA"
+  },
+  {
+    "id": "9407082005",
+    "district_id": "940708",
+    "name": "HEGENAGAI"
+  },
+  {
+    "id": "9407082006",
+    "district_id": "940708",
+    "name": "GAIMIGI"
+  },
+  {
+    "id": "9407082007",
+    "district_id": "940708",
+    "name": "JAWASIGA"
+  },
+  {
+    "id": "9407082008",
+    "district_id": "940708",
+    "name": "DUGINGGOBO"
+  },
+  {
+    "id": "9407082009",
+    "district_id": "940708",
+    "name": "SUGULUBAGALA"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "6206101001", "district_id": "620610", "name": "PAGATAN HILIR"}, {"id": "6206101002", "district_id": "620610", "name": "PAGATAN HULU"}, {"id": "6206102003", "district_id": "620610", "name": "KAMPUNG KERAMAT"}, {"id": "6206102004", "district_id": "620610", "name": "KAMPUNG TENGAH"}, {"id": "6206102005", "district_id": "620610", "name": "JAYA MAKMUR"}, {"id": "6206102006", "district_id": "620610", "name": "SUBUR INDAH"}, {"id": "6206102007", "district_id": "620610", "name": "KAMPUNG BARU"}, {"id": "6206102008", "district_id": "620610", "name": "BANGUN JAYA"}, {"id": "6206102009", "district_id": "620610", "name": "SETIA MULIA"}, {"id": "6206102010", "district_id": "620610", "name": "SINGAM RAYA"}, {"id": "6206102011", "district_id": "620610", "name": "SEBANGAU JAYA"}, {"id": "6206102012", "district_id": "620610", "name": "SUNGAI KAKI"}, {"id": "6206102013", "district_id": "620610", "name": "SELAT BANING"}, {"id": "6206102014", "district_id": "620610", "name": "MAKMUR UTAMA"}, {"id": "6206102015", "district_id": "620610", "name": "BUMI SUBUR"}, {"id": "6206102016", "district_id": "620610", "name": "BAKUNG RAYA"}]
+[
+  {
+    "id": "6206101001",
+    "district_id": "620610",
+    "name": "PAGATAN HILIR"
+  },
+  {
+    "id": "6206101002",
+    "district_id": "620610",
+    "name": "PAGATAN HULU"
+  },
+  {
+    "id": "6206102003",
+    "district_id": "620610",
+    "name": "KAMPUNG KERAMAT"
+  },
+  {
+    "id": "6206102004",
+    "district_id": "620610",
+    "name": "KAMPUNG TENGAH"
+  },
+  {
+    "id": "6206102005",
+    "district_id": "620610",
+    "name": "JAYA MAKMUR"
+  },
+  {
+    "id": "6206102006",
+    "district_id": "620610",
+    "name": "SUBUR INDAH"
+  },
+  {
+    "id": "6206102007",
+    "district_id": "620610",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "6206102008",
+    "district_id": "620610",
+    "name": "BANGUN JAYA"
+  },
+  {
+    "id": "6206102009",
+    "district_id": "620610",
+    "name": "SETIA MULIA"
+  },
+  {
+    "id": "6206102010",
+    "district_id": "620610",
+    "name": "SINGAM RAYA"
+  },
+  {
+    "id": "6206102011",
+    "district_id": "620610",
+    "name": "SEBANGAU JAYA"
+  },
+  {
+    "id": "6206102012",
+    "district_id": "620610",
+    "name": "SUNGAI KAKI"
+  },
+  {
+    "id": "6206102013",
+    "district_id": "620610",
+    "name": "SELAT BANING"
+  },
+  {
+    "id": "6206102014",
+    "district_id": "620610",
+    "name": "MAKMUR UTAMA"
+  },
+  {
+    "id": "6206102015",
+    "district_id": "620610",
+    "name": "BUMI SUBUR"
+  },
+  {
+    "id": "6206102016",
+    "district_id": "620610",
+    "name": "BAKUNG RAYA"
+  }
+]

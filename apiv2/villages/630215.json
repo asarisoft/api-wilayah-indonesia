@@ -1,1 +1,37 @@
-[{"id": "6302152001", "district_id": "630215", "name": "BULUH KUNING"}, {"id": "6302152002", "district_id": "630215", "name": "GENDANG TIMBURU"}, {"id": "6302152004", "district_id": "630215", "name": "MANUNGGUL LAMA"}, {"id": "6302152006", "district_id": "630215", "name": "RANTAU BUDA"}, {"id": "6302152007", "district_id": "630215", "name": "MANUNGGUL BARU"}, {"id": "6302152008", "district_id": "630215", "name": "TEROMBONG SARI"}, {"id": "6302152009", "district_id": "630215", "name": "RANTAU JAYA"}]
+[
+  {
+    "id": "6302152001",
+    "district_id": "630215",
+    "name": "BULUH KUNING"
+  },
+  {
+    "id": "6302152002",
+    "district_id": "630215",
+    "name": "GENDANG TIMBURU"
+  },
+  {
+    "id": "6302152004",
+    "district_id": "630215",
+    "name": "MANUNGGUL LAMA"
+  },
+  {
+    "id": "6302152006",
+    "district_id": "630215",
+    "name": "RANTAU BUDA"
+  },
+  {
+    "id": "6302152007",
+    "district_id": "630215",
+    "name": "MANUNGGUL BARU"
+  },
+  {
+    "id": "6302152008",
+    "district_id": "630215",
+    "name": "TEROMBONG SARI"
+  },
+  {
+    "id": "6302152009",
+    "district_id": "630215",
+    "name": "RANTAU JAYA"
+  }
+]

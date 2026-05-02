@@ -1,1 +1,37 @@
-[{"id": "9501352001", "district_id": "950135", "name": "WELESI"}, {"id": "9501352002", "district_id": "950135", "name": "YAGARA"}, {"id": "9501352003", "district_id": "950135", "name": "ASOJELIPELE"}, {"id": "9501352004", "district_id": "950135", "name": "LANTIPO"}, {"id": "9501352005", "district_id": "950135", "name": "PAWEKAMA"}, {"id": "9501352006", "district_id": "950135", "name": "APENAS"}, {"id": "9501352007", "district_id": "950135", "name": "TULIMA"}]
+[
+  {
+    "id": "9501352001",
+    "district_id": "950135",
+    "name": "WELESI"
+  },
+  {
+    "id": "9501352002",
+    "district_id": "950135",
+    "name": "YAGARA"
+  },
+  {
+    "id": "9501352003",
+    "district_id": "950135",
+    "name": "ASOJELIPELE"
+  },
+  {
+    "id": "9501352004",
+    "district_id": "950135",
+    "name": "LANTIPO"
+  },
+  {
+    "id": "9501352005",
+    "district_id": "950135",
+    "name": "PAWEKAMA"
+  },
+  {
+    "id": "9501352006",
+    "district_id": "950135",
+    "name": "APENAS"
+  },
+  {
+    "id": "9501352007",
+    "district_id": "950135",
+    "name": "TULIMA"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "5305092002", "district_id": "530509", "name": "BARALER"}, {"id": "5305092003", "district_id": "530509", "name": "KALONDAMA"}, {"id": "5305092007", "district_id": "530509", "name": "LEER"}, {"id": "5305092018", "district_id": "530509", "name": "BARANUSA"}, {"id": "5305092019", "district_id": "530509", "name": "BLANG MERANG"}, {"id": "5305092020", "district_id": "530509", "name": "ILLU"}, {"id": "5305092024", "district_id": "530509", "name": "PIRINGSINA"}]
+[
+  {
+    "id": "5305092002",
+    "district_id": "530509",
+    "name": "BARALER"
+  },
+  {
+    "id": "5305092003",
+    "district_id": "530509",
+    "name": "KALONDAMA"
+  },
+  {
+    "id": "5305092007",
+    "district_id": "530509",
+    "name": "LEER"
+  },
+  {
+    "id": "5305092018",
+    "district_id": "530509",
+    "name": "BARANUSA"
+  },
+  {
+    "id": "5305092019",
+    "district_id": "530509",
+    "name": "BLANG MERANG"
+  },
+  {
+    "id": "5305092020",
+    "district_id": "530509",
+    "name": "ILLU"
+  },
+  {
+    "id": "5305092024",
+    "district_id": "530509",
+    "name": "PIRINGSINA"
+  }
+]

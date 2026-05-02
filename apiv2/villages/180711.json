@@ -1,1 +1,67 @@
-[{"id": "1807112001", "district_id": "180711", "name": "TANJUNG HARAPAN"}, {"id": "1807112002", "district_id": "180711", "name": "NEGERI TUA"}, {"id": "1807112003", "district_id": "180711", "name": "NEGERI KATON"}, {"id": "1807112004", "district_id": "180711", "name": "NEGERI AGUNG"}, {"id": "1807112005", "district_id": "180711", "name": "NEGERI JEMANTEN"}, {"id": "1807112006", "district_id": "180711", "name": "SUKARAJA TIGA"}, {"id": "1807112007", "district_id": "180711", "name": "GEDUNG WANI"}, {"id": "1807112008", "district_id": "180711", "name": "JAYA GUNA"}, {"id": "1807112009", "district_id": "180711", "name": "SUKADANA BARU"}, {"id": "1807112010", "district_id": "180711", "name": "NABANG BARU"}, {"id": "1807112011", "district_id": "180711", "name": "SURYA MATARAM"}, {"id": "1807112012", "district_id": "180711", "name": "GEDUNGWANI TIMUR"}, {"id": "1807112013", "district_id": "180711", "name": "TRISINAR"}]
+[
+  {
+    "id": "1807112001",
+    "district_id": "180711",
+    "name": "TANJUNG HARAPAN"
+  },
+  {
+    "id": "1807112002",
+    "district_id": "180711",
+    "name": "NEGERI TUA"
+  },
+  {
+    "id": "1807112003",
+    "district_id": "180711",
+    "name": "NEGERI KATON"
+  },
+  {
+    "id": "1807112004",
+    "district_id": "180711",
+    "name": "NEGERI AGUNG"
+  },
+  {
+    "id": "1807112005",
+    "district_id": "180711",
+    "name": "NEGERI JEMANTEN"
+  },
+  {
+    "id": "1807112006",
+    "district_id": "180711",
+    "name": "SUKARAJA TIGA"
+  },
+  {
+    "id": "1807112007",
+    "district_id": "180711",
+    "name": "GEDUNG WANI"
+  },
+  {
+    "id": "1807112008",
+    "district_id": "180711",
+    "name": "JAYA GUNA"
+  },
+  {
+    "id": "1807112009",
+    "district_id": "180711",
+    "name": "SUKADANA BARU"
+  },
+  {
+    "id": "1807112010",
+    "district_id": "180711",
+    "name": "NABANG BARU"
+  },
+  {
+    "id": "1807112011",
+    "district_id": "180711",
+    "name": "SURYA MATARAM"
+  },
+  {
+    "id": "1807112012",
+    "district_id": "180711",
+    "name": "GEDUNGWANI TIMUR"
+  },
+  {
+    "id": "1807112013",
+    "district_id": "180711",
+    "name": "TRISINAR"
+  }
+]

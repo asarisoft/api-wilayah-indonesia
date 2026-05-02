@@ -1,1 +1,87 @@
-[{"id": "5308081001", "district_id": "530808", "name": "BOKASAPE"}, {"id": "5308082002", "district_id": "530808", "name": "BOKASAPE TIMUR"}, {"id": "5308082010", "district_id": "530808", "name": "MBULILOO"}, {"id": "5308082011", "district_id": "530808", "name": "RINDIWAWO"}, {"id": "5308082012", "district_id": "530808", "name": "JOPU"}, {"id": "5308082013", "district_id": "530808", "name": "WOLOKOLI"}, {"id": "5308082014", "district_id": "530808", "name": "MBULIWARALAU"}, {"id": "5308082015", "district_id": "530808", "name": "MBULIWARALAU UTARA"}, {"id": "5308082016", "district_id": "530808", "name": "LISEDETU"}, {"id": "5308082017", "district_id": "530808", "name": "NUALISE"}, {"id": "5308082018", "district_id": "530808", "name": "WOLOSOKO"}, {"id": "5308082019", "district_id": "530808", "name": "LISELOWOBORA"}, {"id": "5308082020", "district_id": "530808", "name": "LIKANAKA"}, {"id": "5308082021", "district_id": "530808", "name": "NAKAMBARA"}, {"id": "5308082022", "district_id": "530808", "name": "NIRAMESI"}, {"id": "5308082023", "district_id": "530808", "name": "TANA LO'O"}, {"id": "5308082024", "district_id": "530808", "name": "LISE PU'U"}]
+[
+  {
+    "id": "5308081001",
+    "district_id": "530808",
+    "name": "BOKASAPE"
+  },
+  {
+    "id": "5308082002",
+    "district_id": "530808",
+    "name": "BOKASAPE TIMUR"
+  },
+  {
+    "id": "5308082010",
+    "district_id": "530808",
+    "name": "MBULILOO"
+  },
+  {
+    "id": "5308082011",
+    "district_id": "530808",
+    "name": "RINDIWAWO"
+  },
+  {
+    "id": "5308082012",
+    "district_id": "530808",
+    "name": "JOPU"
+  },
+  {
+    "id": "5308082013",
+    "district_id": "530808",
+    "name": "WOLOKOLI"
+  },
+  {
+    "id": "5308082014",
+    "district_id": "530808",
+    "name": "MBULIWARALAU"
+  },
+  {
+    "id": "5308082015",
+    "district_id": "530808",
+    "name": "MBULIWARALAU UTARA"
+  },
+  {
+    "id": "5308082016",
+    "district_id": "530808",
+    "name": "LISEDETU"
+  },
+  {
+    "id": "5308082017",
+    "district_id": "530808",
+    "name": "NUALISE"
+  },
+  {
+    "id": "5308082018",
+    "district_id": "530808",
+    "name": "WOLOSOKO"
+  },
+  {
+    "id": "5308082019",
+    "district_id": "530808",
+    "name": "LISELOWOBORA"
+  },
+  {
+    "id": "5308082020",
+    "district_id": "530808",
+    "name": "LIKANAKA"
+  },
+  {
+    "id": "5308082021",
+    "district_id": "530808",
+    "name": "NAKAMBARA"
+  },
+  {
+    "id": "5308082022",
+    "district_id": "530808",
+    "name": "NIRAMESI"
+  },
+  {
+    "id": "5308082023",
+    "district_id": "530808",
+    "name": "TANA LO'O"
+  },
+  {
+    "id": "5308082024",
+    "district_id": "530808",
+    "name": "LISE PU'U"
+  }
+]

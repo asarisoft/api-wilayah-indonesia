@@ -1,1 +1,37 @@
-[{"id": "3314192001", "district_id": "331419", "name": "KATELAN"}, {"id": "3314192002", "district_id": "331419", "name": "DUKUH"}, {"id": "3314192003", "district_id": "331419", "name": "JEKAWAL"}, {"id": "3314192004", "district_id": "331419", "name": "GALEH"}, {"id": "3314192005", "district_id": "331419", "name": "NGROMBO"}, {"id": "3314192006", "district_id": "331419", "name": "SIGIT"}, {"id": "3314192007", "district_id": "331419", "name": "DENANYAR"}]
+[
+  {
+    "id": "3314192001",
+    "district_id": "331419",
+    "name": "KATELAN"
+  },
+  {
+    "id": "3314192002",
+    "district_id": "331419",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3314192003",
+    "district_id": "331419",
+    "name": "JEKAWAL"
+  },
+  {
+    "id": "3314192004",
+    "district_id": "331419",
+    "name": "GALEH"
+  },
+  {
+    "id": "3314192005",
+    "district_id": "331419",
+    "name": "NGROMBO"
+  },
+  {
+    "id": "3314192006",
+    "district_id": "331419",
+    "name": "SIGIT"
+  },
+  {
+    "id": "3314192007",
+    "district_id": "331419",
+    "name": "DENANYAR"
+  }
+]

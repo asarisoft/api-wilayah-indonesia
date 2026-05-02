@@ -1,1 +1,67 @@
-[{"id": "9402062001", "district_id": "940206", "name": "MEPAR"}, {"id": "9402062002", "district_id": "940206", "name": "ANEBALUI"}, {"id": "9402062003", "district_id": "940206", "name": "PAGOLOME"}, {"id": "9402062004", "district_id": "940206", "name": "TOMBOK"}, {"id": "9402062005", "district_id": "940206", "name": "KERING"}, {"id": "9402062006", "district_id": "940206", "name": "MEYONGGA"}, {"id": "9402062007", "district_id": "940206", "name": "OUM"}, {"id": "9402062008", "district_id": "940206", "name": "NUME"}, {"id": "9402062009", "district_id": "940206", "name": "YAWOR"}, {"id": "9402062010", "district_id": "940206", "name": "WURINA"}, {"id": "9402062011", "district_id": "940206", "name": "WORALUK"}, {"id": "9402062012", "district_id": "940206", "name": "ONENDU"}, {"id": "9402062013", "district_id": "940206", "name": "AKWIBAGA"}]
+[
+  {
+    "id": "9402062001",
+    "district_id": "940206",
+    "name": "MEPAR"
+  },
+  {
+    "id": "9402062002",
+    "district_id": "940206",
+    "name": "ANEBALUI"
+  },
+  {
+    "id": "9402062003",
+    "district_id": "940206",
+    "name": "PAGOLOME"
+  },
+  {
+    "id": "9402062004",
+    "district_id": "940206",
+    "name": "TOMBOK"
+  },
+  {
+    "id": "9402062005",
+    "district_id": "940206",
+    "name": "KERING"
+  },
+  {
+    "id": "9402062006",
+    "district_id": "940206",
+    "name": "MEYONGGA"
+  },
+  {
+    "id": "9402062007",
+    "district_id": "940206",
+    "name": "OUM"
+  },
+  {
+    "id": "9402062008",
+    "district_id": "940206",
+    "name": "NUME"
+  },
+  {
+    "id": "9402062009",
+    "district_id": "940206",
+    "name": "YAWOR"
+  },
+  {
+    "id": "9402062010",
+    "district_id": "940206",
+    "name": "WURINA"
+  },
+  {
+    "id": "9402062011",
+    "district_id": "940206",
+    "name": "WORALUK"
+  },
+  {
+    "id": "9402062012",
+    "district_id": "940206",
+    "name": "ONENDU"
+  },
+  {
+    "id": "9402062013",
+    "district_id": "940206",
+    "name": "AKWIBAGA"
+  }
+]

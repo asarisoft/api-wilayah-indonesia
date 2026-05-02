@@ -1,1 +1,47 @@
-[{"id": "3602072004", "district_id": "360207", "name": "BOJONGMANIK"}, {"id": "3602072007", "district_id": "360207", "name": "HARJAWANA"}, {"id": "3602072008", "district_id": "360207", "name": "KADURAHAYU"}, {"id": "3602072009", "district_id": "360207", "name": "CIMAYANG"}, {"id": "3602072010", "district_id": "360207", "name": "PARAKANBEUSI"}, {"id": "3602072012", "district_id": "360207", "name": "KEBONCAU"}, {"id": "3602072014", "district_id": "360207", "name": "MEKARMANIK"}, {"id": "3602072016", "district_id": "360207", "name": "MEKAR RAHAYU"}, {"id": "3602072017", "district_id": "360207", "name": "PASIRBITUNG"}]
+[
+  {
+    "id": "3602072004",
+    "district_id": "360207",
+    "name": "BOJONGMANIK"
+  },
+  {
+    "id": "3602072007",
+    "district_id": "360207",
+    "name": "HARJAWANA"
+  },
+  {
+    "id": "3602072008",
+    "district_id": "360207",
+    "name": "KADURAHAYU"
+  },
+  {
+    "id": "3602072009",
+    "district_id": "360207",
+    "name": "CIMAYANG"
+  },
+  {
+    "id": "3602072010",
+    "district_id": "360207",
+    "name": "PARAKANBEUSI"
+  },
+  {
+    "id": "3602072012",
+    "district_id": "360207",
+    "name": "KEBONCAU"
+  },
+  {
+    "id": "3602072014",
+    "district_id": "360207",
+    "name": "MEKARMANIK"
+  },
+  {
+    "id": "3602072016",
+    "district_id": "360207",
+    "name": "MEKAR RAHAYU"
+  },
+  {
+    "id": "3602072017",
+    "district_id": "360207",
+    "name": "PASIRBITUNG"
+  }
+]

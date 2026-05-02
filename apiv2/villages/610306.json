@@ -1,1 +1,27 @@
-[{"id": "6103062001", "district_id": "610306", "name": "KASRO MEGO"}, {"id": "6103062002", "district_id": "610306", "name": "BERENG BERKAWAT"}, {"id": "6103062003", "district_id": "610306", "name": "SUNGAI ILAI"}, {"id": "6103062004", "district_id": "610306", "name": "THANG RAYA"}, {"id": "6103062005", "district_id": "610306", "name": "MAWANG MUDA"}]
+[
+  {
+    "id": "6103062001",
+    "district_id": "610306",
+    "name": "KASRO MEGO"
+  },
+  {
+    "id": "6103062002",
+    "district_id": "610306",
+    "name": "BERENG BERKAWAT"
+  },
+  {
+    "id": "6103062003",
+    "district_id": "610306",
+    "name": "SUNGAI ILAI"
+  },
+  {
+    "id": "6103062004",
+    "district_id": "610306",
+    "name": "THANG RAYA"
+  },
+  {
+    "id": "6103062005",
+    "district_id": "610306",
+    "name": "MAWANG MUDA"
+  }
+]

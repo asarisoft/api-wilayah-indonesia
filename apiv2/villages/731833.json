@@ -1,1 +1,27 @@
-[{"id": "7318331005", "district_id": "731833", "name": "RANTE ALANG"}, {"id": "7318332001", "district_id": "731833", "name": "BATUALU"}, {"id": "7318332002", "district_id": "731833", "name": "TOKESAN"}, {"id": "7318332003", "district_id": "731833", "name": "BATUALU SELATAN"}, {"id": "7318332004", "district_id": "731833", "name": "RARU SIBUNUAN"}]
+[
+  {
+    "id": "7318331005",
+    "district_id": "731833",
+    "name": "RANTE ALANG"
+  },
+  {
+    "id": "7318332001",
+    "district_id": "731833",
+    "name": "BATUALU"
+  },
+  {
+    "id": "7318332002",
+    "district_id": "731833",
+    "name": "TOKESAN"
+  },
+  {
+    "id": "7318332003",
+    "district_id": "731833",
+    "name": "BATUALU SELATAN"
+  },
+  {
+    "id": "7318332004",
+    "district_id": "731833",
+    "name": "RARU SIBUNUAN"
+  }
+]

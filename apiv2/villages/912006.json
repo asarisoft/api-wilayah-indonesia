@@ -1,1 +1,37 @@
-[{"id": "9120062001", "district_id": "912006", "name": "NADOFOAI"}, {"id": "9120062002", "district_id": "912006", "name": "BARAPASI"}, {"id": "9120062003", "district_id": "912006", "name": "SIPISI"}, {"id": "9120062004", "district_id": "912006", "name": "BARIWARO"}, {"id": "9120062005", "district_id": "912006", "name": "BENSOR"}, {"id": "9120062006", "district_id": "912006", "name": "RAWIWA"}, {"id": "9120062007", "district_id": "912006", "name": "MARIKAI"}]
+[
+  {
+    "id": "9120062001",
+    "district_id": "912006",
+    "name": "NADOFOAI"
+  },
+  {
+    "id": "9120062002",
+    "district_id": "912006",
+    "name": "BARAPASI"
+  },
+  {
+    "id": "9120062003",
+    "district_id": "912006",
+    "name": "SIPISI"
+  },
+  {
+    "id": "9120062004",
+    "district_id": "912006",
+    "name": "BARIWARO"
+  },
+  {
+    "id": "9120062005",
+    "district_id": "912006",
+    "name": "BENSOR"
+  },
+  {
+    "id": "9120062006",
+    "district_id": "912006",
+    "name": "RAWIWA"
+  },
+  {
+    "id": "9120062007",
+    "district_id": "912006",
+    "name": "MARIKAI"
+  }
+]

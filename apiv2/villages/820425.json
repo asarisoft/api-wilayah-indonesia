@@ -1,1 +1,37 @@
-[{"id": "8204252001", "district_id": "820425", "name": "GONONE"}, {"id": "8204252002", "district_id": "820425", "name": "KAKUPANG"}, {"id": "8204252003", "district_id": "820425", "name": "KURUNGA"}, {"id": "8204252004", "district_id": "820425", "name": "LIBOBA HIJRAH"}, {"id": "8204252005", "district_id": "820425", "name": "PULAU GALA"}, {"id": "8204252006", "district_id": "820425", "name": "TAWABI"}, {"id": "8204252007", "district_id": "820425", "name": "YOMEN"}]
+[
+  {
+    "id": "8204252001",
+    "district_id": "820425",
+    "name": "GONONE"
+  },
+  {
+    "id": "8204252002",
+    "district_id": "820425",
+    "name": "KAKUPANG"
+  },
+  {
+    "id": "8204252003",
+    "district_id": "820425",
+    "name": "KURUNGA"
+  },
+  {
+    "id": "8204252004",
+    "district_id": "820425",
+    "name": "LIBOBA HIJRAH"
+  },
+  {
+    "id": "8204252005",
+    "district_id": "820425",
+    "name": "PULAU GALA"
+  },
+  {
+    "id": "8204252006",
+    "district_id": "820425",
+    "name": "TAWABI"
+  },
+  {
+    "id": "8204252007",
+    "district_id": "820425",
+    "name": "YOMEN"
+  }
+]

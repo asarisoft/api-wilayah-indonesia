@@ -1,1 +1,152 @@
-[{"id": "1604101031", "district_id": "160410", "name": "LAHAT TENGAH"}, {"id": "1604101032", "district_id": "160410", "name": "GUNUNG GAJAH"}, {"id": "1604101033", "district_id": "160410", "name": "PAGAR AGUNG"}, {"id": "1604101037", "district_id": "160410", "name": "TALANG JAWA"}, {"id": "1604101038", "district_id": "160410", "name": "PASAR BARU"}, {"id": "1604101040", "district_id": "160410", "name": "KOTA BARU"}, {"id": "1604101041", "district_id": "160410", "name": "PASAR LAMA"}, {"id": "1604101042", "district_id": "160410", "name": "PASAR BAWAH"}, {"id": "1604101043", "district_id": "160410", "name": "RD. PJKA"}, {"id": "1604101046", "district_id": "160410", "name": "BANDAR AGUNG"}, {"id": "1604101051", "district_id": "160410", "name": "KOTA NEGARA"}, {"id": "1604101052", "district_id": "160410", "name": "KOTA JAYA"}, {"id": "1604101054", "district_id": "160410", "name": "RD. PJKA BANDAR AGUNG"}, {"id": "1604101058", "district_id": "160410", "name": "SARI BUNGA MAS"}, {"id": "1604101059", "district_id": "160410", "name": "BANDAR JAYA"}, {"id": "1604101060", "district_id": "160410", "name": "TALANG JAWA SELATAN"}, {"id": "1604101061", "district_id": "160410", "name": "TALANG JAWA UTARA"}, {"id": "1604102012", "district_id": "160410", "name": "PADANG LENGKUAS"}, {"id": "1604102027", "district_id": "160410", "name": "SELAWI"}, {"id": "1604102030", "district_id": "160410", "name": "SUKANEGARA"}, {"id": "1604102034", "district_id": "160410", "name": "KOTA RAYA"}, {"id": "1604102035", "district_id": "160410", "name": "KEBAN"}, {"id": "1604102036", "district_id": "160410", "name": "PAGAR SARI"}, {"id": "1604102039", "district_id": "160410", "name": "PAGAR NEGARA"}, {"id": "1604102049", "district_id": "160410", "name": "SENABING"}, {"id": "1604102050", "district_id": "160410", "name": "MANGGUL"}, {"id": "1604102053", "district_id": "160410", "name": "ULAK LEBAR"}, {"id": "1604102055", "district_id": "160410", "name": "GIRI MULYA"}, {"id": "1604102056", "district_id": "160410", "name": "MAKARTI TAMA"}, {"id": "1604102057", "district_id": "160410", "name": "ULAK MAS"}]
+[
+  {
+    "id": "1604101031",
+    "district_id": "160410",
+    "name": "LAHAT TENGAH"
+  },
+  {
+    "id": "1604101032",
+    "district_id": "160410",
+    "name": "GUNUNG GAJAH"
+  },
+  {
+    "id": "1604101033",
+    "district_id": "160410",
+    "name": "PAGAR AGUNG"
+  },
+  {
+    "id": "1604101037",
+    "district_id": "160410",
+    "name": "TALANG JAWA"
+  },
+  {
+    "id": "1604101038",
+    "district_id": "160410",
+    "name": "PASAR BARU"
+  },
+  {
+    "id": "1604101040",
+    "district_id": "160410",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "1604101041",
+    "district_id": "160410",
+    "name": "PASAR LAMA"
+  },
+  {
+    "id": "1604101042",
+    "district_id": "160410",
+    "name": "PASAR BAWAH"
+  },
+  {
+    "id": "1604101043",
+    "district_id": "160410",
+    "name": "RD. PJKA"
+  },
+  {
+    "id": "1604101046",
+    "district_id": "160410",
+    "name": "BANDAR AGUNG"
+  },
+  {
+    "id": "1604101051",
+    "district_id": "160410",
+    "name": "KOTA NEGARA"
+  },
+  {
+    "id": "1604101052",
+    "district_id": "160410",
+    "name": "KOTA JAYA"
+  },
+  {
+    "id": "1604101054",
+    "district_id": "160410",
+    "name": "RD. PJKA BANDAR AGUNG"
+  },
+  {
+    "id": "1604101058",
+    "district_id": "160410",
+    "name": "SARI BUNGA MAS"
+  },
+  {
+    "id": "1604101059",
+    "district_id": "160410",
+    "name": "BANDAR JAYA"
+  },
+  {
+    "id": "1604101060",
+    "district_id": "160410",
+    "name": "TALANG JAWA SELATAN"
+  },
+  {
+    "id": "1604101061",
+    "district_id": "160410",
+    "name": "TALANG JAWA UTARA"
+  },
+  {
+    "id": "1604102012",
+    "district_id": "160410",
+    "name": "PADANG LENGKUAS"
+  },
+  {
+    "id": "1604102027",
+    "district_id": "160410",
+    "name": "SELAWI"
+  },
+  {
+    "id": "1604102030",
+    "district_id": "160410",
+    "name": "SUKANEGARA"
+  },
+  {
+    "id": "1604102034",
+    "district_id": "160410",
+    "name": "KOTA RAYA"
+  },
+  {
+    "id": "1604102035",
+    "district_id": "160410",
+    "name": "KEBAN"
+  },
+  {
+    "id": "1604102036",
+    "district_id": "160410",
+    "name": "PAGAR SARI"
+  },
+  {
+    "id": "1604102039",
+    "district_id": "160410",
+    "name": "PAGAR NEGARA"
+  },
+  {
+    "id": "1604102049",
+    "district_id": "160410",
+    "name": "SENABING"
+  },
+  {
+    "id": "1604102050",
+    "district_id": "160410",
+    "name": "MANGGUL"
+  },
+  {
+    "id": "1604102053",
+    "district_id": "160410",
+    "name": "ULAK LEBAR"
+  },
+  {
+    "id": "1604102055",
+    "district_id": "160410",
+    "name": "GIRI MULYA"
+  },
+  {
+    "id": "1604102056",
+    "district_id": "160410",
+    "name": "MAKARTI TAMA"
+  },
+  {
+    "id": "1604102057",
+    "district_id": "160410",
+    "name": "ULAK MAS"
+  }
+]

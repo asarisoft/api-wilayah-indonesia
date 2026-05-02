@@ -1,1 +1,77 @@
-[{"id": "5313082001", "district_id": "531308", "name": "ALAP ATADEI"}, {"id": "5313082002", "district_id": "531308", "name": "ATAKERA"}, {"id": "5313082003", "district_id": "531308", "name": "LEWORAJA"}, {"id": "5313082004", "district_id": "531308", "name": "PANTAI HARAPAN"}, {"id": "5313082005", "district_id": "531308", "name": "PUOR"}, {"id": "5313082006", "district_id": "531308", "name": "IMULOLONG"}, {"id": "5313082007", "district_id": "531308", "name": "LAMALERA B"}, {"id": "5313082008", "district_id": "531308", "name": "LAMALERA A"}, {"id": "5313082009", "district_id": "531308", "name": "LELATA"}, {"id": "5313082010", "district_id": "531308", "name": "WULANDONI"}, {"id": "5313082011", "district_id": "531308", "name": "BELOBAO"}, {"id": "5313082012", "district_id": "531308", "name": "POSIWATU"}, {"id": "5313082013", "district_id": "531308", "name": "PUOR B"}, {"id": "5313082014", "district_id": "531308", "name": "ATAILI"}, {"id": "5313082015", "district_id": "531308", "name": "TAPOBALI"}]
+[
+  {
+    "id": "5313082001",
+    "district_id": "531308",
+    "name": "ALAP ATADEI"
+  },
+  {
+    "id": "5313082002",
+    "district_id": "531308",
+    "name": "ATAKERA"
+  },
+  {
+    "id": "5313082003",
+    "district_id": "531308",
+    "name": "LEWORAJA"
+  },
+  {
+    "id": "5313082004",
+    "district_id": "531308",
+    "name": "PANTAI HARAPAN"
+  },
+  {
+    "id": "5313082005",
+    "district_id": "531308",
+    "name": "PUOR"
+  },
+  {
+    "id": "5313082006",
+    "district_id": "531308",
+    "name": "IMULOLONG"
+  },
+  {
+    "id": "5313082007",
+    "district_id": "531308",
+    "name": "LAMALERA B"
+  },
+  {
+    "id": "5313082008",
+    "district_id": "531308",
+    "name": "LAMALERA A"
+  },
+  {
+    "id": "5313082009",
+    "district_id": "531308",
+    "name": "LELATA"
+  },
+  {
+    "id": "5313082010",
+    "district_id": "531308",
+    "name": "WULANDONI"
+  },
+  {
+    "id": "5313082011",
+    "district_id": "531308",
+    "name": "BELOBAO"
+  },
+  {
+    "id": "5313082012",
+    "district_id": "531308",
+    "name": "POSIWATU"
+  },
+  {
+    "id": "5313082013",
+    "district_id": "531308",
+    "name": "PUOR B"
+  },
+  {
+    "id": "5313082014",
+    "district_id": "531308",
+    "name": "ATAILI"
+  },
+  {
+    "id": "5313082015",
+    "district_id": "531308",
+    "name": "TAPOBALI"
+  }
+]

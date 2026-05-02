@@ -1,1 +1,42 @@
-[{"id": "5303032001", "district_id": "530303", "name": "PANTAE"}, {"id": "5303032002", "district_id": "530303", "name": "OENAEM"}, {"id": "5303032003", "district_id": "530303", "name": "UPFAON"}, {"id": "5303032007", "district_id": "530303", "name": "TAUTPAH"}, {"id": "5303032009", "district_id": "530303", "name": "TOKBESI"}, {"id": "5303032010", "district_id": "530303", "name": "SAINIUP"}, {"id": "5303032011", "district_id": "530303", "name": "SUPUN"}, {"id": "5303032012", "district_id": "530303", "name": "TUNBAEN"}]
+[
+  {
+    "id": "5303032001",
+    "district_id": "530303",
+    "name": "PANTAE"
+  },
+  {
+    "id": "5303032002",
+    "district_id": "530303",
+    "name": "OENAEM"
+  },
+  {
+    "id": "5303032003",
+    "district_id": "530303",
+    "name": "UPFAON"
+  },
+  {
+    "id": "5303032007",
+    "district_id": "530303",
+    "name": "TAUTPAH"
+  },
+  {
+    "id": "5303032009",
+    "district_id": "530303",
+    "name": "TOKBESI"
+  },
+  {
+    "id": "5303032010",
+    "district_id": "530303",
+    "name": "SAINIUP"
+  },
+  {
+    "id": "5303032011",
+    "district_id": "530303",
+    "name": "SUPUN"
+  },
+  {
+    "id": "5303032012",
+    "district_id": "530303",
+    "name": "TUNBAEN"
+  }
+]

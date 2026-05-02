@@ -1,1 +1,62 @@
-[{"id": "7301031001", "district_id": "730103", "name": "BATANGMATA"}, {"id": "7301031002", "district_id": "730103", "name": "BATANGMATA SAPO"}, {"id": "7301032003", "district_id": "730103", "name": "PAMATATA"}, {"id": "7301032004", "district_id": "730103", "name": "TANETE"}, {"id": "7301032005", "district_id": "730103", "name": "BUNGAIYA"}, {"id": "7301032006", "district_id": "730103", "name": "KAYU BAUK"}, {"id": "7301032007", "district_id": "730103", "name": "BARAT LAMBONGAN"}, {"id": "7301032008", "district_id": "730103", "name": "BONTONA SALUK"}, {"id": "7301032009", "district_id": "730103", "name": "ONTO"}, {"id": "7301032010", "district_id": "730103", "name": "MAHARAYYA"}, {"id": "7301032011", "district_id": "730103", "name": "MENARA INDAH"}, {"id": "7301032015", "district_id": "730103", "name": "TAMALANREA"}]
+[
+  {
+    "id": "7301031001",
+    "district_id": "730103",
+    "name": "BATANGMATA"
+  },
+  {
+    "id": "7301031002",
+    "district_id": "730103",
+    "name": "BATANGMATA SAPO"
+  },
+  {
+    "id": "7301032003",
+    "district_id": "730103",
+    "name": "PAMATATA"
+  },
+  {
+    "id": "7301032004",
+    "district_id": "730103",
+    "name": "TANETE"
+  },
+  {
+    "id": "7301032005",
+    "district_id": "730103",
+    "name": "BUNGAIYA"
+  },
+  {
+    "id": "7301032006",
+    "district_id": "730103",
+    "name": "KAYU BAUK"
+  },
+  {
+    "id": "7301032007",
+    "district_id": "730103",
+    "name": "BARAT LAMBONGAN"
+  },
+  {
+    "id": "7301032008",
+    "district_id": "730103",
+    "name": "BONTONA SALUK"
+  },
+  {
+    "id": "7301032009",
+    "district_id": "730103",
+    "name": "ONTO"
+  },
+  {
+    "id": "7301032010",
+    "district_id": "730103",
+    "name": "MAHARAYYA"
+  },
+  {
+    "id": "7301032011",
+    "district_id": "730103",
+    "name": "MENARA INDAH"
+  },
+  {
+    "id": "7301032015",
+    "district_id": "730103",
+    "name": "TAMALANREA"
+  }
+]

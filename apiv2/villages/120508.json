@@ -1,1 +1,72 @@
-[{"id": "1205081001", "district_id": "120508", "name": "BINGAI"}, {"id": "1205082002", "district_id": "120508", "name": "GOHOR LAMA"}, {"id": "1205082003", "district_id": "120508", "name": "STABAT LAMA"}, {"id": "1205082004", "district_id": "120508", "name": "BESILAM BUKIT LEMBASA"}, {"id": "1205082005", "district_id": "120508", "name": "KEBUN BALOK"}, {"id": "1205082006", "district_id": "120508", "name": "BUKIT MELINTANG"}, {"id": "1205082007", "district_id": "120508", "name": "GERGAS"}, {"id": "1205082008", "district_id": "120508", "name": "STABAT LAMA BARAT"}, {"id": "1205082009", "district_id": "120508", "name": "SUMBER MULYO"}, {"id": "1205082010", "district_id": "120508", "name": "PERTUMBUKAN"}, {"id": "1205082011", "district_id": "120508", "name": "PAYA TUSAM"}, {"id": "1205082012", "district_id": "120508", "name": "MEKAR JAYA"}, {"id": "1205082013", "district_id": "120508", "name": "JENTERA STABAT"}, {"id": "1205082014", "district_id": "120508", "name": "STUNGKIT"}]
+[
+  {
+    "id": "1205081001",
+    "district_id": "120508",
+    "name": "BINGAI"
+  },
+  {
+    "id": "1205082002",
+    "district_id": "120508",
+    "name": "GOHOR LAMA"
+  },
+  {
+    "id": "1205082003",
+    "district_id": "120508",
+    "name": "STABAT LAMA"
+  },
+  {
+    "id": "1205082004",
+    "district_id": "120508",
+    "name": "BESILAM BUKIT LEMBASA"
+  },
+  {
+    "id": "1205082005",
+    "district_id": "120508",
+    "name": "KEBUN BALOK"
+  },
+  {
+    "id": "1205082006",
+    "district_id": "120508",
+    "name": "BUKIT MELINTANG"
+  },
+  {
+    "id": "1205082007",
+    "district_id": "120508",
+    "name": "GERGAS"
+  },
+  {
+    "id": "1205082008",
+    "district_id": "120508",
+    "name": "STABAT LAMA BARAT"
+  },
+  {
+    "id": "1205082009",
+    "district_id": "120508",
+    "name": "SUMBER MULYO"
+  },
+  {
+    "id": "1205082010",
+    "district_id": "120508",
+    "name": "PERTUMBUKAN"
+  },
+  {
+    "id": "1205082011",
+    "district_id": "120508",
+    "name": "PAYA TUSAM"
+  },
+  {
+    "id": "1205082012",
+    "district_id": "120508",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "1205082013",
+    "district_id": "120508",
+    "name": "JENTERA STABAT"
+  },
+  {
+    "id": "1205082014",
+    "district_id": "120508",
+    "name": "STUNGKIT"
+  }
+]

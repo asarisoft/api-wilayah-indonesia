@@ -1,1 +1,92 @@
-[{"id": "3325032001", "district_id": "332503", "name": "GERLANG"}, {"id": "3325032002", "district_id": "332503", "name": "KALITENGAH"}, {"id": "3325032003", "district_id": "332503", "name": "KEMBANGLANGIT"}, {"id": "3325032004", "district_id": "332503", "name": "GONDANG"}, {"id": "3325032005", "district_id": "332503", "name": "BISMO"}, {"id": "3325032006", "district_id": "332503", "name": "KETELENG"}, {"id": "3325032007", "district_id": "332503", "name": "KALISARI"}, {"id": "3325032009", "district_id": "332503", "name": "BESANI"}, {"id": "3325032010", "district_id": "332503", "name": "WONOBODRO"}, {"id": "3325032011", "district_id": "332503", "name": "BAWANG"}, {"id": "3325032012", "district_id": "332503", "name": "PESANTREN"}, {"id": "3325032013", "district_id": "332503", "name": "KAMBANGAN"}, {"id": "3325032014", "district_id": "332503", "name": "KEPUTON"}, {"id": "3325032015", "district_id": "332503", "name": "BLADO"}, {"id": "3325032016", "district_id": "332503", "name": "COKRO"}, {"id": "3325032017", "district_id": "332503", "name": "SELOPAJANG BARAT"}, {"id": "3325032020", "district_id": "332503", "name": "KALIPANCUR"}, {"id": "3325032021", "district_id": "332503", "name": "SELOPAJANG TIMUR"}]
+[
+  {
+    "id": "3325032001",
+    "district_id": "332503",
+    "name": "GERLANG"
+  },
+  {
+    "id": "3325032002",
+    "district_id": "332503",
+    "name": "KALITENGAH"
+  },
+  {
+    "id": "3325032003",
+    "district_id": "332503",
+    "name": "KEMBANGLANGIT"
+  },
+  {
+    "id": "3325032004",
+    "district_id": "332503",
+    "name": "GONDANG"
+  },
+  {
+    "id": "3325032005",
+    "district_id": "332503",
+    "name": "BISMO"
+  },
+  {
+    "id": "3325032006",
+    "district_id": "332503",
+    "name": "KETELENG"
+  },
+  {
+    "id": "3325032007",
+    "district_id": "332503",
+    "name": "KALISARI"
+  },
+  {
+    "id": "3325032009",
+    "district_id": "332503",
+    "name": "BESANI"
+  },
+  {
+    "id": "3325032010",
+    "district_id": "332503",
+    "name": "WONOBODRO"
+  },
+  {
+    "id": "3325032011",
+    "district_id": "332503",
+    "name": "BAWANG"
+  },
+  {
+    "id": "3325032012",
+    "district_id": "332503",
+    "name": "PESANTREN"
+  },
+  {
+    "id": "3325032013",
+    "district_id": "332503",
+    "name": "KAMBANGAN"
+  },
+  {
+    "id": "3325032014",
+    "district_id": "332503",
+    "name": "KEPUTON"
+  },
+  {
+    "id": "3325032015",
+    "district_id": "332503",
+    "name": "BLADO"
+  },
+  {
+    "id": "3325032016",
+    "district_id": "332503",
+    "name": "COKRO"
+  },
+  {
+    "id": "3325032017",
+    "district_id": "332503",
+    "name": "SELOPAJANG BARAT"
+  },
+  {
+    "id": "3325032020",
+    "district_id": "332503",
+    "name": "KALIPANCUR"
+  },
+  {
+    "id": "3325032021",
+    "district_id": "332503",
+    "name": "SELOPAJANG TIMUR"
+  }
+]

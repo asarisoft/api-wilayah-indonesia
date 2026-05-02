@@ -1,1 +1,32 @@
-[{"id": "127401", "regency_id": "1274", "name": "TANJUNGBALAI SELATAN"}, {"id": "127402", "regency_id": "1274", "name": "TANJUNGBALAI UTARA"}, {"id": "127403", "regency_id": "1274", "name": "SEI TUALANG RASO"}, {"id": "127404", "regency_id": "1274", "name": "TELUK NIBUNG"}, {"id": "127405", "regency_id": "1274", "name": "DATUK BANDAR"}, {"id": "127406", "regency_id": "1274", "name": "DATUK BANDAR TIMUR"}]
+[
+  {
+    "id": "127401",
+    "regency_id": "1274",
+    "name": "TANJUNGBALAI SELATAN"
+  },
+  {
+    "id": "127402",
+    "regency_id": "1274",
+    "name": "TANJUNGBALAI UTARA"
+  },
+  {
+    "id": "127403",
+    "regency_id": "1274",
+    "name": "SEI TUALANG RASO"
+  },
+  {
+    "id": "127404",
+    "regency_id": "1274",
+    "name": "TELUK NIBUNG"
+  },
+  {
+    "id": "127405",
+    "regency_id": "1274",
+    "name": "DATUK BANDAR"
+  },
+  {
+    "id": "127406",
+    "regency_id": "1274",
+    "name": "DATUK BANDAR TIMUR"
+  }
+]

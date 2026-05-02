@@ -1,1 +1,87 @@
-[{"id": "810801", "regency_id": "8108", "name": "MOA"}, {"id": "810802", "regency_id": "8108", "name": "DAMER"}, {"id": "810803", "regency_id": "8108", "name": "KEPULAUAN LUANG SERMATA"}, {"id": "810804", "regency_id": "8108", "name": "BABAR BARAT"}, {"id": "810805", "regency_id": "8108", "name": "PULAU-PULAU BABAR TIMUR"}, {"id": "810806", "regency_id": "8108", "name": "WETAR SELATAN"}, {"id": "810807", "regency_id": "8108", "name": "KISAR SELATAN"}, {"id": "810808", "regency_id": "8108", "name": "PULAU LETI"}, {"id": "810809", "regency_id": "8108", "name": "PULAU MASELA"}, {"id": "810810", "regency_id": "8108", "name": "DAWELOR DAWERA"}, {"id": "810811", "regency_id": "8108", "name": "PULAU WETANG"}, {"id": "810812", "regency_id": "8108", "name": "PULAU LAKOR"}, {"id": "810813", "regency_id": "8108", "name": "WETAR UTARA"}, {"id": "810814", "regency_id": "8108", "name": "WETAR BARAT"}, {"id": "810815", "regency_id": "8108", "name": "WETAR TIMUR"}, {"id": "810816", "regency_id": "8108", "name": "KEPULAUAN ROMA"}, {"id": "810817", "regency_id": "8108", "name": "KISAR UTARA"}]
+[
+  {
+    "id": "810801",
+    "regency_id": "8108",
+    "name": "MOA"
+  },
+  {
+    "id": "810802",
+    "regency_id": "8108",
+    "name": "DAMER"
+  },
+  {
+    "id": "810803",
+    "regency_id": "8108",
+    "name": "KEPULAUAN LUANG SERMATA"
+  },
+  {
+    "id": "810804",
+    "regency_id": "8108",
+    "name": "BABAR BARAT"
+  },
+  {
+    "id": "810805",
+    "regency_id": "8108",
+    "name": "PULAU-PULAU BABAR TIMUR"
+  },
+  {
+    "id": "810806",
+    "regency_id": "8108",
+    "name": "WETAR SELATAN"
+  },
+  {
+    "id": "810807",
+    "regency_id": "8108",
+    "name": "KISAR SELATAN"
+  },
+  {
+    "id": "810808",
+    "regency_id": "8108",
+    "name": "PULAU LETI"
+  },
+  {
+    "id": "810809",
+    "regency_id": "8108",
+    "name": "PULAU MASELA"
+  },
+  {
+    "id": "810810",
+    "regency_id": "8108",
+    "name": "DAWELOR DAWERA"
+  },
+  {
+    "id": "810811",
+    "regency_id": "8108",
+    "name": "PULAU WETANG"
+  },
+  {
+    "id": "810812",
+    "regency_id": "8108",
+    "name": "PULAU LAKOR"
+  },
+  {
+    "id": "810813",
+    "regency_id": "8108",
+    "name": "WETAR UTARA"
+  },
+  {
+    "id": "810814",
+    "regency_id": "8108",
+    "name": "WETAR BARAT"
+  },
+  {
+    "id": "810815",
+    "regency_id": "8108",
+    "name": "WETAR TIMUR"
+  },
+  {
+    "id": "810816",
+    "regency_id": "8108",
+    "name": "KEPULAUAN ROMA"
+  },
+  {
+    "id": "810817",
+    "regency_id": "8108",
+    "name": "KISAR UTARA"
+  }
+]

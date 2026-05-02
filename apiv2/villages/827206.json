@@ -1,1 +1,72 @@
-[{"id": "8272061001", "district_id": "827206", "name": "AKELAMO"}, {"id": "8272062002", "district_id": "827206", "name": "LOLA"}, {"id": "8272062003", "district_id": "827206", "name": "AKETOBOLOLO"}, {"id": "8272062004", "district_id": "827206", "name": "AKETOBATU"}, {"id": "8272062005", "district_id": "827206", "name": "AKEDOTILOU"}, {"id": "8272062006", "district_id": "827206", "name": "AKEGURACI"}, {"id": "8272062007", "district_id": "827206", "name": "AKESAI"}, {"id": "8272062008", "district_id": "827206", "name": "TOGEME"}, {"id": "8272062009", "district_id": "827206", "name": "TADUPI"}, {"id": "8272062010", "district_id": "827206", "name": "BERINGIN JAYA"}, {"id": "8272062011", "district_id": "827206", "name": "TAUNO"}, {"id": "8272062012", "district_id": "827206", "name": "FANAHA"}, {"id": "8272062013", "district_id": "827206", "name": "YEHU"}, {"id": "8272062014", "district_id": "827206", "name": "SIOKONA"}]
+[
+  {
+    "id": "8272061001",
+    "district_id": "827206",
+    "name": "AKELAMO"
+  },
+  {
+    "id": "8272062002",
+    "district_id": "827206",
+    "name": "LOLA"
+  },
+  {
+    "id": "8272062003",
+    "district_id": "827206",
+    "name": "AKETOBOLOLO"
+  },
+  {
+    "id": "8272062004",
+    "district_id": "827206",
+    "name": "AKETOBATU"
+  },
+  {
+    "id": "8272062005",
+    "district_id": "827206",
+    "name": "AKEDOTILOU"
+  },
+  {
+    "id": "8272062006",
+    "district_id": "827206",
+    "name": "AKEGURACI"
+  },
+  {
+    "id": "8272062007",
+    "district_id": "827206",
+    "name": "AKESAI"
+  },
+  {
+    "id": "8272062008",
+    "district_id": "827206",
+    "name": "TOGEME"
+  },
+  {
+    "id": "8272062009",
+    "district_id": "827206",
+    "name": "TADUPI"
+  },
+  {
+    "id": "8272062010",
+    "district_id": "827206",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "8272062011",
+    "district_id": "827206",
+    "name": "TAUNO"
+  },
+  {
+    "id": "8272062012",
+    "district_id": "827206",
+    "name": "FANAHA"
+  },
+  {
+    "id": "8272062013",
+    "district_id": "827206",
+    "name": "YEHU"
+  },
+  {
+    "id": "8272062014",
+    "district_id": "827206",
+    "name": "SIOKONA"
+  }
+]

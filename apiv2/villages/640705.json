@@ -1,1 +1,57 @@
-[{"id": "6407052008", "district_id": "640705", "name": "LINGGANG MUARA LEBAN"}, {"id": "6407052009", "district_id": "640705", "name": "LONG IRAM SEBERANG"}, {"id": "6407052010", "district_id": "640705", "name": "LONG IRAM ILIR"}, {"id": "6407052011", "district_id": "640705", "name": "ANAH"}, {"id": "6407052015", "district_id": "640705", "name": "LONG DALIQ"}, {"id": "6407052016", "district_id": "640705", "name": "LONG IRAM KOTA"}, {"id": "6407052017", "district_id": "640705", "name": "LONG IRAM BAYAN"}, {"id": "6407052018", "district_id": "640705", "name": "KELIWAI"}, {"id": "6407052019", "district_id": "640705", "name": "UJOH HALANG"}, {"id": "6407052021", "district_id": "640705", "name": "KELIAN LUAR"}, {"id": "6407052022", "district_id": "640705", "name": "SUKOMULYO"}]
+[
+  {
+    "id": "6407052008",
+    "district_id": "640705",
+    "name": "LINGGANG MUARA LEBAN"
+  },
+  {
+    "id": "6407052009",
+    "district_id": "640705",
+    "name": "LONG IRAM SEBERANG"
+  },
+  {
+    "id": "6407052010",
+    "district_id": "640705",
+    "name": "LONG IRAM ILIR"
+  },
+  {
+    "id": "6407052011",
+    "district_id": "640705",
+    "name": "ANAH"
+  },
+  {
+    "id": "6407052015",
+    "district_id": "640705",
+    "name": "LONG DALIQ"
+  },
+  {
+    "id": "6407052016",
+    "district_id": "640705",
+    "name": "LONG IRAM KOTA"
+  },
+  {
+    "id": "6407052017",
+    "district_id": "640705",
+    "name": "LONG IRAM BAYAN"
+  },
+  {
+    "id": "6407052018",
+    "district_id": "640705",
+    "name": "KELIWAI"
+  },
+  {
+    "id": "6407052019",
+    "district_id": "640705",
+    "name": "UJOH HALANG"
+  },
+  {
+    "id": "6407052021",
+    "district_id": "640705",
+    "name": "KELIAN LUAR"
+  },
+  {
+    "id": "6407052022",
+    "district_id": "640705",
+    "name": "SUKOMULYO"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "1471101002", "district_id": "147110", "name": "BENCAHLESUNG"}, {"id": "1471101003", "district_id": "147110", "name": "TANGKERANG TIMUR"}, {"id": "1471101004", "district_id": "147110", "name": "REJOSARI"}, {"id": "1471101005", "district_id": "147110", "name": "BAMBUKUNING"}, {"id": "1471101010", "district_id": "147110", "name": "MELEBUNG"}, {"id": "1471101011", "district_id": "147110", "name": "INDUSTRITENAYAN"}, {"id": "1471101012", "district_id": "147110", "name": "SIALANGSAKTI"}, {"id": "1471101013", "district_id": "147110", "name": "TUAHNEGERI"}]
+[
+  {
+    "id": "1471101002",
+    "district_id": "147110",
+    "name": "BENCAHLESUNG"
+  },
+  {
+    "id": "1471101003",
+    "district_id": "147110",
+    "name": "TANGKERANG TIMUR"
+  },
+  {
+    "id": "1471101004",
+    "district_id": "147110",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "1471101005",
+    "district_id": "147110",
+    "name": "BAMBUKUNING"
+  },
+  {
+    "id": "1471101010",
+    "district_id": "147110",
+    "name": "MELEBUNG"
+  },
+  {
+    "id": "1471101011",
+    "district_id": "147110",
+    "name": "INDUSTRITENAYAN"
+  },
+  {
+    "id": "1471101012",
+    "district_id": "147110",
+    "name": "SIALANGSAKTI"
+  },
+  {
+    "id": "1471101013",
+    "district_id": "147110",
+    "name": "TUAHNEGERI"
+  }
+]

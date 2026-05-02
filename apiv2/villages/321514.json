@@ -1,1 +1,72 @@
-[{"id": "3215142001", "district_id": "321514", "name": "MEKARSARI"}, {"id": "3215142002", "district_id": "321514", "name": "JATISARI"}, {"id": "3215142003", "district_id": "321514", "name": "BARUGBUG"}, {"id": "3215142004", "district_id": "321514", "name": "CIKALONGSARI"}, {"id": "3215142005", "district_id": "321514", "name": "CIREJAG"}, {"id": "3215142006", "district_id": "321514", "name": "JATIBARU"}, {"id": "3215142007", "district_id": "321514", "name": "JATIRAGAS"}, {"id": "3215142008", "district_id": "321514", "name": "JATIWANGI"}, {"id": "3215142009", "district_id": "321514", "name": "KALIJATI"}, {"id": "3215142010", "district_id": "321514", "name": "BALONGGANDU"}, {"id": "3215142011", "district_id": "321514", "name": "PACING"}, {"id": "3215142012", "district_id": "321514", "name": "SITUDAM"}, {"id": "3215142013", "district_id": "321514", "name": "SUKAMEKAR"}, {"id": "3215142014", "district_id": "321514", "name": "TELARSARI"}]
+[
+  {
+    "id": "3215142001",
+    "district_id": "321514",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3215142002",
+    "district_id": "321514",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3215142003",
+    "district_id": "321514",
+    "name": "BARUGBUG"
+  },
+  {
+    "id": "3215142004",
+    "district_id": "321514",
+    "name": "CIKALONGSARI"
+  },
+  {
+    "id": "3215142005",
+    "district_id": "321514",
+    "name": "CIREJAG"
+  },
+  {
+    "id": "3215142006",
+    "district_id": "321514",
+    "name": "JATIBARU"
+  },
+  {
+    "id": "3215142007",
+    "district_id": "321514",
+    "name": "JATIRAGAS"
+  },
+  {
+    "id": "3215142008",
+    "district_id": "321514",
+    "name": "JATIWANGI"
+  },
+  {
+    "id": "3215142009",
+    "district_id": "321514",
+    "name": "KALIJATI"
+  },
+  {
+    "id": "3215142010",
+    "district_id": "321514",
+    "name": "BALONGGANDU"
+  },
+  {
+    "id": "3215142011",
+    "district_id": "321514",
+    "name": "PACING"
+  },
+  {
+    "id": "3215142012",
+    "district_id": "321514",
+    "name": "SITUDAM"
+  },
+  {
+    "id": "3215142013",
+    "district_id": "321514",
+    "name": "SUKAMEKAR"
+  },
+  {
+    "id": "3215142014",
+    "district_id": "321514",
+    "name": "TELARSARI"
+  }
+]

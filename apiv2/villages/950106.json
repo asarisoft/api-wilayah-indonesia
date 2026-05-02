@@ -1,1 +1,32 @@
-[{"id": "9501062001", "district_id": "950106", "name": "WALELAGAMA"}, {"id": "9501062002", "district_id": "950106", "name": "PUGIMA"}, {"id": "9501062003", "district_id": "950106", "name": "ITLAY HALITOPO"}, {"id": "9501062004", "district_id": "950106", "name": "KUBULAKMA"}, {"id": "9501062005", "district_id": "950106", "name": "KULAKEN"}, {"id": "9501062006", "district_id": "950106", "name": "WAMUSAGE"}]
+[
+  {
+    "id": "9501062001",
+    "district_id": "950106",
+    "name": "WALELAGAMA"
+  },
+  {
+    "id": "9501062002",
+    "district_id": "950106",
+    "name": "PUGIMA"
+  },
+  {
+    "id": "9501062003",
+    "district_id": "950106",
+    "name": "ITLAY HALITOPO"
+  },
+  {
+    "id": "9501062004",
+    "district_id": "950106",
+    "name": "KUBULAKMA"
+  },
+  {
+    "id": "9501062005",
+    "district_id": "950106",
+    "name": "KULAKEN"
+  },
+  {
+    "id": "9501062006",
+    "district_id": "950106",
+    "name": "WAMUSAGE"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3204112001", "district_id": "320411", "name": "SANGKANHURIP"}, {"id": "3204112002", "district_id": "320411", "name": "KATAPANG"}, {"id": "3204112004", "district_id": "320411", "name": "GANDASARI"}, {"id": "3204112006", "district_id": "320411", "name": "SUKAMUKTI"}, {"id": "3204112007", "district_id": "320411", "name": "CILAMPENI"}, {"id": "3204112008", "district_id": "320411", "name": "PANGAUBAN"}, {"id": "3204112009", "district_id": "320411", "name": "BANYUSARI"}]
+[
+  {
+    "id": "3204112001",
+    "district_id": "320411",
+    "name": "SANGKANHURIP"
+  },
+  {
+    "id": "3204112002",
+    "district_id": "320411",
+    "name": "KATAPANG"
+  },
+  {
+    "id": "3204112004",
+    "district_id": "320411",
+    "name": "GANDASARI"
+  },
+  {
+    "id": "3204112006",
+    "district_id": "320411",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "3204112007",
+    "district_id": "320411",
+    "name": "CILAMPENI"
+  },
+  {
+    "id": "3204112008",
+    "district_id": "320411",
+    "name": "PANGAUBAN"
+  },
+  {
+    "id": "3204112009",
+    "district_id": "320411",
+    "name": "BANYUSARI"
+  }
+]

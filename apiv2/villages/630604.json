@@ -1,1 +1,57 @@
-[{"id": "6306042001", "district_id": "630604", "name": "BAMBAN UTARA"}, {"id": "6306042002", "district_id": "630604", "name": "BAMBAN"}, {"id": "6306042003", "district_id": "630604", "name": "BAMBAN SELATAN"}, {"id": "6306042004", "district_id": "630604", "name": "KAYU ABANG"}, {"id": "6306042005", "district_id": "630604", "name": "ANGKINANG"}, {"id": "6306042006", "district_id": "630604", "name": "TELAGA SILI-SILI"}, {"id": "6306042007", "district_id": "630604", "name": "ANGKINANG SELATAN"}, {"id": "6306042008", "district_id": "630604", "name": "TAWIA"}, {"id": "6306042009", "district_id": "630604", "name": "TANIRAN KUBAH"}, {"id": "6306042010", "district_id": "630604", "name": "TANIRAN SELATAN"}, {"id": "6306042011", "district_id": "630604", "name": "BAKARUNG"}]
+[
+  {
+    "id": "6306042001",
+    "district_id": "630604",
+    "name": "BAMBAN UTARA"
+  },
+  {
+    "id": "6306042002",
+    "district_id": "630604",
+    "name": "BAMBAN"
+  },
+  {
+    "id": "6306042003",
+    "district_id": "630604",
+    "name": "BAMBAN SELATAN"
+  },
+  {
+    "id": "6306042004",
+    "district_id": "630604",
+    "name": "KAYU ABANG"
+  },
+  {
+    "id": "6306042005",
+    "district_id": "630604",
+    "name": "ANGKINANG"
+  },
+  {
+    "id": "6306042006",
+    "district_id": "630604",
+    "name": "TELAGA SILI-SILI"
+  },
+  {
+    "id": "6306042007",
+    "district_id": "630604",
+    "name": "ANGKINANG SELATAN"
+  },
+  {
+    "id": "6306042008",
+    "district_id": "630604",
+    "name": "TAWIA"
+  },
+  {
+    "id": "6306042009",
+    "district_id": "630604",
+    "name": "TANIRAN KUBAH"
+  },
+  {
+    "id": "6306042010",
+    "district_id": "630604",
+    "name": "TANIRAN SELATAN"
+  },
+  {
+    "id": "6306042011",
+    "district_id": "630604",
+    "name": "BAKARUNG"
+  }
+]

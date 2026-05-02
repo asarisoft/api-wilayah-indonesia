@@ -1,1 +1,87 @@
-[{"id": "3506142001", "district_id": "350614", "name": "PURWOTENGAH"}, {"id": "3506142002", "district_id": "350614", "name": "KWARON"}, {"id": "3506142003", "district_id": "350614", "name": "MINGGIRAN"}, {"id": "3506142004", "district_id": "350614", "name": "PEHKULON"}, {"id": "3506142005", "district_id": "350614", "name": "PEHWETAN"}, {"id": "3506142006", "district_id": "350614", "name": "DAWUHAN KIDUL"}, {"id": "3506142007", "district_id": "350614", "name": "JANTI"}, {"id": "3506142008", "district_id": "350614", "name": "NGAMPEL"}, {"id": "3506142009", "district_id": "350614", "name": "KEDUNGMALANG"}, {"id": "3506142010", "district_id": "350614", "name": "JAMBANGAN"}, {"id": "3506142011", "district_id": "350614", "name": "MADURETNO"}, {"id": "3506142012", "district_id": "350614", "name": "PAPAR"}, {"id": "3506142013", "district_id": "350614", "name": "TANON"}, {"id": "3506142014", "district_id": "350614", "name": "SRIKATON"}, {"id": "3506142015", "district_id": "350614", "name": "KEPUH"}, {"id": "3506142016", "district_id": "350614", "name": "SUKOMORO"}, {"id": "3506142017", "district_id": "350614", "name": "PUHJAJAR"}]
+[
+  {
+    "id": "3506142001",
+    "district_id": "350614",
+    "name": "PURWOTENGAH"
+  },
+  {
+    "id": "3506142002",
+    "district_id": "350614",
+    "name": "KWARON"
+  },
+  {
+    "id": "3506142003",
+    "district_id": "350614",
+    "name": "MINGGIRAN"
+  },
+  {
+    "id": "3506142004",
+    "district_id": "350614",
+    "name": "PEHKULON"
+  },
+  {
+    "id": "3506142005",
+    "district_id": "350614",
+    "name": "PEHWETAN"
+  },
+  {
+    "id": "3506142006",
+    "district_id": "350614",
+    "name": "DAWUHAN KIDUL"
+  },
+  {
+    "id": "3506142007",
+    "district_id": "350614",
+    "name": "JANTI"
+  },
+  {
+    "id": "3506142008",
+    "district_id": "350614",
+    "name": "NGAMPEL"
+  },
+  {
+    "id": "3506142009",
+    "district_id": "350614",
+    "name": "KEDUNGMALANG"
+  },
+  {
+    "id": "3506142010",
+    "district_id": "350614",
+    "name": "JAMBANGAN"
+  },
+  {
+    "id": "3506142011",
+    "district_id": "350614",
+    "name": "MADURETNO"
+  },
+  {
+    "id": "3506142012",
+    "district_id": "350614",
+    "name": "PAPAR"
+  },
+  {
+    "id": "3506142013",
+    "district_id": "350614",
+    "name": "TANON"
+  },
+  {
+    "id": "3506142014",
+    "district_id": "350614",
+    "name": "SRIKATON"
+  },
+  {
+    "id": "3506142015",
+    "district_id": "350614",
+    "name": "KEPUH"
+  },
+  {
+    "id": "3506142016",
+    "district_id": "350614",
+    "name": "SUKOMORO"
+  },
+  {
+    "id": "3506142017",
+    "district_id": "350614",
+    "name": "PUHJAJAR"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "3578161001", "district_id": "357816", "name": "AMPEL"}, {"id": "3578161002", "district_id": "357816", "name": "PEGIRIAN"}, {"id": "3578161003", "district_id": "357816", "name": "WONOKUSUMO"}, {"id": "3578161004", "district_id": "357816", "name": "UJUNG"}, {"id": "3578161005", "district_id": "357816", "name": "SIDOTOPO"}]
+[
+  {
+    "id": "3578161001",
+    "district_id": "357816",
+    "name": "AMPEL"
+  },
+  {
+    "id": "3578161002",
+    "district_id": "357816",
+    "name": "PEGIRIAN"
+  },
+  {
+    "id": "3578161003",
+    "district_id": "357816",
+    "name": "WONOKUSUMO"
+  },
+  {
+    "id": "3578161004",
+    "district_id": "357816",
+    "name": "UJUNG"
+  },
+  {
+    "id": "3578161005",
+    "district_id": "357816",
+    "name": "SIDOTOPO"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1809102001", "district_id": "180910", "name": "BATU MENYAN"}, {"id": "1809102002", "district_id": "180910", "name": "CILIMUS"}, {"id": "1809102003", "district_id": "180910", "name": "GEBANG"}, {"id": "1809102004", "district_id": "180910", "name": "HANURA"}, {"id": "1809102005", "district_id": "180910", "name": "HURUN"}, {"id": "1809102006", "district_id": "180910", "name": "MUNCA"}, {"id": "1809102007", "district_id": "180910", "name": "SIDODADI"}, {"id": "1809102008", "district_id": "180910", "name": "SUKAJAYA LEMPASING"}, {"id": "1809102009", "district_id": "180910", "name": "TALANG MULYA"}, {"id": "1809102010", "district_id": "180910", "name": "TANJUNG AGUNG"}]
+[
+  {
+    "id": "1809102001",
+    "district_id": "180910",
+    "name": "BATU MENYAN"
+  },
+  {
+    "id": "1809102002",
+    "district_id": "180910",
+    "name": "CILIMUS"
+  },
+  {
+    "id": "1809102003",
+    "district_id": "180910",
+    "name": "GEBANG"
+  },
+  {
+    "id": "1809102004",
+    "district_id": "180910",
+    "name": "HANURA"
+  },
+  {
+    "id": "1809102005",
+    "district_id": "180910",
+    "name": "HURUN"
+  },
+  {
+    "id": "1809102006",
+    "district_id": "180910",
+    "name": "MUNCA"
+  },
+  {
+    "id": "1809102007",
+    "district_id": "180910",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1809102008",
+    "district_id": "180910",
+    "name": "SUKAJAYA LEMPASING"
+  },
+  {
+    "id": "1809102009",
+    "district_id": "180910",
+    "name": "TALANG MULYA"
+  },
+  {
+    "id": "1809102010",
+    "district_id": "180910",
+    "name": "TANJUNG AGUNG"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "7210152001", "district_id": "721015", "name": "WAYU"}, {"id": "7210152002", "district_id": "721015", "name": "TAIPANGGABE"}, {"id": "7210152003", "district_id": "721015", "name": "MATANTIMALI"}, {"id": "7210152004", "district_id": "721015", "name": "LEWARA"}, {"id": "7210152005", "district_id": "721015", "name": "DOMBU"}, {"id": "7210152006", "district_id": "721015", "name": "SOI"}, {"id": "7210152007", "district_id": "721015", "name": "WUGAGA"}, {"id": "7210152008", "district_id": "721015", "name": "PANASIBAJA"}, {"id": "7210152009", "district_id": "721015", "name": "ONGULERO"}, {"id": "7210152010", "district_id": "721015", "name": "WIAPORE"}, {"id": "7210152011", "district_id": "721015", "name": "WAWUJAI"}, {"id": "7210152012", "district_id": "721015", "name": "LEMOSIRANINDI"}]
+[
+  {
+    "id": "7210152001",
+    "district_id": "721015",
+    "name": "WAYU"
+  },
+  {
+    "id": "7210152002",
+    "district_id": "721015",
+    "name": "TAIPANGGABE"
+  },
+  {
+    "id": "7210152003",
+    "district_id": "721015",
+    "name": "MATANTIMALI"
+  },
+  {
+    "id": "7210152004",
+    "district_id": "721015",
+    "name": "LEWARA"
+  },
+  {
+    "id": "7210152005",
+    "district_id": "721015",
+    "name": "DOMBU"
+  },
+  {
+    "id": "7210152006",
+    "district_id": "721015",
+    "name": "SOI"
+  },
+  {
+    "id": "7210152007",
+    "district_id": "721015",
+    "name": "WUGAGA"
+  },
+  {
+    "id": "7210152008",
+    "district_id": "721015",
+    "name": "PANASIBAJA"
+  },
+  {
+    "id": "7210152009",
+    "district_id": "721015",
+    "name": "ONGULERO"
+  },
+  {
+    "id": "7210152010",
+    "district_id": "721015",
+    "name": "WIAPORE"
+  },
+  {
+    "id": "7210152011",
+    "district_id": "721015",
+    "name": "WAWUJAI"
+  },
+  {
+    "id": "7210152012",
+    "district_id": "721015",
+    "name": "LEMOSIRANINDI"
+  }
+]

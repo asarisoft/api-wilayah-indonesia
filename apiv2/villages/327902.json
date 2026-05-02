@@ -1,1 +1,42 @@
-[{"id": "3279021001", "district_id": "327902", "name": "HEGARSARI"}, {"id": "3279021002", "district_id": "327902", "name": "PATARUMAN"}, {"id": "3279022003", "district_id": "327902", "name": "MULYASARI"}, {"id": "3279022004", "district_id": "327902", "name": "BATULAWANG"}, {"id": "3279022005", "district_id": "327902", "name": "KARYAMUKTI"}, {"id": "3279022006", "district_id": "327902", "name": "BINANGUN"}, {"id": "3279022007", "district_id": "327902", "name": "SUKAMUKTI"}, {"id": "3279022008", "district_id": "327902", "name": "SINARTANJUNG"}]
+[
+  {
+    "id": "3279021001",
+    "district_id": "327902",
+    "name": "HEGARSARI"
+  },
+  {
+    "id": "3279021002",
+    "district_id": "327902",
+    "name": "PATARUMAN"
+  },
+  {
+    "id": "3279022003",
+    "district_id": "327902",
+    "name": "MULYASARI"
+  },
+  {
+    "id": "3279022004",
+    "district_id": "327902",
+    "name": "BATULAWANG"
+  },
+  {
+    "id": "3279022005",
+    "district_id": "327902",
+    "name": "KARYAMUKTI"
+  },
+  {
+    "id": "3279022006",
+    "district_id": "327902",
+    "name": "BINANGUN"
+  },
+  {
+    "id": "3279022007",
+    "district_id": "327902",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "3279022008",
+    "district_id": "327902",
+    "name": "SINARTANJUNG"
+  }
+]

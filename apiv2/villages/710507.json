@@ -1,1 +1,37 @@
-[{"id": "7105072001", "district_id": "710507", "name": "MOTOLING"}, {"id": "7105072002", "district_id": "710507", "name": "MOTOLING MAWALE"}, {"id": "7105072003", "district_id": "710507", "name": "MOTOLING I"}, {"id": "7105072004", "district_id": "710507", "name": "MOTOLING II"}, {"id": "7105072005", "district_id": "710507", "name": "PICUAN BARU"}, {"id": "7105072015", "district_id": "710507", "name": "LALUMPE"}, {"id": "7105072021", "district_id": "710507", "name": "RAANAN LAMA"}]
+[
+  {
+    "id": "7105072001",
+    "district_id": "710507",
+    "name": "MOTOLING"
+  },
+  {
+    "id": "7105072002",
+    "district_id": "710507",
+    "name": "MOTOLING MAWALE"
+  },
+  {
+    "id": "7105072003",
+    "district_id": "710507",
+    "name": "MOTOLING I"
+  },
+  {
+    "id": "7105072004",
+    "district_id": "710507",
+    "name": "MOTOLING II"
+  },
+  {
+    "id": "7105072005",
+    "district_id": "710507",
+    "name": "PICUAN BARU"
+  },
+  {
+    "id": "7105072015",
+    "district_id": "710507",
+    "name": "LALUMPE"
+  },
+  {
+    "id": "7105072021",
+    "district_id": "710507",
+    "name": "RAANAN LAMA"
+  }
+]

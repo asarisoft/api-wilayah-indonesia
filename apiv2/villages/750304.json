@@ -1,1 +1,67 @@
-[{"id": "7503042003", "district_id": "750304", "name": "TAMBOO"}, {"id": "7503042004", "district_id": "750304", "name": "BILUNGALA"}, {"id": "7503042005", "district_id": "750304", "name": "UABANGA"}, {"id": "7503042008", "district_id": "750304", "name": "TOLOTIO"}, {"id": "7503042012", "district_id": "750304", "name": "TONGO"}, {"id": "7503042025", "district_id": "750304", "name": "BILUNGALA UTARA"}, {"id": "7503042026", "district_id": "750304", "name": "TIHU"}, {"id": "7503042027", "district_id": "750304", "name": "TUNAS JAYA"}, {"id": "7503042028", "district_id": "750304", "name": "LEMBAH HIJAU"}, {"id": "7503042029", "district_id": "750304", "name": "BATU HIJAU"}, {"id": "7503042031", "district_id": "750304", "name": "OMBULO HIJAU"}, {"id": "7503042032", "district_id": "750304", "name": "KEMIRI"}, {"id": "7503042033", "district_id": "750304", "name": "PELITA HIJAU"}]
+[
+  {
+    "id": "7503042003",
+    "district_id": "750304",
+    "name": "TAMBOO"
+  },
+  {
+    "id": "7503042004",
+    "district_id": "750304",
+    "name": "BILUNGALA"
+  },
+  {
+    "id": "7503042005",
+    "district_id": "750304",
+    "name": "UABANGA"
+  },
+  {
+    "id": "7503042008",
+    "district_id": "750304",
+    "name": "TOLOTIO"
+  },
+  {
+    "id": "7503042012",
+    "district_id": "750304",
+    "name": "TONGO"
+  },
+  {
+    "id": "7503042025",
+    "district_id": "750304",
+    "name": "BILUNGALA UTARA"
+  },
+  {
+    "id": "7503042026",
+    "district_id": "750304",
+    "name": "TIHU"
+  },
+  {
+    "id": "7503042027",
+    "district_id": "750304",
+    "name": "TUNAS JAYA"
+  },
+  {
+    "id": "7503042028",
+    "district_id": "750304",
+    "name": "LEMBAH HIJAU"
+  },
+  {
+    "id": "7503042029",
+    "district_id": "750304",
+    "name": "BATU HIJAU"
+  },
+  {
+    "id": "7503042031",
+    "district_id": "750304",
+    "name": "OMBULO HIJAU"
+  },
+  {
+    "id": "7503042032",
+    "district_id": "750304",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "7503042033",
+    "district_id": "750304",
+    "name": "PELITA HIJAU"
+  }
+]

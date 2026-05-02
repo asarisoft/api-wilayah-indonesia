@@ -1,1 +1,62 @@
-[{"id": "9304162001", "district_id": "930416", "name": "PRIMAPUN"}, {"id": "9304162002", "district_id": "930416", "name": "AWORKET"}, {"id": "9304162003", "district_id": "930416", "name": "SAMAN"}, {"id": "9304162004", "district_id": "930416", "name": "BAYUN"}, {"id": "9304162005", "district_id": "930416", "name": "SEMENDORO"}, {"id": "9304162006", "district_id": "930416", "name": "TAREO"}, {"id": "9304162007", "district_id": "930416", "name": "KAYIRIM"}, {"id": "9304162008", "district_id": "930416", "name": "SANTAMBOR"}, {"id": "9304162009", "district_id": "930416", "name": "YAPTAMBOR"}, {"id": "9304162010", "district_id": "930416", "name": "SIMSAGAR"}, {"id": "9304162011", "district_id": "930416", "name": "ITERSOK"}, {"id": "9304162012", "district_id": "930416", "name": "EMENE"}]
+[
+  {
+    "id": "9304162001",
+    "district_id": "930416",
+    "name": "PRIMAPUN"
+  },
+  {
+    "id": "9304162002",
+    "district_id": "930416",
+    "name": "AWORKET"
+  },
+  {
+    "id": "9304162003",
+    "district_id": "930416",
+    "name": "SAMAN"
+  },
+  {
+    "id": "9304162004",
+    "district_id": "930416",
+    "name": "BAYUN"
+  },
+  {
+    "id": "9304162005",
+    "district_id": "930416",
+    "name": "SEMENDORO"
+  },
+  {
+    "id": "9304162006",
+    "district_id": "930416",
+    "name": "TAREO"
+  },
+  {
+    "id": "9304162007",
+    "district_id": "930416",
+    "name": "KAYIRIM"
+  },
+  {
+    "id": "9304162008",
+    "district_id": "930416",
+    "name": "SANTAMBOR"
+  },
+  {
+    "id": "9304162009",
+    "district_id": "930416",
+    "name": "YAPTAMBOR"
+  },
+  {
+    "id": "9304162010",
+    "district_id": "930416",
+    "name": "SIMSAGAR"
+  },
+  {
+    "id": "9304162011",
+    "district_id": "930416",
+    "name": "ITERSOK"
+  },
+  {
+    "id": "9304162012",
+    "district_id": "930416",
+    "name": "EMENE"
+  }
+]

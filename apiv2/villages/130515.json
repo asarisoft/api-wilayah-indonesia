@@ -1,1 +1,22 @@
-[{"id": "1305152001", "district_id": "130515", "name": "KAYU TANAM"}, {"id": "1305152002", "district_id": "130515", "name": "GUGUAK"}, {"id": "1305152003", "district_id": "130515", "name": "ANDURIANG"}, {"id": "1305152004", "district_id": "130515", "name": "KAPALO HILALANG"}]
+[
+  {
+    "id": "1305152001",
+    "district_id": "130515",
+    "name": "KAYU TANAM"
+  },
+  {
+    "id": "1305152002",
+    "district_id": "130515",
+    "name": "GUGUAK"
+  },
+  {
+    "id": "1305152003",
+    "district_id": "130515",
+    "name": "ANDURIANG"
+  },
+  {
+    "id": "1305152004",
+    "district_id": "130515",
+    "name": "KAPALO HILALANG"
+  }
+]

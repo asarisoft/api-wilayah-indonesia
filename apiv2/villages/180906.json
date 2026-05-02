@@ -1,1 +1,57 @@
-[{"id": "1809062001", "district_id": "180906", "name": "BAWANG"}, {"id": "1809062002", "district_id": "180906", "name": "BANDING AGUNG"}, {"id": "1809062003", "district_id": "180906", "name": "BATU RAJA"}, {"id": "1809062004", "district_id": "180906", "name": "SUKAJAYA PIDADA"}, {"id": "1809062005", "district_id": "180906", "name": "RUSABA"}, {"id": "1809062006", "district_id": "180906", "name": "KOTA JAWA"}, {"id": "1809062016", "district_id": "180906", "name": "SUKARAME"}, {"id": "1809062017", "district_id": "180906", "name": "PAGAR JAYA"}, {"id": "1809062019", "district_id": "180906", "name": "PULAU LEGUNDI"}, {"id": "1809062020", "district_id": "180906", "name": "SUKA MAJU"}, {"id": "1809062021", "district_id": "180906", "name": "BANGUN REJO"}]
+[
+  {
+    "id": "1809062001",
+    "district_id": "180906",
+    "name": "BAWANG"
+  },
+  {
+    "id": "1809062002",
+    "district_id": "180906",
+    "name": "BANDING AGUNG"
+  },
+  {
+    "id": "1809062003",
+    "district_id": "180906",
+    "name": "BATU RAJA"
+  },
+  {
+    "id": "1809062004",
+    "district_id": "180906",
+    "name": "SUKAJAYA PIDADA"
+  },
+  {
+    "id": "1809062005",
+    "district_id": "180906",
+    "name": "RUSABA"
+  },
+  {
+    "id": "1809062006",
+    "district_id": "180906",
+    "name": "KOTA JAWA"
+  },
+  {
+    "id": "1809062016",
+    "district_id": "180906",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "1809062017",
+    "district_id": "180906",
+    "name": "PAGAR JAYA"
+  },
+  {
+    "id": "1809062019",
+    "district_id": "180906",
+    "name": "PULAU LEGUNDI"
+  },
+  {
+    "id": "1809062020",
+    "district_id": "180906",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1809062021",
+    "district_id": "180906",
+    "name": "BANGUN REJO"
+  }
+]

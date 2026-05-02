@@ -1,1 +1,67 @@
-[{"id": "3305132001", "district_id": "330513", "name": "LOGEDE"}, {"id": "3305132002", "district_id": "330513", "name": "KUWAYUHAN"}, {"id": "3305132003", "district_id": "330513", "name": "KEDAWUNG"}, {"id": "3305132004", "district_id": "330513", "name": "PEJAGOAN"}, {"id": "3305132005", "district_id": "330513", "name": "KEBULUSAN"}, {"id": "3305132006", "district_id": "330513", "name": "ADITIRTO"}, {"id": "3305132007", "district_id": "330513", "name": "KARANGPOH"}, {"id": "3305132008", "district_id": "330513", "name": "JEMUR"}, {"id": "3305132009", "district_id": "330513", "name": "PRIGI"}, {"id": "3305132010", "district_id": "330513", "name": "KEBAGORAN"}, {"id": "3305132011", "district_id": "330513", "name": "PENGARINGAN"}, {"id": "3305132012", "district_id": "330513", "name": "PENIRON"}, {"id": "3305132013", "district_id": "330513", "name": "WATULAWANG"}]
+[
+  {
+    "id": "3305132001",
+    "district_id": "330513",
+    "name": "LOGEDE"
+  },
+  {
+    "id": "3305132002",
+    "district_id": "330513",
+    "name": "KUWAYUHAN"
+  },
+  {
+    "id": "3305132003",
+    "district_id": "330513",
+    "name": "KEDAWUNG"
+  },
+  {
+    "id": "3305132004",
+    "district_id": "330513",
+    "name": "PEJAGOAN"
+  },
+  {
+    "id": "3305132005",
+    "district_id": "330513",
+    "name": "KEBULUSAN"
+  },
+  {
+    "id": "3305132006",
+    "district_id": "330513",
+    "name": "ADITIRTO"
+  },
+  {
+    "id": "3305132007",
+    "district_id": "330513",
+    "name": "KARANGPOH"
+  },
+  {
+    "id": "3305132008",
+    "district_id": "330513",
+    "name": "JEMUR"
+  },
+  {
+    "id": "3305132009",
+    "district_id": "330513",
+    "name": "PRIGI"
+  },
+  {
+    "id": "3305132010",
+    "district_id": "330513",
+    "name": "KEBAGORAN"
+  },
+  {
+    "id": "3305132011",
+    "district_id": "330513",
+    "name": "PENGARINGAN"
+  },
+  {
+    "id": "3305132012",
+    "district_id": "330513",
+    "name": "PENIRON"
+  },
+  {
+    "id": "3305132013",
+    "district_id": "330513",
+    "name": "WATULAWANG"
+  }
+]

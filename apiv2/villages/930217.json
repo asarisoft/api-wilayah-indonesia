@@ -1,1 +1,27 @@
-[{"id": "9302172001", "district_id": "930217", "name": "NINATI"}, {"id": "9302172003", "district_id": "930217", "name": "KAWAKTEMBUT"}, {"id": "9302172004", "district_id": "930217", "name": "TEMBUTKA"}, {"id": "9302172005", "district_id": "930217", "name": "TIMKA"}, {"id": "9302172006", "district_id": "930217", "name": "YETETKO"}]
+[
+  {
+    "id": "9302172001",
+    "district_id": "930217",
+    "name": "NINATI"
+  },
+  {
+    "id": "9302172003",
+    "district_id": "930217",
+    "name": "KAWAKTEMBUT"
+  },
+  {
+    "id": "9302172004",
+    "district_id": "930217",
+    "name": "TEMBUTKA"
+  },
+  {
+    "id": "9302172005",
+    "district_id": "930217",
+    "name": "TIMKA"
+  },
+  {
+    "id": "9302172006",
+    "district_id": "930217",
+    "name": "YETETKO"
+  }
+]

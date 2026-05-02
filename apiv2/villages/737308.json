@@ -1,1 +1,22 @@
-[{"id": "7373081001", "district_id": "737308", "name": "MUNGKAJANG"}, {"id": "7373081002", "district_id": "737308", "name": "MURANTE"}, {"id": "7373081003", "district_id": "737308", "name": "LATUPPA"}, {"id": "7373081004", "district_id": "737308", "name": "KAMBO"}]
+[
+  {
+    "id": "7373081001",
+    "district_id": "737308",
+    "name": "MUNGKAJANG"
+  },
+  {
+    "id": "7373081002",
+    "district_id": "737308",
+    "name": "MURANTE"
+  },
+  {
+    "id": "7373081003",
+    "district_id": "737308",
+    "name": "LATUPPA"
+  },
+  {
+    "id": "7373081004",
+    "district_id": "737308",
+    "name": "KAMBO"
+  }
+]

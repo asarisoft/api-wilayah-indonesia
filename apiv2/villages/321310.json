@@ -1,1 +1,37 @@
-[{"id": "3213102005", "district_id": "321310", "name": "PUSAKARATU"}, {"id": "3213102006", "district_id": "321310", "name": "GEMPOL"}, {"id": "3213102007", "district_id": "321310", "name": "KALENTAMBO"}, {"id": "3213102008", "district_id": "321310", "name": "PATIMBAN"}, {"id": "3213102012", "district_id": "321310", "name": "RANCADAKA"}, {"id": "3213102014", "district_id": "321310", "name": "KOTASARI"}, {"id": "3213102015", "district_id": "321310", "name": "MUNDUSARI"}]
+[
+  {
+    "id": "3213102005",
+    "district_id": "321310",
+    "name": "PUSAKARATU"
+  },
+  {
+    "id": "3213102006",
+    "district_id": "321310",
+    "name": "GEMPOL"
+  },
+  {
+    "id": "3213102007",
+    "district_id": "321310",
+    "name": "KALENTAMBO"
+  },
+  {
+    "id": "3213102008",
+    "district_id": "321310",
+    "name": "PATIMBAN"
+  },
+  {
+    "id": "3213102012",
+    "district_id": "321310",
+    "name": "RANCADAKA"
+  },
+  {
+    "id": "3213102014",
+    "district_id": "321310",
+    "name": "KOTASARI"
+  },
+  {
+    "id": "3213102015",
+    "district_id": "321310",
+    "name": "MUNDUSARI"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3505091009", "district_id": "350509", "name": "NGLEGOK"}, {"id": "3505092001", "district_id": "350509", "name": "SUMBERASRI"}, {"id": "3505092002", "district_id": "350509", "name": "KEDAWUNG"}, {"id": "3505092003", "district_id": "350509", "name": "NGORAN"}, {"id": "3505092004", "district_id": "350509", "name": "DAYU"}, {"id": "3505092005", "district_id": "350509", "name": "BANGSRI"}, {"id": "3505092006", "district_id": "350509", "name": "KEMLOKO"}, {"id": "3505092007", "district_id": "350509", "name": "PENATARAN"}, {"id": "3505092008", "district_id": "350509", "name": "KRENCENG"}, {"id": "3505092010", "district_id": "350509", "name": "JIWUT"}, {"id": "3505092011", "district_id": "350509", "name": "MODANGAN"}]
+[
+  {
+    "id": "3505091009",
+    "district_id": "350509",
+    "name": "NGLEGOK"
+  },
+  {
+    "id": "3505092001",
+    "district_id": "350509",
+    "name": "SUMBERASRI"
+  },
+  {
+    "id": "3505092002",
+    "district_id": "350509",
+    "name": "KEDAWUNG"
+  },
+  {
+    "id": "3505092003",
+    "district_id": "350509",
+    "name": "NGORAN"
+  },
+  {
+    "id": "3505092004",
+    "district_id": "350509",
+    "name": "DAYU"
+  },
+  {
+    "id": "3505092005",
+    "district_id": "350509",
+    "name": "BANGSRI"
+  },
+  {
+    "id": "3505092006",
+    "district_id": "350509",
+    "name": "KEMLOKO"
+  },
+  {
+    "id": "3505092007",
+    "district_id": "350509",
+    "name": "PENATARAN"
+  },
+  {
+    "id": "3505092008",
+    "district_id": "350509",
+    "name": "KRENCENG"
+  },
+  {
+    "id": "3505092010",
+    "district_id": "350509",
+    "name": "JIWUT"
+  },
+  {
+    "id": "3505092011",
+    "district_id": "350509",
+    "name": "MODANGAN"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "1213222001", "district_id": "121322", "name": "SINUNUKAN I"}, {"id": "1213222002", "district_id": "121322", "name": "SINUNUKAN II"}, {"id": "1213222003", "district_id": "121322", "name": "SINUNUKAN III"}, {"id": "1213222004", "district_id": "121322", "name": "SINUNUKAN IV"}, {"id": "1213222005", "district_id": "121322", "name": "BINTUNGAN BEJANGKAR BARU"}, {"id": "1213222006", "district_id": "121322", "name": "BANJAR AUR UTARA"}, {"id": "1213222007", "district_id": "121322", "name": "KAMPUNG KAPAS II"}, {"id": "1213222008", "district_id": "121322", "name": "AIRAPA"}, {"id": "1213222009", "district_id": "121322", "name": "SIDO MAKMUR"}, {"id": "1213222010", "district_id": "121322", "name": "WIDO DAREN"}, {"id": "1213222011", "district_id": "121322", "name": "WONO SARI"}, {"id": "1213222012", "district_id": "121322", "name": "SUKA DAMAI"}, {"id": "1213222013", "district_id": "121322", "name": "PASIR PUTIH"}, {"id": "1213222014", "district_id": "121322", "name": "SINUNUKAN I CENTRAL"}]
+[
+  {
+    "id": "1213222001",
+    "district_id": "121322",
+    "name": "SINUNUKAN I"
+  },
+  {
+    "id": "1213222002",
+    "district_id": "121322",
+    "name": "SINUNUKAN II"
+  },
+  {
+    "id": "1213222003",
+    "district_id": "121322",
+    "name": "SINUNUKAN III"
+  },
+  {
+    "id": "1213222004",
+    "district_id": "121322",
+    "name": "SINUNUKAN IV"
+  },
+  {
+    "id": "1213222005",
+    "district_id": "121322",
+    "name": "BINTUNGAN BEJANGKAR BARU"
+  },
+  {
+    "id": "1213222006",
+    "district_id": "121322",
+    "name": "BANJAR AUR UTARA"
+  },
+  {
+    "id": "1213222007",
+    "district_id": "121322",
+    "name": "KAMPUNG KAPAS II"
+  },
+  {
+    "id": "1213222008",
+    "district_id": "121322",
+    "name": "AIRAPA"
+  },
+  {
+    "id": "1213222009",
+    "district_id": "121322",
+    "name": "SIDO MAKMUR"
+  },
+  {
+    "id": "1213222010",
+    "district_id": "121322",
+    "name": "WIDO DAREN"
+  },
+  {
+    "id": "1213222011",
+    "district_id": "121322",
+    "name": "WONO SARI"
+  },
+  {
+    "id": "1213222012",
+    "district_id": "121322",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "1213222013",
+    "district_id": "121322",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "1213222014",
+    "district_id": "121322",
+    "name": "SINUNUKAN I CENTRAL"
+  }
+]

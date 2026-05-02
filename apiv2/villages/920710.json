@@ -1,1 +1,37 @@
-[{"id": "9207102001", "district_id": "920710", "name": "YENDE"}, {"id": "9207102002", "district_id": "920710", "name": "SYABES"}, {"id": "9207102003", "district_id": "920710", "name": "MENARBU"}, {"id": "9207102004", "district_id": "920710", "name": "NIAB"}, {"id": "9207102005", "district_id": "920710", "name": "INDAY"}, {"id": "9207102006", "district_id": "920710", "name": "SARIAY"}, {"id": "9207102007", "district_id": "920710", "name": "MENA"}]
+[
+  {
+    "id": "9207102001",
+    "district_id": "920710",
+    "name": "YENDE"
+  },
+  {
+    "id": "9207102002",
+    "district_id": "920710",
+    "name": "SYABES"
+  },
+  {
+    "id": "9207102003",
+    "district_id": "920710",
+    "name": "MENARBU"
+  },
+  {
+    "id": "9207102004",
+    "district_id": "920710",
+    "name": "NIAB"
+  },
+  {
+    "id": "9207102005",
+    "district_id": "920710",
+    "name": "INDAY"
+  },
+  {
+    "id": "9207102006",
+    "district_id": "920710",
+    "name": "SARIAY"
+  },
+  {
+    "id": "9207102007",
+    "district_id": "920710",
+    "name": "MENA"
+  }
+]

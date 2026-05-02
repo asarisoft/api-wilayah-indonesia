@@ -1,1 +1,47 @@
-[{"id": "331901", "regency_id": "3319", "name": "KALIWUNGU"}, {"id": "331902", "regency_id": "3319", "name": "KOTA KUDUS"}, {"id": "331903", "regency_id": "3319", "name": "JATI"}, {"id": "331904", "regency_id": "3319", "name": "UNDAAN"}, {"id": "331905", "regency_id": "3319", "name": "MEJOBO"}, {"id": "331906", "regency_id": "3319", "name": "JEKULO"}, {"id": "331907", "regency_id": "3319", "name": "BAE"}, {"id": "331908", "regency_id": "3319", "name": "GEBOG"}, {"id": "331909", "regency_id": "3319", "name": "DAWE"}]
+[
+  {
+    "id": "331901",
+    "regency_id": "3319",
+    "name": "KALIWUNGU"
+  },
+  {
+    "id": "331902",
+    "regency_id": "3319",
+    "name": "KOTA KUDUS"
+  },
+  {
+    "id": "331903",
+    "regency_id": "3319",
+    "name": "JATI"
+  },
+  {
+    "id": "331904",
+    "regency_id": "3319",
+    "name": "UNDAAN"
+  },
+  {
+    "id": "331905",
+    "regency_id": "3319",
+    "name": "MEJOBO"
+  },
+  {
+    "id": "331906",
+    "regency_id": "3319",
+    "name": "JEKULO"
+  },
+  {
+    "id": "331907",
+    "regency_id": "3319",
+    "name": "BAE"
+  },
+  {
+    "id": "331908",
+    "regency_id": "3319",
+    "name": "GEBOG"
+  },
+  {
+    "id": "331909",
+    "regency_id": "3319",
+    "name": "DAWE"
+  }
+]

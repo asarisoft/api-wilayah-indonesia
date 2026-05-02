@@ -1,1 +1,42 @@
-[{"id": "9212022001", "district_id": "921202", "name": "SIBIOGUD"}, {"id": "9212022002", "district_id": "921202", "name": "KROBUT"}, {"id": "9212022003", "district_id": "921202", "name": "TUBYAM"}, {"id": "9212022004", "district_id": "921202", "name": "SAKUMI"}, {"id": "9212022005", "district_id": "921202", "name": "TOMBROK"}, {"id": "9212022006", "district_id": "921202", "name": "SISRANG"}, {"id": "9212022007", "district_id": "921202", "name": "NGISROW"}, {"id": "9212022008", "district_id": "921202", "name": "ITKAU"}]
+[
+  {
+    "id": "9212022001",
+    "district_id": "921202",
+    "name": "SIBIOGUD"
+  },
+  {
+    "id": "9212022002",
+    "district_id": "921202",
+    "name": "KROBUT"
+  },
+  {
+    "id": "9212022003",
+    "district_id": "921202",
+    "name": "TUBYAM"
+  },
+  {
+    "id": "9212022004",
+    "district_id": "921202",
+    "name": "SAKUMI"
+  },
+  {
+    "id": "9212022005",
+    "district_id": "921202",
+    "name": "TOMBROK"
+  },
+  {
+    "id": "9212022006",
+    "district_id": "921202",
+    "name": "SISRANG"
+  },
+  {
+    "id": "9212022007",
+    "district_id": "921202",
+    "name": "NGISROW"
+  },
+  {
+    "id": "9212022008",
+    "district_id": "921202",
+    "name": "ITKAU"
+  }
+]

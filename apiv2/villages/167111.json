@@ -1,1 +1,32 @@
-[{"id": "1671111001", "district_id": "167111", "name": "SEMBILAN-BELAS ILIR"}, {"id": "1671111002", "district_id": "167111", "name": "DUA-PULUH-DUA ILIR"}, {"id": "1671111003", "district_id": "167111", "name": "DUA-PULUH-TIGA ILIR"}, {"id": "1671111004", "district_id": "167111", "name": "DUA-PULUH-EMPAT ILIR"}, {"id": "1671111005", "district_id": "167111", "name": "DUA-PULUH-ENAM ILIR"}, {"id": "1671111006", "district_id": "167111", "name": "TALANGSEMUT"}]
+[
+  {
+    "id": "1671111001",
+    "district_id": "167111",
+    "name": "SEMBILAN-BELAS ILIR"
+  },
+  {
+    "id": "1671111002",
+    "district_id": "167111",
+    "name": "DUA-PULUH-DUA ILIR"
+  },
+  {
+    "id": "1671111003",
+    "district_id": "167111",
+    "name": "DUA-PULUH-TIGA ILIR"
+  },
+  {
+    "id": "1671111004",
+    "district_id": "167111",
+    "name": "DUA-PULUH-EMPAT ILIR"
+  },
+  {
+    "id": "1671111005",
+    "district_id": "167111",
+    "name": "DUA-PULUH-ENAM ILIR"
+  },
+  {
+    "id": "1671111006",
+    "district_id": "167111",
+    "name": "TALANGSEMUT"
+  }
+]

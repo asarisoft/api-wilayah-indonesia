@@ -1,1 +1,67 @@
-[{"id": "5202101001", "district_id": "520210", "name": "GERANTUNG"}, {"id": "5202101002", "district_id": "520210", "name": "JONTLAK"}, {"id": "5202101003", "district_id": "520210", "name": "SASAKE"}, {"id": "5202102004", "district_id": "520210", "name": "JURANG JALER "}, {"id": "5202102005", "district_id": "520210", "name": "BERAIM"}, {"id": "5202102006", "district_id": "520210", "name": "BATUNYALA"}, {"id": "5202102007", "district_id": "520210", "name": "LAJUT"}, {"id": "5202102008", "district_id": "520210", "name": "PENGADANG"}, {"id": "5202102009", "district_id": "520210", "name": "KELEBUH"}, {"id": "5202102010", "district_id": "520210", "name": "PEJANGGIK"}, {"id": "5202102011", "district_id": "520210", "name": "DAKUNG"}, {"id": "5202102012", "district_id": "520210", "name": "PRAI MEKE"}, {"id": "5202102013", "district_id": "520210", "name": "LELONG"}]
+[
+  {
+    "id": "5202101001",
+    "district_id": "520210",
+    "name": "GERANTUNG"
+  },
+  {
+    "id": "5202101002",
+    "district_id": "520210",
+    "name": "JONTLAK"
+  },
+  {
+    "id": "5202101003",
+    "district_id": "520210",
+    "name": "SASAKE"
+  },
+  {
+    "id": "5202102004",
+    "district_id": "520210",
+    "name": "JURANG JALER "
+  },
+  {
+    "id": "5202102005",
+    "district_id": "520210",
+    "name": "BERAIM"
+  },
+  {
+    "id": "5202102006",
+    "district_id": "520210",
+    "name": "BATUNYALA"
+  },
+  {
+    "id": "5202102007",
+    "district_id": "520210",
+    "name": "LAJUT"
+  },
+  {
+    "id": "5202102008",
+    "district_id": "520210",
+    "name": "PENGADANG"
+  },
+  {
+    "id": "5202102009",
+    "district_id": "520210",
+    "name": "KELEBUH"
+  },
+  {
+    "id": "5202102010",
+    "district_id": "520210",
+    "name": "PEJANGGIK"
+  },
+  {
+    "id": "5202102011",
+    "district_id": "520210",
+    "name": "DAKUNG"
+  },
+  {
+    "id": "5202102012",
+    "district_id": "520210",
+    "name": "PRAI MEKE"
+  },
+  {
+    "id": "5202102013",
+    "district_id": "520210",
+    "name": "LELONG"
+  }
+]

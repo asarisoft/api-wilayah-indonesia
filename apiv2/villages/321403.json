@@ -1,1 +1,52 @@
-[{"id": "3214032001", "district_id": "321403", "name": "CIKAOBANDUNG"}, {"id": "3214032002", "district_id": "321403", "name": "JATIMEKAR"}, {"id": "3214032003", "district_id": "321403", "name": "JATILUHUR"}, {"id": "3214032004", "district_id": "321403", "name": "CILEGONG"}, {"id": "3214032005", "district_id": "321403", "name": "KEMBANGKUNING"}, {"id": "3214032006", "district_id": "321403", "name": "CIBINONG"}, {"id": "3214032007", "district_id": "321403", "name": "BUNDER"}, {"id": "3214032008", "district_id": "321403", "name": "MEKARGALIH"}, {"id": "3214032009", "district_id": "321403", "name": "CISALADA"}, {"id": "3214032010", "district_id": "321403", "name": "PARAKANLIMA"}]
+[
+  {
+    "id": "3214032001",
+    "district_id": "321403",
+    "name": "CIKAOBANDUNG"
+  },
+  {
+    "id": "3214032002",
+    "district_id": "321403",
+    "name": "JATIMEKAR"
+  },
+  {
+    "id": "3214032003",
+    "district_id": "321403",
+    "name": "JATILUHUR"
+  },
+  {
+    "id": "3214032004",
+    "district_id": "321403",
+    "name": "CILEGONG"
+  },
+  {
+    "id": "3214032005",
+    "district_id": "321403",
+    "name": "KEMBANGKUNING"
+  },
+  {
+    "id": "3214032006",
+    "district_id": "321403",
+    "name": "CIBINONG"
+  },
+  {
+    "id": "3214032007",
+    "district_id": "321403",
+    "name": "BUNDER"
+  },
+  {
+    "id": "3214032008",
+    "district_id": "321403",
+    "name": "MEKARGALIH"
+  },
+  {
+    "id": "3214032009",
+    "district_id": "321403",
+    "name": "CISALADA"
+  },
+  {
+    "id": "3214032010",
+    "district_id": "321403",
+    "name": "PARAKANLIMA"
+  }
+]

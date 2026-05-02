@@ -1,1 +1,57 @@
-[{"id": "1810062001", "district_id": "181006", "name": "BANYUMAS"}, {"id": "1810062002", "district_id": "181006", "name": "BANYUWANGI"}, {"id": "1810062003", "district_id": "181006", "name": "SUKAMULYA"}, {"id": "1810062004", "district_id": "181006", "name": "SRIWUNGU"}, {"id": "1810062005", "district_id": "181006", "name": "BANJAREJO"}, {"id": "1810062006", "district_id": "181006", "name": "WAYA KRUI"}, {"id": "1810062007", "district_id": "181006", "name": "SRI RAHAYU"}, {"id": "1810062008", "district_id": "181006", "name": "NUSA WUNGU"}, {"id": "1810062009", "district_id": "181006", "name": "SINAR MULYA"}, {"id": "1810062010", "district_id": "181006", "name": "BANYU URIP"}, {"id": "1810062011", "district_id": "181006", "name": "MULYO REJO"}]
+[
+  {
+    "id": "1810062001",
+    "district_id": "181006",
+    "name": "BANYUMAS"
+  },
+  {
+    "id": "1810062002",
+    "district_id": "181006",
+    "name": "BANYUWANGI"
+  },
+  {
+    "id": "1810062003",
+    "district_id": "181006",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "1810062004",
+    "district_id": "181006",
+    "name": "SRIWUNGU"
+  },
+  {
+    "id": "1810062005",
+    "district_id": "181006",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "1810062006",
+    "district_id": "181006",
+    "name": "WAYA KRUI"
+  },
+  {
+    "id": "1810062007",
+    "district_id": "181006",
+    "name": "SRI RAHAYU"
+  },
+  {
+    "id": "1810062008",
+    "district_id": "181006",
+    "name": "NUSA WUNGU"
+  },
+  {
+    "id": "1810062009",
+    "district_id": "181006",
+    "name": "SINAR MULYA"
+  },
+  {
+    "id": "1810062010",
+    "district_id": "181006",
+    "name": "BANYU URIP"
+  },
+  {
+    "id": "1810062011",
+    "district_id": "181006",
+    "name": "MULYO REJO"
+  }
+]

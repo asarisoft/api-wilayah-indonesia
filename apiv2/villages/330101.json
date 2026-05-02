@@ -1,1 +1,57 @@
-[{"id": "3301012001", "district_id": "330101", "name": "TAMBAKREJA"}, {"id": "3301012002", "district_id": "330101", "name": "BUMIREJA"}, {"id": "3301012003", "district_id": "330101", "name": "CIKLAPA"}, {"id": "3301012004", "district_id": "330101", "name": "KEDUNGREJA"}, {"id": "3301012005", "district_id": "330101", "name": "TAMBAKSARI"}, {"id": "3301012006", "district_id": "330101", "name": "REJAMULYA"}, {"id": "3301012007", "district_id": "330101", "name": "SIDANEGARA"}, {"id": "3301012008", "district_id": "330101", "name": "KALIWUNGU"}, {"id": "3301012009", "district_id": "330101", "name": "JATISARI"}, {"id": "3301012010", "district_id": "330101", "name": "BANGUNREJA"}, {"id": "3301012011", "district_id": "330101", "name": "BOJONGSARI"}]
+[
+  {
+    "id": "3301012001",
+    "district_id": "330101",
+    "name": "TAMBAKREJA"
+  },
+  {
+    "id": "3301012002",
+    "district_id": "330101",
+    "name": "BUMIREJA"
+  },
+  {
+    "id": "3301012003",
+    "district_id": "330101",
+    "name": "CIKLAPA"
+  },
+  {
+    "id": "3301012004",
+    "district_id": "330101",
+    "name": "KEDUNGREJA"
+  },
+  {
+    "id": "3301012005",
+    "district_id": "330101",
+    "name": "TAMBAKSARI"
+  },
+  {
+    "id": "3301012006",
+    "district_id": "330101",
+    "name": "REJAMULYA"
+  },
+  {
+    "id": "3301012007",
+    "district_id": "330101",
+    "name": "SIDANEGARA"
+  },
+  {
+    "id": "3301012008",
+    "district_id": "330101",
+    "name": "KALIWUNGU"
+  },
+  {
+    "id": "3301012009",
+    "district_id": "330101",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3301012010",
+    "district_id": "330101",
+    "name": "BANGUNREJA"
+  },
+  {
+    "id": "3301012011",
+    "district_id": "330101",
+    "name": "BOJONGSARI"
+  }
+]

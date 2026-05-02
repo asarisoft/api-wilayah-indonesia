@@ -1,1 +1,17 @@
-[{"id": "1305042002", "district_id": "130504", "name": "SICINCIN"}, {"id": "1305042003", "district_id": "130504", "name": "LUBUK PANDAN"}, {"id": "1305042004", "district_id": "130504", "name": "SUNGAI ASAM"}]
+[
+  {
+    "id": "1305042002",
+    "district_id": "130504",
+    "name": "SICINCIN"
+  },
+  {
+    "id": "1305042003",
+    "district_id": "130504",
+    "name": "LUBUK PANDAN"
+  },
+  {
+    "id": "1305042004",
+    "district_id": "130504",
+    "name": "SUNGAI ASAM"
+  }
+]

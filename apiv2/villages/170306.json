@@ -1,1 +1,92 @@
-[{"id": "1703061009", "district_id": "170306", "name": "LUBUK DURIAN"}, {"id": "1703062001", "district_id": "170306", "name": "TALANG JAMBU"}, {"id": "1703062002", "district_id": "170306", "name": "TEBAT PACUR"}, {"id": "1703062003", "district_id": "170306", "name": "TALANG CURUP"}, {"id": "1703062004", "district_id": "170306", "name": "BANYU MAS LAMA"}, {"id": "1703062005", "district_id": "170306", "name": "SALAM HARJO"}, {"id": "1703062006", "district_id": "170306", "name": "JOGJA BARU"}, {"id": "1703062007", "district_id": "170306", "name": "TALANG PASAK"}, {"id": "1703062008", "district_id": "170306", "name": "PERBO"}, {"id": "1703062010", "district_id": "170306", "name": "LUBUK JALE"}, {"id": "1703062011", "district_id": "170306", "name": "SIMPANG KETENONG"}, {"id": "1703062012", "district_id": "170306", "name": "AUR GADING"}, {"id": "1703062024", "district_id": "170306", "name": "KEDU BARU"}, {"id": "1703062026", "district_id": "170306", "name": "SERUMBUNG"}, {"id": "1703062027", "district_id": "170306", "name": "MAGELANG"}, {"id": "1703062028", "district_id": "170306", "name": "TANJUNG PUTUS"}, {"id": "1703062029", "district_id": "170306", "name": "PENYANGKAK"}, {"id": "1703062031", "district_id": "170306", "name": "BANYU MAS BARU"}]
+[
+  {
+    "id": "1703061009",
+    "district_id": "170306",
+    "name": "LUBUK DURIAN"
+  },
+  {
+    "id": "1703062001",
+    "district_id": "170306",
+    "name": "TALANG JAMBU"
+  },
+  {
+    "id": "1703062002",
+    "district_id": "170306",
+    "name": "TEBAT PACUR"
+  },
+  {
+    "id": "1703062003",
+    "district_id": "170306",
+    "name": "TALANG CURUP"
+  },
+  {
+    "id": "1703062004",
+    "district_id": "170306",
+    "name": "BANYU MAS LAMA"
+  },
+  {
+    "id": "1703062005",
+    "district_id": "170306",
+    "name": "SALAM HARJO"
+  },
+  {
+    "id": "1703062006",
+    "district_id": "170306",
+    "name": "JOGJA BARU"
+  },
+  {
+    "id": "1703062007",
+    "district_id": "170306",
+    "name": "TALANG PASAK"
+  },
+  {
+    "id": "1703062008",
+    "district_id": "170306",
+    "name": "PERBO"
+  },
+  {
+    "id": "1703062010",
+    "district_id": "170306",
+    "name": "LUBUK JALE"
+  },
+  {
+    "id": "1703062011",
+    "district_id": "170306",
+    "name": "SIMPANG KETENONG"
+  },
+  {
+    "id": "1703062012",
+    "district_id": "170306",
+    "name": "AUR GADING"
+  },
+  {
+    "id": "1703062024",
+    "district_id": "170306",
+    "name": "KEDU BARU"
+  },
+  {
+    "id": "1703062026",
+    "district_id": "170306",
+    "name": "SERUMBUNG"
+  },
+  {
+    "id": "1703062027",
+    "district_id": "170306",
+    "name": "MAGELANG"
+  },
+  {
+    "id": "1703062028",
+    "district_id": "170306",
+    "name": "TANJUNG PUTUS"
+  },
+  {
+    "id": "1703062029",
+    "district_id": "170306",
+    "name": "PENYANGKAK"
+  },
+  {
+    "id": "1703062031",
+    "district_id": "170306",
+    "name": "BANYU MAS BARU"
+  }
+]

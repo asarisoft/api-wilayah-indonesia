@@ -1,1 +1,37 @@
-[{"id": "3511162001", "district_id": "351116", "name": "BANDILAN"}, {"id": "3511162002", "district_id": "351116", "name": "SEMPOL"}, {"id": "3511162003", "district_id": "351116", "name": "TARUM"}, {"id": "3511162005", "district_id": "351116", "name": "PRAJEKAN LOR"}, {"id": "3511162006", "district_id": "351116", "name": "PRAJEKAN KIDUL"}, {"id": "3511162007", "district_id": "351116", "name": "CANGKRING"}, {"id": "3511162008", "district_id": "351116", "name": "WALIDONO"}]
+[
+  {
+    "id": "3511162001",
+    "district_id": "351116",
+    "name": "BANDILAN"
+  },
+  {
+    "id": "3511162002",
+    "district_id": "351116",
+    "name": "SEMPOL"
+  },
+  {
+    "id": "3511162003",
+    "district_id": "351116",
+    "name": "TARUM"
+  },
+  {
+    "id": "3511162005",
+    "district_id": "351116",
+    "name": "PRAJEKAN LOR"
+  },
+  {
+    "id": "3511162006",
+    "district_id": "351116",
+    "name": "PRAJEKAN KIDUL"
+  },
+  {
+    "id": "3511162007",
+    "district_id": "351116",
+    "name": "CANGKRING"
+  },
+  {
+    "id": "3511162008",
+    "district_id": "351116",
+    "name": "WALIDONO"
+  }
+]

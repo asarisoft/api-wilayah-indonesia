@@ -1,1 +1,152 @@
-[{"id": "1207032001", "district_id": "120703", "name": "BANDAR BARU"}, {"id": "1207032002", "district_id": "120703", "name": "BATU LAYANG"}, {"id": "1207032003", "district_id": "120703", "name": "BATU MBELIN"}, {"id": "1207032004", "district_id": "120703", "name": "BETIMUS MBARU"}, {"id": "1207032005", "district_id": "120703", "name": "BENGKURUNG"}, {"id": "1207032006", "district_id": "120703", "name": "BINGKAWAN"}, {"id": "1207032007", "district_id": "120703", "name": "BUAH NABAR"}, {"id": "1207032008", "district_id": "120703", "name": "BUKUM"}, {"id": "1207032009", "district_id": "120703", "name": "BULUH AWAR"}, {"id": "1207032010", "district_id": "120703", "name": "CINTA RAKYAT"}, {"id": "1207032011", "district_id": "120703", "name": "DURIN SERUGUN"}, {"id": "1207032012", "district_id": "120703", "name": "KETANGKUHEN"}, {"id": "1207032013", "district_id": "120703", "name": "KUALA"}, {"id": "1207032014", "district_id": "120703", "name": "MARTELU"}, {"id": "1207032015", "district_id": "120703", "name": "NEGERI GUGUNG"}, {"id": "1207032016", "district_id": "120703", "name": "PUANGAJA"}, {"id": "1207032017", "district_id": "120703", "name": "RUMAH KINANGKUNG SP"}, {"id": "1207032018", "district_id": "120703", "name": "RAMBUNG BARU"}, {"id": "1207032019", "district_id": "120703", "name": "RUMAH PIL PIL"}, {"id": "1207032020", "district_id": "120703", "name": "RUMAH SUMBUL"}, {"id": "1207032021", "district_id": "120703", "name": "SALA BULAN"}, {"id": "1207032022", "district_id": "120703", "name": "SAYUM SABAH"}, {"id": "1207032023", "district_id": "120703", "name": "SEMBAHE"}, {"id": "1207032024", "district_id": "120703", "name": "SIBOLANGIT"}, {"id": "1207032025", "district_id": "120703", "name": "SIKEBEN"}, {"id": "1207032026", "district_id": "120703", "name": "SUKA MAJU"}, {"id": "1207032027", "district_id": "120703", "name": "SUKA MAKMUR"}, {"id": "1207032028", "district_id": "120703", "name": "TAMBUNEN"}, {"id": "1207032029", "district_id": "120703", "name": "TANJUNG BERINGIN"}, {"id": "1207032030", "district_id": "120703", "name": "UJUNG DELENG"}]
+[
+  {
+    "id": "1207032001",
+    "district_id": "120703",
+    "name": "BANDAR BARU"
+  },
+  {
+    "id": "1207032002",
+    "district_id": "120703",
+    "name": "BATU LAYANG"
+  },
+  {
+    "id": "1207032003",
+    "district_id": "120703",
+    "name": "BATU MBELIN"
+  },
+  {
+    "id": "1207032004",
+    "district_id": "120703",
+    "name": "BETIMUS MBARU"
+  },
+  {
+    "id": "1207032005",
+    "district_id": "120703",
+    "name": "BENGKURUNG"
+  },
+  {
+    "id": "1207032006",
+    "district_id": "120703",
+    "name": "BINGKAWAN"
+  },
+  {
+    "id": "1207032007",
+    "district_id": "120703",
+    "name": "BUAH NABAR"
+  },
+  {
+    "id": "1207032008",
+    "district_id": "120703",
+    "name": "BUKUM"
+  },
+  {
+    "id": "1207032009",
+    "district_id": "120703",
+    "name": "BULUH AWAR"
+  },
+  {
+    "id": "1207032010",
+    "district_id": "120703",
+    "name": "CINTA RAKYAT"
+  },
+  {
+    "id": "1207032011",
+    "district_id": "120703",
+    "name": "DURIN SERUGUN"
+  },
+  {
+    "id": "1207032012",
+    "district_id": "120703",
+    "name": "KETANGKUHEN"
+  },
+  {
+    "id": "1207032013",
+    "district_id": "120703",
+    "name": "KUALA"
+  },
+  {
+    "id": "1207032014",
+    "district_id": "120703",
+    "name": "MARTELU"
+  },
+  {
+    "id": "1207032015",
+    "district_id": "120703",
+    "name": "NEGERI GUGUNG"
+  },
+  {
+    "id": "1207032016",
+    "district_id": "120703",
+    "name": "PUANGAJA"
+  },
+  {
+    "id": "1207032017",
+    "district_id": "120703",
+    "name": "RUMAH KINANGKUNG SP"
+  },
+  {
+    "id": "1207032018",
+    "district_id": "120703",
+    "name": "RAMBUNG BARU"
+  },
+  {
+    "id": "1207032019",
+    "district_id": "120703",
+    "name": "RUMAH PIL PIL"
+  },
+  {
+    "id": "1207032020",
+    "district_id": "120703",
+    "name": "RUMAH SUMBUL"
+  },
+  {
+    "id": "1207032021",
+    "district_id": "120703",
+    "name": "SALA BULAN"
+  },
+  {
+    "id": "1207032022",
+    "district_id": "120703",
+    "name": "SAYUM SABAH"
+  },
+  {
+    "id": "1207032023",
+    "district_id": "120703",
+    "name": "SEMBAHE"
+  },
+  {
+    "id": "1207032024",
+    "district_id": "120703",
+    "name": "SIBOLANGIT"
+  },
+  {
+    "id": "1207032025",
+    "district_id": "120703",
+    "name": "SIKEBEN"
+  },
+  {
+    "id": "1207032026",
+    "district_id": "120703",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1207032027",
+    "district_id": "120703",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1207032028",
+    "district_id": "120703",
+    "name": "TAMBUNEN"
+  },
+  {
+    "id": "1207032029",
+    "district_id": "120703",
+    "name": "TANJUNG BERINGIN"
+  },
+  {
+    "id": "1207032030",
+    "district_id": "120703",
+    "name": "UJUNG DELENG"
+  }
+]

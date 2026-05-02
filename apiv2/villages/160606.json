@@ -1,1 +1,72 @@
-[{"id": "1606061038", "district_id": "160606", "name": "BABAT"}, {"id": "1606061039", "district_id": "160606", "name": "MANGUN JAYA"}, {"id": "1606062001", "district_id": "160606", "name": "SEREKA"}, {"id": "1606062002", "district_id": "160606", "name": "SUGI RAYA"}, {"id": "1606062003", "district_id": "160606", "name": "SUGI WARAS"}, {"id": "1606062004", "district_id": "160606", "name": "BERUGE"}, {"id": "1606062005", "district_id": "160606", "name": "MUARA PUNJUNG"}, {"id": "1606062007", "district_id": "160606", "name": "BANGUN SARI"}, {"id": "1606062008", "district_id": "160606", "name": "TOMAN"}, {"id": "1606062009", "district_id": "160606", "name": "KASMARAN"}, {"id": "1606062022", "district_id": "160606", "name": "SUNGAI ANGIT"}, {"id": "1606062023", "district_id": "160606", "name": "SRIMULYO"}, {"id": "1606062042", "district_id": "160606", "name": "PANGKALAN JAYA"}, {"id": "1606062043", "district_id": "160606", "name": "TOMAN BARU"}]
+[
+  {
+    "id": "1606061038",
+    "district_id": "160606",
+    "name": "BABAT"
+  },
+  {
+    "id": "1606061039",
+    "district_id": "160606",
+    "name": "MANGUN JAYA"
+  },
+  {
+    "id": "1606062001",
+    "district_id": "160606",
+    "name": "SEREKA"
+  },
+  {
+    "id": "1606062002",
+    "district_id": "160606",
+    "name": "SUGI RAYA"
+  },
+  {
+    "id": "1606062003",
+    "district_id": "160606",
+    "name": "SUGI WARAS"
+  },
+  {
+    "id": "1606062004",
+    "district_id": "160606",
+    "name": "BERUGE"
+  },
+  {
+    "id": "1606062005",
+    "district_id": "160606",
+    "name": "MUARA PUNJUNG"
+  },
+  {
+    "id": "1606062007",
+    "district_id": "160606",
+    "name": "BANGUN SARI"
+  },
+  {
+    "id": "1606062008",
+    "district_id": "160606",
+    "name": "TOMAN"
+  },
+  {
+    "id": "1606062009",
+    "district_id": "160606",
+    "name": "KASMARAN"
+  },
+  {
+    "id": "1606062022",
+    "district_id": "160606",
+    "name": "SUNGAI ANGIT"
+  },
+  {
+    "id": "1606062023",
+    "district_id": "160606",
+    "name": "SRIMULYO"
+  },
+  {
+    "id": "1606062042",
+    "district_id": "160606",
+    "name": "PANGKALAN JAYA"
+  },
+  {
+    "id": "1606062043",
+    "district_id": "160606",
+    "name": "TOMAN BARU"
+  }
+]

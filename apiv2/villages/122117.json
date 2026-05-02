@@ -1,1 +1,67 @@
-[{"id": "1221172001", "district_id": "122117", "name": "TANJUNG ALE"}, {"id": "1221172002", "district_id": "122117", "name": "SIGALA-GALA"}, {"id": "1221172003", "district_id": "122117", "name": "SIMANGAMBAT"}, {"id": "1221172004", "district_id": "122117", "name": "PIR TRANS SOSA I B"}, {"id": "1221172005", "district_id": "122117", "name": "PIR TRANS SOSA I A"}, {"id": "1221172006", "district_id": "122117", "name": "GUNUNG MANAON"}, {"id": "1221172007", "district_id": "122117", "name": "MUARA TIGE"}, {"id": "1221172008", "district_id": "122117", "name": "SIBODAK PAPASO"}, {"id": "1221172009", "district_id": "122117", "name": "GUNUNG INTEN"}, {"id": "1221172010", "district_id": "122117", "name": "PAGARAN BARINGIN"}, {"id": "1221172011", "district_id": "122117", "name": "SALAMBUE"}, {"id": "1221172012", "district_id": "122117", "name": "PAPASO"}, {"id": "1221172013", "district_id": "122117", "name": "ROMBAYAN"}]
+[
+  {
+    "id": "1221172001",
+    "district_id": "122117",
+    "name": "TANJUNG ALE"
+  },
+  {
+    "id": "1221172002",
+    "district_id": "122117",
+    "name": "SIGALA-GALA"
+  },
+  {
+    "id": "1221172003",
+    "district_id": "122117",
+    "name": "SIMANGAMBAT"
+  },
+  {
+    "id": "1221172004",
+    "district_id": "122117",
+    "name": "PIR TRANS SOSA I B"
+  },
+  {
+    "id": "1221172005",
+    "district_id": "122117",
+    "name": "PIR TRANS SOSA I A"
+  },
+  {
+    "id": "1221172006",
+    "district_id": "122117",
+    "name": "GUNUNG MANAON"
+  },
+  {
+    "id": "1221172007",
+    "district_id": "122117",
+    "name": "MUARA TIGE"
+  },
+  {
+    "id": "1221172008",
+    "district_id": "122117",
+    "name": "SIBODAK PAPASO"
+  },
+  {
+    "id": "1221172009",
+    "district_id": "122117",
+    "name": "GUNUNG INTEN"
+  },
+  {
+    "id": "1221172010",
+    "district_id": "122117",
+    "name": "PAGARAN BARINGIN"
+  },
+  {
+    "id": "1221172011",
+    "district_id": "122117",
+    "name": "SALAMBUE"
+  },
+  {
+    "id": "1221172012",
+    "district_id": "122117",
+    "name": "PAPASO"
+  },
+  {
+    "id": "1221172013",
+    "district_id": "122117",
+    "name": "ROMBAYAN"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "6371011001", "district_id": "637101", "name": "MANTUIL"}, {"id": "6371011002", "district_id": "637101", "name": "KELAYAN SELATAN"}, {"id": "6371011003", "district_id": "637101", "name": "PEKAUMAN"}, {"id": "6371011004", "district_id": "637101", "name": "KELAYAN BARAT"}, {"id": "6371011005", "district_id": "637101", "name": "KELAYAN TENGAH"}, {"id": "6371011006", "district_id": "637101", "name": "KELAYAN DALAM"}, {"id": "6371011007", "district_id": "637101", "name": "MURUNG RAYA"}, {"id": "6371011008", "district_id": "637101", "name": "KELAYAN TIMUR"}, {"id": "6371011009", "district_id": "637101", "name": "TANJUNG PAGAR"}, {"id": "6371011010", "district_id": "637101", "name": "PEMURUS DALAM"}, {"id": "6371011011", "district_id": "637101", "name": "PEMURUS BARU"}, {"id": "6371011012", "district_id": "637101", "name": "BASIRIH SELATAN"}]
+[
+  {
+    "id": "6371011001",
+    "district_id": "637101",
+    "name": "MANTUIL"
+  },
+  {
+    "id": "6371011002",
+    "district_id": "637101",
+    "name": "KELAYAN SELATAN"
+  },
+  {
+    "id": "6371011003",
+    "district_id": "637101",
+    "name": "PEKAUMAN"
+  },
+  {
+    "id": "6371011004",
+    "district_id": "637101",
+    "name": "KELAYAN BARAT"
+  },
+  {
+    "id": "6371011005",
+    "district_id": "637101",
+    "name": "KELAYAN TENGAH"
+  },
+  {
+    "id": "6371011006",
+    "district_id": "637101",
+    "name": "KELAYAN DALAM"
+  },
+  {
+    "id": "6371011007",
+    "district_id": "637101",
+    "name": "MURUNG RAYA"
+  },
+  {
+    "id": "6371011008",
+    "district_id": "637101",
+    "name": "KELAYAN TIMUR"
+  },
+  {
+    "id": "6371011009",
+    "district_id": "637101",
+    "name": "TANJUNG PAGAR"
+  },
+  {
+    "id": "6371011010",
+    "district_id": "637101",
+    "name": "PEMURUS DALAM"
+  },
+  {
+    "id": "6371011011",
+    "district_id": "637101",
+    "name": "PEMURUS BARU"
+  },
+  {
+    "id": "6371011012",
+    "district_id": "637101",
+    "name": "BASIRIH SELATAN"
+  }
+]

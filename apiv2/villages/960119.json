@@ -1,1 +1,47 @@
-[{"id": "9601192001", "district_id": "960119", "name": "DISFRA"}, {"id": "9601192002", "district_id": "960119", "name": "BAGUN"}, {"id": "9601192003", "district_id": "960119", "name": "KLAWOM"}, {"id": "9601192004", "district_id": "960119", "name": "KLAMOMIS"}, {"id": "9601192005", "district_id": "960119", "name": "KLAKWONRIT"}, {"id": "9601192006", "district_id": "960119", "name": "MODE"}, {"id": "9601192007", "district_id": "960119", "name": "BRATMAWE"}, {"id": "9601192008", "district_id": "960119", "name": "KLAWON"}, {"id": "9601192009", "district_id": "960119", "name": "MLAMLI"}]
+[
+  {
+    "id": "9601192001",
+    "district_id": "960119",
+    "name": "DISFRA"
+  },
+  {
+    "id": "9601192002",
+    "district_id": "960119",
+    "name": "BAGUN"
+  },
+  {
+    "id": "9601192003",
+    "district_id": "960119",
+    "name": "KLAWOM"
+  },
+  {
+    "id": "9601192004",
+    "district_id": "960119",
+    "name": "KLAMOMIS"
+  },
+  {
+    "id": "9601192005",
+    "district_id": "960119",
+    "name": "KLAKWONRIT"
+  },
+  {
+    "id": "9601192006",
+    "district_id": "960119",
+    "name": "MODE"
+  },
+  {
+    "id": "9601192007",
+    "district_id": "960119",
+    "name": "BRATMAWE"
+  },
+  {
+    "id": "9601192008",
+    "district_id": "960119",
+    "name": "KLAWON"
+  },
+  {
+    "id": "9601192009",
+    "district_id": "960119",
+    "name": "MLAMLI"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "3202052001", "district_id": "320205", "name": "CISOLOK"}, {"id": "3202052002", "district_id": "320205", "name": "PASIRBARU"}, {"id": "3202052003", "district_id": "320205", "name": "CIKAHURIPAN"}, {"id": "3202052004", "district_id": "320205", "name": "CIKELAT"}, {"id": "3202052005", "district_id": "320205", "name": "CARINGIN"}, {"id": "3202052006", "district_id": "320205", "name": "GUNUNGKARAMAT"}, {"id": "3202052007", "district_id": "320205", "name": "GUNUNGTANJUNG"}, {"id": "3202052008", "district_id": "320205", "name": "KARANGPAPAK"}, {"id": "3202052009", "district_id": "320205", "name": "SIRNARESMI"}, {"id": "3202052010", "district_id": "320205", "name": "CICADAS"}, {"id": "3202052011", "district_id": "320205", "name": "WANAJAYA"}, {"id": "3202052012", "district_id": "320205", "name": "WANGUNSARI"}, {"id": "3202052013", "district_id": "320205", "name": "SUKARAME"}]
+[
+  {
+    "id": "3202052001",
+    "district_id": "320205",
+    "name": "CISOLOK"
+  },
+  {
+    "id": "3202052002",
+    "district_id": "320205",
+    "name": "PASIRBARU"
+  },
+  {
+    "id": "3202052003",
+    "district_id": "320205",
+    "name": "CIKAHURIPAN"
+  },
+  {
+    "id": "3202052004",
+    "district_id": "320205",
+    "name": "CIKELAT"
+  },
+  {
+    "id": "3202052005",
+    "district_id": "320205",
+    "name": "CARINGIN"
+  },
+  {
+    "id": "3202052006",
+    "district_id": "320205",
+    "name": "GUNUNGKARAMAT"
+  },
+  {
+    "id": "3202052007",
+    "district_id": "320205",
+    "name": "GUNUNGTANJUNG"
+  },
+  {
+    "id": "3202052008",
+    "district_id": "320205",
+    "name": "KARANGPAPAK"
+  },
+  {
+    "id": "3202052009",
+    "district_id": "320205",
+    "name": "SIRNARESMI"
+  },
+  {
+    "id": "3202052010",
+    "district_id": "320205",
+    "name": "CICADAS"
+  },
+  {
+    "id": "3202052011",
+    "district_id": "320205",
+    "name": "WANAJAYA"
+  },
+  {
+    "id": "3202052012",
+    "district_id": "320205",
+    "name": "WANGUNSARI"
+  },
+  {
+    "id": "3202052013",
+    "district_id": "320205",
+    "name": "SUKARAME"
+  }
+]

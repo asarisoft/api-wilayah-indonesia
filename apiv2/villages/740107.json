@@ -1,1 +1,62 @@
-[{"id": "7401071001", "district_id": "740107", "name": "DAWI-DAWI"}, {"id": "7401071002", "district_id": "740107", "name": "POMALAA"}, {"id": "7401071009", "district_id": "740107", "name": "TONGGONI"}, {"id": "7401071011", "district_id": "740107", "name": "KUMORO"}, {"id": "7401072003", "district_id": "740107", "name": "HUKO-HUKO"}, {"id": "7401072004", "district_id": "740107", "name": "PELAMBUA"}, {"id": "7401072005", "district_id": "740107", "name": "TAMBEA"}, {"id": "7401072006", "district_id": "740107", "name": "SOPURA"}, {"id": "7401072007", "district_id": "740107", "name": "PESOUHA"}, {"id": "7401072008", "district_id": "740107", "name": "TOTOBO"}, {"id": "7401072010", "district_id": "740107", "name": "OKO-OKO"}, {"id": "7401072012", "district_id": "740107", "name": "HAKATUTOBU"}]
+[
+  {
+    "id": "7401071001",
+    "district_id": "740107",
+    "name": "DAWI-DAWI"
+  },
+  {
+    "id": "7401071002",
+    "district_id": "740107",
+    "name": "POMALAA"
+  },
+  {
+    "id": "7401071009",
+    "district_id": "740107",
+    "name": "TONGGONI"
+  },
+  {
+    "id": "7401071011",
+    "district_id": "740107",
+    "name": "KUMORO"
+  },
+  {
+    "id": "7401072003",
+    "district_id": "740107",
+    "name": "HUKO-HUKO"
+  },
+  {
+    "id": "7401072004",
+    "district_id": "740107",
+    "name": "PELAMBUA"
+  },
+  {
+    "id": "7401072005",
+    "district_id": "740107",
+    "name": "TAMBEA"
+  },
+  {
+    "id": "7401072006",
+    "district_id": "740107",
+    "name": "SOPURA"
+  },
+  {
+    "id": "7401072007",
+    "district_id": "740107",
+    "name": "PESOUHA"
+  },
+  {
+    "id": "7401072008",
+    "district_id": "740107",
+    "name": "TOTOBO"
+  },
+  {
+    "id": "7401072010",
+    "district_id": "740107",
+    "name": "OKO-OKO"
+  },
+  {
+    "id": "7401072012",
+    "district_id": "740107",
+    "name": "HAKATUTOBU"
+  }
+]

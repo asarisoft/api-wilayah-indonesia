@@ -1,1 +1,87 @@
-[{"id": "3507091008", "district_id": "350709", "name": "SEDAYU"}, {"id": "3507091011", "district_id": "350709", "name": "TUREN"}, {"id": "3507092001", "district_id": "350709", "name": "TAWANGREJENI"}, {"id": "3507092002", "district_id": "350709", "name": "KEMULAN"}, {"id": "3507092003", "district_id": "350709", "name": "SAWAHAN"}, {"id": "3507092004", "district_id": "350709", "name": "UNDAAN"}, {"id": "3507092005", "district_id": "350709", "name": "GEDOK KULON"}, {"id": "3507092006", "district_id": "350709", "name": "GEDOK WETAN"}, {"id": "3507092007", "district_id": "350709", "name": "TALOK"}, {"id": "3507092009", "district_id": "350709", "name": "TANGGUNG"}, {"id": "3507092010", "district_id": "350709", "name": "JERU"}, {"id": "3507092012", "district_id": "350709", "name": "PAGEDANGAN"}, {"id": "3507092013", "district_id": "350709", "name": "SANANKERTO"}, {"id": "3507092014", "district_id": "350709", "name": "SANANREJO"}, {"id": "3507092015", "district_id": "350709", "name": "KEDOK"}, {"id": "3507092016", "district_id": "350709", "name": "TALANGSUKO"}, {"id": "3507092017", "district_id": "350709", "name": "TUMPUKRENTENG"}]
+[
+  {
+    "id": "3507091008",
+    "district_id": "350709",
+    "name": "SEDAYU"
+  },
+  {
+    "id": "3507091011",
+    "district_id": "350709",
+    "name": "TUREN"
+  },
+  {
+    "id": "3507092001",
+    "district_id": "350709",
+    "name": "TAWANGREJENI"
+  },
+  {
+    "id": "3507092002",
+    "district_id": "350709",
+    "name": "KEMULAN"
+  },
+  {
+    "id": "3507092003",
+    "district_id": "350709",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "3507092004",
+    "district_id": "350709",
+    "name": "UNDAAN"
+  },
+  {
+    "id": "3507092005",
+    "district_id": "350709",
+    "name": "GEDOK KULON"
+  },
+  {
+    "id": "3507092006",
+    "district_id": "350709",
+    "name": "GEDOK WETAN"
+  },
+  {
+    "id": "3507092007",
+    "district_id": "350709",
+    "name": "TALOK"
+  },
+  {
+    "id": "3507092009",
+    "district_id": "350709",
+    "name": "TANGGUNG"
+  },
+  {
+    "id": "3507092010",
+    "district_id": "350709",
+    "name": "JERU"
+  },
+  {
+    "id": "3507092012",
+    "district_id": "350709",
+    "name": "PAGEDANGAN"
+  },
+  {
+    "id": "3507092013",
+    "district_id": "350709",
+    "name": "SANANKERTO"
+  },
+  {
+    "id": "3507092014",
+    "district_id": "350709",
+    "name": "SANANREJO"
+  },
+  {
+    "id": "3507092015",
+    "district_id": "350709",
+    "name": "KEDOK"
+  },
+  {
+    "id": "3507092016",
+    "district_id": "350709",
+    "name": "TALANGSUKO"
+  },
+  {
+    "id": "3507092017",
+    "district_id": "350709",
+    "name": "TUMPUKRENTENG"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "5207032001", "district_id": "520703", "name": "MERARAN"}, {"id": "5207032002", "district_id": "520703", "name": "AIR SUNING"}, {"id": "5207032003", "district_id": "520703", "name": "REMPE"}, {"id": "5207032004", "district_id": "520703", "name": "SETELUK ATAS"}, {"id": "5207032005", "district_id": "520703", "name": "SETELUK TENGAH"}, {"id": "5207032008", "district_id": "520703", "name": "KELANIR"}, {"id": "5207032011", "district_id": "520703", "name": "TAPIR"}, {"id": "5207032013", "district_id": "520703", "name": "LAMUSUNG"}, {"id": "5207032014", "district_id": "520703", "name": "SERAN"}, {"id": "5207032015", "district_id": "520703", "name": "DESALOKA"}]
+[
+  {
+    "id": "5207032001",
+    "district_id": "520703",
+    "name": "MERARAN"
+  },
+  {
+    "id": "5207032002",
+    "district_id": "520703",
+    "name": "AIR SUNING"
+  },
+  {
+    "id": "5207032003",
+    "district_id": "520703",
+    "name": "REMPE"
+  },
+  {
+    "id": "5207032004",
+    "district_id": "520703",
+    "name": "SETELUK ATAS"
+  },
+  {
+    "id": "5207032005",
+    "district_id": "520703",
+    "name": "SETELUK TENGAH"
+  },
+  {
+    "id": "5207032008",
+    "district_id": "520703",
+    "name": "KELANIR"
+  },
+  {
+    "id": "5207032011",
+    "district_id": "520703",
+    "name": "TAPIR"
+  },
+  {
+    "id": "5207032013",
+    "district_id": "520703",
+    "name": "LAMUSUNG"
+  },
+  {
+    "id": "5207032014",
+    "district_id": "520703",
+    "name": "SERAN"
+  },
+  {
+    "id": "5207032015",
+    "district_id": "520703",
+    "name": "DESALOKA"
+  }
+]

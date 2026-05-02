@@ -1,1 +1,62 @@
-[{"id": "3508192001", "district_id": "350819", "name": "KEBONAN"}, {"id": "3508192002", "district_id": "350819", "name": "KUDUS"}, {"id": "3508192003", "district_id": "350819", "name": "DUREN"}, {"id": "3508192004", "district_id": "350819", "name": "SUMBERWRINGIN"}, {"id": "3508192005", "district_id": "350819", "name": "PAPRINGAN"}, {"id": "3508192006", "district_id": "350819", "name": "RANUPAKIS"}, {"id": "3508192007", "district_id": "350819", "name": "TEGALRANDU"}, {"id": "3508192008", "district_id": "350819", "name": "KLAKAH"}, {"id": "3508192009", "district_id": "350819", "name": "MLAWANG"}, {"id": "3508192010", "district_id": "350819", "name": "SRUNI"}, {"id": "3508192011", "district_id": "350819", "name": "TEGALCIUT"}, {"id": "3508192012", "district_id": "350819", "name": "SAWARAN LOR"}]
+[
+  {
+    "id": "3508192001",
+    "district_id": "350819",
+    "name": "KEBONAN"
+  },
+  {
+    "id": "3508192002",
+    "district_id": "350819",
+    "name": "KUDUS"
+  },
+  {
+    "id": "3508192003",
+    "district_id": "350819",
+    "name": "DUREN"
+  },
+  {
+    "id": "3508192004",
+    "district_id": "350819",
+    "name": "SUMBERWRINGIN"
+  },
+  {
+    "id": "3508192005",
+    "district_id": "350819",
+    "name": "PAPRINGAN"
+  },
+  {
+    "id": "3508192006",
+    "district_id": "350819",
+    "name": "RANUPAKIS"
+  },
+  {
+    "id": "3508192007",
+    "district_id": "350819",
+    "name": "TEGALRANDU"
+  },
+  {
+    "id": "3508192008",
+    "district_id": "350819",
+    "name": "KLAKAH"
+  },
+  {
+    "id": "3508192009",
+    "district_id": "350819",
+    "name": "MLAWANG"
+  },
+  {
+    "id": "3508192010",
+    "district_id": "350819",
+    "name": "SRUNI"
+  },
+  {
+    "id": "3508192011",
+    "district_id": "350819",
+    "name": "TEGALCIUT"
+  },
+  {
+    "id": "3508192012",
+    "district_id": "350819",
+    "name": "SAWARAN LOR"
+  }
+]

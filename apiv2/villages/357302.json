@@ -1,1 +1,57 @@
-[{"id": "3573021001", "district_id": "357302", "name": "KLOJEN"}, {"id": "3573021002", "district_id": "357302", "name": "RAMPALCELAKET"}, {"id": "3573021003", "district_id": "357302", "name": "SAMAAN"}, {"id": "3573021004", "district_id": "357302", "name": "KIDULDALEM"}, {"id": "3573021005", "district_id": "357302", "name": "SUKOHARJO"}, {"id": "3573021006", "district_id": "357302", "name": "KASIN"}, {"id": "3573021007", "district_id": "357302", "name": "KAUMAN"}, {"id": "3573021008", "district_id": "357302", "name": "ORO-ORO DOWO"}, {"id": "3573021009", "district_id": "357302", "name": "BARENG"}, {"id": "3573021010", "district_id": "357302", "name": "GADING KASRI"}, {"id": "3573021011", "district_id": "357302", "name": "PENANGGUNGAN"}]
+[
+  {
+    "id": "3573021001",
+    "district_id": "357302",
+    "name": "KLOJEN"
+  },
+  {
+    "id": "3573021002",
+    "district_id": "357302",
+    "name": "RAMPALCELAKET"
+  },
+  {
+    "id": "3573021003",
+    "district_id": "357302",
+    "name": "SAMAAN"
+  },
+  {
+    "id": "3573021004",
+    "district_id": "357302",
+    "name": "KIDULDALEM"
+  },
+  {
+    "id": "3573021005",
+    "district_id": "357302",
+    "name": "SUKOHARJO"
+  },
+  {
+    "id": "3573021006",
+    "district_id": "357302",
+    "name": "KASIN"
+  },
+  {
+    "id": "3573021007",
+    "district_id": "357302",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3573021008",
+    "district_id": "357302",
+    "name": "ORO-ORO DOWO"
+  },
+  {
+    "id": "3573021009",
+    "district_id": "357302",
+    "name": "BARENG"
+  },
+  {
+    "id": "3573021010",
+    "district_id": "357302",
+    "name": "GADING KASRI"
+  },
+  {
+    "id": "3573021011",
+    "district_id": "357302",
+    "name": "PENANGGUNGAN"
+  }
+]

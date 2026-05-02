@@ -1,1 +1,52 @@
-[{"id": "1405071001", "district_id": "140507", "name": "KERUMUTAN"}, {"id": "1405072002", "district_id": "140507", "name": "PANGKALAN PANDUK"}, {"id": "1405072003", "district_id": "140507", "name": "PANGKALAN TAMPUI"}, {"id": "1405072004", "district_id": "140507", "name": "BUKIT LEMBAH SUBUR"}, {"id": "1405072005", "district_id": "140507", "name": "BANJAR PANJANG"}, {"id": "1405072006", "district_id": "140507", "name": "BERINGIN MAKMUR"}, {"id": "1405072007", "district_id": "140507", "name": "PEMATANG TINGGI"}, {"id": "1405072008", "district_id": "140507", "name": "TANJUNG AIR HITAM"}, {"id": "1405072009", "district_id": "140507", "name": "MAK TEDUH"}, {"id": "1405072010", "district_id": "140507", "name": "LIPAI BULAN"}]
+[
+  {
+    "id": "1405071001",
+    "district_id": "140507",
+    "name": "KERUMUTAN"
+  },
+  {
+    "id": "1405072002",
+    "district_id": "140507",
+    "name": "PANGKALAN PANDUK"
+  },
+  {
+    "id": "1405072003",
+    "district_id": "140507",
+    "name": "PANGKALAN TAMPUI"
+  },
+  {
+    "id": "1405072004",
+    "district_id": "140507",
+    "name": "BUKIT LEMBAH SUBUR"
+  },
+  {
+    "id": "1405072005",
+    "district_id": "140507",
+    "name": "BANJAR PANJANG"
+  },
+  {
+    "id": "1405072006",
+    "district_id": "140507",
+    "name": "BERINGIN MAKMUR"
+  },
+  {
+    "id": "1405072007",
+    "district_id": "140507",
+    "name": "PEMATANG TINGGI"
+  },
+  {
+    "id": "1405072008",
+    "district_id": "140507",
+    "name": "TANJUNG AIR HITAM"
+  },
+  {
+    "id": "1405072009",
+    "district_id": "140507",
+    "name": "MAK TEDUH"
+  },
+  {
+    "id": "1405072010",
+    "district_id": "140507",
+    "name": "LIPAI BULAN"
+  }
+]

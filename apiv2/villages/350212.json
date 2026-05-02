@@ -1,1 +1,82 @@
-[{"id": "3502122001", "district_id": "350212", "name": "TEGALOMBO"}, {"id": "3502122002", "district_id": "350212", "name": "NONGKODONO"}, {"id": "3502122003", "district_id": "350212", "name": "SUKOSARI"}, {"id": "3502122004", "district_id": "350212", "name": "NGRANDU"}, {"id": "3502122005", "district_id": "350212", "name": "NGLARANGAN"}, {"id": "3502122006", "district_id": "350212", "name": "BRINGIN"}, {"id": "3502122007", "district_id": "350212", "name": "PENGKOL"}, {"id": "3502122008", "district_id": "350212", "name": "GABEL"}, {"id": "3502122009", "district_id": "350212", "name": "CILUK"}, {"id": "3502122010", "district_id": "350212", "name": "SEMANDING"}, {"id": "3502122011", "district_id": "350212", "name": "TOSANAN"}, {"id": "3502122012", "district_id": "350212", "name": "MARON"}, {"id": "3502122013", "district_id": "350212", "name": "SOMOROTO"}, {"id": "3502122014", "district_id": "350212", "name": "PLOSOJENAR"}, {"id": "3502122015", "district_id": "350212", "name": "CARAT"}, {"id": "3502122016", "district_id": "350212", "name": "KAUMAN"}]
+[
+  {
+    "id": "3502122001",
+    "district_id": "350212",
+    "name": "TEGALOMBO"
+  },
+  {
+    "id": "3502122002",
+    "district_id": "350212",
+    "name": "NONGKODONO"
+  },
+  {
+    "id": "3502122003",
+    "district_id": "350212",
+    "name": "SUKOSARI"
+  },
+  {
+    "id": "3502122004",
+    "district_id": "350212",
+    "name": "NGRANDU"
+  },
+  {
+    "id": "3502122005",
+    "district_id": "350212",
+    "name": "NGLARANGAN"
+  },
+  {
+    "id": "3502122006",
+    "district_id": "350212",
+    "name": "BRINGIN"
+  },
+  {
+    "id": "3502122007",
+    "district_id": "350212",
+    "name": "PENGKOL"
+  },
+  {
+    "id": "3502122008",
+    "district_id": "350212",
+    "name": "GABEL"
+  },
+  {
+    "id": "3502122009",
+    "district_id": "350212",
+    "name": "CILUK"
+  },
+  {
+    "id": "3502122010",
+    "district_id": "350212",
+    "name": "SEMANDING"
+  },
+  {
+    "id": "3502122011",
+    "district_id": "350212",
+    "name": "TOSANAN"
+  },
+  {
+    "id": "3502122012",
+    "district_id": "350212",
+    "name": "MARON"
+  },
+  {
+    "id": "3502122013",
+    "district_id": "350212",
+    "name": "SOMOROTO"
+  },
+  {
+    "id": "3502122014",
+    "district_id": "350212",
+    "name": "PLOSOJENAR"
+  },
+  {
+    "id": "3502122015",
+    "district_id": "350212",
+    "name": "CARAT"
+  },
+  {
+    "id": "3502122016",
+    "district_id": "350212",
+    "name": "KAUMAN"
+  }
+]

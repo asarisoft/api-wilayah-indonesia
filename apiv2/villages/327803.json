@@ -1,1 +1,27 @@
-[{"id": "3278031001", "district_id": "327803", "name": "TAWANGSARI"}, {"id": "3278031002", "district_id": "327803", "name": "EMPANGSARI"}, {"id": "3278031003", "district_id": "327803", "name": "LENGKONGSARI"}, {"id": "3278031004", "district_id": "327803", "name": "CIKALANG"}, {"id": "3278031005", "district_id": "327803", "name": "KAHURIPAN"}]
+[
+  {
+    "id": "3278031001",
+    "district_id": "327803",
+    "name": "TAWANGSARI"
+  },
+  {
+    "id": "3278031002",
+    "district_id": "327803",
+    "name": "EMPANGSARI"
+  },
+  {
+    "id": "3278031003",
+    "district_id": "327803",
+    "name": "LENGKONGSARI"
+  },
+  {
+    "id": "3278031004",
+    "district_id": "327803",
+    "name": "CIKALANG"
+  },
+  {
+    "id": "3278031005",
+    "district_id": "327803",
+    "name": "KAHURIPAN"
+  }
+]

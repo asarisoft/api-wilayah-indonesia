@@ -1,1 +1,37 @@
-[{"id": "1371071001", "district_id": "137107", "name": "INDARUNG"}, {"id": "1371071002", "district_id": "137107", "name": "PADANG BESI"}, {"id": "1371071003", "district_id": "137107", "name": "BATU GADANG"}, {"id": "1371071004", "district_id": "137107", "name": "BANDA BUEK"}, {"id": "1371071005", "district_id": "137107", "name": "KOTO LALANG"}, {"id": "1371071006", "district_id": "137107", "name": "BARINGIN"}, {"id": "1371071007", "district_id": "137107", "name": "TARANTANG"}]
+[
+  {
+    "id": "1371071001",
+    "district_id": "137107",
+    "name": "INDARUNG"
+  },
+  {
+    "id": "1371071002",
+    "district_id": "137107",
+    "name": "PADANG BESI"
+  },
+  {
+    "id": "1371071003",
+    "district_id": "137107",
+    "name": "BATU GADANG"
+  },
+  {
+    "id": "1371071004",
+    "district_id": "137107",
+    "name": "BANDA BUEK"
+  },
+  {
+    "id": "1371071005",
+    "district_id": "137107",
+    "name": "KOTO LALANG"
+  },
+  {
+    "id": "1371071006",
+    "district_id": "137107",
+    "name": "BARINGIN"
+  },
+  {
+    "id": "1371071007",
+    "district_id": "137107",
+    "name": "TARANTANG"
+  }
+]

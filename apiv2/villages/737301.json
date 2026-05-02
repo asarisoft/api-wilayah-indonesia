@@ -1,1 +1,32 @@
-[{"id": "7373011001", "district_id": "737301", "name": "TOMPOTIKKA"}, {"id": "7373011002", "district_id": "737301", "name": "BOTING"}, {"id": "7373011003", "district_id": "737301", "name": "AMMASANGAN"}, {"id": "7373011005", "district_id": "737301", "name": "LAGALIGO"}, {"id": "7373011011", "district_id": "737301", "name": "DANGERAKKO"}, {"id": "7373011012", "district_id": "737301", "name": "PAJALESANG"}]
+[
+  {
+    "id": "7373011001",
+    "district_id": "737301",
+    "name": "TOMPOTIKKA"
+  },
+  {
+    "id": "7373011002",
+    "district_id": "737301",
+    "name": "BOTING"
+  },
+  {
+    "id": "7373011003",
+    "district_id": "737301",
+    "name": "AMMASANGAN"
+  },
+  {
+    "id": "7373011005",
+    "district_id": "737301",
+    "name": "LAGALIGO"
+  },
+  {
+    "id": "7373011011",
+    "district_id": "737301",
+    "name": "DANGERAKKO"
+  },
+  {
+    "id": "7373011012",
+    "district_id": "737301",
+    "name": "PAJALESANG"
+  }
+]

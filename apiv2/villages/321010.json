@@ -1,1 +1,72 @@
-[{"id": "3210102001", "district_id": "321010", "name": "PARAKAN"}, {"id": "3210102002", "district_id": "321010", "name": "PATUANAN"}, {"id": "3210102003", "district_id": "321010", "name": "NANGGERANG"}, {"id": "3210102004", "district_id": "321010", "name": "LAME"}, {"id": "3210102005", "district_id": "321010", "name": "MINDI"}, {"id": "3210102006", "district_id": "321010", "name": "RAJAWANGI"}, {"id": "3210102007", "district_id": "321010", "name": "LEUWIKUJANG"}, {"id": "3210102008", "district_id": "321010", "name": "MIRAT"}, {"id": "3210102009", "district_id": "321010", "name": "LEUWIMUNDING"}, {"id": "3210102010", "district_id": "321010", "name": "CIPARAY"}, {"id": "3210102011", "district_id": "321010", "name": "HEULEUT"}, {"id": "3210102012", "district_id": "321010", "name": "KARANGASEM"}, {"id": "3210102013", "district_id": "321010", "name": "TANJUNGSARI"}, {"id": "3210102014", "district_id": "321010", "name": "PARUNGJAYA"}]
+[
+  {
+    "id": "3210102001",
+    "district_id": "321010",
+    "name": "PARAKAN"
+  },
+  {
+    "id": "3210102002",
+    "district_id": "321010",
+    "name": "PATUANAN"
+  },
+  {
+    "id": "3210102003",
+    "district_id": "321010",
+    "name": "NANGGERANG"
+  },
+  {
+    "id": "3210102004",
+    "district_id": "321010",
+    "name": "LAME"
+  },
+  {
+    "id": "3210102005",
+    "district_id": "321010",
+    "name": "MINDI"
+  },
+  {
+    "id": "3210102006",
+    "district_id": "321010",
+    "name": "RAJAWANGI"
+  },
+  {
+    "id": "3210102007",
+    "district_id": "321010",
+    "name": "LEUWIKUJANG"
+  },
+  {
+    "id": "3210102008",
+    "district_id": "321010",
+    "name": "MIRAT"
+  },
+  {
+    "id": "3210102009",
+    "district_id": "321010",
+    "name": "LEUWIMUNDING"
+  },
+  {
+    "id": "3210102010",
+    "district_id": "321010",
+    "name": "CIPARAY"
+  },
+  {
+    "id": "3210102011",
+    "district_id": "321010",
+    "name": "HEULEUT"
+  },
+  {
+    "id": "3210102012",
+    "district_id": "321010",
+    "name": "KARANGASEM"
+  },
+  {
+    "id": "3210102013",
+    "district_id": "321010",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3210102014",
+    "district_id": "321010",
+    "name": "PARUNGJAYA"
+  }
+]

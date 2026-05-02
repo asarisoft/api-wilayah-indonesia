@@ -1,1 +1,77 @@
-[{"id": "3210032001", "district_id": "321003", "name": "SUKASARI"}, {"id": "3210032002", "district_id": "321003", "name": "CISOKA"}, {"id": "3210032003", "district_id": "321003", "name": "SINDANGPANJI"}, {"id": "3210032004", "district_id": "321003", "name": "CIKIJING"}, {"id": "3210032005", "district_id": "321003", "name": "SINDANG"}, {"id": "3210032006", "district_id": "321003", "name": "BANJARANSARI"}, {"id": "3210032007", "district_id": "321003", "name": "KASTURI"}, {"id": "3210032008", "district_id": "321003", "name": "CIDULANG"}, {"id": "3210032009", "district_id": "321003", "name": "JAGASARI"}, {"id": "3210032010", "district_id": "321003", "name": "BAGJASARI"}, {"id": "3210032011", "district_id": "321003", "name": "SUNALARI"}, {"id": "3210032012", "district_id": "321003", "name": "CIPULUS"}, {"id": "3210032013", "district_id": "321003", "name": "KANCANA"}, {"id": "3210032014", "district_id": "321003", "name": "SUKAMUKTI"}, {"id": "3210032015", "district_id": "321003", "name": "CILANGCANG"}]
+[
+  {
+    "id": "3210032001",
+    "district_id": "321003",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3210032002",
+    "district_id": "321003",
+    "name": "CISOKA"
+  },
+  {
+    "id": "3210032003",
+    "district_id": "321003",
+    "name": "SINDANGPANJI"
+  },
+  {
+    "id": "3210032004",
+    "district_id": "321003",
+    "name": "CIKIJING"
+  },
+  {
+    "id": "3210032005",
+    "district_id": "321003",
+    "name": "SINDANG"
+  },
+  {
+    "id": "3210032006",
+    "district_id": "321003",
+    "name": "BANJARANSARI"
+  },
+  {
+    "id": "3210032007",
+    "district_id": "321003",
+    "name": "KASTURI"
+  },
+  {
+    "id": "3210032008",
+    "district_id": "321003",
+    "name": "CIDULANG"
+  },
+  {
+    "id": "3210032009",
+    "district_id": "321003",
+    "name": "JAGASARI"
+  },
+  {
+    "id": "3210032010",
+    "district_id": "321003",
+    "name": "BAGJASARI"
+  },
+  {
+    "id": "3210032011",
+    "district_id": "321003",
+    "name": "SUNALARI"
+  },
+  {
+    "id": "3210032012",
+    "district_id": "321003",
+    "name": "CIPULUS"
+  },
+  {
+    "id": "3210032013",
+    "district_id": "321003",
+    "name": "KANCANA"
+  },
+  {
+    "id": "3210032014",
+    "district_id": "321003",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "3210032015",
+    "district_id": "321003",
+    "name": "CILANGCANG"
+  }
+]

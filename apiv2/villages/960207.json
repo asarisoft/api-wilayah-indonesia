@@ -1,1 +1,42 @@
-[{"id": "9602072001", "district_id": "960207", "name": "SUNGGUER"}, {"id": "9602072002", "district_id": "960207", "name": "UNGGI"}, {"id": "9602072003", "district_id": "960207", "name": "BOLDON"}, {"id": "9602072004", "district_id": "960207", "name": "SESOR"}, {"id": "9602072005", "district_id": "960207", "name": "WAIGO"}, {"id": "9602072006", "district_id": "960207", "name": "BAGARAGA"}, {"id": "9602072007", "district_id": "960207", "name": "WARDIK"}, {"id": "9602072008", "district_id": "960207", "name": "WAYER"}]
+[
+  {
+    "id": "9602072001",
+    "district_id": "960207",
+    "name": "SUNGGUER"
+  },
+  {
+    "id": "9602072002",
+    "district_id": "960207",
+    "name": "UNGGI"
+  },
+  {
+    "id": "9602072003",
+    "district_id": "960207",
+    "name": "BOLDON"
+  },
+  {
+    "id": "9602072004",
+    "district_id": "960207",
+    "name": "SESOR"
+  },
+  {
+    "id": "9602072005",
+    "district_id": "960207",
+    "name": "WAIGO"
+  },
+  {
+    "id": "9602072006",
+    "district_id": "960207",
+    "name": "BAGARAGA"
+  },
+  {
+    "id": "9602072007",
+    "district_id": "960207",
+    "name": "WARDIK"
+  },
+  {
+    "id": "9602072008",
+    "district_id": "960207",
+    "name": "WAYER"
+  }
+]

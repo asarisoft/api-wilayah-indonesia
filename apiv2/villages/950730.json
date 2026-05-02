@@ -1,1 +1,42 @@
-[{"id": "9507302001", "district_id": "950730", "name": "INDUGU"}, {"id": "9507302002", "district_id": "950730", "name": "GUBURINI"}, {"id": "9507302003", "district_id": "950730", "name": "JIWIKELANNY"}, {"id": "9507302004", "district_id": "950730", "name": "NISIMOK"}, {"id": "9507302005", "district_id": "950730", "name": "YUGUME"}, {"id": "9507302006", "district_id": "950730", "name": "PINAME"}, {"id": "9507302007", "district_id": "950730", "name": "LONDU"}, {"id": "9507302008", "district_id": "950730", "name": "KAGALUWI"}]
+[
+  {
+    "id": "9507302001",
+    "district_id": "950730",
+    "name": "INDUGU"
+  },
+  {
+    "id": "9507302002",
+    "district_id": "950730",
+    "name": "GUBURINI"
+  },
+  {
+    "id": "9507302003",
+    "district_id": "950730",
+    "name": "JIWIKELANNY"
+  },
+  {
+    "id": "9507302004",
+    "district_id": "950730",
+    "name": "NISIMOK"
+  },
+  {
+    "id": "9507302005",
+    "district_id": "950730",
+    "name": "YUGUME"
+  },
+  {
+    "id": "9507302006",
+    "district_id": "950730",
+    "name": "PINAME"
+  },
+  {
+    "id": "9507302007",
+    "district_id": "950730",
+    "name": "LONDU"
+  },
+  {
+    "id": "9507302008",
+    "district_id": "950730",
+    "name": "KAGALUWI"
+  }
+]

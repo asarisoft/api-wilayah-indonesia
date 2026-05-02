@@ -1,1 +1,27 @@
-[{"id": "1103242001", "district_id": "110324", "name": "ARUL PINANG"}, {"id": "1103242002", "district_id": "110324", "name": "PEUNARON BARU"}, {"id": "1103242003", "district_id": "110324", "name": "PEUNARON LAMA"}, {"id": "1103242004", "district_id": "110324", "name": "BUKIT TIGA"}, {"id": "1103242006", "district_id": "110324", "name": "SRI MULYA"}]
+[
+  {
+    "id": "1103242001",
+    "district_id": "110324",
+    "name": "ARUL PINANG"
+  },
+  {
+    "id": "1103242002",
+    "district_id": "110324",
+    "name": "PEUNARON BARU"
+  },
+  {
+    "id": "1103242003",
+    "district_id": "110324",
+    "name": "PEUNARON LAMA"
+  },
+  {
+    "id": "1103242004",
+    "district_id": "110324",
+    "name": "BUKIT TIGA"
+  },
+  {
+    "id": "1103242006",
+    "district_id": "110324",
+    "name": "SRI MULYA"
+  }
+]

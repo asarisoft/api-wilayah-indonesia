@@ -1,1 +1,87 @@
-[{"id": "710501", "regency_id": "7105", "name": "MODOINDING"}, {"id": "710502", "regency_id": "7105", "name": "TOMPASO BARU"}, {"id": "710503", "regency_id": "7105", "name": "RANOYAPO"}, {"id": "710507", "regency_id": "7105", "name": "MOTOLING"}, {"id": "710508", "regency_id": "7105", "name": "SINONSAYANG"}, {"id": "710509", "regency_id": "7105", "name": "TENGA"}, {"id": "710510", "regency_id": "7105", "name": "AMURANG"}, {"id": "710512", "regency_id": "7105", "name": "TUMPAAN"}, {"id": "710513", "regency_id": "7105", "name": "TARERAN"}, {"id": "710515", "regency_id": "7105", "name": "KUMELEMBUAI"}, {"id": "710516", "regency_id": "7105", "name": "MAESAAN"}, {"id": "710517", "regency_id": "7105", "name": "AMURANG BARAT"}, {"id": "710518", "regency_id": "7105", "name": "AMURANG TIMUR"}, {"id": "710519", "regency_id": "7105", "name": "TATAPAAN"}, {"id": "710521", "regency_id": "7105", "name": "MOTOLING BARAT"}, {"id": "710522", "regency_id": "7105", "name": "MOTOLING TIMUR"}, {"id": "710523", "regency_id": "7105", "name": "SULUUN TARERAN"}]
+[
+  {
+    "id": "710501",
+    "regency_id": "7105",
+    "name": "MODOINDING"
+  },
+  {
+    "id": "710502",
+    "regency_id": "7105",
+    "name": "TOMPASO BARU"
+  },
+  {
+    "id": "710503",
+    "regency_id": "7105",
+    "name": "RANOYAPO"
+  },
+  {
+    "id": "710507",
+    "regency_id": "7105",
+    "name": "MOTOLING"
+  },
+  {
+    "id": "710508",
+    "regency_id": "7105",
+    "name": "SINONSAYANG"
+  },
+  {
+    "id": "710509",
+    "regency_id": "7105",
+    "name": "TENGA"
+  },
+  {
+    "id": "710510",
+    "regency_id": "7105",
+    "name": "AMURANG"
+  },
+  {
+    "id": "710512",
+    "regency_id": "7105",
+    "name": "TUMPAAN"
+  },
+  {
+    "id": "710513",
+    "regency_id": "7105",
+    "name": "TARERAN"
+  },
+  {
+    "id": "710515",
+    "regency_id": "7105",
+    "name": "KUMELEMBUAI"
+  },
+  {
+    "id": "710516",
+    "regency_id": "7105",
+    "name": "MAESAAN"
+  },
+  {
+    "id": "710517",
+    "regency_id": "7105",
+    "name": "AMURANG BARAT"
+  },
+  {
+    "id": "710518",
+    "regency_id": "7105",
+    "name": "AMURANG TIMUR"
+  },
+  {
+    "id": "710519",
+    "regency_id": "7105",
+    "name": "TATAPAAN"
+  },
+  {
+    "id": "710521",
+    "regency_id": "7105",
+    "name": "MOTOLING BARAT"
+  },
+  {
+    "id": "710522",
+    "regency_id": "7105",
+    "name": "MOTOLING TIMUR"
+  },
+  {
+    "id": "710523",
+    "regency_id": "7105",
+    "name": "SULUUN TARERAN"
+  }
+]

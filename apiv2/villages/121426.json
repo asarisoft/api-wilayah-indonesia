@@ -1,1 +1,72 @@
-[{"id": "1214262001", "district_id": "121426", "name": "SIFITUBANUA"}, {"id": "1214262002", "district_id": "121426", "name": "SIWALU BANUA"}, {"id": "1214262003", "district_id": "121426", "name": "SITOLU BANUA"}, {"id": "1214262004", "district_id": "121426", "name": "SILIMA BANUA"}, {"id": "1214262005", "district_id": "121426", "name": "MEHAGA"}, {"id": "1214262006", "district_id": "121426", "name": "SIHARE'O"}, {"id": "1214262007", "district_id": "121426", "name": "GOLAMBANUA II"}, {"id": "1214262008", "district_id": "121426", "name": "OLADANO"}, {"id": "1214262009", "district_id": "121426", "name": "FANEDANU"}, {"id": "1214262010", "district_id": "121426", "name": "HILIORAHUA TASUA"}, {"id": "1214262011", "district_id": "121426", "name": "SOMAMBAWA"}, {"id": "1214262012", "district_id": "121426", "name": "GABUNGAN TASUA"}, {"id": "1214262013", "district_id": "121426", "name": "HILIALAWA"}, {"id": "1214262014", "district_id": "121426", "name": "SINAR SUSUA"}]
+[
+  {
+    "id": "1214262001",
+    "district_id": "121426",
+    "name": "SIFITUBANUA"
+  },
+  {
+    "id": "1214262002",
+    "district_id": "121426",
+    "name": "SIWALU BANUA"
+  },
+  {
+    "id": "1214262003",
+    "district_id": "121426",
+    "name": "SITOLU BANUA"
+  },
+  {
+    "id": "1214262004",
+    "district_id": "121426",
+    "name": "SILIMA BANUA"
+  },
+  {
+    "id": "1214262005",
+    "district_id": "121426",
+    "name": "MEHAGA"
+  },
+  {
+    "id": "1214262006",
+    "district_id": "121426",
+    "name": "SIHARE'O"
+  },
+  {
+    "id": "1214262007",
+    "district_id": "121426",
+    "name": "GOLAMBANUA II"
+  },
+  {
+    "id": "1214262008",
+    "district_id": "121426",
+    "name": "OLADANO"
+  },
+  {
+    "id": "1214262009",
+    "district_id": "121426",
+    "name": "FANEDANU"
+  },
+  {
+    "id": "1214262010",
+    "district_id": "121426",
+    "name": "HILIORAHUA TASUA"
+  },
+  {
+    "id": "1214262011",
+    "district_id": "121426",
+    "name": "SOMAMBAWA"
+  },
+  {
+    "id": "1214262012",
+    "district_id": "121426",
+    "name": "GABUNGAN TASUA"
+  },
+  {
+    "id": "1214262013",
+    "district_id": "121426",
+    "name": "HILIALAWA"
+  },
+  {
+    "id": "1214262014",
+    "district_id": "121426",
+    "name": "SINAR SUSUA"
+  }
+]

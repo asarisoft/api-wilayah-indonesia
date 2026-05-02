@@ -1,1 +1,32 @@
-[{"id": "1502072009", "district_id": "150207", "name": "MUARA JERNIH"}, {"id": "1502072010", "district_id": "150207", "name": "KAPUK"}, {"id": "1502072011", "district_id": "150207", "name": "PULAU ARO"}, {"id": "1502072012", "district_id": "150207", "name": "RANTAU NGARAU"}, {"id": "1502072013", "district_id": "150207", "name": "MEDAN BARU"}, {"id": "1502072014", "district_id": "150207", "name": "MUARO SEKETUK"}]
+[
+  {
+    "id": "1502072009",
+    "district_id": "150207",
+    "name": "MUARA JERNIH"
+  },
+  {
+    "id": "1502072010",
+    "district_id": "150207",
+    "name": "KAPUK"
+  },
+  {
+    "id": "1502072011",
+    "district_id": "150207",
+    "name": "PULAU ARO"
+  },
+  {
+    "id": "1502072012",
+    "district_id": "150207",
+    "name": "RANTAU NGARAU"
+  },
+  {
+    "id": "1502072013",
+    "district_id": "150207",
+    "name": "MEDAN BARU"
+  },
+  {
+    "id": "1502072014",
+    "district_id": "150207",
+    "name": "MUARO SEKETUK"
+  }
+]

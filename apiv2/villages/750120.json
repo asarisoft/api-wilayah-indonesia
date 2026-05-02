@@ -1,1 +1,42 @@
-[{"id": "7501202001", "district_id": "750120", "name": "BILUHU BARAT"}, {"id": "7501202002", "district_id": "750120", "name": "LOBUTO"}, {"id": "7501202003", "district_id": "750120", "name": "BILUHU TENGAH"}, {"id": "7501202004", "district_id": "750120", "name": "LULUO"}, {"id": "7501202005", "district_id": "750120", "name": "HUWONGO"}, {"id": "7501202006", "district_id": "750120", "name": "LOBUTO TIMUR"}, {"id": "7501202007", "district_id": "750120", "name": "BOTUBOLU'O"}, {"id": "7501202008", "district_id": "750120", "name": "OLIMEYALA"}]
+[
+  {
+    "id": "7501202001",
+    "district_id": "750120",
+    "name": "BILUHU BARAT"
+  },
+  {
+    "id": "7501202002",
+    "district_id": "750120",
+    "name": "LOBUTO"
+  },
+  {
+    "id": "7501202003",
+    "district_id": "750120",
+    "name": "BILUHU TENGAH"
+  },
+  {
+    "id": "7501202004",
+    "district_id": "750120",
+    "name": "LULUO"
+  },
+  {
+    "id": "7501202005",
+    "district_id": "750120",
+    "name": "HUWONGO"
+  },
+  {
+    "id": "7501202006",
+    "district_id": "750120",
+    "name": "LOBUTO TIMUR"
+  },
+  {
+    "id": "7501202007",
+    "district_id": "750120",
+    "name": "BOTUBOLU'O"
+  },
+  {
+    "id": "7501202008",
+    "district_id": "750120",
+    "name": "OLIMEYALA"
+  }
+]

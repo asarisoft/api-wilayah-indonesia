@@ -1,1 +1,37 @@
-[{"id": "1209082002", "district_id": "120908", "name": "MERANTI"}, {"id": "1209082004", "district_id": "120908", "name": "PERKEBUNAN SEI BALAI"}, {"id": "1209082011", "district_id": "120908", "name": "SEI BELURU"}, {"id": "1209082012", "district_id": "120908", "name": "SERDANG"}, {"id": "1209082019", "district_id": "120908", "name": "GAJAH"}, {"id": "1209082021", "district_id": "120908", "name": "AIR PUTIH"}, {"id": "1209082022", "district_id": "120908", "name": "SUKAJADI"}]
+[
+  {
+    "id": "1209082002",
+    "district_id": "120908",
+    "name": "MERANTI"
+  },
+  {
+    "id": "1209082004",
+    "district_id": "120908",
+    "name": "PERKEBUNAN SEI BALAI"
+  },
+  {
+    "id": "1209082011",
+    "district_id": "120908",
+    "name": "SEI BELURU"
+  },
+  {
+    "id": "1209082012",
+    "district_id": "120908",
+    "name": "SERDANG"
+  },
+  {
+    "id": "1209082019",
+    "district_id": "120908",
+    "name": "GAJAH"
+  },
+  {
+    "id": "1209082021",
+    "district_id": "120908",
+    "name": "AIR PUTIH"
+  },
+  {
+    "id": "1209082022",
+    "district_id": "120908",
+    "name": "SUKAJADI"
+  }
+]

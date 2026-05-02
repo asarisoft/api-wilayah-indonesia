@@ -1,1 +1,77 @@
-[{"id": "180404", "regency_id": "1804", "name": "BALIK BUKIT"}, {"id": "180405", "regency_id": "1804", "name": "SUMBER JAYA"}, {"id": "180406", "regency_id": "1804", "name": "BELALAU"}, {"id": "180407", "regency_id": "1804", "name": "WAY TENONG"}, {"id": "180408", "regency_id": "1804", "name": "SEKINCAU"}, {"id": "180409", "regency_id": "1804", "name": "SUOH"}, {"id": "180410", "regency_id": "1804", "name": "BATU BRAK"}, {"id": "180411", "regency_id": "1804", "name": "SUKAU"}, {"id": "180415", "regency_id": "1804", "name": "GEDUNG SURIAN"}, {"id": "180418", "regency_id": "1804", "name": "KEBUN TEBU"}, {"id": "180419", "regency_id": "1804", "name": "AIR HITAM"}, {"id": "180420", "regency_id": "1804", "name": "PAGAR DEWA"}, {"id": "180421", "regency_id": "1804", "name": "BATU KETULIS"}, {"id": "180422", "regency_id": "1804", "name": "LUMBOK SEMINUNG"}, {"id": "180423", "regency_id": "1804", "name": "BANDAR NEGERI SUOH"}]
+[
+  {
+    "id": "180404",
+    "regency_id": "1804",
+    "name": "BALIK BUKIT"
+  },
+  {
+    "id": "180405",
+    "regency_id": "1804",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "180406",
+    "regency_id": "1804",
+    "name": "BELALAU"
+  },
+  {
+    "id": "180407",
+    "regency_id": "1804",
+    "name": "WAY TENONG"
+  },
+  {
+    "id": "180408",
+    "regency_id": "1804",
+    "name": "SEKINCAU"
+  },
+  {
+    "id": "180409",
+    "regency_id": "1804",
+    "name": "SUOH"
+  },
+  {
+    "id": "180410",
+    "regency_id": "1804",
+    "name": "BATU BRAK"
+  },
+  {
+    "id": "180411",
+    "regency_id": "1804",
+    "name": "SUKAU"
+  },
+  {
+    "id": "180415",
+    "regency_id": "1804",
+    "name": "GEDUNG SURIAN"
+  },
+  {
+    "id": "180418",
+    "regency_id": "1804",
+    "name": "KEBUN TEBU"
+  },
+  {
+    "id": "180419",
+    "regency_id": "1804",
+    "name": "AIR HITAM"
+  },
+  {
+    "id": "180420",
+    "regency_id": "1804",
+    "name": "PAGAR DEWA"
+  },
+  {
+    "id": "180421",
+    "regency_id": "1804",
+    "name": "BATU KETULIS"
+  },
+  {
+    "id": "180422",
+    "regency_id": "1804",
+    "name": "LUMBOK SEMINUNG"
+  },
+  {
+    "id": "180423",
+    "regency_id": "1804",
+    "name": "BANDAR NEGERI SUOH"
+  }
+]

@@ -1,1 +1,122 @@
-[{"id": "150201", "regency_id": "1502", "name": "JANGKAT"}, {"id": "150202", "regency_id": "1502", "name": "BANGKO"}, {"id": "150203", "regency_id": "1502", "name": "MUARA SIAU"}, {"id": "150204", "regency_id": "1502", "name": "SUNGAI MANAU"}, {"id": "150205", "regency_id": "1502", "name": "TABIR"}, {"id": "150206", "regency_id": "1502", "name": "PAMENANG"}, {"id": "150207", "regency_id": "1502", "name": "TABIR ULU"}, {"id": "150208", "regency_id": "1502", "name": "TABIR SELATAN"}, {"id": "150209", "regency_id": "1502", "name": "LEMBAH MASURAI"}, {"id": "150210", "regency_id": "1502", "name": "BANGKO BARAT"}, {"id": "150211", "regency_id": "1502", "name": "NALO TANTAN"}, {"id": "150212", "regency_id": "1502", "name": "BATANG MASUMAI"}, {"id": "150213", "regency_id": "1502", "name": "PAMENANG BARAT"}, {"id": "150214", "regency_id": "1502", "name": "TABIR ILIR"}, {"id": "150215", "regency_id": "1502", "name": "TABIR TIMUR"}, {"id": "150216", "regency_id": "1502", "name": "RENAH PEMBARAP"}, {"id": "150217", "regency_id": "1502", "name": "PANGKALAN JAMBU"}, {"id": "150218", "regency_id": "1502", "name": "JANGKAT TIMUR"}, {"id": "150219", "regency_id": "1502", "name": "RENAH PAMENANG"}, {"id": "150220", "regency_id": "1502", "name": "PAMENANG SELATAN"}, {"id": "150221", "regency_id": "1502", "name": "MARGO TABIR"}, {"id": "150222", "regency_id": "1502", "name": "TABIR LINTAS"}, {"id": "150223", "regency_id": "1502", "name": "TABIR BARAT"}, {"id": "150224", "regency_id": "1502", "name": "TIANG PUMPUNG"}]
+[
+  {
+    "id": "150201",
+    "regency_id": "1502",
+    "name": "JANGKAT"
+  },
+  {
+    "id": "150202",
+    "regency_id": "1502",
+    "name": "BANGKO"
+  },
+  {
+    "id": "150203",
+    "regency_id": "1502",
+    "name": "MUARA SIAU"
+  },
+  {
+    "id": "150204",
+    "regency_id": "1502",
+    "name": "SUNGAI MANAU"
+  },
+  {
+    "id": "150205",
+    "regency_id": "1502",
+    "name": "TABIR"
+  },
+  {
+    "id": "150206",
+    "regency_id": "1502",
+    "name": "PAMENANG"
+  },
+  {
+    "id": "150207",
+    "regency_id": "1502",
+    "name": "TABIR ULU"
+  },
+  {
+    "id": "150208",
+    "regency_id": "1502",
+    "name": "TABIR SELATAN"
+  },
+  {
+    "id": "150209",
+    "regency_id": "1502",
+    "name": "LEMBAH MASURAI"
+  },
+  {
+    "id": "150210",
+    "regency_id": "1502",
+    "name": "BANGKO BARAT"
+  },
+  {
+    "id": "150211",
+    "regency_id": "1502",
+    "name": "NALO TANTAN"
+  },
+  {
+    "id": "150212",
+    "regency_id": "1502",
+    "name": "BATANG MASUMAI"
+  },
+  {
+    "id": "150213",
+    "regency_id": "1502",
+    "name": "PAMENANG BARAT"
+  },
+  {
+    "id": "150214",
+    "regency_id": "1502",
+    "name": "TABIR ILIR"
+  },
+  {
+    "id": "150215",
+    "regency_id": "1502",
+    "name": "TABIR TIMUR"
+  },
+  {
+    "id": "150216",
+    "regency_id": "1502",
+    "name": "RENAH PEMBARAP"
+  },
+  {
+    "id": "150217",
+    "regency_id": "1502",
+    "name": "PANGKALAN JAMBU"
+  },
+  {
+    "id": "150218",
+    "regency_id": "1502",
+    "name": "JANGKAT TIMUR"
+  },
+  {
+    "id": "150219",
+    "regency_id": "1502",
+    "name": "RENAH PAMENANG"
+  },
+  {
+    "id": "150220",
+    "regency_id": "1502",
+    "name": "PAMENANG SELATAN"
+  },
+  {
+    "id": "150221",
+    "regency_id": "1502",
+    "name": "MARGO TABIR"
+  },
+  {
+    "id": "150222",
+    "regency_id": "1502",
+    "name": "TABIR LINTAS"
+  },
+  {
+    "id": "150223",
+    "regency_id": "1502",
+    "name": "TABIR BARAT"
+  },
+  {
+    "id": "150224",
+    "regency_id": "1502",
+    "name": "TIANG PUMPUNG"
+  }
+]

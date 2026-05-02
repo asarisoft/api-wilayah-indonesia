@@ -1,1 +1,27 @@
-[{"id": "1502222001", "district_id": "150222", "name": "TAMBANG BARU"}, {"id": "1502222002", "district_id": "150222", "name": "SIDO LEGO"}, {"id": "1502222003", "district_id": "150222", "name": "MENSANGO"}, {"id": "1502222004", "district_id": "150222", "name": "KOTO BARU"}, {"id": "1502222005", "district_id": "150222", "name": "SIDO HARJO"}]
+[
+  {
+    "id": "1502222001",
+    "district_id": "150222",
+    "name": "TAMBANG BARU"
+  },
+  {
+    "id": "1502222002",
+    "district_id": "150222",
+    "name": "SIDO LEGO"
+  },
+  {
+    "id": "1502222003",
+    "district_id": "150222",
+    "name": "MENSANGO"
+  },
+  {
+    "id": "1502222004",
+    "district_id": "150222",
+    "name": "KOTO BARU"
+  },
+  {
+    "id": "1502222005",
+    "district_id": "150222",
+    "name": "SIDO HARJO"
+  }
+]

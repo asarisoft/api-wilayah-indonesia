@@ -1,1 +1,22 @@
-[{"id": "7603141001", "district_id": "760314", "name": "TAWALIAN"}, {"id": "7603142002", "district_id": "760314", "name": "TAWALIAN TIMUR"}, {"id": "7603142003", "district_id": "760314", "name": "KARIANGO"}, {"id": "7603142004", "district_id": "760314", "name": "RANTETANGNGA"}]
+[
+  {
+    "id": "7603141001",
+    "district_id": "760314",
+    "name": "TAWALIAN"
+  },
+  {
+    "id": "7603142002",
+    "district_id": "760314",
+    "name": "TAWALIAN TIMUR"
+  },
+  {
+    "id": "7603142003",
+    "district_id": "760314",
+    "name": "KARIANGO"
+  },
+  {
+    "id": "7603142004",
+    "district_id": "760314",
+    "name": "RANTETANGNGA"
+  }
+]

@@ -1,1 +1,17 @@
-[{"id": "2104122001", "district_id": "210412", "name": "TEMIANG"}, {"id": "2104122002", "district_id": "210412", "name": "TAJUR BIRU"}, {"id": "2104122003", "district_id": "210412", "name": "PULAU BATANG"}]
+[
+  {
+    "id": "2104122001",
+    "district_id": "210412",
+    "name": "TEMIANG"
+  },
+  {
+    "id": "2104122002",
+    "district_id": "210412",
+    "name": "TAJUR BIRU"
+  },
+  {
+    "id": "2104122003",
+    "district_id": "210412",
+    "name": "PULAU BATANG"
+  }
+]

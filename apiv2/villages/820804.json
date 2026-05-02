@@ -1,1 +1,97 @@
-[{"id": "8208042001", "district_id": "820804", "name": "MANANGA"}, {"id": "8208042002", "district_id": "820804", "name": "TANJUNG UNA"}, {"id": "8208042003", "district_id": "820804", "name": "JORJOGA"}, {"id": "8208042004", "district_id": "820804", "name": "GELA"}, {"id": "8208042005", "district_id": "820804", "name": "MINTON"}, {"id": "8208042006", "district_id": "820804", "name": "NUNCA"}, {"id": "8208042007", "district_id": "820804", "name": "SAHU"}, {"id": "8208042008", "district_id": "820804", "name": "BUA MBONO"}, {"id": "8208042009", "district_id": "820804", "name": "HAI"}, {"id": "8208042010", "district_id": "820804", "name": "TIKONG"}, {"id": "8208042011", "district_id": "820804", "name": "DEGE"}, {"id": "8208042012", "district_id": "820804", "name": "AIR BULAN"}, {"id": "8208042013", "district_id": "820804", "name": "AIR KALIMAT"}, {"id": "8208042014", "district_id": "820804", "name": "UFUNG"}, {"id": "8208042015", "district_id": "820804", "name": "PADANG"}, {"id": "8208042016", "district_id": "820804", "name": "NATANG KUNING"}, {"id": "8208042017", "district_id": "820804", "name": "NUNU"}, {"id": "8208042018", "district_id": "820804", "name": "LONDON"}, {"id": "8208042019", "district_id": "820804", "name": "WAHE"}]
+[
+  {
+    "id": "8208042001",
+    "district_id": "820804",
+    "name": "MANANGA"
+  },
+  {
+    "id": "8208042002",
+    "district_id": "820804",
+    "name": "TANJUNG UNA"
+  },
+  {
+    "id": "8208042003",
+    "district_id": "820804",
+    "name": "JORJOGA"
+  },
+  {
+    "id": "8208042004",
+    "district_id": "820804",
+    "name": "GELA"
+  },
+  {
+    "id": "8208042005",
+    "district_id": "820804",
+    "name": "MINTON"
+  },
+  {
+    "id": "8208042006",
+    "district_id": "820804",
+    "name": "NUNCA"
+  },
+  {
+    "id": "8208042007",
+    "district_id": "820804",
+    "name": "SAHU"
+  },
+  {
+    "id": "8208042008",
+    "district_id": "820804",
+    "name": "BUA MBONO"
+  },
+  {
+    "id": "8208042009",
+    "district_id": "820804",
+    "name": "HAI"
+  },
+  {
+    "id": "8208042010",
+    "district_id": "820804",
+    "name": "TIKONG"
+  },
+  {
+    "id": "8208042011",
+    "district_id": "820804",
+    "name": "DEGE"
+  },
+  {
+    "id": "8208042012",
+    "district_id": "820804",
+    "name": "AIR BULAN"
+  },
+  {
+    "id": "8208042013",
+    "district_id": "820804",
+    "name": "AIR KALIMAT"
+  },
+  {
+    "id": "8208042014",
+    "district_id": "820804",
+    "name": "UFUNG"
+  },
+  {
+    "id": "8208042015",
+    "district_id": "820804",
+    "name": "PADANG"
+  },
+  {
+    "id": "8208042016",
+    "district_id": "820804",
+    "name": "NATANG KUNING"
+  },
+  {
+    "id": "8208042017",
+    "district_id": "820804",
+    "name": "NUNU"
+  },
+  {
+    "id": "8208042018",
+    "district_id": "820804",
+    "name": "LONDON"
+  },
+  {
+    "id": "8208042019",
+    "district_id": "820804",
+    "name": "WAHE"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "9501212001", "district_id": "950121", "name": "USILIMO"}, {"id": "9501212002", "district_id": "950121", "name": "SIBA"}, {"id": "9501212003", "district_id": "950121", "name": "WOSIALA"}, {"id": "9501212004", "district_id": "950121", "name": "GUA WISATA"}, {"id": "9501212005", "district_id": "950121", "name": "UNDULUMO"}, {"id": "9501212006", "district_id": "950121", "name": "FIKHA"}, {"id": "9501212007", "district_id": "950121", "name": "MEAGAMIA"}, {"id": "9501212008", "district_id": "950121", "name": "ALONA"}, {"id": "9501212009", "district_id": "950121", "name": "ABUTPUK"}, {"id": "9501212010", "district_id": "950121", "name": "ISAIMAN"}]
+[
+  {
+    "id": "9501212001",
+    "district_id": "950121",
+    "name": "USILIMO"
+  },
+  {
+    "id": "9501212002",
+    "district_id": "950121",
+    "name": "SIBA"
+  },
+  {
+    "id": "9501212003",
+    "district_id": "950121",
+    "name": "WOSIALA"
+  },
+  {
+    "id": "9501212004",
+    "district_id": "950121",
+    "name": "GUA WISATA"
+  },
+  {
+    "id": "9501212005",
+    "district_id": "950121",
+    "name": "UNDULUMO"
+  },
+  {
+    "id": "9501212006",
+    "district_id": "950121",
+    "name": "FIKHA"
+  },
+  {
+    "id": "9501212007",
+    "district_id": "950121",
+    "name": "MEAGAMIA"
+  },
+  {
+    "id": "9501212008",
+    "district_id": "950121",
+    "name": "ALONA"
+  },
+  {
+    "id": "9501212009",
+    "district_id": "950121",
+    "name": "ABUTPUK"
+  },
+  {
+    "id": "9501212010",
+    "district_id": "950121",
+    "name": "ISAIMAN"
+  }
+]

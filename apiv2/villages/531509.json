@@ -1,1 +1,77 @@
-[{"id": "5315092001", "district_id": "531509", "name": "REPI"}, {"id": "5315092002", "district_id": "531509", "name": "WATU WAJA"}, {"id": "5315092003", "district_id": "531509", "name": "SURUNUMBENG"}, {"id": "5315092004", "district_id": "531509", "name": "MUNTING"}, {"id": "5315092005", "district_id": "531509", "name": "KAKOR"}, {"id": "5315092006", "district_id": "531509", "name": "LALONG"}, {"id": "5315092007", "district_id": "531509", "name": "WAE MOSE"}, {"id": "5315092008", "district_id": "531509", "name": "NANGA LILI"}, {"id": "5315092009", "district_id": "531509", "name": "NANGA BERE"}, {"id": "5315092010", "district_id": "531509", "name": "BENTENG DEWA"}, {"id": "5315092011", "district_id": "531509", "name": "WATU RAMBUNG"}, {"id": "5315092012", "district_id": "531509", "name": "LENDONG"}, {"id": "5315092013", "district_id": "531509", "name": "WATU TIRI"}, {"id": "5315092014", "district_id": "531509", "name": "BENTENG TADO"}, {"id": "5315092015", "district_id": "531509", "name": "MODO"}]
+[
+  {
+    "id": "5315092001",
+    "district_id": "531509",
+    "name": "REPI"
+  },
+  {
+    "id": "5315092002",
+    "district_id": "531509",
+    "name": "WATU WAJA"
+  },
+  {
+    "id": "5315092003",
+    "district_id": "531509",
+    "name": "SURUNUMBENG"
+  },
+  {
+    "id": "5315092004",
+    "district_id": "531509",
+    "name": "MUNTING"
+  },
+  {
+    "id": "5315092005",
+    "district_id": "531509",
+    "name": "KAKOR"
+  },
+  {
+    "id": "5315092006",
+    "district_id": "531509",
+    "name": "LALONG"
+  },
+  {
+    "id": "5315092007",
+    "district_id": "531509",
+    "name": "WAE MOSE"
+  },
+  {
+    "id": "5315092008",
+    "district_id": "531509",
+    "name": "NANGA LILI"
+  },
+  {
+    "id": "5315092009",
+    "district_id": "531509",
+    "name": "NANGA BERE"
+  },
+  {
+    "id": "5315092010",
+    "district_id": "531509",
+    "name": "BENTENG DEWA"
+  },
+  {
+    "id": "5315092011",
+    "district_id": "531509",
+    "name": "WATU RAMBUNG"
+  },
+  {
+    "id": "5315092012",
+    "district_id": "531509",
+    "name": "LENDONG"
+  },
+  {
+    "id": "5315092013",
+    "district_id": "531509",
+    "name": "WATU TIRI"
+  },
+  {
+    "id": "5315092014",
+    "district_id": "531509",
+    "name": "BENTENG TADO"
+  },
+  {
+    "id": "5315092015",
+    "district_id": "531509",
+    "name": "MODO"
+  }
+]

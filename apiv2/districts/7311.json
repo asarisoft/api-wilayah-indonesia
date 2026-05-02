@@ -1,1 +1,37 @@
-[{"id": "731101", "regency_id": "7311", "name": "TANETE RIAJA"}, {"id": "731102", "regency_id": "7311", "name": "TANETE RILAU"}, {"id": "731103", "regency_id": "7311", "name": "BARRU"}, {"id": "731104", "regency_id": "7311", "name": "SOPPENG RIAJA"}, {"id": "731105", "regency_id": "7311", "name": "MALLUSETASI"}, {"id": "731106", "regency_id": "7311", "name": "PUJANANTING"}, {"id": "731107", "regency_id": "7311", "name": "BALUSU"}]
+[
+  {
+    "id": "731101",
+    "regency_id": "7311",
+    "name": "TANETE RIAJA"
+  },
+  {
+    "id": "731102",
+    "regency_id": "7311",
+    "name": "TANETE RILAU"
+  },
+  {
+    "id": "731103",
+    "regency_id": "7311",
+    "name": "BARRU"
+  },
+  {
+    "id": "731104",
+    "regency_id": "7311",
+    "name": "SOPPENG RIAJA"
+  },
+  {
+    "id": "731105",
+    "regency_id": "7311",
+    "name": "MALLUSETASI"
+  },
+  {
+    "id": "731106",
+    "regency_id": "7311",
+    "name": "PUJANANTING"
+  },
+  {
+    "id": "731107",
+    "regency_id": "7311",
+    "name": "BALUSU"
+  }
+]

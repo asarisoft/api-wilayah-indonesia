@@ -1,1 +1,42 @@
-[{"id": "9602062001", "district_id": "960206", "name": "HAHA"}, {"id": "9602062002", "district_id": "960206", "name": "KLAOGIN"}, {"id": "9602062003", "district_id": "960206", "name": "TOFOT"}, {"id": "9602062004", "district_id": "960206", "name": "SBIR"}, {"id": "9602062005", "district_id": "960206", "name": "SRER"}, {"id": "9602062006", "district_id": "960206", "name": "WOLOIN"}, {"id": "9602062007", "district_id": "960206", "name": "KAMARO"}, {"id": "9602062008", "district_id": "960206", "name": "KAKAS"}]
+[
+  {
+    "id": "9602062001",
+    "district_id": "960206",
+    "name": "HAHA"
+  },
+  {
+    "id": "9602062002",
+    "district_id": "960206",
+    "name": "KLAOGIN"
+  },
+  {
+    "id": "9602062003",
+    "district_id": "960206",
+    "name": "TOFOT"
+  },
+  {
+    "id": "9602062004",
+    "district_id": "960206",
+    "name": "SBIR"
+  },
+  {
+    "id": "9602062005",
+    "district_id": "960206",
+    "name": "SRER"
+  },
+  {
+    "id": "9602062006",
+    "district_id": "960206",
+    "name": "WOLOIN"
+  },
+  {
+    "id": "9602062007",
+    "district_id": "960206",
+    "name": "KAMARO"
+  },
+  {
+    "id": "9602062008",
+    "district_id": "960206",
+    "name": "KAKAS"
+  }
+]

@@ -1,1 +1,87 @@
-[{"id": "1116082001", "district_id": "111608", "name": "BENUA RAJA"}, {"id": "1116082002", "district_id": "111608", "name": "LANDUH"}, {"id": "1116082003", "district_id": "111608", "name": "PAYA BEDI"}, {"id": "1116082004", "district_id": "111608", "name": "INGIN JAYA"}, {"id": "1116082005", "district_id": "111608", "name": "SUKA RAHMAT"}, {"id": "1116082006", "district_id": "111608", "name": "SUKA JADI"}, {"id": "1116082007", "district_id": "111608", "name": "DURIAN"}, {"id": "1116082008", "district_id": "111608", "name": "RANTAU PAUH"}, {"id": "1116082009", "district_id": "111608", "name": "ALUR CUCUR"}, {"id": "1116082010", "district_id": "111608", "name": "PERTAMINA"}, {"id": "1116082011", "district_id": "111608", "name": "KEBUN RANTAU"}, {"id": "1116082012", "district_id": "111608", "name": "ALUR MANIS"}, {"id": "1116082013", "district_id": "111608", "name": "JAMUR JELATANG"}, {"id": "1116082014", "district_id": "111608", "name": "SUKA RAKYAT"}, {"id": "1116082015", "district_id": "111608", "name": "JAMUR LABU"}, {"id": "1116082016", "district_id": "111608", "name": "SUKA MULIA"}, {"id": "1116082017", "district_id": "111608", "name": "MEKAR JAYA"}]
+[
+  {
+    "id": "1116082001",
+    "district_id": "111608",
+    "name": "BENUA RAJA"
+  },
+  {
+    "id": "1116082002",
+    "district_id": "111608",
+    "name": "LANDUH"
+  },
+  {
+    "id": "1116082003",
+    "district_id": "111608",
+    "name": "PAYA BEDI"
+  },
+  {
+    "id": "1116082004",
+    "district_id": "111608",
+    "name": "INGIN JAYA"
+  },
+  {
+    "id": "1116082005",
+    "district_id": "111608",
+    "name": "SUKA RAHMAT"
+  },
+  {
+    "id": "1116082006",
+    "district_id": "111608",
+    "name": "SUKA JADI"
+  },
+  {
+    "id": "1116082007",
+    "district_id": "111608",
+    "name": "DURIAN"
+  },
+  {
+    "id": "1116082008",
+    "district_id": "111608",
+    "name": "RANTAU PAUH"
+  },
+  {
+    "id": "1116082009",
+    "district_id": "111608",
+    "name": "ALUR CUCUR"
+  },
+  {
+    "id": "1116082010",
+    "district_id": "111608",
+    "name": "PERTAMINA"
+  },
+  {
+    "id": "1116082011",
+    "district_id": "111608",
+    "name": "KEBUN RANTAU"
+  },
+  {
+    "id": "1116082012",
+    "district_id": "111608",
+    "name": "ALUR MANIS"
+  },
+  {
+    "id": "1116082013",
+    "district_id": "111608",
+    "name": "JAMUR JELATANG"
+  },
+  {
+    "id": "1116082014",
+    "district_id": "111608",
+    "name": "SUKA RAKYAT"
+  },
+  {
+    "id": "1116082015",
+    "district_id": "111608",
+    "name": "JAMUR LABU"
+  },
+  {
+    "id": "1116082016",
+    "district_id": "111608",
+    "name": "SUKA MULIA"
+  },
+  {
+    "id": "1116082017",
+    "district_id": "111608",
+    "name": "MEKAR JAYA"
+  }
+]

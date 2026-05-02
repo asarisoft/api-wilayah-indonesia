@@ -1,1 +1,67 @@
-[{"id": "1208061008", "district_id": "120806", "name": "TIGA BALATA"}, {"id": "1208062001", "district_id": "120806", "name": "KASINDIR"}, {"id": "1208062002", "district_id": "120806", "name": "SIBUNGA BUNGA"}, {"id": "1208062003", "district_id": "120806", "name": "JORLANG HATARAN"}, {"id": "1208062004", "district_id": "120806", "name": "BAH SAMPURAN"}, {"id": "1208062005", "district_id": "120806", "name": "BAH BIRONG ULU"}, {"id": "1208062006", "district_id": "120806", "name": "PINANG RATUS"}, {"id": "1208062007", "district_id": "120806", "name": "DOLOK MARLAWAN"}, {"id": "1208062009", "district_id": "120806", "name": "PANOMBEAN HUTAURUNG"}, {"id": "1208062010", "district_id": "120806", "name": "DIPAR HATARAN"}, {"id": "1208062011", "district_id": "120806", "name": "PAGAR PINANG"}, {"id": "1208062012", "district_id": "120806", "name": "DOLOK PARRIASAN"}, {"id": "1208062013", "district_id": "120806", "name": "PARMONANGAN"}]
+[
+  {
+    "id": "1208061008",
+    "district_id": "120806",
+    "name": "TIGA BALATA"
+  },
+  {
+    "id": "1208062001",
+    "district_id": "120806",
+    "name": "KASINDIR"
+  },
+  {
+    "id": "1208062002",
+    "district_id": "120806",
+    "name": "SIBUNGA BUNGA"
+  },
+  {
+    "id": "1208062003",
+    "district_id": "120806",
+    "name": "JORLANG HATARAN"
+  },
+  {
+    "id": "1208062004",
+    "district_id": "120806",
+    "name": "BAH SAMPURAN"
+  },
+  {
+    "id": "1208062005",
+    "district_id": "120806",
+    "name": "BAH BIRONG ULU"
+  },
+  {
+    "id": "1208062006",
+    "district_id": "120806",
+    "name": "PINANG RATUS"
+  },
+  {
+    "id": "1208062007",
+    "district_id": "120806",
+    "name": "DOLOK MARLAWAN"
+  },
+  {
+    "id": "1208062009",
+    "district_id": "120806",
+    "name": "PANOMBEAN HUTAURUNG"
+  },
+  {
+    "id": "1208062010",
+    "district_id": "120806",
+    "name": "DIPAR HATARAN"
+  },
+  {
+    "id": "1208062011",
+    "district_id": "120806",
+    "name": "PAGAR PINANG"
+  },
+  {
+    "id": "1208062012",
+    "district_id": "120806",
+    "name": "DOLOK PARRIASAN"
+  },
+  {
+    "id": "1208062013",
+    "district_id": "120806",
+    "name": "PARMONANGAN"
+  }
+]

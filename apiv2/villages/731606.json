@@ -1,1 +1,32 @@
-[{"id": "7316062002", "district_id": "731606", "name": "BUNGIN"}, {"id": "7316062003", "district_id": "731606", "name": "TALANG RILAU"}, {"id": "7316062004", "district_id": "731606", "name": "BARUKA"}, {"id": "7316062008", "district_id": "731606", "name": "SAWITTO"}, {"id": "7316062009", "district_id": "731606", "name": "BULO"}, {"id": "7316062010", "district_id": "731606", "name": "BANUA"}]
+[
+  {
+    "id": "7316062002",
+    "district_id": "731606",
+    "name": "BUNGIN"
+  },
+  {
+    "id": "7316062003",
+    "district_id": "731606",
+    "name": "TALANG RILAU"
+  },
+  {
+    "id": "7316062004",
+    "district_id": "731606",
+    "name": "BARUKA"
+  },
+  {
+    "id": "7316062008",
+    "district_id": "731606",
+    "name": "SAWITTO"
+  },
+  {
+    "id": "7316062009",
+    "district_id": "731606",
+    "name": "BULO"
+  },
+  {
+    "id": "7316062010",
+    "district_id": "731606",
+    "name": "BANUA"
+  }
+]

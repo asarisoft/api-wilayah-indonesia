@@ -1,1 +1,52 @@
-[{"id": "7326061002", "district_id": "732606", "name": "SA'DAN MALIMBONG"}, {"id": "7326061004", "district_id": "732606", "name": "SA'DAN MATALO"}, {"id": "7326062001", "district_id": "732606", "name": "SA'DAN ULUSALU"}, {"id": "7326062003", "district_id": "732606", "name": "SA'DAN BALLO PASANGE'"}, {"id": "7326062005", "district_id": "732606", "name": "SA'DAN PEBULIAN"}, {"id": "7326062006", "district_id": "732606", "name": "SA'DAN SANGKAROPI'"}, {"id": "7326062007", "district_id": "732606", "name": "SA'DAN TIROALLO"}, {"id": "7326062008", "district_id": "732606", "name": "SA'DAN ANDULAN"}, {"id": "7326062009", "district_id": "732606", "name": "SA'DAN PESONDONGAN"}, {"id": "7326062010", "district_id": "732606", "name": "SA'DAN LIKU LAMBE'"}]
+[
+  {
+    "id": "7326061002",
+    "district_id": "732606",
+    "name": "SA'DAN MALIMBONG"
+  },
+  {
+    "id": "7326061004",
+    "district_id": "732606",
+    "name": "SA'DAN MATALO"
+  },
+  {
+    "id": "7326062001",
+    "district_id": "732606",
+    "name": "SA'DAN ULUSALU"
+  },
+  {
+    "id": "7326062003",
+    "district_id": "732606",
+    "name": "SA'DAN BALLO PASANGE'"
+  },
+  {
+    "id": "7326062005",
+    "district_id": "732606",
+    "name": "SA'DAN PEBULIAN"
+  },
+  {
+    "id": "7326062006",
+    "district_id": "732606",
+    "name": "SA'DAN SANGKAROPI'"
+  },
+  {
+    "id": "7326062007",
+    "district_id": "732606",
+    "name": "SA'DAN TIROALLO"
+  },
+  {
+    "id": "7326062008",
+    "district_id": "732606",
+    "name": "SA'DAN ANDULAN"
+  },
+  {
+    "id": "7326062009",
+    "district_id": "732606",
+    "name": "SA'DAN PESONDONGAN"
+  },
+  {
+    "id": "7326062010",
+    "district_id": "732606",
+    "name": "SA'DAN LIKU LAMBE'"
+  }
+]

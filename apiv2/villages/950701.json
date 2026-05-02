@@ -1,1 +1,57 @@
-[{"id": "9507011001", "district_id": "950701", "name": "BOKON"}, {"id": "9507012002", "district_id": "950701", "name": "OYI"}, {"id": "9507012003", "district_id": "950701", "name": "GURIKA"}, {"id": "9507012004", "district_id": "950701", "name": "OLUME"}, {"id": "9507012005", "district_id": "950701", "name": "DURA"}, {"id": "9507012006", "district_id": "950701", "name": "LANGGALO"}, {"id": "9507012007", "district_id": "950701", "name": "KUAPUR"}, {"id": "9507012008", "district_id": "950701", "name": "WADINALOME"}, {"id": "9507012009", "district_id": "950701", "name": "YILONDUM"}, {"id": "9507012010", "district_id": "950701", "name": "PALUNGGAME"}, {"id": "9507012011", "district_id": "950701", "name": "GINIME"}]
+[
+  {
+    "id": "9507011001",
+    "district_id": "950701",
+    "name": "BOKON"
+  },
+  {
+    "id": "9507012002",
+    "district_id": "950701",
+    "name": "OYI"
+  },
+  {
+    "id": "9507012003",
+    "district_id": "950701",
+    "name": "GURIKA"
+  },
+  {
+    "id": "9507012004",
+    "district_id": "950701",
+    "name": "OLUME"
+  },
+  {
+    "id": "9507012005",
+    "district_id": "950701",
+    "name": "DURA"
+  },
+  {
+    "id": "9507012006",
+    "district_id": "950701",
+    "name": "LANGGALO"
+  },
+  {
+    "id": "9507012007",
+    "district_id": "950701",
+    "name": "KUAPUR"
+  },
+  {
+    "id": "9507012008",
+    "district_id": "950701",
+    "name": "WADINALOME"
+  },
+  {
+    "id": "9507012009",
+    "district_id": "950701",
+    "name": "YILONDUM"
+  },
+  {
+    "id": "9507012010",
+    "district_id": "950701",
+    "name": "PALUNGGAME"
+  },
+  {
+    "id": "9507012011",
+    "district_id": "950701",
+    "name": "GINIME"
+  }
+]

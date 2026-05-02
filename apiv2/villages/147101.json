@@ -1,1 +1,37 @@
-[{"id": "1471011002", "district_id": "147101", "name": "JADIREJO"}, {"id": "1471011003", "district_id": "147101", "name": "KAMPUNG TENGAH"}, {"id": "1471011004", "district_id": "147101", "name": "KAMPUNG MELAYU"}, {"id": "1471011005", "district_id": "147101", "name": "KEDUNG SARI"}, {"id": "1471011006", "district_id": "147101", "name": "HARJOSARI"}, {"id": "1471011007", "district_id": "147101", "name": "SUKAJADI"}, {"id": "1471011008", "district_id": "147101", "name": "PULAU KAROMAH"}]
+[
+  {
+    "id": "1471011002",
+    "district_id": "147101",
+    "name": "JADIREJO"
+  },
+  {
+    "id": "1471011003",
+    "district_id": "147101",
+    "name": "KAMPUNG TENGAH"
+  },
+  {
+    "id": "1471011004",
+    "district_id": "147101",
+    "name": "KAMPUNG MELAYU"
+  },
+  {
+    "id": "1471011005",
+    "district_id": "147101",
+    "name": "KEDUNG SARI"
+  },
+  {
+    "id": "1471011006",
+    "district_id": "147101",
+    "name": "HARJOSARI"
+  },
+  {
+    "id": "1471011007",
+    "district_id": "147101",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "1471011008",
+    "district_id": "147101",
+    "name": "PULAU KAROMAH"
+  }
+]

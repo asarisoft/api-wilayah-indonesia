@@ -1,1 +1,52 @@
-[{"id": "3309012001", "district_id": "330901", "name": "TLOGOLELE"}, {"id": "3309012002", "district_id": "330901", "name": "KLAKAH"}, {"id": "3309012003", "district_id": "330901", "name": "JRAKAH"}, {"id": "3309012004", "district_id": "330901", "name": "LENCOH"}, {"id": "3309012005", "district_id": "330901", "name": "SUROTELENG"}, {"id": "3309012006", "district_id": "330901", "name": "SAMIRAN"}, {"id": "3309012007", "district_id": "330901", "name": "SELO"}, {"id": "3309012008", "district_id": "330901", "name": "TARUBATANG"}, {"id": "3309012009", "district_id": "330901", "name": "SENDEN"}, {"id": "3309012010", "district_id": "330901", "name": "JERUK"}]
+[
+  {
+    "id": "3309012001",
+    "district_id": "330901",
+    "name": "TLOGOLELE"
+  },
+  {
+    "id": "3309012002",
+    "district_id": "330901",
+    "name": "KLAKAH"
+  },
+  {
+    "id": "3309012003",
+    "district_id": "330901",
+    "name": "JRAKAH"
+  },
+  {
+    "id": "3309012004",
+    "district_id": "330901",
+    "name": "LENCOH"
+  },
+  {
+    "id": "3309012005",
+    "district_id": "330901",
+    "name": "SUROTELENG"
+  },
+  {
+    "id": "3309012006",
+    "district_id": "330901",
+    "name": "SAMIRAN"
+  },
+  {
+    "id": "3309012007",
+    "district_id": "330901",
+    "name": "SELO"
+  },
+  {
+    "id": "3309012008",
+    "district_id": "330901",
+    "name": "TARUBATANG"
+  },
+  {
+    "id": "3309012009",
+    "district_id": "330901",
+    "name": "SENDEN"
+  },
+  {
+    "id": "3309012010",
+    "district_id": "330901",
+    "name": "JERUK"
+  }
+]

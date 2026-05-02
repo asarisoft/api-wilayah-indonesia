@@ -1,1 +1,27 @@
-[{"id": "1903072001", "district_id": "190307", "name": "BATU BETUMPANG"}, {"id": "1903072002", "district_id": "190307", "name": "SUKAJAYA"}, {"id": "1903072003", "district_id": "190307", "name": "PANCA TUNGGAL"}, {"id": "1903072004", "district_id": "190307", "name": "SUMBER JAYA PERMAI"}, {"id": "1903072005", "district_id": "190307", "name": "FAJAR INDAH"}]
+[
+  {
+    "id": "1903072001",
+    "district_id": "190307",
+    "name": "BATU BETUMPANG"
+  },
+  {
+    "id": "1903072002",
+    "district_id": "190307",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "1903072003",
+    "district_id": "190307",
+    "name": "PANCA TUNGGAL"
+  },
+  {
+    "id": "1903072004",
+    "district_id": "190307",
+    "name": "SUMBER JAYA PERMAI"
+  },
+  {
+    "id": "1903072005",
+    "district_id": "190307",
+    "name": "FAJAR INDAH"
+  }
+]

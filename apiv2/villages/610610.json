@@ -1,1 +1,62 @@
-[{"id": "6106102001", "district_id": "610610", "name": "SEMITAU HULU"}, {"id": "6106102002", "district_id": "610610", "name": "KENERAK"}, {"id": "6106102003", "district_id": "610610", "name": "NANGA SEBERUANG"}, {"id": "6106102004", "district_id": "610610", "name": "ENTIPAN"}, {"id": "6106102005", "district_id": "610610", "name": "KENEPAI KOMPLEK"}, {"id": "6106102006", "district_id": "610610", "name": "SEMITAU HILIR"}, {"id": "6106102007", "district_id": "610610", "name": "NANGA KENEPAI"}, {"id": "6106102008", "district_id": "610610", "name": "TUA' ABANG"}, {"id": "6106102009", "district_id": "610610", "name": "NANGA LEMEDAK"}, {"id": "6106102010", "district_id": "610610", "name": "MARSEDAN RAYA"}, {"id": "6106102011", "district_id": "610610", "name": "PADUNG KUMANG"}, {"id": "6106102012", "district_id": "610610", "name": "SEKEDAU"}]
+[
+  {
+    "id": "6106102001",
+    "district_id": "610610",
+    "name": "SEMITAU HULU"
+  },
+  {
+    "id": "6106102002",
+    "district_id": "610610",
+    "name": "KENERAK"
+  },
+  {
+    "id": "6106102003",
+    "district_id": "610610",
+    "name": "NANGA SEBERUANG"
+  },
+  {
+    "id": "6106102004",
+    "district_id": "610610",
+    "name": "ENTIPAN"
+  },
+  {
+    "id": "6106102005",
+    "district_id": "610610",
+    "name": "KENEPAI KOMPLEK"
+  },
+  {
+    "id": "6106102006",
+    "district_id": "610610",
+    "name": "SEMITAU HILIR"
+  },
+  {
+    "id": "6106102007",
+    "district_id": "610610",
+    "name": "NANGA KENEPAI"
+  },
+  {
+    "id": "6106102008",
+    "district_id": "610610",
+    "name": "TUA' ABANG"
+  },
+  {
+    "id": "6106102009",
+    "district_id": "610610",
+    "name": "NANGA LEMEDAK"
+  },
+  {
+    "id": "6106102010",
+    "district_id": "610610",
+    "name": "MARSEDAN RAYA"
+  },
+  {
+    "id": "6106102011",
+    "district_id": "610610",
+    "name": "PADUNG KUMANG"
+  },
+  {
+    "id": "6106102012",
+    "district_id": "610610",
+    "name": "SEKEDAU"
+  }
+]

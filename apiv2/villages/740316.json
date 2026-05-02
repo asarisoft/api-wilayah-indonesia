@@ -1,1 +1,42 @@
-[{"id": "7403161001", "district_id": "740316", "name": "WATONEA"}, {"id": "7403161002", "district_id": "740316", "name": "RAHA III"}, {"id": "7403161003", "district_id": "740316", "name": "WAMPONIKI"}, {"id": "7403161004", "district_id": "740316", "name": "BUTUNG BUTUNG"}, {"id": "7403161005", "district_id": "740316", "name": "RAHA II"}, {"id": "7403161006", "district_id": "740316", "name": "FOO KUNI"}, {"id": "7403161007", "district_id": "740316", "name": "LAENDE"}, {"id": "7403161008", "district_id": "740316", "name": "RAHA I"}]
+[
+  {
+    "id": "7403161001",
+    "district_id": "740316",
+    "name": "WATONEA"
+  },
+  {
+    "id": "7403161002",
+    "district_id": "740316",
+    "name": "RAHA III"
+  },
+  {
+    "id": "7403161003",
+    "district_id": "740316",
+    "name": "WAMPONIKI"
+  },
+  {
+    "id": "7403161004",
+    "district_id": "740316",
+    "name": "BUTUNG BUTUNG"
+  },
+  {
+    "id": "7403161005",
+    "district_id": "740316",
+    "name": "RAHA II"
+  },
+  {
+    "id": "7403161006",
+    "district_id": "740316",
+    "name": "FOO KUNI"
+  },
+  {
+    "id": "7403161007",
+    "district_id": "740316",
+    "name": "LAENDE"
+  },
+  {
+    "id": "7403161008",
+    "district_id": "740316",
+    "name": "RAHA I"
+  }
+]

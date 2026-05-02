@@ -1,1 +1,22 @@
-[{"id": "9501392001", "district_id": "950139", "name": "WAME"}, {"id": "9501392002", "district_id": "950139", "name": "DUMAPAGA"}, {"id": "9501392003", "district_id": "950139", "name": "YANENGGAME"}, {"id": "9501392004", "district_id": "950139", "name": "DOGONAME"}]
+[
+  {
+    "id": "9501392001",
+    "district_id": "950139",
+    "name": "WAME"
+  },
+  {
+    "id": "9501392002",
+    "district_id": "950139",
+    "name": "DUMAPAGA"
+  },
+  {
+    "id": "9501392003",
+    "district_id": "950139",
+    "name": "YANENGGAME"
+  },
+  {
+    "id": "9501392004",
+    "district_id": "950139",
+    "name": "DOGONAME"
+  }
+]

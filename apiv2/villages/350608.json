@@ -1,1 +1,42 @@
-[{"id": "3506082001", "district_id": "350608", "name": "PUNCU"}, {"id": "3506082002", "district_id": "350608", "name": "ASMOROBANGUN"}, {"id": "3506082003", "district_id": "350608", "name": "MANGGIS"}, {"id": "3506082004", "district_id": "350608", "name": "SIDOMULYO"}, {"id": "3506082005", "district_id": "350608", "name": "WATUGEDE"}, {"id": "3506082006", "district_id": "350608", "name": "GADUNGAN"}, {"id": "3506082007", "district_id": "350608", "name": "WONOREJO"}, {"id": "3506082008", "district_id": "350608", "name": "SATAK"}]
+[
+  {
+    "id": "3506082001",
+    "district_id": "350608",
+    "name": "PUNCU"
+  },
+  {
+    "id": "3506082002",
+    "district_id": "350608",
+    "name": "ASMOROBANGUN"
+  },
+  {
+    "id": "3506082003",
+    "district_id": "350608",
+    "name": "MANGGIS"
+  },
+  {
+    "id": "3506082004",
+    "district_id": "350608",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3506082005",
+    "district_id": "350608",
+    "name": "WATUGEDE"
+  },
+  {
+    "id": "3506082006",
+    "district_id": "350608",
+    "name": "GADUNGAN"
+  },
+  {
+    "id": "3506082007",
+    "district_id": "350608",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3506082008",
+    "district_id": "350608",
+    "name": "SATAK"
+  }
+]

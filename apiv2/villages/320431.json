@@ -1,1 +1,42 @@
-[{"id": "3204312001", "district_id": "320431", "name": "SUKAPURA"}, {"id": "3204312002", "district_id": "320431", "name": "CIBEUREUM"}, {"id": "3204312003", "district_id": "320431", "name": "SANTOSA"}, {"id": "3204312004", "district_id": "320431", "name": "TARUMAJAYA"}, {"id": "3204312005", "district_id": "320431", "name": "NEGLAWANGI"}, {"id": "3204312006", "district_id": "320431", "name": "CIHAWUK"}, {"id": "3204312007", "district_id": "320431", "name": "CIKEMBANG"}, {"id": "3204312008", "district_id": "320431", "name": "RESMI TINGAL"}]
+[
+  {
+    "id": "3204312001",
+    "district_id": "320431",
+    "name": "SUKAPURA"
+  },
+  {
+    "id": "3204312002",
+    "district_id": "320431",
+    "name": "CIBEUREUM"
+  },
+  {
+    "id": "3204312003",
+    "district_id": "320431",
+    "name": "SANTOSA"
+  },
+  {
+    "id": "3204312004",
+    "district_id": "320431",
+    "name": "TARUMAJAYA"
+  },
+  {
+    "id": "3204312005",
+    "district_id": "320431",
+    "name": "NEGLAWANGI"
+  },
+  {
+    "id": "3204312006",
+    "district_id": "320431",
+    "name": "CIHAWUK"
+  },
+  {
+    "id": "3204312007",
+    "district_id": "320431",
+    "name": "CIKEMBANG"
+  },
+  {
+    "id": "3204312008",
+    "district_id": "320431",
+    "name": "RESMI TINGAL"
+  }
+]

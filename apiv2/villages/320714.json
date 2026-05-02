@@ -1,1 +1,32 @@
-[{"id": "3207142001", "district_id": "320714", "name": "SUKADANA"}, {"id": "3207142002", "district_id": "320714", "name": "SALAKARIA"}, {"id": "3207142003", "district_id": "320714", "name": "MARGAHARJA"}, {"id": "3207142004", "district_id": "320714", "name": "MARGAJAYA"}, {"id": "3207142005", "district_id": "320714", "name": "BUNTER"}, {"id": "3207142006", "district_id": "320714", "name": "CIPARIGI"}]
+[
+  {
+    "id": "3207142001",
+    "district_id": "320714",
+    "name": "SUKADANA"
+  },
+  {
+    "id": "3207142002",
+    "district_id": "320714",
+    "name": "SALAKARIA"
+  },
+  {
+    "id": "3207142003",
+    "district_id": "320714",
+    "name": "MARGAHARJA"
+  },
+  {
+    "id": "3207142004",
+    "district_id": "320714",
+    "name": "MARGAJAYA"
+  },
+  {
+    "id": "3207142005",
+    "district_id": "320714",
+    "name": "BUNTER"
+  },
+  {
+    "id": "3207142006",
+    "district_id": "320714",
+    "name": "CIPARIGI"
+  }
+]

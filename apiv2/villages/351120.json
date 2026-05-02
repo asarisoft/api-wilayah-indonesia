@@ -1,1 +1,42 @@
-[{"id": "3511202001", "district_id": "351120", "name": "GADINGSARI"}, {"id": "3511202002", "district_id": "351120", "name": "SUMBER WARU"}, {"id": "3511202003", "district_id": "351120", "name": "KEMBANGAN"}, {"id": "3511202004", "district_id": "351120", "name": "BARATAN"}, {"id": "3511202005", "district_id": "351120", "name": "BINAKAL"}, {"id": "3511202006", "district_id": "351120", "name": "JERUKSOKSOK"}, {"id": "3511202007", "district_id": "351120", "name": "SUMBER TENGAH"}, {"id": "3511202008", "district_id": "351120", "name": "BENDELAN"}]
+[
+  {
+    "id": "3511202001",
+    "district_id": "351120",
+    "name": "GADINGSARI"
+  },
+  {
+    "id": "3511202002",
+    "district_id": "351120",
+    "name": "SUMBER WARU"
+  },
+  {
+    "id": "3511202003",
+    "district_id": "351120",
+    "name": "KEMBANGAN"
+  },
+  {
+    "id": "3511202004",
+    "district_id": "351120",
+    "name": "BARATAN"
+  },
+  {
+    "id": "3511202005",
+    "district_id": "351120",
+    "name": "BINAKAL"
+  },
+  {
+    "id": "3511202006",
+    "district_id": "351120",
+    "name": "JERUKSOKSOK"
+  },
+  {
+    "id": "3511202007",
+    "district_id": "351120",
+    "name": "SUMBER TENGAH"
+  },
+  {
+    "id": "3511202008",
+    "district_id": "351120",
+    "name": "BENDELAN"
+  }
+]

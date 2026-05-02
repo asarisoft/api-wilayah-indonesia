@@ -1,1 +1,87 @@
-[{"id": "3325092004", "district_id": "332509", "name": "MENJANGAN"}, {"id": "3325092005", "district_id": "332509", "name": "KARANGTENGAH"}, {"id": "3325092006", "district_id": "332509", "name": "MANGUNHARJO"}, {"id": "3325092007", "district_id": "332509", "name": "TENGGULANGHARJO"}, {"id": "3325092008", "district_id": "332509", "name": "KALIMANGGIS"}, {"id": "3325092009", "district_id": "332509", "name": "KEBORANGAN"}, {"id": "3325092010", "district_id": "332509", "name": "JATISARI"}, {"id": "3325092011", "district_id": "332509", "name": "SUBAH"}, {"id": "3325092012", "district_id": "332509", "name": "KUMEJING"}, {"id": "3325092014", "district_id": "332509", "name": "DURENOMBO"}, {"id": "3325092019", "district_id": "332509", "name": "CLAPAR"}, {"id": "3325092020", "district_id": "332509", "name": "ADINUSO"}, {"id": "3325092021", "district_id": "332509", "name": "SENGON"}, {"id": "3325092023", "district_id": "332509", "name": "GONDANG"}, {"id": "3325092024", "district_id": "332509", "name": "KURIPAN"}, {"id": "3325092025", "district_id": "332509", "name": "KEMIRI BARAT"}, {"id": "3325092026", "district_id": "332509", "name": "KEMIRI TIMUR"}]
+[
+  {
+    "id": "3325092004",
+    "district_id": "332509",
+    "name": "MENJANGAN"
+  },
+  {
+    "id": "3325092005",
+    "district_id": "332509",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3325092006",
+    "district_id": "332509",
+    "name": "MANGUNHARJO"
+  },
+  {
+    "id": "3325092007",
+    "district_id": "332509",
+    "name": "TENGGULANGHARJO"
+  },
+  {
+    "id": "3325092008",
+    "district_id": "332509",
+    "name": "KALIMANGGIS"
+  },
+  {
+    "id": "3325092009",
+    "district_id": "332509",
+    "name": "KEBORANGAN"
+  },
+  {
+    "id": "3325092010",
+    "district_id": "332509",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3325092011",
+    "district_id": "332509",
+    "name": "SUBAH"
+  },
+  {
+    "id": "3325092012",
+    "district_id": "332509",
+    "name": "KUMEJING"
+  },
+  {
+    "id": "3325092014",
+    "district_id": "332509",
+    "name": "DURENOMBO"
+  },
+  {
+    "id": "3325092019",
+    "district_id": "332509",
+    "name": "CLAPAR"
+  },
+  {
+    "id": "3325092020",
+    "district_id": "332509",
+    "name": "ADINUSO"
+  },
+  {
+    "id": "3325092021",
+    "district_id": "332509",
+    "name": "SENGON"
+  },
+  {
+    "id": "3325092023",
+    "district_id": "332509",
+    "name": "GONDANG"
+  },
+  {
+    "id": "3325092024",
+    "district_id": "332509",
+    "name": "KURIPAN"
+  },
+  {
+    "id": "3325092025",
+    "district_id": "332509",
+    "name": "KEMIRI BARAT"
+  },
+  {
+    "id": "3325092026",
+    "district_id": "332509",
+    "name": "KEMIRI TIMUR"
+  }
+]

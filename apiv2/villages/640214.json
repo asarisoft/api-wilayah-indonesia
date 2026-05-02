@@ -1,1 +1,42 @@
-[{"id": "6402141001", "district_id": "640214", "name": "MUARA JAWA ILIR"}, {"id": "6402141002", "district_id": "640214", "name": "MUARA JAWA TENGAH"}, {"id": "6402141003", "district_id": "640214", "name": "MUARA JAWA ULU"}, {"id": "6402141004", "district_id": "640214", "name": "TELUK DALAM"}, {"id": "6402141005", "district_id": "640214", "name": "DONDANG"}, {"id": "6402141006", "district_id": "640214", "name": "TAMA POLE"}, {"id": "6402141007", "district_id": "640214", "name": "MUARA KEMBANG"}, {"id": "6402141008", "district_id": "640214", "name": "MUARA JAWA"}]
+[
+  {
+    "id": "6402141001",
+    "district_id": "640214",
+    "name": "MUARA JAWA ILIR"
+  },
+  {
+    "id": "6402141002",
+    "district_id": "640214",
+    "name": "MUARA JAWA TENGAH"
+  },
+  {
+    "id": "6402141003",
+    "district_id": "640214",
+    "name": "MUARA JAWA ULU"
+  },
+  {
+    "id": "6402141004",
+    "district_id": "640214",
+    "name": "TELUK DALAM"
+  },
+  {
+    "id": "6402141005",
+    "district_id": "640214",
+    "name": "DONDANG"
+  },
+  {
+    "id": "6402141006",
+    "district_id": "640214",
+    "name": "TAMA POLE"
+  },
+  {
+    "id": "6402141007",
+    "district_id": "640214",
+    "name": "MUARA KEMBANG"
+  },
+  {
+    "id": "6402141008",
+    "district_id": "640214",
+    "name": "MUARA JAWA"
+  }
+]

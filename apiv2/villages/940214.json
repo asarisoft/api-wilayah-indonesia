@@ -1,1 +1,47 @@
-[{"id": "9402142001", "district_id": "940214", "name": "MONDU"}, {"id": "9402142002", "district_id": "940214", "name": "YAMBI"}, {"id": "9402142003", "district_id": "940214", "name": "MOULO"}, {"id": "9402142004", "district_id": "940214", "name": "TENOLOK"}, {"id": "9402142005", "district_id": "940214", "name": "GINIGOM"}, {"id": "9402142006", "district_id": "940214", "name": "DANGENPAGA"}, {"id": "9402142007", "district_id": "940214", "name": "WONOME"}, {"id": "9402142008", "district_id": "940214", "name": "YOBOLUK"}, {"id": "9402142009", "district_id": "940214", "name": "TIRINERI"}]
+[
+  {
+    "id": "9402142001",
+    "district_id": "940214",
+    "name": "MONDU"
+  },
+  {
+    "id": "9402142002",
+    "district_id": "940214",
+    "name": "YAMBI"
+  },
+  {
+    "id": "9402142003",
+    "district_id": "940214",
+    "name": "MOULO"
+  },
+  {
+    "id": "9402142004",
+    "district_id": "940214",
+    "name": "TENOLOK"
+  },
+  {
+    "id": "9402142005",
+    "district_id": "940214",
+    "name": "GINIGOM"
+  },
+  {
+    "id": "9402142006",
+    "district_id": "940214",
+    "name": "DANGENPAGA"
+  },
+  {
+    "id": "9402142007",
+    "district_id": "940214",
+    "name": "WONOME"
+  },
+  {
+    "id": "9402142008",
+    "district_id": "940214",
+    "name": "YOBOLUK"
+  },
+  {
+    "id": "9402142009",
+    "district_id": "940214",
+    "name": "TIRINERI"
+  }
+]

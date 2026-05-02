@@ -1,1 +1,32 @@
-[{"id": "1508022001", "district_id": "150802", "name": "RANTAU DUKU"}, {"id": "1508022002", "district_id": "150802", "name": "TALANG SUNGAI BUNGO"}, {"id": "1508022003", "district_id": "150802", "name": "RANTAU PANDAN"}, {"id": "1508022004", "district_id": "150802", "name": "LEBAN"}, {"id": "1508022005", "district_id": "150802", "name": "LUBUK KAYU ARO"}, {"id": "1508022015", "district_id": "150802", "name": "LUBUK MAYAN"}]
+[
+  {
+    "id": "1508022001",
+    "district_id": "150802",
+    "name": "RANTAU DUKU"
+  },
+  {
+    "id": "1508022002",
+    "district_id": "150802",
+    "name": "TALANG SUNGAI BUNGO"
+  },
+  {
+    "id": "1508022003",
+    "district_id": "150802",
+    "name": "RANTAU PANDAN"
+  },
+  {
+    "id": "1508022004",
+    "district_id": "150802",
+    "name": "LEBAN"
+  },
+  {
+    "id": "1508022005",
+    "district_id": "150802",
+    "name": "LUBUK KAYU ARO"
+  },
+  {
+    "id": "1508022015",
+    "district_id": "150802",
+    "name": "LUBUK MAYAN"
+  }
+]

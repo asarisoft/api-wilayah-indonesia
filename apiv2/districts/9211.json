@@ -1,1 +1,32 @@
-[{"id": "921101", "regency_id": "9211", "name": "RANSIKI"}, {"id": "921102", "regency_id": "9211", "name": "ORANSBARI"}, {"id": "921103", "regency_id": "9211", "name": "NENEY"}, {"id": "921104", "regency_id": "9211", "name": "DATARAN ISIM"}, {"id": "921105", "regency_id": "9211", "name": "MOMI WAREN"}, {"id": "921106", "regency_id": "9211", "name": "TAHOTA"}]
+[
+  {
+    "id": "921101",
+    "regency_id": "9211",
+    "name": "RANSIKI"
+  },
+  {
+    "id": "921102",
+    "regency_id": "9211",
+    "name": "ORANSBARI"
+  },
+  {
+    "id": "921103",
+    "regency_id": "9211",
+    "name": "NENEY"
+  },
+  {
+    "id": "921104",
+    "regency_id": "9211",
+    "name": "DATARAN ISIM"
+  },
+  {
+    "id": "921105",
+    "regency_id": "9211",
+    "name": "MOMI WAREN"
+  },
+  {
+    "id": "921106",
+    "regency_id": "9211",
+    "name": "TAHOTA"
+  }
+]

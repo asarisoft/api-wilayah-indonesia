@@ -1,1 +1,52 @@
-[{"id": "7401272001", "district_id": "740127", "name": "TAMBORASI"}, {"id": "7401272002", "district_id": "740127", "name": "LADAHAI"}, {"id": "7401272003", "district_id": "740127", "name": "LASIROKU"}, {"id": "7401272004", "district_id": "740127", "name": "IWOIMENDAA"}, {"id": "7401272005", "district_id": "740127", "name": "LAMBOPINI"}, {"id": "7401272006", "district_id": "740127", "name": "ULU KALO"}, {"id": "7401272007", "district_id": "740127", "name": "WONUALAKU"}, {"id": "7401272008", "district_id": "740127", "name": "LAWOLIA"}, {"id": "7401272009", "district_id": "740127", "name": "WATUMELEWE"}, {"id": "7401272010", "district_id": "740127", "name": "LANDOULA"}]
+[
+  {
+    "id": "7401272001",
+    "district_id": "740127",
+    "name": "TAMBORASI"
+  },
+  {
+    "id": "7401272002",
+    "district_id": "740127",
+    "name": "LADAHAI"
+  },
+  {
+    "id": "7401272003",
+    "district_id": "740127",
+    "name": "LASIROKU"
+  },
+  {
+    "id": "7401272004",
+    "district_id": "740127",
+    "name": "IWOIMENDAA"
+  },
+  {
+    "id": "7401272005",
+    "district_id": "740127",
+    "name": "LAMBOPINI"
+  },
+  {
+    "id": "7401272006",
+    "district_id": "740127",
+    "name": "ULU KALO"
+  },
+  {
+    "id": "7401272007",
+    "district_id": "740127",
+    "name": "WONUALAKU"
+  },
+  {
+    "id": "7401272008",
+    "district_id": "740127",
+    "name": "LAWOLIA"
+  },
+  {
+    "id": "7401272009",
+    "district_id": "740127",
+    "name": "WATUMELEWE"
+  },
+  {
+    "id": "7401272010",
+    "district_id": "740127",
+    "name": "LANDOULA"
+  }
+]

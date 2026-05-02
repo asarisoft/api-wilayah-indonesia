@@ -1,1 +1,37 @@
-[{"id": "6212072001", "district_id": "621207", "name": "ORENG"}, {"id": "6212072002", "district_id": "621207", "name": "OLUNG MURO"}, {"id": "6212072003", "district_id": "621207", "name": "OLUNG HANANGAN"}, {"id": "6212072004", "district_id": "621207", "name": "DIRUNG LINGKIN"}, {"id": "6212072005", "district_id": "621207", "name": "DATAH KOTOU"}, {"id": "6212072006", "district_id": "621207", "name": "TAHUJAN ONTU"}, {"id": "6212072007", "district_id": "621207", "name": "PURUK KAMBANG"}]
+[
+  {
+    "id": "6212072001",
+    "district_id": "621207",
+    "name": "ORENG"
+  },
+  {
+    "id": "6212072002",
+    "district_id": "621207",
+    "name": "OLUNG MURO"
+  },
+  {
+    "id": "6212072003",
+    "district_id": "621207",
+    "name": "OLUNG HANANGAN"
+  },
+  {
+    "id": "6212072004",
+    "district_id": "621207",
+    "name": "DIRUNG LINGKIN"
+  },
+  {
+    "id": "6212072005",
+    "district_id": "621207",
+    "name": "DATAH KOTOU"
+  },
+  {
+    "id": "6212072006",
+    "district_id": "621207",
+    "name": "TAHUJAN ONTU"
+  },
+  {
+    "id": "6212072007",
+    "district_id": "621207",
+    "name": "PURUK KAMBANG"
+  }
+]

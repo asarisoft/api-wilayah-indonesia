@@ -1,1 +1,32 @@
-[{"id": "1271041001", "district_id": "127104", "name": "TEGAL S MANDALA I"}, {"id": "1271041002", "district_id": "127104", "name": "TEGAL S MANDALA II"}, {"id": "1271041003", "district_id": "127104", "name": "TEGAL S MANDALA III"}, {"id": "1271041004", "district_id": "127104", "name": "DENAI"}, {"id": "1271041005", "district_id": "127104", "name": "BINJAI"}, {"id": "1271041006", "district_id": "127104", "name": "MEDAN TENGGARA"}]
+[
+  {
+    "id": "1271041001",
+    "district_id": "127104",
+    "name": "TEGAL S MANDALA I"
+  },
+  {
+    "id": "1271041002",
+    "district_id": "127104",
+    "name": "TEGAL S MANDALA II"
+  },
+  {
+    "id": "1271041003",
+    "district_id": "127104",
+    "name": "TEGAL S MANDALA III"
+  },
+  {
+    "id": "1271041004",
+    "district_id": "127104",
+    "name": "DENAI"
+  },
+  {
+    "id": "1271041005",
+    "district_id": "127104",
+    "name": "BINJAI"
+  },
+  {
+    "id": "1271041006",
+    "district_id": "127104",
+    "name": "MEDAN TENGGARA"
+  }
+]

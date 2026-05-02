@@ -1,1 +1,47 @@
-[{"id": "7302021001", "district_id": "730202", "name": "TANAH KONGKONG"}, {"id": "7302021002", "district_id": "730202", "name": "BENTENGNGE"}, {"id": "7302021003", "district_id": "730202", "name": "TERANG TERANG"}, {"id": "7302021004", "district_id": "730202", "name": "KALUMEME"}, {"id": "7302021005", "district_id": "730202", "name": "BINTARORE"}, {"id": "7302021006", "district_id": "730202", "name": "KASIMPURENG"}, {"id": "7302021007", "district_id": "730202", "name": "CAILE"}, {"id": "7302021008", "district_id": "730202", "name": "LOKA"}, {"id": "7302021009", "district_id": "730202", "name": "ELA ELA"}]
+[
+  {
+    "id": "7302021001",
+    "district_id": "730202",
+    "name": "TANAH KONGKONG"
+  },
+  {
+    "id": "7302021002",
+    "district_id": "730202",
+    "name": "BENTENGNGE"
+  },
+  {
+    "id": "7302021003",
+    "district_id": "730202",
+    "name": "TERANG TERANG"
+  },
+  {
+    "id": "7302021004",
+    "district_id": "730202",
+    "name": "KALUMEME"
+  },
+  {
+    "id": "7302021005",
+    "district_id": "730202",
+    "name": "BINTARORE"
+  },
+  {
+    "id": "7302021006",
+    "district_id": "730202",
+    "name": "KASIMPURENG"
+  },
+  {
+    "id": "7302021007",
+    "district_id": "730202",
+    "name": "CAILE"
+  },
+  {
+    "id": "7302021008",
+    "district_id": "730202",
+    "name": "LOKA"
+  },
+  {
+    "id": "7302021009",
+    "district_id": "730202",
+    "name": "ELA ELA"
+  }
+]

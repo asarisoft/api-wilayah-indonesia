@@ -1,1 +1,27 @@
-[{"id": "8104142001", "district_id": "810414", "name": "KAIELY"}, {"id": "8104142002", "district_id": "810414", "name": "MASARETE"}, {"id": "8104142003", "district_id": "810414", "name": "WAELAPIA"}, {"id": "8104142004", "district_id": "810414", "name": "KAKI AIR"}, {"id": "8104142005", "district_id": "810414", "name": "SEITH"}]
+[
+  {
+    "id": "8104142001",
+    "district_id": "810414",
+    "name": "KAIELY"
+  },
+  {
+    "id": "8104142002",
+    "district_id": "810414",
+    "name": "MASARETE"
+  },
+  {
+    "id": "8104142003",
+    "district_id": "810414",
+    "name": "WAELAPIA"
+  },
+  {
+    "id": "8104142004",
+    "district_id": "810414",
+    "name": "KAKI AIR"
+  },
+  {
+    "id": "8104142005",
+    "district_id": "810414",
+    "name": "SEITH"
+  }
+]

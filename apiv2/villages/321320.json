@@ -1,1 +1,37 @@
-[{"id": "3213202001", "district_id": "321320", "name": "KARANGMUKTI"}, {"id": "3213202002", "district_id": "321320", "name": "CIMAYASARI"}, {"id": "3213202003", "district_id": "321320", "name": "LENGKONG"}, {"id": "3213202004", "district_id": "321320", "name": "CIPEUNDEUY"}, {"id": "3213202005", "district_id": "321320", "name": "WANTILAN"}, {"id": "3213202006", "district_id": "321320", "name": "KOSAR"}, {"id": "3213202007", "district_id": "321320", "name": "SAWANGAN"}]
+[
+  {
+    "id": "3213202001",
+    "district_id": "321320",
+    "name": "KARANGMUKTI"
+  },
+  {
+    "id": "3213202002",
+    "district_id": "321320",
+    "name": "CIMAYASARI"
+  },
+  {
+    "id": "3213202003",
+    "district_id": "321320",
+    "name": "LENGKONG"
+  },
+  {
+    "id": "3213202004",
+    "district_id": "321320",
+    "name": "CIPEUNDEUY"
+  },
+  {
+    "id": "3213202005",
+    "district_id": "321320",
+    "name": "WANTILAN"
+  },
+  {
+    "id": "3213202006",
+    "district_id": "321320",
+    "name": "KOSAR"
+  },
+  {
+    "id": "3213202007",
+    "district_id": "321320",
+    "name": "SAWANGAN"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "1671171001", "district_id": "167117", "name": "DELAPAN ULU"}, {"id": "1671171002", "district_id": "167117", "name": "SEMBILAN SEPULUH ULU"}, {"id": "1671171003", "district_id": "167117", "name": "LIMA-BELAS ULU"}, {"id": "1671171004", "district_id": "167117", "name": "SILABERANTI"}, {"id": "1671171005", "district_id": "167117", "name": "TUANKENTANG"}]
+[
+  {
+    "id": "1671171001",
+    "district_id": "167117",
+    "name": "DELAPAN ULU"
+  },
+  {
+    "id": "1671171002",
+    "district_id": "167117",
+    "name": "SEMBILAN SEPULUH ULU"
+  },
+  {
+    "id": "1671171003",
+    "district_id": "167117",
+    "name": "LIMA-BELAS ULU"
+  },
+  {
+    "id": "1671171004",
+    "district_id": "167117",
+    "name": "SILABERANTI"
+  },
+  {
+    "id": "1671171005",
+    "district_id": "167117",
+    "name": "TUANKENTANG"
+  }
+]

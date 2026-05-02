@@ -1,1 +1,87 @@
-[{"id": "1221071001", "district_id": "122107", "name": "PASAR SIBUHUAN"}, {"id": "1221072002", "district_id": "122107", "name": "SIBUHUAN JULU"}, {"id": "1221072003", "district_id": "122107", "name": "BANGUN RAYA"}, {"id": "1221072004", "district_id": "122107", "name": "PURBA TUA"}, {"id": "1221072005", "district_id": "122107", "name": "HANDIS JULU"}, {"id": "1221072006", "district_id": "122107", "name": "SIALAMBUE"}, {"id": "1221072007", "district_id": "122107", "name": "SIBUHUAN JAE"}, {"id": "1221072008", "district_id": "122107", "name": "JANJILOBI"}, {"id": "1221072021", "district_id": "122107", "name": "TANJUNG DURIAN"}, {"id": "1221072022", "district_id": "122107", "name": "TANJUNG BOTUNG"}, {"id": "1221072023", "district_id": "122107", "name": "TANOBATO"}, {"id": "1221072024", "district_id": "122107", "name": "HUTARIMBARU"}, {"id": "1221072025", "district_id": "122107", "name": "SAYUR MATUA"}, {"id": "1221072037", "district_id": "122107", "name": "BULUSONIK"}, {"id": "1221072038", "district_id": "122107", "name": "ARSESIMATORKIS"}, {"id": "1221072039", "district_id": "122107", "name": "PANCAUKAN"}, {"id": "1221072040", "district_id": "122107", "name": "PAGARAN BARINGIN"}]
+[
+  {
+    "id": "1221071001",
+    "district_id": "122107",
+    "name": "PASAR SIBUHUAN"
+  },
+  {
+    "id": "1221072002",
+    "district_id": "122107",
+    "name": "SIBUHUAN JULU"
+  },
+  {
+    "id": "1221072003",
+    "district_id": "122107",
+    "name": "BANGUN RAYA"
+  },
+  {
+    "id": "1221072004",
+    "district_id": "122107",
+    "name": "PURBA TUA"
+  },
+  {
+    "id": "1221072005",
+    "district_id": "122107",
+    "name": "HANDIS JULU"
+  },
+  {
+    "id": "1221072006",
+    "district_id": "122107",
+    "name": "SIALAMBUE"
+  },
+  {
+    "id": "1221072007",
+    "district_id": "122107",
+    "name": "SIBUHUAN JAE"
+  },
+  {
+    "id": "1221072008",
+    "district_id": "122107",
+    "name": "JANJILOBI"
+  },
+  {
+    "id": "1221072021",
+    "district_id": "122107",
+    "name": "TANJUNG DURIAN"
+  },
+  {
+    "id": "1221072022",
+    "district_id": "122107",
+    "name": "TANJUNG BOTUNG"
+  },
+  {
+    "id": "1221072023",
+    "district_id": "122107",
+    "name": "TANOBATO"
+  },
+  {
+    "id": "1221072024",
+    "district_id": "122107",
+    "name": "HUTARIMBARU"
+  },
+  {
+    "id": "1221072025",
+    "district_id": "122107",
+    "name": "SAYUR MATUA"
+  },
+  {
+    "id": "1221072037",
+    "district_id": "122107",
+    "name": "BULUSONIK"
+  },
+  {
+    "id": "1221072038",
+    "district_id": "122107",
+    "name": "ARSESIMATORKIS"
+  },
+  {
+    "id": "1221072039",
+    "district_id": "122107",
+    "name": "PANCAUKAN"
+  },
+  {
+    "id": "1221072040",
+    "district_id": "122107",
+    "name": "PAGARAN BARINGIN"
+  }
+]

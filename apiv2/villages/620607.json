@@ -1,1 +1,92 @@
-[{"id": "6206072001", "district_id": "620607", "name": "TUMBANG MANDUREI"}, {"id": "6206072002", "district_id": "620607", "name": "TUMBANG PAKU"}, {"id": "6206072003", "district_id": "620607", "name": "BUNTUT LELENG"}, {"id": "6206072004", "district_id": "620607", "name": "KULUK LELENG"}, {"id": "6206072005", "district_id": "620607", "name": "SABAUNG"}, {"id": "6206072006", "district_id": "620607", "name": "TUMBANG MALAWAN"}, {"id": "6206072007", "district_id": "620607", "name": "TUMBANG TAEI"}, {"id": "6206072008", "district_id": "620607", "name": "RANGAN SURAI"}, {"id": "6206072009", "district_id": "620607", "name": "TUMBANG HIRAN"}, {"id": "6206072010", "district_id": "620607", "name": "TUMBANG PAHANEI"}, {"id": "6206072011", "district_id": "620607", "name": "TUMBANG DAKEI"}, {"id": "6206072012", "district_id": "620607", "name": "RANGAN BURIH"}, {"id": "6206072013", "district_id": "620607", "name": "TUMBANG BEMBAN"}, {"id": "6206072014", "district_id": "620607", "name": "TUMBANG LAMBI"}, {"id": "6206072015", "district_id": "620607", "name": "RANGAN TANGKO"}, {"id": "6206072016", "district_id": "620607", "name": "TUMBANG TUNDU"}, {"id": "6206072017", "district_id": "620607", "name": "BATU PANAHAN"}, {"id": "6206072018", "district_id": "620607", "name": "TUMBANG TABULUS"}]
+[
+  {
+    "id": "6206072001",
+    "district_id": "620607",
+    "name": "TUMBANG MANDUREI"
+  },
+  {
+    "id": "6206072002",
+    "district_id": "620607",
+    "name": "TUMBANG PAKU"
+  },
+  {
+    "id": "6206072003",
+    "district_id": "620607",
+    "name": "BUNTUT LELENG"
+  },
+  {
+    "id": "6206072004",
+    "district_id": "620607",
+    "name": "KULUK LELENG"
+  },
+  {
+    "id": "6206072005",
+    "district_id": "620607",
+    "name": "SABAUNG"
+  },
+  {
+    "id": "6206072006",
+    "district_id": "620607",
+    "name": "TUMBANG MALAWAN"
+  },
+  {
+    "id": "6206072007",
+    "district_id": "620607",
+    "name": "TUMBANG TAEI"
+  },
+  {
+    "id": "6206072008",
+    "district_id": "620607",
+    "name": "RANGAN SURAI"
+  },
+  {
+    "id": "6206072009",
+    "district_id": "620607",
+    "name": "TUMBANG HIRAN"
+  },
+  {
+    "id": "6206072010",
+    "district_id": "620607",
+    "name": "TUMBANG PAHANEI"
+  },
+  {
+    "id": "6206072011",
+    "district_id": "620607",
+    "name": "TUMBANG DAKEI"
+  },
+  {
+    "id": "6206072012",
+    "district_id": "620607",
+    "name": "RANGAN BURIH"
+  },
+  {
+    "id": "6206072013",
+    "district_id": "620607",
+    "name": "TUMBANG BEMBAN"
+  },
+  {
+    "id": "6206072014",
+    "district_id": "620607",
+    "name": "TUMBANG LAMBI"
+  },
+  {
+    "id": "6206072015",
+    "district_id": "620607",
+    "name": "RANGAN TANGKO"
+  },
+  {
+    "id": "6206072016",
+    "district_id": "620607",
+    "name": "TUMBANG TUNDU"
+  },
+  {
+    "id": "6206072017",
+    "district_id": "620607",
+    "name": "BATU PANAHAN"
+  },
+  {
+    "id": "6206072018",
+    "district_id": "620607",
+    "name": "TUMBANG TABULUS"
+  }
+]

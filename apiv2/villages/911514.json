@@ -1,1 +1,52 @@
-[{"id": "9115142001", "district_id": "911514", "name": "ODASE"}, {"id": "9115142002", "district_id": "911514", "name": "WANDA"}, {"id": "9115142003", "district_id": "911514", "name": "BAKADARO"}, {"id": "9115142004", "district_id": "911514", "name": "MOYUFURI"}, {"id": "9115142005", "district_id": "911514", "name": "WONTI KAI"}, {"id": "9115142006", "district_id": "911514", "name": "GHOIWI SAMBERI"}, {"id": "9115142007", "district_id": "911514", "name": "GHEROI"}, {"id": "9115142008", "district_id": "911514", "name": "FIMORE"}, {"id": "9115142009", "district_id": "911514", "name": "SIFUISERA"}, {"id": "9115142010", "district_id": "911514", "name": "BORUMEI"}]
+[
+  {
+    "id": "9115142001",
+    "district_id": "911514",
+    "name": "ODASE"
+  },
+  {
+    "id": "9115142002",
+    "district_id": "911514",
+    "name": "WANDA"
+  },
+  {
+    "id": "9115142003",
+    "district_id": "911514",
+    "name": "BAKADARO"
+  },
+  {
+    "id": "9115142004",
+    "district_id": "911514",
+    "name": "MOYUFURI"
+  },
+  {
+    "id": "9115142005",
+    "district_id": "911514",
+    "name": "WONTI KAI"
+  },
+  {
+    "id": "9115142006",
+    "district_id": "911514",
+    "name": "GHOIWI SAMBERI"
+  },
+  {
+    "id": "9115142007",
+    "district_id": "911514",
+    "name": "GHEROI"
+  },
+  {
+    "id": "9115142008",
+    "district_id": "911514",
+    "name": "FIMORE"
+  },
+  {
+    "id": "9115142009",
+    "district_id": "911514",
+    "name": "SIFUISERA"
+  },
+  {
+    "id": "9115142010",
+    "district_id": "911514",
+    "name": "BORUMEI"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3207182005", "district_id": "320718", "name": "KAWASEN"}, {"id": "3207182006", "district_id": "320718", "name": "CICAPAR"}, {"id": "3207182007", "district_id": "320718", "name": "CIBADAK"}, {"id": "3207182008", "district_id": "320718", "name": "BANJARSARI"}, {"id": "3207182009", "district_id": "320718", "name": "SINDANGHAYU"}, {"id": "3207182010", "district_id": "320718", "name": "SINDANGASIH"}, {"id": "3207182012", "district_id": "320718", "name": "SINDANGSARI"}, {"id": "3207182013", "district_id": "320718", "name": "CIHERANG"}, {"id": "3207182014", "district_id": "320718", "name": "PURWASARI"}, {"id": "3207182015", "district_id": "320718", "name": "RATAWANGI"}, {"id": "3207182016", "district_id": "320718", "name": "CIULU"}, {"id": "3207182018", "district_id": "320718", "name": "SUKASARI"}]
+[
+  {
+    "id": "3207182005",
+    "district_id": "320718",
+    "name": "KAWASEN"
+  },
+  {
+    "id": "3207182006",
+    "district_id": "320718",
+    "name": "CICAPAR"
+  },
+  {
+    "id": "3207182007",
+    "district_id": "320718",
+    "name": "CIBADAK"
+  },
+  {
+    "id": "3207182008",
+    "district_id": "320718",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3207182009",
+    "district_id": "320718",
+    "name": "SINDANGHAYU"
+  },
+  {
+    "id": "3207182010",
+    "district_id": "320718",
+    "name": "SINDANGASIH"
+  },
+  {
+    "id": "3207182012",
+    "district_id": "320718",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3207182013",
+    "district_id": "320718",
+    "name": "CIHERANG"
+  },
+  {
+    "id": "3207182014",
+    "district_id": "320718",
+    "name": "PURWASARI"
+  },
+  {
+    "id": "3207182015",
+    "district_id": "320718",
+    "name": "RATAWANGI"
+  },
+  {
+    "id": "3207182016",
+    "district_id": "320718",
+    "name": "CIULU"
+  },
+  {
+    "id": "3207182018",
+    "district_id": "320718",
+    "name": "SUKASARI"
+  }
+]

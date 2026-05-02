@@ -1,1 +1,22 @@
-[{"id": "9671041001", "district_id": "967104", "name": "DUM BARAT"}, {"id": "9671041002", "district_id": "967104", "name": "DUM TIMUR"}, {"id": "9671041003", "district_id": "967104", "name": "SOOP"}, {"id": "9671041004", "district_id": "967104", "name": "RAAM"}]
+[
+  {
+    "id": "9671041001",
+    "district_id": "967104",
+    "name": "DUM BARAT"
+  },
+  {
+    "id": "9671041002",
+    "district_id": "967104",
+    "name": "DUM TIMUR"
+  },
+  {
+    "id": "9671041003",
+    "district_id": "967104",
+    "name": "SOOP"
+  },
+  {
+    "id": "9671041004",
+    "district_id": "967104",
+    "name": "RAAM"
+  }
+]

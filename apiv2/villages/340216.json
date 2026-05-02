@@ -1,1 +1,22 @@
-[{"id": "3402162001", "district_id": "340216", "name": "BANGUNJIWO"}, {"id": "3402162002", "district_id": "340216", "name": "TIRTONIRMOLO"}, {"id": "3402162003", "district_id": "340216", "name": "TAMANTIRTO"}, {"id": "3402162004", "district_id": "340216", "name": "NGESTIHARJO"}]
+[
+  {
+    "id": "3402162001",
+    "district_id": "340216",
+    "name": "BANGUNJIWO"
+  },
+  {
+    "id": "3402162002",
+    "district_id": "340216",
+    "name": "TIRTONIRMOLO"
+  },
+  {
+    "id": "3402162003",
+    "district_id": "340216",
+    "name": "TAMANTIRTO"
+  },
+  {
+    "id": "3402162004",
+    "district_id": "340216",
+    "name": "NGESTIHARJO"
+  }
+]

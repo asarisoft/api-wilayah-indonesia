@@ -1,1 +1,57 @@
-[{"id": "3326182001", "district_id": "332618", "name": "LOGANDENG"}, {"id": "3326182002", "district_id": "332618", "name": "JREBENGKEMBANG"}, {"id": "3326182003", "district_id": "332618", "name": "PAGUMENGANMAS"}, {"id": "3326182004", "district_id": "332618", "name": "KEDUNGKEBO"}, {"id": "3326182005", "district_id": "332618", "name": "KALIGAWE"}, {"id": "3326182006", "district_id": "332618", "name": "KARANGDADAP"}, {"id": "3326182007", "district_id": "332618", "name": "KALILEMBU"}, {"id": "3326182008", "district_id": "332618", "name": "PANGKAH"}, {"id": "3326182009", "district_id": "332618", "name": "KEBONROWOPUCANG"}, {"id": "3326182010", "district_id": "332618", "name": "KEBONSARI"}, {"id": "3326182011", "district_id": "332618", "name": "PEGANDON"}]
+[
+  {
+    "id": "3326182001",
+    "district_id": "332618",
+    "name": "LOGANDENG"
+  },
+  {
+    "id": "3326182002",
+    "district_id": "332618",
+    "name": "JREBENGKEMBANG"
+  },
+  {
+    "id": "3326182003",
+    "district_id": "332618",
+    "name": "PAGUMENGANMAS"
+  },
+  {
+    "id": "3326182004",
+    "district_id": "332618",
+    "name": "KEDUNGKEBO"
+  },
+  {
+    "id": "3326182005",
+    "district_id": "332618",
+    "name": "KALIGAWE"
+  },
+  {
+    "id": "3326182006",
+    "district_id": "332618",
+    "name": "KARANGDADAP"
+  },
+  {
+    "id": "3326182007",
+    "district_id": "332618",
+    "name": "KALILEMBU"
+  },
+  {
+    "id": "3326182008",
+    "district_id": "332618",
+    "name": "PANGKAH"
+  },
+  {
+    "id": "3326182009",
+    "district_id": "332618",
+    "name": "KEBONROWOPUCANG"
+  },
+  {
+    "id": "3326182010",
+    "district_id": "332618",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3326182011",
+    "district_id": "332618",
+    "name": "PEGANDON"
+  }
+]

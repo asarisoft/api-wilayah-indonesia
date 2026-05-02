@@ -1,1 +1,52 @@
-[{"id": "7304051001", "district_id": "730405", "name": "TOLO"}, {"id": "7304051002", "district_id": "730405", "name": "TOLO UTARA"}, {"id": "7304051003", "district_id": "730405", "name": "TOLO SELATAN"}, {"id": "7304051004", "district_id": "730405", "name": "TOLO TIMUR"}, {"id": "7304051005", "district_id": "730405", "name": "TOLO BARAT"}, {"id": "7304052006", "district_id": "730405", "name": "GANTARANG"}, {"id": "7304052009", "district_id": "730405", "name": "BONTOLEBANG"}, {"id": "7304052010", "district_id": "730405", "name": "BONTONOMPO"}, {"id": "7304052014", "district_id": "730405", "name": "SAMATARING"}, {"id": "7304052021", "district_id": "730405", "name": "TOMBOLO"}]
+[
+  {
+    "id": "7304051001",
+    "district_id": "730405",
+    "name": "TOLO"
+  },
+  {
+    "id": "7304051002",
+    "district_id": "730405",
+    "name": "TOLO UTARA"
+  },
+  {
+    "id": "7304051003",
+    "district_id": "730405",
+    "name": "TOLO SELATAN"
+  },
+  {
+    "id": "7304051004",
+    "district_id": "730405",
+    "name": "TOLO TIMUR"
+  },
+  {
+    "id": "7304051005",
+    "district_id": "730405",
+    "name": "TOLO BARAT"
+  },
+  {
+    "id": "7304052006",
+    "district_id": "730405",
+    "name": "GANTARANG"
+  },
+  {
+    "id": "7304052009",
+    "district_id": "730405",
+    "name": "BONTOLEBANG"
+  },
+  {
+    "id": "7304052010",
+    "district_id": "730405",
+    "name": "BONTONOMPO"
+  },
+  {
+    "id": "7304052014",
+    "district_id": "730405",
+    "name": "SAMATARING"
+  },
+  {
+    "id": "7304052021",
+    "district_id": "730405",
+    "name": "TOMBOLO"
+  }
+]

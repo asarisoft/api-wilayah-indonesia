@@ -1,1 +1,37 @@
-[{"id": "1209322001", "district_id": "120932", "name": "AEK BANGE"}, {"id": "1209322002", "district_id": "120932", "name": "AEK KORSIK"}, {"id": "1209322003", "district_id": "120932", "name": "AEK LEDONG"}, {"id": "1209322004", "district_id": "120932", "name": "LEDONG BARAT"}, {"id": "1209322005", "district_id": "120932", "name": "AEK NABUNTU"}, {"id": "1209322006", "district_id": "120932", "name": "LEDONG TIMUR"}, {"id": "1209322007", "district_id": "120932", "name": "PADANG SIPIROK"}]
+[
+  {
+    "id": "1209322001",
+    "district_id": "120932",
+    "name": "AEK BANGE"
+  },
+  {
+    "id": "1209322002",
+    "district_id": "120932",
+    "name": "AEK KORSIK"
+  },
+  {
+    "id": "1209322003",
+    "district_id": "120932",
+    "name": "AEK LEDONG"
+  },
+  {
+    "id": "1209322004",
+    "district_id": "120932",
+    "name": "LEDONG BARAT"
+  },
+  {
+    "id": "1209322005",
+    "district_id": "120932",
+    "name": "AEK NABUNTU"
+  },
+  {
+    "id": "1209322006",
+    "district_id": "120932",
+    "name": "LEDONG TIMUR"
+  },
+  {
+    "id": "1209322007",
+    "district_id": "120932",
+    "name": "PADANG SIPIROK"
+  }
+]

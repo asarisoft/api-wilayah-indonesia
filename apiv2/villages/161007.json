@@ -1,1 +1,82 @@
-[{"id": "1610071016", "district_id": "161007", "name": "TIMBANGAN"}, {"id": "1610072001", "district_id": "161007", "name": "TANJUNG PERING"}, {"id": "1610072002", "district_id": "161007", "name": "BAKUNG"}, {"id": "1610072003", "district_id": "161007", "name": "LOROK"}, {"id": "1610072004", "district_id": "161007", "name": "PARIT"}, {"id": "1610072005", "district_id": "161007", "name": "PAYAKABUNG"}, {"id": "1610072006", "district_id": "161007", "name": "SUNGAI RAMBUTAN"}, {"id": "1610072007", "district_id": "161007", "name": "PURNA JAYA"}, {"id": "1610072008", "district_id": "161007", "name": "SOAK BATOK"}, {"id": "1610072009", "district_id": "161007", "name": "TANJUNG BARU"}, {"id": "1610072010", "district_id": "161007", "name": "TANJUNG PULE"}, {"id": "1610072011", "district_id": "161007", "name": "PERMATA BARU"}, {"id": "1610072012", "district_id": "161007", "name": "SUKA MULIA"}, {"id": "1610072013", "district_id": "161007", "name": "PULAU KABAI"}, {"id": "1610072014", "district_id": "161007", "name": "PULAU SEMAMBU"}, {"id": "1610072015", "district_id": "161007", "name": "PALEM RAYA"}]
+[
+  {
+    "id": "1610071016",
+    "district_id": "161007",
+    "name": "TIMBANGAN"
+  },
+  {
+    "id": "1610072001",
+    "district_id": "161007",
+    "name": "TANJUNG PERING"
+  },
+  {
+    "id": "1610072002",
+    "district_id": "161007",
+    "name": "BAKUNG"
+  },
+  {
+    "id": "1610072003",
+    "district_id": "161007",
+    "name": "LOROK"
+  },
+  {
+    "id": "1610072004",
+    "district_id": "161007",
+    "name": "PARIT"
+  },
+  {
+    "id": "1610072005",
+    "district_id": "161007",
+    "name": "PAYAKABUNG"
+  },
+  {
+    "id": "1610072006",
+    "district_id": "161007",
+    "name": "SUNGAI RAMBUTAN"
+  },
+  {
+    "id": "1610072007",
+    "district_id": "161007",
+    "name": "PURNA JAYA"
+  },
+  {
+    "id": "1610072008",
+    "district_id": "161007",
+    "name": "SOAK BATOK"
+  },
+  {
+    "id": "1610072009",
+    "district_id": "161007",
+    "name": "TANJUNG BARU"
+  },
+  {
+    "id": "1610072010",
+    "district_id": "161007",
+    "name": "TANJUNG PULE"
+  },
+  {
+    "id": "1610072011",
+    "district_id": "161007",
+    "name": "PERMATA BARU"
+  },
+  {
+    "id": "1610072012",
+    "district_id": "161007",
+    "name": "SUKA MULIA"
+  },
+  {
+    "id": "1610072013",
+    "district_id": "161007",
+    "name": "PULAU KABAI"
+  },
+  {
+    "id": "1610072014",
+    "district_id": "161007",
+    "name": "PULAU SEMAMBU"
+  },
+  {
+    "id": "1610072015",
+    "district_id": "161007",
+    "name": "PALEM RAYA"
+  }
+]

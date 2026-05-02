@@ -1,1 +1,32 @@
-[{"id": "3202472001", "district_id": "320247", "name": "CIAMBAR"}, {"id": "3202472002", "district_id": "320247", "name": "GINANJAR"}, {"id": "3202472003", "district_id": "320247", "name": "WANGUNJAYA"}, {"id": "3202472004", "district_id": "320247", "name": "MUNJUL"}, {"id": "3202472005", "district_id": "320247", "name": "AMBARJAYA"}, {"id": "3202472006", "district_id": "320247", "name": "CIBUNARJAYA"}]
+[
+  {
+    "id": "3202472001",
+    "district_id": "320247",
+    "name": "CIAMBAR"
+  },
+  {
+    "id": "3202472002",
+    "district_id": "320247",
+    "name": "GINANJAR"
+  },
+  {
+    "id": "3202472003",
+    "district_id": "320247",
+    "name": "WANGUNJAYA"
+  },
+  {
+    "id": "3202472004",
+    "district_id": "320247",
+    "name": "MUNJUL"
+  },
+  {
+    "id": "3202472005",
+    "district_id": "320247",
+    "name": "AMBARJAYA"
+  },
+  {
+    "id": "3202472006",
+    "district_id": "320247",
+    "name": "CIBUNARJAYA"
+  }
+]

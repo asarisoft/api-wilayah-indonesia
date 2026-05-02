@@ -1,1 +1,37 @@
-[{"id": "1210202001", "district_id": "121020", "name": "TANJUNG SARANG ELANG"}, {"id": "1210202002", "district_id": "121020", "name": "PERKEBUNAN AJAMU"}, {"id": "1210202003", "district_id": "121020", "name": "TELUK SENTOSA"}, {"id": "1210202004", "district_id": "121020", "name": "CINTA MAKMUR"}, {"id": "1210202005", "district_id": "121020", "name": "SEI SENTOSA"}, {"id": "1210202006", "district_id": "121020", "name": "MERANTI PAHAM"}, {"id": "1210202007", "district_id": "121020", "name": "SEI JAWI-JAWI"}]
+[
+  {
+    "id": "1210202001",
+    "district_id": "121020",
+    "name": "TANJUNG SARANG ELANG"
+  },
+  {
+    "id": "1210202002",
+    "district_id": "121020",
+    "name": "PERKEBUNAN AJAMU"
+  },
+  {
+    "id": "1210202003",
+    "district_id": "121020",
+    "name": "TELUK SENTOSA"
+  },
+  {
+    "id": "1210202004",
+    "district_id": "121020",
+    "name": "CINTA MAKMUR"
+  },
+  {
+    "id": "1210202005",
+    "district_id": "121020",
+    "name": "SEI SENTOSA"
+  },
+  {
+    "id": "1210202006",
+    "district_id": "121020",
+    "name": "MERANTI PAHAM"
+  },
+  {
+    "id": "1210202007",
+    "district_id": "121020",
+    "name": "SEI JAWI-JAWI"
+  }
+]

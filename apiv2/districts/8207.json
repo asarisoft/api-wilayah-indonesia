@@ -1,1 +1,32 @@
-[{"id": "820701", "regency_id": "8207", "name": "MOROTAI SELATAN"}, {"id": "820702", "regency_id": "8207", "name": "MOROTAI SELATAN BARAT"}, {"id": "820703", "regency_id": "8207", "name": "MOROTAI JAYA"}, {"id": "820704", "regency_id": "8207", "name": "MOROTAI UTARA"}, {"id": "820705", "regency_id": "8207", "name": "MOROTAI TIMUR"}, {"id": "820706", "regency_id": "8207", "name": "PULAU RAO"}]
+[
+  {
+    "id": "820701",
+    "regency_id": "8207",
+    "name": "MOROTAI SELATAN"
+  },
+  {
+    "id": "820702",
+    "regency_id": "8207",
+    "name": "MOROTAI SELATAN BARAT"
+  },
+  {
+    "id": "820703",
+    "regency_id": "8207",
+    "name": "MOROTAI JAYA"
+  },
+  {
+    "id": "820704",
+    "regency_id": "8207",
+    "name": "MOROTAI UTARA"
+  },
+  {
+    "id": "820705",
+    "regency_id": "8207",
+    "name": "MOROTAI TIMUR"
+  },
+  {
+    "id": "820706",
+    "regency_id": "8207",
+    "name": "PULAU RAO"
+  }
+]

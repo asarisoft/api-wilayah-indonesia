@@ -1,1 +1,32 @@
-[{"id": "6207062001", "district_id": "620706", "name": "MEKAR INDAH"}, {"id": "6207062002", "district_id": "620706", "name": "HALIMAUNG JAYA"}, {"id": "6207062003", "district_id": "620706", "name": "BANGUN HARJA"}, {"id": "6207062004", "district_id": "620706", "name": "KARTIKA BHAKTI"}, {"id": "6207062005", "district_id": "620706", "name": "PEMATANG PANJANG"}, {"id": "6207062006", "district_id": "620706", "name": "SUNGAI BAKAU"}]
+[
+  {
+    "id": "6207062001",
+    "district_id": "620706",
+    "name": "MEKAR INDAH"
+  },
+  {
+    "id": "6207062002",
+    "district_id": "620706",
+    "name": "HALIMAUNG JAYA"
+  },
+  {
+    "id": "6207062003",
+    "district_id": "620706",
+    "name": "BANGUN HARJA"
+  },
+  {
+    "id": "6207062004",
+    "district_id": "620706",
+    "name": "KARTIKA BHAKTI"
+  },
+  {
+    "id": "6207062005",
+    "district_id": "620706",
+    "name": "PEMATANG PANJANG"
+  },
+  {
+    "id": "6207062006",
+    "district_id": "620706",
+    "name": "SUNGAI BAKAU"
+  }
+]

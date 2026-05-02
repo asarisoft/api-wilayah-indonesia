@@ -1,1 +1,77 @@
-[{"id": "7110022001", "district_id": "711002", "name": "KOTABUNAN"}, {"id": "7110022002", "district_id": "711002", "name": "BUYAT"}, {"id": "7110022003", "district_id": "711002", "name": "BULAWAN"}, {"id": "7110022004", "district_id": "711002", "name": "PARET"}, {"id": "7110022005", "district_id": "711002", "name": "BUKAKA"}, {"id": "7110022006", "district_id": "711002", "name": "BUYAT I"}, {"id": "7110022007", "district_id": "711002", "name": "BUYAT II"}, {"id": "7110022008", "district_id": "711002", "name": "BUYAT SELATAN"}, {"id": "7110022009", "district_id": "711002", "name": "BUYAT TENGAH"}, {"id": "7110022010", "district_id": "711002", "name": "BUYAT BARAT"}, {"id": "7110022011", "district_id": "711002", "name": "BULAWAN SATU"}, {"id": "7110022012", "district_id": "711002", "name": "BULAWAN DUA"}, {"id": "7110022013", "district_id": "711002", "name": "KOTABUNAN SELATAN"}, {"id": "7110022014", "district_id": "711002", "name": "KOTABUNAN BARAT"}, {"id": "7110022015", "district_id": "711002", "name": "PARET TIMUR"}]
+[
+  {
+    "id": "7110022001",
+    "district_id": "711002",
+    "name": "KOTABUNAN"
+  },
+  {
+    "id": "7110022002",
+    "district_id": "711002",
+    "name": "BUYAT"
+  },
+  {
+    "id": "7110022003",
+    "district_id": "711002",
+    "name": "BULAWAN"
+  },
+  {
+    "id": "7110022004",
+    "district_id": "711002",
+    "name": "PARET"
+  },
+  {
+    "id": "7110022005",
+    "district_id": "711002",
+    "name": "BUKAKA"
+  },
+  {
+    "id": "7110022006",
+    "district_id": "711002",
+    "name": "BUYAT I"
+  },
+  {
+    "id": "7110022007",
+    "district_id": "711002",
+    "name": "BUYAT II"
+  },
+  {
+    "id": "7110022008",
+    "district_id": "711002",
+    "name": "BUYAT SELATAN"
+  },
+  {
+    "id": "7110022009",
+    "district_id": "711002",
+    "name": "BUYAT TENGAH"
+  },
+  {
+    "id": "7110022010",
+    "district_id": "711002",
+    "name": "BUYAT BARAT"
+  },
+  {
+    "id": "7110022011",
+    "district_id": "711002",
+    "name": "BULAWAN SATU"
+  },
+  {
+    "id": "7110022012",
+    "district_id": "711002",
+    "name": "BULAWAN DUA"
+  },
+  {
+    "id": "7110022013",
+    "district_id": "711002",
+    "name": "KOTABUNAN SELATAN"
+  },
+  {
+    "id": "7110022014",
+    "district_id": "711002",
+    "name": "KOTABUNAN BARAT"
+  },
+  {
+    "id": "7110022015",
+    "district_id": "711002",
+    "name": "PARET TIMUR"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "1202061001", "district_id": "120206", "name": "SARULLA"}, {"id": "1202062002", "district_id": "120206", "name": "TORDOLOK NAULI"}, {"id": "1202062003", "district_id": "120206", "name": "SIGURUNG-GURUNG"}, {"id": "1202062004", "district_id": "120206", "name": "SILANGKITANG"}, {"id": "1202062005", "district_id": "120206", "name": "SITOLUOMPU"}, {"id": "1202062006", "district_id": "120206", "name": "SIOPAT BAHAL"}, {"id": "1202062007", "district_id": "120206", "name": "PARDOMUAN NAINGGOLAN"}, {"id": "1202062008", "district_id": "120206", "name": "NAHORNOP MARSADA"}, {"id": "1202062009", "district_id": "120206", "name": "PARSAORAN SAMOSIR"}, {"id": "1202062010", "district_id": "120206", "name": "SUKA MAJU"}, {"id": "1202062011", "district_id": "120206", "name": "SETIA"}, {"id": "1202062012", "district_id": "120206", "name": "PARSAORAN NAINGGOLAN"}, {"id": "1202062013", "district_id": "120206", "name": "PARDAMEAN NAINGGOLAN"}]
+[
+  {
+    "id": "1202061001",
+    "district_id": "120206",
+    "name": "SARULLA"
+  },
+  {
+    "id": "1202062002",
+    "district_id": "120206",
+    "name": "TORDOLOK NAULI"
+  },
+  {
+    "id": "1202062003",
+    "district_id": "120206",
+    "name": "SIGURUNG-GURUNG"
+  },
+  {
+    "id": "1202062004",
+    "district_id": "120206",
+    "name": "SILANGKITANG"
+  },
+  {
+    "id": "1202062005",
+    "district_id": "120206",
+    "name": "SITOLUOMPU"
+  },
+  {
+    "id": "1202062006",
+    "district_id": "120206",
+    "name": "SIOPAT BAHAL"
+  },
+  {
+    "id": "1202062007",
+    "district_id": "120206",
+    "name": "PARDOMUAN NAINGGOLAN"
+  },
+  {
+    "id": "1202062008",
+    "district_id": "120206",
+    "name": "NAHORNOP MARSADA"
+  },
+  {
+    "id": "1202062009",
+    "district_id": "120206",
+    "name": "PARSAORAN SAMOSIR"
+  },
+  {
+    "id": "1202062010",
+    "district_id": "120206",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1202062011",
+    "district_id": "120206",
+    "name": "SETIA"
+  },
+  {
+    "id": "1202062012",
+    "district_id": "120206",
+    "name": "PARSAORAN NAINGGOLAN"
+  },
+  {
+    "id": "1202062013",
+    "district_id": "120206",
+    "name": "PARDAMEAN NAINGGOLAN"
+  }
+]

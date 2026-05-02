@@ -1,1 +1,32 @@
-[{"id": "3510112001", "district_id": "351011", "name": "KALIBARUKULON"}, {"id": "3510112002", "district_id": "351011", "name": "KALIBARUMANIS"}, {"id": "3510112003", "district_id": "351011", "name": "KALIBARUWETAN"}, {"id": "3510112004", "district_id": "351011", "name": "KAJARHARJO"}, {"id": "3510112005", "district_id": "351011", "name": "BANYUANYAR"}, {"id": "3510112006", "district_id": "351011", "name": "KEBONREJO"}]
+[
+  {
+    "id": "3510112001",
+    "district_id": "351011",
+    "name": "KALIBARUKULON"
+  },
+  {
+    "id": "3510112002",
+    "district_id": "351011",
+    "name": "KALIBARUMANIS"
+  },
+  {
+    "id": "3510112003",
+    "district_id": "351011",
+    "name": "KALIBARUWETAN"
+  },
+  {
+    "id": "3510112004",
+    "district_id": "351011",
+    "name": "KAJARHARJO"
+  },
+  {
+    "id": "3510112005",
+    "district_id": "351011",
+    "name": "BANYUANYAR"
+  },
+  {
+    "id": "3510112006",
+    "district_id": "351011",
+    "name": "KEBONREJO"
+  }
+]

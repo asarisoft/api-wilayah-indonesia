@@ -1,1 +1,37 @@
-[{"id": "7504072001", "district_id": "750407", "name": "PANCAKARSA I"}, {"id": "7504072002", "district_id": "750407", "name": "PANCAKARSA II"}, {"id": "7504072003", "district_id": "750407", "name": "MAKARTI JAYA"}, {"id": "7504072004", "district_id": "750407", "name": "KALIMAS"}, {"id": "7504072005", "district_id": "750407", "name": "MALANGO"}, {"id": "7504072006", "district_id": "750407", "name": "PUNCAK JAYA"}, {"id": "7504072007", "district_id": "750407", "name": "TIRTO ASRI"}]
+[
+  {
+    "id": "7504072001",
+    "district_id": "750407",
+    "name": "PANCAKARSA I"
+  },
+  {
+    "id": "7504072002",
+    "district_id": "750407",
+    "name": "PANCAKARSA II"
+  },
+  {
+    "id": "7504072003",
+    "district_id": "750407",
+    "name": "MAKARTI JAYA"
+  },
+  {
+    "id": "7504072004",
+    "district_id": "750407",
+    "name": "KALIMAS"
+  },
+  {
+    "id": "7504072005",
+    "district_id": "750407",
+    "name": "MALANGO"
+  },
+  {
+    "id": "7504072006",
+    "district_id": "750407",
+    "name": "PUNCAK JAYA"
+  },
+  {
+    "id": "7504072007",
+    "district_id": "750407",
+    "name": "TIRTO ASRI"
+  }
+]

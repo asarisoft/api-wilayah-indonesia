@@ -1,1 +1,72 @@
-[{"id": "7409071002", "district_id": "740907", "name": "SAWA"}, {"id": "7409072003", "district_id": "740907", "name": "LALEMBO"}, {"id": "7409072004", "district_id": "740907", "name": "LAIMEO"}, {"id": "7409072005", "district_id": "740907", "name": "PUDONGGALA"}, {"id": "7409072007", "district_id": "740907", "name": "MATANGGONAWE"}, {"id": "7409072008", "district_id": "740907", "name": "KOKAPI"}, {"id": "7409072012", "district_id": "740907", "name": "TONGAUNA"}, {"id": "7409072013", "district_id": "740907", "name": "PUUPI"}, {"id": "7409072016", "district_id": "740907", "name": "PUDONGGALA UTAMA"}, {"id": "7409072017", "district_id": "740907", "name": "ULU SAWA"}, {"id": "7409072021", "district_id": "740907", "name": "TUDUNGANO"}, {"id": "7409072022", "district_id": "740907", "name": "TANJUNG LAIMEO"}, {"id": "7409072023", "district_id": "740907", "name": "PANGGULAWU"}, {"id": "7409072024", "district_id": "740907", "name": "PEKAROA"}]
+[
+  {
+    "id": "7409071002",
+    "district_id": "740907",
+    "name": "SAWA"
+  },
+  {
+    "id": "7409072003",
+    "district_id": "740907",
+    "name": "LALEMBO"
+  },
+  {
+    "id": "7409072004",
+    "district_id": "740907",
+    "name": "LAIMEO"
+  },
+  {
+    "id": "7409072005",
+    "district_id": "740907",
+    "name": "PUDONGGALA"
+  },
+  {
+    "id": "7409072007",
+    "district_id": "740907",
+    "name": "MATANGGONAWE"
+  },
+  {
+    "id": "7409072008",
+    "district_id": "740907",
+    "name": "KOKAPI"
+  },
+  {
+    "id": "7409072012",
+    "district_id": "740907",
+    "name": "TONGAUNA"
+  },
+  {
+    "id": "7409072013",
+    "district_id": "740907",
+    "name": "PUUPI"
+  },
+  {
+    "id": "7409072016",
+    "district_id": "740907",
+    "name": "PUDONGGALA UTAMA"
+  },
+  {
+    "id": "7409072017",
+    "district_id": "740907",
+    "name": "ULU SAWA"
+  },
+  {
+    "id": "7409072021",
+    "district_id": "740907",
+    "name": "TUDUNGANO"
+  },
+  {
+    "id": "7409072022",
+    "district_id": "740907",
+    "name": "TANJUNG LAIMEO"
+  },
+  {
+    "id": "7409072023",
+    "district_id": "740907",
+    "name": "PANGGULAWU"
+  },
+  {
+    "id": "7409072024",
+    "district_id": "740907",
+    "name": "PEKAROA"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3323052001", "district_id": "332305", "name": "KALORAN"}, {"id": "3323052002", "district_id": "332305", "name": "TLOGOWUNGU"}, {"id": "3323052003", "district_id": "332305", "name": "GANDON"}, {"id": "3323052004", "district_id": "332305", "name": "TLETER"}, {"id": "3323052005", "district_id": "332305", "name": "GETAS"}, {"id": "3323052006", "district_id": "332305", "name": "KALIMANGGIS"}, {"id": "3323052007", "district_id": "332305", "name": "TEMPURAN"}, {"id": "3323052008", "district_id": "332305", "name": "KEMIRI"}, {"id": "3323052009", "district_id": "332305", "name": "GEBLOG"}, {"id": "3323052010", "district_id": "332305", "name": "TEGOWANUH"}, {"id": "3323052011", "district_id": "332305", "name": "KEBLUKAN"}, {"id": "3323052012", "district_id": "332305", "name": "TEPUSEN"}, {"id": "3323052013", "district_id": "332305", "name": "GANDULAN"}, {"id": "3323052014", "district_id": "332305", "name": "KWARAKAN"}]
+[
+  {
+    "id": "3323052001",
+    "district_id": "332305",
+    "name": "KALORAN"
+  },
+  {
+    "id": "3323052002",
+    "district_id": "332305",
+    "name": "TLOGOWUNGU"
+  },
+  {
+    "id": "3323052003",
+    "district_id": "332305",
+    "name": "GANDON"
+  },
+  {
+    "id": "3323052004",
+    "district_id": "332305",
+    "name": "TLETER"
+  },
+  {
+    "id": "3323052005",
+    "district_id": "332305",
+    "name": "GETAS"
+  },
+  {
+    "id": "3323052006",
+    "district_id": "332305",
+    "name": "KALIMANGGIS"
+  },
+  {
+    "id": "3323052007",
+    "district_id": "332305",
+    "name": "TEMPURAN"
+  },
+  {
+    "id": "3323052008",
+    "district_id": "332305",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3323052009",
+    "district_id": "332305",
+    "name": "GEBLOG"
+  },
+  {
+    "id": "3323052010",
+    "district_id": "332305",
+    "name": "TEGOWANUH"
+  },
+  {
+    "id": "3323052011",
+    "district_id": "332305",
+    "name": "KEBLUKAN"
+  },
+  {
+    "id": "3323052012",
+    "district_id": "332305",
+    "name": "TEPUSEN"
+  },
+  {
+    "id": "3323052013",
+    "district_id": "332305",
+    "name": "GANDULAN"
+  },
+  {
+    "id": "3323052014",
+    "district_id": "332305",
+    "name": "KWARAKAN"
+  }
+]

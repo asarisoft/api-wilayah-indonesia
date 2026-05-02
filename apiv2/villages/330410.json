@@ -1,1 +1,57 @@
-[{"id": "3304102001", "district_id": "330410", "name": "KASILIB"}, {"id": "3304102002", "district_id": "330410", "name": "TAPEN"}, {"id": "3304102003", "district_id": "330410", "name": "KARANGJAMBE"}, {"id": "3304102004", "district_id": "330410", "name": "WANADADI"}, {"id": "3304102005", "district_id": "330410", "name": "WANAKARSA"}, {"id": "3304102006", "district_id": "330410", "name": "LEMAHJAYA"}, {"id": "3304102007", "district_id": "330410", "name": "KARANGKEMIRI"}, {"id": "3304102008", "district_id": "330410", "name": "KANDANGWANGI"}, {"id": "3304102009", "district_id": "330410", "name": "MEDAYU"}, {"id": "3304102010", "district_id": "330410", "name": "LINGGASARI"}, {"id": "3304102011", "district_id": "330410", "name": "GUMINGSIR"}]
+[
+  {
+    "id": "3304102001",
+    "district_id": "330410",
+    "name": "KASILIB"
+  },
+  {
+    "id": "3304102002",
+    "district_id": "330410",
+    "name": "TAPEN"
+  },
+  {
+    "id": "3304102003",
+    "district_id": "330410",
+    "name": "KARANGJAMBE"
+  },
+  {
+    "id": "3304102004",
+    "district_id": "330410",
+    "name": "WANADADI"
+  },
+  {
+    "id": "3304102005",
+    "district_id": "330410",
+    "name": "WANAKARSA"
+  },
+  {
+    "id": "3304102006",
+    "district_id": "330410",
+    "name": "LEMAHJAYA"
+  },
+  {
+    "id": "3304102007",
+    "district_id": "330410",
+    "name": "KARANGKEMIRI"
+  },
+  {
+    "id": "3304102008",
+    "district_id": "330410",
+    "name": "KANDANGWANGI"
+  },
+  {
+    "id": "3304102009",
+    "district_id": "330410",
+    "name": "MEDAYU"
+  },
+  {
+    "id": "3304102010",
+    "district_id": "330410",
+    "name": "LINGGASARI"
+  },
+  {
+    "id": "3304102011",
+    "district_id": "330410",
+    "name": "GUMINGSIR"
+  }
+]

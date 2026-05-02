@@ -1,1 +1,72 @@
-[{"id": "7101142001", "district_id": "710114", "name": "BOMBANON"}, {"id": "7101142002", "district_id": "710114", "name": "ABAK"}, {"id": "7101142003", "district_id": "710114", "name": "TAPA AOG"}, {"id": "7101142004", "district_id": "710114", "name": "MOPUSI"}, {"id": "7101142005", "district_id": "710114", "name": "MATALI BARU"}, {"id": "7101142006", "district_id": "710114", "name": "BAKAN"}, {"id": "7101142007", "district_id": "710114", "name": "TANOYAN SELATAN"}, {"id": "7101142008", "district_id": "710114", "name": "TUNGOI I"}, {"id": "7101142009", "district_id": "710114", "name": "LOLAYAN"}, {"id": "7101142010", "district_id": "710114", "name": "MOPAIT"}, {"id": "7101142017", "district_id": "710114", "name": "KOPANDAKAN II"}, {"id": "7101142019", "district_id": "710114", "name": "TANOYAN UTARA"}, {"id": "7101142020", "district_id": "710114", "name": "TUNGOI II"}, {"id": "7101142021", "district_id": "710114", "name": "MENGKANG"}]
+[
+  {
+    "id": "7101142001",
+    "district_id": "710114",
+    "name": "BOMBANON"
+  },
+  {
+    "id": "7101142002",
+    "district_id": "710114",
+    "name": "ABAK"
+  },
+  {
+    "id": "7101142003",
+    "district_id": "710114",
+    "name": "TAPA AOG"
+  },
+  {
+    "id": "7101142004",
+    "district_id": "710114",
+    "name": "MOPUSI"
+  },
+  {
+    "id": "7101142005",
+    "district_id": "710114",
+    "name": "MATALI BARU"
+  },
+  {
+    "id": "7101142006",
+    "district_id": "710114",
+    "name": "BAKAN"
+  },
+  {
+    "id": "7101142007",
+    "district_id": "710114",
+    "name": "TANOYAN SELATAN"
+  },
+  {
+    "id": "7101142008",
+    "district_id": "710114",
+    "name": "TUNGOI I"
+  },
+  {
+    "id": "7101142009",
+    "district_id": "710114",
+    "name": "LOLAYAN"
+  },
+  {
+    "id": "7101142010",
+    "district_id": "710114",
+    "name": "MOPAIT"
+  },
+  {
+    "id": "7101142017",
+    "district_id": "710114",
+    "name": "KOPANDAKAN II"
+  },
+  {
+    "id": "7101142019",
+    "district_id": "710114",
+    "name": "TANOYAN UTARA"
+  },
+  {
+    "id": "7101142020",
+    "district_id": "710114",
+    "name": "TUNGOI II"
+  },
+  {
+    "id": "7101142021",
+    "district_id": "710114",
+    "name": "MENGKANG"
+  }
+]

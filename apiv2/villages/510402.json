@@ -1,1 +1,47 @@
-[{"id": "5104022001", "district_id": "510402", "name": "SABA"}, {"id": "5104022002", "district_id": "510402", "name": "PERING"}, {"id": "5104022003", "district_id": "510402", "name": "KERAMAS"}, {"id": "5104022004", "district_id": "510402", "name": "BELEGA"}, {"id": "5104022005", "district_id": "510402", "name": "BLAHBATUH"}, {"id": "5104022006", "district_id": "510402", "name": "BURUAN"}, {"id": "5104022007", "district_id": "510402", "name": "BEDULU"}, {"id": "5104022008", "district_id": "510402", "name": "MEDAHAN"}, {"id": "5104022009", "district_id": "510402", "name": "BONA"}]
+[
+  {
+    "id": "5104022001",
+    "district_id": "510402",
+    "name": "SABA"
+  },
+  {
+    "id": "5104022002",
+    "district_id": "510402",
+    "name": "PERING"
+  },
+  {
+    "id": "5104022003",
+    "district_id": "510402",
+    "name": "KERAMAS"
+  },
+  {
+    "id": "5104022004",
+    "district_id": "510402",
+    "name": "BELEGA"
+  },
+  {
+    "id": "5104022005",
+    "district_id": "510402",
+    "name": "BLAHBATUH"
+  },
+  {
+    "id": "5104022006",
+    "district_id": "510402",
+    "name": "BURUAN"
+  },
+  {
+    "id": "5104022007",
+    "district_id": "510402",
+    "name": "BEDULU"
+  },
+  {
+    "id": "5104022008",
+    "district_id": "510402",
+    "name": "MEDAHAN"
+  },
+  {
+    "id": "5104022009",
+    "district_id": "510402",
+    "name": "BONA"
+  }
+]

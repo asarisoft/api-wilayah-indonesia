@@ -1,1 +1,42 @@
-[{"id": "9507262001", "district_id": "950726", "name": "TINGGIPURA"}, {"id": "9507262002", "district_id": "950726", "name": "YEYUGU"}, {"id": "9507262003", "district_id": "950726", "name": "YUGUME"}, {"id": "9507262004", "district_id": "950726", "name": "BALIEMPURA"}, {"id": "9507262005", "district_id": "950726", "name": "DENOMAGI"}, {"id": "9507262006", "district_id": "950726", "name": "MAGAME"}, {"id": "9507262007", "district_id": "950726", "name": "LOREA"}, {"id": "9507262008", "district_id": "950726", "name": "ANGGUMABUME"}]
+[
+  {
+    "id": "9507262001",
+    "district_id": "950726",
+    "name": "TINGGIPURA"
+  },
+  {
+    "id": "9507262002",
+    "district_id": "950726",
+    "name": "YEYUGU"
+  },
+  {
+    "id": "9507262003",
+    "district_id": "950726",
+    "name": "YUGUME"
+  },
+  {
+    "id": "9507262004",
+    "district_id": "950726",
+    "name": "BALIEMPURA"
+  },
+  {
+    "id": "9507262005",
+    "district_id": "950726",
+    "name": "DENOMAGI"
+  },
+  {
+    "id": "9507262006",
+    "district_id": "950726",
+    "name": "MAGAME"
+  },
+  {
+    "id": "9507262007",
+    "district_id": "950726",
+    "name": "LOREA"
+  },
+  {
+    "id": "9507262008",
+    "district_id": "950726",
+    "name": "ANGGUMABUME"
+  }
+]

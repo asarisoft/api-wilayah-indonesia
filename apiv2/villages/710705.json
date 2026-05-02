@@ -1,1 +1,57 @@
-[{"id": "7107052006", "district_id": "710705", "name": "TONSAWANG"}, {"id": "7107052008", "district_id": "710705", "name": "BETELAN"}, {"id": "7107052009", "district_id": "710705", "name": "TOMBATU SATU"}, {"id": "7107052012", "district_id": "710705", "name": "KALI"}, {"id": "7107052014", "district_id": "710705", "name": "PISA"}, {"id": "7107052015", "district_id": "710705", "name": "TOMBATU"}, {"id": "7107052016", "district_id": "710705", "name": "BETELAN SATU"}, {"id": "7107052017", "district_id": "710705", "name": "KALI OKI"}, {"id": "7107052018", "district_id": "710705", "name": "TOMBATU TIGA SELATAN"}, {"id": "7107052019", "district_id": "710705", "name": "TOMBATU TIGA TIMUR"}, {"id": "7107052020", "district_id": "710705", "name": "TONSAWANG SATU"}]
+[
+  {
+    "id": "7107052006",
+    "district_id": "710705",
+    "name": "TONSAWANG"
+  },
+  {
+    "id": "7107052008",
+    "district_id": "710705",
+    "name": "BETELAN"
+  },
+  {
+    "id": "7107052009",
+    "district_id": "710705",
+    "name": "TOMBATU SATU"
+  },
+  {
+    "id": "7107052012",
+    "district_id": "710705",
+    "name": "KALI"
+  },
+  {
+    "id": "7107052014",
+    "district_id": "710705",
+    "name": "PISA"
+  },
+  {
+    "id": "7107052015",
+    "district_id": "710705",
+    "name": "TOMBATU"
+  },
+  {
+    "id": "7107052016",
+    "district_id": "710705",
+    "name": "BETELAN SATU"
+  },
+  {
+    "id": "7107052017",
+    "district_id": "710705",
+    "name": "KALI OKI"
+  },
+  {
+    "id": "7107052018",
+    "district_id": "710705",
+    "name": "TOMBATU TIGA SELATAN"
+  },
+  {
+    "id": "7107052019",
+    "district_id": "710705",
+    "name": "TOMBATU TIGA TIMUR"
+  },
+  {
+    "id": "7107052020",
+    "district_id": "710705",
+    "name": "TONSAWANG SATU"
+  }
+]

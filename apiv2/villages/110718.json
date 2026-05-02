@@ -1,1 +1,262 @@
-[{"id": "1107182001", "district_id": "110718", "name": "RAYA PAYA"}, {"id": "1107182002", "district_id": "110718", "name": "MESJID BUNGIE"}, {"id": "1107182003", "district_id": "110718", "name": "LILIEP"}, {"id": "1107182004", "district_id": "110718", "name": "UJONG BAROH"}, {"id": "1107182005", "district_id": "110718", "name": "PEUKAN SOT"}, {"id": "1107182006", "district_id": "110718", "name": "SUKON"}, {"id": "1107182007", "district_id": "110718", "name": "RAYA PALEUE"}, {"id": "1107182008", "district_id": "110718", "name": "LAMBIDENG"}, {"id": "1107182009", "district_id": "110718", "name": "COT PALEUE"}, {"id": "1107182010", "district_id": "110718", "name": "SEUKEE"}, {"id": "1107182011", "district_id": "110718", "name": "CEBREK"}, {"id": "1107182012", "district_id": "110718", "name": "LINGGONG SAGOE"}, {"id": "1107182013", "district_id": "110718", "name": "KULAM BARO"}, {"id": "1107182014", "district_id": "110718", "name": "EMPEH"}, {"id": "1107182015", "district_id": "110718", "name": "NIEN"}, {"id": "1107182016", "district_id": "110718", "name": "CEUREUCOK TIMUR"}, {"id": "1107182017", "district_id": "110718", "name": "CEUREUKCOK BARAT"}, {"id": "1107182018", "district_id": "110718", "name": "JAJA BAROH"}, {"id": "1107182019", "district_id": "110718", "name": "JAJA TUNONG"}, {"id": "1107182020", "district_id": "110718", "name": "MESJID GIGIENG"}, {"id": "1107182021", "district_id": "110718", "name": "GONG"}, {"id": "1107182022", "district_id": "110718", "name": "PULO RAYA"}, {"id": "1107182023", "district_id": "110718", "name": "PULO BLANG"}, {"id": "1107182024", "district_id": "110718", "name": "MAMPLAM"}, {"id": "1107182025", "district_id": "110718", "name": "MEUNASAH LHEE"}, {"id": "1107182026", "district_id": "110718", "name": "PANTE"}, {"id": "1107182027", "district_id": "110718", "name": "KUPULA"}, {"id": "1107182028", "district_id": "110718", "name": "MANTAK RAYA"}, {"id": "1107182029", "district_id": "110718", "name": "PEUKAN TUHA"}, {"id": "1107182030", "district_id": "110718", "name": "DAYAH LAMPOH AWE"}, {"id": "1107182031", "district_id": "110718", "name": "MEUNASAH BLANG"}, {"id": "1107182032", "district_id": "110718", "name": "PULO GAJAH MATE"}, {"id": "1107182033", "district_id": "110718", "name": "SEUK CEUKOK"}, {"id": "1107182034", "district_id": "110718", "name": "PULO TU"}, {"id": "1107182035", "district_id": "110718", "name": "MEUNASAH JURONG"}, {"id": "1107182036", "district_id": "110718", "name": "KAMPONG BLANG"}, {"id": "1107182037", "district_id": "110718", "name": "PADANG"}, {"id": "1107182038", "district_id": "110718", "name": "COT ARA"}, {"id": "1107182039", "district_id": "110718", "name": "DAYAH BLANG CUT"}, {"id": "1107182040", "district_id": "110718", "name": "TEUNGOH MANGKI"}, {"id": "1107182041", "district_id": "110718", "name": "DAYAH BLANG"}, {"id": "1107182042", "district_id": "110718", "name": "MADIKA"}, {"id": "1107182043", "district_id": "110718", "name": "SAGOE"}, {"id": "1107182044", "district_id": "110718", "name": "CEUREUCOK SAGOE"}, {"id": "1107182045", "district_id": "110718", "name": "BUNIEN"}, {"id": "1107182046", "district_id": "110718", "name": "PALOH TOK DUE"}, {"id": "1107182047", "district_id": "110718", "name": "MESJID TUNGOE"}, {"id": "1107182048", "district_id": "110718", "name": "BLANG LEUEN"}, {"id": "1107182049", "district_id": "110718", "name": "UJONG GAMPONG"}, {"id": "1107182050", "district_id": "110718", "name": "COT JAJA"}, {"id": "1107182051", "district_id": "110718", "name": "LHEUE"}, {"id": "1107182052", "district_id": "110718", "name": "ULEE BARAT"}]
+[
+  {
+    "id": "1107182001",
+    "district_id": "110718",
+    "name": "RAYA PAYA"
+  },
+  {
+    "id": "1107182002",
+    "district_id": "110718",
+    "name": "MESJID BUNGIE"
+  },
+  {
+    "id": "1107182003",
+    "district_id": "110718",
+    "name": "LILIEP"
+  },
+  {
+    "id": "1107182004",
+    "district_id": "110718",
+    "name": "UJONG BAROH"
+  },
+  {
+    "id": "1107182005",
+    "district_id": "110718",
+    "name": "PEUKAN SOT"
+  },
+  {
+    "id": "1107182006",
+    "district_id": "110718",
+    "name": "SUKON"
+  },
+  {
+    "id": "1107182007",
+    "district_id": "110718",
+    "name": "RAYA PALEUE"
+  },
+  {
+    "id": "1107182008",
+    "district_id": "110718",
+    "name": "LAMBIDENG"
+  },
+  {
+    "id": "1107182009",
+    "district_id": "110718",
+    "name": "COT PALEUE"
+  },
+  {
+    "id": "1107182010",
+    "district_id": "110718",
+    "name": "SEUKEE"
+  },
+  {
+    "id": "1107182011",
+    "district_id": "110718",
+    "name": "CEBREK"
+  },
+  {
+    "id": "1107182012",
+    "district_id": "110718",
+    "name": "LINGGONG SAGOE"
+  },
+  {
+    "id": "1107182013",
+    "district_id": "110718",
+    "name": "KULAM BARO"
+  },
+  {
+    "id": "1107182014",
+    "district_id": "110718",
+    "name": "EMPEH"
+  },
+  {
+    "id": "1107182015",
+    "district_id": "110718",
+    "name": "NIEN"
+  },
+  {
+    "id": "1107182016",
+    "district_id": "110718",
+    "name": "CEUREUCOK TIMUR"
+  },
+  {
+    "id": "1107182017",
+    "district_id": "110718",
+    "name": "CEUREUKCOK BARAT"
+  },
+  {
+    "id": "1107182018",
+    "district_id": "110718",
+    "name": "JAJA BAROH"
+  },
+  {
+    "id": "1107182019",
+    "district_id": "110718",
+    "name": "JAJA TUNONG"
+  },
+  {
+    "id": "1107182020",
+    "district_id": "110718",
+    "name": "MESJID GIGIENG"
+  },
+  {
+    "id": "1107182021",
+    "district_id": "110718",
+    "name": "GONG"
+  },
+  {
+    "id": "1107182022",
+    "district_id": "110718",
+    "name": "PULO RAYA"
+  },
+  {
+    "id": "1107182023",
+    "district_id": "110718",
+    "name": "PULO BLANG"
+  },
+  {
+    "id": "1107182024",
+    "district_id": "110718",
+    "name": "MAMPLAM"
+  },
+  {
+    "id": "1107182025",
+    "district_id": "110718",
+    "name": "MEUNASAH LHEE"
+  },
+  {
+    "id": "1107182026",
+    "district_id": "110718",
+    "name": "PANTE"
+  },
+  {
+    "id": "1107182027",
+    "district_id": "110718",
+    "name": "KUPULA"
+  },
+  {
+    "id": "1107182028",
+    "district_id": "110718",
+    "name": "MANTAK RAYA"
+  },
+  {
+    "id": "1107182029",
+    "district_id": "110718",
+    "name": "PEUKAN TUHA"
+  },
+  {
+    "id": "1107182030",
+    "district_id": "110718",
+    "name": "DAYAH LAMPOH AWE"
+  },
+  {
+    "id": "1107182031",
+    "district_id": "110718",
+    "name": "MEUNASAH BLANG"
+  },
+  {
+    "id": "1107182032",
+    "district_id": "110718",
+    "name": "PULO GAJAH MATE"
+  },
+  {
+    "id": "1107182033",
+    "district_id": "110718",
+    "name": "SEUK CEUKOK"
+  },
+  {
+    "id": "1107182034",
+    "district_id": "110718",
+    "name": "PULO TU"
+  },
+  {
+    "id": "1107182035",
+    "district_id": "110718",
+    "name": "MEUNASAH JURONG"
+  },
+  {
+    "id": "1107182036",
+    "district_id": "110718",
+    "name": "KAMPONG BLANG"
+  },
+  {
+    "id": "1107182037",
+    "district_id": "110718",
+    "name": "PADANG"
+  },
+  {
+    "id": "1107182038",
+    "district_id": "110718",
+    "name": "COT ARA"
+  },
+  {
+    "id": "1107182039",
+    "district_id": "110718",
+    "name": "DAYAH BLANG CUT"
+  },
+  {
+    "id": "1107182040",
+    "district_id": "110718",
+    "name": "TEUNGOH MANGKI"
+  },
+  {
+    "id": "1107182041",
+    "district_id": "110718",
+    "name": "DAYAH BLANG"
+  },
+  {
+    "id": "1107182042",
+    "district_id": "110718",
+    "name": "MADIKA"
+  },
+  {
+    "id": "1107182043",
+    "district_id": "110718",
+    "name": "SAGOE"
+  },
+  {
+    "id": "1107182044",
+    "district_id": "110718",
+    "name": "CEUREUCOK SAGOE"
+  },
+  {
+    "id": "1107182045",
+    "district_id": "110718",
+    "name": "BUNIEN"
+  },
+  {
+    "id": "1107182046",
+    "district_id": "110718",
+    "name": "PALOH TOK DUE"
+  },
+  {
+    "id": "1107182047",
+    "district_id": "110718",
+    "name": "MESJID TUNGOE"
+  },
+  {
+    "id": "1107182048",
+    "district_id": "110718",
+    "name": "BLANG LEUEN"
+  },
+  {
+    "id": "1107182049",
+    "district_id": "110718",
+    "name": "UJONG GAMPONG"
+  },
+  {
+    "id": "1107182050",
+    "district_id": "110718",
+    "name": "COT JAJA"
+  },
+  {
+    "id": "1107182051",
+    "district_id": "110718",
+    "name": "LHEUE"
+  },
+  {
+    "id": "1107182052",
+    "district_id": "110718",
+    "name": "ULEE BARAT"
+  }
+]

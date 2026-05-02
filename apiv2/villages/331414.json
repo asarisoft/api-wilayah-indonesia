@@ -1,1 +1,52 @@
-[{"id": "3314142001", "district_id": "331414", "name": "GENENG"}, {"id": "3314142002", "district_id": "331414", "name": "JERUK"}, {"id": "3314142003", "district_id": "331414", "name": "SUNGGINGAN"}, {"id": "3314142004", "district_id": "331414", "name": "GIRIMARGO"}, {"id": "3314142005", "district_id": "331414", "name": "DOYONG"}, {"id": "3314142006", "district_id": "331414", "name": "SOKO"}, {"id": "3314142007", "district_id": "331414", "name": "BROJOL"}, {"id": "3314142008", "district_id": "331414", "name": "BAGOR"}, {"id": "3314142009", "district_id": "331414", "name": "GILIREJO"}, {"id": "3314142010", "district_id": "331414", "name": "GILIREJO BARU"}]
+[
+  {
+    "id": "3314142001",
+    "district_id": "331414",
+    "name": "GENENG"
+  },
+  {
+    "id": "3314142002",
+    "district_id": "331414",
+    "name": "JERUK"
+  },
+  {
+    "id": "3314142003",
+    "district_id": "331414",
+    "name": "SUNGGINGAN"
+  },
+  {
+    "id": "3314142004",
+    "district_id": "331414",
+    "name": "GIRIMARGO"
+  },
+  {
+    "id": "3314142005",
+    "district_id": "331414",
+    "name": "DOYONG"
+  },
+  {
+    "id": "3314142006",
+    "district_id": "331414",
+    "name": "SOKO"
+  },
+  {
+    "id": "3314142007",
+    "district_id": "331414",
+    "name": "BROJOL"
+  },
+  {
+    "id": "3314142008",
+    "district_id": "331414",
+    "name": "BAGOR"
+  },
+  {
+    "id": "3314142009",
+    "district_id": "331414",
+    "name": "GILIREJO"
+  },
+  {
+    "id": "3314142010",
+    "district_id": "331414",
+    "name": "GILIREJO BARU"
+  }
+]

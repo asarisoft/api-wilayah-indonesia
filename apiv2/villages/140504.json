@@ -1,1 +1,52 @@
-[{"id": "1405041001", "district_id": "140504", "name": "PANGKALAN LESUNG"}, {"id": "1405042002", "district_id": "140504", "name": "DUSUN TUA"}, {"id": "1405042003", "district_id": "140504", "name": "GENDUANG"}, {"id": "1405042004", "district_id": "140504", "name": "MAYANG SARI"}, {"id": "1405042005", "district_id": "140504", "name": "RAWANG SARI"}, {"id": "1405042006", "district_id": "140504", "name": "MULYA SUBUR"}, {"id": "1405042007", "district_id": "140504", "name": "SARI MULYA"}, {"id": "1405042008", "district_id": "140504", "name": "SARI MAKMUR"}, {"id": "1405042009", "district_id": "140504", "name": "TANJUNG KUYO"}, {"id": "1405042010", "district_id": "140504", "name": "PESAGUAN"}]
+[
+  {
+    "id": "1405041001",
+    "district_id": "140504",
+    "name": "PANGKALAN LESUNG"
+  },
+  {
+    "id": "1405042002",
+    "district_id": "140504",
+    "name": "DUSUN TUA"
+  },
+  {
+    "id": "1405042003",
+    "district_id": "140504",
+    "name": "GENDUANG"
+  },
+  {
+    "id": "1405042004",
+    "district_id": "140504",
+    "name": "MAYANG SARI"
+  },
+  {
+    "id": "1405042005",
+    "district_id": "140504",
+    "name": "RAWANG SARI"
+  },
+  {
+    "id": "1405042006",
+    "district_id": "140504",
+    "name": "MULYA SUBUR"
+  },
+  {
+    "id": "1405042007",
+    "district_id": "140504",
+    "name": "SARI MULYA"
+  },
+  {
+    "id": "1405042008",
+    "district_id": "140504",
+    "name": "SARI MAKMUR"
+  },
+  {
+    "id": "1405042009",
+    "district_id": "140504",
+    "name": "TANJUNG KUYO"
+  },
+  {
+    "id": "1405042010",
+    "district_id": "140504",
+    "name": "PESAGUAN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1506011005", "district_id": "150601", "name": "PELABUHAN DAGANG"}, {"id": "1506012001", "district_id": "150601", "name": "BADANG"}, {"id": "1506012002", "district_id": "150601", "name": "TANJUNG TAYAS"}, {"id": "1506012003", "district_id": "150601", "name": "KUALA DASAL"}, {"id": "1506012004", "district_id": "150601", "name": "PEMATANG PAUH"}, {"id": "1506012006", "district_id": "150601", "name": "TAMAN RAJA"}, {"id": "1506012017", "district_id": "150601", "name": "BRASAU"}, {"id": "1506012019", "district_id": "150601", "name": "GEMURUH"}, {"id": "1506012020", "district_id": "150601", "name": "PEMATANG TEMBESU"}, {"id": "1506012021", "district_id": "150601", "name": "BADANG SEPAKAT"}]
+[
+  {
+    "id": "1506011005",
+    "district_id": "150601",
+    "name": "PELABUHAN DAGANG"
+  },
+  {
+    "id": "1506012001",
+    "district_id": "150601",
+    "name": "BADANG"
+  },
+  {
+    "id": "1506012002",
+    "district_id": "150601",
+    "name": "TANJUNG TAYAS"
+  },
+  {
+    "id": "1506012003",
+    "district_id": "150601",
+    "name": "KUALA DASAL"
+  },
+  {
+    "id": "1506012004",
+    "district_id": "150601",
+    "name": "PEMATANG PAUH"
+  },
+  {
+    "id": "1506012006",
+    "district_id": "150601",
+    "name": "TAMAN RAJA"
+  },
+  {
+    "id": "1506012017",
+    "district_id": "150601",
+    "name": "BRASAU"
+  },
+  {
+    "id": "1506012019",
+    "district_id": "150601",
+    "name": "GEMURUH"
+  },
+  {
+    "id": "1506012020",
+    "district_id": "150601",
+    "name": "PEMATANG TEMBESU"
+  },
+  {
+    "id": "1506012021",
+    "district_id": "150601",
+    "name": "BADANG SEPAKAT"
+  }
+]

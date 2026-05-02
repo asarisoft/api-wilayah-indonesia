@@ -1,1 +1,137 @@
-[{"id": "1117022001", "district_id": "111702", "name": "BENER PEPANYI"}, {"id": "1117022002", "district_id": "111702", "name": "BINTANG BENER"}, {"id": "1117022003", "district_id": "111702", "name": "BINTANG PERMATA"}, {"id": "1117022004", "district_id": "111702", "name": "BUNTUL PETERI"}, {"id": "1117022005", "district_id": "111702", "name": "DARUL AMAN"}, {"id": "1117022006", "district_id": "111702", "name": "GLP. WIH TENANG UKEN"}, {"id": "1117022007", "district_id": "111702", "name": "PANTAN TENGAH JAYA"}, {"id": "1117022008", "district_id": "111702", "name": "PENOSAN JAYA"}, {"id": "1117022009", "district_id": "111702", "name": "RAMUNG JAYA"}, {"id": "1117022010", "district_id": "111702", "name": "SENI ANTARA"}, {"id": "1117022011", "district_id": "111702", "name": "TEMAS MUMANANG"}, {"id": "1117022012", "district_id": "111702", "name": "WIH TENANG TOA"}, {"id": "1117022013", "district_id": "111702", "name": "WIH TENANG UKEN"}, {"id": "1117022014", "district_id": "111702", "name": "AYU ARA"}, {"id": "1117022015", "district_id": "111702", "name": "CEDING AYU"}, {"id": "1117022016", "district_id": "111702", "name": "UNING SEJUK"}, {"id": "1117022017", "district_id": "111702", "name": "SUKU SARA TANGKE"}, {"id": "1117022018", "district_id": "111702", "name": "RIKIT MUSARA"}, {"id": "1117022019", "district_id": "111702", "name": "JUNGKE"}, {"id": "1117022020", "district_id": "111702", "name": "BURNI PASE"}, {"id": "1117022021", "district_id": "111702", "name": "BALE MUSARA"}, {"id": "1117022022", "district_id": "111702", "name": "PEMANGO"}, {"id": "1117022023", "district_id": "111702", "name": "JELOBOK"}, {"id": "1117022024", "district_id": "111702", "name": "KEPIES"}, {"id": "1117022025", "district_id": "111702", "name": "TIMUR JAYA"}, {"id": "1117022026", "district_id": "111702", "name": "BALE PURNAMA"}, {"id": "1117022027", "district_id": "111702", "name": "TAWAR BENGI"}]
+[
+  {
+    "id": "1117022001",
+    "district_id": "111702",
+    "name": "BENER PEPANYI"
+  },
+  {
+    "id": "1117022002",
+    "district_id": "111702",
+    "name": "BINTANG BENER"
+  },
+  {
+    "id": "1117022003",
+    "district_id": "111702",
+    "name": "BINTANG PERMATA"
+  },
+  {
+    "id": "1117022004",
+    "district_id": "111702",
+    "name": "BUNTUL PETERI"
+  },
+  {
+    "id": "1117022005",
+    "district_id": "111702",
+    "name": "DARUL AMAN"
+  },
+  {
+    "id": "1117022006",
+    "district_id": "111702",
+    "name": "GLP. WIH TENANG UKEN"
+  },
+  {
+    "id": "1117022007",
+    "district_id": "111702",
+    "name": "PANTAN TENGAH JAYA"
+  },
+  {
+    "id": "1117022008",
+    "district_id": "111702",
+    "name": "PENOSAN JAYA"
+  },
+  {
+    "id": "1117022009",
+    "district_id": "111702",
+    "name": "RAMUNG JAYA"
+  },
+  {
+    "id": "1117022010",
+    "district_id": "111702",
+    "name": "SENI ANTARA"
+  },
+  {
+    "id": "1117022011",
+    "district_id": "111702",
+    "name": "TEMAS MUMANANG"
+  },
+  {
+    "id": "1117022012",
+    "district_id": "111702",
+    "name": "WIH TENANG TOA"
+  },
+  {
+    "id": "1117022013",
+    "district_id": "111702",
+    "name": "WIH TENANG UKEN"
+  },
+  {
+    "id": "1117022014",
+    "district_id": "111702",
+    "name": "AYU ARA"
+  },
+  {
+    "id": "1117022015",
+    "district_id": "111702",
+    "name": "CEDING AYU"
+  },
+  {
+    "id": "1117022016",
+    "district_id": "111702",
+    "name": "UNING SEJUK"
+  },
+  {
+    "id": "1117022017",
+    "district_id": "111702",
+    "name": "SUKU SARA TANGKE"
+  },
+  {
+    "id": "1117022018",
+    "district_id": "111702",
+    "name": "RIKIT MUSARA"
+  },
+  {
+    "id": "1117022019",
+    "district_id": "111702",
+    "name": "JUNGKE"
+  },
+  {
+    "id": "1117022020",
+    "district_id": "111702",
+    "name": "BURNI PASE"
+  },
+  {
+    "id": "1117022021",
+    "district_id": "111702",
+    "name": "BALE MUSARA"
+  },
+  {
+    "id": "1117022022",
+    "district_id": "111702",
+    "name": "PEMANGO"
+  },
+  {
+    "id": "1117022023",
+    "district_id": "111702",
+    "name": "JELOBOK"
+  },
+  {
+    "id": "1117022024",
+    "district_id": "111702",
+    "name": "KEPIES"
+  },
+  {
+    "id": "1117022025",
+    "district_id": "111702",
+    "name": "TIMUR JAYA"
+  },
+  {
+    "id": "1117022026",
+    "district_id": "111702",
+    "name": "BALE PURNAMA"
+  },
+  {
+    "id": "1117022027",
+    "district_id": "111702",
+    "name": "TAWAR BENGI"
+  }
+]

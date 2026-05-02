@@ -1,1 +1,72 @@
-[{"id": "3602132005", "district_id": "360213", "name": "TANJUNGSARI"}, {"id": "3602132006", "district_id": "360213", "name": "MAJA"}, {"id": "3602132007", "district_id": "360213", "name": "SANGIANG"}, {"id": "3602132008", "district_id": "360213", "name": "BINONG"}, {"id": "3602132009", "district_id": "360213", "name": "GUBUGAN CIBEUREUM"}, {"id": "3602132011", "district_id": "360213", "name": "MEKARSARI"}, {"id": "3602132012", "district_id": "360213", "name": "PADASUKA"}, {"id": "3602132015", "district_id": "360213", "name": "CURUGBADAK"}, {"id": "3602132016", "district_id": "360213", "name": "SINDANGMULYA"}, {"id": "3602132018", "district_id": "360213", "name": "CILANGKAP"}, {"id": "3602132020", "district_id": "360213", "name": "PASIRKEMBANG"}, {"id": "3602132021", "district_id": "360213", "name": "PASIRKECAPI"}, {"id": "3602132022", "district_id": "360213", "name": "BUYUT MEKAR"}, {"id": "3602132023", "district_id": "360213", "name": "MAJA BARU"}]
+[
+  {
+    "id": "3602132005",
+    "district_id": "360213",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3602132006",
+    "district_id": "360213",
+    "name": "MAJA"
+  },
+  {
+    "id": "3602132007",
+    "district_id": "360213",
+    "name": "SANGIANG"
+  },
+  {
+    "id": "3602132008",
+    "district_id": "360213",
+    "name": "BINONG"
+  },
+  {
+    "id": "3602132009",
+    "district_id": "360213",
+    "name": "GUBUGAN CIBEUREUM"
+  },
+  {
+    "id": "3602132011",
+    "district_id": "360213",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3602132012",
+    "district_id": "360213",
+    "name": "PADASUKA"
+  },
+  {
+    "id": "3602132015",
+    "district_id": "360213",
+    "name": "CURUGBADAK"
+  },
+  {
+    "id": "3602132016",
+    "district_id": "360213",
+    "name": "SINDANGMULYA"
+  },
+  {
+    "id": "3602132018",
+    "district_id": "360213",
+    "name": "CILANGKAP"
+  },
+  {
+    "id": "3602132020",
+    "district_id": "360213",
+    "name": "PASIRKEMBANG"
+  },
+  {
+    "id": "3602132021",
+    "district_id": "360213",
+    "name": "PASIRKECAPI"
+  },
+  {
+    "id": "3602132022",
+    "district_id": "360213",
+    "name": "BUYUT MEKAR"
+  },
+  {
+    "id": "3602132023",
+    "district_id": "360213",
+    "name": "MAJA BARU"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "6271041001", "district_id": "627104", "name": "BERENG BENGKEL"}, {"id": "6271041002", "district_id": "627104", "name": "KALAMPANGAN"}, {"id": "6271041003", "district_id": "627104", "name": "KERENG BANGKIRAI"}, {"id": "6271041004", "district_id": "627104", "name": "KAMELOH BARU"}, {"id": "6271041005", "district_id": "627104", "name": "DANAU TUNDAI"}, {"id": "6271041006", "district_id": "627104", "name": "SABARU"}]
+[
+  {
+    "id": "6271041001",
+    "district_id": "627104",
+    "name": "BERENG BENGKEL"
+  },
+  {
+    "id": "6271041002",
+    "district_id": "627104",
+    "name": "KALAMPANGAN"
+  },
+  {
+    "id": "6271041003",
+    "district_id": "627104",
+    "name": "KERENG BANGKIRAI"
+  },
+  {
+    "id": "6271041004",
+    "district_id": "627104",
+    "name": "KAMELOH BARU"
+  },
+  {
+    "id": "6271041005",
+    "district_id": "627104",
+    "name": "DANAU TUNDAI"
+  },
+  {
+    "id": "6271041006",
+    "district_id": "627104",
+    "name": "SABARU"
+  }
+]

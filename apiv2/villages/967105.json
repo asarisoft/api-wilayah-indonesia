@@ -1,1 +1,22 @@
-[{"id": "9671051001", "district_id": "967105", "name": "MALANU"}, {"id": "9671051002", "district_id": "967105", "name": "MALASILEN"}, {"id": "9671051003", "district_id": "967105", "name": "MATALAMAGI"}, {"id": "9671051004", "district_id": "967105", "name": "SAWAGUMU"}]
+[
+  {
+    "id": "9671051001",
+    "district_id": "967105",
+    "name": "MALANU"
+  },
+  {
+    "id": "9671051002",
+    "district_id": "967105",
+    "name": "MALASILEN"
+  },
+  {
+    "id": "9671051003",
+    "district_id": "967105",
+    "name": "MATALAMAGI"
+  },
+  {
+    "id": "9671051004",
+    "district_id": "967105",
+    "name": "SAWAGUMU"
+  }
+]

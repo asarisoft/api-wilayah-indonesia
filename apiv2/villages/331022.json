@@ -1,1 +1,67 @@
-[{"id": "3310222001", "district_id": "331022", "name": "MANJUNG"}, {"id": "3310222002", "district_id": "331022", "name": "GATAK"}, {"id": "3310222003", "district_id": "331022", "name": "DUWET"}, {"id": "3310222004", "district_id": "331022", "name": "SENDEN"}, {"id": "3310222005", "district_id": "331022", "name": "NGAWEN"}, {"id": "3310222006", "district_id": "331022", "name": "KAHUMAN"}, {"id": "3310222007", "district_id": "331022", "name": "PEPE"}, {"id": "3310222008", "district_id": "331022", "name": "MANJUNGAN"}, {"id": "3310222009", "district_id": "331022", "name": "KWAREN"}, {"id": "3310222010", "district_id": "331022", "name": "MAYUNGAN"}, {"id": "3310222011", "district_id": "331022", "name": "TEMPURSARI"}, {"id": "3310222012", "district_id": "331022", "name": "CANDIREJO"}, {"id": "3310222013", "district_id": "331022", "name": "DRONO"}]
+[
+  {
+    "id": "3310222001",
+    "district_id": "331022",
+    "name": "MANJUNG"
+  },
+  {
+    "id": "3310222002",
+    "district_id": "331022",
+    "name": "GATAK"
+  },
+  {
+    "id": "3310222003",
+    "district_id": "331022",
+    "name": "DUWET"
+  },
+  {
+    "id": "3310222004",
+    "district_id": "331022",
+    "name": "SENDEN"
+  },
+  {
+    "id": "3310222005",
+    "district_id": "331022",
+    "name": "NGAWEN"
+  },
+  {
+    "id": "3310222006",
+    "district_id": "331022",
+    "name": "KAHUMAN"
+  },
+  {
+    "id": "3310222007",
+    "district_id": "331022",
+    "name": "PEPE"
+  },
+  {
+    "id": "3310222008",
+    "district_id": "331022",
+    "name": "MANJUNGAN"
+  },
+  {
+    "id": "3310222009",
+    "district_id": "331022",
+    "name": "KWAREN"
+  },
+  {
+    "id": "3310222010",
+    "district_id": "331022",
+    "name": "MAYUNGAN"
+  },
+  {
+    "id": "3310222011",
+    "district_id": "331022",
+    "name": "TEMPURSARI"
+  },
+  {
+    "id": "3310222012",
+    "district_id": "331022",
+    "name": "CANDIREJO"
+  },
+  {
+    "id": "3310222013",
+    "district_id": "331022",
+    "name": "DRONO"
+  }
+]

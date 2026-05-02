@@ -1,1 +1,57 @@
-[{"id": "8109022001", "district_id": "810902", "name": "WAETAWA"}, {"id": "8109022002", "district_id": "810902", "name": "WAESILI"}, {"id": "8109022003", "district_id": "810902", "name": "LENA"}, {"id": "8109022004", "district_id": "810902", "name": "SIMI"}, {"id": "8109022005", "district_id": "810902", "name": "WAELIKUT"}, {"id": "8109022006", "district_id": "810902", "name": "WAMSISI"}, {"id": "8109022007", "district_id": "810902", "name": "POHON BATU"}, {"id": "8109022008", "district_id": "810902", "name": "WAETEBA"}, {"id": "8109022009", "district_id": "810902", "name": "HOTE"}, {"id": "8109022010", "district_id": "810902", "name": "WAEMASING"}, {"id": "8109022011", "district_id": "810902", "name": "BATU KASA"}]
+[
+  {
+    "id": "8109022001",
+    "district_id": "810902",
+    "name": "WAETAWA"
+  },
+  {
+    "id": "8109022002",
+    "district_id": "810902",
+    "name": "WAESILI"
+  },
+  {
+    "id": "8109022003",
+    "district_id": "810902",
+    "name": "LENA"
+  },
+  {
+    "id": "8109022004",
+    "district_id": "810902",
+    "name": "SIMI"
+  },
+  {
+    "id": "8109022005",
+    "district_id": "810902",
+    "name": "WAELIKUT"
+  },
+  {
+    "id": "8109022006",
+    "district_id": "810902",
+    "name": "WAMSISI"
+  },
+  {
+    "id": "8109022007",
+    "district_id": "810902",
+    "name": "POHON BATU"
+  },
+  {
+    "id": "8109022008",
+    "district_id": "810902",
+    "name": "WAETEBA"
+  },
+  {
+    "id": "8109022009",
+    "district_id": "810902",
+    "name": "HOTE"
+  },
+  {
+    "id": "8109022010",
+    "district_id": "810902",
+    "name": "WAEMASING"
+  },
+  {
+    "id": "8109022011",
+    "district_id": "810902",
+    "name": "BATU KASA"
+  }
+]

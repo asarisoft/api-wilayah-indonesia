@@ -1,1 +1,62 @@
-[{"id": "7109021002", "district_id": "710902", "name": "PASENG"}, {"id": "7109021003", "district_id": "710902", "name": "PANIKI"}, {"id": "7109021004", "district_id": "710902", "name": "ONDONG"}, {"id": "7109022001", "district_id": "710902", "name": "PELING SAWANG"}, {"id": "7109022005", "district_id": "710902", "name": "KANAWONG"}, {"id": "7109022006", "district_id": "710902", "name": "BUMBIHA"}, {"id": "7109022007", "district_id": "710902", "name": "PEHE"}, {"id": "7109022008", "district_id": "710902", "name": "LEHI"}, {"id": "7109022009", "district_id": "710902", "name": "PELING"}, {"id": "7109022010", "district_id": "710902", "name": "MAKALEHI"}, {"id": "7109022011", "district_id": "710902", "name": "MAKALEHI UTARA"}, {"id": "7109022012", "district_id": "710902", "name": "MAKALEHI TIMUR"}]
+[
+  {
+    "id": "7109021002",
+    "district_id": "710902",
+    "name": "PASENG"
+  },
+  {
+    "id": "7109021003",
+    "district_id": "710902",
+    "name": "PANIKI"
+  },
+  {
+    "id": "7109021004",
+    "district_id": "710902",
+    "name": "ONDONG"
+  },
+  {
+    "id": "7109022001",
+    "district_id": "710902",
+    "name": "PELING SAWANG"
+  },
+  {
+    "id": "7109022005",
+    "district_id": "710902",
+    "name": "KANAWONG"
+  },
+  {
+    "id": "7109022006",
+    "district_id": "710902",
+    "name": "BUMBIHA"
+  },
+  {
+    "id": "7109022007",
+    "district_id": "710902",
+    "name": "PEHE"
+  },
+  {
+    "id": "7109022008",
+    "district_id": "710902",
+    "name": "LEHI"
+  },
+  {
+    "id": "7109022009",
+    "district_id": "710902",
+    "name": "PELING"
+  },
+  {
+    "id": "7109022010",
+    "district_id": "710902",
+    "name": "MAKALEHI"
+  },
+  {
+    "id": "7109022011",
+    "district_id": "710902",
+    "name": "MAKALEHI UTARA"
+  },
+  {
+    "id": "7109022012",
+    "district_id": "710902",
+    "name": "MAKALEHI TIMUR"
+  }
+]

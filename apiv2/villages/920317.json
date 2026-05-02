@@ -1,1 +1,47 @@
-[{"id": "9203172001", "district_id": "920317", "name": "MBIMA JAYA"}, {"id": "9203172002", "district_id": "920317", "name": "WARISA MULYA"}, {"id": "9203172003", "district_id": "920317", "name": "WONODADI MULYA"}, {"id": "9203172004", "district_id": "920317", "name": "TOMAGE"}, {"id": "9203172005", "district_id": "920317", "name": "OTOWERI"}, {"id": "9203172006", "district_id": "920317", "name": "WAMOSAN"}, {"id": "9203172007", "district_id": "920317", "name": "SALAWIER"}, {"id": "9203172008", "district_id": "920317", "name": "WASA MULYA"}, {"id": "9203172009", "district_id": "920317", "name": "WAMMAR"}]
+[
+  {
+    "id": "9203172001",
+    "district_id": "920317",
+    "name": "MBIMA JAYA"
+  },
+  {
+    "id": "9203172002",
+    "district_id": "920317",
+    "name": "WARISA MULYA"
+  },
+  {
+    "id": "9203172003",
+    "district_id": "920317",
+    "name": "WONODADI MULYA"
+  },
+  {
+    "id": "9203172004",
+    "district_id": "920317",
+    "name": "TOMAGE"
+  },
+  {
+    "id": "9203172005",
+    "district_id": "920317",
+    "name": "OTOWERI"
+  },
+  {
+    "id": "9203172006",
+    "district_id": "920317",
+    "name": "WAMOSAN"
+  },
+  {
+    "id": "9203172007",
+    "district_id": "920317",
+    "name": "SALAWIER"
+  },
+  {
+    "id": "9203172008",
+    "district_id": "920317",
+    "name": "WASA MULYA"
+  },
+  {
+    "id": "9203172009",
+    "district_id": "920317",
+    "name": "WAMMAR"
+  }
+]

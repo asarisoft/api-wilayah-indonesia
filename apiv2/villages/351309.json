@@ -1,1 +1,97 @@
-[{"id": "3513092001", "district_id": "351309", "name": "BATUR"}, {"id": "3513092002", "district_id": "351309", "name": "BETEK TAMAN"}, {"id": "3513092003", "district_id": "351309", "name": "SENTUL"}, {"id": "3513092004", "district_id": "351309", "name": "DANDANG"}, {"id": "3513092005", "district_id": "351309", "name": "KERTOSONO"}, {"id": "3513092006", "district_id": "351309", "name": "PRASI"}, {"id": "3513092007", "district_id": "351309", "name": "DUREN"}, {"id": "3513092008", "district_id": "351309", "name": "RENTENG"}, {"id": "3513092009", "district_id": "351309", "name": "BULUPADAK"}, {"id": "3513092010", "district_id": "351309", "name": "KEBEN"}, {"id": "3513092011", "district_id": "351309", "name": "GADINGWETAN"}, {"id": "3513092012", "district_id": "351309", "name": "WANGKAL"}, {"id": "3513092013", "district_id": "351309", "name": "NOGOSAREN"}, {"id": "3513092014", "district_id": "351309", "name": "MOJOLEGI"}, {"id": "3513092015", "district_id": "351309", "name": "SUMBERSECANG"}, {"id": "3513092016", "district_id": "351309", "name": "CONDONG"}, {"id": "3513092017", "district_id": "351309", "name": "JURANGJERO"}, {"id": "3513092018", "district_id": "351309", "name": "KALIANCAR"}, {"id": "3513092019", "district_id": "351309", "name": "RANUWURUNG"}]
+[
+  {
+    "id": "3513092001",
+    "district_id": "351309",
+    "name": "BATUR"
+  },
+  {
+    "id": "3513092002",
+    "district_id": "351309",
+    "name": "BETEK TAMAN"
+  },
+  {
+    "id": "3513092003",
+    "district_id": "351309",
+    "name": "SENTUL"
+  },
+  {
+    "id": "3513092004",
+    "district_id": "351309",
+    "name": "DANDANG"
+  },
+  {
+    "id": "3513092005",
+    "district_id": "351309",
+    "name": "KERTOSONO"
+  },
+  {
+    "id": "3513092006",
+    "district_id": "351309",
+    "name": "PRASI"
+  },
+  {
+    "id": "3513092007",
+    "district_id": "351309",
+    "name": "DUREN"
+  },
+  {
+    "id": "3513092008",
+    "district_id": "351309",
+    "name": "RENTENG"
+  },
+  {
+    "id": "3513092009",
+    "district_id": "351309",
+    "name": "BULUPADAK"
+  },
+  {
+    "id": "3513092010",
+    "district_id": "351309",
+    "name": "KEBEN"
+  },
+  {
+    "id": "3513092011",
+    "district_id": "351309",
+    "name": "GADINGWETAN"
+  },
+  {
+    "id": "3513092012",
+    "district_id": "351309",
+    "name": "WANGKAL"
+  },
+  {
+    "id": "3513092013",
+    "district_id": "351309",
+    "name": "NOGOSAREN"
+  },
+  {
+    "id": "3513092014",
+    "district_id": "351309",
+    "name": "MOJOLEGI"
+  },
+  {
+    "id": "3513092015",
+    "district_id": "351309",
+    "name": "SUMBERSECANG"
+  },
+  {
+    "id": "3513092016",
+    "district_id": "351309",
+    "name": "CONDONG"
+  },
+  {
+    "id": "3513092017",
+    "district_id": "351309",
+    "name": "JURANGJERO"
+  },
+  {
+    "id": "3513092018",
+    "district_id": "351309",
+    "name": "KALIANCAR"
+  },
+  {
+    "id": "3513092019",
+    "district_id": "351309",
+    "name": "RANUWURUNG"
+  }
+]

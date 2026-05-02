@@ -1,1 +1,77 @@
-[{"id": "3205062001", "district_id": "320506", "name": "BANYURESMI"}, {"id": "3205062002", "district_id": "320506", "name": "CIMAREME"}, {"id": "3205062003", "district_id": "320506", "name": "SUKARATU"}, {"id": "3205062004", "district_id": "320506", "name": "SUKASENANG"}, {"id": "3205062005", "district_id": "320506", "name": "SUKARAJA"}, {"id": "3205062006", "district_id": "320506", "name": "CIPICUNG"}, {"id": "3205062007", "district_id": "320506", "name": "DANGDEUR"}, {"id": "3205062008", "district_id": "320506", "name": "SUKAKARYA"}, {"id": "3205062009", "district_id": "320506", "name": "PAMEKARSARI"}, {"id": "3205062010", "district_id": "320506", "name": "BINAKARYA"}, {"id": "3205062011", "district_id": "320506", "name": "BAGENDIT"}, {"id": "3205062012", "district_id": "320506", "name": "KARYAMUKTI"}, {"id": "3205062013", "district_id": "320506", "name": "KARYASARI"}, {"id": "3205062014", "district_id": "320506", "name": "SUKAMUKTI"}, {"id": "3205062015", "district_id": "320506", "name": "SUKALAKSANA"}]
+[
+  {
+    "id": "3205062001",
+    "district_id": "320506",
+    "name": "BANYURESMI"
+  },
+  {
+    "id": "3205062002",
+    "district_id": "320506",
+    "name": "CIMAREME"
+  },
+  {
+    "id": "3205062003",
+    "district_id": "320506",
+    "name": "SUKARATU"
+  },
+  {
+    "id": "3205062004",
+    "district_id": "320506",
+    "name": "SUKASENANG"
+  },
+  {
+    "id": "3205062005",
+    "district_id": "320506",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "3205062006",
+    "district_id": "320506",
+    "name": "CIPICUNG"
+  },
+  {
+    "id": "3205062007",
+    "district_id": "320506",
+    "name": "DANGDEUR"
+  },
+  {
+    "id": "3205062008",
+    "district_id": "320506",
+    "name": "SUKAKARYA"
+  },
+  {
+    "id": "3205062009",
+    "district_id": "320506",
+    "name": "PAMEKARSARI"
+  },
+  {
+    "id": "3205062010",
+    "district_id": "320506",
+    "name": "BINAKARYA"
+  },
+  {
+    "id": "3205062011",
+    "district_id": "320506",
+    "name": "BAGENDIT"
+  },
+  {
+    "id": "3205062012",
+    "district_id": "320506",
+    "name": "KARYAMUKTI"
+  },
+  {
+    "id": "3205062013",
+    "district_id": "320506",
+    "name": "KARYASARI"
+  },
+  {
+    "id": "3205062014",
+    "district_id": "320506",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "3205062015",
+    "district_id": "320506",
+    "name": "SUKALAKSANA"
+  }
+]

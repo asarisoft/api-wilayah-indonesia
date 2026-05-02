@@ -1,1 +1,82 @@
-[{"id": "6206051009", "district_id": "620605", "name": "SAMBA KAHAYAN"}, {"id": "6206052001", "district_id": "620605", "name": "TUMBANG LAHANG"}, {"id": "6206052002", "district_id": "620605", "name": "TEWANG PANJANG"}, {"id": "6206052003", "district_id": "620605", "name": "PETAK PUTI"}, {"id": "6206052004", "district_id": "620605", "name": "TELOK"}, {"id": "6206052005", "district_id": "620605", "name": "SAMBA DANUM"}, {"id": "6206052006", "district_id": "620605", "name": "SAMBA BAKUMPAI"}, {"id": "6206052007", "district_id": "620605", "name": "SAMBA KATUNG"}, {"id": "6206052008", "district_id": "620605", "name": "NAPU SAHUR"}, {"id": "6206052010", "district_id": "620605", "name": "BATU BADINDING"}, {"id": "6206052011", "district_id": "620605", "name": "RANTAU ASEM"}, {"id": "6206052012", "district_id": "620605", "name": "MIRAH KALANAMAN"}, {"id": "6206052013", "district_id": "620605", "name": "TUMBANG KALEMEI"}, {"id": "6206052014", "district_id": "620605", "name": "TUMBANG MARAK"}, {"id": "6206052015", "district_id": "620605", "name": "TUMBANG HANGEI"}, {"id": "6206052016", "district_id": "620605", "name": "TUMBANG PARIYEI"}]
+[
+  {
+    "id": "6206051009",
+    "district_id": "620605",
+    "name": "SAMBA KAHAYAN"
+  },
+  {
+    "id": "6206052001",
+    "district_id": "620605",
+    "name": "TUMBANG LAHANG"
+  },
+  {
+    "id": "6206052002",
+    "district_id": "620605",
+    "name": "TEWANG PANJANG"
+  },
+  {
+    "id": "6206052003",
+    "district_id": "620605",
+    "name": "PETAK PUTI"
+  },
+  {
+    "id": "6206052004",
+    "district_id": "620605",
+    "name": "TELOK"
+  },
+  {
+    "id": "6206052005",
+    "district_id": "620605",
+    "name": "SAMBA DANUM"
+  },
+  {
+    "id": "6206052006",
+    "district_id": "620605",
+    "name": "SAMBA BAKUMPAI"
+  },
+  {
+    "id": "6206052007",
+    "district_id": "620605",
+    "name": "SAMBA KATUNG"
+  },
+  {
+    "id": "6206052008",
+    "district_id": "620605",
+    "name": "NAPU SAHUR"
+  },
+  {
+    "id": "6206052010",
+    "district_id": "620605",
+    "name": "BATU BADINDING"
+  },
+  {
+    "id": "6206052011",
+    "district_id": "620605",
+    "name": "RANTAU ASEM"
+  },
+  {
+    "id": "6206052012",
+    "district_id": "620605",
+    "name": "MIRAH KALANAMAN"
+  },
+  {
+    "id": "6206052013",
+    "district_id": "620605",
+    "name": "TUMBANG KALEMEI"
+  },
+  {
+    "id": "6206052014",
+    "district_id": "620605",
+    "name": "TUMBANG MARAK"
+  },
+  {
+    "id": "6206052015",
+    "district_id": "620605",
+    "name": "TUMBANG HANGEI"
+  },
+  {
+    "id": "6206052016",
+    "district_id": "620605",
+    "name": "TUMBANG PARIYEI"
+  }
+]

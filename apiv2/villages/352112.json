@@ -1,1 +1,62 @@
-[{"id": "3521122001", "district_id": "352112", "name": "BANYUBIRU"}, {"id": "3521122002", "district_id": "352112", "name": "KEDUNGGUDEL"}, {"id": "3521122003", "district_id": "352112", "name": "SEKARALAS"}, {"id": "3521122004", "district_id": "352112", "name": "SEKARPUTIH"}, {"id": "3521122005", "district_id": "352112", "name": "KAYUTREJO"}, {"id": "3521122006", "district_id": "352112", "name": "SIDOLAJU"}, {"id": "3521122007", "district_id": "352112", "name": "KARANGBANYU"}, {"id": "3521122008", "district_id": "352112", "name": "WIDODAREN"}, {"id": "3521122009", "district_id": "352112", "name": "GENDINGAN"}, {"id": "3521122010", "district_id": "352112", "name": "KAUMAN"}, {"id": "3521122011", "district_id": "352112", "name": "SIDOMAKMUR"}, {"id": "3521122012", "district_id": "352112", "name": "WALIKUKUN"}]
+[
+  {
+    "id": "3521122001",
+    "district_id": "352112",
+    "name": "BANYUBIRU"
+  },
+  {
+    "id": "3521122002",
+    "district_id": "352112",
+    "name": "KEDUNGGUDEL"
+  },
+  {
+    "id": "3521122003",
+    "district_id": "352112",
+    "name": "SEKARALAS"
+  },
+  {
+    "id": "3521122004",
+    "district_id": "352112",
+    "name": "SEKARPUTIH"
+  },
+  {
+    "id": "3521122005",
+    "district_id": "352112",
+    "name": "KAYUTREJO"
+  },
+  {
+    "id": "3521122006",
+    "district_id": "352112",
+    "name": "SIDOLAJU"
+  },
+  {
+    "id": "3521122007",
+    "district_id": "352112",
+    "name": "KARANGBANYU"
+  },
+  {
+    "id": "3521122008",
+    "district_id": "352112",
+    "name": "WIDODAREN"
+  },
+  {
+    "id": "3521122009",
+    "district_id": "352112",
+    "name": "GENDINGAN"
+  },
+  {
+    "id": "3521122010",
+    "district_id": "352112",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3521122011",
+    "district_id": "352112",
+    "name": "SIDOMAKMUR"
+  },
+  {
+    "id": "3521122012",
+    "district_id": "352112",
+    "name": "WALIKUKUN"
+  }
+]

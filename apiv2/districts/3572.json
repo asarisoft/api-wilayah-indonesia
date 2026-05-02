@@ -1,1 +1,17 @@
-[{"id": "357201", "regency_id": "3572", "name": "KEPANJENKIDUL"}, {"id": "357202", "regency_id": "3572", "name": "SUKOREJO"}, {"id": "357203", "regency_id": "3572", "name": "SANANWETAN"}]
+[
+  {
+    "id": "357201",
+    "regency_id": "3572",
+    "name": "KEPANJENKIDUL"
+  },
+  {
+    "id": "357202",
+    "regency_id": "3572",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "357203",
+    "regency_id": "3572",
+    "name": "SANANWETAN"
+  }
+]

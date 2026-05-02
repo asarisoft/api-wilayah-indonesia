@@ -1,1 +1,72 @@
-[{"id": "1905041001", "district_id": "190504", "name": "KELAPA"}, {"id": "1905042002", "district_id": "190504", "name": "MANCUNG"}, {"id": "1905042003", "district_id": "190504", "name": "KAYU ARANG"}, {"id": "1905042004", "district_id": "190504", "name": "PUSUK"}, {"id": "1905042005", "district_id": "190504", "name": "DENDANG"}, {"id": "1905042006", "district_id": "190504", "name": "KACUNG"}, {"id": "1905042007", "district_id": "190504", "name": "SINAR SARI"}, {"id": "1905042008", "district_id": "190504", "name": "BERUAS"}, {"id": "1905042009", "district_id": "190504", "name": "TEBING"}, {"id": "1905042010", "district_id": "190504", "name": "TERENTANG"}, {"id": "1905042011", "district_id": "190504", "name": "TUIK"}, {"id": "1905042012", "district_id": "190504", "name": "TUGANG"}, {"id": "1905042013", "district_id": "190504", "name": "AIR BULIN"}, {"id": "1905042014", "district_id": "190504", "name": "PANGKAL BERAS"}]
+[
+  {
+    "id": "1905041001",
+    "district_id": "190504",
+    "name": "KELAPA"
+  },
+  {
+    "id": "1905042002",
+    "district_id": "190504",
+    "name": "MANCUNG"
+  },
+  {
+    "id": "1905042003",
+    "district_id": "190504",
+    "name": "KAYU ARANG"
+  },
+  {
+    "id": "1905042004",
+    "district_id": "190504",
+    "name": "PUSUK"
+  },
+  {
+    "id": "1905042005",
+    "district_id": "190504",
+    "name": "DENDANG"
+  },
+  {
+    "id": "1905042006",
+    "district_id": "190504",
+    "name": "KACUNG"
+  },
+  {
+    "id": "1905042007",
+    "district_id": "190504",
+    "name": "SINAR SARI"
+  },
+  {
+    "id": "1905042008",
+    "district_id": "190504",
+    "name": "BERUAS"
+  },
+  {
+    "id": "1905042009",
+    "district_id": "190504",
+    "name": "TEBING"
+  },
+  {
+    "id": "1905042010",
+    "district_id": "190504",
+    "name": "TERENTANG"
+  },
+  {
+    "id": "1905042011",
+    "district_id": "190504",
+    "name": "TUIK"
+  },
+  {
+    "id": "1905042012",
+    "district_id": "190504",
+    "name": "TUGANG"
+  },
+  {
+    "id": "1905042013",
+    "district_id": "190504",
+    "name": "AIR BULIN"
+  },
+  {
+    "id": "1905042014",
+    "district_id": "190504",
+    "name": "PANGKAL BERAS"
+  }
+]

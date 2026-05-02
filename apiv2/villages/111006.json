@@ -1,1 +1,127 @@
-[{"id": "1110062001", "district_id": "111006", "name": "TANJUNG BETIK"}, {"id": "1110062002", "district_id": "111006", "name": "PENJAHITAN"}, {"id": "1110062003", "district_id": "111006", "name": "BUKIT HARAPAN"}, {"id": "1110062004", "district_id": "111006", "name": "CINGKAM"}, {"id": "1110062005", "district_id": "111006", "name": "LABUHAN KERA"}, {"id": "1110062006", "district_id": "111006", "name": "TANAH BARA"}, {"id": "1110062007", "district_id": "111006", "name": "RIMO"}, {"id": "1110062008", "district_id": "111006", "name": "BLOK VI BARU"}, {"id": "1110062009", "district_id": "111006", "name": "BLOK 15"}, {"id": "1110062010", "district_id": "111006", "name": "BLOK 18"}, {"id": "1110062011", "district_id": "111006", "name": "BLOK 31"}, {"id": "1110062012", "district_id": "111006", "name": "SIDOREJO"}, {"id": "1110062013", "district_id": "111006", "name": "SUKA MAKMUR"}, {"id": "1110062014", "district_id": "111006", "name": "GUNUNG LAGAN"}, {"id": "1110062015", "district_id": "111006", "name": "PERANGUSAN"}, {"id": "1110062016", "district_id": "111006", "name": "SEPING BARU"}, {"id": "1110062017", "district_id": "111006", "name": "SEBATANG"}, {"id": "1110062018", "district_id": "111006", "name": "TANAH MERAH"}, {"id": "1110062019", "district_id": "111006", "name": "PERTAMPAKAN"}, {"id": "1110062020", "district_id": "111006", "name": "PANDAN SARI"}, {"id": "1110062021", "district_id": "111006", "name": "SANGGABERU SILULUSAN"}, {"id": "1110062022", "district_id": "111006", "name": "TULAAN"}, {"id": "1110062023", "district_id": "111006", "name": "TUNAS HARAPAN"}, {"id": "1110062024", "district_id": "111006", "name": "LAE BUTAR"}, {"id": "1110062025", "district_id": "111006", "name": "SIANJO-ANJO MERIAH"}]
+[
+  {
+    "id": "1110062001",
+    "district_id": "111006",
+    "name": "TANJUNG BETIK"
+  },
+  {
+    "id": "1110062002",
+    "district_id": "111006",
+    "name": "PENJAHITAN"
+  },
+  {
+    "id": "1110062003",
+    "district_id": "111006",
+    "name": "BUKIT HARAPAN"
+  },
+  {
+    "id": "1110062004",
+    "district_id": "111006",
+    "name": "CINGKAM"
+  },
+  {
+    "id": "1110062005",
+    "district_id": "111006",
+    "name": "LABUHAN KERA"
+  },
+  {
+    "id": "1110062006",
+    "district_id": "111006",
+    "name": "TANAH BARA"
+  },
+  {
+    "id": "1110062007",
+    "district_id": "111006",
+    "name": "RIMO"
+  },
+  {
+    "id": "1110062008",
+    "district_id": "111006",
+    "name": "BLOK VI BARU"
+  },
+  {
+    "id": "1110062009",
+    "district_id": "111006",
+    "name": "BLOK 15"
+  },
+  {
+    "id": "1110062010",
+    "district_id": "111006",
+    "name": "BLOK 18"
+  },
+  {
+    "id": "1110062011",
+    "district_id": "111006",
+    "name": "BLOK 31"
+  },
+  {
+    "id": "1110062012",
+    "district_id": "111006",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "1110062013",
+    "district_id": "111006",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1110062014",
+    "district_id": "111006",
+    "name": "GUNUNG LAGAN"
+  },
+  {
+    "id": "1110062015",
+    "district_id": "111006",
+    "name": "PERANGUSAN"
+  },
+  {
+    "id": "1110062016",
+    "district_id": "111006",
+    "name": "SEPING BARU"
+  },
+  {
+    "id": "1110062017",
+    "district_id": "111006",
+    "name": "SEBATANG"
+  },
+  {
+    "id": "1110062018",
+    "district_id": "111006",
+    "name": "TANAH MERAH"
+  },
+  {
+    "id": "1110062019",
+    "district_id": "111006",
+    "name": "PERTAMPAKAN"
+  },
+  {
+    "id": "1110062020",
+    "district_id": "111006",
+    "name": "PANDAN SARI"
+  },
+  {
+    "id": "1110062021",
+    "district_id": "111006",
+    "name": "SANGGABERU SILULUSAN"
+  },
+  {
+    "id": "1110062022",
+    "district_id": "111006",
+    "name": "TULAAN"
+  },
+  {
+    "id": "1110062023",
+    "district_id": "111006",
+    "name": "TUNAS HARAPAN"
+  },
+  {
+    "id": "1110062024",
+    "district_id": "111006",
+    "name": "LAE BUTAR"
+  },
+  {
+    "id": "1110062025",
+    "district_id": "111006",
+    "name": "SIANJO-ANJO MERIAH"
+  }
+]

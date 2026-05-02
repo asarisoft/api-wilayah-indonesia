@@ -1,1 +1,82 @@
-[{"id": "6106192001", "district_id": "610619", "name": "NANGA DANAU"}, {"id": "6106192002", "district_id": "610619", "name": "BOYAN TANJUNG"}, {"id": "6106192003", "district_id": "610619", "name": "RIAM MENGELAI"}, {"id": "6106192004", "district_id": "610619", "name": "NANGA SANGAN"}, {"id": "6106192005", "district_id": "610619", "name": "SRI WANGI"}, {"id": "6106192006", "district_id": "610619", "name": "NANGA BOYAN"}, {"id": "6106192007", "district_id": "610619", "name": "NANGA BETUNG"}, {"id": "6106192008", "district_id": "610619", "name": "MUJAN"}, {"id": "6106192009", "district_id": "610619", "name": "NANGA JEMAH"}, {"id": "6106192010", "district_id": "610619", "name": "TUBANG JAYA"}, {"id": "6106192011", "district_id": "610619", "name": "KARYA MAJU"}, {"id": "6106192012", "district_id": "610619", "name": "LANDAU MENTAIL"}, {"id": "6106192013", "district_id": "610619", "name": "DELINTAS KARYA"}, {"id": "6106192014", "district_id": "610619", "name": "TELUK GERUGUK"}, {"id": "6106192015", "district_id": "610619", "name": "NANGA RET"}, {"id": "6106192016", "district_id": "610619", "name": "PEMAWAN"}]
+[
+  {
+    "id": "6106192001",
+    "district_id": "610619",
+    "name": "NANGA DANAU"
+  },
+  {
+    "id": "6106192002",
+    "district_id": "610619",
+    "name": "BOYAN TANJUNG"
+  },
+  {
+    "id": "6106192003",
+    "district_id": "610619",
+    "name": "RIAM MENGELAI"
+  },
+  {
+    "id": "6106192004",
+    "district_id": "610619",
+    "name": "NANGA SANGAN"
+  },
+  {
+    "id": "6106192005",
+    "district_id": "610619",
+    "name": "SRI WANGI"
+  },
+  {
+    "id": "6106192006",
+    "district_id": "610619",
+    "name": "NANGA BOYAN"
+  },
+  {
+    "id": "6106192007",
+    "district_id": "610619",
+    "name": "NANGA BETUNG"
+  },
+  {
+    "id": "6106192008",
+    "district_id": "610619",
+    "name": "MUJAN"
+  },
+  {
+    "id": "6106192009",
+    "district_id": "610619",
+    "name": "NANGA JEMAH"
+  },
+  {
+    "id": "6106192010",
+    "district_id": "610619",
+    "name": "TUBANG JAYA"
+  },
+  {
+    "id": "6106192011",
+    "district_id": "610619",
+    "name": "KARYA MAJU"
+  },
+  {
+    "id": "6106192012",
+    "district_id": "610619",
+    "name": "LANDAU MENTAIL"
+  },
+  {
+    "id": "6106192013",
+    "district_id": "610619",
+    "name": "DELINTAS KARYA"
+  },
+  {
+    "id": "6106192014",
+    "district_id": "610619",
+    "name": "TELUK GERUGUK"
+  },
+  {
+    "id": "6106192015",
+    "district_id": "610619",
+    "name": "NANGA RET"
+  },
+  {
+    "id": "6106192016",
+    "district_id": "610619",
+    "name": "PEMAWAN"
+  }
+]

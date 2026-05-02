@@ -1,1 +1,87 @@
-[{"id": "3301142001", "district_id": "330114", "name": "PAHONJEAN"}, {"id": "3301142002", "district_id": "330114", "name": "SALEBU"}, {"id": "3301142003", "district_id": "330114", "name": "CIBEUNYING"}, {"id": "3301142004", "district_id": "330114", "name": "JENANG"}, {"id": "3301142005", "district_id": "330114", "name": "SINDANGSARI"}, {"id": "3301142006", "district_id": "330114", "name": "CILOPADANG"}, {"id": "3301142007", "district_id": "330114", "name": "BENER"}, {"id": "3301142008", "district_id": "330114", "name": "BOJA"}, {"id": "3301142009", "district_id": "330114", "name": "UJUNGBARANG"}, {"id": "3301142010", "district_id": "330114", "name": "PENGADEGAN"}, {"id": "3301142011", "district_id": "330114", "name": "SEPATNUNGGAL"}, {"id": "3301142012", "district_id": "330114", "name": "SADABUMI"}, {"id": "3301142013", "district_id": "330114", "name": "SADAHAYU"}, {"id": "3301142014", "district_id": "330114", "name": "MULYADADI"}, {"id": "3301142015", "district_id": "330114", "name": "PADANGJAYA"}, {"id": "3301142016", "district_id": "330114", "name": "PADANGSARI"}, {"id": "3301142017", "district_id": "330114", "name": "MULYASARI"}]
+[
+  {
+    "id": "3301142001",
+    "district_id": "330114",
+    "name": "PAHONJEAN"
+  },
+  {
+    "id": "3301142002",
+    "district_id": "330114",
+    "name": "SALEBU"
+  },
+  {
+    "id": "3301142003",
+    "district_id": "330114",
+    "name": "CIBEUNYING"
+  },
+  {
+    "id": "3301142004",
+    "district_id": "330114",
+    "name": "JENANG"
+  },
+  {
+    "id": "3301142005",
+    "district_id": "330114",
+    "name": "SINDANGSARI"
+  },
+  {
+    "id": "3301142006",
+    "district_id": "330114",
+    "name": "CILOPADANG"
+  },
+  {
+    "id": "3301142007",
+    "district_id": "330114",
+    "name": "BENER"
+  },
+  {
+    "id": "3301142008",
+    "district_id": "330114",
+    "name": "BOJA"
+  },
+  {
+    "id": "3301142009",
+    "district_id": "330114",
+    "name": "UJUNGBARANG"
+  },
+  {
+    "id": "3301142010",
+    "district_id": "330114",
+    "name": "PENGADEGAN"
+  },
+  {
+    "id": "3301142011",
+    "district_id": "330114",
+    "name": "SEPATNUNGGAL"
+  },
+  {
+    "id": "3301142012",
+    "district_id": "330114",
+    "name": "SADABUMI"
+  },
+  {
+    "id": "3301142013",
+    "district_id": "330114",
+    "name": "SADAHAYU"
+  },
+  {
+    "id": "3301142014",
+    "district_id": "330114",
+    "name": "MULYADADI"
+  },
+  {
+    "id": "3301142015",
+    "district_id": "330114",
+    "name": "PADANGJAYA"
+  },
+  {
+    "id": "3301142016",
+    "district_id": "330114",
+    "name": "PADANGSARI"
+  },
+  {
+    "id": "3301142017",
+    "district_id": "330114",
+    "name": "MULYASARI"
+  }
+]

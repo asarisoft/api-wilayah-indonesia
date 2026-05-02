@@ -1,1 +1,77 @@
-[{"id": "6402022001", "district_id": "640202", "name": "JONGGON DESA"}, {"id": "6402022002", "district_id": "640202", "name": "SUNGAI PAYANG"}, {"id": "6402022003", "district_id": "640202", "name": "JEMBAYAN"}, {"id": "6402022004", "district_id": "640202", "name": "LOA KULU KOTA"}, {"id": "6402022005", "district_id": "640202", "name": "LOH SUMBER"}, {"id": "6402022006", "district_id": "640202", "name": "PONORAGAN"}, {"id": "6402022007", "district_id": "640202", "name": "REMPANGA"}, {"id": "6402022008", "district_id": "640202", "name": "MARGAHAYU"}, {"id": "6402022009", "district_id": "640202", "name": "JONGGON JAYA"}, {"id": "6402022010", "district_id": "640202", "name": "LUNG ANAI"}, {"id": "6402022011", "district_id": "640202", "name": "JEMBAYAN TENGAH"}, {"id": "6402022012", "district_id": "640202", "name": "JEMBAYAN DALAM"}, {"id": "6402022013", "district_id": "640202", "name": "SEPAKAT"}, {"id": "6402022014", "district_id": "640202", "name": "SUMBER SARI"}, {"id": "6402022015", "district_id": "640202", "name": "JONGKANG"}]
+[
+  {
+    "id": "6402022001",
+    "district_id": "640202",
+    "name": "JONGGON DESA"
+  },
+  {
+    "id": "6402022002",
+    "district_id": "640202",
+    "name": "SUNGAI PAYANG"
+  },
+  {
+    "id": "6402022003",
+    "district_id": "640202",
+    "name": "JEMBAYAN"
+  },
+  {
+    "id": "6402022004",
+    "district_id": "640202",
+    "name": "LOA KULU KOTA"
+  },
+  {
+    "id": "6402022005",
+    "district_id": "640202",
+    "name": "LOH SUMBER"
+  },
+  {
+    "id": "6402022006",
+    "district_id": "640202",
+    "name": "PONORAGAN"
+  },
+  {
+    "id": "6402022007",
+    "district_id": "640202",
+    "name": "REMPANGA"
+  },
+  {
+    "id": "6402022008",
+    "district_id": "640202",
+    "name": "MARGAHAYU"
+  },
+  {
+    "id": "6402022009",
+    "district_id": "640202",
+    "name": "JONGGON JAYA"
+  },
+  {
+    "id": "6402022010",
+    "district_id": "640202",
+    "name": "LUNG ANAI"
+  },
+  {
+    "id": "6402022011",
+    "district_id": "640202",
+    "name": "JEMBAYAN TENGAH"
+  },
+  {
+    "id": "6402022012",
+    "district_id": "640202",
+    "name": "JEMBAYAN DALAM"
+  },
+  {
+    "id": "6402022013",
+    "district_id": "640202",
+    "name": "SEPAKAT"
+  },
+  {
+    "id": "6402022014",
+    "district_id": "640202",
+    "name": "SUMBER SARI"
+  },
+  {
+    "id": "6402022015",
+    "district_id": "640202",
+    "name": "JONGKANG"
+  }
+]

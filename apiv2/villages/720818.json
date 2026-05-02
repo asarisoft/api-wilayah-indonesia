@@ -1,1 +1,57 @@
-[{"id": "7208182001", "district_id": "720818", "name": "BOBALO"}, {"id": "7208182002", "district_id": "720818", "name": "DONGKALAN"}, {"id": "7208182003", "district_id": "720818", "name": "EEYA"}, {"id": "7208182004", "district_id": "720818", "name": "ULATAN"}, {"id": "7208182005", "district_id": "720818", "name": "PALASA TANGKI"}, {"id": "7208182006", "district_id": "720818", "name": "PALASA TENGAH"}, {"id": "7208182007", "district_id": "720818", "name": "PALASA LAMBORI"}, {"id": "7208182008", "district_id": "720818", "name": "PEBOUNANG"}, {"id": "7208182009", "district_id": "720818", "name": "BAMBASIANG"}, {"id": "7208182010", "district_id": "720818", "name": "BEAU"}, {"id": "7208182011", "district_id": "720818", "name": "OGOANSAM"}]
+[
+  {
+    "id": "7208182001",
+    "district_id": "720818",
+    "name": "BOBALO"
+  },
+  {
+    "id": "7208182002",
+    "district_id": "720818",
+    "name": "DONGKALAN"
+  },
+  {
+    "id": "7208182003",
+    "district_id": "720818",
+    "name": "EEYA"
+  },
+  {
+    "id": "7208182004",
+    "district_id": "720818",
+    "name": "ULATAN"
+  },
+  {
+    "id": "7208182005",
+    "district_id": "720818",
+    "name": "PALASA TANGKI"
+  },
+  {
+    "id": "7208182006",
+    "district_id": "720818",
+    "name": "PALASA TENGAH"
+  },
+  {
+    "id": "7208182007",
+    "district_id": "720818",
+    "name": "PALASA LAMBORI"
+  },
+  {
+    "id": "7208182008",
+    "district_id": "720818",
+    "name": "PEBOUNANG"
+  },
+  {
+    "id": "7208182009",
+    "district_id": "720818",
+    "name": "BAMBASIANG"
+  },
+  {
+    "id": "7208182010",
+    "district_id": "720818",
+    "name": "BEAU"
+  },
+  {
+    "id": "7208182011",
+    "district_id": "720818",
+    "name": "OGOANSAM"
+  }
+]

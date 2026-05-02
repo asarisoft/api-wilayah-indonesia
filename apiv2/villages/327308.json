@@ -1,1 +1,17 @@
-[{"id": "3273081001", "district_id": "327308", "name": "HEGARMANAH"}, {"id": "3273081002", "district_id": "327308", "name": "CIUMBULEUIT"}, {"id": "3273081003", "district_id": "327308", "name": "LEDENG"}]
+[
+  {
+    "id": "3273081001",
+    "district_id": "327308",
+    "name": "HEGARMANAH"
+  },
+  {
+    "id": "3273081002",
+    "district_id": "327308",
+    "name": "CIUMBULEUIT"
+  },
+  {
+    "id": "3273081003",
+    "district_id": "327308",
+    "name": "LEDENG"
+  }
+]

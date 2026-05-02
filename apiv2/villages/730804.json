@@ -1,1 +1,42 @@
-[{"id": "7308041001", "district_id": "730804", "name": "PANCAITANA"}, {"id": "7308042002", "district_id": "730804", "name": "MALIMONGENG"}, {"id": "7308042003", "district_id": "730804", "name": "MANERA"}, {"id": "7308042004", "district_id": "730804", "name": "ULUBALANG"}, {"id": "7308042005", "district_id": "730804", "name": "GATTARENG"}, {"id": "7308042006", "district_id": "730804", "name": "BELLU"}, {"id": "7308042007", "district_id": "730804", "name": "TEBBA"}, {"id": "7308042008", "district_id": "730804", "name": "MAPPATOBA"}]
+[
+  {
+    "id": "7308041001",
+    "district_id": "730804",
+    "name": "PANCAITANA"
+  },
+  {
+    "id": "7308042002",
+    "district_id": "730804",
+    "name": "MALIMONGENG"
+  },
+  {
+    "id": "7308042003",
+    "district_id": "730804",
+    "name": "MANERA"
+  },
+  {
+    "id": "7308042004",
+    "district_id": "730804",
+    "name": "ULUBALANG"
+  },
+  {
+    "id": "7308042005",
+    "district_id": "730804",
+    "name": "GATTARENG"
+  },
+  {
+    "id": "7308042006",
+    "district_id": "730804",
+    "name": "BELLU"
+  },
+  {
+    "id": "7308042007",
+    "district_id": "730804",
+    "name": "TEBBA"
+  },
+  {
+    "id": "7308042008",
+    "district_id": "730804",
+    "name": "MAPPATOBA"
+  }
+]

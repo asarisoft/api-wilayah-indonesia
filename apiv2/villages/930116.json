@@ -1,1 +1,32 @@
-[{"id": "9301162001", "district_id": "930116", "name": "PO-EPE"}, {"id": "9301162002", "district_id": "930116", "name": "YAWIMU"}, {"id": "9301162003", "district_id": "930116", "name": "TAGA EPE"}, {"id": "9301162004", "district_id": "930116", "name": "NAKIAS"}, {"id": "9301162005", "district_id": "930116", "name": "SALAM EPE"}, {"id": "9301162006", "district_id": "930116", "name": "YOMOP"}]
+[
+  {
+    "id": "9301162001",
+    "district_id": "930116",
+    "name": "PO-EPE"
+  },
+  {
+    "id": "9301162002",
+    "district_id": "930116",
+    "name": "YAWIMU"
+  },
+  {
+    "id": "9301162003",
+    "district_id": "930116",
+    "name": "TAGA EPE"
+  },
+  {
+    "id": "9301162004",
+    "district_id": "930116",
+    "name": "NAKIAS"
+  },
+  {
+    "id": "9301162005",
+    "district_id": "930116",
+    "name": "SALAM EPE"
+  },
+  {
+    "id": "9301162006",
+    "district_id": "930116",
+    "name": "YOMOP"
+  }
+]

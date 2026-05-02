@@ -1,1 +1,107 @@
-[{"id": "1705011001", "district_id": "170501", "name": "BABATAN"}, {"id": "1705011025", "district_id": "170501", "name": "SUKARAJA"}, {"id": "1705012002", "district_id": "170501", "name": "NIUR"}, {"id": "1705012003", "district_id": "170501", "name": "LUBUK SAHUNG"}, {"id": "1705012011", "district_id": "170501", "name": "BUKIT PENINJAUAN I"}, {"id": "1705012026", "district_id": "170501", "name": "PADANG PELAWI"}, {"id": "1705012027", "district_id": "170501", "name": "KAYU ARANG"}, {"id": "1705012028", "district_id": "170501", "name": "JENGGALU"}, {"id": "1705012029", "district_id": "170501", "name": "CAHAYA NEGERI"}, {"id": "1705012030", "district_id": "170501", "name": "BUKIT PENINJAUAN II"}, {"id": "1705012032", "district_id": "170501", "name": "RIAK SIABUN"}, {"id": "1705012033", "district_id": "170501", "name": "PADANG KUAS"}, {"id": "1705012034", "district_id": "170501", "name": "KUTI AGUNG"}, {"id": "1705012035", "district_id": "170501", "name": "RIAK SIABUN I"}, {"id": "1705012036", "district_id": "170501", "name": "SIDO LUHUR"}, {"id": "1705012037", "district_id": "170501", "name": "SUMBER ARUNG"}, {"id": "1705012038", "district_id": "170501", "name": "SIDO SARI"}, {"id": "1705012039", "district_id": "170501", "name": "SARI MULYO"}, {"id": "1705012043", "district_id": "170501", "name": "AIR KEMUNING"}, {"id": "1705012044", "district_id": "170501", "name": "SUMBER MAKMUR"}, {"id": "1705012045", "district_id": "170501", "name": "AIR PETAI"}]
+[
+  {
+    "id": "1705011001",
+    "district_id": "170501",
+    "name": "BABATAN"
+  },
+  {
+    "id": "1705011025",
+    "district_id": "170501",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "1705012002",
+    "district_id": "170501",
+    "name": "NIUR"
+  },
+  {
+    "id": "1705012003",
+    "district_id": "170501",
+    "name": "LUBUK SAHUNG"
+  },
+  {
+    "id": "1705012011",
+    "district_id": "170501",
+    "name": "BUKIT PENINJAUAN I"
+  },
+  {
+    "id": "1705012026",
+    "district_id": "170501",
+    "name": "PADANG PELAWI"
+  },
+  {
+    "id": "1705012027",
+    "district_id": "170501",
+    "name": "KAYU ARANG"
+  },
+  {
+    "id": "1705012028",
+    "district_id": "170501",
+    "name": "JENGGALU"
+  },
+  {
+    "id": "1705012029",
+    "district_id": "170501",
+    "name": "CAHAYA NEGERI"
+  },
+  {
+    "id": "1705012030",
+    "district_id": "170501",
+    "name": "BUKIT PENINJAUAN II"
+  },
+  {
+    "id": "1705012032",
+    "district_id": "170501",
+    "name": "RIAK SIABUN"
+  },
+  {
+    "id": "1705012033",
+    "district_id": "170501",
+    "name": "PADANG KUAS"
+  },
+  {
+    "id": "1705012034",
+    "district_id": "170501",
+    "name": "KUTI AGUNG"
+  },
+  {
+    "id": "1705012035",
+    "district_id": "170501",
+    "name": "RIAK SIABUN I"
+  },
+  {
+    "id": "1705012036",
+    "district_id": "170501",
+    "name": "SIDO LUHUR"
+  },
+  {
+    "id": "1705012037",
+    "district_id": "170501",
+    "name": "SUMBER ARUNG"
+  },
+  {
+    "id": "1705012038",
+    "district_id": "170501",
+    "name": "SIDO SARI"
+  },
+  {
+    "id": "1705012039",
+    "district_id": "170501",
+    "name": "SARI MULYO"
+  },
+  {
+    "id": "1705012043",
+    "district_id": "170501",
+    "name": "AIR KEMUNING"
+  },
+  {
+    "id": "1705012044",
+    "district_id": "170501",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "1705012045",
+    "district_id": "170501",
+    "name": "AIR PETAI"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "5101051001", "district_id": "510105", "name": "PENDEM"}, {"id": "5101051003", "district_id": "510105", "name": "LOLOAN TIMUR"}, {"id": "5101051005", "district_id": "510105", "name": "DAUHWARU"}, {"id": "5101051009", "district_id": "510105", "name": "SANGKARAGUNG"}, {"id": "5101052002", "district_id": "510105", "name": "PERANCAK"}, {"id": "5101052004", "district_id": "510105", "name": "BATU AGUNG"}, {"id": "5101052006", "district_id": "510105", "name": "BUDENG"}, {"id": "5101052007", "district_id": "510105", "name": "AIR KUNING"}, {"id": "5101052008", "district_id": "510105", "name": "YEHKUNING"}, {"id": "5101052010", "district_id": "510105", "name": "DANGINTUKADAYA"}]
+[
+  {
+    "id": "5101051001",
+    "district_id": "510105",
+    "name": "PENDEM"
+  },
+  {
+    "id": "5101051003",
+    "district_id": "510105",
+    "name": "LOLOAN TIMUR"
+  },
+  {
+    "id": "5101051005",
+    "district_id": "510105",
+    "name": "DAUHWARU"
+  },
+  {
+    "id": "5101051009",
+    "district_id": "510105",
+    "name": "SANGKARAGUNG"
+  },
+  {
+    "id": "5101052002",
+    "district_id": "510105",
+    "name": "PERANCAK"
+  },
+  {
+    "id": "5101052004",
+    "district_id": "510105",
+    "name": "BATU AGUNG"
+  },
+  {
+    "id": "5101052006",
+    "district_id": "510105",
+    "name": "BUDENG"
+  },
+  {
+    "id": "5101052007",
+    "district_id": "510105",
+    "name": "AIR KUNING"
+  },
+  {
+    "id": "5101052008",
+    "district_id": "510105",
+    "name": "YEHKUNING"
+  },
+  {
+    "id": "5101052010",
+    "district_id": "510105",
+    "name": "DANGINTUKADAYA"
+  }
+]

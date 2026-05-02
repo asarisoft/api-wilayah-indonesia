@@ -1,1 +1,32 @@
-[{"id": "1703082001", "district_id": "170308", "name": "TANJUNG ANOM"}, {"id": "1703082002", "district_id": "170308", "name": "SUKA MAKMUR"}, {"id": "1703082003", "district_id": "170308", "name": "WONO HARJO"}, {"id": "1703082004", "district_id": "170308", "name": "GIRI MULYA"}, {"id": "1703082005", "district_id": "170308", "name": "RENA JAYA"}, {"id": "1703082006", "district_id": "170308", "name": "SUKA MULYA"}]
+[
+  {
+    "id": "1703082001",
+    "district_id": "170308",
+    "name": "TANJUNG ANOM"
+  },
+  {
+    "id": "1703082002",
+    "district_id": "170308",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1703082003",
+    "district_id": "170308",
+    "name": "WONO HARJO"
+  },
+  {
+    "id": "1703082004",
+    "district_id": "170308",
+    "name": "GIRI MULYA"
+  },
+  {
+    "id": "1703082005",
+    "district_id": "170308",
+    "name": "RENA JAYA"
+  },
+  {
+    "id": "1703082006",
+    "district_id": "170308",
+    "name": "SUKA MULYA"
+  }
+]

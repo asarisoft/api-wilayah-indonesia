@@ -1,1 +1,57 @@
-[{"id": "6402172001", "district_id": "640217", "name": "SEBUNTAL"}, {"id": "6402172002", "district_id": "640217", "name": "SANTAN ULU"}, {"id": "6402172003", "district_id": "640217", "name": "SANTAN TENGAH"}, {"id": "6402172004", "district_id": "640217", "name": "SANTAN ILIR"}, {"id": "6402172005", "district_id": "640217", "name": "KERSIK"}, {"id": "6402172006", "district_id": "640217", "name": "BUNGA PUTIH"}, {"id": "6402172007", "district_id": "640217", "name": "MAKARTI"}, {"id": "6402172008", "district_id": "640217", "name": "PRANGAT SELATAN"}, {"id": "6402172009", "district_id": "640217", "name": "PRANGAT BARU"}, {"id": "6402172010", "district_id": "640217", "name": "SEMANGKO"}, {"id": "6402172011", "district_id": "640217", "name": "SAMBERA BARU"}]
+[
+  {
+    "id": "6402172001",
+    "district_id": "640217",
+    "name": "SEBUNTAL"
+  },
+  {
+    "id": "6402172002",
+    "district_id": "640217",
+    "name": "SANTAN ULU"
+  },
+  {
+    "id": "6402172003",
+    "district_id": "640217",
+    "name": "SANTAN TENGAH"
+  },
+  {
+    "id": "6402172004",
+    "district_id": "640217",
+    "name": "SANTAN ILIR"
+  },
+  {
+    "id": "6402172005",
+    "district_id": "640217",
+    "name": "KERSIK"
+  },
+  {
+    "id": "6402172006",
+    "district_id": "640217",
+    "name": "BUNGA PUTIH"
+  },
+  {
+    "id": "6402172007",
+    "district_id": "640217",
+    "name": "MAKARTI"
+  },
+  {
+    "id": "6402172008",
+    "district_id": "640217",
+    "name": "PRANGAT SELATAN"
+  },
+  {
+    "id": "6402172009",
+    "district_id": "640217",
+    "name": "PRANGAT BARU"
+  },
+  {
+    "id": "6402172010",
+    "district_id": "640217",
+    "name": "SEMANGKO"
+  },
+  {
+    "id": "6402172011",
+    "district_id": "640217",
+    "name": "SAMBERA BARU"
+  }
+]

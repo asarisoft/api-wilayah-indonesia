@@ -1,1 +1,32 @@
-[{"id": "7326051005", "district_id": "732605", "name": "TULLANG' SURA"}, {"id": "7326051006", "district_id": "732605", "name": "TONGKONAN BASSAE"}, {"id": "7326052001", "district_id": "732605", "name": "SAPAN KUA-KUA"}, {"id": "7326052002", "district_id": "732605", "name": "RINDINGKILA'"}, {"id": "7326052003", "district_id": "732605", "name": "MISA'BA'BANA"}, {"id": "7326052004", "district_id": "732605", "name": "ISSONG KALUA'"}]
+[
+  {
+    "id": "7326051005",
+    "district_id": "732605",
+    "name": "TULLANG' SURA"
+  },
+  {
+    "id": "7326051006",
+    "district_id": "732605",
+    "name": "TONGKONAN BASSAE"
+  },
+  {
+    "id": "7326052001",
+    "district_id": "732605",
+    "name": "SAPAN KUA-KUA"
+  },
+  {
+    "id": "7326052002",
+    "district_id": "732605",
+    "name": "RINDINGKILA'"
+  },
+  {
+    "id": "7326052003",
+    "district_id": "732605",
+    "name": "MISA'BA'BANA"
+  },
+  {
+    "id": "7326052004",
+    "district_id": "732605",
+    "name": "ISSONG KALUA'"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "5208052001", "district_id": "520805", "name": "PEMENANG TIMUR"}, {"id": "5208052002", "district_id": "520805", "name": "PEMENANG BARAT"}, {"id": "5208052003", "district_id": "520805", "name": "GILI INDAH"}, {"id": "5208052004", "district_id": "520805", "name": "MALAKA"}, {"id": "5208052005", "district_id": "520805", "name": "MENGGALA"}]
+[
+  {
+    "id": "5208052001",
+    "district_id": "520805",
+    "name": "PEMENANG TIMUR"
+  },
+  {
+    "id": "5208052002",
+    "district_id": "520805",
+    "name": "PEMENANG BARAT"
+  },
+  {
+    "id": "5208052003",
+    "district_id": "520805",
+    "name": "GILI INDAH"
+  },
+  {
+    "id": "5208052004",
+    "district_id": "520805",
+    "name": "MALAKA"
+  },
+  {
+    "id": "5208052005",
+    "district_id": "520805",
+    "name": "MENGGALA"
+  }
+]

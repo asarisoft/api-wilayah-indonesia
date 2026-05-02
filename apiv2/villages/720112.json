@@ -1,1 +1,87 @@
-[{"id": "7201122001", "district_id": "720112", "name": "DONGIN"}, {"id": "7201122002", "district_id": "720112", "name": "PANDAN WANGI"}, {"id": "7201122003", "district_id": "720112", "name": "KAMI WANGI"}, {"id": "7201122004", "district_id": "720112", "name": "SINDANG SARI"}, {"id": "7201122005", "district_id": "720112", "name": "MAKAPA"}, {"id": "7201122006", "district_id": "720112", "name": "KARYA MAKMUR"}, {"id": "7201122007", "district_id": "720112", "name": "MANTAWA"}, {"id": "7201122008", "district_id": "720112", "name": "PASIR LAMBA"}, {"id": "7201122009", "district_id": "720112", "name": "MANTAWA BONEBAE"}, {"id": "7201122010", "district_id": "720112", "name": "GUNUNG KRAMAT"}, {"id": "7201122011", "district_id": "720112", "name": "LEMBAH KRAMAT"}, {"id": "7201122012", "district_id": "720112", "name": "RATA"}, {"id": "7201122013", "district_id": "720112", "name": "BUKIT MAKARTI"}, {"id": "7201122014", "district_id": "720112", "name": "UWE LOLU"}, {"id": "7201122015", "district_id": "720112", "name": "BUMI HARAPAN"}, {"id": "7201122016", "district_id": "720112", "name": "MEKAR SARI"}, {"id": "7201122017", "district_id": "720112", "name": "MEKAR JAYA"}]
+[
+  {
+    "id": "7201122001",
+    "district_id": "720112",
+    "name": "DONGIN"
+  },
+  {
+    "id": "7201122002",
+    "district_id": "720112",
+    "name": "PANDAN WANGI"
+  },
+  {
+    "id": "7201122003",
+    "district_id": "720112",
+    "name": "KAMI WANGI"
+  },
+  {
+    "id": "7201122004",
+    "district_id": "720112",
+    "name": "SINDANG SARI"
+  },
+  {
+    "id": "7201122005",
+    "district_id": "720112",
+    "name": "MAKAPA"
+  },
+  {
+    "id": "7201122006",
+    "district_id": "720112",
+    "name": "KARYA MAKMUR"
+  },
+  {
+    "id": "7201122007",
+    "district_id": "720112",
+    "name": "MANTAWA"
+  },
+  {
+    "id": "7201122008",
+    "district_id": "720112",
+    "name": "PASIR LAMBA"
+  },
+  {
+    "id": "7201122009",
+    "district_id": "720112",
+    "name": "MANTAWA BONEBAE"
+  },
+  {
+    "id": "7201122010",
+    "district_id": "720112",
+    "name": "GUNUNG KRAMAT"
+  },
+  {
+    "id": "7201122011",
+    "district_id": "720112",
+    "name": "LEMBAH KRAMAT"
+  },
+  {
+    "id": "7201122012",
+    "district_id": "720112",
+    "name": "RATA"
+  },
+  {
+    "id": "7201122013",
+    "district_id": "720112",
+    "name": "BUKIT MAKARTI"
+  },
+  {
+    "id": "7201122014",
+    "district_id": "720112",
+    "name": "UWE LOLU"
+  },
+  {
+    "id": "7201122015",
+    "district_id": "720112",
+    "name": "BUMI HARAPAN"
+  },
+  {
+    "id": "7201122016",
+    "district_id": "720112",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "7201122017",
+    "district_id": "720112",
+    "name": "MEKAR JAYA"
+  }
+]

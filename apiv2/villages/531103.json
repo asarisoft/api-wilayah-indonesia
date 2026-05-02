@@ -1,1 +1,42 @@
-[{"id": "5311031001", "district_id": "531103", "name": "LEWA PAKU"}, {"id": "5311032002", "district_id": "531103", "name": "KAMBUHAPANG"}, {"id": "5311032003", "district_id": "531103", "name": "KAMBATA WUNDUT"}, {"id": "5311032004", "district_id": "531103", "name": "KONDAMARA"}, {"id": "5311032005", "district_id": "531103", "name": "MATAWAI PAWALI"}, {"id": "5311032006", "district_id": "531103", "name": "RAKAWATU"}, {"id": "5311032007", "district_id": "531103", "name": "TANA RARA"}, {"id": "5311032013", "district_id": "531103", "name": "BIDI HUNGA"}]
+[
+  {
+    "id": "5311031001",
+    "district_id": "531103",
+    "name": "LEWA PAKU"
+  },
+  {
+    "id": "5311032002",
+    "district_id": "531103",
+    "name": "KAMBUHAPANG"
+  },
+  {
+    "id": "5311032003",
+    "district_id": "531103",
+    "name": "KAMBATA WUNDUT"
+  },
+  {
+    "id": "5311032004",
+    "district_id": "531103",
+    "name": "KONDAMARA"
+  },
+  {
+    "id": "5311032005",
+    "district_id": "531103",
+    "name": "MATAWAI PAWALI"
+  },
+  {
+    "id": "5311032006",
+    "district_id": "531103",
+    "name": "RAKAWATU"
+  },
+  {
+    "id": "5311032007",
+    "district_id": "531103",
+    "name": "TANA RARA"
+  },
+  {
+    "id": "5311032013",
+    "district_id": "531103",
+    "name": "BIDI HUNGA"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3512052001", "district_id": "351205", "name": "BUGEMAN"}, {"id": "3512052002", "district_id": "351205", "name": "KENDIT"}, {"id": "3512052003", "district_id": "351205", "name": "BALUNG"}, {"id": "3512052004", "district_id": "351205", "name": "TAMBAK UKIR"}, {"id": "3512052005", "district_id": "351205", "name": "RAJEKWESI"}, {"id": "3512052006", "district_id": "351205", "name": "KUKUSAN"}, {"id": "3512052007", "district_id": "351205", "name": "KLATAKAN"}]
+[
+  {
+    "id": "3512052001",
+    "district_id": "351205",
+    "name": "BUGEMAN"
+  },
+  {
+    "id": "3512052002",
+    "district_id": "351205",
+    "name": "KENDIT"
+  },
+  {
+    "id": "3512052003",
+    "district_id": "351205",
+    "name": "BALUNG"
+  },
+  {
+    "id": "3512052004",
+    "district_id": "351205",
+    "name": "TAMBAK UKIR"
+  },
+  {
+    "id": "3512052005",
+    "district_id": "351205",
+    "name": "RAJEKWESI"
+  },
+  {
+    "id": "3512052006",
+    "district_id": "351205",
+    "name": "KUKUSAN"
+  },
+  {
+    "id": "3512052007",
+    "district_id": "351205",
+    "name": "KLATAKAN"
+  }
+]

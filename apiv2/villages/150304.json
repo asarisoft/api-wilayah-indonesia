@@ -1,1 +1,72 @@
-[{"id": "1503041005", "district_id": "150304", "name": "PAUH"}, {"id": "1503042001", "district_id": "150304", "name": "PANGIDARAN"}, {"id": "1503042002", "district_id": "150304", "name": "KARANG MENDAPO"}, {"id": "1503042003", "district_id": "150304", "name": "BATU AMPAR"}, {"id": "1503042004", "district_id": "150304", "name": "BATU KUCING"}, {"id": "1503042006", "district_id": "150304", "name": "SEMARAN"}, {"id": "1503042007", "district_id": "150304", "name": "KASANG MELINTANG"}, {"id": "1503042008", "district_id": "150304", "name": "PANGKAL BULIAN"}, {"id": "1503042009", "district_id": "150304", "name": "LUBUK NAPAL"}, {"id": "1503042010", "district_id": "150304", "name": "SEPINTUN"}, {"id": "1503042011", "district_id": "150304", "name": "LAMBAN SIGATAL"}, {"id": "1503042020", "district_id": "150304", "name": "SEKO BESAR"}, {"id": "1503042021", "district_id": "150304", "name": "TAMAN BANDUNG"}, {"id": "1503042022", "district_id": "150304", "name": "DANAU SERDANG"}]
+[
+  {
+    "id": "1503041005",
+    "district_id": "150304",
+    "name": "PAUH"
+  },
+  {
+    "id": "1503042001",
+    "district_id": "150304",
+    "name": "PANGIDARAN"
+  },
+  {
+    "id": "1503042002",
+    "district_id": "150304",
+    "name": "KARANG MENDAPO"
+  },
+  {
+    "id": "1503042003",
+    "district_id": "150304",
+    "name": "BATU AMPAR"
+  },
+  {
+    "id": "1503042004",
+    "district_id": "150304",
+    "name": "BATU KUCING"
+  },
+  {
+    "id": "1503042006",
+    "district_id": "150304",
+    "name": "SEMARAN"
+  },
+  {
+    "id": "1503042007",
+    "district_id": "150304",
+    "name": "KASANG MELINTANG"
+  },
+  {
+    "id": "1503042008",
+    "district_id": "150304",
+    "name": "PANGKAL BULIAN"
+  },
+  {
+    "id": "1503042009",
+    "district_id": "150304",
+    "name": "LUBUK NAPAL"
+  },
+  {
+    "id": "1503042010",
+    "district_id": "150304",
+    "name": "SEPINTUN"
+  },
+  {
+    "id": "1503042011",
+    "district_id": "150304",
+    "name": "LAMBAN SIGATAL"
+  },
+  {
+    "id": "1503042020",
+    "district_id": "150304",
+    "name": "SEKO BESAR"
+  },
+  {
+    "id": "1503042021",
+    "district_id": "150304",
+    "name": "TAMAN BANDUNG"
+  },
+  {
+    "id": "1503042022",
+    "district_id": "150304",
+    "name": "DANAU SERDANG"
+  }
+]

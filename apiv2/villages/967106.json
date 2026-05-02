@@ -1,1 +1,27 @@
-[{"id": "9671061001", "district_id": "967106", "name": "KLALIGI"}, {"id": "9671061002", "district_id": "967106", "name": "MALAWEI"}, {"id": "9671061003", "district_id": "967106", "name": "MALABUTOR"}, {"id": "9671061004", "district_id": "967106", "name": "REMU SELATAN"}, {"id": "9671061005", "district_id": "967106", "name": "KLASABI"}]
+[
+  {
+    "id": "9671061001",
+    "district_id": "967106",
+    "name": "KLALIGI"
+  },
+  {
+    "id": "9671061002",
+    "district_id": "967106",
+    "name": "MALAWEI"
+  },
+  {
+    "id": "9671061003",
+    "district_id": "967106",
+    "name": "MALABUTOR"
+  },
+  {
+    "id": "9671061004",
+    "district_id": "967106",
+    "name": "REMU SELATAN"
+  },
+  {
+    "id": "9671061005",
+    "district_id": "967106",
+    "name": "KLASABI"
+  }
+]

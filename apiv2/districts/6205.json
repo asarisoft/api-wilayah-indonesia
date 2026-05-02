@@ -1,1 +1,47 @@
-[{"id": "620501", "regency_id": "6205", "name": "MONTALLAT"}, {"id": "620502", "regency_id": "6205", "name": "GUNUNG TIMANG"}, {"id": "620503", "regency_id": "6205", "name": "GUNUNG PUREI"}, {"id": "620504", "regency_id": "6205", "name": "TEWEH TIMUR"}, {"id": "620505", "regency_id": "6205", "name": "TEWEH TENGAH"}, {"id": "620506", "regency_id": "6205", "name": "LAHEI"}, {"id": "620507", "regency_id": "6205", "name": "TEWEH BARU"}, {"id": "620508", "regency_id": "6205", "name": "TEWEH SELATAN"}, {"id": "620509", "regency_id": "6205", "name": "LAHEI BARAT"}]
+[
+  {
+    "id": "620501",
+    "regency_id": "6205",
+    "name": "MONTALLAT"
+  },
+  {
+    "id": "620502",
+    "regency_id": "6205",
+    "name": "GUNUNG TIMANG"
+  },
+  {
+    "id": "620503",
+    "regency_id": "6205",
+    "name": "GUNUNG PUREI"
+  },
+  {
+    "id": "620504",
+    "regency_id": "6205",
+    "name": "TEWEH TIMUR"
+  },
+  {
+    "id": "620505",
+    "regency_id": "6205",
+    "name": "TEWEH TENGAH"
+  },
+  {
+    "id": "620506",
+    "regency_id": "6205",
+    "name": "LAHEI"
+  },
+  {
+    "id": "620507",
+    "regency_id": "6205",
+    "name": "TEWEH BARU"
+  },
+  {
+    "id": "620508",
+    "regency_id": "6205",
+    "name": "TEWEH SELATAN"
+  },
+  {
+    "id": "620509",
+    "regency_id": "6205",
+    "name": "LAHEI BARAT"
+  }
+]

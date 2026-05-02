@@ -1,1 +1,32 @@
-[{"id": "9212032001", "district_id": "921203", "name": "INYEBUOW"}, {"id": "9212032002", "district_id": "921203", "name": "IMBEISBA"}, {"id": "9212032003", "district_id": "921203", "name": "USTI"}, {"id": "9212032004", "district_id": "921203", "name": "MEMTI"}, {"id": "9212032005", "district_id": "921203", "name": "KONEY"}, {"id": "9212032006", "district_id": "921203", "name": "MEMBEY"}]
+[
+  {
+    "id": "9212032001",
+    "district_id": "921203",
+    "name": "INYEBUOW"
+  },
+  {
+    "id": "9212032002",
+    "district_id": "921203",
+    "name": "IMBEISBA"
+  },
+  {
+    "id": "9212032003",
+    "district_id": "921203",
+    "name": "USTI"
+  },
+  {
+    "id": "9212032004",
+    "district_id": "921203",
+    "name": "MEMTI"
+  },
+  {
+    "id": "9212032005",
+    "district_id": "921203",
+    "name": "KONEY"
+  },
+  {
+    "id": "9212032006",
+    "district_id": "921203",
+    "name": "MEMBEY"
+  }
+]

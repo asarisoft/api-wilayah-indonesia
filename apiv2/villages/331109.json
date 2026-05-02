@@ -1,1 +1,72 @@
-[{"id": "3311092001", "district_id": "331109", "name": "PANDEYAN"}, {"id": "3311092002", "district_id": "331109", "name": "TELUKAN"}, {"id": "3311092003", "district_id": "331109", "name": "PARANGJORO"}, {"id": "3311092004", "district_id": "331109", "name": "PONDOK"}, {"id": "3311092005", "district_id": "331109", "name": "LANGENHARJO"}, {"id": "3311092006", "district_id": "331109", "name": "GEDANGAN"}, {"id": "3311092007", "district_id": "331109", "name": "MADEGONDO"}, {"id": "3311092008", "district_id": "331109", "name": "GROGOL"}, {"id": "3311092009", "district_id": "331109", "name": "KADOKAN"}, {"id": "3311092010", "district_id": "331109", "name": "KWARASAN"}, {"id": "3311092011", "district_id": "331109", "name": "SANGGRAHAN"}, {"id": "3311092012", "district_id": "331109", "name": "MANANG"}, {"id": "3311092013", "district_id": "331109", "name": "BANARAN"}, {"id": "3311092014", "district_id": "331109", "name": "CEMANI"}]
+[
+  {
+    "id": "3311092001",
+    "district_id": "331109",
+    "name": "PANDEYAN"
+  },
+  {
+    "id": "3311092002",
+    "district_id": "331109",
+    "name": "TELUKAN"
+  },
+  {
+    "id": "3311092003",
+    "district_id": "331109",
+    "name": "PARANGJORO"
+  },
+  {
+    "id": "3311092004",
+    "district_id": "331109",
+    "name": "PONDOK"
+  },
+  {
+    "id": "3311092005",
+    "district_id": "331109",
+    "name": "LANGENHARJO"
+  },
+  {
+    "id": "3311092006",
+    "district_id": "331109",
+    "name": "GEDANGAN"
+  },
+  {
+    "id": "3311092007",
+    "district_id": "331109",
+    "name": "MADEGONDO"
+  },
+  {
+    "id": "3311092008",
+    "district_id": "331109",
+    "name": "GROGOL"
+  },
+  {
+    "id": "3311092009",
+    "district_id": "331109",
+    "name": "KADOKAN"
+  },
+  {
+    "id": "3311092010",
+    "district_id": "331109",
+    "name": "KWARASAN"
+  },
+  {
+    "id": "3311092011",
+    "district_id": "331109",
+    "name": "SANGGRAHAN"
+  },
+  {
+    "id": "3311092012",
+    "district_id": "331109",
+    "name": "MANANG"
+  },
+  {
+    "id": "3311092013",
+    "district_id": "331109",
+    "name": "BANARAN"
+  },
+  {
+    "id": "3311092014",
+    "district_id": "331109",
+    "name": "CEMANI"
+  }
+]

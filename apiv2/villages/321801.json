@@ -1,1 +1,52 @@
-[{"id": "3218012001", "district_id": "321801", "name": "PARIGI"}, {"id": "3218012002", "district_id": "321801", "name": "KARANGBENDA"}, {"id": "3218012003", "district_id": "321801", "name": "CILIANG"}, {"id": "3218012004", "district_id": "321801", "name": "BOJONG"}, {"id": "3218012005", "district_id": "321801", "name": "CINTARATU"}, {"id": "3218012006", "district_id": "321801", "name": "SELASARI"}, {"id": "3218012007", "district_id": "321801", "name": "KARANGJALADRI"}, {"id": "3218012008", "district_id": "321801", "name": "CIBENDA"}, {"id": "3218012009", "district_id": "321801", "name": "CINTAKARYA"}, {"id": "3218012010", "district_id": "321801", "name": "PARAKANMANGGU"}]
+[
+  {
+    "id": "3218012001",
+    "district_id": "321801",
+    "name": "PARIGI"
+  },
+  {
+    "id": "3218012002",
+    "district_id": "321801",
+    "name": "KARANGBENDA"
+  },
+  {
+    "id": "3218012003",
+    "district_id": "321801",
+    "name": "CILIANG"
+  },
+  {
+    "id": "3218012004",
+    "district_id": "321801",
+    "name": "BOJONG"
+  },
+  {
+    "id": "3218012005",
+    "district_id": "321801",
+    "name": "CINTARATU"
+  },
+  {
+    "id": "3218012006",
+    "district_id": "321801",
+    "name": "SELASARI"
+  },
+  {
+    "id": "3218012007",
+    "district_id": "321801",
+    "name": "KARANGJALADRI"
+  },
+  {
+    "id": "3218012008",
+    "district_id": "321801",
+    "name": "CIBENDA"
+  },
+  {
+    "id": "3218012009",
+    "district_id": "321801",
+    "name": "CINTAKARYA"
+  },
+  {
+    "id": "3218012010",
+    "district_id": "321801",
+    "name": "PARAKANMANGGU"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3506252001", "district_id": "350625", "name": "TUGUREJO"}, {"id": "3506252002", "district_id": "350625", "name": "SUMBEREJO"}, {"id": "3506252003", "district_id": "350625", "name": "PARON"}, {"id": "3506252004", "district_id": "350625", "name": "GOGORANTE"}, {"id": "3506252005", "district_id": "350625", "name": "DOKO"}, {"id": "3506252006", "district_id": "350625", "name": "SUKOREJO"}, {"id": "3506252007", "district_id": "350625", "name": "NGASEM"}, {"id": "3506252008", "district_id": "350625", "name": "KARANGREJO"}, {"id": "3506252009", "district_id": "350625", "name": "KWADUNGAN"}, {"id": "3506252010", "district_id": "350625", "name": "NAMBAAN"}, {"id": "3506252011", "district_id": "350625", "name": "TOYORESMI"}, {"id": "3506252012", "district_id": "350625", "name": "WONOCATUR"}]
+[
+  {
+    "id": "3506252001",
+    "district_id": "350625",
+    "name": "TUGUREJO"
+  },
+  {
+    "id": "3506252002",
+    "district_id": "350625",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3506252003",
+    "district_id": "350625",
+    "name": "PARON"
+  },
+  {
+    "id": "3506252004",
+    "district_id": "350625",
+    "name": "GOGORANTE"
+  },
+  {
+    "id": "3506252005",
+    "district_id": "350625",
+    "name": "DOKO"
+  },
+  {
+    "id": "3506252006",
+    "district_id": "350625",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3506252007",
+    "district_id": "350625",
+    "name": "NGASEM"
+  },
+  {
+    "id": "3506252008",
+    "district_id": "350625",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3506252009",
+    "district_id": "350625",
+    "name": "KWADUNGAN"
+  },
+  {
+    "id": "3506252010",
+    "district_id": "350625",
+    "name": "NAMBAAN"
+  },
+  {
+    "id": "3506252011",
+    "district_id": "350625",
+    "name": "TOYORESMI"
+  },
+  {
+    "id": "3506252012",
+    "district_id": "350625",
+    "name": "WONOCATUR"
+  }
+]

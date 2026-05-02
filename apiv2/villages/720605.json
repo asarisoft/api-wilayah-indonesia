@@ -1,1 +1,97 @@
-[{"id": "7206051014", "district_id": "720605", "name": "MENDUI"}, {"id": "7206051015", "district_id": "720605", "name": "LAMBEREA"}, {"id": "7206051016", "district_id": "720605", "name": "TOFOISO"}, {"id": "7206051017", "district_id": "720605", "name": "MARSAOLEH"}, {"id": "7206051018", "district_id": "720605", "name": "MATANO"}, {"id": "7206051020", "district_id": "720605", "name": "BUNGI"}, {"id": "7206052010", "district_id": "720605", "name": "PUUNGKOILU"}, {"id": "7206052011", "district_id": "720605", "name": "BAHONTOBUNGKU"}, {"id": "7206052012", "district_id": "720605", "name": "TOFUTI"}, {"id": "7206052013", "district_id": "720605", "name": "SAKITA"}, {"id": "7206052019", "district_id": "720605", "name": "MATANSALA"}, {"id": "7206052021", "district_id": "720605", "name": "BAHORURU"}, {"id": "7206052022", "district_id": "720605", "name": "BENTE"}, {"id": "7206052023", "district_id": "720605", "name": "IPI"}, {"id": "7206052024", "district_id": "720605", "name": "BAHOMOHONI"}, {"id": "7206052025", "district_id": "720605", "name": "BAHOMOLEO"}, {"id": "7206052026", "district_id": "720605", "name": "BAHOMANTE"}, {"id": "7206052027", "district_id": "720605", "name": "LANONA"}, {"id": "7206052029", "district_id": "720605", "name": "TUDUA"}]
+[
+  {
+    "id": "7206051014",
+    "district_id": "720605",
+    "name": "MENDUI"
+  },
+  {
+    "id": "7206051015",
+    "district_id": "720605",
+    "name": "LAMBEREA"
+  },
+  {
+    "id": "7206051016",
+    "district_id": "720605",
+    "name": "TOFOISO"
+  },
+  {
+    "id": "7206051017",
+    "district_id": "720605",
+    "name": "MARSAOLEH"
+  },
+  {
+    "id": "7206051018",
+    "district_id": "720605",
+    "name": "MATANO"
+  },
+  {
+    "id": "7206051020",
+    "district_id": "720605",
+    "name": "BUNGI"
+  },
+  {
+    "id": "7206052010",
+    "district_id": "720605",
+    "name": "PUUNGKOILU"
+  },
+  {
+    "id": "7206052011",
+    "district_id": "720605",
+    "name": "BAHONTOBUNGKU"
+  },
+  {
+    "id": "7206052012",
+    "district_id": "720605",
+    "name": "TOFUTI"
+  },
+  {
+    "id": "7206052013",
+    "district_id": "720605",
+    "name": "SAKITA"
+  },
+  {
+    "id": "7206052019",
+    "district_id": "720605",
+    "name": "MATANSALA"
+  },
+  {
+    "id": "7206052021",
+    "district_id": "720605",
+    "name": "BAHORURU"
+  },
+  {
+    "id": "7206052022",
+    "district_id": "720605",
+    "name": "BENTE"
+  },
+  {
+    "id": "7206052023",
+    "district_id": "720605",
+    "name": "IPI"
+  },
+  {
+    "id": "7206052024",
+    "district_id": "720605",
+    "name": "BAHOMOHONI"
+  },
+  {
+    "id": "7206052025",
+    "district_id": "720605",
+    "name": "BAHOMOLEO"
+  },
+  {
+    "id": "7206052026",
+    "district_id": "720605",
+    "name": "BAHOMANTE"
+  },
+  {
+    "id": "7206052027",
+    "district_id": "720605",
+    "name": "LANONA"
+  },
+  {
+    "id": "7206052029",
+    "district_id": "720605",
+    "name": "TUDUA"
+  }
+]

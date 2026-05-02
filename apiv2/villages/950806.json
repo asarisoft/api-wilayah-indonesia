@@ -1,1 +1,92 @@
-[{"id": "9508062001", "district_id": "950806", "name": "MUGI"}, {"id": "9508062002", "district_id": "950806", "name": "DONDOKLEMA"}, {"id": "9508062003", "district_id": "950806", "name": "DOBOPEM"}, {"id": "9508062004", "district_id": "950806", "name": "PARU"}, {"id": "9508062005", "district_id": "950806", "name": "WUNDUI"}, {"id": "9508062006", "district_id": "950806", "name": "KEMAMBURU"}, {"id": "9508062007", "district_id": "950806", "name": "WOMSIT"}, {"id": "9508062008", "district_id": "950806", "name": "DELIT"}, {"id": "9508062009", "district_id": "950806", "name": "KERET ANGGOMA"}, {"id": "9508062010", "district_id": "950806", "name": "MANET"}, {"id": "9508062011", "district_id": "950806", "name": "MIRI"}, {"id": "9508062012", "district_id": "950806", "name": "YELSENGGE"}, {"id": "9508062013", "district_id": "950806", "name": "SARIT"}, {"id": "9508062014", "district_id": "950806", "name": "UNUE"}, {"id": "9508062015", "district_id": "950806", "name": "MIRIKIL"}, {"id": "9508062016", "district_id": "950806", "name": "SAMBUA"}, {"id": "9508062017", "district_id": "950806", "name": "GISAROK"}, {"id": "9508062018", "district_id": "950806", "name": "ISIKLAK"}]
+[
+  {
+    "id": "9508062001",
+    "district_id": "950806",
+    "name": "MUGI"
+  },
+  {
+    "id": "9508062002",
+    "district_id": "950806",
+    "name": "DONDOKLEMA"
+  },
+  {
+    "id": "9508062003",
+    "district_id": "950806",
+    "name": "DOBOPEM"
+  },
+  {
+    "id": "9508062004",
+    "district_id": "950806",
+    "name": "PARU"
+  },
+  {
+    "id": "9508062005",
+    "district_id": "950806",
+    "name": "WUNDUI"
+  },
+  {
+    "id": "9508062006",
+    "district_id": "950806",
+    "name": "KEMAMBURU"
+  },
+  {
+    "id": "9508062007",
+    "district_id": "950806",
+    "name": "WOMSIT"
+  },
+  {
+    "id": "9508062008",
+    "district_id": "950806",
+    "name": "DELIT"
+  },
+  {
+    "id": "9508062009",
+    "district_id": "950806",
+    "name": "KERET ANGGOMA"
+  },
+  {
+    "id": "9508062010",
+    "district_id": "950806",
+    "name": "MANET"
+  },
+  {
+    "id": "9508062011",
+    "district_id": "950806",
+    "name": "MIRI"
+  },
+  {
+    "id": "9508062012",
+    "district_id": "950806",
+    "name": "YELSENGGE"
+  },
+  {
+    "id": "9508062013",
+    "district_id": "950806",
+    "name": "SARIT"
+  },
+  {
+    "id": "9508062014",
+    "district_id": "950806",
+    "name": "UNUE"
+  },
+  {
+    "id": "9508062015",
+    "district_id": "950806",
+    "name": "MIRIKIL"
+  },
+  {
+    "id": "9508062016",
+    "district_id": "950806",
+    "name": "SAMBUA"
+  },
+  {
+    "id": "9508062017",
+    "district_id": "950806",
+    "name": "GISAROK"
+  },
+  {
+    "id": "9508062018",
+    "district_id": "950806",
+    "name": "ISIKLAK"
+  }
+]

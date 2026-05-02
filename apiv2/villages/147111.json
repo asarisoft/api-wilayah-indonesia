@@ -1,1 +1,32 @@
-[{"id": "1471111001", "district_id": "147111", "name": "TAMPAN"}, {"id": "1471111002", "district_id": "147111", "name": "LABUH BARU TIMUR"}, {"id": "1471111003", "district_id": "147111", "name": "LABUH BARU BARAT"}, {"id": "1471111004", "district_id": "147111", "name": "AIR HITAM"}, {"id": "1471111005", "district_id": "147111", "name": "BANDARRAYA"}, {"id": "1471111007", "district_id": "147111", "name": "TIRTASIAK"}]
+[
+  {
+    "id": "1471111001",
+    "district_id": "147111",
+    "name": "TAMPAN"
+  },
+  {
+    "id": "1471111002",
+    "district_id": "147111",
+    "name": "LABUH BARU TIMUR"
+  },
+  {
+    "id": "1471111003",
+    "district_id": "147111",
+    "name": "LABUH BARU BARAT"
+  },
+  {
+    "id": "1471111004",
+    "district_id": "147111",
+    "name": "AIR HITAM"
+  },
+  {
+    "id": "1471111005",
+    "district_id": "147111",
+    "name": "BANDARRAYA"
+  },
+  {
+    "id": "1471111007",
+    "district_id": "147111",
+    "name": "TIRTASIAK"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "7312021001", "district_id": "731202", "name": "APPANANG"}, {"id": "7312021002", "district_id": "731202", "name": "JENNAE"}, {"id": "7312021003", "district_id": "731202", "name": "GALUNG"}, {"id": "7312022005", "district_id": "731202", "name": "JAMPU"}, {"id": "7312022006", "district_id": "731202", "name": "PATTOJO"}, {"id": "7312022009", "district_id": "731202", "name": "TIMUSU"}, {"id": "7312022010", "district_id": "731202", "name": "ROMPEGADING"}, {"id": "7312022011", "district_id": "731202", "name": "BARANG"}]
+[
+  {
+    "id": "7312021001",
+    "district_id": "731202",
+    "name": "APPANANG"
+  },
+  {
+    "id": "7312021002",
+    "district_id": "731202",
+    "name": "JENNAE"
+  },
+  {
+    "id": "7312021003",
+    "district_id": "731202",
+    "name": "GALUNG"
+  },
+  {
+    "id": "7312022005",
+    "district_id": "731202",
+    "name": "JAMPU"
+  },
+  {
+    "id": "7312022006",
+    "district_id": "731202",
+    "name": "PATTOJO"
+  },
+  {
+    "id": "7312022009",
+    "district_id": "731202",
+    "name": "TIMUSU"
+  },
+  {
+    "id": "7312022010",
+    "district_id": "731202",
+    "name": "ROMPEGADING"
+  },
+  {
+    "id": "7312022011",
+    "district_id": "731202",
+    "name": "BARANG"
+  }
+]

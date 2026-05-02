@@ -1,1 +1,17 @@
-[{"id": "9401022001", "district_id": "940102", "name": "NAPAN"}, {"id": "9401022002", "district_id": "940102", "name": "MASIPAWA"}, {"id": "9401022003", "district_id": "940102", "name": "WEINAMI"}]
+[
+  {
+    "id": "9401022001",
+    "district_id": "940102",
+    "name": "NAPAN"
+  },
+  {
+    "id": "9401022002",
+    "district_id": "940102",
+    "name": "MASIPAWA"
+  },
+  {
+    "id": "9401022003",
+    "district_id": "940102",
+    "name": "WEINAMI"
+  }
+]

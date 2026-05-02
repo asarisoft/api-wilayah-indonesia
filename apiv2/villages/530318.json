@@ -1,1 +1,22 @@
-[{"id": "5303182001", "district_id": "530318", "name": "MANAMAS"}, {"id": "5303182002", "district_id": "530318", "name": "BENUS"}, {"id": "5303182003", "district_id": "530318", "name": "BAKITOLAS"}, {"id": "5303182004", "district_id": "530318", "name": "SUNSEA"}]
+[
+  {
+    "id": "5303182001",
+    "district_id": "530318",
+    "name": "MANAMAS"
+  },
+  {
+    "id": "5303182002",
+    "district_id": "530318",
+    "name": "BENUS"
+  },
+  {
+    "id": "5303182003",
+    "district_id": "530318",
+    "name": "BAKITOLAS"
+  },
+  {
+    "id": "5303182004",
+    "district_id": "530318",
+    "name": "SUNSEA"
+  }
+]

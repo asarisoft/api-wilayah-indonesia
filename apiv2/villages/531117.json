@@ -1,1 +1,32 @@
-[{"id": "5311172001", "district_id": "531117", "name": "LUKUWINGIR"}, {"id": "5311172002", "district_id": "531117", "name": "WAIMBIDI"}, {"id": "5311172003", "district_id": "531117", "name": "LAIMETA"}, {"id": "5311172004", "district_id": "531117", "name": "MAHUBOKUL"}, {"id": "5311172005", "district_id": "531117", "name": "MARADA MUNDI"}, {"id": "5311172006", "district_id": "531117", "name": "MAIDANG"}]
+[
+  {
+    "id": "5311172001",
+    "district_id": "531117",
+    "name": "LUKUWINGIR"
+  },
+  {
+    "id": "5311172002",
+    "district_id": "531117",
+    "name": "WAIMBIDI"
+  },
+  {
+    "id": "5311172003",
+    "district_id": "531117",
+    "name": "LAIMETA"
+  },
+  {
+    "id": "5311172004",
+    "district_id": "531117",
+    "name": "MAHUBOKUL"
+  },
+  {
+    "id": "5311172005",
+    "district_id": "531117",
+    "name": "MARADA MUNDI"
+  },
+  {
+    "id": "5311172006",
+    "district_id": "531117",
+    "name": "MAIDANG"
+  }
+]

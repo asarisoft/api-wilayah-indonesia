@@ -1,1 +1,52 @@
-[{"id": "9504422001", "district_id": "950442", "name": "WULUK"}, {"id": "9504422002", "district_id": "950442", "name": "WENGGUN"}, {"id": "9504422003", "district_id": "950442", "name": "POSMAN"}, {"id": "9504422004", "district_id": "950442", "name": "TIYONGGI"}, {"id": "9504422005", "district_id": "950442", "name": "YELLY"}, {"id": "9504422006", "district_id": "950442", "name": "AGIN"}, {"id": "9504422007", "district_id": "950442", "name": "KOGAGI"}, {"id": "9504422008", "district_id": "950442", "name": "YEBENA"}, {"id": "9504422009", "district_id": "950442", "name": "WAMIGI"}, {"id": "9504422010", "district_id": "950442", "name": "KOLANGGUN"}]
+[
+  {
+    "id": "9504422001",
+    "district_id": "950442",
+    "name": "WULUK"
+  },
+  {
+    "id": "9504422002",
+    "district_id": "950442",
+    "name": "WENGGUN"
+  },
+  {
+    "id": "9504422003",
+    "district_id": "950442",
+    "name": "POSMAN"
+  },
+  {
+    "id": "9504422004",
+    "district_id": "950442",
+    "name": "TIYONGGI"
+  },
+  {
+    "id": "9504422005",
+    "district_id": "950442",
+    "name": "YELLY"
+  },
+  {
+    "id": "9504422006",
+    "district_id": "950442",
+    "name": "AGIN"
+  },
+  {
+    "id": "9504422007",
+    "district_id": "950442",
+    "name": "KOGAGI"
+  },
+  {
+    "id": "9504422008",
+    "district_id": "950442",
+    "name": "YEBENA"
+  },
+  {
+    "id": "9504422009",
+    "district_id": "950442",
+    "name": "WAMIGI"
+  },
+  {
+    "id": "9504422010",
+    "district_id": "950442",
+    "name": "KOLANGGUN"
+  }
+]

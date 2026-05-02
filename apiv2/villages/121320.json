@@ -1,1 +1,57 @@
-[{"id": "1213202001", "district_id": "121320", "name": "HUTA LOMBANG"}, {"id": "1213202002", "district_id": "121320", "name": "HUTA BARU"}, {"id": "1213202003", "district_id": "121320", "name": "HANDEL"}, {"id": "1213202004", "district_id": "121320", "name": "HUTATINGGI"}, {"id": "1213202005", "district_id": "121320", "name": "HUTANAMALE"}, {"id": "1213202006", "district_id": "121320", "name": "HUTABARINGIN JULU"}, {"id": "1213202007", "district_id": "121320", "name": "SIBANGGOR JAE"}, {"id": "1213202008", "district_id": "121320", "name": "SIBANGGOR TONGA"}, {"id": "1213202009", "district_id": "121320", "name": "SIBANGGOR JULU"}, {"id": "1213202010", "district_id": "121320", "name": "PURBA JULU"}, {"id": "1213202011", "district_id": "121320", "name": "HUTA BARINGIN"}]
+[
+  {
+    "id": "1213202001",
+    "district_id": "121320",
+    "name": "HUTA LOMBANG"
+  },
+  {
+    "id": "1213202002",
+    "district_id": "121320",
+    "name": "HUTA BARU"
+  },
+  {
+    "id": "1213202003",
+    "district_id": "121320",
+    "name": "HANDEL"
+  },
+  {
+    "id": "1213202004",
+    "district_id": "121320",
+    "name": "HUTATINGGI"
+  },
+  {
+    "id": "1213202005",
+    "district_id": "121320",
+    "name": "HUTANAMALE"
+  },
+  {
+    "id": "1213202006",
+    "district_id": "121320",
+    "name": "HUTABARINGIN JULU"
+  },
+  {
+    "id": "1213202007",
+    "district_id": "121320",
+    "name": "SIBANGGOR JAE"
+  },
+  {
+    "id": "1213202008",
+    "district_id": "121320",
+    "name": "SIBANGGOR TONGA"
+  },
+  {
+    "id": "1213202009",
+    "district_id": "121320",
+    "name": "SIBANGGOR JULU"
+  },
+  {
+    "id": "1213202010",
+    "district_id": "121320",
+    "name": "PURBA JULU"
+  },
+  {
+    "id": "1213202011",
+    "district_id": "121320",
+    "name": "HUTA BARINGIN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "3513042001", "district_id": "351304", "name": "GUNUNGTUGEL"}, {"id": "3513042002", "district_id": "351304", "name": "KEDUNGREJO"}, {"id": "3513042003", "district_id": "351304", "name": "PATOKAN"}, {"id": "3513042004", "district_id": "351304", "name": "BANTARAN"}, {"id": "3513042005", "district_id": "351304", "name": "LEGUNDI"}, {"id": "3513042006", "district_id": "351304", "name": "TEMPURAN"}, {"id": "3513042007", "district_id": "351304", "name": "KROPAK"}, {"id": "3513042008", "district_id": "351304", "name": "BESUK"}, {"id": "3513042009", "district_id": "351304", "name": "KRAMATAGUNG"}, {"id": "3513042010", "district_id": "351304", "name": "KARANGANYAR"}]
+[
+  {
+    "id": "3513042001",
+    "district_id": "351304",
+    "name": "GUNUNGTUGEL"
+  },
+  {
+    "id": "3513042002",
+    "district_id": "351304",
+    "name": "KEDUNGREJO"
+  },
+  {
+    "id": "3513042003",
+    "district_id": "351304",
+    "name": "PATOKAN"
+  },
+  {
+    "id": "3513042004",
+    "district_id": "351304",
+    "name": "BANTARAN"
+  },
+  {
+    "id": "3513042005",
+    "district_id": "351304",
+    "name": "LEGUNDI"
+  },
+  {
+    "id": "3513042006",
+    "district_id": "351304",
+    "name": "TEMPURAN"
+  },
+  {
+    "id": "3513042007",
+    "district_id": "351304",
+    "name": "KROPAK"
+  },
+  {
+    "id": "3513042008",
+    "district_id": "351304",
+    "name": "BESUK"
+  },
+  {
+    "id": "3513042009",
+    "district_id": "351304",
+    "name": "KRAMATAGUNG"
+  },
+  {
+    "id": "3513042010",
+    "district_id": "351304",
+    "name": "KARANGANYAR"
+  }
+]

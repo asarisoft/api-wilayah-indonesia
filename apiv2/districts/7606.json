@@ -1,1 +1,27 @@
-[{"id": "760601", "regency_id": "7606", "name": "TOBADAK"}, {"id": "760602", "regency_id": "7606", "name": "PANGALE"}, {"id": "760603", "regency_id": "7606", "name": "BUDONG-BUDONG"}, {"id": "760604", "regency_id": "7606", "name": "TOPOYO"}, {"id": "760605", "regency_id": "7606", "name": "KAROSSA"}]
+[
+  {
+    "id": "760601",
+    "regency_id": "7606",
+    "name": "TOBADAK"
+  },
+  {
+    "id": "760602",
+    "regency_id": "7606",
+    "name": "PANGALE"
+  },
+  {
+    "id": "760603",
+    "regency_id": "7606",
+    "name": "BUDONG-BUDONG"
+  },
+  {
+    "id": "760604",
+    "regency_id": "7606",
+    "name": "TOPOYO"
+  },
+  {
+    "id": "760605",
+    "regency_id": "7606",
+    "name": "KAROSSA"
+  }
+]

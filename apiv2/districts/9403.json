@@ -1,1 +1,122 @@
-[{"id": "940301", "regency_id": "9403", "name": "PANIAI TIMUR"}, {"id": "940302", "regency_id": "9403", "name": "PANIAI BARAT"}, {"id": "940303", "regency_id": "9403", "name": "ARADIDE"}, {"id": "940304", "regency_id": "9403", "name": "BOGABAIDA"}, {"id": "940305", "regency_id": "9403", "name": "BIBIDA"}, {"id": "940306", "regency_id": "9403", "name": "DUMADAMA"}, {"id": "940307", "regency_id": "9403", "name": "SIRIWO"}, {"id": "940308", "regency_id": "9403", "name": "KEBO"}, {"id": "940309", "regency_id": "9403", "name": "YATAMO"}, {"id": "940310", "regency_id": "9403", "name": "EKADIDE"}, {"id": "940311", "regency_id": "9403", "name": "WEGEE MUKA"}, {"id": "940312", "regency_id": "9403", "name": "WEGEE BINO"}, {"id": "940313", "regency_id": "9403", "name": "PUGO DAGI"}, {"id": "940314", "regency_id": "9403", "name": "MUYE"}, {"id": "940315", "regency_id": "9403", "name": "NAKAMA"}, {"id": "940316", "regency_id": "9403", "name": "TELUK DEYA"}, {"id": "940317", "regency_id": "9403", "name": "YAGAI"}, {"id": "940318", "regency_id": "9403", "name": "YOUTADI"}, {"id": "940319", "regency_id": "9403", "name": "BAYA BIRU"}, {"id": "940320", "regency_id": "9403", "name": "DEIYAI MIYO"}, {"id": "940321", "regency_id": "9403", "name": "DOGOMO"}, {"id": "940322", "regency_id": "9403", "name": "AWEIDA"}, {"id": "940323", "regency_id": "9403", "name": "TOPIYAI"}, {"id": "940324", "regency_id": "9403", "name": "FAJAR TIMUR"}]
+[
+  {
+    "id": "940301",
+    "regency_id": "9403",
+    "name": "PANIAI TIMUR"
+  },
+  {
+    "id": "940302",
+    "regency_id": "9403",
+    "name": "PANIAI BARAT"
+  },
+  {
+    "id": "940303",
+    "regency_id": "9403",
+    "name": "ARADIDE"
+  },
+  {
+    "id": "940304",
+    "regency_id": "9403",
+    "name": "BOGABAIDA"
+  },
+  {
+    "id": "940305",
+    "regency_id": "9403",
+    "name": "BIBIDA"
+  },
+  {
+    "id": "940306",
+    "regency_id": "9403",
+    "name": "DUMADAMA"
+  },
+  {
+    "id": "940307",
+    "regency_id": "9403",
+    "name": "SIRIWO"
+  },
+  {
+    "id": "940308",
+    "regency_id": "9403",
+    "name": "KEBO"
+  },
+  {
+    "id": "940309",
+    "regency_id": "9403",
+    "name": "YATAMO"
+  },
+  {
+    "id": "940310",
+    "regency_id": "9403",
+    "name": "EKADIDE"
+  },
+  {
+    "id": "940311",
+    "regency_id": "9403",
+    "name": "WEGEE MUKA"
+  },
+  {
+    "id": "940312",
+    "regency_id": "9403",
+    "name": "WEGEE BINO"
+  },
+  {
+    "id": "940313",
+    "regency_id": "9403",
+    "name": "PUGO DAGI"
+  },
+  {
+    "id": "940314",
+    "regency_id": "9403",
+    "name": "MUYE"
+  },
+  {
+    "id": "940315",
+    "regency_id": "9403",
+    "name": "NAKAMA"
+  },
+  {
+    "id": "940316",
+    "regency_id": "9403",
+    "name": "TELUK DEYA"
+  },
+  {
+    "id": "940317",
+    "regency_id": "9403",
+    "name": "YAGAI"
+  },
+  {
+    "id": "940318",
+    "regency_id": "9403",
+    "name": "YOUTADI"
+  },
+  {
+    "id": "940319",
+    "regency_id": "9403",
+    "name": "BAYA BIRU"
+  },
+  {
+    "id": "940320",
+    "regency_id": "9403",
+    "name": "DEIYAI MIYO"
+  },
+  {
+    "id": "940321",
+    "regency_id": "9403",
+    "name": "DOGOMO"
+  },
+  {
+    "id": "940322",
+    "regency_id": "9403",
+    "name": "AWEIDA"
+  },
+  {
+    "id": "940323",
+    "regency_id": "9403",
+    "name": "TOPIYAI"
+  },
+  {
+    "id": "940324",
+    "regency_id": "9403",
+    "name": "FAJAR TIMUR"
+  }
+]

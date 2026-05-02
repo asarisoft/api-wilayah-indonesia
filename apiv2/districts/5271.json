@@ -1,1 +1,32 @@
-[{"id": "527101", "regency_id": "5271", "name": "AMPENAN"}, {"id": "527102", "regency_id": "5271", "name": "MATARAM"}, {"id": "527103", "regency_id": "5271", "name": "CAKRANEGARA"}, {"id": "527104", "regency_id": "5271", "name": "SEKARBELA"}, {"id": "527105", "regency_id": "5271", "name": "SELAPARANG"}, {"id": "527106", "regency_id": "5271", "name": "SANDUBAYA"}]
+[
+  {
+    "id": "527101",
+    "regency_id": "5271",
+    "name": "AMPENAN"
+  },
+  {
+    "id": "527102",
+    "regency_id": "5271",
+    "name": "MATARAM"
+  },
+  {
+    "id": "527103",
+    "regency_id": "5271",
+    "name": "CAKRANEGARA"
+  },
+  {
+    "id": "527104",
+    "regency_id": "5271",
+    "name": "SEKARBELA"
+  },
+  {
+    "id": "527105",
+    "regency_id": "5271",
+    "name": "SELAPARANG"
+  },
+  {
+    "id": "527106",
+    "regency_id": "5271",
+    "name": "SANDUBAYA"
+  }
+]

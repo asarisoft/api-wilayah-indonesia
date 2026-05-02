@@ -1,1 +1,52 @@
-[{"id": "7312051001", "district_id": "731205", "name": "BATU BATU"}, {"id": "7312051002", "district_id": "731205", "name": "KACA"}, {"id": "7312051003", "district_id": "731205", "name": "ATTANG SALO"}, {"id": "7312051004", "district_id": "731205", "name": "MANORANG SALO"}, {"id": "7312051005", "district_id": "731205", "name": "LIMPOMAJANG"}, {"id": "7312052006", "district_id": "731205", "name": "BULUE"}, {"id": "7312052007", "district_id": "731205", "name": "PANINCONG"}, {"id": "7312052008", "district_id": "731205", "name": "PATAMPANUA"}, {"id": "7312052009", "district_id": "731205", "name": "TELLULIMPOE"}, {"id": "7312052010", "district_id": "731205", "name": "LARINGGI"}]
+[
+  {
+    "id": "7312051001",
+    "district_id": "731205",
+    "name": "BATU BATU"
+  },
+  {
+    "id": "7312051002",
+    "district_id": "731205",
+    "name": "KACA"
+  },
+  {
+    "id": "7312051003",
+    "district_id": "731205",
+    "name": "ATTANG SALO"
+  },
+  {
+    "id": "7312051004",
+    "district_id": "731205",
+    "name": "MANORANG SALO"
+  },
+  {
+    "id": "7312051005",
+    "district_id": "731205",
+    "name": "LIMPOMAJANG"
+  },
+  {
+    "id": "7312052006",
+    "district_id": "731205",
+    "name": "BULUE"
+  },
+  {
+    "id": "7312052007",
+    "district_id": "731205",
+    "name": "PANINCONG"
+  },
+  {
+    "id": "7312052008",
+    "district_id": "731205",
+    "name": "PATAMPANUA"
+  },
+  {
+    "id": "7312052009",
+    "district_id": "731205",
+    "name": "TELLULIMPOE"
+  },
+  {
+    "id": "7312052010",
+    "district_id": "731205",
+    "name": "LARINGGI"
+  }
+]

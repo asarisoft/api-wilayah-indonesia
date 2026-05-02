@@ -1,1 +1,32 @@
-[{"id": "3371011003", "district_id": "337101", "name": "REJOWINANGUN SELATAN"}, {"id": "3371011007", "district_id": "337101", "name": "MAGERSARI"}, {"id": "3371011008", "district_id": "337101", "name": "JURANGOMBO UTARA"}, {"id": "3371011009", "district_id": "337101", "name": "JURANGOMBO SELATAN"}, {"id": "3371011010", "district_id": "337101", "name": "TIDAR UTARA"}, {"id": "3371011011", "district_id": "337101", "name": "TIDAR SELATAN"}]
+[
+  {
+    "id": "3371011003",
+    "district_id": "337101",
+    "name": "REJOWINANGUN SELATAN"
+  },
+  {
+    "id": "3371011007",
+    "district_id": "337101",
+    "name": "MAGERSARI"
+  },
+  {
+    "id": "3371011008",
+    "district_id": "337101",
+    "name": "JURANGOMBO UTARA"
+  },
+  {
+    "id": "3371011009",
+    "district_id": "337101",
+    "name": "JURANGOMBO SELATAN"
+  },
+  {
+    "id": "3371011010",
+    "district_id": "337101",
+    "name": "TIDAR UTARA"
+  },
+  {
+    "id": "3371011011",
+    "district_id": "337101",
+    "name": "TIDAR SELATAN"
+  }
+]

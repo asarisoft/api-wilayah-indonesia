@@ -1,1 +1,52 @@
-[{"id": "9208022001", "district_id": "920802", "name": "KAMBALA"}, {"id": "9208022002", "district_id": "920802", "name": "YARONA"}, {"id": "9208022003", "district_id": "920802", "name": "EDOR"}, {"id": "9208022004", "district_id": "920802", "name": "TAIRI"}, {"id": "9208022005", "district_id": "920802", "name": "GAKA"}, {"id": "9208022006", "district_id": "920802", "name": "GURIASA"}, {"id": "9208022007", "district_id": "920802", "name": "ADI JAYA"}, {"id": "9208022008", "district_id": "920802", "name": "NUSAULAN"}, {"id": "9208022009", "district_id": "920802", "name": "ESANIA"}, {"id": "9208022010", "district_id": "920802", "name": "HIA"}]
+[
+  {
+    "id": "9208022001",
+    "district_id": "920802",
+    "name": "KAMBALA"
+  },
+  {
+    "id": "9208022002",
+    "district_id": "920802",
+    "name": "YARONA"
+  },
+  {
+    "id": "9208022003",
+    "district_id": "920802",
+    "name": "EDOR"
+  },
+  {
+    "id": "9208022004",
+    "district_id": "920802",
+    "name": "TAIRI"
+  },
+  {
+    "id": "9208022005",
+    "district_id": "920802",
+    "name": "GAKA"
+  },
+  {
+    "id": "9208022006",
+    "district_id": "920802",
+    "name": "GURIASA"
+  },
+  {
+    "id": "9208022007",
+    "district_id": "920802",
+    "name": "ADI JAYA"
+  },
+  {
+    "id": "9208022008",
+    "district_id": "920802",
+    "name": "NUSAULAN"
+  },
+  {
+    "id": "9208022009",
+    "district_id": "920802",
+    "name": "ESANIA"
+  },
+  {
+    "id": "9208022010",
+    "district_id": "920802",
+    "name": "HIA"
+  }
+]

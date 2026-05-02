@@ -1,1 +1,37 @@
-[{"id": "1172022004", "district_id": "117202", "name": "JABOI"}, {"id": "1172022005", "district_id": "117202", "name": "BALOHAN"}, {"id": "1172022006", "district_id": "117202", "name": "COT ABEUK"}, {"id": "1172022007", "district_id": "117202", "name": "COT BA U"}, {"id": "1172022008", "district_id": "117202", "name": "IE MEULEE"}, {"id": "1172022009", "district_id": "117202", "name": "UJOENG KAREUNG"}, {"id": "1172022010", "district_id": "117202", "name": "ANOE ITAM"}]
+[
+  {
+    "id": "1172022004",
+    "district_id": "117202",
+    "name": "JABOI"
+  },
+  {
+    "id": "1172022005",
+    "district_id": "117202",
+    "name": "BALOHAN"
+  },
+  {
+    "id": "1172022006",
+    "district_id": "117202",
+    "name": "COT ABEUK"
+  },
+  {
+    "id": "1172022007",
+    "district_id": "117202",
+    "name": "COT BA U"
+  },
+  {
+    "id": "1172022008",
+    "district_id": "117202",
+    "name": "IE MEULEE"
+  },
+  {
+    "id": "1172022009",
+    "district_id": "117202",
+    "name": "UJOENG KAREUNG"
+  },
+  {
+    "id": "1172022010",
+    "district_id": "117202",
+    "name": "ANOE ITAM"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "8108052001", "district_id": "810805", "name": "LETWURUNG"}, {"id": "8108052002", "district_id": "810805", "name": "YATOKE"}, {"id": "8108052003", "district_id": "810805", "name": "KROING"}, {"id": "8108052004", "district_id": "810805", "name": "NAKARHAMTO"}, {"id": "8108052005", "district_id": "810805", "name": "EMPLAWAS"}, {"id": "8108052006", "district_id": "810805", "name": "KOKWARI"}, {"id": "8108052007", "district_id": "810805", "name": "AHANARI"}, {"id": "8108052008", "district_id": "810805", "name": "WAKPAPAPI"}, {"id": "8108052009", "district_id": "810805", "name": "ANALUTUR"}, {"id": "8108052010", "district_id": "810805", "name": "MANUWERI"}, {"id": "8108052011", "district_id": "810805", "name": "TUTUWAWANG"}]
+[
+  {
+    "id": "8108052001",
+    "district_id": "810805",
+    "name": "LETWURUNG"
+  },
+  {
+    "id": "8108052002",
+    "district_id": "810805",
+    "name": "YATOKE"
+  },
+  {
+    "id": "8108052003",
+    "district_id": "810805",
+    "name": "KROING"
+  },
+  {
+    "id": "8108052004",
+    "district_id": "810805",
+    "name": "NAKARHAMTO"
+  },
+  {
+    "id": "8108052005",
+    "district_id": "810805",
+    "name": "EMPLAWAS"
+  },
+  {
+    "id": "8108052006",
+    "district_id": "810805",
+    "name": "KOKWARI"
+  },
+  {
+    "id": "8108052007",
+    "district_id": "810805",
+    "name": "AHANARI"
+  },
+  {
+    "id": "8108052008",
+    "district_id": "810805",
+    "name": "WAKPAPAPI"
+  },
+  {
+    "id": "8108052009",
+    "district_id": "810805",
+    "name": "ANALUTUR"
+  },
+  {
+    "id": "8108052010",
+    "district_id": "810805",
+    "name": "MANUWERI"
+  },
+  {
+    "id": "8108052011",
+    "district_id": "810805",
+    "name": "TUTUWAWANG"
+  }
+]

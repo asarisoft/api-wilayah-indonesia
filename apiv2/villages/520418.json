@@ -1,1 +1,37 @@
-[{"id": "5204182001", "district_id": "520418", "name": "LABUHAN BADAS"}, {"id": "5204182002", "district_id": "520418", "name": "KARANG DIMA"}, {"id": "5204182003", "district_id": "520418", "name": "LABUHAN SUMBAWA"}, {"id": "5204182004", "district_id": "520418", "name": "LABUHAN AJI"}, {"id": "5204182005", "district_id": "520418", "name": "SEBOTOK"}, {"id": "5204182006", "district_id": "520418", "name": "BAJO MEDANG"}, {"id": "5204182007", "district_id": "520418", "name": "BUGIS MEDANG"}]
+[
+  {
+    "id": "5204182001",
+    "district_id": "520418",
+    "name": "LABUHAN BADAS"
+  },
+  {
+    "id": "5204182002",
+    "district_id": "520418",
+    "name": "KARANG DIMA"
+  },
+  {
+    "id": "5204182003",
+    "district_id": "520418",
+    "name": "LABUHAN SUMBAWA"
+  },
+  {
+    "id": "5204182004",
+    "district_id": "520418",
+    "name": "LABUHAN AJI"
+  },
+  {
+    "id": "5204182005",
+    "district_id": "520418",
+    "name": "SEBOTOK"
+  },
+  {
+    "id": "5204182006",
+    "district_id": "520418",
+    "name": "BAJO MEDANG"
+  },
+  {
+    "id": "5204182007",
+    "district_id": "520418",
+    "name": "BUGIS MEDANG"
+  }
+]

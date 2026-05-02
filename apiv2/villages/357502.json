@@ -1,1 +1,37 @@
-[{"id": "3575021001", "district_id": "357502", "name": "POHJENTREK"}, {"id": "3575021002", "district_id": "357502", "name": "WIROGUNAN"}, {"id": "3575021003", "district_id": "357502", "name": "TEMBOKREJO"}, {"id": "3575021004", "district_id": "357502", "name": "PURUTREJO"}, {"id": "3575021005", "district_id": "357502", "name": "KEBONAGUNG"}, {"id": "3575021006", "district_id": "357502", "name": "PURWOREJO"}, {"id": "3575021011", "district_id": "357502", "name": "SEKARGADUNG"}]
+[
+  {
+    "id": "3575021001",
+    "district_id": "357502",
+    "name": "POHJENTREK"
+  },
+  {
+    "id": "3575021002",
+    "district_id": "357502",
+    "name": "WIROGUNAN"
+  },
+  {
+    "id": "3575021003",
+    "district_id": "357502",
+    "name": "TEMBOKREJO"
+  },
+  {
+    "id": "3575021004",
+    "district_id": "357502",
+    "name": "PURUTREJO"
+  },
+  {
+    "id": "3575021005",
+    "district_id": "357502",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3575021006",
+    "district_id": "357502",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3575021011",
+    "district_id": "357502",
+    "name": "SEKARGADUNG"
+  }
+]

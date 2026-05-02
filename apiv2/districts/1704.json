@@ -1,1 +1,77 @@
-[{"id": "170401", "regency_id": "1704", "name": "KINAL"}, {"id": "170402", "regency_id": "1704", "name": "TANJUNG KEMUNING"}, {"id": "170403", "regency_id": "1704", "name": "KAUR UTARA"}, {"id": "170404", "regency_id": "1704", "name": "KAUR TENGAH"}, {"id": "170405", "regency_id": "1704", "name": "KAUR SELATAN"}, {"id": "170406", "regency_id": "1704", "name": "MAJE"}, {"id": "170407", "regency_id": "1704", "name": "NASAL"}, {"id": "170408", "regency_id": "1704", "name": "SEMIDANG GUMAY"}, {"id": "170409", "regency_id": "1704", "name": "KELAM TENGAH"}, {"id": "170410", "regency_id": "1704", "name": "LUAS"}, {"id": "170411", "regency_id": "1704", "name": "MUARA SAHUNG"}, {"id": "170412", "regency_id": "1704", "name": "TETAP"}, {"id": "170413", "regency_id": "1704", "name": "LUNGKANG KULE"}, {"id": "170414", "regency_id": "1704", "name": "PADANG GUCI HILIR"}, {"id": "170415", "regency_id": "1704", "name": "PADANG GUCI HULU"}]
+[
+  {
+    "id": "170401",
+    "regency_id": "1704",
+    "name": "KINAL"
+  },
+  {
+    "id": "170402",
+    "regency_id": "1704",
+    "name": "TANJUNG KEMUNING"
+  },
+  {
+    "id": "170403",
+    "regency_id": "1704",
+    "name": "KAUR UTARA"
+  },
+  {
+    "id": "170404",
+    "regency_id": "1704",
+    "name": "KAUR TENGAH"
+  },
+  {
+    "id": "170405",
+    "regency_id": "1704",
+    "name": "KAUR SELATAN"
+  },
+  {
+    "id": "170406",
+    "regency_id": "1704",
+    "name": "MAJE"
+  },
+  {
+    "id": "170407",
+    "regency_id": "1704",
+    "name": "NASAL"
+  },
+  {
+    "id": "170408",
+    "regency_id": "1704",
+    "name": "SEMIDANG GUMAY"
+  },
+  {
+    "id": "170409",
+    "regency_id": "1704",
+    "name": "KELAM TENGAH"
+  },
+  {
+    "id": "170410",
+    "regency_id": "1704",
+    "name": "LUAS"
+  },
+  {
+    "id": "170411",
+    "regency_id": "1704",
+    "name": "MUARA SAHUNG"
+  },
+  {
+    "id": "170412",
+    "regency_id": "1704",
+    "name": "TETAP"
+  },
+  {
+    "id": "170413",
+    "regency_id": "1704",
+    "name": "LUNGKANG KULE"
+  },
+  {
+    "id": "170414",
+    "regency_id": "1704",
+    "name": "PADANG GUCI HILIR"
+  },
+  {
+    "id": "170415",
+    "regency_id": "1704",
+    "name": "PADANG GUCI HULU"
+  }
+]

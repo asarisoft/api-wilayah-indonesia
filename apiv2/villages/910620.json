@@ -1,1 +1,72 @@
-[{"id": "9106202001", "district_id": "910620", "name": "OPIAREF"}, {"id": "9106202002", "district_id": "910620", "name": "BAKRIBO"}, {"id": "9106202003", "district_id": "910620", "name": "SAWA"}, {"id": "9106202004", "district_id": "910620", "name": "MARAUW"}, {"id": "9106202005", "district_id": "910620", "name": "WADIBU"}, {"id": "9106202006", "district_id": "910620", "name": "ANGGOPI"}, {"id": "9106202007", "district_id": "910620", "name": "ANGGADUBER"}, {"id": "9106202008", "district_id": "910620", "name": "ANIMI"}, {"id": "9106202009", "district_id": "910620", "name": "KAKUR"}, {"id": "9106202010", "district_id": "910620", "name": "TANJUNG BARARI"}, {"id": "9106202011", "district_id": "910620", "name": "SAWADORI"}, {"id": "9106202012", "district_id": "910620", "name": "SAURI"}, {"id": "9106202013", "district_id": "910620", "name": "MAKMAKERBO"}, {"id": "9106202014", "district_id": "910620", "name": "YENSAMA"}]
+[
+  {
+    "id": "9106202001",
+    "district_id": "910620",
+    "name": "OPIAREF"
+  },
+  {
+    "id": "9106202002",
+    "district_id": "910620",
+    "name": "BAKRIBO"
+  },
+  {
+    "id": "9106202003",
+    "district_id": "910620",
+    "name": "SAWA"
+  },
+  {
+    "id": "9106202004",
+    "district_id": "910620",
+    "name": "MARAUW"
+  },
+  {
+    "id": "9106202005",
+    "district_id": "910620",
+    "name": "WADIBU"
+  },
+  {
+    "id": "9106202006",
+    "district_id": "910620",
+    "name": "ANGGOPI"
+  },
+  {
+    "id": "9106202007",
+    "district_id": "910620",
+    "name": "ANGGADUBER"
+  },
+  {
+    "id": "9106202008",
+    "district_id": "910620",
+    "name": "ANIMI"
+  },
+  {
+    "id": "9106202009",
+    "district_id": "910620",
+    "name": "KAKUR"
+  },
+  {
+    "id": "9106202010",
+    "district_id": "910620",
+    "name": "TANJUNG BARARI"
+  },
+  {
+    "id": "9106202011",
+    "district_id": "910620",
+    "name": "SAWADORI"
+  },
+  {
+    "id": "9106202012",
+    "district_id": "910620",
+    "name": "SAURI"
+  },
+  {
+    "id": "9106202013",
+    "district_id": "910620",
+    "name": "MAKMAKERBO"
+  },
+  {
+    "id": "9106202014",
+    "district_id": "910620",
+    "name": "YENSAMA"
+  }
+]

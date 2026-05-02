@@ -1,1 +1,82 @@
-[{"id": "9503372001", "district_id": "950337", "name": "SELA"}, {"id": "9503372002", "district_id": "950337", "name": "MEGOM"}, {"id": "9503372003", "district_id": "950337", "name": "MONDON"}, {"id": "9503372004", "district_id": "950337", "name": "HOROMAN"}, {"id": "9503372005", "district_id": "950337", "name": "MAKERO"}, {"id": "9503372006", "district_id": "950337", "name": "ORISIN"}, {"id": "9503372007", "district_id": "950337", "name": "MONAMNA"}, {"id": "9503372008", "district_id": "950337", "name": "EJUB"}, {"id": "9503372009", "district_id": "950337", "name": "DOLBOL"}, {"id": "9503372010", "district_id": "950337", "name": "HEMUKA"}, {"id": "9503372011", "district_id": "950337", "name": "PHOY"}, {"id": "9503372012", "district_id": "950337", "name": "SULDA"}, {"id": "9503372013", "district_id": "950337", "name": "MEKDUA"}, {"id": "9503372014", "district_id": "950337", "name": "BERA"}, {"id": "9503372015", "district_id": "950337", "name": "HOLDOMEN"}, {"id": "9503372016", "district_id": "950337", "name": "ASOK"}]
+[
+  {
+    "id": "9503372001",
+    "district_id": "950337",
+    "name": "SELA"
+  },
+  {
+    "id": "9503372002",
+    "district_id": "950337",
+    "name": "MEGOM"
+  },
+  {
+    "id": "9503372003",
+    "district_id": "950337",
+    "name": "MONDON"
+  },
+  {
+    "id": "9503372004",
+    "district_id": "950337",
+    "name": "HOROMAN"
+  },
+  {
+    "id": "9503372005",
+    "district_id": "950337",
+    "name": "MAKERO"
+  },
+  {
+    "id": "9503372006",
+    "district_id": "950337",
+    "name": "ORISIN"
+  },
+  {
+    "id": "9503372007",
+    "district_id": "950337",
+    "name": "MONAMNA"
+  },
+  {
+    "id": "9503372008",
+    "district_id": "950337",
+    "name": "EJUB"
+  },
+  {
+    "id": "9503372009",
+    "district_id": "950337",
+    "name": "DOLBOL"
+  },
+  {
+    "id": "9503372010",
+    "district_id": "950337",
+    "name": "HEMUKA"
+  },
+  {
+    "id": "9503372011",
+    "district_id": "950337",
+    "name": "PHOY"
+  },
+  {
+    "id": "9503372012",
+    "district_id": "950337",
+    "name": "SULDA"
+  },
+  {
+    "id": "9503372013",
+    "district_id": "950337",
+    "name": "MEKDUA"
+  },
+  {
+    "id": "9503372014",
+    "district_id": "950337",
+    "name": "BERA"
+  },
+  {
+    "id": "9503372015",
+    "district_id": "950337",
+    "name": "HOLDOMEN"
+  },
+  {
+    "id": "9503372016",
+    "district_id": "950337",
+    "name": "ASOK"
+  }
+]

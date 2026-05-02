@@ -1,1 +1,72 @@
-[{"id": "7201102001", "district_id": "720110", "name": "TANGEBAN"}, {"id": "7201102002", "district_id": "720110", "name": "TAUGI"}, {"id": "7201102003", "district_id": "720110", "name": "ETENG"}, {"id": "7201102004", "district_id": "720110", "name": "MINANG ANDALA"}, {"id": "7201102005", "district_id": "720110", "name": "KOSPA DUATAKARYA"}, {"id": "7201102006", "district_id": "720110", "name": "PURWO AGUNG"}, {"id": "7201102007", "district_id": "720110", "name": "KEMBANG MERTA"}, {"id": "7201102008", "district_id": "720110", "name": "SIMPANGAN"}, {"id": "7201102009", "district_id": "720110", "name": "TOMPOTIKA MAKMUR"}, {"id": "7201102010", "district_id": "720110", "name": "DUATA KARYA"}, {"id": "7201102011", "district_id": "720110", "name": "SERESE"}, {"id": "7201102012", "district_id": "720110", "name": "CEMERLANG"}, {"id": "7201102013", "district_id": "720110", "name": "PADANGON"}, {"id": "7201102014", "district_id": "720110", "name": "RANGA-RANGA"}]
+[
+  {
+    "id": "7201102001",
+    "district_id": "720110",
+    "name": "TANGEBAN"
+  },
+  {
+    "id": "7201102002",
+    "district_id": "720110",
+    "name": "TAUGI"
+  },
+  {
+    "id": "7201102003",
+    "district_id": "720110",
+    "name": "ETENG"
+  },
+  {
+    "id": "7201102004",
+    "district_id": "720110",
+    "name": "MINANG ANDALA"
+  },
+  {
+    "id": "7201102005",
+    "district_id": "720110",
+    "name": "KOSPA DUATAKARYA"
+  },
+  {
+    "id": "7201102006",
+    "district_id": "720110",
+    "name": "PURWO AGUNG"
+  },
+  {
+    "id": "7201102007",
+    "district_id": "720110",
+    "name": "KEMBANG MERTA"
+  },
+  {
+    "id": "7201102008",
+    "district_id": "720110",
+    "name": "SIMPANGAN"
+  },
+  {
+    "id": "7201102009",
+    "district_id": "720110",
+    "name": "TOMPOTIKA MAKMUR"
+  },
+  {
+    "id": "7201102010",
+    "district_id": "720110",
+    "name": "DUATA KARYA"
+  },
+  {
+    "id": "7201102011",
+    "district_id": "720110",
+    "name": "SERESE"
+  },
+  {
+    "id": "7201102012",
+    "district_id": "720110",
+    "name": "CEMERLANG"
+  },
+  {
+    "id": "7201102013",
+    "district_id": "720110",
+    "name": "PADANGON"
+  },
+  {
+    "id": "7201102014",
+    "district_id": "720110",
+    "name": "RANGA-RANGA"
+  }
+]

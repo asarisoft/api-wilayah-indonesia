@@ -1,1 +1,52 @@
-[{"id": "1802282001", "district_id": "180228", "name": "BINA KARYA JAYA"}, {"id": "1802282002", "district_id": "180228", "name": "BINA KARYA UTAMA"}, {"id": "1802282003", "district_id": "180228", "name": "BINA KARYA SAKTI"}, {"id": "1802282004", "district_id": "180228", "name": "JOHARAN"}, {"id": "1802282005", "district_id": "180228", "name": "RANTAU JAYA BARU"}, {"id": "1802282006", "district_id": "180228", "name": "RANTAU JAYA ILIR"}, {"id": "1802282007", "district_id": "180228", "name": "BINA KARYA BARU"}, {"id": "1802282008", "district_id": "180228", "name": "MERANGGI JAYA"}, {"id": "1802282009", "district_id": "180228", "name": "MEKAR JAYA"}, {"id": "1802282010", "district_id": "180228", "name": "RANTAU JAYA MAKMUR"}]
+[
+  {
+    "id": "1802282001",
+    "district_id": "180228",
+    "name": "BINA KARYA JAYA"
+  },
+  {
+    "id": "1802282002",
+    "district_id": "180228",
+    "name": "BINA KARYA UTAMA"
+  },
+  {
+    "id": "1802282003",
+    "district_id": "180228",
+    "name": "BINA KARYA SAKTI"
+  },
+  {
+    "id": "1802282004",
+    "district_id": "180228",
+    "name": "JOHARAN"
+  },
+  {
+    "id": "1802282005",
+    "district_id": "180228",
+    "name": "RANTAU JAYA BARU"
+  },
+  {
+    "id": "1802282006",
+    "district_id": "180228",
+    "name": "RANTAU JAYA ILIR"
+  },
+  {
+    "id": "1802282007",
+    "district_id": "180228",
+    "name": "BINA KARYA BARU"
+  },
+  {
+    "id": "1802282008",
+    "district_id": "180228",
+    "name": "MERANGGI JAYA"
+  },
+  {
+    "id": "1802282009",
+    "district_id": "180228",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "1802282010",
+    "district_id": "180228",
+    "name": "RANTAU JAYA MAKMUR"
+  }
+]

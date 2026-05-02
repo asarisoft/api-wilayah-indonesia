@@ -1,1 +1,67 @@
-[{"id": "1211092001", "district_id": "121109", "name": "SIMANDUMA"}, {"id": "1211092002", "district_id": "121109", "name": "BANDAR HUTA USANG"}, {"id": "1211092003", "district_id": "121109", "name": "ONAN LAMA"}, {"id": "1211092004", "district_id": "121109", "name": "LINGGA RAJA"}, {"id": "1211092005", "district_id": "121109", "name": "LAKSA"}, {"id": "1211092006", "district_id": "121109", "name": "TANJUNG SALUKSUK"}, {"id": "1211092007", "district_id": "121109", "name": "BUKIT TINGGI"}, {"id": "1211092008", "district_id": "121109", "name": "SIMARTUGAN"}, {"id": "1211092009", "district_id": "121109", "name": "KUTA USANG"}, {"id": "1211092010", "district_id": "121109", "name": "LINGGA RAJA II"}, {"id": "1211092011", "district_id": "121109", "name": "MBINANGA"}, {"id": "1211092012", "district_id": "121109", "name": "BUKIT BARU"}, {"id": "1211092013", "district_id": "121109", "name": "PERRIK MBUE"}]
+[
+  {
+    "id": "1211092001",
+    "district_id": "121109",
+    "name": "SIMANDUMA"
+  },
+  {
+    "id": "1211092002",
+    "district_id": "121109",
+    "name": "BANDAR HUTA USANG"
+  },
+  {
+    "id": "1211092003",
+    "district_id": "121109",
+    "name": "ONAN LAMA"
+  },
+  {
+    "id": "1211092004",
+    "district_id": "121109",
+    "name": "LINGGA RAJA"
+  },
+  {
+    "id": "1211092005",
+    "district_id": "121109",
+    "name": "LAKSA"
+  },
+  {
+    "id": "1211092006",
+    "district_id": "121109",
+    "name": "TANJUNG SALUKSUK"
+  },
+  {
+    "id": "1211092007",
+    "district_id": "121109",
+    "name": "BUKIT TINGGI"
+  },
+  {
+    "id": "1211092008",
+    "district_id": "121109",
+    "name": "SIMARTUGAN"
+  },
+  {
+    "id": "1211092009",
+    "district_id": "121109",
+    "name": "KUTA USANG"
+  },
+  {
+    "id": "1211092010",
+    "district_id": "121109",
+    "name": "LINGGA RAJA II"
+  },
+  {
+    "id": "1211092011",
+    "district_id": "121109",
+    "name": "MBINANGA"
+  },
+  {
+    "id": "1211092012",
+    "district_id": "121109",
+    "name": "BUKIT BARU"
+  },
+  {
+    "id": "1211092013",
+    "district_id": "121109",
+    "name": "PERRIK MBUE"
+  }
+]

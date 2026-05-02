@@ -1,1 +1,72 @@
-[{"id": "7110042001", "district_id": "711004", "name": "MODAYAG"}, {"id": "7110042002", "district_id": "711004", "name": "LIBERIA"}, {"id": "7110042003", "district_id": "711004", "name": "PURWOREJO"}, {"id": "7110042007", "district_id": "711004", "name": "BUYANDI"}, {"id": "7110042008", "district_id": "711004", "name": "TOBONGON"}, {"id": "7110042009", "district_id": "711004", "name": "LANUT"}, {"id": "7110042010", "district_id": "711004", "name": "BADARO"}, {"id": "7110042011", "district_id": "711004", "name": "MODAYAG II"}, {"id": "7110042012", "district_id": "711004", "name": "MODAYAG III"}, {"id": "7110042013", "district_id": "711004", "name": "PURWOREJO TIMUR"}, {"id": "7110042014", "district_id": "711004", "name": "LIBERIA TIMUR"}, {"id": "7110042016", "district_id": "711004", "name": "PURWOREJO TENGAH"}, {"id": "7110042021", "district_id": "711004", "name": "CANDI REJO"}, {"id": "7110042022", "district_id": "711004", "name": "SUMBER REJO"}]
+[
+  {
+    "id": "7110042001",
+    "district_id": "711004",
+    "name": "MODAYAG"
+  },
+  {
+    "id": "7110042002",
+    "district_id": "711004",
+    "name": "LIBERIA"
+  },
+  {
+    "id": "7110042003",
+    "district_id": "711004",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "7110042007",
+    "district_id": "711004",
+    "name": "BUYANDI"
+  },
+  {
+    "id": "7110042008",
+    "district_id": "711004",
+    "name": "TOBONGON"
+  },
+  {
+    "id": "7110042009",
+    "district_id": "711004",
+    "name": "LANUT"
+  },
+  {
+    "id": "7110042010",
+    "district_id": "711004",
+    "name": "BADARO"
+  },
+  {
+    "id": "7110042011",
+    "district_id": "711004",
+    "name": "MODAYAG II"
+  },
+  {
+    "id": "7110042012",
+    "district_id": "711004",
+    "name": "MODAYAG III"
+  },
+  {
+    "id": "7110042013",
+    "district_id": "711004",
+    "name": "PURWOREJO TIMUR"
+  },
+  {
+    "id": "7110042014",
+    "district_id": "711004",
+    "name": "LIBERIA TIMUR"
+  },
+  {
+    "id": "7110042016",
+    "district_id": "711004",
+    "name": "PURWOREJO TENGAH"
+  },
+  {
+    "id": "7110042021",
+    "district_id": "711004",
+    "name": "CANDI REJO"
+  },
+  {
+    "id": "7110042022",
+    "district_id": "711004",
+    "name": "SUMBER REJO"
+  }
+]

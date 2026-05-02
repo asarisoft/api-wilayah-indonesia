@@ -1,1 +1,32 @@
-[{"id": "3402112001", "district_id": "340211", "name": "MANGUNAN"}, {"id": "3402112002", "district_id": "340211", "name": "MUNTUK"}, {"id": "3402112003", "district_id": "340211", "name": "DLINGO"}, {"id": "3402112004", "district_id": "340211", "name": "TEMUWUH"}, {"id": "3402112005", "district_id": "340211", "name": "TERONG"}, {"id": "3402112006", "district_id": "340211", "name": "JATIMULYO"}]
+[
+  {
+    "id": "3402112001",
+    "district_id": "340211",
+    "name": "MANGUNAN"
+  },
+  {
+    "id": "3402112002",
+    "district_id": "340211",
+    "name": "MUNTUK"
+  },
+  {
+    "id": "3402112003",
+    "district_id": "340211",
+    "name": "DLINGO"
+  },
+  {
+    "id": "3402112004",
+    "district_id": "340211",
+    "name": "TEMUWUH"
+  },
+  {
+    "id": "3402112005",
+    "district_id": "340211",
+    "name": "TERONG"
+  },
+  {
+    "id": "3402112006",
+    "district_id": "340211",
+    "name": "JATIMULYO"
+  }
+]

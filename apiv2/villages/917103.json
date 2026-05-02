@@ -1,1 +1,57 @@
-[{"id": "9171031002", "district_id": "917103", "name": "ASANO"}, {"id": "9171031008", "district_id": "917103", "name": "AWIYO"}, {"id": "9171031010", "district_id": "917103", "name": "YOBE"}, {"id": "9171031011", "district_id": "917103", "name": "ABEPANTAI"}, {"id": "9171031012", "district_id": "917103", "name": "KOTA BARU"}, {"id": "9171031014", "district_id": "917103", "name": "VIM"}, {"id": "9171031015", "district_id": "917103", "name": "WAHNO"}, {"id": "9171031016", "district_id": "917103", "name": "WAY MHOROCK"}, {"id": "9171032001", "district_id": "917103", "name": "NAFRI"}, {"id": "9171032004", "district_id": "917103", "name": "ENGGROS"}, {"id": "9171032007", "district_id": "917103", "name": "KOYA KOSO"}]
+[
+  {
+    "id": "9171031002",
+    "district_id": "917103",
+    "name": "ASANO"
+  },
+  {
+    "id": "9171031008",
+    "district_id": "917103",
+    "name": "AWIYO"
+  },
+  {
+    "id": "9171031010",
+    "district_id": "917103",
+    "name": "YOBE"
+  },
+  {
+    "id": "9171031011",
+    "district_id": "917103",
+    "name": "ABEPANTAI"
+  },
+  {
+    "id": "9171031012",
+    "district_id": "917103",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "9171031014",
+    "district_id": "917103",
+    "name": "VIM"
+  },
+  {
+    "id": "9171031015",
+    "district_id": "917103",
+    "name": "WAHNO"
+  },
+  {
+    "id": "9171031016",
+    "district_id": "917103",
+    "name": "WAY MHOROCK"
+  },
+  {
+    "id": "9171032001",
+    "district_id": "917103",
+    "name": "NAFRI"
+  },
+  {
+    "id": "9171032004",
+    "district_id": "917103",
+    "name": "ENGGROS"
+  },
+  {
+    "id": "9171032007",
+    "district_id": "917103",
+    "name": "KOYA KOSO"
+  }
+]

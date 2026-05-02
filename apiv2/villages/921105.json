@@ -1,1 +1,37 @@
-[{"id": "9211052001", "district_id": "921105", "name": "DEMBEK"}, {"id": "9211052002", "district_id": "921105", "name": "NIJ"}, {"id": "9211052003", "district_id": "921105", "name": "SIWI"}, {"id": "9211052004", "district_id": "921105", "name": "GAYA BARU"}, {"id": "9211052005", "district_id": "921105", "name": "WAREN"}, {"id": "9211052006", "district_id": "921105", "name": "DEMINI"}, {"id": "9211052007", "district_id": "921105", "name": "YEKWANDI"}]
+[
+  {
+    "id": "9211052001",
+    "district_id": "921105",
+    "name": "DEMBEK"
+  },
+  {
+    "id": "9211052002",
+    "district_id": "921105",
+    "name": "NIJ"
+  },
+  {
+    "id": "9211052003",
+    "district_id": "921105",
+    "name": "SIWI"
+  },
+  {
+    "id": "9211052004",
+    "district_id": "921105",
+    "name": "GAYA BARU"
+  },
+  {
+    "id": "9211052005",
+    "district_id": "921105",
+    "name": "WAREN"
+  },
+  {
+    "id": "9211052006",
+    "district_id": "921105",
+    "name": "DEMINI"
+  },
+  {
+    "id": "9211052007",
+    "district_id": "921105",
+    "name": "YEKWANDI"
+  }
+]

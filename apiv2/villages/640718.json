@@ -1,1 +1,82 @@
-[{"id": "6407182001", "district_id": "640718", "name": "SAKAQ LOTOQ"}, {"id": "6407182002", "district_id": "640718", "name": "SAKAQ TADA"}, {"id": "6407182003", "district_id": "640718", "name": "GEMURUH"}, {"id": "6407182004", "district_id": "640718", "name": "KARANGAN"}, {"id": "6407182005", "district_id": "640718", "name": "MERAYAQ"}, {"id": "6407182006", "district_id": "640718", "name": "LINGGANG MARIMUN"}, {"id": "6407182007", "district_id": "640718", "name": "KELUMPANG"}, {"id": "6407182008", "district_id": "640718", "name": "GADUR"}, {"id": "6407182009", "district_id": "640718", "name": "LINGGANG MUARA BATUQ"}, {"id": "6407182010", "district_id": "640718", "name": "MUARA JAWAQ"}, {"id": "6407182011", "district_id": "640718", "name": "ABIT"}, {"id": "6407182012", "district_id": "640718", "name": "REMBAYAN"}, {"id": "6407182014", "district_id": "640718", "name": "GUNUNG RAMPAH"}, {"id": "6407182015", "district_id": "640718", "name": "JENGAN"}, {"id": "6407182016", "district_id": "640718", "name": "MUARA KALAQ"}, {"id": "6407182017", "district_id": "640718", "name": "TONDOH"}]
+[
+  {
+    "id": "6407182001",
+    "district_id": "640718",
+    "name": "SAKAQ LOTOQ"
+  },
+  {
+    "id": "6407182002",
+    "district_id": "640718",
+    "name": "SAKAQ TADA"
+  },
+  {
+    "id": "6407182003",
+    "district_id": "640718",
+    "name": "GEMURUH"
+  },
+  {
+    "id": "6407182004",
+    "district_id": "640718",
+    "name": "KARANGAN"
+  },
+  {
+    "id": "6407182005",
+    "district_id": "640718",
+    "name": "MERAYAQ"
+  },
+  {
+    "id": "6407182006",
+    "district_id": "640718",
+    "name": "LINGGANG MARIMUN"
+  },
+  {
+    "id": "6407182007",
+    "district_id": "640718",
+    "name": "KELUMPANG"
+  },
+  {
+    "id": "6407182008",
+    "district_id": "640718",
+    "name": "GADUR"
+  },
+  {
+    "id": "6407182009",
+    "district_id": "640718",
+    "name": "LINGGANG MUARA BATUQ"
+  },
+  {
+    "id": "6407182010",
+    "district_id": "640718",
+    "name": "MUARA JAWAQ"
+  },
+  {
+    "id": "6407182011",
+    "district_id": "640718",
+    "name": "ABIT"
+  },
+  {
+    "id": "6407182012",
+    "district_id": "640718",
+    "name": "REMBAYAN"
+  },
+  {
+    "id": "6407182014",
+    "district_id": "640718",
+    "name": "GUNUNG RAMPAH"
+  },
+  {
+    "id": "6407182015",
+    "district_id": "640718",
+    "name": "JENGAN"
+  },
+  {
+    "id": "6407182016",
+    "district_id": "640718",
+    "name": "MUARA KALAQ"
+  },
+  {
+    "id": "6407182017",
+    "district_id": "640718",
+    "name": "TONDOH"
+  }
+]

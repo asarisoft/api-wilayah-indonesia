@@ -1,1 +1,27 @@
-[{"id": "2104031001", "district_id": "210403", "name": "SENAYANG"}, {"id": "2104032002", "district_id": "210403", "name": "MAMUT"}, {"id": "2104032012", "district_id": "210403", "name": "LABOH"}, {"id": "2104032013", "district_id": "210403", "name": "PENAAH"}, {"id": "2104032015", "district_id": "210403", "name": "BARAN"}]
+[
+  {
+    "id": "2104031001",
+    "district_id": "210403",
+    "name": "SENAYANG"
+  },
+  {
+    "id": "2104032002",
+    "district_id": "210403",
+    "name": "MAMUT"
+  },
+  {
+    "id": "2104032012",
+    "district_id": "210403",
+    "name": "LABOH"
+  },
+  {
+    "id": "2104032013",
+    "district_id": "210403",
+    "name": "PENAAH"
+  },
+  {
+    "id": "2104032015",
+    "district_id": "210403",
+    "name": "BARAN"
+  }
+]

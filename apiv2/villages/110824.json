@@ -1,1 +1,117 @@
-[{"id": "1108242001", "district_id": "110824", "name": "RAYEUK PANGE"}, {"id": "1108242002", "district_id": "110824", "name": "BUNGONG"}, {"id": "1108242003", "district_id": "110824", "name": "GEULUMPANG"}, {"id": "1108242004", "district_id": "110824", "name": "ASAN KRUENG KREH"}, {"id": "1108242005", "district_id": "110824", "name": "BEURACAN RATA"}, {"id": "1108242006", "district_id": "110824", "name": "REUNGKAM"}, {"id": "1108242007", "district_id": "110824", "name": "TRIENG KRUENG KREH"}, {"id": "1108242008", "district_id": "110824", "name": "KEUTAPANG"}, {"id": "1108242009", "district_id": "110824", "name": "BILI BARO"}, {"id": "1108242010", "district_id": "110824", "name": "PAYA LUENG JALO"}, {"id": "1108242011", "district_id": "110824", "name": "ALUE RIMEE"}, {"id": "1108242012", "district_id": "110824", "name": "SERDANG"}, {"id": "1108242013", "district_id": "110824", "name": "ARA TON-TON MONCRANG"}, {"id": "1108242014", "district_id": "110824", "name": "TANJONG SEUREUKUY"}, {"id": "1108242015", "district_id": "110824", "name": "ULEE BLANG"}, {"id": "1108242016", "district_id": "110824", "name": "KRUENG PIRAK"}, {"id": "1108242017", "district_id": "110824", "name": "MATANG KEH"}, {"id": "1108242018", "district_id": "110824", "name": "LEUPE"}, {"id": "1108242019", "district_id": "110824", "name": "CEUMEUCET"}, {"id": "1108242020", "district_id": "110824", "name": "TEUPIN U"}, {"id": "1108242021", "district_id": "110824", "name": "ALUE BUNGKOH"}, {"id": "1108242022", "district_id": "110824", "name": "PUCOK ALUE"}, {"id": "1108242023", "district_id": "110824", "name": "MEUNYE TUJOH"}]
+[
+  {
+    "id": "1108242001",
+    "district_id": "110824",
+    "name": "RAYEUK PANGE"
+  },
+  {
+    "id": "1108242002",
+    "district_id": "110824",
+    "name": "BUNGONG"
+  },
+  {
+    "id": "1108242003",
+    "district_id": "110824",
+    "name": "GEULUMPANG"
+  },
+  {
+    "id": "1108242004",
+    "district_id": "110824",
+    "name": "ASAN KRUENG KREH"
+  },
+  {
+    "id": "1108242005",
+    "district_id": "110824",
+    "name": "BEURACAN RATA"
+  },
+  {
+    "id": "1108242006",
+    "district_id": "110824",
+    "name": "REUNGKAM"
+  },
+  {
+    "id": "1108242007",
+    "district_id": "110824",
+    "name": "TRIENG KRUENG KREH"
+  },
+  {
+    "id": "1108242008",
+    "district_id": "110824",
+    "name": "KEUTAPANG"
+  },
+  {
+    "id": "1108242009",
+    "district_id": "110824",
+    "name": "BILI BARO"
+  },
+  {
+    "id": "1108242010",
+    "district_id": "110824",
+    "name": "PAYA LUENG JALO"
+  },
+  {
+    "id": "1108242011",
+    "district_id": "110824",
+    "name": "ALUE RIMEE"
+  },
+  {
+    "id": "1108242012",
+    "district_id": "110824",
+    "name": "SERDANG"
+  },
+  {
+    "id": "1108242013",
+    "district_id": "110824",
+    "name": "ARA TON-TON MONCRANG"
+  },
+  {
+    "id": "1108242014",
+    "district_id": "110824",
+    "name": "TANJONG SEUREUKUY"
+  },
+  {
+    "id": "1108242015",
+    "district_id": "110824",
+    "name": "ULEE BLANG"
+  },
+  {
+    "id": "1108242016",
+    "district_id": "110824",
+    "name": "KRUENG PIRAK"
+  },
+  {
+    "id": "1108242017",
+    "district_id": "110824",
+    "name": "MATANG KEH"
+  },
+  {
+    "id": "1108242018",
+    "district_id": "110824",
+    "name": "LEUPE"
+  },
+  {
+    "id": "1108242019",
+    "district_id": "110824",
+    "name": "CEUMEUCET"
+  },
+  {
+    "id": "1108242020",
+    "district_id": "110824",
+    "name": "TEUPIN U"
+  },
+  {
+    "id": "1108242021",
+    "district_id": "110824",
+    "name": "ALUE BUNGKOH"
+  },
+  {
+    "id": "1108242022",
+    "district_id": "110824",
+    "name": "PUCOK ALUE"
+  },
+  {
+    "id": "1108242023",
+    "district_id": "110824",
+    "name": "MEUNYE TUJOH"
+  }
+]

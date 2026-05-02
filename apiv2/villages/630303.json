@@ -1,1 +1,72 @@
-[{"id": "6303031001", "district_id": "630303", "name": "GAMBUT"}, {"id": "6303031014", "district_id": "630303", "name": "GAMBUT BARAT"}, {"id": "6303032002", "district_id": "630303", "name": "SUNGAI KUPANG"}, {"id": "6303032003", "district_id": "630303", "name": "GUNTUNG PAPUYU"}, {"id": "6303032004", "district_id": "630303", "name": "MAKMUR"}, {"id": "6303032005", "district_id": "630303", "name": "TAMBAK SIRANG DARAT"}, {"id": "6303032006", "district_id": "630303", "name": "TAMBAK SIRANG LAUT"}, {"id": "6303032007", "district_id": "630303", "name": "MALINTANG"}, {"id": "6303032008", "district_id": "630303", "name": "KAYU BAWANG"}, {"id": "6303032009", "district_id": "630303", "name": "BANYU HIRANG"}, {"id": "6303032010", "district_id": "630303", "name": "GUNTUNG UJUNG"}, {"id": "6303032011", "district_id": "630303", "name": "TAMBAK SIRANG BARU"}, {"id": "6303032012", "district_id": "630303", "name": "MALINTANG BARU"}, {"id": "6303032013", "district_id": "630303", "name": "KELADAN BARU"}]
+[
+  {
+    "id": "6303031001",
+    "district_id": "630303",
+    "name": "GAMBUT"
+  },
+  {
+    "id": "6303031014",
+    "district_id": "630303",
+    "name": "GAMBUT BARAT"
+  },
+  {
+    "id": "6303032002",
+    "district_id": "630303",
+    "name": "SUNGAI KUPANG"
+  },
+  {
+    "id": "6303032003",
+    "district_id": "630303",
+    "name": "GUNTUNG PAPUYU"
+  },
+  {
+    "id": "6303032004",
+    "district_id": "630303",
+    "name": "MAKMUR"
+  },
+  {
+    "id": "6303032005",
+    "district_id": "630303",
+    "name": "TAMBAK SIRANG DARAT"
+  },
+  {
+    "id": "6303032006",
+    "district_id": "630303",
+    "name": "TAMBAK SIRANG LAUT"
+  },
+  {
+    "id": "6303032007",
+    "district_id": "630303",
+    "name": "MALINTANG"
+  },
+  {
+    "id": "6303032008",
+    "district_id": "630303",
+    "name": "KAYU BAWANG"
+  },
+  {
+    "id": "6303032009",
+    "district_id": "630303",
+    "name": "BANYU HIRANG"
+  },
+  {
+    "id": "6303032010",
+    "district_id": "630303",
+    "name": "GUNTUNG UJUNG"
+  },
+  {
+    "id": "6303032011",
+    "district_id": "630303",
+    "name": "TAMBAK SIRANG BARU"
+  },
+  {
+    "id": "6303032012",
+    "district_id": "630303",
+    "name": "MALINTANG BARU"
+  },
+  {
+    "id": "6303032013",
+    "district_id": "630303",
+    "name": "KELADAN BARU"
+  }
+]

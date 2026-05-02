@@ -1,1 +1,82 @@
-[{"id": "1404121006", "district_id": "140412", "name": "KUALA LAHANG"}, {"id": "1404122001", "district_id": "140412", "name": "TERUSAN KEMPAS"}, {"id": "1404122002", "district_id": "140412", "name": "LAHANG BARU"}, {"id": "1404122003", "district_id": "140412", "name": "SIMPANG GAUNG"}, {"id": "1404122004", "district_id": "140412", "name": "BELANTARAYA"}, {"id": "1404122005", "district_id": "140412", "name": "SUNGAIBARU"}, {"id": "1404122007", "district_id": "140412", "name": "LAHANG TENGAH"}, {"id": "1404122008", "district_id": "140412", "name": "LAHANG HULU"}, {"id": "1404122009", "district_id": "140412", "name": "PUNGKAT"}, {"id": "1404122010", "district_id": "140412", "name": "JERAMBANG"}, {"id": "1404122011", "district_id": "140412", "name": "TELUKKABUNG"}, {"id": "1404122012", "district_id": "140412", "name": "GEMBIRA"}, {"id": "1404122013", "district_id": "140412", "name": "SEMAMBU KUNING"}, {"id": "1404122014", "district_id": "140412", "name": "TELUKMERBAU"}, {"id": "1404122015", "district_id": "140412", "name": "SOREN"}, {"id": "1404122016", "district_id": "140412", "name": "PINTASAN"}]
+[
+  {
+    "id": "1404121006",
+    "district_id": "140412",
+    "name": "KUALA LAHANG"
+  },
+  {
+    "id": "1404122001",
+    "district_id": "140412",
+    "name": "TERUSAN KEMPAS"
+  },
+  {
+    "id": "1404122002",
+    "district_id": "140412",
+    "name": "LAHANG BARU"
+  },
+  {
+    "id": "1404122003",
+    "district_id": "140412",
+    "name": "SIMPANG GAUNG"
+  },
+  {
+    "id": "1404122004",
+    "district_id": "140412",
+    "name": "BELANTARAYA"
+  },
+  {
+    "id": "1404122005",
+    "district_id": "140412",
+    "name": "SUNGAIBARU"
+  },
+  {
+    "id": "1404122007",
+    "district_id": "140412",
+    "name": "LAHANG TENGAH"
+  },
+  {
+    "id": "1404122008",
+    "district_id": "140412",
+    "name": "LAHANG HULU"
+  },
+  {
+    "id": "1404122009",
+    "district_id": "140412",
+    "name": "PUNGKAT"
+  },
+  {
+    "id": "1404122010",
+    "district_id": "140412",
+    "name": "JERAMBANG"
+  },
+  {
+    "id": "1404122011",
+    "district_id": "140412",
+    "name": "TELUKKABUNG"
+  },
+  {
+    "id": "1404122012",
+    "district_id": "140412",
+    "name": "GEMBIRA"
+  },
+  {
+    "id": "1404122013",
+    "district_id": "140412",
+    "name": "SEMAMBU KUNING"
+  },
+  {
+    "id": "1404122014",
+    "district_id": "140412",
+    "name": "TELUKMERBAU"
+  },
+  {
+    "id": "1404122015",
+    "district_id": "140412",
+    "name": "SOREN"
+  },
+  {
+    "id": "1404122016",
+    "district_id": "140412",
+    "name": "PINTASAN"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "1106222001", "district_id": "110622", "name": "LAYEUN"}, {"id": "1106222002", "district_id": "110622", "name": "PULOT"}, {"id": "1106222003", "district_id": "110622", "name": "LAMSEUNIA"}, {"id": "1106222004", "district_id": "110622", "name": "MNS. MESJID"}, {"id": "1106222005", "district_id": "110622", "name": "MEUNASAH BAK U"}, {"id": "1106222006", "district_id": "110622", "name": "DAYAH MAMPLAM"}]
+[
+  {
+    "id": "1106222001",
+    "district_id": "110622",
+    "name": "LAYEUN"
+  },
+  {
+    "id": "1106222002",
+    "district_id": "110622",
+    "name": "PULOT"
+  },
+  {
+    "id": "1106222003",
+    "district_id": "110622",
+    "name": "LAMSEUNIA"
+  },
+  {
+    "id": "1106222004",
+    "district_id": "110622",
+    "name": "MNS. MESJID"
+  },
+  {
+    "id": "1106222005",
+    "district_id": "110622",
+    "name": "MEUNASAH BAK U"
+  },
+  {
+    "id": "1106222006",
+    "district_id": "110622",
+    "name": "DAYAH MAMPLAM"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "7406041002", "district_id": "740604", "name": "LAMERORO"}, {"id": "7406041003", "district_id": "740604", "name": "LAMPOPALA"}, {"id": "7406041004", "district_id": "740604", "name": "DOULE"}, {"id": "7406041005", "district_id": "740604", "name": "KASIPUTE"}, {"id": "7406042001", "district_id": "740604", "name": "LANTAWONUA"}]
+[
+  {
+    "id": "7406041002",
+    "district_id": "740604",
+    "name": "LAMERORO"
+  },
+  {
+    "id": "7406041003",
+    "district_id": "740604",
+    "name": "LAMPOPALA"
+  },
+  {
+    "id": "7406041004",
+    "district_id": "740604",
+    "name": "DOULE"
+  },
+  {
+    "id": "7406041005",
+    "district_id": "740604",
+    "name": "KASIPUTE"
+  },
+  {
+    "id": "7406042001",
+    "district_id": "740604",
+    "name": "LANTAWONUA"
+  }
+]

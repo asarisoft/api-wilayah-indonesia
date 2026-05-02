@@ -1,1 +1,82 @@
-[{"id": "3505031004", "district_id": "350503", "name": "TOGOGAN"}, {"id": "3505031007", "district_id": "350503", "name": "SRENGAT"}, {"id": "3505031009", "district_id": "350503", "name": "DANDONG"}, {"id": "3505031010", "district_id": "350503", "name": "KAUMAN"}, {"id": "3505032001", "district_id": "350503", "name": "KARANGGAYAM"}, {"id": "3505032002", "district_id": "350503", "name": "DERMOJAYAN"}, {"id": "3505032003", "district_id": "350503", "name": "KERJEN"}, {"id": "3505032005", "district_id": "350503", "name": "PAKISREJO"}, {"id": "3505032006", "district_id": "350503", "name": "PURWOKERTO"}, {"id": "3505032008", "district_id": "350503", "name": "WONOREJO"}, {"id": "3505032011", "district_id": "350503", "name": "MARON"}, {"id": "3505032012", "district_id": "350503", "name": "BAGELENAN"}, {"id": "3505032013", "district_id": "350503", "name": "KANDANGAN"}, {"id": "3505032014", "district_id": "350503", "name": "KENDALREJO"}, {"id": "3505032015", "district_id": "350503", "name": "SELOKAJANG"}, {"id": "3505032016", "district_id": "350503", "name": "NGAGLIK"}]
+[
+  {
+    "id": "3505031004",
+    "district_id": "350503",
+    "name": "TOGOGAN"
+  },
+  {
+    "id": "3505031007",
+    "district_id": "350503",
+    "name": "SRENGAT"
+  },
+  {
+    "id": "3505031009",
+    "district_id": "350503",
+    "name": "DANDONG"
+  },
+  {
+    "id": "3505031010",
+    "district_id": "350503",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3505032001",
+    "district_id": "350503",
+    "name": "KARANGGAYAM"
+  },
+  {
+    "id": "3505032002",
+    "district_id": "350503",
+    "name": "DERMOJAYAN"
+  },
+  {
+    "id": "3505032003",
+    "district_id": "350503",
+    "name": "KERJEN"
+  },
+  {
+    "id": "3505032005",
+    "district_id": "350503",
+    "name": "PAKISREJO"
+  },
+  {
+    "id": "3505032006",
+    "district_id": "350503",
+    "name": "PURWOKERTO"
+  },
+  {
+    "id": "3505032008",
+    "district_id": "350503",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3505032011",
+    "district_id": "350503",
+    "name": "MARON"
+  },
+  {
+    "id": "3505032012",
+    "district_id": "350503",
+    "name": "BAGELENAN"
+  },
+  {
+    "id": "3505032013",
+    "district_id": "350503",
+    "name": "KANDANGAN"
+  },
+  {
+    "id": "3505032014",
+    "district_id": "350503",
+    "name": "KENDALREJO"
+  },
+  {
+    "id": "3505032015",
+    "district_id": "350503",
+    "name": "SELOKAJANG"
+  },
+  {
+    "id": "3505032016",
+    "district_id": "350503",
+    "name": "NGAGLIK"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "2171091001", "district_id": "217109", "name": "BENGKONG INDAH"}, {"id": "2171091002", "district_id": "217109", "name": "BENGKONG LAUT"}, {"id": "2171091003", "district_id": "217109", "name": "SADAI"}, {"id": "2171091004", "district_id": "217109", "name": "TANJUNG BUNTUNG"}]
+[
+  {
+    "id": "2171091001",
+    "district_id": "217109",
+    "name": "BENGKONG INDAH"
+  },
+  {
+    "id": "2171091002",
+    "district_id": "217109",
+    "name": "BENGKONG LAUT"
+  },
+  {
+    "id": "2171091003",
+    "district_id": "217109",
+    "name": "SADAI"
+  },
+  {
+    "id": "2171091004",
+    "district_id": "217109",
+    "name": "TANJUNG BUNTUNG"
+  }
+]

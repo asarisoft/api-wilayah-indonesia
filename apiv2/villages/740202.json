@@ -1,1 +1,62 @@
-[{"id": "7402021001", "district_id": "740202", "name": "PUUNAAHA"}, {"id": "7402021002", "district_id": "740202", "name": "TUMPAS"}, {"id": "7402021003", "district_id": "740202", "name": "LATOMA"}, {"id": "7402021004", "district_id": "740202", "name": "AMBEKAIRI"}, {"id": "7402021005", "district_id": "740202", "name": "AROMBU"}, {"id": "7402021006", "district_id": "740202", "name": "ASINUA"}, {"id": "7402021011", "district_id": "740202", "name": "WAWONGGOLE"}, {"id": "7402021012", "district_id": "740202", "name": "TUOY"}, {"id": "7402021013", "district_id": "740202", "name": "UNAAHA"}, {"id": "7402021015", "district_id": "740202", "name": "INOLOBUNGGADUE"}, {"id": "7402021016", "district_id": "740202", "name": "ASAMBU"}, {"id": "7402021017", "district_id": "740202", "name": "TOBEU"}]
+[
+  {
+    "id": "7402021001",
+    "district_id": "740202",
+    "name": "PUUNAAHA"
+  },
+  {
+    "id": "7402021002",
+    "district_id": "740202",
+    "name": "TUMPAS"
+  },
+  {
+    "id": "7402021003",
+    "district_id": "740202",
+    "name": "LATOMA"
+  },
+  {
+    "id": "7402021004",
+    "district_id": "740202",
+    "name": "AMBEKAIRI"
+  },
+  {
+    "id": "7402021005",
+    "district_id": "740202",
+    "name": "AROMBU"
+  },
+  {
+    "id": "7402021006",
+    "district_id": "740202",
+    "name": "ASINUA"
+  },
+  {
+    "id": "7402021011",
+    "district_id": "740202",
+    "name": "WAWONGGOLE"
+  },
+  {
+    "id": "7402021012",
+    "district_id": "740202",
+    "name": "TUOY"
+  },
+  {
+    "id": "7402021013",
+    "district_id": "740202",
+    "name": "UNAAHA"
+  },
+  {
+    "id": "7402021015",
+    "district_id": "740202",
+    "name": "INOLOBUNGGADUE"
+  },
+  {
+    "id": "7402021016",
+    "district_id": "740202",
+    "name": "ASAMBU"
+  },
+  {
+    "id": "7402021017",
+    "district_id": "740202",
+    "name": "TOBEU"
+  }
+]

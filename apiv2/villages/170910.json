@@ -1,1 +1,62 @@
-[{"id": "1709102001", "district_id": "170910", "name": "SEKAYUN"}, {"id": "1709102002", "district_id": "170910", "name": "SEKAYUN MUDIK"}, {"id": "1709102003", "district_id": "170910", "name": "SEKAYUN HILIR"}, {"id": "1709102004", "district_id": "170910", "name": "TALANG DONOK"}, {"id": "1709102005", "district_id": "170910", "name": "TABA TENGAH"}, {"id": "1709102006", "district_id": "170910", "name": "PADANG BERUNAI"}, {"id": "1709102007", "district_id": "170910", "name": "LUBUK LANGKAP"}, {"id": "1709102008", "district_id": "170910", "name": "AIR NAPAL"}, {"id": "1709102009", "district_id": "170910", "name": "GENTING"}, {"id": "1709102010", "district_id": "170910", "name": "TALANG PANJANG"}, {"id": "1709102011", "district_id": "170910", "name": "BANG HAJI"}, {"id": "1709102012", "district_id": "170910", "name": "SUNGKAI BERAYUN"}]
+[
+  {
+    "id": "1709102001",
+    "district_id": "170910",
+    "name": "SEKAYUN"
+  },
+  {
+    "id": "1709102002",
+    "district_id": "170910",
+    "name": "SEKAYUN MUDIK"
+  },
+  {
+    "id": "1709102003",
+    "district_id": "170910",
+    "name": "SEKAYUN HILIR"
+  },
+  {
+    "id": "1709102004",
+    "district_id": "170910",
+    "name": "TALANG DONOK"
+  },
+  {
+    "id": "1709102005",
+    "district_id": "170910",
+    "name": "TABA TENGAH"
+  },
+  {
+    "id": "1709102006",
+    "district_id": "170910",
+    "name": "PADANG BERUNAI"
+  },
+  {
+    "id": "1709102007",
+    "district_id": "170910",
+    "name": "LUBUK LANGKAP"
+  },
+  {
+    "id": "1709102008",
+    "district_id": "170910",
+    "name": "AIR NAPAL"
+  },
+  {
+    "id": "1709102009",
+    "district_id": "170910",
+    "name": "GENTING"
+  },
+  {
+    "id": "1709102010",
+    "district_id": "170910",
+    "name": "TALANG PANJANG"
+  },
+  {
+    "id": "1709102011",
+    "district_id": "170910",
+    "name": "BANG HAJI"
+  },
+  {
+    "id": "1709102012",
+    "district_id": "170910",
+    "name": "SUNGKAI BERAYUN"
+  }
+]

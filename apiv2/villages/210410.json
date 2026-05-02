@@ -1,1 +1,17 @@
-[{"id": "2104102001", "district_id": "210410", "name": "BUSUNG PANJANG"}, {"id": "2104102002", "district_id": "210410", "name": "POSEK"}, {"id": "2104102003", "district_id": "210410", "name": "SUAK BUAYA"}]
+[
+  {
+    "id": "2104102001",
+    "district_id": "210410",
+    "name": "BUSUNG PANJANG"
+  },
+  {
+    "id": "2104102002",
+    "district_id": "210410",
+    "name": "POSEK"
+  },
+  {
+    "id": "2104102003",
+    "district_id": "210410",
+    "name": "SUAK BUAYA"
+  }
+]

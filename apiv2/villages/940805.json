@@ -1,1 +1,27 @@
-[{"id": "9408052001", "district_id": "940805", "name": "KOMAUTO/KAPIRAYA"}, {"id": "9408052002", "district_id": "940805", "name": "MOGODAGI"}, {"id": "9408052003", "district_id": "940805", "name": "YAMOUWITINA"}, {"id": "9408052004", "district_id": "940805", "name": "IDEGO"}, {"id": "9408052005", "district_id": "940805", "name": "UWE ONAGEI"}]
+[
+  {
+    "id": "9408052001",
+    "district_id": "940805",
+    "name": "KOMAUTO/KAPIRAYA"
+  },
+  {
+    "id": "9408052002",
+    "district_id": "940805",
+    "name": "MOGODAGI"
+  },
+  {
+    "id": "9408052003",
+    "district_id": "940805",
+    "name": "YAMOUWITINA"
+  },
+  {
+    "id": "9408052004",
+    "district_id": "940805",
+    "name": "IDEGO"
+  },
+  {
+    "id": "9408052005",
+    "district_id": "940805",
+    "name": "UWE ONAGEI"
+  }
+]

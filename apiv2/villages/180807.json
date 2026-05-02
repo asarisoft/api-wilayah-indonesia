@@ -1,1 +1,97 @@
-[{"id": "1808072001", "district_id": "180807", "name": "NEGERI AGUNG"}, {"id": "1808072002", "district_id": "180807", "name": "BANDAR DALAM"}, {"id": "1808072003", "district_id": "180807", "name": "PULAU BATU"}, {"id": "1808072004", "district_id": "180807", "name": "PENENGAHAN"}, {"id": "1808072005", "district_id": "180807", "name": "KARYA AGUNG"}, {"id": "1808072006", "district_id": "180807", "name": "SUNSANG"}, {"id": "1808072007", "district_id": "180807", "name": "KOTA BARU"}, {"id": "1808072008", "district_id": "180807", "name": "KOTABUMI WAY KANAN"}, {"id": "1808072009", "district_id": "180807", "name": "GEDUNG MENANG"}, {"id": "1808072010", "district_id": "180807", "name": "GEDUNG HARAPAN"}, {"id": "1808072011", "district_id": "180807", "name": "TANJUNG REJO"}, {"id": "1808072012", "district_id": "180807", "name": "KALI PAPAN"}, {"id": "1808072013", "district_id": "180807", "name": "MULYA SARI"}, {"id": "1808072014", "district_id": "180807", "name": "WAY LIMAU"}, {"id": "1808072015", "district_id": "180807", "name": "GEDUNG JAYA"}, {"id": "1808072016", "district_id": "180807", "name": "REJO SARI"}, {"id": "1808072017", "district_id": "180807", "name": "BANDAR KASIH"}, {"id": "1808072018", "district_id": "180807", "name": "SUMBER REJEKI"}, {"id": "1808072019", "district_id": "180807", "name": "MULYA AGUNG"}]
+[
+  {
+    "id": "1808072001",
+    "district_id": "180807",
+    "name": "NEGERI AGUNG"
+  },
+  {
+    "id": "1808072002",
+    "district_id": "180807",
+    "name": "BANDAR DALAM"
+  },
+  {
+    "id": "1808072003",
+    "district_id": "180807",
+    "name": "PULAU BATU"
+  },
+  {
+    "id": "1808072004",
+    "district_id": "180807",
+    "name": "PENENGAHAN"
+  },
+  {
+    "id": "1808072005",
+    "district_id": "180807",
+    "name": "KARYA AGUNG"
+  },
+  {
+    "id": "1808072006",
+    "district_id": "180807",
+    "name": "SUNSANG"
+  },
+  {
+    "id": "1808072007",
+    "district_id": "180807",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "1808072008",
+    "district_id": "180807",
+    "name": "KOTABUMI WAY KANAN"
+  },
+  {
+    "id": "1808072009",
+    "district_id": "180807",
+    "name": "GEDUNG MENANG"
+  },
+  {
+    "id": "1808072010",
+    "district_id": "180807",
+    "name": "GEDUNG HARAPAN"
+  },
+  {
+    "id": "1808072011",
+    "district_id": "180807",
+    "name": "TANJUNG REJO"
+  },
+  {
+    "id": "1808072012",
+    "district_id": "180807",
+    "name": "KALI PAPAN"
+  },
+  {
+    "id": "1808072013",
+    "district_id": "180807",
+    "name": "MULYA SARI"
+  },
+  {
+    "id": "1808072014",
+    "district_id": "180807",
+    "name": "WAY LIMAU"
+  },
+  {
+    "id": "1808072015",
+    "district_id": "180807",
+    "name": "GEDUNG JAYA"
+  },
+  {
+    "id": "1808072016",
+    "district_id": "180807",
+    "name": "REJO SARI"
+  },
+  {
+    "id": "1808072017",
+    "district_id": "180807",
+    "name": "BANDAR KASIH"
+  },
+  {
+    "id": "1808072018",
+    "district_id": "180807",
+    "name": "SUMBER REJEKI"
+  },
+  {
+    "id": "1808072019",
+    "district_id": "180807",
+    "name": "MULYA AGUNG"
+  }
+]

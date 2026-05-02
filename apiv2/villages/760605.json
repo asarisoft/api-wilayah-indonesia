@@ -1,1 +1,57 @@
-[{"id": "7606052001", "district_id": "760605", "name": "KAROSSA"}, {"id": "7606052002", "district_id": "760605", "name": "TASOKKO"}, {"id": "7606052003", "district_id": "760605", "name": "LARA"}, {"id": "7606052004", "district_id": "760605", "name": "KADAILA"}, {"id": "7606052005", "district_id": "760605", "name": "KAYU CALLA"}, {"id": "7606052006", "district_id": "760605", "name": "LEMBAH HOPO"}, {"id": "7606052007", "district_id": "760605", "name": "BENGGAULU"}, {"id": "7606052008", "district_id": "760605", "name": "SUKA MAJU"}, {"id": "7606052009", "district_id": "760605", "name": "KAMBUNONG"}, {"id": "7606052010", "district_id": "760605", "name": "SALUBIRO"}, {"id": "7606052011", "district_id": "760605", "name": "SANJANGO"}]
+[
+  {
+    "id": "7606052001",
+    "district_id": "760605",
+    "name": "KAROSSA"
+  },
+  {
+    "id": "7606052002",
+    "district_id": "760605",
+    "name": "TASOKKO"
+  },
+  {
+    "id": "7606052003",
+    "district_id": "760605",
+    "name": "LARA"
+  },
+  {
+    "id": "7606052004",
+    "district_id": "760605",
+    "name": "KADAILA"
+  },
+  {
+    "id": "7606052005",
+    "district_id": "760605",
+    "name": "KAYU CALLA"
+  },
+  {
+    "id": "7606052006",
+    "district_id": "760605",
+    "name": "LEMBAH HOPO"
+  },
+  {
+    "id": "7606052007",
+    "district_id": "760605",
+    "name": "BENGGAULU"
+  },
+  {
+    "id": "7606052008",
+    "district_id": "760605",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "7606052009",
+    "district_id": "760605",
+    "name": "KAMBUNONG"
+  },
+  {
+    "id": "7606052010",
+    "district_id": "760605",
+    "name": "SALUBIRO"
+  },
+  {
+    "id": "7606052011",
+    "district_id": "760605",
+    "name": "SANJANGO"
+  }
+]

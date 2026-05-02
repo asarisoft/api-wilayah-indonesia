@@ -1,1 +1,77 @@
-[{"id": "3309032001", "district_id": "330903", "name": "WONODOYO"}, {"id": "3309032002", "district_id": "330903", "name": "JOMBONG"}, {"id": "3309032003", "district_id": "330903", "name": "GEDANGAN"}, {"id": "3309032004", "district_id": "330903", "name": "SUMBUNG"}, {"id": "3309032005", "district_id": "330903", "name": "PARAS"}, {"id": "3309032006", "district_id": "330903", "name": "JELOK"}, {"id": "3309032007", "district_id": "330903", "name": "BAKULAN"}, {"id": "3309032008", "district_id": "330903", "name": "CANDIGATAK"}, {"id": "3309032009", "district_id": "330903", "name": "CABEANKUNTI"}, {"id": "3309032010", "district_id": "330903", "name": "MLIWIS"}, {"id": "3309032011", "district_id": "330903", "name": "SUKABUMI"}, {"id": "3309032012", "district_id": "330903", "name": "GENTING"}, {"id": "3309032013", "district_id": "330903", "name": "CEPOGO"}, {"id": "3309032014", "district_id": "330903", "name": "KEMBANGKUNING"}, {"id": "3309032015", "district_id": "330903", "name": "GUBUG"}]
+[
+  {
+    "id": "3309032001",
+    "district_id": "330903",
+    "name": "WONODOYO"
+  },
+  {
+    "id": "3309032002",
+    "district_id": "330903",
+    "name": "JOMBONG"
+  },
+  {
+    "id": "3309032003",
+    "district_id": "330903",
+    "name": "GEDANGAN"
+  },
+  {
+    "id": "3309032004",
+    "district_id": "330903",
+    "name": "SUMBUNG"
+  },
+  {
+    "id": "3309032005",
+    "district_id": "330903",
+    "name": "PARAS"
+  },
+  {
+    "id": "3309032006",
+    "district_id": "330903",
+    "name": "JELOK"
+  },
+  {
+    "id": "3309032007",
+    "district_id": "330903",
+    "name": "BAKULAN"
+  },
+  {
+    "id": "3309032008",
+    "district_id": "330903",
+    "name": "CANDIGATAK"
+  },
+  {
+    "id": "3309032009",
+    "district_id": "330903",
+    "name": "CABEANKUNTI"
+  },
+  {
+    "id": "3309032010",
+    "district_id": "330903",
+    "name": "MLIWIS"
+  },
+  {
+    "id": "3309032011",
+    "district_id": "330903",
+    "name": "SUKABUMI"
+  },
+  {
+    "id": "3309032012",
+    "district_id": "330903",
+    "name": "GENTING"
+  },
+  {
+    "id": "3309032013",
+    "district_id": "330903",
+    "name": "CEPOGO"
+  },
+  {
+    "id": "3309032014",
+    "district_id": "330903",
+    "name": "KEMBANGKUNING"
+  },
+  {
+    "id": "3309032015",
+    "district_id": "330903",
+    "name": "GUBUG"
+  }
+]

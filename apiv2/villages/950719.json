@@ -1,1 +1,52 @@
-[{"id": "9507192001", "district_id": "950719", "name": "YIWILI"}, {"id": "9507192002", "district_id": "950719", "name": "GOLO"}, {"id": "9507192003", "district_id": "950719", "name": "GOLOMI"}, {"id": "9507192004", "district_id": "950719", "name": "YUGUMOBUR"}, {"id": "9507192005", "district_id": "950719", "name": "MILIDI"}, {"id": "9507192006", "district_id": "950719", "name": "UNIWANI"}, {"id": "9507192007", "district_id": "950719", "name": "WIRINGGAMBUT"}, {"id": "9507192008", "district_id": "950719", "name": "WULUWEBUR"}, {"id": "9507192009", "district_id": "950719", "name": "KILUDO"}, {"id": "9507192010", "district_id": "950719", "name": "GIRUWI"}]
+[
+  {
+    "id": "9507192001",
+    "district_id": "950719",
+    "name": "YIWILI"
+  },
+  {
+    "id": "9507192002",
+    "district_id": "950719",
+    "name": "GOLO"
+  },
+  {
+    "id": "9507192003",
+    "district_id": "950719",
+    "name": "GOLOMI"
+  },
+  {
+    "id": "9507192004",
+    "district_id": "950719",
+    "name": "YUGUMOBUR"
+  },
+  {
+    "id": "9507192005",
+    "district_id": "950719",
+    "name": "MILIDI"
+  },
+  {
+    "id": "9507192006",
+    "district_id": "950719",
+    "name": "UNIWANI"
+  },
+  {
+    "id": "9507192007",
+    "district_id": "950719",
+    "name": "WIRINGGAMBUT"
+  },
+  {
+    "id": "9507192008",
+    "district_id": "950719",
+    "name": "WULUWEBUR"
+  },
+  {
+    "id": "9507192009",
+    "district_id": "950719",
+    "name": "KILUDO"
+  },
+  {
+    "id": "9507192010",
+    "district_id": "950719",
+    "name": "GIRUWI"
+  }
+]

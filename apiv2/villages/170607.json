@@ -1,1 +1,62 @@
-[{"id": "1706072001", "district_id": "170607", "name": "ARGA JAYA"}, {"id": "1706072002", "district_id": "170607", "name": "AIR RAMI"}, {"id": "1706072003", "district_id": "170607", "name": "RAMI MULYA"}, {"id": "1706072004", "district_id": "170607", "name": "TALANG RIO"}, {"id": "1706072005", "district_id": "170607", "name": "MAKMUR JAYA"}, {"id": "1706072006", "district_id": "170607", "name": "MARGA MULIA"}, {"id": "1706072007", "district_id": "170607", "name": "MEKAR JAYA"}, {"id": "1706072008", "district_id": "170607", "name": "DUSUN PULAU"}, {"id": "1706072009", "district_id": "170607", "name": "BUKIT HARAPAN"}, {"id": "1706072010", "district_id": "170607", "name": "TIRTA KENCANA"}, {"id": "1706072011", "district_id": "170607", "name": "CINTA ASIH"}, {"id": "1706072012", "district_id": "170607", "name": "BUKIT MULYA"}]
+[
+  {
+    "id": "1706072001",
+    "district_id": "170607",
+    "name": "ARGA JAYA"
+  },
+  {
+    "id": "1706072002",
+    "district_id": "170607",
+    "name": "AIR RAMI"
+  },
+  {
+    "id": "1706072003",
+    "district_id": "170607",
+    "name": "RAMI MULYA"
+  },
+  {
+    "id": "1706072004",
+    "district_id": "170607",
+    "name": "TALANG RIO"
+  },
+  {
+    "id": "1706072005",
+    "district_id": "170607",
+    "name": "MAKMUR JAYA"
+  },
+  {
+    "id": "1706072006",
+    "district_id": "170607",
+    "name": "MARGA MULIA"
+  },
+  {
+    "id": "1706072007",
+    "district_id": "170607",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "1706072008",
+    "district_id": "170607",
+    "name": "DUSUN PULAU"
+  },
+  {
+    "id": "1706072009",
+    "district_id": "170607",
+    "name": "BUKIT HARAPAN"
+  },
+  {
+    "id": "1706072010",
+    "district_id": "170607",
+    "name": "TIRTA KENCANA"
+  },
+  {
+    "id": "1706072011",
+    "district_id": "170607",
+    "name": "CINTA ASIH"
+  },
+  {
+    "id": "1706072012",
+    "district_id": "170607",
+    "name": "BUKIT MULYA"
+  }
+]

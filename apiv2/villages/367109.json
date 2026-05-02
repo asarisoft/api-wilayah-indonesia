@@ -1,1 +1,32 @@
-[{"id": "3671091001", "district_id": "367109", "name": "CIBODAS"}, {"id": "3671091002", "district_id": "367109", "name": "CIBODAS SARI"}, {"id": "3671091003", "district_id": "367109", "name": "CIBODAS BARU"}, {"id": "3671091004", "district_id": "367109", "name": "PANUNGGANGAN BARAT"}, {"id": "3671091005", "district_id": "367109", "name": "UWUNG JAYA"}, {"id": "3671091006", "district_id": "367109", "name": "JATIUWUNG"}]
+[
+  {
+    "id": "3671091001",
+    "district_id": "367109",
+    "name": "CIBODAS"
+  },
+  {
+    "id": "3671091002",
+    "district_id": "367109",
+    "name": "CIBODAS SARI"
+  },
+  {
+    "id": "3671091003",
+    "district_id": "367109",
+    "name": "CIBODAS BARU"
+  },
+  {
+    "id": "3671091004",
+    "district_id": "367109",
+    "name": "PANUNGGANGAN BARAT"
+  },
+  {
+    "id": "3671091005",
+    "district_id": "367109",
+    "name": "UWUNG JAYA"
+  },
+  {
+    "id": "3671091006",
+    "district_id": "367109",
+    "name": "JATIUWUNG"
+  }
+]

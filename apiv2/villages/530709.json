@@ -1,1 +1,57 @@
-[{"id": "5307092001", "district_id": "530709", "name": "RUNUT"}, {"id": "5307092002", "district_id": "530709", "name": "EGON"}, {"id": "5307092003", "district_id": "530709", "name": "POGON"}, {"id": "5307092004", "district_id": "530709", "name": "AIBURA"}, {"id": "5307092005", "district_id": "530709", "name": "WAIRBLELER"}, {"id": "5307092006", "district_id": "530709", "name": "HODER"}, {"id": "5307092007", "district_id": "530709", "name": "WAIRTERANG"}, {"id": "5307092008", "district_id": "530709", "name": "NANGATOBONG"}, {"id": "5307092009", "district_id": "530709", "name": "WATUDIRAN"}, {"id": "5307092010", "district_id": "530709", "name": "MAHE KELAN"}, {"id": "5307092011", "district_id": "530709", "name": "EGON BULUK"}]
+[
+  {
+    "id": "5307092001",
+    "district_id": "530709",
+    "name": "RUNUT"
+  },
+  {
+    "id": "5307092002",
+    "district_id": "530709",
+    "name": "EGON"
+  },
+  {
+    "id": "5307092003",
+    "district_id": "530709",
+    "name": "POGON"
+  },
+  {
+    "id": "5307092004",
+    "district_id": "530709",
+    "name": "AIBURA"
+  },
+  {
+    "id": "5307092005",
+    "district_id": "530709",
+    "name": "WAIRBLELER"
+  },
+  {
+    "id": "5307092006",
+    "district_id": "530709",
+    "name": "HODER"
+  },
+  {
+    "id": "5307092007",
+    "district_id": "530709",
+    "name": "WAIRTERANG"
+  },
+  {
+    "id": "5307092008",
+    "district_id": "530709",
+    "name": "NANGATOBONG"
+  },
+  {
+    "id": "5307092009",
+    "district_id": "530709",
+    "name": "WATUDIRAN"
+  },
+  {
+    "id": "5307092010",
+    "district_id": "530709",
+    "name": "MAHE KELAN"
+  },
+  {
+    "id": "5307092011",
+    "district_id": "530709",
+    "name": "EGON BULUK"
+  }
+]

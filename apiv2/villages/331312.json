@@ -1,1 +1,57 @@
-[{"id": "3313122001", "district_id": "331312", "name": "NGASEM"}, {"id": "3313122002", "district_id": "331312", "name": "BOLON"}, {"id": "3313122003", "district_id": "331312", "name": "MALANGJIWAN"}, {"id": "3313122004", "district_id": "331312", "name": "PAULAN"}, {"id": "3313122005", "district_id": "331312", "name": "GAJAHAN"}, {"id": "3313122006", "district_id": "331312", "name": "BLULUKAN"}, {"id": "3313122007", "district_id": "331312", "name": "GAWANAN"}, {"id": "3313122008", "district_id": "331312", "name": "GEDONGAN"}, {"id": "3313122009", "district_id": "331312", "name": "TOHUDAN"}, {"id": "3313122010", "district_id": "331312", "name": "BATURAN"}, {"id": "3313122011", "district_id": "331312", "name": "KLODRAN"}]
+[
+  {
+    "id": "3313122001",
+    "district_id": "331312",
+    "name": "NGASEM"
+  },
+  {
+    "id": "3313122002",
+    "district_id": "331312",
+    "name": "BOLON"
+  },
+  {
+    "id": "3313122003",
+    "district_id": "331312",
+    "name": "MALANGJIWAN"
+  },
+  {
+    "id": "3313122004",
+    "district_id": "331312",
+    "name": "PAULAN"
+  },
+  {
+    "id": "3313122005",
+    "district_id": "331312",
+    "name": "GAJAHAN"
+  },
+  {
+    "id": "3313122006",
+    "district_id": "331312",
+    "name": "BLULUKAN"
+  },
+  {
+    "id": "3313122007",
+    "district_id": "331312",
+    "name": "GAWANAN"
+  },
+  {
+    "id": "3313122008",
+    "district_id": "331312",
+    "name": "GEDONGAN"
+  },
+  {
+    "id": "3313122009",
+    "district_id": "331312",
+    "name": "TOHUDAN"
+  },
+  {
+    "id": "3313122010",
+    "district_id": "331312",
+    "name": "BATURAN"
+  },
+  {
+    "id": "3313122011",
+    "district_id": "331312",
+    "name": "KLODRAN"
+  }
+]

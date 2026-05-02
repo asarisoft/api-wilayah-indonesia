@@ -1,1 +1,67 @@
-[{"id": "1611062001", "district_id": "161106", "name": "KARANG ARE"}, {"id": "1611062002", "district_id": "161106", "name": "PADANG TITIRAN"}, {"id": "1611062003", "district_id": "161106", "name": "KEMBAHANG LAMA"}, {"id": "1611062004", "district_id": "161106", "name": "PASAR TL. PADANG"}, {"id": "1611062005", "district_id": "161106", "name": "MACANG MANIS"}, {"id": "1611062006", "district_id": "161106", "name": "LUBUK BUNTAK"}, {"id": "1611062007", "district_id": "161106", "name": "TALANG DURIAN"}, {"id": "1611062008", "district_id": "161106", "name": "TALANG PADANG"}, {"id": "1611062009", "district_id": "161106", "name": "KEMBAHANG BARU"}, {"id": "1611062010", "district_id": "161106", "name": "CANGGU"}, {"id": "1611062011", "district_id": "161106", "name": "REMANTAI"}, {"id": "1611062012", "district_id": "161106", "name": "ULAK DABUK"}, {"id": "1611062013", "district_id": "161106", "name": "LAMPAR BARU"}]
+[
+  {
+    "id": "1611062001",
+    "district_id": "161106",
+    "name": "KARANG ARE"
+  },
+  {
+    "id": "1611062002",
+    "district_id": "161106",
+    "name": "PADANG TITIRAN"
+  },
+  {
+    "id": "1611062003",
+    "district_id": "161106",
+    "name": "KEMBAHANG LAMA"
+  },
+  {
+    "id": "1611062004",
+    "district_id": "161106",
+    "name": "PASAR TL. PADANG"
+  },
+  {
+    "id": "1611062005",
+    "district_id": "161106",
+    "name": "MACANG MANIS"
+  },
+  {
+    "id": "1611062006",
+    "district_id": "161106",
+    "name": "LUBUK BUNTAK"
+  },
+  {
+    "id": "1611062007",
+    "district_id": "161106",
+    "name": "TALANG DURIAN"
+  },
+  {
+    "id": "1611062008",
+    "district_id": "161106",
+    "name": "TALANG PADANG"
+  },
+  {
+    "id": "1611062009",
+    "district_id": "161106",
+    "name": "KEMBAHANG BARU"
+  },
+  {
+    "id": "1611062010",
+    "district_id": "161106",
+    "name": "CANGGU"
+  },
+  {
+    "id": "1611062011",
+    "district_id": "161106",
+    "name": "REMANTAI"
+  },
+  {
+    "id": "1611062012",
+    "district_id": "161106",
+    "name": "ULAK DABUK"
+  },
+  {
+    "id": "1611062013",
+    "district_id": "161106",
+    "name": "LAMPAR BARU"
+  }
+]

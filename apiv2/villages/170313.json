@@ -1,1 +1,52 @@
-[{"id": "1703132003", "district_id": "170313", "name": "TANJUNG ALAI"}, {"id": "1703132004", "district_id": "170313", "name": "JABI"}, {"id": "1703132005", "district_id": "170313", "name": "NAPAL PUTIH"}, {"id": "1703132006", "district_id": "170313", "name": "AIR TENANG"}, {"id": "1703132007", "district_id": "170313", "name": "TELUK ANGGUNG"}, {"id": "1703132008", "district_id": "170313", "name": "TANJUNG KEMAYAN"}, {"id": "1703132009", "district_id": "170313", "name": "MUARA SANTAN"}, {"id": "1703132016", "district_id": "170313", "name": "LEBONG TANDAI"}, {"id": "1703132019", "district_id": "170313", "name": "GEMBUNG RAYA"}, {"id": "1703132020", "district_id": "170313", "name": "KINAL JAYA"}]
+[
+  {
+    "id": "1703132003",
+    "district_id": "170313",
+    "name": "TANJUNG ALAI"
+  },
+  {
+    "id": "1703132004",
+    "district_id": "170313",
+    "name": "JABI"
+  },
+  {
+    "id": "1703132005",
+    "district_id": "170313",
+    "name": "NAPAL PUTIH"
+  },
+  {
+    "id": "1703132006",
+    "district_id": "170313",
+    "name": "AIR TENANG"
+  },
+  {
+    "id": "1703132007",
+    "district_id": "170313",
+    "name": "TELUK ANGGUNG"
+  },
+  {
+    "id": "1703132008",
+    "district_id": "170313",
+    "name": "TANJUNG KEMAYAN"
+  },
+  {
+    "id": "1703132009",
+    "district_id": "170313",
+    "name": "MUARA SANTAN"
+  },
+  {
+    "id": "1703132016",
+    "district_id": "170313",
+    "name": "LEBONG TANDAI"
+  },
+  {
+    "id": "1703132019",
+    "district_id": "170313",
+    "name": "GEMBUNG RAYA"
+  },
+  {
+    "id": "1703132020",
+    "district_id": "170313",
+    "name": "KINAL JAYA"
+  }
+]

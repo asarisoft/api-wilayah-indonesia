@@ -1,1 +1,97 @@
-[{"id": "5315051024", "district_id": "531505", "name": "WAE KELAMBU"}, {"id": "5315051025", "district_id": "531505", "name": "LABUAN BAJO"}, {"id": "5315052001", "district_id": "531505", "name": "KOMODO"}, {"id": "5315052002", "district_id": "531505", "name": "PASIR PUTIH"}, {"id": "5315052003", "district_id": "531505", "name": "PASIR PANJANG"}, {"id": "5315052004", "district_id": "531505", "name": "GOLO MORI"}, {"id": "5315052005", "district_id": "531505", "name": "WARLOKA"}, {"id": "5315052007", "district_id": "531505", "name": "GOLO BILAS"}, {"id": "5315052008", "district_id": "531505", "name": "MACANG TANGGAR"}, {"id": "5315052009", "district_id": "531505", "name": "WATU NGGELEK"}, {"id": "5315052015", "district_id": "531505", "name": "GOLO PONGKOR"}, {"id": "5315052016", "district_id": "531505", "name": "NGGORANG"}, {"id": "5315052018", "district_id": "531505", "name": "PAPA GARANG"}, {"id": "5315052019", "district_id": "531505", "name": "BATU CERMIN"}, {"id": "5315052020", "district_id": "531505", "name": "GORONTALO"}, {"id": "5315052022", "district_id": "531505", "name": "TIWU NAMPAR"}, {"id": "5315052026", "district_id": "531505", "name": "SERAYA MARANNU"}, {"id": "5315052027", "district_id": "531505", "name": "COMPANG LONGGO"}, {"id": "5315052028", "district_id": "531505", "name": "PANTAR"}]
+[
+  {
+    "id": "5315051024",
+    "district_id": "531505",
+    "name": "WAE KELAMBU"
+  },
+  {
+    "id": "5315051025",
+    "district_id": "531505",
+    "name": "LABUAN BAJO"
+  },
+  {
+    "id": "5315052001",
+    "district_id": "531505",
+    "name": "KOMODO"
+  },
+  {
+    "id": "5315052002",
+    "district_id": "531505",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "5315052003",
+    "district_id": "531505",
+    "name": "PASIR PANJANG"
+  },
+  {
+    "id": "5315052004",
+    "district_id": "531505",
+    "name": "GOLO MORI"
+  },
+  {
+    "id": "5315052005",
+    "district_id": "531505",
+    "name": "WARLOKA"
+  },
+  {
+    "id": "5315052007",
+    "district_id": "531505",
+    "name": "GOLO BILAS"
+  },
+  {
+    "id": "5315052008",
+    "district_id": "531505",
+    "name": "MACANG TANGGAR"
+  },
+  {
+    "id": "5315052009",
+    "district_id": "531505",
+    "name": "WATU NGGELEK"
+  },
+  {
+    "id": "5315052015",
+    "district_id": "531505",
+    "name": "GOLO PONGKOR"
+  },
+  {
+    "id": "5315052016",
+    "district_id": "531505",
+    "name": "NGGORANG"
+  },
+  {
+    "id": "5315052018",
+    "district_id": "531505",
+    "name": "PAPA GARANG"
+  },
+  {
+    "id": "5315052019",
+    "district_id": "531505",
+    "name": "BATU CERMIN"
+  },
+  {
+    "id": "5315052020",
+    "district_id": "531505",
+    "name": "GORONTALO"
+  },
+  {
+    "id": "5315052022",
+    "district_id": "531505",
+    "name": "TIWU NAMPAR"
+  },
+  {
+    "id": "5315052026",
+    "district_id": "531505",
+    "name": "SERAYA MARANNU"
+  },
+  {
+    "id": "5315052027",
+    "district_id": "531505",
+    "name": "COMPANG LONGGO"
+  },
+  {
+    "id": "5315052028",
+    "district_id": "531505",
+    "name": "PANTAR"
+  }
+]

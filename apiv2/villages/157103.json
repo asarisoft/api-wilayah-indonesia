@@ -1,1 +1,47 @@
-[{"id": "1571031001", "district_id": "157103", "name": "SIJENJANG"}, {"id": "1571031002", "district_id": "157103", "name": "KASANG JAYA"}, {"id": "1571031003", "district_id": "157103", "name": "TALANG BANJAR"}, {"id": "1571031004", "district_id": "157103", "name": "BUDIMAN"}, {"id": "1571031005", "district_id": "157103", "name": "SULANJANA"}, {"id": "1571031006", "district_id": "157103", "name": "KASANG"}, {"id": "1571031007", "district_id": "157103", "name": "TANJUNG SARI"}, {"id": "1571031008", "district_id": "157103", "name": "RAJAWALI"}, {"id": "1571031010", "district_id": "157103", "name": "TANJUNG PINANG"}]
+[
+  {
+    "id": "1571031001",
+    "district_id": "157103",
+    "name": "SIJENJANG"
+  },
+  {
+    "id": "1571031002",
+    "district_id": "157103",
+    "name": "KASANG JAYA"
+  },
+  {
+    "id": "1571031003",
+    "district_id": "157103",
+    "name": "TALANG BANJAR"
+  },
+  {
+    "id": "1571031004",
+    "district_id": "157103",
+    "name": "BUDIMAN"
+  },
+  {
+    "id": "1571031005",
+    "district_id": "157103",
+    "name": "SULANJANA"
+  },
+  {
+    "id": "1571031006",
+    "district_id": "157103",
+    "name": "KASANG"
+  },
+  {
+    "id": "1571031007",
+    "district_id": "157103",
+    "name": "TANJUNG SARI"
+  },
+  {
+    "id": "1571031008",
+    "district_id": "157103",
+    "name": "RAJAWALI"
+  },
+  {
+    "id": "1571031010",
+    "district_id": "157103",
+    "name": "TANJUNG PINANG"
+  }
+]

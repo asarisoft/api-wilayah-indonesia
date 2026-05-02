@@ -1,1 +1,27 @@
-[{"id": "5206162001", "district_id": "520616", "name": "PARADOWANE"}, {"id": "5206162002", "district_id": "520616", "name": "PARADORATO"}, {"id": "5206162003", "district_id": "520616", "name": "KUTA"}, {"id": "5206162004", "district_id": "520616", "name": "KANCA"}, {"id": "5206162005", "district_id": "520616", "name": "LERE"}]
+[
+  {
+    "id": "5206162001",
+    "district_id": "520616",
+    "name": "PARADOWANE"
+  },
+  {
+    "id": "5206162002",
+    "district_id": "520616",
+    "name": "PARADORATO"
+  },
+  {
+    "id": "5206162003",
+    "district_id": "520616",
+    "name": "KUTA"
+  },
+  {
+    "id": "5206162004",
+    "district_id": "520616",
+    "name": "KANCA"
+  },
+  {
+    "id": "5206162005",
+    "district_id": "520616",
+    "name": "LERE"
+  }
+]

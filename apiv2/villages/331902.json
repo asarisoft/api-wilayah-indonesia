@@ -1,1 +1,127 @@
-[{"id": "3319021001", "district_id": "331902", "name": "PURWOSARI"}, {"id": "3319021004", "district_id": "331902", "name": "SUNGGINGAN"}, {"id": "3319021005", "district_id": "331902", "name": "PANJUNAN"}, {"id": "3319021006", "district_id": "331902", "name": "WERGU WETAN"}, {"id": "3319021007", "district_id": "331902", "name": "WERGU KULON"}, {"id": "3319021008", "district_id": "331902", "name": "MLATI KIDUL"}, {"id": "3319021009", "district_id": "331902", "name": "MLATINOROWITO"}, {"id": "3319021017", "district_id": "331902", "name": "KERJASAN"}, {"id": "3319021018", "district_id": "331902", "name": "KAJEKSAN"}, {"id": "3319022002", "district_id": "331902", "name": "JANGGALAN"}, {"id": "3319022003", "district_id": "331902", "name": "DEMANGAN"}, {"id": "3319022010", "district_id": "331902", "name": "MLATI LOR"}, {"id": "3319022011", "district_id": "331902", "name": "NGANGUK"}, {"id": "3319022012", "district_id": "331902", "name": "KRAMAT"}, {"id": "3319022013", "district_id": "331902", "name": "DEMAAN"}, {"id": "3319022014", "district_id": "331902", "name": "LANGGARDALEM"}, {"id": "3319022015", "district_id": "331902", "name": "KAUMAN"}, {"id": "3319022016", "district_id": "331902", "name": "DAMARAN"}, {"id": "3319022019", "district_id": "331902", "name": "KRANDON"}, {"id": "3319022020", "district_id": "331902", "name": "SINGOCANDI"}, {"id": "3319022021", "district_id": "331902", "name": "GLANTENGAN"}, {"id": "3319022022", "district_id": "331902", "name": "KALIPUTU"}, {"id": "3319022023", "district_id": "331902", "name": "BARONGAN"}, {"id": "3319022024", "district_id": "331902", "name": "BURIKAN"}, {"id": "3319022025", "district_id": "331902", "name": "RENDENG"}]
+[
+  {
+    "id": "3319021001",
+    "district_id": "331902",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "3319021004",
+    "district_id": "331902",
+    "name": "SUNGGINGAN"
+  },
+  {
+    "id": "3319021005",
+    "district_id": "331902",
+    "name": "PANJUNAN"
+  },
+  {
+    "id": "3319021006",
+    "district_id": "331902",
+    "name": "WERGU WETAN"
+  },
+  {
+    "id": "3319021007",
+    "district_id": "331902",
+    "name": "WERGU KULON"
+  },
+  {
+    "id": "3319021008",
+    "district_id": "331902",
+    "name": "MLATI KIDUL"
+  },
+  {
+    "id": "3319021009",
+    "district_id": "331902",
+    "name": "MLATINOROWITO"
+  },
+  {
+    "id": "3319021017",
+    "district_id": "331902",
+    "name": "KERJASAN"
+  },
+  {
+    "id": "3319021018",
+    "district_id": "331902",
+    "name": "KAJEKSAN"
+  },
+  {
+    "id": "3319022002",
+    "district_id": "331902",
+    "name": "JANGGALAN"
+  },
+  {
+    "id": "3319022003",
+    "district_id": "331902",
+    "name": "DEMANGAN"
+  },
+  {
+    "id": "3319022010",
+    "district_id": "331902",
+    "name": "MLATI LOR"
+  },
+  {
+    "id": "3319022011",
+    "district_id": "331902",
+    "name": "NGANGUK"
+  },
+  {
+    "id": "3319022012",
+    "district_id": "331902",
+    "name": "KRAMAT"
+  },
+  {
+    "id": "3319022013",
+    "district_id": "331902",
+    "name": "DEMAAN"
+  },
+  {
+    "id": "3319022014",
+    "district_id": "331902",
+    "name": "LANGGARDALEM"
+  },
+  {
+    "id": "3319022015",
+    "district_id": "331902",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3319022016",
+    "district_id": "331902",
+    "name": "DAMARAN"
+  },
+  {
+    "id": "3319022019",
+    "district_id": "331902",
+    "name": "KRANDON"
+  },
+  {
+    "id": "3319022020",
+    "district_id": "331902",
+    "name": "SINGOCANDI"
+  },
+  {
+    "id": "3319022021",
+    "district_id": "331902",
+    "name": "GLANTENGAN"
+  },
+  {
+    "id": "3319022022",
+    "district_id": "331902",
+    "name": "KALIPUTU"
+  },
+  {
+    "id": "3319022023",
+    "district_id": "331902",
+    "name": "BARONGAN"
+  },
+  {
+    "id": "3319022024",
+    "district_id": "331902",
+    "name": "BURIKAN"
+  },
+  {
+    "id": "3319022025",
+    "district_id": "331902",
+    "name": "RENDENG"
+  }
+]

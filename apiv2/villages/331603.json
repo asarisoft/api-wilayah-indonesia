@@ -1,1 +1,52 @@
-[{"id": "3316032001", "district_id": "331603", "name": "MEGERI"}, {"id": "3316032002", "district_id": "331603", "name": "NGLEBAK"}, {"id": "3316032003", "district_id": "331603", "name": "GETAS"}, {"id": "3316032004", "district_id": "331603", "name": "NGINGGIL"}, {"id": "3316032005", "district_id": "331603", "name": "NGRAWOH"}, {"id": "3316032006", "district_id": "331603", "name": "MENDENREJO"}, {"id": "3316032007", "district_id": "331603", "name": "SUMBER"}, {"id": "3316032008", "district_id": "331603", "name": "MOJOREMBUN"}, {"id": "3316032009", "district_id": "331603", "name": "NGLUNGGER"}, {"id": "3316032010", "district_id": "331603", "name": "MEDALEM"}]
+[
+  {
+    "id": "3316032001",
+    "district_id": "331603",
+    "name": "MEGERI"
+  },
+  {
+    "id": "3316032002",
+    "district_id": "331603",
+    "name": "NGLEBAK"
+  },
+  {
+    "id": "3316032003",
+    "district_id": "331603",
+    "name": "GETAS"
+  },
+  {
+    "id": "3316032004",
+    "district_id": "331603",
+    "name": "NGINGGIL"
+  },
+  {
+    "id": "3316032005",
+    "district_id": "331603",
+    "name": "NGRAWOH"
+  },
+  {
+    "id": "3316032006",
+    "district_id": "331603",
+    "name": "MENDENREJO"
+  },
+  {
+    "id": "3316032007",
+    "district_id": "331603",
+    "name": "SUMBER"
+  },
+  {
+    "id": "3316032008",
+    "district_id": "331603",
+    "name": "MOJOREMBUN"
+  },
+  {
+    "id": "3316032009",
+    "district_id": "331603",
+    "name": "NGLUNGGER"
+  },
+  {
+    "id": "3316032010",
+    "district_id": "331603",
+    "name": "MEDALEM"
+  }
+]

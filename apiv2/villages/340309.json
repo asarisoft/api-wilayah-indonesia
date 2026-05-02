@@ -1,1 +1,47 @@
-[{"id": "3403092001", "district_id": "340309", "name": "BEJIHARJO"}, {"id": "3403092002", "district_id": "340309", "name": "WILADEG"}, {"id": "3403092003", "district_id": "340309", "name": "BENDUNGAN"}, {"id": "3403092004", "district_id": "340309", "name": "KELOR"}, {"id": "3403092005", "district_id": "340309", "name": "NGIPAK"}, {"id": "3403092006", "district_id": "340309", "name": "KARANGMOJO"}, {"id": "3403092007", "district_id": "340309", "name": "GEDANGREJO"}, {"id": "3403092008", "district_id": "340309", "name": "NGAWIS"}, {"id": "3403092009", "district_id": "340309", "name": "JATIAYU"}]
+[
+  {
+    "id": "3403092001",
+    "district_id": "340309",
+    "name": "BEJIHARJO"
+  },
+  {
+    "id": "3403092002",
+    "district_id": "340309",
+    "name": "WILADEG"
+  },
+  {
+    "id": "3403092003",
+    "district_id": "340309",
+    "name": "BENDUNGAN"
+  },
+  {
+    "id": "3403092004",
+    "district_id": "340309",
+    "name": "KELOR"
+  },
+  {
+    "id": "3403092005",
+    "district_id": "340309",
+    "name": "NGIPAK"
+  },
+  {
+    "id": "3403092006",
+    "district_id": "340309",
+    "name": "KARANGMOJO"
+  },
+  {
+    "id": "3403092007",
+    "district_id": "340309",
+    "name": "GEDANGREJO"
+  },
+  {
+    "id": "3403092008",
+    "district_id": "340309",
+    "name": "NGAWIS"
+  },
+  {
+    "id": "3403092009",
+    "district_id": "340309",
+    "name": "JATIAYU"
+  }
+]

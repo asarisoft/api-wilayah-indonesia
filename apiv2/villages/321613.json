@@ -1,1 +1,67 @@
-[{"id": "3216131011", "district_id": "321613", "name": "KERTASARI"}, {"id": "3216132001", "district_id": "321613", "name": "KARANGHARJA"}, {"id": "3216132002", "district_id": "321613", "name": "KARANGSEGAR"}, {"id": "3216132003", "district_id": "321613", "name": "SUMBERURIP"}, {"id": "3216132004", "district_id": "321613", "name": "SUMBEREJA"}, {"id": "3216132005", "district_id": "321613", "name": "KARANGREJA"}, {"id": "3216132006", "district_id": "321613", "name": "KARANGJAYA"}, {"id": "3216132007", "district_id": "321613", "name": "SUMBERSARI"}, {"id": "3216132008", "district_id": "321613", "name": "KARANGPATRI"}, {"id": "3216132009", "district_id": "321613", "name": "KARANGHAUR"}, {"id": "3216132010", "district_id": "321613", "name": "KERTAJAYA"}, {"id": "3216132012", "district_id": "321613", "name": "BANTARSARI"}, {"id": "3216132013", "district_id": "321613", "name": "BANTARJAYA"}]
+[
+  {
+    "id": "3216131011",
+    "district_id": "321613",
+    "name": "KERTASARI"
+  },
+  {
+    "id": "3216132001",
+    "district_id": "321613",
+    "name": "KARANGHARJA"
+  },
+  {
+    "id": "3216132002",
+    "district_id": "321613",
+    "name": "KARANGSEGAR"
+  },
+  {
+    "id": "3216132003",
+    "district_id": "321613",
+    "name": "SUMBERURIP"
+  },
+  {
+    "id": "3216132004",
+    "district_id": "321613",
+    "name": "SUMBEREJA"
+  },
+  {
+    "id": "3216132005",
+    "district_id": "321613",
+    "name": "KARANGREJA"
+  },
+  {
+    "id": "3216132006",
+    "district_id": "321613",
+    "name": "KARANGJAYA"
+  },
+  {
+    "id": "3216132007",
+    "district_id": "321613",
+    "name": "SUMBERSARI"
+  },
+  {
+    "id": "3216132008",
+    "district_id": "321613",
+    "name": "KARANGPATRI"
+  },
+  {
+    "id": "3216132009",
+    "district_id": "321613",
+    "name": "KARANGHAUR"
+  },
+  {
+    "id": "3216132010",
+    "district_id": "321613",
+    "name": "KERTAJAYA"
+  },
+  {
+    "id": "3216132012",
+    "district_id": "321613",
+    "name": "BANTARSARI"
+  },
+  {
+    "id": "3216132013",
+    "district_id": "321613",
+    "name": "BANTARJAYA"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "1572072001", "district_id": "157207", "name": "KOTO BARU"}, {"id": "1572072002", "district_id": "157207", "name": "KOTO LIMAU MANIS"}, {"id": "1572072003", "district_id": "157207", "name": "KAMPUNG TENGAH"}, {"id": "1572072004", "district_id": "157207", "name": "DUJUNG SAKTI"}, {"id": "1572072005", "district_id": "157207", "name": "PERMAI INDAH"}, {"id": "1572072006", "district_id": "157207", "name": "SRIMENANTI"}]
+[
+  {
+    "id": "1572072001",
+    "district_id": "157207",
+    "name": "KOTO BARU"
+  },
+  {
+    "id": "1572072002",
+    "district_id": "157207",
+    "name": "KOTO LIMAU MANIS"
+  },
+  {
+    "id": "1572072003",
+    "district_id": "157207",
+    "name": "KAMPUNG TENGAH"
+  },
+  {
+    "id": "1572072004",
+    "district_id": "157207",
+    "name": "DUJUNG SAKTI"
+  },
+  {
+    "id": "1572072005",
+    "district_id": "157207",
+    "name": "PERMAI INDAH"
+  },
+  {
+    "id": "1572072006",
+    "district_id": "157207",
+    "name": "SRIMENANTI"
+  }
+]

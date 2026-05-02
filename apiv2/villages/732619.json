@@ -1,1 +1,27 @@
-[{"id": "7326192001", "district_id": "732619", "name": "SULOARA'"}, {"id": "7326192002", "district_id": "732619", "name": "SESEAN MATALLO"}, {"id": "7326192003", "district_id": "732619", "name": "LANDORUNDUN"}, {"id": "7326192004", "district_id": "732619", "name": "TONGA RIU"}, {"id": "7326192005", "district_id": "732619", "name": "LEMPO"}]
+[
+  {
+    "id": "7326192001",
+    "district_id": "732619",
+    "name": "SULOARA'"
+  },
+  {
+    "id": "7326192002",
+    "district_id": "732619",
+    "name": "SESEAN MATALLO"
+  },
+  {
+    "id": "7326192003",
+    "district_id": "732619",
+    "name": "LANDORUNDUN"
+  },
+  {
+    "id": "7326192004",
+    "district_id": "732619",
+    "name": "TONGA RIU"
+  },
+  {
+    "id": "7326192005",
+    "district_id": "732619",
+    "name": "LEMPO"
+  }
+]

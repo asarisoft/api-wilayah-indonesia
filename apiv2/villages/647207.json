@@ -1,1 +1,27 @@
-[{"id": "6472071001", "district_id": "647207", "name": "SUNGAI KAPIH"}, {"id": "6472071002", "district_id": "647207", "name": "SAMBUTAN"}, {"id": "6472071003", "district_id": "647207", "name": "MAKROMAN"}, {"id": "6472071004", "district_id": "647207", "name": "SINDANG SARI"}, {"id": "6472071005", "district_id": "647207", "name": "PULAU ATAS"}]
+[
+  {
+    "id": "6472071001",
+    "district_id": "647207",
+    "name": "SUNGAI KAPIH"
+  },
+  {
+    "id": "6472071002",
+    "district_id": "647207",
+    "name": "SAMBUTAN"
+  },
+  {
+    "id": "6472071003",
+    "district_id": "647207",
+    "name": "MAKROMAN"
+  },
+  {
+    "id": "6472071004",
+    "district_id": "647207",
+    "name": "SINDANG SARI"
+  },
+  {
+    "id": "6472071005",
+    "district_id": "647207",
+    "name": "PULAU ATAS"
+  }
+]

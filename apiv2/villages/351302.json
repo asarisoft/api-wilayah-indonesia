@@ -1,1 +1,47 @@
-[{"id": "3513022001", "district_id": "351302", "name": "LEDOKOMBO"}, {"id": "3513022002", "district_id": "351302", "name": "PANDANSARI"}, {"id": "3513022003", "district_id": "351302", "name": "SUMBER"}, {"id": "3513022004", "district_id": "351302", "name": "WONOKERSO"}, {"id": "3513022005", "district_id": "351302", "name": "GEMITO"}, {"id": "3513022006", "district_id": "351302", "name": "TUKUL"}, {"id": "3513022007", "district_id": "351302", "name": "SUMBERANOM"}, {"id": "3513022008", "district_id": "351302", "name": "CEPOKO"}, {"id": "3513022009", "district_id": "351302", "name": "REMBA'AN"}]
+[
+  {
+    "id": "3513022001",
+    "district_id": "351302",
+    "name": "LEDOKOMBO"
+  },
+  {
+    "id": "3513022002",
+    "district_id": "351302",
+    "name": "PANDANSARI"
+  },
+  {
+    "id": "3513022003",
+    "district_id": "351302",
+    "name": "SUMBER"
+  },
+  {
+    "id": "3513022004",
+    "district_id": "351302",
+    "name": "WONOKERSO"
+  },
+  {
+    "id": "3513022005",
+    "district_id": "351302",
+    "name": "GEMITO"
+  },
+  {
+    "id": "3513022006",
+    "district_id": "351302",
+    "name": "TUKUL"
+  },
+  {
+    "id": "3513022007",
+    "district_id": "351302",
+    "name": "SUMBERANOM"
+  },
+  {
+    "id": "3513022008",
+    "district_id": "351302",
+    "name": "CEPOKO"
+  },
+  {
+    "id": "3513022009",
+    "district_id": "351302",
+    "name": "REMBA'AN"
+  }
+]

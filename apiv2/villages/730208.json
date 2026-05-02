@@ -1,1 +1,67 @@
-[{"id": "7302081001", "district_id": "730208", "name": "BORONG RAPPOA"}, {"id": "7302082002", "district_id": "730208", "name": "MATTIROWALIE"}, {"id": "7302082003", "district_id": "730208", "name": "KINDANG"}, {"id": "7302082004", "district_id": "730208", "name": "ARINHUA"}, {"id": "7302082005", "district_id": "730208", "name": "TAMAONA"}, {"id": "7302082006", "district_id": "730208", "name": "BENTENG PALIOI"}, {"id": "7302082007", "district_id": "730208", "name": "BALIBO"}, {"id": "7302082008", "district_id": "730208", "name": "GARUNTUNGAN"}, {"id": "7302082009", "district_id": "730208", "name": "OROGADING"}, {"id": "7302082010", "district_id": "730208", "name": "SIPAENRE"}, {"id": "7302082011", "district_id": "730208", "name": "KAHAYYA"}, {"id": "7302082012", "district_id": "730208", "name": "SOMBA PALIOLI"}, {"id": "7302082013", "district_id": "730208", "name": "SOPA"}]
+[
+  {
+    "id": "7302081001",
+    "district_id": "730208",
+    "name": "BORONG RAPPOA"
+  },
+  {
+    "id": "7302082002",
+    "district_id": "730208",
+    "name": "MATTIROWALIE"
+  },
+  {
+    "id": "7302082003",
+    "district_id": "730208",
+    "name": "KINDANG"
+  },
+  {
+    "id": "7302082004",
+    "district_id": "730208",
+    "name": "ARINHUA"
+  },
+  {
+    "id": "7302082005",
+    "district_id": "730208",
+    "name": "TAMAONA"
+  },
+  {
+    "id": "7302082006",
+    "district_id": "730208",
+    "name": "BENTENG PALIOI"
+  },
+  {
+    "id": "7302082007",
+    "district_id": "730208",
+    "name": "BALIBO"
+  },
+  {
+    "id": "7302082008",
+    "district_id": "730208",
+    "name": "GARUNTUNGAN"
+  },
+  {
+    "id": "7302082009",
+    "district_id": "730208",
+    "name": "OROGADING"
+  },
+  {
+    "id": "7302082010",
+    "district_id": "730208",
+    "name": "SIPAENRE"
+  },
+  {
+    "id": "7302082011",
+    "district_id": "730208",
+    "name": "KAHAYYA"
+  },
+  {
+    "id": "7302082012",
+    "district_id": "730208",
+    "name": "SOMBA PALIOLI"
+  },
+  {
+    "id": "7302082013",
+    "district_id": "730208",
+    "name": "SOPA"
+  }
+]

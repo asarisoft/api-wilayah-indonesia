@@ -1,1 +1,32 @@
-[{"id": "2105072001", "district_id": "210507", "name": "AIR ASUK"}, {"id": "2105072002", "district_id": "210507", "name": "AIR SENA"}, {"id": "2105072003", "district_id": "210507", "name": "TELUK SIANTAN"}, {"id": "2105072004", "district_id": "210507", "name": "LIDI"}, {"id": "2105072005", "district_id": "210507", "name": "LIUK"}, {"id": "2105072006", "district_id": "210507", "name": "TELUK SUNTING"}]
+[
+  {
+    "id": "2105072001",
+    "district_id": "210507",
+    "name": "AIR ASUK"
+  },
+  {
+    "id": "2105072002",
+    "district_id": "210507",
+    "name": "AIR SENA"
+  },
+  {
+    "id": "2105072003",
+    "district_id": "210507",
+    "name": "TELUK SIANTAN"
+  },
+  {
+    "id": "2105072004",
+    "district_id": "210507",
+    "name": "LIDI"
+  },
+  {
+    "id": "2105072005",
+    "district_id": "210507",
+    "name": "LIUK"
+  },
+  {
+    "id": "2105072006",
+    "district_id": "210507",
+    "name": "TELUK SUNTING"
+  }
+]

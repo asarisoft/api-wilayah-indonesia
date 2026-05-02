@@ -1,1 +1,17 @@
-[{"id": "1110012001", "district_id": "111001", "name": "PULAU BALAI"}, {"id": "1110012002", "district_id": "111001", "name": "PULAU BAGUK"}, {"id": "1110012004", "district_id": "111001", "name": "TELUK NIBUNG"}]
+[
+  {
+    "id": "1110012001",
+    "district_id": "111001",
+    "name": "PULAU BALAI"
+  },
+  {
+    "id": "1110012002",
+    "district_id": "111001",
+    "name": "PULAU BAGUK"
+  },
+  {
+    "id": "1110012004",
+    "district_id": "111001",
+    "name": "TELUK NIBUNG"
+  }
+]

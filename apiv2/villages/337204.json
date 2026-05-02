@@ -1,1 +1,57 @@
-[{"id": "3372041001", "district_id": "337204", "name": "KEPATIHAN KULON"}, {"id": "3372041002", "district_id": "337204", "name": "KEPATIHAN WETAN"}, {"id": "3372041003", "district_id": "337204", "name": "SUDIROPRAJAN"}, {"id": "3372041004", "district_id": "337204", "name": "GANDEKAN"}, {"id": "3372041005", "district_id": "337204", "name": "SEWU"}, {"id": "3372041006", "district_id": "337204", "name": "PUCANGSAWIT"}, {"id": "3372041007", "district_id": "337204", "name": "JAGALAN"}, {"id": "3372041008", "district_id": "337204", "name": "PURWODININGRATAN"}, {"id": "3372041009", "district_id": "337204", "name": "TEGALHARJO"}, {"id": "3372041010", "district_id": "337204", "name": "JEBRES"}, {"id": "3372041011", "district_id": "337204", "name": "MOJOSONGO"}]
+[
+  {
+    "id": "3372041001",
+    "district_id": "337204",
+    "name": "KEPATIHAN KULON"
+  },
+  {
+    "id": "3372041002",
+    "district_id": "337204",
+    "name": "KEPATIHAN WETAN"
+  },
+  {
+    "id": "3372041003",
+    "district_id": "337204",
+    "name": "SUDIROPRAJAN"
+  },
+  {
+    "id": "3372041004",
+    "district_id": "337204",
+    "name": "GANDEKAN"
+  },
+  {
+    "id": "3372041005",
+    "district_id": "337204",
+    "name": "SEWU"
+  },
+  {
+    "id": "3372041006",
+    "district_id": "337204",
+    "name": "PUCANGSAWIT"
+  },
+  {
+    "id": "3372041007",
+    "district_id": "337204",
+    "name": "JAGALAN"
+  },
+  {
+    "id": "3372041008",
+    "district_id": "337204",
+    "name": "PURWODININGRATAN"
+  },
+  {
+    "id": "3372041009",
+    "district_id": "337204",
+    "name": "TEGALHARJO"
+  },
+  {
+    "id": "3372041010",
+    "district_id": "337204",
+    "name": "JEBRES"
+  },
+  {
+    "id": "3372041011",
+    "district_id": "337204",
+    "name": "MOJOSONGO"
+  }
+]

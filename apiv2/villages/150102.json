@@ -1,1 +1,67 @@
-[{"id": "1501022001", "district_id": "150102", "name": "SANGGARAN AGUNG"}, {"id": "1501022002", "district_id": "150102", "name": "KOTA BARU SANGGARAN AGUNG"}, {"id": "1501022003", "district_id": "150102", "name": "PENDUNG TALANG GENTING"}, {"id": "1501022004", "district_id": "150102", "name": "SELEMAN"}, {"id": "1501022005", "district_id": "150102", "name": "TEBING TINGGI"}, {"id": "1501022006", "district_id": "150102", "name": "CUPAK"}, {"id": "1501022007", "district_id": "150102", "name": "TANJUNGTANAH"}, {"id": "1501022008", "district_id": "150102", "name": "KOTO TENGAH"}, {"id": "1501022013", "district_id": "150102", "name": "SIMPANG EMPAT"}, {"id": "1501022014", "district_id": "150102", "name": "TALANG KEMULUN"}, {"id": "1501022015", "district_id": "150102", "name": "DUSUN BARU TANJUNG TANAH"}, {"id": "1501022016", "district_id": "150102", "name": "PASAR SORE SELEMAN"}, {"id": "1501022018", "district_id": "150102", "name": "TANJUNGHARAPAN"}]
+[
+  {
+    "id": "1501022001",
+    "district_id": "150102",
+    "name": "SANGGARAN AGUNG"
+  },
+  {
+    "id": "1501022002",
+    "district_id": "150102",
+    "name": "KOTA BARU SANGGARAN AGUNG"
+  },
+  {
+    "id": "1501022003",
+    "district_id": "150102",
+    "name": "PENDUNG TALANG GENTING"
+  },
+  {
+    "id": "1501022004",
+    "district_id": "150102",
+    "name": "SELEMAN"
+  },
+  {
+    "id": "1501022005",
+    "district_id": "150102",
+    "name": "TEBING TINGGI"
+  },
+  {
+    "id": "1501022006",
+    "district_id": "150102",
+    "name": "CUPAK"
+  },
+  {
+    "id": "1501022007",
+    "district_id": "150102",
+    "name": "TANJUNGTANAH"
+  },
+  {
+    "id": "1501022008",
+    "district_id": "150102",
+    "name": "KOTO TENGAH"
+  },
+  {
+    "id": "1501022013",
+    "district_id": "150102",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "1501022014",
+    "district_id": "150102",
+    "name": "TALANG KEMULUN"
+  },
+  {
+    "id": "1501022015",
+    "district_id": "150102",
+    "name": "DUSUN BARU TANJUNG TANAH"
+  },
+  {
+    "id": "1501022016",
+    "district_id": "150102",
+    "name": "PASAR SORE SELEMAN"
+  },
+  {
+    "id": "1501022018",
+    "district_id": "150102",
+    "name": "TANJUNGHARAPAN"
+  }
+]

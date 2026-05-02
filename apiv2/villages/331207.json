@@ -1,1 +1,67 @@
-[{"id": "3312072001", "district_id": "331207", "name": "GLESUNGREJO"}, {"id": "3312072002", "district_id": "331207", "name": "BALEPANJANG"}, {"id": "3312072003", "district_id": "331207", "name": "WATUAGUNG"}, {"id": "3312072004", "district_id": "331207", "name": "BELIKURIP"}, {"id": "3312072005", "district_id": "331207", "name": "BATURETNO"}, {"id": "3312072006", "district_id": "331207", "name": "GAMBIRANOM"}, {"id": "3312072007", "district_id": "331207", "name": "TALUNOMBO"}, {"id": "3312072008", "district_id": "331207", "name": "SARADAN"}, {"id": "3312072009", "district_id": "331207", "name": "TEMON"}, {"id": "3312072010", "district_id": "331207", "name": "SETROREJO"}, {"id": "3312072011", "district_id": "331207", "name": "SENDANGREJO"}, {"id": "3312072012", "district_id": "331207", "name": "BOTO"}, {"id": "3312072013", "district_id": "331207", "name": "KEDUNGOMBO"}]
+[
+  {
+    "id": "3312072001",
+    "district_id": "331207",
+    "name": "GLESUNGREJO"
+  },
+  {
+    "id": "3312072002",
+    "district_id": "331207",
+    "name": "BALEPANJANG"
+  },
+  {
+    "id": "3312072003",
+    "district_id": "331207",
+    "name": "WATUAGUNG"
+  },
+  {
+    "id": "3312072004",
+    "district_id": "331207",
+    "name": "BELIKURIP"
+  },
+  {
+    "id": "3312072005",
+    "district_id": "331207",
+    "name": "BATURETNO"
+  },
+  {
+    "id": "3312072006",
+    "district_id": "331207",
+    "name": "GAMBIRANOM"
+  },
+  {
+    "id": "3312072007",
+    "district_id": "331207",
+    "name": "TALUNOMBO"
+  },
+  {
+    "id": "3312072008",
+    "district_id": "331207",
+    "name": "SARADAN"
+  },
+  {
+    "id": "3312072009",
+    "district_id": "331207",
+    "name": "TEMON"
+  },
+  {
+    "id": "3312072010",
+    "district_id": "331207",
+    "name": "SETROREJO"
+  },
+  {
+    "id": "3312072011",
+    "district_id": "331207",
+    "name": "SENDANGREJO"
+  },
+  {
+    "id": "3312072012",
+    "district_id": "331207",
+    "name": "BOTO"
+  },
+  {
+    "id": "3312072013",
+    "district_id": "331207",
+    "name": "KEDUNGOMBO"
+  }
+]

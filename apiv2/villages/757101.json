@@ -1,1 +1,37 @@
-[{"id": "7571011001", "district_id": "757101", "name": "DEMBE I"}, {"id": "7571011002", "district_id": "757101", "name": "LEKOBALO"}, {"id": "7571011003", "district_id": "757101", "name": "PILOLODAA"}, {"id": "7571011004", "district_id": "757101", "name": "BULIIDE"}, {"id": "7571011005", "district_id": "757101", "name": "TENILO"}, {"id": "7571011006", "district_id": "757101", "name": "MOLOSIPAT W"}, {"id": "7571011008", "district_id": "757101", "name": "BULADU"}]
+[
+  {
+    "id": "7571011001",
+    "district_id": "757101",
+    "name": "DEMBE I"
+  },
+  {
+    "id": "7571011002",
+    "district_id": "757101",
+    "name": "LEKOBALO"
+  },
+  {
+    "id": "7571011003",
+    "district_id": "757101",
+    "name": "PILOLODAA"
+  },
+  {
+    "id": "7571011004",
+    "district_id": "757101",
+    "name": "BULIIDE"
+  },
+  {
+    "id": "7571011005",
+    "district_id": "757101",
+    "name": "TENILO"
+  },
+  {
+    "id": "7571011006",
+    "district_id": "757101",
+    "name": "MOLOSIPAT W"
+  },
+  {
+    "id": "7571011008",
+    "district_id": "757101",
+    "name": "BULADU"
+  }
+]

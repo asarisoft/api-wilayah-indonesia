@@ -1,1 +1,62 @@
-[{"id": "3508101003", "district_id": "350810", "name": "CITRODIWANGSAN"}, {"id": "3508101004", "district_id": "350810", "name": "DITOTRUNAN"}, {"id": "3508101005", "district_id": "350810", "name": "JOGOTRUNAN"}, {"id": "3508101009", "district_id": "350810", "name": "JOGOYUDAN"}, {"id": "3508101010", "district_id": "350810", "name": "ROGOTRUNAN"}, {"id": "3508101011", "district_id": "350810", "name": "TOMPOKERSAN"}, {"id": "3508101012", "district_id": "350810", "name": "KEPUHARJO"}, {"id": "3508102001", "district_id": "350810", "name": "BANJARWARU"}, {"id": "3508102002", "district_id": "350810", "name": "LABRUK LOR"}, {"id": "3508102006", "district_id": "350810", "name": "DENOK"}, {"id": "3508102007", "district_id": "350810", "name": "BLUKON"}, {"id": "3508102008", "district_id": "350810", "name": "BORENG"}]
+[
+  {
+    "id": "3508101003",
+    "district_id": "350810",
+    "name": "CITRODIWANGSAN"
+  },
+  {
+    "id": "3508101004",
+    "district_id": "350810",
+    "name": "DITOTRUNAN"
+  },
+  {
+    "id": "3508101005",
+    "district_id": "350810",
+    "name": "JOGOTRUNAN"
+  },
+  {
+    "id": "3508101009",
+    "district_id": "350810",
+    "name": "JOGOYUDAN"
+  },
+  {
+    "id": "3508101010",
+    "district_id": "350810",
+    "name": "ROGOTRUNAN"
+  },
+  {
+    "id": "3508101011",
+    "district_id": "350810",
+    "name": "TOMPOKERSAN"
+  },
+  {
+    "id": "3508101012",
+    "district_id": "350810",
+    "name": "KEPUHARJO"
+  },
+  {
+    "id": "3508102001",
+    "district_id": "350810",
+    "name": "BANJARWARU"
+  },
+  {
+    "id": "3508102002",
+    "district_id": "350810",
+    "name": "LABRUK LOR"
+  },
+  {
+    "id": "3508102006",
+    "district_id": "350810",
+    "name": "DENOK"
+  },
+  {
+    "id": "3508102007",
+    "district_id": "350810",
+    "name": "BLUKON"
+  },
+  {
+    "id": "3508102008",
+    "district_id": "350810",
+    "name": "BORENG"
+  }
+]

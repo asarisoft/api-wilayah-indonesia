@@ -1,1 +1,67 @@
-[{"id": "9106192001", "district_id": "910619", "name": "MIOS MANGGUANDI"}, {"id": "9106192002", "district_id": "910619", "name": "SUPRAIMA"}, {"id": "9106192003", "district_id": "910619", "name": "SAMBER PASI"}, {"id": "9106192004", "district_id": "910619", "name": "PASI"}, {"id": "9106192005", "district_id": "910619", "name": "MBROMSI"}, {"id": "9106192006", "district_id": "910619", "name": "KARABAI"}, {"id": "9106192007", "district_id": "910619", "name": "SARIBRA"}, {"id": "9106192008", "district_id": "910619", "name": "NYANSOREN"}, {"id": "9106192009", "district_id": "910619", "name": "SASARI"}, {"id": "9106192010", "district_id": "910619", "name": "PADAIDO"}, {"id": "9106192011", "district_id": "910619", "name": "YERI"}, {"id": "9106192012", "district_id": "910619", "name": "ANOBO"}, {"id": "9106192013", "district_id": "910619", "name": "YEN MANAINA"}]
+[
+  {
+    "id": "9106192001",
+    "district_id": "910619",
+    "name": "MIOS MANGGUANDI"
+  },
+  {
+    "id": "9106192002",
+    "district_id": "910619",
+    "name": "SUPRAIMA"
+  },
+  {
+    "id": "9106192003",
+    "district_id": "910619",
+    "name": "SAMBER PASI"
+  },
+  {
+    "id": "9106192004",
+    "district_id": "910619",
+    "name": "PASI"
+  },
+  {
+    "id": "9106192005",
+    "district_id": "910619",
+    "name": "MBROMSI"
+  },
+  {
+    "id": "9106192006",
+    "district_id": "910619",
+    "name": "KARABAI"
+  },
+  {
+    "id": "9106192007",
+    "district_id": "910619",
+    "name": "SARIBRA"
+  },
+  {
+    "id": "9106192008",
+    "district_id": "910619",
+    "name": "NYANSOREN"
+  },
+  {
+    "id": "9106192009",
+    "district_id": "910619",
+    "name": "SASARI"
+  },
+  {
+    "id": "9106192010",
+    "district_id": "910619",
+    "name": "PADAIDO"
+  },
+  {
+    "id": "9106192011",
+    "district_id": "910619",
+    "name": "YERI"
+  },
+  {
+    "id": "9106192012",
+    "district_id": "910619",
+    "name": "ANOBO"
+  },
+  {
+    "id": "9106192013",
+    "district_id": "910619",
+    "name": "YEN MANAINA"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "3519081001", "district_id": "351908", "name": "NGLAMES"}, {"id": "3519082002", "district_id": "351908", "name": "SENDANGREJO"}, {"id": "3519082003", "district_id": "351908", "name": "DEMPELAN"}, {"id": "3519082004", "district_id": "351908", "name": "BETEK"}, {"id": "3519082005", "district_id": "351908", "name": "SIRAPAN"}, {"id": "3519082006", "district_id": "351908", "name": "DIMONG"}, {"id": "3519082007", "district_id": "351908", "name": "TULUNGREJO"}, {"id": "3519082008", "district_id": "351908", "name": "TANJUNGREJO"}, {"id": "3519082009", "district_id": "351908", "name": "SUMBEREJO"}, {"id": "3519082010", "district_id": "351908", "name": "BANJARSARI"}, {"id": "3519082011", "district_id": "351908", "name": "TIRON"}, {"id": "3519082012", "district_id": "351908", "name": "GUNUNGSARI"}, {"id": "3519082013", "district_id": "351908", "name": "BAGI"}]
+[
+  {
+    "id": "3519081001",
+    "district_id": "351908",
+    "name": "NGLAMES"
+  },
+  {
+    "id": "3519082002",
+    "district_id": "351908",
+    "name": "SENDANGREJO"
+  },
+  {
+    "id": "3519082003",
+    "district_id": "351908",
+    "name": "DEMPELAN"
+  },
+  {
+    "id": "3519082004",
+    "district_id": "351908",
+    "name": "BETEK"
+  },
+  {
+    "id": "3519082005",
+    "district_id": "351908",
+    "name": "SIRAPAN"
+  },
+  {
+    "id": "3519082006",
+    "district_id": "351908",
+    "name": "DIMONG"
+  },
+  {
+    "id": "3519082007",
+    "district_id": "351908",
+    "name": "TULUNGREJO"
+  },
+  {
+    "id": "3519082008",
+    "district_id": "351908",
+    "name": "TANJUNGREJO"
+  },
+  {
+    "id": "3519082009",
+    "district_id": "351908",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3519082010",
+    "district_id": "351908",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3519082011",
+    "district_id": "351908",
+    "name": "TIRON"
+  },
+  {
+    "id": "3519082012",
+    "district_id": "351908",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3519082013",
+    "district_id": "351908",
+    "name": "BAGI"
+  }
+]

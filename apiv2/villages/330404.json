@@ -1,1 +1,67 @@
-[{"id": "3304042001", "district_id": "330404", "name": "KALITENGAH"}, {"id": "3304042002", "district_id": "330404", "name": "MERDEN"}, {"id": "3304042003", "district_id": "330404", "name": "KARANGANYAR"}, {"id": "3304042004", "district_id": "330404", "name": "KALIAJIR"}, {"id": "3304042005", "district_id": "330404", "name": "PETIR"}, {"id": "3304042006", "district_id": "330404", "name": "PUCUNGBEDUG"}, {"id": "3304042007", "district_id": "330404", "name": "PARAKAN"}, {"id": "3304042008", "district_id": "330404", "name": "MERTASARI"}, {"id": "3304042009", "district_id": "330404", "name": "DANARAJA"}, {"id": "3304042010", "district_id": "330404", "name": "PURWONEGORO"}, {"id": "3304042011", "district_id": "330404", "name": "KALIPELUS"}, {"id": "3304042012", "district_id": "330404", "name": "GUMIWANG"}, {"id": "3304042013", "district_id": "330404", "name": "KUTAWULUH"}]
+[
+  {
+    "id": "3304042001",
+    "district_id": "330404",
+    "name": "KALITENGAH"
+  },
+  {
+    "id": "3304042002",
+    "district_id": "330404",
+    "name": "MERDEN"
+  },
+  {
+    "id": "3304042003",
+    "district_id": "330404",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3304042004",
+    "district_id": "330404",
+    "name": "KALIAJIR"
+  },
+  {
+    "id": "3304042005",
+    "district_id": "330404",
+    "name": "PETIR"
+  },
+  {
+    "id": "3304042006",
+    "district_id": "330404",
+    "name": "PUCUNGBEDUG"
+  },
+  {
+    "id": "3304042007",
+    "district_id": "330404",
+    "name": "PARAKAN"
+  },
+  {
+    "id": "3304042008",
+    "district_id": "330404",
+    "name": "MERTASARI"
+  },
+  {
+    "id": "3304042009",
+    "district_id": "330404",
+    "name": "DANARAJA"
+  },
+  {
+    "id": "3304042010",
+    "district_id": "330404",
+    "name": "PURWONEGORO"
+  },
+  {
+    "id": "3304042011",
+    "district_id": "330404",
+    "name": "KALIPELUS"
+  },
+  {
+    "id": "3304042012",
+    "district_id": "330404",
+    "name": "GUMIWANG"
+  },
+  {
+    "id": "3304042013",
+    "district_id": "330404",
+    "name": "KUTAWULUH"
+  }
+]

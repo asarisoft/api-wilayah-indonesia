@@ -1,1 +1,107 @@
-[{"id": "1102062001", "district_id": "110206", "name": "PARDOMUAN II"}, {"id": "1102062002", "district_id": "110206", "name": "LAWE DESKY I"}, {"id": "1102062003", "district_id": "110206", "name": "LAWE DESKY SABAS"}, {"id": "1102062004", "district_id": "110206", "name": "PARDOMUAN I"}, {"id": "1102062005", "district_id": "110206", "name": "CINTA DAMAI"}, {"id": "1102062006", "district_id": "110206", "name": "LAWE PERBUNGA"}, {"id": "1102062007", "district_id": "110206", "name": "LAWE DESKY TONGAH"}, {"id": "1102062008", "district_id": "110206", "name": "KUTE BAKTI"}, {"id": "1102062010", "district_id": "110206", "name": "MUARA SITULEN"}, {"id": "1102062011", "district_id": "110206", "name": "SEJAHTERA"}, {"id": "1102062012", "district_id": "110206", "name": "KUTE MAKMUR"}, {"id": "1102062013", "district_id": "110206", "name": "PARDAMEAN"}, {"id": "1102062014", "district_id": "110206", "name": "LAWE MANTIK"}, {"id": "1102062015", "district_id": "110206", "name": "CINTA MAKMUR"}, {"id": "1102062016", "district_id": "110206", "name": "MUARA SETIA"}, {"id": "1102062017", "district_id": "110206", "name": "TANOH ALAS"}, {"id": "1102062018", "district_id": "110206", "name": "SEJAHTERA BARU"}, {"id": "1102062024", "district_id": "110206", "name": "LAWE TAWAKH"}, {"id": "1102062025", "district_id": "110206", "name": "SABILUSSALAM"}, {"id": "1102062026", "district_id": "110206", "name": "LAWE DESKY JAYA"}, {"id": "1102062027", "district_id": "110206", "name": "PINTU ALAS"}]
+[
+  {
+    "id": "1102062001",
+    "district_id": "110206",
+    "name": "PARDOMUAN II"
+  },
+  {
+    "id": "1102062002",
+    "district_id": "110206",
+    "name": "LAWE DESKY I"
+  },
+  {
+    "id": "1102062003",
+    "district_id": "110206",
+    "name": "LAWE DESKY SABAS"
+  },
+  {
+    "id": "1102062004",
+    "district_id": "110206",
+    "name": "PARDOMUAN I"
+  },
+  {
+    "id": "1102062005",
+    "district_id": "110206",
+    "name": "CINTA DAMAI"
+  },
+  {
+    "id": "1102062006",
+    "district_id": "110206",
+    "name": "LAWE PERBUNGA"
+  },
+  {
+    "id": "1102062007",
+    "district_id": "110206",
+    "name": "LAWE DESKY TONGAH"
+  },
+  {
+    "id": "1102062008",
+    "district_id": "110206",
+    "name": "KUTE BAKTI"
+  },
+  {
+    "id": "1102062010",
+    "district_id": "110206",
+    "name": "MUARA SITULEN"
+  },
+  {
+    "id": "1102062011",
+    "district_id": "110206",
+    "name": "SEJAHTERA"
+  },
+  {
+    "id": "1102062012",
+    "district_id": "110206",
+    "name": "KUTE MAKMUR"
+  },
+  {
+    "id": "1102062013",
+    "district_id": "110206",
+    "name": "PARDAMEAN"
+  },
+  {
+    "id": "1102062014",
+    "district_id": "110206",
+    "name": "LAWE MANTIK"
+  },
+  {
+    "id": "1102062015",
+    "district_id": "110206",
+    "name": "CINTA MAKMUR"
+  },
+  {
+    "id": "1102062016",
+    "district_id": "110206",
+    "name": "MUARA SETIA"
+  },
+  {
+    "id": "1102062017",
+    "district_id": "110206",
+    "name": "TANOH ALAS"
+  },
+  {
+    "id": "1102062018",
+    "district_id": "110206",
+    "name": "SEJAHTERA BARU"
+  },
+  {
+    "id": "1102062024",
+    "district_id": "110206",
+    "name": "LAWE TAWAKH"
+  },
+  {
+    "id": "1102062025",
+    "district_id": "110206",
+    "name": "SABILUSSALAM"
+  },
+  {
+    "id": "1102062026",
+    "district_id": "110206",
+    "name": "LAWE DESKY JAYA"
+  },
+  {
+    "id": "1102062027",
+    "district_id": "110206",
+    "name": "PINTU ALAS"
+  }
+]

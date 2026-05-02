@@ -1,1 +1,32 @@
-[{"id": "5301131002", "district_id": "530113", "name": "NAIKLIU"}, {"id": "5301132001", "district_id": "530113", "name": "AFOAN"}, {"id": "5301132003", "district_id": "530113", "name": "FATUNAUS"}, {"id": "5301132004", "district_id": "530113", "name": "KOLABE"}, {"id": "5301132005", "district_id": "530113", "name": "BAKUIN"}, {"id": "5301132010", "district_id": "530113", "name": "LILMUS"}]
+[
+  {
+    "id": "5301131002",
+    "district_id": "530113",
+    "name": "NAIKLIU"
+  },
+  {
+    "id": "5301132001",
+    "district_id": "530113",
+    "name": "AFOAN"
+  },
+  {
+    "id": "5301132003",
+    "district_id": "530113",
+    "name": "FATUNAUS"
+  },
+  {
+    "id": "5301132004",
+    "district_id": "530113",
+    "name": "KOLABE"
+  },
+  {
+    "id": "5301132005",
+    "district_id": "530113",
+    "name": "BAKUIN"
+  },
+  {
+    "id": "5301132010",
+    "district_id": "530113",
+    "name": "LILMUS"
+  }
+]

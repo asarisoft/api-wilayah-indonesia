@@ -1,1 +1,32 @@
-[{"id": "3173081001", "district_id": "317308", "name": "KEMBANGAN UTARA"}, {"id": "3173081002", "district_id": "317308", "name": "MERUYA UTARA"}, {"id": "3173081003", "district_id": "317308", "name": "MERUYA SELATAN"}, {"id": "3173081004", "district_id": "317308", "name": "SRENGSENG"}, {"id": "3173081005", "district_id": "317308", "name": "JOGLO"}, {"id": "3173081006", "district_id": "317308", "name": "KEMBANGAN SELATAN"}]
+[
+  {
+    "id": "3173081001",
+    "district_id": "317308",
+    "name": "KEMBANGAN UTARA"
+  },
+  {
+    "id": "3173081002",
+    "district_id": "317308",
+    "name": "MERUYA UTARA"
+  },
+  {
+    "id": "3173081003",
+    "district_id": "317308",
+    "name": "MERUYA SELATAN"
+  },
+  {
+    "id": "3173081004",
+    "district_id": "317308",
+    "name": "SRENGSENG"
+  },
+  {
+    "id": "3173081005",
+    "district_id": "317308",
+    "name": "JOGLO"
+  },
+  {
+    "id": "3173081006",
+    "district_id": "317308",
+    "name": "KEMBANGAN SELATAN"
+  }
+]

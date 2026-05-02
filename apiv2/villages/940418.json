@@ -1,1 +1,57 @@
-[{"id": "9404182001", "district_id": "940418", "name": "ENGGIN"}, {"id": "9404182002", "district_id": "940418", "name": "ALAMA"}, {"id": "9404182003", "district_id": "940418", "name": "SENAWAK"}, {"id": "9404182004", "district_id": "940418", "name": "UNIMOGOM"}, {"id": "9404182005", "district_id": "940418", "name": "BEMOKI"}, {"id": "9404182006", "district_id": "940418", "name": "TAGARALMA"}, {"id": "9404182007", "district_id": "940418", "name": "GESELEMA"}, {"id": "9404182008", "district_id": "940418", "name": "WUAREM"}, {"id": "9404182009", "district_id": "940418", "name": "JENGGELO"}, {"id": "9404182010", "district_id": "940418", "name": "PURUA"}, {"id": "9404182011", "district_id": "940418", "name": "KILMIT"}]
+[
+  {
+    "id": "9404182001",
+    "district_id": "940418",
+    "name": "ENGGIN"
+  },
+  {
+    "id": "9404182002",
+    "district_id": "940418",
+    "name": "ALAMA"
+  },
+  {
+    "id": "9404182003",
+    "district_id": "940418",
+    "name": "SENAWAK"
+  },
+  {
+    "id": "9404182004",
+    "district_id": "940418",
+    "name": "UNIMOGOM"
+  },
+  {
+    "id": "9404182005",
+    "district_id": "940418",
+    "name": "BEMOKI"
+  },
+  {
+    "id": "9404182006",
+    "district_id": "940418",
+    "name": "TAGARALMA"
+  },
+  {
+    "id": "9404182007",
+    "district_id": "940418",
+    "name": "GESELEMA"
+  },
+  {
+    "id": "9404182008",
+    "district_id": "940418",
+    "name": "WUAREM"
+  },
+  {
+    "id": "9404182009",
+    "district_id": "940418",
+    "name": "JENGGELO"
+  },
+  {
+    "id": "9404182010",
+    "district_id": "940418",
+    "name": "PURUA"
+  },
+  {
+    "id": "9404182011",
+    "district_id": "940418",
+    "name": "KILMIT"
+  }
+]

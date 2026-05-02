@@ -1,1 +1,87 @@
-[{"id": "7208222001", "district_id": "720822", "name": "ONGKA"}, {"id": "7208222002", "district_id": "720822", "name": "MALINO"}, {"id": "7208222003", "district_id": "720822", "name": "SANTIGI"}, {"id": "7208222004", "district_id": "720822", "name": "PERSATUAN SEJATI"}, {"id": "7208222005", "district_id": "720822", "name": "TABOLOBOLO"}, {"id": "7208222006", "district_id": "720822", "name": "TINOMBALA"}, {"id": "7208222007", "district_id": "720822", "name": "KARYA MANDIRI"}, {"id": "7208222008", "district_id": "720822", "name": "KAYU JATI"}, {"id": "7208222009", "district_id": "720822", "name": "LAMBANAU"}, {"id": "7208222010", "district_id": "720822", "name": "BOSAGON JAYA"}, {"id": "7208222011", "district_id": "720822", "name": "PERSATUAN UTARA"}, {"id": "7208222012", "district_id": "720822", "name": "TINOMBALA JAYA"}, {"id": "7208222013", "district_id": "720822", "name": "ONGKA TRIMUSPASARI"}, {"id": "7208222014", "district_id": "720822", "name": "TINOMBALA SEJATI"}, {"id": "7208222015", "district_id": "720822", "name": "TINOMBALA BARAT"}, {"id": "7208222016", "district_id": "720822", "name": "PADAELO"}, {"id": "7208222017", "district_id": "720822", "name": "ONGKA PERSATUAN"}]
+[
+  {
+    "id": "7208222001",
+    "district_id": "720822",
+    "name": "ONGKA"
+  },
+  {
+    "id": "7208222002",
+    "district_id": "720822",
+    "name": "MALINO"
+  },
+  {
+    "id": "7208222003",
+    "district_id": "720822",
+    "name": "SANTIGI"
+  },
+  {
+    "id": "7208222004",
+    "district_id": "720822",
+    "name": "PERSATUAN SEJATI"
+  },
+  {
+    "id": "7208222005",
+    "district_id": "720822",
+    "name": "TABOLOBOLO"
+  },
+  {
+    "id": "7208222006",
+    "district_id": "720822",
+    "name": "TINOMBALA"
+  },
+  {
+    "id": "7208222007",
+    "district_id": "720822",
+    "name": "KARYA MANDIRI"
+  },
+  {
+    "id": "7208222008",
+    "district_id": "720822",
+    "name": "KAYU JATI"
+  },
+  {
+    "id": "7208222009",
+    "district_id": "720822",
+    "name": "LAMBANAU"
+  },
+  {
+    "id": "7208222010",
+    "district_id": "720822",
+    "name": "BOSAGON JAYA"
+  },
+  {
+    "id": "7208222011",
+    "district_id": "720822",
+    "name": "PERSATUAN UTARA"
+  },
+  {
+    "id": "7208222012",
+    "district_id": "720822",
+    "name": "TINOMBALA JAYA"
+  },
+  {
+    "id": "7208222013",
+    "district_id": "720822",
+    "name": "ONGKA TRIMUSPASARI"
+  },
+  {
+    "id": "7208222014",
+    "district_id": "720822",
+    "name": "TINOMBALA SEJATI"
+  },
+  {
+    "id": "7208222015",
+    "district_id": "720822",
+    "name": "TINOMBALA BARAT"
+  },
+  {
+    "id": "7208222016",
+    "district_id": "720822",
+    "name": "PADAELO"
+  },
+  {
+    "id": "7208222017",
+    "district_id": "720822",
+    "name": "ONGKA PERSATUAN"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3205212001", "district_id": "320521", "name": "SUKARESMI"}, {"id": "3205212002", "district_id": "320521", "name": "CINTADAMAI"}, {"id": "3205212003", "district_id": "320521", "name": "MEKARJAYA"}, {"id": "3205212004", "district_id": "320521", "name": "SUKAJAYA"}, {"id": "3205212005", "district_id": "320521", "name": "SUKAMULYA"}, {"id": "3205212006", "district_id": "320521", "name": "PADAMUKTI"}, {"id": "3205212007", "district_id": "320521", "name": "SUKALILAH"}]
+[
+  {
+    "id": "3205212001",
+    "district_id": "320521",
+    "name": "SUKARESMI"
+  },
+  {
+    "id": "3205212002",
+    "district_id": "320521",
+    "name": "CINTADAMAI"
+  },
+  {
+    "id": "3205212003",
+    "district_id": "320521",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3205212004",
+    "district_id": "320521",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3205212005",
+    "district_id": "320521",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3205212006",
+    "district_id": "320521",
+    "name": "PADAMUKTI"
+  },
+  {
+    "id": "3205212007",
+    "district_id": "320521",
+    "name": "SUKALILAH"
+  }
+]

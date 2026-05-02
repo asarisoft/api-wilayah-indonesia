@@ -1,1 +1,67 @@
-[{"id": "3326172001", "district_id": "332617", "name": "MEJASEM"}, {"id": "3326172002", "district_id": "332617", "name": "WONOSARI"}, {"id": "3326172003", "district_id": "332617", "name": "TENGENGKULON"}, {"id": "3326172004", "district_id": "332617", "name": "TUNJUNGSARI"}, {"id": "3326172005", "district_id": "332617", "name": "PAIT"}, {"id": "3326172006", "district_id": "332617", "name": "TENGENGWETAN"}, {"id": "3326172007", "district_id": "332617", "name": "REMBUN"}, {"id": "3326172008", "district_id": "332617", "name": "YOSOREJO"}, {"id": "3326172009", "district_id": "332617", "name": "SIWALAN"}, {"id": "3326172010", "district_id": "332617", "name": "BOYOTELUK"}, {"id": "3326172011", "district_id": "332617", "name": "DEPOK"}, {"id": "3326172012", "district_id": "332617", "name": "BLACANAN"}, {"id": "3326172013", "district_id": "332617", "name": "BLIMBINGWULUH"}]
+[
+  {
+    "id": "3326172001",
+    "district_id": "332617",
+    "name": "MEJASEM"
+  },
+  {
+    "id": "3326172002",
+    "district_id": "332617",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3326172003",
+    "district_id": "332617",
+    "name": "TENGENGKULON"
+  },
+  {
+    "id": "3326172004",
+    "district_id": "332617",
+    "name": "TUNJUNGSARI"
+  },
+  {
+    "id": "3326172005",
+    "district_id": "332617",
+    "name": "PAIT"
+  },
+  {
+    "id": "3326172006",
+    "district_id": "332617",
+    "name": "TENGENGWETAN"
+  },
+  {
+    "id": "3326172007",
+    "district_id": "332617",
+    "name": "REMBUN"
+  },
+  {
+    "id": "3326172008",
+    "district_id": "332617",
+    "name": "YOSOREJO"
+  },
+  {
+    "id": "3326172009",
+    "district_id": "332617",
+    "name": "SIWALAN"
+  },
+  {
+    "id": "3326172010",
+    "district_id": "332617",
+    "name": "BOYOTELUK"
+  },
+  {
+    "id": "3326172011",
+    "district_id": "332617",
+    "name": "DEPOK"
+  },
+  {
+    "id": "3326172012",
+    "district_id": "332617",
+    "name": "BLACANAN"
+  },
+  {
+    "id": "3326172013",
+    "district_id": "332617",
+    "name": "BLIMBINGWULUH"
+  }
+]

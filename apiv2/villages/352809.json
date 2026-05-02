@@ -1,1 +1,62 @@
-[{"id": "3528092001", "district_id": "352809", "name": "BICORONG"}, {"id": "3528092002", "district_id": "352809", "name": "KLOMPANG BARAT"}, {"id": "3528092003", "district_id": "352809", "name": "KLOMPANG TIMUR"}, {"id": "3528092004", "district_id": "352809", "name": "CENLECEN"}, {"id": "3528092005", "district_id": "352809", "name": "BAJANG"}, {"id": "3528092006", "district_id": "352809", "name": "BANBAN"}, {"id": "3528092007", "district_id": "352809", "name": "SOMALANG"}, {"id": "3528092008", "district_id": "352809", "name": "PALALANG"}, {"id": "3528092009", "district_id": "352809", "name": "SEDDUR"}, {"id": "3528092010", "district_id": "352809", "name": "PAKONG"}, {"id": "3528092011", "district_id": "352809", "name": "BANDUNGAN"}, {"id": "3528092012", "district_id": "352809", "name": "LEBBEK"}]
+[
+  {
+    "id": "3528092001",
+    "district_id": "352809",
+    "name": "BICORONG"
+  },
+  {
+    "id": "3528092002",
+    "district_id": "352809",
+    "name": "KLOMPANG BARAT"
+  },
+  {
+    "id": "3528092003",
+    "district_id": "352809",
+    "name": "KLOMPANG TIMUR"
+  },
+  {
+    "id": "3528092004",
+    "district_id": "352809",
+    "name": "CENLECEN"
+  },
+  {
+    "id": "3528092005",
+    "district_id": "352809",
+    "name": "BAJANG"
+  },
+  {
+    "id": "3528092006",
+    "district_id": "352809",
+    "name": "BANBAN"
+  },
+  {
+    "id": "3528092007",
+    "district_id": "352809",
+    "name": "SOMALANG"
+  },
+  {
+    "id": "3528092008",
+    "district_id": "352809",
+    "name": "PALALANG"
+  },
+  {
+    "id": "3528092009",
+    "district_id": "352809",
+    "name": "SEDDUR"
+  },
+  {
+    "id": "3528092010",
+    "district_id": "352809",
+    "name": "PAKONG"
+  },
+  {
+    "id": "3528092011",
+    "district_id": "352809",
+    "name": "BANDUNGAN"
+  },
+  {
+    "id": "3528092012",
+    "district_id": "352809",
+    "name": "LEBBEK"
+  }
+]

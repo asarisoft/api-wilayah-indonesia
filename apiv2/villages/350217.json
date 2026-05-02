@@ -1,1 +1,97 @@
-[{"id": "3502171001", "district_id": "350217", "name": "PAJU"}, {"id": "3502171002", "district_id": "350217", "name": "BROTONEGARAN"}, {"id": "3502171003", "district_id": "350217", "name": "PAKUNDEN"}, {"id": "3502171004", "district_id": "350217", "name": "KEPATIHAN"}, {"id": "3502171005", "district_id": "350217", "name": "SURODIKRAMAN"}, {"id": "3502171006", "district_id": "350217", "name": "PURBOSUMAN"}, {"id": "3502171007", "district_id": "350217", "name": "TONATAN"}, {"id": "3502171008", "district_id": "350217", "name": "BANGUNSARI"}, {"id": "3502171009", "district_id": "350217", "name": "TAMANARUM"}, {"id": "3502171010", "district_id": "350217", "name": "KAUMAN"}, {"id": "3502171011", "district_id": "350217", "name": "TAMBAKBAYAN"}, {"id": "3502171012", "district_id": "350217", "name": "PINGGIRSARI"}, {"id": "3502171013", "district_id": "350217", "name": "MANGKUJAYAN"}, {"id": "3502171014", "district_id": "350217", "name": "BANYUDONO"}, {"id": "3502171015", "district_id": "350217", "name": "NOLOGATEN"}, {"id": "3502171016", "district_id": "350217", "name": "COKROMENGGALAN"}, {"id": "3502171017", "district_id": "350217", "name": "KENITEN"}, {"id": "3502171018", "district_id": "350217", "name": "JINGGLONG"}, {"id": "3502171019", "district_id": "350217", "name": "BEDURI"}]
+[
+  {
+    "id": "3502171001",
+    "district_id": "350217",
+    "name": "PAJU"
+  },
+  {
+    "id": "3502171002",
+    "district_id": "350217",
+    "name": "BROTONEGARAN"
+  },
+  {
+    "id": "3502171003",
+    "district_id": "350217",
+    "name": "PAKUNDEN"
+  },
+  {
+    "id": "3502171004",
+    "district_id": "350217",
+    "name": "KEPATIHAN"
+  },
+  {
+    "id": "3502171005",
+    "district_id": "350217",
+    "name": "SURODIKRAMAN"
+  },
+  {
+    "id": "3502171006",
+    "district_id": "350217",
+    "name": "PURBOSUMAN"
+  },
+  {
+    "id": "3502171007",
+    "district_id": "350217",
+    "name": "TONATAN"
+  },
+  {
+    "id": "3502171008",
+    "district_id": "350217",
+    "name": "BANGUNSARI"
+  },
+  {
+    "id": "3502171009",
+    "district_id": "350217",
+    "name": "TAMANARUM"
+  },
+  {
+    "id": "3502171010",
+    "district_id": "350217",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3502171011",
+    "district_id": "350217",
+    "name": "TAMBAKBAYAN"
+  },
+  {
+    "id": "3502171012",
+    "district_id": "350217",
+    "name": "PINGGIRSARI"
+  },
+  {
+    "id": "3502171013",
+    "district_id": "350217",
+    "name": "MANGKUJAYAN"
+  },
+  {
+    "id": "3502171014",
+    "district_id": "350217",
+    "name": "BANYUDONO"
+  },
+  {
+    "id": "3502171015",
+    "district_id": "350217",
+    "name": "NOLOGATEN"
+  },
+  {
+    "id": "3502171016",
+    "district_id": "350217",
+    "name": "COKROMENGGALAN"
+  },
+  {
+    "id": "3502171017",
+    "district_id": "350217",
+    "name": "KENITEN"
+  },
+  {
+    "id": "3502171018",
+    "district_id": "350217",
+    "name": "JINGGLONG"
+  },
+  {
+    "id": "3502171019",
+    "district_id": "350217",
+    "name": "BEDURI"
+  }
+]

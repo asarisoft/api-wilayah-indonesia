@@ -1,1 +1,22 @@
-[{"id": "2172011001", "district_id": "217201", "name": "TANJUNG PINANG BARAT"}, {"id": "2172011002", "district_id": "217201", "name": "KEMBOJA"}, {"id": "2172011003", "district_id": "217201", "name": "KAMPUNG BARU"}, {"id": "2172011004", "district_id": "217201", "name": "BUKIT CERMIN"}]
+[
+  {
+    "id": "2172011001",
+    "district_id": "217201",
+    "name": "TANJUNG PINANG BARAT"
+  },
+  {
+    "id": "2172011002",
+    "district_id": "217201",
+    "name": "KEMBOJA"
+  },
+  {
+    "id": "2172011003",
+    "district_id": "217201",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "2172011004",
+    "district_id": "217201",
+    "name": "BUKIT CERMIN"
+  }
+]

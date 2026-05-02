@@ -1,1 +1,37 @@
-[{"id": "6401022004", "district_id": "640102", "name": "KELADEN"}, {"id": "6401022006", "district_id": "640102", "name": "TANJUNG ARU"}, {"id": "6401022007", "district_id": "640102", "name": "LABUANGKALLO"}, {"id": "6401022012", "district_id": "640102", "name": "LORI"}, {"id": "6401022013", "district_id": "640102", "name": "SELENGOT"}, {"id": "6401022014", "district_id": "640102", "name": "RANDOM"}, {"id": "6401022015", "district_id": "640102", "name": "SENIPAH"}]
+[
+  {
+    "id": "6401022004",
+    "district_id": "640102",
+    "name": "KELADEN"
+  },
+  {
+    "id": "6401022006",
+    "district_id": "640102",
+    "name": "TANJUNG ARU"
+  },
+  {
+    "id": "6401022007",
+    "district_id": "640102",
+    "name": "LABUANGKALLO"
+  },
+  {
+    "id": "6401022012",
+    "district_id": "640102",
+    "name": "LORI"
+  },
+  {
+    "id": "6401022013",
+    "district_id": "640102",
+    "name": "SELENGOT"
+  },
+  {
+    "id": "6401022014",
+    "district_id": "640102",
+    "name": "RANDOM"
+  },
+  {
+    "id": "6401022015",
+    "district_id": "640102",
+    "name": "SENIPAH"
+  }
+]

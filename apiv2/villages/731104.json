@@ -1,1 +1,37 @@
-[{"id": "7311041001", "district_id": "731104", "name": "KIRU KIRU"}, {"id": "7311041002", "district_id": "731104", "name": "MANGKOSO"}, {"id": "7311042003", "district_id": "731104", "name": "LAWALLU"}, {"id": "7311042004", "district_id": "731104", "name": "PACCEKKE"}, {"id": "7311042005", "district_id": "731104", "name": "AJAKKANG"}, {"id": "7311042006", "district_id": "731104", "name": "SIDDO"}, {"id": "7311042007", "district_id": "731104", "name": "BATUPUTE"}]
+[
+  {
+    "id": "7311041001",
+    "district_id": "731104",
+    "name": "KIRU KIRU"
+  },
+  {
+    "id": "7311041002",
+    "district_id": "731104",
+    "name": "MANGKOSO"
+  },
+  {
+    "id": "7311042003",
+    "district_id": "731104",
+    "name": "LAWALLU"
+  },
+  {
+    "id": "7311042004",
+    "district_id": "731104",
+    "name": "PACCEKKE"
+  },
+  {
+    "id": "7311042005",
+    "district_id": "731104",
+    "name": "AJAKKANG"
+  },
+  {
+    "id": "7311042006",
+    "district_id": "731104",
+    "name": "SIDDO"
+  },
+  {
+    "id": "7311042007",
+    "district_id": "731104",
+    "name": "BATUPUTE"
+  }
+]

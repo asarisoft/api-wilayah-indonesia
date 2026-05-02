@@ -1,1 +1,72 @@
-[{"id": "1205061001", "district_id": "120506", "name": "PEKAN SELESAI"}, {"id": "1205062002", "district_id": "120506", "name": "SEI LIMBAT"}, {"id": "1205062003", "district_id": "120506", "name": "PADANG BRAHRANG"}, {"id": "1205062004", "district_id": "120506", "name": "TANJUNG MERAHE"}, {"id": "1205062005", "district_id": "120506", "name": "NAMBIKI"}, {"id": "1205062006", "district_id": "120506", "name": "LAU MULGAP"}, {"id": "1205062007", "district_id": "120506", "name": "KUTA PARIT"}, {"id": "1205062008", "district_id": "120506", "name": "BEKULAP"}, {"id": "1205062009", "district_id": "120506", "name": "PERHIASAN"}, {"id": "1205062010", "district_id": "120506", "name": "SELAYANG"}, {"id": "1205062011", "district_id": "120506", "name": "MANCANG"}, {"id": "1205062012", "district_id": "120506", "name": "KWALA AIR HITAM"}, {"id": "1205062013", "district_id": "120506", "name": "PADANG CERMIN"}, {"id": "1205062014", "district_id": "120506", "name": "SELAYANG BARU"}]
+[
+  {
+    "id": "1205061001",
+    "district_id": "120506",
+    "name": "PEKAN SELESAI"
+  },
+  {
+    "id": "1205062002",
+    "district_id": "120506",
+    "name": "SEI LIMBAT"
+  },
+  {
+    "id": "1205062003",
+    "district_id": "120506",
+    "name": "PADANG BRAHRANG"
+  },
+  {
+    "id": "1205062004",
+    "district_id": "120506",
+    "name": "TANJUNG MERAHE"
+  },
+  {
+    "id": "1205062005",
+    "district_id": "120506",
+    "name": "NAMBIKI"
+  },
+  {
+    "id": "1205062006",
+    "district_id": "120506",
+    "name": "LAU MULGAP"
+  },
+  {
+    "id": "1205062007",
+    "district_id": "120506",
+    "name": "KUTA PARIT"
+  },
+  {
+    "id": "1205062008",
+    "district_id": "120506",
+    "name": "BEKULAP"
+  },
+  {
+    "id": "1205062009",
+    "district_id": "120506",
+    "name": "PERHIASAN"
+  },
+  {
+    "id": "1205062010",
+    "district_id": "120506",
+    "name": "SELAYANG"
+  },
+  {
+    "id": "1205062011",
+    "district_id": "120506",
+    "name": "MANCANG"
+  },
+  {
+    "id": "1205062012",
+    "district_id": "120506",
+    "name": "KWALA AIR HITAM"
+  },
+  {
+    "id": "1205062013",
+    "district_id": "120506",
+    "name": "PADANG CERMIN"
+  },
+  {
+    "id": "1205062014",
+    "district_id": "120506",
+    "name": "SELAYANG BARU"
+  }
+]

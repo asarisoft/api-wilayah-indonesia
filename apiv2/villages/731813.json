@@ -1,1 +1,27 @@
-[{"id": "7318131009", "district_id": "731813", "name": "TONGKO SARAPUNG"}, {"id": "7318131010", "district_id": "731813", "name": "BUNTU MASAKKE"}, {"id": "7318132004", "district_id": "731813", "name": "BULIAN MASSA'BU"}, {"id": "7318132006", "district_id": "731813", "name": "KAERO"}, {"id": "7318132008", "district_id": "731813", "name": "TURUNAN"}]
+[
+  {
+    "id": "7318131009",
+    "district_id": "731813",
+    "name": "TONGKO SARAPUNG"
+  },
+  {
+    "id": "7318131010",
+    "district_id": "731813",
+    "name": "BUNTU MASAKKE"
+  },
+  {
+    "id": "7318132004",
+    "district_id": "731813",
+    "name": "BULIAN MASSA'BU"
+  },
+  {
+    "id": "7318132006",
+    "district_id": "731813",
+    "name": "KAERO"
+  },
+  {
+    "id": "7318132008",
+    "district_id": "731813",
+    "name": "TURUNAN"
+  }
+]

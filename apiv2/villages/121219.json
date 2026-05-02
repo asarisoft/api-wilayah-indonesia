@@ -1,1 +1,52 @@
-[{"id": "1212191007", "district_id": "121219", "name": "SIGUMPAR DANGSINA"}, {"id": "1212192001", "district_id": "121219", "name": "MARSANGAP"}, {"id": "1212192002", "district_id": "121219", "name": "NAULI"}, {"id": "1212192003", "district_id": "121219", "name": "SITUA-TUA"}, {"id": "1212192004", "district_id": "121219", "name": "SIGUMPAR"}, {"id": "1212192005", "district_id": "121219", "name": "MAJU"}, {"id": "1212192006", "district_id": "121219", "name": "DOLOK JIOR"}, {"id": "1212192008", "district_id": "121219", "name": "SIGUMPAR JULU"}, {"id": "1212192009", "district_id": "121219", "name": "SIGUMPAR BARAT"}, {"id": "1212192010", "district_id": "121219", "name": "BANUA HUTA"}]
+[
+  {
+    "id": "1212191007",
+    "district_id": "121219",
+    "name": "SIGUMPAR DANGSINA"
+  },
+  {
+    "id": "1212192001",
+    "district_id": "121219",
+    "name": "MARSANGAP"
+  },
+  {
+    "id": "1212192002",
+    "district_id": "121219",
+    "name": "NAULI"
+  },
+  {
+    "id": "1212192003",
+    "district_id": "121219",
+    "name": "SITUA-TUA"
+  },
+  {
+    "id": "1212192004",
+    "district_id": "121219",
+    "name": "SIGUMPAR"
+  },
+  {
+    "id": "1212192005",
+    "district_id": "121219",
+    "name": "MAJU"
+  },
+  {
+    "id": "1212192006",
+    "district_id": "121219",
+    "name": "DOLOK JIOR"
+  },
+  {
+    "id": "1212192008",
+    "district_id": "121219",
+    "name": "SIGUMPAR JULU"
+  },
+  {
+    "id": "1212192009",
+    "district_id": "121219",
+    "name": "SIGUMPAR BARAT"
+  },
+  {
+    "id": "1212192010",
+    "district_id": "121219",
+    "name": "BANUA HUTA"
+  }
+]

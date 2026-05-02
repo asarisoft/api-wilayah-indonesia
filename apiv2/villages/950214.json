@@ -1,1 +1,27 @@
-[{"id": "9502142001", "district_id": "950214", "name": "OKSOP"}, {"id": "9502142002", "district_id": "950214", "name": "MIMIN"}, {"id": "9502142003", "district_id": "950214", "name": "ATENOR"}, {"id": "9502142004", "district_id": "950214", "name": "OKTUMI"}, {"id": "9502142005", "district_id": "950214", "name": "ALUTBAKON"}]
+[
+  {
+    "id": "9502142001",
+    "district_id": "950214",
+    "name": "OKSOP"
+  },
+  {
+    "id": "9502142002",
+    "district_id": "950214",
+    "name": "MIMIN"
+  },
+  {
+    "id": "9502142003",
+    "district_id": "950214",
+    "name": "ATENOR"
+  },
+  {
+    "id": "9502142004",
+    "district_id": "950214",
+    "name": "OKTUMI"
+  },
+  {
+    "id": "9502142005",
+    "district_id": "950214",
+    "name": "ALUTBAKON"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "9404022001", "district_id": "940402", "name": "KILIARMA"}, {"id": "9404022002", "district_id": "940402", "name": "AMUNGUN"}, {"id": "9404022003", "district_id": "940402", "name": "ARAMSOLKI"}, {"id": "9404022004", "district_id": "940402", "name": "FAKAFUKU"}, {"id": "9404022005", "district_id": "940402", "name": "MASASIMAMO"}, {"id": "9404022006", "district_id": "940402", "name": "EMOGOMA"}, {"id": "9404022007", "district_id": "940402", "name": "EMKOMA HALAMA"}, {"id": "9404022008", "district_id": "940402", "name": "HINAT UNTUNG"}]
+[
+  {
+    "id": "9404022001",
+    "district_id": "940402",
+    "name": "KILIARMA"
+  },
+  {
+    "id": "9404022002",
+    "district_id": "940402",
+    "name": "AMUNGUN"
+  },
+  {
+    "id": "9404022003",
+    "district_id": "940402",
+    "name": "ARAMSOLKI"
+  },
+  {
+    "id": "9404022004",
+    "district_id": "940402",
+    "name": "FAKAFUKU"
+  },
+  {
+    "id": "9404022005",
+    "district_id": "940402",
+    "name": "MASASIMAMO"
+  },
+  {
+    "id": "9404022006",
+    "district_id": "940402",
+    "name": "EMOGOMA"
+  },
+  {
+    "id": "9404022007",
+    "district_id": "940402",
+    "name": "EMKOMA HALAMA"
+  },
+  {
+    "id": "9404022008",
+    "district_id": "940402",
+    "name": "HINAT UNTUNG"
+  }
+]

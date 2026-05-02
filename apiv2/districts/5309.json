@@ -1,1 +1,62 @@
-[{"id": "530901", "regency_id": "5309", "name": "AIMERE"}, {"id": "530902", "regency_id": "5309", "name": "GOLEWA"}, {"id": "530906", "regency_id": "5309", "name": "BAJAWA"}, {"id": "530907", "regency_id": "5309", "name": "SOA"}, {"id": "530909", "regency_id": "5309", "name": "RIUNG"}, {"id": "530912", "regency_id": "5309", "name": "JEREBUU"}, {"id": "530914", "regency_id": "5309", "name": "RIUNG BARAT"}, {"id": "530915", "regency_id": "5309", "name": "BAJAWA UTARA"}, {"id": "530916", "regency_id": "5309", "name": "WOLOMEZE"}, {"id": "530918", "regency_id": "5309", "name": "GOLEWA SELATAN"}, {"id": "530919", "regency_id": "5309", "name": "GOLEWA BARAT"}, {"id": "530920", "regency_id": "5309", "name": "INERIE"}]
+[
+  {
+    "id": "530901",
+    "regency_id": "5309",
+    "name": "AIMERE"
+  },
+  {
+    "id": "530902",
+    "regency_id": "5309",
+    "name": "GOLEWA"
+  },
+  {
+    "id": "530906",
+    "regency_id": "5309",
+    "name": "BAJAWA"
+  },
+  {
+    "id": "530907",
+    "regency_id": "5309",
+    "name": "SOA"
+  },
+  {
+    "id": "530909",
+    "regency_id": "5309",
+    "name": "RIUNG"
+  },
+  {
+    "id": "530912",
+    "regency_id": "5309",
+    "name": "JEREBUU"
+  },
+  {
+    "id": "530914",
+    "regency_id": "5309",
+    "name": "RIUNG BARAT"
+  },
+  {
+    "id": "530915",
+    "regency_id": "5309",
+    "name": "BAJAWA UTARA"
+  },
+  {
+    "id": "530916",
+    "regency_id": "5309",
+    "name": "WOLOMEZE"
+  },
+  {
+    "id": "530918",
+    "regency_id": "5309",
+    "name": "GOLEWA SELATAN"
+  },
+  {
+    "id": "530919",
+    "regency_id": "5309",
+    "name": "GOLEWA BARAT"
+  },
+  {
+    "id": "530920",
+    "regency_id": "5309",
+    "name": "INERIE"
+  }
+]

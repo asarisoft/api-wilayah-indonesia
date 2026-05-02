@@ -1,1 +1,42 @@
-[{"id": "9503352001", "district_id": "950335", "name": "WANIM"}, {"id": "9503352002", "district_id": "950335", "name": "LOLAT"}, {"id": "9503352003", "district_id": "950335", "name": "BUNDE"}, {"id": "9503352004", "district_id": "950335", "name": "SERAHAK"}, {"id": "9503352005", "district_id": "950335", "name": "WEBILE"}, {"id": "9503352006", "district_id": "950335", "name": "DINGGILA"}, {"id": "9503352007", "district_id": "950335", "name": "ESALEK"}, {"id": "9503352008", "district_id": "950335", "name": "DENEMA"}]
+[
+  {
+    "id": "9503352001",
+    "district_id": "950335",
+    "name": "WANIM"
+  },
+  {
+    "id": "9503352002",
+    "district_id": "950335",
+    "name": "LOLAT"
+  },
+  {
+    "id": "9503352003",
+    "district_id": "950335",
+    "name": "BUNDE"
+  },
+  {
+    "id": "9503352004",
+    "district_id": "950335",
+    "name": "SERAHAK"
+  },
+  {
+    "id": "9503352005",
+    "district_id": "950335",
+    "name": "WEBILE"
+  },
+  {
+    "id": "9503352006",
+    "district_id": "950335",
+    "name": "DINGGILA"
+  },
+  {
+    "id": "9503352007",
+    "district_id": "950335",
+    "name": "ESALEK"
+  },
+  {
+    "id": "9503352008",
+    "district_id": "950335",
+    "name": "DENEMA"
+  }
+]

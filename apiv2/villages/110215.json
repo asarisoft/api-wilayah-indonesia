@@ -1,1 +1,72 @@
-[{"id": "1102152001", "district_id": "110215", "name": "SALIM PINIM I"}, {"id": "1102152002", "district_id": "110215", "name": "JAMBUR DAMAR"}, {"id": "1102152003", "district_id": "110215", "name": "ALUR LANGSAT"}, {"id": "1102152004", "district_id": "110215", "name": "RAMBAH SAYANG"}, {"id": "1102152006", "district_id": "110215", "name": "RUMAH LUAR"}, {"id": "1102152007", "district_id": "110215", "name": "TENEMBAK ALAS"}, {"id": "1102152008", "district_id": "110215", "name": "LAWE TUNGKAL"}, {"id": "1102152009", "district_id": "110215", "name": "SALIM PINIM II"}, {"id": "1102152010", "district_id": "110215", "name": "JAMBUKH PEKHMATE"}, {"id": "1102152011", "district_id": "110215", "name": "KHUTUNG MBELANG"}, {"id": "1102152012", "district_id": "110215", "name": "TIMANG RASA"}, {"id": "1102152013", "district_id": "110215", "name": "STAMBUL JAYA"}, {"id": "1102152014", "district_id": "110215", "name": "ALUR NANGKE"}, {"id": "1102152015", "district_id": "110215", "name": "KUTE MEJILE"}]
+[
+  {
+    "id": "1102152001",
+    "district_id": "110215",
+    "name": "SALIM PINIM I"
+  },
+  {
+    "id": "1102152002",
+    "district_id": "110215",
+    "name": "JAMBUR DAMAR"
+  },
+  {
+    "id": "1102152003",
+    "district_id": "110215",
+    "name": "ALUR LANGSAT"
+  },
+  {
+    "id": "1102152004",
+    "district_id": "110215",
+    "name": "RAMBAH SAYANG"
+  },
+  {
+    "id": "1102152006",
+    "district_id": "110215",
+    "name": "RUMAH LUAR"
+  },
+  {
+    "id": "1102152007",
+    "district_id": "110215",
+    "name": "TENEMBAK ALAS"
+  },
+  {
+    "id": "1102152008",
+    "district_id": "110215",
+    "name": "LAWE TUNGKAL"
+  },
+  {
+    "id": "1102152009",
+    "district_id": "110215",
+    "name": "SALIM PINIM II"
+  },
+  {
+    "id": "1102152010",
+    "district_id": "110215",
+    "name": "JAMBUKH PEKHMATE"
+  },
+  {
+    "id": "1102152011",
+    "district_id": "110215",
+    "name": "KHUTUNG MBELANG"
+  },
+  {
+    "id": "1102152012",
+    "district_id": "110215",
+    "name": "TIMANG RASA"
+  },
+  {
+    "id": "1102152013",
+    "district_id": "110215",
+    "name": "STAMBUL JAYA"
+  },
+  {
+    "id": "1102152014",
+    "district_id": "110215",
+    "name": "ALUR NANGKE"
+  },
+  {
+    "id": "1102152015",
+    "district_id": "110215",
+    "name": "KUTE MEJILE"
+  }
+]

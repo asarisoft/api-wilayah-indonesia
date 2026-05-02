@@ -1,1 +1,62 @@
-[{"id": "1409082001", "district_id": "140908", "name": "KOTO BARU"}, {"id": "1409082002", "district_id": "140908", "name": "PETAI"}, {"id": "1409082003", "district_id": "140908", "name": "SUNGAIPAKU"}, {"id": "1409082004", "district_id": "140908", "name": "TANJUNGPAUH"}, {"id": "1409082005", "district_id": "140908", "name": "SIMPANG RAYA"}, {"id": "1409082006", "district_id": "140908", "name": "SUNGAIBULUH"}, {"id": "1409082007", "district_id": "140908", "name": "SUKA DAMAI"}, {"id": "1409082008", "district_id": "140908", "name": "SUMBER JAYA"}, {"id": "1409082009", "district_id": "140908", "name": "MUARA BAHAN"}, {"id": "1409082010", "district_id": "140908", "name": "BUKITRAYA"}, {"id": "1409082011", "district_id": "140908", "name": "BERINGIN JAYA"}, {"id": "1409082012", "district_id": "140908", "name": "SUKA MAJU"}]
+[
+  {
+    "id": "1409082001",
+    "district_id": "140908",
+    "name": "KOTO BARU"
+  },
+  {
+    "id": "1409082002",
+    "district_id": "140908",
+    "name": "PETAI"
+  },
+  {
+    "id": "1409082003",
+    "district_id": "140908",
+    "name": "SUNGAIPAKU"
+  },
+  {
+    "id": "1409082004",
+    "district_id": "140908",
+    "name": "TANJUNGPAUH"
+  },
+  {
+    "id": "1409082005",
+    "district_id": "140908",
+    "name": "SIMPANG RAYA"
+  },
+  {
+    "id": "1409082006",
+    "district_id": "140908",
+    "name": "SUNGAIBULUH"
+  },
+  {
+    "id": "1409082007",
+    "district_id": "140908",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "1409082008",
+    "district_id": "140908",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1409082009",
+    "district_id": "140908",
+    "name": "MUARA BAHAN"
+  },
+  {
+    "id": "1409082010",
+    "district_id": "140908",
+    "name": "BUKITRAYA"
+  },
+  {
+    "id": "1409082011",
+    "district_id": "140908",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "1409082012",
+    "district_id": "140908",
+    "name": "SUKA MAJU"
+  }
+]

@@ -1,1 +1,197 @@
-[{"id": "1108032001", "district_id": "110803", "name": "MEUNASAH BLANG ARA"}, {"id": "1108032002", "district_id": "110803", "name": "MEUNASAH BUKET"}, {"id": "1108032003", "district_id": "110803", "name": "BLANG TALON"}, {"id": "1108032004", "district_id": "110803", "name": "COT RHEU"}, {"id": "1108032005", "district_id": "110803", "name": "KRUENG MANYANG"}, {"id": "1108032006", "district_id": "110803", "name": "BAYU"}, {"id": "1108032007", "district_id": "110803", "name": "BLANG ADO"}, {"id": "1108032008", "district_id": "110803", "name": "DAYAH MEUNARA"}, {"id": "1108032009", "district_id": "110803", "name": "MEUNASAH KUMBANG"}, {"id": "1108032010", "district_id": "110803", "name": "MEUNYE CUT BAHAGIA"}, {"id": "1108032011", "district_id": "110803", "name": "LHOK JOK"}, {"id": "1108032012", "district_id": "110803", "name": "ALUE RAMBEE"}, {"id": "1108032013", "district_id": "110803", "name": "BLANG RIEK"}, {"id": "1108032014", "district_id": "110803", "name": "CEMPEUDAK"}, {"id": "1108032015", "district_id": "110803", "name": "SEUNEUBOK DRIEN"}, {"id": "1108032016", "district_id": "110803", "name": "COT MERBO"}, {"id": "1108032017", "district_id": "110803", "name": "KEUDE BLANG ARA"}, {"id": "1108032018", "district_id": "110803", "name": "KEUDE KRUENG"}, {"id": "1108032019", "district_id": "110803", "name": "KRUENG SEUNONG"}, {"id": "1108032020", "district_id": "110803", "name": "PULO IBOIH"}, {"id": "1108032021", "district_id": "110803", "name": "BLANG GURAH"}, {"id": "1108032022", "district_id": "110803", "name": "GUHA ULEU"}, {"id": "1108032023", "district_id": "110803", "name": "CEUMEUCET"}, {"id": "1108032024", "district_id": "110803", "name": "PULO BARAT"}, {"id": "1108032025", "district_id": "110803", "name": "PULO RAYEUK"}, {"id": "1108032026", "district_id": "110803", "name": "COT SEUTUI"}, {"id": "1108032027", "district_id": "110803", "name": "LANGKUTA"}, {"id": "1108032028", "district_id": "110803", "name": "SAWEUK"}, {"id": "1108032029", "district_id": "110803", "name": "MEURIA"}, {"id": "1108032030", "district_id": "110803", "name": "MEUNASAH KULAM"}, {"id": "1108032031", "district_id": "110803", "name": "COT SEUMIYONG"}, {"id": "1108032032", "district_id": "110803", "name": "KEUREUSEK"}, {"id": "1108032033", "district_id": "110803", "name": "KRUENG SEUPENG"}, {"id": "1108032034", "district_id": "110803", "name": "MULING MANYANG"}, {"id": "1108032035", "district_id": "110803", "name": "MULING MEUCAT"}, {"id": "1108032036", "district_id": "110803", "name": "BABAH LUENG"}, {"id": "1108032037", "district_id": "110803", "name": "PANTON RAYEUK I"}, {"id": "1108032038", "district_id": "110803", "name": "PANTON RAYEUK II"}, {"id": "1108032039", "district_id": "110803", "name": "SIDO MULIYO"}]
+[
+  {
+    "id": "1108032001",
+    "district_id": "110803",
+    "name": "MEUNASAH BLANG ARA"
+  },
+  {
+    "id": "1108032002",
+    "district_id": "110803",
+    "name": "MEUNASAH BUKET"
+  },
+  {
+    "id": "1108032003",
+    "district_id": "110803",
+    "name": "BLANG TALON"
+  },
+  {
+    "id": "1108032004",
+    "district_id": "110803",
+    "name": "COT RHEU"
+  },
+  {
+    "id": "1108032005",
+    "district_id": "110803",
+    "name": "KRUENG MANYANG"
+  },
+  {
+    "id": "1108032006",
+    "district_id": "110803",
+    "name": "BAYU"
+  },
+  {
+    "id": "1108032007",
+    "district_id": "110803",
+    "name": "BLANG ADO"
+  },
+  {
+    "id": "1108032008",
+    "district_id": "110803",
+    "name": "DAYAH MEUNARA"
+  },
+  {
+    "id": "1108032009",
+    "district_id": "110803",
+    "name": "MEUNASAH KUMBANG"
+  },
+  {
+    "id": "1108032010",
+    "district_id": "110803",
+    "name": "MEUNYE CUT BAHAGIA"
+  },
+  {
+    "id": "1108032011",
+    "district_id": "110803",
+    "name": "LHOK JOK"
+  },
+  {
+    "id": "1108032012",
+    "district_id": "110803",
+    "name": "ALUE RAMBEE"
+  },
+  {
+    "id": "1108032013",
+    "district_id": "110803",
+    "name": "BLANG RIEK"
+  },
+  {
+    "id": "1108032014",
+    "district_id": "110803",
+    "name": "CEMPEUDAK"
+  },
+  {
+    "id": "1108032015",
+    "district_id": "110803",
+    "name": "SEUNEUBOK DRIEN"
+  },
+  {
+    "id": "1108032016",
+    "district_id": "110803",
+    "name": "COT MERBO"
+  },
+  {
+    "id": "1108032017",
+    "district_id": "110803",
+    "name": "KEUDE BLANG ARA"
+  },
+  {
+    "id": "1108032018",
+    "district_id": "110803",
+    "name": "KEUDE KRUENG"
+  },
+  {
+    "id": "1108032019",
+    "district_id": "110803",
+    "name": "KRUENG SEUNONG"
+  },
+  {
+    "id": "1108032020",
+    "district_id": "110803",
+    "name": "PULO IBOIH"
+  },
+  {
+    "id": "1108032021",
+    "district_id": "110803",
+    "name": "BLANG GURAH"
+  },
+  {
+    "id": "1108032022",
+    "district_id": "110803",
+    "name": "GUHA ULEU"
+  },
+  {
+    "id": "1108032023",
+    "district_id": "110803",
+    "name": "CEUMEUCET"
+  },
+  {
+    "id": "1108032024",
+    "district_id": "110803",
+    "name": "PULO BARAT"
+  },
+  {
+    "id": "1108032025",
+    "district_id": "110803",
+    "name": "PULO RAYEUK"
+  },
+  {
+    "id": "1108032026",
+    "district_id": "110803",
+    "name": "COT SEUTUI"
+  },
+  {
+    "id": "1108032027",
+    "district_id": "110803",
+    "name": "LANGKUTA"
+  },
+  {
+    "id": "1108032028",
+    "district_id": "110803",
+    "name": "SAWEUK"
+  },
+  {
+    "id": "1108032029",
+    "district_id": "110803",
+    "name": "MEURIA"
+  },
+  {
+    "id": "1108032030",
+    "district_id": "110803",
+    "name": "MEUNASAH KULAM"
+  },
+  {
+    "id": "1108032031",
+    "district_id": "110803",
+    "name": "COT SEUMIYONG"
+  },
+  {
+    "id": "1108032032",
+    "district_id": "110803",
+    "name": "KEUREUSEK"
+  },
+  {
+    "id": "1108032033",
+    "district_id": "110803",
+    "name": "KRUENG SEUPENG"
+  },
+  {
+    "id": "1108032034",
+    "district_id": "110803",
+    "name": "MULING MANYANG"
+  },
+  {
+    "id": "1108032035",
+    "district_id": "110803",
+    "name": "MULING MEUCAT"
+  },
+  {
+    "id": "1108032036",
+    "district_id": "110803",
+    "name": "BABAH LUENG"
+  },
+  {
+    "id": "1108032037",
+    "district_id": "110803",
+    "name": "PANTON RAYEUK I"
+  },
+  {
+    "id": "1108032038",
+    "district_id": "110803",
+    "name": "PANTON RAYEUK II"
+  },
+  {
+    "id": "1108032039",
+    "district_id": "110803",
+    "name": "SIDO MULIYO"
+  }
+]

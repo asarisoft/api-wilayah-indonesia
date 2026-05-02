@@ -1,1 +1,27 @@
-[{"id": "9171051001", "district_id": "917105", "name": "HEDAM"}, {"id": "9171051002", "district_id": "917105", "name": "WAENA"}, {"id": "9171051004", "district_id": "917105", "name": "YABANSAI"}, {"id": "9171052003", "district_id": "917105", "name": "YOKA"}, {"id": "9171052005", "district_id": "917105", "name": "WAENA"}]
+[
+  {
+    "id": "9171051001",
+    "district_id": "917105",
+    "name": "HEDAM"
+  },
+  {
+    "id": "9171051002",
+    "district_id": "917105",
+    "name": "WAENA"
+  },
+  {
+    "id": "9171051004",
+    "district_id": "917105",
+    "name": "YABANSAI"
+  },
+  {
+    "id": "9171052003",
+    "district_id": "917105",
+    "name": "YOKA"
+  },
+  {
+    "id": "9171052005",
+    "district_id": "917105",
+    "name": "WAENA"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "1605202001", "district_id": "160520", "name": "BANPRES"}, {"id": "1605202002", "district_id": "160520", "name": "JAYA TUNGGAL"}, {"id": "1605202003", "district_id": "160520", "name": "SUKAMULYA"}, {"id": "1605202004", "district_id": "160520", "name": "DARMA SAKTI"}, {"id": "1605202005", "district_id": "160520", "name": "JAYA BHAKTI"}, {"id": "1605202006", "district_id": "160520", "name": "REMAYU"}, {"id": "1605202007", "district_id": "160520", "name": "PETUNANG"}, {"id": "1605202008", "district_id": "160520", "name": "LUBUK RUMBAI"}, {"id": "1605202009", "district_id": "160520", "name": "AIR BELITI"}, {"id": "1605202010", "district_id": "160520", "name": "LEBAN JAYA"}, {"id": "1605202011", "district_id": "160520", "name": "BAMASCO"}]
+[
+  {
+    "id": "1605202001",
+    "district_id": "160520",
+    "name": "BANPRES"
+  },
+  {
+    "id": "1605202002",
+    "district_id": "160520",
+    "name": "JAYA TUNGGAL"
+  },
+  {
+    "id": "1605202003",
+    "district_id": "160520",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "1605202004",
+    "district_id": "160520",
+    "name": "DARMA SAKTI"
+  },
+  {
+    "id": "1605202005",
+    "district_id": "160520",
+    "name": "JAYA BHAKTI"
+  },
+  {
+    "id": "1605202006",
+    "district_id": "160520",
+    "name": "REMAYU"
+  },
+  {
+    "id": "1605202007",
+    "district_id": "160520",
+    "name": "PETUNANG"
+  },
+  {
+    "id": "1605202008",
+    "district_id": "160520",
+    "name": "LUBUK RUMBAI"
+  },
+  {
+    "id": "1605202009",
+    "district_id": "160520",
+    "name": "AIR BELITI"
+  },
+  {
+    "id": "1605202010",
+    "district_id": "160520",
+    "name": "LEBAN JAYA"
+  },
+  {
+    "id": "1605202011",
+    "district_id": "160520",
+    "name": "BAMASCO"
+  }
+]

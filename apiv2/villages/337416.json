@@ -1,1 +1,37 @@
-[{"id": "3374161001", "district_id": "337416", "name": "JERAKAH"}, {"id": "3374161002", "district_id": "337416", "name": "TUGUREJO"}, {"id": "3374161003", "district_id": "337416", "name": "KARANGANYAR"}, {"id": "3374161004", "district_id": "337416", "name": "RANDUGARUT"}, {"id": "3374161005", "district_id": "337416", "name": "MANGKANG WETAN"}, {"id": "3374161006", "district_id": "337416", "name": "MANGKANG KULON"}, {"id": "3374161007", "district_id": "337416", "name": "MANGUNHARJO"}]
+[
+  {
+    "id": "3374161001",
+    "district_id": "337416",
+    "name": "JERAKAH"
+  },
+  {
+    "id": "3374161002",
+    "district_id": "337416",
+    "name": "TUGUREJO"
+  },
+  {
+    "id": "3374161003",
+    "district_id": "337416",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3374161004",
+    "district_id": "337416",
+    "name": "RANDUGARUT"
+  },
+  {
+    "id": "3374161005",
+    "district_id": "337416",
+    "name": "MANGKANG WETAN"
+  },
+  {
+    "id": "3374161006",
+    "district_id": "337416",
+    "name": "MANGKANG KULON"
+  },
+  {
+    "id": "3374161007",
+    "district_id": "337416",
+    "name": "MANGUNHARJO"
+  }
+]

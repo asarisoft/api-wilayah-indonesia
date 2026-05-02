@@ -1,1 +1,52 @@
-[{"id": "1406051001", "district_id": "140605", "name": "KEPENUHANTENGAH"}, {"id": "1406052003", "district_id": "140605", "name": "KEPENUHAN BARAT"}, {"id": "1406052004", "district_id": "140605", "name": "KEPENUHAN HILIR"}, {"id": "1406052005", "district_id": "140605", "name": "KEPENUHAN TIMUR"}, {"id": "1406052006", "district_id": "140605", "name": "KEPENUHAN BARAT SEI ROKAN JAYA"}, {"id": "1406052007", "district_id": "140605", "name": "KEPENUHAN RAYA"}, {"id": "1406052008", "district_id": "140605", "name": "KEPENUHAN BARU"}, {"id": "1406052009", "district_id": "140605", "name": "KEPENUHAN BARAT MULYA"}, {"id": "1406052010", "district_id": "140605", "name": "ULAK PATIAN"}, {"id": "1406052012", "district_id": "140605", "name": "RANTAU BINUANG SAKTI"}]
+[
+  {
+    "id": "1406051001",
+    "district_id": "140605",
+    "name": "KEPENUHANTENGAH"
+  },
+  {
+    "id": "1406052003",
+    "district_id": "140605",
+    "name": "KEPENUHAN BARAT"
+  },
+  {
+    "id": "1406052004",
+    "district_id": "140605",
+    "name": "KEPENUHAN HILIR"
+  },
+  {
+    "id": "1406052005",
+    "district_id": "140605",
+    "name": "KEPENUHAN TIMUR"
+  },
+  {
+    "id": "1406052006",
+    "district_id": "140605",
+    "name": "KEPENUHAN BARAT SEI ROKAN JAYA"
+  },
+  {
+    "id": "1406052007",
+    "district_id": "140605",
+    "name": "KEPENUHAN RAYA"
+  },
+  {
+    "id": "1406052008",
+    "district_id": "140605",
+    "name": "KEPENUHAN BARU"
+  },
+  {
+    "id": "1406052009",
+    "district_id": "140605",
+    "name": "KEPENUHAN BARAT MULYA"
+  },
+  {
+    "id": "1406052010",
+    "district_id": "140605",
+    "name": "ULAK PATIAN"
+  },
+  {
+    "id": "1406052012",
+    "district_id": "140605",
+    "name": "RANTAU BINUANG SAKTI"
+  }
+]

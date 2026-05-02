@@ -1,1 +1,102 @@
-[{"id": "3308212001", "district_id": "330821", "name": "WINDUSARI"}, {"id": "3308212002", "district_id": "330821", "name": "PASANGSARI"}, {"id": "3308212003", "district_id": "330821", "name": "CANDISARI"}, {"id": "3308212004", "district_id": "330821", "name": "BANDARSEDAYU"}, {"id": "3308212005", "district_id": "330821", "name": "BANJARSARI"}, {"id": "3308212006", "district_id": "330821", "name": "BALESARI"}, {"id": "3308212007", "district_id": "330821", "name": "KEMBANGKUNING"}, {"id": "3308212008", "district_id": "330821", "name": "TANJUNGSARI"}, {"id": "3308212009", "district_id": "330821", "name": "WONOROTO"}, {"id": "3308212010", "district_id": "330821", "name": "GENITO"}, {"id": "3308212011", "district_id": "330821", "name": "KENTENGSARI"}, {"id": "3308212012", "district_id": "330821", "name": "UMBULSARI"}, {"id": "3308212013", "district_id": "330821", "name": "SEMEN"}, {"id": "3308212014", "district_id": "330821", "name": "DAMPIT"}, {"id": "3308212015", "district_id": "330821", "name": "GIRIMULYO"}, {"id": "3308212016", "district_id": "330821", "name": "NGEMPLAK"}, {"id": "3308212017", "district_id": "330821", "name": "GUNUNGSARI"}, {"id": "3308212018", "district_id": "330821", "name": "KALIJOSO"}, {"id": "3308212019", "district_id": "330821", "name": "MANGUNSARI"}, {"id": "3308212020", "district_id": "330821", "name": "GONDANGREJO"}]
+[
+  {
+    "id": "3308212001",
+    "district_id": "330821",
+    "name": "WINDUSARI"
+  },
+  {
+    "id": "3308212002",
+    "district_id": "330821",
+    "name": "PASANGSARI"
+  },
+  {
+    "id": "3308212003",
+    "district_id": "330821",
+    "name": "CANDISARI"
+  },
+  {
+    "id": "3308212004",
+    "district_id": "330821",
+    "name": "BANDARSEDAYU"
+  },
+  {
+    "id": "3308212005",
+    "district_id": "330821",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3308212006",
+    "district_id": "330821",
+    "name": "BALESARI"
+  },
+  {
+    "id": "3308212007",
+    "district_id": "330821",
+    "name": "KEMBANGKUNING"
+  },
+  {
+    "id": "3308212008",
+    "district_id": "330821",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3308212009",
+    "district_id": "330821",
+    "name": "WONOROTO"
+  },
+  {
+    "id": "3308212010",
+    "district_id": "330821",
+    "name": "GENITO"
+  },
+  {
+    "id": "3308212011",
+    "district_id": "330821",
+    "name": "KENTENGSARI"
+  },
+  {
+    "id": "3308212012",
+    "district_id": "330821",
+    "name": "UMBULSARI"
+  },
+  {
+    "id": "3308212013",
+    "district_id": "330821",
+    "name": "SEMEN"
+  },
+  {
+    "id": "3308212014",
+    "district_id": "330821",
+    "name": "DAMPIT"
+  },
+  {
+    "id": "3308212015",
+    "district_id": "330821",
+    "name": "GIRIMULYO"
+  },
+  {
+    "id": "3308212016",
+    "district_id": "330821",
+    "name": "NGEMPLAK"
+  },
+  {
+    "id": "3308212017",
+    "district_id": "330821",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3308212018",
+    "district_id": "330821",
+    "name": "KALIJOSO"
+  },
+  {
+    "id": "3308212019",
+    "district_id": "330821",
+    "name": "MANGUNSARI"
+  },
+  {
+    "id": "3308212020",
+    "district_id": "330821",
+    "name": "GONDANGREJO"
+  }
+]

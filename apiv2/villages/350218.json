@@ -1,1 +1,87 @@
-[{"id": "3502181001", "district_id": "350218", "name": "SETONO"}, {"id": "3502181002", "district_id": "350218", "name": "SINGOSAREN"}, {"id": "3502182003", "district_id": "350218", "name": "MRICAN"}, {"id": "3502182004", "district_id": "350218", "name": "PLALANGAN"}, {"id": "3502182005", "district_id": "350218", "name": "NGLAYANG"}, {"id": "3502182006", "district_id": "350218", "name": "JENANGAN"}, {"id": "3502182007", "district_id": "350218", "name": "JIMBE"}, {"id": "3502182008", "district_id": "350218", "name": "NGRUPIT"}, {"id": "3502182009", "district_id": "350218", "name": "PINTU"}, {"id": "3502182010", "district_id": "350218", "name": "SEDAH"}, {"id": "3502182011", "district_id": "350218", "name": "PANJENG"}, {"id": "3502182012", "district_id": "350218", "name": "SRATEN"}, {"id": "3502182013", "district_id": "350218", "name": "SEMANDING"}, {"id": "3502182014", "district_id": "350218", "name": "TANJUNGSARI"}, {"id": "3502182015", "district_id": "350218", "name": "PARINGAN"}, {"id": "3502182016", "district_id": "350218", "name": "WATES"}, {"id": "3502182017", "district_id": "350218", "name": "KEMIRI"}]
+[
+  {
+    "id": "3502181001",
+    "district_id": "350218",
+    "name": "SETONO"
+  },
+  {
+    "id": "3502181002",
+    "district_id": "350218",
+    "name": "SINGOSAREN"
+  },
+  {
+    "id": "3502182003",
+    "district_id": "350218",
+    "name": "MRICAN"
+  },
+  {
+    "id": "3502182004",
+    "district_id": "350218",
+    "name": "PLALANGAN"
+  },
+  {
+    "id": "3502182005",
+    "district_id": "350218",
+    "name": "NGLAYANG"
+  },
+  {
+    "id": "3502182006",
+    "district_id": "350218",
+    "name": "JENANGAN"
+  },
+  {
+    "id": "3502182007",
+    "district_id": "350218",
+    "name": "JIMBE"
+  },
+  {
+    "id": "3502182008",
+    "district_id": "350218",
+    "name": "NGRUPIT"
+  },
+  {
+    "id": "3502182009",
+    "district_id": "350218",
+    "name": "PINTU"
+  },
+  {
+    "id": "3502182010",
+    "district_id": "350218",
+    "name": "SEDAH"
+  },
+  {
+    "id": "3502182011",
+    "district_id": "350218",
+    "name": "PANJENG"
+  },
+  {
+    "id": "3502182012",
+    "district_id": "350218",
+    "name": "SRATEN"
+  },
+  {
+    "id": "3502182013",
+    "district_id": "350218",
+    "name": "SEMANDING"
+  },
+  {
+    "id": "3502182014",
+    "district_id": "350218",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3502182015",
+    "district_id": "350218",
+    "name": "PARINGAN"
+  },
+  {
+    "id": "3502182016",
+    "district_id": "350218",
+    "name": "WATES"
+  },
+  {
+    "id": "3502182017",
+    "district_id": "350218",
+    "name": "KEMIRI"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "1813052001", "district_id": "181305", "name": "KEBUAYAN"}, {"id": "1813052002", "district_id": "181305", "name": "WAY NUKAK"}, {"id": "1813052003", "district_id": "181305", "name": "WAY SINDI"}, {"id": "1813052004", "district_id": "181305", "name": "PENENGAHAN"}, {"id": "1813052005", "district_id": "181305", "name": "MENYANCANG"}, {"id": "1813052006", "district_id": "181305", "name": "LAAY"}, {"id": "1813052007", "district_id": "181305", "name": "PENGGAWA V ULU"}, {"id": "1813052008", "district_id": "181305", "name": "PENGGAWA V TENGAH"}, {"id": "1813052009", "district_id": "181305", "name": "WAY SINDI UTARA"}, {"id": "1813052010", "district_id": "181305", "name": "TEMBAKAK WAY SINDI"}, {"id": "1813052011", "district_id": "181305", "name": "WAY SINDI HANUAN"}, {"id": "1813052012", "district_id": "181305", "name": "ASAHAN WAY SINDI"}]
+[
+  {
+    "id": "1813052001",
+    "district_id": "181305",
+    "name": "KEBUAYAN"
+  },
+  {
+    "id": "1813052002",
+    "district_id": "181305",
+    "name": "WAY NUKAK"
+  },
+  {
+    "id": "1813052003",
+    "district_id": "181305",
+    "name": "WAY SINDI"
+  },
+  {
+    "id": "1813052004",
+    "district_id": "181305",
+    "name": "PENENGAHAN"
+  },
+  {
+    "id": "1813052005",
+    "district_id": "181305",
+    "name": "MENYANCANG"
+  },
+  {
+    "id": "1813052006",
+    "district_id": "181305",
+    "name": "LAAY"
+  },
+  {
+    "id": "1813052007",
+    "district_id": "181305",
+    "name": "PENGGAWA V ULU"
+  },
+  {
+    "id": "1813052008",
+    "district_id": "181305",
+    "name": "PENGGAWA V TENGAH"
+  },
+  {
+    "id": "1813052009",
+    "district_id": "181305",
+    "name": "WAY SINDI UTARA"
+  },
+  {
+    "id": "1813052010",
+    "district_id": "181305",
+    "name": "TEMBAKAK WAY SINDI"
+  },
+  {
+    "id": "1813052011",
+    "district_id": "181305",
+    "name": "WAY SINDI HANUAN"
+  },
+  {
+    "id": "1813052012",
+    "district_id": "181305",
+    "name": "ASAHAN WAY SINDI"
+  }
+]

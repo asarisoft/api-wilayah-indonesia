@@ -1,1 +1,47 @@
-[{"id": "3211252001", "district_id": "321125", "name": "UJUNGJAYA"}, {"id": "3211252002", "district_id": "321125", "name": "PALABUAN"}, {"id": "3211252003", "district_id": "321125", "name": "PALASARI"}, {"id": "3211252004", "district_id": "321125", "name": "KEBONCAU"}, {"id": "3211252005", "district_id": "321125", "name": "SAKURJAYA"}, {"id": "3211252006", "district_id": "321125", "name": "KUDANGWANGI"}, {"id": "3211252007", "district_id": "321125", "name": "SUKAMULYA"}, {"id": "3211252008", "district_id": "321125", "name": "CIPELANG"}, {"id": "3211252009", "district_id": "321125", "name": "CIBULUH"}]
+[
+  {
+    "id": "3211252001",
+    "district_id": "321125",
+    "name": "UJUNGJAYA"
+  },
+  {
+    "id": "3211252002",
+    "district_id": "321125",
+    "name": "PALABUAN"
+  },
+  {
+    "id": "3211252003",
+    "district_id": "321125",
+    "name": "PALASARI"
+  },
+  {
+    "id": "3211252004",
+    "district_id": "321125",
+    "name": "KEBONCAU"
+  },
+  {
+    "id": "3211252005",
+    "district_id": "321125",
+    "name": "SAKURJAYA"
+  },
+  {
+    "id": "3211252006",
+    "district_id": "321125",
+    "name": "KUDANGWANGI"
+  },
+  {
+    "id": "3211252007",
+    "district_id": "321125",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3211252008",
+    "district_id": "321125",
+    "name": "CIPELANG"
+  },
+  {
+    "id": "3211252009",
+    "district_id": "321125",
+    "name": "CIBULUH"
+  }
+]

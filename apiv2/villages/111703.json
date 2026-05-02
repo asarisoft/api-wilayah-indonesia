@@ -1,1 +1,72 @@
-[{"id": "1117032001", "district_id": "111703", "name": "BLANG PANU"}, {"id": "1117032003", "district_id": "111703", "name": "GERPA"}, {"id": "1117032004", "district_id": "111703", "name": "GONENG"}, {"id": "1117032007", "district_id": "111703", "name": "KERLANG"}, {"id": "1117032008", "district_id": "111703", "name": "KUTELAH LANE"}, {"id": "1117032009", "district_id": "111703", "name": "PASIR PUTIH"}, {"id": "1117032010", "district_id": "111703", "name": "PAYUNG"}, {"id": "1117032012", "district_id": "111703", "name": "RUSIP"}, {"id": "1117032014", "district_id": "111703", "name": "TEMBOLON"}, {"id": "1117032015", "district_id": "111703", "name": "UNING"}, {"id": "1117032016", "district_id": "111703", "name": "WIHNI DURIN"}, {"id": "1117032017", "district_id": "111703", "name": "RATA MULIE"}, {"id": "1117032018", "district_id": "111703", "name": "TEMPEN BARU"}, {"id": "1117032019", "district_id": "111703", "name": "GERUTI JAYA"}]
+[
+  {
+    "id": "1117032001",
+    "district_id": "111703",
+    "name": "BLANG PANU"
+  },
+  {
+    "id": "1117032003",
+    "district_id": "111703",
+    "name": "GERPA"
+  },
+  {
+    "id": "1117032004",
+    "district_id": "111703",
+    "name": "GONENG"
+  },
+  {
+    "id": "1117032007",
+    "district_id": "111703",
+    "name": "KERLANG"
+  },
+  {
+    "id": "1117032008",
+    "district_id": "111703",
+    "name": "KUTELAH LANE"
+  },
+  {
+    "id": "1117032009",
+    "district_id": "111703",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "1117032010",
+    "district_id": "111703",
+    "name": "PAYUNG"
+  },
+  {
+    "id": "1117032012",
+    "district_id": "111703",
+    "name": "RUSIP"
+  },
+  {
+    "id": "1117032014",
+    "district_id": "111703",
+    "name": "TEMBOLON"
+  },
+  {
+    "id": "1117032015",
+    "district_id": "111703",
+    "name": "UNING"
+  },
+  {
+    "id": "1117032016",
+    "district_id": "111703",
+    "name": "WIHNI DURIN"
+  },
+  {
+    "id": "1117032017",
+    "district_id": "111703",
+    "name": "RATA MULIE"
+  },
+  {
+    "id": "1117032018",
+    "district_id": "111703",
+    "name": "TEMPEN BARU"
+  },
+  {
+    "id": "1117032019",
+    "district_id": "111703",
+    "name": "GERUTI JAYA"
+  }
+]

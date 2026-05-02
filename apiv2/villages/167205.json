@@ -1,1 +1,27 @@
-[{"id": "1672051001", "district_id": "167205", "name": "KARANG DALO"}, {"id": "1672051003", "district_id": "167205", "name": "PELANG KENIDAI"}, {"id": "1672051008", "district_id": "167205", "name": "JOKOH"}, {"id": "1672051011", "district_id": "167205", "name": "PADANG TEMU"}, {"id": "1672051012", "district_id": "167205", "name": "CANDI JAYA"}]
+[
+  {
+    "id": "1672051001",
+    "district_id": "167205",
+    "name": "KARANG DALO"
+  },
+  {
+    "id": "1672051003",
+    "district_id": "167205",
+    "name": "PELANG KENIDAI"
+  },
+  {
+    "id": "1672051008",
+    "district_id": "167205",
+    "name": "JOKOH"
+  },
+  {
+    "id": "1672051011",
+    "district_id": "167205",
+    "name": "PADANG TEMU"
+  },
+  {
+    "id": "1672051012",
+    "district_id": "167205",
+    "name": "CANDI JAYA"
+  }
+]

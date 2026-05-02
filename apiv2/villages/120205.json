@@ -1,1 +1,97 @@
-[{"id": "1202051001", "district_id": "120205", "name": "ONAN HASANG"}, {"id": "1202052002", "district_id": "120205", "name": "SIMASOM"}, {"id": "1202052003", "district_id": "120205", "name": "JANJI NATOGU"}, {"id": "1202052004", "district_id": "120205", "name": "PAGUR DOTAN"}, {"id": "1202052005", "district_id": "120205", "name": "SIBAGANDING"}, {"id": "1202052006", "district_id": "120205", "name": "LUMBAN GARAGA"}, {"id": "1202052007", "district_id": "120205", "name": "SITOLU AMA"}, {"id": "1202052008", "district_id": "120205", "name": "LUMBAN TONGA"}, {"id": "1202052009", "district_id": "120205", "name": "LUMBAN DOLOK"}, {"id": "1202052010", "district_id": "120205", "name": "SIMATANIARI"}, {"id": "1202052011", "district_id": "120205", "name": "LUMBAN JAEAN"}, {"id": "1202052012", "district_id": "120205", "name": "HUTA BARAT"}, {"id": "1202052013", "district_id": "120205", "name": "LONTUNG DOLOK"}, {"id": "1202052014", "district_id": "120205", "name": "SIMANAMPANG"}, {"id": "1202052015", "district_id": "120205", "name": "LOBU PINING"}, {"id": "1202052016", "district_id": "120205", "name": "PANTIS"}, {"id": "1202052017", "district_id": "120205", "name": "LUMBAN GAOL"}, {"id": "1202052018", "district_id": "120205", "name": "SIMARDANGIANG"}, {"id": "1202052019", "district_id": "120205", "name": "SIMASOM TORUAN"}]
+[
+  {
+    "id": "1202051001",
+    "district_id": "120205",
+    "name": "ONAN HASANG"
+  },
+  {
+    "id": "1202052002",
+    "district_id": "120205",
+    "name": "SIMASOM"
+  },
+  {
+    "id": "1202052003",
+    "district_id": "120205",
+    "name": "JANJI NATOGU"
+  },
+  {
+    "id": "1202052004",
+    "district_id": "120205",
+    "name": "PAGUR DOTAN"
+  },
+  {
+    "id": "1202052005",
+    "district_id": "120205",
+    "name": "SIBAGANDING"
+  },
+  {
+    "id": "1202052006",
+    "district_id": "120205",
+    "name": "LUMBAN GARAGA"
+  },
+  {
+    "id": "1202052007",
+    "district_id": "120205",
+    "name": "SITOLU AMA"
+  },
+  {
+    "id": "1202052008",
+    "district_id": "120205",
+    "name": "LUMBAN TONGA"
+  },
+  {
+    "id": "1202052009",
+    "district_id": "120205",
+    "name": "LUMBAN DOLOK"
+  },
+  {
+    "id": "1202052010",
+    "district_id": "120205",
+    "name": "SIMATANIARI"
+  },
+  {
+    "id": "1202052011",
+    "district_id": "120205",
+    "name": "LUMBAN JAEAN"
+  },
+  {
+    "id": "1202052012",
+    "district_id": "120205",
+    "name": "HUTA BARAT"
+  },
+  {
+    "id": "1202052013",
+    "district_id": "120205",
+    "name": "LONTUNG DOLOK"
+  },
+  {
+    "id": "1202052014",
+    "district_id": "120205",
+    "name": "SIMANAMPANG"
+  },
+  {
+    "id": "1202052015",
+    "district_id": "120205",
+    "name": "LOBU PINING"
+  },
+  {
+    "id": "1202052016",
+    "district_id": "120205",
+    "name": "PANTIS"
+  },
+  {
+    "id": "1202052017",
+    "district_id": "120205",
+    "name": "LUMBAN GAOL"
+  },
+  {
+    "id": "1202052018",
+    "district_id": "120205",
+    "name": "SIMARDANGIANG"
+  },
+  {
+    "id": "1202052019",
+    "district_id": "120205",
+    "name": "SIMASOM TORUAN"
+  }
+]

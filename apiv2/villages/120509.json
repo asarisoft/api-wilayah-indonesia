@@ -1,1 +1,87 @@
-[{"id": "1205091004", "district_id": "120509", "name": "HINAI KIRI"}, {"id": "1205092001", "district_id": "120509", "name": "KEPALA SUNGAI"}, {"id": "1205092002", "district_id": "120509", "name": "TELUK"}, {"id": "1205092003", "district_id": "120509", "name": "CINTA RAJA"}, {"id": "1205092005", "district_id": "120509", "name": "KEBUN KELAPA"}, {"id": "1205092006", "district_id": "120509", "name": "SUNGAI ULAR"}, {"id": "1205092007", "district_id": "120509", "name": "TANJUNG IBUS"}, {"id": "1205092008", "district_id": "120509", "name": "SECANGGANG"}, {"id": "1205092009", "district_id": "120509", "name": "SELOTONG"}, {"id": "1205092010", "district_id": "120509", "name": "KARANG GADING"}, {"id": "1205092011", "district_id": "120509", "name": "JARING HALUS"}, {"id": "1205092012", "district_id": "120509", "name": "TELAGA JERNIH"}, {"id": "1205092013", "district_id": "120509", "name": "PERKOTAAN"}, {"id": "1205092014", "district_id": "120509", "name": "KWALA BESAR"}, {"id": "1205092015", "district_id": "120509", "name": "KARANG ANYAR"}, {"id": "1205092016", "district_id": "120509", "name": "PANTAI GADING"}, {"id": "1205092017", "district_id": "120509", "name": "SUKA MULIA"}]
+[
+  {
+    "id": "1205091004",
+    "district_id": "120509",
+    "name": "HINAI KIRI"
+  },
+  {
+    "id": "1205092001",
+    "district_id": "120509",
+    "name": "KEPALA SUNGAI"
+  },
+  {
+    "id": "1205092002",
+    "district_id": "120509",
+    "name": "TELUK"
+  },
+  {
+    "id": "1205092003",
+    "district_id": "120509",
+    "name": "CINTA RAJA"
+  },
+  {
+    "id": "1205092005",
+    "district_id": "120509",
+    "name": "KEBUN KELAPA"
+  },
+  {
+    "id": "1205092006",
+    "district_id": "120509",
+    "name": "SUNGAI ULAR"
+  },
+  {
+    "id": "1205092007",
+    "district_id": "120509",
+    "name": "TANJUNG IBUS"
+  },
+  {
+    "id": "1205092008",
+    "district_id": "120509",
+    "name": "SECANGGANG"
+  },
+  {
+    "id": "1205092009",
+    "district_id": "120509",
+    "name": "SELOTONG"
+  },
+  {
+    "id": "1205092010",
+    "district_id": "120509",
+    "name": "KARANG GADING"
+  },
+  {
+    "id": "1205092011",
+    "district_id": "120509",
+    "name": "JARING HALUS"
+  },
+  {
+    "id": "1205092012",
+    "district_id": "120509",
+    "name": "TELAGA JERNIH"
+  },
+  {
+    "id": "1205092013",
+    "district_id": "120509",
+    "name": "PERKOTAAN"
+  },
+  {
+    "id": "1205092014",
+    "district_id": "120509",
+    "name": "KWALA BESAR"
+  },
+  {
+    "id": "1205092015",
+    "district_id": "120509",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1205092016",
+    "district_id": "120509",
+    "name": "PANTAI GADING"
+  },
+  {
+    "id": "1205092017",
+    "district_id": "120509",
+    "name": "SUKA MULIA"
+  }
+]

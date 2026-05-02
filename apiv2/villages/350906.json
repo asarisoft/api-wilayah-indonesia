@@ -1,1 +1,42 @@
-[{"id": "3509062001", "district_id": "350906", "name": "TANGGULKULON"}, {"id": "3509062002", "district_id": "350906", "name": "TANGGULWETAN"}, {"id": "3509062003", "district_id": "350906", "name": "PATEMON"}, {"id": "3509062004", "district_id": "350906", "name": "DARUNGAN"}, {"id": "3509062005", "district_id": "350906", "name": "MANGGISAN"}, {"id": "3509062006", "district_id": "350906", "name": "SELODAKON"}, {"id": "3509062007", "district_id": "350906", "name": "KRAMAT SUKOHARJO"}, {"id": "3509062008", "district_id": "350906", "name": "KLATAKAN"}]
+[
+  {
+    "id": "3509062001",
+    "district_id": "350906",
+    "name": "TANGGULKULON"
+  },
+  {
+    "id": "3509062002",
+    "district_id": "350906",
+    "name": "TANGGULWETAN"
+  },
+  {
+    "id": "3509062003",
+    "district_id": "350906",
+    "name": "PATEMON"
+  },
+  {
+    "id": "3509062004",
+    "district_id": "350906",
+    "name": "DARUNGAN"
+  },
+  {
+    "id": "3509062005",
+    "district_id": "350906",
+    "name": "MANGGISAN"
+  },
+  {
+    "id": "3509062006",
+    "district_id": "350906",
+    "name": "SELODAKON"
+  },
+  {
+    "id": "3509062007",
+    "district_id": "350906",
+    "name": "KRAMAT SUKOHARJO"
+  },
+  {
+    "id": "3509062008",
+    "district_id": "350906",
+    "name": "KLATAKAN"
+  }
+]

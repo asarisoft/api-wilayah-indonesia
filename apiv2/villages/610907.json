@@ -1,1 +1,37 @@
-[{"id": "6109072001", "district_id": "610907", "name": "NANGA ANSAR"}, {"id": "6109072002", "district_id": "610907", "name": "PADAK"}, {"id": "6109072003", "district_id": "610907", "name": "SETUNTUNG"}, {"id": "6109072004", "district_id": "610907", "name": "BELITANG SATU"}, {"id": "6109072005", "district_id": "610907", "name": "BELITANG DUA"}, {"id": "6109072006", "district_id": "610907", "name": "MENUA PRAMA"}, {"id": "6109072007", "district_id": "610907", "name": "MABOH PERMAI"}]
+[
+  {
+    "id": "6109072001",
+    "district_id": "610907",
+    "name": "NANGA ANSAR"
+  },
+  {
+    "id": "6109072002",
+    "district_id": "610907",
+    "name": "PADAK"
+  },
+  {
+    "id": "6109072003",
+    "district_id": "610907",
+    "name": "SETUNTUNG"
+  },
+  {
+    "id": "6109072004",
+    "district_id": "610907",
+    "name": "BELITANG SATU"
+  },
+  {
+    "id": "6109072005",
+    "district_id": "610907",
+    "name": "BELITANG DUA"
+  },
+  {
+    "id": "6109072006",
+    "district_id": "610907",
+    "name": "MENUA PRAMA"
+  },
+  {
+    "id": "6109072007",
+    "district_id": "610907",
+    "name": "MABOH PERMAI"
+  }
+]

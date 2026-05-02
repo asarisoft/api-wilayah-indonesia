@@ -1,1 +1,77 @@
-[{"id": "1408021001", "district_id": "140802", "name": "SUNGAI APIT"}, {"id": "1408022002", "district_id": "140802", "name": "TELUK LANUS"}, {"id": "1408022003", "district_id": "140802", "name": "TANJUNG KURAS"}, {"id": "1408022004", "district_id": "140802", "name": "PARIT I/II"}, {"id": "1408022005", "district_id": "140802", "name": "TELUK MESJID"}, {"id": "1408022008", "district_id": "140802", "name": "SUNGAI KAYU ARA"}, {"id": "1408022009", "district_id": "140802", "name": "LALANG"}, {"id": "1408022010", "district_id": "140802", "name": "MENGKAPAN"}, {"id": "1408022011", "district_id": "140802", "name": "SUNGAI RAWA"}, {"id": "1408022012", "district_id": "140802", "name": "PENYENGAT"}, {"id": "1408022014", "district_id": "140802", "name": "TELUK BATIL"}, {"id": "1408022016", "district_id": "140802", "name": "BUNSUR"}, {"id": "1408022017", "district_id": "140802", "name": "HARAPAN"}, {"id": "1408022019", "district_id": "140802", "name": "KAYU ARA PERMAI"}, {"id": "1408022020", "district_id": "140802", "name": "RAWA MEKAR JAYA"}]
+[
+  {
+    "id": "1408021001",
+    "district_id": "140802",
+    "name": "SUNGAI APIT"
+  },
+  {
+    "id": "1408022002",
+    "district_id": "140802",
+    "name": "TELUK LANUS"
+  },
+  {
+    "id": "1408022003",
+    "district_id": "140802",
+    "name": "TANJUNG KURAS"
+  },
+  {
+    "id": "1408022004",
+    "district_id": "140802",
+    "name": "PARIT I/II"
+  },
+  {
+    "id": "1408022005",
+    "district_id": "140802",
+    "name": "TELUK MESJID"
+  },
+  {
+    "id": "1408022008",
+    "district_id": "140802",
+    "name": "SUNGAI KAYU ARA"
+  },
+  {
+    "id": "1408022009",
+    "district_id": "140802",
+    "name": "LALANG"
+  },
+  {
+    "id": "1408022010",
+    "district_id": "140802",
+    "name": "MENGKAPAN"
+  },
+  {
+    "id": "1408022011",
+    "district_id": "140802",
+    "name": "SUNGAI RAWA"
+  },
+  {
+    "id": "1408022012",
+    "district_id": "140802",
+    "name": "PENYENGAT"
+  },
+  {
+    "id": "1408022014",
+    "district_id": "140802",
+    "name": "TELUK BATIL"
+  },
+  {
+    "id": "1408022016",
+    "district_id": "140802",
+    "name": "BUNSUR"
+  },
+  {
+    "id": "1408022017",
+    "district_id": "140802",
+    "name": "HARAPAN"
+  },
+  {
+    "id": "1408022019",
+    "district_id": "140802",
+    "name": "KAYU ARA PERMAI"
+  },
+  {
+    "id": "1408022020",
+    "district_id": "140802",
+    "name": "RAWA MEKAR JAYA"
+  }
+]

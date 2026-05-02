@@ -1,1 +1,52 @@
-[{"id": "7504012003", "district_id": "750401", "name": "TOROSIAJE JAYA"}, {"id": "7504012004", "district_id": "750401", "name": "POPAYATO"}, {"id": "7504012008", "district_id": "750401", "name": "TELAGA"}, {"id": "7504012012", "district_id": "750401", "name": "TOROSIAJE"}, {"id": "7504012015", "district_id": "750401", "name": "BUKIT TINGKI"}, {"id": "7504012016", "district_id": "750401", "name": "TUNAS HARAPAN"}, {"id": "7504012017", "district_id": "750401", "name": "TRIKORA"}, {"id": "7504012018", "district_id": "750401", "name": "DAMBALO"}, {"id": "7504012019", "district_id": "750401", "name": "TELAGA BIRU"}, {"id": "7504012020", "district_id": "750401", "name": "BUMI BAHARI"}]
+[
+  {
+    "id": "7504012003",
+    "district_id": "750401",
+    "name": "TOROSIAJE JAYA"
+  },
+  {
+    "id": "7504012004",
+    "district_id": "750401",
+    "name": "POPAYATO"
+  },
+  {
+    "id": "7504012008",
+    "district_id": "750401",
+    "name": "TELAGA"
+  },
+  {
+    "id": "7504012012",
+    "district_id": "750401",
+    "name": "TOROSIAJE"
+  },
+  {
+    "id": "7504012015",
+    "district_id": "750401",
+    "name": "BUKIT TINGKI"
+  },
+  {
+    "id": "7504012016",
+    "district_id": "750401",
+    "name": "TUNAS HARAPAN"
+  },
+  {
+    "id": "7504012017",
+    "district_id": "750401",
+    "name": "TRIKORA"
+  },
+  {
+    "id": "7504012018",
+    "district_id": "750401",
+    "name": "DAMBALO"
+  },
+  {
+    "id": "7504012019",
+    "district_id": "750401",
+    "name": "TELAGA BIRU"
+  },
+  {
+    "id": "7504012020",
+    "district_id": "750401",
+    "name": "BUMI BAHARI"
+  }
+]

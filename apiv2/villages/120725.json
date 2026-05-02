@@ -1,1 +1,27 @@
-[{"id": "1207252001", "district_id": "120725", "name": "HELVETIA"}, {"id": "1207252002", "district_id": "120725", "name": "MANUNGGAL"}, {"id": "1207252003", "district_id": "120725", "name": "PEMATANG JOHAR"}, {"id": "1207252004", "district_id": "120725", "name": "KARANG GADING"}, {"id": "1207252005", "district_id": "120725", "name": "TELAGA TUJUH"}]
+[
+  {
+    "id": "1207252001",
+    "district_id": "120725",
+    "name": "HELVETIA"
+  },
+  {
+    "id": "1207252002",
+    "district_id": "120725",
+    "name": "MANUNGGAL"
+  },
+  {
+    "id": "1207252003",
+    "district_id": "120725",
+    "name": "PEMATANG JOHAR"
+  },
+  {
+    "id": "1207252004",
+    "district_id": "120725",
+    "name": "KARANG GADING"
+  },
+  {
+    "id": "1207252005",
+    "district_id": "120725",
+    "name": "TELAGA TUJUH"
+  }
+]

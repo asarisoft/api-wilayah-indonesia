@@ -1,1 +1,122 @@
-[{"id": "6105042001", "district_id": "610504", "name": "NANGA KETUNGAU"}, {"id": "6105042002", "district_id": "610504", "name": "SETUNGKUP"}, {"id": "6105042004", "district_id": "610504", "name": "SUNGAI MALI"}, {"id": "6105042005", "district_id": "610504", "name": "AIR NYURUK"}, {"id": "6105042006", "district_id": "610504", "name": "NANGA MERKAK"}, {"id": "6105042007", "district_id": "610504", "name": "SUNGAI DERAS"}, {"id": "6105042008", "district_id": "610504", "name": "NANGA SEJIRAK"}, {"id": "6105042009", "district_id": "610504", "name": "SEMUNTAI"}, {"id": "6105042010", "district_id": "610504", "name": "SENIBUNG"}, {"id": "6105042011", "district_id": "610504", "name": "TANJUNG BAUNG"}, {"id": "6105042012", "district_id": "610504", "name": "BAUNG SENGATAP"}, {"id": "6105042013", "district_id": "610504", "name": "SEMAJAU MEKAR"}, {"id": "6105042014", "district_id": "610504", "name": "BELUH MULYO"}, {"id": "6105042015", "district_id": "610504", "name": "BATU AMPAR"}, {"id": "6105042016", "district_id": "610504", "name": "BUKIT SIDIN PERMAI"}, {"id": "6105042017", "district_id": "610504", "name": "BETUNG PERMAI"}, {"id": "6105042018", "district_id": "610504", "name": "KENUAK"}, {"id": "6105042019", "district_id": "610504", "name": "JENTAWANG HILIR"}, {"id": "6105042020", "district_id": "610504", "name": "BATU NYADI"}, {"id": "6105042021", "district_id": "610504", "name": "RATU DAMAI"}, {"id": "6105042022", "district_id": "610504", "name": "LEPUNG PANTAK"}, {"id": "6105042023", "district_id": "610504", "name": "PAMPANG DUA"}, {"id": "6105042024", "district_id": "610504", "name": "MUNGGUK KELAPA"}, {"id": "6105042025", "district_id": "610504", "name": "MAUNG"}]
+[
+  {
+    "id": "6105042001",
+    "district_id": "610504",
+    "name": "NANGA KETUNGAU"
+  },
+  {
+    "id": "6105042002",
+    "district_id": "610504",
+    "name": "SETUNGKUP"
+  },
+  {
+    "id": "6105042004",
+    "district_id": "610504",
+    "name": "SUNGAI MALI"
+  },
+  {
+    "id": "6105042005",
+    "district_id": "610504",
+    "name": "AIR NYURUK"
+  },
+  {
+    "id": "6105042006",
+    "district_id": "610504",
+    "name": "NANGA MERKAK"
+  },
+  {
+    "id": "6105042007",
+    "district_id": "610504",
+    "name": "SUNGAI DERAS"
+  },
+  {
+    "id": "6105042008",
+    "district_id": "610504",
+    "name": "NANGA SEJIRAK"
+  },
+  {
+    "id": "6105042009",
+    "district_id": "610504",
+    "name": "SEMUNTAI"
+  },
+  {
+    "id": "6105042010",
+    "district_id": "610504",
+    "name": "SENIBUNG"
+  },
+  {
+    "id": "6105042011",
+    "district_id": "610504",
+    "name": "TANJUNG BAUNG"
+  },
+  {
+    "id": "6105042012",
+    "district_id": "610504",
+    "name": "BAUNG SENGATAP"
+  },
+  {
+    "id": "6105042013",
+    "district_id": "610504",
+    "name": "SEMAJAU MEKAR"
+  },
+  {
+    "id": "6105042014",
+    "district_id": "610504",
+    "name": "BELUH MULYO"
+  },
+  {
+    "id": "6105042015",
+    "district_id": "610504",
+    "name": "BATU AMPAR"
+  },
+  {
+    "id": "6105042016",
+    "district_id": "610504",
+    "name": "BUKIT SIDIN PERMAI"
+  },
+  {
+    "id": "6105042017",
+    "district_id": "610504",
+    "name": "BETUNG PERMAI"
+  },
+  {
+    "id": "6105042018",
+    "district_id": "610504",
+    "name": "KENUAK"
+  },
+  {
+    "id": "6105042019",
+    "district_id": "610504",
+    "name": "JENTAWANG HILIR"
+  },
+  {
+    "id": "6105042020",
+    "district_id": "610504",
+    "name": "BATU NYADI"
+  },
+  {
+    "id": "6105042021",
+    "district_id": "610504",
+    "name": "RATU DAMAI"
+  },
+  {
+    "id": "6105042022",
+    "district_id": "610504",
+    "name": "LEPUNG PANTAK"
+  },
+  {
+    "id": "6105042023",
+    "district_id": "610504",
+    "name": "PAMPANG DUA"
+  },
+  {
+    "id": "6105042024",
+    "district_id": "610504",
+    "name": "MUNGGUK KELAPA"
+  },
+  {
+    "id": "6105042025",
+    "district_id": "610504",
+    "name": "MAUNG"
+  }
+]

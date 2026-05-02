@@ -1,1 +1,37 @@
-[{"id": "9501252001", "district_id": "950125", "name": "PISUGI"}, {"id": "9501252002", "district_id": "950125", "name": "PABUMA"}, {"id": "9501252003", "district_id": "950125", "name": "AIKIMA"}, {"id": "9501252004", "district_id": "950125", "name": "PIKHE"}, {"id": "9501252005", "district_id": "950125", "name": "AKIAPUT"}, {"id": "9501252006", "district_id": "950125", "name": "SUROBA"}, {"id": "9501252007", "district_id": "950125", "name": "WARA"}]
+[
+  {
+    "id": "9501252001",
+    "district_id": "950125",
+    "name": "PISUGI"
+  },
+  {
+    "id": "9501252002",
+    "district_id": "950125",
+    "name": "PABUMA"
+  },
+  {
+    "id": "9501252003",
+    "district_id": "950125",
+    "name": "AIKIMA"
+  },
+  {
+    "id": "9501252004",
+    "district_id": "950125",
+    "name": "PIKHE"
+  },
+  {
+    "id": "9501252005",
+    "district_id": "950125",
+    "name": "AKIAPUT"
+  },
+  {
+    "id": "9501252006",
+    "district_id": "950125",
+    "name": "SUROBA"
+  },
+  {
+    "id": "9501252007",
+    "district_id": "950125",
+    "name": "WARA"
+  }
+]

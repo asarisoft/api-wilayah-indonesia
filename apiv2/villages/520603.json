@@ -1,1 +1,77 @@
-[{"id": "5206032001", "district_id": "520603", "name": "KELI"}, {"id": "5206032002", "district_id": "520603", "name": "TENGA"}, {"id": "5206032003", "district_id": "520603", "name": "TENTE"}, {"id": "5206032004", "district_id": "520603", "name": "RABAKODO"}, {"id": "5206032005", "district_id": "520603", "name": "SAMILI"}, {"id": "5206032006", "district_id": "520603", "name": "KALAMPA"}, {"id": "5206032007", "district_id": "520603", "name": "RISA"}, {"id": "5206032008", "district_id": "520603", "name": "PANDAI"}, {"id": "5206032009", "district_id": "520603", "name": "DONGGOBOLO"}, {"id": "5206032010", "district_id": "520603", "name": "DADIBOU"}, {"id": "5206032011", "district_id": "520603", "name": "TALABIU"}, {"id": "5206032012", "district_id": "520603", "name": "NARU"}, {"id": "5206032013", "district_id": "520603", "name": "NISA"}, {"id": "5206032014", "district_id": "520603", "name": "WADUWANI"}, {"id": "5206032015", "district_id": "520603", "name": "PENAPALI"}]
+[
+  {
+    "id": "5206032001",
+    "district_id": "520603",
+    "name": "KELI"
+  },
+  {
+    "id": "5206032002",
+    "district_id": "520603",
+    "name": "TENGA"
+  },
+  {
+    "id": "5206032003",
+    "district_id": "520603",
+    "name": "TENTE"
+  },
+  {
+    "id": "5206032004",
+    "district_id": "520603",
+    "name": "RABAKODO"
+  },
+  {
+    "id": "5206032005",
+    "district_id": "520603",
+    "name": "SAMILI"
+  },
+  {
+    "id": "5206032006",
+    "district_id": "520603",
+    "name": "KALAMPA"
+  },
+  {
+    "id": "5206032007",
+    "district_id": "520603",
+    "name": "RISA"
+  },
+  {
+    "id": "5206032008",
+    "district_id": "520603",
+    "name": "PANDAI"
+  },
+  {
+    "id": "5206032009",
+    "district_id": "520603",
+    "name": "DONGGOBOLO"
+  },
+  {
+    "id": "5206032010",
+    "district_id": "520603",
+    "name": "DADIBOU"
+  },
+  {
+    "id": "5206032011",
+    "district_id": "520603",
+    "name": "TALABIU"
+  },
+  {
+    "id": "5206032012",
+    "district_id": "520603",
+    "name": "NARU"
+  },
+  {
+    "id": "5206032013",
+    "district_id": "520603",
+    "name": "NISA"
+  },
+  {
+    "id": "5206032014",
+    "district_id": "520603",
+    "name": "WADUWANI"
+  },
+  {
+    "id": "5206032015",
+    "district_id": "520603",
+    "name": "PENAPALI"
+  }
+]

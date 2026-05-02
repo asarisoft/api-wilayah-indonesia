@@ -1,1 +1,27 @@
-[{"id": "3301221001", "district_id": "330122", "name": "LOMANIS"}, {"id": "3301221002", "district_id": "330122", "name": "GUNUNGSIMPING"}, {"id": "3301221003", "district_id": "330122", "name": "SIDANEGARA"}, {"id": "3301221004", "district_id": "330122", "name": "DONAN"}, {"id": "3301221005", "district_id": "330122", "name": "KUTAWARU"}]
+[
+  {
+    "id": "3301221001",
+    "district_id": "330122",
+    "name": "LOMANIS"
+  },
+  {
+    "id": "3301221002",
+    "district_id": "330122",
+    "name": "GUNUNGSIMPING"
+  },
+  {
+    "id": "3301221003",
+    "district_id": "330122",
+    "name": "SIDANEGARA"
+  },
+  {
+    "id": "3301221004",
+    "district_id": "330122",
+    "name": "DONAN"
+  },
+  {
+    "id": "3301221005",
+    "district_id": "330122",
+    "name": "KUTAWARU"
+  }
+]

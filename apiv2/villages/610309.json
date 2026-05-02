@@ -1,1 +1,72 @@
-[{"id": "6103092001", "district_id": "610309", "name": "PUSAT DAMAI"}, {"id": "6103092002", "district_id": "610309", "name": "MAJU KARYA"}, {"id": "6103092003", "district_id": "610309", "name": "SEBARRA"}, {"id": "6103092004", "district_id": "610309", "name": "PANDU RAYA"}, {"id": "6103092005", "district_id": "610309", "name": "EMBALA"}, {"id": "6103092006", "district_id": "610309", "name": "HIBUN"}, {"id": "6103092007", "district_id": "610309", "name": "MARINGIN JAYA"}, {"id": "6103092008", "district_id": "610309", "name": "SUKA MULYA"}, {"id": "6103092009", "district_id": "610309", "name": "PALEM JAYA"}, {"id": "6103092010", "district_id": "610309", "name": "RAHAYU"}, {"id": "6103092011", "district_id": "610309", "name": "DOSAN"}, {"id": "6103092012", "district_id": "610309", "name": "SUKA GERUNDI"}, {"id": "6103092013", "district_id": "610309", "name": "GUNAM"}, {"id": "6103092014", "district_id": "610309", "name": "MARITA"}]
+[
+  {
+    "id": "6103092001",
+    "district_id": "610309",
+    "name": "PUSAT DAMAI"
+  },
+  {
+    "id": "6103092002",
+    "district_id": "610309",
+    "name": "MAJU KARYA"
+  },
+  {
+    "id": "6103092003",
+    "district_id": "610309",
+    "name": "SEBARRA"
+  },
+  {
+    "id": "6103092004",
+    "district_id": "610309",
+    "name": "PANDU RAYA"
+  },
+  {
+    "id": "6103092005",
+    "district_id": "610309",
+    "name": "EMBALA"
+  },
+  {
+    "id": "6103092006",
+    "district_id": "610309",
+    "name": "HIBUN"
+  },
+  {
+    "id": "6103092007",
+    "district_id": "610309",
+    "name": "MARINGIN JAYA"
+  },
+  {
+    "id": "6103092008",
+    "district_id": "610309",
+    "name": "SUKA MULYA"
+  },
+  {
+    "id": "6103092009",
+    "district_id": "610309",
+    "name": "PALEM JAYA"
+  },
+  {
+    "id": "6103092010",
+    "district_id": "610309",
+    "name": "RAHAYU"
+  },
+  {
+    "id": "6103092011",
+    "district_id": "610309",
+    "name": "DOSAN"
+  },
+  {
+    "id": "6103092012",
+    "district_id": "610309",
+    "name": "SUKA GERUNDI"
+  },
+  {
+    "id": "6103092013",
+    "district_id": "610309",
+    "name": "GUNAM"
+  },
+  {
+    "id": "6103092014",
+    "district_id": "610309",
+    "name": "MARITA"
+  }
+]

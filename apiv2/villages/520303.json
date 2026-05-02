@@ -1,1 +1,82 @@
-[{"id": "5203032001", "district_id": "520303", "name": "JENGGIK"}, {"id": "5203032002", "district_id": "520303", "name": "RARANG"}, {"id": "5203032003", "district_id": "520303", "name": "SURADADI"}, {"id": "5203032004", "district_id": "520303", "name": "SANTONG"}, {"id": "5203032005", "district_id": "520303", "name": "TERARA"}, {"id": "5203032006", "district_id": "520303", "name": "SUKADANA"}, {"id": "5203032007", "district_id": "520303", "name": "RARANG SELATAN"}, {"id": "5203032008", "district_id": "520303", "name": "LEMING"}, {"id": "5203032009", "district_id": "520303", "name": "LANDO"}, {"id": "5203032010", "district_id": "520303", "name": "RARANG TENGAH"}, {"id": "5203032011", "district_id": "520303", "name": "EMBUNG RAJA"}, {"id": "5203032012", "district_id": "520303", "name": "SELAGIK"}, {"id": "5203032013", "district_id": "520303", "name": "EMBUNG KANDONG"}, {"id": "5203032014", "district_id": "520303", "name": "KALIANYAR"}, {"id": "5203032015", "district_id": "520303", "name": "RARANG BATAS"}, {"id": "5203032016", "district_id": "520303", "name": "PANDAN DURI"}]
+[
+  {
+    "id": "5203032001",
+    "district_id": "520303",
+    "name": "JENGGIK"
+  },
+  {
+    "id": "5203032002",
+    "district_id": "520303",
+    "name": "RARANG"
+  },
+  {
+    "id": "5203032003",
+    "district_id": "520303",
+    "name": "SURADADI"
+  },
+  {
+    "id": "5203032004",
+    "district_id": "520303",
+    "name": "SANTONG"
+  },
+  {
+    "id": "5203032005",
+    "district_id": "520303",
+    "name": "TERARA"
+  },
+  {
+    "id": "5203032006",
+    "district_id": "520303",
+    "name": "SUKADANA"
+  },
+  {
+    "id": "5203032007",
+    "district_id": "520303",
+    "name": "RARANG SELATAN"
+  },
+  {
+    "id": "5203032008",
+    "district_id": "520303",
+    "name": "LEMING"
+  },
+  {
+    "id": "5203032009",
+    "district_id": "520303",
+    "name": "LANDO"
+  },
+  {
+    "id": "5203032010",
+    "district_id": "520303",
+    "name": "RARANG TENGAH"
+  },
+  {
+    "id": "5203032011",
+    "district_id": "520303",
+    "name": "EMBUNG RAJA"
+  },
+  {
+    "id": "5203032012",
+    "district_id": "520303",
+    "name": "SELAGIK"
+  },
+  {
+    "id": "5203032013",
+    "district_id": "520303",
+    "name": "EMBUNG KANDONG"
+  },
+  {
+    "id": "5203032014",
+    "district_id": "520303",
+    "name": "KALIANYAR"
+  },
+  {
+    "id": "5203032015",
+    "district_id": "520303",
+    "name": "RARANG BATAS"
+  },
+  {
+    "id": "5203032016",
+    "district_id": "520303",
+    "name": "PANDAN DURI"
+  }
+]

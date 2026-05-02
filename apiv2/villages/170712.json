@@ -1,1 +1,42 @@
-[{"id": "1707122001", "district_id": "170712", "name": "KETENONG I"}, {"id": "1707122002", "district_id": "170712", "name": "KETENONG II"}, {"id": "1707122003", "district_id": "170712", "name": "KETENONG JAYA"}, {"id": "1707122004", "district_id": "170712", "name": "TAMBANG SAWEAK"}, {"id": "1707122005", "district_id": "170712", "name": "AIR KOPRAS"}, {"id": "1707122006", "district_id": "170712", "name": "BIOA PUTIAK"}, {"id": "1707122007", "district_id": "170712", "name": "SEBELAT"}, {"id": "1707122008", "district_id": "170712", "name": "SUNGAI LISAI"}]
+[
+  {
+    "id": "1707122001",
+    "district_id": "170712",
+    "name": "KETENONG I"
+  },
+  {
+    "id": "1707122002",
+    "district_id": "170712",
+    "name": "KETENONG II"
+  },
+  {
+    "id": "1707122003",
+    "district_id": "170712",
+    "name": "KETENONG JAYA"
+  },
+  {
+    "id": "1707122004",
+    "district_id": "170712",
+    "name": "TAMBANG SAWEAK"
+  },
+  {
+    "id": "1707122005",
+    "district_id": "170712",
+    "name": "AIR KOPRAS"
+  },
+  {
+    "id": "1707122006",
+    "district_id": "170712",
+    "name": "BIOA PUTIAK"
+  },
+  {
+    "id": "1707122007",
+    "district_id": "170712",
+    "name": "SEBELAT"
+  },
+  {
+    "id": "1707122008",
+    "district_id": "170712",
+    "name": "SUNGAI LISAI"
+  }
+]

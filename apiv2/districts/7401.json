@@ -1,1 +1,62 @@
-[{"id": "740101", "regency_id": "7401", "name": "WUNDULAKO"}, {"id": "740104", "regency_id": "7401", "name": "KOLAKA"}, {"id": "740107", "regency_id": "7401", "name": "POMALAA"}, {"id": "740108", "regency_id": "7401", "name": "WATUBANGGA"}, {"id": "740110", "regency_id": "7401", "name": "WOLO"}, {"id": "740112", "regency_id": "7401", "name": "BAULA"}, {"id": "740114", "regency_id": "7401", "name": "LATAMBAGA"}, {"id": "740118", "regency_id": "7401", "name": "TANGGETADA"}, {"id": "740120", "regency_id": "7401", "name": "SAMATURU"}, {"id": "740124", "regency_id": "7401", "name": "TOARI"}, {"id": "740125", "regency_id": "7401", "name": "POLINGGONA"}, {"id": "740127", "regency_id": "7401", "name": "IWOIMENDAA"}]
+[
+  {
+    "id": "740101",
+    "regency_id": "7401",
+    "name": "WUNDULAKO"
+  },
+  {
+    "id": "740104",
+    "regency_id": "7401",
+    "name": "KOLAKA"
+  },
+  {
+    "id": "740107",
+    "regency_id": "7401",
+    "name": "POMALAA"
+  },
+  {
+    "id": "740108",
+    "regency_id": "7401",
+    "name": "WATUBANGGA"
+  },
+  {
+    "id": "740110",
+    "regency_id": "7401",
+    "name": "WOLO"
+  },
+  {
+    "id": "740112",
+    "regency_id": "7401",
+    "name": "BAULA"
+  },
+  {
+    "id": "740114",
+    "regency_id": "7401",
+    "name": "LATAMBAGA"
+  },
+  {
+    "id": "740118",
+    "regency_id": "7401",
+    "name": "TANGGETADA"
+  },
+  {
+    "id": "740120",
+    "regency_id": "7401",
+    "name": "SAMATURU"
+  },
+  {
+    "id": "740124",
+    "regency_id": "7401",
+    "name": "TOARI"
+  },
+  {
+    "id": "740125",
+    "regency_id": "7401",
+    "name": "POLINGGONA"
+  },
+  {
+    "id": "740127",
+    "regency_id": "7401",
+    "name": "IWOIMENDAA"
+  }
+]

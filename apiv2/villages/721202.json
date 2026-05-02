@@ -1,1 +1,62 @@
-[{"id": "7212022001", "district_id": "721202", "name": "BUNTA"}, {"id": "7212022002", "district_id": "721202", "name": "TOMPIRA"}, {"id": "7212022003", "district_id": "721202", "name": "BUNGINTIMBE"}, {"id": "7212022004", "district_id": "721202", "name": "TOWARA"}, {"id": "7212022005", "district_id": "721202", "name": "MOLINO"}, {"id": "7212022006", "district_id": "721202", "name": "MOHONI"}, {"id": "7212022007", "district_id": "721202", "name": "UNGKEA"}, {"id": "7212022008", "district_id": "721202", "name": "BIMOR JAYA"}, {"id": "7212022009", "district_id": "721202", "name": "MOLORES"}, {"id": "7212022010", "district_id": "721202", "name": "KEUNO"}, {"id": "7212022011", "district_id": "721202", "name": "TOWARA PANTAI"}, {"id": "7212022012", "district_id": "721202", "name": "PEBOA"}]
+[
+  {
+    "id": "7212022001",
+    "district_id": "721202",
+    "name": "BUNTA"
+  },
+  {
+    "id": "7212022002",
+    "district_id": "721202",
+    "name": "TOMPIRA"
+  },
+  {
+    "id": "7212022003",
+    "district_id": "721202",
+    "name": "BUNGINTIMBE"
+  },
+  {
+    "id": "7212022004",
+    "district_id": "721202",
+    "name": "TOWARA"
+  },
+  {
+    "id": "7212022005",
+    "district_id": "721202",
+    "name": "MOLINO"
+  },
+  {
+    "id": "7212022006",
+    "district_id": "721202",
+    "name": "MOHONI"
+  },
+  {
+    "id": "7212022007",
+    "district_id": "721202",
+    "name": "UNGKEA"
+  },
+  {
+    "id": "7212022008",
+    "district_id": "721202",
+    "name": "BIMOR JAYA"
+  },
+  {
+    "id": "7212022009",
+    "district_id": "721202",
+    "name": "MOLORES"
+  },
+  {
+    "id": "7212022010",
+    "district_id": "721202",
+    "name": "KEUNO"
+  },
+  {
+    "id": "7212022011",
+    "district_id": "721202",
+    "name": "TOWARA PANTAI"
+  },
+  {
+    "id": "7212022012",
+    "district_id": "721202",
+    "name": "PEBOA"
+  }
+]

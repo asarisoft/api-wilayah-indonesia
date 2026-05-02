@@ -1,1 +1,52 @@
-[{"id": "1707041002", "district_id": "170704", "name": "TES"}, {"id": "1707041003", "district_id": "170704", "name": "TABA ANYAR"}, {"id": "1707041004", "district_id": "170704", "name": "MUBAI"}, {"id": "1707041005", "district_id": "170704", "name": "TURAN LALANG"}, {"id": "1707042001", "district_id": "170704", "name": "KUTAI DONOK"}, {"id": "1707042013", "district_id": "170704", "name": "TURAN TIGING"}, {"id": "1707042014", "district_id": "170704", "name": "SUKA SARI"}, {"id": "1707042016", "district_id": "170704", "name": "MANGKURAJO"}, {"id": "1707042018", "district_id": "170704", "name": "TIK JENIAK"}, {"id": "1707042019", "district_id": "170704", "name": "MANAI BLAU"}]
+[
+  {
+    "id": "1707041002",
+    "district_id": "170704",
+    "name": "TES"
+  },
+  {
+    "id": "1707041003",
+    "district_id": "170704",
+    "name": "TABA ANYAR"
+  },
+  {
+    "id": "1707041004",
+    "district_id": "170704",
+    "name": "MUBAI"
+  },
+  {
+    "id": "1707041005",
+    "district_id": "170704",
+    "name": "TURAN LALANG"
+  },
+  {
+    "id": "1707042001",
+    "district_id": "170704",
+    "name": "KUTAI DONOK"
+  },
+  {
+    "id": "1707042013",
+    "district_id": "170704",
+    "name": "TURAN TIGING"
+  },
+  {
+    "id": "1707042014",
+    "district_id": "170704",
+    "name": "SUKA SARI"
+  },
+  {
+    "id": "1707042016",
+    "district_id": "170704",
+    "name": "MANGKURAJO"
+  },
+  {
+    "id": "1707042018",
+    "district_id": "170704",
+    "name": "TIK JENIAK"
+  },
+  {
+    "id": "1707042019",
+    "district_id": "170704",
+    "name": "MANAI BLAU"
+  }
+]

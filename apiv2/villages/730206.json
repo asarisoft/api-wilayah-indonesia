@@ -1,1 +1,97 @@
-[{"id": "7302061001", "district_id": "730206", "name": "TANAH JAYA"}, {"id": "7302061002", "district_id": "730206", "name": "LAIKANG"}, {"id": "7302062003", "district_id": "730206", "name": "TAMBANGAN"}, {"id": "7302062004", "district_id": "730206", "name": "LEMBANNA"}, {"id": "7302062005", "district_id": "730206", "name": "POSSI TANAH"}, {"id": "7302062006", "district_id": "730206", "name": "TANAH TOWA"}, {"id": "7302062007", "district_id": "730206", "name": "BONTOBIRAENG"}, {"id": "7302062008", "district_id": "730206", "name": "LEMBANG"}, {"id": "7302062009", "district_id": "730206", "name": "BATUNILAMUNG"}, {"id": "7302062010", "district_id": "730206", "name": "MATTOANGING"}, {"id": "7302062011", "district_id": "730206", "name": "MALLELENG"}, {"id": "7302062012", "district_id": "730206", "name": "BONTO BAJI"}, {"id": "7302062013", "district_id": "730206", "name": "BONTORANNU"}, {"id": "7302062014", "district_id": "730206", "name": "PATTIROANG"}, {"id": "7302062015", "district_id": "730206", "name": "SAPANANG"}, {"id": "7302062016", "district_id": "730206", "name": "SANGKALA"}, {"id": "7302062017", "district_id": "730206", "name": "LEMBANG LOHE"}, {"id": "7302062018", "district_id": "730206", "name": "LOLISANG"}, {"id": "7302062019", "district_id": "730206", "name": "PANTAMA"}]
+[
+  {
+    "id": "7302061001",
+    "district_id": "730206",
+    "name": "TANAH JAYA"
+  },
+  {
+    "id": "7302061002",
+    "district_id": "730206",
+    "name": "LAIKANG"
+  },
+  {
+    "id": "7302062003",
+    "district_id": "730206",
+    "name": "TAMBANGAN"
+  },
+  {
+    "id": "7302062004",
+    "district_id": "730206",
+    "name": "LEMBANNA"
+  },
+  {
+    "id": "7302062005",
+    "district_id": "730206",
+    "name": "POSSI TANAH"
+  },
+  {
+    "id": "7302062006",
+    "district_id": "730206",
+    "name": "TANAH TOWA"
+  },
+  {
+    "id": "7302062007",
+    "district_id": "730206",
+    "name": "BONTOBIRAENG"
+  },
+  {
+    "id": "7302062008",
+    "district_id": "730206",
+    "name": "LEMBANG"
+  },
+  {
+    "id": "7302062009",
+    "district_id": "730206",
+    "name": "BATUNILAMUNG"
+  },
+  {
+    "id": "7302062010",
+    "district_id": "730206",
+    "name": "MATTOANGING"
+  },
+  {
+    "id": "7302062011",
+    "district_id": "730206",
+    "name": "MALLELENG"
+  },
+  {
+    "id": "7302062012",
+    "district_id": "730206",
+    "name": "BONTO BAJI"
+  },
+  {
+    "id": "7302062013",
+    "district_id": "730206",
+    "name": "BONTORANNU"
+  },
+  {
+    "id": "7302062014",
+    "district_id": "730206",
+    "name": "PATTIROANG"
+  },
+  {
+    "id": "7302062015",
+    "district_id": "730206",
+    "name": "SAPANANG"
+  },
+  {
+    "id": "7302062016",
+    "district_id": "730206",
+    "name": "SANGKALA"
+  },
+  {
+    "id": "7302062017",
+    "district_id": "730206",
+    "name": "LEMBANG LOHE"
+  },
+  {
+    "id": "7302062018",
+    "district_id": "730206",
+    "name": "LOLISANG"
+  },
+  {
+    "id": "7302062019",
+    "district_id": "730206",
+    "name": "PANTAMA"
+  }
+]

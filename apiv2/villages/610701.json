@@ -1,1 +1,27 @@
-[{"id": "6107012001", "district_id": "610701", "name": "SUNGAI DURI"}, {"id": "6107012004", "district_id": "610701", "name": "SUNGAI JAGA A"}, {"id": "6107012005", "district_id": "610701", "name": "SUNGAI JAGA B"}, {"id": "6107012006", "district_id": "610701", "name": "SUNGAI PANGKALAN I"}, {"id": "6107012007", "district_id": "610701", "name": "SUNGAI PANGKALAN II"}]
+[
+  {
+    "id": "6107012001",
+    "district_id": "610701",
+    "name": "SUNGAI DURI"
+  },
+  {
+    "id": "6107012004",
+    "district_id": "610701",
+    "name": "SUNGAI JAGA A"
+  },
+  {
+    "id": "6107012005",
+    "district_id": "610701",
+    "name": "SUNGAI JAGA B"
+  },
+  {
+    "id": "6107012006",
+    "district_id": "610701",
+    "name": "SUNGAI PANGKALAN I"
+  },
+  {
+    "id": "6107012007",
+    "district_id": "610701",
+    "name": "SUNGAI PANGKALAN II"
+  }
+]

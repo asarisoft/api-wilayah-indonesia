@@ -1,1 +1,102 @@
-[{"id": "6310042003", "district_id": "631004", "name": "SETARAP"}, {"id": "6310042004", "district_id": "631004", "name": "SATUI TIMUR"}, {"id": "6310042005", "district_id": "631004", "name": "SUNGAICUKA"}, {"id": "6310042006", "district_id": "631004", "name": "JOMBANG"}, {"id": "6310042008", "district_id": "631004", "name": "SATUI BARAT"}, {"id": "6310042009", "district_id": "631004", "name": "SEKAPUK"}, {"id": "6310042010", "district_id": "631004", "name": "SUNGAIDANAU"}, {"id": "6310042011", "district_id": "631004", "name": "WONOREJO"}, {"id": "6310042012", "district_id": "631004", "name": "SUMBER MAKMUR"}, {"id": "6310042013", "district_id": "631004", "name": "TEGAL SARI"}, {"id": "6310042019", "district_id": "631004", "name": "SUMBER ARUM"}, {"id": "6310042022", "district_id": "631004", "name": "SEJAHTERA MULIA"}, {"id": "6310042023", "district_id": "631004", "name": "AL KAUTSAR"}, {"id": "6310042024", "district_id": "631004", "name": "MAKMUR MULIA"}, {"id": "6310042025", "district_id": "631004", "name": "SINAR BULAN"}, {"id": "6310042026", "district_id": "631004", "name": "PANDAMARAN JAYA"}, {"id": "6310042027", "district_id": "631004", "name": "SIDO REJO"}, {"id": "6310042028", "district_id": "631004", "name": "BERUNTUNG RAYA"}, {"id": "6310042029", "district_id": "631004", "name": "BARAKAT MUFAKAT"}, {"id": "6310042030", "district_id": "631004", "name": "MAKMUR JAYA"}]
+[
+  {
+    "id": "6310042003",
+    "district_id": "631004",
+    "name": "SETARAP"
+  },
+  {
+    "id": "6310042004",
+    "district_id": "631004",
+    "name": "SATUI TIMUR"
+  },
+  {
+    "id": "6310042005",
+    "district_id": "631004",
+    "name": "SUNGAICUKA"
+  },
+  {
+    "id": "6310042006",
+    "district_id": "631004",
+    "name": "JOMBANG"
+  },
+  {
+    "id": "6310042008",
+    "district_id": "631004",
+    "name": "SATUI BARAT"
+  },
+  {
+    "id": "6310042009",
+    "district_id": "631004",
+    "name": "SEKAPUK"
+  },
+  {
+    "id": "6310042010",
+    "district_id": "631004",
+    "name": "SUNGAIDANAU"
+  },
+  {
+    "id": "6310042011",
+    "district_id": "631004",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "6310042012",
+    "district_id": "631004",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "6310042013",
+    "district_id": "631004",
+    "name": "TEGAL SARI"
+  },
+  {
+    "id": "6310042019",
+    "district_id": "631004",
+    "name": "SUMBER ARUM"
+  },
+  {
+    "id": "6310042022",
+    "district_id": "631004",
+    "name": "SEJAHTERA MULIA"
+  },
+  {
+    "id": "6310042023",
+    "district_id": "631004",
+    "name": "AL KAUTSAR"
+  },
+  {
+    "id": "6310042024",
+    "district_id": "631004",
+    "name": "MAKMUR MULIA"
+  },
+  {
+    "id": "6310042025",
+    "district_id": "631004",
+    "name": "SINAR BULAN"
+  },
+  {
+    "id": "6310042026",
+    "district_id": "631004",
+    "name": "PANDAMARAN JAYA"
+  },
+  {
+    "id": "6310042027",
+    "district_id": "631004",
+    "name": "SIDO REJO"
+  },
+  {
+    "id": "6310042028",
+    "district_id": "631004",
+    "name": "BERUNTUNG RAYA"
+  },
+  {
+    "id": "6310042029",
+    "district_id": "631004",
+    "name": "BARAKAT MUFAKAT"
+  },
+  {
+    "id": "6310042030",
+    "district_id": "631004",
+    "name": "MAKMUR JAYA"
+  }
+]

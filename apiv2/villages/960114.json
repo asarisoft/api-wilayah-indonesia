@@ -1,1 +1,57 @@
-[{"id": "9601141001", "district_id": "960114", "name": "KLAMALU"}, {"id": "9601141002", "district_id": "960114", "name": "MARIYAI"}, {"id": "9601141003", "district_id": "960114", "name": "KLASULUK"}, {"id": "9601141004", "district_id": "960114", "name": "KLAMASEN"}, {"id": "9601141008", "district_id": "960114", "name": "MAKLALUT"}, {"id": "9601141009", "district_id": "960114", "name": "KLARU"}, {"id": "9601141010", "district_id": "960114", "name": "JAMAIMO"}, {"id": "9601142005", "district_id": "960114", "name": "KLABEN"}, {"id": "9601142006", "district_id": "960114", "name": "KLASAN"}, {"id": "9601142007", "district_id": "960114", "name": "FAFI"}, {"id": "9601142011", "district_id": "960114", "name": "KASIH"}]
+[
+  {
+    "id": "9601141001",
+    "district_id": "960114",
+    "name": "KLAMALU"
+  },
+  {
+    "id": "9601141002",
+    "district_id": "960114",
+    "name": "MARIYAI"
+  },
+  {
+    "id": "9601141003",
+    "district_id": "960114",
+    "name": "KLASULUK"
+  },
+  {
+    "id": "9601141004",
+    "district_id": "960114",
+    "name": "KLAMASEN"
+  },
+  {
+    "id": "9601141008",
+    "district_id": "960114",
+    "name": "MAKLALUT"
+  },
+  {
+    "id": "9601141009",
+    "district_id": "960114",
+    "name": "KLARU"
+  },
+  {
+    "id": "9601141010",
+    "district_id": "960114",
+    "name": "JAMAIMO"
+  },
+  {
+    "id": "9601142005",
+    "district_id": "960114",
+    "name": "KLABEN"
+  },
+  {
+    "id": "9601142006",
+    "district_id": "960114",
+    "name": "KLASAN"
+  },
+  {
+    "id": "9601142007",
+    "district_id": "960114",
+    "name": "FAFI"
+  },
+  {
+    "id": "9601142011",
+    "district_id": "960114",
+    "name": "KASIH"
+  }
+]

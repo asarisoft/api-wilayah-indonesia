@@ -1,1 +1,87 @@
-[{"id": "6110022001", "district_id": "611002", "name": "TANJUNG NIAGA"}, {"id": "6110022002", "district_id": "611002", "name": "PAAL"}, {"id": "6110022003", "district_id": "611002", "name": "SIDOMULYO"}, {"id": "6110022004", "district_id": "611002", "name": "TEMBAWANG PANJANG"}, {"id": "6110022005", "district_id": "611002", "name": "PORING"}, {"id": "6110022007", "district_id": "611002", "name": "NANGA KEBEBU"}, {"id": "6110022008", "district_id": "611002", "name": "NANGA KAYAN"}, {"id": "6110022013", "district_id": "611002", "name": "BARU"}, {"id": "6110022021", "district_id": "611002", "name": "TANJUNG SARI"}, {"id": "6110022023", "district_id": "611002", "name": "TANJUNG LAY"}, {"id": "6110022024", "district_id": "611002", "name": "LABAI MANDIRI"}, {"id": "6110022026", "district_id": "611002", "name": "NUSA PANDAU"}, {"id": "6110022032", "district_id": "611002", "name": "KELAKIK"}, {"id": "6110022033", "district_id": "611002", "name": "SEMADIN LENGKONG"}, {"id": "6110022038", "district_id": "611002", "name": "TEBING KARANGAN"}, {"id": "6110022040", "district_id": "611002", "name": "KENUAL"}, {"id": "6110022042", "district_id": "611002", "name": "TANJUNG TENGANG"}]
+[
+  {
+    "id": "6110022001",
+    "district_id": "611002",
+    "name": "TANJUNG NIAGA"
+  },
+  {
+    "id": "6110022002",
+    "district_id": "611002",
+    "name": "PAAL"
+  },
+  {
+    "id": "6110022003",
+    "district_id": "611002",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "6110022004",
+    "district_id": "611002",
+    "name": "TEMBAWANG PANJANG"
+  },
+  {
+    "id": "6110022005",
+    "district_id": "611002",
+    "name": "PORING"
+  },
+  {
+    "id": "6110022007",
+    "district_id": "611002",
+    "name": "NANGA KEBEBU"
+  },
+  {
+    "id": "6110022008",
+    "district_id": "611002",
+    "name": "NANGA KAYAN"
+  },
+  {
+    "id": "6110022013",
+    "district_id": "611002",
+    "name": "BARU"
+  },
+  {
+    "id": "6110022021",
+    "district_id": "611002",
+    "name": "TANJUNG SARI"
+  },
+  {
+    "id": "6110022023",
+    "district_id": "611002",
+    "name": "TANJUNG LAY"
+  },
+  {
+    "id": "6110022024",
+    "district_id": "611002",
+    "name": "LABAI MANDIRI"
+  },
+  {
+    "id": "6110022026",
+    "district_id": "611002",
+    "name": "NUSA PANDAU"
+  },
+  {
+    "id": "6110022032",
+    "district_id": "611002",
+    "name": "KELAKIK"
+  },
+  {
+    "id": "6110022033",
+    "district_id": "611002",
+    "name": "SEMADIN LENGKONG"
+  },
+  {
+    "id": "6110022038",
+    "district_id": "611002",
+    "name": "TEBING KARANGAN"
+  },
+  {
+    "id": "6110022040",
+    "district_id": "611002",
+    "name": "KENUAL"
+  },
+  {
+    "id": "6110022042",
+    "district_id": "611002",
+    "name": "TANJUNG TENGANG"
+  }
+]

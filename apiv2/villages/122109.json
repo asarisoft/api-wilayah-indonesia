@@ -1,1 +1,102 @@
-[{"id": "1221092001", "district_id": "122109", "name": "TANJUNG BARU"}, {"id": "1221092002", "district_id": "122109", "name": "TAMIANG"}, {"id": "1221092003", "district_id": "122109", "name": "TANJUNG BARANI"}, {"id": "1221092004", "district_id": "122109", "name": "MANGGIS"}, {"id": "1221092005", "district_id": "122109", "name": "PAGARAN TAYAS"}, {"id": "1221092006", "district_id": "122109", "name": "HATONGGA"}, {"id": "1221092007", "district_id": "122109", "name": "BOTUNG"}, {"id": "1221092008", "district_id": "122109", "name": "SIADAM"}, {"id": "1221092009", "district_id": "122109", "name": "SIOJO"}, {"id": "1221092010", "district_id": "122109", "name": "PAGARAN MANGGIS"}, {"id": "1221092011", "district_id": "122109", "name": "MUARA MALINTO LAMA"}, {"id": "1221092012", "district_id": "122109", "name": "HUTABARU"}, {"id": "1221092013", "district_id": "122109", "name": "HUTA NOPAN"}, {"id": "1221092014", "district_id": "122109", "name": "TANDOLAN"}, {"id": "1221092015", "district_id": "122109", "name": "TANGGA BATU"}, {"id": "1221092016", "district_id": "122109", "name": "PAGARAN DOLOK PINARIK"}, {"id": "1221092017", "district_id": "122109", "name": "MUARA MALINTO BARU"}, {"id": "1221092018", "district_id": "122109", "name": "AEK SORIK"}, {"id": "1221092019", "district_id": "122109", "name": "TANJUNG BOTUNG PINARIK"}, {"id": "1221092020", "district_id": "122109", "name": "PINARIK"}]
+[
+  {
+    "id": "1221092001",
+    "district_id": "122109",
+    "name": "TANJUNG BARU"
+  },
+  {
+    "id": "1221092002",
+    "district_id": "122109",
+    "name": "TAMIANG"
+  },
+  {
+    "id": "1221092003",
+    "district_id": "122109",
+    "name": "TANJUNG BARANI"
+  },
+  {
+    "id": "1221092004",
+    "district_id": "122109",
+    "name": "MANGGIS"
+  },
+  {
+    "id": "1221092005",
+    "district_id": "122109",
+    "name": "PAGARAN TAYAS"
+  },
+  {
+    "id": "1221092006",
+    "district_id": "122109",
+    "name": "HATONGGA"
+  },
+  {
+    "id": "1221092007",
+    "district_id": "122109",
+    "name": "BOTUNG"
+  },
+  {
+    "id": "1221092008",
+    "district_id": "122109",
+    "name": "SIADAM"
+  },
+  {
+    "id": "1221092009",
+    "district_id": "122109",
+    "name": "SIOJO"
+  },
+  {
+    "id": "1221092010",
+    "district_id": "122109",
+    "name": "PAGARAN MANGGIS"
+  },
+  {
+    "id": "1221092011",
+    "district_id": "122109",
+    "name": "MUARA MALINTO LAMA"
+  },
+  {
+    "id": "1221092012",
+    "district_id": "122109",
+    "name": "HUTABARU"
+  },
+  {
+    "id": "1221092013",
+    "district_id": "122109",
+    "name": "HUTA NOPAN"
+  },
+  {
+    "id": "1221092014",
+    "district_id": "122109",
+    "name": "TANDOLAN"
+  },
+  {
+    "id": "1221092015",
+    "district_id": "122109",
+    "name": "TANGGA BATU"
+  },
+  {
+    "id": "1221092016",
+    "district_id": "122109",
+    "name": "PAGARAN DOLOK PINARIK"
+  },
+  {
+    "id": "1221092017",
+    "district_id": "122109",
+    "name": "MUARA MALINTO BARU"
+  },
+  {
+    "id": "1221092018",
+    "district_id": "122109",
+    "name": "AEK SORIK"
+  },
+  {
+    "id": "1221092019",
+    "district_id": "122109",
+    "name": "TANJUNG BOTUNG PINARIK"
+  },
+  {
+    "id": "1221092020",
+    "district_id": "122109",
+    "name": "PINARIK"
+  }
+]

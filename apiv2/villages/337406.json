@@ -1,1 +1,62 @@
-[{"id": "3374061001", "district_id": "337406", "name": "PENGGARON KIDUL"}, {"id": "3374061002", "district_id": "337406", "name": "TLOGOMULYO"}, {"id": "3374061003", "district_id": "337406", "name": "TLOGOSARI WETAN"}, {"id": "3374061004", "district_id": "337406", "name": "TLOGOSARI KULON"}, {"id": "3374061005", "district_id": "337406", "name": "MUKTIHARJO KIDUL"}, {"id": "3374061006", "district_id": "337406", "name": "PLAMONGANSARI"}, {"id": "3374061007", "district_id": "337406", "name": "GEMAH"}, {"id": "3374061008", "district_id": "337406", "name": "PEDURUNGAN KIDUL"}, {"id": "3374061009", "district_id": "337406", "name": "PEDURUNGAN LOR"}, {"id": "3374061010", "district_id": "337406", "name": "PEDURUNGAN TENGAH"}, {"id": "3374061011", "district_id": "337406", "name": "PALEBON"}, {"id": "3374061012", "district_id": "337406", "name": "KALICARI"}]
+[
+  {
+    "id": "3374061001",
+    "district_id": "337406",
+    "name": "PENGGARON KIDUL"
+  },
+  {
+    "id": "3374061002",
+    "district_id": "337406",
+    "name": "TLOGOMULYO"
+  },
+  {
+    "id": "3374061003",
+    "district_id": "337406",
+    "name": "TLOGOSARI WETAN"
+  },
+  {
+    "id": "3374061004",
+    "district_id": "337406",
+    "name": "TLOGOSARI KULON"
+  },
+  {
+    "id": "3374061005",
+    "district_id": "337406",
+    "name": "MUKTIHARJO KIDUL"
+  },
+  {
+    "id": "3374061006",
+    "district_id": "337406",
+    "name": "PLAMONGANSARI"
+  },
+  {
+    "id": "3374061007",
+    "district_id": "337406",
+    "name": "GEMAH"
+  },
+  {
+    "id": "3374061008",
+    "district_id": "337406",
+    "name": "PEDURUNGAN KIDUL"
+  },
+  {
+    "id": "3374061009",
+    "district_id": "337406",
+    "name": "PEDURUNGAN LOR"
+  },
+  {
+    "id": "3374061010",
+    "district_id": "337406",
+    "name": "PEDURUNGAN TENGAH"
+  },
+  {
+    "id": "3374061011",
+    "district_id": "337406",
+    "name": "PALEBON"
+  },
+  {
+    "id": "3374061012",
+    "district_id": "337406",
+    "name": "KALICARI"
+  }
+]

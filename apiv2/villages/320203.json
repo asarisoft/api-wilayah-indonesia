@@ -1,1 +1,47 @@
-[{"id": "3202032001", "district_id": "320203", "name": "CIKAKAK"}, {"id": "3202032002", "district_id": "320203", "name": "CIMAJA"}, {"id": "3202032003", "district_id": "320203", "name": "RIDOGALIH"}, {"id": "3202032004", "district_id": "320203", "name": "SUKAMAJU"}, {"id": "3202032005", "district_id": "320203", "name": "CILEUNGSING"}, {"id": "3202032006", "district_id": "320203", "name": "MARGALAKSANA"}, {"id": "3202032007", "district_id": "320203", "name": "SIRNARASA"}, {"id": "3202032008", "district_id": "320203", "name": "GANDASOLI"}, {"id": "3202032009", "district_id": "320203", "name": "CIRENDANG"}]
+[
+  {
+    "id": "3202032001",
+    "district_id": "320203",
+    "name": "CIKAKAK"
+  },
+  {
+    "id": "3202032002",
+    "district_id": "320203",
+    "name": "CIMAJA"
+  },
+  {
+    "id": "3202032003",
+    "district_id": "320203",
+    "name": "RIDOGALIH"
+  },
+  {
+    "id": "3202032004",
+    "district_id": "320203",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3202032005",
+    "district_id": "320203",
+    "name": "CILEUNGSING"
+  },
+  {
+    "id": "3202032006",
+    "district_id": "320203",
+    "name": "MARGALAKSANA"
+  },
+  {
+    "id": "3202032007",
+    "district_id": "320203",
+    "name": "SIRNARASA"
+  },
+  {
+    "id": "3202032008",
+    "district_id": "320203",
+    "name": "GANDASOLI"
+  },
+  {
+    "id": "3202032009",
+    "district_id": "320203",
+    "name": "CIRENDANG"
+  }
+]

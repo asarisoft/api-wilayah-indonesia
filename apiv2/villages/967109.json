@@ -1,1 +1,22 @@
-[{"id": "9671091001", "district_id": "967109", "name": "KLAGETE"}, {"id": "9671091002", "district_id": "967109", "name": "MALAINGKEDI"}, {"id": "9671091003", "district_id": "967109", "name": "MALAMSO"}, {"id": "9671091004", "district_id": "967109", "name": "KLABULU"}]
+[
+  {
+    "id": "9671091001",
+    "district_id": "967109",
+    "name": "KLAGETE"
+  },
+  {
+    "id": "9671091002",
+    "district_id": "967109",
+    "name": "MALAINGKEDI"
+  },
+  {
+    "id": "9671091003",
+    "district_id": "967109",
+    "name": "MALAMSO"
+  },
+  {
+    "id": "9671091004",
+    "district_id": "967109",
+    "name": "KLABULU"
+  }
+]

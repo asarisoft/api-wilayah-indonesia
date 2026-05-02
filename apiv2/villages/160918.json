@@ -1,1 +1,42 @@
-[{"id": "1609182001", "district_id": "160918", "name": "PENINGGIRAN"}, {"id": "1609182002", "district_id": "160918", "name": "KURIPAN"}, {"id": "1609182003", "district_id": "160918", "name": "SURABAYA"}, {"id": "1609182004", "district_id": "160918", "name": "SUKARENA"}, {"id": "1609182005", "district_id": "160918", "name": "KARANG PENDETA"}, {"id": "1609182006", "district_id": "160918", "name": "KOTA AGUNG"}, {"id": "1609182007", "district_id": "160918", "name": "SUKABUMI"}, {"id": "1609182008", "district_id": "160918", "name": "KURIPAN II"}]
+[
+  {
+    "id": "1609182001",
+    "district_id": "160918",
+    "name": "PENINGGIRAN"
+  },
+  {
+    "id": "1609182002",
+    "district_id": "160918",
+    "name": "KURIPAN"
+  },
+  {
+    "id": "1609182003",
+    "district_id": "160918",
+    "name": "SURABAYA"
+  },
+  {
+    "id": "1609182004",
+    "district_id": "160918",
+    "name": "SUKARENA"
+  },
+  {
+    "id": "1609182005",
+    "district_id": "160918",
+    "name": "KARANG PENDETA"
+  },
+  {
+    "id": "1609182006",
+    "district_id": "160918",
+    "name": "KOTA AGUNG"
+  },
+  {
+    "id": "1609182007",
+    "district_id": "160918",
+    "name": "SUKABUMI"
+  },
+  {
+    "id": "1609182008",
+    "district_id": "160918",
+    "name": "KURIPAN II"
+  }
+]

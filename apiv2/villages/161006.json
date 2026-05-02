@@ -1,1 +1,67 @@
-[{"id": "1610062006", "district_id": "161006", "name": "SIRAH PULAU KILIP"}, {"id": "1610062011", "district_id": "161006", "name": "KELAMPAIAN"}, {"id": "1610062012", "district_id": "161006", "name": "SUKANANTI"}, {"id": "1610062013", "district_id": "161006", "name": "SUKAMARGA"}, {"id": "1610062014", "district_id": "161006", "name": "RANTAU ALAI"}, {"id": "1610062015", "district_id": "161006", "name": "KERTA BAYANG"}, {"id": "1610062016", "district_id": "161006", "name": "TANJUNG MAS"}, {"id": "1610062017", "district_id": "161006", "name": "TALANG SARI"}, {"id": "1610062018", "district_id": "161006", "name": "LEBUNG BANDUNG"}, {"id": "1610062020", "district_id": "161006", "name": "SANDING MARGA"}, {"id": "1610062021", "district_id": "161006", "name": "SUKAMAJU"}, {"id": "1610062022", "district_id": "161006", "name": "MEKAR SARI"}, {"id": "1610062023", "district_id": "161006", "name": "SUKANANTI BARU"}]
+[
+  {
+    "id": "1610062006",
+    "district_id": "161006",
+    "name": "SIRAH PULAU KILIP"
+  },
+  {
+    "id": "1610062011",
+    "district_id": "161006",
+    "name": "KELAMPAIAN"
+  },
+  {
+    "id": "1610062012",
+    "district_id": "161006",
+    "name": "SUKANANTI"
+  },
+  {
+    "id": "1610062013",
+    "district_id": "161006",
+    "name": "SUKAMARGA"
+  },
+  {
+    "id": "1610062014",
+    "district_id": "161006",
+    "name": "RANTAU ALAI"
+  },
+  {
+    "id": "1610062015",
+    "district_id": "161006",
+    "name": "KERTA BAYANG"
+  },
+  {
+    "id": "1610062016",
+    "district_id": "161006",
+    "name": "TANJUNG MAS"
+  },
+  {
+    "id": "1610062017",
+    "district_id": "161006",
+    "name": "TALANG SARI"
+  },
+  {
+    "id": "1610062018",
+    "district_id": "161006",
+    "name": "LEBUNG BANDUNG"
+  },
+  {
+    "id": "1610062020",
+    "district_id": "161006",
+    "name": "SANDING MARGA"
+  },
+  {
+    "id": "1610062021",
+    "district_id": "161006",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "1610062022",
+    "district_id": "161006",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "1610062023",
+    "district_id": "161006",
+    "name": "SUKANANTI BARU"
+  }
+]

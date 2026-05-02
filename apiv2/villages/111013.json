@@ -1,1 +1,32 @@
-[{"id": "1110132001", "district_id": "111013", "name": "SINGKOHOR"}, {"id": "1110132002", "district_id": "111013", "name": "LAE SIPOLA"}, {"id": "1110132003", "district_id": "111013", "name": "LAE PINANG"}, {"id": "1110132004", "district_id": "111013", "name": "MUKTI JAYA"}, {"id": "1110132006", "district_id": "111013", "name": "SRI KAYU"}, {"id": "1110132007", "district_id": "111013", "name": "PEA JAMBU"}]
+[
+  {
+    "id": "1110132001",
+    "district_id": "111013",
+    "name": "SINGKOHOR"
+  },
+  {
+    "id": "1110132002",
+    "district_id": "111013",
+    "name": "LAE SIPOLA"
+  },
+  {
+    "id": "1110132003",
+    "district_id": "111013",
+    "name": "LAE PINANG"
+  },
+  {
+    "id": "1110132004",
+    "district_id": "111013",
+    "name": "MUKTI JAYA"
+  },
+  {
+    "id": "1110132006",
+    "district_id": "111013",
+    "name": "SRI KAYU"
+  },
+  {
+    "id": "1110132007",
+    "district_id": "111013",
+    "name": "PEA JAMBU"
+  }
+]

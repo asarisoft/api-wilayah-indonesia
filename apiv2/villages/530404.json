@@ -1,1 +1,42 @@
-[{"id": "5304042001", "district_id": "530404", "name": "TUKUNENO"}, {"id": "5304042002", "district_id": "530404", "name": "NAEKASA"}, {"id": "5304042003", "district_id": "530404", "name": "LOOKEU"}, {"id": "5304042004", "district_id": "530404", "name": "DEROKFATURENE"}, {"id": "5304042005", "district_id": "530404", "name": "BAKUSTULAMA"}, {"id": "5304042006", "district_id": "530404", "name": "RINBESIHAT"}, {"id": "5304042007", "district_id": "530404", "name": "NAITIMU"}, {"id": "5304042009", "district_id": "530404", "name": "LAWALUTOLUS"}]
+[
+  {
+    "id": "5304042001",
+    "district_id": "530404",
+    "name": "TUKUNENO"
+  },
+  {
+    "id": "5304042002",
+    "district_id": "530404",
+    "name": "NAEKASA"
+  },
+  {
+    "id": "5304042003",
+    "district_id": "530404",
+    "name": "LOOKEU"
+  },
+  {
+    "id": "5304042004",
+    "district_id": "530404",
+    "name": "DEROKFATURENE"
+  },
+  {
+    "id": "5304042005",
+    "district_id": "530404",
+    "name": "BAKUSTULAMA"
+  },
+  {
+    "id": "5304042006",
+    "district_id": "530404",
+    "name": "RINBESIHAT"
+  },
+  {
+    "id": "5304042007",
+    "district_id": "530404",
+    "name": "NAITIMU"
+  },
+  {
+    "id": "5304042009",
+    "district_id": "530404",
+    "name": "LAWALUTOLUS"
+  }
+]

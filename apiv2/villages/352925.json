@@ -1,1 +1,57 @@
-[{"id": "3529252001", "district_id": "352925", "name": "SEPANJANG"}, {"id": "3529252002", "district_id": "352925", "name": "TANJUNG KIAOK"}, {"id": "3529252003", "district_id": "352925", "name": "SAKALA"}, {"id": "3529252004", "district_id": "352925", "name": "PAGERUNGAN BESAR"}, {"id": "3529252005", "district_id": "352925", "name": "PAGERUNGAN KECIL"}, {"id": "3529252006", "district_id": "352925", "name": "SASEEL"}, {"id": "3529252007", "district_id": "352925", "name": "SAPEKEN"}, {"id": "3529252008", "district_id": "352925", "name": "SABUNTEN"}, {"id": "3529252009", "district_id": "352925", "name": "PALIAT"}, {"id": "3529252010", "district_id": "352925", "name": "SADULANG"}, {"id": "3529252011", "district_id": "352925", "name": "SAUR SAEBUS"}]
+[
+  {
+    "id": "3529252001",
+    "district_id": "352925",
+    "name": "SEPANJANG"
+  },
+  {
+    "id": "3529252002",
+    "district_id": "352925",
+    "name": "TANJUNG KIAOK"
+  },
+  {
+    "id": "3529252003",
+    "district_id": "352925",
+    "name": "SAKALA"
+  },
+  {
+    "id": "3529252004",
+    "district_id": "352925",
+    "name": "PAGERUNGAN BESAR"
+  },
+  {
+    "id": "3529252005",
+    "district_id": "352925",
+    "name": "PAGERUNGAN KECIL"
+  },
+  {
+    "id": "3529252006",
+    "district_id": "352925",
+    "name": "SASEEL"
+  },
+  {
+    "id": "3529252007",
+    "district_id": "352925",
+    "name": "SAPEKEN"
+  },
+  {
+    "id": "3529252008",
+    "district_id": "352925",
+    "name": "SABUNTEN"
+  },
+  {
+    "id": "3529252009",
+    "district_id": "352925",
+    "name": "PALIAT"
+  },
+  {
+    "id": "3529252010",
+    "district_id": "352925",
+    "name": "SADULANG"
+  },
+  {
+    "id": "3529252011",
+    "district_id": "352925",
+    "name": "SAUR SAEBUS"
+  }
+]

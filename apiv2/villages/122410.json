@@ -1,1 +1,107 @@
-[{"id": "1224101001", "district_id": "122410", "name": "PASAR LAHEWA"}, {"id": "1224102002", "district_id": "122410", "name": "IRAONO LASE"}, {"id": "1224102003", "district_id": "122410", "name": "HOLI"}, {"id": "1224102004", "district_id": "122410", "name": "SIFAORO'ASI"}, {"id": "1224102005", "district_id": "122410", "name": "HILIZUKHU"}, {"id": "1224102006", "district_id": "122410", "name": "ONOZALUKHU"}, {"id": "1224102007", "district_id": "122410", "name": "HILINA'A"}, {"id": "1224102008", "district_id": "122410", "name": "HILIGODU HOYA"}, {"id": "1224102009", "district_id": "122410", "name": "SITOLUBANUA"}, {"id": "1224102010", "district_id": "122410", "name": "HILIHATI"}, {"id": "1224102011", "district_id": "122410", "name": "FADORO SITOLU HILI"}, {"id": "1224102012", "district_id": "122410", "name": "MARAFALA"}, {"id": "1224102013", "district_id": "122410", "name": "HILIGAWOLO"}, {"id": "1224102014", "district_id": "122410", "name": "BALEFADORO TUHO"}, {"id": "1224102015", "district_id": "122410", "name": "OMBOLATA"}, {"id": "1224102016", "district_id": "122410", "name": "AFIA"}, {"id": "1224102017", "district_id": "122410", "name": "MOAWO"}, {"id": "1224102018", "district_id": "122410", "name": "LASARA"}, {"id": "1224102019", "district_id": "122410", "name": "SIHENE'ASI"}, {"id": "1224102020", "district_id": "122410", "name": "FADORO HILIMBOWO"}, {"id": "1224102021", "district_id": "122410", "name": "FADORO HILIHAMBAWA"}]
+[
+  {
+    "id": "1224101001",
+    "district_id": "122410",
+    "name": "PASAR LAHEWA"
+  },
+  {
+    "id": "1224102002",
+    "district_id": "122410",
+    "name": "IRAONO LASE"
+  },
+  {
+    "id": "1224102003",
+    "district_id": "122410",
+    "name": "HOLI"
+  },
+  {
+    "id": "1224102004",
+    "district_id": "122410",
+    "name": "SIFAORO'ASI"
+  },
+  {
+    "id": "1224102005",
+    "district_id": "122410",
+    "name": "HILIZUKHU"
+  },
+  {
+    "id": "1224102006",
+    "district_id": "122410",
+    "name": "ONOZALUKHU"
+  },
+  {
+    "id": "1224102007",
+    "district_id": "122410",
+    "name": "HILINA'A"
+  },
+  {
+    "id": "1224102008",
+    "district_id": "122410",
+    "name": "HILIGODU HOYA"
+  },
+  {
+    "id": "1224102009",
+    "district_id": "122410",
+    "name": "SITOLUBANUA"
+  },
+  {
+    "id": "1224102010",
+    "district_id": "122410",
+    "name": "HILIHATI"
+  },
+  {
+    "id": "1224102011",
+    "district_id": "122410",
+    "name": "FADORO SITOLU HILI"
+  },
+  {
+    "id": "1224102012",
+    "district_id": "122410",
+    "name": "MARAFALA"
+  },
+  {
+    "id": "1224102013",
+    "district_id": "122410",
+    "name": "HILIGAWOLO"
+  },
+  {
+    "id": "1224102014",
+    "district_id": "122410",
+    "name": "BALEFADORO TUHO"
+  },
+  {
+    "id": "1224102015",
+    "district_id": "122410",
+    "name": "OMBOLATA"
+  },
+  {
+    "id": "1224102016",
+    "district_id": "122410",
+    "name": "AFIA"
+  },
+  {
+    "id": "1224102017",
+    "district_id": "122410",
+    "name": "MOAWO"
+  },
+  {
+    "id": "1224102018",
+    "district_id": "122410",
+    "name": "LASARA"
+  },
+  {
+    "id": "1224102019",
+    "district_id": "122410",
+    "name": "SIHENE'ASI"
+  },
+  {
+    "id": "1224102020",
+    "district_id": "122410",
+    "name": "FADORO HILIMBOWO"
+  },
+  {
+    "id": "1224102021",
+    "district_id": "122410",
+    "name": "FADORO HILIHAMBAWA"
+  }
+]

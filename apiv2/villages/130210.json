@@ -1,1 +1,42 @@
-[{"id": "1302102001", "district_id": "130210", "name": "KOTO BARU"}, {"id": "1302102002", "district_id": "130210", "name": "SELAYO"}, {"id": "1302102003", "district_id": "130210", "name": "PANYAKALAN"}, {"id": "1302102004", "district_id": "130210", "name": "GAUNG"}, {"id": "1302102005", "district_id": "130210", "name": "GANTUANG CIRI"}, {"id": "1302102006", "district_id": "130210", "name": "SAOK LAWEH"}, {"id": "1302102007", "district_id": "130210", "name": "KOTO HILALANG"}, {"id": "1302102008", "district_id": "130210", "name": "TANJUNG BINGKUNG"}]
+[
+  {
+    "id": "1302102001",
+    "district_id": "130210",
+    "name": "KOTO BARU"
+  },
+  {
+    "id": "1302102002",
+    "district_id": "130210",
+    "name": "SELAYO"
+  },
+  {
+    "id": "1302102003",
+    "district_id": "130210",
+    "name": "PANYAKALAN"
+  },
+  {
+    "id": "1302102004",
+    "district_id": "130210",
+    "name": "GAUNG"
+  },
+  {
+    "id": "1302102005",
+    "district_id": "130210",
+    "name": "GANTUANG CIRI"
+  },
+  {
+    "id": "1302102006",
+    "district_id": "130210",
+    "name": "SAOK LAWEH"
+  },
+  {
+    "id": "1302102007",
+    "district_id": "130210",
+    "name": "KOTO HILALANG"
+  },
+  {
+    "id": "1302102008",
+    "district_id": "130210",
+    "name": "TANJUNG BINGKUNG"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "9171041004", "district_id": "917104", "name": "KOYA BARAT"}, {"id": "9171041005", "district_id": "917104", "name": "KOYA TIMUR"}, {"id": "9171042001", "district_id": "917104", "name": "SKOUW MABO"}, {"id": "9171042002", "district_id": "917104", "name": "SKOUW YAMBE"}, {"id": "9171042003", "district_id": "917104", "name": "SKOUW SAE"}, {"id": "9171042006", "district_id": "917104", "name": "HOLTEKAMP"}, {"id": "9171042007", "district_id": "917104", "name": "KOYA TENGAH"}, {"id": "9171042008", "district_id": "917104", "name": "MOSSO"}]
+[
+  {
+    "id": "9171041004",
+    "district_id": "917104",
+    "name": "KOYA BARAT"
+  },
+  {
+    "id": "9171041005",
+    "district_id": "917104",
+    "name": "KOYA TIMUR"
+  },
+  {
+    "id": "9171042001",
+    "district_id": "917104",
+    "name": "SKOUW MABO"
+  },
+  {
+    "id": "9171042002",
+    "district_id": "917104",
+    "name": "SKOUW YAMBE"
+  },
+  {
+    "id": "9171042003",
+    "district_id": "917104",
+    "name": "SKOUW SAE"
+  },
+  {
+    "id": "9171042006",
+    "district_id": "917104",
+    "name": "HOLTEKAMP"
+  },
+  {
+    "id": "9171042007",
+    "district_id": "917104",
+    "name": "KOYA TENGAH"
+  },
+  {
+    "id": "9171042008",
+    "district_id": "917104",
+    "name": "MOSSO"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "8172052001", "district_id": "817205", "name": "KANARA"}, {"id": "8172052002", "district_id": "817205", "name": "WARKAR"}, {"id": "8172052003", "district_id": "817205", "name": "YAPAS"}, {"id": "8172052004", "district_id": "817205", "name": "RUMOIN"}, {"id": "8172052005", "district_id": "817205", "name": "HIRIT"}, {"id": "8172052006", "district_id": "817205", "name": "TIFLEN"}, {"id": "8172052007", "district_id": "817205", "name": "NIELA"}]
+[
+  {
+    "id": "8172052001",
+    "district_id": "817205",
+    "name": "KANARA"
+  },
+  {
+    "id": "8172052002",
+    "district_id": "817205",
+    "name": "WARKAR"
+  },
+  {
+    "id": "8172052003",
+    "district_id": "817205",
+    "name": "YAPAS"
+  },
+  {
+    "id": "8172052004",
+    "district_id": "817205",
+    "name": "RUMOIN"
+  },
+  {
+    "id": "8172052005",
+    "district_id": "817205",
+    "name": "HIRIT"
+  },
+  {
+    "id": "8172052006",
+    "district_id": "817205",
+    "name": "TIFLEN"
+  },
+  {
+    "id": "8172052007",
+    "district_id": "817205",
+    "name": "NIELA"
+  }
+]

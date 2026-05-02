@@ -1,1 +1,52 @@
-[{"id": "9504352001", "district_id": "950435", "name": "TELENGGEME"}, {"id": "9504352002", "district_id": "950435", "name": "AUKUNI"}, {"id": "9504352003", "district_id": "950435", "name": "TENEK"}, {"id": "9504352004", "district_id": "950435", "name": "KIMUNUK"}, {"id": "9504352005", "district_id": "950435", "name": "KIMUGU"}, {"id": "9504352006", "district_id": "950435", "name": "YAGAGOBAK"}, {"id": "9504352007", "district_id": "950435", "name": "LINGGIRA"}, {"id": "9504352008", "district_id": "950435", "name": "WEKARU"}, {"id": "9504352009", "district_id": "950435", "name": "DOLUNGGUN"}, {"id": "9504352010", "district_id": "950435", "name": "KAGI"}]
+[
+  {
+    "id": "9504352001",
+    "district_id": "950435",
+    "name": "TELENGGEME"
+  },
+  {
+    "id": "9504352002",
+    "district_id": "950435",
+    "name": "AUKUNI"
+  },
+  {
+    "id": "9504352003",
+    "district_id": "950435",
+    "name": "TENEK"
+  },
+  {
+    "id": "9504352004",
+    "district_id": "950435",
+    "name": "KIMUNUK"
+  },
+  {
+    "id": "9504352005",
+    "district_id": "950435",
+    "name": "KIMUGU"
+  },
+  {
+    "id": "9504352006",
+    "district_id": "950435",
+    "name": "YAGAGOBAK"
+  },
+  {
+    "id": "9504352007",
+    "district_id": "950435",
+    "name": "LINGGIRA"
+  },
+  {
+    "id": "9504352008",
+    "district_id": "950435",
+    "name": "WEKARU"
+  },
+  {
+    "id": "9504352009",
+    "district_id": "950435",
+    "name": "DOLUNGGUN"
+  },
+  {
+    "id": "9504352010",
+    "district_id": "950435",
+    "name": "KAGI"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "3673021001", "district_id": "367302", "name": "KASEMEN"}, {"id": "3673021002", "district_id": "367302", "name": "MESJID PRIYAYI"}, {"id": "3673021003", "district_id": "367302", "name": "TERUMBU"}, {"id": "3673021004", "district_id": "367302", "name": "WARUNG JAUD"}, {"id": "3673021006", "district_id": "367302", "name": "BENDUNG"}, {"id": "3673021007", "district_id": "367302", "name": "BANTEN"}, {"id": "3673021008", "district_id": "367302", "name": "SAWAH LUHUR"}, {"id": "3673021009", "district_id": "367302", "name": "KILASAH"}, {"id": "3673021010", "district_id": "367302", "name": "KASUNYATAN"}, {"id": "3673021011", "district_id": "367302", "name": "MARGALUYU"}]
+[
+  {
+    "id": "3673021001",
+    "district_id": "367302",
+    "name": "KASEMEN"
+  },
+  {
+    "id": "3673021002",
+    "district_id": "367302",
+    "name": "MESJID PRIYAYI"
+  },
+  {
+    "id": "3673021003",
+    "district_id": "367302",
+    "name": "TERUMBU"
+  },
+  {
+    "id": "3673021004",
+    "district_id": "367302",
+    "name": "WARUNG JAUD"
+  },
+  {
+    "id": "3673021006",
+    "district_id": "367302",
+    "name": "BENDUNG"
+  },
+  {
+    "id": "3673021007",
+    "district_id": "367302",
+    "name": "BANTEN"
+  },
+  {
+    "id": "3673021008",
+    "district_id": "367302",
+    "name": "SAWAH LUHUR"
+  },
+  {
+    "id": "3673021009",
+    "district_id": "367302",
+    "name": "KILASAH"
+  },
+  {
+    "id": "3673021010",
+    "district_id": "367302",
+    "name": "KASUNYATAN"
+  },
+  {
+    "id": "3673021011",
+    "district_id": "367302",
+    "name": "MARGALUYU"
+  }
+]

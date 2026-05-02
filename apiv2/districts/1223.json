@@ -1,1 +1,42 @@
-[{"id": "122301", "regency_id": "1223", "name": "KUALUH HULU"}, {"id": "122302", "regency_id": "1223", "name": "KUALUH LEIDONG"}, {"id": "122303", "regency_id": "1223", "name": "KUALUH HILIR"}, {"id": "122304", "regency_id": "1223", "name": "AEK KUO"}, {"id": "122305", "regency_id": "1223", "name": "MARBAU"}, {"id": "122306", "regency_id": "1223", "name": "NA IX-X"}, {"id": "122307", "regency_id": "1223", "name": "AEK NATAS"}, {"id": "122308", "regency_id": "1223", "name": "KUALUH SELATAN"}]
+[
+  {
+    "id": "122301",
+    "regency_id": "1223",
+    "name": "KUALUH HULU"
+  },
+  {
+    "id": "122302",
+    "regency_id": "1223",
+    "name": "KUALUH LEIDONG"
+  },
+  {
+    "id": "122303",
+    "regency_id": "1223",
+    "name": "KUALUH HILIR"
+  },
+  {
+    "id": "122304",
+    "regency_id": "1223",
+    "name": "AEK KUO"
+  },
+  {
+    "id": "122305",
+    "regency_id": "1223",
+    "name": "MARBAU"
+  },
+  {
+    "id": "122306",
+    "regency_id": "1223",
+    "name": "NA IX-X"
+  },
+  {
+    "id": "122307",
+    "regency_id": "1223",
+    "name": "AEK NATAS"
+  },
+  {
+    "id": "122308",
+    "regency_id": "1223",
+    "name": "KUALUH SELATAN"
+  }
+]

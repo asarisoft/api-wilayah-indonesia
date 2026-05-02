@@ -1,1 +1,22 @@
-[{"id": "6171061001", "district_id": "617106", "name": "BANSIR LAUT"}, {"id": "6171061002", "district_id": "617106", "name": "BANSIR DARAT"}, {"id": "6171061003", "district_id": "617106", "name": "BANGKABELITUNG LAUT"}, {"id": "6171061004", "district_id": "617106", "name": "BANGKABELITUNG DARAT"}]
+[
+  {
+    "id": "6171061001",
+    "district_id": "617106",
+    "name": "BANSIR LAUT"
+  },
+  {
+    "id": "6171061002",
+    "district_id": "617106",
+    "name": "BANSIR DARAT"
+  },
+  {
+    "id": "6171061003",
+    "district_id": "617106",
+    "name": "BANGKABELITUNG LAUT"
+  },
+  {
+    "id": "6171061004",
+    "district_id": "617106",
+    "name": "BANGKABELITUNG DARAT"
+  }
+]

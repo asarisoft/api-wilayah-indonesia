@@ -1,1 +1,47 @@
-[{"id": "1278062001", "district_id": "127806", "name": "TUMORI"}, {"id": "1278062002", "district_id": "127806", "name": "TUMORI BALOHILI"}, {"id": "1278062003", "district_id": "127806", "name": "ORAHILI TUMORI"}, {"id": "1278062004", "district_id": "127806", "name": "GADA"}, {"id": "1278062005", "district_id": "127806", "name": "LOLOMOYO TUHEMBERUA"}, {"id": "1278062006", "district_id": "127806", "name": "SIHARE'O SIWAHILI"}, {"id": "1278062007", "district_id": "127806", "name": "HILINAKHE"}, {"id": "1278062008", "district_id": "127806", "name": "ONOZIKHO"}, {"id": "1278062009", "district_id": "127806", "name": "ONONAMOLO II LOT"}]
+[
+  {
+    "id": "1278062001",
+    "district_id": "127806",
+    "name": "TUMORI"
+  },
+  {
+    "id": "1278062002",
+    "district_id": "127806",
+    "name": "TUMORI BALOHILI"
+  },
+  {
+    "id": "1278062003",
+    "district_id": "127806",
+    "name": "ORAHILI TUMORI"
+  },
+  {
+    "id": "1278062004",
+    "district_id": "127806",
+    "name": "GADA"
+  },
+  {
+    "id": "1278062005",
+    "district_id": "127806",
+    "name": "LOLOMOYO TUHEMBERUA"
+  },
+  {
+    "id": "1278062006",
+    "district_id": "127806",
+    "name": "SIHARE'O SIWAHILI"
+  },
+  {
+    "id": "1278062007",
+    "district_id": "127806",
+    "name": "HILINAKHE"
+  },
+  {
+    "id": "1278062008",
+    "district_id": "127806",
+    "name": "ONOZIKHO"
+  },
+  {
+    "id": "1278062009",
+    "district_id": "127806",
+    "name": "ONONAMOLO II LOT"
+  }
+]

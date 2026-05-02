@@ -1,1 +1,167 @@
-[{"id": "7201071011", "district_id": "720107", "name": "PAKOWA"}, {"id": "7201071018", "district_id": "720107", "name": "PAGIMANA"}, {"id": "7201071022", "district_id": "720107", "name": "BASABUNGAN"}, {"id": "7201072001", "district_id": "720107", "name": "BALOA DODA"}, {"id": "7201072002", "district_id": "720107", "name": "TAMPE"}, {"id": "7201072010", "district_id": "720107", "name": "ASAAN"}, {"id": "7201072012", "district_id": "720107", "name": "BALAI GONDI"}, {"id": "7201072013", "district_id": "720107", "name": "BAJO POAT"}, {"id": "7201072014", "district_id": "720107", "name": "GOMUO"}, {"id": "7201072015", "district_id": "720107", "name": "NAIN"}, {"id": "7201072016", "district_id": "720107", "name": "LAMO"}, {"id": "7201072017", "district_id": "720107", "name": "TONGKONUNUK"}, {"id": "7201072019", "district_id": "720107", "name": "HOHUDONGAN"}, {"id": "7201072020", "district_id": "720107", "name": "SINAMPANGNYO"}, {"id": "7201072021", "district_id": "720107", "name": "JAYA BAKTI"}, {"id": "7201072023", "district_id": "720107", "name": "PISOU"}, {"id": "7201072024", "district_id": "720107", "name": "LAMBANGAN"}, {"id": "7201072025", "district_id": "720107", "name": "TOIPAN"}, {"id": "7201072026", "district_id": "720107", "name": "SIUNA"}, {"id": "7201072027", "district_id": "720107", "name": "PINAPUAN"}, {"id": "7201072029", "district_id": "720107", "name": "SEPA"}, {"id": "7201072030", "district_id": "720107", "name": "TALOYON"}, {"id": "7201072031", "district_id": "720107", "name": "UWEDAKA"}, {"id": "7201072032", "district_id": "720107", "name": "TINTINGAN"}, {"id": "7201072033", "district_id": "720107", "name": "BUNGAWON"}, {"id": "7201072034", "district_id": "720107", "name": "HUHAK"}, {"id": "7201072035", "district_id": "720107", "name": "POH"}, {"id": "7201072037", "district_id": "720107", "name": "BONDAT"}, {"id": "7201072038", "district_id": "720107", "name": "SAMMAJATEM"}, {"id": "7201072039", "district_id": "720107", "name": "BULU"}, {"id": "7201072041", "district_id": "720107", "name": "TOMBANG"}, {"id": "7201072043", "district_id": "720107", "name": "AMPERA"}, {"id": "7201072044", "district_id": "720107", "name": "DONGKALAN"}]
+[
+  {
+    "id": "7201071011",
+    "district_id": "720107",
+    "name": "PAKOWA"
+  },
+  {
+    "id": "7201071018",
+    "district_id": "720107",
+    "name": "PAGIMANA"
+  },
+  {
+    "id": "7201071022",
+    "district_id": "720107",
+    "name": "BASABUNGAN"
+  },
+  {
+    "id": "7201072001",
+    "district_id": "720107",
+    "name": "BALOA DODA"
+  },
+  {
+    "id": "7201072002",
+    "district_id": "720107",
+    "name": "TAMPE"
+  },
+  {
+    "id": "7201072010",
+    "district_id": "720107",
+    "name": "ASAAN"
+  },
+  {
+    "id": "7201072012",
+    "district_id": "720107",
+    "name": "BALAI GONDI"
+  },
+  {
+    "id": "7201072013",
+    "district_id": "720107",
+    "name": "BAJO POAT"
+  },
+  {
+    "id": "7201072014",
+    "district_id": "720107",
+    "name": "GOMUO"
+  },
+  {
+    "id": "7201072015",
+    "district_id": "720107",
+    "name": "NAIN"
+  },
+  {
+    "id": "7201072016",
+    "district_id": "720107",
+    "name": "LAMO"
+  },
+  {
+    "id": "7201072017",
+    "district_id": "720107",
+    "name": "TONGKONUNUK"
+  },
+  {
+    "id": "7201072019",
+    "district_id": "720107",
+    "name": "HOHUDONGAN"
+  },
+  {
+    "id": "7201072020",
+    "district_id": "720107",
+    "name": "SINAMPANGNYO"
+  },
+  {
+    "id": "7201072021",
+    "district_id": "720107",
+    "name": "JAYA BAKTI"
+  },
+  {
+    "id": "7201072023",
+    "district_id": "720107",
+    "name": "PISOU"
+  },
+  {
+    "id": "7201072024",
+    "district_id": "720107",
+    "name": "LAMBANGAN"
+  },
+  {
+    "id": "7201072025",
+    "district_id": "720107",
+    "name": "TOIPAN"
+  },
+  {
+    "id": "7201072026",
+    "district_id": "720107",
+    "name": "SIUNA"
+  },
+  {
+    "id": "7201072027",
+    "district_id": "720107",
+    "name": "PINAPUAN"
+  },
+  {
+    "id": "7201072029",
+    "district_id": "720107",
+    "name": "SEPA"
+  },
+  {
+    "id": "7201072030",
+    "district_id": "720107",
+    "name": "TALOYON"
+  },
+  {
+    "id": "7201072031",
+    "district_id": "720107",
+    "name": "UWEDAKA"
+  },
+  {
+    "id": "7201072032",
+    "district_id": "720107",
+    "name": "TINTINGAN"
+  },
+  {
+    "id": "7201072033",
+    "district_id": "720107",
+    "name": "BUNGAWON"
+  },
+  {
+    "id": "7201072034",
+    "district_id": "720107",
+    "name": "HUHAK"
+  },
+  {
+    "id": "7201072035",
+    "district_id": "720107",
+    "name": "POH"
+  },
+  {
+    "id": "7201072037",
+    "district_id": "720107",
+    "name": "BONDAT"
+  },
+  {
+    "id": "7201072038",
+    "district_id": "720107",
+    "name": "SAMMAJATEM"
+  },
+  {
+    "id": "7201072039",
+    "district_id": "720107",
+    "name": "BULU"
+  },
+  {
+    "id": "7201072041",
+    "district_id": "720107",
+    "name": "TOMBANG"
+  },
+  {
+    "id": "7201072043",
+    "district_id": "720107",
+    "name": "AMPERA"
+  },
+  {
+    "id": "7201072044",
+    "district_id": "720107",
+    "name": "DONGKALAN"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "1808011005", "district_id": "180801", "name": "BLAMBANGAN UMPU"}, {"id": "1808012006", "district_id": "180801", "name": "LEMBASUNG"}, {"id": "1808012009", "district_id": "180801", "name": "GUNUNG SANGKARAN"}, {"id": "1808012010", "district_id": "180801", "name": "TANJUNG RAJA GIHAM"}, {"id": "1808012011", "district_id": "180801", "name": "SEGARA MIDER"}, {"id": "1808012012", "district_id": "180801", "name": "UMPU BHAKTI"}, {"id": "1808012013", "district_id": "180801", "name": "SANGKARAN BHAKTI"}, {"id": "1808012014", "district_id": "180801", "name": "BUMI BARU"}, {"id": "1808012015", "district_id": "180801", "name": "TANJUNG SARI"}, {"id": "1808012016", "district_id": "180801", "name": "SRI REJEKI"}, {"id": "1808012017", "district_id": "180801", "name": "KARANG UMPU"}, {"id": "1808012018", "district_id": "180801", "name": "UMPU KENCANA"}, {"id": "1808012022", "district_id": "180801", "name": "TANJUNG RAJA SAKTI"}]
+[
+  {
+    "id": "1808011005",
+    "district_id": "180801",
+    "name": "BLAMBANGAN UMPU"
+  },
+  {
+    "id": "1808012006",
+    "district_id": "180801",
+    "name": "LEMBASUNG"
+  },
+  {
+    "id": "1808012009",
+    "district_id": "180801",
+    "name": "GUNUNG SANGKARAN"
+  },
+  {
+    "id": "1808012010",
+    "district_id": "180801",
+    "name": "TANJUNG RAJA GIHAM"
+  },
+  {
+    "id": "1808012011",
+    "district_id": "180801",
+    "name": "SEGARA MIDER"
+  },
+  {
+    "id": "1808012012",
+    "district_id": "180801",
+    "name": "UMPU BHAKTI"
+  },
+  {
+    "id": "1808012013",
+    "district_id": "180801",
+    "name": "SANGKARAN BHAKTI"
+  },
+  {
+    "id": "1808012014",
+    "district_id": "180801",
+    "name": "BUMI BARU"
+  },
+  {
+    "id": "1808012015",
+    "district_id": "180801",
+    "name": "TANJUNG SARI"
+  },
+  {
+    "id": "1808012016",
+    "district_id": "180801",
+    "name": "SRI REJEKI"
+  },
+  {
+    "id": "1808012017",
+    "district_id": "180801",
+    "name": "KARANG UMPU"
+  },
+  {
+    "id": "1808012018",
+    "district_id": "180801",
+    "name": "UMPU KENCANA"
+  },
+  {
+    "id": "1808012022",
+    "district_id": "180801",
+    "name": "TANJUNG RAJA SAKTI"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "3602202001", "district_id": "360220", "name": "CILOGRANG"}, {"id": "3602202002", "district_id": "360220", "name": "CIBARENO"}, {"id": "3602202003", "district_id": "360220", "name": "CIKAMUNDING"}, {"id": "3602202004", "district_id": "360220", "name": "CIJENGKOL"}, {"id": "3602202005", "district_id": "360220", "name": "PASIRBUNGUR"}, {"id": "3602202006", "district_id": "360220", "name": "LEBAKTIPAR"}, {"id": "3602202007", "district_id": "360220", "name": "CIKATOMAS"}, {"id": "3602202008", "district_id": "360220", "name": "GIRIMUKTI"}, {"id": "3602202009", "district_id": "360220", "name": "CIREUNDEU"}, {"id": "3602202010", "district_id": "360220", "name": "GUNUNGBATU"}]
+[
+  {
+    "id": "3602202001",
+    "district_id": "360220",
+    "name": "CILOGRANG"
+  },
+  {
+    "id": "3602202002",
+    "district_id": "360220",
+    "name": "CIBARENO"
+  },
+  {
+    "id": "3602202003",
+    "district_id": "360220",
+    "name": "CIKAMUNDING"
+  },
+  {
+    "id": "3602202004",
+    "district_id": "360220",
+    "name": "CIJENGKOL"
+  },
+  {
+    "id": "3602202005",
+    "district_id": "360220",
+    "name": "PASIRBUNGUR"
+  },
+  {
+    "id": "3602202006",
+    "district_id": "360220",
+    "name": "LEBAKTIPAR"
+  },
+  {
+    "id": "3602202007",
+    "district_id": "360220",
+    "name": "CIKATOMAS"
+  },
+  {
+    "id": "3602202008",
+    "district_id": "360220",
+    "name": "GIRIMUKTI"
+  },
+  {
+    "id": "3602202009",
+    "district_id": "360220",
+    "name": "CIREUNDEU"
+  },
+  {
+    "id": "3602202010",
+    "district_id": "360220",
+    "name": "GUNUNGBATU"
+  }
+]

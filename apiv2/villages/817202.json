@@ -1,1 +1,27 @@
-[{"id": "8172021003", "district_id": "817202", "name": "KETSOBLAK"}, {"id": "8172021004", "district_id": "817202", "name": "MASRUM"}, {"id": "8172021005", "district_id": "817202", "name": "LODAR EL"}, {"id": "8172022001", "district_id": "817202", "name": "TUAL"}, {"id": "8172022002", "district_id": "817202", "name": "TAAR"}]
+[
+  {
+    "id": "8172021003",
+    "district_id": "817202",
+    "name": "KETSOBLAK"
+  },
+  {
+    "id": "8172021004",
+    "district_id": "817202",
+    "name": "MASRUM"
+  },
+  {
+    "id": "8172021005",
+    "district_id": "817202",
+    "name": "LODAR EL"
+  },
+  {
+    "id": "8172022001",
+    "district_id": "817202",
+    "name": "TUAL"
+  },
+  {
+    "id": "8172022002",
+    "district_id": "817202",
+    "name": "TAAR"
+  }
+]

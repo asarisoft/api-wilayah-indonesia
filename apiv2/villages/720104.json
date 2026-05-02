@@ -1,1 +1,52 @@
-[{"id": "7201041009", "district_id": "720104", "name": "LUWUK"}, {"id": "7201041010", "district_id": "720104", "name": "BARU"}, {"id": "7201041011", "district_id": "720104", "name": "SOHO"}, {"id": "7201041012", "district_id": "720104", "name": "BUNGIN"}, {"id": "7201041031", "district_id": "720104", "name": "KARATON"}, {"id": "7201041033", "district_id": "720104", "name": "KALEKE"}, {"id": "7201041034", "district_id": "720104", "name": "BUNGIN TIMUR"}, {"id": "7201041035", "district_id": "720104", "name": "MANGKIO BARU"}, {"id": "7201042008", "district_id": "720104", "name": "TONTOUAN"}, {"id": "7201042013", "district_id": "720104", "name": "LUMPOKNYO"}]
+[
+  {
+    "id": "7201041009",
+    "district_id": "720104",
+    "name": "LUWUK"
+  },
+  {
+    "id": "7201041010",
+    "district_id": "720104",
+    "name": "BARU"
+  },
+  {
+    "id": "7201041011",
+    "district_id": "720104",
+    "name": "SOHO"
+  },
+  {
+    "id": "7201041012",
+    "district_id": "720104",
+    "name": "BUNGIN"
+  },
+  {
+    "id": "7201041031",
+    "district_id": "720104",
+    "name": "KARATON"
+  },
+  {
+    "id": "7201041033",
+    "district_id": "720104",
+    "name": "KALEKE"
+  },
+  {
+    "id": "7201041034",
+    "district_id": "720104",
+    "name": "BUNGIN TIMUR"
+  },
+  {
+    "id": "7201041035",
+    "district_id": "720104",
+    "name": "MANGKIO BARU"
+  },
+  {
+    "id": "7201042008",
+    "district_id": "720104",
+    "name": "TONTOUAN"
+  },
+  {
+    "id": "7201042013",
+    "district_id": "720104",
+    "name": "LUMPOKNYO"
+  }
+]

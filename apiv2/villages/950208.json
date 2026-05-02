@@ -1,1 +1,37 @@
-[{"id": "9502082001", "district_id": "950208", "name": "ABOY"}, {"id": "9502082002", "district_id": "950208", "name": "LUBAN"}, {"id": "9502082003", "district_id": "950208", "name": "JUBLY"}, {"id": "9502082004", "district_id": "950208", "name": "ARMISE"}, {"id": "9502082005", "district_id": "950208", "name": "WORO"}, {"id": "9502082006", "district_id": "950208", "name": "PIPAL"}, {"id": "9502082007", "district_id": "950208", "name": "LULIS WII"}]
+[
+  {
+    "id": "9502082001",
+    "district_id": "950208",
+    "name": "ABOY"
+  },
+  {
+    "id": "9502082002",
+    "district_id": "950208",
+    "name": "LUBAN"
+  },
+  {
+    "id": "9502082003",
+    "district_id": "950208",
+    "name": "JUBLY"
+  },
+  {
+    "id": "9502082004",
+    "district_id": "950208",
+    "name": "ARMISE"
+  },
+  {
+    "id": "9502082005",
+    "district_id": "950208",
+    "name": "WORO"
+  },
+  {
+    "id": "9502082006",
+    "district_id": "950208",
+    "name": "PIPAL"
+  },
+  {
+    "id": "9502082007",
+    "district_id": "950208",
+    "name": "LULIS WII"
+  }
+]

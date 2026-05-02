@@ -1,1 +1,52 @@
-[{"id": "1812021001", "district_id": "181202", "name": "DAYA MURNI"}, {"id": "1812022002", "district_id": "181202", "name": "DAYA SAKTI"}, {"id": "1812022003", "district_id": "181202", "name": "MARGO MULYO"}, {"id": "1812022004", "district_id": "181202", "name": "MAKARTI"}, {"id": "1812022005", "district_id": "181202", "name": "GUNUNG MENANTI"}, {"id": "1812022006", "district_id": "181202", "name": "DAYA ASRI"}, {"id": "1812022007", "district_id": "181202", "name": "MURNI JAYA"}, {"id": "1812022008", "district_id": "181202", "name": "SUMBER REJO"}, {"id": "1812022009", "district_id": "181202", "name": "MARGO DADI"}, {"id": "1812022010", "district_id": "181202", "name": "GUNUNG TIMBUL"}]
+[
+  {
+    "id": "1812021001",
+    "district_id": "181202",
+    "name": "DAYA MURNI"
+  },
+  {
+    "id": "1812022002",
+    "district_id": "181202",
+    "name": "DAYA SAKTI"
+  },
+  {
+    "id": "1812022003",
+    "district_id": "181202",
+    "name": "MARGO MULYO"
+  },
+  {
+    "id": "1812022004",
+    "district_id": "181202",
+    "name": "MAKARTI"
+  },
+  {
+    "id": "1812022005",
+    "district_id": "181202",
+    "name": "GUNUNG MENANTI"
+  },
+  {
+    "id": "1812022006",
+    "district_id": "181202",
+    "name": "DAYA ASRI"
+  },
+  {
+    "id": "1812022007",
+    "district_id": "181202",
+    "name": "MURNI JAYA"
+  },
+  {
+    "id": "1812022008",
+    "district_id": "181202",
+    "name": "SUMBER REJO"
+  },
+  {
+    "id": "1812022009",
+    "district_id": "181202",
+    "name": "MARGO DADI"
+  },
+  {
+    "id": "1812022010",
+    "district_id": "181202",
+    "name": "GUNUNG TIMBUL"
+  }
+]

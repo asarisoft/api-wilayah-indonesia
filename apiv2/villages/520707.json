@@ -1,1 +1,32 @@
-[{"id": "5207072001", "district_id": "520707", "name": "MURA"}, {"id": "5207072002", "district_id": "520707", "name": "KALIMANTONG"}, {"id": "5207072003", "district_id": "520707", "name": "LAMPOK"}, {"id": "5207072004", "district_id": "520707", "name": "MANEMENG"}, {"id": "5207072005", "district_id": "520707", "name": "MUJAHIDDIN"}, {"id": "5207072006", "district_id": "520707", "name": "MATAIYANG"}]
+[
+  {
+    "id": "5207072001",
+    "district_id": "520707",
+    "name": "MURA"
+  },
+  {
+    "id": "5207072002",
+    "district_id": "520707",
+    "name": "KALIMANTONG"
+  },
+  {
+    "id": "5207072003",
+    "district_id": "520707",
+    "name": "LAMPOK"
+  },
+  {
+    "id": "5207072004",
+    "district_id": "520707",
+    "name": "MANEMENG"
+  },
+  {
+    "id": "5207072005",
+    "district_id": "520707",
+    "name": "MUJAHIDDIN"
+  },
+  {
+    "id": "5207072006",
+    "district_id": "520707",
+    "name": "MATAIYANG"
+  }
+]

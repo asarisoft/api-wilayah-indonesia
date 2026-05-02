@@ -1,1 +1,57 @@
-[{"id": "9304122001", "district_id": "930412", "name": "KAPI"}, {"id": "9304122002", "district_id": "930412", "name": "AS"}, {"id": "9304122003", "district_id": "930412", "name": "ATAT"}, {"id": "9304122004", "district_id": "930412", "name": "AOU"}, {"id": "9304122005", "district_id": "930412", "name": "NAKAI"}, {"id": "9304122006", "district_id": "930412", "name": "ESMAPAN"}, {"id": "9304122007", "district_id": "930412", "name": "EROKO"}, {"id": "9304122008", "district_id": "930412", "name": "YAKAPIS"}, {"id": "9304122009", "district_id": "930412", "name": "WEO"}, {"id": "9304122010", "district_id": "930412", "name": "AOAP"}, {"id": "9304122011", "district_id": "930412", "name": "FUMEREIPITS"}]
+[
+  {
+    "id": "9304122001",
+    "district_id": "930412",
+    "name": "KAPI"
+  },
+  {
+    "id": "9304122002",
+    "district_id": "930412",
+    "name": "AS"
+  },
+  {
+    "id": "9304122003",
+    "district_id": "930412",
+    "name": "ATAT"
+  },
+  {
+    "id": "9304122004",
+    "district_id": "930412",
+    "name": "AOU"
+  },
+  {
+    "id": "9304122005",
+    "district_id": "930412",
+    "name": "NAKAI"
+  },
+  {
+    "id": "9304122006",
+    "district_id": "930412",
+    "name": "ESMAPAN"
+  },
+  {
+    "id": "9304122007",
+    "district_id": "930412",
+    "name": "EROKO"
+  },
+  {
+    "id": "9304122008",
+    "district_id": "930412",
+    "name": "YAKAPIS"
+  },
+  {
+    "id": "9304122009",
+    "district_id": "930412",
+    "name": "WEO"
+  },
+  {
+    "id": "9304122010",
+    "district_id": "930412",
+    "name": "AOAP"
+  },
+  {
+    "id": "9304122011",
+    "district_id": "930412",
+    "name": "FUMEREIPITS"
+  }
+]

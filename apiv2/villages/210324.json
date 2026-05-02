@@ -1,1 +1,12 @@
-[{"id": "2103242001", "district_id": "210324", "name": "KELARIK BARAT"}, {"id": "2103242002", "district_id": "210324", "name": "SELUAN BARAT"}]
+[
+  {
+    "id": "2103242001",
+    "district_id": "210324",
+    "name": "KELARIK BARAT"
+  },
+  {
+    "id": "2103242002",
+    "district_id": "210324",
+    "name": "SELUAN BARAT"
+  }
+]

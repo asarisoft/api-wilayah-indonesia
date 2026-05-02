@@ -1,1 +1,127 @@
-[{"id": "3514061024", "district_id": "351406", "name": "KEJAYAN"}, {"id": "3514062001", "district_id": "351406", "name": "ORO-ORO PULE"}, {"id": "3514062002", "district_id": "351406", "name": "KEDUNG PENGARON"}, {"id": "3514062003", "district_id": "351406", "name": "BENERWOJO"}, {"id": "3514062004", "district_id": "351406", "name": "COBANJOYO"}, {"id": "3514062005", "district_id": "351406", "name": "KEPUH"}, {"id": "3514062006", "district_id": "351406", "name": "LOROKAN"}, {"id": "3514062007", "district_id": "351406", "name": "KLANGRONG"}, {"id": "3514062008", "district_id": "351406", "name": "LINGGO"}, {"id": "3514062009", "district_id": "351406", "name": "AMBAL-AMBIL"}, {"id": "3514062010", "district_id": "351406", "name": "KEDEMUNGAN"}, {"id": "3514062011", "district_id": "351406", "name": "WRATI"}, {"id": "3514062012", "district_id": "351406", "name": "PACARKELING"}, {"id": "3514062013", "district_id": "351406", "name": "LUWUK"}, {"id": "3514062014", "district_id": "351406", "name": "SUMBERSUKO"}, {"id": "3514062015", "district_id": "351406", "name": "SUMBER BANTENG"}, {"id": "3514062016", "district_id": "351406", "name": "KURUNG"}, {"id": "3514062017", "district_id": "351406", "name": "TANGGULANGIN"}, {"id": "3514062018", "district_id": "351406", "name": "RANDUGONG"}, {"id": "3514062019", "district_id": "351406", "name": "WANGKAL WETAN"}, {"id": "3514062020", "district_id": "351406", "name": "KLINTER"}, {"id": "3514062021", "district_id": "351406", "name": "TUNDOSORO"}, {"id": "3514062022", "district_id": "351406", "name": "KETANGIREJO"}, {"id": "3514062023", "district_id": "351406", "name": "PATEBON"}, {"id": "3514062025", "district_id": "351406", "name": "SLADI"}]
+[
+  {
+    "id": "3514061024",
+    "district_id": "351406",
+    "name": "KEJAYAN"
+  },
+  {
+    "id": "3514062001",
+    "district_id": "351406",
+    "name": "ORO-ORO PULE"
+  },
+  {
+    "id": "3514062002",
+    "district_id": "351406",
+    "name": "KEDUNG PENGARON"
+  },
+  {
+    "id": "3514062003",
+    "district_id": "351406",
+    "name": "BENERWOJO"
+  },
+  {
+    "id": "3514062004",
+    "district_id": "351406",
+    "name": "COBANJOYO"
+  },
+  {
+    "id": "3514062005",
+    "district_id": "351406",
+    "name": "KEPUH"
+  },
+  {
+    "id": "3514062006",
+    "district_id": "351406",
+    "name": "LOROKAN"
+  },
+  {
+    "id": "3514062007",
+    "district_id": "351406",
+    "name": "KLANGRONG"
+  },
+  {
+    "id": "3514062008",
+    "district_id": "351406",
+    "name": "LINGGO"
+  },
+  {
+    "id": "3514062009",
+    "district_id": "351406",
+    "name": "AMBAL-AMBIL"
+  },
+  {
+    "id": "3514062010",
+    "district_id": "351406",
+    "name": "KEDEMUNGAN"
+  },
+  {
+    "id": "3514062011",
+    "district_id": "351406",
+    "name": "WRATI"
+  },
+  {
+    "id": "3514062012",
+    "district_id": "351406",
+    "name": "PACARKELING"
+  },
+  {
+    "id": "3514062013",
+    "district_id": "351406",
+    "name": "LUWUK"
+  },
+  {
+    "id": "3514062014",
+    "district_id": "351406",
+    "name": "SUMBERSUKO"
+  },
+  {
+    "id": "3514062015",
+    "district_id": "351406",
+    "name": "SUMBER BANTENG"
+  },
+  {
+    "id": "3514062016",
+    "district_id": "351406",
+    "name": "KURUNG"
+  },
+  {
+    "id": "3514062017",
+    "district_id": "351406",
+    "name": "TANGGULANGIN"
+  },
+  {
+    "id": "3514062018",
+    "district_id": "351406",
+    "name": "RANDUGONG"
+  },
+  {
+    "id": "3514062019",
+    "district_id": "351406",
+    "name": "WANGKAL WETAN"
+  },
+  {
+    "id": "3514062020",
+    "district_id": "351406",
+    "name": "KLINTER"
+  },
+  {
+    "id": "3514062021",
+    "district_id": "351406",
+    "name": "TUNDOSORO"
+  },
+  {
+    "id": "3514062022",
+    "district_id": "351406",
+    "name": "KETANGIREJO"
+  },
+  {
+    "id": "3514062023",
+    "district_id": "351406",
+    "name": "PATEBON"
+  },
+  {
+    "id": "3514062025",
+    "district_id": "351406",
+    "name": "SLADI"
+  }
+]

@@ -1,1 +1,122 @@
-[{"id": "351401", "regency_id": "3514", "name": "PURWODADI"}, {"id": "351402", "regency_id": "3514", "name": "TUTUR"}, {"id": "351403", "regency_id": "3514", "name": "PUSPO"}, {"id": "351404", "regency_id": "3514", "name": "LUMBANG"}, {"id": "351405", "regency_id": "3514", "name": "PASREPAN"}, {"id": "351406", "regency_id": "3514", "name": "KEJAYAN"}, {"id": "351407", "regency_id": "3514", "name": "WONOREJO"}, {"id": "351408", "regency_id": "3514", "name": "PURWOSARI"}, {"id": "351409", "regency_id": "3514", "name": "SUKOREJO"}, {"id": "351410", "regency_id": "3514", "name": "PRIGEN"}, {"id": "351411", "regency_id": "3514", "name": "PANDAAN"}, {"id": "351412", "regency_id": "3514", "name": "GEMPOL"}, {"id": "351413", "regency_id": "3514", "name": "BEJI"}, {"id": "351414", "regency_id": "3514", "name": "BANGIL"}, {"id": "351415", "regency_id": "3514", "name": "REMBANG"}, {"id": "351416", "regency_id": "3514", "name": "KRATON"}, {"id": "351417", "regency_id": "3514", "name": "POHJENTREK"}, {"id": "351418", "regency_id": "3514", "name": "GONDANGWETAN"}, {"id": "351419", "regency_id": "3514", "name": "WINONGAN"}, {"id": "351420", "regency_id": "3514", "name": "GRATI"}, {"id": "351421", "regency_id": "3514", "name": "NGULING"}, {"id": "351422", "regency_id": "3514", "name": "LEKOK"}, {"id": "351423", "regency_id": "3514", "name": "REJOSO"}, {"id": "351424", "regency_id": "3514", "name": "TOSARI"}]
+[
+  {
+    "id": "351401",
+    "regency_id": "3514",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "351402",
+    "regency_id": "3514",
+    "name": "TUTUR"
+  },
+  {
+    "id": "351403",
+    "regency_id": "3514",
+    "name": "PUSPO"
+  },
+  {
+    "id": "351404",
+    "regency_id": "3514",
+    "name": "LUMBANG"
+  },
+  {
+    "id": "351405",
+    "regency_id": "3514",
+    "name": "PASREPAN"
+  },
+  {
+    "id": "351406",
+    "regency_id": "3514",
+    "name": "KEJAYAN"
+  },
+  {
+    "id": "351407",
+    "regency_id": "3514",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "351408",
+    "regency_id": "3514",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "351409",
+    "regency_id": "3514",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "351410",
+    "regency_id": "3514",
+    "name": "PRIGEN"
+  },
+  {
+    "id": "351411",
+    "regency_id": "3514",
+    "name": "PANDAAN"
+  },
+  {
+    "id": "351412",
+    "regency_id": "3514",
+    "name": "GEMPOL"
+  },
+  {
+    "id": "351413",
+    "regency_id": "3514",
+    "name": "BEJI"
+  },
+  {
+    "id": "351414",
+    "regency_id": "3514",
+    "name": "BANGIL"
+  },
+  {
+    "id": "351415",
+    "regency_id": "3514",
+    "name": "REMBANG"
+  },
+  {
+    "id": "351416",
+    "regency_id": "3514",
+    "name": "KRATON"
+  },
+  {
+    "id": "351417",
+    "regency_id": "3514",
+    "name": "POHJENTREK"
+  },
+  {
+    "id": "351418",
+    "regency_id": "3514",
+    "name": "GONDANGWETAN"
+  },
+  {
+    "id": "351419",
+    "regency_id": "3514",
+    "name": "WINONGAN"
+  },
+  {
+    "id": "351420",
+    "regency_id": "3514",
+    "name": "GRATI"
+  },
+  {
+    "id": "351421",
+    "regency_id": "3514",
+    "name": "NGULING"
+  },
+  {
+    "id": "351422",
+    "regency_id": "3514",
+    "name": "LEKOK"
+  },
+  {
+    "id": "351423",
+    "regency_id": "3514",
+    "name": "REJOSO"
+  },
+  {
+    "id": "351424",
+    "regency_id": "3514",
+    "name": "TOSARI"
+  }
+]

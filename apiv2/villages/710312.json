@@ -1,1 +1,102 @@
-[{"id": "7103122001", "district_id": "710312", "name": "NAGHA I"}, {"id": "7103122002", "district_id": "710312", "name": "NAGHA II"}, {"id": "7103122003", "district_id": "710312", "name": "POKOL"}, {"id": "7103122004", "district_id": "710312", "name": "BALANE"}, {"id": "7103122005", "district_id": "710312", "name": "BINALA"}, {"id": "7103122006", "district_id": "710312", "name": "ULUNG PELIANG"}, {"id": "7103122007", "district_id": "710312", "name": "MENGGAWA"}, {"id": "7103122008", "district_id": "710312", "name": "KALINDA"}, {"id": "7103122009", "district_id": "710312", "name": "BEBU"}, {"id": "7103122010", "district_id": "710312", "name": "MAKALEKUHE"}, {"id": "7103122011", "district_id": "710312", "name": "PANANARU"}, {"id": "7103122012", "district_id": "710312", "name": "DAGHO"}, {"id": "7103122013", "district_id": "710312", "name": "MAHUMU"}, {"id": "7103122014", "district_id": "710312", "name": "LELIPANG"}, {"id": "7103122015", "district_id": "710312", "name": "MENGGAWA II"}, {"id": "7103122016", "district_id": "710312", "name": "KALAMA DARAT"}, {"id": "7103122017", "district_id": "710312", "name": "KALINDA I"}, {"id": "7103122018", "district_id": "710312", "name": "MAHUMU I"}, {"id": "7103122019", "district_id": "710312", "name": "MAHUMU II"}, {"id": "7103122020", "district_id": "710312", "name": "HESANG"}]
+[
+  {
+    "id": "7103122001",
+    "district_id": "710312",
+    "name": "NAGHA I"
+  },
+  {
+    "id": "7103122002",
+    "district_id": "710312",
+    "name": "NAGHA II"
+  },
+  {
+    "id": "7103122003",
+    "district_id": "710312",
+    "name": "POKOL"
+  },
+  {
+    "id": "7103122004",
+    "district_id": "710312",
+    "name": "BALANE"
+  },
+  {
+    "id": "7103122005",
+    "district_id": "710312",
+    "name": "BINALA"
+  },
+  {
+    "id": "7103122006",
+    "district_id": "710312",
+    "name": "ULUNG PELIANG"
+  },
+  {
+    "id": "7103122007",
+    "district_id": "710312",
+    "name": "MENGGAWA"
+  },
+  {
+    "id": "7103122008",
+    "district_id": "710312",
+    "name": "KALINDA"
+  },
+  {
+    "id": "7103122009",
+    "district_id": "710312",
+    "name": "BEBU"
+  },
+  {
+    "id": "7103122010",
+    "district_id": "710312",
+    "name": "MAKALEKUHE"
+  },
+  {
+    "id": "7103122011",
+    "district_id": "710312",
+    "name": "PANANARU"
+  },
+  {
+    "id": "7103122012",
+    "district_id": "710312",
+    "name": "DAGHO"
+  },
+  {
+    "id": "7103122013",
+    "district_id": "710312",
+    "name": "MAHUMU"
+  },
+  {
+    "id": "7103122014",
+    "district_id": "710312",
+    "name": "LELIPANG"
+  },
+  {
+    "id": "7103122015",
+    "district_id": "710312",
+    "name": "MENGGAWA II"
+  },
+  {
+    "id": "7103122016",
+    "district_id": "710312",
+    "name": "KALAMA DARAT"
+  },
+  {
+    "id": "7103122017",
+    "district_id": "710312",
+    "name": "KALINDA I"
+  },
+  {
+    "id": "7103122018",
+    "district_id": "710312",
+    "name": "MAHUMU I"
+  },
+  {
+    "id": "7103122019",
+    "district_id": "710312",
+    "name": "MAHUMU II"
+  },
+  {
+    "id": "7103122020",
+    "district_id": "710312",
+    "name": "HESANG"
+  }
+]

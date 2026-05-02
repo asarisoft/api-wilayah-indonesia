@@ -1,1 +1,92 @@
-[{"id": "810101", "regency_id": "8101", "name": "AMAHAI"}, {"id": "810102", "regency_id": "8101", "name": "TEON NILA SERUA"}, {"id": "810106", "regency_id": "8101", "name": "SERAM UTARA"}, {"id": "810109", "regency_id": "8101", "name": "BANDA"}, {"id": "810111", "regency_id": "8101", "name": "TEHORU"}, {"id": "810112", "regency_id": "8101", "name": "SAPARUA"}, {"id": "810113", "regency_id": "8101", "name": "PULAU HARUKU"}, {"id": "810114", "regency_id": "8101", "name": "SALAHUTU"}, {"id": "810115", "regency_id": "8101", "name": "LEIHITU"}, {"id": "810116", "regency_id": "8101", "name": "NUSA LAUT"}, {"id": "810117", "regency_id": "8101", "name": "KOTA MASOHI"}, {"id": "810120", "regency_id": "8101", "name": "SERAM UTARA BARAT"}, {"id": "810121", "regency_id": "8101", "name": "TELUK ELPAPUTIH"}, {"id": "810122", "regency_id": "8101", "name": "LEIHITU BARAT"}, {"id": "810123", "regency_id": "8101", "name": "TELUTIH"}, {"id": "810124", "regency_id": "8101", "name": "SERAM UTARA TIMUR SETI"}, {"id": "810125", "regency_id": "8101", "name": "SERAM UTARA TIMUR KOBI"}, {"id": "810126", "regency_id": "8101", "name": "SAPARUA TIMUR"}]
+[
+  {
+    "id": "810101",
+    "regency_id": "8101",
+    "name": "AMAHAI"
+  },
+  {
+    "id": "810102",
+    "regency_id": "8101",
+    "name": "TEON NILA SERUA"
+  },
+  {
+    "id": "810106",
+    "regency_id": "8101",
+    "name": "SERAM UTARA"
+  },
+  {
+    "id": "810109",
+    "regency_id": "8101",
+    "name": "BANDA"
+  },
+  {
+    "id": "810111",
+    "regency_id": "8101",
+    "name": "TEHORU"
+  },
+  {
+    "id": "810112",
+    "regency_id": "8101",
+    "name": "SAPARUA"
+  },
+  {
+    "id": "810113",
+    "regency_id": "8101",
+    "name": "PULAU HARUKU"
+  },
+  {
+    "id": "810114",
+    "regency_id": "8101",
+    "name": "SALAHUTU"
+  },
+  {
+    "id": "810115",
+    "regency_id": "8101",
+    "name": "LEIHITU"
+  },
+  {
+    "id": "810116",
+    "regency_id": "8101",
+    "name": "NUSA LAUT"
+  },
+  {
+    "id": "810117",
+    "regency_id": "8101",
+    "name": "KOTA MASOHI"
+  },
+  {
+    "id": "810120",
+    "regency_id": "8101",
+    "name": "SERAM UTARA BARAT"
+  },
+  {
+    "id": "810121",
+    "regency_id": "8101",
+    "name": "TELUK ELPAPUTIH"
+  },
+  {
+    "id": "810122",
+    "regency_id": "8101",
+    "name": "LEIHITU BARAT"
+  },
+  {
+    "id": "810123",
+    "regency_id": "8101",
+    "name": "TELUTIH"
+  },
+  {
+    "id": "810124",
+    "regency_id": "8101",
+    "name": "SERAM UTARA TIMUR SETI"
+  },
+  {
+    "id": "810125",
+    "regency_id": "8101",
+    "name": "SERAM UTARA TIMUR KOBI"
+  },
+  {
+    "id": "810126",
+    "regency_id": "8101",
+    "name": "SAPARUA TIMUR"
+  }
+]

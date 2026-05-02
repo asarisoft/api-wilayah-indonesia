@@ -1,1 +1,112 @@
-[{"id": "1604072001", "district_id": "160407", "name": "BANGKE"}, {"id": "1604072002", "district_id": "160407", "name": "TEBAT LANGSAT"}, {"id": "1604072003", "district_id": "160407", "name": "SINGAPURE"}, {"id": "1604072004", "district_id": "160407", "name": "GUNUNG LIWAT"}, {"id": "1604072005", "district_id": "160407", "name": "KEBUN JATI"}, {"id": "1604072006", "district_id": "160407", "name": "BINTUHAN"}, {"id": "1604072007", "district_id": "160407", "name": "MUTAR ALAM BARU"}, {"id": "1604072008", "district_id": "160407", "name": "PANDAN ARANG ULU"}, {"id": "1604072009", "district_id": "160407", "name": "MUTAR ALAM LAMA"}, {"id": "1604072010", "district_id": "160407", "name": "TANJUNG RAMAN"}, {"id": "1604072011", "district_id": "160407", "name": "TUNGGUL BUTE"}, {"id": "1604072012", "district_id": "160407", "name": "KARANG ENDAH"}, {"id": "1604072013", "district_id": "160407", "name": "KARANG AGUNG"}, {"id": "1604072014", "district_id": "160407", "name": "SUKA RAJA"}, {"id": "1604072015", "district_id": "160407", "name": "GEDUNG AGUNG"}, {"id": "1604072016", "district_id": "160407", "name": "KOTA AGUNG"}, {"id": "1604072017", "district_id": "160407", "name": "LAWANG AGUNG"}, {"id": "1604072018", "district_id": "160407", "name": "SUKARAMI"}, {"id": "1604072019", "district_id": "160407", "name": "TANJUNG BERINGIN"}, {"id": "1604072020", "district_id": "160407", "name": "PAGARUYUNG"}, {"id": "1604072031", "district_id": "160407", "name": "MUARA GULA"}, {"id": "1604072032", "district_id": "160407", "name": "TANJUNG BULAN"}]
+[
+  {
+    "id": "1604072001",
+    "district_id": "160407",
+    "name": "BANGKE"
+  },
+  {
+    "id": "1604072002",
+    "district_id": "160407",
+    "name": "TEBAT LANGSAT"
+  },
+  {
+    "id": "1604072003",
+    "district_id": "160407",
+    "name": "SINGAPURE"
+  },
+  {
+    "id": "1604072004",
+    "district_id": "160407",
+    "name": "GUNUNG LIWAT"
+  },
+  {
+    "id": "1604072005",
+    "district_id": "160407",
+    "name": "KEBUN JATI"
+  },
+  {
+    "id": "1604072006",
+    "district_id": "160407",
+    "name": "BINTUHAN"
+  },
+  {
+    "id": "1604072007",
+    "district_id": "160407",
+    "name": "MUTAR ALAM BARU"
+  },
+  {
+    "id": "1604072008",
+    "district_id": "160407",
+    "name": "PANDAN ARANG ULU"
+  },
+  {
+    "id": "1604072009",
+    "district_id": "160407",
+    "name": "MUTAR ALAM LAMA"
+  },
+  {
+    "id": "1604072010",
+    "district_id": "160407",
+    "name": "TANJUNG RAMAN"
+  },
+  {
+    "id": "1604072011",
+    "district_id": "160407",
+    "name": "TUNGGUL BUTE"
+  },
+  {
+    "id": "1604072012",
+    "district_id": "160407",
+    "name": "KARANG ENDAH"
+  },
+  {
+    "id": "1604072013",
+    "district_id": "160407",
+    "name": "KARANG AGUNG"
+  },
+  {
+    "id": "1604072014",
+    "district_id": "160407",
+    "name": "SUKA RAJA"
+  },
+  {
+    "id": "1604072015",
+    "district_id": "160407",
+    "name": "GEDUNG AGUNG"
+  },
+  {
+    "id": "1604072016",
+    "district_id": "160407",
+    "name": "KOTA AGUNG"
+  },
+  {
+    "id": "1604072017",
+    "district_id": "160407",
+    "name": "LAWANG AGUNG"
+  },
+  {
+    "id": "1604072018",
+    "district_id": "160407",
+    "name": "SUKARAMI"
+  },
+  {
+    "id": "1604072019",
+    "district_id": "160407",
+    "name": "TANJUNG BERINGIN"
+  },
+  {
+    "id": "1604072020",
+    "district_id": "160407",
+    "name": "PAGARUYUNG"
+  },
+  {
+    "id": "1604072031",
+    "district_id": "160407",
+    "name": "MUARA GULA"
+  },
+  {
+    "id": "1604072032",
+    "district_id": "160407",
+    "name": "TANJUNG BULAN"
+  }
+]

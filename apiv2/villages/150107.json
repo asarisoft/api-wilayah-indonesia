@@ -1,1 +1,47 @@
-[{"id": "1501072004", "district_id": "150107", "name": "TARUTUNG"}, {"id": "1501072006", "district_id": "150107", "name": "LUBUK PAKU"}, {"id": "1501072007", "district_id": "150107", "name": "TAMIAI"}, {"id": "1501072008", "district_id": "150107", "name": "PEMATANG LINGKUNG"}, {"id": "1501072009", "district_id": "150107", "name": "PASAR TAMIAI"}, {"id": "1501072010", "district_id": "150107", "name": "SEBERANG MERANGIN"}, {"id": "1501072011", "district_id": "150107", "name": "BARU PULAU SANGKAR"}, {"id": "1501072013", "district_id": "150107", "name": "BATANG MERANGIN"}, {"id": "1501072014", "district_id": "150107", "name": "MUARA HEMAT"}]
+[
+  {
+    "id": "1501072004",
+    "district_id": "150107",
+    "name": "TARUTUNG"
+  },
+  {
+    "id": "1501072006",
+    "district_id": "150107",
+    "name": "LUBUK PAKU"
+  },
+  {
+    "id": "1501072007",
+    "district_id": "150107",
+    "name": "TAMIAI"
+  },
+  {
+    "id": "1501072008",
+    "district_id": "150107",
+    "name": "PEMATANG LINGKUNG"
+  },
+  {
+    "id": "1501072009",
+    "district_id": "150107",
+    "name": "PASAR TAMIAI"
+  },
+  {
+    "id": "1501072010",
+    "district_id": "150107",
+    "name": "SEBERANG MERANGIN"
+  },
+  {
+    "id": "1501072011",
+    "district_id": "150107",
+    "name": "BARU PULAU SANGKAR"
+  },
+  {
+    "id": "1501072013",
+    "district_id": "150107",
+    "name": "BATANG MERANGIN"
+  },
+  {
+    "id": "1501072014",
+    "district_id": "150107",
+    "name": "MUARA HEMAT"
+  }
+]

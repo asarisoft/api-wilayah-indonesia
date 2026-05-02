@@ -1,1 +1,37 @@
-[{"id": "9111092001", "district_id": "911109", "name": "YAMARA"}, {"id": "9111092002", "district_id": "911109", "name": "WEMBI"}, {"id": "9111092003", "district_id": "911109", "name": "WONOREJO"}, {"id": "9111092004", "district_id": "911109", "name": "PYAWI"}, {"id": "9111092005", "district_id": "911109", "name": "SAWYATAMI"}, {"id": "9111092006", "district_id": "911109", "name": "WAMBES"}, {"id": "9111092007", "district_id": "911109", "name": "USKWAR"}]
+[
+  {
+    "id": "9111092001",
+    "district_id": "911109",
+    "name": "YAMARA"
+  },
+  {
+    "id": "9111092002",
+    "district_id": "911109",
+    "name": "WEMBI"
+  },
+  {
+    "id": "9111092003",
+    "district_id": "911109",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "9111092004",
+    "district_id": "911109",
+    "name": "PYAWI"
+  },
+  {
+    "id": "9111092005",
+    "district_id": "911109",
+    "name": "SAWYATAMI"
+  },
+  {
+    "id": "9111092006",
+    "district_id": "911109",
+    "name": "WAMBES"
+  },
+  {
+    "id": "9111092007",
+    "district_id": "911109",
+    "name": "USKWAR"
+  }
+]

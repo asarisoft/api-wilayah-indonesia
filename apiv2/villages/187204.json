@@ -1,1 +1,27 @@
-[{"id": "1872041001", "district_id": "187204", "name": "YOSODADI"}, {"id": "1872041002", "district_id": "187204", "name": "TEJOSARI"}, {"id": "1872041003", "district_id": "187204", "name": "IRING MULYO"}, {"id": "1872041004", "district_id": "187204", "name": "YOSOREJO"}, {"id": "1872041005", "district_id": "187204", "name": "TEJO AGUNG"}]
+[
+  {
+    "id": "1872041001",
+    "district_id": "187204",
+    "name": "YOSODADI"
+  },
+  {
+    "id": "1872041002",
+    "district_id": "187204",
+    "name": "TEJOSARI"
+  },
+  {
+    "id": "1872041003",
+    "district_id": "187204",
+    "name": "IRING MULYO"
+  },
+  {
+    "id": "1872041004",
+    "district_id": "187204",
+    "name": "YOSOREJO"
+  },
+  {
+    "id": "1872041005",
+    "district_id": "187204",
+    "name": "TEJO AGUNG"
+  }
+]

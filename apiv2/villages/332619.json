@@ -1,1 +1,57 @@
-[{"id": "3326192001", "district_id": "332619", "name": "PESANGGRAHAN"}, {"id": "3326192002", "district_id": "332619", "name": "SIJAMBE"}, {"id": "3326192003", "district_id": "332619", "name": "BEBEL"}, {"id": "3326192006", "district_id": "332619", "name": "WERDI"}, {"id": "3326192007", "district_id": "332619", "name": "ROWOYOSO"}, {"id": "3326192008", "district_id": "332619", "name": "SEMUT"}, {"id": "3326192009", "district_id": "332619", "name": "TRATEBANG"}, {"id": "3326192010", "district_id": "332619", "name": "WONOKERTOKULON"}, {"id": "3326192011", "district_id": "332619", "name": "WONOKERTOWETAN"}, {"id": "3326192012", "district_id": "332619", "name": "API-API"}, {"id": "3326192013", "district_id": "332619", "name": "PECAKARAN"}]
+[
+  {
+    "id": "3326192001",
+    "district_id": "332619",
+    "name": "PESANGGRAHAN"
+  },
+  {
+    "id": "3326192002",
+    "district_id": "332619",
+    "name": "SIJAMBE"
+  },
+  {
+    "id": "3326192003",
+    "district_id": "332619",
+    "name": "BEBEL"
+  },
+  {
+    "id": "3326192006",
+    "district_id": "332619",
+    "name": "WERDI"
+  },
+  {
+    "id": "3326192007",
+    "district_id": "332619",
+    "name": "ROWOYOSO"
+  },
+  {
+    "id": "3326192008",
+    "district_id": "332619",
+    "name": "SEMUT"
+  },
+  {
+    "id": "3326192009",
+    "district_id": "332619",
+    "name": "TRATEBANG"
+  },
+  {
+    "id": "3326192010",
+    "district_id": "332619",
+    "name": "WONOKERTOKULON"
+  },
+  {
+    "id": "3326192011",
+    "district_id": "332619",
+    "name": "WONOKERTOWETAN"
+  },
+  {
+    "id": "3326192012",
+    "district_id": "332619",
+    "name": "API-API"
+  },
+  {
+    "id": "3326192013",
+    "district_id": "332619",
+    "name": "PECAKARAN"
+  }
+]

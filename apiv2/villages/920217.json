@@ -1,1 +1,122 @@
-[{"id": "9202172001", "district_id": "920217", "name": "WARKAPI"}, {"id": "9202172002", "district_id": "920217", "name": "AYAWI"}, {"id": "9202172003", "district_id": "920217", "name": "UKOPTI"}, {"id": "9202172004", "district_id": "920217", "name": "MISABUGOID"}, {"id": "9202172005", "district_id": "920217", "name": "MBATMA"}, {"id": "9202172006", "district_id": "920217", "name": "URWAMBEI"}, {"id": "9202172007", "district_id": "920217", "name": "IMBEISIKA I"}, {"id": "9202172008", "district_id": "920217", "name": "IMBEISIKA II"}, {"id": "9202172009", "district_id": "920217", "name": "WARMAWAI"}, {"id": "9202172010", "district_id": "920217", "name": "REMBUY"}, {"id": "9202172011", "district_id": "920217", "name": "IMHASUMA"}, {"id": "9202172012", "district_id": "920217", "name": "CUYEHEP"}, {"id": "9202172013", "district_id": "920217", "name": "HANGHOUW"}, {"id": "9202172014", "district_id": "920217", "name": "NINGDIP"}, {"id": "9202172015", "district_id": "920217", "name": "WARAMI"}, {"id": "9202172016", "district_id": "920217", "name": "IMBOITI"}, {"id": "9202172017", "district_id": "920217", "name": "WARIARI"}, {"id": "9202172018", "district_id": "920217", "name": "INDIBO"}, {"id": "9202172019", "district_id": "920217", "name": "UMNUM"}, {"id": "9202172020", "district_id": "920217", "name": "UKEMBOISI"}, {"id": "9202172021", "district_id": "920217", "name": "MENYUMFOKU"}, {"id": "9202172022", "district_id": "920217", "name": "WEDONI"}, {"id": "9202172023", "district_id": "920217", "name": "MIROWI"}, {"id": "9202172024", "district_id": "920217", "name": "WARNYETI"}]
+[
+  {
+    "id": "9202172001",
+    "district_id": "920217",
+    "name": "WARKAPI"
+  },
+  {
+    "id": "9202172002",
+    "district_id": "920217",
+    "name": "AYAWI"
+  },
+  {
+    "id": "9202172003",
+    "district_id": "920217",
+    "name": "UKOPTI"
+  },
+  {
+    "id": "9202172004",
+    "district_id": "920217",
+    "name": "MISABUGOID"
+  },
+  {
+    "id": "9202172005",
+    "district_id": "920217",
+    "name": "MBATMA"
+  },
+  {
+    "id": "9202172006",
+    "district_id": "920217",
+    "name": "URWAMBEI"
+  },
+  {
+    "id": "9202172007",
+    "district_id": "920217",
+    "name": "IMBEISIKA I"
+  },
+  {
+    "id": "9202172008",
+    "district_id": "920217",
+    "name": "IMBEISIKA II"
+  },
+  {
+    "id": "9202172009",
+    "district_id": "920217",
+    "name": "WARMAWAI"
+  },
+  {
+    "id": "9202172010",
+    "district_id": "920217",
+    "name": "REMBUY"
+  },
+  {
+    "id": "9202172011",
+    "district_id": "920217",
+    "name": "IMHASUMA"
+  },
+  {
+    "id": "9202172012",
+    "district_id": "920217",
+    "name": "CUYEHEP"
+  },
+  {
+    "id": "9202172013",
+    "district_id": "920217",
+    "name": "HANGHOUW"
+  },
+  {
+    "id": "9202172014",
+    "district_id": "920217",
+    "name": "NINGDIP"
+  },
+  {
+    "id": "9202172015",
+    "district_id": "920217",
+    "name": "WARAMI"
+  },
+  {
+    "id": "9202172016",
+    "district_id": "920217",
+    "name": "IMBOITI"
+  },
+  {
+    "id": "9202172017",
+    "district_id": "920217",
+    "name": "WARIARI"
+  },
+  {
+    "id": "9202172018",
+    "district_id": "920217",
+    "name": "INDIBO"
+  },
+  {
+    "id": "9202172019",
+    "district_id": "920217",
+    "name": "UMNUM"
+  },
+  {
+    "id": "9202172020",
+    "district_id": "920217",
+    "name": "UKEMBOISI"
+  },
+  {
+    "id": "9202172021",
+    "district_id": "920217",
+    "name": "MENYUMFOKU"
+  },
+  {
+    "id": "9202172022",
+    "district_id": "920217",
+    "name": "WEDONI"
+  },
+  {
+    "id": "9202172023",
+    "district_id": "920217",
+    "name": "MIROWI"
+  },
+  {
+    "id": "9202172024",
+    "district_id": "920217",
+    "name": "WARNYETI"
+  }
+]

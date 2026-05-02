@@ -1,1 +1,82 @@
-[{"id": "332001", "regency_id": "3320", "name": "KEDUNG"}, {"id": "332002", "regency_id": "3320", "name": "PECANGAAN"}, {"id": "332003", "regency_id": "3320", "name": "WELAHAN"}, {"id": "332004", "regency_id": "3320", "name": "MAYONG"}, {"id": "332005", "regency_id": "3320", "name": "BATEALIT"}, {"id": "332006", "regency_id": "3320", "name": "JEPARA"}, {"id": "332007", "regency_id": "3320", "name": "MLONGGO"}, {"id": "332008", "regency_id": "3320", "name": "BANGSRI"}, {"id": "332009", "regency_id": "3320", "name": "KELING"}, {"id": "332010", "regency_id": "3320", "name": "KARIMUNJAWA"}, {"id": "332011", "regency_id": "3320", "name": "TAHUNAN"}, {"id": "332012", "regency_id": "3320", "name": "NALUMSARI"}, {"id": "332013", "regency_id": "3320", "name": "KALINYAMATAN"}, {"id": "332014", "regency_id": "3320", "name": "KEMBANG"}, {"id": "332015", "regency_id": "3320", "name": "PAKIS AJI"}, {"id": "332016", "regency_id": "3320", "name": "DONOROJO"}]
+[
+  {
+    "id": "332001",
+    "regency_id": "3320",
+    "name": "KEDUNG"
+  },
+  {
+    "id": "332002",
+    "regency_id": "3320",
+    "name": "PECANGAAN"
+  },
+  {
+    "id": "332003",
+    "regency_id": "3320",
+    "name": "WELAHAN"
+  },
+  {
+    "id": "332004",
+    "regency_id": "3320",
+    "name": "MAYONG"
+  },
+  {
+    "id": "332005",
+    "regency_id": "3320",
+    "name": "BATEALIT"
+  },
+  {
+    "id": "332006",
+    "regency_id": "3320",
+    "name": "JEPARA"
+  },
+  {
+    "id": "332007",
+    "regency_id": "3320",
+    "name": "MLONGGO"
+  },
+  {
+    "id": "332008",
+    "regency_id": "3320",
+    "name": "BANGSRI"
+  },
+  {
+    "id": "332009",
+    "regency_id": "3320",
+    "name": "KELING"
+  },
+  {
+    "id": "332010",
+    "regency_id": "3320",
+    "name": "KARIMUNJAWA"
+  },
+  {
+    "id": "332011",
+    "regency_id": "3320",
+    "name": "TAHUNAN"
+  },
+  {
+    "id": "332012",
+    "regency_id": "3320",
+    "name": "NALUMSARI"
+  },
+  {
+    "id": "332013",
+    "regency_id": "3320",
+    "name": "KALINYAMATAN"
+  },
+  {
+    "id": "332014",
+    "regency_id": "3320",
+    "name": "KEMBANG"
+  },
+  {
+    "id": "332015",
+    "regency_id": "3320",
+    "name": "PAKIS AJI"
+  },
+  {
+    "id": "332016",
+    "regency_id": "3320",
+    "name": "DONOROJO"
+  }
+]

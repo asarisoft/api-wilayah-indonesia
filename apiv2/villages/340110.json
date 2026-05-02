@@ -1,1 +1,32 @@
-[{"id": "3401102001", "district_id": "340110", "name": "BANYUROTO"}, {"id": "3401102002", "district_id": "340110", "name": "DONOMULYO"}, {"id": "3401102003", "district_id": "340110", "name": "WIJIMULYO"}, {"id": "3401102004", "district_id": "340110", "name": "TANJUNGHARJO"}, {"id": "3401102005", "district_id": "340110", "name": "JATISARONO"}, {"id": "3401102006", "district_id": "340110", "name": "KEMBANG"}]
+[
+  {
+    "id": "3401102001",
+    "district_id": "340110",
+    "name": "BANYUROTO"
+  },
+  {
+    "id": "3401102002",
+    "district_id": "340110",
+    "name": "DONOMULYO"
+  },
+  {
+    "id": "3401102003",
+    "district_id": "340110",
+    "name": "WIJIMULYO"
+  },
+  {
+    "id": "3401102004",
+    "district_id": "340110",
+    "name": "TANJUNGHARJO"
+  },
+  {
+    "id": "3401102005",
+    "district_id": "340110",
+    "name": "JATISARONO"
+  },
+  {
+    "id": "3401102006",
+    "district_id": "340110",
+    "name": "KEMBANG"
+  }
+]

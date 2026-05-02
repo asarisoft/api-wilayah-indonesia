@@ -1,1 +1,47 @@
-[{"id": "3213022001", "district_id": "321302", "name": "CUPUNAGARA"}, {"id": "3213022002", "district_id": "321302", "name": "CIMANGGU"}, {"id": "3213022003", "district_id": "321302", "name": "GARDUSAYANG"}, {"id": "3213022004", "district_id": "321302", "name": "MAYANG"}, {"id": "3213022005", "district_id": "321302", "name": "SUKAKERTI"}, {"id": "3213022007", "district_id": "321302", "name": "DARMAGA"}, {"id": "3213022008", "district_id": "321302", "name": "CISALAK"}, {"id": "3213022011", "district_id": "321302", "name": "CIGADOG"}, {"id": "3213022014", "district_id": "321302", "name": "PAKUHAJI"}]
+[
+  {
+    "id": "3213022001",
+    "district_id": "321302",
+    "name": "CUPUNAGARA"
+  },
+  {
+    "id": "3213022002",
+    "district_id": "321302",
+    "name": "CIMANGGU"
+  },
+  {
+    "id": "3213022003",
+    "district_id": "321302",
+    "name": "GARDUSAYANG"
+  },
+  {
+    "id": "3213022004",
+    "district_id": "321302",
+    "name": "MAYANG"
+  },
+  {
+    "id": "3213022005",
+    "district_id": "321302",
+    "name": "SUKAKERTI"
+  },
+  {
+    "id": "3213022007",
+    "district_id": "321302",
+    "name": "DARMAGA"
+  },
+  {
+    "id": "3213022008",
+    "district_id": "321302",
+    "name": "CISALAK"
+  },
+  {
+    "id": "3213022011",
+    "district_id": "321302",
+    "name": "CIGADOG"
+  },
+  {
+    "id": "3213022014",
+    "district_id": "321302",
+    "name": "PAKUHAJI"
+  }
+]

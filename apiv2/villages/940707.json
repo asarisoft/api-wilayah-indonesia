@@ -1,1 +1,32 @@
-[{"id": "9407072001", "district_id": "940707", "name": "UGIMBA"}, {"id": "9407072002", "district_id": "940707", "name": "BUNAOPA"}, {"id": "9407072003", "district_id": "940707", "name": "PIGABU"}, {"id": "9407072004", "district_id": "940707", "name": "TETEOPA"}, {"id": "9407072005", "district_id": "940707", "name": "DUKENDOPA"}, {"id": "9407072006", "district_id": "940707", "name": "NGGAMAGAE"}]
+[
+  {
+    "id": "9407072001",
+    "district_id": "940707",
+    "name": "UGIMBA"
+  },
+  {
+    "id": "9407072002",
+    "district_id": "940707",
+    "name": "BUNAOPA"
+  },
+  {
+    "id": "9407072003",
+    "district_id": "940707",
+    "name": "PIGABU"
+  },
+  {
+    "id": "9407072004",
+    "district_id": "940707",
+    "name": "TETEOPA"
+  },
+  {
+    "id": "9407072005",
+    "district_id": "940707",
+    "name": "DUKENDOPA"
+  },
+  {
+    "id": "9407072006",
+    "district_id": "940707",
+    "name": "NGGAMAGAE"
+  }
+]

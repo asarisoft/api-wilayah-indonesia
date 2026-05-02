@@ -1,1 +1,42 @@
-[{"id": "3509102001", "district_id": "350910", "name": "KARANGDUREN"}, {"id": "3509102002", "district_id": "350910", "name": "KARANG SEMANDING"}, {"id": "3509102003", "district_id": "350910", "name": "TUTUL"}, {"id": "3509102004", "district_id": "350910", "name": "BALUNGKULON"}, {"id": "3509102005", "district_id": "350910", "name": "BALUNGLOR"}, {"id": "3509102006", "district_id": "350910", "name": "BALUNGKIDUL"}, {"id": "3509102007", "district_id": "350910", "name": "CURAHLELE"}, {"id": "3509102008", "district_id": "350910", "name": "GUMELAR"}]
+[
+  {
+    "id": "3509102001",
+    "district_id": "350910",
+    "name": "KARANGDUREN"
+  },
+  {
+    "id": "3509102002",
+    "district_id": "350910",
+    "name": "KARANG SEMANDING"
+  },
+  {
+    "id": "3509102003",
+    "district_id": "350910",
+    "name": "TUTUL"
+  },
+  {
+    "id": "3509102004",
+    "district_id": "350910",
+    "name": "BALUNGKULON"
+  },
+  {
+    "id": "3509102005",
+    "district_id": "350910",
+    "name": "BALUNGLOR"
+  },
+  {
+    "id": "3509102006",
+    "district_id": "350910",
+    "name": "BALUNGKIDUL"
+  },
+  {
+    "id": "3509102007",
+    "district_id": "350910",
+    "name": "CURAHLELE"
+  },
+  {
+    "id": "3509102008",
+    "district_id": "350910",
+    "name": "GUMELAR"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3206042001", "district_id": "320604", "name": "CIBUNIASIH"}, {"id": "3206042002", "district_id": "320604", "name": "PANGLIARAN"}, {"id": "3206042003", "district_id": "320604", "name": "TONJONG"}, {"id": "3206042004", "district_id": "320604", "name": "CIBONGAS"}, {"id": "3206042005", "district_id": "320604", "name": "TAWANG"}, {"id": "3206042006", "district_id": "320604", "name": "NEGLASARI"}, {"id": "3206042007", "district_id": "320604", "name": "CIKAWUNG"}, {"id": "3206042008", "district_id": "320604", "name": "JAYAMUKTI"}, {"id": "3206042009", "district_id": "320604", "name": "MARGALUYU"}, {"id": "3206042010", "district_id": "320604", "name": "MEKARSARI"}, {"id": "3206042011", "district_id": "320604", "name": "PANCAWANGI"}]
+[
+  {
+    "id": "3206042001",
+    "district_id": "320604",
+    "name": "CIBUNIASIH"
+  },
+  {
+    "id": "3206042002",
+    "district_id": "320604",
+    "name": "PANGLIARAN"
+  },
+  {
+    "id": "3206042003",
+    "district_id": "320604",
+    "name": "TONJONG"
+  },
+  {
+    "id": "3206042004",
+    "district_id": "320604",
+    "name": "CIBONGAS"
+  },
+  {
+    "id": "3206042005",
+    "district_id": "320604",
+    "name": "TAWANG"
+  },
+  {
+    "id": "3206042006",
+    "district_id": "320604",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3206042007",
+    "district_id": "320604",
+    "name": "CIKAWUNG"
+  },
+  {
+    "id": "3206042008",
+    "district_id": "320604",
+    "name": "JAYAMUKTI"
+  },
+  {
+    "id": "3206042009",
+    "district_id": "320604",
+    "name": "MARGALUYU"
+  },
+  {
+    "id": "3206042010",
+    "district_id": "320604",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3206042011",
+    "district_id": "320604",
+    "name": "PANCAWANGI"
+  }
+]

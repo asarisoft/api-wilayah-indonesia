@@ -1,1 +1,22 @@
-[{"id": "5312182001", "district_id": "531218", "name": "WEE TANA"}, {"id": "5312182002", "district_id": "531218", "name": "GAURA"}, {"id": "5312182003", "district_id": "531218", "name": "PATIALA DETE"}, {"id": "5312182004", "district_id": "531218", "name": "HARONA KALLA"}]
+[
+  {
+    "id": "5312182001",
+    "district_id": "531218",
+    "name": "WEE TANA"
+  },
+  {
+    "id": "5312182002",
+    "district_id": "531218",
+    "name": "GAURA"
+  },
+  {
+    "id": "5312182003",
+    "district_id": "531218",
+    "name": "PATIALA DETE"
+  },
+  {
+    "id": "5312182004",
+    "district_id": "531218",
+    "name": "HARONA KALLA"
+  }
+]

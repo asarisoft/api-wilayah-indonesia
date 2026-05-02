@@ -1,1 +1,57 @@
-[{"id": "8105152001", "district_id": "810515", "name": "WARU"}, {"id": "8105152002", "district_id": "810515", "name": "BELLIS"}, {"id": "8105152003", "district_id": "810515", "name": "DAWANG"}, {"id": "8105152004", "district_id": "810515", "name": "SOLANG"}, {"id": "8105152005", "district_id": "810515", "name": "KARAY"}, {"id": "8105152006", "district_id": "810515", "name": "NAMA LENA"}, {"id": "8105152007", "district_id": "810515", "name": "NAMA ANDAN"}, {"id": "8105152008", "district_id": "810515", "name": "TUBIR WASIWANG"}, {"id": "8105152009", "district_id": "810515", "name": "KAMPUNG BARU"}, {"id": "8105152010", "district_id": "810515", "name": "BOINFIA"}, {"id": "8105152011", "district_id": "810515", "name": "MADAK"}]
+[
+  {
+    "id": "8105152001",
+    "district_id": "810515",
+    "name": "WARU"
+  },
+  {
+    "id": "8105152002",
+    "district_id": "810515",
+    "name": "BELLIS"
+  },
+  {
+    "id": "8105152003",
+    "district_id": "810515",
+    "name": "DAWANG"
+  },
+  {
+    "id": "8105152004",
+    "district_id": "810515",
+    "name": "SOLANG"
+  },
+  {
+    "id": "8105152005",
+    "district_id": "810515",
+    "name": "KARAY"
+  },
+  {
+    "id": "8105152006",
+    "district_id": "810515",
+    "name": "NAMA LENA"
+  },
+  {
+    "id": "8105152007",
+    "district_id": "810515",
+    "name": "NAMA ANDAN"
+  },
+  {
+    "id": "8105152008",
+    "district_id": "810515",
+    "name": "TUBIR WASIWANG"
+  },
+  {
+    "id": "8105152009",
+    "district_id": "810515",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "8105152010",
+    "district_id": "810515",
+    "name": "BOINFIA"
+  },
+  {
+    "id": "8105152011",
+    "district_id": "810515",
+    "name": "MADAK"
+  }
+]

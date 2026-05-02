@@ -1,1 +1,27 @@
-[{"id": "3275021001", "district_id": "327502", "name": "BINTARA"}, {"id": "3275021002", "district_id": "327502", "name": "KRANJI"}, {"id": "3275021003", "district_id": "327502", "name": "KOTABARU"}, {"id": "3275021004", "district_id": "327502", "name": "BINTARAJAYA"}, {"id": "3275021005", "district_id": "327502", "name": "JAKASAMPURNA"}]
+[
+  {
+    "id": "3275021001",
+    "district_id": "327502",
+    "name": "BINTARA"
+  },
+  {
+    "id": "3275021002",
+    "district_id": "327502",
+    "name": "KRANJI"
+  },
+  {
+    "id": "3275021003",
+    "district_id": "327502",
+    "name": "KOTABARU"
+  },
+  {
+    "id": "3275021004",
+    "district_id": "327502",
+    "name": "BINTARAJAYA"
+  },
+  {
+    "id": "3275021005",
+    "district_id": "327502",
+    "name": "JAKASAMPURNA"
+  }
+]

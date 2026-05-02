@@ -1,1 +1,72 @@
-[{"id": "6106072001", "district_id": "610607", "name": "JONGKONG KIRI HILIR"}, {"id": "6106072002", "district_id": "610607", "name": "JONGKONG KANAN"}, {"id": "6106072003", "district_id": "610607", "name": "JONGKONG KIRI HULU"}, {"id": "6106072004", "district_id": "610607", "name": "JONGKONG PASAR"}, {"id": "6106072005", "district_id": "610607", "name": "UJUNG SAID"}, {"id": "6106072006", "district_id": "610607", "name": "TEMENANG"}, {"id": "6106072007", "district_id": "610607", "name": "UJUNG JAMBU"}, {"id": "6106072008", "district_id": "610607", "name": "BONTAI"}, {"id": "6106072009", "district_id": "610607", "name": "JONGKONG KIRI TENGAH"}, {"id": "6106072010", "district_id": "610607", "name": "JONGKONG TANJUNG"}, {"id": "6106072011", "district_id": "610607", "name": "KANDUNG SULI"}, {"id": "6106072012", "district_id": "610607", "name": "PENEPIAN RAYA"}, {"id": "6106072013", "district_id": "610607", "name": "KARYA BARU"}, {"id": "6106072014", "district_id": "610607", "name": "NANGA SERIAN"}]
+[
+  {
+    "id": "6106072001",
+    "district_id": "610607",
+    "name": "JONGKONG KIRI HILIR"
+  },
+  {
+    "id": "6106072002",
+    "district_id": "610607",
+    "name": "JONGKONG KANAN"
+  },
+  {
+    "id": "6106072003",
+    "district_id": "610607",
+    "name": "JONGKONG KIRI HULU"
+  },
+  {
+    "id": "6106072004",
+    "district_id": "610607",
+    "name": "JONGKONG PASAR"
+  },
+  {
+    "id": "6106072005",
+    "district_id": "610607",
+    "name": "UJUNG SAID"
+  },
+  {
+    "id": "6106072006",
+    "district_id": "610607",
+    "name": "TEMENANG"
+  },
+  {
+    "id": "6106072007",
+    "district_id": "610607",
+    "name": "UJUNG JAMBU"
+  },
+  {
+    "id": "6106072008",
+    "district_id": "610607",
+    "name": "BONTAI"
+  },
+  {
+    "id": "6106072009",
+    "district_id": "610607",
+    "name": "JONGKONG KIRI TENGAH"
+  },
+  {
+    "id": "6106072010",
+    "district_id": "610607",
+    "name": "JONGKONG TANJUNG"
+  },
+  {
+    "id": "6106072011",
+    "district_id": "610607",
+    "name": "KANDUNG SULI"
+  },
+  {
+    "id": "6106072012",
+    "district_id": "610607",
+    "name": "PENEPIAN RAYA"
+  },
+  {
+    "id": "6106072013",
+    "district_id": "610607",
+    "name": "KARYA BARU"
+  },
+  {
+    "id": "6106072014",
+    "district_id": "610607",
+    "name": "NANGA SERIAN"
+  }
+]

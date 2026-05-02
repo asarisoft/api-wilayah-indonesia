@@ -1,1 +1,22 @@
-[{"id": "510501", "regency_id": "5105", "name": "NUSA PENIDA"}, {"id": "510502", "regency_id": "5105", "name": "BANJARANGKAN"}, {"id": "510503", "regency_id": "5105", "name": "KLUNGKUNG"}, {"id": "510504", "regency_id": "5105", "name": "DAWAN"}]
+[
+  {
+    "id": "510501",
+    "regency_id": "5105",
+    "name": "NUSA PENIDA"
+  },
+  {
+    "id": "510502",
+    "regency_id": "5105",
+    "name": "BANJARANGKAN"
+  },
+  {
+    "id": "510503",
+    "regency_id": "5105",
+    "name": "KLUNGKUNG"
+  },
+  {
+    "id": "510504",
+    "regency_id": "5105",
+    "name": "DAWAN"
+  }
+]

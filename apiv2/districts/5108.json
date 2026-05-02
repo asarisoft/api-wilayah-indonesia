@@ -1,1 +1,47 @@
-[{"id": "510801", "regency_id": "5108", "name": "GEROKGAK"}, {"id": "510802", "regency_id": "5108", "name": "SERIRIT"}, {"id": "510803", "regency_id": "5108", "name": "BUSUNGBIU"}, {"id": "510804", "regency_id": "5108", "name": "BANJAR"}, {"id": "510805", "regency_id": "5108", "name": "SUKASADA"}, {"id": "510806", "regency_id": "5108", "name": "BULELENG"}, {"id": "510807", "regency_id": "5108", "name": "SAWAN"}, {"id": "510808", "regency_id": "5108", "name": "KUBUTAMBAHAN"}, {"id": "510809", "regency_id": "5108", "name": "TEJAKULA"}]
+[
+  {
+    "id": "510801",
+    "regency_id": "5108",
+    "name": "GEROKGAK"
+  },
+  {
+    "id": "510802",
+    "regency_id": "5108",
+    "name": "SERIRIT"
+  },
+  {
+    "id": "510803",
+    "regency_id": "5108",
+    "name": "BUSUNGBIU"
+  },
+  {
+    "id": "510804",
+    "regency_id": "5108",
+    "name": "BANJAR"
+  },
+  {
+    "id": "510805",
+    "regency_id": "5108",
+    "name": "SUKASADA"
+  },
+  {
+    "id": "510806",
+    "regency_id": "5108",
+    "name": "BULELENG"
+  },
+  {
+    "id": "510807",
+    "regency_id": "5108",
+    "name": "SAWAN"
+  },
+  {
+    "id": "510808",
+    "regency_id": "5108",
+    "name": "KUBUTAMBAHAN"
+  },
+  {
+    "id": "510809",
+    "regency_id": "5108",
+    "name": "TEJAKULA"
+  }
+]

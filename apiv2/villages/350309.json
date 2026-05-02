@@ -1,1 +1,42 @@
-[{"id": "3503092001", "district_id": "350309", "name": "MASARAN"}, {"id": "3503092002", "district_id": "350309", "name": "SENGON"}, {"id": "3503092003", "district_id": "350309", "name": "SURENLOR"}, {"id": "3503092004", "district_id": "350309", "name": "SUMURUP"}, {"id": "3503092005", "district_id": "350309", "name": "SRABAH"}, {"id": "3503092006", "district_id": "350309", "name": "DOMPYONG"}, {"id": "3503092007", "district_id": "350309", "name": "DEPOK"}, {"id": "3503092008", "district_id": "350309", "name": "BOTOPUTIH"}]
+[
+  {
+    "id": "3503092001",
+    "district_id": "350309",
+    "name": "MASARAN"
+  },
+  {
+    "id": "3503092002",
+    "district_id": "350309",
+    "name": "SENGON"
+  },
+  {
+    "id": "3503092003",
+    "district_id": "350309",
+    "name": "SURENLOR"
+  },
+  {
+    "id": "3503092004",
+    "district_id": "350309",
+    "name": "SUMURUP"
+  },
+  {
+    "id": "3503092005",
+    "district_id": "350309",
+    "name": "SRABAH"
+  },
+  {
+    "id": "3503092006",
+    "district_id": "350309",
+    "name": "DOMPYONG"
+  },
+  {
+    "id": "3503092007",
+    "district_id": "350309",
+    "name": "DEPOK"
+  },
+  {
+    "id": "3503092008",
+    "district_id": "350309",
+    "name": "BOTOPUTIH"
+  }
+]

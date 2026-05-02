@@ -1,1 +1,47 @@
-[{"id": "3211212001", "district_id": "321121", "name": "CIKARAMAS"}, {"id": "3211212002", "district_id": "321121", "name": "WARGALUYU"}, {"id": "3211212003", "district_id": "321121", "name": "JINGKANG"}, {"id": "3211212004", "district_id": "321121", "name": "KAMAL"}, {"id": "3211212005", "district_id": "321121", "name": "KERTAMUKTI"}, {"id": "3211212006", "district_id": "321121", "name": "TANJUNGWANGI"}, {"id": "3211212007", "district_id": "321121", "name": "SUKAMUKTI"}, {"id": "3211212008", "district_id": "321121", "name": "SUKATANI"}, {"id": "3211212009", "district_id": "321121", "name": "TANJUNGMEDAR"}]
+[
+  {
+    "id": "3211212001",
+    "district_id": "321121",
+    "name": "CIKARAMAS"
+  },
+  {
+    "id": "3211212002",
+    "district_id": "321121",
+    "name": "WARGALUYU"
+  },
+  {
+    "id": "3211212003",
+    "district_id": "321121",
+    "name": "JINGKANG"
+  },
+  {
+    "id": "3211212004",
+    "district_id": "321121",
+    "name": "KAMAL"
+  },
+  {
+    "id": "3211212005",
+    "district_id": "321121",
+    "name": "KERTAMUKTI"
+  },
+  {
+    "id": "3211212006",
+    "district_id": "321121",
+    "name": "TANJUNGWANGI"
+  },
+  {
+    "id": "3211212007",
+    "district_id": "321121",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "3211212008",
+    "district_id": "321121",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "3211212009",
+    "district_id": "321121",
+    "name": "TANJUNGMEDAR"
+  }
+]

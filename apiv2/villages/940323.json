@@ -1,1 +1,52 @@
-[{"id": "9403232001", "district_id": "940323", "name": "OBAIPUGAIDA"}, {"id": "9403232002", "district_id": "940323", "name": "EYAGITAIDA"}, {"id": "9403232003", "district_id": "940323", "name": "MOMAGEIDA"}, {"id": "9403232004", "district_id": "940323", "name": "EKAUWIYA"}, {"id": "9403232005", "district_id": "940323", "name": "DEBAKEBOUDA"}, {"id": "9403232006", "district_id": "940323", "name": "KAIDOUTADI"}, {"id": "9403232007", "district_id": "940323", "name": "POGEIDIMI"}, {"id": "9403232008", "district_id": "940323", "name": "OKONOBAIDA"}, {"id": "9403232009", "district_id": "940323", "name": "GAKOKOTU"}, {"id": "9403232010", "district_id": "940323", "name": "KEGAMA"}]
+[
+  {
+    "id": "9403232001",
+    "district_id": "940323",
+    "name": "OBAIPUGAIDA"
+  },
+  {
+    "id": "9403232002",
+    "district_id": "940323",
+    "name": "EYAGITAIDA"
+  },
+  {
+    "id": "9403232003",
+    "district_id": "940323",
+    "name": "MOMAGEIDA"
+  },
+  {
+    "id": "9403232004",
+    "district_id": "940323",
+    "name": "EKAUWIYA"
+  },
+  {
+    "id": "9403232005",
+    "district_id": "940323",
+    "name": "DEBAKEBOUDA"
+  },
+  {
+    "id": "9403232006",
+    "district_id": "940323",
+    "name": "KAIDOUTADI"
+  },
+  {
+    "id": "9403232007",
+    "district_id": "940323",
+    "name": "POGEIDIMI"
+  },
+  {
+    "id": "9403232008",
+    "district_id": "940323",
+    "name": "OKONOBAIDA"
+  },
+  {
+    "id": "9403232009",
+    "district_id": "940323",
+    "name": "GAKOKOTU"
+  },
+  {
+    "id": "9403232010",
+    "district_id": "940323",
+    "name": "KEGAMA"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3529152001", "district_id": "352915", "name": "MANDALA"}, {"id": "3529152002", "district_id": "352915", "name": "PAKONDANG"}, {"id": "3529152003", "district_id": "352915", "name": "MATANAIR"}, {"id": "3529152004", "district_id": "352915", "name": "TAMBAKSARI"}, {"id": "3529152005", "district_id": "352915", "name": "BANASARE"}, {"id": "3529152006", "district_id": "352915", "name": "BUNBARAT"}, {"id": "3529152007", "district_id": "352915", "name": "KARANG NANGKA"}, {"id": "3529152008", "district_id": "352915", "name": "BASOKA"}, {"id": "3529152009", "district_id": "352915", "name": "DUKO"}, {"id": "3529152010", "district_id": "352915", "name": "RUBARU"}, {"id": "3529152011", "district_id": "352915", "name": "KALEBENGAN"}]
+[
+  {
+    "id": "3529152001",
+    "district_id": "352915",
+    "name": "MANDALA"
+  },
+  {
+    "id": "3529152002",
+    "district_id": "352915",
+    "name": "PAKONDANG"
+  },
+  {
+    "id": "3529152003",
+    "district_id": "352915",
+    "name": "MATANAIR"
+  },
+  {
+    "id": "3529152004",
+    "district_id": "352915",
+    "name": "TAMBAKSARI"
+  },
+  {
+    "id": "3529152005",
+    "district_id": "352915",
+    "name": "BANASARE"
+  },
+  {
+    "id": "3529152006",
+    "district_id": "352915",
+    "name": "BUNBARAT"
+  },
+  {
+    "id": "3529152007",
+    "district_id": "352915",
+    "name": "KARANG NANGKA"
+  },
+  {
+    "id": "3529152008",
+    "district_id": "352915",
+    "name": "BASOKA"
+  },
+  {
+    "id": "3529152009",
+    "district_id": "352915",
+    "name": "DUKO"
+  },
+  {
+    "id": "3529152010",
+    "district_id": "352915",
+    "name": "RUBARU"
+  },
+  {
+    "id": "3529152011",
+    "district_id": "352915",
+    "name": "KALEBENGAN"
+  }
+]

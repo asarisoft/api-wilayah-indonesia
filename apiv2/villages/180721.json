@@ -1,1 +1,57 @@
-[{"id": "1807212001", "district_id": "180721", "name": "LABUHAN RATU"}, {"id": "1807212002", "district_id": "180721", "name": "LABUHAN RATU III"}, {"id": "1807212003", "district_id": "180721", "name": "LABUHAN RATU IV"}, {"id": "1807212004", "district_id": "180721", "name": "LABUHAN RATU V"}, {"id": "1807212005", "district_id": "180721", "name": "LABUHAN RATU VI"}, {"id": "1807212006", "district_id": "180721", "name": "RAJABASA LAMA"}, {"id": "1807212007", "district_id": "180721", "name": "RAJABASA LAMA I"}, {"id": "1807212008", "district_id": "180721", "name": "RAJABASA LAMA II"}, {"id": "1807212009", "district_id": "180721", "name": "LABUHAN RATU VII"}, {"id": "1807212010", "district_id": "180721", "name": "LABUHAN RATU VIII"}, {"id": "1807212011", "district_id": "180721", "name": "LABUHAN RATU IX"}]
+[
+  {
+    "id": "1807212001",
+    "district_id": "180721",
+    "name": "LABUHAN RATU"
+  },
+  {
+    "id": "1807212002",
+    "district_id": "180721",
+    "name": "LABUHAN RATU III"
+  },
+  {
+    "id": "1807212003",
+    "district_id": "180721",
+    "name": "LABUHAN RATU IV"
+  },
+  {
+    "id": "1807212004",
+    "district_id": "180721",
+    "name": "LABUHAN RATU V"
+  },
+  {
+    "id": "1807212005",
+    "district_id": "180721",
+    "name": "LABUHAN RATU VI"
+  },
+  {
+    "id": "1807212006",
+    "district_id": "180721",
+    "name": "RAJABASA LAMA"
+  },
+  {
+    "id": "1807212007",
+    "district_id": "180721",
+    "name": "RAJABASA LAMA I"
+  },
+  {
+    "id": "1807212008",
+    "district_id": "180721",
+    "name": "RAJABASA LAMA II"
+  },
+  {
+    "id": "1807212009",
+    "district_id": "180721",
+    "name": "LABUHAN RATU VII"
+  },
+  {
+    "id": "1807212010",
+    "district_id": "180721",
+    "name": "LABUHAN RATU VIII"
+  },
+  {
+    "id": "1807212011",
+    "district_id": "180721",
+    "name": "LABUHAN RATU IX"
+  }
+]

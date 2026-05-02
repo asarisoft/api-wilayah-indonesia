@@ -1,1 +1,87 @@
-[{"id": "1106132001", "district_id": "110613", "name": "RINON"}, {"id": "1106132002", "district_id": "110613", "name": "ALUE RAYA"}, {"id": "1106132003", "district_id": "110613", "name": "MELINGGE"}, {"id": "1106132004", "district_id": "110613", "name": "LAPENG"}, {"id": "1106132005", "district_id": "110613", "name": "ULEE PAYA"}, {"id": "1106132006", "district_id": "110613", "name": "GUGOP"}, {"id": "1106132007", "district_id": "110613", "name": "SEURAPONG"}, {"id": "1106132008", "district_id": "110613", "name": "BLANG SITUNGKOH"}, {"id": "1106132009", "district_id": "110613", "name": "PALOH"}, {"id": "1106132010", "district_id": "110613", "name": "LAMPUYANG"}, {"id": "1106132011", "district_id": "110613", "name": "LHOK"}, {"id": "1106132012", "district_id": "110613", "name": "TEUNOM"}, {"id": "1106132013", "district_id": "110613", "name": "LAMTENG"}, {"id": "1106132014", "district_id": "110613", "name": "PASI JANENG"}, {"id": "1106132015", "district_id": "110613", "name": "RABO"}, {"id": "1106132016", "district_id": "110613", "name": "ALUE REUYEUENG"}, {"id": "1106132017", "district_id": "110613", "name": "DEUDAP"}]
+[
+  {
+    "id": "1106132001",
+    "district_id": "110613",
+    "name": "RINON"
+  },
+  {
+    "id": "1106132002",
+    "district_id": "110613",
+    "name": "ALUE RAYA"
+  },
+  {
+    "id": "1106132003",
+    "district_id": "110613",
+    "name": "MELINGGE"
+  },
+  {
+    "id": "1106132004",
+    "district_id": "110613",
+    "name": "LAPENG"
+  },
+  {
+    "id": "1106132005",
+    "district_id": "110613",
+    "name": "ULEE PAYA"
+  },
+  {
+    "id": "1106132006",
+    "district_id": "110613",
+    "name": "GUGOP"
+  },
+  {
+    "id": "1106132007",
+    "district_id": "110613",
+    "name": "SEURAPONG"
+  },
+  {
+    "id": "1106132008",
+    "district_id": "110613",
+    "name": "BLANG SITUNGKOH"
+  },
+  {
+    "id": "1106132009",
+    "district_id": "110613",
+    "name": "PALOH"
+  },
+  {
+    "id": "1106132010",
+    "district_id": "110613",
+    "name": "LAMPUYANG"
+  },
+  {
+    "id": "1106132011",
+    "district_id": "110613",
+    "name": "LHOK"
+  },
+  {
+    "id": "1106132012",
+    "district_id": "110613",
+    "name": "TEUNOM"
+  },
+  {
+    "id": "1106132013",
+    "district_id": "110613",
+    "name": "LAMTENG"
+  },
+  {
+    "id": "1106132014",
+    "district_id": "110613",
+    "name": "PASI JANENG"
+  },
+  {
+    "id": "1106132015",
+    "district_id": "110613",
+    "name": "RABO"
+  },
+  {
+    "id": "1106132016",
+    "district_id": "110613",
+    "name": "ALUE REUYEUENG"
+  },
+  {
+    "id": "1106132017",
+    "district_id": "110613",
+    "name": "DEUDAP"
+  }
+]

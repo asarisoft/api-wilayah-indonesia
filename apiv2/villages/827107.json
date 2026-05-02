@@ -1,1 +1,32 @@
-[{"id": "8271071001", "district_id": "827107", "name": "FAUDU"}, {"id": "8271071002", "district_id": "827107", "name": "TOMAJIKO"}, {"id": "8271071003", "district_id": "827107", "name": "DORARI ISA"}, {"id": "8271071004", "district_id": "827107", "name": "TOGOLOBE"}, {"id": "8271071005", "district_id": "827107", "name": "MADO"}, {"id": "8271071006", "district_id": "827107", "name": "TAFRAKA"}]
+[
+  {
+    "id": "8271071001",
+    "district_id": "827107",
+    "name": "FAUDU"
+  },
+  {
+    "id": "8271071002",
+    "district_id": "827107",
+    "name": "TOMAJIKO"
+  },
+  {
+    "id": "8271071003",
+    "district_id": "827107",
+    "name": "DORARI ISA"
+  },
+  {
+    "id": "8271071004",
+    "district_id": "827107",
+    "name": "TOGOLOBE"
+  },
+  {
+    "id": "8271071005",
+    "district_id": "827107",
+    "name": "MADO"
+  },
+  {
+    "id": "8271071006",
+    "district_id": "827107",
+    "name": "TAFRAKA"
+  }
+]

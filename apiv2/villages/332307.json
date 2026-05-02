@@ -1,1 +1,72 @@
-[{"id": "3323072001", "district_id": "332307", "name": "KEDU"}, {"id": "3323072002", "district_id": "332307", "name": "CANDIMULYO"}, {"id": "3323072003", "district_id": "332307", "name": "SALAMSARI"}, {"id": "3323072004", "district_id": "332307", "name": "DANUREJO"}, {"id": "3323072005", "district_id": "332307", "name": "MOJOTENGAH"}, {"id": "3323072006", "district_id": "332307", "name": "KARANGTEJO"}, {"id": "3323072007", "district_id": "332307", "name": "MERGOWATI"}, {"id": "3323072008", "district_id": "332307", "name": "KUTOANYAR"}, {"id": "3323072009", "district_id": "332307", "name": "KUNDISARI"}, {"id": "3323072010", "district_id": "332307", "name": "NGADIMULYO"}, {"id": "3323072011", "district_id": "332307", "name": "GONDANGWAYANG"}, {"id": "3323072012", "district_id": "332307", "name": "BOJONEGORO"}, {"id": "3323072013", "district_id": "332307", "name": "BANDUNGGEDE"}, {"id": "3323072014", "district_id": "332307", "name": "TEGALSARI"}]
+[
+  {
+    "id": "3323072001",
+    "district_id": "332307",
+    "name": "KEDU"
+  },
+  {
+    "id": "3323072002",
+    "district_id": "332307",
+    "name": "CANDIMULYO"
+  },
+  {
+    "id": "3323072003",
+    "district_id": "332307",
+    "name": "SALAMSARI"
+  },
+  {
+    "id": "3323072004",
+    "district_id": "332307",
+    "name": "DANUREJO"
+  },
+  {
+    "id": "3323072005",
+    "district_id": "332307",
+    "name": "MOJOTENGAH"
+  },
+  {
+    "id": "3323072006",
+    "district_id": "332307",
+    "name": "KARANGTEJO"
+  },
+  {
+    "id": "3323072007",
+    "district_id": "332307",
+    "name": "MERGOWATI"
+  },
+  {
+    "id": "3323072008",
+    "district_id": "332307",
+    "name": "KUTOANYAR"
+  },
+  {
+    "id": "3323072009",
+    "district_id": "332307",
+    "name": "KUNDISARI"
+  },
+  {
+    "id": "3323072010",
+    "district_id": "332307",
+    "name": "NGADIMULYO"
+  },
+  {
+    "id": "3323072011",
+    "district_id": "332307",
+    "name": "GONDANGWAYANG"
+  },
+  {
+    "id": "3323072012",
+    "district_id": "332307",
+    "name": "BOJONEGORO"
+  },
+  {
+    "id": "3323072013",
+    "district_id": "332307",
+    "name": "BANDUNGGEDE"
+  },
+  {
+    "id": "3323072014",
+    "district_id": "332307",
+    "name": "TEGALSARI"
+  }
+]

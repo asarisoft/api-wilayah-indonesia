@@ -1,1 +1,57 @@
-[{"id": "1214232001", "district_id": "121423", "name": "MALUO"}, {"id": "1214232002", "district_id": "121423", "name": "HILIADULO"}, {"id": "1214232003", "district_id": "121423", "name": "UMBUASI"}, {"id": "1214232004", "district_id": "121423", "name": "SISOBAHILI SIWALAWA"}, {"id": "1214232005", "district_id": "121423", "name": "MANAWADANO"}, {"id": "1214232006", "district_id": "121423", "name": "TALIO"}, {"id": "1214232007", "district_id": "121423", "name": "ANAOMA"}, {"id": "1214232008", "district_id": "121423", "name": "BERUA SIWALAWA"}, {"id": "1214232009", "district_id": "121423", "name": "UMBUASI BARAT"}, {"id": "1214232010", "district_id": "121423", "name": "HILIGODU"}, {"id": "1214232011", "district_id": "121423", "name": "BUKIT BURASI"}]
+[
+  {
+    "id": "1214232001",
+    "district_id": "121423",
+    "name": "MALUO"
+  },
+  {
+    "id": "1214232002",
+    "district_id": "121423",
+    "name": "HILIADULO"
+  },
+  {
+    "id": "1214232003",
+    "district_id": "121423",
+    "name": "UMBUASI"
+  },
+  {
+    "id": "1214232004",
+    "district_id": "121423",
+    "name": "SISOBAHILI SIWALAWA"
+  },
+  {
+    "id": "1214232005",
+    "district_id": "121423",
+    "name": "MANAWADANO"
+  },
+  {
+    "id": "1214232006",
+    "district_id": "121423",
+    "name": "TALIO"
+  },
+  {
+    "id": "1214232007",
+    "district_id": "121423",
+    "name": "ANAOMA"
+  },
+  {
+    "id": "1214232008",
+    "district_id": "121423",
+    "name": "BERUA SIWALAWA"
+  },
+  {
+    "id": "1214232009",
+    "district_id": "121423",
+    "name": "UMBUASI BARAT"
+  },
+  {
+    "id": "1214232010",
+    "district_id": "121423",
+    "name": "HILIGODU"
+  },
+  {
+    "id": "1214232011",
+    "district_id": "121423",
+    "name": "BUKIT BURASI"
+  }
+]

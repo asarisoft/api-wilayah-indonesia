@@ -1,1 +1,47 @@
-[{"id": "9601042001", "district_id": "960104", "name": "SEGET"}, {"id": "9601042002", "district_id": "960104", "name": "MALABAM"}, {"id": "9601042003", "district_id": "960104", "name": "PULAU KASIM"}, {"id": "9601042004", "district_id": "960104", "name": "KASIMLE"}, {"id": "9601042005", "district_id": "960104", "name": "WEWENAGU"}, {"id": "9601042006", "district_id": "960104", "name": "WASINGSAN"}, {"id": "9601042007", "district_id": "960104", "name": "KLAYAS"}, {"id": "9601042008", "district_id": "960104", "name": "WAYENKEDE"}, {"id": "9601042009", "district_id": "960104", "name": "MOBI"}]
+[
+  {
+    "id": "9601042001",
+    "district_id": "960104",
+    "name": "SEGET"
+  },
+  {
+    "id": "9601042002",
+    "district_id": "960104",
+    "name": "MALABAM"
+  },
+  {
+    "id": "9601042003",
+    "district_id": "960104",
+    "name": "PULAU KASIM"
+  },
+  {
+    "id": "9601042004",
+    "district_id": "960104",
+    "name": "KASIMLE"
+  },
+  {
+    "id": "9601042005",
+    "district_id": "960104",
+    "name": "WEWENAGU"
+  },
+  {
+    "id": "9601042006",
+    "district_id": "960104",
+    "name": "WASINGSAN"
+  },
+  {
+    "id": "9601042007",
+    "district_id": "960104",
+    "name": "KLAYAS"
+  },
+  {
+    "id": "9601042008",
+    "district_id": "960104",
+    "name": "WAYENKEDE"
+  },
+  {
+    "id": "9601042009",
+    "district_id": "960104",
+    "name": "MOBI"
+  }
+]

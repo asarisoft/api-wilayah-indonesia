@@ -1,1 +1,47 @@
-[{"id": "820101", "regency_id": "8201", "name": "JAILOLO"}, {"id": "820102", "regency_id": "8201", "name": "LOLODA"}, {"id": "820103", "regency_id": "8201", "name": "IBU"}, {"id": "820104", "regency_id": "8201", "name": "SAHU"}, {"id": "820105", "regency_id": "8201", "name": "JAILOLO SELATAN"}, {"id": "820107", "regency_id": "8201", "name": "IBU UTARA"}, {"id": "820108", "regency_id": "8201", "name": "IBU SELATAN"}, {"id": "820109", "regency_id": "8201", "name": "SAHU TIMUR"}, {"id": "820110", "regency_id": "8201", "name": "LOLODA TENGAH"}]
+[
+  {
+    "id": "820101",
+    "regency_id": "8201",
+    "name": "JAILOLO"
+  },
+  {
+    "id": "820102",
+    "regency_id": "8201",
+    "name": "LOLODA"
+  },
+  {
+    "id": "820103",
+    "regency_id": "8201",
+    "name": "IBU"
+  },
+  {
+    "id": "820104",
+    "regency_id": "8201",
+    "name": "SAHU"
+  },
+  {
+    "id": "820105",
+    "regency_id": "8201",
+    "name": "JAILOLO SELATAN"
+  },
+  {
+    "id": "820107",
+    "regency_id": "8201",
+    "name": "IBU UTARA"
+  },
+  {
+    "id": "820108",
+    "regency_id": "8201",
+    "name": "IBU SELATAN"
+  },
+  {
+    "id": "820109",
+    "regency_id": "8201",
+    "name": "SAHU TIMUR"
+  },
+  {
+    "id": "820110",
+    "regency_id": "8201",
+    "name": "LOLODA TENGAH"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3303151004", "district_id": "330315", "name": "KARANGSENTUL"}, {"id": "3303152001", "district_id": "330315", "name": "KARANGPULE"}, {"id": "3303152002", "district_id": "330315", "name": "SOKAWERA"}, {"id": "3303152003", "district_id": "330315", "name": "KARANGJAMBE"}, {"id": "3303152005", "district_id": "330315", "name": "BOJANEGARA"}, {"id": "3303152006", "district_id": "330315", "name": "GEMURUH"}, {"id": "3303152007", "district_id": "330315", "name": "DAWUHAN"}, {"id": "3303152008", "district_id": "330315", "name": "PRIGI"}, {"id": "3303152009", "district_id": "330315", "name": "PADAMARA"}, {"id": "3303152010", "district_id": "330315", "name": "PURBAYASA"}, {"id": "3303152011", "district_id": "330315", "name": "KALITINGGAR"}, {"id": "3303152012", "district_id": "330315", "name": "MIPIRAN"}, {"id": "3303152013", "district_id": "330315", "name": "KARANGGAMBAS"}, {"id": "3303152014", "district_id": "330315", "name": "KALITINGGAR KIDUL"}]
+[
+  {
+    "id": "3303151004",
+    "district_id": "330315",
+    "name": "KARANGSENTUL"
+  },
+  {
+    "id": "3303152001",
+    "district_id": "330315",
+    "name": "KARANGPULE"
+  },
+  {
+    "id": "3303152002",
+    "district_id": "330315",
+    "name": "SOKAWERA"
+  },
+  {
+    "id": "3303152003",
+    "district_id": "330315",
+    "name": "KARANGJAMBE"
+  },
+  {
+    "id": "3303152005",
+    "district_id": "330315",
+    "name": "BOJANEGARA"
+  },
+  {
+    "id": "3303152006",
+    "district_id": "330315",
+    "name": "GEMURUH"
+  },
+  {
+    "id": "3303152007",
+    "district_id": "330315",
+    "name": "DAWUHAN"
+  },
+  {
+    "id": "3303152008",
+    "district_id": "330315",
+    "name": "PRIGI"
+  },
+  {
+    "id": "3303152009",
+    "district_id": "330315",
+    "name": "PADAMARA"
+  },
+  {
+    "id": "3303152010",
+    "district_id": "330315",
+    "name": "PURBAYASA"
+  },
+  {
+    "id": "3303152011",
+    "district_id": "330315",
+    "name": "KALITINGGAR"
+  },
+  {
+    "id": "3303152012",
+    "district_id": "330315",
+    "name": "MIPIRAN"
+  },
+  {
+    "id": "3303152013",
+    "district_id": "330315",
+    "name": "KARANGGAMBAS"
+  },
+  {
+    "id": "3303152014",
+    "district_id": "330315",
+    "name": "KALITINGGAR KIDUL"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3312021004", "district_id": "331202", "name": "BAYEMHARJO"}, {"id": "3312021006", "district_id": "331202", "name": "GIRITONTRO"}, {"id": "3312022001", "district_id": "331202", "name": "NGARGOHARJO"}, {"id": "3312022002", "district_id": "331202", "name": "TLOGOSARI"}, {"id": "3312022003", "district_id": "331202", "name": "TLOGOHARJO"}, {"id": "3312022005", "district_id": "331202", "name": "JATIREJO"}, {"id": "3312022007", "district_id": "331202", "name": "PUCANGANOM"}]
+[
+  {
+    "id": "3312021004",
+    "district_id": "331202",
+    "name": "BAYEMHARJO"
+  },
+  {
+    "id": "3312021006",
+    "district_id": "331202",
+    "name": "GIRITONTRO"
+  },
+  {
+    "id": "3312022001",
+    "district_id": "331202",
+    "name": "NGARGOHARJO"
+  },
+  {
+    "id": "3312022002",
+    "district_id": "331202",
+    "name": "TLOGOSARI"
+  },
+  {
+    "id": "3312022003",
+    "district_id": "331202",
+    "name": "TLOGOHARJO"
+  },
+  {
+    "id": "3312022005",
+    "district_id": "331202",
+    "name": "JATIREJO"
+  },
+  {
+    "id": "3312022007",
+    "district_id": "331202",
+    "name": "PUCANGANOM"
+  }
+]

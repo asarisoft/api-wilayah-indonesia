@@ -1,1 +1,92 @@
-[{"id": "3320012001", "district_id": "332001", "name": "KEDUNGMALANG"}, {"id": "3320012002", "district_id": "332001", "name": "KALIANYAR"}, {"id": "3320012003", "district_id": "332001", "name": "KARANGAJI"}, {"id": "3320012004", "district_id": "332001", "name": "TEDUNAN"}, {"id": "3320012005", "district_id": "332001", "name": "SOWAN LOR"}, {"id": "3320012006", "district_id": "332001", "name": "SOWAN KIDUL"}, {"id": "3320012007", "district_id": "332001", "name": "WANUSOBO"}, {"id": "3320012008", "district_id": "332001", "name": "SURODADI"}, {"id": "3320012009", "district_id": "332001", "name": "PANGGUNG"}, {"id": "3320012010", "district_id": "332001", "name": "BULAK BARU"}, {"id": "3320012011", "district_id": "332001", "name": "JONDANG"}, {"id": "3320012012", "district_id": "332001", "name": "BUGEL"}, {"id": "3320012013", "district_id": "332001", "name": "DONGOS"}, {"id": "3320012014", "district_id": "332001", "name": "MENGANTI"}, {"id": "3320012015", "district_id": "332001", "name": "KERSO"}, {"id": "3320012016", "district_id": "332001", "name": "TANGGUL TLARE"}, {"id": "3320012017", "district_id": "332001", "name": "RAU"}, {"id": "3320012018", "district_id": "332001", "name": "SUKOSONO"}]
+[
+  {
+    "id": "3320012001",
+    "district_id": "332001",
+    "name": "KEDUNGMALANG"
+  },
+  {
+    "id": "3320012002",
+    "district_id": "332001",
+    "name": "KALIANYAR"
+  },
+  {
+    "id": "3320012003",
+    "district_id": "332001",
+    "name": "KARANGAJI"
+  },
+  {
+    "id": "3320012004",
+    "district_id": "332001",
+    "name": "TEDUNAN"
+  },
+  {
+    "id": "3320012005",
+    "district_id": "332001",
+    "name": "SOWAN LOR"
+  },
+  {
+    "id": "3320012006",
+    "district_id": "332001",
+    "name": "SOWAN KIDUL"
+  },
+  {
+    "id": "3320012007",
+    "district_id": "332001",
+    "name": "WANUSOBO"
+  },
+  {
+    "id": "3320012008",
+    "district_id": "332001",
+    "name": "SURODADI"
+  },
+  {
+    "id": "3320012009",
+    "district_id": "332001",
+    "name": "PANGGUNG"
+  },
+  {
+    "id": "3320012010",
+    "district_id": "332001",
+    "name": "BULAK BARU"
+  },
+  {
+    "id": "3320012011",
+    "district_id": "332001",
+    "name": "JONDANG"
+  },
+  {
+    "id": "3320012012",
+    "district_id": "332001",
+    "name": "BUGEL"
+  },
+  {
+    "id": "3320012013",
+    "district_id": "332001",
+    "name": "DONGOS"
+  },
+  {
+    "id": "3320012014",
+    "district_id": "332001",
+    "name": "MENGANTI"
+  },
+  {
+    "id": "3320012015",
+    "district_id": "332001",
+    "name": "KERSO"
+  },
+  {
+    "id": "3320012016",
+    "district_id": "332001",
+    "name": "TANGGUL TLARE"
+  },
+  {
+    "id": "3320012017",
+    "district_id": "332001",
+    "name": "RAU"
+  },
+  {
+    "id": "3320012018",
+    "district_id": "332001",
+    "name": "SUKOSONO"
+  }
+]

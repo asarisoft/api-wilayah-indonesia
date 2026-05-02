@@ -1,1 +1,42 @@
-[{"id": "9303142001", "district_id": "930314", "name": "WONGGI"}, {"id": "9303142002", "district_id": "930314", "name": "BUSIRI"}, {"id": "9303142003", "district_id": "930314", "name": "KETA"}, {"id": "9303142004", "district_id": "930314", "name": "VETA"}, {"id": "9303142005", "district_id": "930314", "name": "HONYA"}, {"id": "9303142006", "district_id": "930314", "name": "HAKU"}, {"id": "9303142007", "district_id": "930314", "name": "BIFO"}, {"id": "9303142008", "district_id": "930314", "name": "SAMURUKIE"}]
+[
+  {
+    "id": "9303142001",
+    "district_id": "930314",
+    "name": "WONGGI"
+  },
+  {
+    "id": "9303142002",
+    "district_id": "930314",
+    "name": "BUSIRI"
+  },
+  {
+    "id": "9303142003",
+    "district_id": "930314",
+    "name": "KETA"
+  },
+  {
+    "id": "9303142004",
+    "district_id": "930314",
+    "name": "VETA"
+  },
+  {
+    "id": "9303142005",
+    "district_id": "930314",
+    "name": "HONYA"
+  },
+  {
+    "id": "9303142006",
+    "district_id": "930314",
+    "name": "HAKU"
+  },
+  {
+    "id": "9303142007",
+    "district_id": "930314",
+    "name": "BIFO"
+  },
+  {
+    "id": "9303142008",
+    "district_id": "930314",
+    "name": "SAMURUKIE"
+  }
+]

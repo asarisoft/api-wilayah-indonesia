@@ -1,1 +1,67 @@
-[{"id": "3328012001", "district_id": "332801", "name": "PRUPUK SELATAN"}, {"id": "3328012002", "district_id": "332801", "name": "KALIGAYAM"}, {"id": "3328012003", "district_id": "332801", "name": "DUKUH TENGAH"}, {"id": "3328012004", "district_id": "332801", "name": "WANASARI"}, {"id": "3328012005", "district_id": "332801", "name": "DANARAJA"}, {"id": "3328012006", "district_id": "332801", "name": "JEMBAYAT"}, {"id": "3328012007", "district_id": "332801", "name": "MARGASARI"}, {"id": "3328012008", "district_id": "332801", "name": "PAKULAUT"}, {"id": "3328012009", "district_id": "332801", "name": "KARANGDAWA"}, {"id": "3328012010", "district_id": "332801", "name": "KALISALAK"}, {"id": "3328012011", "district_id": "332801", "name": "JATILABA"}, {"id": "3328012012", "district_id": "332801", "name": "PRUPUK UTARA"}, {"id": "3328012013", "district_id": "332801", "name": "MARGA AYU"}]
+[
+  {
+    "id": "3328012001",
+    "district_id": "332801",
+    "name": "PRUPUK SELATAN"
+  },
+  {
+    "id": "3328012002",
+    "district_id": "332801",
+    "name": "KALIGAYAM"
+  },
+  {
+    "id": "3328012003",
+    "district_id": "332801",
+    "name": "DUKUH TENGAH"
+  },
+  {
+    "id": "3328012004",
+    "district_id": "332801",
+    "name": "WANASARI"
+  },
+  {
+    "id": "3328012005",
+    "district_id": "332801",
+    "name": "DANARAJA"
+  },
+  {
+    "id": "3328012006",
+    "district_id": "332801",
+    "name": "JEMBAYAT"
+  },
+  {
+    "id": "3328012007",
+    "district_id": "332801",
+    "name": "MARGASARI"
+  },
+  {
+    "id": "3328012008",
+    "district_id": "332801",
+    "name": "PAKULAUT"
+  },
+  {
+    "id": "3328012009",
+    "district_id": "332801",
+    "name": "KARANGDAWA"
+  },
+  {
+    "id": "3328012010",
+    "district_id": "332801",
+    "name": "KALISALAK"
+  },
+  {
+    "id": "3328012011",
+    "district_id": "332801",
+    "name": "JATILABA"
+  },
+  {
+    "id": "3328012012",
+    "district_id": "332801",
+    "name": "PRUPUK UTARA"
+  },
+  {
+    "id": "3328012013",
+    "district_id": "332801",
+    "name": "MARGA AYU"
+  }
+]

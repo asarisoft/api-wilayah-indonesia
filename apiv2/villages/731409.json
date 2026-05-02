@@ -1,1 +1,52 @@
-[{"id": "7314091001", "district_id": "731409", "name": "TANRU TEDONG"}, {"id": "7314091002", "district_id": "731409", "name": "SALOMALORI"}, {"id": "7314092003", "district_id": "731409", "name": "KALOSI"}, {"id": "7314092004", "district_id": "731409", "name": "PADANGLOANG"}, {"id": "7314092005", "district_id": "731409", "name": "KALOSI ALAU"}, {"id": "7314092006", "district_id": "731409", "name": "BILA"}, {"id": "7314092007", "district_id": "731409", "name": "PADANGLOANG ALAU"}, {"id": "7314092008", "district_id": "731409", "name": "SALOBUKKANG"}, {"id": "7314092009", "district_id": "731409", "name": "TACCIMPO"}, {"id": "7314092010", "district_id": "731409", "name": "KAMPALE"}]
+[
+  {
+    "id": "7314091001",
+    "district_id": "731409",
+    "name": "TANRU TEDONG"
+  },
+  {
+    "id": "7314091002",
+    "district_id": "731409",
+    "name": "SALOMALORI"
+  },
+  {
+    "id": "7314092003",
+    "district_id": "731409",
+    "name": "KALOSI"
+  },
+  {
+    "id": "7314092004",
+    "district_id": "731409",
+    "name": "PADANGLOANG"
+  },
+  {
+    "id": "7314092005",
+    "district_id": "731409",
+    "name": "KALOSI ALAU"
+  },
+  {
+    "id": "7314092006",
+    "district_id": "731409",
+    "name": "BILA"
+  },
+  {
+    "id": "7314092007",
+    "district_id": "731409",
+    "name": "PADANGLOANG ALAU"
+  },
+  {
+    "id": "7314092008",
+    "district_id": "731409",
+    "name": "SALOBUKKANG"
+  },
+  {
+    "id": "7314092009",
+    "district_id": "731409",
+    "name": "TACCIMPO"
+  },
+  {
+    "id": "7314092010",
+    "district_id": "731409",
+    "name": "KAMPALE"
+  }
+]

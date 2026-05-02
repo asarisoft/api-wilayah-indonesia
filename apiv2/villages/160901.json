@@ -1,1 +1,72 @@
-[{"id": "1609011013", "district_id": "160901", "name": "BATU BELANG JAYA"}, {"id": "1609011014", "district_id": "160901", "name": "BUMI AGUNG"}, {"id": "1609011015", "district_id": "160901", "name": "PANCUR PUNGAH"}, {"id": "1609011016", "district_id": "160901", "name": "KISAU"}, {"id": "1609011019", "district_id": "160901", "name": "PASAR MUARADUA"}, {"id": "1609012002", "district_id": "160901", "name": "GEDUNG LEPIHAN"}, {"id": "1609012003", "district_id": "160901", "name": "GUNUNG TIGA"}, {"id": "1609012004", "district_id": "160901", "name": "SUKA BANJAR"}, {"id": "1609012005", "district_id": "160901", "name": "SUKARAJA II"}, {"id": "1609012017", "district_id": "160901", "name": "PENDAGAN"}, {"id": "1609012018", "district_id": "160901", "name": "MEHANGGIN"}, {"id": "1609012024", "district_id": "160901", "name": "PELANGKI"}, {"id": "1609012025", "district_id": "160901", "name": "BATU BELANG 2"}, {"id": "1609012026", "district_id": "160901", "name": "DATAR"}]
+[
+  {
+    "id": "1609011013",
+    "district_id": "160901",
+    "name": "BATU BELANG JAYA"
+  },
+  {
+    "id": "1609011014",
+    "district_id": "160901",
+    "name": "BUMI AGUNG"
+  },
+  {
+    "id": "1609011015",
+    "district_id": "160901",
+    "name": "PANCUR PUNGAH"
+  },
+  {
+    "id": "1609011016",
+    "district_id": "160901",
+    "name": "KISAU"
+  },
+  {
+    "id": "1609011019",
+    "district_id": "160901",
+    "name": "PASAR MUARADUA"
+  },
+  {
+    "id": "1609012002",
+    "district_id": "160901",
+    "name": "GEDUNG LEPIHAN"
+  },
+  {
+    "id": "1609012003",
+    "district_id": "160901",
+    "name": "GUNUNG TIGA"
+  },
+  {
+    "id": "1609012004",
+    "district_id": "160901",
+    "name": "SUKA BANJAR"
+  },
+  {
+    "id": "1609012005",
+    "district_id": "160901",
+    "name": "SUKARAJA II"
+  },
+  {
+    "id": "1609012017",
+    "district_id": "160901",
+    "name": "PENDAGAN"
+  },
+  {
+    "id": "1609012018",
+    "district_id": "160901",
+    "name": "MEHANGGIN"
+  },
+  {
+    "id": "1609012024",
+    "district_id": "160901",
+    "name": "PELANGKI"
+  },
+  {
+    "id": "1609012025",
+    "district_id": "160901",
+    "name": "BATU BELANG 2"
+  },
+  {
+    "id": "1609012026",
+    "district_id": "160901",
+    "name": "DATAR"
+  }
+]

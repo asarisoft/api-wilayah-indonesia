@@ -1,1 +1,62 @@
-[{"id": "3602152001", "district_id": "360215", "name": "SUKARENDAH"}, {"id": "3602152002", "district_id": "360215", "name": "WARUNGGUNUNG"}, {"id": "3602152003", "district_id": "360215", "name": "CIBUAH"}, {"id": "3602152004", "district_id": "360215", "name": "PASIR TANGKIL"}, {"id": "3602152005", "district_id": "360215", "name": "BAROS"}, {"id": "3602152006", "district_id": "360215", "name": "BANJARSARI"}, {"id": "3602152007", "district_id": "360215", "name": "PADASUKA"}, {"id": "3602152008", "district_id": "360215", "name": "SUKARAJA"}, {"id": "3602152009", "district_id": "360215", "name": "JAGABAYA"}, {"id": "3602152010", "district_id": "360215", "name": "SELARAJA"}, {"id": "3602152011", "district_id": "360215", "name": "CEMPAKA"}, {"id": "3602152012", "district_id": "360215", "name": "SINDANGSARI"}]
+[
+  {
+    "id": "3602152001",
+    "district_id": "360215",
+    "name": "SUKARENDAH"
+  },
+  {
+    "id": "3602152002",
+    "district_id": "360215",
+    "name": "WARUNGGUNUNG"
+  },
+  {
+    "id": "3602152003",
+    "district_id": "360215",
+    "name": "CIBUAH"
+  },
+  {
+    "id": "3602152004",
+    "district_id": "360215",
+    "name": "PASIR TANGKIL"
+  },
+  {
+    "id": "3602152005",
+    "district_id": "360215",
+    "name": "BAROS"
+  },
+  {
+    "id": "3602152006",
+    "district_id": "360215",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3602152007",
+    "district_id": "360215",
+    "name": "PADASUKA"
+  },
+  {
+    "id": "3602152008",
+    "district_id": "360215",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "3602152009",
+    "district_id": "360215",
+    "name": "JAGABAYA"
+  },
+  {
+    "id": "3602152010",
+    "district_id": "360215",
+    "name": "SELARAJA"
+  },
+  {
+    "id": "3602152011",
+    "district_id": "360215",
+    "name": "CEMPAKA"
+  },
+  {
+    "id": "3602152012",
+    "district_id": "360215",
+    "name": "SINDANGSARI"
+  }
+]

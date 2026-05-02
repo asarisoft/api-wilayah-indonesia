@@ -1,1 +1,72 @@
-[{"id": "6108072001", "district_id": "610807", "name": "PAHAUMAN"}, {"id": "6108072002", "district_id": "610807", "name": "PALOAN"}, {"id": "6108072003", "district_id": "610807", "name": "SEBATIH"}, {"id": "6108072004", "district_id": "610807", "name": "SAHAM"}, {"id": "6108072005", "district_id": "610807", "name": "ANDENG"}, {"id": "6108072006", "district_id": "610807", "name": "SENAKIN"}, {"id": "6108072007", "district_id": "610807", "name": "TONANG"}, {"id": "6108072008", "district_id": "610807", "name": "BANYING"}, {"id": "6108072009", "district_id": "610807", "name": "SIDAS"}, {"id": "6108072010", "district_id": "610807", "name": "KERANJI MANCAL"}, {"id": "6108072011", "district_id": "610807", "name": "KERANJI PAIDANG"}, {"id": "6108072012", "district_id": "610807", "name": "AUR SAMPUK"}, {"id": "6108072013", "district_id": "610807", "name": "GOMBANG"}, {"id": "6108072014", "district_id": "610807", "name": "RABAK"}]
+[
+  {
+    "id": "6108072001",
+    "district_id": "610807",
+    "name": "PAHAUMAN"
+  },
+  {
+    "id": "6108072002",
+    "district_id": "610807",
+    "name": "PALOAN"
+  },
+  {
+    "id": "6108072003",
+    "district_id": "610807",
+    "name": "SEBATIH"
+  },
+  {
+    "id": "6108072004",
+    "district_id": "610807",
+    "name": "SAHAM"
+  },
+  {
+    "id": "6108072005",
+    "district_id": "610807",
+    "name": "ANDENG"
+  },
+  {
+    "id": "6108072006",
+    "district_id": "610807",
+    "name": "SENAKIN"
+  },
+  {
+    "id": "6108072007",
+    "district_id": "610807",
+    "name": "TONANG"
+  },
+  {
+    "id": "6108072008",
+    "district_id": "610807",
+    "name": "BANYING"
+  },
+  {
+    "id": "6108072009",
+    "district_id": "610807",
+    "name": "SIDAS"
+  },
+  {
+    "id": "6108072010",
+    "district_id": "610807",
+    "name": "KERANJI MANCAL"
+  },
+  {
+    "id": "6108072011",
+    "district_id": "610807",
+    "name": "KERANJI PAIDANG"
+  },
+  {
+    "id": "6108072012",
+    "district_id": "610807",
+    "name": "AUR SAMPUK"
+  },
+  {
+    "id": "6108072013",
+    "district_id": "610807",
+    "name": "GOMBANG"
+  },
+  {
+    "id": "6108072014",
+    "district_id": "610807",
+    "name": "RABAK"
+  }
+]

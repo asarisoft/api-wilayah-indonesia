@@ -1,1 +1,52 @@
-[{"id": "3213142001", "district_id": "321314", "name": "BUNIARA"}, {"id": "3213142002", "district_id": "321314", "name": "TANJUNGSIANG"}, {"id": "3213142003", "district_id": "321314", "name": "CIMEUHMAL"}, {"id": "3213142004", "district_id": "321314", "name": "SIRAP"}, {"id": "3213142005", "district_id": "321314", "name": "KAWUNGLUWUK"}, {"id": "3213142006", "district_id": "321314", "name": "CIBULUH"}, {"id": "3213142007", "district_id": "321314", "name": "SINDANGLAYA"}, {"id": "3213142008", "district_id": "321314", "name": "RANCAMANGGUNG"}, {"id": "3213142009", "district_id": "321314", "name": "CIKAWUNG"}, {"id": "3213142010", "district_id": "321314", "name": "GANDASOLI"}]
+[
+  {
+    "id": "3213142001",
+    "district_id": "321314",
+    "name": "BUNIARA"
+  },
+  {
+    "id": "3213142002",
+    "district_id": "321314",
+    "name": "TANJUNGSIANG"
+  },
+  {
+    "id": "3213142003",
+    "district_id": "321314",
+    "name": "CIMEUHMAL"
+  },
+  {
+    "id": "3213142004",
+    "district_id": "321314",
+    "name": "SIRAP"
+  },
+  {
+    "id": "3213142005",
+    "district_id": "321314",
+    "name": "KAWUNGLUWUK"
+  },
+  {
+    "id": "3213142006",
+    "district_id": "321314",
+    "name": "CIBULUH"
+  },
+  {
+    "id": "3213142007",
+    "district_id": "321314",
+    "name": "SINDANGLAYA"
+  },
+  {
+    "id": "3213142008",
+    "district_id": "321314",
+    "name": "RANCAMANGGUNG"
+  },
+  {
+    "id": "3213142009",
+    "district_id": "321314",
+    "name": "CIKAWUNG"
+  },
+  {
+    "id": "3213142010",
+    "district_id": "321314",
+    "name": "GANDASOLI"
+  }
+]

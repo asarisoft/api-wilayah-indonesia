@@ -1,1 +1,47 @@
-[{"id": "6310011007", "district_id": "631001", "name": "BATULICIN"}, {"id": "6310011028", "district_id": "631001", "name": "GUNUNGTINGGI"}, {"id": "6310012005", "district_id": "631001", "name": "SEGUMBANG"}, {"id": "6310012006", "district_id": "631001", "name": "KERSIK PUTIH"}, {"id": "6310012029", "district_id": "631001", "name": "MAJU MAKMUR"}, {"id": "6310012030", "district_id": "631001", "name": "MAJU BERSAMA"}, {"id": "6310012031", "district_id": "631001", "name": "SUKAMAJU"}, {"id": "6310012032", "district_id": "631001", "name": "POLEWALI MARAJAE"}, {"id": "6310012033", "district_id": "631001", "name": "DANAUINDAH"}]
+[
+  {
+    "id": "6310011007",
+    "district_id": "631001",
+    "name": "BATULICIN"
+  },
+  {
+    "id": "6310011028",
+    "district_id": "631001",
+    "name": "GUNUNGTINGGI"
+  },
+  {
+    "id": "6310012005",
+    "district_id": "631001",
+    "name": "SEGUMBANG"
+  },
+  {
+    "id": "6310012006",
+    "district_id": "631001",
+    "name": "KERSIK PUTIH"
+  },
+  {
+    "id": "6310012029",
+    "district_id": "631001",
+    "name": "MAJU MAKMUR"
+  },
+  {
+    "id": "6310012030",
+    "district_id": "631001",
+    "name": "MAJU BERSAMA"
+  },
+  {
+    "id": "6310012031",
+    "district_id": "631001",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "6310012032",
+    "district_id": "631001",
+    "name": "POLEWALI MARAJAE"
+  },
+  {
+    "id": "6310012033",
+    "district_id": "631001",
+    "name": "DANAUINDAH"
+  }
+]

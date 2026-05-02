@@ -1,1 +1,32 @@
-[{"id": "2102041001", "district_id": "210204", "name": "MERAL KOTA"}, {"id": "2102041002", "district_id": "210204", "name": "BARAN BARAT"}, {"id": "2102041003", "district_id": "210204", "name": "SUNGAI RAYA"}, {"id": "2102041006", "district_id": "210204", "name": "BARAN TIMUR"}, {"id": "2102041007", "district_id": "210204", "name": "SUNGAI PASIR"}, {"id": "2102041008", "district_id": "210204", "name": "PARIT BENUT"}]
+[
+  {
+    "id": "2102041001",
+    "district_id": "210204",
+    "name": "MERAL KOTA"
+  },
+  {
+    "id": "2102041002",
+    "district_id": "210204",
+    "name": "BARAN BARAT"
+  },
+  {
+    "id": "2102041003",
+    "district_id": "210204",
+    "name": "SUNGAI RAYA"
+  },
+  {
+    "id": "2102041006",
+    "district_id": "210204",
+    "name": "BARAN TIMUR"
+  },
+  {
+    "id": "2102041007",
+    "district_id": "210204",
+    "name": "SUNGAI PASIR"
+  },
+  {
+    "id": "2102041008",
+    "district_id": "210204",
+    "name": "PARIT BENUT"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "3305242001", "district_id": "330524", "name": "PEJENGKOLAN"}, {"id": "3305242002", "district_id": "330524", "name": "BALINGASAL"}, {"id": "3305242003", "district_id": "330524", "name": "MERDEN"}, {"id": "3305242004", "district_id": "330524", "name": "KALIJERING"}, {"id": "3305242005", "district_id": "330524", "name": "KALIGUBUG"}, {"id": "3305242006", "district_id": "330524", "name": "SIDOTOTO"}, {"id": "3305242007", "district_id": "330524", "name": "RAHAYU"}, {"id": "3305242008", "district_id": "330524", "name": "SENDANGDALEM"}, {"id": "3305242009", "district_id": "330524", "name": "PADURESO"}]
+[
+  {
+    "id": "3305242001",
+    "district_id": "330524",
+    "name": "PEJENGKOLAN"
+  },
+  {
+    "id": "3305242002",
+    "district_id": "330524",
+    "name": "BALINGASAL"
+  },
+  {
+    "id": "3305242003",
+    "district_id": "330524",
+    "name": "MERDEN"
+  },
+  {
+    "id": "3305242004",
+    "district_id": "330524",
+    "name": "KALIJERING"
+  },
+  {
+    "id": "3305242005",
+    "district_id": "330524",
+    "name": "KALIGUBUG"
+  },
+  {
+    "id": "3305242006",
+    "district_id": "330524",
+    "name": "SIDOTOTO"
+  },
+  {
+    "id": "3305242007",
+    "district_id": "330524",
+    "name": "RAHAYU"
+  },
+  {
+    "id": "3305242008",
+    "district_id": "330524",
+    "name": "SENDANGDALEM"
+  },
+  {
+    "id": "3305242009",
+    "district_id": "330524",
+    "name": "PADURESO"
+  }
+]

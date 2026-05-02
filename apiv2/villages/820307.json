@@ -1,1 +1,72 @@
-[{"id": "8203072001", "district_id": "820307", "name": "KAO"}, {"id": "8203072002", "district_id": "820307", "name": "JATI"}, {"id": "8203072003", "district_id": "820307", "name": "KUSU"}, {"id": "8203072009", "district_id": "820307", "name": "WARINGIN LELEWI"}, {"id": "8203072010", "district_id": "820307", "name": "SOA SANGAJI DIM-DIM"}, {"id": "8203072011", "district_id": "820307", "name": "SASUR"}, {"id": "8203072012", "district_id": "820307", "name": "POPON"}, {"id": "8203072036", "district_id": "820307", "name": "BIANG"}, {"id": "8203072037", "district_id": "820307", "name": "PATANG"}, {"id": "8203072038", "district_id": "820307", "name": "KUKUMUTUK"}, {"id": "8203072039", "district_id": "820307", "name": "WARINGIN LAMO"}, {"id": "8203072050", "district_id": "820307", "name": "GORUANG"}, {"id": "8203072051", "district_id": "820307", "name": "KUSU LOFRA"}, {"id": "8203072052", "district_id": "820307", "name": "SUMBER AGUNG"}]
+[
+  {
+    "id": "8203072001",
+    "district_id": "820307",
+    "name": "KAO"
+  },
+  {
+    "id": "8203072002",
+    "district_id": "820307",
+    "name": "JATI"
+  },
+  {
+    "id": "8203072003",
+    "district_id": "820307",
+    "name": "KUSU"
+  },
+  {
+    "id": "8203072009",
+    "district_id": "820307",
+    "name": "WARINGIN LELEWI"
+  },
+  {
+    "id": "8203072010",
+    "district_id": "820307",
+    "name": "SOA SANGAJI DIM-DIM"
+  },
+  {
+    "id": "8203072011",
+    "district_id": "820307",
+    "name": "SASUR"
+  },
+  {
+    "id": "8203072012",
+    "district_id": "820307",
+    "name": "POPON"
+  },
+  {
+    "id": "8203072036",
+    "district_id": "820307",
+    "name": "BIANG"
+  },
+  {
+    "id": "8203072037",
+    "district_id": "820307",
+    "name": "PATANG"
+  },
+  {
+    "id": "8203072038",
+    "district_id": "820307",
+    "name": "KUKUMUTUK"
+  },
+  {
+    "id": "8203072039",
+    "district_id": "820307",
+    "name": "WARINGIN LAMO"
+  },
+  {
+    "id": "8203072050",
+    "district_id": "820307",
+    "name": "GORUANG"
+  },
+  {
+    "id": "8203072051",
+    "district_id": "820307",
+    "name": "KUSU LOFRA"
+  },
+  {
+    "id": "8203072052",
+    "district_id": "820307",
+    "name": "SUMBER AGUNG"
+  }
+]

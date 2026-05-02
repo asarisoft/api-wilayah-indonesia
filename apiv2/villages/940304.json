@@ -1,1 +1,47 @@
-[{"id": "9403042001", "district_id": "940304", "name": "BOGOBAIDA"}, {"id": "9403042002", "district_id": "940304", "name": "NAWIPAUWO"}, {"id": "9403042003", "district_id": "940304", "name": "MADOU"}, {"id": "9403042004", "district_id": "940304", "name": "JIBUDIDE II"}, {"id": "9403042005", "district_id": "940304", "name": "YUMAUWO"}, {"id": "9403042006", "district_id": "940304", "name": "KAGOUDIDE"}, {"id": "9403042007", "district_id": "940304", "name": "EYAPOUDA"}, {"id": "9403042008", "district_id": "940304", "name": "MIYOKEPI"}, {"id": "9403042009", "district_id": "940304", "name": "OBAYA DIMI"}]
+[
+  {
+    "id": "9403042001",
+    "district_id": "940304",
+    "name": "BOGOBAIDA"
+  },
+  {
+    "id": "9403042002",
+    "district_id": "940304",
+    "name": "NAWIPAUWO"
+  },
+  {
+    "id": "9403042003",
+    "district_id": "940304",
+    "name": "MADOU"
+  },
+  {
+    "id": "9403042004",
+    "district_id": "940304",
+    "name": "JIBUDIDE II"
+  },
+  {
+    "id": "9403042005",
+    "district_id": "940304",
+    "name": "YUMAUWO"
+  },
+  {
+    "id": "9403042006",
+    "district_id": "940304",
+    "name": "KAGOUDIDE"
+  },
+  {
+    "id": "9403042007",
+    "district_id": "940304",
+    "name": "EYAPOUDA"
+  },
+  {
+    "id": "9403042008",
+    "district_id": "940304",
+    "name": "MIYOKEPI"
+  },
+  {
+    "id": "9403042009",
+    "district_id": "940304",
+    "name": "OBAYA DIMI"
+  }
+]

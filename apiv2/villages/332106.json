@@ -1,1 +1,107 @@
-[{"id": "3321062001", "district_id": "332106", "name": "DORENG"}, {"id": "3321062002", "district_id": "332106", "name": "KALIANYAR"}, {"id": "3321062003", "district_id": "332106", "name": "TLOGODOWO"}, {"id": "3321062004", "district_id": "332106", "name": "KARANGROWO"}, {"id": "3321062005", "district_id": "332106", "name": "LEMPUYANG"}, {"id": "3321062006", "district_id": "332106", "name": "KENDALDOYONG"}, {"id": "3321062007", "district_id": "332106", "name": "WONOSALAM"}, {"id": "3321062008", "district_id": "332106", "name": "KARANGREJO"}, {"id": "3321062009", "district_id": "332106", "name": "JOGOLOYO"}, {"id": "3321062010", "district_id": "332106", "name": "BOTOREJO"}, {"id": "3321062011", "district_id": "332106", "name": "SIDOMULYO"}, {"id": "3321062012", "district_id": "332106", "name": "PILANGREJO"}, {"id": "3321062013", "district_id": "332106", "name": "TLOGOREJO"}, {"id": "3321062014", "district_id": "332106", "name": "KERANGKULON"}, {"id": "3321062015", "district_id": "332106", "name": "BUNDERAN"}, {"id": "3321062016", "district_id": "332106", "name": "GETAS"}, {"id": "3321062017", "district_id": "332106", "name": "MOJODEMAK"}, {"id": "3321062018", "district_id": "332106", "name": "KUNCIR"}, {"id": "3321062019", "district_id": "332106", "name": "TRENGGULI"}, {"id": "3321062020", "district_id": "332106", "name": "MRISEN"}, {"id": "3321062021", "district_id": "332106", "name": "MRANAK"}]
+[
+  {
+    "id": "3321062001",
+    "district_id": "332106",
+    "name": "DORENG"
+  },
+  {
+    "id": "3321062002",
+    "district_id": "332106",
+    "name": "KALIANYAR"
+  },
+  {
+    "id": "3321062003",
+    "district_id": "332106",
+    "name": "TLOGODOWO"
+  },
+  {
+    "id": "3321062004",
+    "district_id": "332106",
+    "name": "KARANGROWO"
+  },
+  {
+    "id": "3321062005",
+    "district_id": "332106",
+    "name": "LEMPUYANG"
+  },
+  {
+    "id": "3321062006",
+    "district_id": "332106",
+    "name": "KENDALDOYONG"
+  },
+  {
+    "id": "3321062007",
+    "district_id": "332106",
+    "name": "WONOSALAM"
+  },
+  {
+    "id": "3321062008",
+    "district_id": "332106",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3321062009",
+    "district_id": "332106",
+    "name": "JOGOLOYO"
+  },
+  {
+    "id": "3321062010",
+    "district_id": "332106",
+    "name": "BOTOREJO"
+  },
+  {
+    "id": "3321062011",
+    "district_id": "332106",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3321062012",
+    "district_id": "332106",
+    "name": "PILANGREJO"
+  },
+  {
+    "id": "3321062013",
+    "district_id": "332106",
+    "name": "TLOGOREJO"
+  },
+  {
+    "id": "3321062014",
+    "district_id": "332106",
+    "name": "KERANGKULON"
+  },
+  {
+    "id": "3321062015",
+    "district_id": "332106",
+    "name": "BUNDERAN"
+  },
+  {
+    "id": "3321062016",
+    "district_id": "332106",
+    "name": "GETAS"
+  },
+  {
+    "id": "3321062017",
+    "district_id": "332106",
+    "name": "MOJODEMAK"
+  },
+  {
+    "id": "3321062018",
+    "district_id": "332106",
+    "name": "KUNCIR"
+  },
+  {
+    "id": "3321062019",
+    "district_id": "332106",
+    "name": "TRENGGULI"
+  },
+  {
+    "id": "3321062020",
+    "district_id": "332106",
+    "name": "MRISEN"
+  },
+  {
+    "id": "3321062021",
+    "district_id": "332106",
+    "name": "MRANAK"
+  }
+]

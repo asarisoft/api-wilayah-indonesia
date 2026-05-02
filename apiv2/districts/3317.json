@@ -1,1 +1,72 @@
-[{"id": "331701", "regency_id": "3317", "name": "SUMBER"}, {"id": "331702", "regency_id": "3317", "name": "BULU"}, {"id": "331703", "regency_id": "3317", "name": "GUNEM"}, {"id": "331704", "regency_id": "3317", "name": "SALE"}, {"id": "331705", "regency_id": "3317", "name": "SARANG"}, {"id": "331706", "regency_id": "3317", "name": "SEDAN"}, {"id": "331707", "regency_id": "3317", "name": "PAMOTAN"}, {"id": "331708", "regency_id": "3317", "name": "SULANG"}, {"id": "331709", "regency_id": "3317", "name": "KALIORI"}, {"id": "331710", "regency_id": "3317", "name": "REMBANG"}, {"id": "331711", "regency_id": "3317", "name": "PANCUR"}, {"id": "331712", "regency_id": "3317", "name": "KRAGAN"}, {"id": "331713", "regency_id": "3317", "name": "SLUKE"}, {"id": "331714", "regency_id": "3317", "name": "LASEM"}]
+[
+  {
+    "id": "331701",
+    "regency_id": "3317",
+    "name": "SUMBER"
+  },
+  {
+    "id": "331702",
+    "regency_id": "3317",
+    "name": "BULU"
+  },
+  {
+    "id": "331703",
+    "regency_id": "3317",
+    "name": "GUNEM"
+  },
+  {
+    "id": "331704",
+    "regency_id": "3317",
+    "name": "SALE"
+  },
+  {
+    "id": "331705",
+    "regency_id": "3317",
+    "name": "SARANG"
+  },
+  {
+    "id": "331706",
+    "regency_id": "3317",
+    "name": "SEDAN"
+  },
+  {
+    "id": "331707",
+    "regency_id": "3317",
+    "name": "PAMOTAN"
+  },
+  {
+    "id": "331708",
+    "regency_id": "3317",
+    "name": "SULANG"
+  },
+  {
+    "id": "331709",
+    "regency_id": "3317",
+    "name": "KALIORI"
+  },
+  {
+    "id": "331710",
+    "regency_id": "3317",
+    "name": "REMBANG"
+  },
+  {
+    "id": "331711",
+    "regency_id": "3317",
+    "name": "PANCUR"
+  },
+  {
+    "id": "331712",
+    "regency_id": "3317",
+    "name": "KRAGAN"
+  },
+  {
+    "id": "331713",
+    "regency_id": "3317",
+    "name": "SLUKE"
+  },
+  {
+    "id": "331714",
+    "regency_id": "3317",
+    "name": "LASEM"
+  }
+]

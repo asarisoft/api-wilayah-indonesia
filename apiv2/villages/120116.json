@@ -1,1 +1,47 @@
-[{"id": "1201162001", "district_id": "120116", "name": "SUGA SUGA HUTAGODANG"}, {"id": "1201162002", "district_id": "120116", "name": "SUKA MAJU"}, {"id": "1201162003", "district_id": "120116", "name": "MAKMUR"}, {"id": "1201162004", "district_id": "120116", "name": "PASARIBU TOBING"}, {"id": "1201162005", "district_id": "120116", "name": "AEK NADUA"}, {"id": "1201162006", "district_id": "120116", "name": "SIMARGARAP"}, {"id": "1201162007", "district_id": "120116", "name": "SIDALING"}, {"id": "1201162008", "district_id": "120116", "name": "SIPAKPAHI"}, {"id": "1201162009", "district_id": "120116", "name": "PO SIMARGARAP"}]
+[
+  {
+    "id": "1201162001",
+    "district_id": "120116",
+    "name": "SUGA SUGA HUTAGODANG"
+  },
+  {
+    "id": "1201162002",
+    "district_id": "120116",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1201162003",
+    "district_id": "120116",
+    "name": "MAKMUR"
+  },
+  {
+    "id": "1201162004",
+    "district_id": "120116",
+    "name": "PASARIBU TOBING"
+  },
+  {
+    "id": "1201162005",
+    "district_id": "120116",
+    "name": "AEK NADUA"
+  },
+  {
+    "id": "1201162006",
+    "district_id": "120116",
+    "name": "SIMARGARAP"
+  },
+  {
+    "id": "1201162007",
+    "district_id": "120116",
+    "name": "SIDALING"
+  },
+  {
+    "id": "1201162008",
+    "district_id": "120116",
+    "name": "SIPAKPAHI"
+  },
+  {
+    "id": "1201162009",
+    "district_id": "120116",
+    "name": "PO SIMARGARAP"
+  }
+]

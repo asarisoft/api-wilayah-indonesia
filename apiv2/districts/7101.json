@@ -1,1 +1,77 @@
-[{"id": "710105", "regency_id": "7101", "name": "SANG TOMBOLANG"}, {"id": "710109", "regency_id": "7101", "name": "DUMOGA BARAT"}, {"id": "710110", "regency_id": "7101", "name": "DUMOGA TIMUR"}, {"id": "710111", "regency_id": "7101", "name": "DUMOGA UTARA"}, {"id": "710112", "regency_id": "7101", "name": "LOLAK"}, {"id": "710113", "regency_id": "7101", "name": "BOLAANG"}, {"id": "710114", "regency_id": "7101", "name": "LOLAYAN"}, {"id": "710119", "regency_id": "7101", "name": "PASSI BARAT"}, {"id": "710120", "regency_id": "7101", "name": "POIGAR"}, {"id": "710122", "regency_id": "7101", "name": "PASSI TIMUR"}, {"id": "710131", "regency_id": "7101", "name": "BOLAANG TIMUR"}, {"id": "710132", "regency_id": "7101", "name": "BILALANG"}, {"id": "710133", "regency_id": "7101", "name": "DUMOGA"}, {"id": "710134", "regency_id": "7101", "name": "DUMOGA TENGGARA"}, {"id": "710135", "regency_id": "7101", "name": "DUMOGA TENGAH"}]
+[
+  {
+    "id": "710105",
+    "regency_id": "7101",
+    "name": "SANG TOMBOLANG"
+  },
+  {
+    "id": "710109",
+    "regency_id": "7101",
+    "name": "DUMOGA BARAT"
+  },
+  {
+    "id": "710110",
+    "regency_id": "7101",
+    "name": "DUMOGA TIMUR"
+  },
+  {
+    "id": "710111",
+    "regency_id": "7101",
+    "name": "DUMOGA UTARA"
+  },
+  {
+    "id": "710112",
+    "regency_id": "7101",
+    "name": "LOLAK"
+  },
+  {
+    "id": "710113",
+    "regency_id": "7101",
+    "name": "BOLAANG"
+  },
+  {
+    "id": "710114",
+    "regency_id": "7101",
+    "name": "LOLAYAN"
+  },
+  {
+    "id": "710119",
+    "regency_id": "7101",
+    "name": "PASSI BARAT"
+  },
+  {
+    "id": "710120",
+    "regency_id": "7101",
+    "name": "POIGAR"
+  },
+  {
+    "id": "710122",
+    "regency_id": "7101",
+    "name": "PASSI TIMUR"
+  },
+  {
+    "id": "710131",
+    "regency_id": "7101",
+    "name": "BOLAANG TIMUR"
+  },
+  {
+    "id": "710132",
+    "regency_id": "7101",
+    "name": "BILALANG"
+  },
+  {
+    "id": "710133",
+    "regency_id": "7101",
+    "name": "DUMOGA"
+  },
+  {
+    "id": "710134",
+    "regency_id": "7101",
+    "name": "DUMOGA TENGGARA"
+  },
+  {
+    "id": "710135",
+    "regency_id": "7101",
+    "name": "DUMOGA TENGAH"
+  }
+]

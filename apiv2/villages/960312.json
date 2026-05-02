@@ -1,1 +1,27 @@
-[{"id": "9603122001", "district_id": "960312", "name": "FAFANLAP"}, {"id": "9603122002", "district_id": "960312", "name": "YELLU"}, {"id": "9603122003", "district_id": "960312", "name": "HARAPAN JAYA"}, {"id": "9603122004", "district_id": "960312", "name": "KAREYEPOP"}, {"id": "9603122005", "district_id": "960312", "name": "DABATAN"}]
+[
+  {
+    "id": "9603122001",
+    "district_id": "960312",
+    "name": "FAFANLAP"
+  },
+  {
+    "id": "9603122002",
+    "district_id": "960312",
+    "name": "YELLU"
+  },
+  {
+    "id": "9603122003",
+    "district_id": "960312",
+    "name": "HARAPAN JAYA"
+  },
+  {
+    "id": "9603122004",
+    "district_id": "960312",
+    "name": "KAREYEPOP"
+  },
+  {
+    "id": "9603122005",
+    "district_id": "960312",
+    "name": "DABATAN"
+  }
+]

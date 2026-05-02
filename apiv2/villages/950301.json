@@ -1,1 +1,112 @@
-[{"id": "9503011001", "district_id": "950301", "name": "OBOLMA"}, {"id": "9503012002", "district_id": "950301", "name": "IBIROMA"}, {"id": "9503012003", "district_id": "950301", "name": "HIHUNDES"}, {"id": "9503012004", "district_id": "950301", "name": "WANEM"}, {"id": "9503012005", "district_id": "950301", "name": "ANJELMA"}, {"id": "9503012006", "district_id": "950301", "name": "PUSUAGA"}, {"id": "9503012007", "district_id": "950301", "name": "WULIK PUNUA"}, {"id": "9503012008", "district_id": "950301", "name": "KILISE"}, {"id": "9503012009", "district_id": "950301", "name": "AIR GARAM"}, {"id": "9503012010", "district_id": "950301", "name": "ESALIEN"}, {"id": "9503012011", "district_id": "950301", "name": "LUKULEMA"}, {"id": "9503012012", "district_id": "950301", "name": "TUKUAREK"}, {"id": "9503012013", "district_id": "950301", "name": "KIMA"}, {"id": "9503012014", "district_id": "950301", "name": "YAGARELO"}, {"id": "9503012015", "district_id": "950301", "name": "SOROH"}, {"id": "9503012016", "district_id": "950301", "name": "EROMA"}, {"id": "9503012017", "district_id": "950301", "name": "LOTIA"}, {"id": "9503012018", "district_id": "950301", "name": "WULUAGAIMA"}, {"id": "9503012019", "district_id": "950301", "name": "HUKEN"}, {"id": "9503012020", "district_id": "950301", "name": "HUGUMA"}, {"id": "9503012021", "district_id": "950301", "name": "PARELA"}, {"id": "9503012023", "district_id": "950301", "name": "HESMAT"}]
+[
+  {
+    "id": "9503011001",
+    "district_id": "950301",
+    "name": "OBOLMA"
+  },
+  {
+    "id": "9503012002",
+    "district_id": "950301",
+    "name": "IBIROMA"
+  },
+  {
+    "id": "9503012003",
+    "district_id": "950301",
+    "name": "HIHUNDES"
+  },
+  {
+    "id": "9503012004",
+    "district_id": "950301",
+    "name": "WANEM"
+  },
+  {
+    "id": "9503012005",
+    "district_id": "950301",
+    "name": "ANJELMA"
+  },
+  {
+    "id": "9503012006",
+    "district_id": "950301",
+    "name": "PUSUAGA"
+  },
+  {
+    "id": "9503012007",
+    "district_id": "950301",
+    "name": "WULIK PUNUA"
+  },
+  {
+    "id": "9503012008",
+    "district_id": "950301",
+    "name": "KILISE"
+  },
+  {
+    "id": "9503012009",
+    "district_id": "950301",
+    "name": "AIR GARAM"
+  },
+  {
+    "id": "9503012010",
+    "district_id": "950301",
+    "name": "ESALIEN"
+  },
+  {
+    "id": "9503012011",
+    "district_id": "950301",
+    "name": "LUKULEMA"
+  },
+  {
+    "id": "9503012012",
+    "district_id": "950301",
+    "name": "TUKUAREK"
+  },
+  {
+    "id": "9503012013",
+    "district_id": "950301",
+    "name": "KIMA"
+  },
+  {
+    "id": "9503012014",
+    "district_id": "950301",
+    "name": "YAGARELO"
+  },
+  {
+    "id": "9503012015",
+    "district_id": "950301",
+    "name": "SOROH"
+  },
+  {
+    "id": "9503012016",
+    "district_id": "950301",
+    "name": "EROMA"
+  },
+  {
+    "id": "9503012017",
+    "district_id": "950301",
+    "name": "LOTIA"
+  },
+  {
+    "id": "9503012018",
+    "district_id": "950301",
+    "name": "WULUAGAIMA"
+  },
+  {
+    "id": "9503012019",
+    "district_id": "950301",
+    "name": "HUKEN"
+  },
+  {
+    "id": "9503012020",
+    "district_id": "950301",
+    "name": "HUGUMA"
+  },
+  {
+    "id": "9503012021",
+    "district_id": "950301",
+    "name": "PARELA"
+  },
+  {
+    "id": "9503012023",
+    "district_id": "950301",
+    "name": "HESMAT"
+  }
+]

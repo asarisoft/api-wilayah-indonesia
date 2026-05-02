@@ -1,1 +1,82 @@
-[{"id": "7201142001", "district_id": "720114", "name": "SALUAN"}, {"id": "7201142002", "district_id": "720114", "name": "TOILI"}, {"id": "7201142003", "district_id": "720114", "name": "SELAMET RAHARJO"}, {"id": "7201142004", "district_id": "720114", "name": "MULYOHARJO"}, {"id": "7201142005", "district_id": "720114", "name": "SIDOHARJO"}, {"id": "7201142006", "district_id": "720114", "name": "BUMI HARJO"}, {"id": "7201142007", "district_id": "720114", "name": "MINAKARYA"}, {"id": "7201142008", "district_id": "720114", "name": "MINAHAKI"}, {"id": "7201142009", "district_id": "720114", "name": "ARGA KENCANA"}, {"id": "7201142010", "district_id": "720114", "name": "MOILONG"}, {"id": "7201142011", "district_id": "720114", "name": "KARANG ANYAR"}, {"id": "7201142012", "district_id": "720114", "name": "SUMBER HARJO"}, {"id": "7201142013", "district_id": "720114", "name": "KARYA JAYA"}, {"id": "7201142014", "district_id": "720114", "name": "TOU"}, {"id": "7201142015", "district_id": "720114", "name": "ARGO MULYO"}, {"id": "7201142016", "district_id": "720114", "name": "SIDO MAKMUR"}]
+[
+  {
+    "id": "7201142001",
+    "district_id": "720114",
+    "name": "SALUAN"
+  },
+  {
+    "id": "7201142002",
+    "district_id": "720114",
+    "name": "TOILI"
+  },
+  {
+    "id": "7201142003",
+    "district_id": "720114",
+    "name": "SELAMET RAHARJO"
+  },
+  {
+    "id": "7201142004",
+    "district_id": "720114",
+    "name": "MULYOHARJO"
+  },
+  {
+    "id": "7201142005",
+    "district_id": "720114",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "7201142006",
+    "district_id": "720114",
+    "name": "BUMI HARJO"
+  },
+  {
+    "id": "7201142007",
+    "district_id": "720114",
+    "name": "MINAKARYA"
+  },
+  {
+    "id": "7201142008",
+    "district_id": "720114",
+    "name": "MINAHAKI"
+  },
+  {
+    "id": "7201142009",
+    "district_id": "720114",
+    "name": "ARGA KENCANA"
+  },
+  {
+    "id": "7201142010",
+    "district_id": "720114",
+    "name": "MOILONG"
+  },
+  {
+    "id": "7201142011",
+    "district_id": "720114",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "7201142012",
+    "district_id": "720114",
+    "name": "SUMBER HARJO"
+  },
+  {
+    "id": "7201142013",
+    "district_id": "720114",
+    "name": "KARYA JAYA"
+  },
+  {
+    "id": "7201142014",
+    "district_id": "720114",
+    "name": "TOU"
+  },
+  {
+    "id": "7201142015",
+    "district_id": "720114",
+    "name": "ARGO MULYO"
+  },
+  {
+    "id": "7201142016",
+    "district_id": "720114",
+    "name": "SIDO MAKMUR"
+  }
+]

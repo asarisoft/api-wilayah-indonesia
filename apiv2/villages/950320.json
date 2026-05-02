@@ -1,1 +1,67 @@
-[{"id": "9503202001", "district_id": "950320", "name": "PONTENIKMA"}, {"id": "9503202002", "district_id": "950320", "name": "KUNI"}, {"id": "9503202003", "district_id": "950320", "name": "PANGGEMA"}, {"id": "9503202004", "district_id": "950320", "name": "HOMTONGGO"}, {"id": "9503202005", "district_id": "950320", "name": "TUKAM"}, {"id": "9503202006", "district_id": "950320", "name": "KEMUMANGGEN"}, {"id": "9503202007", "district_id": "950320", "name": "YANGKALI"}, {"id": "9503202008", "district_id": "950320", "name": "WERESILI"}, {"id": "9503202009", "district_id": "950320", "name": "SUSEK"}, {"id": "9503202010", "district_id": "950320", "name": "KOLU"}, {"id": "9503202011", "district_id": "950320", "name": "TONGGOI"}, {"id": "9503202012", "district_id": "950320", "name": "BINELUK"}, {"id": "9503202013", "district_id": "950320", "name": "MASAHAN"}]
+[
+  {
+    "id": "9503202001",
+    "district_id": "950320",
+    "name": "PONTENIKMA"
+  },
+  {
+    "id": "9503202002",
+    "district_id": "950320",
+    "name": "KUNI"
+  },
+  {
+    "id": "9503202003",
+    "district_id": "950320",
+    "name": "PANGGEMA"
+  },
+  {
+    "id": "9503202004",
+    "district_id": "950320",
+    "name": "HOMTONGGO"
+  },
+  {
+    "id": "9503202005",
+    "district_id": "950320",
+    "name": "TUKAM"
+  },
+  {
+    "id": "9503202006",
+    "district_id": "950320",
+    "name": "KEMUMANGGEN"
+  },
+  {
+    "id": "9503202007",
+    "district_id": "950320",
+    "name": "YANGKALI"
+  },
+  {
+    "id": "9503202008",
+    "district_id": "950320",
+    "name": "WERESILI"
+  },
+  {
+    "id": "9503202009",
+    "district_id": "950320",
+    "name": "SUSEK"
+  },
+  {
+    "id": "9503202010",
+    "district_id": "950320",
+    "name": "KOLU"
+  },
+  {
+    "id": "9503202011",
+    "district_id": "950320",
+    "name": "TONGGOI"
+  },
+  {
+    "id": "9503202012",
+    "district_id": "950320",
+    "name": "BINELUK"
+  },
+  {
+    "id": "9503202013",
+    "district_id": "950320",
+    "name": "MASAHAN"
+  }
+]

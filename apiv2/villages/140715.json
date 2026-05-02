@@ -1,1 +1,62 @@
-[{"id": "1407152001", "district_id": "140715", "name": "RANTAU PANJANG KIRI"}, {"id": "1407152002", "district_id": "140715", "name": "TELUKNILAP"}, {"id": "1407152003", "district_id": "140715", "name": "SUNGAIMAJO"}, {"id": "1407152004", "district_id": "140715", "name": "SUNGAIPINANG"}, {"id": "1407152005", "district_id": "140715", "name": "SUNGAIPANJI-PANJI"}, {"id": "1407152006", "district_id": "140715", "name": "JOJOL"}, {"id": "1407152007", "district_id": "140715", "name": "PULAUHALANG MUKA"}, {"id": "1407152008", "district_id": "140715", "name": "PULAUHALANG BELAKANG"}, {"id": "1407152009", "district_id": "140715", "name": "RANTAU PANJANG KIRI HILIR"}, {"id": "1407152010", "district_id": "140715", "name": "TELUKNILAP JAYA"}, {"id": "1407152011", "district_id": "140715", "name": "SUNGAIMAJO PUSAKO"}, {"id": "1407152012", "district_id": "140715", "name": "PULAUHALANG HULU"}]
+[
+  {
+    "id": "1407152001",
+    "district_id": "140715",
+    "name": "RANTAU PANJANG KIRI"
+  },
+  {
+    "id": "1407152002",
+    "district_id": "140715",
+    "name": "TELUKNILAP"
+  },
+  {
+    "id": "1407152003",
+    "district_id": "140715",
+    "name": "SUNGAIMAJO"
+  },
+  {
+    "id": "1407152004",
+    "district_id": "140715",
+    "name": "SUNGAIPINANG"
+  },
+  {
+    "id": "1407152005",
+    "district_id": "140715",
+    "name": "SUNGAIPANJI-PANJI"
+  },
+  {
+    "id": "1407152006",
+    "district_id": "140715",
+    "name": "JOJOL"
+  },
+  {
+    "id": "1407152007",
+    "district_id": "140715",
+    "name": "PULAUHALANG MUKA"
+  },
+  {
+    "id": "1407152008",
+    "district_id": "140715",
+    "name": "PULAUHALANG BELAKANG"
+  },
+  {
+    "id": "1407152009",
+    "district_id": "140715",
+    "name": "RANTAU PANJANG KIRI HILIR"
+  },
+  {
+    "id": "1407152010",
+    "district_id": "140715",
+    "name": "TELUKNILAP JAYA"
+  },
+  {
+    "id": "1407152011",
+    "district_id": "140715",
+    "name": "SUNGAIMAJO PUSAKO"
+  },
+  {
+    "id": "1407152012",
+    "district_id": "140715",
+    "name": "PULAUHALANG HULU"
+  }
+]

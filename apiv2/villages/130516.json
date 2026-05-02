@@ -1,1 +1,32 @@
-[{"id": "1305162001", "district_id": "130516", "name": "SUNGAI DURIAN"}, {"id": "1305162002", "district_id": "130516", "name": "TANDIKEK"}, {"id": "1305162003", "district_id": "130516", "name": "TANDIKEK UTARA"}, {"id": "1305162004", "district_id": "130516", "name": "TANDIKEK SELATAN"}, {"id": "1305162005", "district_id": "130516", "name": "TANDIKEK BARAT"}, {"id": "1305162006", "district_id": "130516", "name": "KAMPUANG TANJUANG KOTO MAMBANG SUNGAI DURIAN"}]
+[
+  {
+    "id": "1305162001",
+    "district_id": "130516",
+    "name": "SUNGAI DURIAN"
+  },
+  {
+    "id": "1305162002",
+    "district_id": "130516",
+    "name": "TANDIKEK"
+  },
+  {
+    "id": "1305162003",
+    "district_id": "130516",
+    "name": "TANDIKEK UTARA"
+  },
+  {
+    "id": "1305162004",
+    "district_id": "130516",
+    "name": "TANDIKEK SELATAN"
+  },
+  {
+    "id": "1305162005",
+    "district_id": "130516",
+    "name": "TANDIKEK BARAT"
+  },
+  {
+    "id": "1305162006",
+    "district_id": "130516",
+    "name": "KAMPUANG TANJUANG KOTO MAMBANG SUNGAI DURIAN"
+  }
+]

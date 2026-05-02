@@ -1,1 +1,32 @@
-[{"id": "7309121001", "district_id": "730912", "name": "ALLEPOLEA"}, {"id": "7309121002", "district_id": "730912", "name": "MACCINI BAJI"}, {"id": "7309121003", "district_id": "730912", "name": "SOREANG"}, {"id": "7309121004", "district_id": "730912", "name": "MATTIRODECENG"}, {"id": "7309122005", "district_id": "730912", "name": "MARANNU"}, {"id": "7309122006", "district_id": "730912", "name": "TENGKURU"}]
+[
+  {
+    "id": "7309121001",
+    "district_id": "730912",
+    "name": "ALLEPOLEA"
+  },
+  {
+    "id": "7309121002",
+    "district_id": "730912",
+    "name": "MACCINI BAJI"
+  },
+  {
+    "id": "7309121003",
+    "district_id": "730912",
+    "name": "SOREANG"
+  },
+  {
+    "id": "7309121004",
+    "district_id": "730912",
+    "name": "MATTIRODECENG"
+  },
+  {
+    "id": "7309122005",
+    "district_id": "730912",
+    "name": "MARANNU"
+  },
+  {
+    "id": "7309122006",
+    "district_id": "730912",
+    "name": "TENGKURU"
+  }
+]

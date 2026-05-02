@@ -1,1 +1,47 @@
-[{"id": "1701111003", "district_id": "170111", "name": "TANJUNG MULIA"}, {"id": "1701111004", "district_id": "170111", "name": "PASAR MULIA"}, {"id": "1701111005", "district_id": "170111", "name": "BELAKANG GEDUNG"}, {"id": "1701111006", "district_id": "170111", "name": "GUNUNG MESIR"}, {"id": "1701111007", "district_id": "170111", "name": "PADANG SIALANG"}, {"id": "1701111008", "district_id": "170111", "name": "KETAPANG BESAR"}, {"id": "1701111009", "district_id": "170111", "name": "PASAR BAWAH"}, {"id": "1701112001", "district_id": "170111", "name": "BATU KUNING"}, {"id": "1701112002", "district_id": "170111", "name": "BATU LAMBANG"}]
+[
+  {
+    "id": "1701111003",
+    "district_id": "170111",
+    "name": "TANJUNG MULIA"
+  },
+  {
+    "id": "1701111004",
+    "district_id": "170111",
+    "name": "PASAR MULIA"
+  },
+  {
+    "id": "1701111005",
+    "district_id": "170111",
+    "name": "BELAKANG GEDUNG"
+  },
+  {
+    "id": "1701111006",
+    "district_id": "170111",
+    "name": "GUNUNG MESIR"
+  },
+  {
+    "id": "1701111007",
+    "district_id": "170111",
+    "name": "PADANG SIALANG"
+  },
+  {
+    "id": "1701111008",
+    "district_id": "170111",
+    "name": "KETAPANG BESAR"
+  },
+  {
+    "id": "1701111009",
+    "district_id": "170111",
+    "name": "PASAR BAWAH"
+  },
+  {
+    "id": "1701112001",
+    "district_id": "170111",
+    "name": "BATU KUNING"
+  },
+  {
+    "id": "1701112002",
+    "district_id": "170111",
+    "name": "BATU LAMBANG"
+  }
+]

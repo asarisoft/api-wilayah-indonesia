@@ -1,1 +1,57 @@
-[{"id": "3211262001", "district_id": "321126", "name": "CIJEUNGJING"}, {"id": "3211262002", "district_id": "321126", "name": "KADUJAYA"}, {"id": "3211262003", "district_id": "321126", "name": "LEBAKSIUH"}, {"id": "3211262004", "district_id": "321126", "name": "CINTAJAYA"}, {"id": "3211262005", "district_id": "321126", "name": "CIPICUNG"}, {"id": "3211262006", "district_id": "321126", "name": "MEKARASIH"}, {"id": "3211262008", "district_id": "321126", "name": "CIRANGGEM"}, {"id": "3211262009", "district_id": "321126", "name": "CISAMPIH"}, {"id": "3211262010", "district_id": "321126", "name": "JEMAH"}, {"id": "3211262011", "district_id": "321126", "name": "KAREDOK"}, {"id": "3211262012", "district_id": "321126", "name": "KADU"}]
+[
+  {
+    "id": "3211262001",
+    "district_id": "321126",
+    "name": "CIJEUNGJING"
+  },
+  {
+    "id": "3211262002",
+    "district_id": "321126",
+    "name": "KADUJAYA"
+  },
+  {
+    "id": "3211262003",
+    "district_id": "321126",
+    "name": "LEBAKSIUH"
+  },
+  {
+    "id": "3211262004",
+    "district_id": "321126",
+    "name": "CINTAJAYA"
+  },
+  {
+    "id": "3211262005",
+    "district_id": "321126",
+    "name": "CIPICUNG"
+  },
+  {
+    "id": "3211262006",
+    "district_id": "321126",
+    "name": "MEKARASIH"
+  },
+  {
+    "id": "3211262008",
+    "district_id": "321126",
+    "name": "CIRANGGEM"
+  },
+  {
+    "id": "3211262009",
+    "district_id": "321126",
+    "name": "CISAMPIH"
+  },
+  {
+    "id": "3211262010",
+    "district_id": "321126",
+    "name": "JEMAH"
+  },
+  {
+    "id": "3211262011",
+    "district_id": "321126",
+    "name": "KAREDOK"
+  },
+  {
+    "id": "3211262012",
+    "district_id": "321126",
+    "name": "KADU"
+  }
+]

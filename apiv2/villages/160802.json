@@ -1,1 +1,87 @@
-[{"id": "1608022001", "district_id": "160802", "name": "SUKA RAJA"}, {"id": "1608022002", "district_id": "160802", "name": "KURUNGAN NYAWA"}, {"id": "1608022003", "district_id": "160802", "name": "PISANG JAYA"}, {"id": "1608022004", "district_id": "160802", "name": "SUMBER AGUNG"}, {"id": "1608022005", "district_id": "160802", "name": "TEBAT JAYA"}, {"id": "1608022006", "district_id": "160802", "name": "SRIDADI"}, {"id": "1608022009", "district_id": "160802", "name": "TANJUNG BULAN"}, {"id": "1608022010", "district_id": "160802", "name": "WAY HALOM"}, {"id": "1608022031", "district_id": "160802", "name": "KURUNGAN NYAWA I"}, {"id": "1608022032", "district_id": "160802", "name": "KURUNGAN NYAWA II"}, {"id": "1608022033", "district_id": "160802", "name": "KURUNGAN NYAWA III"}, {"id": "1608022034", "district_id": "160802", "name": "CIPTA MUDA"}, {"id": "1608022035", "district_id": "160802", "name": "AMAN JAYA"}, {"id": "1608022036", "district_id": "160802", "name": "SUKARAJA TUHA"}, {"id": "1608022037", "district_id": "160802", "name": "GANJAR AGUNG"}, {"id": "1608022038", "district_id": "160802", "name": "MULYO AGUNG"}, {"id": "1608022039", "district_id": "160802", "name": "MUDA SENTOSA"}]
+[
+  {
+    "id": "1608022001",
+    "district_id": "160802",
+    "name": "SUKA RAJA"
+  },
+  {
+    "id": "1608022002",
+    "district_id": "160802",
+    "name": "KURUNGAN NYAWA"
+  },
+  {
+    "id": "1608022003",
+    "district_id": "160802",
+    "name": "PISANG JAYA"
+  },
+  {
+    "id": "1608022004",
+    "district_id": "160802",
+    "name": "SUMBER AGUNG"
+  },
+  {
+    "id": "1608022005",
+    "district_id": "160802",
+    "name": "TEBAT JAYA"
+  },
+  {
+    "id": "1608022006",
+    "district_id": "160802",
+    "name": "SRIDADI"
+  },
+  {
+    "id": "1608022009",
+    "district_id": "160802",
+    "name": "TANJUNG BULAN"
+  },
+  {
+    "id": "1608022010",
+    "district_id": "160802",
+    "name": "WAY HALOM"
+  },
+  {
+    "id": "1608022031",
+    "district_id": "160802",
+    "name": "KURUNGAN NYAWA I"
+  },
+  {
+    "id": "1608022032",
+    "district_id": "160802",
+    "name": "KURUNGAN NYAWA II"
+  },
+  {
+    "id": "1608022033",
+    "district_id": "160802",
+    "name": "KURUNGAN NYAWA III"
+  },
+  {
+    "id": "1608022034",
+    "district_id": "160802",
+    "name": "CIPTA MUDA"
+  },
+  {
+    "id": "1608022035",
+    "district_id": "160802",
+    "name": "AMAN JAYA"
+  },
+  {
+    "id": "1608022036",
+    "district_id": "160802",
+    "name": "SUKARAJA TUHA"
+  },
+  {
+    "id": "1608022037",
+    "district_id": "160802",
+    "name": "GANJAR AGUNG"
+  },
+  {
+    "id": "1608022038",
+    "district_id": "160802",
+    "name": "MULYO AGUNG"
+  },
+  {
+    "id": "1608022039",
+    "district_id": "160802",
+    "name": "MUDA SENTOSA"
+  }
+]

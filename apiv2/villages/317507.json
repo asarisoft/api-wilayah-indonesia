@@ -1,1 +1,37 @@
-[{"id": "3175071001", "district_id": "317507", "name": "DUREN SAWIT"}, {"id": "3175071002", "district_id": "317507", "name": "PONDOK BAMBU"}, {"id": "3175071003", "district_id": "317507", "name": "KLENDER"}, {"id": "3175071004", "district_id": "317507", "name": "PONDOK KELAPA"}, {"id": "3175071005", "district_id": "317507", "name": "MALAKA SARI"}, {"id": "3175071006", "district_id": "317507", "name": "MALAKA JAYA"}, {"id": "3175071007", "district_id": "317507", "name": "PONDOK KOPI"}]
+[
+  {
+    "id": "3175071001",
+    "district_id": "317507",
+    "name": "DUREN SAWIT"
+  },
+  {
+    "id": "3175071002",
+    "district_id": "317507",
+    "name": "PONDOK BAMBU"
+  },
+  {
+    "id": "3175071003",
+    "district_id": "317507",
+    "name": "KLENDER"
+  },
+  {
+    "id": "3175071004",
+    "district_id": "317507",
+    "name": "PONDOK KELAPA"
+  },
+  {
+    "id": "3175071005",
+    "district_id": "317507",
+    "name": "MALAKA SARI"
+  },
+  {
+    "id": "3175071006",
+    "district_id": "317507",
+    "name": "MALAKA JAYA"
+  },
+  {
+    "id": "3175071007",
+    "district_id": "317507",
+    "name": "PONDOK KOPI"
+  }
+]

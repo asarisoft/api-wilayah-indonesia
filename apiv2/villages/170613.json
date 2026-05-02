@@ -1,1 +1,42 @@
-[{"id": "1706132001", "district_id": "170613", "name": "PONDOK MAKMUR"}, {"id": "1706132002", "district_id": "170613", "name": "MANJUNTO JAYA"}, {"id": "1706132003", "district_id": "170613", "name": "TIRTA MAKMUR"}, {"id": "1706132004", "district_id": "170613", "name": "AGUNG JAYA"}, {"id": "1706132005", "district_id": "170613", "name": "TIRTA MULYA"}, {"id": "1706132006", "district_id": "170613", "name": "KOTA PRAJA"}, {"id": "1706132007", "district_id": "170613", "name": "SINAR JAYA"}, {"id": "1706132008", "district_id": "170613", "name": "SIDO MAKMUR"}]
+[
+  {
+    "id": "1706132001",
+    "district_id": "170613",
+    "name": "PONDOK MAKMUR"
+  },
+  {
+    "id": "1706132002",
+    "district_id": "170613",
+    "name": "MANJUNTO JAYA"
+  },
+  {
+    "id": "1706132003",
+    "district_id": "170613",
+    "name": "TIRTA MAKMUR"
+  },
+  {
+    "id": "1706132004",
+    "district_id": "170613",
+    "name": "AGUNG JAYA"
+  },
+  {
+    "id": "1706132005",
+    "district_id": "170613",
+    "name": "TIRTA MULYA"
+  },
+  {
+    "id": "1706132006",
+    "district_id": "170613",
+    "name": "KOTA PRAJA"
+  },
+  {
+    "id": "1706132007",
+    "district_id": "170613",
+    "name": "SINAR JAYA"
+  },
+  {
+    "id": "1706132008",
+    "district_id": "170613",
+    "name": "SIDO MAKMUR"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3516182001", "district_id": "351618", "name": "SADARTENGAH"}, {"id": "3516182002", "district_id": "351618", "name": "LENGKONG"}, {"id": "3516182003", "district_id": "351618", "name": "KEPUHANYAR"}, {"id": "3516182004", "district_id": "351618", "name": "SUMBERJATI"}, {"id": "3516182005", "district_id": "351618", "name": "GEBANGMALANG"}, {"id": "3516182006", "district_id": "351618", "name": "JABON"}, {"id": "3516182008", "district_id": "351618", "name": "NGARJO"}, {"id": "3516182009", "district_id": "351618", "name": "WUNUT"}, {"id": "3516182010", "district_id": "351618", "name": "KWEDENKEMBAR"}, {"id": "3516182011", "district_id": "351618", "name": "JUMENENG"}, {"id": "3516182012", "district_id": "351618", "name": "KWATU"}, {"id": "3516182013", "district_id": "351618", "name": "GAYAMAN"}]
+[
+  {
+    "id": "3516182001",
+    "district_id": "351618",
+    "name": "SADARTENGAH"
+  },
+  {
+    "id": "3516182002",
+    "district_id": "351618",
+    "name": "LENGKONG"
+  },
+  {
+    "id": "3516182003",
+    "district_id": "351618",
+    "name": "KEPUHANYAR"
+  },
+  {
+    "id": "3516182004",
+    "district_id": "351618",
+    "name": "SUMBERJATI"
+  },
+  {
+    "id": "3516182005",
+    "district_id": "351618",
+    "name": "GEBANGMALANG"
+  },
+  {
+    "id": "3516182006",
+    "district_id": "351618",
+    "name": "JABON"
+  },
+  {
+    "id": "3516182008",
+    "district_id": "351618",
+    "name": "NGARJO"
+  },
+  {
+    "id": "3516182009",
+    "district_id": "351618",
+    "name": "WUNUT"
+  },
+  {
+    "id": "3516182010",
+    "district_id": "351618",
+    "name": "KWEDENKEMBAR"
+  },
+  {
+    "id": "3516182011",
+    "district_id": "351618",
+    "name": "JUMENENG"
+  },
+  {
+    "id": "3516182012",
+    "district_id": "351618",
+    "name": "KWATU"
+  },
+  {
+    "id": "3516182013",
+    "district_id": "351618",
+    "name": "GAYAMAN"
+  }
+]

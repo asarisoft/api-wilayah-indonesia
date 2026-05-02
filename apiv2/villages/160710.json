@@ -1,1 +1,97 @@
-[{"id": "1607101002", "district_id": "160710", "name": "AIR BATU"}, {"id": "1607101003", "district_id": "160710", "name": "SUKOMORO"}, {"id": "1607101004", "district_id": "160710", "name": "SUKAJADI"}, {"id": "1607101006", "district_id": "160710", "name": "KENTEN"}, {"id": "1607101022", "district_id": "160710", "name": "TANAH MAS"}, {"id": "1607101023", "district_id": "160710", "name": "TALANG KERAMAT"}, {"id": "1607101024", "district_id": "160710", "name": "SUKAJADI TIMUR"}, {"id": "1607101025", "district_id": "160710", "name": "TANAH MAS INDAH"}, {"id": "1607101026", "district_id": "160710", "name": "RAWA MAJU"}, {"id": "1607101027", "district_id": "160710", "name": "AIR BATU JAYA"}, {"id": "1607101028", "district_id": "160710", "name": "SEI SEDAPAT"}, {"id": "1607101029", "district_id": "160710", "name": "AZHAR PERMAI"}, {"id": "1607101030", "district_id": "160710", "name": "KERAMAT RAYA"}, {"id": "1607102001", "district_id": "160710", "name": "SUNGAI RENGIT"}, {"id": "1607102005", "district_id": "160710", "name": "PANGKALAN BENTENG"}, {"id": "1607102007", "district_id": "160710", "name": "GASING"}, {"id": "1607102019", "district_id": "160710", "name": "TALANG BULUH"}, {"id": "1607102020", "district_id": "160710", "name": "SUNGAI RENGIT MURNI"}, {"id": "1607102021", "district_id": "160710", "name": "KENTEN LAUT"}]
+[
+  {
+    "id": "1607101002",
+    "district_id": "160710",
+    "name": "AIR BATU"
+  },
+  {
+    "id": "1607101003",
+    "district_id": "160710",
+    "name": "SUKOMORO"
+  },
+  {
+    "id": "1607101004",
+    "district_id": "160710",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "1607101006",
+    "district_id": "160710",
+    "name": "KENTEN"
+  },
+  {
+    "id": "1607101022",
+    "district_id": "160710",
+    "name": "TANAH MAS"
+  },
+  {
+    "id": "1607101023",
+    "district_id": "160710",
+    "name": "TALANG KERAMAT"
+  },
+  {
+    "id": "1607101024",
+    "district_id": "160710",
+    "name": "SUKAJADI TIMUR"
+  },
+  {
+    "id": "1607101025",
+    "district_id": "160710",
+    "name": "TANAH MAS INDAH"
+  },
+  {
+    "id": "1607101026",
+    "district_id": "160710",
+    "name": "RAWA MAJU"
+  },
+  {
+    "id": "1607101027",
+    "district_id": "160710",
+    "name": "AIR BATU JAYA"
+  },
+  {
+    "id": "1607101028",
+    "district_id": "160710",
+    "name": "SEI SEDAPAT"
+  },
+  {
+    "id": "1607101029",
+    "district_id": "160710",
+    "name": "AZHAR PERMAI"
+  },
+  {
+    "id": "1607101030",
+    "district_id": "160710",
+    "name": "KERAMAT RAYA"
+  },
+  {
+    "id": "1607102001",
+    "district_id": "160710",
+    "name": "SUNGAI RENGIT"
+  },
+  {
+    "id": "1607102005",
+    "district_id": "160710",
+    "name": "PANGKALAN BENTENG"
+  },
+  {
+    "id": "1607102007",
+    "district_id": "160710",
+    "name": "GASING"
+  },
+  {
+    "id": "1607102019",
+    "district_id": "160710",
+    "name": "TALANG BULUH"
+  },
+  {
+    "id": "1607102020",
+    "district_id": "160710",
+    "name": "SUNGAI RENGIT MURNI"
+  },
+  {
+    "id": "1607102021",
+    "district_id": "160710",
+    "name": "KENTEN LAUT"
+  }
+]

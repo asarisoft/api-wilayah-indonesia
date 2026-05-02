@@ -1,1 +1,52 @@
-[{"id": "7107062003", "district_id": "710706", "name": "RANOKETANG ATAS"}, {"id": "7107062004", "district_id": "710706", "name": "TONDANAUW"}, {"id": "7107062005", "district_id": "710706", "name": "LOBU SATU"}, {"id": "7107062006", "district_id": "710706", "name": "LOBU DUA"}, {"id": "7107062017", "district_id": "710706", "name": "TONDANOUW SATU"}, {"id": "7107062018", "district_id": "710706", "name": "TOUNDANOUW ATAS"}, {"id": "7107062019", "district_id": "710706", "name": "RANOKETANG ATAS SATU"}, {"id": "7107062020", "district_id": "710706", "name": "LOBU KOTA"}, {"id": "7107062021", "district_id": "710706", "name": "LOBU ATAS"}, {"id": "7107062022", "district_id": "710706", "name": "LOBU"}]
+[
+  {
+    "id": "7107062003",
+    "district_id": "710706",
+    "name": "RANOKETANG ATAS"
+  },
+  {
+    "id": "7107062004",
+    "district_id": "710706",
+    "name": "TONDANAUW"
+  },
+  {
+    "id": "7107062005",
+    "district_id": "710706",
+    "name": "LOBU SATU"
+  },
+  {
+    "id": "7107062006",
+    "district_id": "710706",
+    "name": "LOBU DUA"
+  },
+  {
+    "id": "7107062017",
+    "district_id": "710706",
+    "name": "TONDANOUW SATU"
+  },
+  {
+    "id": "7107062018",
+    "district_id": "710706",
+    "name": "TOUNDANOUW ATAS"
+  },
+  {
+    "id": "7107062019",
+    "district_id": "710706",
+    "name": "RANOKETANG ATAS SATU"
+  },
+  {
+    "id": "7107062020",
+    "district_id": "710706",
+    "name": "LOBU KOTA"
+  },
+  {
+    "id": "7107062021",
+    "district_id": "710706",
+    "name": "LOBU ATAS"
+  },
+  {
+    "id": "7107062022",
+    "district_id": "710706",
+    "name": "LOBU"
+  }
+]

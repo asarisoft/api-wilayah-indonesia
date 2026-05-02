@@ -1,1 +1,87 @@
-[{"id": "5104031003", "district_id": "510403", "name": "SAMPLANGAN"}, {"id": "5104031005", "district_id": "510403", "name": "ABIANBASE"}, {"id": "5104031006", "district_id": "510403", "name": "GIANYAR"}, {"id": "5104031007", "district_id": "510403", "name": "BITERA"}, {"id": "5104031008", "district_id": "510403", "name": "BENG"}, {"id": "5104032001", "district_id": "510403", "name": "TULIKUP"}, {"id": "5104032002", "district_id": "510403", "name": "SIDAN"}, {"id": "5104032004", "district_id": "510403", "name": "LEBIH"}, {"id": "5104032009", "district_id": "510403", "name": "BAKBAKAN"}, {"id": "5104032010", "district_id": "510403", "name": "SIANGAN"}, {"id": "5104032011", "district_id": "510403", "name": "SUWAT"}, {"id": "5104032012", "district_id": "510403", "name": "PETAK"}, {"id": "5104032013", "district_id": "510403", "name": "SERONGGA"}, {"id": "5104032014", "district_id": "510403", "name": "PETAK KAJA"}, {"id": "5104032015", "district_id": "510403", "name": "TEMESI"}, {"id": "5104032016", "district_id": "510403", "name": "SUMITA"}, {"id": "5104032017", "district_id": "510403", "name": "TEGAL TUGU"}]
+[
+  {
+    "id": "5104031003",
+    "district_id": "510403",
+    "name": "SAMPLANGAN"
+  },
+  {
+    "id": "5104031005",
+    "district_id": "510403",
+    "name": "ABIANBASE"
+  },
+  {
+    "id": "5104031006",
+    "district_id": "510403",
+    "name": "GIANYAR"
+  },
+  {
+    "id": "5104031007",
+    "district_id": "510403",
+    "name": "BITERA"
+  },
+  {
+    "id": "5104031008",
+    "district_id": "510403",
+    "name": "BENG"
+  },
+  {
+    "id": "5104032001",
+    "district_id": "510403",
+    "name": "TULIKUP"
+  },
+  {
+    "id": "5104032002",
+    "district_id": "510403",
+    "name": "SIDAN"
+  },
+  {
+    "id": "5104032004",
+    "district_id": "510403",
+    "name": "LEBIH"
+  },
+  {
+    "id": "5104032009",
+    "district_id": "510403",
+    "name": "BAKBAKAN"
+  },
+  {
+    "id": "5104032010",
+    "district_id": "510403",
+    "name": "SIANGAN"
+  },
+  {
+    "id": "5104032011",
+    "district_id": "510403",
+    "name": "SUWAT"
+  },
+  {
+    "id": "5104032012",
+    "district_id": "510403",
+    "name": "PETAK"
+  },
+  {
+    "id": "5104032013",
+    "district_id": "510403",
+    "name": "SERONGGA"
+  },
+  {
+    "id": "5104032014",
+    "district_id": "510403",
+    "name": "PETAK KAJA"
+  },
+  {
+    "id": "5104032015",
+    "district_id": "510403",
+    "name": "TEMESI"
+  },
+  {
+    "id": "5104032016",
+    "district_id": "510403",
+    "name": "SUMITA"
+  },
+  {
+    "id": "5104032017",
+    "district_id": "510403",
+    "name": "TEGAL TUGU"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "6401012009", "district_id": "640101", "name": "SAMURANGAU"}, {"id": "6401012010", "district_id": "640101", "name": "BUSUI"}, {"id": "6401012011", "district_id": "640101", "name": "BATU KAJANG"}, {"id": "6401012012", "district_id": "640101", "name": "LEGAI"}, {"id": "6401012013", "district_id": "640101", "name": "SUNGAI TERIK"}, {"id": "6401012014", "district_id": "640101", "name": "KASUNGAI"}, {"id": "6401012015", "district_id": "640101", "name": "RANTAU BUTA"}, {"id": "6401012016", "district_id": "640101", "name": "RANTAU LAYUNG"}, {"id": "6401012017", "district_id": "640101", "name": "SONGKA"}]
+[
+  {
+    "id": "6401012009",
+    "district_id": "640101",
+    "name": "SAMURANGAU"
+  },
+  {
+    "id": "6401012010",
+    "district_id": "640101",
+    "name": "BUSUI"
+  },
+  {
+    "id": "6401012011",
+    "district_id": "640101",
+    "name": "BATU KAJANG"
+  },
+  {
+    "id": "6401012012",
+    "district_id": "640101",
+    "name": "LEGAI"
+  },
+  {
+    "id": "6401012013",
+    "district_id": "640101",
+    "name": "SUNGAI TERIK"
+  },
+  {
+    "id": "6401012014",
+    "district_id": "640101",
+    "name": "KASUNGAI"
+  },
+  {
+    "id": "6401012015",
+    "district_id": "640101",
+    "name": "RANTAU BUTA"
+  },
+  {
+    "id": "6401012016",
+    "district_id": "640101",
+    "name": "RANTAU LAYUNG"
+  },
+  {
+    "id": "6401012017",
+    "district_id": "640101",
+    "name": "SONGKA"
+  }
+]

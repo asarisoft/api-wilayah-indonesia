@@ -1,1 +1,47 @@
-[{"id": "5371021001", "district_id": "537102", "name": "OEPURA"}, {"id": "5371021002", "district_id": "537102", "name": "MAULAFA"}, {"id": "5371021003", "district_id": "537102", "name": "PENFUI"}, {"id": "5371021004", "district_id": "537102", "name": "NAIMATA"}, {"id": "5371021005", "district_id": "537102", "name": "BELLO"}, {"id": "5371021006", "district_id": "537102", "name": "FATUKOA"}, {"id": "5371021007", "district_id": "537102", "name": "KOLHUA"}, {"id": "5371021008", "district_id": "537102", "name": "SIKUMANA"}, {"id": "5371021009", "district_id": "537102", "name": "NAIKOLAN"}]
+[
+  {
+    "id": "5371021001",
+    "district_id": "537102",
+    "name": "OEPURA"
+  },
+  {
+    "id": "5371021002",
+    "district_id": "537102",
+    "name": "MAULAFA"
+  },
+  {
+    "id": "5371021003",
+    "district_id": "537102",
+    "name": "PENFUI"
+  },
+  {
+    "id": "5371021004",
+    "district_id": "537102",
+    "name": "NAIMATA"
+  },
+  {
+    "id": "5371021005",
+    "district_id": "537102",
+    "name": "BELLO"
+  },
+  {
+    "id": "5371021006",
+    "district_id": "537102",
+    "name": "FATUKOA"
+  },
+  {
+    "id": "5371021007",
+    "district_id": "537102",
+    "name": "KOLHUA"
+  },
+  {
+    "id": "5371021008",
+    "district_id": "537102",
+    "name": "SIKUMANA"
+  },
+  {
+    "id": "5371021009",
+    "district_id": "537102",
+    "name": "NAIKOLAN"
+  }
+]

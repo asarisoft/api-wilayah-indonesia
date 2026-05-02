@@ -1,1 +1,22 @@
-[{"id": "9502202001", "district_id": "950220", "name": "OKELWEL"}, {"id": "9502202002", "district_id": "950220", "name": "KOTYOBAKON"}, {"id": "9502202003", "district_id": "950220", "name": "OKTENENG"}, {"id": "9502202004", "district_id": "950220", "name": "TENGNONG"}]
+[
+  {
+    "id": "9502202001",
+    "district_id": "950220",
+    "name": "OKELWEL"
+  },
+  {
+    "id": "9502202002",
+    "district_id": "950220",
+    "name": "KOTYOBAKON"
+  },
+  {
+    "id": "9502202003",
+    "district_id": "950220",
+    "name": "OKTENENG"
+  },
+  {
+    "id": "9502202004",
+    "district_id": "950220",
+    "name": "TENGNONG"
+  }
+]

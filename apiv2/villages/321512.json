@@ -1,1 +1,42 @@
-[{"id": "3215122001", "district_id": "321512", "name": "TANJUNGMEKAR"}, {"id": "3215122002", "district_id": "321512", "name": "TELAGAJAYA"}, {"id": "3215122003", "district_id": "321512", "name": "TELUKBUYUNG"}, {"id": "3215122004", "district_id": "321512", "name": "TANAHBARU"}, {"id": "3215122005", "district_id": "321512", "name": "SOLOKAN"}, {"id": "3215122006", "district_id": "321512", "name": "TANJUNGBUNGIN"}, {"id": "3215122007", "district_id": "321512", "name": "TELUKJAYA"}, {"id": "3215122008", "district_id": "321512", "name": "TANJUNGPAKIS"}]
+[
+  {
+    "id": "3215122001",
+    "district_id": "321512",
+    "name": "TANJUNGMEKAR"
+  },
+  {
+    "id": "3215122002",
+    "district_id": "321512",
+    "name": "TELAGAJAYA"
+  },
+  {
+    "id": "3215122003",
+    "district_id": "321512",
+    "name": "TELUKBUYUNG"
+  },
+  {
+    "id": "3215122004",
+    "district_id": "321512",
+    "name": "TANAHBARU"
+  },
+  {
+    "id": "3215122005",
+    "district_id": "321512",
+    "name": "SOLOKAN"
+  },
+  {
+    "id": "3215122006",
+    "district_id": "321512",
+    "name": "TANJUNGBUNGIN"
+  },
+  {
+    "id": "3215122007",
+    "district_id": "321512",
+    "name": "TELUKJAYA"
+  },
+  {
+    "id": "3215122008",
+    "district_id": "321512",
+    "name": "TANJUNGPAKIS"
+  }
+]

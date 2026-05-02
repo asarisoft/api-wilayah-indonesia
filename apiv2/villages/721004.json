@@ -1,1 +1,27 @@
-[{"id": "7210042001", "district_id": "721004", "name": "PUROO"}, {"id": "7210042002", "district_id": "721004", "name": "LANGKO"}, {"id": "7210042003", "district_id": "721004", "name": "TOMADO"}, {"id": "7210042004", "district_id": "721004", "name": "ANCA"}, {"id": "7210042005", "district_id": "721004", "name": "OLU"}]
+[
+  {
+    "id": "7210042001",
+    "district_id": "721004",
+    "name": "PUROO"
+  },
+  {
+    "id": "7210042002",
+    "district_id": "721004",
+    "name": "LANGKO"
+  },
+  {
+    "id": "7210042003",
+    "district_id": "721004",
+    "name": "TOMADO"
+  },
+  {
+    "id": "7210042004",
+    "district_id": "721004",
+    "name": "ANCA"
+  },
+  {
+    "id": "7210042005",
+    "district_id": "721004",
+    "name": "OLU"
+  }
+]

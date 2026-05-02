@@ -1,1 +1,37 @@
-[{"id": "1571091001", "district_id": "157109", "name": "KENALI BESAR"}, {"id": "1571091002", "district_id": "157109", "name": "RAWA SARI"}, {"id": "1571091003", "district_id": "157109", "name": "MAYANG MANGURAI"}, {"id": "1571091004", "district_id": "157109", "name": "BAGAN PETE"}, {"id": "1571091005", "district_id": "157109", "name": "BELIUNG"}, {"id": "1571091006", "district_id": "157109", "name": "SIMPANG RIMBO"}, {"id": "1571091007", "district_id": "157109", "name": "PINANG MERAH"}]
+[
+  {
+    "id": "1571091001",
+    "district_id": "157109",
+    "name": "KENALI BESAR"
+  },
+  {
+    "id": "1571091002",
+    "district_id": "157109",
+    "name": "RAWA SARI"
+  },
+  {
+    "id": "1571091003",
+    "district_id": "157109",
+    "name": "MAYANG MANGURAI"
+  },
+  {
+    "id": "1571091004",
+    "district_id": "157109",
+    "name": "BAGAN PETE"
+  },
+  {
+    "id": "1571091005",
+    "district_id": "157109",
+    "name": "BELIUNG"
+  },
+  {
+    "id": "1571091006",
+    "district_id": "157109",
+    "name": "SIMPANG RIMBO"
+  },
+  {
+    "id": "1571091007",
+    "district_id": "157109",
+    "name": "PINANG MERAH"
+  }
+]

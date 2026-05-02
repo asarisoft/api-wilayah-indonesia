@@ -1,1 +1,37 @@
-[{"id": "741501", "regency_id": "7415", "name": "BATAUGA"}, {"id": "741502", "regency_id": "7415", "name": "SAMPOLAWA"}, {"id": "741503", "regency_id": "7415", "name": "LAPANDEWA"}, {"id": "741504", "regency_id": "7415", "name": "BATU ATAS"}, {"id": "741505", "regency_id": "7415", "name": "SIOMPU BARAT"}, {"id": "741506", "regency_id": "7415", "name": "SIOMPU"}, {"id": "741507", "regency_id": "7415", "name": "KADATUA"}]
+[
+  {
+    "id": "741501",
+    "regency_id": "7415",
+    "name": "BATAUGA"
+  },
+  {
+    "id": "741502",
+    "regency_id": "7415",
+    "name": "SAMPOLAWA"
+  },
+  {
+    "id": "741503",
+    "regency_id": "7415",
+    "name": "LAPANDEWA"
+  },
+  {
+    "id": "741504",
+    "regency_id": "7415",
+    "name": "BATU ATAS"
+  },
+  {
+    "id": "741505",
+    "regency_id": "7415",
+    "name": "SIOMPU BARAT"
+  },
+  {
+    "id": "741506",
+    "regency_id": "7415",
+    "name": "SIOMPU"
+  },
+  {
+    "id": "741507",
+    "regency_id": "7415",
+    "name": "KADATUA"
+  }
+]

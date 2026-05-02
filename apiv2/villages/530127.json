@@ -1,1 +1,27 @@
-[{"id": "5301272001", "district_id": "530127", "name": "POTO"}, {"id": "5301272002", "district_id": "530127", "name": "NUATAUS"}, {"id": "5301272003", "district_id": "530127", "name": "KALALI"}, {"id": "5301272004", "district_id": "530127", "name": "TUAKAU"}, {"id": "5301272005", "district_id": "530127", "name": "NAITAE"}]
+[
+  {
+    "id": "5301272001",
+    "district_id": "530127",
+    "name": "POTO"
+  },
+  {
+    "id": "5301272002",
+    "district_id": "530127",
+    "name": "NUATAUS"
+  },
+  {
+    "id": "5301272003",
+    "district_id": "530127",
+    "name": "KALALI"
+  },
+  {
+    "id": "5301272004",
+    "district_id": "530127",
+    "name": "TUAKAU"
+  },
+  {
+    "id": "5301272005",
+    "district_id": "530127",
+    "name": "NAITAE"
+  }
+]

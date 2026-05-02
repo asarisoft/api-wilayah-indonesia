@@ -1,1 +1,117 @@
-[{"id": "3524051001", "district_id": "352405", "name": "BANARAN"}, {"id": "3524051003", "district_id": "352405", "name": "BABAT"}, {"id": "3524052002", "district_id": "352405", "name": "KARANGKEMBANG"}, {"id": "3524052004", "district_id": "352405", "name": "PUCAKWANGI"}, {"id": "3524052005", "district_id": "352405", "name": "SOGO"}, {"id": "3524052006", "district_id": "352405", "name": "BEDAHAN"}, {"id": "3524052007", "district_id": "352405", "name": "TRUNI"}, {"id": "3524052008", "district_id": "352405", "name": "GENDONGKULON"}, {"id": "3524052009", "district_id": "352405", "name": "PLAOSAN"}, {"id": "3524052010", "district_id": "352405", "name": "TREPAN"}, {"id": "3524052011", "district_id": "352405", "name": "KURIPAN"}, {"id": "3524052012", "district_id": "352405", "name": "KEBALANPELANG"}, {"id": "3524052013", "district_id": "352405", "name": "SUMURGENUK"}, {"id": "3524052014", "district_id": "352405", "name": "GEMBONG"}, {"id": "3524052015", "district_id": "352405", "name": "BULUMARGI"}, {"id": "3524052016", "district_id": "352405", "name": "DATINAWONG"}, {"id": "3524052017", "district_id": "352405", "name": "KEBALANDONO"}, {"id": "3524052018", "district_id": "352405", "name": "PATIHAN"}, {"id": "3524052019", "district_id": "352405", "name": "MOROPELANG"}, {"id": "3524052020", "district_id": "352405", "name": "KEYONGAN"}, {"id": "3524052021", "district_id": "352405", "name": "SAMBANGAN"}, {"id": "3524052022", "district_id": "352405", "name": "TRITUNGGAL"}, {"id": "3524052023", "district_id": "352405", "name": "KEBONAGUNG"}]
+[
+  {
+    "id": "3524051001",
+    "district_id": "352405",
+    "name": "BANARAN"
+  },
+  {
+    "id": "3524051003",
+    "district_id": "352405",
+    "name": "BABAT"
+  },
+  {
+    "id": "3524052002",
+    "district_id": "352405",
+    "name": "KARANGKEMBANG"
+  },
+  {
+    "id": "3524052004",
+    "district_id": "352405",
+    "name": "PUCAKWANGI"
+  },
+  {
+    "id": "3524052005",
+    "district_id": "352405",
+    "name": "SOGO"
+  },
+  {
+    "id": "3524052006",
+    "district_id": "352405",
+    "name": "BEDAHAN"
+  },
+  {
+    "id": "3524052007",
+    "district_id": "352405",
+    "name": "TRUNI"
+  },
+  {
+    "id": "3524052008",
+    "district_id": "352405",
+    "name": "GENDONGKULON"
+  },
+  {
+    "id": "3524052009",
+    "district_id": "352405",
+    "name": "PLAOSAN"
+  },
+  {
+    "id": "3524052010",
+    "district_id": "352405",
+    "name": "TREPAN"
+  },
+  {
+    "id": "3524052011",
+    "district_id": "352405",
+    "name": "KURIPAN"
+  },
+  {
+    "id": "3524052012",
+    "district_id": "352405",
+    "name": "KEBALANPELANG"
+  },
+  {
+    "id": "3524052013",
+    "district_id": "352405",
+    "name": "SUMURGENUK"
+  },
+  {
+    "id": "3524052014",
+    "district_id": "352405",
+    "name": "GEMBONG"
+  },
+  {
+    "id": "3524052015",
+    "district_id": "352405",
+    "name": "BULUMARGI"
+  },
+  {
+    "id": "3524052016",
+    "district_id": "352405",
+    "name": "DATINAWONG"
+  },
+  {
+    "id": "3524052017",
+    "district_id": "352405",
+    "name": "KEBALANDONO"
+  },
+  {
+    "id": "3524052018",
+    "district_id": "352405",
+    "name": "PATIHAN"
+  },
+  {
+    "id": "3524052019",
+    "district_id": "352405",
+    "name": "MOROPELANG"
+  },
+  {
+    "id": "3524052020",
+    "district_id": "352405",
+    "name": "KEYONGAN"
+  },
+  {
+    "id": "3524052021",
+    "district_id": "352405",
+    "name": "SAMBANGAN"
+  },
+  {
+    "id": "3524052022",
+    "district_id": "352405",
+    "name": "TRITUNGGAL"
+  },
+  {
+    "id": "3524052023",
+    "district_id": "352405",
+    "name": "KEBONAGUNG"
+  }
+]

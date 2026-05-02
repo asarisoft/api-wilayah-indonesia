@@ -1,1 +1,42 @@
-[{"id": "5204172001", "district_id": "520417", "name": "MAPIN REA"}, {"id": "5204172002", "district_id": "520417", "name": "MAPIN KEBAK"}, {"id": "5204172003", "district_id": "520417", "name": "LABUHAN MAPIN"}, {"id": "5204172004", "district_id": "520417", "name": "LEKONG"}, {"id": "5204172005", "district_id": "520417", "name": "GONTAR"}, {"id": "5204172006", "district_id": "520417", "name": "USAR MAPIN"}, {"id": "5204172007", "district_id": "520417", "name": "GONTAR BARU"}, {"id": "5204172008", "district_id": "520417", "name": "MAPIN BERU"}]
+[
+  {
+    "id": "5204172001",
+    "district_id": "520417",
+    "name": "MAPIN REA"
+  },
+  {
+    "id": "5204172002",
+    "district_id": "520417",
+    "name": "MAPIN KEBAK"
+  },
+  {
+    "id": "5204172003",
+    "district_id": "520417",
+    "name": "LABUHAN MAPIN"
+  },
+  {
+    "id": "5204172004",
+    "district_id": "520417",
+    "name": "LEKONG"
+  },
+  {
+    "id": "5204172005",
+    "district_id": "520417",
+    "name": "GONTAR"
+  },
+  {
+    "id": "5204172006",
+    "district_id": "520417",
+    "name": "USAR MAPIN"
+  },
+  {
+    "id": "5204172007",
+    "district_id": "520417",
+    "name": "GONTAR BARU"
+  },
+  {
+    "id": "5204172008",
+    "district_id": "520417",
+    "name": "MAPIN BERU"
+  }
+]

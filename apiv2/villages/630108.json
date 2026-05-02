@@ -1,1 +1,47 @@
-[{"id": "6301082001", "district_id": "630108", "name": "TAMBANG ULANG"}, {"id": "6301082002", "district_id": "630108", "name": "SUNGAI PINANG"}, {"id": "6301082003", "district_id": "630108", "name": "MARTADAH"}, {"id": "6301082004", "district_id": "630108", "name": "SUNGAI JELAI"}, {"id": "6301082005", "district_id": "630108", "name": "BINGKULU"}, {"id": "6301082006", "district_id": "630108", "name": "GUNUNG RAJA"}, {"id": "6301082007", "district_id": "630108", "name": "PULAU SARI"}, {"id": "6301082008", "district_id": "630108", "name": "KAYU ABANG"}, {"id": "6301082009", "district_id": "630108", "name": "MARTADAH BARU"}]
+[
+  {
+    "id": "6301082001",
+    "district_id": "630108",
+    "name": "TAMBANG ULANG"
+  },
+  {
+    "id": "6301082002",
+    "district_id": "630108",
+    "name": "SUNGAI PINANG"
+  },
+  {
+    "id": "6301082003",
+    "district_id": "630108",
+    "name": "MARTADAH"
+  },
+  {
+    "id": "6301082004",
+    "district_id": "630108",
+    "name": "SUNGAI JELAI"
+  },
+  {
+    "id": "6301082005",
+    "district_id": "630108",
+    "name": "BINGKULU"
+  },
+  {
+    "id": "6301082006",
+    "district_id": "630108",
+    "name": "GUNUNG RAJA"
+  },
+  {
+    "id": "6301082007",
+    "district_id": "630108",
+    "name": "PULAU SARI"
+  },
+  {
+    "id": "6301082008",
+    "district_id": "630108",
+    "name": "KAYU ABANG"
+  },
+  {
+    "id": "6301082009",
+    "district_id": "630108",
+    "name": "MARTADAH BARU"
+  }
+]

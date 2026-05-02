@@ -1,1 +1,57 @@
-[{"id": "3210262001", "district_id": "321026", "name": "SUKADANA"}, {"id": "3210262002", "district_id": "321026", "name": "WERASARI"}, {"id": "3210262003", "district_id": "321026", "name": "MALAUSMA"}, {"id": "3210262004", "district_id": "321026", "name": "LEBAKWANGI"}, {"id": "3210262005", "district_id": "321026", "name": "CIMUNCANG"}, {"id": "3210262006", "district_id": "321026", "name": "CIRANCA"}, {"id": "3210262007", "district_id": "321026", "name": "BANYUSARI"}, {"id": "3210262008", "district_id": "321026", "name": "BUNINAGARA"}, {"id": "3210262009", "district_id": "321026", "name": "JAGAMULYA"}, {"id": "3210262010", "district_id": "321026", "name": "GIRIMUKTI"}, {"id": "3210262011", "district_id": "321026", "name": "KRAMAT JAYA"}]
+[
+  {
+    "id": "3210262001",
+    "district_id": "321026",
+    "name": "SUKADANA"
+  },
+  {
+    "id": "3210262002",
+    "district_id": "321026",
+    "name": "WERASARI"
+  },
+  {
+    "id": "3210262003",
+    "district_id": "321026",
+    "name": "MALAUSMA"
+  },
+  {
+    "id": "3210262004",
+    "district_id": "321026",
+    "name": "LEBAKWANGI"
+  },
+  {
+    "id": "3210262005",
+    "district_id": "321026",
+    "name": "CIMUNCANG"
+  },
+  {
+    "id": "3210262006",
+    "district_id": "321026",
+    "name": "CIRANCA"
+  },
+  {
+    "id": "3210262007",
+    "district_id": "321026",
+    "name": "BANYUSARI"
+  },
+  {
+    "id": "3210262008",
+    "district_id": "321026",
+    "name": "BUNINAGARA"
+  },
+  {
+    "id": "3210262009",
+    "district_id": "321026",
+    "name": "JAGAMULYA"
+  },
+  {
+    "id": "3210262010",
+    "district_id": "321026",
+    "name": "GIRIMUKTI"
+  },
+  {
+    "id": "3210262011",
+    "district_id": "321026",
+    "name": "KRAMAT JAYA"
+  }
+]

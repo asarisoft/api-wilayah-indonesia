@@ -1,1 +1,42 @@
-[{"id": "7414022001", "district_id": "741402", "name": "BONEMARAMBE"}, {"id": "7414022002", "district_id": "741402", "name": "WAMBULOLI"}, {"id": "7414022003", "district_id": "741402", "name": "LAGILI"}, {"id": "7414022004", "district_id": "741402", "name": "BUNGI"}, {"id": "7414022005", "district_id": "741402", "name": "WANTOPI"}, {"id": "7414022006", "district_id": "741402", "name": "INULU"}, {"id": "7414022007", "district_id": "741402", "name": "LASORI"}, {"id": "7414022008", "district_id": "741402", "name": "BATUBANAWA"}]
+[
+  {
+    "id": "7414022001",
+    "district_id": "741402",
+    "name": "BONEMARAMBE"
+  },
+  {
+    "id": "7414022002",
+    "district_id": "741402",
+    "name": "WAMBULOLI"
+  },
+  {
+    "id": "7414022003",
+    "district_id": "741402",
+    "name": "LAGILI"
+  },
+  {
+    "id": "7414022004",
+    "district_id": "741402",
+    "name": "BUNGI"
+  },
+  {
+    "id": "7414022005",
+    "district_id": "741402",
+    "name": "WANTOPI"
+  },
+  {
+    "id": "7414022006",
+    "district_id": "741402",
+    "name": "INULU"
+  },
+  {
+    "id": "7414022007",
+    "district_id": "741402",
+    "name": "LASORI"
+  },
+  {
+    "id": "7414022008",
+    "district_id": "741402",
+    "name": "BATUBANAWA"
+  }
+]

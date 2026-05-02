@@ -1,1 +1,17 @@
-[{"id": "9508052001", "district_id": "950805", "name": "GESELMA"}, {"id": "9508052002", "district_id": "950805", "name": "TALEM"}, {"id": "9508052003", "district_id": "950805", "name": "KOSOLPEM"}]
+[
+  {
+    "id": "9508052001",
+    "district_id": "950805",
+    "name": "GESELMA"
+  },
+  {
+    "id": "9508052002",
+    "district_id": "950805",
+    "name": "TALEM"
+  },
+  {
+    "id": "9508052003",
+    "district_id": "950805",
+    "name": "KOSOLPEM"
+  }
+]

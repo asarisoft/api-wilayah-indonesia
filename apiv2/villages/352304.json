@@ -1,1 +1,122 @@
-[{"id": "3523042001", "district_id": "352304", "name": "TLOGOAGUNG"}, {"id": "3523042002", "district_id": "352304", "name": "NGUJURAN"}, {"id": "3523042003", "district_id": "352304", "name": "LATSARI"}, {"id": "3523042004", "district_id": "352304", "name": "SUKOLILO"}, {"id": "3523042005", "district_id": "352304", "name": "TENGGERKULON"}, {"id": "3523042006", "district_id": "352304", "name": "BULUJOWO"}, {"id": "3523042007", "district_id": "352304", "name": "SIDING"}, {"id": "3523042008", "district_id": "352304", "name": "TERGAMBANG"}, {"id": "3523042009", "district_id": "352304", "name": "BULUMEDURO"}, {"id": "3523042010", "district_id": "352304", "name": "BANJARJO"}, {"id": "3523042011", "district_id": "352304", "name": "BONCONG"}, {"id": "3523042012", "district_id": "352304", "name": "JATISARI"}, {"id": "3523042013", "district_id": "352304", "name": "SUMBERAN"}, {"id": "3523042014", "district_id": "352304", "name": "KAYEN"}, {"id": "3523042015", "district_id": "352304", "name": "BOGOREJO"}, {"id": "3523042016", "district_id": "352304", "name": "SEMBUNGIN"}, {"id": "3523042017", "district_id": "352304", "name": "KARANGREJO"}, {"id": "3523042018", "district_id": "352304", "name": "SUKOHARJO"}, {"id": "3523042019", "district_id": "352304", "name": "PUGOH"}, {"id": "3523042020", "district_id": "352304", "name": "BANCAR"}, {"id": "3523042021", "district_id": "352304", "name": "NGAMPELREJO"}, {"id": "3523042022", "district_id": "352304", "name": "SIDOMULYO"}, {"id": "3523042023", "district_id": "352304", "name": "MARGOSUKO"}, {"id": "3523042024", "district_id": "352304", "name": "CINGKLUNG"}]
+[
+  {
+    "id": "3523042001",
+    "district_id": "352304",
+    "name": "TLOGOAGUNG"
+  },
+  {
+    "id": "3523042002",
+    "district_id": "352304",
+    "name": "NGUJURAN"
+  },
+  {
+    "id": "3523042003",
+    "district_id": "352304",
+    "name": "LATSARI"
+  },
+  {
+    "id": "3523042004",
+    "district_id": "352304",
+    "name": "SUKOLILO"
+  },
+  {
+    "id": "3523042005",
+    "district_id": "352304",
+    "name": "TENGGERKULON"
+  },
+  {
+    "id": "3523042006",
+    "district_id": "352304",
+    "name": "BULUJOWO"
+  },
+  {
+    "id": "3523042007",
+    "district_id": "352304",
+    "name": "SIDING"
+  },
+  {
+    "id": "3523042008",
+    "district_id": "352304",
+    "name": "TERGAMBANG"
+  },
+  {
+    "id": "3523042009",
+    "district_id": "352304",
+    "name": "BULUMEDURO"
+  },
+  {
+    "id": "3523042010",
+    "district_id": "352304",
+    "name": "BANJARJO"
+  },
+  {
+    "id": "3523042011",
+    "district_id": "352304",
+    "name": "BONCONG"
+  },
+  {
+    "id": "3523042012",
+    "district_id": "352304",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3523042013",
+    "district_id": "352304",
+    "name": "SUMBERAN"
+  },
+  {
+    "id": "3523042014",
+    "district_id": "352304",
+    "name": "KAYEN"
+  },
+  {
+    "id": "3523042015",
+    "district_id": "352304",
+    "name": "BOGOREJO"
+  },
+  {
+    "id": "3523042016",
+    "district_id": "352304",
+    "name": "SEMBUNGIN"
+  },
+  {
+    "id": "3523042017",
+    "district_id": "352304",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3523042018",
+    "district_id": "352304",
+    "name": "SUKOHARJO"
+  },
+  {
+    "id": "3523042019",
+    "district_id": "352304",
+    "name": "PUGOH"
+  },
+  {
+    "id": "3523042020",
+    "district_id": "352304",
+    "name": "BANCAR"
+  },
+  {
+    "id": "3523042021",
+    "district_id": "352304",
+    "name": "NGAMPELREJO"
+  },
+  {
+    "id": "3523042022",
+    "district_id": "352304",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3523042023",
+    "district_id": "352304",
+    "name": "MARGOSUKO"
+  },
+  {
+    "id": "3523042024",
+    "district_id": "352304",
+    "name": "CINGKLUNG"
+  }
+]

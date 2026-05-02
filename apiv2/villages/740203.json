@@ -1,1 +1,97 @@
-[{"id": "7402031001", "district_id": "740203", "name": "WAWOTOBI"}, {"id": "7402031002", "district_id": "740203", "name": "INALAHI"}, {"id": "7402031006", "district_id": "740203", "name": "LALOSABILA"}, {"id": "7402031007", "district_id": "740203", "name": "HOPA-HOPA"}, {"id": "7402031008", "district_id": "740203", "name": "KULAHI"}, {"id": "7402031009", "district_id": "740203", "name": "RANOEYA"}, {"id": "7402031010", "district_id": "740203", "name": "PALARAHI"}, {"id": "7402031011", "district_id": "740203", "name": "KASUPUTE"}, {"id": "7402031019", "district_id": "740203", "name": "NOHU-NOHU"}, {"id": "7402031020", "district_id": "740203", "name": "INOLOBU"}, {"id": "7402031027", "district_id": "740203", "name": "BOSE-BOSE"}, {"id": "7402031028", "district_id": "740203", "name": "PUUSINAUWI"}, {"id": "7402032013", "district_id": "740203", "name": "NARIO INDAH"}, {"id": "7402032017", "district_id": "740203", "name": "ANGGOTOA"}, {"id": "7402032018", "district_id": "740203", "name": "ANALAHUMBUTI"}, {"id": "7402032025", "district_id": "740203", "name": "KARANDU"}, {"id": "7402032026", "district_id": "740203", "name": "KORUMBA"}, {"id": "7402032031", "district_id": "740203", "name": "KASUMEWUHO"}, {"id": "7402032032", "district_id": "740203", "name": "KUKULURI"}]
+[
+  {
+    "id": "7402031001",
+    "district_id": "740203",
+    "name": "WAWOTOBI"
+  },
+  {
+    "id": "7402031002",
+    "district_id": "740203",
+    "name": "INALAHI"
+  },
+  {
+    "id": "7402031006",
+    "district_id": "740203",
+    "name": "LALOSABILA"
+  },
+  {
+    "id": "7402031007",
+    "district_id": "740203",
+    "name": "HOPA-HOPA"
+  },
+  {
+    "id": "7402031008",
+    "district_id": "740203",
+    "name": "KULAHI"
+  },
+  {
+    "id": "7402031009",
+    "district_id": "740203",
+    "name": "RANOEYA"
+  },
+  {
+    "id": "7402031010",
+    "district_id": "740203",
+    "name": "PALARAHI"
+  },
+  {
+    "id": "7402031011",
+    "district_id": "740203",
+    "name": "KASUPUTE"
+  },
+  {
+    "id": "7402031019",
+    "district_id": "740203",
+    "name": "NOHU-NOHU"
+  },
+  {
+    "id": "7402031020",
+    "district_id": "740203",
+    "name": "INOLOBU"
+  },
+  {
+    "id": "7402031027",
+    "district_id": "740203",
+    "name": "BOSE-BOSE"
+  },
+  {
+    "id": "7402031028",
+    "district_id": "740203",
+    "name": "PUUSINAUWI"
+  },
+  {
+    "id": "7402032013",
+    "district_id": "740203",
+    "name": "NARIO INDAH"
+  },
+  {
+    "id": "7402032017",
+    "district_id": "740203",
+    "name": "ANGGOTOA"
+  },
+  {
+    "id": "7402032018",
+    "district_id": "740203",
+    "name": "ANALAHUMBUTI"
+  },
+  {
+    "id": "7402032025",
+    "district_id": "740203",
+    "name": "KARANDU"
+  },
+  {
+    "id": "7402032026",
+    "district_id": "740203",
+    "name": "KORUMBA"
+  },
+  {
+    "id": "7402032031",
+    "district_id": "740203",
+    "name": "KASUMEWUHO"
+  },
+  {
+    "id": "7402032032",
+    "district_id": "740203",
+    "name": "KUKULURI"
+  }
+]

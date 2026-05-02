@@ -1,1 +1,27 @@
-[{"id": "6102161001", "district_id": "610216", "name": "ANJUNGAN MELANCAR"}, {"id": "6102162002", "district_id": "610216", "name": "ANJUNGAN DALAM"}, {"id": "6102162003", "district_id": "610216", "name": "KEPAYANG"}, {"id": "6102162004", "district_id": "610216", "name": "PAK BULU"}, {"id": "6102162005", "district_id": "610216", "name": "DEMA"}]
+[
+  {
+    "id": "6102161001",
+    "district_id": "610216",
+    "name": "ANJUNGAN MELANCAR"
+  },
+  {
+    "id": "6102162002",
+    "district_id": "610216",
+    "name": "ANJUNGAN DALAM"
+  },
+  {
+    "id": "6102162003",
+    "district_id": "610216",
+    "name": "KEPAYANG"
+  },
+  {
+    "id": "6102162004",
+    "district_id": "610216",
+    "name": "PAK BULU"
+  },
+  {
+    "id": "6102162005",
+    "district_id": "610216",
+    "name": "DEMA"
+  }
+]

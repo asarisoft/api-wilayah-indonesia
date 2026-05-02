@@ -1,1 +1,52 @@
-[{"id": "7303041001", "district_id": "730304", "name": "LEMBANG GANTARANG KEKE"}, {"id": "7303041003", "district_id": "730304", "name": "BANYORANG"}, {"id": "7303041004", "district_id": "730304", "name": "CAMPAGA"}, {"id": "7303041005", "district_id": "730304", "name": "EREN ERENG"}, {"id": "7303042006", "district_id": "730304", "name": "LABBO"}, {"id": "7303042007", "district_id": "730304", "name": "PATTANETEANG"}, {"id": "7303042008", "district_id": "730304", "name": "PATTALLASSANG"}, {"id": "7303042009", "district_id": "730304", "name": "BONTO-BONTOA"}, {"id": "7303042010", "district_id": "730304", "name": "BONTO TAPPALANG"}, {"id": "7303042011", "district_id": "730304", "name": "BALUMBUNG"}]
+[
+  {
+    "id": "7303041001",
+    "district_id": "730304",
+    "name": "LEMBANG GANTARANG KEKE"
+  },
+  {
+    "id": "7303041003",
+    "district_id": "730304",
+    "name": "BANYORANG"
+  },
+  {
+    "id": "7303041004",
+    "district_id": "730304",
+    "name": "CAMPAGA"
+  },
+  {
+    "id": "7303041005",
+    "district_id": "730304",
+    "name": "EREN ERENG"
+  },
+  {
+    "id": "7303042006",
+    "district_id": "730304",
+    "name": "LABBO"
+  },
+  {
+    "id": "7303042007",
+    "district_id": "730304",
+    "name": "PATTANETEANG"
+  },
+  {
+    "id": "7303042008",
+    "district_id": "730304",
+    "name": "PATTALLASSANG"
+  },
+  {
+    "id": "7303042009",
+    "district_id": "730304",
+    "name": "BONTO-BONTOA"
+  },
+  {
+    "id": "7303042010",
+    "district_id": "730304",
+    "name": "BONTO TAPPALANG"
+  },
+  {
+    "id": "7303042011",
+    "district_id": "730304",
+    "name": "BALUMBUNG"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "1810032001", "district_id": "181003", "name": "AMBARAWA"}, {"id": "1810032002", "district_id": "181003", "name": "AMBARAWA BARAT"}, {"id": "1810032003", "district_id": "181003", "name": "KRESNO MULYO"}, {"id": "1810032004", "district_id": "181003", "name": "SUMBER AGUNG"}, {"id": "1810032005", "district_id": "181003", "name": "TANJUNG ANOM"}, {"id": "1810032006", "district_id": "181003", "name": "JATI AGUNG"}, {"id": "1810032007", "district_id": "181003", "name": "MARGODADI"}, {"id": "1810032008", "district_id": "181003", "name": "AMBARAWA TIMUR"}]
+[
+  {
+    "id": "1810032001",
+    "district_id": "181003",
+    "name": "AMBARAWA"
+  },
+  {
+    "id": "1810032002",
+    "district_id": "181003",
+    "name": "AMBARAWA BARAT"
+  },
+  {
+    "id": "1810032003",
+    "district_id": "181003",
+    "name": "KRESNO MULYO"
+  },
+  {
+    "id": "1810032004",
+    "district_id": "181003",
+    "name": "SUMBER AGUNG"
+  },
+  {
+    "id": "1810032005",
+    "district_id": "181003",
+    "name": "TANJUNG ANOM"
+  },
+  {
+    "id": "1810032006",
+    "district_id": "181003",
+    "name": "JATI AGUNG"
+  },
+  {
+    "id": "1810032007",
+    "district_id": "181003",
+    "name": "MARGODADI"
+  },
+  {
+    "id": "1810032008",
+    "district_id": "181003",
+    "name": "AMBARAWA TIMUR"
+  }
+]

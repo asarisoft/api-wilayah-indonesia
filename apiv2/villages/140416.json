@@ -1,1 +1,67 @@
-[{"id": "1404162001", "district_id": "140416", "name": "HIBRIDA MULIA"}, {"id": "1404162002", "district_id": "140416", "name": "INDRA SARI JAYA"}, {"id": "1404162003", "district_id": "140416", "name": "TUNGGAL RAHAYU JAYA"}, {"id": "1404162004", "district_id": "140416", "name": "GRIYA MUKTI JAYA"}, {"id": "1404162005", "district_id": "140416", "name": "BERINGIN MULIA"}, {"id": "1404162006", "district_id": "140416", "name": "HIBRIDA JAYA"}, {"id": "1404162007", "district_id": "140416", "name": "SUMBER JAYA"}, {"id": "1404162008", "district_id": "140416", "name": "SUMBER MAKMUR JAYA"}, {"id": "1404162009", "district_id": "140416", "name": "SUMBER SARI JAYA"}, {"id": "1404162010", "district_id": "140416", "name": "KELAPA PATIH JAYA"}, {"id": "1404162011", "district_id": "140416", "name": "SAPTA MULIA JAYA"}, {"id": "1404162012", "district_id": "140416", "name": "SAKA ROTAN"}, {"id": "1404162013", "district_id": "140416", "name": "GEMBARAN"}]
+[
+  {
+    "id": "1404162001",
+    "district_id": "140416",
+    "name": "HIBRIDA MULIA"
+  },
+  {
+    "id": "1404162002",
+    "district_id": "140416",
+    "name": "INDRA SARI JAYA"
+  },
+  {
+    "id": "1404162003",
+    "district_id": "140416",
+    "name": "TUNGGAL RAHAYU JAYA"
+  },
+  {
+    "id": "1404162004",
+    "district_id": "140416",
+    "name": "GRIYA MUKTI JAYA"
+  },
+  {
+    "id": "1404162005",
+    "district_id": "140416",
+    "name": "BERINGIN MULIA"
+  },
+  {
+    "id": "1404162006",
+    "district_id": "140416",
+    "name": "HIBRIDA JAYA"
+  },
+  {
+    "id": "1404162007",
+    "district_id": "140416",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1404162008",
+    "district_id": "140416",
+    "name": "SUMBER MAKMUR JAYA"
+  },
+  {
+    "id": "1404162009",
+    "district_id": "140416",
+    "name": "SUMBER SARI JAYA"
+  },
+  {
+    "id": "1404162010",
+    "district_id": "140416",
+    "name": "KELAPA PATIH JAYA"
+  },
+  {
+    "id": "1404162011",
+    "district_id": "140416",
+    "name": "SAPTA MULIA JAYA"
+  },
+  {
+    "id": "1404162012",
+    "district_id": "140416",
+    "name": "SAKA ROTAN"
+  },
+  {
+    "id": "1404162013",
+    "district_id": "140416",
+    "name": "GEMBARAN"
+  }
+]

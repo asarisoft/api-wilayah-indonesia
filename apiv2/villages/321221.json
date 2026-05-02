@@ -1,1 +1,67 @@
-[{"id": "3212212001", "district_id": "321221", "name": "CURUG"}, {"id": "3212212002", "district_id": "321221", "name": "PRANTI"}, {"id": "3212212003", "district_id": "321221", "name": "WIRAKANAN"}, {"id": "3212212004", "district_id": "321221", "name": "KARANGMULYA"}, {"id": "3212212005", "district_id": "321221", "name": "KARANGANYAR"}, {"id": "3212212006", "district_id": "321221", "name": "WIRAPANJUNAN"}, {"id": "3212212007", "district_id": "321221", "name": "PAREANGIRANG"}, {"id": "3212212008", "district_id": "321221", "name": "BULAK"}, {"id": "3212212009", "district_id": "321221", "name": "ILIR"}, {"id": "3212212010", "district_id": "321221", "name": "SOGE"}, {"id": "3212212011", "district_id": "321221", "name": "ERETAN WETAN"}, {"id": "3212212012", "district_id": "321221", "name": "ERETAN KULON"}, {"id": "3212212013", "district_id": "321221", "name": "KERTAWINANGUN"}]
+[
+  {
+    "id": "3212212001",
+    "district_id": "321221",
+    "name": "CURUG"
+  },
+  {
+    "id": "3212212002",
+    "district_id": "321221",
+    "name": "PRANTI"
+  },
+  {
+    "id": "3212212003",
+    "district_id": "321221",
+    "name": "WIRAKANAN"
+  },
+  {
+    "id": "3212212004",
+    "district_id": "321221",
+    "name": "KARANGMULYA"
+  },
+  {
+    "id": "3212212005",
+    "district_id": "321221",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3212212006",
+    "district_id": "321221",
+    "name": "WIRAPANJUNAN"
+  },
+  {
+    "id": "3212212007",
+    "district_id": "321221",
+    "name": "PAREANGIRANG"
+  },
+  {
+    "id": "3212212008",
+    "district_id": "321221",
+    "name": "BULAK"
+  },
+  {
+    "id": "3212212009",
+    "district_id": "321221",
+    "name": "ILIR"
+  },
+  {
+    "id": "3212212010",
+    "district_id": "321221",
+    "name": "SOGE"
+  },
+  {
+    "id": "3212212011",
+    "district_id": "321221",
+    "name": "ERETAN WETAN"
+  },
+  {
+    "id": "3212212012",
+    "district_id": "321221",
+    "name": "ERETAN KULON"
+  },
+  {
+    "id": "3212212013",
+    "district_id": "321221",
+    "name": "KERTAWINANGUN"
+  }
+]

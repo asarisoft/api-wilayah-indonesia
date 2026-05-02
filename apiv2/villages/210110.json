@@ -1,1 +1,37 @@
-[{"id": "2101101007", "district_id": "210110", "name": "KOTA BARU"}, {"id": "2101102001", "district_id": "210110", "name": "BERAKIT"}, {"id": "2101102002", "district_id": "210110", "name": "EKANG ANCULAI"}, {"id": "2101102003", "district_id": "210110", "name": "PENGUDANG"}, {"id": "2101102004", "district_id": "210110", "name": "SEBONG LAGOI"}, {"id": "2101102005", "district_id": "210110", "name": "SEBONG PEREH"}, {"id": "2101102006", "district_id": "210110", "name": "SRI BINTAN"}]
+[
+  {
+    "id": "2101101007",
+    "district_id": "210110",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "2101102001",
+    "district_id": "210110",
+    "name": "BERAKIT"
+  },
+  {
+    "id": "2101102002",
+    "district_id": "210110",
+    "name": "EKANG ANCULAI"
+  },
+  {
+    "id": "2101102003",
+    "district_id": "210110",
+    "name": "PENGUDANG"
+  },
+  {
+    "id": "2101102004",
+    "district_id": "210110",
+    "name": "SEBONG LAGOI"
+  },
+  {
+    "id": "2101102005",
+    "district_id": "210110",
+    "name": "SEBONG PEREH"
+  },
+  {
+    "id": "2101102006",
+    "district_id": "210110",
+    "name": "SRI BINTAN"
+  }
+]

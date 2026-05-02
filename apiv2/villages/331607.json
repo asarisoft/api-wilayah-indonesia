@@ -1,1 +1,57 @@
-[{"id": "3316072001", "district_id": "331607", "name": "NGLOBO"}, {"id": "3316072002", "district_id": "331607", "name": "CABAK"}, {"id": "3316072003", "district_id": "331607", "name": "NGLEBUR"}, {"id": "3316072004", "district_id": "331607", "name": "JANJANG"}, {"id": "3316072005", "district_id": "331607", "name": "BLEBOH"}, {"id": "3316072006", "district_id": "331607", "name": "KETRINGAN"}, {"id": "3316072007", "district_id": "331607", "name": "SINGONEGORO"}, {"id": "3316072008", "district_id": "331607", "name": "JIKEN"}, {"id": "3316072009", "district_id": "331607", "name": "GENJAHAN"}, {"id": "3316072010", "district_id": "331607", "name": "JIWOREJO"}, {"id": "3316072011", "district_id": "331607", "name": "BANGOWAN"}]
+[
+  {
+    "id": "3316072001",
+    "district_id": "331607",
+    "name": "NGLOBO"
+  },
+  {
+    "id": "3316072002",
+    "district_id": "331607",
+    "name": "CABAK"
+  },
+  {
+    "id": "3316072003",
+    "district_id": "331607",
+    "name": "NGLEBUR"
+  },
+  {
+    "id": "3316072004",
+    "district_id": "331607",
+    "name": "JANJANG"
+  },
+  {
+    "id": "3316072005",
+    "district_id": "331607",
+    "name": "BLEBOH"
+  },
+  {
+    "id": "3316072006",
+    "district_id": "331607",
+    "name": "KETRINGAN"
+  },
+  {
+    "id": "3316072007",
+    "district_id": "331607",
+    "name": "SINGONEGORO"
+  },
+  {
+    "id": "3316072008",
+    "district_id": "331607",
+    "name": "JIKEN"
+  },
+  {
+    "id": "3316072009",
+    "district_id": "331607",
+    "name": "GENJAHAN"
+  },
+  {
+    "id": "3316072010",
+    "district_id": "331607",
+    "name": "JIWOREJO"
+  },
+  {
+    "id": "3316072011",
+    "district_id": "331607",
+    "name": "BANGOWAN"
+  }
+]

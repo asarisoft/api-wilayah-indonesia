@@ -1,1 +1,72 @@
-[{"id": "1203011001", "district_id": "120301", "name": "SITINJAK"}, {"id": "1203011003", "district_id": "120301", "name": "SIMATORKIS SISOMA"}, {"id": "1203012002", "district_id": "120301", "name": "PANOBASAN"}, {"id": "1203012004", "district_id": "120301", "name": "SIUHOM"}, {"id": "1203012005", "district_id": "120301", "name": "SIGUMURU"}, {"id": "1203012006", "district_id": "120301", "name": "SIBANGKUA"}, {"id": "1203012007", "district_id": "120301", "name": "SISUNDUNG"}, {"id": "1203012008", "district_id": "120301", "name": "AEK NABARA"}, {"id": "1203012011", "district_id": "120301", "name": "PARSALAKAN"}, {"id": "1203012015", "district_id": "120301", "name": "SITARATOIT"}, {"id": "1203012016", "district_id": "120301", "name": "SIALOGO"}, {"id": "1203012024", "district_id": "120301", "name": "LEMBAH LUBUK RAYA"}, {"id": "1203012031", "district_id": "120301", "name": "LOBU LAYAN SIGORDANG"}, {"id": "1203012035", "district_id": "120301", "name": "PANOBASAN LOMBANG"}]
+[
+  {
+    "id": "1203011001",
+    "district_id": "120301",
+    "name": "SITINJAK"
+  },
+  {
+    "id": "1203011003",
+    "district_id": "120301",
+    "name": "SIMATORKIS SISOMA"
+  },
+  {
+    "id": "1203012002",
+    "district_id": "120301",
+    "name": "PANOBASAN"
+  },
+  {
+    "id": "1203012004",
+    "district_id": "120301",
+    "name": "SIUHOM"
+  },
+  {
+    "id": "1203012005",
+    "district_id": "120301",
+    "name": "SIGUMURU"
+  },
+  {
+    "id": "1203012006",
+    "district_id": "120301",
+    "name": "SIBANGKUA"
+  },
+  {
+    "id": "1203012007",
+    "district_id": "120301",
+    "name": "SISUNDUNG"
+  },
+  {
+    "id": "1203012008",
+    "district_id": "120301",
+    "name": "AEK NABARA"
+  },
+  {
+    "id": "1203012011",
+    "district_id": "120301",
+    "name": "PARSALAKAN"
+  },
+  {
+    "id": "1203012015",
+    "district_id": "120301",
+    "name": "SITARATOIT"
+  },
+  {
+    "id": "1203012016",
+    "district_id": "120301",
+    "name": "SIALOGO"
+  },
+  {
+    "id": "1203012024",
+    "district_id": "120301",
+    "name": "LEMBAH LUBUK RAYA"
+  },
+  {
+    "id": "1203012031",
+    "district_id": "120301",
+    "name": "LOBU LAYAN SIGORDANG"
+  },
+  {
+    "id": "1203012035",
+    "district_id": "120301",
+    "name": "PANOBASAN LOMBANG"
+  }
+]

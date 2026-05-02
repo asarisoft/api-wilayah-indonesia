@@ -1,1 +1,52 @@
-[{"id": "1603262001", "district_id": "160326", "name": "MUARA NIRU"}, {"id": "1603262002", "district_id": "160326", "name": "KAHURIPAN BARU"}, {"id": "1603262003", "district_id": "160326", "name": "PANGKALAN BABAT"}, {"id": "1603262004", "district_id": "160326", "name": "GUNUNG RAJA"}, {"id": "1603262005", "district_id": "160326", "name": "BANUAYU"}, {"id": "1603262006", "district_id": "160326", "name": "KURIPAN"}, {"id": "1603262007", "district_id": "160326", "name": "KURIPAN SELATAN"}, {"id": "1603262008", "district_id": "160326", "name": "BATU RAJA"}, {"id": "1603262009", "district_id": "160326", "name": "DANGKU"}, {"id": "1603262010", "district_id": "160326", "name": "SIKU"}]
+[
+  {
+    "id": "1603262001",
+    "district_id": "160326",
+    "name": "MUARA NIRU"
+  },
+  {
+    "id": "1603262002",
+    "district_id": "160326",
+    "name": "KAHURIPAN BARU"
+  },
+  {
+    "id": "1603262003",
+    "district_id": "160326",
+    "name": "PANGKALAN BABAT"
+  },
+  {
+    "id": "1603262004",
+    "district_id": "160326",
+    "name": "GUNUNG RAJA"
+  },
+  {
+    "id": "1603262005",
+    "district_id": "160326",
+    "name": "BANUAYU"
+  },
+  {
+    "id": "1603262006",
+    "district_id": "160326",
+    "name": "KURIPAN"
+  },
+  {
+    "id": "1603262007",
+    "district_id": "160326",
+    "name": "KURIPAN SELATAN"
+  },
+  {
+    "id": "1603262008",
+    "district_id": "160326",
+    "name": "BATU RAJA"
+  },
+  {
+    "id": "1603262009",
+    "district_id": "160326",
+    "name": "DANGKU"
+  },
+  {
+    "id": "1603262010",
+    "district_id": "160326",
+    "name": "SIKU"
+  }
+]

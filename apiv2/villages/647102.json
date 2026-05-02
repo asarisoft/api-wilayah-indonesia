@@ -1,1 +1,32 @@
-[{"id": "6471021001", "district_id": "647102", "name": "BARU ILIR"}, {"id": "6471021002", "district_id": "647102", "name": "BARU TENGAH"}, {"id": "6471021003", "district_id": "647102", "name": "BARU ULU"}, {"id": "6471021004", "district_id": "647102", "name": "KARIANGAU"}, {"id": "6471021005", "district_id": "647102", "name": "MARGO MULYO"}, {"id": "6471021006", "district_id": "647102", "name": "MARGA SARI"}]
+[
+  {
+    "id": "6471021001",
+    "district_id": "647102",
+    "name": "BARU ILIR"
+  },
+  {
+    "id": "6471021002",
+    "district_id": "647102",
+    "name": "BARU TENGAH"
+  },
+  {
+    "id": "6471021003",
+    "district_id": "647102",
+    "name": "BARU ULU"
+  },
+  {
+    "id": "6471021004",
+    "district_id": "647102",
+    "name": "KARIANGAU"
+  },
+  {
+    "id": "6471021005",
+    "district_id": "647102",
+    "name": "MARGO MULYO"
+  },
+  {
+    "id": "6471021006",
+    "district_id": "647102",
+    "name": "MARGA SARI"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "1371011001", "district_id": "137101", "name": "BELAKANG PONDOK"}, {"id": "1371011002", "district_id": "137101", "name": "ALANG LAWEH"}, {"id": "1371011003", "district_id": "137101", "name": "RANAH PARAK RUMBIO"}, {"id": "1371011004", "district_id": "137101", "name": "PASA GADANG"}, {"id": "1371011005", "district_id": "137101", "name": "BATANG ARAU"}, {"id": "1371011006", "district_id": "137101", "name": "SEBERANG PALINGGAM"}, {"id": "1371011007", "district_id": "137101", "name": "SEBERANG PADANG"}, {"id": "1371011008", "district_id": "137101", "name": "MATA AIR"}, {"id": "1371011009", "district_id": "137101", "name": "RAWANG"}, {"id": "1371011010", "district_id": "137101", "name": "TELUK BAYUR"}, {"id": "1371011011", "district_id": "137101", "name": "AIR MANIS"}, {"id": "1371011012", "district_id": "137101", "name": "BUKIT GADO-GADO"}]
+[
+  {
+    "id": "1371011001",
+    "district_id": "137101",
+    "name": "BELAKANG PONDOK"
+  },
+  {
+    "id": "1371011002",
+    "district_id": "137101",
+    "name": "ALANG LAWEH"
+  },
+  {
+    "id": "1371011003",
+    "district_id": "137101",
+    "name": "RANAH PARAK RUMBIO"
+  },
+  {
+    "id": "1371011004",
+    "district_id": "137101",
+    "name": "PASA GADANG"
+  },
+  {
+    "id": "1371011005",
+    "district_id": "137101",
+    "name": "BATANG ARAU"
+  },
+  {
+    "id": "1371011006",
+    "district_id": "137101",
+    "name": "SEBERANG PALINGGAM"
+  },
+  {
+    "id": "1371011007",
+    "district_id": "137101",
+    "name": "SEBERANG PADANG"
+  },
+  {
+    "id": "1371011008",
+    "district_id": "137101",
+    "name": "MATA AIR"
+  },
+  {
+    "id": "1371011009",
+    "district_id": "137101",
+    "name": "RAWANG"
+  },
+  {
+    "id": "1371011010",
+    "district_id": "137101",
+    "name": "TELUK BAYUR"
+  },
+  {
+    "id": "1371011011",
+    "district_id": "137101",
+    "name": "AIR MANIS"
+  },
+  {
+    "id": "1371011012",
+    "district_id": "137101",
+    "name": "BUKIT GADO-GADO"
+  }
+]

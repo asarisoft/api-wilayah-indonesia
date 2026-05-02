@@ -1,1 +1,27 @@
-[{"id": "3214152001", "district_id": "321415", "name": "KUTAMANAH"}, {"id": "3214152002", "district_id": "321415", "name": "KERTAMANAH"}, {"id": "3214152003", "district_id": "321415", "name": "CIRIRIP"}, {"id": "3214152004", "district_id": "321415", "name": "SUKASARI"}, {"id": "3214152005", "district_id": "321415", "name": "PARUNGBANTENG"}]
+[
+  {
+    "id": "3214152001",
+    "district_id": "321415",
+    "name": "KUTAMANAH"
+  },
+  {
+    "id": "3214152002",
+    "district_id": "321415",
+    "name": "KERTAMANAH"
+  },
+  {
+    "id": "3214152003",
+    "district_id": "321415",
+    "name": "CIRIRIP"
+  },
+  {
+    "id": "3214152004",
+    "district_id": "321415",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "3214152005",
+    "district_id": "321415",
+    "name": "PARUNGBANTENG"
+  }
+]

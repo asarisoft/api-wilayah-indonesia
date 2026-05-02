@@ -1,1 +1,37 @@
-[{"id": "9406022001", "district_id": "940602", "name": "BOBOMANI"}, {"id": "9406022002", "district_id": "940602", "name": "ABAIMAIDA"}, {"id": "9406022003", "district_id": "940602", "name": "BONAKUNU"}, {"id": "9406022004", "district_id": "940602", "name": "DAWAIKUNU"}, {"id": "9406022005", "district_id": "940602", "name": "MAGONE"}, {"id": "9406022006", "district_id": "940602", "name": "DIYOUDIMI"}, {"id": "9406022007", "district_id": "940602", "name": "OBAIKAGOPA"}]
+[
+  {
+    "id": "9406022001",
+    "district_id": "940602",
+    "name": "BOBOMANI"
+  },
+  {
+    "id": "9406022002",
+    "district_id": "940602",
+    "name": "ABAIMAIDA"
+  },
+  {
+    "id": "9406022003",
+    "district_id": "940602",
+    "name": "BONAKUNU"
+  },
+  {
+    "id": "9406022004",
+    "district_id": "940602",
+    "name": "DAWAIKUNU"
+  },
+  {
+    "id": "9406022005",
+    "district_id": "940602",
+    "name": "MAGONE"
+  },
+  {
+    "id": "9406022006",
+    "district_id": "940602",
+    "name": "DIYOUDIMI"
+  },
+  {
+    "id": "9406022007",
+    "district_id": "940602",
+    "name": "OBAIKAGOPA"
+  }
+]

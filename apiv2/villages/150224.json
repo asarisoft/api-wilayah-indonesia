@@ -1,1 +1,32 @@
-[{"id": "1502242001", "district_id": "150224", "name": "SEKANCING"}, {"id": "1502242002", "district_id": "150224", "name": "SEKANCING ILIR"}, {"id": "1502242003", "district_id": "150224", "name": "BERINGIN SANGGUL"}, {"id": "1502242004", "district_id": "150224", "name": "BARU BUKIT PUNJUNG"}, {"id": "1502242005", "district_id": "150224", "name": "RANTAU LIMAU KAPAS"}, {"id": "1502242006", "district_id": "150224", "name": "BARU SUNGAI SAKAI"}]
+[
+  {
+    "id": "1502242001",
+    "district_id": "150224",
+    "name": "SEKANCING"
+  },
+  {
+    "id": "1502242002",
+    "district_id": "150224",
+    "name": "SEKANCING ILIR"
+  },
+  {
+    "id": "1502242003",
+    "district_id": "150224",
+    "name": "BERINGIN SANGGUL"
+  },
+  {
+    "id": "1502242004",
+    "district_id": "150224",
+    "name": "BARU BUKIT PUNJUNG"
+  },
+  {
+    "id": "1502242005",
+    "district_id": "150224",
+    "name": "RANTAU LIMAU KAPAS"
+  },
+  {
+    "id": "1502242006",
+    "district_id": "150224",
+    "name": "BARU SUNGAI SAKAI"
+  }
+]

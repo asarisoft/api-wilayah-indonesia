@@ -1,1 +1,122 @@
-[{"id": "3205142001", "district_id": "320514", "name": "MALANGBONG"}, {"id": "3205142002", "district_id": "320514", "name": "KARANGMULYA"}, {"id": "3205142003", "district_id": "320514", "name": "CIBUNAR"}, {"id": "3205142004", "district_id": "320514", "name": "CIKARAG"}, {"id": "3205142005", "district_id": "320514", "name": "SAKAWAYANA"}, {"id": "3205142006", "district_id": "320514", "name": "MEKARASIH"}, {"id": "3205142007", "district_id": "320514", "name": "CISITU"}, {"id": "3205142008", "district_id": "320514", "name": "CAMPAKA"}, {"id": "3205142009", "district_id": "320514", "name": "LEWOBARU"}, {"id": "3205142010", "district_id": "320514", "name": "SUKAMANAH"}, {"id": "3205142011", "district_id": "320514", "name": "CILAMPUYANG"}, {"id": "3205142012", "district_id": "320514", "name": "CINAGARA"}, {"id": "3205142013", "district_id": "320514", "name": "SUKARATU"}, {"id": "3205142014", "district_id": "320514", "name": "CITERAS"}, {"id": "3205142015", "district_id": "320514", "name": "SUKARASA"}, {"id": "3205142016", "district_id": "320514", "name": "SEKARWANGI"}, {"id": "3205142017", "district_id": "320514", "name": "KUTANAGARA"}, {"id": "3205142018", "district_id": "320514", "name": "SANDING"}, {"id": "3205142019", "district_id": "320514", "name": "CIHAURKUNING"}, {"id": "3205142020", "district_id": "320514", "name": "BARU DUA"}, {"id": "3205142021", "district_id": "320514", "name": "SUKAJAYA"}, {"id": "3205142022", "district_id": "320514", "name": "BUNISARI"}, {"id": "3205142023", "district_id": "320514", "name": "MEKARMULYA"}, {"id": "3205142024", "district_id": "320514", "name": "GIRIMAKMUR"}]
+[
+  {
+    "id": "3205142001",
+    "district_id": "320514",
+    "name": "MALANGBONG"
+  },
+  {
+    "id": "3205142002",
+    "district_id": "320514",
+    "name": "KARANGMULYA"
+  },
+  {
+    "id": "3205142003",
+    "district_id": "320514",
+    "name": "CIBUNAR"
+  },
+  {
+    "id": "3205142004",
+    "district_id": "320514",
+    "name": "CIKARAG"
+  },
+  {
+    "id": "3205142005",
+    "district_id": "320514",
+    "name": "SAKAWAYANA"
+  },
+  {
+    "id": "3205142006",
+    "district_id": "320514",
+    "name": "MEKARASIH"
+  },
+  {
+    "id": "3205142007",
+    "district_id": "320514",
+    "name": "CISITU"
+  },
+  {
+    "id": "3205142008",
+    "district_id": "320514",
+    "name": "CAMPAKA"
+  },
+  {
+    "id": "3205142009",
+    "district_id": "320514",
+    "name": "LEWOBARU"
+  },
+  {
+    "id": "3205142010",
+    "district_id": "320514",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3205142011",
+    "district_id": "320514",
+    "name": "CILAMPUYANG"
+  },
+  {
+    "id": "3205142012",
+    "district_id": "320514",
+    "name": "CINAGARA"
+  },
+  {
+    "id": "3205142013",
+    "district_id": "320514",
+    "name": "SUKARATU"
+  },
+  {
+    "id": "3205142014",
+    "district_id": "320514",
+    "name": "CITERAS"
+  },
+  {
+    "id": "3205142015",
+    "district_id": "320514",
+    "name": "SUKARASA"
+  },
+  {
+    "id": "3205142016",
+    "district_id": "320514",
+    "name": "SEKARWANGI"
+  },
+  {
+    "id": "3205142017",
+    "district_id": "320514",
+    "name": "KUTANAGARA"
+  },
+  {
+    "id": "3205142018",
+    "district_id": "320514",
+    "name": "SANDING"
+  },
+  {
+    "id": "3205142019",
+    "district_id": "320514",
+    "name": "CIHAURKUNING"
+  },
+  {
+    "id": "3205142020",
+    "district_id": "320514",
+    "name": "BARU DUA"
+  },
+  {
+    "id": "3205142021",
+    "district_id": "320514",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3205142022",
+    "district_id": "320514",
+    "name": "BUNISARI"
+  },
+  {
+    "id": "3205142023",
+    "district_id": "320514",
+    "name": "MEKARMULYA"
+  },
+  {
+    "id": "3205142024",
+    "district_id": "320514",
+    "name": "GIRIMAKMUR"
+  }
+]

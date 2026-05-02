@@ -1,1 +1,47 @@
-[{"id": "8206032001", "district_id": "820603", "name": "BICOLI"}, {"id": "8206032002", "district_id": "820603", "name": "WACI"}, {"id": "8206032003", "district_id": "820603", "name": "PETELEY"}, {"id": "8206032004", "district_id": "820603", "name": "LOLEOLAMO"}, {"id": "8206032005", "district_id": "820603", "name": "GOTOWASI"}, {"id": "8206032010", "district_id": "820603", "name": "KASUBA"}, {"id": "8206032012", "district_id": "820603", "name": "MOMOLE"}, {"id": "8206032013", "district_id": "820603", "name": "SIL"}, {"id": "8206032014", "district_id": "820603", "name": "SOWOLI"}]
+[
+  {
+    "id": "8206032001",
+    "district_id": "820603",
+    "name": "BICOLI"
+  },
+  {
+    "id": "8206032002",
+    "district_id": "820603",
+    "name": "WACI"
+  },
+  {
+    "id": "8206032003",
+    "district_id": "820603",
+    "name": "PETELEY"
+  },
+  {
+    "id": "8206032004",
+    "district_id": "820603",
+    "name": "LOLEOLAMO"
+  },
+  {
+    "id": "8206032005",
+    "district_id": "820603",
+    "name": "GOTOWASI"
+  },
+  {
+    "id": "8206032010",
+    "district_id": "820603",
+    "name": "KASUBA"
+  },
+  {
+    "id": "8206032012",
+    "district_id": "820603",
+    "name": "MOMOLE"
+  },
+  {
+    "id": "8206032013",
+    "district_id": "820603",
+    "name": "SIL"
+  },
+  {
+    "id": "8206032014",
+    "district_id": "820603",
+    "name": "SOWOLI"
+  }
+]

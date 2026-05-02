@@ -1,1 +1,57 @@
-[{"id": "6103102001", "district_id": "610310", "name": "SOSOK"}, {"id": "6103102002", "district_id": "610310", "name": "PERUAN DALAM"}, {"id": "6103102003", "district_id": "610310", "name": "MENYABO"}, {"id": "6103102004", "district_id": "610310", "name": "MANDONG"}, {"id": "6103102005", "district_id": "610310", "name": "JANJANG"}, {"id": "6103102006", "district_id": "610310", "name": "RIYAI"}, {"id": "6103102007", "district_id": "610310", "name": "BERAKAK"}, {"id": "6103102008", "district_id": "610310", "name": "ENGKASAN"}, {"id": "6103102009", "district_id": "610310", "name": "PANDAN SEMBUAT"}, {"id": "6103102010", "district_id": "610310", "name": "BINJAI"}, {"id": "6103102011", "district_id": "610310", "name": "KEDAKAS"}]
+[
+  {
+    "id": "6103102001",
+    "district_id": "610310",
+    "name": "SOSOK"
+  },
+  {
+    "id": "6103102002",
+    "district_id": "610310",
+    "name": "PERUAN DALAM"
+  },
+  {
+    "id": "6103102003",
+    "district_id": "610310",
+    "name": "MENYABO"
+  },
+  {
+    "id": "6103102004",
+    "district_id": "610310",
+    "name": "MANDONG"
+  },
+  {
+    "id": "6103102005",
+    "district_id": "610310",
+    "name": "JANJANG"
+  },
+  {
+    "id": "6103102006",
+    "district_id": "610310",
+    "name": "RIYAI"
+  },
+  {
+    "id": "6103102007",
+    "district_id": "610310",
+    "name": "BERAKAK"
+  },
+  {
+    "id": "6103102008",
+    "district_id": "610310",
+    "name": "ENGKASAN"
+  },
+  {
+    "id": "6103102009",
+    "district_id": "610310",
+    "name": "PANDAN SEMBUAT"
+  },
+  {
+    "id": "6103102010",
+    "district_id": "610310",
+    "name": "BINJAI"
+  },
+  {
+    "id": "6103102011",
+    "district_id": "610310",
+    "name": "KEDAKAS"
+  }
+]

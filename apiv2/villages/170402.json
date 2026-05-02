@@ -1,1 +1,102 @@
-[{"id": "1704022002", "district_id": "170402", "name": "TINGGI ARI"}, {"id": "1704022003", "district_id": "170402", "name": "TANJUNG AUR"}, {"id": "1704022004", "district_id": "170402", "name": "AUR RINGIT"}, {"id": "1704022008", "district_id": "170402", "name": "PELAJARAN"}, {"id": "1704022009", "district_id": "170402", "name": "TANJUNG KEMUNING"}, {"id": "1704022010", "district_id": "170402", "name": "SELIKA"}, {"id": "1704022011", "district_id": "170402", "name": "TANJUNG IMAN"}, {"id": "1704022012", "district_id": "170402", "name": "PADANG LEBAN"}, {"id": "1704022013", "district_id": "170402", "name": "BERIANG TINGGI"}, {"id": "1704022014", "district_id": "170402", "name": "TANJUNG BULAN"}, {"id": "1704022015", "district_id": "170402", "name": "PELAJARAN II"}, {"id": "1704022016", "district_id": "170402", "name": "SELIKA II"}, {"id": "1704022017", "district_id": "170402", "name": "SULAUWANGI"}, {"id": "1704022018", "district_id": "170402", "name": "PADANG KEDONDONG"}, {"id": "1704022020", "district_id": "170402", "name": "PADANG TINGGI"}, {"id": "1704022021", "district_id": "170402", "name": "TANJUNG KEMUNING II"}, {"id": "1704022022", "district_id": "170402", "name": "TANJUNG KEMUNING III"}, {"id": "1704022023", "district_id": "170402", "name": "TANJUNG AUR II"}, {"id": "1704022024", "district_id": "170402", "name": "TANJUNG IMAN II"}, {"id": "1704022025", "district_id": "170402", "name": "SELIKA III"}]
+[
+  {
+    "id": "1704022002",
+    "district_id": "170402",
+    "name": "TINGGI ARI"
+  },
+  {
+    "id": "1704022003",
+    "district_id": "170402",
+    "name": "TANJUNG AUR"
+  },
+  {
+    "id": "1704022004",
+    "district_id": "170402",
+    "name": "AUR RINGIT"
+  },
+  {
+    "id": "1704022008",
+    "district_id": "170402",
+    "name": "PELAJARAN"
+  },
+  {
+    "id": "1704022009",
+    "district_id": "170402",
+    "name": "TANJUNG KEMUNING"
+  },
+  {
+    "id": "1704022010",
+    "district_id": "170402",
+    "name": "SELIKA"
+  },
+  {
+    "id": "1704022011",
+    "district_id": "170402",
+    "name": "TANJUNG IMAN"
+  },
+  {
+    "id": "1704022012",
+    "district_id": "170402",
+    "name": "PADANG LEBAN"
+  },
+  {
+    "id": "1704022013",
+    "district_id": "170402",
+    "name": "BERIANG TINGGI"
+  },
+  {
+    "id": "1704022014",
+    "district_id": "170402",
+    "name": "TANJUNG BULAN"
+  },
+  {
+    "id": "1704022015",
+    "district_id": "170402",
+    "name": "PELAJARAN II"
+  },
+  {
+    "id": "1704022016",
+    "district_id": "170402",
+    "name": "SELIKA II"
+  },
+  {
+    "id": "1704022017",
+    "district_id": "170402",
+    "name": "SULAUWANGI"
+  },
+  {
+    "id": "1704022018",
+    "district_id": "170402",
+    "name": "PADANG KEDONDONG"
+  },
+  {
+    "id": "1704022020",
+    "district_id": "170402",
+    "name": "PADANG TINGGI"
+  },
+  {
+    "id": "1704022021",
+    "district_id": "170402",
+    "name": "TANJUNG KEMUNING II"
+  },
+  {
+    "id": "1704022022",
+    "district_id": "170402",
+    "name": "TANJUNG KEMUNING III"
+  },
+  {
+    "id": "1704022023",
+    "district_id": "170402",
+    "name": "TANJUNG AUR II"
+  },
+  {
+    "id": "1704022024",
+    "district_id": "170402",
+    "name": "TANJUNG IMAN II"
+  },
+  {
+    "id": "1704022025",
+    "district_id": "170402",
+    "name": "SELIKA III"
+  }
+]

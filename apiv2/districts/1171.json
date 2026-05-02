@@ -1,1 +1,47 @@
-[{"id": "117101", "regency_id": "1171", "name": "BAITURRAHMAN"}, {"id": "117102", "regency_id": "1171", "name": "KUTA ALAM"}, {"id": "117103", "regency_id": "1171", "name": "MEURAXA"}, {"id": "117104", "regency_id": "1171", "name": "SYIAH KUALA"}, {"id": "117105", "regency_id": "1171", "name": "LUENG BATA"}, {"id": "117106", "regency_id": "1171", "name": "KUTA RAJA"}, {"id": "117107", "regency_id": "1171", "name": "BANDA RAYA"}, {"id": "117108", "regency_id": "1171", "name": "JAYA BARU"}, {"id": "117109", "regency_id": "1171", "name": "ULEE KARENG"}]
+[
+  {
+    "id": "117101",
+    "regency_id": "1171",
+    "name": "BAITURRAHMAN"
+  },
+  {
+    "id": "117102",
+    "regency_id": "1171",
+    "name": "KUTA ALAM"
+  },
+  {
+    "id": "117103",
+    "regency_id": "1171",
+    "name": "MEURAXA"
+  },
+  {
+    "id": "117104",
+    "regency_id": "1171",
+    "name": "SYIAH KUALA"
+  },
+  {
+    "id": "117105",
+    "regency_id": "1171",
+    "name": "LUENG BATA"
+  },
+  {
+    "id": "117106",
+    "regency_id": "1171",
+    "name": "KUTA RAJA"
+  },
+  {
+    "id": "117107",
+    "regency_id": "1171",
+    "name": "BANDA RAYA"
+  },
+  {
+    "id": "117108",
+    "regency_id": "1171",
+    "name": "JAYA BARU"
+  },
+  {
+    "id": "117109",
+    "regency_id": "1171",
+    "name": "ULEE KARENG"
+  }
+]

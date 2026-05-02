@@ -1,1 +1,62 @@
-[{"id": "3313091001", "district_id": "331309", "name": "LALUNG"}, {"id": "3313091002", "district_id": "331309", "name": "BOLONG"}, {"id": "3313091003", "district_id": "331309", "name": "JANTIHARJO"}, {"id": "3313091004", "district_id": "331309", "name": "TEGALGEDE"}, {"id": "3313091005", "district_id": "331309", "name": "JUNGKE"}, {"id": "3313091006", "district_id": "331309", "name": "CANGAKAN"}, {"id": "3313091007", "district_id": "331309", "name": "KARANGANYAR"}, {"id": "3313091008", "district_id": "331309", "name": "BEJEN"}, {"id": "3313091009", "district_id": "331309", "name": "POPONGAN"}, {"id": "3313091010", "district_id": "331309", "name": "GAYAMDOMPO"}, {"id": "3313091011", "district_id": "331309", "name": "DELINGAN"}, {"id": "3313091012", "district_id": "331309", "name": "GEDONG"}]
+[
+  {
+    "id": "3313091001",
+    "district_id": "331309",
+    "name": "LALUNG"
+  },
+  {
+    "id": "3313091002",
+    "district_id": "331309",
+    "name": "BOLONG"
+  },
+  {
+    "id": "3313091003",
+    "district_id": "331309",
+    "name": "JANTIHARJO"
+  },
+  {
+    "id": "3313091004",
+    "district_id": "331309",
+    "name": "TEGALGEDE"
+  },
+  {
+    "id": "3313091005",
+    "district_id": "331309",
+    "name": "JUNGKE"
+  },
+  {
+    "id": "3313091006",
+    "district_id": "331309",
+    "name": "CANGAKAN"
+  },
+  {
+    "id": "3313091007",
+    "district_id": "331309",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3313091008",
+    "district_id": "331309",
+    "name": "BEJEN"
+  },
+  {
+    "id": "3313091009",
+    "district_id": "331309",
+    "name": "POPONGAN"
+  },
+  {
+    "id": "3313091010",
+    "district_id": "331309",
+    "name": "GAYAMDOMPO"
+  },
+  {
+    "id": "3313091011",
+    "district_id": "331309",
+    "name": "DELINGAN"
+  },
+  {
+    "id": "3313091012",
+    "district_id": "331309",
+    "name": "GEDONG"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "5315062001", "district_id": "531506", "name": "MBUIT"}, {"id": "5315062002", "district_id": "531506", "name": "GOLO KETAK"}, {"id": "5315062003", "district_id": "531506", "name": "POTA WANGKA"}, {"id": "5315062004", "district_id": "531506", "name": "TANJUNG BOLENG"}, {"id": "5315062005", "district_id": "531506", "name": "GOLO SEPANG"}, {"id": "5315062006", "district_id": "531506", "name": "PONTIANAK"}, {"id": "5315062007", "district_id": "531506", "name": "SEPANG"}, {"id": "5315062008", "district_id": "531506", "name": "GOLO LUJANG"}, {"id": "5315062009", "district_id": "531506", "name": "BATU TIGA"}, {"id": "5315062020", "district_id": "531506", "name": "GOLO NOBO"}, {"id": "5315062021", "district_id": "531506", "name": "BEO SEPANG"}]
+[
+  {
+    "id": "5315062001",
+    "district_id": "531506",
+    "name": "MBUIT"
+  },
+  {
+    "id": "5315062002",
+    "district_id": "531506",
+    "name": "GOLO KETAK"
+  },
+  {
+    "id": "5315062003",
+    "district_id": "531506",
+    "name": "POTA WANGKA"
+  },
+  {
+    "id": "5315062004",
+    "district_id": "531506",
+    "name": "TANJUNG BOLENG"
+  },
+  {
+    "id": "5315062005",
+    "district_id": "531506",
+    "name": "GOLO SEPANG"
+  },
+  {
+    "id": "5315062006",
+    "district_id": "531506",
+    "name": "PONTIANAK"
+  },
+  {
+    "id": "5315062007",
+    "district_id": "531506",
+    "name": "SEPANG"
+  },
+  {
+    "id": "5315062008",
+    "district_id": "531506",
+    "name": "GOLO LUJANG"
+  },
+  {
+    "id": "5315062009",
+    "district_id": "531506",
+    "name": "BATU TIGA"
+  },
+  {
+    "id": "5315062020",
+    "district_id": "531506",
+    "name": "GOLO NOBO"
+  },
+  {
+    "id": "5315062021",
+    "district_id": "531506",
+    "name": "BEO SEPANG"
+  }
+]

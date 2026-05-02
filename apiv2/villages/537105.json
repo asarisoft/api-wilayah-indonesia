@@ -1,1 +1,42 @@
-[{"id": "5371051001", "district_id": "537105", "name": "BAKUNASE"}, {"id": "5371051002", "district_id": "537105", "name": "BAKUNASE DUA"}, {"id": "5371051003", "district_id": "537105", "name": "AIRNONA"}, {"id": "5371051004", "district_id": "537105", "name": "NAIKOTEN SATU"}, {"id": "5371051005", "district_id": "537105", "name": "NAIKOTEN DUA"}, {"id": "5371051006", "district_id": "537105", "name": "KUANINO"}, {"id": "5371051007", "district_id": "537105", "name": "NUNLEU"}, {"id": "5371051008", "district_id": "537105", "name": "FONTEIN"}]
+[
+  {
+    "id": "5371051001",
+    "district_id": "537105",
+    "name": "BAKUNASE"
+  },
+  {
+    "id": "5371051002",
+    "district_id": "537105",
+    "name": "BAKUNASE DUA"
+  },
+  {
+    "id": "5371051003",
+    "district_id": "537105",
+    "name": "AIRNONA"
+  },
+  {
+    "id": "5371051004",
+    "district_id": "537105",
+    "name": "NAIKOTEN SATU"
+  },
+  {
+    "id": "5371051005",
+    "district_id": "537105",
+    "name": "NAIKOTEN DUA"
+  },
+  {
+    "id": "5371051006",
+    "district_id": "537105",
+    "name": "KUANINO"
+  },
+  {
+    "id": "5371051007",
+    "district_id": "537105",
+    "name": "NUNLEU"
+  },
+  {
+    "id": "5371051008",
+    "district_id": "537105",
+    "name": "FONTEIN"
+  }
+]

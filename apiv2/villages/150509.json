@@ -1,1 +1,57 @@
-[{"id": "1505092001", "district_id": "150509", "name": "TALANG BUKIT"}, {"id": "1505092002", "district_id": "150509", "name": "TALANG DATAR"}, {"id": "1505092003", "district_id": "150509", "name": "SUMBER MULYA"}, {"id": "1505092004", "district_id": "150509", "name": "MULYA JAYA"}, {"id": "1505092005", "district_id": "150509", "name": "MATRA MANUNGGAL"}, {"id": "1505092006", "district_id": "150509", "name": "BUKIT MULYA"}, {"id": "1505092007", "district_id": "150509", "name": "SUMBER JAYA"}, {"id": "1505092008", "district_id": "150509", "name": "PINANG TINGGI"}, {"id": "1505092009", "district_id": "150509", "name": "MARKANDING"}, {"id": "1505092010", "district_id": "150509", "name": "SUNGAI DAYO"}, {"id": "1505092011", "district_id": "150509", "name": "BAHAR MULYA"}]
+[
+  {
+    "id": "1505092001",
+    "district_id": "150509",
+    "name": "TALANG BUKIT"
+  },
+  {
+    "id": "1505092002",
+    "district_id": "150509",
+    "name": "TALANG DATAR"
+  },
+  {
+    "id": "1505092003",
+    "district_id": "150509",
+    "name": "SUMBER MULYA"
+  },
+  {
+    "id": "1505092004",
+    "district_id": "150509",
+    "name": "MULYA JAYA"
+  },
+  {
+    "id": "1505092005",
+    "district_id": "150509",
+    "name": "MATRA MANUNGGAL"
+  },
+  {
+    "id": "1505092006",
+    "district_id": "150509",
+    "name": "BUKIT MULYA"
+  },
+  {
+    "id": "1505092007",
+    "district_id": "150509",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1505092008",
+    "district_id": "150509",
+    "name": "PINANG TINGGI"
+  },
+  {
+    "id": "1505092009",
+    "district_id": "150509",
+    "name": "MARKANDING"
+  },
+  {
+    "id": "1505092010",
+    "district_id": "150509",
+    "name": "SUNGAI DAYO"
+  },
+  {
+    "id": "1505092011",
+    "district_id": "150509",
+    "name": "BAHAR MULYA"
+  }
+]

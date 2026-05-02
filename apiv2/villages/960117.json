@@ -1,1 +1,47 @@
-[{"id": "9601172001", "district_id": "960117", "name": "KLAFDALIM"}, {"id": "9601172002", "district_id": "960117", "name": "KLAFORO"}, {"id": "9601172003", "district_id": "960117", "name": "KLASOF"}, {"id": "9601172004", "district_id": "960117", "name": "NINJIMUR"}, {"id": "9601172005", "district_id": "960117", "name": "KLASARI"}, {"id": "9601172006", "district_id": "960117", "name": "KLAWOTON"}, {"id": "9601172007", "district_id": "960117", "name": "WONOSOBO"}, {"id": "9601172008", "district_id": "960117", "name": "SAKAMERIN"}, {"id": "9601172009", "district_id": "960117", "name": "MASMILI"}]
+[
+  {
+    "id": "9601172001",
+    "district_id": "960117",
+    "name": "KLAFDALIM"
+  },
+  {
+    "id": "9601172002",
+    "district_id": "960117",
+    "name": "KLAFORO"
+  },
+  {
+    "id": "9601172003",
+    "district_id": "960117",
+    "name": "KLASOF"
+  },
+  {
+    "id": "9601172004",
+    "district_id": "960117",
+    "name": "NINJIMUR"
+  },
+  {
+    "id": "9601172005",
+    "district_id": "960117",
+    "name": "KLASARI"
+  },
+  {
+    "id": "9601172006",
+    "district_id": "960117",
+    "name": "KLAWOTON"
+  },
+  {
+    "id": "9601172007",
+    "district_id": "960117",
+    "name": "WONOSOBO"
+  },
+  {
+    "id": "9601172008",
+    "district_id": "960117",
+    "name": "SAKAMERIN"
+  },
+  {
+    "id": "9601172009",
+    "district_id": "960117",
+    "name": "MASMILI"
+  }
+]

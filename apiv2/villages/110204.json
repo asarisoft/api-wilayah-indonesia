@@ -1,1 +1,137 @@
-[{"id": "1102042001", "district_id": "110204", "name": "KOTA KUTACANE"}, {"id": "1102042002", "district_id": "110204", "name": "PERAPAT HILIR"}, {"id": "1102042003", "district_id": "110204", "name": "PERAPAT HULU"}, {"id": "1102042004", "district_id": "110204", "name": "MUARA LAWE BULAN"}, {"id": "1102042005", "district_id": "110204", "name": "MBARUNG"}, {"id": "1102042006", "district_id": "110204", "name": "BATU MBULAN ASLI"}, {"id": "1102042007", "district_id": "110204", "name": "BATU MBULAN I"}, {"id": "1102042008", "district_id": "110204", "name": "BATU MBULAN II"}, {"id": "1102042009", "district_id": "110204", "name": "KAMPUNG RAJA"}, {"id": "1102042010", "district_id": "110204", "name": "PULONAS"}, {"id": "1102042011", "district_id": "110204", "name": "KAMPUNG MELAYU GABUNGAN"}, {"id": "1102042012", "district_id": "110204", "name": "TERUTUNG PEDI"}, {"id": "1102042013", "district_id": "110204", "name": "KUTE RIH"}, {"id": "1102042014", "district_id": "110204", "name": "GUMPANG JAYA"}, {"id": "1102042015", "district_id": "110204", "name": "PULO LATONG"}, {"id": "1102042016", "district_id": "110204", "name": "KUTACANE LAMA"}, {"id": "1102042017", "district_id": "110204", "name": "BATU MBULAN MBARU"}, {"id": "1102042018", "district_id": "110204", "name": "PULO PEDING"}, {"id": "1102042019", "district_id": "110204", "name": "MENDABE"}, {"id": "1102042020", "district_id": "110204", "name": "UJUNG BARAT"}, {"id": "1102042021", "district_id": "110204", "name": "PEKHAPAT TITI PANJANG"}, {"id": "1102042022", "district_id": "110204", "name": "PEKHAPAT SEPAKAT"}, {"id": "1102042023", "district_id": "110204", "name": "ALAS MARANCAR"}, {"id": "1102042024", "district_id": "110204", "name": "BATU MBULAN SEPAKAT"}, {"id": "1102042025", "district_id": "110204", "name": "PULO SANGGAKH"}, {"id": "1102042026", "district_id": "110204", "name": "MELAYU I"}, {"id": "1102042027", "district_id": "110204", "name": "MBARUNG DATUK SAUDANE"}]
+[
+  {
+    "id": "1102042001",
+    "district_id": "110204",
+    "name": "KOTA KUTACANE"
+  },
+  {
+    "id": "1102042002",
+    "district_id": "110204",
+    "name": "PERAPAT HILIR"
+  },
+  {
+    "id": "1102042003",
+    "district_id": "110204",
+    "name": "PERAPAT HULU"
+  },
+  {
+    "id": "1102042004",
+    "district_id": "110204",
+    "name": "MUARA LAWE BULAN"
+  },
+  {
+    "id": "1102042005",
+    "district_id": "110204",
+    "name": "MBARUNG"
+  },
+  {
+    "id": "1102042006",
+    "district_id": "110204",
+    "name": "BATU MBULAN ASLI"
+  },
+  {
+    "id": "1102042007",
+    "district_id": "110204",
+    "name": "BATU MBULAN I"
+  },
+  {
+    "id": "1102042008",
+    "district_id": "110204",
+    "name": "BATU MBULAN II"
+  },
+  {
+    "id": "1102042009",
+    "district_id": "110204",
+    "name": "KAMPUNG RAJA"
+  },
+  {
+    "id": "1102042010",
+    "district_id": "110204",
+    "name": "PULONAS"
+  },
+  {
+    "id": "1102042011",
+    "district_id": "110204",
+    "name": "KAMPUNG MELAYU GABUNGAN"
+  },
+  {
+    "id": "1102042012",
+    "district_id": "110204",
+    "name": "TERUTUNG PEDI"
+  },
+  {
+    "id": "1102042013",
+    "district_id": "110204",
+    "name": "KUTE RIH"
+  },
+  {
+    "id": "1102042014",
+    "district_id": "110204",
+    "name": "GUMPANG JAYA"
+  },
+  {
+    "id": "1102042015",
+    "district_id": "110204",
+    "name": "PULO LATONG"
+  },
+  {
+    "id": "1102042016",
+    "district_id": "110204",
+    "name": "KUTACANE LAMA"
+  },
+  {
+    "id": "1102042017",
+    "district_id": "110204",
+    "name": "BATU MBULAN MBARU"
+  },
+  {
+    "id": "1102042018",
+    "district_id": "110204",
+    "name": "PULO PEDING"
+  },
+  {
+    "id": "1102042019",
+    "district_id": "110204",
+    "name": "MENDABE"
+  },
+  {
+    "id": "1102042020",
+    "district_id": "110204",
+    "name": "UJUNG BARAT"
+  },
+  {
+    "id": "1102042021",
+    "district_id": "110204",
+    "name": "PEKHAPAT TITI PANJANG"
+  },
+  {
+    "id": "1102042022",
+    "district_id": "110204",
+    "name": "PEKHAPAT SEPAKAT"
+  },
+  {
+    "id": "1102042023",
+    "district_id": "110204",
+    "name": "ALAS MARANCAR"
+  },
+  {
+    "id": "1102042024",
+    "district_id": "110204",
+    "name": "BATU MBULAN SEPAKAT"
+  },
+  {
+    "id": "1102042025",
+    "district_id": "110204",
+    "name": "PULO SANGGAKH"
+  },
+  {
+    "id": "1102042026",
+    "district_id": "110204",
+    "name": "MELAYU I"
+  },
+  {
+    "id": "1102042027",
+    "district_id": "110204",
+    "name": "MBARUNG DATUK SAUDANE"
+  }
+]

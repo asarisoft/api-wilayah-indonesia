@@ -1,1 +1,67 @@
-[{"id": "3374051001", "district_id": "337405", "name": "SEMBUNGHARJO"}, {"id": "3374051002", "district_id": "337405", "name": "KUDU"}, {"id": "3374051003", "district_id": "337405", "name": "KARANGROTO"}, {"id": "3374051004", "district_id": "337405", "name": "GENUKSARI"}, {"id": "3374051005", "district_id": "337405", "name": "BANJARDOWO"}, {"id": "3374051006", "district_id": "337405", "name": "GEBANGSARI"}, {"id": "3374051007", "district_id": "337405", "name": "TRIMULYO"}, {"id": "3374051008", "district_id": "337405", "name": "PENGGARON LOR"}, {"id": "3374051009", "district_id": "337405", "name": "MUKTIHARJO LOR"}, {"id": "3374051010", "district_id": "337405", "name": "BANGETAYU KULON"}, {"id": "3374051011", "district_id": "337405", "name": "BANGETAYU WETAN"}, {"id": "3374051012", "district_id": "337405", "name": "TERBOYO KULON"}, {"id": "3374051013", "district_id": "337405", "name": "TERBOYO WETAN"}]
+[
+  {
+    "id": "3374051001",
+    "district_id": "337405",
+    "name": "SEMBUNGHARJO"
+  },
+  {
+    "id": "3374051002",
+    "district_id": "337405",
+    "name": "KUDU"
+  },
+  {
+    "id": "3374051003",
+    "district_id": "337405",
+    "name": "KARANGROTO"
+  },
+  {
+    "id": "3374051004",
+    "district_id": "337405",
+    "name": "GENUKSARI"
+  },
+  {
+    "id": "3374051005",
+    "district_id": "337405",
+    "name": "BANJARDOWO"
+  },
+  {
+    "id": "3374051006",
+    "district_id": "337405",
+    "name": "GEBANGSARI"
+  },
+  {
+    "id": "3374051007",
+    "district_id": "337405",
+    "name": "TRIMULYO"
+  },
+  {
+    "id": "3374051008",
+    "district_id": "337405",
+    "name": "PENGGARON LOR"
+  },
+  {
+    "id": "3374051009",
+    "district_id": "337405",
+    "name": "MUKTIHARJO LOR"
+  },
+  {
+    "id": "3374051010",
+    "district_id": "337405",
+    "name": "BANGETAYU KULON"
+  },
+  {
+    "id": "3374051011",
+    "district_id": "337405",
+    "name": "BANGETAYU WETAN"
+  },
+  {
+    "id": "3374051012",
+    "district_id": "337405",
+    "name": "TERBOYO KULON"
+  },
+  {
+    "id": "3374051013",
+    "district_id": "337405",
+    "name": "TERBOYO WETAN"
+  }
+]

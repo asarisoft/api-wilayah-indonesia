@@ -1,1 +1,22 @@
-[{"id": "1308162001", "district_id": "130816", "name": "ALAHAN MATI"}, {"id": "1308162002", "district_id": "130816", "name": "SIMPANG"}, {"id": "1308162003", "district_id": "130816", "name": "ALAHAN MATI HILIA"}, {"id": "1308162004", "district_id": "130816", "name": "SIMPANG UTARA"}]
+[
+  {
+    "id": "1308162001",
+    "district_id": "130816",
+    "name": "ALAHAN MATI"
+  },
+  {
+    "id": "1308162002",
+    "district_id": "130816",
+    "name": "SIMPANG"
+  },
+  {
+    "id": "1308162003",
+    "district_id": "130816",
+    "name": "ALAHAN MATI HILIA"
+  },
+  {
+    "id": "1308162004",
+    "district_id": "130816",
+    "name": "SIMPANG UTARA"
+  }
+]

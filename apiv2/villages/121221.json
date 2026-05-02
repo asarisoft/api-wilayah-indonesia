@@ -1,1 +1,52 @@
-[{"id": "1212212001", "district_id": "121221", "name": "LUMBAN RAU TENGAH"}, {"id": "1212212002", "district_id": "121221", "name": "LUMBAN RAU TIMUR"}, {"id": "1212212003", "district_id": "121221", "name": "LUMBAN RAU UTARA"}, {"id": "1212212004", "district_id": "121221", "name": "SIPAGABU"}, {"id": "1212212005", "district_id": "121221", "name": "NAPAJORING"}, {"id": "1212212006", "district_id": "121221", "name": "LIAT TONDUNG"}, {"id": "1212212007", "district_id": "121221", "name": "BATU MANUMPAK"}, {"id": "1212212008", "district_id": "121221", "name": "LUMBAN RAU TENGGARA"}, {"id": "1212212009", "district_id": "121221", "name": "CINTA DAMAI"}, {"id": "1212212010", "district_id": "121221", "name": "SIANTARASA"}]
+[
+  {
+    "id": "1212212001",
+    "district_id": "121221",
+    "name": "LUMBAN RAU TENGAH"
+  },
+  {
+    "id": "1212212002",
+    "district_id": "121221",
+    "name": "LUMBAN RAU TIMUR"
+  },
+  {
+    "id": "1212212003",
+    "district_id": "121221",
+    "name": "LUMBAN RAU UTARA"
+  },
+  {
+    "id": "1212212004",
+    "district_id": "121221",
+    "name": "SIPAGABU"
+  },
+  {
+    "id": "1212212005",
+    "district_id": "121221",
+    "name": "NAPAJORING"
+  },
+  {
+    "id": "1212212006",
+    "district_id": "121221",
+    "name": "LIAT TONDUNG"
+  },
+  {
+    "id": "1212212007",
+    "district_id": "121221",
+    "name": "BATU MANUMPAK"
+  },
+  {
+    "id": "1212212008",
+    "district_id": "121221",
+    "name": "LUMBAN RAU TENGGARA"
+  },
+  {
+    "id": "1212212009",
+    "district_id": "121221",
+    "name": "CINTA DAMAI"
+  },
+  {
+    "id": "1212212010",
+    "district_id": "121221",
+    "name": "SIANTARASA"
+  }
+]

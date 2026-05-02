@@ -1,1 +1,42 @@
-[{"id": "7371121001", "district_id": "737112", "name": "MANGGALA"}, {"id": "7371121002", "district_id": "737112", "name": "BANGKALA"}, {"id": "7371121003", "district_id": "737112", "name": "TAMANGAPA"}, {"id": "7371121004", "district_id": "737112", "name": "ANTANG"}, {"id": "7371121005", "district_id": "737112", "name": "BATUA"}, {"id": "7371121006", "district_id": "737112", "name": "BORONG"}, {"id": "7371121007", "district_id": "737112", "name": "BIRING ROMANG"}, {"id": "7371121008", "district_id": "737112", "name": "BITOWA"}]
+[
+  {
+    "id": "7371121001",
+    "district_id": "737112",
+    "name": "MANGGALA"
+  },
+  {
+    "id": "7371121002",
+    "district_id": "737112",
+    "name": "BANGKALA"
+  },
+  {
+    "id": "7371121003",
+    "district_id": "737112",
+    "name": "TAMANGAPA"
+  },
+  {
+    "id": "7371121004",
+    "district_id": "737112",
+    "name": "ANTANG"
+  },
+  {
+    "id": "7371121005",
+    "district_id": "737112",
+    "name": "BATUA"
+  },
+  {
+    "id": "7371121006",
+    "district_id": "737112",
+    "name": "BORONG"
+  },
+  {
+    "id": "7371121007",
+    "district_id": "737112",
+    "name": "BIRING ROMANG"
+  },
+  {
+    "id": "7371121008",
+    "district_id": "737112",
+    "name": "BITOWA"
+  }
+]

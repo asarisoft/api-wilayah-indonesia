@@ -1,1 +1,37 @@
-[{"id": "510401", "regency_id": "5104", "name": "SUKAWATI"}, {"id": "510402", "regency_id": "5104", "name": "BLAHBATUH"}, {"id": "510403", "regency_id": "5104", "name": "GIANYAR"}, {"id": "510404", "regency_id": "5104", "name": "TAMPAKSIRING"}, {"id": "510405", "regency_id": "5104", "name": "UBUD"}, {"id": "510406", "regency_id": "5104", "name": "TEGALLALANG"}, {"id": "510407", "regency_id": "5104", "name": "PAYANGAN"}]
+[
+  {
+    "id": "510401",
+    "regency_id": "5104",
+    "name": "SUKAWATI"
+  },
+  {
+    "id": "510402",
+    "regency_id": "5104",
+    "name": "BLAHBATUH"
+  },
+  {
+    "id": "510403",
+    "regency_id": "5104",
+    "name": "GIANYAR"
+  },
+  {
+    "id": "510404",
+    "regency_id": "5104",
+    "name": "TAMPAKSIRING"
+  },
+  {
+    "id": "510405",
+    "regency_id": "5104",
+    "name": "UBUD"
+  },
+  {
+    "id": "510406",
+    "regency_id": "5104",
+    "name": "TEGALLALANG"
+  },
+  {
+    "id": "510407",
+    "regency_id": "5104",
+    "name": "PAYANGAN"
+  }
+]

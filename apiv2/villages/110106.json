@@ -1,1 +1,142 @@
-[{"id": "1101062001", "district_id": "110106", "name": "DALAM"}, {"id": "1101062002", "district_id": "110106", "name": "SUBARANG"}, {"id": "1101062003", "district_id": "110106", "name": "KUTA BARU"}, {"id": "1101062004", "district_id": "110106", "name": "GUNUNG KETEK"}, {"id": "1101062005", "district_id": "110106", "name": "LADANG PANTON LUAS"}, {"id": "1101062006", "district_id": "110106", "name": "MADAT"}, {"id": "1101062007", "district_id": "110106", "name": "ALUR SEUMERAH"}, {"id": "1101062008", "district_id": "110106", "name": "TENGAH"}, {"id": "1101062009", "district_id": "110106", "name": "GUNUNG CUT"}, {"id": "1101062010", "district_id": "110106", "name": "ALUR PINANG"}, {"id": "1101062011", "district_id": "110106", "name": "KUTA BLANG"}, {"id": "1101062012", "district_id": "110106", "name": "BATEE TUNGGAI"}, {"id": "1101062013", "district_id": "110106", "name": "UJUNG TANAH"}, {"id": "1101062014", "district_id": "110106", "name": "UJUNG KAMPUNG"}, {"id": "1101062015", "district_id": "110106", "name": "JILATANG"}, {"id": "1101062016", "district_id": "110106", "name": "LUAR"}, {"id": "1101062017", "district_id": "110106", "name": "LUBUK LAYU"}, {"id": "1101062018", "district_id": "110106", "name": "SUAQ HULU"}, {"id": "1101062019", "district_id": "110106", "name": "TAMPANG"}, {"id": "1101062020", "district_id": "110106", "name": "PAYONAN GADANG"}, {"id": "1101062021", "district_id": "110106", "name": "GADANG"}, {"id": "1101062022", "district_id": "110106", "name": "BARU"}, {"id": "1101062023", "district_id": "110106", "name": "LADANG KASIK PUTIH"}, {"id": "1101062024", "district_id": "110106", "name": "AIR SIALANG HILIR"}, {"id": "1101062025", "district_id": "110106", "name": "AIR SIALANG HULU"}, {"id": "1101062026", "district_id": "110106", "name": "AIR SIALANG TENGAH"}, {"id": "1101062027", "district_id": "110106", "name": "BALAI"}, {"id": "1101062028", "district_id": "110106", "name": "ARAFAH"}]
+[
+  {
+    "id": "1101062001",
+    "district_id": "110106",
+    "name": "DALAM"
+  },
+  {
+    "id": "1101062002",
+    "district_id": "110106",
+    "name": "SUBARANG"
+  },
+  {
+    "id": "1101062003",
+    "district_id": "110106",
+    "name": "KUTA BARU"
+  },
+  {
+    "id": "1101062004",
+    "district_id": "110106",
+    "name": "GUNUNG KETEK"
+  },
+  {
+    "id": "1101062005",
+    "district_id": "110106",
+    "name": "LADANG PANTON LUAS"
+  },
+  {
+    "id": "1101062006",
+    "district_id": "110106",
+    "name": "MADAT"
+  },
+  {
+    "id": "1101062007",
+    "district_id": "110106",
+    "name": "ALUR SEUMERAH"
+  },
+  {
+    "id": "1101062008",
+    "district_id": "110106",
+    "name": "TENGAH"
+  },
+  {
+    "id": "1101062009",
+    "district_id": "110106",
+    "name": "GUNUNG CUT"
+  },
+  {
+    "id": "1101062010",
+    "district_id": "110106",
+    "name": "ALUR PINANG"
+  },
+  {
+    "id": "1101062011",
+    "district_id": "110106",
+    "name": "KUTA BLANG"
+  },
+  {
+    "id": "1101062012",
+    "district_id": "110106",
+    "name": "BATEE TUNGGAI"
+  },
+  {
+    "id": "1101062013",
+    "district_id": "110106",
+    "name": "UJUNG TANAH"
+  },
+  {
+    "id": "1101062014",
+    "district_id": "110106",
+    "name": "UJUNG KAMPUNG"
+  },
+  {
+    "id": "1101062015",
+    "district_id": "110106",
+    "name": "JILATANG"
+  },
+  {
+    "id": "1101062016",
+    "district_id": "110106",
+    "name": "LUAR"
+  },
+  {
+    "id": "1101062017",
+    "district_id": "110106",
+    "name": "LUBUK LAYU"
+  },
+  {
+    "id": "1101062018",
+    "district_id": "110106",
+    "name": "SUAQ HULU"
+  },
+  {
+    "id": "1101062019",
+    "district_id": "110106",
+    "name": "TAMPANG"
+  },
+  {
+    "id": "1101062020",
+    "district_id": "110106",
+    "name": "PAYONAN GADANG"
+  },
+  {
+    "id": "1101062021",
+    "district_id": "110106",
+    "name": "GADANG"
+  },
+  {
+    "id": "1101062022",
+    "district_id": "110106",
+    "name": "BARU"
+  },
+  {
+    "id": "1101062023",
+    "district_id": "110106",
+    "name": "LADANG KASIK PUTIH"
+  },
+  {
+    "id": "1101062024",
+    "district_id": "110106",
+    "name": "AIR SIALANG HILIR"
+  },
+  {
+    "id": "1101062025",
+    "district_id": "110106",
+    "name": "AIR SIALANG HULU"
+  },
+  {
+    "id": "1101062026",
+    "district_id": "110106",
+    "name": "AIR SIALANG TENGAH"
+  },
+  {
+    "id": "1101062027",
+    "district_id": "110106",
+    "name": "BALAI"
+  },
+  {
+    "id": "1101062028",
+    "district_id": "110106",
+    "name": "ARAFAH"
+  }
+]

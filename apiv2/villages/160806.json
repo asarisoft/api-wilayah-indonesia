@@ -1,1 +1,97 @@
-[{"id": "1608062001", "district_id": "160806", "name": "KARANG NEGARA"}, {"id": "1608062002", "district_id": "160806", "name": "RIANG BANDUNG"}, {"id": "1608062005", "district_id": "160806", "name": "KOTA NEGARA"}, {"id": "1608062006", "district_id": "160806", "name": "KARTA NEGARA"}, {"id": "1608062007", "district_id": "160806", "name": "PANDAN AGUNG"}, {"id": "1608062009", "district_id": "160806", "name": "SRI MULYO"}, {"id": "1608062010", "district_id": "160806", "name": "MARGO TANI"}, {"id": "1608062011", "district_id": "160806", "name": "JATI MULYA II"}, {"id": "1608062012", "district_id": "160806", "name": "PANDAN JAYA"}, {"id": "1608062014", "district_id": "160806", "name": "RASUAN BARU"}, {"id": "1608062020", "district_id": "160806", "name": "BANBANREJO"}, {"id": "1608062021", "district_id": "160806", "name": "SUKA NEGARA"}, {"id": "1608062022", "district_id": "160806", "name": "SRIKENCANA"}, {"id": "1608062023", "district_id": "160806", "name": "DADIMULYO"}, {"id": "1608062024", "district_id": "160806", "name": "RIANG BANDUNG ILIR"}, {"id": "1608062025", "district_id": "160806", "name": "MARGOTANI II"}, {"id": "1608062026", "district_id": "160806", "name": "KOTA NEGARA TIMUR"}, {"id": "1608062027", "district_id": "160806", "name": "TALANG GIRING"}, {"id": "1608062028", "district_id": "160806", "name": "KALIREJO"}]
+[
+  {
+    "id": "1608062001",
+    "district_id": "160806",
+    "name": "KARANG NEGARA"
+  },
+  {
+    "id": "1608062002",
+    "district_id": "160806",
+    "name": "RIANG BANDUNG"
+  },
+  {
+    "id": "1608062005",
+    "district_id": "160806",
+    "name": "KOTA NEGARA"
+  },
+  {
+    "id": "1608062006",
+    "district_id": "160806",
+    "name": "KARTA NEGARA"
+  },
+  {
+    "id": "1608062007",
+    "district_id": "160806",
+    "name": "PANDAN AGUNG"
+  },
+  {
+    "id": "1608062009",
+    "district_id": "160806",
+    "name": "SRI MULYO"
+  },
+  {
+    "id": "1608062010",
+    "district_id": "160806",
+    "name": "MARGO TANI"
+  },
+  {
+    "id": "1608062011",
+    "district_id": "160806",
+    "name": "JATI MULYA II"
+  },
+  {
+    "id": "1608062012",
+    "district_id": "160806",
+    "name": "PANDAN JAYA"
+  },
+  {
+    "id": "1608062014",
+    "district_id": "160806",
+    "name": "RASUAN BARU"
+  },
+  {
+    "id": "1608062020",
+    "district_id": "160806",
+    "name": "BANBANREJO"
+  },
+  {
+    "id": "1608062021",
+    "district_id": "160806",
+    "name": "SUKA NEGARA"
+  },
+  {
+    "id": "1608062022",
+    "district_id": "160806",
+    "name": "SRIKENCANA"
+  },
+  {
+    "id": "1608062023",
+    "district_id": "160806",
+    "name": "DADIMULYO"
+  },
+  {
+    "id": "1608062024",
+    "district_id": "160806",
+    "name": "RIANG BANDUNG ILIR"
+  },
+  {
+    "id": "1608062025",
+    "district_id": "160806",
+    "name": "MARGOTANI II"
+  },
+  {
+    "id": "1608062026",
+    "district_id": "160806",
+    "name": "KOTA NEGARA TIMUR"
+  },
+  {
+    "id": "1608062027",
+    "district_id": "160806",
+    "name": "TALANG GIRING"
+  },
+  {
+    "id": "1608062028",
+    "district_id": "160806",
+    "name": "KALIREJO"
+  }
+]

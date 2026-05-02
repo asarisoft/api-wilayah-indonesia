@@ -1,1 +1,42 @@
-[{"id": "9303102001", "district_id": "930310", "name": "SIEN"}, {"id": "9303102002", "district_id": "930310", "name": "SAHAPIKYA"}, {"id": "9303102003", "district_id": "930310", "name": "HARAPAN"}, {"id": "9303102004", "district_id": "930310", "name": "YIBIN"}, {"id": "9303102005", "district_id": "930310", "name": "MOPIO"}, {"id": "9303102006", "district_id": "930310", "name": "PIES"}, {"id": "9303102007", "district_id": "930310", "name": "MEMES"}, {"id": "9303102008", "district_id": "930310", "name": "GETIYO"}]
+[
+  {
+    "id": "9303102001",
+    "district_id": "930310",
+    "name": "SIEN"
+  },
+  {
+    "id": "9303102002",
+    "district_id": "930310",
+    "name": "SAHAPIKYA"
+  },
+  {
+    "id": "9303102003",
+    "district_id": "930310",
+    "name": "HARAPAN"
+  },
+  {
+    "id": "9303102004",
+    "district_id": "930310",
+    "name": "YIBIN"
+  },
+  {
+    "id": "9303102005",
+    "district_id": "930310",
+    "name": "MOPIO"
+  },
+  {
+    "id": "9303102006",
+    "district_id": "930310",
+    "name": "PIES"
+  },
+  {
+    "id": "9303102007",
+    "district_id": "930310",
+    "name": "MEMES"
+  },
+  {
+    "id": "9303102008",
+    "district_id": "930310",
+    "name": "GETIYO"
+  }
+]

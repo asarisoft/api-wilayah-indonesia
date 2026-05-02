@@ -1,1 +1,37 @@
-[{"id": "6403122001", "district_id": "640312", "name": "TEMBUDAN"}, {"id": "6403122002", "district_id": "640312", "name": "KAYU INDAH"}, {"id": "6403122003", "district_id": "640312", "name": "BATU PUTIH"}, {"id": "6403122004", "district_id": "640312", "name": "LOBANG KELATAK"}, {"id": "6403122005", "district_id": "640312", "name": "AMPEN MEDANG"}, {"id": "6403122006", "district_id": "640312", "name": "BALIKUKUP"}, {"id": "6403122007", "district_id": "640312", "name": "SUMBER AGUNG"}]
+[
+  {
+    "id": "6403122001",
+    "district_id": "640312",
+    "name": "TEMBUDAN"
+  },
+  {
+    "id": "6403122002",
+    "district_id": "640312",
+    "name": "KAYU INDAH"
+  },
+  {
+    "id": "6403122003",
+    "district_id": "640312",
+    "name": "BATU PUTIH"
+  },
+  {
+    "id": "6403122004",
+    "district_id": "640312",
+    "name": "LOBANG KELATAK"
+  },
+  {
+    "id": "6403122005",
+    "district_id": "640312",
+    "name": "AMPEN MEDANG"
+  },
+  {
+    "id": "6403122006",
+    "district_id": "640312",
+    "name": "BALIKUKUP"
+  },
+  {
+    "id": "6403122007",
+    "district_id": "640312",
+    "name": "SUMBER AGUNG"
+  }
+]

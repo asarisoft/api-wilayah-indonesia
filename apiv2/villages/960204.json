@@ -1,1 +1,82 @@
-[{"id": "9602042001", "district_id": "960204", "name": "TAROF"}, {"id": "9602042002", "district_id": "960204", "name": "NEGERI BESAR"}, {"id": "9602042003", "district_id": "960204", "name": "SIWATORI"}, {"id": "9602042004", "district_id": "960204", "name": "KASUWERI"}, {"id": "9602042005", "district_id": "960204", "name": "MIGORI"}, {"id": "9602042006", "district_id": "960204", "name": "TAMBANI"}, {"id": "9602042007", "district_id": "960204", "name": "DAUBAK"}, {"id": "9602042008", "district_id": "960204", "name": "TOTONA"}, {"id": "9602042009", "district_id": "960204", "name": "NAYAKORE"}, {"id": "9602042010", "district_id": "960204", "name": "ARBASINA"}, {"id": "9602042011", "district_id": "960204", "name": "BIRAWAKU"}, {"id": "9602042012", "district_id": "960204", "name": "KOREWATARA"}, {"id": "9602042013", "district_id": "960204", "name": "TAPAS"}, {"id": "9602042014", "district_id": "960204", "name": "TOPDAN"}, {"id": "9602042015", "district_id": "960204", "name": "MIGRITO"}, {"id": "9602042016", "district_id": "960204", "name": "DAIMAR"}]
+[
+  {
+    "id": "9602042001",
+    "district_id": "960204",
+    "name": "TAROF"
+  },
+  {
+    "id": "9602042002",
+    "district_id": "960204",
+    "name": "NEGERI BESAR"
+  },
+  {
+    "id": "9602042003",
+    "district_id": "960204",
+    "name": "SIWATORI"
+  },
+  {
+    "id": "9602042004",
+    "district_id": "960204",
+    "name": "KASUWERI"
+  },
+  {
+    "id": "9602042005",
+    "district_id": "960204",
+    "name": "MIGORI"
+  },
+  {
+    "id": "9602042006",
+    "district_id": "960204",
+    "name": "TAMBANI"
+  },
+  {
+    "id": "9602042007",
+    "district_id": "960204",
+    "name": "DAUBAK"
+  },
+  {
+    "id": "9602042008",
+    "district_id": "960204",
+    "name": "TOTONA"
+  },
+  {
+    "id": "9602042009",
+    "district_id": "960204",
+    "name": "NAYAKORE"
+  },
+  {
+    "id": "9602042010",
+    "district_id": "960204",
+    "name": "ARBASINA"
+  },
+  {
+    "id": "9602042011",
+    "district_id": "960204",
+    "name": "BIRAWAKU"
+  },
+  {
+    "id": "9602042012",
+    "district_id": "960204",
+    "name": "KOREWATARA"
+  },
+  {
+    "id": "9602042013",
+    "district_id": "960204",
+    "name": "TAPAS"
+  },
+  {
+    "id": "9602042014",
+    "district_id": "960204",
+    "name": "TOPDAN"
+  },
+  {
+    "id": "9602042015",
+    "district_id": "960204",
+    "name": "MIGRITO"
+  },
+  {
+    "id": "9602042016",
+    "district_id": "960204",
+    "name": "DAIMAR"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "1108222001", "district_id": "110822", "name": "KEUDE SIMPANG EMPAT"}, {"id": "1108222002", "district_id": "110822", "name": "SEUNEBOK PUNTI"}, {"id": "1108222003", "district_id": "110822", "name": "PAYA LEUPAH"}, {"id": "1108222004", "district_id": "110822", "name": "PAYA TEUNGOH"}, {"id": "1108222005", "district_id": "110822", "name": "KEUBON BARO"}, {"id": "1108222006", "district_id": "110822", "name": "MEUNASAH TEUNGOH"}, {"id": "1108222007", "district_id": "110822", "name": "MEUNASAH BAROH"}, {"id": "1108222008", "district_id": "110822", "name": "MANCANG"}, {"id": "1108222009", "district_id": "110822", "name": "ALUE BADE"}, {"id": "1108222010", "district_id": "110822", "name": "MEUNASAH DAYAH SPK"}, {"id": "1108222011", "district_id": "110822", "name": "KILOMETER VI"}, {"id": "1108222012", "district_id": "110822", "name": "KILOMETER VIII"}, {"id": "1108222013", "district_id": "110822", "name": "IE TAREK I"}, {"id": "1108222014", "district_id": "110822", "name": "IE TAREK II"}, {"id": "1108222015", "district_id": "110822", "name": "PASE SENTOSA"}, {"id": "1108222016", "district_id": "110822", "name": "BLANG RALEUE"}]
+[
+  {
+    "id": "1108222001",
+    "district_id": "110822",
+    "name": "KEUDE SIMPANG EMPAT"
+  },
+  {
+    "id": "1108222002",
+    "district_id": "110822",
+    "name": "SEUNEBOK PUNTI"
+  },
+  {
+    "id": "1108222003",
+    "district_id": "110822",
+    "name": "PAYA LEUPAH"
+  },
+  {
+    "id": "1108222004",
+    "district_id": "110822",
+    "name": "PAYA TEUNGOH"
+  },
+  {
+    "id": "1108222005",
+    "district_id": "110822",
+    "name": "KEUBON BARO"
+  },
+  {
+    "id": "1108222006",
+    "district_id": "110822",
+    "name": "MEUNASAH TEUNGOH"
+  },
+  {
+    "id": "1108222007",
+    "district_id": "110822",
+    "name": "MEUNASAH BAROH"
+  },
+  {
+    "id": "1108222008",
+    "district_id": "110822",
+    "name": "MANCANG"
+  },
+  {
+    "id": "1108222009",
+    "district_id": "110822",
+    "name": "ALUE BADE"
+  },
+  {
+    "id": "1108222010",
+    "district_id": "110822",
+    "name": "MEUNASAH DAYAH SPK"
+  },
+  {
+    "id": "1108222011",
+    "district_id": "110822",
+    "name": "KILOMETER VI"
+  },
+  {
+    "id": "1108222012",
+    "district_id": "110822",
+    "name": "KILOMETER VIII"
+  },
+  {
+    "id": "1108222013",
+    "district_id": "110822",
+    "name": "IE TAREK I"
+  },
+  {
+    "id": "1108222014",
+    "district_id": "110822",
+    "name": "IE TAREK II"
+  },
+  {
+    "id": "1108222015",
+    "district_id": "110822",
+    "name": "PASE SENTOSA"
+  },
+  {
+    "id": "1108222016",
+    "district_id": "110822",
+    "name": "BLANG RALEUE"
+  }
+]

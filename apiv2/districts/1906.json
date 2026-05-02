@@ -1,1 +1,37 @@
-[{"id": "190601", "regency_id": "1906", "name": "MANGGAR"}, {"id": "190602", "regency_id": "1906", "name": "GANTUNG"}, {"id": "190603", "regency_id": "1906", "name": "DENDANG"}, {"id": "190604", "regency_id": "1906", "name": "KELAPA KAMPIT"}, {"id": "190605", "regency_id": "1906", "name": "DAMAR"}, {"id": "190606", "regency_id": "1906", "name": "SIMPANG RENGGIANG"}, {"id": "190607", "regency_id": "1906", "name": "SIMPANG PESAK"}]
+[
+  {
+    "id": "190601",
+    "regency_id": "1906",
+    "name": "MANGGAR"
+  },
+  {
+    "id": "190602",
+    "regency_id": "1906",
+    "name": "GANTUNG"
+  },
+  {
+    "id": "190603",
+    "regency_id": "1906",
+    "name": "DENDANG"
+  },
+  {
+    "id": "190604",
+    "regency_id": "1906",
+    "name": "KELAPA KAMPIT"
+  },
+  {
+    "id": "190605",
+    "regency_id": "1906",
+    "name": "DAMAR"
+  },
+  {
+    "id": "190606",
+    "regency_id": "1906",
+    "name": "SIMPANG RENGGIANG"
+  },
+  {
+    "id": "190607",
+    "regency_id": "1906",
+    "name": "SIMPANG PESAK"
+  }
+]

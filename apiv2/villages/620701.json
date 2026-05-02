@@ -1,1 +1,52 @@
-[{"id": "6207011001", "district_id": "620701", "name": "KUALA PEMBUANG I"}, {"id": "6207011002", "district_id": "620701", "name": "KUALA PEMBUANG II"}, {"id": "6207012005", "district_id": "620701", "name": "PEMATANG LIMAU"}, {"id": "6207012006", "district_id": "620701", "name": "SUNGAI PERLU"}, {"id": "6207012007", "district_id": "620701", "name": "TANJUNG RANGAS"}, {"id": "6207012008", "district_id": "620701", "name": "MUARA DUA"}, {"id": "6207012009", "district_id": "620701", "name": "JAHITAN"}, {"id": "6207012010", "district_id": "620701", "name": "BAUNG"}, {"id": "6207012015", "district_id": "620701", "name": "PERSIL RAYA"}, {"id": "6207012016", "district_id": "620701", "name": "SUNGAI UNDANG"}]
+[
+  {
+    "id": "6207011001",
+    "district_id": "620701",
+    "name": "KUALA PEMBUANG I"
+  },
+  {
+    "id": "6207011002",
+    "district_id": "620701",
+    "name": "KUALA PEMBUANG II"
+  },
+  {
+    "id": "6207012005",
+    "district_id": "620701",
+    "name": "PEMATANG LIMAU"
+  },
+  {
+    "id": "6207012006",
+    "district_id": "620701",
+    "name": "SUNGAI PERLU"
+  },
+  {
+    "id": "6207012007",
+    "district_id": "620701",
+    "name": "TANJUNG RANGAS"
+  },
+  {
+    "id": "6207012008",
+    "district_id": "620701",
+    "name": "MUARA DUA"
+  },
+  {
+    "id": "6207012009",
+    "district_id": "620701",
+    "name": "JAHITAN"
+  },
+  {
+    "id": "6207012010",
+    "district_id": "620701",
+    "name": "BAUNG"
+  },
+  {
+    "id": "6207012015",
+    "district_id": "620701",
+    "name": "PERSIL RAYA"
+  },
+  {
+    "id": "6207012016",
+    "district_id": "620701",
+    "name": "SUNGAI UNDANG"
+  }
+]

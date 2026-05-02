@@ -1,1 +1,37 @@
-[{"id": "5307051006", "district_id": "530705", "name": "MADAWAT"}, {"id": "5307051007", "district_id": "530705", "name": "NANGALIMANG"}, {"id": "5307051008", "district_id": "530705", "name": "KABOR"}, {"id": "5307051009", "district_id": "530705", "name": "KOTA UNENG"}, {"id": "5307052014", "district_id": "530705", "name": "PEMANA"}, {"id": "5307052015", "district_id": "530705", "name": "SAMPARONG"}, {"id": "5307052016", "district_id": "530705", "name": "GUNUNG SARI"}]
+[
+  {
+    "id": "5307051006",
+    "district_id": "530705",
+    "name": "MADAWAT"
+  },
+  {
+    "id": "5307051007",
+    "district_id": "530705",
+    "name": "NANGALIMANG"
+  },
+  {
+    "id": "5307051008",
+    "district_id": "530705",
+    "name": "KABOR"
+  },
+  {
+    "id": "5307051009",
+    "district_id": "530705",
+    "name": "KOTA UNENG"
+  },
+  {
+    "id": "5307052014",
+    "district_id": "530705",
+    "name": "PEMANA"
+  },
+  {
+    "id": "5307052015",
+    "district_id": "530705",
+    "name": "SAMPARONG"
+  },
+  {
+    "id": "5307052016",
+    "district_id": "530705",
+    "name": "GUNUNG SARI"
+  }
+]

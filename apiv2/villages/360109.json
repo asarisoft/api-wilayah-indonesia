@@ -1,1 +1,67 @@
-[{"id": "3601092001", "district_id": "360109", "name": "SUKADAME"}, {"id": "3601092002", "district_id": "360109", "name": "PAGELARAN"}, {"id": "3601092003", "district_id": "360109", "name": "SURAKARTA"}, {"id": "3601092004", "district_id": "360109", "name": "MONTOR"}, {"id": "3601092005", "district_id": "360109", "name": "KERTASANA"}, {"id": "3601092006", "district_id": "360109", "name": "BAMA"}, {"id": "3601092007", "district_id": "360109", "name": "MARGASANA"}, {"id": "3601092008", "district_id": "360109", "name": "SINDANGLAYA"}, {"id": "3601092009", "district_id": "360109", "name": "TEGALPAPAK"}, {"id": "3601092010", "district_id": "360109", "name": "BULAGOR"}, {"id": "3601092011", "district_id": "360109", "name": "HARAPANKARYA"}, {"id": "3601092012", "district_id": "360109", "name": "SENANGSARI"}, {"id": "3601092013", "district_id": "360109", "name": "MARGAGIRI"}]
+[
+  {
+    "id": "3601092001",
+    "district_id": "360109",
+    "name": "SUKADAME"
+  },
+  {
+    "id": "3601092002",
+    "district_id": "360109",
+    "name": "PAGELARAN"
+  },
+  {
+    "id": "3601092003",
+    "district_id": "360109",
+    "name": "SURAKARTA"
+  },
+  {
+    "id": "3601092004",
+    "district_id": "360109",
+    "name": "MONTOR"
+  },
+  {
+    "id": "3601092005",
+    "district_id": "360109",
+    "name": "KERTASANA"
+  },
+  {
+    "id": "3601092006",
+    "district_id": "360109",
+    "name": "BAMA"
+  },
+  {
+    "id": "3601092007",
+    "district_id": "360109",
+    "name": "MARGASANA"
+  },
+  {
+    "id": "3601092008",
+    "district_id": "360109",
+    "name": "SINDANGLAYA"
+  },
+  {
+    "id": "3601092009",
+    "district_id": "360109",
+    "name": "TEGALPAPAK"
+  },
+  {
+    "id": "3601092010",
+    "district_id": "360109",
+    "name": "BULAGOR"
+  },
+  {
+    "id": "3601092011",
+    "district_id": "360109",
+    "name": "HARAPANKARYA"
+  },
+  {
+    "id": "3601092012",
+    "district_id": "360109",
+    "name": "SENANGSARI"
+  },
+  {
+    "id": "3601092013",
+    "district_id": "360109",
+    "name": "MARGAGIRI"
+  }
+]

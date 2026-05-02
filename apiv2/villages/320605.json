@@ -1,1 +1,47 @@
-[{"id": "3206052001", "district_id": "320605", "name": "GUNUNGSARI"}, {"id": "3206052002", "district_id": "320605", "name": "CILUMBA"}, {"id": "3206052003", "district_id": "320605", "name": "PAKEMITAN"}, {"id": "3206052004", "district_id": "320605", "name": "COGREG"}, {"id": "3206052005", "district_id": "320605", "name": "CAYUR"}, {"id": "3206052006", "district_id": "320605", "name": "LENGKONGBARANG"}, {"id": "3206052007", "district_id": "320605", "name": "SINDANGASIH"}, {"id": "3206052008", "district_id": "320605", "name": "TANJUNGBARANG"}, {"id": "3206052009", "district_id": "320605", "name": "LINGGALAKSANA"}]
+[
+  {
+    "id": "3206052001",
+    "district_id": "320605",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3206052002",
+    "district_id": "320605",
+    "name": "CILUMBA"
+  },
+  {
+    "id": "3206052003",
+    "district_id": "320605",
+    "name": "PAKEMITAN"
+  },
+  {
+    "id": "3206052004",
+    "district_id": "320605",
+    "name": "COGREG"
+  },
+  {
+    "id": "3206052005",
+    "district_id": "320605",
+    "name": "CAYUR"
+  },
+  {
+    "id": "3206052006",
+    "district_id": "320605",
+    "name": "LENGKONGBARANG"
+  },
+  {
+    "id": "3206052007",
+    "district_id": "320605",
+    "name": "SINDANGASIH"
+  },
+  {
+    "id": "3206052008",
+    "district_id": "320605",
+    "name": "TANJUNGBARANG"
+  },
+  {
+    "id": "3206052009",
+    "district_id": "320605",
+    "name": "LINGGALAKSANA"
+  }
+]

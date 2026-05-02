@@ -1,1 +1,52 @@
-[{"id": "9202342001", "district_id": "920234", "name": "MOUBJA"}, {"id": "9202342002", "district_id": "920234", "name": "MEYOF II"}, {"id": "9202342003", "district_id": "920234", "name": "MEMBOWI"}, {"id": "9202342004", "district_id": "920234", "name": "RIRINFOS"}, {"id": "9202342005", "district_id": "920234", "name": "WARIORI INDAH"}, {"id": "9202342006", "district_id": "920234", "name": "MEREJEMEG"}, {"id": "9202342007", "district_id": "920234", "name": "WAMFOURA"}, {"id": "9202342008", "district_id": "920234", "name": "MEYERUK"}, {"id": "9202342009", "district_id": "920234", "name": "AURMIOS"}, {"id": "9202342010", "district_id": "920234", "name": "MUARA WARIORI"}]
+[
+  {
+    "id": "9202342001",
+    "district_id": "920234",
+    "name": "MOUBJA"
+  },
+  {
+    "id": "9202342002",
+    "district_id": "920234",
+    "name": "MEYOF II"
+  },
+  {
+    "id": "9202342003",
+    "district_id": "920234",
+    "name": "MEMBOWI"
+  },
+  {
+    "id": "9202342004",
+    "district_id": "920234",
+    "name": "RIRINFOS"
+  },
+  {
+    "id": "9202342005",
+    "district_id": "920234",
+    "name": "WARIORI INDAH"
+  },
+  {
+    "id": "9202342006",
+    "district_id": "920234",
+    "name": "MEREJEMEG"
+  },
+  {
+    "id": "9202342007",
+    "district_id": "920234",
+    "name": "WAMFOURA"
+  },
+  {
+    "id": "9202342008",
+    "district_id": "920234",
+    "name": "MEYERUK"
+  },
+  {
+    "id": "9202342009",
+    "district_id": "920234",
+    "name": "AURMIOS"
+  },
+  {
+    "id": "9202342010",
+    "district_id": "920234",
+    "name": "MUARA WARIORI"
+  }
+]

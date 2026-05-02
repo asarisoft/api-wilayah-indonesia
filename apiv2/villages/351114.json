@@ -1,1 +1,57 @@
-[{"id": "3511142005", "district_id": "351114", "name": "KARANG ANYAR"}, {"id": "3511142006", "district_id": "351114", "name": "BLIMBING"}, {"id": "3511142007", "district_id": "351114", "name": "KARANG SENGON"}, {"id": "3511142008", "district_id": "351114", "name": "WONOKERTO"}, {"id": "3511142009", "district_id": "351114", "name": "KLABANG"}, {"id": "3511142010", "district_id": "351114", "name": "KLAMPOKAN"}, {"id": "3511142011", "district_id": "351114", "name": "SUMBER SUKO"}, {"id": "3511142012", "district_id": "351114", "name": "BESUK"}, {"id": "3511142013", "district_id": "351114", "name": "PANDAK"}, {"id": "3511142014", "district_id": "351114", "name": "LEPRAK"}, {"id": "3511142015", "district_id": "351114", "name": "WONOBOYO"}]
+[
+  {
+    "id": "3511142005",
+    "district_id": "351114",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "3511142006",
+    "district_id": "351114",
+    "name": "BLIMBING"
+  },
+  {
+    "id": "3511142007",
+    "district_id": "351114",
+    "name": "KARANG SENGON"
+  },
+  {
+    "id": "3511142008",
+    "district_id": "351114",
+    "name": "WONOKERTO"
+  },
+  {
+    "id": "3511142009",
+    "district_id": "351114",
+    "name": "KLABANG"
+  },
+  {
+    "id": "3511142010",
+    "district_id": "351114",
+    "name": "KLAMPOKAN"
+  },
+  {
+    "id": "3511142011",
+    "district_id": "351114",
+    "name": "SUMBER SUKO"
+  },
+  {
+    "id": "3511142012",
+    "district_id": "351114",
+    "name": "BESUK"
+  },
+  {
+    "id": "3511142013",
+    "district_id": "351114",
+    "name": "PANDAK"
+  },
+  {
+    "id": "3511142014",
+    "district_id": "351114",
+    "name": "LEPRAK"
+  },
+  {
+    "id": "3511142015",
+    "district_id": "351114",
+    "name": "WONOBOYO"
+  }
+]

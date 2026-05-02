@@ -1,1 +1,52 @@
-[{"id": "1407142001", "district_id": "140714", "name": "PEDAMARAN"}, {"id": "1407142002", "district_id": "140714", "name": "ROKAN BARU"}, {"id": "1407142003", "district_id": "140714", "name": "SEI BESAR"}, {"id": "1407142004", "district_id": "140714", "name": "SUAK TEMENGGUNG"}, {"id": "1407142005", "district_id": "140714", "name": "TELUK BANO II"}, {"id": "1407142006", "district_id": "140714", "name": "PEKAITAN"}, {"id": "1407142007", "district_id": "140714", "name": "SUAK AIR HITAM"}, {"id": "1407142008", "district_id": "140714", "name": "KUBU I"}, {"id": "1407142009", "district_id": "140714", "name": "KARYO MULYO SARI"}, {"id": "1407142010", "district_id": "140714", "name": "ROKAN BARU PESISIR"}]
+[
+  {
+    "id": "1407142001",
+    "district_id": "140714",
+    "name": "PEDAMARAN"
+  },
+  {
+    "id": "1407142002",
+    "district_id": "140714",
+    "name": "ROKAN BARU"
+  },
+  {
+    "id": "1407142003",
+    "district_id": "140714",
+    "name": "SEI BESAR"
+  },
+  {
+    "id": "1407142004",
+    "district_id": "140714",
+    "name": "SUAK TEMENGGUNG"
+  },
+  {
+    "id": "1407142005",
+    "district_id": "140714",
+    "name": "TELUK BANO II"
+  },
+  {
+    "id": "1407142006",
+    "district_id": "140714",
+    "name": "PEKAITAN"
+  },
+  {
+    "id": "1407142007",
+    "district_id": "140714",
+    "name": "SUAK AIR HITAM"
+  },
+  {
+    "id": "1407142008",
+    "district_id": "140714",
+    "name": "KUBU I"
+  },
+  {
+    "id": "1407142009",
+    "district_id": "140714",
+    "name": "KARYO MULYO SARI"
+  },
+  {
+    "id": "1407142010",
+    "district_id": "140714",
+    "name": "ROKAN BARU PESISIR"
+  }
+]

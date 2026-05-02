@@ -1,1 +1,82 @@
-[{"id": "1208231014", "district_id": "120823", "name": "PERDAGANGAN I"}, {"id": "1208231015", "district_id": "120823", "name": "PERDAGANGAN III"}, {"id": "1208232001", "district_id": "120823", "name": "PEMATANG KERASAAN"}, {"id": "1208232002", "district_id": "120823", "name": "MARIHAT BANDAR"}, {"id": "1208232003", "district_id": "120823", "name": "NAGORI BANDAR"}, {"id": "1208232004", "district_id": "120823", "name": "BANDAR RAKYAT"}, {"id": "1208232005", "district_id": "120823", "name": "BANDAR PULO"}, {"id": "1208232006", "district_id": "120823", "name": "BAH LIAS"}, {"id": "1208232007", "district_id": "120823", "name": "PERDAGANGAN II"}, {"id": "1208232008", "district_id": "120823", "name": "PERLANAAN"}, {"id": "1208232009", "district_id": "120823", "name": "SUGARANG BAYU"}, {"id": "1208232010", "district_id": "120823", "name": "PEM KERASAAN REJO"}, {"id": "1208232011", "district_id": "120823", "name": "TIMBAAN"}, {"id": "1208232012", "district_id": "120823", "name": "BANDAR JAWA"}, {"id": "1208232013", "district_id": "120823", "name": "SIDOTANI"}, {"id": "1208232016", "district_id": "120823", "name": "LANDBOUW"}]
+[
+  {
+    "id": "1208231014",
+    "district_id": "120823",
+    "name": "PERDAGANGAN I"
+  },
+  {
+    "id": "1208231015",
+    "district_id": "120823",
+    "name": "PERDAGANGAN III"
+  },
+  {
+    "id": "1208232001",
+    "district_id": "120823",
+    "name": "PEMATANG KERASAAN"
+  },
+  {
+    "id": "1208232002",
+    "district_id": "120823",
+    "name": "MARIHAT BANDAR"
+  },
+  {
+    "id": "1208232003",
+    "district_id": "120823",
+    "name": "NAGORI BANDAR"
+  },
+  {
+    "id": "1208232004",
+    "district_id": "120823",
+    "name": "BANDAR RAKYAT"
+  },
+  {
+    "id": "1208232005",
+    "district_id": "120823",
+    "name": "BANDAR PULO"
+  },
+  {
+    "id": "1208232006",
+    "district_id": "120823",
+    "name": "BAH LIAS"
+  },
+  {
+    "id": "1208232007",
+    "district_id": "120823",
+    "name": "PERDAGANGAN II"
+  },
+  {
+    "id": "1208232008",
+    "district_id": "120823",
+    "name": "PERLANAAN"
+  },
+  {
+    "id": "1208232009",
+    "district_id": "120823",
+    "name": "SUGARANG BAYU"
+  },
+  {
+    "id": "1208232010",
+    "district_id": "120823",
+    "name": "PEM KERASAAN REJO"
+  },
+  {
+    "id": "1208232011",
+    "district_id": "120823",
+    "name": "TIMBAAN"
+  },
+  {
+    "id": "1208232012",
+    "district_id": "120823",
+    "name": "BANDAR JAWA"
+  },
+  {
+    "id": "1208232013",
+    "district_id": "120823",
+    "name": "SIDOTANI"
+  },
+  {
+    "id": "1208232016",
+    "district_id": "120823",
+    "name": "LANDBOUW"
+  }
+]

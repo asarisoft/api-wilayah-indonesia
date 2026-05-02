@@ -1,1 +1,22 @@
-[{"id": "3578251001", "district_id": "357825", "name": "GUNUNG ANYAR"}, {"id": "3578251002", "district_id": "357825", "name": "RUNGKUT TENGAH"}, {"id": "3578251003", "district_id": "357825", "name": "RUNGKUT MENANGGAL"}, {"id": "3578251004", "district_id": "357825", "name": "GUNUNG ANYAR TAMBAK"}]
+[
+  {
+    "id": "3578251001",
+    "district_id": "357825",
+    "name": "GUNUNG ANYAR"
+  },
+  {
+    "id": "3578251002",
+    "district_id": "357825",
+    "name": "RUNGKUT TENGAH"
+  },
+  {
+    "id": "3578251003",
+    "district_id": "357825",
+    "name": "RUNGKUT MENANGGAL"
+  },
+  {
+    "id": "3578251004",
+    "district_id": "357825",
+    "name": "GUNUNG ANYAR TAMBAK"
+  }
+]

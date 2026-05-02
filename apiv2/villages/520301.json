@@ -1,1 +1,77 @@
-[{"id": "5203012001", "district_id": "520301", "name": "TANJUNG LUAR"}, {"id": "5203012002", "district_id": "520301", "name": "PIJOT"}, {"id": "5203012003", "district_id": "520301", "name": "SELEBUNG KETANGGA"}, {"id": "5203012004", "district_id": "520301", "name": "SEPIT"}, {"id": "5203012005", "district_id": "520301", "name": "BATU PUTIK"}, {"id": "5203012006", "district_id": "520301", "name": "SENYIUR"}, {"id": "5203012007", "district_id": "520301", "name": "KERUAK"}, {"id": "5203012008", "district_id": "520301", "name": "KETAPANG RAYA"}, {"id": "5203012009", "district_id": "520301", "name": "PIJOT UTARA"}, {"id": "5203012010", "district_id": "520301", "name": "DANE RASE"}, {"id": "5203012011", "district_id": "520301", "name": "KETANGGA JERAENG"}, {"id": "5203012012", "district_id": "520301", "name": "MENDANA RAYA"}, {"id": "5203012013", "district_id": "520301", "name": "SETUNGKEP LINGSAR"}, {"id": "5203012014", "district_id": "520301", "name": "MONTONG BELAE"}, {"id": "5203012015", "district_id": "520301", "name": "PULAU MARINGKIK"}]
+[
+  {
+    "id": "5203012001",
+    "district_id": "520301",
+    "name": "TANJUNG LUAR"
+  },
+  {
+    "id": "5203012002",
+    "district_id": "520301",
+    "name": "PIJOT"
+  },
+  {
+    "id": "5203012003",
+    "district_id": "520301",
+    "name": "SELEBUNG KETANGGA"
+  },
+  {
+    "id": "5203012004",
+    "district_id": "520301",
+    "name": "SEPIT"
+  },
+  {
+    "id": "5203012005",
+    "district_id": "520301",
+    "name": "BATU PUTIK"
+  },
+  {
+    "id": "5203012006",
+    "district_id": "520301",
+    "name": "SENYIUR"
+  },
+  {
+    "id": "5203012007",
+    "district_id": "520301",
+    "name": "KERUAK"
+  },
+  {
+    "id": "5203012008",
+    "district_id": "520301",
+    "name": "KETAPANG RAYA"
+  },
+  {
+    "id": "5203012009",
+    "district_id": "520301",
+    "name": "PIJOT UTARA"
+  },
+  {
+    "id": "5203012010",
+    "district_id": "520301",
+    "name": "DANE RASE"
+  },
+  {
+    "id": "5203012011",
+    "district_id": "520301",
+    "name": "KETANGGA JERAENG"
+  },
+  {
+    "id": "5203012012",
+    "district_id": "520301",
+    "name": "MENDANA RAYA"
+  },
+  {
+    "id": "5203012013",
+    "district_id": "520301",
+    "name": "SETUNGKEP LINGSAR"
+  },
+  {
+    "id": "5203012014",
+    "district_id": "520301",
+    "name": "MONTONG BELAE"
+  },
+  {
+    "id": "5203012015",
+    "district_id": "520301",
+    "name": "PULAU MARINGKIK"
+  }
+]

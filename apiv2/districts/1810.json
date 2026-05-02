@@ -1,1 +1,47 @@
-[{"id": "181001", "regency_id": "1810", "name": "PRINGSEWU"}, {"id": "181002", "regency_id": "1810", "name": "GADING REJO"}, {"id": "181003", "regency_id": "1810", "name": "AMBARAWA"}, {"id": "181004", "regency_id": "1810", "name": "PARDASUKA"}, {"id": "181005", "regency_id": "1810", "name": "PAGELARAN"}, {"id": "181006", "regency_id": "1810", "name": "BANYUMAS"}, {"id": "181007", "regency_id": "1810", "name": "ADILUWIH"}, {"id": "181008", "regency_id": "1810", "name": "SUKOHARJO"}, {"id": "181009", "regency_id": "1810", "name": "PAGELARAN UTARA"}]
+[
+  {
+    "id": "181001",
+    "regency_id": "1810",
+    "name": "PRINGSEWU"
+  },
+  {
+    "id": "181002",
+    "regency_id": "1810",
+    "name": "GADING REJO"
+  },
+  {
+    "id": "181003",
+    "regency_id": "1810",
+    "name": "AMBARAWA"
+  },
+  {
+    "id": "181004",
+    "regency_id": "1810",
+    "name": "PARDASUKA"
+  },
+  {
+    "id": "181005",
+    "regency_id": "1810",
+    "name": "PAGELARAN"
+  },
+  {
+    "id": "181006",
+    "regency_id": "1810",
+    "name": "BANYUMAS"
+  },
+  {
+    "id": "181007",
+    "regency_id": "1810",
+    "name": "ADILUWIH"
+  },
+  {
+    "id": "181008",
+    "regency_id": "1810",
+    "name": "SUKOHARJO"
+  },
+  {
+    "id": "181009",
+    "regency_id": "1810",
+    "name": "PAGELARAN UTARA"
+  }
+]

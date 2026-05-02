@@ -1,1 +1,47 @@
-[{"id": "1609142001", "district_id": "160914", "name": "MERPANG"}, {"id": "1609142002", "district_id": "160914", "name": "TANJUNG KURUNG"}, {"id": "1609142003", "district_id": "160914", "name": "AIR BARU"}, {"id": "1609142004", "district_id": "160914", "name": "PENANGGUNGAN"}, {"id": "1609142005", "district_id": "160914", "name": "BUMI GENAP"}, {"id": "1609142006", "district_id": "160914", "name": "GEDUNG NYAWA"}, {"id": "1609142007", "district_id": "160914", "name": "GEDUNG WANI"}, {"id": "1609142008", "district_id": "160914", "name": "SURA"}, {"id": "1609142009", "district_id": "160914", "name": "KARANG ENDAH"}]
+[
+  {
+    "id": "1609142001",
+    "district_id": "160914",
+    "name": "MERPANG"
+  },
+  {
+    "id": "1609142002",
+    "district_id": "160914",
+    "name": "TANJUNG KURUNG"
+  },
+  {
+    "id": "1609142003",
+    "district_id": "160914",
+    "name": "AIR BARU"
+  },
+  {
+    "id": "1609142004",
+    "district_id": "160914",
+    "name": "PENANGGUNGAN"
+  },
+  {
+    "id": "1609142005",
+    "district_id": "160914",
+    "name": "BUMI GENAP"
+  },
+  {
+    "id": "1609142006",
+    "district_id": "160914",
+    "name": "GEDUNG NYAWA"
+  },
+  {
+    "id": "1609142007",
+    "district_id": "160914",
+    "name": "GEDUNG WANI"
+  },
+  {
+    "id": "1609142008",
+    "district_id": "160914",
+    "name": "SURA"
+  },
+  {
+    "id": "1609142009",
+    "district_id": "160914",
+    "name": "KARANG ENDAH"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "1204272001", "district_id": "120427", "name": "ORAHILI"}, {"id": "1204272002", "district_id": "120427", "name": "HILIWETO GELA"}, {"id": "1204272003", "district_id": "120427", "name": "LAWA-LAWA LUO"}, {"id": "1204272004", "district_id": "120427", "name": "HILIMBOWO"}, {"id": "1204272005", "district_id": "120427", "name": "HILIBADALU"}, {"id": "1204272006", "district_id": "120427", "name": "FATODANO"}, {"id": "1204272007", "district_id": "120427", "name": "FAHANDRONA"}, {"id": "1204272008", "district_id": "120427", "name": "ONODALINGA"}, {"id": "1204272009", "district_id": "120427", "name": "HOLI"}, {"id": "1204272010", "district_id": "120427", "name": "SISOBAHILI ULUGAWO"}, {"id": "1204272011", "district_id": "120427", "name": "SIFAOROASI ULUGAWO"}, {"id": "1204272012", "district_id": "120427", "name": "MOHILI"}, {"id": "1204272013", "district_id": "120427", "name": "HILIGAFOA"}, {"id": "1204272014", "district_id": "120427", "name": "SISARAHILI SOROMA'ASI"}]
+[
+  {
+    "id": "1204272001",
+    "district_id": "120427",
+    "name": "ORAHILI"
+  },
+  {
+    "id": "1204272002",
+    "district_id": "120427",
+    "name": "HILIWETO GELA"
+  },
+  {
+    "id": "1204272003",
+    "district_id": "120427",
+    "name": "LAWA-LAWA LUO"
+  },
+  {
+    "id": "1204272004",
+    "district_id": "120427",
+    "name": "HILIMBOWO"
+  },
+  {
+    "id": "1204272005",
+    "district_id": "120427",
+    "name": "HILIBADALU"
+  },
+  {
+    "id": "1204272006",
+    "district_id": "120427",
+    "name": "FATODANO"
+  },
+  {
+    "id": "1204272007",
+    "district_id": "120427",
+    "name": "FAHANDRONA"
+  },
+  {
+    "id": "1204272008",
+    "district_id": "120427",
+    "name": "ONODALINGA"
+  },
+  {
+    "id": "1204272009",
+    "district_id": "120427",
+    "name": "HOLI"
+  },
+  {
+    "id": "1204272010",
+    "district_id": "120427",
+    "name": "SISOBAHILI ULUGAWO"
+  },
+  {
+    "id": "1204272011",
+    "district_id": "120427",
+    "name": "SIFAOROASI ULUGAWO"
+  },
+  {
+    "id": "1204272012",
+    "district_id": "120427",
+    "name": "MOHILI"
+  },
+  {
+    "id": "1204272013",
+    "district_id": "120427",
+    "name": "HILIGAFOA"
+  },
+  {
+    "id": "1204272014",
+    "district_id": "120427",
+    "name": "SISARAHILI SOROMA'ASI"
+  }
+]

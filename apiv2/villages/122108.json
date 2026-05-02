@@ -1,1 +1,82 @@
-[{"id": "1221082006", "district_id": "122108", "name": "PASAR UJUNG BATU"}, {"id": "1221082008", "district_id": "122108", "name": "PLASMA MONDANG"}, {"id": "1221082011", "district_id": "122108", "name": "HUTAIMBARU"}, {"id": "1221082012", "district_id": "122108", "name": "MONDANG"}, {"id": "1221082013", "district_id": "122108", "name": "SISOMA"}, {"id": "1221082014", "district_id": "122108", "name": "AEK TINGA"}, {"id": "1221082015", "district_id": "122108", "name": "GUNUNG BARINGIN"}, {"id": "1221082016", "district_id": "122108", "name": "SIMARANCAR"}, {"id": "1221082017", "district_id": "122108", "name": "HUTA RAJA LAMO"}, {"id": "1221082018", "district_id": "122108", "name": "TANJUNG BOTUNG SOSA JAE"}, {"id": "1221082019", "district_id": "122108", "name": "UJUNG BATU"}, {"id": "1221082020", "district_id": "122108", "name": "JANJIRAJA"}, {"id": "1221082021", "district_id": "122108", "name": "RAO-RAO DOLOK"}, {"id": "1221082022", "district_id": "122108", "name": "PARAU SORAT"}, {"id": "1221082023", "district_id": "122108", "name": "AER BALE"}, {"id": "1221082024", "district_id": "122108", "name": "TANJUNG BALE"}]
+[
+  {
+    "id": "1221082006",
+    "district_id": "122108",
+    "name": "PASAR UJUNG BATU"
+  },
+  {
+    "id": "1221082008",
+    "district_id": "122108",
+    "name": "PLASMA MONDANG"
+  },
+  {
+    "id": "1221082011",
+    "district_id": "122108",
+    "name": "HUTAIMBARU"
+  },
+  {
+    "id": "1221082012",
+    "district_id": "122108",
+    "name": "MONDANG"
+  },
+  {
+    "id": "1221082013",
+    "district_id": "122108",
+    "name": "SISOMA"
+  },
+  {
+    "id": "1221082014",
+    "district_id": "122108",
+    "name": "AEK TINGA"
+  },
+  {
+    "id": "1221082015",
+    "district_id": "122108",
+    "name": "GUNUNG BARINGIN"
+  },
+  {
+    "id": "1221082016",
+    "district_id": "122108",
+    "name": "SIMARANCAR"
+  },
+  {
+    "id": "1221082017",
+    "district_id": "122108",
+    "name": "HUTA RAJA LAMO"
+  },
+  {
+    "id": "1221082018",
+    "district_id": "122108",
+    "name": "TANJUNG BOTUNG SOSA JAE"
+  },
+  {
+    "id": "1221082019",
+    "district_id": "122108",
+    "name": "UJUNG BATU"
+  },
+  {
+    "id": "1221082020",
+    "district_id": "122108",
+    "name": "JANJIRAJA"
+  },
+  {
+    "id": "1221082021",
+    "district_id": "122108",
+    "name": "RAO-RAO DOLOK"
+  },
+  {
+    "id": "1221082022",
+    "district_id": "122108",
+    "name": "PARAU SORAT"
+  },
+  {
+    "id": "1221082023",
+    "district_id": "122108",
+    "name": "AER BALE"
+  },
+  {
+    "id": "1221082024",
+    "district_id": "122108",
+    "name": "TANJUNG BALE"
+  }
+]

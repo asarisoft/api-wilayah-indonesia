@@ -1,1 +1,67 @@
-[{"id": "1106202001", "district_id": "110620", "name": "CADEK"}, {"id": "1106202002", "district_id": "110620", "name": "KAJHU"}, {"id": "1106202003", "district_id": "110620", "name": "BAET"}, {"id": "1106202004", "district_id": "110620", "name": "BLANG KRUENG"}, {"id": "1106202005", "district_id": "110620", "name": "KLIENG MURIA"}, {"id": "1106202006", "district_id": "110620", "name": "LAM BADA LHOK"}, {"id": "1106202007", "district_id": "110620", "name": "LAMPINEUNG"}, {"id": "1106202008", "district_id": "110620", "name": "LAM ASAN"}, {"id": "1106202009", "district_id": "110620", "name": "LABUY"}, {"id": "1106202010", "district_id": "110620", "name": "LAM UJONG"}, {"id": "1106202011", "district_id": "110620", "name": "KLIENG COT ARON"}, {"id": "1106202012", "district_id": "110620", "name": "COT PAYA"}, {"id": "1106202013", "district_id": "110620", "name": "MIRUK LAM REUDEP"}]
+[
+  {
+    "id": "1106202001",
+    "district_id": "110620",
+    "name": "CADEK"
+  },
+  {
+    "id": "1106202002",
+    "district_id": "110620",
+    "name": "KAJHU"
+  },
+  {
+    "id": "1106202003",
+    "district_id": "110620",
+    "name": "BAET"
+  },
+  {
+    "id": "1106202004",
+    "district_id": "110620",
+    "name": "BLANG KRUENG"
+  },
+  {
+    "id": "1106202005",
+    "district_id": "110620",
+    "name": "KLIENG MURIA"
+  },
+  {
+    "id": "1106202006",
+    "district_id": "110620",
+    "name": "LAM BADA LHOK"
+  },
+  {
+    "id": "1106202007",
+    "district_id": "110620",
+    "name": "LAMPINEUNG"
+  },
+  {
+    "id": "1106202008",
+    "district_id": "110620",
+    "name": "LAM ASAN"
+  },
+  {
+    "id": "1106202009",
+    "district_id": "110620",
+    "name": "LABUY"
+  },
+  {
+    "id": "1106202010",
+    "district_id": "110620",
+    "name": "LAM UJONG"
+  },
+  {
+    "id": "1106202011",
+    "district_id": "110620",
+    "name": "KLIENG COT ARON"
+  },
+  {
+    "id": "1106202012",
+    "district_id": "110620",
+    "name": "COT PAYA"
+  },
+  {
+    "id": "1106202013",
+    "district_id": "110620",
+    "name": "MIRUK LAM REUDEP"
+  }
+]

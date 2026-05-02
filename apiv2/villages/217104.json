@@ -1,1 +1,22 @@
-[{"id": "2171041001", "district_id": "217104", "name": "SAMBAU"}, {"id": "2171041002", "district_id": "217104", "name": "BATU BESAR"}, {"id": "2171041003", "district_id": "217104", "name": "KABIL"}, {"id": "2171041004", "district_id": "217104", "name": "NGENANG"}]
+[
+  {
+    "id": "2171041001",
+    "district_id": "217104",
+    "name": "SAMBAU"
+  },
+  {
+    "id": "2171041002",
+    "district_id": "217104",
+    "name": "BATU BESAR"
+  },
+  {
+    "id": "2171041003",
+    "district_id": "217104",
+    "name": "KABIL"
+  },
+  {
+    "id": "2171041004",
+    "district_id": "217104",
+    "name": "NGENANG"
+  }
+]

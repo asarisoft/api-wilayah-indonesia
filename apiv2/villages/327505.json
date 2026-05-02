@@ -1,1 +1,22 @@
-[{"id": "3275051001", "district_id": "327505", "name": "BOJONG RAWALUMBU"}, {"id": "3275051002", "district_id": "327505", "name": "PENGASINAN"}, {"id": "3275051003", "district_id": "327505", "name": "SEPANJANGJAYA"}, {"id": "3275051004", "district_id": "327505", "name": "BOJONGMENTENG"}]
+[
+  {
+    "id": "3275051001",
+    "district_id": "327505",
+    "name": "BOJONG RAWALUMBU"
+  },
+  {
+    "id": "3275051002",
+    "district_id": "327505",
+    "name": "PENGASINAN"
+  },
+  {
+    "id": "3275051003",
+    "district_id": "327505",
+    "name": "SEPANJANGJAYA"
+  },
+  {
+    "id": "3275051004",
+    "district_id": "327505",
+    "name": "BOJONGMENTENG"
+  }
+]

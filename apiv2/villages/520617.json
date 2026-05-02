@@ -1,1 +1,32 @@
-[{"id": "5206172001", "district_id": "520617", "name": "KABORO"}, {"id": "5206172002", "district_id": "520617", "name": "KUTA"}, {"id": "5206172003", "district_id": "520617", "name": "SAMBORI"}, {"id": "5206172004", "district_id": "520617", "name": "TETA"}, {"id": "5206172005", "district_id": "520617", "name": "KAOWA"}, {"id": "5206172006", "district_id": "520617", "name": "LONDU"}]
+[
+  {
+    "id": "5206172001",
+    "district_id": "520617",
+    "name": "KABORO"
+  },
+  {
+    "id": "5206172002",
+    "district_id": "520617",
+    "name": "KUTA"
+  },
+  {
+    "id": "5206172003",
+    "district_id": "520617",
+    "name": "SAMBORI"
+  },
+  {
+    "id": "5206172004",
+    "district_id": "520617",
+    "name": "TETA"
+  },
+  {
+    "id": "5206172005",
+    "district_id": "520617",
+    "name": "KAOWA"
+  },
+  {
+    "id": "5206172006",
+    "district_id": "520617",
+    "name": "LONDU"
+  }
+]

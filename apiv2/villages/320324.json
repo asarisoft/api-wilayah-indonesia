@@ -1,1 +1,57 @@
-[{"id": "3203242001", "district_id": "320324", "name": "NARINGGUL"}, {"id": "3203242002", "district_id": "320324", "name": "BALEGEDE"}, {"id": "3203242003", "district_id": "320324", "name": "WANGUNJAYA"}, {"id": "3203242004", "district_id": "320324", "name": "MEKARSARI"}, {"id": "3203242005", "district_id": "320324", "name": "CINERANG"}, {"id": "3203242006", "district_id": "320324", "name": "WANASARI"}, {"id": "3203242007", "district_id": "320324", "name": "SUKABAKTI"}, {"id": "3203242008", "district_id": "320324", "name": "MALATI"}, {"id": "3203242009", "district_id": "320324", "name": "WANGUNSARI"}, {"id": "3203242010", "district_id": "320324", "name": "SUKAMULYA"}, {"id": "3203242011", "district_id": "320324", "name": "MARGASARI"}]
+[
+  {
+    "id": "3203242001",
+    "district_id": "320324",
+    "name": "NARINGGUL"
+  },
+  {
+    "id": "3203242002",
+    "district_id": "320324",
+    "name": "BALEGEDE"
+  },
+  {
+    "id": "3203242003",
+    "district_id": "320324",
+    "name": "WANGUNJAYA"
+  },
+  {
+    "id": "3203242004",
+    "district_id": "320324",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3203242005",
+    "district_id": "320324",
+    "name": "CINERANG"
+  },
+  {
+    "id": "3203242006",
+    "district_id": "320324",
+    "name": "WANASARI"
+  },
+  {
+    "id": "3203242007",
+    "district_id": "320324",
+    "name": "SUKABAKTI"
+  },
+  {
+    "id": "3203242008",
+    "district_id": "320324",
+    "name": "MALATI"
+  },
+  {
+    "id": "3203242009",
+    "district_id": "320324",
+    "name": "WANGUNSARI"
+  },
+  {
+    "id": "3203242010",
+    "district_id": "320324",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3203242011",
+    "district_id": "320324",
+    "name": "MARGASARI"
+  }
+]

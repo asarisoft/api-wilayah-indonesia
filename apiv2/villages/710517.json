@@ -1,1 +1,52 @@
-[{"id": "7105171002", "district_id": "710517", "name": "KAWANGKOAN BAWAH"}, {"id": "7105171003", "district_id": "710517", "name": "RUMOONG BAWAH"}, {"id": "7105172001", "district_id": "710517", "name": "KAPITU"}, {"id": "7105172004", "district_id": "710517", "name": "RUMOONG BAWAH"}, {"id": "7105172005", "district_id": "710517", "name": "TEWASEN"}, {"id": "7105172006", "district_id": "710517", "name": "PONDOS"}, {"id": "7105172007", "district_id": "710517", "name": "ELUSAN"}, {"id": "7105172008", "district_id": "710517", "name": "TEEP"}, {"id": "7105172009", "district_id": "710517", "name": "WAKAN"}, {"id": "7105172010", "district_id": "710517", "name": "TEEP TRANS"}]
+[
+  {
+    "id": "7105171002",
+    "district_id": "710517",
+    "name": "KAWANGKOAN BAWAH"
+  },
+  {
+    "id": "7105171003",
+    "district_id": "710517",
+    "name": "RUMOONG BAWAH"
+  },
+  {
+    "id": "7105172001",
+    "district_id": "710517",
+    "name": "KAPITU"
+  },
+  {
+    "id": "7105172004",
+    "district_id": "710517",
+    "name": "RUMOONG BAWAH"
+  },
+  {
+    "id": "7105172005",
+    "district_id": "710517",
+    "name": "TEWASEN"
+  },
+  {
+    "id": "7105172006",
+    "district_id": "710517",
+    "name": "PONDOS"
+  },
+  {
+    "id": "7105172007",
+    "district_id": "710517",
+    "name": "ELUSAN"
+  },
+  {
+    "id": "7105172008",
+    "district_id": "710517",
+    "name": "TEEP"
+  },
+  {
+    "id": "7105172009",
+    "district_id": "710517",
+    "name": "WAKAN"
+  },
+  {
+    "id": "7105172010",
+    "district_id": "710517",
+    "name": "TEEP TRANS"
+  }
+]

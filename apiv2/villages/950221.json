@@ -1,1 +1,62 @@
-[{"id": "9502212001", "district_id": "950221", "name": "OKMA"}, {"id": "9502212002", "district_id": "950221", "name": "OKTAE"}, {"id": "9502212003", "district_id": "950221", "name": "TINIBIL"}, {"id": "9502212004", "district_id": "950221", "name": "OKDILAM"}, {"id": "9502212005", "district_id": "950221", "name": "AUTPAHIK"}, {"id": "9502212006", "district_id": "950221", "name": "TOMKA"}, {"id": "9502212007", "district_id": "950221", "name": "OKPA"}, {"id": "9502212008", "district_id": "950221", "name": "OKHAKA"}, {"id": "9502212009", "district_id": "950221", "name": "HONKUDING"}, {"id": "9502212010", "district_id": "950221", "name": "BOMDING"}, {"id": "9502212011", "district_id": "950221", "name": "OKDUNAM"}, {"id": "9502212012", "district_id": "950221", "name": "PAUNE"}]
+[
+  {
+    "id": "9502212001",
+    "district_id": "950221",
+    "name": "OKMA"
+  },
+  {
+    "id": "9502212002",
+    "district_id": "950221",
+    "name": "OKTAE"
+  },
+  {
+    "id": "9502212003",
+    "district_id": "950221",
+    "name": "TINIBIL"
+  },
+  {
+    "id": "9502212004",
+    "district_id": "950221",
+    "name": "OKDILAM"
+  },
+  {
+    "id": "9502212005",
+    "district_id": "950221",
+    "name": "AUTPAHIK"
+  },
+  {
+    "id": "9502212006",
+    "district_id": "950221",
+    "name": "TOMKA"
+  },
+  {
+    "id": "9502212007",
+    "district_id": "950221",
+    "name": "OKPA"
+  },
+  {
+    "id": "9502212008",
+    "district_id": "950221",
+    "name": "OKHAKA"
+  },
+  {
+    "id": "9502212009",
+    "district_id": "950221",
+    "name": "HONKUDING"
+  },
+  {
+    "id": "9502212010",
+    "district_id": "950221",
+    "name": "BOMDING"
+  },
+  {
+    "id": "9502212011",
+    "district_id": "950221",
+    "name": "OKDUNAM"
+  },
+  {
+    "id": "9502212012",
+    "district_id": "950221",
+    "name": "PAUNE"
+  }
+]

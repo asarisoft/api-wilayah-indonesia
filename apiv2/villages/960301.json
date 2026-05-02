@@ -1,1 +1,27 @@
-[{"id": "9603012001", "district_id": "960301", "name": "WAIGAMA"}, {"id": "9603012002", "district_id": "960301", "name": "SALAFEN"}, {"id": "9603012003", "district_id": "960301", "name": "ADUWEI"}, {"id": "9603012004", "district_id": "960301", "name": "ATKARI"}, {"id": "9603012005", "district_id": "960301", "name": "SOLAL"}]
+[
+  {
+    "id": "9603012001",
+    "district_id": "960301",
+    "name": "WAIGAMA"
+  },
+  {
+    "id": "9603012002",
+    "district_id": "960301",
+    "name": "SALAFEN"
+  },
+  {
+    "id": "9603012003",
+    "district_id": "960301",
+    "name": "ADUWEI"
+  },
+  {
+    "id": "9603012004",
+    "district_id": "960301",
+    "name": "ATKARI"
+  },
+  {
+    "id": "9603012005",
+    "district_id": "960301",
+    "name": "SOLAL"
+  }
+]

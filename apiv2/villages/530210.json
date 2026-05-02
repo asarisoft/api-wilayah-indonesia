@@ -1,1 +1,67 @@
-[{"id": "5302102001", "district_id": "530210", "name": "PILLI"}, {"id": "5302102002", "district_id": "530210", "name": "FALAS"}, {"id": "5302102003", "district_id": "530210", "name": "OENAI"}, {"id": "5302102004", "district_id": "530210", "name": "BELLE"}, {"id": "5302102005", "district_id": "530210", "name": "NAPI"}, {"id": "5302102006", "district_id": "530210", "name": "BOTI"}, {"id": "5302102007", "district_id": "530210", "name": "FATUULAN"}, {"id": "5302102008", "district_id": "530210", "name": "TESIAYOFANU"}, {"id": "5302102009", "district_id": "530210", "name": "OINLASI"}, {"id": "5302102010", "district_id": "530210", "name": "NEKMESE"}, {"id": "5302102011", "district_id": "530210", "name": "ENO NAPI"}, {"id": "5302102012", "district_id": "530210", "name": "FATUKUSI"}, {"id": "5302102013", "district_id": "530210", "name": "NAILE'U"}]
+[
+  {
+    "id": "5302102001",
+    "district_id": "530210",
+    "name": "PILLI"
+  },
+  {
+    "id": "5302102002",
+    "district_id": "530210",
+    "name": "FALAS"
+  },
+  {
+    "id": "5302102003",
+    "district_id": "530210",
+    "name": "OENAI"
+  },
+  {
+    "id": "5302102004",
+    "district_id": "530210",
+    "name": "BELLE"
+  },
+  {
+    "id": "5302102005",
+    "district_id": "530210",
+    "name": "NAPI"
+  },
+  {
+    "id": "5302102006",
+    "district_id": "530210",
+    "name": "BOTI"
+  },
+  {
+    "id": "5302102007",
+    "district_id": "530210",
+    "name": "FATUULAN"
+  },
+  {
+    "id": "5302102008",
+    "district_id": "530210",
+    "name": "TESIAYOFANU"
+  },
+  {
+    "id": "5302102009",
+    "district_id": "530210",
+    "name": "OINLASI"
+  },
+  {
+    "id": "5302102010",
+    "district_id": "530210",
+    "name": "NEKMESE"
+  },
+  {
+    "id": "5302102011",
+    "district_id": "530210",
+    "name": "ENO NAPI"
+  },
+  {
+    "id": "5302102012",
+    "district_id": "530210",
+    "name": "FATUKUSI"
+  },
+  {
+    "id": "5302102013",
+    "district_id": "530210",
+    "name": "NAILE'U"
+  }
+]

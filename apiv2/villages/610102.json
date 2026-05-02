@@ -1,1 +1,127 @@
-[{"id": "6101022001", "district_id": "610102", "name": "SUNGAI KUMPAI"}, {"id": "6101022002", "district_id": "610102", "name": "SEKURA"}, {"id": "6101022003", "district_id": "610102", "name": "TRI MANDAYAN"}, {"id": "6101022004", "district_id": "610102", "name": "PEDADA"}, {"id": "6101022005", "district_id": "610102", "name": "LELA"}, {"id": "6101022006", "district_id": "610102", "name": "PURINGAN"}, {"id": "6101022007", "district_id": "610102", "name": "BERLIMANG"}, {"id": "6101022008", "district_id": "610102", "name": "SUNGAI BARU"}, {"id": "6101022009", "district_id": "610102", "name": "SENGAWANG"}, {"id": "6101022010", "district_id": "610102", "name": "TELUK KASEH"}, {"id": "6101022011", "district_id": "610102", "name": "SEPADU"}, {"id": "6101022012", "district_id": "610102", "name": "TAMBATAN"}, {"id": "6101022013", "district_id": "610102", "name": "KUBANGGA"}, {"id": "6101022020", "district_id": "610102", "name": "SUNGAI SERABEK"}, {"id": "6101022021", "district_id": "610102", "name": "SAYANG SEDAYU"}, {"id": "6101022022", "district_id": "610102", "name": "PIPIT TEJA"}, {"id": "6101022024", "district_id": "610102", "name": "MATANG SEGANTAR"}, {"id": "6101022025", "district_id": "610102", "name": "MULIA"}, {"id": "6101022026", "district_id": "610102", "name": "TELUK KEMBANG"}, {"id": "6101022027", "district_id": "610102", "name": "SAMUSTIDA"}, {"id": "6101022028", "district_id": "610102", "name": "TANJUNG KERACUT"}, {"id": "6101022029", "district_id": "610102", "name": "SEBAGU"}, {"id": "6101022030", "district_id": "610102", "name": "MEKAR SEKUNTUM"}, {"id": "6101022031", "district_id": "610102", "name": "KUALA PANGKALAN KERAMAT"}, {"id": "6101022032", "district_id": "610102", "name": "SABING"}]
+[
+  {
+    "id": "6101022001",
+    "district_id": "610102",
+    "name": "SUNGAI KUMPAI"
+  },
+  {
+    "id": "6101022002",
+    "district_id": "610102",
+    "name": "SEKURA"
+  },
+  {
+    "id": "6101022003",
+    "district_id": "610102",
+    "name": "TRI MANDAYAN"
+  },
+  {
+    "id": "6101022004",
+    "district_id": "610102",
+    "name": "PEDADA"
+  },
+  {
+    "id": "6101022005",
+    "district_id": "610102",
+    "name": "LELA"
+  },
+  {
+    "id": "6101022006",
+    "district_id": "610102",
+    "name": "PURINGAN"
+  },
+  {
+    "id": "6101022007",
+    "district_id": "610102",
+    "name": "BERLIMANG"
+  },
+  {
+    "id": "6101022008",
+    "district_id": "610102",
+    "name": "SUNGAI BARU"
+  },
+  {
+    "id": "6101022009",
+    "district_id": "610102",
+    "name": "SENGAWANG"
+  },
+  {
+    "id": "6101022010",
+    "district_id": "610102",
+    "name": "TELUK KASEH"
+  },
+  {
+    "id": "6101022011",
+    "district_id": "610102",
+    "name": "SEPADU"
+  },
+  {
+    "id": "6101022012",
+    "district_id": "610102",
+    "name": "TAMBATAN"
+  },
+  {
+    "id": "6101022013",
+    "district_id": "610102",
+    "name": "KUBANGGA"
+  },
+  {
+    "id": "6101022020",
+    "district_id": "610102",
+    "name": "SUNGAI SERABEK"
+  },
+  {
+    "id": "6101022021",
+    "district_id": "610102",
+    "name": "SAYANG SEDAYU"
+  },
+  {
+    "id": "6101022022",
+    "district_id": "610102",
+    "name": "PIPIT TEJA"
+  },
+  {
+    "id": "6101022024",
+    "district_id": "610102",
+    "name": "MATANG SEGANTAR"
+  },
+  {
+    "id": "6101022025",
+    "district_id": "610102",
+    "name": "MULIA"
+  },
+  {
+    "id": "6101022026",
+    "district_id": "610102",
+    "name": "TELUK KEMBANG"
+  },
+  {
+    "id": "6101022027",
+    "district_id": "610102",
+    "name": "SAMUSTIDA"
+  },
+  {
+    "id": "6101022028",
+    "district_id": "610102",
+    "name": "TANJUNG KERACUT"
+  },
+  {
+    "id": "6101022029",
+    "district_id": "610102",
+    "name": "SEBAGU"
+  },
+  {
+    "id": "6101022030",
+    "district_id": "610102",
+    "name": "MEKAR SEKUNTUM"
+  },
+  {
+    "id": "6101022031",
+    "district_id": "610102",
+    "name": "KUALA PANGKALAN KERAMAT"
+  },
+  {
+    "id": "6101022032",
+    "district_id": "610102",
+    "name": "SABING"
+  }
+]

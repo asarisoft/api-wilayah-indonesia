@@ -1,1 +1,117 @@
-[{"id": "6206081014", "district_id": "620608", "name": "TUMBANG SANAMANG"}, {"id": "6206082001", "district_id": "620608", "name": "KIHAM BATANG"}, {"id": "6206082002", "district_id": "620608", "name": "TUMBANG KABAYAN"}, {"id": "6206082003", "district_id": "620608", "name": "RANGAN KAWIT"}, {"id": "6206082004", "district_id": "620608", "name": "DEHES ASEM"}, {"id": "6206082005", "district_id": "620608", "name": "KULUK SAPANGI"}, {"id": "6206082006", "district_id": "620608", "name": "TUMBANG KUAI"}, {"id": "6206082007", "district_id": "620608", "name": "TUMBANG SALAMAN"}, {"id": "6206082008", "district_id": "620608", "name": "RANTAU PUKA"}, {"id": "6206082009", "district_id": "620608", "name": "RANTAU BAHAI"}, {"id": "6206082010", "district_id": "620608", "name": "RANGAN RANJING"}, {"id": "6206082011", "district_id": "620608", "name": "TUMBANG LABANING"}, {"id": "6206082012", "district_id": "620608", "name": "BATU BANGO"}, {"id": "6206082013", "district_id": "620608", "name": "TUMBANG HANGEI II"}, {"id": "6206082015", "district_id": "620608", "name": "SEI NANJAN"}, {"id": "6206082016", "district_id": "620608", "name": "TUMBANG JIGA"}, {"id": "6206082017", "district_id": "620608", "name": "TUMBANG MANGKETAI"}, {"id": "6206082019", "district_id": "620608", "name": "TUMBANG MAHOP"}, {"id": "6206082020", "district_id": "620608", "name": "TUMBANG SABETUNG"}, {"id": "6206082030", "district_id": "620608", "name": "PENDA TANGGARING LAMA"}, {"id": "6206082031", "district_id": "620608", "name": "PENDA TANGGARING BARU"}, {"id": "6206082032", "district_id": "620608", "name": "TELUK TAMPANG"}, {"id": "6206082033", "district_id": "620608", "name": "TUMBANG MANANGEI"}]
+[
+  {
+    "id": "6206081014",
+    "district_id": "620608",
+    "name": "TUMBANG SANAMANG"
+  },
+  {
+    "id": "6206082001",
+    "district_id": "620608",
+    "name": "KIHAM BATANG"
+  },
+  {
+    "id": "6206082002",
+    "district_id": "620608",
+    "name": "TUMBANG KABAYAN"
+  },
+  {
+    "id": "6206082003",
+    "district_id": "620608",
+    "name": "RANGAN KAWIT"
+  },
+  {
+    "id": "6206082004",
+    "district_id": "620608",
+    "name": "DEHES ASEM"
+  },
+  {
+    "id": "6206082005",
+    "district_id": "620608",
+    "name": "KULUK SAPANGI"
+  },
+  {
+    "id": "6206082006",
+    "district_id": "620608",
+    "name": "TUMBANG KUAI"
+  },
+  {
+    "id": "6206082007",
+    "district_id": "620608",
+    "name": "TUMBANG SALAMAN"
+  },
+  {
+    "id": "6206082008",
+    "district_id": "620608",
+    "name": "RANTAU PUKA"
+  },
+  {
+    "id": "6206082009",
+    "district_id": "620608",
+    "name": "RANTAU BAHAI"
+  },
+  {
+    "id": "6206082010",
+    "district_id": "620608",
+    "name": "RANGAN RANJING"
+  },
+  {
+    "id": "6206082011",
+    "district_id": "620608",
+    "name": "TUMBANG LABANING"
+  },
+  {
+    "id": "6206082012",
+    "district_id": "620608",
+    "name": "BATU BANGO"
+  },
+  {
+    "id": "6206082013",
+    "district_id": "620608",
+    "name": "TUMBANG HANGEI II"
+  },
+  {
+    "id": "6206082015",
+    "district_id": "620608",
+    "name": "SEI NANJAN"
+  },
+  {
+    "id": "6206082016",
+    "district_id": "620608",
+    "name": "TUMBANG JIGA"
+  },
+  {
+    "id": "6206082017",
+    "district_id": "620608",
+    "name": "TUMBANG MANGKETAI"
+  },
+  {
+    "id": "6206082019",
+    "district_id": "620608",
+    "name": "TUMBANG MAHOP"
+  },
+  {
+    "id": "6206082020",
+    "district_id": "620608",
+    "name": "TUMBANG SABETUNG"
+  },
+  {
+    "id": "6206082030",
+    "district_id": "620608",
+    "name": "PENDA TANGGARING LAMA"
+  },
+  {
+    "id": "6206082031",
+    "district_id": "620608",
+    "name": "PENDA TANGGARING BARU"
+  },
+  {
+    "id": "6206082032",
+    "district_id": "620608",
+    "name": "TELUK TAMPANG"
+  },
+  {
+    "id": "6206082033",
+    "district_id": "620608",
+    "name": "TUMBANG MANANGEI"
+  }
+]

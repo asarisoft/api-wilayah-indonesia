@@ -1,1 +1,42 @@
-[{"id": "1404201001", "district_id": "140420", "name": "BENTENG"}, {"id": "1404202002", "district_id": "140420", "name": "BENTENG UTARA"}, {"id": "1404202003", "district_id": "140420", "name": "PASENGGERAHAN"}, {"id": "1404202004", "district_id": "140420", "name": "KUALA SUNGAI BATANG"}, {"id": "1404202005", "district_id": "140420", "name": "KUALA PATAH PARANG"}, {"id": "1404202006", "district_id": "140420", "name": "BENTENG BARAT"}, {"id": "1404202007", "district_id": "140420", "name": "PANDAN SARI"}, {"id": "1404202008", "district_id": "140420", "name": "MUGO MULYO"}]
+[
+  {
+    "id": "1404201001",
+    "district_id": "140420",
+    "name": "BENTENG"
+  },
+  {
+    "id": "1404202002",
+    "district_id": "140420",
+    "name": "BENTENG UTARA"
+  },
+  {
+    "id": "1404202003",
+    "district_id": "140420",
+    "name": "PASENGGERAHAN"
+  },
+  {
+    "id": "1404202004",
+    "district_id": "140420",
+    "name": "KUALA SUNGAI BATANG"
+  },
+  {
+    "id": "1404202005",
+    "district_id": "140420",
+    "name": "KUALA PATAH PARANG"
+  },
+  {
+    "id": "1404202006",
+    "district_id": "140420",
+    "name": "BENTENG BARAT"
+  },
+  {
+    "id": "1404202007",
+    "district_id": "140420",
+    "name": "PANDAN SARI"
+  },
+  {
+    "id": "1404202008",
+    "district_id": "140420",
+    "name": "MUGO MULYO"
+  }
+]

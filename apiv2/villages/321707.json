@@ -1,1 +1,62 @@
-[{"id": "3217072001", "district_id": "321707", "name": "CIPTAHARJA"}, {"id": "3217072002", "district_id": "321707", "name": "CIPATAT"}, {"id": "3217072003", "district_id": "321707", "name": "CITATAH"}, {"id": "3217072004", "district_id": "321707", "name": "RAJAMANDALAKULON"}, {"id": "3217072005", "district_id": "321707", "name": "MANDALAWANGI"}, {"id": "3217072006", "district_id": "321707", "name": "KERTAMUKTI"}, {"id": "3217072007", "district_id": "321707", "name": "NYALINDUNG"}, {"id": "3217072008", "district_id": "321707", "name": "GUNUNGMASIGIT"}, {"id": "3217072009", "district_id": "321707", "name": "CIRAWAMEKAR"}, {"id": "3217072010", "district_id": "321707", "name": "MANDALASARI"}, {"id": "3217072011", "district_id": "321707", "name": "SUMURBANDUNG"}, {"id": "3217072012", "district_id": "321707", "name": "SARIMUKTI"}]
+[
+  {
+    "id": "3217072001",
+    "district_id": "321707",
+    "name": "CIPTAHARJA"
+  },
+  {
+    "id": "3217072002",
+    "district_id": "321707",
+    "name": "CIPATAT"
+  },
+  {
+    "id": "3217072003",
+    "district_id": "321707",
+    "name": "CITATAH"
+  },
+  {
+    "id": "3217072004",
+    "district_id": "321707",
+    "name": "RAJAMANDALAKULON"
+  },
+  {
+    "id": "3217072005",
+    "district_id": "321707",
+    "name": "MANDALAWANGI"
+  },
+  {
+    "id": "3217072006",
+    "district_id": "321707",
+    "name": "KERTAMUKTI"
+  },
+  {
+    "id": "3217072007",
+    "district_id": "321707",
+    "name": "NYALINDUNG"
+  },
+  {
+    "id": "3217072008",
+    "district_id": "321707",
+    "name": "GUNUNGMASIGIT"
+  },
+  {
+    "id": "3217072009",
+    "district_id": "321707",
+    "name": "CIRAWAMEKAR"
+  },
+  {
+    "id": "3217072010",
+    "district_id": "321707",
+    "name": "MANDALASARI"
+  },
+  {
+    "id": "3217072011",
+    "district_id": "321707",
+    "name": "SUMURBANDUNG"
+  },
+  {
+    "id": "3217072012",
+    "district_id": "321707",
+    "name": "SARIMUKTI"
+  }
+]

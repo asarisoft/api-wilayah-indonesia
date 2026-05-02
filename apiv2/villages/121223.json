@@ -1,1 +1,62 @@
-[{"id": "1212232001", "district_id": "121223", "name": "SIHIONG"}, {"id": "1212232002", "district_id": "121223", "name": "SINAR SABUNGAN"}, {"id": "1212232003", "district_id": "121223", "name": "LUMBAN LOBU"}, {"id": "1212232004", "district_id": "121223", "name": "HARUNGGUAN"}, {"id": "1212232005", "district_id": "121223", "name": "NAGA TIMBUL"}, {"id": "1212232006", "district_id": "121223", "name": "SIBADIHON"}, {"id": "1212232007", "district_id": "121223", "name": "SILAMOSIK II"}, {"id": "1212232011", "district_id": "121223", "name": "PARTORUAN LUMBAN LOBU"}, {"id": "1212232012", "district_id": "121223", "name": "PARDOLOK LUMBAN LOBU"}, {"id": "1212232013", "district_id": "121223", "name": "SILOMBU"}, {"id": "1212232014", "district_id": "121223", "name": "LUMBAN SANGKALAN"}, {"id": "1212232015", "district_id": "121223", "name": "NAGATIMBUL TIMUR"}]
+[
+  {
+    "id": "1212232001",
+    "district_id": "121223",
+    "name": "SIHIONG"
+  },
+  {
+    "id": "1212232002",
+    "district_id": "121223",
+    "name": "SINAR SABUNGAN"
+  },
+  {
+    "id": "1212232003",
+    "district_id": "121223",
+    "name": "LUMBAN LOBU"
+  },
+  {
+    "id": "1212232004",
+    "district_id": "121223",
+    "name": "HARUNGGUAN"
+  },
+  {
+    "id": "1212232005",
+    "district_id": "121223",
+    "name": "NAGA TIMBUL"
+  },
+  {
+    "id": "1212232006",
+    "district_id": "121223",
+    "name": "SIBADIHON"
+  },
+  {
+    "id": "1212232007",
+    "district_id": "121223",
+    "name": "SILAMOSIK II"
+  },
+  {
+    "id": "1212232011",
+    "district_id": "121223",
+    "name": "PARTORUAN LUMBAN LOBU"
+  },
+  {
+    "id": "1212232012",
+    "district_id": "121223",
+    "name": "PARDOLOK LUMBAN LOBU"
+  },
+  {
+    "id": "1212232013",
+    "district_id": "121223",
+    "name": "SILOMBU"
+  },
+  {
+    "id": "1212232014",
+    "district_id": "121223",
+    "name": "LUMBAN SANGKALAN"
+  },
+  {
+    "id": "1212232015",
+    "district_id": "121223",
+    "name": "NAGATIMBUL TIMUR"
+  }
+]

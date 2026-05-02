@@ -1,1 +1,47 @@
-[{"id": "9504092001", "district_id": "950409", "name": "PANAGA"}, {"id": "9504092002", "district_id": "950409", "name": "IBUNUH"}, {"id": "9504092003", "district_id": "950409", "name": "SAKSI MALER"}, {"id": "9504092004", "district_id": "950409", "name": "KUTIOM"}, {"id": "9504092005", "district_id": "950409", "name": "ERAGANI"}, {"id": "9504092006", "district_id": "950409", "name": "PINDANGGUN"}, {"id": "9504092007", "district_id": "950409", "name": "SIAK"}, {"id": "9504092008", "district_id": "950409", "name": "YANDONO"}, {"id": "9504092009", "district_id": "950409", "name": "PAIDO"}]
+[
+  {
+    "id": "9504092001",
+    "district_id": "950409",
+    "name": "PANAGA"
+  },
+  {
+    "id": "9504092002",
+    "district_id": "950409",
+    "name": "IBUNUH"
+  },
+  {
+    "id": "9504092003",
+    "district_id": "950409",
+    "name": "SAKSI MALER"
+  },
+  {
+    "id": "9504092004",
+    "district_id": "950409",
+    "name": "KUTIOM"
+  },
+  {
+    "id": "9504092005",
+    "district_id": "950409",
+    "name": "ERAGANI"
+  },
+  {
+    "id": "9504092006",
+    "district_id": "950409",
+    "name": "PINDANGGUN"
+  },
+  {
+    "id": "9504092007",
+    "district_id": "950409",
+    "name": "SIAK"
+  },
+  {
+    "id": "9504092008",
+    "district_id": "950409",
+    "name": "YANDONO"
+  },
+  {
+    "id": "9504092009",
+    "district_id": "950409",
+    "name": "PAIDO"
+  }
+]

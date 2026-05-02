@@ -1,1 +1,62 @@
-[{"id": "5208042001", "district_id": "520804", "name": "BAYAN"}, {"id": "5208042002", "district_id": "520804", "name": "LOLOAN"}, {"id": "5208042003", "district_id": "520804", "name": "ANYAR"}, {"id": "5208042004", "district_id": "520804", "name": "SUKADANA"}, {"id": "5208042005", "district_id": "520804", "name": "AKAR AKAR"}, {"id": "5208042006", "district_id": "520804", "name": "SENARU"}, {"id": "5208042007", "district_id": "520804", "name": "MUMBUL SARI"}, {"id": "5208042008", "district_id": "520804", "name": "SAMBIK ELEN"}, {"id": "5208042009", "district_id": "520804", "name": "KARANG BAJO"}, {"id": "5208042010", "district_id": "520804", "name": "GUNJAN ASRI"}, {"id": "5208042011", "district_id": "520804", "name": "ANDALAN"}, {"id": "5208042012", "district_id": "520804", "name": "BATU RAKIT"}]
+[
+  {
+    "id": "5208042001",
+    "district_id": "520804",
+    "name": "BAYAN"
+  },
+  {
+    "id": "5208042002",
+    "district_id": "520804",
+    "name": "LOLOAN"
+  },
+  {
+    "id": "5208042003",
+    "district_id": "520804",
+    "name": "ANYAR"
+  },
+  {
+    "id": "5208042004",
+    "district_id": "520804",
+    "name": "SUKADANA"
+  },
+  {
+    "id": "5208042005",
+    "district_id": "520804",
+    "name": "AKAR AKAR"
+  },
+  {
+    "id": "5208042006",
+    "district_id": "520804",
+    "name": "SENARU"
+  },
+  {
+    "id": "5208042007",
+    "district_id": "520804",
+    "name": "MUMBUL SARI"
+  },
+  {
+    "id": "5208042008",
+    "district_id": "520804",
+    "name": "SAMBIK ELEN"
+  },
+  {
+    "id": "5208042009",
+    "district_id": "520804",
+    "name": "KARANG BAJO"
+  },
+  {
+    "id": "5208042010",
+    "district_id": "520804",
+    "name": "GUNJAN ASRI"
+  },
+  {
+    "id": "5208042011",
+    "district_id": "520804",
+    "name": "ANDALAN"
+  },
+  {
+    "id": "5208042012",
+    "district_id": "520804",
+    "name": "BATU RAKIT"
+  }
+]

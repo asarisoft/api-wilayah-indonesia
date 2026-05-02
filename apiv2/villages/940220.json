@@ -1,1 +1,82 @@
-[{"id": "9402202001", "district_id": "940220", "name": "AMBERIAMBUT"}, {"id": "9402202002", "district_id": "940220", "name": "KOBARAK"}, {"id": "9402202003", "district_id": "940220", "name": "WUGIWAGI"}, {"id": "9402202004", "district_id": "940220", "name": "YAGALUK"}, {"id": "9402202005", "district_id": "940220", "name": "MOULO"}, {"id": "9402202006", "district_id": "940220", "name": "JIMBANIME"}, {"id": "9402202007", "district_id": "940220", "name": "JIGULUK"}, {"id": "9402202008", "district_id": "940220", "name": "YAMONERI"}, {"id": "9402202009", "district_id": "940220", "name": "GUMAWI"}, {"id": "9402202010", "district_id": "940220", "name": "DIGOLOME"}, {"id": "9402202011", "district_id": "940220", "name": "BUNUME"}, {"id": "9402202012", "district_id": "940220", "name": "NGGINIGUM"}, {"id": "9402202013", "district_id": "940220", "name": "JIMBENERI"}, {"id": "9402202014", "district_id": "940220", "name": "JIGELO"}, {"id": "9402202015", "district_id": "940220", "name": "PIYAPIGI"}, {"id": "9402202016", "district_id": "940220", "name": "JIBONOK"}]
+[
+  {
+    "id": "9402202001",
+    "district_id": "940220",
+    "name": "AMBERIAMBUT"
+  },
+  {
+    "id": "9402202002",
+    "district_id": "940220",
+    "name": "KOBARAK"
+  },
+  {
+    "id": "9402202003",
+    "district_id": "940220",
+    "name": "WUGIWAGI"
+  },
+  {
+    "id": "9402202004",
+    "district_id": "940220",
+    "name": "YAGALUK"
+  },
+  {
+    "id": "9402202005",
+    "district_id": "940220",
+    "name": "MOULO"
+  },
+  {
+    "id": "9402202006",
+    "district_id": "940220",
+    "name": "JIMBANIME"
+  },
+  {
+    "id": "9402202007",
+    "district_id": "940220",
+    "name": "JIGULUK"
+  },
+  {
+    "id": "9402202008",
+    "district_id": "940220",
+    "name": "YAMONERI"
+  },
+  {
+    "id": "9402202009",
+    "district_id": "940220",
+    "name": "GUMAWI"
+  },
+  {
+    "id": "9402202010",
+    "district_id": "940220",
+    "name": "DIGOLOME"
+  },
+  {
+    "id": "9402202011",
+    "district_id": "940220",
+    "name": "BUNUME"
+  },
+  {
+    "id": "9402202012",
+    "district_id": "940220",
+    "name": "NGGINIGUM"
+  },
+  {
+    "id": "9402202013",
+    "district_id": "940220",
+    "name": "JIMBENERI"
+  },
+  {
+    "id": "9402202014",
+    "district_id": "940220",
+    "name": "JIGELO"
+  },
+  {
+    "id": "9402202015",
+    "district_id": "940220",
+    "name": "PIYAPIGI"
+  },
+  {
+    "id": "9402202016",
+    "district_id": "940220",
+    "name": "JIBONOK"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "7324012001", "district_id": "732401", "name": "MALEKU"}, {"id": "7324012002", "district_id": "732401", "name": "WONOREJO"}, {"id": "7324012003", "district_id": "732401", "name": "MARGOLEMBO"}, {"id": "7324012004", "district_id": "732401", "name": "TEROMU"}, {"id": "7324012007", "district_id": "732401", "name": "MANGGALA"}, {"id": "7324012009", "district_id": "732401", "name": "KASINTUWU"}, {"id": "7324012011", "district_id": "732401", "name": "BALAI KEMBANG"}, {"id": "7324012013", "district_id": "732401", "name": "PANCA KARSA"}, {"id": "7324012014", "district_id": "732401", "name": "SINDU AGUNG"}, {"id": "7324012015", "district_id": "732401", "name": "WONOREJO TIMUR"}, {"id": "7324012016", "district_id": "732401", "name": "KORONCIA"}]
+[
+  {
+    "id": "7324012001",
+    "district_id": "732401",
+    "name": "MALEKU"
+  },
+  {
+    "id": "7324012002",
+    "district_id": "732401",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "7324012003",
+    "district_id": "732401",
+    "name": "MARGOLEMBO"
+  },
+  {
+    "id": "7324012004",
+    "district_id": "732401",
+    "name": "TEROMU"
+  },
+  {
+    "id": "7324012007",
+    "district_id": "732401",
+    "name": "MANGGALA"
+  },
+  {
+    "id": "7324012009",
+    "district_id": "732401",
+    "name": "KASINTUWU"
+  },
+  {
+    "id": "7324012011",
+    "district_id": "732401",
+    "name": "BALAI KEMBANG"
+  },
+  {
+    "id": "7324012013",
+    "district_id": "732401",
+    "name": "PANCA KARSA"
+  },
+  {
+    "id": "7324012014",
+    "district_id": "732401",
+    "name": "SINDU AGUNG"
+  },
+  {
+    "id": "7324012015",
+    "district_id": "732401",
+    "name": "WONOREJO TIMUR"
+  },
+  {
+    "id": "7324012016",
+    "district_id": "732401",
+    "name": "KORONCIA"
+  }
+]

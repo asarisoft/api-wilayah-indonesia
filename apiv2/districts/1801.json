@@ -1,1 +1,87 @@
-[{"id": "180104", "regency_id": "1801", "name": "NATAR"}, {"id": "180105", "regency_id": "1801", "name": "TANJUNG BINTANG"}, {"id": "180106", "regency_id": "1801", "name": "KALIANDA"}, {"id": "180107", "regency_id": "1801", "name": "SIDOMULYO"}, {"id": "180108", "regency_id": "1801", "name": "KATIBUNG"}, {"id": "180109", "regency_id": "1801", "name": "PENENGAHAN"}, {"id": "180110", "regency_id": "1801", "name": "PALAS"}, {"id": "180113", "regency_id": "1801", "name": "JATI AGUNG"}, {"id": "180114", "regency_id": "1801", "name": "KETAPANG"}, {"id": "180115", "regency_id": "1801", "name": "SRAGI"}, {"id": "180116", "regency_id": "1801", "name": "RAJA BASA"}, {"id": "180117", "regency_id": "1801", "name": "CANDIPURO"}, {"id": "180118", "regency_id": "1801", "name": "MERBAU MATARAM"}, {"id": "180121", "regency_id": "1801", "name": "BAKAUHENI"}, {"id": "180122", "regency_id": "1801", "name": "TANJUNG SARI"}, {"id": "180123", "regency_id": "1801", "name": "WAY SULAN"}, {"id": "180124", "regency_id": "1801", "name": "WAY PANJI"}]
+[
+  {
+    "id": "180104",
+    "regency_id": "1801",
+    "name": "NATAR"
+  },
+  {
+    "id": "180105",
+    "regency_id": "1801",
+    "name": "TANJUNG BINTANG"
+  },
+  {
+    "id": "180106",
+    "regency_id": "1801",
+    "name": "KALIANDA"
+  },
+  {
+    "id": "180107",
+    "regency_id": "1801",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "180108",
+    "regency_id": "1801",
+    "name": "KATIBUNG"
+  },
+  {
+    "id": "180109",
+    "regency_id": "1801",
+    "name": "PENENGAHAN"
+  },
+  {
+    "id": "180110",
+    "regency_id": "1801",
+    "name": "PALAS"
+  },
+  {
+    "id": "180113",
+    "regency_id": "1801",
+    "name": "JATI AGUNG"
+  },
+  {
+    "id": "180114",
+    "regency_id": "1801",
+    "name": "KETAPANG"
+  },
+  {
+    "id": "180115",
+    "regency_id": "1801",
+    "name": "SRAGI"
+  },
+  {
+    "id": "180116",
+    "regency_id": "1801",
+    "name": "RAJA BASA"
+  },
+  {
+    "id": "180117",
+    "regency_id": "1801",
+    "name": "CANDIPURO"
+  },
+  {
+    "id": "180118",
+    "regency_id": "1801",
+    "name": "MERBAU MATARAM"
+  },
+  {
+    "id": "180121",
+    "regency_id": "1801",
+    "name": "BAKAUHENI"
+  },
+  {
+    "id": "180122",
+    "regency_id": "1801",
+    "name": "TANJUNG SARI"
+  },
+  {
+    "id": "180123",
+    "regency_id": "1801",
+    "name": "WAY SULAN"
+  },
+  {
+    "id": "180124",
+    "regency_id": "1801",
+    "name": "WAY PANJI"
+  }
+]

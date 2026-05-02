@@ -1,1 +1,97 @@
-[{"id": "3516081004", "district_id": "351608", "name": "KAUMAN"}, {"id": "3516081005", "district_id": "351608", "name": "SARIREJO"}, {"id": "3516081006", "district_id": "351608", "name": "SAWAHAN"}, {"id": "3516081007", "district_id": "351608", "name": "MOJOSARI"}, {"id": "3516081008", "district_id": "351608", "name": "WONOKUSUMO"}, {"id": "3516082001", "district_id": "351608", "name": "SUMBERTANGGUL"}, {"id": "3516082002", "district_id": "351608", "name": "BELAHANTENGAH"}, {"id": "3516082003", "district_id": "351608", "name": "AWANG-AWANG"}, {"id": "3516082009", "district_id": "351608", "name": "SEDURI"}, {"id": "3516082010", "district_id": "351608", "name": "MOJOSULUR"}, {"id": "3516082011", "district_id": "351608", "name": "RANDUBANGO"}, {"id": "3516082012", "district_id": "351608", "name": "JOTANGAN"}, {"id": "3516082013", "district_id": "351608", "name": "MENANGGAL"}, {"id": "3516082014", "district_id": "351608", "name": "PEKUKUHAN"}, {"id": "3516082015", "district_id": "351608", "name": "MODOPURO"}, {"id": "3516082016", "district_id": "351608", "name": "KEBONDALEM"}, {"id": "3516082017", "district_id": "351608", "name": "KEDUNGGEMPOL"}, {"id": "3516082018", "district_id": "351608", "name": "NGIMBANGAN"}, {"id": "3516082019", "district_id": "351608", "name": "LEMINGGIR"}]
+[
+  {
+    "id": "3516081004",
+    "district_id": "351608",
+    "name": "KAUMAN"
+  },
+  {
+    "id": "3516081005",
+    "district_id": "351608",
+    "name": "SARIREJO"
+  },
+  {
+    "id": "3516081006",
+    "district_id": "351608",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "3516081007",
+    "district_id": "351608",
+    "name": "MOJOSARI"
+  },
+  {
+    "id": "3516081008",
+    "district_id": "351608",
+    "name": "WONOKUSUMO"
+  },
+  {
+    "id": "3516082001",
+    "district_id": "351608",
+    "name": "SUMBERTANGGUL"
+  },
+  {
+    "id": "3516082002",
+    "district_id": "351608",
+    "name": "BELAHANTENGAH"
+  },
+  {
+    "id": "3516082003",
+    "district_id": "351608",
+    "name": "AWANG-AWANG"
+  },
+  {
+    "id": "3516082009",
+    "district_id": "351608",
+    "name": "SEDURI"
+  },
+  {
+    "id": "3516082010",
+    "district_id": "351608",
+    "name": "MOJOSULUR"
+  },
+  {
+    "id": "3516082011",
+    "district_id": "351608",
+    "name": "RANDUBANGO"
+  },
+  {
+    "id": "3516082012",
+    "district_id": "351608",
+    "name": "JOTANGAN"
+  },
+  {
+    "id": "3516082013",
+    "district_id": "351608",
+    "name": "MENANGGAL"
+  },
+  {
+    "id": "3516082014",
+    "district_id": "351608",
+    "name": "PEKUKUHAN"
+  },
+  {
+    "id": "3516082015",
+    "district_id": "351608",
+    "name": "MODOPURO"
+  },
+  {
+    "id": "3516082016",
+    "district_id": "351608",
+    "name": "KEBONDALEM"
+  },
+  {
+    "id": "3516082017",
+    "district_id": "351608",
+    "name": "KEDUNGGEMPOL"
+  },
+  {
+    "id": "3516082018",
+    "district_id": "351608",
+    "name": "NGIMBANGAN"
+  },
+  {
+    "id": "3516082019",
+    "district_id": "351608",
+    "name": "LEMINGGIR"
+  }
+]

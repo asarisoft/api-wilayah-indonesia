@@ -1,1 +1,22 @@
-[{"id": "9301202001", "district_id": "930120", "name": "WANAM"}, {"id": "9301202002", "district_id": "930120", "name": "BIBIKEM"}, {"id": "9301202003", "district_id": "930120", "name": "WOGEKEL"}, {"id": "9301202004", "district_id": "930120", "name": "ULI ULI"}]
+[
+  {
+    "id": "9301202001",
+    "district_id": "930120",
+    "name": "WANAM"
+  },
+  {
+    "id": "9301202002",
+    "district_id": "930120",
+    "name": "BIBIKEM"
+  },
+  {
+    "id": "9301202003",
+    "district_id": "930120",
+    "name": "WOGEKEL"
+  },
+  {
+    "id": "9301202004",
+    "district_id": "930120",
+    "name": "ULI ULI"
+  }
+]

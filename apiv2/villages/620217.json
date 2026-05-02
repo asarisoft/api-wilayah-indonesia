@@ -1,1 +1,92 @@
-[{"id": "6202172001", "district_id": "620217", "name": "TUMBANG BOLOI"}, {"id": "6202172002", "district_id": "620217", "name": "LUWUK KOWAN"}, {"id": "6202172003", "district_id": "620217", "name": "RANTAU TAMPANG"}, {"id": "6202172004", "district_id": "620217", "name": "TUMBANG MANGKUP"}, {"id": "6202172005", "district_id": "620217", "name": "RANTAU KATANG"}, {"id": "6202172006", "district_id": "620217", "name": "TUMBANG SANGAI"}, {"id": "6202172007", "district_id": "620217", "name": "TUKANG LANGIT"}, {"id": "6202172008", "district_id": "620217", "name": "BERINGIN AGUNG"}, {"id": "6202172009", "district_id": "620217", "name": "AGUNG MULYA"}, {"id": "6202172010", "district_id": "620217", "name": "BATU AGUNG"}, {"id": "6202172011", "district_id": "620217", "name": "BUKIT INDAH"}, {"id": "6202172012", "district_id": "620217", "name": "TUMBANG PUAN"}, {"id": "6202172013", "district_id": "620217", "name": "RANTAU SUANG"}, {"id": "6202172014", "district_id": "620217", "name": "RANTAU SAWANG"}, {"id": "6202172015", "district_id": "620217", "name": "TANJUNG HARAPAN"}, {"id": "6202172016", "district_id": "620217", "name": "BUANA MUSTIKA"}, {"id": "6202172017", "district_id": "620217", "name": "TRI BUANA"}, {"id": "6202172018", "district_id": "620217", "name": "TUMBANG BAJANEI"}]
+[
+  {
+    "id": "6202172001",
+    "district_id": "620217",
+    "name": "TUMBANG BOLOI"
+  },
+  {
+    "id": "6202172002",
+    "district_id": "620217",
+    "name": "LUWUK KOWAN"
+  },
+  {
+    "id": "6202172003",
+    "district_id": "620217",
+    "name": "RANTAU TAMPANG"
+  },
+  {
+    "id": "6202172004",
+    "district_id": "620217",
+    "name": "TUMBANG MANGKUP"
+  },
+  {
+    "id": "6202172005",
+    "district_id": "620217",
+    "name": "RANTAU KATANG"
+  },
+  {
+    "id": "6202172006",
+    "district_id": "620217",
+    "name": "TUMBANG SANGAI"
+  },
+  {
+    "id": "6202172007",
+    "district_id": "620217",
+    "name": "TUKANG LANGIT"
+  },
+  {
+    "id": "6202172008",
+    "district_id": "620217",
+    "name": "BERINGIN AGUNG"
+  },
+  {
+    "id": "6202172009",
+    "district_id": "620217",
+    "name": "AGUNG MULYA"
+  },
+  {
+    "id": "6202172010",
+    "district_id": "620217",
+    "name": "BATU AGUNG"
+  },
+  {
+    "id": "6202172011",
+    "district_id": "620217",
+    "name": "BUKIT INDAH"
+  },
+  {
+    "id": "6202172012",
+    "district_id": "620217",
+    "name": "TUMBANG PUAN"
+  },
+  {
+    "id": "6202172013",
+    "district_id": "620217",
+    "name": "RANTAU SUANG"
+  },
+  {
+    "id": "6202172014",
+    "district_id": "620217",
+    "name": "RANTAU SAWANG"
+  },
+  {
+    "id": "6202172015",
+    "district_id": "620217",
+    "name": "TANJUNG HARAPAN"
+  },
+  {
+    "id": "6202172016",
+    "district_id": "620217",
+    "name": "BUANA MUSTIKA"
+  },
+  {
+    "id": "6202172017",
+    "district_id": "620217",
+    "name": "TRI BUANA"
+  },
+  {
+    "id": "6202172018",
+    "district_id": "620217",
+    "name": "TUMBANG BAJANEI"
+  }
+]

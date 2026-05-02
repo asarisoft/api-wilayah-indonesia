@@ -1,1 +1,37 @@
-[{"id": "9502342001", "district_id": "950234", "name": "NONGME"}, {"id": "9502342002", "district_id": "950234", "name": "RUBOL"}, {"id": "9502342003", "district_id": "950234", "name": "YOKOM"}, {"id": "9502342004", "district_id": "950234", "name": "YARIGON"}, {"id": "9502342005", "district_id": "950234", "name": "OMTAMUR"}, {"id": "9502342006", "district_id": "950234", "name": "CANGPALLY"}, {"id": "9502342007", "district_id": "950234", "name": "KWARBAN"}]
+[
+  {
+    "id": "9502342001",
+    "district_id": "950234",
+    "name": "NONGME"
+  },
+  {
+    "id": "9502342002",
+    "district_id": "950234",
+    "name": "RUBOL"
+  },
+  {
+    "id": "9502342003",
+    "district_id": "950234",
+    "name": "YOKOM"
+  },
+  {
+    "id": "9502342004",
+    "district_id": "950234",
+    "name": "YARIGON"
+  },
+  {
+    "id": "9502342005",
+    "district_id": "950234",
+    "name": "OMTAMUR"
+  },
+  {
+    "id": "9502342006",
+    "district_id": "950234",
+    "name": "CANGPALLY"
+  },
+  {
+    "id": "9502342007",
+    "district_id": "950234",
+    "name": "KWARBAN"
+  }
+]

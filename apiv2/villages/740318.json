@@ -1,1 +1,47 @@
-[{"id": "7403182001", "district_id": "740318", "name": "LIANGKOBORI"}, {"id": "7403182002", "district_id": "740318", "name": "MABOLU"}, {"id": "7403182003", "district_id": "740318", "name": "KONDONGIA"}, {"id": "7403182004", "district_id": "740318", "name": "WAARA"}, {"id": "7403182005", "district_id": "740318", "name": "MANTOBUA"}, {"id": "7403182006", "district_id": "740318", "name": "LOGHIYA"}, {"id": "7403182007", "district_id": "740318", "name": "LOHIA"}, {"id": "7403182008", "district_id": "740318", "name": "KORIHI"}, {"id": "7403182009", "district_id": "740318", "name": "LAKARINTA"}]
+[
+  {
+    "id": "7403182001",
+    "district_id": "740318",
+    "name": "LIANGKOBORI"
+  },
+  {
+    "id": "7403182002",
+    "district_id": "740318",
+    "name": "MABOLU"
+  },
+  {
+    "id": "7403182003",
+    "district_id": "740318",
+    "name": "KONDONGIA"
+  },
+  {
+    "id": "7403182004",
+    "district_id": "740318",
+    "name": "WAARA"
+  },
+  {
+    "id": "7403182005",
+    "district_id": "740318",
+    "name": "MANTOBUA"
+  },
+  {
+    "id": "7403182006",
+    "district_id": "740318",
+    "name": "LOGHIYA"
+  },
+  {
+    "id": "7403182007",
+    "district_id": "740318",
+    "name": "LOHIA"
+  },
+  {
+    "id": "7403182008",
+    "district_id": "740318",
+    "name": "KORIHI"
+  },
+  {
+    "id": "7403182009",
+    "district_id": "740318",
+    "name": "LAKARINTA"
+  }
+]

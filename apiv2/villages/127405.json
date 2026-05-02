@@ -1,1 +1,27 @@
-[{"id": "1274051003", "district_id": "127405", "name": "GADING"}, {"id": "1274051004", "district_id": "127405", "name": "SIRANTAU"}, {"id": "1274051005", "district_id": "127405", "name": "SIJAMBI"}, {"id": "1274051006", "district_id": "127405", "name": "PAHANG"}, {"id": "1274051010", "district_id": "127405", "name": "PANTAI JOHOR"}]
+[
+  {
+    "id": "1274051003",
+    "district_id": "127405",
+    "name": "GADING"
+  },
+  {
+    "id": "1274051004",
+    "district_id": "127405",
+    "name": "SIRANTAU"
+  },
+  {
+    "id": "1274051005",
+    "district_id": "127405",
+    "name": "SIJAMBI"
+  },
+  {
+    "id": "1274051006",
+    "district_id": "127405",
+    "name": "PAHANG"
+  },
+  {
+    "id": "1274051010",
+    "district_id": "127405",
+    "name": "PANTAI JOHOR"
+  }
+]

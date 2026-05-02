@@ -1,1 +1,62 @@
-[{"id": "6210041001", "district_id": "621004", "name": "TUMBANG MIRI"}, {"id": "6210042002", "district_id": "621004", "name": "BATU TANGKOI"}, {"id": "6210042005", "district_id": "621004", "name": "PENDA RANGAS"}, {"id": "6210042006", "district_id": "621004", "name": "TUMBANG SIAN"}, {"id": "6210042008", "district_id": "621004", "name": "TUMBANG PASANGON"}, {"id": "6210042012", "district_id": "621004", "name": "TUMBANG KORIK"}, {"id": "6210042014", "district_id": "621004", "name": "TUMBANG PONYOI"}, {"id": "6210042019", "district_id": "621004", "name": "DANDANG"}, {"id": "6210042020", "district_id": "621004", "name": "TUMBANG HAMPUTUNG"}, {"id": "6210042021", "district_id": "621004", "name": "TUMBANG TAJUNGAN"}, {"id": "6210042028", "district_id": "621004", "name": "TUMBANG TAKAOI"}, {"id": "6210042029", "district_id": "621004", "name": "TELUK KANDURI"}]
+[
+  {
+    "id": "6210041001",
+    "district_id": "621004",
+    "name": "TUMBANG MIRI"
+  },
+  {
+    "id": "6210042002",
+    "district_id": "621004",
+    "name": "BATU TANGKOI"
+  },
+  {
+    "id": "6210042005",
+    "district_id": "621004",
+    "name": "PENDA RANGAS"
+  },
+  {
+    "id": "6210042006",
+    "district_id": "621004",
+    "name": "TUMBANG SIAN"
+  },
+  {
+    "id": "6210042008",
+    "district_id": "621004",
+    "name": "TUMBANG PASANGON"
+  },
+  {
+    "id": "6210042012",
+    "district_id": "621004",
+    "name": "TUMBANG KORIK"
+  },
+  {
+    "id": "6210042014",
+    "district_id": "621004",
+    "name": "TUMBANG PONYOI"
+  },
+  {
+    "id": "6210042019",
+    "district_id": "621004",
+    "name": "DANDANG"
+  },
+  {
+    "id": "6210042020",
+    "district_id": "621004",
+    "name": "TUMBANG HAMPUTUNG"
+  },
+  {
+    "id": "6210042021",
+    "district_id": "621004",
+    "name": "TUMBANG TAJUNGAN"
+  },
+  {
+    "id": "6210042028",
+    "district_id": "621004",
+    "name": "TUMBANG TAKAOI"
+  },
+  {
+    "id": "6210042029",
+    "district_id": "621004",
+    "name": "TELUK KANDURI"
+  }
+]

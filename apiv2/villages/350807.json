@@ -1,1 +1,62 @@
-[{"id": "3508072001", "district_id": "350807", "name": "DARUNGAN"}, {"id": "3508072002", "district_id": "350807", "name": "KRATON"}, {"id": "3508072003", "district_id": "350807", "name": "WOTGALIH"}, {"id": "3508072004", "district_id": "350807", "name": "TUNJUNGREJO"}, {"id": "3508072005", "district_id": "350807", "name": "YOSOWILANGUN KIDUL"}, {"id": "3508072006", "district_id": "350807", "name": "YOSOWILANGUN LOR"}, {"id": "3508072007", "district_id": "350807", "name": "KRAI"}, {"id": "3508072008", "district_id": "350807", "name": "KARANGANYAR"}, {"id": "3508072009", "district_id": "350807", "name": "KARANGREJO"}, {"id": "3508072010", "district_id": "350807", "name": "MUNDER"}, {"id": "3508072011", "district_id": "350807", "name": "KEBONSARI"}, {"id": "3508072012", "district_id": "350807", "name": "KALIPEPE"}]
+[
+  {
+    "id": "3508072001",
+    "district_id": "350807",
+    "name": "DARUNGAN"
+  },
+  {
+    "id": "3508072002",
+    "district_id": "350807",
+    "name": "KRATON"
+  },
+  {
+    "id": "3508072003",
+    "district_id": "350807",
+    "name": "WOTGALIH"
+  },
+  {
+    "id": "3508072004",
+    "district_id": "350807",
+    "name": "TUNJUNGREJO"
+  },
+  {
+    "id": "3508072005",
+    "district_id": "350807",
+    "name": "YOSOWILANGUN KIDUL"
+  },
+  {
+    "id": "3508072006",
+    "district_id": "350807",
+    "name": "YOSOWILANGUN LOR"
+  },
+  {
+    "id": "3508072007",
+    "district_id": "350807",
+    "name": "KRAI"
+  },
+  {
+    "id": "3508072008",
+    "district_id": "350807",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3508072009",
+    "district_id": "350807",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3508072010",
+    "district_id": "350807",
+    "name": "MUNDER"
+  },
+  {
+    "id": "3508072011",
+    "district_id": "350807",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3508072012",
+    "district_id": "350807",
+    "name": "KALIPEPE"
+  }
+]

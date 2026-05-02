@@ -1,1 +1,52 @@
-[{"id": "1505112001", "district_id": "150511", "name": "KUNANGAN"}, {"id": "1505112002", "district_id": "150511", "name": "TALANG DUKU"}, {"id": "1505112003", "district_id": "150511", "name": "TEBAT PATAH"}, {"id": "1505112004", "district_id": "150511", "name": "KEMINGKING DALAM"}, {"id": "1505112005", "district_id": "150511", "name": "TELUK JAMBU"}, {"id": "1505112006", "district_id": "150511", "name": "DUSUN MUDO"}, {"id": "1505112007", "district_id": "150511", "name": "SEKUMBUNG"}, {"id": "1505112008", "district_id": "150511", "name": "KEMINGKING LUAR"}, {"id": "1505112009", "district_id": "150511", "name": "RUKAM"}, {"id": "1505112010", "district_id": "150511", "name": "MANIS MATO"}]
+[
+  {
+    "id": "1505112001",
+    "district_id": "150511",
+    "name": "KUNANGAN"
+  },
+  {
+    "id": "1505112002",
+    "district_id": "150511",
+    "name": "TALANG DUKU"
+  },
+  {
+    "id": "1505112003",
+    "district_id": "150511",
+    "name": "TEBAT PATAH"
+  },
+  {
+    "id": "1505112004",
+    "district_id": "150511",
+    "name": "KEMINGKING DALAM"
+  },
+  {
+    "id": "1505112005",
+    "district_id": "150511",
+    "name": "TELUK JAMBU"
+  },
+  {
+    "id": "1505112006",
+    "district_id": "150511",
+    "name": "DUSUN MUDO"
+  },
+  {
+    "id": "1505112007",
+    "district_id": "150511",
+    "name": "SEKUMBUNG"
+  },
+  {
+    "id": "1505112008",
+    "district_id": "150511",
+    "name": "KEMINGKING LUAR"
+  },
+  {
+    "id": "1505112009",
+    "district_id": "150511",
+    "name": "RUKAM"
+  },
+  {
+    "id": "1505112010",
+    "district_id": "150511",
+    "name": "MANIS MATO"
+  }
+]

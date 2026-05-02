@@ -1,1 +1,67 @@
-[{"id": "5312151001", "district_id": "531215", "name": "WAILIANG"}, {"id": "5312151002", "district_id": "531215", "name": "KOMERDA"}, {"id": "5312151003", "district_id": "531215", "name": "KAMPUNG BARU"}, {"id": "5312151004", "district_id": "531215", "name": "KAMPUNG SAWAH"}, {"id": "5312151008", "district_id": "531215", "name": "PADA EWETA"}, {"id": "5312151009", "district_id": "531215", "name": "MALITI"}, {"id": "5312152005", "district_id": "531215", "name": "KODAKA"}, {"id": "5312152006", "district_id": "531215", "name": "TEBARA"}, {"id": "5312152007", "district_id": "531215", "name": "KALEMBU KUNI"}, {"id": "5312152010", "district_id": "531215", "name": "SOBA RADE"}, {"id": "5312152011", "district_id": "531215", "name": "LAPALE"}, {"id": "5312152012", "district_id": "531215", "name": "MODU WAIMARINGU"}, {"id": "5312152013", "district_id": "531215", "name": "PUU MAWO"}]
+[
+  {
+    "id": "5312151001",
+    "district_id": "531215",
+    "name": "WAILIANG"
+  },
+  {
+    "id": "5312151002",
+    "district_id": "531215",
+    "name": "KOMERDA"
+  },
+  {
+    "id": "5312151003",
+    "district_id": "531215",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "5312151004",
+    "district_id": "531215",
+    "name": "KAMPUNG SAWAH"
+  },
+  {
+    "id": "5312151008",
+    "district_id": "531215",
+    "name": "PADA EWETA"
+  },
+  {
+    "id": "5312151009",
+    "district_id": "531215",
+    "name": "MALITI"
+  },
+  {
+    "id": "5312152005",
+    "district_id": "531215",
+    "name": "KODAKA"
+  },
+  {
+    "id": "5312152006",
+    "district_id": "531215",
+    "name": "TEBARA"
+  },
+  {
+    "id": "5312152007",
+    "district_id": "531215",
+    "name": "KALEMBU KUNI"
+  },
+  {
+    "id": "5312152010",
+    "district_id": "531215",
+    "name": "SOBA RADE"
+  },
+  {
+    "id": "5312152011",
+    "district_id": "531215",
+    "name": "LAPALE"
+  },
+  {
+    "id": "5312152012",
+    "district_id": "531215",
+    "name": "MODU WAIMARINGU"
+  },
+  {
+    "id": "5312152013",
+    "district_id": "531215",
+    "name": "PUU MAWO"
+  }
+]

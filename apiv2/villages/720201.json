@@ -1,1 +1,37 @@
-[{"id": "7202011001", "district_id": "720201", "name": "MOENGKO LAMA"}, {"id": "7202011002", "district_id": "720201", "name": "MOENGKO BARU"}, {"id": "7202011003", "district_id": "720201", "name": "KAYAMANYA"}, {"id": "7202011007", "district_id": "720201", "name": "GEBANGREJO"}, {"id": "7202011016", "district_id": "720201", "name": "GEBANGREJO TIMUR"}, {"id": "7202011017", "district_id": "720201", "name": "GEBANGREJO BARAT"}, {"id": "7202011018", "district_id": "720201", "name": "KAYAMANYA SENTRAL"}]
+[
+  {
+    "id": "7202011001",
+    "district_id": "720201",
+    "name": "MOENGKO LAMA"
+  },
+  {
+    "id": "7202011002",
+    "district_id": "720201",
+    "name": "MOENGKO BARU"
+  },
+  {
+    "id": "7202011003",
+    "district_id": "720201",
+    "name": "KAYAMANYA"
+  },
+  {
+    "id": "7202011007",
+    "district_id": "720201",
+    "name": "GEBANGREJO"
+  },
+  {
+    "id": "7202011016",
+    "district_id": "720201",
+    "name": "GEBANGREJO TIMUR"
+  },
+  {
+    "id": "7202011017",
+    "district_id": "720201",
+    "name": "GEBANGREJO BARAT"
+  },
+  {
+    "id": "7202011018",
+    "district_id": "720201",
+    "name": "KAYAMANYA SENTRAL"
+  }
+]

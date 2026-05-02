@@ -1,1 +1,87 @@
-[{"id": "3514052001", "district_id": "351405", "name": "NGANTUNGAN"}, {"id": "3514052002", "district_id": "351405", "name": "GALIH"}, {"id": "3514052003", "district_id": "351405", "name": "PETUNG"}, {"id": "3514052004", "district_id": "351405", "name": "KLAKAH"}, {"id": "3514052005", "district_id": "351405", "name": "SIBON"}, {"id": "3514052006", "district_id": "351405", "name": "MANGGUAN"}, {"id": "3514052007", "district_id": "351405", "name": "AMPELSARI"}, {"id": "3514052008", "district_id": "351405", "name": "TEMPURAN"}, {"id": "3514052009", "district_id": "351405", "name": "SAPULANTE"}, {"id": "3514052010", "district_id": "351405", "name": "POHGEDANG"}, {"id": "3514052011", "district_id": "351405", "name": "PASREPAN"}, {"id": "3514052012", "district_id": "351405", "name": "REJOSALAM"}, {"id": "3514052013", "district_id": "351405", "name": "CENGKRONG"}, {"id": "3514052014", "district_id": "351405", "name": "LEMAHBANG"}, {"id": "3514052015", "district_id": "351405", "name": "TAMBAKREJO"}, {"id": "3514052016", "district_id": "351405", "name": "POHGADING"}, {"id": "3514052017", "district_id": "351405", "name": "JOGOREPUH"}]
+[
+  {
+    "id": "3514052001",
+    "district_id": "351405",
+    "name": "NGANTUNGAN"
+  },
+  {
+    "id": "3514052002",
+    "district_id": "351405",
+    "name": "GALIH"
+  },
+  {
+    "id": "3514052003",
+    "district_id": "351405",
+    "name": "PETUNG"
+  },
+  {
+    "id": "3514052004",
+    "district_id": "351405",
+    "name": "KLAKAH"
+  },
+  {
+    "id": "3514052005",
+    "district_id": "351405",
+    "name": "SIBON"
+  },
+  {
+    "id": "3514052006",
+    "district_id": "351405",
+    "name": "MANGGUAN"
+  },
+  {
+    "id": "3514052007",
+    "district_id": "351405",
+    "name": "AMPELSARI"
+  },
+  {
+    "id": "3514052008",
+    "district_id": "351405",
+    "name": "TEMPURAN"
+  },
+  {
+    "id": "3514052009",
+    "district_id": "351405",
+    "name": "SAPULANTE"
+  },
+  {
+    "id": "3514052010",
+    "district_id": "351405",
+    "name": "POHGEDANG"
+  },
+  {
+    "id": "3514052011",
+    "district_id": "351405",
+    "name": "PASREPAN"
+  },
+  {
+    "id": "3514052012",
+    "district_id": "351405",
+    "name": "REJOSALAM"
+  },
+  {
+    "id": "3514052013",
+    "district_id": "351405",
+    "name": "CENGKRONG"
+  },
+  {
+    "id": "3514052014",
+    "district_id": "351405",
+    "name": "LEMAHBANG"
+  },
+  {
+    "id": "3514052015",
+    "district_id": "351405",
+    "name": "TAMBAKREJO"
+  },
+  {
+    "id": "3514052016",
+    "district_id": "351405",
+    "name": "POHGADING"
+  },
+  {
+    "id": "3514052017",
+    "district_id": "351405",
+    "name": "JOGOREPUH"
+  }
+]

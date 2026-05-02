@@ -1,1 +1,37 @@
-[{"id": "1213232001", "district_id": "121323", "name": "TAMBISKI"}, {"id": "1213232002", "district_id": "121323", "name": "TARUTUNG PANJANG"}, {"id": "1213232003", "district_id": "121323", "name": "HUMBANG I"}, {"id": "1213232004", "district_id": "121323", "name": "BANUA RAKYAT"}, {"id": "1213232005", "district_id": "121323", "name": "SAYUR MATUA"}, {"id": "1213232006", "district_id": "121323", "name": "BANUA SIMANOSOR"}, {"id": "1213232007", "district_id": "121323", "name": "TAMBISKI NAULI"}]
+[
+  {
+    "id": "1213232001",
+    "district_id": "121323",
+    "name": "TAMBISKI"
+  },
+  {
+    "id": "1213232002",
+    "district_id": "121323",
+    "name": "TARUTUNG PANJANG"
+  },
+  {
+    "id": "1213232003",
+    "district_id": "121323",
+    "name": "HUMBANG I"
+  },
+  {
+    "id": "1213232004",
+    "district_id": "121323",
+    "name": "BANUA RAKYAT"
+  },
+  {
+    "id": "1213232005",
+    "district_id": "121323",
+    "name": "SAYUR MATUA"
+  },
+  {
+    "id": "1213232006",
+    "district_id": "121323",
+    "name": "BANUA SIMANOSOR"
+  },
+  {
+    "id": "1213232007",
+    "district_id": "121323",
+    "name": "TAMBISKI NAULI"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "1809042001", "district_id": "180904", "name": "PADANG MANIS"}, {"id": "1809042002", "district_id": "180904", "name": "BANJAR NEGERI"}, {"id": "1809042003", "district_id": "180904", "name": "SIDODADI"}, {"id": "1809042004", "district_id": "180904", "name": "PEKONDOH GEDUNG"}, {"id": "1809042005", "district_id": "180904", "name": "PEKONDOH"}, {"id": "1809042006", "district_id": "180904", "name": "KOTA DALAM"}, {"id": "1809042007", "district_id": "180904", "name": "TANJUNG AGUNG"}, {"id": "1809042008", "district_id": "180904", "name": "GEDONG DALAM"}, {"id": "1809042009", "district_id": "180904", "name": "SINDANG GARUT"}, {"id": "1809042010", "district_id": "180904", "name": "BATURAJA"}, {"id": "1809042011", "district_id": "180904", "name": "WAY HARONG"}, {"id": "1809042012", "district_id": "180904", "name": "GUNUNG REJO"}, {"id": "1809042013", "district_id": "180904", "name": "MARGODADI"}, {"id": "1809042014", "district_id": "180904", "name": "CIMANUK"}, {"id": "1809042015", "district_id": "180904", "name": "SUKAMANDI"}, {"id": "1809042016", "district_id": "180904", "name": "PAGUYUBAN"}]
+[
+  {
+    "id": "1809042001",
+    "district_id": "180904",
+    "name": "PADANG MANIS"
+  },
+  {
+    "id": "1809042002",
+    "district_id": "180904",
+    "name": "BANJAR NEGERI"
+  },
+  {
+    "id": "1809042003",
+    "district_id": "180904",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "1809042004",
+    "district_id": "180904",
+    "name": "PEKONDOH GEDUNG"
+  },
+  {
+    "id": "1809042005",
+    "district_id": "180904",
+    "name": "PEKONDOH"
+  },
+  {
+    "id": "1809042006",
+    "district_id": "180904",
+    "name": "KOTA DALAM"
+  },
+  {
+    "id": "1809042007",
+    "district_id": "180904",
+    "name": "TANJUNG AGUNG"
+  },
+  {
+    "id": "1809042008",
+    "district_id": "180904",
+    "name": "GEDONG DALAM"
+  },
+  {
+    "id": "1809042009",
+    "district_id": "180904",
+    "name": "SINDANG GARUT"
+  },
+  {
+    "id": "1809042010",
+    "district_id": "180904",
+    "name": "BATURAJA"
+  },
+  {
+    "id": "1809042011",
+    "district_id": "180904",
+    "name": "WAY HARONG"
+  },
+  {
+    "id": "1809042012",
+    "district_id": "180904",
+    "name": "GUNUNG REJO"
+  },
+  {
+    "id": "1809042013",
+    "district_id": "180904",
+    "name": "MARGODADI"
+  },
+  {
+    "id": "1809042014",
+    "district_id": "180904",
+    "name": "CIMANUK"
+  },
+  {
+    "id": "1809042015",
+    "district_id": "180904",
+    "name": "SUKAMANDI"
+  },
+  {
+    "id": "1809042016",
+    "district_id": "180904",
+    "name": "PAGUYUBAN"
+  }
+]

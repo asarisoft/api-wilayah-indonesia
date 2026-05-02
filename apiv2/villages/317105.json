@@ -1,1 +1,17 @@
-[{"id": "3171051001", "district_id": "317105", "name": "CEMPAKA PUTIH TIMUR"}, {"id": "3171051002", "district_id": "317105", "name": "CEMPAKA PUTIH BARAT"}, {"id": "3171051003", "district_id": "317105", "name": "RAWASARI"}]
+[
+  {
+    "id": "3171051001",
+    "district_id": "317105",
+    "name": "CEMPAKA PUTIH TIMUR"
+  },
+  {
+    "id": "3171051002",
+    "district_id": "317105",
+    "name": "CEMPAKA PUTIH BARAT"
+  },
+  {
+    "id": "3171051003",
+    "district_id": "317105",
+    "name": "RAWASARI"
+  }
+]

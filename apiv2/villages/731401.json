@@ -1,1 +1,52 @@
-[{"id": "7314011001", "district_id": "731401", "name": "BILOKKA"}, {"id": "7314011002", "district_id": "731401", "name": "WETTE'E"}, {"id": "7314011003", "district_id": "731401", "name": "LAJONGA"}, {"id": "7314012004", "district_id": "731401", "name": "WANIO"}, {"id": "7314012005", "district_id": "731401", "name": "WANIO TIMORENG"}, {"id": "7314012006", "district_id": "731401", "name": "CORAWALI"}, {"id": "7314012007", "district_id": "731401", "name": "LISE"}, {"id": "7314012008", "district_id": "731401", "name": "BAPANGI"}, {"id": "7314012009", "district_id": "731401", "name": "ALESALEWO"}, {"id": "7314012010", "district_id": "731401", "name": "CENRANA"}]
+[
+  {
+    "id": "7314011001",
+    "district_id": "731401",
+    "name": "BILOKKA"
+  },
+  {
+    "id": "7314011002",
+    "district_id": "731401",
+    "name": "WETTE'E"
+  },
+  {
+    "id": "7314011003",
+    "district_id": "731401",
+    "name": "LAJONGA"
+  },
+  {
+    "id": "7314012004",
+    "district_id": "731401",
+    "name": "WANIO"
+  },
+  {
+    "id": "7314012005",
+    "district_id": "731401",
+    "name": "WANIO TIMORENG"
+  },
+  {
+    "id": "7314012006",
+    "district_id": "731401",
+    "name": "CORAWALI"
+  },
+  {
+    "id": "7314012007",
+    "district_id": "731401",
+    "name": "LISE"
+  },
+  {
+    "id": "7314012008",
+    "district_id": "731401",
+    "name": "BAPANGI"
+  },
+  {
+    "id": "7314012009",
+    "district_id": "731401",
+    "name": "ALESALEWO"
+  },
+  {
+    "id": "7314012010",
+    "district_id": "731401",
+    "name": "CENRANA"
+  }
+]

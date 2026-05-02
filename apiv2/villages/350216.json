@@ -1,1 +1,77 @@
-[{"id": "3502161001", "district_id": "350216", "name": "KERTOSARI"}, {"id": "3502161003", "district_id": "350216", "name": "PATIHAN WETAN"}, {"id": "3502161005", "district_id": "350216", "name": "KADIPATEN"}, {"id": "3502162002", "district_id": "350216", "name": "CEKOK"}, {"id": "3502162004", "district_id": "350216", "name": "JAPAN"}, {"id": "3502162006", "district_id": "350216", "name": "GUPOLO"}, {"id": "3502162007", "district_id": "350216", "name": "POLOREJO"}, {"id": "3502162008", "district_id": "350216", "name": "BARENG"}, {"id": "3502162009", "district_id": "350216", "name": "NGUNUT"}, {"id": "3502162010", "district_id": "350216", "name": "SUKOSARI"}, {"id": "3502162011", "district_id": "350216", "name": "LEMBAH"}, {"id": "3502162012", "district_id": "350216", "name": "PONDOK"}, {"id": "3502162013", "district_id": "350216", "name": "BABADAN"}, {"id": "3502162014", "district_id": "350216", "name": "PURWOSARI"}, {"id": "3502162015", "district_id": "350216", "name": "TRISONO"}]
+[
+  {
+    "id": "3502161001",
+    "district_id": "350216",
+    "name": "KERTOSARI"
+  },
+  {
+    "id": "3502161003",
+    "district_id": "350216",
+    "name": "PATIHAN WETAN"
+  },
+  {
+    "id": "3502161005",
+    "district_id": "350216",
+    "name": "KADIPATEN"
+  },
+  {
+    "id": "3502162002",
+    "district_id": "350216",
+    "name": "CEKOK"
+  },
+  {
+    "id": "3502162004",
+    "district_id": "350216",
+    "name": "JAPAN"
+  },
+  {
+    "id": "3502162006",
+    "district_id": "350216",
+    "name": "GUPOLO"
+  },
+  {
+    "id": "3502162007",
+    "district_id": "350216",
+    "name": "POLOREJO"
+  },
+  {
+    "id": "3502162008",
+    "district_id": "350216",
+    "name": "BARENG"
+  },
+  {
+    "id": "3502162009",
+    "district_id": "350216",
+    "name": "NGUNUT"
+  },
+  {
+    "id": "3502162010",
+    "district_id": "350216",
+    "name": "SUKOSARI"
+  },
+  {
+    "id": "3502162011",
+    "district_id": "350216",
+    "name": "LEMBAH"
+  },
+  {
+    "id": "3502162012",
+    "district_id": "350216",
+    "name": "PONDOK"
+  },
+  {
+    "id": "3502162013",
+    "district_id": "350216",
+    "name": "BABADAN"
+  },
+  {
+    "id": "3502162014",
+    "district_id": "350216",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "3502162015",
+    "district_id": "350216",
+    "name": "TRISONO"
+  }
+]

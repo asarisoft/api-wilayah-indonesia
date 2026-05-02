@@ -1,1 +1,57 @@
-[{"id": "3601182001", "district_id": "360118", "name": "CIMANUK"}, {"id": "3601182002", "district_id": "360118", "name": "BATUBANTAR"}, {"id": "3601182003", "district_id": "360118", "name": "KADUBUNGBANG"}, {"id": "3601182004", "district_id": "360118", "name": "KUPAHANDAP"}, {"id": "3601182005", "district_id": "360118", "name": "DALEMBALAR"}, {"id": "3601182006", "district_id": "360118", "name": "KADUMADANG"}, {"id": "3601182007", "district_id": "360118", "name": "ROCEK"}, {"id": "3601182008", "district_id": "360118", "name": "KADUDODOL"}, {"id": "3601182010", "district_id": "360118", "name": "GUNUNGDATAR"}, {"id": "3601182013", "district_id": "360118", "name": "SEKONG"}, {"id": "3601182015", "district_id": "360118", "name": "GUNUNGCUPU"}]
+[
+  {
+    "id": "3601182001",
+    "district_id": "360118",
+    "name": "CIMANUK"
+  },
+  {
+    "id": "3601182002",
+    "district_id": "360118",
+    "name": "BATUBANTAR"
+  },
+  {
+    "id": "3601182003",
+    "district_id": "360118",
+    "name": "KADUBUNGBANG"
+  },
+  {
+    "id": "3601182004",
+    "district_id": "360118",
+    "name": "KUPAHANDAP"
+  },
+  {
+    "id": "3601182005",
+    "district_id": "360118",
+    "name": "DALEMBALAR"
+  },
+  {
+    "id": "3601182006",
+    "district_id": "360118",
+    "name": "KADUMADANG"
+  },
+  {
+    "id": "3601182007",
+    "district_id": "360118",
+    "name": "ROCEK"
+  },
+  {
+    "id": "3601182008",
+    "district_id": "360118",
+    "name": "KADUDODOL"
+  },
+  {
+    "id": "3601182010",
+    "district_id": "360118",
+    "name": "GUNUNGDATAR"
+  },
+  {
+    "id": "3601182013",
+    "district_id": "360118",
+    "name": "SEKONG"
+  },
+  {
+    "id": "3601182015",
+    "district_id": "360118",
+    "name": "GUNUNGCUPU"
+  }
+]

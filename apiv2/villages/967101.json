@@ -1,1 +1,22 @@
-[{"id": "9671011001", "district_id": "967101", "name": "REMU UTARA"}, {"id": "9671011002", "district_id": "967101", "name": "KLADEMAK"}, {"id": "9671011003", "district_id": "967101", "name": "KOFKERBU"}, {"id": "9671011004", "district_id": "967101", "name": "REMU"}]
+[
+  {
+    "id": "9671011001",
+    "district_id": "967101",
+    "name": "REMU UTARA"
+  },
+  {
+    "id": "9671011002",
+    "district_id": "967101",
+    "name": "KLADEMAK"
+  },
+  {
+    "id": "9671011003",
+    "district_id": "967101",
+    "name": "KOFKERBU"
+  },
+  {
+    "id": "9671011004",
+    "district_id": "967101",
+    "name": "REMU"
+  }
+]

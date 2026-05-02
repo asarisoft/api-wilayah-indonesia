@@ -1,1 +1,77 @@
-[{"id": "5201122001", "district_id": "520112", "name": "LINGSAR"}, {"id": "5201122002", "district_id": "520112", "name": "BATU KUMBUNG"}, {"id": "5201122003", "district_id": "520112", "name": "SIGERONGAN"}, {"id": "5201122004", "district_id": "520112", "name": "DUMAN"}, {"id": "5201122005", "district_id": "520112", "name": "KARANG BAYAN"}, {"id": "5201122006", "district_id": "520112", "name": "LANGKO"}, {"id": "5201122007", "district_id": "520112", "name": "DASAN GERIA"}, {"id": "5201122008", "district_id": "520112", "name": "PETELUAN INDAH"}, {"id": "5201122009", "district_id": "520112", "name": "GEGERUNG"}, {"id": "5201122010", "district_id": "520112", "name": "BATU MEKAR"}, {"id": "5201122011", "district_id": "520112", "name": "GIRI MADIA"}, {"id": "5201122012", "district_id": "520112", "name": "BUG-BUG"}, {"id": "5201122013", "district_id": "520112", "name": "GEGELANG"}, {"id": "5201122014", "district_id": "520112", "name": "SARIBAYE"}, {"id": "5201122015", "district_id": "520112", "name": "GONTORAN"}]
+[
+  {
+    "id": "5201122001",
+    "district_id": "520112",
+    "name": "LINGSAR"
+  },
+  {
+    "id": "5201122002",
+    "district_id": "520112",
+    "name": "BATU KUMBUNG"
+  },
+  {
+    "id": "5201122003",
+    "district_id": "520112",
+    "name": "SIGERONGAN"
+  },
+  {
+    "id": "5201122004",
+    "district_id": "520112",
+    "name": "DUMAN"
+  },
+  {
+    "id": "5201122005",
+    "district_id": "520112",
+    "name": "KARANG BAYAN"
+  },
+  {
+    "id": "5201122006",
+    "district_id": "520112",
+    "name": "LANGKO"
+  },
+  {
+    "id": "5201122007",
+    "district_id": "520112",
+    "name": "DASAN GERIA"
+  },
+  {
+    "id": "5201122008",
+    "district_id": "520112",
+    "name": "PETELUAN INDAH"
+  },
+  {
+    "id": "5201122009",
+    "district_id": "520112",
+    "name": "GEGERUNG"
+  },
+  {
+    "id": "5201122010",
+    "district_id": "520112",
+    "name": "BATU MEKAR"
+  },
+  {
+    "id": "5201122011",
+    "district_id": "520112",
+    "name": "GIRI MADIA"
+  },
+  {
+    "id": "5201122012",
+    "district_id": "520112",
+    "name": "BUG-BUG"
+  },
+  {
+    "id": "5201122013",
+    "district_id": "520112",
+    "name": "GEGELANG"
+  },
+  {
+    "id": "5201122014",
+    "district_id": "520112",
+    "name": "SARIBAYE"
+  },
+  {
+    "id": "5201122015",
+    "district_id": "520112",
+    "name": "GONTORAN"
+  }
+]

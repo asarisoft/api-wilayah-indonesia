@@ -1,1 +1,62 @@
-[{"id": "1225062001", "district_id": "122506", "name": "BALODANO"}, {"id": "1225062002", "district_id": "122506", "name": "HIAMBANUA"}, {"id": "1225062003", "district_id": "122506", "name": "HILIMAYO"}, {"id": "1225062004", "district_id": "122506", "name": "SIHAREO"}, {"id": "1225062005", "district_id": "122506", "name": "LOLOMBOLI"}, {"id": "1225062006", "district_id": "122506", "name": "ONONAMOLO I"}, {"id": "1225062007", "district_id": "122506", "name": "HILIMBARUZO"}, {"id": "1225062008", "district_id": "122506", "name": "TARAHOSO"}, {"id": "1225062009", "district_id": "122506", "name": "ONONAMOLO II"}, {"id": "1225062010", "district_id": "122506", "name": "TARAHA"}, {"id": "1225062011", "district_id": "122506", "name": "LAHAGU"}, {"id": "1225062012", "district_id": "122506", "name": "HILIMBOWO"}]
+[
+  {
+    "id": "1225062001",
+    "district_id": "122506",
+    "name": "BALODANO"
+  },
+  {
+    "id": "1225062002",
+    "district_id": "122506",
+    "name": "HIAMBANUA"
+  },
+  {
+    "id": "1225062003",
+    "district_id": "122506",
+    "name": "HILIMAYO"
+  },
+  {
+    "id": "1225062004",
+    "district_id": "122506",
+    "name": "SIHAREO"
+  },
+  {
+    "id": "1225062005",
+    "district_id": "122506",
+    "name": "LOLOMBOLI"
+  },
+  {
+    "id": "1225062006",
+    "district_id": "122506",
+    "name": "ONONAMOLO I"
+  },
+  {
+    "id": "1225062007",
+    "district_id": "122506",
+    "name": "HILIMBARUZO"
+  },
+  {
+    "id": "1225062008",
+    "district_id": "122506",
+    "name": "TARAHOSO"
+  },
+  {
+    "id": "1225062009",
+    "district_id": "122506",
+    "name": "ONONAMOLO II"
+  },
+  {
+    "id": "1225062010",
+    "district_id": "122506",
+    "name": "TARAHA"
+  },
+  {
+    "id": "1225062011",
+    "district_id": "122506",
+    "name": "LAHAGU"
+  },
+  {
+    "id": "1225062012",
+    "district_id": "122506",
+    "name": "HILIMBOWO"
+  }
+]

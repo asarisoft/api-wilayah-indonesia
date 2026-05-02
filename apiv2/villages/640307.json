@@ -1,1 +1,27 @@
-[{"id": "6403072001", "district_id": "640307", "name": "PEGAT BATUMBUK"}, {"id": "6403072002", "district_id": "640307", "name": "TELUK SEMANTING"}, {"id": "6403072003", "district_id": "640307", "name": "TANJUNG BATU"}, {"id": "6403072004", "district_id": "640307", "name": "PULAU DERAWAN"}, {"id": "6403072009", "district_id": "640307", "name": "KASAI"}]
+[
+  {
+    "id": "6403072001",
+    "district_id": "640307",
+    "name": "PEGAT BATUMBUK"
+  },
+  {
+    "id": "6403072002",
+    "district_id": "640307",
+    "name": "TELUK SEMANTING"
+  },
+  {
+    "id": "6403072003",
+    "district_id": "640307",
+    "name": "TANJUNG BATU"
+  },
+  {
+    "id": "6403072004",
+    "district_id": "640307",
+    "name": "PULAU DERAWAN"
+  },
+  {
+    "id": "6403072009",
+    "district_id": "640307",
+    "name": "KASAI"
+  }
+]

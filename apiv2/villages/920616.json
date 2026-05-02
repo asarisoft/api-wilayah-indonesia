@@ -1,1 +1,27 @@
-[{"id": "9206162001", "district_id": "920616", "name": "AROBA"}, {"id": "9206162002", "district_id": "920616", "name": "YARU"}, {"id": "9206162003", "district_id": "920616", "name": "SIDO MAKMUR"}, {"id": "9206162004", "district_id": "920616", "name": "WIMBRO"}, {"id": "9206162005", "district_id": "920616", "name": "SANGGUAR"}]
+[
+  {
+    "id": "9206162001",
+    "district_id": "920616",
+    "name": "AROBA"
+  },
+  {
+    "id": "9206162002",
+    "district_id": "920616",
+    "name": "YARU"
+  },
+  {
+    "id": "9206162003",
+    "district_id": "920616",
+    "name": "SIDO MAKMUR"
+  },
+  {
+    "id": "9206162004",
+    "district_id": "920616",
+    "name": "WIMBRO"
+  },
+  {
+    "id": "9206162005",
+    "district_id": "920616",
+    "name": "SANGGUAR"
+  }
+]

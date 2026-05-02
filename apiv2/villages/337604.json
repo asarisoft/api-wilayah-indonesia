@@ -1,1 +1,37 @@
-[{"id": "3376041001", "district_id": "337604", "name": "KALIGANGSA"}, {"id": "3376041002", "district_id": "337604", "name": "KRANDON"}, {"id": "3376041003", "district_id": "337604", "name": "CABAWAN"}, {"id": "3376041004", "district_id": "337604", "name": "KALINYAMAT KULON"}, {"id": "3376041005", "district_id": "337604", "name": "MARGADANA"}, {"id": "3376041006", "district_id": "337604", "name": "SUMURPANGGANG"}, {"id": "3376041007", "district_id": "337604", "name": "PESURUNGAN LOR"}]
+[
+  {
+    "id": "3376041001",
+    "district_id": "337604",
+    "name": "KALIGANGSA"
+  },
+  {
+    "id": "3376041002",
+    "district_id": "337604",
+    "name": "KRANDON"
+  },
+  {
+    "id": "3376041003",
+    "district_id": "337604",
+    "name": "CABAWAN"
+  },
+  {
+    "id": "3376041004",
+    "district_id": "337604",
+    "name": "KALINYAMAT KULON"
+  },
+  {
+    "id": "3376041005",
+    "district_id": "337604",
+    "name": "MARGADANA"
+  },
+  {
+    "id": "3376041006",
+    "district_id": "337604",
+    "name": "SUMURPANGGANG"
+  },
+  {
+    "id": "3376041007",
+    "district_id": "337604",
+    "name": "PESURUNGAN LOR"
+  }
+]

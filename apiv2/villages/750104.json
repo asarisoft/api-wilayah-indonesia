@@ -1,1 +1,82 @@
-[{"id": "7501042001", "district_id": "750104", "name": "ISIMU UTARA"}, {"id": "7501042002", "district_id": "750104", "name": "ISIMU SELATAN"}, {"id": "7501042003", "district_id": "750104", "name": "DATAHU"}, {"id": "7501042004", "district_id": "750104", "name": "TOLOTIO"}, {"id": "7501042005", "district_id": "750104", "name": "LABANU"}, {"id": "7501042006", "district_id": "750104", "name": "REKSONEGORO"}, {"id": "7501042007", "district_id": "750104", "name": "BUHU"}, {"id": "7501042008", "district_id": "750104", "name": "DUNGGALA"}, {"id": "7501042009", "district_id": "750104", "name": "MOLOWAHU"}, {"id": "7501042010", "district_id": "750104", "name": "ILOPONU"}, {"id": "7501042011", "district_id": "750104", "name": "ILOMATA"}, {"id": "7501042012", "district_id": "750104", "name": "MOTILANGO"}, {"id": "7501042013", "district_id": "750104", "name": "ISIMU RAYA"}, {"id": "7501042014", "district_id": "750104", "name": "BALAHU"}, {"id": "7501042015", "district_id": "750104", "name": "BOTUMOPUTI"}, {"id": "7501042016", "district_id": "750104", "name": "ULOBUA"}]
+[
+  {
+    "id": "7501042001",
+    "district_id": "750104",
+    "name": "ISIMU UTARA"
+  },
+  {
+    "id": "7501042002",
+    "district_id": "750104",
+    "name": "ISIMU SELATAN"
+  },
+  {
+    "id": "7501042003",
+    "district_id": "750104",
+    "name": "DATAHU"
+  },
+  {
+    "id": "7501042004",
+    "district_id": "750104",
+    "name": "TOLOTIO"
+  },
+  {
+    "id": "7501042005",
+    "district_id": "750104",
+    "name": "LABANU"
+  },
+  {
+    "id": "7501042006",
+    "district_id": "750104",
+    "name": "REKSONEGORO"
+  },
+  {
+    "id": "7501042007",
+    "district_id": "750104",
+    "name": "BUHU"
+  },
+  {
+    "id": "7501042008",
+    "district_id": "750104",
+    "name": "DUNGGALA"
+  },
+  {
+    "id": "7501042009",
+    "district_id": "750104",
+    "name": "MOLOWAHU"
+  },
+  {
+    "id": "7501042010",
+    "district_id": "750104",
+    "name": "ILOPONU"
+  },
+  {
+    "id": "7501042011",
+    "district_id": "750104",
+    "name": "ILOMATA"
+  },
+  {
+    "id": "7501042012",
+    "district_id": "750104",
+    "name": "MOTILANGO"
+  },
+  {
+    "id": "7501042013",
+    "district_id": "750104",
+    "name": "ISIMU RAYA"
+  },
+  {
+    "id": "7501042014",
+    "district_id": "750104",
+    "name": "BALAHU"
+  },
+  {
+    "id": "7501042015",
+    "district_id": "750104",
+    "name": "BOTUMOPUTI"
+  },
+  {
+    "id": "7501042016",
+    "district_id": "750104",
+    "name": "ULOBUA"
+  }
+]

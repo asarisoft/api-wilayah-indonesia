@@ -1,1 +1,52 @@
-[{"id": "1809092001", "district_id": "180909", "name": "PENENGAHAN"}, {"id": "1809092002", "district_id": "180909", "name": "SUKA JAYA"}, {"id": "1809092003", "district_id": "180909", "name": "PADANG CERMIN"}, {"id": "1809092004", "district_id": "180909", "name": "BAYAS JAYA"}, {"id": "1809092005", "district_id": "180909", "name": "TANJUNG KERTA"}, {"id": "1809092006", "district_id": "180909", "name": "KOTA JAWA"}, {"id": "1809092007", "district_id": "180909", "name": "GUNUNG SARI"}, {"id": "1809092008", "district_id": "180909", "name": "MADA JAYA"}, {"id": "1809092009", "district_id": "180909", "name": "KUBU BATU"}, {"id": "1809092010", "district_id": "180909", "name": "TANJUNG REJO"}]
+[
+  {
+    "id": "1809092001",
+    "district_id": "180909",
+    "name": "PENENGAHAN"
+  },
+  {
+    "id": "1809092002",
+    "district_id": "180909",
+    "name": "SUKA JAYA"
+  },
+  {
+    "id": "1809092003",
+    "district_id": "180909",
+    "name": "PADANG CERMIN"
+  },
+  {
+    "id": "1809092004",
+    "district_id": "180909",
+    "name": "BAYAS JAYA"
+  },
+  {
+    "id": "1809092005",
+    "district_id": "180909",
+    "name": "TANJUNG KERTA"
+  },
+  {
+    "id": "1809092006",
+    "district_id": "180909",
+    "name": "KOTA JAWA"
+  },
+  {
+    "id": "1809092007",
+    "district_id": "180909",
+    "name": "GUNUNG SARI"
+  },
+  {
+    "id": "1809092008",
+    "district_id": "180909",
+    "name": "MADA JAYA"
+  },
+  {
+    "id": "1809092009",
+    "district_id": "180909",
+    "name": "KUBU BATU"
+  },
+  {
+    "id": "1809092010",
+    "district_id": "180909",
+    "name": "TANJUNG REJO"
+  }
+]

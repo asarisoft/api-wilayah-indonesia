@@ -1,1 +1,37 @@
-[{"id": "7504122001", "district_id": "750412", "name": "MILANGODAA"}, {"id": "7504122002", "district_id": "750412", "name": "LONDOUN"}, {"id": "7504122003", "district_id": "750412", "name": "MARISA"}, {"id": "7504122004", "district_id": "750412", "name": "TAHELE"}, {"id": "7504122005", "district_id": "750412", "name": "BUNTO"}, {"id": "7504122006", "district_id": "750412", "name": "MALEO"}, {"id": "7504122007", "district_id": "750412", "name": "KELAPA LIMA"}]
+[
+  {
+    "id": "7504122001",
+    "district_id": "750412",
+    "name": "MILANGODAA"
+  },
+  {
+    "id": "7504122002",
+    "district_id": "750412",
+    "name": "LONDOUN"
+  },
+  {
+    "id": "7504122003",
+    "district_id": "750412",
+    "name": "MARISA"
+  },
+  {
+    "id": "7504122004",
+    "district_id": "750412",
+    "name": "TAHELE"
+  },
+  {
+    "id": "7504122005",
+    "district_id": "750412",
+    "name": "BUNTO"
+  },
+  {
+    "id": "7504122006",
+    "district_id": "750412",
+    "name": "MALEO"
+  },
+  {
+    "id": "7504122007",
+    "district_id": "750412",
+    "name": "KELAPA LIMA"
+  }
+]

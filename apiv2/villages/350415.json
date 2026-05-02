@@ -1,1 +1,52 @@
-[{"id": "3504152001", "district_id": "350415", "name": "BESOLE"}, {"id": "3504152002", "district_id": "350415", "name": "TANGGULWELAHAN"}, {"id": "3504152003", "district_id": "350415", "name": "BESUKI"}, {"id": "3504152004", "district_id": "350415", "name": "KEBOIRENG"}, {"id": "3504152005", "district_id": "350415", "name": "TANGGULTURUS"}, {"id": "3504152006", "district_id": "350415", "name": "SEDAYUGUNUNG"}, {"id": "3504152007", "district_id": "350415", "name": "TANGGULKUNDUNG"}, {"id": "3504152008", "district_id": "350415", "name": "WATESKROYO"}, {"id": "3504152009", "district_id": "350415", "name": "SIYOTOBAGUS"}, {"id": "3504152010", "district_id": "350415", "name": "TULUNGREJO"}]
+[
+  {
+    "id": "3504152001",
+    "district_id": "350415",
+    "name": "BESOLE"
+  },
+  {
+    "id": "3504152002",
+    "district_id": "350415",
+    "name": "TANGGULWELAHAN"
+  },
+  {
+    "id": "3504152003",
+    "district_id": "350415",
+    "name": "BESUKI"
+  },
+  {
+    "id": "3504152004",
+    "district_id": "350415",
+    "name": "KEBOIRENG"
+  },
+  {
+    "id": "3504152005",
+    "district_id": "350415",
+    "name": "TANGGULTURUS"
+  },
+  {
+    "id": "3504152006",
+    "district_id": "350415",
+    "name": "SEDAYUGUNUNG"
+  },
+  {
+    "id": "3504152007",
+    "district_id": "350415",
+    "name": "TANGGULKUNDUNG"
+  },
+  {
+    "id": "3504152008",
+    "district_id": "350415",
+    "name": "WATESKROYO"
+  },
+  {
+    "id": "3504152009",
+    "district_id": "350415",
+    "name": "SIYOTOBAGUS"
+  },
+  {
+    "id": "3504152010",
+    "district_id": "350415",
+    "name": "TULUNGREJO"
+  }
+]

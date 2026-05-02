@@ -1,1 +1,37 @@
-[{"id": "6308092001", "district_id": "630809", "name": "PAMINGGIR"}, {"id": "6308092002", "district_id": "630809", "name": "PAMINGGIR SEBERANG"}, {"id": "6308092003", "district_id": "630809", "name": "AMBAHAI"}, {"id": "6308092004", "district_id": "630809", "name": "SAPALA"}, {"id": "6308092005", "district_id": "630809", "name": "BARARAWA"}, {"id": "6308092006", "district_id": "630809", "name": "PAL BATU"}, {"id": "6308092007", "district_id": "630809", "name": "TAMPAKANG"}]
+[
+  {
+    "id": "6308092001",
+    "district_id": "630809",
+    "name": "PAMINGGIR"
+  },
+  {
+    "id": "6308092002",
+    "district_id": "630809",
+    "name": "PAMINGGIR SEBERANG"
+  },
+  {
+    "id": "6308092003",
+    "district_id": "630809",
+    "name": "AMBAHAI"
+  },
+  {
+    "id": "6308092004",
+    "district_id": "630809",
+    "name": "SAPALA"
+  },
+  {
+    "id": "6308092005",
+    "district_id": "630809",
+    "name": "BARARAWA"
+  },
+  {
+    "id": "6308092006",
+    "district_id": "630809",
+    "name": "PAL BATU"
+  },
+  {
+    "id": "6308092007",
+    "district_id": "630809",
+    "name": "TAMPAKANG"
+  }
+]

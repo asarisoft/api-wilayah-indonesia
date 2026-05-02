@@ -1,1 +1,42 @@
-[{"id": "3505222001", "district_id": "350522", "name": "MANDESAN"}, {"id": "3505222002", "district_id": "350522", "name": "JATITENGAH"}, {"id": "3505222003", "district_id": "350522", "name": "JAMBEWANGI"}, {"id": "3505222004", "district_id": "350522", "name": "SELOPURO"}, {"id": "3505222005", "district_id": "350522", "name": "TEGALREJO"}, {"id": "3505222006", "district_id": "350522", "name": "PLOSO"}, {"id": "3505222007", "district_id": "350522", "name": "POPOH"}, {"id": "3505222008", "district_id": "350522", "name": "MRONJO"}]
+[
+  {
+    "id": "3505222001",
+    "district_id": "350522",
+    "name": "MANDESAN"
+  },
+  {
+    "id": "3505222002",
+    "district_id": "350522",
+    "name": "JATITENGAH"
+  },
+  {
+    "id": "3505222003",
+    "district_id": "350522",
+    "name": "JAMBEWANGI"
+  },
+  {
+    "id": "3505222004",
+    "district_id": "350522",
+    "name": "SELOPURO"
+  },
+  {
+    "id": "3505222005",
+    "district_id": "350522",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "3505222006",
+    "district_id": "350522",
+    "name": "PLOSO"
+  },
+  {
+    "id": "3505222007",
+    "district_id": "350522",
+    "name": "POPOH"
+  },
+  {
+    "id": "3505222008",
+    "district_id": "350522",
+    "name": "MRONJO"
+  }
+]

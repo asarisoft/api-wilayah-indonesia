@@ -1,1 +1,37 @@
-[{"id": "6212092001", "district_id": "621209", "name": "TUMBANG TOHAN"}, {"id": "6212092002", "district_id": "621209", "name": "TUMBANG NAAN"}, {"id": "6212092003", "district_id": "621209", "name": "MUARA JOLOI I"}, {"id": "6212092004", "district_id": "621209", "name": "MUARA JOLOI II"}, {"id": "6212092005", "district_id": "621209", "name": "PARAHAU"}, {"id": "6212092006", "district_id": "621209", "name": "TUMBANG JOJANG"}, {"id": "6212092007", "district_id": "621209", "name": "TAKAJUNG"}]
+[
+  {
+    "id": "6212092001",
+    "district_id": "621209",
+    "name": "TUMBANG TOHAN"
+  },
+  {
+    "id": "6212092002",
+    "district_id": "621209",
+    "name": "TUMBANG NAAN"
+  },
+  {
+    "id": "6212092003",
+    "district_id": "621209",
+    "name": "MUARA JOLOI I"
+  },
+  {
+    "id": "6212092004",
+    "district_id": "621209",
+    "name": "MUARA JOLOI II"
+  },
+  {
+    "id": "6212092005",
+    "district_id": "621209",
+    "name": "PARAHAU"
+  },
+  {
+    "id": "6212092006",
+    "district_id": "621209",
+    "name": "TUMBANG JOJANG"
+  },
+  {
+    "id": "6212092007",
+    "district_id": "621209",
+    "name": "TAKAJUNG"
+  }
+]

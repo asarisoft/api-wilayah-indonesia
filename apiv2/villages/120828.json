@@ -1,1 +1,57 @@
-[{"id": "1208281009", "district_id": "120828", "name": "SINAKSAK"}, {"id": "1208282001", "district_id": "120828", "name": "BATU SILANGIT"}, {"id": "1208282002", "district_id": "120828", "name": "DOLOK MARAJA"}, {"id": "1208282003", "district_id": "120828", "name": "DOLOK ULU"}, {"id": "1208282004", "district_id": "120828", "name": "NAGUR USANG"}, {"id": "1208282005", "district_id": "120828", "name": "DOLOK KAHEAN"}, {"id": "1208282006", "district_id": "120828", "name": "NAGA DOLOK"}, {"id": "1208282007", "district_id": "120828", "name": "PURBASARI"}, {"id": "1208282008", "district_id": "120828", "name": "PEMATANG DOLOK KAHEAN"}, {"id": "1208282010", "district_id": "120828", "name": "NEGERI BAYU MUSLIMIN"}, {"id": "1208282011", "district_id": "120828", "name": "DOLOK SIMBOLON"}]
+[
+  {
+    "id": "1208281009",
+    "district_id": "120828",
+    "name": "SINAKSAK"
+  },
+  {
+    "id": "1208282001",
+    "district_id": "120828",
+    "name": "BATU SILANGIT"
+  },
+  {
+    "id": "1208282002",
+    "district_id": "120828",
+    "name": "DOLOK MARAJA"
+  },
+  {
+    "id": "1208282003",
+    "district_id": "120828",
+    "name": "DOLOK ULU"
+  },
+  {
+    "id": "1208282004",
+    "district_id": "120828",
+    "name": "NAGUR USANG"
+  },
+  {
+    "id": "1208282005",
+    "district_id": "120828",
+    "name": "DOLOK KAHEAN"
+  },
+  {
+    "id": "1208282006",
+    "district_id": "120828",
+    "name": "NAGA DOLOK"
+  },
+  {
+    "id": "1208282007",
+    "district_id": "120828",
+    "name": "PURBASARI"
+  },
+  {
+    "id": "1208282008",
+    "district_id": "120828",
+    "name": "PEMATANG DOLOK KAHEAN"
+  },
+  {
+    "id": "1208282010",
+    "district_id": "120828",
+    "name": "NEGERI BAYU MUSLIMIN"
+  },
+  {
+    "id": "1208282011",
+    "district_id": "120828",
+    "name": "DOLOK SIMBOLON"
+  }
+]

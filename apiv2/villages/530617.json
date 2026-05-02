@@ -1,1 +1,42 @@
-[{"id": "5306172001", "district_id": "530617", "name": "SAGU"}, {"id": "5306172002", "district_id": "530617", "name": "KOLIMASANG"}, {"id": "5306172003", "district_id": "530617", "name": "KOLILANANG"}, {"id": "5306172004", "district_id": "530617", "name": "TIKATUKANG"}, {"id": "5306172005", "district_id": "530617", "name": "NISANULAN"}, {"id": "5306172006", "district_id": "530617", "name": "LAMAHODA"}, {"id": "5306172007", "district_id": "530617", "name": "ADONARA"}, {"id": "5306172008", "district_id": "530617", "name": "KOLIPETUNG"}]
+[
+  {
+    "id": "5306172001",
+    "district_id": "530617",
+    "name": "SAGU"
+  },
+  {
+    "id": "5306172002",
+    "district_id": "530617",
+    "name": "KOLIMASANG"
+  },
+  {
+    "id": "5306172003",
+    "district_id": "530617",
+    "name": "KOLILANANG"
+  },
+  {
+    "id": "5306172004",
+    "district_id": "530617",
+    "name": "TIKATUKANG"
+  },
+  {
+    "id": "5306172005",
+    "district_id": "530617",
+    "name": "NISANULAN"
+  },
+  {
+    "id": "5306172006",
+    "district_id": "530617",
+    "name": "LAMAHODA"
+  },
+  {
+    "id": "5306172007",
+    "district_id": "530617",
+    "name": "ADONARA"
+  },
+  {
+    "id": "5306172008",
+    "district_id": "530617",
+    "name": "KOLIPETUNG"
+  }
+]

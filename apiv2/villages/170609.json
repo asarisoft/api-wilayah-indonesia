@@ -1,1 +1,62 @@
-[{"id": "1706092001", "district_id": "170609", "name": "SUNGAI IPUH"}, {"id": "1706092002", "district_id": "170609", "name": "LUBUK SAHUNG"}, {"id": "1706092003", "district_id": "170609", "name": "SURIAN BUNGKAL"}, {"id": "1706092004", "district_id": "170609", "name": "SUNGAI GADING"}, {"id": "1706092005", "district_id": "170609", "name": "PONDOK BARU"}, {"id": "1706092006", "district_id": "170609", "name": "SUNGAI JERINJING"}, {"id": "1706092007", "district_id": "170609", "name": "LUBUK BANGKO"}, {"id": "1706092008", "district_id": "170609", "name": "TALANG BUAI"}, {"id": "1706092009", "district_id": "170609", "name": "AUR CINA"}, {"id": "1706092010", "district_id": "170609", "name": "TALANG MEDAN"}, {"id": "1706092011", "district_id": "170609", "name": "SUNGAI IPUH SATU"}, {"id": "1706092012", "district_id": "170609", "name": "SUNGAI IPUH DUA"}]
+[
+  {
+    "id": "1706092001",
+    "district_id": "170609",
+    "name": "SUNGAI IPUH"
+  },
+  {
+    "id": "1706092002",
+    "district_id": "170609",
+    "name": "LUBUK SAHUNG"
+  },
+  {
+    "id": "1706092003",
+    "district_id": "170609",
+    "name": "SURIAN BUNGKAL"
+  },
+  {
+    "id": "1706092004",
+    "district_id": "170609",
+    "name": "SUNGAI GADING"
+  },
+  {
+    "id": "1706092005",
+    "district_id": "170609",
+    "name": "PONDOK BARU"
+  },
+  {
+    "id": "1706092006",
+    "district_id": "170609",
+    "name": "SUNGAI JERINJING"
+  },
+  {
+    "id": "1706092007",
+    "district_id": "170609",
+    "name": "LUBUK BANGKO"
+  },
+  {
+    "id": "1706092008",
+    "district_id": "170609",
+    "name": "TALANG BUAI"
+  },
+  {
+    "id": "1706092009",
+    "district_id": "170609",
+    "name": "AUR CINA"
+  },
+  {
+    "id": "1706092010",
+    "district_id": "170609",
+    "name": "TALANG MEDAN"
+  },
+  {
+    "id": "1706092011",
+    "district_id": "170609",
+    "name": "SUNGAI IPUH SATU"
+  },
+  {
+    "id": "1706092012",
+    "district_id": "170609",
+    "name": "SUNGAI IPUH DUA"
+  }
+]

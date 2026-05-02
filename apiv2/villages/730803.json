@@ -1,1 +1,92 @@
-[{"id": "7308031001", "district_id": "730803", "name": "AWANG TANGKA"}, {"id": "7308032002", "district_id": "730803", "name": "RAJA"}, {"id": "7308032003", "district_id": "730803", "name": "ABBUMPUNGENG"}, {"id": "7308032004", "district_id": "730803", "name": "BULU TANAH"}, {"id": "7308032005", "district_id": "730803", "name": "GONA"}, {"id": "7308032006", "district_id": "730803", "name": "BUARENG"}, {"id": "7308032007", "district_id": "730803", "name": "POLEWALI"}, {"id": "7308032008", "district_id": "730803", "name": "PADAELO"}, {"id": "7308032009", "district_id": "730803", "name": "ANCU"}, {"id": "7308032010", "district_id": "730803", "name": "TARASU"}, {"id": "7308032011", "district_id": "730803", "name": "LEMO"}, {"id": "7308032012", "district_id": "730803", "name": "KALERO"}, {"id": "7308032013", "district_id": "730803", "name": "LAPPABOSSE"}, {"id": "7308032014", "district_id": "730803", "name": "WAETUO"}, {"id": "7308032015", "district_id": "730803", "name": "PUDE"}, {"id": "7308032016", "district_id": "730803", "name": "ANGKUE"}, {"id": "7308032017", "district_id": "730803", "name": "MASSANGKAE"}, {"id": "7308032018", "district_id": "730803", "name": "MALLAHAE"}]
+[
+  {
+    "id": "7308031001",
+    "district_id": "730803",
+    "name": "AWANG TANGKA"
+  },
+  {
+    "id": "7308032002",
+    "district_id": "730803",
+    "name": "RAJA"
+  },
+  {
+    "id": "7308032003",
+    "district_id": "730803",
+    "name": "ABBUMPUNGENG"
+  },
+  {
+    "id": "7308032004",
+    "district_id": "730803",
+    "name": "BULU TANAH"
+  },
+  {
+    "id": "7308032005",
+    "district_id": "730803",
+    "name": "GONA"
+  },
+  {
+    "id": "7308032006",
+    "district_id": "730803",
+    "name": "BUARENG"
+  },
+  {
+    "id": "7308032007",
+    "district_id": "730803",
+    "name": "POLEWALI"
+  },
+  {
+    "id": "7308032008",
+    "district_id": "730803",
+    "name": "PADAELO"
+  },
+  {
+    "id": "7308032009",
+    "district_id": "730803",
+    "name": "ANCU"
+  },
+  {
+    "id": "7308032010",
+    "district_id": "730803",
+    "name": "TARASU"
+  },
+  {
+    "id": "7308032011",
+    "district_id": "730803",
+    "name": "LEMO"
+  },
+  {
+    "id": "7308032012",
+    "district_id": "730803",
+    "name": "KALERO"
+  },
+  {
+    "id": "7308032013",
+    "district_id": "730803",
+    "name": "LAPPABOSSE"
+  },
+  {
+    "id": "7308032014",
+    "district_id": "730803",
+    "name": "WAETUO"
+  },
+  {
+    "id": "7308032015",
+    "district_id": "730803",
+    "name": "PUDE"
+  },
+  {
+    "id": "7308032016",
+    "district_id": "730803",
+    "name": "ANGKUE"
+  },
+  {
+    "id": "7308032017",
+    "district_id": "730803",
+    "name": "MASSANGKAE"
+  },
+  {
+    "id": "7308032018",
+    "district_id": "730803",
+    "name": "MALLAHAE"
+  }
+]

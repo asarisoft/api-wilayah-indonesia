@@ -1,1 +1,47 @@
-[{"id": "5301091002", "district_id": "530109", "name": "NONBES"}, {"id": "5301092001", "district_id": "530109", "name": "OESENA"}, {"id": "5301092003", "district_id": "530109", "name": "PONAIN"}, {"id": "5301092004", "district_id": "530109", "name": "KOTABES"}, {"id": "5301092005", "district_id": "530109", "name": "TESBATAN"}, {"id": "5301092006", "district_id": "530109", "name": "OENONI"}, {"id": "5301092007", "district_id": "530109", "name": "APREN"}, {"id": "5301092008", "district_id": "530109", "name": "OENONI II"}, {"id": "5301092009", "district_id": "530109", "name": "TESBATAN II"}]
+[
+  {
+    "id": "5301091002",
+    "district_id": "530109",
+    "name": "NONBES"
+  },
+  {
+    "id": "5301092001",
+    "district_id": "530109",
+    "name": "OESENA"
+  },
+  {
+    "id": "5301092003",
+    "district_id": "530109",
+    "name": "PONAIN"
+  },
+  {
+    "id": "5301092004",
+    "district_id": "530109",
+    "name": "KOTABES"
+  },
+  {
+    "id": "5301092005",
+    "district_id": "530109",
+    "name": "TESBATAN"
+  },
+  {
+    "id": "5301092006",
+    "district_id": "530109",
+    "name": "OENONI"
+  },
+  {
+    "id": "5301092007",
+    "district_id": "530109",
+    "name": "APREN"
+  },
+  {
+    "id": "5301092008",
+    "district_id": "530109",
+    "name": "OENONI II"
+  },
+  {
+    "id": "5301092009",
+    "district_id": "530109",
+    "name": "TESBATAN II"
+  }
+]

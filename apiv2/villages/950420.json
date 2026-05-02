@@ -1,1 +1,87 @@
-[{"id": "9504202001", "district_id": "950420", "name": "WAMOLO"}, {"id": "9504202002", "district_id": "950420", "name": "WORAGA"}, {"id": "9504202003", "district_id": "950420", "name": "KALARIN"}, {"id": "9504202004", "district_id": "950420", "name": "GUBUK"}, {"id": "9504202005", "district_id": "950420", "name": "UMAR"}, {"id": "9504202006", "district_id": "950420", "name": "WOBE"}, {"id": "9504202007", "district_id": "950420", "name": "GINGGA"}, {"id": "9504202008", "district_id": "950420", "name": "PUNGGELAK"}, {"id": "9504202009", "district_id": "950420", "name": "KURIK"}, {"id": "9504202010", "district_id": "950420", "name": "GUMBINI"}, {"id": "9504202011", "district_id": "950420", "name": "MURUNERI"}, {"id": "9504202012", "district_id": "950420", "name": "NANGGA"}, {"id": "9504202013", "district_id": "950420", "name": "ENGGAWOGO"}, {"id": "9504202014", "district_id": "950420", "name": "WAMILI"}, {"id": "9504202015", "district_id": "950420", "name": "OKER"}, {"id": "9504202016", "district_id": "950420", "name": "WINENGGA"}, {"id": "9504202017", "district_id": "950420", "name": "AWORERA"}]
+[
+  {
+    "id": "9504202001",
+    "district_id": "950420",
+    "name": "WAMOLO"
+  },
+  {
+    "id": "9504202002",
+    "district_id": "950420",
+    "name": "WORAGA"
+  },
+  {
+    "id": "9504202003",
+    "district_id": "950420",
+    "name": "KALARIN"
+  },
+  {
+    "id": "9504202004",
+    "district_id": "950420",
+    "name": "GUBUK"
+  },
+  {
+    "id": "9504202005",
+    "district_id": "950420",
+    "name": "UMAR"
+  },
+  {
+    "id": "9504202006",
+    "district_id": "950420",
+    "name": "WOBE"
+  },
+  {
+    "id": "9504202007",
+    "district_id": "950420",
+    "name": "GINGGA"
+  },
+  {
+    "id": "9504202008",
+    "district_id": "950420",
+    "name": "PUNGGELAK"
+  },
+  {
+    "id": "9504202009",
+    "district_id": "950420",
+    "name": "KURIK"
+  },
+  {
+    "id": "9504202010",
+    "district_id": "950420",
+    "name": "GUMBINI"
+  },
+  {
+    "id": "9504202011",
+    "district_id": "950420",
+    "name": "MURUNERI"
+  },
+  {
+    "id": "9504202012",
+    "district_id": "950420",
+    "name": "NANGGA"
+  },
+  {
+    "id": "9504202013",
+    "district_id": "950420",
+    "name": "ENGGAWOGO"
+  },
+  {
+    "id": "9504202014",
+    "district_id": "950420",
+    "name": "WAMILI"
+  },
+  {
+    "id": "9504202015",
+    "district_id": "950420",
+    "name": "OKER"
+  },
+  {
+    "id": "9504202016",
+    "district_id": "950420",
+    "name": "WINENGGA"
+  },
+  {
+    "id": "9504202017",
+    "district_id": "950420",
+    "name": "AWORERA"
+  }
+]

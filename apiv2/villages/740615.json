@@ -1,1 +1,32 @@
-[{"id": "7406152001", "district_id": "740615", "name": "MAPILA"}, {"id": "7406152002", "district_id": "740615", "name": "WUMBULASA"}, {"id": "7406152003", "district_id": "740615", "name": "SANGIA MAKMUR"}, {"id": "7406152004", "district_id": "740615", "name": "EEMOKOLO"}, {"id": "7406152005", "district_id": "740615", "name": "TEDUBARA"}, {"id": "7406152006", "district_id": "740615", "name": "LAROLANU"}]
+[
+  {
+    "id": "7406152001",
+    "district_id": "740615",
+    "name": "MAPILA"
+  },
+  {
+    "id": "7406152002",
+    "district_id": "740615",
+    "name": "WUMBULASA"
+  },
+  {
+    "id": "7406152003",
+    "district_id": "740615",
+    "name": "SANGIA MAKMUR"
+  },
+  {
+    "id": "7406152004",
+    "district_id": "740615",
+    "name": "EEMOKOLO"
+  },
+  {
+    "id": "7406152005",
+    "district_id": "740615",
+    "name": "TEDUBARA"
+  },
+  {
+    "id": "7406152006",
+    "district_id": "740615",
+    "name": "LAROLANU"
+  }
+]

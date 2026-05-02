@@ -1,1 +1,32 @@
-[{"id": "7601021001", "district_id": "760102", "name": "PASANGKAYU"}, {"id": "7601021002", "district_id": "760102", "name": "MARTAJAYA"}, {"id": "7601022010", "district_id": "760102", "name": "PAKAVA"}, {"id": "7601022014", "district_id": "760102", "name": "KARYA BERSAMA"}, {"id": "7601022015", "district_id": "760102", "name": "AKO"}, {"id": "7601022016", "district_id": "760102", "name": "GUNUNG SARI"}]
+[
+  {
+    "id": "7601021001",
+    "district_id": "760102",
+    "name": "PASANGKAYU"
+  },
+  {
+    "id": "7601021002",
+    "district_id": "760102",
+    "name": "MARTAJAYA"
+  },
+  {
+    "id": "7601022010",
+    "district_id": "760102",
+    "name": "PAKAVA"
+  },
+  {
+    "id": "7601022014",
+    "district_id": "760102",
+    "name": "KARYA BERSAMA"
+  },
+  {
+    "id": "7601022015",
+    "district_id": "760102",
+    "name": "AKO"
+  },
+  {
+    "id": "7601022016",
+    "district_id": "760102",
+    "name": "GUNUNG SARI"
+  }
+]

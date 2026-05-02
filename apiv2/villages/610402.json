@@ -1,1 +1,52 @@
-[{"id": "6104022001", "district_id": "610402", "name": "SUKAKARYA"}, {"id": "6104022002", "district_id": "610402", "name": "RANDAI"}, {"id": "6104022003", "district_id": "610402", "name": "BELABAN"}, {"id": "6104022004", "district_id": "610402", "name": "RUNJAI JAYA"}, {"id": "6104022008", "district_id": "610402", "name": "KARYA BARU"}, {"id": "6104022020", "district_id": "610402", "name": "RIAM BATU GADING"}, {"id": "6104022021", "district_id": "610402", "name": "BATU PAYUNG DUA"}, {"id": "6104022022", "district_id": "610402", "name": "BANTAN SARI"}, {"id": "6104022023", "district_id": "610402", "name": "PELANJAU JAYA"}, {"id": "6104022024", "district_id": "610402", "name": "RANGKUNG"}]
+[
+  {
+    "id": "6104022001",
+    "district_id": "610402",
+    "name": "SUKAKARYA"
+  },
+  {
+    "id": "6104022002",
+    "district_id": "610402",
+    "name": "RANDAI"
+  },
+  {
+    "id": "6104022003",
+    "district_id": "610402",
+    "name": "BELABAN"
+  },
+  {
+    "id": "6104022004",
+    "district_id": "610402",
+    "name": "RUNJAI JAYA"
+  },
+  {
+    "id": "6104022008",
+    "district_id": "610402",
+    "name": "KARYA BARU"
+  },
+  {
+    "id": "6104022020",
+    "district_id": "610402",
+    "name": "RIAM BATU GADING"
+  },
+  {
+    "id": "6104022021",
+    "district_id": "610402",
+    "name": "BATU PAYUNG DUA"
+  },
+  {
+    "id": "6104022022",
+    "district_id": "610402",
+    "name": "BANTAN SARI"
+  },
+  {
+    "id": "6104022023",
+    "district_id": "610402",
+    "name": "PELANJAU JAYA"
+  },
+  {
+    "id": "6104022024",
+    "district_id": "610402",
+    "name": "RANGKUNG"
+  }
+]

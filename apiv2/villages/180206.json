@@ -1,1 +1,47 @@
-[{"id": "1802062001", "district_id": "180206", "name": "NUNGGAL REJO"}, {"id": "1802062002", "district_id": "180206", "name": "BADRAN SARI"}, {"id": "1802062003", "district_id": "180206", "name": "SRI SAWAHAN"}, {"id": "1802062004", "district_id": "180206", "name": "TOTO KATON"}, {"id": "1802062005", "district_id": "180206", "name": "TANGGUL ANGIN"}, {"id": "1802062006", "district_id": "180206", "name": "NGESTI RAHAYU"}, {"id": "1802062007", "district_id": "180206", "name": "MOJOPAHIT"}, {"id": "1802062008", "district_id": "180206", "name": "ASTO MULYO"}, {"id": "1802062009", "district_id": "180206", "name": "SIDO MULYO"}]
+[
+  {
+    "id": "1802062001",
+    "district_id": "180206",
+    "name": "NUNGGAL REJO"
+  },
+  {
+    "id": "1802062002",
+    "district_id": "180206",
+    "name": "BADRAN SARI"
+  },
+  {
+    "id": "1802062003",
+    "district_id": "180206",
+    "name": "SRI SAWAHAN"
+  },
+  {
+    "id": "1802062004",
+    "district_id": "180206",
+    "name": "TOTO KATON"
+  },
+  {
+    "id": "1802062005",
+    "district_id": "180206",
+    "name": "TANGGUL ANGIN"
+  },
+  {
+    "id": "1802062006",
+    "district_id": "180206",
+    "name": "NGESTI RAHAYU"
+  },
+  {
+    "id": "1802062007",
+    "district_id": "180206",
+    "name": "MOJOPAHIT"
+  },
+  {
+    "id": "1802062008",
+    "district_id": "180206",
+    "name": "ASTO MULYO"
+  },
+  {
+    "id": "1802062009",
+    "district_id": "180206",
+    "name": "SIDO MULYO"
+  }
+]

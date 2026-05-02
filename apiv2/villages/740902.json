@@ -1,1 +1,77 @@
-[{"id": "7409021001", "district_id": "740902", "name": "LAMONAE"}, {"id": "7409022002", "district_id": "740902", "name": "PADALERE"}, {"id": "7409022004", "district_id": "740902", "name": "TETEWATU"}, {"id": "7409022006", "district_id": "740902", "name": "CULUMBATU"}, {"id": "7409022007", "district_id": "740902", "name": "WAWOHEO"}, {"id": "7409022009", "district_id": "740902", "name": "LAMPARINGA"}, {"id": "7409022010", "district_id": "740902", "name": "LAMONAE UTAMA"}, {"id": "7409022012", "district_id": "740902", "name": "WACUMELEWE"}, {"id": "7409022013", "district_id": "740902", "name": "MATA OSOLE"}, {"id": "7409022014", "district_id": "740902", "name": "PONDOA"}, {"id": "7409022020", "district_id": "740902", "name": "WAWONSANGI"}, {"id": "7409022021", "district_id": "740902", "name": "WAWONTOAHO"}, {"id": "7409022022", "district_id": "740902", "name": "LAROMPANA"}, {"id": "7409022023", "district_id": "740902", "name": "WACU PINODO"}, {"id": "7409022024", "district_id": "740902", "name": "PADALERE UTAMA"}]
+[
+  {
+    "id": "7409021001",
+    "district_id": "740902",
+    "name": "LAMONAE"
+  },
+  {
+    "id": "7409022002",
+    "district_id": "740902",
+    "name": "PADALERE"
+  },
+  {
+    "id": "7409022004",
+    "district_id": "740902",
+    "name": "TETEWATU"
+  },
+  {
+    "id": "7409022006",
+    "district_id": "740902",
+    "name": "CULUMBATU"
+  },
+  {
+    "id": "7409022007",
+    "district_id": "740902",
+    "name": "WAWOHEO"
+  },
+  {
+    "id": "7409022009",
+    "district_id": "740902",
+    "name": "LAMPARINGA"
+  },
+  {
+    "id": "7409022010",
+    "district_id": "740902",
+    "name": "LAMONAE UTAMA"
+  },
+  {
+    "id": "7409022012",
+    "district_id": "740902",
+    "name": "WACUMELEWE"
+  },
+  {
+    "id": "7409022013",
+    "district_id": "740902",
+    "name": "MATA OSOLE"
+  },
+  {
+    "id": "7409022014",
+    "district_id": "740902",
+    "name": "PONDOA"
+  },
+  {
+    "id": "7409022020",
+    "district_id": "740902",
+    "name": "WAWONSANGI"
+  },
+  {
+    "id": "7409022021",
+    "district_id": "740902",
+    "name": "WAWONTOAHO"
+  },
+  {
+    "id": "7409022022",
+    "district_id": "740902",
+    "name": "LAROMPANA"
+  },
+  {
+    "id": "7409022023",
+    "district_id": "740902",
+    "name": "WACU PINODO"
+  },
+  {
+    "id": "7409022024",
+    "district_id": "740902",
+    "name": "PADALERE UTAMA"
+  }
+]

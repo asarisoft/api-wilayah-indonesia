@@ -1,1 +1,22 @@
-[{"id": "1407131002", "district_id": "140713", "name": "RANTAU KOPAR"}, {"id": "1407131003", "district_id": "140713", "name": "SUNGAI RANGAU"}, {"id": "1407132001", "district_id": "140713", "name": "SEKAPAS"}, {"id": "1407132004", "district_id": "140713", "name": "BAGAN CEMPEDAK"}]
+[
+  {
+    "id": "1407131002",
+    "district_id": "140713",
+    "name": "RANTAU KOPAR"
+  },
+  {
+    "id": "1407131003",
+    "district_id": "140713",
+    "name": "SUNGAI RANGAU"
+  },
+  {
+    "id": "1407132001",
+    "district_id": "140713",
+    "name": "SEKAPAS"
+  },
+  {
+    "id": "1407132004",
+    "district_id": "140713",
+    "name": "BAGAN CEMPEDAK"
+  }
+]

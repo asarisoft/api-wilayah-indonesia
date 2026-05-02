@@ -1,1 +1,37 @@
-[{"id": "3204342001", "district_id": "320434", "name": "RANCAKASUMBA"}, {"id": "3204342002", "district_id": "320434", "name": "SOLOKANJERUK"}, {"id": "3204342003", "district_id": "320434", "name": "CIBODAS"}, {"id": "3204342004", "district_id": "320434", "name": "PANYADAP"}, {"id": "3204342005", "district_id": "320434", "name": "BOJONGEMAS"}, {"id": "3204342006", "district_id": "320434", "name": "PADAMUKTI"}, {"id": "3204342007", "district_id": "320434", "name": "LANGENSARI"}]
+[
+  {
+    "id": "3204342001",
+    "district_id": "320434",
+    "name": "RANCAKASUMBA"
+  },
+  {
+    "id": "3204342002",
+    "district_id": "320434",
+    "name": "SOLOKANJERUK"
+  },
+  {
+    "id": "3204342003",
+    "district_id": "320434",
+    "name": "CIBODAS"
+  },
+  {
+    "id": "3204342004",
+    "district_id": "320434",
+    "name": "PANYADAP"
+  },
+  {
+    "id": "3204342005",
+    "district_id": "320434",
+    "name": "BOJONGEMAS"
+  },
+  {
+    "id": "3204342006",
+    "district_id": "320434",
+    "name": "PADAMUKTI"
+  },
+  {
+    "id": "3204342007",
+    "district_id": "320434",
+    "name": "LANGENSARI"
+  }
+]

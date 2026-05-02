@@ -1,1 +1,52 @@
-[{"id": "3201362001", "district_id": "320136", "name": "TANJUNGSARI"}, {"id": "3201362002", "district_id": "320136", "name": "SELAWANGI"}, {"id": "3201362003", "district_id": "320136", "name": "TANJUNGRASA"}, {"id": "3201362004", "district_id": "320136", "name": "ANTAJAYA"}, {"id": "3201362005", "district_id": "320136", "name": "PASIRTANJUNG"}, {"id": "3201362006", "district_id": "320136", "name": "CIBADAK"}, {"id": "3201362007", "district_id": "320136", "name": "SUKARASA"}, {"id": "3201362008", "district_id": "320136", "name": "SIRNASARI"}, {"id": "3201362009", "district_id": "320136", "name": "BUANAJAYA"}, {"id": "3201362010", "district_id": "320136", "name": "SIRNARASA"}]
+[
+  {
+    "id": "3201362001",
+    "district_id": "320136",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3201362002",
+    "district_id": "320136",
+    "name": "SELAWANGI"
+  },
+  {
+    "id": "3201362003",
+    "district_id": "320136",
+    "name": "TANJUNGRASA"
+  },
+  {
+    "id": "3201362004",
+    "district_id": "320136",
+    "name": "ANTAJAYA"
+  },
+  {
+    "id": "3201362005",
+    "district_id": "320136",
+    "name": "PASIRTANJUNG"
+  },
+  {
+    "id": "3201362006",
+    "district_id": "320136",
+    "name": "CIBADAK"
+  },
+  {
+    "id": "3201362007",
+    "district_id": "320136",
+    "name": "SUKARASA"
+  },
+  {
+    "id": "3201362008",
+    "district_id": "320136",
+    "name": "SIRNASARI"
+  },
+  {
+    "id": "3201362009",
+    "district_id": "320136",
+    "name": "BUANAJAYA"
+  },
+  {
+    "id": "3201362010",
+    "district_id": "320136",
+    "name": "SIRNARASA"
+  }
+]

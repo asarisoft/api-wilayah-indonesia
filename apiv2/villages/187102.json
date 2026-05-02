@@ -1,1 +1,32 @@
-[{"id": "1871021003", "district_id": "187102", "name": "SUKARAME"}, {"id": "1871021004", "district_id": "187102", "name": "WAY DADI"}, {"id": "1871021006", "district_id": "187102", "name": "SUKARAME BARU"}, {"id": "1871021007", "district_id": "187102", "name": "WAY DADI BARU"}, {"id": "1871021008", "district_id": "187102", "name": "KORPRI JAYA"}, {"id": "1871021009", "district_id": "187102", "name": "KORPRI RAYA"}]
+[
+  {
+    "id": "1871021003",
+    "district_id": "187102",
+    "name": "SUKARAME"
+  },
+  {
+    "id": "1871021004",
+    "district_id": "187102",
+    "name": "WAY DADI"
+  },
+  {
+    "id": "1871021006",
+    "district_id": "187102",
+    "name": "SUKARAME BARU"
+  },
+  {
+    "id": "1871021007",
+    "district_id": "187102",
+    "name": "WAY DADI BARU"
+  },
+  {
+    "id": "1871021008",
+    "district_id": "187102",
+    "name": "KORPRI JAYA"
+  },
+  {
+    "id": "1871021009",
+    "district_id": "187102",
+    "name": "KORPRI RAYA"
+  }
+]

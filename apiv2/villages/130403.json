@@ -1,1 +1,27 @@
-[{"id": "1304032001", "district_id": "130403", "name": "SIMAWANG"}, {"id": "1304032002", "district_id": "130403", "name": "BALIMBIANG"}, {"id": "1304032003", "district_id": "130403", "name": "III KOTO"}, {"id": "1304032004", "district_id": "130403", "name": "PADANG MAGEK"}, {"id": "1304032005", "district_id": "130403", "name": "RAMBATAN"}]
+[
+  {
+    "id": "1304032001",
+    "district_id": "130403",
+    "name": "SIMAWANG"
+  },
+  {
+    "id": "1304032002",
+    "district_id": "130403",
+    "name": "BALIMBIANG"
+  },
+  {
+    "id": "1304032003",
+    "district_id": "130403",
+    "name": "III KOTO"
+  },
+  {
+    "id": "1304032004",
+    "district_id": "130403",
+    "name": "PADANG MAGEK"
+  },
+  {
+    "id": "1304032005",
+    "district_id": "130403",
+    "name": "RAMBATAN"
+  }
+]

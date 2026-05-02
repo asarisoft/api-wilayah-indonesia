@@ -1,1 +1,67 @@
-[{"id": "7206202001", "district_id": "720620", "name": "TANJUNG HARAPAN"}, {"id": "7206202002", "district_id": "720620", "name": "MATANO"}, {"id": "7206202003", "district_id": "720620", "name": "TANONA"}, {"id": "7206202004", "district_id": "720620", "name": "TANJUNG TIRAM"}, {"id": "7206202005", "district_id": "720620", "name": "MATARAPE"}, {"id": "7206202006", "district_id": "720620", "name": "MBOKITA"}, {"id": "7206202007", "district_id": "720620", "name": "DONGKALAN"}, {"id": "7206202008", "district_id": "720620", "name": "PULAU TENGAH"}, {"id": "7206202009", "district_id": "720620", "name": "MASADIAN"}, {"id": "7206202010", "district_id": "720620", "name": "PULAU TIGA"}, {"id": "7206202011", "district_id": "720620", "name": "LA LEMO"}, {"id": "7206202012", "district_id": "720620", "name": "LAMONTOLI"}, {"id": "7206202013", "district_id": "720620", "name": "PULAU DUA DARAT"}]
+[
+  {
+    "id": "7206202001",
+    "district_id": "720620",
+    "name": "TANJUNG HARAPAN"
+  },
+  {
+    "id": "7206202002",
+    "district_id": "720620",
+    "name": "MATANO"
+  },
+  {
+    "id": "7206202003",
+    "district_id": "720620",
+    "name": "TANONA"
+  },
+  {
+    "id": "7206202004",
+    "district_id": "720620",
+    "name": "TANJUNG TIRAM"
+  },
+  {
+    "id": "7206202005",
+    "district_id": "720620",
+    "name": "MATARAPE"
+  },
+  {
+    "id": "7206202006",
+    "district_id": "720620",
+    "name": "MBOKITA"
+  },
+  {
+    "id": "7206202007",
+    "district_id": "720620",
+    "name": "DONGKALAN"
+  },
+  {
+    "id": "7206202008",
+    "district_id": "720620",
+    "name": "PULAU TENGAH"
+  },
+  {
+    "id": "7206202009",
+    "district_id": "720620",
+    "name": "MASADIAN"
+  },
+  {
+    "id": "7206202010",
+    "district_id": "720620",
+    "name": "PULAU TIGA"
+  },
+  {
+    "id": "7206202011",
+    "district_id": "720620",
+    "name": "LA LEMO"
+  },
+  {
+    "id": "7206202012",
+    "district_id": "720620",
+    "name": "LAMONTOLI"
+  },
+  {
+    "id": "7206202013",
+    "district_id": "720620",
+    "name": "PULAU DUA DARAT"
+  }
+]

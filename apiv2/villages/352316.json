@@ -1,1 +1,87 @@
-[{"id": "3523161003", "district_id": "352316", "name": "MONDOKAN"}, {"id": "3523161005", "district_id": "352316", "name": "PERBON"}, {"id": "3523161006", "district_id": "352316", "name": "LATSARI"}, {"id": "3523161007", "district_id": "352316", "name": "KARANGSARI"}, {"id": "3523161008", "district_id": "352316", "name": "KINGKING"}, {"id": "3523161009", "district_id": "352316", "name": "RONGGOMULYO"}, {"id": "3523161010", "district_id": "352316", "name": "SIDOREJO"}, {"id": "3523161011", "district_id": "352316", "name": "DOROMUKTI"}, {"id": "3523161012", "district_id": "352316", "name": "SIDOMULYO"}, {"id": "3523161013", "district_id": "352316", "name": "KUTOREJO"}, {"id": "3523161014", "district_id": "352316", "name": "KEBONSARI"}, {"id": "3523161015", "district_id": "352316", "name": "SENDANGHARJO"}, {"id": "3523161016", "district_id": "352316", "name": "BATURETNO"}, {"id": "3523161017", "district_id": "352316", "name": "SUKOLILO"}, {"id": "3523162001", "district_id": "352316", "name": "SUMURGUNG"}, {"id": "3523162002", "district_id": "352316", "name": "SUGIHARJO"}, {"id": "3523162004", "district_id": "352316", "name": "KEMBANGBILO"}]
+[
+  {
+    "id": "3523161003",
+    "district_id": "352316",
+    "name": "MONDOKAN"
+  },
+  {
+    "id": "3523161005",
+    "district_id": "352316",
+    "name": "PERBON"
+  },
+  {
+    "id": "3523161006",
+    "district_id": "352316",
+    "name": "LATSARI"
+  },
+  {
+    "id": "3523161007",
+    "district_id": "352316",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3523161008",
+    "district_id": "352316",
+    "name": "KINGKING"
+  },
+  {
+    "id": "3523161009",
+    "district_id": "352316",
+    "name": "RONGGOMULYO"
+  },
+  {
+    "id": "3523161010",
+    "district_id": "352316",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3523161011",
+    "district_id": "352316",
+    "name": "DOROMUKTI"
+  },
+  {
+    "id": "3523161012",
+    "district_id": "352316",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3523161013",
+    "district_id": "352316",
+    "name": "KUTOREJO"
+  },
+  {
+    "id": "3523161014",
+    "district_id": "352316",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3523161015",
+    "district_id": "352316",
+    "name": "SENDANGHARJO"
+  },
+  {
+    "id": "3523161016",
+    "district_id": "352316",
+    "name": "BATURETNO"
+  },
+  {
+    "id": "3523161017",
+    "district_id": "352316",
+    "name": "SUKOLILO"
+  },
+  {
+    "id": "3523162001",
+    "district_id": "352316",
+    "name": "SUMURGUNG"
+  },
+  {
+    "id": "3523162002",
+    "district_id": "352316",
+    "name": "SUGIHARJO"
+  },
+  {
+    "id": "3523162004",
+    "district_id": "352316",
+    "name": "KEMBANGBILO"
+  }
+]

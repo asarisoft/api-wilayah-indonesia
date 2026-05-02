@@ -1,1 +1,77 @@
-[{"id": "3312121002", "district_id": "331212", "name": "WURYOREJO"}, {"id": "3312121003", "district_id": "331212", "name": "GIRITIRTO"}, {"id": "3312121006", "district_id": "331212", "name": "GIRIPURWO"}, {"id": "3312121007", "district_id": "331212", "name": "GIRIWONO"}, {"id": "3312121008", "district_id": "331212", "name": "WONOBOYO"}, {"id": "3312121015", "district_id": "331212", "name": "WONOKARTO"}, {"id": "3312122001", "district_id": "331212", "name": "SENDANG"}, {"id": "3312122004", "district_id": "331212", "name": "POKOHKIDUL"}, {"id": "3312122005", "district_id": "331212", "name": "PURWOREJO"}, {"id": "3312122009", "district_id": "331212", "name": "BULUSULUR"}, {"id": "3312122010", "district_id": "331212", "name": "PURWOSARI"}, {"id": "3312122011", "district_id": "331212", "name": "WONOHARJO"}, {"id": "3312122012", "district_id": "331212", "name": "MANJUNG"}, {"id": "3312122013", "district_id": "331212", "name": "WONOKERTO"}, {"id": "3312122014", "district_id": "331212", "name": "SONOHARJO"}]
+[
+  {
+    "id": "3312121002",
+    "district_id": "331212",
+    "name": "WURYOREJO"
+  },
+  {
+    "id": "3312121003",
+    "district_id": "331212",
+    "name": "GIRITIRTO"
+  },
+  {
+    "id": "3312121006",
+    "district_id": "331212",
+    "name": "GIRIPURWO"
+  },
+  {
+    "id": "3312121007",
+    "district_id": "331212",
+    "name": "GIRIWONO"
+  },
+  {
+    "id": "3312121008",
+    "district_id": "331212",
+    "name": "WONOBOYO"
+  },
+  {
+    "id": "3312121015",
+    "district_id": "331212",
+    "name": "WONOKARTO"
+  },
+  {
+    "id": "3312122001",
+    "district_id": "331212",
+    "name": "SENDANG"
+  },
+  {
+    "id": "3312122004",
+    "district_id": "331212",
+    "name": "POKOHKIDUL"
+  },
+  {
+    "id": "3312122005",
+    "district_id": "331212",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3312122009",
+    "district_id": "331212",
+    "name": "BULUSULUR"
+  },
+  {
+    "id": "3312122010",
+    "district_id": "331212",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "3312122011",
+    "district_id": "331212",
+    "name": "WONOHARJO"
+  },
+  {
+    "id": "3312122012",
+    "district_id": "331212",
+    "name": "MANJUNG"
+  },
+  {
+    "id": "3312122013",
+    "district_id": "331212",
+    "name": "WONOKERTO"
+  },
+  {
+    "id": "3312122014",
+    "district_id": "331212",
+    "name": "SONOHARJO"
+  }
+]

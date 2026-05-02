@@ -1,1 +1,42 @@
-[{"id": "5207062001", "district_id": "520706", "name": "SENAYAN"}, {"id": "5207062002", "district_id": "520706", "name": "MANTAR"}, {"id": "5207062003", "district_id": "520706", "name": "KIANTAR"}, {"id": "5207062004", "district_id": "520706", "name": "POTO TANO"}, {"id": "5207062005", "district_id": "520706", "name": "UPT TAMBAK SARI"}, {"id": "5207062006", "district_id": "520706", "name": "KOKARLIAN"}, {"id": "5207062007", "district_id": "520706", "name": "TEBO"}, {"id": "5207062008", "district_id": "520706", "name": "TUANANGA"}]
+[
+  {
+    "id": "5207062001",
+    "district_id": "520706",
+    "name": "SENAYAN"
+  },
+  {
+    "id": "5207062002",
+    "district_id": "520706",
+    "name": "MANTAR"
+  },
+  {
+    "id": "5207062003",
+    "district_id": "520706",
+    "name": "KIANTAR"
+  },
+  {
+    "id": "5207062004",
+    "district_id": "520706",
+    "name": "POTO TANO"
+  },
+  {
+    "id": "5207062005",
+    "district_id": "520706",
+    "name": "UPT TAMBAK SARI"
+  },
+  {
+    "id": "5207062006",
+    "district_id": "520706",
+    "name": "KOKARLIAN"
+  },
+  {
+    "id": "5207062007",
+    "district_id": "520706",
+    "name": "TEBO"
+  },
+  {
+    "id": "5207062008",
+    "district_id": "520706",
+    "name": "TUANANGA"
+  }
+]

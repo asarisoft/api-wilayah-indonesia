@@ -1,1 +1,62 @@
-[{"id": "3602102001", "district_id": "360210", "name": "PASINDANGAN"}, {"id": "3602102002", "district_id": "360210", "name": "PARUNGKUJANG"}, {"id": "3602102003", "district_id": "360210", "name": "CILELES"}, {"id": "3602102004", "district_id": "360210", "name": "CIKAREO"}, {"id": "3602102005", "district_id": "360210", "name": "CIPADANG"}, {"id": "3602102006", "district_id": "360210", "name": "GUMURUH"}, {"id": "3602102007", "district_id": "360210", "name": "PRABUGANTUNGAN"}, {"id": "3602102008", "district_id": "360210", "name": "DAROYON"}, {"id": "3602102009", "district_id": "360210", "name": "MARGAMULYA"}, {"id": "3602102010", "district_id": "360210", "name": "MEKARJAYA"}, {"id": "3602102011", "district_id": "360210", "name": "KUJANGSARI"}, {"id": "3602102012", "district_id": "360210", "name": "BANJARSARI"}]
+[
+  {
+    "id": "3602102001",
+    "district_id": "360210",
+    "name": "PASINDANGAN"
+  },
+  {
+    "id": "3602102002",
+    "district_id": "360210",
+    "name": "PARUNGKUJANG"
+  },
+  {
+    "id": "3602102003",
+    "district_id": "360210",
+    "name": "CILELES"
+  },
+  {
+    "id": "3602102004",
+    "district_id": "360210",
+    "name": "CIKAREO"
+  },
+  {
+    "id": "3602102005",
+    "district_id": "360210",
+    "name": "CIPADANG"
+  },
+  {
+    "id": "3602102006",
+    "district_id": "360210",
+    "name": "GUMURUH"
+  },
+  {
+    "id": "3602102007",
+    "district_id": "360210",
+    "name": "PRABUGANTUNGAN"
+  },
+  {
+    "id": "3602102008",
+    "district_id": "360210",
+    "name": "DAROYON"
+  },
+  {
+    "id": "3602102009",
+    "district_id": "360210",
+    "name": "MARGAMULYA"
+  },
+  {
+    "id": "3602102010",
+    "district_id": "360210",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3602102011",
+    "district_id": "360210",
+    "name": "KUJANGSARI"
+  },
+  {
+    "id": "3602102012",
+    "district_id": "360210",
+    "name": "BANJARSARI"
+  }
+]

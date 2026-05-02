@@ -1,1 +1,47 @@
-[{"id": "1209172001", "district_id": "120917", "name": "BANDAR PASIR MANDOGE"}, {"id": "1209172002", "district_id": "120917", "name": "HUTA BAGASAN"}, {"id": "1209172003", "district_id": "120917", "name": "SEI NADORAS"}, {"id": "1209172004", "district_id": "120917", "name": "SILAU JAWA"}, {"id": "1209172005", "district_id": "120917", "name": "SUKA MAKMUR"}, {"id": "1209172006", "district_id": "120917", "name": "SEI KOPAS"}, {"id": "1209172007", "district_id": "120917", "name": "HUTA PADANG"}, {"id": "1209172008", "district_id": "120917", "name": "TOMUAN HOLBUNG"}, {"id": "1209172009", "district_id": "120917", "name": "GOTTING SIDODADI"}]
+[
+  {
+    "id": "1209172001",
+    "district_id": "120917",
+    "name": "BANDAR PASIR MANDOGE"
+  },
+  {
+    "id": "1209172002",
+    "district_id": "120917",
+    "name": "HUTA BAGASAN"
+  },
+  {
+    "id": "1209172003",
+    "district_id": "120917",
+    "name": "SEI NADORAS"
+  },
+  {
+    "id": "1209172004",
+    "district_id": "120917",
+    "name": "SILAU JAWA"
+  },
+  {
+    "id": "1209172005",
+    "district_id": "120917",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1209172006",
+    "district_id": "120917",
+    "name": "SEI KOPAS"
+  },
+  {
+    "id": "1209172007",
+    "district_id": "120917",
+    "name": "HUTA PADANG"
+  },
+  {
+    "id": "1209172008",
+    "district_id": "120917",
+    "name": "TOMUAN HOLBUNG"
+  },
+  {
+    "id": "1209172009",
+    "district_id": "120917",
+    "name": "GOTTING SIDODADI"
+  }
+]

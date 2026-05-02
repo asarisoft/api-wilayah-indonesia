@@ -1,1 +1,62 @@
-[{"id": "1805202001", "district_id": "180520", "name": "BUJUK AGUNG"}, {"id": "1805202002", "district_id": "180520", "name": "RINGIN SARI"}, {"id": "1805202003", "district_id": "180520", "name": "SUKA MAJU"}, {"id": "1805202004", "district_id": "180520", "name": "CATUR KARYA BUANA JAYA"}, {"id": "1805202005", "district_id": "180520", "name": "PURWA JAYA"}, {"id": "1805202006", "district_id": "180520", "name": "PENAWAR JAYA"}, {"id": "1805202007", "district_id": "180520", "name": "AGUNG DALAM"}, {"id": "1805202008", "district_id": "180520", "name": "SUMBER MAKMUR"}, {"id": "1805202009", "district_id": "180520", "name": "TRI TUNGGAL JAYA"}, {"id": "1805202010", "district_id": "180520", "name": "AGUNG JAYA"}, {"id": "1805202011", "district_id": "180520", "name": "PENAWAR REJO"}, {"id": "1805202012", "district_id": "180520", "name": "MEKAR JAYA"}]
+[
+  {
+    "id": "1805202001",
+    "district_id": "180520",
+    "name": "BUJUK AGUNG"
+  },
+  {
+    "id": "1805202002",
+    "district_id": "180520",
+    "name": "RINGIN SARI"
+  },
+  {
+    "id": "1805202003",
+    "district_id": "180520",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1805202004",
+    "district_id": "180520",
+    "name": "CATUR KARYA BUANA JAYA"
+  },
+  {
+    "id": "1805202005",
+    "district_id": "180520",
+    "name": "PURWA JAYA"
+  },
+  {
+    "id": "1805202006",
+    "district_id": "180520",
+    "name": "PENAWAR JAYA"
+  },
+  {
+    "id": "1805202007",
+    "district_id": "180520",
+    "name": "AGUNG DALAM"
+  },
+  {
+    "id": "1805202008",
+    "district_id": "180520",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "1805202009",
+    "district_id": "180520",
+    "name": "TRI TUNGGAL JAYA"
+  },
+  {
+    "id": "1805202010",
+    "district_id": "180520",
+    "name": "AGUNG JAYA"
+  },
+  {
+    "id": "1805202011",
+    "district_id": "180520",
+    "name": "PENAWAR REJO"
+  },
+  {
+    "id": "1805202012",
+    "district_id": "180520",
+    "name": "MEKAR JAYA"
+  }
+]

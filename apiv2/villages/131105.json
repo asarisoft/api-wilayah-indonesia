@@ -1,1 +1,37 @@
-[{"id": "1311052001", "district_id": "131105", "name": "ABAI"}, {"id": "1311052002", "district_id": "131105", "name": "DUSUN TANGAH"}, {"id": "1311052003", "district_id": "131105", "name": "LUBUK ULANG ALING"}, {"id": "1311052004", "district_id": "131105", "name": "RANAH PANTAI CERMIN"}, {"id": "1311052005", "district_id": "131105", "name": "SITAPUS"}, {"id": "1311052006", "district_id": "131105", "name": "LUBUK ULANG ALING SELATAN"}, {"id": "1311052007", "district_id": "131105", "name": "LUBUK ULANG ALING TENGAH"}]
+[
+  {
+    "id": "1311052001",
+    "district_id": "131105",
+    "name": "ABAI"
+  },
+  {
+    "id": "1311052002",
+    "district_id": "131105",
+    "name": "DUSUN TANGAH"
+  },
+  {
+    "id": "1311052003",
+    "district_id": "131105",
+    "name": "LUBUK ULANG ALING"
+  },
+  {
+    "id": "1311052004",
+    "district_id": "131105",
+    "name": "RANAH PANTAI CERMIN"
+  },
+  {
+    "id": "1311052005",
+    "district_id": "131105",
+    "name": "SITAPUS"
+  },
+  {
+    "id": "1311052006",
+    "district_id": "131105",
+    "name": "LUBUK ULANG ALING SELATAN"
+  },
+  {
+    "id": "1311052007",
+    "district_id": "131105",
+    "name": "LUBUK ULANG ALING TENGAH"
+  }
+]

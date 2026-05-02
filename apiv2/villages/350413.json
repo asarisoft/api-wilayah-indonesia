@@ -1,1 +1,82 @@
-[{"id": "3504132001", "district_id": "350413", "name": "TENGGUR"}, {"id": "3504132002", "district_id": "350413", "name": "PANJEREJO"}, {"id": "3504132003", "district_id": "350413", "name": "KARANGSARI"}, {"id": "3504132004", "district_id": "350413", "name": "TUGU"}, {"id": "3504132005", "district_id": "350413", "name": "SUKOREJO WETAN"}, {"id": "3504132006", "district_id": "350413", "name": "JATIDOWO"}, {"id": "3504132007", "district_id": "350413", "name": "BANJAREJO"}, {"id": "3504132008", "district_id": "350413", "name": "TANEN"}, {"id": "3504132009", "district_id": "350413", "name": "SUMBERAGUNG"}, {"id": "3504132010", "district_id": "350413", "name": "BLIMBING"}, {"id": "3504132011", "district_id": "350413", "name": "REJOTANGAN"}, {"id": "3504132012", "district_id": "350413", "name": "PAKISREJO"}, {"id": "3504132013", "district_id": "350413", "name": "TEGALREJO"}, {"id": "3504132014", "district_id": "350413", "name": "ARIYOJEDING"}, {"id": "3504132015", "district_id": "350413", "name": "TENGGONG"}, {"id": "3504132016", "district_id": "350413", "name": "BUNTARAN"}]
+[
+  {
+    "id": "3504132001",
+    "district_id": "350413",
+    "name": "TENGGUR"
+  },
+  {
+    "id": "3504132002",
+    "district_id": "350413",
+    "name": "PANJEREJO"
+  },
+  {
+    "id": "3504132003",
+    "district_id": "350413",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3504132004",
+    "district_id": "350413",
+    "name": "TUGU"
+  },
+  {
+    "id": "3504132005",
+    "district_id": "350413",
+    "name": "SUKOREJO WETAN"
+  },
+  {
+    "id": "3504132006",
+    "district_id": "350413",
+    "name": "JATIDOWO"
+  },
+  {
+    "id": "3504132007",
+    "district_id": "350413",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "3504132008",
+    "district_id": "350413",
+    "name": "TANEN"
+  },
+  {
+    "id": "3504132009",
+    "district_id": "350413",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3504132010",
+    "district_id": "350413",
+    "name": "BLIMBING"
+  },
+  {
+    "id": "3504132011",
+    "district_id": "350413",
+    "name": "REJOTANGAN"
+  },
+  {
+    "id": "3504132012",
+    "district_id": "350413",
+    "name": "PAKISREJO"
+  },
+  {
+    "id": "3504132013",
+    "district_id": "350413",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "3504132014",
+    "district_id": "350413",
+    "name": "ARIYOJEDING"
+  },
+  {
+    "id": "3504132015",
+    "district_id": "350413",
+    "name": "TENGGONG"
+  },
+  {
+    "id": "3504132016",
+    "district_id": "350413",
+    "name": "BUNTARAN"
+  }
+]

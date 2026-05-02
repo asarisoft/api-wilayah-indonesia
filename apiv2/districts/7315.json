@@ -1,1 +1,62 @@
-[{"id": "731501", "regency_id": "7315", "name": "MATTIRO SOMPE"}, {"id": "731502", "regency_id": "7315", "name": "SUPPA"}, {"id": "731503", "regency_id": "7315", "name": "MATTIRO BULU"}, {"id": "731504", "regency_id": "7315", "name": "WATANG SAWITTO"}, {"id": "731505", "regency_id": "7315", "name": "PATAMPANUA"}, {"id": "731506", "regency_id": "7315", "name": "DUAMPANUA"}, {"id": "731507", "regency_id": "7315", "name": "LEMBANG"}, {"id": "731508", "regency_id": "7315", "name": "CEMPA"}, {"id": "731509", "regency_id": "7315", "name": "TIROANG"}, {"id": "731510", "regency_id": "7315", "name": "LANRISANG"}, {"id": "731511", "regency_id": "7315", "name": "PALETEANG"}, {"id": "731512", "regency_id": "7315", "name": "BATULAPPA"}]
+[
+  {
+    "id": "731501",
+    "regency_id": "7315",
+    "name": "MATTIRO SOMPE"
+  },
+  {
+    "id": "731502",
+    "regency_id": "7315",
+    "name": "SUPPA"
+  },
+  {
+    "id": "731503",
+    "regency_id": "7315",
+    "name": "MATTIRO BULU"
+  },
+  {
+    "id": "731504",
+    "regency_id": "7315",
+    "name": "WATANG SAWITTO"
+  },
+  {
+    "id": "731505",
+    "regency_id": "7315",
+    "name": "PATAMPANUA"
+  },
+  {
+    "id": "731506",
+    "regency_id": "7315",
+    "name": "DUAMPANUA"
+  },
+  {
+    "id": "731507",
+    "regency_id": "7315",
+    "name": "LEMBANG"
+  },
+  {
+    "id": "731508",
+    "regency_id": "7315",
+    "name": "CEMPA"
+  },
+  {
+    "id": "731509",
+    "regency_id": "7315",
+    "name": "TIROANG"
+  },
+  {
+    "id": "731510",
+    "regency_id": "7315",
+    "name": "LANRISANG"
+  },
+  {
+    "id": "731511",
+    "regency_id": "7315",
+    "name": "PALETEANG"
+  },
+  {
+    "id": "731512",
+    "regency_id": "7315",
+    "name": "BATULAPPA"
+  }
+]

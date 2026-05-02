@@ -1,1 +1,22 @@
-[{"id": "1310032003", "district_id": "131003", "name": "SUNGAI RUMBAI"}, {"id": "1310032004", "district_id": "131003", "name": "KURNIA KOTO SALAK"}, {"id": "1310032007", "district_id": "131003", "name": "SUNGAI RUMBAI TIMUR"}, {"id": "1310032008", "district_id": "131003", "name": "KURNIA SELATAN"}]
+[
+  {
+    "id": "1310032003",
+    "district_id": "131003",
+    "name": "SUNGAI RUMBAI"
+  },
+  {
+    "id": "1310032004",
+    "district_id": "131003",
+    "name": "KURNIA KOTO SALAK"
+  },
+  {
+    "id": "1310032007",
+    "district_id": "131003",
+    "name": "SUNGAI RUMBAI TIMUR"
+  },
+  {
+    "id": "1310032008",
+    "district_id": "131003",
+    "name": "KURNIA SELATAN"
+  }
+]

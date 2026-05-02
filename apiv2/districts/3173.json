@@ -1,1 +1,42 @@
-[{"id": "317301", "regency_id": "3173", "name": "CENGKARENG"}, {"id": "317302", "regency_id": "3173", "name": "GROGOL PETAMBURAN"}, {"id": "317303", "regency_id": "3173", "name": "TAMAN SARI"}, {"id": "317304", "regency_id": "3173", "name": "TAMBORA"}, {"id": "317305", "regency_id": "3173", "name": "KEBON JERUK"}, {"id": "317306", "regency_id": "3173", "name": "KALIDERES"}, {"id": "317307", "regency_id": "3173", "name": "PAL MERAH"}, {"id": "317308", "regency_id": "3173", "name": "KEMBANGAN"}]
+[
+  {
+    "id": "317301",
+    "regency_id": "3173",
+    "name": "CENGKARENG"
+  },
+  {
+    "id": "317302",
+    "regency_id": "3173",
+    "name": "GROGOL PETAMBURAN"
+  },
+  {
+    "id": "317303",
+    "regency_id": "3173",
+    "name": "TAMAN SARI"
+  },
+  {
+    "id": "317304",
+    "regency_id": "3173",
+    "name": "TAMBORA"
+  },
+  {
+    "id": "317305",
+    "regency_id": "3173",
+    "name": "KEBON JERUK"
+  },
+  {
+    "id": "317306",
+    "regency_id": "3173",
+    "name": "KALIDERES"
+  },
+  {
+    "id": "317307",
+    "regency_id": "3173",
+    "name": "PAL MERAH"
+  },
+  {
+    "id": "317308",
+    "regency_id": "3173",
+    "name": "KEMBANGAN"
+  }
+]

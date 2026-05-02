@@ -1,1 +1,62 @@
-[{"id": "3205222001", "district_id": "320522", "name": "CIKAJANG"}, {"id": "3205222002", "district_id": "320522", "name": "SIMPANG"}, {"id": "3205222003", "district_id": "320522", "name": "MEKARSARI"}, {"id": "3205222004", "district_id": "320522", "name": "GIRIJAYA"}, {"id": "3205222005", "district_id": "320522", "name": "GIRIAWAS"}, {"id": "3205222006", "district_id": "320522", "name": "CIBODAS"}, {"id": "3205222007", "district_id": "320522", "name": "MEKARJAYA"}, {"id": "3205222008", "district_id": "320522", "name": "CIKANDANG"}, {"id": "3205222009", "district_id": "320522", "name": "PADASUKA"}, {"id": "3205222010", "district_id": "320522", "name": "MARGAMULYA"}, {"id": "3205222011", "district_id": "320522", "name": "CIPANGRAMATAN"}, {"id": "3205222012", "district_id": "320522", "name": "KARAMATWANGI"}]
+[
+  {
+    "id": "3205222001",
+    "district_id": "320522",
+    "name": "CIKAJANG"
+  },
+  {
+    "id": "3205222002",
+    "district_id": "320522",
+    "name": "SIMPANG"
+  },
+  {
+    "id": "3205222003",
+    "district_id": "320522",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3205222004",
+    "district_id": "320522",
+    "name": "GIRIJAYA"
+  },
+  {
+    "id": "3205222005",
+    "district_id": "320522",
+    "name": "GIRIAWAS"
+  },
+  {
+    "id": "3205222006",
+    "district_id": "320522",
+    "name": "CIBODAS"
+  },
+  {
+    "id": "3205222007",
+    "district_id": "320522",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3205222008",
+    "district_id": "320522",
+    "name": "CIKANDANG"
+  },
+  {
+    "id": "3205222009",
+    "district_id": "320522",
+    "name": "PADASUKA"
+  },
+  {
+    "id": "3205222010",
+    "district_id": "320522",
+    "name": "MARGAMULYA"
+  },
+  {
+    "id": "3205222011",
+    "district_id": "320522",
+    "name": "CIPANGRAMATAN"
+  },
+  {
+    "id": "3205222012",
+    "district_id": "320522",
+    "name": "KARAMATWANGI"
+  }
+]

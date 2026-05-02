@@ -1,1 +1,92 @@
-[{"id": "3514192001", "district_id": "351419", "name": "MINGGIR"}, {"id": "3514192002", "district_id": "351419", "name": "KARANGTENGAH"}, {"id": "3514192003", "district_id": "351419", "name": "KEDUNGREJO"}, {"id": "3514192004", "district_id": "351419", "name": "UMBULAN"}, {"id": "3514192005", "district_id": "351419", "name": "SIDEPAN"}, {"id": "3514192006", "district_id": "351419", "name": "SRUWI"}, {"id": "3514192007", "district_id": "351419", "name": "JELADRI"}, {"id": "3514192008", "district_id": "351419", "name": "SUMBERREJO"}, {"id": "3514192009", "district_id": "351419", "name": "PRODO"}, {"id": "3514192010", "district_id": "351419", "name": "LEBAK"}, {"id": "3514192011", "district_id": "351419", "name": "MENYARIK"}, {"id": "3514192012", "district_id": "351419", "name": "KANDUNG"}, {"id": "3514192013", "district_id": "351419", "name": "MENDALAN"}, {"id": "3514192014", "district_id": "351419", "name": "PENATAAN"}, {"id": "3514192015", "district_id": "351419", "name": "WINONGAN KIDUL"}, {"id": "3514192016", "district_id": "351419", "name": "BANDARAN"}, {"id": "3514192017", "district_id": "351419", "name": "WINONGAN LOR"}, {"id": "3514192018", "district_id": "351419", "name": "GADING"}]
+[
+  {
+    "id": "3514192001",
+    "district_id": "351419",
+    "name": "MINGGIR"
+  },
+  {
+    "id": "3514192002",
+    "district_id": "351419",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3514192003",
+    "district_id": "351419",
+    "name": "KEDUNGREJO"
+  },
+  {
+    "id": "3514192004",
+    "district_id": "351419",
+    "name": "UMBULAN"
+  },
+  {
+    "id": "3514192005",
+    "district_id": "351419",
+    "name": "SIDEPAN"
+  },
+  {
+    "id": "3514192006",
+    "district_id": "351419",
+    "name": "SRUWI"
+  },
+  {
+    "id": "3514192007",
+    "district_id": "351419",
+    "name": "JELADRI"
+  },
+  {
+    "id": "3514192008",
+    "district_id": "351419",
+    "name": "SUMBERREJO"
+  },
+  {
+    "id": "3514192009",
+    "district_id": "351419",
+    "name": "PRODO"
+  },
+  {
+    "id": "3514192010",
+    "district_id": "351419",
+    "name": "LEBAK"
+  },
+  {
+    "id": "3514192011",
+    "district_id": "351419",
+    "name": "MENYARIK"
+  },
+  {
+    "id": "3514192012",
+    "district_id": "351419",
+    "name": "KANDUNG"
+  },
+  {
+    "id": "3514192013",
+    "district_id": "351419",
+    "name": "MENDALAN"
+  },
+  {
+    "id": "3514192014",
+    "district_id": "351419",
+    "name": "PENATAAN"
+  },
+  {
+    "id": "3514192015",
+    "district_id": "351419",
+    "name": "WINONGAN KIDUL"
+  },
+  {
+    "id": "3514192016",
+    "district_id": "351419",
+    "name": "BANDARAN"
+  },
+  {
+    "id": "3514192017",
+    "district_id": "351419",
+    "name": "WINONGAN LOR"
+  },
+  {
+    "id": "3514192018",
+    "district_id": "351419",
+    "name": "GADING"
+  }
+]

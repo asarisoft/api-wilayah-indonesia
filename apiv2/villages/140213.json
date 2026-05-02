@@ -1,1 +1,97 @@
-[{"id": "1402132001", "district_id": "140213", "name": "TALANG TUJUH BUAH TANGGA"}, {"id": "1402132002", "district_id": "140213", "name": "TALANG DURIAN CACAR"}, {"id": "1402132003", "district_id": "140213", "name": "TALANG SELANTAI"}, {"id": "1402132004", "district_id": "140213", "name": "TALANG PERIGI"}, {"id": "1402132005", "district_id": "140213", "name": "KUANTAN TENANG"}, {"id": "1402132006", "district_id": "140213", "name": "KOTA BARU"}, {"id": "1402132007", "district_id": "140213", "name": "RIMBA SEMINAI"}, {"id": "1402132008", "district_id": "140213", "name": "KELAYANG"}, {"id": "1402132009", "district_id": "140213", "name": "TALANG GEDABU"}, {"id": "1402132010", "district_id": "140213", "name": "TALANG SUNGAI LIMAU"}, {"id": "1402132011", "district_id": "140213", "name": "TALANG SUNGAI PARIT"}, {"id": "1402132012", "district_id": "140213", "name": "BATU SAWAR"}, {"id": "1402132013", "district_id": "140213", "name": "PETONGGAN"}, {"id": "1402132014", "district_id": "140213", "name": "LUBUK SITARAK"}, {"id": "1402132015", "district_id": "140213", "name": "BUKIT INDAH"}, {"id": "1402132016", "district_id": "140213", "name": "SUNGAI EKOK"}, {"id": "1402132017", "district_id": "140213", "name": "TALANG SUKA MAJU"}, {"id": "1402132018", "district_id": "140213", "name": "KAMPUNG BUNGA"}, {"id": "1402132019", "district_id": "140213", "name": "TALANG PRING JAYA"}]
+[
+  {
+    "id": "1402132001",
+    "district_id": "140213",
+    "name": "TALANG TUJUH BUAH TANGGA"
+  },
+  {
+    "id": "1402132002",
+    "district_id": "140213",
+    "name": "TALANG DURIAN CACAR"
+  },
+  {
+    "id": "1402132003",
+    "district_id": "140213",
+    "name": "TALANG SELANTAI"
+  },
+  {
+    "id": "1402132004",
+    "district_id": "140213",
+    "name": "TALANG PERIGI"
+  },
+  {
+    "id": "1402132005",
+    "district_id": "140213",
+    "name": "KUANTAN TENANG"
+  },
+  {
+    "id": "1402132006",
+    "district_id": "140213",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "1402132007",
+    "district_id": "140213",
+    "name": "RIMBA SEMINAI"
+  },
+  {
+    "id": "1402132008",
+    "district_id": "140213",
+    "name": "KELAYANG"
+  },
+  {
+    "id": "1402132009",
+    "district_id": "140213",
+    "name": "TALANG GEDABU"
+  },
+  {
+    "id": "1402132010",
+    "district_id": "140213",
+    "name": "TALANG SUNGAI LIMAU"
+  },
+  {
+    "id": "1402132011",
+    "district_id": "140213",
+    "name": "TALANG SUNGAI PARIT"
+  },
+  {
+    "id": "1402132012",
+    "district_id": "140213",
+    "name": "BATU SAWAR"
+  },
+  {
+    "id": "1402132013",
+    "district_id": "140213",
+    "name": "PETONGGAN"
+  },
+  {
+    "id": "1402132014",
+    "district_id": "140213",
+    "name": "LUBUK SITARAK"
+  },
+  {
+    "id": "1402132015",
+    "district_id": "140213",
+    "name": "BUKIT INDAH"
+  },
+  {
+    "id": "1402132016",
+    "district_id": "140213",
+    "name": "SUNGAI EKOK"
+  },
+  {
+    "id": "1402132017",
+    "district_id": "140213",
+    "name": "TALANG SUKA MAJU"
+  },
+  {
+    "id": "1402132018",
+    "district_id": "140213",
+    "name": "KAMPUNG BUNGA"
+  },
+  {
+    "id": "1402132019",
+    "district_id": "140213",
+    "name": "TALANG PRING JAYA"
+  }
+]

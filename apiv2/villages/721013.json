@@ -1,1 +1,52 @@
-[{"id": "7210132001", "district_id": "721013", "name": "PORAME"}, {"id": "7210132002", "district_id": "721013", "name": "BALANE"}, {"id": "7210132003", "district_id": "721013", "name": "UWEMANJE"}, {"id": "7210132004", "district_id": "721013", "name": "RONDINGO"}, {"id": "7210132005", "district_id": "721013", "name": "BOLOBIA"}, {"id": "7210132006", "district_id": "721013", "name": "DODA"}, {"id": "7210132007", "district_id": "721013", "name": "KALORA"}, {"id": "7210132008", "district_id": "721013", "name": "KANUNA"}, {"id": "7210132009", "district_id": "721013", "name": "DAENGGUNE"}, {"id": "7210132010", "district_id": "721013", "name": "KAYUMPIA"}]
+[
+  {
+    "id": "7210132001",
+    "district_id": "721013",
+    "name": "PORAME"
+  },
+  {
+    "id": "7210132002",
+    "district_id": "721013",
+    "name": "BALANE"
+  },
+  {
+    "id": "7210132003",
+    "district_id": "721013",
+    "name": "UWEMANJE"
+  },
+  {
+    "id": "7210132004",
+    "district_id": "721013",
+    "name": "RONDINGO"
+  },
+  {
+    "id": "7210132005",
+    "district_id": "721013",
+    "name": "BOLOBIA"
+  },
+  {
+    "id": "7210132006",
+    "district_id": "721013",
+    "name": "DODA"
+  },
+  {
+    "id": "7210132007",
+    "district_id": "721013",
+    "name": "KALORA"
+  },
+  {
+    "id": "7210132008",
+    "district_id": "721013",
+    "name": "KANUNA"
+  },
+  {
+    "id": "7210132009",
+    "district_id": "721013",
+    "name": "DAENGGUNE"
+  },
+  {
+    "id": "7210132010",
+    "district_id": "721013",
+    "name": "KAYUMPIA"
+  }
+]

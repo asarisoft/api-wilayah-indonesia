@@ -1,1 +1,52 @@
-[{"id": "1808092001", "district_id": "180809", "name": "LEBAK PENIANGAN"}, {"id": "1808092002", "district_id": "180809", "name": "TANJUNG TIGA"}, {"id": "1808092003", "district_id": "180809", "name": "MADANG JAYA"}, {"id": "1808092004", "district_id": "180809", "name": "AIR RINGKIH"}, {"id": "1808092005", "district_id": "180809", "name": "GUNUNG SARI"}, {"id": "1808092006", "district_id": "180809", "name": "SIMPANG TIGA"}, {"id": "1808092007", "district_id": "180809", "name": "TANJUNG RAYA"}, {"id": "1808092008", "district_id": "180809", "name": "BERINGIN JAYA"}, {"id": "1808092009", "district_id": "180809", "name": "KARYA MAJU"}, {"id": "1808092010", "district_id": "180809", "name": "MULYA JAYA"}]
+[
+  {
+    "id": "1808092001",
+    "district_id": "180809",
+    "name": "LEBAK PENIANGAN"
+  },
+  {
+    "id": "1808092002",
+    "district_id": "180809",
+    "name": "TANJUNG TIGA"
+  },
+  {
+    "id": "1808092003",
+    "district_id": "180809",
+    "name": "MADANG JAYA"
+  },
+  {
+    "id": "1808092004",
+    "district_id": "180809",
+    "name": "AIR RINGKIH"
+  },
+  {
+    "id": "1808092005",
+    "district_id": "180809",
+    "name": "GUNUNG SARI"
+  },
+  {
+    "id": "1808092006",
+    "district_id": "180809",
+    "name": "SIMPANG TIGA"
+  },
+  {
+    "id": "1808092007",
+    "district_id": "180809",
+    "name": "TANJUNG RAYA"
+  },
+  {
+    "id": "1808092008",
+    "district_id": "180809",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "1808092009",
+    "district_id": "180809",
+    "name": "KARYA MAJU"
+  },
+  {
+    "id": "1808092010",
+    "district_id": "180809",
+    "name": "MULYA JAYA"
+  }
+]

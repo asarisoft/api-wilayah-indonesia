@@ -1,1 +1,22 @@
-[{"id": "6101142001", "district_id": "610114", "name": "JIRAK"}, {"id": "6101142002", "district_id": "610114", "name": "TENGGULI"}, {"id": "6101142003", "district_id": "610114", "name": "MEKAR JAYA"}, {"id": "6101142004", "district_id": "610114", "name": "BERINGIN"}]
+[
+  {
+    "id": "6101142001",
+    "district_id": "610114",
+    "name": "JIRAK"
+  },
+  {
+    "id": "6101142002",
+    "district_id": "610114",
+    "name": "TENGGULI"
+  },
+  {
+    "id": "6101142003",
+    "district_id": "610114",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "6101142004",
+    "district_id": "610114",
+    "name": "BERINGIN"
+  }
+]

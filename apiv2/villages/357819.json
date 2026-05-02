@@ -1,1 +1,22 @@
-[{"id": "3578191001", "district_id": "357819", "name": "KANDANGAN"}, {"id": "3578191003", "district_id": "357819", "name": "SEMEMI"}, {"id": "3578191004", "district_id": "357819", "name": "TAMBAK OSO WILANGUN"}, {"id": "3578191005", "district_id": "357819", "name": "ROMOKALISARI"}]
+[
+  {
+    "id": "3578191001",
+    "district_id": "357819",
+    "name": "KANDANGAN"
+  },
+  {
+    "id": "3578191003",
+    "district_id": "357819",
+    "name": "SEMEMI"
+  },
+  {
+    "id": "3578191004",
+    "district_id": "357819",
+    "name": "TAMBAK OSO WILANGUN"
+  },
+  {
+    "id": "3578191005",
+    "district_id": "357819",
+    "name": "ROMOKALISARI"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "1901021001", "district_id": "190102", "name": "KUTO PANJI"}, {"id": "1901021002", "district_id": "190102", "name": "AIR JUKUNG"}, {"id": "1901021003", "district_id": "190102", "name": "BUKIT KETOK"}, {"id": "1901021009", "district_id": "190102", "name": "REMODONG INDAH"}, {"id": "1901021010", "district_id": "190102", "name": "AIR ASAM"}, {"id": "1901021011", "district_id": "190102", "name": "MANTUNG"}, {"id": "1901021012", "district_id": "190102", "name": "BELINYU"}, {"id": "1901022004", "district_id": "190102", "name": "GUNUNG MUDA"}, {"id": "1901022005", "district_id": "190102", "name": "GUNUNG PELAWAN"}, {"id": "1901022006", "district_id": "190102", "name": "RIDING PANJANG"}, {"id": "1901022007", "district_id": "190102", "name": "LUMUT"}, {"id": "1901022008", "district_id": "190102", "name": "BINTET"}]
+[
+  {
+    "id": "1901021001",
+    "district_id": "190102",
+    "name": "KUTO PANJI"
+  },
+  {
+    "id": "1901021002",
+    "district_id": "190102",
+    "name": "AIR JUKUNG"
+  },
+  {
+    "id": "1901021003",
+    "district_id": "190102",
+    "name": "BUKIT KETOK"
+  },
+  {
+    "id": "1901021009",
+    "district_id": "190102",
+    "name": "REMODONG INDAH"
+  },
+  {
+    "id": "1901021010",
+    "district_id": "190102",
+    "name": "AIR ASAM"
+  },
+  {
+    "id": "1901021011",
+    "district_id": "190102",
+    "name": "MANTUNG"
+  },
+  {
+    "id": "1901021012",
+    "district_id": "190102",
+    "name": "BELINYU"
+  },
+  {
+    "id": "1901022004",
+    "district_id": "190102",
+    "name": "GUNUNG MUDA"
+  },
+  {
+    "id": "1901022005",
+    "district_id": "190102",
+    "name": "GUNUNG PELAWAN"
+  },
+  {
+    "id": "1901022006",
+    "district_id": "190102",
+    "name": "RIDING PANJANG"
+  },
+  {
+    "id": "1901022007",
+    "district_id": "190102",
+    "name": "LUMUT"
+  },
+  {
+    "id": "1901022008",
+    "district_id": "190102",
+    "name": "BINTET"
+  }
+]

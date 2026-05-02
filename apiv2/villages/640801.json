@@ -1,1 +1,47 @@
-[{"id": "6408012001", "district_id": "640801", "name": "SENYIUR"}, {"id": "6408012002", "district_id": "640801", "name": "KELINJAU ILIR"}, {"id": "6408012003", "district_id": "640801", "name": "KELINJAU ULU"}, {"id": "6408012004", "district_id": "640801", "name": "LONG NAH"}, {"id": "6408012006", "district_id": "640801", "name": "LONG TESAK"}, {"id": "6408012009", "district_id": "640801", "name": "GEMAR BARU"}, {"id": "6408012012", "district_id": "640801", "name": "LONG POQ BARU"}, {"id": "6408012013", "district_id": "640801", "name": "MUARA DUN"}, {"id": "6408012014", "district_id": "640801", "name": "TELUK BARU"}]
+[
+  {
+    "id": "6408012001",
+    "district_id": "640801",
+    "name": "SENYIUR"
+  },
+  {
+    "id": "6408012002",
+    "district_id": "640801",
+    "name": "KELINJAU ILIR"
+  },
+  {
+    "id": "6408012003",
+    "district_id": "640801",
+    "name": "KELINJAU ULU"
+  },
+  {
+    "id": "6408012004",
+    "district_id": "640801",
+    "name": "LONG NAH"
+  },
+  {
+    "id": "6408012006",
+    "district_id": "640801",
+    "name": "LONG TESAK"
+  },
+  {
+    "id": "6408012009",
+    "district_id": "640801",
+    "name": "GEMAR BARU"
+  },
+  {
+    "id": "6408012012",
+    "district_id": "640801",
+    "name": "LONG POQ BARU"
+  },
+  {
+    "id": "6408012013",
+    "district_id": "640801",
+    "name": "MUARA DUN"
+  },
+  {
+    "id": "6408012014",
+    "district_id": "640801",
+    "name": "TELUK BARU"
+  }
+]

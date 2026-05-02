@@ -1,1 +1,42 @@
-[{"id": "3171031001", "district_id": "317103", "name": "KEMAYORAN"}, {"id": "3171031002", "district_id": "317103", "name": "KEBON KOSONG"}, {"id": "3171031003", "district_id": "317103", "name": "HARAPAN MULIA"}, {"id": "3171031004", "district_id": "317103", "name": "SERDANG"}, {"id": "3171031005", "district_id": "317103", "name": "GUNUNG SAHARI SELATAN"}, {"id": "3171031006", "district_id": "317103", "name": "CEMPAKA BARU"}, {"id": "3171031007", "district_id": "317103", "name": "SUMUR BATU"}, {"id": "3171031008", "district_id": "317103", "name": "UTAN PANJANG"}]
+[
+  {
+    "id": "3171031001",
+    "district_id": "317103",
+    "name": "KEMAYORAN"
+  },
+  {
+    "id": "3171031002",
+    "district_id": "317103",
+    "name": "KEBON KOSONG"
+  },
+  {
+    "id": "3171031003",
+    "district_id": "317103",
+    "name": "HARAPAN MULIA"
+  },
+  {
+    "id": "3171031004",
+    "district_id": "317103",
+    "name": "SERDANG"
+  },
+  {
+    "id": "3171031005",
+    "district_id": "317103",
+    "name": "GUNUNG SAHARI SELATAN"
+  },
+  {
+    "id": "3171031006",
+    "district_id": "317103",
+    "name": "CEMPAKA BARU"
+  },
+  {
+    "id": "3171031007",
+    "district_id": "317103",
+    "name": "SUMUR BATU"
+  },
+  {
+    "id": "3171031008",
+    "district_id": "317103",
+    "name": "UTAN PANJANG"
+  }
+]

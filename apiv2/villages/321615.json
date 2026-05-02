@@ -1,1 +1,37 @@
-[{"id": "3216152001", "district_id": "321615", "name": "SUKAMULYA"}, {"id": "3216152002", "district_id": "321615", "name": "SUKAMANAH"}, {"id": "3216152003", "district_id": "321615", "name": "SUKAHURIP"}, {"id": "3216152004", "district_id": "321615", "name": "SUKAASIH"}, {"id": "3216152005", "district_id": "321615", "name": "SUKARUKUN"}, {"id": "3216152006", "district_id": "321615", "name": "BANJARSARI"}, {"id": "3216152007", "district_id": "321615", "name": "SUKADARMA"}]
+[
+  {
+    "id": "3216152001",
+    "district_id": "321615",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3216152002",
+    "district_id": "321615",
+    "name": "SUKAMANAH"
+  },
+  {
+    "id": "3216152003",
+    "district_id": "321615",
+    "name": "SUKAHURIP"
+  },
+  {
+    "id": "3216152004",
+    "district_id": "321615",
+    "name": "SUKAASIH"
+  },
+  {
+    "id": "3216152005",
+    "district_id": "321615",
+    "name": "SUKARUKUN"
+  },
+  {
+    "id": "3216152006",
+    "district_id": "321615",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3216152007",
+    "district_id": "321615",
+    "name": "SUKADARMA"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "9402172001", "district_id": "940217", "name": "DOKOME"}, {"id": "9402172002", "district_id": "940217", "name": "PURBALO"}, {"id": "9402172003", "district_id": "940217", "name": "WURAGE"}, {"id": "9402172004", "district_id": "940217", "name": "NOWONERI"}, {"id": "9402172005", "district_id": "940217", "name": "NOWOME"}, {"id": "9402172006", "district_id": "940217", "name": "IMULINERI"}, {"id": "9402172007", "district_id": "940217", "name": "MOLOBAK"}, {"id": "9402172008", "district_id": "940217", "name": "KIMIBUT"}, {"id": "9402172009", "district_id": "940217", "name": "NUNGGWAGI"}]
+[
+  {
+    "id": "9402172001",
+    "district_id": "940217",
+    "name": "DOKOME"
+  },
+  {
+    "id": "9402172002",
+    "district_id": "940217",
+    "name": "PURBALO"
+  },
+  {
+    "id": "9402172003",
+    "district_id": "940217",
+    "name": "WURAGE"
+  },
+  {
+    "id": "9402172004",
+    "district_id": "940217",
+    "name": "NOWONERI"
+  },
+  {
+    "id": "9402172005",
+    "district_id": "940217",
+    "name": "NOWOME"
+  },
+  {
+    "id": "9402172006",
+    "district_id": "940217",
+    "name": "IMULINERI"
+  },
+  {
+    "id": "9402172007",
+    "district_id": "940217",
+    "name": "MOLOBAK"
+  },
+  {
+    "id": "9402172008",
+    "district_id": "940217",
+    "name": "KIMIBUT"
+  },
+  {
+    "id": "9402172009",
+    "district_id": "940217",
+    "name": "NUNGGWAGI"
+  }
+]

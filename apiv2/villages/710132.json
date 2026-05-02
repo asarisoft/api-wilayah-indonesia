@@ -1,1 +1,42 @@
-[{"id": "7101322001", "district_id": "710132", "name": "BILALANG III"}, {"id": "7101322002", "district_id": "710132", "name": "BILALANG IV"}, {"id": "7101322003", "district_id": "710132", "name": "TUDU AOG"}, {"id": "7101322004", "district_id": "710132", "name": "TUDU AOG BARU"}, {"id": "7101322005", "district_id": "710132", "name": "KOLINGANGA'AN"}, {"id": "7101322006", "district_id": "710132", "name": "BILALANG III UTARA"}, {"id": "7101322007", "district_id": "710132", "name": "BILALANG BARU"}, {"id": "7101322008", "district_id": "710132", "name": "APADO"}]
+[
+  {
+    "id": "7101322001",
+    "district_id": "710132",
+    "name": "BILALANG III"
+  },
+  {
+    "id": "7101322002",
+    "district_id": "710132",
+    "name": "BILALANG IV"
+  },
+  {
+    "id": "7101322003",
+    "district_id": "710132",
+    "name": "TUDU AOG"
+  },
+  {
+    "id": "7101322004",
+    "district_id": "710132",
+    "name": "TUDU AOG BARU"
+  },
+  {
+    "id": "7101322005",
+    "district_id": "710132",
+    "name": "KOLINGANGA'AN"
+  },
+  {
+    "id": "7101322006",
+    "district_id": "710132",
+    "name": "BILALANG III UTARA"
+  },
+  {
+    "id": "7101322007",
+    "district_id": "710132",
+    "name": "BILALANG BARU"
+  },
+  {
+    "id": "7101322008",
+    "district_id": "710132",
+    "name": "APADO"
+  }
+]

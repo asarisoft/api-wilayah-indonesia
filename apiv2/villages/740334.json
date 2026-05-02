@@ -1,1 +1,22 @@
-[{"id": "7403342001", "district_id": "740334", "name": "BONE BONE"}, {"id": "7403342002", "district_id": "740334", "name": "LANOBAKE"}, {"id": "7403342003", "district_id": "740334", "name": "MOOLO"}, {"id": "7403342004", "district_id": "740334", "name": "BALUARA"}]
+[
+  {
+    "id": "7403342001",
+    "district_id": "740334",
+    "name": "BONE BONE"
+  },
+  {
+    "id": "7403342002",
+    "district_id": "740334",
+    "name": "LANOBAKE"
+  },
+  {
+    "id": "7403342003",
+    "district_id": "740334",
+    "name": "MOOLO"
+  },
+  {
+    "id": "7403342004",
+    "district_id": "740334",
+    "name": "BALUARA"
+  }
+]

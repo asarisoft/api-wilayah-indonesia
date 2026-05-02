@@ -1,1 +1,57 @@
-[{"id": "180901", "regency_id": "1809", "name": "GEDONG TATAAN"}, {"id": "180902", "regency_id": "1809", "name": "NEGERI KATON"}, {"id": "180903", "regency_id": "1809", "name": "TEGINENENG"}, {"id": "180904", "regency_id": "1809", "name": "WAY LIMA"}, {"id": "180905", "regency_id": "1809", "name": "PADANG CERMIN"}, {"id": "180906", "regency_id": "1809", "name": "PUNDUH PIDADA"}, {"id": "180907", "regency_id": "1809", "name": "KEDONDONG"}, {"id": "180908", "regency_id": "1809", "name": "MARGA PUNDUH"}, {"id": "180909", "regency_id": "1809", "name": "WAY KHILAU"}, {"id": "180910", "regency_id": "1809", "name": "TELUK PANDAN"}, {"id": "180911", "regency_id": "1809", "name": "WAY RATAI"}]
+[
+  {
+    "id": "180901",
+    "regency_id": "1809",
+    "name": "GEDONG TATAAN"
+  },
+  {
+    "id": "180902",
+    "regency_id": "1809",
+    "name": "NEGERI KATON"
+  },
+  {
+    "id": "180903",
+    "regency_id": "1809",
+    "name": "TEGINENENG"
+  },
+  {
+    "id": "180904",
+    "regency_id": "1809",
+    "name": "WAY LIMA"
+  },
+  {
+    "id": "180905",
+    "regency_id": "1809",
+    "name": "PADANG CERMIN"
+  },
+  {
+    "id": "180906",
+    "regency_id": "1809",
+    "name": "PUNDUH PIDADA"
+  },
+  {
+    "id": "180907",
+    "regency_id": "1809",
+    "name": "KEDONDONG"
+  },
+  {
+    "id": "180908",
+    "regency_id": "1809",
+    "name": "MARGA PUNDUH"
+  },
+  {
+    "id": "180909",
+    "regency_id": "1809",
+    "name": "WAY KHILAU"
+  },
+  {
+    "id": "180910",
+    "regency_id": "1809",
+    "name": "TELUK PANDAN"
+  },
+  {
+    "id": "180911",
+    "regency_id": "1809",
+    "name": "WAY RATAI"
+  }
+]

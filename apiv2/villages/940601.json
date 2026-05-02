@@ -1,1 +1,42 @@
-[{"id": "9406012001", "district_id": "940601", "name": "IKEBO"}, {"id": "9406012002", "district_id": "940601", "name": "MAUWA"}, {"id": "9406012003", "district_id": "940601", "name": "EKEMANIDA"}, {"id": "9406012004", "district_id": "940601", "name": "BUKAPA"}, {"id": "9406012005", "district_id": "940601", "name": "KIMUPUGI"}, {"id": "9406012006", "district_id": "940601", "name": "DIKIYOUWO"}, {"id": "9406012007", "district_id": "940601", "name": "IDAKOTU"}, {"id": "9406012008", "district_id": "940601", "name": "PUTAPA"}]
+[
+  {
+    "id": "9406012001",
+    "district_id": "940601",
+    "name": "IKEBO"
+  },
+  {
+    "id": "9406012002",
+    "district_id": "940601",
+    "name": "MAUWA"
+  },
+  {
+    "id": "9406012003",
+    "district_id": "940601",
+    "name": "EKEMANIDA"
+  },
+  {
+    "id": "9406012004",
+    "district_id": "940601",
+    "name": "BUKAPA"
+  },
+  {
+    "id": "9406012005",
+    "district_id": "940601",
+    "name": "KIMUPUGI"
+  },
+  {
+    "id": "9406012006",
+    "district_id": "940601",
+    "name": "DIKIYOUWO"
+  },
+  {
+    "id": "9406012007",
+    "district_id": "940601",
+    "name": "IDAKOTU"
+  },
+  {
+    "id": "9406012008",
+    "district_id": "940601",
+    "name": "PUTAPA"
+  }
+]

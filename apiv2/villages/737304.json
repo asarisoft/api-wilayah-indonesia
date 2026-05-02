@@ -1,1 +1,37 @@
-[{"id": "7373041002", "district_id": "737304", "name": "MAROANGIN"}, {"id": "7373041003", "district_id": "737304", "name": "MANCANI"}, {"id": "7373041004", "district_id": "737304", "name": "SUMARAMBU"}, {"id": "7373041005", "district_id": "737304", "name": "SALUBATTANG"}, {"id": "7373041006", "district_id": "737304", "name": "JAYA"}, {"id": "7373041007", "district_id": "737304", "name": "BATU WALENRANG"}, {"id": "7373041008", "district_id": "737304", "name": "PENTOJANGAN"}]
+[
+  {
+    "id": "7373041002",
+    "district_id": "737304",
+    "name": "MAROANGIN"
+  },
+  {
+    "id": "7373041003",
+    "district_id": "737304",
+    "name": "MANCANI"
+  },
+  {
+    "id": "7373041004",
+    "district_id": "737304",
+    "name": "SUMARAMBU"
+  },
+  {
+    "id": "7373041005",
+    "district_id": "737304",
+    "name": "SALUBATTANG"
+  },
+  {
+    "id": "7373041006",
+    "district_id": "737304",
+    "name": "JAYA"
+  },
+  {
+    "id": "7373041007",
+    "district_id": "737304",
+    "name": "BATU WALENRANG"
+  },
+  {
+    "id": "7373041008",
+    "district_id": "737304",
+    "name": "PENTOJANGAN"
+  }
+]

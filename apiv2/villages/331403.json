@@ -1,1 +1,67 @@
-[{"id": "3314032001", "district_id": "331403", "name": "SIDODADI"}, {"id": "3314032002", "district_id": "331403", "name": "KARANGMALANG"}, {"id": "3314032003", "district_id": "331403", "name": "KREBET"}, {"id": "3314032004", "district_id": "331403", "name": "SEPAT"}, {"id": "3314032005", "district_id": "331403", "name": "JIRAPAN"}, {"id": "3314032006", "district_id": "331403", "name": "GEBANG"}, {"id": "3314032007", "district_id": "331403", "name": "DAWUNGAN"}, {"id": "3314032008", "district_id": "331403", "name": "MASARAN"}, {"id": "3314032009", "district_id": "331403", "name": "JATI"}, {"id": "3314032010", "district_id": "331403", "name": "KLIWONAN"}, {"id": "3314032011", "district_id": "331403", "name": "PILANG"}, {"id": "3314032012", "district_id": "331403", "name": "PRINGANOM"}, {"id": "3314032013", "district_id": "331403", "name": "KRIKILAN"}]
+[
+  {
+    "id": "3314032001",
+    "district_id": "331403",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "3314032002",
+    "district_id": "331403",
+    "name": "KARANGMALANG"
+  },
+  {
+    "id": "3314032003",
+    "district_id": "331403",
+    "name": "KREBET"
+  },
+  {
+    "id": "3314032004",
+    "district_id": "331403",
+    "name": "SEPAT"
+  },
+  {
+    "id": "3314032005",
+    "district_id": "331403",
+    "name": "JIRAPAN"
+  },
+  {
+    "id": "3314032006",
+    "district_id": "331403",
+    "name": "GEBANG"
+  },
+  {
+    "id": "3314032007",
+    "district_id": "331403",
+    "name": "DAWUNGAN"
+  },
+  {
+    "id": "3314032008",
+    "district_id": "331403",
+    "name": "MASARAN"
+  },
+  {
+    "id": "3314032009",
+    "district_id": "331403",
+    "name": "JATI"
+  },
+  {
+    "id": "3314032010",
+    "district_id": "331403",
+    "name": "KLIWONAN"
+  },
+  {
+    "id": "3314032011",
+    "district_id": "331403",
+    "name": "PILANG"
+  },
+  {
+    "id": "3314032012",
+    "district_id": "331403",
+    "name": "PRINGANOM"
+  },
+  {
+    "id": "3314032013",
+    "district_id": "331403",
+    "name": "KRIKILAN"
+  }
+]

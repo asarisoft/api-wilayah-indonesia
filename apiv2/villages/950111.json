@@ -1,1 +1,57 @@
-[{"id": "9501112001", "district_id": "950111", "name": "YALENGGA"}, {"id": "9501112002", "district_id": "950111", "name": "TAGANIK"}, {"id": "9501112003", "district_id": "950111", "name": "WANANUK"}, {"id": "9501112004", "district_id": "950111", "name": "PILIMO"}, {"id": "9501112005", "district_id": "950111", "name": "TUMUN"}, {"id": "9501112006", "district_id": "950111", "name": "AKOREK"}, {"id": "9501112007", "district_id": "950111", "name": "MANILI"}, {"id": "9501112008", "district_id": "950111", "name": "AIPAKMA"}, {"id": "9501112009", "district_id": "950111", "name": "WUGURIMA"}, {"id": "9501112010", "district_id": "950111", "name": "BITTI"}, {"id": "9501112011", "district_id": "950111", "name": "WAMANUK DUA"}]
+[
+  {
+    "id": "9501112001",
+    "district_id": "950111",
+    "name": "YALENGGA"
+  },
+  {
+    "id": "9501112002",
+    "district_id": "950111",
+    "name": "TAGANIK"
+  },
+  {
+    "id": "9501112003",
+    "district_id": "950111",
+    "name": "WANANUK"
+  },
+  {
+    "id": "9501112004",
+    "district_id": "950111",
+    "name": "PILIMO"
+  },
+  {
+    "id": "9501112005",
+    "district_id": "950111",
+    "name": "TUMUN"
+  },
+  {
+    "id": "9501112006",
+    "district_id": "950111",
+    "name": "AKOREK"
+  },
+  {
+    "id": "9501112007",
+    "district_id": "950111",
+    "name": "MANILI"
+  },
+  {
+    "id": "9501112008",
+    "district_id": "950111",
+    "name": "AIPAKMA"
+  },
+  {
+    "id": "9501112009",
+    "district_id": "950111",
+    "name": "WUGURIMA"
+  },
+  {
+    "id": "9501112010",
+    "district_id": "950111",
+    "name": "BITTI"
+  },
+  {
+    "id": "9501112011",
+    "district_id": "950111",
+    "name": "WAMANUK DUA"
+  }
+]

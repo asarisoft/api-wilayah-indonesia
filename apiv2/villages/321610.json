@@ -1,1 +1,42 @@
-[{"id": "3216102001", "district_id": "321610", "name": "SUKARAYA"}, {"id": "3216102002", "district_id": "321610", "name": "KARANGRAHAYU"}, {"id": "3216102003", "district_id": "321610", "name": "KARANGSETIA"}, {"id": "3216102004", "district_id": "321610", "name": "KARANGANYAR"}, {"id": "3216102005", "district_id": "321610", "name": "KARANGBAHAGIA"}, {"id": "3216102006", "district_id": "321610", "name": "KARANGSENTOSA"}, {"id": "3216102007", "district_id": "321610", "name": "KARANGSATU"}, {"id": "3216102008", "district_id": "321610", "name": "KARANGMUKTI"}]
+[
+  {
+    "id": "3216102001",
+    "district_id": "321610",
+    "name": "SUKARAYA"
+  },
+  {
+    "id": "3216102002",
+    "district_id": "321610",
+    "name": "KARANGRAHAYU"
+  },
+  {
+    "id": "3216102003",
+    "district_id": "321610",
+    "name": "KARANGSETIA"
+  },
+  {
+    "id": "3216102004",
+    "district_id": "321610",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3216102005",
+    "district_id": "321610",
+    "name": "KARANGBAHAGIA"
+  },
+  {
+    "id": "3216102006",
+    "district_id": "321610",
+    "name": "KARANGSENTOSA"
+  },
+  {
+    "id": "3216102007",
+    "district_id": "321610",
+    "name": "KARANGSATU"
+  },
+  {
+    "id": "3216102008",
+    "district_id": "321610",
+    "name": "KARANGMUKTI"
+  }
+]

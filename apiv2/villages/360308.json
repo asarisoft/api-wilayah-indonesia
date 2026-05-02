@@ -1,1 +1,62 @@
-[{"id": "3603081002", "district_id": "360308", "name": "MAUK TIMUR"}, {"id": "3603082001", "district_id": "360308", "name": "MAUK BARAT"}, {"id": "3603082003", "district_id": "360308", "name": "TEGAL KUNIR KIDUL"}, {"id": "3603082004", "district_id": "360308", "name": "TEGAL KUNIR LOR"}, {"id": "3603082005", "district_id": "360308", "name": "SASAK"}, {"id": "3603082006", "district_id": "360308", "name": "GUNUNG SARI"}, {"id": "3603082007", "district_id": "360308", "name": "KEDUNG DALEM"}, {"id": "3603082008", "district_id": "360308", "name": "MARGA MULYA"}, {"id": "3603082009", "district_id": "360308", "name": "TANJUNG ANOM"}, {"id": "3603082010", "district_id": "360308", "name": "JATIWARINGIN"}, {"id": "3603082011", "district_id": "360308", "name": "BANYU ASIH"}, {"id": "3603082012", "district_id": "360308", "name": "KETAPANG"}]
+[
+  {
+    "id": "3603081002",
+    "district_id": "360308",
+    "name": "MAUK TIMUR"
+  },
+  {
+    "id": "3603082001",
+    "district_id": "360308",
+    "name": "MAUK BARAT"
+  },
+  {
+    "id": "3603082003",
+    "district_id": "360308",
+    "name": "TEGAL KUNIR KIDUL"
+  },
+  {
+    "id": "3603082004",
+    "district_id": "360308",
+    "name": "TEGAL KUNIR LOR"
+  },
+  {
+    "id": "3603082005",
+    "district_id": "360308",
+    "name": "SASAK"
+  },
+  {
+    "id": "3603082006",
+    "district_id": "360308",
+    "name": "GUNUNG SARI"
+  },
+  {
+    "id": "3603082007",
+    "district_id": "360308",
+    "name": "KEDUNG DALEM"
+  },
+  {
+    "id": "3603082008",
+    "district_id": "360308",
+    "name": "MARGA MULYA"
+  },
+  {
+    "id": "3603082009",
+    "district_id": "360308",
+    "name": "TANJUNG ANOM"
+  },
+  {
+    "id": "3603082010",
+    "district_id": "360308",
+    "name": "JATIWARINGIN"
+  },
+  {
+    "id": "3603082011",
+    "district_id": "360308",
+    "name": "BANYU ASIH"
+  },
+  {
+    "id": "3603082012",
+    "district_id": "360308",
+    "name": "KETAPANG"
+  }
+]

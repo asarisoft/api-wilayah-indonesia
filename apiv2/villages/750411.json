@@ -1,1 +1,37 @@
-[{"id": "7504112001", "district_id": "750411", "name": "WONGGARASI TIMUR"}, {"id": "7504112002", "district_id": "750411", "name": "BUKIT HARAPAN"}, {"id": "7504112003", "district_id": "750411", "name": "BOHUSAMI"}, {"id": "7504112004", "district_id": "750411", "name": "LEMBAH PERMAI"}, {"id": "7504112005", "district_id": "750411", "name": "LIMBULA"}, {"id": "7504112006", "district_id": "750411", "name": "YIPILO"}, {"id": "7504112007", "district_id": "750411", "name": "TUWEYA"}]
+[
+  {
+    "id": "7504112001",
+    "district_id": "750411",
+    "name": "WONGGARASI TIMUR"
+  },
+  {
+    "id": "7504112002",
+    "district_id": "750411",
+    "name": "BUKIT HARAPAN"
+  },
+  {
+    "id": "7504112003",
+    "district_id": "750411",
+    "name": "BOHUSAMI"
+  },
+  {
+    "id": "7504112004",
+    "district_id": "750411",
+    "name": "LEMBAH PERMAI"
+  },
+  {
+    "id": "7504112005",
+    "district_id": "750411",
+    "name": "LIMBULA"
+  },
+  {
+    "id": "7504112006",
+    "district_id": "750411",
+    "name": "YIPILO"
+  },
+  {
+    "id": "7504112007",
+    "district_id": "750411",
+    "name": "TUWEYA"
+  }
+]

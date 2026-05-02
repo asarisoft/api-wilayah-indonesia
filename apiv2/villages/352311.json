@@ -1,1 +1,117 @@
-[{"id": "3523112001", "district_id": "352311", "name": "TLUWE"}, {"id": "3523112002", "district_id": "352311", "name": "WADUNG"}, {"id": "3523112003", "district_id": "352311", "name": "JATI"}, {"id": "3523112004", "district_id": "352311", "name": "MENILO"}, {"id": "3523112005", "district_id": "352311", "name": "CEKALANG"}, {"id": "3523112006", "district_id": "352311", "name": "PANDANAGUNG"}, {"id": "3523112007", "district_id": "352311", "name": "PRAMBONTERGAYANG"}, {"id": "3523112008", "district_id": "352311", "name": "KLUMPIT"}, {"id": "3523112009", "district_id": "352311", "name": "SIMO"}, {"id": "3523112010", "district_id": "352311", "name": "MENTORO"}, {"id": "3523112012", "district_id": "352311", "name": "KENDALREJO"}, {"id": "3523112013", "district_id": "352311", "name": "NGURUAN"}, {"id": "3523112014", "district_id": "352311", "name": "JEGULO"}, {"id": "3523112015", "district_id": "352311", "name": "SOKOSARI"}, {"id": "3523112016", "district_id": "352311", "name": "BANGUNREJO"}, {"id": "3523112017", "district_id": "352311", "name": "MOJOAGUNG"}, {"id": "3523112019", "district_id": "352311", "name": "GUNUNGANYAR"}, {"id": "3523112020", "district_id": "352311", "name": "SUMURCINDE"}, {"id": "3523112021", "district_id": "352311", "name": "PANDANWANGI"}, {"id": "3523112022", "district_id": "352311", "name": "SANDINGROWO"}, {"id": "3523112023", "district_id": "352311", "name": "RAHAYU"}, {"id": "3523112024", "district_id": "352311", "name": "GLAGAHSARI"}, {"id": "3523112025", "district_id": "352311", "name": "KENONGOSARI"}]
+[
+  {
+    "id": "3523112001",
+    "district_id": "352311",
+    "name": "TLUWE"
+  },
+  {
+    "id": "3523112002",
+    "district_id": "352311",
+    "name": "WADUNG"
+  },
+  {
+    "id": "3523112003",
+    "district_id": "352311",
+    "name": "JATI"
+  },
+  {
+    "id": "3523112004",
+    "district_id": "352311",
+    "name": "MENILO"
+  },
+  {
+    "id": "3523112005",
+    "district_id": "352311",
+    "name": "CEKALANG"
+  },
+  {
+    "id": "3523112006",
+    "district_id": "352311",
+    "name": "PANDANAGUNG"
+  },
+  {
+    "id": "3523112007",
+    "district_id": "352311",
+    "name": "PRAMBONTERGAYANG"
+  },
+  {
+    "id": "3523112008",
+    "district_id": "352311",
+    "name": "KLUMPIT"
+  },
+  {
+    "id": "3523112009",
+    "district_id": "352311",
+    "name": "SIMO"
+  },
+  {
+    "id": "3523112010",
+    "district_id": "352311",
+    "name": "MENTORO"
+  },
+  {
+    "id": "3523112012",
+    "district_id": "352311",
+    "name": "KENDALREJO"
+  },
+  {
+    "id": "3523112013",
+    "district_id": "352311",
+    "name": "NGURUAN"
+  },
+  {
+    "id": "3523112014",
+    "district_id": "352311",
+    "name": "JEGULO"
+  },
+  {
+    "id": "3523112015",
+    "district_id": "352311",
+    "name": "SOKOSARI"
+  },
+  {
+    "id": "3523112016",
+    "district_id": "352311",
+    "name": "BANGUNREJO"
+  },
+  {
+    "id": "3523112017",
+    "district_id": "352311",
+    "name": "MOJOAGUNG"
+  },
+  {
+    "id": "3523112019",
+    "district_id": "352311",
+    "name": "GUNUNGANYAR"
+  },
+  {
+    "id": "3523112020",
+    "district_id": "352311",
+    "name": "SUMURCINDE"
+  },
+  {
+    "id": "3523112021",
+    "district_id": "352311",
+    "name": "PANDANWANGI"
+  },
+  {
+    "id": "3523112022",
+    "district_id": "352311",
+    "name": "SANDINGROWO"
+  },
+  {
+    "id": "3523112023",
+    "district_id": "352311",
+    "name": "RAHAYU"
+  },
+  {
+    "id": "3523112024",
+    "district_id": "352311",
+    "name": "GLAGAHSARI"
+  },
+  {
+    "id": "3523112025",
+    "district_id": "352311",
+    "name": "KENONGOSARI"
+  }
+]

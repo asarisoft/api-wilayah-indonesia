@@ -1,1 +1,97 @@
-[{"id": "1808021004", "district_id": "180802", "name": "KASUI PASAR"}, {"id": "1808022001", "district_id": "180802", "name": "DATAR BANCONG"}, {"id": "1808022002", "district_id": "180802", "name": "KEDATON"}, {"id": "1808022003", "district_id": "180802", "name": "KARANG LANTANG"}, {"id": "1808022005", "district_id": "180802", "name": "KASUI LAMA"}, {"id": "1808022006", "district_id": "180802", "name": "KAMPUNG BARU"}, {"id": "1808022007", "district_id": "180802", "name": "JUKUH KEMUNING"}, {"id": "1808022008", "district_id": "180802", "name": "KOTAWAY"}, {"id": "1808022009", "district_id": "180802", "name": "TANJUNG KURUNG"}, {"id": "1808022010", "district_id": "180802", "name": "TALANG MANGGA"}, {"id": "1808022011", "district_id": "180802", "name": "TANJUNG HARAPAN"}, {"id": "1808022012", "district_id": "180802", "name": "SINAR GADING"}, {"id": "1808022013", "district_id": "180802", "name": "JAYA TINGGI"}, {"id": "1808022014", "district_id": "180802", "name": "SUKAJADI"}, {"id": "1808022015", "district_id": "180802", "name": "GELOMBANG PANJANG"}, {"id": "1808022016", "district_id": "180802", "name": "TANGKAS"}, {"id": "1808022017", "district_id": "180802", "name": "TANJUNG BULAN"}, {"id": "1808022018", "district_id": "180802", "name": "TANJUNG KURUNG LAMA"}, {"id": "1808022019", "district_id": "180802", "name": "BUKIT BATU"}]
+[
+  {
+    "id": "1808021004",
+    "district_id": "180802",
+    "name": "KASUI PASAR"
+  },
+  {
+    "id": "1808022001",
+    "district_id": "180802",
+    "name": "DATAR BANCONG"
+  },
+  {
+    "id": "1808022002",
+    "district_id": "180802",
+    "name": "KEDATON"
+  },
+  {
+    "id": "1808022003",
+    "district_id": "180802",
+    "name": "KARANG LANTANG"
+  },
+  {
+    "id": "1808022005",
+    "district_id": "180802",
+    "name": "KASUI LAMA"
+  },
+  {
+    "id": "1808022006",
+    "district_id": "180802",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1808022007",
+    "district_id": "180802",
+    "name": "JUKUH KEMUNING"
+  },
+  {
+    "id": "1808022008",
+    "district_id": "180802",
+    "name": "KOTAWAY"
+  },
+  {
+    "id": "1808022009",
+    "district_id": "180802",
+    "name": "TANJUNG KURUNG"
+  },
+  {
+    "id": "1808022010",
+    "district_id": "180802",
+    "name": "TALANG MANGGA"
+  },
+  {
+    "id": "1808022011",
+    "district_id": "180802",
+    "name": "TANJUNG HARAPAN"
+  },
+  {
+    "id": "1808022012",
+    "district_id": "180802",
+    "name": "SINAR GADING"
+  },
+  {
+    "id": "1808022013",
+    "district_id": "180802",
+    "name": "JAYA TINGGI"
+  },
+  {
+    "id": "1808022014",
+    "district_id": "180802",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "1808022015",
+    "district_id": "180802",
+    "name": "GELOMBANG PANJANG"
+  },
+  {
+    "id": "1808022016",
+    "district_id": "180802",
+    "name": "TANGKAS"
+  },
+  {
+    "id": "1808022017",
+    "district_id": "180802",
+    "name": "TANJUNG BULAN"
+  },
+  {
+    "id": "1808022018",
+    "district_id": "180802",
+    "name": "TANJUNG KURUNG LAMA"
+  },
+  {
+    "id": "1808022019",
+    "district_id": "180802",
+    "name": "BUKIT BATU"
+  }
+]

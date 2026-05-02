@@ -1,1 +1,37 @@
-[{"id": "7172061001", "district_id": "717206", "name": "GIRIAN ATAS"}, {"id": "7172061002", "district_id": "717206", "name": "GIRIAN WERU SATU"}, {"id": "7172061003", "district_id": "717206", "name": "GIRIAN BAWAH"}, {"id": "7172061004", "district_id": "717206", "name": "GIRIAN PERMAI"}, {"id": "7172061005", "district_id": "717206", "name": "GIRIAN WERU DUA"}, {"id": "7172061006", "district_id": "717206", "name": "GIRIAN INDAH"}, {"id": "7172061007", "district_id": "717206", "name": "WANGURER"}]
+[
+  {
+    "id": "7172061001",
+    "district_id": "717206",
+    "name": "GIRIAN ATAS"
+  },
+  {
+    "id": "7172061002",
+    "district_id": "717206",
+    "name": "GIRIAN WERU SATU"
+  },
+  {
+    "id": "7172061003",
+    "district_id": "717206",
+    "name": "GIRIAN BAWAH"
+  },
+  {
+    "id": "7172061004",
+    "district_id": "717206",
+    "name": "GIRIAN PERMAI"
+  },
+  {
+    "id": "7172061005",
+    "district_id": "717206",
+    "name": "GIRIAN WERU DUA"
+  },
+  {
+    "id": "7172061006",
+    "district_id": "717206",
+    "name": "GIRIAN INDAH"
+  },
+  {
+    "id": "7172061007",
+    "district_id": "717206",
+    "name": "WANGURER"
+  }
+]

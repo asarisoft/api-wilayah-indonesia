@@ -1,1 +1,42 @@
-[{"id": "510701", "regency_id": "5107", "name": "RENDANG"}, {"id": "510702", "regency_id": "5107", "name": "SIDEMEN"}, {"id": "510703", "regency_id": "5107", "name": "MANGGIS"}, {"id": "510704", "regency_id": "5107", "name": "KARANGASEM"}, {"id": "510705", "regency_id": "5107", "name": "ABANG"}, {"id": "510706", "regency_id": "5107", "name": "BEBANDEM"}, {"id": "510707", "regency_id": "5107", "name": "SELAT"}, {"id": "510708", "regency_id": "5107", "name": "KUBU"}]
+[
+  {
+    "id": "510701",
+    "regency_id": "5107",
+    "name": "RENDANG"
+  },
+  {
+    "id": "510702",
+    "regency_id": "5107",
+    "name": "SIDEMEN"
+  },
+  {
+    "id": "510703",
+    "regency_id": "5107",
+    "name": "MANGGIS"
+  },
+  {
+    "id": "510704",
+    "regency_id": "5107",
+    "name": "KARANGASEM"
+  },
+  {
+    "id": "510705",
+    "regency_id": "5107",
+    "name": "ABANG"
+  },
+  {
+    "id": "510706",
+    "regency_id": "5107",
+    "name": "BEBANDEM"
+  },
+  {
+    "id": "510707",
+    "regency_id": "5107",
+    "name": "SELAT"
+  },
+  {
+    "id": "510708",
+    "regency_id": "5107",
+    "name": "KUBU"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "5201082001", "district_id": "520108", "name": "BENGKEL"}, {"id": "5201082002", "district_id": "520108", "name": "MEREMBU"}, {"id": "5201082003", "district_id": "520108", "name": "BAGIK POLAK"}, {"id": "5201082004", "district_id": "520108", "name": "TELAGAWARU"}, {"id": "5201082005", "district_id": "520108", "name": "PERAMPUAN"}, {"id": "5201082006", "district_id": "520108", "name": "BAJUR"}, {"id": "5201082007", "district_id": "520108", "name": "TERONG TAWAH"}, {"id": "5201082008", "district_id": "520108", "name": "KURANJI"}, {"id": "5201082009", "district_id": "520108", "name": "KARANG BONGKOT"}, {"id": "5201082010", "district_id": "520108", "name": "LABUAPI"}, {"id": "5201082011", "district_id": "520108", "name": "BAGIK POLAK BARAT"}, {"id": "5201082012", "district_id": "520108", "name": "KURANJI DALANG"}]
+[
+  {
+    "id": "5201082001",
+    "district_id": "520108",
+    "name": "BENGKEL"
+  },
+  {
+    "id": "5201082002",
+    "district_id": "520108",
+    "name": "MEREMBU"
+  },
+  {
+    "id": "5201082003",
+    "district_id": "520108",
+    "name": "BAGIK POLAK"
+  },
+  {
+    "id": "5201082004",
+    "district_id": "520108",
+    "name": "TELAGAWARU"
+  },
+  {
+    "id": "5201082005",
+    "district_id": "520108",
+    "name": "PERAMPUAN"
+  },
+  {
+    "id": "5201082006",
+    "district_id": "520108",
+    "name": "BAJUR"
+  },
+  {
+    "id": "5201082007",
+    "district_id": "520108",
+    "name": "TERONG TAWAH"
+  },
+  {
+    "id": "5201082008",
+    "district_id": "520108",
+    "name": "KURANJI"
+  },
+  {
+    "id": "5201082009",
+    "district_id": "520108",
+    "name": "KARANG BONGKOT"
+  },
+  {
+    "id": "5201082010",
+    "district_id": "520108",
+    "name": "LABUAPI"
+  },
+  {
+    "id": "5201082011",
+    "district_id": "520108",
+    "name": "BAGIK POLAK BARAT"
+  },
+  {
+    "id": "5201082012",
+    "district_id": "520108",
+    "name": "KURANJI DALANG"
+  }
+]

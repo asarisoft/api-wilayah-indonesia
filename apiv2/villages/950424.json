@@ -1,1 +1,62 @@
-[{"id": "9504242001", "district_id": "950424", "name": "GEYA"}, {"id": "9504242002", "district_id": "950424", "name": "ALOBAGA"}, {"id": "9504242003", "district_id": "950424", "name": "TIMORI"}, {"id": "9504242004", "district_id": "950424", "name": "NAWU"}, {"id": "9504242005", "district_id": "950424", "name": "TINAGOGA"}, {"id": "9504242006", "district_id": "950424", "name": "WITIPUR"}, {"id": "9504242007", "district_id": "950424", "name": "JELEPELE"}, {"id": "9504242008", "district_id": "950424", "name": "WINALO"}, {"id": "9504242009", "district_id": "950424", "name": "KIBU"}, {"id": "9504242010", "district_id": "950424", "name": "WUNGGILIPUR"}, {"id": "9504242011", "district_id": "950424", "name": "WEYAMBI"}, {"id": "9504242012", "district_id": "950424", "name": "DIMBARA"}]
+[
+  {
+    "id": "9504242001",
+    "district_id": "950424",
+    "name": "GEYA"
+  },
+  {
+    "id": "9504242002",
+    "district_id": "950424",
+    "name": "ALOBAGA"
+  },
+  {
+    "id": "9504242003",
+    "district_id": "950424",
+    "name": "TIMORI"
+  },
+  {
+    "id": "9504242004",
+    "district_id": "950424",
+    "name": "NAWU"
+  },
+  {
+    "id": "9504242005",
+    "district_id": "950424",
+    "name": "TINAGOGA"
+  },
+  {
+    "id": "9504242006",
+    "district_id": "950424",
+    "name": "WITIPUR"
+  },
+  {
+    "id": "9504242007",
+    "district_id": "950424",
+    "name": "JELEPELE"
+  },
+  {
+    "id": "9504242008",
+    "district_id": "950424",
+    "name": "WINALO"
+  },
+  {
+    "id": "9504242009",
+    "district_id": "950424",
+    "name": "KIBU"
+  },
+  {
+    "id": "9504242010",
+    "district_id": "950424",
+    "name": "WUNGGILIPUR"
+  },
+  {
+    "id": "9504242011",
+    "district_id": "950424",
+    "name": "WEYAMBI"
+  },
+  {
+    "id": "9504242012",
+    "district_id": "950424",
+    "name": "DIMBARA"
+  }
+]

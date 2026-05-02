@@ -1,1 +1,37 @@
-[{"id": "741401", "regency_id": "7414", "name": "LAKUDO"}, {"id": "741402", "regency_id": "7414", "name": "MAWASANGKA TIMUR"}, {"id": "741403", "regency_id": "7414", "name": "MAWASANGKA TENGAH"}, {"id": "741404", "regency_id": "7414", "name": "MAWASANGKA"}, {"id": "741405", "regency_id": "7414", "name": "TALAGA RAYA"}, {"id": "741406", "regency_id": "7414", "name": "GU"}, {"id": "741407", "regency_id": "7414", "name": "SANGIA WAMBULU"}]
+[
+  {
+    "id": "741401",
+    "regency_id": "7414",
+    "name": "LAKUDO"
+  },
+  {
+    "id": "741402",
+    "regency_id": "7414",
+    "name": "MAWASANGKA TIMUR"
+  },
+  {
+    "id": "741403",
+    "regency_id": "7414",
+    "name": "MAWASANGKA TENGAH"
+  },
+  {
+    "id": "741404",
+    "regency_id": "7414",
+    "name": "MAWASANGKA"
+  },
+  {
+    "id": "741405",
+    "regency_id": "7414",
+    "name": "TALAGA RAYA"
+  },
+  {
+    "id": "741406",
+    "regency_id": "7414",
+    "name": "GU"
+  },
+  {
+    "id": "741407",
+    "regency_id": "7414",
+    "name": "SANGIA WAMBULU"
+  }
+]

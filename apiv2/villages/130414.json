@@ -1,1 +1,22 @@
-[{"id": "1304142001", "district_id": "130414", "name": "BATU TABA"}, {"id": "1304142002", "district_id": "130414", "name": "SUMPUR"}, {"id": "1304142003", "district_id": "130414", "name": "PADANG LAWEH MALALO"}, {"id": "1304142004", "district_id": "130414", "name": "GUGUAK MALALO"}]
+[
+  {
+    "id": "1304142001",
+    "district_id": "130414",
+    "name": "BATU TABA"
+  },
+  {
+    "id": "1304142002",
+    "district_id": "130414",
+    "name": "SUMPUR"
+  },
+  {
+    "id": "1304142003",
+    "district_id": "130414",
+    "name": "PADANG LAWEH MALALO"
+  },
+  {
+    "id": "1304142004",
+    "district_id": "130414",
+    "name": "GUGUAK MALALO"
+  }
+]

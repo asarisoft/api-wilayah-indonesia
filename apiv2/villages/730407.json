@@ -1,1 +1,62 @@
-[{"id": "7304071002", "district_id": "730407", "name": "BONTORAMBA"}, {"id": "7304072001", "district_id": "730407", "name": "BULUSIBATANG"}, {"id": "7304072003", "district_id": "730407", "name": "BALUMBUNGAN"}, {"id": "7304072004", "district_id": "730407", "name": "BANGKALALOE"}, {"id": "7304072005", "district_id": "730407", "name": "DATARA"}, {"id": "7304072006", "district_id": "730407", "name": "MAERO"}, {"id": "7304072007", "district_id": "730407", "name": "KARELOE"}, {"id": "7304072008", "district_id": "730407", "name": "BATUJALA"}, {"id": "7304072009", "district_id": "730407", "name": "BULUSUKA"}, {"id": "7304072010", "district_id": "730407", "name": "TANAMMAWANG"}, {"id": "7304072011", "district_id": "730407", "name": "LENTU"}, {"id": "7304072012", "district_id": "730407", "name": "BARAYA"}]
+[
+  {
+    "id": "7304071002",
+    "district_id": "730407",
+    "name": "BONTORAMBA"
+  },
+  {
+    "id": "7304072001",
+    "district_id": "730407",
+    "name": "BULUSIBATANG"
+  },
+  {
+    "id": "7304072003",
+    "district_id": "730407",
+    "name": "BALUMBUNGAN"
+  },
+  {
+    "id": "7304072004",
+    "district_id": "730407",
+    "name": "BANGKALALOE"
+  },
+  {
+    "id": "7304072005",
+    "district_id": "730407",
+    "name": "DATARA"
+  },
+  {
+    "id": "7304072006",
+    "district_id": "730407",
+    "name": "MAERO"
+  },
+  {
+    "id": "7304072007",
+    "district_id": "730407",
+    "name": "KARELOE"
+  },
+  {
+    "id": "7304072008",
+    "district_id": "730407",
+    "name": "BATUJALA"
+  },
+  {
+    "id": "7304072009",
+    "district_id": "730407",
+    "name": "BULUSUKA"
+  },
+  {
+    "id": "7304072010",
+    "district_id": "730407",
+    "name": "TANAMMAWANG"
+  },
+  {
+    "id": "7304072011",
+    "district_id": "730407",
+    "name": "LENTU"
+  },
+  {
+    "id": "7304072012",
+    "district_id": "730407",
+    "name": "BARAYA"
+  }
+]

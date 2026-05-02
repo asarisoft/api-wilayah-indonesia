@@ -1,1 +1,32 @@
-[{"id": "620101", "regency_id": "6201", "name": "KUMAI"}, {"id": "620102", "regency_id": "6201", "name": "ARUT SELATAN"}, {"id": "620103", "regency_id": "6201", "name": "KOTAWARINGIN LAMA"}, {"id": "620104", "regency_id": "6201", "name": "ARUT UTARA"}, {"id": "620105", "regency_id": "6201", "name": "PANGKALAN LADA"}, {"id": "620106", "regency_id": "6201", "name": "PANGKALAN BANTENG"}]
+[
+  {
+    "id": "620101",
+    "regency_id": "6201",
+    "name": "KUMAI"
+  },
+  {
+    "id": "620102",
+    "regency_id": "6201",
+    "name": "ARUT SELATAN"
+  },
+  {
+    "id": "620103",
+    "regency_id": "6201",
+    "name": "KOTAWARINGIN LAMA"
+  },
+  {
+    "id": "620104",
+    "regency_id": "6201",
+    "name": "ARUT UTARA"
+  },
+  {
+    "id": "620105",
+    "regency_id": "6201",
+    "name": "PANGKALAN LADA"
+  },
+  {
+    "id": "620106",
+    "regency_id": "6201",
+    "name": "PANGKALAN BANTENG"
+  }
+]

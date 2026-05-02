@@ -1,1 +1,82 @@
-[{"id": "1606142001", "district_id": "160614", "name": "SUKA MAJU"}, {"id": "1606142002", "district_id": "160614", "name": "LETANG"}, {"id": "1606142003", "district_id": "160614", "name": "SUPAT"}, {"id": "1606142004", "district_id": "160614", "name": "BABAT BANYUASIN"}, {"id": "1606142005", "district_id": "160614", "name": "TANJUNG KERANG"}, {"id": "1606142006", "district_id": "160614", "name": "LANGKAP"}, {"id": "1606142007", "district_id": "160614", "name": "GAJAH MATI"}, {"id": "1606142008", "district_id": "160614", "name": "TENGGULANG JAYA"}, {"id": "1606142009", "district_id": "160614", "name": "BANDAR TENGGULANG"}, {"id": "1606142010", "district_id": "160614", "name": "SUMBER JAYA"}, {"id": "1606142011", "district_id": "160614", "name": "TENGGULANG BARU"}, {"id": "1606142012", "district_id": "160614", "name": "SUPAT BARAT"}, {"id": "1606142013", "district_id": "160614", "name": "SUPAT TIMUR"}, {"id": "1606142014", "district_id": "160614", "name": "SERATUS LAPAN"}, {"id": "1606142015", "district_id": "160614", "name": "BABAT RAMBA JAYA"}, {"id": "1606142016", "district_id": "160614", "name": "GAJAH MUDA"}]
+[
+  {
+    "id": "1606142001",
+    "district_id": "160614",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1606142002",
+    "district_id": "160614",
+    "name": "LETANG"
+  },
+  {
+    "id": "1606142003",
+    "district_id": "160614",
+    "name": "SUPAT"
+  },
+  {
+    "id": "1606142004",
+    "district_id": "160614",
+    "name": "BABAT BANYUASIN"
+  },
+  {
+    "id": "1606142005",
+    "district_id": "160614",
+    "name": "TANJUNG KERANG"
+  },
+  {
+    "id": "1606142006",
+    "district_id": "160614",
+    "name": "LANGKAP"
+  },
+  {
+    "id": "1606142007",
+    "district_id": "160614",
+    "name": "GAJAH MATI"
+  },
+  {
+    "id": "1606142008",
+    "district_id": "160614",
+    "name": "TENGGULANG JAYA"
+  },
+  {
+    "id": "1606142009",
+    "district_id": "160614",
+    "name": "BANDAR TENGGULANG"
+  },
+  {
+    "id": "1606142010",
+    "district_id": "160614",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1606142011",
+    "district_id": "160614",
+    "name": "TENGGULANG BARU"
+  },
+  {
+    "id": "1606142012",
+    "district_id": "160614",
+    "name": "SUPAT BARAT"
+  },
+  {
+    "id": "1606142013",
+    "district_id": "160614",
+    "name": "SUPAT TIMUR"
+  },
+  {
+    "id": "1606142014",
+    "district_id": "160614",
+    "name": "SERATUS LAPAN"
+  },
+  {
+    "id": "1606142015",
+    "district_id": "160614",
+    "name": "BABAT RAMBA JAYA"
+  },
+  {
+    "id": "1606142016",
+    "district_id": "160614",
+    "name": "GAJAH MUDA"
+  }
+]

@@ -1,1 +1,17 @@
-[{"id": "6501062001", "district_id": "650106", "name": "SALIMBATU"}, {"id": "6501062002", "district_id": "650106", "name": "SILVA RAHAYU"}, {"id": "6501062003", "district_id": "650106", "name": "TANJUNG BUKA"}]
+[
+  {
+    "id": "6501062001",
+    "district_id": "650106",
+    "name": "SALIMBATU"
+  },
+  {
+    "id": "6501062002",
+    "district_id": "650106",
+    "name": "SILVA RAHAYU"
+  },
+  {
+    "id": "6501062003",
+    "district_id": "650106",
+    "name": "TANJUNG BUKA"
+  }
+]

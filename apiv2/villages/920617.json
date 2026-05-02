@@ -1,1 +1,22 @@
-[{"id": "9206172001", "district_id": "920617", "name": "MASYETA"}, {"id": "9206172002", "district_id": "920617", "name": "MESTOFU"}, {"id": "9206172003", "district_id": "920617", "name": "KALIBIRU"}, {"id": "9206172004", "district_id": "920617", "name": "MESOMDA"}]
+[
+  {
+    "id": "9206172001",
+    "district_id": "920617",
+    "name": "MASYETA"
+  },
+  {
+    "id": "9206172002",
+    "district_id": "920617",
+    "name": "MESTOFU"
+  },
+  {
+    "id": "9206172003",
+    "district_id": "920617",
+    "name": "KALIBIRU"
+  },
+  {
+    "id": "9206172004",
+    "district_id": "920617",
+    "name": "MESOMDA"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "3520071011", "district_id": "352007", "name": "PLAOSAN"}, {"id": "3520071013", "district_id": "352007", "name": "SARANGAN"}, {"id": "3520072001", "district_id": "352007", "name": "NGANCAR"}, {"id": "3520072002", "district_id": "352007", "name": "PLUMPUNG"}, {"id": "3520072003", "district_id": "352007", "name": "PUNTUKDORO"}, {"id": "3520072004", "district_id": "352007", "name": "BULUGUNUNG"}, {"id": "3520072005", "district_id": "352007", "name": "BOGOARUM"}, {"id": "3520072006", "district_id": "352007", "name": "RANDUGEDE"}, {"id": "3520072007", "district_id": "352007", "name": "SUMBERAGUNG"}, {"id": "3520072008", "district_id": "352007", "name": "NITIKAN"}, {"id": "3520072009", "district_id": "352007", "name": "SIDOMUKTI"}, {"id": "3520072010", "district_id": "352007", "name": "BULUHARJO"}, {"id": "3520072012", "district_id": "352007", "name": "DADI"}, {"id": "3520072014", "district_id": "352007", "name": "PACALAN"}, {"id": "3520072015", "district_id": "352007", "name": "SENDANGAGUNG"}]
+[
+  {
+    "id": "3520071011",
+    "district_id": "352007",
+    "name": "PLAOSAN"
+  },
+  {
+    "id": "3520071013",
+    "district_id": "352007",
+    "name": "SARANGAN"
+  },
+  {
+    "id": "3520072001",
+    "district_id": "352007",
+    "name": "NGANCAR"
+  },
+  {
+    "id": "3520072002",
+    "district_id": "352007",
+    "name": "PLUMPUNG"
+  },
+  {
+    "id": "3520072003",
+    "district_id": "352007",
+    "name": "PUNTUKDORO"
+  },
+  {
+    "id": "3520072004",
+    "district_id": "352007",
+    "name": "BULUGUNUNG"
+  },
+  {
+    "id": "3520072005",
+    "district_id": "352007",
+    "name": "BOGOARUM"
+  },
+  {
+    "id": "3520072006",
+    "district_id": "352007",
+    "name": "RANDUGEDE"
+  },
+  {
+    "id": "3520072007",
+    "district_id": "352007",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3520072008",
+    "district_id": "352007",
+    "name": "NITIKAN"
+  },
+  {
+    "id": "3520072009",
+    "district_id": "352007",
+    "name": "SIDOMUKTI"
+  },
+  {
+    "id": "3520072010",
+    "district_id": "352007",
+    "name": "BULUHARJO"
+  },
+  {
+    "id": "3520072012",
+    "district_id": "352007",
+    "name": "DADI"
+  },
+  {
+    "id": "3520072014",
+    "district_id": "352007",
+    "name": "PACALAN"
+  },
+  {
+    "id": "3520072015",
+    "district_id": "352007",
+    "name": "SENDANGAGUNG"
+  }
+]

@@ -1,1 +1,107 @@
-[{"id": "9407022001", "district_id": "940702", "name": "MAPA"}, {"id": "9407022002", "district_id": "940702", "name": "BILAI"}, {"id": "9407022003", "district_id": "940702", "name": "MAYA"}, {"id": "9407022004", "district_id": "940702", "name": "DEGESIGA"}, {"id": "9407022005", "district_id": "940702", "name": "POGAPA"}, {"id": "9407022006", "district_id": "940702", "name": "BAMBA"}, {"id": "9407022007", "district_id": "940702", "name": "ZOMBANDOGA"}, {"id": "9407022008", "district_id": "940702", "name": "KOBAE"}, {"id": "9407022009", "district_id": "940702", "name": "SELEMAMA"}, {"id": "9407022010", "district_id": "940702", "name": "KENDETAPA"}, {"id": "9407022011", "district_id": "940702", "name": "HIYABU"}, {"id": "9407022012", "district_id": "940702", "name": "OGOEAPA"}, {"id": "9407022013", "district_id": "940702", "name": "BONOGO"}, {"id": "9407022014", "district_id": "940702", "name": "AGAPA"}, {"id": "9407022015", "district_id": "940702", "name": "ENGGANENGGA"}, {"id": "9407022016", "district_id": "940702", "name": "WAIAGEPA"}, {"id": "9407022017", "district_id": "940702", "name": "HUGITAPA"}, {"id": "9407022018", "district_id": "940702", "name": "BUBISIGA"}, {"id": "9407022019", "district_id": "940702", "name": "NGGAGEMBA"}, {"id": "9407022020", "district_id": "940702", "name": "SANEPA"}, {"id": "9407022021", "district_id": "940702", "name": "MBOMOGO"}]
+[
+  {
+    "id": "9407022001",
+    "district_id": "940702",
+    "name": "MAPA"
+  },
+  {
+    "id": "9407022002",
+    "district_id": "940702",
+    "name": "BILAI"
+  },
+  {
+    "id": "9407022003",
+    "district_id": "940702",
+    "name": "MAYA"
+  },
+  {
+    "id": "9407022004",
+    "district_id": "940702",
+    "name": "DEGESIGA"
+  },
+  {
+    "id": "9407022005",
+    "district_id": "940702",
+    "name": "POGAPA"
+  },
+  {
+    "id": "9407022006",
+    "district_id": "940702",
+    "name": "BAMBA"
+  },
+  {
+    "id": "9407022007",
+    "district_id": "940702",
+    "name": "ZOMBANDOGA"
+  },
+  {
+    "id": "9407022008",
+    "district_id": "940702",
+    "name": "KOBAE"
+  },
+  {
+    "id": "9407022009",
+    "district_id": "940702",
+    "name": "SELEMAMA"
+  },
+  {
+    "id": "9407022010",
+    "district_id": "940702",
+    "name": "KENDETAPA"
+  },
+  {
+    "id": "9407022011",
+    "district_id": "940702",
+    "name": "HIYABU"
+  },
+  {
+    "id": "9407022012",
+    "district_id": "940702",
+    "name": "OGOEAPA"
+  },
+  {
+    "id": "9407022013",
+    "district_id": "940702",
+    "name": "BONOGO"
+  },
+  {
+    "id": "9407022014",
+    "district_id": "940702",
+    "name": "AGAPA"
+  },
+  {
+    "id": "9407022015",
+    "district_id": "940702",
+    "name": "ENGGANENGGA"
+  },
+  {
+    "id": "9407022016",
+    "district_id": "940702",
+    "name": "WAIAGEPA"
+  },
+  {
+    "id": "9407022017",
+    "district_id": "940702",
+    "name": "HUGITAPA"
+  },
+  {
+    "id": "9407022018",
+    "district_id": "940702",
+    "name": "BUBISIGA"
+  },
+  {
+    "id": "9407022019",
+    "district_id": "940702",
+    "name": "NGGAGEMBA"
+  },
+  {
+    "id": "9407022020",
+    "district_id": "940702",
+    "name": "SANEPA"
+  },
+  {
+    "id": "9407022021",
+    "district_id": "940702",
+    "name": "MBOMOGO"
+  }
+]

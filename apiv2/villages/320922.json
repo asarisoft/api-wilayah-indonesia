@@ -1,1 +1,47 @@
-[{"id": "3209222010", "district_id": "320922", "name": "KERTASURA"}, {"id": "3209222011", "district_id": "320922", "name": "PEGAGAN KIDUL"}, {"id": "3209222012", "district_id": "320922", "name": "PEGAGAN LOR"}, {"id": "3209222013", "district_id": "320922", "name": "DUKUH"}, {"id": "3209222014", "district_id": "320922", "name": "KARANGKENDAL"}, {"id": "3209222015", "district_id": "320922", "name": "GROGOL"}, {"id": "3209222016", "district_id": "320922", "name": "KAPETAKAN"}, {"id": "3209222017", "district_id": "320922", "name": "BUNGKO"}, {"id": "3209222018", "district_id": "320922", "name": "BUNGKO LOR"}]
+[
+  {
+    "id": "3209222010",
+    "district_id": "320922",
+    "name": "KERTASURA"
+  },
+  {
+    "id": "3209222011",
+    "district_id": "320922",
+    "name": "PEGAGAN KIDUL"
+  },
+  {
+    "id": "3209222012",
+    "district_id": "320922",
+    "name": "PEGAGAN LOR"
+  },
+  {
+    "id": "3209222013",
+    "district_id": "320922",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3209222014",
+    "district_id": "320922",
+    "name": "KARANGKENDAL"
+  },
+  {
+    "id": "3209222015",
+    "district_id": "320922",
+    "name": "GROGOL"
+  },
+  {
+    "id": "3209222016",
+    "district_id": "320922",
+    "name": "KAPETAKAN"
+  },
+  {
+    "id": "3209222017",
+    "district_id": "320922",
+    "name": "BUNGKO"
+  },
+  {
+    "id": "3209222018",
+    "district_id": "320922",
+    "name": "BUNGKO LOR"
+  }
+]

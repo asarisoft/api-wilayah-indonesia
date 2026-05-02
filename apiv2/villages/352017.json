@@ -1,1 +1,47 @@
-[{"id": "3520172001", "district_id": "352017", "name": "SUKOWIDI"}, {"id": "3520172002", "district_id": "352017", "name": "SEMEN"}, {"id": "3520172003", "district_id": "352017", "name": "GORANGGARENG"}, {"id": "3520172004", "district_id": "352017", "name": "PETUNGREJO"}, {"id": "3520172005", "district_id": "352017", "name": "NGUNTORONADI"}, {"id": "3520172006", "district_id": "352017", "name": "SIMBATAN"}, {"id": "3520172007", "district_id": "352017", "name": "PURWOREJO"}, {"id": "3520172008", "district_id": "352017", "name": "KENONGOMULYO"}, {"id": "3520172009", "district_id": "352017", "name": "DRIYOREJO"}]
+[
+  {
+    "id": "3520172001",
+    "district_id": "352017",
+    "name": "SUKOWIDI"
+  },
+  {
+    "id": "3520172002",
+    "district_id": "352017",
+    "name": "SEMEN"
+  },
+  {
+    "id": "3520172003",
+    "district_id": "352017",
+    "name": "GORANGGARENG"
+  },
+  {
+    "id": "3520172004",
+    "district_id": "352017",
+    "name": "PETUNGREJO"
+  },
+  {
+    "id": "3520172005",
+    "district_id": "352017",
+    "name": "NGUNTORONADI"
+  },
+  {
+    "id": "3520172006",
+    "district_id": "352017",
+    "name": "SIMBATAN"
+  },
+  {
+    "id": "3520172007",
+    "district_id": "352017",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3520172008",
+    "district_id": "352017",
+    "name": "KENONGOMULYO"
+  },
+  {
+    "id": "3520172009",
+    "district_id": "352017",
+    "name": "DRIYOREJO"
+  }
+]

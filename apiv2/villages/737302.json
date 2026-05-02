@@ -1,1 +1,32 @@
-[{"id": "7373021002", "district_id": "737302", "name": "BATUPASI"}, {"id": "7373021003", "district_id": "737302", "name": "SABBAMPARU"}, {"id": "7373021005", "district_id": "737302", "name": "SALOBULO"}, {"id": "7373021007", "district_id": "737302", "name": "PENGGOLI"}, {"id": "7373021008", "district_id": "737302", "name": "LUMINDA"}, {"id": "7373021009", "district_id": "737302", "name": "PATTENE"}]
+[
+  {
+    "id": "7373021002",
+    "district_id": "737302",
+    "name": "BATUPASI"
+  },
+  {
+    "id": "7373021003",
+    "district_id": "737302",
+    "name": "SABBAMPARU"
+  },
+  {
+    "id": "7373021005",
+    "district_id": "737302",
+    "name": "SALOBULO"
+  },
+  {
+    "id": "7373021007",
+    "district_id": "737302",
+    "name": "PENGGOLI"
+  },
+  {
+    "id": "7373021008",
+    "district_id": "737302",
+    "name": "LUMINDA"
+  },
+  {
+    "id": "7373021009",
+    "district_id": "737302",
+    "name": "PATTENE"
+  }
+]

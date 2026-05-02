@@ -1,1 +1,67 @@
-[{"id": "3507082001", "district_id": "350708", "name": "SUMBERPUTIH"}, {"id": "3507082002", "district_id": "350708", "name": "WONOAYU"}, {"id": "3507082003", "district_id": "350708", "name": "BAMBANG"}, {"id": "3507082004", "district_id": "350708", "name": "BRINGIN"}, {"id": "3507082005", "district_id": "350708", "name": "DADAPAN"}, {"id": "3507082006", "district_id": "350708", "name": "PATOKPICIS"}, {"id": "3507082007", "district_id": "350708", "name": "BLAYU"}, {"id": "3507082008", "district_id": "350708", "name": "CODO"}, {"id": "3507082009", "district_id": "350708", "name": "SUKOLILO"}, {"id": "3507082010", "district_id": "350708", "name": "KIDANGBANG"}, {"id": "3507082011", "district_id": "350708", "name": "SUKOANYAR"}, {"id": "3507082012", "district_id": "350708", "name": "WAJAK"}, {"id": "3507082013", "district_id": "350708", "name": "NGEMBAL"}]
+[
+  {
+    "id": "3507082001",
+    "district_id": "350708",
+    "name": "SUMBERPUTIH"
+  },
+  {
+    "id": "3507082002",
+    "district_id": "350708",
+    "name": "WONOAYU"
+  },
+  {
+    "id": "3507082003",
+    "district_id": "350708",
+    "name": "BAMBANG"
+  },
+  {
+    "id": "3507082004",
+    "district_id": "350708",
+    "name": "BRINGIN"
+  },
+  {
+    "id": "3507082005",
+    "district_id": "350708",
+    "name": "DADAPAN"
+  },
+  {
+    "id": "3507082006",
+    "district_id": "350708",
+    "name": "PATOKPICIS"
+  },
+  {
+    "id": "3507082007",
+    "district_id": "350708",
+    "name": "BLAYU"
+  },
+  {
+    "id": "3507082008",
+    "district_id": "350708",
+    "name": "CODO"
+  },
+  {
+    "id": "3507082009",
+    "district_id": "350708",
+    "name": "SUKOLILO"
+  },
+  {
+    "id": "3507082010",
+    "district_id": "350708",
+    "name": "KIDANGBANG"
+  },
+  {
+    "id": "3507082011",
+    "district_id": "350708",
+    "name": "SUKOANYAR"
+  },
+  {
+    "id": "3507082012",
+    "district_id": "350708",
+    "name": "WAJAK"
+  },
+  {
+    "id": "3507082013",
+    "district_id": "350708",
+    "name": "NGEMBAL"
+  }
+]

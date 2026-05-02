@@ -1,1 +1,52 @@
-[{"id": "1506061001", "district_id": "150606", "name": "TEBING TINGGI"}, {"id": "1506062002", "district_id": "150606", "name": "PURWODADI"}, {"id": "1506062003", "district_id": "150606", "name": "SUKA DAMAI"}, {"id": "1506062004", "district_id": "150606", "name": "ADI JAYA"}, {"id": "1506062005", "district_id": "150606", "name": "KELAGIAN"}, {"id": "1506062006", "district_id": "150606", "name": "TELUK PENGKAH"}, {"id": "1506062007", "district_id": "150606", "name": "TALANG MAKMUR"}, {"id": "1506062008", "district_id": "150606", "name": "SUNGAI KERUH"}, {"id": "1506062009", "district_id": "150606", "name": "DATARAN KEMPAS"}, {"id": "1506062010", "district_id": "150606", "name": "DELIMA"}]
+[
+  {
+    "id": "1506061001",
+    "district_id": "150606",
+    "name": "TEBING TINGGI"
+  },
+  {
+    "id": "1506062002",
+    "district_id": "150606",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "1506062003",
+    "district_id": "150606",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "1506062004",
+    "district_id": "150606",
+    "name": "ADI JAYA"
+  },
+  {
+    "id": "1506062005",
+    "district_id": "150606",
+    "name": "KELAGIAN"
+  },
+  {
+    "id": "1506062006",
+    "district_id": "150606",
+    "name": "TELUK PENGKAH"
+  },
+  {
+    "id": "1506062007",
+    "district_id": "150606",
+    "name": "TALANG MAKMUR"
+  },
+  {
+    "id": "1506062008",
+    "district_id": "150606",
+    "name": "SUNGAI KERUH"
+  },
+  {
+    "id": "1506062009",
+    "district_id": "150606",
+    "name": "DATARAN KEMPAS"
+  },
+  {
+    "id": "1506062010",
+    "district_id": "150606",
+    "name": "DELIMA"
+  }
+]

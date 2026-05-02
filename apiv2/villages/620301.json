@@ -1,1 +1,52 @@
-[{"id": "6203011006", "district_id": "620301", "name": "MURUNG KERAMAT"}, {"id": "6203011007", "district_id": "620301", "name": "SELAT HILIR"}, {"id": "6203011008", "district_id": "620301", "name": "SELAT TENGAH"}, {"id": "6203011009", "district_id": "620301", "name": "SELAT HULU"}, {"id": "6203011010", "district_id": "620301", "name": "SELAT DALAM"}, {"id": "6203011021", "district_id": "620301", "name": "SELAT UTARA"}, {"id": "6203011022", "district_id": "620301", "name": "SELAT BARAT"}, {"id": "6203011023", "district_id": "620301", "name": "PANAMAS"}, {"id": "6203012011", "district_id": "620301", "name": "PULAU TELO"}, {"id": "6203012020", "district_id": "620301", "name": "PULAU TELO BARU"}]
+[
+  {
+    "id": "6203011006",
+    "district_id": "620301",
+    "name": "MURUNG KERAMAT"
+  },
+  {
+    "id": "6203011007",
+    "district_id": "620301",
+    "name": "SELAT HILIR"
+  },
+  {
+    "id": "6203011008",
+    "district_id": "620301",
+    "name": "SELAT TENGAH"
+  },
+  {
+    "id": "6203011009",
+    "district_id": "620301",
+    "name": "SELAT HULU"
+  },
+  {
+    "id": "6203011010",
+    "district_id": "620301",
+    "name": "SELAT DALAM"
+  },
+  {
+    "id": "6203011021",
+    "district_id": "620301",
+    "name": "SELAT UTARA"
+  },
+  {
+    "id": "6203011022",
+    "district_id": "620301",
+    "name": "SELAT BARAT"
+  },
+  {
+    "id": "6203011023",
+    "district_id": "620301",
+    "name": "PANAMAS"
+  },
+  {
+    "id": "6203012011",
+    "district_id": "620301",
+    "name": "PULAU TELO"
+  },
+  {
+    "id": "6203012020",
+    "district_id": "620301",
+    "name": "PULAU TELO BARU"
+  }
+]

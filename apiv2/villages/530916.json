@@ -1,1 +1,57 @@
-[{"id": "5309162001", "district_id": "530916", "name": "NGINAMANU"}, {"id": "5309162002", "district_id": "530916", "name": "DENATANA"}, {"id": "5309162003", "district_id": "530916", "name": "MAINAI"}, {"id": "5309162004", "district_id": "530916", "name": "TURALOA"}, {"id": "5309162005", "district_id": "530916", "name": "NGINAMANU SELATAN"}, {"id": "5309162006", "district_id": "530916", "name": "NGINAMANU BARAT"}, {"id": "5309162007", "district_id": "530916", "name": "WUE"}, {"id": "5309162008", "district_id": "530916", "name": "DENATANA TIMUR"}, {"id": "5309162009", "district_id": "530916", "name": "LARILAKI"}, {"id": "5309162010", "district_id": "530916", "name": "MULUMESE"}, {"id": "5309162011", "district_id": "530916", "name": "TURALOA TIMUR"}]
+[
+  {
+    "id": "5309162001",
+    "district_id": "530916",
+    "name": "NGINAMANU"
+  },
+  {
+    "id": "5309162002",
+    "district_id": "530916",
+    "name": "DENATANA"
+  },
+  {
+    "id": "5309162003",
+    "district_id": "530916",
+    "name": "MAINAI"
+  },
+  {
+    "id": "5309162004",
+    "district_id": "530916",
+    "name": "TURALOA"
+  },
+  {
+    "id": "5309162005",
+    "district_id": "530916",
+    "name": "NGINAMANU SELATAN"
+  },
+  {
+    "id": "5309162006",
+    "district_id": "530916",
+    "name": "NGINAMANU BARAT"
+  },
+  {
+    "id": "5309162007",
+    "district_id": "530916",
+    "name": "WUE"
+  },
+  {
+    "id": "5309162008",
+    "district_id": "530916",
+    "name": "DENATANA TIMUR"
+  },
+  {
+    "id": "5309162009",
+    "district_id": "530916",
+    "name": "LARILAKI"
+  },
+  {
+    "id": "5309162010",
+    "district_id": "530916",
+    "name": "MULUMESE"
+  },
+  {
+    "id": "5309162011",
+    "district_id": "530916",
+    "name": "TURALOA TIMUR"
+  }
+]

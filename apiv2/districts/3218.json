@@ -1,1 +1,52 @@
-[{"id": "321801", "regency_id": "3218", "name": "PARIGI"}, {"id": "321802", "regency_id": "3218", "name": "CIJULANG"}, {"id": "321803", "regency_id": "3218", "name": "CIMERAK"}, {"id": "321804", "regency_id": "3218", "name": "CIGUGUR"}, {"id": "321805", "regency_id": "3218", "name": "LANGKAPLANCAR"}, {"id": "321806", "regency_id": "3218", "name": "MANGUNJAYA"}, {"id": "321807", "regency_id": "3218", "name": "PADAHERANG"}, {"id": "321808", "regency_id": "3218", "name": "KALIPUCANG"}, {"id": "321809", "regency_id": "3218", "name": "PANGANDARAN"}, {"id": "321810", "regency_id": "3218", "name": "SIDAMULIH"}]
+[
+  {
+    "id": "321801",
+    "regency_id": "3218",
+    "name": "PARIGI"
+  },
+  {
+    "id": "321802",
+    "regency_id": "3218",
+    "name": "CIJULANG"
+  },
+  {
+    "id": "321803",
+    "regency_id": "3218",
+    "name": "CIMERAK"
+  },
+  {
+    "id": "321804",
+    "regency_id": "3218",
+    "name": "CIGUGUR"
+  },
+  {
+    "id": "321805",
+    "regency_id": "3218",
+    "name": "LANGKAPLANCAR"
+  },
+  {
+    "id": "321806",
+    "regency_id": "3218",
+    "name": "MANGUNJAYA"
+  },
+  {
+    "id": "321807",
+    "regency_id": "3218",
+    "name": "PADAHERANG"
+  },
+  {
+    "id": "321808",
+    "regency_id": "3218",
+    "name": "KALIPUCANG"
+  },
+  {
+    "id": "321809",
+    "regency_id": "3218",
+    "name": "PANGANDARAN"
+  },
+  {
+    "id": "321810",
+    "regency_id": "3218",
+    "name": "SIDAMULIH"
+  }
+]

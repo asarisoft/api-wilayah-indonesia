@@ -1,1 +1,92 @@
-[{"id": "7308071001", "district_id": "730807", "name": "PADAELO"}, {"id": "7308072002", "district_id": "730807", "name": "MATTIROWALIE"}, {"id": "7308072003", "district_id": "730807", "name": "MARIO"}, {"id": "7308072004", "district_id": "730807", "name": "UJUNG SALANGKETO"}, {"id": "7308072005", "district_id": "730807", "name": "TELLU BOCCOE"}, {"id": "7308072006", "district_id": "730807", "name": "MATTAMPA WALIE"}, {"id": "7308072007", "district_id": "730807", "name": "UJUNG TANAH"}, {"id": "7308072008", "district_id": "730807", "name": "SUMALING"}, {"id": "7308072009", "district_id": "730807", "name": "TELLONGENG"}, {"id": "7308072010", "district_id": "730807", "name": "DATA"}, {"id": "7308072011", "district_id": "730807", "name": "BATU GADING"}, {"id": "7308072012", "district_id": "730807", "name": "CEGE"}, {"id": "7308072013", "district_id": "730807", "name": "KADAI"}, {"id": "7308072014", "district_id": "730807", "name": "LAKUKANG"}, {"id": "7308072015", "district_id": "730807", "name": "PATTIRO"}, {"id": "7308072016", "district_id": "730807", "name": "LAPASA"}, {"id": "7308072017", "district_id": "730807", "name": "KARELLA"}, {"id": "7308072018", "district_id": "730807", "name": "LAPPA UPANG"}]
+[
+  {
+    "id": "7308071001",
+    "district_id": "730807",
+    "name": "PADAELO"
+  },
+  {
+    "id": "7308072002",
+    "district_id": "730807",
+    "name": "MATTIROWALIE"
+  },
+  {
+    "id": "7308072003",
+    "district_id": "730807",
+    "name": "MARIO"
+  },
+  {
+    "id": "7308072004",
+    "district_id": "730807",
+    "name": "UJUNG SALANGKETO"
+  },
+  {
+    "id": "7308072005",
+    "district_id": "730807",
+    "name": "TELLU BOCCOE"
+  },
+  {
+    "id": "7308072006",
+    "district_id": "730807",
+    "name": "MATTAMPA WALIE"
+  },
+  {
+    "id": "7308072007",
+    "district_id": "730807",
+    "name": "UJUNG TANAH"
+  },
+  {
+    "id": "7308072008",
+    "district_id": "730807",
+    "name": "SUMALING"
+  },
+  {
+    "id": "7308072009",
+    "district_id": "730807",
+    "name": "TELLONGENG"
+  },
+  {
+    "id": "7308072010",
+    "district_id": "730807",
+    "name": "DATA"
+  },
+  {
+    "id": "7308072011",
+    "district_id": "730807",
+    "name": "BATU GADING"
+  },
+  {
+    "id": "7308072012",
+    "district_id": "730807",
+    "name": "CEGE"
+  },
+  {
+    "id": "7308072013",
+    "district_id": "730807",
+    "name": "KADAI"
+  },
+  {
+    "id": "7308072014",
+    "district_id": "730807",
+    "name": "LAKUKANG"
+  },
+  {
+    "id": "7308072015",
+    "district_id": "730807",
+    "name": "PATTIRO"
+  },
+  {
+    "id": "7308072016",
+    "district_id": "730807",
+    "name": "LAPASA"
+  },
+  {
+    "id": "7308072017",
+    "district_id": "730807",
+    "name": "KARELLA"
+  },
+  {
+    "id": "7308072018",
+    "district_id": "730807",
+    "name": "LAPPA UPANG"
+  }
+]

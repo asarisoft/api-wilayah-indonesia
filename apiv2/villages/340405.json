@@ -1,1 +1,27 @@
-[{"id": "3404052001", "district_id": "340405", "name": "MARGOLUWIH"}, {"id": "3404052002", "district_id": "340405", "name": "MARGODADI"}, {"id": "3404052003", "district_id": "340405", "name": "MARGOKATON"}, {"id": "3404052004", "district_id": "340405", "name": "MARGOMULYO"}, {"id": "3404052005", "district_id": "340405", "name": "MARGOAGUNG"}]
+[
+  {
+    "id": "3404052001",
+    "district_id": "340405",
+    "name": "MARGOLUWIH"
+  },
+  {
+    "id": "3404052002",
+    "district_id": "340405",
+    "name": "MARGODADI"
+  },
+  {
+    "id": "3404052003",
+    "district_id": "340405",
+    "name": "MARGOKATON"
+  },
+  {
+    "id": "3404052004",
+    "district_id": "340405",
+    "name": "MARGOMULYO"
+  },
+  {
+    "id": "3404052005",
+    "district_id": "340405",
+    "name": "MARGOAGUNG"
+  }
+]

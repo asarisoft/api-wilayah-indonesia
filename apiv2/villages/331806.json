@@ -1,1 +1,107 @@
-[{"id": "3318062001", "district_id": "331806", "name": "BOTO"}, {"id": "3318062002", "district_id": "331806", "name": "TRIKOYO"}, {"id": "3318062003", "district_id": "331806", "name": "SUMBERAN"}, {"id": "3318062004", "district_id": "331806", "name": "MOJOLAMPIR"}, {"id": "3318062005", "district_id": "331806", "name": "MANTINGAN"}, {"id": "3318062006", "district_id": "331806", "name": "RONGGO"}, {"id": "3318062007", "district_id": "331806", "name": "SUMBERAGUNG"}, {"id": "3318062008", "district_id": "331806", "name": "SIDOLUHUR"}, {"id": "3318062009", "district_id": "331806", "name": "SRIKATON"}, {"id": "3318062010", "district_id": "331806", "name": "ARUMANIS"}, {"id": "3318062011", "district_id": "331806", "name": "TEGALARUM"}, {"id": "3318062012", "district_id": "331806", "name": "SIDOMUKTI"}, {"id": "3318062013", "district_id": "331806", "name": "MOJOLUHUR"}, {"id": "3318062014", "district_id": "331806", "name": "KEBONTURI"}, {"id": "3318062015", "district_id": "331806", "name": "LUNDO"}, {"id": "3318062016", "district_id": "331806", "name": "SUKORUKUN"}, {"id": "3318062017", "district_id": "331806", "name": "SUMBEREJO"}, {"id": "3318062018", "district_id": "331806", "name": "MANJANG"}, {"id": "3318062019", "district_id": "331806", "name": "TAMANSARI"}, {"id": "3318062020", "district_id": "331806", "name": "SUMBERARUM"}, {"id": "3318062021", "district_id": "331806", "name": "SRIWEDARI"}]
+[
+  {
+    "id": "3318062001",
+    "district_id": "331806",
+    "name": "BOTO"
+  },
+  {
+    "id": "3318062002",
+    "district_id": "331806",
+    "name": "TRIKOYO"
+  },
+  {
+    "id": "3318062003",
+    "district_id": "331806",
+    "name": "SUMBERAN"
+  },
+  {
+    "id": "3318062004",
+    "district_id": "331806",
+    "name": "MOJOLAMPIR"
+  },
+  {
+    "id": "3318062005",
+    "district_id": "331806",
+    "name": "MANTINGAN"
+  },
+  {
+    "id": "3318062006",
+    "district_id": "331806",
+    "name": "RONGGO"
+  },
+  {
+    "id": "3318062007",
+    "district_id": "331806",
+    "name": "SUMBERAGUNG"
+  },
+  {
+    "id": "3318062008",
+    "district_id": "331806",
+    "name": "SIDOLUHUR"
+  },
+  {
+    "id": "3318062009",
+    "district_id": "331806",
+    "name": "SRIKATON"
+  },
+  {
+    "id": "3318062010",
+    "district_id": "331806",
+    "name": "ARUMANIS"
+  },
+  {
+    "id": "3318062011",
+    "district_id": "331806",
+    "name": "TEGALARUM"
+  },
+  {
+    "id": "3318062012",
+    "district_id": "331806",
+    "name": "SIDOMUKTI"
+  },
+  {
+    "id": "3318062013",
+    "district_id": "331806",
+    "name": "MOJOLUHUR"
+  },
+  {
+    "id": "3318062014",
+    "district_id": "331806",
+    "name": "KEBONTURI"
+  },
+  {
+    "id": "3318062015",
+    "district_id": "331806",
+    "name": "LUNDO"
+  },
+  {
+    "id": "3318062016",
+    "district_id": "331806",
+    "name": "SUKORUKUN"
+  },
+  {
+    "id": "3318062017",
+    "district_id": "331806",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3318062018",
+    "district_id": "331806",
+    "name": "MANJANG"
+  },
+  {
+    "id": "3318062019",
+    "district_id": "331806",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3318062020",
+    "district_id": "331806",
+    "name": "SUMBERARUM"
+  },
+  {
+    "id": "3318062021",
+    "district_id": "331806",
+    "name": "SRIWEDARI"
+  }
+]

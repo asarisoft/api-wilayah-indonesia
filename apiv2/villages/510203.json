@@ -1,1 +1,57 @@
-[{"id": "5102032001", "district_id": "510203", "name": "MUNDEH"}, {"id": "5102032002", "district_id": "510203", "name": "MUNDEH KANGIN"}, {"id": "5102032003", "district_id": "510203", "name": "LALANGLINGGAH"}, {"id": "5102032004", "district_id": "510203", "name": "ANTOSARI"}, {"id": "5102032005", "district_id": "510203", "name": "LUMBUNG"}, {"id": "5102032006", "district_id": "510203", "name": "LUMBUNG KAUH"}, {"id": "5102032007", "district_id": "510203", "name": "TIYING GADING"}, {"id": "5102032008", "district_id": "510203", "name": "MUNDEH KAUH"}, {"id": "5102032009", "district_id": "510203", "name": "ANGKAH"}, {"id": "5102032010", "district_id": "510203", "name": "SELABIH"}, {"id": "5102032011", "district_id": "510203", "name": "BENGKEL SARI"}]
+[
+  {
+    "id": "5102032001",
+    "district_id": "510203",
+    "name": "MUNDEH"
+  },
+  {
+    "id": "5102032002",
+    "district_id": "510203",
+    "name": "MUNDEH KANGIN"
+  },
+  {
+    "id": "5102032003",
+    "district_id": "510203",
+    "name": "LALANGLINGGAH"
+  },
+  {
+    "id": "5102032004",
+    "district_id": "510203",
+    "name": "ANTOSARI"
+  },
+  {
+    "id": "5102032005",
+    "district_id": "510203",
+    "name": "LUMBUNG"
+  },
+  {
+    "id": "5102032006",
+    "district_id": "510203",
+    "name": "LUMBUNG KAUH"
+  },
+  {
+    "id": "5102032007",
+    "district_id": "510203",
+    "name": "TIYING GADING"
+  },
+  {
+    "id": "5102032008",
+    "district_id": "510203",
+    "name": "MUNDEH KAUH"
+  },
+  {
+    "id": "5102032009",
+    "district_id": "510203",
+    "name": "ANGKAH"
+  },
+  {
+    "id": "5102032010",
+    "district_id": "510203",
+    "name": "SELABIH"
+  },
+  {
+    "id": "5102032011",
+    "district_id": "510203",
+    "name": "BENGKEL SARI"
+  }
+]

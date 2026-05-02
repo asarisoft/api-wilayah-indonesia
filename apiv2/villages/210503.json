@@ -1,1 +1,32 @@
-[{"id": "2105032001", "district_id": "210503", "name": "NYAMUK"}, {"id": "2105032002", "district_id": "210503", "name": "BATU BELAH"}, {"id": "2105032003", "district_id": "210503", "name": "MUNJAN"}, {"id": "2105032004", "district_id": "210503", "name": "SERAT"}, {"id": "2105032005", "district_id": "210503", "name": "AIR PUTIH"}, {"id": "2105032006", "district_id": "210503", "name": "TEMBURUN"}]
+[
+  {
+    "id": "2105032001",
+    "district_id": "210503",
+    "name": "NYAMUK"
+  },
+  {
+    "id": "2105032002",
+    "district_id": "210503",
+    "name": "BATU BELAH"
+  },
+  {
+    "id": "2105032003",
+    "district_id": "210503",
+    "name": "MUNJAN"
+  },
+  {
+    "id": "2105032004",
+    "district_id": "210503",
+    "name": "SERAT"
+  },
+  {
+    "id": "2105032005",
+    "district_id": "210503",
+    "name": "AIR PUTIH"
+  },
+  {
+    "id": "2105032006",
+    "district_id": "210503",
+    "name": "TEMBURUN"
+  }
+]

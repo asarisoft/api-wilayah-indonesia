@@ -1,1 +1,47 @@
-[{"id": "9404122001", "district_id": "940412", "name": "KAPIRAYA"}, {"id": "9404122002", "district_id": "940412", "name": "UTA"}, {"id": "9404122003", "district_id": "940412", "name": "MUPURUKA"}, {"id": "9404122004", "district_id": "940412", "name": "WUMUKA"}, {"id": "9404122005", "district_id": "940412", "name": "AKAR"}, {"id": "9404122006", "district_id": "940412", "name": "MAPAR"}, {"id": "9404122007", "district_id": "940412", "name": "KIPIA"}, {"id": "9404122008", "district_id": "940412", "name": "PRONGGO"}, {"id": "9404122009", "district_id": "940412", "name": "WAKIA"}]
+[
+  {
+    "id": "9404122001",
+    "district_id": "940412",
+    "name": "KAPIRAYA"
+  },
+  {
+    "id": "9404122002",
+    "district_id": "940412",
+    "name": "UTA"
+  },
+  {
+    "id": "9404122003",
+    "district_id": "940412",
+    "name": "MUPURUKA"
+  },
+  {
+    "id": "9404122004",
+    "district_id": "940412",
+    "name": "WUMUKA"
+  },
+  {
+    "id": "9404122005",
+    "district_id": "940412",
+    "name": "AKAR"
+  },
+  {
+    "id": "9404122006",
+    "district_id": "940412",
+    "name": "MAPAR"
+  },
+  {
+    "id": "9404122007",
+    "district_id": "940412",
+    "name": "KIPIA"
+  },
+  {
+    "id": "9404122008",
+    "district_id": "940412",
+    "name": "PRONGGO"
+  },
+  {
+    "id": "9404122009",
+    "district_id": "940412",
+    "name": "WAKIA"
+  }
+]

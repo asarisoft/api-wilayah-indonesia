@@ -1,1 +1,42 @@
-[{"id": "6102181001", "district_id": "610218", "name": "PULAU PEDALAMAN"}, {"id": "6102181002", "district_id": "610218", "name": "PASIR WAN SALIM"}, {"id": "6102182003", "district_id": "610218", "name": "ANTIBAR"}, {"id": "6102182004", "district_id": "610218", "name": "SEJEGI"}, {"id": "6102182005", "district_id": "610218", "name": "PASIR PALEMBANG"}, {"id": "6102182006", "district_id": "610218", "name": "PASIR PANJANG"}, {"id": "6102182007", "district_id": "610218", "name": "SUNGAI BAKAU KECIL"}, {"id": "6102182008", "district_id": "610218", "name": "PARIT BANJAR"}]
+[
+  {
+    "id": "6102181001",
+    "district_id": "610218",
+    "name": "PULAU PEDALAMAN"
+  },
+  {
+    "id": "6102181002",
+    "district_id": "610218",
+    "name": "PASIR WAN SALIM"
+  },
+  {
+    "id": "6102182003",
+    "district_id": "610218",
+    "name": "ANTIBAR"
+  },
+  {
+    "id": "6102182004",
+    "district_id": "610218",
+    "name": "SEJEGI"
+  },
+  {
+    "id": "6102182005",
+    "district_id": "610218",
+    "name": "PASIR PALEMBANG"
+  },
+  {
+    "id": "6102182006",
+    "district_id": "610218",
+    "name": "PASIR PANJANG"
+  },
+  {
+    "id": "6102182007",
+    "district_id": "610218",
+    "name": "SUNGAI BAKAU KECIL"
+  },
+  {
+    "id": "6102182008",
+    "district_id": "610218",
+    "name": "PARIT BANJAR"
+  }
+]

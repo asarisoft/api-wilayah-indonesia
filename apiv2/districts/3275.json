@@ -1,1 +1,62 @@
-[{"id": "327501", "regency_id": "3275", "name": "BEKASI TIMUR"}, {"id": "327502", "regency_id": "3275", "name": "BEKASI BARAT"}, {"id": "327503", "regency_id": "3275", "name": "BEKASI UTARA"}, {"id": "327504", "regency_id": "3275", "name": "BEKASI SELATAN"}, {"id": "327505", "regency_id": "3275", "name": "RAWALUMBU"}, {"id": "327506", "regency_id": "3275", "name": "MEDANSATRIA"}, {"id": "327507", "regency_id": "3275", "name": "BANTARGEBANG"}, {"id": "327508", "regency_id": "3275", "name": "PONDOKGEDE"}, {"id": "327509", "regency_id": "3275", "name": "JATIASIH"}, {"id": "327510", "regency_id": "3275", "name": "JATISAMPURNA"}, {"id": "327511", "regency_id": "3275", "name": "MUSTIKAJAYA"}, {"id": "327512", "regency_id": "3275", "name": "PONDOKMELATI"}]
+[
+  {
+    "id": "327501",
+    "regency_id": "3275",
+    "name": "BEKASI TIMUR"
+  },
+  {
+    "id": "327502",
+    "regency_id": "3275",
+    "name": "BEKASI BARAT"
+  },
+  {
+    "id": "327503",
+    "regency_id": "3275",
+    "name": "BEKASI UTARA"
+  },
+  {
+    "id": "327504",
+    "regency_id": "3275",
+    "name": "BEKASI SELATAN"
+  },
+  {
+    "id": "327505",
+    "regency_id": "3275",
+    "name": "RAWALUMBU"
+  },
+  {
+    "id": "327506",
+    "regency_id": "3275",
+    "name": "MEDANSATRIA"
+  },
+  {
+    "id": "327507",
+    "regency_id": "3275",
+    "name": "BANTARGEBANG"
+  },
+  {
+    "id": "327508",
+    "regency_id": "3275",
+    "name": "PONDOKGEDE"
+  },
+  {
+    "id": "327509",
+    "regency_id": "3275",
+    "name": "JATIASIH"
+  },
+  {
+    "id": "327510",
+    "regency_id": "3275",
+    "name": "JATISAMPURNA"
+  },
+  {
+    "id": "327511",
+    "regency_id": "3275",
+    "name": "MUSTIKAJAYA"
+  },
+  {
+    "id": "327512",
+    "regency_id": "3275",
+    "name": "PONDOKMELATI"
+  }
+]

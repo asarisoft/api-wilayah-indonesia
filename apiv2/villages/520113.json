@@ -1,1 +1,52 @@
-[{"id": "5201132001", "district_id": "520113", "name": "LEMBAR"}, {"id": "5201132002", "district_id": "520113", "name": "JEMBATAN KEMBAR"}, {"id": "5201132003", "district_id": "520113", "name": "MAREJE"}, {"id": "5201132004", "district_id": "520113", "name": "SEKOTONG TIMUR"}, {"id": "5201132005", "district_id": "520113", "name": "LABUAN TERENG"}, {"id": "5201132006", "district_id": "520113", "name": "JEMBATAN GANTUNG"}, {"id": "5201132007", "district_id": "520113", "name": "LEMBAR SELATAN"}, {"id": "5201132008", "district_id": "520113", "name": "MAREJE TIMUR"}, {"id": "5201132009", "district_id": "520113", "name": "JEMBATAN KEMBAR TIMUR"}, {"id": "5201132010", "district_id": "520113", "name": "EYAT MAYANG"}]
+[
+  {
+    "id": "5201132001",
+    "district_id": "520113",
+    "name": "LEMBAR"
+  },
+  {
+    "id": "5201132002",
+    "district_id": "520113",
+    "name": "JEMBATAN KEMBAR"
+  },
+  {
+    "id": "5201132003",
+    "district_id": "520113",
+    "name": "MAREJE"
+  },
+  {
+    "id": "5201132004",
+    "district_id": "520113",
+    "name": "SEKOTONG TIMUR"
+  },
+  {
+    "id": "5201132005",
+    "district_id": "520113",
+    "name": "LABUAN TERENG"
+  },
+  {
+    "id": "5201132006",
+    "district_id": "520113",
+    "name": "JEMBATAN GANTUNG"
+  },
+  {
+    "id": "5201132007",
+    "district_id": "520113",
+    "name": "LEMBAR SELATAN"
+  },
+  {
+    "id": "5201132008",
+    "district_id": "520113",
+    "name": "MAREJE TIMUR"
+  },
+  {
+    "id": "5201132009",
+    "district_id": "520113",
+    "name": "JEMBATAN KEMBAR TIMUR"
+  },
+  {
+    "id": "5201132010",
+    "district_id": "520113",
+    "name": "EYAT MAYANG"
+  }
+]

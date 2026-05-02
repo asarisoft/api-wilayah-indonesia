@@ -1,1 +1,77 @@
-[{"id": "6112032001", "district_id": "611203", "name": "SIMPANG KANAN"}, {"id": "6112032002", "district_id": "611203", "name": "MEGA TIMUR"}, {"id": "6112032003", "district_id": "611203", "name": "BENGKAREK"}, {"id": "6112032004", "district_id": "611203", "name": "LINGGA"}, {"id": "6112032005", "district_id": "611203", "name": "SUNGAI AMBAWANG KUALA"}, {"id": "6112032006", "district_id": "611203", "name": "JAWA TENGAH"}, {"id": "6112032007", "district_id": "611203", "name": "DURIAN"}, {"id": "6112032008", "district_id": "611203", "name": "PANCAROBA"}, {"id": "6112032009", "district_id": "611203", "name": "PUGUK"}, {"id": "6112032010", "district_id": "611203", "name": "KOREK"}, {"id": "6112032011", "district_id": "611203", "name": "PASAK"}, {"id": "6112032012", "district_id": "611203", "name": "PASAK PIANG"}, {"id": "6112032013", "district_id": "611203", "name": "TELUK BAKUNG"}, {"id": "6112032014", "district_id": "611203", "name": "AMPERA RAYA"}, {"id": "6112032015", "district_id": "611203", "name": "SUNGAI MALAYA"}]
+[
+  {
+    "id": "6112032001",
+    "district_id": "611203",
+    "name": "SIMPANG KANAN"
+  },
+  {
+    "id": "6112032002",
+    "district_id": "611203",
+    "name": "MEGA TIMUR"
+  },
+  {
+    "id": "6112032003",
+    "district_id": "611203",
+    "name": "BENGKAREK"
+  },
+  {
+    "id": "6112032004",
+    "district_id": "611203",
+    "name": "LINGGA"
+  },
+  {
+    "id": "6112032005",
+    "district_id": "611203",
+    "name": "SUNGAI AMBAWANG KUALA"
+  },
+  {
+    "id": "6112032006",
+    "district_id": "611203",
+    "name": "JAWA TENGAH"
+  },
+  {
+    "id": "6112032007",
+    "district_id": "611203",
+    "name": "DURIAN"
+  },
+  {
+    "id": "6112032008",
+    "district_id": "611203",
+    "name": "PANCAROBA"
+  },
+  {
+    "id": "6112032009",
+    "district_id": "611203",
+    "name": "PUGUK"
+  },
+  {
+    "id": "6112032010",
+    "district_id": "611203",
+    "name": "KOREK"
+  },
+  {
+    "id": "6112032011",
+    "district_id": "611203",
+    "name": "PASAK"
+  },
+  {
+    "id": "6112032012",
+    "district_id": "611203",
+    "name": "PASAK PIANG"
+  },
+  {
+    "id": "6112032013",
+    "district_id": "611203",
+    "name": "TELUK BAKUNG"
+  },
+  {
+    "id": "6112032014",
+    "district_id": "611203",
+    "name": "AMPERA RAYA"
+  },
+  {
+    "id": "6112032015",
+    "district_id": "611203",
+    "name": "SUNGAI MALAYA"
+  }
+]

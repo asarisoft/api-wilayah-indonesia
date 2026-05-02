@@ -1,1 +1,102 @@
-[{"id": "1208301001", "district_id": "120830", "name": "UJUNG PADANG"}, {"id": "1208302002", "district_id": "120830", "name": "HUTA PARIK"}, {"id": "1208302003", "district_id": "120830", "name": "DUSUN ULU"}, {"id": "1208302004", "district_id": "120830", "name": "TINJOWAN"}, {"id": "1208302005", "district_id": "120830", "name": "SAYUR MATINGGI"}, {"id": "1208302006", "district_id": "120830", "name": "TARATAK NAGODANG"}, {"id": "1208302007", "district_id": "120830", "name": "SORDANG BOLON"}, {"id": "1208302008", "district_id": "120830", "name": "TELUK LAPIAN"}, {"id": "1208302009", "district_id": "120830", "name": "TANJUNG RAPUAN"}, {"id": "1208302010", "district_id": "120830", "name": "PAGAR BOSI"}, {"id": "1208302011", "district_id": "120830", "name": "BANGUN SORDANG"}, {"id": "1208302012", "district_id": "120830", "name": "AEK GERGER SIDODADI"}, {"id": "1208302013", "district_id": "120830", "name": "PULO PITU MARIHAT"}, {"id": "1208302014", "district_id": "120830", "name": "SIRINGAN RINGAN"}, {"id": "1208302015", "district_id": "120830", "name": "RIAH NA POSO"}, {"id": "1208302016", "district_id": "120830", "name": "SEI MERBAU"}, {"id": "1208302017", "district_id": "120830", "name": "KAMPUNG LALANG"}, {"id": "1208302018", "district_id": "120830", "name": "SORDANG BARU"}, {"id": "1208302019", "district_id": "120830", "name": "BANJAR HULU"}, {"id": "1208302020", "district_id": "120830", "name": "RAWA MASIN"}]
+[
+  {
+    "id": "1208301001",
+    "district_id": "120830",
+    "name": "UJUNG PADANG"
+  },
+  {
+    "id": "1208302002",
+    "district_id": "120830",
+    "name": "HUTA PARIK"
+  },
+  {
+    "id": "1208302003",
+    "district_id": "120830",
+    "name": "DUSUN ULU"
+  },
+  {
+    "id": "1208302004",
+    "district_id": "120830",
+    "name": "TINJOWAN"
+  },
+  {
+    "id": "1208302005",
+    "district_id": "120830",
+    "name": "SAYUR MATINGGI"
+  },
+  {
+    "id": "1208302006",
+    "district_id": "120830",
+    "name": "TARATAK NAGODANG"
+  },
+  {
+    "id": "1208302007",
+    "district_id": "120830",
+    "name": "SORDANG BOLON"
+  },
+  {
+    "id": "1208302008",
+    "district_id": "120830",
+    "name": "TELUK LAPIAN"
+  },
+  {
+    "id": "1208302009",
+    "district_id": "120830",
+    "name": "TANJUNG RAPUAN"
+  },
+  {
+    "id": "1208302010",
+    "district_id": "120830",
+    "name": "PAGAR BOSI"
+  },
+  {
+    "id": "1208302011",
+    "district_id": "120830",
+    "name": "BANGUN SORDANG"
+  },
+  {
+    "id": "1208302012",
+    "district_id": "120830",
+    "name": "AEK GERGER SIDODADI"
+  },
+  {
+    "id": "1208302013",
+    "district_id": "120830",
+    "name": "PULO PITU MARIHAT"
+  },
+  {
+    "id": "1208302014",
+    "district_id": "120830",
+    "name": "SIRINGAN RINGAN"
+  },
+  {
+    "id": "1208302015",
+    "district_id": "120830",
+    "name": "RIAH NA POSO"
+  },
+  {
+    "id": "1208302016",
+    "district_id": "120830",
+    "name": "SEI MERBAU"
+  },
+  {
+    "id": "1208302017",
+    "district_id": "120830",
+    "name": "KAMPUNG LALANG"
+  },
+  {
+    "id": "1208302018",
+    "district_id": "120830",
+    "name": "SORDANG BARU"
+  },
+  {
+    "id": "1208302019",
+    "district_id": "120830",
+    "name": "BANJAR HULU"
+  },
+  {
+    "id": "1208302020",
+    "district_id": "120830",
+    "name": "RAWA MASIN"
+  }
+]

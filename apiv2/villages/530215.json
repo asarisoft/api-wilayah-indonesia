@@ -1,1 +1,37 @@
-[{"id": "5302152006", "district_id": "530215", "name": "SABUN"}, {"id": "5302152007", "district_id": "530215", "name": "NANO"}, {"id": "5302152009", "district_id": "530215", "name": "BOKING"}, {"id": "5302152010", "district_id": "530215", "name": "BAUS"}, {"id": "5302152011", "district_id": "530215", "name": "MEUSIN"}, {"id": "5302152013", "district_id": "530215", "name": "LEONMENI"}, {"id": "5302152014", "district_id": "530215", "name": "FATU MANUFUI"}]
+[
+  {
+    "id": "5302152006",
+    "district_id": "530215",
+    "name": "SABUN"
+  },
+  {
+    "id": "5302152007",
+    "district_id": "530215",
+    "name": "NANO"
+  },
+  {
+    "id": "5302152009",
+    "district_id": "530215",
+    "name": "BOKING"
+  },
+  {
+    "id": "5302152010",
+    "district_id": "530215",
+    "name": "BAUS"
+  },
+  {
+    "id": "5302152011",
+    "district_id": "530215",
+    "name": "MEUSIN"
+  },
+  {
+    "id": "5302152013",
+    "district_id": "530215",
+    "name": "LEONMENI"
+  },
+  {
+    "id": "5302152014",
+    "district_id": "530215",
+    "name": "FATU MANUFUI"
+  }
+]

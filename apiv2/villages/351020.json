@@ -1,1 +1,37 @@
-[{"id": "3510202001", "district_id": "351020", "name": "SEMPU"}, {"id": "3510202002", "district_id": "351020", "name": "JAMBEWANGI"}, {"id": "3510202003", "district_id": "351020", "name": "KARANGSARI"}, {"id": "3510202004", "district_id": "351020", "name": "TEMUGURUH"}, {"id": "3510202005", "district_id": "351020", "name": "GENDOH"}, {"id": "3510202006", "district_id": "351020", "name": "TEMUASRI"}, {"id": "3510202007", "district_id": "351020", "name": "TEGALARUM"}]
+[
+  {
+    "id": "3510202001",
+    "district_id": "351020",
+    "name": "SEMPU"
+  },
+  {
+    "id": "3510202002",
+    "district_id": "351020",
+    "name": "JAMBEWANGI"
+  },
+  {
+    "id": "3510202003",
+    "district_id": "351020",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3510202004",
+    "district_id": "351020",
+    "name": "TEMUGURUH"
+  },
+  {
+    "id": "3510202005",
+    "district_id": "351020",
+    "name": "GENDOH"
+  },
+  {
+    "id": "3510202006",
+    "district_id": "351020",
+    "name": "TEMUASRI"
+  },
+  {
+    "id": "3510202007",
+    "district_id": "351020",
+    "name": "TEGALARUM"
+  }
+]

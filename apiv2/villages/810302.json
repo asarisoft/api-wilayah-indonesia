@@ -1,1 +1,37 @@
-[{"id": "8103022001", "district_id": "810302", "name": "ADAUT"}, {"id": "8103022002", "district_id": "810302", "name": "NAMTABUNG"}, {"id": "8103022003", "district_id": "810302", "name": "KANDAR"}, {"id": "8103022004", "district_id": "810302", "name": "LINGAT"}, {"id": "8103022005", "district_id": "810302", "name": "FURSUY"}, {"id": "8103022006", "district_id": "810302", "name": "WERAIN"}, {"id": "8103022007", "district_id": "810302", "name": "ELIASA"}]
+[
+  {
+    "id": "8103022001",
+    "district_id": "810302",
+    "name": "ADAUT"
+  },
+  {
+    "id": "8103022002",
+    "district_id": "810302",
+    "name": "NAMTABUNG"
+  },
+  {
+    "id": "8103022003",
+    "district_id": "810302",
+    "name": "KANDAR"
+  },
+  {
+    "id": "8103022004",
+    "district_id": "810302",
+    "name": "LINGAT"
+  },
+  {
+    "id": "8103022005",
+    "district_id": "810302",
+    "name": "FURSUY"
+  },
+  {
+    "id": "8103022006",
+    "district_id": "810302",
+    "name": "WERAIN"
+  },
+  {
+    "id": "8103022007",
+    "district_id": "810302",
+    "name": "ELIASA"
+  }
+]

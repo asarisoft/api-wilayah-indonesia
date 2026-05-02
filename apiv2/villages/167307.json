@@ -1,1 +1,47 @@
-[{"id": "1673071001", "district_id": "167307", "name": "TANAH PERIUK"}, {"id": "1673071002", "district_id": "167307", "name": "SIMPANG PERIUK"}, {"id": "1673071003", "district_id": "167307", "name": "KARANG KETUAN"}, {"id": "1673071004", "district_id": "167307", "name": "SIRING AGUNG"}, {"id": "1673071005", "district_id": "167307", "name": "EKA MARGA"}, {"id": "1673071006", "district_id": "167307", "name": "MARGA MULYA"}, {"id": "1673071007", "district_id": "167307", "name": "MARGA RAHAYU"}, {"id": "1673071008", "district_id": "167307", "name": "TABA PINGIN"}, {"id": "1673071009", "district_id": "167307", "name": "MONENG SEPATI"}]
+[
+  {
+    "id": "1673071001",
+    "district_id": "167307",
+    "name": "TANAH PERIUK"
+  },
+  {
+    "id": "1673071002",
+    "district_id": "167307",
+    "name": "SIMPANG PERIUK"
+  },
+  {
+    "id": "1673071003",
+    "district_id": "167307",
+    "name": "KARANG KETUAN"
+  },
+  {
+    "id": "1673071004",
+    "district_id": "167307",
+    "name": "SIRING AGUNG"
+  },
+  {
+    "id": "1673071005",
+    "district_id": "167307",
+    "name": "EKA MARGA"
+  },
+  {
+    "id": "1673071006",
+    "district_id": "167307",
+    "name": "MARGA MULYA"
+  },
+  {
+    "id": "1673071007",
+    "district_id": "167307",
+    "name": "MARGA RAHAYU"
+  },
+  {
+    "id": "1673071008",
+    "district_id": "167307",
+    "name": "TABA PINGIN"
+  },
+  {
+    "id": "1673071009",
+    "district_id": "167307",
+    "name": "MONENG SEPATI"
+  }
+]

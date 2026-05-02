@@ -1,1 +1,157 @@
-[{"id": "1202011001", "district_id": "120201", "name": "PARTOLI TORUAN"}, {"id": "1202011002", "district_id": "120201", "name": "HUTATORUAN V"}, {"id": "1202011003", "district_id": "120201", "name": "HUTATORUAN VI"}, {"id": "1202011004", "district_id": "120201", "name": "HUTATORUAN VII"}, {"id": "1202011005", "district_id": "120201", "name": "HUTATORUAN IX"}, {"id": "1202011006", "district_id": "120201", "name": "HUTATORUAN X"}, {"id": "1202011007", "district_id": "120201", "name": "HUTATORUAN XI"}, {"id": "1202012008", "district_id": "120201", "name": "PARBUBU I"}, {"id": "1202012009", "district_id": "120201", "name": "PARBUBU II"}, {"id": "1202012010", "district_id": "120201", "name": "HUTAPEA BANUAREA"}, {"id": "1202012011", "district_id": "120201", "name": "SIANDOR-ANDOR"}, {"id": "1202012012", "district_id": "120201", "name": "HUTAURUK"}, {"id": "1202012013", "district_id": "120201", "name": "HAPOLTAHAN"}, {"id": "1202012014", "district_id": "120201", "name": "PARBUBU DOLOK"}, {"id": "1202012015", "district_id": "120201", "name": "AEK SIANSIMUN"}, {"id": "1202012016", "district_id": "120201", "name": "HTGALUNG SIWALUOMPO"}, {"id": "1202012017", "district_id": "120201", "name": "PARBUBU PEA"}, {"id": "1202012018", "district_id": "120201", "name": "HUTATORUAN IV"}, {"id": "1202012019", "district_id": "120201", "name": "SOSUNGGULON"}, {"id": "1202012020", "district_id": "120201", "name": "HUTATORUAN VIII"}, {"id": "1202012021", "district_id": "120201", "name": "SIMAMORA"}, {"id": "1202012022", "district_id": "120201", "name": "PARBAJU TORUAN"}, {"id": "1202012023", "district_id": "120201", "name": "PARBAJU JULU"}, {"id": "1202012024", "district_id": "120201", "name": "PARBAJU TONGA"}, {"id": "1202012025", "district_id": "120201", "name": "SITAMPURUNG"}, {"id": "1202012026", "district_id": "120201", "name": "SIRAJA OLOAN"}, {"id": "1202012027", "district_id": "120201", "name": "JAMBUR NAULI"}, {"id": "1202012028", "district_id": "120201", "name": "SIHUJUR"}, {"id": "1202012029", "district_id": "120201", "name": "PARTALI JULU"}, {"id": "1202012030", "district_id": "120201", "name": "HUTATORUAN I"}, {"id": "1202012031", "district_id": "120201", "name": "HUTATORUAN III"}]
+[
+  {
+    "id": "1202011001",
+    "district_id": "120201",
+    "name": "PARTOLI TORUAN"
+  },
+  {
+    "id": "1202011002",
+    "district_id": "120201",
+    "name": "HUTATORUAN V"
+  },
+  {
+    "id": "1202011003",
+    "district_id": "120201",
+    "name": "HUTATORUAN VI"
+  },
+  {
+    "id": "1202011004",
+    "district_id": "120201",
+    "name": "HUTATORUAN VII"
+  },
+  {
+    "id": "1202011005",
+    "district_id": "120201",
+    "name": "HUTATORUAN IX"
+  },
+  {
+    "id": "1202011006",
+    "district_id": "120201",
+    "name": "HUTATORUAN X"
+  },
+  {
+    "id": "1202011007",
+    "district_id": "120201",
+    "name": "HUTATORUAN XI"
+  },
+  {
+    "id": "1202012008",
+    "district_id": "120201",
+    "name": "PARBUBU I"
+  },
+  {
+    "id": "1202012009",
+    "district_id": "120201",
+    "name": "PARBUBU II"
+  },
+  {
+    "id": "1202012010",
+    "district_id": "120201",
+    "name": "HUTAPEA BANUAREA"
+  },
+  {
+    "id": "1202012011",
+    "district_id": "120201",
+    "name": "SIANDOR-ANDOR"
+  },
+  {
+    "id": "1202012012",
+    "district_id": "120201",
+    "name": "HUTAURUK"
+  },
+  {
+    "id": "1202012013",
+    "district_id": "120201",
+    "name": "HAPOLTAHAN"
+  },
+  {
+    "id": "1202012014",
+    "district_id": "120201",
+    "name": "PARBUBU DOLOK"
+  },
+  {
+    "id": "1202012015",
+    "district_id": "120201",
+    "name": "AEK SIANSIMUN"
+  },
+  {
+    "id": "1202012016",
+    "district_id": "120201",
+    "name": "HTGALUNG SIWALUOMPO"
+  },
+  {
+    "id": "1202012017",
+    "district_id": "120201",
+    "name": "PARBUBU PEA"
+  },
+  {
+    "id": "1202012018",
+    "district_id": "120201",
+    "name": "HUTATORUAN IV"
+  },
+  {
+    "id": "1202012019",
+    "district_id": "120201",
+    "name": "SOSUNGGULON"
+  },
+  {
+    "id": "1202012020",
+    "district_id": "120201",
+    "name": "HUTATORUAN VIII"
+  },
+  {
+    "id": "1202012021",
+    "district_id": "120201",
+    "name": "SIMAMORA"
+  },
+  {
+    "id": "1202012022",
+    "district_id": "120201",
+    "name": "PARBAJU TORUAN"
+  },
+  {
+    "id": "1202012023",
+    "district_id": "120201",
+    "name": "PARBAJU JULU"
+  },
+  {
+    "id": "1202012024",
+    "district_id": "120201",
+    "name": "PARBAJU TONGA"
+  },
+  {
+    "id": "1202012025",
+    "district_id": "120201",
+    "name": "SITAMPURUNG"
+  },
+  {
+    "id": "1202012026",
+    "district_id": "120201",
+    "name": "SIRAJA OLOAN"
+  },
+  {
+    "id": "1202012027",
+    "district_id": "120201",
+    "name": "JAMBUR NAULI"
+  },
+  {
+    "id": "1202012028",
+    "district_id": "120201",
+    "name": "SIHUJUR"
+  },
+  {
+    "id": "1202012029",
+    "district_id": "120201",
+    "name": "PARTALI JULU"
+  },
+  {
+    "id": "1202012030",
+    "district_id": "120201",
+    "name": "HUTATORUAN I"
+  },
+  {
+    "id": "1202012031",
+    "district_id": "120201",
+    "name": "HUTATORUAN III"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "9405132001", "district_id": "940513", "name": "AGUIT"}, {"id": "9405132002", "district_id": "940513", "name": "KEMBRU"}, {"id": "9405132003", "district_id": "940513", "name": "MOLU"}, {"id": "9405132004", "district_id": "940513", "name": "BELABA"}, {"id": "9405132005", "district_id": "940513", "name": "MAKUMA"}, {"id": "9405132006", "district_id": "940513", "name": "TINOTI"}, {"id": "9405132007", "district_id": "940513", "name": "NILIME"}]
+[
+  {
+    "id": "9405132001",
+    "district_id": "940513",
+    "name": "AGUIT"
+  },
+  {
+    "id": "9405132002",
+    "district_id": "940513",
+    "name": "KEMBRU"
+  },
+  {
+    "id": "9405132003",
+    "district_id": "940513",
+    "name": "MOLU"
+  },
+  {
+    "id": "9405132004",
+    "district_id": "940513",
+    "name": "BELABA"
+  },
+  {
+    "id": "9405132005",
+    "district_id": "940513",
+    "name": "MAKUMA"
+  },
+  {
+    "id": "9405132006",
+    "district_id": "940513",
+    "name": "TINOTI"
+  },
+  {
+    "id": "9405132007",
+    "district_id": "940513",
+    "name": "NILIME"
+  }
+]

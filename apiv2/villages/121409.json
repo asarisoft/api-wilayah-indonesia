@@ -1,1 +1,92 @@
-[{"id": "1214092001", "district_id": "121409", "name": "SIFALAGO SUSUA"}, {"id": "1214092002", "district_id": "121409", "name": "ORAHILI SUSUA"}, {"id": "1214092003", "district_id": "121409", "name": "HILIANA'A SUSUA"}, {"id": "1214092004", "district_id": "121409", "name": "HILIORAHUA"}, {"id": "1214092005", "district_id": "121409", "name": "HILIMBOE"}, {"id": "1214092006", "district_id": "121409", "name": "HILIMBOHO"}, {"id": "1214092008", "district_id": "121409", "name": "HILIWAEBU"}, {"id": "1214092009", "district_id": "121409", "name": "HILIDANAYAO"}, {"id": "1214092010", "district_id": "121409", "name": "HILIZAMURUGO"}, {"id": "1214092011", "district_id": "121409", "name": "SISOBAHILI"}, {"id": "1214092012", "district_id": "121409", "name": "DAO-DAO ZANUWO"}, {"id": "1214092013", "district_id": "121409", "name": "HILIORUDUA"}, {"id": "1214092014", "district_id": "121409", "name": "BINTANG BARU"}, {"id": "1214092015", "district_id": "121409", "name": "HILITOBARA SUSUA"}, {"id": "1214092016", "district_id": "121409", "name": "ORAHUA ULUZOI"}, {"id": "1214092017", "district_id": "121409", "name": "HILISIBOHOU"}, {"id": "1214092018", "district_id": "121409", "name": "HILIADULOSOI"}, {"id": "1214092019", "district_id": "121409", "name": "ORAHILI BO'E"}]
+[
+  {
+    "id": "1214092001",
+    "district_id": "121409",
+    "name": "SIFALAGO SUSUA"
+  },
+  {
+    "id": "1214092002",
+    "district_id": "121409",
+    "name": "ORAHILI SUSUA"
+  },
+  {
+    "id": "1214092003",
+    "district_id": "121409",
+    "name": "HILIANA'A SUSUA"
+  },
+  {
+    "id": "1214092004",
+    "district_id": "121409",
+    "name": "HILIORAHUA"
+  },
+  {
+    "id": "1214092005",
+    "district_id": "121409",
+    "name": "HILIMBOE"
+  },
+  {
+    "id": "1214092006",
+    "district_id": "121409",
+    "name": "HILIMBOHO"
+  },
+  {
+    "id": "1214092008",
+    "district_id": "121409",
+    "name": "HILIWAEBU"
+  },
+  {
+    "id": "1214092009",
+    "district_id": "121409",
+    "name": "HILIDANAYAO"
+  },
+  {
+    "id": "1214092010",
+    "district_id": "121409",
+    "name": "HILIZAMURUGO"
+  },
+  {
+    "id": "1214092011",
+    "district_id": "121409",
+    "name": "SISOBAHILI"
+  },
+  {
+    "id": "1214092012",
+    "district_id": "121409",
+    "name": "DAO-DAO ZANUWO"
+  },
+  {
+    "id": "1214092013",
+    "district_id": "121409",
+    "name": "HILIORUDUA"
+  },
+  {
+    "id": "1214092014",
+    "district_id": "121409",
+    "name": "BINTANG BARU"
+  },
+  {
+    "id": "1214092015",
+    "district_id": "121409",
+    "name": "HILITOBARA SUSUA"
+  },
+  {
+    "id": "1214092016",
+    "district_id": "121409",
+    "name": "ORAHUA ULUZOI"
+  },
+  {
+    "id": "1214092017",
+    "district_id": "121409",
+    "name": "HILISIBOHOU"
+  },
+  {
+    "id": "1214092018",
+    "district_id": "121409",
+    "name": "HILIADULOSOI"
+  },
+  {
+    "id": "1214092019",
+    "district_id": "121409",
+    "name": "ORAHILI BO'E"
+  }
+]

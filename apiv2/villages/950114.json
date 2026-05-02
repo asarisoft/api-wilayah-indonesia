@@ -1,1 +1,27 @@
-[{"id": "9501142001", "district_id": "950114", "name": "WALAIK"}, {"id": "9501142002", "district_id": "950114", "name": "ELAREK"}, {"id": "9501142003", "district_id": "950114", "name": "HOLIMA"}, {"id": "9501142004", "district_id": "950114", "name": "YELAI"}, {"id": "9501142005", "district_id": "950114", "name": "WELEKAMA"}]
+[
+  {
+    "id": "9501142001",
+    "district_id": "950114",
+    "name": "WALAIK"
+  },
+  {
+    "id": "9501142002",
+    "district_id": "950114",
+    "name": "ELAREK"
+  },
+  {
+    "id": "9501142003",
+    "district_id": "950114",
+    "name": "HOLIMA"
+  },
+  {
+    "id": "9501142004",
+    "district_id": "950114",
+    "name": "YELAI"
+  },
+  {
+    "id": "9501142005",
+    "district_id": "950114",
+    "name": "WELEKAMA"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "6106122001", "district_id": "610612", "name": "SETULANG"}, {"id": "6106122002", "district_id": "610612", "name": "SEPANDAN"}, {"id": "6106122003", "district_id": "610612", "name": "SUNGAI AJUNG"}, {"id": "6106122004", "district_id": "610612", "name": "SUNGAI ABAU"}, {"id": "6106122005", "district_id": "610612", "name": "LABIAN"}, {"id": "6106122006", "district_id": "610612", "name": "MENSIAU"}, {"id": "6106122007", "district_id": "610612", "name": "MELEMBA"}, {"id": "6106122008", "district_id": "610612", "name": "LANJAK DERAS"}, {"id": "6106122009", "district_id": "610612", "name": "SUNGAI SENUNUK"}, {"id": "6106122010", "district_id": "610612", "name": "LABIAN IRA'ANG"}]
+[
+  {
+    "id": "6106122001",
+    "district_id": "610612",
+    "name": "SETULANG"
+  },
+  {
+    "id": "6106122002",
+    "district_id": "610612",
+    "name": "SEPANDAN"
+  },
+  {
+    "id": "6106122003",
+    "district_id": "610612",
+    "name": "SUNGAI AJUNG"
+  },
+  {
+    "id": "6106122004",
+    "district_id": "610612",
+    "name": "SUNGAI ABAU"
+  },
+  {
+    "id": "6106122005",
+    "district_id": "610612",
+    "name": "LABIAN"
+  },
+  {
+    "id": "6106122006",
+    "district_id": "610612",
+    "name": "MENSIAU"
+  },
+  {
+    "id": "6106122007",
+    "district_id": "610612",
+    "name": "MELEMBA"
+  },
+  {
+    "id": "6106122008",
+    "district_id": "610612",
+    "name": "LANJAK DERAS"
+  },
+  {
+    "id": "6106122009",
+    "district_id": "610612",
+    "name": "SUNGAI SENUNUK"
+  },
+  {
+    "id": "6106122010",
+    "district_id": "610612",
+    "name": "LABIAN IRA'ANG"
+  }
+]

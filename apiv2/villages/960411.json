@@ -1,1 +1,47 @@
-[{"id": "9604112001", "district_id": "960411", "name": "SENOPI"}, {"id": "9604112002", "district_id": "960411", "name": "ARAPI"}, {"id": "9604112003", "district_id": "960411", "name": "SRUREM"}, {"id": "9604112004", "district_id": "960411", "name": "SUMO"}, {"id": "9604112005", "district_id": "960411", "name": "IFAT MITU"}, {"id": "9604112006", "district_id": "960411", "name": "POVOKEK ANIA"}, {"id": "9604112007", "district_id": "960411", "name": "THOMAS"}, {"id": "9604112008", "district_id": "960411", "name": "TINTUM ARAW"}, {"id": "9604112009", "district_id": "960411", "name": "HOBIAH"}]
+[
+  {
+    "id": "9604112001",
+    "district_id": "960411",
+    "name": "SENOPI"
+  },
+  {
+    "id": "9604112002",
+    "district_id": "960411",
+    "name": "ARAPI"
+  },
+  {
+    "id": "9604112003",
+    "district_id": "960411",
+    "name": "SRUREM"
+  },
+  {
+    "id": "9604112004",
+    "district_id": "960411",
+    "name": "SUMO"
+  },
+  {
+    "id": "9604112005",
+    "district_id": "960411",
+    "name": "IFAT MITU"
+  },
+  {
+    "id": "9604112006",
+    "district_id": "960411",
+    "name": "POVOKEK ANIA"
+  },
+  {
+    "id": "9604112007",
+    "district_id": "960411",
+    "name": "THOMAS"
+  },
+  {
+    "id": "9604112008",
+    "district_id": "960411",
+    "name": "TINTUM ARAW"
+  },
+  {
+    "id": "9604112009",
+    "district_id": "960411",
+    "name": "HOBIAH"
+  }
+]

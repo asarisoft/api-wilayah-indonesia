@@ -1,1 +1,92 @@
-[{"id": "3527031003", "district_id": "352703", "name": "POLAGAN"}, {"id": "3527031004", "district_id": "352703", "name": "BANYUANYAR"}, {"id": "3527031006", "district_id": "352703", "name": "RONGTENGAH"}, {"id": "3527031007", "district_id": "352703", "name": "KARANG DALAM"}, {"id": "3527031008", "district_id": "352703", "name": "GUNUNG SEKAR"}, {"id": "3527031009", "district_id": "352703", "name": "DALPENANG"}, {"id": "3527032001", "district_id": "352703", "name": "P. MANDANGIN"}, {"id": "3527032002", "district_id": "352703", "name": "AENGSAREH"}, {"id": "3527032005", "district_id": "352703", "name": "GUNUNG MADDAH"}, {"id": "3527032010", "district_id": "352703", "name": "PANGGUNG"}, {"id": "3527032011", "district_id": "352703", "name": "TAMAN SAREH"}, {"id": "3527032012", "district_id": "352703", "name": "PAKALONGAN"}, {"id": "3527032013", "district_id": "352703", "name": "TANGGUMONG"}, {"id": "3527032014", "district_id": "352703", "name": "KAMUNING"}, {"id": "3527032015", "district_id": "352703", "name": "BANYUMAS"}, {"id": "3527032016", "district_id": "352703", "name": "PANGELEN"}, {"id": "3527032017", "district_id": "352703", "name": "PASEYAN"}, {"id": "3527032018", "district_id": "352703", "name": "BARUH"}]
+[
+  {
+    "id": "3527031003",
+    "district_id": "352703",
+    "name": "POLAGAN"
+  },
+  {
+    "id": "3527031004",
+    "district_id": "352703",
+    "name": "BANYUANYAR"
+  },
+  {
+    "id": "3527031006",
+    "district_id": "352703",
+    "name": "RONGTENGAH"
+  },
+  {
+    "id": "3527031007",
+    "district_id": "352703",
+    "name": "KARANG DALAM"
+  },
+  {
+    "id": "3527031008",
+    "district_id": "352703",
+    "name": "GUNUNG SEKAR"
+  },
+  {
+    "id": "3527031009",
+    "district_id": "352703",
+    "name": "DALPENANG"
+  },
+  {
+    "id": "3527032001",
+    "district_id": "352703",
+    "name": "P. MANDANGIN"
+  },
+  {
+    "id": "3527032002",
+    "district_id": "352703",
+    "name": "AENGSAREH"
+  },
+  {
+    "id": "3527032005",
+    "district_id": "352703",
+    "name": "GUNUNG MADDAH"
+  },
+  {
+    "id": "3527032010",
+    "district_id": "352703",
+    "name": "PANGGUNG"
+  },
+  {
+    "id": "3527032011",
+    "district_id": "352703",
+    "name": "TAMAN SAREH"
+  },
+  {
+    "id": "3527032012",
+    "district_id": "352703",
+    "name": "PAKALONGAN"
+  },
+  {
+    "id": "3527032013",
+    "district_id": "352703",
+    "name": "TANGGUMONG"
+  },
+  {
+    "id": "3527032014",
+    "district_id": "352703",
+    "name": "KAMUNING"
+  },
+  {
+    "id": "3527032015",
+    "district_id": "352703",
+    "name": "BANYUMAS"
+  },
+  {
+    "id": "3527032016",
+    "district_id": "352703",
+    "name": "PANGELEN"
+  },
+  {
+    "id": "3527032017",
+    "district_id": "352703",
+    "name": "PASEYAN"
+  },
+  {
+    "id": "3527032018",
+    "district_id": "352703",
+    "name": "BARUH"
+  }
+]

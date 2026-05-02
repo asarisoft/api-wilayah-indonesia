@@ -1,1 +1,52 @@
-[{"id": "1218152001", "district_id": "121815", "name": "PON"}, {"id": "1218152002", "district_id": "121815", "name": "SEI BAMBAN"}, {"id": "1218152003", "district_id": "121815", "name": "BAKARAN BATU"}, {"id": "1218152004", "district_id": "121815", "name": "GEMPOLAN"}, {"id": "1218152005", "district_id": "121815", "name": "RAMPAH ESTATE"}, {"id": "1218152006", "district_id": "121815", "name": "SUKA DAMAI"}, {"id": "1218152007", "district_id": "121815", "name": "SEI BAMBAN ESTATE"}, {"id": "1218152008", "district_id": "121815", "name": "SEI BELUTU"}, {"id": "1218152009", "district_id": "121815", "name": "SEI BULUH"}, {"id": "1218152010", "district_id": "121815", "name": "PENGGALANGAN"}]
+[
+  {
+    "id": "1218152001",
+    "district_id": "121815",
+    "name": "PON"
+  },
+  {
+    "id": "1218152002",
+    "district_id": "121815",
+    "name": "SEI BAMBAN"
+  },
+  {
+    "id": "1218152003",
+    "district_id": "121815",
+    "name": "BAKARAN BATU"
+  },
+  {
+    "id": "1218152004",
+    "district_id": "121815",
+    "name": "GEMPOLAN"
+  },
+  {
+    "id": "1218152005",
+    "district_id": "121815",
+    "name": "RAMPAH ESTATE"
+  },
+  {
+    "id": "1218152006",
+    "district_id": "121815",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "1218152007",
+    "district_id": "121815",
+    "name": "SEI BAMBAN ESTATE"
+  },
+  {
+    "id": "1218152008",
+    "district_id": "121815",
+    "name": "SEI BELUTU"
+  },
+  {
+    "id": "1218152009",
+    "district_id": "121815",
+    "name": "SEI BULUH"
+  },
+  {
+    "id": "1218152010",
+    "district_id": "121815",
+    "name": "PENGGALANGAN"
+  }
+]

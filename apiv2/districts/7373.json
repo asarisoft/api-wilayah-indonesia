@@ -1,1 +1,47 @@
-[{"id": "737301", "regency_id": "7373", "name": "WARA"}, {"id": "737302", "regency_id": "7373", "name": "WARA UTARA"}, {"id": "737303", "regency_id": "7373", "name": "WARA SELATAN"}, {"id": "737304", "regency_id": "7373", "name": "TELLUWANUA"}, {"id": "737305", "regency_id": "7373", "name": "WARA TIMUR"}, {"id": "737306", "regency_id": "7373", "name": "WARA BARAT"}, {"id": "737307", "regency_id": "7373", "name": "SENDANA"}, {"id": "737308", "regency_id": "7373", "name": "MUNGKAJANG"}, {"id": "737309", "regency_id": "7373", "name": "BARA"}]
+[
+  {
+    "id": "737301",
+    "regency_id": "7373",
+    "name": "WARA"
+  },
+  {
+    "id": "737302",
+    "regency_id": "7373",
+    "name": "WARA UTARA"
+  },
+  {
+    "id": "737303",
+    "regency_id": "7373",
+    "name": "WARA SELATAN"
+  },
+  {
+    "id": "737304",
+    "regency_id": "7373",
+    "name": "TELLUWANUA"
+  },
+  {
+    "id": "737305",
+    "regency_id": "7373",
+    "name": "WARA TIMUR"
+  },
+  {
+    "id": "737306",
+    "regency_id": "7373",
+    "name": "WARA BARAT"
+  },
+  {
+    "id": "737307",
+    "regency_id": "7373",
+    "name": "SENDANA"
+  },
+  {
+    "id": "737308",
+    "regency_id": "7373",
+    "name": "MUNGKAJANG"
+  },
+  {
+    "id": "737309",
+    "regency_id": "7373",
+    "name": "BARA"
+  }
+]

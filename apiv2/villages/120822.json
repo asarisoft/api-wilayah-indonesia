@@ -1,1 +1,52 @@
-[{"id": "1208222001", "district_id": "120822", "name": "NAGA JAYA I"}, {"id": "1208222002", "district_id": "120822", "name": "BAH GUNUNG"}, {"id": "1208222003", "district_id": "120822", "name": "BANDAR TONGAH"}, {"id": "1208222004", "district_id": "120822", "name": "DOLOG PARMONANGAN"}, {"id": "1208222005", "district_id": "120822", "name": "LARAS"}, {"id": "1208222006", "district_id": "120822", "name": "NAGA JAYA II"}, {"id": "1208222007", "district_id": "120822", "name": "TANJUNG HATARAN"}, {"id": "1208222008", "district_id": "120822", "name": "BANDAR BETSY I"}, {"id": "1208222009", "district_id": "120822", "name": "BANDAR BETSY II"}, {"id": "1208222010", "district_id": "120822", "name": "NAGA SOPPA"}]
+[
+  {
+    "id": "1208222001",
+    "district_id": "120822",
+    "name": "NAGA JAYA I"
+  },
+  {
+    "id": "1208222002",
+    "district_id": "120822",
+    "name": "BAH GUNUNG"
+  },
+  {
+    "id": "1208222003",
+    "district_id": "120822",
+    "name": "BANDAR TONGAH"
+  },
+  {
+    "id": "1208222004",
+    "district_id": "120822",
+    "name": "DOLOG PARMONANGAN"
+  },
+  {
+    "id": "1208222005",
+    "district_id": "120822",
+    "name": "LARAS"
+  },
+  {
+    "id": "1208222006",
+    "district_id": "120822",
+    "name": "NAGA JAYA II"
+  },
+  {
+    "id": "1208222007",
+    "district_id": "120822",
+    "name": "TANJUNG HATARAN"
+  },
+  {
+    "id": "1208222008",
+    "district_id": "120822",
+    "name": "BANDAR BETSY I"
+  },
+  {
+    "id": "1208222009",
+    "district_id": "120822",
+    "name": "BANDAR BETSY II"
+  },
+  {
+    "id": "1208222010",
+    "district_id": "120822",
+    "name": "NAGA SOPPA"
+  }
+]

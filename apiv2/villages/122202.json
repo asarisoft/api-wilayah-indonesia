@@ -1,1 +1,77 @@
-[{"id": "1222022001", "district_id": "122202", "name": "PERK. PERLABIAN"}, {"id": "1222022002", "district_id": "122202", "name": "PERK. TELUK PANJI"}, {"id": "1222022003", "district_id": "122202", "name": "PERK. TOLAN I/II"}, {"id": "1222022004", "district_id": "122202", "name": "PERK. BATANG SAPONGGOL"}, {"id": "1222022005", "district_id": "122202", "name": "PERK. TOLAN"}, {"id": "1222022006", "district_id": "122202", "name": "AIR MERAH"}, {"id": "1222022007", "district_id": "122202", "name": "TELUK PANJI"}, {"id": "1222022008", "district_id": "122202", "name": "TANJUNG MEDAN"}, {"id": "1222022009", "district_id": "122202", "name": "KAMPUNG PERLABIAN"}, {"id": "1222022010", "district_id": "122202", "name": "TANJUNG SELAMAT"}, {"id": "1222022011", "district_id": "122202", "name": "TANJUNG MULIA"}, {"id": "1222022012", "district_id": "122202", "name": "TELUK PANJI I"}, {"id": "1222022013", "district_id": "122202", "name": "TELUK PANJI II"}, {"id": "1222022014", "district_id": "122202", "name": "TELUK PANJI III"}, {"id": "1222022015", "district_id": "122202", "name": "TELUK PANJI IV"}]
+[
+  {
+    "id": "1222022001",
+    "district_id": "122202",
+    "name": "PERK. PERLABIAN"
+  },
+  {
+    "id": "1222022002",
+    "district_id": "122202",
+    "name": "PERK. TELUK PANJI"
+  },
+  {
+    "id": "1222022003",
+    "district_id": "122202",
+    "name": "PERK. TOLAN I/II"
+  },
+  {
+    "id": "1222022004",
+    "district_id": "122202",
+    "name": "PERK. BATANG SAPONGGOL"
+  },
+  {
+    "id": "1222022005",
+    "district_id": "122202",
+    "name": "PERK. TOLAN"
+  },
+  {
+    "id": "1222022006",
+    "district_id": "122202",
+    "name": "AIR MERAH"
+  },
+  {
+    "id": "1222022007",
+    "district_id": "122202",
+    "name": "TELUK PANJI"
+  },
+  {
+    "id": "1222022008",
+    "district_id": "122202",
+    "name": "TANJUNG MEDAN"
+  },
+  {
+    "id": "1222022009",
+    "district_id": "122202",
+    "name": "KAMPUNG PERLABIAN"
+  },
+  {
+    "id": "1222022010",
+    "district_id": "122202",
+    "name": "TANJUNG SELAMAT"
+  },
+  {
+    "id": "1222022011",
+    "district_id": "122202",
+    "name": "TANJUNG MULIA"
+  },
+  {
+    "id": "1222022012",
+    "district_id": "122202",
+    "name": "TELUK PANJI I"
+  },
+  {
+    "id": "1222022013",
+    "district_id": "122202",
+    "name": "TELUK PANJI II"
+  },
+  {
+    "id": "1222022014",
+    "district_id": "122202",
+    "name": "TELUK PANJI III"
+  },
+  {
+    "id": "1222022015",
+    "district_id": "122202",
+    "name": "TELUK PANJI IV"
+  }
+]

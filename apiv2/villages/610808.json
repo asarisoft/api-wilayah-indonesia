@@ -1,1 +1,32 @@
-[{"id": "6108082001", "district_id": "610808", "name": "MERANTI"}, {"id": "6108082002", "district_id": "610808", "name": "KELAMPAI SETOLO"}, {"id": "6108082003", "district_id": "610808", "name": "MORO BETUNG"}, {"id": "6108082004", "district_id": "610808", "name": "SELANGE"}, {"id": "6108082005", "district_id": "610808", "name": "AMPADI"}, {"id": "6108082006", "district_id": "610808", "name": "TAHU"}]
+[
+  {
+    "id": "6108082001",
+    "district_id": "610808",
+    "name": "MERANTI"
+  },
+  {
+    "id": "6108082002",
+    "district_id": "610808",
+    "name": "KELAMPAI SETOLO"
+  },
+  {
+    "id": "6108082003",
+    "district_id": "610808",
+    "name": "MORO BETUNG"
+  },
+  {
+    "id": "6108082004",
+    "district_id": "610808",
+    "name": "SELANGE"
+  },
+  {
+    "id": "6108082005",
+    "district_id": "610808",
+    "name": "AMPADI"
+  },
+  {
+    "id": "6108082006",
+    "district_id": "610808",
+    "name": "TAHU"
+  }
+]

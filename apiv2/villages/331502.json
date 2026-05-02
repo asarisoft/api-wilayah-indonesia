@@ -1,1 +1,97 @@
-[{"id": "3315022001", "district_id": "331502", "name": "NAMPU"}, {"id": "3315022002", "district_id": "331502", "name": "KARANGSONO"}, {"id": "3315022003", "district_id": "331502", "name": "JETIS"}, {"id": "3315022004", "district_id": "331502", "name": "PARAKAN"}, {"id": "3315022005", "district_id": "331502", "name": "TELAWAH"}, {"id": "3315022006", "district_id": "331502", "name": "CEKEL"}, {"id": "3315022007", "district_id": "331502", "name": "KARANGANYAR"}, {"id": "3315022008", "district_id": "331502", "name": "SENDANGHARJO"}, {"id": "3315022009", "district_id": "331502", "name": "MANGIN"}, {"id": "3315022010", "district_id": "331502", "name": "SUMBERJOSARI"}, {"id": "3315022011", "district_id": "331502", "name": "KETRO"}, {"id": "3315022012", "district_id": "331502", "name": "GUNUNGTUMPENG"}, {"id": "3315022013", "district_id": "331502", "name": "TEMUREJO"}, {"id": "3315022014", "district_id": "331502", "name": "PUTATNGANTEN"}, {"id": "3315022015", "district_id": "331502", "name": "TERMAS"}, {"id": "3315022016", "district_id": "331502", "name": "DEMPEL"}, {"id": "3315022017", "district_id": "331502", "name": "RAWOH"}, {"id": "3315022018", "district_id": "331502", "name": "PANGKALAN"}, {"id": "3315022019", "district_id": "331502", "name": "MOJOAGUNG"}]
+[
+  {
+    "id": "3315022001",
+    "district_id": "331502",
+    "name": "NAMPU"
+  },
+  {
+    "id": "3315022002",
+    "district_id": "331502",
+    "name": "KARANGSONO"
+  },
+  {
+    "id": "3315022003",
+    "district_id": "331502",
+    "name": "JETIS"
+  },
+  {
+    "id": "3315022004",
+    "district_id": "331502",
+    "name": "PARAKAN"
+  },
+  {
+    "id": "3315022005",
+    "district_id": "331502",
+    "name": "TELAWAH"
+  },
+  {
+    "id": "3315022006",
+    "district_id": "331502",
+    "name": "CEKEL"
+  },
+  {
+    "id": "3315022007",
+    "district_id": "331502",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3315022008",
+    "district_id": "331502",
+    "name": "SENDANGHARJO"
+  },
+  {
+    "id": "3315022009",
+    "district_id": "331502",
+    "name": "MANGIN"
+  },
+  {
+    "id": "3315022010",
+    "district_id": "331502",
+    "name": "SUMBERJOSARI"
+  },
+  {
+    "id": "3315022011",
+    "district_id": "331502",
+    "name": "KETRO"
+  },
+  {
+    "id": "3315022012",
+    "district_id": "331502",
+    "name": "GUNUNGTUMPENG"
+  },
+  {
+    "id": "3315022013",
+    "district_id": "331502",
+    "name": "TEMUREJO"
+  },
+  {
+    "id": "3315022014",
+    "district_id": "331502",
+    "name": "PUTATNGANTEN"
+  },
+  {
+    "id": "3315022015",
+    "district_id": "331502",
+    "name": "TERMAS"
+  },
+  {
+    "id": "3315022016",
+    "district_id": "331502",
+    "name": "DEMPEL"
+  },
+  {
+    "id": "3315022017",
+    "district_id": "331502",
+    "name": "RAWOH"
+  },
+  {
+    "id": "3315022018",
+    "district_id": "331502",
+    "name": "PANGKALAN"
+  },
+  {
+    "id": "3315022019",
+    "district_id": "331502",
+    "name": "MOJOAGUNG"
+  }
+]

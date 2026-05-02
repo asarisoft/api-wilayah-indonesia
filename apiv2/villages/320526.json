@@ -1,1 +1,32 @@
-[{"id": "3205262001", "district_id": "320526", "name": "PEUNDEUY"}, {"id": "3205262002", "district_id": "320526", "name": "TOBLONG"}, {"id": "3205262003", "district_id": "320526", "name": "SARIBAKTI"}, {"id": "3205262004", "district_id": "320526", "name": "PANGRUMASAN"}, {"id": "3205262005", "district_id": "320526", "name": "SUKANAGARA"}, {"id": "3205262006", "district_id": "320526", "name": "PURWAJAYA"}]
+[
+  {
+    "id": "3205262001",
+    "district_id": "320526",
+    "name": "PEUNDEUY"
+  },
+  {
+    "id": "3205262002",
+    "district_id": "320526",
+    "name": "TOBLONG"
+  },
+  {
+    "id": "3205262003",
+    "district_id": "320526",
+    "name": "SARIBAKTI"
+  },
+  {
+    "id": "3205262004",
+    "district_id": "320526",
+    "name": "PANGRUMASAN"
+  },
+  {
+    "id": "3205262005",
+    "district_id": "320526",
+    "name": "SUKANAGARA"
+  },
+  {
+    "id": "3205262006",
+    "district_id": "320526",
+    "name": "PURWAJAYA"
+  }
+]

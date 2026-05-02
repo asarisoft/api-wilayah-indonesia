@@ -1,1 +1,67 @@
-[{"id": "7208212001", "district_id": "720821", "name": "BOLANO"}, {"id": "7208212002", "district_id": "720821", "name": "BOLANO TENGAH"}, {"id": "7208212003", "district_id": "720821", "name": "BOLANO BARAT"}, {"id": "7208212004", "district_id": "720821", "name": "BOLANO UTARA"}, {"id": "7208212005", "district_id": "720821", "name": "BAJO"}, {"id": "7208212006", "district_id": "720821", "name": "SRITABAANG"}, {"id": "7208212007", "district_id": "720821", "name": "BERINGIN JAYA"}, {"id": "7208212008", "district_id": "720821", "name": "WANAMUKTI"}, {"id": "7208212009", "district_id": "720821", "name": "WANAMUKTI UTARA"}, {"id": "7208212010", "district_id": "720821", "name": "LEMBAH BOMBAN"}, {"id": "7208212011", "district_id": "720821", "name": "SIDOMUKTI"}, {"id": "7208212012", "district_id": "720821", "name": "WANAMUKTI BARAT"}, {"id": "7208212013", "district_id": "720821", "name": "SAMA BAHARI"}]
+[
+  {
+    "id": "7208212001",
+    "district_id": "720821",
+    "name": "BOLANO"
+  },
+  {
+    "id": "7208212002",
+    "district_id": "720821",
+    "name": "BOLANO TENGAH"
+  },
+  {
+    "id": "7208212003",
+    "district_id": "720821",
+    "name": "BOLANO BARAT"
+  },
+  {
+    "id": "7208212004",
+    "district_id": "720821",
+    "name": "BOLANO UTARA"
+  },
+  {
+    "id": "7208212005",
+    "district_id": "720821",
+    "name": "BAJO"
+  },
+  {
+    "id": "7208212006",
+    "district_id": "720821",
+    "name": "SRITABAANG"
+  },
+  {
+    "id": "7208212007",
+    "district_id": "720821",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "7208212008",
+    "district_id": "720821",
+    "name": "WANAMUKTI"
+  },
+  {
+    "id": "7208212009",
+    "district_id": "720821",
+    "name": "WANAMUKTI UTARA"
+  },
+  {
+    "id": "7208212010",
+    "district_id": "720821",
+    "name": "LEMBAH BOMBAN"
+  },
+  {
+    "id": "7208212011",
+    "district_id": "720821",
+    "name": "SIDOMUKTI"
+  },
+  {
+    "id": "7208212012",
+    "district_id": "720821",
+    "name": "WANAMUKTI BARAT"
+  },
+  {
+    "id": "7208212013",
+    "district_id": "720821",
+    "name": "SAMA BAHARI"
+  }
+]

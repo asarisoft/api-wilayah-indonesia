@@ -1,1 +1,67 @@
-[{"id": "9504072001", "district_id": "950407", "name": "WINA"}, {"id": "9504072002", "district_id": "950407", "name": "GUALO"}, {"id": "9504072003", "district_id": "950407", "name": "BIMBOGUL"}, {"id": "9504072004", "district_id": "950407", "name": "YUGUMENGGA"}, {"id": "9504072005", "district_id": "950407", "name": "WARIRU"}, {"id": "9504072006", "district_id": "950407", "name": "YUGUBUK"}, {"id": "9504072007", "district_id": "950407", "name": "AKIMA"}, {"id": "9504072008", "district_id": "950407", "name": "MALELA"}, {"id": "9504072009", "district_id": "950407", "name": "NAKWIL"}, {"id": "9504072010", "district_id": "950407", "name": "FINAI"}, {"id": "9504072011", "district_id": "950407", "name": "HOLANDIA"}, {"id": "9504072012", "district_id": "950407", "name": "TAWI"}, {"id": "9504072013", "district_id": "950407", "name": "YOGWEME"}]
+[
+  {
+    "id": "9504072001",
+    "district_id": "950407",
+    "name": "WINA"
+  },
+  {
+    "id": "9504072002",
+    "district_id": "950407",
+    "name": "GUALO"
+  },
+  {
+    "id": "9504072003",
+    "district_id": "950407",
+    "name": "BIMBOGUL"
+  },
+  {
+    "id": "9504072004",
+    "district_id": "950407",
+    "name": "YUGUMENGGA"
+  },
+  {
+    "id": "9504072005",
+    "district_id": "950407",
+    "name": "WARIRU"
+  },
+  {
+    "id": "9504072006",
+    "district_id": "950407",
+    "name": "YUGUBUK"
+  },
+  {
+    "id": "9504072007",
+    "district_id": "950407",
+    "name": "AKIMA"
+  },
+  {
+    "id": "9504072008",
+    "district_id": "950407",
+    "name": "MALELA"
+  },
+  {
+    "id": "9504072009",
+    "district_id": "950407",
+    "name": "NAKWIL"
+  },
+  {
+    "id": "9504072010",
+    "district_id": "950407",
+    "name": "FINAI"
+  },
+  {
+    "id": "9504072011",
+    "district_id": "950407",
+    "name": "HOLANDIA"
+  },
+  {
+    "id": "9504072012",
+    "district_id": "950407",
+    "name": "TAWI"
+  },
+  {
+    "id": "9504072013",
+    "district_id": "950407",
+    "name": "YOGWEME"
+  }
+]

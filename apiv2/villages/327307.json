@@ -1,1 +1,27 @@
-[{"id": "3273071001", "district_id": "327307", "name": "PASTEUR"}, {"id": "3273071002", "district_id": "327307", "name": "CIPEDES"}, {"id": "3273071003", "district_id": "327307", "name": "SUKAWARNA"}, {"id": "3273071004", "district_id": "327307", "name": "SUKAGALIH"}, {"id": "3273071005", "district_id": "327307", "name": "SUKABUNGAH"}]
+[
+  {
+    "id": "3273071001",
+    "district_id": "327307",
+    "name": "PASTEUR"
+  },
+  {
+    "id": "3273071002",
+    "district_id": "327307",
+    "name": "CIPEDES"
+  },
+  {
+    "id": "3273071003",
+    "district_id": "327307",
+    "name": "SUKAWARNA"
+  },
+  {
+    "id": "3273071004",
+    "district_id": "327307",
+    "name": "SUKAGALIH"
+  },
+  {
+    "id": "3273071005",
+    "district_id": "327307",
+    "name": "SUKABUNGAH"
+  }
+]

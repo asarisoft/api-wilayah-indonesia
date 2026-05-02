@@ -1,1 +1,182 @@
-[{"id": "1213081032", "district_id": "121308", "name": "TAMIANG"}, {"id": "1213081036", "district_id": "121308", "name": "PASAR KOTANOPAN"}, {"id": "1213082001", "district_id": "121308", "name": "BATAHAN"}, {"id": "1213082002", "district_id": "121308", "name": "BOTUNG"}, {"id": "1213082003", "district_id": "121308", "name": "GADING BAIN"}, {"id": "1213082004", "district_id": "121308", "name": "GUNUNG TUA MS"}, {"id": "1213082005", "district_id": "121308", "name": "GUNUNG TUA SM"}, {"id": "1213082006", "district_id": "121308", "name": "HUTAPULI"}, {"id": "1213082007", "district_id": "121308", "name": "HUTA PADANG MS"}, {"id": "1213082008", "district_id": "121308", "name": "HUTARIMBARU SM"}, {"id": "1213082009", "district_id": "121308", "name": "HUTA BARINGIN TB"}, {"id": "1213082010", "district_id": "121308", "name": "HUTA PUNGKUT JAE"}, {"id": "1213082011", "district_id": "121308", "name": "HUTA PUNGKUT TONGA"}, {"id": "1213082012", "district_id": "121308", "name": "HUTA PUNGKUT JULU"}, {"id": "1213082013", "district_id": "121308", "name": "HUTA DANGKA"}, {"id": "1213082014", "district_id": "121308", "name": "MUARA POTAN"}, {"id": "1213082015", "district_id": "121308", "name": "MUARA SIAMBAK"}, {"id": "1213082016", "district_id": "121308", "name": "MANAMBIN"}, {"id": "1213082017", "district_id": "121308", "name": "MUARA PUNGKUT"}, {"id": "1213082018", "district_id": "121308", "name": "MUARA BOTUNG"}, {"id": "1213082019", "district_id": "121308", "name": "PAGAR GUNUNG"}, {"id": "1213082020", "district_id": "121308", "name": "PADANG BULAN"}, {"id": "1213082021", "district_id": "121308", "name": "PATIALO"}, {"id": "1213082022", "district_id": "121308", "name": "SABA DOLOK"}, {"id": "1213082023", "district_id": "121308", "name": "SINGENGU JAE"}, {"id": "1213082024", "district_id": "121308", "name": "SINGENGU JULU"}, {"id": "1213082025", "district_id": "121308", "name": "SAYUR MAINCAT"}, {"id": "1213082026", "district_id": "121308", "name": "SIMPANG TOLANG JAE"}, {"id": "1213082027", "district_id": "121308", "name": "SIMPANG TOLANG JULU"}, {"id": "1213082028", "district_id": "121308", "name": "SIBIO BIO"}, {"id": "1213082029", "district_id": "121308", "name": "SOPO SORIK"}, {"id": "1213082030", "district_id": "121308", "name": "SIMANDOLAM"}, {"id": "1213082031", "district_id": "121308", "name": "TOMBANG BUSTAK"}, {"id": "1213082033", "district_id": "121308", "name": "TOBANG"}, {"id": "1213082034", "district_id": "121308", "name": "UJUNG MARISI"}, {"id": "1213082035", "district_id": "121308", "name": "USOR TOLANG"}]
+[
+  {
+    "id": "1213081032",
+    "district_id": "121308",
+    "name": "TAMIANG"
+  },
+  {
+    "id": "1213081036",
+    "district_id": "121308",
+    "name": "PASAR KOTANOPAN"
+  },
+  {
+    "id": "1213082001",
+    "district_id": "121308",
+    "name": "BATAHAN"
+  },
+  {
+    "id": "1213082002",
+    "district_id": "121308",
+    "name": "BOTUNG"
+  },
+  {
+    "id": "1213082003",
+    "district_id": "121308",
+    "name": "GADING BAIN"
+  },
+  {
+    "id": "1213082004",
+    "district_id": "121308",
+    "name": "GUNUNG TUA MS"
+  },
+  {
+    "id": "1213082005",
+    "district_id": "121308",
+    "name": "GUNUNG TUA SM"
+  },
+  {
+    "id": "1213082006",
+    "district_id": "121308",
+    "name": "HUTAPULI"
+  },
+  {
+    "id": "1213082007",
+    "district_id": "121308",
+    "name": "HUTA PADANG MS"
+  },
+  {
+    "id": "1213082008",
+    "district_id": "121308",
+    "name": "HUTARIMBARU SM"
+  },
+  {
+    "id": "1213082009",
+    "district_id": "121308",
+    "name": "HUTA BARINGIN TB"
+  },
+  {
+    "id": "1213082010",
+    "district_id": "121308",
+    "name": "HUTA PUNGKUT JAE"
+  },
+  {
+    "id": "1213082011",
+    "district_id": "121308",
+    "name": "HUTA PUNGKUT TONGA"
+  },
+  {
+    "id": "1213082012",
+    "district_id": "121308",
+    "name": "HUTA PUNGKUT JULU"
+  },
+  {
+    "id": "1213082013",
+    "district_id": "121308",
+    "name": "HUTA DANGKA"
+  },
+  {
+    "id": "1213082014",
+    "district_id": "121308",
+    "name": "MUARA POTAN"
+  },
+  {
+    "id": "1213082015",
+    "district_id": "121308",
+    "name": "MUARA SIAMBAK"
+  },
+  {
+    "id": "1213082016",
+    "district_id": "121308",
+    "name": "MANAMBIN"
+  },
+  {
+    "id": "1213082017",
+    "district_id": "121308",
+    "name": "MUARA PUNGKUT"
+  },
+  {
+    "id": "1213082018",
+    "district_id": "121308",
+    "name": "MUARA BOTUNG"
+  },
+  {
+    "id": "1213082019",
+    "district_id": "121308",
+    "name": "PAGAR GUNUNG"
+  },
+  {
+    "id": "1213082020",
+    "district_id": "121308",
+    "name": "PADANG BULAN"
+  },
+  {
+    "id": "1213082021",
+    "district_id": "121308",
+    "name": "PATIALO"
+  },
+  {
+    "id": "1213082022",
+    "district_id": "121308",
+    "name": "SABA DOLOK"
+  },
+  {
+    "id": "1213082023",
+    "district_id": "121308",
+    "name": "SINGENGU JAE"
+  },
+  {
+    "id": "1213082024",
+    "district_id": "121308",
+    "name": "SINGENGU JULU"
+  },
+  {
+    "id": "1213082025",
+    "district_id": "121308",
+    "name": "SAYUR MAINCAT"
+  },
+  {
+    "id": "1213082026",
+    "district_id": "121308",
+    "name": "SIMPANG TOLANG JAE"
+  },
+  {
+    "id": "1213082027",
+    "district_id": "121308",
+    "name": "SIMPANG TOLANG JULU"
+  },
+  {
+    "id": "1213082028",
+    "district_id": "121308",
+    "name": "SIBIO BIO"
+  },
+  {
+    "id": "1213082029",
+    "district_id": "121308",
+    "name": "SOPO SORIK"
+  },
+  {
+    "id": "1213082030",
+    "district_id": "121308",
+    "name": "SIMANDOLAM"
+  },
+  {
+    "id": "1213082031",
+    "district_id": "121308",
+    "name": "TOMBANG BUSTAK"
+  },
+  {
+    "id": "1213082033",
+    "district_id": "121308",
+    "name": "TOBANG"
+  },
+  {
+    "id": "1213082034",
+    "district_id": "121308",
+    "name": "UJUNG MARISI"
+  },
+  {
+    "id": "1213082035",
+    "district_id": "121308",
+    "name": "USOR TOLANG"
+  }
+]

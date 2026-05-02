@@ -1,1 +1,57 @@
-[{"id": "3320052001", "district_id": "332005", "name": "GENENG"}, {"id": "3320052002", "district_id": "332005", "name": "RAGUKLAMPITAN"}, {"id": "3320052003", "district_id": "332005", "name": "NGASEM"}, {"id": "3320052004", "district_id": "332005", "name": "BAWU"}, {"id": "3320052005", "district_id": "332005", "name": "MINDAHAN"}, {"id": "3320052006", "district_id": "332005", "name": "SOMOSARI"}, {"id": "3320052007", "district_id": "332005", "name": "BATEALIT"}, {"id": "3320052008", "district_id": "332005", "name": "BRINGIN"}, {"id": "3320052009", "district_id": "332005", "name": "BANTRUNG"}, {"id": "3320052010", "district_id": "332005", "name": "PEKALONGAN"}, {"id": "3320052011", "district_id": "332005", "name": "MINDAHAN KIDUL"}]
+[
+  {
+    "id": "3320052001",
+    "district_id": "332005",
+    "name": "GENENG"
+  },
+  {
+    "id": "3320052002",
+    "district_id": "332005",
+    "name": "RAGUKLAMPITAN"
+  },
+  {
+    "id": "3320052003",
+    "district_id": "332005",
+    "name": "NGASEM"
+  },
+  {
+    "id": "3320052004",
+    "district_id": "332005",
+    "name": "BAWU"
+  },
+  {
+    "id": "3320052005",
+    "district_id": "332005",
+    "name": "MINDAHAN"
+  },
+  {
+    "id": "3320052006",
+    "district_id": "332005",
+    "name": "SOMOSARI"
+  },
+  {
+    "id": "3320052007",
+    "district_id": "332005",
+    "name": "BATEALIT"
+  },
+  {
+    "id": "3320052008",
+    "district_id": "332005",
+    "name": "BRINGIN"
+  },
+  {
+    "id": "3320052009",
+    "district_id": "332005",
+    "name": "BANTRUNG"
+  },
+  {
+    "id": "3320052010",
+    "district_id": "332005",
+    "name": "PEKALONGAN"
+  },
+  {
+    "id": "3320052011",
+    "district_id": "332005",
+    "name": "MINDAHAN KIDUL"
+  }
+]

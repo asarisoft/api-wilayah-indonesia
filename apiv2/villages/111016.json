@@ -1,1 +1,22 @@
-[{"id": "1110162001", "district_id": "111016", "name": "HALOBAN"}, {"id": "1110162002", "district_id": "111016", "name": "ASANTOLA"}, {"id": "1110162003", "district_id": "111016", "name": "UJUNG SIALIT"}, {"id": "1110162004", "district_id": "111016", "name": "SUKA MAKMUR"}]
+[
+  {
+    "id": "1110162001",
+    "district_id": "111016",
+    "name": "HALOBAN"
+  },
+  {
+    "id": "1110162002",
+    "district_id": "111016",
+    "name": "ASANTOLA"
+  },
+  {
+    "id": "1110162003",
+    "district_id": "111016",
+    "name": "UJUNG SIALIT"
+  },
+  {
+    "id": "1110162004",
+    "district_id": "111016",
+    "name": "SUKA MAKMUR"
+  }
+]

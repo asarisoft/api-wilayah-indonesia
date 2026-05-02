@@ -1,1 +1,92 @@
-[{"id": "3310152001", "district_id": "331015", "name": "SIDOWARNO"}, {"id": "3310152002", "district_id": "331015", "name": "BENER"}, {"id": "3310152003", "district_id": "331015", "name": "GUNTING"}, {"id": "3310152004", "district_id": "331015", "name": "KINGKANG"}, {"id": "3310152005", "district_id": "331015", "name": "JELOBO"}, {"id": "3310152006", "district_id": "331015", "name": "LUMBUNGKEREP"}, {"id": "3310152007", "district_id": "331015", "name": "NGREDEN"}, {"id": "3310152008", "district_id": "331015", "name": "BULAN"}, {"id": "3310152009", "district_id": "331015", "name": "BOTO"}, {"id": "3310152010", "district_id": "331015", "name": "WADUNGGETAS"}, {"id": "3310152011", "district_id": "331015", "name": "TEGALGONDO"}, {"id": "3310152012", "district_id": "331015", "name": "BOLALI"}, {"id": "3310152013", "district_id": "331015", "name": "SUKOREJO"}, {"id": "3310152014", "district_id": "331015", "name": "SEKARAN"}, {"id": "3310152015", "district_id": "331015", "name": "BENTANGAN"}, {"id": "3310152016", "district_id": "331015", "name": "DUWET"}, {"id": "3310152017", "district_id": "331015", "name": "PANDANAN"}, {"id": "3310152018", "district_id": "331015", "name": "TELOYO"}]
+[
+  {
+    "id": "3310152001",
+    "district_id": "331015",
+    "name": "SIDOWARNO"
+  },
+  {
+    "id": "3310152002",
+    "district_id": "331015",
+    "name": "BENER"
+  },
+  {
+    "id": "3310152003",
+    "district_id": "331015",
+    "name": "GUNTING"
+  },
+  {
+    "id": "3310152004",
+    "district_id": "331015",
+    "name": "KINGKANG"
+  },
+  {
+    "id": "3310152005",
+    "district_id": "331015",
+    "name": "JELOBO"
+  },
+  {
+    "id": "3310152006",
+    "district_id": "331015",
+    "name": "LUMBUNGKEREP"
+  },
+  {
+    "id": "3310152007",
+    "district_id": "331015",
+    "name": "NGREDEN"
+  },
+  {
+    "id": "3310152008",
+    "district_id": "331015",
+    "name": "BULAN"
+  },
+  {
+    "id": "3310152009",
+    "district_id": "331015",
+    "name": "BOTO"
+  },
+  {
+    "id": "3310152010",
+    "district_id": "331015",
+    "name": "WADUNGGETAS"
+  },
+  {
+    "id": "3310152011",
+    "district_id": "331015",
+    "name": "TEGALGONDO"
+  },
+  {
+    "id": "3310152012",
+    "district_id": "331015",
+    "name": "BOLALI"
+  },
+  {
+    "id": "3310152013",
+    "district_id": "331015",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3310152014",
+    "district_id": "331015",
+    "name": "SEKARAN"
+  },
+  {
+    "id": "3310152015",
+    "district_id": "331015",
+    "name": "BENTANGAN"
+  },
+  {
+    "id": "3310152016",
+    "district_id": "331015",
+    "name": "DUWET"
+  },
+  {
+    "id": "3310152017",
+    "district_id": "331015",
+    "name": "PANDANAN"
+  },
+  {
+    "id": "3310152018",
+    "district_id": "331015",
+    "name": "TELOYO"
+  }
+]

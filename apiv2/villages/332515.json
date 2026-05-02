@@ -1,1 +1,57 @@
-[{"id": "3325152001", "district_id": "332515", "name": "BANYUPUTIH"}, {"id": "3325152002", "district_id": "332515", "name": "KALIBALIK"}, {"id": "3325152003", "district_id": "332515", "name": "SEMBUNG"}, {"id": "3325152004", "district_id": "332515", "name": "KEDAWUNG"}, {"id": "3325152005", "district_id": "332515", "name": "DLIMAS"}, {"id": "3325152006", "district_id": "332515", "name": "LUWUNG"}, {"id": "3325152008", "district_id": "332515", "name": "PENUNDAN"}, {"id": "3325152009", "district_id": "332515", "name": "BANARAN"}, {"id": "3325152010", "district_id": "332515", "name": "TIMBANG"}, {"id": "3325152011", "district_id": "332515", "name": "BULU"}, {"id": "3325152012", "district_id": "332515", "name": "KALANGSONO"}]
+[
+  {
+    "id": "3325152001",
+    "district_id": "332515",
+    "name": "BANYUPUTIH"
+  },
+  {
+    "id": "3325152002",
+    "district_id": "332515",
+    "name": "KALIBALIK"
+  },
+  {
+    "id": "3325152003",
+    "district_id": "332515",
+    "name": "SEMBUNG"
+  },
+  {
+    "id": "3325152004",
+    "district_id": "332515",
+    "name": "KEDAWUNG"
+  },
+  {
+    "id": "3325152005",
+    "district_id": "332515",
+    "name": "DLIMAS"
+  },
+  {
+    "id": "3325152006",
+    "district_id": "332515",
+    "name": "LUWUNG"
+  },
+  {
+    "id": "3325152008",
+    "district_id": "332515",
+    "name": "PENUNDAN"
+  },
+  {
+    "id": "3325152009",
+    "district_id": "332515",
+    "name": "BANARAN"
+  },
+  {
+    "id": "3325152010",
+    "district_id": "332515",
+    "name": "TIMBANG"
+  },
+  {
+    "id": "3325152011",
+    "district_id": "332515",
+    "name": "BULU"
+  },
+  {
+    "id": "3325152012",
+    "district_id": "332515",
+    "name": "KALANGSONO"
+  }
+]

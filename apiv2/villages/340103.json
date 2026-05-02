@@ -1,1 +1,57 @@
-[{"id": "3401032001", "district_id": "340103", "name": "GARONGAN"}, {"id": "3401032002", "district_id": "340103", "name": "PLERET"}, {"id": "3401032003", "district_id": "340103", "name": "BUGEL"}, {"id": "3401032004", "district_id": "340103", "name": "KANOMAN"}, {"id": "3401032005", "district_id": "340103", "name": "DEPOK"}, {"id": "3401032006", "district_id": "340103", "name": "BOJONG"}, {"id": "3401032007", "district_id": "340103", "name": "TAYUBAN"}, {"id": "3401032008", "district_id": "340103", "name": "GOTAKAN"}, {"id": "3401032009", "district_id": "340103", "name": "PANJATAN"}, {"id": "3401032010", "district_id": "340103", "name": "CERME"}, {"id": "3401032011", "district_id": "340103", "name": "KREMBANGAN"}]
+[
+  {
+    "id": "3401032001",
+    "district_id": "340103",
+    "name": "GARONGAN"
+  },
+  {
+    "id": "3401032002",
+    "district_id": "340103",
+    "name": "PLERET"
+  },
+  {
+    "id": "3401032003",
+    "district_id": "340103",
+    "name": "BUGEL"
+  },
+  {
+    "id": "3401032004",
+    "district_id": "340103",
+    "name": "KANOMAN"
+  },
+  {
+    "id": "3401032005",
+    "district_id": "340103",
+    "name": "DEPOK"
+  },
+  {
+    "id": "3401032006",
+    "district_id": "340103",
+    "name": "BOJONG"
+  },
+  {
+    "id": "3401032007",
+    "district_id": "340103",
+    "name": "TAYUBAN"
+  },
+  {
+    "id": "3401032008",
+    "district_id": "340103",
+    "name": "GOTAKAN"
+  },
+  {
+    "id": "3401032009",
+    "district_id": "340103",
+    "name": "PANJATAN"
+  },
+  {
+    "id": "3401032010",
+    "district_id": "340103",
+    "name": "CERME"
+  },
+  {
+    "id": "3401032011",
+    "district_id": "340103",
+    "name": "KREMBANGAN"
+  }
+]

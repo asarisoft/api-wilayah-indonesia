@@ -1,1 +1,52 @@
-[{"id": "3602222001", "district_id": "360222", "name": "CIPARASI"}, {"id": "3602222002", "district_id": "360222", "name": "SOBANG"}, {"id": "3602222003", "district_id": "360222", "name": "SUKAJAYA"}, {"id": "3602222004", "district_id": "360222", "name": "SINDANGLAYA"}, {"id": "3602222005", "district_id": "360222", "name": "SUKAMAJU"}, {"id": "3602222006", "district_id": "360222", "name": "HARIANG"}, {"id": "3602222007", "district_id": "360222", "name": "MAJASARI"}, {"id": "3602222008", "district_id": "360222", "name": "SINAR JAYA"}, {"id": "3602222009", "district_id": "360222", "name": "CIROMPANG"}, {"id": "3602222010", "district_id": "360222", "name": "SUKARESMI"}]
+[
+  {
+    "id": "3602222001",
+    "district_id": "360222",
+    "name": "CIPARASI"
+  },
+  {
+    "id": "3602222002",
+    "district_id": "360222",
+    "name": "SOBANG"
+  },
+  {
+    "id": "3602222003",
+    "district_id": "360222",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3602222004",
+    "district_id": "360222",
+    "name": "SINDANGLAYA"
+  },
+  {
+    "id": "3602222005",
+    "district_id": "360222",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3602222006",
+    "district_id": "360222",
+    "name": "HARIANG"
+  },
+  {
+    "id": "3602222007",
+    "district_id": "360222",
+    "name": "MAJASARI"
+  },
+  {
+    "id": "3602222008",
+    "district_id": "360222",
+    "name": "SINAR JAYA"
+  },
+  {
+    "id": "3602222009",
+    "district_id": "360222",
+    "name": "CIROMPANG"
+  },
+  {
+    "id": "3602222010",
+    "district_id": "360222",
+    "name": "SUKARESMI"
+  }
+]

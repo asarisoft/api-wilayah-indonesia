@@ -1,1 +1,92 @@
-[{"id": "3310042001", "district_id": "331004", "name": "NGERANGAN"}, {"id": "3310042002", "district_id": "331004", "name": "JAMBAKAN"}, {"id": "3310042003", "district_id": "331004", "name": "DUKUH"}, {"id": "3310042004", "district_id": "331004", "name": "JARUM"}, {"id": "3310042005", "district_id": "331004", "name": "NENGAHAN"}, {"id": "3310042006", "district_id": "331004", "name": "BOGEM"}, {"id": "3310042007", "district_id": "331004", "name": "PASEBAN"}, {"id": "3310042008", "district_id": "331004", "name": "KRIKILAN"}, {"id": "3310042009", "district_id": "331004", "name": "BELUK"}, {"id": "3310042010", "district_id": "331004", "name": "BANYURIPAN"}, {"id": "3310042011", "district_id": "331004", "name": "GUNUNGGAJAH"}, {"id": "3310042012", "district_id": "331004", "name": "TEGALREJO"}, {"id": "3310042013", "district_id": "331004", "name": "TALANG"}, {"id": "3310042014", "district_id": "331004", "name": "TAWANGREJO"}, {"id": "3310042015", "district_id": "331004", "name": "KEBON"}, {"id": "3310042016", "district_id": "331004", "name": "JOTANGAN"}, {"id": "3310042017", "district_id": "331004", "name": "KRAKITAN"}, {"id": "3310042018", "district_id": "331004", "name": "WIRO"}]
+[
+  {
+    "id": "3310042001",
+    "district_id": "331004",
+    "name": "NGERANGAN"
+  },
+  {
+    "id": "3310042002",
+    "district_id": "331004",
+    "name": "JAMBAKAN"
+  },
+  {
+    "id": "3310042003",
+    "district_id": "331004",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3310042004",
+    "district_id": "331004",
+    "name": "JARUM"
+  },
+  {
+    "id": "3310042005",
+    "district_id": "331004",
+    "name": "NENGAHAN"
+  },
+  {
+    "id": "3310042006",
+    "district_id": "331004",
+    "name": "BOGEM"
+  },
+  {
+    "id": "3310042007",
+    "district_id": "331004",
+    "name": "PASEBAN"
+  },
+  {
+    "id": "3310042008",
+    "district_id": "331004",
+    "name": "KRIKILAN"
+  },
+  {
+    "id": "3310042009",
+    "district_id": "331004",
+    "name": "BELUK"
+  },
+  {
+    "id": "3310042010",
+    "district_id": "331004",
+    "name": "BANYURIPAN"
+  },
+  {
+    "id": "3310042011",
+    "district_id": "331004",
+    "name": "GUNUNGGAJAH"
+  },
+  {
+    "id": "3310042012",
+    "district_id": "331004",
+    "name": "TEGALREJO"
+  },
+  {
+    "id": "3310042013",
+    "district_id": "331004",
+    "name": "TALANG"
+  },
+  {
+    "id": "3310042014",
+    "district_id": "331004",
+    "name": "TAWANGREJO"
+  },
+  {
+    "id": "3310042015",
+    "district_id": "331004",
+    "name": "KEBON"
+  },
+  {
+    "id": "3310042016",
+    "district_id": "331004",
+    "name": "JOTANGAN"
+  },
+  {
+    "id": "3310042017",
+    "district_id": "331004",
+    "name": "KRAKITAN"
+  },
+  {
+    "id": "3310042018",
+    "district_id": "331004",
+    "name": "WIRO"
+  }
+]

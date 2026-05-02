@@ -1,1 +1,27 @@
-[{"id": "3404112001", "district_id": "340411", "name": "SINDUMARTANI"}, {"id": "3404112002", "district_id": "340411", "name": "BIMOMARTANI"}, {"id": "3404112003", "district_id": "340411", "name": "WIDODOMARTANI"}, {"id": "3404112004", "district_id": "340411", "name": "WEDOMARTANI"}, {"id": "3404112005", "district_id": "340411", "name": "UMBULMARTANI"}]
+[
+  {
+    "id": "3404112001",
+    "district_id": "340411",
+    "name": "SINDUMARTANI"
+  },
+  {
+    "id": "3404112002",
+    "district_id": "340411",
+    "name": "BIMOMARTANI"
+  },
+  {
+    "id": "3404112003",
+    "district_id": "340411",
+    "name": "WIDODOMARTANI"
+  },
+  {
+    "id": "3404112004",
+    "district_id": "340411",
+    "name": "WEDOMARTANI"
+  },
+  {
+    "id": "3404112005",
+    "district_id": "340411",
+    "name": "UMBULMARTANI"
+  }
+]

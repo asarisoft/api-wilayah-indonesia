@@ -1,1 +1,57 @@
-[{"id": "3204162001", "district_id": "320416", "name": "ARJASARI"}, {"id": "3204162002", "district_id": "320416", "name": "LEBAKWANGI"}, {"id": "3204162003", "district_id": "320416", "name": "BATUKARUT"}, {"id": "3204162004", "district_id": "320416", "name": "ANCOLMEKAR"}, {"id": "3204162005", "district_id": "320416", "name": "BAROS"}, {"id": "3204162006", "district_id": "320416", "name": "MANGUNJAYA"}, {"id": "3204162007", "district_id": "320416", "name": "MEKARJAYA"}, {"id": "3204162008", "district_id": "320416", "name": "PINGGIRSARI"}, {"id": "3204162009", "district_id": "320416", "name": "PATROLSARI"}, {"id": "3204162010", "district_id": "320416", "name": "RANCAKOLE"}, {"id": "3204162011", "district_id": "320416", "name": "WARGALUYU"}]
+[
+  {
+    "id": "3204162001",
+    "district_id": "320416",
+    "name": "ARJASARI"
+  },
+  {
+    "id": "3204162002",
+    "district_id": "320416",
+    "name": "LEBAKWANGI"
+  },
+  {
+    "id": "3204162003",
+    "district_id": "320416",
+    "name": "BATUKARUT"
+  },
+  {
+    "id": "3204162004",
+    "district_id": "320416",
+    "name": "ANCOLMEKAR"
+  },
+  {
+    "id": "3204162005",
+    "district_id": "320416",
+    "name": "BAROS"
+  },
+  {
+    "id": "3204162006",
+    "district_id": "320416",
+    "name": "MANGUNJAYA"
+  },
+  {
+    "id": "3204162007",
+    "district_id": "320416",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3204162008",
+    "district_id": "320416",
+    "name": "PINGGIRSARI"
+  },
+  {
+    "id": "3204162009",
+    "district_id": "320416",
+    "name": "PATROLSARI"
+  },
+  {
+    "id": "3204162010",
+    "district_id": "320416",
+    "name": "RANCAKOLE"
+  },
+  {
+    "id": "3204162011",
+    "district_id": "320416",
+    "name": "WARGALUYU"
+  }
+]

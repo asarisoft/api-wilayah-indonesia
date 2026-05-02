@@ -1,1 +1,67 @@
-[{"id": "6109042001", "district_id": "610904", "name": "NANGA MAHAP"}, {"id": "6109042002", "district_id": "610904", "name": "BATU PAHAT"}, {"id": "6109042003", "district_id": "610904", "name": "LEMBAH BERINGIN"}, {"id": "6109042004", "district_id": "610904", "name": "TELUK KEBAU"}, {"id": "6109042005", "district_id": "610904", "name": "LANDAU APIN"}, {"id": "6109042006", "district_id": "610904", "name": "TEMBAGA"}, {"id": "6109042007", "district_id": "610904", "name": "CENAYAN"}, {"id": "6109042008", "district_id": "610904", "name": "LANDAU KUMPAI"}, {"id": "6109042009", "district_id": "610904", "name": "NANGA SURI"}, {"id": "6109042010", "district_id": "610904", "name": "SEBABAS"}, {"id": "6109042011", "district_id": "610904", "name": "KARANG BETUNG"}, {"id": "6109042012", "district_id": "610904", "name": "TAMANG"}, {"id": "6109042013", "district_id": "610904", "name": "TEMBESUK"}]
+[
+  {
+    "id": "6109042001",
+    "district_id": "610904",
+    "name": "NANGA MAHAP"
+  },
+  {
+    "id": "6109042002",
+    "district_id": "610904",
+    "name": "BATU PAHAT"
+  },
+  {
+    "id": "6109042003",
+    "district_id": "610904",
+    "name": "LEMBAH BERINGIN"
+  },
+  {
+    "id": "6109042004",
+    "district_id": "610904",
+    "name": "TELUK KEBAU"
+  },
+  {
+    "id": "6109042005",
+    "district_id": "610904",
+    "name": "LANDAU APIN"
+  },
+  {
+    "id": "6109042006",
+    "district_id": "610904",
+    "name": "TEMBAGA"
+  },
+  {
+    "id": "6109042007",
+    "district_id": "610904",
+    "name": "CENAYAN"
+  },
+  {
+    "id": "6109042008",
+    "district_id": "610904",
+    "name": "LANDAU KUMPAI"
+  },
+  {
+    "id": "6109042009",
+    "district_id": "610904",
+    "name": "NANGA SURI"
+  },
+  {
+    "id": "6109042010",
+    "district_id": "610904",
+    "name": "SEBABAS"
+  },
+  {
+    "id": "6109042011",
+    "district_id": "610904",
+    "name": "KARANG BETUNG"
+  },
+  {
+    "id": "6109042012",
+    "district_id": "610904",
+    "name": "TAMANG"
+  },
+  {
+    "id": "6109042013",
+    "district_id": "610904",
+    "name": "TEMBESUK"
+  }
+]

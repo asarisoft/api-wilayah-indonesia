@@ -1,1 +1,87 @@
-[{"id": "3524252001", "district_id": "352425", "name": "SIDOREJO"}, {"id": "3524252002", "district_id": "352425", "name": "DLANGGU"}, {"id": "3524252003", "district_id": "352425", "name": "LALADAN"}, {"id": "3524252004", "district_id": "352425", "name": "DEKETKULON"}, {"id": "3524252005", "district_id": "352425", "name": "DEKETWETAN"}, {"id": "3524252006", "district_id": "352425", "name": "SUGIHWARAS"}, {"id": "3524252007", "district_id": "352425", "name": "DINOYO"}, {"id": "3524252008", "district_id": "352425", "name": "SIDOMULYO"}, {"id": "3524252009", "district_id": "352425", "name": "REJOSARI"}, {"id": "3524252010", "district_id": "352425", "name": "PANDANPANCUR"}, {"id": "3524252011", "district_id": "352425", "name": "SIDOBINANGUN"}, {"id": "3524252012", "district_id": "352425", "name": "BABATAGUNG"}, {"id": "3524252013", "district_id": "352425", "name": "TUKKERTO"}, {"id": "3524252014", "district_id": "352425", "name": "WEDUNI"}, {"id": "3524252015", "district_id": "352425", "name": "REJOTENGAH"}, {"id": "3524252016", "district_id": "352425", "name": "SRIRANDE"}, {"id": "3524252017", "district_id": "352425", "name": "PLOSOBUDEN"}]
+[
+  {
+    "id": "3524252001",
+    "district_id": "352425",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3524252002",
+    "district_id": "352425",
+    "name": "DLANGGU"
+  },
+  {
+    "id": "3524252003",
+    "district_id": "352425",
+    "name": "LALADAN"
+  },
+  {
+    "id": "3524252004",
+    "district_id": "352425",
+    "name": "DEKETKULON"
+  },
+  {
+    "id": "3524252005",
+    "district_id": "352425",
+    "name": "DEKETWETAN"
+  },
+  {
+    "id": "3524252006",
+    "district_id": "352425",
+    "name": "SUGIHWARAS"
+  },
+  {
+    "id": "3524252007",
+    "district_id": "352425",
+    "name": "DINOYO"
+  },
+  {
+    "id": "3524252008",
+    "district_id": "352425",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3524252009",
+    "district_id": "352425",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3524252010",
+    "district_id": "352425",
+    "name": "PANDANPANCUR"
+  },
+  {
+    "id": "3524252011",
+    "district_id": "352425",
+    "name": "SIDOBINANGUN"
+  },
+  {
+    "id": "3524252012",
+    "district_id": "352425",
+    "name": "BABATAGUNG"
+  },
+  {
+    "id": "3524252013",
+    "district_id": "352425",
+    "name": "TUKKERTO"
+  },
+  {
+    "id": "3524252014",
+    "district_id": "352425",
+    "name": "WEDUNI"
+  },
+  {
+    "id": "3524252015",
+    "district_id": "352425",
+    "name": "REJOTENGAH"
+  },
+  {
+    "id": "3524252016",
+    "district_id": "352425",
+    "name": "SRIRANDE"
+  },
+  {
+    "id": "3524252017",
+    "district_id": "352425",
+    "name": "PLOSOBUDEN"
+  }
+]

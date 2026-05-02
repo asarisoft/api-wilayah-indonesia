@@ -1,1 +1,57 @@
-[{"id": "7111062001", "district_id": "711106", "name": "BINIHA TIMUR"}, {"id": "7111062002", "district_id": "711106", "name": "BINIHA"}, {"id": "7111062003", "district_id": "711106", "name": "BINIHA SELATAN"}, {"id": "7111062004", "district_id": "711106", "name": "DUMINANGA"}, {"id": "7111062005", "district_id": "711106", "name": "HALABOLU"}, {"id": "7111062006", "district_id": "711106", "name": "TRANS PATOA"}, {"id": "7111062007", "district_id": "711106", "name": "BAKIDA"}, {"id": "7111062008", "district_id": "711106", "name": "SINANDAKA"}, {"id": "7111062009", "district_id": "711106", "name": "SOPUTA"}, {"id": "7111062010", "district_id": "711106", "name": "PANGIA"}, {"id": "7111062011", "district_id": "711106", "name": "MOTOLOHU"}]
+[
+  {
+    "id": "7111062001",
+    "district_id": "711106",
+    "name": "BINIHA TIMUR"
+  },
+  {
+    "id": "7111062002",
+    "district_id": "711106",
+    "name": "BINIHA"
+  },
+  {
+    "id": "7111062003",
+    "district_id": "711106",
+    "name": "BINIHA SELATAN"
+  },
+  {
+    "id": "7111062004",
+    "district_id": "711106",
+    "name": "DUMINANGA"
+  },
+  {
+    "id": "7111062005",
+    "district_id": "711106",
+    "name": "HALABOLU"
+  },
+  {
+    "id": "7111062006",
+    "district_id": "711106",
+    "name": "TRANS PATOA"
+  },
+  {
+    "id": "7111062007",
+    "district_id": "711106",
+    "name": "BAKIDA"
+  },
+  {
+    "id": "7111062008",
+    "district_id": "711106",
+    "name": "SINANDAKA"
+  },
+  {
+    "id": "7111062009",
+    "district_id": "711106",
+    "name": "SOPUTA"
+  },
+  {
+    "id": "7111062010",
+    "district_id": "711106",
+    "name": "PANGIA"
+  },
+  {
+    "id": "7111062011",
+    "district_id": "711106",
+    "name": "MOTOLOHU"
+  }
+]

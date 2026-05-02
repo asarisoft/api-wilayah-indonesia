@@ -1,1 +1,77 @@
-[{"id": "6106112001", "district_id": "610611", "name": "SEJIRAM"}, {"id": "6106112002", "district_id": "610611", "name": "BELUIS HARUM"}, {"id": "6106112003", "district_id": "610611", "name": "GURUNG"}, {"id": "6106112004", "district_id": "610611", "name": "BATI"}, {"id": "6106112005", "district_id": "610611", "name": "SENEBAN"}, {"id": "6106112006", "district_id": "610611", "name": "BELIKAI"}, {"id": "6106112007", "district_id": "610611", "name": "RANYAI"}, {"id": "6106112008", "district_id": "610611", "name": "EMPERIANG"}, {"id": "6106112009", "district_id": "610611", "name": "PALA KOTA"}, {"id": "6106112010", "district_id": "610611", "name": "NANGA LOT"}, {"id": "6106112011", "district_id": "610611", "name": "TANJUNG KELILING"}, {"id": "6106112012", "district_id": "610611", "name": "TAJAU MADA"}, {"id": "6106112013", "district_id": "610611", "name": "JERENJANG"}, {"id": "6106112014", "district_id": "610611", "name": "BEKUAN"}, {"id": "6106112015", "district_id": "610611", "name": "NANGA PALA"}]
+[
+  {
+    "id": "6106112001",
+    "district_id": "610611",
+    "name": "SEJIRAM"
+  },
+  {
+    "id": "6106112002",
+    "district_id": "610611",
+    "name": "BELUIS HARUM"
+  },
+  {
+    "id": "6106112003",
+    "district_id": "610611",
+    "name": "GURUNG"
+  },
+  {
+    "id": "6106112004",
+    "district_id": "610611",
+    "name": "BATI"
+  },
+  {
+    "id": "6106112005",
+    "district_id": "610611",
+    "name": "SENEBAN"
+  },
+  {
+    "id": "6106112006",
+    "district_id": "610611",
+    "name": "BELIKAI"
+  },
+  {
+    "id": "6106112007",
+    "district_id": "610611",
+    "name": "RANYAI"
+  },
+  {
+    "id": "6106112008",
+    "district_id": "610611",
+    "name": "EMPERIANG"
+  },
+  {
+    "id": "6106112009",
+    "district_id": "610611",
+    "name": "PALA KOTA"
+  },
+  {
+    "id": "6106112010",
+    "district_id": "610611",
+    "name": "NANGA LOT"
+  },
+  {
+    "id": "6106112011",
+    "district_id": "610611",
+    "name": "TANJUNG KELILING"
+  },
+  {
+    "id": "6106112012",
+    "district_id": "610611",
+    "name": "TAJAU MADA"
+  },
+  {
+    "id": "6106112013",
+    "district_id": "610611",
+    "name": "JERENJANG"
+  },
+  {
+    "id": "6106112014",
+    "district_id": "610611",
+    "name": "BEKUAN"
+  },
+  {
+    "id": "6106112015",
+    "district_id": "610611",
+    "name": "NANGA PALA"
+  }
+]

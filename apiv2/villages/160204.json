@@ -1,1 +1,87 @@
-[{"id": "1602042001", "district_id": "160204", "name": "PEMATANG PANGGANG"}, {"id": "1602042002", "district_id": "160204", "name": "SUNGAI SODONG"}, {"id": "1602042005", "district_id": "160204", "name": "PAGAR DEWA"}, {"id": "1602042006", "district_id": "160204", "name": "SURYA ADI"}, {"id": "1602042007", "district_id": "160204", "name": "MAKARTI MULYA"}, {"id": "1602042008", "district_id": "160204", "name": "MARGA BAKTI"}, {"id": "1602042009", "district_id": "160204", "name": "JAYA BAKTI"}, {"id": "1602042025", "district_id": "160204", "name": "SUKAMUKTI"}, {"id": "1602042026", "district_id": "160204", "name": "MEKAR WANGI"}, {"id": "1602042035", "district_id": "160204", "name": "KARYA MUKTI"}, {"id": "1602042037", "district_id": "160204", "name": "KALIDERAS"}, {"id": "1602042038", "district_id": "160204", "name": "SUMBER DERAS"}, {"id": "1602042047", "district_id": "160204", "name": "KEMBANG JAJAR"}, {"id": "1602042050", "district_id": "160204", "name": "KOTA BARU"}, {"id": "1602042051", "district_id": "160204", "name": "SIDO BASUKI"}, {"id": "1602042052", "district_id": "160204", "name": "PEMATANG KASIH"}, {"id": "1602042053", "district_id": "160204", "name": "LABUHAN JAYA"}]
+[
+  {
+    "id": "1602042001",
+    "district_id": "160204",
+    "name": "PEMATANG PANGGANG"
+  },
+  {
+    "id": "1602042002",
+    "district_id": "160204",
+    "name": "SUNGAI SODONG"
+  },
+  {
+    "id": "1602042005",
+    "district_id": "160204",
+    "name": "PAGAR DEWA"
+  },
+  {
+    "id": "1602042006",
+    "district_id": "160204",
+    "name": "SURYA ADI"
+  },
+  {
+    "id": "1602042007",
+    "district_id": "160204",
+    "name": "MAKARTI MULYA"
+  },
+  {
+    "id": "1602042008",
+    "district_id": "160204",
+    "name": "MARGA BAKTI"
+  },
+  {
+    "id": "1602042009",
+    "district_id": "160204",
+    "name": "JAYA BAKTI"
+  },
+  {
+    "id": "1602042025",
+    "district_id": "160204",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "1602042026",
+    "district_id": "160204",
+    "name": "MEKAR WANGI"
+  },
+  {
+    "id": "1602042035",
+    "district_id": "160204",
+    "name": "KARYA MUKTI"
+  },
+  {
+    "id": "1602042037",
+    "district_id": "160204",
+    "name": "KALIDERAS"
+  },
+  {
+    "id": "1602042038",
+    "district_id": "160204",
+    "name": "SUMBER DERAS"
+  },
+  {
+    "id": "1602042047",
+    "district_id": "160204",
+    "name": "KEMBANG JAJAR"
+  },
+  {
+    "id": "1602042050",
+    "district_id": "160204",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "1602042051",
+    "district_id": "160204",
+    "name": "SIDO BASUKI"
+  },
+  {
+    "id": "1602042052",
+    "district_id": "160204",
+    "name": "PEMATANG KASIH"
+  },
+  {
+    "id": "1602042053",
+    "district_id": "160204",
+    "name": "LABUHAN JAYA"
+  }
+]

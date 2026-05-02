@@ -1,1 +1,37 @@
-[{"id": "3314202001", "district_id": "331420", "name": "JAPOH"}, {"id": "3314202002", "district_id": "331420", "name": "NGEPRINGAN"}, {"id": "3314202003", "district_id": "331420", "name": "MLALE"}, {"id": "3314202004", "district_id": "331420", "name": "DAWUNG"}, {"id": "3314202005", "district_id": "331420", "name": "KANDANGSAPI"}, {"id": "3314202006", "district_id": "331420", "name": "JENAR"}, {"id": "3314202007", "district_id": "331420", "name": "BANYURIP"}]
+[
+  {
+    "id": "3314202001",
+    "district_id": "331420",
+    "name": "JAPOH"
+  },
+  {
+    "id": "3314202002",
+    "district_id": "331420",
+    "name": "NGEPRINGAN"
+  },
+  {
+    "id": "3314202003",
+    "district_id": "331420",
+    "name": "MLALE"
+  },
+  {
+    "id": "3314202004",
+    "district_id": "331420",
+    "name": "DAWUNG"
+  },
+  {
+    "id": "3314202005",
+    "district_id": "331420",
+    "name": "KANDANGSAPI"
+  },
+  {
+    "id": "3314202006",
+    "district_id": "331420",
+    "name": "JENAR"
+  },
+  {
+    "id": "3314202007",
+    "district_id": "331420",
+    "name": "BANYURIP"
+  }
+]

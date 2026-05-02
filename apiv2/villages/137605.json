@@ -1,1 +1,32 @@
-[{"id": "1376051001", "district_id": "137605", "name": "PADANG KARAMBIA"}, {"id": "1376051002", "district_id": "137605", "name": "KOTOTUO LIMOKAMPUANG"}, {"id": "1376051003", "district_id": "137605", "name": "LIMBUKAN"}, {"id": "1376051005", "district_id": "137605", "name": "BALAI PANJANG"}, {"id": "1376051006", "district_id": "137605", "name": "KAPALO KOTO AMPANGAN"}, {"id": "1376051010", "district_id": "137605", "name": "SAWAHPADANG AUA KUNIANG"}]
+[
+  {
+    "id": "1376051001",
+    "district_id": "137605",
+    "name": "PADANG KARAMBIA"
+  },
+  {
+    "id": "1376051002",
+    "district_id": "137605",
+    "name": "KOTOTUO LIMOKAMPUANG"
+  },
+  {
+    "id": "1376051003",
+    "district_id": "137605",
+    "name": "LIMBUKAN"
+  },
+  {
+    "id": "1376051005",
+    "district_id": "137605",
+    "name": "BALAI PANJANG"
+  },
+  {
+    "id": "1376051006",
+    "district_id": "137605",
+    "name": "KAPALO KOTO AMPANGAN"
+  },
+  {
+    "id": "1376051010",
+    "district_id": "137605",
+    "name": "SAWAHPADANG AUA KUNIANG"
+  }
+]

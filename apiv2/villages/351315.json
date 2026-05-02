@@ -1,1 +1,87 @@
-[{"id": "3513152001", "district_id": "351315", "name": "TEMENGGUNGAN"}, {"id": "3513152002", "district_id": "351315", "name": "PATEMON"}, {"id": "3513152003", "district_id": "351315", "name": "JATIURIP"}, {"id": "3513152004", "district_id": "351315", "name": "OPO OPO"}, {"id": "3513152005", "district_id": "351315", "name": "KAMALKUNING"}, {"id": "3513152006", "district_id": "351315", "name": "TANJUNGSARI"}, {"id": "3513152007", "district_id": "351315", "name": "KREJENGAN"}, {"id": "3513152008", "district_id": "351315", "name": "SENTONG"}, {"id": "3513152009", "district_id": "351315", "name": "SUMBERKATIMOHO"}, {"id": "3513152010", "district_id": "351315", "name": "KARANGREN"}, {"id": "3513152011", "district_id": "351315", "name": "RAWAN"}, {"id": "3513152012", "district_id": "351315", "name": "SEBORO"}, {"id": "3513152013", "district_id": "351315", "name": "KEDUNGCALUK"}, {"id": "3513152014", "district_id": "351315", "name": "WIDORO"}, {"id": "3513152015", "district_id": "351315", "name": "GEBANGAN"}, {"id": "3513152016", "district_id": "351315", "name": "DUWUHAN"}, {"id": "3513152017", "district_id": "351315", "name": "SOKA'AN"}]
+[
+  {
+    "id": "3513152001",
+    "district_id": "351315",
+    "name": "TEMENGGUNGAN"
+  },
+  {
+    "id": "3513152002",
+    "district_id": "351315",
+    "name": "PATEMON"
+  },
+  {
+    "id": "3513152003",
+    "district_id": "351315",
+    "name": "JATIURIP"
+  },
+  {
+    "id": "3513152004",
+    "district_id": "351315",
+    "name": "OPO OPO"
+  },
+  {
+    "id": "3513152005",
+    "district_id": "351315",
+    "name": "KAMALKUNING"
+  },
+  {
+    "id": "3513152006",
+    "district_id": "351315",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3513152007",
+    "district_id": "351315",
+    "name": "KREJENGAN"
+  },
+  {
+    "id": "3513152008",
+    "district_id": "351315",
+    "name": "SENTONG"
+  },
+  {
+    "id": "3513152009",
+    "district_id": "351315",
+    "name": "SUMBERKATIMOHO"
+  },
+  {
+    "id": "3513152010",
+    "district_id": "351315",
+    "name": "KARANGREN"
+  },
+  {
+    "id": "3513152011",
+    "district_id": "351315",
+    "name": "RAWAN"
+  },
+  {
+    "id": "3513152012",
+    "district_id": "351315",
+    "name": "SEBORO"
+  },
+  {
+    "id": "3513152013",
+    "district_id": "351315",
+    "name": "KEDUNGCALUK"
+  },
+  {
+    "id": "3513152014",
+    "district_id": "351315",
+    "name": "WIDORO"
+  },
+  {
+    "id": "3513152015",
+    "district_id": "351315",
+    "name": "GEBANGAN"
+  },
+  {
+    "id": "3513152016",
+    "district_id": "351315",
+    "name": "DUWUHAN"
+  },
+  {
+    "id": "3513152017",
+    "district_id": "351315",
+    "name": "SOKA'AN"
+  }
+]

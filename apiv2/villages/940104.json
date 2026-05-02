@@ -1,1 +1,32 @@
-[{"id": "9401042001", "district_id": "940104", "name": "TOPO"}, {"id": "9401042002", "district_id": "940104", "name": "URUMUSU"}, {"id": "9401042003", "district_id": "940104", "name": "MARGA JAYA"}, {"id": "9401042004", "district_id": "940104", "name": "ARGO MULYO"}, {"id": "9401042005", "district_id": "940104", "name": "TOPO JAYA"}, {"id": "9401042006", "district_id": "940104", "name": "GAMEI JAYA"}]
+[
+  {
+    "id": "9401042001",
+    "district_id": "940104",
+    "name": "TOPO"
+  },
+  {
+    "id": "9401042002",
+    "district_id": "940104",
+    "name": "URUMUSU"
+  },
+  {
+    "id": "9401042003",
+    "district_id": "940104",
+    "name": "MARGA JAYA"
+  },
+  {
+    "id": "9401042004",
+    "district_id": "940104",
+    "name": "ARGO MULYO"
+  },
+  {
+    "id": "9401042005",
+    "district_id": "940104",
+    "name": "TOPO JAYA"
+  },
+  {
+    "id": "9401042006",
+    "district_id": "940104",
+    "name": "GAMEI JAYA"
+  }
+]

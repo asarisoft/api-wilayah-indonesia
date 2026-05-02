@@ -1,1 +1,37 @@
-[{"id": "6271051001", "district_id": "627105", "name": "PETUK BUKIT"}, {"id": "6271051002", "district_id": "627105", "name": "PANJEHANG"}, {"id": "6271051003", "district_id": "627105", "name": "PETUK BARUNAI"}, {"id": "6271051004", "district_id": "627105", "name": "MUNGKU BARU"}, {"id": "6271051005", "district_id": "627105", "name": "PAGER"}, {"id": "6271051006", "district_id": "627105", "name": "GAUNG BARU"}, {"id": "6271051007", "district_id": "627105", "name": "BUKIT SUA"}]
+[
+  {
+    "id": "6271051001",
+    "district_id": "627105",
+    "name": "PETUK BUKIT"
+  },
+  {
+    "id": "6271051002",
+    "district_id": "627105",
+    "name": "PANJEHANG"
+  },
+  {
+    "id": "6271051003",
+    "district_id": "627105",
+    "name": "PETUK BARUNAI"
+  },
+  {
+    "id": "6271051004",
+    "district_id": "627105",
+    "name": "MUNGKU BARU"
+  },
+  {
+    "id": "6271051005",
+    "district_id": "627105",
+    "name": "PAGER"
+  },
+  {
+    "id": "6271051006",
+    "district_id": "627105",
+    "name": "GAUNG BARU"
+  },
+  {
+    "id": "6271051007",
+    "district_id": "627105",
+    "name": "BUKIT SUA"
+  }
+]

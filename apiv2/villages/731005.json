@@ -1,1 +1,27 @@
-[{"id": "7310051001", "district_id": "731005", "name": "BALLEANGIN"}, {"id": "7310051002", "district_id": "731005", "name": "BALOCCI BARU"}, {"id": "7310051003", "district_id": "731005", "name": "KASSI"}, {"id": "7310051004", "district_id": "731005", "name": "TONASA"}, {"id": "7310052005", "district_id": "731005", "name": "TOMPO BULU"}]
+[
+  {
+    "id": "7310051001",
+    "district_id": "731005",
+    "name": "BALLEANGIN"
+  },
+  {
+    "id": "7310051002",
+    "district_id": "731005",
+    "name": "BALOCCI BARU"
+  },
+  {
+    "id": "7310051003",
+    "district_id": "731005",
+    "name": "KASSI"
+  },
+  {
+    "id": "7310051004",
+    "district_id": "731005",
+    "name": "TONASA"
+  },
+  {
+    "id": "7310052005",
+    "district_id": "731005",
+    "name": "TOMPO BULU"
+  }
+]

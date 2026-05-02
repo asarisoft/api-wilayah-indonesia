@@ -1,1 +1,42 @@
-[{"id": "3304022001", "district_id": "330402", "name": "SIRKANDI"}, {"id": "3304022002", "district_id": "330402", "name": "PAGAK"}, {"id": "3304022003", "district_id": "330402", "name": "KECITRAN"}, {"id": "3304022004", "district_id": "330402", "name": "PURWAREJA"}, {"id": "3304022005", "district_id": "330402", "name": "KLAMPOK"}, {"id": "3304022006", "district_id": "330402", "name": "KALILANDAK"}, {"id": "3304022007", "district_id": "330402", "name": "KALIMANDI"}, {"id": "3304022008", "district_id": "330402", "name": "KALIWINASUH"}]
+[
+  {
+    "id": "3304022001",
+    "district_id": "330402",
+    "name": "SIRKANDI"
+  },
+  {
+    "id": "3304022002",
+    "district_id": "330402",
+    "name": "PAGAK"
+  },
+  {
+    "id": "3304022003",
+    "district_id": "330402",
+    "name": "KECITRAN"
+  },
+  {
+    "id": "3304022004",
+    "district_id": "330402",
+    "name": "PURWAREJA"
+  },
+  {
+    "id": "3304022005",
+    "district_id": "330402",
+    "name": "KLAMPOK"
+  },
+  {
+    "id": "3304022006",
+    "district_id": "330402",
+    "name": "KALILANDAK"
+  },
+  {
+    "id": "3304022007",
+    "district_id": "330402",
+    "name": "KALIMANDI"
+  },
+  {
+    "id": "3304022008",
+    "district_id": "330402",
+    "name": "KALIWINASUH"
+  }
+]

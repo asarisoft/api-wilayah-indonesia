@@ -1,1 +1,107 @@
-[{"id": "1801132001", "district_id": "180113", "name": "WAY HUI"}, {"id": "1801132002", "district_id": "180113", "name": "SIDODADI ASRI"}, {"id": "1801132003", "district_id": "180113", "name": "MARGO MULYO"}, {"id": "1801132004", "district_id": "180113", "name": "GEDUNG AGUNG"}, {"id": "1801132005", "district_id": "180113", "name": "MARGODADI"}, {"id": "1801132006", "district_id": "180113", "name": "GEDUNG HARAPAN"}, {"id": "1801132007", "district_id": "180113", "name": "MARGA AGUNG"}, {"id": "1801132008", "district_id": "180113", "name": "JATI MULYO"}, {"id": "1801132009", "district_id": "180113", "name": "FAJAR BARU"}, {"id": "1801132010", "district_id": "180113", "name": "KARANG ANYAR"}, {"id": "1801132011", "district_id": "180113", "name": "MARGA KAYA"}, {"id": "1801132012", "district_id": "180113", "name": "MARGO LESTARI"}, {"id": "1801132013", "district_id": "180113", "name": "SUMBER JAYA"}, {"id": "1801132014", "district_id": "180113", "name": "SINAR REJEKI"}, {"id": "1801132015", "district_id": "180113", "name": "SIDOHARJO"}, {"id": "1801132016", "district_id": "180113", "name": "REJOMULYO"}, {"id": "1801132017", "district_id": "180113", "name": "PURWOTANI"}, {"id": "1801132018", "district_id": "180113", "name": "BANJAR AGUNG"}, {"id": "1801132019", "district_id": "180113", "name": "KARANG SARI"}, {"id": "1801132020", "district_id": "180113", "name": "KARANG REJO"}, {"id": "1801132021", "district_id": "180113", "name": "MARGOREJO"}]
+[
+  {
+    "id": "1801132001",
+    "district_id": "180113",
+    "name": "WAY HUI"
+  },
+  {
+    "id": "1801132002",
+    "district_id": "180113",
+    "name": "SIDODADI ASRI"
+  },
+  {
+    "id": "1801132003",
+    "district_id": "180113",
+    "name": "MARGO MULYO"
+  },
+  {
+    "id": "1801132004",
+    "district_id": "180113",
+    "name": "GEDUNG AGUNG"
+  },
+  {
+    "id": "1801132005",
+    "district_id": "180113",
+    "name": "MARGODADI"
+  },
+  {
+    "id": "1801132006",
+    "district_id": "180113",
+    "name": "GEDUNG HARAPAN"
+  },
+  {
+    "id": "1801132007",
+    "district_id": "180113",
+    "name": "MARGA AGUNG"
+  },
+  {
+    "id": "1801132008",
+    "district_id": "180113",
+    "name": "JATI MULYO"
+  },
+  {
+    "id": "1801132009",
+    "district_id": "180113",
+    "name": "FAJAR BARU"
+  },
+  {
+    "id": "1801132010",
+    "district_id": "180113",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "1801132011",
+    "district_id": "180113",
+    "name": "MARGA KAYA"
+  },
+  {
+    "id": "1801132012",
+    "district_id": "180113",
+    "name": "MARGO LESTARI"
+  },
+  {
+    "id": "1801132013",
+    "district_id": "180113",
+    "name": "SUMBER JAYA"
+  },
+  {
+    "id": "1801132014",
+    "district_id": "180113",
+    "name": "SINAR REJEKI"
+  },
+  {
+    "id": "1801132015",
+    "district_id": "180113",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "1801132016",
+    "district_id": "180113",
+    "name": "REJOMULYO"
+  },
+  {
+    "id": "1801132017",
+    "district_id": "180113",
+    "name": "PURWOTANI"
+  },
+  {
+    "id": "1801132018",
+    "district_id": "180113",
+    "name": "BANJAR AGUNG"
+  },
+  {
+    "id": "1801132019",
+    "district_id": "180113",
+    "name": "KARANG SARI"
+  },
+  {
+    "id": "1801132020",
+    "district_id": "180113",
+    "name": "KARANG REJO"
+  },
+  {
+    "id": "1801132021",
+    "district_id": "180113",
+    "name": "MARGOREJO"
+  }
+]

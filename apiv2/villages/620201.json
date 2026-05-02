@@ -1,1 +1,57 @@
-[{"id": "6202011009", "district_id": "620201", "name": "KOTA BESI HULU"}, {"id": "6202011010", "district_id": "620201", "name": "KOTA BESI HILIR"}, {"id": "6202012003", "district_id": "620201", "name": "PALANGAN"}, {"id": "6202012004", "district_id": "620201", "name": "HANJALIPAN"}, {"id": "6202012005", "district_id": "620201", "name": "SIMPUR"}, {"id": "6202012006", "district_id": "620201", "name": "PAMALIAN"}, {"id": "6202012007", "district_id": "620201", "name": "CAMBA"}, {"id": "6202012008", "district_id": "620201", "name": "KANDAN"}, {"id": "6202012012", "district_id": "620201", "name": "BAJARUM"}, {"id": "6202012015", "district_id": "620201", "name": "RASAU TUMBUH"}, {"id": "6202012017", "district_id": "620201", "name": "SOREN"}]
+[
+  {
+    "id": "6202011009",
+    "district_id": "620201",
+    "name": "KOTA BESI HULU"
+  },
+  {
+    "id": "6202011010",
+    "district_id": "620201",
+    "name": "KOTA BESI HILIR"
+  },
+  {
+    "id": "6202012003",
+    "district_id": "620201",
+    "name": "PALANGAN"
+  },
+  {
+    "id": "6202012004",
+    "district_id": "620201",
+    "name": "HANJALIPAN"
+  },
+  {
+    "id": "6202012005",
+    "district_id": "620201",
+    "name": "SIMPUR"
+  },
+  {
+    "id": "6202012006",
+    "district_id": "620201",
+    "name": "PAMALIAN"
+  },
+  {
+    "id": "6202012007",
+    "district_id": "620201",
+    "name": "CAMBA"
+  },
+  {
+    "id": "6202012008",
+    "district_id": "620201",
+    "name": "KANDAN"
+  },
+  {
+    "id": "6202012012",
+    "district_id": "620201",
+    "name": "BAJARUM"
+  },
+  {
+    "id": "6202012015",
+    "district_id": "620201",
+    "name": "RASAU TUMBUH"
+  },
+  {
+    "id": "6202012017",
+    "district_id": "620201",
+    "name": "SOREN"
+  }
+]

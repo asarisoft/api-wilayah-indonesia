@@ -1,1 +1,92 @@
-[{"id": "1503062001", "district_id": "150306", "name": "MANDIANGIN"}, {"id": "1503062002", "district_id": "150306", "name": "RANGKILING SIMPANG"}, {"id": "1503062003", "district_id": "150306", "name": "PEMUSIRAN"}, {"id": "1503062004", "district_id": "150306", "name": "GURUN TUO SIMPANG"}, {"id": "1503062005", "district_id": "150306", "name": "GURUN MUDO"}, {"id": "1503062006", "district_id": "150306", "name": "GURUN TUO"}, {"id": "1503062007", "district_id": "150306", "name": "RANGKILING"}, {"id": "1503062008", "district_id": "150306", "name": "MANDIANGIN TUO"}, {"id": "1503062009", "district_id": "150306", "name": "KERTOPATI"}, {"id": "1503062010", "district_id": "150306", "name": "MUARO KETALO"}, {"id": "1503062011", "district_id": "150306", "name": "TAMAN DEWA"}, {"id": "1503062012", "district_id": "150306", "name": "SIMPANG KERTOPATI"}, {"id": "1503062013", "district_id": "150306", "name": "BUKIT PERANGINAN"}, {"id": "1503062020", "district_id": "150306", "name": "GURUN BARU"}, {"id": "1503062021", "district_id": "150306", "name": "KUTE JAYE"}, {"id": "1503062022", "district_id": "150306", "name": "MANDIANGIN PASAR"}, {"id": "1503062023", "district_id": "150306", "name": "SUNGAI ROTAN"}, {"id": "1503062028", "district_id": "150306", "name": "TALANG SERDANG"}]
+[
+  {
+    "id": "1503062001",
+    "district_id": "150306",
+    "name": "MANDIANGIN"
+  },
+  {
+    "id": "1503062002",
+    "district_id": "150306",
+    "name": "RANGKILING SIMPANG"
+  },
+  {
+    "id": "1503062003",
+    "district_id": "150306",
+    "name": "PEMUSIRAN"
+  },
+  {
+    "id": "1503062004",
+    "district_id": "150306",
+    "name": "GURUN TUO SIMPANG"
+  },
+  {
+    "id": "1503062005",
+    "district_id": "150306",
+    "name": "GURUN MUDO"
+  },
+  {
+    "id": "1503062006",
+    "district_id": "150306",
+    "name": "GURUN TUO"
+  },
+  {
+    "id": "1503062007",
+    "district_id": "150306",
+    "name": "RANGKILING"
+  },
+  {
+    "id": "1503062008",
+    "district_id": "150306",
+    "name": "MANDIANGIN TUO"
+  },
+  {
+    "id": "1503062009",
+    "district_id": "150306",
+    "name": "KERTOPATI"
+  },
+  {
+    "id": "1503062010",
+    "district_id": "150306",
+    "name": "MUARO KETALO"
+  },
+  {
+    "id": "1503062011",
+    "district_id": "150306",
+    "name": "TAMAN DEWA"
+  },
+  {
+    "id": "1503062012",
+    "district_id": "150306",
+    "name": "SIMPANG KERTOPATI"
+  },
+  {
+    "id": "1503062013",
+    "district_id": "150306",
+    "name": "BUKIT PERANGINAN"
+  },
+  {
+    "id": "1503062020",
+    "district_id": "150306",
+    "name": "GURUN BARU"
+  },
+  {
+    "id": "1503062021",
+    "district_id": "150306",
+    "name": "KUTE JAYE"
+  },
+  {
+    "id": "1503062022",
+    "district_id": "150306",
+    "name": "MANDIANGIN PASAR"
+  },
+  {
+    "id": "1503062023",
+    "district_id": "150306",
+    "name": "SUNGAI ROTAN"
+  },
+  {
+    "id": "1503062028",
+    "district_id": "150306",
+    "name": "TALANG SERDANG"
+  }
+]

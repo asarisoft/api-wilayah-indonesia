@@ -1,1 +1,72 @@
-[{"id": "5318052001", "district_id": "531805", "name": "BURU DEILO"}, {"id": "5318052002", "district_id": "531805", "name": "WERI LOLO"}, {"id": "5318052003", "district_id": "531805", "name": "BURU KAGHU"}, {"id": "5318052004", "district_id": "531805", "name": "DENDUKA"}, {"id": "5318052005", "district_id": "531805", "name": "BONDO BELA"}, {"id": "5318052006", "district_id": "531805", "name": "DELO"}, {"id": "5318052007", "district_id": "531805", "name": "TENA TEKE"}, {"id": "5318052008", "district_id": "531805", "name": "BONDO UKKA"}, {"id": "5318052009", "district_id": "531805", "name": "UMBU WANGU"}, {"id": "5318052010", "district_id": "531805", "name": "MILLA ATE"}, {"id": "5318052011", "district_id": "531805", "name": "RITA BARU"}, {"id": "5318052012", "district_id": "531805", "name": "MANDUNGO"}, {"id": "5318052013", "district_id": "531805", "name": "WEE WULLA"}, {"id": "5318052014", "district_id": "531805", "name": "WEE BAGHE"}]
+[
+  {
+    "id": "5318052001",
+    "district_id": "531805",
+    "name": "BURU DEILO"
+  },
+  {
+    "id": "5318052002",
+    "district_id": "531805",
+    "name": "WERI LOLO"
+  },
+  {
+    "id": "5318052003",
+    "district_id": "531805",
+    "name": "BURU KAGHU"
+  },
+  {
+    "id": "5318052004",
+    "district_id": "531805",
+    "name": "DENDUKA"
+  },
+  {
+    "id": "5318052005",
+    "district_id": "531805",
+    "name": "BONDO BELA"
+  },
+  {
+    "id": "5318052006",
+    "district_id": "531805",
+    "name": "DELO"
+  },
+  {
+    "id": "5318052007",
+    "district_id": "531805",
+    "name": "TENA TEKE"
+  },
+  {
+    "id": "5318052008",
+    "district_id": "531805",
+    "name": "BONDO UKKA"
+  },
+  {
+    "id": "5318052009",
+    "district_id": "531805",
+    "name": "UMBU WANGU"
+  },
+  {
+    "id": "5318052010",
+    "district_id": "531805",
+    "name": "MILLA ATE"
+  },
+  {
+    "id": "5318052011",
+    "district_id": "531805",
+    "name": "RITA BARU"
+  },
+  {
+    "id": "5318052012",
+    "district_id": "531805",
+    "name": "MANDUNGO"
+  },
+  {
+    "id": "5318052013",
+    "district_id": "531805",
+    "name": "WEE WULLA"
+  },
+  {
+    "id": "5318052014",
+    "district_id": "531805",
+    "name": "WEE BAGHE"
+  }
+]

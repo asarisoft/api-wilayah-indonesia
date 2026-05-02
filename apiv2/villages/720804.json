@@ -1,1 +1,102 @@
-[{"id": "7208042001", "district_id": "720804", "name": "MOUTONG TIMUR"}, {"id": "7208042002", "district_id": "720804", "name": "MOUTONG BARAT"}, {"id": "7208042003", "district_id": "720804", "name": "MOUTONG TENGAH"}, {"id": "7208042004", "district_id": "720804", "name": "TULADENGGI PANTAI"}, {"id": "7208042006", "district_id": "720804", "name": "GIO"}, {"id": "7208042024", "district_id": "720804", "name": "LOBU"}, {"id": "7208042025", "district_id": "720804", "name": "PENDELALAP"}, {"id": "7208042026", "district_id": "720804", "name": "SEJOLI"}, {"id": "7208042028", "district_id": "720804", "name": "AEDAN RAYA"}, {"id": "7208042029", "district_id": "720804", "name": "SALUMPENGUT"}, {"id": "7208042030", "district_id": "720804", "name": "BOLOUNG OLONGGATA"}, {"id": "7208042031", "district_id": "720804", "name": "LABUAN"}, {"id": "7208042032", "district_id": "720804", "name": "MBELANG MBELANG"}, {"id": "7208042033", "district_id": "720804", "name": "PANDE"}, {"id": "7208042034", "district_id": "720804", "name": "MOUTONG UTARA"}, {"id": "7208042035", "district_id": "720804", "name": "SALEPAE"}, {"id": "7208042036", "district_id": "720804", "name": "OLONGGATA"}, {"id": "7208042037", "district_id": "720804", "name": "GIO TIMUR"}, {"id": "7208042038", "district_id": "720804", "name": "GIO BARAT"}, {"id": "7208042039", "district_id": "720804", "name": "SIALOPA"}]
+[
+  {
+    "id": "7208042001",
+    "district_id": "720804",
+    "name": "MOUTONG TIMUR"
+  },
+  {
+    "id": "7208042002",
+    "district_id": "720804",
+    "name": "MOUTONG BARAT"
+  },
+  {
+    "id": "7208042003",
+    "district_id": "720804",
+    "name": "MOUTONG TENGAH"
+  },
+  {
+    "id": "7208042004",
+    "district_id": "720804",
+    "name": "TULADENGGI PANTAI"
+  },
+  {
+    "id": "7208042006",
+    "district_id": "720804",
+    "name": "GIO"
+  },
+  {
+    "id": "7208042024",
+    "district_id": "720804",
+    "name": "LOBU"
+  },
+  {
+    "id": "7208042025",
+    "district_id": "720804",
+    "name": "PENDELALAP"
+  },
+  {
+    "id": "7208042026",
+    "district_id": "720804",
+    "name": "SEJOLI"
+  },
+  {
+    "id": "7208042028",
+    "district_id": "720804",
+    "name": "AEDAN RAYA"
+  },
+  {
+    "id": "7208042029",
+    "district_id": "720804",
+    "name": "SALUMPENGUT"
+  },
+  {
+    "id": "7208042030",
+    "district_id": "720804",
+    "name": "BOLOUNG OLONGGATA"
+  },
+  {
+    "id": "7208042031",
+    "district_id": "720804",
+    "name": "LABUAN"
+  },
+  {
+    "id": "7208042032",
+    "district_id": "720804",
+    "name": "MBELANG MBELANG"
+  },
+  {
+    "id": "7208042033",
+    "district_id": "720804",
+    "name": "PANDE"
+  },
+  {
+    "id": "7208042034",
+    "district_id": "720804",
+    "name": "MOUTONG UTARA"
+  },
+  {
+    "id": "7208042035",
+    "district_id": "720804",
+    "name": "SALEPAE"
+  },
+  {
+    "id": "7208042036",
+    "district_id": "720804",
+    "name": "OLONGGATA"
+  },
+  {
+    "id": "7208042037",
+    "district_id": "720804",
+    "name": "GIO TIMUR"
+  },
+  {
+    "id": "7208042038",
+    "district_id": "720804",
+    "name": "GIO BARAT"
+  },
+  {
+    "id": "7208042039",
+    "district_id": "720804",
+    "name": "SIALOPA"
+  }
+]

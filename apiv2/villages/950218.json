@@ -1,1 +1,27 @@
-[{"id": "9502182001", "district_id": "950218", "name": "AWINBON"}, {"id": "9502182002", "district_id": "950218", "name": "NANUM ANAIP"}, {"id": "9502182003", "district_id": "950218", "name": "MIKIR"}, {"id": "9502182004", "district_id": "950218", "name": "KAWE"}, {"id": "9502182005", "district_id": "950218", "name": "YELOBIB"}]
+[
+  {
+    "id": "9502182001",
+    "district_id": "950218",
+    "name": "AWINBON"
+  },
+  {
+    "id": "9502182002",
+    "district_id": "950218",
+    "name": "NANUM ANAIP"
+  },
+  {
+    "id": "9502182003",
+    "district_id": "950218",
+    "name": "MIKIR"
+  },
+  {
+    "id": "9502182004",
+    "district_id": "950218",
+    "name": "KAWE"
+  },
+  {
+    "id": "9502182005",
+    "district_id": "950218",
+    "name": "YELOBIB"
+  }
+]

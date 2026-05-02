@@ -1,1 +1,147 @@
-[{"id": "1221022001", "district_id": "122102", "name": "GUNUNG BARINGIN"}, {"id": "1221022002", "district_id": "122102", "name": "PASAR BINANGA"}, {"id": "1221022003", "district_id": "122102", "name": "SIHABORGOAN DALAN"}, {"id": "1221022004", "district_id": "122102", "name": "AEK TANDUK"}, {"id": "1221022005", "district_id": "122102", "name": "PP. MAKMUR"}, {"id": "1221022006", "district_id": "122102", "name": "SIBORIS BAHAL"}, {"id": "1221022007", "district_id": "122102", "name": "BANGKUDU"}, {"id": "1221022008", "district_id": "122102", "name": "SIOLIP"}, {"id": "1221022009", "district_id": "122102", "name": "AEK TUNJANG"}, {"id": "1221022010", "district_id": "122102", "name": "BINANGA"}, {"id": "1221022011", "district_id": "122102", "name": "MANOMBO"}, {"id": "1221022012", "district_id": "122102", "name": "JANJI RAJA"}, {"id": "1221022013", "district_id": "122102", "name": "PANGIRKIRAN DOLOK"}, {"id": "1221022014", "district_id": "122102", "name": "SIHABORGOAN BARUMUN"}, {"id": "1221022015", "district_id": "122102", "name": "SIBORIS DOLOK"}, {"id": "1221022016", "district_id": "122102", "name": "PADANG MATINGGI"}, {"id": "1221022017", "district_id": "122102", "name": "TANDIHAT"}, {"id": "1221022018", "district_id": "122102", "name": "BARA BATU"}, {"id": "1221022019", "district_id": "122102", "name": "BAHAL BATU"}, {"id": "1221022020", "district_id": "122102", "name": "GINDUANG BATU"}, {"id": "1221022021", "district_id": "122102", "name": "PADANG GARUGUR"}, {"id": "1221022022", "district_id": "122102", "name": "GUNUNG MANAON"}, {"id": "1221022023", "district_id": "122102", "name": "SIBORIS LOMBANG"}, {"id": "1221022024", "district_id": "122102", "name": "JANJI MATOGU"}, {"id": "1221022025", "district_id": "122102", "name": "GUNUNG MALINTANG"}, {"id": "1221022026", "district_id": "122102", "name": "SIBATU LOTING"}, {"id": "1221022028", "district_id": "122102", "name": "JANJI MANAHAN"}, {"id": "1221022029", "district_id": "122102", "name": "SIPARAU"}, {"id": "1221022030", "district_id": "122102", "name": "UNTERUDANG"}]
+[
+  {
+    "id": "1221022001",
+    "district_id": "122102",
+    "name": "GUNUNG BARINGIN"
+  },
+  {
+    "id": "1221022002",
+    "district_id": "122102",
+    "name": "PASAR BINANGA"
+  },
+  {
+    "id": "1221022003",
+    "district_id": "122102",
+    "name": "SIHABORGOAN DALAN"
+  },
+  {
+    "id": "1221022004",
+    "district_id": "122102",
+    "name": "AEK TANDUK"
+  },
+  {
+    "id": "1221022005",
+    "district_id": "122102",
+    "name": "PP. MAKMUR"
+  },
+  {
+    "id": "1221022006",
+    "district_id": "122102",
+    "name": "SIBORIS BAHAL"
+  },
+  {
+    "id": "1221022007",
+    "district_id": "122102",
+    "name": "BANGKUDU"
+  },
+  {
+    "id": "1221022008",
+    "district_id": "122102",
+    "name": "SIOLIP"
+  },
+  {
+    "id": "1221022009",
+    "district_id": "122102",
+    "name": "AEK TUNJANG"
+  },
+  {
+    "id": "1221022010",
+    "district_id": "122102",
+    "name": "BINANGA"
+  },
+  {
+    "id": "1221022011",
+    "district_id": "122102",
+    "name": "MANOMBO"
+  },
+  {
+    "id": "1221022012",
+    "district_id": "122102",
+    "name": "JANJI RAJA"
+  },
+  {
+    "id": "1221022013",
+    "district_id": "122102",
+    "name": "PANGIRKIRAN DOLOK"
+  },
+  {
+    "id": "1221022014",
+    "district_id": "122102",
+    "name": "SIHABORGOAN BARUMUN"
+  },
+  {
+    "id": "1221022015",
+    "district_id": "122102",
+    "name": "SIBORIS DOLOK"
+  },
+  {
+    "id": "1221022016",
+    "district_id": "122102",
+    "name": "PADANG MATINGGI"
+  },
+  {
+    "id": "1221022017",
+    "district_id": "122102",
+    "name": "TANDIHAT"
+  },
+  {
+    "id": "1221022018",
+    "district_id": "122102",
+    "name": "BARA BATU"
+  },
+  {
+    "id": "1221022019",
+    "district_id": "122102",
+    "name": "BAHAL BATU"
+  },
+  {
+    "id": "1221022020",
+    "district_id": "122102",
+    "name": "GINDUANG BATU"
+  },
+  {
+    "id": "1221022021",
+    "district_id": "122102",
+    "name": "PADANG GARUGUR"
+  },
+  {
+    "id": "1221022022",
+    "district_id": "122102",
+    "name": "GUNUNG MANAON"
+  },
+  {
+    "id": "1221022023",
+    "district_id": "122102",
+    "name": "SIBORIS LOMBANG"
+  },
+  {
+    "id": "1221022024",
+    "district_id": "122102",
+    "name": "JANJI MATOGU"
+  },
+  {
+    "id": "1221022025",
+    "district_id": "122102",
+    "name": "GUNUNG MALINTANG"
+  },
+  {
+    "id": "1221022026",
+    "district_id": "122102",
+    "name": "SIBATU LOTING"
+  },
+  {
+    "id": "1221022028",
+    "district_id": "122102",
+    "name": "JANJI MANAHAN"
+  },
+  {
+    "id": "1221022029",
+    "district_id": "122102",
+    "name": "SIPARAU"
+  },
+  {
+    "id": "1221022030",
+    "district_id": "122102",
+    "name": "UNTERUDANG"
+  }
+]

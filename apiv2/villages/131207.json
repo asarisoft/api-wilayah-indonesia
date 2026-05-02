@@ -1,1 +1,37 @@
-[{"id": "1312072001", "district_id": "131207", "name": "BATAHAN"}, {"id": "1312072002", "district_id": "131207", "name": "DESA BARU"}, {"id": "1312072003", "district_id": "131207", "name": "BATAHAN UTARA"}, {"id": "1312072004", "district_id": "131207", "name": "BATAHAN TENGAH"}, {"id": "1312072005", "district_id": "131207", "name": "BATAHAN BARAT"}, {"id": "1312072006", "district_id": "131207", "name": "BATAHAN SELATAN"}, {"id": "1312072007", "district_id": "131207", "name": "DESA BARU BARAT"}]
+[
+  {
+    "id": "1312072001",
+    "district_id": "131207",
+    "name": "BATAHAN"
+  },
+  {
+    "id": "1312072002",
+    "district_id": "131207",
+    "name": "DESA BARU"
+  },
+  {
+    "id": "1312072003",
+    "district_id": "131207",
+    "name": "BATAHAN UTARA"
+  },
+  {
+    "id": "1312072004",
+    "district_id": "131207",
+    "name": "BATAHAN TENGAH"
+  },
+  {
+    "id": "1312072005",
+    "district_id": "131207",
+    "name": "BATAHAN BARAT"
+  },
+  {
+    "id": "1312072006",
+    "district_id": "131207",
+    "name": "BATAHAN SELATAN"
+  },
+  {
+    "id": "1312072007",
+    "district_id": "131207",
+    "name": "DESA BARU BARAT"
+  }
+]

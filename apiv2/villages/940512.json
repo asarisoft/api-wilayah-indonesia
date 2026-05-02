@@ -1,1 +1,37 @@
-[{"id": "9405122001", "district_id": "940512", "name": "ERONG BERONG"}, {"id": "9405122002", "district_id": "940512", "name": "HIKINAT"}, {"id": "9405122003", "district_id": "940512", "name": "DAUNG"}, {"id": "9405122004", "district_id": "940512", "name": "KOMBET"}, {"id": "9405122005", "district_id": "940512", "name": "ONOP"}, {"id": "9405122006", "district_id": "940512", "name": "KULAMAGOM"}, {"id": "9405122007", "district_id": "940512", "name": "OGAMANIN"}]
+[
+  {
+    "id": "9405122001",
+    "district_id": "940512",
+    "name": "ERONG BERONG"
+  },
+  {
+    "id": "9405122002",
+    "district_id": "940512",
+    "name": "HIKINAT"
+  },
+  {
+    "id": "9405122003",
+    "district_id": "940512",
+    "name": "DAUNG"
+  },
+  {
+    "id": "9405122004",
+    "district_id": "940512",
+    "name": "KOMBET"
+  },
+  {
+    "id": "9405122005",
+    "district_id": "940512",
+    "name": "ONOP"
+  },
+  {
+    "id": "9405122006",
+    "district_id": "940512",
+    "name": "KULAMAGOM"
+  },
+  {
+    "id": "9405122007",
+    "district_id": "940512",
+    "name": "OGAMANIN"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "9503242001", "district_id": "950324", "name": "SIWIKMA"}, {"id": "9503242002", "district_id": "950324", "name": "PONTENPILIK"}, {"id": "9503242003", "district_id": "950324", "name": "PILIAM"}, {"id": "9503242004", "district_id": "950324", "name": "HIKLAHIN"}, {"id": "9503242005", "district_id": "950324", "name": "HELAPILIK"}, {"id": "9503242006", "district_id": "950324", "name": "LIRUTEK"}, {"id": "9503242007", "district_id": "950324", "name": "HUHULPUNU"}, {"id": "9503242008", "district_id": "950324", "name": "PRONGGOLI"}]
+[
+  {
+    "id": "9503242001",
+    "district_id": "950324",
+    "name": "SIWIKMA"
+  },
+  {
+    "id": "9503242002",
+    "district_id": "950324",
+    "name": "PONTENPILIK"
+  },
+  {
+    "id": "9503242003",
+    "district_id": "950324",
+    "name": "PILIAM"
+  },
+  {
+    "id": "9503242004",
+    "district_id": "950324",
+    "name": "HIKLAHIN"
+  },
+  {
+    "id": "9503242005",
+    "district_id": "950324",
+    "name": "HELAPILIK"
+  },
+  {
+    "id": "9503242006",
+    "district_id": "950324",
+    "name": "LIRUTEK"
+  },
+  {
+    "id": "9503242007",
+    "district_id": "950324",
+    "name": "HUHULPUNU"
+  },
+  {
+    "id": "9503242008",
+    "district_id": "950324",
+    "name": "PRONGGOLI"
+  }
+]

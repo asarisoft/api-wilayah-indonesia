@@ -1,1 +1,57 @@
-[{"id": "9405062001", "district_id": "940506", "name": "YAURIA"}, {"id": "9405062002", "district_id": "940506", "name": "GIGOBAK"}, {"id": "9405062003", "district_id": "940506", "name": "KALIBUK"}, {"id": "9405062004", "district_id": "940506", "name": "KELEMAME"}, {"id": "9405062005", "district_id": "940506", "name": "GULABUT"}, {"id": "9405062006", "district_id": "940506", "name": "KOLARIBANAK"}, {"id": "9405062007", "district_id": "940506", "name": "MOGULU"}, {"id": "9405062008", "district_id": "940506", "name": "GIGOBAK II"}, {"id": "9405062009", "district_id": "940506", "name": "PASIR PUTIH"}, {"id": "9405062010", "district_id": "940506", "name": "GINGGA BARU"}, {"id": "9405062011", "district_id": "940506", "name": "TENONGGAME"}]
+[
+  {
+    "id": "9405062001",
+    "district_id": "940506",
+    "name": "YAURIA"
+  },
+  {
+    "id": "9405062002",
+    "district_id": "940506",
+    "name": "GIGOBAK"
+  },
+  {
+    "id": "9405062003",
+    "district_id": "940506",
+    "name": "KALIBUK"
+  },
+  {
+    "id": "9405062004",
+    "district_id": "940506",
+    "name": "KELEMAME"
+  },
+  {
+    "id": "9405062005",
+    "district_id": "940506",
+    "name": "GULABUT"
+  },
+  {
+    "id": "9405062006",
+    "district_id": "940506",
+    "name": "KOLARIBANAK"
+  },
+  {
+    "id": "9405062007",
+    "district_id": "940506",
+    "name": "MOGULU"
+  },
+  {
+    "id": "9405062008",
+    "district_id": "940506",
+    "name": "GIGOBAK II"
+  },
+  {
+    "id": "9405062009",
+    "district_id": "940506",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "9405062010",
+    "district_id": "940506",
+    "name": "GINGGA BARU"
+  },
+  {
+    "id": "9405062011",
+    "district_id": "940506",
+    "name": "TENONGGAME"
+  }
+]

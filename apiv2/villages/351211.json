@@ -1,1 +1,42 @@
-[{"id": "3512112001", "district_id": "351211", "name": "KAYUMAS"}, {"id": "3512112002", "district_id": "351211", "name": "BAYEMAN"}, {"id": "3512112003", "district_id": "351211", "name": "KETOWAN"}, {"id": "3512112004", "district_id": "351211", "name": "KEDUNGDOWO"}, {"id": "3512112005", "district_id": "351211", "name": "JATISARI"}, {"id": "3512112006", "district_id": "351211", "name": "CURAH TATAL"}, {"id": "3512112007", "district_id": "351211", "name": "ARJASA"}, {"id": "3512112008", "district_id": "351211", "name": "LAMONGAN"}]
+[
+  {
+    "id": "3512112001",
+    "district_id": "351211",
+    "name": "KAYUMAS"
+  },
+  {
+    "id": "3512112002",
+    "district_id": "351211",
+    "name": "BAYEMAN"
+  },
+  {
+    "id": "3512112003",
+    "district_id": "351211",
+    "name": "KETOWAN"
+  },
+  {
+    "id": "3512112004",
+    "district_id": "351211",
+    "name": "KEDUNGDOWO"
+  },
+  {
+    "id": "3512112005",
+    "district_id": "351211",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3512112006",
+    "district_id": "351211",
+    "name": "CURAH TATAL"
+  },
+  {
+    "id": "3512112007",
+    "district_id": "351211",
+    "name": "ARJASA"
+  },
+  {
+    "id": "3512112008",
+    "district_id": "351211",
+    "name": "LAMONGAN"
+  }
+]

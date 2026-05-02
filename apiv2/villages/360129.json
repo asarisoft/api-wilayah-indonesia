@@ -1,1 +1,52 @@
-[{"id": "3601292001", "district_id": "360129", "name": "SEUSEUPAN"}, {"id": "3601292002", "district_id": "360129", "name": "KARYASARI"}, {"id": "3601292003", "district_id": "360129", "name": "PERDANA"}, {"id": "3601292004", "district_id": "360129", "name": "SUKARESMI"}, {"id": "3601292005", "district_id": "360129", "name": "PASIRKADU"}, {"id": "3601292006", "district_id": "360129", "name": "KUBANGKAMPIL"}, {"id": "3601292007", "district_id": "360129", "name": "SIDAMUKTI"}, {"id": "3601292008", "district_id": "360129", "name": "CIBUNGUR"}, {"id": "3601292009", "district_id": "360129", "name": "WERU"}, {"id": "3601292010", "district_id": "360129", "name": "CIKUYA"}]
+[
+  {
+    "id": "3601292001",
+    "district_id": "360129",
+    "name": "SEUSEUPAN"
+  },
+  {
+    "id": "3601292002",
+    "district_id": "360129",
+    "name": "KARYASARI"
+  },
+  {
+    "id": "3601292003",
+    "district_id": "360129",
+    "name": "PERDANA"
+  },
+  {
+    "id": "3601292004",
+    "district_id": "360129",
+    "name": "SUKARESMI"
+  },
+  {
+    "id": "3601292005",
+    "district_id": "360129",
+    "name": "PASIRKADU"
+  },
+  {
+    "id": "3601292006",
+    "district_id": "360129",
+    "name": "KUBANGKAMPIL"
+  },
+  {
+    "id": "3601292007",
+    "district_id": "360129",
+    "name": "SIDAMUKTI"
+  },
+  {
+    "id": "3601292008",
+    "district_id": "360129",
+    "name": "CIBUNGUR"
+  },
+  {
+    "id": "3601292009",
+    "district_id": "360129",
+    "name": "WERU"
+  },
+  {
+    "id": "3601292010",
+    "district_id": "360129",
+    "name": "CIKUYA"
+  }
+]

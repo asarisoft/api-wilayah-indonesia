@@ -1,1 +1,57 @@
-[{"id": "3502022001", "district_id": "350202", "name": "WONODADI"}, {"id": "3502022002", "district_id": "350202", "name": "SENDANG"}, {"id": "3502022003", "district_id": "350202", "name": "BAOSAN KIDUL"}, {"id": "3502022004", "district_id": "350202", "name": "BINADE"}, {"id": "3502022005", "district_id": "350202", "name": "MRAYAN"}, {"id": "3502022006", "district_id": "350202", "name": "BAOSAN LOR"}, {"id": "3502022007", "district_id": "350202", "name": "TEMON"}, {"id": "3502022008", "district_id": "350202", "name": "SELUR"}, {"id": "3502022009", "district_id": "350202", "name": "NGRAYUN"}, {"id": "3502022010", "district_id": "350202", "name": "CEPOKO"}, {"id": "3502022011", "district_id": "350202", "name": "GEDANGAN"}]
+[
+  {
+    "id": "3502022001",
+    "district_id": "350202",
+    "name": "WONODADI"
+  },
+  {
+    "id": "3502022002",
+    "district_id": "350202",
+    "name": "SENDANG"
+  },
+  {
+    "id": "3502022003",
+    "district_id": "350202",
+    "name": "BAOSAN KIDUL"
+  },
+  {
+    "id": "3502022004",
+    "district_id": "350202",
+    "name": "BINADE"
+  },
+  {
+    "id": "3502022005",
+    "district_id": "350202",
+    "name": "MRAYAN"
+  },
+  {
+    "id": "3502022006",
+    "district_id": "350202",
+    "name": "BAOSAN LOR"
+  },
+  {
+    "id": "3502022007",
+    "district_id": "350202",
+    "name": "TEMON"
+  },
+  {
+    "id": "3502022008",
+    "district_id": "350202",
+    "name": "SELUR"
+  },
+  {
+    "id": "3502022009",
+    "district_id": "350202",
+    "name": "NGRAYUN"
+  },
+  {
+    "id": "3502022010",
+    "district_id": "350202",
+    "name": "CEPOKO"
+  },
+  {
+    "id": "3502022011",
+    "district_id": "350202",
+    "name": "GEDANGAN"
+  }
+]

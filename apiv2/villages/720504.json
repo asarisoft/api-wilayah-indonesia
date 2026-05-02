@@ -1,1 +1,52 @@
-[{"id": "7205042001", "district_id": "720504", "name": "LONU"}, {"id": "7205042002", "district_id": "720504", "name": "TAMIT"}, {"id": "7205042003", "district_id": "720504", "name": "BOTUGOLU"}, {"id": "7205042004", "district_id": "720504", "name": "BUNOBOGU"}, {"id": "7205042005", "district_id": "720504", "name": "KONAMUKAN"}, {"id": "7205042006", "district_id": "720504", "name": "PONIPINGAN"}, {"id": "7205042007", "district_id": "720504", "name": "INALATAN"}, {"id": "7205042015", "district_id": "720504", "name": "DOMAG MEKAR"}, {"id": "7205042016", "district_id": "720504", "name": "BUNOBOGU SELATAN"}, {"id": "7205042017", "district_id": "720504", "name": "POKOBO"}]
+[
+  {
+    "id": "7205042001",
+    "district_id": "720504",
+    "name": "LONU"
+  },
+  {
+    "id": "7205042002",
+    "district_id": "720504",
+    "name": "TAMIT"
+  },
+  {
+    "id": "7205042003",
+    "district_id": "720504",
+    "name": "BOTUGOLU"
+  },
+  {
+    "id": "7205042004",
+    "district_id": "720504",
+    "name": "BUNOBOGU"
+  },
+  {
+    "id": "7205042005",
+    "district_id": "720504",
+    "name": "KONAMUKAN"
+  },
+  {
+    "id": "7205042006",
+    "district_id": "720504",
+    "name": "PONIPINGAN"
+  },
+  {
+    "id": "7205042007",
+    "district_id": "720504",
+    "name": "INALATAN"
+  },
+  {
+    "id": "7205042015",
+    "district_id": "720504",
+    "name": "DOMAG MEKAR"
+  },
+  {
+    "id": "7205042016",
+    "district_id": "720504",
+    "name": "BUNOBOGU SELATAN"
+  },
+  {
+    "id": "7205042017",
+    "district_id": "720504",
+    "name": "POKOBO"
+  }
+]

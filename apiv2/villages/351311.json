@@ -1,1 +1,67 @@
-[{"id": "3513112001", "district_id": "351311", "name": "SUMBER CENTENG"}, {"id": "3513112002", "district_id": "351311", "name": "SAMBIRAMPAK KIDUL"}, {"id": "3513112003", "district_id": "351311", "name": "SIDOMULYO"}, {"id": "3513112004", "district_id": "351311", "name": "TAMBAKUKIR"}, {"id": "3513112005", "district_id": "351311", "name": "CURAHTEMU"}, {"id": "3513112006", "district_id": "351311", "name": "SIDOREJO"}, {"id": "3513112007", "district_id": "351311", "name": "SAMBIRAMPAK LOR"}, {"id": "3513112008", "district_id": "351311", "name": "KEDUNGREJOSO"}, {"id": "3513112009", "district_id": "351311", "name": "TALKANDANG"}, {"id": "3513112010", "district_id": "351311", "name": "TRIWUNGAN"}, {"id": "3513112011", "district_id": "351311", "name": "SUKOREJO"}, {"id": "3513112012", "district_id": "351311", "name": "PASEMBON"}, {"id": "3513112013", "district_id": "351311", "name": "KOTAANYAR"}]
+[
+  {
+    "id": "3513112001",
+    "district_id": "351311",
+    "name": "SUMBER CENTENG"
+  },
+  {
+    "id": "3513112002",
+    "district_id": "351311",
+    "name": "SAMBIRAMPAK KIDUL"
+  },
+  {
+    "id": "3513112003",
+    "district_id": "351311",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3513112004",
+    "district_id": "351311",
+    "name": "TAMBAKUKIR"
+  },
+  {
+    "id": "3513112005",
+    "district_id": "351311",
+    "name": "CURAHTEMU"
+  },
+  {
+    "id": "3513112006",
+    "district_id": "351311",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3513112007",
+    "district_id": "351311",
+    "name": "SAMBIRAMPAK LOR"
+  },
+  {
+    "id": "3513112008",
+    "district_id": "351311",
+    "name": "KEDUNGREJOSO"
+  },
+  {
+    "id": "3513112009",
+    "district_id": "351311",
+    "name": "TALKANDANG"
+  },
+  {
+    "id": "3513112010",
+    "district_id": "351311",
+    "name": "TRIWUNGAN"
+  },
+  {
+    "id": "3513112011",
+    "district_id": "351311",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3513112012",
+    "district_id": "351311",
+    "name": "PASEMBON"
+  },
+  {
+    "id": "3513112013",
+    "district_id": "351311",
+    "name": "KOTAANYAR"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3323182001", "district_id": "332318", "name": "BEJEN"}, {"id": "3323182002", "district_id": "332318", "name": "BANJARSARI"}, {"id": "3323182003", "district_id": "332318", "name": "JLEGONG"}, {"id": "3323182004", "district_id": "332318", "name": "PRANGKOKAN"}, {"id": "3323182005", "district_id": "332318", "name": "LOWUNGU"}, {"id": "3323182006", "district_id": "332318", "name": "LARANGAN LUWOK"}, {"id": "3323182007", "district_id": "332318", "name": "CONGKRANG"}, {"id": "3323182008", "district_id": "332318", "name": "KEBONDALEM"}, {"id": "3323182009", "district_id": "332318", "name": "KEMUNING"}, {"id": "3323182010", "district_id": "332318", "name": "SELOSABRANG"}, {"id": "3323182011", "district_id": "332318", "name": "TANJUNGSARI"}, {"id": "3323182012", "district_id": "332318", "name": "PETUNG"}, {"id": "3323182013", "district_id": "332318", "name": "DUREN"}, {"id": "3323182014", "district_id": "332318", "name": "NGALIYAN"}]
+[
+  {
+    "id": "3323182001",
+    "district_id": "332318",
+    "name": "BEJEN"
+  },
+  {
+    "id": "3323182002",
+    "district_id": "332318",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3323182003",
+    "district_id": "332318",
+    "name": "JLEGONG"
+  },
+  {
+    "id": "3323182004",
+    "district_id": "332318",
+    "name": "PRANGKOKAN"
+  },
+  {
+    "id": "3323182005",
+    "district_id": "332318",
+    "name": "LOWUNGU"
+  },
+  {
+    "id": "3323182006",
+    "district_id": "332318",
+    "name": "LARANGAN LUWOK"
+  },
+  {
+    "id": "3323182007",
+    "district_id": "332318",
+    "name": "CONGKRANG"
+  },
+  {
+    "id": "3323182008",
+    "district_id": "332318",
+    "name": "KEBONDALEM"
+  },
+  {
+    "id": "3323182009",
+    "district_id": "332318",
+    "name": "KEMUNING"
+  },
+  {
+    "id": "3323182010",
+    "district_id": "332318",
+    "name": "SELOSABRANG"
+  },
+  {
+    "id": "3323182011",
+    "district_id": "332318",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3323182012",
+    "district_id": "332318",
+    "name": "PETUNG"
+  },
+  {
+    "id": "3323182013",
+    "district_id": "332318",
+    "name": "DUREN"
+  },
+  {
+    "id": "3323182014",
+    "district_id": "332318",
+    "name": "NGALIYAN"
+  }
+]

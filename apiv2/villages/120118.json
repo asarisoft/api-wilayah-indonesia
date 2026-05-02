@@ -1,1 +1,32 @@
-[{"id": "1201182001", "district_id": "120118", "name": "PULO PAKKAT"}, {"id": "1201182002", "district_id": "120118", "name": "TEBING TINGGI"}, {"id": "1201182003", "district_id": "120118", "name": "PULO PAKKAT II"}, {"id": "1201182004", "district_id": "120118", "name": "JANJI MARIA"}, {"id": "1201182005", "district_id": "120118", "name": "SIHADATUON"}, {"id": "1201182006", "district_id": "120118", "name": "SIHAPAS"}]
+[
+  {
+    "id": "1201182001",
+    "district_id": "120118",
+    "name": "PULO PAKKAT"
+  },
+  {
+    "id": "1201182002",
+    "district_id": "120118",
+    "name": "TEBING TINGGI"
+  },
+  {
+    "id": "1201182003",
+    "district_id": "120118",
+    "name": "PULO PAKKAT II"
+  },
+  {
+    "id": "1201182004",
+    "district_id": "120118",
+    "name": "JANJI MARIA"
+  },
+  {
+    "id": "1201182005",
+    "district_id": "120118",
+    "name": "SIHADATUON"
+  },
+  {
+    "id": "1201182006",
+    "district_id": "120118",
+    "name": "SIHAPAS"
+  }
+]

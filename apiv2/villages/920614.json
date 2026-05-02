@@ -1,1 +1,27 @@
-[{"id": "9206142001", "district_id": "920614", "name": "TOFOI"}, {"id": "9206142002", "district_id": "920614", "name": "TANAH MERAH"}, {"id": "9206142003", "district_id": "920614", "name": "SAENGGA"}, {"id": "9206142004", "district_id": "920614", "name": "FORADA"}, {"id": "9206142005", "district_id": "920614", "name": "MATERABU JAYA"}]
+[
+  {
+    "id": "9206142001",
+    "district_id": "920614",
+    "name": "TOFOI"
+  },
+  {
+    "id": "9206142002",
+    "district_id": "920614",
+    "name": "TANAH MERAH"
+  },
+  {
+    "id": "9206142003",
+    "district_id": "920614",
+    "name": "SAENGGA"
+  },
+  {
+    "id": "9206142004",
+    "district_id": "920614",
+    "name": "FORADA"
+  },
+  {
+    "id": "9206142005",
+    "district_id": "920614",
+    "name": "MATERABU JAYA"
+  }
+]

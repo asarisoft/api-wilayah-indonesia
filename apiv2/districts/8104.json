@@ -1,1 +1,52 @@
-[{"id": "810401", "regency_id": "8104", "name": "NAMLEA"}, {"id": "810402", "regency_id": "8104", "name": "AIR BUAYA"}, {"id": "810403", "regency_id": "8104", "name": "WAEAPO"}, {"id": "810406", "regency_id": "8104", "name": "WAPLAU"}, {"id": "810410", "regency_id": "8104", "name": "BATABUAL"}, {"id": "810411", "regency_id": "8104", "name": "LOLONG GUBA"}, {"id": "810412", "regency_id": "8104", "name": "WAELATA"}, {"id": "810413", "regency_id": "8104", "name": "FENA LEISELA"}, {"id": "810414", "regency_id": "8104", "name": "TELUK KAIELY"}, {"id": "810415", "regency_id": "8104", "name": "LILIALY"}]
+[
+  {
+    "id": "810401",
+    "regency_id": "8104",
+    "name": "NAMLEA"
+  },
+  {
+    "id": "810402",
+    "regency_id": "8104",
+    "name": "AIR BUAYA"
+  },
+  {
+    "id": "810403",
+    "regency_id": "8104",
+    "name": "WAEAPO"
+  },
+  {
+    "id": "810406",
+    "regency_id": "8104",
+    "name": "WAPLAU"
+  },
+  {
+    "id": "810410",
+    "regency_id": "8104",
+    "name": "BATABUAL"
+  },
+  {
+    "id": "810411",
+    "regency_id": "8104",
+    "name": "LOLONG GUBA"
+  },
+  {
+    "id": "810412",
+    "regency_id": "8104",
+    "name": "WAELATA"
+  },
+  {
+    "id": "810413",
+    "regency_id": "8104",
+    "name": "FENA LEISELA"
+  },
+  {
+    "id": "810414",
+    "regency_id": "8104",
+    "name": "TELUK KAIELY"
+  },
+  {
+    "id": "810415",
+    "regency_id": "8104",
+    "name": "LILIALY"
+  }
+]

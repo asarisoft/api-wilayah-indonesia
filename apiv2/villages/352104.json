@@ -1,1 +1,52 @@
-[{"id": "3521042001", "district_id": "352104", "name": "KARANGGUPITO"}, {"id": "3521042002", "district_id": "352104", "name": "KARANGREJO"}, {"id": "3521042003", "district_id": "352104", "name": "SIMO"}, {"id": "3521042004", "district_id": "352104", "name": "PLOSO"}, {"id": "3521042005", "district_id": "352104", "name": "MAJASEM"}, {"id": "3521042006", "district_id": "352104", "name": "KENDAL"}, {"id": "3521042007", "district_id": "352104", "name": "SIDOREJO"}, {"id": "3521042008", "district_id": "352104", "name": "GAYAM"}, {"id": "3521042009", "district_id": "352104", "name": "DADAPAN"}, {"id": "3521042010", "district_id": "352104", "name": "PATALAN"}]
+[
+  {
+    "id": "3521042001",
+    "district_id": "352104",
+    "name": "KARANGGUPITO"
+  },
+  {
+    "id": "3521042002",
+    "district_id": "352104",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3521042003",
+    "district_id": "352104",
+    "name": "SIMO"
+  },
+  {
+    "id": "3521042004",
+    "district_id": "352104",
+    "name": "PLOSO"
+  },
+  {
+    "id": "3521042005",
+    "district_id": "352104",
+    "name": "MAJASEM"
+  },
+  {
+    "id": "3521042006",
+    "district_id": "352104",
+    "name": "KENDAL"
+  },
+  {
+    "id": "3521042007",
+    "district_id": "352104",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3521042008",
+    "district_id": "352104",
+    "name": "GAYAM"
+  },
+  {
+    "id": "3521042009",
+    "district_id": "352104",
+    "name": "DADAPAN"
+  },
+  {
+    "id": "3521042010",
+    "district_id": "352104",
+    "name": "PATALAN"
+  }
+]

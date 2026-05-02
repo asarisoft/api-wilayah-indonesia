@@ -1,1 +1,42 @@
-[{"id": "9120022001", "district_id": "912002", "name": "DABRA"}, {"id": "9120022002", "district_id": "912002", "name": "TAIYEVE"}, {"id": "9120022003", "district_id": "912002", "name": "FUAO"}, {"id": "9120022004", "district_id": "912002", "name": "PAPASENA I"}, {"id": "9120022005", "district_id": "912002", "name": "PAPASENA II"}, {"id": "9120022006", "district_id": "912002", "name": "DOU"}, {"id": "9120022008", "district_id": "912002", "name": "FOKRI"}, {"id": "9120022015", "district_id": "912002", "name": "TARIA"}]
+[
+  {
+    "id": "9120022001",
+    "district_id": "912002",
+    "name": "DABRA"
+  },
+  {
+    "id": "9120022002",
+    "district_id": "912002",
+    "name": "TAIYEVE"
+  },
+  {
+    "id": "9120022003",
+    "district_id": "912002",
+    "name": "FUAO"
+  },
+  {
+    "id": "9120022004",
+    "district_id": "912002",
+    "name": "PAPASENA I"
+  },
+  {
+    "id": "9120022005",
+    "district_id": "912002",
+    "name": "PAPASENA II"
+  },
+  {
+    "id": "9120022006",
+    "district_id": "912002",
+    "name": "DOU"
+  },
+  {
+    "id": "9120022008",
+    "district_id": "912002",
+    "name": "FOKRI"
+  },
+  {
+    "id": "9120022015",
+    "district_id": "912002",
+    "name": "TARIA"
+  }
+]

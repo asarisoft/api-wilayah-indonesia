@@ -1,1 +1,42 @@
-[{"id": "3313112001", "district_id": "331311", "name": "SURUHKALANG"}, {"id": "3313112002", "district_id": "331311", "name": "JATI"}, {"id": "3313112003", "district_id": "331311", "name": "JATEN"}, {"id": "3313112004", "district_id": "331311", "name": "DAGEN"}, {"id": "3313112005", "district_id": "331311", "name": "NGRINGO"}, {"id": "3313112006", "district_id": "331311", "name": "JETIS"}, {"id": "3313112007", "district_id": "331311", "name": "SROYO"}, {"id": "3313112008", "district_id": "331311", "name": "BRUJUL"}]
+[
+  {
+    "id": "3313112001",
+    "district_id": "331311",
+    "name": "SURUHKALANG"
+  },
+  {
+    "id": "3313112002",
+    "district_id": "331311",
+    "name": "JATI"
+  },
+  {
+    "id": "3313112003",
+    "district_id": "331311",
+    "name": "JATEN"
+  },
+  {
+    "id": "3313112004",
+    "district_id": "331311",
+    "name": "DAGEN"
+  },
+  {
+    "id": "3313112005",
+    "district_id": "331311",
+    "name": "NGRINGO"
+  },
+  {
+    "id": "3313112006",
+    "district_id": "331311",
+    "name": "JETIS"
+  },
+  {
+    "id": "3313112007",
+    "district_id": "331311",
+    "name": "SROYO"
+  },
+  {
+    "id": "3313112008",
+    "district_id": "331311",
+    "name": "BRUJUL"
+  }
+]

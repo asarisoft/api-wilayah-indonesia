@@ -1,1 +1,37 @@
-[{"id": "7304092001", "district_id": "730409", "name": "BULO BULO"}, {"id": "7304092002", "district_id": "730409", "name": "ARUNGKEKE"}, {"id": "7304092003", "district_id": "730409", "name": "PALAJAU"}, {"id": "7304092004", "district_id": "730409", "name": "BORONGLAMU"}, {"id": "7304092005", "district_id": "730409", "name": "ARUNGKEKE PALLANTIKANG"}, {"id": "7304092006", "district_id": "730409", "name": "KALUMPANGLOE"}, {"id": "7304092007", "district_id": "730409", "name": "KAMPALA"}]
+[
+  {
+    "id": "7304092001",
+    "district_id": "730409",
+    "name": "BULO BULO"
+  },
+  {
+    "id": "7304092002",
+    "district_id": "730409",
+    "name": "ARUNGKEKE"
+  },
+  {
+    "id": "7304092003",
+    "district_id": "730409",
+    "name": "PALAJAU"
+  },
+  {
+    "id": "7304092004",
+    "district_id": "730409",
+    "name": "BORONGLAMU"
+  },
+  {
+    "id": "7304092005",
+    "district_id": "730409",
+    "name": "ARUNGKEKE PALLANTIKANG"
+  },
+  {
+    "id": "7304092006",
+    "district_id": "730409",
+    "name": "KALUMPANGLOE"
+  },
+  {
+    "id": "7304092007",
+    "district_id": "730409",
+    "name": "KAMPALA"
+  }
+]

@@ -1,1 +1,102 @@
-[{"id": "9503042001", "district_id": "950304", "name": "MOMNOAK"}, {"id": "9503042002", "district_id": "950304", "name": "SILIMO"}, {"id": "9503042003", "district_id": "950304", "name": "EKSA"}, {"id": "9503042004", "district_id": "950304", "name": "SILOMA"}, {"id": "9503042005", "district_id": "950304", "name": "ASIA"}, {"id": "9503042006", "district_id": "950304", "name": "SUET"}, {"id": "9503042007", "district_id": "950304", "name": "WALKRUK"}, {"id": "9503042008", "district_id": "950304", "name": "SODULE"}, {"id": "9503042009", "district_id": "950304", "name": "SAGADUK"}, {"id": "9503042010", "district_id": "950304", "name": "SIANELE"}, {"id": "9503042011", "district_id": "950304", "name": "EREMNAHOM"}, {"id": "9503042012", "district_id": "950304", "name": "SILON"}, {"id": "9503042013", "district_id": "950304", "name": "NIKILEI"}, {"id": "9503042014", "district_id": "950304", "name": "SUOK"}, {"id": "9503042015", "district_id": "950304", "name": "FABE"}, {"id": "9503042016", "district_id": "950304", "name": "WEAKMA"}, {"id": "9503042017", "district_id": "950304", "name": "PINDA"}, {"id": "9503042018", "district_id": "950304", "name": "HWESALEMO"}, {"id": "9503042019", "district_id": "950304", "name": "SEBIN"}, {"id": "9503042020", "district_id": "950304", "name": "WUBIALO"}]
+[
+  {
+    "id": "9503042001",
+    "district_id": "950304",
+    "name": "MOMNOAK"
+  },
+  {
+    "id": "9503042002",
+    "district_id": "950304",
+    "name": "SILIMO"
+  },
+  {
+    "id": "9503042003",
+    "district_id": "950304",
+    "name": "EKSA"
+  },
+  {
+    "id": "9503042004",
+    "district_id": "950304",
+    "name": "SILOMA"
+  },
+  {
+    "id": "9503042005",
+    "district_id": "950304",
+    "name": "ASIA"
+  },
+  {
+    "id": "9503042006",
+    "district_id": "950304",
+    "name": "SUET"
+  },
+  {
+    "id": "9503042007",
+    "district_id": "950304",
+    "name": "WALKRUK"
+  },
+  {
+    "id": "9503042008",
+    "district_id": "950304",
+    "name": "SODULE"
+  },
+  {
+    "id": "9503042009",
+    "district_id": "950304",
+    "name": "SAGADUK"
+  },
+  {
+    "id": "9503042010",
+    "district_id": "950304",
+    "name": "SIANELE"
+  },
+  {
+    "id": "9503042011",
+    "district_id": "950304",
+    "name": "EREMNAHOM"
+  },
+  {
+    "id": "9503042012",
+    "district_id": "950304",
+    "name": "SILON"
+  },
+  {
+    "id": "9503042013",
+    "district_id": "950304",
+    "name": "NIKILEI"
+  },
+  {
+    "id": "9503042014",
+    "district_id": "950304",
+    "name": "SUOK"
+  },
+  {
+    "id": "9503042015",
+    "district_id": "950304",
+    "name": "FABE"
+  },
+  {
+    "id": "9503042016",
+    "district_id": "950304",
+    "name": "WEAKMA"
+  },
+  {
+    "id": "9503042017",
+    "district_id": "950304",
+    "name": "PINDA"
+  },
+  {
+    "id": "9503042018",
+    "district_id": "950304",
+    "name": "HWESALEMO"
+  },
+  {
+    "id": "9503042019",
+    "district_id": "950304",
+    "name": "SEBIN"
+  },
+  {
+    "id": "9503042020",
+    "district_id": "950304",
+    "name": "WUBIALO"
+  }
+]

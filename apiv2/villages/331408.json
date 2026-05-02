@@ -1,1 +1,42 @@
-[{"id": "3314082001", "district_id": "331408", "name": "NGARUM"}, {"id": "3314082002", "district_id": "331408", "name": "BENER"}, {"id": "3314082003", "district_id": "331408", "name": "PILANGSARI"}, {"id": "3314082004", "district_id": "331408", "name": "BANDUNG"}, {"id": "3314082005", "district_id": "331408", "name": "KEBONROMO"}, {"id": "3314082006", "district_id": "331408", "name": "GABUS"}, {"id": "3314082007", "district_id": "331408", "name": "KARANGUDI"}, {"id": "3314082008", "district_id": "331408", "name": "KLANDUNGAN"}]
+[
+  {
+    "id": "3314082001",
+    "district_id": "331408",
+    "name": "NGARUM"
+  },
+  {
+    "id": "3314082002",
+    "district_id": "331408",
+    "name": "BENER"
+  },
+  {
+    "id": "3314082003",
+    "district_id": "331408",
+    "name": "PILANGSARI"
+  },
+  {
+    "id": "3314082004",
+    "district_id": "331408",
+    "name": "BANDUNG"
+  },
+  {
+    "id": "3314082005",
+    "district_id": "331408",
+    "name": "KEBONROMO"
+  },
+  {
+    "id": "3314082006",
+    "district_id": "331408",
+    "name": "GABUS"
+  },
+  {
+    "id": "3314082007",
+    "district_id": "331408",
+    "name": "KARANGUDI"
+  },
+  {
+    "id": "3314082008",
+    "district_id": "331408",
+    "name": "KLANDUNGAN"
+  }
+]

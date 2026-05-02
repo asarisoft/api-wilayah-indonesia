@@ -1,1 +1,47 @@
-[{"id": "8107052001", "district_id": "810705", "name": "KABALSIANG"}, {"id": "8107052002", "district_id": "810705", "name": "BENJURING"}, {"id": "8107052003", "district_id": "810705", "name": "BATULEY"}, {"id": "8107052004", "district_id": "810705", "name": "KUMUL"}, {"id": "8107052005", "district_id": "810705", "name": "WARIA"}, {"id": "8107052006", "district_id": "810705", "name": "SEWER"}, {"id": "8107052007", "district_id": "810705", "name": "JURSIANG"}, {"id": "8107052008", "district_id": "810705", "name": "KOMPANE"}, {"id": "8107052009", "district_id": "810705", "name": "KOBAMAR"}]
+[
+  {
+    "id": "8107052001",
+    "district_id": "810705",
+    "name": "KABALSIANG"
+  },
+  {
+    "id": "8107052002",
+    "district_id": "810705",
+    "name": "BENJURING"
+  },
+  {
+    "id": "8107052003",
+    "district_id": "810705",
+    "name": "BATULEY"
+  },
+  {
+    "id": "8107052004",
+    "district_id": "810705",
+    "name": "KUMUL"
+  },
+  {
+    "id": "8107052005",
+    "district_id": "810705",
+    "name": "WARIA"
+  },
+  {
+    "id": "8107052006",
+    "district_id": "810705",
+    "name": "SEWER"
+  },
+  {
+    "id": "8107052007",
+    "district_id": "810705",
+    "name": "JURSIANG"
+  },
+  {
+    "id": "8107052008",
+    "district_id": "810705",
+    "name": "KOMPANE"
+  },
+  {
+    "id": "8107052009",
+    "district_id": "810705",
+    "name": "KOBAMAR"
+  }
+]

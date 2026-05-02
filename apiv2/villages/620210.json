@@ -1,1 +1,77 @@
-[{"id": "6202102001", "district_id": "620210", "name": "TUMBANG KALANG"}, {"id": "6202102002", "district_id": "620210", "name": "KULUK TELAWANG"}, {"id": "6202102003", "district_id": "620210", "name": "SUNGAI PURING"}, {"id": "6202102004", "district_id": "620210", "name": "TUMBANG NGAHAN"}, {"id": "6202102005", "district_id": "620210", "name": "TUMBANG RAMEI"}, {"id": "6202102006", "district_id": "620210", "name": "TUMBANG HEJAN"}, {"id": "6202102007", "district_id": "620210", "name": "SUNGAI HANYA"}, {"id": "6202102008", "district_id": "620210", "name": "TUMBANG SEPAYANG"}, {"id": "6202102016", "district_id": "620210", "name": "BUNTUT NUSA"}, {"id": "6202102017", "district_id": "620210", "name": "TUMBANG GAGU"}, {"id": "6202102021", "district_id": "620210", "name": "TUMBANG MANYA"}, {"id": "6202102025", "district_id": "620210", "name": "GUNUNG MAKMUR"}, {"id": "6202102027", "district_id": "620210", "name": "MULYA AGUNG"}, {"id": "6202102028", "district_id": "620210", "name": "BHAKTI KARYA"}, {"id": "6202102029", "district_id": "620210", "name": "WARINGIN AGUNG"}]
+[
+  {
+    "id": "6202102001",
+    "district_id": "620210",
+    "name": "TUMBANG KALANG"
+  },
+  {
+    "id": "6202102002",
+    "district_id": "620210",
+    "name": "KULUK TELAWANG"
+  },
+  {
+    "id": "6202102003",
+    "district_id": "620210",
+    "name": "SUNGAI PURING"
+  },
+  {
+    "id": "6202102004",
+    "district_id": "620210",
+    "name": "TUMBANG NGAHAN"
+  },
+  {
+    "id": "6202102005",
+    "district_id": "620210",
+    "name": "TUMBANG RAMEI"
+  },
+  {
+    "id": "6202102006",
+    "district_id": "620210",
+    "name": "TUMBANG HEJAN"
+  },
+  {
+    "id": "6202102007",
+    "district_id": "620210",
+    "name": "SUNGAI HANYA"
+  },
+  {
+    "id": "6202102008",
+    "district_id": "620210",
+    "name": "TUMBANG SEPAYANG"
+  },
+  {
+    "id": "6202102016",
+    "district_id": "620210",
+    "name": "BUNTUT NUSA"
+  },
+  {
+    "id": "6202102017",
+    "district_id": "620210",
+    "name": "TUMBANG GAGU"
+  },
+  {
+    "id": "6202102021",
+    "district_id": "620210",
+    "name": "TUMBANG MANYA"
+  },
+  {
+    "id": "6202102025",
+    "district_id": "620210",
+    "name": "GUNUNG MAKMUR"
+  },
+  {
+    "id": "6202102027",
+    "district_id": "620210",
+    "name": "MULYA AGUNG"
+  },
+  {
+    "id": "6202102028",
+    "district_id": "620210",
+    "name": "BHAKTI KARYA"
+  },
+  {
+    "id": "6202102029",
+    "district_id": "620210",
+    "name": "WARINGIN AGUNG"
+  }
+]

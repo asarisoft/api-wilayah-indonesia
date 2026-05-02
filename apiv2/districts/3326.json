@@ -1,1 +1,97 @@
-[{"id": "332601", "regency_id": "3326", "name": "KANDANGSERANG"}, {"id": "332602", "regency_id": "3326", "name": "PANINGGARAN"}, {"id": "332603", "regency_id": "3326", "name": "LEBAKBARANG"}, {"id": "332604", "regency_id": "3326", "name": "PETUNGKRIYONO"}, {"id": "332605", "regency_id": "3326", "name": "TALUN"}, {"id": "332606", "regency_id": "3326", "name": "DORO"}, {"id": "332607", "regency_id": "3326", "name": "KARANGANYAR"}, {"id": "332608", "regency_id": "3326", "name": "KAJEN"}, {"id": "332609", "regency_id": "3326", "name": "KESESI"}, {"id": "332610", "regency_id": "3326", "name": "SRAGI"}, {"id": "332611", "regency_id": "3326", "name": "BOJONG"}, {"id": "332612", "regency_id": "3326", "name": "WONOPRINGGO"}, {"id": "332613", "regency_id": "3326", "name": "KEDUNGWUNI"}, {"id": "332614", "regency_id": "3326", "name": "BUARAN"}, {"id": "332615", "regency_id": "3326", "name": "TIRTO"}, {"id": "332616", "regency_id": "3326", "name": "WIRADESA"}, {"id": "332617", "regency_id": "3326", "name": "SIWALAN"}, {"id": "332618", "regency_id": "3326", "name": "KARANGDADAP"}, {"id": "332619", "regency_id": "3326", "name": "WONOKERTO"}]
+[
+  {
+    "id": "332601",
+    "regency_id": "3326",
+    "name": "KANDANGSERANG"
+  },
+  {
+    "id": "332602",
+    "regency_id": "3326",
+    "name": "PANINGGARAN"
+  },
+  {
+    "id": "332603",
+    "regency_id": "3326",
+    "name": "LEBAKBARANG"
+  },
+  {
+    "id": "332604",
+    "regency_id": "3326",
+    "name": "PETUNGKRIYONO"
+  },
+  {
+    "id": "332605",
+    "regency_id": "3326",
+    "name": "TALUN"
+  },
+  {
+    "id": "332606",
+    "regency_id": "3326",
+    "name": "DORO"
+  },
+  {
+    "id": "332607",
+    "regency_id": "3326",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "332608",
+    "regency_id": "3326",
+    "name": "KAJEN"
+  },
+  {
+    "id": "332609",
+    "regency_id": "3326",
+    "name": "KESESI"
+  },
+  {
+    "id": "332610",
+    "regency_id": "3326",
+    "name": "SRAGI"
+  },
+  {
+    "id": "332611",
+    "regency_id": "3326",
+    "name": "BOJONG"
+  },
+  {
+    "id": "332612",
+    "regency_id": "3326",
+    "name": "WONOPRINGGO"
+  },
+  {
+    "id": "332613",
+    "regency_id": "3326",
+    "name": "KEDUNGWUNI"
+  },
+  {
+    "id": "332614",
+    "regency_id": "3326",
+    "name": "BUARAN"
+  },
+  {
+    "id": "332615",
+    "regency_id": "3326",
+    "name": "TIRTO"
+  },
+  {
+    "id": "332616",
+    "regency_id": "3326",
+    "name": "WIRADESA"
+  },
+  {
+    "id": "332617",
+    "regency_id": "3326",
+    "name": "SIWALAN"
+  },
+  {
+    "id": "332618",
+    "regency_id": "3326",
+    "name": "KARANGDADAP"
+  },
+  {
+    "id": "332619",
+    "regency_id": "3326",
+    "name": "WONOKERTO"
+  }
+]

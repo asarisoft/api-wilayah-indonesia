@@ -1,1 +1,92 @@
-[{"id": "5314031001", "district_id": "531403", "name": "NAMODALE"}, {"id": "5314031009", "district_id": "531403", "name": "MOKDALE"}, {"id": "5314031011", "district_id": "531403", "name": "METINA"}, {"id": "5314032002", "district_id": "531403", "name": "KULI"}, {"id": "5314032003", "district_id": "531403", "name": "BEBALAIN"}, {"id": "5314032004", "district_id": "531403", "name": "KOLOBOLON"}, {"id": "5314032005", "district_id": "531403", "name": "HELEBEIK"}, {"id": "5314032006", "district_id": "531403", "name": "SANGGAOEN"}, {"id": "5314032007", "district_id": "531403", "name": "HOLOAMA"}, {"id": "5314032008", "district_id": "531403", "name": "TUANATUK"}, {"id": "5314032010", "district_id": "531403", "name": "OELUNGGU"}, {"id": "5314032012", "district_id": "531403", "name": "OEMATAMBOLI"}, {"id": "5314032013", "district_id": "531403", "name": "SUELAIN"}, {"id": "5314032014", "district_id": "531403", "name": "BAADALE"}, {"id": "5314032015", "district_id": "531403", "name": "LEKUNIK"}, {"id": "5314032016", "district_id": "531403", "name": "LOLEOEN"}, {"id": "5314032017", "district_id": "531403", "name": "KULI AISELE"}, {"id": "5314032018", "district_id": "531403", "name": "OELEKA"}]
+[
+  {
+    "id": "5314031001",
+    "district_id": "531403",
+    "name": "NAMODALE"
+  },
+  {
+    "id": "5314031009",
+    "district_id": "531403",
+    "name": "MOKDALE"
+  },
+  {
+    "id": "5314031011",
+    "district_id": "531403",
+    "name": "METINA"
+  },
+  {
+    "id": "5314032002",
+    "district_id": "531403",
+    "name": "KULI"
+  },
+  {
+    "id": "5314032003",
+    "district_id": "531403",
+    "name": "BEBALAIN"
+  },
+  {
+    "id": "5314032004",
+    "district_id": "531403",
+    "name": "KOLOBOLON"
+  },
+  {
+    "id": "5314032005",
+    "district_id": "531403",
+    "name": "HELEBEIK"
+  },
+  {
+    "id": "5314032006",
+    "district_id": "531403",
+    "name": "SANGGAOEN"
+  },
+  {
+    "id": "5314032007",
+    "district_id": "531403",
+    "name": "HOLOAMA"
+  },
+  {
+    "id": "5314032008",
+    "district_id": "531403",
+    "name": "TUANATUK"
+  },
+  {
+    "id": "5314032010",
+    "district_id": "531403",
+    "name": "OELUNGGU"
+  },
+  {
+    "id": "5314032012",
+    "district_id": "531403",
+    "name": "OEMATAMBOLI"
+  },
+  {
+    "id": "5314032013",
+    "district_id": "531403",
+    "name": "SUELAIN"
+  },
+  {
+    "id": "5314032014",
+    "district_id": "531403",
+    "name": "BAADALE"
+  },
+  {
+    "id": "5314032015",
+    "district_id": "531403",
+    "name": "LEKUNIK"
+  },
+  {
+    "id": "5314032016",
+    "district_id": "531403",
+    "name": "LOLEOEN"
+  },
+  {
+    "id": "5314032017",
+    "district_id": "531403",
+    "name": "KULI AISELE"
+  },
+  {
+    "id": "5314032018",
+    "district_id": "531403",
+    "name": "OELEKA"
+  }
+]

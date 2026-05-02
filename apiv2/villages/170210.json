@@ -1,1 +1,62 @@
-[{"id": "1702102001", "district_id": "170210", "name": "AIR MUNDU"}, {"id": "1702102002", "district_id": "170210", "name": "TEBAT TENONG DALAM"}, {"id": "1702102003", "district_id": "170210", "name": "BARU MANIS"}, {"id": "1702102012", "district_id": "170210", "name": "KAMPUNG MELAYU"}, {"id": "1702102013", "district_id": "170210", "name": "SENTRAL BARU"}, {"id": "1702102015", "district_id": "170210", "name": "KAMPUNG SAJAD"}, {"id": "1702102016", "district_id": "170210", "name": "SUKA RAMI"}, {"id": "1702102017", "district_id": "170210", "name": "PAGAR GUNUNG"}, {"id": "1702102018", "district_id": "170210", "name": "SELAMAT SUDIARJO"}, {"id": "1702102019", "district_id": "170210", "name": "PURWODADI"}, {"id": "1702102020", "district_id": "170210", "name": "AIR PIKAT"}, {"id": "1702102021", "district_id": "170210", "name": "TEBAT PULAU"}]
+[
+  {
+    "id": "1702102001",
+    "district_id": "170210",
+    "name": "AIR MUNDU"
+  },
+  {
+    "id": "1702102002",
+    "district_id": "170210",
+    "name": "TEBAT TENONG DALAM"
+  },
+  {
+    "id": "1702102003",
+    "district_id": "170210",
+    "name": "BARU MANIS"
+  },
+  {
+    "id": "1702102012",
+    "district_id": "170210",
+    "name": "KAMPUNG MELAYU"
+  },
+  {
+    "id": "1702102013",
+    "district_id": "170210",
+    "name": "SENTRAL BARU"
+  },
+  {
+    "id": "1702102015",
+    "district_id": "170210",
+    "name": "KAMPUNG SAJAD"
+  },
+  {
+    "id": "1702102016",
+    "district_id": "170210",
+    "name": "SUKA RAMI"
+  },
+  {
+    "id": "1702102017",
+    "district_id": "170210",
+    "name": "PAGAR GUNUNG"
+  },
+  {
+    "id": "1702102018",
+    "district_id": "170210",
+    "name": "SELAMAT SUDIARJO"
+  },
+  {
+    "id": "1702102019",
+    "district_id": "170210",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "1702102020",
+    "district_id": "170210",
+    "name": "AIR PIKAT"
+  },
+  {
+    "id": "1702102021",
+    "district_id": "170210",
+    "name": "TEBAT PULAU"
+  }
+]

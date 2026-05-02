@@ -1,1 +1,52 @@
-[{"id": "3213162001", "district_id": "321316", "name": "RANCABANGO"}, {"id": "3213162002", "district_id": "321316", "name": "TANJUNGRASA"}, {"id": "3213162003", "district_id": "321316", "name": "CIBERES"}, {"id": "3213162004", "district_id": "321316", "name": "JATIRAGAS HILIR"}, {"id": "3213162005", "district_id": "321316", "name": "TAMBAKJATI"}, {"id": "3213162006", "district_id": "321316", "name": "RANCAJAYA"}, {"id": "3213162007", "district_id": "321316", "name": "GEMPOLSARI"}, {"id": "3213162008", "district_id": "321316", "name": "TANJUNGRASA KIDUL"}, {"id": "3213162009", "district_id": "321316", "name": "RANCAASIH"}, {"id": "3213162010", "district_id": "321316", "name": "RANCAMULYA"}]
+[
+  {
+    "id": "3213162001",
+    "district_id": "321316",
+    "name": "RANCABANGO"
+  },
+  {
+    "id": "3213162002",
+    "district_id": "321316",
+    "name": "TANJUNGRASA"
+  },
+  {
+    "id": "3213162003",
+    "district_id": "321316",
+    "name": "CIBERES"
+  },
+  {
+    "id": "3213162004",
+    "district_id": "321316",
+    "name": "JATIRAGAS HILIR"
+  },
+  {
+    "id": "3213162005",
+    "district_id": "321316",
+    "name": "TAMBAKJATI"
+  },
+  {
+    "id": "3213162006",
+    "district_id": "321316",
+    "name": "RANCAJAYA"
+  },
+  {
+    "id": "3213162007",
+    "district_id": "321316",
+    "name": "GEMPOLSARI"
+  },
+  {
+    "id": "3213162008",
+    "district_id": "321316",
+    "name": "TANJUNGRASA KIDUL"
+  },
+  {
+    "id": "3213162009",
+    "district_id": "321316",
+    "name": "RANCAASIH"
+  },
+  {
+    "id": "3213162010",
+    "district_id": "321316",
+    "name": "RANCAMULYA"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "510201", "regency_id": "5102", "name": "SELEMADEG"}, {"id": "510202", "regency_id": "5102", "name": "SELEMADEG TIMUR"}, {"id": "510203", "regency_id": "5102", "name": "SELEMADEG BARAT"}, {"id": "510204", "regency_id": "5102", "name": "KERAMBITAN"}, {"id": "510205", "regency_id": "5102", "name": "TABANAN"}, {"id": "510206", "regency_id": "5102", "name": "KEDIRI"}, {"id": "510207", "regency_id": "5102", "name": "MARGA"}, {"id": "510208", "regency_id": "5102", "name": "PENEBEL"}, {"id": "510209", "regency_id": "5102", "name": "BATURITI"}, {"id": "510210", "regency_id": "5102", "name": "PUPUAN"}]
+[
+  {
+    "id": "510201",
+    "regency_id": "5102",
+    "name": "SELEMADEG"
+  },
+  {
+    "id": "510202",
+    "regency_id": "5102",
+    "name": "SELEMADEG TIMUR"
+  },
+  {
+    "id": "510203",
+    "regency_id": "5102",
+    "name": "SELEMADEG BARAT"
+  },
+  {
+    "id": "510204",
+    "regency_id": "5102",
+    "name": "KERAMBITAN"
+  },
+  {
+    "id": "510205",
+    "regency_id": "5102",
+    "name": "TABANAN"
+  },
+  {
+    "id": "510206",
+    "regency_id": "5102",
+    "name": "KEDIRI"
+  },
+  {
+    "id": "510207",
+    "regency_id": "5102",
+    "name": "MARGA"
+  },
+  {
+    "id": "510208",
+    "regency_id": "5102",
+    "name": "PENEBEL"
+  },
+  {
+    "id": "510209",
+    "regency_id": "5102",
+    "name": "BATURITI"
+  },
+  {
+    "id": "510210",
+    "regency_id": "5102",
+    "name": "PUPUAN"
+  }
+]

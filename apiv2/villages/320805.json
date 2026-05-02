@@ -1,1 +1,52 @@
-[{"id": "3208052001", "district_id": "320805", "name": "CIPONDOK"}, {"id": "3208052002", "district_id": "320805", "name": "SINDANGJAWA"}, {"id": "3208052003", "district_id": "320805", "name": "CIANGIR"}, {"id": "3208052004", "district_id": "320805", "name": "CIBINGBIN"}, {"id": "3208052005", "district_id": "320805", "name": "CITENJO"}, {"id": "3208052006", "district_id": "320805", "name": "DUKUHBADAG"}, {"id": "3208052007", "district_id": "320805", "name": "BANTARPANJANG"}, {"id": "3208052008", "district_id": "320805", "name": "SUKAMAJU"}, {"id": "3208052009", "district_id": "320805", "name": "SUKAHARJA"}, {"id": "3208052010", "district_id": "320805", "name": "CISAAT"}]
+[
+  {
+    "id": "3208052001",
+    "district_id": "320805",
+    "name": "CIPONDOK"
+  },
+  {
+    "id": "3208052002",
+    "district_id": "320805",
+    "name": "SINDANGJAWA"
+  },
+  {
+    "id": "3208052003",
+    "district_id": "320805",
+    "name": "CIANGIR"
+  },
+  {
+    "id": "3208052004",
+    "district_id": "320805",
+    "name": "CIBINGBIN"
+  },
+  {
+    "id": "3208052005",
+    "district_id": "320805",
+    "name": "CITENJO"
+  },
+  {
+    "id": "3208052006",
+    "district_id": "320805",
+    "name": "DUKUHBADAG"
+  },
+  {
+    "id": "3208052007",
+    "district_id": "320805",
+    "name": "BANTARPANJANG"
+  },
+  {
+    "id": "3208052008",
+    "district_id": "320805",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3208052009",
+    "district_id": "320805",
+    "name": "SUKAHARJA"
+  },
+  {
+    "id": "3208052010",
+    "district_id": "320805",
+    "name": "CISAAT"
+  }
+]

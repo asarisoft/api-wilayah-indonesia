@@ -1,1 +1,57 @@
-[{"id": "1703122001", "district_id": "170312", "name": "URAI"}, {"id": "1703122002", "district_id": "170312", "name": "PASAR KETAHUN"}, {"id": "1703122003", "district_id": "170312", "name": "GIRI KENCANA"}, {"id": "1703122004", "district_id": "170312", "name": "KUALA LANGI"}, {"id": "1703122005", "district_id": "170312", "name": "DUSUN RAJA"}, {"id": "1703122012", "district_id": "170312", "name": "LUBUK MINDAI"}, {"id": "1703122013", "district_id": "170312", "name": "PAJAR BARU"}, {"id": "1703122014", "district_id": "170312", "name": "TALANG BARU"}, {"id": "1703122019", "district_id": "170312", "name": "MELATI HARJO K.1"}, {"id": "1703122020", "district_id": "170312", "name": "BUKIT INDAH"}, {"id": "1703122021", "district_id": "170312", "name": "BUKIT TINGGI"}]
+[
+  {
+    "id": "1703122001",
+    "district_id": "170312",
+    "name": "URAI"
+  },
+  {
+    "id": "1703122002",
+    "district_id": "170312",
+    "name": "PASAR KETAHUN"
+  },
+  {
+    "id": "1703122003",
+    "district_id": "170312",
+    "name": "GIRI KENCANA"
+  },
+  {
+    "id": "1703122004",
+    "district_id": "170312",
+    "name": "KUALA LANGI"
+  },
+  {
+    "id": "1703122005",
+    "district_id": "170312",
+    "name": "DUSUN RAJA"
+  },
+  {
+    "id": "1703122012",
+    "district_id": "170312",
+    "name": "LUBUK MINDAI"
+  },
+  {
+    "id": "1703122013",
+    "district_id": "170312",
+    "name": "PAJAR BARU"
+  },
+  {
+    "id": "1703122014",
+    "district_id": "170312",
+    "name": "TALANG BARU"
+  },
+  {
+    "id": "1703122019",
+    "district_id": "170312",
+    "name": "MELATI HARJO K.1"
+  },
+  {
+    "id": "1703122020",
+    "district_id": "170312",
+    "name": "BUKIT INDAH"
+  },
+  {
+    "id": "1703122021",
+    "district_id": "170312",
+    "name": "BUKIT TINGGI"
+  }
+]

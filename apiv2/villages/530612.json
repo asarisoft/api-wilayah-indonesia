@@ -1,1 +1,82 @@
-[{"id": "5306122001", "district_id": "530612", "name": "WATOLOLONG"}, {"id": "5306122002", "district_id": "530612", "name": "TUWAGOETOBI"}, {"id": "5306122003", "district_id": "530612", "name": "WERANGGERE"}, {"id": "5306122004", "district_id": "530612", "name": "ORINGBELE"}, {"id": "5306122005", "district_id": "530612", "name": "WATOONE"}, {"id": "5306122006", "district_id": "530612", "name": "LAMABELAWA"}, {"id": "5306122007", "district_id": "530612", "name": "PLEDO"}, {"id": "5306122008", "district_id": "530612", "name": "LEWOPULO"}, {"id": "5306122009", "district_id": "530612", "name": "SANDOSI"}, {"id": "5306122010", "district_id": "530612", "name": "BALAWELING"}, {"id": "5306122011", "district_id": "530612", "name": "TOBITIKA"}, {"id": "5306122012", "district_id": "530612", "name": "RIANGDULI"}, {"id": "5306122013", "district_id": "530612", "name": "WAIWURING"}, {"id": "5306122014", "district_id": "530612", "name": "BAO BAGE"}, {"id": "5306122015", "district_id": "530612", "name": "LAMALEKA"}, {"id": "5306122016", "district_id": "530612", "name": "BALAWELING NOTEN"}]
+[
+  {
+    "id": "5306122001",
+    "district_id": "530612",
+    "name": "WATOLOLONG"
+  },
+  {
+    "id": "5306122002",
+    "district_id": "530612",
+    "name": "TUWAGOETOBI"
+  },
+  {
+    "id": "5306122003",
+    "district_id": "530612",
+    "name": "WERANGGERE"
+  },
+  {
+    "id": "5306122004",
+    "district_id": "530612",
+    "name": "ORINGBELE"
+  },
+  {
+    "id": "5306122005",
+    "district_id": "530612",
+    "name": "WATOONE"
+  },
+  {
+    "id": "5306122006",
+    "district_id": "530612",
+    "name": "LAMABELAWA"
+  },
+  {
+    "id": "5306122007",
+    "district_id": "530612",
+    "name": "PLEDO"
+  },
+  {
+    "id": "5306122008",
+    "district_id": "530612",
+    "name": "LEWOPULO"
+  },
+  {
+    "id": "5306122009",
+    "district_id": "530612",
+    "name": "SANDOSI"
+  },
+  {
+    "id": "5306122010",
+    "district_id": "530612",
+    "name": "BALAWELING"
+  },
+  {
+    "id": "5306122011",
+    "district_id": "530612",
+    "name": "TOBITIKA"
+  },
+  {
+    "id": "5306122012",
+    "district_id": "530612",
+    "name": "RIANGDULI"
+  },
+  {
+    "id": "5306122013",
+    "district_id": "530612",
+    "name": "WAIWURING"
+  },
+  {
+    "id": "5306122014",
+    "district_id": "530612",
+    "name": "BAO BAGE"
+  },
+  {
+    "id": "5306122015",
+    "district_id": "530612",
+    "name": "LAMALEKA"
+  },
+  {
+    "id": "5306122016",
+    "district_id": "530612",
+    "name": "BALAWELING NOTEN"
+  }
+]

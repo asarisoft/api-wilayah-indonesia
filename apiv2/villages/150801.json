@@ -1,1 +1,57 @@
-[{"id": "1508012001", "district_id": "150801", "name": "PEDUKUN"}, {"id": "1508012002", "district_id": "150801", "name": "LUBUK NIUR"}, {"id": "1508012003", "district_id": "150801", "name": "TELUK KECIMBUNG"}, {"id": "1508012004", "district_id": "150801", "name": "TANAH TUMBUH"}, {"id": "1508012005", "district_id": "150801", "name": "RAMBAH"}, {"id": "1508012006", "district_id": "150801", "name": "TEBING TINGGI ULEH"}, {"id": "1508012007", "district_id": "150801", "name": "BUKIT KEMANG"}, {"id": "1508012008", "district_id": "150801", "name": "PANJANG"}, {"id": "1508012009", "district_id": "150801", "name": "PERENTI LUWEH"}, {"id": "1508012015", "district_id": "150801", "name": "RENAH JELMU"}, {"id": "1508012016", "district_id": "150801", "name": "KOTO JAYO"}]
+[
+  {
+    "id": "1508012001",
+    "district_id": "150801",
+    "name": "PEDUKUN"
+  },
+  {
+    "id": "1508012002",
+    "district_id": "150801",
+    "name": "LUBUK NIUR"
+  },
+  {
+    "id": "1508012003",
+    "district_id": "150801",
+    "name": "TELUK KECIMBUNG"
+  },
+  {
+    "id": "1508012004",
+    "district_id": "150801",
+    "name": "TANAH TUMBUH"
+  },
+  {
+    "id": "1508012005",
+    "district_id": "150801",
+    "name": "RAMBAH"
+  },
+  {
+    "id": "1508012006",
+    "district_id": "150801",
+    "name": "TEBING TINGGI ULEH"
+  },
+  {
+    "id": "1508012007",
+    "district_id": "150801",
+    "name": "BUKIT KEMANG"
+  },
+  {
+    "id": "1508012008",
+    "district_id": "150801",
+    "name": "PANJANG"
+  },
+  {
+    "id": "1508012009",
+    "district_id": "150801",
+    "name": "PERENTI LUWEH"
+  },
+  {
+    "id": "1508012015",
+    "district_id": "150801",
+    "name": "RENAH JELMU"
+  },
+  {
+    "id": "1508012016",
+    "district_id": "150801",
+    "name": "KOTO JAYO"
+  }
+]

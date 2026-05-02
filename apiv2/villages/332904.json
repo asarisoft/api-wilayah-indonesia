@@ -1,1 +1,62 @@
-[{"id": "3329042001", "district_id": "332904", "name": "CILIBUR"}, {"id": "3329042002", "district_id": "332904", "name": "CIPETUNG"}, {"id": "3329042003", "district_id": "332904", "name": "KEDUNGOLENG"}, {"id": "3329042004", "district_id": "332904", "name": "KRETEK"}, {"id": "3329042005", "district_id": "332904", "name": "PAGOJENGAN"}, {"id": "3329042006", "district_id": "332904", "name": "PAGUYANGAN"}, {"id": "3329042007", "district_id": "332904", "name": "PAKUJATI"}, {"id": "3329042008", "district_id": "332904", "name": "PANDANSARI"}, {"id": "3329042009", "district_id": "332904", "name": "RAGATUNJUNG"}, {"id": "3329042010", "district_id": "332904", "name": "TARABAN"}, {"id": "3329042011", "district_id": "332904", "name": "WANATIRTA"}, {"id": "3329042012", "district_id": "332904", "name": "WINDUAJI"}]
+[
+  {
+    "id": "3329042001",
+    "district_id": "332904",
+    "name": "CILIBUR"
+  },
+  {
+    "id": "3329042002",
+    "district_id": "332904",
+    "name": "CIPETUNG"
+  },
+  {
+    "id": "3329042003",
+    "district_id": "332904",
+    "name": "KEDUNGOLENG"
+  },
+  {
+    "id": "3329042004",
+    "district_id": "332904",
+    "name": "KRETEK"
+  },
+  {
+    "id": "3329042005",
+    "district_id": "332904",
+    "name": "PAGOJENGAN"
+  },
+  {
+    "id": "3329042006",
+    "district_id": "332904",
+    "name": "PAGUYANGAN"
+  },
+  {
+    "id": "3329042007",
+    "district_id": "332904",
+    "name": "PAKUJATI"
+  },
+  {
+    "id": "3329042008",
+    "district_id": "332904",
+    "name": "PANDANSARI"
+  },
+  {
+    "id": "3329042009",
+    "district_id": "332904",
+    "name": "RAGATUNJUNG"
+  },
+  {
+    "id": "3329042010",
+    "district_id": "332904",
+    "name": "TARABAN"
+  },
+  {
+    "id": "3329042011",
+    "district_id": "332904",
+    "name": "WANATIRTA"
+  },
+  {
+    "id": "3329042012",
+    "district_id": "332904",
+    "name": "WINDUAJI"
+  }
+]

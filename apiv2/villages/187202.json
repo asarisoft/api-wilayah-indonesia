@@ -1,1 +1,22 @@
-[{"id": "1872021001", "district_id": "187202", "name": "BANJARSARI"}, {"id": "1872021002", "district_id": "187202", "name": "PURWOSARI"}, {"id": "1872021003", "district_id": "187202", "name": "KARANGREJO"}, {"id": "1872021004", "district_id": "187202", "name": "PURWOASRI"}]
+[
+  {
+    "id": "1872021001",
+    "district_id": "187202",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "1872021002",
+    "district_id": "187202",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "1872021003",
+    "district_id": "187202",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "1872021004",
+    "district_id": "187202",
+    "name": "PURWOASRI"
+  }
+]

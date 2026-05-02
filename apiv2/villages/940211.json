@@ -1,1 +1,47 @@
-[{"id": "9402112001", "district_id": "940211", "name": "WANDENGGOBAK"}, {"id": "9402112002", "district_id": "940211", "name": "JIGINIKIME"}, {"id": "9402112003", "district_id": "940211", "name": "PUNCAK SENYUM"}, {"id": "9402112004", "district_id": "940211", "name": "ANGGUTARI"}, {"id": "9402112005", "district_id": "940211", "name": "WUNAGELO"}, {"id": "9402112006", "district_id": "940211", "name": "DONDO"}, {"id": "9402112007", "district_id": "940211", "name": "TANOBA"}, {"id": "9402112008", "district_id": "940211", "name": "NIRUWI"}, {"id": "9402112009", "district_id": "940211", "name": "YALIKAMBI"}]
+[
+  {
+    "id": "9402112001",
+    "district_id": "940211",
+    "name": "WANDENGGOBAK"
+  },
+  {
+    "id": "9402112002",
+    "district_id": "940211",
+    "name": "JIGINIKIME"
+  },
+  {
+    "id": "9402112003",
+    "district_id": "940211",
+    "name": "PUNCAK SENYUM"
+  },
+  {
+    "id": "9402112004",
+    "district_id": "940211",
+    "name": "ANGGUTARI"
+  },
+  {
+    "id": "9402112005",
+    "district_id": "940211",
+    "name": "WUNAGELO"
+  },
+  {
+    "id": "9402112006",
+    "district_id": "940211",
+    "name": "DONDO"
+  },
+  {
+    "id": "9402112007",
+    "district_id": "940211",
+    "name": "TANOBA"
+  },
+  {
+    "id": "9402112008",
+    "district_id": "940211",
+    "name": "NIRUWI"
+  },
+  {
+    "id": "9402112009",
+    "district_id": "940211",
+    "name": "YALIKAMBI"
+  }
+]

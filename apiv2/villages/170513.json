@@ -1,1 +1,67 @@
-[{"id": "1705132001", "district_id": "170513", "name": "PAGAR"}, {"id": "1705132002", "district_id": "170513", "name": "MUARA SIMPUR"}, {"id": "1705132003", "district_id": "170513", "name": "PAGAR AGUNG"}, {"id": "1705132004", "district_id": "170513", "name": "PAGAR BANYU"}, {"id": "1705132005", "district_id": "170513", "name": "SIMPUR IJANG"}, {"id": "1705132006", "district_id": "170513", "name": "AIR KERUH"}, {"id": "1705132007", "district_id": "170513", "name": "HARGO BINANGUN"}, {"id": "1705132008", "district_id": "170513", "name": "MEKAR JAYA"}, {"id": "1705132009", "district_id": "170513", "name": "GIRI NANTO"}, {"id": "1705132010", "district_id": "170513", "name": "BANYU KENCANA"}, {"id": "1705132011", "district_id": "170513", "name": "MUARA NIBUNG"}, {"id": "1705132012", "district_id": "170513", "name": "TANJUNG AGUNG"}, {"id": "1705132013", "district_id": "170513", "name": "GIRI MULYA"}]
+[
+  {
+    "id": "1705132001",
+    "district_id": "170513",
+    "name": "PAGAR"
+  },
+  {
+    "id": "1705132002",
+    "district_id": "170513",
+    "name": "MUARA SIMPUR"
+  },
+  {
+    "id": "1705132003",
+    "district_id": "170513",
+    "name": "PAGAR AGUNG"
+  },
+  {
+    "id": "1705132004",
+    "district_id": "170513",
+    "name": "PAGAR BANYU"
+  },
+  {
+    "id": "1705132005",
+    "district_id": "170513",
+    "name": "SIMPUR IJANG"
+  },
+  {
+    "id": "1705132006",
+    "district_id": "170513",
+    "name": "AIR KERUH"
+  },
+  {
+    "id": "1705132007",
+    "district_id": "170513",
+    "name": "HARGO BINANGUN"
+  },
+  {
+    "id": "1705132008",
+    "district_id": "170513",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "1705132009",
+    "district_id": "170513",
+    "name": "GIRI NANTO"
+  },
+  {
+    "id": "1705132010",
+    "district_id": "170513",
+    "name": "BANYU KENCANA"
+  },
+  {
+    "id": "1705132011",
+    "district_id": "170513",
+    "name": "MUARA NIBUNG"
+  },
+  {
+    "id": "1705132012",
+    "district_id": "170513",
+    "name": "TANJUNG AGUNG"
+  },
+  {
+    "id": "1705132013",
+    "district_id": "170513",
+    "name": "GIRI MULYA"
+  }
+]

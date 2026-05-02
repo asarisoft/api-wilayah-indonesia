@@ -1,1 +1,62 @@
-[{"id": "5307022001", "district_id": "530702", "name": "BHERA"}, {"id": "5307022002", "district_id": "530702", "name": "DOBO"}, {"id": "5307022003", "district_id": "530702", "name": "GERA"}, {"id": "5307022004", "district_id": "530702", "name": "LIAKUTU"}, {"id": "5307022005", "district_id": "530702", "name": "PARABUBU"}, {"id": "5307022006", "district_id": "530702", "name": "WOLODHESA"}, {"id": "5307022007", "district_id": "530702", "name": "KOROBHERA"}, {"id": "5307022008", "district_id": "530702", "name": "NAPUGERA"}, {"id": "5307022009", "district_id": "530702", "name": "KOWI"}, {"id": "5307022010", "district_id": "530702", "name": "DOBO NUAPUU"}, {"id": "5307022011", "district_id": "530702", "name": "RATEKALO"}, {"id": "5307022012", "district_id": "530702", "name": "NDAIMBERE"}]
+[
+  {
+    "id": "5307022001",
+    "district_id": "530702",
+    "name": "BHERA"
+  },
+  {
+    "id": "5307022002",
+    "district_id": "530702",
+    "name": "DOBO"
+  },
+  {
+    "id": "5307022003",
+    "district_id": "530702",
+    "name": "GERA"
+  },
+  {
+    "id": "5307022004",
+    "district_id": "530702",
+    "name": "LIAKUTU"
+  },
+  {
+    "id": "5307022005",
+    "district_id": "530702",
+    "name": "PARABUBU"
+  },
+  {
+    "id": "5307022006",
+    "district_id": "530702",
+    "name": "WOLODHESA"
+  },
+  {
+    "id": "5307022007",
+    "district_id": "530702",
+    "name": "KOROBHERA"
+  },
+  {
+    "id": "5307022008",
+    "district_id": "530702",
+    "name": "NAPUGERA"
+  },
+  {
+    "id": "5307022009",
+    "district_id": "530702",
+    "name": "KOWI"
+  },
+  {
+    "id": "5307022010",
+    "district_id": "530702",
+    "name": "DOBO NUAPUU"
+  },
+  {
+    "id": "5307022011",
+    "district_id": "530702",
+    "name": "RATEKALO"
+  },
+  {
+    "id": "5307022012",
+    "district_id": "530702",
+    "name": "NDAIMBERE"
+  }
+]

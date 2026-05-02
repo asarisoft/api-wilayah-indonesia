@@ -1,1 +1,37 @@
-[{"id": "3276111001", "district_id": "327611", "name": "BOJONGSARI"}, {"id": "3276111002", "district_id": "327611", "name": "BOJONGSARI BARU"}, {"id": "3276111003", "district_id": "327611", "name": "SERUA"}, {"id": "3276111004", "district_id": "327611", "name": "PONDOK PETIR"}, {"id": "3276111005", "district_id": "327611", "name": "CURUG"}, {"id": "3276111006", "district_id": "327611", "name": "DUREN MEKAR"}, {"id": "3276111007", "district_id": "327611", "name": "DUREN SERIBU"}]
+[
+  {
+    "id": "3276111001",
+    "district_id": "327611",
+    "name": "BOJONGSARI"
+  },
+  {
+    "id": "3276111002",
+    "district_id": "327611",
+    "name": "BOJONGSARI BARU"
+  },
+  {
+    "id": "3276111003",
+    "district_id": "327611",
+    "name": "SERUA"
+  },
+  {
+    "id": "3276111004",
+    "district_id": "327611",
+    "name": "PONDOK PETIR"
+  },
+  {
+    "id": "3276111005",
+    "district_id": "327611",
+    "name": "CURUG"
+  },
+  {
+    "id": "3276111006",
+    "district_id": "327611",
+    "name": "DUREN MEKAR"
+  },
+  {
+    "id": "3276111007",
+    "district_id": "327611",
+    "name": "DUREN SERIBU"
+  }
+]

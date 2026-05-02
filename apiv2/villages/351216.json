@@ -1,1 +1,37 @@
-[{"id": "3512162001", "district_id": "351216", "name": "LUBAWANG"}, {"id": "3512162002", "district_id": "351216", "name": "KALISARI"}, {"id": "3512162003", "district_id": "351216", "name": "TEPOS"}, {"id": "3512162004", "district_id": "351216", "name": "SELOBANTENG"}, {"id": "3512162005", "district_id": "351216", "name": "BANYUGLUGUR"}, {"id": "3512162006", "district_id": "351216", "name": "TELEMPONG"}, {"id": "3512162007", "district_id": "351216", "name": "KALIANGET"}]
+[
+  {
+    "id": "3512162001",
+    "district_id": "351216",
+    "name": "LUBAWANG"
+  },
+  {
+    "id": "3512162002",
+    "district_id": "351216",
+    "name": "KALISARI"
+  },
+  {
+    "id": "3512162003",
+    "district_id": "351216",
+    "name": "TEPOS"
+  },
+  {
+    "id": "3512162004",
+    "district_id": "351216",
+    "name": "SELOBANTENG"
+  },
+  {
+    "id": "3512162005",
+    "district_id": "351216",
+    "name": "BANYUGLUGUR"
+  },
+  {
+    "id": "3512162006",
+    "district_id": "351216",
+    "name": "TELEMPONG"
+  },
+  {
+    "id": "3512162007",
+    "district_id": "351216",
+    "name": "KALIANGET"
+  }
+]

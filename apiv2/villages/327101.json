@@ -1,1 +1,82 @@
-[{"id": "3271011001", "district_id": "327101", "name": "BATU TULIS"}, {"id": "3271011002", "district_id": "327101", "name": "BONDONGAN"}, {"id": "3271011003", "district_id": "327101", "name": "EMPANG"}, {"id": "3271011004", "district_id": "327101", "name": "LAWANGGINTUNG"}, {"id": "3271011005", "district_id": "327101", "name": "PAMOYANAN"}, {"id": "3271011006", "district_id": "327101", "name": "RANGGA MEKAR"}, {"id": "3271011007", "district_id": "327101", "name": "MULYA HARJA"}, {"id": "3271011008", "district_id": "327101", "name": "CIKARET"}, {"id": "3271011009", "district_id": "327101", "name": "BOJONG KERTA"}, {"id": "3271011010", "district_id": "327101", "name": "RANCAMAYA"}, {"id": "3271011011", "district_id": "327101", "name": "KERTAMAYA"}, {"id": "3271011012", "district_id": "327101", "name": "HARJASARI"}, {"id": "3271011013", "district_id": "327101", "name": "MUARA SARI"}, {"id": "3271011014", "district_id": "327101", "name": "GENTENG"}, {"id": "3271011015", "district_id": "327101", "name": "PAKUAN"}, {"id": "3271011016", "district_id": "327101", "name": "CIPAKU"}]
+[
+  {
+    "id": "3271011001",
+    "district_id": "327101",
+    "name": "BATU TULIS"
+  },
+  {
+    "id": "3271011002",
+    "district_id": "327101",
+    "name": "BONDONGAN"
+  },
+  {
+    "id": "3271011003",
+    "district_id": "327101",
+    "name": "EMPANG"
+  },
+  {
+    "id": "3271011004",
+    "district_id": "327101",
+    "name": "LAWANGGINTUNG"
+  },
+  {
+    "id": "3271011005",
+    "district_id": "327101",
+    "name": "PAMOYANAN"
+  },
+  {
+    "id": "3271011006",
+    "district_id": "327101",
+    "name": "RANGGA MEKAR"
+  },
+  {
+    "id": "3271011007",
+    "district_id": "327101",
+    "name": "MULYA HARJA"
+  },
+  {
+    "id": "3271011008",
+    "district_id": "327101",
+    "name": "CIKARET"
+  },
+  {
+    "id": "3271011009",
+    "district_id": "327101",
+    "name": "BOJONG KERTA"
+  },
+  {
+    "id": "3271011010",
+    "district_id": "327101",
+    "name": "RANCAMAYA"
+  },
+  {
+    "id": "3271011011",
+    "district_id": "327101",
+    "name": "KERTAMAYA"
+  },
+  {
+    "id": "3271011012",
+    "district_id": "327101",
+    "name": "HARJASARI"
+  },
+  {
+    "id": "3271011013",
+    "district_id": "327101",
+    "name": "MUARA SARI"
+  },
+  {
+    "id": "3271011014",
+    "district_id": "327101",
+    "name": "GENTENG"
+  },
+  {
+    "id": "3271011015",
+    "district_id": "327101",
+    "name": "PAKUAN"
+  },
+  {
+    "id": "3271011016",
+    "district_id": "327101",
+    "name": "CIPAKU"
+  }
+]

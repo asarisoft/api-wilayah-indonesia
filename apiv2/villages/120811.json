@@ -1,1 +1,102 @@
-[{"id": "1208111018", "district_id": "120811", "name": "PEMATANG TANAH JAWA"}, {"id": "1208112001", "district_id": "120811", "name": "TANJUNG PASIR"}, {"id": "1208112002", "district_id": "120811", "name": "TOTAP MAJAWA"}, {"id": "1208112003", "district_id": "120811", "name": "BALIMBINGAN"}, {"id": "1208112004", "district_id": "120811", "name": "BAJA DOLOK"}, {"id": "1208112005", "district_id": "120811", "name": "BOSAR GALUGUR"}, {"id": "1208112006", "district_id": "120811", "name": "BAH JAMBI II"}, {"id": "1208112007", "district_id": "120811", "name": "BAH KISAT"}, {"id": "1208112008", "district_id": "120811", "name": "PANOMBEIAN MARJANJI"}, {"id": "1208112009", "district_id": "120811", "name": "MUARA MULIA"}, {"id": "1208112010", "district_id": "120811", "name": "PARDAMEAN ASIH"}, {"id": "1208112011", "district_id": "120811", "name": "MEKAR MULIA"}, {"id": "1208112012", "district_id": "120811", "name": "MALIGAS TONGAH"}, {"id": "1208112013", "district_id": "120811", "name": "MARUBUN JAYA"}, {"id": "1208112014", "district_id": "120811", "name": "PAGAR JAMBI"}, {"id": "1208112015", "district_id": "120811", "name": "BALIJU"}, {"id": "1208112016", "district_id": "120811", "name": "BAYU BAGASAN"}, {"id": "1208112017", "district_id": "120811", "name": "BAH JAMBI III"}, {"id": "1208112019", "district_id": "120811", "name": "PARBALOGAN"}, {"id": "1208112020", "district_id": "120811", "name": "MARUBUN BAYU"}]
+[
+  {
+    "id": "1208111018",
+    "district_id": "120811",
+    "name": "PEMATANG TANAH JAWA"
+  },
+  {
+    "id": "1208112001",
+    "district_id": "120811",
+    "name": "TANJUNG PASIR"
+  },
+  {
+    "id": "1208112002",
+    "district_id": "120811",
+    "name": "TOTAP MAJAWA"
+  },
+  {
+    "id": "1208112003",
+    "district_id": "120811",
+    "name": "BALIMBINGAN"
+  },
+  {
+    "id": "1208112004",
+    "district_id": "120811",
+    "name": "BAJA DOLOK"
+  },
+  {
+    "id": "1208112005",
+    "district_id": "120811",
+    "name": "BOSAR GALUGUR"
+  },
+  {
+    "id": "1208112006",
+    "district_id": "120811",
+    "name": "BAH JAMBI II"
+  },
+  {
+    "id": "1208112007",
+    "district_id": "120811",
+    "name": "BAH KISAT"
+  },
+  {
+    "id": "1208112008",
+    "district_id": "120811",
+    "name": "PANOMBEIAN MARJANJI"
+  },
+  {
+    "id": "1208112009",
+    "district_id": "120811",
+    "name": "MUARA MULIA"
+  },
+  {
+    "id": "1208112010",
+    "district_id": "120811",
+    "name": "PARDAMEAN ASIH"
+  },
+  {
+    "id": "1208112011",
+    "district_id": "120811",
+    "name": "MEKAR MULIA"
+  },
+  {
+    "id": "1208112012",
+    "district_id": "120811",
+    "name": "MALIGAS TONGAH"
+  },
+  {
+    "id": "1208112013",
+    "district_id": "120811",
+    "name": "MARUBUN JAYA"
+  },
+  {
+    "id": "1208112014",
+    "district_id": "120811",
+    "name": "PAGAR JAMBI"
+  },
+  {
+    "id": "1208112015",
+    "district_id": "120811",
+    "name": "BALIJU"
+  },
+  {
+    "id": "1208112016",
+    "district_id": "120811",
+    "name": "BAYU BAGASAN"
+  },
+  {
+    "id": "1208112017",
+    "district_id": "120811",
+    "name": "BAH JAMBI III"
+  },
+  {
+    "id": "1208112019",
+    "district_id": "120811",
+    "name": "PARBALOGAN"
+  },
+  {
+    "id": "1208112020",
+    "district_id": "120811",
+    "name": "MARUBUN BAYU"
+  }
+]

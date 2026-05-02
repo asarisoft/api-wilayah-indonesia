@@ -1,1 +1,47 @@
-[{"id": "1805222001", "district_id": "180522", "name": "SUMBER AGUNG"}, {"id": "1805222002", "district_id": "180522", "name": "BATANG HARI"}, {"id": "1805222003", "district_id": "180522", "name": "PANGGUNG MULYO"}, {"id": "1805222004", "district_id": "180522", "name": "DUTO YOSO MULYO"}, {"id": "1805222005", "district_id": "180522", "name": "ANDALAS CERMIN"}, {"id": "1805222006", "district_id": "180522", "name": "RAWA RAGIL"}, {"id": "1805222007", "district_id": "180522", "name": "GEDUNG JAYA"}, {"id": "1805222008", "district_id": "180522", "name": "BUMI SARI"}, {"id": "1805222009", "district_id": "180522", "name": "MULYO DADI"}]
+[
+  {
+    "id": "1805222001",
+    "district_id": "180522",
+    "name": "SUMBER AGUNG"
+  },
+  {
+    "id": "1805222002",
+    "district_id": "180522",
+    "name": "BATANG HARI"
+  },
+  {
+    "id": "1805222003",
+    "district_id": "180522",
+    "name": "PANGGUNG MULYO"
+  },
+  {
+    "id": "1805222004",
+    "district_id": "180522",
+    "name": "DUTO YOSO MULYO"
+  },
+  {
+    "id": "1805222005",
+    "district_id": "180522",
+    "name": "ANDALAS CERMIN"
+  },
+  {
+    "id": "1805222006",
+    "district_id": "180522",
+    "name": "RAWA RAGIL"
+  },
+  {
+    "id": "1805222007",
+    "district_id": "180522",
+    "name": "GEDUNG JAYA"
+  },
+  {
+    "id": "1805222008",
+    "district_id": "180522",
+    "name": "BUMI SARI"
+  },
+  {
+    "id": "1805222009",
+    "district_id": "180522",
+    "name": "MULYO DADI"
+  }
+]

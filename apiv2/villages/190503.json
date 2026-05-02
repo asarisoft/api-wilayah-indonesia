@@ -1,1 +1,57 @@
-[{"id": "1905032001", "district_id": "190503", "name": "JEBUS"}, {"id": "1905032002", "district_id": "190503", "name": "SUNGAI BULUH"}, {"id": "1905032003", "district_id": "190503", "name": "TUMBAK PETAR"}, {"id": "1905032004", "district_id": "190503", "name": "LIMBUNG"}, {"id": "1905032005", "district_id": "190503", "name": "RUKAM"}, {"id": "1905032008", "district_id": "190503", "name": "RANGGI ASAM"}, {"id": "1905032009", "district_id": "190503", "name": "KETAP"}, {"id": "1905032018", "district_id": "190503", "name": "MISLAK"}, {"id": "1905032019", "district_id": "190503", "name": "PEBUAR"}, {"id": "1905032020", "district_id": "190503", "name": "SINAR MANIK"}, {"id": "1905032021", "district_id": "190503", "name": "AIR KUANG"}]
+[
+  {
+    "id": "1905032001",
+    "district_id": "190503",
+    "name": "JEBUS"
+  },
+  {
+    "id": "1905032002",
+    "district_id": "190503",
+    "name": "SUNGAI BULUH"
+  },
+  {
+    "id": "1905032003",
+    "district_id": "190503",
+    "name": "TUMBAK PETAR"
+  },
+  {
+    "id": "1905032004",
+    "district_id": "190503",
+    "name": "LIMBUNG"
+  },
+  {
+    "id": "1905032005",
+    "district_id": "190503",
+    "name": "RUKAM"
+  },
+  {
+    "id": "1905032008",
+    "district_id": "190503",
+    "name": "RANGGI ASAM"
+  },
+  {
+    "id": "1905032009",
+    "district_id": "190503",
+    "name": "KETAP"
+  },
+  {
+    "id": "1905032018",
+    "district_id": "190503",
+    "name": "MISLAK"
+  },
+  {
+    "id": "1905032019",
+    "district_id": "190503",
+    "name": "PEBUAR"
+  },
+  {
+    "id": "1905032020",
+    "district_id": "190503",
+    "name": "SINAR MANIK"
+  },
+  {
+    "id": "1905032021",
+    "district_id": "190503",
+    "name": "AIR KUANG"
+  }
+]

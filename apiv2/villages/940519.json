@@ -1,1 +1,42 @@
-[{"id": "9405192001", "district_id": "940519", "name": "BUBET"}, {"id": "9405192002", "district_id": "940519", "name": "BOLOGOBAK"}, {"id": "9405192003", "district_id": "940519", "name": "KO'EAO"}, {"id": "9405192004", "district_id": "940519", "name": "OGONGKI"}, {"id": "9405192005", "district_id": "940519", "name": "MABUGA"}, {"id": "9405192006", "district_id": "940519", "name": "KABUKI"}, {"id": "9405192007", "district_id": "940519", "name": "OKNANIM"}, {"id": "9405192008", "district_id": "940519", "name": "KALEMOGOM"}]
+[
+  {
+    "id": "9405192001",
+    "district_id": "940519",
+    "name": "BUBET"
+  },
+  {
+    "id": "9405192002",
+    "district_id": "940519",
+    "name": "BOLOGOBAK"
+  },
+  {
+    "id": "9405192003",
+    "district_id": "940519",
+    "name": "KO'EAO"
+  },
+  {
+    "id": "9405192004",
+    "district_id": "940519",
+    "name": "OGONGKI"
+  },
+  {
+    "id": "9405192005",
+    "district_id": "940519",
+    "name": "MABUGA"
+  },
+  {
+    "id": "9405192006",
+    "district_id": "940519",
+    "name": "KABUKI"
+  },
+  {
+    "id": "9405192007",
+    "district_id": "940519",
+    "name": "OKNANIM"
+  },
+  {
+    "id": "9405192008",
+    "district_id": "940519",
+    "name": "KALEMOGOM"
+  }
+]

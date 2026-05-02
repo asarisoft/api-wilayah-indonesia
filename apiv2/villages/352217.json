@@ -1,1 +1,102 @@
-[{"id": "3522172001", "district_id": "352217", "name": "DUKOHLOR"}, {"id": "3522172002", "district_id": "352217", "name": "KACANGAN"}, {"id": "3522172003", "district_id": "352217", "name": "KEMIRI"}, {"id": "3522172004", "district_id": "352217", "name": "PETAK"}, {"id": "3522172005", "district_id": "352217", "name": "SUDAH"}, {"id": "3522172006", "district_id": "352217", "name": "RENDENG"}, {"id": "3522172007", "district_id": "352217", "name": "BANARAN"}, {"id": "3522172008", "district_id": "352217", "name": "NGUJUNG"}, {"id": "3522172009", "district_id": "352217", "name": "SUMBEREJO"}, {"id": "3522172010", "district_id": "352217", "name": "TAMBAKROMO"}, {"id": "3522172011", "district_id": "352217", "name": "TINAWUN"}, {"id": "3522172012", "district_id": "352217", "name": "KEDUNGREJO"}, {"id": "3522172013", "district_id": "352217", "name": "KETILENG"}, {"id": "3522172014", "district_id": "352217", "name": "MALO"}, {"id": "3522172015", "district_id": "352217", "name": "SUKOREJO"}, {"id": "3522172016", "district_id": "352217", "name": "KLITEH"}, {"id": "3522172017", "district_id": "352217", "name": "TREMBES"}, {"id": "3522172018", "district_id": "352217", "name": "SEMLARAN"}, {"id": "3522172019", "district_id": "352217", "name": "TANGGIR"}, {"id": "3522172020", "district_id": "352217", "name": "TULUNGAGUNG"}]
+[
+  {
+    "id": "3522172001",
+    "district_id": "352217",
+    "name": "DUKOHLOR"
+  },
+  {
+    "id": "3522172002",
+    "district_id": "352217",
+    "name": "KACANGAN"
+  },
+  {
+    "id": "3522172003",
+    "district_id": "352217",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3522172004",
+    "district_id": "352217",
+    "name": "PETAK"
+  },
+  {
+    "id": "3522172005",
+    "district_id": "352217",
+    "name": "SUDAH"
+  },
+  {
+    "id": "3522172006",
+    "district_id": "352217",
+    "name": "RENDENG"
+  },
+  {
+    "id": "3522172007",
+    "district_id": "352217",
+    "name": "BANARAN"
+  },
+  {
+    "id": "3522172008",
+    "district_id": "352217",
+    "name": "NGUJUNG"
+  },
+  {
+    "id": "3522172009",
+    "district_id": "352217",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3522172010",
+    "district_id": "352217",
+    "name": "TAMBAKROMO"
+  },
+  {
+    "id": "3522172011",
+    "district_id": "352217",
+    "name": "TINAWUN"
+  },
+  {
+    "id": "3522172012",
+    "district_id": "352217",
+    "name": "KEDUNGREJO"
+  },
+  {
+    "id": "3522172013",
+    "district_id": "352217",
+    "name": "KETILENG"
+  },
+  {
+    "id": "3522172014",
+    "district_id": "352217",
+    "name": "MALO"
+  },
+  {
+    "id": "3522172015",
+    "district_id": "352217",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3522172016",
+    "district_id": "352217",
+    "name": "KLITEH"
+  },
+  {
+    "id": "3522172017",
+    "district_id": "352217",
+    "name": "TREMBES"
+  },
+  {
+    "id": "3522172018",
+    "district_id": "352217",
+    "name": "SEMLARAN"
+  },
+  {
+    "id": "3522172019",
+    "district_id": "352217",
+    "name": "TANGGIR"
+  },
+  {
+    "id": "3522172020",
+    "district_id": "352217",
+    "name": "TULUNGAGUNG"
+  }
+]

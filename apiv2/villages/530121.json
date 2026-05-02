@@ -1,1 +1,22 @@
-[{"id": "5301212001", "district_id": "530121", "name": "MANUBELON"}, {"id": "5301212002", "district_id": "530121", "name": "LETKOLE"}, {"id": "5301212003", "district_id": "530121", "name": "NEFONEUT"}, {"id": "5301212004", "district_id": "530121", "name": "BIOBA BARU"}]
+[
+  {
+    "id": "5301212001",
+    "district_id": "530121",
+    "name": "MANUBELON"
+  },
+  {
+    "id": "5301212002",
+    "district_id": "530121",
+    "name": "LETKOLE"
+  },
+  {
+    "id": "5301212003",
+    "district_id": "530121",
+    "name": "NEFONEUT"
+  },
+  {
+    "id": "5301212004",
+    "district_id": "530121",
+    "name": "BIOBA BARU"
+  }
+]

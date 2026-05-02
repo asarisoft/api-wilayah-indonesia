@@ -1,1 +1,57 @@
-[{"id": "1221102001", "district_id": "122110", "name": "BATANG BULU LAMA"}, {"id": "1221102002", "district_id": "122110", "name": "PAGUR SATIO"}, {"id": "1221102003", "district_id": "122110", "name": "BATANG BULU BARU"}, {"id": "1221102004", "district_id": "122110", "name": "GUNUNG INTAN"}, {"id": "1221102005", "district_id": "122110", "name": "TANJUNG PURBA TUA"}, {"id": "1221102006", "district_id": "122110", "name": "BANUA TONGA"}, {"id": "1221102007", "district_id": "122110", "name": "GUNUNG BARANI"}, {"id": "1221102008", "district_id": "122110", "name": "TANJUNG BARINGIN SIMARULAK"}, {"id": "1221102009", "district_id": "122110", "name": "SAYUR MAHINCAT"}, {"id": "1221102010", "district_id": "122110", "name": "SIDOMULIO"}, {"id": "1221102011", "district_id": "122110", "name": "PANARIAN"}]
+[
+  {
+    "id": "1221102001",
+    "district_id": "122110",
+    "name": "BATANG BULU LAMA"
+  },
+  {
+    "id": "1221102002",
+    "district_id": "122110",
+    "name": "PAGUR SATIO"
+  },
+  {
+    "id": "1221102003",
+    "district_id": "122110",
+    "name": "BATANG BULU BARU"
+  },
+  {
+    "id": "1221102004",
+    "district_id": "122110",
+    "name": "GUNUNG INTAN"
+  },
+  {
+    "id": "1221102005",
+    "district_id": "122110",
+    "name": "TANJUNG PURBA TUA"
+  },
+  {
+    "id": "1221102006",
+    "district_id": "122110",
+    "name": "BANUA TONGA"
+  },
+  {
+    "id": "1221102007",
+    "district_id": "122110",
+    "name": "GUNUNG BARANI"
+  },
+  {
+    "id": "1221102008",
+    "district_id": "122110",
+    "name": "TANJUNG BARINGIN SIMARULAK"
+  },
+  {
+    "id": "1221102009",
+    "district_id": "122110",
+    "name": "SAYUR MAHINCAT"
+  },
+  {
+    "id": "1221102010",
+    "district_id": "122110",
+    "name": "SIDOMULIO"
+  },
+  {
+    "id": "1221102011",
+    "district_id": "122110",
+    "name": "PANARIAN"
+  }
+]

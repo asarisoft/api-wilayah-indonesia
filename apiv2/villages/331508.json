@@ -1,1 +1,72 @@
-[{"id": "3315082001", "district_id": "331508", "name": "KEYONGAN"}, {"id": "3315082002", "district_id": "331508", "name": "SUWATU"}, {"id": "3315082003", "district_id": "331508", "name": "NGLINDUK"}, {"id": "3315082004", "district_id": "331508", "name": "PELEM"}, {"id": "3315082005", "district_id": "331508", "name": "SULURSARI"}, {"id": "3315082006", "district_id": "331508", "name": "TLOGOTIRTO"}, {"id": "3315082007", "district_id": "331508", "name": "GABUS"}, {"id": "3315082008", "district_id": "331508", "name": "PANDANHARUM"}, {"id": "3315082009", "district_id": "331508", "name": "TUNGGULREJO"}, {"id": "3315082010", "district_id": "331508", "name": "TAHUNAN"}, {"id": "3315082011", "district_id": "331508", "name": "BENDOHARJO"}, {"id": "3315082012", "district_id": "331508", "name": "KALIPANG"}, {"id": "3315082013", "district_id": "331508", "name": "KARANGREJO"}, {"id": "3315082014", "district_id": "331508", "name": "BANJAREJO"}]
+[
+  {
+    "id": "3315082001",
+    "district_id": "331508",
+    "name": "KEYONGAN"
+  },
+  {
+    "id": "3315082002",
+    "district_id": "331508",
+    "name": "SUWATU"
+  },
+  {
+    "id": "3315082003",
+    "district_id": "331508",
+    "name": "NGLINDUK"
+  },
+  {
+    "id": "3315082004",
+    "district_id": "331508",
+    "name": "PELEM"
+  },
+  {
+    "id": "3315082005",
+    "district_id": "331508",
+    "name": "SULURSARI"
+  },
+  {
+    "id": "3315082006",
+    "district_id": "331508",
+    "name": "TLOGOTIRTO"
+  },
+  {
+    "id": "3315082007",
+    "district_id": "331508",
+    "name": "GABUS"
+  },
+  {
+    "id": "3315082008",
+    "district_id": "331508",
+    "name": "PANDANHARUM"
+  },
+  {
+    "id": "3315082009",
+    "district_id": "331508",
+    "name": "TUNGGULREJO"
+  },
+  {
+    "id": "3315082010",
+    "district_id": "331508",
+    "name": "TAHUNAN"
+  },
+  {
+    "id": "3315082011",
+    "district_id": "331508",
+    "name": "BENDOHARJO"
+  },
+  {
+    "id": "3315082012",
+    "district_id": "331508",
+    "name": "KALIPANG"
+  },
+  {
+    "id": "3315082013",
+    "district_id": "331508",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3315082014",
+    "district_id": "331508",
+    "name": "BANJAREJO"
+  }
+]

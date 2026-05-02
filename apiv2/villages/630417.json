@@ -1,1 +1,37 @@
-[{"id": "6304172001", "district_id": "630417", "name": "SAMPURNA"}, {"id": "6304172002", "district_id": "630417", "name": "JEJANGKIT BARAT"}, {"id": "6304172003", "district_id": "630417", "name": "BAHANDANG"}, {"id": "6304172004", "district_id": "630417", "name": "JEJANGKIT TIMUR"}, {"id": "6304172005", "district_id": "630417", "name": "CAHAYA BARU"}, {"id": "6304172006", "district_id": "630417", "name": "JEJANGKIT PASAR"}, {"id": "6304172007", "district_id": "630417", "name": "JEJANGKIT MUARA"}]
+[
+  {
+    "id": "6304172001",
+    "district_id": "630417",
+    "name": "SAMPURNA"
+  },
+  {
+    "id": "6304172002",
+    "district_id": "630417",
+    "name": "JEJANGKIT BARAT"
+  },
+  {
+    "id": "6304172003",
+    "district_id": "630417",
+    "name": "BAHANDANG"
+  },
+  {
+    "id": "6304172004",
+    "district_id": "630417",
+    "name": "JEJANGKIT TIMUR"
+  },
+  {
+    "id": "6304172005",
+    "district_id": "630417",
+    "name": "CAHAYA BARU"
+  },
+  {
+    "id": "6304172006",
+    "district_id": "630417",
+    "name": "JEJANGKIT PASAR"
+  },
+  {
+    "id": "6304172007",
+    "district_id": "630417",
+    "name": "JEJANGKIT MUARA"
+  }
+]

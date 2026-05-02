@@ -1,1 +1,22 @@
-[{"id": "6372041001", "district_id": "637204", "name": "LOKTABAT UTARA"}, {"id": "6372041002", "district_id": "637204", "name": "MENTAOS"}, {"id": "6372041003", "district_id": "637204", "name": "KOMET"}, {"id": "6372041004", "district_id": "637204", "name": "SUNGAI ULIN"}]
+[
+  {
+    "id": "6372041001",
+    "district_id": "637204",
+    "name": "LOKTABAT UTARA"
+  },
+  {
+    "id": "6372041002",
+    "district_id": "637204",
+    "name": "MENTAOS"
+  },
+  {
+    "id": "6372041003",
+    "district_id": "637204",
+    "name": "KOMET"
+  },
+  {
+    "id": "6372041004",
+    "district_id": "637204",
+    "name": "SUNGAI ULIN"
+  }
+]

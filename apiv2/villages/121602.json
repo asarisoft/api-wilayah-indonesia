@@ -1,1 +1,67 @@
-[{"id": "1216022001", "district_id": "121602", "name": "PARSINGGURAN I"}, {"id": "1216022002", "district_id": "121602", "name": "HUTAPAUNG"}, {"id": "1216022003", "district_id": "121602", "name": "POLLUNG"}, {"id": "1216022004", "district_id": "121602", "name": "HUTAJULU"}, {"id": "1216022005", "district_id": "121602", "name": "RIA RIA"}, {"id": "1216022006", "district_id": "121602", "name": "PARSINGGURAN II"}, {"id": "1216022007", "district_id": "121602", "name": "PANSURBATU"}, {"id": "1216022008", "district_id": "121602", "name": "AEK NAULI I"}, {"id": "1216022009", "district_id": "121602", "name": "AEK NAULI II"}, {"id": "1216022010", "district_id": "121602", "name": "PANDUMAAN"}, {"id": "1216022011", "district_id": "121602", "name": "SIPITUHUTA"}, {"id": "1216022012", "district_id": "121602", "name": "PARDOMUAN"}, {"id": "1216022013", "district_id": "121602", "name": "HUTAPAUNG UTARA"}]
+[
+  {
+    "id": "1216022001",
+    "district_id": "121602",
+    "name": "PARSINGGURAN I"
+  },
+  {
+    "id": "1216022002",
+    "district_id": "121602",
+    "name": "HUTAPAUNG"
+  },
+  {
+    "id": "1216022003",
+    "district_id": "121602",
+    "name": "POLLUNG"
+  },
+  {
+    "id": "1216022004",
+    "district_id": "121602",
+    "name": "HUTAJULU"
+  },
+  {
+    "id": "1216022005",
+    "district_id": "121602",
+    "name": "RIA RIA"
+  },
+  {
+    "id": "1216022006",
+    "district_id": "121602",
+    "name": "PARSINGGURAN II"
+  },
+  {
+    "id": "1216022007",
+    "district_id": "121602",
+    "name": "PANSURBATU"
+  },
+  {
+    "id": "1216022008",
+    "district_id": "121602",
+    "name": "AEK NAULI I"
+  },
+  {
+    "id": "1216022009",
+    "district_id": "121602",
+    "name": "AEK NAULI II"
+  },
+  {
+    "id": "1216022010",
+    "district_id": "121602",
+    "name": "PANDUMAAN"
+  },
+  {
+    "id": "1216022011",
+    "district_id": "121602",
+    "name": "SIPITUHUTA"
+  },
+  {
+    "id": "1216022012",
+    "district_id": "121602",
+    "name": "PARDOMUAN"
+  },
+  {
+    "id": "1216022013",
+    "district_id": "121602",
+    "name": "HUTAPAUNG UTARA"
+  }
+]

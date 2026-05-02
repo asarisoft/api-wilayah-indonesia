@@ -1,1 +1,42 @@
-[{"id": "5314041002", "district_id": "531404", "name": "ONATALI"}, {"id": "5314042001", "district_id": "531404", "name": "MAUBESI"}, {"id": "5314042003", "district_id": "531404", "name": "NGGODIMEDA"}, {"id": "5314042004", "district_id": "531404", "name": "LIMAKOLI"}, {"id": "5314042005", "district_id": "531404", "name": "LIDAMANU"}, {"id": "5314042010", "district_id": "531404", "name": "SUEBELA"}, {"id": "5314042011", "district_id": "531404", "name": "LIDABESI"}, {"id": "5314042013", "district_id": "531404", "name": "SIOMEDA"}]
+[
+  {
+    "id": "5314041002",
+    "district_id": "531404",
+    "name": "ONATALI"
+  },
+  {
+    "id": "5314042001",
+    "district_id": "531404",
+    "name": "MAUBESI"
+  },
+  {
+    "id": "5314042003",
+    "district_id": "531404",
+    "name": "NGGODIMEDA"
+  },
+  {
+    "id": "5314042004",
+    "district_id": "531404",
+    "name": "LIMAKOLI"
+  },
+  {
+    "id": "5314042005",
+    "district_id": "531404",
+    "name": "LIDAMANU"
+  },
+  {
+    "id": "5314042010",
+    "district_id": "531404",
+    "name": "SUEBELA"
+  },
+  {
+    "id": "5314042011",
+    "district_id": "531404",
+    "name": "LIDABESI"
+  },
+  {
+    "id": "5314042013",
+    "district_id": "531404",
+    "name": "SIOMEDA"
+  }
+]

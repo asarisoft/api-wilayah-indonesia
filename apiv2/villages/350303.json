@@ -1,1 +1,52 @@
-[{"id": "3503032001", "district_id": "350303", "name": "SIDOMULYO"}, {"id": "3503032002", "district_id": "350303", "name": "PUYUNG"}, {"id": "3503032003", "district_id": "350303", "name": "JOHO"}, {"id": "3503032004", "district_id": "350303", "name": "KEMBANGAN"}, {"id": "3503032005", "district_id": "350303", "name": "PAKEL"}, {"id": "3503032006", "district_id": "350303", "name": "PULE"}, {"id": "3503032007", "district_id": "350303", "name": "TANGGARAN"}, {"id": "3503032008", "district_id": "350303", "name": "KARANGANYAR"}, {"id": "3503032009", "district_id": "350303", "name": "JOMBOK"}, {"id": "3503032010", "district_id": "350303", "name": "SUKOKIDUL"}]
+[
+  {
+    "id": "3503032001",
+    "district_id": "350303",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3503032002",
+    "district_id": "350303",
+    "name": "PUYUNG"
+  },
+  {
+    "id": "3503032003",
+    "district_id": "350303",
+    "name": "JOHO"
+  },
+  {
+    "id": "3503032004",
+    "district_id": "350303",
+    "name": "KEMBANGAN"
+  },
+  {
+    "id": "3503032005",
+    "district_id": "350303",
+    "name": "PAKEL"
+  },
+  {
+    "id": "3503032006",
+    "district_id": "350303",
+    "name": "PULE"
+  },
+  {
+    "id": "3503032007",
+    "district_id": "350303",
+    "name": "TANGGARAN"
+  },
+  {
+    "id": "3503032008",
+    "district_id": "350303",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3503032009",
+    "district_id": "350303",
+    "name": "JOMBOK"
+  },
+  {
+    "id": "3503032010",
+    "district_id": "350303",
+    "name": "SUKOKIDUL"
+  }
+]

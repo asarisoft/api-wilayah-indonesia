@@ -1,1 +1,37 @@
-[{"id": "9301142001", "district_id": "930114", "name": "KUMBE"}, {"id": "9301142002", "district_id": "930114", "name": "ONGGARI"}, {"id": "9301142003", "district_id": "930114", "name": "RAWA SARI"}, {"id": "9301142004", "district_id": "930114", "name": "PADANG RAHARJA"}, {"id": "9301142005", "district_id": "930114", "name": "KAIBURSE"}, {"id": "9301142006", "district_id": "930114", "name": "DOMANDE"}, {"id": "9301142007", "district_id": "930114", "name": "SUKA MAJU"}]
+[
+  {
+    "id": "9301142001",
+    "district_id": "930114",
+    "name": "KUMBE"
+  },
+  {
+    "id": "9301142002",
+    "district_id": "930114",
+    "name": "ONGGARI"
+  },
+  {
+    "id": "9301142003",
+    "district_id": "930114",
+    "name": "RAWA SARI"
+  },
+  {
+    "id": "9301142004",
+    "district_id": "930114",
+    "name": "PADANG RAHARJA"
+  },
+  {
+    "id": "9301142005",
+    "district_id": "930114",
+    "name": "KAIBURSE"
+  },
+  {
+    "id": "9301142006",
+    "district_id": "930114",
+    "name": "DOMANDE"
+  },
+  {
+    "id": "9301142007",
+    "district_id": "930114",
+    "name": "SUKA MAJU"
+  }
+]

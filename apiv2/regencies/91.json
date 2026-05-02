@@ -1,1 +1,47 @@
-[{"id": "9103", "province_id": "91", "name": "KABUPATEN JAYAPURA"}, {"id": "9105", "province_id": "91", "name": "KABUPATEN KEPULAUAN YAPEN"}, {"id": "9106", "province_id": "91", "name": "KABUPATEN BIAK NUMFOR"}, {"id": "9110", "province_id": "91", "name": "KABUPATEN SARMI"}, {"id": "9111", "province_id": "91", "name": "KABUPATEN KEEROM"}, {"id": "9115", "province_id": "91", "name": "KABUPATEN WAROPEN"}, {"id": "9119", "province_id": "91", "name": "KABUPATEN SUPIORI"}, {"id": "9120", "province_id": "91", "name": "KABUPATEN MAMBERAMO RAYA"}, {"id": "9171", "province_id": "91", "name": "KOTA JAYAPURA"}]
+[
+  {
+    "id": "9103",
+    "province_id": "91",
+    "name": "KABUPATEN JAYAPURA"
+  },
+  {
+    "id": "9105",
+    "province_id": "91",
+    "name": "KABUPATEN KEPULAUAN YAPEN"
+  },
+  {
+    "id": "9106",
+    "province_id": "91",
+    "name": "KABUPATEN BIAK NUMFOR"
+  },
+  {
+    "id": "9110",
+    "province_id": "91",
+    "name": "KABUPATEN SARMI"
+  },
+  {
+    "id": "9111",
+    "province_id": "91",
+    "name": "KABUPATEN KEEROM"
+  },
+  {
+    "id": "9115",
+    "province_id": "91",
+    "name": "KABUPATEN WAROPEN"
+  },
+  {
+    "id": "9119",
+    "province_id": "91",
+    "name": "KABUPATEN SUPIORI"
+  },
+  {
+    "id": "9120",
+    "province_id": "91",
+    "name": "KABUPATEN MAMBERAMO RAYA"
+  },
+  {
+    "id": "9171",
+    "province_id": "91",
+    "name": "KOTA JAYAPURA"
+  }
+]

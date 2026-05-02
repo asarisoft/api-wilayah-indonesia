@@ -1,1 +1,47 @@
-[{"id": "3215282001", "district_id": "321528", "name": "CIGUNUNGSARI"}, {"id": "3215282002", "district_id": "321528", "name": "WARGASETRA"}, {"id": "3215282003", "district_id": "321528", "name": "MEKARBUANA"}, {"id": "3215282004", "district_id": "321528", "name": "CINTALAKSANA"}, {"id": "3215282005", "district_id": "321528", "name": "CINTAWARGI"}, {"id": "3215282006", "district_id": "321528", "name": "CINTALANGGENG"}, {"id": "3215282007", "district_id": "321528", "name": "KUTALANGGENG"}, {"id": "3215282008", "district_id": "321528", "name": "KUTAMANEUH"}, {"id": "3215282009", "district_id": "321528", "name": "CIPURWASARI"}]
+[
+  {
+    "id": "3215282001",
+    "district_id": "321528",
+    "name": "CIGUNUNGSARI"
+  },
+  {
+    "id": "3215282002",
+    "district_id": "321528",
+    "name": "WARGASETRA"
+  },
+  {
+    "id": "3215282003",
+    "district_id": "321528",
+    "name": "MEKARBUANA"
+  },
+  {
+    "id": "3215282004",
+    "district_id": "321528",
+    "name": "CINTALAKSANA"
+  },
+  {
+    "id": "3215282005",
+    "district_id": "321528",
+    "name": "CINTAWARGI"
+  },
+  {
+    "id": "3215282006",
+    "district_id": "321528",
+    "name": "CINTALANGGENG"
+  },
+  {
+    "id": "3215282007",
+    "district_id": "321528",
+    "name": "KUTALANGGENG"
+  },
+  {
+    "id": "3215282008",
+    "district_id": "321528",
+    "name": "KUTAMANEUH"
+  },
+  {
+    "id": "3215282009",
+    "district_id": "321528",
+    "name": "CIPURWASARI"
+  }
+]

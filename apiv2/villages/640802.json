@@ -1,1 +1,52 @@
-[{"id": "6408022001", "district_id": "640802", "name": "JAK LUAY"}, {"id": "6408022002", "district_id": "640802", "name": "NEHES LIAH BING"}, {"id": "6408022003", "district_id": "640802", "name": "MUARA WAHAU"}, {"id": "6408022004", "district_id": "640802", "name": "DABEQ"}, {"id": "6408022005", "district_id": "640802", "name": "DIAQ LAY"}, {"id": "6408022006", "district_id": "640802", "name": "BENHES"}, {"id": "6408022007", "district_id": "640802", "name": "WANASARI"}, {"id": "6408022008", "district_id": "640802", "name": "WAHAU BARU"}, {"id": "6408022009", "district_id": "640802", "name": "KARYA BHAKTI"}, {"id": "6408022010", "district_id": "640802", "name": "LONG WEHEA"}]
+[
+  {
+    "id": "6408022001",
+    "district_id": "640802",
+    "name": "JAK LUAY"
+  },
+  {
+    "id": "6408022002",
+    "district_id": "640802",
+    "name": "NEHES LIAH BING"
+  },
+  {
+    "id": "6408022003",
+    "district_id": "640802",
+    "name": "MUARA WAHAU"
+  },
+  {
+    "id": "6408022004",
+    "district_id": "640802",
+    "name": "DABEQ"
+  },
+  {
+    "id": "6408022005",
+    "district_id": "640802",
+    "name": "DIAQ LAY"
+  },
+  {
+    "id": "6408022006",
+    "district_id": "640802",
+    "name": "BENHES"
+  },
+  {
+    "id": "6408022007",
+    "district_id": "640802",
+    "name": "WANASARI"
+  },
+  {
+    "id": "6408022008",
+    "district_id": "640802",
+    "name": "WAHAU BARU"
+  },
+  {
+    "id": "6408022009",
+    "district_id": "640802",
+    "name": "KARYA BHAKTI"
+  },
+  {
+    "id": "6408022010",
+    "district_id": "640802",
+    "name": "LONG WEHEA"
+  }
+]

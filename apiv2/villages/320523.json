@@ -1,1 +1,57 @@
-[{"id": "3205232001", "district_id": "320523", "name": "BANJARWANGI"}, {"id": "3205232002", "district_id": "320523", "name": "TALAGAJAYA"}, {"id": "3205232003", "district_id": "320523", "name": "PADAHURIP"}, {"id": "3205232004", "district_id": "320523", "name": "KADONGDONG"}, {"id": "3205232005", "district_id": "320523", "name": "TALAGASARI"}, {"id": "3205232006", "district_id": "320523", "name": "JAYABAKTI"}, {"id": "3205232007", "district_id": "320523", "name": "MULYAJAYA"}, {"id": "3205232008", "district_id": "320523", "name": "DANGIANG"}, {"id": "3205232009", "district_id": "320523", "name": "TANJUNGJAYA"}, {"id": "3205232010", "district_id": "320523", "name": "BOJONG"}, {"id": "3205232011", "district_id": "320523", "name": "WANGUNJAYA"}]
+[
+  {
+    "id": "3205232001",
+    "district_id": "320523",
+    "name": "BANJARWANGI"
+  },
+  {
+    "id": "3205232002",
+    "district_id": "320523",
+    "name": "TALAGAJAYA"
+  },
+  {
+    "id": "3205232003",
+    "district_id": "320523",
+    "name": "PADAHURIP"
+  },
+  {
+    "id": "3205232004",
+    "district_id": "320523",
+    "name": "KADONGDONG"
+  },
+  {
+    "id": "3205232005",
+    "district_id": "320523",
+    "name": "TALAGASARI"
+  },
+  {
+    "id": "3205232006",
+    "district_id": "320523",
+    "name": "JAYABAKTI"
+  },
+  {
+    "id": "3205232007",
+    "district_id": "320523",
+    "name": "MULYAJAYA"
+  },
+  {
+    "id": "3205232008",
+    "district_id": "320523",
+    "name": "DANGIANG"
+  },
+  {
+    "id": "3205232009",
+    "district_id": "320523",
+    "name": "TANJUNGJAYA"
+  },
+  {
+    "id": "3205232010",
+    "district_id": "320523",
+    "name": "BOJONG"
+  },
+  {
+    "id": "3205232011",
+    "district_id": "320523",
+    "name": "WANGUNJAYA"
+  }
+]

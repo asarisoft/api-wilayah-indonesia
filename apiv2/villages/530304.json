@@ -1,1 +1,62 @@
-[{"id": "5303042001", "district_id": "530304", "name": "BIJELI"}, {"id": "5303042002", "district_id": "530304", "name": "NOEBAUN"}, {"id": "5303042003", "district_id": "530304", "name": "SEO"}, {"id": "5303042004", "district_id": "530304", "name": "POPNAM"}, {"id": "5303042009", "district_id": "530304", "name": "NIBAAF"}, {"id": "5303042010", "district_id": "530304", "name": "BANFANU"}, {"id": "5303042011", "district_id": "530304", "name": "OENAK"}, {"id": "5303042012", "district_id": "530304", "name": "NIFUBOKE"}, {"id": "5303042013", "district_id": "530304", "name": "NOEMUTI"}, {"id": "5303042014", "district_id": "530304", "name": "FATUMUTI"}, {"id": "5303042015", "district_id": "530304", "name": "KIUOLA"}, {"id": "5303042016", "district_id": "530304", "name": "OEPERIGI"}]
+[
+  {
+    "id": "5303042001",
+    "district_id": "530304",
+    "name": "BIJELI"
+  },
+  {
+    "id": "5303042002",
+    "district_id": "530304",
+    "name": "NOEBAUN"
+  },
+  {
+    "id": "5303042003",
+    "district_id": "530304",
+    "name": "SEO"
+  },
+  {
+    "id": "5303042004",
+    "district_id": "530304",
+    "name": "POPNAM"
+  },
+  {
+    "id": "5303042009",
+    "district_id": "530304",
+    "name": "NIBAAF"
+  },
+  {
+    "id": "5303042010",
+    "district_id": "530304",
+    "name": "BANFANU"
+  },
+  {
+    "id": "5303042011",
+    "district_id": "530304",
+    "name": "OENAK"
+  },
+  {
+    "id": "5303042012",
+    "district_id": "530304",
+    "name": "NIFUBOKE"
+  },
+  {
+    "id": "5303042013",
+    "district_id": "530304",
+    "name": "NOEMUTI"
+  },
+  {
+    "id": "5303042014",
+    "district_id": "530304",
+    "name": "FATUMUTI"
+  },
+  {
+    "id": "5303042015",
+    "district_id": "530304",
+    "name": "KIUOLA"
+  },
+  {
+    "id": "5303042016",
+    "district_id": "530304",
+    "name": "OEPERIGI"
+  }
+]

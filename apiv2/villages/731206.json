@@ -1,1 +1,47 @@
-[{"id": "7312062002", "district_id": "731206", "name": "DONRI DONRI"}, {"id": "7312062003", "district_id": "731206", "name": "LALABATARIAJA"}, {"id": "7312062004", "district_id": "731206", "name": "LEWORENG"}, {"id": "7312062005", "district_id": "731206", "name": "LABOKONG"}, {"id": "7312062006", "district_id": "731206", "name": "SERING"}, {"id": "7312062007", "district_id": "731206", "name": "PESSE"}, {"id": "7312062008", "district_id": "731206", "name": "TOTTONG"}, {"id": "7312062009", "district_id": "731206", "name": "KESSING"}, {"id": "7312062010", "district_id": "731206", "name": "PISING"}]
+[
+  {
+    "id": "7312062002",
+    "district_id": "731206",
+    "name": "DONRI DONRI"
+  },
+  {
+    "id": "7312062003",
+    "district_id": "731206",
+    "name": "LALABATARIAJA"
+  },
+  {
+    "id": "7312062004",
+    "district_id": "731206",
+    "name": "LEWORENG"
+  },
+  {
+    "id": "7312062005",
+    "district_id": "731206",
+    "name": "LABOKONG"
+  },
+  {
+    "id": "7312062006",
+    "district_id": "731206",
+    "name": "SERING"
+  },
+  {
+    "id": "7312062007",
+    "district_id": "731206",
+    "name": "PESSE"
+  },
+  {
+    "id": "7312062008",
+    "district_id": "731206",
+    "name": "TOTTONG"
+  },
+  {
+    "id": "7312062009",
+    "district_id": "731206",
+    "name": "KESSING"
+  },
+  {
+    "id": "7312062010",
+    "district_id": "731206",
+    "name": "PISING"
+  }
+]

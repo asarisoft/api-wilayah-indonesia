@@ -1,1 +1,67 @@
-[{"id": "1224012001", "district_id": "122401", "name": "HILIDUNDRA"}, {"id": "1224012002", "district_id": "122401", "name": "LAWIRA SATUA"}, {"id": "1224012003", "district_id": "122401", "name": "FADORO FULOLO"}, {"id": "1224012004", "district_id": "122401", "name": "LAWIRA I"}, {"id": "1224012005", "district_id": "122401", "name": "HILIGODU"}, {"id": "1224012006", "district_id": "122401", "name": "LOMBUZA'UA"}, {"id": "1224012007", "district_id": "122401", "name": "MAZIAYA"}, {"id": "1224012008", "district_id": "122401", "name": "BAHO"}, {"id": "1224012009", "district_id": "122401", "name": "LOLOFAOSO"}, {"id": "1224012010", "district_id": "122401", "name": "LAWIRA II"}, {"id": "1224012011", "district_id": "122401", "name": "DAHADANO"}, {"id": "1224012012", "district_id": "122401", "name": "LOLOMBOLI"}, {"id": "1224012013", "district_id": "122401", "name": "HILIGEO AFIA"}]
+[
+  {
+    "id": "1224012001",
+    "district_id": "122401",
+    "name": "HILIDUNDRA"
+  },
+  {
+    "id": "1224012002",
+    "district_id": "122401",
+    "name": "LAWIRA SATUA"
+  },
+  {
+    "id": "1224012003",
+    "district_id": "122401",
+    "name": "FADORO FULOLO"
+  },
+  {
+    "id": "1224012004",
+    "district_id": "122401",
+    "name": "LAWIRA I"
+  },
+  {
+    "id": "1224012005",
+    "district_id": "122401",
+    "name": "HILIGODU"
+  },
+  {
+    "id": "1224012006",
+    "district_id": "122401",
+    "name": "LOMBUZA'UA"
+  },
+  {
+    "id": "1224012007",
+    "district_id": "122401",
+    "name": "MAZIAYA"
+  },
+  {
+    "id": "1224012008",
+    "district_id": "122401",
+    "name": "BAHO"
+  },
+  {
+    "id": "1224012009",
+    "district_id": "122401",
+    "name": "LOLOFAOSO"
+  },
+  {
+    "id": "1224012010",
+    "district_id": "122401",
+    "name": "LAWIRA II"
+  },
+  {
+    "id": "1224012011",
+    "district_id": "122401",
+    "name": "DAHADANO"
+  },
+  {
+    "id": "1224012012",
+    "district_id": "122401",
+    "name": "LOLOMBOLI"
+  },
+  {
+    "id": "1224012013",
+    "district_id": "122401",
+    "name": "HILIGEO AFIA"
+  }
+]

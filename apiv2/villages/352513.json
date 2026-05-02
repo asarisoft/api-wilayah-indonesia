@@ -1,1 +1,112 @@
-[{"id": "3525132001", "district_id": "352513", "name": "BETON"}, {"id": "3525132002", "district_id": "352513", "name": "PRANTI"}, {"id": "3525132003", "district_id": "352513", "name": "GADINGWATU"}, {"id": "3525132004", "district_id": "352513", "name": "BRINGKANG"}, {"id": "3525132005", "district_id": "352513", "name": "BOTENG"}, {"id": "3525132006", "district_id": "352513", "name": "PUTATLOR"}, {"id": "3525132007", "district_id": "352513", "name": "DOMAS"}, {"id": "3525132008", "district_id": "352513", "name": "MOJOTENGAH"}, {"id": "3525132009", "district_id": "352513", "name": "BOBOH"}, {"id": "3525132010", "district_id": "352513", "name": "SIDOJANGKUNG"}, {"id": "3525132011", "district_id": "352513", "name": "HENDROSARI"}, {"id": "3525132012", "district_id": "352513", "name": "PELEMWATU"}, {"id": "3525132013", "district_id": "352513", "name": "MENGANTI"}, {"id": "3525132014", "district_id": "352513", "name": "HULAAN"}, {"id": "3525132015", "district_id": "352513", "name": "KEPATIHAN"}, {"id": "3525132016", "district_id": "352513", "name": "GEMPOLKURUNG"}, {"id": "3525132017", "district_id": "352513", "name": "DRANCANG"}, {"id": "3525132018", "district_id": "352513", "name": "SIDOWUNGU"}, {"id": "3525132019", "district_id": "352513", "name": "RANDUPADANGAN"}, {"id": "3525132020", "district_id": "352513", "name": "SETRO"}, {"id": "3525132021", "district_id": "352513", "name": "PENGALANGAN"}, {"id": "3525132022", "district_id": "352513", "name": "LABAN"}]
+[
+  {
+    "id": "3525132001",
+    "district_id": "352513",
+    "name": "BETON"
+  },
+  {
+    "id": "3525132002",
+    "district_id": "352513",
+    "name": "PRANTI"
+  },
+  {
+    "id": "3525132003",
+    "district_id": "352513",
+    "name": "GADINGWATU"
+  },
+  {
+    "id": "3525132004",
+    "district_id": "352513",
+    "name": "BRINGKANG"
+  },
+  {
+    "id": "3525132005",
+    "district_id": "352513",
+    "name": "BOTENG"
+  },
+  {
+    "id": "3525132006",
+    "district_id": "352513",
+    "name": "PUTATLOR"
+  },
+  {
+    "id": "3525132007",
+    "district_id": "352513",
+    "name": "DOMAS"
+  },
+  {
+    "id": "3525132008",
+    "district_id": "352513",
+    "name": "MOJOTENGAH"
+  },
+  {
+    "id": "3525132009",
+    "district_id": "352513",
+    "name": "BOBOH"
+  },
+  {
+    "id": "3525132010",
+    "district_id": "352513",
+    "name": "SIDOJANGKUNG"
+  },
+  {
+    "id": "3525132011",
+    "district_id": "352513",
+    "name": "HENDROSARI"
+  },
+  {
+    "id": "3525132012",
+    "district_id": "352513",
+    "name": "PELEMWATU"
+  },
+  {
+    "id": "3525132013",
+    "district_id": "352513",
+    "name": "MENGANTI"
+  },
+  {
+    "id": "3525132014",
+    "district_id": "352513",
+    "name": "HULAAN"
+  },
+  {
+    "id": "3525132015",
+    "district_id": "352513",
+    "name": "KEPATIHAN"
+  },
+  {
+    "id": "3525132016",
+    "district_id": "352513",
+    "name": "GEMPOLKURUNG"
+  },
+  {
+    "id": "3525132017",
+    "district_id": "352513",
+    "name": "DRANCANG"
+  },
+  {
+    "id": "3525132018",
+    "district_id": "352513",
+    "name": "SIDOWUNGU"
+  },
+  {
+    "id": "3525132019",
+    "district_id": "352513",
+    "name": "RANDUPADANGAN"
+  },
+  {
+    "id": "3525132020",
+    "district_id": "352513",
+    "name": "SETRO"
+  },
+  {
+    "id": "3525132021",
+    "district_id": "352513",
+    "name": "PENGALANGAN"
+  },
+  {
+    "id": "3525132022",
+    "district_id": "352513",
+    "name": "LABAN"
+  }
+]

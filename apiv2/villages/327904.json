@@ -1,1 +1,32 @@
-[{"id": "3279041004", "district_id": "327904", "name": "MUKTISARI"}, {"id": "3279041005", "district_id": "327904", "name": "BOJONGKANTONG"}, {"id": "3279042001", "district_id": "327904", "name": "LANGENSARI"}, {"id": "3279042002", "district_id": "327904", "name": "REJASARI"}, {"id": "3279042003", "district_id": "327904", "name": "WARINGINSARI"}, {"id": "3279042006", "district_id": "327904", "name": "KUJANGSARI"}]
+[
+  {
+    "id": "3279041004",
+    "district_id": "327904",
+    "name": "MUKTISARI"
+  },
+  {
+    "id": "3279041005",
+    "district_id": "327904",
+    "name": "BOJONGKANTONG"
+  },
+  {
+    "id": "3279042001",
+    "district_id": "327904",
+    "name": "LANGENSARI"
+  },
+  {
+    "id": "3279042002",
+    "district_id": "327904",
+    "name": "REJASARI"
+  },
+  {
+    "id": "3279042003",
+    "district_id": "327904",
+    "name": "WARINGINSARI"
+  },
+  {
+    "id": "3279042006",
+    "district_id": "327904",
+    "name": "KUJANGSARI"
+  }
+]

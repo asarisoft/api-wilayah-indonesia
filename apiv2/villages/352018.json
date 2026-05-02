@@ -1,1 +1,52 @@
-[{"id": "3520182001", "district_id": "352018", "name": "SAMBIROBYONG"}, {"id": "3520182002", "district_id": "352018", "name": "CAMPURSARI"}, {"id": "3520182003", "district_id": "352018", "name": "KALANG"}, {"id": "3520182004", "district_id": "352018", "name": "DURENAN"}, {"id": "3520182005", "district_id": "352018", "name": "SIDOREJO"}, {"id": "3520182006", "district_id": "352018", "name": "GETASANYAR"}, {"id": "3520182007", "district_id": "352018", "name": "SIDOMULYO"}, {"id": "3520182008", "district_id": "352018", "name": "SUMBERSAWIT"}, {"id": "3520182009", "district_id": "352018", "name": "SIDOKERTO"}, {"id": "3520182010", "district_id": "352018", "name": "WIDOROKANDANG"}]
+[
+  {
+    "id": "3520182001",
+    "district_id": "352018",
+    "name": "SAMBIROBYONG"
+  },
+  {
+    "id": "3520182002",
+    "district_id": "352018",
+    "name": "CAMPURSARI"
+  },
+  {
+    "id": "3520182003",
+    "district_id": "352018",
+    "name": "KALANG"
+  },
+  {
+    "id": "3520182004",
+    "district_id": "352018",
+    "name": "DURENAN"
+  },
+  {
+    "id": "3520182005",
+    "district_id": "352018",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3520182006",
+    "district_id": "352018",
+    "name": "GETASANYAR"
+  },
+  {
+    "id": "3520182007",
+    "district_id": "352018",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3520182008",
+    "district_id": "352018",
+    "name": "SUMBERSAWIT"
+  },
+  {
+    "id": "3520182009",
+    "district_id": "352018",
+    "name": "SIDOKERTO"
+  },
+  {
+    "id": "3520182010",
+    "district_id": "352018",
+    "name": "WIDOROKANDANG"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "9504272001", "district_id": "950427", "name": "BEREMBANAK"}, {"id": "9504272002", "district_id": "950427", "name": "HABAG"}, {"id": "9504272003", "district_id": "950427", "name": "KEKOLI"}, {"id": "9504272004", "district_id": "950427", "name": "KAMBONIKI"}, {"id": "9504272005", "district_id": "950427", "name": "KALONIKI"}, {"id": "9504272006", "district_id": "950427", "name": "TARI"}, {"id": "9504272007", "district_id": "950427", "name": "MARBUNA"}, {"id": "9504272008", "district_id": "950427", "name": "MALTA"}]
+[
+  {
+    "id": "9504272001",
+    "district_id": "950427",
+    "name": "BEREMBANAK"
+  },
+  {
+    "id": "9504272002",
+    "district_id": "950427",
+    "name": "HABAG"
+  },
+  {
+    "id": "9504272003",
+    "district_id": "950427",
+    "name": "KEKOLI"
+  },
+  {
+    "id": "9504272004",
+    "district_id": "950427",
+    "name": "KAMBONIKI"
+  },
+  {
+    "id": "9504272005",
+    "district_id": "950427",
+    "name": "KALONIKI"
+  },
+  {
+    "id": "9504272006",
+    "district_id": "950427",
+    "name": "TARI"
+  },
+  {
+    "id": "9504272007",
+    "district_id": "950427",
+    "name": "MARBUNA"
+  },
+  {
+    "id": "9504272008",
+    "district_id": "950427",
+    "name": "MALTA"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "7317041005", "district_id": "731704", "name": "BAJO"}, {"id": "7317042004", "district_id": "731704", "name": "RUMAJU"}, {"id": "7317042006", "district_id": "731704", "name": "SAMPA"}, {"id": "7317042007", "district_id": "731704", "name": "PANGI"}, {"id": "7317042008", "district_id": "731704", "name": "TALLANG BULAWANG"}, {"id": "7317042010", "district_id": "731704", "name": "JAMBU"}, {"id": "7317042013", "district_id": "731704", "name": "SAGA"}, {"id": "7317042014", "district_id": "731704", "name": "SUMABU"}, {"id": "7317042015", "district_id": "731704", "name": "BALLA"}, {"id": "7317042017", "district_id": "731704", "name": "LANGKIDDI"}, {"id": "7317042018", "district_id": "731704", "name": "SAMULANG"}, {"id": "7317042019", "district_id": "731704", "name": "BUNTU BABANG"}]
+[
+  {
+    "id": "7317041005",
+    "district_id": "731704",
+    "name": "BAJO"
+  },
+  {
+    "id": "7317042004",
+    "district_id": "731704",
+    "name": "RUMAJU"
+  },
+  {
+    "id": "7317042006",
+    "district_id": "731704",
+    "name": "SAMPA"
+  },
+  {
+    "id": "7317042007",
+    "district_id": "731704",
+    "name": "PANGI"
+  },
+  {
+    "id": "7317042008",
+    "district_id": "731704",
+    "name": "TALLANG BULAWANG"
+  },
+  {
+    "id": "7317042010",
+    "district_id": "731704",
+    "name": "JAMBU"
+  },
+  {
+    "id": "7317042013",
+    "district_id": "731704",
+    "name": "SAGA"
+  },
+  {
+    "id": "7317042014",
+    "district_id": "731704",
+    "name": "SUMABU"
+  },
+  {
+    "id": "7317042015",
+    "district_id": "731704",
+    "name": "BALLA"
+  },
+  {
+    "id": "7317042017",
+    "district_id": "731704",
+    "name": "LANGKIDDI"
+  },
+  {
+    "id": "7317042018",
+    "district_id": "731704",
+    "name": "SAMULANG"
+  },
+  {
+    "id": "7317042019",
+    "district_id": "731704",
+    "name": "BUNTU BABANG"
+  }
+]

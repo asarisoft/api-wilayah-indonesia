@@ -1,1 +1,37 @@
-[{"id": "7306051001", "district_id": "730605", "name": "LANNA"}, {"id": "7306051002", "district_id": "730605", "name": "BONTOPARANG"}, {"id": "7306052006", "district_id": "730605", "name": "LONJOBOKO"}, {"id": "7306052008", "district_id": "730605", "name": "BORISALLO"}, {"id": "7306052009", "district_id": "730605", "name": "BELAPUNRANGA"}, {"id": "7306052010", "district_id": "730605", "name": "BONTOKASSI"}, {"id": "7306052011", "district_id": "730605", "name": "BELABORI"}]
+[
+  {
+    "id": "7306051001",
+    "district_id": "730605",
+    "name": "LANNA"
+  },
+  {
+    "id": "7306051002",
+    "district_id": "730605",
+    "name": "BONTOPARANG"
+  },
+  {
+    "id": "7306052006",
+    "district_id": "730605",
+    "name": "LONJOBOKO"
+  },
+  {
+    "id": "7306052008",
+    "district_id": "730605",
+    "name": "BORISALLO"
+  },
+  {
+    "id": "7306052009",
+    "district_id": "730605",
+    "name": "BELAPUNRANGA"
+  },
+  {
+    "id": "7306052010",
+    "district_id": "730605",
+    "name": "BONTOKASSI"
+  },
+  {
+    "id": "7306052011",
+    "district_id": "730605",
+    "name": "BELABORI"
+  }
+]

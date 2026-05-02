@@ -1,1 +1,22 @@
-[{"id": "3404152001", "district_id": "340415", "name": "BANGUNKERTO"}, {"id": "3404152002", "district_id": "340415", "name": "DONOKERTO"}, {"id": "3404152003", "district_id": "340415", "name": "GIRIKERTO"}, {"id": "3404152004", "district_id": "340415", "name": "WONOKERTO"}]
+[
+  {
+    "id": "3404152001",
+    "district_id": "340415",
+    "name": "BANGUNKERTO"
+  },
+  {
+    "id": "3404152002",
+    "district_id": "340415",
+    "name": "DONOKERTO"
+  },
+  {
+    "id": "3404152003",
+    "district_id": "340415",
+    "name": "GIRIKERTO"
+  },
+  {
+    "id": "3404152004",
+    "district_id": "340415",
+    "name": "WONOKERTO"
+  }
+]

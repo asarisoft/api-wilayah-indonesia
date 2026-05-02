@@ -1,1 +1,42 @@
-[{"id": "7501032001", "district_id": "750103", "name": "ILUTA"}, {"id": "7501032002", "district_id": "750103", "name": "BUA"}, {"id": "7501032003", "district_id": "750103", "name": "HUNTU"}, {"id": "7501032004", "district_id": "750103", "name": "PAYUNGA"}, {"id": "7501032012", "district_id": "750103", "name": "BARAKATI"}, {"id": "7501032013", "district_id": "750103", "name": "ILOHUNGAYO"}, {"id": "7501032014", "district_id": "750103", "name": "DUNGGALA"}, {"id": "7501032015", "district_id": "750103", "name": "PILOBUHUTA"}]
+[
+  {
+    "id": "7501032001",
+    "district_id": "750103",
+    "name": "ILUTA"
+  },
+  {
+    "id": "7501032002",
+    "district_id": "750103",
+    "name": "BUA"
+  },
+  {
+    "id": "7501032003",
+    "district_id": "750103",
+    "name": "HUNTU"
+  },
+  {
+    "id": "7501032004",
+    "district_id": "750103",
+    "name": "PAYUNGA"
+  },
+  {
+    "id": "7501032012",
+    "district_id": "750103",
+    "name": "BARAKATI"
+  },
+  {
+    "id": "7501032013",
+    "district_id": "750103",
+    "name": "ILOHUNGAYO"
+  },
+  {
+    "id": "7501032014",
+    "district_id": "750103",
+    "name": "DUNGGALA"
+  },
+  {
+    "id": "7501032015",
+    "district_id": "750103",
+    "name": "PILOBUHUTA"
+  }
+]

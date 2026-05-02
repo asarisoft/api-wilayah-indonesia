@@ -1,1 +1,17 @@
-[{"id": "1309052001", "district_id": "130905", "name": "SIMATALU"}, {"id": "1309052002", "district_id": "130905", "name": "SIMALEGI"}, {"id": "1309052003", "district_id": "130905", "name": "SIGAPOKNA"}]
+[
+  {
+    "id": "1309052001",
+    "district_id": "130905",
+    "name": "SIMATALU"
+  },
+  {
+    "id": "1309052002",
+    "district_id": "130905",
+    "name": "SIMALEGI"
+  },
+  {
+    "id": "1309052003",
+    "district_id": "130905",
+    "name": "SIGAPOKNA"
+  }
+]

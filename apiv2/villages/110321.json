@@ -1,1 +1,82 @@
-[{"id": "1103212001", "district_id": "110321", "name": "MEUDANG ARA"}, {"id": "1103212002", "district_id": "110321", "name": "GUNONG PUTOH"}, {"id": "1103212003", "district_id": "110321", "name": "MEUNASAH AROEN"}, {"id": "1103212004", "district_id": "110321", "name": "KEUDE DUA"}, {"id": "1103212005", "district_id": "110321", "name": "SEUNEUBOK LAPANG"}, {"id": "1103212006", "district_id": "110321", "name": "ALUE JANGAT"}, {"id": "1103212007", "district_id": "110321", "name": "BUKET PEULAWI"}, {"id": "1103212008", "district_id": "110321", "name": "LHOK PANJOE"}, {"id": "1103212009", "district_id": "110321", "name": "SEUNEUBOK ACEH BARO"}, {"id": "1103212010", "district_id": "110321", "name": "PULO BLANG"}, {"id": "1103212011", "district_id": "110321", "name": "LHOK DALAM"}, {"id": "1103212012", "district_id": "110321", "name": "LHOK LEUMAK"}, {"id": "1103212013", "district_id": "110321", "name": "SEUNEUBOK KULAM"}, {"id": "1103212014", "district_id": "110321", "name": "PANTON MEUREBO"}, {"id": "1103212015", "district_id": "110321", "name": "SEUNEUBOK TEUNGOH"}, {"id": "1103212016", "district_id": "110321", "name": "LHOK MEUREU"}]
+[
+  {
+    "id": "1103212001",
+    "district_id": "110321",
+    "name": "MEUDANG ARA"
+  },
+  {
+    "id": "1103212002",
+    "district_id": "110321",
+    "name": "GUNONG PUTOH"
+  },
+  {
+    "id": "1103212003",
+    "district_id": "110321",
+    "name": "MEUNASAH AROEN"
+  },
+  {
+    "id": "1103212004",
+    "district_id": "110321",
+    "name": "KEUDE DUA"
+  },
+  {
+    "id": "1103212005",
+    "district_id": "110321",
+    "name": "SEUNEUBOK LAPANG"
+  },
+  {
+    "id": "1103212006",
+    "district_id": "110321",
+    "name": "ALUE JANGAT"
+  },
+  {
+    "id": "1103212007",
+    "district_id": "110321",
+    "name": "BUKET PEULAWI"
+  },
+  {
+    "id": "1103212008",
+    "district_id": "110321",
+    "name": "LHOK PANJOE"
+  },
+  {
+    "id": "1103212009",
+    "district_id": "110321",
+    "name": "SEUNEUBOK ACEH BARO"
+  },
+  {
+    "id": "1103212010",
+    "district_id": "110321",
+    "name": "PULO BLANG"
+  },
+  {
+    "id": "1103212011",
+    "district_id": "110321",
+    "name": "LHOK DALAM"
+  },
+  {
+    "id": "1103212012",
+    "district_id": "110321",
+    "name": "LHOK LEUMAK"
+  },
+  {
+    "id": "1103212013",
+    "district_id": "110321",
+    "name": "SEUNEUBOK KULAM"
+  },
+  {
+    "id": "1103212014",
+    "district_id": "110321",
+    "name": "PANTON MEUREBO"
+  },
+  {
+    "id": "1103212015",
+    "district_id": "110321",
+    "name": "SEUNEUBOK TEUNGOH"
+  },
+  {
+    "id": "1103212016",
+    "district_id": "110321",
+    "name": "LHOK MEUREU"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "1901082001", "district_id": "190108", "name": "PUDING BESAR"}, {"id": "1901082002", "district_id": "190108", "name": "LABU"}, {"id": "1901082003", "district_id": "190108", "name": "NIBUNG"}, {"id": "1901082004", "district_id": "190108", "name": "TANAH BAWAH"}, {"id": "1901082005", "district_id": "190108", "name": "SAING"}, {"id": "1901082006", "district_id": "190108", "name": "KOTA WARINGIN"}, {"id": "1901082007", "district_id": "190108", "name": "KAYU BESI"}]
+[
+  {
+    "id": "1901082001",
+    "district_id": "190108",
+    "name": "PUDING BESAR"
+  },
+  {
+    "id": "1901082002",
+    "district_id": "190108",
+    "name": "LABU"
+  },
+  {
+    "id": "1901082003",
+    "district_id": "190108",
+    "name": "NIBUNG"
+  },
+  {
+    "id": "1901082004",
+    "district_id": "190108",
+    "name": "TANAH BAWAH"
+  },
+  {
+    "id": "1901082005",
+    "district_id": "190108",
+    "name": "SAING"
+  },
+  {
+    "id": "1901082006",
+    "district_id": "190108",
+    "name": "KOTA WARINGIN"
+  },
+  {
+    "id": "1901082007",
+    "district_id": "190108",
+    "name": "KAYU BESI"
+  }
+]

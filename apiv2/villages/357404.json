@@ -1,1 +1,32 @@
-[{"id": "3574041001", "district_id": "357404", "name": "TISNONEGARAN"}, {"id": "3574041002", "district_id": "357404", "name": "SUKOHARJO"}, {"id": "3574041003", "district_id": "357404", "name": "KANIGARAN"}, {"id": "3574041004", "district_id": "357404", "name": "KEBONSARI WETAN"}, {"id": "3574041005", "district_id": "357404", "name": "CURAHGRINTING"}, {"id": "3574041006", "district_id": "357404", "name": "KEBONSARI KULON"}]
+[
+  {
+    "id": "3574041001",
+    "district_id": "357404",
+    "name": "TISNONEGARAN"
+  },
+  {
+    "id": "3574041002",
+    "district_id": "357404",
+    "name": "SUKOHARJO"
+  },
+  {
+    "id": "3574041003",
+    "district_id": "357404",
+    "name": "KANIGARAN"
+  },
+  {
+    "id": "3574041004",
+    "district_id": "357404",
+    "name": "KEBONSARI WETAN"
+  },
+  {
+    "id": "3574041005",
+    "district_id": "357404",
+    "name": "CURAHGRINTING"
+  },
+  {
+    "id": "3574041006",
+    "district_id": "357404",
+    "name": "KEBONSARI KULON"
+  }
+]

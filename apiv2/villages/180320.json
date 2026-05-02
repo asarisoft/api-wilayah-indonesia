@@ -1,1 +1,47 @@
-[{"id": "1803202001", "district_id": "180320", "name": "CEMPAKA"}, {"id": "1803202002", "district_id": "180320", "name": "SRI AGUNG"}, {"id": "1803202003", "district_id": "180320", "name": "LEPANG TENGAH"}, {"id": "1803202004", "district_id": "180320", "name": "CAHAYA MAKMUR"}, {"id": "1803202005", "district_id": "180320", "name": "SUKA JAYA"}, {"id": "1803202006", "district_id": "180320", "name": "SRI JAYA"}, {"id": "1803202007", "district_id": "180320", "name": "NEGARA AGUNG"}, {"id": "1803202008", "district_id": "180320", "name": "CEMPAKA BARAT"}, {"id": "1803202009", "district_id": "180320", "name": "CEMPAKA TIMUR"}]
+[
+  {
+    "id": "1803202001",
+    "district_id": "180320",
+    "name": "CEMPAKA"
+  },
+  {
+    "id": "1803202002",
+    "district_id": "180320",
+    "name": "SRI AGUNG"
+  },
+  {
+    "id": "1803202003",
+    "district_id": "180320",
+    "name": "LEPANG TENGAH"
+  },
+  {
+    "id": "1803202004",
+    "district_id": "180320",
+    "name": "CAHAYA MAKMUR"
+  },
+  {
+    "id": "1803202005",
+    "district_id": "180320",
+    "name": "SUKA JAYA"
+  },
+  {
+    "id": "1803202006",
+    "district_id": "180320",
+    "name": "SRI JAYA"
+  },
+  {
+    "id": "1803202007",
+    "district_id": "180320",
+    "name": "NEGARA AGUNG"
+  },
+  {
+    "id": "1803202008",
+    "district_id": "180320",
+    "name": "CEMPAKA BARAT"
+  },
+  {
+    "id": "1803202009",
+    "district_id": "180320",
+    "name": "CEMPAKA TIMUR"
+  }
+]

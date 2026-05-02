@@ -1,1 +1,37 @@
-[{"id": "3509191001", "district_id": "350919", "name": "MANGLI"}, {"id": "3509191002", "district_id": "350919", "name": "SEMPUSARI"}, {"id": "3509191003", "district_id": "350919", "name": "KEBONAGUNG"}, {"id": "3509191004", "district_id": "350919", "name": "KALIWATES"}, {"id": "3509191005", "district_id": "350919", "name": "JEMBERKIDUL"}, {"id": "3509191006", "district_id": "350919", "name": "KEPATIHAN"}, {"id": "3509191007", "district_id": "350919", "name": "TEGALBESAR"}]
+[
+  {
+    "id": "3509191001",
+    "district_id": "350919",
+    "name": "MANGLI"
+  },
+  {
+    "id": "3509191002",
+    "district_id": "350919",
+    "name": "SEMPUSARI"
+  },
+  {
+    "id": "3509191003",
+    "district_id": "350919",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3509191004",
+    "district_id": "350919",
+    "name": "KALIWATES"
+  },
+  {
+    "id": "3509191005",
+    "district_id": "350919",
+    "name": "JEMBERKIDUL"
+  },
+  {
+    "id": "3509191006",
+    "district_id": "350919",
+    "name": "KEPATIHAN"
+  },
+  {
+    "id": "3509191007",
+    "district_id": "350919",
+    "name": "TEGALBESAR"
+  }
+]

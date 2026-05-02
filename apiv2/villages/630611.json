@@ -1,1 +1,37 @@
-[{"id": "6306112001", "district_id": "630611", "name": "SIANG GANTUNG"}, {"id": "6306112002", "district_id": "630611", "name": "BARU"}, {"id": "6306112003", "district_id": "630611", "name": "TANJUNG SELOR"}, {"id": "6306112004", "district_id": "630611", "name": "BADAUN"}, {"id": "6306112005", "district_id": "630611", "name": "BAJAYAU"}, {"id": "6306112006", "district_id": "630611", "name": "BAJAYAU TENGAH"}, {"id": "6306112007", "district_id": "630611", "name": "BAJAYAU LAMA"}]
+[
+  {
+    "id": "6306112001",
+    "district_id": "630611",
+    "name": "SIANG GANTUNG"
+  },
+  {
+    "id": "6306112002",
+    "district_id": "630611",
+    "name": "BARU"
+  },
+  {
+    "id": "6306112003",
+    "district_id": "630611",
+    "name": "TANJUNG SELOR"
+  },
+  {
+    "id": "6306112004",
+    "district_id": "630611",
+    "name": "BADAUN"
+  },
+  {
+    "id": "6306112005",
+    "district_id": "630611",
+    "name": "BAJAYAU"
+  },
+  {
+    "id": "6306112006",
+    "district_id": "630611",
+    "name": "BAJAYAU TENGAH"
+  },
+  {
+    "id": "6306112007",
+    "district_id": "630611",
+    "name": "BAJAYAU LAMA"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "9602112001", "district_id": "960211", "name": "UDAGAGA"}, {"id": "9602112002", "district_id": "960211", "name": "KAYUBIRO"}, {"id": "9602112003", "district_id": "960211", "name": "ADONA"}, {"id": "9602112004", "district_id": "960211", "name": "BENAWA II"}, {"id": "9602112005", "district_id": "960211", "name": "ATORI"}, {"id": "9602112006", "district_id": "960211", "name": "KAMUNDAN SATU"}, {"id": "9602112007", "district_id": "960211", "name": "KARIRIF"}, {"id": "9602112008", "district_id": "960211", "name": "BUBUKO"}, {"id": "9602112009", "district_id": "960211", "name": "KAMUNDAN DUA"}]
+[
+  {
+    "id": "9602112001",
+    "district_id": "960211",
+    "name": "UDAGAGA"
+  },
+  {
+    "id": "9602112002",
+    "district_id": "960211",
+    "name": "KAYUBIRO"
+  },
+  {
+    "id": "9602112003",
+    "district_id": "960211",
+    "name": "ADONA"
+  },
+  {
+    "id": "9602112004",
+    "district_id": "960211",
+    "name": "BENAWA II"
+  },
+  {
+    "id": "9602112005",
+    "district_id": "960211",
+    "name": "ATORI"
+  },
+  {
+    "id": "9602112006",
+    "district_id": "960211",
+    "name": "KAMUNDAN SATU"
+  },
+  {
+    "id": "9602112007",
+    "district_id": "960211",
+    "name": "KARIRIF"
+  },
+  {
+    "id": "9602112008",
+    "district_id": "960211",
+    "name": "BUBUKO"
+  },
+  {
+    "id": "9602112009",
+    "district_id": "960211",
+    "name": "KAMUNDAN DUA"
+  }
+]

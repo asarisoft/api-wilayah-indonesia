@@ -1,1 +1,62 @@
-[{"id": "820501", "regency_id": "8205", "name": "MANGOLI TIMUR"}, {"id": "820502", "regency_id": "8205", "name": "SANANA"}, {"id": "820503", "regency_id": "8205", "name": "SULABESI BARAT"}, {"id": "820506", "regency_id": "8205", "name": "MANGOLI BARAT"}, {"id": "820507", "regency_id": "8205", "name": "SULABESI TENGAH"}, {"id": "820508", "regency_id": "8205", "name": "SULABESI TIMUR"}, {"id": "820509", "regency_id": "8205", "name": "SULABESI SELATAN"}, {"id": "820510", "regency_id": "8205", "name": "MANGOLI UTARA TIMUR"}, {"id": "820511", "regency_id": "8205", "name": "MANGOLI TENGAH"}, {"id": "820512", "regency_id": "8205", "name": "MANGOLI SELATAN"}, {"id": "820513", "regency_id": "8205", "name": "MANGOLI UTARA"}, {"id": "820518", "regency_id": "8205", "name": "SANANA UTARA"}]
+[
+  {
+    "id": "820501",
+    "regency_id": "8205",
+    "name": "MANGOLI TIMUR"
+  },
+  {
+    "id": "820502",
+    "regency_id": "8205",
+    "name": "SANANA"
+  },
+  {
+    "id": "820503",
+    "regency_id": "8205",
+    "name": "SULABESI BARAT"
+  },
+  {
+    "id": "820506",
+    "regency_id": "8205",
+    "name": "MANGOLI BARAT"
+  },
+  {
+    "id": "820507",
+    "regency_id": "8205",
+    "name": "SULABESI TENGAH"
+  },
+  {
+    "id": "820508",
+    "regency_id": "8205",
+    "name": "SULABESI TIMUR"
+  },
+  {
+    "id": "820509",
+    "regency_id": "8205",
+    "name": "SULABESI SELATAN"
+  },
+  {
+    "id": "820510",
+    "regency_id": "8205",
+    "name": "MANGOLI UTARA TIMUR"
+  },
+  {
+    "id": "820511",
+    "regency_id": "8205",
+    "name": "MANGOLI TENGAH"
+  },
+  {
+    "id": "820512",
+    "regency_id": "8205",
+    "name": "MANGOLI SELATAN"
+  },
+  {
+    "id": "820513",
+    "regency_id": "8205",
+    "name": "MANGOLI UTARA"
+  },
+  {
+    "id": "820518",
+    "regency_id": "8205",
+    "name": "SANANA UTARA"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "3210201004", "district_id": "321020", "name": "CIGASONG"}, {"id": "3210201005", "district_id": "321020", "name": "SIMPEUREUM"}, {"id": "3210201006", "district_id": "321020", "name": "CICENANG"}, {"id": "3210202001", "district_id": "321020", "name": "KAWUNGHILIR"}, {"id": "3210202002", "district_id": "321020", "name": "TAJUR"}, {"id": "3210202003", "district_id": "321020", "name": "TENJOLAYAR"}, {"id": "3210202007", "district_id": "321020", "name": "BARIBIS"}, {"id": "3210202008", "district_id": "321020", "name": "BATUJAYA"}, {"id": "3210202009", "district_id": "321020", "name": "KUTAMANGGU"}, {"id": "3210202010", "district_id": "321020", "name": "KARAYUNAN"}]
+[
+  {
+    "id": "3210201004",
+    "district_id": "321020",
+    "name": "CIGASONG"
+  },
+  {
+    "id": "3210201005",
+    "district_id": "321020",
+    "name": "SIMPEUREUM"
+  },
+  {
+    "id": "3210201006",
+    "district_id": "321020",
+    "name": "CICENANG"
+  },
+  {
+    "id": "3210202001",
+    "district_id": "321020",
+    "name": "KAWUNGHILIR"
+  },
+  {
+    "id": "3210202002",
+    "district_id": "321020",
+    "name": "TAJUR"
+  },
+  {
+    "id": "3210202003",
+    "district_id": "321020",
+    "name": "TENJOLAYAR"
+  },
+  {
+    "id": "3210202007",
+    "district_id": "321020",
+    "name": "BARIBIS"
+  },
+  {
+    "id": "3210202008",
+    "district_id": "321020",
+    "name": "BATUJAYA"
+  },
+  {
+    "id": "3210202009",
+    "district_id": "321020",
+    "name": "KUTAMANGGU"
+  },
+  {
+    "id": "3210202010",
+    "district_id": "321020",
+    "name": "KARAYUNAN"
+  }
+]

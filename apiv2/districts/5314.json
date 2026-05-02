@@ -1,1 +1,57 @@
-[{"id": "531401", "regency_id": "5314", "name": "ROTE BARAT DAYA"}, {"id": "531402", "regency_id": "5314", "name": "ROTE BARAT LAUT"}, {"id": "531403", "regency_id": "5314", "name": "LOBALAIN"}, {"id": "531404", "regency_id": "5314", "name": "ROTE TENGAH"}, {"id": "531405", "regency_id": "5314", "name": "PANTAI BARU"}, {"id": "531406", "regency_id": "5314", "name": "ROTE TIMUR"}, {"id": "531407", "regency_id": "5314", "name": "ROTE BARAT"}, {"id": "531408", "regency_id": "5314", "name": "ROTE SELATAN"}, {"id": "531409", "regency_id": "5314", "name": "NDAO NUSE"}, {"id": "531410", "regency_id": "5314", "name": "LANDU LEKO"}, {"id": "531411", "regency_id": "5314", "name": "LOAHOLU"}]
+[
+  {
+    "id": "531401",
+    "regency_id": "5314",
+    "name": "ROTE BARAT DAYA"
+  },
+  {
+    "id": "531402",
+    "regency_id": "5314",
+    "name": "ROTE BARAT LAUT"
+  },
+  {
+    "id": "531403",
+    "regency_id": "5314",
+    "name": "LOBALAIN"
+  },
+  {
+    "id": "531404",
+    "regency_id": "5314",
+    "name": "ROTE TENGAH"
+  },
+  {
+    "id": "531405",
+    "regency_id": "5314",
+    "name": "PANTAI BARU"
+  },
+  {
+    "id": "531406",
+    "regency_id": "5314",
+    "name": "ROTE TIMUR"
+  },
+  {
+    "id": "531407",
+    "regency_id": "5314",
+    "name": "ROTE BARAT"
+  },
+  {
+    "id": "531408",
+    "regency_id": "5314",
+    "name": "ROTE SELATAN"
+  },
+  {
+    "id": "531409",
+    "regency_id": "5314",
+    "name": "NDAO NUSE"
+  },
+  {
+    "id": "531410",
+    "regency_id": "5314",
+    "name": "LANDU LEKO"
+  },
+  {
+    "id": "531411",
+    "regency_id": "5314",
+    "name": "LOAHOLU"
+  }
+]

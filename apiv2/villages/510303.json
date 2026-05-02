@@ -1,1 +1,92 @@
-[{"id": "5103032001", "district_id": "510303", "name": "DARMASABA"}, {"id": "5103032002", "district_id": "510303", "name": "SIBANGKAJA"}, {"id": "5103032003", "district_id": "510303", "name": "SIBANGGEDE"}, {"id": "5103032004", "district_id": "510303", "name": "JAGAPATI"}, {"id": "5103032005", "district_id": "510303", "name": "ANGANTAKA"}, {"id": "5103032006", "district_id": "510303", "name": "SEDANG"}, {"id": "5103032007", "district_id": "510303", "name": "MAMBAL"}, {"id": "5103032008", "district_id": "510303", "name": "ABIANSEMAL"}, {"id": "5103032009", "district_id": "510303", "name": "BONGKASA"}, {"id": "5103032010", "district_id": "510303", "name": "TAMAN"}, {"id": "5103032011", "district_id": "510303", "name": "BLAHKIUH"}, {"id": "5103032012", "district_id": "510303", "name": "AYUNAN"}, {"id": "5103032013", "district_id": "510303", "name": "SANGEH"}, {"id": "5103032014", "district_id": "510303", "name": "PUNGGUL"}, {"id": "5103032015", "district_id": "510303", "name": "MEKAR BHUWANA"}, {"id": "5103032016", "district_id": "510303", "name": "ABIANSEMAL DAUH YEH CANI"}, {"id": "5103032017", "district_id": "510303", "name": "SELAT"}, {"id": "5103032018", "district_id": "510303", "name": "BONGKASA PERTIWI"}]
+[
+  {
+    "id": "5103032001",
+    "district_id": "510303",
+    "name": "DARMASABA"
+  },
+  {
+    "id": "5103032002",
+    "district_id": "510303",
+    "name": "SIBANGKAJA"
+  },
+  {
+    "id": "5103032003",
+    "district_id": "510303",
+    "name": "SIBANGGEDE"
+  },
+  {
+    "id": "5103032004",
+    "district_id": "510303",
+    "name": "JAGAPATI"
+  },
+  {
+    "id": "5103032005",
+    "district_id": "510303",
+    "name": "ANGANTAKA"
+  },
+  {
+    "id": "5103032006",
+    "district_id": "510303",
+    "name": "SEDANG"
+  },
+  {
+    "id": "5103032007",
+    "district_id": "510303",
+    "name": "MAMBAL"
+  },
+  {
+    "id": "5103032008",
+    "district_id": "510303",
+    "name": "ABIANSEMAL"
+  },
+  {
+    "id": "5103032009",
+    "district_id": "510303",
+    "name": "BONGKASA"
+  },
+  {
+    "id": "5103032010",
+    "district_id": "510303",
+    "name": "TAMAN"
+  },
+  {
+    "id": "5103032011",
+    "district_id": "510303",
+    "name": "BLAHKIUH"
+  },
+  {
+    "id": "5103032012",
+    "district_id": "510303",
+    "name": "AYUNAN"
+  },
+  {
+    "id": "5103032013",
+    "district_id": "510303",
+    "name": "SANGEH"
+  },
+  {
+    "id": "5103032014",
+    "district_id": "510303",
+    "name": "PUNGGUL"
+  },
+  {
+    "id": "5103032015",
+    "district_id": "510303",
+    "name": "MEKAR BHUWANA"
+  },
+  {
+    "id": "5103032016",
+    "district_id": "510303",
+    "name": "ABIANSEMAL DAUH YEH CANI"
+  },
+  {
+    "id": "5103032017",
+    "district_id": "510303",
+    "name": "SELAT"
+  },
+  {
+    "id": "5103032018",
+    "district_id": "510303",
+    "name": "BONGKASA PERTIWI"
+  }
+]

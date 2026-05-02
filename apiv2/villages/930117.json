@@ -1,1 +1,27 @@
-[{"id": "9301172001", "district_id": "930117", "name": "KWEMSID"}, {"id": "9301172002", "district_id": "930117", "name": "KAPTEL"}, {"id": "9301172003", "district_id": "930117", "name": "KANISKOBAT"}, {"id": "9301172004", "district_id": "930117", "name": "IHALIK"}, {"id": "9301172005", "district_id": "930117", "name": "BU EPE"}]
+[
+  {
+    "id": "9301172001",
+    "district_id": "930117",
+    "name": "KWEMSID"
+  },
+  {
+    "id": "9301172002",
+    "district_id": "930117",
+    "name": "KAPTEL"
+  },
+  {
+    "id": "9301172003",
+    "district_id": "930117",
+    "name": "KANISKOBAT"
+  },
+  {
+    "id": "9301172004",
+    "district_id": "930117",
+    "name": "IHALIK"
+  },
+  {
+    "id": "9301172005",
+    "district_id": "930117",
+    "name": "BU EPE"
+  }
+]

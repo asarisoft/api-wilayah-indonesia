@@ -1,1 +1,142 @@
-[{"id": "1218091029", "district_id": "121809", "name": "PEKAN DOLOK MASIHUL"}, {"id": "1218092001", "district_id": "121809", "name": "DAME"}, {"id": "1218092002", "district_id": "121809", "name": "BLOK 10"}, {"id": "1218092003", "district_id": "121809", "name": "KOTA TENGAH"}, {"id": "1218092004", "district_id": "121809", "name": "SILAU MERAWAN"}, {"id": "1218092005", "district_id": "121809", "name": "PEKAN KAMIS"}, {"id": "1218092006", "district_id": "121809", "name": "BATU 12"}, {"id": "1218092007", "district_id": "121809", "name": "BATU 13"}, {"id": "1218092008", "district_id": "121809", "name": "BAJA RONGGI"}, {"id": "1218092009", "district_id": "121809", "name": "DOLOK SAGALA"}, {"id": "1218092010", "district_id": "121809", "name": "DOLOK MANAMPANG"}, {"id": "1218092011", "district_id": "121809", "name": "PARDOMUAN"}, {"id": "1218092012", "district_id": "121809", "name": "TEGAL SARI"}, {"id": "1218092013", "district_id": "121809", "name": "PERTAMBATAN"}, {"id": "1218092015", "district_id": "121809", "name": "HUTA NAULI"}, {"id": "1218092016", "district_id": "121809", "name": "BANTAN"}, {"id": "1218092017", "district_id": "121809", "name": "BUKIT CERMIN HILIR"}, {"id": "1218092018", "district_id": "121809", "name": "MALASORI"}, {"id": "1218092019", "district_id": "121809", "name": "SARANG GITING"}, {"id": "1218092020", "district_id": "121809", "name": "DURIAN PULOAN"}, {"id": "1218092021", "district_id": "121809", "name": "SARANG TOROP"}, {"id": "1218092022", "district_id": "121809", "name": "HAVEA"}, {"id": "1218092023", "district_id": "121809", "name": "ARAS PANJANG"}, {"id": "1218092024", "district_id": "121809", "name": "MARTEBING"}, {"id": "1218092025", "district_id": "121809", "name": "KERAPUH"}, {"id": "1218092026", "district_id": "121809", "name": "TANJUNG MARIA"}, {"id": "1218092027", "district_id": "121809", "name": "BAH KERAPUH"}, {"id": "1218092028", "district_id": "121809", "name": "UJUNG SILAU"}]
+[
+  {
+    "id": "1218091029",
+    "district_id": "121809",
+    "name": "PEKAN DOLOK MASIHUL"
+  },
+  {
+    "id": "1218092001",
+    "district_id": "121809",
+    "name": "DAME"
+  },
+  {
+    "id": "1218092002",
+    "district_id": "121809",
+    "name": "BLOK 10"
+  },
+  {
+    "id": "1218092003",
+    "district_id": "121809",
+    "name": "KOTA TENGAH"
+  },
+  {
+    "id": "1218092004",
+    "district_id": "121809",
+    "name": "SILAU MERAWAN"
+  },
+  {
+    "id": "1218092005",
+    "district_id": "121809",
+    "name": "PEKAN KAMIS"
+  },
+  {
+    "id": "1218092006",
+    "district_id": "121809",
+    "name": "BATU 12"
+  },
+  {
+    "id": "1218092007",
+    "district_id": "121809",
+    "name": "BATU 13"
+  },
+  {
+    "id": "1218092008",
+    "district_id": "121809",
+    "name": "BAJA RONGGI"
+  },
+  {
+    "id": "1218092009",
+    "district_id": "121809",
+    "name": "DOLOK SAGALA"
+  },
+  {
+    "id": "1218092010",
+    "district_id": "121809",
+    "name": "DOLOK MANAMPANG"
+  },
+  {
+    "id": "1218092011",
+    "district_id": "121809",
+    "name": "PARDOMUAN"
+  },
+  {
+    "id": "1218092012",
+    "district_id": "121809",
+    "name": "TEGAL SARI"
+  },
+  {
+    "id": "1218092013",
+    "district_id": "121809",
+    "name": "PERTAMBATAN"
+  },
+  {
+    "id": "1218092015",
+    "district_id": "121809",
+    "name": "HUTA NAULI"
+  },
+  {
+    "id": "1218092016",
+    "district_id": "121809",
+    "name": "BANTAN"
+  },
+  {
+    "id": "1218092017",
+    "district_id": "121809",
+    "name": "BUKIT CERMIN HILIR"
+  },
+  {
+    "id": "1218092018",
+    "district_id": "121809",
+    "name": "MALASORI"
+  },
+  {
+    "id": "1218092019",
+    "district_id": "121809",
+    "name": "SARANG GITING"
+  },
+  {
+    "id": "1218092020",
+    "district_id": "121809",
+    "name": "DURIAN PULOAN"
+  },
+  {
+    "id": "1218092021",
+    "district_id": "121809",
+    "name": "SARANG TOROP"
+  },
+  {
+    "id": "1218092022",
+    "district_id": "121809",
+    "name": "HAVEA"
+  },
+  {
+    "id": "1218092023",
+    "district_id": "121809",
+    "name": "ARAS PANJANG"
+  },
+  {
+    "id": "1218092024",
+    "district_id": "121809",
+    "name": "MARTEBING"
+  },
+  {
+    "id": "1218092025",
+    "district_id": "121809",
+    "name": "KERAPUH"
+  },
+  {
+    "id": "1218092026",
+    "district_id": "121809",
+    "name": "TANJUNG MARIA"
+  },
+  {
+    "id": "1218092027",
+    "district_id": "121809",
+    "name": "BAH KERAPUH"
+  },
+  {
+    "id": "1218092028",
+    "district_id": "121809",
+    "name": "UJUNG SILAU"
+  }
+]

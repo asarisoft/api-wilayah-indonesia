@@ -1,1 +1,72 @@
-[{"id": "7103152001", "district_id": "710315", "name": "SIMUENG"}, {"id": "7103152002", "district_id": "710315", "name": "BENTUNG"}, {"id": "7103152003", "district_id": "710315", "name": "LESABE"}, {"id": "7103152004", "district_id": "710315", "name": "MALAMMENGGU"}, {"id": "7103152005", "district_id": "710315", "name": "PALARENG"}, {"id": "7103152007", "district_id": "710315", "name": "BINEBAS"}, {"id": "7103152008", "district_id": "710315", "name": "MANDOI"}, {"id": "7103152015", "district_id": "710315", "name": "BATUWINGKUNG"}, {"id": "7103152016", "district_id": "710315", "name": "BIRAHI"}, {"id": "7103152017", "district_id": "710315", "name": "LAOTONGAN"}, {"id": "7103152018", "district_id": "710315", "name": "BUKIDE"}, {"id": "7103152019", "district_id": "710315", "name": "KALAGHENG"}, {"id": "7103152020", "district_id": "710315", "name": "LESABE I"}, {"id": "7103152021", "district_id": "710315", "name": "BULO"}]
+[
+  {
+    "id": "7103152001",
+    "district_id": "710315",
+    "name": "SIMUENG"
+  },
+  {
+    "id": "7103152002",
+    "district_id": "710315",
+    "name": "BENTUNG"
+  },
+  {
+    "id": "7103152003",
+    "district_id": "710315",
+    "name": "LESABE"
+  },
+  {
+    "id": "7103152004",
+    "district_id": "710315",
+    "name": "MALAMMENGGU"
+  },
+  {
+    "id": "7103152005",
+    "district_id": "710315",
+    "name": "PALARENG"
+  },
+  {
+    "id": "7103152007",
+    "district_id": "710315",
+    "name": "BINEBAS"
+  },
+  {
+    "id": "7103152008",
+    "district_id": "710315",
+    "name": "MANDOI"
+  },
+  {
+    "id": "7103152015",
+    "district_id": "710315",
+    "name": "BATUWINGKUNG"
+  },
+  {
+    "id": "7103152016",
+    "district_id": "710315",
+    "name": "BIRAHI"
+  },
+  {
+    "id": "7103152017",
+    "district_id": "710315",
+    "name": "LAOTONGAN"
+  },
+  {
+    "id": "7103152018",
+    "district_id": "710315",
+    "name": "BUKIDE"
+  },
+  {
+    "id": "7103152019",
+    "district_id": "710315",
+    "name": "KALAGHENG"
+  },
+  {
+    "id": "7103152020",
+    "district_id": "710315",
+    "name": "LESABE I"
+  },
+  {
+    "id": "7103152021",
+    "district_id": "710315",
+    "name": "BULO"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "5304121001", "district_id": "530412", "name": "KOTA ATAMBUA"}, {"id": "5304121002", "district_id": "530412", "name": "TENUKIIK"}, {"id": "5304121003", "district_id": "530412", "name": "MANUMUTIN"}, {"id": "5304121010", "district_id": "530412", "name": "FATUBENAO"}]
+[
+  {
+    "id": "5304121001",
+    "district_id": "530412",
+    "name": "KOTA ATAMBUA"
+  },
+  {
+    "id": "5304121002",
+    "district_id": "530412",
+    "name": "TENUKIIK"
+  },
+  {
+    "id": "5304121003",
+    "district_id": "530412",
+    "name": "MANUMUTIN"
+  },
+  {
+    "id": "5304121010",
+    "district_id": "530412",
+    "name": "FATUBENAO"
+  }
+]

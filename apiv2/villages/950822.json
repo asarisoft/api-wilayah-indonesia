@@ -1,1 +1,37 @@
-[{"id": "9508222001", "district_id": "950822", "name": "UBURU"}, {"id": "9508222002", "district_id": "950822", "name": "KABOLILANGEN"}, {"id": "9508222003", "district_id": "950822", "name": "KOLMA"}, {"id": "9508222004", "district_id": "950822", "name": "BRAMBEL"}, {"id": "9508222005", "district_id": "950822", "name": "KIABYPMA"}, {"id": "9508222006", "district_id": "950822", "name": "KIBISIM"}, {"id": "9508222007", "district_id": "950822", "name": "LABRIK"}]
+[
+  {
+    "id": "9508222001",
+    "district_id": "950822",
+    "name": "UBURU"
+  },
+  {
+    "id": "9508222002",
+    "district_id": "950822",
+    "name": "KABOLILANGEN"
+  },
+  {
+    "id": "9508222003",
+    "district_id": "950822",
+    "name": "KOLMA"
+  },
+  {
+    "id": "9508222004",
+    "district_id": "950822",
+    "name": "BRAMBEL"
+  },
+  {
+    "id": "9508222005",
+    "district_id": "950822",
+    "name": "KIABYPMA"
+  },
+  {
+    "id": "9508222006",
+    "district_id": "950822",
+    "name": "KIBISIM"
+  },
+  {
+    "id": "9508222007",
+    "district_id": "950822",
+    "name": "LABRIK"
+  }
+]

@@ -1,1 +1,132 @@
-[{"id": "6303051001", "district_id": "630305", "name": "KERATON"}, {"id": "6303051002", "district_id": "630305", "name": "JAWA"}, {"id": "6303051003", "district_id": "630305", "name": "PASAYANGAN"}, {"id": "6303051004", "district_id": "630305", "name": "MURUNG KERATON"}, {"id": "6303051005", "district_id": "630305", "name": "SUNGAI PARING"}, {"id": "6303051055", "district_id": "630305", "name": "TANJUNG REMA DARAT"}, {"id": "6303051059", "district_id": "630305", "name": "SEKUMPUL"}, {"id": "6303052009", "district_id": "630305", "name": "SUNGAI SIPAI"}, {"id": "6303052010", "district_id": "630305", "name": "PASAYANGAN SELATAN"}, {"id": "6303052011", "district_id": "630305", "name": "TANJUNG REMA"}, {"id": "6303052012", "district_id": "630305", "name": "BINCAU"}, {"id": "6303052013", "district_id": "630305", "name": "MURUNG KENANGA"}, {"id": "6303052015", "district_id": "630305", "name": "TUNGGUL IRANG"}, {"id": "6303052016", "district_id": "630305", "name": "TAMBAK BARU"}, {"id": "6303052034", "district_id": "630305", "name": "CINDAI ALUS"}, {"id": "6303052036", "district_id": "630305", "name": "TUNGKARAN"}, {"id": "6303052037", "district_id": "630305", "name": "TAMBAK BARU ULU"}, {"id": "6303052040", "district_id": "630305", "name": "BINCAU MUARA"}, {"id": "6303052042", "district_id": "630305", "name": "TUNGGUL IRANG ILIR"}, {"id": "6303052043", "district_id": "630305", "name": "TUNGGUL IRANG ULU"}, {"id": "6303052051", "district_id": "630305", "name": "LABUAN TABU"}, {"id": "6303052052", "district_id": "630305", "name": "INDRASARI"}, {"id": "6303052054", "district_id": "630305", "name": "JAWA LAUT"}, {"id": "6303052056", "district_id": "630305", "name": "PASAYANGAN UTARA"}, {"id": "6303052057", "district_id": "630305", "name": "PASAYANGAN BARAT"}, {"id": "6303052058", "district_id": "630305", "name": "TAMBAK BARU ILIR"}]
+[
+  {
+    "id": "6303051001",
+    "district_id": "630305",
+    "name": "KERATON"
+  },
+  {
+    "id": "6303051002",
+    "district_id": "630305",
+    "name": "JAWA"
+  },
+  {
+    "id": "6303051003",
+    "district_id": "630305",
+    "name": "PASAYANGAN"
+  },
+  {
+    "id": "6303051004",
+    "district_id": "630305",
+    "name": "MURUNG KERATON"
+  },
+  {
+    "id": "6303051005",
+    "district_id": "630305",
+    "name": "SUNGAI PARING"
+  },
+  {
+    "id": "6303051055",
+    "district_id": "630305",
+    "name": "TANJUNG REMA DARAT"
+  },
+  {
+    "id": "6303051059",
+    "district_id": "630305",
+    "name": "SEKUMPUL"
+  },
+  {
+    "id": "6303052009",
+    "district_id": "630305",
+    "name": "SUNGAI SIPAI"
+  },
+  {
+    "id": "6303052010",
+    "district_id": "630305",
+    "name": "PASAYANGAN SELATAN"
+  },
+  {
+    "id": "6303052011",
+    "district_id": "630305",
+    "name": "TANJUNG REMA"
+  },
+  {
+    "id": "6303052012",
+    "district_id": "630305",
+    "name": "BINCAU"
+  },
+  {
+    "id": "6303052013",
+    "district_id": "630305",
+    "name": "MURUNG KENANGA"
+  },
+  {
+    "id": "6303052015",
+    "district_id": "630305",
+    "name": "TUNGGUL IRANG"
+  },
+  {
+    "id": "6303052016",
+    "district_id": "630305",
+    "name": "TAMBAK BARU"
+  },
+  {
+    "id": "6303052034",
+    "district_id": "630305",
+    "name": "CINDAI ALUS"
+  },
+  {
+    "id": "6303052036",
+    "district_id": "630305",
+    "name": "TUNGKARAN"
+  },
+  {
+    "id": "6303052037",
+    "district_id": "630305",
+    "name": "TAMBAK BARU ULU"
+  },
+  {
+    "id": "6303052040",
+    "district_id": "630305",
+    "name": "BINCAU MUARA"
+  },
+  {
+    "id": "6303052042",
+    "district_id": "630305",
+    "name": "TUNGGUL IRANG ILIR"
+  },
+  {
+    "id": "6303052043",
+    "district_id": "630305",
+    "name": "TUNGGUL IRANG ULU"
+  },
+  {
+    "id": "6303052051",
+    "district_id": "630305",
+    "name": "LABUAN TABU"
+  },
+  {
+    "id": "6303052052",
+    "district_id": "630305",
+    "name": "INDRASARI"
+  },
+  {
+    "id": "6303052054",
+    "district_id": "630305",
+    "name": "JAWA LAUT"
+  },
+  {
+    "id": "6303052056",
+    "district_id": "630305",
+    "name": "PASAYANGAN UTARA"
+  },
+  {
+    "id": "6303052057",
+    "district_id": "630305",
+    "name": "PASAYANGAN BARAT"
+  },
+  {
+    "id": "6303052058",
+    "district_id": "630305",
+    "name": "TAMBAK BARU ILIR"
+  }
+]

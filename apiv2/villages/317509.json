@@ -1,1 +1,27 @@
-[{"id": "3175091001", "district_id": "317509", "name": "CIRACAS"}, {"id": "3175091002", "district_id": "317509", "name": "CIBUBUR"}, {"id": "3175091003", "district_id": "317509", "name": "KELAPA DUA WETAN"}, {"id": "3175091004", "district_id": "317509", "name": "SUSUKAN"}, {"id": "3175091005", "district_id": "317509", "name": "RAMBUTAN"}]
+[
+  {
+    "id": "3175091001",
+    "district_id": "317509",
+    "name": "CIRACAS"
+  },
+  {
+    "id": "3175091002",
+    "district_id": "317509",
+    "name": "CIBUBUR"
+  },
+  {
+    "id": "3175091003",
+    "district_id": "317509",
+    "name": "KELAPA DUA WETAN"
+  },
+  {
+    "id": "3175091004",
+    "district_id": "317509",
+    "name": "SUSUKAN"
+  },
+  {
+    "id": "3175091005",
+    "district_id": "317509",
+    "name": "RAMBUTAN"
+  }
+]

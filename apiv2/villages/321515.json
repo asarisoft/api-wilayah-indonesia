@@ -1,1 +1,62 @@
-[{"id": "3215152001", "district_id": "321515", "name": "MEKARMAYA"}, {"id": "3215152002", "district_id": "321515", "name": "CILAMAYA"}, {"id": "3215152003", "district_id": "321515", "name": "MUARA"}, {"id": "3215152004", "district_id": "321515", "name": "MUARABARU"}, {"id": "3215152005", "district_id": "321515", "name": "SUKATANI"}, {"id": "3215152006", "district_id": "321515", "name": "TEGALWARU"}, {"id": "3215152007", "district_id": "321515", "name": "TEGALSARI"}, {"id": "3215152008", "district_id": "321515", "name": "CIKALONG"}, {"id": "3215152009", "district_id": "321515", "name": "CIKARANG"}, {"id": "3215152010", "district_id": "321515", "name": "RAWAGEMPOL WETAN"}, {"id": "3215152011", "district_id": "321515", "name": "RAWAGEMPOL KULON"}, {"id": "3215152012", "district_id": "321515", "name": "SUKAKERTA"}]
+[
+  {
+    "id": "3215152001",
+    "district_id": "321515",
+    "name": "MEKARMAYA"
+  },
+  {
+    "id": "3215152002",
+    "district_id": "321515",
+    "name": "CILAMAYA"
+  },
+  {
+    "id": "3215152003",
+    "district_id": "321515",
+    "name": "MUARA"
+  },
+  {
+    "id": "3215152004",
+    "district_id": "321515",
+    "name": "MUARABARU"
+  },
+  {
+    "id": "3215152005",
+    "district_id": "321515",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "3215152006",
+    "district_id": "321515",
+    "name": "TEGALWARU"
+  },
+  {
+    "id": "3215152007",
+    "district_id": "321515",
+    "name": "TEGALSARI"
+  },
+  {
+    "id": "3215152008",
+    "district_id": "321515",
+    "name": "CIKALONG"
+  },
+  {
+    "id": "3215152009",
+    "district_id": "321515",
+    "name": "CIKARANG"
+  },
+  {
+    "id": "3215152010",
+    "district_id": "321515",
+    "name": "RAWAGEMPOL WETAN"
+  },
+  {
+    "id": "3215152011",
+    "district_id": "321515",
+    "name": "RAWAGEMPOL KULON"
+  },
+  {
+    "id": "3215152012",
+    "district_id": "321515",
+    "name": "SUKAKERTA"
+  }
+]

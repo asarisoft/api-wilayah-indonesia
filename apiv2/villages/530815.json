@@ -1,1 +1,67 @@
-[{"id": "5308152001", "district_id": "530815", "name": "NGGESA"}, {"id": "5308152002", "district_id": "530815", "name": "DETUKELI"}, {"id": "5308152003", "district_id": "530815", "name": "KEBESANI"}, {"id": "5308152004", "district_id": "530815", "name": "WOLOMUKU"}, {"id": "5308152005", "district_id": "530815", "name": "WATUNGGERE"}, {"id": "5308152006", "district_id": "530815", "name": "NIDA"}, {"id": "5308152007", "district_id": "530815", "name": "MAUROLE SELATAN"}, {"id": "5308152008", "district_id": "530815", "name": "DETUMBEWA"}, {"id": "5308152009", "district_id": "530815", "name": "KANGANARA"}, {"id": "5308152011", "district_id": "530815", "name": "UNGGU"}, {"id": "5308152012", "district_id": "530815", "name": "NGGESABIRI"}, {"id": "5308152013", "district_id": "530815", "name": "WATUNGGERE MARILONGA"}, {"id": "5308152014", "district_id": "530815", "name": "JEO DU'A"}]
+[
+  {
+    "id": "5308152001",
+    "district_id": "530815",
+    "name": "NGGESA"
+  },
+  {
+    "id": "5308152002",
+    "district_id": "530815",
+    "name": "DETUKELI"
+  },
+  {
+    "id": "5308152003",
+    "district_id": "530815",
+    "name": "KEBESANI"
+  },
+  {
+    "id": "5308152004",
+    "district_id": "530815",
+    "name": "WOLOMUKU"
+  },
+  {
+    "id": "5308152005",
+    "district_id": "530815",
+    "name": "WATUNGGERE"
+  },
+  {
+    "id": "5308152006",
+    "district_id": "530815",
+    "name": "NIDA"
+  },
+  {
+    "id": "5308152007",
+    "district_id": "530815",
+    "name": "MAUROLE SELATAN"
+  },
+  {
+    "id": "5308152008",
+    "district_id": "530815",
+    "name": "DETUMBEWA"
+  },
+  {
+    "id": "5308152009",
+    "district_id": "530815",
+    "name": "KANGANARA"
+  },
+  {
+    "id": "5308152011",
+    "district_id": "530815",
+    "name": "UNGGU"
+  },
+  {
+    "id": "5308152012",
+    "district_id": "530815",
+    "name": "NGGESABIRI"
+  },
+  {
+    "id": "5308152013",
+    "district_id": "530815",
+    "name": "WATUNGGERE MARILONGA"
+  },
+  {
+    "id": "5308152014",
+    "district_id": "530815",
+    "name": "JEO DU'A"
+  }
+]

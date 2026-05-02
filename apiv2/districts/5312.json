@@ -1,1 +1,32 @@
-[{"id": "531204", "regency_id": "5312", "name": "TANA RIGHU"}, {"id": "531210", "regency_id": "5312", "name": "LOLI"}, {"id": "531211", "regency_id": "5312", "name": "WANOKAKA"}, {"id": "531212", "regency_id": "5312", "name": "LAMBOYA"}, {"id": "531215", "regency_id": "5312", "name": "KOTA WAIKABUBAK"}, {"id": "531218", "regency_id": "5312", "name": "LABOYA BARAT"}]
+[
+  {
+    "id": "531204",
+    "regency_id": "5312",
+    "name": "TANA RIGHU"
+  },
+  {
+    "id": "531210",
+    "regency_id": "5312",
+    "name": "LOLI"
+  },
+  {
+    "id": "531211",
+    "regency_id": "5312",
+    "name": "WANOKAKA"
+  },
+  {
+    "id": "531212",
+    "regency_id": "5312",
+    "name": "LAMBOYA"
+  },
+  {
+    "id": "531215",
+    "regency_id": "5312",
+    "name": "KOTA WAIKABUBAK"
+  },
+  {
+    "id": "531218",
+    "regency_id": "5312",
+    "name": "LABOYA BARAT"
+  }
+]

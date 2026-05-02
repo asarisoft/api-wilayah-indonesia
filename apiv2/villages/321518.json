@@ -1,1 +1,67 @@
-[{"id": "3215182001", "district_id": "321518", "name": "SUKAMERTA"}, {"id": "3215182002", "district_id": "321518", "name": "KUTAWARGI"}, {"id": "3215182003", "district_id": "321518", "name": "PANYINGKIRAN"}, {"id": "3215182004", "district_id": "321518", "name": "PASIRKALIKI"}, {"id": "3215182005", "district_id": "321518", "name": "PASIRAWI"}, {"id": "3215182006", "district_id": "321518", "name": "BALONGSARI"}, {"id": "3215182007", "district_id": "321518", "name": "MEKARJAYA"}, {"id": "3215182008", "district_id": "321518", "name": "SEKARWANGI"}, {"id": "3215182009", "district_id": "321518", "name": "PURWAMEKAR"}, {"id": "3215182010", "district_id": "321518", "name": "SUKAPURA"}, {"id": "3215182011", "district_id": "321518", "name": "CIBADAK"}, {"id": "3215182012", "district_id": "321518", "name": "SUKARAJA"}, {"id": "3215182014", "district_id": "321518", "name": "GOMBONGSARI"}]
+[
+  {
+    "id": "3215182001",
+    "district_id": "321518",
+    "name": "SUKAMERTA"
+  },
+  {
+    "id": "3215182002",
+    "district_id": "321518",
+    "name": "KUTAWARGI"
+  },
+  {
+    "id": "3215182003",
+    "district_id": "321518",
+    "name": "PANYINGKIRAN"
+  },
+  {
+    "id": "3215182004",
+    "district_id": "321518",
+    "name": "PASIRKALIKI"
+  },
+  {
+    "id": "3215182005",
+    "district_id": "321518",
+    "name": "PASIRAWI"
+  },
+  {
+    "id": "3215182006",
+    "district_id": "321518",
+    "name": "BALONGSARI"
+  },
+  {
+    "id": "3215182007",
+    "district_id": "321518",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3215182008",
+    "district_id": "321518",
+    "name": "SEKARWANGI"
+  },
+  {
+    "id": "3215182009",
+    "district_id": "321518",
+    "name": "PURWAMEKAR"
+  },
+  {
+    "id": "3215182010",
+    "district_id": "321518",
+    "name": "SUKAPURA"
+  },
+  {
+    "id": "3215182011",
+    "district_id": "321518",
+    "name": "CIBADAK"
+  },
+  {
+    "id": "3215182012",
+    "district_id": "321518",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "3215182014",
+    "district_id": "321518",
+    "name": "GOMBONGSARI"
+  }
+]

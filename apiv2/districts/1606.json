@@ -1,1 +1,77 @@
-[{"id": "160601", "regency_id": "1606", "name": "SEKAYU"}, {"id": "160602", "regency_id": "1606", "name": "LAIS"}, {"id": "160603", "regency_id": "1606", "name": "SUNGAI KERUH"}, {"id": "160604", "regency_id": "1606", "name": "BATANG HARI LEKO"}, {"id": "160605", "regency_id": "1606", "name": "SANGA DESA"}, {"id": "160606", "regency_id": "1606", "name": "BABAT TOMAN"}, {"id": "160607", "regency_id": "1606", "name": "SUNGAI LILIN"}, {"id": "160608", "regency_id": "1606", "name": "KELUANG"}, {"id": "160609", "regency_id": "1606", "name": "BAYUNG LENCIR"}, {"id": "160610", "regency_id": "1606", "name": "PLAKAT TINGGI"}, {"id": "160611", "regency_id": "1606", "name": "LALAN"}, {"id": "160612", "regency_id": "1606", "name": "TUNGKAL JAYA"}, {"id": "160613", "regency_id": "1606", "name": "LAWAN WETAN"}, {"id": "160614", "regency_id": "1606", "name": "BABAT SUPAT"}, {"id": "160615", "regency_id": "1606", "name": "JIRAK JAYA"}]
+[
+  {
+    "id": "160601",
+    "regency_id": "1606",
+    "name": "SEKAYU"
+  },
+  {
+    "id": "160602",
+    "regency_id": "1606",
+    "name": "LAIS"
+  },
+  {
+    "id": "160603",
+    "regency_id": "1606",
+    "name": "SUNGAI KERUH"
+  },
+  {
+    "id": "160604",
+    "regency_id": "1606",
+    "name": "BATANG HARI LEKO"
+  },
+  {
+    "id": "160605",
+    "regency_id": "1606",
+    "name": "SANGA DESA"
+  },
+  {
+    "id": "160606",
+    "regency_id": "1606",
+    "name": "BABAT TOMAN"
+  },
+  {
+    "id": "160607",
+    "regency_id": "1606",
+    "name": "SUNGAI LILIN"
+  },
+  {
+    "id": "160608",
+    "regency_id": "1606",
+    "name": "KELUANG"
+  },
+  {
+    "id": "160609",
+    "regency_id": "1606",
+    "name": "BAYUNG LENCIR"
+  },
+  {
+    "id": "160610",
+    "regency_id": "1606",
+    "name": "PLAKAT TINGGI"
+  },
+  {
+    "id": "160611",
+    "regency_id": "1606",
+    "name": "LALAN"
+  },
+  {
+    "id": "160612",
+    "regency_id": "1606",
+    "name": "TUNGKAL JAYA"
+  },
+  {
+    "id": "160613",
+    "regency_id": "1606",
+    "name": "LAWAN WETAN"
+  },
+  {
+    "id": "160614",
+    "regency_id": "1606",
+    "name": "BABAT SUPAT"
+  },
+  {
+    "id": "160615",
+    "regency_id": "1606",
+    "name": "JIRAK JAYA"
+  }
+]

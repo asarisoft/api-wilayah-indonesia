@@ -1,1 +1,27 @@
-[{"id": "1306122001", "district_id": "130612", "name": "PADANG LAWEH"}, {"id": "1306122002", "district_id": "130612", "name": "SUNGAI PUA"}, {"id": "1306122003", "district_id": "130612", "name": "BATAGAK"}, {"id": "1306122004", "district_id": "130612", "name": "BATU PALANO"}, {"id": "1306122005", "district_id": "130612", "name": "SARIAK"}]
+[
+  {
+    "id": "1306122001",
+    "district_id": "130612",
+    "name": "PADANG LAWEH"
+  },
+  {
+    "id": "1306122002",
+    "district_id": "130612",
+    "name": "SUNGAI PUA"
+  },
+  {
+    "id": "1306122003",
+    "district_id": "130612",
+    "name": "BATAGAK"
+  },
+  {
+    "id": "1306122004",
+    "district_id": "130612",
+    "name": "BATU PALANO"
+  },
+  {
+    "id": "1306122005",
+    "district_id": "130612",
+    "name": "SARIAK"
+  }
+]

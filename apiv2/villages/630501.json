@@ -1,1 +1,57 @@
-[{"id": "6305011001", "district_id": "630501", "name": "BINUANG"}, {"id": "6305011017", "district_id": "630501", "name": "KARANGAN PUTIH"}, {"id": "6305011018", "district_id": "630501", "name": "RAYA BELANTI"}, {"id": "6305012003", "district_id": "630501", "name": "TUNGKAP"}, {"id": "6305012006", "district_id": "630501", "name": "A. YANI PURA"}, {"id": "6305012007", "district_id": "630501", "name": "PULAU PINANG"}, {"id": "6305012008", "district_id": "630501", "name": "PUALAM SARI"}, {"id": "6305012009", "district_id": "630501", "name": "GUNUNG BATU"}, {"id": "6305012012", "district_id": "630501", "name": "PULAU PINANG UTARA"}, {"id": "6305012016", "district_id": "630501", "name": "PADANG SARI"}, {"id": "6305012019", "district_id": "630501", "name": "MEKAR SARI"}]
+[
+  {
+    "id": "6305011001",
+    "district_id": "630501",
+    "name": "BINUANG"
+  },
+  {
+    "id": "6305011017",
+    "district_id": "630501",
+    "name": "KARANGAN PUTIH"
+  },
+  {
+    "id": "6305011018",
+    "district_id": "630501",
+    "name": "RAYA BELANTI"
+  },
+  {
+    "id": "6305012003",
+    "district_id": "630501",
+    "name": "TUNGKAP"
+  },
+  {
+    "id": "6305012006",
+    "district_id": "630501",
+    "name": "A. YANI PURA"
+  },
+  {
+    "id": "6305012007",
+    "district_id": "630501",
+    "name": "PULAU PINANG"
+  },
+  {
+    "id": "6305012008",
+    "district_id": "630501",
+    "name": "PUALAM SARI"
+  },
+  {
+    "id": "6305012009",
+    "district_id": "630501",
+    "name": "GUNUNG BATU"
+  },
+  {
+    "id": "6305012012",
+    "district_id": "630501",
+    "name": "PULAU PINANG UTARA"
+  },
+  {
+    "id": "6305012016",
+    "district_id": "630501",
+    "name": "PADANG SARI"
+  },
+  {
+    "id": "6305012019",
+    "district_id": "630501",
+    "name": "MEKAR SARI"
+  }
+]

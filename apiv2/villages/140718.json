@@ -1,1 +1,57 @@
-[{"id": "1407181001", "district_id": "140718", "name": "BALAI JAYA KOTA"}, {"id": "1407181002", "district_id": "140718", "name": "BALAM SEMPURNA KOTA"}, {"id": "1407182003", "district_id": "140718", "name": "BALAM JAYA"}, {"id": "1407182004", "district_id": "140718", "name": "BALAI JAYA"}, {"id": "1407182005", "district_id": "140718", "name": "BALAM SEMPURNA"}, {"id": "1407182006", "district_id": "140718", "name": "BAGAN BHAKTI"}, {"id": "1407182007", "district_id": "140718", "name": "KENCANA"}, {"id": "1407182008", "district_id": "140718", "name": "PASIR PUTIH"}, {"id": "1407182009", "district_id": "140718", "name": "PASIR PUTIH UTARA"}, {"id": "1407182010", "district_id": "140718", "name": "PASIR PUTIH BARAT"}, {"id": "1407182011", "district_id": "140718", "name": "LUBUK JAWI"}]
+[
+  {
+    "id": "1407181001",
+    "district_id": "140718",
+    "name": "BALAI JAYA KOTA"
+  },
+  {
+    "id": "1407181002",
+    "district_id": "140718",
+    "name": "BALAM SEMPURNA KOTA"
+  },
+  {
+    "id": "1407182003",
+    "district_id": "140718",
+    "name": "BALAM JAYA"
+  },
+  {
+    "id": "1407182004",
+    "district_id": "140718",
+    "name": "BALAI JAYA"
+  },
+  {
+    "id": "1407182005",
+    "district_id": "140718",
+    "name": "BALAM SEMPURNA"
+  },
+  {
+    "id": "1407182006",
+    "district_id": "140718",
+    "name": "BAGAN BHAKTI"
+  },
+  {
+    "id": "1407182007",
+    "district_id": "140718",
+    "name": "KENCANA"
+  },
+  {
+    "id": "1407182008",
+    "district_id": "140718",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "1407182009",
+    "district_id": "140718",
+    "name": "PASIR PUTIH UTARA"
+  },
+  {
+    "id": "1407182010",
+    "district_id": "140718",
+    "name": "PASIR PUTIH BARAT"
+  },
+  {
+    "id": "1407182011",
+    "district_id": "140718",
+    "name": "LUBUK JAWI"
+  }
+]

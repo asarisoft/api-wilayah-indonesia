@@ -1,1 +1,67 @@
-[{"id": "5108082001", "district_id": "510808", "name": "TAMBAKAN"}, {"id": "5108082002", "district_id": "510808", "name": "PAKISAN"}, {"id": "5108082003", "district_id": "510808", "name": "BONTIHING"}, {"id": "5108082004", "district_id": "510808", "name": "TAJUN"}, {"id": "5108082005", "district_id": "510808", "name": "TUNJUNG"}, {"id": "5108082006", "district_id": "510808", "name": "DEPEHA"}, {"id": "5108082007", "district_id": "510808", "name": "TAMBLANG"}, {"id": "5108082008", "district_id": "510808", "name": "BULIAN"}, {"id": "5108082009", "district_id": "510808", "name": "BILA"}, {"id": "5108082010", "district_id": "510808", "name": "BENGKALA"}, {"id": "5108082011", "district_id": "510808", "name": "KUBUTAMBAHAN"}, {"id": "5108082012", "district_id": "510808", "name": "BUKTI"}, {"id": "5108082013", "district_id": "510808", "name": "MENGENING"}]
+[
+  {
+    "id": "5108082001",
+    "district_id": "510808",
+    "name": "TAMBAKAN"
+  },
+  {
+    "id": "5108082002",
+    "district_id": "510808",
+    "name": "PAKISAN"
+  },
+  {
+    "id": "5108082003",
+    "district_id": "510808",
+    "name": "BONTIHING"
+  },
+  {
+    "id": "5108082004",
+    "district_id": "510808",
+    "name": "TAJUN"
+  },
+  {
+    "id": "5108082005",
+    "district_id": "510808",
+    "name": "TUNJUNG"
+  },
+  {
+    "id": "5108082006",
+    "district_id": "510808",
+    "name": "DEPEHA"
+  },
+  {
+    "id": "5108082007",
+    "district_id": "510808",
+    "name": "TAMBLANG"
+  },
+  {
+    "id": "5108082008",
+    "district_id": "510808",
+    "name": "BULIAN"
+  },
+  {
+    "id": "5108082009",
+    "district_id": "510808",
+    "name": "BILA"
+  },
+  {
+    "id": "5108082010",
+    "district_id": "510808",
+    "name": "BENGKALA"
+  },
+  {
+    "id": "5108082011",
+    "district_id": "510808",
+    "name": "KUBUTAMBAHAN"
+  },
+  {
+    "id": "5108082012",
+    "district_id": "510808",
+    "name": "BUKTI"
+  },
+  {
+    "id": "5108082013",
+    "district_id": "510808",
+    "name": "MENGENING"
+  }
+]

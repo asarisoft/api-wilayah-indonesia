@@ -1,1 +1,122 @@
-[{"id": "3518162001", "district_id": "351816", "name": "GEMPOL"}, {"id": "3518162002", "district_id": "351816", "name": "MUNGKUNG"}, {"id": "3518162003", "district_id": "351816", "name": "SETREN"}, {"id": "3518162004", "district_id": "351816", "name": "SUKOREJO"}, {"id": "3518162005", "district_id": "351816", "name": "SIDOKARE"}, {"id": "3518162006", "district_id": "351816", "name": "MOJOREMBUN"}, {"id": "3518162007", "district_id": "351816", "name": "NGADIBOYO"}, {"id": "3518162008", "district_id": "351816", "name": "REJOSO"}, {"id": "3518162009", "district_id": "351816", "name": "KLAGEN"}, {"id": "3518162010", "district_id": "351816", "name": "JATIREJO"}, {"id": "3518162011", "district_id": "351816", "name": "MLORAH"}, {"id": "3518162012", "district_id": "351816", "name": "PUHKEREP"}, {"id": "3518162013", "district_id": "351816", "name": "TALUN"}, {"id": "3518162014", "district_id": "351816", "name": "NGANGKATAN"}, {"id": "3518162015", "district_id": "351816", "name": "TALANG"}, {"id": "3518162016", "district_id": "351816", "name": "BANJAREJO"}, {"id": "3518162017", "district_id": "351816", "name": "SAMBIKEREP"}, {"id": "3518162018", "district_id": "351816", "name": "MUSIR LOR"}, {"id": "3518162019", "district_id": "351816", "name": "MUSIR KIDUL"}, {"id": "3518162020", "district_id": "351816", "name": "WENGKAL"}, {"id": "3518162021", "district_id": "351816", "name": "JINTEL"}, {"id": "3518162022", "district_id": "351816", "name": "KEDUNGPADANG"}, {"id": "3518162023", "district_id": "351816", "name": "TRITIK"}, {"id": "3518162024", "district_id": "351816", "name": "BENDOASRI"}]
+[
+  {
+    "id": "3518162001",
+    "district_id": "351816",
+    "name": "GEMPOL"
+  },
+  {
+    "id": "3518162002",
+    "district_id": "351816",
+    "name": "MUNGKUNG"
+  },
+  {
+    "id": "3518162003",
+    "district_id": "351816",
+    "name": "SETREN"
+  },
+  {
+    "id": "3518162004",
+    "district_id": "351816",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3518162005",
+    "district_id": "351816",
+    "name": "SIDOKARE"
+  },
+  {
+    "id": "3518162006",
+    "district_id": "351816",
+    "name": "MOJOREMBUN"
+  },
+  {
+    "id": "3518162007",
+    "district_id": "351816",
+    "name": "NGADIBOYO"
+  },
+  {
+    "id": "3518162008",
+    "district_id": "351816",
+    "name": "REJOSO"
+  },
+  {
+    "id": "3518162009",
+    "district_id": "351816",
+    "name": "KLAGEN"
+  },
+  {
+    "id": "3518162010",
+    "district_id": "351816",
+    "name": "JATIREJO"
+  },
+  {
+    "id": "3518162011",
+    "district_id": "351816",
+    "name": "MLORAH"
+  },
+  {
+    "id": "3518162012",
+    "district_id": "351816",
+    "name": "PUHKEREP"
+  },
+  {
+    "id": "3518162013",
+    "district_id": "351816",
+    "name": "TALUN"
+  },
+  {
+    "id": "3518162014",
+    "district_id": "351816",
+    "name": "NGANGKATAN"
+  },
+  {
+    "id": "3518162015",
+    "district_id": "351816",
+    "name": "TALANG"
+  },
+  {
+    "id": "3518162016",
+    "district_id": "351816",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "3518162017",
+    "district_id": "351816",
+    "name": "SAMBIKEREP"
+  },
+  {
+    "id": "3518162018",
+    "district_id": "351816",
+    "name": "MUSIR LOR"
+  },
+  {
+    "id": "3518162019",
+    "district_id": "351816",
+    "name": "MUSIR KIDUL"
+  },
+  {
+    "id": "3518162020",
+    "district_id": "351816",
+    "name": "WENGKAL"
+  },
+  {
+    "id": "3518162021",
+    "district_id": "351816",
+    "name": "JINTEL"
+  },
+  {
+    "id": "3518162022",
+    "district_id": "351816",
+    "name": "KEDUNGPADANG"
+  },
+  {
+    "id": "3518162023",
+    "district_id": "351816",
+    "name": "TRITIK"
+  },
+  {
+    "id": "3518162024",
+    "district_id": "351816",
+    "name": "BENDOASRI"
+  }
+]

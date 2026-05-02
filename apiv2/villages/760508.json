@@ -1,1 +1,47 @@
-[{"id": "7605081001", "district_id": "760508", "name": "BAURUNG"}, {"id": "7605081002", "district_id": "760508", "name": "BARUGA"}, {"id": "7605081003", "district_id": "760508", "name": "BARUGA DHUA"}, {"id": "7605081004", "district_id": "760508", "name": "LABUANG"}, {"id": "7605081005", "district_id": "760508", "name": "TANDE"}, {"id": "7605081006", "district_id": "760508", "name": "LEMBANG"}, {"id": "7605081007", "district_id": "760508", "name": "LABUANG UTARA"}, {"id": "7605081008", "district_id": "760508", "name": "TANDE TIMUR"}, {"id": "7605082009", "district_id": "760508", "name": "BUTTU BARUGA"}]
+[
+  {
+    "id": "7605081001",
+    "district_id": "760508",
+    "name": "BAURUNG"
+  },
+  {
+    "id": "7605081002",
+    "district_id": "760508",
+    "name": "BARUGA"
+  },
+  {
+    "id": "7605081003",
+    "district_id": "760508",
+    "name": "BARUGA DHUA"
+  },
+  {
+    "id": "7605081004",
+    "district_id": "760508",
+    "name": "LABUANG"
+  },
+  {
+    "id": "7605081005",
+    "district_id": "760508",
+    "name": "TANDE"
+  },
+  {
+    "id": "7605081006",
+    "district_id": "760508",
+    "name": "LEMBANG"
+  },
+  {
+    "id": "7605081007",
+    "district_id": "760508",
+    "name": "LABUANG UTARA"
+  },
+  {
+    "id": "7605081008",
+    "district_id": "760508",
+    "name": "TANDE TIMUR"
+  },
+  {
+    "id": "7605082009",
+    "district_id": "760508",
+    "name": "BUTTU BARUGA"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3314131002", "district_id": "331413", "name": "NGEMBATPADAS"}, {"id": "3314131003", "district_id": "331413", "name": "KRAGILAN"}, {"id": "3314131009", "district_id": "331413", "name": "GEMOLONG"}, {"id": "3314131010", "district_id": "331413", "name": "KWANGEN"}, {"id": "3314132001", "district_id": "331413", "name": "KALORAN"}, {"id": "3314132004", "district_id": "331413", "name": "BRANGKAL"}, {"id": "3314132005", "district_id": "331413", "name": "JATIBATUR"}, {"id": "3314132006", "district_id": "331413", "name": "PELEMAN"}, {"id": "3314132007", "district_id": "331413", "name": "GENENGDUWUR"}, {"id": "3314132008", "district_id": "331413", "name": "TEGALDOWO"}, {"id": "3314132011", "district_id": "331413", "name": "PURWOREJO"}, {"id": "3314132012", "district_id": "331413", "name": "JENALAS"}, {"id": "3314132013", "district_id": "331413", "name": "KALANGAN"}, {"id": "3314132014", "district_id": "331413", "name": "NGANTI"}]
+[
+  {
+    "id": "3314131002",
+    "district_id": "331413",
+    "name": "NGEMBATPADAS"
+  },
+  {
+    "id": "3314131003",
+    "district_id": "331413",
+    "name": "KRAGILAN"
+  },
+  {
+    "id": "3314131009",
+    "district_id": "331413",
+    "name": "GEMOLONG"
+  },
+  {
+    "id": "3314131010",
+    "district_id": "331413",
+    "name": "KWANGEN"
+  },
+  {
+    "id": "3314132001",
+    "district_id": "331413",
+    "name": "KALORAN"
+  },
+  {
+    "id": "3314132004",
+    "district_id": "331413",
+    "name": "BRANGKAL"
+  },
+  {
+    "id": "3314132005",
+    "district_id": "331413",
+    "name": "JATIBATUR"
+  },
+  {
+    "id": "3314132006",
+    "district_id": "331413",
+    "name": "PELEMAN"
+  },
+  {
+    "id": "3314132007",
+    "district_id": "331413",
+    "name": "GENENGDUWUR"
+  },
+  {
+    "id": "3314132008",
+    "district_id": "331413",
+    "name": "TEGALDOWO"
+  },
+  {
+    "id": "3314132011",
+    "district_id": "331413",
+    "name": "PURWOREJO"
+  },
+  {
+    "id": "3314132012",
+    "district_id": "331413",
+    "name": "JENALAS"
+  },
+  {
+    "id": "3314132013",
+    "district_id": "331413",
+    "name": "KALANGAN"
+  },
+  {
+    "id": "3314132014",
+    "district_id": "331413",
+    "name": "NGANTI"
+  }
+]

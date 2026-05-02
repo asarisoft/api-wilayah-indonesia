@@ -1,1 +1,52 @@
-[{"id": "3603072001", "district_id": "360307", "name": "KRONJO"}, {"id": "3603072002", "district_id": "360307", "name": "PAGENJAHAN"}, {"id": "3603072006", "district_id": "360307", "name": "PASIR"}, {"id": "3603072007", "district_id": "360307", "name": "MUNCUNG"}, {"id": "3603072008", "district_id": "360307", "name": "PAGEDANGAN ILIR"}, {"id": "3603072009", "district_id": "360307", "name": "PAGEDANGAN UDIK"}, {"id": "3603072010", "district_id": "360307", "name": "PASILIAN"}, {"id": "3603072013", "district_id": "360307", "name": "BAKUNG"}, {"id": "3603072015", "district_id": "360307", "name": "BLUKBUK"}, {"id": "3603072017", "district_id": "360307", "name": "CIRUMPAK"}]
+[
+  {
+    "id": "3603072001",
+    "district_id": "360307",
+    "name": "KRONJO"
+  },
+  {
+    "id": "3603072002",
+    "district_id": "360307",
+    "name": "PAGENJAHAN"
+  },
+  {
+    "id": "3603072006",
+    "district_id": "360307",
+    "name": "PASIR"
+  },
+  {
+    "id": "3603072007",
+    "district_id": "360307",
+    "name": "MUNCUNG"
+  },
+  {
+    "id": "3603072008",
+    "district_id": "360307",
+    "name": "PAGEDANGAN ILIR"
+  },
+  {
+    "id": "3603072009",
+    "district_id": "360307",
+    "name": "PAGEDANGAN UDIK"
+  },
+  {
+    "id": "3603072010",
+    "district_id": "360307",
+    "name": "PASILIAN"
+  },
+  {
+    "id": "3603072013",
+    "district_id": "360307",
+    "name": "BAKUNG"
+  },
+  {
+    "id": "3603072015",
+    "district_id": "360307",
+    "name": "BLUKBUK"
+  },
+  {
+    "id": "3603072017",
+    "district_id": "360307",
+    "name": "CIRUMPAK"
+  }
+]

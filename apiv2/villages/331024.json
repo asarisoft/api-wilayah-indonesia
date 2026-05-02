@@ -1,1 +1,42 @@
-[{"id": "3310241002", "district_id": "331024", "name": "BARENGLOR"}, {"id": "3310241007", "district_id": "331024", "name": "GERGUNUNG"}, {"id": "3310242001", "district_id": "331024", "name": "SEKARSULI"}, {"id": "3310242003", "district_id": "331024", "name": "KARANGANOM"}, {"id": "3310242004", "district_id": "331024", "name": "KETANDAN"}, {"id": "3310242005", "district_id": "331024", "name": "BELANGWETAN"}, {"id": "3310242006", "district_id": "331024", "name": "JONGGRANGAN"}, {"id": "3310242008", "district_id": "331024", "name": "JEBUGAN"}]
+[
+  {
+    "id": "3310241002",
+    "district_id": "331024",
+    "name": "BARENGLOR"
+  },
+  {
+    "id": "3310241007",
+    "district_id": "331024",
+    "name": "GERGUNUNG"
+  },
+  {
+    "id": "3310242001",
+    "district_id": "331024",
+    "name": "SEKARSULI"
+  },
+  {
+    "id": "3310242003",
+    "district_id": "331024",
+    "name": "KARANGANOM"
+  },
+  {
+    "id": "3310242004",
+    "district_id": "331024",
+    "name": "KETANDAN"
+  },
+  {
+    "id": "3310242005",
+    "district_id": "331024",
+    "name": "BELANGWETAN"
+  },
+  {
+    "id": "3310242006",
+    "district_id": "331024",
+    "name": "JONGGRANGAN"
+  },
+  {
+    "id": "3310242008",
+    "district_id": "331024",
+    "name": "JEBUGAN"
+  }
+]

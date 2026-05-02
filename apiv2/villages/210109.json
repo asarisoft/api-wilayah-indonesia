@@ -1,1 +1,42 @@
-[{"id": "2101091001", "district_id": "210109", "name": "TELUK SEKUNI"}, {"id": "2101092002", "district_id": "210109", "name": "BATU LEPUK"}, {"id": "2101092003", "district_id": "210109", "name": "KAMPUNG HILIR"}, {"id": "2101092004", "district_id": "210109", "name": "KAMPUNG MELAYU"}, {"id": "2101092005", "district_id": "210109", "name": "PULAU MENTEBUNG"}, {"id": "2101092006", "district_id": "210109", "name": "PULAU PINANG"}, {"id": "2101092007", "district_id": "210109", "name": "KUKUP"}, {"id": "2101092008", "district_id": "210109", "name": "PENGIKIK"}]
+[
+  {
+    "id": "2101091001",
+    "district_id": "210109",
+    "name": "TELUK SEKUNI"
+  },
+  {
+    "id": "2101092002",
+    "district_id": "210109",
+    "name": "BATU LEPUK"
+  },
+  {
+    "id": "2101092003",
+    "district_id": "210109",
+    "name": "KAMPUNG HILIR"
+  },
+  {
+    "id": "2101092004",
+    "district_id": "210109",
+    "name": "KAMPUNG MELAYU"
+  },
+  {
+    "id": "2101092005",
+    "district_id": "210109",
+    "name": "PULAU MENTEBUNG"
+  },
+  {
+    "id": "2101092006",
+    "district_id": "210109",
+    "name": "PULAU PINANG"
+  },
+  {
+    "id": "2101092007",
+    "district_id": "210109",
+    "name": "KUKUP"
+  },
+  {
+    "id": "2101092008",
+    "district_id": "210109",
+    "name": "PENGIKIK"
+  }
+]

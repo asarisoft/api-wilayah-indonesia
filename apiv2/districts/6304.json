@@ -1,1 +1,87 @@
-[{"id": "630401", "regency_id": "6304", "name": "TABUNGANEN"}, {"id": "630402", "regency_id": "6304", "name": "TAMBAN"}, {"id": "630403", "regency_id": "6304", "name": "ANJIR PASAR"}, {"id": "630404", "regency_id": "6304", "name": "ANJIR MUARA"}, {"id": "630405", "regency_id": "6304", "name": "ALALAK"}, {"id": "630406", "regency_id": "6304", "name": "MANDASTANA"}, {"id": "630407", "regency_id": "6304", "name": "RANTAU BADAUH"}, {"id": "630408", "regency_id": "6304", "name": "BELAWANG"}, {"id": "630409", "regency_id": "6304", "name": "CERBON"}, {"id": "630410", "regency_id": "6304", "name": "BAKUMPAI"}, {"id": "630411", "regency_id": "6304", "name": "KURIPAN"}, {"id": "630412", "regency_id": "6304", "name": "TABUKAN"}, {"id": "630413", "regency_id": "6304", "name": "MEKARSARI"}, {"id": "630414", "regency_id": "6304", "name": "BARAMBAI"}, {"id": "630415", "regency_id": "6304", "name": "MARABAHAN"}, {"id": "630416", "regency_id": "6304", "name": "WANARAYA"}, {"id": "630417", "regency_id": "6304", "name": "JEJANGKIT"}]
+[
+  {
+    "id": "630401",
+    "regency_id": "6304",
+    "name": "TABUNGANEN"
+  },
+  {
+    "id": "630402",
+    "regency_id": "6304",
+    "name": "TAMBAN"
+  },
+  {
+    "id": "630403",
+    "regency_id": "6304",
+    "name": "ANJIR PASAR"
+  },
+  {
+    "id": "630404",
+    "regency_id": "6304",
+    "name": "ANJIR MUARA"
+  },
+  {
+    "id": "630405",
+    "regency_id": "6304",
+    "name": "ALALAK"
+  },
+  {
+    "id": "630406",
+    "regency_id": "6304",
+    "name": "MANDASTANA"
+  },
+  {
+    "id": "630407",
+    "regency_id": "6304",
+    "name": "RANTAU BADAUH"
+  },
+  {
+    "id": "630408",
+    "regency_id": "6304",
+    "name": "BELAWANG"
+  },
+  {
+    "id": "630409",
+    "regency_id": "6304",
+    "name": "CERBON"
+  },
+  {
+    "id": "630410",
+    "regency_id": "6304",
+    "name": "BAKUMPAI"
+  },
+  {
+    "id": "630411",
+    "regency_id": "6304",
+    "name": "KURIPAN"
+  },
+  {
+    "id": "630412",
+    "regency_id": "6304",
+    "name": "TABUKAN"
+  },
+  {
+    "id": "630413",
+    "regency_id": "6304",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "630414",
+    "regency_id": "6304",
+    "name": "BARAMBAI"
+  },
+  {
+    "id": "630415",
+    "regency_id": "6304",
+    "name": "MARABAHAN"
+  },
+  {
+    "id": "630416",
+    "regency_id": "6304",
+    "name": "WANARAYA"
+  },
+  {
+    "id": "630417",
+    "regency_id": "6304",
+    "name": "JEJANGKIT"
+  }
+]

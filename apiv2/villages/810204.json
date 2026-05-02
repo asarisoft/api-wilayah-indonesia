@@ -1,1 +1,52 @@
-[{"id": "8102042001", "district_id": "810204", "name": "WEDUAR"}, {"id": "8102042003", "district_id": "810204", "name": "NERONG"}, {"id": "8102042004", "district_id": "810204", "name": "LARAT"}, {"id": "8102042005", "district_id": "810204", "name": "TAMANGIL NUHUTEN"}, {"id": "8102042006", "district_id": "810204", "name": "TAMANGIL NUHUYANAT"}, {"id": "8102042012", "district_id": "810204", "name": "KILWAT"}, {"id": "8102042013", "district_id": "810204", "name": "SATHER"}, {"id": "8102042014", "district_id": "810204", "name": "TUTREAN"}, {"id": "8102042015", "district_id": "810204", "name": "OHOIRENAN"}, {"id": "8102042016", "district_id": "810204", "name": "SOINDAT"}]
+[
+  {
+    "id": "8102042001",
+    "district_id": "810204",
+    "name": "WEDUAR"
+  },
+  {
+    "id": "8102042003",
+    "district_id": "810204",
+    "name": "NERONG"
+  },
+  {
+    "id": "8102042004",
+    "district_id": "810204",
+    "name": "LARAT"
+  },
+  {
+    "id": "8102042005",
+    "district_id": "810204",
+    "name": "TAMANGIL NUHUTEN"
+  },
+  {
+    "id": "8102042006",
+    "district_id": "810204",
+    "name": "TAMANGIL NUHUYANAT"
+  },
+  {
+    "id": "8102042012",
+    "district_id": "810204",
+    "name": "KILWAT"
+  },
+  {
+    "id": "8102042013",
+    "district_id": "810204",
+    "name": "SATHER"
+  },
+  {
+    "id": "8102042014",
+    "district_id": "810204",
+    "name": "TUTREAN"
+  },
+  {
+    "id": "8102042015",
+    "district_id": "810204",
+    "name": "OHOIRENAN"
+  },
+  {
+    "id": "8102042016",
+    "district_id": "810204",
+    "name": "SOINDAT"
+  }
+]

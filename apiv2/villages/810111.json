@@ -1,1 +1,52 @@
-[{"id": "8101112011", "district_id": "810111", "name": "TELUTIH BARU"}, {"id": "8101112012", "district_id": "810111", "name": "MOSSO"}, {"id": "8101112013", "district_id": "810111", "name": "HATUMETE"}, {"id": "8101112014", "district_id": "810111", "name": "HATU"}, {"id": "8101112015", "district_id": "810111", "name": "PILIANA"}, {"id": "8101112016", "district_id": "810111", "name": "YAPUTIH"}, {"id": "8101112017", "district_id": "810111", "name": "SAUNULU"}, {"id": "8101112018", "district_id": "810111", "name": "TEHORU"}, {"id": "8101112019", "district_id": "810111", "name": "HAYA"}, {"id": "8101112020", "district_id": "810111", "name": "SALAMAHU"}]
+[
+  {
+    "id": "8101112011",
+    "district_id": "810111",
+    "name": "TELUTIH BARU"
+  },
+  {
+    "id": "8101112012",
+    "district_id": "810111",
+    "name": "MOSSO"
+  },
+  {
+    "id": "8101112013",
+    "district_id": "810111",
+    "name": "HATUMETE"
+  },
+  {
+    "id": "8101112014",
+    "district_id": "810111",
+    "name": "HATU"
+  },
+  {
+    "id": "8101112015",
+    "district_id": "810111",
+    "name": "PILIANA"
+  },
+  {
+    "id": "8101112016",
+    "district_id": "810111",
+    "name": "YAPUTIH"
+  },
+  {
+    "id": "8101112017",
+    "district_id": "810111",
+    "name": "SAUNULU"
+  },
+  {
+    "id": "8101112018",
+    "district_id": "810111",
+    "name": "TEHORU"
+  },
+  {
+    "id": "8101112019",
+    "district_id": "810111",
+    "name": "HAYA"
+  },
+  {
+    "id": "8101112020",
+    "district_id": "810111",
+    "name": "SALAMAHU"
+  }
+]

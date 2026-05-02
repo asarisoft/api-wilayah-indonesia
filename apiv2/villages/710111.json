@@ -1,1 +1,82 @@
-[{"id": "7101112001", "district_id": "710111", "name": "TUMOKANG BARU"}, {"id": "7101112002", "district_id": "710111", "name": "MOPUGAD UTARA"}, {"id": "7101112003", "district_id": "710111", "name": "MOPUGAD SELATAN"}, {"id": "7101112004", "district_id": "710111", "name": "MOPUYA UTARA"}, {"id": "7101112005", "district_id": "710111", "name": "MOPUYA SELATAN"}, {"id": "7101112007", "district_id": "710111", "name": "DONDOMON"}, {"id": "7101112014", "district_id": "710111", "name": "MOPUGAD UTARA SATU"}, {"id": "7101112015", "district_id": "710111", "name": "MOPUGAD UTARA DUA"}, {"id": "7101112016", "district_id": "710111", "name": "MOPUGAD SELATAN SATU"}, {"id": "7101112017", "district_id": "710111", "name": "MOPUYA UTARA SATU"}, {"id": "7101112018", "district_id": "710111", "name": "MOPUYA UTARA DUA"}, {"id": "7101112019", "district_id": "710111", "name": "MOPUYA SELATAN SATU"}, {"id": "7101112020", "district_id": "710111", "name": "MOPUYA SELATAN DUA"}, {"id": "7101112024", "district_id": "710111", "name": "DONDOMON UTARA"}, {"id": "7101112025", "district_id": "710111", "name": "DONDOMON SELATAN"}, {"id": "7101112026", "district_id": "710111", "name": "TUMOKANG TIMUR"}]
+[
+  {
+    "id": "7101112001",
+    "district_id": "710111",
+    "name": "TUMOKANG BARU"
+  },
+  {
+    "id": "7101112002",
+    "district_id": "710111",
+    "name": "MOPUGAD UTARA"
+  },
+  {
+    "id": "7101112003",
+    "district_id": "710111",
+    "name": "MOPUGAD SELATAN"
+  },
+  {
+    "id": "7101112004",
+    "district_id": "710111",
+    "name": "MOPUYA UTARA"
+  },
+  {
+    "id": "7101112005",
+    "district_id": "710111",
+    "name": "MOPUYA SELATAN"
+  },
+  {
+    "id": "7101112007",
+    "district_id": "710111",
+    "name": "DONDOMON"
+  },
+  {
+    "id": "7101112014",
+    "district_id": "710111",
+    "name": "MOPUGAD UTARA SATU"
+  },
+  {
+    "id": "7101112015",
+    "district_id": "710111",
+    "name": "MOPUGAD UTARA DUA"
+  },
+  {
+    "id": "7101112016",
+    "district_id": "710111",
+    "name": "MOPUGAD SELATAN SATU"
+  },
+  {
+    "id": "7101112017",
+    "district_id": "710111",
+    "name": "MOPUYA UTARA SATU"
+  },
+  {
+    "id": "7101112018",
+    "district_id": "710111",
+    "name": "MOPUYA UTARA DUA"
+  },
+  {
+    "id": "7101112019",
+    "district_id": "710111",
+    "name": "MOPUYA SELATAN SATU"
+  },
+  {
+    "id": "7101112020",
+    "district_id": "710111",
+    "name": "MOPUYA SELATAN DUA"
+  },
+  {
+    "id": "7101112024",
+    "district_id": "710111",
+    "name": "DONDOMON UTARA"
+  },
+  {
+    "id": "7101112025",
+    "district_id": "710111",
+    "name": "DONDOMON SELATAN"
+  },
+  {
+    "id": "7101112026",
+    "district_id": "710111",
+    "name": "TUMOKANG TIMUR"
+  }
+]

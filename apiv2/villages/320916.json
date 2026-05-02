@@ -1,1 +1,67 @@
-[{"id": "3209162001", "district_id": "320916", "name": "BOBOS"}, {"id": "3209162002", "district_id": "320916", "name": "CIKALAHANG"}, {"id": "3209162003", "district_id": "320916", "name": "MANDALA"}, {"id": "3209162004", "district_id": "320916", "name": "DUKUPUNTANG"}, {"id": "3209162005", "district_id": "320916", "name": "BALAD"}, {"id": "3209162006", "district_id": "320916", "name": "CANGKOAK"}, {"id": "3209162007", "district_id": "320916", "name": "CISAAT"}, {"id": "3209162008", "district_id": "320916", "name": "SINDANGMEKAR"}, {"id": "3209162009", "district_id": "320916", "name": "SINDANGJAWA"}, {"id": "3209162010", "district_id": "320916", "name": "KEPUNDUAN"}, {"id": "3209162011", "district_id": "320916", "name": "GIRINATA"}, {"id": "3209162012", "district_id": "320916", "name": "CIPANAS"}, {"id": "3209162013", "district_id": "320916", "name": "KEDONGDONG KIDUL"}]
+[
+  {
+    "id": "3209162001",
+    "district_id": "320916",
+    "name": "BOBOS"
+  },
+  {
+    "id": "3209162002",
+    "district_id": "320916",
+    "name": "CIKALAHANG"
+  },
+  {
+    "id": "3209162003",
+    "district_id": "320916",
+    "name": "MANDALA"
+  },
+  {
+    "id": "3209162004",
+    "district_id": "320916",
+    "name": "DUKUPUNTANG"
+  },
+  {
+    "id": "3209162005",
+    "district_id": "320916",
+    "name": "BALAD"
+  },
+  {
+    "id": "3209162006",
+    "district_id": "320916",
+    "name": "CANGKOAK"
+  },
+  {
+    "id": "3209162007",
+    "district_id": "320916",
+    "name": "CISAAT"
+  },
+  {
+    "id": "3209162008",
+    "district_id": "320916",
+    "name": "SINDANGMEKAR"
+  },
+  {
+    "id": "3209162009",
+    "district_id": "320916",
+    "name": "SINDANGJAWA"
+  },
+  {
+    "id": "3209162010",
+    "district_id": "320916",
+    "name": "KEPUNDUAN"
+  },
+  {
+    "id": "3209162011",
+    "district_id": "320916",
+    "name": "GIRINATA"
+  },
+  {
+    "id": "3209162012",
+    "district_id": "320916",
+    "name": "CIPANAS"
+  },
+  {
+    "id": "3209162013",
+    "district_id": "320916",
+    "name": "KEDONGDONG KIDUL"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "1118072001", "district_id": "111807", "name": "KEUDE PANTERAJA"}, {"id": "1118072002", "district_id": "111807", "name": "TU"}, {"id": "1118072003", "district_id": "111807", "name": "HAGU"}, {"id": "1118072004", "district_id": "111807", "name": "MUKA BLANG"}, {"id": "1118072005", "district_id": "111807", "name": "LHOK PUUK"}, {"id": "1118072006", "district_id": "111807", "name": "MESJID"}, {"id": "1118072007", "district_id": "111807", "name": "TEUNGOH"}, {"id": "1118072008", "district_id": "111807", "name": "TUNONG"}, {"id": "1118072009", "district_id": "111807", "name": "PEURADE"}, {"id": "1118072010", "district_id": "111807", "name": "REUDEUP"}]
+[
+  {
+    "id": "1118072001",
+    "district_id": "111807",
+    "name": "KEUDE PANTERAJA"
+  },
+  {
+    "id": "1118072002",
+    "district_id": "111807",
+    "name": "TU"
+  },
+  {
+    "id": "1118072003",
+    "district_id": "111807",
+    "name": "HAGU"
+  },
+  {
+    "id": "1118072004",
+    "district_id": "111807",
+    "name": "MUKA BLANG"
+  },
+  {
+    "id": "1118072005",
+    "district_id": "111807",
+    "name": "LHOK PUUK"
+  },
+  {
+    "id": "1118072006",
+    "district_id": "111807",
+    "name": "MESJID"
+  },
+  {
+    "id": "1118072007",
+    "district_id": "111807",
+    "name": "TEUNGOH"
+  },
+  {
+    "id": "1118072008",
+    "district_id": "111807",
+    "name": "TUNONG"
+  },
+  {
+    "id": "1118072009",
+    "district_id": "111807",
+    "name": "PEURADE"
+  },
+  {
+    "id": "1118072010",
+    "district_id": "111807",
+    "name": "REUDEUP"
+  }
+]

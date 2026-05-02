@@ -1,1 +1,52 @@
-[{"id": "7201152001", "district_id": "720115", "name": "MAASING"}, {"id": "7201152002", "district_id": "720115", "name": "GORI-GORI"}, {"id": "7201152003", "district_id": "720115", "name": "SINORANG"}, {"id": "7201152004", "district_id": "720115", "name": "SUKAMAJU"}, {"id": "7201152005", "district_id": "720115", "name": "SUKAMAJU SATU"}, {"id": "7201152006", "district_id": "720115", "name": "PAISU BULOLI"}, {"id": "7201152007", "district_id": "720115", "name": "OMBOLU"}, {"id": "7201152008", "district_id": "720115", "name": "BONEBALANTAK"}, {"id": "7201152009", "district_id": "720115", "name": "MASUNGKANG"}, {"id": "7201152010", "district_id": "720115", "name": "MALEO JAYA"}]
+[
+  {
+    "id": "7201152001",
+    "district_id": "720115",
+    "name": "MAASING"
+  },
+  {
+    "id": "7201152002",
+    "district_id": "720115",
+    "name": "GORI-GORI"
+  },
+  {
+    "id": "7201152003",
+    "district_id": "720115",
+    "name": "SINORANG"
+  },
+  {
+    "id": "7201152004",
+    "district_id": "720115",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "7201152005",
+    "district_id": "720115",
+    "name": "SUKAMAJU SATU"
+  },
+  {
+    "id": "7201152006",
+    "district_id": "720115",
+    "name": "PAISU BULOLI"
+  },
+  {
+    "id": "7201152007",
+    "district_id": "720115",
+    "name": "OMBOLU"
+  },
+  {
+    "id": "7201152008",
+    "district_id": "720115",
+    "name": "BONEBALANTAK"
+  },
+  {
+    "id": "7201152009",
+    "district_id": "720115",
+    "name": "MASUNGKANG"
+  },
+  {
+    "id": "7201152010",
+    "district_id": "720115",
+    "name": "MALEO JAYA"
+  }
+]

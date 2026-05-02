@@ -1,1 +1,112 @@
-[{"id": "6310021001", "district_id": "631002", "name": "KOTA PAGATAN"}, {"id": "6310022002", "district_id": "631002", "name": "BETUNG"}, {"id": "6310022003", "district_id": "631002", "name": "SUNGAI LEMBU"}, {"id": "6310022004", "district_id": "631002", "name": "WIRITASI"}, {"id": "6310022005", "district_id": "631002", "name": "PEJALA"}, {"id": "6310022006", "district_id": "631002", "name": "PAGARUYUNG"}, {"id": "6310022007", "district_id": "631002", "name": "MUARA PAGATAN TENGAH"}, {"id": "6310022008", "district_id": "631002", "name": "KAMPUNG BARU"}, {"id": "6310022009", "district_id": "631002", "name": "PASAR BARU"}, {"id": "6310022010", "district_id": "631002", "name": "BATUAH"}, {"id": "6310022011", "district_id": "631002", "name": "BARU GELANG"}, {"id": "6310022012", "district_id": "631002", "name": "PULAU SALAK"}, {"id": "6310022019", "district_id": "631002", "name": "MUDALANG"}, {"id": "6310022020", "district_id": "631002", "name": "TANETTE"}, {"id": "6310022021", "district_id": "631002", "name": "MUARA PAGATAN"}, {"id": "6310022022", "district_id": "631002", "name": "PULAU SATU"}, {"id": "6310022027", "district_id": "631002", "name": "JUKU EJA"}, {"id": "6310022029", "district_id": "631002", "name": "GUSUNGE"}, {"id": "6310022030", "district_id": "631002", "name": "RANTAU PANJANG HULU"}, {"id": "6310022031", "district_id": "631002", "name": "PENYOLONGAN"}, {"id": "6310022032", "district_id": "631002", "name": "BERINGIN"}, {"id": "6310022034", "district_id": "631002", "name": "RANTAU PANJANG HILIR"}]
+[
+  {
+    "id": "6310021001",
+    "district_id": "631002",
+    "name": "KOTA PAGATAN"
+  },
+  {
+    "id": "6310022002",
+    "district_id": "631002",
+    "name": "BETUNG"
+  },
+  {
+    "id": "6310022003",
+    "district_id": "631002",
+    "name": "SUNGAI LEMBU"
+  },
+  {
+    "id": "6310022004",
+    "district_id": "631002",
+    "name": "WIRITASI"
+  },
+  {
+    "id": "6310022005",
+    "district_id": "631002",
+    "name": "PEJALA"
+  },
+  {
+    "id": "6310022006",
+    "district_id": "631002",
+    "name": "PAGARUYUNG"
+  },
+  {
+    "id": "6310022007",
+    "district_id": "631002",
+    "name": "MUARA PAGATAN TENGAH"
+  },
+  {
+    "id": "6310022008",
+    "district_id": "631002",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "6310022009",
+    "district_id": "631002",
+    "name": "PASAR BARU"
+  },
+  {
+    "id": "6310022010",
+    "district_id": "631002",
+    "name": "BATUAH"
+  },
+  {
+    "id": "6310022011",
+    "district_id": "631002",
+    "name": "BARU GELANG"
+  },
+  {
+    "id": "6310022012",
+    "district_id": "631002",
+    "name": "PULAU SALAK"
+  },
+  {
+    "id": "6310022019",
+    "district_id": "631002",
+    "name": "MUDALANG"
+  },
+  {
+    "id": "6310022020",
+    "district_id": "631002",
+    "name": "TANETTE"
+  },
+  {
+    "id": "6310022021",
+    "district_id": "631002",
+    "name": "MUARA PAGATAN"
+  },
+  {
+    "id": "6310022022",
+    "district_id": "631002",
+    "name": "PULAU SATU"
+  },
+  {
+    "id": "6310022027",
+    "district_id": "631002",
+    "name": "JUKU EJA"
+  },
+  {
+    "id": "6310022029",
+    "district_id": "631002",
+    "name": "GUSUNGE"
+  },
+  {
+    "id": "6310022030",
+    "district_id": "631002",
+    "name": "RANTAU PANJANG HULU"
+  },
+  {
+    "id": "6310022031",
+    "district_id": "631002",
+    "name": "PENYOLONGAN"
+  },
+  {
+    "id": "6310022032",
+    "district_id": "631002",
+    "name": "BERINGIN"
+  },
+  {
+    "id": "6310022034",
+    "district_id": "631002",
+    "name": "RANTAU PANJANG HILIR"
+  }
+]

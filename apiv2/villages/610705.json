@@ -1,1 +1,32 @@
-[{"id": "6107052001", "district_id": "610705", "name": "SELUAS"}, {"id": "6107052002", "district_id": "610705", "name": "BENGKAWAN"}, {"id": "6107052003", "district_id": "610705", "name": "SAHAN"}, {"id": "6107052004", "district_id": "610705", "name": "MAYAK"}, {"id": "6107052005", "district_id": "610705", "name": "KALON"}, {"id": "6107052006", "district_id": "610705", "name": "SENTANGAU JAYA"}]
+[
+  {
+    "id": "6107052001",
+    "district_id": "610705",
+    "name": "SELUAS"
+  },
+  {
+    "id": "6107052002",
+    "district_id": "610705",
+    "name": "BENGKAWAN"
+  },
+  {
+    "id": "6107052003",
+    "district_id": "610705",
+    "name": "SAHAN"
+  },
+  {
+    "id": "6107052004",
+    "district_id": "610705",
+    "name": "MAYAK"
+  },
+  {
+    "id": "6107052005",
+    "district_id": "610705",
+    "name": "KALON"
+  },
+  {
+    "id": "6107052006",
+    "district_id": "610705",
+    "name": "SENTANGAU JAYA"
+  }
+]

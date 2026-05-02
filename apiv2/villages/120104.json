@@ -1,1 +1,52 @@
-[{"id": "1201041001", "district_id": "120104", "name": "PINANGSORI"}, {"id": "1201041004", "district_id": "120104", "name": "SITONONG BANGUN"}, {"id": "1201041007", "district_id": "120104", "name": "PINANGBARU"}, {"id": "1201041009", "district_id": "120104", "name": "ALBION PRANCIS"}, {"id": "1201041010", "district_id": "120104", "name": "SORI NAULI"}, {"id": "1201042002", "district_id": "120104", "name": "GUNUNG MARIJO"}, {"id": "1201042003", "district_id": "120104", "name": "SIHAPORAS"}, {"id": "1201042005", "district_id": "120104", "name": "TOGA BASIR"}, {"id": "1201042006", "district_id": "120104", "name": "PARJALIHOTAN BARU"}, {"id": "1201042008", "district_id": "120104", "name": "DANAU PANDAN"}]
+[
+  {
+    "id": "1201041001",
+    "district_id": "120104",
+    "name": "PINANGSORI"
+  },
+  {
+    "id": "1201041004",
+    "district_id": "120104",
+    "name": "SITONONG BANGUN"
+  },
+  {
+    "id": "1201041007",
+    "district_id": "120104",
+    "name": "PINANGBARU"
+  },
+  {
+    "id": "1201041009",
+    "district_id": "120104",
+    "name": "ALBION PRANCIS"
+  },
+  {
+    "id": "1201041010",
+    "district_id": "120104",
+    "name": "SORI NAULI"
+  },
+  {
+    "id": "1201042002",
+    "district_id": "120104",
+    "name": "GUNUNG MARIJO"
+  },
+  {
+    "id": "1201042003",
+    "district_id": "120104",
+    "name": "SIHAPORAS"
+  },
+  {
+    "id": "1201042005",
+    "district_id": "120104",
+    "name": "TOGA BASIR"
+  },
+  {
+    "id": "1201042006",
+    "district_id": "120104",
+    "name": "PARJALIHOTAN BARU"
+  },
+  {
+    "id": "1201042008",
+    "district_id": "120104",
+    "name": "DANAU PANDAN"
+  }
+]

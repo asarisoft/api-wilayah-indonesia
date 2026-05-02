@@ -1,1 +1,47 @@
-[{"id": "610201", "regency_id": "6102", "name": "MEMPAWAH HILIR"}, {"id": "610206", "regency_id": "6102", "name": "TOHO"}, {"id": "610207", "regency_id": "6102", "name": "SUNGAI PINYUH"}, {"id": "610208", "regency_id": "6102", "name": "JONGKAT"}, {"id": "610212", "regency_id": "6102", "name": "SUNGAI KUNYIT"}, {"id": "610215", "regency_id": "6102", "name": "SEGEDONG"}, {"id": "610216", "regency_id": "6102", "name": "ANJONGAN"}, {"id": "610217", "regency_id": "6102", "name": "SADANIANG"}, {"id": "610218", "regency_id": "6102", "name": "MEMPAWAH TIMUR"}]
+[
+  {
+    "id": "610201",
+    "regency_id": "6102",
+    "name": "MEMPAWAH HILIR"
+  },
+  {
+    "id": "610206",
+    "regency_id": "6102",
+    "name": "TOHO"
+  },
+  {
+    "id": "610207",
+    "regency_id": "6102",
+    "name": "SUNGAI PINYUH"
+  },
+  {
+    "id": "610208",
+    "regency_id": "6102",
+    "name": "JONGKAT"
+  },
+  {
+    "id": "610212",
+    "regency_id": "6102",
+    "name": "SUNGAI KUNYIT"
+  },
+  {
+    "id": "610215",
+    "regency_id": "6102",
+    "name": "SEGEDONG"
+  },
+  {
+    "id": "610216",
+    "regency_id": "6102",
+    "name": "ANJONGAN"
+  },
+  {
+    "id": "610217",
+    "regency_id": "6102",
+    "name": "SADANIANG"
+  },
+  {
+    "id": "610218",
+    "regency_id": "6102",
+    "name": "MEMPAWAH TIMUR"
+  }
+]

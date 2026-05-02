@@ -1,1 +1,47 @@
-[{"id": "3601032001", "district_id": "360103", "name": "MENDUNG"}, {"id": "3601032006", "district_id": "360103", "name": "SUDIMANIK"}, {"id": "3601032007", "district_id": "360103", "name": "CURUG"}, {"id": "3601032008", "district_id": "360103", "name": "CIBINGBIN"}, {"id": "3601032009", "district_id": "360103", "name": "SUKAJADI"}, {"id": "3601032011", "district_id": "360103", "name": "MAHENDRA"}, {"id": "3601032012", "district_id": "360103", "name": "CIBALIUNG"}, {"id": "3601032015", "district_id": "360103", "name": "CIHANJUANG"}, {"id": "3601032016", "district_id": "360103", "name": "SORONGAN"}]
+[
+  {
+    "id": "3601032001",
+    "district_id": "360103",
+    "name": "MENDUNG"
+  },
+  {
+    "id": "3601032006",
+    "district_id": "360103",
+    "name": "SUDIMANIK"
+  },
+  {
+    "id": "3601032007",
+    "district_id": "360103",
+    "name": "CURUG"
+  },
+  {
+    "id": "3601032008",
+    "district_id": "360103",
+    "name": "CIBINGBIN"
+  },
+  {
+    "id": "3601032009",
+    "district_id": "360103",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "3601032011",
+    "district_id": "360103",
+    "name": "MAHENDRA"
+  },
+  {
+    "id": "3601032012",
+    "district_id": "360103",
+    "name": "CIBALIUNG"
+  },
+  {
+    "id": "3601032015",
+    "district_id": "360103",
+    "name": "CIHANJUANG"
+  },
+  {
+    "id": "3601032016",
+    "district_id": "360103",
+    "name": "SORONGAN"
+  }
+]

@@ -1,1 +1,52 @@
-[{"id": "9504442001", "district_id": "950444", "name": "WIYALUK"}, {"id": "9504442002", "district_id": "950444", "name": "ABURAGE"}, {"id": "9504442003", "district_id": "950444", "name": "KOGOYAPURA"}, {"id": "9504442004", "district_id": "950444", "name": "ERIMBUR"}, {"id": "9504442005", "district_id": "950444", "name": "LERAGAWI/MEGAGIRAKUSK"}, {"id": "9504442006", "district_id": "950444", "name": "LONGGOBOMA"}, {"id": "9504442007", "district_id": "950444", "name": "TINGWI"}, {"id": "9504442008", "district_id": "950444", "name": "GUBURA"}, {"id": "9504442009", "district_id": "950444", "name": "LUBUK"}, {"id": "9504442010", "district_id": "950444", "name": "BOGOME"}]
+[
+  {
+    "id": "9504442001",
+    "district_id": "950444",
+    "name": "WIYALUK"
+  },
+  {
+    "id": "9504442002",
+    "district_id": "950444",
+    "name": "ABURAGE"
+  },
+  {
+    "id": "9504442003",
+    "district_id": "950444",
+    "name": "KOGOYAPURA"
+  },
+  {
+    "id": "9504442004",
+    "district_id": "950444",
+    "name": "ERIMBUR"
+  },
+  {
+    "id": "9504442005",
+    "district_id": "950444",
+    "name": "LERAGAWI/MEGAGIRAKUSK"
+  },
+  {
+    "id": "9504442006",
+    "district_id": "950444",
+    "name": "LONGGOBOMA"
+  },
+  {
+    "id": "9504442007",
+    "district_id": "950444",
+    "name": "TINGWI"
+  },
+  {
+    "id": "9504442008",
+    "district_id": "950444",
+    "name": "GUBURA"
+  },
+  {
+    "id": "9504442009",
+    "district_id": "950444",
+    "name": "LUBUK"
+  },
+  {
+    "id": "9504442010",
+    "district_id": "950444",
+    "name": "BOGOME"
+  }
+]

@@ -1,1 +1,42 @@
-[{"id": "6213051011", "district_id": "621305", "name": "AMPAH KOTA"}, {"id": "6213052008", "district_id": "621305", "name": "SAING"}, {"id": "6213052009", "district_id": "621305", "name": "RODOK"}, {"id": "6213052010", "district_id": "621305", "name": "AMPAH II"}, {"id": "6213052012", "district_id": "621305", "name": "PUTAI"}, {"id": "6213052018", "district_id": "621305", "name": "NETAMPIN"}, {"id": "6213052024", "district_id": "621305", "name": "SUMBER GARUNGGUNG"}, {"id": "6213052025", "district_id": "621305", "name": "MUARA AWANG"}]
+[
+  {
+    "id": "6213051011",
+    "district_id": "621305",
+    "name": "AMPAH KOTA"
+  },
+  {
+    "id": "6213052008",
+    "district_id": "621305",
+    "name": "SAING"
+  },
+  {
+    "id": "6213052009",
+    "district_id": "621305",
+    "name": "RODOK"
+  },
+  {
+    "id": "6213052010",
+    "district_id": "621305",
+    "name": "AMPAH II"
+  },
+  {
+    "id": "6213052012",
+    "district_id": "621305",
+    "name": "PUTAI"
+  },
+  {
+    "id": "6213052018",
+    "district_id": "621305",
+    "name": "NETAMPIN"
+  },
+  {
+    "id": "6213052024",
+    "district_id": "621305",
+    "name": "SUMBER GARUNGGUNG"
+  },
+  {
+    "id": "6213052025",
+    "district_id": "621305",
+    "name": "MUARA AWANG"
+  }
+]

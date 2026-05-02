@@ -1,1 +1,82 @@
-[{"id": "6202031012", "district_id": "620203", "name": "KUALA KUAYAN"}, {"id": "6202032001", "district_id": "620203", "name": "TANGAR"}, {"id": "6202032002", "district_id": "620203", "name": "BAAMPAH"}, {"id": "6202032003", "district_id": "620203", "name": "KAWAN BATU"}, {"id": "6202032004", "district_id": "620203", "name": "TANJUNG BANTUR"}, {"id": "6202032005", "district_id": "620203", "name": "PENDA DURIAN"}, {"id": "6202032006", "district_id": "620203", "name": "PAHIRANGAN"}, {"id": "6202032007", "district_id": "620203", "name": "SATIUNG"}, {"id": "6202032008", "district_id": "620203", "name": "SANTILIK"}, {"id": "6202032009", "district_id": "620203", "name": "TANGKA ROBAH"}, {"id": "6202032010", "district_id": "620203", "name": "PEMANTANG"}, {"id": "6202032011", "district_id": "620203", "name": "TUMBANG SAPIRI"}, {"id": "6202032014", "district_id": "620203", "name": "BAWAN"}, {"id": "6202032015", "district_id": "620203", "name": "TANJUNG JARIANGAU"}, {"id": "6202032031", "district_id": "620203", "name": "KAPUK"}, {"id": "6202032032", "district_id": "620203", "name": "PANTAP"}]
+[
+  {
+    "id": "6202031012",
+    "district_id": "620203",
+    "name": "KUALA KUAYAN"
+  },
+  {
+    "id": "6202032001",
+    "district_id": "620203",
+    "name": "TANGAR"
+  },
+  {
+    "id": "6202032002",
+    "district_id": "620203",
+    "name": "BAAMPAH"
+  },
+  {
+    "id": "6202032003",
+    "district_id": "620203",
+    "name": "KAWAN BATU"
+  },
+  {
+    "id": "6202032004",
+    "district_id": "620203",
+    "name": "TANJUNG BANTUR"
+  },
+  {
+    "id": "6202032005",
+    "district_id": "620203",
+    "name": "PENDA DURIAN"
+  },
+  {
+    "id": "6202032006",
+    "district_id": "620203",
+    "name": "PAHIRANGAN"
+  },
+  {
+    "id": "6202032007",
+    "district_id": "620203",
+    "name": "SATIUNG"
+  },
+  {
+    "id": "6202032008",
+    "district_id": "620203",
+    "name": "SANTILIK"
+  },
+  {
+    "id": "6202032009",
+    "district_id": "620203",
+    "name": "TANGKA ROBAH"
+  },
+  {
+    "id": "6202032010",
+    "district_id": "620203",
+    "name": "PEMANTANG"
+  },
+  {
+    "id": "6202032011",
+    "district_id": "620203",
+    "name": "TUMBANG SAPIRI"
+  },
+  {
+    "id": "6202032014",
+    "district_id": "620203",
+    "name": "BAWAN"
+  },
+  {
+    "id": "6202032015",
+    "district_id": "620203",
+    "name": "TANJUNG JARIANGAU"
+  },
+  {
+    "id": "6202032031",
+    "district_id": "620203",
+    "name": "KAPUK"
+  },
+  {
+    "id": "6202032032",
+    "district_id": "620203",
+    "name": "PANTAP"
+  }
+]

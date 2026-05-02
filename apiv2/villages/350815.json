@@ -1,1 +1,52 @@
-[{"id": "3508152001", "district_id": "350815", "name": "KLANTING"}, {"id": "3508152002", "district_id": "350815", "name": "KEBONAGUNG"}, {"id": "3508152003", "district_id": "350815", "name": "KARANGSARI"}, {"id": "3508152004", "district_id": "350815", "name": "DAWUHAN LOR"}, {"id": "3508152005", "district_id": "350815", "name": "KUTORENON"}, {"id": "3508152006", "district_id": "350815", "name": "SELOKBESUKI"}, {"id": "3508152007", "district_id": "350815", "name": "SUMBEREJO"}, {"id": "3508152008", "district_id": "350815", "name": "URANGGANTUNG"}, {"id": "3508152009", "district_id": "350815", "name": "SELOKGONDANG"}, {"id": "3508152010", "district_id": "350815", "name": "BONDOYUDO"}]
+[
+  {
+    "id": "3508152001",
+    "district_id": "350815",
+    "name": "KLANTING"
+  },
+  {
+    "id": "3508152002",
+    "district_id": "350815",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3508152003",
+    "district_id": "350815",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3508152004",
+    "district_id": "350815",
+    "name": "DAWUHAN LOR"
+  },
+  {
+    "id": "3508152005",
+    "district_id": "350815",
+    "name": "KUTORENON"
+  },
+  {
+    "id": "3508152006",
+    "district_id": "350815",
+    "name": "SELOKBESUKI"
+  },
+  {
+    "id": "3508152007",
+    "district_id": "350815",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3508152008",
+    "district_id": "350815",
+    "name": "URANGGANTUNG"
+  },
+  {
+    "id": "3508152009",
+    "district_id": "350815",
+    "name": "SELOKGONDANG"
+  },
+  {
+    "id": "3508152010",
+    "district_id": "350815",
+    "name": "BONDOYUDO"
+  }
+]

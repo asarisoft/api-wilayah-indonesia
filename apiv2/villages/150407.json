@@ -1,1 +1,52 @@
-[{"id": "1504071004", "district_id": "150407", "name": "BAJUBANG"}, {"id": "1504072001", "district_id": "150407", "name": "BUNGKU"}, {"id": "1504072002", "district_id": "150407", "name": "POMPA AIR"}, {"id": "1504072003", "district_id": "150407", "name": "LADANG PERIS"}, {"id": "1504072005", "district_id": "150407", "name": "PENEROKAN"}, {"id": "1504072006", "district_id": "150407", "name": "PETAJEN"}, {"id": "1504072007", "district_id": "150407", "name": "BATIN"}, {"id": "1504072008", "district_id": "150407", "name": "MEKAR JAYA"}, {"id": "1504072009", "district_id": "150407", "name": "SUNGKAI"}, {"id": "1504072010", "district_id": "150407", "name": "MEKAR SARI NES"}]
+[
+  {
+    "id": "1504071004",
+    "district_id": "150407",
+    "name": "BAJUBANG"
+  },
+  {
+    "id": "1504072001",
+    "district_id": "150407",
+    "name": "BUNGKU"
+  },
+  {
+    "id": "1504072002",
+    "district_id": "150407",
+    "name": "POMPA AIR"
+  },
+  {
+    "id": "1504072003",
+    "district_id": "150407",
+    "name": "LADANG PERIS"
+  },
+  {
+    "id": "1504072005",
+    "district_id": "150407",
+    "name": "PENEROKAN"
+  },
+  {
+    "id": "1504072006",
+    "district_id": "150407",
+    "name": "PETAJEN"
+  },
+  {
+    "id": "1504072007",
+    "district_id": "150407",
+    "name": "BATIN"
+  },
+  {
+    "id": "1504072008",
+    "district_id": "150407",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "1504072009",
+    "district_id": "150407",
+    "name": "SUNGKAI"
+  },
+  {
+    "id": "1504072010",
+    "district_id": "150407",
+    "name": "MEKAR SARI NES"
+  }
+]

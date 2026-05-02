@@ -1,1 +1,82 @@
-[{"id": "8201082001", "district_id": "820108", "name": "TOSOA"}, {"id": "8201082002", "district_id": "820108", "name": "TOBOBOL"}, {"id": "8201082003", "district_id": "820108", "name": "BARU"}, {"id": "8201082004", "district_id": "820108", "name": "NANAS"}, {"id": "8201082005", "district_id": "820108", "name": "JERE"}, {"id": "8201082006", "district_id": "820108", "name": "GAMSUNGI"}, {"id": "8201082007", "district_id": "820108", "name": "BATAKA"}, {"id": "8201082008", "district_id": "820108", "name": "TALAGA"}, {"id": "8201082009", "district_id": "820108", "name": "TOBELOS"}, {"id": "8201082010", "district_id": "820108", "name": "GAMKONORA"}, {"id": "8201082011", "district_id": "820108", "name": "SARAU"}, {"id": "8201082012", "district_id": "820108", "name": "NGAWET"}, {"id": "8201082013", "district_id": "820108", "name": "ADU"}, {"id": "8201082014", "district_id": "820108", "name": "GAMSIDA"}, {"id": "8201082015", "district_id": "820108", "name": "NGALO NGALO"}, {"id": "8201082016", "district_id": "820108", "name": "TUGUAER"}]
+[
+  {
+    "id": "8201082001",
+    "district_id": "820108",
+    "name": "TOSOA"
+  },
+  {
+    "id": "8201082002",
+    "district_id": "820108",
+    "name": "TOBOBOL"
+  },
+  {
+    "id": "8201082003",
+    "district_id": "820108",
+    "name": "BARU"
+  },
+  {
+    "id": "8201082004",
+    "district_id": "820108",
+    "name": "NANAS"
+  },
+  {
+    "id": "8201082005",
+    "district_id": "820108",
+    "name": "JERE"
+  },
+  {
+    "id": "8201082006",
+    "district_id": "820108",
+    "name": "GAMSUNGI"
+  },
+  {
+    "id": "8201082007",
+    "district_id": "820108",
+    "name": "BATAKA"
+  },
+  {
+    "id": "8201082008",
+    "district_id": "820108",
+    "name": "TALAGA"
+  },
+  {
+    "id": "8201082009",
+    "district_id": "820108",
+    "name": "TOBELOS"
+  },
+  {
+    "id": "8201082010",
+    "district_id": "820108",
+    "name": "GAMKONORA"
+  },
+  {
+    "id": "8201082011",
+    "district_id": "820108",
+    "name": "SARAU"
+  },
+  {
+    "id": "8201082012",
+    "district_id": "820108",
+    "name": "NGAWET"
+  },
+  {
+    "id": "8201082013",
+    "district_id": "820108",
+    "name": "ADU"
+  },
+  {
+    "id": "8201082014",
+    "district_id": "820108",
+    "name": "GAMSIDA"
+  },
+  {
+    "id": "8201082015",
+    "district_id": "820108",
+    "name": "NGALO NGALO"
+  },
+  {
+    "id": "8201082016",
+    "district_id": "820108",
+    "name": "TUGUAER"
+  }
+]

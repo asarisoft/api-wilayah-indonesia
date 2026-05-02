@@ -1,1 +1,57 @@
-[{"id": "6107082002", "district_id": "610708", "name": "GERANTUNG"}, {"id": "6107082003", "district_id": "610708", "name": "MONTERADO"}, {"id": "6107082004", "district_id": "610708", "name": "GOA BOMA"}, {"id": "6107082006", "district_id": "610708", "name": "NEK GINAP"}, {"id": "6107082007", "district_id": "610708", "name": "BERINGIN BARU"}, {"id": "6107082008", "district_id": "610708", "name": "SENDORENG"}, {"id": "6107082009", "district_id": "610708", "name": "RANTAU"}, {"id": "6107082010", "district_id": "610708", "name": "MEKAR BARU"}, {"id": "6107082011", "district_id": "610708", "name": "JAHANDUNG"}, {"id": "6107082012", "district_id": "610708", "name": "SERINDU"}, {"id": "6107082013", "district_id": "610708", "name": "SIAGA"}]
+[
+  {
+    "id": "6107082002",
+    "district_id": "610708",
+    "name": "GERANTUNG"
+  },
+  {
+    "id": "6107082003",
+    "district_id": "610708",
+    "name": "MONTERADO"
+  },
+  {
+    "id": "6107082004",
+    "district_id": "610708",
+    "name": "GOA BOMA"
+  },
+  {
+    "id": "6107082006",
+    "district_id": "610708",
+    "name": "NEK GINAP"
+  },
+  {
+    "id": "6107082007",
+    "district_id": "610708",
+    "name": "BERINGIN BARU"
+  },
+  {
+    "id": "6107082008",
+    "district_id": "610708",
+    "name": "SENDORENG"
+  },
+  {
+    "id": "6107082009",
+    "district_id": "610708",
+    "name": "RANTAU"
+  },
+  {
+    "id": "6107082010",
+    "district_id": "610708",
+    "name": "MEKAR BARU"
+  },
+  {
+    "id": "6107082011",
+    "district_id": "610708",
+    "name": "JAHANDUNG"
+  },
+  {
+    "id": "6107082012",
+    "district_id": "610708",
+    "name": "SERINDU"
+  },
+  {
+    "id": "6107082013",
+    "district_id": "610708",
+    "name": "SIAGA"
+  }
+]

@@ -1,1 +1,107 @@
-[{"id": "331801", "regency_id": "3318", "name": "SUKOLILO"}, {"id": "331802", "regency_id": "3318", "name": "KAYEN"}, {"id": "331803", "regency_id": "3318", "name": "TAMBAKROMO"}, {"id": "331804", "regency_id": "3318", "name": "WINONG"}, {"id": "331805", "regency_id": "3318", "name": "PUCAKWANGI"}, {"id": "331806", "regency_id": "3318", "name": "JAKEN"}, {"id": "331807", "regency_id": "3318", "name": "BATANGAN"}, {"id": "331808", "regency_id": "3318", "name": "JUWANA"}, {"id": "331809", "regency_id": "3318", "name": "JAKENAN"}, {"id": "331810", "regency_id": "3318", "name": "PATI"}, {"id": "331811", "regency_id": "3318", "name": "GABUS"}, {"id": "331812", "regency_id": "3318", "name": "MARGOREJO"}, {"id": "331813", "regency_id": "3318", "name": "GEMBONG"}, {"id": "331814", "regency_id": "3318", "name": "TLOGOWUNGU"}, {"id": "331815", "regency_id": "3318", "name": "WEDARIJAKSA"}, {"id": "331816", "regency_id": "3318", "name": "MARGOYOSO"}, {"id": "331817", "regency_id": "3318", "name": "GUNUNGWUNGKAL"}, {"id": "331818", "regency_id": "3318", "name": "CLUWAK"}, {"id": "331819", "regency_id": "3318", "name": "TAYU"}, {"id": "331820", "regency_id": "3318", "name": "DUKUHSETI"}, {"id": "331821", "regency_id": "3318", "name": "TRANGKIL"}]
+[
+  {
+    "id": "331801",
+    "regency_id": "3318",
+    "name": "SUKOLILO"
+  },
+  {
+    "id": "331802",
+    "regency_id": "3318",
+    "name": "KAYEN"
+  },
+  {
+    "id": "331803",
+    "regency_id": "3318",
+    "name": "TAMBAKROMO"
+  },
+  {
+    "id": "331804",
+    "regency_id": "3318",
+    "name": "WINONG"
+  },
+  {
+    "id": "331805",
+    "regency_id": "3318",
+    "name": "PUCAKWANGI"
+  },
+  {
+    "id": "331806",
+    "regency_id": "3318",
+    "name": "JAKEN"
+  },
+  {
+    "id": "331807",
+    "regency_id": "3318",
+    "name": "BATANGAN"
+  },
+  {
+    "id": "331808",
+    "regency_id": "3318",
+    "name": "JUWANA"
+  },
+  {
+    "id": "331809",
+    "regency_id": "3318",
+    "name": "JAKENAN"
+  },
+  {
+    "id": "331810",
+    "regency_id": "3318",
+    "name": "PATI"
+  },
+  {
+    "id": "331811",
+    "regency_id": "3318",
+    "name": "GABUS"
+  },
+  {
+    "id": "331812",
+    "regency_id": "3318",
+    "name": "MARGOREJO"
+  },
+  {
+    "id": "331813",
+    "regency_id": "3318",
+    "name": "GEMBONG"
+  },
+  {
+    "id": "331814",
+    "regency_id": "3318",
+    "name": "TLOGOWUNGU"
+  },
+  {
+    "id": "331815",
+    "regency_id": "3318",
+    "name": "WEDARIJAKSA"
+  },
+  {
+    "id": "331816",
+    "regency_id": "3318",
+    "name": "MARGOYOSO"
+  },
+  {
+    "id": "331817",
+    "regency_id": "3318",
+    "name": "GUNUNGWUNGKAL"
+  },
+  {
+    "id": "331818",
+    "regency_id": "3318",
+    "name": "CLUWAK"
+  },
+  {
+    "id": "331819",
+    "regency_id": "3318",
+    "name": "TAYU"
+  },
+  {
+    "id": "331820",
+    "regency_id": "3318",
+    "name": "DUKUHSETI"
+  },
+  {
+    "id": "331821",
+    "regency_id": "3318",
+    "name": "TRANGKIL"
+  }
+]

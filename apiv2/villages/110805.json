@@ -1,1 +1,247 @@
-[{"id": "1108052001", "district_id": "110805", "name": "KEUDE MATANGKULI"}, {"id": "1108052002", "district_id": "110805", "name": "UDE"}, {"id": "1108052003", "district_id": "110805", "name": "BLANG MATANGKULI"}, {"id": "1108052004", "district_id": "110805", "name": "RAYEUK MATANGKULI"}, {"id": "1108052005", "district_id": "110805", "name": "TUMPOK PERLAK"}, {"id": "1108052006", "district_id": "110805", "name": "UJONG KULAM"}, {"id": "1108052007", "district_id": "110805", "name": "TANJONG TEUNGKU ALI"}, {"id": "1108052008", "district_id": "110805", "name": "RAYEUK GLANG GLONG"}, {"id": "1108052009", "district_id": "110805", "name": "PUNTI GEULUMPANG VII"}, {"id": "1108052010", "district_id": "110805", "name": "GEULUMPANG VII"}, {"id": "1108052011", "district_id": "110805", "name": "TEUNGOH GLUMPANG VII"}, {"id": "1108052012", "district_id": "110805", "name": "ARON GEULUMPANG VII"}, {"id": "1108052013", "district_id": "110805", "name": "MATANG MUNYE"}, {"id": "1108052014", "district_id": "110805", "name": "PARANG SIKUREUNG"}, {"id": "1108052015", "district_id": "110805", "name": "BARO"}, {"id": "1108052016", "district_id": "110805", "name": "MEE"}, {"id": "1108052017", "district_id": "110805", "name": "TANJONG BABAH KRUENG"}, {"id": "1108052018", "district_id": "110805", "name": "PUNTI MATANGKULI"}, {"id": "1108052019", "district_id": "110805", "name": "TEUPIN KEUBEU"}, {"id": "1108052020", "district_id": "110805", "name": "TRIENG TEUPIN KEUBEU"}, {"id": "1108052021", "district_id": "110805", "name": "MATANG MEE"}, {"id": "1108052022", "district_id": "110805", "name": "JEUMPA GEULUMPANG VII"}, {"id": "1108052034", "district_id": "110805", "name": "TUMPOK BARAT"}, {"id": "1108052035", "district_id": "110805", "name": "MEURIA MATANGKULI"}, {"id": "1108052036", "district_id": "110805", "name": "HAGU"}, {"id": "1108052037", "district_id": "110805", "name": "ALUE THO"}, {"id": "1108052039", "district_id": "110805", "name": "CEUBREK PIRAK"}, {"id": "1108052040", "district_id": "110805", "name": "RAYEUK PIRAK"}, {"id": "1108052041", "district_id": "110805", "name": "ARON PIRAK"}, {"id": "1108052042", "district_id": "110805", "name": "LAWANG"}, {"id": "1108052043", "district_id": "110805", "name": "TANJONG HAJI MUDA"}, {"id": "1108052044", "district_id": "110805", "name": "SIREN"}, {"id": "1108052045", "district_id": "110805", "name": "MEUNYE PIRAK"}, {"id": "1108052046", "district_id": "110805", "name": "BEURINGEN PIRAK"}, {"id": "1108052047", "district_id": "110805", "name": "TEUNGOH PIRAK"}, {"id": "1108052048", "district_id": "110805", "name": "MESJID PIRAK"}, {"id": "1108052049", "district_id": "110805", "name": "MATANG PEUSANGAN"}, {"id": "1108052050", "district_id": "110805", "name": "PANTE PIRAK"}, {"id": "1108052052", "district_id": "110805", "name": "LEUBOK PIRAK"}, {"id": "1108052053", "district_id": "110805", "name": "BLANG KUTA"}, {"id": "1108052054", "district_id": "110805", "name": "BLANG SUPENG"}, {"id": "1108052055", "district_id": "110805", "name": "BEURANCAN PIRAK"}, {"id": "1108052066", "district_id": "110805", "name": "ALUE ENTOK"}, {"id": "1108052067", "district_id": "110805", "name": "TANJONG TEUNGKU KARI"}, {"id": "1108052068", "district_id": "110805", "name": "TEUNGOH SEULEUMAK"}, {"id": "1108052069", "district_id": "110805", "name": "SEURIWEUK"}, {"id": "1108052070", "district_id": "110805", "name": "DAYAH BARO"}, {"id": "1108052071", "district_id": "110805", "name": "KUNYET MULEE"}, {"id": "1108052072", "district_id": "110805", "name": "TUTONG"}]
+[
+  {
+    "id": "1108052001",
+    "district_id": "110805",
+    "name": "KEUDE MATANGKULI"
+  },
+  {
+    "id": "1108052002",
+    "district_id": "110805",
+    "name": "UDE"
+  },
+  {
+    "id": "1108052003",
+    "district_id": "110805",
+    "name": "BLANG MATANGKULI"
+  },
+  {
+    "id": "1108052004",
+    "district_id": "110805",
+    "name": "RAYEUK MATANGKULI"
+  },
+  {
+    "id": "1108052005",
+    "district_id": "110805",
+    "name": "TUMPOK PERLAK"
+  },
+  {
+    "id": "1108052006",
+    "district_id": "110805",
+    "name": "UJONG KULAM"
+  },
+  {
+    "id": "1108052007",
+    "district_id": "110805",
+    "name": "TANJONG TEUNGKU ALI"
+  },
+  {
+    "id": "1108052008",
+    "district_id": "110805",
+    "name": "RAYEUK GLANG GLONG"
+  },
+  {
+    "id": "1108052009",
+    "district_id": "110805",
+    "name": "PUNTI GEULUMPANG VII"
+  },
+  {
+    "id": "1108052010",
+    "district_id": "110805",
+    "name": "GEULUMPANG VII"
+  },
+  {
+    "id": "1108052011",
+    "district_id": "110805",
+    "name": "TEUNGOH GLUMPANG VII"
+  },
+  {
+    "id": "1108052012",
+    "district_id": "110805",
+    "name": "ARON GEULUMPANG VII"
+  },
+  {
+    "id": "1108052013",
+    "district_id": "110805",
+    "name": "MATANG MUNYE"
+  },
+  {
+    "id": "1108052014",
+    "district_id": "110805",
+    "name": "PARANG SIKUREUNG"
+  },
+  {
+    "id": "1108052015",
+    "district_id": "110805",
+    "name": "BARO"
+  },
+  {
+    "id": "1108052016",
+    "district_id": "110805",
+    "name": "MEE"
+  },
+  {
+    "id": "1108052017",
+    "district_id": "110805",
+    "name": "TANJONG BABAH KRUENG"
+  },
+  {
+    "id": "1108052018",
+    "district_id": "110805",
+    "name": "PUNTI MATANGKULI"
+  },
+  {
+    "id": "1108052019",
+    "district_id": "110805",
+    "name": "TEUPIN KEUBEU"
+  },
+  {
+    "id": "1108052020",
+    "district_id": "110805",
+    "name": "TRIENG TEUPIN KEUBEU"
+  },
+  {
+    "id": "1108052021",
+    "district_id": "110805",
+    "name": "MATANG MEE"
+  },
+  {
+    "id": "1108052022",
+    "district_id": "110805",
+    "name": "JEUMPA GEULUMPANG VII"
+  },
+  {
+    "id": "1108052034",
+    "district_id": "110805",
+    "name": "TUMPOK BARAT"
+  },
+  {
+    "id": "1108052035",
+    "district_id": "110805",
+    "name": "MEURIA MATANGKULI"
+  },
+  {
+    "id": "1108052036",
+    "district_id": "110805",
+    "name": "HAGU"
+  },
+  {
+    "id": "1108052037",
+    "district_id": "110805",
+    "name": "ALUE THO"
+  },
+  {
+    "id": "1108052039",
+    "district_id": "110805",
+    "name": "CEUBREK PIRAK"
+  },
+  {
+    "id": "1108052040",
+    "district_id": "110805",
+    "name": "RAYEUK PIRAK"
+  },
+  {
+    "id": "1108052041",
+    "district_id": "110805",
+    "name": "ARON PIRAK"
+  },
+  {
+    "id": "1108052042",
+    "district_id": "110805",
+    "name": "LAWANG"
+  },
+  {
+    "id": "1108052043",
+    "district_id": "110805",
+    "name": "TANJONG HAJI MUDA"
+  },
+  {
+    "id": "1108052044",
+    "district_id": "110805",
+    "name": "SIREN"
+  },
+  {
+    "id": "1108052045",
+    "district_id": "110805",
+    "name": "MEUNYE PIRAK"
+  },
+  {
+    "id": "1108052046",
+    "district_id": "110805",
+    "name": "BEURINGEN PIRAK"
+  },
+  {
+    "id": "1108052047",
+    "district_id": "110805",
+    "name": "TEUNGOH PIRAK"
+  },
+  {
+    "id": "1108052048",
+    "district_id": "110805",
+    "name": "MESJID PIRAK"
+  },
+  {
+    "id": "1108052049",
+    "district_id": "110805",
+    "name": "MATANG PEUSANGAN"
+  },
+  {
+    "id": "1108052050",
+    "district_id": "110805",
+    "name": "PANTE PIRAK"
+  },
+  {
+    "id": "1108052052",
+    "district_id": "110805",
+    "name": "LEUBOK PIRAK"
+  },
+  {
+    "id": "1108052053",
+    "district_id": "110805",
+    "name": "BLANG KUTA"
+  },
+  {
+    "id": "1108052054",
+    "district_id": "110805",
+    "name": "BLANG SUPENG"
+  },
+  {
+    "id": "1108052055",
+    "district_id": "110805",
+    "name": "BEURANCAN PIRAK"
+  },
+  {
+    "id": "1108052066",
+    "district_id": "110805",
+    "name": "ALUE ENTOK"
+  },
+  {
+    "id": "1108052067",
+    "district_id": "110805",
+    "name": "TANJONG TEUNGKU KARI"
+  },
+  {
+    "id": "1108052068",
+    "district_id": "110805",
+    "name": "TEUNGOH SEULEUMAK"
+  },
+  {
+    "id": "1108052069",
+    "district_id": "110805",
+    "name": "SEURIWEUK"
+  },
+  {
+    "id": "1108052070",
+    "district_id": "110805",
+    "name": "DAYAH BARO"
+  },
+  {
+    "id": "1108052071",
+    "district_id": "110805",
+    "name": "KUNYET MULEE"
+  },
+  {
+    "id": "1108052072",
+    "district_id": "110805",
+    "name": "TUTONG"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "7414061004", "district_id": "741406", "name": "WATULEA"}, {"id": "7414061005", "district_id": "741406", "name": "BOMBONAWULU"}, {"id": "7414062001", "district_id": "741406", "name": "BANTEA"}, {"id": "7414062002", "district_id": "741406", "name": "LAKAPERA"}, {"id": "7414062003", "district_id": "741406", "name": "WALANDO"}, {"id": "7414062006", "district_id": "741406", "name": "WALIKO"}, {"id": "7414062007", "district_id": "741406", "name": "WAKEA KEA"}, {"id": "7414062008", "district_id": "741406", "name": "RAHIA"}, {"id": "7414062009", "district_id": "741406", "name": "WADIABERO"}, {"id": "7414062010", "district_id": "741406", "name": "KOLOWA"}, {"id": "7414062011", "district_id": "741406", "name": "KAMAMA MEKAR"}, {"id": "7414062012", "district_id": "741406", "name": "LOWU LOWU"}]
+[
+  {
+    "id": "7414061004",
+    "district_id": "741406",
+    "name": "WATULEA"
+  },
+  {
+    "id": "7414061005",
+    "district_id": "741406",
+    "name": "BOMBONAWULU"
+  },
+  {
+    "id": "7414062001",
+    "district_id": "741406",
+    "name": "BANTEA"
+  },
+  {
+    "id": "7414062002",
+    "district_id": "741406",
+    "name": "LAKAPERA"
+  },
+  {
+    "id": "7414062003",
+    "district_id": "741406",
+    "name": "WALANDO"
+  },
+  {
+    "id": "7414062006",
+    "district_id": "741406",
+    "name": "WALIKO"
+  },
+  {
+    "id": "7414062007",
+    "district_id": "741406",
+    "name": "WAKEA KEA"
+  },
+  {
+    "id": "7414062008",
+    "district_id": "741406",
+    "name": "RAHIA"
+  },
+  {
+    "id": "7414062009",
+    "district_id": "741406",
+    "name": "WADIABERO"
+  },
+  {
+    "id": "7414062010",
+    "district_id": "741406",
+    "name": "KOLOWA"
+  },
+  {
+    "id": "7414062011",
+    "district_id": "741406",
+    "name": "KAMAMA MEKAR"
+  },
+  {
+    "id": "7414062012",
+    "district_id": "741406",
+    "name": "LOWU LOWU"
+  }
+]

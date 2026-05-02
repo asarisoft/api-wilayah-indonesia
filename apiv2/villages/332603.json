@@ -1,1 +1,57 @@
-[{"id": "3326032001", "district_id": "332603", "name": "TEMBELANGUNUNG"}, {"id": "3326032002", "district_id": "332603", "name": "PAMUTUH"}, {"id": "3326032003", "district_id": "332603", "name": "DEPOK"}, {"id": "3326032004", "district_id": "332603", "name": "WONOSIDO"}, {"id": "3326032005", "district_id": "332603", "name": "TIMBANGSARI"}, {"id": "3326032006", "district_id": "332603", "name": "SIDOMULYO"}, {"id": "3326032007", "district_id": "332603", "name": "KUTOREMBET"}, {"id": "3326032008", "district_id": "332603", "name": "LEBAKBARANG"}, {"id": "3326032009", "district_id": "332603", "name": "KAPUNDUTAN"}, {"id": "3326032010", "district_id": "332603", "name": "BANTARKULON"}, {"id": "3326032011", "district_id": "332603", "name": "MENDOLO"}]
+[
+  {
+    "id": "3326032001",
+    "district_id": "332603",
+    "name": "TEMBELANGUNUNG"
+  },
+  {
+    "id": "3326032002",
+    "district_id": "332603",
+    "name": "PAMUTUH"
+  },
+  {
+    "id": "3326032003",
+    "district_id": "332603",
+    "name": "DEPOK"
+  },
+  {
+    "id": "3326032004",
+    "district_id": "332603",
+    "name": "WONOSIDO"
+  },
+  {
+    "id": "3326032005",
+    "district_id": "332603",
+    "name": "TIMBANGSARI"
+  },
+  {
+    "id": "3326032006",
+    "district_id": "332603",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3326032007",
+    "district_id": "332603",
+    "name": "KUTOREMBET"
+  },
+  {
+    "id": "3326032008",
+    "district_id": "332603",
+    "name": "LEBAKBARANG"
+  },
+  {
+    "id": "3326032009",
+    "district_id": "332603",
+    "name": "KAPUNDUTAN"
+  },
+  {
+    "id": "3326032010",
+    "district_id": "332603",
+    "name": "BANTARKULON"
+  },
+  {
+    "id": "3326032011",
+    "district_id": "332603",
+    "name": "MENDOLO"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "6101092001", "district_id": "610109", "name": "KALIAU'"}, {"id": "6101092002", "district_id": "610109", "name": "SEBUNGA"}, {"id": "6101092003", "district_id": "610109", "name": "SANTABAN"}, {"id": "6101092004", "district_id": "610109", "name": "SANATAB"}, {"id": "6101092005", "district_id": "610109", "name": "SUNGAI BENING"}]
+[
+  {
+    "id": "6101092001",
+    "district_id": "610109",
+    "name": "KALIAU'"
+  },
+  {
+    "id": "6101092002",
+    "district_id": "610109",
+    "name": "SEBUNGA"
+  },
+  {
+    "id": "6101092003",
+    "district_id": "610109",
+    "name": "SANTABAN"
+  },
+  {
+    "id": "6101092004",
+    "district_id": "610109",
+    "name": "SANATAB"
+  },
+  {
+    "id": "6101092005",
+    "district_id": "610109",
+    "name": "SUNGAI BENING"
+  }
+]

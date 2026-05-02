@@ -1,1 +1,17 @@
-[{"id": "2103041003", "district_id": "210304", "name": "SABANG BARAT"}, {"id": "2103042001", "district_id": "210304", "name": "SEBELAT"}, {"id": "2103042005", "district_id": "210304", "name": "AIR PUTIH"}]
+[
+  {
+    "id": "2103041003",
+    "district_id": "210304",
+    "name": "SABANG BARAT"
+  },
+  {
+    "id": "2103042001",
+    "district_id": "210304",
+    "name": "SEBELAT"
+  },
+  {
+    "id": "2103042005",
+    "district_id": "210304",
+    "name": "AIR PUTIH"
+  }
+]

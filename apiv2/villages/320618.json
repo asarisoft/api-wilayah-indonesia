@@ -1,1 +1,47 @@
-[{"id": "3206182001", "district_id": "320618", "name": "MANDALAHAYU"}, {"id": "3206182002", "district_id": "320618", "name": "MULYASARI"}, {"id": "3206182003", "district_id": "320618", "name": "KAWITAN"}, {"id": "3206182004", "district_id": "320618", "name": "MANDALAWANGI"}, {"id": "3206182005", "district_id": "320618", "name": "KARYAWANGI"}, {"id": "3206182006", "district_id": "320618", "name": "TANJUNGSARI"}, {"id": "3206182007", "district_id": "320618", "name": "MANDALAGUNA"}, {"id": "3206182008", "district_id": "320618", "name": "KARYAMANDALA"}, {"id": "3206182009", "district_id": "320618", "name": "BANJARWARINGIN"}]
+[
+  {
+    "id": "3206182001",
+    "district_id": "320618",
+    "name": "MANDALAHAYU"
+  },
+  {
+    "id": "3206182002",
+    "district_id": "320618",
+    "name": "MULYASARI"
+  },
+  {
+    "id": "3206182003",
+    "district_id": "320618",
+    "name": "KAWITAN"
+  },
+  {
+    "id": "3206182004",
+    "district_id": "320618",
+    "name": "MANDALAWANGI"
+  },
+  {
+    "id": "3206182005",
+    "district_id": "320618",
+    "name": "KARYAWANGI"
+  },
+  {
+    "id": "3206182006",
+    "district_id": "320618",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3206182007",
+    "district_id": "320618",
+    "name": "MANDALAGUNA"
+  },
+  {
+    "id": "3206182008",
+    "district_id": "320618",
+    "name": "KARYAMANDALA"
+  },
+  {
+    "id": "3206182009",
+    "district_id": "320618",
+    "name": "BANJARWARINGIN"
+  }
+]

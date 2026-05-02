@@ -1,1 +1,82 @@
-[{"id": "3502042001", "district_id": "350204", "name": "GAJAH"}, {"id": "3502042002", "district_id": "350204", "name": "WRINGINANOM"}, {"id": "3502042003", "district_id": "350204", "name": "NGADISANAN"}, {"id": "3502042004", "district_id": "350204", "name": "MAGUWAN"}, {"id": "3502042005", "district_id": "350204", "name": "NGLEWAN"}, {"id": "3502042006", "district_id": "350204", "name": "BEDINGIN"}, {"id": "3502042007", "district_id": "350204", "name": "BANCANGAN"}, {"id": "3502042008", "district_id": "350204", "name": "CAMPUREJO"}, {"id": "3502042009", "district_id": "350204", "name": "CAMPURSARI"}, {"id": "3502042010", "district_id": "350204", "name": "BULU"}, {"id": "3502042011", "district_id": "350204", "name": "SAMBIT"}, {"id": "3502042012", "district_id": "350204", "name": "BESUKI"}, {"id": "3502042013", "district_id": "350204", "name": "WILANGAN"}, {"id": "3502042014", "district_id": "350204", "name": "BANGSALAN"}, {"id": "3502042015", "district_id": "350204", "name": "KEMUNING"}, {"id": "3502042016", "district_id": "350204", "name": "JRAKAH"}]
+[
+  {
+    "id": "3502042001",
+    "district_id": "350204",
+    "name": "GAJAH"
+  },
+  {
+    "id": "3502042002",
+    "district_id": "350204",
+    "name": "WRINGINANOM"
+  },
+  {
+    "id": "3502042003",
+    "district_id": "350204",
+    "name": "NGADISANAN"
+  },
+  {
+    "id": "3502042004",
+    "district_id": "350204",
+    "name": "MAGUWAN"
+  },
+  {
+    "id": "3502042005",
+    "district_id": "350204",
+    "name": "NGLEWAN"
+  },
+  {
+    "id": "3502042006",
+    "district_id": "350204",
+    "name": "BEDINGIN"
+  },
+  {
+    "id": "3502042007",
+    "district_id": "350204",
+    "name": "BANCANGAN"
+  },
+  {
+    "id": "3502042008",
+    "district_id": "350204",
+    "name": "CAMPUREJO"
+  },
+  {
+    "id": "3502042009",
+    "district_id": "350204",
+    "name": "CAMPURSARI"
+  },
+  {
+    "id": "3502042010",
+    "district_id": "350204",
+    "name": "BULU"
+  },
+  {
+    "id": "3502042011",
+    "district_id": "350204",
+    "name": "SAMBIT"
+  },
+  {
+    "id": "3502042012",
+    "district_id": "350204",
+    "name": "BESUKI"
+  },
+  {
+    "id": "3502042013",
+    "district_id": "350204",
+    "name": "WILANGAN"
+  },
+  {
+    "id": "3502042014",
+    "district_id": "350204",
+    "name": "BANGSALAN"
+  },
+  {
+    "id": "3502042015",
+    "district_id": "350204",
+    "name": "KEMUNING"
+  },
+  {
+    "id": "3502042016",
+    "district_id": "350204",
+    "name": "JRAKAH"
+  }
+]

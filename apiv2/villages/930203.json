@@ -1,1 +1,47 @@
-[{"id": "9302032001", "district_id": "930203", "name": "WOROPKO"}, {"id": "9302032002", "district_id": "930203", "name": "WINIKTIT"}, {"id": "9302032003", "district_id": "930203", "name": "KANGGEWOT"}, {"id": "9302032005", "district_id": "930203", "name": "INGGEMBIT"}, {"id": "9302032006", "district_id": "930203", "name": "WAMETKAPA"}, {"id": "9302032007", "district_id": "930203", "name": "WOMBON"}, {"id": "9302032008", "district_id": "930203", "name": "UPKIM"}, {"id": "9302032009", "district_id": "930203", "name": "IKCAN"}, {"id": "9302032010", "district_id": "930203", "name": "UPYETETKO"}]
+[
+  {
+    "id": "9302032001",
+    "district_id": "930203",
+    "name": "WOROPKO"
+  },
+  {
+    "id": "9302032002",
+    "district_id": "930203",
+    "name": "WINIKTIT"
+  },
+  {
+    "id": "9302032003",
+    "district_id": "930203",
+    "name": "KANGGEWOT"
+  },
+  {
+    "id": "9302032005",
+    "district_id": "930203",
+    "name": "INGGEMBIT"
+  },
+  {
+    "id": "9302032006",
+    "district_id": "930203",
+    "name": "WAMETKAPA"
+  },
+  {
+    "id": "9302032007",
+    "district_id": "930203",
+    "name": "WOMBON"
+  },
+  {
+    "id": "9302032008",
+    "district_id": "930203",
+    "name": "UPKIM"
+  },
+  {
+    "id": "9302032009",
+    "district_id": "930203",
+    "name": "IKCAN"
+  },
+  {
+    "id": "9302032010",
+    "district_id": "930203",
+    "name": "UPYETETKO"
+  }
+]

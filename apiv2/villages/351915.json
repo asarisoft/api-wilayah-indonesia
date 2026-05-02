@@ -1,1 +1,52 @@
-[{"id": "3519152001", "district_id": "351915", "name": "NGADIREJO"}, {"id": "3519152002", "district_id": "351915", "name": "JATIREJO"}, {"id": "3519152003", "district_id": "351915", "name": "BANYUKAMBANG"}, {"id": "3519152004", "district_id": "351915", "name": "SIDOMULYO"}, {"id": "3519152005", "district_id": "351915", "name": "WONOASRI"}, {"id": "3519152006", "district_id": "351915", "name": "PLUMPUNGREJO"}, {"id": "3519152007", "district_id": "351915", "name": "BANCONG"}, {"id": "3519152008", "district_id": "351915", "name": "PURWOSARI"}, {"id": "3519152009", "district_id": "351915", "name": "KLITIK"}, {"id": "3519152010", "district_id": "351915", "name": "BUDURAN"}]
+[
+  {
+    "id": "3519152001",
+    "district_id": "351915",
+    "name": "NGADIREJO"
+  },
+  {
+    "id": "3519152002",
+    "district_id": "351915",
+    "name": "JATIREJO"
+  },
+  {
+    "id": "3519152003",
+    "district_id": "351915",
+    "name": "BANYUKAMBANG"
+  },
+  {
+    "id": "3519152004",
+    "district_id": "351915",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3519152005",
+    "district_id": "351915",
+    "name": "WONOASRI"
+  },
+  {
+    "id": "3519152006",
+    "district_id": "351915",
+    "name": "PLUMPUNGREJO"
+  },
+  {
+    "id": "3519152007",
+    "district_id": "351915",
+    "name": "BANCONG"
+  },
+  {
+    "id": "3519152008",
+    "district_id": "351915",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "3519152009",
+    "district_id": "351915",
+    "name": "KLITIK"
+  },
+  {
+    "id": "3519152010",
+    "district_id": "351915",
+    "name": "BUDURAN"
+  }
+]

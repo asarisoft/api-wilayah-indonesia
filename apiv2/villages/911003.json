@@ -1,1 +1,82 @@
-[{"id": "9110032005", "district_id": "911003", "name": "MERTEWAR"}, {"id": "9110032006", "district_id": "911003", "name": "SAMORKENA"}, {"id": "9110032007", "district_id": "911003", "name": "ARBAIS"}, {"id": "9110032008", "district_id": "911003", "name": "KAPESO"}, {"id": "9110032009", "district_id": "911003", "name": "MASEP"}, {"id": "9110032012", "district_id": "911003", "name": "NISRO"}, {"id": "9110032013", "district_id": "911003", "name": "ARUSWAR"}, {"id": "9110032014", "district_id": "911003", "name": "KAMENAWARI"}, {"id": "9110032015", "district_id": "911003", "name": "WAIM"}, {"id": "9110032016", "district_id": "911003", "name": "SUBU"}, {"id": "9110032017", "district_id": "911003", "name": "KARFASIA"}, {"id": "9110032023", "district_id": "911003", "name": "BURGENA"}, {"id": "9110032024", "district_id": "911003", "name": "WEBRO"}, {"id": "9110032025", "district_id": "911003", "name": "SIANTOA"}, {"id": "9110032026", "district_id": "911003", "name": "NIWERAWAR"}, {"id": "9110032027", "district_id": "911003", "name": "WARI"}]
+[
+  {
+    "id": "9110032005",
+    "district_id": "911003",
+    "name": "MERTEWAR"
+  },
+  {
+    "id": "9110032006",
+    "district_id": "911003",
+    "name": "SAMORKENA"
+  },
+  {
+    "id": "9110032007",
+    "district_id": "911003",
+    "name": "ARBAIS"
+  },
+  {
+    "id": "9110032008",
+    "district_id": "911003",
+    "name": "KAPESO"
+  },
+  {
+    "id": "9110032009",
+    "district_id": "911003",
+    "name": "MASEP"
+  },
+  {
+    "id": "9110032012",
+    "district_id": "911003",
+    "name": "NISRO"
+  },
+  {
+    "id": "9110032013",
+    "district_id": "911003",
+    "name": "ARUSWAR"
+  },
+  {
+    "id": "9110032014",
+    "district_id": "911003",
+    "name": "KAMENAWARI"
+  },
+  {
+    "id": "9110032015",
+    "district_id": "911003",
+    "name": "WAIM"
+  },
+  {
+    "id": "9110032016",
+    "district_id": "911003",
+    "name": "SUBU"
+  },
+  {
+    "id": "9110032017",
+    "district_id": "911003",
+    "name": "KARFASIA"
+  },
+  {
+    "id": "9110032023",
+    "district_id": "911003",
+    "name": "BURGENA"
+  },
+  {
+    "id": "9110032024",
+    "district_id": "911003",
+    "name": "WEBRO"
+  },
+  {
+    "id": "9110032025",
+    "district_id": "911003",
+    "name": "SIANTOA"
+  },
+  {
+    "id": "9110032026",
+    "district_id": "911003",
+    "name": "NIWERAWAR"
+  },
+  {
+    "id": "9110032027",
+    "district_id": "911003",
+    "name": "WARI"
+  }
+]

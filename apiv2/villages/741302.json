@@ -1,1 +1,42 @@
-[{"id": "7413022001", "district_id": "741302", "name": "WUNA"}, {"id": "7413022002", "district_id": "741302", "name": "LAFINDE"}, {"id": "7413022003", "district_id": "741302", "name": "WAULAI"}, {"id": "7413022004", "district_id": "741302", "name": "WALELEI"}, {"id": "7413022005", "district_id": "741302", "name": "SAWERIGADI"}, {"id": "7413022006", "district_id": "741302", "name": "BUNGKOLO"}, {"id": "7413022007", "district_id": "741302", "name": "BARANGKA"}, {"id": "7413022008", "district_id": "741302", "name": "LAPOLEA"}]
+[
+  {
+    "id": "7413022001",
+    "district_id": "741302",
+    "name": "WUNA"
+  },
+  {
+    "id": "7413022002",
+    "district_id": "741302",
+    "name": "LAFINDE"
+  },
+  {
+    "id": "7413022003",
+    "district_id": "741302",
+    "name": "WAULAI"
+  },
+  {
+    "id": "7413022004",
+    "district_id": "741302",
+    "name": "WALELEI"
+  },
+  {
+    "id": "7413022005",
+    "district_id": "741302",
+    "name": "SAWERIGADI"
+  },
+  {
+    "id": "7413022006",
+    "district_id": "741302",
+    "name": "BUNGKOLO"
+  },
+  {
+    "id": "7413022007",
+    "district_id": "741302",
+    "name": "BARANGKA"
+  },
+  {
+    "id": "7413022008",
+    "district_id": "741302",
+    "name": "LAPOLEA"
+  }
+]

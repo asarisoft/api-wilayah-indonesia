@@ -1,1 +1,42 @@
-[{"id": "1205222001", "district_id": "120522", "name": "NAMOTOGAN"}, {"id": "1205222002", "district_id": "120522", "name": "KUTA GAJAH"}, {"id": "1205222003", "district_id": "120522", "name": "PERKEBUNAN MARIKE"}, {"id": "1205222004", "district_id": "120522", "name": "KAPERAS"}, {"id": "1205222005", "district_id": "120522", "name": "NAMOTERAS"}, {"id": "1205222006", "district_id": "120522", "name": "RAMPAH"}, {"id": "1205222007", "district_id": "120522", "name": "SULKAM"}, {"id": "1205222008", "district_id": "120522", "name": "KUTAMBARU"}]
+[
+  {
+    "id": "1205222001",
+    "district_id": "120522",
+    "name": "NAMOTOGAN"
+  },
+  {
+    "id": "1205222002",
+    "district_id": "120522",
+    "name": "KUTA GAJAH"
+  },
+  {
+    "id": "1205222003",
+    "district_id": "120522",
+    "name": "PERKEBUNAN MARIKE"
+  },
+  {
+    "id": "1205222004",
+    "district_id": "120522",
+    "name": "KAPERAS"
+  },
+  {
+    "id": "1205222005",
+    "district_id": "120522",
+    "name": "NAMOTERAS"
+  },
+  {
+    "id": "1205222006",
+    "district_id": "120522",
+    "name": "RAMPAH"
+  },
+  {
+    "id": "1205222007",
+    "district_id": "120522",
+    "name": "SULKAM"
+  },
+  {
+    "id": "1205222008",
+    "district_id": "120522",
+    "name": "KUTAMBARU"
+  }
+]

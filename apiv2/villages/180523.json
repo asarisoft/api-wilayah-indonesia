@@ -1,1 +1,47 @@
-[{"id": "1805232001", "district_id": "180523", "name": "GEDUNG HARAPAN"}, {"id": "1805232002", "district_id": "180523", "name": "GEDUNG ASRI"}, {"id": "1805232003", "district_id": "180523", "name": "GEDUNG REJO SAKTI"}, {"id": "1805232004", "district_id": "180523", "name": "PASAR BATANG"}, {"id": "1805232005", "district_id": "180523", "name": "SUKA MAKMUR"}, {"id": "1805232006", "district_id": "180523", "name": "KARYA MAKMUR"}, {"id": "1805232007", "district_id": "180523", "name": "WONO REJO"}, {"id": "1805232008", "district_id": "180523", "name": "PANCA TUNGGAL JAYA"}, {"id": "1805232009", "district_id": "180523", "name": "SUMBER SARI"}]
+[
+  {
+    "id": "1805232001",
+    "district_id": "180523",
+    "name": "GEDUNG HARAPAN"
+  },
+  {
+    "id": "1805232002",
+    "district_id": "180523",
+    "name": "GEDUNG ASRI"
+  },
+  {
+    "id": "1805232003",
+    "district_id": "180523",
+    "name": "GEDUNG REJO SAKTI"
+  },
+  {
+    "id": "1805232004",
+    "district_id": "180523",
+    "name": "PASAR BATANG"
+  },
+  {
+    "id": "1805232005",
+    "district_id": "180523",
+    "name": "SUKA MAKMUR"
+  },
+  {
+    "id": "1805232006",
+    "district_id": "180523",
+    "name": "KARYA MAKMUR"
+  },
+  {
+    "id": "1805232007",
+    "district_id": "180523",
+    "name": "WONO REJO"
+  },
+  {
+    "id": "1805232008",
+    "district_id": "180523",
+    "name": "PANCA TUNGGAL JAYA"
+  },
+  {
+    "id": "1805232009",
+    "district_id": "180523",
+    "name": "SUMBER SARI"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "9508032001", "district_id": "950803", "name": "YIGI"}, {"id": "9508032002", "district_id": "950803", "name": "EKILAPO"}, {"id": "9508032003", "district_id": "950803", "name": "SUWENEM"}, {"id": "9508032004", "district_id": "950803", "name": "KARUNGGAME"}, {"id": "9508032005", "district_id": "950803", "name": "SIRIT"}, {"id": "9508032006", "district_id": "950803", "name": "DISENDOBO"}, {"id": "9508032007", "district_id": "950803", "name": "SUMBO"}, {"id": "9508032008", "district_id": "950803", "name": "YEBADOLMA"}, {"id": "9508032009", "district_id": "950803", "name": "LUMBUKDUMU"}, {"id": "9508032010", "district_id": "950803", "name": "WIRITLAK"}, {"id": "9508032011", "district_id": "950803", "name": "DELSA"}, {"id": "9508032012", "district_id": "950803", "name": "BOROT"}]
+[
+  {
+    "id": "9508032001",
+    "district_id": "950803",
+    "name": "YIGI"
+  },
+  {
+    "id": "9508032002",
+    "district_id": "950803",
+    "name": "EKILAPO"
+  },
+  {
+    "id": "9508032003",
+    "district_id": "950803",
+    "name": "SUWENEM"
+  },
+  {
+    "id": "9508032004",
+    "district_id": "950803",
+    "name": "KARUNGGAME"
+  },
+  {
+    "id": "9508032005",
+    "district_id": "950803",
+    "name": "SIRIT"
+  },
+  {
+    "id": "9508032006",
+    "district_id": "950803",
+    "name": "DISENDOBO"
+  },
+  {
+    "id": "9508032007",
+    "district_id": "950803",
+    "name": "SUMBO"
+  },
+  {
+    "id": "9508032008",
+    "district_id": "950803",
+    "name": "YEBADOLMA"
+  },
+  {
+    "id": "9508032009",
+    "district_id": "950803",
+    "name": "LUMBUKDUMU"
+  },
+  {
+    "id": "9508032010",
+    "district_id": "950803",
+    "name": "WIRITLAK"
+  },
+  {
+    "id": "9508032011",
+    "district_id": "950803",
+    "name": "DELSA"
+  },
+  {
+    "id": "9508032012",
+    "district_id": "950803",
+    "name": "BOROT"
+  }
+]

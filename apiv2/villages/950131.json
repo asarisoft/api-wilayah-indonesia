@@ -1,1 +1,52 @@
-[{"id": "9501312001", "district_id": "950131", "name": "PIRAMID"}, {"id": "9501312002", "district_id": "950131", "name": "YONGGIME"}, {"id": "9501312003", "district_id": "950131", "name": "PERABAGA"}, {"id": "9501312004", "district_id": "950131", "name": "ALGONIK"}, {"id": "9501312005", "district_id": "950131", "name": "YALINGGUME"}, {"id": "9501312006", "district_id": "950131", "name": "ABUNERI"}, {"id": "9501312007", "district_id": "950131", "name": "GOBALIMO"}, {"id": "9501312008", "district_id": "950131", "name": "BALIMA"}, {"id": "9501312009", "district_id": "950131", "name": "YUMBUN"}, {"id": "9501312010", "district_id": "950131", "name": "BEAM"}]
+[
+  {
+    "id": "9501312001",
+    "district_id": "950131",
+    "name": "PIRAMID"
+  },
+  {
+    "id": "9501312002",
+    "district_id": "950131",
+    "name": "YONGGIME"
+  },
+  {
+    "id": "9501312003",
+    "district_id": "950131",
+    "name": "PERABAGA"
+  },
+  {
+    "id": "9501312004",
+    "district_id": "950131",
+    "name": "ALGONIK"
+  },
+  {
+    "id": "9501312005",
+    "district_id": "950131",
+    "name": "YALINGGUME"
+  },
+  {
+    "id": "9501312006",
+    "district_id": "950131",
+    "name": "ABUNERI"
+  },
+  {
+    "id": "9501312007",
+    "district_id": "950131",
+    "name": "GOBALIMO"
+  },
+  {
+    "id": "9501312008",
+    "district_id": "950131",
+    "name": "BALIMA"
+  },
+  {
+    "id": "9501312009",
+    "district_id": "950131",
+    "name": "YUMBUN"
+  },
+  {
+    "id": "9501312010",
+    "district_id": "950131",
+    "name": "BEAM"
+  }
+]

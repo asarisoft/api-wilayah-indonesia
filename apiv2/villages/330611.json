@@ -1,1 +1,247 @@
-[{"id": "3306112001", "district_id": "330611", "name": "KENDALREJO"}, {"id": "3306112002", "district_id": "330611", "name": "KALIMATI"}, {"id": "3306112003", "district_id": "330611", "name": "PEPE"}, {"id": "3306112004", "district_id": "330611", "name": "TUNJUNGTEJO"}, {"id": "3306112005", "district_id": "330611", "name": "SEKARTEJO"}, {"id": "3306112006", "district_id": "330611", "name": "TERSIDILOR"}, {"id": "3306112007", "district_id": "330611", "name": "TERSIDIKIDUL"}, {"id": "3306112008", "district_id": "330611", "name": "TASIKMADU"}, {"id": "3306112009", "district_id": "330611", "name": "PANGKALAN"}, {"id": "3306112010", "district_id": "330611", "name": "SUMBER"}, {"id": "3306112011", "district_id": "330611", "name": "GUMAWANGREJO"}, {"id": "3306112012", "district_id": "330611", "name": "KEBURUSAN"}, {"id": "3306112013", "district_id": "330611", "name": "WONOYOSO"}, {"id": "3306112014", "district_id": "330611", "name": "TAPEN"}, {"id": "3306112015", "district_id": "330611", "name": "WARU"}, {"id": "3306112016", "district_id": "330611", "name": "BLEKATUK"}, {"id": "3306112017", "district_id": "330611", "name": "DLISEN WETAN"}, {"id": "3306112018", "district_id": "330611", "name": "DLISENKULON"}, {"id": "3306112019", "district_id": "330611", "name": "SEMAMPIR"}, {"id": "3306112020", "district_id": "330611", "name": "PETUGURAN"}, {"id": "3306112021", "district_id": "330611", "name": "PEKACANGAN"}, {"id": "3306112022", "district_id": "330611", "name": "KARANGGETAS"}, {"id": "3306112023", "district_id": "330611", "name": "LUWENG KIDUL"}, {"id": "3306112024", "district_id": "330611", "name": "SAMBENG"}, {"id": "3306112025", "district_id": "330611", "name": "MEGULUNGKIDUL"}, {"id": "3306112026", "district_id": "330611", "name": "PITURUH"}, {"id": "3306112027", "district_id": "330611", "name": "SIKAMBANG"}, {"id": "3306112028", "district_id": "330611", "name": "NGAMPEL"}, {"id": "3306112029", "district_id": "330611", "name": "PRIGELAN"}, {"id": "3306112030", "district_id": "330611", "name": "NGANDAGAN"}, {"id": "3306112031", "district_id": "330611", "name": "KARANGANYAR"}, {"id": "3306112032", "district_id": "330611", "name": "MEGULUNGLOR"}, {"id": "3306112033", "district_id": "330611", "name": "PRAPAGKIDUL"}, {"id": "3306112034", "district_id": "330611", "name": "KEMBANGKUNING"}, {"id": "3306112035", "district_id": "330611", "name": "LUWENGLOR"}, {"id": "3306112036", "district_id": "330611", "name": "BRENGKOL"}, {"id": "3306112037", "district_id": "330611", "name": "GIRIGONDO"}, {"id": "3306112038", "district_id": "330611", "name": "PRAPAGLOR"}, {"id": "3306112039", "district_id": "330611", "name": "KALIKOTES"}, {"id": "3306112040", "district_id": "330611", "name": "KESAWEN"}, {"id": "3306112041", "district_id": "330611", "name": "KEDUNGBATUR"}, {"id": "3306112042", "district_id": "330611", "name": "POLOWANGI"}, {"id": "3306112043", "district_id": "330611", "name": "KALIJERING"}, {"id": "3306112044", "district_id": "330611", "name": "SOMOGEDE"}, {"id": "3306112045", "district_id": "330611", "name": "KALIGONDANG"}, {"id": "3306112046", "district_id": "330611", "name": "KALIGINTUNG"}, {"id": "3306112047", "district_id": "330611", "name": "SAWANGAN"}, {"id": "3306112048", "district_id": "330611", "name": "WONOSIDO"}, {"id": "3306112049", "district_id": "330611", "name": "PAMRIYAN"}]
+[
+  {
+    "id": "3306112001",
+    "district_id": "330611",
+    "name": "KENDALREJO"
+  },
+  {
+    "id": "3306112002",
+    "district_id": "330611",
+    "name": "KALIMATI"
+  },
+  {
+    "id": "3306112003",
+    "district_id": "330611",
+    "name": "PEPE"
+  },
+  {
+    "id": "3306112004",
+    "district_id": "330611",
+    "name": "TUNJUNGTEJO"
+  },
+  {
+    "id": "3306112005",
+    "district_id": "330611",
+    "name": "SEKARTEJO"
+  },
+  {
+    "id": "3306112006",
+    "district_id": "330611",
+    "name": "TERSIDILOR"
+  },
+  {
+    "id": "3306112007",
+    "district_id": "330611",
+    "name": "TERSIDIKIDUL"
+  },
+  {
+    "id": "3306112008",
+    "district_id": "330611",
+    "name": "TASIKMADU"
+  },
+  {
+    "id": "3306112009",
+    "district_id": "330611",
+    "name": "PANGKALAN"
+  },
+  {
+    "id": "3306112010",
+    "district_id": "330611",
+    "name": "SUMBER"
+  },
+  {
+    "id": "3306112011",
+    "district_id": "330611",
+    "name": "GUMAWANGREJO"
+  },
+  {
+    "id": "3306112012",
+    "district_id": "330611",
+    "name": "KEBURUSAN"
+  },
+  {
+    "id": "3306112013",
+    "district_id": "330611",
+    "name": "WONOYOSO"
+  },
+  {
+    "id": "3306112014",
+    "district_id": "330611",
+    "name": "TAPEN"
+  },
+  {
+    "id": "3306112015",
+    "district_id": "330611",
+    "name": "WARU"
+  },
+  {
+    "id": "3306112016",
+    "district_id": "330611",
+    "name": "BLEKATUK"
+  },
+  {
+    "id": "3306112017",
+    "district_id": "330611",
+    "name": "DLISEN WETAN"
+  },
+  {
+    "id": "3306112018",
+    "district_id": "330611",
+    "name": "DLISENKULON"
+  },
+  {
+    "id": "3306112019",
+    "district_id": "330611",
+    "name": "SEMAMPIR"
+  },
+  {
+    "id": "3306112020",
+    "district_id": "330611",
+    "name": "PETUGURAN"
+  },
+  {
+    "id": "3306112021",
+    "district_id": "330611",
+    "name": "PEKACANGAN"
+  },
+  {
+    "id": "3306112022",
+    "district_id": "330611",
+    "name": "KARANGGETAS"
+  },
+  {
+    "id": "3306112023",
+    "district_id": "330611",
+    "name": "LUWENG KIDUL"
+  },
+  {
+    "id": "3306112024",
+    "district_id": "330611",
+    "name": "SAMBENG"
+  },
+  {
+    "id": "3306112025",
+    "district_id": "330611",
+    "name": "MEGULUNGKIDUL"
+  },
+  {
+    "id": "3306112026",
+    "district_id": "330611",
+    "name": "PITURUH"
+  },
+  {
+    "id": "3306112027",
+    "district_id": "330611",
+    "name": "SIKAMBANG"
+  },
+  {
+    "id": "3306112028",
+    "district_id": "330611",
+    "name": "NGAMPEL"
+  },
+  {
+    "id": "3306112029",
+    "district_id": "330611",
+    "name": "PRIGELAN"
+  },
+  {
+    "id": "3306112030",
+    "district_id": "330611",
+    "name": "NGANDAGAN"
+  },
+  {
+    "id": "3306112031",
+    "district_id": "330611",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3306112032",
+    "district_id": "330611",
+    "name": "MEGULUNGLOR"
+  },
+  {
+    "id": "3306112033",
+    "district_id": "330611",
+    "name": "PRAPAGKIDUL"
+  },
+  {
+    "id": "3306112034",
+    "district_id": "330611",
+    "name": "KEMBANGKUNING"
+  },
+  {
+    "id": "3306112035",
+    "district_id": "330611",
+    "name": "LUWENGLOR"
+  },
+  {
+    "id": "3306112036",
+    "district_id": "330611",
+    "name": "BRENGKOL"
+  },
+  {
+    "id": "3306112037",
+    "district_id": "330611",
+    "name": "GIRIGONDO"
+  },
+  {
+    "id": "3306112038",
+    "district_id": "330611",
+    "name": "PRAPAGLOR"
+  },
+  {
+    "id": "3306112039",
+    "district_id": "330611",
+    "name": "KALIKOTES"
+  },
+  {
+    "id": "3306112040",
+    "district_id": "330611",
+    "name": "KESAWEN"
+  },
+  {
+    "id": "3306112041",
+    "district_id": "330611",
+    "name": "KEDUNGBATUR"
+  },
+  {
+    "id": "3306112042",
+    "district_id": "330611",
+    "name": "POLOWANGI"
+  },
+  {
+    "id": "3306112043",
+    "district_id": "330611",
+    "name": "KALIJERING"
+  },
+  {
+    "id": "3306112044",
+    "district_id": "330611",
+    "name": "SOMOGEDE"
+  },
+  {
+    "id": "3306112045",
+    "district_id": "330611",
+    "name": "KALIGONDANG"
+  },
+  {
+    "id": "3306112046",
+    "district_id": "330611",
+    "name": "KALIGINTUNG"
+  },
+  {
+    "id": "3306112047",
+    "district_id": "330611",
+    "name": "SAWANGAN"
+  },
+  {
+    "id": "3306112048",
+    "district_id": "330611",
+    "name": "WONOSIDO"
+  },
+  {
+    "id": "3306112049",
+    "district_id": "330611",
+    "name": "PAMRIYAN"
+  }
+]

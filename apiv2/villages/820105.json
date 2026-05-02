@@ -1,1 +1,132 @@
-[{"id": "8201052001", "district_id": "820105", "name": "SIDANGOLI GAM"}, {"id": "8201052002", "district_id": "820105", "name": "SIDONGOLI DEHE"}, {"id": "8201052003", "district_id": "820105", "name": "DOMATO"}, {"id": "8201052004", "district_id": "820105", "name": "TATALEKA"}, {"id": "8201052005", "district_id": "820105", "name": "GAMLENGE"}, {"id": "8201052006", "district_id": "820105", "name": "AKEJAILOLO"}, {"id": "8201052007", "district_id": "820105", "name": "BIAMAAHI"}, {"id": "8201052008", "district_id": "820105", "name": "TUGURACI"}, {"id": "8201052009", "district_id": "820105", "name": "AKEARA"}, {"id": "8201052010", "district_id": "820105", "name": "AKELAHA"}, {"id": "8201052011", "district_id": "820105", "name": "DODINGA"}, {"id": "8201052012", "district_id": "820105", "name": "TEWE"}, {"id": "8201052013", "district_id": "820105", "name": "TONIKU"}, {"id": "8201052014", "district_id": "820105", "name": "RIORIBATI"}, {"id": "8201052021", "district_id": "820105", "name": "TABA DAMAI (DB)"}, {"id": "8201052022", "district_id": "820105", "name": "MOISO"}, {"id": "8201052023", "district_id": "820105", "name": "BRAHA"}, {"id": "8201052024", "district_id": "820105", "name": "BANGKIT RAHMAT"}, {"id": "8201052025", "district_id": "820105", "name": "BOBANE DANO"}, {"id": "8201052026", "district_id": "820105", "name": "SUKA DAMAI"}, {"id": "8201052027", "district_id": "820105", "name": "HIJRAH"}, {"id": "8201052028", "district_id": "820105", "name": "RATEM"}, {"id": "8201052029", "district_id": "820105", "name": "BOBANEIGO MADIHUTU"}, {"id": "8201052030", "district_id": "820105", "name": "TETEWANG JORONGA"}, {"id": "8201052031", "district_id": "820105", "name": "AKELAMO CINGA-CINGA"}, {"id": "8201052032", "district_id": "820105", "name": "AKESAHU MADUTU"}]
+[
+  {
+    "id": "8201052001",
+    "district_id": "820105",
+    "name": "SIDANGOLI GAM"
+  },
+  {
+    "id": "8201052002",
+    "district_id": "820105",
+    "name": "SIDONGOLI DEHE"
+  },
+  {
+    "id": "8201052003",
+    "district_id": "820105",
+    "name": "DOMATO"
+  },
+  {
+    "id": "8201052004",
+    "district_id": "820105",
+    "name": "TATALEKA"
+  },
+  {
+    "id": "8201052005",
+    "district_id": "820105",
+    "name": "GAMLENGE"
+  },
+  {
+    "id": "8201052006",
+    "district_id": "820105",
+    "name": "AKEJAILOLO"
+  },
+  {
+    "id": "8201052007",
+    "district_id": "820105",
+    "name": "BIAMAAHI"
+  },
+  {
+    "id": "8201052008",
+    "district_id": "820105",
+    "name": "TUGURACI"
+  },
+  {
+    "id": "8201052009",
+    "district_id": "820105",
+    "name": "AKEARA"
+  },
+  {
+    "id": "8201052010",
+    "district_id": "820105",
+    "name": "AKELAHA"
+  },
+  {
+    "id": "8201052011",
+    "district_id": "820105",
+    "name": "DODINGA"
+  },
+  {
+    "id": "8201052012",
+    "district_id": "820105",
+    "name": "TEWE"
+  },
+  {
+    "id": "8201052013",
+    "district_id": "820105",
+    "name": "TONIKU"
+  },
+  {
+    "id": "8201052014",
+    "district_id": "820105",
+    "name": "RIORIBATI"
+  },
+  {
+    "id": "8201052021",
+    "district_id": "820105",
+    "name": "TABA DAMAI (DB)"
+  },
+  {
+    "id": "8201052022",
+    "district_id": "820105",
+    "name": "MOISO"
+  },
+  {
+    "id": "8201052023",
+    "district_id": "820105",
+    "name": "BRAHA"
+  },
+  {
+    "id": "8201052024",
+    "district_id": "820105",
+    "name": "BANGKIT RAHMAT"
+  },
+  {
+    "id": "8201052025",
+    "district_id": "820105",
+    "name": "BOBANE DANO"
+  },
+  {
+    "id": "8201052026",
+    "district_id": "820105",
+    "name": "SUKA DAMAI"
+  },
+  {
+    "id": "8201052027",
+    "district_id": "820105",
+    "name": "HIJRAH"
+  },
+  {
+    "id": "8201052028",
+    "district_id": "820105",
+    "name": "RATEM"
+  },
+  {
+    "id": "8201052029",
+    "district_id": "820105",
+    "name": "BOBANEIGO MADIHUTU"
+  },
+  {
+    "id": "8201052030",
+    "district_id": "820105",
+    "name": "TETEWANG JORONGA"
+  },
+  {
+    "id": "8201052031",
+    "district_id": "820105",
+    "name": "AKELAMO CINGA-CINGA"
+  },
+  {
+    "id": "8201052032",
+    "district_id": "820105",
+    "name": "AKESAHU MADUTU"
+  }
+]

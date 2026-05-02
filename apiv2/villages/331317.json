@@ -1,1 +1,47 @@
-[{"id": "3313172001", "district_id": "331317", "name": "GUMENG"}, {"id": "3313172002", "district_id": "331317", "name": "ANGGRASMANIS"}, {"id": "3313172003", "district_id": "331317", "name": "JENAWI"}, {"id": "3313172004", "district_id": "331317", "name": "TRENGGULI"}, {"id": "3313172005", "district_id": "331317", "name": "SIDOMUKTI"}, {"id": "3313172006", "district_id": "331317", "name": "BALONG"}, {"id": "3313172007", "district_id": "331317", "name": "SELOROMO"}, {"id": "3313172008", "district_id": "331317", "name": "MENJING"}, {"id": "3313172009", "district_id": "331317", "name": "LEMPONG"}]
+[
+  {
+    "id": "3313172001",
+    "district_id": "331317",
+    "name": "GUMENG"
+  },
+  {
+    "id": "3313172002",
+    "district_id": "331317",
+    "name": "ANGGRASMANIS"
+  },
+  {
+    "id": "3313172003",
+    "district_id": "331317",
+    "name": "JENAWI"
+  },
+  {
+    "id": "3313172004",
+    "district_id": "331317",
+    "name": "TRENGGULI"
+  },
+  {
+    "id": "3313172005",
+    "district_id": "331317",
+    "name": "SIDOMUKTI"
+  },
+  {
+    "id": "3313172006",
+    "district_id": "331317",
+    "name": "BALONG"
+  },
+  {
+    "id": "3313172007",
+    "district_id": "331317",
+    "name": "SELOROMO"
+  },
+  {
+    "id": "3313172008",
+    "district_id": "331317",
+    "name": "MENJING"
+  },
+  {
+    "id": "3313172009",
+    "district_id": "331317",
+    "name": "LEMPONG"
+  }
+]

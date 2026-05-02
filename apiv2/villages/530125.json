@@ -1,1 +1,37 @@
-[{"id": "5301252001", "district_id": "530125", "name": "FATUKANUTU"}, {"id": "5301252002", "district_id": "530125", "name": "KAIRANE"}, {"id": "5301252003", "district_id": "530125", "name": "RAKNAMO"}, {"id": "5301252004", "district_id": "530125", "name": "KUANHEUM"}, {"id": "5301252005", "district_id": "530125", "name": "FATUTETA"}, {"id": "5301252006", "district_id": "530125", "name": "OEFETO"}, {"id": "5301252007", "district_id": "530125", "name": "NIUNBAUN"}]
+[
+  {
+    "id": "5301252001",
+    "district_id": "530125",
+    "name": "FATUKANUTU"
+  },
+  {
+    "id": "5301252002",
+    "district_id": "530125",
+    "name": "KAIRANE"
+  },
+  {
+    "id": "5301252003",
+    "district_id": "530125",
+    "name": "RAKNAMO"
+  },
+  {
+    "id": "5301252004",
+    "district_id": "530125",
+    "name": "KUANHEUM"
+  },
+  {
+    "id": "5301252005",
+    "district_id": "530125",
+    "name": "FATUTETA"
+  },
+  {
+    "id": "5301252006",
+    "district_id": "530125",
+    "name": "OEFETO"
+  },
+  {
+    "id": "5301252007",
+    "district_id": "530125",
+    "name": "NIUNBAUN"
+  }
+]

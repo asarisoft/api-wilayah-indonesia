@@ -1,1 +1,72 @@
-[{"id": "5312112001", "district_id": "531211", "name": "KATIKU LOKU"}, {"id": "5312112002", "district_id": "531211", "name": "HUPU MADA"}, {"id": "5312112003", "district_id": "531211", "name": "PRAIBAKUL"}, {"id": "5312112004", "district_id": "531211", "name": "HOBA WAWI"}, {"id": "5312112005", "district_id": "531211", "name": "WAIHURA"}, {"id": "5312112006", "district_id": "531211", "name": "PAHOLA"}, {"id": "5312112007", "district_id": "531211", "name": "BALI LOKU"}, {"id": "5312112008", "district_id": "531211", "name": "TARA MANU"}, {"id": "5312112009", "district_id": "531211", "name": "MAMODU"}, {"id": "5312112010", "district_id": "531211", "name": "RUA"}, {"id": "5312112011", "district_id": "531211", "name": "REWA RARA"}, {"id": "5312112012", "district_id": "531211", "name": "WEI MANGOMA"}, {"id": "5312112013", "district_id": "531211", "name": "ANA WOLU"}, {"id": "5312112014", "district_id": "531211", "name": "PARI RARA"}]
+[
+  {
+    "id": "5312112001",
+    "district_id": "531211",
+    "name": "KATIKU LOKU"
+  },
+  {
+    "id": "5312112002",
+    "district_id": "531211",
+    "name": "HUPU MADA"
+  },
+  {
+    "id": "5312112003",
+    "district_id": "531211",
+    "name": "PRAIBAKUL"
+  },
+  {
+    "id": "5312112004",
+    "district_id": "531211",
+    "name": "HOBA WAWI"
+  },
+  {
+    "id": "5312112005",
+    "district_id": "531211",
+    "name": "WAIHURA"
+  },
+  {
+    "id": "5312112006",
+    "district_id": "531211",
+    "name": "PAHOLA"
+  },
+  {
+    "id": "5312112007",
+    "district_id": "531211",
+    "name": "BALI LOKU"
+  },
+  {
+    "id": "5312112008",
+    "district_id": "531211",
+    "name": "TARA MANU"
+  },
+  {
+    "id": "5312112009",
+    "district_id": "531211",
+    "name": "MAMODU"
+  },
+  {
+    "id": "5312112010",
+    "district_id": "531211",
+    "name": "RUA"
+  },
+  {
+    "id": "5312112011",
+    "district_id": "531211",
+    "name": "REWA RARA"
+  },
+  {
+    "id": "5312112012",
+    "district_id": "531211",
+    "name": "WEI MANGOMA"
+  },
+  {
+    "id": "5312112013",
+    "district_id": "531211",
+    "name": "ANA WOLU"
+  },
+  {
+    "id": "5312112014",
+    "district_id": "531211",
+    "name": "PARI RARA"
+  }
+]

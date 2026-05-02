@@ -1,1 +1,67 @@
-[{"id": "1401041018", "district_id": "140104", "name": "BATU BERSURAT"}, {"id": "1401042004", "district_id": "140104", "name": "GUNUNG BUNGSU"}, {"id": "1401042005", "district_id": "140104", "name": "KOTO TUO"}, {"id": "1401042006", "district_id": "140104", "name": "BALUNG"}, {"id": "1401042007", "district_id": "140104", "name": "MUARA TAKUS"}, {"id": "1401042010", "district_id": "140104", "name": "PULAU GADANG"}, {"id": "1401042011", "district_id": "140104", "name": "TANJUNG ALAI"}, {"id": "1401042012", "district_id": "140104", "name": "RANAH SUNGKAI"}, {"id": "1401042013", "district_id": "140104", "name": "LUBUK AGUNG"}, {"id": "1401042014", "district_id": "140104", "name": "KOTO MESJID"}, {"id": "1401042016", "district_id": "140104", "name": "PONGKAI ISTIQOMAH"}, {"id": "1401042017", "district_id": "140104", "name": "BINAMANG"}, {"id": "1401042019", "district_id": "140104", "name": "KOTO TUO BARAT"}]
+[
+  {
+    "id": "1401041018",
+    "district_id": "140104",
+    "name": "BATU BERSURAT"
+  },
+  {
+    "id": "1401042004",
+    "district_id": "140104",
+    "name": "GUNUNG BUNGSU"
+  },
+  {
+    "id": "1401042005",
+    "district_id": "140104",
+    "name": "KOTO TUO"
+  },
+  {
+    "id": "1401042006",
+    "district_id": "140104",
+    "name": "BALUNG"
+  },
+  {
+    "id": "1401042007",
+    "district_id": "140104",
+    "name": "MUARA TAKUS"
+  },
+  {
+    "id": "1401042010",
+    "district_id": "140104",
+    "name": "PULAU GADANG"
+  },
+  {
+    "id": "1401042011",
+    "district_id": "140104",
+    "name": "TANJUNG ALAI"
+  },
+  {
+    "id": "1401042012",
+    "district_id": "140104",
+    "name": "RANAH SUNGKAI"
+  },
+  {
+    "id": "1401042013",
+    "district_id": "140104",
+    "name": "LUBUK AGUNG"
+  },
+  {
+    "id": "1401042014",
+    "district_id": "140104",
+    "name": "KOTO MESJID"
+  },
+  {
+    "id": "1401042016",
+    "district_id": "140104",
+    "name": "PONGKAI ISTIQOMAH"
+  },
+  {
+    "id": "1401042017",
+    "district_id": "140104",
+    "name": "BINAMANG"
+  },
+  {
+    "id": "1401042019",
+    "district_id": "140104",
+    "name": "KOTO TUO BARAT"
+  }
+]

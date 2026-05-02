@@ -1,1 +1,42 @@
-[{"id": "9507042001", "district_id": "950704", "name": "GAMELIA"}, {"id": "9507042002", "district_id": "950704", "name": "PIRAWUN"}, {"id": "9507042003", "district_id": "950704", "name": "WUPI"}, {"id": "9507042004", "district_id": "950704", "name": "GAWIWARAK"}, {"id": "9507042005", "district_id": "950704", "name": "MEYAGALE"}, {"id": "9507042006", "district_id": "950704", "name": "WULAIPAS"}, {"id": "9507042007", "district_id": "950704", "name": "GUNAGEWAK"}, {"id": "9507042008", "district_id": "950704", "name": "WUNUME"}]
+[
+  {
+    "id": "9507042001",
+    "district_id": "950704",
+    "name": "GAMELIA"
+  },
+  {
+    "id": "9507042002",
+    "district_id": "950704",
+    "name": "PIRAWUN"
+  },
+  {
+    "id": "9507042003",
+    "district_id": "950704",
+    "name": "WUPI"
+  },
+  {
+    "id": "9507042004",
+    "district_id": "950704",
+    "name": "GAWIWARAK"
+  },
+  {
+    "id": "9507042005",
+    "district_id": "950704",
+    "name": "MEYAGALE"
+  },
+  {
+    "id": "9507042006",
+    "district_id": "950704",
+    "name": "WULAIPAS"
+  },
+  {
+    "id": "9507042007",
+    "district_id": "950704",
+    "name": "GUNAGEWAK"
+  },
+  {
+    "id": "9507042008",
+    "district_id": "950704",
+    "name": "WUNUME"
+  }
+]

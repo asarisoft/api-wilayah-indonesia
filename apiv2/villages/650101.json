@@ -1,1 +1,47 @@
-[{"id": "6501011001", "district_id": "650101", "name": "TANJUNG PALAS HULU"}, {"id": "6501011002", "district_id": "650101", "name": "TANJUNG PALAS TENGAH"}, {"id": "6501011003", "district_id": "650101", "name": "TANJUNG PALAS HILIR"}, {"id": "6501011004", "district_id": "650101", "name": "KARANG ANYAR"}, {"id": "6501012005", "district_id": "650101", "name": "GUNUNG PUTIH"}, {"id": "6501012006", "district_id": "650101", "name": "PEJALIN"}, {"id": "6501012007", "district_id": "650101", "name": "ANTUTAN"}, {"id": "6501012008", "district_id": "650101", "name": "TERAS BARU"}, {"id": "6501012009", "district_id": "650101", "name": "TERAS NAWANG"}]
+[
+  {
+    "id": "6501011001",
+    "district_id": "650101",
+    "name": "TANJUNG PALAS HULU"
+  },
+  {
+    "id": "6501011002",
+    "district_id": "650101",
+    "name": "TANJUNG PALAS TENGAH"
+  },
+  {
+    "id": "6501011003",
+    "district_id": "650101",
+    "name": "TANJUNG PALAS HILIR"
+  },
+  {
+    "id": "6501011004",
+    "district_id": "650101",
+    "name": "KARANG ANYAR"
+  },
+  {
+    "id": "6501012005",
+    "district_id": "650101",
+    "name": "GUNUNG PUTIH"
+  },
+  {
+    "id": "6501012006",
+    "district_id": "650101",
+    "name": "PEJALIN"
+  },
+  {
+    "id": "6501012007",
+    "district_id": "650101",
+    "name": "ANTUTAN"
+  },
+  {
+    "id": "6501012008",
+    "district_id": "650101",
+    "name": "TERAS BARU"
+  },
+  {
+    "id": "6501012009",
+    "district_id": "650101",
+    "name": "TERAS NAWANG"
+  }
+]

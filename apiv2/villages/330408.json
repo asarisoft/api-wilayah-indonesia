@@ -1,1 +1,102 @@
-[{"id": "3304081011", "district_id": "330408", "name": "KENTENG"}, {"id": "3304081012", "district_id": "330408", "name": "REJASA"}, {"id": "3304082001", "district_id": "330408", "name": "LIMBANGAN"}, {"id": "3304082002", "district_id": "330408", "name": "PENAWANGAN"}, {"id": "3304082003", "district_id": "330408", "name": "TALUNAMBA"}, {"id": "3304082004", "district_id": "330408", "name": "MADUKARA"}, {"id": "3304082005", "district_id": "330408", "name": "KUTAYASA"}, {"id": "3304082006", "district_id": "330408", "name": "PEKAUMAN"}, {"id": "3304082007", "district_id": "330408", "name": "PAGELAK"}, {"id": "3304082008", "district_id": "330408", "name": "DAWUHAN"}, {"id": "3304082009", "district_id": "330408", "name": "BANTARWARU"}, {"id": "3304082010", "district_id": "330408", "name": "SERED"}, {"id": "3304082013", "district_id": "330408", "name": "PETAMBAKAN"}, {"id": "3304082014", "district_id": "330408", "name": "RAKITAN"}, {"id": "3304082015", "district_id": "330408", "name": "BLITAR"}, {"id": "3304082016", "district_id": "330408", "name": "KALIURIP"}, {"id": "3304082017", "district_id": "330408", "name": "KARANGANYAR"}, {"id": "3304082018", "district_id": "330408", "name": "GUNUNGGIANA"}, {"id": "3304082019", "district_id": "330408", "name": "CLAPAR"}, {"id": "3304082020", "district_id": "330408", "name": "PAKELEN"}]
+[
+  {
+    "id": "3304081011",
+    "district_id": "330408",
+    "name": "KENTENG"
+  },
+  {
+    "id": "3304081012",
+    "district_id": "330408",
+    "name": "REJASA"
+  },
+  {
+    "id": "3304082001",
+    "district_id": "330408",
+    "name": "LIMBANGAN"
+  },
+  {
+    "id": "3304082002",
+    "district_id": "330408",
+    "name": "PENAWANGAN"
+  },
+  {
+    "id": "3304082003",
+    "district_id": "330408",
+    "name": "TALUNAMBA"
+  },
+  {
+    "id": "3304082004",
+    "district_id": "330408",
+    "name": "MADUKARA"
+  },
+  {
+    "id": "3304082005",
+    "district_id": "330408",
+    "name": "KUTAYASA"
+  },
+  {
+    "id": "3304082006",
+    "district_id": "330408",
+    "name": "PEKAUMAN"
+  },
+  {
+    "id": "3304082007",
+    "district_id": "330408",
+    "name": "PAGELAK"
+  },
+  {
+    "id": "3304082008",
+    "district_id": "330408",
+    "name": "DAWUHAN"
+  },
+  {
+    "id": "3304082009",
+    "district_id": "330408",
+    "name": "BANTARWARU"
+  },
+  {
+    "id": "3304082010",
+    "district_id": "330408",
+    "name": "SERED"
+  },
+  {
+    "id": "3304082013",
+    "district_id": "330408",
+    "name": "PETAMBAKAN"
+  },
+  {
+    "id": "3304082014",
+    "district_id": "330408",
+    "name": "RAKITAN"
+  },
+  {
+    "id": "3304082015",
+    "district_id": "330408",
+    "name": "BLITAR"
+  },
+  {
+    "id": "3304082016",
+    "district_id": "330408",
+    "name": "KALIURIP"
+  },
+  {
+    "id": "3304082017",
+    "district_id": "330408",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3304082018",
+    "district_id": "330408",
+    "name": "GUNUNGGIANA"
+  },
+  {
+    "id": "3304082019",
+    "district_id": "330408",
+    "name": "CLAPAR"
+  },
+  {
+    "id": "3304082020",
+    "district_id": "330408",
+    "name": "PAKELEN"
+  }
+]

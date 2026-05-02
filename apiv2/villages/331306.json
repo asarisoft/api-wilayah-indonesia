@@ -1,1 +1,52 @@
-[{"id": "3313061002", "district_id": "331306", "name": "BLUMBANG"}, {"id": "3313061003", "district_id": "331306", "name": "KALISORO"}, {"id": "3313061004", "district_id": "331306", "name": "TAWANGMANGU"}, {"id": "3313062001", "district_id": "331306", "name": "GONDOSULI"}, {"id": "3313062005", "district_id": "331306", "name": "SEPANJANG"}, {"id": "3313062006", "district_id": "331306", "name": "BANDARDAWUNG"}, {"id": "3313062007", "district_id": "331306", "name": "KARANGLO"}, {"id": "3313062008", "district_id": "331306", "name": "NGLEBAK"}, {"id": "3313062009", "district_id": "331306", "name": "PLUMBON"}, {"id": "3313062010", "district_id": "331306", "name": "TENGKLIK"}]
+[
+  {
+    "id": "3313061002",
+    "district_id": "331306",
+    "name": "BLUMBANG"
+  },
+  {
+    "id": "3313061003",
+    "district_id": "331306",
+    "name": "KALISORO"
+  },
+  {
+    "id": "3313061004",
+    "district_id": "331306",
+    "name": "TAWANGMANGU"
+  },
+  {
+    "id": "3313062001",
+    "district_id": "331306",
+    "name": "GONDOSULI"
+  },
+  {
+    "id": "3313062005",
+    "district_id": "331306",
+    "name": "SEPANJANG"
+  },
+  {
+    "id": "3313062006",
+    "district_id": "331306",
+    "name": "BANDARDAWUNG"
+  },
+  {
+    "id": "3313062007",
+    "district_id": "331306",
+    "name": "KARANGLO"
+  },
+  {
+    "id": "3313062008",
+    "district_id": "331306",
+    "name": "NGLEBAK"
+  },
+  {
+    "id": "3313062009",
+    "district_id": "331306",
+    "name": "PLUMBON"
+  },
+  {
+    "id": "3313062010",
+    "district_id": "331306",
+    "name": "TENGKLIK"
+  }
+]

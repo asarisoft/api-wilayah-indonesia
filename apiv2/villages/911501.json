@@ -1,1 +1,37 @@
-[{"id": "9115012003", "district_id": "911501", "name": "WAREN I"}, {"id": "9115012004", "district_id": "911501", "name": "WAREN II"}, {"id": "9115012011", "district_id": "911501", "name": "NONOMI"}, {"id": "9115012020", "district_id": "911501", "name": "SARAFAMBAI"}, {"id": "9115012025", "district_id": "911501", "name": "URI"}, {"id": "9115012027", "district_id": "911501", "name": "BATU ZAMAN"}, {"id": "9115012029", "district_id": "911501", "name": "SAWARA JAYA"}]
+[
+  {
+    "id": "9115012003",
+    "district_id": "911501",
+    "name": "WAREN I"
+  },
+  {
+    "id": "9115012004",
+    "district_id": "911501",
+    "name": "WAREN II"
+  },
+  {
+    "id": "9115012011",
+    "district_id": "911501",
+    "name": "NONOMI"
+  },
+  {
+    "id": "9115012020",
+    "district_id": "911501",
+    "name": "SARAFAMBAI"
+  },
+  {
+    "id": "9115012025",
+    "district_id": "911501",
+    "name": "URI"
+  },
+  {
+    "id": "9115012027",
+    "district_id": "911501",
+    "name": "BATU ZAMAN"
+  },
+  {
+    "id": "9115012029",
+    "district_id": "911501",
+    "name": "SAWARA JAYA"
+  }
+]

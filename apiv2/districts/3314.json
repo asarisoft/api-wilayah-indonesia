@@ -1,1 +1,102 @@
-[{"id": "331401", "regency_id": "3314", "name": "KALIJAMBE"}, {"id": "331402", "regency_id": "3314", "name": "PLUPUH"}, {"id": "331403", "regency_id": "3314", "name": "MASARAN"}, {"id": "331404", "regency_id": "3314", "name": "KEDAWUNG"}, {"id": "331405", "regency_id": "3314", "name": "SAMBIREJO"}, {"id": "331406", "regency_id": "3314", "name": "GONDANG"}, {"id": "331407", "regency_id": "3314", "name": "SAMBUNGMACAN"}, {"id": "331408", "regency_id": "3314", "name": "NGRAMPAL"}, {"id": "331409", "regency_id": "3314", "name": "KARANGMALANG"}, {"id": "331410", "regency_id": "3314", "name": "SRAGEN"}, {"id": "331411", "regency_id": "3314", "name": "SIDOHARJO"}, {"id": "331412", "regency_id": "3314", "name": "TANON"}, {"id": "331413", "regency_id": "3314", "name": "GEMOLONG"}, {"id": "331414", "regency_id": "3314", "name": "MIRI"}, {"id": "331415", "regency_id": "3314", "name": "SUMBERLAWANG"}, {"id": "331416", "regency_id": "3314", "name": "MONDOKAN"}, {"id": "331417", "regency_id": "3314", "name": "SUKODONO"}, {"id": "331418", "regency_id": "3314", "name": "GESI"}, {"id": "331419", "regency_id": "3314", "name": "TANGEN"}, {"id": "331420", "regency_id": "3314", "name": "JENAR"}]
+[
+  {
+    "id": "331401",
+    "regency_id": "3314",
+    "name": "KALIJAMBE"
+  },
+  {
+    "id": "331402",
+    "regency_id": "3314",
+    "name": "PLUPUH"
+  },
+  {
+    "id": "331403",
+    "regency_id": "3314",
+    "name": "MASARAN"
+  },
+  {
+    "id": "331404",
+    "regency_id": "3314",
+    "name": "KEDAWUNG"
+  },
+  {
+    "id": "331405",
+    "regency_id": "3314",
+    "name": "SAMBIREJO"
+  },
+  {
+    "id": "331406",
+    "regency_id": "3314",
+    "name": "GONDANG"
+  },
+  {
+    "id": "331407",
+    "regency_id": "3314",
+    "name": "SAMBUNGMACAN"
+  },
+  {
+    "id": "331408",
+    "regency_id": "3314",
+    "name": "NGRAMPAL"
+  },
+  {
+    "id": "331409",
+    "regency_id": "3314",
+    "name": "KARANGMALANG"
+  },
+  {
+    "id": "331410",
+    "regency_id": "3314",
+    "name": "SRAGEN"
+  },
+  {
+    "id": "331411",
+    "regency_id": "3314",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "331412",
+    "regency_id": "3314",
+    "name": "TANON"
+  },
+  {
+    "id": "331413",
+    "regency_id": "3314",
+    "name": "GEMOLONG"
+  },
+  {
+    "id": "331414",
+    "regency_id": "3314",
+    "name": "MIRI"
+  },
+  {
+    "id": "331415",
+    "regency_id": "3314",
+    "name": "SUMBERLAWANG"
+  },
+  {
+    "id": "331416",
+    "regency_id": "3314",
+    "name": "MONDOKAN"
+  },
+  {
+    "id": "331417",
+    "regency_id": "3314",
+    "name": "SUKODONO"
+  },
+  {
+    "id": "331418",
+    "regency_id": "3314",
+    "name": "GESI"
+  },
+  {
+    "id": "331419",
+    "regency_id": "3314",
+    "name": "TANGEN"
+  },
+  {
+    "id": "331420",
+    "regency_id": "3314",
+    "name": "JENAR"
+  }
+]

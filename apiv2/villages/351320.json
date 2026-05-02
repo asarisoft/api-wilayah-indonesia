@@ -1,1 +1,62 @@
-[{"id": "3513202001", "district_id": "351320", "name": "MALESANWETAN"}, {"id": "3513202002", "district_id": "351320", "name": "GUNUNGBEKEL"}, {"id": "3513202003", "district_id": "351320", "name": "TEGALSONO"}, {"id": "3513202004", "district_id": "351320", "name": "BULUJARANKIDUL"}, {"id": "3513202005", "district_id": "351320", "name": "BULUJARANLOR"}, {"id": "3513202006", "district_id": "351320", "name": "PARAS"}, {"id": "3513202007", "district_id": "351320", "name": "TEGALSIWALAN"}, {"id": "3513202008", "district_id": "351320", "name": "BANJARSAWAH"}, {"id": "3513202009", "district_id": "351320", "name": "SUMBERBULU"}, {"id": "3513202010", "district_id": "351320", "name": "SUMBERKLEDUNG"}, {"id": "3513202011", "district_id": "351320", "name": "BLADOKULON"}, {"id": "3513202012", "district_id": "351320", "name": "TEGALMOJO"}]
+[
+  {
+    "id": "3513202001",
+    "district_id": "351320",
+    "name": "MALESANWETAN"
+  },
+  {
+    "id": "3513202002",
+    "district_id": "351320",
+    "name": "GUNUNGBEKEL"
+  },
+  {
+    "id": "3513202003",
+    "district_id": "351320",
+    "name": "TEGALSONO"
+  },
+  {
+    "id": "3513202004",
+    "district_id": "351320",
+    "name": "BULUJARANKIDUL"
+  },
+  {
+    "id": "3513202005",
+    "district_id": "351320",
+    "name": "BULUJARANLOR"
+  },
+  {
+    "id": "3513202006",
+    "district_id": "351320",
+    "name": "PARAS"
+  },
+  {
+    "id": "3513202007",
+    "district_id": "351320",
+    "name": "TEGALSIWALAN"
+  },
+  {
+    "id": "3513202008",
+    "district_id": "351320",
+    "name": "BANJARSAWAH"
+  },
+  {
+    "id": "3513202009",
+    "district_id": "351320",
+    "name": "SUMBERBULU"
+  },
+  {
+    "id": "3513202010",
+    "district_id": "351320",
+    "name": "SUMBERKLEDUNG"
+  },
+  {
+    "id": "3513202011",
+    "district_id": "351320",
+    "name": "BLADOKULON"
+  },
+  {
+    "id": "3513202012",
+    "district_id": "351320",
+    "name": "TEGALMOJO"
+  }
+]

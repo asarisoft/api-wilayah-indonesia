@@ -1,1 +1,62 @@
-[{"id": "6110092001", "district_id": "611009", "name": "MANGGALA"}, {"id": "6110092002", "district_id": "611009", "name": "SENEMPAK"}, {"id": "6110092003", "district_id": "611009", "name": "NANGA PINTAS"}, {"id": "6110092004", "district_id": "611009", "name": "LANDAU GARONG"}, {"id": "6110092005", "district_id": "611009", "name": "BINA JAYA"}, {"id": "6110092006", "district_id": "611009", "name": "MANDAU BARU"}, {"id": "6110092007", "district_id": "611009", "name": "PELINGGANG"}, {"id": "6110092008", "district_id": "611009", "name": "NYANGGAI"}, {"id": "6110092009", "district_id": "611009", "name": "SUNGAI BAKAH"}, {"id": "6110092010", "district_id": "611009", "name": "BAYUR RAYA"}, {"id": "6110092011", "district_id": "611009", "name": "LANDAU TUBUN"}, {"id": "6110092012", "district_id": "611009", "name": "NANGA KELAWAI"}]
+[
+  {
+    "id": "6110092001",
+    "district_id": "611009",
+    "name": "MANGGALA"
+  },
+  {
+    "id": "6110092002",
+    "district_id": "611009",
+    "name": "SENEMPAK"
+  },
+  {
+    "id": "6110092003",
+    "district_id": "611009",
+    "name": "NANGA PINTAS"
+  },
+  {
+    "id": "6110092004",
+    "district_id": "611009",
+    "name": "LANDAU GARONG"
+  },
+  {
+    "id": "6110092005",
+    "district_id": "611009",
+    "name": "BINA JAYA"
+  },
+  {
+    "id": "6110092006",
+    "district_id": "611009",
+    "name": "MANDAU BARU"
+  },
+  {
+    "id": "6110092007",
+    "district_id": "611009",
+    "name": "PELINGGANG"
+  },
+  {
+    "id": "6110092008",
+    "district_id": "611009",
+    "name": "NYANGGAI"
+  },
+  {
+    "id": "6110092009",
+    "district_id": "611009",
+    "name": "SUNGAI BAKAH"
+  },
+  {
+    "id": "6110092010",
+    "district_id": "611009",
+    "name": "BAYUR RAYA"
+  },
+  {
+    "id": "6110092011",
+    "district_id": "611009",
+    "name": "LANDAU TUBUN"
+  },
+  {
+    "id": "6110092012",
+    "district_id": "611009",
+    "name": "NANGA KELAWAI"
+  }
+]

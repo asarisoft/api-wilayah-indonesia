@@ -1,1 +1,32 @@
-[{"id": "9203112001", "district_id": "920311", "name": "WERPIGAN"}, {"id": "9203112002", "district_id": "920311", "name": "WERABUAN"}, {"id": "9203112003", "district_id": "920311", "name": "WARTUTIN"}, {"id": "9203112004", "district_id": "920311", "name": "SIBORU"}, {"id": "9203112005", "district_id": "920311", "name": "SIPATNANAM"}, {"id": "9203112006", "district_id": "920311", "name": "KAMANDUR TETAR"}]
+[
+  {
+    "id": "9203112001",
+    "district_id": "920311",
+    "name": "WERPIGAN"
+  },
+  {
+    "id": "9203112002",
+    "district_id": "920311",
+    "name": "WERABUAN"
+  },
+  {
+    "id": "9203112003",
+    "district_id": "920311",
+    "name": "WARTUTIN"
+  },
+  {
+    "id": "9203112004",
+    "district_id": "920311",
+    "name": "SIBORU"
+  },
+  {
+    "id": "9203112005",
+    "district_id": "920311",
+    "name": "SIPATNANAM"
+  },
+  {
+    "id": "9203112006",
+    "district_id": "920311",
+    "name": "KAMANDUR TETAR"
+  }
+]

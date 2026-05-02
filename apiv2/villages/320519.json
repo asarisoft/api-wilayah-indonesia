@@ -1,1 +1,92 @@
-[{"id": "3205192001", "district_id": "320519", "name": "CILAWU"}, {"id": "3205192002", "district_id": "320519", "name": "SUKAMUKTI"}, {"id": "3205192003", "district_id": "320519", "name": "KARYAMEKAR"}, {"id": "3205192004", "district_id": "320519", "name": "DAWUNGSARI"}, {"id": "3205192005", "district_id": "320519", "name": "PASANGGRAHAN"}, {"id": "3205192006", "district_id": "320519", "name": "SUKAHATI"}, {"id": "3205192007", "district_id": "320519", "name": "MEKARSARI"}, {"id": "3205192008", "district_id": "320519", "name": "MEKARMUKTI"}, {"id": "3205192009", "district_id": "320519", "name": "DESAKOLOT"}, {"id": "3205192010", "district_id": "320519", "name": "NGAMPLANGSARI"}, {"id": "3205192011", "district_id": "320519", "name": "MARGALAKSANA"}, {"id": "3205192012", "district_id": "320519", "name": "DANGIANG"}, {"id": "3205192013", "district_id": "320519", "name": "DAYEUHMANGGUNG"}, {"id": "3205192014", "district_id": "320519", "name": "SUKAMAJU"}, {"id": "3205192015", "district_id": "320519", "name": "MANGKURAKYAT"}, {"id": "3205192016", "district_id": "320519", "name": "NGAMPLANG"}, {"id": "3205192017", "district_id": "320519", "name": "SUKATANI"}, {"id": "3205192018", "district_id": "320519", "name": "SUKAMURNI"}]
+[
+  {
+    "id": "3205192001",
+    "district_id": "320519",
+    "name": "CILAWU"
+  },
+  {
+    "id": "3205192002",
+    "district_id": "320519",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "3205192003",
+    "district_id": "320519",
+    "name": "KARYAMEKAR"
+  },
+  {
+    "id": "3205192004",
+    "district_id": "320519",
+    "name": "DAWUNGSARI"
+  },
+  {
+    "id": "3205192005",
+    "district_id": "320519",
+    "name": "PASANGGRAHAN"
+  },
+  {
+    "id": "3205192006",
+    "district_id": "320519",
+    "name": "SUKAHATI"
+  },
+  {
+    "id": "3205192007",
+    "district_id": "320519",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3205192008",
+    "district_id": "320519",
+    "name": "MEKARMUKTI"
+  },
+  {
+    "id": "3205192009",
+    "district_id": "320519",
+    "name": "DESAKOLOT"
+  },
+  {
+    "id": "3205192010",
+    "district_id": "320519",
+    "name": "NGAMPLANGSARI"
+  },
+  {
+    "id": "3205192011",
+    "district_id": "320519",
+    "name": "MARGALAKSANA"
+  },
+  {
+    "id": "3205192012",
+    "district_id": "320519",
+    "name": "DANGIANG"
+  },
+  {
+    "id": "3205192013",
+    "district_id": "320519",
+    "name": "DAYEUHMANGGUNG"
+  },
+  {
+    "id": "3205192014",
+    "district_id": "320519",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3205192015",
+    "district_id": "320519",
+    "name": "MANGKURAKYAT"
+  },
+  {
+    "id": "3205192016",
+    "district_id": "320519",
+    "name": "NGAMPLANG"
+  },
+  {
+    "id": "3205192017",
+    "district_id": "320519",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "3205192018",
+    "district_id": "320519",
+    "name": "SUKAMURNI"
+  }
+]

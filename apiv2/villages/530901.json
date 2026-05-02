@@ -1,1 +1,57 @@
-[{"id": "5309011002", "district_id": "530901", "name": "AIMERE"}, {"id": "5309011003", "district_id": "530901", "name": "FOA"}, {"id": "5309012001", "district_id": "530901", "name": "KELIGEJO"}, {"id": "5309012014", "district_id": "530901", "name": "AIMERE TIMUR"}, {"id": "5309012018", "district_id": "530901", "name": "HEAWEA"}, {"id": "5309012019", "district_id": "530901", "name": "LEGELAPU"}, {"id": "5309012020", "district_id": "530901", "name": "LEKOGOKO"}, {"id": "5309012021", "district_id": "530901", "name": "BINAWALI"}, {"id": "5309012022", "district_id": "530901", "name": "KILA"}, {"id": "5309012023", "district_id": "530901", "name": "WAESAE"}, {"id": "5309012024", "district_id": "530901", "name": "MAWWO KISA"}]
+[
+  {
+    "id": "5309011002",
+    "district_id": "530901",
+    "name": "AIMERE"
+  },
+  {
+    "id": "5309011003",
+    "district_id": "530901",
+    "name": "FOA"
+  },
+  {
+    "id": "5309012001",
+    "district_id": "530901",
+    "name": "KELIGEJO"
+  },
+  {
+    "id": "5309012014",
+    "district_id": "530901",
+    "name": "AIMERE TIMUR"
+  },
+  {
+    "id": "5309012018",
+    "district_id": "530901",
+    "name": "HEAWEA"
+  },
+  {
+    "id": "5309012019",
+    "district_id": "530901",
+    "name": "LEGELAPU"
+  },
+  {
+    "id": "5309012020",
+    "district_id": "530901",
+    "name": "LEKOGOKO"
+  },
+  {
+    "id": "5309012021",
+    "district_id": "530901",
+    "name": "BINAWALI"
+  },
+  {
+    "id": "5309012022",
+    "district_id": "530901",
+    "name": "KILA"
+  },
+  {
+    "id": "5309012023",
+    "district_id": "530901",
+    "name": "WAESAE"
+  },
+  {
+    "id": "5309012024",
+    "district_id": "530901",
+    "name": "MAWWO KISA"
+  }
+]

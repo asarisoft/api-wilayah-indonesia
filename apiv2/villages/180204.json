@@ -1,1 +1,77 @@
-[{"id": "1802041005", "district_id": "180204", "name": "GUNUNG SUGIH"}, {"id": "1802041006", "district_id": "180204", "name": "GUNUNG S. RAYA"}, {"id": "1802041007", "district_id": "180204", "name": "KOMERING AGUNG"}, {"id": "1802041008", "district_id": "180204", "name": "SEPUTIH JAYA"}, {"id": "1802042001", "district_id": "180204", "name": "TERBANGGI SUBING"}, {"id": "1802042002", "district_id": "180204", "name": "TERBANGGI AGUNG"}, {"id": "1802042003", "district_id": "180204", "name": "FAJAR BULAN"}, {"id": "1802042004", "district_id": "180204", "name": "KOMERING PUTIH"}, {"id": "1802042009", "district_id": "180204", "name": "BUYUT UDIK"}, {"id": "1802042010", "district_id": "180204", "name": "BUYUT ILIR"}, {"id": "1802042011", "district_id": "180204", "name": "BANGUN REJO"}, {"id": "1802042012", "district_id": "180204", "name": "WONO SARI"}, {"id": "1802042013", "district_id": "180204", "name": "PUTRA BUYUT"}, {"id": "1802042014", "district_id": "180204", "name": "GUNUNG SARI"}, {"id": "1802042015", "district_id": "180204", "name": "BUYUT UTARA"}]
+[
+  {
+    "id": "1802041005",
+    "district_id": "180204",
+    "name": "GUNUNG SUGIH"
+  },
+  {
+    "id": "1802041006",
+    "district_id": "180204",
+    "name": "GUNUNG S. RAYA"
+  },
+  {
+    "id": "1802041007",
+    "district_id": "180204",
+    "name": "KOMERING AGUNG"
+  },
+  {
+    "id": "1802041008",
+    "district_id": "180204",
+    "name": "SEPUTIH JAYA"
+  },
+  {
+    "id": "1802042001",
+    "district_id": "180204",
+    "name": "TERBANGGI SUBING"
+  },
+  {
+    "id": "1802042002",
+    "district_id": "180204",
+    "name": "TERBANGGI AGUNG"
+  },
+  {
+    "id": "1802042003",
+    "district_id": "180204",
+    "name": "FAJAR BULAN"
+  },
+  {
+    "id": "1802042004",
+    "district_id": "180204",
+    "name": "KOMERING PUTIH"
+  },
+  {
+    "id": "1802042009",
+    "district_id": "180204",
+    "name": "BUYUT UDIK"
+  },
+  {
+    "id": "1802042010",
+    "district_id": "180204",
+    "name": "BUYUT ILIR"
+  },
+  {
+    "id": "1802042011",
+    "district_id": "180204",
+    "name": "BANGUN REJO"
+  },
+  {
+    "id": "1802042012",
+    "district_id": "180204",
+    "name": "WONO SARI"
+  },
+  {
+    "id": "1802042013",
+    "district_id": "180204",
+    "name": "PUTRA BUYUT"
+  },
+  {
+    "id": "1802042014",
+    "district_id": "180204",
+    "name": "GUNUNG SARI"
+  },
+  {
+    "id": "1802042015",
+    "district_id": "180204",
+    "name": "BUYUT UTARA"
+  }
+]

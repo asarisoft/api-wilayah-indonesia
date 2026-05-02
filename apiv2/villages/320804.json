@@ -1,1 +1,62 @@
-[{"id": "3208042001", "district_id": "320804", "name": "SUMBERJAYA"}, {"id": "3208042002", "district_id": "320804", "name": "CILAYUNG"}, {"id": "3208042003", "district_id": "320804", "name": "CIWARU"}, {"id": "3208042004", "district_id": "320804", "name": "GARAJATI"}, {"id": "3208042005", "district_id": "320804", "name": "BAOK"}, {"id": "3208042006", "district_id": "320804", "name": "ANDAMUI"}, {"id": "3208042007", "district_id": "320804", "name": "SAGARANTEN"}, {"id": "3208042008", "district_id": "320804", "name": "CITUNDUN"}, {"id": "3208042009", "district_id": "320804", "name": "LEBAKHERANG"}, {"id": "3208042010", "district_id": "320804", "name": "KARANGBARU"}, {"id": "3208042011", "district_id": "320804", "name": "LINGGAJAYA"}, {"id": "3208042012", "district_id": "320804", "name": "CITIKUR"}]
+[
+  {
+    "id": "3208042001",
+    "district_id": "320804",
+    "name": "SUMBERJAYA"
+  },
+  {
+    "id": "3208042002",
+    "district_id": "320804",
+    "name": "CILAYUNG"
+  },
+  {
+    "id": "3208042003",
+    "district_id": "320804",
+    "name": "CIWARU"
+  },
+  {
+    "id": "3208042004",
+    "district_id": "320804",
+    "name": "GARAJATI"
+  },
+  {
+    "id": "3208042005",
+    "district_id": "320804",
+    "name": "BAOK"
+  },
+  {
+    "id": "3208042006",
+    "district_id": "320804",
+    "name": "ANDAMUI"
+  },
+  {
+    "id": "3208042007",
+    "district_id": "320804",
+    "name": "SAGARANTEN"
+  },
+  {
+    "id": "3208042008",
+    "district_id": "320804",
+    "name": "CITUNDUN"
+  },
+  {
+    "id": "3208042009",
+    "district_id": "320804",
+    "name": "LEBAKHERANG"
+  },
+  {
+    "id": "3208042010",
+    "district_id": "320804",
+    "name": "KARANGBARU"
+  },
+  {
+    "id": "3208042011",
+    "district_id": "320804",
+    "name": "LINGGAJAYA"
+  },
+  {
+    "id": "3208042012",
+    "district_id": "320804",
+    "name": "CITIKUR"
+  }
+]

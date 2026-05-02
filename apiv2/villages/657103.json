@@ -1,1 +1,37 @@
-[{"id": "6571031001", "district_id": "657103", "name": "LINGKAS UJUNG"}, {"id": "6571031002", "district_id": "657103", "name": "GUNUNG LINGKAS"}, {"id": "6571031003", "district_id": "657103", "name": "KAMPUNG EMPAT"}, {"id": "6571031004", "district_id": "657103", "name": "KAMPUNG ENAM"}, {"id": "6571031005", "district_id": "657103", "name": "MAMBURUNGAN"}, {"id": "6571031006", "district_id": "657103", "name": "PANTAI AMAL"}, {"id": "6571031007", "district_id": "657103", "name": "MAMBURUNGAN TIMUR"}]
+[
+  {
+    "id": "6571031001",
+    "district_id": "657103",
+    "name": "LINGKAS UJUNG"
+  },
+  {
+    "id": "6571031002",
+    "district_id": "657103",
+    "name": "GUNUNG LINGKAS"
+  },
+  {
+    "id": "6571031003",
+    "district_id": "657103",
+    "name": "KAMPUNG EMPAT"
+  },
+  {
+    "id": "6571031004",
+    "district_id": "657103",
+    "name": "KAMPUNG ENAM"
+  },
+  {
+    "id": "6571031005",
+    "district_id": "657103",
+    "name": "MAMBURUNGAN"
+  },
+  {
+    "id": "6571031006",
+    "district_id": "657103",
+    "name": "PANTAI AMAL"
+  },
+  {
+    "id": "6571031007",
+    "district_id": "657103",
+    "name": "MAMBURUNGAN TIMUR"
+  }
+]

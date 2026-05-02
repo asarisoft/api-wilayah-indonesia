@@ -1,1 +1,112 @@
-[{"id": "5309021008", "district_id": "530902", "name": "TODABELU"}, {"id": "5309021017", "district_id": "530902", "name": "MATALOKO"}, {"id": "5309022002", "district_id": "530902", "name": "WERE I"}, {"id": "5309022009", "district_id": "530902", "name": "SANGADETO"}, {"id": "5309022010", "district_id": "530902", "name": "RATOGESA"}, {"id": "5309022011", "district_id": "530902", "name": "RADABATA"}, {"id": "5309022018", "district_id": "530902", "name": "DADAWEA"}, {"id": "5309022019", "district_id": "530902", "name": "SARASEDU"}, {"id": "5309022020", "district_id": "530902", "name": "MALANUZA"}, {"id": "5309022025", "district_id": "530902", "name": "WERE"}, {"id": "5309022026", "district_id": "530902", "name": "WERE IV"}, {"id": "5309022031", "district_id": "530902", "name": "MALANUZA I"}, {"id": "5309022032", "district_id": "530902", "name": "SARASEDU I"}, {"id": "5309022036", "district_id": "530902", "name": "ULU BELU"}, {"id": "5309022037", "district_id": "530902", "name": "EKO ROKA"}, {"id": "5309022038", "district_id": "530902", "name": "WAE IA"}, {"id": "5309022039", "district_id": "530902", "name": "DOLUPORE"}, {"id": "5309022040", "district_id": "530902", "name": "TIWO TODA"}, {"id": "5309022041", "district_id": "530902", "name": "KELIMOLO"}, {"id": "5309022042", "district_id": "530902", "name": "WOGO"}, {"id": "5309022043", "district_id": "530902", "name": "RADABATA I"}, {"id": "5309022044", "district_id": "530902", "name": "BODOSARE"}]
+[
+  {
+    "id": "5309021008",
+    "district_id": "530902",
+    "name": "TODABELU"
+  },
+  {
+    "id": "5309021017",
+    "district_id": "530902",
+    "name": "MATALOKO"
+  },
+  {
+    "id": "5309022002",
+    "district_id": "530902",
+    "name": "WERE I"
+  },
+  {
+    "id": "5309022009",
+    "district_id": "530902",
+    "name": "SANGADETO"
+  },
+  {
+    "id": "5309022010",
+    "district_id": "530902",
+    "name": "RATOGESA"
+  },
+  {
+    "id": "5309022011",
+    "district_id": "530902",
+    "name": "RADABATA"
+  },
+  {
+    "id": "5309022018",
+    "district_id": "530902",
+    "name": "DADAWEA"
+  },
+  {
+    "id": "5309022019",
+    "district_id": "530902",
+    "name": "SARASEDU"
+  },
+  {
+    "id": "5309022020",
+    "district_id": "530902",
+    "name": "MALANUZA"
+  },
+  {
+    "id": "5309022025",
+    "district_id": "530902",
+    "name": "WERE"
+  },
+  {
+    "id": "5309022026",
+    "district_id": "530902",
+    "name": "WERE IV"
+  },
+  {
+    "id": "5309022031",
+    "district_id": "530902",
+    "name": "MALANUZA I"
+  },
+  {
+    "id": "5309022032",
+    "district_id": "530902",
+    "name": "SARASEDU I"
+  },
+  {
+    "id": "5309022036",
+    "district_id": "530902",
+    "name": "ULU BELU"
+  },
+  {
+    "id": "5309022037",
+    "district_id": "530902",
+    "name": "EKO ROKA"
+  },
+  {
+    "id": "5309022038",
+    "district_id": "530902",
+    "name": "WAE IA"
+  },
+  {
+    "id": "5309022039",
+    "district_id": "530902",
+    "name": "DOLUPORE"
+  },
+  {
+    "id": "5309022040",
+    "district_id": "530902",
+    "name": "TIWO TODA"
+  },
+  {
+    "id": "5309022041",
+    "district_id": "530902",
+    "name": "KELIMOLO"
+  },
+  {
+    "id": "5309022042",
+    "district_id": "530902",
+    "name": "WOGO"
+  },
+  {
+    "id": "5309022043",
+    "district_id": "530902",
+    "name": "RADABATA I"
+  },
+  {
+    "id": "5309022044",
+    "district_id": "530902",
+    "name": "BODOSARE"
+  }
+]

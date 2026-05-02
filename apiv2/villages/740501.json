@@ -1,1 +1,122 @@
-[{"id": "7405011001", "district_id": "740501", "name": "TINANGGEA"}, {"id": "7405011002", "district_id": "740501", "name": "NGAPAAH"}, {"id": "7405012003", "district_id": "740501", "name": "LAPOA"}, {"id": "7405012006", "district_id": "740501", "name": "ASINGI"}, {"id": "7405012007", "district_id": "740501", "name": "WATU MELEWE"}, {"id": "7405012009", "district_id": "740501", "name": "WADONGGO"}, {"id": "7405012010", "district_id": "740501", "name": "BUNGIN PERMAI"}, {"id": "7405012014", "district_id": "740501", "name": "PALOTAWO"}, {"id": "7405012019", "district_id": "740501", "name": "LALONGGASU"}, {"id": "7405012020", "district_id": "740501", "name": "MOLO INDAH"}, {"id": "7405012021", "district_id": "740501", "name": "TELUTU JAYA"}, {"id": "7405012023", "district_id": "740501", "name": "TOROKEKU"}, {"id": "7405012024", "district_id": "740501", "name": "LAPULU"}, {"id": "7405012027", "district_id": "740501", "name": "RORAYA"}, {"id": "7405012029", "district_id": "740501", "name": "LANOWULU"}, {"id": "7405012030", "district_id": "740501", "name": "LALO WATU"}, {"id": "7405012032", "district_id": "740501", "name": "TATANGGE"}, {"id": "7405012033", "district_id": "740501", "name": "WUNDUMBOLO"}, {"id": "7405012034", "district_id": "740501", "name": "PANGGOOSI"}, {"id": "7405012035", "district_id": "740501", "name": "BOMBA-BOMBA"}, {"id": "7405012036", "district_id": "740501", "name": "AKUNI"}, {"id": "7405012037", "district_id": "740501", "name": "LASUAI"}, {"id": "7405012038", "district_id": "740501", "name": "MATAMBAWI"}, {"id": "7405012039", "district_id": "740501", "name": "MATANDAHI"}]
+[
+  {
+    "id": "7405011001",
+    "district_id": "740501",
+    "name": "TINANGGEA"
+  },
+  {
+    "id": "7405011002",
+    "district_id": "740501",
+    "name": "NGAPAAH"
+  },
+  {
+    "id": "7405012003",
+    "district_id": "740501",
+    "name": "LAPOA"
+  },
+  {
+    "id": "7405012006",
+    "district_id": "740501",
+    "name": "ASINGI"
+  },
+  {
+    "id": "7405012007",
+    "district_id": "740501",
+    "name": "WATU MELEWE"
+  },
+  {
+    "id": "7405012009",
+    "district_id": "740501",
+    "name": "WADONGGO"
+  },
+  {
+    "id": "7405012010",
+    "district_id": "740501",
+    "name": "BUNGIN PERMAI"
+  },
+  {
+    "id": "7405012014",
+    "district_id": "740501",
+    "name": "PALOTAWO"
+  },
+  {
+    "id": "7405012019",
+    "district_id": "740501",
+    "name": "LALONGGASU"
+  },
+  {
+    "id": "7405012020",
+    "district_id": "740501",
+    "name": "MOLO INDAH"
+  },
+  {
+    "id": "7405012021",
+    "district_id": "740501",
+    "name": "TELUTU JAYA"
+  },
+  {
+    "id": "7405012023",
+    "district_id": "740501",
+    "name": "TOROKEKU"
+  },
+  {
+    "id": "7405012024",
+    "district_id": "740501",
+    "name": "LAPULU"
+  },
+  {
+    "id": "7405012027",
+    "district_id": "740501",
+    "name": "RORAYA"
+  },
+  {
+    "id": "7405012029",
+    "district_id": "740501",
+    "name": "LANOWULU"
+  },
+  {
+    "id": "7405012030",
+    "district_id": "740501",
+    "name": "LALO WATU"
+  },
+  {
+    "id": "7405012032",
+    "district_id": "740501",
+    "name": "TATANGGE"
+  },
+  {
+    "id": "7405012033",
+    "district_id": "740501",
+    "name": "WUNDUMBOLO"
+  },
+  {
+    "id": "7405012034",
+    "district_id": "740501",
+    "name": "PANGGOOSI"
+  },
+  {
+    "id": "7405012035",
+    "district_id": "740501",
+    "name": "BOMBA-BOMBA"
+  },
+  {
+    "id": "7405012036",
+    "district_id": "740501",
+    "name": "AKUNI"
+  },
+  {
+    "id": "7405012037",
+    "district_id": "740501",
+    "name": "LASUAI"
+  },
+  {
+    "id": "7405012038",
+    "district_id": "740501",
+    "name": "MATAMBAWI"
+  },
+  {
+    "id": "7405012039",
+    "district_id": "740501",
+    "name": "MATANDAHI"
+  }
+]

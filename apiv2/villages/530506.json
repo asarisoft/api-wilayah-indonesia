@@ -1,1 +1,57 @@
-[{"id": "5305061001", "district_id": "530506", "name": "KABIR"}, {"id": "5305062005", "district_id": "530506", "name": "PANDAI"}, {"id": "5305062009", "district_id": "530506", "name": "BANDAR"}, {"id": "5305062010", "district_id": "530506", "name": "BAOLANG"}, {"id": "5305062011", "district_id": "530506", "name": "MUNASELI"}, {"id": "5305062012", "district_id": "530506", "name": "HELANGDOHI"}, {"id": "5305062013", "district_id": "530506", "name": "WAILAWAR"}, {"id": "5305062014", "district_id": "530506", "name": "BANA"}, {"id": "5305062016", "district_id": "530506", "name": "BOUWELI"}, {"id": "5305062017", "district_id": "530506", "name": "BUKIT MAS"}, {"id": "5305062019", "district_id": "530506", "name": "MADAR"}]
+[
+  {
+    "id": "5305061001",
+    "district_id": "530506",
+    "name": "KABIR"
+  },
+  {
+    "id": "5305062005",
+    "district_id": "530506",
+    "name": "PANDAI"
+  },
+  {
+    "id": "5305062009",
+    "district_id": "530506",
+    "name": "BANDAR"
+  },
+  {
+    "id": "5305062010",
+    "district_id": "530506",
+    "name": "BAOLANG"
+  },
+  {
+    "id": "5305062011",
+    "district_id": "530506",
+    "name": "MUNASELI"
+  },
+  {
+    "id": "5305062012",
+    "district_id": "530506",
+    "name": "HELANGDOHI"
+  },
+  {
+    "id": "5305062013",
+    "district_id": "530506",
+    "name": "WAILAWAR"
+  },
+  {
+    "id": "5305062014",
+    "district_id": "530506",
+    "name": "BANA"
+  },
+  {
+    "id": "5305062016",
+    "district_id": "530506",
+    "name": "BOUWELI"
+  },
+  {
+    "id": "5305062017",
+    "district_id": "530506",
+    "name": "BUKIT MAS"
+  },
+  {
+    "id": "5305062019",
+    "district_id": "530506",
+    "name": "MADAR"
+  }
+]

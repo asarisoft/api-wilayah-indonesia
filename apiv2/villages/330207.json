@@ -1,1 +1,72 @@
-[{"id": "3302071012", "district_id": "330207", "name": "KEBOKURA"}, {"id": "3302071013", "district_id": "330207", "name": "SUMPIUH"}, {"id": "3302071014", "district_id": "330207", "name": "KRADENAN"}, {"id": "3302072001", "district_id": "330207", "name": "NUSADADI"}, {"id": "3302072002", "district_id": "330207", "name": "SELANDAKA"}, {"id": "3302072003", "district_id": "330207", "name": "KARANGGEDANG"}, {"id": "3302072004", "district_id": "330207", "name": "KEMIRI"}, {"id": "3302072005", "district_id": "330207", "name": "PANDAK"}, {"id": "3302072006", "district_id": "330207", "name": "KUNTILI"}, {"id": "3302072007", "district_id": "330207", "name": "LEBENG"}, {"id": "3302072008", "district_id": "330207", "name": "SELANEGARA"}, {"id": "3302072009", "district_id": "330207", "name": "BOGANGIN"}, {"id": "3302072010", "district_id": "330207", "name": "BANJARPANEPEN"}, {"id": "3302072011", "district_id": "330207", "name": "KETANDA"}]
+[
+  {
+    "id": "3302071012",
+    "district_id": "330207",
+    "name": "KEBOKURA"
+  },
+  {
+    "id": "3302071013",
+    "district_id": "330207",
+    "name": "SUMPIUH"
+  },
+  {
+    "id": "3302071014",
+    "district_id": "330207",
+    "name": "KRADENAN"
+  },
+  {
+    "id": "3302072001",
+    "district_id": "330207",
+    "name": "NUSADADI"
+  },
+  {
+    "id": "3302072002",
+    "district_id": "330207",
+    "name": "SELANDAKA"
+  },
+  {
+    "id": "3302072003",
+    "district_id": "330207",
+    "name": "KARANGGEDANG"
+  },
+  {
+    "id": "3302072004",
+    "district_id": "330207",
+    "name": "KEMIRI"
+  },
+  {
+    "id": "3302072005",
+    "district_id": "330207",
+    "name": "PANDAK"
+  },
+  {
+    "id": "3302072006",
+    "district_id": "330207",
+    "name": "KUNTILI"
+  },
+  {
+    "id": "3302072007",
+    "district_id": "330207",
+    "name": "LEBENG"
+  },
+  {
+    "id": "3302072008",
+    "district_id": "330207",
+    "name": "SELANEGARA"
+  },
+  {
+    "id": "3302072009",
+    "district_id": "330207",
+    "name": "BOGANGIN"
+  },
+  {
+    "id": "3302072010",
+    "district_id": "330207",
+    "name": "BANJARPANEPEN"
+  },
+  {
+    "id": "3302072011",
+    "district_id": "330207",
+    "name": "KETANDA"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "1201131003", "district_id": "120113", "name": "NAULI"}, {"id": "1201132001", "district_id": "120113", "name": "BONANDOLOK"}, {"id": "1201132002", "district_id": "120113", "name": "RAMPA"}, {"id": "1201132004", "district_id": "120113", "name": "MARDAME"}, {"id": "1201132005", "district_id": "120113", "name": "NAGA TIMBUL"}, {"id": "1201132006", "district_id": "120113", "name": "SIMANINGGIR"}]
+[
+  {
+    "id": "1201131003",
+    "district_id": "120113",
+    "name": "NAULI"
+  },
+  {
+    "id": "1201132001",
+    "district_id": "120113",
+    "name": "BONANDOLOK"
+  },
+  {
+    "id": "1201132002",
+    "district_id": "120113",
+    "name": "RAMPA"
+  },
+  {
+    "id": "1201132004",
+    "district_id": "120113",
+    "name": "MARDAME"
+  },
+  {
+    "id": "1201132005",
+    "district_id": "120113",
+    "name": "NAGA TIMBUL"
+  },
+  {
+    "id": "1201132006",
+    "district_id": "120113",
+    "name": "SIMANINGGIR"
+  }
+]

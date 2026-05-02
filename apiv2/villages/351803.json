@@ -1,1 +1,97 @@
-[{"id": "3518032001", "district_id": "351803", "name": "SALAMROJO"}, {"id": "3518032002", "district_id": "351803", "name": "CEPOKO"}, {"id": "3518032003", "district_id": "351803", "name": "MAGUAN"}, {"id": "3518032004", "district_id": "351803", "name": "SEMARE"}, {"id": "3518032005", "district_id": "351803", "name": "BERBEK"}, {"id": "3518032006", "district_id": "351803", "name": "MLILIR"}, {"id": "3518032007", "district_id": "351803", "name": "BENDUNGREJO"}, {"id": "3518032008", "district_id": "351803", "name": "SENGKUT"}, {"id": "3518032009", "district_id": "351803", "name": "NGRAWAN"}, {"id": "3518032010", "district_id": "351803", "name": "SUMBERWINDU"}, {"id": "3518032011", "district_id": "351803", "name": "KACANGAN"}, {"id": "3518032012", "district_id": "351803", "name": "SENDANGBUMEN"}, {"id": "3518032013", "district_id": "351803", "name": "PATRANREJO"}, {"id": "3518032014", "district_id": "351803", "name": "SUMBERURIP"}, {"id": "3518032015", "district_id": "351803", "name": "BULU"}, {"id": "3518032016", "district_id": "351803", "name": "GROJOGAN"}, {"id": "3518032017", "district_id": "351803", "name": "TIRIPAN"}, {"id": "3518032018", "district_id": "351803", "name": "BALONGREJO"}, {"id": "3518032019", "district_id": "351803", "name": "SONOPATIK"}]
+[
+  {
+    "id": "3518032001",
+    "district_id": "351803",
+    "name": "SALAMROJO"
+  },
+  {
+    "id": "3518032002",
+    "district_id": "351803",
+    "name": "CEPOKO"
+  },
+  {
+    "id": "3518032003",
+    "district_id": "351803",
+    "name": "MAGUAN"
+  },
+  {
+    "id": "3518032004",
+    "district_id": "351803",
+    "name": "SEMARE"
+  },
+  {
+    "id": "3518032005",
+    "district_id": "351803",
+    "name": "BERBEK"
+  },
+  {
+    "id": "3518032006",
+    "district_id": "351803",
+    "name": "MLILIR"
+  },
+  {
+    "id": "3518032007",
+    "district_id": "351803",
+    "name": "BENDUNGREJO"
+  },
+  {
+    "id": "3518032008",
+    "district_id": "351803",
+    "name": "SENGKUT"
+  },
+  {
+    "id": "3518032009",
+    "district_id": "351803",
+    "name": "NGRAWAN"
+  },
+  {
+    "id": "3518032010",
+    "district_id": "351803",
+    "name": "SUMBERWINDU"
+  },
+  {
+    "id": "3518032011",
+    "district_id": "351803",
+    "name": "KACANGAN"
+  },
+  {
+    "id": "3518032012",
+    "district_id": "351803",
+    "name": "SENDANGBUMEN"
+  },
+  {
+    "id": "3518032013",
+    "district_id": "351803",
+    "name": "PATRANREJO"
+  },
+  {
+    "id": "3518032014",
+    "district_id": "351803",
+    "name": "SUMBERURIP"
+  },
+  {
+    "id": "3518032015",
+    "district_id": "351803",
+    "name": "BULU"
+  },
+  {
+    "id": "3518032016",
+    "district_id": "351803",
+    "name": "GROJOGAN"
+  },
+  {
+    "id": "3518032017",
+    "district_id": "351803",
+    "name": "TIRIPAN"
+  },
+  {
+    "id": "3518032018",
+    "district_id": "351803",
+    "name": "BALONGREJO"
+  },
+  {
+    "id": "3518032019",
+    "district_id": "351803",
+    "name": "SONOPATIK"
+  }
+]

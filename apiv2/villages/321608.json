@@ -1,1 +1,57 @@
-[{"id": "3216081008", "district_id": "321608", "name": "TELAGA ASIH"}, {"id": "3216082001", "district_id": "321608", "name": "TELAGAMURNI"}, {"id": "3216082002", "district_id": "321608", "name": "MEKARWANGI"}, {"id": "3216082003", "district_id": "321608", "name": "JATIWANGI"}, {"id": "3216082004", "district_id": "321608", "name": "DANAU INDAH"}, {"id": "3216082005", "district_id": "321608", "name": "GANDAMEKAR"}, {"id": "3216082006", "district_id": "321608", "name": "GANDASARI"}, {"id": "3216082007", "district_id": "321608", "name": "SUKADANAU"}, {"id": "3216082009", "district_id": "321608", "name": "KALIJAYA"}, {"id": "3216082010", "district_id": "321608", "name": "TELAJUNG"}, {"id": "3216082011", "district_id": "321608", "name": "CIKEDOKAN"}]
+[
+  {
+    "id": "3216081008",
+    "district_id": "321608",
+    "name": "TELAGA ASIH"
+  },
+  {
+    "id": "3216082001",
+    "district_id": "321608",
+    "name": "TELAGAMURNI"
+  },
+  {
+    "id": "3216082002",
+    "district_id": "321608",
+    "name": "MEKARWANGI"
+  },
+  {
+    "id": "3216082003",
+    "district_id": "321608",
+    "name": "JATIWANGI"
+  },
+  {
+    "id": "3216082004",
+    "district_id": "321608",
+    "name": "DANAU INDAH"
+  },
+  {
+    "id": "3216082005",
+    "district_id": "321608",
+    "name": "GANDAMEKAR"
+  },
+  {
+    "id": "3216082006",
+    "district_id": "321608",
+    "name": "GANDASARI"
+  },
+  {
+    "id": "3216082007",
+    "district_id": "321608",
+    "name": "SUKADANAU"
+  },
+  {
+    "id": "3216082009",
+    "district_id": "321608",
+    "name": "KALIJAYA"
+  },
+  {
+    "id": "3216082010",
+    "district_id": "321608",
+    "name": "TELAJUNG"
+  },
+  {
+    "id": "3216082011",
+    "district_id": "321608",
+    "name": "CIKEDOKAN"
+  }
+]

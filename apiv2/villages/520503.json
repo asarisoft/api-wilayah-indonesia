@@ -1,1 +1,42 @@
-[{"id": "5205032001", "district_id": "520503", "name": "RASA BOU"}, {"id": "5205032002", "district_id": "520503", "name": "DAHA"}, {"id": "5205032003", "district_id": "520503", "name": "HU'U"}, {"id": "5205032004", "district_id": "520503", "name": "ADU"}, {"id": "5205032005", "district_id": "520503", "name": "CEMPI JAYA"}, {"id": "5205032006", "district_id": "520503", "name": "MERADA"}, {"id": "5205032007", "district_id": "520503", "name": "JALA"}, {"id": "5205032008", "district_id": "520503", "name": "SAWE"}]
+[
+  {
+    "id": "5205032001",
+    "district_id": "520503",
+    "name": "RASA BOU"
+  },
+  {
+    "id": "5205032002",
+    "district_id": "520503",
+    "name": "DAHA"
+  },
+  {
+    "id": "5205032003",
+    "district_id": "520503",
+    "name": "HU'U"
+  },
+  {
+    "id": "5205032004",
+    "district_id": "520503",
+    "name": "ADU"
+  },
+  {
+    "id": "5205032005",
+    "district_id": "520503",
+    "name": "CEMPI JAYA"
+  },
+  {
+    "id": "5205032006",
+    "district_id": "520503",
+    "name": "MERADA"
+  },
+  {
+    "id": "5205032007",
+    "district_id": "520503",
+    "name": "JALA"
+  },
+  {
+    "id": "5205032008",
+    "district_id": "520503",
+    "name": "SAWE"
+  }
+]

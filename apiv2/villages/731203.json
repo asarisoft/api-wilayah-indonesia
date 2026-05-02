@@ -1,1 +1,62 @@
-[{"id": "7312031001", "district_id": "731203", "name": "UJUNG"}, {"id": "7312031002", "district_id": "731203", "name": "CABENGE"}, {"id": "7312031003", "district_id": "731203", "name": "PAJALESANG"}, {"id": "7312031004", "district_id": "731203", "name": "MACANRE"}, {"id": "7312032005", "district_id": "731203", "name": "ABBANUANGE"}, {"id": "7312032006", "district_id": "731203", "name": "TETEWATU"}, {"id": "7312032007", "district_id": "731203", "name": "BARINGENG"}, {"id": "7312032009", "district_id": "731203", "name": "MASING"}, {"id": "7312032010", "district_id": "731203", "name": "KEBO"}, {"id": "7312032011", "district_id": "731203", "name": "PARENRING"}, {"id": "7312032012", "district_id": "731203", "name": "PAROTO"}, {"id": "7312032013", "district_id": "731203", "name": "PALANGISENG"}]
+[
+  {
+    "id": "7312031001",
+    "district_id": "731203",
+    "name": "UJUNG"
+  },
+  {
+    "id": "7312031002",
+    "district_id": "731203",
+    "name": "CABENGE"
+  },
+  {
+    "id": "7312031003",
+    "district_id": "731203",
+    "name": "PAJALESANG"
+  },
+  {
+    "id": "7312031004",
+    "district_id": "731203",
+    "name": "MACANRE"
+  },
+  {
+    "id": "7312032005",
+    "district_id": "731203",
+    "name": "ABBANUANGE"
+  },
+  {
+    "id": "7312032006",
+    "district_id": "731203",
+    "name": "TETEWATU"
+  },
+  {
+    "id": "7312032007",
+    "district_id": "731203",
+    "name": "BARINGENG"
+  },
+  {
+    "id": "7312032009",
+    "district_id": "731203",
+    "name": "MASING"
+  },
+  {
+    "id": "7312032010",
+    "district_id": "731203",
+    "name": "KEBO"
+  },
+  {
+    "id": "7312032011",
+    "district_id": "731203",
+    "name": "PARENRING"
+  },
+  {
+    "id": "7312032012",
+    "district_id": "731203",
+    "name": "PAROTO"
+  },
+  {
+    "id": "7312032013",
+    "district_id": "731203",
+    "name": "PALANGISENG"
+  }
+]

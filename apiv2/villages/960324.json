@@ -1,1 +1,22 @@
-[{"id": "9603242001", "district_id": "960324", "name": "YENANAS"}, {"id": "9603242002", "district_id": "960324", "name": "AMDUI"}, {"id": "9603242003", "district_id": "960324", "name": "WAILEBET"}, {"id": "9603242004", "district_id": "960324", "name": "WAIMAN"}]
+[
+  {
+    "id": "9603242001",
+    "district_id": "960324",
+    "name": "YENANAS"
+  },
+  {
+    "id": "9603242002",
+    "district_id": "960324",
+    "name": "AMDUI"
+  },
+  {
+    "id": "9603242003",
+    "district_id": "960324",
+    "name": "WAILEBET"
+  },
+  {
+    "id": "9603242004",
+    "district_id": "960324",
+    "name": "WAIMAN"
+  }
+]

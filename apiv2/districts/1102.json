@@ -1,1 +1,82 @@
-[{"id": "110201", "regency_id": "1102", "name": "LAWE ALAS"}, {"id": "110202", "regency_id": "1102", "name": "LAWE SIGALA-GALA"}, {"id": "110203", "regency_id": "1102", "name": "BAMBEL"}, {"id": "110204", "regency_id": "1102", "name": "BABUSSALAM"}, {"id": "110205", "regency_id": "1102", "name": "BADAR"}, {"id": "110206", "regency_id": "1102", "name": "BABUL MAKMUR"}, {"id": "110207", "regency_id": "1102", "name": "DARUL HASANAH"}, {"id": "110208", "regency_id": "1102", "name": "LAWE BULAN"}, {"id": "110209", "regency_id": "1102", "name": "BUKIT TUSAM"}, {"id": "110210", "regency_id": "1102", "name": "SEMADAM"}, {"id": "110211", "regency_id": "1102", "name": "BABUL RAHMAH"}, {"id": "110212", "regency_id": "1102", "name": "KETAMBE"}, {"id": "110213", "regency_id": "1102", "name": "DELENG POKHKISEN"}, {"id": "110214", "regency_id": "1102", "name": "LAWE SUMUR"}, {"id": "110215", "regency_id": "1102", "name": "TANOH ALAS"}, {"id": "110216", "regency_id": "1102", "name": "LEUSER"}]
+[
+  {
+    "id": "110201",
+    "regency_id": "1102",
+    "name": "LAWE ALAS"
+  },
+  {
+    "id": "110202",
+    "regency_id": "1102",
+    "name": "LAWE SIGALA-GALA"
+  },
+  {
+    "id": "110203",
+    "regency_id": "1102",
+    "name": "BAMBEL"
+  },
+  {
+    "id": "110204",
+    "regency_id": "1102",
+    "name": "BABUSSALAM"
+  },
+  {
+    "id": "110205",
+    "regency_id": "1102",
+    "name": "BADAR"
+  },
+  {
+    "id": "110206",
+    "regency_id": "1102",
+    "name": "BABUL MAKMUR"
+  },
+  {
+    "id": "110207",
+    "regency_id": "1102",
+    "name": "DARUL HASANAH"
+  },
+  {
+    "id": "110208",
+    "regency_id": "1102",
+    "name": "LAWE BULAN"
+  },
+  {
+    "id": "110209",
+    "regency_id": "1102",
+    "name": "BUKIT TUSAM"
+  },
+  {
+    "id": "110210",
+    "regency_id": "1102",
+    "name": "SEMADAM"
+  },
+  {
+    "id": "110211",
+    "regency_id": "1102",
+    "name": "BABUL RAHMAH"
+  },
+  {
+    "id": "110212",
+    "regency_id": "1102",
+    "name": "KETAMBE"
+  },
+  {
+    "id": "110213",
+    "regency_id": "1102",
+    "name": "DELENG POKHKISEN"
+  },
+  {
+    "id": "110214",
+    "regency_id": "1102",
+    "name": "LAWE SUMUR"
+  },
+  {
+    "id": "110215",
+    "regency_id": "1102",
+    "name": "TANOH ALAS"
+  },
+  {
+    "id": "110216",
+    "regency_id": "1102",
+    "name": "LEUSER"
+  }
+]

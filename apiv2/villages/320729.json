@@ -1,1 +1,27 @@
-[{"id": "3207292001", "district_id": "320729", "name": "CIMARAGAS"}, {"id": "3207292002", "district_id": "320729", "name": "BEBER"}, {"id": "3207292003", "district_id": "320729", "name": "RAKSABAYA"}, {"id": "3207292004", "district_id": "320729", "name": "BOJONGMALANG"}, {"id": "3207292005", "district_id": "320729", "name": "JAYARAKSA"}]
+[
+  {
+    "id": "3207292001",
+    "district_id": "320729",
+    "name": "CIMARAGAS"
+  },
+  {
+    "id": "3207292002",
+    "district_id": "320729",
+    "name": "BEBER"
+  },
+  {
+    "id": "3207292003",
+    "district_id": "320729",
+    "name": "RAKSABAYA"
+  },
+  {
+    "id": "3207292004",
+    "district_id": "320729",
+    "name": "BOJONGMALANG"
+  },
+  {
+    "id": "3207292005",
+    "district_id": "320729",
+    "name": "JAYARAKSA"
+  }
+]

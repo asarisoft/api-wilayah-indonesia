@@ -1,1 +1,22 @@
-[{"id": "1671161001", "district_id": "167116", "name": "SRIMULYA"}, {"id": "1671161002", "district_id": "167116", "name": "SUKAMULYA"}, {"id": "1671161003", "district_id": "167116", "name": "LEBUNG-GAJAH"}, {"id": "1671161005", "district_id": "167116", "name": "KARYAMULYA"}]
+[
+  {
+    "id": "1671161001",
+    "district_id": "167116",
+    "name": "SRIMULYA"
+  },
+  {
+    "id": "1671161002",
+    "district_id": "167116",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "1671161003",
+    "district_id": "167116",
+    "name": "LEBUNG-GAJAH"
+  },
+  {
+    "id": "1671161005",
+    "district_id": "167116",
+    "name": "KARYAMULYA"
+  }
+]

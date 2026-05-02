@@ -1,1 +1,47 @@
-[{"id": "3510211001", "district_id": "351021", "name": "KALIPURO"}, {"id": "3510211002", "district_id": "351021", "name": "KLATAK"}, {"id": "3510211006", "district_id": "351021", "name": "GOMBENGSARI"}, {"id": "3510211007", "district_id": "351021", "name": "BULUSAN"}, {"id": "3510212003", "district_id": "351021", "name": "KETAPANG"}, {"id": "3510212004", "district_id": "351021", "name": "PESUCEN"}, {"id": "3510212005", "district_id": "351021", "name": "KELIR"}, {"id": "3510212008", "district_id": "351021", "name": "TELEMUNG"}, {"id": "3510212009", "district_id": "351021", "name": "BULUSARI"}]
+[
+  {
+    "id": "3510211001",
+    "district_id": "351021",
+    "name": "KALIPURO"
+  },
+  {
+    "id": "3510211002",
+    "district_id": "351021",
+    "name": "KLATAK"
+  },
+  {
+    "id": "3510211006",
+    "district_id": "351021",
+    "name": "GOMBENGSARI"
+  },
+  {
+    "id": "3510211007",
+    "district_id": "351021",
+    "name": "BULUSAN"
+  },
+  {
+    "id": "3510212003",
+    "district_id": "351021",
+    "name": "KETAPANG"
+  },
+  {
+    "id": "3510212004",
+    "district_id": "351021",
+    "name": "PESUCEN"
+  },
+  {
+    "id": "3510212005",
+    "district_id": "351021",
+    "name": "KELIR"
+  },
+  {
+    "id": "3510212008",
+    "district_id": "351021",
+    "name": "TELEMUNG"
+  },
+  {
+    "id": "3510212009",
+    "district_id": "351021",
+    "name": "BULUSARI"
+  }
+]

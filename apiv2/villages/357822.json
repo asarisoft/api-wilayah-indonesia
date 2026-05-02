@@ -1,1 +1,22 @@
-[{"id": "3578221001", "district_id": "357822", "name": "GAYUNGAN"}, {"id": "3578221002", "district_id": "357822", "name": "MENANGGAL"}, {"id": "3578221003", "district_id": "357822", "name": "DUKUH MENANGGAL"}, {"id": "3578221004", "district_id": "357822", "name": "KETINTANG"}]
+[
+  {
+    "id": "3578221001",
+    "district_id": "357822",
+    "name": "GAYUNGAN"
+  },
+  {
+    "id": "3578221002",
+    "district_id": "357822",
+    "name": "MENANGGAL"
+  },
+  {
+    "id": "3578221003",
+    "district_id": "357822",
+    "name": "DUKUH MENANGGAL"
+  },
+  {
+    "id": "3578221004",
+    "district_id": "357822",
+    "name": "KETINTANG"
+  }
+]

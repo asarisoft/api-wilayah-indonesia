@@ -1,1 +1,37 @@
-[{"id": "1307072001", "district_id": "130707", "name": "MUARO PAITI"}, {"id": "1307072002", "district_id": "130707", "name": "KOTO BANGUN"}, {"id": "1307072003", "district_id": "130707", "name": "LUBUAK ALAI"}, {"id": "1307072004", "district_id": "130707", "name": "KOTO LAMO"}, {"id": "1307072005", "district_id": "130707", "name": "DURIAN TINGGI"}, {"id": "1307072006", "district_id": "130707", "name": "SIALANG"}, {"id": "1307072007", "district_id": "130707", "name": "GALUGUA"}]
+[
+  {
+    "id": "1307072001",
+    "district_id": "130707",
+    "name": "MUARO PAITI"
+  },
+  {
+    "id": "1307072002",
+    "district_id": "130707",
+    "name": "KOTO BANGUN"
+  },
+  {
+    "id": "1307072003",
+    "district_id": "130707",
+    "name": "LUBUAK ALAI"
+  },
+  {
+    "id": "1307072004",
+    "district_id": "130707",
+    "name": "KOTO LAMO"
+  },
+  {
+    "id": "1307072005",
+    "district_id": "130707",
+    "name": "DURIAN TINGGI"
+  },
+  {
+    "id": "1307072006",
+    "district_id": "130707",
+    "name": "SIALANG"
+  },
+  {
+    "id": "1307072007",
+    "district_id": "130707",
+    "name": "GALUGUA"
+  }
+]

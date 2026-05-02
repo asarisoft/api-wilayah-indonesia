@@ -1,1 +1,77 @@
-[{"id": "5203132001", "district_id": "520313", "name": "ANJANI"}, {"id": "5203132002", "district_id": "520313", "name": "TEBABAN"}, {"id": "5203132003", "district_id": "520313", "name": "KERONGKONG"}, {"id": "5203132004", "district_id": "520313", "name": "BAGIK PAYUNG"}, {"id": "5203132005", "district_id": "520313", "name": "SURALAGA"}, {"id": "5203132006", "district_id": "520313", "name": "BAGIK PAYUNG SELATAN"}, {"id": "5203132007", "district_id": "520313", "name": "TUMBUH MULIA"}, {"id": "5203132008", "district_id": "520313", "name": "DASAN BOROK"}, {"id": "5203132009", "district_id": "520313", "name": "GERUNG PERMAI"}, {"id": "5203132010", "district_id": "520313", "name": "DAMES DAMAI"}, {"id": "5203132011", "district_id": "520313", "name": "BAGIK PAYUNG TIMUR"}, {"id": "5203132012", "district_id": "520313", "name": "WARINGIN"}, {"id": "5203132013", "district_id": "520313", "name": "GAPUK"}, {"id": "5203132014", "district_id": "520313", "name": "BINTANG RINJANI"}, {"id": "5203132015", "district_id": "520313", "name": "PAOK LOMBOK"}]
+[
+  {
+    "id": "5203132001",
+    "district_id": "520313",
+    "name": "ANJANI"
+  },
+  {
+    "id": "5203132002",
+    "district_id": "520313",
+    "name": "TEBABAN"
+  },
+  {
+    "id": "5203132003",
+    "district_id": "520313",
+    "name": "KERONGKONG"
+  },
+  {
+    "id": "5203132004",
+    "district_id": "520313",
+    "name": "BAGIK PAYUNG"
+  },
+  {
+    "id": "5203132005",
+    "district_id": "520313",
+    "name": "SURALAGA"
+  },
+  {
+    "id": "5203132006",
+    "district_id": "520313",
+    "name": "BAGIK PAYUNG SELATAN"
+  },
+  {
+    "id": "5203132007",
+    "district_id": "520313",
+    "name": "TUMBUH MULIA"
+  },
+  {
+    "id": "5203132008",
+    "district_id": "520313",
+    "name": "DASAN BOROK"
+  },
+  {
+    "id": "5203132009",
+    "district_id": "520313",
+    "name": "GERUNG PERMAI"
+  },
+  {
+    "id": "5203132010",
+    "district_id": "520313",
+    "name": "DAMES DAMAI"
+  },
+  {
+    "id": "5203132011",
+    "district_id": "520313",
+    "name": "BAGIK PAYUNG TIMUR"
+  },
+  {
+    "id": "5203132012",
+    "district_id": "520313",
+    "name": "WARINGIN"
+  },
+  {
+    "id": "5203132013",
+    "district_id": "520313",
+    "name": "GAPUK"
+  },
+  {
+    "id": "5203132014",
+    "district_id": "520313",
+    "name": "BINTANG RINJANI"
+  },
+  {
+    "id": "5203132015",
+    "district_id": "520313",
+    "name": "PAOK LOMBOK"
+  }
+]

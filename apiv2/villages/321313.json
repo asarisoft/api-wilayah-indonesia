@@ -1,1 +1,47 @@
-[{"id": "3213132001", "district_id": "321313", "name": "TANJUNGTIGA"}, {"id": "3213132002", "district_id": "321313", "name": "MUARA"}, {"id": "3213132003", "district_id": "321313", "name": "BLANAKAN"}, {"id": "3213132004", "district_id": "321313", "name": "RAWAMENENG"}, {"id": "3213132005", "district_id": "321313", "name": "CILAMAYAGIRANG"}, {"id": "3213132006", "district_id": "321313", "name": "JAYAMUKTI"}, {"id": "3213132007", "district_id": "321313", "name": "CILAMAYAHILIR"}, {"id": "3213132008", "district_id": "321313", "name": "RAWAMEKAR"}, {"id": "3213132009", "district_id": "321313", "name": "LANGENSARI"}]
+[
+  {
+    "id": "3213132001",
+    "district_id": "321313",
+    "name": "TANJUNGTIGA"
+  },
+  {
+    "id": "3213132002",
+    "district_id": "321313",
+    "name": "MUARA"
+  },
+  {
+    "id": "3213132003",
+    "district_id": "321313",
+    "name": "BLANAKAN"
+  },
+  {
+    "id": "3213132004",
+    "district_id": "321313",
+    "name": "RAWAMENENG"
+  },
+  {
+    "id": "3213132005",
+    "district_id": "321313",
+    "name": "CILAMAYAGIRANG"
+  },
+  {
+    "id": "3213132006",
+    "district_id": "321313",
+    "name": "JAYAMUKTI"
+  },
+  {
+    "id": "3213132007",
+    "district_id": "321313",
+    "name": "CILAMAYAHILIR"
+  },
+  {
+    "id": "3213132008",
+    "district_id": "321313",
+    "name": "RAWAMEKAR"
+  },
+  {
+    "id": "3213132009",
+    "district_id": "321313",
+    "name": "LANGENSARI"
+  }
+]

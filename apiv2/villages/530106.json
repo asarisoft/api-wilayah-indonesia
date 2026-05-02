@@ -1,1 +1,67 @@
-[{"id": "5301061001", "district_id": "530106", "name": "BABAU"}, {"id": "5301061003", "district_id": "530106", "name": "NAIBONAT"}, {"id": "5301061004", "district_id": "530106", "name": "OESAO"}, {"id": "5301061005", "district_id": "530106", "name": "MERDEKA"}, {"id": "5301061008", "district_id": "530106", "name": "TUATUKA"}, {"id": "5301062002", "district_id": "530106", "name": "NUNKURUS"}, {"id": "5301062006", "district_id": "530106", "name": "TUAPUKAN"}, {"id": "5301062007", "district_id": "530106", "name": "OEFAFI"}, {"id": "5301062011", "district_id": "530106", "name": "PUKDALE"}, {"id": "5301062015", "district_id": "530106", "name": "OESAO"}, {"id": "5301062016", "district_id": "530106", "name": "MANUSAK"}, {"id": "5301062017", "district_id": "530106", "name": "TANAH PUTIH"}, {"id": "5301062018", "district_id": "530106", "name": "OELATIMO"}]
+[
+  {
+    "id": "5301061001",
+    "district_id": "530106",
+    "name": "BABAU"
+  },
+  {
+    "id": "5301061003",
+    "district_id": "530106",
+    "name": "NAIBONAT"
+  },
+  {
+    "id": "5301061004",
+    "district_id": "530106",
+    "name": "OESAO"
+  },
+  {
+    "id": "5301061005",
+    "district_id": "530106",
+    "name": "MERDEKA"
+  },
+  {
+    "id": "5301061008",
+    "district_id": "530106",
+    "name": "TUATUKA"
+  },
+  {
+    "id": "5301062002",
+    "district_id": "530106",
+    "name": "NUNKURUS"
+  },
+  {
+    "id": "5301062006",
+    "district_id": "530106",
+    "name": "TUAPUKAN"
+  },
+  {
+    "id": "5301062007",
+    "district_id": "530106",
+    "name": "OEFAFI"
+  },
+  {
+    "id": "5301062011",
+    "district_id": "530106",
+    "name": "PUKDALE"
+  },
+  {
+    "id": "5301062015",
+    "district_id": "530106",
+    "name": "OESAO"
+  },
+  {
+    "id": "5301062016",
+    "district_id": "530106",
+    "name": "MANUSAK"
+  },
+  {
+    "id": "5301062017",
+    "district_id": "530106",
+    "name": "TANAH PUTIH"
+  },
+  {
+    "id": "5301062018",
+    "district_id": "530106",
+    "name": "OELATIMO"
+  }
+]

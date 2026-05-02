@@ -1,1 +1,32 @@
-[{"id": "9403182001", "district_id": "940318", "name": "YOUTADI"}, {"id": "9403182002", "district_id": "940318", "name": "UWAGI"}, {"id": "9403182003", "district_id": "940318", "name": "IPOUWA"}, {"id": "9403182004", "district_id": "940318", "name": "MUNAIYEPA"}, {"id": "9403182005", "district_id": "940318", "name": "DOKONEIDA"}, {"id": "9403182006", "district_id": "940318", "name": "NAMUTADI"}]
+[
+  {
+    "id": "9403182001",
+    "district_id": "940318",
+    "name": "YOUTADI"
+  },
+  {
+    "id": "9403182002",
+    "district_id": "940318",
+    "name": "UWAGI"
+  },
+  {
+    "id": "9403182003",
+    "district_id": "940318",
+    "name": "IPOUWA"
+  },
+  {
+    "id": "9403182004",
+    "district_id": "940318",
+    "name": "MUNAIYEPA"
+  },
+  {
+    "id": "9403182005",
+    "district_id": "940318",
+    "name": "DOKONEIDA"
+  },
+  {
+    "id": "9403182006",
+    "district_id": "940318",
+    "name": "NAMUTADI"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "8203152001", "district_id": "820315", "name": "LIMAU"}, {"id": "8203152002", "district_id": "820315", "name": "LALONGA"}, {"id": "8203152003", "district_id": "820315", "name": "BOBISINGO"}, {"id": "8203152004", "district_id": "820315", "name": "SALIMULI"}, {"id": "8203152005", "district_id": "820315", "name": "TUTUMALOLEO"}, {"id": "8203152006", "district_id": "820315", "name": "SALUTA"}, {"id": "8203152007", "district_id": "820315", "name": "JERE"}, {"id": "8203152008", "district_id": "820315", "name": "DODOWO"}, {"id": "8203152009", "district_id": "820315", "name": "TOGASA"}, {"id": "8203152010", "district_id": "820315", "name": "BERINGIN JAYA"}, {"id": "8203152011", "district_id": "820315", "name": "PELITA"}, {"id": "8203152012", "district_id": "820315", "name": "JERE TUA"}]
+[
+  {
+    "id": "8203152001",
+    "district_id": "820315",
+    "name": "LIMAU"
+  },
+  {
+    "id": "8203152002",
+    "district_id": "820315",
+    "name": "LALONGA"
+  },
+  {
+    "id": "8203152003",
+    "district_id": "820315",
+    "name": "BOBISINGO"
+  },
+  {
+    "id": "8203152004",
+    "district_id": "820315",
+    "name": "SALIMULI"
+  },
+  {
+    "id": "8203152005",
+    "district_id": "820315",
+    "name": "TUTUMALOLEO"
+  },
+  {
+    "id": "8203152006",
+    "district_id": "820315",
+    "name": "SALUTA"
+  },
+  {
+    "id": "8203152007",
+    "district_id": "820315",
+    "name": "JERE"
+  },
+  {
+    "id": "8203152008",
+    "district_id": "820315",
+    "name": "DODOWO"
+  },
+  {
+    "id": "8203152009",
+    "district_id": "820315",
+    "name": "TOGASA"
+  },
+  {
+    "id": "8203152010",
+    "district_id": "820315",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "8203152011",
+    "district_id": "820315",
+    "name": "PELITA"
+  },
+  {
+    "id": "8203152012",
+    "district_id": "820315",
+    "name": "JERE TUA"
+  }
+]

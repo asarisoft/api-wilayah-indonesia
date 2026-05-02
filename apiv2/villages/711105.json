@@ -1,1 +1,62 @@
-[{"id": "7111052001", "district_id": "711105", "name": "MOTANDOI"}, {"id": "7111052002", "district_id": "711105", "name": "DUMAGIN A"}, {"id": "7111052003", "district_id": "711105", "name": "DUMAGIN B"}, {"id": "7111052004", "district_id": "711105", "name": "DAYOW"}, {"id": "7111052005", "district_id": "711105", "name": "ONGGUNOI"}, {"id": "7111052006", "district_id": "711105", "name": "MODISI"}, {"id": "7111052007", "district_id": "711105", "name": "POSILAGON"}, {"id": "7111052008", "district_id": "711105", "name": "PIDUNG"}, {"id": "7111052009", "district_id": "711105", "name": "ILIGON"}, {"id": "7111052010", "district_id": "711105", "name": "MOTANDOI SELATAN"}, {"id": "7111052011", "district_id": "711105", "name": "PERJUANGAN"}, {"id": "7111052012", "district_id": "711105", "name": "ONGGUNOI SELATAN"}]
+[
+  {
+    "id": "7111052001",
+    "district_id": "711105",
+    "name": "MOTANDOI"
+  },
+  {
+    "id": "7111052002",
+    "district_id": "711105",
+    "name": "DUMAGIN A"
+  },
+  {
+    "id": "7111052003",
+    "district_id": "711105",
+    "name": "DUMAGIN B"
+  },
+  {
+    "id": "7111052004",
+    "district_id": "711105",
+    "name": "DAYOW"
+  },
+  {
+    "id": "7111052005",
+    "district_id": "711105",
+    "name": "ONGGUNOI"
+  },
+  {
+    "id": "7111052006",
+    "district_id": "711105",
+    "name": "MODISI"
+  },
+  {
+    "id": "7111052007",
+    "district_id": "711105",
+    "name": "POSILAGON"
+  },
+  {
+    "id": "7111052008",
+    "district_id": "711105",
+    "name": "PIDUNG"
+  },
+  {
+    "id": "7111052009",
+    "district_id": "711105",
+    "name": "ILIGON"
+  },
+  {
+    "id": "7111052010",
+    "district_id": "711105",
+    "name": "MOTANDOI SELATAN"
+  },
+  {
+    "id": "7111052011",
+    "district_id": "711105",
+    "name": "PERJUANGAN"
+  },
+  {
+    "id": "7111052012",
+    "district_id": "711105",
+    "name": "ONGGUNOI SELATAN"
+  }
+]

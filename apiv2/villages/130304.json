@@ -1,1 +1,47 @@
-[{"id": "1303042001", "district_id": "130304", "name": "MUARO"}, {"id": "1303042002", "district_id": "130304", "name": "KANDANG BARU"}, {"id": "1303042003", "district_id": "130304", "name": "SILOKEK"}, {"id": "1303042004", "district_id": "130304", "name": "PEMATANG PANJANG"}, {"id": "1303042005", "district_id": "130304", "name": "SOLOK AMBAH"}, {"id": "1303042006", "district_id": "130304", "name": "PARU"}, {"id": "1303042007", "district_id": "130304", "name": "DURIAN GADANG"}, {"id": "1303042008", "district_id": "130304", "name": "AIE ANGEK"}, {"id": "1303042009", "district_id": "130304", "name": "SIJUNJUNG"}]
+[
+  {
+    "id": "1303042001",
+    "district_id": "130304",
+    "name": "MUARO"
+  },
+  {
+    "id": "1303042002",
+    "district_id": "130304",
+    "name": "KANDANG BARU"
+  },
+  {
+    "id": "1303042003",
+    "district_id": "130304",
+    "name": "SILOKEK"
+  },
+  {
+    "id": "1303042004",
+    "district_id": "130304",
+    "name": "PEMATANG PANJANG"
+  },
+  {
+    "id": "1303042005",
+    "district_id": "130304",
+    "name": "SOLOK AMBAH"
+  },
+  {
+    "id": "1303042006",
+    "district_id": "130304",
+    "name": "PARU"
+  },
+  {
+    "id": "1303042007",
+    "district_id": "130304",
+    "name": "DURIAN GADANG"
+  },
+  {
+    "id": "1303042008",
+    "district_id": "130304",
+    "name": "AIE ANGEK"
+  },
+  {
+    "id": "1303042009",
+    "district_id": "130304",
+    "name": "SIJUNJUNG"
+  }
+]

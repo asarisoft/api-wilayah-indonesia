@@ -1,1 +1,62 @@
-[{"id": "1902022001", "district_id": "190202", "name": "MEMBALONG"}, {"id": "1902022002", "district_id": "190202", "name": "PERPAT"}, {"id": "1902022003", "district_id": "190202", "name": "LASSAR"}, {"id": "1902022004", "district_id": "190202", "name": "SIMPANG RUSA"}, {"id": "1902022005", "district_id": "190202", "name": "KEMBIRI"}, {"id": "1902022006", "district_id": "190202", "name": "BANTAN"}, {"id": "1902022007", "district_id": "190202", "name": "TANJUNGRUSA"}, {"id": "1902022008", "district_id": "190202", "name": "MENTIGI"}, {"id": "1902022009", "district_id": "190202", "name": "PULAU SELIU"}, {"id": "1902022010", "district_id": "190202", "name": "PULAU SUMEDANG"}, {"id": "1902022011", "district_id": "190202", "name": "GUNUNG RITING"}, {"id": "1902022012", "district_id": "190202", "name": "PADANG KANDIS"}]
+[
+  {
+    "id": "1902022001",
+    "district_id": "190202",
+    "name": "MEMBALONG"
+  },
+  {
+    "id": "1902022002",
+    "district_id": "190202",
+    "name": "PERPAT"
+  },
+  {
+    "id": "1902022003",
+    "district_id": "190202",
+    "name": "LASSAR"
+  },
+  {
+    "id": "1902022004",
+    "district_id": "190202",
+    "name": "SIMPANG RUSA"
+  },
+  {
+    "id": "1902022005",
+    "district_id": "190202",
+    "name": "KEMBIRI"
+  },
+  {
+    "id": "1902022006",
+    "district_id": "190202",
+    "name": "BANTAN"
+  },
+  {
+    "id": "1902022007",
+    "district_id": "190202",
+    "name": "TANJUNGRUSA"
+  },
+  {
+    "id": "1902022008",
+    "district_id": "190202",
+    "name": "MENTIGI"
+  },
+  {
+    "id": "1902022009",
+    "district_id": "190202",
+    "name": "PULAU SELIU"
+  },
+  {
+    "id": "1902022010",
+    "district_id": "190202",
+    "name": "PULAU SUMEDANG"
+  },
+  {
+    "id": "1902022011",
+    "district_id": "190202",
+    "name": "GUNUNG RITING"
+  },
+  {
+    "id": "1902022012",
+    "district_id": "190202",
+    "name": "PADANG KANDIS"
+  }
+]

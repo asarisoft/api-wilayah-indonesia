@@ -1,1 +1,62 @@
-[{"id": "3209312001", "district_id": "320931", "name": "CIKEDUK"}, {"id": "3209312002", "district_id": "320931", "name": "WARUJAYA"}, {"id": "3209312003", "district_id": "320931", "name": "WARUKAWUNG"}, {"id": "3209312004", "district_id": "320931", "name": "WARUGEDE"}, {"id": "3209312005", "district_id": "320931", "name": "WARUROYOM"}, {"id": "3209312006", "district_id": "320931", "name": "DEPOK"}, {"id": "3209312007", "district_id": "320931", "name": "KASUGENGAN KIDUL"}, {"id": "3209312008", "district_id": "320931", "name": "KASUGENGAN LOR"}, {"id": "3209312009", "district_id": "320931", "name": "KEDUANAN"}, {"id": "3209312010", "district_id": "320931", "name": "KEJUDEN"}, {"id": "3209312011", "district_id": "320931", "name": "GETASAN"}, {"id": "3209312012", "district_id": "320931", "name": "KARANGWANGI"}]
+[
+  {
+    "id": "3209312001",
+    "district_id": "320931",
+    "name": "CIKEDUK"
+  },
+  {
+    "id": "3209312002",
+    "district_id": "320931",
+    "name": "WARUJAYA"
+  },
+  {
+    "id": "3209312003",
+    "district_id": "320931",
+    "name": "WARUKAWUNG"
+  },
+  {
+    "id": "3209312004",
+    "district_id": "320931",
+    "name": "WARUGEDE"
+  },
+  {
+    "id": "3209312005",
+    "district_id": "320931",
+    "name": "WARUROYOM"
+  },
+  {
+    "id": "3209312006",
+    "district_id": "320931",
+    "name": "DEPOK"
+  },
+  {
+    "id": "3209312007",
+    "district_id": "320931",
+    "name": "KASUGENGAN KIDUL"
+  },
+  {
+    "id": "3209312008",
+    "district_id": "320931",
+    "name": "KASUGENGAN LOR"
+  },
+  {
+    "id": "3209312009",
+    "district_id": "320931",
+    "name": "KEDUANAN"
+  },
+  {
+    "id": "3209312010",
+    "district_id": "320931",
+    "name": "KEJUDEN"
+  },
+  {
+    "id": "3209312011",
+    "district_id": "320931",
+    "name": "GETASAN"
+  },
+  {
+    "id": "3209312012",
+    "district_id": "320931",
+    "name": "KARANGWANGI"
+  }
+]

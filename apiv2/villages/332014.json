@@ -1,1 +1,57 @@
-[{"id": "3320142001", "district_id": "332014", "name": "DUDAK AWU"}, {"id": "3320142002", "district_id": "332014", "name": "SUMANDING"}, {"id": "3320142003", "district_id": "332014", "name": "BUCU"}, {"id": "3320142004", "district_id": "332014", "name": "CEPOGO"}, {"id": "3320142005", "district_id": "332014", "name": "PENDEM"}, {"id": "3320142006", "district_id": "332014", "name": "JINGGOTAN"}, {"id": "3320142007", "district_id": "332014", "name": "DERMOLO"}, {"id": "3320142008", "district_id": "332014", "name": "KALIAMAN"}, {"id": "3320142009", "district_id": "332014", "name": "TUBANAN"}, {"id": "3320142010", "district_id": "332014", "name": "BALONG"}, {"id": "3320142011", "district_id": "332014", "name": "KANCILAN"}]
+[
+  {
+    "id": "3320142001",
+    "district_id": "332014",
+    "name": "DUDAK AWU"
+  },
+  {
+    "id": "3320142002",
+    "district_id": "332014",
+    "name": "SUMANDING"
+  },
+  {
+    "id": "3320142003",
+    "district_id": "332014",
+    "name": "BUCU"
+  },
+  {
+    "id": "3320142004",
+    "district_id": "332014",
+    "name": "CEPOGO"
+  },
+  {
+    "id": "3320142005",
+    "district_id": "332014",
+    "name": "PENDEM"
+  },
+  {
+    "id": "3320142006",
+    "district_id": "332014",
+    "name": "JINGGOTAN"
+  },
+  {
+    "id": "3320142007",
+    "district_id": "332014",
+    "name": "DERMOLO"
+  },
+  {
+    "id": "3320142008",
+    "district_id": "332014",
+    "name": "KALIAMAN"
+  },
+  {
+    "id": "3320142009",
+    "district_id": "332014",
+    "name": "TUBANAN"
+  },
+  {
+    "id": "3320142010",
+    "district_id": "332014",
+    "name": "BALONG"
+  },
+  {
+    "id": "3320142011",
+    "district_id": "332014",
+    "name": "KANCILAN"
+  }
+]

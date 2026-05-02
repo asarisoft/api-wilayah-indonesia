@@ -1,1 +1,27 @@
-[{"id": "9603072001", "district_id": "960307", "name": "SELPELE"}, {"id": "9603072002", "district_id": "960307", "name": "MUTUS"}, {"id": "9603072003", "district_id": "960307", "name": "BIANCI"}, {"id": "9603072004", "district_id": "960307", "name": "SALEO"}, {"id": "9603072005", "district_id": "960307", "name": "WAISILIP"}]
+[
+  {
+    "id": "9603072001",
+    "district_id": "960307",
+    "name": "SELPELE"
+  },
+  {
+    "id": "9603072002",
+    "district_id": "960307",
+    "name": "MUTUS"
+  },
+  {
+    "id": "9603072003",
+    "district_id": "960307",
+    "name": "BIANCI"
+  },
+  {
+    "id": "9603072004",
+    "district_id": "960307",
+    "name": "SALEO"
+  },
+  {
+    "id": "9603072005",
+    "district_id": "960307",
+    "name": "WAISILIP"
+  }
+]

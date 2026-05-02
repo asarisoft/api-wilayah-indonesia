@@ -1,1 +1,57 @@
-[{"id": "6306032001", "district_id": "630603", "name": "LOK BINUANG"}, {"id": "6306032002", "district_id": "630603", "name": "TELAGA LANGSAT"}, {"id": "6306032003", "district_id": "630603", "name": "MANDALA"}, {"id": "6306032004", "district_id": "630603", "name": "AMBUTUN"}, {"id": "6306032005", "district_id": "630603", "name": "HAMAK"}, {"id": "6306032006", "district_id": "630603", "name": "HAMAK TIMUR"}, {"id": "6306032007", "district_id": "630603", "name": "HAMAK UTARA"}, {"id": "6306032008", "district_id": "630603", "name": "PAKUAN TIMUR"}, {"id": "6306032009", "district_id": "630603", "name": "GUMBIL"}, {"id": "6306032010", "district_id": "630603", "name": "LONGAWANG"}, {"id": "6306032011", "district_id": "630603", "name": "PANDULANGAN"}]
+[
+  {
+    "id": "6306032001",
+    "district_id": "630603",
+    "name": "LOK BINUANG"
+  },
+  {
+    "id": "6306032002",
+    "district_id": "630603",
+    "name": "TELAGA LANGSAT"
+  },
+  {
+    "id": "6306032003",
+    "district_id": "630603",
+    "name": "MANDALA"
+  },
+  {
+    "id": "6306032004",
+    "district_id": "630603",
+    "name": "AMBUTUN"
+  },
+  {
+    "id": "6306032005",
+    "district_id": "630603",
+    "name": "HAMAK"
+  },
+  {
+    "id": "6306032006",
+    "district_id": "630603",
+    "name": "HAMAK TIMUR"
+  },
+  {
+    "id": "6306032007",
+    "district_id": "630603",
+    "name": "HAMAK UTARA"
+  },
+  {
+    "id": "6306032008",
+    "district_id": "630603",
+    "name": "PAKUAN TIMUR"
+  },
+  {
+    "id": "6306032009",
+    "district_id": "630603",
+    "name": "GUMBIL"
+  },
+  {
+    "id": "6306032010",
+    "district_id": "630603",
+    "name": "LONGAWANG"
+  },
+  {
+    "id": "6306032011",
+    "district_id": "630603",
+    "name": "PANDULANGAN"
+  }
+]

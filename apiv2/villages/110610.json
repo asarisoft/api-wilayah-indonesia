@@ -1,1 +1,252 @@
-[{"id": "1106102001", "district_id": "110610", "name": "LAMBARO"}, {"id": "1106102002", "district_id": "110610", "name": "MEUNASAH MANYANG LAM GAROT"}, {"id": "1106102003", "district_id": "110610", "name": "BAKOY"}, {"id": "1106102004", "district_id": "110610", "name": "MEUNASAH BARO"}, {"id": "1106102005", "district_id": "110610", "name": "MEUNASAH DEYAH"}, {"id": "1106102006", "district_id": "110610", "name": "MEUNASAH TUTONG"}, {"id": "1106102007", "district_id": "110610", "name": "SIRON"}, {"id": "1106102008", "district_id": "110610", "name": "PASIE LAMGAROT"}, {"id": "1106102009", "district_id": "110610", "name": "DHAM CEUKOK"}, {"id": "1106102010", "district_id": "110610", "name": "DHAM PULO"}, {"id": "1106102011", "district_id": "110610", "name": "LUBOK SUKON"}, {"id": "1106102012", "district_id": "110610", "name": "LUBOK GAPUY"}, {"id": "1106102013", "district_id": "110610", "name": "PASIE LUBUK"}, {"id": "1106102014", "district_id": "110610", "name": "BUNG CEUKOK"}, {"id": "1106102015", "district_id": "110610", "name": "TEUBANG PHUY"}, {"id": "1106102016", "district_id": "110610", "name": "ATEUK ANGGOK"}, {"id": "1106102017", "district_id": "110610", "name": "AJEE RAYEUK"}, {"id": "1106102018", "district_id": "110610", "name": "AJEE CUT"}, {"id": "1106102019", "district_id": "110610", "name": "GANI"}, {"id": "1106102020", "district_id": "110610", "name": "ATEUK LUENG IE"}, {"id": "1106102021", "district_id": "110610", "name": "COT ALUE"}, {"id": "1106102022", "district_id": "110610", "name": "COT SURUY"}, {"id": "1106102023", "district_id": "110610", "name": "COT BADA"}, {"id": "1106102024", "district_id": "110610", "name": "AJEE PAGAR AIR"}, {"id": "1106102025", "district_id": "110610", "name": "MEUNASAH KRUENG"}, {"id": "1106102026", "district_id": "110610", "name": "JURONG PEUJERA"}, {"id": "1106102027", "district_id": "110610", "name": "LUBOK BATEE"}, {"id": "1106102028", "district_id": "110610", "name": "BINEH BLANG"}, {"id": "1106102029", "district_id": "110610", "name": "PANTEE"}, {"id": "1106102030", "district_id": "110610", "name": "KALUT"}, {"id": "1106102031", "district_id": "110610", "name": "MEUNASAH MANYANG PAGAR AIR"}, {"id": "1106102032", "district_id": "110610", "name": "MEUNASAH MANYET"}, {"id": "1106102033", "district_id": "110610", "name": "SANTAN"}, {"id": "1106102034", "district_id": "110610", "name": "TANJONG"}, {"id": "1106102035", "district_id": "110610", "name": "REULOH"}, {"id": "1106102041", "district_id": "110610", "name": "PALEUH BLANG"}, {"id": "1106102042", "district_id": "110610", "name": "COT MENTIWAN"}, {"id": "1106102043", "district_id": "110610", "name": "LAMPREH LAM JAMPOK"}, {"id": "1106102044", "district_id": "110610", "name": "PALEUH PULO"}, {"id": "1106102045", "district_id": "110610", "name": "LAMCOT"}, {"id": "1106102046", "district_id": "110610", "name": "LAMSINYEU"}, {"id": "1106102047", "district_id": "110610", "name": "LAM UE"}, {"id": "1106102048", "district_id": "110610", "name": "COT GUD"}, {"id": "1106102049", "district_id": "110610", "name": "LAMDAYA"}, {"id": "1106102050", "district_id": "110610", "name": "LAMBADA"}, {"id": "1106102051", "district_id": "110610", "name": "UJONG XII"}, {"id": "1106102052", "district_id": "110610", "name": "BADA"}, {"id": "1106102053", "district_id": "110610", "name": "LAMTEUNGOH"}, {"id": "1106102054", "district_id": "110610", "name": "KAYEE LEE"}, {"id": "1106102056", "district_id": "110610", "name": "LAMPREH LAMTEUNGOH"}]
+[
+  {
+    "id": "1106102001",
+    "district_id": "110610",
+    "name": "LAMBARO"
+  },
+  {
+    "id": "1106102002",
+    "district_id": "110610",
+    "name": "MEUNASAH MANYANG LAM GAROT"
+  },
+  {
+    "id": "1106102003",
+    "district_id": "110610",
+    "name": "BAKOY"
+  },
+  {
+    "id": "1106102004",
+    "district_id": "110610",
+    "name": "MEUNASAH BARO"
+  },
+  {
+    "id": "1106102005",
+    "district_id": "110610",
+    "name": "MEUNASAH DEYAH"
+  },
+  {
+    "id": "1106102006",
+    "district_id": "110610",
+    "name": "MEUNASAH TUTONG"
+  },
+  {
+    "id": "1106102007",
+    "district_id": "110610",
+    "name": "SIRON"
+  },
+  {
+    "id": "1106102008",
+    "district_id": "110610",
+    "name": "PASIE LAMGAROT"
+  },
+  {
+    "id": "1106102009",
+    "district_id": "110610",
+    "name": "DHAM CEUKOK"
+  },
+  {
+    "id": "1106102010",
+    "district_id": "110610",
+    "name": "DHAM PULO"
+  },
+  {
+    "id": "1106102011",
+    "district_id": "110610",
+    "name": "LUBOK SUKON"
+  },
+  {
+    "id": "1106102012",
+    "district_id": "110610",
+    "name": "LUBOK GAPUY"
+  },
+  {
+    "id": "1106102013",
+    "district_id": "110610",
+    "name": "PASIE LUBUK"
+  },
+  {
+    "id": "1106102014",
+    "district_id": "110610",
+    "name": "BUNG CEUKOK"
+  },
+  {
+    "id": "1106102015",
+    "district_id": "110610",
+    "name": "TEUBANG PHUY"
+  },
+  {
+    "id": "1106102016",
+    "district_id": "110610",
+    "name": "ATEUK ANGGOK"
+  },
+  {
+    "id": "1106102017",
+    "district_id": "110610",
+    "name": "AJEE RAYEUK"
+  },
+  {
+    "id": "1106102018",
+    "district_id": "110610",
+    "name": "AJEE CUT"
+  },
+  {
+    "id": "1106102019",
+    "district_id": "110610",
+    "name": "GANI"
+  },
+  {
+    "id": "1106102020",
+    "district_id": "110610",
+    "name": "ATEUK LUENG IE"
+  },
+  {
+    "id": "1106102021",
+    "district_id": "110610",
+    "name": "COT ALUE"
+  },
+  {
+    "id": "1106102022",
+    "district_id": "110610",
+    "name": "COT SURUY"
+  },
+  {
+    "id": "1106102023",
+    "district_id": "110610",
+    "name": "COT BADA"
+  },
+  {
+    "id": "1106102024",
+    "district_id": "110610",
+    "name": "AJEE PAGAR AIR"
+  },
+  {
+    "id": "1106102025",
+    "district_id": "110610",
+    "name": "MEUNASAH KRUENG"
+  },
+  {
+    "id": "1106102026",
+    "district_id": "110610",
+    "name": "JURONG PEUJERA"
+  },
+  {
+    "id": "1106102027",
+    "district_id": "110610",
+    "name": "LUBOK BATEE"
+  },
+  {
+    "id": "1106102028",
+    "district_id": "110610",
+    "name": "BINEH BLANG"
+  },
+  {
+    "id": "1106102029",
+    "district_id": "110610",
+    "name": "PANTEE"
+  },
+  {
+    "id": "1106102030",
+    "district_id": "110610",
+    "name": "KALUT"
+  },
+  {
+    "id": "1106102031",
+    "district_id": "110610",
+    "name": "MEUNASAH MANYANG PAGAR AIR"
+  },
+  {
+    "id": "1106102032",
+    "district_id": "110610",
+    "name": "MEUNASAH MANYET"
+  },
+  {
+    "id": "1106102033",
+    "district_id": "110610",
+    "name": "SANTAN"
+  },
+  {
+    "id": "1106102034",
+    "district_id": "110610",
+    "name": "TANJONG"
+  },
+  {
+    "id": "1106102035",
+    "district_id": "110610",
+    "name": "REULOH"
+  },
+  {
+    "id": "1106102041",
+    "district_id": "110610",
+    "name": "PALEUH BLANG"
+  },
+  {
+    "id": "1106102042",
+    "district_id": "110610",
+    "name": "COT MENTIWAN"
+  },
+  {
+    "id": "1106102043",
+    "district_id": "110610",
+    "name": "LAMPREH LAM JAMPOK"
+  },
+  {
+    "id": "1106102044",
+    "district_id": "110610",
+    "name": "PALEUH PULO"
+  },
+  {
+    "id": "1106102045",
+    "district_id": "110610",
+    "name": "LAMCOT"
+  },
+  {
+    "id": "1106102046",
+    "district_id": "110610",
+    "name": "LAMSINYEU"
+  },
+  {
+    "id": "1106102047",
+    "district_id": "110610",
+    "name": "LAM UE"
+  },
+  {
+    "id": "1106102048",
+    "district_id": "110610",
+    "name": "COT GUD"
+  },
+  {
+    "id": "1106102049",
+    "district_id": "110610",
+    "name": "LAMDAYA"
+  },
+  {
+    "id": "1106102050",
+    "district_id": "110610",
+    "name": "LAMBADA"
+  },
+  {
+    "id": "1106102051",
+    "district_id": "110610",
+    "name": "UJONG XII"
+  },
+  {
+    "id": "1106102052",
+    "district_id": "110610",
+    "name": "BADA"
+  },
+  {
+    "id": "1106102053",
+    "district_id": "110610",
+    "name": "LAMTEUNGOH"
+  },
+  {
+    "id": "1106102054",
+    "district_id": "110610",
+    "name": "KAYEE LEE"
+  },
+  {
+    "id": "1106102056",
+    "district_id": "110610",
+    "name": "LAMPREH LAMTEUNGOH"
+  }
+]

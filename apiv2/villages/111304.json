@@ -1,1 +1,117 @@
-[{"id": "1113042001", "district_id": "111304", "name": "JABO"}, {"id": "1113042002", "district_id": "111304", "name": "KUTESANGE"}, {"id": "1113042003", "district_id": "111304", "name": "PADANG"}, {"id": "1113042006", "district_id": "111304", "name": "RUMPI"}, {"id": "1113042007", "district_id": "111304", "name": "BUKUT"}, {"id": "1113042008", "district_id": "111304", "name": "TERANGUN"}, {"id": "1113042010", "district_id": "111304", "name": "REMPELAM PINANG"}, {"id": "1113042011", "district_id": "111304", "name": "SOYO"}, {"id": "1113042012", "district_id": "111304", "name": "TERLIS"}, {"id": "1113042013", "district_id": "111304", "name": "KUTEREJE"}, {"id": "1113042014", "district_id": "111304", "name": "PERSADA TONGRA"}, {"id": "1113042015", "district_id": "111304", "name": "BERHUT"}, {"id": "1113042016", "district_id": "111304", "name": "GEWAT"}, {"id": "1113042017", "district_id": "111304", "name": "PANTAN LUES"}, {"id": "1113042018", "district_id": "111304", "name": "MAKMUR JAYA"}, {"id": "1113042020", "district_id": "111304", "name": "BLANG KUNCIR"}, {"id": "1113042023", "district_id": "111304", "name": "REJE PUDUNG"}, {"id": "1113042024", "district_id": "111304", "name": "GARUT"}, {"id": "1113042025", "district_id": "111304", "name": "TELEGE JERNIH"}, {"id": "1113042026", "district_id": "111304", "name": "RIME RAYA"}, {"id": "1113042027", "district_id": "111304", "name": "LESTARI"}, {"id": "1113042028", "district_id": "111304", "name": "GAWAR BELANGI"}, {"id": "1113042029", "district_id": "111304", "name": "BLANG KALA"}]
+[
+  {
+    "id": "1113042001",
+    "district_id": "111304",
+    "name": "JABO"
+  },
+  {
+    "id": "1113042002",
+    "district_id": "111304",
+    "name": "KUTESANGE"
+  },
+  {
+    "id": "1113042003",
+    "district_id": "111304",
+    "name": "PADANG"
+  },
+  {
+    "id": "1113042006",
+    "district_id": "111304",
+    "name": "RUMPI"
+  },
+  {
+    "id": "1113042007",
+    "district_id": "111304",
+    "name": "BUKUT"
+  },
+  {
+    "id": "1113042008",
+    "district_id": "111304",
+    "name": "TERANGUN"
+  },
+  {
+    "id": "1113042010",
+    "district_id": "111304",
+    "name": "REMPELAM PINANG"
+  },
+  {
+    "id": "1113042011",
+    "district_id": "111304",
+    "name": "SOYO"
+  },
+  {
+    "id": "1113042012",
+    "district_id": "111304",
+    "name": "TERLIS"
+  },
+  {
+    "id": "1113042013",
+    "district_id": "111304",
+    "name": "KUTEREJE"
+  },
+  {
+    "id": "1113042014",
+    "district_id": "111304",
+    "name": "PERSADA TONGRA"
+  },
+  {
+    "id": "1113042015",
+    "district_id": "111304",
+    "name": "BERHUT"
+  },
+  {
+    "id": "1113042016",
+    "district_id": "111304",
+    "name": "GEWAT"
+  },
+  {
+    "id": "1113042017",
+    "district_id": "111304",
+    "name": "PANTAN LUES"
+  },
+  {
+    "id": "1113042018",
+    "district_id": "111304",
+    "name": "MAKMUR JAYA"
+  },
+  {
+    "id": "1113042020",
+    "district_id": "111304",
+    "name": "BLANG KUNCIR"
+  },
+  {
+    "id": "1113042023",
+    "district_id": "111304",
+    "name": "REJE PUDUNG"
+  },
+  {
+    "id": "1113042024",
+    "district_id": "111304",
+    "name": "GARUT"
+  },
+  {
+    "id": "1113042025",
+    "district_id": "111304",
+    "name": "TELEGE JERNIH"
+  },
+  {
+    "id": "1113042026",
+    "district_id": "111304",
+    "name": "RIME RAYA"
+  },
+  {
+    "id": "1113042027",
+    "district_id": "111304",
+    "name": "LESTARI"
+  },
+  {
+    "id": "1113042028",
+    "district_id": "111304",
+    "name": "GAWAR BELANGI"
+  },
+  {
+    "id": "1113042029",
+    "district_id": "111304",
+    "name": "BLANG KALA"
+  }
+]

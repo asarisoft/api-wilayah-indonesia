@@ -1,1 +1,47 @@
-[{"id": "7308112001", "district_id": "730811", "name": "MAPPESANGKA"}, {"id": "7308112002", "district_id": "730811", "name": "SALEBBA"}, {"id": "7308112003", "district_id": "730811", "name": "MATTAMPAE"}, {"id": "7308112004", "district_id": "730811", "name": "PATTIMPA"}, {"id": "7308112005", "district_id": "730811", "name": "TELLU BOCCOE"}, {"id": "7308112006", "district_id": "730811", "name": "TURU ADAE"}, {"id": "7308112007", "district_id": "730811", "name": "SALAMPE"}, {"id": "7308112008", "district_id": "730811", "name": "POLEONRO"}, {"id": "7308112009", "district_id": "730811", "name": "BOLLI"}]
+[
+  {
+    "id": "7308112001",
+    "district_id": "730811",
+    "name": "MAPPESANGKA"
+  },
+  {
+    "id": "7308112002",
+    "district_id": "730811",
+    "name": "SALEBBA"
+  },
+  {
+    "id": "7308112003",
+    "district_id": "730811",
+    "name": "MATTAMPAE"
+  },
+  {
+    "id": "7308112004",
+    "district_id": "730811",
+    "name": "PATTIMPA"
+  },
+  {
+    "id": "7308112005",
+    "district_id": "730811",
+    "name": "TELLU BOCCOE"
+  },
+  {
+    "id": "7308112006",
+    "district_id": "730811",
+    "name": "TURU ADAE"
+  },
+  {
+    "id": "7308112007",
+    "district_id": "730811",
+    "name": "SALAMPE"
+  },
+  {
+    "id": "7308112008",
+    "district_id": "730811",
+    "name": "POLEONRO"
+  },
+  {
+    "id": "7308112009",
+    "district_id": "730811",
+    "name": "BOLLI"
+  }
+]

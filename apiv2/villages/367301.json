@@ -1,1 +1,62 @@
-[{"id": "3673011001", "district_id": "367301", "name": "SERANG"}, {"id": "3673011002", "district_id": "367301", "name": "CIPARE"}, {"id": "3673011003", "district_id": "367301", "name": "SUMUR PECUNG"}, {"id": "3673011004", "district_id": "367301", "name": "KOTA BARU"}, {"id": "3673011005", "district_id": "367301", "name": "LOPANG"}, {"id": "3673011006", "district_id": "367301", "name": "CIMUNCANG"}, {"id": "3673011007", "district_id": "367301", "name": "UNYUR"}, {"id": "3673011008", "district_id": "367301", "name": "SUKAWANA"}, {"id": "3673011009", "district_id": "367301", "name": "LONTARBARU"}, {"id": "3673011010", "district_id": "367301", "name": "KALIGANDU"}, {"id": "3673011011", "district_id": "367301", "name": "TERONDOL"}, {"id": "3673011012", "district_id": "367301", "name": "KAGUNGAN"}]
+[
+  {
+    "id": "3673011001",
+    "district_id": "367301",
+    "name": "SERANG"
+  },
+  {
+    "id": "3673011002",
+    "district_id": "367301",
+    "name": "CIPARE"
+  },
+  {
+    "id": "3673011003",
+    "district_id": "367301",
+    "name": "SUMUR PECUNG"
+  },
+  {
+    "id": "3673011004",
+    "district_id": "367301",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "3673011005",
+    "district_id": "367301",
+    "name": "LOPANG"
+  },
+  {
+    "id": "3673011006",
+    "district_id": "367301",
+    "name": "CIMUNCANG"
+  },
+  {
+    "id": "3673011007",
+    "district_id": "367301",
+    "name": "UNYUR"
+  },
+  {
+    "id": "3673011008",
+    "district_id": "367301",
+    "name": "SUKAWANA"
+  },
+  {
+    "id": "3673011009",
+    "district_id": "367301",
+    "name": "LONTARBARU"
+  },
+  {
+    "id": "3673011010",
+    "district_id": "367301",
+    "name": "KALIGANDU"
+  },
+  {
+    "id": "3673011011",
+    "district_id": "367301",
+    "name": "TERONDOL"
+  },
+  {
+    "id": "3673011012",
+    "district_id": "367301",
+    "name": "KAGUNGAN"
+  }
+]

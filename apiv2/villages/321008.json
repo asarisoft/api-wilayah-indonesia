@@ -1,1 +1,67 @@
-[{"id": "3210082001", "district_id": "321008", "name": "CIOMAS"}, {"id": "3210082002", "district_id": "321008", "name": "PADAHANTEN"}, {"id": "3210082009", "district_id": "321008", "name": "SUKAHAJI"}, {"id": "3210082010", "district_id": "321008", "name": "SALAGEDANG"}, {"id": "3210082011", "district_id": "321008", "name": "CIKEUSIK"}, {"id": "3210082012", "district_id": "321008", "name": "JAYI"}, {"id": "3210082013", "district_id": "321008", "name": "NANGGEWER"}, {"id": "3210082014", "district_id": "321008", "name": "PALABUAN"}, {"id": "3210082015", "district_id": "321008", "name": "CIKONENG"}, {"id": "3210082016", "district_id": "321008", "name": "BABAKANMANJETI"}, {"id": "3210082017", "district_id": "321008", "name": "TANJUNGSARI"}, {"id": "3210082018", "district_id": "321008", "name": "CIKALONG"}, {"id": "3210082019", "district_id": "321008", "name": "CANDRAJAYA"}]
+[
+  {
+    "id": "3210082001",
+    "district_id": "321008",
+    "name": "CIOMAS"
+  },
+  {
+    "id": "3210082002",
+    "district_id": "321008",
+    "name": "PADAHANTEN"
+  },
+  {
+    "id": "3210082009",
+    "district_id": "321008",
+    "name": "SUKAHAJI"
+  },
+  {
+    "id": "3210082010",
+    "district_id": "321008",
+    "name": "SALAGEDANG"
+  },
+  {
+    "id": "3210082011",
+    "district_id": "321008",
+    "name": "CIKEUSIK"
+  },
+  {
+    "id": "3210082012",
+    "district_id": "321008",
+    "name": "JAYI"
+  },
+  {
+    "id": "3210082013",
+    "district_id": "321008",
+    "name": "NANGGEWER"
+  },
+  {
+    "id": "3210082014",
+    "district_id": "321008",
+    "name": "PALABUAN"
+  },
+  {
+    "id": "3210082015",
+    "district_id": "321008",
+    "name": "CIKONENG"
+  },
+  {
+    "id": "3210082016",
+    "district_id": "321008",
+    "name": "BABAKANMANJETI"
+  },
+  {
+    "id": "3210082017",
+    "district_id": "321008",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3210082018",
+    "district_id": "321008",
+    "name": "CIKALONG"
+  },
+  {
+    "id": "3210082019",
+    "district_id": "321008",
+    "name": "CANDRAJAYA"
+  }
+]

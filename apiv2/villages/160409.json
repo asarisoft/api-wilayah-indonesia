@@ -1,1 +1,97 @@
-[{"id": "1604092010", "district_id": "160409", "name": "SUKA CINTA"}, {"id": "1604092011", "district_id": "160409", "name": "GUNUNG AGUNG"}, {"id": "1604092012", "district_id": "160409", "name": "TANJUNG PINANG"}, {"id": "1604092013", "district_id": "160409", "name": "SUKA MARGA"}, {"id": "1604092014", "district_id": "160409", "name": "PAYO"}, {"id": "1604092015", "district_id": "160409", "name": "KARANG ENDAH"}, {"id": "1604092016", "district_id": "160409", "name": "TANJUNG TELANG"}, {"id": "1604092017", "district_id": "160409", "name": "LUBUK KEPAYANG"}, {"id": "1604092018", "district_id": "160409", "name": "MUARA TEMIANG"}, {"id": "1604092019", "district_id": "160409", "name": "ULAK PANDAN"}, {"id": "1604092020", "district_id": "160409", "name": "NEGERI AGUNG"}, {"id": "1604092021", "district_id": "160409", "name": "LEBAK BUDI"}, {"id": "1604092022", "district_id": "160409", "name": "TANJUNG BARU"}, {"id": "1604092023", "district_id": "160409", "name": "KEBUR"}, {"id": "1604092024", "district_id": "160409", "name": "TELATANG"}, {"id": "1604092025", "district_id": "160409", "name": "MUARA MAUNG"}, {"id": "1604092026", "district_id": "160409", "name": "MERAPI"}, {"id": "1604092040", "district_id": "160409", "name": "PURWOSARI"}, {"id": "1604092041", "district_id": "160409", "name": "KARANG REJO"}]
+[
+  {
+    "id": "1604092010",
+    "district_id": "160409",
+    "name": "SUKA CINTA"
+  },
+  {
+    "id": "1604092011",
+    "district_id": "160409",
+    "name": "GUNUNG AGUNG"
+  },
+  {
+    "id": "1604092012",
+    "district_id": "160409",
+    "name": "TANJUNG PINANG"
+  },
+  {
+    "id": "1604092013",
+    "district_id": "160409",
+    "name": "SUKA MARGA"
+  },
+  {
+    "id": "1604092014",
+    "district_id": "160409",
+    "name": "PAYO"
+  },
+  {
+    "id": "1604092015",
+    "district_id": "160409",
+    "name": "KARANG ENDAH"
+  },
+  {
+    "id": "1604092016",
+    "district_id": "160409",
+    "name": "TANJUNG TELANG"
+  },
+  {
+    "id": "1604092017",
+    "district_id": "160409",
+    "name": "LUBUK KEPAYANG"
+  },
+  {
+    "id": "1604092018",
+    "district_id": "160409",
+    "name": "MUARA TEMIANG"
+  },
+  {
+    "id": "1604092019",
+    "district_id": "160409",
+    "name": "ULAK PANDAN"
+  },
+  {
+    "id": "1604092020",
+    "district_id": "160409",
+    "name": "NEGERI AGUNG"
+  },
+  {
+    "id": "1604092021",
+    "district_id": "160409",
+    "name": "LEBAK BUDI"
+  },
+  {
+    "id": "1604092022",
+    "district_id": "160409",
+    "name": "TANJUNG BARU"
+  },
+  {
+    "id": "1604092023",
+    "district_id": "160409",
+    "name": "KEBUR"
+  },
+  {
+    "id": "1604092024",
+    "district_id": "160409",
+    "name": "TELATANG"
+  },
+  {
+    "id": "1604092025",
+    "district_id": "160409",
+    "name": "MUARA MAUNG"
+  },
+  {
+    "id": "1604092026",
+    "district_id": "160409",
+    "name": "MERAPI"
+  },
+  {
+    "id": "1604092040",
+    "district_id": "160409",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "1604092041",
+    "district_id": "160409",
+    "name": "KARANG REJO"
+  }
+]

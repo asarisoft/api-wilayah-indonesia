@@ -1,1 +1,82 @@
-[{"id": "7411011002", "district_id": "741101", "name": "RATE-RATE"}, {"id": "7411011016", "district_id": "741101", "name": "TABABU"}, {"id": "7411012001", "district_id": "741101", "name": "SIMBUNE"}, {"id": "7411012003", "district_id": "741101", "name": "PONI-PONIKI"}, {"id": "7411012004", "district_id": "741101", "name": "TAWAINALU"}, {"id": "7411012005", "district_id": "741101", "name": "WOIHA"}, {"id": "7411012006", "district_id": "741101", "name": "TASAHEA"}, {"id": "7411012007", "district_id": "741101", "name": "LARA"}, {"id": "7411012008", "district_id": "741101", "name": "TUMBUDADIO"}, {"id": "7411012009", "district_id": "741101", "name": "ORAWA"}, {"id": "7411012010", "district_id": "741101", "name": "LALINGATO"}, {"id": "7411012011", "district_id": "741101", "name": "TIRAWUTA"}, {"id": "7411012012", "district_id": "741101", "name": "ROKO-ROKO"}, {"id": "7411012013", "district_id": "741101", "name": "LOKA"}, {"id": "7411012014", "district_id": "741101", "name": "MATABONDU"}, {"id": "7411012015", "district_id": "741101", "name": "KAREMOTINGGE"}]
+[
+  {
+    "id": "7411011002",
+    "district_id": "741101",
+    "name": "RATE-RATE"
+  },
+  {
+    "id": "7411011016",
+    "district_id": "741101",
+    "name": "TABABU"
+  },
+  {
+    "id": "7411012001",
+    "district_id": "741101",
+    "name": "SIMBUNE"
+  },
+  {
+    "id": "7411012003",
+    "district_id": "741101",
+    "name": "PONI-PONIKI"
+  },
+  {
+    "id": "7411012004",
+    "district_id": "741101",
+    "name": "TAWAINALU"
+  },
+  {
+    "id": "7411012005",
+    "district_id": "741101",
+    "name": "WOIHA"
+  },
+  {
+    "id": "7411012006",
+    "district_id": "741101",
+    "name": "TASAHEA"
+  },
+  {
+    "id": "7411012007",
+    "district_id": "741101",
+    "name": "LARA"
+  },
+  {
+    "id": "7411012008",
+    "district_id": "741101",
+    "name": "TUMBUDADIO"
+  },
+  {
+    "id": "7411012009",
+    "district_id": "741101",
+    "name": "ORAWA"
+  },
+  {
+    "id": "7411012010",
+    "district_id": "741101",
+    "name": "LALINGATO"
+  },
+  {
+    "id": "7411012011",
+    "district_id": "741101",
+    "name": "TIRAWUTA"
+  },
+  {
+    "id": "7411012012",
+    "district_id": "741101",
+    "name": "ROKO-ROKO"
+  },
+  {
+    "id": "7411012013",
+    "district_id": "741101",
+    "name": "LOKA"
+  },
+  {
+    "id": "7411012014",
+    "district_id": "741101",
+    "name": "MATABONDU"
+  },
+  {
+    "id": "7411012015",
+    "district_id": "741101",
+    "name": "KAREMOTINGGE"
+  }
+]

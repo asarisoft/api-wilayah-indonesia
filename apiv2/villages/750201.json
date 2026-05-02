@@ -1,1 +1,112 @@
-[{"id": "7502012004", "district_id": "750201", "name": "BONGO NOL"}, {"id": "7502012005", "district_id": "750201", "name": "BONGO IV"}, {"id": "7502012006", "district_id": "750201", "name": "MOLOMBULAHE"}, {"id": "7502012007", "district_id": "750201", "name": "MUTIARA"}, {"id": "7502012008", "district_id": "750201", "name": "SARIPI"}, {"id": "7502012009", "district_id": "750201", "name": "WONGGAHU"}, {"id": "7502012010", "district_id": "750201", "name": "TANGKOBU"}, {"id": "7502012011", "district_id": "750201", "name": "BONGO TUA"}, {"id": "7502012012", "district_id": "750201", "name": "KUALA LUMPUR"}, {"id": "7502012013", "district_id": "750201", "name": "MUSTIKA"}, {"id": "7502012014", "district_id": "750201", "name": "TENILO"}, {"id": "7502012015", "district_id": "750201", "name": "HUWONGO"}, {"id": "7502012016", "district_id": "750201", "name": "KARYA MURNI"}, {"id": "7502012019", "district_id": "750201", "name": "GIRISA"}, {"id": "7502012020", "district_id": "750201", "name": "BATU KRAMAT"}, {"id": "7502012021", "district_id": "750201", "name": "BUALO"}, {"id": "7502012022", "district_id": "750201", "name": "SOSIAL"}, {"id": "7502012023", "district_id": "750201", "name": "PERMATA"}, {"id": "7502012024", "district_id": "750201", "name": "HULAWA"}, {"id": "7502012025", "district_id": "750201", "name": "BALATE JAYA"}, {"id": "7502012026", "district_id": "750201", "name": "REJONEGORO"}, {"id": "7502012027", "district_id": "750201", "name": "DILOATO"}]
+[
+  {
+    "id": "7502012004",
+    "district_id": "750201",
+    "name": "BONGO NOL"
+  },
+  {
+    "id": "7502012005",
+    "district_id": "750201",
+    "name": "BONGO IV"
+  },
+  {
+    "id": "7502012006",
+    "district_id": "750201",
+    "name": "MOLOMBULAHE"
+  },
+  {
+    "id": "7502012007",
+    "district_id": "750201",
+    "name": "MUTIARA"
+  },
+  {
+    "id": "7502012008",
+    "district_id": "750201",
+    "name": "SARIPI"
+  },
+  {
+    "id": "7502012009",
+    "district_id": "750201",
+    "name": "WONGGAHU"
+  },
+  {
+    "id": "7502012010",
+    "district_id": "750201",
+    "name": "TANGKOBU"
+  },
+  {
+    "id": "7502012011",
+    "district_id": "750201",
+    "name": "BONGO TUA"
+  },
+  {
+    "id": "7502012012",
+    "district_id": "750201",
+    "name": "KUALA LUMPUR"
+  },
+  {
+    "id": "7502012013",
+    "district_id": "750201",
+    "name": "MUSTIKA"
+  },
+  {
+    "id": "7502012014",
+    "district_id": "750201",
+    "name": "TENILO"
+  },
+  {
+    "id": "7502012015",
+    "district_id": "750201",
+    "name": "HUWONGO"
+  },
+  {
+    "id": "7502012016",
+    "district_id": "750201",
+    "name": "KARYA MURNI"
+  },
+  {
+    "id": "7502012019",
+    "district_id": "750201",
+    "name": "GIRISA"
+  },
+  {
+    "id": "7502012020",
+    "district_id": "750201",
+    "name": "BATU KRAMAT"
+  },
+  {
+    "id": "7502012021",
+    "district_id": "750201",
+    "name": "BUALO"
+  },
+  {
+    "id": "7502012022",
+    "district_id": "750201",
+    "name": "SOSIAL"
+  },
+  {
+    "id": "7502012023",
+    "district_id": "750201",
+    "name": "PERMATA"
+  },
+  {
+    "id": "7502012024",
+    "district_id": "750201",
+    "name": "HULAWA"
+  },
+  {
+    "id": "7502012025",
+    "district_id": "750201",
+    "name": "BALATE JAYA"
+  },
+  {
+    "id": "7502012026",
+    "district_id": "750201",
+    "name": "REJONEGORO"
+  },
+  {
+    "id": "7502012027",
+    "district_id": "750201",
+    "name": "DILOATO"
+  }
+]

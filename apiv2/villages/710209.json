@@ -1,1 +1,42 @@
-[{"id": "7102092004", "district_id": "710209", "name": "WOLAANG"}, {"id": "7102092005", "district_id": "710209", "name": "TEEP"}, {"id": "7102092006", "district_id": "710209", "name": "KARONDORAN"}, {"id": "7102092007", "district_id": "710209", "name": "WALEURE"}, {"id": "7102092008", "district_id": "710209", "name": "AMONGENA I"}, {"id": "7102092009", "district_id": "710209", "name": "AMONGENA II"}, {"id": "7102092010", "district_id": "710209", "name": "SUMARAYAR"}, {"id": "7102092018", "district_id": "710209", "name": "AMONGENA III"}]
+[
+  {
+    "id": "7102092004",
+    "district_id": "710209",
+    "name": "WOLAANG"
+  },
+  {
+    "id": "7102092005",
+    "district_id": "710209",
+    "name": "TEEP"
+  },
+  {
+    "id": "7102092006",
+    "district_id": "710209",
+    "name": "KARONDORAN"
+  },
+  {
+    "id": "7102092007",
+    "district_id": "710209",
+    "name": "WALEURE"
+  },
+  {
+    "id": "7102092008",
+    "district_id": "710209",
+    "name": "AMONGENA I"
+  },
+  {
+    "id": "7102092009",
+    "district_id": "710209",
+    "name": "AMONGENA II"
+  },
+  {
+    "id": "7102092010",
+    "district_id": "710209",
+    "name": "SUMARAYAR"
+  },
+  {
+    "id": "7102092018",
+    "district_id": "710209",
+    "name": "AMONGENA III"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "1706042001", "district_id": "170604", "name": "AIR BIKUK"}, {"id": "1706042004", "district_id": "170604", "name": "TUNGGANG"}, {"id": "1706042005", "district_id": "170604", "name": "PONDOK SUGUH"}, {"id": "1706042006", "district_id": "170604", "name": "AIR BERAU"}, {"id": "1706042010", "district_id": "170604", "name": "AIR HITAM"}, {"id": "1706042014", "district_id": "170604", "name": "PONDOK KANDANG"}, {"id": "1706042022", "district_id": "170604", "name": "BUMI MEKAR JAYA"}, {"id": "1706042027", "district_id": "170604", "name": "LUBUK BENTO"}, {"id": "1706042029", "district_id": "170604", "name": "SINAR LAUT"}, {"id": "1706042030", "district_id": "170604", "name": "KARYA MULYA"}, {"id": "1706042031", "district_id": "170604", "name": "TELUK BAKUNG"}]
+[
+  {
+    "id": "1706042001",
+    "district_id": "170604",
+    "name": "AIR BIKUK"
+  },
+  {
+    "id": "1706042004",
+    "district_id": "170604",
+    "name": "TUNGGANG"
+  },
+  {
+    "id": "1706042005",
+    "district_id": "170604",
+    "name": "PONDOK SUGUH"
+  },
+  {
+    "id": "1706042006",
+    "district_id": "170604",
+    "name": "AIR BERAU"
+  },
+  {
+    "id": "1706042010",
+    "district_id": "170604",
+    "name": "AIR HITAM"
+  },
+  {
+    "id": "1706042014",
+    "district_id": "170604",
+    "name": "PONDOK KANDANG"
+  },
+  {
+    "id": "1706042022",
+    "district_id": "170604",
+    "name": "BUMI MEKAR JAYA"
+  },
+  {
+    "id": "1706042027",
+    "district_id": "170604",
+    "name": "LUBUK BENTO"
+  },
+  {
+    "id": "1706042029",
+    "district_id": "170604",
+    "name": "SINAR LAUT"
+  },
+  {
+    "id": "1706042030",
+    "district_id": "170604",
+    "name": "KARYA MULYA"
+  },
+  {
+    "id": "1706042031",
+    "district_id": "170604",
+    "name": "TELUK BAKUNG"
+  }
+]

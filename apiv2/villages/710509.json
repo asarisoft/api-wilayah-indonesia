@@ -1,1 +1,92 @@
-[{"id": "7105092001", "district_id": "710509", "name": "BOYONG ATAS"}, {"id": "7105092002", "district_id": "710509", "name": "PAKU URE II"}, {"id": "7105092003", "district_id": "710509", "name": "TENGA"}, {"id": "7105092004", "district_id": "710509", "name": "RADEY"}, {"id": "7105092005", "district_id": "710509", "name": "TAWAANG"}, {"id": "7105092009", "district_id": "710509", "name": "PAKUWERU"}, {"id": "7105092010", "district_id": "710509", "name": "SAPA"}, {"id": "7105092011", "district_id": "710509", "name": "PAKUURE SATU"}, {"id": "7105092012", "district_id": "710509", "name": "PAKUURE TIGA"}, {"id": "7105092014", "district_id": "710509", "name": "MOLINOW"}, {"id": "7105092015", "district_id": "710509", "name": "PAKU URE"}, {"id": "7105092016", "district_id": "710509", "name": "PAKU URE TINANIAN"}, {"id": "7105092017", "district_id": "710509", "name": "PAKU URE KINAMANG"}, {"id": "7105092018", "district_id": "710509", "name": "PAKUWERU UTARA"}, {"id": "7105092019", "district_id": "710509", "name": "SAPA BARAT"}, {"id": "7105092020", "district_id": "710509", "name": "SAPA TIMUR"}, {"id": "7105092021", "district_id": "710509", "name": "TAWAANG TIMUR"}, {"id": "7105092022", "district_id": "710509", "name": "TAWAANG BARAT"}]
+[
+  {
+    "id": "7105092001",
+    "district_id": "710509",
+    "name": "BOYONG ATAS"
+  },
+  {
+    "id": "7105092002",
+    "district_id": "710509",
+    "name": "PAKU URE II"
+  },
+  {
+    "id": "7105092003",
+    "district_id": "710509",
+    "name": "TENGA"
+  },
+  {
+    "id": "7105092004",
+    "district_id": "710509",
+    "name": "RADEY"
+  },
+  {
+    "id": "7105092005",
+    "district_id": "710509",
+    "name": "TAWAANG"
+  },
+  {
+    "id": "7105092009",
+    "district_id": "710509",
+    "name": "PAKUWERU"
+  },
+  {
+    "id": "7105092010",
+    "district_id": "710509",
+    "name": "SAPA"
+  },
+  {
+    "id": "7105092011",
+    "district_id": "710509",
+    "name": "PAKUURE SATU"
+  },
+  {
+    "id": "7105092012",
+    "district_id": "710509",
+    "name": "PAKUURE TIGA"
+  },
+  {
+    "id": "7105092014",
+    "district_id": "710509",
+    "name": "MOLINOW"
+  },
+  {
+    "id": "7105092015",
+    "district_id": "710509",
+    "name": "PAKU URE"
+  },
+  {
+    "id": "7105092016",
+    "district_id": "710509",
+    "name": "PAKU URE TINANIAN"
+  },
+  {
+    "id": "7105092017",
+    "district_id": "710509",
+    "name": "PAKU URE KINAMANG"
+  },
+  {
+    "id": "7105092018",
+    "district_id": "710509",
+    "name": "PAKUWERU UTARA"
+  },
+  {
+    "id": "7105092019",
+    "district_id": "710509",
+    "name": "SAPA BARAT"
+  },
+  {
+    "id": "7105092020",
+    "district_id": "710509",
+    "name": "SAPA TIMUR"
+  },
+  {
+    "id": "7105092021",
+    "district_id": "710509",
+    "name": "TAWAANG TIMUR"
+  },
+  {
+    "id": "7105092022",
+    "district_id": "710509",
+    "name": "TAWAANG BARAT"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "9601051001", "district_id": "960105", "name": "AIMAS"}, {"id": "9601051002", "district_id": "960105", "name": "MALAWILI"}, {"id": "9601051003", "district_id": "960105", "name": "MALAWELE"}, {"id": "9601051004", "district_id": "960105", "name": "MARIAT PANTAI"}, {"id": "9601051005", "district_id": "960105", "name": "MARIAT GUNUNG"}, {"id": "9601051007", "district_id": "960105", "name": "WARMON"}, {"id": "9601051008", "district_id": "960105", "name": "KLABINAIN"}, {"id": "9601051009", "district_id": "960105", "name": "MALASOM"}, {"id": "9601051010", "district_id": "960105", "name": "KLAIGIT"}, {"id": "9601051012", "district_id": "960105", "name": "MALAGUSA"}, {"id": "9601051013", "district_id": "960105", "name": "KLAFMA"}, {"id": "9601052006", "district_id": "960105", "name": "MAIBO"}, {"id": "9601052011", "district_id": "960105", "name": "AIMO"}, {"id": "9601052014", "district_id": "960105", "name": "MALASAUM"}]
+[
+  {
+    "id": "9601051001",
+    "district_id": "960105",
+    "name": "AIMAS"
+  },
+  {
+    "id": "9601051002",
+    "district_id": "960105",
+    "name": "MALAWILI"
+  },
+  {
+    "id": "9601051003",
+    "district_id": "960105",
+    "name": "MALAWELE"
+  },
+  {
+    "id": "9601051004",
+    "district_id": "960105",
+    "name": "MARIAT PANTAI"
+  },
+  {
+    "id": "9601051005",
+    "district_id": "960105",
+    "name": "MARIAT GUNUNG"
+  },
+  {
+    "id": "9601051007",
+    "district_id": "960105",
+    "name": "WARMON"
+  },
+  {
+    "id": "9601051008",
+    "district_id": "960105",
+    "name": "KLABINAIN"
+  },
+  {
+    "id": "9601051009",
+    "district_id": "960105",
+    "name": "MALASOM"
+  },
+  {
+    "id": "9601051010",
+    "district_id": "960105",
+    "name": "KLAIGIT"
+  },
+  {
+    "id": "9601051012",
+    "district_id": "960105",
+    "name": "MALAGUSA"
+  },
+  {
+    "id": "9601051013",
+    "district_id": "960105",
+    "name": "KLAFMA"
+  },
+  {
+    "id": "9601052006",
+    "district_id": "960105",
+    "name": "MAIBO"
+  },
+  {
+    "id": "9601052011",
+    "district_id": "960105",
+    "name": "AIMO"
+  },
+  {
+    "id": "9601052014",
+    "district_id": "960105",
+    "name": "MALASAUM"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "1609152001", "district_id": "160915", "name": "PULAU KEMUNING"}, {"id": "1609152002", "district_id": "160915", "name": "GUNTUNG JAYA"}, {"id": "1609152003", "district_id": "160915", "name": "TANAH PILIH"}, {"id": "1609152004", "district_id": "160915", "name": "UJAN MAS"}, {"id": "1609152005", "district_id": "160915", "name": "PECAH PINGGAN"}, {"id": "1609152006", "district_id": "160915", "name": "CUKOH NAU"}, {"id": "1609152007", "district_id": "160915", "name": "SIMPANG LUAS"}, {"id": "1609152008", "district_id": "160915", "name": "SEDAU JAYA"}, {"id": "1609152009", "district_id": "160915", "name": "SEBAJA"}]
+[
+  {
+    "id": "1609152001",
+    "district_id": "160915",
+    "name": "PULAU KEMUNING"
+  },
+  {
+    "id": "1609152002",
+    "district_id": "160915",
+    "name": "GUNTUNG JAYA"
+  },
+  {
+    "id": "1609152003",
+    "district_id": "160915",
+    "name": "TANAH PILIH"
+  },
+  {
+    "id": "1609152004",
+    "district_id": "160915",
+    "name": "UJAN MAS"
+  },
+  {
+    "id": "1609152005",
+    "district_id": "160915",
+    "name": "PECAH PINGGAN"
+  },
+  {
+    "id": "1609152006",
+    "district_id": "160915",
+    "name": "CUKOH NAU"
+  },
+  {
+    "id": "1609152007",
+    "district_id": "160915",
+    "name": "SIMPANG LUAS"
+  },
+  {
+    "id": "1609152008",
+    "district_id": "160915",
+    "name": "SEDAU JAYA"
+  },
+  {
+    "id": "1609152009",
+    "district_id": "160915",
+    "name": "SEBAJA"
+  }
+]

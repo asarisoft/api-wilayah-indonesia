@@ -1,1 +1,52 @@
-[{"id": "9605202001", "district_id": "960520", "name": "FIANE"}, {"id": "9605202002", "district_id": "960520", "name": "KARTAPURA"}, {"id": "9605202003", "district_id": "960520", "name": "MEN"}, {"id": "9605202004", "district_id": "960520", "name": "SEMU"}, {"id": "9605202005", "district_id": "960520", "name": "ISME"}, {"id": "9605202006", "district_id": "960520", "name": "RINDU"}, {"id": "9605202007", "district_id": "960520", "name": "TUT"}, {"id": "9605202008", "district_id": "960520", "name": "YOHWER"}, {"id": "9605202009", "district_id": "960520", "name": "HUFIOH"}, {"id": "9605202010", "district_id": "960520", "name": "BAWY"}]
+[
+  {
+    "id": "9605202001",
+    "district_id": "960520",
+    "name": "FIANE"
+  },
+  {
+    "id": "9605202002",
+    "district_id": "960520",
+    "name": "KARTAPURA"
+  },
+  {
+    "id": "9605202003",
+    "district_id": "960520",
+    "name": "MEN"
+  },
+  {
+    "id": "9605202004",
+    "district_id": "960520",
+    "name": "SEMU"
+  },
+  {
+    "id": "9605202005",
+    "district_id": "960520",
+    "name": "ISME"
+  },
+  {
+    "id": "9605202006",
+    "district_id": "960520",
+    "name": "RINDU"
+  },
+  {
+    "id": "9605202007",
+    "district_id": "960520",
+    "name": "TUT"
+  },
+  {
+    "id": "9605202008",
+    "district_id": "960520",
+    "name": "YOHWER"
+  },
+  {
+    "id": "9605202009",
+    "district_id": "960520",
+    "name": "HUFIOH"
+  },
+  {
+    "id": "9605202010",
+    "district_id": "960520",
+    "name": "BAWY"
+  }
+]

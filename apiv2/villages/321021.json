@@ -1,1 +1,52 @@
-[{"id": "3210212001", "district_id": "321021", "name": "BANTARAGUNG"}, {"id": "3210212002", "district_id": "321021", "name": "PADAHERANG"}, {"id": "3210212003", "district_id": "321021", "name": "LENGKONG KULON"}, {"id": "3210212004", "district_id": "321021", "name": "JERUKLEUEUT"}, {"id": "3210212005", "district_id": "321021", "name": "SINDANGWANGI"}, {"id": "3210212006", "district_id": "321021", "name": "BUAHKAPAS"}, {"id": "3210212007", "district_id": "321021", "name": "UJUNGBERUNG"}, {"id": "3210212008", "district_id": "321021", "name": "BALAGEDOG"}, {"id": "3210212009", "district_id": "321021", "name": "LEUWILAJA"}, {"id": "3210212010", "district_id": "321021", "name": "LENGKONG WETAN"}]
+[
+  {
+    "id": "3210212001",
+    "district_id": "321021",
+    "name": "BANTARAGUNG"
+  },
+  {
+    "id": "3210212002",
+    "district_id": "321021",
+    "name": "PADAHERANG"
+  },
+  {
+    "id": "3210212003",
+    "district_id": "321021",
+    "name": "LENGKONG KULON"
+  },
+  {
+    "id": "3210212004",
+    "district_id": "321021",
+    "name": "JERUKLEUEUT"
+  },
+  {
+    "id": "3210212005",
+    "district_id": "321021",
+    "name": "SINDANGWANGI"
+  },
+  {
+    "id": "3210212006",
+    "district_id": "321021",
+    "name": "BUAHKAPAS"
+  },
+  {
+    "id": "3210212007",
+    "district_id": "321021",
+    "name": "UJUNGBERUNG"
+  },
+  {
+    "id": "3210212008",
+    "district_id": "321021",
+    "name": "BALAGEDOG"
+  },
+  {
+    "id": "3210212009",
+    "district_id": "321021",
+    "name": "LEUWILAJA"
+  },
+  {
+    "id": "3210212010",
+    "district_id": "321021",
+    "name": "LENGKONG WETAN"
+  }
+]

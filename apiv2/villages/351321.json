@@ -1,1 +1,67 @@
-[{"id": "3513212001", "district_id": "351321", "name": "SUMBERBENDO"}, {"id": "3513212002", "district_id": "351321", "name": "JANGUR"}, {"id": "3513212003", "district_id": "351321", "name": "MUNENG"}, {"id": "3513212004", "district_id": "351321", "name": "MUNENG KIDUL"}, {"id": "3513212005", "district_id": "351321", "name": "POHSANGIT LERES"}, {"id": "3513212006", "district_id": "351321", "name": "LAWEYAN"}, {"id": "3513212007", "district_id": "351321", "name": "SUMURMATI"}, {"id": "3513212008", "district_id": "351321", "name": "MENTOR"}, {"id": "3513212009", "district_id": "351321", "name": "AMBULU"}, {"id": "3513212010", "district_id": "351321", "name": "BANJARSARI"}, {"id": "3513212011", "district_id": "351321", "name": "LEMAH KEMBAR"}, {"id": "3513212012", "district_id": "351321", "name": "PESISIR"}, {"id": "3513212013", "district_id": "351321", "name": "GILI KETAPANG"}]
+[
+  {
+    "id": "3513212001",
+    "district_id": "351321",
+    "name": "SUMBERBENDO"
+  },
+  {
+    "id": "3513212002",
+    "district_id": "351321",
+    "name": "JANGUR"
+  },
+  {
+    "id": "3513212003",
+    "district_id": "351321",
+    "name": "MUNENG"
+  },
+  {
+    "id": "3513212004",
+    "district_id": "351321",
+    "name": "MUNENG KIDUL"
+  },
+  {
+    "id": "3513212005",
+    "district_id": "351321",
+    "name": "POHSANGIT LERES"
+  },
+  {
+    "id": "3513212006",
+    "district_id": "351321",
+    "name": "LAWEYAN"
+  },
+  {
+    "id": "3513212007",
+    "district_id": "351321",
+    "name": "SUMURMATI"
+  },
+  {
+    "id": "3513212008",
+    "district_id": "351321",
+    "name": "MENTOR"
+  },
+  {
+    "id": "3513212009",
+    "district_id": "351321",
+    "name": "AMBULU"
+  },
+  {
+    "id": "3513212010",
+    "district_id": "351321",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3513212011",
+    "district_id": "351321",
+    "name": "LEMAH KEMBAR"
+  },
+  {
+    "id": "3513212012",
+    "district_id": "351321",
+    "name": "PESISIR"
+  },
+  {
+    "id": "3513212013",
+    "district_id": "351321",
+    "name": "GILI KETAPANG"
+  }
+]

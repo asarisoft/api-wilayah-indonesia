@@ -1,1 +1,42 @@
-[{"id": "3214072001", "district_id": "321407", "name": "GUNUNGKARUNG"}, {"id": "3214072002", "district_id": "321407", "name": "CITAMIANG"}, {"id": "3214072003", "district_id": "321407", "name": "SINARGALIH"}, {"id": "3214072004", "district_id": "321407", "name": "TEGALDATAR"}, {"id": "3214072005", "district_id": "321407", "name": "CIJATI"}, {"id": "3214072006", "district_id": "321407", "name": "CIRAMAHILIR"}, {"id": "3214072007", "district_id": "321407", "name": "SUKAMUKTI"}, {"id": "3214072008", "district_id": "321407", "name": "PASIRJAMBU"}]
+[
+  {
+    "id": "3214072001",
+    "district_id": "321407",
+    "name": "GUNUNGKARUNG"
+  },
+  {
+    "id": "3214072002",
+    "district_id": "321407",
+    "name": "CITAMIANG"
+  },
+  {
+    "id": "3214072003",
+    "district_id": "321407",
+    "name": "SINARGALIH"
+  },
+  {
+    "id": "3214072004",
+    "district_id": "321407",
+    "name": "TEGALDATAR"
+  },
+  {
+    "id": "3214072005",
+    "district_id": "321407",
+    "name": "CIJATI"
+  },
+  {
+    "id": "3214072006",
+    "district_id": "321407",
+    "name": "CIRAMAHILIR"
+  },
+  {
+    "id": "3214072007",
+    "district_id": "321407",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "3214072008",
+    "district_id": "321407",
+    "name": "PASIRJAMBU"
+  }
+]

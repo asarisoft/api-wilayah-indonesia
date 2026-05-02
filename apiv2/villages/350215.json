@@ -1,1 +1,92 @@
-[{"id": "3502152001", "district_id": "350215", "name": "SUKOREJO"}, {"id": "3502152002", "district_id": "350215", "name": "BANGUNREJO"}, {"id": "3502152003", "district_id": "350215", "name": "SIDOREJO"}, {"id": "3502152004", "district_id": "350215", "name": "NAMBANGREJO"}, {"id": "3502152005", "district_id": "350215", "name": "LENGKONG"}, {"id": "3502152006", "district_id": "350215", "name": "GELANG LOR"}, {"id": "3502152007", "district_id": "350215", "name": "SERANGAN"}, {"id": "3502152008", "district_id": "350215", "name": "NAMPAN"}, {"id": "3502152009", "district_id": "350215", "name": "KRANGGAN"}, {"id": "3502152010", "district_id": "350215", "name": "GOLAN"}, {"id": "3502152011", "district_id": "350215", "name": "PRAJEGAN"}, {"id": "3502152012", "district_id": "350215", "name": "KEDUNGBANTENG"}, {"id": "3502152013", "district_id": "350215", "name": "KARANGLO LOR"}, {"id": "3502152014", "district_id": "350215", "name": "GEGERAN"}, {"id": "3502152015", "district_id": "350215", "name": "GANDUKEPUH"}, {"id": "3502152016", "district_id": "350215", "name": "KALIMALANG"}, {"id": "3502152017", "district_id": "350215", "name": "SRAGI"}, {"id": "3502152018", "district_id": "350215", "name": "MOROSARI"}]
+[
+  {
+    "id": "3502152001",
+    "district_id": "350215",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3502152002",
+    "district_id": "350215",
+    "name": "BANGUNREJO"
+  },
+  {
+    "id": "3502152003",
+    "district_id": "350215",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "3502152004",
+    "district_id": "350215",
+    "name": "NAMBANGREJO"
+  },
+  {
+    "id": "3502152005",
+    "district_id": "350215",
+    "name": "LENGKONG"
+  },
+  {
+    "id": "3502152006",
+    "district_id": "350215",
+    "name": "GELANG LOR"
+  },
+  {
+    "id": "3502152007",
+    "district_id": "350215",
+    "name": "SERANGAN"
+  },
+  {
+    "id": "3502152008",
+    "district_id": "350215",
+    "name": "NAMPAN"
+  },
+  {
+    "id": "3502152009",
+    "district_id": "350215",
+    "name": "KRANGGAN"
+  },
+  {
+    "id": "3502152010",
+    "district_id": "350215",
+    "name": "GOLAN"
+  },
+  {
+    "id": "3502152011",
+    "district_id": "350215",
+    "name": "PRAJEGAN"
+  },
+  {
+    "id": "3502152012",
+    "district_id": "350215",
+    "name": "KEDUNGBANTENG"
+  },
+  {
+    "id": "3502152013",
+    "district_id": "350215",
+    "name": "KARANGLO LOR"
+  },
+  {
+    "id": "3502152014",
+    "district_id": "350215",
+    "name": "GEGERAN"
+  },
+  {
+    "id": "3502152015",
+    "district_id": "350215",
+    "name": "GANDUKEPUH"
+  },
+  {
+    "id": "3502152016",
+    "district_id": "350215",
+    "name": "KALIMALANG"
+  },
+  {
+    "id": "3502152017",
+    "district_id": "350215",
+    "name": "SRAGI"
+  },
+  {
+    "id": "3502152018",
+    "district_id": "350215",
+    "name": "MOROSARI"
+  }
+]

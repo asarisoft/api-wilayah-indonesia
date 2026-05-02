@@ -1,1 +1,57 @@
-[{"id": "1671051001", "district_id": "167105", "name": "DELAPAN-BELAS ILIR"}, {"id": "1671051002", "district_id": "167105", "name": "ENAM-BELAS ILIR"}, {"id": "1671051003", "district_id": "167105", "name": "TIGA-BELAS ILIR"}, {"id": "1671051004", "district_id": "167105", "name": "EMPAT-BELAS ILIR"}, {"id": "1671051005", "district_id": "167105", "name": "LIMA-BELAS ILIR"}, {"id": "1671051006", "district_id": "167105", "name": "TUJUH-BELAS ILIR"}, {"id": "1671051007", "district_id": "167105", "name": "DUA-PULUH ILIR TIGA"}, {"id": "1671051008", "district_id": "167105", "name": "DUA-PULUH ILIR EMPAT"}, {"id": "1671051009", "district_id": "167105", "name": "DUA-PULUH ILIR SATU"}, {"id": "1671051010", "district_id": "167105", "name": "SUNGAIPANGERAN"}, {"id": "1671051011", "district_id": "167105", "name": "KEPANDEAN-BARU"}]
+[
+  {
+    "id": "1671051001",
+    "district_id": "167105",
+    "name": "DELAPAN-BELAS ILIR"
+  },
+  {
+    "id": "1671051002",
+    "district_id": "167105",
+    "name": "ENAM-BELAS ILIR"
+  },
+  {
+    "id": "1671051003",
+    "district_id": "167105",
+    "name": "TIGA-BELAS ILIR"
+  },
+  {
+    "id": "1671051004",
+    "district_id": "167105",
+    "name": "EMPAT-BELAS ILIR"
+  },
+  {
+    "id": "1671051005",
+    "district_id": "167105",
+    "name": "LIMA-BELAS ILIR"
+  },
+  {
+    "id": "1671051006",
+    "district_id": "167105",
+    "name": "TUJUH-BELAS ILIR"
+  },
+  {
+    "id": "1671051007",
+    "district_id": "167105",
+    "name": "DUA-PULUH ILIR TIGA"
+  },
+  {
+    "id": "1671051008",
+    "district_id": "167105",
+    "name": "DUA-PULUH ILIR EMPAT"
+  },
+  {
+    "id": "1671051009",
+    "district_id": "167105",
+    "name": "DUA-PULUH ILIR SATU"
+  },
+  {
+    "id": "1671051010",
+    "district_id": "167105",
+    "name": "SUNGAIPANGERAN"
+  },
+  {
+    "id": "1671051011",
+    "district_id": "167105",
+    "name": "KEPANDEAN-BARU"
+  }
+]

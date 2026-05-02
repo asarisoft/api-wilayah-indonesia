@@ -1,1 +1,27 @@
-[{"id": "6501022001", "district_id": "650102", "name": "LONG BELUAH"}, {"id": "6501022002", "district_id": "650102", "name": "LONG SAM"}, {"id": "6501022003", "district_id": "650102", "name": "MARA I"}, {"id": "6501022004", "district_id": "650102", "name": "MARA HILIR"}, {"id": "6501022005", "district_id": "650102", "name": "LONG PARI"}]
+[
+  {
+    "id": "6501022001",
+    "district_id": "650102",
+    "name": "LONG BELUAH"
+  },
+  {
+    "id": "6501022002",
+    "district_id": "650102",
+    "name": "LONG SAM"
+  },
+  {
+    "id": "6501022003",
+    "district_id": "650102",
+    "name": "MARA I"
+  },
+  {
+    "id": "6501022004",
+    "district_id": "650102",
+    "name": "MARA HILIR"
+  },
+  {
+    "id": "6501022005",
+    "district_id": "650102",
+    "name": "LONG PARI"
+  }
+]

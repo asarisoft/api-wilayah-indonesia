@@ -1,1 +1,62 @@
-[{"id": "121901", "regency_id": "1219", "name": "MEDANG DERAS"}, {"id": "121902", "regency_id": "1219", "name": "SEI SUKA"}, {"id": "121903", "regency_id": "1219", "name": "AIR PUTIH"}, {"id": "121904", "regency_id": "1219", "name": "LIMA PULUH"}, {"id": "121905", "regency_id": "1219", "name": "TALAWI"}, {"id": "121906", "regency_id": "1219", "name": "TANJUNG TIRAM"}, {"id": "121907", "regency_id": "1219", "name": "SEI BALAI"}, {"id": "121908", "regency_id": "1219", "name": "LAUT TADOR"}, {"id": "121909", "regency_id": "1219", "name": "LIMA PULUH PESISIR"}, {"id": "121910", "regency_id": "1219", "name": "DATUK LIMA PULUH"}, {"id": "121911", "regency_id": "1219", "name": "DATUK TANAH DATAR"}, {"id": "121912", "regency_id": "1219", "name": "NIBUNG HANGUS"}]
+[
+  {
+    "id": "121901",
+    "regency_id": "1219",
+    "name": "MEDANG DERAS"
+  },
+  {
+    "id": "121902",
+    "regency_id": "1219",
+    "name": "SEI SUKA"
+  },
+  {
+    "id": "121903",
+    "regency_id": "1219",
+    "name": "AIR PUTIH"
+  },
+  {
+    "id": "121904",
+    "regency_id": "1219",
+    "name": "LIMA PULUH"
+  },
+  {
+    "id": "121905",
+    "regency_id": "1219",
+    "name": "TALAWI"
+  },
+  {
+    "id": "121906",
+    "regency_id": "1219",
+    "name": "TANJUNG TIRAM"
+  },
+  {
+    "id": "121907",
+    "regency_id": "1219",
+    "name": "SEI BALAI"
+  },
+  {
+    "id": "121908",
+    "regency_id": "1219",
+    "name": "LAUT TADOR"
+  },
+  {
+    "id": "121909",
+    "regency_id": "1219",
+    "name": "LIMA PULUH PESISIR"
+  },
+  {
+    "id": "121910",
+    "regency_id": "1219",
+    "name": "DATUK LIMA PULUH"
+  },
+  {
+    "id": "121911",
+    "regency_id": "1219",
+    "name": "DATUK TANAH DATAR"
+  },
+  {
+    "id": "121912",
+    "regency_id": "1219",
+    "name": "NIBUNG HANGUS"
+  }
+]

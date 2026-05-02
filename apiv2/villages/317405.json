@@ -1,1 +1,32 @@
-[{"id": "3174051001", "district_id": "317405", "name": "KEBAYORAN LAMA UTARA"}, {"id": "3174051002", "district_id": "317405", "name": "PONDOK PINANG"}, {"id": "3174051003", "district_id": "317405", "name": "CIPULIR"}, {"id": "3174051004", "district_id": "317405", "name": "GROGOL UTARA"}, {"id": "3174051005", "district_id": "317405", "name": "GROGOL SELATAN"}, {"id": "3174051006", "district_id": "317405", "name": "KEBAYORAN LAMA SELATAN"}]
+[
+  {
+    "id": "3174051001",
+    "district_id": "317405",
+    "name": "KEBAYORAN LAMA UTARA"
+  },
+  {
+    "id": "3174051002",
+    "district_id": "317405",
+    "name": "PONDOK PINANG"
+  },
+  {
+    "id": "3174051003",
+    "district_id": "317405",
+    "name": "CIPULIR"
+  },
+  {
+    "id": "3174051004",
+    "district_id": "317405",
+    "name": "GROGOL UTARA"
+  },
+  {
+    "id": "3174051005",
+    "district_id": "317405",
+    "name": "GROGOL SELATAN"
+  },
+  {
+    "id": "3174051006",
+    "district_id": "317405",
+    "name": "KEBAYORAN LAMA SELATAN"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3572031001", "district_id": "357203", "name": "GEDOG"}, {"id": "3572031002", "district_id": "357203", "name": "PLOSOKEREP"}, {"id": "3572031003", "district_id": "357203", "name": "KLAMPOK"}, {"id": "3572031004", "district_id": "357203", "name": "SANANWETAN"}, {"id": "3572031005", "district_id": "357203", "name": "REMBANG"}, {"id": "3572031006", "district_id": "357203", "name": "KARANGTENGAH"}, {"id": "3572031007", "district_id": "357203", "name": "BENDOGERIT"}]
+[
+  {
+    "id": "3572031001",
+    "district_id": "357203",
+    "name": "GEDOG"
+  },
+  {
+    "id": "3572031002",
+    "district_id": "357203",
+    "name": "PLOSOKEREP"
+  },
+  {
+    "id": "3572031003",
+    "district_id": "357203",
+    "name": "KLAMPOK"
+  },
+  {
+    "id": "3572031004",
+    "district_id": "357203",
+    "name": "SANANWETAN"
+  },
+  {
+    "id": "3572031005",
+    "district_id": "357203",
+    "name": "REMBANG"
+  },
+  {
+    "id": "3572031006",
+    "district_id": "357203",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3572031007",
+    "district_id": "357203",
+    "name": "BENDOGERIT"
+  }
+]

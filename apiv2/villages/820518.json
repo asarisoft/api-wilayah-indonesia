@@ -1,1 +1,37 @@
-[{"id": "8205182001", "district_id": "820518", "name": "MAN-GEGA"}, {"id": "8205182002", "district_id": "820518", "name": "BAJO"}, {"id": "8205182003", "district_id": "820518", "name": "POHEA"}, {"id": "8205182004", "district_id": "820518", "name": "FUKWEU"}, {"id": "8205182005", "district_id": "820518", "name": "WAININ"}, {"id": "8205182006", "district_id": "820518", "name": "MALBUFA"}, {"id": "8205182007", "district_id": "820518", "name": "FOKALIK"}]
+[
+  {
+    "id": "8205182001",
+    "district_id": "820518",
+    "name": "MAN-GEGA"
+  },
+  {
+    "id": "8205182002",
+    "district_id": "820518",
+    "name": "BAJO"
+  },
+  {
+    "id": "8205182003",
+    "district_id": "820518",
+    "name": "POHEA"
+  },
+  {
+    "id": "8205182004",
+    "district_id": "820518",
+    "name": "FUKWEU"
+  },
+  {
+    "id": "8205182005",
+    "district_id": "820518",
+    "name": "WAININ"
+  },
+  {
+    "id": "8205182006",
+    "district_id": "820518",
+    "name": "MALBUFA"
+  },
+  {
+    "id": "8205182007",
+    "district_id": "820518",
+    "name": "FOKALIK"
+  }
+]

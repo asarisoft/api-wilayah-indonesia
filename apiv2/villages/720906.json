@@ -1,1 +1,92 @@
-[{"id": "7209062001", "district_id": "720906", "name": "TAMPANOMBO"}, {"id": "7209062002", "district_id": "720906", "name": "BONEBAE II"}, {"id": "7209062003", "district_id": "720906", "name": "TOBAMAU"}, {"id": "7209062004", "district_id": "720906", "name": "ROMPI"}, {"id": "7209062005", "district_id": "720906", "name": "UEMATOPA"}, {"id": "7209062006", "district_id": "720906", "name": "UEKAMBUNO"}, {"id": "7209062007", "district_id": "720906", "name": "PARANONGE"}, {"id": "7209062008", "district_id": "720906", "name": "BONEBAE I"}, {"id": "7209062009", "district_id": "720906", "name": "WATUSONGU"}, {"id": "7209062010", "district_id": "720906", "name": "MIRE"}, {"id": "7209062011", "district_id": "720906", "name": "MAROWO"}, {"id": "7209062012", "district_id": "720906", "name": "BORNEANG"}, {"id": "7209062013", "district_id": "720906", "name": "BONGKA MAKMUR"}, {"id": "7209062015", "district_id": "720906", "name": "CEMPA"}, {"id": "7209062016", "district_id": "720906", "name": "BONEVOTO"}, {"id": "7209062017", "district_id": "720906", "name": "BONGKAKOY"}, {"id": "7209062018", "district_id": "720906", "name": "TAKIBANGKE"}, {"id": "7209062019", "district_id": "720906", "name": "KASIALA"}]
+[
+  {
+    "id": "7209062001",
+    "district_id": "720906",
+    "name": "TAMPANOMBO"
+  },
+  {
+    "id": "7209062002",
+    "district_id": "720906",
+    "name": "BONEBAE II"
+  },
+  {
+    "id": "7209062003",
+    "district_id": "720906",
+    "name": "TOBAMAU"
+  },
+  {
+    "id": "7209062004",
+    "district_id": "720906",
+    "name": "ROMPI"
+  },
+  {
+    "id": "7209062005",
+    "district_id": "720906",
+    "name": "UEMATOPA"
+  },
+  {
+    "id": "7209062006",
+    "district_id": "720906",
+    "name": "UEKAMBUNO"
+  },
+  {
+    "id": "7209062007",
+    "district_id": "720906",
+    "name": "PARANONGE"
+  },
+  {
+    "id": "7209062008",
+    "district_id": "720906",
+    "name": "BONEBAE I"
+  },
+  {
+    "id": "7209062009",
+    "district_id": "720906",
+    "name": "WATUSONGU"
+  },
+  {
+    "id": "7209062010",
+    "district_id": "720906",
+    "name": "MIRE"
+  },
+  {
+    "id": "7209062011",
+    "district_id": "720906",
+    "name": "MAROWO"
+  },
+  {
+    "id": "7209062012",
+    "district_id": "720906",
+    "name": "BORNEANG"
+  },
+  {
+    "id": "7209062013",
+    "district_id": "720906",
+    "name": "BONGKA MAKMUR"
+  },
+  {
+    "id": "7209062015",
+    "district_id": "720906",
+    "name": "CEMPA"
+  },
+  {
+    "id": "7209062016",
+    "district_id": "720906",
+    "name": "BONEVOTO"
+  },
+  {
+    "id": "7209062017",
+    "district_id": "720906",
+    "name": "BONGKAKOY"
+  },
+  {
+    "id": "7209062018",
+    "district_id": "720906",
+    "name": "TAKIBANGKE"
+  },
+  {
+    "id": "7209062019",
+    "district_id": "720906",
+    "name": "KASIALA"
+  }
+]

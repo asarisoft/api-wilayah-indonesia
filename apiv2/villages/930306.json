@@ -1,1 +1,92 @@
-[{"id": "9303062001", "district_id": "930306", "name": "SIGARE"}, {"id": "9303062002", "district_id": "930306", "name": "JUFO BESAR"}, {"id": "9303062003", "district_id": "930306", "name": "ECI"}, {"id": "9303062004", "district_id": "930306", "name": "ABOGE"}, {"id": "9303062005", "district_id": "930306", "name": "KHANAMI"}, {"id": "9303062006", "district_id": "930306", "name": "YAME"}, {"id": "9303062007", "district_id": "930306", "name": "KAITOK"}, {"id": "9303062008", "district_id": "930306", "name": "HOMANG"}, {"id": "9303062009", "district_id": "930306", "name": "JUFO KECIL"}, {"id": "9303062010", "district_id": "930306", "name": "KHABU"}, {"id": "9303062011", "district_id": "930306", "name": "KIKI"}, {"id": "9303062012", "district_id": "930306", "name": "ISAGE"}, {"id": "9303062013", "district_id": "930306", "name": "KOPI"}, {"id": "9303062014", "district_id": "930306", "name": "ASAREN"}, {"id": "9303062015", "district_id": "930306", "name": "KERU"}, {"id": "9303062016", "district_id": "930306", "name": "GIRIMIO"}, {"id": "9303062017", "district_id": "930306", "name": "HAFFO"}, {"id": "9303062018", "district_id": "930306", "name": "MEDA"}]
+[
+  {
+    "id": "9303062001",
+    "district_id": "930306",
+    "name": "SIGARE"
+  },
+  {
+    "id": "9303062002",
+    "district_id": "930306",
+    "name": "JUFO BESAR"
+  },
+  {
+    "id": "9303062003",
+    "district_id": "930306",
+    "name": "ECI"
+  },
+  {
+    "id": "9303062004",
+    "district_id": "930306",
+    "name": "ABOGE"
+  },
+  {
+    "id": "9303062005",
+    "district_id": "930306",
+    "name": "KHANAMI"
+  },
+  {
+    "id": "9303062006",
+    "district_id": "930306",
+    "name": "YAME"
+  },
+  {
+    "id": "9303062007",
+    "district_id": "930306",
+    "name": "KAITOK"
+  },
+  {
+    "id": "9303062008",
+    "district_id": "930306",
+    "name": "HOMANG"
+  },
+  {
+    "id": "9303062009",
+    "district_id": "930306",
+    "name": "JUFO KECIL"
+  },
+  {
+    "id": "9303062010",
+    "district_id": "930306",
+    "name": "KHABU"
+  },
+  {
+    "id": "9303062011",
+    "district_id": "930306",
+    "name": "KIKI"
+  },
+  {
+    "id": "9303062012",
+    "district_id": "930306",
+    "name": "ISAGE"
+  },
+  {
+    "id": "9303062013",
+    "district_id": "930306",
+    "name": "KOPI"
+  },
+  {
+    "id": "9303062014",
+    "district_id": "930306",
+    "name": "ASAREN"
+  },
+  {
+    "id": "9303062015",
+    "district_id": "930306",
+    "name": "KERU"
+  },
+  {
+    "id": "9303062016",
+    "district_id": "930306",
+    "name": "GIRIMIO"
+  },
+  {
+    "id": "9303062017",
+    "district_id": "930306",
+    "name": "HAFFO"
+  },
+  {
+    "id": "9303062018",
+    "district_id": "930306",
+    "name": "MEDA"
+  }
+]

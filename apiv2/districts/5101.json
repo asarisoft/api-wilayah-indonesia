@@ -1,1 +1,27 @@
-[{"id": "510101", "regency_id": "5101", "name": "NEGARA"}, {"id": "510102", "regency_id": "5101", "name": "MENDOYO"}, {"id": "510103", "regency_id": "5101", "name": "PEKUTATAN"}, {"id": "510104", "regency_id": "5101", "name": "MELAYA"}, {"id": "510105", "regency_id": "5101", "name": "JEMBRANA"}]
+[
+  {
+    "id": "510101",
+    "regency_id": "5101",
+    "name": "NEGARA"
+  },
+  {
+    "id": "510102",
+    "regency_id": "5101",
+    "name": "MENDOYO"
+  },
+  {
+    "id": "510103",
+    "regency_id": "5101",
+    "name": "PEKUTATAN"
+  },
+  {
+    "id": "510104",
+    "regency_id": "5101",
+    "name": "MELAYA"
+  },
+  {
+    "id": "510105",
+    "regency_id": "5101",
+    "name": "JEMBRANA"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "9106152001", "district_id": "910615", "name": "FARUSI"}, {"id": "9106152002", "district_id": "910615", "name": "MANDENDERI"}, {"id": "9106152003", "district_id": "910615", "name": "SWAINOBER"}, {"id": "9106152004", "district_id": "910615", "name": "MARDORI"}, {"id": "9106152005", "district_id": "910615", "name": "SWAIPAK"}, {"id": "9106152006", "district_id": "910615", "name": "YENBEPIOPER"}, {"id": "9106152007", "district_id": "910615", "name": "SARWA"}, {"id": "9106152008", "district_id": "910615", "name": "NAPDORI"}, {"id": "9106152009", "district_id": "910615", "name": "RAMDORI"}, {"id": "9106152010", "district_id": "910615", "name": "BUSDORI"}, {"id": "9106152011", "district_id": "910615", "name": "WOMBRISAU"}, {"id": "9106152012", "district_id": "910615", "name": "ORKDORI"}, {"id": "9106152013", "district_id": "910615", "name": "SASWARBO"}, {"id": "9106152014", "district_id": "910615", "name": "ANDOINA"}, {"id": "9106152015", "district_id": "910615", "name": "INSUSBARI"}]
+[
+  {
+    "id": "9106152001",
+    "district_id": "910615",
+    "name": "FARUSI"
+  },
+  {
+    "id": "9106152002",
+    "district_id": "910615",
+    "name": "MANDENDERI"
+  },
+  {
+    "id": "9106152003",
+    "district_id": "910615",
+    "name": "SWAINOBER"
+  },
+  {
+    "id": "9106152004",
+    "district_id": "910615",
+    "name": "MARDORI"
+  },
+  {
+    "id": "9106152005",
+    "district_id": "910615",
+    "name": "SWAIPAK"
+  },
+  {
+    "id": "9106152006",
+    "district_id": "910615",
+    "name": "YENBEPIOPER"
+  },
+  {
+    "id": "9106152007",
+    "district_id": "910615",
+    "name": "SARWA"
+  },
+  {
+    "id": "9106152008",
+    "district_id": "910615",
+    "name": "NAPDORI"
+  },
+  {
+    "id": "9106152009",
+    "district_id": "910615",
+    "name": "RAMDORI"
+  },
+  {
+    "id": "9106152010",
+    "district_id": "910615",
+    "name": "BUSDORI"
+  },
+  {
+    "id": "9106152011",
+    "district_id": "910615",
+    "name": "WOMBRISAU"
+  },
+  {
+    "id": "9106152012",
+    "district_id": "910615",
+    "name": "ORKDORI"
+  },
+  {
+    "id": "9106152013",
+    "district_id": "910615",
+    "name": "SASWARBO"
+  },
+  {
+    "id": "9106152014",
+    "district_id": "910615",
+    "name": "ANDOINA"
+  },
+  {
+    "id": "9106152015",
+    "district_id": "910615",
+    "name": "INSUSBARI"
+  }
+]

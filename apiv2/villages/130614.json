@@ -1,1 +1,17 @@
-[{"id": "1306142001", "district_id": "130614", "name": "CANDUANG KOTO LAWEH"}, {"id": "1306142002", "district_id": "130614", "name": "LASI"}, {"id": "1306142003", "district_id": "130614", "name": "BUKIK BATABUAH"}]
+[
+  {
+    "id": "1306142001",
+    "district_id": "130614",
+    "name": "CANDUANG KOTO LAWEH"
+  },
+  {
+    "id": "1306142002",
+    "district_id": "130614",
+    "name": "LASI"
+  },
+  {
+    "id": "1306142003",
+    "district_id": "130614",
+    "name": "BUKIK BATABUAH"
+  }
+]

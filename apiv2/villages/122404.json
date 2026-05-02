@@ -1,1 +1,32 @@
-[{"id": "1224042001", "district_id": "122404", "name": "TETEHOSI MAZIAYA"}, {"id": "1224042002", "district_id": "122404", "name": "UMBUBALODANO"}, {"id": "1224042003", "district_id": "122404", "name": "HILIMBOSI"}, {"id": "1224042004", "district_id": "122404", "name": "HILISALO'O"}, {"id": "1224042005", "district_id": "122404", "name": "FULOLO SALO'O"}, {"id": "1224042006", "district_id": "122404", "name": "BOTOMBAWO"}]
+[
+  {
+    "id": "1224042001",
+    "district_id": "122404",
+    "name": "TETEHOSI MAZIAYA"
+  },
+  {
+    "id": "1224042002",
+    "district_id": "122404",
+    "name": "UMBUBALODANO"
+  },
+  {
+    "id": "1224042003",
+    "district_id": "122404",
+    "name": "HILIMBOSI"
+  },
+  {
+    "id": "1224042004",
+    "district_id": "122404",
+    "name": "HILISALO'O"
+  },
+  {
+    "id": "1224042005",
+    "district_id": "122404",
+    "name": "FULOLO SALO'O"
+  },
+  {
+    "id": "1224042006",
+    "district_id": "122404",
+    "name": "BOTOMBAWO"
+  }
+]

@@ -1,1 +1,32 @@
-[{"id": "9503402001", "district_id": "950340", "name": "BOMELA"}, {"id": "9503402002", "district_id": "950340", "name": "YALMABI"}, {"id": "9503402003", "district_id": "950340", "name": "KITIKNI"}, {"id": "9503402004", "district_id": "950340", "name": "SOMBAT"}, {"id": "9503402005", "district_id": "950340", "name": "KUBIALAT"}, {"id": "9503402006", "district_id": "950340", "name": "PALAMDUA"}]
+[
+  {
+    "id": "9503402001",
+    "district_id": "950340",
+    "name": "BOMELA"
+  },
+  {
+    "id": "9503402002",
+    "district_id": "950340",
+    "name": "YALMABI"
+  },
+  {
+    "id": "9503402003",
+    "district_id": "950340",
+    "name": "KITIKNI"
+  },
+  {
+    "id": "9503402004",
+    "district_id": "950340",
+    "name": "SOMBAT"
+  },
+  {
+    "id": "9503402005",
+    "district_id": "950340",
+    "name": "KUBIALAT"
+  },
+  {
+    "id": "9503402006",
+    "district_id": "950340",
+    "name": "PALAMDUA"
+  }
+]

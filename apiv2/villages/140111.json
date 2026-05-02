@@ -1,1 +1,82 @@
-[{"id": "1401112001", "district_id": "140111", "name": "KOTO GARO"}, {"id": "1401112002", "district_id": "140111", "name": "SEKIJANG"}, {"id": "1401112003", "district_id": "140111", "name": "BERINGIN LESTARI"}, {"id": "1401112004", "district_id": "140111", "name": "KOTA BANGUN"}, {"id": "1401112005", "district_id": "140111", "name": "CINTA DAMAI"}, {"id": "1401112006", "district_id": "140111", "name": "SUKA MAJU"}, {"id": "1401112007", "district_id": "140111", "name": "KOTA BARU"}, {"id": "1401112008", "district_id": "140111", "name": "TEBING LESTARI"}, {"id": "1401112009", "district_id": "140111", "name": "TANAH TINGGI"}, {"id": "1401112010", "district_id": "140111", "name": "KOTO AMAN"}, {"id": "1401112011", "district_id": "140111", "name": "TAPUNG LESTARI"}, {"id": "1401112012", "district_id": "140111", "name": "TAPUNG MAKMUR"}, {"id": "1401112013", "district_id": "140111", "name": "TANDAN SARI"}, {"id": "1401112014", "district_id": "140111", "name": "GERBANG SARI"}, {"id": "1401112015", "district_id": "140111", "name": "KIJANG JAYA"}, {"id": "1401112016", "district_id": "140111", "name": "KIJANG MAKMUR"}]
+[
+  {
+    "id": "1401112001",
+    "district_id": "140111",
+    "name": "KOTO GARO"
+  },
+  {
+    "id": "1401112002",
+    "district_id": "140111",
+    "name": "SEKIJANG"
+  },
+  {
+    "id": "1401112003",
+    "district_id": "140111",
+    "name": "BERINGIN LESTARI"
+  },
+  {
+    "id": "1401112004",
+    "district_id": "140111",
+    "name": "KOTA BANGUN"
+  },
+  {
+    "id": "1401112005",
+    "district_id": "140111",
+    "name": "CINTA DAMAI"
+  },
+  {
+    "id": "1401112006",
+    "district_id": "140111",
+    "name": "SUKA MAJU"
+  },
+  {
+    "id": "1401112007",
+    "district_id": "140111",
+    "name": "KOTA BARU"
+  },
+  {
+    "id": "1401112008",
+    "district_id": "140111",
+    "name": "TEBING LESTARI"
+  },
+  {
+    "id": "1401112009",
+    "district_id": "140111",
+    "name": "TANAH TINGGI"
+  },
+  {
+    "id": "1401112010",
+    "district_id": "140111",
+    "name": "KOTO AMAN"
+  },
+  {
+    "id": "1401112011",
+    "district_id": "140111",
+    "name": "TAPUNG LESTARI"
+  },
+  {
+    "id": "1401112012",
+    "district_id": "140111",
+    "name": "TAPUNG MAKMUR"
+  },
+  {
+    "id": "1401112013",
+    "district_id": "140111",
+    "name": "TANDAN SARI"
+  },
+  {
+    "id": "1401112014",
+    "district_id": "140111",
+    "name": "GERBANG SARI"
+  },
+  {
+    "id": "1401112015",
+    "district_id": "140111",
+    "name": "KIJANG JAYA"
+  },
+  {
+    "id": "1401112016",
+    "district_id": "140111",
+    "name": "KIJANG MAKMUR"
+  }
+]

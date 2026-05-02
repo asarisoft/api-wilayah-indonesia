@@ -1,1 +1,32 @@
-[{"id": "1871071001", "district_id": "187107", "name": "PESAWAHAN"}, {"id": "1871071002", "district_id": "187107", "name": "TELUKBETUNG"}, {"id": "1871071008", "district_id": "187107", "name": "TALANG"}, {"id": "1871071009", "district_id": "187107", "name": "GEDONG PAKUON"}, {"id": "1871071012", "district_id": "187107", "name": "SUMUR PUTRI"}, {"id": "1871071013", "district_id": "187107", "name": "GUNUNGMAS"}]
+[
+  {
+    "id": "1871071001",
+    "district_id": "187107",
+    "name": "PESAWAHAN"
+  },
+  {
+    "id": "1871071002",
+    "district_id": "187107",
+    "name": "TELUKBETUNG"
+  },
+  {
+    "id": "1871071008",
+    "district_id": "187107",
+    "name": "TALANG"
+  },
+  {
+    "id": "1871071009",
+    "district_id": "187107",
+    "name": "GEDONG PAKUON"
+  },
+  {
+    "id": "1871071012",
+    "district_id": "187107",
+    "name": "SUMUR PUTRI"
+  },
+  {
+    "id": "1871071013",
+    "district_id": "187107",
+    "name": "GUNUNGMAS"
+  }
+]

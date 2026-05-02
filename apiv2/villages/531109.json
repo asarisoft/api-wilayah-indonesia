@@ -1,1 +1,42 @@
-[{"id": "5311092001", "district_id": "531109", "name": "RINDI"}, {"id": "5311092002", "district_id": "531109", "name": "TANARAING"}, {"id": "5311092003", "district_id": "531109", "name": "HAIKATAPU"}, {"id": "5311092004", "district_id": "531109", "name": "KABARU"}, {"id": "5311092005", "district_id": "531109", "name": "HANGGARORU"}, {"id": "5311092006", "district_id": "531109", "name": "LAILANJANG"}, {"id": "5311092007", "district_id": "531109", "name": "TAMBURI"}, {"id": "5311092008", "district_id": "531109", "name": "KAYURI"}]
+[
+  {
+    "id": "5311092001",
+    "district_id": "531109",
+    "name": "RINDI"
+  },
+  {
+    "id": "5311092002",
+    "district_id": "531109",
+    "name": "TANARAING"
+  },
+  {
+    "id": "5311092003",
+    "district_id": "531109",
+    "name": "HAIKATAPU"
+  },
+  {
+    "id": "5311092004",
+    "district_id": "531109",
+    "name": "KABARU"
+  },
+  {
+    "id": "5311092005",
+    "district_id": "531109",
+    "name": "HANGGARORU"
+  },
+  {
+    "id": "5311092006",
+    "district_id": "531109",
+    "name": "LAILANJANG"
+  },
+  {
+    "id": "5311092007",
+    "district_id": "531109",
+    "name": "TAMBURI"
+  },
+  {
+    "id": "5311092008",
+    "district_id": "531109",
+    "name": "KAYURI"
+  }
+]

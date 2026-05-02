@@ -1,1 +1,147 @@
-[{"id": "9212102001", "district_id": "921210", "name": "SOPNYAI"}, {"id": "9212102002", "district_id": "921210", "name": "IKIMABOU"}, {"id": "9212102003", "district_id": "921210", "name": "MANGGOT"}, {"id": "9212102004", "district_id": "921210", "name": "KISAP"}, {"id": "9212102005", "district_id": "921210", "name": "NUNGKIMOR"}, {"id": "9212102006", "district_id": "921210", "name": "CANGOISI"}, {"id": "9212102007", "district_id": "921210", "name": "MINYEIMEMUD"}, {"id": "9212102008", "district_id": "921210", "name": "PENIBUT"}, {"id": "9212102009", "district_id": "921210", "name": "DEMUNTI"}, {"id": "9212102010", "district_id": "921210", "name": "GUEIPIMBAI"}, {"id": "9212102011", "district_id": "921210", "name": "TIGAUCOMTI"}, {"id": "9212102012", "district_id": "921210", "name": "URWONG"}, {"id": "9212102013", "district_id": "921210", "name": "ARYON"}, {"id": "9212102014", "district_id": "921210", "name": "PUNGGUNG"}, {"id": "9212102015", "district_id": "921210", "name": "HUMEISI"}, {"id": "9212102016", "district_id": "921210", "name": "HAKTIEBOU"}, {"id": "9212102017", "district_id": "921210", "name": "KWOK SATU"}, {"id": "9212102018", "district_id": "921210", "name": "KWOK DUA"}, {"id": "9212102019", "district_id": "921210", "name": "KWAIYEHEP"}, {"id": "9212102020", "district_id": "921210", "name": "MBEGAU"}, {"id": "9212102021", "district_id": "921210", "name": "NGIMOUBRI"}, {"id": "9212102022", "district_id": "921210", "name": "LIEHAK"}, {"id": "9212102023", "district_id": "921210", "name": "UMCEP"}, {"id": "9212102024", "district_id": "921210", "name": "TUMBEIBEHEI"}, {"id": "9212102025", "district_id": "921210", "name": "TINGWOIKIOU"}, {"id": "9212102026", "district_id": "921210", "name": "GUWEI UTI"}, {"id": "9212102027", "district_id": "921210", "name": "NTAP"}, {"id": "9212102028", "district_id": "921210", "name": "MONUT"}, {"id": "9212102029", "district_id": "921210", "name": "MBRANDE"}]
+[
+  {
+    "id": "9212102001",
+    "district_id": "921210",
+    "name": "SOPNYAI"
+  },
+  {
+    "id": "9212102002",
+    "district_id": "921210",
+    "name": "IKIMABOU"
+  },
+  {
+    "id": "9212102003",
+    "district_id": "921210",
+    "name": "MANGGOT"
+  },
+  {
+    "id": "9212102004",
+    "district_id": "921210",
+    "name": "KISAP"
+  },
+  {
+    "id": "9212102005",
+    "district_id": "921210",
+    "name": "NUNGKIMOR"
+  },
+  {
+    "id": "9212102006",
+    "district_id": "921210",
+    "name": "CANGOISI"
+  },
+  {
+    "id": "9212102007",
+    "district_id": "921210",
+    "name": "MINYEIMEMUD"
+  },
+  {
+    "id": "9212102008",
+    "district_id": "921210",
+    "name": "PENIBUT"
+  },
+  {
+    "id": "9212102009",
+    "district_id": "921210",
+    "name": "DEMUNTI"
+  },
+  {
+    "id": "9212102010",
+    "district_id": "921210",
+    "name": "GUEIPIMBAI"
+  },
+  {
+    "id": "9212102011",
+    "district_id": "921210",
+    "name": "TIGAUCOMTI"
+  },
+  {
+    "id": "9212102012",
+    "district_id": "921210",
+    "name": "URWONG"
+  },
+  {
+    "id": "9212102013",
+    "district_id": "921210",
+    "name": "ARYON"
+  },
+  {
+    "id": "9212102014",
+    "district_id": "921210",
+    "name": "PUNGGUNG"
+  },
+  {
+    "id": "9212102015",
+    "district_id": "921210",
+    "name": "HUMEISI"
+  },
+  {
+    "id": "9212102016",
+    "district_id": "921210",
+    "name": "HAKTIEBOU"
+  },
+  {
+    "id": "9212102017",
+    "district_id": "921210",
+    "name": "KWOK SATU"
+  },
+  {
+    "id": "9212102018",
+    "district_id": "921210",
+    "name": "KWOK DUA"
+  },
+  {
+    "id": "9212102019",
+    "district_id": "921210",
+    "name": "KWAIYEHEP"
+  },
+  {
+    "id": "9212102020",
+    "district_id": "921210",
+    "name": "MBEGAU"
+  },
+  {
+    "id": "9212102021",
+    "district_id": "921210",
+    "name": "NGIMOUBRI"
+  },
+  {
+    "id": "9212102022",
+    "district_id": "921210",
+    "name": "LIEHAK"
+  },
+  {
+    "id": "9212102023",
+    "district_id": "921210",
+    "name": "UMCEP"
+  },
+  {
+    "id": "9212102024",
+    "district_id": "921210",
+    "name": "TUMBEIBEHEI"
+  },
+  {
+    "id": "9212102025",
+    "district_id": "921210",
+    "name": "TINGWOIKIOU"
+  },
+  {
+    "id": "9212102026",
+    "district_id": "921210",
+    "name": "GUWEI UTI"
+  },
+  {
+    "id": "9212102027",
+    "district_id": "921210",
+    "name": "NTAP"
+  },
+  {
+    "id": "9212102028",
+    "district_id": "921210",
+    "name": "MONUT"
+  },
+  {
+    "id": "9212102029",
+    "district_id": "921210",
+    "name": "MBRANDE"
+  }
+]

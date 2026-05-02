@@ -1,1 +1,32 @@
-[{"id": "9404031001", "district_id": "940403", "name": "WANIA"}, {"id": "9404032002", "district_id": "940403", "name": "KAUGAPA"}, {"id": "9404032003", "district_id": "940403", "name": "POUMAKO"}, {"id": "9404032004", "district_id": "940403", "name": "TIPUKA"}, {"id": "9404032005", "district_id": "940403", "name": "MUARE"}, {"id": "9404032006", "district_id": "940403", "name": "HIRIPAU"}]
+[
+  {
+    "id": "9404031001",
+    "district_id": "940403",
+    "name": "WANIA"
+  },
+  {
+    "id": "9404032002",
+    "district_id": "940403",
+    "name": "KAUGAPA"
+  },
+  {
+    "id": "9404032003",
+    "district_id": "940403",
+    "name": "POUMAKO"
+  },
+  {
+    "id": "9404032004",
+    "district_id": "940403",
+    "name": "TIPUKA"
+  },
+  {
+    "id": "9404032005",
+    "district_id": "940403",
+    "name": "MUARE"
+  },
+  {
+    "id": "9404032006",
+    "district_id": "940403",
+    "name": "HIRIPAU"
+  }
+]

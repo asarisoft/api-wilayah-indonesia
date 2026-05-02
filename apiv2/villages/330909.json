@@ -1,1 +1,77 @@
-[{"id": "3309092001", "district_id": "330909", "name": "DUKUH"}, {"id": "3309092002", "district_id": "330909", "name": "JIPANGAN"}, {"id": "3309092003", "district_id": "330909", "name": "JEMBUNGAN"}, {"id": "3309092004", "district_id": "330909", "name": "SAMBON"}, {"id": "3309092005", "district_id": "330909", "name": "KUWIRAN"}, {"id": "3309092006", "district_id": "330909", "name": "CANGKRINGAN"}, {"id": "3309092007", "district_id": "330909", "name": "NGARU-ARU"}, {"id": "3309092008", "district_id": "330909", "name": "BENDAN"}, {"id": "3309092009", "district_id": "330909", "name": "KETAON"}, {"id": "3309092010", "district_id": "330909", "name": "BANYUDONO"}, {"id": "3309092011", "district_id": "330909", "name": "BATAN"}, {"id": "3309092012", "district_id": "330909", "name": "DENGGUNGAN"}, {"id": "3309092013", "district_id": "330909", "name": "BANGAK"}, {"id": "3309092014", "district_id": "330909", "name": "TRAYU"}, {"id": "3309092015", "district_id": "330909", "name": "TANJUNGSARI"}]
+[
+  {
+    "id": "3309092001",
+    "district_id": "330909",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3309092002",
+    "district_id": "330909",
+    "name": "JIPANGAN"
+  },
+  {
+    "id": "3309092003",
+    "district_id": "330909",
+    "name": "JEMBUNGAN"
+  },
+  {
+    "id": "3309092004",
+    "district_id": "330909",
+    "name": "SAMBON"
+  },
+  {
+    "id": "3309092005",
+    "district_id": "330909",
+    "name": "KUWIRAN"
+  },
+  {
+    "id": "3309092006",
+    "district_id": "330909",
+    "name": "CANGKRINGAN"
+  },
+  {
+    "id": "3309092007",
+    "district_id": "330909",
+    "name": "NGARU-ARU"
+  },
+  {
+    "id": "3309092008",
+    "district_id": "330909",
+    "name": "BENDAN"
+  },
+  {
+    "id": "3309092009",
+    "district_id": "330909",
+    "name": "KETAON"
+  },
+  {
+    "id": "3309092010",
+    "district_id": "330909",
+    "name": "BANYUDONO"
+  },
+  {
+    "id": "3309092011",
+    "district_id": "330909",
+    "name": "BATAN"
+  },
+  {
+    "id": "3309092012",
+    "district_id": "330909",
+    "name": "DENGGUNGAN"
+  },
+  {
+    "id": "3309092013",
+    "district_id": "330909",
+    "name": "BANGAK"
+  },
+  {
+    "id": "3309092014",
+    "district_id": "330909",
+    "name": "TRAYU"
+  },
+  {
+    "id": "3309092015",
+    "district_id": "330909",
+    "name": "TANJUNGSARI"
+  }
+]

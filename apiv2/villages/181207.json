@@ -1,1 +1,52 @@
-[{"id": "1812072001", "district_id": "181207", "name": "KIBANG BUDI JAYA"}, {"id": "1812072002", "district_id": "181207", "name": "LESUNG BHAKTI JAYA"}, {"id": "1812072003", "district_id": "181207", "name": "MEKAR SARI JAYA"}, {"id": "1812072004", "district_id": "181207", "name": "PAGAR JAYA"}, {"id": "1812072005", "district_id": "181207", "name": "GUNUNG SARI"}, {"id": "1812072006", "district_id": "181207", "name": "SUMBER REJO"}, {"id": "1812072007", "district_id": "181207", "name": "KIBANG YEKTI JAYA"}, {"id": "1812072008", "district_id": "181207", "name": "KIBANG TRI JAYA"}, {"id": "1812072009", "district_id": "181207", "name": "GILANG TUNGGAL MAKARTA"}, {"id": "1812072010", "district_id": "181207", "name": "KIBANG MULYA JAYA"}]
+[
+  {
+    "id": "1812072001",
+    "district_id": "181207",
+    "name": "KIBANG BUDI JAYA"
+  },
+  {
+    "id": "1812072002",
+    "district_id": "181207",
+    "name": "LESUNG BHAKTI JAYA"
+  },
+  {
+    "id": "1812072003",
+    "district_id": "181207",
+    "name": "MEKAR SARI JAYA"
+  },
+  {
+    "id": "1812072004",
+    "district_id": "181207",
+    "name": "PAGAR JAYA"
+  },
+  {
+    "id": "1812072005",
+    "district_id": "181207",
+    "name": "GUNUNG SARI"
+  },
+  {
+    "id": "1812072006",
+    "district_id": "181207",
+    "name": "SUMBER REJO"
+  },
+  {
+    "id": "1812072007",
+    "district_id": "181207",
+    "name": "KIBANG YEKTI JAYA"
+  },
+  {
+    "id": "1812072008",
+    "district_id": "181207",
+    "name": "KIBANG TRI JAYA"
+  },
+  {
+    "id": "1812072009",
+    "district_id": "181207",
+    "name": "GILANG TUNGGAL MAKARTA"
+  },
+  {
+    "id": "1812072010",
+    "district_id": "181207",
+    "name": "KIBANG MULYA JAYA"
+  }
+]

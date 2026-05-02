@@ -1,1 +1,47 @@
-[{"id": "1805021008", "district_id": "180502", "name": "MENGGALA SELATAN"}, {"id": "1805021009", "district_id": "180502", "name": "UJUNG GUNUNG"}, {"id": "1805021010", "district_id": "180502", "name": "MENGGALA TENGAH"}, {"id": "1805021011", "district_id": "180502", "name": "MENGGALA KOTA"}, {"id": "1805022001", "district_id": "180502", "name": "BUJUNG TENUK"}, {"id": "1805022002", "district_id": "180502", "name": "UJUNG GUNUNG ILIR"}, {"id": "1805022007", "district_id": "180502", "name": "ASTRA KSETRA"}, {"id": "1805022013", "district_id": "180502", "name": "KAGUNGAN RAHAYU"}, {"id": "1805022014", "district_id": "180502", "name": "TIUH TOHOU"}]
+[
+  {
+    "id": "1805021008",
+    "district_id": "180502",
+    "name": "MENGGALA SELATAN"
+  },
+  {
+    "id": "1805021009",
+    "district_id": "180502",
+    "name": "UJUNG GUNUNG"
+  },
+  {
+    "id": "1805021010",
+    "district_id": "180502",
+    "name": "MENGGALA TENGAH"
+  },
+  {
+    "id": "1805021011",
+    "district_id": "180502",
+    "name": "MENGGALA KOTA"
+  },
+  {
+    "id": "1805022001",
+    "district_id": "180502",
+    "name": "BUJUNG TENUK"
+  },
+  {
+    "id": "1805022002",
+    "district_id": "180502",
+    "name": "UJUNG GUNUNG ILIR"
+  },
+  {
+    "id": "1805022007",
+    "district_id": "180502",
+    "name": "ASTRA KSETRA"
+  },
+  {
+    "id": "1805022013",
+    "district_id": "180502",
+    "name": "KAGUNGAN RAHAYU"
+  },
+  {
+    "id": "1805022014",
+    "district_id": "180502",
+    "name": "TIUH TOHOU"
+  }
+]

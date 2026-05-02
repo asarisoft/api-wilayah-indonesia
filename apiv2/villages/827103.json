@@ -1,1 +1,72 @@
-[{"id": "8271031007", "district_id": "827103", "name": "SOA"}, {"id": "8271031008", "district_id": "827103", "name": "SOA SIO"}, {"id": "8271031009", "district_id": "827103", "name": "KASTURIAN"}, {"id": "8271031010", "district_id": "827103", "name": "SALERO"}, {"id": "8271031011", "district_id": "827103", "name": "TOBOLEU"}, {"id": "8271031012", "district_id": "827103", "name": "SANGAJI"}, {"id": "8271031013", "district_id": "827103", "name": "DUFA-DUFA"}, {"id": "8271031014", "district_id": "827103", "name": "TAFURE"}, {"id": "8271031015", "district_id": "827103", "name": "TABAM"}, {"id": "8271031016", "district_id": "827103", "name": "SANGO"}, {"id": "8271031017", "district_id": "827103", "name": "TARAU"}, {"id": "8271031019", "district_id": "827103", "name": "SANGAJI UTARA"}, {"id": "8271031020", "district_id": "827103", "name": "AKEHUDA"}, {"id": "8271031021", "district_id": "827103", "name": "TUBO"}]
+[
+  {
+    "id": "8271031007",
+    "district_id": "827103",
+    "name": "SOA"
+  },
+  {
+    "id": "8271031008",
+    "district_id": "827103",
+    "name": "SOA SIO"
+  },
+  {
+    "id": "8271031009",
+    "district_id": "827103",
+    "name": "KASTURIAN"
+  },
+  {
+    "id": "8271031010",
+    "district_id": "827103",
+    "name": "SALERO"
+  },
+  {
+    "id": "8271031011",
+    "district_id": "827103",
+    "name": "TOBOLEU"
+  },
+  {
+    "id": "8271031012",
+    "district_id": "827103",
+    "name": "SANGAJI"
+  },
+  {
+    "id": "8271031013",
+    "district_id": "827103",
+    "name": "DUFA-DUFA"
+  },
+  {
+    "id": "8271031014",
+    "district_id": "827103",
+    "name": "TAFURE"
+  },
+  {
+    "id": "8271031015",
+    "district_id": "827103",
+    "name": "TABAM"
+  },
+  {
+    "id": "8271031016",
+    "district_id": "827103",
+    "name": "SANGO"
+  },
+  {
+    "id": "8271031017",
+    "district_id": "827103",
+    "name": "TARAU"
+  },
+  {
+    "id": "8271031019",
+    "district_id": "827103",
+    "name": "SANGAJI UTARA"
+  },
+  {
+    "id": "8271031020",
+    "district_id": "827103",
+    "name": "AKEHUDA"
+  },
+  {
+    "id": "8271031021",
+    "district_id": "827103",
+    "name": "TUBO"
+  }
+]

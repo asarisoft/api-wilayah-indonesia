@@ -1,1 +1,52 @@
-[{"id": "5101041001", "district_id": "510104", "name": "GILIMANUK"}, {"id": "5101042002", "district_id": "510104", "name": "MELAYA"}, {"id": "5101042003", "district_id": "510104", "name": "BELIMBINGSARI"}, {"id": "5101042004", "district_id": "510104", "name": "EKASARI"}, {"id": "5101042005", "district_id": "510104", "name": "NUSASARI"}, {"id": "5101042006", "district_id": "510104", "name": "WARNASARI"}, {"id": "5101042007", "district_id": "510104", "name": "CANDIKUSUMA"}, {"id": "5101042008", "district_id": "510104", "name": "TUWED"}, {"id": "5101042009", "district_id": "510104", "name": "TUKADAYA"}, {"id": "5101042010", "district_id": "510104", "name": "MANISTUTU"}]
+[
+  {
+    "id": "5101041001",
+    "district_id": "510104",
+    "name": "GILIMANUK"
+  },
+  {
+    "id": "5101042002",
+    "district_id": "510104",
+    "name": "MELAYA"
+  },
+  {
+    "id": "5101042003",
+    "district_id": "510104",
+    "name": "BELIMBINGSARI"
+  },
+  {
+    "id": "5101042004",
+    "district_id": "510104",
+    "name": "EKASARI"
+  },
+  {
+    "id": "5101042005",
+    "district_id": "510104",
+    "name": "NUSASARI"
+  },
+  {
+    "id": "5101042006",
+    "district_id": "510104",
+    "name": "WARNASARI"
+  },
+  {
+    "id": "5101042007",
+    "district_id": "510104",
+    "name": "CANDIKUSUMA"
+  },
+  {
+    "id": "5101042008",
+    "district_id": "510104",
+    "name": "TUWED"
+  },
+  {
+    "id": "5101042009",
+    "district_id": "510104",
+    "name": "TUKADAYA"
+  },
+  {
+    "id": "5101042010",
+    "district_id": "510104",
+    "name": "MANISTUTU"
+  }
+]

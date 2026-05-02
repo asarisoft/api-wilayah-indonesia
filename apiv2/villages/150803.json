@@ -1,1 +1,27 @@
-[{"id": "1508031006", "district_id": "150803", "name": "TANJUNG GEDANG"}, {"id": "1508031007", "district_id": "150803", "name": "BUNGO TIMUR"}, {"id": "1508031008", "district_id": "150803", "name": "BUNGO BARAT"}, {"id": "1508031022", "district_id": "150803", "name": "JAYA SETIA"}, {"id": "1508031023", "district_id": "150803", "name": "BATANG BUNGO"}]
+[
+  {
+    "id": "1508031006",
+    "district_id": "150803",
+    "name": "TANJUNG GEDANG"
+  },
+  {
+    "id": "1508031007",
+    "district_id": "150803",
+    "name": "BUNGO TIMUR"
+  },
+  {
+    "id": "1508031008",
+    "district_id": "150803",
+    "name": "BUNGO BARAT"
+  },
+  {
+    "id": "1508031022",
+    "district_id": "150803",
+    "name": "JAYA SETIA"
+  },
+  {
+    "id": "1508031023",
+    "district_id": "150803",
+    "name": "BATANG BUNGO"
+  }
+]

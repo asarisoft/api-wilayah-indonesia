@@ -1,1 +1,32 @@
-[{"id": "3578261001", "district_id": "357826", "name": "MULYOREJO"}, {"id": "3578261002", "district_id": "357826", "name": "MANYAR SABRANGAN"}, {"id": "3578261003", "district_id": "357826", "name": "KEJAWAN PUTIH TAMBAK"}, {"id": "3578261004", "district_id": "357826", "name": "KALISARI"}, {"id": "3578261005", "district_id": "357826", "name": "DUKUH SUTOREJO"}, {"id": "3578261006", "district_id": "357826", "name": "KALIJUDAN"}]
+[
+  {
+    "id": "3578261001",
+    "district_id": "357826",
+    "name": "MULYOREJO"
+  },
+  {
+    "id": "3578261002",
+    "district_id": "357826",
+    "name": "MANYAR SABRANGAN"
+  },
+  {
+    "id": "3578261003",
+    "district_id": "357826",
+    "name": "KEJAWAN PUTIH TAMBAK"
+  },
+  {
+    "id": "3578261004",
+    "district_id": "357826",
+    "name": "KALISARI"
+  },
+  {
+    "id": "3578261005",
+    "district_id": "357826",
+    "name": "DUKUH SUTOREJO"
+  },
+  {
+    "id": "3578261006",
+    "district_id": "357826",
+    "name": "KALIJUDAN"
+  }
+]

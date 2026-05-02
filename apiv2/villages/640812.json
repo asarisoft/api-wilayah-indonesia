@@ -1,1 +1,22 @@
-[{"id": "6408121002", "district_id": "640812", "name": "SINGA GEWEH"}, {"id": "6408122001", "district_id": "640812", "name": "SANGATTA SELATAN"}, {"id": "6408122003", "district_id": "640812", "name": "SANGKIMA"}, {"id": "6408122004", "district_id": "640812", "name": "TELUK SINGKAMA"}]
+[
+  {
+    "id": "6408121002",
+    "district_id": "640812",
+    "name": "SINGA GEWEH"
+  },
+  {
+    "id": "6408122001",
+    "district_id": "640812",
+    "name": "SANGATTA SELATAN"
+  },
+  {
+    "id": "6408122003",
+    "district_id": "640812",
+    "name": "SANGKIMA"
+  },
+  {
+    "id": "6408122004",
+    "district_id": "640812",
+    "name": "TELUK SINGKAMA"
+  }
+]

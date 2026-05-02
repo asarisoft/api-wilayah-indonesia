@@ -1,1 +1,62 @@
-[{"id": "631001", "regency_id": "6310", "name": "BATU LICIN"}, {"id": "631002", "regency_id": "6310", "name": "KUSAN HILIR"}, {"id": "631003", "regency_id": "6310", "name": "SUNGAI LOBAN"}, {"id": "631004", "regency_id": "6310", "name": "SATUI"}, {"id": "631005", "regency_id": "6310", "name": "KUSAN HULU"}, {"id": "631006", "regency_id": "6310", "name": "SIMPANG EMPAT"}, {"id": "631007", "regency_id": "6310", "name": "KARANG BINTANG"}, {"id": "631008", "regency_id": "6310", "name": "MANTEWE"}, {"id": "631009", "regency_id": "6310", "name": "ANGSANA"}, {"id": "631010", "regency_id": "6310", "name": "KURANJI"}, {"id": "631011", "regency_id": "6310", "name": "KUSAN TENGAH"}, {"id": "631012", "regency_id": "6310", "name": "TELUK KEPAYANG"}]
+[
+  {
+    "id": "631001",
+    "regency_id": "6310",
+    "name": "BATU LICIN"
+  },
+  {
+    "id": "631002",
+    "regency_id": "6310",
+    "name": "KUSAN HILIR"
+  },
+  {
+    "id": "631003",
+    "regency_id": "6310",
+    "name": "SUNGAI LOBAN"
+  },
+  {
+    "id": "631004",
+    "regency_id": "6310",
+    "name": "SATUI"
+  },
+  {
+    "id": "631005",
+    "regency_id": "6310",
+    "name": "KUSAN HULU"
+  },
+  {
+    "id": "631006",
+    "regency_id": "6310",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "631007",
+    "regency_id": "6310",
+    "name": "KARANG BINTANG"
+  },
+  {
+    "id": "631008",
+    "regency_id": "6310",
+    "name": "MANTEWE"
+  },
+  {
+    "id": "631009",
+    "regency_id": "6310",
+    "name": "ANGSANA"
+  },
+  {
+    "id": "631010",
+    "regency_id": "6310",
+    "name": "KURANJI"
+  },
+  {
+    "id": "631011",
+    "regency_id": "6310",
+    "name": "KUSAN TENGAH"
+  },
+  {
+    "id": "631012",
+    "regency_id": "6310",
+    "name": "TELUK KEPAYANG"
+  }
+]

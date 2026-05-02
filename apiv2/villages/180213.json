@@ -1,1 +1,37 @@
-[{"id": "1802132001", "district_id": "180213", "name": "GUNUNG BATIN UDIK"}, {"id": "1802132002", "district_id": "180213", "name": "GUNUNG BATIN ILIR"}, {"id": "1802132003", "district_id": "180213", "name": "GUNUNG BATIN BARU"}, {"id": "1802132004", "district_id": "180213", "name": "GUNUNG AGUNG"}, {"id": "1802132005", "district_id": "180213", "name": "BANDAR AGUNG"}, {"id": "1802132006", "district_id": "180213", "name": "BANDAR SAKTI"}, {"id": "1802132007", "district_id": "180213", "name": "TANJUNG ANOM"}]
+[
+  {
+    "id": "1802132001",
+    "district_id": "180213",
+    "name": "GUNUNG BATIN UDIK"
+  },
+  {
+    "id": "1802132002",
+    "district_id": "180213",
+    "name": "GUNUNG BATIN ILIR"
+  },
+  {
+    "id": "1802132003",
+    "district_id": "180213",
+    "name": "GUNUNG BATIN BARU"
+  },
+  {
+    "id": "1802132004",
+    "district_id": "180213",
+    "name": "GUNUNG AGUNG"
+  },
+  {
+    "id": "1802132005",
+    "district_id": "180213",
+    "name": "BANDAR AGUNG"
+  },
+  {
+    "id": "1802132006",
+    "district_id": "180213",
+    "name": "BANDAR SAKTI"
+  },
+  {
+    "id": "1802132007",
+    "district_id": "180213",
+    "name": "TANJUNG ANOM"
+  }
+]

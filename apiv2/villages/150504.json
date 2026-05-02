@@ -1,1 +1,62 @@
-[{"id": "1505041002", "district_id": "150504", "name": "JAMBI KECIL"}, {"id": "1505042001", "district_id": "150504", "name": "SETIRIS"}, {"id": "1505042003", "district_id": "150504", "name": "TANJUNG KATUNG"}, {"id": "1505042004", "district_id": "150504", "name": "JAMBI TULO"}, {"id": "1505042005", "district_id": "150504", "name": "BARU"}, {"id": "1505042006", "district_id": "150504", "name": "DANAU LAMO"}, {"id": "1505042007", "district_id": "150504", "name": "MUARO JAMBI"}, {"id": "1505042016", "district_id": "150504", "name": "NIASO"}, {"id": "1505042017", "district_id": "150504", "name": "BAKUNG"}, {"id": "1505042018", "district_id": "150504", "name": "DANAU KEDAP"}, {"id": "1505042019", "district_id": "150504", "name": "MUDUNG DARAT"}, {"id": "1505042020", "district_id": "150504", "name": "LUBUK RAMAN"}]
+[
+  {
+    "id": "1505041002",
+    "district_id": "150504",
+    "name": "JAMBI KECIL"
+  },
+  {
+    "id": "1505042001",
+    "district_id": "150504",
+    "name": "SETIRIS"
+  },
+  {
+    "id": "1505042003",
+    "district_id": "150504",
+    "name": "TANJUNG KATUNG"
+  },
+  {
+    "id": "1505042004",
+    "district_id": "150504",
+    "name": "JAMBI TULO"
+  },
+  {
+    "id": "1505042005",
+    "district_id": "150504",
+    "name": "BARU"
+  },
+  {
+    "id": "1505042006",
+    "district_id": "150504",
+    "name": "DANAU LAMO"
+  },
+  {
+    "id": "1505042007",
+    "district_id": "150504",
+    "name": "MUARO JAMBI"
+  },
+  {
+    "id": "1505042016",
+    "district_id": "150504",
+    "name": "NIASO"
+  },
+  {
+    "id": "1505042017",
+    "district_id": "150504",
+    "name": "BAKUNG"
+  },
+  {
+    "id": "1505042018",
+    "district_id": "150504",
+    "name": "DANAU KEDAP"
+  },
+  {
+    "id": "1505042019",
+    "district_id": "150504",
+    "name": "MUDUNG DARAT"
+  },
+  {
+    "id": "1505042020",
+    "district_id": "150504",
+    "name": "LUBUK RAMAN"
+  }
+]

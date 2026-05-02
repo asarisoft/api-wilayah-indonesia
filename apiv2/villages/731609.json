@@ -1,1 +1,42 @@
-[{"id": "7316091001", "district_id": "731609", "name": "MALUA"}, {"id": "7316092002", "district_id": "731609", "name": "BONTO"}, {"id": "7316092003", "district_id": "731609", "name": "TALLUNG TONDOK"}, {"id": "7316092004", "district_id": "731609", "name": "RANTE MARIO"}, {"id": "7316092005", "district_id": "731609", "name": "TANGRU"}, {"id": "7316092006", "district_id": "731609", "name": "KOLAI"}, {"id": "7316092007", "district_id": "731609", "name": "DULANG"}, {"id": "7316092008", "district_id": "731609", "name": "BUNTU BATUAN"}]
+[
+  {
+    "id": "7316091001",
+    "district_id": "731609",
+    "name": "MALUA"
+  },
+  {
+    "id": "7316092002",
+    "district_id": "731609",
+    "name": "BONTO"
+  },
+  {
+    "id": "7316092003",
+    "district_id": "731609",
+    "name": "TALLUNG TONDOK"
+  },
+  {
+    "id": "7316092004",
+    "district_id": "731609",
+    "name": "RANTE MARIO"
+  },
+  {
+    "id": "7316092005",
+    "district_id": "731609",
+    "name": "TANGRU"
+  },
+  {
+    "id": "7316092006",
+    "district_id": "731609",
+    "name": "KOLAI"
+  },
+  {
+    "id": "7316092007",
+    "district_id": "731609",
+    "name": "DULANG"
+  },
+  {
+    "id": "7316092008",
+    "district_id": "731609",
+    "name": "BUNTU BATUAN"
+  }
+]

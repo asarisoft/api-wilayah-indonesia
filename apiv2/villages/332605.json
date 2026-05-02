@@ -1,1 +1,52 @@
-[{"id": "3326052001", "district_id": "332605", "name": "MESOYI"}, {"id": "3326052002", "district_id": "332605", "name": "JOLOTIGO"}, {"id": "3326052003", "district_id": "332605", "name": "SENGARE"}, {"id": "3326052004", "district_id": "332605", "name": "DONOWANGUN"}, {"id": "3326052005", "district_id": "332605", "name": "TALUN"}, {"id": "3326052006", "district_id": "332605", "name": "BANJARSARI"}, {"id": "3326052007", "district_id": "332605", "name": "KALIREJO"}, {"id": "3326052008", "district_id": "332605", "name": "BATURSARI"}, {"id": "3326052009", "district_id": "332605", "name": "KARANGASEM"}, {"id": "3326052010", "district_id": "332605", "name": "KROMPENG"}]
+[
+  {
+    "id": "3326052001",
+    "district_id": "332605",
+    "name": "MESOYI"
+  },
+  {
+    "id": "3326052002",
+    "district_id": "332605",
+    "name": "JOLOTIGO"
+  },
+  {
+    "id": "3326052003",
+    "district_id": "332605",
+    "name": "SENGARE"
+  },
+  {
+    "id": "3326052004",
+    "district_id": "332605",
+    "name": "DONOWANGUN"
+  },
+  {
+    "id": "3326052005",
+    "district_id": "332605",
+    "name": "TALUN"
+  },
+  {
+    "id": "3326052006",
+    "district_id": "332605",
+    "name": "BANJARSARI"
+  },
+  {
+    "id": "3326052007",
+    "district_id": "332605",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "3326052008",
+    "district_id": "332605",
+    "name": "BATURSARI"
+  },
+  {
+    "id": "3326052009",
+    "district_id": "332605",
+    "name": "KARANGASEM"
+  },
+  {
+    "id": "3326052010",
+    "district_id": "332605",
+    "name": "KROMPENG"
+  }
+]

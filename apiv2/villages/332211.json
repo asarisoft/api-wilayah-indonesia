@@ -1,1 +1,47 @@
-[{"id": "3322111002", "district_id": "332211", "name": "BAWEN"}, {"id": "3322111007", "district_id": "332211", "name": "HARJOSARI"}, {"id": "3322112001", "district_id": "332211", "name": "DOPLANG"}, {"id": "3322112003", "district_id": "332211", "name": "ASINAN"}, {"id": "3322112004", "district_id": "332211", "name": "POLOSIRI"}, {"id": "3322112005", "district_id": "332211", "name": "KANDANGAN"}, {"id": "3322112006", "district_id": "332211", "name": "LEMAHIRENG"}, {"id": "3322112008", "district_id": "332211", "name": "SAMBAN"}, {"id": "3322112009", "district_id": "332211", "name": "PONCORUSO"}]
+[
+  {
+    "id": "3322111002",
+    "district_id": "332211",
+    "name": "BAWEN"
+  },
+  {
+    "id": "3322111007",
+    "district_id": "332211",
+    "name": "HARJOSARI"
+  },
+  {
+    "id": "3322112001",
+    "district_id": "332211",
+    "name": "DOPLANG"
+  },
+  {
+    "id": "3322112003",
+    "district_id": "332211",
+    "name": "ASINAN"
+  },
+  {
+    "id": "3322112004",
+    "district_id": "332211",
+    "name": "POLOSIRI"
+  },
+  {
+    "id": "3322112005",
+    "district_id": "332211",
+    "name": "KANDANGAN"
+  },
+  {
+    "id": "3322112006",
+    "district_id": "332211",
+    "name": "LEMAHIRENG"
+  },
+  {
+    "id": "3322112008",
+    "district_id": "332211",
+    "name": "SAMBAN"
+  },
+  {
+    "id": "3322112009",
+    "district_id": "332211",
+    "name": "PONCORUSO"
+  }
+]

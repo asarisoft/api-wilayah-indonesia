@@ -1,1 +1,82 @@
-[{"id": "5306052006", "district_id": "530605", "name": "LEWOBUNGA"}, {"id": "5306052007", "district_id": "530605", "name": "SINA MALAKA"}, {"id": "5306052008", "district_id": "530605", "name": "RATULODONG"}, {"id": "5306052009", "district_id": "530605", "name": "SINAR HADIGALA"}, {"id": "5306052010", "district_id": "530605", "name": "BAHINGA"}, {"id": "5306052011", "district_id": "530605", "name": "WAIBAO"}, {"id": "5306052012", "district_id": "530605", "name": "LAMATUTU"}, {"id": "5306052013", "district_id": "530605", "name": "LATON LIWO"}, {"id": "5306052015", "district_id": "530605", "name": "KOLAKA"}, {"id": "5306052016", "district_id": "530605", "name": "BANDONA"}, {"id": "5306052017", "district_id": "530605", "name": "NUSA NIPA"}, {"id": "5306052018", "district_id": "530605", "name": "PATISIRAWALANG"}, {"id": "5306052020", "district_id": "530605", "name": "GEKENG DERAN"}, {"id": "5306052021", "district_id": "530605", "name": "ARANSINA"}, {"id": "5306052022", "district_id": "530605", "name": "LATON LIWO II"}, {"id": "5306052023", "district_id": "530605", "name": "LAMANABI"}]
+[
+  {
+    "id": "5306052006",
+    "district_id": "530605",
+    "name": "LEWOBUNGA"
+  },
+  {
+    "id": "5306052007",
+    "district_id": "530605",
+    "name": "SINA MALAKA"
+  },
+  {
+    "id": "5306052008",
+    "district_id": "530605",
+    "name": "RATULODONG"
+  },
+  {
+    "id": "5306052009",
+    "district_id": "530605",
+    "name": "SINAR HADIGALA"
+  },
+  {
+    "id": "5306052010",
+    "district_id": "530605",
+    "name": "BAHINGA"
+  },
+  {
+    "id": "5306052011",
+    "district_id": "530605",
+    "name": "WAIBAO"
+  },
+  {
+    "id": "5306052012",
+    "district_id": "530605",
+    "name": "LAMATUTU"
+  },
+  {
+    "id": "5306052013",
+    "district_id": "530605",
+    "name": "LATON LIWO"
+  },
+  {
+    "id": "5306052015",
+    "district_id": "530605",
+    "name": "KOLAKA"
+  },
+  {
+    "id": "5306052016",
+    "district_id": "530605",
+    "name": "BANDONA"
+  },
+  {
+    "id": "5306052017",
+    "district_id": "530605",
+    "name": "NUSA NIPA"
+  },
+  {
+    "id": "5306052018",
+    "district_id": "530605",
+    "name": "PATISIRAWALANG"
+  },
+  {
+    "id": "5306052020",
+    "district_id": "530605",
+    "name": "GEKENG DERAN"
+  },
+  {
+    "id": "5306052021",
+    "district_id": "530605",
+    "name": "ARANSINA"
+  },
+  {
+    "id": "5306052022",
+    "district_id": "530605",
+    "name": "LATON LIWO II"
+  },
+  {
+    "id": "5306052023",
+    "district_id": "530605",
+    "name": "LAMANABI"
+  }
+]

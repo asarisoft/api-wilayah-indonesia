@@ -1,1 +1,17 @@
-[{"id": "3471121001", "district_id": "347112", "name": "KEPARAKAN"}, {"id": "3471121002", "district_id": "347112", "name": "WIROGUNAN"}, {"id": "3471121003", "district_id": "347112", "name": "BRONTOKUSUMAN"}]
+[
+  {
+    "id": "3471121001",
+    "district_id": "347112",
+    "name": "KEPARAKAN"
+  },
+  {
+    "id": "3471121002",
+    "district_id": "347112",
+    "name": "WIROGUNAN"
+  },
+  {
+    "id": "3471121003",
+    "district_id": "347112",
+    "name": "BRONTOKUSUMAN"
+  }
+]

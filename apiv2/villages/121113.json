@@ -1,1 +1,27 @@
-[{"id": "1211132001", "district_id": "121113", "name": "SAMBALIANG"}, {"id": "1211132002", "district_id": "121113", "name": "PASI"}, {"id": "1211132003", "district_id": "121113", "name": "BANJAR TOBA"}, {"id": "1211132004", "district_id": "121113", "name": "BERAMPU"}, {"id": "1211132005", "district_id": "121113", "name": "KARING"}]
+[
+  {
+    "id": "1211132001",
+    "district_id": "121113",
+    "name": "SAMBALIANG"
+  },
+  {
+    "id": "1211132002",
+    "district_id": "121113",
+    "name": "PASI"
+  },
+  {
+    "id": "1211132003",
+    "district_id": "121113",
+    "name": "BANJAR TOBA"
+  },
+  {
+    "id": "1211132004",
+    "district_id": "121113",
+    "name": "BERAMPU"
+  },
+  {
+    "id": "1211132005",
+    "district_id": "121113",
+    "name": "KARING"
+  }
+]

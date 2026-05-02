@@ -1,1 +1,42 @@
-[{"id": "631101", "regency_id": "6311", "name": "JUAI"}, {"id": "631102", "regency_id": "6311", "name": "HALONG"}, {"id": "631103", "regency_id": "6311", "name": "AWAYAN"}, {"id": "631104", "regency_id": "6311", "name": "BATU MANDI"}, {"id": "631105", "regency_id": "6311", "name": "LAMPIHONG"}, {"id": "631106", "regency_id": "6311", "name": "PARINGIN"}, {"id": "631107", "regency_id": "6311", "name": "PARINGIN SELATAN"}, {"id": "631108", "regency_id": "6311", "name": "TEBING TINGGI"}]
+[
+  {
+    "id": "631101",
+    "regency_id": "6311",
+    "name": "JUAI"
+  },
+  {
+    "id": "631102",
+    "regency_id": "6311",
+    "name": "HALONG"
+  },
+  {
+    "id": "631103",
+    "regency_id": "6311",
+    "name": "AWAYAN"
+  },
+  {
+    "id": "631104",
+    "regency_id": "6311",
+    "name": "BATU MANDI"
+  },
+  {
+    "id": "631105",
+    "regency_id": "6311",
+    "name": "LAMPIHONG"
+  },
+  {
+    "id": "631106",
+    "regency_id": "6311",
+    "name": "PARINGIN"
+  },
+  {
+    "id": "631107",
+    "regency_id": "6311",
+    "name": "PARINGIN SELATAN"
+  },
+  {
+    "id": "631108",
+    "regency_id": "6311",
+    "name": "TEBING TINGGI"
+  }
+]

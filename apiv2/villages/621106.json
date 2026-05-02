@@ -1,1 +1,77 @@
-[{"id": "6211062001", "district_id": "621106", "name": "TAHAI JAYA"}, {"id": "6211062002", "district_id": "621106", "name": "PURWODADI"}, {"id": "6211062003", "district_id": "621106", "name": "WONO AGUNG"}, {"id": "6211062004", "district_id": "621106", "name": "KANAMIT BARAT"}, {"id": "6211062005", "district_id": "621106", "name": "SEI BARU TEWU"}, {"id": "6211062006", "district_id": "621106", "name": "KANAMIT"}, {"id": "6211062007", "district_id": "621106", "name": "GARANTUNG"}, {"id": "6211062008", "district_id": "621106", "name": "GANDANG"}, {"id": "6211062009", "district_id": "621106", "name": "BADIRIH"}, {"id": "6211062010", "district_id": "621106", "name": "TAHAI BARU"}, {"id": "6211062011", "district_id": "621106", "name": "MALIKU BARU"}, {"id": "6211062012", "district_id": "621106", "name": "SIDODADI"}, {"id": "6211062013", "district_id": "621106", "name": "KANAMIT JAYA"}, {"id": "6211062014", "district_id": "621106", "name": "GANDANG BARAT"}, {"id": "6211062015", "district_id": "621106", "name": "MALIKU MULIA"}]
+[
+  {
+    "id": "6211062001",
+    "district_id": "621106",
+    "name": "TAHAI JAYA"
+  },
+  {
+    "id": "6211062002",
+    "district_id": "621106",
+    "name": "PURWODADI"
+  },
+  {
+    "id": "6211062003",
+    "district_id": "621106",
+    "name": "WONO AGUNG"
+  },
+  {
+    "id": "6211062004",
+    "district_id": "621106",
+    "name": "KANAMIT BARAT"
+  },
+  {
+    "id": "6211062005",
+    "district_id": "621106",
+    "name": "SEI BARU TEWU"
+  },
+  {
+    "id": "6211062006",
+    "district_id": "621106",
+    "name": "KANAMIT"
+  },
+  {
+    "id": "6211062007",
+    "district_id": "621106",
+    "name": "GARANTUNG"
+  },
+  {
+    "id": "6211062008",
+    "district_id": "621106",
+    "name": "GANDANG"
+  },
+  {
+    "id": "6211062009",
+    "district_id": "621106",
+    "name": "BADIRIH"
+  },
+  {
+    "id": "6211062010",
+    "district_id": "621106",
+    "name": "TAHAI BARU"
+  },
+  {
+    "id": "6211062011",
+    "district_id": "621106",
+    "name": "MALIKU BARU"
+  },
+  {
+    "id": "6211062012",
+    "district_id": "621106",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "6211062013",
+    "district_id": "621106",
+    "name": "KANAMIT JAYA"
+  },
+  {
+    "id": "6211062014",
+    "district_id": "621106",
+    "name": "GANDANG BARAT"
+  },
+  {
+    "id": "6211062015",
+    "district_id": "621106",
+    "name": "MALIKU MULIA"
+  }
+]

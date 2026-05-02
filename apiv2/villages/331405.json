@@ -1,1 +1,47 @@
-[{"id": "3314052001", "district_id": "331405", "name": "SUKOREJO"}, {"id": "3314052002", "district_id": "331405", "name": "JAMBEYAN"}, {"id": "3314052003", "district_id": "331405", "name": "JETIS"}, {"id": "3314052004", "district_id": "331405", "name": "MUSUK"}, {"id": "3314052005", "district_id": "331405", "name": "KADIPIRO"}, {"id": "3314052006", "district_id": "331405", "name": "SAMBIREJO"}, {"id": "3314052007", "district_id": "331405", "name": "BLIMBING"}, {"id": "3314052008", "district_id": "331405", "name": "DAWUNG"}, {"id": "3314052009", "district_id": "331405", "name": "SAMBI"}]
+[
+  {
+    "id": "3314052001",
+    "district_id": "331405",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3314052002",
+    "district_id": "331405",
+    "name": "JAMBEYAN"
+  },
+  {
+    "id": "3314052003",
+    "district_id": "331405",
+    "name": "JETIS"
+  },
+  {
+    "id": "3314052004",
+    "district_id": "331405",
+    "name": "MUSUK"
+  },
+  {
+    "id": "3314052005",
+    "district_id": "331405",
+    "name": "KADIPIRO"
+  },
+  {
+    "id": "3314052006",
+    "district_id": "331405",
+    "name": "SAMBIREJO"
+  },
+  {
+    "id": "3314052007",
+    "district_id": "331405",
+    "name": "BLIMBING"
+  },
+  {
+    "id": "3314052008",
+    "district_id": "331405",
+    "name": "DAWUNG"
+  },
+  {
+    "id": "3314052009",
+    "district_id": "331405",
+    "name": "SAMBI"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "8204222001", "district_id": "820422", "name": "WAYATIM"}, {"id": "8204222002", "district_id": "820422", "name": "TOMARA"}, {"id": "8204222003", "district_id": "820422", "name": "TUTUPA"}, {"id": "8204222004", "district_id": "820422", "name": "TABAPOMA"}, {"id": "8204222005", "district_id": "820422", "name": "BIBINOI"}, {"id": "8204222006", "district_id": "820422", "name": "SONGA"}, {"id": "8204222007", "district_id": "820422", "name": "TAWA"}]
+[
+  {
+    "id": "8204222001",
+    "district_id": "820422",
+    "name": "WAYATIM"
+  },
+  {
+    "id": "8204222002",
+    "district_id": "820422",
+    "name": "TOMARA"
+  },
+  {
+    "id": "8204222003",
+    "district_id": "820422",
+    "name": "TUTUPA"
+  },
+  {
+    "id": "8204222004",
+    "district_id": "820422",
+    "name": "TABAPOMA"
+  },
+  {
+    "id": "8204222005",
+    "district_id": "820422",
+    "name": "BIBINOI"
+  },
+  {
+    "id": "8204222006",
+    "district_id": "820422",
+    "name": "SONGA"
+  },
+  {
+    "id": "8204222007",
+    "district_id": "820422",
+    "name": "TAWA"
+  }
+]

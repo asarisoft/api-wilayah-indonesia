@@ -1,1 +1,37 @@
-[{"id": "3211232001", "district_id": "321123", "name": "CISARUA"}, {"id": "3211232002", "district_id": "321123", "name": "CIUYAH"}, {"id": "3211232003", "district_id": "321123", "name": "CIMARA"}, {"id": "3211232004", "district_id": "321123", "name": "BANTARMARA"}, {"id": "3211232005", "district_id": "321123", "name": "CIPANDANWANGI"}, {"id": "3211232006", "district_id": "321123", "name": "CISALAK"}, {"id": "3211232007", "district_id": "321123", "name": "KEBONKALAPA"}]
+[
+  {
+    "id": "3211232001",
+    "district_id": "321123",
+    "name": "CISARUA"
+  },
+  {
+    "id": "3211232002",
+    "district_id": "321123",
+    "name": "CIUYAH"
+  },
+  {
+    "id": "3211232003",
+    "district_id": "321123",
+    "name": "CIMARA"
+  },
+  {
+    "id": "3211232004",
+    "district_id": "321123",
+    "name": "BANTARMARA"
+  },
+  {
+    "id": "3211232005",
+    "district_id": "321123",
+    "name": "CIPANDANWANGI"
+  },
+  {
+    "id": "3211232006",
+    "district_id": "321123",
+    "name": "CISALAK"
+  },
+  {
+    "id": "3211232007",
+    "district_id": "321123",
+    "name": "KEBONKALAPA"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "7402321001", "district_id": "740232", "name": "BUNGGUOSU"}, {"id": "7402321002", "district_id": "740232", "name": "TUDAONE"}, {"id": "7402321003", "district_id": "740232", "name": "KONAWE"}, {"id": "7402321004", "district_id": "740232", "name": "TAWANGA"}, {"id": "7402322005", "district_id": "740232", "name": "SANGGONA"}, {"id": "7402322006", "district_id": "740232", "name": "UELAWU"}, {"id": "7402322007", "district_id": "740232", "name": "MOKOWU"}, {"id": "7402322008", "district_id": "740232", "name": "UETE"}, {"id": "7402322009", "district_id": "740232", "name": "HUDOA"}, {"id": "7402322010", "district_id": "740232", "name": "WONUA MBAE"}, {"id": "7402322011", "district_id": "740232", "name": "ASONIWOWO"}, {"id": "7402322012", "district_id": "740232", "name": "PUUWONUA"}]
+[
+  {
+    "id": "7402321001",
+    "district_id": "740232",
+    "name": "BUNGGUOSU"
+  },
+  {
+    "id": "7402321002",
+    "district_id": "740232",
+    "name": "TUDAONE"
+  },
+  {
+    "id": "7402321003",
+    "district_id": "740232",
+    "name": "KONAWE"
+  },
+  {
+    "id": "7402321004",
+    "district_id": "740232",
+    "name": "TAWANGA"
+  },
+  {
+    "id": "7402322005",
+    "district_id": "740232",
+    "name": "SANGGONA"
+  },
+  {
+    "id": "7402322006",
+    "district_id": "740232",
+    "name": "UELAWU"
+  },
+  {
+    "id": "7402322007",
+    "district_id": "740232",
+    "name": "MOKOWU"
+  },
+  {
+    "id": "7402322008",
+    "district_id": "740232",
+    "name": "UETE"
+  },
+  {
+    "id": "7402322009",
+    "district_id": "740232",
+    "name": "HUDOA"
+  },
+  {
+    "id": "7402322010",
+    "district_id": "740232",
+    "name": "WONUA MBAE"
+  },
+  {
+    "id": "7402322011",
+    "district_id": "740232",
+    "name": "ASONIWOWO"
+  },
+  {
+    "id": "7402322012",
+    "district_id": "740232",
+    "name": "PUUWONUA"
+  }
+]

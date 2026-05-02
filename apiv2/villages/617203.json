@@ -1,1 +1,27 @@
-[{"id": "6172031001", "district_id": "617203", "name": "PAJINTAN"}, {"id": "6172031002", "district_id": "617203", "name": "NYARUMKOP"}, {"id": "6172031003", "district_id": "617203", "name": "MAYA SOPA"}, {"id": "6172031004", "district_id": "617203", "name": "BAGAK SAHWA"}, {"id": "6172031005", "district_id": "617203", "name": "SANGGAU KULOR"}]
+[
+  {
+    "id": "6172031001",
+    "district_id": "617203",
+    "name": "PAJINTAN"
+  },
+  {
+    "id": "6172031002",
+    "district_id": "617203",
+    "name": "NYARUMKOP"
+  },
+  {
+    "id": "6172031003",
+    "district_id": "617203",
+    "name": "MAYA SOPA"
+  },
+  {
+    "id": "6172031004",
+    "district_id": "617203",
+    "name": "BAGAK SAHWA"
+  },
+  {
+    "id": "6172031005",
+    "district_id": "617203",
+    "name": "SANGGAU KULOR"
+  }
+]

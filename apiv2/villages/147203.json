@@ -1,1 +1,37 @@
-[{"id": "1472031001", "district_id": "147203", "name": "BUKIT NENAS"}, {"id": "1472031002", "district_id": "147203", "name": "BUKIT KAYU KAPUR"}, {"id": "1472031003", "district_id": "147203", "name": "GURUN PANJANG"}, {"id": "1472031004", "district_id": "147203", "name": "BAGAN BESAR"}, {"id": "1472031005", "district_id": "147203", "name": "KAMPUNG BARU"}, {"id": "1472031006", "district_id": "147203", "name": "BAGAN BESAR TIMUR"}, {"id": "1472031007", "district_id": "147203", "name": "BUKIT KAPUR"}]
+[
+  {
+    "id": "1472031001",
+    "district_id": "147203",
+    "name": "BUKIT NENAS"
+  },
+  {
+    "id": "1472031002",
+    "district_id": "147203",
+    "name": "BUKIT KAYU KAPUR"
+  },
+  {
+    "id": "1472031003",
+    "district_id": "147203",
+    "name": "GURUN PANJANG"
+  },
+  {
+    "id": "1472031004",
+    "district_id": "147203",
+    "name": "BAGAN BESAR"
+  },
+  {
+    "id": "1472031005",
+    "district_id": "147203",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1472031006",
+    "district_id": "147203",
+    "name": "BAGAN BESAR TIMUR"
+  },
+  {
+    "id": "1472031007",
+    "district_id": "147203",
+    "name": "BUKIT KAPUR"
+  }
+]

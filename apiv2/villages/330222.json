@@ -1,1 +1,62 @@
-[{"id": "3302222001", "district_id": "330222", "name": "PURWOSARI"}, {"id": "3302222002", "district_id": "330222", "name": "KUTASARI"}, {"id": "3302222003", "district_id": "330222", "name": "PANDAK"}, {"id": "3302222004", "district_id": "330222", "name": "PAMIJEN"}, {"id": "3302222005", "district_id": "330222", "name": "REMPOAH"}, {"id": "3302222006", "district_id": "330222", "name": "KEBUMEN"}, {"id": "3302222007", "district_id": "330222", "name": "KARANG TENGAH"}, {"id": "3302222008", "district_id": "330222", "name": "KEMUTUG KIDUL"}, {"id": "3302222009", "district_id": "330222", "name": "KARANGSALAM LOR"}, {"id": "3302222010", "district_id": "330222", "name": "KEMUTUG LOR"}, {"id": "3302222011", "district_id": "330222", "name": "KARANGMANGU"}, {"id": "3302222012", "district_id": "330222", "name": "KETENGER"}]
+[
+  {
+    "id": "3302222001",
+    "district_id": "330222",
+    "name": "PURWOSARI"
+  },
+  {
+    "id": "3302222002",
+    "district_id": "330222",
+    "name": "KUTASARI"
+  },
+  {
+    "id": "3302222003",
+    "district_id": "330222",
+    "name": "PANDAK"
+  },
+  {
+    "id": "3302222004",
+    "district_id": "330222",
+    "name": "PAMIJEN"
+  },
+  {
+    "id": "3302222005",
+    "district_id": "330222",
+    "name": "REMPOAH"
+  },
+  {
+    "id": "3302222006",
+    "district_id": "330222",
+    "name": "KEBUMEN"
+  },
+  {
+    "id": "3302222007",
+    "district_id": "330222",
+    "name": "KARANG TENGAH"
+  },
+  {
+    "id": "3302222008",
+    "district_id": "330222",
+    "name": "KEMUTUG KIDUL"
+  },
+  {
+    "id": "3302222009",
+    "district_id": "330222",
+    "name": "KARANGSALAM LOR"
+  },
+  {
+    "id": "3302222010",
+    "district_id": "330222",
+    "name": "KEMUTUG LOR"
+  },
+  {
+    "id": "3302222011",
+    "district_id": "330222",
+    "name": "KARANGMANGU"
+  },
+  {
+    "id": "3302222012",
+    "district_id": "330222",
+    "name": "KETENGER"
+  }
+]

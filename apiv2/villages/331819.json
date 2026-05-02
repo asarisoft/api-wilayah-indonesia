@@ -1,1 +1,107 @@
-[{"id": "3318192001", "district_id": "331819", "name": "PONDOWAN"}, {"id": "3318192002", "district_id": "331819", "name": "KEDUNGSARI"}, {"id": "3318192003", "district_id": "331819", "name": "MARGOMULYO"}, {"id": "3318192004", "district_id": "331819", "name": "PAKIS"}, {"id": "3318192005", "district_id": "331819", "name": "SENDANGREJO"}, {"id": "3318192006", "district_id": "331819", "name": "JEPAT KIDUL"}, {"id": "3318192007", "district_id": "331819", "name": "TUNGGULSARI"}, {"id": "3318192008", "district_id": "331819", "name": "JEPAT LOR"}, {"id": "3318192009", "district_id": "331819", "name": "TENDAS"}, {"id": "3318192010", "district_id": "331819", "name": "KEBOROMO"}, {"id": "3318192011", "district_id": "331819", "name": "SAMBIROTO"}, {"id": "3318192012", "district_id": "331819", "name": "TAYU WETAN"}, {"id": "3318192013", "district_id": "331819", "name": "TAYU KULON"}, {"id": "3318192014", "district_id": "331819", "name": "PUNDENREJO"}, {"id": "3318192015", "district_id": "331819", "name": "KEDUNGBANG"}, {"id": "3318192016", "district_id": "331819", "name": "BENDOKATON KIDUL"}, {"id": "3318192017", "district_id": "331819", "name": "PURWOKERTO"}, {"id": "3318192018", "district_id": "331819", "name": "BULUNGAN"}, {"id": "3318192019", "district_id": "331819", "name": "LUWANG"}, {"id": "3318192020", "district_id": "331819", "name": "DOROREJO"}, {"id": "3318192021", "district_id": "331819", "name": "KALIKALONG"}]
+[
+  {
+    "id": "3318192001",
+    "district_id": "331819",
+    "name": "PONDOWAN"
+  },
+  {
+    "id": "3318192002",
+    "district_id": "331819",
+    "name": "KEDUNGSARI"
+  },
+  {
+    "id": "3318192003",
+    "district_id": "331819",
+    "name": "MARGOMULYO"
+  },
+  {
+    "id": "3318192004",
+    "district_id": "331819",
+    "name": "PAKIS"
+  },
+  {
+    "id": "3318192005",
+    "district_id": "331819",
+    "name": "SENDANGREJO"
+  },
+  {
+    "id": "3318192006",
+    "district_id": "331819",
+    "name": "JEPAT KIDUL"
+  },
+  {
+    "id": "3318192007",
+    "district_id": "331819",
+    "name": "TUNGGULSARI"
+  },
+  {
+    "id": "3318192008",
+    "district_id": "331819",
+    "name": "JEPAT LOR"
+  },
+  {
+    "id": "3318192009",
+    "district_id": "331819",
+    "name": "TENDAS"
+  },
+  {
+    "id": "3318192010",
+    "district_id": "331819",
+    "name": "KEBOROMO"
+  },
+  {
+    "id": "3318192011",
+    "district_id": "331819",
+    "name": "SAMBIROTO"
+  },
+  {
+    "id": "3318192012",
+    "district_id": "331819",
+    "name": "TAYU WETAN"
+  },
+  {
+    "id": "3318192013",
+    "district_id": "331819",
+    "name": "TAYU KULON"
+  },
+  {
+    "id": "3318192014",
+    "district_id": "331819",
+    "name": "PUNDENREJO"
+  },
+  {
+    "id": "3318192015",
+    "district_id": "331819",
+    "name": "KEDUNGBANG"
+  },
+  {
+    "id": "3318192016",
+    "district_id": "331819",
+    "name": "BENDOKATON KIDUL"
+  },
+  {
+    "id": "3318192017",
+    "district_id": "331819",
+    "name": "PURWOKERTO"
+  },
+  {
+    "id": "3318192018",
+    "district_id": "331819",
+    "name": "BULUNGAN"
+  },
+  {
+    "id": "3318192019",
+    "district_id": "331819",
+    "name": "LUWANG"
+  },
+  {
+    "id": "3318192020",
+    "district_id": "331819",
+    "name": "DOROREJO"
+  },
+  {
+    "id": "3318192021",
+    "district_id": "331819",
+    "name": "KALIKALONG"
+  }
+]

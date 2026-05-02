@@ -1,1 +1,87 @@
-[{"id": "920301", "regency_id": "9203", "name": "FAK-FAK"}, {"id": "920302", "regency_id": "9203", "name": "FAK-FAK BARAT"}, {"id": "920303", "regency_id": "9203", "name": "FAK-FAK TIMUR"}, {"id": "920304", "regency_id": "9203", "name": "KOKAS"}, {"id": "920305", "regency_id": "9203", "name": "FAK-FAK TENGAH"}, {"id": "920306", "regency_id": "9203", "name": "KARAS"}, {"id": "920307", "regency_id": "9203", "name": "BOMBERAY"}, {"id": "920308", "regency_id": "9203", "name": "KRAMONGMONGGA"}, {"id": "920309", "regency_id": "9203", "name": "TELUK PATIPI"}, {"id": "920310", "regency_id": "9203", "name": "PARIWARI"}, {"id": "920311", "regency_id": "9203", "name": "WARTUTIN"}, {"id": "920312", "regency_id": "9203", "name": "FAKFAK TIMUR TENGAH"}, {"id": "920313", "regency_id": "9203", "name": "ARGUNI"}, {"id": "920314", "regency_id": "9203", "name": "MBAHAMDANDARA"}, {"id": "920315", "regency_id": "9203", "name": "KAYAUNI"}, {"id": "920316", "regency_id": "9203", "name": "FURWAGI"}, {"id": "920317", "regency_id": "9203", "name": "TOMAGE"}]
+[
+  {
+    "id": "920301",
+    "regency_id": "9203",
+    "name": "FAK-FAK"
+  },
+  {
+    "id": "920302",
+    "regency_id": "9203",
+    "name": "FAK-FAK BARAT"
+  },
+  {
+    "id": "920303",
+    "regency_id": "9203",
+    "name": "FAK-FAK TIMUR"
+  },
+  {
+    "id": "920304",
+    "regency_id": "9203",
+    "name": "KOKAS"
+  },
+  {
+    "id": "920305",
+    "regency_id": "9203",
+    "name": "FAK-FAK TENGAH"
+  },
+  {
+    "id": "920306",
+    "regency_id": "9203",
+    "name": "KARAS"
+  },
+  {
+    "id": "920307",
+    "regency_id": "9203",
+    "name": "BOMBERAY"
+  },
+  {
+    "id": "920308",
+    "regency_id": "9203",
+    "name": "KRAMONGMONGGA"
+  },
+  {
+    "id": "920309",
+    "regency_id": "9203",
+    "name": "TELUK PATIPI"
+  },
+  {
+    "id": "920310",
+    "regency_id": "9203",
+    "name": "PARIWARI"
+  },
+  {
+    "id": "920311",
+    "regency_id": "9203",
+    "name": "WARTUTIN"
+  },
+  {
+    "id": "920312",
+    "regency_id": "9203",
+    "name": "FAKFAK TIMUR TENGAH"
+  },
+  {
+    "id": "920313",
+    "regency_id": "9203",
+    "name": "ARGUNI"
+  },
+  {
+    "id": "920314",
+    "regency_id": "9203",
+    "name": "MBAHAMDANDARA"
+  },
+  {
+    "id": "920315",
+    "regency_id": "9203",
+    "name": "KAYAUNI"
+  },
+  {
+    "id": "920316",
+    "regency_id": "9203",
+    "name": "FURWAGI"
+  },
+  {
+    "id": "920317",
+    "regency_id": "9203",
+    "name": "TOMAGE"
+  }
+]

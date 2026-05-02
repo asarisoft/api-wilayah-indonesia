@@ -1,1 +1,62 @@
-[{"id": "3203192001", "district_id": "320319", "name": "TANGGEUNG"}, {"id": "3203192002", "district_id": "320319", "name": "RAWAGEDE"}, {"id": "3203192003", "district_id": "320319", "name": "CILONGSONG"}, {"id": "3203192004", "district_id": "320319", "name": "MARGALUYU"}, {"id": "3203192005", "district_id": "320319", "name": "KARANGTENGAH"}, {"id": "3203192006", "district_id": "320319", "name": "PAGERMANEUH"}, {"id": "3203192007", "district_id": "320319", "name": "BOJONGPETIR"}, {"id": "3203192009", "district_id": "320319", "name": "PASIRJAMBU"}, {"id": "3203192010", "district_id": "320319", "name": "SIRNAJAYA"}, {"id": "3203192013", "district_id": "320319", "name": "KERTAJAYA"}, {"id": "3203192014", "district_id": "320319", "name": "SUKAJAYA"}, {"id": "3203192015", "district_id": "320319", "name": "PADALUYU"}]
+[
+  {
+    "id": "3203192001",
+    "district_id": "320319",
+    "name": "TANGGEUNG"
+  },
+  {
+    "id": "3203192002",
+    "district_id": "320319",
+    "name": "RAWAGEDE"
+  },
+  {
+    "id": "3203192003",
+    "district_id": "320319",
+    "name": "CILONGSONG"
+  },
+  {
+    "id": "3203192004",
+    "district_id": "320319",
+    "name": "MARGALUYU"
+  },
+  {
+    "id": "3203192005",
+    "district_id": "320319",
+    "name": "KARANGTENGAH"
+  },
+  {
+    "id": "3203192006",
+    "district_id": "320319",
+    "name": "PAGERMANEUH"
+  },
+  {
+    "id": "3203192007",
+    "district_id": "320319",
+    "name": "BOJONGPETIR"
+  },
+  {
+    "id": "3203192009",
+    "district_id": "320319",
+    "name": "PASIRJAMBU"
+  },
+  {
+    "id": "3203192010",
+    "district_id": "320319",
+    "name": "SIRNAJAYA"
+  },
+  {
+    "id": "3203192013",
+    "district_id": "320319",
+    "name": "KERTAJAYA"
+  },
+  {
+    "id": "3203192014",
+    "district_id": "320319",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "3203192015",
+    "district_id": "320319",
+    "name": "PADALUYU"
+  }
+]

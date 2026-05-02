@@ -1,1 +1,32 @@
-[{"id": "1271151001", "district_id": "127115", "name": "AUR"}, {"id": "1271151002", "district_id": "127115", "name": "HAMDAN"}, {"id": "1271151003", "district_id": "127115", "name": "JATI"}, {"id": "1271151004", "district_id": "127115", "name": "SUKARAJA"}, {"id": "1271151005", "district_id": "127115", "name": "SEI MATI"}, {"id": "1271151006", "district_id": "127115", "name": "KAMPUNG BARU"}]
+[
+  {
+    "id": "1271151001",
+    "district_id": "127115",
+    "name": "AUR"
+  },
+  {
+    "id": "1271151002",
+    "district_id": "127115",
+    "name": "HAMDAN"
+  },
+  {
+    "id": "1271151003",
+    "district_id": "127115",
+    "name": "JATI"
+  },
+  {
+    "id": "1271151004",
+    "district_id": "127115",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "1271151005",
+    "district_id": "127115",
+    "name": "SEI MATI"
+  },
+  {
+    "id": "1271151006",
+    "district_id": "127115",
+    "name": "KAMPUNG BARU"
+  }
+]

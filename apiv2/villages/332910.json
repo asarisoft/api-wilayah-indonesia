@@ -1,1 +1,52 @@
-[{"id": "3329102001", "district_id": "332910", "name": "CENANG"}, {"id": "3329102002", "district_id": "332910", "name": "DUKUHMAJA"}, {"id": "3329102003", "district_id": "332910", "name": "JATIROKEH"}, {"id": "3329102004", "district_id": "332910", "name": "KARANGSEMBUNG"}, {"id": "3329102005", "district_id": "332910", "name": "SONGGOM"}, {"id": "3329102006", "district_id": "332910", "name": "WANACALA"}, {"id": "3329102007", "district_id": "332910", "name": "WANATAWANG"}, {"id": "3329102008", "district_id": "332910", "name": "GEGERKUNCI"}, {"id": "3329102009", "district_id": "332910", "name": "JATIMAKMUR"}, {"id": "3329102010", "district_id": "332910", "name": "SONGGOM LOR"}]
+[
+  {
+    "id": "3329102001",
+    "district_id": "332910",
+    "name": "CENANG"
+  },
+  {
+    "id": "3329102002",
+    "district_id": "332910",
+    "name": "DUKUHMAJA"
+  },
+  {
+    "id": "3329102003",
+    "district_id": "332910",
+    "name": "JATIROKEH"
+  },
+  {
+    "id": "3329102004",
+    "district_id": "332910",
+    "name": "KARANGSEMBUNG"
+  },
+  {
+    "id": "3329102005",
+    "district_id": "332910",
+    "name": "SONGGOM"
+  },
+  {
+    "id": "3329102006",
+    "district_id": "332910",
+    "name": "WANACALA"
+  },
+  {
+    "id": "3329102007",
+    "district_id": "332910",
+    "name": "WANATAWANG"
+  },
+  {
+    "id": "3329102008",
+    "district_id": "332910",
+    "name": "GEGERKUNCI"
+  },
+  {
+    "id": "3329102009",
+    "district_id": "332910",
+    "name": "JATIMAKMUR"
+  },
+  {
+    "id": "3329102010",
+    "district_id": "332910",
+    "name": "SONGGOM LOR"
+  }
+]

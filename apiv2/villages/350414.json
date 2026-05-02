@@ -1,1 +1,87 @@
-[{"id": "3504142001", "district_id": "350414", "name": "KALIBATUR"}, {"id": "3504142002", "district_id": "350414", "name": "REJOSARI"}, {"id": "3504142003", "district_id": "350414", "name": "SUKOREJO KULON"}, {"id": "3504142004", "district_id": "350414", "name": "KALIDAWIR"}, {"id": "3504142005", "district_id": "350414", "name": "KARANGTALUN"}, {"id": "3504142006", "district_id": "350414", "name": "BANYUURIP"}, {"id": "3504142007", "district_id": "350414", "name": "WINONG"}, {"id": "3504142008", "district_id": "350414", "name": "JOHO"}, {"id": "3504142009", "district_id": "350414", "name": "PAKISAJI"}, {"id": "3504142010", "district_id": "350414", "name": "JABON"}, {"id": "3504142011", "district_id": "350414", "name": "TUNGGANGRI"}, {"id": "3504142012", "district_id": "350414", "name": "SALAKKEMBANG"}, {"id": "3504142013", "district_id": "350414", "name": "NGUBALAN"}, {"id": "3504142014", "district_id": "350414", "name": "DOMASAN"}, {"id": "3504142015", "district_id": "350414", "name": "TANJUNG"}, {"id": "3504142016", "district_id": "350414", "name": "BETAK"}, {"id": "3504142017", "district_id": "350414", "name": "PAGERSARI"}]
+[
+  {
+    "id": "3504142001",
+    "district_id": "350414",
+    "name": "KALIBATUR"
+  },
+  {
+    "id": "3504142002",
+    "district_id": "350414",
+    "name": "REJOSARI"
+  },
+  {
+    "id": "3504142003",
+    "district_id": "350414",
+    "name": "SUKOREJO KULON"
+  },
+  {
+    "id": "3504142004",
+    "district_id": "350414",
+    "name": "KALIDAWIR"
+  },
+  {
+    "id": "3504142005",
+    "district_id": "350414",
+    "name": "KARANGTALUN"
+  },
+  {
+    "id": "3504142006",
+    "district_id": "350414",
+    "name": "BANYUURIP"
+  },
+  {
+    "id": "3504142007",
+    "district_id": "350414",
+    "name": "WINONG"
+  },
+  {
+    "id": "3504142008",
+    "district_id": "350414",
+    "name": "JOHO"
+  },
+  {
+    "id": "3504142009",
+    "district_id": "350414",
+    "name": "PAKISAJI"
+  },
+  {
+    "id": "3504142010",
+    "district_id": "350414",
+    "name": "JABON"
+  },
+  {
+    "id": "3504142011",
+    "district_id": "350414",
+    "name": "TUNGGANGRI"
+  },
+  {
+    "id": "3504142012",
+    "district_id": "350414",
+    "name": "SALAKKEMBANG"
+  },
+  {
+    "id": "3504142013",
+    "district_id": "350414",
+    "name": "NGUBALAN"
+  },
+  {
+    "id": "3504142014",
+    "district_id": "350414",
+    "name": "DOMASAN"
+  },
+  {
+    "id": "3504142015",
+    "district_id": "350414",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "3504142016",
+    "district_id": "350414",
+    "name": "BETAK"
+  },
+  {
+    "id": "3504142017",
+    "district_id": "350414",
+    "name": "PAGERSARI"
+  }
+]

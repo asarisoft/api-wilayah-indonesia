@@ -1,1 +1,62 @@
-[{"id": "1213021012", "district_id": "121302", "name": "MOMPANG JAE"}, {"id": "1213022002", "district_id": "121302", "name": "BERINGIN JAYA"}, {"id": "1213022007", "district_id": "121302", "name": "HUTA DAMAI"}, {"id": "1213022008", "district_id": "121302", "name": "JAMBUR PADANG MATINGGI"}, {"id": "1213022009", "district_id": "121302", "name": "KAMPUNG BARU"}, {"id": "1213022010", "district_id": "121302", "name": "MOMPANG JULU"}, {"id": "1213022014", "district_id": "121302", "name": "RUMBIO"}, {"id": "1213022015", "district_id": "121302", "name": "SUKA RAMAI"}, {"id": "1213022017", "district_id": "121302", "name": "SOPO SORIK"}, {"id": "1213022018", "district_id": "121302", "name": "SIMANONDONG"}, {"id": "1213022019", "district_id": "121302", "name": "TORBANUA RAJA"}, {"id": "1213022020", "district_id": "121302", "name": "TANJUNG MOMPANG"}]
+[
+  {
+    "id": "1213021012",
+    "district_id": "121302",
+    "name": "MOMPANG JAE"
+  },
+  {
+    "id": "1213022002",
+    "district_id": "121302",
+    "name": "BERINGIN JAYA"
+  },
+  {
+    "id": "1213022007",
+    "district_id": "121302",
+    "name": "HUTA DAMAI"
+  },
+  {
+    "id": "1213022008",
+    "district_id": "121302",
+    "name": "JAMBUR PADANG MATINGGI"
+  },
+  {
+    "id": "1213022009",
+    "district_id": "121302",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1213022010",
+    "district_id": "121302",
+    "name": "MOMPANG JULU"
+  },
+  {
+    "id": "1213022014",
+    "district_id": "121302",
+    "name": "RUMBIO"
+  },
+  {
+    "id": "1213022015",
+    "district_id": "121302",
+    "name": "SUKA RAMAI"
+  },
+  {
+    "id": "1213022017",
+    "district_id": "121302",
+    "name": "SOPO SORIK"
+  },
+  {
+    "id": "1213022018",
+    "district_id": "121302",
+    "name": "SIMANONDONG"
+  },
+  {
+    "id": "1213022019",
+    "district_id": "121302",
+    "name": "TORBANUA RAJA"
+  },
+  {
+    "id": "1213022020",
+    "district_id": "121302",
+    "name": "TANJUNG MOMPANG"
+  }
+]

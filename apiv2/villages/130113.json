@@ -1,1 +1,52 @@
-[{"id": "1301132001", "district_id": "130113", "name": "INDERAPURA UTARA"}, {"id": "1301132002", "district_id": "130113", "name": "MUARA INDERAPURA"}, {"id": "1301132003", "district_id": "130113", "name": "DAMAR LAPAN BATANG INDERAPURA"}, {"id": "1301132004", "district_id": "130113", "name": "LALANG PANJANG INDERAPURA"}, {"id": "1301132005", "district_id": "130113", "name": "PALOKAN INDERAPURA"}, {"id": "1301132006", "district_id": "130113", "name": "LUBUK BETUNG INDERAPURA"}, {"id": "1301132007", "district_id": "130113", "name": "TLUK KUALO INDERAPURA"}, {"id": "1301132008", "district_id": "130113", "name": "TANAH BAKALI INDERAPURA"}, {"id": "1301132009", "district_id": "130113", "name": "INDERAPURA TIMUR"}, {"id": "1301132010", "district_id": "130113", "name": "PULAU RAJO INDERAPURA"}]
+[
+  {
+    "id": "1301132001",
+    "district_id": "130113",
+    "name": "INDERAPURA UTARA"
+  },
+  {
+    "id": "1301132002",
+    "district_id": "130113",
+    "name": "MUARA INDERAPURA"
+  },
+  {
+    "id": "1301132003",
+    "district_id": "130113",
+    "name": "DAMAR LAPAN BATANG INDERAPURA"
+  },
+  {
+    "id": "1301132004",
+    "district_id": "130113",
+    "name": "LALANG PANJANG INDERAPURA"
+  },
+  {
+    "id": "1301132005",
+    "district_id": "130113",
+    "name": "PALOKAN INDERAPURA"
+  },
+  {
+    "id": "1301132006",
+    "district_id": "130113",
+    "name": "LUBUK BETUNG INDERAPURA"
+  },
+  {
+    "id": "1301132007",
+    "district_id": "130113",
+    "name": "TLUK KUALO INDERAPURA"
+  },
+  {
+    "id": "1301132008",
+    "district_id": "130113",
+    "name": "TANAH BAKALI INDERAPURA"
+  },
+  {
+    "id": "1301132009",
+    "district_id": "130113",
+    "name": "INDERAPURA TIMUR"
+  },
+  {
+    "id": "1301132010",
+    "district_id": "130113",
+    "name": "PULAU RAJO INDERAPURA"
+  }
+]

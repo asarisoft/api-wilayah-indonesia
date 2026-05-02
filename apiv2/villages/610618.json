@@ -1,1 +1,87 @@
-[{"id": "6106182001", "district_id": "610618", "name": "NANGA SEBINTANG"}, {"id": "6106182002", "district_id": "610618", "name": "NANGA LEBANGAN"}, {"id": "6106182003", "district_id": "610618", "name": "NANGA KALIS"}, {"id": "6106182004", "district_id": "610618", "name": "NANGA RAUN"}, {"id": "6106182005", "district_id": "610618", "name": "BAHENAP"}, {"id": "6106182006", "district_id": "610618", "name": "NANGA TUBUK"}, {"id": "6106182007", "district_id": "610618", "name": "NANGA DANAU"}, {"id": "6106182008", "district_id": "610618", "name": "KENSURAY"}, {"id": "6106182009", "district_id": "610618", "name": "RANTAU KALIS"}, {"id": "6106182010", "district_id": "610618", "name": "KALIS RAYA"}, {"id": "6106182011", "district_id": "610618", "name": "TEKUDAK"}, {"id": "6106182012", "district_id": "610618", "name": "SEMERANTAU"}, {"id": "6106182013", "district_id": "610618", "name": "TAPANG DA'AN"}, {"id": "6106182014", "district_id": "610618", "name": "SEGIAM"}, {"id": "6106182016", "district_id": "610618", "name": "RIBANG KADENG"}, {"id": "6106182017", "district_id": "610618", "name": "RANTAU BUMBUN"}, {"id": "6106182018", "district_id": "610618", "name": "PENIUNG"}]
+[
+  {
+    "id": "6106182001",
+    "district_id": "610618",
+    "name": "NANGA SEBINTANG"
+  },
+  {
+    "id": "6106182002",
+    "district_id": "610618",
+    "name": "NANGA LEBANGAN"
+  },
+  {
+    "id": "6106182003",
+    "district_id": "610618",
+    "name": "NANGA KALIS"
+  },
+  {
+    "id": "6106182004",
+    "district_id": "610618",
+    "name": "NANGA RAUN"
+  },
+  {
+    "id": "6106182005",
+    "district_id": "610618",
+    "name": "BAHENAP"
+  },
+  {
+    "id": "6106182006",
+    "district_id": "610618",
+    "name": "NANGA TUBUK"
+  },
+  {
+    "id": "6106182007",
+    "district_id": "610618",
+    "name": "NANGA DANAU"
+  },
+  {
+    "id": "6106182008",
+    "district_id": "610618",
+    "name": "KENSURAY"
+  },
+  {
+    "id": "6106182009",
+    "district_id": "610618",
+    "name": "RANTAU KALIS"
+  },
+  {
+    "id": "6106182010",
+    "district_id": "610618",
+    "name": "KALIS RAYA"
+  },
+  {
+    "id": "6106182011",
+    "district_id": "610618",
+    "name": "TEKUDAK"
+  },
+  {
+    "id": "6106182012",
+    "district_id": "610618",
+    "name": "SEMERANTAU"
+  },
+  {
+    "id": "6106182013",
+    "district_id": "610618",
+    "name": "TAPANG DA'AN"
+  },
+  {
+    "id": "6106182014",
+    "district_id": "610618",
+    "name": "SEGIAM"
+  },
+  {
+    "id": "6106182016",
+    "district_id": "610618",
+    "name": "RIBANG KADENG"
+  },
+  {
+    "id": "6106182017",
+    "district_id": "610618",
+    "name": "RANTAU BUMBUN"
+  },
+  {
+    "id": "6106182018",
+    "district_id": "610618",
+    "name": "PENIUNG"
+  }
+]

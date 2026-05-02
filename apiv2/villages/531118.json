@@ -1,1 +1,32 @@
-[{"id": "5311182001", "district_id": "531118", "name": "WATUMBELAR"}, {"id": "5311182002", "district_id": "531118", "name": "BIDIPRAING"}, {"id": "5311182003", "district_id": "531118", "name": "UMAMANU"}, {"id": "5311182004", "district_id": "531118", "name": "MONDULAMBI"}, {"id": "5311182005", "district_id": "531118", "name": "KANGELI"}, {"id": "5311182006", "district_id": "531118", "name": "LAIHAU"}]
+[
+  {
+    "id": "5311182001",
+    "district_id": "531118",
+    "name": "WATUMBELAR"
+  },
+  {
+    "id": "5311182002",
+    "district_id": "531118",
+    "name": "BIDIPRAING"
+  },
+  {
+    "id": "5311182003",
+    "district_id": "531118",
+    "name": "UMAMANU"
+  },
+  {
+    "id": "5311182004",
+    "district_id": "531118",
+    "name": "MONDULAMBI"
+  },
+  {
+    "id": "5311182005",
+    "district_id": "531118",
+    "name": "KANGELI"
+  },
+  {
+    "id": "5311182006",
+    "district_id": "531118",
+    "name": "LAIHAU"
+  }
+]

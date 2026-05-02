@@ -1,1 +1,32 @@
-[{"id": "1871141001", "district_id": "187114", "name": "LABUHAN RATU"}, {"id": "1871141002", "district_id": "187114", "name": "LABUHAN RATU RAYA"}, {"id": "1871141003", "district_id": "187114", "name": "SEPANG JAYA"}, {"id": "1871141004", "district_id": "187114", "name": "KOTA SEPANG"}, {"id": "1871141006", "district_id": "187114", "name": "KAMPUNG BARU RAYA"}, {"id": "1871141007", "district_id": "187114", "name": "KAMPUNG BARU"}]
+[
+  {
+    "id": "1871141001",
+    "district_id": "187114",
+    "name": "LABUHAN RATU"
+  },
+  {
+    "id": "1871141002",
+    "district_id": "187114",
+    "name": "LABUHAN RATU RAYA"
+  },
+  {
+    "id": "1871141003",
+    "district_id": "187114",
+    "name": "SEPANG JAYA"
+  },
+  {
+    "id": "1871141004",
+    "district_id": "187114",
+    "name": "KOTA SEPANG"
+  },
+  {
+    "id": "1871141006",
+    "district_id": "187114",
+    "name": "KAMPUNG BARU RAYA"
+  },
+  {
+    "id": "1871141007",
+    "district_id": "187114",
+    "name": "KAMPUNG BARU"
+  }
+]

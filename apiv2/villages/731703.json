@@ -1,1 +1,67 @@
-[{"id": "7317031003", "district_id": "731703", "name": "SULI"}, {"id": "7317032002", "district_id": "731703", "name": "MURANTE"}, {"id": "7317032004", "district_id": "731703", "name": "MALELA"}, {"id": "7317032005", "district_id": "731703", "name": "BOTTA"}, {"id": "7317032006", "district_id": "731703", "name": "CIMPU"}, {"id": "7317032008", "district_id": "731703", "name": "BUNTU KUNYI"}, {"id": "7317032011", "district_id": "731703", "name": "PADANG LAMBE"}, {"id": "7317032012", "district_id": "731703", "name": "KASIWIANG"}, {"id": "7317032013", "district_id": "731703", "name": "CAKKEAWO"}, {"id": "7317032015", "district_id": "731703", "name": "LEMPOPACCI"}, {"id": "7317032016", "district_id": "731703", "name": "TOWONDU"}, {"id": "7317032017", "district_id": "731703", "name": "CIMPU UTARA"}, {"id": "7317032018", "district_id": "731703", "name": "PAPAKAJU"}]
+[
+  {
+    "id": "7317031003",
+    "district_id": "731703",
+    "name": "SULI"
+  },
+  {
+    "id": "7317032002",
+    "district_id": "731703",
+    "name": "MURANTE"
+  },
+  {
+    "id": "7317032004",
+    "district_id": "731703",
+    "name": "MALELA"
+  },
+  {
+    "id": "7317032005",
+    "district_id": "731703",
+    "name": "BOTTA"
+  },
+  {
+    "id": "7317032006",
+    "district_id": "731703",
+    "name": "CIMPU"
+  },
+  {
+    "id": "7317032008",
+    "district_id": "731703",
+    "name": "BUNTU KUNYI"
+  },
+  {
+    "id": "7317032011",
+    "district_id": "731703",
+    "name": "PADANG LAMBE"
+  },
+  {
+    "id": "7317032012",
+    "district_id": "731703",
+    "name": "KASIWIANG"
+  },
+  {
+    "id": "7317032013",
+    "district_id": "731703",
+    "name": "CAKKEAWO"
+  },
+  {
+    "id": "7317032015",
+    "district_id": "731703",
+    "name": "LEMPOPACCI"
+  },
+  {
+    "id": "7317032016",
+    "district_id": "731703",
+    "name": "TOWONDU"
+  },
+  {
+    "id": "7317032017",
+    "district_id": "731703",
+    "name": "CIMPU UTARA"
+  },
+  {
+    "id": "7317032018",
+    "district_id": "731703",
+    "name": "PAPAKAJU"
+  }
+]

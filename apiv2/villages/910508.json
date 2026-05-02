@@ -1,1 +1,37 @@
-[{"id": "9105082001", "district_id": "910508", "name": "WAINDU"}, {"id": "9105082008", "district_id": "910508", "name": "BARAWAI"}, {"id": "9105082009", "district_id": "910508", "name": "WODA"}, {"id": "9105082010", "district_id": "910508", "name": "KOROROMPUI"}, {"id": "9105082011", "district_id": "910508", "name": "AISAU"}, {"id": "9105082012", "district_id": "910508", "name": "SEWENUI"}, {"id": "9105082013", "district_id": "910508", "name": "SAWENDUI"}]
+[
+  {
+    "id": "9105082001",
+    "district_id": "910508",
+    "name": "WAINDU"
+  },
+  {
+    "id": "9105082008",
+    "district_id": "910508",
+    "name": "BARAWAI"
+  },
+  {
+    "id": "9105082009",
+    "district_id": "910508",
+    "name": "WODA"
+  },
+  {
+    "id": "9105082010",
+    "district_id": "910508",
+    "name": "KOROROMPUI"
+  },
+  {
+    "id": "9105082011",
+    "district_id": "910508",
+    "name": "AISAU"
+  },
+  {
+    "id": "9105082012",
+    "district_id": "910508",
+    "name": "SEWENUI"
+  },
+  {
+    "id": "9105082013",
+    "district_id": "910508",
+    "name": "SAWENDUI"
+  }
+]

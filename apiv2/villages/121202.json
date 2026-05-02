@@ -1,1 +1,117 @@
-[{"id": "1212021001", "district_id": "121202", "name": "PASAR LAGUBOTI"}, {"id": "1212022002", "district_id": "121202", "name": "SIBUEA"}, {"id": "1212022003", "district_id": "121202", "name": "SINTONG MARNIPI"}, {"id": "1212022004", "district_id": "121202", "name": "SIBARANI NASAMPULU/NAMUNGKUP"}, {"id": "1212022005", "district_id": "121202", "name": "ARUAN"}, {"id": "1212022006", "district_id": "121202", "name": "SIDULANG"}, {"id": "1212022007", "district_id": "121202", "name": "UJUNG TANDUK"}, {"id": "1212022008", "district_id": "121202", "name": "HAUNATAS II"}, {"id": "1212022009", "district_id": "121202", "name": "PARDOMUAN NAULI"}, {"id": "1212022010", "district_id": "121202", "name": "SITANGKOLA"}, {"id": "1212022011", "district_id": "121202", "name": "TINGGIR NIPASIR"}, {"id": "1212022012", "district_id": "121202", "name": "HAUNATAS I"}, {"id": "1212022013", "district_id": "121202", "name": "PINTU BOSI"}, {"id": "1212022014", "district_id": "121202", "name": "SIMATIBUNG"}, {"id": "1212022015", "district_id": "121202", "name": "LUMBAN BINANGA"}, {"id": "1212022016", "district_id": "121202", "name": "OMPU RAJA HUTAPEA"}, {"id": "1212022017", "district_id": "121202", "name": "GASARIBU"}, {"id": "1212022018", "district_id": "121202", "name": "PARDINGGARAN"}, {"id": "1212022019", "district_id": "121202", "name": "SITOLUAMA"}, {"id": "1212022020", "district_id": "121202", "name": "LUMBAN BAGASAN"}, {"id": "1212022021", "district_id": "121202", "name": "SIRAJA GORAT"}, {"id": "1212022022", "district_id": "121202", "name": "OMPU RAJA HUTAPEA TIMUR"}, {"id": "1212022023", "district_id": "121202", "name": "OMPU RAJA HATULIAN"}]
+[
+  {
+    "id": "1212021001",
+    "district_id": "121202",
+    "name": "PASAR LAGUBOTI"
+  },
+  {
+    "id": "1212022002",
+    "district_id": "121202",
+    "name": "SIBUEA"
+  },
+  {
+    "id": "1212022003",
+    "district_id": "121202",
+    "name": "SINTONG MARNIPI"
+  },
+  {
+    "id": "1212022004",
+    "district_id": "121202",
+    "name": "SIBARANI NASAMPULU/NAMUNGKUP"
+  },
+  {
+    "id": "1212022005",
+    "district_id": "121202",
+    "name": "ARUAN"
+  },
+  {
+    "id": "1212022006",
+    "district_id": "121202",
+    "name": "SIDULANG"
+  },
+  {
+    "id": "1212022007",
+    "district_id": "121202",
+    "name": "UJUNG TANDUK"
+  },
+  {
+    "id": "1212022008",
+    "district_id": "121202",
+    "name": "HAUNATAS II"
+  },
+  {
+    "id": "1212022009",
+    "district_id": "121202",
+    "name": "PARDOMUAN NAULI"
+  },
+  {
+    "id": "1212022010",
+    "district_id": "121202",
+    "name": "SITANGKOLA"
+  },
+  {
+    "id": "1212022011",
+    "district_id": "121202",
+    "name": "TINGGIR NIPASIR"
+  },
+  {
+    "id": "1212022012",
+    "district_id": "121202",
+    "name": "HAUNATAS I"
+  },
+  {
+    "id": "1212022013",
+    "district_id": "121202",
+    "name": "PINTU BOSI"
+  },
+  {
+    "id": "1212022014",
+    "district_id": "121202",
+    "name": "SIMATIBUNG"
+  },
+  {
+    "id": "1212022015",
+    "district_id": "121202",
+    "name": "LUMBAN BINANGA"
+  },
+  {
+    "id": "1212022016",
+    "district_id": "121202",
+    "name": "OMPU RAJA HUTAPEA"
+  },
+  {
+    "id": "1212022017",
+    "district_id": "121202",
+    "name": "GASARIBU"
+  },
+  {
+    "id": "1212022018",
+    "district_id": "121202",
+    "name": "PARDINGGARAN"
+  },
+  {
+    "id": "1212022019",
+    "district_id": "121202",
+    "name": "SITOLUAMA"
+  },
+  {
+    "id": "1212022020",
+    "district_id": "121202",
+    "name": "LUMBAN BAGASAN"
+  },
+  {
+    "id": "1212022021",
+    "district_id": "121202",
+    "name": "SIRAJA GORAT"
+  },
+  {
+    "id": "1212022022",
+    "district_id": "121202",
+    "name": "OMPU RAJA HUTAPEA TIMUR"
+  },
+  {
+    "id": "1212022023",
+    "district_id": "121202",
+    "name": "OMPU RAJA HATULIAN"
+  }
+]

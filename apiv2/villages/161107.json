@@ -1,1 +1,77 @@
-[{"id": "1611072001", "district_id": "161107", "name": "TALANG PADANG"}, {"id": "1611072002", "district_id": "161107", "name": "TANJUNG BERINGIN"}, {"id": "1611072003", "district_id": "161107", "name": "PENANTIAN"}, {"id": "1611072004", "district_id": "161107", "name": "PAGAR JATI"}, {"id": "1611072005", "district_id": "161107", "name": "KEBON JATI"}, {"id": "1611072006", "district_id": "161107", "name": "BANDAR AGUNG"}, {"id": "1611072007", "district_id": "161107", "name": "LAWANG AGUNG"}, {"id": "1611072008", "district_id": "161107", "name": "NANJUNGAN"}, {"id": "1611072009", "district_id": "161107", "name": "TALANG RANDAI"}, {"id": "1611072010", "district_id": "161107", "name": "AIR MAYAM"}, {"id": "1611072011", "district_id": "161107", "name": "MUARA RUNGGA"}, {"id": "1611072012", "district_id": "161107", "name": "PADANG GELAI"}, {"id": "1611072013", "district_id": "161107", "name": "PADANG BINDU"}, {"id": "1611072014", "district_id": "161107", "name": "MUARA SINDANG"}, {"id": "1611072015", "district_id": "161107", "name": "MUARA AMAN"}]
+[
+  {
+    "id": "1611072001",
+    "district_id": "161107",
+    "name": "TALANG PADANG"
+  },
+  {
+    "id": "1611072002",
+    "district_id": "161107",
+    "name": "TANJUNG BERINGIN"
+  },
+  {
+    "id": "1611072003",
+    "district_id": "161107",
+    "name": "PENANTIAN"
+  },
+  {
+    "id": "1611072004",
+    "district_id": "161107",
+    "name": "PAGAR JATI"
+  },
+  {
+    "id": "1611072005",
+    "district_id": "161107",
+    "name": "KEBON JATI"
+  },
+  {
+    "id": "1611072006",
+    "district_id": "161107",
+    "name": "BANDAR AGUNG"
+  },
+  {
+    "id": "1611072007",
+    "district_id": "161107",
+    "name": "LAWANG AGUNG"
+  },
+  {
+    "id": "1611072008",
+    "district_id": "161107",
+    "name": "NANJUNGAN"
+  },
+  {
+    "id": "1611072009",
+    "district_id": "161107",
+    "name": "TALANG RANDAI"
+  },
+  {
+    "id": "1611072010",
+    "district_id": "161107",
+    "name": "AIR MAYAM"
+  },
+  {
+    "id": "1611072011",
+    "district_id": "161107",
+    "name": "MUARA RUNGGA"
+  },
+  {
+    "id": "1611072012",
+    "district_id": "161107",
+    "name": "PADANG GELAI"
+  },
+  {
+    "id": "1611072013",
+    "district_id": "161107",
+    "name": "PADANG BINDU"
+  },
+  {
+    "id": "1611072014",
+    "district_id": "161107",
+    "name": "MUARA SINDANG"
+  },
+  {
+    "id": "1611072015",
+    "district_id": "161107",
+    "name": "MUARA AMAN"
+  }
+]

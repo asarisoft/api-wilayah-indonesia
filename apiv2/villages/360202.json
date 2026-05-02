@@ -1,1 +1,57 @@
-[{"id": "3602022002", "district_id": "360202", "name": "PANGGARANGAN"}, {"id": "3602022003", "district_id": "360202", "name": "JATAKE"}, {"id": "3602022004", "district_id": "360202", "name": "SOGONG"}, {"id": "3602022005", "district_id": "360202", "name": "CIMANDIRI"}, {"id": "3602022009", "district_id": "360202", "name": "GUNUNGGEDE"}, {"id": "3602022010", "district_id": "360202", "name": "SITUREGEN"}, {"id": "3602022011", "district_id": "360202", "name": "MEKARJAYA"}, {"id": "3602022014", "district_id": "360202", "name": "SINDANGRATU"}, {"id": "3602022017", "district_id": "360202", "name": "HEGARMANAH"}, {"id": "3602022018", "district_id": "360202", "name": "SUKAJADI"}, {"id": "3602022019", "district_id": "360202", "name": "CIBARENGKOK"}]
+[
+  {
+    "id": "3602022002",
+    "district_id": "360202",
+    "name": "PANGGARANGAN"
+  },
+  {
+    "id": "3602022003",
+    "district_id": "360202",
+    "name": "JATAKE"
+  },
+  {
+    "id": "3602022004",
+    "district_id": "360202",
+    "name": "SOGONG"
+  },
+  {
+    "id": "3602022005",
+    "district_id": "360202",
+    "name": "CIMANDIRI"
+  },
+  {
+    "id": "3602022009",
+    "district_id": "360202",
+    "name": "GUNUNGGEDE"
+  },
+  {
+    "id": "3602022010",
+    "district_id": "360202",
+    "name": "SITUREGEN"
+  },
+  {
+    "id": "3602022011",
+    "district_id": "360202",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3602022014",
+    "district_id": "360202",
+    "name": "SINDANGRATU"
+  },
+  {
+    "id": "3602022017",
+    "district_id": "360202",
+    "name": "HEGARMANAH"
+  },
+  {
+    "id": "3602022018",
+    "district_id": "360202",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "3602022019",
+    "district_id": "360202",
+    "name": "CIBARENGKOK"
+  }
+]

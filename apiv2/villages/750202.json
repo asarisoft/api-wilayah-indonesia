@@ -1,1 +1,72 @@
-[{"id": "7502022001", "district_id": "750202", "name": "HARAPAN"}, {"id": "7502022002", "district_id": "750202", "name": "BONGO II"}, {"id": "7502022003", "district_id": "750202", "name": "BONGO III"}, {"id": "7502022004", "district_id": "750202", "name": "MEKARJAYA"}, {"id": "7502022005", "district_id": "750202", "name": "SUKAMAJU"}, {"id": "7502022006", "district_id": "750202", "name": "PANGEYA"}, {"id": "7502022007", "district_id": "750202", "name": "JATIMULYA"}, {"id": "7502022008", "district_id": "750202", "name": "SUKA MULYA"}, {"id": "7502022009", "district_id": "750202", "name": "SARI TANI"}, {"id": "7502022010", "district_id": "750202", "name": "DIMITO"}, {"id": "7502022011", "district_id": "750202", "name": "TANJUNG HARAPAN"}, {"id": "7502022012", "district_id": "750202", "name": "RAHARJA"}, {"id": "7502022013", "district_id": "750202", "name": "TRIRUKUN"}, {"id": "7502022014", "district_id": "750202", "name": "DULOHUPA"}]
+[
+  {
+    "id": "7502022001",
+    "district_id": "750202",
+    "name": "HARAPAN"
+  },
+  {
+    "id": "7502022002",
+    "district_id": "750202",
+    "name": "BONGO II"
+  },
+  {
+    "id": "7502022003",
+    "district_id": "750202",
+    "name": "BONGO III"
+  },
+  {
+    "id": "7502022004",
+    "district_id": "750202",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "7502022005",
+    "district_id": "750202",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "7502022006",
+    "district_id": "750202",
+    "name": "PANGEYA"
+  },
+  {
+    "id": "7502022007",
+    "district_id": "750202",
+    "name": "JATIMULYA"
+  },
+  {
+    "id": "7502022008",
+    "district_id": "750202",
+    "name": "SUKA MULYA"
+  },
+  {
+    "id": "7502022009",
+    "district_id": "750202",
+    "name": "SARI TANI"
+  },
+  {
+    "id": "7502022010",
+    "district_id": "750202",
+    "name": "DIMITO"
+  },
+  {
+    "id": "7502022011",
+    "district_id": "750202",
+    "name": "TANJUNG HARAPAN"
+  },
+  {
+    "id": "7502022012",
+    "district_id": "750202",
+    "name": "RAHARJA"
+  },
+  {
+    "id": "7502022013",
+    "district_id": "750202",
+    "name": "TRIRUKUN"
+  },
+  {
+    "id": "7502022014",
+    "district_id": "750202",
+    "name": "DULOHUPA"
+  }
+]

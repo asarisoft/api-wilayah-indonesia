@@ -1,1 +1,132 @@
-[{"id": "6308062003", "district_id": "630806", "name": "PAKAPURAN"}, {"id": "6308062004", "district_id": "630806", "name": "PAKACANGAN"}, {"id": "6308062005", "district_id": "630806", "name": "PANANGKALAAN"}, {"id": "6308062006", "district_id": "630806", "name": "PADANG BASAR"}, {"id": "6308062007", "district_id": "630806", "name": "MURUNG KARANGAN"}, {"id": "6308062008", "district_id": "630806", "name": "KAMAYAHAN"}, {"id": "6308062009", "district_id": "630806", "name": "GUNTUNG"}, {"id": "6308062010", "district_id": "630806", "name": "MUARA BARUH"}, {"id": "6308062011", "district_id": "630806", "name": "TELUK DAUN"}, {"id": "6308062012", "district_id": "630806", "name": "SUNGAI TURAK"}, {"id": "6308062013", "district_id": "630806", "name": "TABALONG MATI"}, {"id": "6308062020", "district_id": "630806", "name": "PIMPING"}, {"id": "6308062021", "district_id": "630806", "name": "PADANG LUAR"}, {"id": "6308062023", "district_id": "630806", "name": "TAYUR"}, {"id": "6308062026", "district_id": "630806", "name": "PANANGKALAAN HULU"}, {"id": "6308062027", "district_id": "630806", "name": "CAKERU"}, {"id": "6308062028", "district_id": "630806", "name": "SUNGAI TURAK DALAM"}, {"id": "6308062029", "district_id": "630806", "name": "PANYAUNGAN"}, {"id": "6308062030", "district_id": "630806", "name": "KUANGAN"}, {"id": "6308062032", "district_id": "630806", "name": "TABING LIRING"}, {"id": "6308062033", "district_id": "630806", "name": "PADANG BASAR HILIR"}, {"id": "6308062034", "district_id": "630806", "name": "TELAGA BAMBAN"}, {"id": "6308062035", "district_id": "630806", "name": "AIR TAWAR"}, {"id": "6308062037", "district_id": "630806", "name": "PANANGIAN"}, {"id": "6308062041", "district_id": "630806", "name": "PAMINTANGAN"}, {"id": "6308062044", "district_id": "630806", "name": "PANDAWANAN"}]
+[
+  {
+    "id": "6308062003",
+    "district_id": "630806",
+    "name": "PAKAPURAN"
+  },
+  {
+    "id": "6308062004",
+    "district_id": "630806",
+    "name": "PAKACANGAN"
+  },
+  {
+    "id": "6308062005",
+    "district_id": "630806",
+    "name": "PANANGKALAAN"
+  },
+  {
+    "id": "6308062006",
+    "district_id": "630806",
+    "name": "PADANG BASAR"
+  },
+  {
+    "id": "6308062007",
+    "district_id": "630806",
+    "name": "MURUNG KARANGAN"
+  },
+  {
+    "id": "6308062008",
+    "district_id": "630806",
+    "name": "KAMAYAHAN"
+  },
+  {
+    "id": "6308062009",
+    "district_id": "630806",
+    "name": "GUNTUNG"
+  },
+  {
+    "id": "6308062010",
+    "district_id": "630806",
+    "name": "MUARA BARUH"
+  },
+  {
+    "id": "6308062011",
+    "district_id": "630806",
+    "name": "TELUK DAUN"
+  },
+  {
+    "id": "6308062012",
+    "district_id": "630806",
+    "name": "SUNGAI TURAK"
+  },
+  {
+    "id": "6308062013",
+    "district_id": "630806",
+    "name": "TABALONG MATI"
+  },
+  {
+    "id": "6308062020",
+    "district_id": "630806",
+    "name": "PIMPING"
+  },
+  {
+    "id": "6308062021",
+    "district_id": "630806",
+    "name": "PADANG LUAR"
+  },
+  {
+    "id": "6308062023",
+    "district_id": "630806",
+    "name": "TAYUR"
+  },
+  {
+    "id": "6308062026",
+    "district_id": "630806",
+    "name": "PANANGKALAAN HULU"
+  },
+  {
+    "id": "6308062027",
+    "district_id": "630806",
+    "name": "CAKERU"
+  },
+  {
+    "id": "6308062028",
+    "district_id": "630806",
+    "name": "SUNGAI TURAK DALAM"
+  },
+  {
+    "id": "6308062029",
+    "district_id": "630806",
+    "name": "PANYAUNGAN"
+  },
+  {
+    "id": "6308062030",
+    "district_id": "630806",
+    "name": "KUANGAN"
+  },
+  {
+    "id": "6308062032",
+    "district_id": "630806",
+    "name": "TABING LIRING"
+  },
+  {
+    "id": "6308062033",
+    "district_id": "630806",
+    "name": "PADANG BASAR HILIR"
+  },
+  {
+    "id": "6308062034",
+    "district_id": "630806",
+    "name": "TELAGA BAMBAN"
+  },
+  {
+    "id": "6308062035",
+    "district_id": "630806",
+    "name": "AIR TAWAR"
+  },
+  {
+    "id": "6308062037",
+    "district_id": "630806",
+    "name": "PANANGIAN"
+  },
+  {
+    "id": "6308062041",
+    "district_id": "630806",
+    "name": "PAMINTANGAN"
+  },
+  {
+    "id": "6308062044",
+    "district_id": "630806",
+    "name": "PANDAWANAN"
+  }
+]

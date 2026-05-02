@@ -1,1 +1,52 @@
-[{"id": "6402201001", "district_id": "640220", "name": "BUKIT MERDEKA"}, {"id": "6402201002", "district_id": "640220", "name": "SUNGAI MERDEKA"}, {"id": "6402201003", "district_id": "640220", "name": "KARYA MERDEKA"}, {"id": "6402201005", "district_id": "640220", "name": "AMBORAWANG DARAT"}, {"id": "6402201006", "district_id": "640220", "name": "ARGO SARI"}, {"id": "6402201007", "district_id": "640220", "name": "SALOK API DARAT"}, {"id": "6402201008", "district_id": "640220", "name": "SALOK API LAUT"}, {"id": "6402201009", "district_id": "640220", "name": "AMBORAWANG LAUT"}, {"id": "6402201010", "district_id": "640220", "name": "MARGOMULYO"}, {"id": "6402202004", "district_id": "640220", "name": "TANI BHAKTI"}]
+[
+  {
+    "id": "6402201001",
+    "district_id": "640220",
+    "name": "BUKIT MERDEKA"
+  },
+  {
+    "id": "6402201002",
+    "district_id": "640220",
+    "name": "SUNGAI MERDEKA"
+  },
+  {
+    "id": "6402201003",
+    "district_id": "640220",
+    "name": "KARYA MERDEKA"
+  },
+  {
+    "id": "6402201005",
+    "district_id": "640220",
+    "name": "AMBORAWANG DARAT"
+  },
+  {
+    "id": "6402201006",
+    "district_id": "640220",
+    "name": "ARGO SARI"
+  },
+  {
+    "id": "6402201007",
+    "district_id": "640220",
+    "name": "SALOK API DARAT"
+  },
+  {
+    "id": "6402201008",
+    "district_id": "640220",
+    "name": "SALOK API LAUT"
+  },
+  {
+    "id": "6402201009",
+    "district_id": "640220",
+    "name": "AMBORAWANG LAUT"
+  },
+  {
+    "id": "6402201010",
+    "district_id": "640220",
+    "name": "MARGOMULYO"
+  },
+  {
+    "id": "6402202004",
+    "district_id": "640220",
+    "name": "TANI BHAKTI"
+  }
+]

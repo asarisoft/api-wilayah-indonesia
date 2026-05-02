@@ -1,1 +1,77 @@
-[{"id": "3514072001", "district_id": "351407", "name": "KARANGMENGGAH"}, {"id": "3514072002", "district_id": "351407", "name": "KARANG JATIANYAR"}, {"id": "3514072003", "district_id": "351407", "name": "PAKIJANGAN"}, {"id": "3514072004", "district_id": "351407", "name": "COBANBLIMBING"}, {"id": "3514072005", "district_id": "351407", "name": "WONOREJO"}, {"id": "3514072006", "district_id": "351407", "name": "WONOSARI"}, {"id": "3514072007", "district_id": "351407", "name": "TAMANSARI"}, {"id": "3514072008", "district_id": "351407", "name": "JATIGUNTING"}, {"id": "3514072009", "district_id": "351407", "name": "REBONO"}, {"id": "3514072010", "district_id": "351407", "name": "KARANGSONO"}, {"id": "3514072011", "district_id": "351407", "name": "KENDANGDUKUH"}, {"id": "3514072012", "district_id": "351407", "name": "KARANGASEM"}, {"id": "3514072013", "district_id": "351407", "name": "KLUWUT"}, {"id": "3514072014", "district_id": "351407", "name": "SAMBISIRAH"}, {"id": "3514072015", "district_id": "351407", "name": "LEBAKSARI"}]
+[
+  {
+    "id": "3514072001",
+    "district_id": "351407",
+    "name": "KARANGMENGGAH"
+  },
+  {
+    "id": "3514072002",
+    "district_id": "351407",
+    "name": "KARANG JATIANYAR"
+  },
+  {
+    "id": "3514072003",
+    "district_id": "351407",
+    "name": "PAKIJANGAN"
+  },
+  {
+    "id": "3514072004",
+    "district_id": "351407",
+    "name": "COBANBLIMBING"
+  },
+  {
+    "id": "3514072005",
+    "district_id": "351407",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3514072006",
+    "district_id": "351407",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3514072007",
+    "district_id": "351407",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3514072008",
+    "district_id": "351407",
+    "name": "JATIGUNTING"
+  },
+  {
+    "id": "3514072009",
+    "district_id": "351407",
+    "name": "REBONO"
+  },
+  {
+    "id": "3514072010",
+    "district_id": "351407",
+    "name": "KARANGSONO"
+  },
+  {
+    "id": "3514072011",
+    "district_id": "351407",
+    "name": "KENDANGDUKUH"
+  },
+  {
+    "id": "3514072012",
+    "district_id": "351407",
+    "name": "KARANGASEM"
+  },
+  {
+    "id": "3514072013",
+    "district_id": "351407",
+    "name": "KLUWUT"
+  },
+  {
+    "id": "3514072014",
+    "district_id": "351407",
+    "name": "SAMBISIRAH"
+  },
+  {
+    "id": "3514072015",
+    "district_id": "351407",
+    "name": "LEBAKSARI"
+  }
+]

@@ -1,1 +1,47 @@
-[{"id": "3509312001", "district_id": "350931", "name": "PLEREAN"}, {"id": "3509312002", "district_id": "350931", "name": "SUMBERPAKEM"}, {"id": "3509312003", "district_id": "350931", "name": "PRINGGONDANI"}, {"id": "3509312004", "district_id": "350931", "name": "RANDUAGUNG"}, {"id": "3509312005", "district_id": "350931", "name": "CUMEDAK"}, {"id": "3509312006", "district_id": "350931", "name": "SUMBERJAMBE"}, {"id": "3509312007", "district_id": "350931", "name": "GUNUNGMALANG"}, {"id": "3509312008", "district_id": "350931", "name": "JAMBEARUM"}, {"id": "3509312009", "district_id": "350931", "name": "ROWOSARI"}]
+[
+  {
+    "id": "3509312001",
+    "district_id": "350931",
+    "name": "PLEREAN"
+  },
+  {
+    "id": "3509312002",
+    "district_id": "350931",
+    "name": "SUMBERPAKEM"
+  },
+  {
+    "id": "3509312003",
+    "district_id": "350931",
+    "name": "PRINGGONDANI"
+  },
+  {
+    "id": "3509312004",
+    "district_id": "350931",
+    "name": "RANDUAGUNG"
+  },
+  {
+    "id": "3509312005",
+    "district_id": "350931",
+    "name": "CUMEDAK"
+  },
+  {
+    "id": "3509312006",
+    "district_id": "350931",
+    "name": "SUMBERJAMBE"
+  },
+  {
+    "id": "3509312007",
+    "district_id": "350931",
+    "name": "GUNUNGMALANG"
+  },
+  {
+    "id": "3509312008",
+    "district_id": "350931",
+    "name": "JAMBEARUM"
+  },
+  {
+    "id": "3509312009",
+    "district_id": "350931",
+    "name": "ROWOSARI"
+  }
+]

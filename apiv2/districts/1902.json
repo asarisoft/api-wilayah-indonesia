@@ -1,1 +1,27 @@
-[{"id": "190201", "regency_id": "1902", "name": "TANJUNGPANDAN"}, {"id": "190202", "regency_id": "1902", "name": "MEMBALONG"}, {"id": "190203", "regency_id": "1902", "name": "SELAT NASIK"}, {"id": "190204", "regency_id": "1902", "name": "SIJUK"}, {"id": "190205", "regency_id": "1902", "name": "BADAU"}]
+[
+  {
+    "id": "190201",
+    "regency_id": "1902",
+    "name": "TANJUNGPANDAN"
+  },
+  {
+    "id": "190202",
+    "regency_id": "1902",
+    "name": "MEMBALONG"
+  },
+  {
+    "id": "190203",
+    "regency_id": "1902",
+    "name": "SELAT NASIK"
+  },
+  {
+    "id": "190204",
+    "regency_id": "1902",
+    "name": "SIJUK"
+  },
+  {
+    "id": "190205",
+    "regency_id": "1902",
+    "name": "BADAU"
+  }
+]

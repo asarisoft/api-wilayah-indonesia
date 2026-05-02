@@ -1,1 +1,42 @@
-[{"id": "3207342001", "district_id": "320734", "name": "CIKUPA"}, {"id": "3207342002", "district_id": "320734", "name": "SUKARAHARJA"}, {"id": "3207342003", "district_id": "320734", "name": "LUMBUNG"}, {"id": "3207342004", "district_id": "320734", "name": "LUMBUNGSARI"}, {"id": "3207342005", "district_id": "320734", "name": "AWILUAR"}, {"id": "3207342006", "district_id": "320734", "name": "DARMARAJA"}, {"id": "3207342007", "district_id": "320734", "name": "RAWA"}, {"id": "3207342008", "district_id": "320734", "name": "SADEWATA"}]
+[
+  {
+    "id": "3207342001",
+    "district_id": "320734",
+    "name": "CIKUPA"
+  },
+  {
+    "id": "3207342002",
+    "district_id": "320734",
+    "name": "SUKARAHARJA"
+  },
+  {
+    "id": "3207342003",
+    "district_id": "320734",
+    "name": "LUMBUNG"
+  },
+  {
+    "id": "3207342004",
+    "district_id": "320734",
+    "name": "LUMBUNGSARI"
+  },
+  {
+    "id": "3207342005",
+    "district_id": "320734",
+    "name": "AWILUAR"
+  },
+  {
+    "id": "3207342006",
+    "district_id": "320734",
+    "name": "DARMARAJA"
+  },
+  {
+    "id": "3207342007",
+    "district_id": "320734",
+    "name": "RAWA"
+  },
+  {
+    "id": "3207342008",
+    "district_id": "320734",
+    "name": "SADEWATA"
+  }
+]

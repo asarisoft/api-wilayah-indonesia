@@ -1,1 +1,47 @@
-[{"id": "5304012001", "district_id": "530401", "name": "KEWAR"}, {"id": "5304012002", "district_id": "530401", "name": "FULUR"}, {"id": "5304012004", "district_id": "530401", "name": "DUARATO"}, {"id": "5304012005", "district_id": "530401", "name": "MAKIR"}, {"id": "5304012006", "district_id": "530401", "name": "LAMAKSENULU"}, {"id": "5304012008", "district_id": "530401", "name": "DIRUN"}, {"id": "5304012009", "district_id": "530401", "name": "LEOWALU"}, {"id": "5304012014", "district_id": "530401", "name": "MAUDEMU"}, {"id": "5304012015", "district_id": "530401", "name": "MAHUITAS"}]
+[
+  {
+    "id": "5304012001",
+    "district_id": "530401",
+    "name": "KEWAR"
+  },
+  {
+    "id": "5304012002",
+    "district_id": "530401",
+    "name": "FULUR"
+  },
+  {
+    "id": "5304012004",
+    "district_id": "530401",
+    "name": "DUARATO"
+  },
+  {
+    "id": "5304012005",
+    "district_id": "530401",
+    "name": "MAKIR"
+  },
+  {
+    "id": "5304012006",
+    "district_id": "530401",
+    "name": "LAMAKSENULU"
+  },
+  {
+    "id": "5304012008",
+    "district_id": "530401",
+    "name": "DIRUN"
+  },
+  {
+    "id": "5304012009",
+    "district_id": "530401",
+    "name": "LEOWALU"
+  },
+  {
+    "id": "5304012014",
+    "district_id": "530401",
+    "name": "MAUDEMU"
+  },
+  {
+    "id": "5304012015",
+    "district_id": "530401",
+    "name": "MAHUITAS"
+  }
+]

@@ -1,1 +1,72 @@
-[{"id": "3326122001", "district_id": "332612", "name": "JETAKKIDUL"}, {"id": "3326122002", "district_id": "332612", "name": "SASTRODIRJAN"}, {"id": "3326122003", "district_id": "332612", "name": "LEGOKGUNUNG"}, {"id": "3326122004", "district_id": "332612", "name": "GALANGPENGAMPON"}, {"id": "3326122005", "district_id": "332612", "name": "KWAGEAN"}, {"id": "3326122006", "district_id": "332612", "name": "GETAS"}, {"id": "3326122007", "district_id": "332612", "name": "ROWOKEMBU"}, {"id": "3326122008", "district_id": "332612", "name": "WONOPRINGGO"}, {"id": "3326122009", "district_id": "332612", "name": "SAMPIH"}, {"id": "3326122010", "district_id": "332612", "name": "WONOREJO"}, {"id": "3326122011", "district_id": "332612", "name": "GONDANG"}, {"id": "3326122012", "district_id": "332612", "name": "JETAKLENGKONG"}, {"id": "3326122013", "district_id": "332612", "name": "PENGADENTENGAH"}, {"id": "3326122014", "district_id": "332612", "name": "SUROBAYAN"}]
+[
+  {
+    "id": "3326122001",
+    "district_id": "332612",
+    "name": "JETAKKIDUL"
+  },
+  {
+    "id": "3326122002",
+    "district_id": "332612",
+    "name": "SASTRODIRJAN"
+  },
+  {
+    "id": "3326122003",
+    "district_id": "332612",
+    "name": "LEGOKGUNUNG"
+  },
+  {
+    "id": "3326122004",
+    "district_id": "332612",
+    "name": "GALANGPENGAMPON"
+  },
+  {
+    "id": "3326122005",
+    "district_id": "332612",
+    "name": "KWAGEAN"
+  },
+  {
+    "id": "3326122006",
+    "district_id": "332612",
+    "name": "GETAS"
+  },
+  {
+    "id": "3326122007",
+    "district_id": "332612",
+    "name": "ROWOKEMBU"
+  },
+  {
+    "id": "3326122008",
+    "district_id": "332612",
+    "name": "WONOPRINGGO"
+  },
+  {
+    "id": "3326122009",
+    "district_id": "332612",
+    "name": "SAMPIH"
+  },
+  {
+    "id": "3326122010",
+    "district_id": "332612",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3326122011",
+    "district_id": "332612",
+    "name": "GONDANG"
+  },
+  {
+    "id": "3326122012",
+    "district_id": "332612",
+    "name": "JETAKLENGKONG"
+  },
+  {
+    "id": "3326122013",
+    "district_id": "332612",
+    "name": "PENGADENTENGAH"
+  },
+  {
+    "id": "3326122014",
+    "district_id": "332612",
+    "name": "SUROBAYAN"
+  }
+]

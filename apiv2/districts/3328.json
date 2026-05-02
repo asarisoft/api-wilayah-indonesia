@@ -1,1 +1,92 @@
-[{"id": "332801", "regency_id": "3328", "name": "MARGASARI"}, {"id": "332802", "regency_id": "3328", "name": "BUMIJAWA"}, {"id": "332803", "regency_id": "3328", "name": "BOJONG"}, {"id": "332804", "regency_id": "3328", "name": "BALAPULANG"}, {"id": "332805", "regency_id": "3328", "name": "PAGERBARANG"}, {"id": "332806", "regency_id": "3328", "name": "LEBAKSIU"}, {"id": "332807", "regency_id": "3328", "name": "JATINEGARA"}, {"id": "332808", "regency_id": "3328", "name": "KEDUNGBANTENG"}, {"id": "332809", "regency_id": "3328", "name": "PANGKAH"}, {"id": "332810", "regency_id": "3328", "name": "SLAWI"}, {"id": "332811", "regency_id": "3328", "name": "ADIWERNA"}, {"id": "332812", "regency_id": "3328", "name": "TALANG"}, {"id": "332813", "regency_id": "3328", "name": "DUKUHTURI"}, {"id": "332814", "regency_id": "3328", "name": "TARUB"}, {"id": "332815", "regency_id": "3328", "name": "KRAMAT"}, {"id": "332816", "regency_id": "3328", "name": "SURADADI"}, {"id": "332817", "regency_id": "3328", "name": "WARUREJA"}, {"id": "332818", "regency_id": "3328", "name": "DUKUHWARU"}]
+[
+  {
+    "id": "332801",
+    "regency_id": "3328",
+    "name": "MARGASARI"
+  },
+  {
+    "id": "332802",
+    "regency_id": "3328",
+    "name": "BUMIJAWA"
+  },
+  {
+    "id": "332803",
+    "regency_id": "3328",
+    "name": "BOJONG"
+  },
+  {
+    "id": "332804",
+    "regency_id": "3328",
+    "name": "BALAPULANG"
+  },
+  {
+    "id": "332805",
+    "regency_id": "3328",
+    "name": "PAGERBARANG"
+  },
+  {
+    "id": "332806",
+    "regency_id": "3328",
+    "name": "LEBAKSIU"
+  },
+  {
+    "id": "332807",
+    "regency_id": "3328",
+    "name": "JATINEGARA"
+  },
+  {
+    "id": "332808",
+    "regency_id": "3328",
+    "name": "KEDUNGBANTENG"
+  },
+  {
+    "id": "332809",
+    "regency_id": "3328",
+    "name": "PANGKAH"
+  },
+  {
+    "id": "332810",
+    "regency_id": "3328",
+    "name": "SLAWI"
+  },
+  {
+    "id": "332811",
+    "regency_id": "3328",
+    "name": "ADIWERNA"
+  },
+  {
+    "id": "332812",
+    "regency_id": "3328",
+    "name": "TALANG"
+  },
+  {
+    "id": "332813",
+    "regency_id": "3328",
+    "name": "DUKUHTURI"
+  },
+  {
+    "id": "332814",
+    "regency_id": "3328",
+    "name": "TARUB"
+  },
+  {
+    "id": "332815",
+    "regency_id": "3328",
+    "name": "KRAMAT"
+  },
+  {
+    "id": "332816",
+    "regency_id": "3328",
+    "name": "SURADADI"
+  },
+  {
+    "id": "332817",
+    "regency_id": "3328",
+    "name": "WARUREJA"
+  },
+  {
+    "id": "332818",
+    "regency_id": "3328",
+    "name": "DUKUHWARU"
+  }
+]

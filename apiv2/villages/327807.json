@@ -1,1 +1,42 @@
-[{"id": "3278071001", "district_id": "327807", "name": "TAMANSARI"}, {"id": "3278071002", "district_id": "327807", "name": "MUGARSARI"}, {"id": "3278071003", "district_id": "327807", "name": "TAMANJAYA"}, {"id": "3278071004", "district_id": "327807", "name": "SUMELAP"}, {"id": "3278071005", "district_id": "327807", "name": "SETIAWARGI"}, {"id": "3278071006", "district_id": "327807", "name": "MULYASARI"}, {"id": "3278071007", "district_id": "327807", "name": "SUKAHURIP"}, {"id": "3278071008", "district_id": "327807", "name": "SETIAMULYA"}]
+[
+  {
+    "id": "3278071001",
+    "district_id": "327807",
+    "name": "TAMANSARI"
+  },
+  {
+    "id": "3278071002",
+    "district_id": "327807",
+    "name": "MUGARSARI"
+  },
+  {
+    "id": "3278071003",
+    "district_id": "327807",
+    "name": "TAMANJAYA"
+  },
+  {
+    "id": "3278071004",
+    "district_id": "327807",
+    "name": "SUMELAP"
+  },
+  {
+    "id": "3278071005",
+    "district_id": "327807",
+    "name": "SETIAWARGI"
+  },
+  {
+    "id": "3278071006",
+    "district_id": "327807",
+    "name": "MULYASARI"
+  },
+  {
+    "id": "3278071007",
+    "district_id": "327807",
+    "name": "SUKAHURIP"
+  },
+  {
+    "id": "3278071008",
+    "district_id": "327807",
+    "name": "SETIAMULYA"
+  }
+]

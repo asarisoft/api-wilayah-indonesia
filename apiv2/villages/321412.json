@@ -1,1 +1,47 @@
-[{"id": "3214122001", "district_id": "321412", "name": "CILANGKAP"}, {"id": "3214122002", "district_id": "321412", "name": "CICADAS"}, {"id": "3214122003", "district_id": "321412", "name": "HEGARMANAH"}, {"id": "3214122004", "district_id": "321412", "name": "BABAKANCIKAO"}, {"id": "3214122005", "district_id": "321412", "name": "KADUMEKAR"}, {"id": "3214122006", "district_id": "321412", "name": "MARACANG"}, {"id": "3214122007", "district_id": "321412", "name": "CIWARENG"}, {"id": "3214122008", "district_id": "321412", "name": "MULYAMEKAR"}, {"id": "3214122009", "district_id": "321412", "name": "CIGELAM"}]
+[
+  {
+    "id": "3214122001",
+    "district_id": "321412",
+    "name": "CILANGKAP"
+  },
+  {
+    "id": "3214122002",
+    "district_id": "321412",
+    "name": "CICADAS"
+  },
+  {
+    "id": "3214122003",
+    "district_id": "321412",
+    "name": "HEGARMANAH"
+  },
+  {
+    "id": "3214122004",
+    "district_id": "321412",
+    "name": "BABAKANCIKAO"
+  },
+  {
+    "id": "3214122005",
+    "district_id": "321412",
+    "name": "KADUMEKAR"
+  },
+  {
+    "id": "3214122006",
+    "district_id": "321412",
+    "name": "MARACANG"
+  },
+  {
+    "id": "3214122007",
+    "district_id": "321412",
+    "name": "CIWARENG"
+  },
+  {
+    "id": "3214122008",
+    "district_id": "321412",
+    "name": "MULYAMEKAR"
+  },
+  {
+    "id": "3214122009",
+    "district_id": "321412",
+    "name": "CIGELAM"
+  }
+]

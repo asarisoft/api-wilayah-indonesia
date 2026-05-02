@@ -1,1 +1,72 @@
-[{"id": "3201031006", "district_id": "320103", "name": "PUSPANEGARA"}, {"id": "3201031007", "district_id": "320103", "name": "KARANG ASEM BARAT"}, {"id": "3201032001", "district_id": "320103", "name": "PUSPASARI"}, {"id": "3201032002", "district_id": "320103", "name": "CITEUREUP"}, {"id": "3201032003", "district_id": "320103", "name": "LEUWINUTUG"}, {"id": "3201032004", "district_id": "320103", "name": "TAJUR"}, {"id": "3201032005", "district_id": "320103", "name": "SANJA"}, {"id": "3201032008", "district_id": "320103", "name": "KARANG ASEM TIMUR"}, {"id": "3201032009", "district_id": "320103", "name": "TARIKOLOT"}, {"id": "3201032010", "district_id": "320103", "name": "GUNUNGSARI"}, {"id": "3201032011", "district_id": "320103", "name": "TANGKIL"}, {"id": "3201032012", "district_id": "320103", "name": "SUKAHATI"}, {"id": "3201032013", "district_id": "320103", "name": "HAMBALANG"}, {"id": "3201032014", "district_id": "320103", "name": "PASIR MUKTI"}]
+[
+  {
+    "id": "3201031006",
+    "district_id": "320103",
+    "name": "PUSPANEGARA"
+  },
+  {
+    "id": "3201031007",
+    "district_id": "320103",
+    "name": "KARANG ASEM BARAT"
+  },
+  {
+    "id": "3201032001",
+    "district_id": "320103",
+    "name": "PUSPASARI"
+  },
+  {
+    "id": "3201032002",
+    "district_id": "320103",
+    "name": "CITEUREUP"
+  },
+  {
+    "id": "3201032003",
+    "district_id": "320103",
+    "name": "LEUWINUTUG"
+  },
+  {
+    "id": "3201032004",
+    "district_id": "320103",
+    "name": "TAJUR"
+  },
+  {
+    "id": "3201032005",
+    "district_id": "320103",
+    "name": "SANJA"
+  },
+  {
+    "id": "3201032008",
+    "district_id": "320103",
+    "name": "KARANG ASEM TIMUR"
+  },
+  {
+    "id": "3201032009",
+    "district_id": "320103",
+    "name": "TARIKOLOT"
+  },
+  {
+    "id": "3201032010",
+    "district_id": "320103",
+    "name": "GUNUNGSARI"
+  },
+  {
+    "id": "3201032011",
+    "district_id": "320103",
+    "name": "TANGKIL"
+  },
+  {
+    "id": "3201032012",
+    "district_id": "320103",
+    "name": "SUKAHATI"
+  },
+  {
+    "id": "3201032013",
+    "district_id": "320103",
+    "name": "HAMBALANG"
+  },
+  {
+    "id": "3201032014",
+    "district_id": "320103",
+    "name": "PASIR MUKTI"
+  }
+]

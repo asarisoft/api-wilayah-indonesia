@@ -1,1 +1,77 @@
-[{"id": "1808112001", "district_id": "180811", "name": "NEGARA BATIN"}, {"id": "1808112002", "district_id": "180811", "name": "PURWA AGUNG"}, {"id": "1808112003", "district_id": "180811", "name": "PURWA NEGARA"}, {"id": "1808112004", "district_id": "180811", "name": "SETIA NEGARA"}, {"id": "1808112005", "district_id": "180811", "name": "SRI MULYO"}, {"id": "1808112006", "district_id": "180811", "name": "SRI MENANTI"}, {"id": "1808112007", "district_id": "180811", "name": "KARTA JAYA"}, {"id": "1808112008", "district_id": "180811", "name": "GISTING JAYA"}, {"id": "1808112009", "district_id": "180811", "name": "MARGA JAYA"}, {"id": "1808112010", "district_id": "180811", "name": "BUMI JAYA"}, {"id": "1808112011", "district_id": "180811", "name": "GEDUNG JAYA"}, {"id": "1808112012", "district_id": "180811", "name": "ADI JAYA"}, {"id": "1808112013", "district_id": "180811", "name": "SARI JAYA"}, {"id": "1808112014", "district_id": "180811", "name": "NEGARA MULYA"}, {"id": "1808112015", "district_id": "180811", "name": "KOTA JAWA"}]
+[
+  {
+    "id": "1808112001",
+    "district_id": "180811",
+    "name": "NEGARA BATIN"
+  },
+  {
+    "id": "1808112002",
+    "district_id": "180811",
+    "name": "PURWA AGUNG"
+  },
+  {
+    "id": "1808112003",
+    "district_id": "180811",
+    "name": "PURWA NEGARA"
+  },
+  {
+    "id": "1808112004",
+    "district_id": "180811",
+    "name": "SETIA NEGARA"
+  },
+  {
+    "id": "1808112005",
+    "district_id": "180811",
+    "name": "SRI MULYO"
+  },
+  {
+    "id": "1808112006",
+    "district_id": "180811",
+    "name": "SRI MENANTI"
+  },
+  {
+    "id": "1808112007",
+    "district_id": "180811",
+    "name": "KARTA JAYA"
+  },
+  {
+    "id": "1808112008",
+    "district_id": "180811",
+    "name": "GISTING JAYA"
+  },
+  {
+    "id": "1808112009",
+    "district_id": "180811",
+    "name": "MARGA JAYA"
+  },
+  {
+    "id": "1808112010",
+    "district_id": "180811",
+    "name": "BUMI JAYA"
+  },
+  {
+    "id": "1808112011",
+    "district_id": "180811",
+    "name": "GEDUNG JAYA"
+  },
+  {
+    "id": "1808112012",
+    "district_id": "180811",
+    "name": "ADI JAYA"
+  },
+  {
+    "id": "1808112013",
+    "district_id": "180811",
+    "name": "SARI JAYA"
+  },
+  {
+    "id": "1808112014",
+    "district_id": "180811",
+    "name": "NEGARA MULYA"
+  },
+  {
+    "id": "1808112015",
+    "district_id": "180811",
+    "name": "KOTA JAWA"
+  }
+]

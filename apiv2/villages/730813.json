@@ -1,1 +1,62 @@
-[{"id": "7308131001", "district_id": "730813", "name": "LALEBATA"}, {"id": "7308132002", "district_id": "730813", "name": "MATTAMPA WALIE"}, {"id": "7308132003", "district_id": "730813", "name": "POLEONRO"}, {"id": "7308132004", "district_id": "730813", "name": "SENGENG PALIE"}, {"id": "7308132005", "district_id": "730813", "name": "MATTAMPA BULU"}, {"id": "7308132006", "district_id": "730813", "name": "TURU CINNAE"}, {"id": "7308132007", "district_id": "730813", "name": "SEBERANG"}, {"id": "7308132008", "district_id": "730813", "name": "MASSENRENG PULU"}, {"id": "7308132009", "district_id": "730813", "name": "MAMMINASAE"}, {"id": "7308132010", "district_id": "730813", "name": "PADAELO"}, {"id": "7308132011", "district_id": "730813", "name": "BARUGAE"}, {"id": "7308132012", "district_id": "730813", "name": "BARAKKAE"}]
+[
+  {
+    "id": "7308131001",
+    "district_id": "730813",
+    "name": "LALEBATA"
+  },
+  {
+    "id": "7308132002",
+    "district_id": "730813",
+    "name": "MATTAMPA WALIE"
+  },
+  {
+    "id": "7308132003",
+    "district_id": "730813",
+    "name": "POLEONRO"
+  },
+  {
+    "id": "7308132004",
+    "district_id": "730813",
+    "name": "SENGENG PALIE"
+  },
+  {
+    "id": "7308132005",
+    "district_id": "730813",
+    "name": "MATTAMPA BULU"
+  },
+  {
+    "id": "7308132006",
+    "district_id": "730813",
+    "name": "TURU CINNAE"
+  },
+  {
+    "id": "7308132007",
+    "district_id": "730813",
+    "name": "SEBERANG"
+  },
+  {
+    "id": "7308132008",
+    "district_id": "730813",
+    "name": "MASSENRENG PULU"
+  },
+  {
+    "id": "7308132009",
+    "district_id": "730813",
+    "name": "MAMMINASAE"
+  },
+  {
+    "id": "7308132010",
+    "district_id": "730813",
+    "name": "PADAELO"
+  },
+  {
+    "id": "7308132011",
+    "district_id": "730813",
+    "name": "BARUGAE"
+  },
+  {
+    "id": "7308132012",
+    "district_id": "730813",
+    "name": "BARAKKAE"
+  }
+]

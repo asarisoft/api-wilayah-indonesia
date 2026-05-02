@@ -1,1 +1,57 @@
-[{"id": "1609192001", "district_id": "160919", "name": "RANTAU PANJANG"}, {"id": "1609192002", "district_id": "160919", "name": "SUKAJAYA"}, {"id": "1609192003", "district_id": "160919", "name": "BANJAR AGUNG"}, {"id": "1609192004", "district_id": "160919", "name": "RUOS"}, {"id": "1609192005", "district_id": "160919", "name": "GUNUNG CAHYA"}, {"id": "1609192006", "district_id": "160919", "name": "BUMI JAYA"}, {"id": "1609192007", "district_id": "160919", "name": "BENDI"}, {"id": "1609192008", "district_id": "160919", "name": "PEKUOLAN"}, {"id": "1609192009", "district_id": "160919", "name": "PELAWI"}, {"id": "1609192011", "district_id": "160919", "name": "MAJAR"}, {"id": "1609192012", "district_id": "160919", "name": "BUMI AGUNG JAYA"}]
+[
+  {
+    "id": "1609192001",
+    "district_id": "160919",
+    "name": "RANTAU PANJANG"
+  },
+  {
+    "id": "1609192002",
+    "district_id": "160919",
+    "name": "SUKAJAYA"
+  },
+  {
+    "id": "1609192003",
+    "district_id": "160919",
+    "name": "BANJAR AGUNG"
+  },
+  {
+    "id": "1609192004",
+    "district_id": "160919",
+    "name": "RUOS"
+  },
+  {
+    "id": "1609192005",
+    "district_id": "160919",
+    "name": "GUNUNG CAHYA"
+  },
+  {
+    "id": "1609192006",
+    "district_id": "160919",
+    "name": "BUMI JAYA"
+  },
+  {
+    "id": "1609192007",
+    "district_id": "160919",
+    "name": "BENDI"
+  },
+  {
+    "id": "1609192008",
+    "district_id": "160919",
+    "name": "PEKUOLAN"
+  },
+  {
+    "id": "1609192009",
+    "district_id": "160919",
+    "name": "PELAWI"
+  },
+  {
+    "id": "1609192011",
+    "district_id": "160919",
+    "name": "MAJAR"
+  },
+  {
+    "id": "1609192012",
+    "district_id": "160919",
+    "name": "BUMI AGUNG JAYA"
+  }
+]

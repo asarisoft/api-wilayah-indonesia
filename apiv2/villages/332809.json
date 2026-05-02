@@ -1,1 +1,117 @@
-[{"id": "3328092001", "district_id": "332809", "name": "DERMASUCI"}, {"id": "3328092002", "district_id": "332809", "name": "PENER"}, {"id": "3328092003", "district_id": "332809", "name": "DUKUHJATI KIDUL"}, {"id": "3328092004", "district_id": "332809", "name": "DEPOK"}, {"id": "3328092005", "district_id": "332809", "name": "PENUSUPAN"}, {"id": "3328092006", "district_id": "332809", "name": "BOGARES KIDUL"}, {"id": "3328092007", "district_id": "332809", "name": "BOGARES LOR"}, {"id": "3328092008", "district_id": "332809", "name": "PANGKAH"}, {"id": "3328092009", "district_id": "332809", "name": "DUKUHSEMBUNG"}, {"id": "3328092010", "district_id": "332809", "name": "CURUG"}, {"id": "3328092011", "district_id": "332809", "name": "KENDALSERUT"}, {"id": "3328092012", "district_id": "332809", "name": "GROBOG KULON"}, {"id": "3328092013", "district_id": "332809", "name": "BEDUG"}, {"id": "3328092014", "district_id": "332809", "name": "PECABEAN"}, {"id": "3328092015", "district_id": "332809", "name": "GROBOG WETAN"}, {"id": "3328092016", "district_id": "332809", "name": "TALOK"}, {"id": "3328092017", "district_id": "332809", "name": "PAKETIBAN"}, {"id": "3328092018", "district_id": "332809", "name": "RANCAWIRU"}, {"id": "3328092019", "district_id": "332809", "name": "JENGGAWUR"}, {"id": "3328092020", "district_id": "332809", "name": "KALIKANGKUNG"}, {"id": "3328092021", "district_id": "332809", "name": "PUBAYASA"}, {"id": "3328092022", "district_id": "332809", "name": "DERMASANDI"}, {"id": "3328092023", "district_id": "332809", "name": "BALAMOA"}]
+[
+  {
+    "id": "3328092001",
+    "district_id": "332809",
+    "name": "DERMASUCI"
+  },
+  {
+    "id": "3328092002",
+    "district_id": "332809",
+    "name": "PENER"
+  },
+  {
+    "id": "3328092003",
+    "district_id": "332809",
+    "name": "DUKUHJATI KIDUL"
+  },
+  {
+    "id": "3328092004",
+    "district_id": "332809",
+    "name": "DEPOK"
+  },
+  {
+    "id": "3328092005",
+    "district_id": "332809",
+    "name": "PENUSUPAN"
+  },
+  {
+    "id": "3328092006",
+    "district_id": "332809",
+    "name": "BOGARES KIDUL"
+  },
+  {
+    "id": "3328092007",
+    "district_id": "332809",
+    "name": "BOGARES LOR"
+  },
+  {
+    "id": "3328092008",
+    "district_id": "332809",
+    "name": "PANGKAH"
+  },
+  {
+    "id": "3328092009",
+    "district_id": "332809",
+    "name": "DUKUHSEMBUNG"
+  },
+  {
+    "id": "3328092010",
+    "district_id": "332809",
+    "name": "CURUG"
+  },
+  {
+    "id": "3328092011",
+    "district_id": "332809",
+    "name": "KENDALSERUT"
+  },
+  {
+    "id": "3328092012",
+    "district_id": "332809",
+    "name": "GROBOG KULON"
+  },
+  {
+    "id": "3328092013",
+    "district_id": "332809",
+    "name": "BEDUG"
+  },
+  {
+    "id": "3328092014",
+    "district_id": "332809",
+    "name": "PECABEAN"
+  },
+  {
+    "id": "3328092015",
+    "district_id": "332809",
+    "name": "GROBOG WETAN"
+  },
+  {
+    "id": "3328092016",
+    "district_id": "332809",
+    "name": "TALOK"
+  },
+  {
+    "id": "3328092017",
+    "district_id": "332809",
+    "name": "PAKETIBAN"
+  },
+  {
+    "id": "3328092018",
+    "district_id": "332809",
+    "name": "RANCAWIRU"
+  },
+  {
+    "id": "3328092019",
+    "district_id": "332809",
+    "name": "JENGGAWUR"
+  },
+  {
+    "id": "3328092020",
+    "district_id": "332809",
+    "name": "KALIKANGKUNG"
+  },
+  {
+    "id": "3328092021",
+    "district_id": "332809",
+    "name": "PUBAYASA"
+  },
+  {
+    "id": "3328092022",
+    "district_id": "332809",
+    "name": "DERMASANDI"
+  },
+  {
+    "id": "3328092023",
+    "district_id": "332809",
+    "name": "BALAMOA"
+  }
+]

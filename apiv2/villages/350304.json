@@ -1,1 +1,52 @@
-[{"id": "3503042001", "district_id": "350304", "name": "CAKUL"}, {"id": "3503042002", "district_id": "350304", "name": "SIKI"}, {"id": "3503042003", "district_id": "350304", "name": "WATUAGUNG"}, {"id": "3503042004", "district_id": "350304", "name": "PANDEAN"}, {"id": "3503042005", "district_id": "350304", "name": "PETUNG"}, {"id": "3503042006", "district_id": "350304", "name": "SALAMWATES"}, {"id": "3503042007", "district_id": "350304", "name": "DONGKO"}, {"id": "3503042008", "district_id": "350304", "name": "SUMBERBENING"}, {"id": "3503042009", "district_id": "350304", "name": "NGERDANI"}, {"id": "3503042010", "district_id": "350304", "name": "PRINGAPUS"}]
+[
+  {
+    "id": "3503042001",
+    "district_id": "350304",
+    "name": "CAKUL"
+  },
+  {
+    "id": "3503042002",
+    "district_id": "350304",
+    "name": "SIKI"
+  },
+  {
+    "id": "3503042003",
+    "district_id": "350304",
+    "name": "WATUAGUNG"
+  },
+  {
+    "id": "3503042004",
+    "district_id": "350304",
+    "name": "PANDEAN"
+  },
+  {
+    "id": "3503042005",
+    "district_id": "350304",
+    "name": "PETUNG"
+  },
+  {
+    "id": "3503042006",
+    "district_id": "350304",
+    "name": "SALAMWATES"
+  },
+  {
+    "id": "3503042007",
+    "district_id": "350304",
+    "name": "DONGKO"
+  },
+  {
+    "id": "3503042008",
+    "district_id": "350304",
+    "name": "SUMBERBENING"
+  },
+  {
+    "id": "3503042009",
+    "district_id": "350304",
+    "name": "NGERDANI"
+  },
+  {
+    "id": "3503042010",
+    "district_id": "350304",
+    "name": "PRINGAPUS"
+  }
+]

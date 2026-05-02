@@ -1,1 +1,62 @@
-[{"id": "5101011006", "district_id": "510101", "name": "BALER BALE AGUNG"}, {"id": "5101011008", "district_id": "510101", "name": "BANJAR TENGAH"}, {"id": "5101011013", "district_id": "510101", "name": "LELATENG"}, {"id": "5101011014", "district_id": "510101", "name": "LOLOAN BARAT"}, {"id": "5101012001", "district_id": "510101", "name": "CUPEL"}, {"id": "5101012002", "district_id": "510101", "name": "BALUK"}, {"id": "5101012003", "district_id": "510101", "name": "BANYUBIRU"}, {"id": "5101012004", "district_id": "510101", "name": "KALIAKAH"}, {"id": "5101012005", "district_id": "510101", "name": "BERANGBANG"}, {"id": "5101012009", "district_id": "510101", "name": "TEGAL BADENG TIMUR"}, {"id": "5101012010", "district_id": "510101", "name": "TEGAL BADENG BARAT"}, {"id": "5101012011", "district_id": "510101", "name": "PENGAMBENGAN"}]
+[
+  {
+    "id": "5101011006",
+    "district_id": "510101",
+    "name": "BALER BALE AGUNG"
+  },
+  {
+    "id": "5101011008",
+    "district_id": "510101",
+    "name": "BANJAR TENGAH"
+  },
+  {
+    "id": "5101011013",
+    "district_id": "510101",
+    "name": "LELATENG"
+  },
+  {
+    "id": "5101011014",
+    "district_id": "510101",
+    "name": "LOLOAN BARAT"
+  },
+  {
+    "id": "5101012001",
+    "district_id": "510101",
+    "name": "CUPEL"
+  },
+  {
+    "id": "5101012002",
+    "district_id": "510101",
+    "name": "BALUK"
+  },
+  {
+    "id": "5101012003",
+    "district_id": "510101",
+    "name": "BANYUBIRU"
+  },
+  {
+    "id": "5101012004",
+    "district_id": "510101",
+    "name": "KALIAKAH"
+  },
+  {
+    "id": "5101012005",
+    "district_id": "510101",
+    "name": "BERANGBANG"
+  },
+  {
+    "id": "5101012009",
+    "district_id": "510101",
+    "name": "TEGAL BADENG TIMUR"
+  },
+  {
+    "id": "5101012010",
+    "district_id": "510101",
+    "name": "TEGAL BADENG BARAT"
+  },
+  {
+    "id": "5101012011",
+    "district_id": "510101",
+    "name": "PENGAMBENGAN"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "8172042001", "district_id": "817204", "name": "TUBYAL"}, {"id": "8172042002", "district_id": "817204", "name": "KAIMEAR"}, {"id": "8172042004", "district_id": "817204", "name": "LOKWIRIN"}, {"id": "8172042005", "district_id": "817204", "name": "FINUALEN"}, {"id": "8172042012", "district_id": "817204", "name": "SERMAF"}]
+[
+  {
+    "id": "8172042001",
+    "district_id": "817204",
+    "name": "TUBYAL"
+  },
+  {
+    "id": "8172042002",
+    "district_id": "817204",
+    "name": "KAIMEAR"
+  },
+  {
+    "id": "8172042004",
+    "district_id": "817204",
+    "name": "LOKWIRIN"
+  },
+  {
+    "id": "8172042005",
+    "district_id": "817204",
+    "name": "FINUALEN"
+  },
+  {
+    "id": "8172042012",
+    "district_id": "817204",
+    "name": "SERMAF"
+  }
+]

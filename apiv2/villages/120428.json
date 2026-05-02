@@ -1,1 +1,57 @@
-[{"id": "1204282001", "district_id": "120428", "name": "BALODANO"}, {"id": "1204282002", "district_id": "120428", "name": "LEWUOGURU II"}, {"id": "1204282003", "district_id": "120428", "name": "SIHARE'O III"}, {"id": "1204282004", "district_id": "120428", "name": "SISARAHILI MA'U"}, {"id": "1204282005", "district_id": "120428", "name": "LASARA SIWALUBANUA"}, {"id": "1204282006", "district_id": "120428", "name": "TUHEMBERUA"}, {"id": "1204282007", "district_id": "120428", "name": "ATUALUO"}, {"id": "1204282008", "district_id": "120428", "name": "LEWA-LEWA"}, {"id": "1204282009", "district_id": "120428", "name": "DEKHA"}, {"id": "1204282010", "district_id": "120428", "name": "SIHARE'O III BAWOSALO'O BERUA"}, {"id": "1204282011", "district_id": "120428", "name": "SIHARE'O III HILIBADALU"}]
+[
+  {
+    "id": "1204282001",
+    "district_id": "120428",
+    "name": "BALODANO"
+  },
+  {
+    "id": "1204282002",
+    "district_id": "120428",
+    "name": "LEWUOGURU II"
+  },
+  {
+    "id": "1204282003",
+    "district_id": "120428",
+    "name": "SIHARE'O III"
+  },
+  {
+    "id": "1204282004",
+    "district_id": "120428",
+    "name": "SISARAHILI MA'U"
+  },
+  {
+    "id": "1204282005",
+    "district_id": "120428",
+    "name": "LASARA SIWALUBANUA"
+  },
+  {
+    "id": "1204282006",
+    "district_id": "120428",
+    "name": "TUHEMBERUA"
+  },
+  {
+    "id": "1204282007",
+    "district_id": "120428",
+    "name": "ATUALUO"
+  },
+  {
+    "id": "1204282008",
+    "district_id": "120428",
+    "name": "LEWA-LEWA"
+  },
+  {
+    "id": "1204282009",
+    "district_id": "120428",
+    "name": "DEKHA"
+  },
+  {
+    "id": "1204282010",
+    "district_id": "120428",
+    "name": "SIHARE'O III BAWOSALO'O BERUA"
+  },
+  {
+    "id": "1204282011",
+    "district_id": "120428",
+    "name": "SIHARE'O III HILIBADALU"
+  }
+]

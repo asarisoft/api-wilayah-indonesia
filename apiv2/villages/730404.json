@@ -1,1 +1,32 @@
-[{"id": "7304041001", "district_id": "730404", "name": "TOGO TOGO"}, {"id": "7304041002", "district_id": "730404", "name": "BONTO RAYA"}, {"id": "7304042003", "district_id": "730404", "name": "MACCINIBAJI"}, {"id": "7304042008", "district_id": "730404", "name": "CAMBA CAMBA"}, {"id": "7304042009", "district_id": "730404", "name": "KALUKU"}, {"id": "7304042014", "district_id": "730404", "name": "BUNGENG"}]
+[
+  {
+    "id": "7304041001",
+    "district_id": "730404",
+    "name": "TOGO TOGO"
+  },
+  {
+    "id": "7304041002",
+    "district_id": "730404",
+    "name": "BONTO RAYA"
+  },
+  {
+    "id": "7304042003",
+    "district_id": "730404",
+    "name": "MACCINIBAJI"
+  },
+  {
+    "id": "7304042008",
+    "district_id": "730404",
+    "name": "CAMBA CAMBA"
+  },
+  {
+    "id": "7304042009",
+    "district_id": "730404",
+    "name": "KALUKU"
+  },
+  {
+    "id": "7304042014",
+    "district_id": "730404",
+    "name": "BUNGENG"
+  }
+]

@@ -1,1 +1,57 @@
-[{"id": "3214162001", "district_id": "321416", "name": "PARAKANSALAM"}, {"id": "3214162002", "district_id": "321416", "name": "PONDOKBUNGUR"}, {"id": "3214162003", "district_id": "321416", "name": "SALEM"}, {"id": "3214162004", "district_id": "321416", "name": "GALUDRA"}, {"id": "3214162005", "district_id": "321416", "name": "TANJUNGSARI"}, {"id": "3214162006", "district_id": "321416", "name": "SALAMMULYA"}, {"id": "3214162007", "district_id": "321416", "name": "SALAMJAYA"}, {"id": "3214162008", "district_id": "321416", "name": "BUNGURJAYA"}, {"id": "3214162009", "district_id": "321416", "name": "GURUDUG"}, {"id": "3214162010", "district_id": "321416", "name": "SUKAJADI"}, {"id": "3214162011", "district_id": "321416", "name": "SITU"}]
+[
+  {
+    "id": "3214162001",
+    "district_id": "321416",
+    "name": "PARAKANSALAM"
+  },
+  {
+    "id": "3214162002",
+    "district_id": "321416",
+    "name": "PONDOKBUNGUR"
+  },
+  {
+    "id": "3214162003",
+    "district_id": "321416",
+    "name": "SALEM"
+  },
+  {
+    "id": "3214162004",
+    "district_id": "321416",
+    "name": "GALUDRA"
+  },
+  {
+    "id": "3214162005",
+    "district_id": "321416",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3214162006",
+    "district_id": "321416",
+    "name": "SALAMMULYA"
+  },
+  {
+    "id": "3214162007",
+    "district_id": "321416",
+    "name": "SALAMJAYA"
+  },
+  {
+    "id": "3214162008",
+    "district_id": "321416",
+    "name": "BUNGURJAYA"
+  },
+  {
+    "id": "3214162009",
+    "district_id": "321416",
+    "name": "GURUDUG"
+  },
+  {
+    "id": "3214162010",
+    "district_id": "321416",
+    "name": "SUKAJADI"
+  },
+  {
+    "id": "3214162011",
+    "district_id": "321416",
+    "name": "SITU"
+  }
+]

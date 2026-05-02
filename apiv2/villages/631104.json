@@ -1,1 +1,92 @@
-[{"id": "6311042001", "district_id": "631104", "name": "TARIWIN"}, {"id": "6311042002", "district_id": "631104", "name": "LOK BATU"}, {"id": "6311042003", "district_id": "631104", "name": "MUNJUNG"}, {"id": "6311042004", "district_id": "631104", "name": "PELAJAU"}, {"id": "6311042005", "district_id": "631104", "name": "BATUMANDI"}, {"id": "6311042006", "district_id": "631104", "name": "RIWA"}, {"id": "6311042007", "district_id": "631104", "name": "MANTIMIN"}, {"id": "6311042008", "district_id": "631104", "name": "MAMPARI"}, {"id": "6311042009", "district_id": "631104", "name": "BUNGUR"}, {"id": "6311042010", "district_id": "631104", "name": "TELUK MESJID"}, {"id": "6311042011", "district_id": "631104", "name": "TIMBUN TULANG"}, {"id": "6311042012", "district_id": "631104", "name": "BANUA HANYAR"}, {"id": "6311042013", "district_id": "631104", "name": "BAKUNG"}, {"id": "6311042014", "district_id": "631104", "name": "KARUH"}, {"id": "6311042015", "district_id": "631104", "name": "GUHA"}, {"id": "6311042016", "district_id": "631104", "name": "GUNUNG MANAU"}, {"id": "6311042017", "district_id": "631104", "name": "HAMPA RAYA"}, {"id": "6311042018", "district_id": "631104", "name": "KASAI"}]
+[
+  {
+    "id": "6311042001",
+    "district_id": "631104",
+    "name": "TARIWIN"
+  },
+  {
+    "id": "6311042002",
+    "district_id": "631104",
+    "name": "LOK BATU"
+  },
+  {
+    "id": "6311042003",
+    "district_id": "631104",
+    "name": "MUNJUNG"
+  },
+  {
+    "id": "6311042004",
+    "district_id": "631104",
+    "name": "PELAJAU"
+  },
+  {
+    "id": "6311042005",
+    "district_id": "631104",
+    "name": "BATUMANDI"
+  },
+  {
+    "id": "6311042006",
+    "district_id": "631104",
+    "name": "RIWA"
+  },
+  {
+    "id": "6311042007",
+    "district_id": "631104",
+    "name": "MANTIMIN"
+  },
+  {
+    "id": "6311042008",
+    "district_id": "631104",
+    "name": "MAMPARI"
+  },
+  {
+    "id": "6311042009",
+    "district_id": "631104",
+    "name": "BUNGUR"
+  },
+  {
+    "id": "6311042010",
+    "district_id": "631104",
+    "name": "TELUK MESJID"
+  },
+  {
+    "id": "6311042011",
+    "district_id": "631104",
+    "name": "TIMBUN TULANG"
+  },
+  {
+    "id": "6311042012",
+    "district_id": "631104",
+    "name": "BANUA HANYAR"
+  },
+  {
+    "id": "6311042013",
+    "district_id": "631104",
+    "name": "BAKUNG"
+  },
+  {
+    "id": "6311042014",
+    "district_id": "631104",
+    "name": "KARUH"
+  },
+  {
+    "id": "6311042015",
+    "district_id": "631104",
+    "name": "GUHA"
+  },
+  {
+    "id": "6311042016",
+    "district_id": "631104",
+    "name": "GUNUNG MANAU"
+  },
+  {
+    "id": "6311042017",
+    "district_id": "631104",
+    "name": "HAMPA RAYA"
+  },
+  {
+    "id": "6311042018",
+    "district_id": "631104",
+    "name": "KASAI"
+  }
+]

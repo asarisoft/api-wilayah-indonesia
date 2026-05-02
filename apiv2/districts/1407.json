@@ -1,1 +1,92 @@
-[{"id": "140701", "regency_id": "1407", "name": "KUBU"}, {"id": "140702", "regency_id": "1407", "name": "BANGKO"}, {"id": "140703", "regency_id": "1407", "name": "TANAH PUTIH"}, {"id": "140704", "regency_id": "1407", "name": "RIMBA MELINTANG"}, {"id": "140705", "regency_id": "1407", "name": "BAGANSINEMBAH"}, {"id": "140706", "regency_id": "1407", "name": "PASIR LIMAU KAPAS"}, {"id": "140707", "regency_id": "1407", "name": "SINABOI"}, {"id": "140708", "regency_id": "1407", "name": "PUJUD"}, {"id": "140709", "regency_id": "1407", "name": "TANAH PUTIH TANJUNG MELAWAN"}, {"id": "140710", "regency_id": "1407", "name": "BANGKO PUSAKO"}, {"id": "140711", "regency_id": "1407", "name": "SIMPANG KANAN"}, {"id": "140712", "regency_id": "1407", "name": "BATU HAMPAR"}, {"id": "140713", "regency_id": "1407", "name": "RANTAU KOPAR"}, {"id": "140714", "regency_id": "1407", "name": "PEKAITAN"}, {"id": "140715", "regency_id": "1407", "name": "KUBU BABUSSALAM"}, {"id": "140716", "regency_id": "1407", "name": "TANJUNG MEDAN"}, {"id": "140717", "regency_id": "1407", "name": "BAGAN SINEMBAH RAYA"}, {"id": "140718", "regency_id": "1407", "name": "BALAI JAYA"}]
+[
+  {
+    "id": "140701",
+    "regency_id": "1407",
+    "name": "KUBU"
+  },
+  {
+    "id": "140702",
+    "regency_id": "1407",
+    "name": "BANGKO"
+  },
+  {
+    "id": "140703",
+    "regency_id": "1407",
+    "name": "TANAH PUTIH"
+  },
+  {
+    "id": "140704",
+    "regency_id": "1407",
+    "name": "RIMBA MELINTANG"
+  },
+  {
+    "id": "140705",
+    "regency_id": "1407",
+    "name": "BAGANSINEMBAH"
+  },
+  {
+    "id": "140706",
+    "regency_id": "1407",
+    "name": "PASIR LIMAU KAPAS"
+  },
+  {
+    "id": "140707",
+    "regency_id": "1407",
+    "name": "SINABOI"
+  },
+  {
+    "id": "140708",
+    "regency_id": "1407",
+    "name": "PUJUD"
+  },
+  {
+    "id": "140709",
+    "regency_id": "1407",
+    "name": "TANAH PUTIH TANJUNG MELAWAN"
+  },
+  {
+    "id": "140710",
+    "regency_id": "1407",
+    "name": "BANGKO PUSAKO"
+  },
+  {
+    "id": "140711",
+    "regency_id": "1407",
+    "name": "SIMPANG KANAN"
+  },
+  {
+    "id": "140712",
+    "regency_id": "1407",
+    "name": "BATU HAMPAR"
+  },
+  {
+    "id": "140713",
+    "regency_id": "1407",
+    "name": "RANTAU KOPAR"
+  },
+  {
+    "id": "140714",
+    "regency_id": "1407",
+    "name": "PEKAITAN"
+  },
+  {
+    "id": "140715",
+    "regency_id": "1407",
+    "name": "KUBU BABUSSALAM"
+  },
+  {
+    "id": "140716",
+    "regency_id": "1407",
+    "name": "TANJUNG MEDAN"
+  },
+  {
+    "id": "140717",
+    "regency_id": "1407",
+    "name": "BAGAN SINEMBAH RAYA"
+  },
+  {
+    "id": "140718",
+    "regency_id": "1407",
+    "name": "BALAI JAYA"
+  }
+]

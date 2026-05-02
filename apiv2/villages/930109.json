@@ -1,1 +1,57 @@
-[{"id": "9301092001", "district_id": "930109", "name": "SELIL"}, {"id": "9301092002", "district_id": "930109", "name": "KINDIKI"}, {"id": "9301092003", "district_id": "930109", "name": "KUMAAF"}, {"id": "9301092004", "district_id": "930109", "name": "NGGAYU"}, {"id": "9301092005", "district_id": "930109", "name": "KAFYAMKE"}, {"id": "9301092006", "district_id": "930109", "name": "MANDEKMAN"}, {"id": "9301092007", "district_id": "930109", "name": "RAWAHAYU"}, {"id": "9301092008", "district_id": "930109", "name": "BELBELAND"}, {"id": "9301092009", "district_id": "930109", "name": "KIR-ELY"}, {"id": "9301092010", "district_id": "930109", "name": "KANDRAKAY"}, {"id": "9301092011", "district_id": "930109", "name": "BAIDUB"}]
+[
+  {
+    "id": "9301092001",
+    "district_id": "930109",
+    "name": "SELIL"
+  },
+  {
+    "id": "9301092002",
+    "district_id": "930109",
+    "name": "KINDIKI"
+  },
+  {
+    "id": "9301092003",
+    "district_id": "930109",
+    "name": "KUMAAF"
+  },
+  {
+    "id": "9301092004",
+    "district_id": "930109",
+    "name": "NGGAYU"
+  },
+  {
+    "id": "9301092005",
+    "district_id": "930109",
+    "name": "KAFYAMKE"
+  },
+  {
+    "id": "9301092006",
+    "district_id": "930109",
+    "name": "MANDEKMAN"
+  },
+  {
+    "id": "9301092007",
+    "district_id": "930109",
+    "name": "RAWAHAYU"
+  },
+  {
+    "id": "9301092008",
+    "district_id": "930109",
+    "name": "BELBELAND"
+  },
+  {
+    "id": "9301092009",
+    "district_id": "930109",
+    "name": "KIR-ELY"
+  },
+  {
+    "id": "9301092010",
+    "district_id": "930109",
+    "name": "KANDRAKAY"
+  },
+  {
+    "id": "9301092011",
+    "district_id": "930109",
+    "name": "BAIDUB"
+  }
+]

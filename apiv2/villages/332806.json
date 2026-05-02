@@ -1,1 +1,77 @@
-[{"id": "3328062001", "district_id": "332806", "name": "TIMBANGREJA"}, {"id": "3328062002", "district_id": "332806", "name": "LEBAKSIU KIDUL"}, {"id": "3328062003", "district_id": "332806", "name": "LEBAKSIU LOR"}, {"id": "3328062004", "district_id": "332806", "name": "KAJEN"}, {"id": "3328062005", "district_id": "332806", "name": "YAMANSARI"}, {"id": "3328062006", "district_id": "332806", "name": "KESUBEN"}, {"id": "3328062007", "district_id": "332806", "name": "BALARADIN"}, {"id": "3328062008", "district_id": "332806", "name": "LEBAKGOWAH"}, {"id": "3328062009", "district_id": "332806", "name": "DUKUHLO"}, {"id": "3328062010", "district_id": "332806", "name": "PENDAWA"}, {"id": "3328062011", "district_id": "332806", "name": "JATIMULYA"}, {"id": "3328062012", "district_id": "332806", "name": "KAMBANGAN"}, {"id": "3328062013", "district_id": "332806", "name": "SLARANGKIDUL"}, {"id": "3328062014", "district_id": "332806", "name": "TEGALANDONG"}, {"id": "3328062015", "district_id": "332806", "name": "DUKUHDAMU"}]
+[
+  {
+    "id": "3328062001",
+    "district_id": "332806",
+    "name": "TIMBANGREJA"
+  },
+  {
+    "id": "3328062002",
+    "district_id": "332806",
+    "name": "LEBAKSIU KIDUL"
+  },
+  {
+    "id": "3328062003",
+    "district_id": "332806",
+    "name": "LEBAKSIU LOR"
+  },
+  {
+    "id": "3328062004",
+    "district_id": "332806",
+    "name": "KAJEN"
+  },
+  {
+    "id": "3328062005",
+    "district_id": "332806",
+    "name": "YAMANSARI"
+  },
+  {
+    "id": "3328062006",
+    "district_id": "332806",
+    "name": "KESUBEN"
+  },
+  {
+    "id": "3328062007",
+    "district_id": "332806",
+    "name": "BALARADIN"
+  },
+  {
+    "id": "3328062008",
+    "district_id": "332806",
+    "name": "LEBAKGOWAH"
+  },
+  {
+    "id": "3328062009",
+    "district_id": "332806",
+    "name": "DUKUHLO"
+  },
+  {
+    "id": "3328062010",
+    "district_id": "332806",
+    "name": "PENDAWA"
+  },
+  {
+    "id": "3328062011",
+    "district_id": "332806",
+    "name": "JATIMULYA"
+  },
+  {
+    "id": "3328062012",
+    "district_id": "332806",
+    "name": "KAMBANGAN"
+  },
+  {
+    "id": "3328062013",
+    "district_id": "332806",
+    "name": "SLARANGKIDUL"
+  },
+  {
+    "id": "3328062014",
+    "district_id": "332806",
+    "name": "TEGALANDONG"
+  },
+  {
+    "id": "3328062015",
+    "district_id": "332806",
+    "name": "DUKUHDAMU"
+  }
+]

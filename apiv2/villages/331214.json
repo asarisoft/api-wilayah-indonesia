@@ -1,1 +1,62 @@
-[{"id": "3312141009", "district_id": "331214", "name": "KAYULOKO"}, {"id": "3312141012", "district_id": "331214", "name": "SIDOHARJO"}, {"id": "3312142001", "district_id": "331214", "name": "SEMPUKEREP"}, {"id": "3312142002", "district_id": "331214", "name": "SEMBUKAN"}, {"id": "3312142003", "district_id": "331214", "name": "TEMPURSARI"}, {"id": "3312142004", "district_id": "331214", "name": "KEBONAGUNG"}, {"id": "3312142005", "district_id": "331214", "name": "WIDORO"}, {"id": "3312142006", "district_id": "331214", "name": "MOJORENO"}, {"id": "3312142007", "district_id": "331214", "name": "NGABEYAN"}, {"id": "3312142008", "district_id": "331214", "name": "KEDUNGGUPIT"}, {"id": "3312142010", "district_id": "331214", "name": "TREMES"}, {"id": "3312142011", "district_id": "331214", "name": "JATINOM"}]
+[
+  {
+    "id": "3312141009",
+    "district_id": "331214",
+    "name": "KAYULOKO"
+  },
+  {
+    "id": "3312141012",
+    "district_id": "331214",
+    "name": "SIDOHARJO"
+  },
+  {
+    "id": "3312142001",
+    "district_id": "331214",
+    "name": "SEMPUKEREP"
+  },
+  {
+    "id": "3312142002",
+    "district_id": "331214",
+    "name": "SEMBUKAN"
+  },
+  {
+    "id": "3312142003",
+    "district_id": "331214",
+    "name": "TEMPURSARI"
+  },
+  {
+    "id": "3312142004",
+    "district_id": "331214",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3312142005",
+    "district_id": "331214",
+    "name": "WIDORO"
+  },
+  {
+    "id": "3312142006",
+    "district_id": "331214",
+    "name": "MOJORENO"
+  },
+  {
+    "id": "3312142007",
+    "district_id": "331214",
+    "name": "NGABEYAN"
+  },
+  {
+    "id": "3312142008",
+    "district_id": "331214",
+    "name": "KEDUNGGUPIT"
+  },
+  {
+    "id": "3312142010",
+    "district_id": "331214",
+    "name": "TREMES"
+  },
+  {
+    "id": "3312142011",
+    "district_id": "331214",
+    "name": "JATINOM"
+  }
+]

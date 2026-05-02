@@ -1,1 +1,47 @@
-[{"id": "9301032001", "district_id": "930103", "name": "OKABA"}, {"id": "9301032002", "district_id": "930103", "name": "WAMBI"}, {"id": "9301032003", "district_id": "930103", "name": "MAKALING"}, {"id": "9301032004", "district_id": "930103", "name": "ALATEP"}, {"id": "9301032005", "district_id": "930103", "name": "IWOL"}, {"id": "9301032006", "district_id": "930103", "name": "DUF MIRAF"}, {"id": "9301032007", "district_id": "930103", "name": "ALAKU"}, {"id": "9301032008", "district_id": "930103", "name": "SANGGASE"}, {"id": "9301032009", "district_id": "930103", "name": "ES WAMBI"}]
+[
+  {
+    "id": "9301032001",
+    "district_id": "930103",
+    "name": "OKABA"
+  },
+  {
+    "id": "9301032002",
+    "district_id": "930103",
+    "name": "WAMBI"
+  },
+  {
+    "id": "9301032003",
+    "district_id": "930103",
+    "name": "MAKALING"
+  },
+  {
+    "id": "9301032004",
+    "district_id": "930103",
+    "name": "ALATEP"
+  },
+  {
+    "id": "9301032005",
+    "district_id": "930103",
+    "name": "IWOL"
+  },
+  {
+    "id": "9301032006",
+    "district_id": "930103",
+    "name": "DUF MIRAF"
+  },
+  {
+    "id": "9301032007",
+    "district_id": "930103",
+    "name": "ALAKU"
+  },
+  {
+    "id": "9301032008",
+    "district_id": "930103",
+    "name": "SANGGASE"
+  },
+  {
+    "id": "9301032009",
+    "district_id": "930103",
+    "name": "ES WAMBI"
+  }
+]

@@ -1,1 +1,37 @@
-[{"id": "3206162001", "district_id": "320616", "name": "CIKEUSAL"}, {"id": "3206162002", "district_id": "320616", "name": "CIBALANARIK"}, {"id": "3206162003", "district_id": "320616", "name": "SUKANAGARA"}, {"id": "3206162004", "district_id": "320616", "name": "TANJUNGJAYA"}, {"id": "3206162005", "district_id": "320616", "name": "CILOLOHAN"}, {"id": "3206162006", "district_id": "320616", "name": "CINTAJAYA"}, {"id": "3206162007", "district_id": "320616", "name": "SUKASENANG"}]
+[
+  {
+    "id": "3206162001",
+    "district_id": "320616",
+    "name": "CIKEUSAL"
+  },
+  {
+    "id": "3206162002",
+    "district_id": "320616",
+    "name": "CIBALANARIK"
+  },
+  {
+    "id": "3206162003",
+    "district_id": "320616",
+    "name": "SUKANAGARA"
+  },
+  {
+    "id": "3206162004",
+    "district_id": "320616",
+    "name": "TANJUNGJAYA"
+  },
+  {
+    "id": "3206162005",
+    "district_id": "320616",
+    "name": "CILOLOHAN"
+  },
+  {
+    "id": "3206162006",
+    "district_id": "320616",
+    "name": "CINTAJAYA"
+  },
+  {
+    "id": "3206162007",
+    "district_id": "320616",
+    "name": "SUKASENANG"
+  }
+]

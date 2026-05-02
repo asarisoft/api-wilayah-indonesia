@@ -1,1 +1,42 @@
-[{"id": "7415052001", "district_id": "741505", "name": "MOLONA"}, {"id": "7415052002", "district_id": "741505", "name": "MBANUA"}, {"id": "7415052003", "district_id": "741505", "name": "LALOLE"}, {"id": "7415052004", "district_id": "741505", "name": "WATUAMPARA"}, {"id": "7415052005", "district_id": "741505", "name": "KATAMPE"}, {"id": "7415052006", "district_id": "741505", "name": "LAMANINGGARA"}, {"id": "7415052007", "district_id": "741505", "name": "KAMOALI"}, {"id": "7415052008", "district_id": "741505", "name": "MOKOBEAU"}]
+[
+  {
+    "id": "7415052001",
+    "district_id": "741505",
+    "name": "MOLONA"
+  },
+  {
+    "id": "7415052002",
+    "district_id": "741505",
+    "name": "MBANUA"
+  },
+  {
+    "id": "7415052003",
+    "district_id": "741505",
+    "name": "LALOLE"
+  },
+  {
+    "id": "7415052004",
+    "district_id": "741505",
+    "name": "WATUAMPARA"
+  },
+  {
+    "id": "7415052005",
+    "district_id": "741505",
+    "name": "KATAMPE"
+  },
+  {
+    "id": "7415052006",
+    "district_id": "741505",
+    "name": "LAMANINGGARA"
+  },
+  {
+    "id": "7415052007",
+    "district_id": "741505",
+    "name": "KAMOALI"
+  },
+  {
+    "id": "7415052008",
+    "district_id": "741505",
+    "name": "MOKOBEAU"
+  }
+]

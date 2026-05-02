@@ -1,1 +1,47 @@
-[{"id": "1771071001", "district_id": "177107", "name": "PADANG JATI"}, {"id": "1771071002", "district_id": "177107", "name": "KEBUN DAHRI"}, {"id": "1771071003", "district_id": "177107", "name": "BELAKANG PONDOK"}, {"id": "1771071004", "district_id": "177107", "name": "PENURUNAN"}, {"id": "1771071005", "district_id": "177107", "name": "ANGGUT BAWAH"}, {"id": "1771071006", "district_id": "177107", "name": "ANGGUT ATAS"}, {"id": "1771071007", "district_id": "177107", "name": "ANGGUT DALAM"}, {"id": "1771071008", "district_id": "177107", "name": "KEBUN GERAN"}, {"id": "1771071009", "district_id": "177107", "name": "PENGANTUNGAN"}]
+[
+  {
+    "id": "1771071001",
+    "district_id": "177107",
+    "name": "PADANG JATI"
+  },
+  {
+    "id": "1771071002",
+    "district_id": "177107",
+    "name": "KEBUN DAHRI"
+  },
+  {
+    "id": "1771071003",
+    "district_id": "177107",
+    "name": "BELAKANG PONDOK"
+  },
+  {
+    "id": "1771071004",
+    "district_id": "177107",
+    "name": "PENURUNAN"
+  },
+  {
+    "id": "1771071005",
+    "district_id": "177107",
+    "name": "ANGGUT BAWAH"
+  },
+  {
+    "id": "1771071006",
+    "district_id": "177107",
+    "name": "ANGGUT ATAS"
+  },
+  {
+    "id": "1771071007",
+    "district_id": "177107",
+    "name": "ANGGUT DALAM"
+  },
+  {
+    "id": "1771071008",
+    "district_id": "177107",
+    "name": "KEBUN GERAN"
+  },
+  {
+    "id": "1771071009",
+    "district_id": "177107",
+    "name": "PENGANTUNGAN"
+  }
+]

@@ -1,1 +1,177 @@
-[{"id": "121401", "regency_id": "1214", "name": "LOLOMATUA"}, {"id": "121402", "regency_id": "1214", "name": "GOMO"}, {"id": "121403", "regency_id": "1214", "name": "LAHUSA"}, {"id": "121404", "regency_id": "1214", "name": "HIBALA"}, {"id": "121405", "regency_id": "1214", "name": "PULAU-PULAU BATU"}, {"id": "121406", "regency_id": "1214", "name": "TELUK DALAM"}, {"id": "121407", "regency_id": "1214", "name": "AMANDRAYA"}, {"id": "121408", "regency_id": "1214", "name": "LOLOWAU"}, {"id": "121409", "regency_id": "1214", "name": "SUSUA"}, {"id": "121410", "regency_id": "1214", "name": "MANIAMOLO"}, {"id": "121411", "regency_id": "1214", "name": "HILIMEGAI"}, {"id": "121412", "regency_id": "1214", "name": "TOMA"}, {"id": "121413", "regency_id": "1214", "name": "MAZINO"}, {"id": "121414", "regency_id": "1214", "name": "UMBUNASI"}, {"id": "121415", "regency_id": "1214", "name": "ARAMO"}, {"id": "121416", "regency_id": "1214", "name": "PULAU-PULAU BATU TIMUR"}, {"id": "121417", "regency_id": "1214", "name": "MAZO"}, {"id": "121418", "regency_id": "1214", "name": "FANAYAMA"}, {"id": "121419", "regency_id": "1214", "name": "ULUNOYO"}, {"id": "121420", "regency_id": "1214", "name": "HURUNA"}, {"id": "121421", "regency_id": "1214", "name": "O'O'U"}, {"id": "121422", "regency_id": "1214", "name": "ONOHAZUMBA"}, {"id": "121423", "regency_id": "1214", "name": "HILISALAWA'AHE"}, {"id": "121424", "regency_id": "1214", "name": "ULUSUSUA"}, {"id": "121425", "regency_id": "1214", "name": "SIDUA'ORI"}, {"id": "121426", "regency_id": "1214", "name": "SOMAMBAWA"}, {"id": "121427", "regency_id": "1214", "name": "BORONADU"}, {"id": "121428", "regency_id": "1214", "name": "SIMUK"}, {"id": "121429", "regency_id": "1214", "name": "PULAU-PULAU BATU BARAT"}, {"id": "121430", "regency_id": "1214", "name": "PULAU-PULAU BATU UTARA"}, {"id": "121431", "regency_id": "1214", "name": "TANAH MASA"}, {"id": "121432", "regency_id": "1214", "name": "LUAHAGUNDRE MANIAMOLO"}, {"id": "121433", "regency_id": "1214", "name": "ONOLALU"}, {"id": "121434", "regency_id": "1214", "name": "ULU IDANOTAE"}, {"id": "121435", "regency_id": "1214", "name": "IDANOTAE"}]
+[
+  {
+    "id": "121401",
+    "regency_id": "1214",
+    "name": "LOLOMATUA"
+  },
+  {
+    "id": "121402",
+    "regency_id": "1214",
+    "name": "GOMO"
+  },
+  {
+    "id": "121403",
+    "regency_id": "1214",
+    "name": "LAHUSA"
+  },
+  {
+    "id": "121404",
+    "regency_id": "1214",
+    "name": "HIBALA"
+  },
+  {
+    "id": "121405",
+    "regency_id": "1214",
+    "name": "PULAU-PULAU BATU"
+  },
+  {
+    "id": "121406",
+    "regency_id": "1214",
+    "name": "TELUK DALAM"
+  },
+  {
+    "id": "121407",
+    "regency_id": "1214",
+    "name": "AMANDRAYA"
+  },
+  {
+    "id": "121408",
+    "regency_id": "1214",
+    "name": "LOLOWAU"
+  },
+  {
+    "id": "121409",
+    "regency_id": "1214",
+    "name": "SUSUA"
+  },
+  {
+    "id": "121410",
+    "regency_id": "1214",
+    "name": "MANIAMOLO"
+  },
+  {
+    "id": "121411",
+    "regency_id": "1214",
+    "name": "HILIMEGAI"
+  },
+  {
+    "id": "121412",
+    "regency_id": "1214",
+    "name": "TOMA"
+  },
+  {
+    "id": "121413",
+    "regency_id": "1214",
+    "name": "MAZINO"
+  },
+  {
+    "id": "121414",
+    "regency_id": "1214",
+    "name": "UMBUNASI"
+  },
+  {
+    "id": "121415",
+    "regency_id": "1214",
+    "name": "ARAMO"
+  },
+  {
+    "id": "121416",
+    "regency_id": "1214",
+    "name": "PULAU-PULAU BATU TIMUR"
+  },
+  {
+    "id": "121417",
+    "regency_id": "1214",
+    "name": "MAZO"
+  },
+  {
+    "id": "121418",
+    "regency_id": "1214",
+    "name": "FANAYAMA"
+  },
+  {
+    "id": "121419",
+    "regency_id": "1214",
+    "name": "ULUNOYO"
+  },
+  {
+    "id": "121420",
+    "regency_id": "1214",
+    "name": "HURUNA"
+  },
+  {
+    "id": "121421",
+    "regency_id": "1214",
+    "name": "O'O'U"
+  },
+  {
+    "id": "121422",
+    "regency_id": "1214",
+    "name": "ONOHAZUMBA"
+  },
+  {
+    "id": "121423",
+    "regency_id": "1214",
+    "name": "HILISALAWA'AHE"
+  },
+  {
+    "id": "121424",
+    "regency_id": "1214",
+    "name": "ULUSUSUA"
+  },
+  {
+    "id": "121425",
+    "regency_id": "1214",
+    "name": "SIDUA'ORI"
+  },
+  {
+    "id": "121426",
+    "regency_id": "1214",
+    "name": "SOMAMBAWA"
+  },
+  {
+    "id": "121427",
+    "regency_id": "1214",
+    "name": "BORONADU"
+  },
+  {
+    "id": "121428",
+    "regency_id": "1214",
+    "name": "SIMUK"
+  },
+  {
+    "id": "121429",
+    "regency_id": "1214",
+    "name": "PULAU-PULAU BATU BARAT"
+  },
+  {
+    "id": "121430",
+    "regency_id": "1214",
+    "name": "PULAU-PULAU BATU UTARA"
+  },
+  {
+    "id": "121431",
+    "regency_id": "1214",
+    "name": "TANAH MASA"
+  },
+  {
+    "id": "121432",
+    "regency_id": "1214",
+    "name": "LUAHAGUNDRE MANIAMOLO"
+  },
+  {
+    "id": "121433",
+    "regency_id": "1214",
+    "name": "ONOLALU"
+  },
+  {
+    "id": "121434",
+    "regency_id": "1214",
+    "name": "ULU IDANOTAE"
+  },
+  {
+    "id": "121435",
+    "regency_id": "1214",
+    "name": "IDANOTAE"
+  }
+]

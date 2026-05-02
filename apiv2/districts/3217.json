@@ -1,1 +1,82 @@
-[{"id": "321701", "regency_id": "3217", "name": "LEMBANG"}, {"id": "321702", "regency_id": "3217", "name": "PARONGPONG"}, {"id": "321703", "regency_id": "3217", "name": "CISARUA"}, {"id": "321704", "regency_id": "3217", "name": "CIKALONGWETAN"}, {"id": "321705", "regency_id": "3217", "name": "CIPEUNDEUY"}, {"id": "321706", "regency_id": "3217", "name": "NGAMPRAH"}, {"id": "321707", "regency_id": "3217", "name": "CIPATAT"}, {"id": "321708", "regency_id": "3217", "name": "PADALARANG"}, {"id": "321709", "regency_id": "3217", "name": "BATUJAJAR"}, {"id": "321710", "regency_id": "3217", "name": "CIHAMPELAS"}, {"id": "321711", "regency_id": "3217", "name": "CILILIN"}, {"id": "321712", "regency_id": "3217", "name": "CIPONGKOR"}, {"id": "321713", "regency_id": "3217", "name": "RONGGA"}, {"id": "321714", "regency_id": "3217", "name": "SINDANGKERTA"}, {"id": "321715", "regency_id": "3217", "name": "GUNUNGHALU"}, {"id": "321716", "regency_id": "3217", "name": "SAGULING"}]
+[
+  {
+    "id": "321701",
+    "regency_id": "3217",
+    "name": "LEMBANG"
+  },
+  {
+    "id": "321702",
+    "regency_id": "3217",
+    "name": "PARONGPONG"
+  },
+  {
+    "id": "321703",
+    "regency_id": "3217",
+    "name": "CISARUA"
+  },
+  {
+    "id": "321704",
+    "regency_id": "3217",
+    "name": "CIKALONGWETAN"
+  },
+  {
+    "id": "321705",
+    "regency_id": "3217",
+    "name": "CIPEUNDEUY"
+  },
+  {
+    "id": "321706",
+    "regency_id": "3217",
+    "name": "NGAMPRAH"
+  },
+  {
+    "id": "321707",
+    "regency_id": "3217",
+    "name": "CIPATAT"
+  },
+  {
+    "id": "321708",
+    "regency_id": "3217",
+    "name": "PADALARANG"
+  },
+  {
+    "id": "321709",
+    "regency_id": "3217",
+    "name": "BATUJAJAR"
+  },
+  {
+    "id": "321710",
+    "regency_id": "3217",
+    "name": "CIHAMPELAS"
+  },
+  {
+    "id": "321711",
+    "regency_id": "3217",
+    "name": "CILILIN"
+  },
+  {
+    "id": "321712",
+    "regency_id": "3217",
+    "name": "CIPONGKOR"
+  },
+  {
+    "id": "321713",
+    "regency_id": "3217",
+    "name": "RONGGA"
+  },
+  {
+    "id": "321714",
+    "regency_id": "3217",
+    "name": "SINDANGKERTA"
+  },
+  {
+    "id": "321715",
+    "regency_id": "3217",
+    "name": "GUNUNGHALU"
+  },
+  {
+    "id": "321716",
+    "regency_id": "3217",
+    "name": "SAGULING"
+  }
+]

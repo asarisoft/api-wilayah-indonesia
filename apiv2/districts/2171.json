@@ -1,1 +1,62 @@
-[{"id": "217101", "regency_id": "2171", "name": "BELAKANG PADANG"}, {"id": "217102", "regency_id": "2171", "name": "BATU AMPAR"}, {"id": "217103", "regency_id": "2171", "name": "SEKUPANG"}, {"id": "217104", "regency_id": "2171", "name": "NONGSA"}, {"id": "217105", "regency_id": "2171", "name": "BULANG"}, {"id": "217106", "regency_id": "2171", "name": "LUBUK BAJA"}, {"id": "217107", "regency_id": "2171", "name": "SEI BEDUK"}, {"id": "217108", "regency_id": "2171", "name": "GALANG"}, {"id": "217109", "regency_id": "2171", "name": "BENGKONG"}, {"id": "217110", "regency_id": "2171", "name": "BATAM KOTA"}, {"id": "217111", "regency_id": "2171", "name": "SAGULUNG"}, {"id": "217112", "regency_id": "2171", "name": "BATU AJI"}]
+[
+  {
+    "id": "217101",
+    "regency_id": "2171",
+    "name": "BELAKANG PADANG"
+  },
+  {
+    "id": "217102",
+    "regency_id": "2171",
+    "name": "BATU AMPAR"
+  },
+  {
+    "id": "217103",
+    "regency_id": "2171",
+    "name": "SEKUPANG"
+  },
+  {
+    "id": "217104",
+    "regency_id": "2171",
+    "name": "NONGSA"
+  },
+  {
+    "id": "217105",
+    "regency_id": "2171",
+    "name": "BULANG"
+  },
+  {
+    "id": "217106",
+    "regency_id": "2171",
+    "name": "LUBUK BAJA"
+  },
+  {
+    "id": "217107",
+    "regency_id": "2171",
+    "name": "SEI BEDUK"
+  },
+  {
+    "id": "217108",
+    "regency_id": "2171",
+    "name": "GALANG"
+  },
+  {
+    "id": "217109",
+    "regency_id": "2171",
+    "name": "BENGKONG"
+  },
+  {
+    "id": "217110",
+    "regency_id": "2171",
+    "name": "BATAM KOTA"
+  },
+  {
+    "id": "217111",
+    "regency_id": "2171",
+    "name": "SAGULUNG"
+  },
+  {
+    "id": "217112",
+    "regency_id": "2171",
+    "name": "BATU AJI"
+  }
+]

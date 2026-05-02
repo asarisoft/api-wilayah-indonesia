@@ -1,1 +1,102 @@
-[{"id": "7308061001", "district_id": "730806", "name": "TANAH BATUE"}, {"id": "7308061010", "district_id": "730806", "name": "CEPPAGA"}, {"id": "7308062002", "district_id": "730806", "name": "TOMPO BULU"}, {"id": "7308062003", "district_id": "730806", "name": "TAPPALE"}, {"id": "7308062004", "district_id": "730806", "name": "POLEWALI"}, {"id": "7308062005", "district_id": "730806", "name": "PITUMPIDANGE"}, {"id": "7308062006", "district_id": "730806", "name": "BUNE"}, {"id": "7308062007", "district_id": "730806", "name": "SWADAYA"}, {"id": "7308062008", "district_id": "730806", "name": "BINUANG"}, {"id": "7308062009", "district_id": "730806", "name": "MALLINRUNG"}, {"id": "7308062011", "district_id": "730806", "name": "BARINGENG"}, {"id": "7308062012", "district_id": "730806", "name": "MARIO"}, {"id": "7308062013", "district_id": "730806", "name": "WANUAWARU"}, {"id": "7308062014", "district_id": "730806", "name": "MATTIROWALIE"}, {"id": "7308062015", "district_id": "730806", "name": "POLEONRO"}, {"id": "7308062016", "district_id": "730806", "name": "MATIRRO BULU"}, {"id": "7308062017", "district_id": "730806", "name": "MATIRRODECENG"}, {"id": "7308062018", "district_id": "730806", "name": "SUWA"}, {"id": "7308062019", "district_id": "730806", "name": "LABURASSENG"}, {"id": "7308062020", "district_id": "730806", "name": "PONRE PONRE"}]
+[
+  {
+    "id": "7308061001",
+    "district_id": "730806",
+    "name": "TANAH BATUE"
+  },
+  {
+    "id": "7308061010",
+    "district_id": "730806",
+    "name": "CEPPAGA"
+  },
+  {
+    "id": "7308062002",
+    "district_id": "730806",
+    "name": "TOMPO BULU"
+  },
+  {
+    "id": "7308062003",
+    "district_id": "730806",
+    "name": "TAPPALE"
+  },
+  {
+    "id": "7308062004",
+    "district_id": "730806",
+    "name": "POLEWALI"
+  },
+  {
+    "id": "7308062005",
+    "district_id": "730806",
+    "name": "PITUMPIDANGE"
+  },
+  {
+    "id": "7308062006",
+    "district_id": "730806",
+    "name": "BUNE"
+  },
+  {
+    "id": "7308062007",
+    "district_id": "730806",
+    "name": "SWADAYA"
+  },
+  {
+    "id": "7308062008",
+    "district_id": "730806",
+    "name": "BINUANG"
+  },
+  {
+    "id": "7308062009",
+    "district_id": "730806",
+    "name": "MALLINRUNG"
+  },
+  {
+    "id": "7308062011",
+    "district_id": "730806",
+    "name": "BARINGENG"
+  },
+  {
+    "id": "7308062012",
+    "district_id": "730806",
+    "name": "MARIO"
+  },
+  {
+    "id": "7308062013",
+    "district_id": "730806",
+    "name": "WANUAWARU"
+  },
+  {
+    "id": "7308062014",
+    "district_id": "730806",
+    "name": "MATTIROWALIE"
+  },
+  {
+    "id": "7308062015",
+    "district_id": "730806",
+    "name": "POLEONRO"
+  },
+  {
+    "id": "7308062016",
+    "district_id": "730806",
+    "name": "MATIRRO BULU"
+  },
+  {
+    "id": "7308062017",
+    "district_id": "730806",
+    "name": "MATIRRODECENG"
+  },
+  {
+    "id": "7308062018",
+    "district_id": "730806",
+    "name": "SUWA"
+  },
+  {
+    "id": "7308062019",
+    "district_id": "730806",
+    "name": "LABURASSENG"
+  },
+  {
+    "id": "7308062020",
+    "district_id": "730806",
+    "name": "PONRE PONRE"
+  }
+]

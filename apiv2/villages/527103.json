@@ -1,1 +1,52 @@
-[{"id": "5271031004", "district_id": "527103", "name": "CAKRANEGARA SELATAN"}, {"id": "5271031005", "district_id": "527103", "name": "CAKRANEGARA BARAT"}, {"id": "5271031006", "district_id": "527103", "name": "CAKRANEGARA TIMUR"}, {"id": "5271031007", "district_id": "527103", "name": "CAKRANEGARA UTARA"}, {"id": "5271031009", "district_id": "527103", "name": "SAYANG-SAYANG"}, {"id": "5271031010", "district_id": "527103", "name": "CAKRANEGARA SELATAN BARU"}, {"id": "5271031011", "district_id": "527103", "name": "SAPTA MARGA"}, {"id": "5271031012", "district_id": "527103", "name": "CILINAYA"}, {"id": "5271031013", "district_id": "527103", "name": "MAYURA"}, {"id": "5271031014", "district_id": "527103", "name": "KARANG TALIWANG"}]
+[
+  {
+    "id": "5271031004",
+    "district_id": "527103",
+    "name": "CAKRANEGARA SELATAN"
+  },
+  {
+    "id": "5271031005",
+    "district_id": "527103",
+    "name": "CAKRANEGARA BARAT"
+  },
+  {
+    "id": "5271031006",
+    "district_id": "527103",
+    "name": "CAKRANEGARA TIMUR"
+  },
+  {
+    "id": "5271031007",
+    "district_id": "527103",
+    "name": "CAKRANEGARA UTARA"
+  },
+  {
+    "id": "5271031009",
+    "district_id": "527103",
+    "name": "SAYANG-SAYANG"
+  },
+  {
+    "id": "5271031010",
+    "district_id": "527103",
+    "name": "CAKRANEGARA SELATAN BARU"
+  },
+  {
+    "id": "5271031011",
+    "district_id": "527103",
+    "name": "SAPTA MARGA"
+  },
+  {
+    "id": "5271031012",
+    "district_id": "527103",
+    "name": "CILINAYA"
+  },
+  {
+    "id": "5271031013",
+    "district_id": "527103",
+    "name": "MAYURA"
+  },
+  {
+    "id": "5271031014",
+    "district_id": "527103",
+    "name": "KARANG TALIWANG"
+  }
+]

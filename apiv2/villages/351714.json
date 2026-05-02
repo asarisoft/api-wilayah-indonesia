@@ -1,1 +1,67 @@
-[{"id": "3517142001", "district_id": "351714", "name": "TANGGUNGKRAMAT"}, {"id": "3517142002", "district_id": "351714", "name": "REJOAGUNG"}, {"id": "3517142003", "district_id": "351714", "name": "LOSARI"}, {"id": "3517142004", "district_id": "351714", "name": "PLOSO"}, {"id": "3517142005", "district_id": "351714", "name": "JATIGEDONG"}, {"id": "3517142006", "district_id": "351714", "name": "DADITUNGGAL"}, {"id": "3517142007", "district_id": "351714", "name": "GEDONGOMBO"}, {"id": "3517142008", "district_id": "351714", "name": "JATIBANJAR"}, {"id": "3517142009", "district_id": "351714", "name": "PAGERTANJUNG"}, {"id": "3517142010", "district_id": "351714", "name": "PANDANBLOLE"}, {"id": "3517142011", "district_id": "351714", "name": "KEDUNGDOWO"}, {"id": "3517142012", "district_id": "351714", "name": "KEBONAGUNG"}, {"id": "3517142013", "district_id": "351714", "name": "BAWANGAN"}]
+[
+  {
+    "id": "3517142001",
+    "district_id": "351714",
+    "name": "TANGGUNGKRAMAT"
+  },
+  {
+    "id": "3517142002",
+    "district_id": "351714",
+    "name": "REJOAGUNG"
+  },
+  {
+    "id": "3517142003",
+    "district_id": "351714",
+    "name": "LOSARI"
+  },
+  {
+    "id": "3517142004",
+    "district_id": "351714",
+    "name": "PLOSO"
+  },
+  {
+    "id": "3517142005",
+    "district_id": "351714",
+    "name": "JATIGEDONG"
+  },
+  {
+    "id": "3517142006",
+    "district_id": "351714",
+    "name": "DADITUNGGAL"
+  },
+  {
+    "id": "3517142007",
+    "district_id": "351714",
+    "name": "GEDONGOMBO"
+  },
+  {
+    "id": "3517142008",
+    "district_id": "351714",
+    "name": "JATIBANJAR"
+  },
+  {
+    "id": "3517142009",
+    "district_id": "351714",
+    "name": "PAGERTANJUNG"
+  },
+  {
+    "id": "3517142010",
+    "district_id": "351714",
+    "name": "PANDANBLOLE"
+  },
+  {
+    "id": "3517142011",
+    "district_id": "351714",
+    "name": "KEDUNGDOWO"
+  },
+  {
+    "id": "3517142012",
+    "district_id": "351714",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3517142013",
+    "district_id": "351714",
+    "name": "BAWANGAN"
+  }
+]

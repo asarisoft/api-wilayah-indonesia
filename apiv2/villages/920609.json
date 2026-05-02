@@ -1,1 +1,22 @@
-[{"id": "9206092001", "district_id": "920609", "name": "TEMBUNI"}, {"id": "9206092002", "district_id": "920609", "name": "MOGOI BARU"}, {"id": "9206092003", "district_id": "920609", "name": "ARAISUM"}, {"id": "9206092004", "district_id": "920609", "name": "BANGUN MULYA"}]
+[
+  {
+    "id": "9206092001",
+    "district_id": "920609",
+    "name": "TEMBUNI"
+  },
+  {
+    "id": "9206092002",
+    "district_id": "920609",
+    "name": "MOGOI BARU"
+  },
+  {
+    "id": "9206092003",
+    "district_id": "920609",
+    "name": "ARAISUM"
+  },
+  {
+    "id": "9206092004",
+    "district_id": "920609",
+    "name": "BANGUN MULYA"
+  }
+]

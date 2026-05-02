@@ -1,1 +1,57 @@
-[{"id": "630601", "regency_id": "6306", "name": "SUNGAI RAYA"}, {"id": "630602", "regency_id": "6306", "name": "PADANG BATUNG"}, {"id": "630603", "regency_id": "6306", "name": "TELAGA LANGSAT"}, {"id": "630604", "regency_id": "6306", "name": "ANGKINANG"}, {"id": "630605", "regency_id": "6306", "name": "KANDANGAN"}, {"id": "630606", "regency_id": "6306", "name": "SIMPUR"}, {"id": "630607", "regency_id": "6306", "name": "DAHA SELATAN"}, {"id": "630608", "regency_id": "6306", "name": "DAHA UTARA"}, {"id": "630609", "regency_id": "6306", "name": "KALUMPANG"}, {"id": "630610", "regency_id": "6306", "name": "LOKSADO"}, {"id": "630611", "regency_id": "6306", "name": "DAHA BARAT"}]
+[
+  {
+    "id": "630601",
+    "regency_id": "6306",
+    "name": "SUNGAI RAYA"
+  },
+  {
+    "id": "630602",
+    "regency_id": "6306",
+    "name": "PADANG BATUNG"
+  },
+  {
+    "id": "630603",
+    "regency_id": "6306",
+    "name": "TELAGA LANGSAT"
+  },
+  {
+    "id": "630604",
+    "regency_id": "6306",
+    "name": "ANGKINANG"
+  },
+  {
+    "id": "630605",
+    "regency_id": "6306",
+    "name": "KANDANGAN"
+  },
+  {
+    "id": "630606",
+    "regency_id": "6306",
+    "name": "SIMPUR"
+  },
+  {
+    "id": "630607",
+    "regency_id": "6306",
+    "name": "DAHA SELATAN"
+  },
+  {
+    "id": "630608",
+    "regency_id": "6306",
+    "name": "DAHA UTARA"
+  },
+  {
+    "id": "630609",
+    "regency_id": "6306",
+    "name": "KALUMPANG"
+  },
+  {
+    "id": "630610",
+    "regency_id": "6306",
+    "name": "LOKSADO"
+  },
+  {
+    "id": "630611",
+    "regency_id": "6306",
+    "name": "DAHA BARAT"
+  }
+]

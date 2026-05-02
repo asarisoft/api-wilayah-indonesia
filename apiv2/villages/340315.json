@@ -1,1 +1,37 @@
-[{"id": "3403152001", "district_id": "340315", "name": "KRAMBILSAWIT"}, {"id": "3403152002", "district_id": "340315", "name": "NGLORO"}, {"id": "3403152003", "district_id": "340315", "name": "JETIS"}, {"id": "3403152004", "district_id": "340315", "name": "KEPEK"}, {"id": "3403152005", "district_id": "340315", "name": "KANIGORO"}, {"id": "3403152006", "district_id": "340315", "name": "MONGGOL"}, {"id": "3403152007", "district_id": "340315", "name": "PLANJAN"}]
+[
+  {
+    "id": "3403152001",
+    "district_id": "340315",
+    "name": "KRAMBILSAWIT"
+  },
+  {
+    "id": "3403152002",
+    "district_id": "340315",
+    "name": "NGLORO"
+  },
+  {
+    "id": "3403152003",
+    "district_id": "340315",
+    "name": "JETIS"
+  },
+  {
+    "id": "3403152004",
+    "district_id": "340315",
+    "name": "KEPEK"
+  },
+  {
+    "id": "3403152005",
+    "district_id": "340315",
+    "name": "KANIGORO"
+  },
+  {
+    "id": "3403152006",
+    "district_id": "340315",
+    "name": "MONGGOL"
+  },
+  {
+    "id": "3403152007",
+    "district_id": "340315",
+    "name": "PLANJAN"
+  }
+]

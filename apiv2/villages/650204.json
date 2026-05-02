@@ -1,1 +1,27 @@
-[{"id": "6502042001", "district_id": "650204", "name": "DATA DIAN"}, {"id": "6502042002", "district_id": "650204", "name": "LONG PIPA"}, {"id": "6502042003", "district_id": "650204", "name": "LONG SULE"}, {"id": "6502042004", "district_id": "650204", "name": "SUNGAI ANAI"}, {"id": "6502042005", "district_id": "650204", "name": "LONG METUN"}]
+[
+  {
+    "id": "6502042001",
+    "district_id": "650204",
+    "name": "DATA DIAN"
+  },
+  {
+    "id": "6502042002",
+    "district_id": "650204",
+    "name": "LONG PIPA"
+  },
+  {
+    "id": "6502042003",
+    "district_id": "650204",
+    "name": "LONG SULE"
+  },
+  {
+    "id": "6502042004",
+    "district_id": "650204",
+    "name": "SUNGAI ANAI"
+  },
+  {
+    "id": "6502042005",
+    "district_id": "650204",
+    "name": "LONG METUN"
+  }
+]

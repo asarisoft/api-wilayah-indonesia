@@ -1,1 +1,57 @@
-[{"id": "7208142001", "district_id": "720814", "name": "KARYA AGUNG"}, {"id": "7208142002", "district_id": "720814", "name": "NUNURANTAI"}, {"id": "7208142003", "district_id": "720814", "name": "PALAPI"}, {"id": "7208142004", "district_id": "720814", "name": "TAOPA"}, {"id": "7208142005", "district_id": "720814", "name": "TULADENGGI SIBATANG"}, {"id": "7208142006", "district_id": "720814", "name": "TOMPO"}, {"id": "7208142007", "district_id": "720814", "name": "TAOPA UTARA"}, {"id": "7208142008", "district_id": "720814", "name": "BILALEA"}, {"id": "7208142009", "district_id": "720814", "name": "TAOPA BARAT"}, {"id": "7208142010", "district_id": "720814", "name": "PARIA"}, {"id": "7208142011", "district_id": "720814", "name": "KARYA ABADI"}]
+[
+  {
+    "id": "7208142001",
+    "district_id": "720814",
+    "name": "KARYA AGUNG"
+  },
+  {
+    "id": "7208142002",
+    "district_id": "720814",
+    "name": "NUNURANTAI"
+  },
+  {
+    "id": "7208142003",
+    "district_id": "720814",
+    "name": "PALAPI"
+  },
+  {
+    "id": "7208142004",
+    "district_id": "720814",
+    "name": "TAOPA"
+  },
+  {
+    "id": "7208142005",
+    "district_id": "720814",
+    "name": "TULADENGGI SIBATANG"
+  },
+  {
+    "id": "7208142006",
+    "district_id": "720814",
+    "name": "TOMPO"
+  },
+  {
+    "id": "7208142007",
+    "district_id": "720814",
+    "name": "TAOPA UTARA"
+  },
+  {
+    "id": "7208142008",
+    "district_id": "720814",
+    "name": "BILALEA"
+  },
+  {
+    "id": "7208142009",
+    "district_id": "720814",
+    "name": "TAOPA BARAT"
+  },
+  {
+    "id": "7208142010",
+    "district_id": "720814",
+    "name": "PARIA"
+  },
+  {
+    "id": "7208142011",
+    "district_id": "720814",
+    "name": "KARYA ABADI"
+  }
+]

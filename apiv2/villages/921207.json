@@ -1,1 +1,107 @@
-[{"id": "9212072001", "district_id": "921207", "name": "CATUBOUW"}, {"id": "9212072002", "district_id": "921207", "name": "BIGWAIMUD"}, {"id": "9212072003", "district_id": "921207", "name": "MIHOU"}, {"id": "9212072004", "district_id": "921207", "name": "KAUNGWAM"}, {"id": "9212072005", "district_id": "921207", "name": "AIGA"}, {"id": "9212072006", "district_id": "921207", "name": "IMANDRIGO"}, {"id": "9212072007", "district_id": "921207", "name": "UNTI"}, {"id": "9212072008", "district_id": "921207", "name": "NDABOUW"}, {"id": "9212072009", "district_id": "921207", "name": "SUGEMEH"}, {"id": "9212072010", "district_id": "921207", "name": "MANGGESUK"}, {"id": "9212072011", "district_id": "921207", "name": "IJIGREG"}, {"id": "9212072012", "district_id": "921207", "name": "JIM"}, {"id": "9212072013", "district_id": "921207", "name": "SLOMIOU"}, {"id": "9212072014", "district_id": "921207", "name": "BINGGRAYUD"}, {"id": "9212072015", "district_id": "921207", "name": "MINMO"}, {"id": "9212072016", "district_id": "921207", "name": "MIHIJ"}, {"id": "9212072017", "district_id": "921207", "name": "SOUDIN"}, {"id": "9212072018", "district_id": "921207", "name": "TIMTOUW"}, {"id": "9212072019", "district_id": "921207", "name": "IDEMAI"}, {"id": "9212072020", "district_id": "921207", "name": "MIEYCOMTI"}, {"id": "9212072021", "district_id": "921207", "name": "COIJUT"}]
+[
+  {
+    "id": "9212072001",
+    "district_id": "921207",
+    "name": "CATUBOUW"
+  },
+  {
+    "id": "9212072002",
+    "district_id": "921207",
+    "name": "BIGWAIMUD"
+  },
+  {
+    "id": "9212072003",
+    "district_id": "921207",
+    "name": "MIHOU"
+  },
+  {
+    "id": "9212072004",
+    "district_id": "921207",
+    "name": "KAUNGWAM"
+  },
+  {
+    "id": "9212072005",
+    "district_id": "921207",
+    "name": "AIGA"
+  },
+  {
+    "id": "9212072006",
+    "district_id": "921207",
+    "name": "IMANDRIGO"
+  },
+  {
+    "id": "9212072007",
+    "district_id": "921207",
+    "name": "UNTI"
+  },
+  {
+    "id": "9212072008",
+    "district_id": "921207",
+    "name": "NDABOUW"
+  },
+  {
+    "id": "9212072009",
+    "district_id": "921207",
+    "name": "SUGEMEH"
+  },
+  {
+    "id": "9212072010",
+    "district_id": "921207",
+    "name": "MANGGESUK"
+  },
+  {
+    "id": "9212072011",
+    "district_id": "921207",
+    "name": "IJIGREG"
+  },
+  {
+    "id": "9212072012",
+    "district_id": "921207",
+    "name": "JIM"
+  },
+  {
+    "id": "9212072013",
+    "district_id": "921207",
+    "name": "SLOMIOU"
+  },
+  {
+    "id": "9212072014",
+    "district_id": "921207",
+    "name": "BINGGRAYUD"
+  },
+  {
+    "id": "9212072015",
+    "district_id": "921207",
+    "name": "MINMO"
+  },
+  {
+    "id": "9212072016",
+    "district_id": "921207",
+    "name": "MIHIJ"
+  },
+  {
+    "id": "9212072017",
+    "district_id": "921207",
+    "name": "SOUDIN"
+  },
+  {
+    "id": "9212072018",
+    "district_id": "921207",
+    "name": "TIMTOUW"
+  },
+  {
+    "id": "9212072019",
+    "district_id": "921207",
+    "name": "IDEMAI"
+  },
+  {
+    "id": "9212072020",
+    "district_id": "921207",
+    "name": "MIEYCOMTI"
+  },
+  {
+    "id": "9212072021",
+    "district_id": "921207",
+    "name": "COIJUT"
+  }
+]

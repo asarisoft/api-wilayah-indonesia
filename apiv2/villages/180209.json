@@ -1,1 +1,47 @@
-[{"id": "1802092001", "district_id": "180209", "name": "TELUK DALEM ILIR"}, {"id": "1802092002", "district_id": "180209", "name": "REKSO BINANGUN"}, {"id": "1802092003", "district_id": "180209", "name": "RUKTI BASUKI"}, {"id": "1802092004", "district_id": "180209", "name": "RESTU BARU"}, {"id": "1802092005", "district_id": "180209", "name": "RESTU BUANA"}, {"id": "1802092006", "district_id": "180209", "name": "RENO BASUKI"}, {"id": "1802092013", "district_id": "180209", "name": "BINA KARYA PUTRA"}, {"id": "1802092014", "district_id": "180209", "name": "BINA KARYA BUANA"}, {"id": "1802092015", "district_id": "180209", "name": "BINA KARYA MANDIRI"}]
+[
+  {
+    "id": "1802092001",
+    "district_id": "180209",
+    "name": "TELUK DALEM ILIR"
+  },
+  {
+    "id": "1802092002",
+    "district_id": "180209",
+    "name": "REKSO BINANGUN"
+  },
+  {
+    "id": "1802092003",
+    "district_id": "180209",
+    "name": "RUKTI BASUKI"
+  },
+  {
+    "id": "1802092004",
+    "district_id": "180209",
+    "name": "RESTU BARU"
+  },
+  {
+    "id": "1802092005",
+    "district_id": "180209",
+    "name": "RESTU BUANA"
+  },
+  {
+    "id": "1802092006",
+    "district_id": "180209",
+    "name": "RENO BASUKI"
+  },
+  {
+    "id": "1802092013",
+    "district_id": "180209",
+    "name": "BINA KARYA PUTRA"
+  },
+  {
+    "id": "1802092014",
+    "district_id": "180209",
+    "name": "BINA KARYA BUANA"
+  },
+  {
+    "id": "1802092015",
+    "district_id": "180209",
+    "name": "BINA KARYA MANDIRI"
+  }
+]

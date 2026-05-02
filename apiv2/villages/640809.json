@@ -1,1 +1,57 @@
-[{"id": "6408092001", "district_id": "640809", "name": "SEPASO"}, {"id": "6408092002", "district_id": "640809", "name": "SEKERAT"}, {"id": "6408092003", "district_id": "640809", "name": "KERAITAN"}, {"id": "6408092004", "district_id": "640809", "name": "TEPIAN LANGSAT"}, {"id": "6408092005", "district_id": "640809", "name": "TEBANGAN LEMBAK"}, {"id": "6408092006", "district_id": "640809", "name": "SEPASO TIMUR"}, {"id": "6408092007", "district_id": "640809", "name": "SEPASO SELATAN"}, {"id": "6408092008", "district_id": "640809", "name": "MUARA BENGALON"}, {"id": "6408092009", "district_id": "640809", "name": "TEPIAN BARU"}, {"id": "6408092010", "district_id": "640809", "name": "TEPIAN INDAH"}, {"id": "6408092011", "district_id": "640809", "name": "SEPASO BARAT"}]
+[
+  {
+    "id": "6408092001",
+    "district_id": "640809",
+    "name": "SEPASO"
+  },
+  {
+    "id": "6408092002",
+    "district_id": "640809",
+    "name": "SEKERAT"
+  },
+  {
+    "id": "6408092003",
+    "district_id": "640809",
+    "name": "KERAITAN"
+  },
+  {
+    "id": "6408092004",
+    "district_id": "640809",
+    "name": "TEPIAN LANGSAT"
+  },
+  {
+    "id": "6408092005",
+    "district_id": "640809",
+    "name": "TEBANGAN LEMBAK"
+  },
+  {
+    "id": "6408092006",
+    "district_id": "640809",
+    "name": "SEPASO TIMUR"
+  },
+  {
+    "id": "6408092007",
+    "district_id": "640809",
+    "name": "SEPASO SELATAN"
+  },
+  {
+    "id": "6408092008",
+    "district_id": "640809",
+    "name": "MUARA BENGALON"
+  },
+  {
+    "id": "6408092009",
+    "district_id": "640809",
+    "name": "TEPIAN BARU"
+  },
+  {
+    "id": "6408092010",
+    "district_id": "640809",
+    "name": "TEPIAN INDAH"
+  },
+  {
+    "id": "6408092011",
+    "district_id": "640809",
+    "name": "SEPASO BARAT"
+  }
+]

@@ -1,1 +1,87 @@
-[{"id": "9402192001", "district_id": "940219", "name": "WANUWI"}, {"id": "9402192002", "district_id": "940219", "name": "NENEGAME"}, {"id": "9402192003", "district_id": "940219", "name": "BIME"}, {"id": "9402192004", "district_id": "940219", "name": "ANGGEGE"}, {"id": "9402192005", "district_id": "940219", "name": "PERNALUK"}, {"id": "9402192006", "district_id": "940219", "name": "KIBURU"}, {"id": "9402192007", "district_id": "940219", "name": "NUWI"}, {"id": "9402192008", "district_id": "940219", "name": "PONGGONAME"}, {"id": "9402192009", "district_id": "940219", "name": "GIBUME"}, {"id": "9402192010", "district_id": "940219", "name": "NABURAGE"}, {"id": "9402192011", "district_id": "940219", "name": "YUNGGWI"}, {"id": "9402192012", "district_id": "940219", "name": "ANGGAGALO"}, {"id": "9402192013", "district_id": "940219", "name": "ANGGALO"}, {"id": "9402192014", "district_id": "940219", "name": "WIYAGE"}, {"id": "9402192015", "district_id": "940219", "name": "PIYABIGIMBUT"}, {"id": "9402192016", "district_id": "940219", "name": "BUNALUK"}, {"id": "9402192017", "district_id": "940219", "name": "GEREJA LAMA"}]
+[
+  {
+    "id": "9402192001",
+    "district_id": "940219",
+    "name": "WANUWI"
+  },
+  {
+    "id": "9402192002",
+    "district_id": "940219",
+    "name": "NENEGAME"
+  },
+  {
+    "id": "9402192003",
+    "district_id": "940219",
+    "name": "BIME"
+  },
+  {
+    "id": "9402192004",
+    "district_id": "940219",
+    "name": "ANGGEGE"
+  },
+  {
+    "id": "9402192005",
+    "district_id": "940219",
+    "name": "PERNALUK"
+  },
+  {
+    "id": "9402192006",
+    "district_id": "940219",
+    "name": "KIBURU"
+  },
+  {
+    "id": "9402192007",
+    "district_id": "940219",
+    "name": "NUWI"
+  },
+  {
+    "id": "9402192008",
+    "district_id": "940219",
+    "name": "PONGGONAME"
+  },
+  {
+    "id": "9402192009",
+    "district_id": "940219",
+    "name": "GIBUME"
+  },
+  {
+    "id": "9402192010",
+    "district_id": "940219",
+    "name": "NABURAGE"
+  },
+  {
+    "id": "9402192011",
+    "district_id": "940219",
+    "name": "YUNGGWI"
+  },
+  {
+    "id": "9402192012",
+    "district_id": "940219",
+    "name": "ANGGAGALO"
+  },
+  {
+    "id": "9402192013",
+    "district_id": "940219",
+    "name": "ANGGALO"
+  },
+  {
+    "id": "9402192014",
+    "district_id": "940219",
+    "name": "WIYAGE"
+  },
+  {
+    "id": "9402192015",
+    "district_id": "940219",
+    "name": "PIYABIGIMBUT"
+  },
+  {
+    "id": "9402192016",
+    "district_id": "940219",
+    "name": "BUNALUK"
+  },
+  {
+    "id": "9402192017",
+    "district_id": "940219",
+    "name": "GEREJA LAMA"
+  }
+]

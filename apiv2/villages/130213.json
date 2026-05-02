@@ -1,1 +1,12 @@
-[{"id": "1302132001", "district_id": "130213", "name": "PANINGGAHAN"}, {"id": "1302132002", "district_id": "130213", "name": "MUARO PINGAI"}]
+[
+  {
+    "id": "1302132001",
+    "district_id": "130213",
+    "name": "PANINGGAHAN"
+  },
+  {
+    "id": "1302132002",
+    "district_id": "130213",
+    "name": "MUARO PINGAI"
+  }
+]

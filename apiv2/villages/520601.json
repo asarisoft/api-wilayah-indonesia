@@ -1,1 +1,72 @@
-[{"id": "5206012005", "district_id": "520601", "name": "TOLOTANGGA"}, {"id": "5206012006", "district_id": "520601", "name": "SONDO"}, {"id": "5206012007", "district_id": "520601", "name": "SIMPASAI"}, {"id": "5206012008", "district_id": "520601", "name": "SIE"}, {"id": "5206012009", "district_id": "520601", "name": "TANGGA"}, {"id": "5206012010", "district_id": "520601", "name": "MONTA"}, {"id": "5206012011", "district_id": "520601", "name": "SAKURU"}, {"id": "5206012012", "district_id": "520601", "name": "BARALAU"}, {"id": "5206012014", "district_id": "520601", "name": "TOLOUWI"}, {"id": "5206012015", "district_id": "520601", "name": "WILAMACI"}, {"id": "5206012016", "district_id": "520601", "name": "PELA"}, {"id": "5206012017", "district_id": "520601", "name": "TANGGA BARU"}, {"id": "5206012018", "district_id": "520601", "name": "NONTOTERA"}, {"id": "5206012019", "district_id": "520601", "name": "WARO"}]
+[
+  {
+    "id": "5206012005",
+    "district_id": "520601",
+    "name": "TOLOTANGGA"
+  },
+  {
+    "id": "5206012006",
+    "district_id": "520601",
+    "name": "SONDO"
+  },
+  {
+    "id": "5206012007",
+    "district_id": "520601",
+    "name": "SIMPASAI"
+  },
+  {
+    "id": "5206012008",
+    "district_id": "520601",
+    "name": "SIE"
+  },
+  {
+    "id": "5206012009",
+    "district_id": "520601",
+    "name": "TANGGA"
+  },
+  {
+    "id": "5206012010",
+    "district_id": "520601",
+    "name": "MONTA"
+  },
+  {
+    "id": "5206012011",
+    "district_id": "520601",
+    "name": "SAKURU"
+  },
+  {
+    "id": "5206012012",
+    "district_id": "520601",
+    "name": "BARALAU"
+  },
+  {
+    "id": "5206012014",
+    "district_id": "520601",
+    "name": "TOLOUWI"
+  },
+  {
+    "id": "5206012015",
+    "district_id": "520601",
+    "name": "WILAMACI"
+  },
+  {
+    "id": "5206012016",
+    "district_id": "520601",
+    "name": "PELA"
+  },
+  {
+    "id": "5206012017",
+    "district_id": "520601",
+    "name": "TANGGA BARU"
+  },
+  {
+    "id": "5206012018",
+    "district_id": "520601",
+    "name": "NONTOTERA"
+  },
+  {
+    "id": "5206012019",
+    "district_id": "520601",
+    "name": "WARO"
+  }
+]

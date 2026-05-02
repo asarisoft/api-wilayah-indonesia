@@ -1,1 +1,22 @@
-[{"id": "9207042002", "district_id": "920704", "name": "WONDIBOY"}, {"id": "9207042009", "district_id": "920704", "name": "KABOUW"}, {"id": "9207042010", "district_id": "920704", "name": "ISSUI"}, {"id": "9207042015", "district_id": "920704", "name": "KAIBI"}]
+[
+  {
+    "id": "9207042002",
+    "district_id": "920704",
+    "name": "WONDIBOY"
+  },
+  {
+    "id": "9207042009",
+    "district_id": "920704",
+    "name": "KABOUW"
+  },
+  {
+    "id": "9207042010",
+    "district_id": "920704",
+    "name": "ISSUI"
+  },
+  {
+    "id": "9207042015",
+    "district_id": "920704",
+    "name": "KAIBI"
+  }
+]

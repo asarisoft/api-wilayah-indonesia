@@ -1,1 +1,62 @@
-[{"id": "1206102001", "district_id": "120610", "name": "LAU PENGULU"}, {"id": "1206102002", "district_id": "120610", "name": "LAU MULGAP"}, {"id": "1206102003", "district_id": "120610", "name": "LAU KESUMPAT"}, {"id": "1206102004", "district_id": "120610", "name": "RIMO BUNGA"}, {"id": "1206102005", "district_id": "120610", "name": "TANJUNG PAMAH"}, {"id": "1206102006", "district_id": "120610", "name": "KUTA PENGKIH"}, {"id": "1206102007", "district_id": "120610", "name": "BANDAR PURBA"}, {"id": "1206102008", "district_id": "120610", "name": "MARDINGDING"}, {"id": "1206102009", "district_id": "120610", "name": "LAU PAKAM"}, {"id": "1206102010", "district_id": "120610", "name": "LAU SOLU"}, {"id": "1206102011", "district_id": "120610", "name": "LAU GARUT"}, {"id": "1206102012", "district_id": "120610", "name": "BUKIT MAKMUR"}]
+[
+  {
+    "id": "1206102001",
+    "district_id": "120610",
+    "name": "LAU PENGULU"
+  },
+  {
+    "id": "1206102002",
+    "district_id": "120610",
+    "name": "LAU MULGAP"
+  },
+  {
+    "id": "1206102003",
+    "district_id": "120610",
+    "name": "LAU KESUMPAT"
+  },
+  {
+    "id": "1206102004",
+    "district_id": "120610",
+    "name": "RIMO BUNGA"
+  },
+  {
+    "id": "1206102005",
+    "district_id": "120610",
+    "name": "TANJUNG PAMAH"
+  },
+  {
+    "id": "1206102006",
+    "district_id": "120610",
+    "name": "KUTA PENGKIH"
+  },
+  {
+    "id": "1206102007",
+    "district_id": "120610",
+    "name": "BANDAR PURBA"
+  },
+  {
+    "id": "1206102008",
+    "district_id": "120610",
+    "name": "MARDINGDING"
+  },
+  {
+    "id": "1206102009",
+    "district_id": "120610",
+    "name": "LAU PAKAM"
+  },
+  {
+    "id": "1206102010",
+    "district_id": "120610",
+    "name": "LAU SOLU"
+  },
+  {
+    "id": "1206102011",
+    "district_id": "120610",
+    "name": "LAU GARUT"
+  },
+  {
+    "id": "1206102012",
+    "district_id": "120610",
+    "name": "BUKIT MAKMUR"
+  }
+]

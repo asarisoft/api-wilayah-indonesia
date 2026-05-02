@@ -1,1 +1,92 @@
-[{"id": "3310172001", "district_id": "331017", "name": "GLAGAHWANGI"}, {"id": "3310172002", "district_id": "331017", "name": "KAPUNGAN"}, {"id": "3310172003", "district_id": "331017", "name": "KAHUMAN"}, {"id": "3310172004", "district_id": "331017", "name": "NGARAN"}, {"id": "3310172005", "district_id": "331017", "name": "BORONGAN"}, {"id": "3310172006", "district_id": "331017", "name": "NGANJAT"}, {"id": "3310172007", "district_id": "331017", "name": "JIMUS"}, {"id": "3310172008", "district_id": "331017", "name": "TURUS"}, {"id": "3310172009", "district_id": "331017", "name": "POLAN"}, {"id": "3310172010", "district_id": "331017", "name": "KARANGLO"}, {"id": "3310172011", "district_id": "331017", "name": "PONGGOK"}, {"id": "3310172012", "district_id": "331017", "name": "WANGEN"}, {"id": "3310172013", "district_id": "331017", "name": "KEPRABON"}, {"id": "3310172014", "district_id": "331017", "name": "KRANGGAN"}, {"id": "3310172015", "district_id": "331017", "name": "KEBONHARJO"}, {"id": "3310172016", "district_id": "331017", "name": "JANTI"}, {"id": "3310172017", "district_id": "331017", "name": "SIDOWAYAH"}, {"id": "3310172018", "district_id": "331017", "name": "SIDOHARJO"}]
+[
+  {
+    "id": "3310172001",
+    "district_id": "331017",
+    "name": "GLAGAHWANGI"
+  },
+  {
+    "id": "3310172002",
+    "district_id": "331017",
+    "name": "KAPUNGAN"
+  },
+  {
+    "id": "3310172003",
+    "district_id": "331017",
+    "name": "KAHUMAN"
+  },
+  {
+    "id": "3310172004",
+    "district_id": "331017",
+    "name": "NGARAN"
+  },
+  {
+    "id": "3310172005",
+    "district_id": "331017",
+    "name": "BORONGAN"
+  },
+  {
+    "id": "3310172006",
+    "district_id": "331017",
+    "name": "NGANJAT"
+  },
+  {
+    "id": "3310172007",
+    "district_id": "331017",
+    "name": "JIMUS"
+  },
+  {
+    "id": "3310172008",
+    "district_id": "331017",
+    "name": "TURUS"
+  },
+  {
+    "id": "3310172009",
+    "district_id": "331017",
+    "name": "POLAN"
+  },
+  {
+    "id": "3310172010",
+    "district_id": "331017",
+    "name": "KARANGLO"
+  },
+  {
+    "id": "3310172011",
+    "district_id": "331017",
+    "name": "PONGGOK"
+  },
+  {
+    "id": "3310172012",
+    "district_id": "331017",
+    "name": "WANGEN"
+  },
+  {
+    "id": "3310172013",
+    "district_id": "331017",
+    "name": "KEPRABON"
+  },
+  {
+    "id": "3310172014",
+    "district_id": "331017",
+    "name": "KRANGGAN"
+  },
+  {
+    "id": "3310172015",
+    "district_id": "331017",
+    "name": "KEBONHARJO"
+  },
+  {
+    "id": "3310172016",
+    "district_id": "331017",
+    "name": "JANTI"
+  },
+  {
+    "id": "3310172017",
+    "district_id": "331017",
+    "name": "SIDOWAYAH"
+  },
+  {
+    "id": "3310172018",
+    "district_id": "331017",
+    "name": "SIDOHARJO"
+  }
+]

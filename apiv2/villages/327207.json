@@ -1,1 +1,22 @@
-[{"id": "3272071001", "district_id": "327207", "name": "CIBEUREUM HILIR"}, {"id": "3272071002", "district_id": "327207", "name": "BABAKAN"}, {"id": "3272071003", "district_id": "327207", "name": "SINDANGPALAY"}, {"id": "3272071004", "district_id": "327207", "name": "LIMUSNUNGGAL"}]
+[
+  {
+    "id": "3272071001",
+    "district_id": "327207",
+    "name": "CIBEUREUM HILIR"
+  },
+  {
+    "id": "3272071002",
+    "district_id": "327207",
+    "name": "BABAKAN"
+  },
+  {
+    "id": "3272071003",
+    "district_id": "327207",
+    "name": "SINDANGPALAY"
+  },
+  {
+    "id": "3272071004",
+    "district_id": "327207",
+    "name": "LIMUSNUNGGAL"
+  }
+]

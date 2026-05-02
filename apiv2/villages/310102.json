@@ -1,1 +1,17 @@
-[{"id": "3101021001", "district_id": "310102", "name": "PULAU UNTUNG JAWA"}, {"id": "3101021002", "district_id": "310102", "name": "PULAU TIDUNG"}, {"id": "3101021003", "district_id": "310102", "name": "PULAU PARI"}]
+[
+  {
+    "id": "3101021001",
+    "district_id": "310102",
+    "name": "PULAU UNTUNG JAWA"
+  },
+  {
+    "id": "3101021002",
+    "district_id": "310102",
+    "name": "PULAU TIDUNG"
+  },
+  {
+    "id": "3101021003",
+    "district_id": "310102",
+    "name": "PULAU PARI"
+  }
+]

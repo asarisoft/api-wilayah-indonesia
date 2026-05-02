@@ -1,1 +1,67 @@
-[{"id": "1572042001", "district_id": "157204", "name": "BARU DEBAI"}, {"id": "1572042002", "district_id": "157204", "name": "PENDUNG HIANG"}, {"id": "1572042003", "district_id": "157204", "name": "KOTO PUDUNG"}, {"id": "1572042004", "district_id": "157204", "name": "KOTO DUMO"}, {"id": "1572042005", "district_id": "157204", "name": "SEMBILAN"}, {"id": "1572042006", "district_id": "157204", "name": "KOTO TUO"}, {"id": "1572042007", "district_id": "157204", "name": "KOTO PANAP"}, {"id": "1572042008", "district_id": "157204", "name": "KOTO TENGAH"}, {"id": "1572042009", "district_id": "157204", "name": "TANJUNG BUNGA"}, {"id": "1572042010", "district_id": "157204", "name": "KOTO PADANG"}, {"id": "1572042011", "district_id": "157204", "name": "TANJUNG KARANG"}, {"id": "1572042012", "district_id": "157204", "name": "KT. BARU TANAH KAMPUNG"}, {"id": "1572042013", "district_id": "157204", "name": "MEKAR JAYA"}]
+[
+  {
+    "id": "1572042001",
+    "district_id": "157204",
+    "name": "BARU DEBAI"
+  },
+  {
+    "id": "1572042002",
+    "district_id": "157204",
+    "name": "PENDUNG HIANG"
+  },
+  {
+    "id": "1572042003",
+    "district_id": "157204",
+    "name": "KOTO PUDUNG"
+  },
+  {
+    "id": "1572042004",
+    "district_id": "157204",
+    "name": "KOTO DUMO"
+  },
+  {
+    "id": "1572042005",
+    "district_id": "157204",
+    "name": "SEMBILAN"
+  },
+  {
+    "id": "1572042006",
+    "district_id": "157204",
+    "name": "KOTO TUO"
+  },
+  {
+    "id": "1572042007",
+    "district_id": "157204",
+    "name": "KOTO PANAP"
+  },
+  {
+    "id": "1572042008",
+    "district_id": "157204",
+    "name": "KOTO TENGAH"
+  },
+  {
+    "id": "1572042009",
+    "district_id": "157204",
+    "name": "TANJUNG BUNGA"
+  },
+  {
+    "id": "1572042010",
+    "district_id": "157204",
+    "name": "KOTO PADANG"
+  },
+  {
+    "id": "1572042011",
+    "district_id": "157204",
+    "name": "TANJUNG KARANG"
+  },
+  {
+    "id": "1572042012",
+    "district_id": "157204",
+    "name": "KT. BARU TANAH KAMPUNG"
+  },
+  {
+    "id": "1572042013",
+    "district_id": "157204",
+    "name": "MEKAR JAYA"
+  }
+]

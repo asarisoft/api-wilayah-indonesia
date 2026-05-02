@@ -1,1 +1,27 @@
-[{"id": "7413052001", "district_id": "741305", "name": "PARURA JAYA"}, {"id": "7413052002", "district_id": "741305", "name": "KATANGANA"}, {"id": "7413052003", "district_id": "741305", "name": "KASIMPA JAYA"}, {"id": "7413052004", "district_id": "741305", "name": "SANGIA TIWORO"}, {"id": "7413052005", "district_id": "741305", "name": "BARAKKAH"}]
+[
+  {
+    "id": "7413052001",
+    "district_id": "741305",
+    "name": "PARURA JAYA"
+  },
+  {
+    "id": "7413052002",
+    "district_id": "741305",
+    "name": "KATANGANA"
+  },
+  {
+    "id": "7413052003",
+    "district_id": "741305",
+    "name": "KASIMPA JAYA"
+  },
+  {
+    "id": "7413052004",
+    "district_id": "741305",
+    "name": "SANGIA TIWORO"
+  },
+  {
+    "id": "7413052005",
+    "district_id": "741305",
+    "name": "BARAKKAH"
+  }
+]

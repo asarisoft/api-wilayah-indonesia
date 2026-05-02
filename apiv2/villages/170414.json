@@ -1,1 +1,47 @@
-[{"id": "1704142001", "district_id": "170414", "name": "PULAU PANGGUNG"}, {"id": "1704142002", "district_id": "170414", "name": "TALANG BESAR"}, {"id": "1704142003", "district_id": "170414", "name": "TALANG JAWI I"}, {"id": "1704142004", "district_id": "170414", "name": "TALANG JAWI II"}, {"id": "1704142005", "district_id": "170414", "name": "AIR KERING"}, {"id": "1704142006", "district_id": "170414", "name": "GUNUNG KAYA"}, {"id": "1704142007", "district_id": "170414", "name": "ULAK AGUNG"}, {"id": "1704142008", "district_id": "170414", "name": "TALANG PADANG"}, {"id": "1704142009", "district_id": "170414", "name": "AIR KERING II"}]
+[
+  {
+    "id": "1704142001",
+    "district_id": "170414",
+    "name": "PULAU PANGGUNG"
+  },
+  {
+    "id": "1704142002",
+    "district_id": "170414",
+    "name": "TALANG BESAR"
+  },
+  {
+    "id": "1704142003",
+    "district_id": "170414",
+    "name": "TALANG JAWI I"
+  },
+  {
+    "id": "1704142004",
+    "district_id": "170414",
+    "name": "TALANG JAWI II"
+  },
+  {
+    "id": "1704142005",
+    "district_id": "170414",
+    "name": "AIR KERING"
+  },
+  {
+    "id": "1704142006",
+    "district_id": "170414",
+    "name": "GUNUNG KAYA"
+  },
+  {
+    "id": "1704142007",
+    "district_id": "170414",
+    "name": "ULAK AGUNG"
+  },
+  {
+    "id": "1704142008",
+    "district_id": "170414",
+    "name": "TALANG PADANG"
+  },
+  {
+    "id": "1704142009",
+    "district_id": "170414",
+    "name": "AIR KERING II"
+  }
+]

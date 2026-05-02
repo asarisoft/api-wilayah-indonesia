@@ -1,1 +1,47 @@
-[{"id": "3315192001", "district_id": "331519", "name": "RINGINPITU"}, {"id": "3315192002", "district_id": "331519", "name": "NGAMBAKREJO"}, {"id": "3315192003", "district_id": "331519", "name": "KAPUNG"}, {"id": "3315192004", "district_id": "331519", "name": "MRISI"}, {"id": "3315192005", "district_id": "331519", "name": "KALIWENANG"}, {"id": "3315192006", "district_id": "331519", "name": "SUGIHMANIK"}, {"id": "3315192007", "district_id": "331519", "name": "TANGGUNGHARJO"}, {"id": "3315192008", "district_id": "331519", "name": "BRABO"}, {"id": "3315192009", "district_id": "331519", "name": "PADANG"}]
+[
+  {
+    "id": "3315192001",
+    "district_id": "331519",
+    "name": "RINGINPITU"
+  },
+  {
+    "id": "3315192002",
+    "district_id": "331519",
+    "name": "NGAMBAKREJO"
+  },
+  {
+    "id": "3315192003",
+    "district_id": "331519",
+    "name": "KAPUNG"
+  },
+  {
+    "id": "3315192004",
+    "district_id": "331519",
+    "name": "MRISI"
+  },
+  {
+    "id": "3315192005",
+    "district_id": "331519",
+    "name": "KALIWENANG"
+  },
+  {
+    "id": "3315192006",
+    "district_id": "331519",
+    "name": "SUGIHMANIK"
+  },
+  {
+    "id": "3315192007",
+    "district_id": "331519",
+    "name": "TANGGUNGHARJO"
+  },
+  {
+    "id": "3315192008",
+    "district_id": "331519",
+    "name": "BRABO"
+  },
+  {
+    "id": "3315192009",
+    "district_id": "331519",
+    "name": "PADANG"
+  }
+]

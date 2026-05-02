@@ -1,1 +1,57 @@
-[{"id": "3205282001", "district_id": "320528", "name": "CISOMPET"}, {"id": "3205282002", "district_id": "320528", "name": "CIHAURKUNING"}, {"id": "3205282003", "district_id": "320528", "name": "MARGAMULYA"}, {"id": "3205282004", "district_id": "320528", "name": "SUKAMUKTI"}, {"id": "3205282005", "district_id": "320528", "name": "SUKANAGARA"}, {"id": "3205282006", "district_id": "320528", "name": "CIKONDANG"}, {"id": "3205282007", "district_id": "320528", "name": "DEPOK"}, {"id": "3205282008", "district_id": "320528", "name": "PANYINDANGAN"}, {"id": "3205282009", "district_id": "320528", "name": "JATISARI"}, {"id": "3205282010", "district_id": "320528", "name": "NEGLASARI"}, {"id": "3205282011", "district_id": "320528", "name": "SINDANGSARI"}]
+[
+  {
+    "id": "3205282001",
+    "district_id": "320528",
+    "name": "CISOMPET"
+  },
+  {
+    "id": "3205282002",
+    "district_id": "320528",
+    "name": "CIHAURKUNING"
+  },
+  {
+    "id": "3205282003",
+    "district_id": "320528",
+    "name": "MARGAMULYA"
+  },
+  {
+    "id": "3205282004",
+    "district_id": "320528",
+    "name": "SUKAMUKTI"
+  },
+  {
+    "id": "3205282005",
+    "district_id": "320528",
+    "name": "SUKANAGARA"
+  },
+  {
+    "id": "3205282006",
+    "district_id": "320528",
+    "name": "CIKONDANG"
+  },
+  {
+    "id": "3205282007",
+    "district_id": "320528",
+    "name": "DEPOK"
+  },
+  {
+    "id": "3205282008",
+    "district_id": "320528",
+    "name": "PANYINDANGAN"
+  },
+  {
+    "id": "3205282009",
+    "district_id": "320528",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3205282010",
+    "district_id": "320528",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3205282011",
+    "district_id": "320528",
+    "name": "SINDANGSARI"
+  }
+]

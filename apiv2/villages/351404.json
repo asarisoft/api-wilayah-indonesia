@@ -1,1 +1,62 @@
-[{"id": "3514042001", "district_id": "351404", "name": "WONOREJO"}, {"id": "3514042002", "district_id": "351404", "name": "BANJARIMBO"}, {"id": "3514042003", "district_id": "351404", "name": "WELULANG"}, {"id": "3514042004", "district_id": "351404", "name": "WATULUMBUNG"}, {"id": "3514042005", "district_id": "351404", "name": "PANDITAN"}, {"id": "3514042006", "district_id": "351404", "name": "BULUKANDANG"}, {"id": "3514042007", "district_id": "351404", "name": "LUMBANG"}, {"id": "3514042008", "district_id": "351404", "name": "PANCUR"}, {"id": "3514042009", "district_id": "351404", "name": "KRONTO"}, {"id": "3514042010", "district_id": "351404", "name": "KARANGASEM"}, {"id": "3514042011", "district_id": "351404", "name": "CUKURGULING"}, {"id": "3514042012", "district_id": "351404", "name": "KARANGJATI"}]
+[
+  {
+    "id": "3514042001",
+    "district_id": "351404",
+    "name": "WONOREJO"
+  },
+  {
+    "id": "3514042002",
+    "district_id": "351404",
+    "name": "BANJARIMBO"
+  },
+  {
+    "id": "3514042003",
+    "district_id": "351404",
+    "name": "WELULANG"
+  },
+  {
+    "id": "3514042004",
+    "district_id": "351404",
+    "name": "WATULUMBUNG"
+  },
+  {
+    "id": "3514042005",
+    "district_id": "351404",
+    "name": "PANDITAN"
+  },
+  {
+    "id": "3514042006",
+    "district_id": "351404",
+    "name": "BULUKANDANG"
+  },
+  {
+    "id": "3514042007",
+    "district_id": "351404",
+    "name": "LUMBANG"
+  },
+  {
+    "id": "3514042008",
+    "district_id": "351404",
+    "name": "PANCUR"
+  },
+  {
+    "id": "3514042009",
+    "district_id": "351404",
+    "name": "KRONTO"
+  },
+  {
+    "id": "3514042010",
+    "district_id": "351404",
+    "name": "KARANGASEM"
+  },
+  {
+    "id": "3514042011",
+    "district_id": "351404",
+    "name": "CUKURGULING"
+  },
+  {
+    "id": "3514042012",
+    "district_id": "351404",
+    "name": "KARANGJATI"
+  }
+]

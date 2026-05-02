@@ -1,1 +1,77 @@
-[{"id": "7308241015", "district_id": "730824", "name": "MAMPOTU"}, {"id": "7308242001", "district_id": "730824", "name": "LILIRIATTANG"}, {"id": "7308242002", "district_id": "730824", "name": "MATTAROPURAE"}, {"id": "7308242003", "district_id": "730824", "name": "ULAWENG RIAJA"}, {"id": "7308242004", "district_id": "730824", "name": "WAEMPUBBU"}, {"id": "7308242005", "district_id": "730824", "name": "WAEMPUTTANGE"}, {"id": "7308242006", "district_id": "730824", "name": "AMALI RIATTANG"}, {"id": "7308242007", "district_id": "730824", "name": "TASSIPI"}, {"id": "7308242008", "district_id": "730824", "name": "WELLULANG"}, {"id": "7308242009", "district_id": "730824", "name": "BENTENG TELLUE"}, {"id": "7308242010", "district_id": "730824", "name": "TACIPONG"}, {"id": "7308242011", "district_id": "730824", "name": "LAPONRONG"}, {"id": "7308242012", "district_id": "730824", "name": "AJANGLALENG"}, {"id": "7308242013", "district_id": "730824", "name": "TOCINNONG"}, {"id": "7308242014", "district_id": "730824", "name": "BILA"}]
+[
+  {
+    "id": "7308241015",
+    "district_id": "730824",
+    "name": "MAMPOTU"
+  },
+  {
+    "id": "7308242001",
+    "district_id": "730824",
+    "name": "LILIRIATTANG"
+  },
+  {
+    "id": "7308242002",
+    "district_id": "730824",
+    "name": "MATTAROPURAE"
+  },
+  {
+    "id": "7308242003",
+    "district_id": "730824",
+    "name": "ULAWENG RIAJA"
+  },
+  {
+    "id": "7308242004",
+    "district_id": "730824",
+    "name": "WAEMPUBBU"
+  },
+  {
+    "id": "7308242005",
+    "district_id": "730824",
+    "name": "WAEMPUTTANGE"
+  },
+  {
+    "id": "7308242006",
+    "district_id": "730824",
+    "name": "AMALI RIATTANG"
+  },
+  {
+    "id": "7308242007",
+    "district_id": "730824",
+    "name": "TASSIPI"
+  },
+  {
+    "id": "7308242008",
+    "district_id": "730824",
+    "name": "WELLULANG"
+  },
+  {
+    "id": "7308242009",
+    "district_id": "730824",
+    "name": "BENTENG TELLUE"
+  },
+  {
+    "id": "7308242010",
+    "district_id": "730824",
+    "name": "TACIPONG"
+  },
+  {
+    "id": "7308242011",
+    "district_id": "730824",
+    "name": "LAPONRONG"
+  },
+  {
+    "id": "7308242012",
+    "district_id": "730824",
+    "name": "AJANGLALENG"
+  },
+  {
+    "id": "7308242013",
+    "district_id": "730824",
+    "name": "TOCINNONG"
+  },
+  {
+    "id": "7308242014",
+    "district_id": "730824",
+    "name": "BILA"
+  }
+]

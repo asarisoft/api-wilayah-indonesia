@@ -1,1 +1,97 @@
-[{"id": "3524212001", "district_id": "352421", "name": "GEGER"}, {"id": "3524212002", "district_id": "352421", "name": "BADURAME"}, {"id": "3524212003", "district_id": "352421", "name": "KARANGWEDORO"}, {"id": "3524212004", "district_id": "352421", "name": "WANGUNREJO"}, {"id": "3524212005", "district_id": "352421", "name": "PUTATKUMPUL"}, {"id": "3524212006", "district_id": "352421", "name": "KEBEN"}, {"id": "3524212007", "district_id": "352421", "name": "SUKOANYAR"}, {"id": "3524212008", "district_id": "352421", "name": "KEMLAGIGEDE"}, {"id": "3524212009", "district_id": "352421", "name": "TURI"}, {"id": "3524212010", "district_id": "352421", "name": "KEMLAGILOR"}, {"id": "3524212011", "district_id": "352421", "name": "SUKOREJO"}, {"id": "3524212012", "district_id": "352421", "name": "TAWANGREJO"}, {"id": "3524212013", "district_id": "352421", "name": "BAMBANG"}, {"id": "3524212014", "district_id": "352421", "name": "POMAHANJANGGAN"}, {"id": "3524212015", "district_id": "352421", "name": "TAMBAKPLOSO"}, {"id": "3524212016", "district_id": "352421", "name": "BALUN"}, {"id": "3524212017", "district_id": "352421", "name": "NGUJUNGREJO"}, {"id": "3524212018", "district_id": "352421", "name": "KEPUDIBENER"}, {"id": "3524212019", "district_id": "352421", "name": "GEDUNGBOYOUNTUNG"}]
+[
+  {
+    "id": "3524212001",
+    "district_id": "352421",
+    "name": "GEGER"
+  },
+  {
+    "id": "3524212002",
+    "district_id": "352421",
+    "name": "BADURAME"
+  },
+  {
+    "id": "3524212003",
+    "district_id": "352421",
+    "name": "KARANGWEDORO"
+  },
+  {
+    "id": "3524212004",
+    "district_id": "352421",
+    "name": "WANGUNREJO"
+  },
+  {
+    "id": "3524212005",
+    "district_id": "352421",
+    "name": "PUTATKUMPUL"
+  },
+  {
+    "id": "3524212006",
+    "district_id": "352421",
+    "name": "KEBEN"
+  },
+  {
+    "id": "3524212007",
+    "district_id": "352421",
+    "name": "SUKOANYAR"
+  },
+  {
+    "id": "3524212008",
+    "district_id": "352421",
+    "name": "KEMLAGIGEDE"
+  },
+  {
+    "id": "3524212009",
+    "district_id": "352421",
+    "name": "TURI"
+  },
+  {
+    "id": "3524212010",
+    "district_id": "352421",
+    "name": "KEMLAGILOR"
+  },
+  {
+    "id": "3524212011",
+    "district_id": "352421",
+    "name": "SUKOREJO"
+  },
+  {
+    "id": "3524212012",
+    "district_id": "352421",
+    "name": "TAWANGREJO"
+  },
+  {
+    "id": "3524212013",
+    "district_id": "352421",
+    "name": "BAMBANG"
+  },
+  {
+    "id": "3524212014",
+    "district_id": "352421",
+    "name": "POMAHANJANGGAN"
+  },
+  {
+    "id": "3524212015",
+    "district_id": "352421",
+    "name": "TAMBAKPLOSO"
+  },
+  {
+    "id": "3524212016",
+    "district_id": "352421",
+    "name": "BALUN"
+  },
+  {
+    "id": "3524212017",
+    "district_id": "352421",
+    "name": "NGUJUNGREJO"
+  },
+  {
+    "id": "3524212018",
+    "district_id": "352421",
+    "name": "KEPUDIBENER"
+  },
+  {
+    "id": "3524212019",
+    "district_id": "352421",
+    "name": "GEDUNGBOYOUNTUNG"
+  }
+]

@@ -1,1 +1,217 @@
-[{"id": "1105042001", "district_id": "110504", "name": "KUALA BHEE"}, {"id": "1105042002", "district_id": "110504", "name": "PASI LUNAK"}, {"id": "1105042003", "district_id": "110504", "name": "PASI ACEH"}, {"id": "1105042004", "district_id": "110504", "name": "ARON TUNONG"}, {"id": "1105042005", "district_id": "110504", "name": "ARON BAROH"}, {"id": "1105042006", "district_id": "110504", "name": "PASI PANDAN"}, {"id": "1105042007", "district_id": "110504", "name": "RANTO PANYANG"}, {"id": "1105042008", "district_id": "110504", "name": "GEUMPA RAYA"}, {"id": "1105042009", "district_id": "110504", "name": "PADANG JAWA"}, {"id": "1105042010", "district_id": "110504", "name": "IE ITAM TUNONG"}, {"id": "1105042011", "district_id": "110504", "name": "IE ITAM BAROH"}, {"id": "1105042012", "district_id": "110504", "name": "TINGKEUM PANYANG"}, {"id": "1105042013", "district_id": "110504", "name": "LUENG TEUNGKU YAH"}, {"id": "1105042014", "district_id": "110504", "name": "LUENG TANOH THO"}, {"id": "1105042015", "district_id": "110504", "name": "GUNONG RAMBONG"}, {"id": "1105042016", "district_id": "110504", "name": "DRIEN MANGKO"}, {"id": "1105042017", "district_id": "110504", "name": "GUNONG HAMPA"}, {"id": "1105042018", "district_id": "110504", "name": "LUENG JAWA"}, {"id": "1105042019", "district_id": "110504", "name": "BLANG MEE"}, {"id": "1105042020", "district_id": "110504", "name": "ALUE BLANG"}, {"id": "1105042021", "district_id": "110504", "name": "PAYA DUA"}, {"id": "1105042022", "district_id": "110504", "name": "PAYA LUAH"}, {"id": "1105042023", "district_id": "110504", "name": "PASI ARA"}, {"id": "1105042024", "district_id": "110504", "name": "ALUE SIKAYA"}, {"id": "1105042025", "district_id": "110504", "name": "DARUL HUDA"}, {"id": "1105042026", "district_id": "110504", "name": "KEULEUMBAH"}, {"id": "1105042027", "district_id": "110504", "name": "JAWA"}, {"id": "1105042028", "district_id": "110504", "name": "PULO IE"}, {"id": "1105042029", "district_id": "110504", "name": "ALUE PANYANG"}, {"id": "1105042030", "district_id": "110504", "name": "COT KEUMUDE"}, {"id": "1105042031", "district_id": "110504", "name": "SEUMANTOK"}, {"id": "1105042032", "district_id": "110504", "name": "COT SITUAH"}, {"id": "1105042033", "district_id": "110504", "name": "JAWI"}, {"id": "1105042034", "district_id": "110504", "name": "PANTON"}, {"id": "1105042035", "district_id": "110504", "name": "PASI BIRAH"}, {"id": "1105042036", "district_id": "110504", "name": "ALUE SUNDAK"}, {"id": "1105042037", "district_id": "110504", "name": "TEUMAROM"}, {"id": "1105042038", "district_id": "110504", "name": "COT MURONG"}, {"id": "1105042039", "district_id": "110504", "name": "GLEE SIBLAH"}, {"id": "1105042040", "district_id": "110504", "name": "SUAK TRIENG"}, {"id": "1105042041", "district_id": "110504", "name": "COT LAGAN BUBON"}, {"id": "1105042042", "district_id": "110504", "name": "BAKAT"}, {"id": "1105042043", "district_id": "110504", "name": "LUENG BULOH"}]
+[
+  {
+    "id": "1105042001",
+    "district_id": "110504",
+    "name": "KUALA BHEE"
+  },
+  {
+    "id": "1105042002",
+    "district_id": "110504",
+    "name": "PASI LUNAK"
+  },
+  {
+    "id": "1105042003",
+    "district_id": "110504",
+    "name": "PASI ACEH"
+  },
+  {
+    "id": "1105042004",
+    "district_id": "110504",
+    "name": "ARON TUNONG"
+  },
+  {
+    "id": "1105042005",
+    "district_id": "110504",
+    "name": "ARON BAROH"
+  },
+  {
+    "id": "1105042006",
+    "district_id": "110504",
+    "name": "PASI PANDAN"
+  },
+  {
+    "id": "1105042007",
+    "district_id": "110504",
+    "name": "RANTO PANYANG"
+  },
+  {
+    "id": "1105042008",
+    "district_id": "110504",
+    "name": "GEUMPA RAYA"
+  },
+  {
+    "id": "1105042009",
+    "district_id": "110504",
+    "name": "PADANG JAWA"
+  },
+  {
+    "id": "1105042010",
+    "district_id": "110504",
+    "name": "IE ITAM TUNONG"
+  },
+  {
+    "id": "1105042011",
+    "district_id": "110504",
+    "name": "IE ITAM BAROH"
+  },
+  {
+    "id": "1105042012",
+    "district_id": "110504",
+    "name": "TINGKEUM PANYANG"
+  },
+  {
+    "id": "1105042013",
+    "district_id": "110504",
+    "name": "LUENG TEUNGKU YAH"
+  },
+  {
+    "id": "1105042014",
+    "district_id": "110504",
+    "name": "LUENG TANOH THO"
+  },
+  {
+    "id": "1105042015",
+    "district_id": "110504",
+    "name": "GUNONG RAMBONG"
+  },
+  {
+    "id": "1105042016",
+    "district_id": "110504",
+    "name": "DRIEN MANGKO"
+  },
+  {
+    "id": "1105042017",
+    "district_id": "110504",
+    "name": "GUNONG HAMPA"
+  },
+  {
+    "id": "1105042018",
+    "district_id": "110504",
+    "name": "LUENG JAWA"
+  },
+  {
+    "id": "1105042019",
+    "district_id": "110504",
+    "name": "BLANG MEE"
+  },
+  {
+    "id": "1105042020",
+    "district_id": "110504",
+    "name": "ALUE BLANG"
+  },
+  {
+    "id": "1105042021",
+    "district_id": "110504",
+    "name": "PAYA DUA"
+  },
+  {
+    "id": "1105042022",
+    "district_id": "110504",
+    "name": "PAYA LUAH"
+  },
+  {
+    "id": "1105042023",
+    "district_id": "110504",
+    "name": "PASI ARA"
+  },
+  {
+    "id": "1105042024",
+    "district_id": "110504",
+    "name": "ALUE SIKAYA"
+  },
+  {
+    "id": "1105042025",
+    "district_id": "110504",
+    "name": "DARUL HUDA"
+  },
+  {
+    "id": "1105042026",
+    "district_id": "110504",
+    "name": "KEULEUMBAH"
+  },
+  {
+    "id": "1105042027",
+    "district_id": "110504",
+    "name": "JAWA"
+  },
+  {
+    "id": "1105042028",
+    "district_id": "110504",
+    "name": "PULO IE"
+  },
+  {
+    "id": "1105042029",
+    "district_id": "110504",
+    "name": "ALUE PANYANG"
+  },
+  {
+    "id": "1105042030",
+    "district_id": "110504",
+    "name": "COT KEUMUDE"
+  },
+  {
+    "id": "1105042031",
+    "district_id": "110504",
+    "name": "SEUMANTOK"
+  },
+  {
+    "id": "1105042032",
+    "district_id": "110504",
+    "name": "COT SITUAH"
+  },
+  {
+    "id": "1105042033",
+    "district_id": "110504",
+    "name": "JAWI"
+  },
+  {
+    "id": "1105042034",
+    "district_id": "110504",
+    "name": "PANTON"
+  },
+  {
+    "id": "1105042035",
+    "district_id": "110504",
+    "name": "PASI BIRAH"
+  },
+  {
+    "id": "1105042036",
+    "district_id": "110504",
+    "name": "ALUE SUNDAK"
+  },
+  {
+    "id": "1105042037",
+    "district_id": "110504",
+    "name": "TEUMAROM"
+  },
+  {
+    "id": "1105042038",
+    "district_id": "110504",
+    "name": "COT MURONG"
+  },
+  {
+    "id": "1105042039",
+    "district_id": "110504",
+    "name": "GLEE SIBLAH"
+  },
+  {
+    "id": "1105042040",
+    "district_id": "110504",
+    "name": "SUAK TRIENG"
+  },
+  {
+    "id": "1105042041",
+    "district_id": "110504",
+    "name": "COT LAGAN BUBON"
+  },
+  {
+    "id": "1105042042",
+    "district_id": "110504",
+    "name": "BAKAT"
+  },
+  {
+    "id": "1105042043",
+    "district_id": "110504",
+    "name": "LUENG BULOH"
+  }
+]

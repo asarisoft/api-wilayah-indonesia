@@ -1,1 +1,37 @@
-[{"id": "3202232001", "district_id": "320223", "name": "KALIBUNDER"}, {"id": "3202232002", "district_id": "320223", "name": "BOJONG"}, {"id": "3202232003", "district_id": "320223", "name": "CIMAHPAR"}, {"id": "3202232004", "district_id": "320223", "name": "SEKARSARI"}, {"id": "3202232005", "district_id": "320223", "name": "SUKALUYU"}, {"id": "3202232006", "district_id": "320223", "name": "BALEKAMBANG"}, {"id": "3202232007", "district_id": "320223", "name": "MEKARWANGI"}]
+[
+  {
+    "id": "3202232001",
+    "district_id": "320223",
+    "name": "KALIBUNDER"
+  },
+  {
+    "id": "3202232002",
+    "district_id": "320223",
+    "name": "BOJONG"
+  },
+  {
+    "id": "3202232003",
+    "district_id": "320223",
+    "name": "CIMAHPAR"
+  },
+  {
+    "id": "3202232004",
+    "district_id": "320223",
+    "name": "SEKARSARI"
+  },
+  {
+    "id": "3202232005",
+    "district_id": "320223",
+    "name": "SUKALUYU"
+  },
+  {
+    "id": "3202232006",
+    "district_id": "320223",
+    "name": "BALEKAMBANG"
+  },
+  {
+    "id": "3202232007",
+    "district_id": "320223",
+    "name": "MEKARWANGI"
+  }
+]

@@ -1,1 +1,27 @@
-[{"id": "9604022001", "district_id": "960402", "name": "SIAKWA"}, {"id": "9604022002", "district_id": "960402", "name": "AIBOGIAR"}, {"id": "9604022003", "district_id": "960402", "name": "AYAE"}, {"id": "9604022004", "district_id": "960402", "name": "AYAWIT"}, {"id": "9604022005", "district_id": "960402", "name": "AIFAIR"}]
+[
+  {
+    "id": "9604022001",
+    "district_id": "960402",
+    "name": "SIAKWA"
+  },
+  {
+    "id": "9604022002",
+    "district_id": "960402",
+    "name": "AIBOGIAR"
+  },
+  {
+    "id": "9604022003",
+    "district_id": "960402",
+    "name": "AYAE"
+  },
+  {
+    "id": "9604022004",
+    "district_id": "960402",
+    "name": "AYAWIT"
+  },
+  {
+    "id": "9604022005",
+    "district_id": "960402",
+    "name": "AIFAIR"
+  }
+]

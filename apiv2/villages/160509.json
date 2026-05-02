@@ -1,1 +1,62 @@
-[{"id": "1605091003", "district_id": "160509", "name": "PASAR MUARA BELITI"}, {"id": "1605092001", "district_id": "160509", "name": "PEDANG"}, {"id": "1605092002", "district_id": "160509", "name": "MUARA BELITI BARU"}, {"id": "1605092004", "district_id": "160509", "name": "MANA RESMI"}, {"id": "1605092005", "district_id": "160509", "name": "BUMI AGUNG"}, {"id": "1605092014", "district_id": "160509", "name": "SURO"}, {"id": "1605092015", "district_id": "160509", "name": "TANAH PERIUK"}, {"id": "1605092016", "district_id": "160509", "name": "KETUAN JAYA"}, {"id": "1605092017", "district_id": "160509", "name": "AIR SATAN"}, {"id": "1605092018", "district_id": "160509", "name": "DURIAN REMUK"}, {"id": "1605092019", "district_id": "160509", "name": "SATAN INDAH JAYA"}, {"id": "1605092020", "district_id": "160509", "name": "AIR LESING"}]
+[
+  {
+    "id": "1605091003",
+    "district_id": "160509",
+    "name": "PASAR MUARA BELITI"
+  },
+  {
+    "id": "1605092001",
+    "district_id": "160509",
+    "name": "PEDANG"
+  },
+  {
+    "id": "1605092002",
+    "district_id": "160509",
+    "name": "MUARA BELITI BARU"
+  },
+  {
+    "id": "1605092004",
+    "district_id": "160509",
+    "name": "MANA RESMI"
+  },
+  {
+    "id": "1605092005",
+    "district_id": "160509",
+    "name": "BUMI AGUNG"
+  },
+  {
+    "id": "1605092014",
+    "district_id": "160509",
+    "name": "SURO"
+  },
+  {
+    "id": "1605092015",
+    "district_id": "160509",
+    "name": "TANAH PERIUK"
+  },
+  {
+    "id": "1605092016",
+    "district_id": "160509",
+    "name": "KETUAN JAYA"
+  },
+  {
+    "id": "1605092017",
+    "district_id": "160509",
+    "name": "AIR SATAN"
+  },
+  {
+    "id": "1605092018",
+    "district_id": "160509",
+    "name": "DURIAN REMUK"
+  },
+  {
+    "id": "1605092019",
+    "district_id": "160509",
+    "name": "SATAN INDAH JAYA"
+  },
+  {
+    "id": "1605092020",
+    "district_id": "160509",
+    "name": "AIR LESING"
+  }
+]

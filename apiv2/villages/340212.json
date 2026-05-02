@@ -1,1 +1,42 @@
-[{"id": "3402122001", "district_id": "340212", "name": "BATURETNO"}, {"id": "3402122002", "district_id": "340212", "name": "BANGUNTAPAN"}, {"id": "3402122003", "district_id": "340212", "name": "JAGALAN"}, {"id": "3402122004", "district_id": "340212", "name": "SINGOSAREN"}, {"id": "3402122005", "district_id": "340212", "name": "JAMBIDAN"}, {"id": "3402122006", "district_id": "340212", "name": "POTORONO"}, {"id": "3402122007", "district_id": "340212", "name": "TAMANAN"}, {"id": "3402122008", "district_id": "340212", "name": "WIROKERTEN"}]
+[
+  {
+    "id": "3402122001",
+    "district_id": "340212",
+    "name": "BATURETNO"
+  },
+  {
+    "id": "3402122002",
+    "district_id": "340212",
+    "name": "BANGUNTAPAN"
+  },
+  {
+    "id": "3402122003",
+    "district_id": "340212",
+    "name": "JAGALAN"
+  },
+  {
+    "id": "3402122004",
+    "district_id": "340212",
+    "name": "SINGOSAREN"
+  },
+  {
+    "id": "3402122005",
+    "district_id": "340212",
+    "name": "JAMBIDAN"
+  },
+  {
+    "id": "3402122006",
+    "district_id": "340212",
+    "name": "POTORONO"
+  },
+  {
+    "id": "3402122007",
+    "district_id": "340212",
+    "name": "TAMANAN"
+  },
+  {
+    "id": "3402122008",
+    "district_id": "340212",
+    "name": "WIROKERTEN"
+  }
+]

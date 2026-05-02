@@ -1,1 +1,42 @@
-[{"id": "1209102001", "district_id": "120910", "name": "ASAHAN MATI"}, {"id": "1209102002", "district_id": "120910", "name": "BAGAN ASAHAN"}, {"id": "1209102003", "district_id": "120910", "name": "BAGAN ASAHAN BARU"}, {"id": "1209102004", "district_id": "120910", "name": "BAGAN ASAHAN PEKAN"}, {"id": "1209102005", "district_id": "120910", "name": "KAPIAS BATU VIII"}, {"id": "1209102006", "district_id": "120910", "name": "PEMATANG SEI BARU"}, {"id": "1209102007", "district_id": "120910", "name": "SEI APUNG"}, {"id": "1209102008", "district_id": "120910", "name": "SEI APUNG JAYA"}]
+[
+  {
+    "id": "1209102001",
+    "district_id": "120910",
+    "name": "ASAHAN MATI"
+  },
+  {
+    "id": "1209102002",
+    "district_id": "120910",
+    "name": "BAGAN ASAHAN"
+  },
+  {
+    "id": "1209102003",
+    "district_id": "120910",
+    "name": "BAGAN ASAHAN BARU"
+  },
+  {
+    "id": "1209102004",
+    "district_id": "120910",
+    "name": "BAGAN ASAHAN PEKAN"
+  },
+  {
+    "id": "1209102005",
+    "district_id": "120910",
+    "name": "KAPIAS BATU VIII"
+  },
+  {
+    "id": "1209102006",
+    "district_id": "120910",
+    "name": "PEMATANG SEI BARU"
+  },
+  {
+    "id": "1209102007",
+    "district_id": "120910",
+    "name": "SEI APUNG"
+  },
+  {
+    "id": "1209102008",
+    "district_id": "120910",
+    "name": "SEI APUNG JAYA"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "6503122001", "district_id": "650312", "name": "SUNGAI LIMAU"}, {"id": "6503122002", "district_id": "650312", "name": "MASPUL"}, {"id": "6503122003", "district_id": "650312", "name": "AJI KUNING"}, {"id": "6503122004", "district_id": "650312", "name": "BUKIT HARAPAN"}]
+[
+  {
+    "id": "6503122001",
+    "district_id": "650312",
+    "name": "SUNGAI LIMAU"
+  },
+  {
+    "id": "6503122002",
+    "district_id": "650312",
+    "name": "MASPUL"
+  },
+  {
+    "id": "6503122003",
+    "district_id": "650312",
+    "name": "AJI KUNING"
+  },
+  {
+    "id": "6503122004",
+    "district_id": "650312",
+    "name": "BUKIT HARAPAN"
+  }
+]

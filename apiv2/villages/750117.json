@@ -1,1 +1,52 @@
-[{"id": "7501172001", "district_id": "750117", "name": "PONE"}, {"id": "7501172002", "district_id": "750117", "name": "HUIDU"}, {"id": "7501172003", "district_id": "750117", "name": "OMBULO"}, {"id": "7501172004", "district_id": "750117", "name": "DAENAA"}, {"id": "7501172005", "district_id": "750117", "name": "YOSONEGORO"}, {"id": "7501172006", "district_id": "750117", "name": "TUNGGULO"}, {"id": "7501172007", "district_id": "750117", "name": "HUTABOHU"}, {"id": "7501172008", "district_id": "750117", "name": "PADENGO"}, {"id": "7501172009", "district_id": "750117", "name": "HAYA-HAYA"}, {"id": "7501172010", "district_id": "750117", "name": "HUIDU UTARA"}]
+[
+  {
+    "id": "7501172001",
+    "district_id": "750117",
+    "name": "PONE"
+  },
+  {
+    "id": "7501172002",
+    "district_id": "750117",
+    "name": "HUIDU"
+  },
+  {
+    "id": "7501172003",
+    "district_id": "750117",
+    "name": "OMBULO"
+  },
+  {
+    "id": "7501172004",
+    "district_id": "750117",
+    "name": "DAENAA"
+  },
+  {
+    "id": "7501172005",
+    "district_id": "750117",
+    "name": "YOSONEGORO"
+  },
+  {
+    "id": "7501172006",
+    "district_id": "750117",
+    "name": "TUNGGULO"
+  },
+  {
+    "id": "7501172007",
+    "district_id": "750117",
+    "name": "HUTABOHU"
+  },
+  {
+    "id": "7501172008",
+    "district_id": "750117",
+    "name": "PADENGO"
+  },
+  {
+    "id": "7501172009",
+    "district_id": "750117",
+    "name": "HAYA-HAYA"
+  },
+  {
+    "id": "7501172010",
+    "district_id": "750117",
+    "name": "HUIDU UTARA"
+  }
+]

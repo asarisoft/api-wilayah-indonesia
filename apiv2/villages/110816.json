@@ -1,1 +1,147 @@
-[{"id": "1108162015", "district_id": "110816", "name": "PALOH MAMBU"}, {"id": "1108162017", "district_id": "110816", "name": "BLANG KARIENG"}, {"id": "1108162018", "district_id": "110816", "name": "PALOH KAYEE KUNYET"}, {"id": "1108162019", "district_id": "110816", "name": "GAMPONG BARAT"}, {"id": "1108162020", "district_id": "110816", "name": "MEUNASAH BEUNOT"}, {"id": "1108162021", "district_id": "110816", "name": "SEUNEUBOK"}, {"id": "1108162022", "district_id": "110816", "name": "COT LEUPEE"}, {"id": "1108162023", "district_id": "110816", "name": "GAMPONG TEUNGOH"}, {"id": "1108162024", "district_id": "110816", "name": "MEUNASAH MEUCAT"}, {"id": "1108162025", "district_id": "110816", "name": "MEUNASAH ALUE"}, {"id": "1108162026", "district_id": "110816", "name": "PANTON"}, {"id": "1108162027", "district_id": "110816", "name": "PALOH MAMPREE"}, {"id": "1108162028", "district_id": "110816", "name": "PEUNAYAN"}, {"id": "1108162029", "district_id": "110816", "name": "TINGKEUM"}, {"id": "1108162030", "district_id": "110816", "name": "MEUNASAH RAYEUK"}, {"id": "1108162031", "district_id": "110816", "name": "MEUNASAH CUT"}, {"id": "1108162032", "district_id": "110816", "name": "JEULIKAT"}, {"id": "1108162033", "district_id": "110816", "name": "ALUE BILI"}, {"id": "1108162034", "district_id": "110816", "name": "COT MAMBONG"}, {"id": "1108162035", "district_id": "110816", "name": "BLANG DALAM GEUNTENG"}, {"id": "1108162036", "district_id": "110816", "name": "BLANG DALAM TUNONG"}, {"id": "1108162037", "district_id": "110816", "name": "BLANG DALAM BAROH"}, {"id": "1108162038", "district_id": "110816", "name": "COT MEE"}, {"id": "1108162039", "district_id": "110816", "name": "COT EUNTUNG"}, {"id": "1108162040", "district_id": "110816", "name": "BLANG CROK"}, {"id": "1108162041", "district_id": "110816", "name": "MEUNASAH KRUENG"}, {"id": "1108162042", "district_id": "110816", "name": "BINJEE"}, {"id": "1108162043", "district_id": "110816", "name": "KEUTAPANG"}, {"id": "1108162044", "district_id": "110816", "name": "ULEE BLANG"}]
+[
+  {
+    "id": "1108162015",
+    "district_id": "110816",
+    "name": "PALOH MAMBU"
+  },
+  {
+    "id": "1108162017",
+    "district_id": "110816",
+    "name": "BLANG KARIENG"
+  },
+  {
+    "id": "1108162018",
+    "district_id": "110816",
+    "name": "PALOH KAYEE KUNYET"
+  },
+  {
+    "id": "1108162019",
+    "district_id": "110816",
+    "name": "GAMPONG BARAT"
+  },
+  {
+    "id": "1108162020",
+    "district_id": "110816",
+    "name": "MEUNASAH BEUNOT"
+  },
+  {
+    "id": "1108162021",
+    "district_id": "110816",
+    "name": "SEUNEUBOK"
+  },
+  {
+    "id": "1108162022",
+    "district_id": "110816",
+    "name": "COT LEUPEE"
+  },
+  {
+    "id": "1108162023",
+    "district_id": "110816",
+    "name": "GAMPONG TEUNGOH"
+  },
+  {
+    "id": "1108162024",
+    "district_id": "110816",
+    "name": "MEUNASAH MEUCAT"
+  },
+  {
+    "id": "1108162025",
+    "district_id": "110816",
+    "name": "MEUNASAH ALUE"
+  },
+  {
+    "id": "1108162026",
+    "district_id": "110816",
+    "name": "PANTON"
+  },
+  {
+    "id": "1108162027",
+    "district_id": "110816",
+    "name": "PALOH MAMPREE"
+  },
+  {
+    "id": "1108162028",
+    "district_id": "110816",
+    "name": "PEUNAYAN"
+  },
+  {
+    "id": "1108162029",
+    "district_id": "110816",
+    "name": "TINGKEUM"
+  },
+  {
+    "id": "1108162030",
+    "district_id": "110816",
+    "name": "MEUNASAH RAYEUK"
+  },
+  {
+    "id": "1108162031",
+    "district_id": "110816",
+    "name": "MEUNASAH CUT"
+  },
+  {
+    "id": "1108162032",
+    "district_id": "110816",
+    "name": "JEULIKAT"
+  },
+  {
+    "id": "1108162033",
+    "district_id": "110816",
+    "name": "ALUE BILI"
+  },
+  {
+    "id": "1108162034",
+    "district_id": "110816",
+    "name": "COT MAMBONG"
+  },
+  {
+    "id": "1108162035",
+    "district_id": "110816",
+    "name": "BLANG DALAM GEUNTENG"
+  },
+  {
+    "id": "1108162036",
+    "district_id": "110816",
+    "name": "BLANG DALAM TUNONG"
+  },
+  {
+    "id": "1108162037",
+    "district_id": "110816",
+    "name": "BLANG DALAM BAROH"
+  },
+  {
+    "id": "1108162038",
+    "district_id": "110816",
+    "name": "COT MEE"
+  },
+  {
+    "id": "1108162039",
+    "district_id": "110816",
+    "name": "COT EUNTUNG"
+  },
+  {
+    "id": "1108162040",
+    "district_id": "110816",
+    "name": "BLANG CROK"
+  },
+  {
+    "id": "1108162041",
+    "district_id": "110816",
+    "name": "MEUNASAH KRUENG"
+  },
+  {
+    "id": "1108162042",
+    "district_id": "110816",
+    "name": "BINJEE"
+  },
+  {
+    "id": "1108162043",
+    "district_id": "110816",
+    "name": "KEUTAPANG"
+  },
+  {
+    "id": "1108162044",
+    "district_id": "110816",
+    "name": "ULEE BLANG"
+  }
+]

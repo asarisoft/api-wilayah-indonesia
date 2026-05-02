@@ -1,1 +1,42 @@
-[{"id": "3404142001", "district_id": "340414", "name": "BANYUREJO"}, {"id": "3404142002", "district_id": "340414", "name": "TAMBAKREJO"}, {"id": "3404142003", "district_id": "340414", "name": "SUMBERREJO"}, {"id": "3404142004", "district_id": "340414", "name": "PONDOKREJO"}, {"id": "3404142005", "district_id": "340414", "name": "MOROREJO"}, {"id": "3404142006", "district_id": "340414", "name": "MARGOREJO"}, {"id": "3404142007", "district_id": "340414", "name": "LUMBUNGREJO"}, {"id": "3404142008", "district_id": "340414", "name": "MERDIKOREJO"}]
+[
+  {
+    "id": "3404142001",
+    "district_id": "340414",
+    "name": "BANYUREJO"
+  },
+  {
+    "id": "3404142002",
+    "district_id": "340414",
+    "name": "TAMBAKREJO"
+  },
+  {
+    "id": "3404142003",
+    "district_id": "340414",
+    "name": "SUMBERREJO"
+  },
+  {
+    "id": "3404142004",
+    "district_id": "340414",
+    "name": "PONDOKREJO"
+  },
+  {
+    "id": "3404142005",
+    "district_id": "340414",
+    "name": "MOROREJO"
+  },
+  {
+    "id": "3404142006",
+    "district_id": "340414",
+    "name": "MARGOREJO"
+  },
+  {
+    "id": "3404142007",
+    "district_id": "340414",
+    "name": "LUMBUNGREJO"
+  },
+  {
+    "id": "3404142008",
+    "district_id": "340414",
+    "name": "MERDIKOREJO"
+  }
+]

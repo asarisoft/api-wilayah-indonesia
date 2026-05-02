@@ -1,1 +1,27 @@
-[{"id": "7202211001", "district_id": "720221", "name": "SAYO"}, {"id": "7202211002", "district_id": "720221", "name": "BUKIT BAMBU"}, {"id": "7202211003", "district_id": "720221", "name": "KAWUA"}, {"id": "7202211004", "district_id": "720221", "name": "RONONONCU"}, {"id": "7202211005", "district_id": "720221", "name": "LEMBOMAWO"}]
+[
+  {
+    "id": "7202211001",
+    "district_id": "720221",
+    "name": "SAYO"
+  },
+  {
+    "id": "7202211002",
+    "district_id": "720221",
+    "name": "BUKIT BAMBU"
+  },
+  {
+    "id": "7202211003",
+    "district_id": "720221",
+    "name": "KAWUA"
+  },
+  {
+    "id": "7202211004",
+    "district_id": "720221",
+    "name": "RONONONCU"
+  },
+  {
+    "id": "7202211005",
+    "district_id": "720221",
+    "name": "LEMBOMAWO"
+  }
+]

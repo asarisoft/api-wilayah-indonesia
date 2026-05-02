@@ -1,1 +1,87 @@
-[{"id": "7318121002", "district_id": "731812", "name": "RANTE KALUA'"}, {"id": "7318121016", "district_id": "731812", "name": "TAMPO"}, {"id": "7318121023", "district_id": "731812", "name": "LEMO"}, {"id": "7318121024", "district_id": "731812", "name": "TENGAN"}, {"id": "7318122004", "district_id": "731812", "name": "GASING"}, {"id": "7318122006", "district_id": "731812", "name": "ULUWAY"}, {"id": "7318122012", "district_id": "731812", "name": "RANDANAN"}, {"id": "7318122015", "district_id": "731812", "name": "BUNTU TANGTI"}, {"id": "7318122017", "district_id": "731812", "name": "RANTEDADA"}, {"id": "7318122018", "district_id": "731812", "name": "PA'TENGKO"}, {"id": "7318122019", "district_id": "731812", "name": "SIMBUANG"}, {"id": "7318122020", "district_id": "731812", "name": "PAKALA"}, {"id": "7318122021", "district_id": "731812", "name": "ULUWAY BARAT"}, {"id": "7318122022", "district_id": "731812", "name": "MARINDING"}, {"id": "7318122025", "district_id": "731812", "name": "PALIPU"}, {"id": "7318122026", "district_id": "731812", "name": "KE'PE TINORING"}, {"id": "7318122027", "district_id": "731812", "name": "BUNTUDATU"}]
+[
+  {
+    "id": "7318121002",
+    "district_id": "731812",
+    "name": "RANTE KALUA'"
+  },
+  {
+    "id": "7318121016",
+    "district_id": "731812",
+    "name": "TAMPO"
+  },
+  {
+    "id": "7318121023",
+    "district_id": "731812",
+    "name": "LEMO"
+  },
+  {
+    "id": "7318121024",
+    "district_id": "731812",
+    "name": "TENGAN"
+  },
+  {
+    "id": "7318122004",
+    "district_id": "731812",
+    "name": "GASING"
+  },
+  {
+    "id": "7318122006",
+    "district_id": "731812",
+    "name": "ULUWAY"
+  },
+  {
+    "id": "7318122012",
+    "district_id": "731812",
+    "name": "RANDANAN"
+  },
+  {
+    "id": "7318122015",
+    "district_id": "731812",
+    "name": "BUNTU TANGTI"
+  },
+  {
+    "id": "7318122017",
+    "district_id": "731812",
+    "name": "RANTEDADA"
+  },
+  {
+    "id": "7318122018",
+    "district_id": "731812",
+    "name": "PA'TENGKO"
+  },
+  {
+    "id": "7318122019",
+    "district_id": "731812",
+    "name": "SIMBUANG"
+  },
+  {
+    "id": "7318122020",
+    "district_id": "731812",
+    "name": "PAKALA"
+  },
+  {
+    "id": "7318122021",
+    "district_id": "731812",
+    "name": "ULUWAY BARAT"
+  },
+  {
+    "id": "7318122022",
+    "district_id": "731812",
+    "name": "MARINDING"
+  },
+  {
+    "id": "7318122025",
+    "district_id": "731812",
+    "name": "PALIPU"
+  },
+  {
+    "id": "7318122026",
+    "district_id": "731812",
+    "name": "KE'PE TINORING"
+  },
+  {
+    "id": "7318122027",
+    "district_id": "731812",
+    "name": "BUNTUDATU"
+  }
+]

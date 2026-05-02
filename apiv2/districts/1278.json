@@ -1,1 +1,32 @@
-[{"id": "127801", "regency_id": "1278", "name": "GUNUNGSITOLI"}, {"id": "127802", "regency_id": "1278", "name": "GUNUNGSITOLI SELATAN"}, {"id": "127803", "regency_id": "1278", "name": "GUNUNGSITOLI UTARA"}, {"id": "127804", "regency_id": "1278", "name": "GUNUNGSITOLI IDANOI"}, {"id": "127805", "regency_id": "1278", "name": "GUNUNGSITOLI ALO'OA"}, {"id": "127806", "regency_id": "1278", "name": "GUNUNGSITOLI BARAT"}]
+[
+  {
+    "id": "127801",
+    "regency_id": "1278",
+    "name": "GUNUNGSITOLI"
+  },
+  {
+    "id": "127802",
+    "regency_id": "1278",
+    "name": "GUNUNGSITOLI SELATAN"
+  },
+  {
+    "id": "127803",
+    "regency_id": "1278",
+    "name": "GUNUNGSITOLI UTARA"
+  },
+  {
+    "id": "127804",
+    "regency_id": "1278",
+    "name": "GUNUNGSITOLI IDANOI"
+  },
+  {
+    "id": "127805",
+    "regency_id": "1278",
+    "name": "GUNUNGSITOLI ALO'OA"
+  },
+  {
+    "id": "127806",
+    "regency_id": "1278",
+    "name": "GUNUNGSITOLI BARAT"
+  }
+]

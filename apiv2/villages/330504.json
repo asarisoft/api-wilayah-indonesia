@@ -1,1 +1,107 @@
-[{"id": "3305042001", "district_id": "330504", "name": "KARANGREJO"}, {"id": "3305042002", "district_id": "330504", "name": "KARANGGADUNG"}, {"id": "3305042003", "district_id": "330504", "name": "TEGALRETNO"}, {"id": "3305042004", "district_id": "330504", "name": "AMPELSARI"}, {"id": "3305042005", "district_id": "330504", "name": "MUNGGU"}, {"id": "3305042006", "district_id": "330504", "name": "KEWANGUNAN"}, {"id": "3305042007", "district_id": "330504", "name": "KARANGDUWUR"}, {"id": "3305042008", "district_id": "330504", "name": "PETANAHAN"}, {"id": "3305042009", "district_id": "330504", "name": "KEBONSARI"}, {"id": "3305042010", "district_id": "330504", "name": "GROGOLPENATUS"}, {"id": "3305042011", "district_id": "330504", "name": "GROGOLBENINGSARI"}, {"id": "3305042012", "district_id": "330504", "name": "JOGOMERTAN"}, {"id": "3305042013", "district_id": "330504", "name": "TANJUNGSARI"}, {"id": "3305042014", "district_id": "330504", "name": "SIDOMULYO"}, {"id": "3305042015", "district_id": "330504", "name": "GRUJUGAN"}, {"id": "3305042016", "district_id": "330504", "name": "KRITIG"}, {"id": "3305042017", "district_id": "330504", "name": "NAMPUDADI"}, {"id": "3305042018", "district_id": "330504", "name": "TRESNOREJO"}, {"id": "3305042019", "district_id": "330504", "name": "PODOURIP"}, {"id": "3305042020", "district_id": "330504", "name": "JATIMULYO"}, {"id": "3305042021", "district_id": "330504", "name": "BANJARWINANGUN"}]
+[
+  {
+    "id": "3305042001",
+    "district_id": "330504",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3305042002",
+    "district_id": "330504",
+    "name": "KARANGGADUNG"
+  },
+  {
+    "id": "3305042003",
+    "district_id": "330504",
+    "name": "TEGALRETNO"
+  },
+  {
+    "id": "3305042004",
+    "district_id": "330504",
+    "name": "AMPELSARI"
+  },
+  {
+    "id": "3305042005",
+    "district_id": "330504",
+    "name": "MUNGGU"
+  },
+  {
+    "id": "3305042006",
+    "district_id": "330504",
+    "name": "KEWANGUNAN"
+  },
+  {
+    "id": "3305042007",
+    "district_id": "330504",
+    "name": "KARANGDUWUR"
+  },
+  {
+    "id": "3305042008",
+    "district_id": "330504",
+    "name": "PETANAHAN"
+  },
+  {
+    "id": "3305042009",
+    "district_id": "330504",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3305042010",
+    "district_id": "330504",
+    "name": "GROGOLPENATUS"
+  },
+  {
+    "id": "3305042011",
+    "district_id": "330504",
+    "name": "GROGOLBENINGSARI"
+  },
+  {
+    "id": "3305042012",
+    "district_id": "330504",
+    "name": "JOGOMERTAN"
+  },
+  {
+    "id": "3305042013",
+    "district_id": "330504",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3305042014",
+    "district_id": "330504",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "3305042015",
+    "district_id": "330504",
+    "name": "GRUJUGAN"
+  },
+  {
+    "id": "3305042016",
+    "district_id": "330504",
+    "name": "KRITIG"
+  },
+  {
+    "id": "3305042017",
+    "district_id": "330504",
+    "name": "NAMPUDADI"
+  },
+  {
+    "id": "3305042018",
+    "district_id": "330504",
+    "name": "TRESNOREJO"
+  },
+  {
+    "id": "3305042019",
+    "district_id": "330504",
+    "name": "PODOURIP"
+  },
+  {
+    "id": "3305042020",
+    "district_id": "330504",
+    "name": "JATIMULYO"
+  },
+  {
+    "id": "3305042021",
+    "district_id": "330504",
+    "name": "BANJARWINANGUN"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "3204362001", "district_id": "320436", "name": "IBUN"}, {"id": "3204362002", "district_id": "320436", "name": "LAKSANA"}, {"id": "3204362003", "district_id": "320436", "name": "DUKUH"}, {"id": "3204362004", "district_id": "320436", "name": "TALUN"}, {"id": "3204362005", "district_id": "320436", "name": "PANGGUH"}, {"id": "3204362006", "district_id": "320436", "name": "LAMPEGAN"}, {"id": "3204362007", "district_id": "320436", "name": "NEGLASARI"}, {"id": "3204362008", "district_id": "320436", "name": "MEKARWANGI"}, {"id": "3204362009", "district_id": "320436", "name": "SUDI"}, {"id": "3204362010", "district_id": "320436", "name": "TANGGULUN"}, {"id": "3204362011", "district_id": "320436", "name": "CIBEET"}, {"id": "3204362012", "district_id": "320436", "name": "KARYALAKSANA"}]
+[
+  {
+    "id": "3204362001",
+    "district_id": "320436",
+    "name": "IBUN"
+  },
+  {
+    "id": "3204362002",
+    "district_id": "320436",
+    "name": "LAKSANA"
+  },
+  {
+    "id": "3204362003",
+    "district_id": "320436",
+    "name": "DUKUH"
+  },
+  {
+    "id": "3204362004",
+    "district_id": "320436",
+    "name": "TALUN"
+  },
+  {
+    "id": "3204362005",
+    "district_id": "320436",
+    "name": "PANGGUH"
+  },
+  {
+    "id": "3204362006",
+    "district_id": "320436",
+    "name": "LAMPEGAN"
+  },
+  {
+    "id": "3204362007",
+    "district_id": "320436",
+    "name": "NEGLASARI"
+  },
+  {
+    "id": "3204362008",
+    "district_id": "320436",
+    "name": "MEKARWANGI"
+  },
+  {
+    "id": "3204362009",
+    "district_id": "320436",
+    "name": "SUDI"
+  },
+  {
+    "id": "3204362010",
+    "district_id": "320436",
+    "name": "TANGGULUN"
+  },
+  {
+    "id": "3204362011",
+    "district_id": "320436",
+    "name": "CIBEET"
+  },
+  {
+    "id": "3204362012",
+    "district_id": "320436",
+    "name": "KARYALAKSANA"
+  }
+]

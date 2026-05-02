@@ -1,1 +1,47 @@
-[{"id": "1201141001", "district_id": "120114", "name": "TUKKA"}, {"id": "1201141002", "district_id": "120114", "name": "BONA LUMBAN"}, {"id": "1201141003", "district_id": "120114", "name": "HUTA NABOLON"}, {"id": "1201141007", "district_id": "120114", "name": "SIPANGE"}, {"id": "1201141009", "district_id": "120114", "name": "AEK TOLANG INDUK"}, {"id": "1201142004", "district_id": "120114", "name": "SIGIRING GIRING"}, {"id": "1201142005", "district_id": "120114", "name": "TAPIAN NAULI/ SAURMANGGITA"}, {"id": "1201142006", "district_id": "120114", "name": "SAIT KALANGAN II"}, {"id": "1201142008", "district_id": "120114", "name": "AEK BOTTAR"}]
+[
+  {
+    "id": "1201141001",
+    "district_id": "120114",
+    "name": "TUKKA"
+  },
+  {
+    "id": "1201141002",
+    "district_id": "120114",
+    "name": "BONA LUMBAN"
+  },
+  {
+    "id": "1201141003",
+    "district_id": "120114",
+    "name": "HUTA NABOLON"
+  },
+  {
+    "id": "1201141007",
+    "district_id": "120114",
+    "name": "SIPANGE"
+  },
+  {
+    "id": "1201141009",
+    "district_id": "120114",
+    "name": "AEK TOLANG INDUK"
+  },
+  {
+    "id": "1201142004",
+    "district_id": "120114",
+    "name": "SIGIRING GIRING"
+  },
+  {
+    "id": "1201142005",
+    "district_id": "120114",
+    "name": "TAPIAN NAULI/ SAURMANGGITA"
+  },
+  {
+    "id": "1201142006",
+    "district_id": "120114",
+    "name": "SAIT KALANGAN II"
+  },
+  {
+    "id": "1201142008",
+    "district_id": "120114",
+    "name": "AEK BOTTAR"
+  }
+]

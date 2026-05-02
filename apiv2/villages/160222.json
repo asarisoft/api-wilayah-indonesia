@@ -1,1 +1,82 @@
-[{"id": "1602222001", "district_id": "160222", "name": "TANJUNG SARI I"}, {"id": "1602222002", "district_id": "160222", "name": "LUBUK SEBERUK"}, {"id": "1602222003", "district_id": "160222", "name": "RANTAU DURIAN I"}, {"id": "1602222004", "district_id": "160222", "name": "SUNGAI BELIDA"}, {"id": "1602222005", "district_id": "160222", "name": "LEMPUING INDAH"}, {"id": "1602222006", "district_id": "160222", "name": "MUKTISARI"}, {"id": "1602222007", "district_id": "160222", "name": "TANIA MAKMUR"}, {"id": "1602222008", "district_id": "160222", "name": "SUKAMAJU"}, {"id": "1602222009", "district_id": "160222", "name": "MUARA BURNAI II"}, {"id": "1602222010", "district_id": "160222", "name": "SUKA JAYA"}, {"id": "1602222011", "district_id": "160222", "name": "RANTAU DURIAN II"}, {"id": "1602222012", "district_id": "160222", "name": "TANJUNG SARI II"}, {"id": "1602222013", "district_id": "160222", "name": "PURWO ASRI"}, {"id": "1602222014", "district_id": "160222", "name": "MUARA BURNAI I"}, {"id": "1602222015", "district_id": "160222", "name": "LUBUK MAKMUR"}, {"id": "1602222016", "district_id": "160222", "name": "RANTAU DURIAN ASLI"}]
+[
+  {
+    "id": "1602222001",
+    "district_id": "160222",
+    "name": "TANJUNG SARI I"
+  },
+  {
+    "id": "1602222002",
+    "district_id": "160222",
+    "name": "LUBUK SEBERUK"
+  },
+  {
+    "id": "1602222003",
+    "district_id": "160222",
+    "name": "RANTAU DURIAN I"
+  },
+  {
+    "id": "1602222004",
+    "district_id": "160222",
+    "name": "SUNGAI BELIDA"
+  },
+  {
+    "id": "1602222005",
+    "district_id": "160222",
+    "name": "LEMPUING INDAH"
+  },
+  {
+    "id": "1602222006",
+    "district_id": "160222",
+    "name": "MUKTISARI"
+  },
+  {
+    "id": "1602222007",
+    "district_id": "160222",
+    "name": "TANIA MAKMUR"
+  },
+  {
+    "id": "1602222008",
+    "district_id": "160222",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "1602222009",
+    "district_id": "160222",
+    "name": "MUARA BURNAI II"
+  },
+  {
+    "id": "1602222010",
+    "district_id": "160222",
+    "name": "SUKA JAYA"
+  },
+  {
+    "id": "1602222011",
+    "district_id": "160222",
+    "name": "RANTAU DURIAN II"
+  },
+  {
+    "id": "1602222012",
+    "district_id": "160222",
+    "name": "TANJUNG SARI II"
+  },
+  {
+    "id": "1602222013",
+    "district_id": "160222",
+    "name": "PURWO ASRI"
+  },
+  {
+    "id": "1602222014",
+    "district_id": "160222",
+    "name": "MUARA BURNAI I"
+  },
+  {
+    "id": "1602222015",
+    "district_id": "160222",
+    "name": "LUBUK MAKMUR"
+  },
+  {
+    "id": "1602222016",
+    "district_id": "160222",
+    "name": "RANTAU DURIAN ASLI"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "6303092001", "district_id": "630309", "name": "MANIAPUN"}, {"id": "6303092002", "district_id": "630309", "name": "LOK TUNGGUL"}, {"id": "6303092003", "district_id": "630309", "name": "LOBANG BARU"}, {"id": "6303092004", "district_id": "630309", "name": "PENGARON"}, {"id": "6303092005", "district_id": "630309", "name": "BENTENG"}, {"id": "6303092006", "district_id": "630309", "name": "ATI'IM"}, {"id": "6303092007", "district_id": "630309", "name": "ALIMUKIM"}, {"id": "6303092008", "district_id": "630309", "name": "PANYIURAN"}, {"id": "6303092009", "district_id": "630309", "name": "ANTARAKU"}, {"id": "6303092010", "district_id": "630309", "name": "MANGKAUK"}, {"id": "6303092015", "district_id": "630309", "name": "KERTAK EMPAT"}, {"id": "6303092018", "district_id": "630309", "name": "LUMPANGI"}]
+[
+  {
+    "id": "6303092001",
+    "district_id": "630309",
+    "name": "MANIAPUN"
+  },
+  {
+    "id": "6303092002",
+    "district_id": "630309",
+    "name": "LOK TUNGGUL"
+  },
+  {
+    "id": "6303092003",
+    "district_id": "630309",
+    "name": "LOBANG BARU"
+  },
+  {
+    "id": "6303092004",
+    "district_id": "630309",
+    "name": "PENGARON"
+  },
+  {
+    "id": "6303092005",
+    "district_id": "630309",
+    "name": "BENTENG"
+  },
+  {
+    "id": "6303092006",
+    "district_id": "630309",
+    "name": "ATI'IM"
+  },
+  {
+    "id": "6303092007",
+    "district_id": "630309",
+    "name": "ALIMUKIM"
+  },
+  {
+    "id": "6303092008",
+    "district_id": "630309",
+    "name": "PANYIURAN"
+  },
+  {
+    "id": "6303092009",
+    "district_id": "630309",
+    "name": "ANTARAKU"
+  },
+  {
+    "id": "6303092010",
+    "district_id": "630309",
+    "name": "MANGKAUK"
+  },
+  {
+    "id": "6303092015",
+    "district_id": "630309",
+    "name": "KERTAK EMPAT"
+  },
+  {
+    "id": "6303092018",
+    "district_id": "630309",
+    "name": "LUMPANGI"
+  }
+]

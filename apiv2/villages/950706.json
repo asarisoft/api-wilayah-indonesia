@@ -1,1 +1,42 @@
-[{"id": "9507062001", "district_id": "950706", "name": "MALAGAI"}, {"id": "9507062002", "district_id": "950706", "name": "OKA"}, {"id": "9507062003", "district_id": "950706", "name": "BAGI"}, {"id": "9507062004", "district_id": "950706", "name": "GANUME"}, {"id": "9507062005", "district_id": "950706", "name": "BINILANI"}, {"id": "9507062006", "district_id": "950706", "name": "GUMBAN"}, {"id": "9507062007", "district_id": "950706", "name": "LOWANOM"}, {"id": "9507062008", "district_id": "950706", "name": "NAMBU"}]
+[
+  {
+    "id": "9507062001",
+    "district_id": "950706",
+    "name": "MALAGAI"
+  },
+  {
+    "id": "9507062002",
+    "district_id": "950706",
+    "name": "OKA"
+  },
+  {
+    "id": "9507062003",
+    "district_id": "950706",
+    "name": "BAGI"
+  },
+  {
+    "id": "9507062004",
+    "district_id": "950706",
+    "name": "GANUME"
+  },
+  {
+    "id": "9507062005",
+    "district_id": "950706",
+    "name": "BINILANI"
+  },
+  {
+    "id": "9507062006",
+    "district_id": "950706",
+    "name": "GUMBAN"
+  },
+  {
+    "id": "9507062007",
+    "district_id": "950706",
+    "name": "LOWANOM"
+  },
+  {
+    "id": "9507062008",
+    "district_id": "950706",
+    "name": "NAMBU"
+  }
+]

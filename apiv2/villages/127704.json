@@ -1,1 +1,52 @@
-[{"id": "1277041001", "district_id": "127704", "name": "HUTAIMBARU"}, {"id": "1277041002", "district_id": "127704", "name": "LUBUK RAYA"}, {"id": "1277041003", "district_id": "127704", "name": "SABUNGAN JAE"}, {"id": "1277041004", "district_id": "127704", "name": "LEMBAH LUBUK MANIK"}, {"id": "1277041005", "district_id": "127704", "name": "PALOPAT MARIA"}, {"id": "1277042006", "district_id": "127704", "name": "SABUNGAN SIPABANGUN"}, {"id": "1277042007", "district_id": "127704", "name": "SINGALI"}, {"id": "1277042008", "district_id": "127704", "name": "HUTA PADANG"}, {"id": "1277042009", "district_id": "127704", "name": "PARTIHAMAN SAROHA"}, {"id": "1277042010", "district_id": "127704", "name": "TINJOMAN LAMA"}]
+[
+  {
+    "id": "1277041001",
+    "district_id": "127704",
+    "name": "HUTAIMBARU"
+  },
+  {
+    "id": "1277041002",
+    "district_id": "127704",
+    "name": "LUBUK RAYA"
+  },
+  {
+    "id": "1277041003",
+    "district_id": "127704",
+    "name": "SABUNGAN JAE"
+  },
+  {
+    "id": "1277041004",
+    "district_id": "127704",
+    "name": "LEMBAH LUBUK MANIK"
+  },
+  {
+    "id": "1277041005",
+    "district_id": "127704",
+    "name": "PALOPAT MARIA"
+  },
+  {
+    "id": "1277042006",
+    "district_id": "127704",
+    "name": "SABUNGAN SIPABANGUN"
+  },
+  {
+    "id": "1277042007",
+    "district_id": "127704",
+    "name": "SINGALI"
+  },
+  {
+    "id": "1277042008",
+    "district_id": "127704",
+    "name": "HUTA PADANG"
+  },
+  {
+    "id": "1277042009",
+    "district_id": "127704",
+    "name": "PARTIHAMAN SAROHA"
+  },
+  {
+    "id": "1277042010",
+    "district_id": "127704",
+    "name": "TINJOMAN LAMA"
+  }
+]

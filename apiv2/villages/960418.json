@@ -1,1 +1,32 @@
-[{"id": "9604182001", "district_id": "960418", "name": "SYUMBAB"}, {"id": "9604182002", "district_id": "960418", "name": "KRISNOS"}, {"id": "9604182003", "district_id": "960418", "name": "SYUKWES"}, {"id": "9604182004", "district_id": "960418", "name": "SUNGGAK"}, {"id": "9604182005", "district_id": "960418", "name": "WOWOM"}, {"id": "9604182006", "district_id": "960418", "name": "RESYE"}]
+[
+  {
+    "id": "9604182001",
+    "district_id": "960418",
+    "name": "SYUMBAB"
+  },
+  {
+    "id": "9604182002",
+    "district_id": "960418",
+    "name": "KRISNOS"
+  },
+  {
+    "id": "9604182003",
+    "district_id": "960418",
+    "name": "SYUKWES"
+  },
+  {
+    "id": "9604182004",
+    "district_id": "960418",
+    "name": "SUNGGAK"
+  },
+  {
+    "id": "9604182005",
+    "district_id": "960418",
+    "name": "WOWOM"
+  },
+  {
+    "id": "9604182006",
+    "district_id": "960418",
+    "name": "RESYE"
+  }
+]

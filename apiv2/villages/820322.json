@@ -1,1 +1,57 @@
-[{"id": "8203222001", "district_id": "820322", "name": "TIOWOR"}, {"id": "8203222002", "district_id": "820322", "name": "MAKAELING"}, {"id": "8203222003", "district_id": "820322", "name": "TOBANOMA"}, {"id": "8203222004", "district_id": "820322", "name": "BARUMADEHE"}, {"id": "8203222005", "district_id": "820322", "name": "KUNTUM MEKAR"}, {"id": "8203222006", "district_id": "820322", "name": "PASIR PUTIH"}, {"id": "8203222007", "district_id": "820322", "name": "BOBANEIGO"}, {"id": "8203222008", "district_id": "820322", "name": "TETEWANG"}, {"id": "8203222009", "district_id": "820322", "name": "AKELAMO KAO"}, {"id": "8203222010", "district_id": "820322", "name": "GAMSUNGI"}, {"id": "8203222011", "district_id": "820322", "name": "DUM-DUM"}]
+[
+  {
+    "id": "8203222001",
+    "district_id": "820322",
+    "name": "TIOWOR"
+  },
+  {
+    "id": "8203222002",
+    "district_id": "820322",
+    "name": "MAKAELING"
+  },
+  {
+    "id": "8203222003",
+    "district_id": "820322",
+    "name": "TOBANOMA"
+  },
+  {
+    "id": "8203222004",
+    "district_id": "820322",
+    "name": "BARUMADEHE"
+  },
+  {
+    "id": "8203222005",
+    "district_id": "820322",
+    "name": "KUNTUM MEKAR"
+  },
+  {
+    "id": "8203222006",
+    "district_id": "820322",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "8203222007",
+    "district_id": "820322",
+    "name": "BOBANEIGO"
+  },
+  {
+    "id": "8203222008",
+    "district_id": "820322",
+    "name": "TETEWANG"
+  },
+  {
+    "id": "8203222009",
+    "district_id": "820322",
+    "name": "AKELAMO KAO"
+  },
+  {
+    "id": "8203222010",
+    "district_id": "820322",
+    "name": "GAMSUNGI"
+  },
+  {
+    "id": "8203222011",
+    "district_id": "820322",
+    "name": "DUM-DUM"
+  }
+]

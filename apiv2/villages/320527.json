@@ -1,1 +1,42 @@
-[{"id": "3205272001", "district_id": "320527", "name": "PAMEUNGPEUK"}, {"id": "3205272002", "district_id": "320527", "name": "MANCAGAHAR"}, {"id": "3205272003", "district_id": "320527", "name": "PAAS"}, {"id": "3205272004", "district_id": "320527", "name": "MANDALAKASIH"}, {"id": "3205272005", "district_id": "320527", "name": "JATIMULYA"}, {"id": "3205272006", "district_id": "320527", "name": "BOJONG"}, {"id": "3205272007", "district_id": "320527", "name": "SIRNABAKTI"}, {"id": "3205272008", "district_id": "320527", "name": "BOJONG KIDUL"}]
+[
+  {
+    "id": "3205272001",
+    "district_id": "320527",
+    "name": "PAMEUNGPEUK"
+  },
+  {
+    "id": "3205272002",
+    "district_id": "320527",
+    "name": "MANCAGAHAR"
+  },
+  {
+    "id": "3205272003",
+    "district_id": "320527",
+    "name": "PAAS"
+  },
+  {
+    "id": "3205272004",
+    "district_id": "320527",
+    "name": "MANDALAKASIH"
+  },
+  {
+    "id": "3205272005",
+    "district_id": "320527",
+    "name": "JATIMULYA"
+  },
+  {
+    "id": "3205272006",
+    "district_id": "320527",
+    "name": "BOJONG"
+  },
+  {
+    "id": "3205272007",
+    "district_id": "320527",
+    "name": "SIRNABAKTI"
+  },
+  {
+    "id": "3205272008",
+    "district_id": "320527",
+    "name": "BOJONG KIDUL"
+  }
+]

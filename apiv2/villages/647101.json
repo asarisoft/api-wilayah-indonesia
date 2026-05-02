@@ -1,1 +1,22 @@
-[{"id": "6471011001", "district_id": "647101", "name": "MANGGAR"}, {"id": "6471011002", "district_id": "647101", "name": "LAMARU"}, {"id": "6471011003", "district_id": "647101", "name": "TERITIP"}, {"id": "6471011004", "district_id": "647101", "name": "MANGGAR BARU"}]
+[
+  {
+    "id": "6471011001",
+    "district_id": "647101",
+    "name": "MANGGAR"
+  },
+  {
+    "id": "6471011002",
+    "district_id": "647101",
+    "name": "LAMARU"
+  },
+  {
+    "id": "6471011003",
+    "district_id": "647101",
+    "name": "TERITIP"
+  },
+  {
+    "id": "6471011004",
+    "district_id": "647101",
+    "name": "MANGGAR BARU"
+  }
+]

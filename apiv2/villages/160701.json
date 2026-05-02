@@ -1,1 +1,67 @@
-[{"id": "1607011016", "district_id": "160701", "name": "MARIANA"}, {"id": "1607011021", "district_id": "160701", "name": "MARIANA ILIR"}, {"id": "1607012001", "district_id": "160701", "name": "SUNGAI REBO"}, {"id": "1607012002", "district_id": "160701", "name": "SUNGAI GERONG"}, {"id": "1607012003", "district_id": "160701", "name": "MERAH MATA"}, {"id": "1607012004", "district_id": "160701", "name": "PERAJEN"}, {"id": "1607012005", "district_id": "160701", "name": "CINTA MANIS LAMA"}, {"id": "1607012008", "district_id": "160701", "name": "PERAMBAHAN"}, {"id": "1607012011", "district_id": "160701", "name": "PEMATANG PALAS"}, {"id": "1607012012", "district_id": "160701", "name": "TIRTO SARI"}, {"id": "1607012014", "district_id": "160701", "name": "PULAU BORANG"}, {"id": "1607012025", "district_id": "160701", "name": "PERAMBAHAN BARU"}, {"id": "1607012028", "district_id": "160701", "name": "DUREN IJO"}]
+[
+  {
+    "id": "1607011016",
+    "district_id": "160701",
+    "name": "MARIANA"
+  },
+  {
+    "id": "1607011021",
+    "district_id": "160701",
+    "name": "MARIANA ILIR"
+  },
+  {
+    "id": "1607012001",
+    "district_id": "160701",
+    "name": "SUNGAI REBO"
+  },
+  {
+    "id": "1607012002",
+    "district_id": "160701",
+    "name": "SUNGAI GERONG"
+  },
+  {
+    "id": "1607012003",
+    "district_id": "160701",
+    "name": "MERAH MATA"
+  },
+  {
+    "id": "1607012004",
+    "district_id": "160701",
+    "name": "PERAJEN"
+  },
+  {
+    "id": "1607012005",
+    "district_id": "160701",
+    "name": "CINTA MANIS LAMA"
+  },
+  {
+    "id": "1607012008",
+    "district_id": "160701",
+    "name": "PERAMBAHAN"
+  },
+  {
+    "id": "1607012011",
+    "district_id": "160701",
+    "name": "PEMATANG PALAS"
+  },
+  {
+    "id": "1607012012",
+    "district_id": "160701",
+    "name": "TIRTO SARI"
+  },
+  {
+    "id": "1607012014",
+    "district_id": "160701",
+    "name": "PULAU BORANG"
+  },
+  {
+    "id": "1607012025",
+    "district_id": "160701",
+    "name": "PERAMBAHAN BARU"
+  },
+  {
+    "id": "1607012028",
+    "district_id": "160701",
+    "name": "DUREN IJO"
+  }
+]

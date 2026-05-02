@@ -1,1 +1,62 @@
-[{"id": "6502072001", "district_id": "650207", "name": "KALIAMOK"}, {"id": "6502072002", "district_id": "650207", "name": "LUSO"}, {"id": "6502072003", "district_id": "650207", "name": "MALINAU SEBERANG"}, {"id": "6502072004", "district_id": "650207", "name": "PUTAT"}, {"id": "6502072005", "district_id": "650207", "name": "SALAP"}, {"id": "6502072006", "district_id": "650207", "name": "SERUYUNG"}, {"id": "6502072007", "district_id": "650207", "name": "RESPEN TUBU"}, {"id": "6502072008", "district_id": "650207", "name": "BELAYAN"}, {"id": "6502072009", "district_id": "650207", "name": "SEMBUAK WAROD"}, {"id": "6502072010", "district_id": "650207", "name": "LUBAK MANIS"}, {"id": "6502072011", "district_id": "650207", "name": "KELAPIS"}, {"id": "6502072012", "district_id": "650207", "name": "SEMENGARIS"}]
+[
+  {
+    "id": "6502072001",
+    "district_id": "650207",
+    "name": "KALIAMOK"
+  },
+  {
+    "id": "6502072002",
+    "district_id": "650207",
+    "name": "LUSO"
+  },
+  {
+    "id": "6502072003",
+    "district_id": "650207",
+    "name": "MALINAU SEBERANG"
+  },
+  {
+    "id": "6502072004",
+    "district_id": "650207",
+    "name": "PUTAT"
+  },
+  {
+    "id": "6502072005",
+    "district_id": "650207",
+    "name": "SALAP"
+  },
+  {
+    "id": "6502072006",
+    "district_id": "650207",
+    "name": "SERUYUNG"
+  },
+  {
+    "id": "6502072007",
+    "district_id": "650207",
+    "name": "RESPEN TUBU"
+  },
+  {
+    "id": "6502072008",
+    "district_id": "650207",
+    "name": "BELAYAN"
+  },
+  {
+    "id": "6502072009",
+    "district_id": "650207",
+    "name": "SEMBUAK WAROD"
+  },
+  {
+    "id": "6502072010",
+    "district_id": "650207",
+    "name": "LUBAK MANIS"
+  },
+  {
+    "id": "6502072011",
+    "district_id": "650207",
+    "name": "KELAPIS"
+  },
+  {
+    "id": "6502072012",
+    "district_id": "650207",
+    "name": "SEMENGARIS"
+  }
+]

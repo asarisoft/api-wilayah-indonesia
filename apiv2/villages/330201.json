@@ -1,1 +1,52 @@
-[{"id": "3302012001", "district_id": "330201", "name": "CIRAHAB"}, {"id": "3302012002", "district_id": "330201", "name": "CANDUK"}, {"id": "3302012003", "district_id": "330201", "name": "PARUNGKAMAL"}, {"id": "3302012004", "district_id": "330201", "name": "BESUKI"}, {"id": "3302012005", "district_id": "330201", "name": "KARANGGAYAM"}, {"id": "3302012006", "district_id": "330201", "name": "CIDORA"}, {"id": "3302012007", "district_id": "330201", "name": "LUMBIR"}, {"id": "3302012008", "district_id": "330201", "name": "DERMAJI"}, {"id": "3302012009", "district_id": "330201", "name": "KEDUNGGEDE"}, {"id": "3302012010", "district_id": "330201", "name": "CINGEBUL"}]
+[
+  {
+    "id": "3302012001",
+    "district_id": "330201",
+    "name": "CIRAHAB"
+  },
+  {
+    "id": "3302012002",
+    "district_id": "330201",
+    "name": "CANDUK"
+  },
+  {
+    "id": "3302012003",
+    "district_id": "330201",
+    "name": "PARUNGKAMAL"
+  },
+  {
+    "id": "3302012004",
+    "district_id": "330201",
+    "name": "BESUKI"
+  },
+  {
+    "id": "3302012005",
+    "district_id": "330201",
+    "name": "KARANGGAYAM"
+  },
+  {
+    "id": "3302012006",
+    "district_id": "330201",
+    "name": "CIDORA"
+  },
+  {
+    "id": "3302012007",
+    "district_id": "330201",
+    "name": "LUMBIR"
+  },
+  {
+    "id": "3302012008",
+    "district_id": "330201",
+    "name": "DERMAJI"
+  },
+  {
+    "id": "3302012009",
+    "district_id": "330201",
+    "name": "KEDUNGGEDE"
+  },
+  {
+    "id": "3302012010",
+    "district_id": "330201",
+    "name": "CINGEBUL"
+  }
+]

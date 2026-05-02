@@ -1,1 +1,57 @@
-[{"id": "6105212001", "district_id": "610521", "name": "AMPAR BEDANG"}, {"id": "6105212002", "district_id": "610521", "name": "TELAGA SATU"}, {"id": "6105212003", "district_id": "610521", "name": "TELAGA DUA"}, {"id": "6105212004", "district_id": "610521", "name": "BINJAI HILIR"}, {"id": "6105212005", "district_id": "610521", "name": "BINJAI HULU"}, {"id": "6105212006", "district_id": "610521", "name": "SUNGAI RISAP"}, {"id": "6105212007", "district_id": "610521", "name": "DAK JAYA"}, {"id": "6105212008", "district_id": "610521", "name": "MENSIKU"}, {"id": "6105212009", "district_id": "610521", "name": "EMPAKA KABIAU RAYA"}, {"id": "6105212010", "district_id": "610521", "name": "SUNGAI RISAP MENSIKU BERSATU"}, {"id": "6105212011", "district_id": "610521", "name": "SIMBA RAYA"}]
+[
+  {
+    "id": "6105212001",
+    "district_id": "610521",
+    "name": "AMPAR BEDANG"
+  },
+  {
+    "id": "6105212002",
+    "district_id": "610521",
+    "name": "TELAGA SATU"
+  },
+  {
+    "id": "6105212003",
+    "district_id": "610521",
+    "name": "TELAGA DUA"
+  },
+  {
+    "id": "6105212004",
+    "district_id": "610521",
+    "name": "BINJAI HILIR"
+  },
+  {
+    "id": "6105212005",
+    "district_id": "610521",
+    "name": "BINJAI HULU"
+  },
+  {
+    "id": "6105212006",
+    "district_id": "610521",
+    "name": "SUNGAI RISAP"
+  },
+  {
+    "id": "6105212007",
+    "district_id": "610521",
+    "name": "DAK JAYA"
+  },
+  {
+    "id": "6105212008",
+    "district_id": "610521",
+    "name": "MENSIKU"
+  },
+  {
+    "id": "6105212009",
+    "district_id": "610521",
+    "name": "EMPAKA KABIAU RAYA"
+  },
+  {
+    "id": "6105212010",
+    "district_id": "610521",
+    "name": "SUNGAI RISAP MENSIKU BERSATU"
+  },
+  {
+    "id": "6105212011",
+    "district_id": "610521",
+    "name": "SIMBA RAYA"
+  }
+]

@@ -1,1 +1,82 @@
-[{"id": "7405172001", "district_id": "740517", "name": "ANDOOLO UTAMA"}, {"id": "7405172002", "district_id": "740517", "name": "ANGGOKOTI"}, {"id": "7405172003", "district_id": "740517", "name": "ASEMBU MULYA"}, {"id": "7405172004", "district_id": "740517", "name": "AWALO"}, {"id": "7405172005", "district_id": "740517", "name": "ADAKA JAYA"}, {"id": "7405172006", "district_id": "740517", "name": "BUKE"}, {"id": "7405172007", "district_id": "740517", "name": "PELANDIA"}, {"id": "7405172008", "district_id": "740517", "name": "PUUDARIA"}, {"id": "7405172009", "district_id": "740517", "name": "RAHAMENDAA"}, {"id": "7405172010", "district_id": "740517", "name": "SILEA JAYA"}, {"id": "7405172011", "district_id": "740517", "name": "TIRTAMARTANI"}, {"id": "7405172012", "district_id": "740517", "name": "TETENGGOLASA"}, {"id": "7405172013", "district_id": "740517", "name": "ADAYU INDAH"}, {"id": "7405172014", "district_id": "740517", "name": "WONUA MAROA"}, {"id": "7405172015", "district_id": "740517", "name": "WULELE JAYA"}, {"id": "7405172016", "district_id": "740517", "name": "RANOOHA LESTARI"}]
+[
+  {
+    "id": "7405172001",
+    "district_id": "740517",
+    "name": "ANDOOLO UTAMA"
+  },
+  {
+    "id": "7405172002",
+    "district_id": "740517",
+    "name": "ANGGOKOTI"
+  },
+  {
+    "id": "7405172003",
+    "district_id": "740517",
+    "name": "ASEMBU MULYA"
+  },
+  {
+    "id": "7405172004",
+    "district_id": "740517",
+    "name": "AWALO"
+  },
+  {
+    "id": "7405172005",
+    "district_id": "740517",
+    "name": "ADAKA JAYA"
+  },
+  {
+    "id": "7405172006",
+    "district_id": "740517",
+    "name": "BUKE"
+  },
+  {
+    "id": "7405172007",
+    "district_id": "740517",
+    "name": "PELANDIA"
+  },
+  {
+    "id": "7405172008",
+    "district_id": "740517",
+    "name": "PUUDARIA"
+  },
+  {
+    "id": "7405172009",
+    "district_id": "740517",
+    "name": "RAHAMENDAA"
+  },
+  {
+    "id": "7405172010",
+    "district_id": "740517",
+    "name": "SILEA JAYA"
+  },
+  {
+    "id": "7405172011",
+    "district_id": "740517",
+    "name": "TIRTAMARTANI"
+  },
+  {
+    "id": "7405172012",
+    "district_id": "740517",
+    "name": "TETENGGOLASA"
+  },
+  {
+    "id": "7405172013",
+    "district_id": "740517",
+    "name": "ADAYU INDAH"
+  },
+  {
+    "id": "7405172014",
+    "district_id": "740517",
+    "name": "WONUA MAROA"
+  },
+  {
+    "id": "7405172015",
+    "district_id": "740517",
+    "name": "WULELE JAYA"
+  },
+  {
+    "id": "7405172016",
+    "district_id": "740517",
+    "name": "RANOOHA LESTARI"
+  }
+]

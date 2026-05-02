@@ -1,1 +1,42 @@
-[{"id": "3206352001", "district_id": "320635", "name": "CONDONG"}, {"id": "3206352002", "district_id": "320635", "name": "BOJONGGAOK"}, {"id": "3206352003", "district_id": "320635", "name": "SINDANGRAJA"}, {"id": "3206352004", "district_id": "320635", "name": "KARANGMULYA"}, {"id": "3206352005", "district_id": "320635", "name": "GERESIK"}, {"id": "3206352006", "district_id": "320635", "name": "KARANGSEMBUNG"}, {"id": "3206352007", "district_id": "320635", "name": "TANJUNGMEKAR"}, {"id": "3206352008", "district_id": "320635", "name": "KARANGRESIK"}]
+[
+  {
+    "id": "3206352001",
+    "district_id": "320635",
+    "name": "CONDONG"
+  },
+  {
+    "id": "3206352002",
+    "district_id": "320635",
+    "name": "BOJONGGAOK"
+  },
+  {
+    "id": "3206352003",
+    "district_id": "320635",
+    "name": "SINDANGRAJA"
+  },
+  {
+    "id": "3206352004",
+    "district_id": "320635",
+    "name": "KARANGMULYA"
+  },
+  {
+    "id": "3206352005",
+    "district_id": "320635",
+    "name": "GERESIK"
+  },
+  {
+    "id": "3206352006",
+    "district_id": "320635",
+    "name": "KARANGSEMBUNG"
+  },
+  {
+    "id": "3206352007",
+    "district_id": "320635",
+    "name": "TANJUNGMEKAR"
+  },
+  {
+    "id": "3206352008",
+    "district_id": "320635",
+    "name": "KARANGRESIK"
+  }
+]

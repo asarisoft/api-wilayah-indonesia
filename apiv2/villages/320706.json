@@ -1,1 +1,57 @@
-[{"id": "3207062001", "district_id": "320706", "name": "SUKAMULYA"}, {"id": "3207062002", "district_id": "320706", "name": "SUKAHURIP"}, {"id": "3207062003", "district_id": "320706", "name": "CIJULANG"}, {"id": "3207062004", "district_id": "320706", "name": "SUKAMAJU"}, {"id": "3207062005", "district_id": "320706", "name": "SUKASETIA"}, {"id": "3207062006", "district_id": "320706", "name": "SUMBERJAYA"}, {"id": "3207062007", "district_id": "320706", "name": "CIHAURBEUTI"}, {"id": "3207062008", "district_id": "320706", "name": "PASIRTAMIANG"}, {"id": "3207062009", "district_id": "320706", "name": "PADAMULYA"}, {"id": "3207062010", "district_id": "320706", "name": "PAMOKOLAN"}, {"id": "3207062011", "district_id": "320706", "name": "SUKAHAJI"}]
+[
+  {
+    "id": "3207062001",
+    "district_id": "320706",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3207062002",
+    "district_id": "320706",
+    "name": "SUKAHURIP"
+  },
+  {
+    "id": "3207062003",
+    "district_id": "320706",
+    "name": "CIJULANG"
+  },
+  {
+    "id": "3207062004",
+    "district_id": "320706",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "3207062005",
+    "district_id": "320706",
+    "name": "SUKASETIA"
+  },
+  {
+    "id": "3207062006",
+    "district_id": "320706",
+    "name": "SUMBERJAYA"
+  },
+  {
+    "id": "3207062007",
+    "district_id": "320706",
+    "name": "CIHAURBEUTI"
+  },
+  {
+    "id": "3207062008",
+    "district_id": "320706",
+    "name": "PASIRTAMIANG"
+  },
+  {
+    "id": "3207062009",
+    "district_id": "320706",
+    "name": "PADAMULYA"
+  },
+  {
+    "id": "3207062010",
+    "district_id": "320706",
+    "name": "PAMOKOLAN"
+  },
+  {
+    "id": "3207062011",
+    "district_id": "320706",
+    "name": "SUKAHAJI"
+  }
+]

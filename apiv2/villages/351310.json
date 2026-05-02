@@ -1,1 +1,87 @@
-[{"id": "3513102001", "district_id": "351310", "name": "RANON"}, {"id": "3513102002", "district_id": "351310", "name": "KEDUNGSUMUR"}, {"id": "3513102003", "district_id": "351310", "name": "GUNGGUNGAN KIDUL"}, {"id": "3513102004", "district_id": "351310", "name": "GUNGGUNGAN LOR"}, {"id": "3513102005", "district_id": "351310", "name": "PETEMON KULON"}, {"id": "3513102006", "district_id": "351310", "name": "PAKUNIRAN"}, {"id": "3513102007", "district_id": "351310", "name": "ALASPANDAN"}, {"id": "3513102008", "district_id": "351310", "name": "SUMBERKEMBAR"}, {"id": "3513102009", "district_id": "351310", "name": "SOGAAN"}, {"id": "3513102010", "district_id": "351310", "name": "GLAGAH"}, {"id": "3513102011", "district_id": "351310", "name": "BUCOR KULON"}, {"id": "3513102012", "district_id": "351310", "name": "BUCOR WETAN"}, {"id": "3513102013", "district_id": "351310", "name": "BIMO"}, {"id": "3513102014", "district_id": "351310", "name": "KERTONEGORO"}, {"id": "3513102015", "district_id": "351310", "name": "GONDOSULI"}, {"id": "3513102016", "district_id": "351310", "name": "KALIDANDAN"}, {"id": "3513102017", "district_id": "351310", "name": "BLIMBING"}]
+[
+  {
+    "id": "3513102001",
+    "district_id": "351310",
+    "name": "RANON"
+  },
+  {
+    "id": "3513102002",
+    "district_id": "351310",
+    "name": "KEDUNGSUMUR"
+  },
+  {
+    "id": "3513102003",
+    "district_id": "351310",
+    "name": "GUNGGUNGAN KIDUL"
+  },
+  {
+    "id": "3513102004",
+    "district_id": "351310",
+    "name": "GUNGGUNGAN LOR"
+  },
+  {
+    "id": "3513102005",
+    "district_id": "351310",
+    "name": "PETEMON KULON"
+  },
+  {
+    "id": "3513102006",
+    "district_id": "351310",
+    "name": "PAKUNIRAN"
+  },
+  {
+    "id": "3513102007",
+    "district_id": "351310",
+    "name": "ALASPANDAN"
+  },
+  {
+    "id": "3513102008",
+    "district_id": "351310",
+    "name": "SUMBERKEMBAR"
+  },
+  {
+    "id": "3513102009",
+    "district_id": "351310",
+    "name": "SOGAAN"
+  },
+  {
+    "id": "3513102010",
+    "district_id": "351310",
+    "name": "GLAGAH"
+  },
+  {
+    "id": "3513102011",
+    "district_id": "351310",
+    "name": "BUCOR KULON"
+  },
+  {
+    "id": "3513102012",
+    "district_id": "351310",
+    "name": "BUCOR WETAN"
+  },
+  {
+    "id": "3513102013",
+    "district_id": "351310",
+    "name": "BIMO"
+  },
+  {
+    "id": "3513102014",
+    "district_id": "351310",
+    "name": "KERTONEGORO"
+  },
+  {
+    "id": "3513102015",
+    "district_id": "351310",
+    "name": "GONDOSULI"
+  },
+  {
+    "id": "3513102016",
+    "district_id": "351310",
+    "name": "KALIDANDAN"
+  },
+  {
+    "id": "3513102017",
+    "district_id": "351310",
+    "name": "BLIMBING"
+  }
+]

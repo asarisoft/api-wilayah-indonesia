@@ -1,1 +1,32 @@
-[{"id": "5321092001", "district_id": "532109", "name": "RAIULUN"}, {"id": "5321092002", "district_id": "532109", "name": "WEMEDA"}, {"id": "5321092003", "district_id": "532109", "name": "KUSA"}, {"id": "5321092004", "district_id": "532109", "name": "NUMPONI"}, {"id": "5321092005", "district_id": "532109", "name": "DIRMA"}, {"id": "5321092006", "district_id": "532109", "name": "SANLEO"}]
+[
+  {
+    "id": "5321092001",
+    "district_id": "532109",
+    "name": "RAIULUN"
+  },
+  {
+    "id": "5321092002",
+    "district_id": "532109",
+    "name": "WEMEDA"
+  },
+  {
+    "id": "5321092003",
+    "district_id": "532109",
+    "name": "KUSA"
+  },
+  {
+    "id": "5321092004",
+    "district_id": "532109",
+    "name": "NUMPONI"
+  },
+  {
+    "id": "5321092005",
+    "district_id": "532109",
+    "name": "DIRMA"
+  },
+  {
+    "id": "5321092006",
+    "district_id": "532109",
+    "name": "SANLEO"
+  }
+]

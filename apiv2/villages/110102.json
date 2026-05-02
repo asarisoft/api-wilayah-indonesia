@@ -1,1 +1,107 @@
-[{"id": "1101022001", "district_id": "110102", "name": "FAJAR HARAPAN"}, {"id": "1101022002", "district_id": "110102", "name": "KRUENG BATEE"}, {"id": "1101022003", "district_id": "110102", "name": "PASI KUALA ASAHAN"}, {"id": "1101022004", "district_id": "110102", "name": "GUNONG PULO"}, {"id": "1101022005", "district_id": "110102", "name": "PULO IE I"}, {"id": "1101022006", "district_id": "110102", "name": "JAMBO MANYANG"}, {"id": "1101022007", "district_id": "110102", "name": "SIMPANG EMPAT"}, {"id": "1101022008", "district_id": "110102", "name": "LIMAU PURUT"}, {"id": "1101022009", "district_id": "110102", "name": "PULO KAMBING"}, {"id": "1101022010", "district_id": "110102", "name": "KAMPUNG PAYA"}, {"id": "1101022011", "district_id": "110102", "name": "KRUENG BATU"}, {"id": "1101022012", "district_id": "110102", "name": "KRUENG KLUET"}, {"id": "1101022013", "district_id": "110102", "name": "ALUR MAS"}, {"id": "1101022014", "district_id": "110102", "name": "KAMPUNG TINGGI"}, {"id": "1101022015", "district_id": "110102", "name": "RUAK"}, {"id": "1101022016", "district_id": "110102", "name": "SIMPANG LHEE"}, {"id": "1101022017", "district_id": "110102", "name": "SUAQ GEURINGGENG"}, {"id": "1101022018", "district_id": "110102", "name": "PASI KUALA BA'U"}, {"id": "1101022019", "district_id": "110102", "name": "KEDAI PADANG"}, {"id": "1101022020", "district_id": "110102", "name": "KOTAFAJAR"}, {"id": "1101022021", "district_id": "110102", "name": "GUNUNG PUDUNG"}]
+[
+  {
+    "id": "1101022001",
+    "district_id": "110102",
+    "name": "FAJAR HARAPAN"
+  },
+  {
+    "id": "1101022002",
+    "district_id": "110102",
+    "name": "KRUENG BATEE"
+  },
+  {
+    "id": "1101022003",
+    "district_id": "110102",
+    "name": "PASI KUALA ASAHAN"
+  },
+  {
+    "id": "1101022004",
+    "district_id": "110102",
+    "name": "GUNONG PULO"
+  },
+  {
+    "id": "1101022005",
+    "district_id": "110102",
+    "name": "PULO IE I"
+  },
+  {
+    "id": "1101022006",
+    "district_id": "110102",
+    "name": "JAMBO MANYANG"
+  },
+  {
+    "id": "1101022007",
+    "district_id": "110102",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "1101022008",
+    "district_id": "110102",
+    "name": "LIMAU PURUT"
+  },
+  {
+    "id": "1101022009",
+    "district_id": "110102",
+    "name": "PULO KAMBING"
+  },
+  {
+    "id": "1101022010",
+    "district_id": "110102",
+    "name": "KAMPUNG PAYA"
+  },
+  {
+    "id": "1101022011",
+    "district_id": "110102",
+    "name": "KRUENG BATU"
+  },
+  {
+    "id": "1101022012",
+    "district_id": "110102",
+    "name": "KRUENG KLUET"
+  },
+  {
+    "id": "1101022013",
+    "district_id": "110102",
+    "name": "ALUR MAS"
+  },
+  {
+    "id": "1101022014",
+    "district_id": "110102",
+    "name": "KAMPUNG TINGGI"
+  },
+  {
+    "id": "1101022015",
+    "district_id": "110102",
+    "name": "RUAK"
+  },
+  {
+    "id": "1101022016",
+    "district_id": "110102",
+    "name": "SIMPANG LHEE"
+  },
+  {
+    "id": "1101022017",
+    "district_id": "110102",
+    "name": "SUAQ GEURINGGENG"
+  },
+  {
+    "id": "1101022018",
+    "district_id": "110102",
+    "name": "PASI KUALA BA'U"
+  },
+  {
+    "id": "1101022019",
+    "district_id": "110102",
+    "name": "KEDAI PADANG"
+  },
+  {
+    "id": "1101022020",
+    "district_id": "110102",
+    "name": "KOTAFAJAR"
+  },
+  {
+    "id": "1101022021",
+    "district_id": "110102",
+    "name": "GUNUNG PUDUNG"
+  }
+]

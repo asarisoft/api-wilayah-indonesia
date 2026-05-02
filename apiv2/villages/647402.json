@@ -1,1 +1,32 @@
-[{"id": "6474021001", "district_id": "647402", "name": "TANJUNG LAUT"}, {"id": "6474021002", "district_id": "647402", "name": "BERBAS TENGAH"}, {"id": "6474021003", "district_id": "647402", "name": "BERBAS PANTAI"}, {"id": "6474021004", "district_id": "647402", "name": "SATIMPO"}, {"id": "6474021005", "district_id": "647402", "name": "BONTANG LESTARI"}, {"id": "6474021006", "district_id": "647402", "name": "TANJUNG LAUT INDAH"}]
+[
+  {
+    "id": "6474021001",
+    "district_id": "647402",
+    "name": "TANJUNG LAUT"
+  },
+  {
+    "id": "6474021002",
+    "district_id": "647402",
+    "name": "BERBAS TENGAH"
+  },
+  {
+    "id": "6474021003",
+    "district_id": "647402",
+    "name": "BERBAS PANTAI"
+  },
+  {
+    "id": "6474021004",
+    "district_id": "647402",
+    "name": "SATIMPO"
+  },
+  {
+    "id": "6474021005",
+    "district_id": "647402",
+    "name": "BONTANG LESTARI"
+  },
+  {
+    "id": "6474021006",
+    "district_id": "647402",
+    "name": "TANJUNG LAUT INDAH"
+  }
+]

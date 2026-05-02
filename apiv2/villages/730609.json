@@ -1,1 +1,37 @@
-[{"id": "7306091001", "district_id": "730609", "name": "SAPAYA"}, {"id": "7306091010", "district_id": "730609", "name": "JE'NEBATU"}, {"id": "7306092002", "district_id": "730609", "name": "BONTOMANAI"}, {"id": "7306092003", "district_id": "730609", "name": "BUAKKANG"}, {"id": "7306092004", "district_id": "730609", "name": "BISSOLORO"}, {"id": "7306092011", "district_id": "730609", "name": "RANNALOE"}, {"id": "7306092012", "district_id": "730609", "name": "MANGEMPANG"}]
+[
+  {
+    "id": "7306091001",
+    "district_id": "730609",
+    "name": "SAPAYA"
+  },
+  {
+    "id": "7306091010",
+    "district_id": "730609",
+    "name": "JE'NEBATU"
+  },
+  {
+    "id": "7306092002",
+    "district_id": "730609",
+    "name": "BONTOMANAI"
+  },
+  {
+    "id": "7306092003",
+    "district_id": "730609",
+    "name": "BUAKKANG"
+  },
+  {
+    "id": "7306092004",
+    "district_id": "730609",
+    "name": "BISSOLORO"
+  },
+  {
+    "id": "7306092011",
+    "district_id": "730609",
+    "name": "RANNALOE"
+  },
+  {
+    "id": "7306092012",
+    "district_id": "730609",
+    "name": "MANGEMPANG"
+  }
+]

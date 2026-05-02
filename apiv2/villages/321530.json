@@ -1,1 +1,52 @@
-[{"id": "3215302001", "district_id": "321530", "name": "KERTAMUKTI"}, {"id": "3215302002", "district_id": "321530", "name": "RAWASARI"}, {"id": "3215302003", "district_id": "321530", "name": "PUSAKAJAYA SELATAN"}, {"id": "3215302004", "district_id": "321530", "name": "CIKANDE"}, {"id": "3215302005", "district_id": "321530", "name": "KOSAMBIBATU"}, {"id": "3215302006", "district_id": "321530", "name": "PUSAKAJAYA UTARA"}, {"id": "3215302007", "district_id": "321530", "name": "SUKARATU"}, {"id": "3215302008", "district_id": "321530", "name": "CIPTAMARGI"}, {"id": "3215302009", "district_id": "321530", "name": "MEKARPOHACI"}, {"id": "3215302010", "district_id": "321530", "name": "TANJUNGSARI"}]
+[
+  {
+    "id": "3215302001",
+    "district_id": "321530",
+    "name": "KERTAMUKTI"
+  },
+  {
+    "id": "3215302002",
+    "district_id": "321530",
+    "name": "RAWASARI"
+  },
+  {
+    "id": "3215302003",
+    "district_id": "321530",
+    "name": "PUSAKAJAYA SELATAN"
+  },
+  {
+    "id": "3215302004",
+    "district_id": "321530",
+    "name": "CIKANDE"
+  },
+  {
+    "id": "3215302005",
+    "district_id": "321530",
+    "name": "KOSAMBIBATU"
+  },
+  {
+    "id": "3215302006",
+    "district_id": "321530",
+    "name": "PUSAKAJAYA UTARA"
+  },
+  {
+    "id": "3215302007",
+    "district_id": "321530",
+    "name": "SUKARATU"
+  },
+  {
+    "id": "3215302008",
+    "district_id": "321530",
+    "name": "CIPTAMARGI"
+  },
+  {
+    "id": "3215302009",
+    "district_id": "321530",
+    "name": "MEKARPOHACI"
+  },
+  {
+    "id": "3215302010",
+    "district_id": "321530",
+    "name": "TANJUNGSARI"
+  }
+]

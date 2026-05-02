@@ -1,1 +1,87 @@
-[{"id": "7409051001", "district_id": "740905", "name": "TINOBU"}, {"id": "7409052006", "district_id": "740905", "name": "ABOLA"}, {"id": "7409052007", "district_id": "740905", "name": "BELALO"}, {"id": "7409052008", "district_id": "740905", "name": "ANDEO"}, {"id": "7409052009", "district_id": "740905", "name": "MATAPILA"}, {"id": "7409052010", "district_id": "740905", "name": "ANDUMOWU"}, {"id": "7409052011", "district_id": "740905", "name": "BASULE"}, {"id": "7409052012", "district_id": "740905", "name": "WAWORAHA"}, {"id": "7409052013", "district_id": "740905", "name": "OTOLE"}, {"id": "7409052016", "district_id": "740905", "name": "WATUKILA"}, {"id": "7409052017", "district_id": "740905", "name": "LAMETONO"}, {"id": "7409052020", "district_id": "740905", "name": "LARODANGGE"}, {"id": "7409052024", "district_id": "740905", "name": "TETELUPAI"}, {"id": "7409052025", "district_id": "740905", "name": "LALOWARU"}, {"id": "7409052026", "district_id": "740905", "name": "MUARA TINOBU"}, {"id": "7409052030", "district_id": "740905", "name": "MAROMBO PANTAI"}, {"id": "7409052031", "district_id": "740905", "name": "TOKOWUTA"}]
+[
+  {
+    "id": "7409051001",
+    "district_id": "740905",
+    "name": "TINOBU"
+  },
+  {
+    "id": "7409052006",
+    "district_id": "740905",
+    "name": "ABOLA"
+  },
+  {
+    "id": "7409052007",
+    "district_id": "740905",
+    "name": "BELALO"
+  },
+  {
+    "id": "7409052008",
+    "district_id": "740905",
+    "name": "ANDEO"
+  },
+  {
+    "id": "7409052009",
+    "district_id": "740905",
+    "name": "MATAPILA"
+  },
+  {
+    "id": "7409052010",
+    "district_id": "740905",
+    "name": "ANDUMOWU"
+  },
+  {
+    "id": "7409052011",
+    "district_id": "740905",
+    "name": "BASULE"
+  },
+  {
+    "id": "7409052012",
+    "district_id": "740905",
+    "name": "WAWORAHA"
+  },
+  {
+    "id": "7409052013",
+    "district_id": "740905",
+    "name": "OTOLE"
+  },
+  {
+    "id": "7409052016",
+    "district_id": "740905",
+    "name": "WATUKILA"
+  },
+  {
+    "id": "7409052017",
+    "district_id": "740905",
+    "name": "LAMETONO"
+  },
+  {
+    "id": "7409052020",
+    "district_id": "740905",
+    "name": "LARODANGGE"
+  },
+  {
+    "id": "7409052024",
+    "district_id": "740905",
+    "name": "TETELUPAI"
+  },
+  {
+    "id": "7409052025",
+    "district_id": "740905",
+    "name": "LALOWARU"
+  },
+  {
+    "id": "7409052026",
+    "district_id": "740905",
+    "name": "MUARA TINOBU"
+  },
+  {
+    "id": "7409052030",
+    "district_id": "740905",
+    "name": "MAROMBO PANTAI"
+  },
+  {
+    "id": "7409052031",
+    "district_id": "740905",
+    "name": "TOKOWUTA"
+  }
+]

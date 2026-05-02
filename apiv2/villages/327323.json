@@ -1,1 +1,22 @@
-[{"id": "3273231001", "district_id": "327323", "name": "CIPAMOKOLAN"}, {"id": "3273231002", "district_id": "327323", "name": "DERWATI"}, {"id": "3273231003", "district_id": "327323", "name": "MANJAHLEGA"}, {"id": "3273231004", "district_id": "327323", "name": "MEKAR JAYA"}]
+[
+  {
+    "id": "3273231001",
+    "district_id": "327323",
+    "name": "CIPAMOKOLAN"
+  },
+  {
+    "id": "3273231002",
+    "district_id": "327323",
+    "name": "DERWATI"
+  },
+  {
+    "id": "3273231003",
+    "district_id": "327323",
+    "name": "MANJAHLEGA"
+  },
+  {
+    "id": "3273231004",
+    "district_id": "327323",
+    "name": "MEKAR JAYA"
+  }
+]

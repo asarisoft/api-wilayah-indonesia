@@ -1,1 +1,27 @@
-[{"id": "2104112001", "district_id": "210411", "name": "BENAN"}, {"id": "2104112002", "district_id": "210411", "name": "MENSANAK"}, {"id": "2104112003", "district_id": "210411", "name": "PULAU BUKIT"}, {"id": "2104112004", "district_id": "210411", "name": "PULAU DUYUNG"}, {"id": "2104112005", "district_id": "210411", "name": "PULAU MEDANG"}]
+[
+  {
+    "id": "2104112001",
+    "district_id": "210411",
+    "name": "BENAN"
+  },
+  {
+    "id": "2104112002",
+    "district_id": "210411",
+    "name": "MENSANAK"
+  },
+  {
+    "id": "2104112003",
+    "district_id": "210411",
+    "name": "PULAU BUKIT"
+  },
+  {
+    "id": "2104112004",
+    "district_id": "210411",
+    "name": "PULAU DUYUNG"
+  },
+  {
+    "id": "2104112005",
+    "district_id": "210411",
+    "name": "PULAU MEDANG"
+  }
+]

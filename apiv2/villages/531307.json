@@ -1,1 +1,102 @@
-[{"id": "5313072001", "district_id": "531307", "name": "PANAMA"}, {"id": "5313072002", "district_id": "531307", "name": "BENIHADING"}, {"id": "5313072003", "district_id": "531307", "name": "ATULALENG"}, {"id": "5313072004", "district_id": "531307", "name": "ROHO"}, {"id": "5313072005", "district_id": "531307", "name": "LOYOBOHOR"}, {"id": "5313072006", "district_id": "531307", "name": "LEUBURI"}, {"id": "5313072007", "district_id": "531307", "name": "KAOHUA"}, {"id": "5313072008", "district_id": "531307", "name": "KALIKUR WL"}, {"id": "5313072009", "district_id": "531307", "name": "UMALEU"}, {"id": "5313072010", "district_id": "531307", "name": "BURIWUTUNG"}, {"id": "5313072011", "district_id": "531307", "name": "MAMPIR"}, {"id": "5313072012", "district_id": "531307", "name": "LEUWOHUNG"}, {"id": "5313072013", "district_id": "531307", "name": "BARENG"}, {"id": "5313072014", "district_id": "531307", "name": "KALIKUR"}, {"id": "5313072015", "district_id": "531307", "name": "BEAN"}, {"id": "5313072016", "district_id": "531307", "name": "BENIHADING II"}, {"id": "5313072017", "district_id": "531307", "name": "TOBOTANI"}, {"id": "5313072018", "district_id": "531307", "name": "TUBUNG WALANG"}, {"id": "5313072019", "district_id": "531307", "name": "RUMANG"}, {"id": "5313072020", "district_id": "531307", "name": "ATU' WALUPANG"}]
+[
+  {
+    "id": "5313072001",
+    "district_id": "531307",
+    "name": "PANAMA"
+  },
+  {
+    "id": "5313072002",
+    "district_id": "531307",
+    "name": "BENIHADING"
+  },
+  {
+    "id": "5313072003",
+    "district_id": "531307",
+    "name": "ATULALENG"
+  },
+  {
+    "id": "5313072004",
+    "district_id": "531307",
+    "name": "ROHO"
+  },
+  {
+    "id": "5313072005",
+    "district_id": "531307",
+    "name": "LOYOBOHOR"
+  },
+  {
+    "id": "5313072006",
+    "district_id": "531307",
+    "name": "LEUBURI"
+  },
+  {
+    "id": "5313072007",
+    "district_id": "531307",
+    "name": "KAOHUA"
+  },
+  {
+    "id": "5313072008",
+    "district_id": "531307",
+    "name": "KALIKUR WL"
+  },
+  {
+    "id": "5313072009",
+    "district_id": "531307",
+    "name": "UMALEU"
+  },
+  {
+    "id": "5313072010",
+    "district_id": "531307",
+    "name": "BURIWUTUNG"
+  },
+  {
+    "id": "5313072011",
+    "district_id": "531307",
+    "name": "MAMPIR"
+  },
+  {
+    "id": "5313072012",
+    "district_id": "531307",
+    "name": "LEUWOHUNG"
+  },
+  {
+    "id": "5313072013",
+    "district_id": "531307",
+    "name": "BARENG"
+  },
+  {
+    "id": "5313072014",
+    "district_id": "531307",
+    "name": "KALIKUR"
+  },
+  {
+    "id": "5313072015",
+    "district_id": "531307",
+    "name": "BEAN"
+  },
+  {
+    "id": "5313072016",
+    "district_id": "531307",
+    "name": "BENIHADING II"
+  },
+  {
+    "id": "5313072017",
+    "district_id": "531307",
+    "name": "TOBOTANI"
+  },
+  {
+    "id": "5313072018",
+    "district_id": "531307",
+    "name": "TUBUNG WALANG"
+  },
+  {
+    "id": "5313072019",
+    "district_id": "531307",
+    "name": "RUMANG"
+  },
+  {
+    "id": "5313072020",
+    "district_id": "531307",
+    "name": "ATU' WALUPANG"
+  }
+]

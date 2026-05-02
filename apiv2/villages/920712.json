@@ -1,1 +1,27 @@
-[{"id": "9207122001", "district_id": "920712", "name": "WERABUR"}, {"id": "9207122002", "district_id": "920712", "name": "MAMISI"}, {"id": "9207122003", "district_id": "920712", "name": "WERIANGGI"}, {"id": "9207122004", "district_id": "920712", "name": "KUREI"}, {"id": "9207122005", "district_id": "920712", "name": "TAMOGE"}]
+[
+  {
+    "id": "9207122001",
+    "district_id": "920712",
+    "name": "WERABUR"
+  },
+  {
+    "id": "9207122002",
+    "district_id": "920712",
+    "name": "MAMISI"
+  },
+  {
+    "id": "9207122003",
+    "district_id": "920712",
+    "name": "WERIANGGI"
+  },
+  {
+    "id": "9207122004",
+    "district_id": "920712",
+    "name": "KUREI"
+  },
+  {
+    "id": "9207122005",
+    "district_id": "920712",
+    "name": "TAMOGE"
+  }
+]

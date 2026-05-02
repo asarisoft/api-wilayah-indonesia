@@ -1,1 +1,107 @@
-[{"id": "3524092001", "district_id": "352409", "name": "BESUR"}, {"id": "3524092002", "district_id": "352409", "name": "TITIK"}, {"id": "3524092003", "district_id": "352409", "name": "KENDAL"}, {"id": "3524092004", "district_id": "352409", "name": "KETING"}, {"id": "3524092005", "district_id": "352409", "name": "NGARUM"}, {"id": "3524092006", "district_id": "352409", "name": "KEBALANKULON"}, {"id": "3524092007", "district_id": "352409", "name": "KUDIKAN"}, {"id": "3524092008", "district_id": "352409", "name": "JUGO"}, {"id": "3524092009", "district_id": "352409", "name": "MANYAR"}, {"id": "3524092010", "district_id": "352409", "name": "TROSONO"}, {"id": "3524092011", "district_id": "352409", "name": "LATEK"}, {"id": "3524092012", "district_id": "352409", "name": "MIRU"}, {"id": "3524092013", "district_id": "352409", "name": "SEKARAN"}, {"id": "3524092014", "district_id": "352409", "name": "MORO"}, {"id": "3524092015", "district_id": "352409", "name": "KARANG"}, {"id": "3524092016", "district_id": "352409", "name": "KEMBANGAN"}, {"id": "3524092017", "district_id": "352409", "name": "SIMAN"}, {"id": "3524092018", "district_id": "352409", "name": "BULUTENGGER"}, {"id": "3524092019", "district_id": "352409", "name": "PORODESO"}, {"id": "3524092020", "district_id": "352409", "name": "BUGEL"}, {"id": "3524092021", "district_id": "352409", "name": "SUNGEGENENG"}]
+[
+  {
+    "id": "3524092001",
+    "district_id": "352409",
+    "name": "BESUR"
+  },
+  {
+    "id": "3524092002",
+    "district_id": "352409",
+    "name": "TITIK"
+  },
+  {
+    "id": "3524092003",
+    "district_id": "352409",
+    "name": "KENDAL"
+  },
+  {
+    "id": "3524092004",
+    "district_id": "352409",
+    "name": "KETING"
+  },
+  {
+    "id": "3524092005",
+    "district_id": "352409",
+    "name": "NGARUM"
+  },
+  {
+    "id": "3524092006",
+    "district_id": "352409",
+    "name": "KEBALANKULON"
+  },
+  {
+    "id": "3524092007",
+    "district_id": "352409",
+    "name": "KUDIKAN"
+  },
+  {
+    "id": "3524092008",
+    "district_id": "352409",
+    "name": "JUGO"
+  },
+  {
+    "id": "3524092009",
+    "district_id": "352409",
+    "name": "MANYAR"
+  },
+  {
+    "id": "3524092010",
+    "district_id": "352409",
+    "name": "TROSONO"
+  },
+  {
+    "id": "3524092011",
+    "district_id": "352409",
+    "name": "LATEK"
+  },
+  {
+    "id": "3524092012",
+    "district_id": "352409",
+    "name": "MIRU"
+  },
+  {
+    "id": "3524092013",
+    "district_id": "352409",
+    "name": "SEKARAN"
+  },
+  {
+    "id": "3524092014",
+    "district_id": "352409",
+    "name": "MORO"
+  },
+  {
+    "id": "3524092015",
+    "district_id": "352409",
+    "name": "KARANG"
+  },
+  {
+    "id": "3524092016",
+    "district_id": "352409",
+    "name": "KEMBANGAN"
+  },
+  {
+    "id": "3524092017",
+    "district_id": "352409",
+    "name": "SIMAN"
+  },
+  {
+    "id": "3524092018",
+    "district_id": "352409",
+    "name": "BULUTENGGER"
+  },
+  {
+    "id": "3524092019",
+    "district_id": "352409",
+    "name": "PORODESO"
+  },
+  {
+    "id": "3524092020",
+    "district_id": "352409",
+    "name": "BUGEL"
+  },
+  {
+    "id": "3524092021",
+    "district_id": "352409",
+    "name": "SUNGEGENENG"
+  }
+]

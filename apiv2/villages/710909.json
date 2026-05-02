@@ -1,1 +1,22 @@
-[{"id": "7109092001", "district_id": "710909", "name": "SALILI"}, {"id": "7109092002", "district_id": "710909", "name": "BEONG"}, {"id": "7109092003", "district_id": "710909", "name": "LAI"}, {"id": "7109092004", "district_id": "710909", "name": "DOMPASE"}]
+[
+  {
+    "id": "7109092001",
+    "district_id": "710909",
+    "name": "SALILI"
+  },
+  {
+    "id": "7109092002",
+    "district_id": "710909",
+    "name": "BEONG"
+  },
+  {
+    "id": "7109092003",
+    "district_id": "710909",
+    "name": "LAI"
+  },
+  {
+    "id": "7109092004",
+    "district_id": "710909",
+    "name": "DOMPASE"
+  }
+]

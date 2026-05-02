@@ -1,1 +1,37 @@
-[{"id": "1272031001", "district_id": "127203", "name": "MELAYU"}, {"id": "1272031002", "district_id": "127203", "name": "MARTOBA"}, {"id": "1272031003", "district_id": "127203", "name": "BARU"}, {"id": "1272031004", "district_id": "127203", "name": "SUKADAME"}, {"id": "1272031005", "district_id": "127203", "name": "KAHEAN"}, {"id": "1272031006", "district_id": "127203", "name": "SIGULANGGULANG"}, {"id": "1272031007", "district_id": "127203", "name": "BANE"}]
+[
+  {
+    "id": "1272031001",
+    "district_id": "127203",
+    "name": "MELAYU"
+  },
+  {
+    "id": "1272031002",
+    "district_id": "127203",
+    "name": "MARTOBA"
+  },
+  {
+    "id": "1272031003",
+    "district_id": "127203",
+    "name": "BARU"
+  },
+  {
+    "id": "1272031004",
+    "district_id": "127203",
+    "name": "SUKADAME"
+  },
+  {
+    "id": "1272031005",
+    "district_id": "127203",
+    "name": "KAHEAN"
+  },
+  {
+    "id": "1272031006",
+    "district_id": "127203",
+    "name": "SIGULANGGULANG"
+  },
+  {
+    "id": "1272031007",
+    "district_id": "127203",
+    "name": "BANE"
+  }
+]

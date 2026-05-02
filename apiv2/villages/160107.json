@@ -1,1 +1,57 @@
-[{"id": "1601072001", "district_id": "160107", "name": "NEGERI SINDANG"}, {"id": "1601072002", "district_id": "160107", "name": "RANTAU KUMPAI"}, {"id": "1601072003", "district_id": "160107", "name": "LUBUK BARU"}, {"id": "1601072004", "district_id": "160107", "name": "KUNGKILAN"}, {"id": "1601072005", "district_id": "160107", "name": "PENYANDINGAN"}, {"id": "1601072006", "district_id": "160107", "name": "BANDAR"}, {"id": "1601072007", "district_id": "160107", "name": "LUBUK LEBAN"}, {"id": "1601072008", "district_id": "160107", "name": "TUNGKU JAYA"}, {"id": "1601072009", "district_id": "160107", "name": "MEKAR SARI"}, {"id": "1601072010", "district_id": "160107", "name": "MEKAR JAYA"}, {"id": "1601072011", "district_id": "160107", "name": "PENANTIAN"}]
+[
+  {
+    "id": "1601072001",
+    "district_id": "160107",
+    "name": "NEGERI SINDANG"
+  },
+  {
+    "id": "1601072002",
+    "district_id": "160107",
+    "name": "RANTAU KUMPAI"
+  },
+  {
+    "id": "1601072003",
+    "district_id": "160107",
+    "name": "LUBUK BARU"
+  },
+  {
+    "id": "1601072004",
+    "district_id": "160107",
+    "name": "KUNGKILAN"
+  },
+  {
+    "id": "1601072005",
+    "district_id": "160107",
+    "name": "PENYANDINGAN"
+  },
+  {
+    "id": "1601072006",
+    "district_id": "160107",
+    "name": "BANDAR"
+  },
+  {
+    "id": "1601072007",
+    "district_id": "160107",
+    "name": "LUBUK LEBAN"
+  },
+  {
+    "id": "1601072008",
+    "district_id": "160107",
+    "name": "TUNGKU JAYA"
+  },
+  {
+    "id": "1601072009",
+    "district_id": "160107",
+    "name": "MEKAR SARI"
+  },
+  {
+    "id": "1601072010",
+    "district_id": "160107",
+    "name": "MEKAR JAYA"
+  },
+  {
+    "id": "1601072011",
+    "district_id": "160107",
+    "name": "PENANTIAN"
+  }
+]

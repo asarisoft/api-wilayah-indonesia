@@ -1,1 +1,32 @@
-[{"id": "7104162001", "district_id": "710416", "name": "TULE"}, {"id": "7104162002", "district_id": "710416", "name": "TULE TENGAH"}, {"id": "7104162003", "district_id": "710416", "name": "TULE UTARA"}, {"id": "7104162004", "district_id": "710416", "name": "BOWOMBARU"}, {"id": "7104162005", "district_id": "710416", "name": "BOWOMBARU TENGAH"}, {"id": "7104162006", "district_id": "710416", "name": "BOWOMBARU UTARA"}]
+[
+  {
+    "id": "7104162001",
+    "district_id": "710416",
+    "name": "TULE"
+  },
+  {
+    "id": "7104162002",
+    "district_id": "710416",
+    "name": "TULE TENGAH"
+  },
+  {
+    "id": "7104162003",
+    "district_id": "710416",
+    "name": "TULE UTARA"
+  },
+  {
+    "id": "7104162004",
+    "district_id": "710416",
+    "name": "BOWOMBARU"
+  },
+  {
+    "id": "7104162005",
+    "district_id": "710416",
+    "name": "BOWOMBARU TENGAH"
+  },
+  {
+    "id": "7104162006",
+    "district_id": "710416",
+    "name": "BOWOMBARU UTARA"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id": "9301022001", "district_id": "930102", "name": "MUTING"}, {"id": "9301022002", "district_id": "930102", "name": "BOHA"}, {"id": "9301022003", "district_id": "930102", "name": "WAN"}, {"id": "9301022004", "district_id": "930102", "name": "KOLAM"}, {"id": "9301022005", "district_id": "930102", "name": "SELAUW"}, {"id": "9301022006", "district_id": "930102", "name": "PACHAS"}, {"id": "9301022007", "district_id": "930102", "name": "SEED AGUNG"}, {"id": "9301022008", "district_id": "930102", "name": "ENGGOL JAYA"}, {"id": "9301022009", "district_id": "930102", "name": "MANWAY BOP"}, {"id": "9301022010", "district_id": "930102", "name": "AFKAB MAKMUR"}, {"id": "9301022011", "district_id": "930102", "name": "SIGABEL JAYA"}, {"id": "9301022012", "district_id": "930102", "name": "ANDAITO"}]
+[
+  {
+    "id": "9301022001",
+    "district_id": "930102",
+    "name": "MUTING"
+  },
+  {
+    "id": "9301022002",
+    "district_id": "930102",
+    "name": "BOHA"
+  },
+  {
+    "id": "9301022003",
+    "district_id": "930102",
+    "name": "WAN"
+  },
+  {
+    "id": "9301022004",
+    "district_id": "930102",
+    "name": "KOLAM"
+  },
+  {
+    "id": "9301022005",
+    "district_id": "930102",
+    "name": "SELAUW"
+  },
+  {
+    "id": "9301022006",
+    "district_id": "930102",
+    "name": "PACHAS"
+  },
+  {
+    "id": "9301022007",
+    "district_id": "930102",
+    "name": "SEED AGUNG"
+  },
+  {
+    "id": "9301022008",
+    "district_id": "930102",
+    "name": "ENGGOL JAYA"
+  },
+  {
+    "id": "9301022009",
+    "district_id": "930102",
+    "name": "MANWAY BOP"
+  },
+  {
+    "id": "9301022010",
+    "district_id": "930102",
+    "name": "AFKAB MAKMUR"
+  },
+  {
+    "id": "9301022011",
+    "district_id": "930102",
+    "name": "SIGABEL JAYA"
+  },
+  {
+    "id": "9301022012",
+    "district_id": "930102",
+    "name": "ANDAITO"
+  }
+]

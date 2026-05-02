@@ -1,1 +1,42 @@
-[{"id": "7308221001", "district_id": "730822", "name": "MACEGE"}, {"id": "7308221002", "district_id": "730822", "name": "MATIRRO WALIE"}, {"id": "7308221003", "district_id": "730822", "name": "MACANANG"}, {"id": "7308221004", "district_id": "730822", "name": "MAJANG"}, {"id": "7308221005", "district_id": "730822", "name": "BULU TEMPE"}, {"id": "7308221006", "district_id": "730822", "name": "JEPPEE"}, {"id": "7308221007", "district_id": "730822", "name": "POLEWALI"}, {"id": "7308221008", "district_id": "730822", "name": "WATANG PALAKKA"}]
+[
+  {
+    "id": "7308221001",
+    "district_id": "730822",
+    "name": "MACEGE"
+  },
+  {
+    "id": "7308221002",
+    "district_id": "730822",
+    "name": "MATIRRO WALIE"
+  },
+  {
+    "id": "7308221003",
+    "district_id": "730822",
+    "name": "MACANANG"
+  },
+  {
+    "id": "7308221004",
+    "district_id": "730822",
+    "name": "MAJANG"
+  },
+  {
+    "id": "7308221005",
+    "district_id": "730822",
+    "name": "BULU TEMPE"
+  },
+  {
+    "id": "7308221006",
+    "district_id": "730822",
+    "name": "JEPPEE"
+  },
+  {
+    "id": "7308221007",
+    "district_id": "730822",
+    "name": "POLEWALI"
+  },
+  {
+    "id": "7308221008",
+    "district_id": "730822",
+    "name": "WATANG PALAKKA"
+  }
+]

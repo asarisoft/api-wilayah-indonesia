@@ -1,1 +1,27 @@
-[{"id": "1771021001", "district_id": "177102", "name": "PADANG HARAPAN"}, {"id": "1771021002", "district_id": "177102", "name": "JALAN GEDANG"}, {"id": "1771021021", "district_id": "177102", "name": "SIDOMULYO"}, {"id": "1771021024", "district_id": "177102", "name": "LINGKAR BARAT"}, {"id": "1771021027", "district_id": "177102", "name": "CEMPAKA PERMAI"}]
+[
+  {
+    "id": "1771021001",
+    "district_id": "177102",
+    "name": "PADANG HARAPAN"
+  },
+  {
+    "id": "1771021002",
+    "district_id": "177102",
+    "name": "JALAN GEDANG"
+  },
+  {
+    "id": "1771021021",
+    "district_id": "177102",
+    "name": "SIDOMULYO"
+  },
+  {
+    "id": "1771021024",
+    "district_id": "177102",
+    "name": "LINGKAR BARAT"
+  },
+  {
+    "id": "1771021027",
+    "district_id": "177102",
+    "name": "CEMPAKA PERMAI"
+  }
+]

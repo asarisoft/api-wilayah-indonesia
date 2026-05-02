@@ -1,1 +1,132 @@
-[{"id": "6103011001", "district_id": "610301", "name": "TANJUNG KAPUAS"}, {"id": "6103011002", "district_id": "610301", "name": "TANJUNG SEKAYAM"}, {"id": "6103011003", "district_id": "610301", "name": "SUNGAI SENGKUANG"}, {"id": "6103011004", "district_id": "610301", "name": "ILIR KOTA"}, {"id": "6103011005", "district_id": "610301", "name": "BERINGIN"}, {"id": "6103011006", "district_id": "610301", "name": "BUNUT"}, {"id": "6103012007", "district_id": "610301", "name": "PENYELADI"}, {"id": "6103012008", "district_id": "610301", "name": "NANGA BIANG"}, {"id": "6103012009", "district_id": "610301", "name": "RAMBIN"}, {"id": "6103012010", "district_id": "610301", "name": "ENTAKAI"}, {"id": "6103012011", "district_id": "610301", "name": "PANA"}, {"id": "6103012012", "district_id": "610301", "name": "MENGKIANG"}, {"id": "6103012013", "district_id": "610301", "name": "KAMBONG"}, {"id": "6103012014", "district_id": "610301", "name": "SUNGAI MAWANG"}, {"id": "6103012015", "district_id": "610301", "name": "LAPE"}, {"id": "6103012016", "district_id": "610301", "name": "PENYALIMAU"}, {"id": "6103012017", "district_id": "610301", "name": "SUNGAI ALAI"}, {"id": "6103012018", "district_id": "610301", "name": "SEMERANGKAI"}, {"id": "6103012019", "district_id": "610301", "name": "SUNGAI BATU"}, {"id": "6103012020", "district_id": "610301", "name": "SUNGAI MUNTIK"}, {"id": "6103012021", "district_id": "610301", "name": "LINTANG KAPUAS"}, {"id": "6103012022", "district_id": "610301", "name": "LINTANG PELAMAN"}, {"id": "6103012023", "district_id": "610301", "name": "BELANGIN"}, {"id": "6103012024", "district_id": "610301", "name": "PENYALIMAU JAYA"}, {"id": "6103012025", "district_id": "610301", "name": "TAPANG DULANG"}, {"id": "6103012026", "district_id": "610301", "name": "BOTUH LINTANG"}]
+[
+  {
+    "id": "6103011001",
+    "district_id": "610301",
+    "name": "TANJUNG KAPUAS"
+  },
+  {
+    "id": "6103011002",
+    "district_id": "610301",
+    "name": "TANJUNG SEKAYAM"
+  },
+  {
+    "id": "6103011003",
+    "district_id": "610301",
+    "name": "SUNGAI SENGKUANG"
+  },
+  {
+    "id": "6103011004",
+    "district_id": "610301",
+    "name": "ILIR KOTA"
+  },
+  {
+    "id": "6103011005",
+    "district_id": "610301",
+    "name": "BERINGIN"
+  },
+  {
+    "id": "6103011006",
+    "district_id": "610301",
+    "name": "BUNUT"
+  },
+  {
+    "id": "6103012007",
+    "district_id": "610301",
+    "name": "PENYELADI"
+  },
+  {
+    "id": "6103012008",
+    "district_id": "610301",
+    "name": "NANGA BIANG"
+  },
+  {
+    "id": "6103012009",
+    "district_id": "610301",
+    "name": "RAMBIN"
+  },
+  {
+    "id": "6103012010",
+    "district_id": "610301",
+    "name": "ENTAKAI"
+  },
+  {
+    "id": "6103012011",
+    "district_id": "610301",
+    "name": "PANA"
+  },
+  {
+    "id": "6103012012",
+    "district_id": "610301",
+    "name": "MENGKIANG"
+  },
+  {
+    "id": "6103012013",
+    "district_id": "610301",
+    "name": "KAMBONG"
+  },
+  {
+    "id": "6103012014",
+    "district_id": "610301",
+    "name": "SUNGAI MAWANG"
+  },
+  {
+    "id": "6103012015",
+    "district_id": "610301",
+    "name": "LAPE"
+  },
+  {
+    "id": "6103012016",
+    "district_id": "610301",
+    "name": "PENYALIMAU"
+  },
+  {
+    "id": "6103012017",
+    "district_id": "610301",
+    "name": "SUNGAI ALAI"
+  },
+  {
+    "id": "6103012018",
+    "district_id": "610301",
+    "name": "SEMERANGKAI"
+  },
+  {
+    "id": "6103012019",
+    "district_id": "610301",
+    "name": "SUNGAI BATU"
+  },
+  {
+    "id": "6103012020",
+    "district_id": "610301",
+    "name": "SUNGAI MUNTIK"
+  },
+  {
+    "id": "6103012021",
+    "district_id": "610301",
+    "name": "LINTANG KAPUAS"
+  },
+  {
+    "id": "6103012022",
+    "district_id": "610301",
+    "name": "LINTANG PELAMAN"
+  },
+  {
+    "id": "6103012023",
+    "district_id": "610301",
+    "name": "BELANGIN"
+  },
+  {
+    "id": "6103012024",
+    "district_id": "610301",
+    "name": "PENYALIMAU JAYA"
+  },
+  {
+    "id": "6103012025",
+    "district_id": "610301",
+    "name": "TAPANG DULANG"
+  },
+  {
+    "id": "6103012026",
+    "district_id": "610301",
+    "name": "BOTUH LINTANG"
+  }
+]

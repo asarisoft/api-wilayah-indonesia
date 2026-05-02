@@ -1,1 +1,22 @@
-[{"id": "1306012001", "district_id": "130601", "name": "TIKU SELATAN"}, {"id": "1306012002", "district_id": "130601", "name": "TIKU UTARA"}, {"id": "1306012003", "district_id": "130601", "name": "TIKU LIMO JORONG"}, {"id": "1306012004", "district_id": "130601", "name": "DURIAN KAPEH DARUSSALAM"}]
+[
+  {
+    "id": "1306012001",
+    "district_id": "130601",
+    "name": "TIKU SELATAN"
+  },
+  {
+    "id": "1306012002",
+    "district_id": "130601",
+    "name": "TIKU UTARA"
+  },
+  {
+    "id": "1306012003",
+    "district_id": "130601",
+    "name": "TIKU LIMO JORONG"
+  },
+  {
+    "id": "1306012004",
+    "district_id": "130601",
+    "name": "DURIAN KAPEH DARUSSALAM"
+  }
+]

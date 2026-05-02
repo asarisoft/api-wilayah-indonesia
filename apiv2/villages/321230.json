@@ -1,1 +1,67 @@
-[{"id": "3212302001", "district_id": "321230", "name": "BODAS"}, {"id": "3212302002", "district_id": "321230", "name": "GADEL"}, {"id": "3212302003", "district_id": "321230", "name": "RANCAJAWAT"}, {"id": "3212302004", "district_id": "321230", "name": "KERTICALA"}, {"id": "3212302005", "district_id": "321230", "name": "CANGKO"}, {"id": "3212302006", "district_id": "321230", "name": "KARANGKERTA"}, {"id": "3212302007", "district_id": "321230", "name": "SUKAMULYA"}, {"id": "3212302008", "district_id": "321230", "name": "MEKARSARI"}, {"id": "3212302009", "district_id": "321230", "name": "LAJER"}, {"id": "3212302010", "district_id": "321230", "name": "TUKDANA"}, {"id": "3212302011", "district_id": "321230", "name": "SUKADANA"}, {"id": "3212302012", "district_id": "321230", "name": "PAGEDANGAN"}, {"id": "3212302013", "district_id": "321230", "name": "SUKAPERNA"}]
+[
+  {
+    "id": "3212302001",
+    "district_id": "321230",
+    "name": "BODAS"
+  },
+  {
+    "id": "3212302002",
+    "district_id": "321230",
+    "name": "GADEL"
+  },
+  {
+    "id": "3212302003",
+    "district_id": "321230",
+    "name": "RANCAJAWAT"
+  },
+  {
+    "id": "3212302004",
+    "district_id": "321230",
+    "name": "KERTICALA"
+  },
+  {
+    "id": "3212302005",
+    "district_id": "321230",
+    "name": "CANGKO"
+  },
+  {
+    "id": "3212302006",
+    "district_id": "321230",
+    "name": "KARANGKERTA"
+  },
+  {
+    "id": "3212302007",
+    "district_id": "321230",
+    "name": "SUKAMULYA"
+  },
+  {
+    "id": "3212302008",
+    "district_id": "321230",
+    "name": "MEKARSARI"
+  },
+  {
+    "id": "3212302009",
+    "district_id": "321230",
+    "name": "LAJER"
+  },
+  {
+    "id": "3212302010",
+    "district_id": "321230",
+    "name": "TUKDANA"
+  },
+  {
+    "id": "3212302011",
+    "district_id": "321230",
+    "name": "SUKADANA"
+  },
+  {
+    "id": "3212302012",
+    "district_id": "321230",
+    "name": "PAGEDANGAN"
+  },
+  {
+    "id": "3212302013",
+    "district_id": "321230",
+    "name": "SUKAPERNA"
+  }
+]

@@ -1,1 +1,67 @@
-[{"id": "1709072001", "district_id": "170907", "name": "JAMBU"}, {"id": "1709072002", "district_id": "170907", "name": "PENEMBANG"}, {"id": "1709072003", "district_id": "170907", "name": "TALANG AMBUNG"}, {"id": "1709072004", "district_id": "170907", "name": "TABA DURIAN SEBAKUL"}, {"id": "1709072005", "district_id": "170907", "name": "LUBUK UNEN"}, {"id": "1709072006", "district_id": "170907", "name": "PUNGGUK KETUPAK"}, {"id": "1709072007", "district_id": "170907", "name": "PUNGGUK BERINGIN"}, {"id": "1709072008", "district_id": "170907", "name": "ULAK LEBAR"}, {"id": "1709072009", "district_id": "170907", "name": "KELINDANG"}, {"id": "1709072010", "district_id": "170907", "name": "BAJAK II"}, {"id": "1709072011", "district_id": "170907", "name": "LUBUK UNEN BARU"}, {"id": "1709072012", "district_id": "170907", "name": "PADANG KEDEPER"}, {"id": "1709072013", "district_id": "170907", "name": "KELINDANG ATAS"}]
+[
+  {
+    "id": "1709072001",
+    "district_id": "170907",
+    "name": "JAMBU"
+  },
+  {
+    "id": "1709072002",
+    "district_id": "170907",
+    "name": "PENEMBANG"
+  },
+  {
+    "id": "1709072003",
+    "district_id": "170907",
+    "name": "TALANG AMBUNG"
+  },
+  {
+    "id": "1709072004",
+    "district_id": "170907",
+    "name": "TABA DURIAN SEBAKUL"
+  },
+  {
+    "id": "1709072005",
+    "district_id": "170907",
+    "name": "LUBUK UNEN"
+  },
+  {
+    "id": "1709072006",
+    "district_id": "170907",
+    "name": "PUNGGUK KETUPAK"
+  },
+  {
+    "id": "1709072007",
+    "district_id": "170907",
+    "name": "PUNGGUK BERINGIN"
+  },
+  {
+    "id": "1709072008",
+    "district_id": "170907",
+    "name": "ULAK LEBAR"
+  },
+  {
+    "id": "1709072009",
+    "district_id": "170907",
+    "name": "KELINDANG"
+  },
+  {
+    "id": "1709072010",
+    "district_id": "170907",
+    "name": "BAJAK II"
+  },
+  {
+    "id": "1709072011",
+    "district_id": "170907",
+    "name": "LUBUK UNEN BARU"
+  },
+  {
+    "id": "1709072012",
+    "district_id": "170907",
+    "name": "PADANG KEDEPER"
+  },
+  {
+    "id": "1709072013",
+    "district_id": "170907",
+    "name": "KELINDANG ATAS"
+  }
+]

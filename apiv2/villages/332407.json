@@ -1,1 +1,92 @@
-[{"id": "3324072001", "district_id": "332407", "name": "MEDONO"}, {"id": "3324072002", "district_id": "332407", "name": "PASIGITAN"}, {"id": "3324072003", "district_id": "332407", "name": "BANJAREJO"}, {"id": "3324072004", "district_id": "332407", "name": "LEBAN"}, {"id": "3324072005", "district_id": "332407", "name": "KLIRIS"}, {"id": "3324072006", "district_id": "332407", "name": "PUGUH"}, {"id": "3324072007", "district_id": "332407", "name": "NGABEAN"}, {"id": "3324072008", "district_id": "332407", "name": "KARANGMANGGIS"}, {"id": "3324072009", "district_id": "332407", "name": "KALIGADING"}, {"id": "3324072010", "district_id": "332407", "name": "PURWOGONDO"}, {"id": "3324072011", "district_id": "332407", "name": "BLIMBING"}, {"id": "3324072012", "district_id": "332407", "name": "SALAMSARI"}, {"id": "3324072013", "district_id": "332407", "name": "TAMPINGAN"}, {"id": "3324072014", "district_id": "332407", "name": "CAMPUREJO"}, {"id": "3324072015", "district_id": "332407", "name": "BOJA"}, {"id": "3324072016", "district_id": "332407", "name": "BEBENGAN"}, {"id": "3324072017", "district_id": "332407", "name": "METESEH"}, {"id": "3324072018", "district_id": "332407", "name": "TRISOBO"}]
+[
+  {
+    "id": "3324072001",
+    "district_id": "332407",
+    "name": "MEDONO"
+  },
+  {
+    "id": "3324072002",
+    "district_id": "332407",
+    "name": "PASIGITAN"
+  },
+  {
+    "id": "3324072003",
+    "district_id": "332407",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "3324072004",
+    "district_id": "332407",
+    "name": "LEBAN"
+  },
+  {
+    "id": "3324072005",
+    "district_id": "332407",
+    "name": "KLIRIS"
+  },
+  {
+    "id": "3324072006",
+    "district_id": "332407",
+    "name": "PUGUH"
+  },
+  {
+    "id": "3324072007",
+    "district_id": "332407",
+    "name": "NGABEAN"
+  },
+  {
+    "id": "3324072008",
+    "district_id": "332407",
+    "name": "KARANGMANGGIS"
+  },
+  {
+    "id": "3324072009",
+    "district_id": "332407",
+    "name": "KALIGADING"
+  },
+  {
+    "id": "3324072010",
+    "district_id": "332407",
+    "name": "PURWOGONDO"
+  },
+  {
+    "id": "3324072011",
+    "district_id": "332407",
+    "name": "BLIMBING"
+  },
+  {
+    "id": "3324072012",
+    "district_id": "332407",
+    "name": "SALAMSARI"
+  },
+  {
+    "id": "3324072013",
+    "district_id": "332407",
+    "name": "TAMPINGAN"
+  },
+  {
+    "id": "3324072014",
+    "district_id": "332407",
+    "name": "CAMPUREJO"
+  },
+  {
+    "id": "3324072015",
+    "district_id": "332407",
+    "name": "BOJA"
+  },
+  {
+    "id": "3324072016",
+    "district_id": "332407",
+    "name": "BEBENGAN"
+  },
+  {
+    "id": "3324072017",
+    "district_id": "332407",
+    "name": "METESEH"
+  },
+  {
+    "id": "3324072018",
+    "district_id": "332407",
+    "name": "TRISOBO"
+  }
+]

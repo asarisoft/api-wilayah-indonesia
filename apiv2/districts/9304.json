@@ -1,1 +1,127 @@
-[{"id": "930401", "regency_id": "9304", "name": "AGATS"}, {"id": "930402", "regency_id": "9304", "name": "ATSJ"}, {"id": "930403", "regency_id": "9304", "name": "SAWA ERMA"}, {"id": "930404", "regency_id": "9304", "name": "AKAT"}, {"id": "930405", "regency_id": "9304", "name": "FAYIT"}, {"id": "930406", "regency_id": "9304", "name": "PANTAI KASUARI"}, {"id": "930407", "regency_id": "9304", "name": "SUATOR"}, {"id": "930408", "regency_id": "9304", "name": "SURU-SURU"}, {"id": "930409", "regency_id": "9304", "name": "KOLF BRAZA"}, {"id": "930410", "regency_id": "9304", "name": "UNIR SIRAU"}, {"id": "930411", "regency_id": "9304", "name": "JOERAT"}, {"id": "930412", "regency_id": "9304", "name": "PULAU TIGA"}, {"id": "930413", "regency_id": "9304", "name": "JETSY"}, {"id": "930414", "regency_id": "9304", "name": "DER KOUMUR"}, {"id": "930415", "regency_id": "9304", "name": "KOPAY"}, {"id": "930416", "regency_id": "9304", "name": "SAFAN"}, {"id": "930417", "regency_id": "9304", "name": "SIRETS"}, {"id": "930418", "regency_id": "9304", "name": "AYIB"}, {"id": "930419", "regency_id": "9304", "name": "BETCBAMU"}, {"id": "930420", "regency_id": "9304", "name": "JOUTU"}, {"id": "930421", "regency_id": "9304", "name": "ASWI"}, {"id": "930422", "regency_id": "9304", "name": "AWYU"}, {"id": "930423", "regency_id": "9304", "name": "KOROWAY BULUANOP"}, {"id": "930424", "regency_id": "9304", "name": "TOMOR BIRIP"}, {"id": "930425", "regency_id": "9304", "name": "SOR EP"}]
+[
+  {
+    "id": "930401",
+    "regency_id": "9304",
+    "name": "AGATS"
+  },
+  {
+    "id": "930402",
+    "regency_id": "9304",
+    "name": "ATSJ"
+  },
+  {
+    "id": "930403",
+    "regency_id": "9304",
+    "name": "SAWA ERMA"
+  },
+  {
+    "id": "930404",
+    "regency_id": "9304",
+    "name": "AKAT"
+  },
+  {
+    "id": "930405",
+    "regency_id": "9304",
+    "name": "FAYIT"
+  },
+  {
+    "id": "930406",
+    "regency_id": "9304",
+    "name": "PANTAI KASUARI"
+  },
+  {
+    "id": "930407",
+    "regency_id": "9304",
+    "name": "SUATOR"
+  },
+  {
+    "id": "930408",
+    "regency_id": "9304",
+    "name": "SURU-SURU"
+  },
+  {
+    "id": "930409",
+    "regency_id": "9304",
+    "name": "KOLF BRAZA"
+  },
+  {
+    "id": "930410",
+    "regency_id": "9304",
+    "name": "UNIR SIRAU"
+  },
+  {
+    "id": "930411",
+    "regency_id": "9304",
+    "name": "JOERAT"
+  },
+  {
+    "id": "930412",
+    "regency_id": "9304",
+    "name": "PULAU TIGA"
+  },
+  {
+    "id": "930413",
+    "regency_id": "9304",
+    "name": "JETSY"
+  },
+  {
+    "id": "930414",
+    "regency_id": "9304",
+    "name": "DER KOUMUR"
+  },
+  {
+    "id": "930415",
+    "regency_id": "9304",
+    "name": "KOPAY"
+  },
+  {
+    "id": "930416",
+    "regency_id": "9304",
+    "name": "SAFAN"
+  },
+  {
+    "id": "930417",
+    "regency_id": "9304",
+    "name": "SIRETS"
+  },
+  {
+    "id": "930418",
+    "regency_id": "9304",
+    "name": "AYIB"
+  },
+  {
+    "id": "930419",
+    "regency_id": "9304",
+    "name": "BETCBAMU"
+  },
+  {
+    "id": "930420",
+    "regency_id": "9304",
+    "name": "JOUTU"
+  },
+  {
+    "id": "930421",
+    "regency_id": "9304",
+    "name": "ASWI"
+  },
+  {
+    "id": "930422",
+    "regency_id": "9304",
+    "name": "AWYU"
+  },
+  {
+    "id": "930423",
+    "regency_id": "9304",
+    "name": "KOROWAY BULUANOP"
+  },
+  {
+    "id": "930424",
+    "regency_id": "9304",
+    "name": "TOMOR BIRIP"
+  },
+  {
+    "id": "930425",
+    "regency_id": "9304",
+    "name": "SOR EP"
+  }
+]

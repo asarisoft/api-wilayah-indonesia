@@ -1,1 +1,37 @@
-[{"id": "1609052001", "district_id": "160905", "name": "KARANG AGUNG"}, {"id": "1609052007", "district_id": "160905", "name": "LUBAR"}, {"id": "1609052008", "district_id": "160905", "name": "TANJUNG SARI"}, {"id": "1609052009", "district_id": "160905", "name": "SIMPANGAN"}, {"id": "1609052010", "district_id": "160905", "name": "BUNGIN CAMPANG"}, {"id": "1609052029", "district_id": "160905", "name": "SIMPANG AGUNG"}, {"id": "1609052030", "district_id": "160905", "name": "SINAR MULYO"}]
+[
+  {
+    "id": "1609052001",
+    "district_id": "160905",
+    "name": "KARANG AGUNG"
+  },
+  {
+    "id": "1609052007",
+    "district_id": "160905",
+    "name": "LUBAR"
+  },
+  {
+    "id": "1609052008",
+    "district_id": "160905",
+    "name": "TANJUNG SARI"
+  },
+  {
+    "id": "1609052009",
+    "district_id": "160905",
+    "name": "SIMPANGAN"
+  },
+  {
+    "id": "1609052010",
+    "district_id": "160905",
+    "name": "BUNGIN CAMPANG"
+  },
+  {
+    "id": "1609052029",
+    "district_id": "160905",
+    "name": "SIMPANG AGUNG"
+  },
+  {
+    "id": "1609052030",
+    "district_id": "160905",
+    "name": "SINAR MULYO"
+  }
+]

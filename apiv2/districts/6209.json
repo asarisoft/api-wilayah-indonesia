@@ -1,1 +1,42 @@
-[{"id": "620901", "regency_id": "6209", "name": "LAMANDAU"}, {"id": "620902", "regency_id": "6209", "name": "DELANG"}, {"id": "620903", "regency_id": "6209", "name": "BULIK"}, {"id": "620904", "regency_id": "6209", "name": "BULIK TIMUR"}, {"id": "620905", "regency_id": "6209", "name": "MENTHOBI RAYA"}, {"id": "620906", "regency_id": "6209", "name": "SEMATU JAYA"}, {"id": "620907", "regency_id": "6209", "name": "BELANTIKAN RAYA"}, {"id": "620908", "regency_id": "6209", "name": "BATANG KAWA"}]
+[
+  {
+    "id": "620901",
+    "regency_id": "6209",
+    "name": "LAMANDAU"
+  },
+  {
+    "id": "620902",
+    "regency_id": "6209",
+    "name": "DELANG"
+  },
+  {
+    "id": "620903",
+    "regency_id": "6209",
+    "name": "BULIK"
+  },
+  {
+    "id": "620904",
+    "regency_id": "6209",
+    "name": "BULIK TIMUR"
+  },
+  {
+    "id": "620905",
+    "regency_id": "6209",
+    "name": "MENTHOBI RAYA"
+  },
+  {
+    "id": "620906",
+    "regency_id": "6209",
+    "name": "SEMATU JAYA"
+  },
+  {
+    "id": "620907",
+    "regency_id": "6209",
+    "name": "BELANTIKAN RAYA"
+  },
+  {
+    "id": "620908",
+    "regency_id": "6209",
+    "name": "BATANG KAWA"
+  }
+]

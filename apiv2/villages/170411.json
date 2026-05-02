@@ -1,1 +1,37 @@
-[{"id": "1704112001", "district_id": "170411", "name": "MUARA SAHUNG"}, {"id": "1704112002", "district_id": "170411", "name": "TRI TUNGGAL BAKTI"}, {"id": "1704112003", "district_id": "170411", "name": "ULAK LEBAR"}, {"id": "1704112004", "district_id": "170411", "name": "SUMBER MAKMUR"}, {"id": "1704112005", "district_id": "170411", "name": "ULAK BANDUNG"}, {"id": "1704112006", "district_id": "170411", "name": "CINTA MAKMUR"}, {"id": "1704112007", "district_id": "170411", "name": "BUKIT MAKMUR"}]
+[
+  {
+    "id": "1704112001",
+    "district_id": "170411",
+    "name": "MUARA SAHUNG"
+  },
+  {
+    "id": "1704112002",
+    "district_id": "170411",
+    "name": "TRI TUNGGAL BAKTI"
+  },
+  {
+    "id": "1704112003",
+    "district_id": "170411",
+    "name": "ULAK LEBAR"
+  },
+  {
+    "id": "1704112004",
+    "district_id": "170411",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "1704112005",
+    "district_id": "170411",
+    "name": "ULAK BANDUNG"
+  },
+  {
+    "id": "1704112006",
+    "district_id": "170411",
+    "name": "CINTA MAKMUR"
+  },
+  {
+    "id": "1704112007",
+    "district_id": "170411",
+    "name": "BUKIT MAKMUR"
+  }
+]

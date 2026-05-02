@@ -1,1 +1,42 @@
-[{"id": "3514242001", "district_id": "351424", "name": "MOROREJO"}, {"id": "3514242002", "district_id": "351424", "name": "PODOKOYO"}, {"id": "3514242003", "district_id": "351424", "name": "NGADIWONO"}, {"id": "3514242004", "district_id": "351424", "name": "TOSARI"}, {"id": "3514242005", "district_id": "351424", "name": "WONOKITRI"}, {"id": "3514242006", "district_id": "351424", "name": "BALEDONO"}, {"id": "3514242007", "district_id": "351424", "name": "SEDAENG"}, {"id": "3514242008", "district_id": "351424", "name": "KANDANGAN"}]
+[
+  {
+    "id": "3514242001",
+    "district_id": "351424",
+    "name": "MOROREJO"
+  },
+  {
+    "id": "3514242002",
+    "district_id": "351424",
+    "name": "PODOKOYO"
+  },
+  {
+    "id": "3514242003",
+    "district_id": "351424",
+    "name": "NGADIWONO"
+  },
+  {
+    "id": "3514242004",
+    "district_id": "351424",
+    "name": "TOSARI"
+  },
+  {
+    "id": "3514242005",
+    "district_id": "351424",
+    "name": "WONOKITRI"
+  },
+  {
+    "id": "3514242006",
+    "district_id": "351424",
+    "name": "BALEDONO"
+  },
+  {
+    "id": "3514242007",
+    "district_id": "351424",
+    "name": "SEDAENG"
+  },
+  {
+    "id": "3514242008",
+    "district_id": "351424",
+    "name": "KANDANGAN"
+  }
+]

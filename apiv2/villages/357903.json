@@ -1,1 +1,37 @@
-[{"id": "3579031001", "district_id": "357903", "name": "DADAPREJO"}, {"id": "3579032002", "district_id": "357903", "name": "BEJI"}, {"id": "3579032003", "district_id": "357903", "name": "JUNREJO"}, {"id": "3579032004", "district_id": "357903", "name": "TLEKUNG"}, {"id": "3579032005", "district_id": "357903", "name": "MOJOREJO"}, {"id": "3579032006", "district_id": "357903", "name": "PENDEM"}, {"id": "3579032007", "district_id": "357903", "name": "TORONGREJO"}]
+[
+  {
+    "id": "3579031001",
+    "district_id": "357903",
+    "name": "DADAPREJO"
+  },
+  {
+    "id": "3579032002",
+    "district_id": "357903",
+    "name": "BEJI"
+  },
+  {
+    "id": "3579032003",
+    "district_id": "357903",
+    "name": "JUNREJO"
+  },
+  {
+    "id": "3579032004",
+    "district_id": "357903",
+    "name": "TLEKUNG"
+  },
+  {
+    "id": "3579032005",
+    "district_id": "357903",
+    "name": "MOJOREJO"
+  },
+  {
+    "id": "3579032006",
+    "district_id": "357903",
+    "name": "PENDEM"
+  },
+  {
+    "id": "3579032007",
+    "district_id": "357903",
+    "name": "TORONGREJO"
+  }
+]

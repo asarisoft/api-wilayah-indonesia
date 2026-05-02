@@ -1,1 +1,77 @@
-[{"id": "1409102001", "district_id": "140910", "name": "PERHENTIAN LUAS"}, {"id": "1409102002", "district_id": "140910", "name": "LOGAS"}, {"id": "1409102003", "district_id": "140910", "name": "LUBUK KEBUN"}, {"id": "1409102004", "district_id": "140910", "name": "SUNGAI RAMBAI"}, {"id": "1409102005", "district_id": "140910", "name": "SITUGAL"}, {"id": "1409102006", "district_id": "140910", "name": "RAMBAHAN"}, {"id": "1409102007", "district_id": "140910", "name": "TERATAK RENDAH"}, {"id": "1409102008", "district_id": "140910", "name": "SIKIJANG"}, {"id": "1409102009", "district_id": "140910", "name": "SUKARAJA"}, {"id": "1409102010", "district_id": "140910", "name": "SAKO MARGASARI"}, {"id": "1409102011", "district_id": "140910", "name": "KUANTAN SAKO"}, {"id": "1409102012", "district_id": "140910", "name": "HULU TESO"}, {"id": "1409102013", "district_id": "140910", "name": "GIRI SAKO"}, {"id": "1409102014", "district_id": "140910", "name": "BUMI MULYA"}, {"id": "1409102015", "district_id": "140910", "name": "SIDODADI"}]
+[
+  {
+    "id": "1409102001",
+    "district_id": "140910",
+    "name": "PERHENTIAN LUAS"
+  },
+  {
+    "id": "1409102002",
+    "district_id": "140910",
+    "name": "LOGAS"
+  },
+  {
+    "id": "1409102003",
+    "district_id": "140910",
+    "name": "LUBUK KEBUN"
+  },
+  {
+    "id": "1409102004",
+    "district_id": "140910",
+    "name": "SUNGAI RAMBAI"
+  },
+  {
+    "id": "1409102005",
+    "district_id": "140910",
+    "name": "SITUGAL"
+  },
+  {
+    "id": "1409102006",
+    "district_id": "140910",
+    "name": "RAMBAHAN"
+  },
+  {
+    "id": "1409102007",
+    "district_id": "140910",
+    "name": "TERATAK RENDAH"
+  },
+  {
+    "id": "1409102008",
+    "district_id": "140910",
+    "name": "SIKIJANG"
+  },
+  {
+    "id": "1409102009",
+    "district_id": "140910",
+    "name": "SUKARAJA"
+  },
+  {
+    "id": "1409102010",
+    "district_id": "140910",
+    "name": "SAKO MARGASARI"
+  },
+  {
+    "id": "1409102011",
+    "district_id": "140910",
+    "name": "KUANTAN SAKO"
+  },
+  {
+    "id": "1409102012",
+    "district_id": "140910",
+    "name": "HULU TESO"
+  },
+  {
+    "id": "1409102013",
+    "district_id": "140910",
+    "name": "GIRI SAKO"
+  },
+  {
+    "id": "1409102014",
+    "district_id": "140910",
+    "name": "BUMI MULYA"
+  },
+  {
+    "id": "1409102015",
+    "district_id": "140910",
+    "name": "SIDODADI"
+  }
+]

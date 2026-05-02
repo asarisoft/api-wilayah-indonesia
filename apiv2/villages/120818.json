@@ -1,1 +1,82 @@
-[{"id": "1208181013", "district_id": "120818", "name": "HUTA BAYU"}, {"id": "1208182001", "district_id": "120818", "name": "MARIAH HOMBANG"}, {"id": "1208182002", "district_id": "120818", "name": "PULO BAYU"}, {"id": "1208182003", "district_id": "120818", "name": "SILAKKIDIR"}, {"id": "1208182004", "district_id": "120818", "name": "RAJA MALIGAS"}, {"id": "1208182005", "district_id": "120818", "name": "DOLOK SINUMBAH"}, {"id": "1208182006", "district_id": "120818", "name": "MALIGAS BAYU"}, {"id": "1208182007", "district_id": "120818", "name": "JAWA BARU"}, {"id": "1208182008", "district_id": "120818", "name": "MANCUK"}, {"id": "1208182009", "district_id": "120818", "name": "MARIHAT MAYANG"}, {"id": "1208182010", "district_id": "120818", "name": "BOSAR BAYU"}, {"id": "1208182011", "district_id": "120818", "name": "RAJA MALIGAS I"}, {"id": "1208182012", "district_id": "120818", "name": "BAHAL BATU"}, {"id": "1208182014", "district_id": "120818", "name": "POKAN BARU"}, {"id": "1208182015", "district_id": "120818", "name": "MANRAYAP BAYU"}, {"id": "1208182016", "district_id": "120818", "name": "TALANG BAYU"}]
+[
+  {
+    "id": "1208181013",
+    "district_id": "120818",
+    "name": "HUTA BAYU"
+  },
+  {
+    "id": "1208182001",
+    "district_id": "120818",
+    "name": "MARIAH HOMBANG"
+  },
+  {
+    "id": "1208182002",
+    "district_id": "120818",
+    "name": "PULO BAYU"
+  },
+  {
+    "id": "1208182003",
+    "district_id": "120818",
+    "name": "SILAKKIDIR"
+  },
+  {
+    "id": "1208182004",
+    "district_id": "120818",
+    "name": "RAJA MALIGAS"
+  },
+  {
+    "id": "1208182005",
+    "district_id": "120818",
+    "name": "DOLOK SINUMBAH"
+  },
+  {
+    "id": "1208182006",
+    "district_id": "120818",
+    "name": "MALIGAS BAYU"
+  },
+  {
+    "id": "1208182007",
+    "district_id": "120818",
+    "name": "JAWA BARU"
+  },
+  {
+    "id": "1208182008",
+    "district_id": "120818",
+    "name": "MANCUK"
+  },
+  {
+    "id": "1208182009",
+    "district_id": "120818",
+    "name": "MARIHAT MAYANG"
+  },
+  {
+    "id": "1208182010",
+    "district_id": "120818",
+    "name": "BOSAR BAYU"
+  },
+  {
+    "id": "1208182011",
+    "district_id": "120818",
+    "name": "RAJA MALIGAS I"
+  },
+  {
+    "id": "1208182012",
+    "district_id": "120818",
+    "name": "BAHAL BATU"
+  },
+  {
+    "id": "1208182014",
+    "district_id": "120818",
+    "name": "POKAN BARU"
+  },
+  {
+    "id": "1208182015",
+    "district_id": "120818",
+    "name": "MANRAYAP BAYU"
+  },
+  {
+    "id": "1208182016",
+    "district_id": "120818",
+    "name": "TALANG BAYU"
+  }
+]

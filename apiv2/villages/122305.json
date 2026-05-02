@@ -1,1 +1,92 @@
-[{"id": "1223051001", "district_id": "122305", "name": "MARBAU"}, {"id": "1223052002", "district_id": "122305", "name": "PERKEBUNAN PERNANTIAN"}, {"id": "1223052003", "district_id": "122305", "name": "PERK. MARBAU SELATAN"}, {"id": "1223052004", "district_id": "122305", "name": "PERKEBUNAN MILANO"}, {"id": "1223052005", "district_id": "122305", "name": "PERKEBUNAN BRUSSEL"}, {"id": "1223052006", "district_id": "122305", "name": "PULO BARGOT"}, {"id": "1223052007", "district_id": "122305", "name": "SIPARE PARE TENGAH"}, {"id": "1223052008", "district_id": "122305", "name": "SIPARE PARE HILIR"}, {"id": "1223052009", "district_id": "122305", "name": "TUBIRAN"}, {"id": "1223052010", "district_id": "122305", "name": "BELONGKUT"}, {"id": "1223052011", "district_id": "122305", "name": "SIMPANG EMPAT"}, {"id": "1223052012", "district_id": "122305", "name": "BABUSSALAM"}, {"id": "1223052013", "district_id": "122305", "name": "MARBAU SELATAN"}, {"id": "1223052014", "district_id": "122305", "name": "AEK TAPA"}, {"id": "1223052015", "district_id": "122305", "name": "LOBU RAMPAH"}, {"id": "1223052016", "district_id": "122305", "name": "BULUNGIHIT"}, {"id": "1223052017", "district_id": "122305", "name": "AEK HITETORAS"}, {"id": "1223052018", "district_id": "122305", "name": "SUMBER MULYO"}]
+[
+  {
+    "id": "1223051001",
+    "district_id": "122305",
+    "name": "MARBAU"
+  },
+  {
+    "id": "1223052002",
+    "district_id": "122305",
+    "name": "PERKEBUNAN PERNANTIAN"
+  },
+  {
+    "id": "1223052003",
+    "district_id": "122305",
+    "name": "PERK. MARBAU SELATAN"
+  },
+  {
+    "id": "1223052004",
+    "district_id": "122305",
+    "name": "PERKEBUNAN MILANO"
+  },
+  {
+    "id": "1223052005",
+    "district_id": "122305",
+    "name": "PERKEBUNAN BRUSSEL"
+  },
+  {
+    "id": "1223052006",
+    "district_id": "122305",
+    "name": "PULO BARGOT"
+  },
+  {
+    "id": "1223052007",
+    "district_id": "122305",
+    "name": "SIPARE PARE TENGAH"
+  },
+  {
+    "id": "1223052008",
+    "district_id": "122305",
+    "name": "SIPARE PARE HILIR"
+  },
+  {
+    "id": "1223052009",
+    "district_id": "122305",
+    "name": "TUBIRAN"
+  },
+  {
+    "id": "1223052010",
+    "district_id": "122305",
+    "name": "BELONGKUT"
+  },
+  {
+    "id": "1223052011",
+    "district_id": "122305",
+    "name": "SIMPANG EMPAT"
+  },
+  {
+    "id": "1223052012",
+    "district_id": "122305",
+    "name": "BABUSSALAM"
+  },
+  {
+    "id": "1223052013",
+    "district_id": "122305",
+    "name": "MARBAU SELATAN"
+  },
+  {
+    "id": "1223052014",
+    "district_id": "122305",
+    "name": "AEK TAPA"
+  },
+  {
+    "id": "1223052015",
+    "district_id": "122305",
+    "name": "LOBU RAMPAH"
+  },
+  {
+    "id": "1223052016",
+    "district_id": "122305",
+    "name": "BULUNGIHIT"
+  },
+  {
+    "id": "1223052017",
+    "district_id": "122305",
+    "name": "AEK HITETORAS"
+  },
+  {
+    "id": "1223052018",
+    "district_id": "122305",
+    "name": "SUMBER MULYO"
+  }
+]

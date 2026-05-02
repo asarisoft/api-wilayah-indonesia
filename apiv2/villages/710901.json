@@ -1,1 +1,82 @@
-[{"id": "7109011009", "district_id": "710901", "name": "BEBALI"}, {"id": "7109011010", "district_id": "710901", "name": "TATAHADENG"}, {"id": "7109011011", "district_id": "710901", "name": "TARORANE"}, {"id": "7109011012", "district_id": "710901", "name": "AKESIMBEKA"}, {"id": "7109011013", "district_id": "710901", "name": "BAHU"}, {"id": "7109012001", "district_id": "710901", "name": "BUKIDE"}, {"id": "7109012002", "district_id": "710901", "name": "APELAWO"}, {"id": "7109012003", "district_id": "710901", "name": "DEAHE"}, {"id": "7109012004", "district_id": "710901", "name": "LIA"}, {"id": "7109012005", "district_id": "710901", "name": "KANANG"}, {"id": "7109012006", "district_id": "710901", "name": "BUISE"}, {"id": "7109012007", "district_id": "710901", "name": "KARALUNG"}, {"id": "7109012008", "district_id": "710901", "name": "DAME"}, {"id": "7109012014", "district_id": "710901", "name": "DAME I"}, {"id": "7109012015", "district_id": "710901", "name": "LIA SATU"}, {"id": "7109012016", "district_id": "710901", "name": "KARALUNG SATU"}]
+[
+  {
+    "id": "7109011009",
+    "district_id": "710901",
+    "name": "BEBALI"
+  },
+  {
+    "id": "7109011010",
+    "district_id": "710901",
+    "name": "TATAHADENG"
+  },
+  {
+    "id": "7109011011",
+    "district_id": "710901",
+    "name": "TARORANE"
+  },
+  {
+    "id": "7109011012",
+    "district_id": "710901",
+    "name": "AKESIMBEKA"
+  },
+  {
+    "id": "7109011013",
+    "district_id": "710901",
+    "name": "BAHU"
+  },
+  {
+    "id": "7109012001",
+    "district_id": "710901",
+    "name": "BUKIDE"
+  },
+  {
+    "id": "7109012002",
+    "district_id": "710901",
+    "name": "APELAWO"
+  },
+  {
+    "id": "7109012003",
+    "district_id": "710901",
+    "name": "DEAHE"
+  },
+  {
+    "id": "7109012004",
+    "district_id": "710901",
+    "name": "LIA"
+  },
+  {
+    "id": "7109012005",
+    "district_id": "710901",
+    "name": "KANANG"
+  },
+  {
+    "id": "7109012006",
+    "district_id": "710901",
+    "name": "BUISE"
+  },
+  {
+    "id": "7109012007",
+    "district_id": "710901",
+    "name": "KARALUNG"
+  },
+  {
+    "id": "7109012008",
+    "district_id": "710901",
+    "name": "DAME"
+  },
+  {
+    "id": "7109012014",
+    "district_id": "710901",
+    "name": "DAME I"
+  },
+  {
+    "id": "7109012015",
+    "district_id": "710901",
+    "name": "LIA SATU"
+  },
+  {
+    "id": "7109012016",
+    "district_id": "710901",
+    "name": "KARALUNG SATU"
+  }
+]

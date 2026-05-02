@@ -1,1 +1,57 @@
-[{"id": "9106142001", "district_id": "910614", "name": "RUMBIN"}, {"id": "9106142002", "district_id": "910614", "name": "WARBINSI"}, {"id": "9106142003", "district_id": "910614", "name": "RODIFU"}, {"id": "9106142004", "district_id": "910614", "name": "WONABRAIDI"}, {"id": "9106142005", "district_id": "910614", "name": "WOUNA"}, {"id": "9106142007", "district_id": "910614", "name": "MAMORBO"}, {"id": "9106142008", "district_id": "910614", "name": "FAKNIKDI"}, {"id": "9106142009", "district_id": "910614", "name": "ARMNU"}, {"id": "9106142010", "district_id": "910614", "name": "SUP MBRUR"}, {"id": "9106142011", "district_id": "910614", "name": "WODU"}, {"id": "9106142012", "district_id": "910614", "name": "DASDO"}]
+[
+  {
+    "id": "9106142001",
+    "district_id": "910614",
+    "name": "RUMBIN"
+  },
+  {
+    "id": "9106142002",
+    "district_id": "910614",
+    "name": "WARBINSI"
+  },
+  {
+    "id": "9106142003",
+    "district_id": "910614",
+    "name": "RODIFU"
+  },
+  {
+    "id": "9106142004",
+    "district_id": "910614",
+    "name": "WONABRAIDI"
+  },
+  {
+    "id": "9106142005",
+    "district_id": "910614",
+    "name": "WOUNA"
+  },
+  {
+    "id": "9106142007",
+    "district_id": "910614",
+    "name": "MAMORBO"
+  },
+  {
+    "id": "9106142008",
+    "district_id": "910614",
+    "name": "FAKNIKDI"
+  },
+  {
+    "id": "9106142009",
+    "district_id": "910614",
+    "name": "ARMNU"
+  },
+  {
+    "id": "9106142010",
+    "district_id": "910614",
+    "name": "SUP MBRUR"
+  },
+  {
+    "id": "9106142011",
+    "district_id": "910614",
+    "name": "WODU"
+  },
+  {
+    "id": "9106142012",
+    "district_id": "910614",
+    "name": "DASDO"
+  }
+]

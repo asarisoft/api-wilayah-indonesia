@@ -1,1 +1,57 @@
-[{"id": "7102052001", "district_id": "710205", "name": "KAPATARAN"}, {"id": "7102052002", "district_id": "710205", "name": "SERETAN"}, {"id": "7102052003", "district_id": "710205", "name": "ATEP OKI"}, {"id": "7102052004", "district_id": "710205", "name": "KAROR"}, {"id": "7102052005", "district_id": "710205", "name": "KALEOSAN"}, {"id": "7102052006", "district_id": "710205", "name": "WATULANEY"}, {"id": "7102052007", "district_id": "710205", "name": "KAYUROYA"}, {"id": "7102052008", "district_id": "710205", "name": "SERETAN TIMU"}, {"id": "7102052009", "district_id": "710205", "name": "PARENTEK"}, {"id": "7102052010", "district_id": "710205", "name": "KAPATARAN SATU"}, {"id": "7102052011", "district_id": "710205", "name": "WATULANEY AMIAN"}]
+[
+  {
+    "id": "7102052001",
+    "district_id": "710205",
+    "name": "KAPATARAN"
+  },
+  {
+    "id": "7102052002",
+    "district_id": "710205",
+    "name": "SERETAN"
+  },
+  {
+    "id": "7102052003",
+    "district_id": "710205",
+    "name": "ATEP OKI"
+  },
+  {
+    "id": "7102052004",
+    "district_id": "710205",
+    "name": "KAROR"
+  },
+  {
+    "id": "7102052005",
+    "district_id": "710205",
+    "name": "KALEOSAN"
+  },
+  {
+    "id": "7102052006",
+    "district_id": "710205",
+    "name": "WATULANEY"
+  },
+  {
+    "id": "7102052007",
+    "district_id": "710205",
+    "name": "KAYUROYA"
+  },
+  {
+    "id": "7102052008",
+    "district_id": "710205",
+    "name": "SERETAN TIMU"
+  },
+  {
+    "id": "7102052009",
+    "district_id": "710205",
+    "name": "PARENTEK"
+  },
+  {
+    "id": "7102052010",
+    "district_id": "710205",
+    "name": "KAPATARAN SATU"
+  },
+  {
+    "id": "7102052011",
+    "district_id": "710205",
+    "name": "WATULANEY AMIAN"
+  }
+]

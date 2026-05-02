@@ -1,1 +1,37 @@
-[{"id": "1706012005", "district_id": "170601", "name": "SUKA PINDAH"}, {"id": "1706012006", "district_id": "170601", "name": "LUBUK PINANG"}, {"id": "1706012007", "district_id": "170601", "name": "ARAH TIGA"}, {"id": "1706012008", "district_id": "170601", "name": "LUBUK GEDANG"}, {"id": "1706012009", "district_id": "170601", "name": "TANJUNG ALAI"}, {"id": "1706012013", "district_id": "170601", "name": "SUMBER MAKMUR"}, {"id": "1706012018", "district_id": "170601", "name": "RANAH KARYA"}]
+[
+  {
+    "id": "1706012005",
+    "district_id": "170601",
+    "name": "SUKA PINDAH"
+  },
+  {
+    "id": "1706012006",
+    "district_id": "170601",
+    "name": "LUBUK PINANG"
+  },
+  {
+    "id": "1706012007",
+    "district_id": "170601",
+    "name": "ARAH TIGA"
+  },
+  {
+    "id": "1706012008",
+    "district_id": "170601",
+    "name": "LUBUK GEDANG"
+  },
+  {
+    "id": "1706012009",
+    "district_id": "170601",
+    "name": "TANJUNG ALAI"
+  },
+  {
+    "id": "1706012013",
+    "district_id": "170601",
+    "name": "SUMBER MAKMUR"
+  },
+  {
+    "id": "1706012018",
+    "district_id": "170601",
+    "name": "RANAH KARYA"
+  }
+]

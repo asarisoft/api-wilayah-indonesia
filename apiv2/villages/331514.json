@@ -1,1 +1,47 @@
-[{"id": "3315142001", "district_id": "331514", "name": "MENDURAN"}, {"id": "3315142002", "district_id": "331514", "name": "JANGKUNGHARJO"}, {"id": "3315142003", "district_id": "331514", "name": "TEMON"}, {"id": "3315142004", "district_id": "331514", "name": "LEMAHPUTIH"}, {"id": "3315142005", "district_id": "331514", "name": "TIREM"}, {"id": "3315142006", "district_id": "331514", "name": "KARANGSARI"}, {"id": "3315142007", "district_id": "331514", "name": "KRONGGEN"}, {"id": "3315142008", "district_id": "331514", "name": "KATEKAN"}, {"id": "3315142009", "district_id": "331514", "name": "TEGALSUMUR"}]
+[
+  {
+    "id": "3315142001",
+    "district_id": "331514",
+    "name": "MENDURAN"
+  },
+  {
+    "id": "3315142002",
+    "district_id": "331514",
+    "name": "JANGKUNGHARJO"
+  },
+  {
+    "id": "3315142003",
+    "district_id": "331514",
+    "name": "TEMON"
+  },
+  {
+    "id": "3315142004",
+    "district_id": "331514",
+    "name": "LEMAHPUTIH"
+  },
+  {
+    "id": "3315142005",
+    "district_id": "331514",
+    "name": "TIREM"
+  },
+  {
+    "id": "3315142006",
+    "district_id": "331514",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3315142007",
+    "district_id": "331514",
+    "name": "KRONGGEN"
+  },
+  {
+    "id": "3315142008",
+    "district_id": "331514",
+    "name": "KATEKAN"
+  },
+  {
+    "id": "3315142009",
+    "district_id": "331514",
+    "name": "TEGALSUMUR"
+  }
+]

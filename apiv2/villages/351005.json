@@ -1,1 +1,52 @@
-[{"id": "3510052001", "district_id": "351005", "name": "SUMBERBERAS"}, {"id": "3510052002", "district_id": "351005", "name": "KEDUNGREJO"}, {"id": "3510052003", "district_id": "351005", "name": "TEMBOKREJO"}, {"id": "3510052004", "district_id": "351005", "name": "SUMBERSEWU"}, {"id": "3510052005", "district_id": "351005", "name": "BLAMBANGAN"}, {"id": "3510052006", "district_id": "351005", "name": "TAPANREJO"}, {"id": "3510052007", "district_id": "351005", "name": "WRINGINPUTIH"}, {"id": "3510052008", "district_id": "351005", "name": "TAMBAKREJO"}, {"id": "3510052009", "district_id": "351005", "name": "KEDUNGRINGIN"}, {"id": "3510052010", "district_id": "351005", "name": "KUMENDUNG"}]
+[
+  {
+    "id": "3510052001",
+    "district_id": "351005",
+    "name": "SUMBERBERAS"
+  },
+  {
+    "id": "3510052002",
+    "district_id": "351005",
+    "name": "KEDUNGREJO"
+  },
+  {
+    "id": "3510052003",
+    "district_id": "351005",
+    "name": "TEMBOKREJO"
+  },
+  {
+    "id": "3510052004",
+    "district_id": "351005",
+    "name": "SUMBERSEWU"
+  },
+  {
+    "id": "3510052005",
+    "district_id": "351005",
+    "name": "BLAMBANGAN"
+  },
+  {
+    "id": "3510052006",
+    "district_id": "351005",
+    "name": "TAPANREJO"
+  },
+  {
+    "id": "3510052007",
+    "district_id": "351005",
+    "name": "WRINGINPUTIH"
+  },
+  {
+    "id": "3510052008",
+    "district_id": "351005",
+    "name": "TAMBAKREJO"
+  },
+  {
+    "id": "3510052009",
+    "district_id": "351005",
+    "name": "KEDUNGRINGIN"
+  },
+  {
+    "id": "3510052010",
+    "district_id": "351005",
+    "name": "KUMENDUNG"
+  }
+]

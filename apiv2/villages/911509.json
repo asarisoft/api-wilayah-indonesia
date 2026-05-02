@@ -1,1 +1,37 @@
-[{"id": "9115092002", "district_id": "911509", "name": "SOMIANGGA"}, {"id": "9115092004", "district_id": "911509", "name": "TOIRE"}, {"id": "9115092005", "district_id": "911509", "name": "HARAPAN JAYA"}, {"id": "9115092006", "district_id": "911509", "name": "DEMISA"}, {"id": "9115092008", "district_id": "911509", "name": "OTODEMO"}, {"id": "9115092011", "district_id": "911509", "name": "AWASO"}, {"id": "9115092012", "district_id": "911509", "name": "FIRO"}]
+[
+  {
+    "id": "9115092002",
+    "district_id": "911509",
+    "name": "SOMIANGGA"
+  },
+  {
+    "id": "9115092004",
+    "district_id": "911509",
+    "name": "TOIRE"
+  },
+  {
+    "id": "9115092005",
+    "district_id": "911509",
+    "name": "HARAPAN JAYA"
+  },
+  {
+    "id": "9115092006",
+    "district_id": "911509",
+    "name": "DEMISA"
+  },
+  {
+    "id": "9115092008",
+    "district_id": "911509",
+    "name": "OTODEMO"
+  },
+  {
+    "id": "9115092011",
+    "district_id": "911509",
+    "name": "AWASO"
+  },
+  {
+    "id": "9115092012",
+    "district_id": "911509",
+    "name": "FIRO"
+  }
+]

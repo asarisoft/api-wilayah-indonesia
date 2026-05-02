@@ -1,1 +1,82 @@
-[{"id": "7412011001", "district_id": "741201", "name": "LANGARA LAUT"}, {"id": "7412012002", "district_id": "741201", "name": "LANGARA IWAWO"}, {"id": "7412012003", "district_id": "741201", "name": "WAWOLAA"}, {"id": "7412012004", "district_id": "741201", "name": "LANGARA INDAH"}, {"id": "7412012005", "district_id": "741201", "name": "LAMOLUO"}, {"id": "7412012006", "district_id": "741201", "name": "BUKIT PERMAI"}, {"id": "7412012007", "district_id": "741201", "name": "WAWOBILI"}, {"id": "7412012008", "district_id": "741201", "name": "LANGARO BAJO"}, {"id": "7412012009", "district_id": "741201", "name": "MATA LANGARA"}, {"id": "7412012010", "district_id": "741201", "name": "MATA BAHO"}, {"id": "7412012011", "district_id": "741201", "name": "LANOWATU"}, {"id": "7412012012", "district_id": "741201", "name": "LANTULA"}, {"id": "7412012013", "district_id": "741201", "name": "PASIR PUTIH"}, {"id": "7412012014", "district_id": "741201", "name": "LANGKOWALA"}, {"id": "7412012015", "district_id": "741201", "name": "KAWA-KAWALI"}, {"id": "7412012016", "district_id": "741201", "name": "LANGARA TANJUNG BATU"}]
+[
+  {
+    "id": "7412011001",
+    "district_id": "741201",
+    "name": "LANGARA LAUT"
+  },
+  {
+    "id": "7412012002",
+    "district_id": "741201",
+    "name": "LANGARA IWAWO"
+  },
+  {
+    "id": "7412012003",
+    "district_id": "741201",
+    "name": "WAWOLAA"
+  },
+  {
+    "id": "7412012004",
+    "district_id": "741201",
+    "name": "LANGARA INDAH"
+  },
+  {
+    "id": "7412012005",
+    "district_id": "741201",
+    "name": "LAMOLUO"
+  },
+  {
+    "id": "7412012006",
+    "district_id": "741201",
+    "name": "BUKIT PERMAI"
+  },
+  {
+    "id": "7412012007",
+    "district_id": "741201",
+    "name": "WAWOBILI"
+  },
+  {
+    "id": "7412012008",
+    "district_id": "741201",
+    "name": "LANGARO BAJO"
+  },
+  {
+    "id": "7412012009",
+    "district_id": "741201",
+    "name": "MATA LANGARA"
+  },
+  {
+    "id": "7412012010",
+    "district_id": "741201",
+    "name": "MATA BAHO"
+  },
+  {
+    "id": "7412012011",
+    "district_id": "741201",
+    "name": "LANOWATU"
+  },
+  {
+    "id": "7412012012",
+    "district_id": "741201",
+    "name": "LANTULA"
+  },
+  {
+    "id": "7412012013",
+    "district_id": "741201",
+    "name": "PASIR PUTIH"
+  },
+  {
+    "id": "7412012014",
+    "district_id": "741201",
+    "name": "LANGKOWALA"
+  },
+  {
+    "id": "7412012015",
+    "district_id": "741201",
+    "name": "KAWA-KAWALI"
+  },
+  {
+    "id": "7412012016",
+    "district_id": "741201",
+    "name": "LANGARA TANJUNG BATU"
+  }
+]

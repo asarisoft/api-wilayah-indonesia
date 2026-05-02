@@ -1,1 +1,87 @@
-[{"id": "321401", "regency_id": "3214", "name": "PURWAKARTA"}, {"id": "321402", "regency_id": "3214", "name": "CAMPAKA"}, {"id": "321403", "regency_id": "3214", "name": "JATILUHUR"}, {"id": "321404", "regency_id": "3214", "name": "PLERED"}, {"id": "321405", "regency_id": "3214", "name": "SUKATANI"}, {"id": "321406", "regency_id": "3214", "name": "DARANGDAN"}, {"id": "321407", "regency_id": "3214", "name": "MANIIS"}, {"id": "321408", "regency_id": "3214", "name": "TEGALWARU"}, {"id": "321409", "regency_id": "3214", "name": "WANAYASA"}, {"id": "321410", "regency_id": "3214", "name": "PASAWAHAN"}, {"id": "321411", "regency_id": "3214", "name": "BOJONG"}, {"id": "321412", "regency_id": "3214", "name": "BABAKANCIKAO"}, {"id": "321413", "regency_id": "3214", "name": "BUNGURSARI"}, {"id": "321414", "regency_id": "3214", "name": "CIBATU"}, {"id": "321415", "regency_id": "3214", "name": "SUKASARI"}, {"id": "321416", "regency_id": "3214", "name": "PONDOKSALAM"}, {"id": "321417", "regency_id": "3214", "name": "KIARAPEDES"}]
+[
+  {
+    "id": "321401",
+    "regency_id": "3214",
+    "name": "PURWAKARTA"
+  },
+  {
+    "id": "321402",
+    "regency_id": "3214",
+    "name": "CAMPAKA"
+  },
+  {
+    "id": "321403",
+    "regency_id": "3214",
+    "name": "JATILUHUR"
+  },
+  {
+    "id": "321404",
+    "regency_id": "3214",
+    "name": "PLERED"
+  },
+  {
+    "id": "321405",
+    "regency_id": "3214",
+    "name": "SUKATANI"
+  },
+  {
+    "id": "321406",
+    "regency_id": "3214",
+    "name": "DARANGDAN"
+  },
+  {
+    "id": "321407",
+    "regency_id": "3214",
+    "name": "MANIIS"
+  },
+  {
+    "id": "321408",
+    "regency_id": "3214",
+    "name": "TEGALWARU"
+  },
+  {
+    "id": "321409",
+    "regency_id": "3214",
+    "name": "WANAYASA"
+  },
+  {
+    "id": "321410",
+    "regency_id": "3214",
+    "name": "PASAWAHAN"
+  },
+  {
+    "id": "321411",
+    "regency_id": "3214",
+    "name": "BOJONG"
+  },
+  {
+    "id": "321412",
+    "regency_id": "3214",
+    "name": "BABAKANCIKAO"
+  },
+  {
+    "id": "321413",
+    "regency_id": "3214",
+    "name": "BUNGURSARI"
+  },
+  {
+    "id": "321414",
+    "regency_id": "3214",
+    "name": "CIBATU"
+  },
+  {
+    "id": "321415",
+    "regency_id": "3214",
+    "name": "SUKASARI"
+  },
+  {
+    "id": "321416",
+    "regency_id": "3214",
+    "name": "PONDOKSALAM"
+  },
+  {
+    "id": "321417",
+    "regency_id": "3214",
+    "name": "KIARAPEDES"
+  }
+]

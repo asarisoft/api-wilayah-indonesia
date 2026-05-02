@@ -1,1 +1,72 @@
-[{"id": "1806162001", "district_id": "180616", "name": "TAMPANG TUA"}, {"id": "1806162002", "district_id": "180616", "name": "KAUR GADING"}, {"id": "1806162003", "district_id": "180616", "name": "TIROM"}, {"id": "1806162004", "district_id": "180616", "name": "WAY NIPAH"}, {"id": "1806162005", "district_id": "180616", "name": "GURING"}, {"id": "1806162006", "district_id": "180616", "name": "BETUNG"}, {"id": "1806162007", "district_id": "180616", "name": "TANJUNGAN"}, {"id": "1806162009", "district_id": "180616", "name": "TELUK BRAK"}, {"id": "1806162010", "district_id": "180616", "name": "KARANG BRAK"}, {"id": "1806162011", "district_id": "180616", "name": "PESANGUAN"}, {"id": "1806162012", "district_id": "180616", "name": "WAY ASAHAN"}, {"id": "1806162013", "district_id": "180616", "name": "TAMPANG MUDA"}, {"id": "1806162014", "district_id": "180616", "name": "KAMPUNG BARU"}, {"id": "1806162015", "district_id": "180616", "name": "MARTANDA"}]
+[
+  {
+    "id": "1806162001",
+    "district_id": "180616",
+    "name": "TAMPANG TUA"
+  },
+  {
+    "id": "1806162002",
+    "district_id": "180616",
+    "name": "KAUR GADING"
+  },
+  {
+    "id": "1806162003",
+    "district_id": "180616",
+    "name": "TIROM"
+  },
+  {
+    "id": "1806162004",
+    "district_id": "180616",
+    "name": "WAY NIPAH"
+  },
+  {
+    "id": "1806162005",
+    "district_id": "180616",
+    "name": "GURING"
+  },
+  {
+    "id": "1806162006",
+    "district_id": "180616",
+    "name": "BETUNG"
+  },
+  {
+    "id": "1806162007",
+    "district_id": "180616",
+    "name": "TANJUNGAN"
+  },
+  {
+    "id": "1806162009",
+    "district_id": "180616",
+    "name": "TELUK BRAK"
+  },
+  {
+    "id": "1806162010",
+    "district_id": "180616",
+    "name": "KARANG BRAK"
+  },
+  {
+    "id": "1806162011",
+    "district_id": "180616",
+    "name": "PESANGUAN"
+  },
+  {
+    "id": "1806162012",
+    "district_id": "180616",
+    "name": "WAY ASAHAN"
+  },
+  {
+    "id": "1806162013",
+    "district_id": "180616",
+    "name": "TAMPANG MUDA"
+  },
+  {
+    "id": "1806162014",
+    "district_id": "180616",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "1806162015",
+    "district_id": "180616",
+    "name": "MARTANDA"
+  }
+]

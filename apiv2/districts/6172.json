@@ -1,1 +1,27 @@
-[{"id": "617201", "regency_id": "6172", "name": "SINGKAWANG TENGAH"}, {"id": "617202", "regency_id": "6172", "name": "SINGKAWANG BARAT"}, {"id": "617203", "regency_id": "6172", "name": "SINGKAWANG TIMUR"}, {"id": "617204", "regency_id": "6172", "name": "SINGKAWANG UTARA"}, {"id": "617205", "regency_id": "6172", "name": "SINGKAWANG SELATAN"}]
+[
+  {
+    "id": "617201",
+    "regency_id": "6172",
+    "name": "SINGKAWANG TENGAH"
+  },
+  {
+    "id": "617202",
+    "regency_id": "6172",
+    "name": "SINGKAWANG BARAT"
+  },
+  {
+    "id": "617203",
+    "regency_id": "6172",
+    "name": "SINGKAWANG TIMUR"
+  },
+  {
+    "id": "617204",
+    "regency_id": "6172",
+    "name": "SINGKAWANG UTARA"
+  },
+  {
+    "id": "617205",
+    "regency_id": "6172",
+    "name": "SINGKAWANG SELATAN"
+  }
+]

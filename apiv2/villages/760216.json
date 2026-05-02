@@ -1,1 +1,12 @@
-[{"id": "7602162001", "district_id": "760216", "name": "BALA BALAKANG"}, {"id": "7602162002", "district_id": "760216", "name": "BALA-BALAKANG TIMUR"}]
+[
+  {
+    "id": "7602162001",
+    "district_id": "760216",
+    "name": "BALA BALAKANG"
+  },
+  {
+    "id": "7602162002",
+    "district_id": "760216",
+    "name": "BALA-BALAKANG TIMUR"
+  }
+]

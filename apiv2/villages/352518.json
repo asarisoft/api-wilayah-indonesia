@@ -1,1 +1,67 @@
-[{"id": "3525182001", "district_id": "352518", "name": "GELAM"}, {"id": "3525182002", "district_id": "352518", "name": "SUKAONENG"}, {"id": "3525182003", "district_id": "352518", "name": "SUKALELA"}, {"id": "3525182004", "district_id": "352518", "name": "PEKALONGAN"}, {"id": "3525182005", "district_id": "352518", "name": "TAMBAK"}, {"id": "3525182006", "district_id": "352518", "name": "TELUKJATIDAWANG"}, {"id": "3525182007", "district_id": "352518", "name": "KLUMPANGGUBUG"}, {"id": "3525182008", "district_id": "352518", "name": "GREJEG"}, {"id": "3525182009", "district_id": "352518", "name": "TANJUNGORI"}, {"id": "3525182010", "district_id": "352518", "name": "PEROMAAN"}, {"id": "3525182011", "district_id": "352518", "name": "DIPONGGO"}, {"id": "3525182012", "district_id": "352518", "name": "KEPUHTELUK"}, {"id": "3525182013", "district_id": "352518", "name": "KEPUHLEGUNDI"}]
+[
+  {
+    "id": "3525182001",
+    "district_id": "352518",
+    "name": "GELAM"
+  },
+  {
+    "id": "3525182002",
+    "district_id": "352518",
+    "name": "SUKAONENG"
+  },
+  {
+    "id": "3525182003",
+    "district_id": "352518",
+    "name": "SUKALELA"
+  },
+  {
+    "id": "3525182004",
+    "district_id": "352518",
+    "name": "PEKALONGAN"
+  },
+  {
+    "id": "3525182005",
+    "district_id": "352518",
+    "name": "TAMBAK"
+  },
+  {
+    "id": "3525182006",
+    "district_id": "352518",
+    "name": "TELUKJATIDAWANG"
+  },
+  {
+    "id": "3525182007",
+    "district_id": "352518",
+    "name": "KLUMPANGGUBUG"
+  },
+  {
+    "id": "3525182008",
+    "district_id": "352518",
+    "name": "GREJEG"
+  },
+  {
+    "id": "3525182009",
+    "district_id": "352518",
+    "name": "TANJUNGORI"
+  },
+  {
+    "id": "3525182010",
+    "district_id": "352518",
+    "name": "PEROMAAN"
+  },
+  {
+    "id": "3525182011",
+    "district_id": "352518",
+    "name": "DIPONGGO"
+  },
+  {
+    "id": "3525182012",
+    "district_id": "352518",
+    "name": "KEPUHTELUK"
+  },
+  {
+    "id": "3525182013",
+    "district_id": "352518",
+    "name": "KEPUHLEGUNDI"
+  }
+]

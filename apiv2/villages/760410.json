@@ -1,1 +1,57 @@
-[{"id": "7604101004", "district_id": "760410", "name": "BATUPANGA"}, {"id": "7604102001", "district_id": "760410", "name": "MAMBU"}, {"id": "7604102002", "district_id": "760410", "name": "TENGGELANG"}, {"id": "7604102003", "district_id": "760410", "name": "BARU"}, {"id": "7604102005", "district_id": "760410", "name": "PUSSUI"}, {"id": "7604102006", "district_id": "760410", "name": "MAPILLI BARAT"}, {"id": "7604102007", "district_id": "760410", "name": "SAMBALI WALI"}, {"id": "7604102008", "district_id": "760410", "name": "BATUPANGA DAALA"}, {"id": "7604102009", "district_id": "760410", "name": "LUYO"}, {"id": "7604102010", "district_id": "760410", "name": "PUSSUI BARAT"}, {"id": "7604102011", "district_id": "760410", "name": "PUCCADI"}]
+[
+  {
+    "id": "7604101004",
+    "district_id": "760410",
+    "name": "BATUPANGA"
+  },
+  {
+    "id": "7604102001",
+    "district_id": "760410",
+    "name": "MAMBU"
+  },
+  {
+    "id": "7604102002",
+    "district_id": "760410",
+    "name": "TENGGELANG"
+  },
+  {
+    "id": "7604102003",
+    "district_id": "760410",
+    "name": "BARU"
+  },
+  {
+    "id": "7604102005",
+    "district_id": "760410",
+    "name": "PUSSUI"
+  },
+  {
+    "id": "7604102006",
+    "district_id": "760410",
+    "name": "MAPILLI BARAT"
+  },
+  {
+    "id": "7604102007",
+    "district_id": "760410",
+    "name": "SAMBALI WALI"
+  },
+  {
+    "id": "7604102008",
+    "district_id": "760410",
+    "name": "BATUPANGA DAALA"
+  },
+  {
+    "id": "7604102009",
+    "district_id": "760410",
+    "name": "LUYO"
+  },
+  {
+    "id": "7604102010",
+    "district_id": "760410",
+    "name": "PUSSUI BARAT"
+  },
+  {
+    "id": "7604102011",
+    "district_id": "760410",
+    "name": "PUCCADI"
+  }
+]

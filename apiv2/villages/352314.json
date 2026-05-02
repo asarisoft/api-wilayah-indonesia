@@ -1,1 +1,82 @@
-[{"id": "3523142004", "district_id": "352314", "name": "KEBONAGUNG"}, {"id": "3523142005", "district_id": "352314", "name": "PEKUWON"}, {"id": "3523142007", "district_id": "352314", "name": "RENGEL"}, {"id": "3523142008", "district_id": "352314", "name": "MAIBIT"}, {"id": "3523142009", "district_id": "352314", "name": "BULUREJO"}, {"id": "3523142010", "district_id": "352314", "name": "KARANGTINOTO"}, {"id": "3523142011", "district_id": "352314", "name": "SAWAHAN"}, {"id": "3523142013", "district_id": "352314", "name": "KANOREJO"}, {"id": "3523142014", "district_id": "352314", "name": "TAMBAKREJO"}, {"id": "3523142016", "district_id": "352314", "name": "NGADIREJO"}, {"id": "3523142017", "district_id": "352314", "name": "SUMBEREJO"}, {"id": "3523142018", "district_id": "352314", "name": "PUNGGULREJO"}, {"id": "3523142019", "district_id": "352314", "name": "CAMPUREJO"}, {"id": "3523142020", "district_id": "352314", "name": "BANJARAGUNG"}, {"id": "3523142021", "district_id": "352314", "name": "BANJARARUM"}, {"id": "3523142022", "district_id": "352314", "name": "PRAMBONWETAN"}]
+[
+  {
+    "id": "3523142004",
+    "district_id": "352314",
+    "name": "KEBONAGUNG"
+  },
+  {
+    "id": "3523142005",
+    "district_id": "352314",
+    "name": "PEKUWON"
+  },
+  {
+    "id": "3523142007",
+    "district_id": "352314",
+    "name": "RENGEL"
+  },
+  {
+    "id": "3523142008",
+    "district_id": "352314",
+    "name": "MAIBIT"
+  },
+  {
+    "id": "3523142009",
+    "district_id": "352314",
+    "name": "BULUREJO"
+  },
+  {
+    "id": "3523142010",
+    "district_id": "352314",
+    "name": "KARANGTINOTO"
+  },
+  {
+    "id": "3523142011",
+    "district_id": "352314",
+    "name": "SAWAHAN"
+  },
+  {
+    "id": "3523142013",
+    "district_id": "352314",
+    "name": "KANOREJO"
+  },
+  {
+    "id": "3523142014",
+    "district_id": "352314",
+    "name": "TAMBAKREJO"
+  },
+  {
+    "id": "3523142016",
+    "district_id": "352314",
+    "name": "NGADIREJO"
+  },
+  {
+    "id": "3523142017",
+    "district_id": "352314",
+    "name": "SUMBEREJO"
+  },
+  {
+    "id": "3523142018",
+    "district_id": "352314",
+    "name": "PUNGGULREJO"
+  },
+  {
+    "id": "3523142019",
+    "district_id": "352314",
+    "name": "CAMPUREJO"
+  },
+  {
+    "id": "3523142020",
+    "district_id": "352314",
+    "name": "BANJARAGUNG"
+  },
+  {
+    "id": "3523142021",
+    "district_id": "352314",
+    "name": "BANJARARUM"
+  },
+  {
+    "id": "3523142022",
+    "district_id": "352314",
+    "name": "PRAMBONWETAN"
+  }
+]

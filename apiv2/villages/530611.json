@@ -1,1 +1,62 @@
-[{"id": "5306112001", "district_id": "530611", "name": "RODENTENA"}, {"id": "5306112002", "district_id": "530611", "name": "ADOLABA"}, {"id": "5306112003", "district_id": "530611", "name": "HINGA"}, {"id": "5306112004", "district_id": "530611", "name": "LAMAPAHA"}, {"id": "5306112005", "district_id": "530611", "name": "SUKUTOKAN"}, {"id": "5306112006", "district_id": "530611", "name": "NISAKARANG"}, {"id": "5306112007", "district_id": "530611", "name": "MUDA"}, {"id": "5306112008", "district_id": "530611", "name": "HORINARA"}, {"id": "5306112009", "district_id": "530611", "name": "PEPAGEKA"}, {"id": "5306112010", "district_id": "530611", "name": "LAMABUNGA"}, {"id": "5306112012", "district_id": "530611", "name": "MANGAALENG"}, {"id": "5306112019", "district_id": "530611", "name": "KELUWAIN"}]
+[
+  {
+    "id": "5306112001",
+    "district_id": "530611",
+    "name": "RODENTENA"
+  },
+  {
+    "id": "5306112002",
+    "district_id": "530611",
+    "name": "ADOLABA"
+  },
+  {
+    "id": "5306112003",
+    "district_id": "530611",
+    "name": "HINGA"
+  },
+  {
+    "id": "5306112004",
+    "district_id": "530611",
+    "name": "LAMAPAHA"
+  },
+  {
+    "id": "5306112005",
+    "district_id": "530611",
+    "name": "SUKUTOKAN"
+  },
+  {
+    "id": "5306112006",
+    "district_id": "530611",
+    "name": "NISAKARANG"
+  },
+  {
+    "id": "5306112007",
+    "district_id": "530611",
+    "name": "MUDA"
+  },
+  {
+    "id": "5306112008",
+    "district_id": "530611",
+    "name": "HORINARA"
+  },
+  {
+    "id": "5306112009",
+    "district_id": "530611",
+    "name": "PEPAGEKA"
+  },
+  {
+    "id": "5306112010",
+    "district_id": "530611",
+    "name": "LAMABUNGA"
+  },
+  {
+    "id": "5306112012",
+    "district_id": "530611",
+    "name": "MANGAALENG"
+  },
+  {
+    "id": "5306112019",
+    "district_id": "530611",
+    "name": "KELUWAIN"
+  }
+]

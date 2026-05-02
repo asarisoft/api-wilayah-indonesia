@@ -1,1 +1,52 @@
-[{"id": "8204172001", "district_id": "820417", "name": "KAMPUNG MAKIAN"}, {"id": "8204172002", "district_id": "820417", "name": "MANDAONG"}, {"id": "8204172003", "district_id": "820417", "name": "KUPAL"}, {"id": "8204172004", "district_id": "820417", "name": "GANDASULI"}, {"id": "8204172005", "district_id": "820417", "name": "SAWADAI"}, {"id": "8204172006", "district_id": "820417", "name": "TUOKONA"}, {"id": "8204172007", "district_id": "820417", "name": "PAPALOANG"}, {"id": "8204172008", "district_id": "820417", "name": "TEMBAL"}, {"id": "8204172009", "district_id": "820417", "name": "KUBUNG"}, {"id": "8204172010", "district_id": "820417", "name": "PANAMBOANG"}]
+[
+  {
+    "id": "8204172001",
+    "district_id": "820417",
+    "name": "KAMPUNG MAKIAN"
+  },
+  {
+    "id": "8204172002",
+    "district_id": "820417",
+    "name": "MANDAONG"
+  },
+  {
+    "id": "8204172003",
+    "district_id": "820417",
+    "name": "KUPAL"
+  },
+  {
+    "id": "8204172004",
+    "district_id": "820417",
+    "name": "GANDASULI"
+  },
+  {
+    "id": "8204172005",
+    "district_id": "820417",
+    "name": "SAWADAI"
+  },
+  {
+    "id": "8204172006",
+    "district_id": "820417",
+    "name": "TUOKONA"
+  },
+  {
+    "id": "8204172007",
+    "district_id": "820417",
+    "name": "PAPALOANG"
+  },
+  {
+    "id": "8204172008",
+    "district_id": "820417",
+    "name": "TEMBAL"
+  },
+  {
+    "id": "8204172009",
+    "district_id": "820417",
+    "name": "KUBUNG"
+  },
+  {
+    "id": "8204172010",
+    "district_id": "820417",
+    "name": "PANAMBOANG"
+  }
+]

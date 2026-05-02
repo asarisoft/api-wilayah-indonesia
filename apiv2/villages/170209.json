@@ -1,1 +1,47 @@
-[{"id": "1702091012", "district_id": "170209", "name": "DWI TUNGGAL"}, {"id": "1702091013", "district_id": "170209", "name": "AIR PUTIH LAMA"}, {"id": "1702091023", "district_id": "170209", "name": "ADIREJO"}, {"id": "1702091025", "district_id": "170209", "name": "AIR RAMBAI"}, {"id": "1702091026", "district_id": "170209", "name": "PASAR BARU"}, {"id": "1702091027", "district_id": "170209", "name": "PASAR TENGAH"}, {"id": "1702091031", "district_id": "170209", "name": "JALAN BARU"}, {"id": "1702091033", "district_id": "170209", "name": "TALANG BENIH"}, {"id": "1702091047", "district_id": "170209", "name": "TIMBUL REJO"}]
+[
+  {
+    "id": "1702091012",
+    "district_id": "170209",
+    "name": "DWI TUNGGAL"
+  },
+  {
+    "id": "1702091013",
+    "district_id": "170209",
+    "name": "AIR PUTIH LAMA"
+  },
+  {
+    "id": "1702091023",
+    "district_id": "170209",
+    "name": "ADIREJO"
+  },
+  {
+    "id": "1702091025",
+    "district_id": "170209",
+    "name": "AIR RAMBAI"
+  },
+  {
+    "id": "1702091026",
+    "district_id": "170209",
+    "name": "PASAR BARU"
+  },
+  {
+    "id": "1702091027",
+    "district_id": "170209",
+    "name": "PASAR TENGAH"
+  },
+  {
+    "id": "1702091031",
+    "district_id": "170209",
+    "name": "JALAN BARU"
+  },
+  {
+    "id": "1702091033",
+    "district_id": "170209",
+    "name": "TALANG BENIH"
+  },
+  {
+    "id": "1702091047",
+    "district_id": "170209",
+    "name": "TIMBUL REJO"
+  }
+]

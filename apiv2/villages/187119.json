@@ -1,1 +1,32 @@
-[{"id": "1871191001", "district_id": "187119", "name": "KOTA KARANG"}, {"id": "1871191002", "district_id": "187119", "name": "KOTA KARANG RAYA"}, {"id": "1871191003", "district_id": "187119", "name": "PARWATA"}, {"id": "1871191004", "district_id": "187119", "name": "KETEGUHAN"}, {"id": "1871191005", "district_id": "187119", "name": "SUKAMAJU"}, {"id": "1871191006", "district_id": "187119", "name": "WAY TATAAN"}]
+[
+  {
+    "id": "1871191001",
+    "district_id": "187119",
+    "name": "KOTA KARANG"
+  },
+  {
+    "id": "1871191002",
+    "district_id": "187119",
+    "name": "KOTA KARANG RAYA"
+  },
+  {
+    "id": "1871191003",
+    "district_id": "187119",
+    "name": "PARWATA"
+  },
+  {
+    "id": "1871191004",
+    "district_id": "187119",
+    "name": "KETEGUHAN"
+  },
+  {
+    "id": "1871191005",
+    "district_id": "187119",
+    "name": "SUKAMAJU"
+  },
+  {
+    "id": "1871191006",
+    "district_id": "187119",
+    "name": "WAY TATAAN"
+  }
+]

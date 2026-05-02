@@ -1,1 +1,62 @@
-[{"id": "3507251005", "district_id": "350725", "name": "KALIREJO"}, {"id": "3507251010", "district_id": "350725", "name": "LAWANG"}, {"id": "3507252001", "district_id": "350725", "name": "SIDOLUHUR"}, {"id": "3507252002", "district_id": "350725", "name": "SRIGADING"}, {"id": "3507252003", "district_id": "350725", "name": "SIDODADI"}, {"id": "3507252004", "district_id": "350725", "name": "BEDALI"}, {"id": "3507252006", "district_id": "350725", "name": "MULYOARJO"}, {"id": "3507252007", "district_id": "350725", "name": "SUMBERNGEPOH"}, {"id": "3507252008", "district_id": "350725", "name": "SUMBERPORONG"}, {"id": "3507252009", "district_id": "350725", "name": "TURIREJO"}, {"id": "3507252011", "district_id": "350725", "name": "KETINDAN"}, {"id": "3507252012", "district_id": "350725", "name": "WONOREJO"}]
+[
+  {
+    "id": "3507251005",
+    "district_id": "350725",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "3507251010",
+    "district_id": "350725",
+    "name": "LAWANG"
+  },
+  {
+    "id": "3507252001",
+    "district_id": "350725",
+    "name": "SIDOLUHUR"
+  },
+  {
+    "id": "3507252002",
+    "district_id": "350725",
+    "name": "SRIGADING"
+  },
+  {
+    "id": "3507252003",
+    "district_id": "350725",
+    "name": "SIDODADI"
+  },
+  {
+    "id": "3507252004",
+    "district_id": "350725",
+    "name": "BEDALI"
+  },
+  {
+    "id": "3507252006",
+    "district_id": "350725",
+    "name": "MULYOARJO"
+  },
+  {
+    "id": "3507252007",
+    "district_id": "350725",
+    "name": "SUMBERNGEPOH"
+  },
+  {
+    "id": "3507252008",
+    "district_id": "350725",
+    "name": "SUMBERPORONG"
+  },
+  {
+    "id": "3507252009",
+    "district_id": "350725",
+    "name": "TURIREJO"
+  },
+  {
+    "id": "3507252011",
+    "district_id": "350725",
+    "name": "KETINDAN"
+  },
+  {
+    "id": "3507252012",
+    "district_id": "350725",
+    "name": "WONOREJO"
+  }
+]

@@ -1,1 +1,77 @@
-[{"id": "3201172001", "district_id": "320117", "name": "PURWABAKTI"}, {"id": "3201172002", "district_id": "320117", "name": "CIBUNIAN"}, {"id": "3201172003", "district_id": "320117", "name": "CIBITUNG WETAN"}, {"id": "3201172004", "district_id": "320117", "name": "GUNUNG MENYAN"}, {"id": "3201172005", "district_id": "320117", "name": "GUNUNG BUNDER II"}, {"id": "3201172006", "district_id": "320117", "name": "PASAREAN"}, {"id": "3201172007", "district_id": "320117", "name": "CIMAYANG"}, {"id": "3201172008", "district_id": "320117", "name": "PAMIJAHAN"}, {"id": "3201172009", "district_id": "320117", "name": "CIBENING"}, {"id": "3201172010", "district_id": "320117", "name": "GUNUNG BUNDER I"}, {"id": "3201172011", "district_id": "320117", "name": "CIBITUNG KULON"}, {"id": "3201172012", "district_id": "320117", "name": "GUNUNG PICUNG"}, {"id": "3201172013", "district_id": "320117", "name": "CIASIHAN"}, {"id": "3201172014", "district_id": "320117", "name": "GUNUNG SARI"}, {"id": "3201172015", "district_id": "320117", "name": "CIASMARA"}]
+[
+  {
+    "id": "3201172001",
+    "district_id": "320117",
+    "name": "PURWABAKTI"
+  },
+  {
+    "id": "3201172002",
+    "district_id": "320117",
+    "name": "CIBUNIAN"
+  },
+  {
+    "id": "3201172003",
+    "district_id": "320117",
+    "name": "CIBITUNG WETAN"
+  },
+  {
+    "id": "3201172004",
+    "district_id": "320117",
+    "name": "GUNUNG MENYAN"
+  },
+  {
+    "id": "3201172005",
+    "district_id": "320117",
+    "name": "GUNUNG BUNDER II"
+  },
+  {
+    "id": "3201172006",
+    "district_id": "320117",
+    "name": "PASAREAN"
+  },
+  {
+    "id": "3201172007",
+    "district_id": "320117",
+    "name": "CIMAYANG"
+  },
+  {
+    "id": "3201172008",
+    "district_id": "320117",
+    "name": "PAMIJAHAN"
+  },
+  {
+    "id": "3201172009",
+    "district_id": "320117",
+    "name": "CIBENING"
+  },
+  {
+    "id": "3201172010",
+    "district_id": "320117",
+    "name": "GUNUNG BUNDER I"
+  },
+  {
+    "id": "3201172011",
+    "district_id": "320117",
+    "name": "CIBITUNG KULON"
+  },
+  {
+    "id": "3201172012",
+    "district_id": "320117",
+    "name": "GUNUNG PICUNG"
+  },
+  {
+    "id": "3201172013",
+    "district_id": "320117",
+    "name": "CIASIHAN"
+  },
+  {
+    "id": "3201172014",
+    "district_id": "320117",
+    "name": "GUNUNG SARI"
+  },
+  {
+    "id": "3201172015",
+    "district_id": "320117",
+    "name": "CIASMARA"
+  }
+]

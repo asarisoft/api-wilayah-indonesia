@@ -1,1 +1,42 @@
-[{"id": "5302072007", "district_id": "530207", "name": "TUBLOPO"}, {"id": "5302072008", "district_id": "530207", "name": "NULE"}, {"id": "5302072009", "district_id": "530207", "name": "NUSA"}, {"id": "5302072010", "district_id": "530207", "name": "MNELALETE"}, {"id": "5302072011", "district_id": "530207", "name": "PUSU"}, {"id": "5302072012", "district_id": "530207", "name": "TUBUHUE"}, {"id": "5302072013", "district_id": "530207", "name": "HAUMENI BAKI"}, {"id": "5302072015", "district_id": "530207", "name": "NIFUKANI"}]
+[
+  {
+    "id": "5302072007",
+    "district_id": "530207",
+    "name": "TUBLOPO"
+  },
+  {
+    "id": "5302072008",
+    "district_id": "530207",
+    "name": "NULE"
+  },
+  {
+    "id": "5302072009",
+    "district_id": "530207",
+    "name": "NUSA"
+  },
+  {
+    "id": "5302072010",
+    "district_id": "530207",
+    "name": "MNELALETE"
+  },
+  {
+    "id": "5302072011",
+    "district_id": "530207",
+    "name": "PUSU"
+  },
+  {
+    "id": "5302072012",
+    "district_id": "530207",
+    "name": "TUBUHUE"
+  },
+  {
+    "id": "5302072013",
+    "district_id": "530207",
+    "name": "HAUMENI BAKI"
+  },
+  {
+    "id": "5302072015",
+    "district_id": "530207",
+    "name": "NIFUKANI"
+  }
+]

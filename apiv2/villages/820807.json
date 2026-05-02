@@ -1,1 +1,47 @@
-[{"id": "8208072001", "district_id": "820807", "name": "BAHU"}, {"id": "8208072002", "district_id": "820807", "name": "BAPENU"}, {"id": "8208072003", "district_id": "820807", "name": "KILO"}, {"id": "8208072004", "district_id": "820807", "name": "PANCADO"}, {"id": "8208072005", "district_id": "820807", "name": "NGGAKI"}, {"id": "8208072006", "district_id": "820807", "name": "SUMBONG"}, {"id": "8208072007", "district_id": "820807", "name": "MALULI"}, {"id": "8208072008", "district_id": "820807", "name": "GALEBO"}, {"id": "8208072009", "district_id": "820807", "name": "NGGOLI"}]
+[
+  {
+    "id": "8208072001",
+    "district_id": "820807",
+    "name": "BAHU"
+  },
+  {
+    "id": "8208072002",
+    "district_id": "820807",
+    "name": "BAPENU"
+  },
+  {
+    "id": "8208072003",
+    "district_id": "820807",
+    "name": "KILO"
+  },
+  {
+    "id": "8208072004",
+    "district_id": "820807",
+    "name": "PANCADO"
+  },
+  {
+    "id": "8208072005",
+    "district_id": "820807",
+    "name": "NGGAKI"
+  },
+  {
+    "id": "8208072006",
+    "district_id": "820807",
+    "name": "SUMBONG"
+  },
+  {
+    "id": "8208072007",
+    "district_id": "820807",
+    "name": "MALULI"
+  },
+  {
+    "id": "8208072008",
+    "district_id": "820807",
+    "name": "GALEBO"
+  },
+  {
+    "id": "8208072009",
+    "district_id": "820807",
+    "name": "NGGOLI"
+  }
+]

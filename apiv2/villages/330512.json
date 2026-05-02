@@ -1,1 +1,147 @@
-[{"id": "3305121010", "district_id": "330512", "name": "SELANG"}, {"id": "3305121012", "district_id": "330512", "name": "TAMANWINANGUN"}, {"id": "3305121013", "district_id": "330512", "name": "PANJER"}, {"id": "3305121024", "district_id": "330512", "name": "KEBUMEN"}, {"id": "3305121026", "district_id": "330512", "name": "BUMIREJO"}, {"id": "3305122001", "district_id": "330512", "name": "MUKTISARI"}, {"id": "3305122002", "district_id": "330512", "name": "MURTIREJO"}, {"id": "3305122003", "district_id": "330512", "name": "DEPOKREJO"}, {"id": "3305122004", "district_id": "330512", "name": "MENGKOWO"}, {"id": "3305122005", "district_id": "330512", "name": "GESIKAN"}, {"id": "3305122006", "district_id": "330512", "name": "KALIBAGOR"}, {"id": "3305122007", "district_id": "330512", "name": "ARGOPENI"}, {"id": "3305122008", "district_id": "330512", "name": "JATISARI"}, {"id": "3305122009", "district_id": "330512", "name": "KALIREJO"}, {"id": "3305122011", "district_id": "330512", "name": "ADIKARSO"}, {"id": "3305122014", "district_id": "330512", "name": "KEMBARAN"}, {"id": "3305122015", "district_id": "330512", "name": "SUMBERADI"}, {"id": "3305122016", "district_id": "330512", "name": "WONOSARI"}, {"id": "3305122017", "district_id": "330512", "name": "ROWOREJO"}, {"id": "3305122018", "district_id": "330512", "name": "TANAHSARI"}, {"id": "3305122019", "district_id": "330512", "name": "BANDUNG"}, {"id": "3305122020", "district_id": "330512", "name": "CANDIMULYO"}, {"id": "3305122021", "district_id": "330512", "name": "KALIJIREK"}, {"id": "3305122022", "district_id": "330512", "name": "CANDIWULAN"}, {"id": "3305122023", "district_id": "330512", "name": "KAWEDUSAN"}, {"id": "3305122025", "district_id": "330512", "name": "KUTOSARI"}, {"id": "3305122027", "district_id": "330512", "name": "GEMEKSEKTI"}, {"id": "3305122028", "district_id": "330512", "name": "KARANGSARI"}, {"id": "3305122029", "district_id": "330512", "name": "JEMUR"}]
+[
+  {
+    "id": "3305121010",
+    "district_id": "330512",
+    "name": "SELANG"
+  },
+  {
+    "id": "3305121012",
+    "district_id": "330512",
+    "name": "TAMANWINANGUN"
+  },
+  {
+    "id": "3305121013",
+    "district_id": "330512",
+    "name": "PANJER"
+  },
+  {
+    "id": "3305121024",
+    "district_id": "330512",
+    "name": "KEBUMEN"
+  },
+  {
+    "id": "3305121026",
+    "district_id": "330512",
+    "name": "BUMIREJO"
+  },
+  {
+    "id": "3305122001",
+    "district_id": "330512",
+    "name": "MUKTISARI"
+  },
+  {
+    "id": "3305122002",
+    "district_id": "330512",
+    "name": "MURTIREJO"
+  },
+  {
+    "id": "3305122003",
+    "district_id": "330512",
+    "name": "DEPOKREJO"
+  },
+  {
+    "id": "3305122004",
+    "district_id": "330512",
+    "name": "MENGKOWO"
+  },
+  {
+    "id": "3305122005",
+    "district_id": "330512",
+    "name": "GESIKAN"
+  },
+  {
+    "id": "3305122006",
+    "district_id": "330512",
+    "name": "KALIBAGOR"
+  },
+  {
+    "id": "3305122007",
+    "district_id": "330512",
+    "name": "ARGOPENI"
+  },
+  {
+    "id": "3305122008",
+    "district_id": "330512",
+    "name": "JATISARI"
+  },
+  {
+    "id": "3305122009",
+    "district_id": "330512",
+    "name": "KALIREJO"
+  },
+  {
+    "id": "3305122011",
+    "district_id": "330512",
+    "name": "ADIKARSO"
+  },
+  {
+    "id": "3305122014",
+    "district_id": "330512",
+    "name": "KEMBARAN"
+  },
+  {
+    "id": "3305122015",
+    "district_id": "330512",
+    "name": "SUMBERADI"
+  },
+  {
+    "id": "3305122016",
+    "district_id": "330512",
+    "name": "WONOSARI"
+  },
+  {
+    "id": "3305122017",
+    "district_id": "330512",
+    "name": "ROWOREJO"
+  },
+  {
+    "id": "3305122018",
+    "district_id": "330512",
+    "name": "TANAHSARI"
+  },
+  {
+    "id": "3305122019",
+    "district_id": "330512",
+    "name": "BANDUNG"
+  },
+  {
+    "id": "3305122020",
+    "district_id": "330512",
+    "name": "CANDIMULYO"
+  },
+  {
+    "id": "3305122021",
+    "district_id": "330512",
+    "name": "KALIJIREK"
+  },
+  {
+    "id": "3305122022",
+    "district_id": "330512",
+    "name": "CANDIWULAN"
+  },
+  {
+    "id": "3305122023",
+    "district_id": "330512",
+    "name": "KAWEDUSAN"
+  },
+  {
+    "id": "3305122025",
+    "district_id": "330512",
+    "name": "KUTOSARI"
+  },
+  {
+    "id": "3305122027",
+    "district_id": "330512",
+    "name": "GEMEKSEKTI"
+  },
+  {
+    "id": "3305122028",
+    "district_id": "330512",
+    "name": "KARANGSARI"
+  },
+  {
+    "id": "3305122029",
+    "district_id": "330512",
+    "name": "JEMUR"
+  }
+]

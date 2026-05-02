@@ -1,1 +1,77 @@
-[{"id": "6211042001", "district_id": "621104", "name": "MANEN PADURAN"}, {"id": "6211042002", "district_id": "621104", "name": "MANEN KALEKA"}, {"id": "6211042003", "district_id": "621104", "name": "LAWANG URU"}, {"id": "6211042004", "district_id": "621104", "name": "HURUNG"}, {"id": "6211042005", "district_id": "621104", "name": "HANUA"}, {"id": "6211042006", "district_id": "621104", "name": "RAMANG"}, {"id": "6211042007", "district_id": "621104", "name": "TAMBAK"}, {"id": "6211042008", "district_id": "621104", "name": "PAHAWAN"}, {"id": "6211042009", "district_id": "621104", "name": "GOHA"}, {"id": "6211042010", "district_id": "621104", "name": "BAWAN"}, {"id": "6211042011", "district_id": "621104", "name": "TUMBANG TARUSAN"}, {"id": "6211042012", "district_id": "621104", "name": "PANDAWEI"}, {"id": "6211042013", "district_id": "621104", "name": "PANGI"}, {"id": "6211042014", "district_id": "621104", "name": "TANGKAHEN"}, {"id": "6211042015", "district_id": "621104", "name": "KASALI BARU"}]
+[
+  {
+    "id": "6211042001",
+    "district_id": "621104",
+    "name": "MANEN PADURAN"
+  },
+  {
+    "id": "6211042002",
+    "district_id": "621104",
+    "name": "MANEN KALEKA"
+  },
+  {
+    "id": "6211042003",
+    "district_id": "621104",
+    "name": "LAWANG URU"
+  },
+  {
+    "id": "6211042004",
+    "district_id": "621104",
+    "name": "HURUNG"
+  },
+  {
+    "id": "6211042005",
+    "district_id": "621104",
+    "name": "HANUA"
+  },
+  {
+    "id": "6211042006",
+    "district_id": "621104",
+    "name": "RAMANG"
+  },
+  {
+    "id": "6211042007",
+    "district_id": "621104",
+    "name": "TAMBAK"
+  },
+  {
+    "id": "6211042008",
+    "district_id": "621104",
+    "name": "PAHAWAN"
+  },
+  {
+    "id": "6211042009",
+    "district_id": "621104",
+    "name": "GOHA"
+  },
+  {
+    "id": "6211042010",
+    "district_id": "621104",
+    "name": "BAWAN"
+  },
+  {
+    "id": "6211042011",
+    "district_id": "621104",
+    "name": "TUMBANG TARUSAN"
+  },
+  {
+    "id": "6211042012",
+    "district_id": "621104",
+    "name": "PANDAWEI"
+  },
+  {
+    "id": "6211042013",
+    "district_id": "621104",
+    "name": "PANGI"
+  },
+  {
+    "id": "6211042014",
+    "district_id": "621104",
+    "name": "TANGKAHEN"
+  },
+  {
+    "id": "6211042015",
+    "district_id": "621104",
+    "name": "KASALI BARU"
+  }
+]

@@ -1,1 +1,22 @@
-[{"id": "7326141002", "district_id": "732614", "name": "BARUPPU SELATAN"}, {"id": "7326142001", "district_id": "732614", "name": "BARUPPU' UTARA"}, {"id": "7326142003", "district_id": "732614", "name": "BARUPPU BENTENG BATU"}, {"id": "7326142004", "district_id": "732614", "name": "BARUPPU' PARODO"}]
+[
+  {
+    "id": "7326141002",
+    "district_id": "732614",
+    "name": "BARUPPU SELATAN"
+  },
+  {
+    "id": "7326142001",
+    "district_id": "732614",
+    "name": "BARUPPU' UTARA"
+  },
+  {
+    "id": "7326142003",
+    "district_id": "732614",
+    "name": "BARUPPU BENTENG BATU"
+  },
+  {
+    "id": "7326142004",
+    "district_id": "732614",
+    "name": "BARUPPU' PARODO"
+  }
+]

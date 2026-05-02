@@ -1,1 +1,102 @@
-[{"id": "3308022001", "district_id": "330802", "name": "GIRIPURNO"}, {"id": "3308022002", "district_id": "330802", "name": "GIRITENGAH"}, {"id": "3308022003", "district_id": "330802", "name": "TUKSONGO"}, {"id": "3308022004", "district_id": "330802", "name": "MAJAKSINGI"}, {"id": "3308022005", "district_id": "330802", "name": "KENALAN"}, {"id": "3308022006", "district_id": "330802", "name": "BIGARAN"}, {"id": "3308022007", "district_id": "330802", "name": "SAMBENG"}, {"id": "3308022008", "district_id": "330802", "name": "CANDIREJO"}, {"id": "3308022009", "district_id": "330802", "name": "NGARGOGONDO"}, {"id": "3308022010", "district_id": "330802", "name": "WANUREJO"}, {"id": "3308022011", "district_id": "330802", "name": "BOROBUDUR"}, {"id": "3308022012", "district_id": "330802", "name": "TANJUNGSARI"}, {"id": "3308022013", "district_id": "330802", "name": "KARANGANYAR"}, {"id": "3308022014", "district_id": "330802", "name": "KARANGREJO"}, {"id": "3308022015", "district_id": "330802", "name": "NGADIHARJO"}, {"id": "3308022016", "district_id": "330802", "name": "KEBONSARI"}, {"id": "3308022017", "district_id": "330802", "name": "TEGALARUM"}, {"id": "3308022018", "district_id": "330802", "name": "KEMBANGLIMUS"}, {"id": "3308022019", "district_id": "330802", "name": "WRINGINPUTIH"}, {"id": "3308022020", "district_id": "330802", "name": "BUMIHARJO"}]
+[
+  {
+    "id": "3308022001",
+    "district_id": "330802",
+    "name": "GIRIPURNO"
+  },
+  {
+    "id": "3308022002",
+    "district_id": "330802",
+    "name": "GIRITENGAH"
+  },
+  {
+    "id": "3308022003",
+    "district_id": "330802",
+    "name": "TUKSONGO"
+  },
+  {
+    "id": "3308022004",
+    "district_id": "330802",
+    "name": "MAJAKSINGI"
+  },
+  {
+    "id": "3308022005",
+    "district_id": "330802",
+    "name": "KENALAN"
+  },
+  {
+    "id": "3308022006",
+    "district_id": "330802",
+    "name": "BIGARAN"
+  },
+  {
+    "id": "3308022007",
+    "district_id": "330802",
+    "name": "SAMBENG"
+  },
+  {
+    "id": "3308022008",
+    "district_id": "330802",
+    "name": "CANDIREJO"
+  },
+  {
+    "id": "3308022009",
+    "district_id": "330802",
+    "name": "NGARGOGONDO"
+  },
+  {
+    "id": "3308022010",
+    "district_id": "330802",
+    "name": "WANUREJO"
+  },
+  {
+    "id": "3308022011",
+    "district_id": "330802",
+    "name": "BOROBUDUR"
+  },
+  {
+    "id": "3308022012",
+    "district_id": "330802",
+    "name": "TANJUNGSARI"
+  },
+  {
+    "id": "3308022013",
+    "district_id": "330802",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3308022014",
+    "district_id": "330802",
+    "name": "KARANGREJO"
+  },
+  {
+    "id": "3308022015",
+    "district_id": "330802",
+    "name": "NGADIHARJO"
+  },
+  {
+    "id": "3308022016",
+    "district_id": "330802",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3308022017",
+    "district_id": "330802",
+    "name": "TEGALARUM"
+  },
+  {
+    "id": "3308022018",
+    "district_id": "330802",
+    "name": "KEMBANGLIMUS"
+  },
+  {
+    "id": "3308022019",
+    "district_id": "330802",
+    "name": "WRINGINPUTIH"
+  },
+  {
+    "id": "3308022020",
+    "district_id": "330802",
+    "name": "BUMIHARJO"
+  }
+]

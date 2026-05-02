@@ -1,1 +1,102 @@
-[{"id": "9408012001", "district_id": "940801", "name": "WAGHETE I"}, {"id": "9408012002", "district_id": "940801", "name": "UGIYA"}, {"id": "9408012003", "district_id": "940801", "name": "YABA"}, {"id": "9408012004", "district_id": "940801", "name": "WAGHETE II"}, {"id": "9408012005", "district_id": "940801", "name": "BOMAU I"}, {"id": "9408012006", "district_id": "940801", "name": "OKOMAKEBO"}, {"id": "9408012007", "district_id": "940801", "name": "BAMOU II"}, {"id": "9408012008", "district_id": "940801", "name": "ATOUDA"}, {"id": "9408012009", "district_id": "940801", "name": "ONEIBO"}, {"id": "9408012010", "district_id": "940801", "name": "YABA II"}, {"id": "9408012011", "district_id": "940801", "name": "MUGOUDA"}, {"id": "9408012012", "district_id": "940801", "name": "BOMOU III"}, {"id": "9408012013", "district_id": "940801", "name": "OKOMOTADI"}, {"id": "9408012014", "district_id": "940801", "name": "BUWOUDIMI"}, {"id": "9408012015", "district_id": "940801", "name": "IBODIYO"}, {"id": "9408012016", "district_id": "940801", "name": "IKIYAWO"}, {"id": "9408012017", "district_id": "940801", "name": "MOTANO"}, {"id": "9408012018", "district_id": "940801", "name": "AMAGO"}, {"id": "9408012019", "district_id": "940801", "name": "IDEGE"}, {"id": "9408012020", "district_id": "940801", "name": "PEKU"}]
+[
+  {
+    "id": "9408012001",
+    "district_id": "940801",
+    "name": "WAGHETE I"
+  },
+  {
+    "id": "9408012002",
+    "district_id": "940801",
+    "name": "UGIYA"
+  },
+  {
+    "id": "9408012003",
+    "district_id": "940801",
+    "name": "YABA"
+  },
+  {
+    "id": "9408012004",
+    "district_id": "940801",
+    "name": "WAGHETE II"
+  },
+  {
+    "id": "9408012005",
+    "district_id": "940801",
+    "name": "BOMAU I"
+  },
+  {
+    "id": "9408012006",
+    "district_id": "940801",
+    "name": "OKOMAKEBO"
+  },
+  {
+    "id": "9408012007",
+    "district_id": "940801",
+    "name": "BAMOU II"
+  },
+  {
+    "id": "9408012008",
+    "district_id": "940801",
+    "name": "ATOUDA"
+  },
+  {
+    "id": "9408012009",
+    "district_id": "940801",
+    "name": "ONEIBO"
+  },
+  {
+    "id": "9408012010",
+    "district_id": "940801",
+    "name": "YABA II"
+  },
+  {
+    "id": "9408012011",
+    "district_id": "940801",
+    "name": "MUGOUDA"
+  },
+  {
+    "id": "9408012012",
+    "district_id": "940801",
+    "name": "BOMOU III"
+  },
+  {
+    "id": "9408012013",
+    "district_id": "940801",
+    "name": "OKOMOTADI"
+  },
+  {
+    "id": "9408012014",
+    "district_id": "940801",
+    "name": "BUWOUDIMI"
+  },
+  {
+    "id": "9408012015",
+    "district_id": "940801",
+    "name": "IBODIYO"
+  },
+  {
+    "id": "9408012016",
+    "district_id": "940801",
+    "name": "IKIYAWO"
+  },
+  {
+    "id": "9408012017",
+    "district_id": "940801",
+    "name": "MOTANO"
+  },
+  {
+    "id": "9408012018",
+    "district_id": "940801",
+    "name": "AMAGO"
+  },
+  {
+    "id": "9408012019",
+    "district_id": "940801",
+    "name": "IDEGE"
+  },
+  {
+    "id": "9408012020",
+    "district_id": "940801",
+    "name": "PEKU"
+  }
+]

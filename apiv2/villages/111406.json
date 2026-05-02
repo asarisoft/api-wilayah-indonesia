@@ -1,1 +1,102 @@
-[{"id": "1114062001", "district_id": "111406", "name": "KEUDE PANGA"}, {"id": "1114062002", "district_id": "111406", "name": "KUTA TUHA"}, {"id": "1114062003", "district_id": "111406", "name": "TUWI KAREUNG"}, {"id": "1114062004", "district_id": "111406", "name": "LADANG BARO"}, {"id": "1114062005", "district_id": "111406", "name": "PANTON KRUENG"}, {"id": "1114062006", "district_id": "111406", "name": "GLE PUTOH"}, {"id": "1114062007", "district_id": "111406", "name": "ALUE PANDE"}, {"id": "1114062008", "district_id": "111406", "name": "BATEE MEUTUDONG"}, {"id": "1114062009", "district_id": "111406", "name": "GAMPONG HARAPAN"}, {"id": "1114062010", "district_id": "111406", "name": "GUNONG BULOH"}, {"id": "1114062011", "district_id": "111406", "name": "GUNONG MEULINTEUNG"}, {"id": "1114062013", "district_id": "111406", "name": "ALUE ABED"}, {"id": "1114062014", "district_id": "111406", "name": "GUNONG MANTOK"}, {"id": "1114062015", "district_id": "111406", "name": "ALUE RAYA"}, {"id": "1114062016", "district_id": "111406", "name": "ALUE TEUNGOH"}, {"id": "1114062017", "district_id": "111406", "name": "BABAH CEUPAN"}, {"id": "1114062018", "district_id": "111406", "name": "TUWI EUMPEUK"}, {"id": "1114062019", "district_id": "111406", "name": "PANTON KABU"}, {"id": "1114062020", "district_id": "111406", "name": "TUWI KAYEE"}, {"id": "1114062021", "district_id": "111406", "name": "ALUE PIET"}]
+[
+  {
+    "id": "1114062001",
+    "district_id": "111406",
+    "name": "KEUDE PANGA"
+  },
+  {
+    "id": "1114062002",
+    "district_id": "111406",
+    "name": "KUTA TUHA"
+  },
+  {
+    "id": "1114062003",
+    "district_id": "111406",
+    "name": "TUWI KAREUNG"
+  },
+  {
+    "id": "1114062004",
+    "district_id": "111406",
+    "name": "LADANG BARO"
+  },
+  {
+    "id": "1114062005",
+    "district_id": "111406",
+    "name": "PANTON KRUENG"
+  },
+  {
+    "id": "1114062006",
+    "district_id": "111406",
+    "name": "GLE PUTOH"
+  },
+  {
+    "id": "1114062007",
+    "district_id": "111406",
+    "name": "ALUE PANDE"
+  },
+  {
+    "id": "1114062008",
+    "district_id": "111406",
+    "name": "BATEE MEUTUDONG"
+  },
+  {
+    "id": "1114062009",
+    "district_id": "111406",
+    "name": "GAMPONG HARAPAN"
+  },
+  {
+    "id": "1114062010",
+    "district_id": "111406",
+    "name": "GUNONG BULOH"
+  },
+  {
+    "id": "1114062011",
+    "district_id": "111406",
+    "name": "GUNONG MEULINTEUNG"
+  },
+  {
+    "id": "1114062013",
+    "district_id": "111406",
+    "name": "ALUE ABED"
+  },
+  {
+    "id": "1114062014",
+    "district_id": "111406",
+    "name": "GUNONG MANTOK"
+  },
+  {
+    "id": "1114062015",
+    "district_id": "111406",
+    "name": "ALUE RAYA"
+  },
+  {
+    "id": "1114062016",
+    "district_id": "111406",
+    "name": "ALUE TEUNGOH"
+  },
+  {
+    "id": "1114062017",
+    "district_id": "111406",
+    "name": "BABAH CEUPAN"
+  },
+  {
+    "id": "1114062018",
+    "district_id": "111406",
+    "name": "TUWI EUMPEUK"
+  },
+  {
+    "id": "1114062019",
+    "district_id": "111406",
+    "name": "PANTON KABU"
+  },
+  {
+    "id": "1114062020",
+    "district_id": "111406",
+    "name": "TUWI KAYEE"
+  },
+  {
+    "id": "1114062021",
+    "district_id": "111406",
+    "name": "ALUE PIET"
+  }
+]

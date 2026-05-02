@@ -1,1 +1,62 @@
-[{"id": "140501", "regency_id": "1405", "name": "UKUI"}, {"id": "140502", "regency_id": "1405", "name": "PANGKALAN KERINCI"}, {"id": "140503", "regency_id": "1405", "name": "PANGKALAN KURAS"}, {"id": "140504", "regency_id": "1405", "name": "PANGKALAN LESUNG"}, {"id": "140505", "regency_id": "1405", "name": "LANGGAM"}, {"id": "140506", "regency_id": "1405", "name": "PELALAWAN"}, {"id": "140507", "regency_id": "1405", "name": "KERUMUTAN"}, {"id": "140508", "regency_id": "1405", "name": "BUNUT"}, {"id": "140509", "regency_id": "1405", "name": "TELUK MERANTI"}, {"id": "140510", "regency_id": "1405", "name": "KUALA KAMPAR"}, {"id": "140511", "regency_id": "1405", "name": "BANDAR SEI KIJANG"}, {"id": "140512", "regency_id": "1405", "name": "BANDAR PETALANGAN"}]
+[
+  {
+    "id": "140501",
+    "regency_id": "1405",
+    "name": "UKUI"
+  },
+  {
+    "id": "140502",
+    "regency_id": "1405",
+    "name": "PANGKALAN KERINCI"
+  },
+  {
+    "id": "140503",
+    "regency_id": "1405",
+    "name": "PANGKALAN KURAS"
+  },
+  {
+    "id": "140504",
+    "regency_id": "1405",
+    "name": "PANGKALAN LESUNG"
+  },
+  {
+    "id": "140505",
+    "regency_id": "1405",
+    "name": "LANGGAM"
+  },
+  {
+    "id": "140506",
+    "regency_id": "1405",
+    "name": "PELALAWAN"
+  },
+  {
+    "id": "140507",
+    "regency_id": "1405",
+    "name": "KERUMUTAN"
+  },
+  {
+    "id": "140508",
+    "regency_id": "1405",
+    "name": "BUNUT"
+  },
+  {
+    "id": "140509",
+    "regency_id": "1405",
+    "name": "TELUK MERANTI"
+  },
+  {
+    "id": "140510",
+    "regency_id": "1405",
+    "name": "KUALA KAMPAR"
+  },
+  {
+    "id": "140511",
+    "regency_id": "1405",
+    "name": "BANDAR SEI KIJANG"
+  },
+  {
+    "id": "140512",
+    "regency_id": "1405",
+    "name": "BANDAR PETALANGAN"
+  }
+]

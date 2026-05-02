@@ -1,1 +1,87 @@
-[{"id": "1502032004", "district_id": "150203", "name": "DURIAN RAMBUN"}, {"id": "1502032007", "district_id": "150203", "name": "LUBUK BIRAH"}, {"id": "1502032008", "district_id": "150203", "name": "LUBUK BERINGIN"}, {"id": "1502032009", "district_id": "150203", "name": "RANTAU MACANG"}, {"id": "1502032010", "district_id": "150203", "name": "PERADUN TEMERAS"}, {"id": "1502032011", "district_id": "150203", "name": "TELUK SIKUMBANG"}, {"id": "1502032012", "district_id": "150203", "name": "MUARA SIAU"}, {"id": "1502032013", "district_id": "150203", "name": "TIARO"}, {"id": "1502032015", "district_id": "150203", "name": "AIR LAGO"}, {"id": "1502032016", "district_id": "150203", "name": "BADAK TEKURUNG"}, {"id": "1502032017", "district_id": "150203", "name": "RANTAU BIDARO"}, {"id": "1502032018", "district_id": "150203", "name": "RANTAU PANJANG"}, {"id": "1502032021", "district_id": "150203", "name": "PULAU RAMAN"}, {"id": "1502032024", "district_id": "150203", "name": "PASAR MUARA SIAU"}, {"id": "1502032027", "district_id": "150203", "name": "SEPANTAI RENAH"}, {"id": "1502032028", "district_id": "150203", "name": "SUNGAI ULAS"}, {"id": "1502032029", "district_id": "150203", "name": "RANTAU BAYUR"}]
+[
+  {
+    "id": "1502032004",
+    "district_id": "150203",
+    "name": "DURIAN RAMBUN"
+  },
+  {
+    "id": "1502032007",
+    "district_id": "150203",
+    "name": "LUBUK BIRAH"
+  },
+  {
+    "id": "1502032008",
+    "district_id": "150203",
+    "name": "LUBUK BERINGIN"
+  },
+  {
+    "id": "1502032009",
+    "district_id": "150203",
+    "name": "RANTAU MACANG"
+  },
+  {
+    "id": "1502032010",
+    "district_id": "150203",
+    "name": "PERADUN TEMERAS"
+  },
+  {
+    "id": "1502032011",
+    "district_id": "150203",
+    "name": "TELUK SIKUMBANG"
+  },
+  {
+    "id": "1502032012",
+    "district_id": "150203",
+    "name": "MUARA SIAU"
+  },
+  {
+    "id": "1502032013",
+    "district_id": "150203",
+    "name": "TIARO"
+  },
+  {
+    "id": "1502032015",
+    "district_id": "150203",
+    "name": "AIR LAGO"
+  },
+  {
+    "id": "1502032016",
+    "district_id": "150203",
+    "name": "BADAK TEKURUNG"
+  },
+  {
+    "id": "1502032017",
+    "district_id": "150203",
+    "name": "RANTAU BIDARO"
+  },
+  {
+    "id": "1502032018",
+    "district_id": "150203",
+    "name": "RANTAU PANJANG"
+  },
+  {
+    "id": "1502032021",
+    "district_id": "150203",
+    "name": "PULAU RAMAN"
+  },
+  {
+    "id": "1502032024",
+    "district_id": "150203",
+    "name": "PASAR MUARA SIAU"
+  },
+  {
+    "id": "1502032027",
+    "district_id": "150203",
+    "name": "SEPANTAI RENAH"
+  },
+  {
+    "id": "1502032028",
+    "district_id": "150203",
+    "name": "SUNGAI ULAS"
+  },
+  {
+    "id": "1502032029",
+    "district_id": "150203",
+    "name": "RANTAU BAYUR"
+  }
+]

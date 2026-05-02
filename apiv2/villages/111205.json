@@ -1,1 +1,107 @@
-[{"id": "1112052001", "district_id": "111205", "name": "KOTA BAHAGIA"}, {"id": "1112052002", "district_id": "111205", "name": "PASAR KOTA BAHAGIA"}, {"id": "1112052003", "district_id": "111205", "name": "GEULANGGANG GAJAH"}, {"id": "1112052004", "district_id": "111205", "name": "KUALA TERUBUE"}, {"id": "1112052005", "district_id": "111205", "name": "BLANG MAKMUR"}, {"id": "1112052006", "district_id": "111205", "name": "PANTO CUT"}, {"id": "1112052007", "district_id": "111205", "name": "ALUE PADEE"}, {"id": "1112052008", "district_id": "111205", "name": "MUKA BLANG"}, {"id": "1112052009", "district_id": "111205", "name": "LHUNG GEULUMPANG"}, {"id": "1112052010", "district_id": "111205", "name": "PADANG SIKABU"}, {"id": "1112052011", "district_id": "111205", "name": "KAMPUNG TENGAH"}, {"id": "1112052012", "district_id": "111205", "name": "BLANG PANYANG"}, {"id": "1112052013", "district_id": "111205", "name": "KRUENG BATEE"}, {"id": "1112052014", "district_id": "111205", "name": "ALUE PISANG"}, {"id": "1112052015", "district_id": "111205", "name": "LHOK GAJAH"}, {"id": "1112052016", "district_id": "111205", "name": "IE MAMEH"}, {"id": "1112052017", "district_id": "111205", "name": "KEUDE BARO"}, {"id": "1112052018", "district_id": "111205", "name": "LAMA TUHA"}, {"id": "1112052019", "district_id": "111205", "name": "DRIEN BERUMBANG"}, {"id": "1112052020", "district_id": "111205", "name": "RUMOH PANYANG"}, {"id": "1112052021", "district_id": "111205", "name": "KRUENG PANTO"}]
+[
+  {
+    "id": "1112052001",
+    "district_id": "111205",
+    "name": "KOTA BAHAGIA"
+  },
+  {
+    "id": "1112052002",
+    "district_id": "111205",
+    "name": "PASAR KOTA BAHAGIA"
+  },
+  {
+    "id": "1112052003",
+    "district_id": "111205",
+    "name": "GEULANGGANG GAJAH"
+  },
+  {
+    "id": "1112052004",
+    "district_id": "111205",
+    "name": "KUALA TERUBUE"
+  },
+  {
+    "id": "1112052005",
+    "district_id": "111205",
+    "name": "BLANG MAKMUR"
+  },
+  {
+    "id": "1112052006",
+    "district_id": "111205",
+    "name": "PANTO CUT"
+  },
+  {
+    "id": "1112052007",
+    "district_id": "111205",
+    "name": "ALUE PADEE"
+  },
+  {
+    "id": "1112052008",
+    "district_id": "111205",
+    "name": "MUKA BLANG"
+  },
+  {
+    "id": "1112052009",
+    "district_id": "111205",
+    "name": "LHUNG GEULUMPANG"
+  },
+  {
+    "id": "1112052010",
+    "district_id": "111205",
+    "name": "PADANG SIKABU"
+  },
+  {
+    "id": "1112052011",
+    "district_id": "111205",
+    "name": "KAMPUNG TENGAH"
+  },
+  {
+    "id": "1112052012",
+    "district_id": "111205",
+    "name": "BLANG PANYANG"
+  },
+  {
+    "id": "1112052013",
+    "district_id": "111205",
+    "name": "KRUENG BATEE"
+  },
+  {
+    "id": "1112052014",
+    "district_id": "111205",
+    "name": "ALUE PISANG"
+  },
+  {
+    "id": "1112052015",
+    "district_id": "111205",
+    "name": "LHOK GAJAH"
+  },
+  {
+    "id": "1112052016",
+    "district_id": "111205",
+    "name": "IE MAMEH"
+  },
+  {
+    "id": "1112052017",
+    "district_id": "111205",
+    "name": "KEUDE BARO"
+  },
+  {
+    "id": "1112052018",
+    "district_id": "111205",
+    "name": "LAMA TUHA"
+  },
+  {
+    "id": "1112052019",
+    "district_id": "111205",
+    "name": "DRIEN BERUMBANG"
+  },
+  {
+    "id": "1112052020",
+    "district_id": "111205",
+    "name": "RUMOH PANYANG"
+  },
+  {
+    "id": "1112052021",
+    "district_id": "111205",
+    "name": "KRUENG PANTO"
+  }
+]

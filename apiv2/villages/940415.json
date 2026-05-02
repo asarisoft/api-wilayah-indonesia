@@ -1,1 +1,37 @@
-[{"id": "9404152001", "district_id": "940415", "name": "LIMAU ASRI TIMUR"}, {"id": "9404152002", "district_id": "940415", "name": "WANGIRJA"}, {"id": "9404152003", "district_id": "940415", "name": "IWAKA"}, {"id": "9404152004", "district_id": "940415", "name": "NAENA MUKTIPURA"}, {"id": "9404152005", "district_id": "940415", "name": "MULIA KENCANA"}, {"id": "9404152006", "district_id": "940415", "name": "PIGAPU"}, {"id": "9404152007", "district_id": "940415", "name": "LIMAU ASRI BARAT"}]
+[
+  {
+    "id": "9404152001",
+    "district_id": "940415",
+    "name": "LIMAU ASRI TIMUR"
+  },
+  {
+    "id": "9404152002",
+    "district_id": "940415",
+    "name": "WANGIRJA"
+  },
+  {
+    "id": "9404152003",
+    "district_id": "940415",
+    "name": "IWAKA"
+  },
+  {
+    "id": "9404152004",
+    "district_id": "940415",
+    "name": "NAENA MUKTIPURA"
+  },
+  {
+    "id": "9404152005",
+    "district_id": "940415",
+    "name": "MULIA KENCANA"
+  },
+  {
+    "id": "9404152006",
+    "district_id": "940415",
+    "name": "PIGAPU"
+  },
+  {
+    "id": "9404152007",
+    "district_id": "940415",
+    "name": "LIMAU ASRI BARAT"
+  }
+]

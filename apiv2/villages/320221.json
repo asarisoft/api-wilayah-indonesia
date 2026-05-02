@@ -1,1 +1,57 @@
-[{"id": "3202211001", "district_id": "320221", "name": "JAMPANGKULON"}, {"id": "3202212002", "district_id": "320221", "name": "BOJONGGENTENG"}, {"id": "3202212003", "district_id": "320221", "name": "CIKARANG"}, {"id": "3202212005", "district_id": "320221", "name": "BOJONGSARI"}, {"id": "3202212007", "district_id": "320221", "name": "NAGRAKSARI"}, {"id": "3202212008", "district_id": "320221", "name": "MEKARJAYA"}, {"id": "3202212009", "district_id": "320221", "name": "TANJUNG"}, {"id": "3202212011", "district_id": "320221", "name": "CIPARAY"}, {"id": "3202212013", "district_id": "320221", "name": "PADAJAYA"}, {"id": "3202212014", "district_id": "320221", "name": "KARANGANYAR"}, {"id": "3202212016", "district_id": "320221", "name": "CIKARANGGEUSAN"}]
+[
+  {
+    "id": "3202211001",
+    "district_id": "320221",
+    "name": "JAMPANGKULON"
+  },
+  {
+    "id": "3202212002",
+    "district_id": "320221",
+    "name": "BOJONGGENTENG"
+  },
+  {
+    "id": "3202212003",
+    "district_id": "320221",
+    "name": "CIKARANG"
+  },
+  {
+    "id": "3202212005",
+    "district_id": "320221",
+    "name": "BOJONGSARI"
+  },
+  {
+    "id": "3202212007",
+    "district_id": "320221",
+    "name": "NAGRAKSARI"
+  },
+  {
+    "id": "3202212008",
+    "district_id": "320221",
+    "name": "MEKARJAYA"
+  },
+  {
+    "id": "3202212009",
+    "district_id": "320221",
+    "name": "TANJUNG"
+  },
+  {
+    "id": "3202212011",
+    "district_id": "320221",
+    "name": "CIPARAY"
+  },
+  {
+    "id": "3202212013",
+    "district_id": "320221",
+    "name": "PADAJAYA"
+  },
+  {
+    "id": "3202212014",
+    "district_id": "320221",
+    "name": "KARANGANYAR"
+  },
+  {
+    "id": "3202212016",
+    "district_id": "320221",
+    "name": "CIKARANGGEUSAN"
+  }
+]

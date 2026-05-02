@@ -1,1 +1,102 @@
-[{"id": "6104112001", "district_id": "610411", "name": "NANGA TAYAP"}, {"id": "6104112002", "district_id": "610411", "name": "PANGKALAN TELOK"}, {"id": "6104112003", "district_id": "610411", "name": "PANGKALAN SUKA"}, {"id": "6104112004", "district_id": "610411", "name": "BETENUNG"}, {"id": "6104112005", "district_id": "610411", "name": "BATU MAS"}, {"id": "6104112006", "district_id": "610411", "name": "SUNGAI KELIK"}, {"id": "6104112007", "district_id": "610411", "name": "LEMBAH HIJAU SATU"}, {"id": "6104112008", "district_id": "610411", "name": "LEMBAH HIJAU DUA"}, {"id": "6104112009", "district_id": "610411", "name": "SIANTAU RAYA"}, {"id": "6104112010", "district_id": "610411", "name": "SEBADAK RAYA"}, {"id": "6104112011", "district_id": "610411", "name": "SIMPANG TIGA SEMBELANGAAN"}, {"id": "6104112012", "district_id": "610411", "name": "MENSUBANG"}, {"id": "6104112013", "district_id": "610411", "name": "TAJOK KAYONG"}, {"id": "6104112014", "district_id": "610411", "name": "KAYONG UTARA"}, {"id": "6104112015", "district_id": "610411", "name": "KAYONG HULU"}, {"id": "6104112016", "district_id": "610411", "name": "SEPAKAT JAYA"}, {"id": "6104112017", "district_id": "610411", "name": "CEGOLAK"}, {"id": "6104112018", "district_id": "610411", "name": "PATEH BENTENG"}, {"id": "6104112019", "district_id": "610411", "name": "TANJUNG MEDAN"}, {"id": "6104112020", "district_id": "610411", "name": "KAYUNG TUHE"}]
+[
+  {
+    "id": "6104112001",
+    "district_id": "610411",
+    "name": "NANGA TAYAP"
+  },
+  {
+    "id": "6104112002",
+    "district_id": "610411",
+    "name": "PANGKALAN TELOK"
+  },
+  {
+    "id": "6104112003",
+    "district_id": "610411",
+    "name": "PANGKALAN SUKA"
+  },
+  {
+    "id": "6104112004",
+    "district_id": "610411",
+    "name": "BETENUNG"
+  },
+  {
+    "id": "6104112005",
+    "district_id": "610411",
+    "name": "BATU MAS"
+  },
+  {
+    "id": "6104112006",
+    "district_id": "610411",
+    "name": "SUNGAI KELIK"
+  },
+  {
+    "id": "6104112007",
+    "district_id": "610411",
+    "name": "LEMBAH HIJAU SATU"
+  },
+  {
+    "id": "6104112008",
+    "district_id": "610411",
+    "name": "LEMBAH HIJAU DUA"
+  },
+  {
+    "id": "6104112009",
+    "district_id": "610411",
+    "name": "SIANTAU RAYA"
+  },
+  {
+    "id": "6104112010",
+    "district_id": "610411",
+    "name": "SEBADAK RAYA"
+  },
+  {
+    "id": "6104112011",
+    "district_id": "610411",
+    "name": "SIMPANG TIGA SEMBELANGAAN"
+  },
+  {
+    "id": "6104112012",
+    "district_id": "610411",
+    "name": "MENSUBANG"
+  },
+  {
+    "id": "6104112013",
+    "district_id": "610411",
+    "name": "TAJOK KAYONG"
+  },
+  {
+    "id": "6104112014",
+    "district_id": "610411",
+    "name": "KAYONG UTARA"
+  },
+  {
+    "id": "6104112015",
+    "district_id": "610411",
+    "name": "KAYONG HULU"
+  },
+  {
+    "id": "6104112016",
+    "district_id": "610411",
+    "name": "SEPAKAT JAYA"
+  },
+  {
+    "id": "6104112017",
+    "district_id": "610411",
+    "name": "CEGOLAK"
+  },
+  {
+    "id": "6104112018",
+    "district_id": "610411",
+    "name": "PATEH BENTENG"
+  },
+  {
+    "id": "6104112019",
+    "district_id": "610411",
+    "name": "TANJUNG MEDAN"
+  },
+  {
+    "id": "6104112020",
+    "district_id": "610411",
+    "name": "KAYUNG TUHE"
+  }
+]

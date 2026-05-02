@@ -1,1 +1,77 @@
-[{"id": "8107011012", "district_id": "810701", "name": "GALAI DUBU"}, {"id": "8107011013", "district_id": "810701", "name": "SIWA LIMA"}, {"id": "8107012001", "district_id": "810701", "name": "UJIR"}, {"id": "8107012002", "district_id": "810701", "name": "NAFAR"}, {"id": "8107012003", "district_id": "810701", "name": "KOBRAUR"}, {"id": "8107012004", "district_id": "810701", "name": "LAU-LAU"}, {"id": "8107012005", "district_id": "810701", "name": "GORAR"}, {"id": "8107012006", "district_id": "810701", "name": "TUNGU"}, {"id": "8107012007", "district_id": "810701", "name": "TUNGUWATU"}, {"id": "8107012008", "district_id": "810701", "name": "JABULENGA"}, {"id": "8107012009", "district_id": "810701", "name": "WOKAM"}, {"id": "8107012010", "district_id": "810701", "name": "KARANGGULI"}, {"id": "8107012011", "district_id": "810701", "name": "DURJELA"}, {"id": "8107012014", "district_id": "810701", "name": "WANGEL"}, {"id": "8107012015", "district_id": "810701", "name": "SAMANG"}]
+[
+  {
+    "id": "8107011012",
+    "district_id": "810701",
+    "name": "GALAI DUBU"
+  },
+  {
+    "id": "8107011013",
+    "district_id": "810701",
+    "name": "SIWA LIMA"
+  },
+  {
+    "id": "8107012001",
+    "district_id": "810701",
+    "name": "UJIR"
+  },
+  {
+    "id": "8107012002",
+    "district_id": "810701",
+    "name": "NAFAR"
+  },
+  {
+    "id": "8107012003",
+    "district_id": "810701",
+    "name": "KOBRAUR"
+  },
+  {
+    "id": "8107012004",
+    "district_id": "810701",
+    "name": "LAU-LAU"
+  },
+  {
+    "id": "8107012005",
+    "district_id": "810701",
+    "name": "GORAR"
+  },
+  {
+    "id": "8107012006",
+    "district_id": "810701",
+    "name": "TUNGU"
+  },
+  {
+    "id": "8107012007",
+    "district_id": "810701",
+    "name": "TUNGUWATU"
+  },
+  {
+    "id": "8107012008",
+    "district_id": "810701",
+    "name": "JABULENGA"
+  },
+  {
+    "id": "8107012009",
+    "district_id": "810701",
+    "name": "WOKAM"
+  },
+  {
+    "id": "8107012010",
+    "district_id": "810701",
+    "name": "KARANGGULI"
+  },
+  {
+    "id": "8107012011",
+    "district_id": "810701",
+    "name": "DURJELA"
+  },
+  {
+    "id": "8107012014",
+    "district_id": "810701",
+    "name": "WANGEL"
+  },
+  {
+    "id": "8107012015",
+    "district_id": "810701",
+    "name": "SAMANG"
+  }
+]

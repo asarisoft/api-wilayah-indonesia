@@ -1,1 +1,77 @@
-[{"id": "1807122001", "district_id": "180712", "name": "PUGUNG RAHARJO"}, {"id": "1807122002", "district_id": "180712", "name": "MENGANDUNG SARI"}, {"id": "1807122003", "district_id": "180712", "name": "TOBA"}, {"id": "1807122004", "district_id": "180712", "name": "BANJAR AGUNG"}, {"id": "1807122005", "district_id": "180712", "name": "BOJONG"}, {"id": "1807122006", "district_id": "180712", "name": "GUNUNG AGUNG"}, {"id": "1807122007", "district_id": "180712", "name": "SINDANG ANOM"}, {"id": "1807122008", "district_id": "180712", "name": "BAUH GUNUNG SARI"}, {"id": "1807122009", "district_id": "180712", "name": "GUNUNG PASIR JAYA"}, {"id": "1807122010", "district_id": "180712", "name": "GUNUNG SUGIH BESAR"}, {"id": "1807122011", "district_id": "180712", "name": "SIDOREJO"}, {"id": "1807122012", "district_id": "180712", "name": "BRAWIJAYA"}, {"id": "1807122013", "district_id": "180712", "name": "GUNUNG MULYO"}, {"id": "1807122014", "district_id": "180712", "name": "BUMI MULYO"}, {"id": "1807122015", "district_id": "180712", "name": "PURWOKENCONO"}]
+[
+  {
+    "id": "1807122001",
+    "district_id": "180712",
+    "name": "PUGUNG RAHARJO"
+  },
+  {
+    "id": "1807122002",
+    "district_id": "180712",
+    "name": "MENGANDUNG SARI"
+  },
+  {
+    "id": "1807122003",
+    "district_id": "180712",
+    "name": "TOBA"
+  },
+  {
+    "id": "1807122004",
+    "district_id": "180712",
+    "name": "BANJAR AGUNG"
+  },
+  {
+    "id": "1807122005",
+    "district_id": "180712",
+    "name": "BOJONG"
+  },
+  {
+    "id": "1807122006",
+    "district_id": "180712",
+    "name": "GUNUNG AGUNG"
+  },
+  {
+    "id": "1807122007",
+    "district_id": "180712",
+    "name": "SINDANG ANOM"
+  },
+  {
+    "id": "1807122008",
+    "district_id": "180712",
+    "name": "BAUH GUNUNG SARI"
+  },
+  {
+    "id": "1807122009",
+    "district_id": "180712",
+    "name": "GUNUNG PASIR JAYA"
+  },
+  {
+    "id": "1807122010",
+    "district_id": "180712",
+    "name": "GUNUNG SUGIH BESAR"
+  },
+  {
+    "id": "1807122011",
+    "district_id": "180712",
+    "name": "SIDOREJO"
+  },
+  {
+    "id": "1807122012",
+    "district_id": "180712",
+    "name": "BRAWIJAYA"
+  },
+  {
+    "id": "1807122013",
+    "district_id": "180712",
+    "name": "GUNUNG MULYO"
+  },
+  {
+    "id": "1807122014",
+    "district_id": "180712",
+    "name": "BUMI MULYO"
+  },
+  {
+    "id": "1807122015",
+    "district_id": "180712",
+    "name": "PURWOKENCONO"
+  }
+]

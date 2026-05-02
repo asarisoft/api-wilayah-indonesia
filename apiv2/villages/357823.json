@@ -1,1 +1,22 @@
-[{"id": "3578231001", "district_id": "357823", "name": "JAMBANGAN"}, {"id": "3578231002", "district_id": "357823", "name": "KARAH"}, {"id": "3578231003", "district_id": "357823", "name": "KEBONSARI"}, {"id": "3578231004", "district_id": "357823", "name": "PAGESANGAN"}]
+[
+  {
+    "id": "3578231001",
+    "district_id": "357823",
+    "name": "JAMBANGAN"
+  },
+  {
+    "id": "3578231002",
+    "district_id": "357823",
+    "name": "KARAH"
+  },
+  {
+    "id": "3578231003",
+    "district_id": "357823",
+    "name": "KEBONSARI"
+  },
+  {
+    "id": "3578231004",
+    "district_id": "357823",
+    "name": "PAGESANGAN"
+  }
+]

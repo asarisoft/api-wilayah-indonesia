@@ -1,1 +1,77 @@
-[{"id": "3507182001", "district_id": "350718", "name": "KEDUNGREJO"}, {"id": "3507182002", "district_id": "350718", "name": "BANJAREJO"}, {"id": "3507182003", "district_id": "350718", "name": "PUCANGSONGO"}, {"id": "3507182004", "district_id": "350718", "name": "SUKOANYAR"}, {"id": "3507182005", "district_id": "350718", "name": "SUMBERPASIR"}, {"id": "3507182006", "district_id": "350718", "name": "PAKISKEMBAR"}, {"id": "3507182007", "district_id": "350718", "name": "SUMBERKRADENAN"}, {"id": "3507182008", "district_id": "350718", "name": "AMPELDENTO"}, {"id": "3507182009", "district_id": "350718", "name": "SEKARPURO"}, {"id": "3507182010", "district_id": "350718", "name": "MANGLIAWAN"}, {"id": "3507182011", "district_id": "350718", "name": "TIRTOMOYO"}, {"id": "3507182012", "district_id": "350718", "name": "SAPTORENGGO"}, {"id": "3507182013", "district_id": "350718", "name": "ASRIKATON"}, {"id": "3507182014", "district_id": "350718", "name": "BUNUT WETAN"}, {"id": "3507182015", "district_id": "350718", "name": "PAKISJAJAR"}]
+[
+  {
+    "id": "3507182001",
+    "district_id": "350718",
+    "name": "KEDUNGREJO"
+  },
+  {
+    "id": "3507182002",
+    "district_id": "350718",
+    "name": "BANJAREJO"
+  },
+  {
+    "id": "3507182003",
+    "district_id": "350718",
+    "name": "PUCANGSONGO"
+  },
+  {
+    "id": "3507182004",
+    "district_id": "350718",
+    "name": "SUKOANYAR"
+  },
+  {
+    "id": "3507182005",
+    "district_id": "350718",
+    "name": "SUMBERPASIR"
+  },
+  {
+    "id": "3507182006",
+    "district_id": "350718",
+    "name": "PAKISKEMBAR"
+  },
+  {
+    "id": "3507182007",
+    "district_id": "350718",
+    "name": "SUMBERKRADENAN"
+  },
+  {
+    "id": "3507182008",
+    "district_id": "350718",
+    "name": "AMPELDENTO"
+  },
+  {
+    "id": "3507182009",
+    "district_id": "350718",
+    "name": "SEKARPURO"
+  },
+  {
+    "id": "3507182010",
+    "district_id": "350718",
+    "name": "MANGLIAWAN"
+  },
+  {
+    "id": "3507182011",
+    "district_id": "350718",
+    "name": "TIRTOMOYO"
+  },
+  {
+    "id": "3507182012",
+    "district_id": "350718",
+    "name": "SAPTORENGGO"
+  },
+  {
+    "id": "3507182013",
+    "district_id": "350718",
+    "name": "ASRIKATON"
+  },
+  {
+    "id": "3507182014",
+    "district_id": "350718",
+    "name": "BUNUT WETAN"
+  },
+  {
+    "id": "3507182015",
+    "district_id": "350718",
+    "name": "PAKISJAJAR"
+  }
+]
